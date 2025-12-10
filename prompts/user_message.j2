@@ -1,0 +1,9 @@
+Here is the latest data from the RSS feeds.
+
+# Sources
+{% for source, headlines in news_feed.items() %}
+## {{ source }}:
+{% for item in headlines -%}
+* {{ item.date }}: {{ item.title }}
+{% endfor -%}
+{% endfor %}

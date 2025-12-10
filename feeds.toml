@@ -1,0 +1,54 @@
+[[feeds]]
+name = "Nikkei Asia"
+country = "Japan"
+url = "https://news.google.com/rss/search?q=site:nikkei.com&hl=en-US&gl=US&ceid=US:en"
+
+[[feeds]]
+name = "South China Morning Post"
+country = "China"
+url = "https://news.google.com/rss/search?q=site:scmp.com&hl=en-US&gl=US&ceid=US:en"
+
+[[feeds]]
+name = "Caixin Global"
+country = "China"
+url = "https://news.google.com/rss/search?q=site:caixinglobal.com&hl=en-US&gl=US&ceid=US:en"
+
+[[feeds]]
+name = "The Korea Herald"
+country = "South Korea"
+url = "https://news.google.com/rss/search?q=site:koreaherald.com&hl=en-US&gl=US&ceid=US:en"
+
+[[feeds]]
+name = "The Straits Times"
+country = "Singapore"
+url = "https://news.google.com/rss/search?q=site:straitstimes.com&hl=en-US&gl=US&ceid=US:en"
+
+[[feeds]]
+name = "The Edge"
+country = "Malaysia"
+url = "https://news.google.com/rss/search?q=site:theedgemalaysia.com&hl=en-US&gl=US&ceid=US:en"
+
+[[feeds]]
+name = "Bangkok Post"
+country = "Thailand"
+url = "https://news.google.com/rss/search?q=site:bangkokpost.com&hl=en-US&gl=US&ceid=US:en"
+
+[[feeds]]
+name = "KiriPost"
+country = "Cambodia"
+url = "https://news.google.com/rss/search?q=site:kiripost.com&hl=en-US&gl=US&ceid=US:en"
+
+[[feeds]]
+name = "VnExpress"
+country = "Vietnam"
+url = "https://news.google.com/rss/search?q=site:vnexpress.net&hl=en-US&gl=US&ceid=US:en"
+
+[[feeds]]
+name = "The Jakarta Post"
+country = "Indonesia"
+url = "https://news.google.com/rss/search?q=site:thejakartapost.com&hl=en-US&gl=US&ceid=US:en"
+
+[[feeds]]
+name = "Business World"
+country = "Philippines"
+url = "https://news.google.com/rss/search?q=site:bworldonline.com&hl=en-US&gl=US&ceid=US:en"
