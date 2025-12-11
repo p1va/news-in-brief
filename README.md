@@ -6,6 +6,16 @@ Generate an informative daily audio briefing from selected RSS feeds.
 
 </div>
 
+## Listen
+
+Listen to the show's episodes by adding the RSS URL to your favorite Podcast player (like [AntennaPod](https://antennapod.org/)) 
+
+<div align="left" style="vertical-align: middle;">
+
+![Rss](https://img.shields.io/badge/rss-F88900?logo=rss&logoColor=white) 
+`https://p1va.github.io/news-in-brief/rss.xml`
+</div>
+
 ## Installation
 
 ```sh
