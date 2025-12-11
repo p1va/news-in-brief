@@ -1,6 +1,7 @@
 import os
 import time
 from dataclasses import asdict, dataclass
+from datetime import datetime, timedelta, timezone
 from typing import Dict, List
 
 import feedparser
@@ -27,6 +28,7 @@ class NewsRepository:
         feeds: List[FeedConfig],
         storage_path: str,
         force_refresh: bool = False,
+        max_age_days: int = 7,
     ) -> Dict[str, List[NewsArticle]]:
         """
         Main entry point. Tries to load from disk first.
@@ -37,17 +39,20 @@ class NewsRepository:
             return self._load_from_parquet(storage_path)
 
         print("Fetching fresh news from RSS feeds...")
-        articles = self._fetch_from_feeds(feeds)
+        articles = self._fetch_from_feeds(feeds, max_age_days=max_age_days)
         self._save_to_parquet(articles, storage_path)
 
         # Return in the grouped format expected by the application
         return self._group_by_source(articles)
 
     def _fetch_from_feeds(
-        self, feeds: List[FeedConfig], limit: int = 50
+        self, feeds: List[FeedConfig], limit: int = 50, max_age_days: int = 7
     ) -> List[NewsArticle]:
         articles = []
-        print(f"Fetching news from {len(feeds)} sources (limit: {limit})...")
+        print(f"Fetching news from {len(feeds)} sources (limit: {limit}, max_age: {max_age_days}d)...")
+
+        now = datetime.now(timezone.utc)
+        cutoff_date = now - timedelta(days=max_age_days)
 
         for feed_config in feeds:
             display_name = f"{feed_config.country} - {feed_config.name}"
@@ -57,10 +62,28 @@ class NewsRepository:
                 if feed.status != 200:
                     raise ValueError(f"Status code {feed.status}")
 
-                entries = feed.entries[:limit]
-                print(f"  ✓ {display_name}: {len(entries)} articles")
+                # 1. Parse dates and filter
+                valid_entries = []
+                for entry in feed.entries:
+                    try:
+                        # Use pandas for robust parsing (handles most RSS formats)
+                        published_dt = pd.to_datetime(entry.published, utc=True)
+                        if published_dt >= cutoff_date:
+                            valid_entries.append((published_dt, entry))
+                    except Exception:
+                        # If parsing fails or no date, skip to ensure quality
+                        continue
 
-                for entry in entries:
+                # 2. Sort by date descending (newest first)
+                valid_entries.sort(key=lambda x: x[0], reverse=True)
+
+                # 3. Take top N
+                selected_entries = valid_entries[:limit]
+                print(
+                    f"  ✓ {display_name}: {len(selected_entries)} articles (filtered from {len(feed.entries)})"
+                )
+
+                for _, entry in selected_entries:
                     articles.append(
                         NewsArticle(
                             source=display_name,
