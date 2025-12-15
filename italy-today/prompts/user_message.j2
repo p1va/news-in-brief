@@ -1,0 +1,12 @@
+Here is the latest data from the RSS feeds followed by the last episode's scrirpt for context.
+
+# Sources
+{% for source, headlines in news_feed.items() %}
+## {{ source }}:
+{% for item in headlines -%}
+* {{ item.date }}: {{ item.title }}
+{% endfor -%}
+{% endfor %}
+
+# Script from episode of {{previous_date}}
+{{previous_script}}

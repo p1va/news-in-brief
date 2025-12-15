@@ -2,48 +2,40 @@ import argparse
 import datetime
 import os
 import sys
+from pathlib import Path
 
 from dotenv import load_dotenv
 
-from config import load_feeds
-from llm import OpenRouterLLM
-from news import NewsRepository
-from render import render_prompt_template
-from tts import TextToSpeech
+from core.config import load_show_config
+from core.llm import OpenRouterLLM
+from core.news import NewsRepository
+from core.render import render_prompt_template
+from core.rss import generate_rss_feed
+from core.tts import TextToSpeech
 
 load_dotenv()
 
-# --- Configuration ---
-ARTIFACTS_FOLDER = "artifacts"
-ISSUE_DATE = datetime.date.today().strftime("%Y-%m-%d")
-ISSUE_FOLDER_PATH = os.path.join(ARTIFACTS_FOLDER, ISSUE_DATE)
 
-# Files
-SOURCES_FILENAME = f"{ISSUE_DATE}-sources.parquet"
-SOURCES_PATH = os.path.join(ISSUE_FOLDER_PATH, SOURCES_FILENAME)
-
-SCRIPT_FILENAME = f"{ISSUE_DATE}-script.md"
-SCRIPT_PATH = os.path.join(ISSUE_FOLDER_PATH, SCRIPT_FILENAME)
-
-AUDIO_FILENAME = f"{ISSUE_DATE}-audio.mp3"
-AUDIO_PATH = os.path.join(ISSUE_FOLDER_PATH, AUDIO_FILENAME)
-
-# Models
-OPENROUTER_API_KEY = os.environ.get("OPENROUTER_API_KEY")
-MODEL_NAME = "deepseek/deepseek-v3.2-speciale"
-MODEL_FRIENDLY_NAME = "DeepSeek-V3.2-Special"
-HOST_NAME = "Amelia"
-
-
-def ensure_issue_folder():
-    if not os.path.exists(ISSUE_FOLDER_PATH):
-        print(f"Creating directory: {ISSUE_FOLDER_PATH}")
-        os.makedirs(ISSUE_FOLDER_PATH, exist_ok=True)
+def discover_shows() -> list[str]:
+    """Discover all show directories in the repository."""
+    shows = []
+    for item in Path(".").iterdir():
+        if item.is_dir() and (item / "show.toml").exists():
+            shows.append(item.name)
+    return shows
 
 
 def parse_args():
     parser = argparse.ArgumentParser(
-        description="Asia in Brief: Daily Briefing Generator"
+        description="Multi-Podcast Daily Briefing Generator"
+    )
+    parser.add_argument(
+        "--show",
+        type=str,
+        help="Show name (directory with show.toml). Use --all to generate for all shows.",
+    )
+    parser.add_argument(
+        "--all", action="store_true", help="Generate for all discovered shows"
     )
     parser.add_argument(
         "--fetch-only", action="store_true", help="Fetch news only, skip generation"
@@ -63,21 +55,62 @@ def parse_args():
         default=7,
         help="Max age of articles in days (default: 7)",
     )
+    parser.add_argument(
+        "--update-rss-only",
+        action="store_true",
+        help="Only regenerate RSS feed without creating new episode",
+    )
     return parser.parse_args()
 
 
-def main():
-    args = parse_args()
+def generate_episode(show_name: str, args):
+    """Generate a single episode for the specified show."""
+    show_dir = Path(show_name)
 
-    print(f"--- Asia in Brief: Daily Briefing Generator [{ISSUE_DATE}] ---")
-    ensure_issue_folder()
+    if not show_dir.exists():
+        print(f"Error: Show directory '{show_name}' not found.")
+        sys.exit(1)
+
+    # Load show configuration
+    try:
+        config = load_show_config(show_dir)
+    except Exception as e:
+        print(f"Error loading show config: {e}")
+        sys.exit(1)
+
+    # If only updating RSS, skip episode generation
+    if args.update_rss_only:
+        print(f"\n--- {config.metadata.name}: Updating RSS Feed ---")
+        try:
+            generate_rss_feed(show_dir)
+            print(f"RSS feed updated at {show_dir / 'rss.xml'}")
+        except Exception as e:
+            print(f"Error updating RSS feed: {e}")
+            sys.exit(1)
+        return
+
+    # Set up paths
+    issue_date = datetime.date.today().strftime("%Y-%m-%d")
+    artifacts_folder = show_dir / "artifacts"
+    issue_folder_path = artifacts_folder / issue_date
+    prompts_folder = show_dir / "prompts"
+
+    sources_path = issue_folder_path / f"{issue_date}-sources.parquet"
+    script_path = issue_folder_path / f"{issue_date}-script.md"
+    audio_path = issue_folder_path / f"{issue_date}-audio.mp3"
+
+    # Ensure issue folder exists
+    if not issue_folder_path.exists():
+        print(f"Creating directory: {issue_folder_path}")
+        issue_folder_path.mkdir(parents=True, exist_ok=True)
+
+    print(f"\n--- {config.metadata.name}: Daily Briefing Generator [{issue_date}] ---")
 
     # 1. Acquire Data
-    feeds = load_feeds()
     repo = NewsRepository()
     news_feed = repo.get_news(
-        feeds,
-        SOURCES_PATH,
+        config.feeds,
+        str(sources_path),
         force_refresh=args.force_refresh,
         max_age_days=args.max_age,
     )
@@ -90,37 +123,42 @@ def main():
         print("Fetch complete. Exiting (--fetch-only).")
         return
 
-    # Generate Script
-    if os.path.exists(SCRIPT_PATH) is False:
+    # 2. Generate Script
+    if not script_path.exists():
         print("Generating script...")
 
         # Load previous episode's script for context
         yesterday = datetime.date.today() - datetime.timedelta(days=1)
         yesterday_str = yesterday.strftime("%Y-%m-%d")
-        prev_script_path = os.path.join(
-            ARTIFACTS_FOLDER, yesterday_str, f"{yesterday_str}-script.md"
-        )
+        prev_script_path = artifacts_folder / yesterday_str / f"{yesterday_str}-script.md"
         previous_script = "No previous episode found."
-        if os.path.exists(prev_script_path):
+        if prev_script_path.exists():
             with open(prev_script_path, "r") as f:
                 previous_script = f.read()
             print(f"Loaded context from {yesterday_str}")
 
         try:
+            # Get API key
+            openrouter_api_key = os.environ.get("OPENROUTER_API_KEY")
+            if not openrouter_api_key:
+                print("Error: OPENROUTER_API_KEY not found in environment.")
+                sys.exit(1)
+
             llm = OpenRouterLLM(
-                model=MODEL_NAME,
+                model=config.llm.model,
                 system_prompt=render_prompt_template(
                     "system_prompt.j2",
                     {
-                        "current_date": ISSUE_DATE,
-                        "model_name": MODEL_FRIENDLY_NAME,
-                        "host_name": HOST_NAME,
+                        "current_date": issue_date,
+                        "model_name": config.llm.model_friendly_name,
+                        "host_name": config.metadata.host_name,
                         "today": datetime.date.today().strftime("%A %d"),
                         "include_deep_dive": args.deep_dive,
                         "yesterday_date": yesterday_str,
                     },
+                    template_dir=str(prompts_folder),
                 ),
-                api_key=OPENROUTER_API_KEY,
+                api_key=openrouter_api_key,
             )
 
             script_content = llm(
@@ -131,40 +169,77 @@ def main():
                         "previous_script": previous_script,
                         "previous_date": yesterday_str,
                     },
+                    template_dir=str(prompts_folder),
                 )
             )
 
-            with open(SCRIPT_PATH, "w") as f:
+            with open(script_path, "w") as f:
                 f.write(script_content)
 
-            print(f"Script saved to {SCRIPT_PATH}")
+            print(f"Script saved to {script_path}")
 
         except Exception as e:
             print(f"Error generating script: {e}")
             sys.exit(1)
 
-    with open(SCRIPT_PATH, "r") as f:
+    with open(script_path, "r") as f:
         script_content = f.read()
 
-    # Generate Audio
+    # 3. Generate Audio
     if args.skip_audio:
         print("Skipping audio generation (--skip-audio).")
-    elif os.path.exists(AUDIO_PATH):
-        print(f"Found existing audio at {AUDIO_PATH}. Skipping TTS.")
+    elif audio_path.exists():
+        print(f"Found existing audio at {audio_path}. Skipping TTS.")
     else:
         print("Generating audio...")
 
         try:
             tts = TextToSpeech()
-            tts(script_content, AUDIO_PATH)
+            tts(script_content, str(audio_path))
         except Exception as e:
             print(f"Failed to generate audio: {e}")
 
+    # 4. Update RSS Feed
+    print("\nUpdating RSS feed...")
+    try:
+        generate_rss_feed(show_dir)
+    except Exception as e:
+        print(f"Warning: Failed to update RSS feed: {e}")
+
     print("\n--- Process Complete ---")
-    print(f"Sources: {SOURCES_PATH}")
-    print(f"Script:  {SCRIPT_PATH}")
+    print(f"Sources: {sources_path}")
+    print(f"Script:  {script_path}")
     if not args.skip_audio:
-        print(f"Audio:   {AUDIO_PATH}")
+        print(f"Audio:   {audio_path}")
+    print(f"RSS:     {show_dir / 'rss.xml'}")
+
+
+def main():
+    args = parse_args()
+
+    # Validate arguments
+    if not args.all and not args.show:
+        print("Error: Must specify either --show <name> or --all")
+        print("\nAvailable shows:")
+        shows = discover_shows()
+        if shows:
+            for show in shows:
+                print(f"  - {show}")
+        else:
+            print("  No shows found. Create a directory with show.toml to get started.")
+        sys.exit(1)
+
+    # Generate episodes
+    if args.all:
+        shows = discover_shows()
+        if not shows:
+            print("No shows found.")
+            sys.exit(1)
+        print(f"Generating episodes for {len(shows)} show(s)...")
+        for show in shows:
+            generate_episode(show, args)
+    else:
+        generate_episode(args.show, args)
 
 
 if __name__ == "__main__":
