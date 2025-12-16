@@ -2,14 +2,16 @@
 
 # {News} In Brief
 
-Generate AI-narrated daily briefing from RSS feeds.
+Generate AI-narrated daily briefings from RSS feeds.
 
 </div>
 
 ### Listen
 
-- **[Italy Today](https://p1va.github.io/news-in-brief/italy-today/)**: Daily briefing on Italian news
-- **[Asia In Brief](https://p1va.github.io/news-in-brief/asia-in-brief/)**: Daily briefing on everything Asia
+🌐 **[briefings.my](https://briefings.my)**
+
+- **[Italy Today](https://briefings.my/italy-today/)**: Daily briefing on Italian news
+- **[Asia In Brief](https://briefings.my/asia-in-brief/)**: Daily briefing on everything Asia
 
 ## Installation
 

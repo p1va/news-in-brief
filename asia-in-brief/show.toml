@@ -18,7 +18,7 @@ voice_name = "Amelia"
 model = "eleven_v3"
 
 [rss]
-base_url = "https://p1va.github.io/news-in-brief/asia-in-brief"
+base_url = "https://briefings.my/asia-in-brief"
 
 [[feeds]]
 name = "Nikkei Asia"

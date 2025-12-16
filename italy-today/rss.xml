@@ -2,21 +2,21 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Italy Today</title>
-    <link>https://p1va.github.io/news-in-brief/italy-today</link>
+    <link>https://briefings.my/italy-today</link>
     <description>Daily briefing on Italian news</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <image>
-      <url>https://p1va.github.io/news-in-brief/italy-today/cover.png</url>
+      <url>https://briefings.my/italy-today/cover.png</url>
       <title>Italy Today</title>
-      <link>https://p1va.github.io/news-in-brief/italy-today</link>
+      <link>https://briefings.my/italy-today</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Dec 2025 08:07:38 +0000</lastBuildDate>
-    <itunes:image href="https://p1va.github.io/news-in-brief/italy-today/cover.png"/>
+    <lastBuildDate>Tue, 16 Dec 2025 09:57:56 +0000</lastBuildDate>
+    <itunes:image href="https://briefings.my/italy-today/cover.png"/>
     <item>
       <title>Italy Today - 2025-12-15</title>
-      <link>https://p1va.github.io/news-in-brief/italy-today/artifacts/2025-12-15/2025-12-15-audio.mp3</link>
+      <link>https://briefings.my/italy-today/artifacts/2025-12-15/2025-12-15-audio.mp3</link>
       <description>**THE ROMAN OBSERVER**
 Buongiorno, I am Amelia. It is Monday 15, and here is the view from Rome. Today's briefing was curated by DeepSeek-V3.2-Special.
 **PART 1: THE HEADLINES (The &quot;Terza Pagina&quot;)**
@@ -37,8 +37,8 @@ Buongiorno, I am Amelia. It is Monday 15, and here is the view from Rome. Today'
 - **IMF’s Mixed Report:** The IMF praised Italy's fiscal discipline but warned the government to &quot;keep pedaling&quot; to sustain growth and reduce public debt.  
 - **Poll Shift:** A new poll shows a dip for Fratelli d'Italia and a rise for the Democratic Party, narrowing the gap.  
 - **Ukraine Summit:** At the Berlin meeting, European leaders backed a multinational force for Ukraine and urged President Zelensky to consult his people on peace terms; Meloni said she expects &quot;progress.&quot;</description>
-      <guid isPermaLink="false">https://p1va.github.io/news-in-brief/italy-today/artifacts/2025-12-15</guid>
-      <enclosure url="https://p1va.github.io/news-in-brief/italy-today/artifacts/2025-12-15/2025-12-15-audio.mp3" length="3148113" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://briefings.my/italy-today/artifacts/2025-12-15</guid>
+      <enclosure url="https://briefings.my/italy-today/artifacts/2025-12-15/2025-12-15-audio.mp3" length="3148113" type="audio/mpeg"/>
       <pubDate>Mon, 15 Dec 2025 08:00:00 +0000</pubDate>
       <itunes:duration>196</itunes:duration>
     </item>

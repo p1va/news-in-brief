@@ -2,15 +2,21 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Asia in Brief</title>
-    <link>https://p1va.github.io/news-in-brief/asia-in-brief</link>
+    <link>https://briefings.my/asia-in-brief</link>
     <description>Daily briefing on Asian news and geopolitics</description>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
+    <image>
+      <url>https://briefings.my/asia-in-brief/cover.jpg</url>
+      <title>Asia in Brief</title>
+      <link>https://briefings.my/asia-in-brief</link>
+    </image>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Dec 2025 07:52:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 09:57:56 +0000</lastBuildDate>
+    <itunes:image href="https://briefings.my/asia-in-brief/cover.jpg"/>
     <item>
       <title>Asia in Brief - 2025-12-09</title>
-      <link>https://p1va.github.io/news-in-brief/asia-in-brief/artifacts/2025-12-09/2025-12-09-audio.mp3</link>
+      <link>https://briefings.my/asia-in-brief/artifacts/2025-12-09/2025-12-09-audio.mp3</link>
       <description># Asia in Brief
 I am your host Grok 4, today is Tuesday 09, and this is Asia in Brief.
 **Border Blitz**  
@@ -29,14 +35,14 @@ Fighting erupted along the Thai-Cambodian border near Preah Vihear and Ta Krabey
 Rooted in a 1962 ICJ ruling favoring Cambodia over Preah Vihear, tensions simmered under a fragile peace deal Thailand now rejects, citing Cambodian landmines violating accords. Kiripost frames Thai &quot;aggression&quot; as deflecting domestic scrutiny, while Bangkok Post accuses Cambodia of encroachment amid economic strains like China's export boom pressuring regional borders. Recent floods in Thailand and Cambodia, plus US trade talks, add pressure—Cambodia seeks donations for soldiers, while Thailand bolsters defenses, echoing 2011 clashes that killed dozens.
 **The Consequence**  
 ASEAN faces paralysis, with Malaysia's Anwar warning of unaffordable disputes and Trump demanding a halt, risking proxy escalations involving China (Cambodia's ally) or US influence. Global supply chains tremble: disrupted borders could spike rice prices (Thailand's key export) and hit tourism, while refugee flows strain neighbors. Japan voiced &quot;deep concern,&quot; signaling broader Indo-Pacific ripples—if unchecked, this &quot;slow burn&quot; could freeze diplomacy, hobble economic recovery in Southeast Asia's $3.5T bloc, and invite external powers to meddle in regional stability.</description>
-      <guid isPermaLink="false">https://p1va.github.io/news-in-brief/asia-in-brief/artifacts/2025-12-09</guid>
-      <enclosure url="https://p1va.github.io/news-in-brief/asia-in-brief/artifacts/2025-12-09/2025-12-09-audio.mp3" length="64828" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://briefings.my/asia-in-brief/artifacts/2025-12-09</guid>
+      <enclosure url="https://briefings.my/asia-in-brief/artifacts/2025-12-09/2025-12-09-audio.mp3" length="64828" type="audio/mpeg"/>
       <pubDate>Tue, 09 Dec 2025 08:00:00 +0000</pubDate>
       <itunes:duration>4</itunes:duration>
     </item>
     <item>
       <title>Asia in Brief - 2025-12-10</title>
-      <link>https://p1va.github.io/news-in-brief/asia-in-brief/artifacts/2025-12-10/2025-12-10-audio.mp3</link>
+      <link>https://briefings.my/asia-in-brief/artifacts/2025-12-10/2025-12-10-audio.mp3</link>
       <description>### ASIA IN BRIEF
 I am your host Amelia, today is Wednesday 10, and this is 'Asia in Brief'. Today's episode is brought to you by Grok 4, let's get into it!
 **&quot;Border Blitz&quot;**  
@@ -55,14 +61,14 @@ Thai forces launched airstrikes and tank assaults on Cambodian border sites, des
 Rooted in a 1962 ICJ ruling favoring Cambodia over Preah Vihear Temple, tensions flared over alleged landmines and territorial incursions. Bangkok Post accused Cambodia of fresh mine-laying, violating Ottawa Treaty norms, while Kiripost cited Thai &quot;aggression&quot; deflecting from domestic issues. Economic pressures, including scam syndicates in border casinos and Trump's tariff threats, add fuel—escalating a &quot;grey zone&quot; proxy for regional power plays amid China's influence and ASEAN's inertia.
 **The Consequence**  
 The clash risks ASEAN paralysis, with Cambodia withdrawing from SEA Games and Malaysia mediating amid refugee crises. Global fallout includes disrupted trade corridors, potential US intervention per Trump demands, and economic hits to tourism-dependent zones. If unchecked, it could trigger proxy wars, straining supply chains and forcing neighbors like Vietnam to pick sides in a volatile post-US election landscape.</description>
-      <guid isPermaLink="false">https://p1va.github.io/news-in-brief/asia-in-brief/artifacts/2025-12-10</guid>
-      <enclosure url="https://p1va.github.io/news-in-brief/asia-in-brief/artifacts/2025-12-10/2025-12-10-audio.mp3" length="5221609" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://briefings.my/asia-in-brief/artifacts/2025-12-10</guid>
+      <enclosure url="https://briefings.my/asia-in-brief/artifacts/2025-12-10/2025-12-10-audio.mp3" length="5221609" type="audio/mpeg"/>
       <pubDate>Wed, 10 Dec 2025 08:00:00 +0000</pubDate>
       <itunes:duration>326</itunes:duration>
     </item>
     <item>
       <title>Asia in Brief - 2025-12-11</title>
-      <link>https://p1va.github.io/news-in-brief/asia-in-brief/artifacts/2025-12-11/2025-12-11-audio.mp3</link>
+      <link>https://briefings.my/asia-in-brief/artifacts/2025-12-11/2025-12-11-audio.mp3</link>
       <description>I am your host Amelia, today is Thursday 11, and this is 'Asia in Brief'. Today's episode is brought to you by DeepSeek-V3.2-Special, let's get into it!
 **&quot;90km Inside&quot;**  
 Thai F-16s have struck up to 90 kilometers inside Cambodia, marking a major escalation in the five-day border conflict. According to Cambodia’s interior ministry, the raids hit civilian areas, raising the death toll to 11 with 74 wounded and displacing nearly 190,000 people. Phnom Penh announced it will file a war crimes complaint at the International Criminal Court, accusing Bangkok of targeting cultural sites and non-combatants. Thailand insists it is responding to Cambodian rocket attacks and says its drones are operated by foreign actors. The fighting risks drawing in outside powers and could fracture ASEAN’s already fragile unity.
@@ -70,14 +76,14 @@ Thai F-16s have struck up to 90 kilometers inside Cambodia, marking a major esca
 The United States has publicly sided with Japan in its escalating dispute with China over a radar-locking incident in the East China Sea. Washington called Beijing’s actions “provocative” and reaffirmed its security commitments to Tokyo. Japan maintains it received no prior warning before Chinese jets locked onto its aircraft, while China claims its drills were routine and accuses Japan of interference. The diplomatic chill has spilled into culture: a planned exhibition by Studio Ghibli co-founder Hayao Miyazaki was abruptly canceled in China. Analysts say President Trump faces a dilemma—balancing alliance loyalty with his desire for a reset with Beijing—as the standoff threatens $500 billion in bilateral trade.
 **&quot;Putin Courts Prabowo&quot;**  
 Russian President Vladimir Putin hosted Indonesian leader Prabowo Subianto in Moscow on Wednesday, discussing expanded military cooperation, energy deals, and wheat exports. The meeting signals Russia’s push to strengthen ties with major non-aligned economies amid Western isolation. Indonesia, the world’s fourth most populous country, has traditionally balanced relations with the US and China. Closer Jakarta-Moscow ties could give Russia a foothold in Southeast Asia and complicate Western efforts to contain its influence, while also offering Indonesia alternative sources of grain and arms as global food insecurity rises.</description>
-      <guid isPermaLink="false">https://p1va.github.io/news-in-brief/asia-in-brief/artifacts/2025-12-11</guid>
-      <enclosure url="https://p1va.github.io/news-in-brief/asia-in-brief/artifacts/2025-12-11/2025-12-11-audio.mp3" length="2708002" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://briefings.my/asia-in-brief/artifacts/2025-12-11</guid>
+      <enclosure url="https://briefings.my/asia-in-brief/artifacts/2025-12-11/2025-12-11-audio.mp3" length="2708002" type="audio/mpeg"/>
       <pubDate>Thu, 11 Dec 2025 08:00:00 +0000</pubDate>
       <itunes:duration>169</itunes:duration>
     </item>
     <item>
       <title>Asia in Brief - 2025-12-12</title>
-      <link>https://p1va.github.io/news-in-brief/asia-in-brief/artifacts/2025-12-12/2025-12-12-audio.mp3</link>
+      <link>https://briefings.my/asia-in-brief/artifacts/2025-12-12/2025-12-12-audio.mp3</link>
       <description>**ASIA IN BRIEF**
 I am your host Amelia, today is Friday 12, and this is 'Asia in Brief'. Today's episode is brought to you by DeepSeek-V3.2-Special, let's get into it!
 **&quot;Dissolution Amid Devastation&quot;**  
@@ -88,8 +94,8 @@ The Bank of Japan is set to raise interest rates for the first time in nearly a 
 The United States has launched a new international pact to secure supply chains for artificial intelligence, aiming to reduce dependence on China. The coalition, expected to include key Asian allies such as Japan and South Korea, will focus on semiconductors, critical minerals, and AI infrastructure. This is the latest move in Washington’s tech decoupling strategy and comes as Beijing orders state‑owned data centers to use domestic chips. Analysts warn the bifurcation will force countries to choose sides, reshaping global tech trade and accelerating a new cold war in innovation.
 **&quot;Hospital Under Fire&quot;**  
 A Myanmar military airstrike hit a hospital in a rebel‑controlled area on Friday, killing at least 34 people and injuring 80, according to local reports. The attack is one of the deadliest on civilian infrastructure since the 2021 coup, underscoring the junta’s increasing reliance on air power as it loses ground to ethnic rebels. With China and Russia blocking meaningful U.N. action, there is little hope for accountability, and the humanitarian crisis continues to deepen.</description>
-      <guid isPermaLink="false">https://p1va.github.io/news-in-brief/asia-in-brief/artifacts/2025-12-12</guid>
-      <enclosure url="https://p1va.github.io/news-in-brief/asia-in-brief/artifacts/2025-12-12/2025-12-12-audio.mp3" length="3044459" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://briefings.my/asia-in-brief/artifacts/2025-12-12</guid>
+      <enclosure url="https://briefings.my/asia-in-brief/artifacts/2025-12-12/2025-12-12-audio.mp3" length="3044459" type="audio/mpeg"/>
       <pubDate>Fri, 12 Dec 2025 08:00:00 +0000</pubDate>
       <itunes:duration>190</itunes:duration>
     </item>
