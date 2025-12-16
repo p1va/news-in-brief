@@ -1,6 +1,8 @@
 import os
 from datetime import datetime
 from pathlib import Path
+from xml.dom import minidom
+
 from feedgen.feed import FeedGenerator
 import pytz
 from mutagen.mp3 import MP3
@@ -94,8 +96,22 @@ def generate_rss_feed(show_dir: Path):
         except Exception as e:
             print(f"Error reading audio duration for {audio_file}: {e}")
 
-    fg.rss_str(pretty=True)
-    fg.rss_file(str(feed_file))
+    # Generate RSS XML and pretty-print it for better git diffs
+    rss_string = fg.rss_str(pretty=True)
+
+    # Use minidom to properly format the XML with nice indentation
+    dom = minidom.parseString(rss_string)
+    pretty_xml = dom.toprettyxml(indent="  ", encoding="utf-8")
+
+    # Remove extra blank lines that minidom adds
+    lines = pretty_xml.decode("utf-8").split("\n")
+    non_empty_lines = [line for line in lines if line.strip()]
+    formatted_xml = "\n".join(non_empty_lines) + "\n"
+
+    # Write the formatted XML to file
+    with open(feed_file, "w", encoding="utf-8") as f:
+        f.write(formatted_xml)
+
     print(f"RSS feed generated at {feed_file}")
 
 

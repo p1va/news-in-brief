@@ -2,48 +2,27 @@
 
 # {News} In Brief
 
-A multi-show podcast generation system that creates daily audio briefings from RSS feeds using AI.
+Generate AI-narrated daily briefing from RSS feeds.
 
 </div>
 
-## Available Shows
+### Shows
 
-### Italy Today
+#### Italy Today
+
 Daily briefing on Italian news.
 
 ![Rss](https://img.shields.io/badge/rss-F88900?logo=rss&logoColor=white)
-`https://p1va.github.io/news-in-brief/italy-today/rss.xml`
+```
+https://p1va.github.io/news-in-brief/italy-today/rss.xml
+```
 
 
-### Asia in Brief
+#### Asia in Brief
 Daily briefing on Asian news and geopolitics.
 
 ![Rss](https://img.shields.io/badge/rss-F88900?logo=rss&logoColor=white)
 `https://p1va.github.io/news-in-brief/asia-in-brief/rss.xml`
-
-## Architecture
-
-This repository supports multiple podcast shows, each with its own configuration, RSS feeds, and content. The structure allows you to run multiple shows from a single codebase.
-
-```
-news-in-brief/
-├── core/                      # Shared logic for all shows
-│   ├── config.py             # Configuration loaders
-│   ├── llm.py                # LLM integration (OpenRouter)
-│   ├── news.py               # RSS fetching & caching
-│   ├── render.py             # Jinja2 template rendering
-│   ├── rss.py                # RSS feed generation
-│   └── tts.py                # Text-to-speech (ElevenLabs)
-│
-├── asia-in-brief/            # Show directory
-│   ├── show.toml            # Show configuration
-│   ├── prompts/             # Jinja2 prompt templates
-│   ├── artifacts/           # Generated episodes
-│   │   └── YYYY-MM-DD/     # Daily episode folders
-│   └── rss.xml              # Generated RSS feed
-│
-└── main.py                   # Main generator script
-```
 
 ## Installation
 
@@ -55,12 +34,7 @@ uv sync
 
 ### Environment Variables
 
-Set these environment variables before running:
-
-```sh
-export OPENROUTER_API_KEY="your-openrouter-key"
-export ELEVENLABS_API_KEY="your-elevenlabs-key"
-```
+Before running ensure `OPENROUTER_API_KEY` and `ELEVENLABS_API_KEY` env vars are set.
 
 ### Generate Episode for a Specific Show
 
@@ -159,7 +133,3 @@ The repository is configured to serve as a GitHub Pages site, making RSS feeds a
 1. Each show directory maps to a URL path: `/{show-name}/rss.xml`
 2. Audio files are served from: `/{show-name}/artifacts/YYYY-MM-DD/YYYY-MM-DD-audio.mp3`
 3. The `.nojekyll` file disables Jekyll processing for faster deployment
-
-## License
-
-This project is open source and available under your chosen license.
