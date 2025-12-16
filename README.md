@@ -6,23 +6,10 @@ Generate AI-narrated daily briefing from RSS feeds.
 
 </div>
 
-### Shows
+### Listen
 
-#### Italy Today
-
-Daily briefing on Italian news.
-
-![Rss](https://img.shields.io/badge/rss-F88900?logo=rss&logoColor=white)
-```
-https://p1va.github.io/news-in-brief/italy-today/rss.xml
-```
-
-
-#### Asia in Brief
-Daily briefing on Asian news and geopolitics.
-
-![Rss](https://img.shields.io/badge/rss-F88900?logo=rss&logoColor=white)
-`https://p1va.github.io/news-in-brief/asia-in-brief/rss.xml`
+- **[Italy Today](https://p1va.github.io/news-in-brief/italy-today/)**: Daily briefing on Italian news
+- **[Asia In Brief](https://p1va.github.io/news-in-brief/asia-in-brief/)**: Daily briefing on everything Asia
 
 ## Installation
 
