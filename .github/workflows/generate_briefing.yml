@@ -1,0 +1,98 @@
+name: Reusable Briefing Generator
+
+on:
+  workflow_call:
+    inputs:
+      show_name:
+        description: 'Name of the show to generate (optional if all is true)'
+        required: false
+        type: string
+      all_shows:
+        description: 'Generate all shows'
+        required: false
+        type: boolean
+        default: false
+      force_refresh:
+        description: 'Force refresh RSS feeds'
+        required: false
+        type: boolean
+        default: false
+      extra_args:
+        description: 'Extra arguments to pass to the CLI'
+        required: false
+        type: string
+        default: ''
+    secrets:
+      OPENROUTER_API_KEY:
+        required: true
+      ELEVENLABS_API_KEY:
+        required: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Required to push changes
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Install uv
+      uses: astral-sh/setup-uv@v4
+      with:
+        enable-cache: true
+        cache-dependency-glob: "uv.lock"
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version-file: ".python-version"
+
+    - name: Install dependencies
+      run: uv sync --frozen
+
+    - name: Generate Briefing
+      env:
+        OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+      run: |
+        CMD="show generate"
+        
+        # Determine target
+        if [ "${{ inputs.all_shows }}" == "true" ]; then
+          CMD="$CMD --all"
+        elif [ -n "${{ inputs.show_name }}" ]; then
+          CMD="$CMD ${{ inputs.show_name }}"
+        else
+          echo "Error: Either show_name or all_shows must be set"
+          exit 1
+        fi
+        
+        # Add flags
+        if [ "${{ inputs.force_refresh }}" == "true" ]; then
+          CMD="$CMD --force-refresh"
+        fi
+        
+        if [ -n "${{ inputs.extra_args }}" ]; then
+          CMD="$CMD ${{ inputs.extra_args }}"
+        fi
+        
+        echo "Running: uv run python main.py $CMD"
+        uv run python main.py $CMD
+
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        
+        # Add all changed files (artifacts, RSS, HTML)
+        git add .
+        
+        # Commit if there are changes
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "daily: generate briefing for ${{ inputs.show_name || 'all' }} [skip ci]"
+          git push
+        fi

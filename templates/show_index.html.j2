@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ show_title }} - Podcast Player</title>
+    <meta name="description" content="{{ show_description }}">
+    <style>
+        body { font-family: -apple-system, sans-serif; max-width: 700px; margin: 0 auto; padding: 20px; background: #fff; color: #222; }
+        .back-button { display: inline-block; margin-bottom: 20px; color: #667eea; text-decoration: none; font-size: 0.9rem; transition: all 0.2s; }
+        .back-button:hover { text-decoration: underline; color: #5568d3; }
+        .header { text-align: center; border-bottom: 2px solid #eee; padding-bottom: 20px; margin-bottom: 30px; }
+        .cover-image { max-width: 200px; border-radius: 8px; margin: 0 auto 15px; display: block; }
+        .rss-link { display: inline-block; margin-top: 10px; background: #f68b1e; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-size: 0.9rem; }
+        .episode { margin-bottom: 35px; }
+        .episode h3 { margin: 0 0 5px 0; font-size: 1.3rem; }
+        .meta { color: #666; font-size: 0.9rem; margin-bottom: 10px; }
+        .description { line-height: 1.5; color: #444; margin-bottom: 15px; white-space: pre-wrap; }
+        audio { width: 100%; border-radius: 4px; }
+    </style>
+</head>
+<body>
+
+    <a href="/" class="back-button">← Back to all shows</a>
+
+    <div id="player-container">
+        <div class="header">
+            {% if show_image %}
+            <img src="{{ show_image }}" alt="{{ show_title }}" class="cover-image">
+            {% endif %}
+            <h1>{{ show_title }}</h1>
+            <p style="color: #666; margin: 10px 0;">{{ show_description }}</p>
+            <a href="{{ rss_url }}" class="rss-link" target="_blank">📡 Subscribe via RSS</a>
+        </div>
+
+        {% for episode in episodes %}
+        <div class="episode">
+            <h3>{{ episode.title }}</h3>
+            <div class="meta">{{ episode.published }}</div>
+            <div class="description">{{ episode.description | truncate(500) }}</div>
+            {% if episode.audio_url %}
+            <audio controls preload="none">
+                <source src="{{ episode.audio_url }}" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+            {% endif %}
+        </div>
+        {% endfor %}
+    </div>
+
+</body>
+</html>

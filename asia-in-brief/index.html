@@ -3,7 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Podcast Player</title>
+    <title>Asia in Brief - Podcast Player</title>
+    <meta name="description" content="Daily briefing on Asian news and geopolitics">
     <style>
         body { font-family: -apple-system, sans-serif; max-width: 700px; margin: 0 auto; padding: 20px; background: #fff; color: #222; }
         .back-button { display: inline-block; margin-bottom: 20px; color: #667eea; text-decoration: none; font-size: 0.9rem; transition: all 0.2s; }
@@ -16,8 +17,6 @@
         .meta { color: #666; font-size: 0.9rem; margin-bottom: 10px; }
         .description { line-height: 1.5; color: #444; margin-bottom: 15px; white-space: pre-wrap; }
         audio { width: 100%; border-radius: 4px; }
-        /* Simple loader */
-        .loader { text-align: center; padding: 20px; color: #888; }
     </style>
 </head>
 <body>
@@ -25,102 +24,76 @@
     <a href="/" class="back-button">← Back to all shows</a>
 
     <div id="player-container">
-        <div class="loader">Loading feed...</div>
+        <div class="header">
+            
+            <img src="https://briefings.my/asia-in-brief/cover.png" alt="Asia in Brief" class="cover-image">
+            
+            <h1>Asia in Brief</h1>
+            <p style="color: #666; margin: 10px 0;">Daily briefing on Asian news and geopolitics</p>
+            <a href="rss.xml" class="rss-link" target="_blank">📡 Subscribe via RSS</a>
+        </div>
+
+        
+        <div class="episode">
+            <h3>Asia in Brief - 2025-12-09</h3>
+            <div class="meta">2025-12-09</div>
+            <div class="description"># Asia in Brief
+I am your host Grok 4, today is Tuesday 09, and this is Asia in Brief.
+**Border Blitz**  
+Thai F-16 jets unleashed airstrikes on Cambodian positions, razing a border casino and drone control center after clashes reignited near disputed temples like Preah Vihear. Cambodian sources report seven civilian deaths and over 54,000 evacuees fleeing rocket fire into provinces like Pursat and Banteay Meanchey, while Thai officials claim defensive responses to encroachment in Sa Kaeo....</div>
+            
+            <audio controls preload="none">
+                <source src="https://briefings.my/asia-in-brief/artifacts/2025-12-09/2025-12-09-audio.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+            
+        </div>
+        
+        <div class="episode">
+            <h3>Asia in Brief - 2025-12-10</h3>
+            <div class="meta">2025-12-10</div>
+            <div class="description">### ASIA IN BRIEF
+I am your host Amelia, today is Wednesday 10, and this is 'Asia in Brief'. Today's episode is brought to you by Grok 4, let's get into it!
+**"Border Blitz"**  
+Thai F-16 jets and tanks hammered Cambodian positions near Preah Vihear and Banteay Meanchey, killing civilians and displacing 54,000, per Kiripost ground reports. Cambodia condemned the "inhumane" strikes, claiming self-defense against Thai aggression, while Bangkok insisted it's retaliating to landmine violations...</div>
+            
+            <audio controls preload="none">
+                <source src="https://briefings.my/asia-in-brief/artifacts/2025-12-10/2025-12-10-audio.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+            
+        </div>
+        
+        <div class="episode">
+            <h3>Asia in Brief - 2025-12-11</h3>
+            <div class="meta">2025-12-11</div>
+            <div class="description">I am your host Amelia, today is Thursday 11, and this is 'Asia in Brief'. Today's episode is brought to you by DeepSeek-V3.2-Special, let's get into it!
+**"90km Inside"**  
+Thai F-16s have struck up to 90 kilometers inside Cambodia, marking a major escalation in the five-day border conflict. According to Cambodia’s interior ministry, the raids hit civilian areas, raising the death toll to 11 with 74 wounded and displacing nearly 190,000 people. Phnom Penh announced it will file a war crimes...</div>
+            
+            <audio controls preload="none">
+                <source src="https://briefings.my/asia-in-brief/artifacts/2025-12-11/2025-12-11-audio.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+            
+        </div>
+        
+        <div class="episode">
+            <h3>Asia in Brief - 2025-12-12</h3>
+            <div class="meta">2025-12-12</div>
+            <div class="description">**ASIA IN BRIEF**
+I am your host Amelia, today is Friday 12, and this is 'Asia in Brief'. Today's episode is brought to you by DeepSeek-V3.2-Special, let's get into it!
+**"Dissolution Amid Devastation"**  
+Thai Prime Minister Anutin Charnvirakul dissolved parliament Friday, calling early elections for early next year. The move comes as Thai and Cambodian forces exchange fire for a sixth day along their disputed border. Anutin insists the war effort will continue unabated, but the dissolution...</div>
+            
+            <audio controls preload="none">
+                <source src="https://briefings.my/asia-in-brief/artifacts/2025-12-12/2025-12-12-audio.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+            
+        </div>
+        
     </div>
 
-    <script>
-        // ▼▼▼ CONFIGURATION ▼▼▼
-        // If the file is in the same folder, just use the filename
-        const FEED_URL = 'rss.xml'; 
-
-        document.addEventListener("DOMContentLoaded", () => {
-            fetch(FEED_URL)
-                .then(response => response.text())
-                .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
-                .then(data => {
-                    const container = document.getElementById('player-container');
-                    container.innerHTML = ''; // Clear loader
-
-                    // 1. Get Channel Info
-                    const channel = data.querySelector("channel");
-                    const channelTitle = channel.querySelector("title").textContent;
-                    const channelDesc = channel.querySelector("description") ? channel.querySelector("description").textContent : "";
-
-                    // Get cover image (try iTunes image first, then standard image)
-                    let coverUrl = "";
-                    const itunesImage = channel.querySelector("image[href]");
-                    if (itunesImage) {
-                        coverUrl = itunesImage.getAttribute("href");
-                    } else {
-                        const imageElement = channel.querySelector("image url");
-                        if (imageElement) {
-                            coverUrl = imageElement.textContent;
-                        }
-                    }
-
-                    // Render Header
-                    const header = document.createElement('div');
-                    header.className = 'header';
-                    header.innerHTML = `
-                        ${coverUrl ? `<img src="${coverUrl}" alt="${channelTitle}" class="cover-image">` : ''}
-                        <h1>${channelTitle}</h1>
-                        <p style="color: #666; margin: 10px 0;">${channelDesc}</p>
-                        <a href="${FEED_URL}" class="rss-link" target="_blank">📡 Subscribe via RSS</a>
-                    `;
-                    container.appendChild(header);
-
-                    // 2. Get Episodes and sort newest first
-                    const items = Array.from(data.querySelectorAll("item"));
-
-                    // Sort by pubDate (newest first)
-                    items.sort((a, b) => {
-                        const dateA = a.querySelector("pubDate") ? new Date(a.querySelector("pubDate").textContent) : new Date(0);
-                        const dateB = b.querySelector("pubDate") ? new Date(b.querySelector("pubDate").textContent) : new Date(0);
-                        return dateB - dateA; // Descending order (newest first)
-                    });
-
-                    items.forEach(item => {
-                        // Extract data safely
-                        const title = item.querySelector("title") ? item.querySelector("title").textContent : "Untitled";
-                        const pubDate = item.querySelector("pubDate") ? new Date(item.querySelector("pubDate").textContent).toLocaleDateString() : "";
-                        
-                        // Handle Description (often in CDATA)
-                        let desc = "";
-                        if (item.querySelector("description")) {
-                            desc = item.querySelector("description").textContent;
-                            // Truncate long descriptions (show first 500 chars)
-                            if (desc.length > 500) {
-                                desc = desc.substring(0, 500) + "...";
-                            }
-                        }
-
-                        // Find Audio File
-                        const enclosure = item.querySelector("enclosure");
-                        const audioUrl = enclosure ? enclosure.getAttribute("url") : null;
-
-                        // Only render if there is audio
-                        if (audioUrl) {
-                            const episodeDiv = document.createElement('div');
-                            episodeDiv.className = 'episode';
-                            
-                            episodeDiv.innerHTML = `
-                                <h3>${title}</h3>
-                                <div class="meta">${pubDate}</div>
-                                <div class="description">${desc}</div>
-                                <audio controls preload="none">
-                                    <source src="${audioUrl}" type="audio/mpeg">
-                                </audio>
-                            `;
-                            container.appendChild(episodeDiv);
-                        }
-                    });
-                })
-                .catch(err => {
-                    console.error(err);
-                    document.getElementById('player-container').innerHTML = 
-                        `<p style="color:red; text-align:center;">Error loading feed. <br>Check console for details.</p>`;
-                });
-        });
-    </script>
 </body>
 </html>

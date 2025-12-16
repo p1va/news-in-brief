@@ -1,0 +1,25 @@
+name: Schedule - Italy Today
+
+on:
+  schedule:
+    - cron: '0 19 * * *'
+  workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: 'Force refresh RSS feeds'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+jobs:
+  generate-italy-today:
+    uses: ./.github/workflows/generate_briefing.yml
+    with:
+      show_name: 'italy-today'
+      force_refresh: ${{ inputs.force_refresh == true }}
+    secrets:
+      OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+      ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
