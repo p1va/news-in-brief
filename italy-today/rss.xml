@@ -12,7 +12,7 @@
       <link>https://briefings.my/italy-today</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Dec 2025 09:57:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 11:03:06 +0000</lastBuildDate>
     <itunes:image href="https://briefings.my/italy-today/cover.png"/>
     <item>
       <title>Italy Today - 2025-12-15</title>
@@ -41,6 +41,20 @@ Buongiorno, I am Amelia. It is Monday 15, and here is the view from Rome. Today'
       <enclosure url="https://briefings.my/italy-today/artifacts/2025-12-15/2025-12-15-audio.mp3" length="3148113" type="audio/mpeg"/>
       <pubDate>Mon, 15 Dec 2025 08:00:00 +0000</pubDate>
       <itunes:duration>196</itunes:duration>
+    </item>
+    <item>
+      <title>Italy Today - 2025-12-16</title>
+      <link>https://briefings.my/italy-today/artifacts/2025-12-16/2025-12-16-audio.mp3</link>
+      <description>**ITALY TODAY**
+Welcome, I am your host Amelia. Today is Tuesday 16. Today's episode was curated by DeepSeek v3.2 Speciale.
+The world is closer than ever to a peace deal to end the war in Ukraine – but the final stretch is proving to be a diplomatic minefield. Italian Foreign Minister Antonio Tajani declared today that the agreement is “90 percent complete,” thanks in large part to Donald Trump’s shuttle diplomacy. Yet within hours, Moscow laid down its red lines: no NATO troops on Ukrainian soil, and no concessions on the territories it has seized – meaning Donbass and the southern regions remain firmly in Russian hands. President Zelensky, for his part, insists that Ukraine will never recognize the Donbass as Russian. Meanwhile, behind the scenes, Europe’s big three – Italy, France, and Germany – are caught in a classic Catch‑22, each waiting for the other to shoulder the political burden of pressuring Kyiv into accepting painful compromises. The left‑wing press warns that caving to Putin would reward aggression, while the right celebrates a historic chance to stop the bloodshed. For now, the champagne remains on ice.
+While diplomats wrangle over Ukraine, back in Brussels, the European Commission is preparing a major U‑turn on another front: the future of the internal combustion engine. After years of insisting that all new cars sold from 2035 must be zero‑emission, Brussels is now expected to propose a revision that would allow combustion engines to stay on the road – as long as they run on synthetic fuels or other low‑carbon technologies. The move comes after intense lobbying from Germany and Italy, home to Europe’s largest carmakers, who argued that an outright ban would cost jobs and ignore technological alternatives. Environmental groups are outraged, with left‑leaning papers like *La Repubblica* calling it a betrayal of the EU’s green transition. On the right, *Il Giornale* celebrates a return to sanity after what it calls “years of ideological diktats.”
+Meanwhile, here at home, the Italian government is opening the spending taps for defense. Prime Minister Meloni’s cabinet has signed off on four urgent decrees that unlock 3.5 billion euros for the armed forces, with the money earmarked for drones, ships, and submarines. The move signals Rome’s commitment to bolstering its military capabilities at a time when Europe is rearming in the shadow of the Ukraine war and rising tensions in the Mediterranean. The left is already questioning the priorities – arguing that the funds would be better spent on healthcare or education – while the right counters that a strong defense is non‑negotiable in an increasingly dangerous world.
+But before we go, here are a few other stories that caught our eye today. First, Italy’s inflation rate dropped to 1.1% in November, the lowest since January, thanks largely to falling energy prices – a rare bit of good news for households. Second, Rome’s city hall is set to introduce a 2‑euro ticket to visit the Trevi Fountain starting January 7th. The move could bring in an estimated 20 million euros per year, though critics call it a toll on culture. And finally, Australian police are investigating a trip the Sydney attackers made to the Philippines, suggesting international jihadist links. The death toll stands at 12, with many more wounded.</description>
+      <guid isPermaLink="false">https://briefings.my/italy-today/artifacts/2025-12-16</guid>
+      <enclosure url="https://briefings.my/italy-today/artifacts/2025-12-16/2025-12-16-audio.mp3" length="3794696" type="audio/mpeg"/>
+      <pubDate>Tue, 16 Dec 2025 08:00:00 +0000</pubDate>
+      <itunes:duration>237</itunes:duration>
     </item>
   </channel>
 </rss>

@@ -6,6 +6,8 @@
     <title>Podcast Player</title>
     <style>
         body { font-family: -apple-system, sans-serif; max-width: 700px; margin: 0 auto; padding: 20px; background: #fff; color: #222; }
+        .back-button { display: inline-block; margin-bottom: 20px; color: #667eea; text-decoration: none; font-size: 0.9rem; transition: all 0.2s; }
+        .back-button:hover { text-decoration: underline; color: #5568d3; }
         .header { text-align: center; border-bottom: 2px solid #eee; padding-bottom: 20px; margin-bottom: 30px; }
         .cover-image { max-width: 200px; border-radius: 8px; margin: 0 auto 15px; display: block; }
         .rss-link { display: inline-block; margin-top: 10px; background: #f68b1e; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-size: 0.9rem; }
@@ -19,6 +21,8 @@
     </style>
 </head>
 <body>
+
+    <a href="/" class="back-button">← Back to all shows</a>
 
     <div id="player-container">
         <div class="loader">Loading feed...</div>

@@ -6,7 +6,7 @@ email = "your@email.com"
 language = "en"
 category = "News"
 host_name = "Amelia"
-cover_image = "cover.jpg"
+cover_image = "cover.png"
 
 [llm]
 model = "deepseek/deepseek-v3.2-speciale"

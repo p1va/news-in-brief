@@ -6,12 +6,13 @@ Generate AI-narrated daily briefings from RSS feeds.
 
 </div>
 
-### Listen
-
-🌐 **[briefings.my](https://briefings.my)**
+### Shows
 
 - **[Italy Today](https://briefings.my/italy-today/)**: Daily briefing on Italian news
 - **[Asia In Brief](https://briefings.my/asia-in-brief/)**: Daily briefing on everything Asia
+
+Browse and listen them [here](https://briefings.my) 
+or subscribe to RSS feeds and use your favorite app.
 
 ## Installation
 
@@ -112,11 +113,3 @@ cp -r asia-in-brief/prompts/* my-new-show/prompts/
 ```sh
 uv run python main.py --show my-new-show
 ```
-
-## GitHub Pages Setup
-
-The repository is configured to serve as a GitHub Pages site, making RSS feeds and audio files publicly accessible.
-
-1. Each show directory maps to a URL path: `/{show-name}/rss.xml`
-2. Audio files are served from: `/{show-name}/artifacts/YYYY-MM-DD/YYYY-MM-DD-audio.mp3`
-3. The `.nojekyll` file disables Jekyll processing for faster deployment
