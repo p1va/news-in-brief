@@ -65,9 +65,16 @@
                     `;
                     container.appendChild(header);
 
-                    // 2. Get Episodes
-                    const items = data.querySelectorAll("item");
-                    
+                    // 2. Get Episodes and sort newest first
+                    const items = Array.from(data.querySelectorAll("item"));
+
+                    // Sort by pubDate (newest first)
+                    items.sort((a, b) => {
+                        const dateA = a.querySelector("pubDate") ? new Date(a.querySelector("pubDate").textContent) : new Date(0);
+                        const dateB = b.querySelector("pubDate") ? new Date(b.querySelector("pubDate").textContent) : new Date(0);
+                        return dateB - dateA; // Descending order (newest first)
+                    });
+
                     items.forEach(item => {
                         // Extract data safely
                         const title = item.querySelector("title") ? item.querySelector("title").textContent : "Untitled";
