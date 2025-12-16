@@ -29,12 +29,21 @@ app.add_typer(show_app, name="show")
 
 
 def discover_shows() -> list[str]:
-    """Discover all show directories in the repository."""
-    shows = []
+    """Discover all show directories in the repository, sorted by most recent modification."""
+    shows_with_mtime = []
     for item in Path(".").iterdir():
         if item.is_dir() and (item / "show.toml").exists():
-            shows.append(item.name)
-    return shows
+            try:
+                # Get modification time of the show.toml file as a proxy for show freshness
+                mtime = (item / "show.toml").stat().st_mtime
+                shows_with_mtime.append((item.name, mtime))
+            except FileNotFoundError:
+                # This should not happen given the exists() check, but good for robustness
+                continue
+    
+    # Sort by modification time, newest first
+    shows_with_mtime.sort(key=lambda x: x[1], reverse=True)
+    return [show_name for show_name, _ in shows_with_mtime]
 
 
 def process_episode(

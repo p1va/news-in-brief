@@ -56,6 +56,9 @@ def generate_html(show_dir: Path):
             'audio_url': audio_url
         })
     
+    # Sort episodes by published date, newest first
+    episodes.sort(key=lambda x: x['published'], reverse=True)
+
     # Setup Jinja2
     # Assuming 'templates' is in the root of the repo.
     # We need to find the repo root relative to this file.
