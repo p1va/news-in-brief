@@ -32,8 +32,6 @@ uv sync
 
 ## Usage
 
-### Environment Variables
-
 Before running ensure `OPENROUTER_API_KEY` and `ELEVENLABS_API_KEY` env vars are set.
 
 ### Generate Episode for a Specific Show
