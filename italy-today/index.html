@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Podcast Player</title>
+    <style>
+        body { font-family: -apple-system, sans-serif; max-width: 700px; margin: 0 auto; padding: 20px; background: #fff; color: #222; }
+        .header { text-align: center; border-bottom: 2px solid #eee; padding-bottom: 20px; margin-bottom: 30px; }
+        .cover-image { max-width: 200px; border-radius: 8px; margin: 0 auto 15px; display: block; }
+        .rss-link { display: inline-block; margin-top: 10px; background: #f68b1e; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-size: 0.9rem; }
+        .episode { margin-bottom: 35px; }
+        .episode h3 { margin: 0 0 5px 0; font-size: 1.3rem; }
+        .meta { color: #666; font-size: 0.9rem; margin-bottom: 10px; }
+        .description { line-height: 1.5; color: #444; margin-bottom: 15px; white-space: pre-wrap; }
+        audio { width: 100%; border-radius: 4px; }
+        /* Simple loader */
+        .loader { text-align: center; padding: 20px; color: #888; }
+    </style>
+</head>
+<body>
+
+    <div id="player-container">
+        <div class="loader">Loading feed...</div>
+    </div>
+
+    <script>
+        // ▼▼▼ CONFIGURATION ▼▼▼
+        // If the file is in the same folder, just use the filename
+        const FEED_URL = 'rss.xml'; 
+
+        document.addEventListener("DOMContentLoaded", () => {
+            fetch(FEED_URL)
+                .then(response => response.text())
+                .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+                .then(data => {
+                    const container = document.getElementById('player-container');
+                    container.innerHTML = ''; // Clear loader
+
+                    // 1. Get Channel Info
+                    const channel = data.querySelector("channel");
+                    const channelTitle = channel.querySelector("title").textContent;
+                    const channelDesc = channel.querySelector("description") ? channel.querySelector("description").textContent : "";
+
+                    // Get cover image (try iTunes image first, then standard image)
+                    let coverUrl = "";
+                    const itunesImage = channel.querySelector("image[href]");
+                    if (itunesImage) {
+                        coverUrl = itunesImage.getAttribute("href");
+                    } else {
+                        const imageElement = channel.querySelector("image url");
+                        if (imageElement) {
+                            coverUrl = imageElement.textContent;
+                        }
+                    }
+
+                    // Render Header
+                    const header = document.createElement('div');
+                    header.className = 'header';
+                    header.innerHTML = `
+                        ${coverUrl ? `<img src="${coverUrl}" alt="${channelTitle}" class="cover-image">` : ''}
+                        <h1>${channelTitle}</h1>
+                        <p style="color: #666; margin: 10px 0;">${channelDesc}</p>
+                        <a href="${FEED_URL}" class="rss-link" target="_blank">📡 Subscribe via RSS</a>
+                    `;
+                    container.appendChild(header);
+
+                    // 2. Get Episodes
+                    const items = data.querySelectorAll("item");
+                    
+                    items.forEach(item => {
+                        // Extract data safely
+                        const title = item.querySelector("title") ? item.querySelector("title").textContent : "Untitled";
+                        const pubDate = item.querySelector("pubDate") ? new Date(item.querySelector("pubDate").textContent).toLocaleDateString() : "";
+                        
+                        // Handle Description (often in CDATA)
+                        let desc = "";
+                        if (item.querySelector("description")) {
+                            desc = item.querySelector("description").textContent;
+                            // Truncate long descriptions (show first 500 chars)
+                            if (desc.length > 500) {
+                                desc = desc.substring(0, 500) + "...";
+                            }
+                        }
+
+                        // Find Audio File
+                        const enclosure = item.querySelector("enclosure");
+                        const audioUrl = enclosure ? enclosure.getAttribute("url") : null;
+
+                        // Only render if there is audio
+                        if (audioUrl) {
+                            const episodeDiv = document.createElement('div');
+                            episodeDiv.className = 'episode';
+                            
+                            episodeDiv.innerHTML = `
+                                <h3>${title}</h3>
+                                <div class="meta">${pubDate}</div>
+                                <div class="description">${desc}</div>
+                                <audio controls preload="none">
+                                    <source src="${audioUrl}" type="audio/mpeg">
+                                </audio>
+                            `;
+                            container.appendChild(episodeDiv);
+                        }
+                    });
+                })
+                .catch(err => {
+                    console.error(err);
+                    document.getElementById('player-container').innerHTML = 
+                        `<p style="color:red; text-align:center;">Error loading feed. <br>Check console for details.</p>`;
+                });
+        });
+    </script>
+</body>
+</html>

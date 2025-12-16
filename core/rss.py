@@ -33,6 +33,11 @@ def generate_rss_feed(show_dir: Path):
     fg.language(config.metadata.language)
     fg.author({'name': config.metadata.author, 'email': config.metadata.email})
 
+    # Add podcast cover image
+    cover_image_url = f"{base_url}/{config.metadata.cover_image}"
+    fg.podcast.itunes_image(cover_image_url)
+    fg.image(url=cover_image_url, title=config.metadata.name, link=base_url)
+
     # Iterate over artifact directories
     episodes = []
     if not artifacts_dir.exists():

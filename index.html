@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>News in Brief - AI-Generated Daily Briefings</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+            color: #fff;
+        }
+        .container { max-width: 1000px; margin: 0 auto; }
+        header { text-align: center; margin-bottom: 60px; }
+        h1 { font-size: 3rem; margin-bottom: 10px; font-weight: 700; }
+        .tagline { font-size: 1.2rem; opacity: 0.9; }
+        .shows { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; }
+        .show-card {
+            background: rgba(255, 255, 255, 0.95);
+            border-radius: 12px;
+            padding: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: transform 0.3s, box-shadow 0.3s;
+            color: #222;
+        }
+        .show-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+        }
+        .show-cover {
+            width: 100%;
+            aspect-ratio: 1;
+            object-fit: cover;
+            border-radius: 8px;
+            margin-bottom: 20px;
+        }
+        .show-title { font-size: 1.5rem; margin-bottom: 10px; color: #333; }
+        .show-desc { color: #666; margin-bottom: 20px; line-height: 1.5; }
+        .show-links { display: flex; gap: 10px; flex-wrap: wrap; }
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+        .btn-primary:hover { background: #5568d3; }
+        .btn-secondary {
+            background: #f68b1e;
+            color: white;
+        }
+        .btn-secondary:hover { background: #e07b0e; }
+        footer {
+            text-align: center;
+            margin-top: 60px;
+            opacity: 0.8;
+            font-size: 0.9rem;
+        }
+        footer a { color: white; text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>📰 News in Brief</h1>
+            <p class="tagline">AI-narrated daily briefings from global news sources</p>
+        </header>
+
+        <div class="shows">
+            <!-- Italy Today -->
+            <div class="show-card">
+                <img src="italy-today/cover.png" alt="Italy Today" class="show-cover">
+                <h2 class="show-title">Italy Today</h2>
+                <p class="show-desc">Daily briefing on Italian news and current affairs</p>
+                <div class="show-links">
+                    <a href="italy-today/" class="btn btn-primary">🎧 Listen</a>
+                    <a href="italy-today/rss.xml" class="btn btn-secondary">📡 RSS</a>
+                </div>
+            </div>
+
+            <!-- Asia in Brief -->
+            <div class="show-card">
+                <div class="show-cover" style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); display: flex; align-items: center; justify-content: center; font-size: 4rem;">
+                    🌏
+                </div>
+                <h2 class="show-title">Asia in Brief</h2>
+                <p class="show-desc">Daily briefing on Asian news and geopolitics</p>
+                <div class="show-links">
+                    <a href="asia-in-brief/" class="btn btn-primary">🎧 Listen</a>
+                    <a href="asia-in-brief/rss.xml" class="btn btn-secondary">📡 RSS</a>
+                </div>
+            </div>
+        </div>
+
+        <footer>
+            <p>
+                Generated using AI • Open source on
+                <a href="https://github.com/p1va/news-in-brief" target="_blank">GitHub</a>
+            </p>
+        </footer>
+    </div>
+</body>
+</html>
