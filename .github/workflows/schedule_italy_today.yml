@@ -2,7 +2,8 @@ name: Schedule - Italy Today
 
 on:
   schedule:
-    - cron: '0 19 * * *'
+    # 6 PM UTC
+    - cron: '0 18 * * *'
   workflow_dispatch:
     inputs:
       force_refresh:
