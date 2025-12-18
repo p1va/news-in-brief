@@ -9,8 +9,8 @@ host_name = "Amelia"
 cover_image = "cover.png"
 
 [llm]
-model = "deepseek/deepseek-v3.2-speciale"
-model_friendly_name = "DeepSeek v3.2 Speciale"
+model = "google/gemini-3-pro-preview"
+model_friendly_name = "Gemini 3 Pro"
 
 [tts]
 voice_id = "ZF6FPAbjXT4488VcRRnw"
