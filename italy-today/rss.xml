@@ -12,7 +12,7 @@
       <link>https://briefings.my/italy-today</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Dec 2025 18:40:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 18:44:20 +0000</lastBuildDate>
     <itunes:image href="https://briefings.my/italy-today/cover.png"/>
     <item>
       <title>Italy Today - 2025-12-15</title>
@@ -169,6 +169,30 @@ That is the state of the country today. I will see you tomorrow.</description>
       <enclosure url="https://briefings.my/italy-today/artifacts/2025-12-21/2025-12-21-audio.mp3" length="5013047" type="audio/mpeg"/>
       <pubDate>Sun, 21 Dec 2025 08:00:00 +0000</pubDate>
       <itunes:duration>313</itunes:duration>
+    </item>
+    <item>
+      <title>Italy Today - 2025-12-22</title>
+      <link>https://briefings.my/italy-today/artifacts/2025-12-22/2025-12-22-audio.mp3</link>
+      <description>**ITALY TODAY**
+Welcome, I am your host Amelia. Today is Monday, December 22. Today’s episode was curated by Gemini 3 Pro.
+**SECTION 1: THE LEAD**
+We begin today with a rare and significant intervention from the Quirinale Palace that has temporarily silenced the usual partisan shouting match.
+President Sergio Mattarella has signed five pardons—acts of clemency that cut straight through the rigid application of Italian law to address human tragedy. The most discussed case, highlighted with emotional weight by *Corriere della Sera*, is that of massive humanity shown to Franco Cioni, a man who killed his terminally ill wife to end her suffering. While the courts called it murder, Mattarella effectively called it mercy. But the President also waded into more political waters. He pardoned a Libyan footballer who had been jailed as a &quot;human trafficker&quot;—a *scafista*—simply for steering a migrant boat. While *La Repubblica* cheers this as the correction of a judicial error against a refugee, the silence from the hard Right—usually vocal about locking up smugglers—is deafening. Even *Il Giornale* reports the news straight, acknowledging the President’s prerogative without the usual polemics.
+However, the truce ends when we turn to the media wars surrounding the government. The fallout from the Turin riots, which we covered yesterday, has mutated into a high-brow feud between the Culture Minister, Alessandro Giuli, and right-wing intellectuals. *Libero Quotidiano* and *Il Giornale* are aggressively defending Giuli against accusations of being too soft on the Left, while attacking journalists like Marcello Veneziani for criticizing the government from the Right. It is a complex, internecine battle within the conservative camp, proving that in Rome, the most dangerous fire often comes from inside your own tent.
+**SECTION 2: THE ROUNDUP**
+Moving from the presidential palace to the parliamentary trenches, the battle over the budget law—the *Manovra*—has turned nasty in its final hours.
+As the Senate rushes to approve the bill before Christmas, a controversial amendment has sparked fury on the Left. *Il Fatto Quotidiano* is screaming about the so-called &quot;Norma Pogliese,&quot; a rule that limits the financial liability of public administrators and managers who waste public money, capping their repayments at 30% of the damage. *Il Fatto* frames this as &quot;wickedness against workers&quot; paired with a &quot;save-the-managers&quot; shield. *ANSA* confirms the tension in the chamber is palpable. Meanwhile, *Il Sole 24 Ore* plays the adult in the room, focusing less on the political squabbles and more on the structural reality: the &quot;maxi-amendment&quot; is being rammed through with a vote of confidence, a standard but ugly practice that effectively bypasses debate to keep the country’s accounts from collapsing by January 1st.
+Turning to the digital economy, the Italian state has taken a lucrative bite out of Silicon Valley. The Antitrust authority has slapped Apple with a fine of nearly 99 million euros. *Il Sole 24 Ore* explains that this is about data privacy and app dominance—specifically, Apple using its privacy settings to disadvantage third-party app developers while favoring its own. While *Il Post* breaks down the technicalities of the abuse of dominant position, *Libero* takes a more cynical view, noting that these fines look increasingly like a secondary tax revenue stream for the state as it struggles to find cash elsewhere.
+**SECTION 3: THE WRAP-UP**
+But before we go, here is a quick scan of the rest of the newsstand:
+First, the &quot;globalization&quot; of Italian soccer has hit a snag. *Corriere della Sera* reports a humiliating U-turn for the League: the Milan-Como match, originally scheduled to be played in Australia to wow international markets, has been cancelled and moved back to San Siro. Apparently, the logistics of flying teams to Perth for a mid-season game were exactly as impossible as they sounded.
+Also, the gossip pages are eating the news pages today. *Fanpage* and *La Stampa* are following the surreal legal battle between paparazzi king Fabrizio Corona and TV host Alfonso Signorini. Corona is now under investigation for &quot;revenge porn&quot; after allegedly threatening to release private chats. It is a story of pure noise, but it is dominating the online conversation.
+And finally, if you are planning to travel for Christmas, brace yourselves. *Il Fatto Quotidiano* and weather outlets are warning of a distinct shift: the warm spell is breaking, and snow is forecast even at low altitudes for the holidays. A &quot;White Christmas&quot; is coming, along with the inevitable traffic jams.
+That is the state of the country today. I will see you tomorrow.</description>
+      <guid isPermaLink="false">https://briefings.my/italy-today/artifacts/2025-12-22</guid>
+      <enclosure url="https://briefings.my/italy-today/artifacts/2025-12-22/2025-12-22-audio.mp3" length="5333204" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Dec 2025 08:00:00 +0000</pubDate>
+      <itunes:duration>333</itunes:duration>
     </item>
   </channel>
 </rss>
