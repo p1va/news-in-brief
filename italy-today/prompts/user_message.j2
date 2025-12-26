@@ -1,13 +1,16 @@
 Here is the latest data from the RSS feeds followed by the last episode's scrirpt for context.
 
-# Sources
-{% for source, headlines in news_feed.items() %}
-## {{ source }}:
-{% for item in headlines -%}
-* {{ item.date }}: {{ item.title }}
-{% endfor -%}
-{% endfor %}
+<todays_headlines>
+    # Sources
+    {% for source, headlines in news_feed.items() %}
+    ## {{ source }}:
+    {% for item in headlines -%}
+    * {{ item.date }}: {{ item.title }}
+    {% endfor -%}
+    {% endfor %}
+</todays_headlines>
 
-
-# Previous Episode Transcript ({{previous_date}})
-{{previous_script}}
+<previous_episode_transcript>
+    # Previous Episode Transcript ({{previous_date}})
+    {{ previous_script }}
+</previous_episode_transcript>

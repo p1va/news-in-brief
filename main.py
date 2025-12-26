@@ -52,6 +52,7 @@ def process_episode(
     force_refresh: bool = False,
     skip_audio: bool = False,
     deep_dive: bool = False,
+    use_speech_tags: bool = True,
     max_age: int = 7,
 ):
     """Generate a single episode for the specified show."""
@@ -140,6 +141,7 @@ def process_episode(
                         "host_name": config.metadata.host_name,
                         "today": datetime.date.today().strftime("%A %d"),
                         "include_deep_dive": deep_dive,
+                        "use_speech_tags": use_speech_tags,
                         "yesterday_date": yesterday_str,
                     },
                     template_dir=str(prompts_folder),
@@ -224,6 +226,9 @@ def generate(
     deep_dive: Annotated[
         bool, typer.Option("--deep-dive", help="Include deep dive section")
     ] = False,
+    use_speech_tags: Annotated[
+        bool, typer.Option("--use-speech-tags/--no-use-speech-tags", help="Enable speech tags for TTS (default: enabled)")
+    ] = True,
     max_age: Annotated[
         int, typer.Option("--max-age", help="Max age of articles in days")
     ] = 7,
@@ -255,6 +260,7 @@ def generate(
             force_refresh=force_refresh,
             skip_audio=skip_audio,
             deep_dive=deep_dive,
+            use_speech_tags=use_speech_tags,
             max_age=max_age,
         )
 

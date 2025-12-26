@@ -26,9 +26,24 @@ country = "Italy"
 url = "https://xml2.corriereobjects.it/feed-hp/homepage.xml"
 
 [[feeds]]
+name = "Il Sole Ventiquattro Ore"
+country = "Italy"
+url = "https://www.ilsole24ore.com/rss/italia.xml"
+
+[[feeds]]
+name = "Il Post"
+country = "Italy"
+url = "https://news.google.com/rss/search?q=site:ilpost.it&hl=it&gl=IT&ceid=IT:it"
+
+[[feeds]]
 name = "La Repubblica"
 country = "Italy"
 url = "https://www.repubblica.it/rss/homepage/rss2.0.xml"
+
+[[feeds]]
+name = "La Stampa"
+country = "Italy"
+url = "https://news.google.com/rss/search?q=site:lastampa.it&hl=it&gl=IT&ceid=IT:it"
 
 [[feeds]]
 name = "ANSA"
@@ -36,12 +51,7 @@ country = "Italy"
 url = "https://www.ansa.it/sito/ansait_rss.xml"
 
 [[feeds]]
-name = "Il Sole 24 Ore"
-country = "Italy"
-url = "https://www.ilsole24ore.com/rss/italia.xml"
-
-[[feeds]]
-name = "AGI - Cronaca"
+name = "AGI"
 country = "Italy"
 url = "https://www.agi.it/cronaca/rss"
 
@@ -55,8 +65,14 @@ name = "Il Fatto Quotidiano"
 country = "Italy"
 url = "https://www.ilfattoquotidiano.it/feed/"
 
+# Fanpage through Google News RSS as their direct RSS feed has bot protection
 [[feeds]]
-name = "Il Foglio - Cronaca"
+name = "Fanpage.it"
+country = "Italy"
+url = "https://news.google.com/rss/search?q=site:fanpage.it&hl=it&gl=IT&ceid=IT:it"
+
+[[feeds]]
+name = "Il Foglio"
 country = "Italy"
 url = "https://www.ilfoglio.it/cronaca/rss.xml"
 
@@ -65,30 +81,15 @@ name = "Il Giornale"
 country = "Italy"
 url = "https://www.ilgiornale.it/feed.xml"
 
-# Fanpage through Google News RSS as their direct RSS feed has bot protection
-[[feeds]]
-name = "Fanpage.it"
-country = "Italy"
-url = "https://news.google.com/rss/search?q=site:fanpage.it&hl=it&gl=IT&ceid=IT:it"
-
-
 [[feeds]]
 name = "La Verità"
 country = "Italy"
 url = "https://www.laverita.info/feeds/feed.rss"
 
 [[feeds]]
-name = "Libero Quotidiano"
+name = "Libero"
 country = "Italy"
 url = "https://news.google.com/rss/search?q=site:liberoquotidiano.it&hl=it&gl=IT&ceid=IT:it"
 
-[[feeds]]
-name = "Il Post"
-country = "Italy"
-url = "https://news.google.com/rss/search?q=site:ilpost.it&hl=it&gl=IT&ceid=IT:it"
 
-[[feeds]]
-name = "La Stampa"
-country = "Italy"
-url = "https://news.google.com/rss/search?q=site:lastampa.it&hl=it&gl=IT&ceid=IT:it"
 
