@@ -92,4 +92,9 @@ country = "Italy"
 url = "https://news.google.com/rss/search?q=site:liberoquotidiano.it&hl=it&gl=IT&ceid=IT:it"
 
 
+[[feeds]]
+name = "L'Unità"
+country = "Italy"
+url = "https://www.unita.it/feed/"
+
 

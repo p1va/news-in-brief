@@ -1,13 +1,14 @@
 [project]
-name = "asia-in-brief"
+name = "news-in-brief"
 version = "0.1.0"
-description = "Add your description here"
+description = "AI-narrated news briefs"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "elevenlabs>=2.26.1",
     "feedgen>=1.0.0",
     "feedparser>=6.0.12",
+    "google-genai>=1.56.0",
     "jinja2>=3.1.6",
     "mutagen>=1.47.0",
     "openai>=2.9.0",

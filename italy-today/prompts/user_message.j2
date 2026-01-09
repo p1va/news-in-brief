@@ -1,13 +1,14 @@
-Here is the latest data from the RSS feeds followed by the last episode's scrirpt for context.
+Here is the latest data from the RSS feeds followed by the last episode's script for context.
 
 <todays_headlines>
-    # Sources
-    {% for source, headlines in news_feed.items() %}
-    ## {{ source }}:
-    {% for item in headlines -%}
-    * {{ item.date }}: {{ item.title }}
-    {% endfor -%}
-    {% endfor %}
+{% for source, headlines in news_feed.items() -%}
+{% for item in headlines -%}
+<article source="{{ source }}" date="{{ item.date }}">
+{{ item.title }}{% if item.description %}
+{{ item.description }}{% endif %}
+</article>
+{% endfor -%}
+{% endfor -%}
 </todays_headlines>
 
 <previous_episode_transcript>

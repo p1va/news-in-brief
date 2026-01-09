@@ -1,7 +1,9 @@
 import os
+import re
 import time
 from dataclasses import asdict, dataclass
 from datetime import datetime, timedelta, timezone
+from html import unescape
 from typing import Dict, List
 
 import feedparser
@@ -16,9 +18,42 @@ class NewsArticle:
     source: str
     date: str
     title: str
+    country: str = ""
+    description: str = ""
+    author: str = ""
 
 
-def validate_article_entry(entry, source_name: str) -> tuple[bool, str, datetime | None]:
+def _clean_html(text: str) -> str:
+    """Remove HTML tags and unescape HTML entities."""
+    if not text:
+        return ""
+    # Unescape HTML entities (e.g., &amp; -> &)
+    cleaned = unescape(text)
+    # Strip HTML tags
+    cleaned = re.sub(r"<[^>]+>", "", cleaned)
+    # Normalize whitespace
+    cleaned = " ".join(cleaned.split())
+    return cleaned.strip()
+
+
+def _clean_author(author_str: str) -> str:
+    """Clean author field with additional processing for common RSS formats."""
+    if not author_str:
+        return ""
+    # First apply basic HTML cleaning
+    cleaned = _clean_html(author_str)
+    # Handle email format: "email@domain.com (Name)" -> "Name"
+    email_match = re.match(r"^[^\s]+@[^\s]+\s+\((.+)\)$", cleaned)
+    if email_match:
+        cleaned = email_match.group(1)
+    # Remove 'di ' prefix (Italian for "by")
+    cleaned = re.sub(r"^di\s+", "", cleaned, flags=re.IGNORECASE)
+    return cleaned.strip()
+
+
+def validate_article_entry(
+    entry, source_name: str
+) -> tuple[bool, str, datetime | None]:
     """
     Validate an RSS feed entry.
 
@@ -75,10 +110,12 @@ class NewsRepository:
         return self._group_by_source(articles)
 
     def _fetch_from_feeds(
-        self, feeds: List[FeedConfig], limit: int = 50, max_age_days: int = 7
+        self, feeds: List[FeedConfig], limit: int = 150, max_age_days: int = 7
     ) -> List[NewsArticle]:
         articles = []
-        print(f"Fetching news from {len(feeds)} sources (limit: {limit}, max_age: {max_age_days}d)...")
+        print(
+            f"Fetching news from {len(feeds)} sources (limit: {limit}, max_age: {max_age_days}d)..."
+        )
 
         now = datetime.now(timezone.utc)
         cutoff_date = now - timedelta(days=max_age_days)
@@ -88,7 +125,7 @@ class NewsRepository:
         validation_failures_by_reason = {}
 
         for feed_config in feeds:
-            display_name = f"{feed_config.country} - {feed_config.name}"
+            display_name = f"{feed_config.country} - {feed_config.name}"  # For logging
             try:
                 # Parse the feed
                 feed = feedparser.parse(feed_config.url)
@@ -100,7 +137,9 @@ class NewsRepository:
                 validation_failures = 0
 
                 for entry in feed.entries:
-                    is_valid, error_msg, parsed_dt = validate_article_entry(entry, display_name)
+                    is_valid, error_msg, parsed_dt = validate_article_entry(
+                        entry, display_name
+                    )
 
                     if not is_valid:
                         validation_failures += 1
@@ -127,11 +166,26 @@ class NewsRepository:
                 print(status)
 
                 for _, entry in selected_entries:
+                    # Extract and clean description (try both 'description' and 'summary')
+                    raw_description = (
+                        getattr(entry, "description", "")
+                        or getattr(entry, "summary", "")
+                        or ""
+                    )
+                    cleaned_description = _clean_html(raw_description)
+
+                    # Extract and clean author
+                    raw_author = getattr(entry, "author", "") or ""
+                    cleaned_author = _clean_author(raw_author)
+
                     articles.append(
                         NewsArticle(
-                            source=display_name,
+                            source=feed_config.name,
                             date=str(entry.published),
                             title=str(entry.title),
+                            country=feed_config.country,
+                            description=cleaned_description,
+                            author=cleaned_author,
                         )
                     )
 
@@ -143,12 +197,17 @@ class NewsRepository:
 
         # Print validation summary
         if total_validation_failures > 0:
-            print(f"\n⚠️  Validation Summary: {total_validation_failures} entries failed validation")
+            print(
+                f"\n⚠️  Validation Summary: {total_validation_failures} entries failed validation"
+            )
             print("Failure breakdown:")
-            for reason, count in sorted(validation_failures_by_reason.items(), key=lambda x: -x[1]):
+            for reason, count in sorted(
+                validation_failures_by_reason.items(), key=lambda x: -x[1]
+            ):
                 print(f"  - {reason}: {count}")
 
         return articles
+
     def _save_to_parquet(self, articles: List[NewsArticle], path: str) -> None:
         if not articles:
             print("No data to save.")
@@ -184,12 +243,20 @@ class NewsRepository:
         """Converts DataFrame back to grouped dataclasses."""
         grouped = {}
         if not df.empty:
+            # Check for new columns (backward compatibility with older parquet files)
+            has_description = "description" in df.columns
+            has_author = "author" in df.columns
+            has_country = "country" in df.columns
+
             for source, group in df.groupby("source"):
                 entries = [
                     NewsArticle(
                         date=str(row["date"]),
                         title=str(row["title"]),
                         source=str(source),
+                        country=str(row["country"]) if has_country else "",
+                        description=str(row["description"]) if has_description else "",
+                        author=str(row["author"]) if has_author else "",
                     )
                     for _, row in group.iterrows()
                 ]

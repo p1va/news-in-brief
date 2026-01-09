@@ -1,6 +1,5 @@
 import datetime
 import os
-import sys
 from pathlib import Path
 from typing import Optional
 
@@ -19,7 +18,7 @@ from core.tts import TextToSpeech
 load_dotenv()
 
 app = typer.Typer(
-    help="Multi-Podcast Daily Briefing Generator",
+    help="News In Brief",
     add_completion=False,
     no_args_is_help=True,
 )
@@ -40,7 +39,7 @@ def discover_shows() -> list[str]:
             except FileNotFoundError:
                 # This should not happen given the exists() check, but good for robustness
                 continue
-    
+
     # Sort by modification time, newest first
     shows_with_mtime.sort(key=lambda x: x[1], reverse=True)
     return [show_name for show_name, _ in shows_with_mtime]
@@ -59,7 +58,9 @@ def process_episode(
     show_dir = Path(show_name)
 
     if not show_dir.exists():
-        typer.secho(f"Error: Show directory '{show_name}' not found.", fg=typer.colors.RED)
+        typer.secho(
+            f"Error: Show directory '{show_name}' not found.", fg=typer.colors.RED
+        )
         raise typer.Exit(code=1)
 
     # Load show configuration
@@ -78,6 +79,8 @@ def process_episode(
     sources_path = issue_folder_path / f"{issue_date}-sources.parquet"
     script_path = issue_folder_path / f"{issue_date}-script.md"
     audio_path = issue_folder_path / f"{issue_date}-audio.mp3"
+    system_prompt_path = issue_folder_path / f"{issue_date}-system-prompt.md"
+    user_message_path = issue_folder_path / f"{issue_date}-user-message.md"
 
     # Ensure issue folder exists
     if not issue_folder_path.exists():
@@ -114,7 +117,9 @@ def process_episode(
         # Load previous episode's script for context
         yesterday = datetime.date.today() - datetime.timedelta(days=1)
         yesterday_str = yesterday.strftime("%Y-%m-%d")
-        prev_script_path = artifacts_folder / yesterday_str / f"{yesterday_str}-script.md"
+        prev_script_path = (
+            artifacts_folder / yesterday_str / f"{yesterday_str}-script.md"
+        )
         previous_script = "No previous episode found."
         if prev_script_path.exists():
             with open(prev_script_path, "r") as f:
@@ -131,35 +136,45 @@ def process_episode(
                 )
                 raise typer.Exit(code=1)
 
+            # Render prompts
+            system_prompt = render_prompt_template(
+                "system_prompt.j2",
+                {
+                    "current_date": issue_date,
+                    "model_name": config.llm.model_friendly_name,
+                    "host_name": config.metadata.host_name,
+                    "today": datetime.date.today().strftime("%A %d"),
+                    "include_deep_dive": deep_dive,
+                    "use_speech_tags": use_speech_tags,
+                    "yesterday_date": yesterday_str,
+                },
+                template_dir=str(prompts_folder),
+            )
+
+            user_message = render_prompt_template(
+                "user_message.j2",
+                {
+                    "news_feed": news_feed,
+                    "previous_script": previous_script,
+                    "previous_date": yesterday_str,
+                },
+                template_dir=str(prompts_folder),
+            )
+
+            # Save rendered prompts for inspection
+            with open(system_prompt_path, "w") as f:
+                f.write(system_prompt)
+            with open(user_message_path, "w") as f:
+                f.write(user_message)
+            typer.echo(f"Saved prompts to {issue_folder_path}")
+
             llm = OpenRouterLLM(
                 model=config.llm.model,
-                system_prompt=render_prompt_template(
-                    "system_prompt.j2",
-                    {
-                        "current_date": issue_date,
-                        "model_name": config.llm.model_friendly_name,
-                        "host_name": config.metadata.host_name,
-                        "today": datetime.date.today().strftime("%A %d"),
-                        "include_deep_dive": deep_dive,
-                        "use_speech_tags": use_speech_tags,
-                        "yesterday_date": yesterday_str,
-                    },
-                    template_dir=str(prompts_folder),
-                ),
+                system_prompt=system_prompt,
                 api_key=openrouter_api_key,
             )
 
-            script_content = llm(
-                render_prompt_template(
-                    "user_message.j2",
-                    {
-                        "news_feed": news_feed,
-                        "previous_script": previous_script,
-                        "previous_date": yesterday_str,
-                    },
-                    template_dir=str(prompts_folder),
-                )
-            )
+            script_content = llm(user_message)
 
             with open(script_path, "w") as f:
                 f.write(script_content)
@@ -227,7 +242,11 @@ def generate(
         bool, typer.Option("--deep-dive", help="Include deep dive section")
     ] = False,
     use_speech_tags: Annotated[
-        bool, typer.Option("--use-speech-tags/--no-use-speech-tags", help="Enable speech tags for TTS (default: enabled)")
+        bool,
+        typer.Option(
+            "--use-speech-tags/--no-use-speech-tags",
+            help="Enable speech tags for TTS (default: enabled)",
+        ),
     ] = True,
     max_age: Annotated[
         int, typer.Option("--max-age", help="Max age of articles in days")
@@ -251,7 +270,7 @@ def generate(
         typer.echo(f"Generating episodes for {len(shows_to_process)} show(s)...")
     else:
         # show_name is not None here because of the check above
-        shows_to_process = [show_name] # type: ignore
+        shows_to_process = [show_name]  # type: ignore
 
     for s in shows_to_process:
         process_episode(
@@ -290,14 +309,12 @@ def update_rss(
     if all_shows:
         shows_to_process = discover_shows()
     else:
-        shows_to_process = [show_name] # type: ignore
+        shows_to_process = [show_name]  # type: ignore
 
     for s in shows_to_process:
         show_dir = Path(s)
         if not show_dir.exists():
-            typer.secho(
-                f"Error: Show directory '{s}' not found.", fg=typer.colors.RED
-            )
+            typer.secho(f"Error: Show directory '{s}' not found.", fg=typer.colors.RED)
             continue
 
         try:
@@ -305,7 +322,9 @@ def update_rss(
             typer.echo(f"Updating RSS feed for {s}...")
             generate_rss_feed(show_dir)
             generate_html(show_dir)
-            typer.secho(f"RSS feed updated at {show_dir / 'rss.xml'}", fg=typer.colors.GREEN)
+            typer.secho(
+                f"RSS feed updated at {show_dir / 'rss.xml'}", fg=typer.colors.GREEN
+            )
         except Exception as e:
             typer.secho(f"Error updating RSS feed: {e}", fg=typer.colors.RED)
 
