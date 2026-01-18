@@ -20,6 +20,34 @@ model = "eleven_v3"
 [rss]
 base_url = "https://briefings.my/italy-today"
 
+[cleaning]
+# Universal garbage values to treat as empty
+empty_values = ["undefined", "Continua a leggere", "Read more", ""]
+# Minimum description length (shorter = treat as empty)
+min_description_length = 15
+# If description is nearly identical to title, drop it
+dedupe_title_description = true
+# Auto-clean Google News feed artifacts (strip " - {feed.name}" suffix)
+google_news_auto_clean = true
+
+# Junk topic prototypes - articles semantically similar to these get filtered
+# Uses embedding similarity, so phrasing doesn't need to be exact
+junk_topics = [
+    "Oroscopo del giorno segno zodiacale",
+    "Gossip VIP celebrity pettegolezzi",
+    "Ricetta cucina come preparare ingredienti",
+    "Programmi TV stasera anticipazioni palinsesto",
+    "Moda tendenze stilisti sfilata collezione",
+    "Cruciverba sudoku quiz giochi",
+    "Come pulire casa consigli trucchi",
+]
+junk_threshold = 0.35
+
+# HAC clustering distance threshold (0.0-1.0)
+# Lower = tighter clusters, Higher = looser (more articles grouped)
+# 0.25 = very tight, 0.40 = moderate, 0.50 = loose
+cluster_threshold = 0.40
+
 [[feeds]]
 name = "Corriere Della Sera"
 country = "Italy"
@@ -40,10 +68,11 @@ name = "La Repubblica"
 country = "Italy"
 url = "https://www.repubblica.it/rss/homepage/rss2.0.xml"
 
+# Male
 [[feeds]]
 name = "La Stampa"
 country = "Italy"
-url = "https://news.google.com/rss/search?q=site:lastampa.it&hl=it&gl=IT&ceid=IT:it"
+url = "https://www.lastampa.it/rss/copertina.xml"
 
 [[feeds]]
 name = "ANSA"
@@ -54,22 +83,23 @@ url = "https://www.ansa.it/sito/ansait_rss.xml"
 name = "AGI"
 country = "Italy"
 url = "https://www.agi.it/cronaca/rss"
+cleaning.description_prefix = "^AGI\\s*-\\s*"
 
 [[feeds]]
 name = "Adkronos"
 country = "Italy"
 url = "https://www.adnkronos.com/RSS_PrimaPagina.xml"
+cleaning.description_prefix = "^\\(Adnkronos\\)\\s*-\\s*"
 
 [[feeds]]
 name = "Il Fatto Quotidiano"
 country = "Italy"
 url = "https://www.ilfattoquotidiano.it/feed/"
 
-# Fanpage through Google News RSS as their direct RSS feed has bot protection
 [[feeds]]
 name = "Fanpage.it"
 country = "Italy"
-url = "https://news.google.com/rss/search?q=site:fanpage.it&hl=it&gl=IT&ceid=IT:it"
+url = "https://www.fanpage.it/feed/"
 
 [[feeds]]
 name = "Il Foglio"
@@ -89,12 +119,19 @@ url = "https://www.laverita.info/feeds/feed.rss"
 [[feeds]]
 name = "Libero"
 country = "Italy"
-url = "https://news.google.com/rss/search?q=site:liberoquotidiano.it&hl=it&gl=IT&ceid=IT:it"
-
+url = "https://www.liberoquotidiano.it/rss.xml"
 
 [[feeds]]
 name = "L'Unità"
 country = "Italy"
 url = "https://www.unita.it/feed/"
 
+[[feeds]]
+name = "Il Manifesto"
+country = "Italy"
+url = "https://cms.ilmanifesto.it/feed"
 
+[[feeds]]
+name = "Il Messaggero"
+country = "Italy"
+url = "https://www.ilmessaggero.it/?sez=XML&p=search&args[box]=Home&limit=100&layout=rss"

@@ -3,11 +3,15 @@ import os
 from pathlib import Path
 from typing import Optional
 
+import numpy as np
+import pandas as pd
 import typer
 from dotenv import load_dotenv
 from typing_extensions import Annotated
 
+from core.analyzer import NewsAnalyzer, generate_stories_markdown, save_stories_markdown
 from core.config import load_show_config
+from core.embeddings import generate_embeddings_for_parquet
 from core.llm import OpenRouterLLM
 from core.news import NewsRepository
 from core.render import render_prompt_template
@@ -27,34 +31,56 @@ show_app = typer.Typer(help="Manage and generate shows")
 app.add_typer(show_app, name="show")
 
 
+# Pipeline steps in order
+PIPELINE_STEPS = ["fetch", "embed", "analyze", "prompt", "script", "audio"]
+
+
+def get_step_index(step: str) -> int:
+    """Get the index of a step, or -1 if invalid."""
+    try:
+        return PIPELINE_STEPS.index(step)
+    except ValueError:
+        return -1
+
+
+def should_run_step(current_step: str, until_step: Optional[str]) -> bool:
+    """Check if we should run the current step given the --until value."""
+    if until_step is None:
+        return True
+    current_idx = get_step_index(current_step)
+    until_idx = get_step_index(until_step)
+    return current_idx <= until_idx
+
+
 def discover_shows() -> list[str]:
     """Discover all show directories in the repository, sorted by most recent modification."""
     shows_with_mtime = []
     for item in Path(".").iterdir():
         if item.is_dir() and (item / "show.toml").exists():
             try:
-                # Get modification time of the show.toml file as a proxy for show freshness
                 mtime = (item / "show.toml").stat().st_mtime
                 shows_with_mtime.append((item.name, mtime))
             except FileNotFoundError:
-                # This should not happen given the exists() check, but good for robustness
                 continue
 
-    # Sort by modification time, newest first
     shows_with_mtime.sort(key=lambda x: x[1], reverse=True)
     return [show_name for show_name, _ in shows_with_mtime]
 
 
 def process_episode(
     show_name: str,
-    fetch_only: bool = False,
+    until_step: Optional[str] = None,
     force_refresh: bool = False,
-    skip_audio: bool = False,
     deep_dive: bool = False,
     use_speech_tags: bool = True,
-    max_age: int = 7,
+    max_age: int = 2,
 ):
-    """Generate a single episode for the specified show."""
+    """
+    Generate a single episode for the specified show.
+
+    Pipeline steps: fetch → embed → analyze → prompt → script → audio
+    Use --until to stop at a specific step.
+    """
     show_dir = Path(show_name)
 
     if not show_dir.exists():
@@ -77,10 +103,14 @@ def process_episode(
     prompts_folder = show_dir / "prompts"
 
     sources_path = issue_folder_path / f"{issue_date}-sources.parquet"
-    script_path = issue_folder_path / f"{issue_date}-script.md"
-    audio_path = issue_folder_path / f"{issue_date}-audio.mp3"
+    embeddings_path = (
+        issue_folder_path / f"{issue_date}-sources-with-embeddings.parquet"
+    )
+    stories_path = issue_folder_path / f"{issue_date}-stories.md"
     system_prompt_path = issue_folder_path / f"{issue_date}-system-prompt.md"
     user_message_path = issue_folder_path / f"{issue_date}-user-message.md"
+    script_path = issue_folder_path / f"{issue_date}-script.md"
+    audio_path = issue_folder_path / f"{issue_date}-audio.mp3"
 
     # Ensure issue folder exists
     if not issue_folder_path.exists():
@@ -92,27 +122,121 @@ def process_episode(
         fg=typer.colors.BLUE,
         bold=True,
     )
+    if until_step:
+        typer.echo(f"Running pipeline until: {until_step}")
 
-    # 1. Acquire Data
-    repo = NewsRepository()
-    news_feed = repo.get_news(
-        config.feeds,
-        str(sources_path),
-        force_refresh=force_refresh,
-        max_age_days=max_age,
-    )
+    # =========================================================================
+    # STEP 1: FETCH - RSS feeds → parquet
+    # =========================================================================
+    if should_run_step("fetch", until_step):
+        typer.echo("\n[1/6] Fetching RSS feeds...")
+        repo = NewsRepository()
+        news_feed = repo.get_news(
+            config.feeds,
+            str(sources_path),
+            force_refresh=force_refresh,
+            max_age_days=max_age,
+            cleaning_config=config.cleaning,
+        )
 
-    if not news_feed:
-        typer.secho("No news data available. Exiting.", fg=typer.colors.YELLOW)
-        raise typer.Exit(code=1)
+        if not news_feed:
+            typer.secho("No news data available. Exiting.", fg=typer.colors.YELLOW)
+            raise typer.Exit(code=1)
 
-    if fetch_only:
-        typer.secho("Fetch complete. Exiting (--fetch-only).", fg=typer.colors.GREEN)
-        return
+        typer.secho(
+            f"Fetched {sum(len(v) for v in news_feed.values())} articles",
+            fg=typer.colors.GREEN,
+        )
 
-    # 2. Generate Script
-    if not script_path.exists():
-        typer.echo("Generating script...")
+        if not should_run_step("embed", until_step):
+            typer.secho("\n--- Stopped at: fetch ---", fg=typer.colors.GREEN, bold=True)
+            typer.echo(f"Output: {sources_path}")
+            return
+
+    # =========================================================================
+    # STEP 2: EMBED - Generate embeddings
+    # =========================================================================
+    if should_run_step("embed", until_step):
+        typer.echo("\n[2/6] Generating embeddings...")
+
+        if not sources_path.exists():
+            typer.secho(
+                "Error: Sources parquet not found. Run 'fetch' step first.",
+                fg=typer.colors.RED,
+            )
+            raise typer.Exit(code=1)
+
+        embeddings_path = generate_embeddings_for_parquet(sources_path)
+        typer.secho(f"Embeddings saved to {embeddings_path}", fg=typer.colors.GREEN)
+
+        if not should_run_step("analyze", until_step):
+            typer.secho("\n--- Stopped at: embed ---", fg=typer.colors.GREEN, bold=True)
+            typer.echo(f"Output: {embeddings_path}")
+            return
+
+    # =========================================================================
+    # STEP 3: ANALYZE - Cluster + junk detection → stories.md
+    # =========================================================================
+    stories_markdown = ""
+    if should_run_step("analyze", until_step):
+        typer.echo("\n[3/6] Analyzing stories (clustering + junk filtering)...")
+
+        if not embeddings_path.exists():
+            typer.secho(
+                "Error: Embeddings parquet not found. Run 'embed' step first.",
+                fg=typer.colors.RED,
+            )
+            raise typer.Exit(code=1)
+
+        df = pd.read_parquet(embeddings_path)
+        embeddings = np.array(df["embedding"].tolist())
+
+        analyzer = NewsAnalyzer(
+            threshold=config.cleaning.cluster_threshold,
+            cleaning_config=config.cleaning,
+        )
+        analysis = analyzer.analyze(df, embeddings, filter_junk=True)
+
+        typer.echo(
+            f"Found {len(analysis.top_stories)} top stories, "
+            f"{len(analysis.niche_stories)} niche, "
+            f"{analysis.junk_article_count} junk filtered"
+        )
+
+        stories_markdown = generate_stories_markdown(analysis, issue_date)
+        save_stories_markdown(analysis, stories_path, issue_date)
+        typer.secho(f"Stories saved to {stories_path}", fg=typer.colors.GREEN)
+
+        if not should_run_step("prompt", until_step):
+            typer.secho(
+                "\n--- Stopped at: analyze ---", fg=typer.colors.GREEN, bold=True
+            )
+            typer.echo(f"Output: {stories_path}")
+            return
+
+    # =========================================================================
+    # STEP 4: PROMPT - Render prompts → markdown files
+    # =========================================================================
+    if should_run_step("prompt", until_step):
+        typer.echo("\n[4/6] Rendering prompts...")
+
+        # Load stories markdown if we didn't just generate it
+        if not stories_markdown and stories_path.exists():
+            stories_markdown = stories_path.read_text()
+
+        # Load news feed for prompt
+        if not sources_path.exists():
+            typer.secho("Error: Sources parquet not found.", fg=typer.colors.RED)
+            raise typer.Exit(code=1)
+
+        repo = NewsRepository()
+        news_feed = repo.get_news(
+            config.feeds,
+            str(sources_path),
+            force_refresh=False,
+            max_age_days=max_age,
+            cleaning_config=config.cleaning,
+        )
 
         # Load previous episode's script for context
         yesterday = datetime.date.today() - datetime.timedelta(days=1)
@@ -122,12 +246,65 @@ def process_episode(
         )
         previous_script = "No previous episode found."
         if prev_script_path.exists():
-            with open(prev_script_path, "r") as f:
-                previous_script = f.read()
+            previous_script = prev_script_path.read_text()
             typer.echo(f"Loaded context from {yesterday_str}")
 
-        try:
-            # Get API key
+        system_prompt = render_prompt_template(
+            "system_prompt.j2",
+            {
+                "current_date": issue_date,
+                "model_name": config.llm.model_friendly_name,
+                # "host_name": config.metadata.host_name,
+                "today": datetime.date.today().strftime("%A %d"),
+                "include_deep_dive": deep_dive,
+                "use_speech_tags": use_speech_tags,
+                "yesterday_date": yesterday_str,
+            },
+            template_dir=str(prompts_folder),
+        )
+
+        user_message = render_prompt_template(
+            "user_message.j2",
+            {
+                "news_feed": news_feed,
+                "previous_script": previous_script,
+                "previous_date": yesterday_str,
+                "stories_context": stories_markdown,
+            },
+            template_dir=str(prompts_folder),
+        )
+
+        system_prompt_path.write_text(system_prompt)
+        user_message_path.write_text(user_message)
+        typer.secho(f"Prompts saved to {issue_folder_path}", fg=typer.colors.GREEN)
+
+        if not should_run_step("script", until_step):
+            typer.secho(
+                "\n--- Stopped at: prompt ---", fg=typer.colors.GREEN, bold=True
+            )
+            typer.echo(f"System prompt: {system_prompt_path}")
+            typer.echo(f"User message:  {user_message_path}")
+            return
+
+    # =========================================================================
+    # STEP 5: SCRIPT - LLM call → script.md
+    # =========================================================================
+    if should_run_step("script", until_step):
+        typer.echo("\n[5/6] Generating script via LLM...")
+
+        if script_path.exists():
+            typer.echo(f"Script already exists at {script_path}. Skipping LLM call.")
+        else:
+            if not system_prompt_path.exists() or not user_message_path.exists():
+                typer.secho(
+                    "Error: Prompts not found. Run 'prompt' step first.",
+                    fg=typer.colors.RED,
+                )
+                raise typer.Exit(code=1)
+
+            system_prompt = system_prompt_path.read_text()
+            user_message = user_message_path.read_text()
+
             openrouter_api_key = os.environ.get("OPENROUTER_API_KEY")
             if not openrouter_api_key:
                 typer.secho(
@@ -136,38 +313,6 @@ def process_episode(
                 )
                 raise typer.Exit(code=1)
 
-            # Render prompts
-            system_prompt = render_prompt_template(
-                "system_prompt.j2",
-                {
-                    "current_date": issue_date,
-                    "model_name": config.llm.model_friendly_name,
-                    "host_name": config.metadata.host_name,
-                    "today": datetime.date.today().strftime("%A %d"),
-                    "include_deep_dive": deep_dive,
-                    "use_speech_tags": use_speech_tags,
-                    "yesterday_date": yesterday_str,
-                },
-                template_dir=str(prompts_folder),
-            )
-
-            user_message = render_prompt_template(
-                "user_message.j2",
-                {
-                    "news_feed": news_feed,
-                    "previous_script": previous_script,
-                    "previous_date": yesterday_str,
-                },
-                template_dir=str(prompts_folder),
-            )
-
-            # Save rendered prompts for inspection
-            with open(system_prompt_path, "w") as f:
-                f.write(system_prompt)
-            with open(user_message_path, "w") as f:
-                f.write(user_message)
-            typer.echo(f"Saved prompts to {issue_folder_path}")
-
             llm = OpenRouterLLM(
                 model=config.llm.model,
                 system_prompt=system_prompt,
@@ -175,34 +320,44 @@ def process_episode(
             )
 
             script_content = llm(user_message)
+            script_path.write_text(script_content)
+            typer.secho(f"Script saved to {script_path}", fg=typer.colors.GREEN)
 
-            with open(script_path, "w") as f:
-                f.write(script_content)
+        if not should_run_step("audio", until_step):
+            typer.secho(
+                "\n--- Stopped at: script ---", fg=typer.colors.GREEN, bold=True
+            )
+            typer.echo(f"Output: {script_path}")
+            return
 
-            typer.echo(f"Script saved to {script_path}")
+    # =========================================================================
+    # STEP 6: AUDIO - TTS → audio.mp3
+    # =========================================================================
+    if should_run_step("audio", until_step):
+        typer.echo("\n[6/6] Generating audio via TTS...")
 
-        except Exception as e:
-            typer.secho(f"Error generating script: {e}", fg=typer.colors.RED)
-            raise typer.Exit(code=1)
+        if audio_path.exists():
+            typer.echo(f"Audio already exists at {audio_path}. Skipping TTS.")
+        else:
+            if not script_path.exists():
+                typer.secho(
+                    "Error: Script not found. Run 'script' step first.",
+                    fg=typer.colors.RED,
+                )
+                raise typer.Exit(code=1)
 
-    with open(script_path, "r") as f:
-        script_content = f.read()
+            script_content = script_path.read_text()
 
-    # 3. Generate Audio
-    if skip_audio:
-        typer.echo("Skipping audio generation (--skip-audio).")
-    elif audio_path.exists():
-        typer.echo(f"Found existing audio at {audio_path}. Skipping TTS.")
-    else:
-        typer.echo("Generating audio...")
+            try:
+                tts = TextToSpeech()
+                tts(script_content, str(audio_path))
+                typer.secho(f"Audio saved to {audio_path}", fg=typer.colors.GREEN)
+            except Exception as e:
+                typer.secho(f"Failed to generate audio: {e}", fg=typer.colors.RED)
 
-        try:
-            tts = TextToSpeech()
-            tts(script_content, str(audio_path))
-        except Exception as e:
-            typer.secho(f"Failed to generate audio: {e}", fg=typer.colors.RED)
-
-    # 4. Update RSS Feed
+    # =========================================================================
+    # FINALIZE - Update RSS feed
+    # =========================================================================
     typer.echo("\nUpdating RSS feed...")
     try:
         generate_rss_feed(show_dir)
@@ -210,12 +365,25 @@ def process_episode(
     except Exception as e:
         typer.secho(f"Warning: Failed to update RSS/HTML: {e}", fg=typer.colors.YELLOW)
 
-    typer.secho("\n--- Process Complete ---", fg=typer.colors.GREEN, bold=True)
-    typer.echo(f"Sources: {sources_path}")
-    typer.echo(f"Script:  {script_path}")
-    if not skip_audio:
-        typer.echo(f"Audio:   {audio_path}")
-    typer.echo(f"RSS:     {show_dir / 'rss.xml'}")
+    typer.secho("\n--- Pipeline Complete ---", fg=typer.colors.GREEN, bold=True)
+    typer.echo(f"Sources:  {sources_path}")
+    typer.echo(f"Stories:  {stories_path}")
+    typer.echo(f"Prompts:  {system_prompt_path}")
+    typer.echo(f"Script:   {script_path}")
+    typer.echo(f"Audio:    {audio_path}")
+    typer.echo(f"RSS:      {show_dir / 'rss.xml'}")
+
+
+def validate_until_step(value: Optional[str]) -> Optional[str]:
+    """Validate the --until step value."""
+    if value is None:
+        return None
+    if value not in PIPELINE_STEPS:
+        valid_steps = ", ".join(PIPELINE_STEPS)
+        raise typer.BadParameter(
+            f"Invalid step '{value}'. Valid steps are: {valid_steps}"
+        )
+    return value
 
 
 @show_app.command(name="generate")
@@ -229,17 +397,20 @@ def generate(
     all_shows: Annotated[
         bool, typer.Option("--all", "-a", help="Generate for all discovered shows")
     ] = False,
-    fetch_only: Annotated[
-        bool, typer.Option("--fetch-only", help="Fetch news only, skip generation")
-    ] = False,
+    until: Annotated[
+        Optional[str],
+        typer.Option(
+            "--until",
+            "-u",
+            help="Stop after this step. Steps: fetch, embed, analyze, prompt, script, audio",
+            callback=validate_until_step,
+        ),
+    ] = None,
     force_refresh: Annotated[
-        bool, typer.Option("--force-refresh", help="Force refresh from RSS feeds")
-    ] = False,
-    skip_audio: Annotated[
-        bool, typer.Option("--skip-audio", help="Skip audio generation")
+        bool, typer.Option("--force-refresh", "-f", help="Force refresh from RSS feeds")
     ] = False,
     deep_dive: Annotated[
-        bool, typer.Option("--deep-dive", help="Include deep dive section")
+        bool, typer.Option("--deep-dive", help="Include deep dive section in prompt")
     ] = False,
     use_speech_tags: Annotated[
         bool,
@@ -250,10 +421,23 @@ def generate(
     ] = True,
     max_age: Annotated[
         int, typer.Option("--max-age", help="Max age of articles in days")
-    ] = 7,
+    ] = 2,
 ):
     """
     Generate daily briefing episode(s).
+
+    Pipeline steps (in order):
+      1. fetch   - Download RSS feeds → parquet
+      2. embed   - Generate embeddings for articles
+      3. analyze - Cluster stories + filter junk → stories.md
+      4. prompt  - Render LLM prompts → markdown files
+      5. script  - Call LLM → script.md
+      6. audio   - Generate TTS → audio.mp3
+
+    Examples:
+      python main.py show generate italy-today --until fetch
+      python main.py show generate italy-today --until analyze
+      python main.py show generate italy-today  # full pipeline
     """
     if not show_name and not all_shows:
         typer.secho(
@@ -269,15 +453,13 @@ def generate(
             raise typer.Exit(code=1)
         typer.echo(f"Generating episodes for {len(shows_to_process)} show(s)...")
     else:
-        # show_name is not None here because of the check above
         shows_to_process = [show_name]  # type: ignore
 
     for s in shows_to_process:
         process_episode(
             s,
-            fetch_only=fetch_only,
+            until_step=until,
             force_refresh=force_refresh,
-            skip_audio=skip_audio,
             deep_dive=deep_dive,
             use_speech_tags=use_speech_tags,
             max_age=max_age,
@@ -318,7 +500,6 @@ def update_rss(
             continue
 
         try:
-            # We need to load config just to print the name, or just use dir name
             typer.echo(f"Updating RSS feed for {s}...")
             generate_rss_feed(show_dir)
             generate_html(show_dir)

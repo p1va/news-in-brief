@@ -1,0 +1,9 @@
+# Coverage Pulse - {{ date }}
+
+{% for cluster in analysis.top_stories[:max_stories] -%}
+## {{ loop.index }}. {{ cluster.label }}
+{% for article in cluster.articles -%}
+- {{ article.source }}: {{ article.title }}
+{% endfor %}
+
+{% endfor -%}

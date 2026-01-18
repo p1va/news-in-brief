@@ -1,4 +1,13 @@
-Here is the latest data from the RSS feeds followed by the last episode's script for context.
+Here is the latest data for today's show:
+- In <coverage_pulse> find a pre-processed list of the most widely reported stories.
+- In <todays_headlines> find the full list of RSS news grouped by sources.
+- In <previous_episode_transcript> find the script for the last episode for context.
+
+{% if stories_context %}
+<coverage_pulse>
+{{ stories_context }}
+</coverage_pulse>
+{% endif %}
 
 <todays_headlines>
 {% for source, headlines in news_feed.items() -%}
@@ -12,6 +21,6 @@ Here is the latest data from the RSS feeds followed by the last episode's script
 </todays_headlines>
 
 <previous_episode_transcript>
-    # Previous Episode Transcript ({{previous_date}})
-    {{ previous_script }}
+# Previous Episode Transcript ({{previous_date}})
+{{ previous_script }}
 </previous_episode_transcript>

@@ -4,13 +4,19 @@ import time
 from dataclasses import asdict, dataclass
 from datetime import datetime, timedelta, timezone
 from html import unescape
-from typing import Dict, List
+from typing import Dict, List, Optional
 
 import feedparser
 import pandas as pd
 from dateutil import parser as dateutil_parser
 
-from core.config import FeedConfig
+from core.config import CleaningConfig, FeedCleaningConfig, FeedConfig
+
+# Browser-like headers required by some CDNs (e.g., fanpage.it blocks requests without Accept-Encoding)
+_FEED_REQUEST_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:147.0) Gecko/20100101 Firefox/147.0",
+    "Accept-Encoding": "gzip, deflate",
+}
 
 
 @dataclass
@@ -49,6 +55,77 @@ def _clean_author(author_str: str) -> str:
     # Remove 'di ' prefix (Italian for "by")
     cleaned = re.sub(r"^di\s+", "", cleaned, flags=re.IGNORECASE)
     return cleaned.strip()
+
+
+def _is_google_news_url(url: str) -> bool:
+    """Check if URL is a Google News RSS feed."""
+    return "news.google.com" in url
+
+
+def _normalize_for_comparison(text: str) -> str:
+    """Normalize text for comparison (lowercase, strip whitespace/punctuation)."""
+    return re.sub(r"[\s\-–—|]+", " ", text.lower()).strip()
+
+
+def clean_article(
+    title: str,
+    description: str,
+    feed_config: FeedConfig,
+    cleaning_config: Optional[CleaningConfig] = None,
+) -> tuple[str, str]:
+    """
+    Apply cleaning rules to article title and description.
+
+    Returns:
+        (cleaned_title, cleaned_description)
+    """
+    if cleaning_config is None:
+        cleaning_config = CleaningConfig()
+
+    cleaned_title = title
+    cleaned_desc = description
+
+    # 1. Auto-clean Google News artifacts
+    if cleaning_config.google_news_auto_clean and _is_google_news_url(feed_config.url):
+        # Google News appends " - Source Name" to titles
+        suffix_pattern = rf"\s*-\s*{re.escape(feed_config.name)}$"
+        cleaned_title = re.sub(suffix_pattern, "", cleaned_title)
+        # Description often has same pattern but without hyphen
+        desc_suffix_pattern = rf"\s+{re.escape(feed_config.name)}$"
+        cleaned_desc = re.sub(desc_suffix_pattern, "", cleaned_desc)
+
+    # 2. Apply per-feed cleaning patterns
+    if feed_config.cleaning:
+        fc = feed_config.cleaning
+        if fc.title_prefix:
+            cleaned_title = re.sub(f"^{fc.title_prefix}", "", cleaned_title)
+        if fc.title_suffix:
+            cleaned_title = re.sub(f"{fc.title_suffix}$", "", cleaned_title)
+        if fc.description_prefix:
+            cleaned_desc = re.sub(f"^{fc.description_prefix}", "", cleaned_desc)
+        if fc.description_suffix:
+            cleaned_desc = re.sub(f"{fc.description_suffix}$", "", cleaned_desc)
+
+    # 3. Strip whitespace after pattern removal
+    cleaned_title = cleaned_title.strip()
+    cleaned_desc = cleaned_desc.strip()
+
+    # 4. Check for empty/useless description values
+    if cleaned_desc in cleaning_config.empty_values:
+        cleaned_desc = ""
+
+    # 5. Check minimum description length
+    if len(cleaned_desc) < cleaning_config.min_description_length:
+        cleaned_desc = ""
+
+    # 6. Dedupe: if description ≈ title, drop description
+    if cleaning_config.dedupe_title_description and cleaned_desc:
+        norm_title = _normalize_for_comparison(cleaned_title)
+        norm_desc = _normalize_for_comparison(cleaned_desc)
+        if norm_title == norm_desc:
+            cleaned_desc = ""
+
+    return cleaned_title, cleaned_desc
 
 
 def validate_article_entry(
@@ -93,6 +170,7 @@ class NewsRepository:
         storage_path: str,
         force_refresh: bool = False,
         max_age_days: int = 7,
+        cleaning_config: Optional[CleaningConfig] = None,
     ) -> Dict[str, List[NewsArticle]]:
         """
         Main entry point. Tries to load from disk first.
@@ -103,14 +181,20 @@ class NewsRepository:
             return self._load_from_parquet(storage_path)
 
         print("Fetching fresh news from RSS feeds...")
-        articles = self._fetch_from_feeds(feeds, max_age_days=max_age_days)
+        articles = self._fetch_from_feeds(
+            feeds, max_age_days=max_age_days, cleaning_config=cleaning_config
+        )
         self._save_to_parquet(articles, storage_path)
 
         # Return in the grouped format expected by the application
         return self._group_by_source(articles)
 
     def _fetch_from_feeds(
-        self, feeds: List[FeedConfig], limit: int = 150, max_age_days: int = 7
+        self,
+        feeds: List[FeedConfig],
+        limit: int = 150,
+        max_age_days: int = 7,
+        cleaning_config: Optional[CleaningConfig] = None,
     ) -> List[NewsArticle]:
         articles = []
         print(
@@ -127,8 +211,10 @@ class NewsRepository:
         for feed_config in feeds:
             display_name = f"{feed_config.country} - {feed_config.name}"  # For logging
             try:
-                # Parse the feed
-                feed = feedparser.parse(feed_config.url)
+                # Parse the feed (with browser-like headers for CDN compatibility)
+                feed = feedparser.parse(
+                    feed_config.url, request_headers=_FEED_REQUEST_HEADERS
+                )
                 if feed.status != 200:
                     raise ValueError(f"Status code {feed.status}")
 
@@ -172,7 +258,16 @@ class NewsRepository:
                         or getattr(entry, "summary", "")
                         or ""
                     )
-                    cleaned_description = _clean_html(raw_description)
+                    html_cleaned_description = _clean_html(raw_description)
+                    html_cleaned_title = _clean_html(str(entry.title))
+
+                    # Apply cleaning rules (Google News, per-feed patterns, etc.)
+                    cleaned_title, cleaned_description = clean_article(
+                        html_cleaned_title,
+                        html_cleaned_description,
+                        feed_config,
+                        cleaning_config,
+                    )
 
                     # Extract and clean author
                     raw_author = getattr(entry, "author", "") or ""
@@ -182,7 +277,7 @@ class NewsRepository:
                         NewsArticle(
                             source=feed_config.name,
                             date=str(entry.published),
-                            title=str(entry.title),
+                            title=cleaned_title,
                             country=feed_config.country,
                             description=cleaned_description,
                             author=cleaned_author,
@@ -206,7 +301,22 @@ class NewsRepository:
             ):
                 print(f"  - {reason}: {count}")
 
-        return articles
+        # Deduplicate articles by (source, title) - keeps first occurrence
+        seen = set()
+        unique_articles = []
+        duplicates_removed = 0
+        for article in articles:
+            key = (article.source, article.title)
+            if key not in seen:
+                seen.add(key)
+                unique_articles.append(article)
+            else:
+                duplicates_removed += 1
+
+        if duplicates_removed > 0:
+            print(f"\n🧹 Removed {duplicates_removed} duplicate articles (same source + title)")
+
+        return unique_articles
 
     def _save_to_parquet(self, articles: List[NewsArticle], path: str) -> None:
         if not articles:
