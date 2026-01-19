@@ -191,16 +191,12 @@ def process_episode(
         df = pd.read_parquet(embeddings_path)
         embeddings = np.array(df["embedding"].tolist())
 
-        analyzer = NewsAnalyzer(
-            threshold=config.cleaning.cluster_threshold,
-            cleaning_config=config.cleaning,
-        )
-        analysis = analyzer.analyze(df, embeddings, filter_junk=True)
+        analyzer = NewsAnalyzer(threshold=config.cleaning.cluster_threshold)
+        analysis = analyzer.analyze(df, embeddings)
 
         typer.echo(
             f"Found {len(analysis.top_stories)} top stories, "
-            f"{len(analysis.niche_stories)} niche, "
-            f"{analysis.junk_article_count} junk filtered"
+            f"{len(analysis.niche_stories)} niche"
         )
 
         stories_markdown = generate_stories_markdown(analysis, issue_date)

@@ -27,6 +27,7 @@ class NewsArticle:
     country: str = ""
     description: str = ""
     author: str = ""
+    link: str = ""
 
 
 def _clean_html(text: str) -> str:
@@ -273,6 +274,9 @@ class NewsRepository:
                     raw_author = getattr(entry, "author", "") or ""
                     cleaned_author = _clean_author(raw_author)
 
+                    # Extract link
+                    article_link = getattr(entry, "link", "") or ""
+
                     articles.append(
                         NewsArticle(
                             source=feed_config.name,
@@ -281,6 +285,7 @@ class NewsRepository:
                             country=feed_config.country,
                             description=cleaned_description,
                             author=cleaned_author,
+                            link=article_link,
                         )
                     )
 
@@ -357,6 +362,7 @@ class NewsRepository:
             has_description = "description" in df.columns
             has_author = "author" in df.columns
             has_country = "country" in df.columns
+            has_link = "link" in df.columns
 
             for source, group in df.groupby("source"):
                 entries = [
@@ -367,6 +373,7 @@ class NewsRepository:
                         country=str(row["country"]) if has_country else "",
                         description=str(row["description"]) if has_description else "",
                         author=str(row["author"]) if has_author else "",
+                        link=str(row["link"]) if has_link else "",
                     )
                     for _, row in group.iterrows()
                 ]

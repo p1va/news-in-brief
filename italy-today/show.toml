@@ -30,21 +30,7 @@ dedupe_title_description = true
 # Auto-clean Google News feed artifacts (strip " - {feed.name}" suffix)
 google_news_auto_clean = true
 
-# Junk topic prototypes - articles semantically similar to these get filtered
-# Uses embedding similarity, so phrasing doesn't need to be exact
-junk_topics = [
-    "Oroscopo del giorno segno zodiacale",
-    "Gossip VIP celebrity pettegolezzi",
-    "Ricetta cucina come preparare ingredienti",
-    "Programmi TV stasera anticipazioni palinsesto",
-    "Moda tendenze stilisti sfilata collezione",
-    "Cruciverba sudoku quiz giochi",
-    "Come pulire casa consigli trucchi",
-]
-junk_threshold = 0.35
-
 # HAC clustering distance threshold (0.0-1.0)
-# Lower = tighter clusters, Higher = looser (more articles grouped)
 # 0.25 = very tight, 0.40 = moderate, 0.50 = loose
 cluster_threshold = 0.40
 
@@ -59,16 +45,10 @@ country = "Italy"
 url = "https://www.ilsole24ore.com/rss/italia.xml"
 
 [[feeds]]
-name = "Il Post"
-country = "Italy"
-url = "https://news.google.com/rss/search?q=site:ilpost.it&hl=it&gl=IT&ceid=IT:it"
-
-[[feeds]]
 name = "La Repubblica"
 country = "Italy"
 url = "https://www.repubblica.it/rss/homepage/rss2.0.xml"
 
-# Male
 [[feeds]]
 name = "La Stampa"
 country = "Italy"
@@ -100,6 +80,11 @@ url = "https://www.ilfattoquotidiano.it/feed/"
 name = "Fanpage.it"
 country = "Italy"
 url = "https://www.fanpage.it/feed/"
+
+[[feeds]]
+name = "Il Post"
+country = "Italy"
+url = "https://news.google.com/rss/search?q=site:ilpost.it&hl=it&gl=IT&ceid=IT:it"
 
 [[feeds]]
 name = "Il Foglio"

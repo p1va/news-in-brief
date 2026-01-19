@@ -31,11 +31,6 @@ class CleaningConfig:
     dedupe_title_description: bool = True
     # Auto-clean Google News feed artifacts (strip " - {feed.name}" suffix)
     google_news_auto_clean: bool = True
-    # Junk topic prototypes to filter out (semantic similarity matching)
-    # Articles semantically similar to these phrases get flagged as junk
-    junk_topics: List[str] = field(default_factory=list)
-    # Similarity threshold for junk detection (0.0-1.0, higher = stricter)
-    junk_threshold: float = 0.35
     # HAC clustering distance threshold (0.0-1.0)
     # Lower = tighter clusters (articles must be very similar)
     # Higher = looser clusters (more articles grouped together)
@@ -146,8 +141,6 @@ def load_show_config(show_dir: Path) -> ShowConfig:
                     "dedupe_title_description", True
                 ),
                 google_news_auto_clean=cleaning_data.get("google_news_auto_clean", True),
-                junk_topics=cleaning_data.get("junk_topics", []),
-                junk_threshold=cleaning_data.get("junk_threshold", 0.35),
                 cluster_threshold=cleaning_data.get("cluster_threshold", 0.40),
             )
 

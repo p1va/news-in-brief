@@ -1,7 +1,14 @@
 Here is the latest data for today's show:
+- In <previous_episode_transcript> find the script for the last episode for context.
 - In <coverage_pulse> find a pre-processed list of the most widely reported stories.
 - In <todays_headlines> find the full list of RSS news grouped by sources.
-- In <previous_episode_transcript> find the script for the last episode for context.
+
+{% if previous_script %}
+<previous_episode_transcript>
+# Previous Episode Transcript ({{previous_date}})
+{{ previous_script }}
+</previous_episode_transcript>
+{% endif %}
 
 {% if stories_context %}
 <coverage_pulse>
@@ -20,7 +27,3 @@ Here is the latest data for today's show:
 {% endfor -%}
 </todays_headlines>
 
-<previous_episode_transcript>
-# Previous Episode Transcript ({{previous_date}})
-{{ previous_script }}
-</previous_episode_transcript>
