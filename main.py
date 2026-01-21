@@ -17,6 +17,7 @@ from core.news import NewsRepository
 from core.render import render_prompt_template
 from core.rss import generate_rss_feed
 from core.site import generate_html
+from core.sources_view import generate_sources_view
 from core.tts import TextToSpeech
 
 load_dotenv()
@@ -202,6 +203,16 @@ def process_episode(
         stories_markdown = generate_stories_markdown(analysis, issue_date)
         save_stories_markdown(analysis, stories_path, issue_date)
         typer.secho(f"Stories saved to {stories_path}", fg=typer.colors.GREEN)
+
+        # Generate sources view HTML
+        sources_view_path = issue_folder_path / f"{issue_date}-sources-view.html"
+        generate_sources_view(
+            embeddings_path=embeddings_path,
+            output_path=sources_view_path,
+            reference_date=issue_date,
+            threshold=config.cleaning.cluster_threshold,
+        )
+        typer.secho(f"Sources view saved to {sources_view_path}", fg=typer.colors.GREEN)
 
         if not should_run_step("prompt", until_step):
             typer.secho(

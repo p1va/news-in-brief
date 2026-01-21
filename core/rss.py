@@ -91,6 +91,12 @@ def generate_rss_feed(show_dir: Path):
             except Exception as e:
                 print(f"Error reading script {script_file}: {e}")
 
+        # Add sources view link if it exists
+        sources_view_file = date_dir / f"{date_str}-sources-view.html"
+        if sources_view_file.exists():
+            sources_view_url = f"{base_url}/artifacts/{date_str}/{sources_view_file.name}"
+            description += f"\n\n---\nView all sources: {sources_view_url}"
+
         fe.description(description)
 
         # iTunes tags
