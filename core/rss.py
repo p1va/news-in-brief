@@ -86,16 +86,15 @@ def generate_rss_feed(show_dir: Path):
         if script_file.exists():
             try:
                 with open(script_file, "r", encoding="utf-8") as f:
-                    content = f.read()
-                    description = content
+                    description = f.read()
             except Exception as e:
                 print(f"Error reading script {script_file}: {e}")
 
-        # Add sources view link if it exists
+        # Prepend sources view link if it exists
         sources_view_file = date_dir / f"{date_str}-sources-view.html"
         if sources_view_file.exists():
             sources_view_url = f"{base_url}/artifacts/{date_str}/{sources_view_file.name}"
-            description += f"\n\n---\nView all sources: {sources_view_url}"
+            description = f"View all sources: {sources_view_url}\n\n---\n\n{description}"
 
         fe.description(description)
 
