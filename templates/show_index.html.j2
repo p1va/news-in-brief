@@ -16,6 +16,9 @@
         .episode h3 { margin: 0 0 5px 0; font-size: 1.3rem; }
         .meta { color: #666; font-size: 0.9rem; margin-bottom: 10px; }
         .description { line-height: 1.5; color: #444; margin-bottom: 15px; white-space: pre-wrap; }
+        .sources-link { margin-bottom: 10px; }
+        .sources-link a { color: #667eea; text-decoration: none; font-size: 0.9rem; }
+        .sources-link a:hover { text-decoration: underline; }
         audio { width: 100%; border-radius: 4px; }
     </style>
 </head>
@@ -37,6 +40,9 @@
         <div class="episode">
             <h3>{{ episode.title }}</h3>
             <div class="meta">{{ episode.published }}</div>
+            {% if episode.sources_url %}
+            <div class="sources-link"><a href="{{ episode.sources_url }}" target="_blank">View all sources</a></div>
+            {% endif %}
             <div class="description">{{ episode.description | truncate(500) }}</div>
             {% if episode.audio_url %}
             <audio controls preload="none">
