@@ -24,10 +24,19 @@ class TextToSpeech:
 
         self.client = ElevenLabs(api_key=self.api_key)
 
-    def __call__(self, text: str, output_path: str) -> None:
+    def __call__(self, text: str, output_path: str, max_chars: int = 5000) -> None:
         """
         Generates audio from text using ElevenLabs API and saves it to the specified path.
+
+        Args:
+            text: The text to convert to speech.
+            output_path: Path to save the audio file.
+            max_chars: Maximum characters to send to TTS (default 5000).
         """
+        if len(text) > max_chars:
+            print(f"Warning: Text truncated from {len(text)} to {max_chars} characters")
+            text = text[:max_chars]
+
         print(
             f"Generating audio with voice_id={self.voice_id} model_id={self.model_id}..."
         )

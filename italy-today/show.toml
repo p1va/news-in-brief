@@ -120,3 +120,18 @@ url = "https://cms.ilmanifesto.it/feed"
 name = "Il Messaggero"
 country = "Italy"
 url = "https://www.ilmessaggero.it/?sez=XML&p=search&args[box]=Home&limit=100&layout=rss"
+
+[[feeds]]
+name = "Governo Italiano - Comunicati Stampa"
+country = "Italy"
+url = "https://www.governo.it/feed/rss"
+
+[[feeds]]
+name = "Camera Dei Deputati - Ultimi Temi"
+country = "Italy"
+url = "https://documenti.camera.it/rss/temi/bridgeUltimiTemiRss.xml"
+
+[[feeds]]
+name = "Senato Della Repubblica - Comunicato Di Fine Seduta"
+country = "Italy"
+url = "https://www.senato.it/leg19/feeds/1/1252.xml"

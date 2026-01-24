@@ -1,7 +1,7 @@
 Here is the latest data for today's show:
 - In <previous_episode_transcript> find the script for the last episode for context.
-- In <coverage_pulse> find a pre-processed list of the most widely reported stories.
-- In <todays_headlines> find the full list of RSS news grouped by sources.
+- In <clustered_headlines> find the "Top Stories" (widely covered).
+- In <other_headlines> find news that were only covered by single source.
 
 {% if previous_script %}
 <previous_episode_transcript>
@@ -11,12 +11,12 @@ Here is the latest data for today's show:
 {% endif %}
 
 {% if stories_context %}
-<coverage_pulse>
+<clustered_headlines>
 {{ stories_context }}
-</coverage_pulse>
+</clustered_headlines>
 {% endif %}
 
-<todays_headlines>
+<other_headlines>
 {% for source, headlines in news_feed.items() -%}
 {% for item in headlines -%}
 <article source="{{ source }}" date="{{ item.date }}">
@@ -25,5 +25,5 @@ Here is the latest data for today's show:
 </article>
 {% endfor -%}
 {% endfor -%}
-</todays_headlines>
+</other_headlines>
 

@@ -1,4 +1,5 @@
 import datetime
+import re
 import time
 from pathlib import Path
 
@@ -49,10 +50,19 @@ def generate_html(show_dir: Path):
             except Exception:
                 pass # Fallback to original string
 
+        # Extract sources URL if present at the beginning of description
+        description = entry.get('description', '')
+        sources_url = None
+        sources_match = re.match(r'^View all sources: (https?://[^\s]+)\s*\n---\n+', description)
+        if sources_match:
+            sources_url = sources_match.group(1)
+            description = description[sources_match.end():]
+
         episodes.append({
             'title': entry.get('title', 'Untitled'),
             'published': pub_date,
-            'description': entry.get('description', ''),
+            'description': description,
+            'sources_url': sources_url,
             'audio_url': audio_url
         })
     

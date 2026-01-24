@@ -2,8 +2,12 @@
 
 {% for cluster in analysis.top_stories[:max_stories] -%}
 ## {{ loop.index }}. {{ cluster.label }}
+{% if cluster.description %}
+> **Context:** {{ cluster.description }}
+{% endif %}
 {% for article in cluster.articles -%}
-- {{ article.source }}: {{ article.title }}
+- **{{ article.source }}**: {{ article.title }}
+{% if article.description %}  - {{ article.description }}{% endif %}
 {% endfor %}
 
 {% endfor -%}
