@@ -6,8 +6,7 @@
 > **Context:** {{ cluster.description }}
 {% endif %}
 {% for article in cluster.articles -%}
-- **{{ article.source }}**: {{ article.title }}
-{% if article.description %}  - {{ article.description }}{% endif %}
+- **{{ article.source }}**: {{ article.title }} {% if article.description %}{{ article.description }}{% endif %}
 {% endfor %}
 
 {% endfor -%}

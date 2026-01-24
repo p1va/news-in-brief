@@ -245,6 +245,43 @@ def process_episode(
             cleaning_config=config.cleaning,
         )
 
+        # Filter out stories that are already in the Top Stories clusters
+        # to avoid redundancy and highlight "hidden gems"
+        if stories_markdown and embeddings_path.exists():
+            # We need to re-run analysis briefly or load it if we want exact matching,
+            # but since we don't have the Analysis object here (it's in the loop above),
+            # we can just use the fact that we have the full feed.
+            # Actually, simpler: Let's just create a set of (source, title) from the markdown text
+            # OR re-run the analyzer if we are in a fresh run.
+            # The most robust way without re-running is to trust the template logic? No, template can't filter.
+            # We must filter `news_feed` here.
+
+            # Re-load analysis to identify clustered articles
+            df = pd.read_parquet(embeddings_path)
+            embeddings = np.array(df["embedding"].tolist())
+            analyzer = NewsAnalyzer(threshold=config.cleaning.cluster_threshold)
+            analysis = analyzer.analyze(df, embeddings)
+
+            clustered_articles = set()
+            for cluster in analysis.top_stories:
+                for article in cluster.articles:
+                    clustered_articles.add((article["source"], article["title"]))
+
+            # Filter news_feed
+            filtered_feed = {}
+            for source, articles in news_feed.items():
+                filtered_articles = []
+                for article in articles:
+                    if (article.source, article.title) not in clustered_articles:
+                        filtered_articles.append(article)
+                if filtered_articles:
+                    filtered_feed[source] = filtered_articles
+
+            news_feed = filtered_feed
+            typer.echo(
+                f"Filtered {len(clustered_articles)} clustered articles from the raw feed."
+            )
+
         # Load previous episode's script for context
         yesterday = datetime.date.today() - datetime.timedelta(days=1)
         yesterday_str = yesterday.strftime("%Y-%m-%d")
@@ -425,10 +462,10 @@ def generate(
             "--use-speech-tags/--no-use-speech-tags",
             help="Enable speech tags for TTS (default: enabled)",
         ),
-    ] = True,
+    ] = False,
     max_age: Annotated[
         int, typer.Option("--max-age", help="Max age of articles in days")
-    ] = 2,
+    ] = 1,
 ):
     """
     Generate daily briefing episode(s).
