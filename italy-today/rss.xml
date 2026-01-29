@@ -12,7 +12,7 @@
       <link>https://briefings.my/italy-today</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jan 2026 18:57:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 19:04:30 +0000</lastBuildDate>
     <itunes:image href="https://briefings.my/italy-today/cover.png"/>
     <item>
       <title>Italy Today - 2025-12-15</title>
@@ -937,6 +937,31 @@ That is the state of the country today. I will see you tomorrow.</description>
       <enclosure url="https://briefings.my/italy-today/artifacts/2026-01-27/2026-01-27-audio.mp3" length="5486595" type="audio/mpeg"/>
       <pubDate>Tue, 27 Jan 2026 08:00:00 +0000</pubDate>
       <itunes:duration>342</itunes:duration>
+    </item>
+    <item>
+      <title>Italy Today - 2026-01-29</title>
+      <link>https://briefings.my/italy-today/artifacts/2026-01-29/2026-01-29-audio.mp3</link>
+      <description>View all sources: https://briefings.my/italy-today/artifacts/2026-01-29/2026-01-29-sources-view.html
+---
+Welcome to another episode of &quot;Italy Today&quot;, today is Thursday, January 29th, and this episode was curated by Gemini 3 Pro.
+We begin with the blitz.
+The island of Sicily is quite literally sliding into the sea, with a landslide in Niscemi now exceeding the volume of the infamous Vajont disaster. The Constitutional Court has delivered a stinging rebuke to the government’s &quot;zero tolerance&quot; highway code, ruling that drug traces alone are not enough to strip a license. Tensions rise in the classroom as the Ministry of Education authorizes metal detectors in schools to combat youth violence. In foreign affairs, rumors of a Ukraine truce brokered by Donald Trump are circulating, though dismissed by Nato officials in Rome. And finally, the government has been forced to scrap a controversial &quot;shield&quot; for employers underpaying workers from the PNRR decree, reportedly after a quiet intervention from the President of the Republic.
+But the earth is moving in Sicily, and that is where we must start.
+The situation in Niscemi, a town in the province of Caltanissetta, has graduated from a local emergency to a national political crisis. The technical numbers provided by *Il Sole Ventiquattro Ore* are terrifying: a landslide front of four and a half kilometers, involving 350 million cubic meters of earth. For context, the head of Civil Protection, Fabio Ciciliano, stated on SkyTG24 that this mass is nearly one and a half times the size of the landslide that caused the Vajont dam disaster in 1963. While thankfully no one has died, 1,300 people are displaced, the town is cracking apart, and the finger-pointing has begun in earnest.
+The political fault lines are as deep as the geological ones. On the left, *La Repubblica* and the opposition parties are demanding immediate accountability, calling for the resignation of Civil Protection Minister Nello Musumeci—who was previously the Governor of Sicily—and demanding Premier Giorgia Meloni report to Parliament. Their narrative is one of criminal negligence and ignored warnings. Conversely, the government defense, led by *Libero* and *Il Giornale*, frames this as a legacy issue, a disaster thirty years in the making that the current administration has inherited, not caused. Governor Renato Schifani, attempting to dodge the blame, claimed in *Corriere della Sera* that the municipality never sent an alarm in the last nine years—a defense that sounds thin given the scale of the disaster.
+But the real, structural conflict here isn't just about who ignored the cracks in the ground; it represents a brutal battle over resources. As the region cries out for emergency money to rebuild roads and stabilize hillsides, the Sicilian assembly voted to divert funds earmarked for Matteo Salvini’s crown jewel project—the Bridge over the Strait of Messina—to fix the hydrogeological instability instead. Salvini, the Minister of Infrastructure, immediately fired back, stating, &quot;The Bridge funds are not to be touched.&quot; This sets up a vicious internal conflict within the Right: the ideological necessity of building a bridge to connect the island, versus the practical reality that the island itself is crumbling before the bridge can even be built.
+Moving from the laws of physics to the laws of the land, the Constitutional Court has thrown a wrench into the government’s signature security agenda.
+In a ruling that *La Stampa* and legal experts seek to highlight as a victory for due process, the Court declared that Article 187 of the Highway Code is partially illegitimate. Until yesterday, under the strict &quot;drug driving&quot; rules championed by Matteo Salvini, a driver could be convicted simply for testing positive for drug traces, even if those traces were from consumption days or weeks prior. The Court has ruled that this is unconstitutional: to be punished criminally, a driver must be in an actual &quot;state of alteration&quot; while behind the wheel.
+This is a significant blow to the &quot;law and order&quot; narrative of the ruling coalition. While *Il Giornale* and *Libero* are downplaying the rebuke, focusing on the safety aspects, the opposition press equates this to a rejection of populist jurisprudence. It essentially forces the police to return to a more complex, evidential standard—proving impairment, not just presence—which changes the mechanics of law enforcement on Italian roads overnight.
+Meanwhile, deep in the bureaucratic machinery of Rome, a quieter but equally significant institutional clash took place regarding the PNRR, the National Recovery and Resilience Plan.
+According to *Il Fatto Quotidiano* and later confirmed by *Corriere della Sera*, the government intended to include a &quot;shield&quot; in the latest decree. This provision would have allowed entrepreneurs who had underpaid workers on PNRR projects to avoid paying arrears if they simply &quot;fixed&quot; the situation moving forward. It was a deregulation designed to speed up projects and protect businesses. However, the clause vanished before the decree reached the Cabinet. Sources indicate this was due to &quot;moral suasion&quot; from the Quirinale—the office of President Sergio Mattarella—which flagged the norm as unconstitutional and unjust to workers. It is a classic example of the &quot;invisible hand&quot; of the Italian presidency keeping the legislative machine within the guardrails, a story often missed if you only look at the shouting matches in Parliament.
+But before we go, let's look up toward the heavens—or at least, the roof of St. Peter's Basilica.
+In a move that blends the sacred with the distinctly profane, *ANSA* reports that plans are underway to expand a refreshment point on the roof of the Vatican, effectively creating a &quot;Bistrot on the Dome.&quot; While the Basilica insists it will remain a &quot;sober place,&quot; the idea of sipping a cappuccino or perhaps an aperitivo while looking down on Bernini’s colonnade has purists clutching their rosaries and tourists checking their wallets. It seems that even in the Eternal City, the hospitality sector is the one religion that converts everyone.
+I will see you tomorrow.</description>
+      <guid isPermaLink="false">https://briefings.my/italy-today/artifacts/2026-01-29</guid>
+      <enclosure url="https://briefings.my/italy-today/artifacts/2026-01-29/2026-01-29-audio.mp3" length="5708113" type="audio/mpeg"/>
+      <pubDate>Thu, 29 Jan 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>356</itunes:duration>
     </item>
   </channel>
 </rss>
