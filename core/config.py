@@ -69,6 +69,7 @@ class TTSConfig:
     voice_id: str
     voice_name: str
     model: str
+    provider: str = "elevenlabs"  # Default to elevenlabs for backward compatibility
 
 
 @dataclass

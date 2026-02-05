@@ -73,7 +73,7 @@ def process_episode(
     until_step: Optional[str] = None,
     force_refresh: bool = False,
     deep_dive: bool = False,
-    use_speech_tags: bool = True,
+    use_speech_tags: bool = False,
     max_age: int = 2,
 ):
     """
@@ -393,7 +393,11 @@ def process_episode(
             script_content = script_path.read_text()
 
             try:
-                tts = TextToSpeech()
+                tts = TextToSpeech(
+                    voice_id=config.tts.voice_id,
+                    model_id=config.tts.model,
+                    provider=config.tts.provider,
+                )
                 tts(script_content, str(audio_path))
                 typer.secho(f"Audio saved to {audio_path}", fg=typer.colors.GREEN)
             except Exception as e:
@@ -460,7 +464,7 @@ def generate(
         bool,
         typer.Option(
             "--use-speech-tags/--no-use-speech-tags",
-            help="Enable speech tags for TTS (default: enabled)",
+            help="Enable speech tags for TTS (default: disabled)",
         ),
     ] = False,
     max_age: Annotated[

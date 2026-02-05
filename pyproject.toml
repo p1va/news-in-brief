@@ -10,6 +10,7 @@ dependencies = [
     "feedparser>=6.0.12",
     "google-genai>=1.56.0",
     "jinja2>=3.1.6",
+    "matplotlib>=3.10.8",
     "mutagen>=1.47.0",
     "openai>=2.9.0",
     "pandas>=2.3.3",
@@ -17,4 +18,5 @@ dependencies = [
     "python-dotenv>=1.2.1",
     "scikit-learn>=1.8.0",
     "typer>=0.20.0",
+    "voyageai>=0.3.7",
 ]

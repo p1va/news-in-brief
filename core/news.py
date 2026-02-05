@@ -4,13 +4,15 @@ import time
 from dataclasses import asdict, dataclass
 from datetime import datetime, timedelta, timezone
 from html import unescape
+from io import BytesIO
 from typing import Dict, List, Optional
 
 import feedparser
 import pandas as pd
+import requests
 from dateutil import parser as dateutil_parser
 
-from core.config import CleaningConfig, FeedCleaningConfig, FeedConfig
+from core.config import CleaningConfig, FeedConfig
 
 # Browser-like headers required by some CDNs (e.g., fanpage.it blocks requests without Accept-Encoding)
 _FEED_REQUEST_HEADERS = {
@@ -212,12 +214,18 @@ class NewsRepository:
         for feed_config in feeds:
             display_name = f"{feed_config.country} - {feed_config.name}"  # For logging
             try:
-                # Parse the feed (with browser-like headers for CDN compatibility)
-                feed = feedparser.parse(
-                    feed_config.url, request_headers=_FEED_REQUEST_HEADERS
+                resp = requests.get(
+                    feed_config.url, timeout=10.0, headers=_FEED_REQUEST_HEADERS
                 )
-                if feed.status != 200:
-                    raise ValueError(f"Status code {feed.status}")
+
+                if resp.status_code != 200:
+                    raise ValueError(f"Status code {resp.status_code}")
+
+                # Put it to memory stream object universal feedparser
+                content = BytesIO(resp.content)
+
+                # Parse content
+                feed = feedparser.parse(content)
 
                 # 1. Validate and filter entries
                 valid_entries = []
@@ -319,7 +327,9 @@ class NewsRepository:
                 duplicates_removed += 1
 
         if duplicates_removed > 0:
-            print(f"\n🧹 Removed {duplicates_removed} duplicate articles (same source + title)")
+            print(
+                f"\n🧹 Removed {duplicates_removed} duplicate articles (same source + title)"
+            )
 
         return unique_articles
 

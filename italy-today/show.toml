@@ -13,9 +13,10 @@ model = "google/gemini-3-pro-preview"
 model_friendly_name = "Gemini 3 Pro"
 
 [tts]
-voice_id = "ZF6FPAbjXT4488VcRRnw"
-voice_name = "Amelia"
-model = "eleven_v3"
+voice_id = "marin" # OpenAI 'marin' voice (if using OpenRouter) or keep generic if not used
+voice_name = "Marin"
+model = "openai/gpt-audio"
+provider = "openrouter"
 
 [rss]
 base_url = "https://briefings.my/italy-today"
