@@ -8,6 +8,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 from elevenlabs.client import ElevenLabs
 from elevenlabs.play import save
+import imageio_ffmpeg as iio_ffmpeg
 from openai import OpenAI
 
 load_dotenv()
@@ -76,10 +77,10 @@ class OpenRouterTTSProvider:
             raise RuntimeError("No audio data received from OpenRouter.")
 
         # Save as temporary WAV
-        temp_wav = str(Path(output_path).with_suffix(".temp.wav"))
+        temp_wav = Path(output_path).with_suffix(".temp.wav")
         
         # 24kHz matches openai/gpt-audio-mini output
-        with wave.open(temp_wav, "wb") as wf:
+        with wave.open(str(temp_wav), "wb") as wf:
             wf.setnchannels(1) 
             wf.setsampwidth(2) # 16-bit
             wf.setframerate(24000) 
@@ -87,19 +88,19 @@ class OpenRouterTTSProvider:
             
         # Convert to MP3 using ffmpeg
         try:
+            ffmpeg_exe = iio_ffmpeg.get_ffmpeg_exe()
             subprocess.run(
-                ["ffmpeg", "-y", "-i", temp_wav, "-b:a", "128k", output_path],
+                [ffmpeg_exe, "-y", "-i", str(temp_wav), "-b:a", "128k", output_path],
                 check=True,
                 stdout=subprocess.PIPE,
                 stderr=subprocess.PIPE
             )
             print(f"Audio converted and saved to {output_path}")
-        except subprocess.CalledProcessError as e:
+        except (subprocess.CalledProcessError, RuntimeError) as e:
             print(f"FFmpeg conversion failed: {e}")
             raise
         finally:
-            if os.path.exists(temp_wav):
-                os.remove(temp_wav)
+            temp_wav.unlink(missing_ok=True)
 
 class TextToSpeech:
     def __init__(
