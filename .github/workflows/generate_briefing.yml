@@ -27,6 +27,8 @@ on:
         required: true
       ELEVENLABS_API_KEY:
         required: true
+      VOYAGE_API_KEY:
+        required: false
 
 jobs:
   generate:
@@ -56,6 +58,7 @@ jobs:
       env:
         OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         ELEVENLABS_API_KEY: ${{ secrets.ELEVENLABS_API_KEY }}
+        VOYAGE_API_KEY: ${{ secrets.VOYAGE_API_KEY }}
       run: |
         CMD="show generate"
         

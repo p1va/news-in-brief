@@ -104,8 +104,10 @@ def process_episode(
     prompts_folder = show_dir / "prompts"
 
     sources_path = issue_folder_path / f"{issue_date}-sources.parquet"
+    embedding_provider = config.cleaning.embedding_provider
+    emb_suffix = "-with-embeddings-voyage" if embedding_provider == "voyage" else "-with-embeddings"
     embeddings_path = (
-        issue_folder_path / f"{issue_date}-sources-with-embeddings.parquet"
+        issue_folder_path / f"{issue_date}-sources{emb_suffix}.parquet"
     )
     stories_path = issue_folder_path / f"{issue_date}-stories.md"
     system_prompt_path = issue_folder_path / f"{issue_date}-system-prompt.md"
@@ -167,7 +169,7 @@ def process_episode(
             )
             raise typer.Exit(code=1)
 
-        embeddings_path = generate_embeddings_for_parquet(sources_path)
+        embeddings_path = generate_embeddings_for_parquet(sources_path, provider_name=embedding_provider)
         typer.secho(f"Embeddings saved to {embeddings_path}", fg=typer.colors.GREEN)
 
         if not should_run_step("analyze", until_step):

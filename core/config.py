@@ -36,6 +36,8 @@ class CleaningConfig:
     # Higher = looser clusters (more articles grouped together)
     # 0.25 = ~75% similarity required, 0.40 = ~60% similarity required
     cluster_threshold: float = 0.40
+    # Embedding provider: "openai" or "voyage"
+    embedding_provider: str = "openai"
 
 
 @dataclass
@@ -143,6 +145,7 @@ def load_show_config(show_dir: Path) -> ShowConfig:
                 ),
                 google_news_auto_clean=cleaning_data.get("google_news_auto_clean", True),
                 cluster_threshold=cleaning_data.get("cluster_threshold", 0.40),
+                embedding_provider=cleaning_data.get("embedding_provider", "openai"),
             )
 
             # Parse feeds (with optional per-feed cleaning)
