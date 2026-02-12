@@ -204,6 +204,11 @@ def process_episode(
         typer.secho(f"Sources view saved to {sources_view_path}", fg=typer.colors.GREEN)
 
         if not should_run_step("analyze", until_step):
+            # Regenerate index.html so the "Today's News" link is updated
+            try:
+                generate_html(show_dir)
+            except Exception as e:
+                typer.secho(f"Warning: Failed to update HTML: {e}", fg=typer.colors.YELLOW)
             typer.secho(
                 "\n--- Stopped at: sources-view ---", fg=typer.colors.GREEN, bold=True
             )
