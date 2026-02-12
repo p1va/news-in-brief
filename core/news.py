@@ -176,17 +176,31 @@ class NewsRepository:
         cleaning_config: Optional[CleaningConfig] = None,
     ) -> Dict[str, List[NewsArticle]]:
         """
-        Main entry point. Tries to load from disk first.
-        If missing or forced, fetches from RSS, saves to disk, then returns.
-        """
-        if not force_refresh and os.path.exists(storage_path):
-            print(f"Found existing data at {storage_path}. Loading...")
-            return self._load_from_parquet(storage_path)
+        Main entry point. Always fetches fresh RSS and merges with existing data.
 
+        Default (incremental): fetch fresh RSS, merge with existing parquet,
+        deduplicate by link (URL), apply max_age filter, save and return.
+
+        force_refresh: fetch fresh RSS, ignore existing parquet (clean slate).
+        """
         print("Fetching fresh news from RSS feeds...")
-        articles = self._fetch_from_feeds(
+        fresh_articles = self._fetch_from_feeds(
             feeds, max_age_days=max_age_days, cleaning_config=cleaning_config
         )
+
+        if not force_refresh and os.path.exists(storage_path):
+            print(f"Merging with existing data at {storage_path}...")
+            existing_articles = self._load_articles_from_parquet(storage_path)
+            articles = self._merge_articles(
+                existing=existing_articles,
+                fresh=fresh_articles,
+                max_age_days=max_age_days,
+            )
+        else:
+            if force_refresh:
+                print("Force refresh: ignoring existing data.")
+            articles = fresh_articles
+
         self._save_to_parquet(articles, storage_path)
 
         # Return in the grouped format expected by the application
@@ -332,6 +346,102 @@ class NewsRepository:
             )
 
         return unique_articles
+
+    def load_from_parquet(self, storage_path: str) -> Dict[str, List[NewsArticle]]:
+        """Load articles from parquet without fetching. Returns grouped by source."""
+        return self._load_from_parquet(storage_path)
+
+    def _load_articles_from_parquet(self, path: str) -> List[NewsArticle]:
+        """Load articles from parquet as a flat list of NewsArticle."""
+        try:
+            df = pd.read_parquet(path)
+        except Exception as e:
+            print(f"Error reading {path}: {e}")
+            return []
+
+        articles = []
+        has_description = "description" in df.columns
+        has_author = "author" in df.columns
+        has_country = "country" in df.columns
+        has_link = "link" in df.columns
+
+        for _, row in df.iterrows():
+            articles.append(
+                NewsArticle(
+                    source=str(row["source"]),
+                    date=str(row["date"]),
+                    title=str(row["title"]),
+                    country=str(row["country"]) if has_country else "",
+                    description=str(row["description"]) if has_description else "",
+                    author=str(row["author"]) if has_author else "",
+                    link=str(row["link"]) if has_link else "",
+                )
+            )
+        return articles
+
+    def _merge_articles(
+        self,
+        existing: List[NewsArticle],
+        fresh: List[NewsArticle],
+        max_age_days: int = 7,
+    ) -> List[NewsArticle]:
+        """
+        Merge existing and fresh articles, deduplicating by link (URL).
+        Fresh articles take precedence over existing ones with the same link.
+        Articles without links fall back to (source, title) dedup.
+        Drops articles older than max_age_days.
+        """
+        now = datetime.now(timezone.utc)
+        cutoff_date = now - timedelta(days=max_age_days)
+
+        # Build lookup from fresh articles (they take precedence)
+        seen_links: dict[str, NewsArticle] = {}
+        seen_source_title: dict[tuple[str, str], NewsArticle] = {}
+        merged: List[NewsArticle] = []
+
+        # Add fresh articles first (they take precedence)
+        for article in fresh:
+            if article.link:
+                seen_links[article.link] = article
+            else:
+                seen_source_title[(article.source, article.title)] = article
+            merged.append(article)
+
+        # Add existing articles that aren't duplicates
+        added_from_existing = 0
+        for article in existing:
+            # Skip if we already have this article from fresh fetch
+            if article.link and article.link in seen_links:
+                continue
+            if not article.link and (article.source, article.title) in seen_source_title:
+                continue
+
+            # Apply age filter on existing articles
+            try:
+                parsed_dt = dateutil_parser.parse(article.date)
+                if parsed_dt.tzinfo is None:
+                    parsed_dt = parsed_dt.replace(tzinfo=timezone.utc)
+                else:
+                    parsed_dt = parsed_dt.astimezone(timezone.utc)
+                if parsed_dt < cutoff_date:
+                    continue
+            except Exception:
+                pass  # Keep articles with unparseable dates
+
+            # Track dedup keys
+            if article.link:
+                seen_links[article.link] = article
+            else:
+                seen_source_title[(article.source, article.title)] = article
+
+            merged.append(article)
+            added_from_existing += 1
+
+        print(
+            f"Merged: {len(fresh)} fresh + {added_from_existing} existing "
+            f"= {len(merged)} total articles"
+        )
+        return merged
 
     def _save_to_parquet(self, articles: List[NewsArticle], path: str) -> None:
         if not articles:

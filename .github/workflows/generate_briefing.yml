@@ -17,6 +17,11 @@ on:
         required: false
         type: boolean
         default: false
+      until:
+        description: 'Stop pipeline at this step (e.g., sources-view)'
+        required: false
+        type: string
+        default: ''
       extra_args:
         description: 'Extra arguments to pass to the CLI'
         required: false
@@ -76,7 +81,11 @@ jobs:
         if [ "${{ inputs.force_refresh }}" == "true" ]; then
           CMD="$CMD --force-refresh"
         fi
-        
+
+        if [ -n "${{ inputs.until }}" ]; then
+          CMD="$CMD --until ${{ inputs.until }}"
+        fi
+
         if [ -n "${{ inputs.extra_args }}" ]; then
           CMD="$CMD ${{ inputs.extra_args }}"
         fi
@@ -96,6 +105,12 @@ jobs:
         if git diff --staged --quiet; then
           echo "No changes to commit"
         else
-          git commit -m "daily: generate briefing for ${{ inputs.show_name || 'all' }} [skip ci]"
+          if [ -n "${{ inputs.until }}" ]; then
+            COMMIT_MSG="hourly: update ${{ inputs.until }} for ${{ inputs.show_name || 'all' }} [skip ci]"
+          else
+            COMMIT_MSG="daily: generate briefing for ${{ inputs.show_name || 'all' }} [skip ci]"
+          fi
+          git commit -m "$COMMIT_MSG"
+          git pull --rebase
           git push
         fi

@@ -69,6 +69,18 @@ def generate_html(show_dir: Path):
     # Sort episodes by published date, newest first
     episodes.sort(key=lambda x: x['published'], reverse=True)
 
+    # Find the most recent sources-view.html for "Today's News" link
+    artifacts_dir = show_dir / "artifacts"
+    todays_sources_url = None
+    if artifacts_dir.exists():
+        # Look for sources-view.html files, sorted newest first
+        sources_views = sorted(
+            artifacts_dir.glob("*/*-sources-view.html"), reverse=True
+        )
+        if sources_views:
+            # Get path relative to show_dir (e.g., "artifacts/2026-02-12/2026-02-12-sources-view.html")
+            todays_sources_url = str(sources_views[0].relative_to(show_dir))
+
     # Setup Jinja2
     # Assuming 'templates' is in the root of the repo.
     # We need to find the repo root relative to this file.
@@ -100,6 +112,7 @@ def generate_html(show_dir: Path):
             show_description=feed.feed.get('description', ''),
             show_image=image_url,
             rss_url="rss.xml",
+            todays_sources_url=todays_sources_url,
             episodes=episodes
         )
         

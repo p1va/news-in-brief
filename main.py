@@ -33,7 +33,7 @@ app.add_typer(show_app, name="show")
 
 
 # Pipeline steps in order
-PIPELINE_STEPS = ["fetch", "embed", "analyze", "prompt", "script", "audio"]
+PIPELINE_STEPS = ["fetch", "embed", "sources-view", "analyze", "prompt", "script", "audio"]
 
 
 def get_step_index(step: str) -> int:
@@ -132,7 +132,7 @@ def process_episode(
     # STEP 1: FETCH - RSS feeds → parquet
     # =========================================================================
     if should_run_step("fetch", until_step):
-        typer.echo("\n[1/6] Fetching RSS feeds...")
+        typer.echo("\n[1/7] Fetching RSS feeds...")
         repo = NewsRepository()
         news_feed = repo.get_news(
             config.feeds,
@@ -160,7 +160,7 @@ def process_episode(
     # STEP 2: EMBED - Generate embeddings
     # =========================================================================
     if should_run_step("embed", until_step):
-        typer.echo("\n[2/6] Generating embeddings...")
+        typer.echo("\n[2/7] Generating embeddings...")
 
         if not sources_path.exists():
             typer.secho(
@@ -169,20 +169,53 @@ def process_episode(
             )
             raise typer.Exit(code=1)
 
-        embeddings_path = generate_embeddings_for_parquet(sources_path, provider_name=embedding_provider)
+        embeddings_path = generate_embeddings_for_parquet(
+            sources_path,
+            provider_name=embedding_provider,
+            force_refresh=force_refresh,
+        )
         typer.secho(f"Embeddings saved to {embeddings_path}", fg=typer.colors.GREEN)
 
-        if not should_run_step("analyze", until_step):
+        if not should_run_step("sources-view", until_step):
             typer.secho("\n--- Stopped at: embed ---", fg=typer.colors.GREEN, bold=True)
             typer.echo(f"Output: {embeddings_path}")
             return
 
     # =========================================================================
-    # STEP 3: ANALYZE - Cluster + junk detection → stories.md
+    # STEP 3: SOURCES-VIEW - Generate interactive HTML view
+    # =========================================================================
+    if should_run_step("sources-view", until_step):
+        typer.echo("\n[3/7] Generating sources view...")
+
+        if not embeddings_path.exists():
+            typer.secho(
+                "Error: Embeddings parquet not found. Run 'embed' step first.",
+                fg=typer.colors.RED,
+            )
+            raise typer.Exit(code=1)
+
+        sources_view_path = issue_folder_path / f"{issue_date}-sources-view.html"
+        generate_sources_view(
+            embeddings_path=embeddings_path,
+            output_path=sources_view_path,
+            reference_date=issue_date,
+            threshold=config.cleaning.cluster_threshold,
+        )
+        typer.secho(f"Sources view saved to {sources_view_path}", fg=typer.colors.GREEN)
+
+        if not should_run_step("analyze", until_step):
+            typer.secho(
+                "\n--- Stopped at: sources-view ---", fg=typer.colors.GREEN, bold=True
+            )
+            typer.echo(f"Output: {sources_view_path}")
+            return
+
+    # =========================================================================
+    # STEP 4: ANALYZE - Cluster + junk detection → stories.md
     # =========================================================================
     stories_markdown = ""
     if should_run_step("analyze", until_step):
-        typer.echo("\n[3/6] Analyzing stories (clustering + junk filtering)...")
+        typer.echo("\n[4/7] Analyzing stories (clustering + junk filtering)...")
 
         if not embeddings_path.exists():
             typer.secho(
@@ -206,16 +239,6 @@ def process_episode(
         save_stories_markdown(analysis, stories_path, issue_date)
         typer.secho(f"Stories saved to {stories_path}", fg=typer.colors.GREEN)
 
-        # Generate sources view HTML
-        sources_view_path = issue_folder_path / f"{issue_date}-sources-view.html"
-        generate_sources_view(
-            embeddings_path=embeddings_path,
-            output_path=sources_view_path,
-            reference_date=issue_date,
-            threshold=config.cleaning.cluster_threshold,
-        )
-        typer.secho(f"Sources view saved to {sources_view_path}", fg=typer.colors.GREEN)
-
         if not should_run_step("prompt", until_step):
             typer.secho(
                 "\n--- Stopped at: analyze ---", fg=typer.colors.GREEN, bold=True
@@ -224,28 +247,22 @@ def process_episode(
             return
 
     # =========================================================================
-    # STEP 4: PROMPT - Render prompts → markdown files
+    # STEP 5: PROMPT - Render prompts → markdown files
     # =========================================================================
     if should_run_step("prompt", until_step):
-        typer.echo("\n[4/6] Rendering prompts...")
+        typer.echo("\n[5/7] Rendering prompts...")
 
         # Load stories markdown if we didn't just generate it
         if not stories_markdown and stories_path.exists():
             stories_markdown = stories_path.read_text()
 
-        # Load news feed for prompt
+        # Load news feed for prompt (from parquet, no re-fetching)
         if not sources_path.exists():
             typer.secho("Error: Sources parquet not found.", fg=typer.colors.RED)
             raise typer.Exit(code=1)
 
         repo = NewsRepository()
-        news_feed = repo.get_news(
-            config.feeds,
-            str(sources_path),
-            force_refresh=False,
-            max_age_days=max_age,
-            cleaning_config=config.cleaning,
-        )
+        news_feed = repo.load_from_parquet(str(sources_path))
 
         # Filter out stories that are already in the Top Stories clusters
         # to avoid redundancy and highlight "hidden gems"
@@ -333,10 +350,10 @@ def process_episode(
             return
 
     # =========================================================================
-    # STEP 5: SCRIPT - LLM call → script.md
+    # STEP 6: SCRIPT - LLM call → script.md
     # =========================================================================
     if should_run_step("script", until_step):
-        typer.echo("\n[5/6] Generating script via LLM...")
+        typer.echo("\n[6/7] Generating script via LLM...")
 
         if script_path.exists():
             typer.echo(f"Script already exists at {script_path}. Skipping LLM call.")
@@ -377,10 +394,10 @@ def process_episode(
             return
 
     # =========================================================================
-    # STEP 6: AUDIO - TTS → audio.mp3
+    # STEP 7: AUDIO - TTS → audio.mp3
     # =========================================================================
     if should_run_step("audio", until_step):
-        typer.echo("\n[6/6] Generating audio via TTS...")
+        typer.echo("\n[7/7] Generating audio via TTS...")
 
         if audio_path.exists():
             typer.echo(f"Audio already exists at {audio_path}. Skipping TTS.")
@@ -452,7 +469,7 @@ def generate(
         typer.Option(
             "--until",
             "-u",
-            help="Stop after this step. Steps: fetch, embed, analyze, prompt, script, audio",
+            help="Stop after this step. Steps: fetch, embed, sources-view, analyze, prompt, script, audio",
             callback=validate_until_step,
         ),
     ] = None,
@@ -477,15 +494,16 @@ def generate(
     Generate daily briefing episode(s).
 
     Pipeline steps (in order):
-      1. fetch   - Download RSS feeds → parquet
-      2. embed   - Generate embeddings for articles
-      3. analyze - Cluster stories + filter junk → stories.md
-      4. prompt  - Render LLM prompts → markdown files
-      5. script  - Call LLM → script.md
-      6. audio   - Generate TTS → audio.mp3
+      1. fetch        - Download RSS feeds → parquet (incremental merge)
+      2. embed        - Generate embeddings for articles (incremental)
+      3. sources-view - Generate interactive HTML sources view
+      4. analyze      - Cluster stories + filter junk → stories.md
+      5. prompt       - Render LLM prompts → markdown files
+      6. script       - Call LLM → script.md
+      7. audio        - Generate TTS → audio.mp3
 
     Examples:
-      python main.py show generate italy-today --until fetch
+      python main.py show generate italy-today --until sources-view  # hourly update
       python main.py show generate italy-today --until analyze
       python main.py show generate italy-today  # full pipeline
     """
