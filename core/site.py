@@ -1,4 +1,5 @@
 import datetime
+import json
 import re
 import time
 from pathlib import Path
@@ -9,7 +10,8 @@ from jinja2 import Environment, FileSystemLoader
 
 def generate_html(show_dir: Path):
     """
-    Generate static index.html for a show using the rss.xml content.
+    Generate static index.html for a show using the rss.xml content
+    and top-stories.json from the latest sources-view generation.
     """
     rss_file = show_dir / "rss.xml"
     if not rss_file.exists():
@@ -17,9 +19,8 @@ def generate_html(show_dir: Path):
         return
 
     # Parse RSS
-    # feedparser can read from file path or URL
     feed = feedparser.parse(str(rss_file))
-    
+
     if feed.bozo:
         print(f"Warning: Error parsing RSS feed: {feed.bozo_exception}")
 
@@ -39,16 +40,15 @@ def generate_html(show_dir: Path):
                 if link.rel == 'enclosure':
                     audio_url = link.href
                     break
-        
+
         # Format Date
         pub_date = entry.get('published', '')
         if hasattr(entry, 'published_parsed') and entry.published_parsed:
             try:
-                # struct_time to datetime
                 dt = datetime.datetime.fromtimestamp(time.mktime(entry.published_parsed))
                 pub_date = dt.strftime("%Y-%m-%d")
             except Exception:
-                pass # Fallback to original string
+                pass
 
         # Extract sources URL if present at the beginning of description
         description = entry.get('description', '')
@@ -65,29 +65,35 @@ def generate_html(show_dir: Path):
             'sources_url': sources_url,
             'audio_url': audio_url
         })
-    
+
     # Sort episodes by published date, newest first
     episodes.sort(key=lambda x: x['published'], reverse=True)
 
-    # Find the most recent sources-view.html for "Today's News" link
+    # Find the most recent sources-view.html and top-stories.json
     artifacts_dir = show_dir / "artifacts"
     todays_sources_url = None
+    top_stories = None
     if artifacts_dir.exists():
-        # Look for sources-view.html files, sorted newest first
         sources_views = sorted(
             artifacts_dir.glob("*/*-sources-view.html"), reverse=True
         )
         if sources_views:
-            # Get path relative to show_dir (e.g., "artifacts/2026-02-12/2026-02-12-sources-view.html")
             todays_sources_url = str(sources_views[0].relative_to(show_dir))
 
+        # Load top-stories.json from the latest artifacts directory
+        top_stories_files = sorted(
+            artifacts_dir.glob("*/*-top-stories.json"), reverse=True
+        )
+        if top_stories_files:
+            try:
+                top_stories = json.loads(top_stories_files[0].read_text(encoding="utf-8"))
+            except Exception as e:
+                print(f"Warning: Failed to load top stories JSON: {e}")
+
     # Setup Jinja2
-    # Assuming 'templates' is in the root of the repo.
-    # We need to find the repo root relative to this file.
-    # this file is in core/site.py. Repo root is ../../
     repo_root = Path(__file__).parent.parent
     templates_dir = repo_root / "templates"
-    
+
     if not templates_dir.exists():
          print(f"Error: Templates directory not found at {templates_dir}")
          return
@@ -98,7 +104,7 @@ def generate_html(show_dir: Path):
     except Exception as e:
         print(f"Error loading template: {e}")
         return
-    
+
     # Check for image
     image_url = None
     if hasattr(feed.feed, 'image') and hasattr(feed.feed.image, 'href'):
@@ -113,9 +119,10 @@ def generate_html(show_dir: Path):
             show_image=image_url,
             rss_url="rss.xml",
             todays_sources_url=todays_sources_url,
-            episodes=episodes
+            episodes=episodes[:3],
+            top_stories=top_stories,
         )
-        
+
         output_file = show_dir / "index.html"
         with open(output_file, "w") as f:
             f.write(html_content)

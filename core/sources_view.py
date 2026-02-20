@@ -7,6 +7,7 @@ then renders an HTML page with:
 - Unclustered sources at the bottom
 """
 
+import json
 from dataclasses import dataclass, field
 from datetime import datetime
 from pathlib import Path
@@ -773,6 +774,46 @@ def generate_html(
     )
 
 
+def save_top_stories_json(
+    clusters: list[Cluster],
+    date: str,
+    generated_at: str,
+    output_path: Path,
+    max_stories: int = 10,
+) -> Path:
+    """
+    Save a JSON summary of the top story clusters for use by the landing page.
+
+    Args:
+        clusters: Sorted list of Cluster objects (by importance)
+        date: Reference date string (YYYY-MM-DD)
+        generated_at: Italian-formatted generation timestamp
+        output_path: Path where the JSON file will be saved
+        max_stories: Maximum number of stories to include
+
+    Returns:
+        Path to the generated JSON file
+    """
+    stories = []
+    for rank, cluster in enumerate(clusters[:max_stories], start=1):
+        stories.append({
+            "rank": rank,
+            "title": cluster.medoid_title,
+            "source_count": cluster.source_count,
+            "article_count": len(cluster.articles),
+            "source_domains": cluster.source_domains,
+        })
+
+    data = {
+        "date": date,
+        "generated_at": generated_at,
+        "stories": stories,
+    }
+
+    output_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    return output_path
+
+
 def generate_sources_view(
     embeddings_path: Path,
     output_path: Path,
@@ -813,4 +854,9 @@ def generate_sources_view(
     )
 
     output_path.write_text(html, encoding="utf-8")
+
+    # Emit top-stories JSON sidecar for the landing page
+    json_path = output_path.parent / f"{reference_date}-top-stories.json"
+    save_top_stories_json(clusters, reference_date, generated_at, json_path)
+
     return output_path

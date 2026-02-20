@@ -3,973 +3,571 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Italy Today - Podcast Player</title>
+    <title>Italy Today</title>
     <meta name="description" content="Daily briefing on Italian news">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,700;1,6..72,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
     <style>
-        body { font-family: -apple-system, sans-serif; max-width: 700px; margin: 0 auto; padding: 20px; background: #fff; color: #222; }
-        .back-button { display: inline-block; margin-bottom: 20px; color: #667eea; text-decoration: none; font-size: 0.9rem; transition: all 0.2s; }
-        .back-button:hover { text-decoration: underline; color: #5568d3; }
-        .header { text-align: center; border-bottom: 2px solid #eee; padding-bottom: 20px; margin-bottom: 30px; }
-        .cover-image { max-width: 200px; border-radius: 8px; margin: 0 auto 15px; display: block; }
-        .rss-link { display: inline-block; margin-top: 10px; background: #f68b1e; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-size: 0.9rem; }
-        .sources-today-link { display: inline-block; margin-top: 10px; margin-left: 8px; background: #667eea; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-size: 0.9rem; }
-        .sources-today-link:hover { background: #5568d3; }
-        .episode { margin-bottom: 35px; }
-        .episode h3 { margin: 0 0 5px 0; font-size: 1.3rem; }
-        .meta { color: #666; font-size: 0.9rem; margin-bottom: 10px; }
-        .description { line-height: 1.5; color: #444; margin-bottom: 15px; white-space: pre-wrap; }
-        .sources-link { margin-bottom: 10px; }
-        .sources-link a { color: #667eea; text-decoration: none; font-size: 0.9rem; }
-        .sources-link a:hover { text-decoration: underline; }
-        audio { width: 100%; border-radius: 4px; }
+        * { box-sizing: border-box; }
+        body {
+            font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
+            line-height: 1.6;
+            max-width: 860px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background: #faf9f7;
+            color: #2d2d2d;
+        }
+
+        /* Header */
+        .site-header {
+            margin-bottom: 36px;
+            padding-bottom: 16px;
+            border-bottom: 2px solid #1a1a1a;
+        }
+        .site-header h1 {
+            font-family: 'Newsreader', Georgia, serif;
+            font-weight: 700;
+            font-size: 2.2em;
+            color: #1a1a1a;
+            margin: 0 0 4px;
+        }
+        .site-header .subtitle {
+            color: #666;
+            font-size: 15px;
+            margin: 0;
+        }
+
+        /* Section headings */
+        .section-heading {
+            font-family: 'Newsreader', Georgia, serif;
+            font-weight: 400;
+            font-size: 1.4em;
+            color: #1a1a1a;
+            margin: 0 0 6px;
+        }
+        .section-sub {
+            color: #888;
+            font-size: 13px;
+            margin: 0 0 16px;
+        }
+
+        /* Episodes row */
+        .episodes-section {
+            margin-bottom: 40px;
+        }
+        .episodes-row {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 14px;
+        }
+        .episode-card {
+            background: #fff;
+            border: 1px solid #e0e0e0;
+            padding: 16px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        }
+        .episode-date {
+            font-size: 12px;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+            margin-bottom: 4px;
+        }
+        .episode-title {
+            font-family: 'Newsreader', Georgia, serif;
+            font-weight: 600;
+            font-size: 15px;
+            line-height: 1.35;
+            color: #1a1a1a;
+            margin-bottom: 10px;
+            /* Clamp to 2 lines */
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .episode-card audio {
+            width: 100%;
+            height: 36px;
+            margin-bottom: 8px;
+        }
+        .episode-sources-link {
+            font-size: 13px;
+            color: #667eea;
+            text-decoration: none;
+        }
+        .episode-sources-link:hover {
+            text-decoration: underline;
+        }
+
+        /* Top stories */
+        .stories-section {
+            margin-bottom: 40px;
+        }
+        .story {
+            background: #fff;
+            border: 1px solid #e0e0e0;
+            margin-bottom: 10px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+            display: flex;
+            align-items: flex-start;
+            gap: 0;
+            padding: 14px;
+        }
+        .story-rank {
+            font-family: 'Newsreader', Georgia, serif;
+            font-size: 18px;
+            font-weight: 700;
+            color: #bbb;
+            width: 44px;
+            flex-shrink: 0;
+            text-align: center;
+        }
+        .story-body {
+            flex: 1;
+            min-width: 0;
+        }
+        .story-title {
+            font-family: 'Newsreader', Georgia, serif;
+            font-weight: 700;
+            font-size: 16px;
+            line-height: 1.4;
+            color: #1a1a1a;
+            margin-bottom: 8px;
+        }
+        .story-meta {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        .source-icons {
+            display: flex;
+            align-items: center;
+        }
+        .source-icon {
+            width: 22px;
+            height: 22px;
+            border-radius: 50%;
+            background: #d0d0d0;
+            border: 2px solid #fff;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2), inset 0 0 0 1px rgba(0,0,0,0.05);
+            object-fit: contain;
+            margin-left: -6px;
+            position: relative;
+        }
+        .source-icon:first-child { margin-left: 0; }
+        .source-icon:nth-child(1) { z-index: 7; }
+        .source-icon:nth-child(2) { z-index: 6; }
+        .source-icon:nth-child(3) { z-index: 5; }
+        .source-icon:nth-child(4) { z-index: 4; }
+        .source-icon:nth-child(5) { z-index: 3; }
+        .source-icon:nth-child(6) { z-index: 2; }
+        .source-icon-more {
+            font-size: 11px;
+            font-weight: 600;
+            color: #666;
+            background: #f0f0f0;
+            border-radius: 50%;
+            width: 22px;
+            height: 22px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-left: -6px;
+            border: 2px solid #fff;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            position: relative;
+            z-index: 1;
+        }
+        .story-meta-text {
+            font-size: 13px;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+
+        /* Footer */
+        .site-footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .footer-link {
+            font-size: 14px;
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .footer-link:hover {
+            text-decoration: underline;
+        }
+        .rss-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            font-size: 14px;
+            color: #f68b1e;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .rss-link:hover { text-decoration: underline; }
+
+        /* Empty state */
+        .empty-state {
+            color: #999;
+            font-size: 14px;
+            font-style: italic;
+            padding: 20px 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 640px) {
+            body { padding: 24px 16px; }
+            .site-header h1 { font-size: 1.7em; }
+            .episodes-row {
+                grid-template-columns: 1fr;
+            }
+        }
     </style>
 </head>
 <body>
 
-    <a href="/" class="back-button">← Back to all shows</a>
+    <header class="site-header">
+        <h1>Italy Today</h1>
+        <p class="subtitle">Daily briefing on Italian news</p>
+    </header>
 
-    <div id="player-container">
-        <div class="header">
+    
+    <section class="episodes-section">
+        <h2 class="section-heading">Latest Episodes</h2>
+        
+        <div class="episodes-row">
             
-            <img src="https://briefings.my/italy-today/cover.png" alt="Italy Today" class="cover-image">
+            <div class="episode-card">
+                <div class="episode-date">2026-02-19</div>
+                <div class="episode-title">Italy Today - 2026-02-19</div>
+                
+                <audio controls preload="none">
+                    <source src="https://briefings.my/italy-today/artifacts/2026-02-19/2026-02-19-audio.mp3" type="audio/mpeg">
+                </audio>
+                
+                
+                <a class="episode-sources-link" href="https://briefings.my/italy-today/artifacts/2026-02-19/2026-02-19-sources-view.html">View sources</a>
+                
+            </div>
             
-            <h1>Italy Today</h1>
-            <p style="color: #666; margin: 10px 0;">Daily briefing on Italian news</p>
-            <a href="rss.xml" class="rss-link" target="_blank">📡 Subscribe via RSS</a>
+            <div class="episode-card">
+                <div class="episode-date">2026-02-18</div>
+                <div class="episode-title">Italy Today - 2026-02-18</div>
+                
+                <audio controls preload="none">
+                    <source src="https://briefings.my/italy-today/artifacts/2026-02-18/2026-02-18-audio.mp3" type="audio/mpeg">
+                </audio>
+                
+                
+                <a class="episode-sources-link" href="https://briefings.my/italy-today/artifacts/2026-02-18/2026-02-18-sources-view.html">View sources</a>
+                
+            </div>
             
-            <a href="artifacts/2026-02-20/2026-02-20-sources-view.html" class="sources-today-link" target="_blank">📰 Today's News</a>
+            <div class="episode-card">
+                <div class="episode-date">2026-02-17</div>
+                <div class="episode-title">Italy Today - 2026-02-17</div>
+                
+                <audio controls preload="none">
+                    <source src="https://briefings.my/italy-today/artifacts/2026-02-17/2026-02-17-audio.mp3" type="audio/mpeg">
+                </audio>
+                
+                
+                <a class="episode-sources-link" href="https://briefings.my/italy-today/artifacts/2026-02-17/2026-02-17-sources-view.html">View sources</a>
+                
+            </div>
             
         </div>
+        
+    </section>
 
+    
+    <section class="stories-section">
+        <h2 class="section-heading">Top Stories</h2>
         
-        <div class="episode">
-            <h3>Italy Today - 2026-02-19</h3>
-            <div class="meta">2026-02-19</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-19/2026-02-19-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Thursday 19 and this episode was curated by Gemini 3 Pro.
-We begin with the Blitz.
-In the corridors of state television, the inevitable has happened. Paolo Petrecca has resigned as director of Rai Sport. Following the disastrous coverage of the Olympic opening ceremony and a revolt by the newsroom, *Corriere della Sera* reports he will step down after the Games, with Marco Lollobrigida taking over ad interim.
-The medical tragedy in Naples...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-19/2026-02-19-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
+        <p class="section-sub">Last updated: Venerdì 20 Febbraio 09:39</p>
+        
+        <div class="story">
+            <div class="story-rank">1.</div>
+            <div class="story-body">
+                <div class="story-title">L'ex principe Andrea arrestato per il caso Epstein. Carlo lo scarica</div>
+                <div class="story-meta">
+                    <div class="source-icons">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=adnkronos.com&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=liberoquotidiano.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=corriere.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ansa.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ilmessaggero.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=laverita.info&sz=32" alt="" loading="lazy">
+                        
+                        
+                        <span class="source-icon-more">+5</span>
+                        
+                    </div>
+                    <span class="story-meta-text">11 sources · 22 articles</span>
+                </div>
+            </div>
         </div>
         
-        <div class="episode">
-            <h3>Italy Today - 2026-02-18</h3>
-            <div class="meta">2026-02-18</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-18/2026-02-18-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Wednesday 18 and this episode was curated by Gemini 3 Pro.
-We begin with the Blitz.
-The hope has evaporated in Naples. A committee of medical experts at the Monaldi hospital has officially ruled out a second heart transplant for the two-year-old child who received a damaged organ in December. *Fanpage* and *Il Mattino* report the mother is "resigned" to the inevitable, while the hospital cites incompatible clinical conditions.
-In Rome,...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-18/2026-02-18-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
+        <div class="story">
+            <div class="story-rank">2.</div>
+            <div class="story-body">
+                <div class="story-title">La mamma di Domenico: «Iniziate le cure per il dolore. Non ci sono speranze» | Il no a un nuovo trapianto: «Non sopravviverebbe»</div>
+                <div class="story-meta">
+                    <div class="source-icons">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=adnkronos.com&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ilfattoquotidiano.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=napoli.corriere.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=laverita.info&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=napoli.repubblica.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ilgiornale.it&sz=32" alt="" loading="lazy">
+                        
+                        
+                        <span class="source-icon-more">+5</span>
+                        
+                    </div>
+                    <span class="story-meta-text">11 sources · 15 articles</span>
+                </div>
+            </div>
         </div>
         
-        <div class="episode">
-            <h3>Italy Today - 2026-02-17</h3>
-            <div class="meta">2026-02-17</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-17/2026-02-17-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Tuesday 17 and this episode was curated by Gemini 3 Pro.
-We begin with the Blitz.
-Naples woke up to a cultural tragedy this morning. A massive fire has gutted the historic Teatro Sannazaro in the Chiaia district, causing the collapse of its cupola. While the Mayor promises reconstruction, *La Repubblica* reports that residents were evacuated due to toxic smoke, and prosecutors have already opened a file for negligent arson.
-In the courts,...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-17/2026-02-17-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
+        <div class="story">
+            <div class="story-rank">3.</div>
+            <div class="story-body">
+                <div class="story-title">È morto Eric Dane, il dottor Sloan di Grey’s Anatomy. Aveva 53 anni e combatteva contro la Sla</div>
+                <div class="story-meta">
+                    <div class="source-icons">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ansa.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=adnkronos.com&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ilfattoquotidiano.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=liberoquotidiano.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=lastampa.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=fanpage.it&sz=32" alt="" loading="lazy">
+                        
+                        
+                        <span class="source-icon-more">+4</span>
+                        
+                    </div>
+                    <span class="story-meta-text">10 sources · 12 articles</span>
+                </div>
+            </div>
         </div>
         
-        <div class="episode">
-            <h3>Italy Today - 2026-02-16</h3>
-            <div class="meta">2026-02-16</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-16/2026-02-16-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Monday 16 and this episode was curated by Gemini 3 Pro.
-We begin with the Blitz.
-Prime Minister Giorgia Meloni was back in Sicily today, visiting the town of Niscemi devastated by the recent "Cyclone Harry." The Premier has put a figure on the recovery: 150 million euros and a new special commissioner, Civil Protection chief Fabio Ciciliano, to bypass bureaucratic bottlenecks. While *Il Giornale* praises the speed of the response, warning...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-16/2026-02-16-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
+        <div class="story">
+            <div class="story-rank">4.</div>
+            <div class="story-body">
+                <div class="story-title">Sinner sorpreso dall’ottimo Mensik: Jannik fuori ai quarti di finale a Doha</div>
+                <div class="story-meta">
+                    <div class="source-icons">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=fanpage.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=liberoquotidiano.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=corriere.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ansa.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ilmessaggero.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ilgiornale.it&sz=32" alt="" loading="lazy">
+                        
+                        
+                        <span class="source-icon-more">+2</span>
+                        
+                    </div>
+                    <span class="story-meta-text">8 sources · 10 articles</span>
+                </div>
+            </div>
         </div>
         
-        <div class="episode">
-            <h3>Italy Today - 2026-02-15</h3>
-            <div class="meta">2026-02-15</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-15/2026-02-15-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Sunday 15 and this episode was curated by Gemini 3 Pro.
-We begin with the Blitz.
-The chaos on the national railway network continues to grip the peninsula, as new acts of sabotage hit the Rome-Napoli and Rome-Florence high-speed lines this morning. While *La Repubblica* reports resignation among passengers facing delays of over two hours, Deputy Premier Matteo Salvini has escalated his rhetoric, defining these acts not merely as vandalism...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-15/2026-02-15-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
+        <div class="story">
+            <div class="story-rank">5.</div>
+            <div class="story-body">
+                <div class="story-title">Meloni: “Giuste le parole di Mattarella. Il referendum non è su di me. C'è chi vuole la lotta nel fango”</div>
+                <div class="story-meta">
+                    <div class="source-icons">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=lastampa.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ilgiornale.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=adnkronos.com&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=roma.corriere.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ilmessaggero.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ansa.it&sz=32" alt="" loading="lazy">
+                        
+                        
+                        <span class="source-icon-more">+1</span>
+                        
+                    </div>
+                    <span class="story-meta-text">7 sources · 9 articles</span>
+                </div>
+            </div>
         </div>
         
-        <div class="episode">
-            <h3>Italy Today - 2026-02-14</h3>
-            <div class="meta">2026-02-14</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-14/2026-02-14-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Saturday 14 and this episode was curated by Gemini 3 Pro.
-We begin with the Blitz.
-The diplomatic temperature is freezing over as five European nations, including France and Germany, have officially accused Russia of assassinating opposition leader Alexei Navalny using a rare toxin derived from the "poison dart frog." Moscow dismisses this as "insinuations," but *La Repubblica* notes that the chemical evidence effectively brands Russia a...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-14/2026-02-14-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
+        <div class="story">
+            <div class="story-rank">6.</div>
+            <div class="story-body">
+                <div class="story-title">Milano Cortina, le gare di oggi: da Lollobrigida a Fontana, orari e dove vedere gli azzurri</div>
+                <div class="story-meta">
+                    <div class="source-icons">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=repubblica.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=corriere.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=adnkronos.com&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=fanpage.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ilfattoquotidiano.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=lastampa.it&sz=32" alt="" loading="lazy">
+                        
+                        
+                    </div>
+                    <span class="story-meta-text">6 sources · 7 articles</span>
+                </div>
+            </div>
         </div>
         
-        <div class="episode">
-            <h3>Italy Today - 2026-02-13</h3>
-            <div class="meta">2026-02-13</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-13/2026-02-13-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Friday 13 and this episode was curated by Gemini 3 Pro.
-We begin with the Blitz.
-Italy is waking up to a gold rush and a diplomatic headache. At the Milano-Cortina Olympics, the nation is celebrating a historic double triumph: Federica Brignone’s gold in the Super-G, described by *Il Giornale* as a masterpiece born of suffering, and short-track legend Arianna Fontana equaling the all-time Italian Olympic medal record. But the ice is thin...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-13/2026-02-13-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
+        <div class="story">
+            <div class="story-rank">7.</div>
+            <div class="story-body">
+                <div class="story-title">Le dimissioni di Petrecca, RaiSport al suo vice e la redazione brinda</div>
+                <div class="story-meta">
+                    <div class="source-icons">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ilgiornale.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=repubblica.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ilmanifesto.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=lastampa.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ansa.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=news.google.com&sz=32" alt="" loading="lazy">
+                        
+                        
+                    </div>
+                    <span class="story-meta-text">6 sources · 7 articles</span>
+                </div>
+            </div>
         </div>
         
-        <div class="episode">
-            <h3>Italy Today - 2026-02-11</h3>
-            <div class="meta">2026-02-11</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-11/2026-02-11-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Wednesday 11 and this episode was curated by Gemini 3 Pro.
-We begin with the blitz. The Italian gold rush continues at the Winter Games, with Andrea Vötter and Marion Oberhofer making history by winning the women's doubles luge, a feat *Corriere della Sera* hails as a masterpiece of precision on the home track, prompting a personal congratulatory call from President Mattarella. In the corporate world, the legal noose tightens around the...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-11/2026-02-11-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
+        <div class="story">
+            <div class="story-rank">8.</div>
+            <div class="story-body">
+                <div class="story-title">Rogoredo, il pusher ucciso e l'ipotesi della pistola messa nelle sue mani invece dichiamare i soccorsi. Le accuse ai cinque agenti e i buchi nei loro racconti</div>
+                <div class="story-meta">
+                    <div class="source-icons">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=milano.corriere.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ansa.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ilgiornale.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=unita.it&sz=32" alt="" loading="lazy">
+                        
+                        
+                    </div>
+                    <span class="story-meta-text">4 sources · 6 articles</span>
+                </div>
+            </div>
         </div>
         
-        <div class="episode">
-            <h3>Italy Today - 2026-02-10</h3>
-            <div class="meta">2026-02-10</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-10/2026-02-10-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Tuesday 10 and this episode was curated by Gemini 3 Pro.
-We start with the blitz. History has been made on the ice: Arianna Fontana has become the most decorated Italian Olympian of all time, securing Gold in the mixed short track relay, a victory *Corriere della Sera* celebrates as "legendary" amidst the chaos of these Games. Speaking of chaos, the anarchist threat has materialized; following yesterday's report on the railway sabotage, a...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-10/2026-02-10-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
+        <div class="story">
+            <div class="story-rank">9.</div>
+            <div class="story-body">
+                <div class="story-title">Trump apre Board of Peace: "Pace, parola semplice, ma difficile da mettere in pratica"</div>
+                <div class="story-meta">
+                    <div class="source-icons">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=corriere.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=liberoquotidiano.it&sz=32" alt="" loading="lazy">
+                        
+                        
+                    </div>
+                    <span class="story-meta-text">2 sources · 8 articles</span>
+                </div>
+            </div>
         </div>
         
-        <div class="episode">
-            <h3>Italy Today - 2026-02-09</h3>
-            <div class="meta">2026-02-09</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-09/2026-02-09-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Monday 09 and this episode was curated by Gemini 3 Pro.
-We start with the blitz. The Olympics are becoming a headache for the state broadcaster; the journalists of RaiSport have officially broken ranks, withdrawing their signatures from services and announcing a strike to protest Director Paolo Petrecca’s disastrous opening ceremony commentary, a mutiny *La Repubblica* describes as a "total loss of confidence" in the Meloni-appointed...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-09/2026-02-09-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
+        <div class="story">
+            <div class="story-rank">10.</div>
+            <div class="story-body">
+                <div class="story-title">Donna decapitata a Scandicci, uomo fermato per omicidio: nei campi trovato un machete</div>
+                <div class="story-meta">
+                    <div class="source-icons">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=fanpage.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=laverita.info&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ansa.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=corrierefiorentino.corriere.it&sz=32" alt="" loading="lazy">
+                        
+                        <img class="source-icon" src="https://www.google.com/s2/favicons?domain=ilmessaggero.it&sz=32" alt="" loading="lazy">
+                        
+                        
+                    </div>
+                    <span class="story-meta-text">5 sources · 5 articles</span>
+                </div>
+            </div>
         </div>
         
-        <div class="episode">
-            <h3>Italy Today - 2026-02-08</h3>
-            <div class="meta">2026-02-08</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-08/2026-02-08-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Sunday 08 and this episode was curated by Gemini 3 Pro.
-We begin with the blitz. The Olympics are delivering drama both on and off the piste; while Sofia Goggia secures a bronze in the downhill—a result she describes as "bittersweet"—the headlines are dominated by the horrific crash of American legend Lindsey Vonn, who has been airlifted to hospital, and the controversy surrounding U.S. skier Hunter Hess, whom Donald Trump calls a "loser"...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-08/2026-02-08-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
         
-        <div class="episode">
-            <h3>Italy Today - 2026-02-07</h3>
-            <div class="meta">2026-02-07</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-07/2026-02-07-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Saturday 07 and this episode was curated by Gemini 3 Pro.
-We begin with the blitz. The manufacturing crisis has deepened significantly; *Stellantis* creates a new shockwave by cancelling the "Gigafactory" project in Termoli, a move *Il Fatto Quotidiano* describes as the definitive end of the industrial dream for the South. In Milan, the diplomatic dance continues as Prime Minister Meloni hosted U.S. Vice President J.D. Vance for a visit...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-07/2026-02-07-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-02-06</h3>
-            <div class="meta">2026-02-06</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-06/2026-02-06-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Friday 06 and this episode was curated by Gemini 3 Pro.
-We begin with the blitz. In Moscow, the shadow war has reached the capital's doorstep; the Vice Chief of Russian Military Intelligence, Major General Vladimir Alekseyev, has been shot and critically wounded in an assassination attempt, a strike that *La Repubblica* calls a "perfect crime" destabilizing the Kremlin's security apparatus. Closer to home, the industrial pride of Italy...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-06/2026-02-06-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-02-04</h3>
-            <div class="meta">2026-02-04</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-04/2026-02-04-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Wednesday 04 and this episode was curated by Gemini 3 Pro.
-We begin with the blitz. In Budapest, the gavel has come down heavy on Maja T., the German activist tried in the same neo-Nazi clash case involving Ilaria Salis; she has been sentenced to eight years in prison, a verdict *La Repubblica* calls a political warning shot from Orbán's Hungary to the European Left. Back in Rome, Foreign Minister Antonio Tajani has confirmed that Russian...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-04/2026-02-04-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-02-03</h3>
-            <div class="meta">2026-02-03</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-03/2026-02-03-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Tuesday 03 and this episode was curated by Gemini 3 Pro.
-We begin with the blitz. Russian missiles have pounded Ukraine’s energy grid in the heaviest attack of the year, just as President Zelensky warns that without power, negotiation tables mean nothing. In Rome, the government’s controversial Security Decree, designed to crack down on street protests, has been delayed until Thursday to iron out constitutional concerns. Tragedy strikes...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-03/2026-02-03-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-02-01</h3>
-            <div class="meta">2026-02-01</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-02-01/2026-02-01-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Sunday, February 1st and this episode was curated by Gemini 3 Pro.
-We begin with the blitz.
-The tragedy in Niscemi deepens as the earth continues to move; *La Repubblica* reports that drones have identified further detachments from the hillside, with the local bishop warning that the town cannot remain inert while citizens lose their homes. In Rome, the tourist experience changes tomorrow morning; *ANSA* confirms that the 2-euro ticket to...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-02-01/2026-02-01-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-31</h3>
-            <div class="meta">2026-01-31</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-01-31/2026-01-31-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Saturday, January 31st, and this episode was curated by Gemini 3 Pro.
-We begin with the blitz.
-The streets of Turin turned into a combat zone this afternoon as the demonstration for the "Askatasuna" social center devolved into guerrilla warfare, with *La Stampa* reporting police charges, tear gas, and burning barricades in Corso Regina Margherita. On the economic front, the government receives an unexpected gift from the rating agencies;...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-31/2026-01-31-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-30</h3>
-            <div class="meta">2026-01-30</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-01-30/2026-01-30-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Friday, January 30th, and this episode was curated by Gemini 3 Pro.
-We begin with the blitz.
-The Italian job market delivers a surprise jolt of optimism, with *Il Sole Ventiquattro Ore* reporting unemployment has fallen to 5.6%, the lowest figure since 2004, a number the government will surely parade all weekend. In Sicily, the Niscemi landslide scandal deepens; *Corriere della Sera* reveals a 2022 dossier explicitly warned of "very high...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-30/2026-01-30-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-29</h3>
-            <div class="meta">2026-01-29</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-01-29/2026-01-29-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Thursday, January 29th, and this episode was curated by Gemini 3 Pro.
-We begin with the blitz.
-The island of Sicily is quite literally sliding into the sea, with a landslide in Niscemi now exceeding the volume of the infamous Vajont disaster. The Constitutional Court has delivered a stinging rebuke to the government’s "zero tolerance" highway code, ruling that drug traces alone are not enough to strip a license. Tensions rise in the...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-29/2026-01-29-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-27</h3>
-            <div class="meta">2026-01-27</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-01-27/2026-01-27-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Tuesday 27 and this episode was curated by Gemini 3 Pro.
-Let’s get straight to the headlines. The ground is still moving in Sicily, where the Niscemi landslide has turned into a full-blown catastrophe with fifteen hundred people displaced; in Rome, the Senate marked Holocaust Remembrance Day, but not without political friction as Liliana Segre warned against using Gaza to erase the Shoah; meanwhile, a diplomatic crisis has opened with...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-27/2026-01-27-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-26</h3>
-            <div class="meta">2026-01-26</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-01-26/2026-01-26-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Monday 26 and this episode was curated by Gemini 3 Pro.
-Let’s get straight to the pulse of the nation. The institutional war between the Government and the Judiciary has reached a boiling point after a controversial social media post by the Magistrates' Union secretary; in the Middle East, a diplomatic incident involving Italian Carabinieri and an armed Israeli settler has triggered a summons to the Farnesina; meanwhile, the earth is...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-26/2026-01-26-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-25</h3>
-            <div class="meta">2026-01-25</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-01-25/2026-01-25-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Sunday 25 and this episode was curated by Gemini 3 Pro.
-Let’s get straight to the pulse of the nation. The tragedy in Anguillara has spiraled into horror as the parents of Claudio Carlomagno—the man who confessed to killing his wife—were found dead by suicide, crushed, as **Corriere della Sera** reports, by a mix of shame and social media pillorying. On the diplomatic calendar, today marks ten years since the disappearance of Giulio...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-25/2026-01-25-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-24</h3>
-            <div class="meta">2026-01-24</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-01-24/2026-01-24-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">Welcome to another episode of "Italy Today", today is Saturday 24 and this episode was curated by Gemini 3 Pro.
-The Alps have turned into a diplomatic wall. **Il Giornale** screams "Shame" as the Swiss judiciary releases the owner of the club where 40 people died, prompting Rome to take the drastic step of recalling its ambassador. From Justice to the streets, the shadow of American policing looms over Italy: **La Repubblica** connects a brutal killing by federal agents in Minneapolis to...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-24/2026-01-24-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-22</h3>
-            <div class="meta">2026-01-22</div>
-            
-            <div class="sources-link"><a href="https://briefings.my/italy-today/artifacts/2026-01-22/2026-01-22-sources-view.html" target="_blank">View all sources</a></div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", today is Thursday 22 and this episode was curated by Gemini 3 Pro.
-[quick pause]
-[newscaster] The bill for the storm is in, and it is staggering. **Il Sole 24 Ore** reports that "Cyclone Harry" has caused over one billion euros in damages across Sicily, devastating the citrus industry and wiping out entire seafronts. In Florence, a landmark ruling: the Court of Appeals overturns a lower verdict, convicting an inspector and eight prison...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-22/2026-01-22-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-20</h3>
-            <div class="meta">2026-01-20</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", today is Tuesday 20 and this episode was curated by Gemini 3 Pro.
-[quick pause]
-[newscaster] We have a heavy news cycle this evening: The death toll in the Spanish rail disaster rises to 42 as King Felipe visits the crash site; clarification in the Swiss Alps tragedy as tests confirm a 16-year-old Italian golfer died from toxic fumes, not the crushing crowd; and Brussels strikes back at Donald Trump’s tariff threats with Ursula von der...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-20/2026-01-20-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-19</h3>
-            <div class="meta">2026-01-19</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", today is Monday 19 and this episode was curated by Gemini 3 Pro.
-[quick pause]
-[newscaster] We are covering a lot of ground tonight: Spain is in mourning after a catastrophic rail disaster involving an Italian-owned train; the investigation into the Anguillara femicide takes a grisly turn; and Donald Trump doubles down on his Greenland pressure with a "no comment" on military force that has Brussels sweating. Plus, sadness in the world...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-19/2026-01-19-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-18</h3>
-            <div class="meta">2026-01-18</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", today is Sunday 18 and this episode was curated by Gemini 3 Pro.
-[pause]
-[newscaster] We begin with the diplomatic frost settlng over the Atlantic, as Prime Minister Giorgia Meloni attempts to navigate the treacherous waters between Donald Trump’s protectionism and European solidarity. Following the US President's threat to impose 10% tariffs on European nations that deployed troops to Greenland, Meloni, speaking from Seoul, tried to...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-18/2026-01-18-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-17</h3>
-            <div class="meta">2026-01-17</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Saturday 17 and this episode was curated by Gemini 3 Pro.
-[pause]
-[somber] We begin with a tragic update to yesterday’s report from Liguria, where the violence in a La Spezia classroom has turned into a homicide investigation. Youssef, the 18-year-old student stabbed during a lesson, has died from his injuries. The aggressor, a 19-year-old classmate, has confessed, telling prosecutors the attack was...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-17/2026-01-17-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-16</h3>
-            <div class="meta">2026-01-16</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Friday 16 and this episode was curated by Gemini 3 Pro.
-[pause]
-[cynical] Following up on yesterday’s report regarding the earthquake at the Privacy Guarantor, the scandal has shifted from the institutional to the grotesque. If yesterday was about the raid, today is about the receipts. **Corriere Della Sera** and **La Repubblica** are publishing humiliating details this morning: investigations reveal...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-16/2026-01-16-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-15</h3>
-            <div class="meta">2026-01-15</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Thursday 15 and this episode was curated by Gemini 3 Pro.
-[pause]
-[newscaster] The watchdog has become the hunted. In a stunning institutional earthquake this morning, the Guardia di Finanza raided the headquarters of the Privacy Guarantor in Rome—the very authority responsible for protecting citizens' data. **AGI** and **Il Sole 24 Ore** report that the entire board, including President Pasquale...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-15/2026-01-15-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-14</h3>
-            <div class="meta">2026-01-14</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Wednesday 14 and this episode was curated by Gemini 3 Pro.
-[pause]
-[newscaster] The "Pandoro-gate", the scandal that arguably dismantled the undisputed reign of Italy's influencer queen, has effectively ended in a procedural whimper rather than a bang. Today, a Milanese judge declared a "non-place to proceed" against Chiara Ferragni regarding the charity fraud allegations linked to her holiday cakes and...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-14/2026-01-14-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-13</h3>
-            <div class="meta">2026-01-13</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Tuesday 13 and this episode was curated by Gemini 3 Pro.
-[pause]
-[newscaster] Following up on yesterday’s breaking news, the diplomatic saga of Alberto Trentini and Mario Burlò has culminated on the tarmac of Rome’s Ciampino airport. The two men, freed from Venezuelan detention, touched down this morning to an emotional reception by Prime Minister Giorgia Meloni and Foreign Minister Antonio Tajani....</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-13/2026-01-13-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-12</h3>
-            <div class="meta">2026-01-12</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Monday 12 and this episode was curated by Gemini 3 Pro.
-[pause]
-[newscaster] We begin with a massive diplomatic breakthrough that plays out like a spy thriller. After 423 days of detention, the Italian cooperant Alberto Trentini and the entrepreneur Mario Burlò have been freed from a Venezuelan prison and are currently en route to Italy. The details of their release are surreal: upon walking out of cell,...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-12/2026-01-12-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-11</h3>
-            <div class="meta">2026-01-11</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Sunday 11 and this episode was curated by Gemini 3 Pro.
-[pause]
-[somber] We begin with a dramatic escalation in the Middle East that is dominating every major front page in Italy tonight. Following up on yesterday's reports of unrest, the situation in Iran has spiraled into what **Corriere Della Sera** and **La Repubblica** are describing as a bloodbath. Humanitarian organizations now estimate the death...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-11/2026-01-11-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-09</h3>
-            <div class="meta">2026-01-09</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Friday, January 09 and this episode was curated by Gemini 3 Pro.
-[pause]
-[somber] We start with a major development in the Crans-Montana tragedy. While a solemn state funeral was held in Rome today for the victims—attended by both Premier Meloni and Opposition leader Elly Schlein—the legal noose is tightening around the owners of the nightclub. **ANSA** and **Corriere Della Sera** report that Jacques...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-09/2026-01-09-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-08</h3>
-            <div class="meta">2026-01-08</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Thursday, January 08, and this episode was curated by Gemini 3 Pro.
-[pause]
-[somber] We begin with the tragedy in Crans-Montana. While families in Genoa gave their final farewell to the victims today, the narrative surrounding the nightclub fire has shifted from grief to a forensic hunt for responsibility. **ANSA** reports that the Prosecutor's Office in Rome has now officially opened its own...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-08/2026-01-08-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-07</h3>
-            <div class="meta">2026-01-07</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Wednesday, January 07, and this episode was curated by Gemini 3 Pro.
-[pause]
-[newscaster] We begin in Rome, where the calendar has once again dragged the country back into the dark iconography of the 1970s. It is January 7th, the anniversary of the Acca Larentia killings, and as **ANSA** reports, hundreds of black-clad militants gathered this evening to perform the "Roman salute"—the fascist arm...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-07/2026-01-07-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-06</h3>
-            <div class="meta">2026-01-06</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Tuesday, January 06, and this episode was curated by Gemini 3 Pro.
-[pause]
-[somber] We begin with a story that has shaken the country's workforce to its core. A 34-year-old train conductor, Alessandro Ambrosio, was stabbed to death in the act of duty near the Bologna station, a brutal crime that has immediately paralyzed the nation's rail network. **Corriere Della Sera** reports that in response to the...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-06/2026-01-06-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-05</h3>
-            <div class="meta">2026-01-05</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Monday, January 05, and this episode was curated by Gemini 3 Pro.
-[pause]
-[newscaster] Following up on yesterday's report regarding the seismic shift in Venezuela, the narrative has moved from the military raid to the courtroom drama in Manhattan, and the Italian press is transfixed by the spectacle. **La Repubblica** and **Corriere Della Sera** paint a surreal picture of Nicolás Maduro appearing before...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-05/2026-01-05-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-04</h3>
-            <div class="meta">2026-01-04</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Sunday, January 04, and this episode was curated by Gemini 3 Pro.
-[pause]
-[newscaster] Following up on yesterday's report regarding the tectonic geopolitical shift in Venezuela, the shockwaves are still rattling the Italian press, but the focus has shifted from the military raid to the diplomatic fallout. **La Repubblica** and **Corriere Della Sera** report that Donald Trump has now turned his sights on...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-04/2026-01-04-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2026-01-01</h3>
-            <div class="meta">2026-01-01</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Thursday, January 01 and this episode was curated by Gemini 3 Pro.
-[pause]
-[somber] The new year has begun with a horrific tragedy just across the border that has left Italy holding its breath. **Corriere Della Sera** and **La Repubblica** are devoting their entire front pages to the catastrophe in Crans-Montana, Switzerland, where a fire in a popular nightclub has killed at least 47 people and injured...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2026-01-01/2026-01-01-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2025-12-31</h3>
-            <div class="meta">2025-12-31</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Wednesday, December 31, and this episode was curated by Gemini 3 Pro.
-[pause]
-[newscaster] As the clocks count down to 2026, the country is preparing for its most sacred secular ritual: the President’s end-of-year address. Tonight, Sergio Mattarella will enter the living rooms of millions of Italians. According to **Corriere Della Sera**, the speech is expected to be a call for "social cohesion," with a...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-31/2025-12-31-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2025-12-30</h3>
-            <div class="meta">2025-12-30</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Tuesday, December 30, and this episode was curated by Gemini 3 Pro.
-[pause]
-[newscaster] The long political marathon of 2025 has officially crossed the finish line. The Chamber of Deputies gave its final approval to the Budget Law this evening, securing the Meloni government's economic roadmap for the coming year. According to **ANSA**, the maneuvering is over, and Prime Minister Giorgia Meloni is...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-30/2025-12-30-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2025-12-29</h3>
-            <div class="meta">2025-12-29</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Monday, December 29, and this episode was curated by Gemini 3 Pro.
-[pause]
-[newscaster] Following up on yesterday’s report regarding the Hamas financing ring in Genoa, the story has mutated from a judicial inquiry into a brutal political trench war. While investigators continue to analyze the cash seized from architect Mohammad Hannoun, the focus has shifted entirely to his alleged political connections....</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-29/2025-12-29-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2025-12-28</h3>
-            <div class="meta">2025-12-28</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Sunday 28 and this episode was curated by Gemini 3 Pro.
-[pause]
-[newscaster] Following up on yesterday’s top story regarding the Hamas financing network in Genoa, the situation has escalated from a judicial inquiry into a full-blown political brawl. The release of wiretaps involving the key suspect, Mohammad Hannoun, has poured gasoline on the fire. According to *Corriere Della Sera* and *Fanpage*, the...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-28/2025-12-28-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2025-12-27</h3>
-            <div class="meta">2025-12-27</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Saturday 27 and this episode was curated by Gemini 3 Pro.
+    </section>
 
-[newscaster] We open tonight with a story that has ignited a firestorm across the Italian political spectrum, blurring the lines between humanitarian aid and terrorism financing. In a major operation coordinated by the Genoa prosecutor's office, police have arrested nine people accused of funneling money to Hamas. According to *Corriere della...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-27/2025-12-27-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
+    
+    <footer class="site-footer">
         
-        <div class="episode">
-            <h3>Italy Today - 2025-12-26</h3>
-            <div class="meta">2025-12-26</div>
-            
-            <div class="description">[energetic] Welcome to another episode of "Italy Today", I am your host Amelia, Today is Friday 26 and this episode was curated by Gemini 3 Pro.
-
-[somber] We begin tonight with the lowering of a flag in Turin, marking the definitive end of the Twentieth Century for Italian industry. Maria Sole Agnelli, the sister of the legendary "Avvocato" Gianni Agnelli, has died at the age of 100. While her brother was the flamboyant king of Italy’s post-war economic boom, Maria Sole was the picture of...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-26/2025-12-26-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
+        <a class="footer-link" href="artifacts/2026-02-20/2026-02-20-sources-view.html">See all stories &rarr;</a>
         
-        <div class="episode">
-            <h3>Italy Today - 2025-12-25</h3>
-            <div class="meta">2025-12-25</div>
-            
-            <div class="description">**ITALY TODAY**
-Welcome, I am your host Amelia. Today is Thursday, December 25. Today's episode was curated by Gemini 3 Pro.
-**SECTION 1: THE LEAD**
-We begin with a Christmas that is less about peace and joy, and more about sirens and sandbags. While the lights are twinkling in Rome, the reality in Emilia-Romagna remains critical. Following up on yesterday’s report regarding the "polar vortex," the situation has escalated into a full-blown emergency.
-*Il Sole 24 Ore* and *Corriere della...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-25/2025-12-25-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2025-12-24</h3>
-            <div class="meta">2025-12-24</div>
-            
-            <div class="description">**ITALY TODAY**
-Welcome, I am your host Amelia. Today is Wednesday, December 24—Christmas Eve. Today's episode was curated by Gemini 3 Pro.
-**SECTION 1: THE LEAD**
-We begin with a country split between a white Christmas, a wet Christmas, and a tragic one. While the festive lights are on, the operational reality of the peninsula is currently defined by a severe "polar vortex."
-*Il Sole 24 Ore* and *Corriere della Sera* report that the holiday exodus is facing a dual threat: gridlock and...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-24/2025-12-24-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2025-12-23</h3>
-            <div class="meta">2025-12-23</div>
-            
-            <div class="description">**ITALY TODAY**
-Welcome, I am your host Amelia. Today is Tuesday, December 23. Today's episode was curated by Gemini 3 Pro.
-**SECTION 1: THE LEAD**
-We begin with the money. Following up on yesterday's report about the frantic race to close the books, the Senate has officially approved the 2025 Budget Law.
-The "Manovra"—a 22-billion-euro package—passed with 110 votes in favor and 66 against, effectively securing the government's economic roadmap just under the holiday wire. The narrative war...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-23/2025-12-23-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2025-12-22</h3>
-            <div class="meta">2025-12-22</div>
-            
-            <div class="description">**ITALY TODAY**
-Welcome, I am your host Amelia. Today is Monday, December 22. Today’s episode was curated by Gemini 3 Pro.
-**SECTION 1: THE LEAD**
-We begin today with a rare and significant intervention from the Quirinale Palace that has temporarily silenced the usual partisan shouting match.
-President Sergio Mattarella has signed five pardons—acts of clemency that cut straight through the rigid application of Italian law to address human tragedy. The most discussed case, highlighted with...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-22/2025-12-22-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2025-12-21</h3>
-            <div class="meta">2025-12-21</div>
-            
-            <div class="description">**ITALY TODAY**
-Welcome, I am your host Amelia. Today is Sunday, December 21. Today’s episode was curated by Gemini 3 Pro.
-**SECTION 1: THE LEAD**
-The front pages today are dominated by a clash over gender, identity, and the safety of women, splitting the country down a jagged ideological line.
-The spark is a landmark ruling from a tribunal in La Spezia, which authorized a 13-year-old to legally change their gender identity. For the progressive press, particularly *La Repubblica* and...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-21/2025-12-21-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2025-12-20</h3>
-            <div class="meta">2025-12-20</div>
-            
-            <div class="description">**ITALY TODAY**
-Welcome, I am your host Amelia. Today is Saturday, December 20. Today’s episode was curated by Gemini 3 Pro.
-**SECTION 1: THE LEAD**
-If yesterday the tension in Italy was confined to the hush of parliamentary committee rooms, today it spilled violently into the streets. The lead story across the entire peninsula involves water cannons, tear gas, and burning dumpsters in the elegant center of Turin.
-The flashpoint is "Askatasuna," a historic social center—essentially a...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-20/2025-12-20-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2025-12-19</h3>
-            <div class="meta">2025-12-19</div>
-            
-            <div class="description">**ITALY TODAY**
-Welcome, I am your host Amelia. Today is Friday, December 19. Today's episode was curated by Gemini 3 Pro.
-**SECTION 1: THE LEAD**
-Following up on yesterday's report, the cracks in the government coalition we mentioned have turned into a landslide. If yesterday was about a tactical retreat on university pension buybacks, today is about a strategic surrender on the entire pension front. During a chaotic night in the Budget Committee, the government majority effectively deleted...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-19/2025-12-19-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2025-12-18</h3>
-            <div class="meta">2025-12-18</div>
-            
-            <div class="description">**ITALY TODAY**
-Welcome, I am your host Amelia. Today is Thursday, December 18. Today's episode was curated by Gemini 3 Pro.
-**SECTION 1: THE LEAD**
-In Turin, the thirty-year experiment of "illegal but tolerated" is officially over. At dawn this morning, police forces initiated the eviction of Askatasuna, the city’s most notorious social center, a stronghold of the antagonism that has defined Turin’s radical left since the 1990s. The operation quickly turned the streets into a battlefield....</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-18/2025-12-18-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2025-12-17</h3>
-            <div class="meta">2025-12-17</div>
-            
-            <div class="description">**ITALY TODAY**
-Welcome, I am your host Amelia. Today is Wednesday 17. Today's episode was curated by DeepSeek v3.2 Speciale.
-**SECTION 1: THE LEAD**
-Italy's highest court has delivered the final word in the legal saga of Matteo Salvini and the Open Arms migrant rescue ship. The Cassazione definitively acquitted the former interior minister, confirming earlier rulings that he did not commit kidnapping or abuse of office when he blocked the vessel from docking in 2019. Salvini, now deputy...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-17/2025-12-17-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2025-12-16</h3>
-            <div class="meta">2025-12-16</div>
-            
-            <div class="description">**ITALY TODAY**
-Welcome, I am your host Amelia. Today is Tuesday 16. Today's episode was curated by DeepSeek v3.2 Speciale.
-The world is closer than ever to a peace deal to end the war in Ukraine – but the final stretch is proving to be a diplomatic minefield. Italian Foreign Minister Antonio Tajani declared today that the agreement is “90 percent complete,” thanks in large part to Donald Trump’s shuttle diplomacy. Yet within hours, Moscow laid down its red lines: no NATO troops on Ukrainian...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-16/2025-12-16-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Italy Today - 2025-12-15</h3>
-            <div class="meta">2025-12-15</div>
-            
-            <div class="description">**THE ROMAN OBSERVER**
-Buongiorno, I am Amelia. It is Monday 15, and here is the view from Rome. Today's briefing was curated by DeepSeek-V3.2-Special.
-**PART 1: THE HEADLINES (The "Terza Pagina")**
-1. **The Imam's Release: Government vs Judiciary**  
-   - **The Fact:** A Turin court ordered the release of Tunisian imam Mohamed Shahin from a detention center, ruling his continued detention unlawful.  
-   - **The Spin:** While left-leaning La Repubblica reported the decision with a focus on...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/italy-today/artifacts/2025-12-15/2025-12-15-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-    </div>
+        <a class="rss-link" href="rss.xml">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><circle cx="6.18" cy="17.82" r="2.18"/><path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/></svg>
+            Subscribe via RSS
+        </a>
+    </footer>
 
 </body>
 </html>
