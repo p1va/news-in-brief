@@ -1,12 +1,31 @@
 {
   "date": "2026-02-20",
-  "generated_at": "Venerdì 20 Febbraio 17:42",
+  "generated_at": "Venerdì 20 Febbraio 18:57",
   "stories": [
     {
       "rank": 1,
+      "title": "La Corte Suprema Usa boccia i dazi di Trump: «Non ha il potere di imporli»",
+      "source_count": 11,
+      "article_count": 28,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "adnkronos.com",
+        "video.corriere.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "fanpage.it",
+        "unita.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "L’ex principe Andrea arrestato e rilasciato dopo 11 ore: di che cosa è accusato e cosa rischia ora",
       "source_count": 10,
-      "article_count": 27,
+      "article_count": 26,
       "source_domains": [
         "liberoquotidiano.it",
         "ilmessaggero.it",
@@ -21,16 +40,16 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Bimbo trapiantato, annuncio della mamma in tv: “Non ci sono speranze, ora potete lasciarlo andare”",
       "source_count": 11,
-      "article_count": 24,
+      "article_count": 25,
       "source_domains": [
+        "fanpage.it",
         "adnkronos.com",
         "ansa.it",
         "ilgiornale.it",
         "napoli.repubblica.it",
-        "fanpage.it",
         "napoli.corriere.it",
         "lastampa.it",
         "ilfattoquotidiano.it",
@@ -40,39 +59,20 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "La Corte Suprema Usa boccia i dazi di Trump: «Non ha il potere di imporli»",
-      "source_count": 11,
-      "article_count": 21,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "corriere.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "unita.it",
-        "ansa.it",
-        "lastampa.it",
-        "news.google.com"
-      ]
-    },
-    {
       "rank": 4,
       "title": "È morto Eric Dane, il dottor Sloan di Grey’s Anatomy. Aveva 53 anni e combatteva contro la Sla",
       "source_count": 12,
-      "article_count": 19,
+      "article_count": 22,
       "source_domains": [
-        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
         "fanpage.it",
+        "adnkronos.com",
         "liberoquotidiano.it",
         "ilgiornale.it",
         "unita.it",
         "ansa.it",
-        "ilfattoquotidiano.it",
         "lastampa.it",
-        "ilmessaggero.it",
         "corriere.it",
         "repubblica.it",
         "news.google.com"
@@ -82,10 +82,10 @@
       "rank": 5,
       "title": "Sinner eliminato dall'Atp di Doha, ko in tre set contro Mensik: perchè ha perso e come cambia il ranking",
       "source_count": 10,
-      "article_count": 19,
+      "article_count": 20,
       "source_domains": [
-        "ilgiornale.it",
         "adnkronos.com",
+        "ilgiornale.it",
         "ilfattoquotidiano.it",
         "corriere.it",
         "ansa.it",
@@ -98,6 +98,25 @@
     },
     {
       "rank": 6,
+      "title": "Trump chiede al Pentagono di pubblicare tutti i file su ricerca di vita extraterrestre e Ufo",
+      "source_count": 11,
+      "article_count": 12,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ansa.it",
+        "repubblica.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Saluti romani ad Acca Larentia, gup proscioglie 29 persone: era contestata la violazione delle leggi Mancino e Scelba",
       "source_count": 11,
       "article_count": 12,
@@ -112,24 +131,6 @@
         "ilmessaggero.it",
         "lastampa.it",
         "agi.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Trump chiede al Pentagono di pubblicare tutti i file su ricerca di vita extraterrestre e Ufo",
-      "source_count": 10,
-      "article_count": 11,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "corriere.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ansa.it",
-        "repubblica.it",
         "news.google.com"
       ]
     },
@@ -150,22 +151,6 @@
     },
     {
       "rank": 9,
-      "title": "Meloni: “Giuste le parole di Mattarella. Il referendum non è su di me. C'è chi vuole la lotta nel fango”",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "unita.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "roma.corriere.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Concorso per notai, quei giudizi sui candidati caricati online per errore: «È carina», «graziato», «fenomeno»",
       "source_count": 9,
       "article_count": 9,
@@ -179,6 +164,22 @@
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "corrieredelveneto.corriere.it"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Meloni: “Giuste le parole di Mattarella. Il referendum non è su di me. C'è chi vuole la lotta nel fango”",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "unita.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "roma.corriere.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilsole24ore.com"
       ]
     }
   ]
