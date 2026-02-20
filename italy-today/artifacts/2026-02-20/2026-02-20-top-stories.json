@@ -1,19 +1,19 @@
 {
   "date": "2026-02-20",
-  "generated_at": "Venerdì 20 Febbraio 10:43",
+  "generated_at": "Venerdì 20 Febbraio 11:38",
   "stories": [
     {
       "rank": 1,
       "title": "L’ex principe Andrea arrestato e rilasciato dopo 11 ore: di che cosa è accusato e cosa rischia ora",
       "source_count": 13,
-      "article_count": 22,
+      "article_count": 24,
       "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
         "repubblica.it",
         "adnkronos.com",
         "liberoquotidiano.it",
         "corriere.it",
-        "ansa.it",
-        "ilmessaggero.it",
         "laverita.info",
         "fanpage.it",
         "ilgiornale.it",
@@ -25,9 +25,29 @@
     },
     {
       "rank": 2,
+      "title": "È morto Eric Dane, il dottor Sloan di Grey’s Anatomy. Aveva 53 anni e combatteva contro la Sla",
+      "source_count": 12,
+      "article_count": 17,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "unita.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "repubblica.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "La mamma di Domenico: «Iniziate le cure per il dolore. Non ci sono speranze» | Il no a un nuovo trapianto: «Non sopravviverebbe»",
       "source_count": 11,
-      "article_count": 18,
+      "article_count": 17,
       "source_domains": [
         "ansa.it",
         "ilgiornale.it",
@@ -43,37 +63,17 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "È morto Eric Dane, il dottor Sloan di Grey’s Anatomy. Aveva 53 anni e combatteva contro la Sla",
-      "source_count": 12,
-      "article_count": 15,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "unita.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "corriere.it",
-        "repubblica.it",
-        "news.google.com"
-      ]
-    },
-    {
       "rank": 4,
       "title": "Sinner eliminato dall'Atp di Doha, ko in tre set contro Mensik: perchè ha perso e come cambia il ranking",
       "source_count": 8,
-      "article_count": 15,
+      "article_count": 16,
       "source_domains": [
+        "corriere.it",
         "ansa.it",
         "ilmessaggero.it",
         "repubblica.it",
         "liberoquotidiano.it",
         "fanpage.it",
-        "corriere.it",
         "ilgiornale.it",
         "lastampa.it"
       ]
@@ -96,19 +96,52 @@
     },
     {
       "rank": 6,
-      "title": "Pusher ucciso a Rogoredo, i colleghi scaricano l’agente: “Mentì dicendo di aver chiamato i soccorsi”",
-      "source_count": 5,
+      "title": "Ufo, Trump ordina al Pentagono di rendere pubblici i documenti sugli alieni",
+      "source_count": 9,
       "article_count": 9,
       "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "milano.corriere.it",
+        "corriere.it",
         "ilgiornale.it",
-        "unita.it"
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ansa.it",
+        "repubblica.it",
+        "news.google.com"
       ]
     },
     {
       "rank": 7,
+      "title": "Rogoredo, il pusher ucciso e l'ipotesi della pistola messa nelle sue mani invece dichiamare i soccorsi. Le accuse ai cinque agenti e i buchi nei loro racconti",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "unita.it",
+        "adnkronos.com",
+        "ansa.it",
+        "lastampa.it",
+        "milano.corriere.it",
+        "ilgiornale.it"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Addio all'attrice Angela Luce, voce e volto di Napoli",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "unita.it",
+        "ansa.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "napoli.corriere.it"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Milano Cortina, le gare di oggi: da Lollobrigida a Fontana, orari e dove vedere gli azzurri",
       "source_count": 6,
       "article_count": 7,
@@ -122,7 +155,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Crans-Montana, i feriti italiani agli inquirenti: «Al Constellation uscite chiuse. Jessica Moretti? È scappata»",
       "source_count": 6,
       "article_count": 7,
@@ -132,32 +165,6 @@
         "roma.corriere.it",
         "adnkronos.com",
         "ilmessaggero.it",
-        "ansa.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "La «pecora nera»: perché il figlio preferito di Elisabetta rischia ora di causare il crollo della Corona",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "corriere.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Le dimissioni di Petrecca, RaiSport al suo vice e la redazione brinda",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "lastampa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmanifesto.it",
         "ansa.it"
       ]
     }
