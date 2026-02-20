@@ -1,11 +1,11 @@
 {
   "date": "2026-02-20",
-  "generated_at": "Venerdì 20 Febbraio 08:51",
+  "generated_at": "Venerdì 20 Febbraio 09:51",
   "stories": [
     {
       "rank": 1,
       "title": "L'ex principe Andrea arrestato per il caso Epstein. Carlo lo scarica",
-      "source_count": 11,
+      "source_count": 13,
       "article_count": 22,
       "source_domains": [
         "adnkronos.com",
@@ -17,12 +17,34 @@
         "fanpage.it",
         "ilgiornale.it",
         "repubblica.it",
+        "ilmanifesto.it",
         "lastampa.it",
+        "ilfattoquotidiano.it",
         "news.google.com"
       ]
     },
     {
       "rank": 2,
+      "title": "È morto Eric Dane, il dottor Sloan di Grey’s Anatomy. Aveva 53 anni e combatteva contro la Sla",
+      "source_count": 12,
+      "article_count": 15,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "unita.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "repubblica.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "La mamma di Domenico: «Iniziate le cure per il dolore. Non ci sono speranze» | Il no a un nuovo trapianto: «Non sopravviverebbe»",
       "source_count": 11,
       "article_count": 15,
@@ -41,34 +63,16 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "È morto Eric Dane, il dottor Sloan di Grey’s Anatomy. Aveva 53 anni e combatteva contro la Sla",
-      "source_count": 10,
-      "article_count": 12,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "corriere.it",
-        "repubblica.it",
-        "news.google.com"
-      ]
-    },
-    {
       "rank": 4,
       "title": "Sinner sorpreso dall’ottimo Mensik: Jannik fuori ai quarti di finale a Doha",
       "source_count": 8,
-      "article_count": 10,
+      "article_count": 12,
       "source_domains": [
-        "fanpage.it",
+        "ilmessaggero.it",
         "liberoquotidiano.it",
+        "fanpage.it",
         "corriere.it",
         "ansa.it",
-        "ilmessaggero.it",
         "ilgiornale.it",
         "repubblica.it",
         "lastampa.it"
@@ -77,9 +81,10 @@
     {
       "rank": 5,
       "title": "Meloni: “Giuste le parole di Mattarella. Il referendum non è su di me. C'è chi vuole la lotta nel fango”",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
+        "unita.it",
         "lastampa.it",
         "ilgiornale.it",
         "adnkronos.com",
@@ -120,9 +125,10 @@
     {
       "rank": 8,
       "title": "Rogoredo, il pusher ucciso e l'ipotesi della pistola messa nelle sue mani invece dichiamare i soccorsi. Le accuse ai cinque agenti e i buchi nei loro racconti",
-      "source_count": 4,
-      "article_count": 6,
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
+        "lastampa.it",
         "milano.corriere.it",
         "ansa.it",
         "ilgiornale.it",
@@ -131,25 +137,27 @@
     },
     {
       "rank": 9,
-      "title": "Trump apre Board of Peace: \"Pace, parola semplice, ma difficile da mettere in pratica\"",
-      "source_count": 2,
-      "article_count": 8,
+      "title": "La «pecora nera»: perché il figlio preferito di Elisabetta rischia ora di causare il crollo della Corona",
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
         "corriere.it",
-        "liberoquotidiano.it"
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilmessaggero.it"
       ]
     },
     {
       "rank": 10,
-      "title": "Donna decapitata a Scandicci, uomo fermato per omicidio: nei campi trovato un machete",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Iran, Trump valuta un attacco. L’idea di un blitz per forzare i negoziati: «Deciderò cosa fare entro 10-15 giorni»",
+      "source_count": 4,
+      "article_count": 7,
       "source_domains": [
-        "fanpage.it",
-        "laverita.info",
-        "ansa.it",
-        "corrierefiorentino.corriere.it",
-        "ilmessaggero.it"
+        "liberoquotidiano.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "adnkronos.com"
       ]
     }
   ]
