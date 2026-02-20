@@ -1,12 +1,12 @@
 {
   "date": "2026-02-20",
-  "generated_at": "Venerdì 20 Febbraio 16:51",
+  "generated_at": "Venerdì 20 Febbraio 17:42",
   "stories": [
     {
       "rank": 1,
       "title": "L’ex principe Andrea arrestato e rilasciato dopo 11 ore: di che cosa è accusato e cosa rischia ora",
-      "source_count": 11,
-      "article_count": 29,
+      "source_count": 10,
+      "article_count": 27,
       "source_domains": [
         "liberoquotidiano.it",
         "ilmessaggero.it",
@@ -17,8 +17,7 @@
         "laverita.info",
         "fanpage.it",
         "ilgiornale.it",
-        "lastampa.it",
-        "news.google.com"
+        "lastampa.it"
       ]
     },
     {
@@ -42,6 +41,25 @@
     },
     {
       "rank": 3,
+      "title": "La Corte Suprema Usa boccia i dazi di Trump: «Non ha il potere di imporli»",
+      "source_count": 11,
+      "article_count": 21,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "corriere.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "unita.it",
+        "ansa.it",
+        "lastampa.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "È morto Eric Dane, il dottor Sloan di Grey’s Anatomy. Aveva 53 anni e combatteva contro la Sla",
       "source_count": 12,
       "article_count": 19,
@@ -61,7 +79,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Sinner eliminato dall'Atp di Doha, ko in tre set contro Mensik: perchè ha perso e come cambia il ranking",
       "source_count": 10,
       "article_count": 19,
@@ -79,26 +97,26 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "La Corte Suprema Usa boccia i dazi di Trump: «Non ha il potere di imporli»",
+      "rank": 6,
+      "title": "Saluti romani ad Acca Larentia, gup proscioglie 29 persone: era contestata la violazione delle leggi Mancino e Scelba",
       "source_count": 11,
-      "article_count": 17,
+      "article_count": 12,
       "source_domains": [
-        "corriere.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "ilgiornale.it",
         "fanpage.it",
-        "unita.it",
+        "ilgiornale.it",
         "ilfattoquotidiano.it",
+        "roma.corriere.it",
+        "roma.repubblica.it",
+        "adnkronos.com",
         "ansa.it",
+        "ilmessaggero.it",
         "lastampa.it",
+        "agi.it",
         "news.google.com"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Trump chiede al Pentagono di pubblicare tutti i file su ricerca di vita extraterrestre e Ufo",
       "source_count": 10,
       "article_count": 11,
@@ -113,24 +131,6 @@
         "ansa.it",
         "repubblica.it",
         "news.google.com"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Saluti romani ad Acca Larentia, gup proscioglie 29 persone: era contestata la violazione delle leggi Mancino e Scelba",
-      "source_count": 10,
-      "article_count": 11,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "roma.corriere.it",
-        "roma.repubblica.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "agi.it"
       ]
     },
     {
