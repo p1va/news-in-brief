@@ -1,19 +1,19 @@
 {
   "date": "2026-02-20",
-  "generated_at": "Venerdì 20 Febbraio 15:42",
+  "generated_at": "Venerdì 20 Febbraio 16:51",
   "stories": [
     {
       "rank": 1,
       "title": "L’ex principe Andrea arrestato e rilasciato dopo 11 ore: di che cosa è accusato e cosa rischia ora",
       "source_count": 11,
-      "article_count": 28,
+      "article_count": 29,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "repubblica.it",
         "adnkronos.com",
         "ansa.it",
         "corriere.it",
-        "liberoquotidiano.it",
         "laverita.info",
         "fanpage.it",
         "ilgiornale.it",
@@ -80,6 +80,43 @@
     },
     {
       "rank": 5,
+      "title": "La Corte Suprema Usa boccia i dazi di Trump: «Non ha il potere di imporli»",
+      "source_count": 11,
+      "article_count": 17,
+      "source_domains": [
+        "corriere.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "fanpage.it",
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Trump chiede al Pentagono di pubblicare tutti i file su ricerca di vita extraterrestre e Ufo",
+      "source_count": 10,
+      "article_count": 11,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ansa.it",
+        "repubblica.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Saluti romani ad Acca Larentia, gup proscioglie 29 persone: era contestata la violazione delle leggi Mancino e Scelba",
       "source_count": 10,
       "article_count": 11,
@@ -97,25 +134,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Ufo, Trump ordina al Pentagono di rendere pubblici i documenti sugli alieni",
-      "source_count": 10,
-      "article_count": 10,
-      "source_domains": [
-        "fanpage.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ansa.it",
-        "repubblica.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "title": "Pusher ucciso a Rogoredo, i colleghi scaricano l’agente: “Mentì dicendo di aver chiamato i soccorsi”",
       "source_count": 7,
       "article_count": 11,
@@ -130,7 +149,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Meloni: “Giuste le parole di Mattarella. Il referendum non è su di me. C'è chi vuole la lotta nel fango”",
       "source_count": 8,
       "article_count": 10,
@@ -146,34 +165,20 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "La Corte Suprema Usa boccia i dazi di Trump: «Non ha il potere di imporli»",
+      "rank": 10,
+      "title": "Concorso per notai, quei giudizi sui candidati caricati online per errore: «È carina», «graziato», «fenomeno»",
       "source_count": 9,
       "article_count": 9,
       "source_domains": [
         "fanpage.it",
-        "corriere.it",
-        "unita.it",
-        "ilgiornale.it",
         "adnkronos.com",
-        "ilfattoquotidiano.it",
         "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Alysa Liu, la pattinatrice più punk delle Olimpiadi vince l’oro “a modo suo”",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
         "lastampa.it",
-        "fanpage.it",
         "repubblica.it",
-        "corriere.it"
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "corrieredelveneto.corriere.it"
       ]
     }
   ]
