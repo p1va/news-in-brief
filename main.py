@@ -342,6 +342,7 @@ def process_episode(
                 "model_name": config.llm.model_friendly_name,
                 # "host_name": config.metadata.host_name,
                 "today": datetime.date.today().strftime("%A %d"),
+                "today_full": datetime.date.today().strftime("%A %d %B %Y"),
                 "include_deep_dive": deep_dive,
                 "use_speech_tags": use_speech_tags,
                 "yesterday_date": yesterday_str,
