@@ -19,7 +19,7 @@ class TopicCluster:
     articles: List[dict]  # {title, source, link...}
     sources: List[str]
     diversity_score: float  # 0-1, unique sources / total articles
-    importance_score: float = 0.0  # size * (0.5 + 0.5 * diversity)
+    importance_score: float = 0.0  # number of distinct sources
     is_junk: bool = False
     junk_reason: str = ""
 
@@ -89,7 +89,7 @@ class NewsAnalyzer:
             clusters.append(cluster)
 
         # Step 4: Sort by importance score
-        clusters.sort(key=lambda x: x.importance_score, reverse=True)
+        clusters.sort(key=lambda x: (x.importance_score, x.diversity_score), reverse=True)
 
         # Step 5: Categorize clusters
         top_stories = []
@@ -164,7 +164,7 @@ class NewsAnalyzer:
         # Calculate metrics
         n_sources = len(set(cluster_sources))
         diversity = n_sources / len(cluster_sources)
-        importance = len(cluster_titles) * (0.5 + 0.5 * diversity)
+        importance = n_sources
 
         return TopicCluster(
             id=int(label),

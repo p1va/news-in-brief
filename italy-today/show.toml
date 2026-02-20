@@ -46,6 +46,7 @@ url = "https://xml2.corriereobjects.it/feed-hp/homepage.xml"
 name = "Il Sole Ventiquattro Ore"
 country = "Italy"
 url = "https://www.ilsole24ore.com/rss/italia.xml"
+editorial_tier = "full"
 
 [[feeds]]
 name = "La Repubblica"
@@ -61,17 +62,20 @@ url = "https://www.lastampa.it/rss/copertina.xml"
 name = "ANSA"
 country = "Italy"
 url = "https://www.ansa.it/sito/ansait_rss.xml"
+editorial_tier = "full"
 
 [[feeds]]
 name = "AGI"
 country = "Italy"
 url = "https://www.agi.it/cronaca/rss"
+editorial_tier = "full"
 cleaning.description_prefix = "^AGI\\s*-\\s*"
 
 [[feeds]]
 name = "Adkronos"
 country = "Italy"
 url = "https://www.adnkronos.com/RSS_PrimaPagina.xml"
+editorial_tier = "full"
 cleaning.description_prefix = "^\\(Adnkronos\\)\\s*-\\s*"
 
 [[feeds]]
@@ -88,11 +92,13 @@ url = "https://www.fanpage.it/feed/"
 name = "Il Post"
 country = "Italy"
 url = "https://news.google.com/rss/search?q=site:ilpost.it&hl=it&gl=IT&ceid=IT:it"
+editorial_tier = "full"
 
 [[feeds]]
 name = "Il Foglio"
 country = "Italy"
 url = "https://www.ilfoglio.it/cronaca/rss.xml"
+editorial_tier = "full"
 
 [[feeds]]
 name = "Il Giornale"
@@ -128,13 +134,16 @@ url = "https://www.ilmessaggero.it/?sez=XML&p=search&args[box]=Home&limit=100&la
 name = "Governo Italiano - Comunicati Stampa"
 country = "Italy"
 url = "https://www.governo.it/feed/rss"
+editorial_tier = "full"
 
 [[feeds]]
 name = "Camera Dei Deputati - Ultimi Temi"
 country = "Italy"
 url = "https://documenti.camera.it/rss/temi/bridgeUltimiTemiRss.xml"
+editorial_tier = "full"
 
 [[feeds]]
 name = "Senato Della Repubblica - Comunicato Di Fine Seduta"
 country = "Italy"
 url = "https://www.senato.it/leg19/feeds/1/1252.xml"
+editorial_tier = "full"

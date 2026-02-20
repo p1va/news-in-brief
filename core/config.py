@@ -46,6 +46,7 @@ class FeedConfig:
     url: str
     country: str  # Optional: helpful for grouping if needed later
     cleaning: Optional[FeedCleaningConfig] = None
+    editorial_tier: str = "cluster_only"  # "full" or "cluster_only"
 
 
 @dataclass
@@ -168,6 +169,7 @@ def load_show_config(show_dir: Path) -> ShowConfig:
                         url=feed_data["url"],
                         country=feed_data["country"],
                         cleaning=feed_cleaning,
+                        editorial_tier=feed_data.get("editorial_tier", "cluster_only"),
                     )
                 )
 

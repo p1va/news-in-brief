@@ -306,6 +306,24 @@ def process_episode(
                 f"Filtered {len(clustered_articles)} clustered articles from the raw feed."
             )
 
+            # Filter out unclustered articles from "cluster_only" sources
+            # Only "full"-tier sources pass through to <other_headlines>
+            full_tier_sources = {
+                f.name for f in config.feeds if f.editorial_tier == "full"
+            }
+            tier_filtered_feed = {}
+            for source, articles in news_feed.items():
+                if source in full_tier_sources:
+                    tier_filtered_feed[source] = articles
+            dropped = sum(len(v) for v in news_feed.values()) - sum(
+                len(v) for v in tier_filtered_feed.values()
+            )
+            news_feed = tier_filtered_feed
+            typer.echo(
+                f"Filtered {dropped} articles from cluster_only sources. "
+                f"{sum(len(v) for v in news_feed.values())} articles remain for other_headlines."
+            )
+
         # Load previous episode's script for context
         yesterday = datetime.date.today() - datetime.timedelta(days=1)
         yesterday_str = yesterday.strftime("%Y-%m-%d")
