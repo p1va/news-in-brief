@@ -1,46 +1,29 @@
 {
   "date": "2026-02-20",
-  "generated_at": "Venerdì 20 Febbraio 19:01",
+  "generated_at": "Venerdì 20 Febbraio 19:41",
   "stories": [
     {
       "rank": 1,
       "title": "La Corte Suprema Usa boccia i dazi di Trump: «Non ha il potere di imporli»",
-      "source_count": 11,
-      "article_count": 28,
+      "source_count": 12,
+      "article_count": 31,
       "source_domains": [
+        "fanpage.it",
         "ilgiornale.it",
         "ansa.it",
         "adnkronos.com",
-        "video.corriere.it",
+        "liberoquotidiano.it",
         "lastampa.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
+        "corriere.it",
         "repubblica.it",
-        "fanpage.it",
         "unita.it",
         "news.google.com"
       ]
     },
     {
       "rank": 2,
-      "title": "L’ex principe Andrea arrestato e rilasciato dopo 11 ore: di che cosa è accusato e cosa rischia ora",
-      "source_count": 10,
-      "article_count": 26,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ansa.it",
-        "corriere.it",
-        "laverita.info",
-        "fanpage.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Bimbo trapiantato, annuncio della mamma in tv: “Non ci sono speranze, ora potete lasciarlo andare”",
       "source_count": 11,
       "article_count": 25,
@@ -59,11 +42,30 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "L’ex principe Andrea arrestato e rilasciato dopo 11 ore: di che cosa è accusato e cosa rischia ora",
+      "source_count": 10,
+      "article_count": 24,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "corriere.it",
+        "laverita.info",
+        "fanpage.it",
+        "ilgiornale.it",
+        "lastampa.it"
+      ]
+    },
+    {
       "rank": 4,
       "title": "È morto Eric Dane, il dottor Sloan di Grey’s Anatomy. Aveva 53 anni e combatteva contro la Sla",
       "source_count": 12,
       "article_count": 22,
       "source_domains": [
+        "corriere.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "fanpage.it",
@@ -73,7 +75,6 @@
         "unita.it",
         "ansa.it",
         "lastampa.it",
-        "corriere.it",
         "repubblica.it",
         "news.google.com"
       ]
@@ -136,6 +137,24 @@
     },
     {
       "rank": 8,
+      "title": "Concorso per notai, quei giudizi sui candidati caricati online per errore: «È carina», «graziato», «fenomeno»",
+      "source_count": 10,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "corrieredelveneto.corriere.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Pusher ucciso a Rogoredo, i colleghi scaricano l’agente: “Mentì dicendo di aver chiamato i soccorsi”",
       "source_count": 7,
       "article_count": 11,
@@ -150,34 +169,16 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Concorso per notai, quei giudizi sui candidati caricati online per errore: «È carina», «graziato», «fenomeno»",
-      "source_count": 9,
-      "article_count": 9,
-      "source_domains": [
-        "fanpage.it",
-        "adnkronos.com",
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "corrieredelveneto.corriere.it"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Alysa Liu, la pattinatrice più punk delle Olimpiadi vince l’oro “a modo suo”",
-      "source_count": 6,
+      "title": "Iran, Trump: «Sto pensando a attacco limitato per raggiungere accordo»",
+      "source_count": 5,
       "article_count": 11,
       "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
         "liberoquotidiano.it",
+        "video.corriere.it",
+        "ilgiornale.it",
         "lastampa.it",
-        "repubblica.it",
-        "corriere.it"
+        "adnkronos.com"
       ]
     }
   ]
