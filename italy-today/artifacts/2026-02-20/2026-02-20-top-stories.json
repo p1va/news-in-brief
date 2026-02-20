@@ -1,13 +1,14 @@
 {
   "date": "2026-02-20",
-  "generated_at": "Venerdì 20 Febbraio 09:51",
+  "generated_at": "Venerdì 20 Febbraio 10:43",
   "stories": [
     {
       "rank": 1,
-      "title": "L'ex principe Andrea arrestato per il caso Epstein. Carlo lo scarica",
+      "title": "L’ex principe Andrea arrestato e rilasciato dopo 11 ore: di che cosa è accusato e cosa rischia ora",
       "source_count": 13,
       "article_count": 22,
       "source_domains": [
+        "repubblica.it",
         "adnkronos.com",
         "liberoquotidiano.it",
         "corriere.it",
@@ -16,7 +17,6 @@
         "laverita.info",
         "fanpage.it",
         "ilgiornale.it",
-        "repubblica.it",
         "ilmanifesto.it",
         "lastampa.it",
         "ilfattoquotidiano.it",
@@ -25,6 +25,25 @@
     },
     {
       "rank": 2,
+      "title": "La mamma di Domenico: «Iniziate le cure per il dolore. Non ci sono speranze» | Il no a un nuovo trapianto: «Non sopravviverebbe»",
+      "source_count": 11,
+      "article_count": 18,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "napoli.corriere.it",
+        "laverita.info",
+        "lastampa.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "È morto Eric Dane, il dottor Sloan di Grey’s Anatomy. Aveva 53 anni e combatteva contro la Sla",
       "source_count": 12,
       "article_count": 15,
@@ -44,37 +63,18 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "La mamma di Domenico: «Iniziate le cure per il dolore. Non ci sono speranze» | Il no a un nuovo trapianto: «Non sopravviverebbe»",
-      "source_count": 11,
+      "rank": 4,
+      "title": "Sinner eliminato dall'Atp di Doha, ko in tre set contro Mensik: perchè ha perso e come cambia il ranking",
+      "source_count": 8,
       "article_count": 15,
       "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "napoli.corriere.it",
-        "laverita.info",
-        "napoli.repubblica.it",
-        "ilgiornale.it",
         "ansa.it",
-        "lastampa.it",
-        "fanpage.it",
         "ilmessaggero.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Sinner sorpreso dall’ottimo Mensik: Jannik fuori ai quarti di finale a Doha",
-      "source_count": 8,
-      "article_count": 12,
-      "source_domains": [
-        "ilmessaggero.it",
+        "repubblica.it",
         "liberoquotidiano.it",
         "fanpage.it",
         "corriere.it",
-        "ansa.it",
         "ilgiornale.it",
-        "repubblica.it",
         "lastampa.it"
       ]
     },
@@ -96,6 +96,19 @@
     },
     {
       "rank": 6,
+      "title": "Pusher ucciso a Rogoredo, i colleghi scaricano l’agente: “Mentì dicendo di aver chiamato i soccorsi”",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "milano.corriere.it",
+        "ilgiornale.it",
+        "unita.it"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Milano Cortina, le gare di oggi: da Lollobrigida a Fontana, orari e dove vedere gli azzurri",
       "source_count": 6,
       "article_count": 7,
@@ -109,30 +122,17 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Le dimissioni di Petrecca, RaiSport al suo vice e la redazione brinda",
+      "rank": 8,
+      "title": "Crans-Montana, i feriti italiani agli inquirenti: «Al Constellation uscite chiuse. Jessica Moretti? È scappata»",
       "source_count": 6,
       "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ansa.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Rogoredo, il pusher ucciso e l'ipotesi della pistola messa nelle sue mani invece dichiamare i soccorsi. Le accuse ai cinque agenti e i buchi nei loro racconti",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "lastampa.it",
-        "milano.corriere.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "unita.it"
+        "fanpage.it",
+        "roma.corriere.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it"
       ]
     },
     {
@@ -150,14 +150,15 @@
     },
     {
       "rank": 10,
-      "title": "Iran, Trump valuta un attacco. L’idea di un blitz per forzare i negoziati: «Deciderò cosa fare entro 10-15 giorni»",
-      "source_count": 4,
+      "title": "Le dimissioni di Petrecca, RaiSport al suo vice e la redazione brinda",
+      "source_count": 5,
       "article_count": 7,
       "source_domains": [
-        "liberoquotidiano.it",
-        "corriere.it",
+        "lastampa.it",
         "ilgiornale.it",
-        "adnkronos.com"
+        "repubblica.it",
+        "ilmanifesto.it",
+        "ansa.it"
       ]
     }
   ]
