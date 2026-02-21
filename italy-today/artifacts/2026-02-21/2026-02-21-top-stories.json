@@ -1,36 +1,18 @@
 {
   "date": "2026-02-21",
-  "generated_at": "Sabato 21 Febbraio 11:28",
+  "generated_at": "Sabato 21 Febbraio 13:01",
   "stories": [
     {
       "rank": 1,
-      "title": "Monaldi, il cuore del piccolo Domenico si è fermato. La mamma: “Non deve essere dimenticato”",
-      "source_count": 12,
-      "article_count": 35,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "napoli.corriere.it",
-        "unita.it",
-        "ilgiornale.it",
-        "laverita.info",
-        "napoli.repubblica.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "La Corte Suprema Usa boccia i dazi di Trump. Lui: \"Una vergogna\"",
-      "source_count": 13,
-      "article_count": 31,
+      "source_count": 14,
+      "article_count": 34,
       "source_domains": [
+        "liberoquotidiano.it",
         "ansa.it",
         "unita.it",
         "adnkronos.com",
+        "laverita.info",
         "lastampa.it",
         "ilgiornale.it",
         "repubblica.it",
@@ -38,8 +20,28 @@
         "corriere.it",
         "ilmessaggero.it",
         "fanpage.it",
-        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Monaldi, il cuore del piccolo Domenico si è fermato. La mamma: “Non deve essere dimenticato”",
+      "source_count": 13,
+      "article_count": 30,
+      "source_domains": [
+        "fanpage.it",
+        "unita.it",
+        "laverita.info",
+        "napoli.repubblica.it",
+        "roma.corriere.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ansa.it",
+        "ilsole24ore.com",
         "news.google.com"
       ]
     },
@@ -90,6 +92,34 @@
     },
     {
       "rank": 6,
+      "title": "Rai, il fuorionda nel bob a 4: «Evitiamo l'equipaggio dell'israeliano». Poi le scuse di telecronisti e azienda",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "corriere.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Pusher ucciso a Rogoredo, l’ipotesi del “pizzo”. Gli amici della vittima: “Dal poliziotto richieste insistenti di droga e soldi”",
+      "source_count": 5,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "milano.corriere.it",
+        "fanpage.it",
+        "ansa.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Olimpiadi in diretta LIVE, le gare oggi a Milano Cortina: Vittozzi e Wierer nel biathlon, Lollobrigida per l’oro",
       "source_count": 7,
       "article_count": 8,
@@ -104,7 +134,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Milano Cortina, incidente durante gara Fontana: Sellier tagliata da lama sul volto. Cos'è successo",
       "source_count": 6,
       "article_count": 9,
@@ -118,42 +148,17 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Commenti sui candidati e nominativi associati ai santi: bufera sul concorso dei notai",
+      "rank": 10,
+      "title": "Morto il bimbo trapiantato a Napoli, Meloni: \"Italia si stringe nel dolore per Domenico\"",
       "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "corrieredelveneto.corriere.it",
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Dazi Usa, Pichetto \"Difficile valutare l'impatto, aspettiamo contenuto sentenza\"",
-      "source_count": 4,
       "article_count": 6,
       "source_domains": [
-        "corriere.it",
+        "ilfattoquotidiano.it",
+        "napoli.corriere.it",
+        "governo.it",
         "ilgiornale.it",
-        "liberoquotidiano.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Mancato sgombero dello Spin Time, Viminale condannato a pagare un risarcimento da 21 milioni",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmanifesto.it",
-        "roma.corriere.it",
-        "lastampa.it",
-        "news.google.com"
+        "napoli.repubblica.it",
+        "adnkronos.com"
       ]
     }
   ]
