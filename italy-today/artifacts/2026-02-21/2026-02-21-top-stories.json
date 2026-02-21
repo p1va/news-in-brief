@@ -1,13 +1,14 @@
 {
   "date": "2026-02-21",
-  "generated_at": "Sabato 21 Febbraio 09:37",
+  "generated_at": "Sabato 21 Febbraio 10:33",
   "stories": [
     {
       "rank": 1,
       "title": "La Corte Suprema Usa boccia i dazi di Trump. Lui: \"Una vergogna\"",
       "source_count": 14,
-      "article_count": 29,
+      "article_count": 30,
       "source_domains": [
+        "unita.it",
         "ansa.it",
         "laverita.info",
         "lastampa.it",
@@ -20,7 +21,6 @@
         "fanpage.it",
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
-        "unita.it",
         "news.google.com"
       ]
     },
@@ -28,50 +28,36 @@
       "rank": 2,
       "title": "L’ultima cura di Napoli al piccolo Domenico: “Condizioni disperate”",
       "source_count": 9,
-      "article_count": 21,
+      "article_count": 29,
       "source_domains": [
+        "napoli.repubblica.it",
+        "roma.corriere.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
         "ilmessaggero.it",
-        "napoli.repubblica.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
         "ilgiornale.it",
-        "napoli.corriere.it",
         "lastampa.it",
         "ilsole24ore.com"
       ]
     },
     {
       "rank": 3,
-      "title": "Milano Cortina, incidente durante gara Fontana: Sellier tagliata da lama sul volto. Cos'è successo",
-      "source_count": 6,
-      "article_count": 10,
+      "title": "Milano Cortina: bronzo agli azzurri nella staffetta 5000m short track, Fontana e Sighel fuori dal podio nel 1500m",
+      "source_count": 7,
+      "article_count": 9,
       "source_domains": [
-        "fanpage.it",
-        "corriere.it",
         "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "liberoquotidiano.it"
+        "repubblica.it",
+        "laverita.info",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "corriere.it",
+        "ilfattoquotidiano.it"
       ]
     },
     {
       "rank": 4,
-      "title": "Non solo gli Epstein file dietro l'indagine su Andrea, la monarchia trema",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "corriere.it"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Olimpiadi, oggi Deromedis nello ski cross, poi tornano Vittozzi e Wierer nel biathlon | Il dramma di Giacomel: «Devastante»",
       "source_count": 7,
       "article_count": 9,
@@ -86,17 +72,30 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Milano Cortina: bronzo agli azzurri nella staffetta 5000m short track, Fontana e Sighel fuori dal podio nel 1500m",
-      "source_count": 7,
-      "article_count": 8,
+      "rank": 5,
+      "title": "Non solo gli Epstein file dietro l'indagine su Andrea, la monarchia trema",
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
         "repubblica.it",
-        "laverita.info",
-        "ansa.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "liberoquotidiano.it",
+        "ansa.it"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Paura per la polacca Sellier nei 1500 metri short track: colpita dalla lama dell'americana Santos, come sta",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "fanpage.it",
         "corriere.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it"
       ]
     },
