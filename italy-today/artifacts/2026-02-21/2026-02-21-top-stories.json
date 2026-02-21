@@ -1,25 +1,24 @@
 {
   "date": "2026-02-21",
-  "generated_at": "Sabato 21 Febbraio 16:37",
+  "generated_at": "Sabato 21 Febbraio 17:30",
   "stories": [
     {
       "rank": 1,
       "title": "Monaldi, il cuore del piccolo Domenico si è fermato. La mamma: “Non deve essere dimenticato”",
-      "source_count": 14,
-      "article_count": 35,
+      "source_count": 13,
+      "article_count": 33,
       "source_domains": [
         "fanpage.it",
         "ilfattoquotidiano.it",
         "unita.it",
-        "liberoquotidiano.it",
         "laverita.info",
-        "video.corriere.it",
         "napoli.repubblica.it",
+        "roma.corriere.it",
         "adnkronos.com",
-        "ansa.it",
         "ilmessaggero.it",
         "ilgiornale.it",
         "lastampa.it",
+        "ansa.it",
         "ilsole24ore.com",
         "news.google.com"
       ]
@@ -27,34 +26,36 @@
     {
       "rank": 2,
       "title": "Trump, nuovi dazi dopo lo stop della Corte Suprema: \"Non mi fermo\"",
-      "source_count": 11,
-      "article_count": 24,
+      "source_count": 12,
+      "article_count": 28,
       "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "lastampa.it",
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
+        "ansa.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "unita.it",
+        "adnkronos.com",
         "repubblica.it",
         "ilmanifesto.it",
         "corriere.it",
         "ilmessaggero.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it"
+        "fanpage.it"
       ]
     },
     {
       "rank": 3,
-      "title": "Italia da sogno nello Ski Cross alle Olimpiadi! Deromedis si prende l’oro, Tomasoni l’argento al fotofinish",
-      "source_count": 9,
-      "article_count": 13,
+      "title": "Perché Federico Tomasoni ha corso col sole sul casco: l’argento, le lacrime, la dedica a Matilde Lorenzi",
+      "source_count": 10,
+      "article_count": 16,
       "source_domains": [
+        "fanpage.it",
+        "liberoquotidiano.it",
         "adnkronos.com",
+        "corriere.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
         "ansa.it",
         "lastampa.it",
         "news.google.com"
@@ -78,6 +79,21 @@
     },
     {
       "rank": 5,
+      "title": "Juventus, ko e fischi: il Como domina 2-0 allo Stadium",
+      "source_count": 7,
+      "article_count": 13,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "repubblica.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "fanpage.it"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Rai, il fuorionda nel bob a 4: «Evitiamo l'equipaggio dell'israeliano». Poi le scuse di telecronisti e azienda",
       "source_count": 9,
       "article_count": 11,
@@ -94,22 +110,21 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Milano Cortina: bronzo agli azzurri nella staffetta 5000m short track, Fontana e Sighel fuori dal podio nel 1500m",
-      "source_count": 7,
-      "article_count": 12,
+      "rank": 7,
+      "title": "Bronzo nella staffetta maschile: Italia ancora sul podio nello short track",
+      "source_count": 6,
+      "article_count": 13,
       "source_domains": [
         "ansa.it",
+        "corriere.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
-        "repubblica.it",
-        "laverita.info",
         "liberoquotidiano.it",
-        "corriere.it"
+        "repubblica.it"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Pusher ucciso a Rogoredo, l’ipotesi del “pizzo”. Gli amici della vittima: “Dal poliziotto richieste insistenti di droga e soldi”",
       "source_count": 7,
       "article_count": 12,
@@ -124,7 +139,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Olimpiadi Milano-Cortina, alle 11 la mass start di fondo. Attesa per Pellegrino, sarà la sua ultima gara",
       "source_count": 7,
       "article_count": 12,
@@ -136,21 +151,6 @@
         "corriere.it",
         "lastampa.it",
         "adnkronos.com"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Juventus, ko e fischi: il Como domina 2-0 allo Stadium",
-      "source_count": 7,
-      "article_count": 12,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "repubblica.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "lastampa.it"
       ]
     },
     {
