@@ -1,21 +1,40 @@
 {
   "date": "2026-02-21",
-  "generated_at": "Sabato 21 Febbraio 10:33",
+  "generated_at": "Sabato 21 Febbraio 11:28",
   "stories": [
     {
       "rank": 1,
-      "title": "La Corte Suprema Usa boccia i dazi di Trump. Lui: \"Una vergogna\"",
-      "source_count": 14,
-      "article_count": 30,
+      "title": "Monaldi, il cuore del piccolo Domenico si è fermato. La mamma: “Non deve essere dimenticato”",
+      "source_count": 12,
+      "article_count": 35,
       "source_domains": [
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "napoli.corriere.it",
         "unita.it",
-        "ansa.it",
+        "ilgiornale.it",
         "laverita.info",
+        "napoli.repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ansa.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "La Corte Suprema Usa boccia i dazi di Trump. Lui: \"Una vergogna\"",
+      "source_count": 13,
+      "article_count": 31,
+      "source_domains": [
+        "ansa.it",
+        "unita.it",
+        "adnkronos.com",
         "lastampa.it",
         "ilgiornale.it",
         "repubblica.it",
         "ilmanifesto.it",
-        "adnkronos.com",
         "corriere.it",
         "ilmessaggero.it",
         "fanpage.it",
@@ -25,24 +44,22 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "L’ultima cura di Napoli al piccolo Domenico: “Condizioni disperate”",
-      "source_count": 9,
-      "article_count": 29,
+      "rank": 3,
+      "title": "Non solo gli Epstein file dietro l'indagine su Andrea, la monarchia trema",
+      "source_count": 7,
+      "article_count": 11,
       "source_domains": [
-        "napoli.repubblica.it",
-        "roma.corriere.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
+        "adnkronos.com",
+        "repubblica.it",
         "lastampa.it",
-        "ilsole24ore.com"
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Milano Cortina: bronzo agli azzurri nella staffetta 5000m short track, Fontana e Sighel fuori dal podio nel 1500m",
       "source_count": 7,
       "article_count": 9,
@@ -57,50 +74,51 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Olimpiadi, oggi Deromedis nello ski cross, poi tornano Vittozzi e Wierer nel biathlon | Il dramma di Giacomel: «Devastante»",
+      "rank": 5,
+      "title": "Milano Cortina: Pellegrino ha l'influenza, salta la 50 km di fondo. Scrive ai tifosi, 'è straziante'",
       "source_count": 7,
       "article_count": 9,
       "source_domains": [
         "ansa.it",
-        "repubblica.it",
-        "corriere.it",
+        "ilfattoquotidiano.it",
         "fanpage.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "adnkronos.com"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Non solo gli Epstein file dietro l'indagine su Andrea, la monarchia trema",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
+        "ilgiornale.it",
         "repubblica.it",
         "lastampa.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it"
+        "corriere.it"
       ]
     },
     {
       "rank": 6,
-      "title": "Paura per la polacca Sellier nei 1500 metri short track: colpita dalla lama dell'americana Santos, come sta",
-      "source_count": 6,
+      "title": "Olimpiadi in diretta LIVE, le gare oggi a Milano Cortina: Vittozzi e Wierer nel biathlon, Lollobrigida per l’oro",
+      "source_count": 7,
       "article_count": 8,
       "source_domains": [
-        "fanpage.it",
+        "repubblica.it",
         "corriere.it",
-        "ilgiornale.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
         "adnkronos.com",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it"
+        "ansa.it"
       ]
     },
     {
       "rank": 7,
+      "title": "Milano Cortina, incidente durante gara Fontana: Sellier tagliata da lama sul volto. Cos'è successo",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "liberoquotidiano.it"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Commenti sui candidati e nominativi associati ai santi: bufera sul concorso dei notai",
       "source_count": 6,
       "article_count": 8,
@@ -114,34 +132,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Migranti, Piantedosi: «Impugneremo la decisione su Sea Watch»",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilmanifesto.it",
-        "ansa.it",
-        "laverita.info",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "La pressione degli Usa sull’Iran. “Un attacco militare limitato”",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Dazi Usa, Pichetto \"Difficile valutare l'impatto, aspettiamo contenuto sentenza\"",
       "source_count": 4,
       "article_count": 6,
@@ -149,6 +140,19 @@
         "corriere.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Mancato sgombero dello Spin Time, Viminale condannato a pagare un risarcimento da 21 milioni",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilmanifesto.it",
+        "roma.corriere.it",
+        "lastampa.it",
         "news.google.com"
       ]
     }
