@@ -1,6 +1,6 @@
 {
   "date": "2026-02-21",
-  "generated_at": "Sabato 21 Febbraio 19:30",
+  "generated_at": "Sabato 21 Febbraio 20:33",
   "stories": [
     {
       "rank": 1,
@@ -27,7 +27,7 @@
       "rank": 2,
       "title": "Trump, nuovi dazi dopo lo stop della Corte Suprema: \"Non mi fermo\"",
       "source_count": 9,
-      "article_count": 22,
+      "article_count": 21,
       "source_domains": [
         "ansa.it",
         "ilgiornale.it",
@@ -43,9 +43,10 @@
     {
       "rank": 3,
       "title": "Perché Federico Tomasoni ha corso col sole sul casco: l’argento, le lacrime, la dedica a Matilde Lorenzi",
-      "source_count": 10,
-      "article_count": 18,
+      "source_count": 11,
+      "article_count": 19,
       "source_domains": [
+        "laverita.info",
         "adnkronos.com",
         "torino.corriere.it",
         "fanpage.it",
@@ -60,6 +61,21 @@
     },
     {
       "rank": 4,
+      "title": "Serie A, Lecce-Inter 0-2 - Diretta",
+      "source_count": 7,
+      "article_count": 16,
+      "source_domains": [
+        "ilgiornale.it",
+        "corriere.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Disastro Juve, il Como vince 2-0 allo Stadium. Il quarto posto si allontana",
       "source_count": 8,
       "article_count": 15,
@@ -75,7 +91,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Bronzo nella staffetta maschile: Italia ancora sul podio nello short track",
       "source_count": 6,
       "article_count": 14,
@@ -89,21 +105,23 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Serie A, Lecce-Inter 0-2 - Diretta",
-      "source_count": 6,
-      "article_count": 14,
+      "rank": 7,
+      "title": "Carmelo Cinturrino, chi è il poliziotto che ha ucciso il pusher a Rogoredo. «Chiedeva tutti i giorni soldi e droga»",
+      "source_count": 8,
+      "article_count": 12,
       "source_domains": [
-        "ansa.it",
-        "corriere.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
+        "milano.repubblica.it",
+        "ilgiornale.it",
+        "milano.corriere.it",
         "fanpage.it",
-        "adnkronos.com",
+        "ansa.it",
         "lastampa.it"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Rai, il fuorionda nel bob a 4: «Evitiamo l'equipaggio dell'israeliano». Poi le scuse di telecronisti e azienda",
       "source_count": 9,
       "article_count": 11,
@@ -116,21 +134,6 @@
         "corriere.it",
         "liberoquotidiano.it",
         "repubblica.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Pusher ucciso a Rogoredo, l’ipotesi del “pizzo”. Gli amici della vittima: “Dal poliziotto richieste insistenti di droga e soldi”",
-      "source_count": 7,
-      "article_count": 12,
-      "source_domains": [
-        "ilmessaggero.it",
-        "milano.repubblica.it",
-        "ilgiornale.it",
-        "milano.corriere.it",
-        "fanpage.it",
-        "ansa.it",
         "lastampa.it"
       ]
     },
@@ -150,17 +153,17 @@
     },
     {
       "rank": 10,
-      "title": "Olimpiadi in diretta LIVE, le gare oggi a Milano Cortina: Vittozzi e Wierer nel biathlon, Lollobrigida per l’oro",
+      "title": "ChatGpt aveva previsto la strage in Canada, ma OpenAI non avvisò la polizia",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
-        "repubblica.it",
-        "corriere.it",
-        "fanpage.it",
         "ilfattoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it",
         "lastampa.it",
-        "adnkronos.com",
-        "ansa.it"
+        "corriere.it"
       ]
     }
   ]
