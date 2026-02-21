@@ -1,15 +1,15 @@
 {
   "date": "2026-02-21",
-  "generated_at": "Sabato 21 Febbraio 18:50",
+  "generated_at": "Sabato 21 Febbraio 19:30",
   "stories": [
     {
       "rank": 1,
       "title": "Monaldi, il cuore del piccolo Domenico si è fermato. La mamma: “Non deve essere dimenticato”",
       "source_count": 13,
-      "article_count": 34,
+      "article_count": 35,
       "source_domains": [
-        "fanpage.it",
         "ilfattoquotidiano.it",
+        "fanpage.it",
         "unita.it",
         "laverita.info",
         "napoli.repubblica.it",
@@ -27,10 +27,10 @@
       "rank": 2,
       "title": "Trump, nuovi dazi dopo lo stop della Corte Suprema: \"Non mi fermo\"",
       "source_count": 9,
-      "article_count": 23,
+      "article_count": 22,
       "source_domains": [
-        "ilgiornale.it",
         "ansa.it",
+        "ilgiornale.it",
         "corriere.it",
         "lastampa.it",
         "liberoquotidiano.it",
@@ -44,12 +44,12 @@
       "rank": 3,
       "title": "Perché Federico Tomasoni ha corso col sole sul casco: l’argento, le lacrime, la dedica a Matilde Lorenzi",
       "source_count": 10,
-      "article_count": 17,
+      "article_count": 18,
       "source_domains": [
+        "adnkronos.com",
         "torino.corriere.it",
         "fanpage.it",
         "liberoquotidiano.it",
-        "adnkronos.com",
         "repubblica.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
@@ -60,6 +60,22 @@
     },
     {
       "rank": 4,
+      "title": "Disastro Juve, il Como vince 2-0 allo Stadium. Il quarto posto si allontana",
+      "source_count": 8,
+      "article_count": 15,
+      "source_domains": [
+        "fanpage.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ansa.it",
+        "repubblica.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Bronzo nella staffetta maschile: Italia ancora sul podio nello short track",
       "source_count": 6,
       "article_count": 14,
@@ -73,34 +89,17 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Non solo gli Epstein file dietro l'indagine su Andrea, la monarchia trema",
-      "source_count": 8,
-      "article_count": 12,
-      "source_domains": [
-        "corriere.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Juventus, ko e fischi: il Como domina 2-0 allo Stadium",
-      "source_count": 7,
-      "article_count": 13,
+      "title": "Serie A, Lecce-Inter 0-2 - Diretta",
+      "source_count": 6,
+      "article_count": 14,
       "source_domains": [
-        "ilgiornale.it",
         "ansa.it",
-        "repubblica.it",
         "corriere.it",
         "ilmessaggero.it",
-        "lastampa.it",
-        "fanpage.it"
+        "fanpage.it",
+        "adnkronos.com",
+        "lastampa.it"
       ]
     },
     {
@@ -137,6 +136,20 @@
     },
     {
       "rank": 9,
+      "title": "Non solo gli Epstein file dietro l'indagine su Andrea, la monarchia trema",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "corriere.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Olimpiadi in diretta LIVE, le gare oggi a Milano Cortina: Vittozzi e Wierer nel biathlon, Lollobrigida per l’oro",
       "source_count": 7,
       "article_count": 8,
@@ -148,20 +161,6 @@
         "lastampa.it",
         "adnkronos.com",
         "ansa.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Milano Cortina, incidente durante gara Fontana: Sellier tagliata da lama sul volto. Cos'è successo",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "liberoquotidiano.it"
       ]
     }
   ]
