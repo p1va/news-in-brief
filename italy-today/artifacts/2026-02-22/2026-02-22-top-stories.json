@@ -1,6 +1,6 @@
 {
   "date": "2026-02-22",
-  "generated_at": "Domenica 22 Febbraio 10:32",
+  "generated_at": "Domenica 22 Febbraio 11:28",
   "stories": [
     {
       "rank": 1,
@@ -66,6 +66,20 @@
     },
     {
       "rank": 5,
+      "title": "Morte di Domenico, l’accusa: “Danni al cuore già in fase di espianto”. Scaricabarile tra gli ospedali",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "roma.corriere.it",
+        "napoli.repubblica.it",
+        "ilfattoquotidiano.it"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Dazi, Trump rilancia: tariffe globali dal 10 al 15%. In sospeso 130 miliardi di dollari di rimborsi",
       "source_count": 7,
       "article_count": 9,
@@ -80,7 +94,23 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Civitanova Marche, 20enne picchia la madre poi fugge e si getta in mare. Ricerche in corso",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "agi.it"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Giorgia Cardinaletti co-conduttrice della finale di Sanremo 2026, l’invito di Carlo Conti in diretta al Tg1",
       "source_count": 7,
       "article_count": 7,
@@ -95,21 +125,20 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Morte di Domenico, l’accusa: “Danni al cuore già in fase di espianto”. Scaricabarile tra gli ospedali",
-      "source_count": 6,
-      "article_count": 7,
+      "rank": 9,
+      "title": "Assisi, le ossa di San Francesco esposte al pubblico per la prima volta nella storia",
+      "source_count": 5,
+      "article_count": 9,
       "source_domains": [
-        "roma.corriere.it",
-        "ilgiornale.it",
-        "napoli.repubblica.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "unita.it"
+        "ansa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "video.corriere.it",
+        "fanpage.it"
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Milano Cortina: altre tre medaglie oggi, l'Italia raggiunge quota 30",
       "source_count": 6,
       "article_count": 7,
@@ -120,32 +149,6 @@
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "corriere.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Disastro Juve, il Como vince 2-0 allo Stadium. Il quarto posto si allontana",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "corriere.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Assisi, le ossa di San Francesco esposte al pubblico per la prima volta nella storia",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "video.corriere.it",
-        "fanpage.it"
       ]
     }
   ]
