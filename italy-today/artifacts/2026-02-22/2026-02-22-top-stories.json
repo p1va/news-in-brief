@@ -1,6 +1,6 @@
 {
   "date": "2026-02-22",
-  "generated_at": "Domenica 22 Febbraio 19:31",
+  "generated_at": "Domenica 22 Febbraio 20:34",
   "stories": [
     {
       "rank": 1,
@@ -23,18 +23,19 @@
     },
     {
       "rank": 2,
-      "title": "Le medaglie, i retroscena, i record: tutti i numeri di Milano-Cortina",
-      "source_count": 8,
+      "title": "Milano-Cortina 2026, gran finale all’Arena di Verona: tutto quello che c'è da sapere",
+      "source_count": 9,
       "article_count": 16,
       "source_domains": [
-        "ilgiornale.it",
         "ansa.it",
-        "ilfattoquotidiano.it",
+        "d.repubblica.it",
+        "ilgiornale.it",
         "corriere.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilsole24ore.com"
+        "governo.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "laverita.info",
+        "lastampa.it"
       ]
     },
     {
@@ -58,19 +59,18 @@
     },
     {
       "rank": 4,
-      "title": "Milano-Cortina 2026, gran finale all’Arena di Verona: tutto quello che c'è da sapere",
-      "source_count": 9,
-      "article_count": 13,
+      "title": "Le medaglie, i retroscena, i record: tutti i numeri di Milano-Cortina",
+      "source_count": 8,
+      "article_count": 15,
       "source_domains": [
         "ansa.it",
-        "corriere.it",
-        "governo.it",
         "ilfattoquotidiano.it",
-        "fanpage.it",
         "ilgiornale.it",
-        "laverita.info",
+        "corriere.it",
         "lastampa.it",
-        "repubblica.it"
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilsole24ore.com"
       ]
     },
     {
@@ -93,32 +93,33 @@
     },
     {
       "rank": 6,
+      "title": "Il Milan cade in casa, 1-0 con il Parma: il Var convalida il gol di Troilo. Inter a +10",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "corriere.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Deromedis-Tomasoni, dominio made in Italy nello ski cross",
-      "source_count": 7,
-      "article_count": 13,
+      "source_count": 6,
+      "article_count": 12,
       "source_domains": [
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "corriere.it",
         "ilgiornale.it",
         "repubblica.it",
-        "lastampa.it",
-        "laverita.info"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Rogoredo, accuse all’agente infedele: “Ogni giorno voleva dal pusher 200 euro e 5 grammi di coca”",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "unita.it",
-        "fanpage.it",
-        "milano.corriere.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilfattoquotidiano.it"
+        "lastampa.it"
       ]
     },
     {
@@ -153,17 +154,16 @@
     },
     {
       "rank": 10,
-      "title": "Giorgia Cardinaletti co-conduttrice della finale di Sanremo 2026, l’invito di Carlo Conti in diretta al Tg1",
-      "source_count": 7,
-      "article_count": 7,
+      "title": "Il doppio volto di Cinturrino, l'agente che ha ucciso il pusher a Rogoredo: «Voleva il pizzo da Zack, 5 dosi e 200 euro al giorno»",
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
+        "unita.it",
         "fanpage.it",
-        "adnkronos.com"
+        "milano.corriere.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ansa.it"
       ]
     }
   ]
