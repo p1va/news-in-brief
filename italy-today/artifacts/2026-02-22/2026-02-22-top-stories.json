@@ -1,6 +1,6 @@
 {
   "date": "2026-02-22",
-  "generated_at": "Domenica 22 Febbraio 09:38",
+  "generated_at": "Domenica 22 Febbraio 10:32",
   "stories": [
     {
       "rank": 1,
@@ -20,11 +20,12 @@
     {
       "rank": 2,
       "title": "Addio al piccolo Domenico, la mamma: 'Chiedo giustizia'",
-      "source_count": 6,
+      "source_count": 7,
       "article_count": 12,
       "source_domains": [
         "ansa.it",
         "roma.corriere.it",
+        "laverita.info",
         "ilgiornale.it",
         "napoli.repubblica.it",
         "lastampa.it",
@@ -33,6 +34,22 @@
     },
     {
       "rank": 3,
+      "title": "Carmelo Cinturrino, chi è il poliziotto che ha ucciso il pusher a Rogoredo. «Chiedeva soldi e droga»",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "unita.it",
+        "fanpage.it",
+        "milano.corriere.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Mkhitaryan e Akanji entrano e lanciano l'Inter: 2-0 a Lecce, Chivu a +10 sul Milan​Voti: Dimarco chirurgico (7,5)",
       "source_count": 8,
       "article_count": 10,
@@ -45,21 +62,6 @@
         "fanpage.it",
         "adnkronos.com",
         "lastampa.it"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Carmelo Cinturrino, chi è il poliziotto che ha ucciso il pusher a Rogoredo. «Chiedeva soldi e droga»",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "fanpage.it",
-        "milano.corriere.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it"
       ]
     },
     {
@@ -79,6 +81,35 @@
     },
     {
       "rank": 6,
+      "title": "Giorgia Cardinaletti co-conduttrice della finale di Sanremo 2026, l’invito di Carlo Conti in diretta al Tg1",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "fanpage.it",
+        "adnkronos.com"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Morte di Domenico, l’accusa: “Danni al cuore già in fase di espianto”. Scaricabarile tra gli ospedali",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "roma.corriere.it",
+        "ilgiornale.it",
+        "napoli.repubblica.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "unita.it"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Milano Cortina: altre tre medaglie oggi, l'Italia raggiunge quota 30",
       "source_count": 6,
       "article_count": 7,
@@ -89,34 +120,6 @@
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "corriere.it"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "È morto Domenico, il bimbo di Napoli con il cuore “bruciato”: disposta autopsia, si aggrava la posizione dei medici",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "roma.corriere.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "unita.it",
-        "laverita.info"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Giorgia Cardinaletti co-conduttrice della finale di Sanremo 2026, l’invito di Carlo Conti in diretta al Tg1",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "adnkronos.com"
       ]
     },
     {
@@ -134,15 +137,15 @@
     },
     {
       "rank": 10,
-      "title": "All’Arena di Verona cala il sipario su Milano Cortina: la fine dei Giochi senza Donald Trump",
+      "title": "Assisi, le ossa di San Francesco esposte al pubblico per la prima volta nella storia",
       "source_count": 5,
       "article_count": 7,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "laverita.info",
-        "fanpage.it",
-        "lastampa.it",
-        "repubblica.it"
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "video.corriere.it",
+        "fanpage.it"
       ]
     }
   ]
