@@ -1,6 +1,6 @@
 {
   "date": "2026-02-22",
-  "generated_at": "Domenica 22 Febbraio 13:02",
+  "generated_at": "Domenica 22 Febbraio 14:33",
   "stories": [
     {
       "rank": 1,
@@ -20,10 +20,11 @@
     {
       "rank": 2,
       "title": "Addio al piccolo Domenico, la mamma: 'Chiedo giustizia'",
-      "source_count": 7,
-      "article_count": 12,
+      "source_count": 8,
+      "article_count": 13,
       "source_domains": [
         "ansa.it",
+        "fanpage.it",
         "roma.corriere.it",
         "laverita.info",
         "ilgiornale.it",
@@ -34,22 +35,41 @@
     },
     {
       "rank": 3,
-      "title": "Carmelo Cinturrino, chi è il poliziotto che ha ucciso il pusher a Rogoredo. «Chiedeva soldi e droga»",
-      "source_count": 8,
-      "article_count": 10,
+      "title": "Civitanova Marche, 20enne picchia la madre poi fugge e si getta in mare. Ricerche in corso",
+      "source_count": 10,
+      "article_count": 11,
       "source_domains": [
-        "unita.it",
-        "fanpage.it",
-        "milano.corriere.it",
+        "adnkronos.com",
+        "repubblica.it",
         "ilgiornale.it",
-        "lastampa.it",
         "ansa.it",
+        "corriere.it",
         "ilfattoquotidiano.it",
-        "ilmessaggero.it"
+        "lastampa.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "agi.it"
       ]
     },
     {
       "rank": 4,
+      "title": "Trovato senza vita Luciano Capasso, il 25enne disperso durante un’escursione a Saint Moritz",
+      "source_count": 9,
+      "article_count": 11,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "napoli.repubblica.it",
+        "ansa.it",
+        "adnkronos.com",
+        "napoli.corriere.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilgiornale.it"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Mkhitaryan e Akanji entrano e lanciano l'Inter: 2-0 a Lecce, Chivu a +10 sul Milan​Voti: Dimarco chirurgico (7,5)",
       "source_count": 8,
       "article_count": 10,
@@ -65,24 +85,23 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Civitanova Marche, 20enne picchia la madre poi fugge e si getta in mare. Ricerche in corso",
-      "source_count": 9,
+      "rank": 6,
+      "title": "Carmelo Cinturrino, chi è il poliziotto che ha ucciso il pusher a Rogoredo. «Chiedeva soldi e droga»",
+      "source_count": 8,
       "article_count": 9,
       "source_domains": [
-        "repubblica.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "corriere.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
+        "unita.it",
         "fanpage.it",
-        "ilmessaggero.it",
-        "agi.it"
+        "milano.corriere.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Dazi, Trump rilancia: tariffe globali dal 10 al 15%. In sospeso 130 miliardi di dollari di rimborsi",
       "source_count": 7,
       "article_count": 9,
@@ -97,7 +116,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Assisi, le ossa di San Francesco esposte al pubblico per la prima volta nella storia",
       "source_count": 5,
       "article_count": 10,
@@ -110,7 +129,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Giorgia Cardinaletti co-conduttrice della finale di Sanremo 2026, l’invito di Carlo Conti in diretta al Tg1",
       "source_count": 7,
       "article_count": 7,
@@ -125,7 +144,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Le gare di oggi: le ultime speranze di medaglia nel bob a 4, poi il fondo e le finali di curling e hockey",
       "source_count": 6,
       "article_count": 8,
@@ -135,19 +154,6 @@
         "corriere.it",
         "ansa.it",
         "fanpage.it",
-        "ilfattoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Morte di Domenico, l’accusa: “Danni al cuore già in fase di espianto”. Scaricabarile tra gli ospedali",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "roma.corriere.it",
-        "napoli.repubblica.it",
-        "lastampa.it",
         "ilfattoquotidiano.it"
       ]
     }
