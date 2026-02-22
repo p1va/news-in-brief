@@ -1,6 +1,6 @@
 {
   "date": "2026-02-22",
-  "generated_at": "Domenica 22 Febbraio 16:38",
+  "generated_at": "Domenica 22 Febbraio 17:31",
   "stories": [
     {
       "rank": 1,
@@ -8,6 +8,7 @@
       "source_count": 11,
       "article_count": 15,
       "source_domains": [
+        "fanpage.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
@@ -15,7 +16,6 @@
         "ansa.it",
         "adnkronos.com",
         "napoli.corriere.it",
-        "fanpage.it",
         "lastampa.it",
         "ilgiornale.it",
         "news.google.com"
@@ -44,8 +44,9 @@
       "rank": 3,
       "title": "Mar-a-Lago, uomo armato entra nella residenza di Trump: ucciso dal Secret Service. «Aveva un fucile»",
       "source_count": 10,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "fanpage.it",
         "adnkronos.com",
@@ -53,13 +54,27 @@
         "ilgiornale.it",
         "ansa.it",
         "corriere.it",
-        "liberoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it"
       ]
     },
     {
       "rank": 4,
+      "title": "Serie A: Rimonta Atalanta, il Napoli battuto 2-1",
+      "source_count": 7,
+      "article_count": 14,
+      "source_domains": [
+        "ilgiornale.it",
+        "repubblica.it",
+        "corriere.it",
+        "ansa.it",
+        "fanpage.it",
+        "lastampa.it",
+        "adnkronos.com"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Deromedis-Tomasoni, dominio made in Italy nello ski cross",
       "source_count": 7,
       "article_count": 13,
@@ -74,10 +89,10 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Addio al piccolo Domenico, la mamma: 'Chiedo giustizia'",
       "source_count": 7,
-      "article_count": 12,
+      "article_count": 11,
       "source_domains": [
         "ansa.it",
         "fanpage.it",
@@ -89,7 +104,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Le medaglie, i retroscena, i record: tutti i numeri di Milano-Cortina",
       "source_count": 7,
       "article_count": 11,
@@ -101,19 +116,6 @@
         "lastampa.it",
         "liberoquotidiano.it",
         "repubblica.it"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Beukema illude il Napoli, l'Atalanta rimonta e vince. Lotta Champions più aperta che mai | La classifica di A",
-      "source_count": 5,
-      "article_count": 12,
-      "source_domains": [
-        "repubblica.it",
-        "corriere.it",
-        "ansa.it",
-        "fanpage.it",
-        "adnkronos.com"
       ]
     },
     {
@@ -133,32 +135,32 @@
     },
     {
       "rank": 9,
-      "title": "Dazi, Trump rilancia: tariffe globali dal 10 al 15%. In sospeso 130 miliardi di dollari di rimborsi",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "adnkronos.com"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Mkhitaryan e Akanji entrano e lanciano l'Inter: 2-0 a Lecce, Chivu a +10 sul Milan​Voti: Dimarco chirurgico (7,5)",
-      "source_count": 7,
+      "source_count": 8,
       "article_count": 8,
       "source_domains": [
         "ansa.it",
         "corriere.it",
+        "laverita.info",
         "ilgiornale.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
         "fanpage.it",
         "lastampa.it"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Milano-Cortina 2026, gran finale all’Arena di Verona: tutto quello che c'è da sapere",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "laverita.info",
+        "lastampa.it",
+        "repubblica.it"
       ]
     }
   ]
