@@ -1,20 +1,20 @@
 {
   "date": "2026-02-22",
-  "generated_at": "Domenica 22 Febbraio 11:28",
+  "generated_at": "Domenica 22 Febbraio 13:02",
   "stories": [
     {
       "rank": 1,
       "title": "Deromedis-Tomasoni, dominio made in Italy nello ski cross",
       "source_count": 7,
-      "article_count": 15,
+      "article_count": 14,
       "source_domains": [
         "liberoquotidiano.it",
         "corriere.it",
         "ilgiornale.it",
         "repubblica.it",
+        "lastampa.it",
         "laverita.info",
-        "adnkronos.com",
-        "news.google.com"
+        "adnkronos.com"
       ]
     },
     {
@@ -36,7 +36,7 @@
       "rank": 3,
       "title": "Carmelo Cinturrino, chi è il poliziotto che ha ucciso il pusher a Rogoredo. «Chiedeva soldi e droga»",
       "source_count": 8,
-      "article_count": 11,
+      "article_count": 10,
       "source_domains": [
         "unita.it",
         "fanpage.it",
@@ -66,16 +66,19 @@
     },
     {
       "rank": 5,
-      "title": "Morte di Domenico, l’accusa: “Danni al cuore già in fase di espianto”. Scaricabarile tra gli ospedali",
-      "source_count": 6,
-      "article_count": 10,
+      "title": "Civitanova Marche, 20enne picchia la madre poi fugge e si getta in mare. Ricerche in corso",
+      "source_count": 9,
+      "article_count": 9,
       "source_domains": [
-        "fanpage.it",
+        "repubblica.it",
         "ilgiornale.it",
+        "ansa.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
         "lastampa.it",
-        "roma.corriere.it",
-        "napoli.repubblica.it",
-        "ilfattoquotidiano.it"
+        "fanpage.it",
+        "ilmessaggero.it",
+        "agi.it"
       ]
     },
     {
@@ -95,18 +98,15 @@
     },
     {
       "rank": 7,
-      "title": "Civitanova Marche, 20enne picchia la madre poi fugge e si getta in mare. Ricerche in corso",
-      "source_count": 8,
-      "article_count": 8,
+      "title": "Assisi, le ossa di San Francesco esposte al pubblico per la prima volta nella storia",
+      "source_count": 5,
+      "article_count": 10,
       "source_domains": [
-        "ilgiornale.it",
+        "liberoquotidiano.it",
         "ansa.it",
-        "corriere.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "fanpage.it",
         "ilmessaggero.it",
-        "agi.it"
+        "video.corriere.it",
+        "fanpage.it"
       ]
     },
     {
@@ -126,29 +126,29 @@
     },
     {
       "rank": 9,
-      "title": "Assisi, le ossa di San Francesco esposte al pubblico per la prima volta nella storia",
-      "source_count": 5,
-      "article_count": 9,
+      "title": "Le gare di oggi: le ultime speranze di medaglia nel bob a 4, poi il fondo e le finali di curling e hockey",
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
         "liberoquotidiano.it",
-        "video.corriere.it",
-        "fanpage.it"
+        "repubblica.it",
+        "corriere.it",
+        "ansa.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it"
       ]
     },
     {
       "rank": 10,
-      "title": "Milano Cortina: altre tre medaglie oggi, l'Italia raggiunge quota 30",
-      "source_count": 6,
-      "article_count": 7,
+      "title": "Morte di Domenico, l’accusa: “Danni al cuore già in fase di espianto”. Scaricabarile tra gli ospedali",
+      "source_count": 5,
+      "article_count": 8,
       "source_domains": [
-        "lastampa.it",
-        "ansa.it",
-        "liberoquotidiano.it",
         "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "corriere.it"
+        "roma.corriere.it",
+        "napoli.repubblica.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it"
       ]
     }
   ]
