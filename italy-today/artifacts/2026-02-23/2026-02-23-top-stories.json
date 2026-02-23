@@ -1,29 +1,12 @@
 {
   "date": "2026-02-23",
-  "generated_at": "Lunedì 23 Febbraio 20:53",
+  "generated_at": "Lunedì 23 Febbraio 21:53",
   "stories": [
     {
       "rank": 1,
-      "title": "Sanremo 2026: quando inizia, i cantanti in gara, il voto. Cosa c'è da sapere sul Festival? Oggi alle 12 la conferenza stampa",
-      "source_count": 9,
-      "article_count": 26,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "unita.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "corriere.it"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Messico, ucciso \"el Mencho\", il narcos più ricercato. Washington esulta. Paese nel caos, incendi e blocchi stradali: \"Almeno 26 morti\"",
+      "title": "Ucciso \"El Mencho\": era il narcos più pericoloso",
       "source_count": 10,
-      "article_count": 23,
+      "article_count": 21,
       "source_domains": [
         "unita.it",
         "liberoquotidiano.it",
@@ -38,7 +21,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Rogoredo, fermato per omicidio volontario il poliziotto che ha ucciso Mansouri",
       "source_count": 11,
       "article_count": 16,
@@ -57,24 +40,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Trapianto fallito al Monaldi, l’avvocato: “Il cuore di Domenico espiantato prima che arrivasse il nuovo”",
-      "source_count": 9,
-      "article_count": 17,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "unita.it",
-        "lastampa.it",
-        "roma.corriere.it",
-        "ilgiornale.it",
-        "napoli.repubblica.it"
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "title": "Morì carbonizzata in un incidente stradale: l'imprenditore Ciro Caliendo arrestato per l'omicidio della moglie",
       "source_count": 11,
       "article_count": 14,
@@ -93,21 +59,21 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "Olimpiadi di Milano-Cortina, lo show dell'Arena chiude l'edizione dei record",
       "source_count": 6,
       "article_count": 19,
       "source_domains": [
         "liberoquotidiano.it",
+        "milano.corriere.it",
         "repubblica.it",
         "ilgiornale.it",
         "lastampa.it",
-        "corriere.it",
         "ansa.it"
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "Sanremo, Conti: quest'anno grande festa. Doveroso dedicarlo a Baudo",
       "source_count": 6,
       "article_count": 19,
@@ -121,17 +87,48 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Mattarella a Niscemi, il sorvolo in elicottero del presidente",
-      "source_count": 6,
+      "rank": 6,
+      "title": "Domenico Caliendo, il bimbo con il cuore bruciato «non era moribondo, poteva aspettare per il trapianto»",
+      "source_count": 8,
       "article_count": 16,
       "source_domains": [
+        "fanpage.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "unita.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "napoli.repubblica.it"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Mattarella a Niscemi, il sorvolo in elicottero del presidente",
+      "source_count": 6,
+      "article_count": 18,
+      "source_domains": [
+        "palermo.repubblica.it",
         "liberoquotidiano.it",
         "video.corriere.it",
         "ansa.it",
         "lastampa.it",
-        "palermo.repubblica.it",
         "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Sanremo 2026, tutto quello che c'è da sapere: quando inizia il Festival, le 30 canzoni in gara, il voto, i co-conduttori e i super ospiti",
+      "source_count": 7,
+      "article_count": 16,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "ansa.it",
+        "unita.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "corriere.it"
       ]
     },
     {
