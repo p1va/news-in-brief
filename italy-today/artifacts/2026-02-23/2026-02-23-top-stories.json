@@ -1,12 +1,12 @@
 {
   "date": "2026-02-23",
-  "generated_at": "Lunedì 23 Febbraio 17:05",
+  "generated_at": "Lunedì 23 Febbraio 19:13",
   "stories": [
     {
       "rank": 1,
-      "title": "Freddato El Mencho, il boss più ricercato. Messico in fiamme: scontri narcos-esercito",
-      "source_count": 11,
-      "article_count": 28,
+      "title": "Messico, ucciso \"el Mencho\", il narcos più ricercato. Washington esulta. Paese nel caos, incendi e blocchi stradali: \"Almeno 26 morti\"",
+      "source_count": 10,
+      "article_count": 26,
       "source_domains": [
         "unita.it",
         "liberoquotidiano.it",
@@ -17,25 +17,24 @@
         "lastampa.it",
         "ilfattoquotidiano.it",
         "ansa.it",
-        "repubblica.it",
         "news.google.com"
       ]
     },
     {
       "rank": 2,
-      "title": "Olimpiadi di Milano-Cortina, lo show dell'Arena chiude l'edizione dei record",
+      "title": "Sanremo 2026: quando inizia, i cantanti in gara, il voto. Cosa c'è da sapere sul Festival? Oggi alle 12 la conferenza stampa",
       "source_count": 9,
-      "article_count": 22,
+      "article_count": 26,
       "source_domains": [
-        "liberoquotidiano.it",
-        "repubblica.it",
         "ilgiornale.it",
-        "lastampa.it",
-        "corriere.it",
+        "fanpage.it",
         "ansa.it",
+        "liberoquotidiano.it",
+        "unita.it",
         "adnkronos.com",
-        "governo.it",
-        "ilsole24ore.com"
+        "ilmessaggero.it",
+        "repubblica.it",
+        "corriere.it"
       ]
     },
     {
@@ -59,25 +58,24 @@
     },
     {
       "rank": 4,
-      "title": "Sanremo 2026: quando inizia, i cantanti in gara, il voto. Cosa c'è da sapere sul Festival? Oggi alle 12 la conferenza stampa",
-      "source_count": 8,
-      "article_count": 17,
+      "title": "Olimpiadi di Milano-Cortina, lo show dell'Arena chiude l'edizione dei record",
+      "source_count": 7,
+      "article_count": 20,
       "source_domains": [
         "liberoquotidiano.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilmessaggero.it",
-        "fanpage.it",
         "repubblica.it",
-        "corriere.it"
+        "ilgiornale.it",
+        "lastampa.it",
+        "corriere.it",
+        "ansa.it",
+        "adnkronos.com"
       ]
     },
     {
       "rank": 5,
-      "title": "Laura Pausini \"Faccio il Festival di Sanremo grazie a Carlo Conti e Pippo Baudo\"",
+      "title": "Sanremo, Conti: quest'anno grande festa. Doveroso dedicarlo a Baudo",
       "source_count": 7,
-      "article_count": 18,
+      "article_count": 20,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
@@ -109,6 +107,23 @@
     },
     {
       "rank": 7,
+      "title": "Domenico, il trapianto fallito e il cuore bruciato: cronistoria degli errori che hanno portato alla morte del bimbo al Monaldi",
+      "source_count": 9,
+      "article_count": 15,
+      "source_domains": [
+        "fanpage.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "unita.it",
+        "lastampa.it",
+        "roma.corriere.it",
+        "ilgiornale.it",
+        "napoli.repubblica.it"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Mattarella a Niscemi, il sorvolo in elicottero del presidente",
       "source_count": 6,
       "article_count": 16,
@@ -122,48 +137,35 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Ventunenne dal North Carolina, chi era il giovane armato ucciso a Mar-a-Lago",
-      "source_count": 8,
-      "article_count": 11,
-      "source_domains": [
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "unita.it",
-        "corriere.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ansa.it"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Usa, domani stop alla riscossione dei dazi dichiarati illegali da Corte suprema",
-      "source_count": 7,
-      "article_count": 10,
+      "title": "L'Ue accusa Trump: 'Chiarezza sui dazi, gli accordi si rispettano'",
+      "source_count": 9,
+      "article_count": 12,
       "source_domains": [
-        "ansa.it",
         "corriere.it",
+        "liberoquotidiano.it",
+        "ansa.it",
         "lastampa.it",
-        "unita.it",
         "ilgiornale.it",
-        "fanpage.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com",
         "news.google.com"
       ]
     },
     {
       "rank": 10,
       "title": "New York travolta da una forte tempesta di neve: è emergenza",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 8,
+      "article_count": 13,
       "source_domains": [
-        "corriere.it",
+        "ansa.it",
+        "video.corriere.it",
         "ilmessaggero.it",
+        "liberoquotidiano.it",
         "repubblica.it",
         "adnkronos.com",
         "fanpage.it",
-        "liberoquotidiano.it",
         "news.google.com"
       ]
     }
