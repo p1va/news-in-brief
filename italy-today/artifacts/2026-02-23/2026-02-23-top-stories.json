@@ -1,29 +1,50 @@
 {
   "date": "2026-02-23",
-  "generated_at": "Lunedì 23 Febbraio 08:58",
+  "generated_at": "Lunedì 23 Febbraio 10:06",
   "stories": [
     {
       "rank": 1,
-      "title": "Messico, ucciso \"el Mencho\", il narcos più ricercato. Washington esulta. Paese nel caos, incendi e blocchi stradali: \"Almeno 26 morti\"",
-      "source_count": 9,
-      "article_count": 16,
+      "title": "Freddato El Mencho, il boss più ricercato. Messico in fiamme: scontri narcos-esercito",
+      "source_count": 11,
+      "article_count": 22,
       "source_domains": [
+        "fanpage.it",
+        "unita.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
         "ilgiornale.it",
-        "ilfattoquotidiano.it",
         "lastampa.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
         "corriere.it",
-        "fanpage.it",
-        "ilmessaggero.it",
         "repubblica.it",
         "news.google.com"
       ]
     },
     {
       "rank": 2,
+      "title": "Rogoredo, fermato per omicidio volontario il poliziotto che ha ucciso Mansouri",
+      "source_count": 11,
+      "article_count": 16,
+      "source_domains": [
+        "milano.repubblica.it",
+        "unita.it",
+        "ansa.it",
+        "milano.corriere.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Chiusi i Giochi invernali di Milano Cortina: \"Italia, sei stata di parola\". L'orgoglio di Meloni",
-      "source_count": 10,
-      "article_count": 15,
+      "source_count": 9,
+      "article_count": 14,
       "source_domains": [
         "liberoquotidiano.it",
         "ilgiornale.it",
@@ -33,32 +54,14 @@
         "ansa.it",
         "adnkronos.com",
         "governo.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Rogoredo, fermato per omicidio volontario il poliziotto che ha ucciso Mansouri",
-      "source_count": 9,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "milano.corriere.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "unita.it",
         "ilsole24ore.com"
       ]
     },
     {
       "rank": 4,
       "title": "Morì carbonizzata in un incidente stradale: l'imprenditore Ciro Caliendo arrestato per l'omicidio della moglie",
-      "source_count": 9,
-      "article_count": 9,
+      "source_count": 10,
+      "article_count": 10,
       "source_domains": [
         "ilgiornale.it",
         "ilfattoquotidiano.it",
@@ -67,6 +70,7 @@
         "liberoquotidiano.it",
         "fanpage.it",
         "ilmessaggero.it",
+        "bari.repubblica.it",
         "lastampa.it",
         "agi.it"
       ]
@@ -101,6 +105,21 @@
     },
     {
       "rank": 7,
+      "title": "Il Milan cade in casa, 1-0 con il Parma: il Var convalida il gol di Troilo. Inter a +10",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "corriere.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "adnkronos.com"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Modello vincente e spot per l’Italia: promossi i Giochi di Milano Cortina",
       "source_count": 5,
       "article_count": 10,
@@ -113,30 +132,17 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Hockey, agli Usa l'ultimo oro olimpico. Trump: «Che partita» | Canada, 2 finali perse ai supplementari",
-      "source_count": 5,
-      "article_count": 8,
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
+        "fanpage.it",
         "laverita.info",
         "ilgiornale.it",
         "corriere.it",
         "ilfattoquotidiano.it",
         "liberoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Il Milan cade in casa, 1-0 con il Parma: il Var convalida il gol di Troilo. Inter a +10",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "adnkronos.com"
       ]
     },
     {
