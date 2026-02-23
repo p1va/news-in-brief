@@ -1,13 +1,33 @@
 {
   "date": "2026-02-23",
-  "generated_at": "Lunedì 23 Febbraio 14:55",
+  "generated_at": "Lunedì 23 Febbraio 15:53",
   "stories": [
     {
       "rank": 1,
+      "title": "Olimpiadi di Milano-Cortina, lo show dell'Arena chiude l'edizione dei record",
+      "source_count": 11,
+      "article_count": 28,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
+        "corriere.it",
+        "lastampa.it",
+        "ansa.it",
+        "governo.it",
+        "ilfattoquotidiano.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Freddato El Mencho, il boss più ricercato. Messico in fiamme: scontri narcos-esercito",
       "source_count": 11,
-      "article_count": 24,
+      "article_count": 25,
       "source_domains": [
+        "corriere.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
         "fanpage.it",
@@ -16,37 +36,20 @@
         "lastampa.it",
         "ilfattoquotidiano.it",
         "ansa.it",
-        "corriere.it",
         "repubblica.it",
         "news.google.com"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Olimpiadi di Milano-Cortina, lo show dell'Arena chiude l'edizione dei record",
-      "source_count": 8,
-      "article_count": 27,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "milano.corriere.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ansa.it",
-        "governo.it",
-        "ilsole24ore.com"
       ]
     },
     {
       "rank": 3,
       "title": "Rogoredo, fermato per omicidio volontario il poliziotto che ha ucciso Mansouri",
       "source_count": 11,
-      "article_count": 14,
+      "article_count": 17,
       "source_domains": [
+        "ansa.it",
         "ilfattoquotidiano.it",
         "milano.repubblica.it",
         "unita.it",
-        "ansa.it",
         "milano.corriere.it",
         "ilmessaggero.it",
         "fanpage.it",
@@ -60,14 +63,14 @@
       "rank": 4,
       "title": "Morì carbonizzata in un incidente stradale: l'imprenditore Ciro Caliendo arrestato per l'omicidio della moglie",
       "source_count": 11,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
+        "ansa.it",
         "fanpage.it",
         "unita.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "foggia.corriere.it",
-        "ansa.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
         "bari.repubblica.it",
@@ -78,39 +81,37 @@
     {
       "rank": 5,
       "title": "Sanremo 2026: quando inizia, i cantanti in gara, il voto. Cosa c'è da sapere sul Festival? Oggi alle 12 la conferenza stampa",
-      "source_count": 8,
-      "article_count": 15,
+      "source_count": 6,
+      "article_count": 14,
       "source_domains": [
-        "ilmessaggero.it",
         "ilgiornale.it",
-        "unita.it",
         "ansa.it",
+        "ilmessaggero.it",
         "fanpage.it",
-        "liberoquotidiano.it",
         "repubblica.it",
         "corriere.it"
       ]
     },
     {
       "rank": 6,
-      "title": "Ventunenne dal North Carolina, chi era il giovane armato ucciso a Mar-a-Lago",
+      "title": "Sanremo, Conti: quest'anno grande festa. Doveroso dedicarlo a Baudo",
       "source_count": 7,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
         "liberoquotidiano.it",
-        "unita.it",
-        "corriere.it",
-        "lastampa.it",
-        "ilgiornale.it",
+        "repubblica.it",
+        "video.corriere.it",
         "adnkronos.com",
-        "ansa.it"
+        "lastampa.it",
+        "ansa.it",
+        "ilgiornale.it"
       ]
     },
     {
       "rank": 7,
-      "title": "Mattarella sorvola Niscemi in elicottero prima della sua visita",
+      "title": "Mattarella a Niscemi, il sorvolo in elicottero del presidente",
       "source_count": 6,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
@@ -122,6 +123,21 @@
     },
     {
       "rank": 8,
+      "title": "Ventunenne dal North Carolina, chi era il giovane armato ucciso a Mar-a-Lago",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "unita.it",
+        "corriere.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ansa.it"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Il Milan cade in casa, 1-0 con il Parma: il Var convalida il gol di Troilo. Inter a +10",
       "source_count": 7,
       "article_count": 10,
@@ -136,32 +152,18 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Domenico, il trapianto fallito e il cuore bruciato: cronistoria degli errori che hanno portato alla morte del bimbo al Monaldi",
-      "source_count": 6,
+      "rank": 10,
+      "title": "L'Ue accusa Trump: 'Chiarezza sui dazi, gli accordi si rispettano'",
+      "source_count": 7,
       "article_count": 10,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "fanpage.it",
+        "corriere.it",
+        "liberoquotidiano.it",
         "ansa.it",
         "lastampa.it",
-        "roma.corriere.it",
-        "ilgiornale.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Olimpiadi, Stati Uniti oro nell’hockey dopo una maratona con il Canada",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "laverita.info",
-        "corriere.it",
         "ilgiornale.it",
-        "adnkronos.com"
+        "repubblica.it",
+        "ilsole24ore.com"
       ]
     }
   ]
