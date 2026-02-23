@@ -1,12 +1,12 @@
 {
   "date": "2026-02-23",
-  "generated_at": "Lunedì 23 Febbraio 11:43",
+  "generated_at": "Lunedì 23 Febbraio 13:19",
   "stories": [
     {
       "rank": 1,
       "title": "Olimpiadi di Milano-Cortina, lo show dell'Arena chiude l'edizione dei record",
       "source_count": 11,
-      "article_count": 29,
+      "article_count": 27,
       "source_domains": [
         "fanpage.it",
         "liberoquotidiano.it",
@@ -25,11 +25,11 @@
       "rank": 2,
       "title": "Freddato El Mencho, il boss più ricercato. Messico in fiamme: scontri narcos-esercito",
       "source_count": 11,
-      "article_count": 22,
+      "article_count": 23,
       "source_domains": [
+        "ilmessaggero.it",
         "fanpage.it",
         "unita.it",
-        "ilmessaggero.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
         "lastampa.it",
@@ -82,24 +82,25 @@
       "rank": 5,
       "title": "Sanremo 2026: quando inizia, i cantanti in gara, il voto. Cosa c'è da sapere sul Festival? Oggi alle 12 la conferenza stampa",
       "source_count": 8,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
+        "unita.it",
         "ilgiornale.it",
         "ansa.it",
         "ilmessaggero.it",
         "fanpage.it",
-        "lastampa.it",
+        "liberoquotidiano.it",
         "repubblica.it",
-        "corriere.it",
-        "liberoquotidiano.it"
+        "corriere.it"
       ]
     },
     {
       "rank": 6,
       "title": "Ventunenne dal North Carolina, chi era il giovane armato ucciso a Mar-a-Lago",
-      "source_count": 6,
-      "article_count": 10,
+      "source_count": 7,
+      "article_count": 11,
       "source_domains": [
+        "unita.it",
         "corriere.it",
         "lastampa.it",
         "ilgiornale.it",
@@ -112,19 +113,33 @@
       "rank": 7,
       "title": "Il Milan cade in casa, 1-0 con il Parma: il Var convalida il gol di Troilo. Inter a +10",
       "source_count": 7,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "adnkronos.com",
         "corriere.it",
         "fanpage.it",
         "ilgiornale.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "adnkronos.com"
+        "liberoquotidiano.it"
       ]
     },
     {
       "rank": 8,
+      "title": "Domenico, il trapianto fallito e il cuore bruciato: cronistoria degli errori che hanno portato alla morte del bimbo al Monaldi",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "lastampa.it",
+        "roma.corriere.it",
+        "ilgiornale.it"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Hockey, agli Usa l'ultimo oro olimpico. Trump: «Che partita» | Canada, 2 finali perse ai supplementari",
       "source_count": 6,
       "article_count": 9,
@@ -138,7 +153,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "New York travolta da una forte tempesta di neve: è emergenza",
       "source_count": 6,
       "article_count": 8,
@@ -149,21 +164,6 @@
         "fanpage.it",
         "liberoquotidiano.it",
         "video.corriere.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Bimbo di 5 anni muore soffocato da un boccone nel Cagliaritano",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "unita.it",
-        "corriere.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it"
       ]
     }
   ]
