@@ -1,6 +1,6 @@
 {
   "date": "2026-02-23",
-  "generated_at": "Lunedì 23 Febbraio 19:18",
+  "generated_at": "Lunedì 23 Febbraio 20:53",
   "stories": [
     {
       "rank": 1,
@@ -23,7 +23,7 @@
       "rank": 2,
       "title": "Messico, ucciso \"el Mencho\", il narcos più ricercato. Washington esulta. Paese nel caos, incendi e blocchi stradali: \"Almeno 26 morti\"",
       "source_count": 10,
-      "article_count": 24,
+      "article_count": 23,
       "source_domains": [
         "unita.it",
         "liberoquotidiano.it",
@@ -41,15 +41,15 @@
       "rank": 3,
       "title": "Rogoredo, fermato per omicidio volontario il poliziotto che ha ucciso Mansouri",
       "source_count": 11,
-      "article_count": 17,
+      "article_count": 16,
       "source_domains": [
+        "fanpage.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "milano.repubblica.it",
         "unita.it",
         "milano.corriere.it",
         "ilmessaggero.it",
-        "fanpage.it",
         "ilgiornale.it",
         "lastampa.it",
         "ilsole24ore.com",
@@ -58,35 +58,23 @@
     },
     {
       "rank": 4,
-      "title": "Sanremo, Conti: quest'anno grande festa. Doveroso dedicarlo a Baudo",
-      "source_count": 7,
-      "article_count": 20,
+      "title": "Trapianto fallito al Monaldi, l’avvocato: “Il cuore di Domenico espiantato prima che arrivasse il nuovo”",
+      "source_count": 9,
+      "article_count": 17,
       "source_domains": [
-        "liberoquotidiano.it",
+        "fanpage.it",
         "ansa.it",
-        "repubblica.it",
-        "video.corriere.it",
-        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "unita.it",
         "lastampa.it",
-        "ilgiornale.it"
+        "roma.corriere.it",
+        "ilgiornale.it",
+        "napoli.repubblica.it"
       ]
     },
     {
       "rank": 5,
-      "title": "Olimpiadi di Milano-Cortina, lo show dell'Arena chiude l'edizione dei record",
-      "source_count": 6,
-      "article_count": 20,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "corriere.it",
-        "ansa.it"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Morì carbonizzata in un incidente stradale: l'imprenditore Ciro Caliendo arrestato per l'omicidio della moglie",
       "source_count": 11,
       "article_count": 14,
@@ -105,7 +93,35 @@
       ]
     },
     {
+      "rank": 6,
+      "title": "Olimpiadi di Milano-Cortina, lo show dell'Arena chiude l'edizione dei record",
+      "source_count": 6,
+      "article_count": 19,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "corriere.it",
+        "ansa.it"
+      ]
+    },
+    {
       "rank": 7,
+      "title": "Sanremo, Conti: quest'anno grande festa. Doveroso dedicarlo a Baudo",
+      "source_count": 6,
+      "article_count": 19,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "video.corriere.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Mattarella a Niscemi, il sorvolo in elicottero del presidente",
       "source_count": 6,
       "article_count": 16,
@@ -116,23 +132,6 @@
         "lastampa.it",
         "palermo.repubblica.it",
         "ilsole24ore.com"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "L'Ue accusa Trump: 'Chiarezza sui dazi, gli accordi si rispettano'",
-      "source_count": 9,
-      "article_count": 12,
-      "source_domains": [
-        "corriere.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com",
-        "news.google.com"
       ]
     },
     {
