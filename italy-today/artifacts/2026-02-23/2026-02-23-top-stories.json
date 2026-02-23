@@ -1,27 +1,9 @@
 {
   "date": "2026-02-23",
-  "generated_at": "Lunedì 23 Febbraio 19:13",
+  "generated_at": "Lunedì 23 Febbraio 19:18",
   "stories": [
     {
       "rank": 1,
-      "title": "Messico, ucciso \"el Mencho\", il narcos più ricercato. Washington esulta. Paese nel caos, incendi e blocchi stradali: \"Almeno 26 morti\"",
-      "source_count": 10,
-      "article_count": 26,
-      "source_domains": [
-        "unita.it",
-        "liberoquotidiano.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Sanremo 2026: quando inizia, i cantanti in gara, il voto. Cosa c'è da sapere sul Festival? Oggi alle 12 la conferenza stampa",
       "source_count": 9,
       "article_count": 26,
@@ -35,6 +17,24 @@
         "ilmessaggero.it",
         "repubblica.it",
         "corriere.it"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Messico, ucciso \"el Mencho\", il narcos più ricercato. Washington esulta. Paese nel caos, incendi e blocchi stradali: \"Almeno 26 morti\"",
+      "source_count": 10,
+      "article_count": 24,
+      "source_domains": [
+        "unita.it",
+        "liberoquotidiano.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "news.google.com"
       ]
     },
     {
@@ -58,21 +58,6 @@
     },
     {
       "rank": 4,
-      "title": "Olimpiadi di Milano-Cortina, lo show dell'Arena chiude l'edizione dei record",
-      "source_count": 7,
-      "article_count": 20,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "corriere.it",
-        "ansa.it",
-        "adnkronos.com"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Sanremo, Conti: quest'anno grande festa. Doveroso dedicarlo a Baudo",
       "source_count": 7,
       "article_count": 20,
@@ -87,10 +72,24 @@
       ]
     },
     {
+      "rank": 5,
+      "title": "Olimpiadi di Milano-Cortina, lo show dell'Arena chiude l'edizione dei record",
+      "source_count": 6,
+      "article_count": 20,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "corriere.it",
+        "ansa.it"
+      ]
+    },
+    {
       "rank": 6,
       "title": "Morì carbonizzata in un incidente stradale: l'imprenditore Ciro Caliendo arrestato per l'omicidio della moglie",
       "source_count": 11,
-      "article_count": 13,
+      "article_count": 14,
       "source_domains": [
         "ansa.it",
         "fanpage.it",
@@ -107,23 +106,6 @@
     },
     {
       "rank": 7,
-      "title": "Domenico, il trapianto fallito e il cuore bruciato: cronistoria degli errori che hanno portato alla morte del bimbo al Monaldi",
-      "source_count": 9,
-      "article_count": 15,
-      "source_domains": [
-        "fanpage.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "unita.it",
-        "lastampa.it",
-        "roma.corriere.it",
-        "ilgiornale.it",
-        "napoli.repubblica.it"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Mattarella a Niscemi, il sorvolo in elicottero del presidente",
       "source_count": 6,
       "article_count": 16,
@@ -137,7 +119,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "L'Ue accusa Trump: 'Chiarezza sui dazi, gli accordi si rispettano'",
       "source_count": 9,
       "article_count": 12,
@@ -154,7 +136,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "New York travolta da una forte tempesta di neve: è emergenza",
       "source_count": 8,
       "article_count": 13,
@@ -167,6 +149,24 @@
         "adnkronos.com",
         "fanpage.it",
         "news.google.com"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Caso Epstein, manette all'ex ambasciatore britannico Mandelson. Londra nella bufera",
+      "source_count": 10,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
       ]
     }
   ]
