@@ -1,9 +1,28 @@
 {
   "date": "2026-02-23",
-  "generated_at": "Lunedì 23 Febbraio 10:06",
+  "generated_at": "Lunedì 23 Febbraio 11:43",
   "stories": [
     {
       "rank": 1,
+      "title": "Olimpiadi di Milano-Cortina, lo show dell'Arena chiude l'edizione dei record",
+      "source_count": 11,
+      "article_count": 29,
+      "source_domains": [
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ansa.it",
+        "adnkronos.com",
+        "governo.it",
+        "ilfattoquotidiano.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Freddato El Mencho, il boss più ricercato. Messico in fiamme: scontri narcos-esercito",
       "source_count": 11,
       "article_count": 22,
@@ -22,17 +41,17 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Rogoredo, fermato per omicidio volontario il poliziotto che ha ucciso Mansouri",
       "source_count": 11,
-      "article_count": 16,
+      "article_count": 14,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "milano.repubblica.it",
         "unita.it",
         "ansa.it",
         "milano.corriere.it",
         "ilmessaggero.it",
-        "ilfattoquotidiano.it",
         "fanpage.it",
         "ilgiornale.it",
         "lastampa.it",
@@ -41,34 +60,18 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Chiusi i Giochi invernali di Milano Cortina: \"Italia, sei stata di parola\". L'orgoglio di Meloni",
-      "source_count": 9,
-      "article_count": 14,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it",
-        "corriere.it",
-        "ansa.it",
-        "adnkronos.com",
-        "governo.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
       "rank": 4,
       "title": "Morì carbonizzata in un incidente stradale: l'imprenditore Ciro Caliendo arrestato per l'omicidio della moglie",
-      "source_count": 10,
-      "article_count": 10,
+      "source_count": 11,
+      "article_count": 12,
       "source_domains": [
+        "fanpage.it",
+        "unita.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "foggia.corriere.it",
         "ansa.it",
         "liberoquotidiano.it",
-        "fanpage.it",
         "ilmessaggero.it",
         "bari.repubblica.it",
         "lastampa.it",
@@ -77,6 +80,22 @@
     },
     {
       "rank": 5,
+      "title": "Sanremo 2026: quando inizia, i cantanti in gara, il voto. Cosa c'è da sapere sul Festival? Oggi alle 12 la conferenza stampa",
+      "source_count": 8,
+      "article_count": 12,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "lastampa.it",
+        "repubblica.it",
+        "corriere.it",
+        "liberoquotidiano.it"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Ventunenne dal North Carolina, chi era il giovane armato ucciso a Mar-a-Lago",
       "source_count": 6,
       "article_count": 10,
@@ -86,20 +105,6 @@
         "ilgiornale.it",
         "adnkronos.com",
         "ansa.it",
-        "liberoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Ciao Olimpiade, è stato bello: tutte le medaglie azzurre di Milano Cortina",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "corriere.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
         "liberoquotidiano.it"
       ]
     },
@@ -120,43 +125,45 @@
     },
     {
       "rank": 8,
-      "title": "Modello vincente e spot per l’Italia: promossi i Giochi di Milano Cortina",
-      "source_count": 5,
-      "article_count": 10,
+      "title": "Hockey, agli Usa l'ultimo oro olimpico. Trump: «Che partita» | Canada, 2 finali perse ai supplementari",
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
-        "repubblica.it",
-        "corriere.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "laverita.info",
         "ilgiornale.it",
-        "ansa.it",
+        "corriere.it",
         "liberoquotidiano.it"
       ]
     },
     {
       "rank": 9,
-      "title": "Hockey, agli Usa l'ultimo oro olimpico. Trump: «Che partita» | Canada, 2 finali perse ai supplementari",
+      "title": "New York travolta da una forte tempesta di neve: è emergenza",
       "source_count": 6,
-      "article_count": 9,
+      "article_count": 8,
       "source_domains": [
+        "ilmessaggero.it",
+        "repubblica.it",
+        "adnkronos.com",
         "fanpage.it",
-        "laverita.info",
-        "ilgiornale.it",
-        "corriere.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it"
+        "liberoquotidiano.it",
+        "video.corriere.it"
       ]
     },
     {
       "rank": 10,
-      "title": "Roma, balzo Champions: batte 3-0 la Cremonese e aggancia il terzo posto",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Bimbo di 5 anni muore soffocato da un boccone nel Cagliaritano",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
-        "repubblica.it",
-        "ilgiornale.it",
+        "unita.it",
         "corriere.it",
-        "ansa.it",
+        "adnkronos.com",
         "fanpage.it",
-        "liberoquotidiano.it"
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it"
       ]
     }
   ]
