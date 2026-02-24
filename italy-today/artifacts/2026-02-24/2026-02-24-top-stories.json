@@ -1,13 +1,33 @@
 {
   "date": "2026-02-24",
-  "generated_at": "Martedì 24 Febbraio 14:57",
+  "generated_at": "Martedì 24 Febbraio 16:07",
   "stories": [
     {
       "rank": 1,
-      "title": "Voghera, l’ex assessore leghista Massimo Adriatici condannato a 12 anni per omicidio volontario",
-      "source_count": 12,
-      "article_count": 16,
+      "title": "Sanremo 2026, la scaletta e gli ospiti: tutto il progamma della prima serata",
+      "source_count": 11,
+      "article_count": 20,
       "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Condannato a 12 anni Massimo Adriatici, l’ex assessore leghista che uccise Younes El Boussettaoui a Voghera",
+      "source_count": 13,
+      "article_count": 18,
+      "source_domains": [
+        "fanpage.it",
         "unita.it",
         "ilfattoquotidiano.it",
         "ansa.it",
@@ -16,16 +36,16 @@
         "liberoquotidiano.it",
         "ilgiornale.it",
         "ilmessaggero.it",
-        "fanpage.it",
         "milano.repubblica.it",
         "lastampa.it",
-        "agi.it"
+        "agi.it",
+        "ilsole24ore.com"
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Caso Epstein, ex ambasciatore britannico Mandelson rilasciato su cauzione",
-      "source_count": 12,
+      "source_count": 11,
       "article_count": 15,
       "source_domains": [
         "laverita.info",
@@ -38,12 +58,11 @@
         "repubblica.it",
         "ilmanifesto.it",
         "ilmessaggero.it",
-        "lastampa.it",
-        "corriere.it"
+        "lastampa.it"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Messico, le forze speciali sulle tracce dell’amante: così è caduto El Mencho",
       "source_count": 10,
       "article_count": 14,
@@ -61,48 +80,16 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Sanremo 2026, gli artisti, gli ospiti e il programma della prima serata",
-      "source_count": 8,
-      "article_count": 15,
-      "source_domains": [
-        "fanpage.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "Guerra ucraina, la Russia sta vincendo? La mappa del conflitto dopo 4 anni, da operazione lampo a sfida di logoramento",
-      "source_count": 9,
-      "article_count": 11,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "unita.it",
-        "repubblica.it",
-        "fanpage.it",
-        "lastampa.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "ansa.it"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "I vertici dell'Ue in Ucraina, 'la pace alle condizioni di Kiev'. Zelensky: 'Putin ha fallito'",
-      "source_count": 8,
-      "article_count": 11,
+      "source_count": 9,
+      "article_count": 13,
       "source_domains": [
+        "unita.it",
         "ansa.it",
+        "adnkronos.com",
         "liberoquotidiano.it",
         "ilgiornale.it",
-        "adnkronos.com",
         "repubblica.it",
         "ilmanifesto.it",
         "lastampa.it",
@@ -110,7 +97,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Roma Termini, raffica di furti alla Coin: accusati 21 tra carabinieri e poliziotti. Complice la cassiera",
       "source_count": 9,
       "article_count": 10,
@@ -124,6 +111,20 @@
         "lastampa.it",
         "fanpage.it",
         "roma.repubblica.it"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Il poliziotto Cinturrino arrestato per omicidio: “Quando ho visto che Mansouri stava morendo ho perso la testa”",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "unita.it",
+        "milano.corriere.it",
+        "ilmanifesto.it",
+        "ilmessaggero.it"
       ]
     },
     {
@@ -142,19 +143,6 @@
     },
     {
       "rank": 9,
-      "title": "Sanremo, La Russa \"Conti trovi il modo per una presenza riparatoria di Pucci\"",
-      "source_count": 5,
-      "article_count": 11,
-      "source_domains": [
-        "repubblica.it",
-        "fanpage.it",
-        "video.corriere.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Vannacci entra nel gruppo europeo dell'Afd",
       "source_count": 8,
       "article_count": 8,
@@ -167,6 +155,22 @@
         "liberoquotidiano.it",
         "corriere.it",
         "lastampa.it"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Cede la ringhiera a scuola: bimbo di 9 anni precipita da 4 metri d’altezza",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "genova.repubblica.it",
+        "ilmessaggero.it",
+        "agi.it"
       ]
     }
   ]
