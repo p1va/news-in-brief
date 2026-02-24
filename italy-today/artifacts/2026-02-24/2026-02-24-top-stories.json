@@ -1,9 +1,28 @@
 {
   "date": "2026-02-24",
-  "generated_at": "Martedì 24 Febbraio 19:19",
+  "generated_at": "Martedì 24 Febbraio 20:43",
   "stories": [
     {
       "rank": 1,
+      "title": "Scaletta prima serata Sanremo 2026: cantanti e ospiti",
+      "source_count": 11,
+      "article_count": 41,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Condannato a 12 anni Massimo Adriatici, l’ex assessore leghista che uccise Younes El Boussettaoui a Voghera",
       "source_count": 13,
       "article_count": 20,
@@ -24,27 +43,10 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Scaletta prima serata Sanremo 2026: cantanti e ospiti",
-      "source_count": 9,
-      "article_count": 23,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ]
-    },
-    {
       "rank": 3,
       "title": "I vertici dell'Ue in Ucraina, 'la pace alle condizioni di Kiev'. Zelensky: 'Putin ha fallito'",
       "source_count": 9,
-      "article_count": 17,
+      "article_count": 19,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -59,24 +61,6 @@
     },
     {
       "rank": 4,
-      "title": "Messico, le forze speciali sulle tracce dell’amante: così è caduto El Mencho",
-      "source_count": 10,
-      "article_count": 14,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "unita.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Da oggi scatta l’alcolock: chi deve installarlo, il costo (da 2mila euro) e cosa rischia chi tenta di aggirarlo",
       "source_count": 11,
       "article_count": 13,
@@ -95,11 +79,12 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Corruzione e fondi Ue, la Procura europea chiede l'arresto di 16 docenti e ricercatori italiani. \"Con il tesoretto compravano pc e tv\"",
-      "source_count": 10,
-      "article_count": 12,
+      "source_count": 11,
+      "article_count": 13,
       "source_domains": [
+        "fanpage.it",
         "adnkronos.com",
         "napoli.corriere.it",
         "ansa.it",
@@ -113,17 +98,35 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "La mamma di Domenico deposita un audio in procura. I medici di Bolzano: “Criticità operative”",
-      "source_count": 7,
+      "rank": 6,
+      "title": "Messico, le forze speciali sulle tracce dell’amante: così è caduto El Mencho",
+      "source_count": 10,
       "article_count": 13,
       "source_domains": [
-        "fanpage.it",
         "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "unita.it",
+        "corriere.it",
         "ilmessaggero.it",
         "ansa.it",
-        "adnkronos.com",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Morte Domenico, Bolzano spiega gli errori di Napoli sull’espianto del cuore. Ancora nessuna menzione al ghiaccio secco",
+      "source_count": 7,
+      "article_count": 14,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "fanpage.it",
+        "ilmessaggero.it",
         "corrieredellaltoadige.corriere.it",
+        "napoli.repubblica.it",
         "laverita.info"
       ]
     },
@@ -146,6 +149,21 @@
     },
     {
       "rank": 9,
+      "title": "Il poliziotto Cinturrino arrestato per omicidio: “Quando ho visto che Mansouri stava morendo ho perso la testa”",
+      "source_count": 7,
+      "article_count": 12,
+      "source_domains": [
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "unita.it",
+        "milano.corriere.it",
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ansa.it"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Caso Epstein, ex ambasciatore britannico Mandelson rilasciato su cauzione",
       "source_count": 9,
       "article_count": 10,
@@ -159,23 +177,6 @@
         "ilgiornale.it",
         "repubblica.it",
         "ilmanifesto.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Morte di David Rossi: lesioni sul volto non compatibili con la caduta, ma con pressioni fisiche",
-      "source_count": 9,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "unita.it",
-        "corrierefiorentino.corriere.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "firenze.repubblica.it",
-        "lastampa.it"
       ]
     }
   ]
