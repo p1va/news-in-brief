@@ -1,36 +1,17 @@
 {
   "date": "2026-02-24",
-  "generated_at": "Martedì 24 Febbraio 16:07",
+  "generated_at": "Martedì 24 Febbraio 18:00",
   "stories": [
     {
       "rank": 1,
-      "title": "Sanremo 2026, la scaletta e gli ospiti: tutto il progamma della prima serata",
-      "source_count": 11,
+      "title": "Condannato a 12 anni Massimo Adriatici, l’ex assessore leghista che uccise Younes El Boussettaoui a Voghera",
+      "source_count": 13,
       "article_count": 20,
       "source_domains": [
         "ansa.it",
-        "adnkronos.com",
         "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Condannato a 12 anni Massimo Adriatici, l’ex assessore leghista che uccise Younes El Boussettaoui a Voghera",
-      "source_count": 13,
-      "article_count": 18,
-      "source_domains": [
         "fanpage.it",
         "unita.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
         "milano.corriere.it",
         "adnkronos.com",
         "liberoquotidiano.it",
@@ -43,52 +24,32 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Caso Epstein, ex ambasciatore britannico Mandelson rilasciato su cauzione",
-      "source_count": 11,
-      "article_count": 15,
+      "rank": 2,
+      "title": "Sanremo 2026, gli artisti, gli ospiti e il programma della prima serata",
+      "source_count": 9,
+      "article_count": 20,
       "source_domains": [
-        "laverita.info",
-        "liberoquotidiano.it",
-        "unita.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "fanpage.it",
         "ilfattoquotidiano.it",
-        "adnkronos.com",
         "ansa.it",
+        "adnkronos.com",
         "ilgiornale.it",
         "repubblica.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
         "lastampa.it"
       ]
     },
     {
-      "rank": 4,
-      "title": "Messico, le forze speciali sulle tracce dell’amante: così è caduto El Mencho",
-      "source_count": 10,
-      "article_count": 14,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "unita.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 3,
       "title": "I vertici dell'Ue in Ucraina, 'la pace alle condizioni di Kiev'. Zelensky: 'Putin ha fallito'",
       "source_count": 9,
-      "article_count": 13,
+      "article_count": 17,
       "source_domains": [
-        "unita.it",
         "ansa.it",
-        "adnkronos.com",
         "liberoquotidiano.it",
+        "unita.it",
+        "adnkronos.com",
         "ilgiornale.it",
         "repubblica.it",
         "ilmanifesto.it",
@@ -97,11 +58,63 @@
       ]
     },
     {
+      "rank": 4,
+      "title": "Messico, le forze speciali sulle tracce dell’amante: così è caduto El Mencho",
+      "source_count": 10,
+      "article_count": 14,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "unita.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "La mamma di Domenico deposita un audio in procura. I medici di Bolzano: “Criticità operative”",
+      "source_count": 7,
+      "article_count": 13,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "adnkronos.com",
+        "corrieredellaltoadige.corriere.it",
+        "laverita.info"
+      ]
+    },
+    {
       "rank": 6,
-      "title": "Roma Termini, raffica di furti alla Coin: accusati 21 tra carabinieri e poliziotti. Complice la cassiera",
-      "source_count": 9,
+      "title": "Da oggi scatta l’alcolock: chi deve installarlo, il costo (da 2mila euro) e cosa rischia chi tenta di aggirarlo",
+      "source_count": 10,
       "article_count": 10,
       "source_domains": [
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "corriere.it",
+        "news.google.com",
+        "ilfoglio.it"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Roma Termini, raffica di furti alla Coin: accusati 21 tra carabinieri e poliziotti. Complice la cassiera",
+      "source_count": 9,
+      "article_count": 11,
+      "source_domains": [
+        "fanpage.it",
         "adnkronos.com",
         "ansa.it",
         "ilgiornale.it",
@@ -109,12 +122,43 @@
         "ilmessaggero.it",
         "roma.corriere.it",
         "lastampa.it",
-        "fanpage.it",
         "roma.repubblica.it"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Caso Epstein, ex ambasciatore britannico Mandelson rilasciato su cauzione",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilmanifesto.it"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Corruzione e fondi Ue, la Procura europea chiede l'arresto di 16 docenti e ricercatori italiani. \"Con il tesoretto compravano pc e tv\"",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "napoli.corriere.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "palermo.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Il poliziotto Cinturrino arrestato per omicidio: “Quando ho visto che Mansouri stava morendo ho perso la testa”",
       "source_count": 6,
       "article_count": 11,
@@ -125,52 +169,6 @@
         "milano.corriere.it",
         "ilmanifesto.it",
         "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Chieri, morto il bimbo di 5 mesi caduto dalle braccia della madre. I dubbi della Procura",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "lastampa.it",
-        "torino.corriere.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Vannacci entra nel gruppo europeo dell'Afd",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "laverita.info",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "corriere.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Cede la ringhiera a scuola: bimbo di 9 anni precipita da 4 metri d’altezza",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "corriere.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "genova.repubblica.it",
-        "ilmessaggero.it",
-        "agi.it"
       ]
     }
   ]
