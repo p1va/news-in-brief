@@ -1,19 +1,21 @@
 {
   "date": "2026-02-24",
-  "generated_at": "Martedì 24 Febbraio 08:57",
+  "generated_at": "Martedì 24 Febbraio 10:01",
   "stories": [
     {
       "rank": 1,
       "title": "Caso Epstein, ex ambasciatore britannico Mandelson rilasciato su cauzione",
-      "source_count": 9,
-      "article_count": 11,
+      "source_count": 11,
+      "article_count": 13,
       "source_domains": [
+        "unita.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "ansa.it",
         "ilgiornale.it",
         "repubblica.it",
         "ilmanifesto.it",
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it",
         "corriere.it"
@@ -21,46 +23,49 @@
     },
     {
       "rank": 2,
-      "title": "Messico, le forze speciali sulle tracce dell’amante: così è caduto El Mencho",
+      "title": "Sanremo, la scaletta della prima serata: l'ordine cantanti e gli ospiti",
       "source_count": 7,
+      "article_count": 14,
+      "source_domains": [
+        "fanpage.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "unita.it"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Messico, le forze speciali sulle tracce dell’amante: così è caduto El Mencho",
+      "source_count": 8,
       "article_count": 11,
       "source_domains": [
         "ansa.it",
         "corriere.it",
         "ilgiornale.it",
         "repubblica.it",
+        "ilmanifesto.it",
         "lastampa.it",
         "unita.it",
-        "ilmessaggero.it"
+        "news.google.com"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "I vertici dell'Ue in Ucraina, 'la pace alle condizioni di Kiev'. Zelensky: 'Putin ha fallito'",
       "source_count": 8,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "ansa.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
-        "ansa.it",
         "adnkronos.com",
         "repubblica.it",
         "ilmanifesto.it",
         "lastampa.it",
         "corriere.it"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Sanremo, la scaletta della prima serata: l'ordine cantanti e gli ospiti",
-      "source_count": 5,
-      "article_count": 11,
-      "source_domains": [
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "unita.it"
       ]
     },
     {
@@ -79,9 +84,9 @@
     },
     {
       "rank": 6,
-      "title": "Sanremo, La Russa rivuole Pucci. Conti: “Io meloniano? No libero”",
+      "title": "Sanremo, La Russa \"Conti trovi il modo per una presenza riparatoria di Pucci\"",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
         "repubblica.it",
@@ -119,6 +124,18 @@
     },
     {
       "rank": 9,
+      "title": "In vigore i nuovi dazi globali voluti da Donald Trump",
+      "source_count": 4,
+      "article_count": 8,
+      "source_domains": [
+        "corriere.it",
+        "ansa.it",
+        "lastampa.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Guerra ucraina, la Russia sta vincendo? La mappa del conflitto dopo 4 anni, da operazione lampo a sfida di logoramento",
       "source_count": 6,
       "article_count": 6,
@@ -129,20 +146,6 @@
         "lastampa.it",
         "ilmessaggero.it",
         "ansa.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Crans-Montana, nuovo video con l'istante dell'inizio dell'incendio al \"Le Costellation\"",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "video.corriere.it",
-        "ansa.it",
-        "lastampa.it"
       ]
     }
   ]
