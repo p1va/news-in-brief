@@ -1,13 +1,14 @@
 {
   "date": "2026-02-24",
-  "generated_at": "Martedì 24 Febbraio 07:08",
+  "generated_at": "Martedì 24 Febbraio 08:57",
   "stories": [
     {
       "rank": 1,
       "title": "Caso Epstein, ex ambasciatore britannico Mandelson rilasciato su cauzione",
-      "source_count": 8,
-      "article_count": 10,
+      "source_count": 9,
+      "article_count": 11,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "adnkronos.com",
         "ansa.it",
         "ilgiornale.it",
@@ -22,36 +23,24 @@
       "rank": 2,
       "title": "Messico, le forze speciali sulle tracce dell’amante: così è caduto El Mencho",
       "source_count": 7,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "ansa.it",
         "corriere.it",
         "ilgiornale.it",
         "repubblica.it",
         "lastampa.it",
-        "ansa.it",
         "unita.it",
         "ilmessaggero.it"
       ]
     },
     {
       "rank": 3,
-      "title": "Le quote di Sanremo 2026: chi vincerà il Festival?",
-      "source_count": 5,
-      "article_count": 10,
-      "source_domains": [
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "corriere.it"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "I vertici dell'Ue in Ucraina, 'la pace alle condizioni di Kiev'. Zelensky: 'Putin ha fallito'",
-      "source_count": 7,
-      "article_count": 7,
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "ansa.it",
         "adnkronos.com",
@@ -62,10 +51,37 @@
       ]
     },
     {
+      "rank": 4,
+      "title": "Sanremo, la scaletta della prima serata: l'ordine cantanti e gli ospiti",
+      "source_count": 5,
+      "article_count": 11,
+      "source_domains": [
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "unita.it"
+      ]
+    },
+    {
       "rank": 5,
-      "title": "Sanremo, La Russa \"Conti trovi il modo per una presenza riparatoria di Pucci\"",
+      "title": "New York paralizzata dalla neve: 3.000 voli cancellati, treni fermi e stop alle auto private",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "video.corriere.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Sanremo, La Russa rivuole Pucci. Conti: “Io meloniano? No libero”",
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
         "ilgiornale.it",
         "repubblica.it",
@@ -76,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Gli originali del colloquio Mussolini-Hitler",
       "source_count": 5,
       "article_count": 8,
@@ -89,54 +105,44 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Dazi, stop dell’Ue: Bruxelles congela gli accordi. Trump minaccia: «Una stangata a chi fa il furbo»",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "video.corriere.it"
-      ]
-    },
-    {
       "rank": 8,
-      "title": "New York è stata travolta da una forte tempesta di neve",
-      "source_count": 4,
+      "title": "Torino, morto bimbo di 5 mesi caduto dalle scale: scivolato dalle braccia della madre colta da malore",
+      "source_count": 5,
       "article_count": 7,
       "source_domains": [
         "ansa.it",
-        "video.corriere.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Olimpiadi, ecco il pagellone tricolore: Fede, Lollo e Arianna super, qualche delusione",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "laverita.info",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "A 5 mesi cade dalle braccia della mamma, bimbo deceduto dopo giorni di agonia a Chieri",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
         "fanpage.it",
         "lastampa.it",
         "ilmessaggero.it",
         "torino.corriere.it"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Guerra ucraina, la Russia sta vincendo? La mappa del conflitto dopo 4 anni, da operazione lampo a sfida di logoramento",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "repubblica.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ansa.it"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Crans-Montana, nuovo video con l'istante dell'inizio dell'incendio al \"Le Costellation\"",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "video.corriere.it",
+        "ansa.it",
+        "lastampa.it"
       ]
     }
   ]
