@@ -1,9 +1,49 @@
 {
   "date": "2026-02-24",
-  "generated_at": "Martedì 24 Febbraio 13:19",
+  "generated_at": "Martedì 24 Febbraio 14:57",
   "stories": [
     {
       "rank": 1,
+      "title": "Voghera, l’ex assessore leghista Massimo Adriatici condannato a 12 anni per omicidio volontario",
+      "source_count": 12,
+      "article_count": 16,
+      "source_domains": [
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "milano.corriere.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "agi.it"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Caso Epstein, ex ambasciatore britannico Mandelson rilasciato su cauzione",
+      "source_count": 12,
+      "article_count": 15,
+      "source_domains": [
+        "laverita.info",
+        "liberoquotidiano.it",
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "corriere.it"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Messico, le forze speciali sulle tracce dell’amante: così è caduto El Mencho",
       "source_count": 10,
       "article_count": 14,
@@ -21,26 +61,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Caso Epstein, ex ambasciatore britannico Mandelson rilasciato su cauzione",
-      "source_count": 11,
-      "article_count": 13,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "unita.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "corriere.it"
-      ]
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "title": "Sanremo 2026, gli artisti, gli ospiti e il programma della prima serata",
       "source_count": 8,
       "article_count": 15,
@@ -56,24 +77,24 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Voghera, l’ex assessore leghista Massimo Adriatici condannato a 12 anni per omicidio volontario",
+      "rank": 5,
+      "title": "Guerra ucraina, la Russia sta vincendo? La mappa del conflitto dopo 4 anni, da operazione lampo a sfida di logoramento",
       "source_count": 9,
       "article_count": 11,
       "source_domains": [
-        "milano.corriere.it",
+        "liberoquotidiano.it",
         "adnkronos.com",
-        "ansa.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
+        "unita.it",
+        "repubblica.it",
         "fanpage.it",
-        "milano.repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "ansa.it"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "I vertici dell'Ue in Ucraina, 'la pace alle condizioni di Kiev'. Zelensky: 'Putin ha fallito'",
       "source_count": 8,
       "article_count": 11,
@@ -89,23 +110,24 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Guerra ucraina, la Russia sta vincendo? La mappa del conflitto dopo 4 anni, da operazione lampo a sfida di logoramento",
-      "source_count": 8,
+      "rank": 7,
+      "title": "Roma Termini, raffica di furti alla Coin: accusati 21 tra carabinieri e poliziotti. Complice la cassiera",
+      "source_count": 9,
       "article_count": 10,
       "source_domains": [
         "adnkronos.com",
-        "unita.it",
-        "repubblica.it",
-        "fanpage.it",
-        "lastampa.it",
-        "corriere.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "ansa.it"
+        "roma.corriere.it",
+        "lastampa.it",
+        "fanpage.it",
+        "roma.repubblica.it"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Chieri, morto il bimbo di 5 mesi caduto dalle braccia della madre. I dubbi della Procura",
       "source_count": 6,
       "article_count": 10,
@@ -119,23 +141,20 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Roma Termini, raffica di furti alla Coin: accusati 21 tra carabinieri e poliziotti. Complice la cassiera",
-      "source_count": 8,
-      "article_count": 8,
+      "rank": 9,
+      "title": "Sanremo, La Russa \"Conti trovi il modo per una presenza riparatoria di Pucci\"",
+      "source_count": 5,
+      "article_count": 11,
       "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "roma.corriere.it",
-        "lastampa.it",
+        "repubblica.it",
         "fanpage.it",
-        "roma.repubblica.it"
+        "video.corriere.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Vannacci entra nel gruppo europeo dell'Afd",
       "source_count": 8,
       "article_count": 8,
@@ -148,19 +167,6 @@
         "liberoquotidiano.it",
         "corriere.it",
         "lastampa.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Il poliziotto Cinturrino arrestato per omicidio: “Quando ho visto che Mansouri stava morendo ho perso la testa”",
-      "source_count": 5,
-      "article_count": 10,
-      "source_domains": [
-        "fanpage.it",
-        "unita.it",
-        "milano.corriere.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it"
       ]
     }
   ]
