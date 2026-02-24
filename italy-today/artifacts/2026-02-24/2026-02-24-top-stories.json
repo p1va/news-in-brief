@@ -1,26 +1,9 @@
 {
   "date": "2026-02-24",
-  "generated_at": "Martedì 24 Febbraio 19:14",
+  "generated_at": "Martedì 24 Febbraio 19:19",
   "stories": [
     {
       "rank": 1,
-      "title": "Scaletta prima serata Sanremo 2026: cantanti e ospiti",
-      "source_count": 9,
-      "article_count": 25,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Condannato a 12 anni Massimo Adriatici, l’ex assessore leghista che uccise Younes El Boussettaoui a Voghera",
       "source_count": 13,
       "article_count": 20,
@@ -38,6 +21,23 @@
         "lastampa.it",
         "agi.it",
         "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Scaletta prima serata Sanremo 2026: cantanti e ospiti",
+      "source_count": 9,
+      "article_count": 23,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it"
       ]
     },
     {
@@ -79,7 +79,7 @@
       "rank": 5,
       "title": "Da oggi scatta l’alcolock: chi deve installarlo, il costo (da 2mila euro) e cosa rischia chi tenta di aggirarlo",
       "source_count": 11,
-      "article_count": 11,
+      "article_count": 13,
       "source_domains": [
         "repubblica.it",
         "ilfattoquotidiano.it",
