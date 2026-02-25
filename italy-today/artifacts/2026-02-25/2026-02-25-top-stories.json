@@ -1,15 +1,15 @@
 {
   "date": "2026-02-25",
-  "generated_at": "Mercoledì 25 Febbraio 14:56",
+  "generated_at": "Mercoledì 25 Febbraio 16:11",
   "stories": [
     {
       "rank": 1,
       "title": "Inter fuori dalla Champions, figuraccia storica col Bodo: nerazzurri sconfitti anche a San Siro",
       "source_count": 11,
-      "article_count": 19,
+      "article_count": 20,
       "source_domains": [
-        "adnkronos.com",
         "fanpage.it",
+        "adnkronos.com",
         "video.corriere.it",
         "ilgiornale.it",
         "repubblica.it",
@@ -38,27 +38,9 @@
     },
     {
       "rank": 3,
-      "title": "Sanremo 2026, ascolti in calo: 9,6 milioni di spettatori e 58% di share per prima serata",
-      "source_count": 10,
-      "article_count": 18,
-      "source_domains": [
-        "ansa.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "unita.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "repubblica.it"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Deliveroo, controllo giudiziario per caporalato su migliaia di rider. «Retribuzione inferiore fino al 90% rispetto alla soglia di povertà»",
       "source_count": 11,
-      "article_count": 16,
+      "article_count": 17,
       "source_domains": [
         "ilfattoquotidiano.it",
         "milano.repubblica.it",
@@ -71,6 +53,24 @@
         "milano.corriere.it",
         "ilsole24ore.com",
         "agi.it"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Sanremo 2026, ascolti in calo: 9,6 milioni di spettatori e 58% di share per prima serata",
+      "source_count": 10,
+      "article_count": 16,
+      "source_domains": [
+        "repubblica.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "unita.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilgiornale.it"
       ]
     },
     {
@@ -93,14 +93,14 @@
       "rank": 6,
       "title": "La scaletta della seconda serata: conduttori, ospiti e i nomi dei 15 cantanti in gara",
       "source_count": 8,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
+        "fanpage.it",
         "ilgiornale.it",
         "corriere.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "liberoquotidiano.it",
-        "fanpage.it",
         "repubblica.it",
         "ilmessaggero.it"
       ]
@@ -109,12 +109,12 @@
       "rank": 7,
       "title": "Ospedale di Napoli nelle mani del clan Contini, quattro arresti: tra loro anche un avvocato",
       "source_count": 9,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "fanpage.it",
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
-        "fanpage.it",
         "napoli.corriere.it",
         "napoli.repubblica.it",
         "ilmessaggero.it",
@@ -124,20 +124,6 @@
     },
     {
       "rank": 8,
-      "title": "\"Era un contenitore per bibite\": la verità choc sul trasporto del cuore di Domenico",
-      "source_count": 6,
-      "article_count": 11,
-      "source_domains": [
-        "napoli.corriere.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "napoli.repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Chi è Gianna Pratesi, la centenaria che votò nel 1946",
       "source_count": 7,
       "article_count": 9,
@@ -152,18 +138,32 @@
       ]
     },
     {
+      "rank": 9,
+      "title": "\"Era un contenitore per bibite\": la verità choc sul trasporto del cuore di Domenico",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "napoli.corriere.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "napoli.repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it"
+      ]
+    },
+    {
       "rank": 10,
       "title": "Miss Italia avvia azioni legali contro Ditonellapiaga: “Uso indebito del nostro nome”",
       "source_count": 7,
       "article_count": 9,
       "source_domains": [
         "adnkronos.com",
+        "liberoquotidiano.it",
         "ansa.it",
         "fanpage.it",
         "corriere.it",
         "ilgiornale.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it"
+        "repubblica.it"
       ]
     }
   ]
