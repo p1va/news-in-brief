@@ -1,13 +1,14 @@
 {
   "date": "2026-02-25",
-  "generated_at": "Mercoledì 25 Febbraio 10:04",
+  "generated_at": "Mercoledì 25 Febbraio 11:44",
   "stories": [
     {
       "rank": 1,
       "title": "Inter fuori dalla Champions, figuraccia storica col Bodo: nerazzurri sconfitti anche a San Siro",
-      "source_count": 9,
-      "article_count": 16,
+      "source_count": 11,
+      "article_count": 18,
       "source_domains": [
+        "adnkronos.com",
         "fanpage.it",
         "video.corriere.it",
         "ilgiornale.it",
@@ -16,30 +17,48 @@
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
-        "lastampa.it"
+        "lastampa.it",
+        "news.google.com"
       ]
     },
     {
       "rank": 2,
       "title": "Sanremo, i top e i flop della prima serata",
-      "source_count": 8,
-      "article_count": 15,
+      "source_count": 7,
+      "article_count": 20,
       "source_domains": [
         "ansa.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it",
         "adnkronos.com",
-        "news.google.com"
+        "repubblica.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "lastampa.it",
+        "ilmessaggero.it"
       ]
     },
     {
       "rank": 3,
+      "title": "Sanremo 2026, ascolti in calo: 9,6 milioni di spettatori e 58% di share per prima serata",
+      "source_count": 10,
+      "article_count": 11,
+      "source_domains": [
+        "unita.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Ospedale di Napoli nelle mani del clan Contini, quattro arresti: tra loro anche un avvocato",
       "source_count": 9,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
@@ -53,70 +72,70 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Condannato a 12 anni Massimo Adriatici, l’ex assessore leghista che uccise Younes El Boussettaoui a Voghera",
+      "rank": 5,
+      "title": "Il discorso di Trump sullo stato dell’Unione: “L’America è tornata, questa è l’età dell’oro”",
       "source_count": 8,
-      "article_count": 9,
+      "article_count": 11,
       "source_domains": [
         "unita.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Sanremo 2026, ascolti in calo: 9,6 milioni di spettatori e 58% di share per prima serata",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "corriere.it",
-        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilmanifesto.it",
         "ansa.it",
-        "adnkronos.com",
         "ilgiornale.it",
-        "fanpage.it",
+        "adnkronos.com",
         "repubblica.it",
-        "ilmessaggero.it"
+        "lastampa.it"
       ]
     },
     {
       "rank": 6,
-      "title": "Trump, discorso sullo Stato dell'Unione: \"America è tornata, questa è età dell'oro\"",
-      "source_count": 8,
-      "article_count": 8,
+      "title": "Il giallo del cuore bruciato, il Monaldi: «Decisivo il ghiaccio secco» | La madre dai pm con l’audio del chirurgo",
+      "source_count": 7,
+      "article_count": 11,
       "source_domains": [
-        "unita.it",
+        "ilgiornale.it",
         "ilfattoquotidiano.it",
-        "corriere.it",
+        "napoli.corriere.it",
+        "fanpage.it",
+        "napoli.repubblica.it",
         "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "repubblica.it"
+        "ilmessaggero.it"
       ]
     },
     {
       "rank": 7,
-      "title": "Sanremo, classifica prima serata: Arisa, Fulminacci, Serena Brancale, Ditonellapiaga e Fedez-Masini nella Top 5 (in ordine casuale)",
-      "source_count": 7,
+      "title": "Deliveroo, controllo giudiziario per caporalato su migliaia di rider. «Retribuzione inferiore fino al 90% rispetto alla soglia di povertà»",
+      "source_count": 9,
       "article_count": 9,
       "source_domains": [
-        "repubblica.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
+        "unita.it",
         "ilmessaggero.it",
-        "lastampa.it",
-        "corriere.it"
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "milano.repubblica.it",
+        "milano.corriere.it",
+        "ilsole24ore.com",
+        "agi.it"
       ]
     },
     {
       "rank": 8,
+      "title": "Chi è Gianna Pratesi, la centenaria che votò nel 1946",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "fanpage.it"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Juventus-Galatasaray: dove vederla (Sky o Prime), orario, probabili formazioni. I playoff di Champions",
       "source_count": 7,
       "article_count": 8,
@@ -131,33 +150,18 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Chi è Gianna Pratesi, la centenaria che votò nel 1946",
+      "rank": 10,
+      "title": "Condannato a 12 anni Massimo Adriatici, l’ex assessore leghista che uccise Younes El Boussettaoui a Voghera",
       "source_count": 7,
       "article_count": 8,
       "source_domains": [
-        "repubblica.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Morte di David Rossi: lesioni sul volto non compatibili con la caduta, ma con pressioni fisiche",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "corrierefiorentino.corriere.it",
         "unita.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com",
+        "agi.it",
+        "news.google.com"
       ]
     }
   ]
