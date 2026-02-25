@@ -1,17 +1,17 @@
 {
   "date": "2026-02-25",
-  "generated_at": "Mercoledì 25 Febbraio 20:42",
+  "generated_at": "Mercoledì 25 Febbraio 21:41",
   "stories": [
     {
       "rank": 1,
       "title": "Scaletta seconda serata Sanremo, ordine di uscita e orari: Achille Lauro, Pilar Fogliati e Lillo co-conduttori. Elenco ospiti",
       "source_count": 9,
-      "article_count": 29,
+      "article_count": 32,
       "source_domains": [
+        "ansa.it",
         "fanpage.it",
         "adnkronos.com",
         "ilgiornale.it",
-        "ansa.it",
         "repubblica.it",
         "corriere.it",
         "ilmessaggero.it",
@@ -21,9 +21,25 @@
     },
     {
       "rank": 2,
+      "title": "Sanremo, i top e i flop della prima serata",
+      "source_count": 8,
+      "article_count": 25,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "corriere.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Inter fuori dalla Champions, figuraccia storica col Bodo: nerazzurri sconfitti anche a San Siro",
-      "source_count": 11,
-      "article_count": 20,
+      "source_count": 10,
+      "article_count": 19,
       "source_domains": [
         "fanpage.it",
         "adnkronos.com",
@@ -34,12 +50,11 @@
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
-        "lastampa.it",
         "news.google.com"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Deliveroo, controllo giudiziario per caporalato su migliaia di rider. «Retribuzione inferiore fino al 90% rispetto alla soglia di povertà»",
       "source_count": 11,
       "article_count": 17,
@@ -55,21 +70,6 @@
         "milano.corriere.it",
         "ilsole24ore.com",
         "agi.it"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Sanremo, i top e i flop della prima serata",
-      "source_count": 7,
-      "article_count": 19,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "lastampa.it"
       ]
     },
     {
@@ -110,6 +110,18 @@
     },
     {
       "rank": 7,
+      "title": "Nuove proposte, chi sono i quattro giovani in gara al Festival di Sanremo 2026",
+      "source_count": 4,
+      "article_count": 17,
+      "source_domains": [
+        "adnkronos.com",
+        "ilgiornale.it",
+        "repubblica.it",
+        "fanpage.it"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Ospedale di Napoli nelle mani del clan Contini, quattro arresti: tra loro anche un avvocato",
       "source_count": 9,
       "article_count": 11,
@@ -126,7 +138,22 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Champions League: Atalanta-Dortmund 4-1, la Dea va agli ottavi",
+      "source_count": 7,
+      "article_count": 13,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ansa.it",
+        "corriere.it",
+        "repubblica.it"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Da Trump il discorso più lungo della storia dello Stato dell'Unione",
       "source_count": 7,
       "article_count": 13,
@@ -137,36 +164,6 @@
         "liberoquotidiano.it",
         "ilmanifesto.it",
         "ilgiornale.it",
-        "repubblica.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Champions, oggi Juve-Galatasaray - La partita in diretta",
-      "source_count": 8,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "corriere.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Champions League: Atalanta-Dortmund 4-1, la Dea va agli ottavi",
-      "source_count": 6,
-      "article_count": 12,
-      "source_domains": [
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "ansa.it",
-        "corriere.it",
         "repubblica.it"
       ]
     }
