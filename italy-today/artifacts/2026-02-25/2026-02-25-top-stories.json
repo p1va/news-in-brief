@@ -1,18 +1,18 @@
 {
   "date": "2026-02-25",
-  "generated_at": "Mercoledì 25 Febbraio 07:10",
+  "generated_at": "Mercoledì 25 Febbraio 08:58",
   "stories": [
     {
       "rank": 1,
-      "title": "Sanremo al via, gli artisti la prima serata del Festival",
+      "title": "Sanremo, i top e i flop della prima serata",
       "source_count": 8,
-      "article_count": 14,
+      "article_count": 16,
       "source_domains": [
         "ilgiornale.it",
         "corriere.it",
-        "fanpage.it",
         "repubblica.it",
         "lastampa.it",
+        "ilmessaggero.it",
         "ansa.it",
         "adnkronos.com",
         "news.google.com"
@@ -22,14 +22,14 @@
       "rank": 2,
       "title": "Inter fuori dalla Champions, figuraccia storica col Bodo: nerazzurri sconfitti anche a San Siro",
       "source_count": 9,
-      "article_count": 11,
+      "article_count": 13,
       "source_domains": [
+        "video.corriere.it",
+        "ilgiornale.it",
         "fanpage.it",
-        "corriere.it",
         "repubblica.it",
         "ansa.it",
         "ilfattoquotidiano.it",
-        "ilgiornale.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it"
@@ -37,11 +37,59 @@
     },
     {
       "rank": 3,
-      "title": "Stato dell’Unione, Trump difende i dazi: “L’America è tornata all’età dell’oro”. La protesta in aula",
-      "source_count": 6,
+      "title": "Ospedale di Napoli nelle mani del clan Contini, quattro arresti: tra loro anche un avvocato",
+      "source_count": 9,
       "article_count": 9,
       "source_domains": [
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "napoli.corriere.it",
+        "napoli.repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Dove vedere in tv Juventus-Galatasaray e Atalanta-Dortmund ritorno dei playoff di Champions League",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "ilmessaggero.it",
         "corriere.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Condannato a 12 anni Massimo Adriatici, l’ex assessore leghista che uccise Younes El Boussettaoui a Voghera",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "unita.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Stato dell’Unione, Trump difende i dazi: “L’America è tornata all’età dell’oro”. La protesta in aula",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
         "ilgiornale.it",
         "adnkronos.com",
@@ -50,22 +98,22 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "La Ue: “Putin sta perdendo,supereremo i veti di Orbán”",
+      "rank": 7,
+      "title": "Chi è Gianna Pratesi, la centenaria che votò nel 1946",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "ilgiornale.it",
         "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it",
         "corriere.it",
-        "ansa.it",
-        "liberoquotidiano.it"
+        "ilgiornale.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it"
       ]
     },
     {
-      "rank": 5,
+      "rank": 8,
       "title": "Morte di David Rossi: lesioni sul volto non compatibili con la caduta, ma con pressioni fisiche",
       "source_count": 7,
       "article_count": 7,
@@ -80,49 +128,22 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Condannato a 12 anni Massimo Adriatici, l’ex assessore leghista che uccise Younes El Boussettaoui a Voghera",
+      "rank": 9,
+      "title": "Sanremo, classifica prima serata: Arisa, Fulminacci, Serena Brancale, Ditonellapiaga e Fedez-Masini nella Top 5 (in ordine casuale)",
       "source_count": 7,
       "article_count": 7,
       "source_domains": [
-        "ilgiornale.it",
-        "unita.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "fanpage.it",
         "ilmessaggero.it",
         "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it",
-        "news.google.com"
+        "corriere.it"
       ]
     },
     {
-      "rank": 7,
-      "title": "Dove vedere in tv Juventus-Galatasaray e Atalanta-Dortmund ritorno dei playoff di Champions League",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "corriere.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Chi è Gianna Pratesi, la centenaria che votò nel 1946",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "repubblica.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "La sinistra non sa fare i calcoli: bocciata sul congedo paritario",
       "source_count": 6,
       "article_count": 6,
@@ -132,20 +153,6 @@
         "ilgiornale.it",
         "ilmanifesto.it",
         "lastampa.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Ospedale di Napoli nelle mani del clan Contini, quattro arresti: tra loro anche un avvocato",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "fanpage.it",
-        "napoli.corriere.it",
-        "napoli.repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it",
         "ilsole24ore.com"
       ]
     }
