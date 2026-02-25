@@ -1,38 +1,38 @@
 {
   "date": "2026-02-25",
-  "generated_at": "Mercoledì 25 Febbraio 08:58",
+  "generated_at": "Mercoledì 25 Febbraio 10:04",
   "stories": [
     {
       "rank": 1,
-      "title": "Sanremo, i top e i flop della prima serata",
-      "source_count": 8,
-      "article_count": 16,
-      "source_domains": [
-        "ilgiornale.it",
-        "corriere.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "adnkronos.com",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Inter fuori dalla Champions, figuraccia storica col Bodo: nerazzurri sconfitti anche a San Siro",
       "source_count": 9,
-      "article_count": 13,
+      "article_count": 16,
       "source_domains": [
+        "fanpage.it",
         "video.corriere.it",
         "ilgiornale.it",
-        "fanpage.it",
         "repubblica.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Sanremo, i top e i flop della prima serata",
+      "source_count": 8,
+      "article_count": 15,
+      "source_domains": [
+        "ansa.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "news.google.com"
       ]
     },
     {
@@ -54,21 +54,6 @@
     },
     {
       "rank": 4,
-      "title": "Dove vedere in tv Juventus-Galatasaray e Atalanta-Dortmund ritorno dei playoff di Champions League",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "ilmessaggero.it",
-        "corriere.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Condannato a 12 anni Massimo Adriatici, l’ex assessore leghista che uccise Younes El Boussettaoui a Voghera",
       "source_count": 8,
       "article_count": 9,
@@ -84,21 +69,69 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Stato dell’Unione, Trump difende i dazi: “L’America è tornata all’età dell’oro”. La protesta in aula",
-      "source_count": 6,
-      "article_count": 10,
+      "rank": 5,
+      "title": "Sanremo 2026, ascolti in calo: 9,6 milioni di spettatori e 58% di share per prima serata",
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "ilmanifesto.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
-        "ilgiornale.it",
         "adnkronos.com",
+        "ilgiornale.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Trump, discorso sullo Stato dell'Unione: \"America è tornata, questa è età dell'oro\"",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Sanremo, classifica prima serata: Arisa, Fulminacci, Serena Brancale, Ditonellapiaga e Fedez-Masini nella Top 5 (in ordine casuale)",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "repubblica.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "corriere.it"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Juventus-Galatasaray: dove vederla (Sky o Prime), orario, probabili formazioni. I playoff di Champions",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "fanpage.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "adnkronos.com",
+        "ilgiornale.it",
         "repubblica.it",
         "lastampa.it"
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Chi è Gianna Pratesi, la centenaria che votò nel 1946",
       "source_count": 7,
       "article_count": 8,
@@ -113,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Morte di David Rossi: lesioni sul volto non compatibili con la caduta, ma con pressioni fisiche",
       "source_count": 7,
       "article_count": 7,
@@ -125,35 +158,6 @@
         "unita.it",
         "liberoquotidiano.it",
         "lastampa.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Sanremo, classifica prima serata: Arisa, Fulminacci, Serena Brancale, Ditonellapiaga e Fedez-Masini nella Top 5 (in ordine casuale)",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "corriere.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "La sinistra non sa fare i calcoli: bocciata sul congedo paritario",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "corriere.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ilsole24ore.com"
       ]
     }
   ]
