@@ -1,6 +1,6 @@
 {
   "date": "2026-02-25",
-  "generated_at": "Mercoledì 25 Febbraio 13:19",
+  "generated_at": "Mercoledì 25 Febbraio 14:56",
   "stories": [
     {
       "rank": 1,
@@ -40,8 +40,9 @@
       "rank": 3,
       "title": "Sanremo 2026, ascolti in calo: 9,6 milioni di spettatori e 58% di share per prima serata",
       "source_count": 10,
-      "article_count": 17,
+      "article_count": 18,
       "source_domains": [
+        "ansa.it",
         "fanpage.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
@@ -49,7 +50,6 @@
         "unita.it",
         "corriere.it",
         "ilmessaggero.it",
-        "ansa.it",
         "ilgiornale.it",
         "repubblica.it"
       ]
@@ -58,16 +58,16 @@
       "rank": 4,
       "title": "Deliveroo, controllo giudiziario per caporalato su migliaia di rider. «Retribuzione inferiore fino al 90% rispetto alla soglia di povertà»",
       "source_count": 11,
-      "article_count": 12,
+      "article_count": 16,
       "source_domains": [
+        "ilfattoquotidiano.it",
+        "milano.repubblica.it",
+        "fanpage.it",
         "ansa.it",
         "adnkronos.com",
-        "fanpage.it",
         "unita.it",
         "ilmessaggero.it",
-        "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "milano.repubblica.it",
         "milano.corriere.it",
         "ilsole24ore.com",
         "agi.it"
@@ -75,9 +75,25 @@
     },
     {
       "rank": 5,
-      "title": "La scaletta della seconda serata: conduttori, ospiti e i nomi dei 15 cantanti in gara",
-      "source_count": 9,
+      "title": "Stato dell’Unione, Trump difende i dazi: “L’America è tornata all’età dell’oro”. La protesta in aula",
+      "source_count": 8,
       "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "unita.it",
+        "ilmanifesto.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "La scaletta della seconda serata: conduttori, ospiti e i nomi dei 15 cantanti in gara",
+      "source_count": 8,
+      "article_count": 12,
       "source_domains": [
         "ilgiornale.it",
         "corriere.it",
@@ -86,24 +102,7 @@
         "liberoquotidiano.it",
         "fanpage.it",
         "repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Stato dell’Unione, Trump difende i dazi: “L’America è tornata all’età dell’oro”. La protesta in aula",
-      "source_count": 8,
-      "article_count": 12,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "unita.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
+        "ilmessaggero.it"
       ]
     },
     {
@@ -126,16 +125,15 @@
     {
       "rank": 8,
       "title": "\"Era un contenitore per bibite\": la verità choc sul trasporto del cuore di Domenico",
-      "source_count": 7,
-      "article_count": 10,
+      "source_count": 6,
+      "article_count": 11,
       "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
         "napoli.corriere.it",
+        "ilgiornale.it",
         "fanpage.it",
         "napoli.repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it"
+        "ilmessaggero.it",
+        "ansa.it"
       ]
     },
     {
@@ -155,17 +153,17 @@
     },
     {
       "rank": 10,
-      "title": "Juventus-Galatasaray: dove vederla (Sky o Prime), orario, probabili formazioni. I playoff di Champions",
+      "title": "Miss Italia avvia azioni legali contro Ditonellapiaga: “Uso indebito del nostro nome”",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "fanpage.it",
-        "ilmessaggero.it",
-        "corriere.it",
         "adnkronos.com",
+        "ansa.it",
+        "fanpage.it",
+        "corriere.it",
         "ilgiornale.it",
         "repubblica.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it"
       ]
     }
   ]
