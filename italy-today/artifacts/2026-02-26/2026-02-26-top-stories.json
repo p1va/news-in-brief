@@ -1,6 +1,6 @@
 {
   "date": "2026-02-26",
-  "generated_at": "Giovedì 26 Febbraio 14:54",
+  "generated_at": "Giovedì 26 Febbraio 16:00",
   "stories": [
     {
       "rank": 1,
@@ -39,6 +39,43 @@
     },
     {
       "rank": 3,
+      "title": "Valanga in Valdidentro (Sondrio), morte due persone: un uomo e una donna tra i 20 e 30 anni",
+      "source_count": 11,
+      "article_count": 12,
+      "source_domains": [
+        "unita.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "milano.corriere.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Ascolti Sanremo, per la seconda serata 9 milioni con il 59.5%. Meno spettatori, migliora lo share",
+      "source_count": 10,
+      "article_count": 11,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "corriere.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "repubblica.it",
+        "fanpage.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Sanremo 2026, la top five della seconda serata: Lda&Aka 7even, Paradiso, Nayt, Fedez&Masini, Ermal Meta. Omaggio di Lauro per i ragazzi di Crans-Montana",
       "source_count": 7,
       "article_count": 13,
@@ -53,63 +90,10 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Ascolti Sanremo, per la seconda serata 9 milioni con il 59.5%. Meno spettatori, migliora lo share",
-      "source_count": 10,
-      "article_count": 10,
-      "source_domains": [
-        "ilmanifesto.it",
-        "liberoquotidiano.it",
-        "corriere.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "repubblica.it",
-        "fanpage.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Valanga in Valdidentro (Sondrio), morte due persone: un uomo e una donna tra i 20 e 30 anni",
-      "source_count": 10,
-      "article_count": 10,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "milano.corriere.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "milano.repubblica.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Un arresto a Parma per le tre suore uccise in Burundi nel 2014",
-      "source_count": 9,
-      "article_count": 10,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "corrieredibologna.corriere.it",
-        "fanpage.it",
-        "ansa.it",
-        "bologna.repubblica.it",
-        "lastampa.it",
-        "agi.it"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Moussa Sangare condannato all’ergastolo: “Ha ucciso Sharon Verzeni per noia”",
       "source_count": 8,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
         "ilgiornale.it",
         "liberoquotidiano.it",
@@ -122,7 +106,54 @@
       ]
     },
     {
+      "rank": 7,
+      "title": "Sanremo, i top e i flop della seconda serata",
+      "source_count": 6,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "corriere.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "adnkronos.com"
+      ]
+    },
+    {
       "rank": 8,
+      "title": "Legge elettorale, intesa nel centrodestra: proporzionale con premio di maggioranza",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "unita.it",
+        "ansa.it",
+        "lastampa.it",
+        "repubblica.it"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Scaletta terza serata Sanremo: Shayk e Pantani co-conduttori, Ramazzotti e Alicia Keys ospiti",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "corriere.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "fanpage.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Sanremo 2026, la classifica della seconda serata: ecco le prime 5 posizioni",
       "source_count": 7,
       "article_count": 11,
@@ -134,36 +165,6 @@
         "repubblica.it",
         "corriere.it",
         "ilgiornale.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Sanremo, i top e i flop della seconda serata",
-      "source_count": 6,
-      "article_count": 12,
-      "source_domains": [
-        "ansa.it",
-        "corriere.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "adnkronos.com"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Scaletta terza serata Sanremo: Shayk e Pantani co-conduttori, Ramazzotti e Alicia Keys ospiti",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "corriere.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "fanpage.it",
-        "ilmessaggero.it"
       ]
     }
   ]
