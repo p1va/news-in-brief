@@ -1,14 +1,14 @@
 {
   "date": "2026-02-26",
-  "generated_at": "Giovedì 26 Febbraio 07:08",
+  "generated_at": "Giovedì 26 Febbraio 08:58",
   "stories": [
     {
       "rank": 1,
       "title": "Rider pagati 4 euro a consegna, commissariata Deliveroo: “Caporalato e sfruttamento”",
       "source_count": 8,
-      "article_count": 11,
+      "article_count": 14,
       "source_domains": [
-        "milano.corriere.it",
+        "corriere.it",
         "lastampa.it",
         "ilgiornale.it",
         "repubblica.it",
@@ -22,25 +22,26 @@
       "rank": 2,
       "title": "Sanremo 2026, la classifica della seconda serata: ecco le prime 5 posizioni",
       "source_count": 9,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
         "fanpage.it",
+        "ilfattoquotidiano.it",
         "corriere.it",
         "ansa.it",
         "repubblica.it",
         "ilgiornale.it",
         "adnkronos.com",
         "laverita.info",
-        "liberoquotidiano.it",
         "ilmessaggero.it"
       ]
     },
     {
       "rank": 3,
       "title": "La Juve sfiora l'impresa",
-      "source_count": 6,
-      "article_count": 10,
+      "source_count": 7,
+      "article_count": 12,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "fanpage.it",
         "ilgiornale.it",
         "lastampa.it",
@@ -51,50 +52,36 @@
     },
     {
       "rank": 4,
-      "title": "Sanremo, Achille Lauro candido e Levante regale: le pagelle ai look della seconda serata",
-      "source_count": 6,
-      "article_count": 8,
+      "title": "Parla il papà di Domenico: «Il cuore per mio figlio in un frigo da pic-nic, una cosa da matti. I chirurghi sparirono dopo il trapianto: lì capii»",
+      "source_count": 5,
+      "article_count": 10,
       "source_domains": [
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "napoli.repubblica.it",
+        "fanpage.it",
+        "corrieredellaltoadige.corriere.it"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Sanremo, i top e i flop della seconda serata",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "corriere.it",
         "repubblica.it",
         "ilmessaggero.it",
-        "corriere.it",
         "ansa.it",
         "ilgiornale.it",
         "adnkronos.com"
       ]
     },
     {
-      "rank": 5,
-      "title": "Achille Lauro emoziona, il ricordo toccante per le vittime di Crans Montana e gli altri 5 momenti",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "lastampa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "video.corriere.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Il padre del piccolo Domenico: \"Cuore in un frigo da picnic, chirurghi spariti\"",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "corrieredellaltoadige.corriere.it",
-        "napoli.repubblica.it",
-        "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Moussa Sangare condannato all’ergastolo: “Ha ucciso Sharon Verzeni per noia”",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
         "bergamo.corriere.it",
         "lastampa.it",
@@ -105,7 +92,48 @@
       ]
     },
     {
+      "rank": 7,
+      "title": "Cuba, fuoco della Guardia costiera su una barca Usa. 'Aveva fini terroristici'",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ansa.it",
+        "corriere.it",
+        "fanpage.it"
+      ]
+    },
+    {
       "rank": 8,
+      "title": "Achille Lauro emoziona, il ricordo toccante per le vittime di Crans Montana e gli altri 5 momenti",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "video.corriere.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ansa.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Zelensky chiama Trump: “I colloqui salgano a livello di leader”",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "lastampa.it",
+        "adnkronos.com",
+        "ilmanifesto.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "ilfattoquotidiano.it"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Impresa dell’Atalanta, rimonta il Borussia Dortmund e va agli ottavi di Champions",
       "source_count": 5,
       "article_count": 6,
@@ -115,31 +143,6 @@
         "corriere.it",
         "liberoquotidiano.it",
         "news.google.com"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Zelensky chiama Trump: “I colloqui salgano a livello di leader”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "lastampa.it",
-        "adnkronos.com",
-        "ilmanifesto.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Cuba uccide quattro persone a bordo di un motoscafo statunitense: “Aveva scopi terroristici”",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "corriere.it",
-        "fanpage.it"
       ]
     }
   ]
