@@ -1,34 +1,39 @@
 {
   "date": "2026-02-26",
-  "generated_at": "Giovedì 26 Febbraio 10:59",
+  "generated_at": "Giovedì 26 Febbraio 11:49",
   "stories": [
     {
       "rank": 1,
       "title": "“Abbiamo provato a scongelare il cuore con l’acqua”: parlano i 3 infermieri presenti al trapianto di Domenico",
-      "source_count": 6,
-      "article_count": 15,
+      "source_count": 8,
+      "article_count": 18,
       "source_domains": [
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "fanpage.it",
+        "lastampa.it",
         "ansa.it",
-        "ilmessaggero.it",
         "napoli.repubblica.it",
         "corrieredellaltoadige.corriere.it"
       ]
     },
     {
       "rank": 2,
-      "title": "Juve, la grande illusione: in 10 trascina il Galatasaray ai supplementari, Osimhen spegne i sogni | Le pagelle: Kelly ingenuo (5)",
-      "source_count": 7,
+      "title": "Cuba spara contro un motoscafo Usa, quattro i morti: “Avevano fini terroristici”",
+      "source_count": 10,
       "article_count": 12,
       "source_domains": [
-        "ilfattoquotidiano.it",
+        "unita.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
         "fanpage.it",
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "lastampa.it",
+        "ansa.it",
         "corriere.it",
-        "liberoquotidiano.it",
-        "ansa.it"
+        "repubblica.it"
       ]
     },
     {
@@ -48,25 +53,25 @@
     },
     {
       "rank": 4,
-      "title": "Rider, anche Deliveroo sotto controllo giudiziario. Chiesti documenti ad altre 7 società, tra cui Mc Donald’s e Esselunga",
+      "title": "Scaletta terza serata Sanremo: Shayk e Pantani co-conduttori, Ramazzotti e Alicia Keys ospiti",
       "source_count": 8,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "corriere.it",
+        "repubblica.it",
         "ilfattoquotidiano.it",
-        "lastampa.it",
+        "adnkronos.com",
         "ilgiornale.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "milano.repubblica.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
+        "lastampa.it",
+        "fanpage.it",
+        "ilmessaggero.it"
       ]
     },
     {
       "rank": 5,
       "title": "Sanremo, i top e i flop della seconda serata",
       "source_count": 6,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
         "ansa.it",
         "corriere.it",
@@ -78,40 +83,26 @@
     },
     {
       "rank": 6,
-      "title": "Sanremo 2026, la classifica della seconda serata: ecco le prime 5 posizioni",
+      "title": "La Juve sfiora l'impresa",
       "source_count": 7,
-      "article_count": 9,
+      "article_count": 11,
       "source_domains": [
-        "fanpage.it",
         "ilfattoquotidiano.it",
         "lastampa.it",
-        "repubblica.it",
-        "corriere.it",
         "ilgiornale.it",
-        "adnkronos.com"
+        "corriere.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ansa.it"
       ]
     },
     {
       "rank": 7,
-      "title": "Spari a motoscafo Usa: 4 morti. \"Terroristi\", \"Risponderemo\": scatta l'escaltion tra Usa e Cuba",
-      "source_count": 7,
+      "title": "Ascolti Sanremo, per la seconda serata 9 milioni con il 59.5%. Meno spettatori, migliora lo share",
+      "source_count": 9,
       "article_count": 9,
       "source_domains": [
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ansa.it",
-        "corriere.it"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Ascolti Sanremo, per la seconda serata 9 milioni con il 59.5%. Meno spettatori, migliora lo share",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
+        "liberoquotidiano.it",
         "corriere.it",
         "ilfattoquotidiano.it",
         "ansa.it",
@@ -123,11 +114,12 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Moussa Sangare condannato all’ergastolo: “Ha ucciso Sharon Verzeni per noia”",
-      "source_count": 6,
-      "article_count": 9,
+      "source_count": 7,
+      "article_count": 10,
       "source_domains": [
+        "ilgiornale.it",
         "liberoquotidiano.it",
         "bergamo.corriere.it",
         "lastampa.it",
@@ -137,15 +129,30 @@
       ]
     },
     {
+      "rank": 9,
+      "title": "Sanremo 2026, la classifica della seconda serata: ecco le prime 5 posizioni",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "adnkronos.com",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it",
+        "corriere.it",
+        "ilgiornale.it"
+      ]
+    },
+    {
       "rank": 10,
       "title": "Legge elettorale, intesa nel centrodestra: proporzionale con premio di maggioranza",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ilgiornale.it",
         "fanpage.it",
         "adnkronos.com",
         "unita.it",
-        "ilgiornale.it",
         "ansa.it",
         "lastampa.it",
         "repubblica.it"
