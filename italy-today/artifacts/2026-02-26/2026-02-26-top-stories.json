@@ -1,12 +1,31 @@
 {
   "date": "2026-02-26",
-  "generated_at": "Giovedì 26 Febbraio 17:12",
+  "generated_at": "Giovedì 26 Febbraio 19:01",
   "stories": [
     {
       "rank": 1,
+      "title": "Legge elettorale, intesa nel centrodestra: proporzionale con premio di maggioranza",
+      "source_count": 11,
+      "article_count": 19,
+      "source_domains": [
+        "fanpage.it",
+        "adnkronos.com",
+        "corriere.it",
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "unita.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "“Abbiamo provato a scongelare il cuore con l’acqua”: parlano i 3 infermieri presenti al trapianto di Domenico",
       "source_count": 8,
-      "article_count": 20,
+      "article_count": 21,
       "source_domains": [
         "fanpage.it",
         "ilmessaggero.it",
@@ -19,7 +38,24 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "Scaletta terza serata Sanremo: Shayk e Pantani co-conduttori, Ramazzotti e Alicia Keys ospiti",
+      "source_count": 9,
+      "article_count": 19,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "fanpage.it"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Valanga in Valdidentro (Sondrio), morte due persone: un uomo e una donna tra i 20 e 30 anni",
       "source_count": 12,
       "article_count": 13,
@@ -39,7 +75,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "Cuba spara contro un motoscafo Usa, quattro i morti: “Avevano fini terroristici”",
       "source_count": 11,
       "article_count": 13,
@@ -58,7 +94,38 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "title": "Sanremo, Irina Shayk fa melina su Russia e Putin: \"Nessun commento politico\"",
+      "source_count": 7,
+      "article_count": 17,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "video.corriere.it",
+        "fanpage.it",
+        "repubblica.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "La classifica della seconda serata: ecco le prime 5 posizioni in ordine casuale | La scaletta della terza serata: i 15 artisti in gara",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "lastampa.it",
+        "repubblica.it",
+        "corriere.it",
+        "ilgiornale.it"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Ascolti Sanremo, per la seconda serata 9 milioni con il 59.5%. Meno spettatori, migliora lo share",
       "source_count": 10,
       "article_count": 11,
@@ -76,54 +143,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Sanremo 2026, la top five della seconda serata: Lda&Aka 7even, Paradiso, Nayt, Fedez&Masini, Ermal Meta. Omaggio di Lauro per i ragazzi di Crans-Montana",
-      "source_count": 7,
-      "article_count": 13,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "laverita.info",
-        "ilgiornale.it",
-        "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Scaletta terza serata Sanremo: Shayk e Pantani co-conduttori, Ramazzotti e Alicia Keys ospiti",
-      "source_count": 8,
-      "article_count": 12,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "corriere.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "fanpage.it",
-        "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Moussa Sangare condannato all’ergastolo: “Ha ucciso Sharon Verzeni per noia”",
-      "source_count": 8,
-      "article_count": 11,
-      "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "bergamo.corriere.it",
-        "lastampa.it",
-        "ansa.it",
-        "unita.it",
-        "agi.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "title": "Sanremo, i top e i flop della seconda serata",
       "source_count": 6,
       "article_count": 13,
@@ -134,23 +154,6 @@
         "ilmessaggero.it",
         "ilgiornale.it",
         "adnkronos.com"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Legge elettorale, intesa nel centrodestra: proporzionale con premio di maggioranza",
-      "source_count": 9,
-      "article_count": 10,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "unita.it",
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it"
       ]
     },
     {
