@@ -1,20 +1,20 @@
 {
   "date": "2026-02-26",
-  "generated_at": "Giovedì 26 Febbraio 11:49",
+  "generated_at": "Giovedì 26 Febbraio 13:20",
   "stories": [
     {
       "rank": 1,
       "title": "“Abbiamo provato a scongelare il cuore con l’acqua”: parlano i 3 infermieri presenti al trapianto di Domenico",
       "source_count": 8,
-      "article_count": 18,
+      "article_count": 20,
       "source_domains": [
+        "fanpage.it",
         "ilmessaggero.it",
+        "napoli.repubblica.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "fanpage.it",
         "lastampa.it",
         "ansa.it",
-        "napoli.repubblica.it",
         "corrieredellaltoadige.corriere.it"
       ]
     },
@@ -38,9 +38,27 @@
     },
     {
       "rank": 3,
+      "title": "Ascolti Sanremo, per la seconda serata 9 milioni con il 59.5%. Meno spettatori, migliora lo share",
+      "source_count": 10,
+      "article_count": 11,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "corriere.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "repubblica.it",
+        "fanpage.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Sanremo 2026, la top five della seconda serata: Lda&Aka 7even, Paradiso, Nayt, Fedez&Masini, Ermal Meta. Omaggio di Lauro per i ragazzi di Crans-Montana",
       "source_count": 7,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
@@ -52,7 +70,23 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Moussa Sangare condannato all’ergastolo: “Ha ucciso Sharon Verzeni per noia”",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "bergamo.corriere.it",
+        "lastampa.it",
+        "ansa.it",
+        "unita.it",
+        "agi.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Scaletta terza serata Sanremo: Shayk e Pantani co-conduttori, Ramazzotti e Alicia Keys ospiti",
       "source_count": 8,
       "article_count": 11,
@@ -68,7 +102,22 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "title": "Sanremo 2026, la classifica della seconda serata: ecco le prime 5 posizioni",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "lastampa.it",
+        "repubblica.it",
+        "corriere.it",
+        "ilgiornale.it"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Sanremo, i top e i flop della seconda serata",
       "source_count": 6,
       "article_count": 12,
@@ -82,7 +131,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 9,
       "title": "La Juve sfiora l'impresa",
       "source_count": 7,
       "article_count": 11,
@@ -97,65 +146,19 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Ascolti Sanremo, per la seconda serata 9 milioni con il 59.5%. Meno spettatori, migliora lo share",
-      "source_count": 9,
+      "rank": 10,
+      "title": "Un arresto a Parma per le tre suore uccise in Burundi nel 2014",
+      "source_count": 8,
       "article_count": 9,
       "source_domains": [
-        "liberoquotidiano.it",
-        "corriere.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
         "adnkronos.com",
-        "ilgiornale.it",
-        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "corrieredibologna.corriere.it",
         "fanpage.it",
+        "ansa.it",
+        "bologna.repubblica.it",
         "lastampa.it"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Moussa Sangare condannato all’ergastolo: “Ha ucciso Sharon Verzeni per noia”",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "bergamo.corriere.it",
-        "lastampa.it",
-        "ansa.it",
-        "unita.it",
-        "agi.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Sanremo 2026, la classifica della seconda serata: ecco le prime 5 posizioni",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "adnkronos.com",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it",
-        "corriere.it",
-        "ilgiornale.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Legge elettorale, intesa nel centrodestra: proporzionale con premio di maggioranza",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "unita.it",
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it"
       ]
     }
   ]
