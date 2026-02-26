@@ -1,6 +1,6 @@
 {
   "date": "2026-02-26",
-  "generated_at": "Giovedì 26 Febbraio 16:00",
+  "generated_at": "Giovedì 26 Febbraio 17:12",
   "stories": [
     {
       "rank": 1,
@@ -20,6 +20,26 @@
     },
     {
       "rank": 2,
+      "title": "Valanga in Valdidentro (Sondrio), morte due persone: un uomo e una donna tra i 20 e 30 anni",
+      "source_count": 12,
+      "article_count": 13,
+      "source_domains": [
+        "ilgiornale.it",
+        "unita.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "milano.corriere.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Cuba spara contro un motoscafo Usa, quattro i morti: “Avevano fini terroristici”",
       "source_count": 11,
       "article_count": 13,
@@ -35,25 +55,6 @@
         "corriere.it",
         "repubblica.it",
         "news.google.com"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Valanga in Valdidentro (Sondrio), morte due persone: un uomo e una donna tra i 20 e 30 anni",
-      "source_count": 11,
-      "article_count": 12,
-      "source_domains": [
-        "unita.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "milano.corriere.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "milano.repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it"
       ]
     },
     {
@@ -91,6 +92,22 @@
     },
     {
       "rank": 6,
+      "title": "Scaletta terza serata Sanremo: Shayk e Pantani co-conduttori, Ramazzotti e Alicia Keys ospiti",
+      "source_count": 8,
+      "article_count": 12,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "corriere.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "fanpage.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Moussa Sangare condannato all’ergastolo: “Ha ucciso Sharon Verzeni per noia”",
       "source_count": 8,
       "article_count": 11,
@@ -106,7 +123,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Sanremo, i top e i flop della seconda serata",
       "source_count": 6,
       "article_count": 13,
@@ -120,7 +137,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Legge elettorale, intesa nel centrodestra: proporzionale con premio di maggioranza",
       "source_count": 9,
       "article_count": 10,
@@ -137,34 +154,20 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Scaletta terza serata Sanremo: Shayk e Pantani co-conduttori, Ramazzotti e Alicia Keys ospiti",
-      "source_count": 8,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "corriere.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "fanpage.it",
-        "ilmessaggero.it"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Sanremo 2026, la classifica della seconda serata: ecco le prime 5 posizioni",
-      "source_count": 7,
-      "article_count": 11,
+      "title": "Un arresto a Parma per le tre suore uccise in Burundi nel 2014",
+      "source_count": 9,
+      "article_count": 10,
       "source_domains": [
-        "ilfattoquotidiano.it",
+        "ilgiornale.it",
         "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "corrieredibologna.corriere.it",
         "fanpage.it",
-        "lastampa.it",
-        "repubblica.it",
-        "corriere.it",
-        "ilgiornale.it"
+        "ansa.it",
+        "bologna.repubblica.it",
+        "lastampa.it"
       ]
     }
   ]
