@@ -1,6 +1,6 @@
 {
   "date": "2026-02-26",
-  "generated_at": "Giovedì 26 Febbraio 19:51",
+  "generated_at": "Giovedì 26 Febbraio 20:45",
   "stories": [
     {
       "rank": 1,
@@ -39,36 +39,37 @@
     },
     {
       "rank": 3,
-      "title": "Scaletta terza serata Sanremo: Shayk e Pantani co-conduttori, Ramazzotti e Alicia Keys ospiti",
-      "source_count": 9,
-      "article_count": 21,
+      "title": "Cuba spara contro un motoscafo Usa, quattro i morti: “Avevano fini terroristici”",
+      "source_count": 11,
+      "article_count": 14,
       "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
         "ansa.it",
+        "unita.it",
+        "adnkronos.com",
         "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it",
+        "fanpage.it",
         "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
         "corriere.it",
-        "fanpage.it"
+        "repubblica.it",
+        "news.google.com"
       ]
     },
     {
       "rank": 4,
-      "title": "La classifica della seconda serata: ecco le prime 5 posizioni in ordine casuale | La scaletta della terza serata: i 15 artisti in gara",
-      "source_count": 9,
-      "article_count": 18,
+      "title": "Sanremo 2026, terza serata: scaletta, ospiti e cantanti in gara",
+      "source_count": 8,
+      "article_count": 17,
       "source_domains": [
-        "repubblica.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
         "fanpage.it",
-        "lastampa.it",
-        "corriere.it",
+        "ilgiornale.it",
         "ansa.it",
-        "ilgiornale.it"
+        "repubblica.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "ilmessaggero.it"
       ]
     },
     {
@@ -93,56 +94,20 @@
     },
     {
       "rank": 6,
-      "title": "Cuba spara contro un motoscafo Usa, quattro i morti: “Avevano fini terroristici”",
-      "source_count": 11,
-      "article_count": 13,
+      "title": "FantaSanremo, la terza serata in diretta: i bonus e i malus assegnati",
+      "source_count": 6,
+      "article_count": 17,
       "source_domains": [
-        "unita.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
         "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it",
         "ansa.it",
-        "corriere.it",
         "repubblica.it",
-        "news.google.com"
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilmessaggero.it"
       ]
     },
     {
       "rank": 7,
-      "title": "Sanremo, Irina Shayk fa melina su Russia e Putin: \"Nessun commento politico\"",
-      "source_count": 7,
-      "article_count": 17,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "video.corriere.it",
-        "fanpage.it",
-        "repubblica.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Sanremo, i top e i flop della seconda serata",
-      "source_count": 8,
-      "article_count": 14,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "laverita.info"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Ascolti Sanremo, per la seconda serata 9 milioni con il 59.5%. Meno spettatori, migliora lo share",
       "source_count": 10,
       "article_count": 11,
@@ -160,7 +125,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Un arresto a Parma per le tre suore uccise in Burundi nel 2014",
       "source_count": 9,
       "article_count": 10,
@@ -174,6 +139,38 @@
         "ansa.it",
         "bologna.repubblica.it",
         "lastampa.it"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Brignone: non deve essere una tortura sciare. Se non miglioro difficilmente mi vedrete anno prossimo",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Sanremo, i top e i flop della seconda serata",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "laverita.info"
       ]
     }
   ]
