@@ -1,20 +1,20 @@
 {
   "date": "2026-02-27",
-  "generated_at": "Venerdì 27 Febbraio 11:38",
+  "generated_at": "Venerdì 27 Febbraio 13:11",
   "stories": [
     {
       "rank": 1,
       "title": "La classifica provvisoria della terza serata di Sanremo: al top Sal Da Vinci, Arisa e Brancale",
       "source_count": 9,
-      "article_count": 19,
+      "article_count": 21,
       "source_domains": [
+        "adnkronos.com",
         "ansa.it",
+        "repubblica.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
         "video.corriere.it",
-        "repubblica.it",
         "ilmessaggero.it",
-        "adnkronos.com",
         "lastampa.it",
         "laverita.info"
       ]
@@ -40,6 +40,40 @@
     },
     {
       "rank": 3,
+      "title": "Gli ascolti tv della terza serata di Sanremo 2026: Conti risale la china",
+      "source_count": 9,
+      "article_count": 14,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmanifesto.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "corriere.it",
+        "lastampa.it",
+        "repubblica.it"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "++ Champions: l'Atalanta con il Bayern Monaco agli ottavi ++",
+      "source_count": 9,
+      "article_count": 12,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "fanpage.it",
+        "corriere.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Hillary Clinton si difende e rilancia sugli Epstein Files: chiedete a Trump, non a me",
       "source_count": 8,
       "article_count": 10,
@@ -55,7 +89,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Legge elettorale, accordo nel centrodestra. È scontro con le opposizioni | Premio per quota 40%, no al premier sulla scheda: i 4 punti",
       "source_count": 7,
       "article_count": 11,
@@ -70,7 +104,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Pakistan-Afghanistan, Islamabad bombarda Kabul: \"Pazienza finita, è guerra aperta\"",
       "source_count": 9,
       "article_count": 9,
@@ -87,14 +121,30 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "title": "Sanremo, la scaletta della serata delle cover: i cantanti e gli ospiti",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "corriere.it",
+        "lastampa.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "L'espianto su Domenico 14 minuti prima dell'arrivo del nuovo cuore",
       "source_count": 7,
       "article_count": 10,
       "source_domains": [
+        "napoli.corriere.it",
         "ilgiornale.it",
         "fanpage.it",
-        "napoli.corriere.it",
         "repubblica.it",
         "ilmessaggero.it",
         "ansa.it",
@@ -102,7 +152,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "Crollo Labour nella suppletiva a Manchester, trionfano i Verdi. Starmer sempre più in difficoltà",
       "source_count": 8,
       "article_count": 8,
@@ -115,52 +165,6 @@
         "ilgiornale.it",
         "corriere.it",
         "repubblica.it"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Sanremo, la scaletta della serata delle cover: i cantanti e gli ospiti",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "corriere.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Sanremo 2026, ascolti terza serata: 9,5 milioni di spettatori e 60,6% di share",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ilmanifesto.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "++ Champions: l'Atalanta con il Bayern Monaco agli ottavi ++",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ansa.it",
-        "fanpage.it",
-        "corriere.it",
-        "lastampa.it",
-        "ilmessaggero.it"
       ]
     }
   ]
