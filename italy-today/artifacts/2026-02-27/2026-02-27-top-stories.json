@@ -1,24 +1,24 @@
 {
   "date": "2026-02-27",
-  "generated_at": "Venerdì 27 Febbraio 18:59",
+  "generated_at": "Venerdì 27 Febbraio 19:38",
   "stories": [
     {
       "rank": 1,
       "title": "Deraglia tram a Milano e investe alcune persone: ci sono feriti. Un testimone: \"Ho visto la morte in faccia\"",
       "source_count": 14,
-      "article_count": 38,
+      "article_count": 43,
       "source_domains": [
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "milano.repubblica.it",
         "adnkronos.com",
         "ansa.it",
-        "ilgiornale.it",
-        "fanpage.it",
+        "milano.corriere.it",
         "liberoquotidiano.it",
+        "fanpage.it",
         "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "video.corriere.it",
         "unita.it",
         "lastampa.it",
-        "milano.repubblica.it",
         "laverita.info",
         "ilsole24ore.com",
         "news.google.com"
@@ -26,6 +26,23 @@
     },
     {
       "rank": 2,
+      "title": "Sanremo 2026, la serata delle cover e dei duetti: la diretta",
+      "source_count": 9,
+      "article_count": 26,
+      "source_domains": [
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "corriere.it"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "La classifica provvisoria della terza serata di Sanremo: al top Sal Da Vinci, Arisa e Brancale",
       "source_count": 9,
       "article_count": 19,
@@ -42,7 +59,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Banchiere ucraino precipitato dal b&b a Milano, arrestato il figlio in Spagna. «Sequestrò il padre per avere 250mila euro in criptovalute»",
       "source_count": 12,
       "article_count": 14,
@@ -62,7 +79,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Bill Clinton difende la moglie: \"Non centrava con Epstein”. Poi l'ammissione sui voli",
       "source_count": 9,
       "article_count": 15,
@@ -79,7 +96,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Domenico morto per risparmiare 14 minuti in sala operatoria",
       "source_count": 9,
       "article_count": 15,
@@ -96,7 +113,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Il Pakistan bombarda Kabul, \"guerra aperta\" con i talebani",
       "source_count": 11,
       "article_count": 13,
@@ -112,23 +129,6 @@
         "ansa.it",
         "repubblica.it",
         "news.google.com"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Sanremo 2026, la serata delle cover e dei duetti: la diretta",
-      "source_count": 9,
-      "article_count": 15,
-      "source_domains": [
-        "repubblica.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilmessaggero.it"
       ]
     },
     {
@@ -152,11 +152,11 @@
       "rank": 9,
       "title": "Mogol a Roma in elicottero dei Vigili del Fuoco. Piantedosi: 'Un monumento nazionale, polemiche strumentali'",
       "source_count": 10,
-      "article_count": 13,
+      "article_count": 14,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ansa.it",
         "unita.it",
-        "ilfattoquotidiano.it",
         "fanpage.it",
         "ilgiornale.it",
         "roma.corriere.it",
