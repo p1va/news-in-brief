@@ -1,24 +1,24 @@
 {
   "date": "2026-02-27",
-  "generated_at": "Venerdì 27 Febbraio 16:49",
+  "generated_at": "Venerdì 27 Febbraio 17:41",
   "stories": [
     {
       "rank": 1,
       "title": "Deraglia tram a Milano e investe alcune persone: ci sono feriti. Un testimone: \"Ho visto la morte in faccia\"",
       "source_count": 12,
-      "article_count": 19,
+      "article_count": 27,
       "source_domains": [
         "ansa.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
+        "video.corriere.it",
         "unita.it",
+        "lastampa.it",
         "milano.repubblica.it",
         "laverita.info",
-        "ilfattoquotidiano.it",
-        "video.corriere.it",
         "adnkronos.com",
         "ilgiornale.it",
         "fanpage.it",
-        "lastampa.it",
         "ilsole24ore.com"
       ]
     },
@@ -41,13 +41,22 @@
     },
     {
       "rank": 3,
-      "title": "Sanremo, Brancale \"Porto la parte più intima di me\"",
-      "source_count": 3,
-      "article_count": 23,
+      "title": "Banchiere ucraino precipitato dal b&b a Milano, arrestato il figlio in Spagna. «Sequestrò il padre per avere 250mila euro in criptovalute»",
+      "source_count": 12,
+      "article_count": 14,
       "source_domains": [
         "liberoquotidiano.it",
+        "unita.it",
+        "milano.corriere.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
-        "video.corriere.it"
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "agi.it"
       ]
     },
     {
@@ -71,38 +80,30 @@
     },
     {
       "rank": 5,
-      "title": "Banchiere ucraino precipitato dal b&b a Milano, arrestato il figlio in Spagna. «Sequestrò il padre per avere 250mila euro in criptovalute»",
-      "source_count": 11,
-      "article_count": 13,
+      "title": "Sanremo, Brancale \"Porto la parte più intima di me\"",
+      "source_count": 4,
+      "article_count": 19,
       "source_domains": [
-        "unita.it",
-        "milano.corriere.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "ansa.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "milano.repubblica.it",
-        "lastampa.it",
-        "agi.it"
+        "video.corriere.it",
+        "lastampa.it"
       ]
     },
     {
       "rank": 6,
-      "title": "Gli ascolti tv della terza serata di Sanremo 2026: Conti risale la china",
-      "source_count": 9,
+      "title": "Hillary Clinton: non conoscevo Epstein, fate testimoniare Trump",
+      "source_count": 8,
       "article_count": 14,
       "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilmanifesto.it",
-        "fanpage.it",
-        "liberoquotidiano.it",
         "corriere.it",
-        "lastampa.it",
-        "repubblica.it"
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "fanpage.it"
       ]
     },
     {
@@ -122,6 +123,23 @@
     },
     {
       "rank": 8,
+      "title": "Gli ascolti tv della terza serata di Sanremo 2026: Conti risale la china",
+      "source_count": 9,
+      "article_count": 13,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ilmanifesto.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "corriere.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Mogol a Roma in elicottero dei Vigili del Fuoco. Piantedosi: 'Un monumento nazionale, polemiche strumentali'",
       "source_count": 10,
       "article_count": 12,
@@ -139,7 +157,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Domenico morto per risparmiare 14 minuti in sala operatoria",
       "source_count": 8,
       "article_count": 13,
@@ -152,23 +170,6 @@
         "repubblica.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Sanremo, la scaletta della serata delle cover: i cantanti e gli ospiti",
-      "source_count": 9,
-      "article_count": 12,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "ansa.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ilmessaggero.it"
       ]
     }
   ]
