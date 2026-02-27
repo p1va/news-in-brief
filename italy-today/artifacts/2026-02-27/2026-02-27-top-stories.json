@@ -1,18 +1,18 @@
 {
   "date": "2026-02-27",
-  "generated_at": "Venerdì 27 Febbraio 08:51",
+  "generated_at": "Venerdì 27 Febbraio 09:52",
   "stories": [
     {
       "rank": 1,
       "title": "La classifica provvisoria della terza serata di Sanremo: al top Sal Da Vinci, Arisa e Brancale",
       "source_count": 9,
-      "article_count": 18,
+      "article_count": 19,
       "source_domains": [
+        "ansa.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
         "video.corriere.it",
         "repubblica.it",
-        "ansa.it",
         "ilmessaggero.it",
         "adnkronos.com",
         "lastampa.it",
@@ -21,10 +21,11 @@
     },
     {
       "rank": 2,
-      "title": "Il Pakistan attacca i talebani in tutto l'Afghanistan: almeno 133 morti. «Guerra aperta con voi»",
-      "source_count": 8,
-      "article_count": 8,
+      "title": "Pakistan-Afghanistan, Islamabad bombarda Kabul: \"Pazienza finita, è guerra aperta\"",
+      "source_count": 9,
+      "article_count": 9,
       "source_domains": [
+        "unita.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "fanpage.it",
@@ -37,6 +38,21 @@
     },
     {
       "rank": 3,
+      "title": "Legge elettorale, accordo nel centrodestra. È scontro con le opposizioni | Premio per quota 40%, no al premier sulla scheda: i 4 punti",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "roma.corriere.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Hillary Clinton si difende e rilancia sugli Epstein Files: chiedete a Trump, non a me",
       "source_count": 7,
       "article_count": 8,
@@ -51,7 +67,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "L'espianto su Domenico 14 minuti prima dell'arrivo del nuovo cuore",
       "source_count": 6,
       "article_count": 8,
@@ -65,21 +81,52 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Legge elettorale, accordo nel centrodestra. È scontro con le opposizioni | Premio per quota 40%, no al premier sulla scheda: i 4 punti",
-      "source_count": 6,
+      "rank": 6,
+      "title": "Tragedia in montagna, due giovani sci-alpinisti uccisi da una valanga",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilmessaggero.it",
+        "milano.corriere.it",
+        "ilgiornale.it",
+        "unita.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "E' disastro del Labour nella suppletiva a Manchester, trionfano i Verdi",
+      "source_count": 7,
       "article_count": 7,
       "source_domains": [
         "ansa.it",
-        "roma.corriere.it",
-        "repubblica.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
         "ilgiornale.it",
-        "fanpage.it",
+        "corriere.it",
+        "repubblica.it"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Caso Almasri, chiuse le indagini su Giusi Bartolozzi: per il capo di gabinetto di Nordio la destra strepita contro il “tempismo” dei giudici",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "unita.it",
+        "ilmanifesto.it",
+        "roma.corriere.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
         "ilsole24ore.com"
       ]
     },
     {
-      "rank": 6,
+      "rank": 9,
       "title": "Francesco Lassi morto in uno studio commercialista a Livorno. Fermato l'aggressore (ex collaboratore di giustizia)",
       "source_count": 6,
       "article_count": 7,
@@ -93,55 +140,17 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Valanga in Valdidentro, morti due giovani escursionisti: sono Marika Mascherona e Alberto De Maron",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "milano.corriere.it",
-        "ilgiornale.it",
-        "unita.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "La famiglia di Mansouri, 'Cinturrino confessi tutto il male'",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "milano.corriere.it",
-        "laverita.info",
-        "lastampa.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Chiuse indagini su Bartolozzi, Nordio: \"Perplesso per tempi\"",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilmanifesto.it",
-        "roma.corriere.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Sanremo, Dargen D'Amico \"Non mi sento cantautore\"",
-      "source_count": 2,
-      "article_count": 9,
+      "title": "Sanremo 2026, ascolti terza serata: 9,5 milioni di spettatori e 60,6% di share",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
-        "video.corriere.it",
-        "liberoquotidiano.it"
+        "ilgiornale.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilmanifesto.it"
       ]
     }
   ]
