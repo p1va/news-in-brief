@@ -1,24 +1,24 @@
 {
   "date": "2026-02-27",
-  "generated_at": "Venerdì 27 Febbraio 19:38",
+  "generated_at": "Venerdì 27 Febbraio 20:36",
   "stories": [
     {
       "rank": 1,
       "title": "Deraglia tram a Milano e investe alcune persone: ci sono feriti. Un testimone: \"Ho visto la morte in faccia\"",
       "source_count": 14,
-      "article_count": 43,
+      "article_count": 48,
       "source_domains": [
+        "fanpage.it",
         "ilmessaggero.it",
         "ilgiornale.it",
+        "liberoquotidiano.it",
         "milano.repubblica.it",
         "adnkronos.com",
         "ansa.it",
+        "lastampa.it",
         "milano.corriere.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
         "ilfattoquotidiano.it",
         "unita.it",
-        "lastampa.it",
         "laverita.info",
         "ilsole24ore.com",
         "news.google.com"
@@ -27,39 +27,23 @@
     {
       "rank": 2,
       "title": "Sanremo 2026, la serata delle cover e dei duetti: la diretta",
-      "source_count": 9,
-      "article_count": 26,
+      "source_count": 10,
+      "article_count": 34,
       "source_domains": [
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmessaggero.it",
         "ansa.it",
+        "d.repubblica.it",
         "fanpage.it",
-        "lastampa.it",
         "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "corriere.it"
       ]
     },
     {
       "rank": 3,
-      "title": "La classifica provvisoria della terza serata di Sanremo: al top Sal Da Vinci, Arisa e Brancale",
-      "source_count": 9,
-      "article_count": 19,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "video.corriere.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "laverita.info"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Banchiere ucraino precipitato dal b&b a Milano, arrestato il figlio in Spagna. «Sequestrò il padre per avere 250mila euro in criptovalute»",
       "source_count": 12,
       "article_count": 14,
@@ -79,27 +63,44 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Bill Clinton difende la moglie: \"Non centrava con Epstein”. Poi l'ammissione sui voli",
+      "rank": 4,
+      "title": "Bill Clinton sotto torchio: 'Non sapevo nulla dei crimini di Epstein'",
       "source_count": 9,
-      "article_count": 15,
+      "article_count": 16,
       "source_domains": [
+        "ansa.it",
         "fanpage.it",
         "ilmessaggero.it",
         "ilgiornale.it",
         "corriere.it",
         "ilfattoquotidiano.it",
-        "ansa.it",
         "adnkronos.com",
         "repubblica.it",
         "liberoquotidiano.it"
       ]
     },
     {
-      "rank": 6,
-      "title": "Domenico morto per risparmiare 14 minuti in sala operatoria",
+      "rank": 5,
+      "title": "Sanremo 2026, la terza serata: nella top five Arisa, Sayf, Luché, Serena Brancale e Sal Da Vinci",
       "source_count": 9,
-      "article_count": 15,
+      "article_count": 16,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "video.corriere.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "laverita.info"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "«Il ghiaccio secco fumava, chiesi ai medici di Napoli, mi diedero l'ok». I verbali che ricostruiscono le cause della morte del piccolo Domenico",
+      "source_count": 8,
+      "article_count": 16,
       "source_domains": [
         "fanpage.it",
         "adnkronos.com",
@@ -108,8 +109,7 @@
         "napoli.corriere.it",
         "ilgiornale.it",
         "repubblica.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it"
+        "ilmessaggero.it"
       ]
     },
     {
@@ -133,23 +133,6 @@
     },
     {
       "rank": 8,
-      "title": "Gli ascolti tv della terza serata di Sanremo 2026: Conti risale la china",
-      "source_count": 9,
-      "article_count": 15,
-      "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilmanifesto.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "corriere.it",
-        "lastampa.it",
-        "repubblica.it"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Mogol a Roma in elicottero dei Vigili del Fuoco. Piantedosi: 'Un monumento nazionale, polemiche strumentali'",
       "source_count": 10,
       "article_count": 14,
@@ -167,16 +150,33 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Legge elettorale, accordo nel centrodestra. È scontro con le opposizioni | Premio per quota 40%, no al premier sulla scheda: i 4 punti",
-      "source_count": 7,
+      "rank": 9,
+      "title": "Gli ascolti tv della terza serata di Sanremo 2026: Conti risale la china",
+      "source_count": 9,
       "article_count": 13,
       "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ilmanifesto.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "corriere.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Le novità e i punti critici della legge elettorale",
+      "source_count": 7,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
         "liberoquotidiano.it",
         "repubblica.it",
         "corriere.it",
         "ilgiornale.it",
-        "ansa.it",
         "lastampa.it",
         "ilsole24ore.com"
       ]
