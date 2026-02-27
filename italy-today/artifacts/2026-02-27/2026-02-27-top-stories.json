@@ -1,6 +1,6 @@
 {
   "date": "2026-02-27",
-  "generated_at": "Venerdì 27 Febbraio 14:44",
+  "generated_at": "Venerdì 27 Febbraio 15:43",
   "stories": [
     {
       "rank": 1,
@@ -21,23 +21,6 @@
     },
     {
       "rank": 2,
-      "title": "Hillary Clinton: non conoscevo Epstein, fate testimoniare Trump",
-      "source_count": 9,
-      "article_count": 15,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "video.corriere.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Il Pakistan bombarda Kabul, \"guerra aperta\" con i talebani",
       "source_count": 11,
       "article_count": 13,
@@ -56,7 +39,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Banchiere ucraino precipitato dal b&b a Milano, arrestato il figlio in Spagna. «Sequestrò il padre per avere 250mila euro in criptovalute»",
       "source_count": 11,
       "article_count": 13,
@@ -75,7 +58,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Gli ascolti tv della terza serata di Sanremo 2026: Conti risale la china",
       "source_count": 9,
       "article_count": 14,
@@ -92,7 +75,57 @@
       ]
     },
     {
+      "rank": 5,
+      "title": "Hillary Clinton: non conoscevo Epstein, fate testimoniare Trump",
+      "source_count": 8,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "video.corriere.it",
+        "fanpage.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
       "rank": 6,
+      "title": "Mogol a Roma in elicottero dei Vigili del Fuoco. Piantedosi: 'Un monumento nazionale, polemiche strumentali'",
+      "source_count": 10,
+      "article_count": 12,
+      "source_domains": [
+        "unita.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "roma.corriere.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Domenico morto per risparmiare 14 minuti in sala operatoria",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "laverita.info",
+        "napoli.corriere.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Legge elettorale, accordo nel centrodestra. È scontro con le opposizioni | Premio per quota 40%, no al premier sulla scheda: i 4 punti",
       "source_count": 7,
       "article_count": 14,
@@ -107,23 +140,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Domenico morto per risparmiare 14 minuti in sala operatoria",
-      "source_count": 8,
-      "article_count": 12,
-      "source_domains": [
-        "fanpage.it",
-        "laverita.info",
-        "napoli.corriere.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilfattoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "title": "Champions: l'Atalanta con il Bayern Monaco agli ottavi. Europa League: Bologna-Roma negli ottavi",
       "source_count": 8,
       "article_count": 12,
@@ -139,31 +156,14 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Sanremo, Brancale \"Porto la parte più intima di me\"",
       "source_count": 3,
-      "article_count": 15,
+      "article_count": 16,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
         "video.corriere.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Mogol a Roma in elicottero dei Vigili del Fuoco. Piantedosi: 'Un monumento nazionale, polemiche strumentali'",
-      "source_count": 9,
-      "article_count": 9,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "roma.corriere.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
       ]
     }
   ]
