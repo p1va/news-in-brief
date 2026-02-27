@@ -12,7 +12,7 @@
       <link>https://briefings.my/italy-today</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Feb 2026 19:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 19:01:06 +0000</lastBuildDate>
     <itunes:image href="https://briefings.my/italy-today/cover.png"/>
     <item>
       <title>Italy Today - 2025-12-15</title>
@@ -1589,6 +1589,30 @@ I will see you tomorrow.</description>
       <enclosure url="https://briefings.my/italy-today/artifacts/2026-02-25/2026-02-25-audio.mp3" length="6847916" type="audio/mpeg"/>
       <pubDate>Wed, 25 Feb 2026 08:00:00 +0000</pubDate>
       <itunes:duration>427</itunes:duration>
+    </item>
+    <item>
+      <title>Italy Today - 2026-02-27</title>
+      <link>https://briefings.my/italy-today/artifacts/2026-02-27/2026-02-27-audio.mp3</link>
+      <description>View all sources: https://briefings.my/italy-today/artifacts/2026-02-27/2026-02-27-sources-view.html
+---
+Welcome to another episode of &quot;Italy Today&quot;, today is Friday 27 and this episode was curated by Gemini 3 Pro.
+We begin with a tragedy in the heart of Milan. A tram on Line 9 derailed this afternoon in Viale Vittorio Veneto, crashing into a building. The toll is currently two dead and nearly forty injured, sparking an immediate investigation into excessive speed or mechanical failure. Meanwhile, the drums of war are beating louder in South Asia, where Pakistan has declared &quot;open war&quot; on the Taliban, launching airstrikes on Kabul and Kandahar—a geopolitical escalation that Palazzo Chigi is watching closely for potential migration waves. In the UK, a humiliating defeat for Prime Minister Keir Starmer, as the Labour Party loses a stronghold in Manchester to the Greens, signaling deep trouble for the British government. In media news, the streaming wars have a new victor: Paramount has beaten Netflix to acquire Warner Bros, creating a new titan in global entertainment. And finally, Sanremo continues its march with solid ratings, but as always, we are here for the policy, not the pop songs.
+Turning to our lead story: The rules of the game are about to change.
+The center-right majority has officially played its hand on how the next parliament—and potentially the next decade of Italian politics—will be decided. They have tabled a draft for a new electoral law, already dubbed the &quot;Stabilicum.&quot; The proposal returns Italy to a proportional system but with a decisive twist: a &quot;majority premium.&quot; If a coalition hits 40% of the vote, they automatically get 55% of the seats. If no one reaches that threshold, it remains purely proportional, forcing post-vote alliances. Notably, the proposal scraps the idea of a direct election of the Premier—a retreat from Meloni's initial &quot;Mother of all Reforms&quot;—and removes the run-off ballot entirely.
+The reaction, predictably, depends on which paper you read. *Il Giornale* frames this as a necessary evolution to cure Italy’s chronic instability, arguing that a 40% threshold encourages clear coalitions and governance. However, the opposition sees a trap. *La Repubblica* and Elly Schlein of the Democratic Party are screaming &quot;foul play,&quot; accusing the government of tailoring a suit that fits their current polling numbers perfectly while eliminating the risk of a run-off where the opposition could unite against them. Giuseppe Conte’s Five Star Movement calls it a &quot;swindle.&quot;
+The synthesis here is crucial. This law is a calculated bet by Meloni. By removing the run-off, she avoids a scenario where the entire opposition rallies around a single anti-Right candidate in a second round. But by setting the bar at 40%, she is betting the house that the Brothers of Italy and their allies can hold their current consensus until 2027. It is a move to cement the current political landscape into law.
+Moving from the ballot box to the blast furnace, the Italian state brings us a double dose of industrial anxiety today.
+First, the endless saga of Ex-Ilva in Taranto has hit a judicial wall. The Court of Milan has ordered the shutdown of the steelworks' &quot;hot area&quot; within six months if safety compliance isn't met. This is effectively a death sentence for Italy's strategic steel production, set to trigger in August 2026. While *Il Manifesto* and environmental groups are cheering this as a victory for public health, specifically citing the cancer risks to local citizens, *Il Sole 24 Ore* warns of an economic catastrophe that could wipe out thousands of jobs and sever the supply chain for Italian manufacturing.
+Simultaneously, Prime Minister Meloni stated in an interview with Bloomberg that the government's role in the Monte dei Paschi di Siena (MPS) bank is &quot;finished,&quot; implying no further state protection. The market reaction was brutal: MPS stock crashed nearly 7% today. Between the courts closing factories and the government washing its hands of the banks, the &quot;State Entrepreneur&quot; model is having a very bad Friday.
+Staying in Milan, we must return to the tragedy on the rails that is dominating the local conversation.
+While the breaking news is the casualty count, the structural story emerging from *Corriere della Sera* and *Fanpage* is concerning the safety of the public transit network (ATM). Witnesses described the tram accelerating abnormally before &quot;flying&quot; off the tracks and into a restaurant window. The Prosecutor has opened a file for manslaughter. This isn't just an accident; it comes after months of complaints regarding maintenance and driver workloads in the Lombard capital. If this turns out to be a structural failure rather than human error, the political fallout for Mayor Sala’s administration will be severe.
+But before we go, let's look at how the other half travels.
+A fierce polemic has erupted around Mogol, the legendary lyricist behind Italy's greatest songs. It turns out the 89-year-old &quot;national monument&quot;—as Interior Minister Piantedosi called him—was ferried from Sanremo to Rome on a Vigili del Fuoco helicopter to attend a ceremony. The opposition is furious, with the 5 Star Movement asking if emergency vehicles are now acting as VIP taxis. The Minister's defense? Mogol wrote the anthem for the firefighters, so he’s practically family. It’s a classic Italian summer storm in February: half the country is outraged at the waste of public money, and the other half is humming &quot;L'emozione non ha voce.&quot;
+I will see you tomorrow.</description>
+      <guid isPermaLink="false">https://briefings.my/italy-today/artifacts/2026-02-27</guid>
+      <enclosure url="https://briefings.my/italy-today/artifacts/2026-02-27/2026-02-27-audio.mp3" length="5299628" type="audio/mpeg"/>
+      <pubDate>Fri, 27 Feb 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>331</itunes:duration>
     </item>
   </channel>
 </rss>
