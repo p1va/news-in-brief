@@ -1,32 +1,12 @@
 {
   "date": "2026-02-28",
-  "generated_at": "Sabato 28 Febbraio 11:26",
+  "generated_at": "Sabato 28 Febbraio 12:58",
   "stories": [
     {
       "rank": 1,
-      "title": "Israele ha lanciato un attacco preventivo contro l'Iran. «Udite esplosioni a Teheran»",
-      "source_count": 12,
-      "article_count": 34,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "ilgiornale.it",
-        "video.corriere.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "fanpage.it",
-        "laverita.info",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Tram deraglia a Milano, 2 morti e diversi feriti",
       "source_count": 12,
-      "article_count": 34,
+      "article_count": 35,
       "source_domains": [
         "ilgiornale.it",
         "liberoquotidiano.it",
@@ -39,6 +19,24 @@
         "ilmessaggero.it",
         "laverita.info",
         "ilsole24ore.com",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Israele ha lanciato un attacco preventivo contro l'Iran. «Udite esplosioni a Teheran»",
+      "source_count": 10,
+      "article_count": 33,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "corriere.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "repubblica.it",
         "news.google.com"
       ]
     },
@@ -61,23 +59,25 @@
     },
     {
       "rank": 4,
-      "title": "Attacchi ad Israele e a basi Usa: ecco come potrebbe reagire Teheran",
-      "source_count": 6,
-      "article_count": 13,
+      "title": "Tutto sulla finale di Sanremo: ospiti, scaletta e programma",
+      "source_count": 8,
+      "article_count": 15,
       "source_domains": [
         "ilgiornale.it",
-        "video.corriere.it",
-        "fanpage.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
         "lastampa.it",
+        "ilfattoquotidiano.it",
         "repubblica.it",
-        "ilmessaggero.it"
+        "fanpage.it"
       ]
     },
     {
       "rank": 5,
       "title": "Levante e Gaia, bacio sul palco a Sanremo. La regia non lo inquadra: “Ma nessuna censura”",
       "source_count": 8,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
@@ -92,9 +92,10 @@
     {
       "rank": 6,
       "title": "Domenico, la relazione inviata al ministero: «Nessuno controllò il box-frigo. In sala operatoria senza procedure di sicurezza»",
-      "source_count": 7,
-      "article_count": 10,
+      "source_count": 8,
+      "article_count": 11,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "fanpage.it",
         "napoli.corriere.it",
@@ -106,27 +107,13 @@
     },
     {
       "rank": 7,
-      "title": "Sanremo, ascolti quarta serata: 10,7 milioni di spettatori e 65,6% di share",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "corriere.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it",
-        "fanpage.it"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Gianni Morandi a sorpresa sul palco con il figlio Tredici Pietro",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
         "ansa.it",
         "ilgiornale.it",
+        "repubblica.it",
         "lastampa.it",
         "ilfattoquotidiano.it",
         "fanpage.it",
@@ -135,7 +122,34 @@
       ]
     },
     {
+      "rank": 8,
+      "title": "Bocelli: Sanremo fa paura? A chi si gioca il futuro, ci vuole rispetto per quel palco",
+      "source_count": 5,
+      "article_count": 12,
+      "source_domains": [
+        "lastampa.it",
+        "corriere.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "news.google.com"
+      ]
+    },
+    {
       "rank": 9,
+      "title": "Guerra, iniziato l’attacco di Israele in Iran: sentite esplosioni a Teheran. Le notizie in diretta",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "laverita.info",
+        "fanpage.it",
+        "lastampa.it",
+        "ilgiornale.it"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Bill Clinton sotto torchio: 'Non conosco né avuto sesso con la donna nella vasca idromassaggio'",
       "source_count": 7,
       "article_count": 9,
@@ -147,18 +161,6 @@
         "fanpage.it",
         "liberoquotidiano.it",
         "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Sanremo 2026, le pagelle ai look della serata cover: Bianca Balti inarrivabile diva retrò. Laura Pausini non convince, Levante e Gaia come Britney e Madonna",
-      "source_count": 4,
-      "article_count": 11,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "ilgiornale.it"
       ]
     }
   ]
