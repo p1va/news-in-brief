@@ -1,21 +1,21 @@
 {
   "date": "2026-02-28",
-  "generated_at": "Sabato 28 Febbraio 14:29",
+  "generated_at": "Sabato 28 Febbraio 15:30",
   "stories": [
     {
       "rank": 1,
       "title": "Israele ha lanciato un attacco preventivo contro l'Iran. «Udite esplosioni a Teheran»",
       "source_count": 11,
-      "article_count": 44,
+      "article_count": 47,
       "source_domains": [
-        "video.corriere.it",
+        "ansa.it",
+        "corriere.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
         "adnkronos.com",
-        "ansa.it",
         "fanpage.it",
         "lastampa.it",
-        "ilfattoquotidiano.it",
+        "laverita.info",
         "ilmessaggero.it",
         "repubblica.it",
         "news.google.com"
@@ -25,14 +25,14 @@
       "rank": 2,
       "title": "Tram deraglia a Milano, 2 morti e diversi feriti",
       "source_count": 13,
-      "article_count": 37,
+      "article_count": 38,
       "source_domains": [
         "adnkronos.com",
         "ansa.it",
         "liberoquotidiano.it",
-        "ilgiornale.it",
-        "fanpage.it",
         "milano.corriere.it",
+        "fanpage.it",
+        "ilgiornale.it",
         "milano.repubblica.it",
         "ilmanifesto.it",
         "lastampa.it",
@@ -61,12 +61,30 @@
     },
     {
       "rank": 4,
-      "title": "Tutto sulla finale di Sanremo: ospiti, scaletta e programma",
-      "source_count": 7,
-      "article_count": 14,
+      "title": "Levante e Gaia, bacio sul palco a Sanremo. La regia non lo inquadra: “Ma nessuna censura”",
+      "source_count": 9,
+      "article_count": 15,
       "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "fanpage.it",
         "liberoquotidiano.it",
+        "corriere.it",
+        "repubblica.it",
         "ilgiornale.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Tutto sulla finale di Sanremo: ospiti, scaletta e programma",
+      "source_count": 8,
+      "article_count": 16,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "corriere.it",
         "ilmessaggero.it",
         "adnkronos.com",
         "lastampa.it",
@@ -75,23 +93,34 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Levante e Gaia, bacio sul palco a Sanremo. La regia non lo inquadra: “Ma nessuna censura”",
-      "source_count": 8,
-      "article_count": 12,
+      "rank": 6,
+      "title": "Sanremo 2026, Bocelli \"Tutto è cominciato da qui\"",
+      "source_count": 5,
+      "article_count": 14,
       "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
         "liberoquotidiano.it",
+        "lastampa.it",
         "corriere.it",
-        "fanpage.it",
         "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it"
+        "news.google.com"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Attacco Iran, Trump: \"L'ora della libertà degli iraniani sta per arrivare\"",
+      "source_count": 6,
+      "article_count": 13,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
+        "corriere.it"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Gianni Morandi a sorpresa sul palco con il figlio Tredici Pietro",
       "source_count": 8,
       "article_count": 10,
@@ -107,61 +136,31 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "«Iraniani, prendete in mano il vostro governo e il vostro destino»: il discorso con cui Trump annuncia l'attacco",
+      "rank": 9,
+      "title": "Sanremo 2026, Pausini: \"Grignani? Il mio numero ce l'ha, mai cambiato\"",
       "source_count": 7,
       "article_count": 11,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ansa.it",
-        "corriere.it"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "AI militare: il Pentagono caccia Anthropic e sceglie OpenAI",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
         "fanpage.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "corriere.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Scaletta e programma della serata finale di Sanremo 2026",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
+        "ilfattoquotidiano.it",
         "corriere.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
         "ilgiornale.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "repubblica.it",
         "ilmessaggero.it"
       ]
     },
     {
       "rank": 10,
-      "title": "Bocelli: Sanremo fa paura? A chi si gioca il futuro, ci vuole rispetto per quel palco",
+      "title": "Attacco in Iran, Tajani: \"Nessun italiano coinvolto in Iran e nel Golfo\"",
       "source_count": 5,
-      "article_count": 11,
+      "article_count": 13,
       "source_domains": [
+        "ilgiornale.it",
         "liberoquotidiano.it",
-        "lastampa.it",
-        "corriere.it",
+        "adnkronos.com",
         "repubblica.it",
-        "news.google.com"
+        "ansa.it"
       ]
     }
   ]
