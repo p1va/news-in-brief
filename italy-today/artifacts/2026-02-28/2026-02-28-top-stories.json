@@ -1,18 +1,18 @@
 {
   "date": "2026-02-28",
-  "generated_at": "Sabato 28 Febbraio 15:30",
+  "generated_at": "Sabato 28 Febbraio 16:35",
   "stories": [
     {
       "rank": 1,
       "title": "Israele ha lanciato un attacco preventivo contro l'Iran. «Udite esplosioni a Teheran»",
       "source_count": 11,
-      "article_count": 47,
+      "article_count": 45,
       "source_domains": [
         "ansa.it",
+        "adnkronos.com",
         "corriere.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
-        "adnkronos.com",
         "fanpage.it",
         "lastampa.it",
         "laverita.info",
@@ -24,8 +24,8 @@
     {
       "rank": 2,
       "title": "Tram deraglia a Milano, 2 morti e diversi feriti",
-      "source_count": 13,
-      "article_count": 38,
+      "source_count": 12,
+      "article_count": 35,
       "source_domains": [
         "adnkronos.com",
         "ansa.it",
@@ -38,12 +38,28 @@
         "lastampa.it",
         "ilmessaggero.it",
         "laverita.info",
-        "ilsole24ore.com",
         "news.google.com"
       ]
     },
     {
       "rank": 3,
+      "title": "A Sanremo il bacio di Levante con Gaia dopo il duetto sul brano 'I maschi'. Il regista del Festival: 'Nessuna censura'",
+      "source_count": 9,
+      "article_count": 19,
+      "source_domains": [
+        "corriere.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Sanremo 2026, Ditonellapiaga e TonyPitony vincono la serata delle cover",
       "source_count": 9,
       "article_count": 16,
@@ -60,63 +76,47 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Levante e Gaia, bacio sul palco a Sanremo. La regia non lo inquadra: “Ma nessuna censura”",
-      "source_count": 9,
-      "article_count": 15,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "corriere.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ]
-    },
-    {
       "rank": 5,
       "title": "Tutto sulla finale di Sanremo: ospiti, scaletta e programma",
       "source_count": 8,
-      "article_count": 16,
+      "article_count": 17,
       "source_domains": [
+        "fanpage.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
         "corriere.it",
         "ilmessaggero.it",
         "adnkronos.com",
         "lastampa.it",
-        "repubblica.it",
-        "fanpage.it"
+        "repubblica.it"
       ]
     },
     {
       "rank": 6,
-      "title": "Sanremo 2026, Bocelli \"Tutto è cominciato da qui\"",
-      "source_count": 5,
-      "article_count": 14,
+      "title": "Attacco Iran, Trump: \"L'ora della libertà degli iraniani sta per arrivare\"",
+      "source_count": 7,
+      "article_count": 16,
       "source_domains": [
-        "liberoquotidiano.it",
-        "lastampa.it",
         "corriere.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
         "repubblica.it",
-        "news.google.com"
+        "adnkronos.com",
+        "ansa.it"
       ]
     },
     {
       "rank": 7,
-      "title": "Attacco Iran, Trump: \"L'ora della libertà degli iraniani sta per arrivare\"",
-      "source_count": 6,
-      "article_count": 13,
+      "title": "Attacco in Iran, Tajani: \"Nessun italiano coinvolto in Iran e nel Golfo\"",
+      "source_count": 5,
+      "article_count": 14,
       "source_domains": [
-        "liberoquotidiano.it",
         "ilgiornale.it",
-        "repubblica.it",
+        "liberoquotidiano.it",
         "adnkronos.com",
-        "ansa.it",
-        "corriere.it"
+        "repubblica.it",
+        "ansa.it"
       ]
     },
     {
@@ -137,6 +137,19 @@
     },
     {
       "rank": 9,
+      "title": "Bocelli: Sanremo fa paura? A chi si gioca il futuro, ci vuole rispetto per quel palco",
+      "source_count": 5,
+      "article_count": 13,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "corriere.it",
+        "repubblica.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Sanremo 2026, Pausini: \"Grignani? Il mio numero ce l'ha, mai cambiato\"",
       "source_count": 7,
       "article_count": 11,
@@ -148,19 +161,6 @@
         "adnkronos.com",
         "ilgiornale.it",
         "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Attacco in Iran, Tajani: \"Nessun italiano coinvolto in Iran e nel Golfo\"",
-      "source_count": 5,
-      "article_count": 13,
-      "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ansa.it"
       ]
     }
   ]
