@@ -1,13 +1,14 @@
 {
   "date": "2026-02-28",
-  "generated_at": "Sabato 28 Febbraio 09:33",
+  "generated_at": "Sabato 28 Febbraio 10:31",
   "stories": [
     {
       "rank": 1,
       "title": "Deraglia un tram a Milano, il momento dell'incidente",
       "source_count": 13,
-      "article_count": 31,
+      "article_count": 36,
       "source_domains": [
+        "liberoquotidiano.it",
         "fanpage.it",
         "milano.corriere.it",
         "milano.repubblica.it",
@@ -16,7 +17,6 @@
         "lastampa.it",
         "ilmessaggero.it",
         "ilgiornale.it",
-        "liberoquotidiano.it",
         "laverita.info",
         "unita.it",
         "ilsole24ore.com",
@@ -26,17 +26,18 @@
     {
       "rank": 2,
       "title": "Israele ha lanciato un attacco preventivo contro l'Iran. «Udite esplosioni a Teheran»",
-      "source_count": 11,
-      "article_count": 24,
+      "source_count": 12,
+      "article_count": 33,
       "source_domains": [
         "video.corriere.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "fanpage.it",
+        "laverita.info",
         "ilmessaggero.it",
+        "ilgiornale.it",
         "adnkronos.com",
         "repubblica.it",
         "news.google.com"
@@ -46,14 +47,14 @@
       "rank": 3,
       "title": "Sanremo 2026, Ditonellapiaga e TonyPitony vincono la serata delle cover",
       "source_count": 10,
-      "article_count": 16,
+      "article_count": 18,
       "source_domains": [
-        "adnkronos.com",
         "ilfattoquotidiano.it",
+        "ilgiornale.it",
         "ansa.it",
         "corriere.it",
         "repubblica.it",
-        "ilgiornale.it",
+        "adnkronos.com",
         "fanpage.it",
         "lastampa.it",
         "laverita.info",
@@ -81,19 +82,34 @@
       "rank": 5,
       "title": "Bacio tra Levante e Gaia a Sanremo censurato dalla regia Rai: “Abbiamo sconvolto le signore in prima fila”",
       "source_count": 7,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "corriere.it",
         "fanpage.it",
         "ansa.it",
         "ilgiornale.it",
-        "ilfattoquotidiano.it",
         "lastampa.it"
       ]
     },
     {
       "rank": 6,
+      "title": "Sanremo, calano gli ascolti della serata cover: 10,7 milioni e 65,6% di share",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it",
+        "fanpage.it"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Domenico morto per risparmiare 14 minuti in sala operatoria",
       "source_count": 6,
       "article_count": 8,
@@ -107,7 +123,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Bocelli: Sanremo fa paura? A chi si gioca il futuro, ci vuole rispetto per quel palco",
       "source_count": 5,
       "article_count": 9,
@@ -120,7 +136,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Paramount vince la \"guerra di Warner Bros\", Netflix non rilancia. Cosa cambia nel mondo dello streaming",
       "source_count": 7,
       "article_count": 7,
@@ -135,31 +151,17 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Sanremo, ascolti quarta serata: 10,7 milioni di spettatori e 65,6% di share",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "corriere.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "fanpage.it",
-        "news.google.com"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Gassmann, polemica su Gianni Morandi all'Ariston: «Le regole non sono uguali per tutti». L'attacco sui parenti al Festival",
+      "title": "«Iraniani, prendete in mano il vostro governo e il vostro destino»: il discorso con cui Trump annuncia l'attacco",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
-        "corriere.it",
+        "ilgiornale.it",
         "repubblica.it",
-        "fanpage.it",
-        "ilmessaggero.it",
         "adnkronos.com",
-        "ilgiornale.it"
+        "ansa.it",
+        "corriere.it",
+        "liberoquotidiano.it"
       ]
     }
   ]
