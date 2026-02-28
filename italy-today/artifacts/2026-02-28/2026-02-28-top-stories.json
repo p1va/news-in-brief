@@ -1,12 +1,12 @@
 {
   "date": "2026-02-28",
-  "generated_at": "Sabato 28 Febbraio 19:27",
+  "generated_at": "Sabato 28 Febbraio 20:33",
   "stories": [
     {
       "rank": 1,
       "title": "Israele ha lanciato un attacco preventivo contro l'Iran. «Udite esplosioni a Teheran»",
       "source_count": 12,
-      "article_count": 50,
+      "article_count": 51,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -28,33 +28,33 @@
       "source_count": 9,
       "article_count": 27,
       "source_domains": [
+        "ansa.it",
         "adnkronos.com",
+        "fanpage.it",
+        "d.repubblica.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "ansa.it",
-        "lastampa.it",
         "laverita.info",
-        "fanpage.it",
         "ilgiornale.it",
-        "repubblica.it"
+        "lastampa.it"
       ]
     },
     {
       "rank": 3,
-      "title": "Tram deragliato a Milano, due morti e 48 feriti: l'ipotesi di un guasto al freno d'emergenza dopo il malore dell'autista",
+      "title": "Tram deraglia a Milano, il malore del conducente e il sistema di frenata: questi i nodi dell'indagine",
       "source_count": 10,
-      "article_count": 25,
+      "article_count": 24,
       "source_domains": [
-        "adnkronos.com",
         "ansa.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
         "liberoquotidiano.it",
         "milano.corriere.it",
         "fanpage.it",
         "ilgiornale.it",
         "milano.repubblica.it",
         "ilmanifesto.it",
-        "lastampa.it",
-        "ilmessaggero.it"
+        "lastampa.it"
       ]
     },
     {
@@ -65,17 +65,34 @@
       "source_domains": [
         "liberoquotidiano.it",
         "corriere.it",
+        "lastampa.it",
         "repubblica.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "ansa.it",
         "fanpage.it",
-        "ilgiornale.it",
-        "lastampa.it"
+        "ilgiornale.it"
       ]
     },
     {
       "rank": 5,
+      "title": "Sanremo 2026, Ditonellapiaga e TonyPitony vincono la serata delle cover",
+      "source_count": 9,
+      "article_count": 18,
+      "source_domains": [
+        "adnkronos.com",
+        "fanpage.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "laverita.info"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "«Iraniani, prendete in mano il vostro governo e il vostro destino»: il discorso con cui Trump annuncia l'attacco",
       "source_count": 8,
       "article_count": 18,
@@ -88,23 +105,6 @@
         "corriere.it",
         "lastampa.it",
         "ansa.it"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Sanremo 2026, Ditonellapiaga e TonyPitony vincono la serata delle cover",
-      "source_count": 9,
-      "article_count": 15,
-      "source_domains": [
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "corriere.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "laverita.info"
       ]
     },
     {
@@ -125,23 +125,27 @@
     },
     {
       "rank": 8,
-      "title": "Sanremo 2026, Carlo Conti annuncia una possibile sorpresa: \"Potrei restare io o...\"",
-      "source_count": 5,
-      "article_count": 14,
+      "title": "Khamenei, la Guida Suprema dell'Iran «in una località sicura». Chi è, il nodo della successione e il ruolo del figlio",
+      "source_count": 8,
+      "article_count": 13,
       "source_domains": [
-        "repubblica.it",
+        "laverita.info",
+        "ilmessaggero.it",
         "adnkronos.com",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "video.corriere.it"
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "repubblica.it",
+        "corriere.it"
       ]
     },
     {
       "rank": 9,
       "title": "Gianni Morandi a sorpresa sul palco con il figlio Tredici Pietro",
-      "source_count": 8,
-      "article_count": 10,
+      "source_count": 9,
+      "article_count": 11,
       "source_domains": [
+        "adnkronos.com",
         "ansa.it",
         "ilgiornale.it",
         "repubblica.it",
@@ -155,13 +159,14 @@
     {
       "rank": 10,
       "title": "Sanremo 2026, Pausini: \"Grignani? Il mio numero ce l'ha, mai cambiato\"",
-      "source_count": 7,
-      "article_count": 11,
+      "source_count": 8,
+      "article_count": 12,
       "source_domains": [
         "fanpage.it",
         "ilfattoquotidiano.it",
         "corriere.it",
         "liberoquotidiano.it",
+        "lastampa.it",
         "adnkronos.com",
         "ilgiornale.it",
         "ilmessaggero.it"
