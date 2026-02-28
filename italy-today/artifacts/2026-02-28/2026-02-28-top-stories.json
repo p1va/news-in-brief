@@ -1,6 +1,6 @@
 {
   "date": "2026-02-28",
-  "generated_at": "Sabato 28 Febbraio 08:37",
+  "generated_at": "Sabato 28 Febbraio 09:33",
   "stories": [
     {
       "rank": 1,
@@ -27,15 +27,15 @@
       "rank": 2,
       "title": "Israele ha lanciato un attacco preventivo contro l'Iran. «Udite esplosioni a Teheran»",
       "source_count": 11,
-      "article_count": 20,
+      "article_count": 24,
       "source_domains": [
+        "video.corriere.it",
         "ansa.it",
+        "lastampa.it",
         "ilgiornale.it",
         "fanpage.it",
-        "video.corriere.it",
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
-        "lastampa.it",
         "ilmessaggero.it",
         "adnkronos.com",
         "repubblica.it",
@@ -46,14 +46,14 @@
       "rank": 3,
       "title": "Sanremo 2026, Ditonellapiaga e TonyPitony vincono la serata delle cover",
       "source_count": 10,
-      "article_count": 18,
+      "article_count": 16,
       "source_domains": [
+        "adnkronos.com",
         "ilfattoquotidiano.it",
-        "ilgiornale.it",
         "ansa.it",
         "corriere.it",
         "repubblica.it",
-        "adnkronos.com",
+        "ilgiornale.it",
         "fanpage.it",
         "lastampa.it",
         "laverita.info",
@@ -63,14 +63,15 @@
     {
       "rank": 4,
       "title": "Bill Clinton sotto torchio: 'Non conosco né avuto sesso con la donna nella vasca idromassaggio'",
-      "source_count": 8,
-      "article_count": 10,
+      "source_count": 9,
+      "article_count": 11,
       "source_domains": [
         "corriere.it",
         "repubblica.it",
         "ansa.it",
         "ilgiornale.it",
         "lastampa.it",
+        "fanpage.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
         "news.google.com"
@@ -78,10 +79,11 @@
     },
     {
       "rank": 5,
-      "title": "Gaia e Levante, il bacio sul palco dell'Ariston. E sui social è polemica per il \"taglio\". La Rai: \"Nessuna censura\"",
-      "source_count": 6,
-      "article_count": 8,
+      "title": "Bacio tra Levante e Gaia a Sanremo censurato dalla regia Rai: “Abbiamo sconvolto le signore in prima fila”",
+      "source_count": 7,
+      "article_count": 9,
       "source_domains": [
+        "liberoquotidiano.it",
         "corriere.it",
         "fanpage.it",
         "ansa.it",
@@ -134,6 +136,20 @@
     },
     {
       "rank": 9,
+      "title": "Sanremo, ascolti quarta serata: 10,7 milioni di spettatori e 65,6% di share",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "fanpage.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Gassmann, polemica su Gianni Morandi all'Ariston: «Le regole non sono uguali per tutti». L'attacco sui parenti al Festival",
       "source_count": 6,
       "article_count": 6,
@@ -144,20 +160,6 @@
         "ilmessaggero.it",
         "adnkronos.com",
         "ilgiornale.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Sorpresa all’Ariston: Gianni Morandi sale sul palco e canta “Vita” con il figlio Tredici Pietro",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "video.corriere.it",
-        "ilmessaggero.it"
       ]
     }
   ]
