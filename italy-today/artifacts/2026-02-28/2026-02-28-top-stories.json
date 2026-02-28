@@ -1,6 +1,6 @@
 {
   "date": "2026-02-28",
-  "generated_at": "Sabato 28 Febbraio 06:49",
+  "generated_at": "Sabato 28 Febbraio 07:33",
   "stories": [
     {
       "rank": 1,
@@ -25,16 +25,15 @@
     {
       "rank": 2,
       "title": "Sanremo 2026, Ditonellapiaga e TonyPitony vincono la serata delle cover",
-      "source_count": 10,
-      "article_count": 16,
+      "source_count": 9,
+      "article_count": 17,
       "source_domains": [
+        "ilgiornale.it",
         "ansa.it",
         "corriere.it",
         "repubblica.it",
-        "ilgiornale.it",
         "adnkronos.com",
         "fanpage.it",
-        "ilfattoquotidiano.it",
         "lastampa.it",
         "laverita.info",
         "ilmessaggero.it"
@@ -42,22 +41,39 @@
     },
     {
       "rank": 3,
+      "title": "Israele ha lanciato un attacco preventivo contro l'Iran. «Udite esplosioni a Teheran»",
+      "source_count": 9,
+      "article_count": 13,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "video.corriere.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Bill Clinton sotto torchio: 'Non conosco né avuto sesso con la donna nella vasca idromassaggio'",
       "source_count": 8,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "corriere.it",
         "repubblica.it",
         "ansa.it",
         "ilgiornale.it",
         "lastampa.it",
-        "corriere.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
         "news.google.com"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Gaia e Levante, il bacio sul palco dell'Ariston. E sui social è polemica per il \"taglio\". La Rai: \"Nessuna censura\"",
       "source_count": 6,
       "article_count": 8,
@@ -71,7 +87,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Paramount vince la \"guerra di Warner Bros\", Netflix non rilancia. Cosa cambia nel mondo dello streaming",
       "source_count": 7,
       "article_count": 7,
@@ -86,21 +102,21 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Israele ha lanciato un attacco preventivo contro l'Iran. «Udite esplosioni a Teheran»",
+      "rank": 7,
+      "title": "Domenico morto per risparmiare 14 minuti in sala operatoria",
       "source_count": 6,
       "article_count": 7,
       "source_domains": [
+        "napoli.corriere.it",
+        "fanpage.it",
+        "napoli.repubblica.it",
         "ansa.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
+        "laverita.info",
+        "ilgiornale.it"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Gassmann, polemica su Gianni Morandi all'Ariston: «Le regole non sono uguali per tutti». L'attacco sui parenti al Festival",
       "source_count": 6,
       "article_count": 6,
@@ -114,7 +130,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Sorpresa all’Ariston: Gianni Morandi sale sul palco e canta “Vita” con il figlio Tredici Pietro",
       "source_count": 6,
       "article_count": 6,
@@ -125,20 +141,6 @@
         "fanpage.it",
         "video.corriere.it",
         "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Domenico morto per risparmiare 14 minuti in sala operatoria",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "fanpage.it",
-        "napoli.repubblica.it",
-        "ansa.it",
-        "napoli.corriere.it",
-        "laverita.info",
-        "ilgiornale.it"
       ]
     },
     {
