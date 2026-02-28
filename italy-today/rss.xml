@@ -12,7 +12,7 @@
       <link>https://briefings.my/italy-today</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Feb 2026 19:01:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 18:49:14 +0000</lastBuildDate>
     <itunes:image href="https://briefings.my/italy-today/cover.png"/>
     <item>
       <title>Italy Today - 2025-12-15</title>
@@ -1613,6 +1613,31 @@ I will see you tomorrow.</description>
       <enclosure url="https://briefings.my/italy-today/artifacts/2026-02-27/2026-02-27-audio.mp3" length="5299628" type="audio/mpeg"/>
       <pubDate>Fri, 27 Feb 2026 08:00:00 +0000</pubDate>
       <itunes:duration>331</itunes:duration>
+    </item>
+    <item>
+      <title>Italy Today - 2026-02-28</title>
+      <link>https://briefings.my/italy-today/artifacts/2026-02-28/2026-02-28-audio.mp3</link>
+      <description>View all sources: https://briefings.my/italy-today/artifacts/2026-02-28/2026-02-28-sources-view.html
+---
+Welcome to another episode of &quot;Italy Today&quot;, today is Saturday 28 and this episode was curated by Gemini 3 Pro.
+The world has woken up to a much more dangerous geopolitical reality this morning. Overnight, the United States and Israel launched a massive, coordinated air campaign against Iran, with President Donald Trump explicitly calling for a &quot;change of regime&quot; in Teheran. The fallout was immediate: Iran fired back, targeting not just Israel, but US assets in the Gulf, sending missiles flying over the tourist beaches of Dubai. Amidst this chaos, Italian Defense Minister Guido Crosetto remains physically stranded in the Emirates, his flight cancelled due to closed airspace. Meanwhile, in Milan, the investigation into the deadly tram derailment has shifted from human error to critical system failure. In Naples, the judicial inquiry into a botched heart transplant has revealed chat logs that are shaking the public health sector to its core. And finally, Sanremo prepares for its grand finale tonight, offering a glittery distraction from a world on fire.
+Turning to our lead story: The Middle East is officially boiling over, and Rome is scrambling to assess the damage.
+In the early hours of Saturday, American and Israeli forces initiated what Trump calls an operation for &quot;Iranian freedom,&quot; targeting nuclear sites and the leadership of the Ayatollahs. But unlike previous flare-ups, the retaliation was instantaneous and asymmetric. Iranian missiles have struck near the Fairmont Hotel in Dubai, a hub for Western tourists and business leaders, shattering the illusion that the Gulf states are safe havens.
+The immediate crisis for Palazzo Chigi is personal and logistical. Defense Minister Guido Crosetto, who was in the UAE on a private trip, is currently stuck in Dubai. *Il Fatto Quotidiano* broke the exclusive, noting the supreme irony that the man responsible for Italy’s defense is grounded in a war zone because commercial airspace has collapsed. While *La Repubblica* highlights the diplomatic panic—with Foreign Minister Tajani convening emergency summits and warning of a long conflict—the right-wing press, particularly *Libero*, is emphasizing the &quot;preventive&quot; nature of the trumpian strike, framing it as a necessary defense of Western civilization.
+However, the real synthesis here lies in the exposure of Italy’s strategic vulnerability. We have over a thousand soldiers in Lebanon and troops in Iraq and Kuwait. As reported by *Ansa*, troops in Kuwait are currently in bunkers. If the Gulf becomes a free-fire zone, Italy’s energy corridors and military deployments are instantly compromised, and with the Defense Minister unable to return to Rome immediately, the optical fragility of the government is on full display.
+Returning to the domestic tragedy we covered yesterday, the narrative in Milan has taken a dark, technical turn.
+As we reported, a tram on Line 9 derailed, killing two. Today, the &quot;malore&quot;—the illness of the driver—is no longer the end of the story; it is the beginning of a structural indictment. *Corriere della Sera* and *Fanpage* are reporting that prosecutors are laser-focused on the failure of the &quot;Dead Man&quot; switch—or &quot;Uomo Vigile.&quot; This is the safety mechanism that is supposed to automatically brake the tram if the driver stops interacting with the controls for more than a few seconds.
+If the driver fainted, the tram should have stopped. It didn't. It accelerated. This moves the needle from a tragic accident to a potential corporate manslaughter charge regarding maintenance and software safety. *Il Giornale*, usually protective of the city's administration, admits the footage shows the tram tilting &quot;like a missile,&quot; while the trade unions are already mobilizing, claiming that safety systems have been degraded by budget cuts. What was an accident on Friday is becoming a political crisis for Mayor Sala on Saturday.
+Moving south, we uncover a horror story from the public health sector that is dominating the &quot;Roundup&quot; today.
+*Il Mattino* and *Il Fatto Quotidiano* have published the chat logs of nurses involved in the tragic death of Domenico, a child who died after receiving a heart transplant at the Monaldi hospital in Naples. The investigation reveals that the donor heart was improperly preserved in dry ice, becoming &quot;frozen like a stone.&quot; The chat logs are brutal, with staff messaging: &quot;Mamma mia, they will have this on their conscience,&quot; and describing the frantic, improvised attempt to thaw the organ with warm water. *La Repubblica* frames this as a collapse of chain-of-command and basic medical protocols, while the hospital administration has suspended the surgeons involved. It is a story that erodes faith in the southern healthcare system, contrasting sharply with the shiny, technocratic image the government tries to project abroad.
+Meanwhile, a quieter but significant battle is brewing in Sardinia. *Il Sole 24 Ore* reports on a massive protest against the Ministry of Justice’s plan to transfer more mafia bosses under the &quot;41bis&quot; hard prison regime to the island’s penitentiaries. Regional President Todde and local citizens are revolting against the idea of Sardinia becoming the &quot;Alcatraz of Italy.&quot; This friction highlights the eternal tension between Rome’s need for security infrastructure and the autonomy of the regions, a sleeper story that could cause headaches for the Meloni government's relationship with local administrations.
+But before we go, we must address the elephant in the room—or rather, the singers on the stage.
+Tonight is the finale of Sanremo. In a split-screen reality that only Italy can produce, millions will tune in to see if the rap-duo Ditonellapiaga and TonyPitony can hold onto their lead after dominating &quot;Cover Night,&quot; while the scrolling news tickers below them report on missiles over Dubai. The inevitable &quot;scandal&quot; of the day involves a bacio—a kiss—between singers Levante and Gaia, which the Rai cameras awkwardly cut away from. *La Stampa* cries censorship; Rai claims it was just bad timing. It is the perfect, trivial distraction: a debate on camera angles and stage kisses while the geopolitical order of the Middle East is being rewritten.
+I will see you tomorrow.</description>
+      <guid isPermaLink="false">https://briefings.my/italy-today/artifacts/2026-02-28</guid>
+      <enclosure url="https://briefings.my/italy-today/artifacts/2026-02-28/2026-02-28-audio.mp3" length="5873324" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Feb 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>367</itunes:duration>
     </item>
   </channel>
 </rss>
