@@ -1,24 +1,22 @@
 {
   "date": "2026-02-28",
-  "generated_at": "Sabato 28 Febbraio 20:33",
+  "generated_at": "Sabato 28 Febbraio 21:28",
   "stories": [
     {
       "rank": 1,
       "title": "Israele ha lanciato un attacco preventivo contro l'Iran. «Udite esplosioni a Teheran»",
-      "source_count": 12,
-      "article_count": 51,
+      "source_count": 10,
+      "article_count": 53,
       "source_domains": [
         "ansa.it",
-        "liberoquotidiano.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "lastampa.it",
-        "laverita.info",
-        "ilmessaggero.it",
         "repubblica.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "lastampa.it",
         "news.google.com"
       ]
     },
@@ -26,10 +24,10 @@
       "rank": 2,
       "title": "Tutto sulla finale di Sanremo: ospiti, scaletta e programma",
       "source_count": 9,
-      "article_count": 27,
+      "article_count": 30,
       "source_domains": [
-        "ansa.it",
         "adnkronos.com",
+        "ansa.it",
         "fanpage.it",
         "d.repubblica.it",
         "ilfattoquotidiano.it",
@@ -59,23 +57,6 @@
     },
     {
       "rank": 4,
-      "title": "A Sanremo il bacio di Levante con Gaia dopo il duetto sul brano 'I maschi'. Il regista del Festival: 'Nessuna censura'",
-      "source_count": 9,
-      "article_count": 20,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "corriere.it",
-        "lastampa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "fanpage.it",
-        "ilgiornale.it"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Sanremo 2026, Ditonellapiaga e TonyPitony vincono la serata delle cover",
       "source_count": 9,
       "article_count": 18,
@@ -92,7 +73,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "«Iraniani, prendete in mano il vostro governo e il vostro destino»: il discorso con cui Trump annuncia l'attacco",
       "source_count": 8,
       "article_count": 18,
@@ -108,7 +89,40 @@
       ]
     },
     {
+      "rank": 6,
+      "title": "A Sanremo il bacio di Levante con Gaia dopo il duetto sul brano 'I maschi'. Il regista del Festival: 'Nessuna censura'",
+      "source_count": 8,
+      "article_count": 17,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "corriere.it",
+        "lastampa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "fanpage.it"
+      ]
+    },
+    {
       "rank": 7,
+      "title": "Khamenei, la Guida Suprema dell'Iran «in una località sicura». Chi è, il nodo della successione e il ruolo del figlio",
+      "source_count": 9,
+      "article_count": 14,
+      "source_domains": [
+        "laverita.info",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "repubblica.it",
+        "corriere.it"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Attacco in Iran, Tajani: \"Nessun italiano coinvolto in Iran e nel Golfo\"",
       "source_count": 8,
       "article_count": 14,
@@ -124,52 +138,34 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Khamenei, la Guida Suprema dell'Iran «in una località sicura». Chi è, il nodo della successione e il ruolo del figlio",
-      "source_count": 8,
-      "article_count": 13,
-      "source_domains": [
-        "laverita.info",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "repubblica.it",
-        "corriere.it"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Gianni Morandi a sorpresa sul palco con il figlio Tredici Pietro",
-      "source_count": 9,
-      "article_count": 11,
+      "title": "Contrattacco Iran, a Dubai missili in cielo e gente in spiaggia",
+      "source_count": 7,
+      "article_count": 15,
       "source_domains": [
-        "adnkronos.com",
         "ansa.it",
         "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it",
         "ilfattoquotidiano.it",
-        "fanpage.it",
         "video.corriere.it",
-        "ilmessaggero.it"
+        "ilmessaggero.it",
+        "lastampa.it",
+        "liberoquotidiano.it"
       ]
     },
     {
       "rank": 10,
-      "title": "Sanremo 2026, Pausini: \"Grignani? Il mio numero ce l'ha, mai cambiato\"",
+      "title": "Sanremo, il passaggio di testimone per il 2027: l'investitura di Conti a De Martino oggi in diretta",
       "source_count": 8,
       "article_count": 12,
       "source_domains": [
-        "fanpage.it",
-        "ilfattoquotidiano.it",
         "corriere.it",
         "liberoquotidiano.it",
-        "lastampa.it",
+        "repubblica.it",
         "adnkronos.com",
-        "ilgiornale.it",
-        "ilmessaggero.it"
+        "ilmessaggero.it",
+        "lastampa.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it"
       ]
     }
   ]
