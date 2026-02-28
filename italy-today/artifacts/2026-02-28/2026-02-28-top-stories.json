@@ -1,17 +1,17 @@
 {
   "date": "2026-02-28",
-  "generated_at": "Sabato 28 Febbraio 16:35",
+  "generated_at": "Sabato 28 Febbraio 17:26",
   "stories": [
     {
       "rank": 1,
       "title": "Israele ha lanciato un attacco preventivo contro l'Iran. «Udite esplosioni a Teheran»",
       "source_count": 11,
-      "article_count": 45,
+      "article_count": 47,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
-        "corriere.it",
         "liberoquotidiano.it",
+        "corriere.it",
         "ilgiornale.it",
         "fanpage.it",
         "lastampa.it",
@@ -23,9 +23,9 @@
     },
     {
       "rank": 2,
-      "title": "Tram deraglia a Milano, 2 morti e diversi feriti",
-      "source_count": 12,
-      "article_count": 35,
+      "title": "Tram deragliato a Milano, due morti e 48 feriti: l'ipotesi di un guasto al freno d'emergenza dopo il malore dell'autista",
+      "source_count": 11,
+      "article_count": 32,
       "source_domains": [
         "adnkronos.com",
         "ansa.it",
@@ -37,12 +37,29 @@
         "ilmanifesto.it",
         "lastampa.it",
         "ilmessaggero.it",
-        "laverita.info",
         "news.google.com"
       ]
     },
     {
       "rank": 3,
+      "title": "Sanremo 2026, Ditonellapiaga e TonyPitony vincono la serata delle cover",
+      "source_count": 10,
+      "article_count": 19,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "corriere.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "laverita.info",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "A Sanremo il bacio di Levante con Gaia dopo il duetto sul brano 'I maschi'. Il regista del Festival: 'Nessuna censura'",
       "source_count": 9,
       "article_count": 19,
@@ -59,64 +76,49 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Sanremo 2026, Ditonellapiaga e TonyPitony vincono la serata delle cover",
-      "source_count": 9,
-      "article_count": 16,
+      "rank": 5,
+      "title": "Attacco all'Iran, l'annuncio di Trump: \"Eliminare il regime\"",
+      "source_count": 7,
+      "article_count": 18,
       "source_domains": [
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "corriere.it",
-        "repubblica.it",
         "ilgiornale.it",
-        "adnkronos.com",
+        "repubblica.it",
+        "corriere.it",
+        "liberoquotidiano.it",
         "lastampa.it",
-        "laverita.info"
+        "adnkronos.com",
+        "ansa.it"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Tutto sulla finale di Sanremo: ospiti, scaletta e programma",
-      "source_count": 8,
-      "article_count": 17,
+      "source_count": 7,
+      "article_count": 16,
       "source_domains": [
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "ilmessaggero.it",
         "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
         "lastampa.it",
         "repubblica.it"
       ]
     },
     {
-      "rank": 6,
-      "title": "Attacco Iran, Trump: \"L'ora della libertà degli iraniani sta per arrivare\"",
-      "source_count": 7,
-      "article_count": 16,
-      "source_domains": [
-        "corriere.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ansa.it"
-      ]
-    },
-    {
       "rank": 7,
       "title": "Attacco in Iran, Tajani: \"Nessun italiano coinvolto in Iran e nel Golfo\"",
-      "source_count": 5,
+      "source_count": 8,
       "article_count": 14,
       "source_domains": [
+        "laverita.info",
         "ilgiornale.it",
         "liberoquotidiano.it",
         "adnkronos.com",
         "repubblica.it",
-        "ansa.it"
+        "ansa.it",
+        "fanpage.it",
+        "ilsole24ore.com"
       ]
     },
     {
@@ -137,15 +139,14 @@
     },
     {
       "rank": 9,
-      "title": "Bocelli: Sanremo fa paura? A chi si gioca il futuro, ci vuole rispetto per quel palco",
-      "source_count": 5,
-      "article_count": 13,
+      "title": "Carlo Conti: divertiamoci, un Sanremo apertissimo come non mai",
+      "source_count": 4,
+      "article_count": 14,
       "source_domains": [
         "liberoquotidiano.it",
         "lastampa.it",
         "corriere.it",
-        "repubblica.it",
-        "news.google.com"
+        "repubblica.it"
       ]
     },
     {
