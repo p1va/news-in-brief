@@ -1,14 +1,13 @@
 {
   "date": "2026-03-01",
-  "generated_at": "Domenica 1 Marzo 15:30",
+  "generated_at": "Domenica 1 Marzo 16:36",
   "stories": [
     {
       "rank": 1,
-      "title": "Sanremo 2026, Sal Da Vinci ha vinto il Festival: tutto sul cantautore",
-      "source_count": 13,
-      "article_count": 51,
+      "title": "Sanremo 2026, vince Sal Da Vinci con “Per sempre sì”: Sayf e Ditonellapiaga sul podio, ecco la classifica finale completa",
+      "source_count": 12,
+      "article_count": 42,
       "source_domains": [
-        "liberoquotidiano.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "ansa.it",
@@ -18,22 +17,22 @@
         "lastampa.it",
         "ilgiornale.it",
         "corriere.it",
+        "liberoquotidiano.it",
         "laverita.info",
-        "ilmessaggero.it",
-        "news.google.com"
+        "ilmessaggero.it"
       ]
     },
     {
       "rank": 2,
       "title": "In Iran è la fine di un'era: chi era l'ayatollah Khamenei",
       "source_count": 11,
-      "article_count": 33,
+      "article_count": 34,
       "source_domains": [
+        "ilgiornale.it",
         "fanpage.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
-        "ilgiornale.it",
         "video.corriere.it",
         "ansa.it",
         "adnkronos.com",
@@ -46,12 +45,12 @@
       "rank": 3,
       "title": "Attacco in Iran, morto Khamenei",
       "source_count": 12,
-      "article_count": 29,
+      "article_count": 31,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
-        "ilfattoquotidiano.it",
         "ilgiornale.it",
+        "ilfattoquotidiano.it",
         "unita.it",
         "repubblica.it",
         "ilmessaggero.it",
@@ -64,27 +63,9 @@
     },
     {
       "rank": 4,
-      "title": "Dubai, gli attacchi dell'Iran: dal Burj Al Arab (hotel a 7 stelle) al Burj Khalifa, colpiti i simboli del lusso",
-      "source_count": 10,
-      "article_count": 30,
-      "source_domains": [
-        "fanpage.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Attacco all’Iran, resa dei conti in Medio Oriente Il punto in diretta",
       "source_count": 8,
-      "article_count": 26,
+      "article_count": 24,
       "source_domains": [
         "liberoquotidiano.it",
         "video.corriere.it",
@@ -97,7 +78,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Crosetto rientra in Italia da Dubai con un aereo militare: \"Torno da solo e pago il triplo\"",
       "source_count": 11,
       "article_count": 16,
@@ -116,7 +97,36 @@
       ]
     },
     {
+      "rank": 6,
+      "title": "Sanremo, Sal Da Vinci: E' la vittoria di chi come me persevera nei sogni",
+      "source_count": 5,
+      "article_count": 18,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "video.corriere.it",
+        "news.google.com"
+      ]
+    },
+    {
       "rank": 7,
+      "title": "Stefano De Martino conduttore di Sanremo 2027, il golden boy Rai pronto a guidare il festival",
+      "source_count": 8,
+      "article_count": 14,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Sanremo, i top e i flop della serata finale",
       "source_count": 8,
       "article_count": 14,
@@ -132,33 +142,16 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Stefano De Martino conduttore di Sanremo 2027, il golden boy Rai pronto a guidare il festival",
-      "source_count": 8,
-      "article_count": 13,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "repubblica.it",
-        "corriere.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Tram deraglia a Milano, il malore del conducente e il sistema di frenata: questi i nodi dell'indagine",
-      "source_count": 8,
-      "article_count": 10,
+      "title": "Dubai, gli attacchi dell'Iran: dal Burj Al Arab (hotel a 7 stelle) al Burj Khalifa, colpiti i simboli del lusso",
+      "source_count": 7,
+      "article_count": 14,
       "source_domains": [
-        "fanpage.it",
+        "video.corriere.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
         "ilgiornale.it",
-        "milano.corriere.it",
-        "milano.repubblica.it",
-        "lastampa.it",
-        "ansa.it",
         "ilmessaggero.it",
         "news.google.com"
       ]
@@ -166,11 +159,12 @@
     {
       "rank": 10,
       "title": "Spazio chiuso in Medio Oriente, voli cancellati: cosa succede al trasporto aereo dpo l'attacco all'Iran",
-      "source_count": 8,
-      "article_count": 10,
+      "source_count": 9,
+      "article_count": 12,
       "source_domains": [
-        "ansa.it",
         "ilgiornale.it",
+        "fanpage.it",
+        "ansa.it",
         "video.corriere.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
