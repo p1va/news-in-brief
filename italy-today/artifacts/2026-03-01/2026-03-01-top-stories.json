@@ -1,6 +1,6 @@
 {
   "date": "2026-03-01",
-  "generated_at": "Domenica 1 Marzo 18:48",
+  "generated_at": "Domenica 1 Marzo 19:28",
   "stories": [
     {
       "rank": 1,
@@ -26,8 +26,8 @@
     {
       "rank": 2,
       "title": "Attacco in Iran, morto Khamenei",
-      "source_count": 12,
-      "article_count": 38,
+      "source_count": 11,
+      "article_count": 35,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
@@ -36,7 +36,6 @@
         "unita.it",
         "repubblica.it",
         "ilmessaggero.it",
-        "ilmanifesto.it",
         "corriere.it",
         "fanpage.it",
         "laverita.info",
@@ -80,20 +79,17 @@
     },
     {
       "rank": 5,
-      "title": "Crosetto rientra in Italia da Dubai con un aereo militare: \"Torno da solo e pago il triplo\"",
-      "source_count": 10,
-      "article_count": 15,
+      "title": "Da BigMama allo chef Iaccarino: “Sentiamo i missili sulla testa”. Isolati anche 190 studenti italiani",
+      "source_count": 7,
+      "article_count": 17,
       "source_domains": [
-        "roma.corriere.it",
-        "ilgiornale.it",
         "ansa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
         "fanpage.it",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "roma.corriere.it",
+        "lastampa.it"
       ]
     },
     {
@@ -114,17 +110,19 @@
     },
     {
       "rank": 7,
-      "title": "Un'italiana ad Abu Dhabi, 'pioggia di missili e boati nella notte'",
-      "source_count": 7,
-      "article_count": 14,
+      "title": "Crosetto rientra in Italia da Dubai con un aereo militare: \"Torno da solo e pago il triplo\"",
+      "source_count": 9,
+      "article_count": 12,
       "source_domains": [
-        "ansa.it",
-        "fanpage.it",
-        "corriere.it",
+        "roma.corriere.it",
         "ilgiornale.it",
+        "ansa.it",
         "repubblica.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "lastampa.it"
+        "fanpage.it",
+        "ilsole24ore.com"
       ]
     },
     {
@@ -146,22 +144,6 @@
     },
     {
       "rank": 9,
-      "title": "Tram deraglia a Milano, il malore del conducente e il sistema di frenata: questi i nodi dell'indagine",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "milano.corriere.it",
-        "milano.repubblica.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Sanremo, i top e i flop della serata finale",
       "source_count": 6,
       "article_count": 11,
@@ -172,6 +154,22 @@
         "ilgiornale.it",
         "lastampa.it",
         "d.repubblica.it"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "MotoGp Thailandia, vince Bezzecchi e Marquez si ritira",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ansa.it",
+        "corriere.it",
+        "lastampa.it"
       ]
     }
   ]
