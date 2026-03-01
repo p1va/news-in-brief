@@ -1,0 +1,698 @@
+Here is the latest data for today's show:
+- In <previous_episode_transcript> find the script for the last episode for context.
+- In <clustered_headlines> find the "Top Stories" (widely covered).
+- In <other_headlines> find news that were only covered by single source.
+
+
+<previous_episode_transcript>
+# Previous Episode Transcript (2026-02-28)
+Welcome to another episode of "Italy Today", today is Saturday 28 and this episode was curated by Gemini 3 Pro.
+
+The world has woken up to a much more dangerous geopolitical reality this morning. Overnight, the United States and Israel launched a massive, coordinated air campaign against Iran, with President Donald Trump explicitly calling for a "change of regime" in Teheran. The fallout was immediate: Iran fired back, targeting not just Israel, but US assets in the Gulf, sending missiles flying over the tourist beaches of Dubai. Amidst this chaos, Italian Defense Minister Guido Crosetto remains physically stranded in the Emirates, his flight cancelled due to closed airspace. Meanwhile, in Milan, the investigation into the deadly tram derailment has shifted from human error to critical system failure. In Naples, the judicial inquiry into a botched heart transplant has revealed chat logs that are shaking the public health sector to its core. And finally, Sanremo prepares for its grand finale tonight, offering a glittery distraction from a world on fire.
+
+Turning to our lead story: The Middle East is officially boiling over, and Rome is scrambling to assess the damage.
+
+In the early hours of Saturday, American and Israeli forces initiated what Trump calls an operation for "Iranian freedom," targeting nuclear sites and the leadership of the Ayatollahs. But unlike previous flare-ups, the retaliation was instantaneous and asymmetric. Iranian missiles have struck near the Fairmont Hotel in Dubai, a hub for Western tourists and business leaders, shattering the illusion that the Gulf states are safe havens.
+
+The immediate crisis for Palazzo Chigi is personal and logistical. Defense Minister Guido Crosetto, who was in the UAE on a private trip, is currently stuck in Dubai. *Il Fatto Quotidiano* broke the exclusive, noting the supreme irony that the man responsible for Italy’s defense is grounded in a war zone because commercial airspace has collapsed. While *La Repubblica* highlights the diplomatic panic—with Foreign Minister Tajani convening emergency summits and warning of a long conflict—the right-wing press, particularly *Libero*, is emphasizing the "preventive" nature of the trumpian strike, framing it as a necessary defense of Western civilization.
+
+However, the real synthesis here lies in the exposure of Italy’s strategic vulnerability. We have over a thousand soldiers in Lebanon and troops in Iraq and Kuwait. As reported by *Ansa*, troops in Kuwait are currently in bunkers. If the Gulf becomes a free-fire zone, Italy’s energy corridors and military deployments are instantly compromised, and with the Defense Minister unable to return to Rome immediately, the optical fragility of the government is on full display.
+
+Returning to the domestic tragedy we covered yesterday, the narrative in Milan has taken a dark, technical turn.
+
+As we reported, a tram on Line 9 derailed, killing two. Today, the "malore"—the illness of the driver—is no longer the end of the story; it is the beginning of a structural indictment. *Corriere della Sera* and *Fanpage* are reporting that prosecutors are laser-focused on the failure of the "Dead Man" switch—or "Uomo Vigile." This is the safety mechanism that is supposed to automatically brake the tram if the driver stops interacting with the controls for more than a few seconds.
+
+If the driver fainted, the tram should have stopped. It didn't. It accelerated. This moves the needle from a tragic accident to a potential corporate manslaughter charge regarding maintenance and software safety. *Il Giornale*, usually protective of the city's administration, admits the footage shows the tram tilting "like a missile," while the trade unions are already mobilizing, claiming that safety systems have been degraded by budget cuts. What was an accident on Friday is becoming a political crisis for Mayor Sala on Saturday.
+
+Moving south, we uncover a horror story from the public health sector that is dominating the "Roundup" today.
+
+*Il Mattino* and *Il Fatto Quotidiano* have published the chat logs of nurses involved in the tragic death of Domenico, a child who died after receiving a heart transplant at the Monaldi hospital in Naples. The investigation reveals that the donor heart was improperly preserved in dry ice, becoming "frozen like a stone." The chat logs are brutal, with staff messaging: "Mamma mia, they will have this on their conscience," and describing the frantic, improvised attempt to thaw the organ with warm water. *La Repubblica* frames this as a collapse of chain-of-command and basic medical protocols, while the hospital administration has suspended the surgeons involved. It is a story that erodes faith in the southern healthcare system, contrasting sharply with the shiny, technocratic image the government tries to project abroad.
+
+Meanwhile, a quieter but significant battle is brewing in Sardinia. *Il Sole 24 Ore* reports on a massive protest against the Ministry of Justice’s plan to transfer more mafia bosses under the "41bis" hard prison regime to the island’s penitentiaries. Regional President Todde and local citizens are revolting against the idea of Sardinia becoming the "Alcatraz of Italy." This friction highlights the eternal tension between Rome’s need for security infrastructure and the autonomy of the regions, a sleeper story that could cause headaches for the Meloni government's relationship with local administrations.
+
+But before we go, we must address the elephant in the room—or rather, the singers on the stage.
+
+Tonight is the finale of Sanremo. In a split-screen reality that only Italy can produce, millions will tune in to see if the rap-duo Ditonellapiaga and TonyPitony can hold onto their lead after dominating "Cover Night," while the scrolling news tickers below them report on missiles over Dubai. The inevitable "scandal" of the day involves a bacio—a kiss—between singers Levante and Gaia, which the Rai cameras awkwardly cut away from. *La Stampa* cries censorship; Rai claims it was just bad timing. It is the perfect, trivial distraction: a debate on camera angles and stage kisses while the geopolitical order of the Middle East is being rewritten.
+
+I will see you tomorrow.
+</previous_episode_transcript>
+
+
+
+<clustered_headlines>
+# Coverage Pulse - 2026-03-01
+
+## 1. Attacco in Iran, morto Khamenei
+
+> **Context:** L’ayatollah Ali Khamenei è stato ucciso negli attacchi israeliano-americani contro l’Iran. La foto del suo corpo è stata mostrata a Netanyahu e a Teheran, appresa la notizia, alcune persone applaudono dalle finestre mentre i missili iraniani colpiscono Israele e i Paesi del Golfo.Continua a leggere
+
+- **Corriere Della Sera**: Khamenei è morto: Teheran conferma. Nuovi attacchi sull'Iran che colpisce Israele e i paesi del Golfo. Ali Larijani: «L'Iran deve unirsi, non tollereremo divisioni» | Regime decapitato | Strage di bambine La reazione di Teheran: colpiti i paesi del Golfo che ospitano basi Usa. Esplosioni a Doha e Dubai
+- **Corriere Della Sera**: Dal devastante raid sul compound alla foto del cadavere: le ultime ore di Khamenei Voci e smentite per tutto il pomeriggio, poi le conferme. E sull’account X del dittatore la scritta: «La pace sia con lui»
+- **La Repubblica**: Iran, le ultime notizie sull’attacco. La tv iraniana conferma: “Ucciso Khamenei” Il tycoon: 'Ci sono alcuni buoni candidati per guidare il Paese. Raid fino alla pace nella regione'. Chiuso lo stretto di Hormuz. Esplosioni a Dubai e Tel Aviv
+- **La Stampa**: Usa-Israele attaccano l’Iran, Trump: “Khamenei è morto”. Droni sugli aeroporti di Dubai e Abu Dhabi Mosca: «Aggressione immotivata». Media: «Chiuso lo Stretto di Hormuz». Esplosioni a Tel Aviv
+- **La Stampa**: Khamenei, dietro la fine oscura dell’ayatollah l’illusione occidentale del cambio di regime Morto, chiuso in un bunker, tagliato fuori: la sua sorte deciderà la durata della guerra
+- **ANSA**: L'Iran conferma la morte di Khamenei. Nel Paese 40 giorni di lutto nazionale La morte della guida suprema confermata dalla tv di Stato Israeliana. Il tycoon: 'Ci sono alcuni buoni candidati per guidare l'Iran. Raid fino alla pace nella regione'. Chiuso lo stretto di Hormuz. Esplosioni a Dubai e Tel Aviv, morti e feriti
+- **Adkronos**: Iran, Teheran conferma morte Khamenei. Nuove esplosioni a Dubai, Doha e Manama L'annuncio ufficiale alle 5 ora locale, mentre venivano trasmesse immagini d'archivio con lo schermo listato a lutto. Il capo del Consiglio supremo di sicurezza nazionale, Ali Larijani: "Oggi inizia processo transizione" . Pasdaran: "Contro Usa e Israele l'offensiva più feroce della storia". ﻿Trump replica: "Li colpiremo con forza mai vista prima"
+- **Adkronos**: Trump: "Khamenei è morto ma l'attacco all'Iran non si ferma" Il presidente degli Stati Uniti: "Gli iraniani possono riprendersi il paese. I raid dureranno finché non ci sarà pace in Medio Oriente"
+- **Il Fatto Quotidiano**: Attacco all’Iran, “l’ayatollah Khamenei ucciso da Israele e Usa”. Trump: “I leader iraniani collaborino o moriranno”. Attacchi di droni sull’aeroporto di Dubai L'articolo Attacco all’Iran, “l’ayatollah Khamenei ucciso da Israele e Usa”. Trump: “I leader iraniani collaborino o moriranno”. Attacchi di droni sull’aeroporto di Dubai proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Dopo l’attacco all’Iran si va verso una guerra regionale 23 anni dopo l'invasione dell'Iraq il Medio Oriente è ancora una volta sull'orlo di una crisi. Ali Khamenei è stato ucciso nei primi bombardamenti, mentre l'Iran bombardava i Paesi del Golfo.Continua a leggere
+- **Il Giornale**: Trump: "Khamenei è morto, raid fino alla pace". Feste in strada a Teheran. Missili e droni iraniani su Dubai, Tel Aviv e Abu Dhabi: morti e feriti I dubbi della Cia sulla successione: "Ala dura dei pasdaran al potere". Continuano gli attacchi contro Israele e i Paesi del Golfo. Teheran minaccia: "I nostri colpi saranno così devastanti che implorerete pietà"
+- **Il Giornale**: Attacco Usa-Israele all'Iran, Trump: "Khamenei è morto, i leader di Teheran collaborino o faranno una brutta fine". Festa nelle strade della capitale della Repubblica islamica Raid Usa-Israele contro l’Iran, risposta con missili e droni sullo Stato ebraico e basi americane nel Golfo. Colpiti vertici iraniani, esplosioni otto Paesi, chiusi gli spazi aerei e lo stretto di Hormuz | LA CRISI IN 10 PUNTI: COSA SAPPIAMO
+- **Il Giornale**: Media israeliani: "Khamenei è morto, recuperato il corpo. Netanyahu e Trump hanno visto le foto" Khamenei, da oltre trent’anni al vertice del potere iraniano, è scomparso per ore senza dare alcun segno o tanto meno rilasciare alcun videomessaggio. Alle 20:40 italiane è stata confermata la sua morte
+- **La Verità**: Blitz di Trump: ucciso Khamenei. Il regime iraniano è alle corde Usa e Israele attaccano: il corpo del leader trovato in serata. Teheran bombarda Qatar, Arabia, Emirati e Kuwait: decine di italiani bloccati. Il presidente Usa: «Posso chiuderla in pochi giorni».Un primo bilancio parla di oltre 200 morti. Starmer: «Coinvolti anche jet britannici».Lo speciale contiene due articoli.Continua a leggere
+- **La Verità**: Attacco in Iran, morto Khamenei L’ayatollah Ali Khamenei è stato ucciso negli attacchi israeliano-americani contro l’Iran. La foto del suo corpo è stata mostrata a Netanyahu e a Teheran, appresa la notizia, alcune persone applaudono dalle finestre mentre i missili iraniani colpiscono Israele e i Paesi del Golfo.Continua a leggere
+- **Il Manifesto**: Ali Khamenei, il simbolo della repressione iraniana Tra gli obiettivi dei bombardamenti israeliani e statunitensi vi è senz’altro il leader supremo Ali Khamenei, simbolo di un regime repressivo. Pare però si fosse già trasferito in una località […] The post Ali Khamenei, il simbolo della repressione iraniana first appeared on il manifesto.
+- **Il Messaggero**: Khamenei, come è morto? Il raid congiunto e le 30 bombe sul bunker. «Il cadavere recuperato tra le macerie» Un’operazione militare congiunta di portata storica ha colpito il cuore pulsante della Repubblica Islamica uccidendo Khamenei. Guida Suprema dell’Iran per oltre 35 anni,...
+- **Fanpage.it**: Iran, attacco Israele-USA in diretta, Teheran conferma la morte di Khamenei: “Risponderemo molto duramente” La diretta dell'attacco di Usa a Israele all'Iran: Teheran ha confermato la morte dell'ayatollah Ali Khamenei e in risposta ha lanciato missili sulle basi statunitensi nel Golfo. Trump minaccia: "Se colpiranno duro, reagiremo con forza mai vista prima".
+- **Fanpage.it**: Ali Khamenei, chi era la Guida Suprema dell’Iran uccisa nell’attacco Israele-Usa e cosa sappiamo sulla sua morte Chi era Ali Hosseini Khamenei, la Guida Suprema dell'Iran ucciso nell'attacco di USA e Israele: la conferma del decesso da parte di Donald Trump dopo ore di dichiarazioni e smentite sulla sua morte.
+- **Fanpage.it**: Le news del 28 febbraio sull’attacco USA-Israele contro l’Iran Attacco Israele-USA all'Iran: "l'operazione congiunta" contro Teheran è stata condotta via aria e mare con il nome "Il ruggito del Leone". Trump: "Morto Khamenei". I media italiani non confermano. Il ministro Crosetto bloccato a Dubai.
+- **Corriere Della Sera**: La Cia l'ha trovato, Israele lo ha ucciso: i dettagli della missione per colpire l'ayatollah. Il dietro le quinte dell'operazione "Epic Fury" I caccia di Israele sono decollati alle 6, due ore dopo le bombe hanno devastato il compound dove si trovava Khamenei. Per la terza volta i vertici dell'asse sciita si sono fatti cogliere di sorpresa
+- **La Repubblica**: Da Stati Uniti e Israele una pioggia di fuoco sull’Iran: “Khamenei morto nel bunker” Bombe su Teheran: la foto del cadavere della Guida suprema mostrata a Trump e Netanyahu. “È stato ucciso ma la guerra va avanti”. Il duro contrattacco dei pasdaran su tutta la regione
+- **Il Fatto Quotidiano**: L’Iran conferma la morte di Khamenei. Trump: “Minacciano di colpirci? Reagiremo con una forza mai vista prima”. Pakistan, tentato assalto al consolato Usa: 6 vittime L'articolo L’Iran conferma la morte di Khamenei. Trump: “Minacciano di colpirci? Reagiremo con una forza mai vista prima”. Pakistan, tentato assalto al consolato Usa: 6 vittime proviene da Il Fatto Quotidiano.
+- **Il Fatto Quotidiano**: L’Iran conferma la morte di Khamenei. Nuovi attacchi di Israele su Teheran. Trump: “Se serve reagiremo con forza mai vista”. Pakistan, tentato assalto al consolato Usa L'articolo L’Iran conferma la morte di Khamenei. Nuovi attacchi di Israele su Teheran. Trump: “Se serve reagiremo con forza mai vista”. Pakistan, tentato assalto al consolato Usa proviene da Il Fatto Quotidiano.
+- **Il Giornale**: "Khamenei individuato dalla Cia". Le ultime ore deall'ayatollah e il piano di Washington e Tel Aviv Cia e Israele avrebbero anticipato l’attacco per colpire un vertice segreto. Decisivo il tracciamento di Khamenei e l’uso di sistemi di intelligenza artificiale nelle valutazioni operative
+- **Il Manifesto**: Ucciso Khamenei, Teheran colpita al cuore Ali Khamenei, leader supremo della Repubblica Islamica, è stato preso di mira mentre era in riunione con Mohammad Pakpour, comandante dei Pasdaran, Ali Shamkhani, consigliere politico, e Ali Larijani, segretario […] The post Ucciso Khamenei, Teheran colpita al cuore first appeared on il manifesto.
+- **Il Fatto Quotidiano**: L’Iran conferma la morte di Khamenei. Nuovi raid di Israele su Teheran: attaccata la tv. Pezeshkian: “Guerra all’Islam, ora vendetta”. Trump: “Reagiremo” L'articolo L’Iran conferma la morte di Khamenei. Nuovi raid di Israele su Teheran: attaccata la tv. Pezeshkian: “Guerra all’Islam, ora vendetta”. Trump: “Reagiremo” proviene da Il Fatto Quotidiano.
+- **La Repubblica**: Le informazioni della Cia, il braccio di Israele: così è stato trovato e ucciso Khamenei Il “New York Times” ricostruisce i dettagli dell’operazione preparata da mesi, ma accelerata per riuscire a colpire una riunione del vertice del regime
+- **Il Fatto Quotidiano**: “La Cia ha identificato la posizione di Khamenei. E ha dato le informazioni a Israele”. I retroscena del raid che ha ucciso il leader iraniano La Cia ha identificato la posizione precisa della Guida Suprema iraniana, Ali Khamenei, poco prima che gli Stati Uniti e Israele lanciassero l’attacco coordinato contro l’Iran, fornendo a Tel Aviv informazioni di intelligence “ad alta fedeltà” che hanno consentito l’operazione in cui è stato ucciso. La svolta, scrive il New York Times citando funzionari a […] L'articolo “La Cia ha identificato la posizione di Khamenei. E ha dato le informazioni a Israele”. I retroscena del raid che ha ucciso il leader iraniano proviene da Il Fatto Quotidiano.
+- **Il Giornale**: "Il più malvagio è morto. Ora libertà per gli iraniani" Trump: "Mai il nucleare a Teheran. Il popolo mi dirà chi vuole come successore". Il ruolo di Vance nell'attacco
+- **L'Unità**: Eliminato Khamenei: Israele e USA uccidono la Guida Suprema dell’Iran, Teheran sotto le bombe Confermata l’uccisione della Guida Suprema dell’Iran, l’Ayatollah Ali Khamenei, eliminato ieri in un bombardamento nell’ambito dell’attacco alla Repubblica Islamica sciita lanciato da Stati Uniti e Israele. L’esercito israeliano sta continuando a bombardare Teheran e altri obiettivi. Ancora non è chiaro come proseguirà l’operazione, quali gli obiettivi finali di Israele e Stati Uniti: se continuare con […]
+- **Il Messaggero**: Khamenei, come è stato ucciso: la Cia lo ha trovato, i jet di Israele in volo dalle 6 e il raid (anticipato al mattino) Poco prima che Stati Uniti e Israele preparassero l'ondata di attacchi contro l'Iran, la Cia si è focalizzata sull'obiettivo più importante: l'ayatollah Ali...
+- **Adkronos**: Il ruolo della Cia e il raid sul compund: così è stato ucciso Khamenei La morte della Guida Suprema dell'Iran e di altri alti funzionari iraniani, è avvenuta dopo una stretta condivisione di intelligence tra Stati Uniti ed Israele
+- **ANSA**: Teheran conferma la morte di Khamenei. I media: 'L'ex presidente Ahmadinejad ucciso nel primo attacco' Continua l'offensiva di Usa-Israele sull'Iran, che annuncia vendetta. Pechino e Mosca condannano l'attacco. Esplosioni a Dubai e Tel Aviv, morti e feriti
+- **ANSA**: In Iran è giallo sulla morte di Ahmadinejad. Gli Usa: 'Affondata una nave iraniana' Continua l'offensiva di Usa-Israele sull'Iran, che annuncia vendetta. Pechino e Mosca condannano l'attacco. Esplosioni a Dubai e Tel Aviv, morti e feriti
+- **Adkronos**: Iran, Trump: "Nuova leadership vuole parlare, lo farò" Il presidente Usa: "'Eliminati 48 leader in un colpo solo. Petrolio e Stretto Hormuz? Non mi preoccupa nulla". Netanyahu: "Attacchi al cuore di Teheran aumenteranno nei prossimi giorni"
+- **Il Giornale**: Khamenei ucciso dai raid, giallo sulla morte di Ahmadinejad. Trump: "Ho accettato di parlare con la leadership iraniana". Il comando Usa: "Caduti tre soldati americani" I dubbi della Cia sulla successione: "Ala dura dei pasdaran al potere". I pasdaran: "Attaccata la portaerei Lincoln". Nove morti in israele per la rappresaglia degli ayatollah. Netanyahu: "Stiamo colpendo il cuore di Teheran"
+- **ANSA**: In Iran è giallo su Ahmadinejad, gli Usa: 'Affondata una nave iraniana'. Trump: 'Parlerò con i nuovi leader' Continua l'offensiva di Usa-Israele sull'Iran, che annuncia vendetta. Pechino e Mosca condannano l'attacco. Esplosioni a Dubai e Tel Aviv, morti e feriti
+
+
+## 2. In Iran è la fine di un'era: chi era l'ayatollah Khamenei
+
+- **La Repubblica**: Iran, dal nipote di Khomeini al moderato Rouhani: la corsa alla successione di Khamenei Gli apparati erano già stati preparati per trovare una nuova Guida Suprema. Per l’interregno, salgono le quotazioni di Larijan
+- **La Repubblica**: In Iran applausi e canti, la gente in festa sui balconi: “Il tiranno non c’è più” Nella capitale esplode la gioia, nonostante le bombe: balli alle fermate dei bus e caroselli di auto tra incredulità e paura. “I Pasdaran ci dicono di lasciare la città, temono che tutti scendano in strada”
+- **Il Giornale**: “È il giorno più bello della nostra vita”. Gli iraniani nelle piazze italiane festeggiano la morte di Khamenei Da Milano a Roma, passando per Bologna, Genova e ogni città con comunità iraniane, alla notizia dell’uccisione dell’ayatollah è esplosa la festa
+- **Il Giornale**: Da Salvini a Tajani, le reazioni della politica alle notizie della morte di Khamenei La probabile morte dell’ayatollah Ali Khamenei genera le prime reazioni nel mondo politico italiano
+- **Corriere Della Sera**: Urla di gioia a Teheran: la gente fa festa alla notizia dell'uccisione di Khamenei 
+- **Corriere Della Sera**: Il conduttore della tv iraniana in lacrime mentre annuncia la morte di Khamenei 
+- **Corriere Della Sera**: Il conduttore della tv iraniana in lacrime per la morte di Khamenei 
+- **Corriere Della Sera**: Chi è a capo dell'Iran, ora? Il pasdaran Larijani, il poliziotto Ghalibaf: i fedelissimi pronti a prendere le redini 
+- **Il Post**: L’Iran ha confermato la morte di Ali Khamenei 
+- **Corriere Della Sera**: Migliaia di iraniani in piazza a Teheran in lutto per Khamenei 
+- **Il Messaggero**: Khamenei, chi sarà l'erede? I nomi e l'assemblea per eleggerlo (in una riunione quasi impossibile) Quaranta giorni di lutto, sette festivi dopo la morte. In Iran la fase di transizione dopo la morte di Ali Khamenei. «Con il martirio della guida suprema, la sua strada e la sua...
+- **La Stampa**: Iran, chi comanda dopo la morte di Khamenei Al potere in questo momento un direttorio: l’uomo più influente è Larijani, ma non sarà Guida suprema. Qalibaf guida l’ala oltranzista, il presidente Pezeshkian, sopravvissuto, sale nella gerarchia
+- **ANSA**: ++ Condoglianze di Putin per Khamenei, 'un eminente statista' ++ 
+- **Adkronos**: Morte Khamenei, i tre possibili successori e il ruolo di Larijani Si apre la partita per la successione alla Guida Suprema. Ecco i nomi dei possibili eredi e cosa cambia negli equilibri politici
+- **Il Giornale**: Chi è Ahmad Vahidi, nuovo comandante dei Pasdaran Teheran affida la guida dell’IRGC a un veterano dell’apparato di sicurezza: scelta di continuità e linea dura in un momento di tensione militare e riassetto ai vertici
+- **Libero**: Le lacrime di gioia dell'attivista iraniana alla morte di Khamenei 
+- **Libero**: Iran, Khamenei è morto: manifestazioni di piazza e assalti a ambasciate 
+- **Corriere Della Sera**: Statua di Khamenei abbattuta in Iran: il momento in un video 
+- **Il Giornale**: Iran, lacrime in diretta tv per la morte di Khamenei L'uccisione della Guida spirituale iraniana è stata accolta con gioia da chi viveva l'oppressione del regime, ma c'è anche chi è triste e va in piazza per piangere e protestare, gridando vendetta contro Israele e Usa
+- **Il Giornale**: "Il regime può resistere anche senza ayatollah. C'è un sistema solido" L'analista Usa, Ali Alfoneh: "Esiste già un cerchio magico pronto per il dopo-Khamenei"
+- **Il Giornale**: Larijani, Ghalibaf e gli islamisti: ecco i nuovi volti del regime dopo Khamenei La morte di Khamenei apre una fase di incertezza sulla successione di potere in Iran. Ecco i possibili candidati religiosi e militari
+- **ANSA**: Iran, la tv di Stato conferma la morte di Khamenei: il conduttore scoppia in lacrime Dichiarato lutto di 40 giorni, seguiti da 7 giorni di festa per la morte della guida suprema
+- **Il Post**: «Khamenei, uno degli uomini più malvagi della storia, è morto» 
+- **Libero**: In Iran è la fine di un'era: chi era l'ayatollah Khamenei 
+- **Libero**: Morte Khamenei, festeggiamenti davanti ad ambasciata Iran a Roma 
+- **Il Fatto Quotidiano**: Chi succederà a Khamenei? Ecco come l’Iran eleggerà la nuova Guida Suprema Il regime decapitato della sua Guida Suprema e di tanti altri tasselli – dal suo primo consigliere Ali Shamkhani fino al capo delle forze armate e il ministro della Difesa – che ne garantivano la tenuta. La morte in Iran dell’Ayatollah Ali Khamenei, solleva interrogativi fondamentali sul futuro del Paese. Fino a quando non sarà […] L'articolo Chi succederà a Khamenei? Ecco come l’Iran eleggerà la nuova Guida Suprema proviene da Il Fatto Quotidiano.
+- **Libero**: Iran, Israele: la morte di Khamenei è un punto di svolta 
+- **Il Messaggero**: Iran, chi è l'Ayatollah Arafi che sostituisce (ad interim) Khamenei: i legami in Vaticano e la sua posizione dura su Mahsa Amini Il successore di Khamenei, l'ayatollah Alireza Arafi che ora co-governa l'Iran ad interim assieme al presidente Masoud Pezeshkian e al giudice Gholambhossein Ejei, è una delle...
+- **Fanpage.it**: Cosa succederà in Iran dopo l’uccisione di Ali Khamenei e chi prenderà il suo posto Si apre in Iran una lunga fase di successione che in parte era stata già preparata dallo stesso Khamenei: ecco cosa potrebbe accadere a partire dai prossimi giorni dopo l'uccisione della guida suprema.Continua a leggere
+- **Il Post**: Ali Khamenei è stato ucciso 
+- **Libero**: In Iran triumvirato ad interim: "Successore Khamenei in due giorni" 
+
+
+## 3. Crosetto rientra in Italia da Dubai con un aereo militare: "Torno da solo e pago il triplo"
+
+> **Context:** Ieri era rimasto bloccato negli Emirati dopo l'attacco all'Iran. "Voglio evitare polemiche sull'uso del volo"
+
+- **La Repubblica**: Il ministro Crosetto bloccato a Dubai. I Servizi non sapevano del viaggio Il titolare della Difesa partito venerdì per motivi “familiari”: imbarazzo a palazzo Chigi. I 5S attaccano: siamo marginali
+- **La Stampa**: Meloni, vertice di emergenza: “Avvisati ad attacchi in corso”. Crosetto bloccato a Dubai Il governo: gli italiani sono al sicuro. Pronta l’evacuazione di 100 concittadini dall’Iran. L’opposizione: nessun sostegno a un’azione che porta il caos, l’Italia ripudia la guerra
+- **ANSA**: Attacco all'Iran, Crosetto bloccato a Dubai: scoppia il caso politico Il M5s attacca Governo. Paura e apprensione per gli italiani presenti negli Emirati
+- **Il Giornale**: Crosetto bloccato a Dubai, scoppia il caso politico Il ministro era partito venerdì da Roma con un volo civile per andare a prendere i familiari ma l'improvvisa escalation militare ha lasciato a terra tutti i voli di linea. Una vicenda su cui M5s va all'attacco. Il ministro rimasto a Dubai "è la riprova della marginalità del governo"
+- **Il Sole Ventiquattro Ore**: Crosetto, Big mama e le scolaresche: ansia per gli italiani bloccati a Dubai Il ministro della Difesa era partito venerdì con un volo civile per andare a prendere i familiari. Patuanelli (M5S) chiede le dimissioni
+- **Fanpage.it**: Crosetto bloccato a Dubai mentre esplode la crisi in Iran, M5S: “Si dimetta, serve responsabilità istituzionale” Il M5S ha chiesto le dimissioni del ministro della Difesa Guido Crosetto, bloccato a Dubai durante l'escalation in Medio Oriente, parlando di "questione istituzionale" e marginalità internazionale dell'Italia. La maggioranza replica: "Polemica strumentale, il governo resta operativo e coordina il rientro degli italiani".Continua a leggere
+- **Il Giornale**: Pronta l'evacuazione dall'Iran di 500 italiani. Il ministro Crosetto resta bloccato a Dubai Unità di crisi al lavoro per tutelare i connazionali presenti in Medioriente. Il piano per il trasferimento in Azerbaigian
+- **Il Fatto Quotidiano**: Esclusivo – Il ministro Crosetto verso il rientro in Italia da Dubai via Oman La situazione per il rientro da Dubai del ministro della Difesa Guido Crosetto si sta risolvendo. A il Fatto quotidiano risulta che il titolare della Difesa ha attraversato il valico dell’Oman (dove lo spazio aereo è ancora aperto) e verrà prelevato da una unità del ministero della Difesa omanita. Poi dovrebbe rientrare in Italia su […] L'articolo Esclusivo – Il ministro Crosetto verso il rientro in Italia da Dubai via Oman proviene da Il Fatto Quotidiano.
+- **Corriere Della Sera**: Crosetto rientra da Dubai: «Torno da solo su un volo di Stato e pago il triplo. Basta polemiche». Bloccato anche il questore di Roma Scattato il trasferimento sotto scorta del ministro della Difesa
+- **Il Sole Ventiquattro Ore**: Crosetto rientra da Dubai senza la famiglia: «Volo di Stato ma pago per scelta il triplo» Il ministro della Difesa affida a un post su X l’annuncio e replica agli attacchi M5S: «non prendo lezioni da nessuno per senso dello Stato e delle istituzioni»
+- **La Repubblica**: Crosetto verso il rientro da Dubai: “Sto tornando da solo, pagherò l’aereo di Stato il triplo” Il ministro bloccato durante l’attacco all’Iran attacca i 5 stelle che hanno annunciato un interrogazione parlamentare: “Vergognose le polemiche”
+- **ANSA**: Crosetto rientra in Italia da Dubai con un aereo militare: "Torno da solo e pago il triplo" Ieri era rimasto bloccato negli Emirati dopo l'attacco all'Iran. "Voglio evitare polemiche sull'uso del volo"
+- **Adkronos**: Crosetto rientra da Dubai: "Torno con volo militare, pago io cifra tripla" "Lascio qui la mia famiglia, pago la cifra tripla rispetto alla tariffa per gli ospiti dei voli di Stato, in modo tale da togliere anche la possibilità di attaccarmi dicendo che sono tornato usando un volo di Stato"
+- **Il Giornale**: Il ministro Crosetto in volto verso l'Italia: "Polemiche vergognose, mia presenza a Dubai utile" Il titolare della Difesa è rimasto bloccato negli Emirati durante l'attacco all'Iran. Su X: "Rientrerò utilizzando un volo militare ma dopo aver bonificato (un'ora fa) al Comando del 31esimo stormo di Ciampino un importo triplo rispetto al previsto"
+- **Il Messaggero**: Crosetto bloccato a Dubai, il volo del Gulfstream g550 dell'Aeronautica per riportarlo in Italia. Il ministro: «Torno senza famiglia e pago il triplo» Un Gulfstream g550 dell'Aeronautica militare italiana è decollato questa mattina da Roma ed è ormai vicino all'atterraggio in Medio Oriente. Anche se non vi è...
+
+
+## 4. Spazio chiuso in Medio Oriente, voli cancellati: cosa succede al trasporto aereo dpo l'attacco all'Iran
+
+> **Context:** Migliaia di voli sono stati cancellati in seguito agli attacchi di Israele e Usa
+
+- **Corriere Della Sera**: Cieli chiusi, aerei bloccati e piloti smarriti: il giorno in cui il Medio Oriente si è fermato 
+- **Il Messaggero**: Voli cancellati, fino a quando e cosa fare? Lo spazio aereo chiuso sopra Dubai, Abu Dhabi e Doha​ L'attacco degli Stati Uniti e di Israele all'Iran ha interrotto i voli in tutto il Medio Oriente e oltre, poiché i paesi della regione hanno chiuso il loro spazio aereo e...
+- **La Repubblica**: Da Dubai a Israele, caos nei cieli del Medio Oriente: spazi aerei chiusi e voli cancellati Oggi oltre il 16% dei voli da e verso il medio Oriente cancellati. Lo scalo di Dubai colpito da Teheran. Da Dubai a Israele, caos nei cieli del Medio Oriente: spazi aerei chiusi, voli cancellati e aeroporti bloccati
+- **La Stampa**: Migliaia di voli cancellati: è in corso la più grande interruzione mondiale del trasporto aereo Oltre 2.600 voli cancellati e altri 19mila ritardati in tutto il mondo. Le compagnie aeree coinvolte e le tratte sospese
+- **Adkronos**: Iran, trasporto aereo in tilt: 19mila voli ritardati, oltre 2.600 cancellati Migliaia di passeggeri a terra, da Emirates a Lufthansa passando per la nostra Ita: le compagnie coinvolte
+- **Il Fatto Quotidiano**: Spazio aereo chiuso in Medio Oriente: oltre 1800 voli cancellati, è il più grande stop dal Covid È in corso la più grande interruzione mondiale del trasporto aereo, dai tempi della pandemia di Covid. Sono migliaia i voli delle principali compagnie aeree di Medio Oriente, Europa, Asia-Pacifico e Stati Uniti ritardati o cancellati, a seguito degli attacchi statunitensi e israeliani all’Iran, con chiusure dello spazio aereo in Iran, Iraq, Israele, Siria, Kuwait […] L'articolo Spazio aereo chiuso in Medio Oriente: oltre 1800 voli cancellati, è il più grande stop dal Covid proviene da Il Fatto Quotidiano.
+- **ANSA**: Chiuso lo spazio aereo in Medio Oriente, migliaia di voli bloccati L'Agenzia europea raccomanda lo stop ai voli fino a domani, Air France, BA, Lufthansa, Qatar Airways, Turkish Airlines cancellano i collegamenti
+- **Corriere Della Sera**: Spazio chiuso in Medio Oriente, voli cancellati: cosa succede al trasporto aereo dpo l'attacco all'Iran Migliaia di voli sono stati cancellati in seguito agli attacchi di Israele e Usa
+- **ANSA**: Attacco all'Iran, chiuso lo spazio aereo in Medio Oriente: migliaia di voli bloccati L'Agenzia europea raccomanda lo stop ai voli fino a domani. Ita, Air France, BA, Lufthansa, Qatar Airways, Turkish Airlines cancellano i collegamenti
+- **Il Giornale**: Migliaia di voli cancellati, spazi aerei chiusi: cosa succede nei cieli del Medio Oriente Una situazione mai così critica per la vastità dell’area interessata: migliaia di voli cancellati, dirottamenti e i grandi aeroporti mondiali deserti
+- **Fanpage.it**: Attacco all’Iran, chiuso lo spazio aereo nel Golfo: migliaia di voli bloccati e ritardi in tutto il mondo Dopo il violento attacco di Stati Uniti e Israele contro l'Iran e la conseguente rappresaglia di Teheran, gran parte dello spazio aereo del Golfo è stata chiusa, causando cancellazioni e deviazioni su scala globale. Gli effetti si propagano oltre la regione, intaccando la mobilità aerea e i mercati internazionali.Continua a leggere
+- **Il Giornale**: Dubai, il blocco dei voli mette a rischio miliardi e l’economia locale. Le prime analisi 
+
+
+## 5. MotoGp Thailandia, vince Bezzecchi e Marquez si ritira
+
+> **Context:** Alle spalle del pilota dell'Aprilia si sono classificati Pedro Acosta e Raul Fernandez
+
+- **Corriere Della Sera**: MotoGp in Thailandia: Bezzecchi in testa su Raul Fernandez e Acosta, Marc Marquez buca ed esce Diretta 
+- **La Stampa**: MotoGp in Thailandia: Bezzecchi trionfa su Acosta e Raul Fernandez. Marc Marquez buca ed esce Lo spagnolo stava cercando di salvare la giornata. Poi è stato costretto al ritiro per una foratura della gomma posteriore. Neppure il fratello Alex ha visto il traguardo
+- **ANSA**: MotoGp: Marco Bezzecchi vince il Gp di Thailandia Precede Acosta e Fernandez. Marc Marquez fora e va fuori
+- **Fanpage.it**: Bezzecchi e Aprilia dominano il GP Thailandia: trionfo a Buriram con Acosta 2°, Ducati fuori dal podio Marco Bezzecchi apre la MotoGP 2026 con una vittoria autoritaria nel GP Thailandia: Aprilia imprendibile a Buriram con 4 moto in top-5, Acosta secondo con KTM, podio a Raul Fernandez. Bagnaia chiude 9°, Marc Marquez si ritira per foratura, caduto Alex Marquez.Continua a leggere
+- **Adkronos**: MotoGp Thailandia, vince Bezzecchi e Marquez si ritira Alle spalle del pilota dell'Aprilia si sono classificati Pedro Acosta e Raul Fernandez
+- **Il Fatto Quotidiano**: MotoGp, in Thailandia trionfa Bezzecchi. Acosta e Fernandez completano il podio. Fuori Marc Marquez Una vittoria mai in discussione per Marco Bezzecchi (Aprilia), che ha conquistato la gara inaugurale del Motomondiale sul circuito di Buriram, in Thailandia. Bezzecchi ha staccato gli avversari fin dai primi giri con un notevole distacco di tempo. Secondo Pedro Acosta (Ktm) e terzo Raul Fernandez (Trackhouse). Fuori Marc Marquez. Bezzecchi ha confermato le grandi […] L'articolo MotoGp, in Thailandia trionfa Bezzecchi. Acosta e Fernandez completano il podio. Fuori Marc Marquez proviene da Il Fatto Quotidiano.
+- **Il Giornale**: MotoGP, Bezzecchi domina la gara in Thailandia: Marquez buca, Bagnaia solo 9° Dopo la caduta nella sprint race, il pilota Aprilia domina dal primo all’ultimo giro la gara lunga a Buriram. Delusione per il campione del mondo, che fora la posteriore nel finale
+- **Adkronos**: MotoGp, Bezzecchi domina in Thailandia: ordine d'arrivo e classifica Mondiale Il pilota italiano dell'Aprilia ha trionfato nella prima gara della stagione
+- **Libero**: MotoGp in Thailandia, è subito Bezzecchi: trionfo Aprilia. Marquez fuori, Bagnaia spento La MotoGp comincia tingendosi d'azzurro: Marco Bezzecchi su Aprilia ha vinto il Gran Premio della Thailandia, sul circuito di Buriram, valido come prima tappa del Mondiale. Il pilota riminese, partito dalla pole, è rimasto al comando dall'inizio alla fine precedendo sul traguardo i due spagnoli Pedro Acosta su Ktm e Raul Fernandez su una Aprilia del Trackhouse MotoGp Team. Giornata difficile per la Ducati, con Marc Marquez costretto al ritiro e Francesco Pecco Bagnaia soltanto nono. Ai piedi del podio uno Jorge Martin in grande ripresa sulla seconda Aprilia ufficiale, lo spagnolo ha preceduto il giapponese Ai Ogura su un'altra Aprilia del Trackhouse MotoGp Team. Per la casa di Noale sono quattro moto nelle prime cinque posizioni. Per trovare la prima Ducati bisogna aspettare la sesta posizione con Fabio Di Giannantonio su una moto del Team VR46, davanti alla seconda Ktm del sudafricano Brad Binder. In ottava posizione l'altra Ducati VR46 di Franco Morbidelli, che proprio all'ultimo giro ha superato Bagnaia. Chiude la top ten Luca Marini su una Honda. Ritirati tutti e due i fratelli Marquez, oltra a Marc nel finale è costretto a fermarsi anche Alex sulla Ducati del Team Gresini. Per Bezzecchi, primo leader stagionale del Mondiale, è la settima vittoria in MotoGp e la prima in Thailandia. Per il riminese è anche la terza vittoria di fila, se si considerano gli ultimi due successi della passata stagione. La classifica del Mondiale vede al comando Acosta su Ktm con 32 punti, davanti a Bezzecchi con 25 e a Fernandez con 23. Il campione in carica Marc Marquez è solo ottavo con 9 punti. Prossimo appuntamento con il Mondiale MotoGp nel weekend 20-22 marzo con il Gran Premio del Brasile. Bezzecchi è su di giri: "Sì, ieri ho commesso un piccolo errore che ha avuto una grossa conseguenza, oggi era importante reagire. Il mio passo con le medie era buono, abbiamo lavorato molto bene tutto il weekend e sapevo di essere veloce se andavo davanti. Ho provato a fare una bella partenza, poi la moto era perfetta. I ragazzi hanno fatto un lavoro fantastico, voglio ringraziare tutti quelli che sono anche a casa".
+
+
+## 6. Tram deraglia a Milano, il malore del conducente e il sistema di frenata: questi i nodi dell'indagine
+
+> **Context:** Acquisite le immagini delle telecamere, nessun ferito in pericolo di vita
+
+- **Corriere Della Sera**: Milano, il racconto del tramviere: «Un dolore alla gamba, poi il mancamento. Ho perso il controllo». Negativi i test per alcol e droghe Ieri il tram è stato rimosso. Ora è sotto sequestro. Negative le analisi del sangue per alcool e droga effettuate al conducente. Oggi potrebbe arrivare l'iscrizione nel registro degli indagati
+- **La Repubblica**: L’angoscia dell’autista: “Il buio all’improvviso, distrutto per le vittime” Il tranviere Pietro M., alla guida del tram deragliato: “Sono in servizio da trentacinque anni. Ho iniziato nel ‘91, questo è stato il mio primo incidente”
+- **La Repubblica**: Tram deragliato, acquisiti i video ora il conducente sarà indagato Milano, pronta l’iscrizione nel registro per omicidio e lesioni colpose. La procura vuole capire se sono entrati in funzione i sistemi di sicurezza. Agli atti dell’inchiesta diverse testimonianze
+- **La Stampa**: Tram deragliato, si studiano i filmati. Sotto inchiesta il sistema frenante Gli investigatori vogliono capire perché il blocco automatico non è scattato quando l’autista ha perso il controllo
+- **ANSA**: Tram deraglia a Milano, il malore del conducente e il sistema di frenata: questi i nodi dell'indagine Acquisite le immagini delle telecamere, nessun ferito in pericolo di vita
+- **Il Messaggero**: Tram deragliato a Milano, cosa non torna: il malore del conducente, il sistema di frenata e il video dell'incidente Il boato e la paura. Prima una “vibrazione” del pavimento, poi un rumore simile a “un’esplosione”. Il silenzio e subito dopo le urla sorde dei passeggeri intrappolati...
+- **Fanpage.it**: Tram deragliato a Milano, si indaga sul sistema di sicurezza: gli ultimi sviluppi delle indagini Sul caso del tram deragliato a Milano che ha causato la morte di 2 uomini e ha ferito 54 persone, la procura indaga per omicidio colposo e lesioni. Al centro delle indagini, i sistemi di sicurezza.Continua a leggere
+- **Il Post**: Come funzionano i sistemi di sicurezza sui tram 
+- **Il Giornale**: Ecco come funziona la sicurezza a bordo: sensori per fermare il tram in pochi attimi Il convoglio viaggiava a una velocità elevata in un tratto con diversi semafori
+- **Fanpage.it**: Cos’è e come funziona il sistema “uomo morto” su un tram: possibile malfunzionamento nell’incidente di Milano Nel caso in cui il conducente di un tram o un treno non spinga un determinato pulsante durante la marcia, si attiva un sistema di sicurezza chiamato "uomo morto". A cosa serve, come funziona e perché potrebbe essere stato malfunzionante sul tram 9 schiantatosi a Milano lo scorso 27 febbraio.Continua a leggere
+
+
+## 7. Stefano De Martino conduttore di Sanremo 2027, il golden boy Rai pronto a guidare il festival
+
+> **Context:** Il conduttore di 'Affari Tuoi' ha raccolto il testimone da Carlo Conti in diretta durante la finale di questa edizione
+
+- **Corriere Della Sera**: L'annuncio di Carlo Conti: «Stefano De Martino conduttore nel 2027». Lui si emoziona 
+- **La Repubblica**: L’investitura in diretta: il futuro del festival di Sanremo si chiama Stefano De Martino Per la prima volta il passaggio di consegne avviene in tv durante la finale. Il conduttore dei pacchi: “Ora testa bassa e lavorare”
+- **Adkronos**: Stefano De Martino conduttore di Sanremo 2027, il golden boy Rai pronto a guidare il festival Il conduttore di 'Affari Tuoi' ha raccolto il testimone da Carlo Conti in diretta durante la finale di questa edizione
+- **Adkronos**: Stefano De Martino conduttore Sanremo 2027: "Carlo, non spegnere il telefono: ne avrò bisogno" Il passaggio di testimone in diretta
+- **Fanpage.it**: Stefano De Martino conduttore e direttore artistico di Sanremo 2027, l’annuncio di Carlo Conti all’Ariston Nella serata finale del Festival di Sanremo 2026, sul palco dell'Ariston si consuma un vero e proprio passaggio di testimone: Stefano De Martino sarà il conduttore di Sanremo 2027, come annunciato da Carlo Conti che, così, saluta la kermesse dopo ben cinque conduzioni.Continua a leggere
+- **Il Giornale**: Sanremo 2027, il colpo di scena: Conti passa il testimone a Stefano De Martino La Rai rompe la tradizione e ufficializza già il dopo-Conti: sarà Stefano De Martino a guidare Sanremo 2027 Tra clausole contrattuali, endorsement e possibili co-conduzioni, prende forma il nuovo corso dell’Ariston
+- **Il Messaggero**: Stefano De Martino conduttore di Sanremo 2027. «Carlo, ricorderò per sempre la tua generosità». Fiorello: «Da domani cavoli tuoi» «Ho un grande onore, per la prima volta nella storia del Festival di Sanremo posso annunciare dal palco che sarai il conduttore e il direttore artistico della prossima edizione del...
+- **La Repubblica**: Stefano De Martino, vita e carriera del nuovo direttore artistico di Sanremo 2027 Nato a Torre del Greco, l’ascesa tra danza e tv: il successo con “Stasera tutto è possibile” e “Affari tuoi”, il teatro, gli amori con Emma e Belen e la sfida del Festival
+- **Fanpage.it**: Stefano De Martino a Sanremo 2027, Di Liberatore: “È meritocrazia, non c’entra la politica. Per la musica avrà Ferraguzzo” Stefano De Martino al timone di Sanremo 2027. Dopo l’ufficialità, parla a Fanpage.it il direttore dell’Intrattenimento Prime Time Rai, William Di Liberatore: “Scelta mia, non c’entra la politica. Per la musica avrà Ferraguzzo, Clerici non è prevista". E su Affari Tuoi: "Resta anche lì ma avrà uno studio più grande per dare più spazio allo show”.Continua a leggere
+- **Libero**: Sanremo, Rossi (Rai): con Stefano De Martino ridisegniamo il Festival 
+- **Libero**: Sanremo, Rossi (Rai): con Stefano De Martino investiamo sul futuro 
+- **Adkronos**: Sanremo, ad Rai: "Passaggio testimone a De Martino in diretta atto generosità di Conti" Rossi: "De Martino scelta politica? Polemiche morbose, deciso da azienda". Di Liberatore: "De Martino showman a 360°, su musica lo supporterà un team"
+- **ANSA**: Carlo V si congeda, a Sanremo inizia l'era De Martino Rossi: 'Carlo un asset dell'azienda. Con Stefano un progetto pluriennale'
+
+
+## 8. Un'italiana ad Abu Dhabi, 'pioggia di missili e boati nella notte'
+
+> **Context:** 'Colpito il porto, dicono vada tutto bene ma non sembra proprio'
+
+- **La Repubblica**: Il Golfo, raid sul lusso di Dubai. Kuwait, colpita la base con gli italiani L’Iran colpisce con missili e droni i paesi del Golfo Persico alleati degli americani. A fuoco l’hotel The Palm sull’isola artificiale. Tajani: nessun ferito tra i nostri militari. Nel mirino anche Qatar e Bahrein
+- **La Repubblica**: Da BigMama allo chef Iaccarino: “Sentiamo i missili sulla testa”. Isolati anche 190 studenti italiani I timori di chi vive negli Emirati e di centinaia di turisti. Voli cancellati e caos negli aeroporti di tutta l’area del Golfo
+- **ANSA**: Iran, gli italiani a Dubai: 'Boati e paura, una situazione surreale' Le testimonianze dei connazionali in vacanza o che vivono negli Emirati
+- **Il Messaggero**: Dubai, i turisti romani in trappola in vacanza: «Eravamo in spiaggia, poi i missili» «Domani farò scorte di acqua, il resto è di produzione locale». Scaraventati in un teatro di incertezza in pochi secondi. «Il governo di Dubai ci ha subito inviato...
+- **Corriere Della Sera**: Perché anche Dubai viene attaccata? La paura dei 200 studenti italiani. E c'è anche il ministro Crosetto Le monarchie del Golfo erano in allarme da tempo e avevano chiesto a Trump di evitare un attacco contro l'Iran per timore di una rappresaglia di Teheran, che è in corso. I boati sull'isola «The Palm»: «Siamo sotto choc, bloccati in hotel»
+- **ANSA**: Italiani a Dubai: 'Siamo in allerta ma non preoccupati' 'Una domenica normale sulla Palm. Attesa la riapertura dell'aeroporto'
+- **La Repubblica**: Missili su Dubai, l’imprenditore: “Le autorità ci ordinano di stare a casa e fare scorte” Vincenzo Stefanini vive a Dubai da un anno. Inizialmente non si era preoccupato, “ma adesso proviamo un po’ di apprensione”
+- **Il Messaggero**: ​Dubai, dalle camere extra lusso ai materassi per terra nei parcheggi: la notte di terrore dei turisti. «State lontano da mare e piscine» La vacanza da sogno diventata incubo in poche ore. I missili e i droni che esplodono sopre la teste, come in un film apocalittico. Uno scenario mai immaginato, nel quale si sono trovate...
+- **La Repubblica**: Dubai, lo chef Iaccarino: “La nostra notte nel garage sotterraneo, abbiamo dormito in un’auto” Insieme alla moglie si trova nell’emirato da ieri sotto attacco iraniano con droni e missili: “Adesso sembra che la situazione stia tornando alla normalità, ma poco fa, abbiamo sentito il boato assordante di un aereo, un caccia, nonostante non si vedesse il rumore era incredibile”
+- **Il Giornale**: "Situazione surreale a Dubai, ci sono code nei supermercati" Dubai non si sarebbe mai immaginata di finire nel mirino dell’Iran: "Pensavamo magari alle basi americane ad Abu Dhabi, ma qui no"
+- **La Stampa**: Gli italiani a Dubai: “Esplosioni e fumo. La guerra è arrivata all'improvviso, abbiamo paura” L’insegnate Francesca: «La prima ondata è durata un’ora, il cielo era puntellato da scie. Poi alle 17 la seconda e alle 20 la terza»
+- **Corriere Della Sera**: Dubai, lo chef Iaccarino: «La luce delle esplosioni era accecante, ci siamo rifugiati per la notte in un garage» 
+- **Fanpage.it**: Pioggia di missili su Dubai, il racconto di un’italiana bloccata: “Aeroporto danneggiato, non sappiamo che fare” Colpiti gli Emirati Arabi: nel mirino l'aeroporto di Dubai e la Vela. La testimonianza a Fanpage.it: "L'aeroporto è stato chiuso e non abbiamo modo di tornare in Italia".Continua a leggere
+- **ANSA**: Un'italiana ad Abu Dhabi, 'pioggia di missili e boati nella notte' 'Colpito il porto, dicono vada tutto bene ma non sembra proprio'
+
+
+## 9. morto Rino Marchesi: fu il primo tecnico italiano di Maradona e l’ultimo di Platini
+
+> **Context:** Allenò Inter, Juventus e Napoli: aveva 88 anni
+
+- **Corriere Della Sera**: Rino Marchesi è morto, fu il signore del calcio che allenò Maradona e Platini 
+- **La Repubblica**: morto Rino Marchesi: fu il primo tecnico italiano di Maradona e l’ultimo di Platini Allenò Inter, Juventus e Napoli: aveva 88 anni
+- **La Stampa**: Morto a 88 anni Rino Marchesi, allenò il Napoli di Maradona e la Juve dell’ultimo Platini È stato proprio il club azzurro a rendere nota la notizia della scomparsa del tecnico
+- **Adkronos**: Morto Rino Marchesi, ex tecnico di Napoli, Inter e Juventus: aveva 88 anni Il club azzurro: "Icona del calcio e professionista esemplare"
+- **Fanpage.it**: È morto Rino Marchesi, aveva 88 anni: da allenatore guidò il primo Napoli di Maradona ma anche Inter e Juve È morto Rino Marchesi, aveva 88 anni. L'ex allenatore anche di Inter e Juventus, nel corso della sua carriera in panchina aveva anche guidato il primo Napoli di Diego Armando Maradona.Continua a leggere
+- **ANSA**: E' morto Rino Marchesi, primo allenatore in Italia di Maradona Da giocatore aveva vinto quattro trofei con la maglia della Fiorentina
+
+
+## 10. I complimenti di Verdone a Sal Da Vinci: "Oggi Troppo Forte sei tu"
+
+> **Context:** Il cantante recitò nel film del 1986
+
+- **ANSA**: I complimenti di Verdone a Sal Da Vinci: "Oggi Troppo Forte sei tu" Il cantante recitò nel film del 1986
+- **Il Fatto Quotidiano**: “Oggi Troppo Forte sei tu”: i complimenti di Carlo Verdone a Sal Da Vinci e il ricordo sul set Il trionfo di Sal Da Vinci al Festival di Sanremo 2026 ha “sbloccato” un ricordo prezioso nella memoria del cinema italiano. A poche ore dalla proclamazione all’Ariston, Carlo Verdone ha voluto omaggiare il cantautore napoletano attraverso i propri canali social, riportando alla luce un aneddoto legato a una delle pellicole più amate della sua filmografia: […] L'articolo “Oggi Troppo Forte sei tu”: i complimenti di Carlo Verdone a Sal Da Vinci e il ricordo sul set proviene da Il Fatto Quotidiano.
+- **Adkronos**: Sanremo, Verdone a Sal Da Vinci: "Oggi 'Troppo Forte' sei tu" "I miei complimenti e un abbraccio sincero", scrive sui social il regista e attore romano
+- **La Repubblica**: Carlo Verdone portafortuna dopo Lucio Corsi anche per Sal Da Vinci: "Oggi Troppo Forte sei tu" Il regista lo aveva diretto nel 1985 nel suo film Troppo forte
+- **Fanpage.it**: Carlo Verdone celebra Sal Da Vinci: “Nel 1985 eri un ragazzetto, oggi Troppo Forte sei tu” Nel suo profilo, Verdone ha ricordato l’esperienza condivisa sul set di Troppo Forte, film degli anni Ottanta diventato un piccolo classico della sua filmografia: "Si presentò un ragazzetto col papà, già con un atteggiamento da professionista".Continua a leggere
+- **Libero**: Sal Da Vinci: Verdone? Non l'ho ancora sentito ma ho sentito Renato Zero 
+
+
+## 11. La Farnesina: task force per gli italiani nell’area del Golfo
+
+> **Context:** Il ministro Tajani punta a rafforzare il lavoro dell’unità di crisi e a sostenere l’impegno delle ambasciate e dei consolati nella regione
+
+- **Il Sole Ventiquattro Ore**: La Farnesina: task force per gli italiani nell’area del Golfo Il ministro Tajani punta a rafforzare il lavoro dell’unità di crisi e a sostenere l’impegno delle ambasciate e dei consolati nella regione
+- **Il Giornale**: Iran, la Farnesina crea una "Task Force Golfo" per gli italiani La nota del ministero degli Esteri: "Per ora no alla riapertura degli aeroporti". Tajani: “Né militari né civili coinvolti”
+- **Adkronos**: Iran, Tajani: "Oman chiude frontiera, italiani restino a Dubai" Il ministro degli esteri in un punto stampa: "Informati da Israele ad attacco in corso. No gravi pericoli incolumità per italiani nell'area, preoccupano numeri"
+- **La Stampa**: Tajani: “Preoccupa il numero di italiani nel Golfo”. Crosetto: “Sto rientrando con volo militare” Il ministro degli Esteri: «La situazione rimane veramente complicata. Ma non ci sono pericoli per l’incolumità dei nostri connazionali, sono seguiti»
+- **Libero**: Iran, Tajani: attivata Task force Golfo per assistere italiani 
+- **La Repubblica**: Gli italiani bloccati nei Paesi del Golfo, Tajani: “Sono migliaia”. Domani riferirà in Parlamento Il ministro tenta di rassicurare ma ammette “il problema sono i numeri”. Fra i tantissimi connazionali residenti o di passaggio serpeggia la paura. Bloccata nell’Emirato anche la Volley Cuneo. “Tenete i nervi saldi”
+
+
+## 12. Pavlovic al 90' e poi Leao, il Milan batte 2-0 la Cremonese e blinda il secondo posto
+
+> **Context:** La squadra di Allegri passa allo Zini con due reti nei minuti finali
+
+- **Fanpage.it**: Il Milan torna a vincere, ma che fatica: 2-0 sul campo della Cremonese con Pavlovic e Leao a segno nel recupero Il Milan ritrova i tre punti sul campo della Cremonese, ma solo nel finale: Pavlovic al 90' e Leao al 94' firmano lo 0-2. In classifica resta il -10 dall’Inter a una settimana dal derby.Continua a leggere
+- **Corriere Della Sera**: Milan col brivido, spreca di tutto poi Pavlovic e Leao stendono la Cremonese| Sassuolo-Atalanta live 0-0 La squadra di Allegri ha una serie di incredibili palle gol nel primo e nel secondo tempo, ma i suoi attaccanti sbagliano. Poi la rete del difensore e del fantasista nei minuti finali
+- **La Repubblica**: Pavlovic al 90' e poi Leao, il Milan batte 2-0 la Cremonese e blinda il secondo posto La squadra di Allegri passa allo Zini con due reti nei minuti finali
+- **Il Giornale**: Il Milan si sveglia all’89’ e batte 2-0 la Cremonese con il gol di Pavlovic e Leao Partita complicatissima per l’undici di Allegri allo Zini, con i rossoneri che faticano a trovare spazi nella difesa grigiorossa. A decidere la gara le reti negli ultimi minuti del serbo e del portoghese
+- **Corriere Della Sera**: Pagelle Cremonese Milan: Pavlovic guerriero (7) Rabiot col freno (6) Pulisic disarmato (5). Leao, che errori prima del gol Gli erroracci di Leao, il freddo Nkunku, Bartesaghi è astuto, Fullkrug mette il testone: voti e giudizi dei protagonisti
+- **Libero**: Milan, colpo Champions: 2-0 alla Cremonese nel recupero, ora il derby scudetto Il Milan vince 2-0 nel finale sul campo della Cremonese, arriva a -10 al derby contro la capolista Inter ma più che allo scudetto mister Max Allegri penserà alla qualificazione Champions, con il secondo posto in classifica rafforzato e la speranza di poter allungare sulle quinte, grazie al confronto di stasera tra Juventus e Roma. Il Diavolo dunque rialza la testa dopo il ko con il Parma, ma che fatica allo Zini. Il match dell'ora di pranzo del 27esimo turno di Serie A infatti viene deciso dai gol di Pavlovic e Rafa Leao, ma solo nel recupero. La prima occasione da rete arriva al 7' e se la ritagliano i padroni di casa con un traversone insidioso di Vandeputte, su cui Vardy non riesce ad impattare bene. Tre minuti più tardi Rabiot imbuca per Leao che va al tiro, ma trova il provvidenziale intervento di Folino. Al 21' sono ancora i rossoneri a farsi vedere nella metà campo avversaria con un mancino di Saelemaekers, che però termina sul fondo. Dopo un momento di difficoltà, i ragazzi di Davide Nicola reagiscono e, nell'arco di un minuto, sfiorano due volte il vantaggio prima con Bonazzoli e poi con Vardy. Al 34' Leao, imbeccato ottimamente da Fofana, si divora il gol a tu per tu con Audero spedendo a lato. Nel finale di primo tempo il Milan cerca insistentemente il vantaggio, ma un fantastico Audero alza il muro negando la rete a Pulisic, Rabiot e Fofana. Si va, dunque, a riposo sul parziale di 0-0. In apertura di ripresa la Cremonese si rende subito pericolosa con un destro di Vardy, che viene deviato in corner da Tomori. I rossoneri non approcciano nel migliore dei modi dopo l'intervallo e rischiano nuovamente di andare sotto in due frangenti: Luperto e Bonazzoli creano affanno nella retroguardia avversaria, che però riesce a salvarsi. Al 60' si riaccende l'asse Rabiot-Leao, ma il portoghese fallisce un'altra chance davanti ad Audero. Il più attivo nel Milan resta proprio l'ex Lille, che al 68' serve un buon cross per Fullkrug, il quale viene anticipato dal portiere grigiorosso. All'80' sono i padroni di casa che sfiorano il colpaccio con un'incornata di Luperto, respinta con una mano da Maignan. Alla lunga gli sforzi degli ospiti pagano, perché al 90' riescono a sfondare il muro dei rivali: sugli sviluppi di un corner Strahinja Pavlovic insacca in rete dopo una spizzata di De Winter. Nel recupero c'è spazio anche per il gol in contropiede di Rafael Leao che, su suggerimento di Nkunku, fissa il punteggio sul definitivo 2-0. In virtù di questo successo il Milan sale a 57 punti in classifica, mentre la Cremonese resta ferma a quota 24. Nel prossimo impegno i meneghini saranno protagonisti del derby contro l'Inter di domenica 8 marzo; per i grigiorossi, invece, è prevista la trasferta del Via del Mare contro il Lecce, quasi uno spareggio-salvezza
+- **La Stampa**: Milan da brividi, stende la Cremonese e blinda il secondo posto La squadra di Massimiliano Allegri vince 2-0: decidono Pavlovic e Leao
+
+
+## 13. Goggia, gara da sogno: vince il secondo Superg di Soldeu davanti a Emma Aicher
+
+- **Corriere Della Sera**: Goggia, gara da sogno: vince il secondo Superg di Soldeu davanti a Emma Aicher 
+- **La Stampa**: Goggia, la domenica perfetta: superG e primo posto nella classifica di specialità Sci: Sofia vince a Soldeu davanti a Aicher e Lie. Brignone ottava: “Ho pagato i salti. La prossima settimana in Val di Fassa? Vedremo”. La velocità donne torna in Italia
+- **ANSA**: Sofia Goggia vince il superG di Soldeu Sul podio Emma Aicher e Lie Kajsa Vickhoff. Pirovano 5/a, Brignone 8/a
+- **Adkronos**: Goggia vince il SuperG di Soldeu La campionessa bergamasca ha chiuso con il tempo di 1'25"95 davanti alla tedesca Emma Aicher
+- **Fanpage.it**: Sofia Goggia strepitosa a Soldeu! L’azzurra vince il SuperG e avvicina la coppa di specialità Sofia Goggia domina il SuperG bis di Soldeu in 1:25.95: battute Emma Aicher e Kajsa Vickhoff Lie. L'azzurra allunga su Alice Robinson e rafforza il pettorale rosso verso la coppa.Continua a leggere
+- **Il Giornale**: SuperG, capolavoro Goggia: prima a Soldeu, Pirovano quinta. Brignone soltanto ottava Si chiude come meglio non poteva il week-end della bergamasca che vince la prova di SuperG ad Andorra: ecco com’è andata
+- **ANSA**: Valanga azzurra oltre i Giochi: la domenica bestiale di Goggia, Cobolli e Bezzecchi La bergamasca vince il superG, Flavio nuovo n.15 mondiale. Aprilia super in MotoGp
+
+
+## 14. Sanremo, 68,8% di share e 11 milioni di telespettatori per la finale. Persi 2 milioni rispetto al 2025
+
+> **Context:** Nonostante un netto calo rispetto agli anni precedenti, Sanremo chiude con un trend positivo in termini di share
+
+- **ANSA**: ++ Sanremo, 11 milioni e il 68.8% per la serata finale ++ In termini di total audience
+- **Adkronos**: Sanremo, 11.022.000 spettatori con il 68,8% di share per la finale Carlo Conti supera, in termini di share, la finale 2023, quella del 2022 e quella del 2021
+- **Il Fatto Quotidiano**: Ottimi ascolti per la finale di Sanremo 2026: 11.022.000 spettatori e il 68,8% di share (ecco com’era andata lo scorso anno) L’ultima serata del Festival di Sanremo 2026 ottiene ancora ottimi ascolti, pur confermando il trend in calo rispetto allo scorso anno. In media la finalissima ha fatto registrare 11.022.000 spettatori e il 68,8% di share secondo i dati della Total audience. Nel dettaglio, la prima parte, dalle 21.45 alle 23.34, è stata vista da 13.299.000 […] L'articolo Ottimi ascolti per la finale di Sanremo 2026: 11.022.000 spettatori e il 68,8% di share (ecco com’era andata lo scorso anno) proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Ascolti tv serata finale Sanremo 2026 con Carlo Conti e Laura Pausini, dati auditel in calo rispetto al 2025 Gli ascolti tv della finale del Festival di Sanremo 2026: tutti i dati Auditel, spettatori e share, di sabato 28 febbraio 2026.Continua a leggere
+- **La Stampa**: Sanremo, 68,8% di share e 11 milioni di telespettatori per la finale. Persi 2 milioni rispetto al 2025 Nonostante un netto calo rispetto agli anni precedenti, Sanremo chiude con un trend positivo in termini di share
+- **Adkronos**: Sanremo Human Index, festival da record: 1,2 miliardi di interazioni social, +20% rispetto al 2025 L'analisi di Human Data in esclusiva per Adnkronos sulla serata finale della kermesse
+- **Il Giornale**: Sanremo, gli ascolti dell'ultima sera: 68,8%. Peggio dell'anno scorso ma meglio della serata delle cover 11 milioni 22 mila telespettatori davanti alla tv, dati in calo rispetto al 2025 ma in crescita rispetto alla serata delle cover
+
+
+## 15. Roma-Juventus: orario, probabili formazioni e dove vederla in tv
+
+> **Context:** I giallorossi ospitano i bianconeri all'Olimpico nella 27esima giornata di Serie A
+
+- **La Stampa**: Roma-Juve, la Champions a tutti i costi All’Olimpico va in scena una sfida chiave per il 4° posto che vale almeno 60 milioni. Per i bianconeri comincia un mini-campionato da vincere per non dover ridiscutere tutto il progetto
+- **Fanpage.it**: Roma-Juventus, dove vederla oggi in TV e streaming su Sky e DAZN: orario e formazioni La Juventus affronta la Roma all'Olimpico nello scontro diretto per la zona Champions della Serie A: le probabili formazioni e dove seguire la partita.Continua a leggere
+- **Il Giornale**: Gasp-Spalletti, sfida fra ex con 3 punti che valgono oro C’è molto in palio: il giallorosso vuole continuità e la prima vittoria con una big, il bianconero la Champions e il rinnovo
+- **Adkronos**: Torino-Lazio: orario, probabili formazioni e dove vederla in tv I granata ospitano i biancocelesti nella 27esima giornata di Serie A
+- **Adkronos**: Roma-Juventus: orario, probabili formazioni e dove vederla in tv I giallorossi ospitano i bianconeri all'Olimpico nella 27esima giornata di Serie A
+- **Adkronos**: Serie A, oggi Torino-Lazio - Diretta I granata ospitano i biancocelesti nella 27esima giornata di campionato
+- **Il Messaggero**: Roma-Juve: probabili formazioni, orario, dove vederla (tv e streaming) e classifica Serie A. Dybala convocato Questa sera Roma e Juventus si giocano un pezzo di Champions. All'Olimpico va in scena uno dei big match più affascinanti della Serie A che, oltre a mettere in palio...
+- **ANSA**: Serie A, in campo Torino-Lazio LIVE Match valido per la 27ma giornata di campionato
+- **Fanpage.it**: Roma-Juventus LIVE, risultato in diretta della partita di Serie A La diretta live di Roma-Juventus di Serie A: la cronaca minuto per minuto e il risultato in tempo reale della partita.Continua a leggere
+
+
+## 16. BigMama bloccata a Dubai: "Sentiamo i missili sulla testa, un incubo"
+
+> **Context:** "Io sono terrorizzata, vogliamo solo tornare a casa"
+
+- **Corriere Della Sera**: L'angoscia delle famiglie dei 204 studenti italiani a Dubai: «Preoccupati» BigMama: qui è un incubo 
+- **Corriere Della Sera**: BigMama terrorizzata: «Missili sopra di noi, fateci tornare a casa» 
+- **ANSA**: BigMama bloccata a Dubai: "Sentiamo i missili sulla testa, un incubo" "Io sono terrorizzata, vogliamo solo tornare a casa"
+- **Il Fatto Quotidiano**: Attacco all’Iran, Big Mama bloccata a Dubai: “Continuiamo a sentire i missili sulla testa, io sono terrorizzata” “Ciao ragazzi, stasera vi chiedo di darci una mano, perché stiamo vivendo un vero incubo. Siamo tantissimi italiani in questa situazione, in questo momento, quindi vi prego di condividere, di ascoltare, di cercare di muovere tutte le forze possibili”. È il drammatico appello lanciato sui social da Big Mama bloccata a Dubai durante il rientro […] L'articolo Attacco all’Iran, Big Mama bloccata a Dubai: “Continuiamo a sentire i missili sulla testa, io sono terrorizzata” proviene da Il Fatto Quotidiano.
+- **Il Giornale**: BigMama bloccata a Dubai: "Sentiamo i missili sulla testa, un incubo" Il drammatico appello lanciato sui social da Big Mama bloccata a Dubai durante il rientro da un viaggio internazionale
+- **Libero**: BigMama bloccata a Dubai "Stiamo vivendo un incubo" 
+- **Il Giornale**: Dubai, 204 studenti italiani bloccati I ragazzi non possono tornare in Italia perché gli spazi aerei sono chiusi. Ore di profonda apprensione per le famiglie
+- **Fanpage.it**: Bloccati a Dubai 200 studenti italiani, Farnesina: “Sono al sicuro in hotel”. Le famiglie: “Siamo preoccupati” Un gruppo di circa 200 studenti e studentesse è bloccato a Dubai a causa della chiusura dello spazio aereo: la Farnesina afferma che sono al sicuro, ma le famiglie si dicono preoccupate.Continua a leggere
+- **ANSA**: Italiani bloccati a Dubai, tra loro 200 studenti. La Farnesina crea la 'Task Force Golfo' Un giovane torinese negli Emirati: 'Preoccupati per il nostro rientro in Italia'
+- **Fanpage.it**: BigMama ancora bloccata a Dubai, gli aggiornamenti: “Non abbiamo chiuso occhio, voglio tornare a casa” BigMama, attraverso i suoi canali social, continua a documentare le ore di angoscia per gli italiani a Dubai dopo gli attacchi Iran, segnate da esplosioni e da un'incertezza che sembra non avere fine. Gli aggiornamenti: "Si continuano a sentire rumori dal cielo".Continua a leggere
+
+
+## 17. Sanremo, i top e i flop della serata finale
+
+> **Context:** Tanti messaggi di pace, Bocelli a cavallo e il signal for help
+
+- **Corriere Della Sera**: Bocelli a cavallo, Elettra Lamborghini che saluta: i momenti clou della finale di Sanremo 
+- **La Stampa**: Sanremo, la fine della festa: così l’Italia ha perso la voglia di divertirsi Il primo Festival a fallire la sua missione di distrazione di massa, sintomo delle nostre vite senza vere emozioni e riti collettivi
+- **ANSA**: Sanremo 2026, la serata finale: i top e i flop Tanti messaggi di pace, le mamme protagoniste, Bocelli a cavallo
+- **Adkronos**: Sanremo, le pagelle ai look della finale: Arisa pigliatutto, Chiello goth e Dargen scalzo I voti agli outfit degli artisti in gara nell'ultima serata
+- **Il Giornale**: Sanremo, i look della serata finale Le donne hanno brillato sul palco dell’Ariston nella serata finale mentre gli uomini si sono un po’ lasciati andare: il più elegante, come sempre, è Carlo Conti
+- **Corriere Della Sera**: Sanremo non è stato un flop, ma ci sono dei segnali preoccupanti: ecco quali Il Festival funziona quando riesce ad attrarre pubblico che non guarda o guarda poco la Tv
+- **Corriere Della Sera**: La vittoria di Sal Da Vinci come lo scudetto del Napoli, Dargen a piedi nudi sul palco: i meme della serata finale di Sanremo 
+- **La Repubblica**: I look della serata finale di Sanremo: promossi e bocciati L’ultima serata del Festival della Canzone italiana all’insegna degli outfit più sfavillanti. Ecco chi centra il bersaglio e chi no
+- **ANSA**: La conferenza stampa di Sanremo Il bilancio della 76esima edizione del Festival
+- **ANSA**: Sanremo, i top e i flop della serata finale Tanti messaggi di pace, Bocelli a cavallo e il signal for help
+- **ANSA**: La conferenza stampa di Sanremo Il bilancio della 76esima edizione del Festival
+
+
+## 18. Anziana morta colpita da auto in fuga da Carabinieri, arrestato 20enne
+
+> **Context:** I Carabinieri di Modena hanno arrestato un 20enne che si trovava alla guida - senza patente perché mai conseguita - di un'Alfa 159
+
+- **Corriere Della Sera**: Fuggono dai carabinieri e si scontrano con un'altra auto: uccisa una donna. Arrestato 20enne: «Patente mai presa» Nell'auto in fuga erano presenti quattro uomini: tre sono stati fermati e uno è scappato. L'anziana di 89 anni è morta dopo il trasporto in ospedale, la figlia è stata soccorsa in pronto soccorso e dimessa
+- **ANSA**: Anziana morta colpita da auto in fuga da Carabinieri, arrestato un 20enne Senza patente su veicolo non assicurato. Due occupanti minori affidati ai genitori
+- **Il Giornale**: Anziana morta colpita da auto in fuga da Carabinieri, arrestato 20enne I Carabinieri di Modena hanno arrestato un 20enne che si trovava alla guida - senza patente perché mai conseguita - di un'Alfa 159
+- **Il Messaggero**: Auto in fuga dai Carabinieri si schianta contro un'altra vettura, morta una donna a Modena. «Il conducente era senza patente» I Carabinieri di Modena hanno arrestato un 20enne che si trovava alla guida - senza patente perché mai conseguita - dell'Alfa 159, risultata non assicurata, a bordo della quale si...
+- **Fanpage.it**: Auto fugge dai carabinieri e si schianta con un’altra vettura, morta una donna a Modena: “Criminali” Incidente oggi a Modena: una donna di 89 anni è morta dopo che l'auto su cui viaggiava con la figlia si è scontrata con un'altra vettura che fuggiva all'alt dei carabinieri. Indagini in corso.
+
+
+## 19. Iran, oltre un'ora di vertice a Palazzo Chigi. Meloni sente Merz, Starmer e i leader del Golfo
+
+> **Context:** Call a Palazzo Chigi con Tajani, Salvini e i vertici dell’Intelligence. Invito alla prudenza per i connazionali e contatti con gli alleati per favorire la de-escalation. Salvini: “Avvertiti ad attacco iniziato”
+
+- **Il Giornale**: Iran, oltre un'ora di vertice a Palazzo Chigi. Meloni sente Merz, Starmer e i leader del Golfo Call a Palazzo Chigi con Tajani, Salvini e i vertici dell’Intelligence. Invito alla prudenza per i connazionali e contatti con gli alleati per favorire la de-escalation. Salvini: “Avvertiti ad attacco iniziato”
+- **Libero**: Iran, Meloni ai leader del Golfo: "Condanna degli ingiustificabili attacchi subiti" Il Presidente del Consiglio, Giorgia Meloni, continua a seguire da vicino gli sviluppi in Medio Oriente e ha presieduto questa sera a Palazzo Chigi una nuova riunione, cui hanno preso parte il Vicepresidente e Ministro degli Esteri Antonio Tajani e il Sottosegretario Alfredo Mantovano; in collegamento telefonico il Vicepresidente Matteo Salvini, il Ministro della Difesa Guido Crosetto, il Sottosegretario Giovanbattista Fazzolari. Presenti i vertici dell’Intelligence. La riunione ha consentito un’aggiornata valutazione della situazione di sicurezza per i connazionali presenti nella regione che è oggetto, fin da questa mattina, di un costante monitoraggio ed assistenza da parte dell’Unità di Crisi e su cui ha riferito il Ministro degli Esteri, Antonio Tajani. Il Presidente del Consiglio ha inoltre condiviso le valutazioni raccolte nel pomeriggio nei numerosi contatti telefonici avuti con alcuni partner europei, a partire dal Cancelliere Merz e dal Primo Ministro Starmer oltre che con il Re del Bahrein, l’Emiro del Kuwait, il Presidente degli Emirati Arabi Uniti, l’Emiro del Qatar e il Principe Ereditario e Primo Ministro dell’Arabia Saudita. Sono in corso ulteriori contatti con il Sultano dell’Oman e il Re di Giordania. In serata e domani si terranno ulteriori contatti con i nostri partner nelle riunioni previste a livello dei Ministri degli Esteri in ambito sia G7 che di Unione Europea. Ai leader del Golfo il Presidente Meloni ha espresso la vicinanza del Governo italiano e la condanna degli ingiustificabili attacchi subiti dalle loro Nazioni. Il Governo, come già in passato, continuerà a impegnarsi con i partner europei, regionali e internazionali per una soluzione a favore della stabilità della Regione e al contempo ha rinnovato la sua vicinanza alla popolazione civile iraniana che, con coraggio, nelle scorse settimane ha richiesto il rispetto dei suoi diritti civili e politici, subendo una repressione violenta e ingiustificabile.
+- **Governo Italiano - Comunicati Stampa**: Medio Oriente, il Presidente Meloni presiede una nuova riunione a Palazzo Chigi Il Presidente Meloni continua a seguire da vicino gli sviluppi in Medio Oriente e ha presieduto questa sera a Palazzo Chigi una nuova riunione, cui hanno preso parte il Vice Presidente e Ministro degli Esteri Tajani e il Sottosegretario Mantovano; in collegamento telefonico il Vice Presidente Salvini, il Ministro della Difesa Crosetto, il Sottosegretario Fazzolari. Presenti i vertici dell’Intelligence.
+- **Fanpage.it**: Crisi in Iran, di cosa ha discusso il governo al vertice d’urgenza convocato da Meloni a Palazzo Chigi Dopo gli attacchi in Iran da parte di Stati Uniti e Israele, convocato un vertice d'urgenza a Palazzo Chigi con la presidente del Consiglio Meloni. La premier ha sentito i leader del Golfo e ha espresso "la vicinanza del Governo italiano e la condanna degli ingiustificabili attacchi subiti dalle loro Nazioni".
+- **Il Giornale**: Meloni riunisce i ministri. La rete con i nostri alleati Riunioni a Palazzo Chigi coi vertici dell'intelligence. Allo studio i vari scenari. Obiettivo: la de-escalation
+- **ANSA**: Medio Oriente in fiamme, Meloni aggiorna Mattarella sugli sviluppi 'In coordinamento con Tajani sugli italiani'. Domani il ministro riferisce in commissione al Senato
+
+
+## 20. Fulminacci vince il Premio della Critica "Mia Martini". A Serena Brancale il Premio sala stampa "Lucio Dalla" radio e tv
+
+> **Context:** Va a Fulminacci con la sua "Stupida Sfortuna" il Premio della Critica "Mia Martini" del Festival di Sanremo 2026. Secondo Ermal Meta con "Stella, stellina", chiude il...
+
+- **ANSA**: A Fulminacci il Premio della Critica Mia Martini Con il brano 'Stupida sfortuna'
+- **Fanpage.it**: I vincitori dei premi della critica Mia Martini e della Sala Stampa Lucio Dalla di Sanremo 2026 Fulminacci vince il Premio Mia Martini con “Stupida Sfortuna” (26 voti su 102), superando Ermal Meta e Levante. Premiati anche MEI e Assomusica. Il Premio della sala stampa Lucio Dalla va a Serena Brancale con "Qui con me".Continua a leggere
+- **Il Messaggero**: Fulminacci vince il Premio della Critica "Mia Martini". A Serena Brancale il Premio sala stampa "Lucio Dalla" radio e tv Va a Fulminacci con la sua "Stupida Sfortuna" il Premio della Critica "Mia Martini" del Festival di Sanremo 2026. Secondo Ermal Meta con "Stella, stellina", chiude il...
+- **Il Fatto Quotidiano**: Sanremo 2026, a Fulminacci il premio della critica. Fedez e Masini miglior testo, Serena Brancale vince quello della Sala Stampa: ecco tutti i premi assegnati La serata finale del Festival di Sanremo 2026 non si è limitata a incoronare Sal D a Vinci vincitore assoluto della kermesse. Come da tradizione, il palco dell’Ariston ha fatto da cornice all’assegnazione dei premi collaterali, veri e propri riconoscimenti di eccellenza conferiti dalla critica, dai giornalisti e dagli addetti ai lavori che certificano la […] L'articolo Sanremo 2026, a Fulminacci il premio della critica. Fedez e Masini miglior testo, Serena Brancale vince quello della Sala Stampa: ecco tutti i premi assegnati proviene da Il Fatto Quotidiano.
+- **Libero**: Fulminacci: Deluso? Premio Mia Martini quello che desideravo, lo dedico a mia mamma 
+- **Libero**: Sanremo, Fulminacci "Vincere il premio della critica era un sogno che avevo" 
+
+
+
+</clustered_headlines>
+
+
+<other_headlines>
+<article source="ANSA" date="Sun, 1 Mar 2026 19:42:33 +0100">
+In Iran è giallo su Ahmadinejad, Trump: 'Affondate nove navi iraniane. Parlerò con i nuovi leader'
+Continua l'offensiva di Usa-Israele sull'Iran, che annuncia vendetta. Pechino e Mosca condannano l'attacco. Esplosioni a Dubai e Tel Aviv, morti e feriti
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 19:41:49 +0100">
+Sanremo 2026: Sal da Vinci, al Festival il trionfatore 'che viene dal basso'
+Il vincitore di Sanremo 2026: 'E' la vittoria di un popolo'
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 19:36:14 +0100">
+++ Portaerei francese Charles de Gaulle si dirige verso il Mediterraneo ++
+BFM TV, interrotto dispiegamento programmato nel mar Baltico
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 19:06:51 +0100">
+Di Matteo: "Concordo con Gratteri, massoni e mafiosi voteranno Sì al referendum"
+"Si delegittima la magistratura agli occhi del popolo. E la mafia ne ha bisogno"
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 18:25:28 +0100">
+Sanremo, Sayf: 'Ho perso ai rigori ma mi sento come il Leicester'
+La mamma Samia: 'Con me sente musica e balla dal pancione'
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 16:21:46 +0100">
+Referendum: lunedì 2 marzo il Forum ANSA con il Comitato 'Giusto dire No'
+L'evento trasmesso in diretta streaming sul sito dell'Agenzia
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 14:00:55 +0100">
+Fulco Pratesi, in mostra alla Camera il suo sguardo sulla natura
+Dipinti e taccuini del fondatore di Wwf Italia, tra gechi e cervi sardi
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 13:54:00 +0100">
+Ditonellapiaga: 'Contenta che un'artista donna con un nome come il mio sia sul podio'
+'La mia è una proposta originale e strampalata. Felice anche per riconoscimento a Bubbico'
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 10:56:07 +0100">
+Fulminacci da piccolo che canta i Queen con la parrucca color platino
+Il messaggio sui social: "Quel bambino lo porto sempre con me. Fatelo sognare"
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 06:16:24 +0100">
+Così l’invecchiamento rimodella le cellule
+La scoperta nei topi. I segnali possibile bersaglio per future terapie
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 14:15:40 +0100">
+Sanremo, Sal Da Vinci: "Condivido la vittoria con Geolier che come me viene dal popolo"
+"Questa e' la realizzazione di chi ha sempre perseverato senza mollare mai"
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 18:19:49 +0100">
+Gli italiani bloccati, la Farnesina crea la 'Task Force Golfo'
+'Una domenica normale sulla Palm. Attesa la riapertura dell'aeroporto'
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 16:31:23 +0100">
+Sofia Goggia trionfa sui Pirenei: "Gran gara all'attacco"
+L'azzurra si impone nel superG, ora vuole questa Coppa
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 15:19:13 +0100">
+Violenza sui bus: un 16enne finisce in comunità nel Ravennate, un 14enne ferito a Genova
+I casi a poche ore di distanza
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 15:00:50 +0100">
+Un inedito di Mina per Giorgio Armani
+Chiude la prima sfilata donna disegnata da Silvana Armani
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 15:15:10 +0100">
+Sanremo, Carlo Conti: 'È stata un'esperienza molto entusiasmante e sono felice anche dei risultati'
+"Idea mia il passaggio di testimone in diretta, segno di coesione aziendale"
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 16:08:56 +0100">
+Serie A, in campo Sassuolo-Atalanta 1-0
+Match valido per la 27ma giornata di campionato
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 10:27:03 +0100">
+Dolce e Gabbana celebrano la loro 'identity' con Madonna
+Rumors su riprese per biopic della popstar durante lo show dedicato al Dna del marchio
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 14:19:14 +0100">
+Teheran conferma la morte di Khamenei. I pasdaran minacciano offensiva feroce. Trump: 'Meglio che non lo facciano'. Nuovi attacchi in Iran
+Il tycoon: 'Ci sono alcuni buoni candidati per guidare l'Iran. Raid fino alla pace nella regione'. Chiuso lo stretto di Hormuz. Esplosioni a Dubai e Tel Aviv, morti e feriti. Almeno 8 morti in tentato assalto a consolato Usa a Karachi
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 13:37:04 +0100">
+Tajani riferirà sull'Iran domani in commissione al Senato
+Il ministro degli Esteri: 'Non sapevo di Crosetto a Dubai, ad Abu Dhabi è stata colpito un grattacielo vicino alla nostra sede diplomatica'
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 11:33:06 +0100">
+L'Idf diffonde video della distruzione del quartier generale di Khamenei a Teheran
+Il momento dell'esplosione che ha fatto saltare i due compound del complesso
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 11:50:47 +0100">
+Sal Da Vinci esalta l'Ariston, va in platea e balla con Mara Venier
+Si conferma uno dei beniamini di questa edizione
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 11:13:54 +0100">
+MotoGp: Marco Bezzecchi vince il Gp di Thailandia, l'Aprilia è super
+Precede Acosta e Fernandez. Marc Marquez fora e va fuori
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 10:53:00 +0100">
+Sal Da Vinci trionfa a Sanremo 2026, a Stefano De Martino le chiavi del 2027
+Nella serata finale gli appelli per la pace e le parole di Gino Cecchettin contro i femminicidi
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 00:32:56 +0100">
+Sayf e Samurai Jay con le mamme sul palco di Sanremo
+Emozioni e sorrisi
+</article>
+<article source="ANSA" date="Sat, 28 Feb 2026 22:23:56 +0100">
+Sirene d'allarme continue a Tel Aviv per i missili in arrivo dall'Iran
+</article>
+<article source="ANSA" date="Sun, 1 Mar 2026 03:12:50 +0100">
+Sanremo, Sal Da Vinci: 'Dedico la vittoria alla mia famiglia e a Napoli'
+Con il brano 'Per sempre sì'
+</article>
+<article source="ANSA" date="Sat, 28 Feb 2026 19:54:56 +0100">
+Barriere architettoniche, a 40 anni dalla legge solo un Comune su 3 ha adottato il piano
+Tra grandi città diligenti Milano e Firenze. A Roma 4 municipi non si sono adeguati
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 19:11:06 +0100">
+Daniele Scardina, come sta l'ex pugile: "Sogno di tornare a camminare"
+L'ex pugile è stato ospite oggi nel salotto di Silvia Toffanin a Verissimo
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 18:54:15 +0100">
+Tredici Pietro, il retroscena con papà Gianni: "Non voleva duettare con me"
+Il cantante ha partecipato al Festival di Sanremo 2026 con il brano 'Uomo che cade'
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 18:01:08 +0100">
+Sal Da Vinci canta a Domenica In, raggiunge la platea e... cade
+Il vincitore del festival di Sanremo 2026
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 17:28:00 +0100">
+Serie A, Torino-Lazio 2-0 - Diretta
+I granata ospitano i biancocelesti nella 27esima giornata di campionato
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 17:06:55 +0100">
+Mara Venier commossa a Domenica In, Barbara Foria: "Sdrammatizziamo un po'..."
+La cantante ha partecipato con un brano dedicato alla mamma scomparsa
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 16:22:42 +0100">
+Domenica In, Iva Zanicchi consola Leo Gassmann: "Porta bene arrivare quasi ultimo"
+Il cantante era in gara al Festival di Sanremo 2026 con il brano 'Naturale'
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 16:02:12 +0100">
+Dubai, questore Roma bloccato: in viaggio per motivi personali
+Massucci continua comunque a rimanere in contatto con la questura
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 15:53:12 +0100">
+Elettra Lamborghini caos a Domenica In, entra con le pizzette in mano: "Così fate i buoni"
+La cantante era in gara al Festival con il brano 'Voilà'
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 15:34:38 +0100">
+Sanremo, vince 'Per sempre sì' ma la Crusca boccia il testo: "Troppi luoghi comuni"
+Nonostante il successo al Festival, la ballata di Sal Da Vinci incassa un severo 4 dal linguista Lorenzo Coveri: "Sincera, ma prigioniera dei soliti cliché della canzonetta d'amore"
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 15:11:15 +0100">
+Fulminacci svela il playback a Domenica In e canta con una... banana
+Il cantante era in gara al Festival di Sanremo 2026 con il brano 'Stupida sfortuna'
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 14:44:00 +0100">
+Futuro Nazionale, online sito Vannacci: al via tesseramento, programma dal basso con i comitati
+"Sarà elaborato attraverso un percorso partecipato e strutturato, insieme ai Comitati Costituenti già costituiti, a quelli in via di riconoscimento e a quelli che nasceranno nelle prossime settimane su tutto il territorio nazionale"
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 14:15:56 +0100">
+Music Cruise 2026, il palco sul mare per una settimana di musica e spettacolo
+Una settimana di show, cinque serate tematiche e una mesh led diventata icona pop del festival
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 14:15:29 +0100">
+Luperto trattiene Fullkrug, Allegri chiede rigore: cos'è successo in Cremonese-Milan
+Episodio arbitrale nel match dello Zini
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 13:59:53 +0100">
+Sanremo, Sal Da Vinci: "Felice per De Martino, Napoli finalmente nel posto che merita"
+Il cantante ha vinto la 76esima edizione del Festival davanti a Sayf e Ditonellapiaga
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 13:39:30 +0100">
+Sanremo, Cardinaletti: "Mio ruolo 'bivalente' causa guerra, felice di non essere caduta dalle scale"
+Provvidenziale la presenza della giornalista dei Tg1 in una serata segnata dalle notizie sulla guerra: "Mi sono divertita, vedo infotainment nel mio futuro"
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 12:51:00 +0100">
+Sanremo, Sal Da Vinci: "La mia è la vittoria di un popolo, condivido questo premio con Geolier"
+"Grazie a mia moglie Paola, grazie a lei sono riuscito a sopravvivere nella tana dei lupi, mi ha sempre sostenuto e incoraggiato"
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 12:29:52 +0100">
+Il ruolo della Cia e il raid sul compound: così è stato ucciso Khamenei
+La morte della Guida Suprema dell'Iran e di altri alti funzionari iraniani, è avvenuta dopo una stretta condivisione di intelligence tra Stati Uniti ed Israele
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 11:54:00 +0100">
+Serie A, Cremonese-Milan 0-0 - Diretta
+Derby lombardo nella 27esima giornata di Serie A
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 11:07:40 +0100">
+Politica, Marco Follini: "Basta parlare a casaccio, serve amor proprio"
+"Si potrebbe reclamare dai protagonisti di questa stagione almeno un briciolo di attenzione in più rivolta alla difficoltà dei tempi e alla serietà degli argomenti"
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 09:47:00 +0100">
+Meteo inizio marzo, Italia in 'bolla' anticiclonica: oltre 20°C al Sud e poche piogge al Nord
+Avvio di Marzo nel segno di una staticità atmosferica quasi assoluta. L'inverno sembra ormai un lontano ricordo, sostituito da un dominio anticiclonico che manterrà l'Italia in una bolla di mitezza, pur con qualche piccola insidia grigia specie al Nord.
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 09:10:11 +0100">
+Che Tempo Che Fa, oggi domenica 1 marzo: gli ospiti di Fabio Fazio
+Dalle 19.30 sul Nove
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 09:05:00 +0100">
+Iran, nuove esplosioni a Dubai: colonne di fumo sul porto
+I detriti di un drone abbattuto sulla Business Bay di Dubai hanno causato un incendio nel principale porto commerciale della città, hanno affermato le autorità. Esplosioni anche a Doha e Manama
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 09:47:43 +0100">
+Meteo inizio marzo, Italia in 'bolla' anticiclonica: oltre 20°C al Sud e poche piogge al Nord
+Avvio di Marzo nel segno di una staticità atmosferica quasi assoluta. L'inverno sembra ormai un lontano ricordo, sostituito da un dominio anticiclonico che manterrà l'Italia in una bolla di mitezza, pur con qualche piccola insidia grigia specie al Nord.
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 08:10:36 +0100">
+Anche sazi non resistiamo agli spuntini, la scienza svela il perché
+Uno studio suggerisce che è colpa del cablaggio del cervello forgiato da anni di associazione di determinati alimenti al piacere
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 07:47:03 +0100">
+Verissimo, gli ospiti e le interviste di oggi domenica 1 marzo
+L'appuntamento della domenica con Silvia Toffanin
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 07:40:46 +0100">
+Amici, oggi domenica 1 marzo: gli ospiti di Maria De Filippi
+L'appuntamento della domenica con Maria De Filippi
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 07:29:00 +0100">
+Iran conferma morte Khamenei. ﻿Israele annuncia nuovi raid: forti esplosioni a Teheran
+Proclamati 40 giorni di lutto. Il capo del Consiglio supremo di sicurezza, Ali Larijani: "Oggi inizia processo transizione" . Pasdaran: "Contro Usa e Israele l'offensiva più feroce della storia". ﻿ Trump: "Se reagiranno, li colpiremo con forza mai vista prima". Nuove esplosioni a Dubai, Doha e Manama
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 07:05:00 +0100">
+Alzheimer, allo studio nuovo test del sangue per diagnosi precoce
+I ricercatori hanno identificato un nuovo tipo di test basato sul sangue, che misura i cambiamenti strutturali nelle proteine
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 02:25:33 +0100">
+Sanremo 2026, Sal Da Vinci ha vinto il Festival: tutto sul cantautore
+L'artista ha partecipato alla kermesse canora con il brano 'Per sempre sì'
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 02:23:00 +0100">
+Sanremo 2026, Sal Da Vinci vince il festival. Secondo Sayf, terza Ditonellapiaga
+Quarta Arisa con 'Magica favola', quinti Fedez e Masini con 'Male necessario'. Il passaggio del testimone in diretta per il 2027: Stefano De Martino sarà il conduttore l'anno prossimo
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 01:59:36 +0100">
+Il test del fenicottero, un esercizio 'cura' il cervello e rallenta l'invecchiamento
+La scienza svela l'efficacia di un banale esercizio, basta rimanere in equilibrio su una gamba
+</article>
+<article source="Adkronos" date="Sun, 1 Mar 2026 01:53:05 +0100">
+MotoGp, oggi si corre in Thailandia: orario, griglia di partenza e dove vederlo in tv
+Si apre la nuova stagione del motomondiale
+</article>
+<article source="Governo Italiano - Comunicati Stampa" date="Sun, 01 Mar 2026 18:59:53 +0100">
+Medio Oriente, proseguono i contatti del Presidente Meloni con i leader della regione
+Anche nel corso della giornata odierna sono proseguiti i contatti del Presidente Meloni con i leader della regione mediorientale, a partire dalle conversazioni telefoniche intercorse con il Re di Giordania e il Sultano dell’Oman, che si aggiungono ai numerosi contatti già avuti nella giornata di ieri con le restanti autorità delle nazioni del Golfo. Il Presidente Meloni ha inoltre avuto colloqui con la Presidente della Commissione europea e con il Presidente della Repubblica di Cipro, in qualità di Presidenza di turno del Consiglio della Ue.
+</article>
+<article source="Il Post" date="Sun, 01 Mar 2026 17:17:50 GMT">
+Gli attacchi proseguono su tutto il Golfo Persico
+</article>
+<article source="Il Post" date="Sun, 01 Mar 2026 11:06:16 GMT">
+Cos’è la Jeune Garde Antifasciste
+</article>
+<article source="Il Post" date="Sun, 01 Mar 2026 07:56:26 GMT">
+Linköping, 1995 – Imperia, 2024 – Seconda parte
+</article>
+<article source="Il Post" date="Sun, 01 Mar 2026 07:40:57 GMT">
+La sparizione di una ragazza in Svezia e il processo in Italia, 30 anni dopo
+</article>
+<article source="Il Post" date="Sun, 01 Mar 2026 07:32:33 GMT">
+Linköping, 1995 – Imperia, 2024 – Prima Parte
+</article>
+<article source="Il Post" date="Sun, 01 Mar 2026 07:05:05 GMT">
+Tre articoli del Post da ascoltare, letti da chi li ha scritti
+</article>
+<article source="Il Post" date="Sun, 01 Mar 2026 06:52:09 GMT">
+Le prime pagine di oggi
+</article>
+<article source="Il Post" date="Sun, 01 Mar 2026 06:32:36 GMT">
+Domenica 1 marzo
+</article>
+<article source="Il Post" date="Sun, 01 Mar 2026 01:16:11 GMT">
+Sal Da Vinci ha vinto il Festival di Sanremo
+</article>
+<article source="Il Post" date="Sat, 28 Feb 2026 20:53:29 GMT">
+È stata colpita anche Dubai
+</article>
+<article source="Il Post" date="Sat, 28 Feb 2026 23:33:03 GMT">
+Cosa sappiamo dell’attacco di Israele e degli Stati Uniti contro l’Iran
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 1 Mar 2026 17:24:21 GMT">
+Referendum sulla giustizia: ecco cosa dicono gli ultimi sondaggi a meno di un mese dal voto
+Il referendum costituzionale sulla giustizia sulla separazione delle carriere si avvicina (si andrà al voto il 22 e 23 marzo) e i sondaggi continuano ad uscire copiosi. Se la maggioranza...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 1 Mar 2026 15:33:34 GMT">
+Ets, così il decreto bollette rompe un tabù
+Per la prima volta un grande Paese dell’Unione prova a spezzare il meccanismo attraverso cui il costo della CO₂ incorporato nella generazione a gas si trasferisce automaticamente nel prezzo all’ingrosso dell’elettricità, generando ampie rendite inframarginali
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 1 Mar 2026 13:36:20 GMT">
+Fisco, zavorra in Cassazione sotto la spinta delle nuove liti
+Il tributario taglia l’arretrato (-3.700 cause) ma pesa ancora per il 46% delle pendenze. I ricorsi presentati nel 2025 su imposte sono il 35% del totale. Al top le controversie per tasse locali
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 1 Mar 2026 13:35:41 GMT">
+Organizzazione e ufficio del processo per tagliare i fascicoli
+Nel 2025 le definizioni sono state oltre 2mila in più rispetto all’anno precedente
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 1 Mar 2026 10:40:00 GMT">
+Tajani: italiani restino a Dubai. Nessuna conseguenza per i militari italiani in Kuwait. Meloni aggiorna Mattarella
+Il ministro Tajani punta a rafforzare il lavoro dell’unità di crisi e a sostenere l’impegno delle ambasciate e dei consolati nella regione
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 1 Mar 2026 10:01:03 GMT">
+Antiterrorismo, alert sui punti sensibili Usa e israeliani
+La circolare di Piantedosi: focus su centri culturali e sedi diplomatiche. Vertice del Comitato strategico: verificati i segnali, nessun allarme specifico per l’Italia
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 1 Mar 2026 07:03:00 GMT">
+Fisco, a marzo 79 scadenze: entro lunedì conguagli Irpef e bollo sulle fatture elettroniche
+Entro il 16 in arrivo la certificazione unica per dipendenti e pensionati. Appuntamento con il versamento del saldo Iva
+</article>
+</other_headlines>
