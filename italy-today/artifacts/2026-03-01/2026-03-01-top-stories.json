@@ -1,21 +1,22 @@
 {
   "date": "2026-03-01",
-  "generated_at": "Domenica 1 Marzo 10:32",
+  "generated_at": "Domenica 1 Marzo 11:27",
   "stories": [
     {
       "rank": 1,
-      "title": "Sanremo 2026, Sal Da Vinci ha vinto il Festival: tutto sul cantautore",
-      "source_count": 11,
-      "article_count": 32,
+      "title": "Sanremo 2026, vince Sal Da Vinci con “Per sempre sì”: Sayf e Ditonellapiaga sul podio, ecco la classifica finale completa",
+      "source_count": 12,
+      "article_count": 33,
       "source_domains": [
-        "fanpage.it",
-        "adnkronos.com",
         "ilfattoquotidiano.it",
+        "unita.it",
+        "repubblica.it",
+        "fanpage.it",
         "corriere.it",
         "liberoquotidiano.it",
-        "repubblica.it",
         "ansa.it",
         "laverita.info",
+        "adnkronos.com",
         "lastampa.it",
         "ilmessaggero.it",
         "ilgiornale.it"
@@ -23,41 +24,75 @@
     },
     {
       "rank": 2,
-      "title": "L’Iran ha confermato la morte di Ali Khamenei",
-      "source_count": 10,
-      "article_count": 22,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "video.corriere.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "fanpage.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Iran, attacco Israele-USA in diretta, Teheran conferma la morte di Khamenei: “Risponderemo molto duramente”",
-      "source_count": 9,
-      "article_count": 17,
+      "title": "Attacco in Iran, morto Khamenei",
+      "source_count": 12,
+      "article_count": 27,
       "source_domains": [
         "ilfattoquotidiano.it",
-        "fanpage.it",
         "ilgiornale.it",
+        "unita.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilmanifesto.it",
         "corriere.it",
+        "fanpage.it",
         "ansa.it",
         "adnkronos.com",
-        "repubblica.it",
         "laverita.info",
         "lastampa.it"
       ]
     },
     {
+      "rank": 3,
+      "title": "Attacco all’Iran, resa dei conti in Medio Oriente Il punto in diretta",
+      "source_count": 8,
+      "article_count": 23,
+      "source_domains": [
+        "ilgiornale.it",
+        "video.corriere.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it",
+        "fanpage.it",
+        "ansa.it",
+        "news.google.com"
+      ]
+    },
+    {
       "rank": 4,
+      "title": "Iran, Khamenei è morto: manifestazioni di piazza e assalti a ambasciate",
+      "source_count": 8,
+      "article_count": 20,
+      "source_domains": [
+        "ilgiornale.it",
+        "video.corriere.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Le pagelle della finale di Sanremo 2026 e i voti alle canzoni dell’ultima serata",
+      "source_count": 9,
+      "article_count": 19,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "fanpage.it",
+        "video.corriere.it",
+        "repubblica.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Stefano De Martino conduttore e direttore artistico di Sanremo 2027, l’annuncio di Carlo Conti all’Ariston",
       "source_count": 9,
       "article_count": 16,
@@ -74,22 +109,50 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Attacco all’Iran, resa dei conti in Medio Oriente Il punto in diretta",
-      "source_count": 7,
-      "article_count": 14,
+      "rank": 7,
+      "title": "Tram deraglia a Milano, il malore del conducente e il sistema di frenata: questi i nodi dell'indagine",
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "video.corriere.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
         "ilgiornale.it",
         "fanpage.it",
+        "milano.corriere.it",
+        "milano.repubblica.it",
+        "lastampa.it",
         "ansa.it",
+        "ilmessaggero.it",
         "news.google.com"
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "title": "Colpito il Burj Al Arab, hotel simbolo di Dubai: il video delle fiamme",
+      "source_count": 5,
+      "article_count": 12,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "video.corriere.it",
+        "ilgiornale.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "\"Vedo i missili iraniani dalla finestra\", il racconto choc di un connazionale a Dubai",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "ilmessaggero.it",
+        "fanpage.it",
+        "corriere.it",
+        "repubblica.it",
+        "ansa.it",
+        "ilgiornale.it"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "MotoGp: Marco Bezzecchi vince il Gp di Thailandia",
       "source_count": 7,
       "article_count": 10,
@@ -101,62 +164,6 @@
         "ansa.it",
         "corriere.it",
         "lastampa.it"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Tram deraglia a Milano, il malore del conducente e il sistema di frenata: questi i nodi dell'indagine",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "fanpage.it",
-        "milano.corriere.it",
-        "milano.repubblica.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilgiornale.it"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Le pagelle della finale di Sanremo 2026 e i voti alle canzoni dell’ultima serata",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "video.corriere.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Da BigMama allo chef Iaccarino: “Sentiamo i missili sulla testa”. Isolati anche 190 studenti italiani",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "roma.corriere.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Colpito il Burj Al Arab, hotel simbolo di Dubai: il video delle fiamme",
-      "source_count": 4,
-      "article_count": 11,
-      "source_domains": [
-        "adnkronos.com",
-        "video.corriere.it",
-        "ilgiornale.it",
-        "ilmessaggero.it"
       ]
     }
   ]
