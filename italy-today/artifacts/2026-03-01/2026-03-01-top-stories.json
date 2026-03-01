@@ -1,39 +1,57 @@
 {
   "date": "2026-03-01",
-  "generated_at": "Domenica 1 Marzo 13:47",
+  "generated_at": "Domenica 1 Marzo 14:30",
   "stories": [
     {
       "rank": 1,
       "title": "Sanremo 2026, Sal Da Vinci ha vinto il Festival: tutto sul cantautore",
       "source_count": 12,
-      "article_count": 49,
+      "article_count": 50,
       "source_domains": [
+        "liberoquotidiano.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "ansa.it",
         "repubblica.it",
         "fanpage.it",
-        "liberoquotidiano.it",
         "unita.it",
         "lastampa.it",
         "corriere.it",
         "laverita.info",
-        "ilgiornale.it",
-        "ilmessaggero.it"
+        "ilmessaggero.it",
+        "ilgiornale.it"
       ]
     },
     {
       "rank": 2,
-      "title": "Attacco in Iran, morto Khamenei",
-      "source_count": 12,
-      "article_count": 30,
+      "title": "In Iran è la fine di un'era: chi era l'ayatollah Khamenei",
+      "source_count": 10,
+      "article_count": 35,
       "source_domains": [
         "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "video.corriere.it",
+        "ansa.it",
         "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Attacco in Iran, morto Khamenei",
+      "source_count": 12,
+      "article_count": 29,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "unita.it",
         "repubblica.it",
-        "ansa.it",
         "ilmessaggero.it",
         "ilmanifesto.it",
         "corriere.it",
@@ -43,27 +61,10 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "In Iran è la fine di un'era: chi era l'ayatollah Khamenei",
-      "source_count": 9,
-      "article_count": 31,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "video.corriere.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "repubblica.it",
-        "news.google.com"
-      ]
-    },
-    {
       "rank": 4,
-      "title": "Colpito l'aeroporto internazionale di Dubai: la fuga dei passeggeri",
-      "source_count": 9,
-      "article_count": 24,
+      "title": "Iran, gli italiani a Dubai: 'Boati e paura, una situazione surreale'",
+      "source_count": 10,
+      "article_count": 25,
       "source_domains": [
         "ilgiornale.it",
         "liberoquotidiano.it",
@@ -72,23 +73,24 @@
         "ansa.it",
         "adnkronos.com",
         "roma.corriere.it",
+        "lastampa.it",
         "fanpage.it",
         "news.google.com"
       ]
     },
     {
       "rank": 5,
-      "title": "Attacco all’Iran, resa dei conti in Medio Oriente Il punto in diretta",
+      "title": "Enorme nube di fumo sopra Teheran, ripresi attacchi Usa-Israele su Iran",
       "source_count": 8,
-      "article_count": 20,
+      "article_count": 24,
       "source_domains": [
+        "liberoquotidiano.it",
         "video.corriere.it",
         "ilgiornale.it",
-        "liberoquotidiano.it",
+        "ansa.it",
         "lastampa.it",
         "repubblica.it",
         "fanpage.it",
-        "ansa.it",
         "news.google.com"
       ]
     },
@@ -111,6 +113,57 @@
     },
     {
       "rank": 7,
+      "title": "Crosetto rientra in Italia da Dubai con un aereo militare: \"Torno da solo e pago il triplo\"",
+      "source_count": 11,
+      "article_count": 16,
+      "source_domains": [
+        "roma.corriere.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "lastampa.it",
+        "news.google.com",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Sanremo, i top e i flop della serata finale",
+      "source_count": 8,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "corriere.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "lastampa.it",
+        "fanpage.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Iran, italiani sotto attacco in Kuwait. Tajani rassicura: “Stanno bene”",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "laverita.info",
+        "fanpage.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "MotoGp Thailandia, vince Bezzecchi e Marquez si ritira",
       "source_count": 8,
       "article_count": 10,
@@ -123,50 +176,6 @@
         "ansa.it",
         "corriere.it",
         "lastampa.it"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Tram deraglia a Milano, il malore del conducente e il sistema di frenata: questi i nodi dell'indagine",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "milano.corriere.it",
-        "milano.repubblica.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Attacco all'Iran, Crosetto bloccato a Dubai: scoppia il caso politico",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com",
-        "ilsole24ore.com"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Sayf vince il secondo posto a Sanremo 2026, eccolo all’uscita del teatro",
-      "source_count": 5,
-      "article_count": 10,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "video.corriere.it",
-        "repubblica.it",
-        "ansa.it"
       ]
     }
   ]
