@@ -1,12 +1,12 @@
 {
   "date": "2026-03-01",
-  "generated_at": "Domenica 1 Marzo 14:30",
+  "generated_at": "Domenica 1 Marzo 15:30",
   "stories": [
     {
       "rank": 1,
       "title": "Sanremo 2026, Sal Da Vinci ha vinto il Festival: tutto sul cantautore",
-      "source_count": 12,
-      "article_count": 50,
+      "source_count": 13,
+      "article_count": 51,
       "source_domains": [
         "liberoquotidiano.it",
         "adnkronos.com",
@@ -16,18 +16,20 @@
         "fanpage.it",
         "unita.it",
         "lastampa.it",
+        "ilgiornale.it",
         "corriere.it",
         "laverita.info",
         "ilmessaggero.it",
-        "ilgiornale.it"
+        "news.google.com"
       ]
     },
     {
       "rank": 2,
       "title": "In Iran è la fine di un'era: chi era l'ayatollah Khamenei",
-      "source_count": 10,
-      "article_count": 35,
+      "source_count": 11,
+      "article_count": 33,
       "source_domains": [
+        "fanpage.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
@@ -62,27 +64,27 @@
     },
     {
       "rank": 4,
-      "title": "Iran, gli italiani a Dubai: 'Boati e paura, una situazione surreale'",
+      "title": "Dubai, gli attacchi dell'Iran: dal Burj Al Arab (hotel a 7 stelle) al Burj Khalifa, colpiti i simboli del lusso",
       "source_count": 10,
-      "article_count": 25,
+      "article_count": 30,
       "source_domains": [
+        "fanpage.it",
+        "corriere.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
-        "ilmessaggero.it",
         "repubblica.it",
+        "ilmessaggero.it",
         "ansa.it",
         "adnkronos.com",
-        "roma.corriere.it",
         "lastampa.it",
-        "fanpage.it",
         "news.google.com"
       ]
     },
     {
       "rank": 5,
-      "title": "Enorme nube di fumo sopra Teheran, ripresi attacchi Usa-Israele su Iran",
+      "title": "Attacco all’Iran, resa dei conti in Medio Oriente Il punto in diretta",
       "source_count": 8,
-      "article_count": 24,
+      "article_count": 26,
       "source_domains": [
         "liberoquotidiano.it",
         "video.corriere.it",
@@ -96,23 +98,6 @@
     },
     {
       "rank": 6,
-      "title": "Stefano De Martino conduttore e direttore artistico di Sanremo 2027, l’annuncio di Carlo Conti all’Ariston",
-      "source_count": 9,
-      "article_count": 19,
-      "source_domains": [
-        "fanpage.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "corriere.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Crosetto rientra in Italia da Dubai con un aereo militare: \"Torno da solo e pago il triplo\"",
       "source_count": 11,
       "article_count": 16,
@@ -131,7 +116,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Sanremo, i top e i flop della serata finale",
       "source_count": 8,
       "article_count": 14,
@@ -147,35 +132,51 @@
       ]
     },
     {
+      "rank": 8,
+      "title": "Stefano De Martino conduttore di Sanremo 2027, il golden boy Rai pronto a guidare il festival",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
+        "corriere.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ]
+    },
+    {
       "rank": 9,
-      "title": "Iran, italiani sotto attacco in Kuwait. Tajani rassicura: “Stanno bene”",
+      "title": "Tram deraglia a Milano, il malore del conducente e il sistema di frenata: questi i nodi dell'indagine",
       "source_count": 8,
       "article_count": 10,
       "source_domains": [
-        "liberoquotidiano.it",
-        "adnkronos.com",
+        "fanpage.it",
+        "ilgiornale.it",
+        "milano.corriere.it",
+        "milano.repubblica.it",
         "lastampa.it",
         "ansa.it",
-        "ilgiornale.it",
-        "laverita.info",
-        "fanpage.it",
-        "ilsole24ore.com"
+        "ilmessaggero.it",
+        "news.google.com"
       ]
     },
     {
       "rank": 10,
-      "title": "MotoGp Thailandia, vince Bezzecchi e Marquez si ritira",
+      "title": "Spazio chiuso in Medio Oriente, voli cancellati: cosa succede al trasporto aereo dpo l'attacco all'Iran",
       "source_count": 8,
       "article_count": 10,
       "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "video.corriere.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "ansa.it",
-        "corriere.it",
-        "lastampa.it"
+        "lastampa.it",
+        "repubblica.it",
+        "ilmessaggero.it"
       ]
     }
   ]
