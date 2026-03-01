@@ -1,6 +1,6 @@
 {
   "date": "2026-03-01",
-  "generated_at": "Domenica 1 Marzo 17:29",
+  "generated_at": "Domenica 1 Marzo 18:42",
   "stories": [
     {
       "rank": 1,
@@ -8,18 +8,18 @@
       "source_count": 13,
       "article_count": 52,
       "source_domains": [
-        "adnkronos.com",
+        "laverita.info",
+        "fanpage.it",
+        "ilmessaggero.it",
         "liberoquotidiano.it",
         "ansa.it",
+        "adnkronos.com",
         "ilfattoquotidiano.it",
         "repubblica.it",
-        "fanpage.it",
         "unita.it",
         "lastampa.it",
         "ilgiornale.it",
         "corriere.it",
-        "laverita.info",
-        "ilmessaggero.it",
         "news.google.com"
       ]
     },
@@ -64,9 +64,25 @@
     },
     {
       "rank": 4,
+      "title": "Attacco all'Iran, molte colonne di fumo si alzano nel centro di Teheran",
+      "source_count": 8,
+      "article_count": 28,
+      "source_domains": [
+        "video.corriere.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Crosetto rientra in Italia da Dubai con un aereo militare: \"Torno da solo e pago il triplo\"",
-      "source_count": 11,
-      "article_count": 16,
+      "source_count": 10,
+      "article_count": 15,
       "source_domains": [
         "roma.corriere.it",
         "ilgiornale.it",
@@ -77,55 +93,38 @@
         "ilmessaggero.it",
         "fanpage.it",
         "lastampa.it",
-        "news.google.com",
         "ilsole24ore.com"
       ]
     },
     {
-      "rank": 5,
-      "title": "Attacco all'Iran, molte colonne di fumo si alzano nel centro di Teheran",
-      "source_count": 6,
-      "article_count": 19,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "video.corriere.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "lastampa.it",
-        "news.google.com"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Stefano De Martino conduttore e direttore artistico di Sanremo 2027, l’annuncio di Carlo Conti all’Ariston",
-      "source_count": 9,
-      "article_count": 16,
+      "title": "Stefano De Martino conduttore di Sanremo 2027, il golden boy Rai pronto a guidare il festival",
+      "source_count": 8,
+      "article_count": 13,
       "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
         "fanpage.it",
         "repubblica.it",
         "video.corriere.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "ilmessaggero.it"
       ]
     },
     {
       "rank": 7,
-      "title": "Sanremo, i top e i flop della serata finale",
-      "source_count": 8,
+      "title": "Un'italiana ad Abu Dhabi, 'pioggia di missili e boati nella notte'",
+      "source_count": 7,
       "article_count": 14,
       "source_domains": [
         "ansa.it",
-        "corriere.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "lastampa.it",
         "fanpage.it",
-        "ilmessaggero.it"
+        "corriere.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
       ]
     },
     {
@@ -147,31 +146,32 @@
     },
     {
       "rank": 9,
-      "title": "Dubai, gli attacchi dell'Iran: dal Burj Al Arab (hotel a 7 stelle) al Burj Khalifa, colpiti i simboli del lusso",
-      "source_count": 6,
-      "article_count": 14,
+      "title": "Tram deraglia a Milano, il malore del conducente e il sistema di frenata: questi i nodi dell'indagine",
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
-        "video.corriere.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
+        "fanpage.it",
         "ilgiornale.it",
+        "milano.corriere.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ansa.it",
         "ilmessaggero.it",
         "news.google.com"
       ]
     },
     {
       "rank": 10,
-      "title": "Da BigMama allo chef Iaccarino: “Sentiamo i missili sulla testa”. Isolati anche 190 studenti italiani",
-      "source_count": 7,
-      "article_count": 13,
+      "title": "Sanremo, i top e i flop della serata finale",
+      "source_count": 6,
+      "article_count": 11,
       "source_domains": [
-        "fanpage.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmessaggero.it",
         "ansa.it",
-        "lastampa.it"
+        "corriere.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "lastampa.it",
+        "d.repubblica.it"
       ]
     }
   ]
