@@ -1,15 +1,15 @@
 {
   "date": "2026-03-01",
-  "generated_at": "Domenica 1 Marzo 19:28",
+  "generated_at": "Domenica 1 Marzo 20:35",
   "stories": [
     {
       "rank": 1,
       "title": "Sanremo 2026, Sal Da Vinci ha vinto il Festival: tutto sul cantautore",
       "source_count": 13,
-      "article_count": 52,
+      "article_count": 58,
       "source_domains": [
-        "laverita.info",
         "fanpage.it",
+        "laverita.info",
         "ilmessaggero.it",
         "liberoquotidiano.it",
         "ansa.it",
@@ -18,16 +18,16 @@
         "repubblica.it",
         "unita.it",
         "lastampa.it",
-        "ilgiornale.it",
         "corriere.it",
+        "ilgiornale.it",
         "news.google.com"
       ]
     },
     {
       "rank": 2,
-      "title": "Attacco in Iran, morto Khamenei",
-      "source_count": 11,
-      "article_count": 35,
+      "title": "Teheran conferma la morte di Khamenei. I media: 'L'ex presidente Ahmadinejad ucciso nel primo attacco'",
+      "source_count": 12,
+      "article_count": 33,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
@@ -36,6 +36,7 @@
         "unita.it",
         "repubblica.it",
         "ilmessaggero.it",
+        "ilmanifesto.it",
         "corriere.it",
         "fanpage.it",
         "laverita.info",
@@ -46,7 +47,7 @@
       "rank": 3,
       "title": "In Iran è la fine di un'era: chi era l'ayatollah Khamenei",
       "source_count": 11,
-      "article_count": 31,
+      "article_count": 34,
       "source_domains": [
         "liberoquotidiano.it",
         "fanpage.it",
@@ -65,7 +66,7 @@
       "rank": 4,
       "title": "Attacco all'Iran, molte colonne di fumo si alzano nel centro di Teheran",
       "source_count": 8,
-      "article_count": 28,
+      "article_count": 27,
       "source_domains": [
         "video.corriere.it",
         "liberoquotidiano.it",
@@ -79,21 +80,39 @@
     },
     {
       "rank": 5,
-      "title": "Da BigMama allo chef Iaccarino: “Sentiamo i missili sulla testa”. Isolati anche 190 studenti italiani",
-      "source_count": 7,
-      "article_count": 17,
+      "title": "Crosetto rientra in Italia da Dubai con un aereo militare: \"Torno da solo e pago il triplo\"",
+      "source_count": 10,
+      "article_count": 13,
       "source_domains": [
-        "ansa.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "repubblica.it",
         "roma.corriere.it",
-        "lastampa.it"
+        "ilgiornale.it",
+        "ansa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ilsole24ore.com",
+        "news.google.com"
       ]
     },
     {
       "rank": 6,
+      "title": "Tajani: Guerra Iran, costituita task-force alla Farnesina con 50 persone, situazione peggiore a Dubai",
+      "source_count": 7,
+      "article_count": 16,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Stefano De Martino conduttore di Sanremo 2027, il golden boy Rai pronto a guidare il festival",
       "source_count": 8,
       "article_count": 13,
@@ -109,24 +128,22 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Crosetto rientra in Italia da Dubai con un aereo militare: \"Torno da solo e pago il triplo\"",
-      "source_count": 9,
-      "article_count": 12,
+      "rank": 8,
+      "title": "Un'italiana ad Abu Dhabi, 'pioggia di missili e boati nella notte'",
+      "source_count": 7,
+      "article_count": 14,
       "source_domains": [
-        "roma.corriere.it",
-        "ilgiornale.it",
         "ansa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
         "fanpage.it",
-        "ilsole24ore.com"
+        "corriere.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Spazio chiuso in Medio Oriente, voli cancellati: cosa succede al trasporto aereo dpo l'attacco all'Iran",
       "source_count": 9,
       "article_count": 12,
@@ -143,32 +160,17 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Sanremo, i top e i flop della serata finale",
-      "source_count": 6,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "corriere.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "lastampa.it",
-        "d.repubblica.it"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "MotoGp Thailandia, vince Bezzecchi e Marquez si ritira",
-      "source_count": 8,
-      "article_count": 9,
+      "title": "Serie A, oggi Roma-Juventus - Diretta",
+      "source_count": 7,
+      "article_count": 10,
       "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "ansa.it",
         "corriere.it",
+        "ansa.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
         "lastampa.it"
       ]
     }
