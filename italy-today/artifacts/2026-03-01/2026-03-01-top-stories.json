@@ -1,17 +1,18 @@
 {
   "date": "2026-03-01",
-  "generated_at": "Domenica 1 Marzo 07:37",
+  "generated_at": "Domenica 1 Marzo 08:39",
   "stories": [
     {
       "rank": 1,
       "title": "La classifica finale di Sanremo 2026: vince Sal Da Vinci",
-      "source_count": 10,
-      "article_count": 24,
+      "source_count": 11,
+      "article_count": 27,
       "source_domains": [
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "fanpage.it",
         "corriere.it",
         "repubblica.it",
-        "liberoquotidiano.it",
         "ansa.it",
         "laverita.info",
         "adnkronos.com",
@@ -24,18 +25,18 @@
       "rank": 2,
       "title": "Attacco in Iran, morto Khamenei",
       "source_count": 10,
-      "article_count": 19,
+      "article_count": 22,
       "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
+        "ilfattoquotidiano.it",
         "corriere.it",
-        "ansa.it",
-        "repubblica.it",
+        "fanpage.it",
         "laverita.info",
+        "ilgiornale.it",
+        "ansa.it",
         "adnkronos.com",
+        "repubblica.it",
         "lastampa.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it"
+        "ilmessaggero.it"
       ]
     },
     {
@@ -57,11 +58,11 @@
     },
     {
       "rank": 4,
-      "title": "Colpito l'aeroporto internazionale di Dubai: la fuga dei passeggeri",
+      "title": "Iran, gli italiani a Dubai: 'Boati e paura, una situazione surreale'",
       "source_count": 6,
-      "article_count": 15,
+      "article_count": 16,
       "source_domains": [
-        "video.corriere.it",
+        "roma.corriere.it",
         "repubblica.it",
         "ilgiornale.it",
         "ansa.it",
@@ -73,24 +74,51 @@
       "rank": 5,
       "title": "BigMama bloccata a Dubai: \"Sentiamo i missili sulla testa, un incubo\"",
       "source_count": 9,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "ilgiornale.it",
         "repubblica.it",
         "corrieredelveneto.corriere.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "ansa.it",
         "liberoquotidiano.it",
-        "ilgiornale.it",
         "fanpage.it",
         "lastampa.it"
       ]
     },
     {
       "rank": 6,
+      "title": "Le operazioni Epic Fury e Roaring Lion: gli attacchi, gli obiettivi, la risposta dell'Iran. Cosa sta succedendo",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "ilgiornale.it",
+        "corriere.it",
+        "repubblica.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "L’Iran ha confermato la morte di Ali Khamenei",
+      "source_count": 5,
+      "article_count": 11,
+      "source_domains": [
+        "video.corriere.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Le pagelle della finale di Sanremo 2026 e i voti alle canzoni dell’ultima serata",
       "source_count": 7,
-      "article_count": 10,
+      "article_count": 8,
       "source_domains": [
         "video.corriere.it",
         "repubblica.it",
@@ -102,21 +130,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Le reazioni in Usa all'attacco in Iran: \"Ingiustificato\"",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "title": "Tram deraglia a Milano, il malore del conducente e il sistema di frenata: questi i nodi dell'indagine",
       "source_count": 6,
       "article_count": 8,
@@ -127,20 +141,6 @@
         "ansa.it",
         "ilmessaggero.it",
         "ilgiornale.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Crisi in Iran, di cosa ha discusso il governo al vertice d’urgenza convocato da Meloni a Palazzo Chigi",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "lastampa.it",
-        "fanpage.it",
-        "governo.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ilsole24ore.com"
       ]
     },
     {
