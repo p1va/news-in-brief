@@ -1,22 +1,21 @@
 {
   "date": "2026-03-02",
-  "generated_at": "Lunedì 2 Marzo 08:55",
+  "generated_at": "Lunedì 2 Marzo 09:58",
   "stories": [
     {
       "rank": 1,
-      "title": "Attacco all’Iran, resa dei conti in Medio Oriente. Il punto in diretta",
-      "source_count": 10,
-      "article_count": 24,
+      "title": "Missili dall'Iran, forti esplosioni a Gerusalemme: il videoracconto",
+      "source_count": 9,
+      "article_count": 21,
       "source_domains": [
-        "adnkronos.com",
+        "unita.it",
         "liberoquotidiano.it",
+        "video.corriere.it",
+        "adnkronos.com",
         "ilfattoquotidiano.it",
         "ansa.it",
-        "corriere.it",
         "repubblica.it",
         "ilgiornale.it",
-        "lastampa.it",
-        "fanpage.it",
         "news.google.com"
       ]
     },
@@ -24,14 +23,14 @@
       "rank": 2,
       "title": "Roma, auto fugge all'alt della polizia e travolge un’altra macchina: sterminata una famiglia di 3 persone",
       "source_count": 10,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
+        "ilmessaggero.it",
         "ilgiornale.it",
         "fanpage.it",
         "ansa.it",
         "roma.corriere.it",
         "adnkronos.com",
-        "ilmessaggero.it",
         "roma.repubblica.it",
         "lastampa.it",
         "ilsole24ore.com",
@@ -42,10 +41,10 @@
       "rank": 3,
       "title": "Crosetto: “Io bloccato dall’attacco? Nella Ue nessuno lo sapeva, imprevedibili i missili a Dubai”",
       "source_count": 10,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
-        "roma.corriere.it",
         "fanpage.it",
+        "roma.corriere.it",
         "repubblica.it",
         "lastampa.it",
         "ansa.it",
@@ -73,6 +72,67 @@
     },
     {
       "rank": 5,
+      "title": "Attacco all'Iran, chiuso lo spazio aereo in Medio Oriente: migliaia di voli bloccati",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "corriere.it",
+        "fanpage.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilgiornale.it"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Iran, lacrime in diretta tv per la morte di Khamenei",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "video.corriere.it"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Tram deragliato a Milano, il conducente indagato per disastro ferroviario",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "milano.corriere.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Pioggia di missili su Dubai, il racconto di un’italiana bloccata: “Aeroporto danneggiato, non sappiamo che fare”",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "roma.corriere.it",
+        "repubblica.it",
+        "ansa.it",
+        "fanpage.it",
+        "ilgiornale.it"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Sanremo, Sal Da Vinci: E' la vittoria di chi come me persevera nei sogni",
       "source_count": 8,
       "article_count": 8,
@@ -88,50 +148,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Attacco all'Iran, chiuso lo spazio aereo in Medio Oriente: migliaia di voli bloccati",
-      "source_count": 5,
-      "article_count": 10,
-      "source_domains": [
-        "corriere.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilgiornale.it"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Cosa succederà in Iran dopo l’uccisione di Ali Khamenei e chi prenderà il suo posto",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "video.corriere.it"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Tram deragliato a Milano, il conducente indagato per «disastro ferroviario»",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "milano.corriere.it",
-        "ilmessaggero.it",
-        "milano.repubblica.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "Di Matteo: \"Sto con con Gratteri, massoni e mafiosi voteranno Sì al referendum\"",
       "source_count": 7,
       "article_count": 7,
@@ -142,19 +159,6 @@
         "ansa.it",
         "liberoquotidiano.it",
         "repubblica.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Italiani bloccati a Dubai, tra loro 200 studenti. La Farnesina crea la 'Task Force Golfo'",
-      "source_count": 5,
-      "article_count": 9,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
         "ilsole24ore.com"
       ]
     }
