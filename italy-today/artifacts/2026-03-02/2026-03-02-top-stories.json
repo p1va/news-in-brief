@@ -1,13 +1,14 @@
 {
   "date": "2026-03-02",
-  "generated_at": "Lunedì 2 Marzo 17:54",
+  "generated_at": "Lunedì 2 Marzo 18:59",
   "stories": [
     {
       "rank": 1,
       "title": "Roma, ladri in fuga con un'auto invadono la corsia opposta e travolgono un'altra vettura: sterminata una famiglia di tre persone",
       "source_count": 13,
-      "article_count": 21,
+      "article_count": 22,
       "source_domains": [
+        "roma.corriere.it",
         "fanpage.it",
         "roma.repubblica.it",
         "ilfattoquotidiano.it",
@@ -17,7 +18,6 @@
         "adnkronos.com",
         "ilgiornale.it",
         "ansa.it",
-        "roma.corriere.it",
         "lastampa.it",
         "ilsole24ore.com",
         "agi.it"
@@ -27,9 +27,10 @@
       "rank": 2,
       "title": "Tram deragliato a Milano, il conducente indagato per disastro ferroviario",
       "source_count": 11,
-      "article_count": 14,
+      "article_count": 15,
       "source_domains": [
         "fanpage.it",
+        "milano.repubblica.it",
         "adnkronos.com",
         "unita.it",
         "ilgiornale.it",
@@ -37,13 +38,27 @@
         "ansa.it",
         "milano.corriere.it",
         "ilmessaggero.it",
-        "milano.repubblica.it",
         "lastampa.it",
         "ilsole24ore.com"
       ]
     },
     {
       "rank": 3,
+      "title": "Crosetto: “Io bloccato dall’attacco? Nella Ue nessuno lo sapeva, imprevedibili i missili a Dubai”",
+      "source_count": 7,
+      "article_count": 17,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "video.corriere.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ansa.it"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Attacco Iran, la guerra si allarga. Abbattuto caccia Usa in Kuwait. Israele colpisce il Libano: \"Non esclusa invasione di terra\"",
       "source_count": 8,
       "article_count": 14,
@@ -59,10 +74,10 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "La Juve rimonta la Roma da 3-1 a 3-3, Gatti gela l’Olimpico in pieno recupero: lotta Champions apertissima",
       "source_count": 7,
-      "article_count": 15,
+      "article_count": 14,
       "source_domains": [
         "ilmessaggero.it",
         "lastampa.it",
@@ -71,21 +86,6 @@
         "ansa.it",
         "fanpage.it",
         "liberoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Crosetto sul viaggio a Dubai: «Ero lì in ferie con i miei figli»",
-      "source_count": 7,
-      "article_count": 14,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "video.corriere.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it",
-        "ansa.it"
       ]
     },
     {
@@ -147,17 +147,19 @@
     },
     {
       "rank": 10,
-      "title": "Navi bloccate a Hormuz, allarme petrolio e commercio mondiale",
-      "source_count": 7,
-      "article_count": 11,
+      "title": "Forlì, cinque anziani morti sull’ambulanza: operatore di Croce rossa indagato per omicidio plurimo",
+      "source_count": 9,
+      "article_count": 9,
       "source_domains": [
+        "unita.it",
+        "ilfattoquotidiano.it",
         "adnkronos.com",
-        "ilgiornale.it",
         "ansa.it",
-        "corriere.it",
-        "repubblica.it",
-        "fanpage.it",
-        "lastampa.it"
+        "liberoquotidiano.it",
+        "corrieredibologna.corriere.it",
+        "lastampa.it",
+        "bologna.repubblica.it",
+        "fanpage.it"
       ]
     }
   ]
