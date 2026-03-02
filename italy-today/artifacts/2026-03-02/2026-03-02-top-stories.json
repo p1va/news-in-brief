@@ -1,25 +1,45 @@
 {
   "date": "2026-03-02",
-  "generated_at": "Lunedì 2 Marzo 07:07",
+  "generated_at": "Lunedì 2 Marzo 08:55",
   "stories": [
     {
       "rank": 1,
-      "title": "Missili dall'Iran, forti esplosioni a Gerusalemme: il videoracconto",
-      "source_count": 8,
-      "article_count": 20,
+      "title": "Attacco all’Iran, resa dei conti in Medio Oriente. Il punto in diretta",
+      "source_count": 10,
+      "article_count": 24,
       "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
         "corriere.it",
         "repubblica.it",
-        "fanpage.it",
         "ilgiornale.it",
         "lastampa.it",
-        "liberoquotidiano.it",
+        "fanpage.it",
         "news.google.com"
       ]
     },
     {
       "rank": 2,
+      "title": "Roma, auto fugge all'alt della polizia e travolge un’altra macchina: sterminata una famiglia di 3 persone",
+      "source_count": 10,
+      "article_count": 11,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "ansa.it",
+        "roma.corriere.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "roma.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Crosetto: “Io bloccato dall’attacco? Nella Ue nessuno lo sapeva, imprevedibili i missili a Dubai”",
       "source_count": 10,
       "article_count": 10,
@@ -37,41 +57,25 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Roma, ladri in fuga con un'auto invadono la corsia opposta e travolgono un'altra vettura: sterminata una famiglia di tre persone",
-      "source_count": 9,
-      "article_count": 10,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "ansa.it",
-        "roma.corriere.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "roma.repubblica.it",
-        "ilsole24ore.com",
-        "agi.it"
-      ]
-    },
-    {
       "rank": 4,
-      "title": "Italiani bloccati a Dubai, tra loro 200 studenti. La Farnesina crea la 'Task Force Golfo'",
-      "source_count": 6,
-      "article_count": 11,
+      "title": "La Juve rimonta la Roma da 3-1 a 3-3, Gatti gela l’Olimpico in pieno recupero: lotta Champions apertissima",
+      "source_count": 7,
+      "article_count": 12,
       "source_domains": [
-        "roma.corriere.it",
-        "repubblica.it",
-        "ansa.it",
-        "liberoquotidiano.it",
         "ilgiornale.it",
-        "ilsole24ore.com"
+        "corriere.it",
+        "ansa.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it"
       ]
     },
     {
       "rank": 5,
       "title": "Sanremo, Sal Da Vinci: E' la vittoria di chi come me persevera nei sogni",
       "source_count": 8,
-      "article_count": 9,
+      "article_count": 8,
       "source_domains": [
         "corriere.it",
         "ilgiornale.it",
@@ -85,68 +89,72 @@
     },
     {
       "rank": 6,
-      "title": "La Juve rimonta la Roma da 3-1 a 3-3, Gatti gela l’Olimpico in pieno recupero: lotta Champions apertissima",
-      "source_count": 6,
+      "title": "Attacco all'Iran, chiuso lo spazio aereo in Medio Oriente: migliaia di voli bloccati",
+      "source_count": 5,
       "article_count": 10,
       "source_domains": [
-        "ilgiornale.it",
         "corriere.it",
-        "ansa.it",
         "fanpage.it",
-        "lastampa.it",
-        "liberoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Attacco al cuore del male",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "ilmanifesto.it",
-        "unita.it",
-        "video.corriere.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Iran, chi guida il Paese dopo l'uccisione di Khamenei: le 4 figure chiave",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "repubblica.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Spazio chiuso in Medio Oriente, voli cancellati: cosa succede al trasporto aereo dpo l'attacco all'Iran",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "corriere.it",
         "ilmessaggero.it",
         "ansa.it",
         "ilgiornale.it"
       ]
     },
     {
-      "rank": 10,
-      "title": "Di Matteo: \"Sto con con Gratteri, massoni e mafiosi voteranno Sì al referendum\"",
-      "source_count": 5,
-      "article_count": 5,
+      "rank": 7,
+      "title": "Cosa succederà in Iran dopo l’uccisione di Ali Khamenei e chi prenderà il suo posto",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ilgiornale.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "video.corriere.it"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Tram deragliato a Milano, il conducente indagato per «disastro ferroviario»",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "milano.corriere.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Di Matteo: \"Sto con con Gratteri, massoni e mafiosi voteranno Sì al referendum\"",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
         "adnkronos.com",
         "ilgiornale.it",
         "ansa.it",
+        "liberoquotidiano.it",
         "repubblica.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Italiani bloccati a Dubai, tra loro 200 studenti. La Farnesina crea la 'Task Force Golfo'",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
         "ilsole24ore.com"
       ]
     }
