@@ -1,16 +1,16 @@
 {
   "date": "2026-03-02",
-  "generated_at": "Lunedì 2 Marzo 15:50",
+  "generated_at": "Lunedì 2 Marzo 16:58",
   "stories": [
     {
       "rank": 1,
       "title": "Roma, ladri in fuga con un'auto invadono la corsia opposta e travolgono un'altra vettura: sterminata una famiglia di tre persone",
       "source_count": 13,
-      "article_count": 20,
+      "article_count": 21,
       "source_domains": [
+        "fanpage.it",
         "roma.repubblica.it",
         "ilfattoquotidiano.it",
-        "fanpage.it",
         "unita.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
@@ -27,7 +27,7 @@
       "rank": 2,
       "title": "Tram deragliato a Milano, il conducente indagato per disastro ferroviario",
       "source_count": 11,
-      "article_count": 13,
+      "article_count": 14,
       "source_domains": [
         "fanpage.it",
         "adnkronos.com",
@@ -44,6 +44,38 @@
     },
     {
       "rank": 3,
+      "title": "Attacco Iran, la guerra si allarga. Abbattuto caccia Usa in Kuwait. Israele colpisce il Libano: \"Non esclusa invasione di terra\"",
+      "source_count": 8,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "unita.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "repubblica.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Crosetto: “Io bloccato dall’attacco? Nella Ue nessuno lo sapeva, imprevedibili i missili a Dubai”",
+      "source_count": 8,
+      "article_count": 14,
+      "source_domains": [
+        "fanpage.it",
+        "video.corriere.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "liberoquotidiano.it"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "La Juve rimonta la Roma da 3-1 a 3-3, Gatti gela l’Olimpico in pieno recupero: lotta Champions apertissima",
       "source_count": 7,
       "article_count": 15,
@@ -58,50 +90,39 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Missili dall'Iran, forti esplosioni a Gerusalemme: il videoracconto",
-      "source_count": 4,
-      "article_count": 18,
+      "rank": 6,
+      "title": "Centinaia di italiani bloccati a Dubai, nessun rischio ma cresce l'ansia",
+      "source_count": 6,
+      "article_count": 15,
       "source_domains": [
-        "video.corriere.it",
-        "repubblica.it",
         "liberoquotidiano.it",
-        "news.google.com"
+        "adnkronos.com",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "roma.corriere.it"
       ]
     },
     {
-      "rank": 5,
-      "title": "Attacco Iran, la guerra si allarga. Abbattuto caccia Usa in Kuwait. Israele colpisce il Libano: \"Non esclusa invasione di terra\"",
-      "source_count": 8,
-      "article_count": 13,
+      "rank": 7,
+      "title": "Brignone: “Ho chiesto troppo al mio corpo, mi prendo una pausa”",
+      "source_count": 10,
+      "article_count": 10,
       "source_domains": [
-        "ansa.it",
         "ilgiornale.it",
-        "unita.it",
-        "adnkronos.com",
+        "fanpage.it",
         "ilfattoquotidiano.it",
+        "adnkronos.com",
         "corriere.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
         "repubblica.it",
         "lastampa.it"
       ]
     },
     {
-      "rank": 6,
-      "title": "Attacco all'Iran, chiuso lo spazio aereo in Medio Oriente: migliaia di voli bloccati",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "ilmessaggero.it",
-        "repubblica.it",
-        "corriere.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilgiornale.it"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "title": "Navi bloccate a Hormuz, allarme petrolio e commercio mondiale",
       "source_count": 7,
       "article_count": 11,
@@ -116,49 +137,35 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Brignone: “Ho chiesto troppo al mio corpo, mi prendo una pausa”",
+      "rank": 9,
+      "title": "Forlì, cinque anziani morti sull’ambulanza: operatore di Croce rossa indagato per omicidio plurimo",
       "source_count": 9,
       "article_count": 9,
       "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
+        "unita.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
-        "corriere.it",
         "ansa.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Italiani bloccati a Dubai, tra loro 200 studenti. La Farnesina crea la 'Task Force Golfo'",
-      "source_count": 6,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
         "liberoquotidiano.it",
-        "ilgiornale.it",
-        "roma.corriere.it",
-        "repubblica.it"
+        "corrieredibologna.corriere.it",
+        "lastampa.it",
+        "bologna.repubblica.it",
+        "fanpage.it"
       ]
     },
     {
       "rank": 10,
-      "title": "Crosetto: “Io bloccato dall’attacco? Nella Ue nessuno lo sapeva, imprevedibili i missili a Dubai”",
+      "title": "Ex Ilva di Taranto, operaio 36enne precipita da una passerella alta dieci metri: muore in ospedale",
       "source_count": 7,
       "article_count": 10,
       "source_domains": [
-        "roma.corriere.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "fanpage.it",
         "lastampa.it",
+        "unita.it",
         "ansa.it",
-        "liberoquotidiano.it"
+        "adnkronos.com",
+        "bari.corriere.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it"
       ]
     }
   ]
