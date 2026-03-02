@@ -1,37 +1,18 @@
 {
   "date": "2026-03-02",
-  "generated_at": "Lunedì 2 Marzo 10:55",
+  "generated_at": "Lunedì 2 Marzo 11:36",
   "stories": [
     {
       "rank": 1,
-      "title": "Missili dall'Iran, forti esplosioni a Gerusalemme: il videoracconto",
-      "source_count": 11,
-      "article_count": 23,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "unita.it",
-        "video.corriere.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Roma, auto fugge all'alt della polizia e travolge un’altra macchina: sterminata una famiglia di 3 persone",
       "source_count": 11,
-      "article_count": 14,
+      "article_count": 16,
       "source_domains": [
-        "unita.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ilgiornale.it",
         "fanpage.it",
+        "unita.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ilgiornale.it",
         "ansa.it",
         "roma.corriere.it",
         "roma.repubblica.it",
@@ -41,44 +22,60 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Crosetto: “Io bloccato dall’attacco? Nella Ue nessuno lo sapeva, imprevedibili i missili a Dubai”",
+      "rank": 2,
+      "title": "Attacco Iran, la guerra si allarga. Abbattuto caccia Usa in Kuwait. Israele colpisce il Libano: \"Non esclusa invasione di terra\"",
       "source_count": 10,
-      "article_count": 11,
+      "article_count": 15,
       "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "unita.it",
+        "laverita.info",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "repubblica.it",
+        "fanpage.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Attacco all’Iran, resa dei conti in Medio Oriente. Il punto in diretta",
+      "source_count": 4,
+      "article_count": 19,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "video.corriere.it",
+        "repubblica.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Crosetto rientra in Italia da Dubai con un aereo militare: \"Torno da solo e pago il triplo\"",
+      "source_count": 10,
+      "article_count": 12,
+      "source_domains": [
+        "ilgiornale.it",
         "fanpage.it",
         "roma.corriere.it",
         "repubblica.it",
         "lastampa.it",
         "ansa.it",
         "liberoquotidiano.it",
-        "ilgiornale.it",
         "ilmessaggero.it",
         "ilsole24ore.com",
         "news.google.com"
       ]
     },
     {
-      "rank": 4,
-      "title": "La Juve rimonta la Roma da 3-1 a 3-3, Gatti gela l’Olimpico in pieno recupero: lotta Champions apertissima",
-      "source_count": 7,
-      "article_count": 12,
-      "source_domains": [
-        "ilgiornale.it",
-        "corriere.it",
-        "ansa.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it"
-      ]
-    },
-    {
       "rank": 5,
       "title": "Tram deragliato a Milano, il conducente indagato per disastro ferroviario",
-      "source_count": 9,
-      "article_count": 10,
+      "source_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "adnkronos.com",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "fanpage.it",
@@ -92,6 +89,21 @@
     },
     {
       "rank": 6,
+      "title": "La Juve rimonta la Roma da 3-1 a 3-3, Gatti gela l’Olimpico in pieno recupero: lotta Champions apertissima",
+      "source_count": 7,
+      "article_count": 13,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "ansa.it",
+        "fanpage.it",
+        "lastampa.it",
+        "liberoquotidiano.it"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Attacco all'Iran, chiuso lo spazio aereo in Medio Oriente: migliaia di voli bloccati",
       "source_count": 7,
       "article_count": 11,
@@ -106,34 +118,37 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Italiani bloccati a Dubai, tra loro 200 studenti. La Farnesina crea la 'Task Force Golfo'",
-      "source_count": 5,
+      "rank": 8,
+      "title": "Navi bloccate a Hormuz, allarme petrolio e commercio mondiale",
+      "source_count": 7,
       "article_count": 10,
       "source_domains": [
-        "ansa.it",
-        "roma.corriere.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Cosa succederà in Iran dopo l’uccisione di Ali Khamenei e chi prenderà il suo posto",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "liberoquotidiano.it",
         "ilgiornale.it",
-        "repubblica.it",
         "adnkronos.com",
+        "ansa.it",
+        "corriere.it",
+        "repubblica.it",
         "fanpage.it",
-        "ilfattoquotidiano.it"
+        "lastampa.it"
       ]
     },
     {
       "rank": 9,
+      "title": "Pioggia di missili su Dubai, il racconto di un’italiana bloccata: “Aeroporto danneggiato, non sappiamo che fare”",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "roma.corriere.it",
+        "repubblica.it",
+        "ansa.it",
+        "fanpage.it"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Sanremo, Sal Da Vinci: E' la vittoria di chi come me persevera nei sogni",
       "source_count": 7,
       "article_count": 7,
@@ -145,21 +160,6 @@
         "fanpage.it",
         "ansa.it",
         "liberoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Di Matteo: \"Sto con con Gratteri, massoni e mafiosi voteranno Sì al referendum\"",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
       ]
     }
   ]
