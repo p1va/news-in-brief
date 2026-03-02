@@ -1,6 +1,6 @@
 {
   "date": "2026-03-02",
-  "generated_at": "Lunedì 2 Marzo 20:44",
+  "generated_at": "Lunedì 2 Marzo 21:45",
   "stories": [
     {
       "rank": 1,
@@ -25,30 +25,9 @@
     },
     {
       "rank": 2,
-      "title": "Il boss Nitto Santapaola morto nel carcere di Opera a Milano",
-      "source_count": 13,
-      "article_count": 14,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "milano.corriere.it",
-        "palermo.repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it",
-        "ilfoglio.it"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Crosetto sul viaggio a Dubai: «Ero lì in ferie con i miei figli»",
-      "source_count": 8,
-      "article_count": 18,
+      "source_count": 9,
+      "article_count": 19,
       "source_domains": [
         "liberoquotidiano.it",
         "fanpage.it",
@@ -57,7 +36,29 @@
         "video.corriere.it",
         "lastampa.it",
         "repubblica.it",
-        "ansa.it"
+        "ansa.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Il boss Nitto Santapaola morto nel carcere di Opera a Milano",
+      "source_count": 13,
+      "article_count": 15,
+      "source_domains": [
+        "corriere.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "palermo.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it",
+        "ilfoglio.it"
       ]
     },
     {
@@ -81,6 +82,19 @@
     },
     {
       "rank": 5,
+      "title": "Attacco Iran, Tajani: Crisi incide su nostra sicurezza nazionale",
+      "source_count": 5,
+      "article_count": 21,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "video.corriere.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Attacco Iran, la guerra si allarga. Abbattuto caccia Usa in Kuwait. Israele colpisce il Libano: \"Non esclusa invasione di terra\"",
       "source_count": 8,
       "article_count": 13,
@@ -96,7 +110,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Ex Ilva di Taranto, operaio 36enne precipita da una passerella alta dieci metri: muore in ospedale",
       "source_count": 8,
       "article_count": 13,
@@ -112,31 +126,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Attacco Iran, Tajani: Crisi incide su nostra sicurezza nazionale",
-      "source_count": 2,
-      "article_count": 19,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "repubblica.it"
-      ]
-    },
-    {
       "rank": 8,
-      "title": "Missili dall'Iran, forti esplosioni a Gerusalemme: il videoracconto",
-      "source_count": 6,
-      "article_count": 14,
-      "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "video.corriere.it",
-        "repubblica.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Brignone: “Ho chiesto troppo al mio corpo, mi prendo una pausa”",
       "source_count": 10,
       "article_count": 10,
@@ -154,16 +144,36 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "La Juve rimonta la Roma da 3-1 a 3-3, Gatti gela l’Olimpico in pieno recupero: lotta Champions apertissima",
-      "source_count": 6,
-      "article_count": 13,
+      "rank": 9,
+      "title": "Per l’Istat deficit 2025 al 3,1%, Pil a + 0,5%",
+      "source_count": 9,
+      "article_count": 9,
       "source_domains": [
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "unita.it",
+        "fanpage.it",
+        "adnkronos.com",
         "corriere.it",
         "ansa.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Forlì, cinque anziani morti sull’ambulanza: operatore di Croce rossa indagato per omicidio plurimo",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "corrieredibologna.corriere.it",
+        "lastampa.it",
+        "bologna.repubblica.it",
         "fanpage.it"
       ]
     }
