@@ -1,6 +1,6 @@
 {
   "date": "2026-03-02",
-  "generated_at": "Lunedì 2 Marzo 19:02",
+  "generated_at": "Lunedì 2 Marzo 19:43",
   "stories": [
     {
       "rank": 1,
@@ -61,7 +61,7 @@
       "rank": 4,
       "title": "Attacco Iran, la guerra si allarga. Abbattuto caccia Usa in Kuwait. Israele colpisce il Libano: \"Non esclusa invasione di terra\"",
       "source_count": 8,
-      "article_count": 14,
+      "article_count": 13,
       "source_domains": [
         "ansa.it",
         "ilgiornale.it",
@@ -90,16 +90,18 @@
     },
     {
       "rank": 6,
-      "title": "Italiani bloccati a Dubai, tra loro 200 studenti. La Farnesina crea la 'Task Force Golfo'",
-      "source_count": 6,
-      "article_count": 14,
+      "title": "Ex Ilva di Taranto, operaio 36enne precipita da una passerella alta dieci metri: muore in ospedale",
+      "source_count": 8,
+      "article_count": 13,
       "source_domains": [
-        "adnkronos.com",
-        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "lastampa.it",
+        "unita.it",
         "ansa.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "roma.corriere.it"
+        "adnkronos.com",
+        "bari.corriere.it",
+        "ilsole24ore.com"
       ]
     },
     {
@@ -122,44 +124,44 @@
     },
     {
       "rank": 8,
-      "title": "Attacco Iran, Tajani: Crisi incide su nostra sicurezza nazionale",
-      "source_count": 1,
-      "article_count": 18,
+      "title": "Il boss Nitto Santapaola morto nel carcere di Opera a Milano",
+      "source_count": 10,
+      "article_count": 10,
       "source_domains": [
-        "liberoquotidiano.it"
+        "fanpage.it",
+        "adnkronos.com",
+        "ansa.it",
+        "milano.corriere.it",
+        "palermo.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it",
+        "ilfoglio.it"
       ]
     },
     {
       "rank": 9,
-      "title": "Ex Ilva di Taranto, operaio 36enne precipita da una passerella alta dieci metri: muore in ospedale",
-      "source_count": 8,
-      "article_count": 11,
+      "title": "Italiani bloccati a Dubai, tra loro 200 studenti. La Farnesina crea la 'Task Force Golfo'",
+      "source_count": 6,
+      "article_count": 13,
       "source_domains": [
-        "lastampa.it",
-        "unita.it",
-        "ansa.it",
         "adnkronos.com",
-        "bari.corriere.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilsole24ore.com"
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "roma.corriere.it"
       ]
     },
     {
       "rank": 10,
-      "title": "Forlì, cinque anziani morti sull’ambulanza: operatore di Croce rossa indagato per omicidio plurimo",
-      "source_count": 9,
-      "article_count": 9,
+      "title": "Attacco Iran, Tajani: Crisi incide su nostra sicurezza nazionale",
+      "source_count": 2,
+      "article_count": 17,
       "source_domains": [
-        "unita.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ansa.it",
         "liberoquotidiano.it",
-        "corrieredibologna.corriere.it",
-        "lastampa.it",
-        "bologna.repubblica.it",
-        "fanpage.it"
+        "repubblica.it"
       ]
     }
   ]
