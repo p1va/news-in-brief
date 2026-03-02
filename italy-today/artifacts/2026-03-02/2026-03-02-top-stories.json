@@ -1,6 +1,6 @@
 {
   "date": "2026-03-02",
-  "generated_at": "Lunedì 2 Marzo 13:13",
+  "generated_at": "Lunedì 2 Marzo 14:50",
   "stories": [
     {
       "rank": 1,
@@ -26,18 +26,17 @@
     {
       "rank": 2,
       "title": "Attacco Iran, la guerra si allarga. Abbattuto caccia Usa in Kuwait. Israele colpisce il Libano: \"Non esclusa invasione di terra\"",
-      "source_count": 10,
+      "source_count": 9,
       "article_count": 15,
       "source_domains": [
-        "ilgiornale.it",
         "ansa.it",
+        "ilgiornale.it",
         "unita.it",
         "laverita.info",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "corriere.it",
         "repubblica.it",
-        "fanpage.it",
         "lastampa.it"
       ]
     },
@@ -62,40 +61,6 @@
     },
     {
       "rank": 4,
-      "title": "Centinaia di italiani bloccati a Dubai, nessun rischio ma cresce l'ansia",
-      "source_count": 8,
-      "article_count": 14,
-      "source_domains": [
-        "adnkronos.com",
-        "repubblica.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "roma.corriere.it",
-        "liberoquotidiano.it",
-        "fanpage.it"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Crosetto rientra in Italia da Dubai con un aereo militare: \"Torno da solo e pago il triplo\"",
-      "source_count": 10,
-      "article_count": 12,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "roma.corriere.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "La Juve rimonta la Roma da 3-1 a 3-3, Gatti gela l’Olimpico in pieno recupero: lotta Champions apertissima",
       "source_count": 7,
       "article_count": 15,
@@ -110,22 +75,37 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "title": "Italiani bloccati a Dubai, tra loro 200 studenti. La Farnesina crea la 'Task Force Golfo'",
+      "source_count": 7,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilgiornale.it",
+        "roma.corriere.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Missili dall'Iran, forti esplosioni a Gerusalemme: il videoracconto",
       "source_count": 4,
-      "article_count": 17,
+      "article_count": 16,
       "source_domains": [
         "video.corriere.it",
-        "repubblica.it",
         "liberoquotidiano.it",
+        "repubblica.it",
         "news.google.com"
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Attacco all'Iran, chiuso lo spazio aereo in Medio Oriente: migliaia di voli bloccati",
       "source_count": 7,
-      "article_count": 13,
+      "article_count": 11,
       "source_domains": [
         "ilmessaggero.it",
         "repubblica.it",
@@ -137,14 +117,14 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Navi bloccate a Hormuz, allarme petrolio e commercio mondiale",
       "source_count": 7,
-      "article_count": 12,
+      "article_count": 11,
       "source_domains": [
-        "ansa.it",
         "adnkronos.com",
         "ilgiornale.it",
+        "ansa.it",
         "corriere.it",
         "repubblica.it",
         "fanpage.it",
@@ -152,19 +132,35 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Il Pil sale dello 0,5% nel 2025, il deficit è al 3,1%",
-      "source_count": 8,
-      "article_count": 8,
+      "rank": 9,
+      "title": "Cosa succederà in Iran dopo l’uccisione di Ali Khamenei e chi prenderà il suo posto",
+      "source_count": 7,
+      "article_count": 11,
       "source_domains": [
-        "unita.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "laverita.info",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "fanpage.it"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Brignone: “Ho chiesto troppo al mio corpo, mi prendo una pausa”",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
         "fanpage.it",
+        "ilfattoquotidiano.it",
         "adnkronos.com",
         "corriere.it",
         "ansa.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "ilsole24ore.com"
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
       ]
     }
   ]
