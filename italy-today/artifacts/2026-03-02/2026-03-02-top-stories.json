@@ -1,36 +1,39 @@
 {
   "date": "2026-03-02",
-  "generated_at": "Lunedì 2 Marzo 09:58",
+  "generated_at": "Lunedì 2 Marzo 10:55",
   "stories": [
     {
       "rank": 1,
       "title": "Missili dall'Iran, forti esplosioni a Gerusalemme: il videoracconto",
-      "source_count": 9,
-      "article_count": 21,
+      "source_count": 11,
+      "article_count": 23,
       "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
         "unita.it",
-        "liberoquotidiano.it",
         "video.corriere.it",
+        "liberoquotidiano.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
-        "ansa.it",
         "repubblica.it",
         "ilgiornale.it",
+        "lastampa.it",
         "news.google.com"
       ]
     },
     {
       "rank": 2,
       "title": "Roma, auto fugge all'alt della polizia e travolge un’altra macchina: sterminata una famiglia di 3 persone",
-      "source_count": 10,
-      "article_count": 12,
+      "source_count": 11,
+      "article_count": 14,
       "source_domains": [
+        "unita.it",
+        "adnkronos.com",
         "ilmessaggero.it",
         "ilgiornale.it",
         "fanpage.it",
         "ansa.it",
         "roma.corriere.it",
-        "adnkronos.com",
         "roma.repubblica.it",
         "lastampa.it",
         "ilsole24ore.com",
@@ -72,6 +75,23 @@
     },
     {
       "rank": 5,
+      "title": "Tram deragliato a Milano, il conducente indagato per disastro ferroviario",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "milano.corriere.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Attacco all'Iran, chiuso lo spazio aereo in Medio Oriente: migliaia di voli bloccati",
       "source_count": 7,
       "article_count": 11,
@@ -86,56 +106,37 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Iran, lacrime in diretta tv per la morte di Khamenei",
-      "source_count": 7,
+      "rank": 7,
+      "title": "Italiani bloccati a Dubai, tra loro 200 studenti. La Farnesina crea la 'Task Force Golfo'",
+      "source_count": 5,
       "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "roma.corriere.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Cosa succederà in Iran dopo l’uccisione di Ali Khamenei e chi prenderà il suo posto",
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
         "liberoquotidiano.it",
         "ilgiornale.it",
         "repubblica.it",
         "adnkronos.com",
         "fanpage.it",
-        "ilfattoquotidiano.it",
-        "video.corriere.it"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Tram deragliato a Milano, il conducente indagato per disastro ferroviario",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "milano.corriere.it",
-        "ilmessaggero.it",
-        "milano.repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Pioggia di missili su Dubai, il racconto di un’italiana bloccata: “Aeroporto danneggiato, non sappiamo che fare”",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "roma.corriere.it",
-        "repubblica.it",
-        "ansa.it",
-        "fanpage.it",
-        "ilgiornale.it"
+        "ilfattoquotidiano.it"
       ]
     },
     {
       "rank": 9,
       "title": "Sanremo, Sal Da Vinci: E' la vittoria di chi come me persevera nei sogni",
-      "source_count": 8,
-      "article_count": 8,
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
         "corriere.it",
         "ilgiornale.it",
@@ -143,8 +144,7 @@
         "ilmessaggero.it",
         "fanpage.it",
         "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
+        "liberoquotidiano.it"
       ]
     },
     {
@@ -153,11 +153,11 @@
       "source_count": 7,
       "article_count": 7,
       "source_domains": [
+        "fanpage.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "ilgiornale.it",
         "ansa.it",
-        "liberoquotidiano.it",
         "repubblica.it",
         "ilsole24ore.com"
       ]
