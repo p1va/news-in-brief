@@ -1,6 +1,6 @@
 {
   "date": "2026-03-02",
-  "generated_at": "Lunedì 2 Marzo 19:43",
+  "generated_at": "Lunedì 2 Marzo 20:44",
   "stories": [
     {
       "rank": 1,
@@ -25,6 +25,43 @@
     },
     {
       "rank": 2,
+      "title": "Il boss Nitto Santapaola morto nel carcere di Opera a Milano",
+      "source_count": 13,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "milano.corriere.it",
+        "palermo.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it",
+        "ilfoglio.it"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Crosetto sul viaggio a Dubai: «Ero lì in ferie con i miei figli»",
+      "source_count": 8,
+      "article_count": 18,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "video.corriere.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ansa.it"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Tram deragliato a Milano, il conducente indagato per disastro ferroviario",
       "source_count": 11,
       "article_count": 15,
@@ -43,22 +80,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Crosetto: “Io bloccato dall’attacco? Nella Ue nessuno lo sapeva, imprevedibili i missili a Dubai”",
-      "source_count": 7,
-      "article_count": 17,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "video.corriere.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ansa.it"
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "title": "Attacco Iran, la guerra si allarga. Abbattuto caccia Usa in Kuwait. Israele colpisce il Libano: \"Non esclusa invasione di terra\"",
       "source_count": 8,
       "article_count": 13,
@@ -71,21 +93,6 @@
         "corriere.it",
         "repubblica.it",
         "lastampa.it"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "La Juve rimonta la Roma da 3-1 a 3-3, Gatti gela l’Olimpico in pieno recupero: lotta Champions apertissima",
-      "source_count": 7,
-      "article_count": 14,
-      "source_domains": [
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "ansa.it",
-        "fanpage.it",
-        "liberoquotidiano.it"
       ]
     },
     {
@@ -106,6 +113,30 @@
     },
     {
       "rank": 7,
+      "title": "Attacco Iran, Tajani: Crisi incide su nostra sicurezza nazionale",
+      "source_count": 2,
+      "article_count": 19,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Missili dall'Iran, forti esplosioni a Gerusalemme: il videoracconto",
+      "source_count": 6,
+      "article_count": 14,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "video.corriere.it",
+        "repubblica.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Brignone: “Ho chiesto troppo al mio corpo, mi prendo una pausa”",
       "source_count": 10,
       "article_count": 10,
@@ -123,45 +154,17 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Il boss Nitto Santapaola morto nel carcere di Opera a Milano",
-      "source_count": 10,
-      "article_count": 10,
-      "source_domains": [
-        "fanpage.it",
-        "adnkronos.com",
-        "ansa.it",
-        "milano.corriere.it",
-        "palermo.repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it",
-        "ilfoglio.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Italiani bloccati a Dubai, tra loro 200 studenti. La Farnesina crea la 'Task Force Golfo'",
+      "rank": 10,
+      "title": "La Juve rimonta la Roma da 3-1 a 3-3, Gatti gela l’Olimpico in pieno recupero: lotta Champions apertissima",
       "source_count": 6,
       "article_count": 13,
       "source_domains": [
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
         "ilgiornale.it",
-        "roma.corriere.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Attacco Iran, Tajani: Crisi incide su nostra sicurezza nazionale",
-      "source_count": 2,
-      "article_count": 17,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "repubblica.it"
+        "corriere.it",
+        "ansa.it",
+        "fanpage.it"
       ]
     }
   ]
