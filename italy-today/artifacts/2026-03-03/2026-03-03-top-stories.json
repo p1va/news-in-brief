@@ -1,67 +1,44 @@
 {
   "date": "2026-03-03",
-  "generated_at": "Martedì 3 Marzo 17:55",
+  "generated_at": "Martedì 3 Marzo 20:40",
   "stories": [
     {
       "rank": 1,
-      "title": "Morto in carcere Nitto Santapaola, tra i boss di Cosa Nostra uno dei più fedeli a Riina",
-      "source_count": 15,
-      "article_count": 18,
+      "title": "Allarme bomba nella sede di Fratelli d'Italia in via della Scrofa. Rientrato dopo l'intervento degli artificieri",
+      "source_count": 10,
+      "article_count": 12,
       "source_domains": [
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "unita.it",
-        "corriere.it",
-        "palermo.repubblica.it",
-        "ansa.it",
+        "roma.corriere.it",
         "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
+        "repubblica.it",
+        "ansa.it",
         "adnkronos.com",
-        "lastampa.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
         "ilsole24ore.com",
-        "agi.it",
-        "ilfoglio.it",
-        "news.google.com"
+        "ilfoglio.it"
       ]
     },
     {
       "rank": 2,
-      "title": "Iran, le news dalla guerra. Colpita ambasciata Usa a Riad. Missili di Teheran su Israele e Emirati",
+      "title": "Colpita l’ambasciata Usa a Riad. Trump: \"Siamo pieni di munizioni, possiamo fare guerra per sempre\".",
       "source_count": 9,
-      "article_count": 17,
+      "article_count": 12,
       "source_domains": [
-        "ansa.it",
-        "lastampa.it",
         "liberoquotidiano.it",
+        "ansa.it",
         "ilfattoquotidiano.it",
         "fanpage.it",
         "corriere.it",
         "adnkronos.com",
         "repubblica.it",
-        "ilgiornale.it"
+        "ilgiornale.it",
+        "lastampa.it"
       ]
     },
     {
       "rank": 3,
-      "title": "Meloni al Tg5 sulla guerra in Iran: \"L'obiettivo è che la crisi non dilaghi\"",
-      "source_count": 10,
-      "article_count": 14,
-      "source_domains": [
-        "ilgiornale.it",
-        "unita.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "video.corriere.it",
-        "laverita.info",
-        "ilmanifesto.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Paolo Mendico suicida a 14 anni, indagati 4 compagni di classe per stalking",
       "source_count": 9,
       "article_count": 9,
@@ -78,90 +55,102 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Allarme bomba nella sede di Fratelli d’Italia: agenti fanno evacuare il palazzo",
-      "source_count": 8,
-      "article_count": 9,
+      "rank": 4,
+      "title": "Borsa, l'Europa in picchiata con la guerra in Medio Oriente. Male i mercati asiatici",
+      "source_count": 6,
+      "article_count": 11,
       "source_domains": [
-        "repubblica.it",
         "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "fanpage.it",
-        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "repubblica.it",
         "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Voli cancellati in Medio Oriente, che fare (e quanto dura): da Sharm ad Abu Dhabi, riprotezione e come ottenere i rimborsi",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "repubblica.it"
       ]
     },
     {
       "rank": 6,
-      "title": "Anziani morti in ambulanza, \"omicidi premeditati e con sostanze letali\": le accuse contro l'operatore Croce Rossa",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "fanpage.it",
-        "ilmessaggero.it",
-        "corrieredibologna.corriere.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "lastampa.it",
-        "bologna.repubblica.it"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Crosetto: \"Avrò sbagliato come Ministro, ma a Dubai c'erano miei figli\"",
+      "title": "Teheran colpita da raid aerei dopo la mezzanotte",
       "source_count": 6,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "roma.corriere.it",
-        "repubblica.it",
         "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "lastampa.it",
+        "fanpage.it",
         "news.google.com"
       ]
     },
     {
-      "rank": 8,
-      "title": "Italiani bloccati, il primo volo di rientro",
-      "source_count": 6,
+      "rank": 7,
+      "title": "Meloni al Tg5 sulla guerra in Iran: \"L'obiettivo è che la crisi non dilaghi\"",
+      "source_count": 7,
       "article_count": 10,
       "source_domains": [
         "ilgiornale.it",
-        "liberoquotidiano.it",
+        "unita.it",
         "repubblica.it",
-        "roma.corriere.it",
+        "adnkronos.com",
+        "video.corriere.it",
+        "laverita.info",
+        "ilmanifesto.it"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Firenze, trascinato fuori dalla tramvia e violentato: la notte da incubo di un 17enne",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "ansa.it"
+        "fanpage.it",
+        "firenze.repubblica.it",
+        "ilgiornale.it",
+        "corrierefiorentino.corriere.it"
       ]
     },
     {
       "rank": 9,
-      "title": "Borsa, l'Europa parte pesante con la guerra in Medio Oriente. Male i mercati asiatici",
-      "source_count": 6,
-      "article_count": 10,
+      "title": "La guerra in Iran spinge il prezzo di gas e petrolio",
+      "source_count": 4,
+      "article_count": 12,
       "source_domains": [
-        "ansa.it",
+        "liberoquotidiano.it",
+        "video.corriere.it",
         "ilgiornale.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "repubblica.it"
       ]
     },
     {
       "rank": 10,
-      "title": "Morte David Rossi, il presidente della commissione d'inchiesta: «È stato un omicidio» e invia le perizie in Procura",
-      "source_count": 8,
-      "article_count": 8,
+      "title": "Caso David Rossi (Mps), la commissione parlamentare d’inchiesta: “È stato un omicidio”",
+      "source_count": 7,
+      "article_count": 9,
       "source_domains": [
-        "ilfattoquotidiano.it",
         "fanpage.it",
         "unita.it",
         "corrierefiorentino.corriere.it",
-        "liberoquotidiano.it",
         "ilgiornale.it",
+        "firenze.repubblica.it",
         "lastampa.it",
         "ansa.it"
       ]
