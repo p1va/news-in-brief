@@ -1,6 +1,6 @@
 {
   "date": "2026-03-03",
-  "generated_at": "Martedì 3 Marzo 14:56",
+  "generated_at": "Martedì 3 Marzo 15:54",
   "stories": [
     {
       "rank": 1,
@@ -27,9 +27,26 @@
     },
     {
       "rank": 2,
+      "title": "Iran, le news dalla guerra. Colpita ambasciata Usa a Riad. Missili di Teheran su Israele e Emirati",
+      "source_count": 9,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "corriere.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilgiornale.it"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Meloni al Tg5 sulla guerra in Iran: \"L'obiettivo è che la crisi non dilaghi\"",
       "source_count": 9,
-      "article_count": 15,
+      "article_count": 14,
       "source_domains": [
         "ilgiornale.it",
         "unita.it",
@@ -43,34 +60,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Colpita l’ambasciata Usa a Riad. Trump: \"Siamo pieni di munizioni, possiamo fare guerra per sempre\".",
-      "source_count": 9,
-      "article_count": 12,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "corriere.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ]
-    },
-    {
       "rank": 4,
-      "title": "Attacco Iran, Tajani: Crisi incide su nostra sicurezza nazionale",
-      "source_count": 2,
-      "article_count": 17,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Anziani morti in ambulanza, \"omicidi premeditati e con sostanze letali\": le accuse contro l'operatore Croce Rossa",
       "source_count": 8,
       "article_count": 10,
@@ -86,7 +76,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Paolo Mendico suicida a 14 anni, indagati 4 compagni di classe per stalking",
       "source_count": 9,
       "article_count": 9,
@@ -103,7 +93,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Italiani bloccati, il primo volo di rientro",
       "source_count": 6,
       "article_count": 10,
@@ -117,7 +107,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Firenze, trascinato fuori dalla tramvia e violentato: la notte da incubo di un 17enne",
       "source_count": 8,
       "article_count": 8,
@@ -133,7 +123,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Borsa, l'Europa parte pesante con la guerra in Medio Oriente. Male i mercati asiatici",
       "source_count": 6,
       "article_count": 9,
@@ -147,17 +137,30 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Crosetto: \"Avrò sbagliato come Ministro, ma a Dubai c'erano miei figli\"",
+      "rank": 9,
+      "title": "Parla il cardiochirurgo del Monaldi: 'Le cose le ho fatte bene, sono la vittima'",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
-        "roma.corriere.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "news.google.com"
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "napoli.corriere.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Voli cancellati in Medio Oriente, che fare (e quanto dura): da Sharm ad Abu Dhabi, riprotezione e come ottenere i rimborsi",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "fanpage.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "repubblica.it"
       ]
     }
   ]
