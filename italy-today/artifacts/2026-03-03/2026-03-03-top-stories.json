@@ -1,6 +1,6 @@
 {
   "date": "2026-03-03",
-  "generated_at": "Martedì 3 Marzo 16:58",
+  "generated_at": "Martedì 3 Marzo 17:55",
   "stories": [
     {
       "rank": 1,
@@ -27,12 +27,30 @@
     },
     {
       "rank": 2,
-      "title": "Meloni al Tg5 sulla guerra in Iran: \"L'obiettivo è che la crisi non dilaghi\"",
+      "title": "Iran, le news dalla guerra. Colpita ambasciata Usa a Riad. Missili di Teheran su Israele e Emirati",
       "source_count": 9,
-      "article_count": 13,
+      "article_count": 17,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "corriere.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilgiornale.it"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Meloni al Tg5 sulla guerra in Iran: \"L'obiettivo è che la crisi non dilaghi\"",
+      "source_count": 10,
+      "article_count": 14,
       "source_domains": [
         "ilgiornale.it",
         "unita.it",
+        "repubblica.it",
         "adnkronos.com",
         "video.corriere.it",
         "laverita.info",
@@ -40,23 +58,6 @@
         "fanpage.it",
         "ilfattoquotidiano.it",
         "ilsole24ore.com"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Colpita l’ambasciata Usa a Riad. Trump: \"Siamo pieni di munizioni, possiamo fare guerra per sempre\".",
-      "source_count": 9,
-      "article_count": 12,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "corriere.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it"
       ]
     },
     {
@@ -78,34 +79,22 @@
     },
     {
       "rank": 5,
-      "title": "Crosetto: \"Avrò sbagliato come Ministro, ma a Dubai c'erano miei figli\"",
-      "source_count": 6,
-      "article_count": 11,
+      "title": "Allarme bomba nella sede di Fratelli d’Italia: agenti fanno evacuare il palazzo",
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "roma.corriere.it",
         "repubblica.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
         "liberoquotidiano.it",
-        "news.google.com"
+        "ilsole24ore.com"
       ]
     },
     {
       "rank": 6,
-      "title": "Teheran colpita da raid aerei dopo la mezzanotte",
-      "source_count": 6,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Anziani morti in ambulanza, \"omicidi premeditati e con sostanze letali\": le accuse contro l'operatore Croce Rossa",
       "source_count": 7,
       "article_count": 9,
@@ -117,6 +106,20 @@
         "ansa.it",
         "lastampa.it",
         "bologna.repubblica.it"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Crosetto: \"Avrò sbagliato come Ministro, ma a Dubai c'erano miei figli\"",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "roma.corriere.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "news.google.com"
       ]
     },
     {
@@ -135,32 +138,32 @@
     },
     {
       "rank": 9,
-      "title": "Firenze, trascinato fuori dalla tramvia e violentato: la notte da incubo di un 17enne",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "firenze.repubblica.it",
-        "ilgiornale.it",
-        "corrierefiorentino.corriere.it"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Borsa, l'Europa parte pesante con la guerra in Medio Oriente. Male i mercati asiatici",
       "source_count": 6,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
-        "ilgiornale.it",
         "ansa.it",
+        "ilgiornale.it",
         "ilmessaggero.it",
         "repubblica.it",
         "lastampa.it",
         "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Morte David Rossi, il presidente della commissione d'inchiesta: «È stato un omicidio» e invia le perizie in Procura",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "unita.it",
+        "corrierefiorentino.corriere.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ansa.it"
       ]
     }
   ]
