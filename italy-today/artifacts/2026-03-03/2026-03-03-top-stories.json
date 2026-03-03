@@ -1,9 +1,42 @@
 {
   "date": "2026-03-03",
-  "generated_at": "Martedì 3 Marzo 20:40",
+  "generated_at": "Martedì 3 Marzo 21:41",
   "stories": [
     {
       "rank": 1,
+      "title": "Attacco all'Iran, volano i prezzi di gas e petrolio",
+      "source_count": 10,
+      "article_count": 22,
+      "source_domains": [
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "video.corriere.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Iran, le news dalla guerra. Colpita ambasciata Usa a Riad. Missili di Teheran su Israele e Emirati",
+      "source_count": 7,
+      "article_count": 15,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "corriere.it",
+        "repubblica.it",
+        "ilgiornale.it"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Allarme bomba nella sede di Fratelli d'Italia in via della Scrofa. Rientrato dopo l'intervento degli artificieri",
       "source_count": 10,
       "article_count": 12,
@@ -21,33 +54,17 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Colpita l’ambasciata Usa a Riad. Trump: \"Siamo pieni di munizioni, possiamo fare guerra per sempre\".",
-      "source_count": 9,
-      "article_count": 12,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "corriere.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "title": "Paolo Mendico suicida a 14 anni, indagati 4 compagni di classe per stalking",
-      "source_count": 9,
-      "article_count": 9,
+      "source_count": 10,
+      "article_count": 10,
       "source_domains": [
         "unita.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "liberoquotidiano.it",
+        "roma.repubblica.it",
         "fanpage.it",
         "lastampa.it",
         "roma.corriere.it",
@@ -55,29 +72,15 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Borsa, l'Europa in picchiata con la guerra in Medio Oriente. Male i mercati asiatici",
-      "source_count": 6,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
       "rank": 5,
       "title": "Voli cancellati in Medio Oriente, che fare (e quanto dura): da Sharm ad Abu Dhabi, riprotezione e come ottenere i rimborsi",
       "source_count": 7,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "corriere.it",
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "fanpage.it",
-        "corriere.it",
         "ilmessaggero.it",
         "ilgiornale.it",
         "repubblica.it"
@@ -85,20 +88,6 @@
     },
     {
       "rank": 6,
-      "title": "Teheran colpita da raid aerei dopo la mezzanotte",
-      "source_count": 6,
-      "article_count": 11,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "lastampa.it",
-        "fanpage.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Meloni al Tg5 sulla guerra in Iran: \"L'obiettivo è che la crisi non dilaghi\"",
       "source_count": 7,
       "article_count": 10,
@@ -113,7 +102,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Firenze, trascinato fuori dalla tramvia e violentato: la notte da incubo di un 17enne",
       "source_count": 8,
       "article_count": 9,
@@ -129,30 +118,46 @@
       ]
     },
     {
+      "rank": 8,
+      "title": "Chi è Mojtaba Khamenei la nuova Guida Suprema dell'Iran",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "fanpage.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilmanifesto.it"
+      ]
+    },
+    {
       "rank": 9,
-      "title": "La guerra in Iran spinge il prezzo di gas e petrolio",
-      "source_count": 4,
-      "article_count": 12,
+      "title": "Teheran colpita da raid aerei dopo la mezzanotte",
+      "source_count": 5,
+      "article_count": 11,
       "source_domains": [
         "liberoquotidiano.it",
-        "video.corriere.it",
+        "adnkronos.com",
+        "ansa.it",
         "ilgiornale.it",
-        "repubblica.it"
+        "news.google.com"
       ]
     },
     {
       "rank": 10,
-      "title": "Caso David Rossi (Mps), la commissione parlamentare d’inchiesta: “È stato un omicidio”",
-      "source_count": 7,
-      "article_count": 9,
+      "title": "Morte David Rossi, il presidente della commissione d'inchiesta: «È stato un omicidio» e invia le perizie in Procura",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "fanpage.it",
         "unita.it",
         "corrierefiorentino.corriere.it",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "firenze.repubblica.it",
-        "lastampa.it",
-        "ansa.it"
+        "lastampa.it"
       ]
     }
   ]
