@@ -1,6 +1,6 @@
 {
   "date": "2026-03-03",
-  "generated_at": "Martedì 3 Marzo 09:53",
+  "generated_at": "Martedì 3 Marzo 10:53",
   "stories": [
     {
       "rank": 1,
@@ -73,27 +73,27 @@
     },
     {
       "rank": 5,
-      "title": "Iran, Trump: prevediamo 4-5 settimane guerra, ma possiamo più a lungo",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "corriere.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "liberoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Attacco Iran, Tajani: Crisi incide su nostra sicurezza nazionale",
       "source_count": 2,
       "article_count": 13,
       "source_domains": [
         "liberoquotidiano.it",
         "ilgiornale.it"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Paolo Mendico suicida a 14 anni, indagati 4 compagni di classe per stalking",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "lastampa.it",
+        "roma.corriere.it",
+        "ilmessaggero.it"
       ]
     },
     {
@@ -112,14 +112,16 @@
     },
     {
       "rank": 8,
-      "title": "Il balzo di gas (+40%) e petrolio: ora rischi su bollette e benzina",
-      "source_count": 4,
-      "article_count": 8,
+      "title": "Iran, Trump: prevediamo 4-5 settimane guerra, ma possiamo più a lungo",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
+        "corriere.it",
+        "ansa.it",
         "ilgiornale.it",
-        "video.corriere.it",
-        "fanpage.it",
-        "repubblica.it"
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "news.google.com"
       ]
     },
     {
@@ -138,14 +140,15 @@
     },
     {
       "rank": 10,
-      "title": "Borsa, l'Europa parte pesante con la guerra in Medio Oriente. Male i mercati asiatici",
-      "source_count": 5,
-      "article_count": 7,
+      "title": "Diplomazia e sicurezza, gli obiettivi di Meloni dopo l'attacco in Iran: \"Caos figlio di guerra in Ucraina\"",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
-        "ansa.it",
+        "unita.it",
+        "ilgiornale.it",
         "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it",
+        "ilmanifesto.it",
+        "ilfattoquotidiano.it",
         "ilsole24ore.com"
       ]
     }
