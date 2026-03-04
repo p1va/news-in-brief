@@ -1,6 +1,6 @@
 {
   "date": "2026-03-04",
-  "generated_at": "Mercoledì 4 Marzo 11:37",
+  "generated_at": "Mercoledì 4 Marzo 13:09",
   "stories": [
     {
       "rank": 1,
@@ -25,6 +25,41 @@
     },
     {
       "rank": 2,
+      "title": "Nola, il feretro del piccolo Domenico arrivato in cattedrale. Attesa per la premier Meloni",
+      "source_count": 8,
+      "article_count": 15,
+      "source_domains": [
+        "fanpage.it",
+        "napoli.corriere.it",
+        "ansa.it",
+        "lastampa.it",
+        "napoli.repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Chi è Mojtaba, il figlio di Khamenei scelto come successore del padre: sarà la nuova Guida suprema dell’Iran",
+      "source_count": 11,
+      "article_count": 12,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "laverita.info",
+        "unita.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "lastampa.it",
+        "repubblica.it",
+        "fanpage.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Raid di Israele in Libano. Missili di Usa e Idf a Teheran. Iran: “Controlliamo lo stretto di Hormuz”",
       "source_count": 7,
       "article_count": 15,
@@ -39,68 +74,36 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Chi è Mojtaba, il figlio di Khamenei scelto come successore del padre: sarà la nuova Guida suprema dell’Iran",
-      "source_count": 10,
-      "article_count": 10,
-      "source_domains": [
-        "laverita.info",
-        "unita.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "corriere.it",
-        "lastampa.it",
-        "repubblica.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Nola, il feretro del piccolo Domenico arrivato in cattedrale. Attesa per la premier Meloni",
-      "source_count": 7,
-      "article_count": 12,
-      "source_domains": [
-        "napoli.corriere.it",
-        "ansa.it",
-        "fanpage.it",
-        "napoli.repubblica.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "Attacco all'Iran, volano i prezzi di gas e petrolio",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "video.corriere.it"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Gedi cede La Stampa al Gruppo Sae, firmato il contratto preliminare",
-      "source_count": 8,
-      "article_count": 10,
+      "source_count": 9,
+      "article_count": 11,
       "source_domains": [
         "unita.it",
         "corriere.it",
         "ansa.it",
         "adnkronos.com",
+        "repubblica.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "lastampa.it",
         "ilfoglio.it"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Attacco all'Iran, volano i prezzi di gas e petrolio",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "ilgiornale.it",
+        "lastampa.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "video.corriere.it"
       ]
     },
     {
@@ -147,16 +150,14 @@
     },
     {
       "rank": 10,
-      "title": "Trump contro la Spagna: «Stop ai commerci con loro, non ci hanno dato le basi». E critica Starmer: «Non è mica Churchill»",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Iran, Trump: \"La Spagna ha negato le basi. Ho ordinato di rompere gli accordi commerciali\"",
+      "source_count": 4,
+      "article_count": 9,
       "source_domains": [
-        "laverita.info",
-        "unita.it",
-        "corriere.it",
-        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "ilgiornale.it",
-        "liberoquotidiano.it"
+        "adnkronos.com",
+        "repubblica.it"
       ]
     }
   ]
