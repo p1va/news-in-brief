@@ -1,12 +1,12 @@
 {
   "date": "2026-03-04",
-  "generated_at": "Mercoledì 4 Marzo 17:45",
+  "generated_at": "Mercoledì 4 Marzo 19:00",
   "stories": [
     {
       "rank": 1,
       "title": "Nola, il feretro del piccolo Domenico arrivato in cattedrale. Attesa per la premier Meloni",
-      "source_count": 10,
-      "article_count": 22,
+      "source_count": 9,
+      "article_count": 20,
       "source_domains": [
         "ansa.it",
         "ilgiornale.it",
@@ -16,7 +16,6 @@
         "fanpage.it",
         "napoli.repubblica.it",
         "adnkronos.com",
-        "ilmessaggero.it",
         "ilsole24ore.com"
       ]
     },
@@ -92,6 +91,21 @@
     },
     {
       "rank": 6,
+      "title": "Borse, il costo della guerra in Iran",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Coppa Italia, Como e Inter non si fanno male: l’andata della semifinale finisce 0-0",
       "source_count": 8,
       "article_count": 9,
@@ -107,7 +121,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Libano sotto attacco di Israele, enormi colonne di fumo su Beirut",
       "source_count": 5,
       "article_count": 12,
@@ -120,26 +134,12 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Borse, il costo della guerra in Iran",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ]
-    },
-    {
       "rank": 9,
       "title": "Sì del Senato al ddl antisemitismo, 5S e Avs votano no, il Pd si divide",
-      "source_count": 7,
-      "article_count": 8,
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "ilgiornale.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "repubblica.it",
@@ -151,16 +151,16 @@
     },
     {
       "rank": 10,
-      "title": "Paralimpiadi Milano Cortina, niente atleti portabandiera alla cerimonia di apertura. Boicottaggio o logistica? Cosa sappiamo",
+      "title": "Sottomarino Usa attacca nave iraniana al largo dello Sri Lanka, 80 morti",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "adnkronos.com",
-        "fanpage.it",
+        "repubblica.it",
+        "ansa.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "corriere.it",
-        "repubblica.it"
+        "video.corriere.it",
+        "ilmessaggero.it"
       ]
     }
   ]
