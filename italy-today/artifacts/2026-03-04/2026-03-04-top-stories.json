@@ -1,42 +1,41 @@
 {
   "date": "2026-03-04",
-  "generated_at": "Mercoledì 4 Marzo 13:09",
+  "generated_at": "Mercoledì 4 Marzo 14:42",
   "stories": [
     {
       "rank": 1,
-      "title": "Terremoto a Catania, forte scossa di magnitudo 4.5 avvertita anche a Messina e Siracusa. Epicentro sull'Etna​",
-      "source_count": 13,
+      "title": "Nola, il feretro del piccolo Domenico arrivato in cattedrale. Attesa per la premier Meloni",
+      "source_count": 9,
+      "article_count": 19,
+      "source_domains": [
+        "ansa.it",
+        "video.corriere.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "lastampa.it",
+        "napoli.repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Terremoto a Catania, forte scossa di magnitudo 4.5: avvertita anche ad Augusta",
+      "source_count": 11,
       "article_count": 14,
       "source_domains": [
-        "unita.it",
         "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
         "corriere.it",
+        "ilgiornale.it",
         "adnkronos.com",
         "ansa.it",
         "fanpage.it",
         "ilmessaggero.it",
         "palermo.repubblica.it",
         "lastampa.it",
-        "agi.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Nola, il feretro del piccolo Domenico arrivato in cattedrale. Attesa per la premier Meloni",
-      "source_count": 8,
-      "article_count": 15,
-      "source_domains": [
-        "fanpage.it",
-        "napoli.corriere.it",
-        "ansa.it",
-        "lastampa.it",
-        "napoli.repubblica.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ]
     },
     {
@@ -77,10 +76,10 @@
       "rank": 5,
       "title": "Gedi cede La Stampa al Gruppo Sae, firmato il contratto preliminare",
       "source_count": 9,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
-        "unita.it",
         "corriere.it",
+        "unita.it",
         "ansa.it",
         "adnkronos.com",
         "repubblica.it",
