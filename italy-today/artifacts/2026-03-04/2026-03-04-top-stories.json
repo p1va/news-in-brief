@@ -1,6 +1,6 @@
 {
   "date": "2026-03-04",
-  "generated_at": "Mercoledì 4 Marzo 20:38",
+  "generated_at": "Mercoledì 4 Marzo 21:41",
   "stories": [
     {
       "rank": 1,
@@ -41,8 +41,8 @@
     {
       "rank": 3,
       "title": "Chi è Mojtaba Khamenei, l’erede prediletto dell’ayatollah sostenuto dall’ala dura dei pasdaran",
-      "source_count": 11,
-      "article_count": 14,
+      "source_count": 10,
+      "article_count": 12,
       "source_domains": [
         "ilgiornale.it",
         "lastampa.it",
@@ -53,27 +53,11 @@
         "ilfattoquotidiano.it",
         "corriere.it",
         "repubblica.it",
-        "fanpage.it",
-        "ilmessaggero.it"
+        "fanpage.it"
       ]
     },
     {
       "rank": 4,
-      "title": "Raid di Israele in Libano. Missili di Usa e Idf a Teheran. Iran: “Controlliamo lo stretto di Hormuz”",
-      "source_count": 7,
-      "article_count": 15,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "corriere.it",
-        "fanpage.it",
-        "repubblica.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Gedi cede La Stampa al Gruppo Sae, firmato il contratto preliminare",
       "source_count": 9,
       "article_count": 13,
@@ -90,22 +74,22 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Borse, il costo della guerra in Iran",
+      "rank": 5,
+      "title": "Raid di Israele in Libano. Missili di Usa e Idf a Teheran. Iran: “Controlliamo lo stretto di Hormuz”",
       "source_count": 7,
-      "article_count": 11,
+      "article_count": 13,
       "source_domains": [
-        "ilmessaggero.it",
         "ilgiornale.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
         "corriere.it",
         "fanpage.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it"
+        "repubblica.it",
+        "lastampa.it"
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Sì del Senato al ddl antisemitismo, 5S e Avs votano no, il Pd si divide",
       "source_count": 8,
       "article_count": 9,
@@ -118,6 +102,20 @@
         "ilmanifesto.it",
         "lastampa.it",
         "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Sottomarino Usa attacca nave iraniana al largo dello Sri Lanka, 80 morti",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "video.corriere.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it"
       ]
     },
     {
@@ -138,28 +136,31 @@
     },
     {
       "rank": 9,
-      "title": "Coppa Italia, Como e Inter non si fanno male: l’andata della semifinale finisce 0-0",
+      "title": "Depistaggi su Cucchi, la Cassazione assolve il colonnello Sabatino",
       "source_count": 7,
       "article_count": 8,
       "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "corriere.it",
-        "ansa.it",
         "fanpage.it",
+        "ansa.it",
+        "roma.repubblica.it",
+        "adnkronos.com",
+        "ilgiornale.it",
         "lastampa.it",
-        "ilmessaggero.it"
+        "ilfattoquotidiano.it"
       ]
     },
     {
       "rank": 10,
-      "title": "Bombe e missili statunitensi distruggono attrezzature militari iraniane: i video",
-      "source_count": 3,
-      "article_count": 12,
+      "title": "Mps, Luigi Lovaglio fuori dalla lista: attesa per il Cda",
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
-        "video.corriere.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
+        "corriere.it",
+        "ansa.it",
+        "lastampa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilgiornale.it"
       ]
     }
   ]
