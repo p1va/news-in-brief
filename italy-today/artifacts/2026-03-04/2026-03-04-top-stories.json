@@ -1,25 +1,60 @@
 {
   "date": "2026-03-04",
-  "generated_at": "Mercoledì 4 Marzo 07:43",
+  "generated_at": "Mercoledì 4 Marzo 08:50",
   "stories": [
     {
       "rank": 1,
-      "title": "Attacco all'Iran, volano i prezzi di gas e petrolio",
-      "source_count": 8,
-      "article_count": 10,
+      "title": "Terremoto a Catania, forte scossa di magnitudo 4.5: avvertita anche ad Augusta",
+      "source_count": 11,
+      "article_count": 12,
       "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "adnkronos.com",
+        "ansa.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "palermo.repubblica.it",
+        "lastampa.it",
+        "agi.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Borse, il costo della guerra in Iran",
+      "source_count": 9,
+      "article_count": 14,
+      "source_domains": [
+        "corriere.it",
         "ilgiornale.it",
         "fanpage.it",
         "adnkronos.com",
         "lastampa.it",
         "repubblica.it",
+        "ansa.it",
         "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "video.corriere.it"
+        "liberoquotidiano.it"
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "Raid di Israele in Libano. Missili di Usa e Idf a Teheran. Iran: “Controlliamo lo stretto di Hormuz”",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "repubblica.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Coppa Italia, Como e Inter non si fanno male: l’andata della semifinale finisce 0-0",
       "source_count": 8,
       "article_count": 9,
@@ -35,44 +70,14 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Terremoto a Catania, forte scossa di magnitudo 4.5: avvertita anche ad Augusta",
+      "rank": 5,
+      "title": "Chi è Mojtaba, il figlio di Khamenei scelto come successore del padre: sarà la nuova Guida suprema dell’Iran",
       "source_count": 8,
       "article_count": 8,
       "source_domains": [
-        "ilgiornale.it",
-        "corriere.it",
-        "adnkronos.com",
         "ansa.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "palermo.repubblica.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Raid di Israele in Libano. Missili di Usa e Idf a Teheran. Iran: “Controlliamo lo stretto di Hormuz”",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
         "ilfattoquotidiano.it",
         "corriere.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "repubblica.it",
-        "ansa.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Chi è Mojtaba Khamenei la nuova Guida Suprema dell'Iran",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "corriere.it",
-        "ansa.it",
         "lastampa.it",
         "repubblica.it",
         "fanpage.it",
@@ -136,14 +141,14 @@
     },
     {
       "rank": 10,
-      "title": "Deposizione sugli Epstein Files, l'ira di Hillary Clinton: «Me ne vado». E Bill: «La persona nella vasca con me? Non so»",
+      "title": "Crosetto: \"Falso che Meloni sia furibonda con me\"",
       "source_count": 4,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "repubblica.it",
-        "fanpage.it",
-        "corriere.it",
-        "lastampa.it"
+        "ilgiornale.it",
+        "roma.corriere.it",
+        "lastampa.it",
+        "fanpage.it"
       ]
     }
   ]
