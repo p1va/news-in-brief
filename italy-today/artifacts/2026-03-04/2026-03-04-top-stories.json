@@ -1,6 +1,6 @@
 {
   "date": "2026-03-04",
-  "generated_at": "Mercoledì 4 Marzo 19:44",
+  "generated_at": "Mercoledì 4 Marzo 20:38",
   "stories": [
     {
       "rank": 1,
@@ -122,6 +122,22 @@
     },
     {
       "rank": 8,
+      "title": "Mario Ruoso, patron di Telepordenone, ucciso a sprangate nella sua abitazione",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "corriere.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "fanpage.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Coppa Italia, Como e Inter non si fanno male: l’andata della semifinale finisce 0-0",
       "source_count": 7,
       "article_count": 8,
@@ -136,29 +152,14 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Sottomarino Usa attacca nave iraniana al largo dello Sri Lanka, 80 morti",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "video.corriere.it",
-        "ilmessaggero.it"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Iran, Sanchez risponde a Trump: \"No alla guerra, non saremo complici per paura di rappresaglie\"",
-      "source_count": 4,
-      "article_count": 8,
+      "title": "Bombe e missili statunitensi distruggono attrezzature militari iraniane: i video",
+      "source_count": 3,
+      "article_count": 12,
       "source_domains": [
+        "video.corriere.it",
         "liberoquotidiano.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "repubblica.it"
+        "lastampa.it"
       ]
     }
   ]
