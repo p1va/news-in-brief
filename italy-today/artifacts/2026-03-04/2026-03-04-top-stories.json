@@ -1,13 +1,15 @@
 {
   "date": "2026-03-04",
-  "generated_at": "Mercoledì 4 Marzo 09:51",
+  "generated_at": "Mercoledì 4 Marzo 10:44",
   "stories": [
     {
       "rank": 1,
-      "title": "Terremoto a Catania, forte scossa di magnitudo 4.5: avvertita anche ad Augusta",
-      "source_count": 11,
-      "article_count": 12,
+      "title": "Terremoto a Catania, forte scossa di magnitudo 4.5 avvertita anche a Messina e Siracusa. Epicentro sull'Etna​",
+      "source_count": 13,
+      "article_count": 14,
       "source_domains": [
+        "unita.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
         "corriere.it",
@@ -40,6 +42,24 @@
     },
     {
       "rank": 3,
+      "title": "Chi è Mojtaba, il figlio di Khamenei scelto come successore del padre: sarà la nuova Guida suprema dell’Iran",
+      "source_count": 10,
+      "article_count": 13,
+      "source_domains": [
+        "laverita.info",
+        "unita.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "lastampa.it",
+        "repubblica.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Raid di Israele in Libano. Missili di Usa e Idf a Teheran. Iran: “Controlliamo lo stretto di Hormuz”",
       "source_count": 7,
       "article_count": 10,
@@ -54,7 +74,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Coppa Italia, Como e Inter non si fanno male: l’andata della semifinale finisce 0-0",
       "source_count": 8,
       "article_count": 9,
@@ -70,31 +90,15 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Chi è Mojtaba, il figlio di Khamenei scelto come successore del padre: sarà la nuova Guida suprema dell’Iran",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "corriere.it",
-        "lastampa.it",
-        "repubblica.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilmessaggero.it"
-      ]
-    },
-    {
       "rank": 6,
       "title": "«Il cuore non fu lesionato nell'espianto»: i primi risultati dell'autopsia sul piccolo Domenico",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "napoli.repubblica.it",
         "napoli.corriere.it",
         "laverita.info",
         "adnkronos.com",
-        "napoli.repubblica.it",
         "ansa.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it"
@@ -102,6 +106,18 @@
     },
     {
       "rank": 7,
+      "title": "Libano sotto attacco di Israele, enormi colonne di fumo su Beirut",
+      "source_count": 4,
+      "article_count": 10,
+      "source_domains": [
+        "video.corriere.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "news.google.com"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Evacuata la sede di FdI in via della Scrofa per allarme bomba poi rientrato. Allerta anche a Palazzo Grazioli e Palazzo Chigi",
       "source_count": 5,
       "article_count": 7,
@@ -114,7 +130,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Morte David Rossi, il presidente della commissione d'inchiesta: «È stato un omicidio» e invia le perizie in Procura",
       "source_count": 5,
       "article_count": 7,
@@ -127,7 +143,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Gli studenti rientrati con un volo da Abu Dhabi, lacrime e applausi:“Che paura, ora felici a casa”",
       "source_count": 5,
       "article_count": 6,
@@ -137,19 +153,6 @@
         "video.corriere.it",
         "liberoquotidiano.it",
         "ilfattoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Così è stato ucciso Khamenei: le telecamere del traffico hackerate, i telefoni \"occupati\", la fonte decisiva",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "corriere.it"
       ]
     }
   ]
