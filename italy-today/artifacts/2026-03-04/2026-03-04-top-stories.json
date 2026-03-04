@@ -1,6 +1,6 @@
 {
   "date": "2026-03-04",
-  "generated_at": "Mercoledì 4 Marzo 10:44",
+  "generated_at": "Mercoledì 4 Marzo 11:37",
   "stories": [
     {
       "rank": 1,
@@ -25,26 +25,24 @@
     },
     {
       "rank": 2,
-      "title": "Borse, il costo della guerra in Iran",
-      "source_count": 9,
-      "article_count": 14,
+      "title": "Raid di Israele in Libano. Missili di Usa e Idf a Teheran. Iran: “Controlliamo lo stretto di Hormuz”",
+      "source_count": 7,
+      "article_count": 15,
       "source_domains": [
-        "corriere.it",
         "ilgiornale.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it",
         "ansa.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it"
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "fanpage.it",
+        "repubblica.it",
+        "lastampa.it"
       ]
     },
     {
       "rank": 3,
       "title": "Chi è Mojtaba, il figlio di Khamenei scelto come successore del padre: sarà la nuova Guida suprema dell’Iran",
       "source_count": 10,
-      "article_count": 13,
+      "article_count": 10,
       "source_domains": [
         "laverita.info",
         "unita.it",
@@ -60,21 +58,53 @@
     },
     {
       "rank": 4,
-      "title": "Raid di Israele in Libano. Missili di Usa e Idf a Teheran. Iran: “Controlliamo lo stretto di Hormuz”",
+      "title": "Nola, il feretro del piccolo Domenico arrivato in cattedrale. Attesa per la premier Meloni",
       "source_count": 7,
-      "article_count": 10,
+      "article_count": 12,
       "source_domains": [
+        "napoli.corriere.it",
         "ansa.it",
-        "ilfattoquotidiano.it",
-        "corriere.it",
-        "ilgiornale.it",
         "fanpage.it",
-        "repubblica.it",
-        "lastampa.it"
+        "napoli.repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
       ]
     },
     {
       "rank": 5,
+      "title": "Attacco all'Iran, volano i prezzi di gas e petrolio",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "video.corriere.it"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Gedi cede La Stampa al Gruppo Sae, firmato il contratto preliminare",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "unita.it",
+        "corriere.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilfoglio.it"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Coppa Italia, Como e Inter non si fanno male: l’andata della semifinale finisce 0-0",
       "source_count": 8,
       "article_count": 9,
@@ -90,22 +120,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "«Il cuore non fu lesionato nell'espianto»: i primi risultati dell'autopsia sul piccolo Domenico",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "napoli.repubblica.it",
-        "napoli.corriere.it",
-        "laverita.info",
-        "adnkronos.com",
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "title": "Libano sotto attacco di Israele, enormi colonne di fumo su Beirut",
       "source_count": 4,
       "article_count": 10,
@@ -117,42 +132,31 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Evacuata la sede di FdI in via della Scrofa per allarme bomba poi rientrato. Allerta anche a Palazzo Grazioli e Palazzo Chigi",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "roma.corriere.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ilsole24ore.com",
-        "ilfoglio.it"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Morte David Rossi, il presidente della commissione d'inchiesta: «È stato un omicidio» e invia le perizie in Procura",
-      "source_count": 5,
+      "title": "Crosetto sotto assedio, il nodo dell’alert a Mantovano e l’ira di Meloni all’oscuro",
+      "source_count": 6,
       "article_count": 7,
       "source_domains": [
-        "corrierefiorentino.corriere.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "roma.corriere.it",
         "lastampa.it",
-        "ilfattoquotidiano.it",
         "fanpage.it",
-        "unita.it"
+        "ilsole24ore.com"
       ]
     },
     {
       "rank": 10,
-      "title": "Gli studenti rientrati con un volo da Abu Dhabi, lacrime e applausi:“Che paura, ora felici a casa”",
-      "source_count": 5,
+      "title": "Trump contro la Spagna: «Stop ai commerci con loro, non ci hanno dato le basi». E critica Starmer: «Non è mica Churchill»",
+      "source_count": 6,
       "article_count": 6,
       "source_domains": [
-        "milano.repubblica.it",
-        "ansa.it",
-        "video.corriere.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it"
+        "laverita.info",
+        "unita.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it"
       ]
     }
   ]
