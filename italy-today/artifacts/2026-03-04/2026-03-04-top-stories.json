@@ -1,6 +1,6 @@
 {
   "date": "2026-03-04",
-  "generated_at": "Mercoledì 4 Marzo 07:00",
+  "generated_at": "Mercoledì 4 Marzo 07:43",
   "stories": [
     {
       "rank": 1,
@@ -20,41 +20,27 @@
     },
     {
       "rank": 2,
-      "title": "Raid di Israele in Libano. Missili di Usa e Idf a Teheran. Iran: “Controlliamo lo stretto di Hormuz”",
+      "title": "Coppa Italia, Como e Inter non si fanno male: l’andata della semifinale finisce 0-0",
       "source_count": 8,
       "article_count": 9,
       "source_domains": [
-        "corriere.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "repubblica.it",
-        "ansa.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "news.google.com"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Coppa Italia, Como e Inter non si fanno male: l’andata della semifinale finisce 0-0",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
         "ilgiornale.it",
         "repubblica.it",
         "corriere.it",
         "ansa.it",
         "fanpage.it",
         "lastampa.it",
+        "ilmessaggero.it",
         "liberoquotidiano.it"
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Terremoto a Catania, forte scossa di magnitudo 4.5: avvertita anche ad Augusta",
-      "source_count": 7,
-      "article_count": 7,
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
+        "ilgiornale.it",
         "corriere.it",
         "adnkronos.com",
         "ansa.it",
@@ -65,14 +51,30 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Chi è Mojtaba Khamenei la nuova Guida Suprema dell'Iran",
-      "source_count": 6,
-      "article_count": 7,
+      "rank": 4,
+      "title": "Raid di Israele in Libano. Missili di Usa e Idf a Teheran. Iran: “Controlliamo lo stretto di Hormuz”",
+      "source_count": 7,
+      "article_count": 9,
       "source_domains": [
-        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "fanpage.it",
         "repubblica.it",
         "ansa.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Chi è Mojtaba Khamenei la nuova Guida Suprema dell'Iran",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "corriere.it",
+        "ansa.it",
+        "lastampa.it",
+        "repubblica.it",
         "fanpage.it",
         "ilgiornale.it",
         "ilmessaggero.it"
@@ -81,12 +83,13 @@
     {
       "rank": 6,
       "title": "«Il cuore non fu lesionato nell'espianto»: i primi risultati dell'autopsia sul piccolo Domenico",
-      "source_count": 6,
-      "article_count": 6,
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "napoli.corriere.it",
+        "laverita.info",
         "adnkronos.com",
         "napoli.repubblica.it",
-        "napoli.corriere.it",
         "ansa.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it"
@@ -107,6 +110,19 @@
     },
     {
       "rank": 8,
+      "title": "Morte David Rossi, il presidente della commissione d'inchiesta: «È stato un omicidio» e invia le perizie in Procura",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "corrierefiorentino.corriere.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "unita.it"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Gli studenti rientrati con un volo da Abu Dhabi, lacrime e applausi:“Che paura, ora felici a casa”",
       "source_count": 5,
       "article_count": 6,
@@ -119,28 +135,15 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Guerra Iran, entro una settimana Paesi Golfo senza 'rete antimissile': lo scenario",
-      "source_count": 5,
+      "rank": 10,
+      "title": "Deposizione sugli Epstein Files, l'ira di Hillary Clinton: «Me ne vado». E Bill: «La persona nella vasca con me? Non so»",
+      "source_count": 4,
       "article_count": 5,
       "source_domains": [
-        "roma.corriere.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilgiornale.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Usa e Israele contro Iran, un conflitto che riscrive le priorità della politica",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
+        "repubblica.it",
         "fanpage.it",
-        "lastampa.it",
         "corriere.it",
-        "unita.it"
+        "lastampa.it"
       ]
     }
   ]
