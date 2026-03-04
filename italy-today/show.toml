@@ -9,8 +9,8 @@ host_name = "Amelia"
 cover_image = "cover.png"
 
 [llm]
-model = "google/gemini-3-pro-preview"
-model_friendly_name = "Gemini 3 Pro"
+model = "google/gemini-3.1-pro-preview"
+model_friendly_name = "Gemini 3.1 Pro"
 
 [tts]
 voice_id = "marin" # OpenAI 'marin' voice (if using OpenRouter) or keep generic if not used
