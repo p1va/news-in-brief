@@ -1,6 +1,6 @@
 {
   "date": "2026-03-04",
-  "generated_at": "Mercoledì 4 Marzo 15:52",
+  "generated_at": "Mercoledì 4 Marzo 16:56",
   "stories": [
     {
       "rank": 1,
@@ -75,23 +75,6 @@
     },
     {
       "rank": 5,
-      "title": "Attacco all'Iran, volano i prezzi di gas e petrolio",
-      "source_count": 9,
-      "article_count": 12,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "video.corriere.it"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Gedi cede La Stampa al Gruppo Sae, firmato il contratto preliminare",
       "source_count": 9,
       "article_count": 12,
@@ -105,6 +88,22 @@
         "ilfattoquotidiano.it",
         "lastampa.it",
         "ilfoglio.it"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Borse, il costo della guerra in Iran",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it"
       ]
     },
     {
@@ -126,10 +125,9 @@
     {
       "rank": 8,
       "title": "Libano sotto attacco di Israele, enormi colonne di fumo su Beirut",
-      "source_count": 5,
-      "article_count": 12,
+      "source_count": 4,
+      "article_count": 10,
       "source_domains": [
-        "adnkronos.com",
         "video.corriere.it",
         "liberoquotidiano.it",
         "repubblica.it",
@@ -138,16 +136,16 @@
     },
     {
       "rank": 9,
-      "title": "Crosetto sotto assedio, il nodo dell’alert a Mantovano e l’ira di Meloni all’oscuro",
+      "title": "Paralimpiadi Milano Cortina, niente atleti portabandiera alla cerimonia di apertura. Boicottaggio o logistica? Cosa sappiamo",
       "source_count": 6,
       "article_count": 7,
       "source_domains": [
-        "repubblica.it",
-        "ilgiornale.it",
-        "roma.corriere.it",
-        "lastampa.it",
+        "adnkronos.com",
         "fanpage.it",
-        "ilsole24ore.com"
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "repubblica.it"
       ]
     },
     {
