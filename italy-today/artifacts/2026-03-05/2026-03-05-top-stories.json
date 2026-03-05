@@ -1,22 +1,22 @@
 {
   "date": "2026-03-05",
-  "generated_at": "Giovedì 5 Marzo 18:11",
+  "generated_at": "Giovedì 5 Marzo 19:24",
   "stories": [
     {
       "rank": 1,
-      "title": "Il patron di TelePordenone Mario Ruoso ucciso a sprangate in casa: «Colpito più volte alla testa». Ora è caccia all'assassino",
+      "title": "Il 'patron' di TelePordenone ucciso a sprangate in casa, sospettato un collaboratore",
       "source_count": 13,
-      "article_count": 23,
+      "article_count": 25,
       "source_domains": [
-        "corrieredelveneto.corriere.it",
         "ansa.it",
+        "fanpage.it",
+        "corrieredelveneto.corriere.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
         "unita.it",
         "repubblica.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
-        "fanpage.it",
         "lastampa.it",
         "adnkronos.com",
         "ilsole24ore.com",
@@ -55,22 +55,6 @@
     },
     {
       "rank": 4,
-      "title": "Iran, Meloni: : «Non siamo in guerra, non vogliamo entrare in guerra»",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "video.corriere.it",
-        "adnkronos.com",
-        "unita.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Grave infortunio per l'atleta paralimpico di snowboard Cardani: cade in allenamento e perde conoscenza",
       "source_count": 9,
       "article_count": 9,
@@ -87,49 +71,35 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Lo Stretto di Hormuz è chiuso: perché è determinante per il petrolio e chi ci perde di più ora",
-      "source_count": 7,
-      "article_count": 10,
+      "rank": 5,
+      "title": "Iran, Meloni: : «Non siamo in guerra, non vogliamo entrare in guerra»",
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "corriere.it",
-        "ilgiornale.it",
         "ansa.it",
-        "lastampa.it",
-        "ilmanifesto.it",
-        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "video.corriere.it",
+        "adnkronos.com",
+        "unita.it",
+        "repubblica.it",
+        "ilgiornale.it",
         "ilmessaggero.it"
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Israele abbatte i jet di Teheran: il video diffuso dall'esercito israeliano",
       "source_count": 4,
       "article_count": 11,
       "source_domains": [
+        "adnkronos.com",
         "video.corriere.it",
         "repubblica.it",
-        "liberoquotidiano.it",
-        "adnkronos.com"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "L'addio a Domenico: la bara bianca, la folla, i palloncini. In chiesa l'abbraccio tra i genitori e Meloni. Il vescovo: «È figlio di tutti noi»",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "repubblica.it",
-        "laverita.info",
-        "ansa.it",
         "liberoquotidiano.it"
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Rocchi aggredito in tribuna: cosa è successo in Carrarese-Catanzaro",
       "source_count": 7,
       "article_count": 8,
@@ -141,6 +111,33 @@
         "ilfattoquotidiano.it",
         "fanpage.it",
         "repubblica.it"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Lo Stretto di Hormuz è chiuso: perché è determinante per il petrolio e chi ci perde di più ora",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "corriere.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmanifesto.it"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Guerra in Iran, le news di oggi. Sirene antiaereo in Israele per i missili di Teheran. Tre morti in Libano",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "corriere.it",
+        "repubblica.it",
+        "lastampa.it"
       ]
     },
     {
