@@ -1,21 +1,22 @@
 {
   "date": "2026-03-05",
-  "generated_at": "Giovedì 5 Marzo 07:52",
+  "generated_at": "Giovedì 5 Marzo 08:53",
   "stories": [
     {
       "rank": 1,
       "title": "Mario Ruoso, il patron di Telepordenone ucciso a sprangate: trovato in casa con una ferita alla testa",
-      "source_count": 10,
-      "article_count": 10,
+      "source_count": 11,
+      "article_count": 13,
       "source_domains": [
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
         "corrieredelveneto.corriere.it",
         "lastampa.it",
         "repubblica.it",
         "ansa.it",
         "ilgiornale.it",
         "adnkronos.com",
-        "ilmessaggero.it",
-        "fanpage.it",
         "ilsole24ore.com",
         "agi.it"
       ]
@@ -37,6 +38,36 @@
     },
     {
       "rank": 3,
+      "title": "Iran, Meloni: “L’Italia non è in guerra e non vogliamo entrarci”",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "repubblica.it",
+        "ilgiornale.it",
+        "roma.corriere.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Guerra in Iran, le news di oggi. Sirene antiaereo in Israele per i missili di Teheran. Tre morti in Libano",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "corriere.it",
+        "repubblica.it",
+        "lastampa.it",
+        "unita.it"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Gedi ha venduto «La Stampa» al gruppo Sae: entreranno anche investitori del Nord Ovest",
       "source_count": 6,
       "article_count": 7,
@@ -50,7 +81,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Iran, Meloni e Crosetto al Colle da Mattarella: “Crisi peggiore da decenni”",
       "source_count": 6,
       "article_count": 7,
@@ -64,19 +95,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Sottomarino Usa attacca nave iraniana al largo dello Sri Lanka, 80 morti",
-      "source_count": 4,
-      "article_count": 8,
-      "source_domains": [
-        "repubblica.it",
-        "corriere.it",
-        "ansa.it",
-        "liberoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "title": "Coppa Italia: Lazio-Atalanta 2-2, tra Sarri e Palladino finisce pari FOTO",
       "source_count": 5,
       "article_count": 7,
@@ -86,19 +105,6 @@
         "fanpage.it",
         "ilmessaggero.it",
         "adnkronos.com"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Guerra in Iran, le news di oggi. Sirene antiaereo in Israele per i missili di Teheran. Tre morti in Libano",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "corriere.it",
-        "repubblica.it",
-        "lastampa.it"
       ]
     },
     {
@@ -116,15 +122,13 @@
     },
     {
       "rank": 9,
-      "title": "Iran: esplosioni a Teheran e raid Usa-Israele al quinto giorno di guerra",
-      "source_count": 5,
-      "article_count": 6,
+      "title": "Sottomarino Usa silura nave da guerra iraniana nell'Oceano Indiano",
+      "source_count": 3,
+      "article_count": 7,
       "source_domains": [
-        "adnkronos.com",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "unita.it"
+        "video.corriere.it",
+        "ansa.it",
+        "liberoquotidiano.it"
       ]
     },
     {
