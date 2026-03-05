@@ -1,6 +1,6 @@
 {
   "date": "2026-03-05",
-  "generated_at": "Giovedì 5 Marzo 09:53",
+  "generated_at": "Giovedì 5 Marzo 10:50",
   "stories": [
     {
       "rank": 1,
@@ -27,17 +27,17 @@
       "rank": 2,
       "title": "Iran, Meloni: : «Non siamo in guerra, non vogliamo entrare in guerra»",
       "source_count": 10,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
+        "ansa.it",
+        "lastampa.it",
         "video.corriere.it",
         "adnkronos.com",
         "unita.it",
         "repubblica.it",
         "ilgiornale.it",
-        "ansa.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
-        "fanpage.it",
         "ilsole24ore.com"
       ]
     },
@@ -72,6 +72,20 @@
     },
     {
       "rank": 5,
+      "title": "Lo Stretto di Hormuz è chiuso: perché è determinante per il petrolio e chi ci perde di più ora",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "corriere.it",
+        "lastampa.it",
+        "ilmanifesto.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Iran, Meloni e Crosetto al Colle da Mattarella: “Crisi peggiore da decenni”",
       "source_count": 6,
       "article_count": 7,
@@ -85,7 +99,21 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Rocchi aggredito in tribuna a Carrara: il designatore esce scortato dalla polizia",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "corrierefiorentino.corriere.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Guerra in Iran, le basi militari che gli Usa potrebbero chiedere all'Italia",
       "source_count": 6,
       "article_count": 6,
@@ -99,7 +127,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Coppa Italia: Lazio-Atalanta 2-2, tra Sarri e Palladino finisce pari FOTO",
       "source_count": 5,
       "article_count": 7,
@@ -112,40 +140,15 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Sottomarino Usa silura nave da guerra iraniana nell'Oceano Indiano",
-      "source_count": 3,
-      "article_count": 7,
+      "rank": 10,
+      "title": "Benzina e diesel, perché i prezzi salgono così tanto e cosa vuole fare il governo",
+      "source_count": 4,
+      "article_count": 6,
       "source_domains": [
-        "video.corriere.it",
-        "ansa.it",
-        "liberoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Gianluca Rocchi, serata da incubo in Carrarese-Catanzaro: banconote in faccia, insulti, fuga con scorta",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
         "corriere.it",
         "fanpage.it",
-        "repubblica.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Depistaggi su Cucchi, la Cassazione assolve il colonnello Sabatino",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "roma.repubblica.it",
-        "ilgiornale.it",
-        "news.google.com"
+        "ilmessaggero.it",
+        "ilsole24ore.com"
       ]
     }
   ]
