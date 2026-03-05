@@ -1,6 +1,6 @@
 {
   "date": "2026-03-05",
-  "generated_at": "Giovedì 5 Marzo 20:44",
+  "generated_at": "Giovedì 5 Marzo 21:43",
   "stories": [
     {
       "rank": 1,
@@ -21,7 +21,7 @@
       "rank": 2,
       "title": "Il 'patron' di TelePordenone ucciso a sprangate in casa, sospettato un collaboratore",
       "source_count": 9,
-      "article_count": 17,
+      "article_count": 18,
       "source_domains": [
         "ansa.it",
         "fanpage.it",
@@ -85,6 +85,21 @@
     },
     {
       "rank": 6,
+      "title": "Paragon, Cancellato spiato: trovato software nel suo cellulare. Intelligence: “Non siamo stati noi”",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "roma.corriere.it",
+        "ansa.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "repubblica.it"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Rocchi aggredito in tribuna: cosa è successo in Carrarese-Catanzaro",
       "source_count": 7,
       "article_count": 8,
@@ -99,7 +114,21 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Cos'è lo stretto di Hormuz e cosa succede se viene bloccato: tutti i richi",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ilmanifesto.it"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Guerra in Iran, le news di oggi. Sirene antiaereo in Israele per i missili di Teheran. Tre morti in Libano",
       "source_count": 5,
       "article_count": 9,
@@ -112,21 +141,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Cos'è lo stretto di Hormuz e cosa succede se viene bloccato: tutti i richi",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "corriere.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmanifesto.it"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "Israele abbatte i jet di Teheran: il video diffuso dall'esercito israeliano",
       "source_count": 4,
       "article_count": 10,
@@ -135,20 +150,6 @@
         "video.corriere.it",
         "repubblica.it",
         "liberoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "È morto lo scrittore portoghese António Lobo Antunes",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "unita.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "lastampa.it"
       ]
     }
   ]
