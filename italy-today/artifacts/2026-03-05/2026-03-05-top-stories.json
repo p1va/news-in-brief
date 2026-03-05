@@ -1,23 +1,23 @@
 {
   "date": "2026-03-05",
-  "generated_at": "Giovedì 5 Marzo 10:50",
+  "generated_at": "Giovedì 5 Marzo 11:40",
   "stories": [
     {
       "rank": 1,
       "title": "Mario Ruoso, il patron di Telepordenone ucciso a sprangate: trovato in casa con una ferita alla testa",
       "source_count": 13,
-      "article_count": 18,
+      "article_count": 21,
       "source_domains": [
-        "unita.it",
         "ansa.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "unita.it",
         "repubblica.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "fanpage.it",
-        "liberoquotidiano.it",
         "corrieredelveneto.corriere.it",
         "lastampa.it",
-        "ilgiornale.it",
         "adnkronos.com",
         "ilsole24ore.com",
         "agi.it"
@@ -47,35 +47,35 @@
       "source_count": 7,
       "article_count": 12,
       "source_domains": [
+        "ilgiornale.it",
         "corriere.it",
         "repubblica.it",
         "laverita.info",
         "ansa.it",
         "liberoquotidiano.it",
-        "ilgiornale.it",
         "lastampa.it"
       ]
     },
     {
       "rank": 4,
-      "title": "Guerra in Iran, le news di oggi. Sirene antiaereo in Israele per i missili di Teheran. Tre morti in Libano",
-      "source_count": 6,
-      "article_count": 10,
+      "title": "Iran, Tajani: \"l'Italia non è in guerra con nessuno\"",
+      "source_count": 5,
+      "article_count": 14,
       "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "corriere.it",
+        "laverita.info",
         "repubblica.it",
-        "lastampa.it",
-        "unita.it"
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it"
       ]
     },
     {
       "rank": 5,
       "title": "Lo Stretto di Hormuz è chiuso: perché è determinante per il petrolio e chi ci perde di più ora",
-      "source_count": 6,
-      "article_count": 7,
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ilgiornale.it",
         "ansa.it",
         "corriere.it",
         "lastampa.it",
@@ -86,20 +86,47 @@
     },
     {
       "rank": 6,
-      "title": "Iran, Meloni e Crosetto al Colle da Mattarella: “Crisi peggiore da decenni”",
-      "source_count": 6,
-      "article_count": 7,
+      "title": "Sottomarino Usa silura nave da guerra iraniana nell'Oceano Indiano",
+      "source_count": 5,
+      "article_count": 10,
       "source_domains": [
-        "roma.corriere.it",
-        "ansa.it",
-        "repubblica.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "ilgiornale.it"
+        "video.corriere.it",
+        "ansa.it"
       ]
     },
     {
       "rank": 7,
+      "title": "'La crisi è grave', faccia a faccia di Mattarella con Meloni e Crosetto",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "roma.corriere.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Crisi Golfo, Sanchez risponde a Trump su no uso basi in Spagna: Non ripeteremo errori dell'Iraq",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "corriere.it",
+        "ilmanifesto.it",
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Rocchi aggredito in tribuna a Carrara: il designatore esce scortato dalla polizia",
       "source_count": 6,
       "article_count": 7,
@@ -113,41 +140,16 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Guerra in Iran, le basi militari che gli Usa potrebbero chiedere all'Italia",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
+        "repubblica.it",
         "ansa.it",
         "roma.corriere.it",
-        "lastampa.it",
         "ilgiornale.it",
         "fanpage.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Coppa Italia: Lazio-Atalanta 2-2, tra Sarri e Palladino finisce pari FOTO",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "adnkronos.com"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Benzina e diesel, perché i prezzi salgono così tanto e cosa vuole fare il governo",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "corriere.it",
-        "fanpage.it",
-        "ilmessaggero.it",
         "ilsole24ore.com"
       ]
     }
