@@ -1,12 +1,12 @@
 {
   "date": "2026-03-05",
-  "generated_at": "Giovedì 5 Marzo 13:14",
+  "generated_at": "Giovedì 5 Marzo 14:54",
   "stories": [
     {
       "rank": 1,
       "title": "Mario Ruoso, il patron di Telepordenone ucciso a sprangate: trovato in casa con una ferita alla testa",
       "source_count": 13,
-      "article_count": 21,
+      "article_count": 22,
       "source_domains": [
         "ansa.it",
         "ilgiornale.it",
@@ -26,10 +26,9 @@
     {
       "rank": 2,
       "title": "Iran, Tajani: \"l'Italia non è in guerra con nessuno\"",
-      "source_count": 6,
-      "article_count": 18,
+      "source_count": 5,
+      "article_count": 16,
       "source_domains": [
-        "video.corriere.it",
         "liberoquotidiano.it",
         "laverita.info",
         "repubblica.it",
@@ -41,12 +40,12 @@
       "rank": 3,
       "title": "Lo Stretto di Hormuz è chiuso: perché è determinante per il petrolio e chi ci perde di più ora",
       "source_count": 7,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "corriere.it",
         "ilgiornale.it",
         "lastampa.it",
         "ansa.it",
-        "corriere.it",
         "ilmanifesto.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it"
@@ -54,24 +53,11 @@
     },
     {
       "rank": 4,
-      "title": "L'addio a Domenico: la bara bianca, la folla, i palloncini. In chiesa l'abbraccio tra i genitori e Meloni. Il vescovo: «È figlio di tutti noi»",
-      "source_count": 6,
+      "title": "Iran, Meloni: : «Non siamo in guerra, non vogliamo entrare in guerra»",
+      "source_count": 8,
       "article_count": 10,
       "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "repubblica.it",
         "ansa.it",
-        "liberoquotidiano.it"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Iran, Meloni: : «Non siamo in guerra, non vogliamo entrare in guerra»",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
         "liberoquotidiano.it",
         "video.corriere.it",
         "adnkronos.com",
@@ -82,7 +68,39 @@
       ]
     },
     {
+      "rank": 5,
+      "title": "Grave infortunio per l'atleta paralimpico di snowboard Cardani: cade in allenamento e perde conoscenza",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "corriere.it",
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it"
+      ]
+    },
+    {
       "rank": 6,
+      "title": "L'addio a Domenico: la bara bianca, la folla, i palloncini. In chiesa l'abbraccio tra i genitori e Meloni. Il vescovo: «È figlio di tutti noi»",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "repubblica.it",
+        "laverita.info",
+        "ansa.it",
+        "liberoquotidiano.it"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Sottomarino Usa silura nave da guerra iraniana nell'Oceano Indiano",
       "source_count": 5,
       "article_count": 10,
@@ -95,10 +113,10 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Guerra in Iran, le basi militari che gli Usa potrebbero chiedere all'Italia",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
         "ilmessaggero.it",
         "repubblica.it",
@@ -110,7 +128,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "'La crisi è grave', faccia a faccia di Mattarella con Meloni e Crosetto",
       "source_count": 6,
       "article_count": 8,
@@ -121,21 +139,6 @@
         "repubblica.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Grave infortunio per l'atleta paralimpico di snowboard Cardani: cade in allenamento e perde conoscenza",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "corriere.it",
-        "repubblica.it",
-        "lastampa.it"
       ]
     },
     {
