@@ -1,6 +1,6 @@
 {
   "date": "2026-03-05",
-  "generated_at": "Giovedì 5 Marzo 11:40",
+  "generated_at": "Giovedì 5 Marzo 13:14",
   "stories": [
     {
       "rank": 1,
@@ -25,62 +25,59 @@
     },
     {
       "rank": 2,
-      "title": "Iran, Meloni: : «Non siamo in guerra, non vogliamo entrare in guerra»",
-      "source_count": 10,
-      "article_count": 13,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "video.corriere.it",
-        "adnkronos.com",
-        "unita.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "ilsole24ore.com"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "L'addio a Domenico: la bara bianca, la folla, i palloncini. In chiesa l'abbraccio tra i genitori e Meloni. Il vescovo: «È figlio di tutti noi»",
-      "source_count": 7,
-      "article_count": 12,
-      "source_domains": [
-        "ilgiornale.it",
-        "corriere.it",
-        "repubblica.it",
-        "laverita.info",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Iran, Tajani: \"l'Italia non è in guerra con nessuno\"",
-      "source_count": 5,
-      "article_count": 14,
+      "source_count": 6,
+      "article_count": 18,
       "source_domains": [
+        "video.corriere.it",
+        "liberoquotidiano.it",
         "laverita.info",
         "repubblica.it",
-        "liberoquotidiano.it",
         "adnkronos.com",
         "ansa.it"
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
       "title": "Lo Stretto di Hormuz è chiuso: perché è determinante per il petrolio e chi ci perde di più ora",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 10,
       "source_domains": [
         "ilgiornale.it",
+        "lastampa.it",
         "ansa.it",
         "corriere.it",
-        "lastampa.it",
         "ilmanifesto.it",
         "ilfattoquotidiano.it",
+        "ilmessaggero.it"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "L'addio a Domenico: la bara bianca, la folla, i palloncini. In chiesa l'abbraccio tra i genitori e Meloni. Il vescovo: «È figlio di tutti noi»",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "repubblica.it",
+        "ansa.it",
+        "liberoquotidiano.it"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Iran, Meloni: : «Non siamo in guerra, non vogliamo entrare in guerra»",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "video.corriere.it",
+        "adnkronos.com",
+        "unita.it",
+        "repubblica.it",
+        "ilgiornale.it",
         "ilmessaggero.it"
       ]
     },
@@ -99,6 +96,21 @@
     },
     {
       "rank": 7,
+      "title": "Guerra in Iran, le basi militari che gli Usa potrebbero chiedere all'Italia",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ansa.it",
+        "roma.corriere.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "'La crisi è grave', faccia a faccia di Mattarella con Meloni e Crosetto",
       "source_count": 6,
       "article_count": 8,
@@ -112,21 +124,22 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Crisi Golfo, Sanchez risponde a Trump su no uso basi in Spagna: Non ripeteremo errori dell'Iraq",
-      "source_count": 6,
+      "rank": 9,
+      "title": "Grave infortunio per l'atleta paralimpico di snowboard Cardani: cade in allenamento e perde conoscenza",
+      "source_count": 7,
       "article_count": 7,
       "source_domains": [
-        "ilgiornale.it",
-        "corriere.it",
-        "ilmanifesto.it",
-        "ansa.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
         "adnkronos.com",
-        "liberoquotidiano.it"
+        "corriere.it",
+        "repubblica.it",
+        "lastampa.it"
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Rocchi aggredito in tribuna a Carrara: il designatore esce scortato dalla polizia",
       "source_count": 6,
       "article_count": 7,
@@ -137,20 +150,6 @@
         "ilfattoquotidiano.it",
         "fanpage.it",
         "repubblica.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Guerra in Iran, le basi militari che gli Usa potrebbero chiedere all'Italia",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "roma.corriere.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "ilsole24ore.com"
       ]
     }
   ]
