@@ -1,6 +1,6 @@
 {
   "date": "2026-03-05",
-  "generated_at": "Giovedì 5 Marzo 07:01",
+  "generated_at": "Giovedì 5 Marzo 07:52",
   "stories": [
     {
       "rank": 1,
@@ -24,12 +24,12 @@
       "rank": 2,
       "title": "L'addio a Domenico: la bara bianca, la folla, i palloncini. In chiesa l'abbraccio tra i genitori e Meloni. Il vescovo: «È figlio di tutti noi»",
       "source_count": 7,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
+        "corriere.it",
         "repubblica.it",
         "laverita.info",
         "ansa.it",
-        "napoli.corriere.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
         "lastampa.it"
@@ -37,29 +37,30 @@
     },
     {
       "rank": 3,
-      "title": "Guerra in Iran, le news di oggi. Sirene antiaereo in Israele per i missili di Teheran. Tre morti in Libano",
-      "source_count": 5,
+      "title": "Gedi ha venduto «La Stampa» al gruppo Sae: entreranno anche investitori del Nord Ovest",
+      "source_count": 6,
       "article_count": 7,
       "source_domains": [
-        "fanpage.it",
-        "corriere.it",
+        "ilgiornale.it",
         "repubblica.it",
+        "corriere.it",
         "lastampa.it",
-        "unita.it"
+        "news.google.com",
+        "ilfoglio.it"
       ]
     },
     {
       "rank": 4,
-      "title": "«Abbiamo il controllo dello Stretto di Hormuz». Proclama dei Pasdaran, il traffico di petroliere crolla del 90%",
+      "title": "Iran, Meloni e Crosetto al Colle da Mattarella: “Crisi peggiore da decenni”",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
-        "corriere.it",
-        "lastampa.it",
-        "ilmanifesto.it",
+        "roma.corriere.it",
         "ansa.it",
+        "repubblica.it",
         "ilfattoquotidiano.it",
-        "ilmessaggero.it"
+        "ilmessaggero.it",
+        "ilgiornale.it"
       ]
     },
     {
@@ -76,19 +77,32 @@
     },
     {
       "rank": 6,
-      "title": "Gedi ha venduto «La Stampa» al gruppo Sae: entreranno anche investitori del Nord Ovest",
+      "title": "Coppa Italia: Lazio-Atalanta 2-2, tra Sarri e Palladino finisce pari FOTO",
       "source_count": 5,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
+        "ansa.it",
         "ilgiornale.it",
-        "corriere.it",
-        "lastampa.it",
-        "news.google.com",
-        "ilfoglio.it"
+        "fanpage.it",
+        "ilmessaggero.it",
+        "adnkronos.com"
       ]
     },
     {
       "rank": 7,
+      "title": "Guerra in Iran, le news di oggi. Sirene antiaereo in Israele per i missili di Teheran. Tre morti in Libano",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "corriere.it",
+        "repubblica.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Sánchez: «Non ripeteremo l’errore dell’Iraq»",
       "source_count": 5,
       "article_count": 6,
@@ -101,28 +115,16 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Iran: esplosioni a Teheran e raid Usa-Israele al quinto giorno di guerra",
-      "source_count": 4,
+      "source_count": 5,
       "article_count": 6,
       "source_domains": [
         "adnkronos.com",
-        "corriere.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Iran, Meloni e Crosetto al Colle da Mattarella: “Crisi peggiore da decenni”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "repubblica.it",
-        "ilfattoquotidiano.it",
+        "fanpage.it",
         "ilmessaggero.it",
-        "ilgiornale.it",
-        "ansa.it"
+        "liberoquotidiano.it",
+        "unita.it"
       ]
     },
     {
