@@ -1,9 +1,23 @@
 {
   "date": "2026-03-06",
-  "generated_at": "Venerdì 6 Marzo 06:59",
+  "generated_at": "Venerdì 6 Marzo 07:45",
   "stories": [
     {
       "rank": 1,
+      "title": "Cos’è successo nelle prove libere del GP Australia F1 2026: Ferrari brilla in FP1, lampo Piastri in FP2",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "corriere.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Trump licenzia Kristi Noem, l'annuncio in un post sul suo social Truth",
       "source_count": 7,
       "article_count": 7,
@@ -18,20 +32,34 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Guerra in Iran, news di oggi. Trump: “Operazione di terra una perdita di tempo”. Teheran minaccia l’Europa",
+      "rank": 3,
+      "title": "Milano Cortina, oggi la cerimonia di apertura delle Paralimpiadi: orario, ospiti e dove vederla",
       "source_count": 5,
       "article_count": 7,
       "source_domains": [
-        "fanpage.it",
         "corriere.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "repubblica.it"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Le basi americane in Italia: dove sono e come potrebbero essere usate",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "laverita.info",
+        "ilgiornale.it",
+        "unita.it",
+        "repubblica.it"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Guerra in Iran, scintille in Aula tra cartelli e veleni. Schlein: no all’uso dei nostri siti militari",
       "source_count": 5,
       "article_count": 5,
@@ -44,19 +72,20 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Iran vince la guerra? Gli Stati Arabi stanno esaurendo le scorte di intercettori per neutralizzare i missili lanciati da Teheran",
-      "source_count": 4,
-      "article_count": 6,
+      "rank": 6,
+      "title": "Stretto di Hormuz chiuso, da qui passa il 20% del petrolio mondiale: le conseguenze dureranno a lungo",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "roma.corriere.it",
+        "fanpage.it",
         "repubblica.it",
-        "adnkronos.com",
+        "ansa.it",
+        "corriere.it",
         "ilmessaggero.it"
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Mario Ruoso ucciso a sprangate, confessa il collaboratore storico di TelePordenone: “Increduli, uno di famiglia”",
       "source_count": 5,
       "article_count": 5,
@@ -69,12 +98,12 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Iran, Meloni: : «Non siamo in guerra, non vogliamo entrare in guerra»",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "lastampa.it",
+        "laverita.info",
         "repubblica.it",
         "fanpage.it",
         "unita.it",
@@ -82,53 +111,26 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Ombre russe sulle Paralimpiadi. A Verona la festa è per pochi",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Le basi americane in Italia: dove sono e come potrebbero essere usate",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "laverita.info",
-        "ilgiornale.it",
-        "unita.it"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "F1 Gp Australia: le prove libere in diretta. Piastri il più veloce davanti a Antonelli e Russell. Ferrari: Hamilton 4° e Leclerc 5°",
-      "source_count": 4,
-      "article_count": 5,
+      "title": "MasterChef 15, vince Matteo Canzi: «Lo show mi ha quasi demolito, mi sono rialzato grazie al pescegatto. Farò lo chef, non l'influencer»",
+      "source_count": 3,
+      "article_count": 6,
       "source_domains": [
-        "adnkronos.com",
         "corriere.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it"
+        "adnkronos.com",
+        "fanpage.it"
       ]
     },
     {
       "rank": 10,
-      "title": "Stretto di Hormuz chiuso, da qui passa il 20% del petrolio mondiale: le conseguenze dureranno a lungo",
+      "title": "Leo Messi alla Casa Bianca. Trump: “Per me un grande privilegio”. E chiede se sia meglio lui o Pelé",
       "source_count": 4,
       "article_count": 5,
       "source_domains": [
+        "fanpage.it",
+        "lastampa.it",
         "repubblica.it",
-        "ansa.it",
-        "corriere.it",
-        "ilmessaggero.it"
+        "adnkronos.com"
       ]
     }
   ]
