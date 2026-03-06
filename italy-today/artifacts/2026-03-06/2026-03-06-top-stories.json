@@ -1,6 +1,6 @@
 {
   "date": "2026-03-06",
-  "generated_at": "Fri 06 Mar 20:40",
+  "generated_at": "Fri 06 Mar 20:54",
   "stories": [
     {
       "rank": 1,
@@ -32,8 +32,8 @@
     {
       "rank": 2,
       "title": "Paralimpiadi Milano Cortina, la cerimonia all'Arena: chi ci sarà",
-      "source_count": 10,
-      "article_count": 19,
+      "source_count": 11,
+      "article_count": 21,
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
@@ -41,17 +41,18 @@
         "corriere.it",
         "repubblica.it",
         "ilgiornale.it",
+        "governo.it",
         "fanpage.it",
         "unita.it",
         "ilfattoquotidiano.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/sport/altrisport/speciali/paralimpiadi-milano_cortina_2026/2026/03/06/mattarella-dichiara-aperti-i-giochi-paralimpici-invernali_425cf043-04bf-496f-a62e-4298beb3a355.html",
         "https://www.ansa.it/sito/notizie/sport/altrisport/speciali/paralimpiadi-milano_cortina_2026/2026/03/06/malago-il-messaggio-di-pace-delle-paralimpiadi-e-piu-significativo-che-mai_425cf043-04bf-496f-a62e-4298beb3a355.html",
         "https://www.ilmessaggero.it/sport/altrisport/paralimpiadi_cerimonia_apertura_milano_cortina-9400455.html",
         "https://www.ansa.it/sito/notizie/sport/altrisport/speciali/paralimpiadi-milano_cortina_2026/2026/03/06/al-via-la-cerimonia-delle-paralimpiadi-applausi-per-mattarella_425cf043-04bf-496f-a62e-4298beb3a355.html",
-        "https://www.adnkronos.com/milano-cortina-2026/eventi/milano-cortina-oggi-cerimonia-apertura-paralimpiadi-presenti-mattarella-meloni_7vE71lAT5TIEXvDJ3O4lNW",
-        "https://www.corriere.it/sport/olimpiadi-invernali/diretta-live/26_marzo_06/giochi-paralimpici-invernali-cerimonia-apertura-verona-diretta.shtml"
+        "https://www.adnkronos.com/milano-cortina-2026/eventi/milano-cortina-oggi-cerimonia-apertura-paralimpiadi-presenti-mattarella-meloni_7vE71lAT5TIEXvDJ3O4lNW"
       ]
     },
     {
@@ -170,9 +171,27 @@
     },
     {
       "rank": 8,
+      "title": "Standing ovation per Mattarella alla Scala per 150 anni del Corriere",
+      "source_count": 3,
+      "article_count": 13,
+      "source_domains": [
+        "video.corriere.it",
+        "liberoquotidiano.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://video.corriere.it/150-anni-corriere/i-150-anni-del-corriere-visti-da-loro-l-orgoglio-il-rigore-e-l-indipendenza-/802efa4e-443f-4ae3-9bbd-a672efc9dxlk",
+        "https://video.corriere.it/150-anni-corriere/il-direttore-fontana-150-anni-di-storia-del-corriere-con-gli-stessi-valori-di-correttezza-pluralismo-e-liberta-delle-idee-/163f6578-568f-49cb-8461-df057afbfxlk",
+        "https://video.corriere.it/150-anni-corriere/il-direttore-fontana-150-anni-di-storia-del-corriere-con-gli-stessi-valori-di-correttezza-pluralismo-e-liberta-delle-idee-/163f6578-568f-49cb-8461-df057afbfxlk",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46687953/standing-ovation-per-mattarella-al-150esimo-del-corriere-della-sera-alla-scala-di-milano/",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46687951/mattarella-lascia-la-scala-tra-gli-applausi-dopo-la-cerimonia-per-i-150-anni-del-corriere-della-sera/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Stretto di Hormuz \"zona di guerra\", almeno 20.000 i marinai bloccati",
       "source_count": 7,
-      "article_count": 9,
+      "article_count": 8,
       "source_domains": [
         "ilgiornale.it",
         "corriere.it",
@@ -191,42 +210,25 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Standing ovation per Mattarella al 150esimo del Corriere della Sera alla Scala di Milano",
-      "source_count": 3,
-      "article_count": 12,
-      "source_domains": [
-        "video.corriere.it",
-        "liberoquotidiano.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://video.corriere.it/150-anni-corriere/il-direttore-fontana-150-anni-di-storia-del-corriere-con-gli-stessi-valori-di-correttezza-pluralismo-e-liberta-delle-idee-/163f6578-568f-49cb-8461-df057afbfxlk",
-        "https://video.corriere.it/150-anni-corriere/il-direttore-fontana-150-anni-di-storia-del-corriere-con-gli-stessi-valori-di-correttezza-pluralismo-e-liberta-delle-idee-/163f6578-568f-49cb-8461-df057afbfxlk",
-        "https://www.liberoquotidiano.it/video/video-news-by-vista/46687953/standing-ovation-per-mattarella-al-150esimo-del-corriere-della-sera-alla-scala-di-milano/",
-        "https://www.liberoquotidiano.it/video/video-news-by-vista/46687951/mattarella-lascia-la-scala-tra-gli-applausi-dopo-la-cerimonia-per-i-150-anni-del-corriere-della-sera/",
-        "https://www.liberoquotidiano.it/video/tv-news/46687942/standing-ovation-per-mattarella-alla-scala-per-150-anni-del-corriere/"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Cos’è successo nelle prove libere del GP Australia F1 2026: Ferrari brilla in FP1, lampo Piastri in FP2",
-      "source_count": 6,
-      "article_count": 9,
+      "title": "Benzina, prezzi volano sopra i due euro al litro. Il governo corre ai ripari: «Tasse su chi specula»",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "fanpage.it",
+        "ansa.it",
         "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "adnkronos.com",
+        "fanpage.it",
         "corriere.it",
-        "lastampa.it"
+        "lastampa.it",
+        "repubblica.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.fanpage.it/sport/motori/enorme-spavento-per-hamilton-in-australia-si-trova-davanti-lalpine-piantata-in-mezzo-alla-pista/",
-        "https://www.fanpage.it/sport/motori/leclerc-sbalordito-dalla-vera-mercedes-nelle-fp2-a-melbourne-e-impressionante-spero-di-sbagliarmi/",
-        "https://www.ilfattoquotidiano.it/2026/03/06/formula-1-prove-libere-gp-australia-2026-risultati-classifica-ferrari-leclerc-hamilton/8315311/",
-        "https://www.ilgiornale.it/news/motori/f1-leclerc-e-piastri-i-pi-veloci-nelle-libere-australia-2634913.html",
-        "https://www.fanpage.it/sport/motori/cose-successo-nelle-prove-libere-del-gp-australia-f1-2026-ferrari-brilla-in-fp1-lampo-piastri-in-fp2/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/06/la-benzina-cresce-ancora-accuse-di-speculazione_b071248f-8f9a-4bd3-9b2d-dd41bf2679dc.html",
+        "https://www.ilfattoquotidiano.it/2026/03/06/crisi-petrolifera-controlli-benzina-news/8316037/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/06/la-guardia-di-finanza-rafforza-i-controlli-sulla-filiera-dei-carburanti_b071248f-8f9a-4bd3-9b2d-dd41bf2679dc.html",
+        "https://www.fanpage.it/politica/perche-laumento-del-diesel-e-della-benzina-oltre-i-2-euro-e-colpa-della-speculazione-e-non-solo-della-guerra/",
+        "https://www.corriere.it/frammenti-ferruccio-de-bortoli/26_marzo_06/benzina-gasolio-sceneggiata-7667e894-b391-474e-aef6-11cf863cbxlk.shtml"
       ]
     }
   ]
