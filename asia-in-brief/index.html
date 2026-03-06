@@ -3,97 +3,306 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Asia in Brief - Podcast Player</title>
+    <title>Asia in Brief</title>
     <meta name="description" content="Daily briefing on Asian news and geopolitics">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;600;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
-        body { font-family: -apple-system, sans-serif; max-width: 700px; margin: 0 auto; padding: 20px; background: #fff; color: #222; }
-        .back-button { display: inline-block; margin-bottom: 20px; color: #667eea; text-decoration: none; font-size: 0.9rem; transition: all 0.2s; }
-        .back-button:hover { text-decoration: underline; color: #5568d3; }
-        .header { text-align: center; border-bottom: 2px solid #eee; padding-bottom: 20px; margin-bottom: 30px; }
-        .cover-image { max-width: 200px; border-radius: 8px; margin: 0 auto 15px; display: block; }
-        .rss-link { display: inline-block; margin-top: 10px; background: #f68b1e; color: white; padding: 5px 10px; border-radius: 4px; text-decoration: none; font-size: 0.9rem; }
-        .episode { margin-bottom: 35px; }
-        .episode h3 { margin: 0 0 5px 0; font-size: 1.3rem; }
-        .meta { color: #666; font-size: 0.9rem; margin-bottom: 10px; }
-        .description { line-height: 1.5; color: #444; margin-bottom: 15px; white-space: pre-wrap; }
-        audio { width: 100%; border-radius: 4px; }
+        * { box-sizing: border-box; }
+        body {
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+            line-height: 1.6;
+            max-width: 860px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background: #faf9f7;
+            color: #2d2d2d;
+        }
+
+        /* Header */
+        .site-header {
+            margin-bottom: 36px;
+            padding-bottom: 16px;
+            border-bottom: 2px solid #bbb;
+        }
+        .site-header h1 {
+            font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-weight: 700;
+            font-size: 2.2em;
+            color: #1a1a1a;
+            margin: 0 0 4px;
+        }
+        .site-header .subtitle {
+            color: #666;
+            font-size: 15px;
+            margin: 0;
+        }
+
+        /* Section headings */
+        .section-heading {
+            font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-weight: 400;
+            font-size: 1.4em;
+            color: #1a1a1a;
+            margin: 0 0 6px;
+        }
+        .section-sub {
+            color: #888;
+            font-size: 13px;
+            margin: 0 0 16px;
+        }
+
+        /* Episodes row */
+        .episodes-section {
+            margin-bottom: 40px;
+        }
+        .episodes-row {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 14px;
+        }
+        .episode-card {
+            background: #fff;
+            border: 1px solid #e0e0e0;
+            padding: 16px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+        }
+        .episode-date {
+            font-size: 12px;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+            margin-bottom: 4px;
+        }
+        .episode-title {
+            font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-weight: 600;
+            font-size: 15px;
+            line-height: 1.35;
+            color: #1a1a1a;
+            margin-bottom: 10px;
+            /* Clamp to 2 lines */
+            display: -webkit-box;
+            -webkit-line-clamp: 2;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .episode-card audio {
+            width: 100%;
+            height: 36px;
+            margin-bottom: 8px;
+        }
+        .episode-sources-link {
+            font-size: 13px;
+            color: #667eea;
+            text-decoration: none;
+        }
+        .episode-sources-link:hover {
+            text-decoration: underline;
+        }
+
+        /* Top stories */
+        .stories-section {
+            margin-bottom: 40px;
+        }
+        .story {
+            background: #fff;
+            border: 1px solid #e0e0e0;
+            margin-bottom: 10px;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+            display: flex;
+            align-items: flex-start;
+            gap: 0;
+            padding: 14px;
+        }
+        .story-rank {
+            font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-size: 18px;
+            font-weight: 700;
+            color: #bbb;
+            width: 44px;
+            flex-shrink: 0;
+            text-align: center;
+        }
+        .story-body {
+            flex: 1;
+            min-width: 0;
+        }
+        .story-title {
+            font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-weight: 600;
+            font-size: 16px;
+            line-height: 1.4;
+            color: #1a1a1a;
+            margin-bottom: 8px;
+        }
+        .story-meta {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        .source-icons {
+            display: flex;
+            align-items: center;
+        }
+        .source-icon {
+            width: 22px;
+            height: 22px;
+            border-radius: 50%;
+            background: #d0d0d0;
+            border: 2px solid #fff;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2), inset 0 0 0 1px rgba(0,0,0,0.05);
+            object-fit: contain;
+            margin-left: -6px;
+            position: relative;
+        }
+        .source-icon:first-child { margin-left: 0; }
+        .source-icon:nth-child(1) { z-index: 7; }
+        .source-icon:nth-child(2) { z-index: 6; }
+        .source-icon:nth-child(3) { z-index: 5; }
+        .source-icon:nth-child(4) { z-index: 4; }
+        .source-icon:nth-child(5) { z-index: 3; }
+        .source-icon:nth-child(6) { z-index: 2; }
+        .source-icon-more {
+            font-size: 11px;
+            font-weight: 600;
+            color: #666;
+            background: #f0f0f0;
+            border-radius: 50%;
+            width: 22px;
+            height: 22px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-left: -6px;
+            border: 2px solid #fff;
+            box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+            position: relative;
+            z-index: 1;
+        }
+        .story-meta-text {
+            font-size: 13px;
+            color: #888;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+
+        /* Footer */
+        .site-footer {
+            margin-top: 40px;
+            padding-top: 20px;
+            border-top: 1px solid #ddd;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+        .footer-link {
+            font-size: 14px;
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .footer-link:hover {
+            text-decoration: underline;
+        }
+        .rss-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            font-size: 14px;
+            color: #f68b1e;
+            text-decoration: none;
+            font-weight: 600;
+        }
+        .rss-link:hover { text-decoration: underline; }
+
+        /* Empty state */
+        .empty-state {
+            color: #999;
+            font-size: 14px;
+            font-style: italic;
+            padding: 20px 0;
+        }
+
+        /* Responsive */
+        @media (max-width: 640px) {
+            body { padding: 24px 16px; }
+            .site-header h1 { font-size: 1.7em; }
+            .episodes-row {
+                grid-template-columns: 1fr;
+            }
+        }
     </style>
 </head>
 <body>
 
-    <a href="/" class="back-button">← Back to all shows</a>
+    <header class="site-header">
+        <h1>🇮🇹 Asia in Brief</h1>
+        <p class="subtitle">Daily briefing on Asian news and geopolitics</p>
+    </header>
 
-    <div id="player-container">
-        <div class="header">
+    
+    <section class="episodes-section">
+        <h2 class="section-heading">🎧️ Daily Briefing</h2>
+        <p class="section-sub">Available every evening. In English.</p>
+        
+        <div class="episodes-row">
             
-            <img src="https://briefings.my/asia-in-brief/cover.png" alt="Asia in Brief" class="cover-image">
+            <div class="episode-card">
+                <div class="episode-date">2025-12-12</div>
+                <div class="episode-title">Asia in Brief - 2025-12-12</div>
+                
+                <audio controls preload="none">
+                    <source src="https://briefings.my/asia-in-brief/artifacts/2025-12-12/2025-12-12-audio.mp3" type="audio/mpeg">
+                </audio>
+                
+                
+            </div>
             
-            <h1>Asia in Brief</h1>
-            <p style="color: #666; margin: 10px 0;">Daily briefing on Asian news and geopolitics</p>
-            <a href="rss.xml" class="rss-link" target="_blank">📡 Subscribe via RSS</a>
+            <div class="episode-card">
+                <div class="episode-date">2025-12-11</div>
+                <div class="episode-title">Asia in Brief - 2025-12-11</div>
+                
+                <audio controls preload="none">
+                    <source src="https://briefings.my/asia-in-brief/artifacts/2025-12-11/2025-12-11-audio.mp3" type="audio/mpeg">
+                </audio>
+                
+                
+            </div>
+            
+            <div class="episode-card">
+                <div class="episode-date">2025-12-10</div>
+                <div class="episode-title">Asia in Brief - 2025-12-10</div>
+                
+                <audio controls preload="none">
+                    <source src="https://briefings.my/asia-in-brief/artifacts/2025-12-10/2025-12-10-audio.mp3" type="audio/mpeg">
+                </audio>
+                
+                
+            </div>
+            
         </div>
+        
+    </section>
 
+    
+    <section class="stories-section">
+        <h2 class="section-heading">📣 Top Stories</h2>
         
-        <div class="episode">
-            <h3>Asia in Brief - 2025-12-12</h3>
-            <div class="meta">2025-12-12</div>
-            <div class="description">**ASIA IN BRIEF**
-I am your host Amelia, today is Friday 12, and this is 'Asia in Brief'. Today's episode is brought to you by DeepSeek-V3.2-Special, let's get into it!
-**"Dissolution Amid Devastation"**  
-Thai Prime Minister Anutin Charnvirakul dissolved parliament Friday, calling early elections for early next year. The move comes as Thai and Cambodian forces exchange fire for a sixth day along their disputed border. Anutin insists the war effort will continue unabated, but the dissolution...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/asia-in-brief/artifacts/2025-12-12/2025-12-12-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
+        <p class="empty-state">No story clusters available yet. They'll appear after the first sources-view generation.</p>
         
-        <div class="episode">
-            <h3>Asia in Brief - 2025-12-11</h3>
-            <div class="meta">2025-12-11</div>
-            <div class="description">I am your host Amelia, today is Thursday 11, and this is 'Asia in Brief'. Today's episode is brought to you by DeepSeek-V3.2-Special, let's get into it!
-**"90km Inside"**  
-Thai F-16s have struck up to 90 kilometers inside Cambodia, marking a major escalation in the five-day border conflict. According to Cambodia’s interior ministry, the raids hit civilian areas, raising the death toll to 11 with 74 wounded and displacing nearly 190,000 people. Phnom Penh announced it will file a war crimes...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/asia-in-brief/artifacts/2025-12-11/2025-12-11-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Asia in Brief - 2025-12-10</h3>
-            <div class="meta">2025-12-10</div>
-            <div class="description">### ASIA IN BRIEF
-I am your host Amelia, today is Wednesday 10, and this is 'Asia in Brief'. Today's episode is brought to you by Grok 4, let's get into it!
-**"Border Blitz"**  
-Thai F-16 jets and tanks hammered Cambodian positions near Preah Vihear and Banteay Meanchey, killing civilians and displacing 54,000, per Kiripost ground reports. Cambodia condemned the "inhumane" strikes, claiming self-defense against Thai aggression, while Bangkok insisted it's retaliating to landmine violations...</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/asia-in-brief/artifacts/2025-12-10/2025-12-10-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-        <div class="episode">
-            <h3>Asia in Brief - 2025-12-09</h3>
-            <div class="meta">2025-12-09</div>
-            <div class="description"># Asia in Brief
-I am your host Grok 4, today is Tuesday 09, and this is Asia in Brief.
-**Border Blitz**  
-Thai F-16 jets unleashed airstrikes on Cambodian positions, razing a border casino and drone control center after clashes reignited near disputed temples like Preah Vihear. Cambodian sources report seven civilian deaths and over 54,000 evacuees fleeing rocket fire into provinces like Pursat and Banteay Meanchey, while Thai officials claim defensive responses to encroachment in Sa Kaeo....</div>
-            
-            <audio controls preload="none">
-                <source src="https://briefings.my/asia-in-brief/artifacts/2025-12-09/2025-12-09-audio.mp3" type="audio/mpeg">
-                Your browser does not support the audio element.
-            </audio>
-            
-        </div>
-        
-    </div>
+    </section>
+
+    
+    <footer class="site-footer">
+        <a class="rss-link" href="rss.xml">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><circle cx="6.18" cy="17.82" r="2.18"/><path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/></svg>
+            Subscribe via RSS
+        </a>
+    </footer>
 
 </body>
 </html>

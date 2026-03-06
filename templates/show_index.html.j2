@@ -7,11 +7,11 @@
     <meta name="description" content="{{ show_description }}">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;0,6..72,700;1,6..72,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;600;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         * { box-sizing: border-box; }
         body {
-            font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
             line-height: 1.6;
             max-width: 860px;
             margin: 0 auto;
@@ -24,10 +24,10 @@
         .site-header {
             margin-bottom: 36px;
             padding-bottom: 16px;
-            border-bottom: 2px solid #1a1a1a;
+            border-bottom: 2px solid #bbb;
         }
         .site-header h1 {
-            font-family: 'Newsreader', Georgia, serif;
+            font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
             font-weight: 700;
             font-size: 2.2em;
             color: #1a1a1a;
@@ -41,7 +41,7 @@
 
         /* Section headings */
         .section-heading {
-            font-family: 'Newsreader', Georgia, serif;
+            font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
             font-weight: 400;
             font-size: 1.4em;
             color: #1a1a1a;
@@ -76,7 +76,7 @@
             margin-bottom: 4px;
         }
         .episode-title {
-            font-family: 'Newsreader', Georgia, serif;
+            font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
             font-weight: 600;
             font-size: 15px;
             line-height: 1.35;
@@ -117,7 +117,7 @@
             padding: 14px;
         }
         .story-rank {
-            font-family: 'Newsreader', Georgia, serif;
+            font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
             font-size: 18px;
             font-weight: 700;
             color: #bbb;
@@ -130,8 +130,8 @@
             min-width: 0;
         }
         .story-title {
-            font-family: 'Newsreader', Georgia, serif;
-            font-weight: 700;
+            font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-weight: 600;
             font-size: 16px;
             line-height: 1.4;
             color: #1a1a1a;
@@ -240,14 +240,14 @@
 <body>
 
     <header class="site-header">
-        <h1>{{ show_title }}</h1>
+        <h1>🇮🇹 {{ show_title }}</h1>
         <p class="subtitle">{{ show_description }}</p>
     </header>
 
     {# --- Latest Episodes --- #}
     <section class="episodes-section">
-        <h2 class="section-heading">Rassegna Stampa</h2>
-        <p class="section-sub">Disponibile ogni sera</p>
+        <h2 class="section-heading">🎧️ Daily Briefing</h2>
+        <p class="section-sub">Available every evening. In English.</p>
         {% if episodes %}
         <div class="episodes-row">
             {% for ep in episodes %}
@@ -272,9 +272,14 @@
 
     {# --- Top Stories --- #}
     <section class="stories-section">
-        <h2 class="section-heading">Notizie Più Riportate</h2>
+        <h2 class="section-heading">📣 Top Stories</h2>
         {% if top_stories %}
-        <p class="section-sub">Ultimo aggironamento: {{ top_stories.generated_at }}</p>
+        <p class="section-sub">
+            Last updated: {{ top_stories.generated_at }}
+            {% if todays_sources_url %}
+            &nbsp;&middot;&nbsp; <a class="footer-link" href="{{ todays_sources_url }}">View all stories</a>
+            {% endif %}
+        </p>
         {% for story in top_stories.stories %}
         <div class="story">
             <div class="story-rank">{{ story.rank }}.</div>
@@ -301,9 +306,6 @@
 
     {# --- Footer --- #}
     <footer class="site-footer">
-        {% if todays_sources_url %}
-        <a class="footer-link" href="{{ todays_sources_url }}">Vedi tutte le storie &rarr;</a>
-        {% endif %}
         <a class="rss-link" href="{{ rss_url }}">
             <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><circle cx="6.18" cy="17.82" r="2.18"/><path d="M4 4.44v2.83c7.03 0 12.73 5.7 12.73 12.73h2.83c0-8.59-6.97-15.56-15.56-15.56zm0 5.66v2.83c3.9 0 7.07 3.17 7.07 7.07h2.83c0-5.47-4.43-9.9-9.9-9.9z"/></svg>
             Subscribe via RSS

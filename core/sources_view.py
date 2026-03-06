@@ -69,8 +69,8 @@ def parse_datetime(date_str: str) -> datetime | None:
     # Common RSS date formats
     formats = [
         "%a, %d %b %Y %H:%M:%S %z",  # RFC 822: "Tue, 20 Jan 2026 19:52:53 +0100"
-        "%Y-%m-%dT%H:%M:%S%z",        # ISO 8601
-        "%Y-%m-%dT%H:%M:%S.%f%z",     # ISO 8601 with microseconds
+        "%Y-%m-%dT%H:%M:%S%z",  # ISO 8601
+        "%Y-%m-%dT%H:%M:%S.%f%z",  # ISO 8601 with microseconds
         "%Y-%m-%d %H:%M:%S",
         "%d/%m/%Y %H:%M",
     ]
@@ -177,17 +177,19 @@ def run_hac_clustering(
             link = row.get("link", "")
             date_str = row.get("date", "")
             parsed_dt = parse_datetime(date_str)
-            articles.append(Article(
-                title=row["title"],
-                source=row["source"],
-                link=link,
-                description=row.get("description", ""),
-                author=row.get("author", ""),
-                date=date_str,
-                domain=extract_domain(link),
-                time_display=format_time_display(parsed_dt, reference_date),
-                parsed_date=parsed_dt,
-            ))
+            articles.append(
+                Article(
+                    title=row["title"],
+                    source=row["source"],
+                    link=link,
+                    description=row.get("description", ""),
+                    author=row.get("author", ""),
+                    date=date_str,
+                    domain=extract_domain(link),
+                    time_display=format_time_display(parsed_dt, reference_date),
+                    parsed_date=parsed_dt,
+                )
+            )
 
         # Sort articles by date (most recent first)
         # Use timestamp for comparison to avoid timezone-aware vs naive issues
@@ -195,6 +197,7 @@ def run_hac_clustering(
             if a.parsed_date:
                 return a.parsed_date.timestamp()
             return 0.0
+
         articles.sort(key=get_sort_key, reverse=True)
 
         # Single articles go to unclustered
@@ -219,16 +222,18 @@ def run_hac_clustering(
                 seen_sources.add(a.source)
                 source_domains.append(a.domain)
 
-        clusters.append(Cluster(
-            id=label,
-            articles=articles,
-            medoid_title=medoid_title,
-            medoid_description=medoid_desc,
-            source_count=n_sources,
-            source_diversity=diversity,
-            importance_score=importance,
-            source_domains=source_domains,
-        ))
+        clusters.append(
+            Cluster(
+                id=label,
+                articles=articles,
+                medoid_title=medoid_title,
+                medoid_description=medoid_desc,
+                source_count=n_sources,
+                source_diversity=diversity,
+                importance_score=importance,
+                source_domains=source_domains,
+            )
+        )
 
     # Sort clusters by importance
     clusters.sort(key=lambda c: c.importance_score, reverse=True)
@@ -241,20 +246,20 @@ def run_hac_clustering(
 
 HTML_TEMPLATE = """
 <!DOCTYPE html>
-<html lang="it">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ date }} - Rassegna Stampa</title>
+    <title>{{ date }} - Sources View</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,600;1,6..72,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;600;700&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
         * {
             box-sizing: border-box;
         }
         body {
-            font-family: 'Source Sans 3', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
             line-height: 1.7;
             max-width: 860px;
             margin: 0 auto;
@@ -263,11 +268,11 @@ HTML_TEMPLATE = """
             color: #2d2d2d;
         }
         h1 {
-            font-family: 'Newsreader', Georgia, serif;
+            font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
             font-weight: 700;
             font-size: 2.2em;
             color: #1a1a1a;
-            border-bottom: 2px solid #1a1a1a;
+            border-bottom: 2px solid #bbb;
             padding-bottom: 15px;
             margin-bottom: 10px;
         }
@@ -277,7 +282,7 @@ HTML_TEMPLATE = """
             margin-bottom: 30px;
         }
         h2 {
-            font-family: 'Newsreader', Georgia, serif;
+            font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
             font-weight: 400;
             font-size: 1.4em;
             color: #1a1a1a;
@@ -321,7 +326,7 @@ HTML_TEMPLATE = """
             gap: 0;
         }
         .cluster-rank {
-            font-family: 'Newsreader', Georgia, serif;
+            font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
             font-size: 18px;
             font-weight: 700;
             color: #999;
@@ -334,8 +339,8 @@ HTML_TEMPLATE = """
             min-width: 0;
         }
         .cluster-title {
-            font-family: 'Newsreader', Georgia, serif;
-            font-weight: 700;
+            font-family: 'Inter Tight', -apple-system, BlinkMacSystemFont, sans-serif;
+            font-weight: 600;
             font-size: 17px;
             line-height: 1.4;
             margin-bottom: 8px;
@@ -600,15 +605,13 @@ HTML_TEMPLATE = """
     </style>
 </head>
 <body>
-    <h1>Rassegna Stampa</h1>
-    <div class="subtitle">Generato {{ generated_at }} · {{ total_articles }} articoli da {{ source_count }} testate</div>
+    <h1>📣 Top Stories</h1>
+    <div class="subtitle">Generated {{ generated_at }} &middot; {{ total_articles }} articles from {{ source_count }} sources</div>
 
     <div class="config">
         <span>HAC clustering ({{ linkage }}, threshold={{ threshold }})</span>
-        <span>{{ cluster_count }} storie · {{ clustered_pct }}% raggruppati</span>
+        <span>{{ cluster_count }} stories &middot; {{ clustered_pct }}% clustered</span>
     </div>
-
-    <h2>Storie Principali</h2>
 
     {% for cluster in clusters %}
     <div class="cluster" onclick="this.classList.toggle('expanded')">
@@ -625,7 +628,7 @@ HTML_TEMPLATE = """
                         <span class="source-icon-more">+{{ cluster.source_domains|length - 6 }}</span>
                         {% endif %}
                     </div>
-                    <span class="cluster-meta-text">{{ cluster.articles|length }} articoli · {{ cluster.source_count }} testate</span>
+                    <span class="cluster-meta-text">{{ cluster.articles|length }} articles &middot; {{ cluster.source_count }} sources</span>
                 </div>
             </div>
             <span class="expand-icon">▼</span>
@@ -666,8 +669,8 @@ HTML_TEMPLATE = """
     {% endfor %}
 
     <div class="unclustered">
-        <h2>Altre Notizie ({{ unclustered|length }})</h2>
-        <p class="unclustered-intro">Articoli non raggruppati in storie principali.</p>
+        <h2>Other News ({{ unclustered|length }})</h2>
+        <p class="unclustered-intro">Articles not grouped into main stories.</p>
 
         {% for source, articles in unclustered_by_source.items() %}
         <div class="source-group" onclick="this.classList.toggle('expanded')">
@@ -708,16 +711,9 @@ HTML_TEMPLATE = """
 """
 
 
-def format_italian_datetime(dt: datetime) -> str:
-    """Format datetime in Italian style: 'Martedì 21 Gennaio 18:45'."""
-    days = ["Lunedì", "Martedì", "Mercoledì", "Giovedì", "Venerdì", "Sabato", "Domenica"]
-    months = [
-        "Gennaio", "Febbraio", "Marzo", "Aprile", "Maggio", "Giugno",
-        "Luglio", "Agosto", "Settembre", "Ottobre", "Novembre", "Dicembre"
-    ]
-    day_name = days[dt.weekday()]
-    month_name = months[dt.month - 1]
-    return f"{day_name} {dt.day} {month_name} {dt.strftime('%H:%M')}"
+def format_english_datetime(dt: datetime) -> str:
+    """Format datetime in English style: 'Tue 21 Jan 18:45'."""
+    return dt.strftime("%a %d %b %H:%M")
 
 
 def generate_html(
@@ -744,6 +740,7 @@ def generate_html(
         if a.parsed_date:
             return a.parsed_date.timestamp()
         return 0.0
+
     for source in unclustered_by_source:
         unclustered_by_source[source].sort(key=get_sort_key, reverse=True)
 
@@ -754,7 +751,9 @@ def generate_html(
 
     # Calculate stats
     clustered_count = sum(len(c.articles) for c in clusters)
-    clustered_pct = round(100 * clustered_count / total_articles) if total_articles > 0 else 0
+    clustered_pct = (
+        round(100 * clustered_count / total_articles) if total_articles > 0 else 0
+    )
 
     template = Template(HTML_TEMPLATE)
     return template.render(
@@ -796,13 +795,15 @@ def save_top_stories_json(
     """
     stories = []
     for rank, cluster in enumerate(clusters[:max_stories], start=1):
-        stories.append({
-            "rank": rank,
-            "title": cluster.medoid_title,
-            "source_count": cluster.source_count,
-            "article_count": len(cluster.articles),
-            "source_domains": cluster.source_domains,
-        })
+        stories.append(
+            {
+                "rank": rank,
+                "title": cluster.medoid_title,
+                "source_count": cluster.source_count,
+                "article_count": len(cluster.articles),
+                "source_domains": cluster.source_domains,
+            }
+        )
 
     data = {
         "date": date,
@@ -810,7 +811,9 @@ def save_top_stories_json(
         "stories": stories,
     }
 
-    output_path.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+    output_path.write_text(
+        json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8"
+    )
     return output_path
 
 
@@ -840,7 +843,7 @@ def generate_sources_view(
     )
 
     unique_sources = df["source"].nunique()
-    generated_at = format_italian_datetime(datetime.now())
+    generated_at = format_english_datetime(datetime.now())
 
     html = generate_html(
         clusters=clusters,
