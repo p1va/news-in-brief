@@ -16,7 +16,7 @@ provider = "gemini"
 [tts]
 voice_id = "Despina"
 voice_name = "Despina"
-model = "gemini-2.5-pro-preview-tts"
+model = "gemini-2.5-flash-preview-tts"
 provider = "gemini"
 
 [rss]

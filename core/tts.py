@@ -120,7 +120,7 @@ class OpenRouterTTSProvider:
 
 
 class GeminiTTSProvider:
-    def __init__(self, voice_id: str = "Despina", model: str = "gemini-2.5-pro-preview-tts"):
+    def __init__(self, voice_id: str = "Despina", model: str = "gemini-2.5-flash-preview-tts"):
         self.voice_name = voice_id
         self.model = model
         self.api_key = os.getenv("GEMINI_API_KEY")
