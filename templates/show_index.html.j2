@@ -227,6 +227,106 @@
             padding: 20px 0;
         }
 
+        /* Modal */
+        .modal {
+            display: none;
+            position: fixed;
+            z-index: 1000;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.4);
+            align-items: center;
+            justify-content: center;
+        }
+        .modal.show {
+            display: flex;
+        }
+        .modal-content {
+            background-color: #fff;
+            padding: 24px;
+            border-radius: 8px;
+            max-width: 400px;
+            width: 90%;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            position: relative;
+        }
+        .close-modal {
+            position: absolute;
+            right: 16px;
+            top: 16px;
+            font-size: 20px;
+            font-weight: bold;
+            color: #888;
+            cursor: pointer;
+        }
+        .close-modal:hover { color: #333; }
+        .modal h3 { margin-top: 0; margin-bottom: 8px; }
+        .modal p { color: #666; font-size: 14px; margin-bottom: 16px; }
+        .ai-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            padding: 14px 20px;
+            margin-bottom: 12px;
+            background: #f0f0f0;
+            color: #333;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+            font-size: 16px;
+            transition: background 0.2s;
+        }
+        .ai-btn img {
+            width: 20px;
+            height: 20px;
+        }
+        .ai-btn:hover { background: #e0e0e0; }
+        
+        .deep-dive-btn {
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 4px 8px;
+            transition: opacity 0.2s;
+            margin-left: auto;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+        .deep-dive-btn:hover {
+            opacity: 0.7;
+        }
+        .deep-dive-icons {
+            display: flex;
+            align-items: center;
+        }
+        .dd-icon {
+            width: 16px;
+            height: 16px;
+            border-radius: 50%;
+            background: #fff;
+            border: 1px solid #ddd;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+            object-fit: contain;
+            margin-left: -6px;
+            position: relative;
+        }
+        .dd-icon:first-child { margin-left: 0; z-index: 4; }
+        .dd-icon:nth-child(2) { z-index: 3; }
+        .dd-icon:nth-child(3) { z-index: 2; }
+        .dd-icon:nth-child(4) { z-index: 1; }
+        .dd-label {
+            font-size: 11px;
+            font-weight: 700;
+            color: #888;
+            margin-right: 8px;
+            letter-spacing: 0.5px;
+        }
+
         /* Responsive */
         @media (max-width: 640px) {
             body { padding: 24px 16px; }
@@ -284,7 +384,9 @@
         <div class="story">
             <div class="story-rank">{{ story.rank }}.</div>
             <div class="story-body">
-                <div class="story-title">{{ story.title }}</div>
+                <div class="story-title">
+                    <span>{{ story.title }}</span>
+                </div>
                 <div class="story-meta">
                     <div class="source-icons">
                         {% for domain in story.source_domains[:6] %}
@@ -295,6 +397,16 @@
                         {% endif %}
                     </div>
                     <span class="story-meta-text">{{ story.source_count }} sources · {{ story.article_count }} articles</span>
+                    
+                    <button class="deep-dive-btn" onclick="openDeepDive(this.dataset.links)" data-links="{{ story.links | default([]) | tojson | forceescape }}" title="AI Deep Dive">
+                        <span class="dd-label">AI</span>
+                        <div class="deep-dive-icons">
+                            <img class="dd-icon" src="https://www.google.com/s2/favicons?domain=chatgpt.com&sz=32" alt="">
+                            <img class="dd-icon" src="https://www.google.com/s2/favicons?domain=claude.ai&sz=32" alt="">
+                            <img class="dd-icon" src="https://www.google.com/s2/favicons?domain=google.com&sz=32" alt="">
+                            <img class="dd-icon" src="https://www.google.com/s2/favicons?domain=grok.com&sz=32" alt="">
+                        </div>
+                    </button>
                 </div>
             </div>
         </div>
@@ -312,5 +424,63 @@
         </a>
     </footer>
 
+    <!-- Deep Dive Modal -->
+    <div id="deepDiveModal" class="modal">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <h3>Dive Deeper with AI</h3>
+            <p>Choose your AI assistant and dive deeper</p>
+            <div class="ai-options" id="aiOptions"></div>
+        </div>
+    </div>
+
+    <script>
+        function openDeepDive(urlsData) {
+            let urls = urlsData;
+            if (typeof urlsData === 'string') {
+                try { urls = JSON.parse(urlsData); } catch (e) { urls = []; }
+            }
+            if (!urls || urls.length === 0) {
+                alert("No URLs available for this story.");
+                return;
+            }
+            const prompt = "I would like to have a deep dive on the following news:\n" + urls.map((u, i) => `${i+1}) ${u}`).join("\n");
+            const encodedPrompt = encodeURIComponent(prompt);
+            
+            const options = document.getElementById('aiOptions');
+            options.innerHTML = `
+                <a href="https://chatgpt.com/?q=${encodedPrompt}" target="_blank" class="ai-btn">
+                    <img src="https://www.google.com/s2/favicons?domain=chatgpt.com&sz=32" alt="" loading="lazy">
+                    ChatGPT
+                </a>
+                <a href="https://claude.ai/new?q=${encodedPrompt}" target="_blank" class="ai-btn">
+                    <img src="https://www.google.com/s2/favicons?domain=claude.ai&sz=32" alt="" loading="lazy">
+                    Claude
+                </a>
+                <a href="https://www.google.com/search?udm=50&aep=11&q=${encodedPrompt}" target="_blank" class="ai-btn">
+                    <img src="https://www.google.com/s2/favicons?domain=google.com&sz=32" alt="" loading="lazy">
+                    Google AI Mode
+                </a>
+                <a href="https://grok.com/?q=${encodedPrompt}" target="_blank" class="ai-btn">
+                    <img src="https://www.google.com/s2/favicons?domain=grok.com&sz=32" alt="" loading="lazy">
+                    Grok
+                </a>
+            `;
+            
+            document.getElementById('deepDiveModal').classList.add('show');
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const modal = document.getElementById('deepDiveModal');
+            const closeBtn = document.querySelector('.close-modal');
+            
+            closeBtn.onclick = () => modal.classList.remove('show');
+            window.onclick = (e) => {
+                if (e.target == modal) {
+                    modal.classList.remove('show');
+                }
+            }
+        });
+    </script>
 </body>
 </html>
