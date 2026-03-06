@@ -1,9 +1,41 @@
 {
   "date": "2026-03-06",
-  "generated_at": "Fri 06 Mar 08:48",
+  "generated_at": "Fri 06 Mar 09:48",
   "stories": [
     {
       "rank": 1,
+      "title": "Guerra in Iran, news di oggi. Trump: “Operazione di terra una perdita di tempo”. Teheran minaccia l’Europa",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "fanpage.it",
+        "corriere.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Milano, allarme bomba al Palazzo di giustizia: verifiche in corso",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "milano.corriere.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Cos’è successo nelle prove libere del GP Australia F1 2026: Ferrari brilla in FP1, lampo Piastri in FP2",
       "source_count": 6,
       "article_count": 8,
@@ -17,7 +49,21 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "title": "Vomero, terrore sul bus: 32enne accoltellata da un uomo che rischia il linciaggio. L'aggressore urla il nome di Gratteri",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "napoli.corriere.it",
+        "agi.it"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Trump licenzia Kristi Noem, l'annuncio in un post sul suo social Truth",
       "source_count": 7,
       "article_count": 7,
@@ -32,20 +78,20 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Milano Cortina, oggi la cerimonia di apertura delle Paralimpiadi: orario, ospiti e dove vederla",
+      "rank": 6,
+      "title": "Trump imbarazza Messi alla Casa Bianca: prima parla delle bombe sull’Iran e poi cita Cristiano Ronaldo",
       "source_count": 5,
       "article_count": 7,
       "source_domains": [
-        "corriere.it",
         "ilfattoquotidiano.it",
-        "adnkronos.com",
+        "lastampa.it",
         "fanpage.it",
-        "repubblica.it"
+        "repubblica.it",
+        "adnkronos.com"
       ]
     },
     {
-      "rank": 4,
+      "rank": 7,
       "title": "Le basi americane in Italia: dove sono e come potrebbero essere usate",
       "source_count": 6,
       "article_count": 6,
@@ -59,7 +105,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 8,
       "title": "Lo stretto di Hormuz 'zona di guerra', mille navi bloccate",
       "source_count": 5,
       "article_count": 6,
@@ -72,19 +118,20 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Donna accoltellata sull'autobus a Napoli, 39enne arrestato era già in cura",
-      "source_count": 4,
+      "rank": 9,
+      "title": "Milano Cortina, oggi la cerimonia di apertura delle Paralimpiadi: orario, ospiti e dove vederla",
+      "source_count": 5,
       "article_count": 6,
       "source_domains": [
+        "corriere.it",
         "adnkronos.com",
         "fanpage.it",
-        "napoli.corriere.it",
-        "agi.it"
+        "ilfattoquotidiano.it",
+        "repubblica.it"
       ]
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "Ragazzo di 27 anni morto a Parma, la fidanzata indagata per omicidio volontario",
       "source_count": 5,
       "article_count": 5,
@@ -94,41 +141,6 @@
         "ansa.it",
         "corrieredibologna.corriere.it",
         "ilmessaggero.it"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Leo Messi alla Casa Bianca. Trump: “Per me un grande privilegio”. E chiede se sia meglio lui o Pelé",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "lastampa.it",
-        "fanpage.it",
-        "repubblica.it",
-        "adnkronos.com"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "MasterChef 15, vince Matteo Canzi: «Lo show mi ha quasi demolito, mi sono rialzato grazie al pescegatto. Farò lo chef, non l'influencer»",
-      "source_count": 3,
-      "article_count": 6,
-      "source_domains": [
-        "corriere.it",
-        "adnkronos.com",
-        "fanpage.it"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "È morto António Lobo Antunes, lo scrittore della guerra portoghese in Africa",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "unita.it"
       ]
     }
   ]
