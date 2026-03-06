@@ -1,6 +1,6 @@
 {
   "date": "2026-03-06",
-  "generated_at": "Fri 06 Mar 09:35",
+  "generated_at": "Fri 06 Mar 08:48",
   "stories": [
     {
       "rank": 1,
@@ -73,6 +73,18 @@
     },
     {
       "rank": 6,
+      "title": "Donna accoltellata sull'autobus a Napoli, 39enne arrestato era già in cura",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "fanpage.it",
+        "napoli.corriere.it",
+        "agi.it"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Ragazzo di 27 anni morto a Parma, la fidanzata indagata per omicidio volontario",
       "source_count": 5,
       "article_count": 5,
@@ -85,29 +97,15 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Mario Ruoso ucciso a sprangate, confessa il collaboratore storico di TelePordenone: “Increduli, uno di famiglia”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "fanpage.it",
-        "corrieredelveneto.corriere.it",
-        "ilmessaggero.it",
-        "agi.it"
-      ]
-    },
-    {
       "rank": 8,
-      "title": "Iran, Meloni: : «Non siamo in guerra, non vogliamo entrare in guerra»",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Leo Messi alla Casa Bianca. Trump: “Per me un grande privilegio”. E chiede se sia meglio lui o Pelé",
+      "source_count": 4,
+      "article_count": 6,
       "source_domains": [
-        "laverita.info",
-        "repubblica.it",
+        "lastampa.it",
         "fanpage.it",
-        "unita.it",
-        "video.corriere.it"
+        "repubblica.it",
+        "adnkronos.com"
       ]
     },
     {
@@ -123,14 +121,14 @@
     },
     {
       "rank": 10,
-      "title": "Leo Messi alla Casa Bianca. Trump: “Per me un grande privilegio”. E chiede se sia meglio lui o Pelé",
+      "title": "È morto António Lobo Antunes, lo scrittore della guerra portoghese in Africa",
       "source_count": 4,
       "article_count": 5,
       "source_domains": [
-        "fanpage.it",
-        "lastampa.it",
-        "repubblica.it",
-        "adnkronos.com"
+        "ilgiornale.it",
+        "ilmanifesto.it",
+        "ansa.it",
+        "unita.it"
       ]
     }
   ]
