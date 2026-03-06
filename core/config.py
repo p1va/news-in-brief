@@ -65,6 +65,7 @@ class ShowMetadata:
 class LLMConfig:
     model: str
     model_friendly_name: str
+    provider: str = "openrouter"
 
 
 @dataclass

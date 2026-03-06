@@ -12,7 +12,7 @@ from typing_extensions import Annotated
 from core.analyzer import NewsAnalyzer, generate_stories_markdown, save_stories_markdown
 from core.config import load_show_config
 from core.embeddings import generate_embeddings_for_parquet
-from core.llm import OpenRouterLLM
+from core.llm import OpenRouterLLM, GeminiLLM
 from core.news import NewsRepository
 from core.render import render_prompt_template
 from core.rss import generate_rss_feed
@@ -392,19 +392,34 @@ def process_episode(
             system_prompt = system_prompt_path.read_text()
             user_message = user_message_path.read_text()
 
-            openrouter_api_key = os.environ.get("OPENROUTER_API_KEY")
-            if not openrouter_api_key:
-                typer.secho(
-                    "Error: OPENROUTER_API_KEY not found in environment.",
-                    fg=typer.colors.RED,
-                )
-                raise typer.Exit(code=1)
+            if config.llm.provider == "gemini":
+                gemini_api_key = os.environ.get("GEMINI_API_KEY")
+                if not gemini_api_key:
+                    typer.secho(
+                        "Error: GEMINI_API_KEY not found in environment.",
+                        fg=typer.colors.RED,
+                    )
+                    raise typer.Exit(code=1)
 
-            llm = OpenRouterLLM(
-                model=config.llm.model,
-                system_prompt=system_prompt,
-                api_key=openrouter_api_key,
-            )
+                llm = GeminiLLM(
+                    model=config.llm.model,
+                    system_prompt=system_prompt,
+                    api_key=gemini_api_key,
+                )
+            else:
+                openrouter_api_key = os.environ.get("OPENROUTER_API_KEY")
+                if not openrouter_api_key:
+                    typer.secho(
+                        "Error: OPENROUTER_API_KEY not found in environment.",
+                        fg=typer.colors.RED,
+                    )
+                    raise typer.Exit(code=1)
+
+                llm = OpenRouterLLM(
+                    model=config.llm.model,
+                    system_prompt=system_prompt,
+                    api_key=openrouter_api_key,
+                )
 
             script_content = llm(user_message)
             script_path.write_text(script_content)

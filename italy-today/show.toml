@@ -9,14 +9,15 @@ host_name = "Amelia"
 cover_image = "cover.png"
 
 [llm]
-model = "google/gemini-3.1-pro-preview"
+model = "gemini-3.1-pro-preview"
 model_friendly_name = "Gemini 3.1 Pro"
+provider = "gemini"
 
 [tts]
-voice_id = "marin" # OpenAI 'marin' voice (if using OpenRouter) or keep generic if not used
-voice_name = "Marin"
-model = "openai/gpt-audio"
-provider = "openrouter"
+voice_id = "Despina"
+voice_name = "Despina"
+model = "gemini-2.5-pro-preview-tts"
+provider = "gemini"
 
 [rss]
 base_url = "https://briefings.my/italy-today"
