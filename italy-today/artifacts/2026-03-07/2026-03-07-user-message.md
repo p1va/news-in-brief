@@ -1,0 +1,538 @@
+Here is the latest data for today's show:
+- In <previous_episode_transcript> find the script for the last episode for context.
+- In <clustered_headlines> find the "Top Stories" (widely covered).
+- In <other_headlines> find news that were only covered by single source.
+
+
+<previous_episode_transcript>
+# Previous Episode Transcript (2026-03-06)
+Welcome to another episode of "Italy Today", today is Friday 06 and this episode was curated by Gemini 3.1 Pro.
+
+We begin with the rapid-fire headlines. The Paralympic Winter Games officially open tonight in Verona, though the ceremony is clouded by the absence of several national delegations boycotting the permitted participation of Russian and Belarusian athletes. In a massive sleeper story uncovered by Il Sole 24 Ore, the Constitutional Court has ordered the government to abolish the delayed payment of public sector severance packages by January 2027, a landmark ruling that forces the state to find billions to pay retiring civil servants on time. In a stunning reversal of a 13-year-old financial mystery, a parliamentary commission has officially concluded that the 2013 plunge of Monte dei Paschi di Siena executive David Rossi from his office window was a murder, not a suicide. The newspaper Il Foglio highlights a looming domestic security crisis, reporting that the government is scrambling to fill a 27,000-officer shortage across the police and Carabinieri due to a massive wave of retirements. And finally, mark your calendars: the highly anticipated national Referendum on Justice has been officially set for March 22nd and 23rd.
+
+Following up on yesterday's report, the geopolitical earthquake triggered by the Trump administration's military operations in Iran is now hitting the Italian wallet and the military apparatus simultaneously. With the Strait of Hormuz effectively declared a war zone and commercial shipping halted, gas prices across Italy have spiked past two euros a liter. In response, Rome has deployed the "Martinengo" missile frigate to the coast of Cyprus to bolster European defense lines, while simultaneously dispatching the financial police to gas stations nationwide to hunt down price gougers. 
+
+The institutional right, led by Il Giornale, is framing the Meloni government's response as a decisive defense of national interests—projecting strength abroad while protecting citizens from market speculators at home. The opposition, however, sees a much darker reality. La Repubblica and Fanpage are warning that the closure of Hormuz will inevitably drag the Italian economy into a deep stagflation that no domestic price controls can fix. Furthermore, the progressive press is heavily amplifying alarming reports that an American strike may have hit an Iranian girls' school, using the tragedy to question the moral and strategic cost of Rome remaining in lockstep with Washington. The ultimate takeaway is that while the government uses anti-speculation task forces as a political band-aid, Italy's structural vulnerability to global energy shocks has been fully exposed.
+
+Turning to a bitter domestic clash between the executive branch and the judiciary, a localized child welfare case has erupted into a national political scandal. For months, the media has followed the "Family in the Woods"—an Anglo-Australian couple living entirely off-grid in the Abruzzo region with their children. Today, a juvenile court ordered the mother to be physically removed from the social services facility where she was staying with her children, citing her hostile behavior toward the staff. 
+
+The ruling immediately triggered the Prime Minister. Giorgia Meloni took to social media to publicly condemn the judges, calling the decision to separate a mother from her children "disturbing." Right-wing outlets like La Verità are leveraging the case to rail against an overreaching state destroying the traditional family unit. Conversely, the progressive opposition accuses the right of weaponizing a highly delicate psychological evaluation to attack the credibility of the judiciary, just two weeks before Italians head to the polls to vote on the Justice Referendum. 
+
+Moving from the courts to the markets, the Treasury has just closed its latest round of "BTP Valore," the government bonds aimed specifically at everyday retail investors. While it raised an impressive 16 billion euros, Il Sole 24 Ore points out a vital detail: the Treasury was forced to hike the yield on the final two years of the bond up to a lucrative 3.8 percent. Financial analysts are dubbing this the "Iran Effect." To keep Italian families buying national debt amidst global panic and stock market volatility, the state is being forced to pay a significantly higher premium, increasing the long-term cost of servicing Italy's mammoth public debt.
+
+But before we go, a cultural shift is quietly sweeping through the peninsula. Digital outlet Il Post reports today that regional dialects—long stigmatized as the language of the uneducated or the elderly—are experiencing a massive resurgence among Italy's youth. Far from dying out, local dialects are becoming a fashion statement and a marker of authenticity for Gen Z, dominating TikTok trends, modern music, and digital content. In an increasingly homogenized global culture, young Italians are reclaiming their hyper-local roots, proving that sometimes the best way to move forward is to speak like your grandparents.
+
+I will see you tomorrow.
+</previous_episode_transcript>
+
+
+
+<clustered_headlines>
+# Coverage Pulse - 2026-03-07
+
+## 1. F1 Gp Australia, le qualifiche in diretta: Russell in pole davanti ad Antonelli. Leclerc quarto e Hamilton settimo
+
+> **Context:** A Melbourne doppietta Mercedes nelle prime qualifiche della stagione, Hadjar terzo, incidente per Verstappen
+
+- **Corriere Della Sera**: Gp Australia, le qualifiche. Russell in pole davanti ad Antonelli. Leclerc in seconda fila, delude Hamilton Diretta A Melbourne doppietta Mercedes, Hadjar batte la Ferrari, incidente Verstappen
+- **Corriere Della Sera**: F1 Gp Australia, le qualifiche in diretta: Russell in pole davanti ad Antonelli. Leclerc quarto e Hamilton settimo A Melbourne doppietta Mercedes nelle prime qualifiche della stagione, Hadjar terzo, incidente per Verstappen
+- **Corriere Della Sera**: Incidente Antonelli nelle terze prove libere: Mercedes distrutta, che cosa è successo A Melbourne nelle ultime libere Mercedes protagonista nel bene e nel male. La Ferrari può lottare per la prima fila
+- **La Repubblica**: Verstappen, incidente nelle qualifiche del Gp d’Australia, l’olandese subito fuori. Russell in pole Il pilota, dopo il fuoripista nella ghiaia, è uscito dall’abitacolo sulle proprie gambe. Bandiera rossa e sessione interrotta per alcuni minuti
+- **La Stampa**: Gp d’Australia: Russell in pole, prima fila con Antonelli. Verstappen, incidente nelle qualifiche Il pilota, dopo il fuoripista nella ghiaia, è uscito dall’abitacolo sulle proprie gambe. Bandiera rossa e sessione interrotta per alcuni minuti. In seconda fila la Red Bull di Adjar e la Ferrari di Leclerc
+- **ANSA**: F1: Australia; Russell in pole, prima fila con Antonelli, Verstappen contro le barriere In seconda fila la Red Bull di Adjar e la Ferrari di Leclerc
+- **Adkronos**: F1 Gp Australia, Russell in pole e prima fila Mercedes: Leclerc quarto con Ferrari Il britannico precede Antonelli, Leclerc in seconda fila e Hamilton è settimo
+- **Fanpage.it**: La Mercedes domina le Qualifiche del GP Australia: Russell in pole, poi Antonelli. Leclerc quarto Russell in pole position al Gran Premio d'Australia. In prima fila anche Kimi Antonelli, poi Hadjar su Red Bull. Charles Leclerc quarto, solo settimo invece Lewis Hamilton.Continua a leggere
+- **Fanpage.it**: LIVE F1, Russell in pole dopo le qualifiche del GP Australia: 1ª fila Mercedes, Leclerc quarto La griglia di partenza del GP Australia di F1 2026: Russell in pole.Continua a leggere
+- **Adkronos**: F1 Gp Australia, la griglia di partenza Prima fila per le Mercedes, la Ferrari insegue
+- **Fanpage.it**: Leclerc già non vede futuro per la Ferrari: “Sono deluso, otto decimi da recuperare sono tanti” Il quarto posto nelle Qualifiche non è un risultato pessimo per la Ferrari, ma il divario di otto decimi con Russell preoccupa Leclerc che non ne ha fatto mistero.Continua a leggere
+- **Il Giornale**: F1, Russell pole, Antonelli secondo. Ferrari bene, Leclerc 4°, Hamilton 7° L’inglese della Mercedes domina le qualifiche a Melbourne ma è l’italiano ad impressionare dopo un botto nelle libere. Il monegasco beffato da Hadjar nel Q3, Verstappen subito fuori
+- **Libero**: Melbourne, dominio Mercedes. Le terribili parole di Vasseur E' di George Russell la prima pole della nuova stagione della F1. Dominio Mercedes nelle qualifiche del Gp d'Australia sul circuito dell'Albert Park di Melbourne, con il pilota britannico che si è piazzato davanti al compagno di squadra Kimi Antonelli. Terzo il sorprendente Isack Hadjar con la Red Bull. Quarto tempo per Charles Leclerc con la Ferrari, mentre Lewis Hamilton con l'altra 'Rossa' ha chiuso settimo. Sesto il campione del mondo in carica Lando Norris con la McLaren, dietro al compagno di scuderia Oscar Piastri. Subito un incidente invece per Max Verstappen. Il pilota della Red Bull è finito fuori pista con la macchina bloccata. Sarà 20esimo in griglia. Domani la gara alle ore 5 italiane. "La qualifica è stata caotica e difficile. Abbiamo commesso qualche errore e il margine per arrivare al terzo posto c'era, ma Mercedes era su un altro pianeta e ha più velocità di punta sui rettilinei. Domani dovremo essere sul pezzo perché c'è grande incertezza, la partenza sarà una sfida perché la finestra è piuttosto ristretta". Queste le parole, ai microfoni di Sky Sport, di Frederic Vasseur, team principal Ferrari, dopo le qualifiche del Gran Premio d'Australia, primo appuntamento del Mondiale di F1 2026. "Lewis (Hamilton, ndr) ha faticato a mettere in temperatura le gomme nell'out lap e molto era collegato alla gestione dell'energia nel primo settore", conclude Vasseur.
+- **Il Messaggero**: F1, qualifiche Gp Australia: dominio Mercedes con Russell in pole e Antonelli secondo. Ferrari quarta con Leclerc Doveva essere Mercedes e così è stato. La prima fila del GP di Australia sul tracciato di Melbourne, vedrà in pole George Russell, dominatore dei tre segmenti della...
+- **Adkronos**: Ferrari, delusione dopo qualifiche Gp Australia: "Mercedes di un altro pianeta" Leclerc e Vasseur hanno analizzato la griglia di partenza del Gp d'Australia
+- **Il Messaggero**: GP d'Australia, la Mercedes si toglie la maschera: le Frecce di Antonelli e Russell sono le monoposto da battere La pole è già assegnata, ma solo domani all’alba lo scenario sarà più delineato. Il gran premio “down under” scatterà alle 5 ora europea...
+- **ANSA**: F1: in Australia prima fila Russell-Antonelli, é dominio Mercedes. Adjar e Leclerc in 2/a, impressionano i distacchi inflitti dalle Frecce d'Argento. Verstappen contro le barriere
+- **Il Fatto Quotidiano**: La Mercedes fa paura a Melbourne: pole per Russell, 2° Antonelli. I dubbi di Hamilton: “Spero sia solo potenza” “Spero che tale differenza sia solo pura potenza”. Con qualche perplessità, così Lewis Hamilton ha parlato dopo le qualifiche della mattinata di sabato 7 marzo che ha visto dominare le due Mercedes. La prima pole della stagione è di George Russell, che ha chiuso con un super 1:18.518, davanti al compagno di squadra Kimi Antonelli, […] L'articolo La Mercedes fa paura a Melbourne: pole per Russell, 2° Antonelli. I dubbi di Hamilton: “Spero sia solo potenza” proviene da Il Fatto Quotidiano.
+
+
+## 2. Mattarella arriva all'Arena di Verona per cerimonia apertura Giochi Paralimpici Milano Cortina
+
+- **Corriere Della Sera**: Il miracolo della cerimonia di apertura delle Paralimpiadi: sfilano i russi senza fischi, applausi per Ucraina e Mattarella All'Arena di Verona si è svolto lo show che ha aperto le Paralimpiadi. Giovanni Malagò: «Il messaggio di pace, inclusione e solidarietà al centro del movimento paralimpico è più significativo e importante che mai»
+- **Corriere Della Sera**: Giochi paralimpici invernali 2026: la cerimonia di apertura | Russi e bielorussi sfilano con le bandiere, Mattarella apre i Giochi, Bebe Vio accende la torcia All'Arena di Verona si è svolto lo show che ha aperto le Paralimpiadi. Giovanni Malagò: «Il messaggio di pace, inclusione e solidarietà al centro del movimento paralimpico è più significativo e importante che mai»
+- **La Repubblica**: Venti di guerra sui Giochi: sfila la Russia, non l’Iran Mattarella inaugura le Paralimpiadi: Bebe Vio tedofora, Mimì Caruso canta l’inno. Resta a casa l’unico atleta di Teheran
+- **La Stampa**: Oltre i Giochi Paralimpici: apertura tra polemiche e boicottaggi Usa e Russia: sale il volume della musica, ma i fischi prevalgono. C’è Mattarella all’Arena di Verona. E Malagò: “Non ignoriamo che stiamo vivendo momenti drammatici”
+- **ANSA**: Mattarella dichiara aperte le Paralimpiadi, la festa nonostante i boicottaggi e le assenze Sfilano 29 nazioni su 55. Bebe Vio ultima tedofora
+- **Fanpage.it**: Atleti russi fischiati dal pubblico, la nota stonata alla Cerimonia d’Apertura delle Paralimpiadi Straordinaria Cerimonia all'intero di una Arena di Verona stupefacente, perfetta cornice per l'apertura ufficiale delle Paralimpiadi, tra musiche, colori e scenografie toccanti e mozzafiato. Con un unico "neo" quando sul palco si sono presentate le delegazioni di Russia e Bielorussia.Continua a leggere
+- **Libero**: Mattarella dichiara aperti i Giochi Paralimpici di Milano-Cortina 
+- **Libero**: Mattarella arriva all'Arena di Verona per cerimonia apertura Giochi Paralimpici Milano Cortina 
+- **Libero**: Meloni arriva all'Arena di Verona per cerimonia apertura Giochi Paralimpici Milano Cortina 
+- **Il Messaggero**: Paralimpiadi, la cerimonia di apertura a Verona. Assente l'atleta iraniano. Il segnale di Mattarella L’aveva promesso, Sergio Mattarella. «Vi assicuro la piena vicinanza della Presidenza della Repubblica. Ci vediamo a Verona per la cerimonia d’apertura dei...
+- **Libero**: Paralimpiadi Milano Cortina, un sorvolo inclusivo sull'Arena di Verona 
+- **Il Giornale**: Paralimpiadi al via. Emozioni e applausi per i Giochi italiani in tempo di guerra Lo spirito olimpico tra le tensioni globali: Malagò: "Ora è più importante che mai"
+- **Libero**: Mattarella apre i Giochi Paralimpici Invernali Milano Cortina 2026 
+- **Adkronos**: Paralimpiadi Milano Cortina, la Russia vince due bronzi e torna nel medagliere Dopo l'assenza di diversi Paesi alla cerimonia di apertura, in segno di protesta contro la riammissione di atleti russi e bielorussi con inno e bandiera, la nazionale russa vince le prime medaglie
+
+
+## 3. Tennis: Indian Wells, Sinner al terzo turno contro Shapovalov
+
+> **Context:** L'azzurro ha eliminato 6-1 6-1 il ceco Svrcina
+
+- **La Repubblica**: Sinner supera Svrcina a Indian Wells regalando solo due game all’avversario. “Devo migliorare ancora” Tutto facile per il numero 2 del mondo sul cemento americano del Masters 1000. Al terzo turno Shapovalov
+- **ANSA**: Tennis: Indian Wells, Sinner al terzo turno contro Shapovalov L'azzurro ha eliminato 6-1 6-1 il ceco Svrcina
+- **Fanpage.it**: Sinner passeggia a Indian Wells, gli bastano 62 minuti per vincere: “Sto bene, ma devo migliorare” Jannik Sinner inizia con un successo per 6-1 6-1 al torneo di Indian Wells. L'italiano passeggia con Svrcina e sfiderà nel terzo turno il canadese Denis Shapovalov.Continua a leggere
+- **Corriere Della Sera**: Sinner-Svrcina a Indian Wells, il risultato: 6-1, 6-1. Tutto facile per Jannik al debutto: «Mi mancava questo torneo» 
+- **Il Messaggero**: Sinner-Shapovalov: data, orario e dove vedere il terzo turno di Indian Wells in tv e streaming È un esordio sul velluto quello di Jannik Sinner al Masters 1000 di Indian Wells. Al secondo turno del torneo in corso sul cemento della California l'azzurro ha liquidato in due set...
+- **Il Giornale**: Indian Wells, Sinner stravince al debutto: Svrcina liquidato in due set Con un doppio 6-1 l’azzurro elimina l’avversario ceco regalando spettacolo sul Campo Centrale di Indian Wells. “Sono molto felice di essere tornato qui”
+- **Adkronos**: Sinner, a Indian Wells vince anche... il nuovo kit: "10 e lode" Il tennista azzurro ha battuto Svrcina all'esordio nel Masters 1000 americano sfoggiando un completo inedito
+- **Adkronos**: Sinner, quando gioca a Indian Wells? La data del match con Shapovalov Il tennista azzurro è reduce dall'esordio vincente con Svrcina
+- **Libero**: Indian Wells, Sinner come uno squalo: sbrana il ceco in 62 minuti. Il colpo fatale Jannik Sinner ha esordito nel BNP Paribas Open con una prestazione dominante e senza storia. L’azzurro, numero 2 ATP, ha liquidato il ceco Dalibor Svrcina (n. 109 del ranking, uscito dalle qualificazioni) con un netto 6-1 6-1 in appena 62 minuti di gioco.Il divario tra i due è stato evidente sin dal primo scambio: Sinner ha imposto il suo tennis implacabile, tipico dei suoi inizi di torneo, con un peso differente in ogni fondamentale. Svrcina, pur proveniente dalle qualifiche, non è mai riuscito a reggere il ritmo. Jannik ha offerto un paio di magie, tra cui un recupero spettacolare già candidato a punto del torneo, confermando la sua superiorità tecnica e fisica anche nella canicola californiana (si gioca spesso senza sole diretto). La vittoria proietta Sinner direttamente al terzo turno, in programma domenica, dove affronterà il canadese Denis Shapovalov. Il nordamericano ha superato sul filo di lana l’argentino Tomas Martin Etcheverry, specialista della terra rossa, in un match più equilibrato e combattuto. A fine partita, intervistato, Sinner ha mantenuto la consueta tranquillità: “Sono calmo e rilassato. Ho giocato bene, sono contento, questo torneo mi piace molto e mi è mancato, ma ho ancora qualcosa da migliorare, ma mi sono preparato molto per questi due tornei negli Stati Uniti. Mentalmente sto bene, ho lavorato molto sul fisico e sono felice di essere tornato in campo”.Parole che riflettono la serenità di chi sa di aver iniziato nel modo giusto, pur con la consapevolezza che il livello salirà notevolmente contro Shapovalov. Indian Wells resta un tabù per Jannik (mai vinto), ma il cammino è partito nel migliore dei modi. This rocket forehand right before Jannik Sinner broke! Sinner leads 3-1. pic.twitter.com/CL8vlQSxIG — jannik sinner files (@jannik_files) March 7, 2026
+- **Adkronos**: Sinner si allena a Indian Wells, tifosa urla: "Ti amo". E lui ride Il tennista azzurro ha battuto Svrcina all'esordio nel Masters 1000 americano
+- **Fanpage.it**: Quando gioca Sinner a Indian Wells: data e orario dell’incontro con Shapovalov Jannik Sinner affronterà Denis Shapovalov nei sedicesimi del torneo 1000 di Indian Wells. L'incontro si disputerà domenica 8 marzo, l'orario d'inizio non è stato ancora definito. Diretta TV su Sky.Continua a leggere
+- **Libero**: Jannik Sinner vince a Indian Wells: la frase che fa impazzire Bill Gates Debutto col botto per Jannik Sinner. Il tennista batte il ceco Svrcina 6-1 6-1 in poco più di un'ora a Indian Wells. A vittoria messa in saccoccia, il numero due al mondo ha subito commentato: "Sono molto felice di essere tornato qui, non ci ho giocato l'anno scorso. Mi è mancato giocare qui perché la passione che avete è incredibile. Sto bene, mi sento bene, devo ancora migliorare molto". Niente di strabiliante, ma tanto è bastato per far impazzire gli americani, e Bill Gates in tribuna, che già avevano gradito molto il debutto così "scintillante". Si legge, infatti, sul sito del torneo: "Serata elettrica – tennis elettrico. Fuochi d'artificio scintillanti hanno illuminato la notte sopra lo Stadio 1 venerdì sera e, poco prima dello spettacolo pirotecnico, il numero 2 del mondo e due volte semifinalista Jannik Sinner ha caricato i tifosi per l'occasione. Sinner ha smantellato il qualificato ceco Dalibor Svrcina, 6-1, 6-1, con una sbalorditiva dimostrazione di tennis fulmineo che ha appassionato i tifosi carichi di entusiasmo". [[ge:kolumbus:liberoquotidiano:46685925]] L'altoatesino affronterà ora il canadese Denis Shapovalov (numero 39 ATP), che ha superato 6-3 2-6 7-6(5) l'argentino Tomas Martin Etcheverry, testa di serie numero 29, arrivato a Indian Wells dopo aver vinto il primo titolo Atp a Rio. Battendo il canadese, Sinner eguaglierà le 96 vittorie nei Masters 1000 di Fabio Fognini, l'italiano con più partite vinte in questa categoria di tornei dal 1990, quando sono stati introdotti nel calendario Atp.
+- **Il Messaggero**: Sinner, quando gioca contro Shapovalov? Orario e dove vederlo (tv e streaming). Il terzo turno di Indian Wells È un esordio sul velluto quello di Jannik Sinner al Masters 1000 di Indian Wells. Al secondo turno del torneo in corso sul cemento della California l'azzurro ha liquidato in due set...
+
+
+## 4. Laura Pirovano da sogno: vince anche la seconda discesa libera in Val di Fassa
+
+> **Context:** Coppa del mondo, l'azzurra trionfa con un solo centeismo di vantaggio sull'austriaca Huetter e 5 sulla svizzera Sutter
+
+- **Il Giornale**: Finalmente Laura: un centesimo premia l'eterna "piazzata" Primo acuto della Pirovano dopo 29 volte nella Top 10 senza passare mai dal podio
+- **La Repubblica**: Sci, discesa libera Val di Fassa in diretta: Goggia terza, attesa per Pirovano 
+- **Corriere Della Sera**: Laura Pirovano da sogno: vince anche la seconda discesa libera in Val di Fassa Coppa del mondo, l'azzurra trionfa con un solo centeismo di vantaggio sull'austriaca Huetter e 5 sulla svizzera Sutter
+- **La Stampa**: Coppa del Mondo, Pirovano ancora in testa dopo il trionfo di ieri L’azzurra al comando anche nella seconda discesa
+- **Il Fatto Quotidiano**: Pirovano-bis, vince la seconda discesa libera in due giorni (sempre per un centesimo). Goggia fuori dalle dieci Ancora Laura Pirovano, ancora per un solo centesimo. Nel giro di due giorni il grande credito che l’atleta azzurra vantava con la sorte è tornato utile. In un colpo solo la trentina ha sfatato il tabù del podio e si è imposta per la prima volta in carriera, a 28 anni compiuti, nella discesa libera […] L'articolo Pirovano-bis, vince la seconda discesa libera in due giorni (sempre per un centesimo). Goggia fuori dalle dieci proviene da Il Fatto Quotidiano.
+- **ANSA**: Sci Cdm: bis Pirovano in Val di Fassa, sua anche la seconda discesa L'atleta trentina é al comando della classifica di disciplina
+- **Il Giornale**: Discesa libera di sci, Pirovano da sogno: bis in Val di Fassa, due vittorie in due giorni L’azzurra trionfa anche oggi, in discesa libera, per un solo centesimo di vantaggio rispetto all’austriaca Huetter
+- **La Repubblica**: Pirovano, ancora un centesimo per il bis in discesa in Val di Fassa: “È tutto surreale” Seconda vittoria in due giorni per l’azzurra, che precede di un soffio Huetter e sale al comando della classifica di specialità
+- **Fanpage.it**: Laura Pirovano trionfa ancora in Val di Fassa: vince un’altra discesa, stavolta per un centesimo Laura Pirovano non era mai riuscita a vincere in Coppa del Mondo, in due giorni ha ottenuto due successi consecutivi, entrambi in discesa libera in Val di Fassa: "Ho pareggiato i conti con la sfortuna".Continua a leggere
+
+
+## 5. Israele bombarda Teheran: forti esplosioni nella notte, i video dalle finestre delle case
+
+- **Corriere Della Sera**: Idf: nuovi attacchi contro le infrastrutture iraniane. Teheran: 1332 civili uccisi. Colpita base Unifil in Libano: due feriti gravi. Fregata italiana verso Cipro | Trump: «Voglio una resa incondizionata» Gli Usa: oltre 3mila obiettivi colpiti in sette giorni
+- **Corriere Della Sera**: Guerra in Iran, le ultime notizie in diretta | Idf: nuovi attacchi contro le infrastrutture iraniane. Teheran: 1332 civili uccisi. Colpita base Unifil in Libano: due feriti gravi Le notizie di sabato 7 marzo sull'attacco di Stati Uniti e Israele all'Iran, in diretta.
+- **La Repubblica**: Colpita l’Unifil, caschi blu gravi in Libano. Teheran, missili sui bunker Testimoni accusano Israele, no conferme ufficiali. Droni su curdi e Azerbaijan. Hotel in fiamme a Erbil
+- **La Stampa**: Inferno Teheran Distrutti il super bunker di Khamenei e la città sotterranea dei missili. Bahrein, Arabia Saudita ed Emirati Arabi Uniti subiscono nuovi attacchi
+- **Corriere Della Sera**: Israele bombarda Teheran: forti esplosioni nella notte, i video dalle finestre delle case 
+- **Il Messaggero**: «Teheran rischia di diventare la nuova Gaza». Paura e fuga dalla Capitale sotto le bombe La capitale iraniana vive notti di paura tra esplosioni, blackout informativo e migliaia di persone che cercano di lasciare la città. «Se non si fermano, Teheran diventerà come...
+- **Libero**: Iran, video dell'IDF: l'attacco al bunker di Ali Khamenei 
+- **Il Giornale**: In Libano 500mila sfollati. "Degli americani il raid sulla scuola" Via a una nuova fase: Israele martella l’Iran e il Paese dei Cedri. Gravi due soldati ghanesi di Unifil
+- **Libero**: Video con proiettili nel cielo d'Israele: per Idf sono bombe a grappolo 
+- **Libero**: Libano, un palazzo raso al suolo da un attacco israeliano 
+- **ANSA**: Iran, nuove immagini di lanci di missili pubblicate dai Guardiani della Rivoluzione Sono nove gli allarmi scattati da questa notte a Tel Aviv e nel centro di Israele
+- **Libero**: Libano, la distruzione dei raid israeliani a Tiro 
+
+
+## 6. Famiglia nel bosco, risveglio dei bambini con la mamma in video: “Non capiscono perché non sono lì”
+
+> **Context:** Dopo l’ordinanza di separazione dai tre figli, Catherine è tornata nel casaletto nel bosco di Palmoli. Per le educatrici i minori sono tranquilli. I tanti “no” delle altre strutture rallentano il loro trasferimento
+
+- **Corriere Della Sera**: Famiglia nel bosco, le accuse a Catherine: «Ostile alle educatrici, un cenno e il piccolo chiude il libro» | Lei allontanata dalla casa I magistrati: i bambini sempre più nervosi. Lite tra i genitori
+- **Corriere Della Sera**: Famiglia nel bosco, le accuse a Catherine: «Ostile alle educatrici, basta un suo cenno e il piccolo chiude il libro. Leso il diritto allo studio» I magistrati: fanciulli sempre più nervosi
+- **La Repubblica**: “Sulla famiglia nel bosco decisione da Paese non civile. Stiamo traumatizzando i bambini per sempre” Parla lo psichiatra Tonino Cantelmi, consulente dei genitori. “Come cittadino sono sgomento, come professionista incredulo”
+- **Il Messaggero**: Famiglia nel bosco, lite durissima. Nathan dà la colpa a Catherine: «Una punizione che non merito» L’ordinanza del tribunale per i minorenni dell’Aquila che ha disposto il trasferimento dei tre figli della coppia anglo-australiana Nathan e Catherine in un’altra comunità...
+- **Corriere Della Sera**: Catherine allontanata in tutta fretta nella notte dai figli: «Le loro urla strazianti» 
+- **Corriere Della Sera**: Famiglia nel bosco, il tribunale separa la mamma dai bambini. E scoppia la lite tra i genitori L’Aquila, l’ordinanza: i bimbi in un’altra comunità. I Trevallion: «Siamo storditi»
+- **Il Messaggero**: Famiglia nel bosco, la psicologa: «L’allontanamento di un minorenne da un genitore è gravissimo, uno strappo terribile» Un altro allontanamento, per i bambini della famiglia del bosco. Prima dal papà e dal nucleo familiare, ora dalla mamma. Troppo per Anna Maria Giannini, professore ordinario di Psicologia...
+- **Il Sole Ventiquattro Ore**: Famiglia nel bosco, mamma allontanata dai figli Il tribunale per i minorenni dell’Aquila ha deciso di allontanare la mamma Catherine Birmingham dei tre bambini del bosco di Palmoli (Chieti) dalla casa famiglia di Vasto (Chieti)...
+- **La Stampa**: Famiglia nel bosco, dove verranno trasferiti i bambini? Oggi l’incontro con il padre I tre bambini dI Catherine e Nathan resteranno ancora due giorni nella struttura. L’ipotesi del trasferimento a 140 chilometri da Palmoli
+- **La Stampa**: Famiglia nel bosco, parla Catherine la mamma dei bimbi: “Eravamo felici. Perché ci fanno questo?” La donna tra silenzi e disperazione, oggi presidio di sostegno
+- **ANSA**: Famiglia del bosco, 'la mamma allontanata nonostante le urla strazianti dei figli' La legale: 'Credevamo di vivere in un Paese civile e invece non lo è'
+- **Il Giornale**: Famiglia nel bosco, decisione choc. La madre allontanata dai tre bimbi Tribunale per i minorenni dell'Aquila sulla mamma: "È ostile e li condiziona". Previsto per oggi il trasferimento in un'altra struttura
+- **La Repubblica**: Famiglia nel bosco, risveglio dei bambini con la mamma in video: “Non capiscono perché non sono lì” Dopo l’ordinanza di separazione dai tre figli, Catherine è tornata nel casaletto nel bosco di Palmoli. Per le educatrici i minori sono tranquilli. I tanti “no” delle altre strutture rallentano il loro trasferimento
+- **La Repubblica**: “Sulla famiglia nel bosco decisione da Paese non civile. Stiamo traumatizzando i bambini per sempre” Parla lo psichiatra Tonino Cantelmi, consulente dei genitori. “Come cittadino sono sgomento, come professionista incredulo”
+- **Corriere Della Sera**: Famiglia nel bosco, per i bambini prima notte senza mamma Catherine: la videochiamata al risveglio, il papà nella casa famiglia Dopo la prima notte divisi, mamma Catherine ha visto i ragazzi tramite una videochiamata. I legali della coppia presenteranno ricorso per farla tornare nella casa famiglia
+- **Corriere Della Sera**: Famiglia nel bosco, al risveglio videochiamata della mamma separata dai bambini. Il padre nella casa famiglia: il pranzo e la passeggiata con i piccoli Dopo la prima notte divisi, mamma Catherine ha visto i ragazzi tramite una videochiamata. I legali della coppia presenteranno ricorso per farla tornare nella casa famiglia
+
+
+## 7. Colpo Champions del Como a Cagliari e Fabregas aggancia il 4° posto: decide una magia di Da Cunha
+
+> **Context:** Il Como espugna Cagliari 2-1 grazie ai gol di Baturina e Da Cunha, conquistando 3 punti pesanti in chiave Champions League. La squadra di Fabregas sale momentaneamente al quarto posto, agganciando la Roma.Continua a leggere
+
+- **Corriere Della Sera**: Cagliari-Como risultato 1-2: Baturina e Da Cunha, i lombardi agganciano la Roma Il Cagliari non riesce a fermare la corsa Champions del Como, che passa con una prodezza di sinistro del suo capitano Da Cunha al 76', agganciando temporaneamente la Roma in classifica
+- **La Stampa**: Colpo a Como a Cagliari, Fabregas è quarto per una notte I lariani passano in Sardegna. Subito in vantaggio con Baturina, vengono raggiunti da Sebastiano Esposito. Decide il capitano Da Cunha con un gran sinistro al 76’.
+- **ANSA**: Serie A: il Como vince 2-1 a Cagliari Ospiti erano andati in vantaggio con Baturina nel primo tempo, nella ripresa il momentaneo pareggio di Esposito prima della rete decisiva di Da Cunha
+- **Adkronos**: Serie A, Cagliari-Como 1-2: Fabregas aggancia la Roma in zona Champions I lombardi non si fermano più, volano al quarto posto e adesso sognano in grande
+- **Fanpage.it**: Colpo Champions del Como a Cagliari e Fabregas aggancia il 4° posto: decide una magia di Da Cunha Il Como espugna Cagliari 2-1 grazie ai gol di Baturina e Da Cunha, conquistando 3 punti pesanti in chiave Champions League. La squadra di Fabregas sale momentaneamente al quarto posto, agganciando la Roma.Continua a leggere
+- **Libero**: Serie A, continua la marcia del Como: superato in trasferta il Cagliari Continua la marcia del Como che supera in trasferta il Cagliari per 2-1 e aggancia momentaneamente la Roma al quarto posto, continuando ad inseguire il sogno Champions. Sblocca il match Baturina al 14', poi nella ripresa il pareggio di Sebastiano Esposito al 56' prima del gol vincente del capitano dei lariani Da Cunha al 76' con un sinistro da venti metri che il portiere dei sardi, Caprile, nn può fare altro che vedere in rete. Lariani, al terzio successo consecutivo, ora balzano a quota 51 punti mentre il Cagliari, che non vince dal 31 gennaio, resta fermo a 30 punti.
+
+
+## 8. Guerra Iran, il conto per le famiglie: dalle bollette al carrello della spesa, ecco tutti i settori a rischio rincari
+
+> **Context:** Non solo bollette e carburanti, gli effetti dei rincari legati alla guerra in Medio Oriente si sentiranno anche nel carrello della spesa e sui biglietti aerei, oltre che costare caro alle...
+
+- **Corriere Della Sera**: Rischio inflazione per la guerra, basta l’1% in più di caro prezzi per una stangata da mille euro a famiglia Il Codacons: la crisi in Medio Oriente può spingere al rialzo carburanti, bollette e prezzi alimentari anche solo con un rialzo dell’inflazione dell’1%
+- **La Stampa**: Perché l’Italia è più vulnerabile Che effetti potrà avere la guerra in corso in Medio Oriente sull’economia italiana? Da che la guerra è scoppiata, con l’attacco di Israele e degli Stati Uniti all’Iran, tutto il mondo ...
+- **ANSA**: La benzina cresce ancora, accuse di speculazione Su indicazione del Mef dopo aumento dei prezzi degli ultimi giorni. L'allarme del Qatar: "Se la guerra continua il Golfo potrebbe fermare l'export dell'energia"
+- **Il Giornale**: "Se il conflitto dura per altri 60 giorni la benzina potrebbe salire fino a 3 euro" L'esperto, Davide Tabarelli: "Ma situazione diversa dal 2022, il mercato pensa che la guerra finisca presto"
+- **Adkronos**: Bollette, carburanti, voli, carrello della spesa: l'impatto della guerra tra rincari e ricadute Rischio rialzo prezzi non solo per energia ma anche per voli e alimenti, conflitto colpirebbe anche export della regione
+- **Il Giornale**: Iran, aerei, spesa, IA e Made in Italy: l' impatto della guerra tra rincari e ricadute Non solo bollette e carburanti, la raffica dei rincari legati alla guerra arriverebbe fino al carrello della spesa e ai biglietti aerei
+- **Il Messaggero**: Guerra Iran, il conto per le famiglie: dalle bollette al carrello della spesa, ecco tutti i settori a rischio rincari Non solo bollette e carburanti, gli effetti dei rincari legati alla guerra in Medio Oriente si sentiranno anche nel carrello della spesa e sui biglietti aerei, oltre che costare caro alle...
+
+
+## 9. L'Europa si muove. La call a quattro tra Starmer, Merz, Meloni e Macron
+
+> **Context:** "Ora coordinamento diplomatico e militare. La premier sente Erdogan: "Serve il dialogo"
+
+- **La Repubblica**: Europa, accordo a 4: c’è Roma. “Sì al coordinamento militare” Telefonata tra i leader di Francia, Gran Bretagna, Germania e Italia: si teme un allargamento del conflitto
+- **La Stampa**: Meloni, patto con i leader europei. Parte la fregata italiana per Cipro. La minaccia di Teheran Colloquio con Macron, Merz e Starmer: «Attività diplomatica e coordinamento militare». Erdogan alla premier: basta guerra
+- **ANSA**: Meloni e gli europei, 'diplomazia e coordinamento militare' Sente Erdogan, poi call con Macron-Merz-Starmer. 'Sostegno alle iniziative per il dialogo'
+- **Fanpage.it**: Meloni manda una nave da guerra a difendere Cipro dall’Iran e dice sì al coordinamento militare con leader Ue Giorgia Meloni ha partecipato a una chiamata con Keir Starmer, Friedrich Merz ed Emmanuel Macron. I quattro hanno stabilito che serve uno "stretto coordinamento militare" in questa fase della guerra in Iran. L'Italia ha inviato a Cipro una fregata militare che ha lo scopo di difendere l'isola da eventuali attacchi missilistici.Continua a leggere
+- **Il Giornale**: L'Europa si muove. La call a quattro tra Starmer, Merz, Meloni e Macron "Ora coordinamento diplomatico e militare. La premier sente Erdogan: "Serve il dialogo"
+- **Il Giornale**: Meglio tardi che mai. Obbligati dagli eventi Solo ieri, ad una settimana dall’intervento di Usa e Israele in Iran, c’è stata una telefonata a quattro Meloni-Merz-Starmer-Macron per trovare una minima intesa
+- **Il Fatto Quotidiano**: Starmer, Macron, Merz e Meloni tentano il coordinamento militare sull’Iran. Ma l’Ue resta divisa sulle responsabilità della crisi L’accelerazione della crisi in Medio Oriente ha spinto le principali cancellerie europee a coordinarsi sul fronte diplomatico e militare. Ad parlarsi sono stati il primo ministro britannico Keir Starmer, il presidente francese Emmanuel Macron, il cancelliere tedesco Friedrich Merz e la premier italiana Giorgia Meloni, con l’obiettivo di gestire il rischio del coinvolgimento di diversi […] L'articolo Starmer, Macron, Merz e Meloni tentano il coordinamento militare sull’Iran. Ma l’Ue resta divisa sulle responsabilità della crisi proviene da Il Fatto Quotidiano.
+
+
+## 10. Il Napoli piega il Torino e guarda al secondo posto del Milan
+
+> **Context:** Alisson ed Elmas in gol, nel finale accorcia Casadei, tornano Anguissa e De Bruyne
+
+- **Corriere Della Sera**: Ancora Alisson, poi Elmas: il Napoli batte un buon Torino. Conte ritrova Anguissa e De Bruyne 
+- **La Repubblica**: Il Napoli batte il Torino e ritrova le sue star. Sal Da Vinci partecipa alla festa azzurra. Anguissa e De Bruyne di nuovo in campo dopo mesi. Granata sconfitti 2-1, lo stadio canta “Per sempre sì” con il vincitore di Sanremo
+- **La Stampa**: Il Toro va ko a Napoli: Casadei illude ma è tardi, finisce 2-1. L’effetto D’Aversa è già finito Una giocata personale di Alisson Santos e una mezza girata di Elmas portano avanti i padroni di casa che proteggono il terzo posto e si avvicinano al Milan
+- **ANSA**: Il Napoli piega il Torino e guarda al secondo posto del Milan Alisson ed Elmas in gol, nel finale accorcia Casadei, tornano Anguissa e De Bruyne
+- **Fanpage.it**: Anguissa e De Bruyne tornano e a Conte torna il sorriso: “Sembra non se ne siano mai andati via…” Antonio Conte ritrova i suoi titolari, vince, convince e ritrova anche la voglia di sorridere. Oltre alla vittoria contro il Torino la soddisfazione è di aver rivisto in campo giocatori che mancavano da mesi, rientrati proprio nel momento più importante della stagione.Continua a leggere
+- **Fanpage.it**: Il Napoli vince con Allison Santos ed Elmas e ritrova anche De Bruyne: Torino battuto per 2-1 Il Napoli vince per 2-1 contro il Torino nell'anticipo del venerdì: decidono i gol di Alisson Santos e di Elmas, Casadei accende il finale e dimezza lo svantaggio. Il Maradona si alza in piedi per il ritorno in campo di De Bruyne.Continua a leggere
+- **Il Giornale**: Il Napoli batte il Torino 2-1 al Maradona: ad Alisson Santos ed Elmas risponde Casadei L’undici di Conte domina per lunghi tratti l’incrocio con i granata, mettendo al sicuro il risultato con un gol per tempo. Dopo l’ingresso di De Bruyne, il giovane azzurro accorcia le distanze nel finale
+
+
+## 11. Paralimpiadi, arriva la prima medaglia azzurra: Chiara Mazzel argento nella discesa ipovedenti AS2
+
+> **Context:** L'azzurra guidata da Nicola Cotti Cottini sulla pista delle Tofane di Cortina D'Ampezzo è giunta dietro l'austriaca Veronika Aigner
+
+- **La Repubblica**: Chiara Mazzel prima medaglia azzurra alle Paralimpiadi: argento nella discesa libera La trentina, con la guida Nicola Cotti Cottini, è seconda alle spalle dell’austriaca Aigner
+- **La Stampa**: Paralimpiadi, prima medaglia per l'Italia: argento per Chiara Mazzel nella discesa ipovedenti Primo podio olimpico per l'azzurra, oro all'austriaca Aigner
+- **Corriere Della Sera**: Paralimpiadi, arriva la prima medaglia azzurra: Chiara Mazzel argento nella discesa ipovedenti AS2 L'azzurra guidata da Nicola Cotti Cottini sulla pista delle Tofane di Cortina D'Ampezzo è giunta dietro l'austriaca Veronika Aigner
+- **Corriere Della Sera**: Paralimpiadi: Chiara Mazzel argento nella discesa ipovedenti AS2 L'azzurra guidata da Nicola Cotti Cottini sulla pista delle Tofane di Cortina D'Ampezzo è giunta dietro l'austriaca Veronika Aigner
+- **Il Fatto Quotidiano**: Prima medaglia italiana alle Paralimpiadi: Mazzel vince l’argento nella discesa libera. “Ho messo tutta me stessa” La prima medaglia dell’Italia alle Paralimpiadi di Milano–Cortina arriva dallo sci alpino: Chiara Mazzel è argento nella discesa libera. “Sono soddisfatta di questa medaglia, sono consapevole che poteva anche essere d’oro però ci ho messa tutta me stessa“. Così la sciatrice azzurra, che ha conquistato il primo metallo della delegazione azzurra ai Giochi. “Mezzo secondo […] L'articolo Prima medaglia italiana alle Paralimpiadi: Mazzel vince l’argento nella discesa libera. “Ho messo tutta me stessa” proviene da Il Fatto Quotidiano.
+- **ANSA**: Paralimpiadi: prime medaglie per l'Italia, Mazzel argento e bronzo Bertagnolli L'azzurra è arrivata seconda nella discesa ipovedenti AS2 guidata da Nicola Cotti Cottini. Terzo tempo per l'azzurro guidato da Andrea Ravelli nella discesa libera maschile ipovedenti AS3
+- **Adkronos**: Paralimpiadi Milano Cortina, prime medaglie per l'Italia: argento per Mazzel, Bertagnolli è bronzo L'azzurra sale sul secondo gradino del podio nella discesa libera impaired. Giacomo Bertagnolli trova la nona medaglia in carriera
+
+
+## 12. Pogacar inarrestabile: vince la Strade Bianche per la quarta volta, mai nessuno come lui
+
+> **Context:** Taglia il traguardo di Piazza del Campo in solitaria distanziando il secondo classificato di un minuto: ecco un’altra perla di Tadej Pogacar
+
+- **Corriere Della Sera**: Dove vedere la Strade Bianche 2026 in tv e streaming: Pogacar per il poker, uno sterrato ha il suo nome Sabato 7 marzo torna le Strade Bianche nel senese: Pogacar cerca il poker anche su tratto di Colle Pinzuto, a lui dedicato. Percorso di 203 km con 14 settori sterrati, due in meno rispetto allo scorso anno
+- **Fanpage.it**: Strade Bianche 2026 in TV, orari del percorso e dove vederla in diretta e streaming: i favoriti Con le Strade Bianche 2026 la stagione delle grandi Classiche entra nel vivo. Partenza oggi alle 11:45 a Siena, arrivo previsto intorno alle 17 in Piazza del Campo. Tadej Pogacar strafavorito, alla ricerca del poker. Diretta tv in chiaro e gratis su Rai 2 a partire dalle 14:20.Continua a leggere
+- **Corriere Della Sera**: Prendersi cinque Classiche in 50 giorni, la nuova missione impossibile di Pogacar: oggi l'assalto alle Strade Bianche 
+- **Corriere Della Sera**: Pogacar domina e vince in solitaria anche la Strade Bianche 2026 
+- **La Repubblica**: È sempre Pogacar: trionfa alle Strade Bianche per la quarta volta Quasi 80 km di fuga solitaria per il campione del mondo, che precede Seixas e Del Toro
+- **ANSA**: Strade Bianche: quarto trionfo di Pogacar, nessuno come lui Lo sloveno stacca tutti e arriva da solo in piazza del Campo
+- **Il Fatto Quotidiano**: Pogacar, ricomincia lo spettacolo: terza vittoria alle Strade Bianche. Attenzione però: ora ha un rivale vero, è il francesino Seixas Aveva chiuso la scorsa stagione con un monologo. E con un monologo ha aperto il suo nuovo anno. Tadej Pogacar trionfa ancora alla Strade Bianche al termine di una fuga solitaria di 80 chilometri, arrivando sul traguardo di piazza Del Campo con un vantaggio di un minuto esatto su Paul Seixas, secondo davanti a Isaac […] L'articolo Pogacar, ricomincia lo spettacolo: terza vittoria alle Strade Bianche. Attenzione però: ora ha un rivale vero, è il francesino Seixas proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Pogacar è un alieno, un treno coi pedali: Tadej vince la Strade Bianche con una fuga mostruosa Tadej Pogacar ha vinto da dominatore la Strade Bianche, prendendo il volo con una fuga solitaria a 80 km dal traguardo. Si tratta del quarto successo dello sloveno nella corsa, record assoluto.Continua a leggere
+- **Il Giornale**: Pogacar inarrestabile: vince la Strade Bianche per la quarta volta, mai nessuno come lui Taglia il traguardo di Piazza del Campo in solitaria distanziando il secondo classificato di un minuto: ecco un’altra perla di Tadej Pogacar
+
+
+## 13. Sanremo Top, stasera 7 marzo: i Big tornano sul palco con Carlo Conti
+
+> **Context:** Per festeggiare il successo del Festival 2026
+
+- **Adkronos**: Sanremo Top, stasera 7 marzo: i Big tornano sul palco con Carlo Conti Per festeggiare il successo del Festival 2026
+- **Corriere Della Sera**: «Sanremo Top»: cos'è, la scaletta, gli ospiti e tutto quello che c'è da sapere 
+- **Fanpage.it**: Sanremo Top 2026 con Carlo Conti: cantanti, ospiti e classifiche Nella serata di sabato 7 marzo 2026, su Rai1 ci sarà l'appuntamento con Sanremo Top, lo spin off del Festival di Sanremo con Carlo Conti e i cantanti della kermesse divisi in due appuntamenti. Con il conduttore ci sarà anche Nino Frassica.Continua a leggere
+- **La Repubblica**: “Sanremo Top”, torna il programma post festival del sabato sera condotto da Carlo Conti Stasera e il 14 marzo su Rai 1 in prima serata con i big del Festival e le classifiche ufficiali. Intanto la Rai studia anche il ritorno di Sanremo Estate, possibile spin-off estivo all’aperto
+- **Il Giornale**: Sanremo top: stasera torna Carlo Conti coi big del Festival Tutto quello che c’è da sapere sull'appuntamento musicale che andrà in onda in prima serata
+
+
+## 14. La proposta di Schlein al governo: “Usi l’extragettito Iva per abbassare le accise sui carburanti”
+
+> **Context:** La segretaria del Pd ricorda il video di Meloni al benzinaio e lancia l’idea all’esecutivo: “Può attivare subito le cosiddette mobili'”
+
+- **La Stampa**: Schlein: "Caro carburante, Meloni deve e può fare qualcosa. Usi le accise mobili" La leader del Pd Elly Schlein interviene sul caro energia dopo lo scoppio della guerra nel Golfo. E lancia un appello alla premier Giorgiua Meloni: "Tra le conseguenze drammatiche della guerra illegale scatenata da Trump e Netanyahu ci sono anche quelle econonomiche che pesano su famiglie, imprese, lavoratrici e lavoratori. Come il caro carburanti. C'è una cosa che Giorgia Meloni può fare e deve farla ora.
+- **La Repubblica**: La proposta di Schlein al governo: “Usi l’extragettito Iva per abbassare le accise sui carburanti” La segretaria del Pd ricorda il video di Meloni al benzinaio e lancia l’idea all’esecutivo: “Può attivare subito le cosiddette mobili'”
+- **Libero**: Carburanti, Schlein: Meloni usi extragettito Iva per ridurre accise 
+- **Il Giornale**: Schlein vuole usare gli extraprofitti per le accise ma Giorgetti la gela. "La proposta c'è dal 2023, troveremo margine" Il suggerimento della leader Pd: "Extragettito Iva per abbassare le accise sulla benzina". La replica a stretto giro del ministro dell'Economia
+- **Il Fatto Quotidiano**: Caro carburanti, Giorgetti risponde a Schlein: “La norma per le accise mobili c’è già, troveremo i margini”. Lei: “Passate dalle parole ai fatti” È botta e risposta tra il ministro dell’Economia Giancarlo Giorgetti e la segretaria del Pd Elly Schlein. L’argomento è l’aumento dei prezzi dei carburanti seguito alla guerra in Iran. In tarda mattinata la leader dem si rivolge al governo puntando il dito sulle conseguenze “delle azioni militari di Trump a danno di famiglie e imprese […] L'articolo Caro carburanti, Giorgetti risponde a Schlein: “La norma per le accise mobili c’è già, troveremo i margini”. Lei: “Passate dalle parole ai fatti” proviene da Il Fatto Quotidiano.
+
+
+## 15. Qatar e Hormuz chiusi, si teme il petrolio a 150 dollari
+
+> **Context:** Si ferma il maggior esportatore di gas dell’area e volano i prezzi dell’energia. L’Europa brucia in Borsa 918 miliardi. Su Wall Street doppia minaccia: prezzi alti ed economia debole
+
+- **La Repubblica**: Qatar e Hormuz chiusi, si teme il petrolio a 150 dollari Si ferma il maggior esportatore di gas dell’area e volano i prezzi dell’energia. L’Europa brucia in Borsa 918 miliardi. Su Wall Street doppia minaccia: prezzi alti ed economia debole
+- **ANSA**: L'allarme del Qatar: 'Verso lo stop dell'export di energia' Il greggio vola sopra i 90 dollari, traffico a Hormuz azzerato. L'Eni evacua Bassora
+- **Il Manifesto**: «Economie globali a rischio»: dal Golfo l’allarme energia L’allarme arriva dal Qatar. Il ministro dell’Energia Saad al Kaabi avverte che la guerra in Medio Oriente rischia di provocare uno shock globale: «Farà crollare le economie mondiali», dice al […] The post «Economie globali a rischio»: dal Golfo l’allarme energia first appeared on il manifesto.
+- **Il Messaggero**: Il Qatar infiamma i mercati: rischio blocco totale. Il petrolio a 90 dollari, balzo maggiore dal 1983 Lo spettro di un conflitto di lunga durata ha fatto scattare ieri il costo del petrolio e ha spaventato i mercati, con i listini europei e statunitensi in rosso. Il prezzo al barile ha sfondato...
+- **Il Giornale**: Economia globale a rischio crollo. Incubo barile a quota 150 dollari Se si protrae il blocco di Hormuz, Qatar costretto a sospendere l’export di energia Gli Usa: "L’India può acquistare petrolio russo". Le Borse Ue bruciano 918 miliardi
+
+
+## 16. Ucraina - Attacco russo a Kharkiv, 7 morti tra cui due minori
+
+> **Context:** Missile balistico contro un edificio residenziale, corpi tra le macerie
+
+- **Corriere Della Sera**: Ucraina - Russia, le notizie sulla guerra in diretta | Raid russo su Kharkiv nella notte: distrutto un palazzo, 4 morti Le notizie di sabato 7 marzo sul conflitto in Ucraina, in diretta.
+- **Adkronos**: Ucraina, missili e droni sulle città: 5 morti a Kharkiv Nuovo attacco alla capitale Kiev e al Paese nella notte
+- **La Stampa**: Mosca bombarda, sette morti a Kharkiv. Zelensky ai partner: “Brutali attacchi. Non state zitti” Allerta in tutto il Paese. Zelensky mette in guardia da un attacco di primavera che starebbe preparando Mosca
+- **ANSA**: Ucraina - Attacco russo a Kharkiv, 7 morti tra cui due minori Missile balistico contro un edificio residenziale, corpi tra le macerie
+- **Il Messaggero**: «Due bambini tra gli 8 morti sotto le macerie», Kharkiv devastata da un raid missilistico russo Kharkiv è stata colpita duramente da un raid missilistico nella notte tra il 6 e il 7 marzo. Un missile balistico ha centrato un edificio residenziale di cinque piani, provocando il crollo...
+
+
+## 17. Ora Trump chiede la «resa incondizionata» dell’Iran
+
+- **Corriere Della Sera**: Trump all'Iran: «Nessun accordo, solo la resa incondizionata» La Casa Bianca esclude negoziati con Teheran: una nuova leadership dopo la fine della guerra. L'incerto sostegno dell'opinione pubblica
+- **La Repubblica**: Trump all’Iran: “Arrendetevi e fatemi scegliere la vostra nuova Guida suprema” Il presidente indica le condizioni per mettere fine alla guerra: “Va bene anche un religioso antidemocratico se ci tratta bene”. Rubio: “Altrimenti andremo avanti a bombardare per settimane”
+- **La Stampa**: Trump all’Iran: “Arrendetevi”. Ancora esplosioni a Teheran, missili contro Israele Teheran minaccia l’Europa: «Chi si unisce a Usa e Israele sarà un nostro obiettivo legittimo». Il presidente americano vorrebbe replicare il modello Venezuela e scegliere lui la prossima leadership iraniana. Fregata italiana verso Cipro
+- **Il Post**: Ora Trump chiede la «resa incondizionata» dell’Iran 
+- **Il Giornale**: Truppe di terra in Iran: la strategia di Trump Il presidente americano non avrebbe ancora preso una decisione. L’ipotesi della conquista dell’isola di Kharg
+- **Il Giornale**: Trump per la "resa incondizionata". L'ipotesi di inviare una brigata Usa Il tycoon spinge sul cambio. I falchi: "Non prendiamo ordini dalla banda Epstein". Putin chiama il presidente iraniano Pezeshkian: "Le ostilità devono cessare"
+
+
+## 18. Svolta sulla famiglia del bosco: la madre allontanata dai figli. E Meloni attacca i magistrati
+
+> **Context:** Mossa del tribunale nel giorno della perizia sui minori: «Lei deride tutti». La premier: «I bimbi non sono dello Stato, la giustizia non si sostituisca ai genitori»
+
+- **La Stampa**: Svolta sulla famiglia del bosco: la madre allontanata dai figli. E Meloni attacca i magistrati Mossa del tribunale nel giorno della perizia sui minori: «Lei deride tutti». La premier: «I bimbi non sono dello Stato, la giustizia non si sostituisca ai genitori»
+- **ANSA**: Mamma Catherine allontanata dai figli, Meloni attacca le toghe 'Hanno superato i loro limiti'. La Lega chiede un'ispezione a Nordio
+- **Il Fatto Quotidiano**: Famiglia nel bosco, Meloni contro i giudici che separano madre e figli: “Superato il limite”. Le opposizioni: “Specula” Sulla vicenda della ‘famiglia nel bosco’, dopo la decisione del Tribunale per i minorenni dell’Aquila di allontanare la madre, Catherine Birmingham, dalla casa famiglia di Vasto in cui risiedeva con i tre figli, è arrivato il commento, lapidario, della presidente del Consiglio, Giorgia Meloni, che si è detta “senza parole” per una decisione che, dice, […] L'articolo Famiglia nel bosco, Meloni contro i giudici che separano madre e figli: “Superato il limite”. Le opposizioni: “Specula” proviene da Il Fatto Quotidiano.
+- **Il Giornale**: Meloni: "Senza parole. I figli non sono proprietà dello Stato" La Lega: "Nordio mandi subito gli ispettori". La sinistra: "La premier strumentalizza"
+
+
+## 19. Drone la segue e scopre che è l’ex fidanzato che la spia e la fotografa: nei guai 31enne a Udine
+
+> **Context:** Un 31enne dell'Alto Friuli è stato incastrato dai carabinieri che hanno emesso nei suoi confronti il divieto di avvicinamento alla persona offesa e l'obbligo di presentazione giornaliero disposti dalla Procura di Udine con l'accusa di atti persecutori commessi tra il 2023 e il 2025 ai danni della ex fidanzata, anche con l'aiuto di un drone.Continua a leggere
+
+- **Fanpage.it**: Drone la segue e scopre che è l’ex fidanzato che la spia e la fotografa: nei guai 31enne a Udine Un 31enne dell'Alto Friuli è stato incastrato dai carabinieri che hanno emesso nei suoi confronti il divieto di avvicinamento alla persona offesa e l'obbligo di presentazione giornaliero disposti dalla Procura di Udine con l'accusa di atti persecutori commessi tra il 2023 e il 2025 ai danni della ex fidanzata, anche con l'aiuto di un drone.Continua a leggere
+- **Il Messaggero**: Perseguita la ex per due anni, la controllava anche con un drone: numerosi sorvoli e fotografie UDINE - Una storia difficile, complessa, dura. Per circa due anni avrebbe perseguitato l'ex fidanzata, utilizzando persino un drone per controllarne gli spostamenti. Per questo nei giorni...
+- **ANSA**: Perseguita la ex per 2 anni, anche con un drone Divieto di avvicinamento per un 31enne, scattava foto e le condivideva con gli amici
+- **Il Fatto Quotidiano**: Spiava la ex con un drone, 31enne friulano accusato di atti persecutori: dal Tribunale divieto di avvicinamento Per circa due anni avrebbe perseguitato l’ex fidanzata, utilizzando persino un drone per controllarne gli spostamenti. Per questo nei giorni scorsi i carabinieri della stazione di Moggio Udinese hanno eseguito nei confronti di un uomo, di 31 anni, residente in Alto Friuli, la misura cautelare del divieto di avvicinamento alla persona offesa e l’obbligo giornaliero […] L'articolo Spiava la ex con un drone, 31enne friulano accusato di atti persecutori: dal Tribunale divieto di avvicinamento proviene da Il Fatto Quotidiano.
+
+
+## 20. Famiglia nel bosco, il momento in cui la mamma Catherine viene allontanata di notte dai suoi figli
+
+> **Context:** Catherine, la mamma della cosiddetta "famiglia nel bosco", con il viso segnato dal dolore, ha lasciato ieri sera, venerdì 6 marzo 2026, intorno alle 21:20, la casa famiglia di Vasto dove si trovava dal 20 novembre scorso con i suoi bambini. È salita sull'autovettura del marito ed insieme hanno varcato il cancello della struttura, senza rilasciare, scuri in volto, alcuna dichiarazione. La donna è stata costretta ad andare via a causa dell'ordinanza emessa dal Tribunale per i Minorenni dell'Aquila che dispone il trasferimento dei bambini in un'altra struttura protetta e senza la madre. "Credevamo di vivere in un Paese civile, ma invece non lo è. L'assistente sociale dovrebbe rispondere a qualcuno. Ha preteso che venisse cacciata la mamma nonostante le urla strazianti dei bambini. È stato terribile". Queste le parole dell'avvocata Danila Solinas, la legale che insieme a Marco Femminella assiste Nathan e Catherine, uscendo ieri sera dalla casa famiglia
+
+- **Libero**: Famiglia nel bosco, il dramma dopo il colpo di mano delle toghe: dove ha passato la notte Catherine Venerdì sera, intorno alle 21.20, Catherine Birmingham, madre della cosiddetta “famiglia del bosco”, ha lasciato la casa famiglia dove viveva dal 20 novembre insieme ai suoi figli. Con il volto segnato dalla tensione e senza rilasciare dichiarazioni, la donna è salita sull’auto guidata dal marito Nathan. I due hanno oltrepassato il cancello della struttura visibilmente provati, mentre i bambini sono rimasti all’interno della comunità. L’allontanamento è avvenuto in seguito a un’ordinanza emessa il 6 marzo dal Tribunale per i Minorenni dell’Aquila. Il provvedimento dispone il trasferimento dei figli in un’altra struttura protetta, questa volta senza la presenza della madre. Secondo le motivazioni del tribunale, il comportamento della donna avrebbe contribuito a creare un clima di tensione costante, influenzando negativamente l’equilibrio emotivo dei bambini. [[ge:kolumbus:liberoquotidiano:46687389]] Nel corso della serata, dopo l’uscita della coppia, hanno lasciato la struttura anche i legali della famiglia, la garante per l’Infanzia e l’Adolescenza dell’Abruzzo, Alessandra De Febis, e la psicologa Marina Aiello, coinvolte nel caso. Per la notte Nathan e Catherine Birmingham hanno trovato ospitalità in un’abitazione messa a disposizione gratuitamente da un ristoratore del Chietino. L’uomo era stato presente nel pomeriggio davanti alla casa famiglia insieme alla figlia per esprimere solidarietà alla coppia. Durante la giornata, davanti alla struttura si sono radunate anche alcune donne appartenenti a un presidio pacifico di famiglie neorurali, che hanno manifestato sostegno alla famiglia. [[ge:kolumbus:liberoquotidiano:46692433]]
+- **Il Fatto Quotidiano**: Famiglia nel bosco, il video della madre allontanata dai propri figli. La legale: “Urla strazianti” La mamma della cosiddetta famiglia del bosco ha lasciato ieri sera, intorno alle 21.20, la casa famiglia dove si trovava dal 20 novembre scorso con i suoi bambini. È salita sulla macchina del marito ed insieme hanno varcato il cancello della struttura, senza rilasciare alcuna dichiarazione. La donna è stata costretta ad andare via a […] L'articolo Famiglia nel bosco, il video della madre allontanata dai propri figli. La legale: “Urla strazianti” proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Bimbi nel bosco, prima notte da soli in casa famiglia: la mamma ha lasciato la la struttura dopo l’ordinanza Catherine Birmingham ha lasciato ieri sera la casa famiglia di Vasto in seguito all'ordinanza emessa nei suoi confronti. La donna viveva nella struttura per minori dal 20 novembre insieme ai figli, cresciuti nei boschi di Chieti fino a quel momento. Anche i bimbi saranno separati e trasferiti in un'altra casa famiglia.Continua a leggere
+- **La Stampa**: Famiglia nel bosco, il momento in cui la mamma Catherine viene allontanata di notte dai suoi figli Catherine, la mamma della cosiddetta "famiglia nel bosco", con il viso segnato dal dolore, ha lasciato ieri sera, venerdì 6 marzo 2026, intorno alle 21:20, la casa famiglia di Vasto dove si trovava dal 20 novembre scorso con i suoi bambini. È salita sull'autovettura del marito ed insieme hanno varcato il cancello della struttura, senza rilasciare, scuri in volto, alcuna dichiarazione. La donna è stata costretta ad andare via a causa dell'ordinanza emessa dal Tribunale per i Minorenni dell'Aquila che dispone il trasferimento dei bambini in un'altra struttura protetta e senza la madre. "Credevamo di vivere in un Paese civile, ma invece non lo è. L'assistente sociale dovrebbe rispondere a qualcuno. Ha preteso che venisse cacciata la mamma nonostante le urla strazianti dei bambini. È stato terribile". Queste le parole dell'avvocata Danila Solinas, la legale che insieme a Marco Femminella assiste Nathan e Catherine, uscendo ieri sera dalla casa famiglia
+
+
+
+</clustered_headlines>
+
+
+<other_headlines>
+<article source="ANSA" date="Sat, 7 Mar 2026 19:34:54 +0100">
+Milano Cortina: due medaglie azzurre nella prima giornata delle Paralimpiadi
+Nella discesa un argento e un bronzo per i trentini Mazzel e Bertagnolli
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 19:34:17 +0100">
+Serie A: in campo Atalanta-Udinese 1-2 DIRETTA
+Friulani avanti nel primo tempo con Kristensen, raddoppio di Davis nella ripresa
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 19:14:41 +0100">
+La guerra in Medio Oriente - La giornata del 7 marzo LIVEBLOG
+L'Iran avverte: 'Colpiremo solo le navi degli Stati Uniti e di Israele' e fa sapere che 'entro 24 ore' si svolgerà la riunione per eleggere la nuova Guida suprema. Il presidente del parlamento di Teheran: 'Chi ospita le basi Usa non avrà pace'
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 19:00:56 +0100">
+La compagnia nazionale petrolifera del Kuwait annuncia un taglio alla produzione
+A seguito dei continui attacchi dell'Iran e le minacce alle navi a Hormuz
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 18:57:17 +0100">
+Blitz dell'Idf in Libano per recuperare i resti di un pilota. Oltre 450muila sfollati nel Paese per gli attacchi
+Nel villaggio di Nabi Sheet, 41 morti. Il ministro della Difesa israeliano: 'Il Libano pagherà se continuano gli attacchi di Hezbollah'
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 18:51:13 +0100">
+'La guerra è patriarcato', l'opera di Laika per l'8 marzo
+Poster affisso a poca distanza dall'Ambasciata Usa
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 18:40:35 +0100">
+Milano, la Fabbrica del Vapore apre il Museo del patriarcato con le Bambole di Pezza
+La cantante "Cleo" Ungarelli: "L'opera con le porte rotte mi ha riportato a ricordi dolorosi"
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 18:21:04 +0100">
+Niente premio perché in maternità, il giudice condanna la Asl
+Doveva avere un bonus durante il congedo. Il Tribunale di Taranto: 'Condotta discriminatoria'
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 16:57:02 +0100">
+Ancora scioperi a marzo, il 9 disagi per scuola e sanità
+Lunedì agitazione dei sindacati di base e della Cgil, esclusi i trasporti
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 16:48:18 +0100">
+Diritti, giustizia, azione. Forum ANSA con UN Women Italy per l'8 marzo
+Alle 12 su ANSA.it. Ospiti Darya Majidi, Stefano Ciccone e Cristiana Carletti
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 14:55:35 +0100">
+Piantedosi: 'I conflitti rischiano di trasferirsi nelle piazze'
+'Monitoriamo alcune manifestazioni programmate tra cui quella del 28 marzo. Magistrati ideologizzati disperdono il lavoro del governo in Albania'
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 14:48:01 +0100">
+Ucraina - Attacco russo a Kharkiv, 10 morti tra cui due minori
+Missile balistico contro un edificio residenziale, corpi tra le macerie
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 14:20:34 +0100">
+Sport e 8 marzo: 21% delle bambine abbandona lo sport, donne solo 19% degli allenatori
+Sport, tra maschi e femmine una disparità da colmare
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 12:47:48 +0100">
+Le onde gravitazionali segnalano strane coppie di buchi neri VIDEO
+Rilevate dagli osservatori Ligo, Virgo e Kagra
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 08:09:25 +0100">
+Europa, un continente senza miti?
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 12:43:32 +0100">
+Negli Epstein files pubblicate accuse a Trump di molestie sessuali su una minorenne
+Nel 2019 la donna ha dichiarato ai federali di essere stata vittima di violenza sessuale da parte di Epstein e di essere stata aggredita da Trump negli anni '80
+</article>
+<article source="ANSA" date="Fri, 6 Mar 2026 22:21:32 +0100">
+Da Cime Tempestose a Bridgerton il period drama contagia moda e beauty
+Gothic Renaissance , Moorcore e Regency corsetti e trucco dark
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 10:23:25 +0100">
+Emirates ferma e poi riprende l'attività. L'aeroporto di Dubai riapre dopo uno stop
+La decisione dello scalo internazionale era arrivata dopo che un oggetto è stato intercettato dalla difesa aerea nell'area
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 14:05:44 +0100">
+La settimana in guerra
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 10:44:51 +0100">
+Le Borse europee bruciano 918 miliardi in una settimana
+Sedute all'insegna della volatilità con la guerra in Medio Oriente
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 08:25:38 +0100">
+F1 Gp Australia: Russell in pole, prima fila con Antonelli. Verstappen contro le barriere
+In seconda fila la Red Bull di Adjar e la Ferrari di Leclerc
+</article>
+<article source="ANSA" date="Sat, 7 Mar 2026 10:07:09 +0100">
+Captato il fantasma di una potente esplosione cosmica
+Potrebbe essere il bagliore radio di un lampo di raggi gamma passato inosservato
+</article>
+<article source="ANSA" date="Fri, 6 Mar 2026 21:39:37 +0100">
+Occupazione femminile in calo per chi ha figli, determinante il fattore istruzione
+Le donne laureate hanno tassi di impiego piu' alti di quelle a bassa istruzione
+</article>
+<article source="ANSA" date="Fri, 6 Mar 2026 20:45:34 +0100">
+Lino Guanciale e' il poeta-psichiatra Tobino in "Le libere donne"
+Su Rai 1 la miniserie in tre puntate ambientata nel '43
+</article>
+<article source="ANSA" date="Fri, 6 Mar 2026 22:04:27 +0100">
+Pulmino attrezzato per Mariano, il 12enne che pesa 200 kg per una malattia
+Iniziativa umanitaria della Fondazione Bambino Gesù del Cairo
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 19:35:59 +0100">
+Bergamo, 26enne colpita con una spranga e violentata per ore
+L'arrestato, un 43enne marocchino, aveva già un precedente analogo
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 19:27:49 +0100">
+Antonella Clerici: "Bisogna sporcarsi di sugo...". Il messaggio a Cattelan? Cosa è successo
+Il 'caso sugo', il botta e risposta a distanza tra conduttori
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 18:17:24 +0100">
+Bruganelli-Bonolis, il figlio Davide: "Papà ha sofferto per la separazione"
+Il figlio dell'ex coppia è stato ospite oggi nel salotto di Silvia Toffanin
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 17:31:00 +0100">
+Serie A, oggi Atalanta-Udinese 2-2 - La partita in diretta
+I nerazzurri ospitano la squadra di Runjaic in uno degli anticipi del 28° turno
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 17:08:17 +0100">
+Manuela Arcuri, la separazione dal marito: "Ci siamo dati per scontati"
+L'attrice è stata ospite oggi nel salotto di Silvia Toffanin
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 16:10:11 +0100">
+Pisa, trovato cadavere nell'Arno a Santa Croce﻿: a dare l'allarme un passante
+Il corpo dell'uomo era in avanzato stato di decomposizione. Sul posto i carabinieri per l'identificazione e i rilievi del caso
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 15:42:00 +0100">
+Sabalenka show a Indian Wells: passa il turno e sfoggia l'anello di fidanzamento da un milione di dollari
+La numero uno del ranking Wta ha debuttato nel torneo californiano mostrando il ricchissimo regalo ricevuto dal futuro marito
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 13:56:01 +0100">
+Dallo ‘zar’ Putin raccontato da Massini a De Cataldo, le novità in libreria
+Una selezione delle novità in libreria, tra romanzi, saggi, libri d'inchiesta e reportage, presentata questa settimana dall'AdnKronos
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 11:27:30 +0100">
+Obama attacca Trump: "Ogni giorno un assalto alle nostre istituzioni democratiche"
+L'ex presidente ha criticato duramente la Casa Bianca
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 11:03:52 +0100">
+Ascolti tv, 'The Voice Generations' conquista il prime time
+'La Ruota della Fortuna' al 28,8% di share
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 10:32:27 +0100">
+Verstappen, incidente nelle qualifiche Gp Australia: "Non mi sto divertendo"
+Il pilota olandese costretto a ritirarsi nel Q1
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 10:21:50 +0100">
+"Diffidare da chi si spaccia per collaboratore di padre Amorth", l'avvertimento degli esorcisti
+Le parole dell’Associazione internazionale esorcisti (Aie), nell’imminenza del decennale della morte del fondatore
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 10:12:00 +0100">
+Corruzione nella sanità, arrestati pubblici ufficiali e imprenditori a Palermo
+Sei le misure cautelari emesse dal Gip. Gli inquirenti: "Mazzette e pregiati crostacei per indirizzare i pazienti"
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 09:09:00 +0100">
+Stop al bel tempo, tornano gli acquazzoni nel Centro-Sud: le previsioni meteo
+Che tempo farà fino a lunedì 9 marzo
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 09:07:03 +0100">
+Usa, banche avvertono Washington: stablecoin potrebbero far sparire 6.600 miliardi di dollari dai conti correnti
+I token ancorati al dollaro che pagano interessi fino all’8% potrebbero attirare i risparmi dai conti correnti e ridurre la capacità di prestito delle banche
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 06:49:17 +0100">
+Verissimo, ospite oggi Michele Bravi: il racconto dopo Sanremo 2026
+Il cantante sarà ospite oggi di Silvia Toffanin
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 06:48:52 +0100">
+C'è Posta per Te, stasera 7 marzo: le anticipazioni
+L'appuntamento con Maria De Filippi
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 06:45:31 +0100">
+Ictus, ecco come l'emisfero sano del cervello influenza la ripresa: la ricerca rivoluzionaria
+Il funzionamento del sistema nervoso non dipende da singole aree isolate, ma da reti di connessioni distribuite tra i due emisferi cerebrali: cosa rivela lo studio Irccs Neuromed
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 06:44:44 +0100">
+Verissimo, sabato 7 marzo: gli ospiti e le interviste di oggi
+Torna Silvia Toffanin con un nuovo appuntamento del talk show
+</article>
+<article source="Adkronos" date="Sat, 7 Mar 2026 06:02:39 +0100">
+Buste paga, a marzo novità per i lavoratori tra aumenti Ccnl e maggiorazioni
+L'analisi degli esperti della Fondazione Studi Consulenti del Lavoro
+</article>
+<article source="Governo Italiano - Comunicati Stampa" date="Sat, 07 Mar 2026 19:17:23 +0100">
+Il Sottosegretario Mantovano alla 69ª sessione della Commission on Narcotic Drugs​ delle Nazioni Unite
+Il Sottosegretario alla Presidenza del Consiglio con delega alle politiche contro la droga e le altre dipendenze, Alfredo Mantovano, interverrà a Vienna in occasione dell'apertura della 69ª sessione della Commission on Narcotic Drugs (CND) delle Nazioni Unite, lunedì 9 marzo a partire dalle ore 10.00.
+</article>
+<article source="Il Foglio" date="Sat, 07 Mar 2026 04:07:00 GMT">
+La clamorosa disfatta in tv del pm Woodcock
+Ma è lei o il suo gemello?”. Quando Giorgio Mulè, di fronte alle evidenti contraddizioni, ha posto il quesito a un balbettante Henry John Woodcock, incapace di articolare una risposta di senso comp... Contenuto a pagamento - Accedi al sito per abbonarti
+</article>
+<article source="Il Post" date="Sat, 07 Mar 2026 17:29:01 GMT">
+Trump minaccia altri bombardamenti intensi sull’Iran
+</article>
+<article source="Il Post" date="Sat, 07 Mar 2026 10:46:49 GMT">
+Perché la madre della “famiglia nel bosco” è stata allontanata dai figli
+</article>
+<article source="Il Post" date="Sat, 07 Mar 2026 07:46:21 GMT">
+La Bielorussia continua a liberare prigionieri politici per ottenere concessioni dagli Stati Uniti
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sat, 7 Mar 2026 17:03:00 GMT">
+Iran, Tajani: «Rimpatriati più di 20mila italiani »
+Dall’escalation della tensione in Medio Oriente di una settimana fa, sono rientrati più di ventimila italiani. Ad annunciarlo è il vicepremier e ministro degli Esteri Antonio Tajani durante il punto...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sat, 7 Mar 2026 13:29:45 GMT">
+Dal ddl Bongiorno sulla violenza sessuale alla guerra: l’8 marzo 60 piazze per le donne
+Un «weekend lungo di lotta e sciopero». È con queste parole che “Non una di meno” ha annunciato i cortei e le mobilitazioni per l’8 marzo e 9 marzo. Le...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sat, 7 Mar 2026 11:23:06 GMT">
+Giudizi severi riflettono aspettative più elevate
+La percezione critica dimostra quanto per gli italiani la sanità pubblica resti un diritto fondamentale
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sat, 7 Mar 2026 11:22:22 GMT">
+Code, farmaci e Case di comunità: le bombe a orologeria del sistema
+Per alleggerire la pressione sui pronto soccorso e le liste d’attesa manca il personale
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sat, 7 Mar 2026 08:37:36 GMT">
+Studio Ejf: «Serve una pesca sostenibile nel Pacifico, contro lo sfruttamento delle risorse naturali»
+Subito azioni di monitoraggio, limiti di cattura basati sulla scienza, e controllo sulla pesca, per evitare il sovrasfruttamento delle risorse naturali. A sollecitare queste misure è Environmental Justice Foundation (Ejf)...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sat, 7 Mar 2026 08:14:49 GMT">
+Cipro, Kuwait e Libano: ecco le ipotesi sul dispiegamento dei militari italiani
+Di fronte a una situazione in evoluzione, la strategia registra con il passare delle ore nuovi tasselli
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sat, 7 Mar 2026 07:34:00 GMT">
+Pronti i nuovi modelli Dsu 2026 e Isee aggiornato: cosa cambia per assegno unico, assegno di inclusione e bonus famiglie
+Sono disponibili i nuovi modelli della Dichiarazione Sostitutiva Unica (DSU) che serve per il calcolo dell’Isee, necessario per ottenere una prestazione sociale agevolata, e sono state aggiornate automaticamente le attestazioni...
+</article>
+</other_headlines>
