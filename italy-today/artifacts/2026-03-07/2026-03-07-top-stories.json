@@ -1,6 +1,6 @@
 {
   "date": "2026-03-07",
-  "generated_at": "Sat 07 Mar 06:52",
+  "generated_at": "Sat 07 Mar 07:35",
   "stories": [
     {
       "rank": 1,
@@ -30,6 +30,29 @@
     },
     {
       "rank": 2,
+      "title": "F1 Gp Australia, le qualifiche in diretta: Russell in pole davanti ad Antonelli. Leclerc quarto e Hamilton settimo",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "fanpage.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "corriere.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/motori/leclerc-gia-non-vede-futuro-per-la-ferrari-sono-deluso-otto-decimi-da-recuperare-sono-tanti/",
+        "https://www.adnkronos.com/sport/qualifiche-gp-australia-pole-risultati_2LYGJSGvYeoPkozAr1k6BK",
+        "https://www.ilgiornale.it/news/motori/f1-russell-pole-antonelli-secondo-ferrari-bene-leclerc-4-2635284.html",
+        "https://www.corriere.it/sport/formula-1/diretta-live/26_marzo_07/f1-gp-australia-qualifiche-diretta.shtml",
+        "https://www.corriere.it/sport/formula-1/diretta-live/26_marzo_07/f1-gp-australia-qualifiche-diretta.shtml"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Mattarella arriva all'Arena di Verona per cerimonia apertura Giochi Paralimpici Milano Cortina",
       "source_count": 9,
       "article_count": 12,
@@ -53,32 +76,10 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "F1 Gp Australia, le qualifiche in diretta: Russell in pole davanti ad Antonelli. Leclerc quarto e Hamilton settimo",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "corriere.it",
-        "ansa.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.corriere.it/sport/formula-1/diretta-live/26_marzo_07/f1-gp-australia-qualifiche-diretta.shtml",
-        "https://www.corriere.it/sport/formula-1/diretta-live/26_marzo_07/f1-gp-australia-qualifiche-diretta.shtml",
-        "https://www.ansa.it/sito/notizie/sport/2026/03/07/f1-australia-russell-in-pole-prima-fila-con-antonelli-verstappen-contro-le-barriere_f5b123a7-102d-41c4-8339-40a832ffed6e.html",
-        "https://www.adnkronos.com/sport/f1-gp-australia-russell-in-pole-e-prima-fila-mercedes-leclerc-quarto-con-ferrari_5m1UWHr9SnSfoNM6FFDUpC",
-        "https://www.fanpage.it/sport/motori/la-mercedes-domina-le-qualifiche-del-gp-australia-russell-in-pole-poi-antonelli-leclerc-quarto/"
-      ]
-    },
-    {
       "rank": 4,
-      "title": "L'allarme del Qatar: 'Verso lo stop dell'export di energia'",
+      "title": "Qatar e Hormuz chiusi, si teme il petrolio a 150 dollari",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
         "ilmanifesto.it",
         "lastampa.it",
@@ -119,6 +120,27 @@
     },
     {
       "rank": 6,
+      "title": "Tennis: Indian Wells, Sinner al terzo turno contro Shapovalov",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilmessaggero.it",
+        "corriere.it",
+        "ansa.it",
+        "fanpage.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/schede/sinner_shapovalov_data_orario_dove_vederla_indian_wells-9401708.html",
+        "https://www.corriere.it/sport/tennis/26_marzo_07/sinner-svrcina-indian-wells-risultato-ccf48136-7778-401a-927b-3d2a88496xlk.shtml",
+        "https://www.ansa.it/sito/notizie/sport/2026/03/07/tennis-indian-wells-sinner-al-terzo-turno-contro-shapovalov_eb9e8120-0802-4163-8feb-8ceb646c43a5.html",
+        "https://www.fanpage.it/sport/tennis/sinner-passeggia-a-indian-wells-gli-bastano-62-minuti-per-vincere-sto-bene-ma-devo-migliorare/",
+        "https://www.repubblica.it/sport/tennis/2026/03/07/news/sinner_indian_wells_svrcina_vittoria-425205387/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Inferno Teheran",
       "source_count": 4,
       "article_count": 7,
@@ -137,7 +159,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Meloni e gli europei, 'diplomazia e coordinamento militare'",
       "source_count": 5,
       "article_count": 5,
@@ -157,7 +179,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Juventus-Pisa: orario, probabili formazioni e dove vederla in tv",
       "source_count": 4,
       "article_count": 5,
@@ -176,7 +198,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Btp Valore, il Tesoro alza le cedole ed è raccolta boom",
       "source_count": 4,
       "article_count": 5,
@@ -192,25 +214,6 @@
         "https://www.corriere.it/economia/risparmio/26_marzo_06/btp-valore-cedole-piu-alte-il-tesoro-aumenta-il-rendimento-rispetto-ai-minimi-garantiti-cf6df62c-9892-46a2-abef-fb2388681xlk.shtml",
         "https://www.ilmessaggero.it/economia/news/btp_valore_aumento_tassi_cedole_cosa_significa-9400029.html",
         "https://www.lastampa.it/tuttosoldi/2026/03/06/news/borsa_btp_effetto_iran_tesoro_rendimento-15534114/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Iran, inchiesta choc dell'esercito americano: «Gli Usa dietro la strage della scuola femminile di Minab»",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "unita.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/03/07/168-bambine-uccise-a-minab-la-strage-degli-usa-in-iran-ce-ancora-chi-parla-di-nobel-per-la-pace-a-trump/",
-        "https://ilmanifesto.it/probabile-la-responsabilita-usa-nellattacco-alla-scuola-di-minab",
-        "https://www.unita.it/2026/03/06/strage-scuola-femminile-minab-iran-inchieste-responsabilita-usa/",
-        "https://www.ilmessaggero.it/mondo/iran_strage_scuola_colpita_usa-9399802.html",
-        "https://www.repubblica.it/esteri/2026/03/06/news/indagini_scuola_iran_colpita_raid_usa-425203322/"
       ]
     }
   ]
