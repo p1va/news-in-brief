@@ -1,6 +1,6 @@
 {
   "date": "2026-03-07",
-  "generated_at": "Sat 07 Mar 08:39",
+  "generated_at": "Sat 07 Mar 09:36",
   "stories": [
     {
       "rank": 1,
@@ -33,11 +33,11 @@
       "rank": 2,
       "title": "F1 Gp Australia, le qualifiche in diretta: Russell in pole davanti ad Antonelli. Leclerc quarto e Hamilton settimo",
       "source_count": 9,
-      "article_count": 15,
+      "article_count": 17,
       "source_domains": [
-        "ilmessaggero.it",
         "fanpage.it",
         "adnkronos.com",
+        "ilmessaggero.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
         "corriere.it",
@@ -46,11 +46,11 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.fanpage.it/sport/motori/lewis-hamilton-mi-aspettavo-di-piu-dalla-ferrari-il-gp-daustralia-questa-gara-e-unincognita/",
+        "https://www.adnkronos.com/sport/vertappen-formula-1-qualifiche-gp-australia-incidente-furia_6BK8PIDrWjqWkzirtcSq76",
         "https://www.ilmessaggero.it/sport/formula1/gp_australia_qualifiche-9401725.html",
         "https://www.fanpage.it/sport/motori/leclerc-gia-non-vede-futuro-per-la-ferrari-sono-deluso-otto-decimi-da-recuperare-sono-tanti/",
-        "https://www.adnkronos.com/sport/qualifiche-gp-australia-pole-risultati_2LYGJSGvYeoPkozAr1k6BK",
-        "https://www.ilgiornale.it/news/motori/f1-russell-pole-antonelli-secondo-ferrari-bene-leclerc-4-2635284.html",
-        "https://www.liberoquotidiano.it/news/sport/46695661/melbourne-dominio-mercedes-le-terribili-parole-di-vasseur/"
+        "https://www.adnkronos.com/sport/qualifiche-gp-australia-pole-risultati_2LYGJSGvYeoPkozAr1k6BK"
       ]
     },
     {
@@ -79,6 +79,27 @@
     },
     {
       "rank": 4,
+      "title": "Inferno Teheran",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "ilmessaggero.it",
+        "video.corriere.it",
+        "repubblica.it",
+        "fanpage.it",
+        "lastampa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/mondo/teheran_come_gaza_raid_bombardamenti-9401784.html",
+        "https://video.corriere.it/esteri/iran-israele-bombarda-teheran-forti-esplosioni-nella-notte/b9d77e55-472c-43d3-adb5-a65008db3xlk",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_07/guerra-in-iran-le-ultime-notizie-in-diretta-idf-nuovi-attacchi-contro-le-infrastrutture-iraniane-teheran-1332-civili-uccisi.shtml",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_07/guerra-in-iran-le-ultime-notizie-in-diretta-idf-nuovi-attacchi-contro-le-infrastrutture-iraniane-teheran-1332-civili-uccisi.shtml",
+        "https://www.repubblica.it/esteri/2026/03/07/news/libano_iran_unifil-425205186/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Tennis: Indian Wells, Sinner al terzo turno contro Shapovalov",
       "source_count": 7,
       "article_count": 7,
@@ -100,7 +121,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Il Napoli piega il Torino e guarda al secondo posto del Milan",
       "source_count": 6,
       "article_count": 7,
@@ -121,7 +142,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "L'allarme del Qatar: 'Verso lo stop dell'export di energia'",
       "source_count": 6,
       "article_count": 7,
@@ -142,11 +163,12 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Meloni e gli europei, 'diplomazia e coordinamento militare'",
-      "source_count": 5,
-      "article_count": 5,
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
+        "fanpage.it",
         "repubblica.it",
         "ansa.it",
         "lastampa.it",
@@ -154,15 +176,35 @@
         "governo.it"
       ],
       "links": [
+        "https://www.fanpage.it/politica/iran-meloni-dice-si-al-coordinamento-militare-con-i-leader-ue-e-manda-una-nave-da-guerra-a-cipro/",
         "https://www.repubblica.it/politica/2026/03/07/news/europa_accordo_a_quattro_roma_iran-425205243/",
         "https://www.ansa.it/sito/notizie/politica/2026/03/06/meloni-sente-erdogan-contro-la-turchia-ingiustificabile-attacco-missilistico_89e85815-8059-431f-ae5b-c6c820bdcea3.html",
         "https://www.lastampa.it/politica/2026/03/07/news/meloni_patto_con_i_leader_europei_parte_la_fregata_italiana_per_cipro-15534759/",
-        "https://www.liberoquotidiano.it/video/video-news-by-vista/46690665/zelensky-ho-parlato-con-giorgia-meloni-necessario-coordinamento-piu-stretto-in-europa/",
-        "https://www.governo.it/it/articolo/conversazione-telefonica-con-il-presidente-della-turchia-recep-erdo/31266"
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46690665/zelensky-ho-parlato-con-giorgia-meloni-necessario-coordinamento-piu-stretto-in-europa/"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Paralimpiadi Milano-Cortina 2026, il calendario: le gare da medaglia giorno per giorno | Dove vederle in tv e streaming",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilgiornale.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/07/medagliere-paralimpiadi-2026-milano-cortina-diretta-classifica-aggiornata/8315712/",
+        "https://www.adnkronos.com/milano-cortina-2026/eventi/paralimpiadi-milano-cortina-oggi-programma-orari-italiani-gara-dove-vederli-tv-streaming_5Q8BuQOS4Lw7dFDGDX2VvG",
+        "https://www.repubblica.it/sport/dossier/paralimpiadi/2026/03/07/news/sport_paralimpici_invernali_quali_sono_come_funzionano-425205468/",
+        "https://www.repubblica.it/sport/dossier/paralimpiadi/2026/03/07/news/paralimpiadi_2026_programma_italiani_gara_oggi-425205425/",
+        "https://www.ilgiornale.it/news/altri-sport/paralimpiadi-dalle-polemiche-medaglie-si-parte-2635273.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Morte di David Rossi: la ricostruzione video che rafforza la pista dell’omicidio",
       "source_count": 5,
       "article_count": 5,
@@ -179,44 +221,6 @@
         "https://www.laverita.info/video-david-rossi-omicidio-2675647557.html",
         "https://www.ilgiornale.it/news/nazionale/david-rossi-stato-ucciso-ecco-video-che-ricostruisce-cosa-2635030.html",
         "https://www.agi.it/cronaca/video/2026-03-06/mps-david-rossi-ricostruzione-video-pista-omicidio-35976621/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Juventus-Pisa: orario, probabili formazioni e dove vederla in tv",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "corriere.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.corriere.it/sport/calcio/serie-a/26_marzo_07/dove-vedere-serie-a-oggi-fe98def6-2118-4cf9-9006-183462af7xlk.shtml",
-        "https://www.fanpage.it/sport/calcio/juventus-pisa-oggi-in-tv-dove-vederla-in-tv-e-streaming-orario-e-probabili-formazioni/",
-        "https://www.adnkronos.com/sport/atalanta-udinese-oggi-serie-a-orario-dove-vederla-tv-probabili-formazioni_5Snfw1WFHZncnPIdZ6YwBS",
-        "https://www.adnkronos.com/sport/juventus-pisa-oggi-serie-a-orario-dove-vederla-tv-probabili-formazioni_1UJCVPFqIwq2dVXRZMU8X2",
-        "https://www.ilmessaggero.it/sport/schede/juventus_pisa_probabili_formazioni_dove_vederla_sky-9400248.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Btp Valore, il Tesoro alza le cedole ed è raccolta boom",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/borsa-e-mercati/btp-valore-tesoro-alza-cedole-ed-raccolta-boom-2635256.html",
-        "https://www.corriere.it/economia/finanza/26_marzo_04/btp-valore-10-domande-piu-una-su-come-si-acquista-quanto-rende-e-davvero-conviene-investirci-ef5d741d-d64d-4fc2-b9f0-1ae3d6537xlk.shtml",
-        "https://www.corriere.it/economia/risparmio/26_marzo_06/btp-valore-cedole-piu-alte-il-tesoro-aumenta-il-rendimento-rispetto-ai-minimi-garantiti-cf6df62c-9892-46a2-abef-fb2388681xlk.shtml",
-        "https://www.ilmessaggero.it/economia/news/btp_valore_aumento_tassi_cedole_cosa_significa-9400029.html",
-        "https://www.lastampa.it/tuttosoldi/2026/03/06/news/borsa_btp_effetto_iran_tesoro_rendimento-15534114/"
       ]
     }
   ]
