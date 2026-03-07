@@ -1,34 +1,9 @@
 {
   "date": "2026-03-07",
-  "generated_at": "Sat 07 Mar 16:36",
+  "generated_at": "Sat 07 Mar 17:28",
   "stories": [
     {
       "rank": 1,
-      "title": "Famiglia nel bosco, decisione choc. La madre allontanata dai tre bimbi",
-      "source_count": 10,
-      "article_count": 19,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "video.corriere.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "laverita.info",
-        "fanpage.it",
-        "news.google.com",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/cronaca/2026/03/07/news/famiglia_nel_bosco_bambini_senza_mamma_trasferimento_rallentato-425206249/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/07/legale-famiglia-del-bosco-mamma-allontanata-nonostante-urla-strazianti_3c591213-deea-4fc5-9d03-81bbd562b07d.html",
-        "https://www.ilgiornale.it/news/politica/famiglia-nel-bosco-decisione-choc-madre-allontanata-dai-tre-2635226.html",
-        "https://video.corriere.it/cronaca/famiglia-nel-bosco-il-momento-in-cui-mamma-catherine-viene-allontanata-dai-figli/34d23b67-671e-451b-b4c1-28ef86cd8xlk",
-        "https://www.lastampa.it/cronaca/2026/03/07/news/famiglia_nel_bosco_dove_verranno_trasferiti_i_bambini_oggi_l_incontro_con_il_padre-15535181/"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "F1 Gp Australia, le qualifiche in diretta: Russell in pole davanti ad Antonelli. Leclerc quarto e Hamilton settimo",
       "source_count": 10,
       "article_count": 18,
@@ -53,7 +28,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Mattarella arriva all'Arena di Verona per cerimonia apertura Giochi Paralimpici Milano Cortina",
       "source_count": 10,
       "article_count": 16,
@@ -75,6 +50,30 @@
         "https://www.ilgiornale.it/news/nazionale/paralimpiadi-emozioni-e-applausi-i-giochi-italiani-tempo-2635314.html",
         "https://www.liberoquotidiano.it/video/tv-news/46697339/paralimpiadi-milano-cortina-un-sorvolo-inclusivo-sull-arena-di-verona/",
         "https://www.repubblica.it/sport/dossier/paralimpiadi/2026/03/07/news/guerra_russia_iran_paralimpiadi-425205300/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Famiglia nel bosco, parla Catherine la mamma dei bimbi: “Eravamo felici. Perché ci fanno questo?”",
+      "source_count": 9,
+      "article_count": 16,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "video.corriere.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "laverita.info",
+        "news.google.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/cronaca/2026/03/07/news/famiglia_nel_bosco_bambini_senza_mamma_trasferimento_rallentato-425206249/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/07/legale-famiglia-del-bosco-mamma-allontanata-nonostante-urla-strazianti_3c591213-deea-4fc5-9d03-81bbd562b07d.html",
+        "https://www.ilgiornale.it/news/politica/famiglia-nel-bosco-decisione-choc-madre-allontanata-dai-tre-2635226.html",
+        "https://video.corriere.it/cronaca/famiglia-nel-bosco-il-momento-in-cui-mamma-catherine-viene-allontanata-dai-figli/34d23b67-671e-451b-b4c1-28ef86cd8xlk",
+        "https://www.lastampa.it/cronaca/2026/03/07/news/famiglia_nel_bosco_dove_verranno_trasferiti_i_bambini_oggi_l_incontro_con_il_padre-15535181/"
       ]
     },
     {
@@ -146,6 +145,27 @@
     },
     {
       "rank": 7,
+      "title": "Pogacar inarrestabile: vince la Strade Bianche per la quarta volta, mai nessuno come lui",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
+        "corriere.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/ciclismo/pogacar-inarrestabile-vince-strade-bianche-quarta-volta-mai-2635488.html",
+        "https://www.ilfattoquotidiano.it/2026/03/07/pogacar-strade-bianche-terza-vittoria-notizie/8316681/",
+        "https://www.fanpage.it/sport/ciclismo/pogacar-e-un-alieno-un-treno-coi-pedali-tadej-vince-la-strade-bianche-con-una-fuga-mostruosa/",
+        "https://www.repubblica.it/sport/ciclismo/2026/03/07/news/pogacar_vince_strade_bianche-425206401/",
+        "https://www.corriere.it/sport/ciclismo/26_marzo_07/pogacar-vince-strade-bianche-2026-fc1e0db0-266e-41f4-b37a-08d9a55c1xlk.shtml"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Il Napoli piega il Torino e guarda al secondo posto del Milan",
       "source_count": 6,
       "article_count": 7,
@@ -166,49 +186,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Svolta sulla famiglia del bosco: la madre allontanata dai figli. E Meloni attacca i magistrati",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "roma.corriere.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/meloni-senza-parole-i-figli-non-sono-propriet-dello-stato-2635228.html",
-        "https://www.lastampa.it/cronaca/2026/03/07/news/svolta_sulla_famiglia_del_bosco_la_madre_allontanata_dai_figli_e_meloni_attacca_i_magistrati-15534703/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/06/mamma-catherine-allontanata-dai-figli-meloni-attacca-le-toghe_70c6daed-3508-4c9c-b978-ace633f0d517.html",
-        "https://www.ilfattoquotidiano.it/2026/03/06/famiglia-nel-bosco-meloni-contro-i-giudici-dopo-la-decisione-di-separare-madre-e-figli-hanno-superato-il-limite/8316128/",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_06/famiglia-nel-bosco-la-decisione-del-tribunale-allontanare-la-madre-dalla-casa-e-separare-i-bambini-f19eaac6-d6fc-4332-ab59-bedc91562xlk.shtml"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Qatar e Hormuz chiusi, si teme il petrolio a 150 dollari",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "corriere.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/allarme-speculazione-2635211.html",
-        "https://ilmanifesto.it/economie-globali-a-rischio-dal-golfo-lallarme-energia",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/03/06/qatar-se-la-guerra-continua-il-golfo-potrebbe-fermare-export-energia_8cdee94c-869c-40d6-9b68-ed95ee8db8a9.html",
-        "https://www.repubblica.it/economia/2026/03/06/news/qatar_hormuz_chiusi_petrolio_rincari_150_dollari-425205280/",
-        "https://www.ilmessaggero.it/economia/news/petrolio_prezzo_qatar_blocco_totale-9400569.html"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "L'Europa si muove. La call a quattro tra Starmer, Merz, Meloni e Macron",
       "source_count": 6,
       "article_count": 7,
@@ -226,6 +204,27 @@
         "https://www.ilgiornale.it/news/europa/meglio-tardi-che-mai-obbligati-dagli-eventi-2635296.html",
         "https://www.fanpage.it/politica/iran-meloni-dice-si-al-coordinamento-militare-con-i-leader-ue-e-manda-una-nave-da-guerra-a-cipro/",
         "https://www.repubblica.it/politica/2026/03/07/news/europa_accordo_a_quattro_roma_iran-425205243/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Paralimpiadi, arriva la prima medaglia azzurra: Chiara Mazzel argento nella discesa ipovedenti AS2",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/altrisport/speciali/paralimpiadi-milano_cortina_2026/2026/03/07/paralimpiadi-prime-medaglie-per-litalia-mazzel-argento-e-bronzo-bertagnolli_d58de0db-f4d1-49cc-b2dc-983d56b867da.html",
+        "https://www.adnkronos.com/milano-cortina-2026/protagonisti/paralimpiadi-milano-cortina-prime-medaglie-italia-mazzel-bertagnolli_krtBUvr0MSVGobEqUzKe8",
+        "https://www.ilfattoquotidiano.it/2026/03/07/paralimpiadi-prima-medaglia-italia-chiara-mazzel-discesa-libera-sci-alpino-ho-dato-tutta-me-stessa/8316382/",
+        "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_07/paralimpiadi-chiara-mazzel-argento-nella-discesa-ipovedenti-as2-b7eaee49-9434-46e7-8abf-1cae734f3xlk.shtml",
+        "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_07/paralimpiadi-chiara-mazzel-argento-nella-discesa-ipovedenti-as2-b7eaee49-9434-46e7-8abf-1cae734f3xlk.shtml"
       ]
     }
   ]
