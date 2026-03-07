@@ -1,12 +1,12 @@
 {
   "date": "2026-03-07",
-  "generated_at": "Sat 07 Mar 07:35",
+  "generated_at": "Sat 07 Mar 08:39",
   "stories": [
     {
       "rank": 1,
-      "title": "Svolta sulla famiglia del bosco: la madre allontanata dai figli. E Meloni attacca i magistrati",
-      "source_count": 11,
-      "article_count": 17,
+      "title": "Famiglia nel bosco, mamma allontanata dai figli. Meloni: «Dal tribunale decisioni ideologiche»",
+      "source_count": 12,
+      "article_count": 18,
       "source_domains": [
         "roma.corriere.it",
         "lastampa.it",
@@ -16,6 +16,7 @@
         "ilgiornale.it",
         "laverita.info",
         "repubblica.it",
+        "fanpage.it",
         "unita.it",
         "ilsole24ore.com",
         "news.google.com"
@@ -31,24 +32,25 @@
     {
       "rank": 2,
       "title": "F1 Gp Australia, le qualifiche in diretta: Russell in pole davanti ad Antonelli. Leclerc quarto e Hamilton settimo",
-      "source_count": 8,
-      "article_count": 13,
+      "source_count": 9,
+      "article_count": 15,
       "source_domains": [
+        "ilmessaggero.it",
         "fanpage.it",
         "adnkronos.com",
         "ilgiornale.it",
+        "liberoquotidiano.it",
         "corriere.it",
         "ansa.it",
         "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/sport/formula1/gp_australia_qualifiche-9401725.html",
         "https://www.fanpage.it/sport/motori/leclerc-gia-non-vede-futuro-per-la-ferrari-sono-deluso-otto-decimi-da-recuperare-sono-tanti/",
         "https://www.adnkronos.com/sport/qualifiche-gp-australia-pole-risultati_2LYGJSGvYeoPkozAr1k6BK",
         "https://www.ilgiornale.it/news/motori/f1-russell-pole-antonelli-secondo-ferrari-bene-leclerc-4-2635284.html",
-        "https://www.corriere.it/sport/formula-1/diretta-live/26_marzo_07/f1-gp-australia-qualifiche-diretta.shtml",
-        "https://www.corriere.it/sport/formula-1/diretta-live/26_marzo_07/f1-gp-australia-qualifiche-diretta.shtml"
+        "https://www.liberoquotidiano.it/news/sport/46695661/melbourne-dominio-mercedes-le-terribili-parole-di-vasseur/"
       ]
     },
     {
@@ -77,24 +79,24 @@
     },
     {
       "rank": 4,
-      "title": "Qatar e Hormuz chiusi, si teme il petrolio a 150 dollari",
+      "title": "Tennis: Indian Wells, Sinner al terzo turno contro Shapovalov",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ansa.it",
-        "repubblica.it",
+        "ilgiornale.it",
         "ilmessaggero.it",
         "corriere.it",
-        "unita.it"
+        "ansa.it",
+        "fanpage.it",
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://ilmanifesto.it/economie-globali-a-rischio-dal-golfo-lallarme-energia",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/03/07/news/perche_l_italia_e_piu_vulnerabile-15534785/",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/03/06/qatar-se-la-guerra-continua-il-golfo-potrebbe-fermare-export-energia_8cdee94c-869c-40d6-9b68-ed95ee8db8a9.html",
-        "https://www.repubblica.it/economia/2026/03/06/news/qatar_hormuz_chiusi_petrolio_rincari_150_dollari-425205280/",
-        "https://www.ilmessaggero.it/economia/news/petrolio_prezzo_qatar_blocco_totale-9400569.html"
+        "https://www.ilgiornale.it/news/tennis/indian-wells-sinner-stravince-debutto-svrcina-liquidato-due-2635300.html",
+        "https://www.ilmessaggero.it/sport/schede/sinner_shapovalov_data_orario_dove_vederla_indian_wells-9401708.html",
+        "https://www.corriere.it/sport/tennis/26_marzo_07/sinner-svrcina-indian-wells-risultato-ccf48136-7778-401a-927b-3d2a88496xlk.shtml",
+        "https://www.ansa.it/sito/notizie/sport/2026/03/07/tennis-indian-wells-sinner-al-terzo-turno-contro-shapovalov_eb9e8120-0802-4163-8feb-8ceb646c43a5.html",
+        "https://www.fanpage.it/sport/tennis/sinner-passeggia-a-indian-wells-gli-bastano-62-minuti-per-vincere-sto-bene-ma-devo-migliorare/"
       ]
     },
     {
@@ -120,46 +122,27 @@
     },
     {
       "rank": 6,
-      "title": "Tennis: Indian Wells, Sinner al terzo turno contro Shapovalov",
+      "title": "L'allarme del Qatar: 'Verso lo stop dell'export di energia'",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
+        "ilmanifesto.it",
+        "ansa.it",
+        "repubblica.it",
         "ilmessaggero.it",
         "corriere.it",
-        "ansa.it",
-        "fanpage.it",
-        "repubblica.it",
-        "lastampa.it"
+        "unita.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/sport/schede/sinner_shapovalov_data_orario_dove_vederla_indian_wells-9401708.html",
-        "https://www.corriere.it/sport/tennis/26_marzo_07/sinner-svrcina-indian-wells-risultato-ccf48136-7778-401a-927b-3d2a88496xlk.shtml",
-        "https://www.ansa.it/sito/notizie/sport/2026/03/07/tennis-indian-wells-sinner-al-terzo-turno-contro-shapovalov_eb9e8120-0802-4163-8feb-8ceb646c43a5.html",
-        "https://www.fanpage.it/sport/tennis/sinner-passeggia-a-indian-wells-gli-bastano-62-minuti-per-vincere-sto-bene-ma-devo-migliorare/",
-        "https://www.repubblica.it/sport/tennis/2026/03/07/news/sinner_indian_wells_svrcina_vittoria-425205387/"
+        "https://ilmanifesto.it/economie-globali-a-rischio-dal-golfo-lallarme-energia",
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/03/06/qatar-se-la-guerra-continua-il-golfo-potrebbe-fermare-export-energia_8cdee94c-869c-40d6-9b68-ed95ee8db8a9.html",
+        "https://www.repubblica.it/economia/2026/03/06/news/qatar_hormuz_chiusi_petrolio_rincari_150_dollari-425205280/",
+        "https://www.ilmessaggero.it/economia/news/petrolio_prezzo_qatar_blocco_totale-9400569.html",
+        "https://www.corriere.it/economia/energie/26_marzo_06/hormuzcollo-bottiglia-mondo-petrolio-150-dollari-4718d020-a107-43f1-b2fa-36f936638xlk.shtml"
       ]
     },
     {
       "rank": 7,
-      "title": "Inferno Teheran",
-      "source_count": 4,
-      "article_count": 7,
-      "source_domains": [
-        "corriere.it",
-        "repubblica.it",
-        "lastampa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_07/guerra-in-iran-le-ultime-notizie-in-diretta-idf-nuovi-attacchi-contro-le-infrastrutture-iraniane-teheran-1332-civili-uccisi.shtml",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_07/guerra-in-iran-le-ultime-notizie-in-diretta-idf-nuovi-attacchi-contro-le-infrastrutture-iraniane-teheran-1332-civili-uccisi.shtml",
-        "https://www.repubblica.it/esteri/2026/03/07/news/libano_iran_unifil-425205186/",
-        "https://www.lastampa.it/esteri/2026/03/06/news/inferno_teheran-15534899/",
-        "https://www.liberoquotidiano.it/video/tv-news/46691481/distrutto-bunker-khamenei-a-teheran-era-ancora-un-centro-di-comando/"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Meloni e gli europei, 'diplomazia e coordinamento militare'",
       "source_count": 5,
       "article_count": 5,
@@ -176,6 +159,26 @@
         "https://www.lastampa.it/politica/2026/03/07/news/meloni_patto_con_i_leader_europei_parte_la_fregata_italiana_per_cipro-15534759/",
         "https://www.liberoquotidiano.it/video/video-news-by-vista/46690665/zelensky-ho-parlato-con-giorgia-meloni-necessario-coordinamento-piu-stretto-in-europa/",
         "https://www.governo.it/it/articolo/conversazione-telefonica-con-il-presidente-della-turchia-recep-erdo/31266"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Morte di David Rossi: la ricostruzione video che rafforza la pista dell’omicidio",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "laverita.info",
+        "ilgiornale.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/06/david-rossi-fu-ucciso-ci-sono-prove-tangibili_d8537f20-cb8e-4236-945c-2a5b8c68e545.html",
+        "https://www.fanpage.it/attualita/morte-david-rossi-il-presidente-della-commissione-dinchiesta-ora-andremo-avanti-su-colpevole-e-movente/",
+        "https://www.laverita.info/video-david-rossi-omicidio-2675647557.html",
+        "https://www.ilgiornale.it/news/nazionale/david-rossi-stato-ucciso-ecco-video-che-ricostruisce-cosa-2635030.html",
+        "https://www.agi.it/cronaca/video/2026-03-06/mps-david-rossi-ricostruzione-video-pista-omicidio-35976621/"
       ]
     },
     {
