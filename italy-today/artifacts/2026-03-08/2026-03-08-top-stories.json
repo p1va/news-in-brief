@@ -1,6 +1,6 @@
 {
   "date": "2026-03-08",
-  "generated_at": "Sun 08 Mar 13:01",
+  "generated_at": "Sun 08 Mar 13:50",
   "stories": [
     {
       "rank": 1,
@@ -12,12 +12,12 @@
         "laverita.info",
         "adnkronos.com",
         "fanpage.it",
+        "ansa.it",
         "corriere.it",
         "repubblica.it",
         "ilmanifesto.it",
         "lastampa.it",
         "ilmessaggero.it",
-        "ansa.it",
         "liberoquotidiano.it",
         "ilfattoquotidiano.it"
       ],
@@ -26,7 +26,7 @@
         "https://www.laverita.info/carburanti-verso-2-euro-litro-2675819327.html",
         "https://www.adnkronos.com/economia/carburanti-londata-di-rincari-continua-schizzano-i-prezzi-per-benzina-e-gasolio_32zD6JQF4CBGwJSlXqsQRa",
         "https://www.fanpage.it/politica/caro-benzina-cose-il-meccanismo-delle-accise-mobili-che-il-governo-vuole-attivare-per-contenere-gli-aumenti/",
-        "https://www.corriere.it/economia/consumi/26_marzo_08/benzina-il-governo-apre-a-schlein-sulle-accise-mobili-no-alla-speculazione-sui-prezzi-8b123d6c-65b6-483d-b953-31cf6abaexlk.shtml"
+        "https://www.ansa.it/sito/videogallery/italia/2026/03/08/medio-oriente-meloni-fase-difficile-ma-impegnati-per-sicurezza-e-ricerca-pace_e1528c42-8581-4ab0-929a-969c80b79aa8.html"
       ]
     },
     {
@@ -147,22 +147,24 @@
     },
     {
       "rank": 7,
-      "title": "Iran, Meloni: \"Confronto con Macron, Merz e Starmer per evitare un'ulteriore escalation\"",
-      "source_count": 5,
-      "article_count": 11,
+      "title": "Paralimpiadi Milano Cortina, Perathoner primo oro per l'Italia",
+      "source_count": 7,
+      "article_count": 10,
       "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
         "ansa.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "adnkronos.com",
         "repubblica.it",
-        "roma.corriere.it"
+        "lastampa.it",
+        "ilfattoquotidiano.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/litalia-non-entra-guerra-si-lavora-sulla-de-escalation-2635545.html",
-        "https://www.liberoquotidiano.it/video/libero-video/46707594/iran-meloni-confronto-con-macron-merz-e-starmer-per-evitare-un-ulteriore-escalation-/",
-        "https://www.ansa.it/sito/videogallery/italia/2026/03/08/medio-oriente-meloni-fase-difficile-ma-impegnati-per-sicurezza-e-ricerca-pace_e1528c42-8581-4ab0-929a-969c80b79aa8.html",
-        "https://www.repubblica.it/politica/2026/03/08/news/meloni_lettera_appello_unifil_con_ue_piano_evacuazione_libano-425206836/",
-        "http://roma.corriere.it/notizie/politica/26_marzo_07/meloni-evitiamo-escalation-coordinamento-quattro-5e2f53f2-4480-4502-ac01-3af9e1457xlk.shtml"
+        "https://www.ansa.it/sito/notizie/sport/altrisport/speciali/paralimpiadi-milano_cortina_2026/2026/03/08/perathoner-nello-snowboard-primo-oro-italiano-alle-paralimpiadi_fb597130-e312-4d1e-9e41-c9c959709a96.html",
+        "https://www.ilgiornale.it/news/altri-sport/paralimpiadi-perathoner-primo-oro-azzurro-chi-latleta-2635724.html",
+        "https://www.corriere.it/buone-notizie/26_marzo_08/le-medaglie-e-la-missione-di-emanuel-perathoner-ma-serve-piu-visibilita-2cdb0949-4f69-4a67-b273-f70f48d9axlk.shtml",
+        "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_08/paralimpiadi-emanuel-perathoner-e-oro-nello-snowboard-cross-sb-ll2-uomini-b3aff7e1-272b-4779-b9ff-0d70a17b5xlk.shtml",
+        "https://www.adnkronos.com/milano-cortina-2026/protagonisti/paralimpiadi-milano-cortina-oggi-perathoner-medaglia-oro-snowboard_1n0uqcfvZrT94rwjDXa9ZC"
       ]
     },
     {
@@ -209,23 +211,21 @@
     },
     {
       "rank": 10,
-      "title": "Iran, Trump: «Stiamo facendo bene, distrutte 42 navi in 3 giorni»",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Iran, Meloni: \"Confronto con Macron, Merz e Starmer per evitare un'ulteriore escalation\"",
+      "source_count": 4,
+      "article_count": 10,
       "source_domains": [
         "ilgiornale.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ansa.it",
         "liberoquotidiano.it",
-        "video.corriere.it"
+        "repubblica.it",
+        "roma.corriere.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica-estera/linea-dura-trump-i-militari-caduti-colpiremo-pi-forte-mondo-2635637.html",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-trump_1TJfAobjAb0TjsAY0VVLSQ",
-        "https://www.repubblica.it/esteri/2026/03/08/news/trump_iran_bulli_perdenti_incursioni_di_terra-425206889/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/07/trump-annuncia-lescalation-e-pensa-ai-boots-on-the-ground_4866aed7-988a-4d66-9b9c-72ccfd9aeaa3.html",
-        "https://www.liberoquotidiano.it/video/video-news-by-vista/46701739/trump-stiamo-facendo-bene-distrutte-42-navi-della-marina-iraniana-in-3-giorni/"
+        "https://www.ilgiornale.it/news/politica/litalia-non-entra-guerra-si-lavora-sulla-de-escalation-2635545.html",
+        "https://www.liberoquotidiano.it/video/libero-video/46707594/iran-meloni-confronto-con-macron-merz-e-starmer-per-evitare-un-ulteriore-escalation-/",
+        "https://www.repubblica.it/politica/2026/03/08/news/meloni_lettera_appello_unifil_con_ue_piano_evacuazione_libano-425206836/",
+        "http://roma.corriere.it/notizie/politica/26_marzo_07/meloni-evitiamo-escalation-coordinamento-quattro-5e2f53f2-4480-4502-ac01-3af9e1457xlk.shtml",
+        "https://www.ilgiornale.it/news/guerra/iran-meloni-indica-strada-macron-merz-e-starmer-lavoro-2635518.html"
       ]
     }
   ]
