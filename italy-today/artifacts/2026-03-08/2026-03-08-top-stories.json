@@ -1,36 +1,9 @@
 {
   "date": "2026-03-08",
-  "generated_at": "Sun 08 Mar 18:43",
+  "generated_at": "Sun 08 Mar 18:49",
   "stories": [
     {
       "rank": 1,
-      "title": "Meloni: Pronti ad accise mobili se sale prezzo benzina",
-      "source_count": 12,
-      "article_count": 17,
-      "source_domains": [
-        "ilgiornale.it",
-        "laverita.info",
-        "adnkronos.com",
-        "fanpage.it",
-        "ansa.it",
-        "corriere.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/caro-benzina-meloni-accelera-contro-aumenti-e-ascolta-2635546.html",
-        "https://www.laverita.info/carburanti-verso-2-euro-litro-2675819327.html",
-        "https://www.adnkronos.com/economia/carburanti-londata-di-rincari-continua-schizzano-i-prezzi-per-benzina-e-gasolio_32zD6JQF4CBGwJSlXqsQRa",
-        "https://www.fanpage.it/politica/caro-benzina-cose-il-meccanismo-delle-accise-mobili-che-il-governo-vuole-attivare-per-contenere-gli-aumenti/",
-        "https://www.ansa.it/sito/videogallery/italia/2026/03/08/medio-oriente-meloni-fase-difficile-ma-impegnati-per-sicurezza-e-ricerca-pace_e1528c42-8581-4ab0-929a-969c80b79aa8.html"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Gp Australia, doppietta Mercedes. Vince Russell davanti ad Antonelli, podio Ferrari con Leclerc, Hamilton 4°. Sei ritiri Live",
       "source_count": 9,
       "article_count": 18,
@@ -51,6 +24,32 @@
         "https://www.ilfattoquotidiano.it/2026/03/08/formula1-gp-australia-mercedes-russell-antonelli-ferrari-leclerc-hamilton-risultato-classifica/8317023/",
         "https://www.corriere.it/sport/formula-1/26_marzo_08/pagelle-gp-australia-f1-d91a3a41-2f26-41cf-9fac-339f8c1d3xlk.shtml",
         "https://www.corriere.it/sport/formula-1/26_marzo_08/pagelle-gp-australia-f1-d91a3a41-2f26-41cf-9fac-339f8c1d3xlk.shtml"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Meloni: Pronti ad accise mobili se sale prezzo benzina",
+      "source_count": 11,
+      "article_count": 16,
+      "source_domains": [
+        "ilgiornale.it",
+        "laverita.info",
+        "adnkronos.com",
+        "fanpage.it",
+        "ansa.it",
+        "corriere.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/caro-benzina-meloni-accelera-contro-aumenti-e-ascolta-2635546.html",
+        "https://www.laverita.info/carburanti-verso-2-euro-litro-2675819327.html",
+        "https://www.adnkronos.com/economia/carburanti-londata-di-rincari-continua-schizzano-i-prezzi-per-benzina-e-gasolio_32zD6JQF4CBGwJSlXqsQRa",
+        "https://www.fanpage.it/politica/caro-benzina-cose-il-meccanismo-delle-accise-mobili-che-il-governo-vuole-attivare-per-contenere-gli-aumenti/",
+        "https://www.ansa.it/sito/videogallery/italia/2026/03/08/medio-oriente-meloni-fase-difficile-ma-impegnati-per-sicurezza-e-ricerca-pace_e1528c42-8581-4ab0-929a-969c80b79aa8.html"
       ]
     },
     {
@@ -104,7 +103,7 @@
       "rank": 5,
       "title": "La Juventus si sveglia dopo un tempo ma batte comunque il Pisa per 4-0",
       "source_count": 7,
-      "article_count": 11,
+      "article_count": 10,
       "source_domains": [
         "lastampa.it",
         "ilgiornale.it",
