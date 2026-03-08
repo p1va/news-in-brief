@@ -1,12 +1,12 @@
 {
   "date": "2026-03-08",
-  "generated_at": "Sun 08 Mar 17:29",
+  "generated_at": "Sun 08 Mar 18:43",
   "stories": [
     {
       "rank": 1,
-      "title": "Benzina, il governo apre a Schlein sulle accise mobili: «No alla speculazione sui prezzi»",
+      "title": "Meloni: Pronti ad accise mobili se sale prezzo benzina",
       "source_count": 12,
-      "article_count": 18,
+      "article_count": 17,
       "source_domains": [
         "ilgiornale.it",
         "laverita.info",
@@ -79,30 +79,6 @@
     },
     {
       "rank": 4,
-      "title": "Sei Nazioni, Italia nella storia: battuta per la prima volta l’Inghilterra",
-      "source_count": 9,
-      "article_count": 11,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/rugby/italia_vince_sei_nazioni_folle_england_rugby-9403651.html",
-        "https://www.ilfattoquotidiano.it/2026/03/08/italrugby-inghilterra-prima-vittoria-storia-sei-nazioni-record/8317041/",
-        "https://www.lastampa.it/sport/2026/03/08/news/rugby_il_trionfo_a_wembley_non_e_all_italiana_il_killer_istinct_dei_ragazzi_di_quesada-15536214/",
-        "https://www.ilgiornale.it/news/altri-sport/sua-maest-l-italrugby-2635615.html",
-        "https://www.corriere.it/sport/26_marzo_07/rugby-italia-inghilterra-sei-nazioni-50ad9f76-a306-4013-a576-d7fd3ceecxlk.shtml"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Paralimpiadi Milano Cortina, Perathoner primo oro per l'Italia",
       "source_count": 8,
       "article_count": 12,
@@ -125,28 +101,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Famiglia nel bosco, quando la mamma potrà rivedere i figli? Potrebbero essere affidati al padre? Tutti i nodi ancora da sciogliere",
-      "source_count": 6,
-      "article_count": 12,
-      "source_domains": [
-        "roma.corriere.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "ansa.it"
-      ],
-      "links": [
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_08/famiglia-bosco-domande-risposte-madre-padre-figli-ca835ec7-83eb-485c-837b-a9a181c5axlk.shtml",
-        "https://www.ilgiornale.it/news/politica/pianti-e-urla-separazione-choc-gi-mani-famiglia-2635560.html",
-        "https://www.ilgiornale.it/news/nazionale/lannuncio-salvini-sar-l-prossima-settimana-lobiettivo-2635663.html",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_07/famiglia-nel-bosco-al-risveglio-videochiamata-della-mamma-separata-dai-bambini-il-padre-nella-casa-famiglia-il-pranzo-e-la-d16f0539-539f-47c9-925d-ea1be548fxlk.shtml",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_08/famiglia-bosco-madre-padre-vaccini-nathan-catherine-f15f5290-6c68-421c-8b2c-393d8fcf0xlk.shtml"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "La Juventus si sveglia dopo un tempo ma batte comunque il Pisa per 4-0",
       "source_count": 7,
       "article_count": 11,
@@ -168,7 +123,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "Donna morta a Genova, uccisa a coltellate dal figlio dopo una lite. Aveva 87 anni",
       "source_count": 8,
       "article_count": 9,
@@ -188,6 +143,48 @@
         "https://www.fanpage.it/attualita/donna-trovata-morta-a-genova-sarebbe-stata-uccisa-a-coltellate/",
         "https://www.ilfattoquotidiano.it/2026/03/08/trovato-il-corpo-di-una-donna-assassinata-a-coltellate-a-genova-nel-quartiere-di-molassana-figlio-fermato/8317329/",
         "https://www.adnkronos.com/cronaca/genova-donna-trovata-morta-trafitta-da-coltellate_4MIyUYXdsKJVVJQvrm7sKs"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Famiglia nel bosco, quando la mamma potrà rivedere i figli? Potrebbero essere affidati al padre? Tutti i nodi ancora da sciogliere",
+      "source_count": 5,
+      "article_count": 11,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "roma.corriere.it",
+        "lastampa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/abruzzo/famiglia_bosco_bambini_adozione_cosa_succede-9403925.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/08/lallarme-di-cantelmi-sui-bimbi-nel-bosco-rischiano-ladozione_0a3da889-a7eb-4f10-9a6b-4a7b36843822.html",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_08/famiglia-bosco-domande-risposte-madre-padre-figli-ca835ec7-83eb-485c-837b-a9a181c5axlk.shtml",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_07/famiglia-nel-bosco-al-risveglio-videochiamata-della-mamma-separata-dai-bambini-il-padre-nella-casa-famiglia-il-pranzo-e-la-d16f0539-539f-47c9-925d-ea1be548fxlk.shtml",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_08/famiglia-bosco-madre-padre-vaccini-nathan-catherine-f15f5290-6c68-421c-8b2c-393d8fcf0xlk.shtml"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Italrugby da sogno al Sei Nazioni, gli azzurri battono l'Inghilterra e scrivono la storia LE FOTO",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "ansa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/rugby/italia_vince_sei_nazioni_folle_england_rugby-9403651.html",
+        "https://www.ilfattoquotidiano.it/2026/03/08/italrugby-inghilterra-prima-vittoria-storia-sei-nazioni-record/8317041/",
+        "https://www.lastampa.it/sport/2026/03/08/news/rugby_il_trionfo_a_wembley_non_e_all_italiana_il_killer_istinct_dei_ragazzi_di_quesada-15536214/",
+        "https://www.ilgiornale.it/news/altri-sport/sua-maest-l-italrugby-2635615.html",
+        "https://www.corriere.it/sport/26_marzo_07/rugby-italia-inghilterra-sei-nazioni-50ad9f76-a306-4013-a576-d7fd3ceecxlk.shtml"
       ]
     },
     {
@@ -214,23 +211,24 @@
     },
     {
       "rank": 10,
-      "title": "Elena Curtoni vince, Zenere terza: è grande Italia nel superG in Val di Fassa",
-      "source_count": 6,
+      "title": "Venezia, Calenda contestato all’università con il gesto della P38. Leader di Azione: “Sò ragazzi”",
+      "source_count": 7,
       "article_count": 8,
       "source_domains": [
-        "ansa.it",
-        "repubblica.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "adnkronos.com",
-        "corriere.it",
-        "lastampa.it"
+        "lastampa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "corrieredelveneto.corriere.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/sci/2026/03/08/elena-curtoni-vince-il-superg-val-di-fassa-zenere-terza_0c57dc82-ea64-478a-bdcf-65be0dc9d0be.html",
-        "https://www.repubblica.it/sport/sci/2026/03/08/news/elena_curtoni_vince_superg_femminile_oggi_val_di_fassa-425207742/",
-        "https://www.ilgiornale.it/news/sci/superg-elena-curtoni-strepitosa-asja-zenere-terza-sorpresa-2635693.html",
-        "https://www.adnkronos.com/sport/coppa-del-mondo-curtoni-vince-superg-val-fassa-zenere-terza_5GMEahG5cb3SPTfnAiBi9y",
-        "https://www.corriere.it/sport/diretta-live/26_marzo_08/superg-coppa-del-mondo-val-di-fassa-diretta-live.shtml"
+        "https://www.fanpage.it/politica/calenda-contestato-alla-ca-foscari-con-il-gesto-della-p38-lui-commenta-so-ragazzi-che-cosa-e-successo/",
+        "https://www.ilfattoquotidiano.it/2026/03/08/calenda-contestato-universita-venezia-p38-news/8317308/",
+        "https://www.ilgiornale.it/news/interni/calenda-fiano-contestato-all-universit-ca-foscari-venezia-2635750.html",
+        "https://www.lastampa.it/cronaca/2026/03/08/video/venezia_calenda_contestato_a_ca_foscari_con_il_gesto_della_p38-15536455/",
+        "https://www.repubblica.it/politica/2026/03/08/news/venezia_calenda_contestato_univerista_gesto_pistola-425207871/"
       ]
     }
   ]
