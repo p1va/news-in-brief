@@ -1,6 +1,6 @@
 {
   "date": "2026-03-08",
-  "generated_at": "Sun 08 Mar 06:54",
+  "generated_at": "Sun 08 Mar 07:36",
   "stories": [
     {
       "rank": 1,
@@ -29,13 +29,14 @@
     {
       "rank": 2,
       "title": "Gp Australia, trionfo Russell e doppietta Mercedes davanti alle Ferrari",
-      "source_count": 8,
-      "article_count": 12,
+      "source_count": 9,
+      "article_count": 13,
       "source_domains": [
         "ilgiornale.it",
         "corriere.it",
         "ansa.it",
         "adnkronos.com",
+        "liberoquotidiano.it",
         "fanpage.it",
         "repubblica.it",
         "lastampa.it",
@@ -94,16 +95,15 @@
     {
       "rank": 5,
       "title": "Sei Nazioni, Italia nella storia: battuta per la prima volta l’Inghilterra",
-      "source_count": 7,
-      "article_count": 8,
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
         "corriere.it",
         "ansa.it",
         "liberoquotidiano.it",
         "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
+        "lastampa.it"
       ],
       "links": [
         "https://www.ilgiornale.it/news/altri-sport/sua-maest-l-italrugby-2635615.html",
@@ -194,20 +194,21 @@
     },
     {
       "rank": 10,
-      "title": "Pirovano, ancora un centesimo per il bis in discesa in Val di Fassa: “È tutto surreale”",
-      "source_count": 3,
+      "title": "Mai dire Blackout | Attacco all’Iran, i riflessi sull’energia",
+      "source_count": 4,
       "article_count": 5,
       "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "corriere.it"
+        "laverita.info",
+        "ilmanifesto.it",
+        "corriere.it",
+        "ilgiornale.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/sci/pirovano-bis-record-doppietta-dei-centesimi-2635606.html",
-        "https://www.repubblica.it/sport/sci/2026/03/08/news/intervista_laura_pirovano-425206995/",
-        "https://www.corriere.it/sport/26_marzo_07/laura-pirovano-vince-anche-la-seconda-discesa-libera-di-coppa-del-mondo-in-val-di-fassa-94908b4d-52cf-4444-b5d8-39d56234fxlk.shtml",
-        "https://www.repubblica.it/sport/sci/2026/03/07/news/laura_pirovano_vince_discesa_libera_val_di_fassa-425206149/",
-        "https://www.ilgiornale.it/news/altri-sport/discesa-libera-sci-pirovano-sogno-bis-val-fassa-due-vittorie-2635431.html"
+        "https://www.laverita.info/mai-dire-blackout-attacco-iran-2675655613.html",
+        "https://ilmanifesto.it/benzina-americana-in-una-settimana-14",
+        "https://www.corriere.it/economia/finanza/26_marzo_07/petrolio-vola-blocco-stretto-hormuz-benzina-bollette-533157a5-a58b-4f5d-837e-ce98c0d11xlk.shtml",
+        "https://www.ilgiornale.it/news/guerra/hormuz-riapre-sotto-minaccia-strategia-iraniana-che-tiene-2635490.html",
+        "https://www.ilgiornale.it/news/politica/allarme-speculazione-2635211.html"
       ]
     }
   ]
