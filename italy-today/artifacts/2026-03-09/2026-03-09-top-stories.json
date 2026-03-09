@@ -1,6 +1,6 @@
 {
   "date": "2026-03-09",
-  "generated_at": "Mon 09 Mar 19:02",
+  "generated_at": "Mon 09 Mar 19:06",
   "stories": [
     {
       "rank": 1,
@@ -174,6 +174,29 @@
     },
     {
       "rank": 8,
+      "title": "Milano, un altro tram esce dai binari: è il terzo in dieci giorni",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "milano.corriere.it",
+        "lastampa.it",
+        "milano.repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/09/un-altro-tram-esce-dai-binari-a-milano-terzo-incidente-in-dieci-giorni_085eaee0-16e5-467a-ad21-a3f3e5424448.html",
+        "https://www.adnkronos.com/cronaca/milano-si-blocca-ruota-e-tram-esce-dai-binari-nessun-ferito_5l8rkBORW8mRcrBX0c5L0w",
+        "https://www.ilgiornale.it/news/nazionale/milano-altro-tram-esce-dai-binari-terzo-dieci-giorni-2636049.html",
+        "https://www.fanpage.it/milano/tram-esce-dai-binari-a-rozzano-atm-non-e-un-deragliamento-e-uscito-solo-un-carrello/",
+        "https://www.ilfattoquotidiano.it/2026/03/09/milano-tram-incidente-linea-15-news-oggi/8317784/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Paralimpiadi, Chiara Mazzel medaglia d'oro nel superG femminile: seconda medaglia dopo l'argento in discesa",
       "source_count": 7,
       "article_count": 11,
@@ -195,7 +218,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Enorme incendio alla stazione centrale di Glasgow",
       "source_count": 8,
       "article_count": 9,
@@ -215,29 +238,6 @@
         "https://www.adnkronos.com/internazionale/esteri/scozia-enorme-incendio-a-glasgow-chiude-stazione-ferroviaria_5v9i4jELAWythBROU0PjE1",
         "https://video.corriere.it/esteri/il-video-delle-fiamme-che-avvolgono-la-stazione-di-glasgow-la-struttura-crolla-parzialmente/b256e139-f8ae-4a9a-8350-65e1c7b5cxlk",
         "https://www.liberoquotidiano.it/video/tv-news/46720765/violento-incendio-nella-stazione-centrale-di-glasgow/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Milano, un altro tram esce dai binari: è il terzo in dieci giorni",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "adnkronos.com",
-        "ilgiornale.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "milano.corriere.it",
-        "lastampa.it",
-        "milano.repubblica.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/milano-si-blocca-ruota-e-tram-esce-dai-binari-nessun-ferito_5l8rkBORW8mRcrBX0c5L0w",
-        "https://www.ilgiornale.it/news/nazionale/milano-altro-tram-esce-dai-binari-terzo-dieci-giorni-2636049.html",
-        "https://www.fanpage.it/milano/tram-esce-dai-binari-a-rozzano-atm-non-e-un-deragliamento-e-uscito-solo-un-carrello/",
-        "https://www.ilfattoquotidiano.it/2026/03/09/milano-tram-incidente-linea-15-news-oggi/8317784/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/09/altro-tram-esce-dai-binari-a-milano-terzo-incidente-in-dieci-giorni_085eaee0-16e5-467a-ad21-a3f3e5424448.html"
       ]
     }
   ]
