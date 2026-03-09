@@ -1,6 +1,6 @@
 {
   "date": "2026-03-09",
-  "generated_at": "Mon 09 Mar 17:52",
+  "generated_at": "Mon 09 Mar 19:02",
   "stories": [
     {
       "rank": 1,
@@ -8,11 +8,11 @@
       "source_count": 10,
       "article_count": 20,
       "source_domains": [
+        "fanpage.it",
         "liberoquotidiano.it",
         "video.corriere.it",
         "ilgiornale.it",
         "ilmanifesto.it",
-        "fanpage.it",
         "ansa.it",
         "repubblica.it",
         "lastampa.it",
@@ -20,11 +20,11 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.fanpage.it/nel-caso-te-lo-fossi-perso/la-guida-suprema-delliran-come-una-dinastia-con-la-nomina-del-figlio-di-khamenei/",
         "https://www.liberoquotidiano.it/video/tv-news/46728167/iran-in-migliaia-in-piazza-per-giurare-fedelta-a-mojtaba-khamenei/",
         "https://video.corriere.it/esteri/chi-e-mojtaba-khamenei-l-uomo-scelto-come-nuova-guida-suprema/ef7f0920-1d5d-4bcf-a44f-c2d4fa750xlk",
         "https://www.ilgiornale.it/news/politica/costituzione-violata-e-guerra-i-saggi-segnale-e-i-pericoli-2635836.html",
-        "https://www.ilgiornale.it/news/politica/khamenei-jr-guida-suprema-trump-e-bibi-non-durer-2635835.html",
-        "https://ilmanifesto.it/khamenei-succede-a-khamenei-la-guida-suprema-si-e-fatta-dinastia"
+        "https://www.ilgiornale.it/news/politica/khamenei-jr-guida-suprema-trump-e-bibi-non-durer-2635835.html"
       ]
     },
     {
@@ -79,32 +79,33 @@
     {
       "rank": 4,
       "title": "La famiglia nel bosco: “Rischio adozione per i bambini”. Nordio invia gli ispettori",
-      "source_count": 9,
-      "article_count": 13,
+      "source_count": 10,
+      "article_count": 15,
       "source_domains": [
         "ilgiornale.it",
         "adnkronos.com",
+        "fanpage.it",
         "repubblica.it",
         "ansa.it",
         "roma.corriere.it",
+        "laverita.info",
         "lastampa.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "agi.it"
       ],
       "links": [
         "https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-ministero-invia-ispettori-laquila-pronto-2636188.html",
         "https://www.adnkronos.com/cronaca/famiglia-nel-bosco-ministero-giustizia-ha-attivato-iter-per-invio-ispettori-al-tribunale-dei-minorenni-dellaquila_3kHxCbZ7Mp9Tuj8dlR28nk",
+        "https://www.fanpage.it/politica/salvini-corre-dalla-famiglia-nel-bosco-ma-non-si-capisce-cosa-centri-il-ministro-dei-trasporti-con-il-caso/",
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/bambini-allontanati-catena-errori-nordio-salvini-si-muove-2635982.html",
-        "https://www.repubblica.it/cronaca/2026/03/09/news/nordio_invia_ispettori_aquila_famiglia_bosco-425209298/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/09/famiglia-nel-bosco-nordio-invia-gli-ispettori-a-laquila_8d3ff21d-bfdd-4014-8f85-43f11e7b83dd.html"
+        "https://www.repubblica.it/cronaca/2026/03/09/news/nordio_invia_ispettori_aquila_famiglia_bosco-425209298/"
       ]
     },
     {
       "rank": 5,
-      "title": "Il derby é del Milan, Inter a -7 e lotta scudetto riaperta",
+      "title": "Il Milan conquista ancora il Derby: i rossoneri accorciano a meno sette dall’Inter",
       "source_count": 9,
-      "article_count": 13,
+      "article_count": 12,
       "source_domains": [
         "ilgiornale.it",
         "repubblica.it",
@@ -126,28 +127,6 @@
     },
     {
       "rank": 6,
-      "title": "8 marzo, Mattarella: abbattere ostacoli e valorizzare ruolo donne",
-      "source_count": 7,
-      "article_count": 14,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "ansa.it",
-        "adnkronos.com",
-        "roma.corriere.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/video/tv-news/46728155/8-marzo-mattarella-abbattere-ostacoli-e-valorizzare-ruolo-donne/",
-        "https://www.fanpage.it/politica/8-marzo-mattarella-la-parita-ci-sara-quando-non-si-chiedera-piu-alle-donne-di-seguire-modelli-maschili/",
-        "https://www.liberoquotidiano.it/video/pillole/46726310/mattarella-abbattere-gli-ostacoli-che-limitano-le-potenzialita-delle-donne-/",
-        "https://www.liberoquotidiano.it/video/video-news-by-vista/46725847/8-marzo-mattarella-voto-alle-donne-una-rivoluzione-hanno-trasformato-la-repubblica/",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/09/8-marzo-mattarella-le-donne-hanno-dato-molto-ma-lequilibrio-non-e-ancora-alla_f28c2647-c35c-44e2-ab27-118385aaf77b.html"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Crans-Montana, è indagato anche il sindaco: ipotizzati gli stessi reati dei Moretti",
       "source_count": 10,
       "article_count": 10,
@@ -169,6 +148,28 @@
         "https://www.ilfattoquotidiano.it/2026/03/09/incendio-crans-montana-sindaco-feraud-indagato-notizie/8317638/",
         "https://www.fanpage.it/esteri/crans-montana-indagati-per-omicidio-anche-sindaco-e-4-amministratori-comunali-mancati-controlli/",
         "https://www.ilgiornale.it/news/cronaca-internazionale/indagato-anche-sindaco-paese-svizzero-strage-capodanno-2635972.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "8 marzo, Mattarella: abbattere ostacoli e valorizzare ruolo donne",
+      "source_count": 7,
+      "article_count": 13,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "adnkronos.com",
+        "roma.corriere.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/video/tv-news/46728155/8-marzo-mattarella-abbattere-ostacoli-e-valorizzare-ruolo-donne/",
+        "https://www.fanpage.it/politica/8-marzo-mattarella-la-parita-ci-sara-quando-non-si-chiedera-piu-alle-donne-di-seguire-modelli-maschili/",
+        "https://www.liberoquotidiano.it/video/pillole/46726310/mattarella-abbattere-gli-ostacoli-che-limitano-le-potenzialita-delle-donne-/",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46725847/8-marzo-mattarella-voto-alle-donne-una-rivoluzione-hanno-trasformato-la-repubblica/",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/09/8-marzo-mattarella-le-donne-hanno-dato-molto-ma-lequilibrio-non-e-ancora-alla_f28c2647-c35c-44e2-ab27-118385aaf77b.html"
       ]
     },
     {
