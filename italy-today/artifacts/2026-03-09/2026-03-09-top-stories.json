@@ -1,26 +1,26 @@
 {
   "date": "2026-03-09",
-  "generated_at": "Mon 09 Mar 19:49",
+  "generated_at": "Mon 09 Mar 20:42",
   "stories": [
     {
       "rank": 1,
       "title": "Chi è Mojtaba Khamenei, nuova Guida Suprema",
       "source_count": 10,
-      "article_count": 20,
+      "article_count": 19,
       "source_domains": [
-        "fanpage.it",
+        "lastampa.it",
         "liberoquotidiano.it",
         "video.corriere.it",
         "ilgiornale.it",
         "ilmanifesto.it",
+        "fanpage.it",
         "ansa.it",
         "repubblica.it",
-        "lastampa.it",
         "adnkronos.com",
         "news.google.com"
       ],
       "links": [
-        "https://www.fanpage.it/nel-caso-te-lo-fossi-perso/la-guida-suprema-delliran-come-una-dinastia-con-la-nomina-del-figlio-di-khamenei/",
+        "https://www.lastampa.it/esteri/2026/03/09/news/che_fine_ha_fatto_mojtaba-15538183/",
         "https://www.liberoquotidiano.it/video/tv-news/46728167/iran-in-migliaia-in-piazza-per-giurare-fedelta-a-mojtaba-khamenei/",
         "https://video.corriere.it/esteri/chi-e-mojtaba-khamenei-l-uomo-scelto-come-nuova-guida-suprema/ef7f0920-1d5d-4bcf-a44f-c2d4fa750xlk",
         "https://www.ilgiornale.it/news/politica/costituzione-violata-e-guerra-i-saggi-segnale-e-i-pericoli-2635836.html",
@@ -56,7 +56,7 @@
       "rank": 3,
       "title": "Indian Wells: Sinner senza affanni, batte Shapovalov e vola agli ottavi",
       "source_count": 9,
-      "article_count": 17,
+      "article_count": 15,
       "source_domains": [
         "fanpage.it",
         "adnkronos.com",
@@ -80,7 +80,7 @@
       "rank": 4,
       "title": "Famiglia nel bosco, Nordio invia gli ispettori a L’Aquila. Salvini prepara visita",
       "source_count": 10,
-      "article_count": 14,
+      "article_count": 13,
       "source_domains": [
         "ilgiornale.it",
         "adnkronos.com",
@@ -152,28 +152,6 @@
     },
     {
       "rank": 7,
-      "title": "8 marzo, Mattarella: abbattere ostacoli e valorizzare ruolo donne",
-      "source_count": 7,
-      "article_count": 13,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "ansa.it",
-        "adnkronos.com",
-        "roma.corriere.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/video/tv-news/46728155/8-marzo-mattarella-abbattere-ostacoli-e-valorizzare-ruolo-donne/",
-        "https://www.fanpage.it/politica/8-marzo-mattarella-la-parita-ci-sara-quando-non-si-chiedera-piu-alle-donne-di-seguire-modelli-maschili/",
-        "https://www.liberoquotidiano.it/video/pillole/46726310/mattarella-abbattere-gli-ostacoli-che-limitano-le-potenzialita-delle-donne-/",
-        "https://www.liberoquotidiano.it/video/video-news-by-vista/46725847/8-marzo-mattarella-voto-alle-donne-una-rivoluzione-hanno-trasformato-la-repubblica/",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/09/8-marzo-mattarella-le-donne-hanno-dato-molto-ma-lequilibrio-non-e-ancora-alla_f28c2647-c35c-44e2-ab27-118385aaf77b.html"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Milano, un altro tram esce dai binari: è il terzo in dieci giorni",
       "source_count": 8,
       "article_count": 10,
@@ -196,7 +174,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Paralimpiadi, Chiara Mazzel medaglia d'oro nel superG femminile: seconda medaglia dopo l'argento in discesa",
       "source_count": 7,
       "article_count": 11,
@@ -218,7 +196,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Carburanti, perché il diesel aumenta più della benzina: i quattro fattori dietro il rincaro del gasolio",
       "source_count": 8,
       "article_count": 10,
@@ -238,6 +216,28 @@
         "https://www.lastampa.it/motori/2026/03/09/news/il_razzo_e_la_piuma_ecco_perche_il_prezzo_della_benzina_sale_subito_e_scende_lentamente-15537828/",
         "https://www.corriere.it/economia/consumi/26_marzo_09/diesel-prezzo-aumento-benzina-perche-64fd98d3-edc5-4e01-b87b-2145e690fxlk.shtml",
         "https://www.ilmessaggero.it/economia/news/benzina_pieno_quanto_costa_dove_risparmiare-9405215.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "8 marzo, Mattarella: 'Le donne hanno dato molto, ma l'equilibrio non è ancora alla pari'",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "adnkronos.com",
+        "roma.corriere.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/video/tv-news/46728155/8-marzo-mattarella-abbattere-ostacoli-e-valorizzare-ruolo-donne/",
+        "https://www.fanpage.it/politica/8-marzo-mattarella-la-parita-ci-sara-quando-non-si-chiedera-piu-alle-donne-di-seguire-modelli-maschili/",
+        "https://www.liberoquotidiano.it/video/pillole/46726310/mattarella-abbattere-gli-ostacoli-che-limitano-le-potenzialita-delle-donne-/",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46725847/8-marzo-mattarella-voto-alle-donne-una-rivoluzione-hanno-trasformato-la-repubblica/",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/09/8-marzo-mattarella-le-donne-hanno-dato-molto-ma-lequilibrio-non-e-ancora-alla_f28c2647-c35c-44e2-ab27-118385aaf77b.html"
       ]
     }
   ]
