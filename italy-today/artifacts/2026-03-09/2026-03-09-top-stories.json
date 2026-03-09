@@ -1,9 +1,35 @@
 {
   "date": "2026-03-09",
-  "generated_at": "Mon 09 Mar 08:57",
+  "generated_at": "Mon 09 Mar 10:00",
   "stories": [
     {
       "rank": 1,
+      "title": "Chi è Mojtaba Khamenei, nuova Guida Suprema",
+      "source_count": 11,
+      "article_count": 18,
+      "source_domains": [
+        "ilmanifesto.it",
+        "video.corriere.it",
+        "unita.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/khamenei-succede-a-khamenei-la-guida-suprema-si-e-fatta-dinastia",
+        "https://video.corriere.it/esteri/mojtaba-khamenei-e-la-nuova-guida-suprema-dell-iran-l-annuncio-della-tv-di-stato/e8882099-cb6e-4826-a1fe-184937bb7xlk",
+        "https://www.unita.it/2026/03/09/mojtaba-khamenei-guida-suprema-iran-israele-usa-successione-repubblica-islamica/",
+        "https://www.liberoquotidiano.it/video/tv-news/46721452/iran-mojtaba-khamenei-eletto-nuova-guida-suprema/",
+        "https://video.corriere.it/esteri/migliaia-di-persone-festeggiano-la-nomina-di-mojtaba-khamenei-a-nuova-guida-suprema-dell-iran/abccd0eb-5067-4509-83ba-2aa3b0424xlk"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Il derby é del Milan, Inter a -7 e lotta scudetto riaperta",
       "source_count": 9,
       "article_count": 13,
@@ -27,37 +53,36 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Chi è Mojtaba Khamenei, nuova Guida Suprema",
-      "source_count": 8,
-      "article_count": 13,
+      "rank": 3,
+      "title": "Paralimpiadi, Chiara Mazzel è d’oro: miglior tempo nel SuperG, ecco chi è la sciatrice",
+      "source_count": 7,
+      "article_count": 14,
       "source_domains": [
-        "video.corriere.it",
-        "fanpage.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
         "repubblica.it",
         "lastampa.it",
-        "adnkronos.com",
-        "ilgiornale.it",
         "news.google.com"
       ],
       "links": [
-        "https://video.corriere.it/esteri/migliaia-di-persone-festeggiano-la-nomina-di-mojtaba-khamenei-a-nuova-guida-suprema-dell-iran/abccd0eb-5067-4509-83ba-2aa3b0424xlk",
-        "https://www.fanpage.it/esteri/mojtaba-khamenei-nuova-guida-suprema-non-e-una-buona-notizia-per-liran-e-per-la-fine-della-guerra/",
-        "https://www.corriere.it/esteri/26_marzo_08/mojtaba-figlio-khamenei-guida-suprema-pasdaran-04c19969-69ec-4872-aa9d-d13e43c41xlk.shtml",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/03/09/prime-pagine-mojtaba-il-falco-della-teocrazia-alleato-dei-pasdaran_150b1126-00dc-4455-9f70-d45f761b0dee.html",
-        "https://www.repubblica.it/esteri/2026/03/09/news/iran_mojtaba_khamenei_nuova_guida_suprema_larijani-425208551/"
+        "https://www.ilgiornale.it/news/sci/paralimpiadi-chiara-mazzel-d-oro-miglior-tempo-nel-superg-2636023.html",
+        "https://www.corriere.it/buone-notizie/26_marzo_07/chiara-mazzel-oltre-il-buio-la-campionessa-motivatrice-tra-discesa-e-scaramanzie-6f318756-7dff-4cd3-b863-f05200c9fxlk.shtml",
+        "https://www.ilfattoquotidiano.it/2026/03/09/paralimpiadi-mazzel-oro-superg-ipovedenti-eguagliato-pechino-2022/8317688/",
+        "https://www.ansa.it/sito/notizie/sport/altrisport/speciali/paralimpiadi-milano_cortina_2026/2026/03/09/-milano-cortina-mazzel-oro-in-super-g-ipovedenti-_9f6fa774-50e7-4f7f-8412-007b776c75d9.html",
+        "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_09/paralimpiadi-chiara-mazzel-oro-superg-dce522e6-3c58-4a4a-b2c9-3e6f0fed0xlk.shtml"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Benzina e diesel verso i 2 euro al litro. La Meloni è pronta a ridurre le accise",
       "source_count": 9,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "fanpage.it",
         "corriere.it",
         "liberoquotidiano.it",
-        "fanpage.it",
         "adnkronos.com",
         "lastampa.it",
         "repubblica.it",
@@ -66,15 +91,37 @@
         "laverita.info"
       ],
       "links": [
+        "https://www.fanpage.it/politica/caro-benzina-cose-il-meccanismo-delle-accise-mobili-che-il-governo-vuole-attivare-per-contenere-gli-aumenti/",
         "https://www.corriere.it/economia/aziende/26_marzo_08/carburanti-bollette-governo-prezzi-accise-07366978-9512-4ca9-990e-05f0ed4d6xlk.shtml",
         "https://www.liberoquotidiano.it/video/tv-news/46720364/prezzi-meloni-sterilizzare-le-accise-sui-carburanti/",
         "https://www.fanpage.it/politica/il-governo-prepara-un-decreto-per-tagliare-le-accise-su-benzina-e-gasolio-che-effetto-avra-sui-prezzi/",
-        "https://www.adnkronos.com/economia/prezzi-benzina-diesel-accise-governo-cosa-puo-fare_61S8TegJiU6k4nPiarHXGw",
-        "https://www.lastampa.it/economia/2026/03/09/news/accise_mobil_piano_anti-choc_governo_caro_carburante-15536853/"
+        "https://www.adnkronos.com/economia/prezzi-benzina-diesel-accise-governo-cosa-puo-fare_61S8TegJiU6k4nPiarHXGw"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Iran, il figlio di Khamenei è la nuova Guida suprema. Axios: «Usa irritati con Israele per aver colpito i depositi di petrolio». E il greggio schizza oltre i 100 dollari | Petrolio e fumi tossici, il Golfo brucia",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "laverita.info",
+        "ansa.it",
+        "corriere.it",
+        "repubblica.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.laverita.info/iran-nuovo-governo-2675864211.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/09/medio-oriente-in-bahrein-32-feriti-per-un-drone-iraniano.-liran-saluta-la-nomina_594d36b2-6bfc-4bd2-926d-cedbd531f0e6.html",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_09/guerra-in-iran-le-ultime-notizie-in-diretta-mojtaba-khamenei-nominato-nuova-guida-suprema-pasdaran-fedelta-e-totale-obbedienza.shtml",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_09/guerra-in-iran-le-ultime-notizie-in-diretta-mojtaba-khamenei-nominato-nuova-guida-suprema-pasdaran-fedelta-e-totale-obbedienza.shtml",
+        "https://www.repubblica.it/esteri/2026/03/09/diretta/guerra_iran_usa_israele_news_oggi-425208592/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Indian Wells: Sinner senza affanni, batte Shapovalov e vola agli ottavi",
       "source_count": 8,
       "article_count": 10,
@@ -97,29 +144,53 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Guerra in Iran, le news di oggi. Più di 30 feriti in Bahrein per un drone iraniano: gravi bambini e un neonato. Esplosioni a Doha",
-      "source_count": 7,
-      "article_count": 10,
+      "rank": 7,
+      "title": "Crans-Montana, è indagato anche il sindaco: ipotizzati gli stessi reati dei Moretti",
+      "source_count": 9,
+      "article_count": 9,
       "source_domains": [
-        "laverita.info",
-        "ansa.it",
-        "corriere.it",
-        "repubblica.it",
+        "unita.it",
+        "ilfattoquotidiano.it",
         "fanpage.it",
         "ilgiornale.it",
-        "lastampa.it"
+        "adnkronos.com",
+        "ansa.it",
+        "lastampa.it",
+        "corriere.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.laverita.info/iran-nuovo-governo-2675864211.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/09/medio-oriente-in-bahrein-32-feriti-per-un-drone-iraniano.-liran-saluta-la-nomina_594d36b2-6bfc-4bd2-926d-cedbd531f0e6.html",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_09/guerra-in-iran-le-ultime-notizie-in-diretta-mojtaba-khamenei-nominato-nuova-guida-suprema-pasdaran-fedelta-e-totale-obbedienza.shtml",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_09/guerra-in-iran-le-ultime-notizie-in-diretta-mojtaba-khamenei-nominato-nuova-guida-suprema-pasdaran-fedelta-e-totale-obbedienza.shtml",
-        "https://www.repubblica.it/esteri/2026/03/09/diretta/guerra_iran_usa_israele_news_oggi-425208592/"
+        "https://www.unita.it/2026/03/09/crans-montana-indagati-strage-constellation-sindaco-nicolas-feraud/",
+        "https://www.ilfattoquotidiano.it/2026/03/09/incendio-crans-montana-sindaco-feraud-indagato-notizie/8317638/",
+        "https://www.fanpage.it/esteri/crans-montana-indagati-per-omicidio-anche-sindaco-e-4-amministratori-comunali-mancati-controlli/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/indagato-anche-sindaco-paese-svizzero-strage-capodanno-2635972.html",
+        "https://www.adnkronos.com/internazionale/esteri/crans-montana-indagato-anche-il-sindaco_5InOw25uNfoPSjCFgSaEXH"
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "title": "Sciopero 9 marzo, a rischio sanità e scuola: orari dello stop e settori coinvolti",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "fanpage.it",
+        "video.corriere.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/attualita/sciopero-generale-9-marzo-i-mezzi-di-trasporto-non-sono-coinvolti-i-settori-a-rischio/",
+        "https://www.fanpage.it/attualita/sciopero-9-marzo-a-rischio-treni-mezzi-e-scuola-orari-dello-stop-e-settori-coinvolti/",
+        "https://video.corriere.it/sciopero-generale-la-diretta-video-delle-manifestazioni-a-milano-e-roma/f16da81a-b6f4-4c7f-9128-54d4b2416xlk",
+        "https://www.ilgiornale.it/news/nazionale/scioperi-marzo-ad-alta-pressione-dai-treni-agli-aerei-tutte-2635969.html",
+        "https://www.adnkronos.com/cronaca/sciopero-oggi-oggi-lunedi-9-marzo-2026-chi-si-ferma-disagi-scuola-trasporti-sanita_5itjfCEsYV24KE5z906mBi"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Bimbi del bosco, il consulente della famiglia: “È uno choc, così si rischia l’adozione”",
       "source_count": 8,
       "article_count": 8,
@@ -142,51 +213,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Paralimpiadi, a Perathoner il primo oro azzurro: chi è l'atleta",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "corriere.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/09/paralimpiadi-mazzel-oro-superg-ipovedenti-eguagliato-pechino-2022/8317688/",
-        "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_09/paralimpiadi-chiara-mazzel-oro-superg-dce522e6-3c58-4a4a-b2c9-3e6f0fed0xlk.shtml",
-        "https://www.lastampa.it/sport/speciali/olimpiadi-invernali-milano-cortina-2026/2026/03/09/news/paralimpiadi_chiara_mazzel_vince_l_oro_nel_superg_ipovedenti-15537246/",
-        "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_09/emanuel-perathoner-intervista-paralimpiadi-oro-2810e4af-d5b6-4cbc-a3e4-3d5d759afxlk.shtml",
-        "https://www.ilgiornale.it/news/sport/rivincita-emanueldomina-snowboard-cross-e-regala-primo-oro-2635869.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Crans-Montana, è indagato anche il sindaco: ipotizzati gli stessi reati dei Moretti",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ansa.it",
-        "lastampa.it",
-        "corriere.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/09/incendio-crans-montana-sindaco-feraud-indagato-notizie/8317638/",
-        "https://www.fanpage.it/esteri/crans-montana-indagati-per-omicidio-anche-sindaco-e-4-amministratori-comunali-mancati-controlli/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/indagato-anche-sindaco-paese-svizzero-strage-capodanno-2635972.html",
-        "https://www.adnkronos.com/internazionale/esteri/crans-montana-indagato-anche-il-sindaco_5InOw25uNfoPSjCFgSaEXH",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/09/crans-montana-indagato-anche-il-sindaco_bfd0b1e2-6de1-4b8c-8627-43c6f5af8960.html"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "Spari contro la villa di Rihanna a Beverly Hills: la cantante è illesa, arrestata una donna",
       "source_count": 7,
       "article_count": 7,
@@ -205,27 +232,6 @@
         "https://www.ilfattoquotidiano.it/2026/03/09/rihanna-spari-villa-beverly-hills-notizie/8317617/",
         "https://www.lastampa.it/spettacoli/2026/03/09/news/rihanna_spari_villa_beverly_hills-15537221/",
         "https://www.corriere.it/spettacoli/26_marzo_09/spari-contro-la-villa-di-rihanna-a-beverly-hills-la-cantante-e-illesa-arrestata-una-donna-368acce6-b276-461a-9397-c4754cb61xlk.shtml"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Calenda contestato all’Università Ca’ Foscari: in un video il gesto della P38",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "fanpage.it",
-        "corrieredelveneto.corriere.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/politica/calenda-contestato-alla-ca-foscari-con-il-gesto-della-p38-lui-commenta-so-ragazzi-che-cosa-e-successo/",
-        "http://corrieredelveneto.corriere.it/notizie/venezia-mestre/cronaca/26_marzo_08/venezia-carlo-calenda-contestato-gesto-p38-fiano-70622877-1f6c-4bdd-80ed-5a2f20267xlk.shtml",
-        "https://www.ilfattoquotidiano.it/2026/03/08/calenda-contestato-universita-venezia-p38-news/8317308/",
-        "https://www.ilgiornale.it/news/interni/calenda-fiano-contestato-all-universit-ca-foscari-venezia-2635750.html",
-        "https://www.lastampa.it/cronaca/2026/03/08/video/venezia_calenda_contestato_a_ca_foscari_con_il_gesto_della_p38-15536455/"
       ]
     }
   ]
