@@ -1,6 +1,6 @@
 {
   "date": "2026-03-09",
-  "generated_at": "Mon 09 Mar 07:11",
+  "generated_at": "Mon 09 Mar 08:57",
   "stories": [
     {
       "rank": 1,
@@ -29,10 +29,11 @@
     {
       "rank": 2,
       "title": "Chi è Mojtaba Khamenei, nuova Guida Suprema",
-      "source_count": 7,
-      "article_count": 11,
+      "source_count": 8,
+      "article_count": 13,
       "source_domains": [
-        "corriere.it",
+        "video.corriere.it",
+        "fanpage.it",
         "ansa.it",
         "repubblica.it",
         "lastampa.it",
@@ -41,37 +42,84 @@
         "news.google.com"
       ],
       "links": [
+        "https://video.corriere.it/esteri/migliaia-di-persone-festeggiano-la-nomina-di-mojtaba-khamenei-a-nuova-guida-suprema-dell-iran/abccd0eb-5067-4509-83ba-2aa3b0424xlk",
+        "https://www.fanpage.it/esteri/mojtaba-khamenei-nuova-guida-suprema-non-e-una-buona-notizia-per-liran-e-per-la-fine-della-guerra/",
         "https://www.corriere.it/esteri/26_marzo_08/mojtaba-figlio-khamenei-guida-suprema-pasdaran-04c19969-69ec-4872-aa9d-d13e43c41xlk.shtml",
         "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/03/09/prime-pagine-mojtaba-il-falco-della-teocrazia-alleato-dei-pasdaran_150b1126-00dc-4455-9f70-d45f761b0dee.html",
-        "https://www.repubblica.it/esteri/2026/03/09/news/iran_mojtaba_khamenei_nuova_guida_suprema_larijani-425208551/",
-        "https://www.lastampa.it/esteri/2026/03/09/news/iran_successione_khamenei_scontro_regime-15536884/",
-        "https://www.repubblica.it/esteri/2026/03/08/news/mojtaba_khamenei_iran_nuova_guida_suprema_figlio_prediletto_ayatollah-425208509/"
+        "https://www.repubblica.it/esteri/2026/03/09/news/iran_mojtaba_khamenei_nuova_guida_suprema_larijani-425208551/"
       ]
     },
     {
       "rank": 3,
+      "title": "Benzina e diesel verso i 2 euro al litro. La Meloni è pronta a ridurre le accise",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "corriere.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.corriere.it/economia/aziende/26_marzo_08/carburanti-bollette-governo-prezzi-accise-07366978-9512-4ca9-990e-05f0ed4d6xlk.shtml",
+        "https://www.liberoquotidiano.it/video/tv-news/46720364/prezzi-meloni-sterilizzare-le-accise-sui-carburanti/",
+        "https://www.fanpage.it/politica/il-governo-prepara-un-decreto-per-tagliare-le-accise-su-benzina-e-gasolio-che-effetto-avra-sui-prezzi/",
+        "https://www.adnkronos.com/economia/prezzi-benzina-diesel-accise-governo-cosa-puo-fare_61S8TegJiU6k4nPiarHXGw",
+        "https://www.lastampa.it/economia/2026/03/09/news/accise_mobil_piano_anti-choc_governo_caro_carburante-15536853/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Indian Wells: Sinner senza affanni, batte Shapovalov e vola agli ottavi",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/tennis/indian-wells-sinner-senza-affanni-batte-shapovalov-e-vola-2635990.html",
+        "https://www.liberoquotidiano.it/news/sport/46719545/jannik-sinner-e-di-un-altro-pianeta-il-colpo-con-cui-travolge-shapovalov/",
+        "https://www.ilfattoquotidiano.it/2026/03/09/sinner-indian-wells-shapovalov-risultato-commento-analisi/8317602/",
+        "https://www.corriere.it/sport/tennis/26_marzo_09/indian-wells-sinner-batte-shapovalov-in-due-set-e-va-agli-ottavi-bd698aed-9d96-4104-8bee-1227b9ff3xlk.shtml",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/09/tennis-sinner-batte-shapovalov-e-vola-agli-ottavi-degli-indian-wells_1ac355e1-561b-44bf-a97f-fd14a6abb813.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Guerra in Iran, le news di oggi. Più di 30 feriti in Bahrein per un drone iraniano: gravi bambini e un neonato. Esplosioni a Doha",
       "source_count": 7,
       "article_count": 10,
       "source_domains": [
+        "laverita.info",
         "ansa.it",
         "corriere.it",
         "repubblica.it",
         "fanpage.it",
         "ilgiornale.it",
-        "lastampa.it",
-        "laverita.info"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.laverita.info/iran-nuovo-governo-2675864211.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/03/09/medio-oriente-in-bahrein-32-feriti-per-un-drone-iraniano.-liran-saluta-la-nomina_594d36b2-6bfc-4bd2-926d-cedbd531f0e6.html",
         "https://www.corriere.it/esteri/diretta-live/26_marzo_09/guerra-in-iran-le-ultime-notizie-in-diretta-mojtaba-khamenei-nominato-nuova-guida-suprema-pasdaran-fedelta-e-totale-obbedienza.shtml",
         "https://www.corriere.it/esteri/diretta-live/26_marzo_09/guerra-in-iran-le-ultime-notizie-in-diretta-mojtaba-khamenei-nominato-nuova-guida-suprema-pasdaran-fedelta-e-totale-obbedienza.shtml",
-        "https://www.repubblica.it/esteri/2026/03/09/diretta/guerra_iran_usa_israele_news_oggi-425208592/",
-        "https://www.fanpage.it/live/iran-news-attacco-usa-israele-diretta-live-9-marzo/"
+        "https://www.repubblica.it/esteri/2026/03/09/diretta/guerra_iran_usa_israele_news_oggi-425208592/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Bimbi del bosco, il consulente della famiglia: “È uno choc, così si rischia l’adozione”",
       "source_count": 8,
       "article_count": 8,
@@ -94,48 +142,73 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Benzina e diesel verso i 2 euro al litro. La Meloni è pronta a ridurre le accise",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "laverita.info"
-      ],
-      "links": [
-        "https://www.adnkronos.com/economia/prezzi-benzina-diesel-accise-governo-cosa-puo-fare_61S8TegJiU6k4nPiarHXGw",
-        "https://www.lastampa.it/economia/2026/03/09/news/accise_mobil_piano_anti-choc_governo_caro_carburante-15536853/",
-        "https://www.lastampa.it/economia/2026/03/09/news/carburanti_accordo_export_urso_intervista-15536845/",
-        "https://www.repubblica.it/economia/2026/03/09/news/la_benzina_il_governo_verso_un_decreto_sulle_accise_il_greggio_vede_quota_100-425208485/",
-        "https://www.ilmessaggero.it/economia/schede/taglio_accise_come_cambia_prezzo_benzina_diesel-9403813.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Indian Wells, Sinner batte Shapovalov in due set e vola agli ottavi - Rivivi il match",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "corriere.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.corriere.it/sport/tennis/26_marzo_09/indian-wells-sinner-batte-shapovalov-in-due-set-e-va-agli-ottavi-bd698aed-9d96-4104-8bee-1227b9ff3xlk.shtml",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/09/tennis-sinner-batte-shapovalov-e-vola-agli-ottavi-degli-indian-wells_1ac355e1-561b-44bf-a97f-fd14a6abb813.html",
-        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_indian_wells_ottavi_orario_dove_vederlo-9404094.html",
-        "https://www.fanpage.it/sport/tennis/sinner-si-sbarazza-di-shapovalov-a-indian-wells-non-ce-partita-per-jannik-era-importante/",
-        "https://www.adnkronos.com/sport/indian-wells-paolini-batte-tomljanovic-in-tre-set-e-vola-agli-ottavi_38JMVuwXgGOszCyz67A0x2"
-      ]
-    },
-    {
       "rank": 7,
+      "title": "Paralimpiadi, a Perathoner il primo oro azzurro: chi è l'atleta",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/09/paralimpiadi-mazzel-oro-superg-ipovedenti-eguagliato-pechino-2022/8317688/",
+        "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_09/paralimpiadi-chiara-mazzel-oro-superg-dce522e6-3c58-4a4a-b2c9-3e6f0fed0xlk.shtml",
+        "https://www.lastampa.it/sport/speciali/olimpiadi-invernali-milano-cortina-2026/2026/03/09/news/paralimpiadi_chiara_mazzel_vince_l_oro_nel_superg_ipovedenti-15537246/",
+        "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_09/emanuel-perathoner-intervista-paralimpiadi-oro-2810e4af-d5b6-4cbc-a3e4-3d5d759afxlk.shtml",
+        "https://www.ilgiornale.it/news/sport/rivincita-emanueldomina-snowboard-cross-e-regala-primo-oro-2635869.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Crans-Montana, è indagato anche il sindaco: ipotizzati gli stessi reati dei Moretti",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ansa.it",
+        "lastampa.it",
+        "corriere.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/09/incendio-crans-montana-sindaco-feraud-indagato-notizie/8317638/",
+        "https://www.fanpage.it/esteri/crans-montana-indagati-per-omicidio-anche-sindaco-e-4-amministratori-comunali-mancati-controlli/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/indagato-anche-sindaco-paese-svizzero-strage-capodanno-2635972.html",
+        "https://www.adnkronos.com/internazionale/esteri/crans-montana-indagato-anche-il-sindaco_5InOw25uNfoPSjCFgSaEXH",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/09/crans-montana-indagato-anche-il-sindaco_bfd0b1e2-6de1-4b8c-8627-43c6f5af8960.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Spari contro la villa di Rihanna a Beverly Hills: la cantante è illesa, arrestata una donna",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "corriere.it",
+        "fanpage.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-internazionale/spari-contro-villa-rihanna-beverly-hills-arrestata-donna-sta-2636000.html",
+        "https://www.adnkronos.com/internazionale/esteri/spari-contro-la-casa-di-rihanna-fermata-una-donna_5A9pAz6uUkcx6CvJr4XA8t",
+        "https://www.ilfattoquotidiano.it/2026/03/09/rihanna-spari-villa-beverly-hills-notizie/8317617/",
+        "https://www.lastampa.it/spettacoli/2026/03/09/news/rihanna_spari_villa_beverly_hills-15537221/",
+        "https://www.corriere.it/spettacoli/26_marzo_09/spari-contro-la-villa-di-rihanna-a-beverly-hills-la-cantante-e-illesa-arrestata-una-donna-368acce6-b276-461a-9397-c4754cb61xlk.shtml"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Calenda contestato all’Università Ca’ Foscari: in un video il gesto della P38",
       "source_count": 6,
       "article_count": 6,
@@ -153,64 +226,6 @@
         "https://www.ilfattoquotidiano.it/2026/03/08/calenda-contestato-universita-venezia-p38-news/8317308/",
         "https://www.ilgiornale.it/news/interni/calenda-fiano-contestato-all-universit-ca-foscari-venezia-2635750.html",
         "https://www.lastampa.it/cronaca/2026/03/08/video/venezia_calenda_contestato_a_ca_foscari_con_il_gesto_della_p38-15536455/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Paralimpiadi, a Perathoner il primo oro azzurro: chi è l'atleta",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "corriere.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_09/emanuel-perathoner-intervista-paralimpiadi-oro-2810e4af-d5b6-4cbc-a3e4-3d5d759afxlk.shtml",
-        "https://www.ilgiornale.it/news/sport/rivincita-emanueldomina-snowboard-cross-e-regala-primo-oro-2635869.html",
-        "https://www.repubblica.it/sport/dossier/paralimpiadi/2026/03/09/news/emanuel_perathoner_oro_brignone_snowboard_paralimpiadi-425208338/",
-        "https://www.ilgiornale.it/news/altri-sport/paralimpiadi-perathoner-primo-oro-azzurro-chi-latleta-2635724.html",
-        "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_08/paralimpiadi-emanuel-perathoner-e-oro-nello-snowboard-cross-sb-ll2-uomini-b3aff7e1-272b-4779-b9ff-0d70a17b5xlk.shtml"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "L’avvertimento di Meloni: «Pronti a tassare chi specula sulla guerra»",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "laverita.info",
-        "ansa.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/meloni-speculatori-benzina-gas-elettricita-2675864202.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/08/pd-governo-smentisca-frasi-trump-su-aiuto-italiano-in-guerra-illegale_59acd725-1384-4f51-9787-3c31abc31ae8.html",
-        "https://www.ilgiornale.it/news/governo/meloni-i-giudici-ci-impediscono-governare-guerra-domani-i-2635804.html",
-        "https://www.lastampa.it/politica/2026/03/08/news/meloni_italia_no_guerra_speculazione_aziende-15536717/",
-        "https://www.ilsole24ore.com/art/l-avvertimento-meloni-pronti-tassare-chi-specula-guerra-AIdb1TqB"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Il cielo nero sopra Teheran dopo gli attacchi ai siti di stoccaggio del petrolio",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "corriere.it",
-        "repubblica.it",
-        "ansa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.corriere.it/esteri/26_marzo_08/petrolio-iran-guerra-golfo-95ee9bc1-66ba-4167-87c2-106baaf21xlk.shtml",
-        "https://www.repubblica.it/esteri/2026/03/09/news/testimonianze_teheran_nube_tossica_deposito_petrolio_guerra-425208291/",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/03/08/pioggia-acida-e-fumo-nero-a-teheran-sembra-il-giorno-del-giudizio-il-reportage_547fcefb-7698-49a1-8a09-268efa826b32.html",
-        "https://video.corriere.it/esteri/il-cielo-nero-sopra-teheran-dopo-gli-attacchi-ai-siti-di-stoccaggio-del-petrolio/7ee1d94e-05cc-44df-b849-72ba635b7xlk",
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTFBEUE82YW1kamQ3LTdfeDZuanB4UjBDSFlLY0xKaUU5bjJRNV9NNFZ3TEJSMHA2bkF2VGNiQy01REtHNVI2Yy1hTENGMFhWbDlfYS1MbW9oVDU4cDNtMTR4MmR6a2xfVEh5NUZEM0J3RVlkeFhzNl9IWF9n?oc=5"
       ]
     }
   ]
