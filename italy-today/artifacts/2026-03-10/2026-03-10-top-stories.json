@@ -1,6 +1,6 @@
 {
   "date": "2026-03-10",
-  "generated_at": "Tue 10 Mar 08:54",
+  "generated_at": "Tue 10 Mar 09:54",
   "stories": [
     {
       "rank": 1,
@@ -48,27 +48,48 @@
     },
     {
       "rank": 3,
-      "title": "Il petrolio s’infiamma, poi torna sotto i 100 dollari. Borse in preda all’incertezza",
+      "title": "Famiglia del bosco, rafforzata la vigilanza alla presidente del Tribunale dei minori",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ansa.it",
         "ilgiornale.it",
-        "corriere.it"
+        "repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
+        "roma.corriere.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.repubblica.it/economia/2026/03/10/news/petrolio_100_dollari_mercati_borse-425210601/",
-        "https://www.lastampa.it/economia/2026/03/10/news/iran_energia_alle_stelle_allarme_giorgetti_emergenza_come_nel_2022-15538325/",
-        "https://www.ilmessaggero.it/economia/petrolio_prezzo_crollo_cosa_succede-9405990.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/03/09/borsa-wall-street-apre-debole-europa-riduce-il-calo.-greggio-usa_a8a2e2a9-cd8f-4cba-af92-d7a9bbe9c982.html",
-        "https://www.repubblica.it/economia/2026/03/09/diretta/le_borse_di_oggi_lunedi_9_marzo_asia_forte_ribasso_record_petrolio-425208643/"
+        "https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-rafforzata-vigilanza-presidente-tribunale-2636478.html",
+        "https://www.repubblica.it/cronaca/2026/03/10/news/cecilia_angrisano_rafforzata_scorta_giudice_famiglia_bosco-425211326/",
+        "https://www.adnkronos.com/cronaca/famiglia-nel-bosco-garante-infanzia-abruzzo-nessun-rischio-adozione-bimbi_3I7BqvCFrnsgUfO7CDTPh4",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/10/famiglia-del-bosco-rafforzata-la-vigilanza-alla-presidente-tribunale-minori_909807f8-a2b4-4d69-af54-56e9a98dbbef.html",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_10/cecilia-angrisano-famiglia-bosco-vigilanza-scorta-5fd7a014-b7e8-4a49-8ad8-bf0e39e8exlk.shtml"
       ]
     },
     {
       "rank": 4,
+      "title": "Terremoto 5.9 al largo di Capri. Magnitudo alta ma in estrema profondità, oltre 400 km, nessun danno",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "napoli.corriere.it",
+        "adnkronos.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/10/terremoto-golfo-napoli-capri-magnitudo-notizie/8318948/",
+        "https://www.ilmessaggero.it/italia/terremoto_perche_nessuno_lo_sente_magnitudo_5_9-9407231.html",
+        "https://www.ilmessaggero.it/italia/terremoto_napoli_fortissimo_nessunoi_lo_sente_perche-9407231.html",
+        "https://www.fanpage.it/napoli/ingv-spiega-i-motivi-del-terremoto-59-al-largo-di-capri/",
+        "http://napoli.corriere.it/notizie/cronaca/26_marzo_10/terremoto-di-magnitudo-5-9-nel-golfo-di-napoli-non-distante-da-capri-scossa-avvertita-fin-sulle-coste-della-calabria-2b819740-2016-4bcb-b357-ea61cc318xlk.shtml"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Indian Wells, Sinner-Fonseca: chi è l’avversario e dove vedere la gara in tv",
       "source_count": 6,
       "article_count": 6,
@@ -89,7 +110,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Donna accoltellata sul bus a Napoli, si suicida l'aggressore: era piantonato all'ospedale San Giovanni Bosco",
       "source_count": 6,
       "article_count": 6,
@@ -110,27 +131,67 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Terremoto di 5.9 nel Golfo di Napoli non distante da Capri: scossa avvertita fin sulle coste della Calabria",
+      "rank": 7,
+      "title": "Le Borse rimbalzano dopo le parole di Trump sulla fine della guerra. Giù il prezzo del petrolio",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "repubblica.it",
+        "lastampa.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/economia/2026/03/10/diretta/borse_oggi_10_marzo_guerra_iran_petrolio_gas-425211061/",
+        "https://www.lastampa.it/economia/2026/03/10/news/borse_oggi_piazza_affari_prezzo_petrolio-15538677/",
+        "https://www.corriere.it/economia/finanza/diretta-live/26_marzo_10/borse-oggi-prezzo-petrolio-e-gas-in-diretta-petrolio-in-calo-sulle-dichiarazioni-di-trump-di-de-escalation.shtml",
+        "https://www.repubblica.it/economia/2026/03/10/news/petrolio_100_dollari_mercati_borse-425210601/",
+        "https://www.ilmessaggero.it/economia/petrolio_prezzo_crollo_cosa_succede-9405990.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Iran: \"Negoziati con Usa non all'ordine del giorno, attacchi finché necessario\". Pasdaran a Trump: \"Decideremo noi la fine della guerra\"",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/video/libero-video/46736988/iran-gharibabadi-no-alle-richieste-di-cessate-il-fuoco-/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/10/trump-liran-colpito-20-volte-piu-forte-se-fermasse-i-flussi-di-petrolio.-i-pasdaran_4a4bd127-e669-44ab-a178-fc6743ab360d.html",
+        "https://www.adnkronos.com/internazionale/esteri/guerra-iran-trump-khamenei-news-e-aggiornamenti-oggi-10-marzo-la-diretta_43raBIpIZ2q4JFM4MBbulK",
+        "https://www.ilgiornale.it/news/guerra/raid-notturni-su-teheran-i-pasdaran-determineremo-noi-fine-2636388.html",
+        "https://www.repubblica.it/esteri/2026/03/10/diretta/guerra_iran_usa_israele_news_oggi-425210834/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Trump: \"Guerra con Iran finirà presto, Putin vuole essere d'aiuto\"",
       "source_count": 5,
       "article_count": 6,
       "source_domains": [
         "ilmessaggero.it",
-        "fanpage.it",
-        "napoli.corriere.it",
-        "adnkronos.com",
-        "ilsole24ore.com"
+        "liberoquotidiano.it",
+        "video.corriere.it",
+        "repubblica.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ilmessaggero.it/italia/terremoto_perche_nessuno_lo_sente_magnitudo_5_9-9407231.html",
-        "https://www.fanpage.it/napoli/ingv-spiega-i-motivi-del-terremoto-59-al-largo-di-capri/",
-        "http://napoli.corriere.it/notizie/cronaca/26_marzo_10/terremoto-di-magnitudo-5-9-nel-golfo-di-napoli-non-distante-da-capri-scossa-avvertita-fin-sulle-coste-della-calabria-2b819740-2016-4bcb-b357-ea61cc318xlk.shtml",
-        "https://www.adnkronos.com/cronaca/terremoto-oggi-nel-golfo-di-napoli-scossa-magnitudo-59-a-grande-profondita_3nS4bw8ebO1WLGzyYsgdjC",
-        "https://www.fanpage.it/napoli/terremoto-5-9-stasera-al-largo-di-capri-magnitudo-alta-ma-in-estrema-profondita-nessun-danno/"
+        "https://www.ilmessaggero.it/schede/guerra_iran_finisce_davvero_trump_cosa_c_e_dietro-9407294.html",
+        "https://www.liberoquotidiano.it/video/libero-video/46737132/iran-trump-fine-della-guerra-e-inizio-di-un-nuovo-paese-/",
+        "https://www.liberoquotidiano.it/video/tv-news/46737759/trump-guerra-con-iran-finira-presto-putin-vuole-essere-d-aiuto-/",
+        "https://video.corriere.it/esteri/trump-annuncia-e-la-fine-della-guerra-e-l-inizio-della-costruzione-di-un-nuovo-paese-/c3bcbd63-a032-41a8-94e0-56e881942xlk",
+        "https://www.repubblica.it/esteri/2026/03/10/news/trump_guerra_iran_finita_telefonata_putin_petrolio-425210774/"
       ]
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "Perché Mojtaba Khamenei resta nell'ombra? L'ipotesi che la nuova Guida sia «gravemente ferita»",
       "source_count": 3,
       "article_count": 7,
@@ -145,65 +206,6 @@
         "https://www.lastampa.it/esteri/2026/03/10/news/mojtaba_la_guida_suprema_fantasma_e_quell_ipnosi_collettiva_del_martirio-15538119/",
         "https://www.lastampa.it/esteri/2026/03/09/news/che_fine_ha_fatto_mojtaba-15538183/",
         "https://www.corriere.it/oriente-occidente-federico-rampini/26_marzo_09/iran-missili-fatwa-d21e30e8-d1d3-4881-8ae5-d8c2604daxlk.shtml"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Cosa sappiamo e quali sono gli ultimi sviluppi giuridici sulla famiglia nel bosco",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/abruzzo/famiglia_bosco_bambini_affidati_padre-9405986.html",
-        "https://www.fanpage.it/politica/salvini-corre-dalla-famiglia-nel-bosco-ma-non-si-capisce-cosa-centri-il-ministro-dei-trasporti-con-il-caso/",
-        "https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-ministero-invia-ispettori-laquila-pronto-2636188.html",
-        "https://www.ilsole24ore.com/art/cosa-sappiamo-e-quali-sono-ultimi-sviluppi-giuridici-famiglia-bosco-AIQr8WrB",
-        "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNFVrM19KUWJFR0plN3IzbjFhSzlxaWtNSWpRbU94T0lnVHkyZXkzMjdtdnB6VVhaTGZsSmkxdmZQRTE3ZktSeXN1ZHBoYW45REZhYlBra24zdnhYemY5SHB3RXdfdWNXcUpFMmlFOExrVDRscDR6NEYxdGxldDU3Y2ozcnpHZHMweXNLdENlMk1vZnB2c0x0d1hLRGF5T2Z0RHNZYw?oc=5"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Famiglia del bosco, parla la giudice dopo 110 giorni: “Nessuna ideologia, solo tutela dei minori”",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "roma.corriere.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/10/famiglia-del-bosco-rafforzata-la-vigilanza-alla-presidente-tribunale-minori_909807f8-a2b4-4d69-af54-56e9a98dbbef.html",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_10/cecilia-angrisano-famiglia-bosco-vigilanza-scorta-5fd7a014-b7e8-4a49-8ad8-bf0e39e8exlk.shtml",
-        "https://www.repubblica.it/cronaca/2026/03/10/news/famiglia_nel_bosco_intervista_claudio_cottatellucci-425210518/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/09/famiglia-nel-bosco-nordio-invia-gli-ispettori-a-laquila_8d3ff21d-bfdd-4014-8f85-43f11e7b83dd.html",
-        "https://www.lastampa.it/cronaca/2026/03/09/news/famiglia_del_bosco_presidente_tribunale_tutela_minori_polemiche_politiche-15537921/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Guerra in Iran, il caro bollette rischia di costare 10 miliardi in più",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "corriere.it",
-        "lastampa.it",
-        "repubblica.it",
-        "laverita.info",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.corriere.it/economia/consumi/26_marzo_10/perche-prezzo-benzina-gas-bolletta-tasse-speculazione-297f97af-84c1-46b2-b305-b9093a2d0xlk.shtml",
-        "https://www.lastampa.it/tuttosoldi/2026/03/10/news/guerra_in_medio_oriente_e_allarme_comsumi_energetici_come_difendersi-15538587/",
-        "https://www.repubblica.it/economia/2026/03/09/news/bollette_gas_luce_misure_europa-425210744/",
-        "https://www.laverita.info/votantonio-sul-caro-benzina-vanno-tassati-gli-sciacalli-2675917686.html",
-        "https://www.liberoquotidiano.it/video/pillole/46728875/guerra-in-iran-il-caro-bollette-rischia-di-costare-10-miliardi-in-piu-/"
       ]
     }
   ]
