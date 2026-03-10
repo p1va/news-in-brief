@@ -1,12 +1,12 @@
 {
   "date": "2026-03-10",
-  "generated_at": "Tue 10 Mar 17:52",
+  "generated_at": "Tue 10 Mar 18:59",
   "stories": [
     {
       "rank": 1,
       "title": "Il ministro Nordio sul caso Bartolozzi: “Parole male interpretate, non deve dimettersi”",
       "source_count": 9,
-      "article_count": 22,
+      "article_count": 21,
       "source_domains": [
         "roma.corriere.it",
         "repubblica.it",
@@ -28,6 +28,28 @@
     },
     {
       "rank": 2,
+      "title": "Terremoto di 5.9 nel Golfo di Napoli non distante da Capri: scossa avvertita fin sulle coste della Calabria",
+      "source_count": 7,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/03/10/da-napoli-il-terremoto-silenzioso-avvertito-in-tutta-italia_bb3328f2-0d5e-4d3d-9d00-54b320d4e557.html",
+        "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/03/10/il-terremoto-nel-golfo-di-napoli-avvertito-in-tutta-litalia_bb3328f2-0d5e-4d3d-9d00-54b320d4e557.html",
+        "https://www.ilfattoquotidiano.it/2026/03/10/terremoto-golfo-napoli-capri-magnitudo-notizie/8318948/",
+        "https://www.ilmessaggero.it/italia/terremoto_perche_nessuno_lo_sente_magnitudo_5_9-9407231.html",
+        "https://www.ilmessaggero.it/italia/terremoto_napoli_fortissimo_nessunoi_lo_sente_perche-9407231.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Trump: \"Guerra con Iran finirà presto, Putin vuole essere d'aiuto\"",
       "source_count": 7,
       "article_count": 12,
@@ -46,28 +68,6 @@
         "https://www.liberoquotidiano.it/video/video-news-by-vista/46739259/trump-su-attacco-iran-li-abbiamo-spazzati-via-in-meno-di-due-giorni/",
         "https://www.ilmessaggero.it/schede/guerra_iran_finisce_davvero_trump_cosa_c_e_dietro-9407294.html",
         "https://www.ilmessaggero.it/schede/guerra_iran_quando_finisce_presto_trump_cosa_c_e_dietro-9407294.html"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Terremoto di 5.9 nel Golfo di Napoli non distante da Capri: scossa avvertita fin sulle coste della Calabria",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "napoli.corriere.it",
-        "adnkronos.com",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/03/10/il-terremoto-nel-golfo-di-napoli-avvertito-in-tutta-litalia_bb3328f2-0d5e-4d3d-9d00-54b320d4e557.html",
-        "https://www.ilfattoquotidiano.it/2026/03/10/sprofondamento-di-uno-strato-di-litosfera-sotto-il-mar-tirreno-la-spiegazione-dellingv-per-il-forte-terremoto-nel-golfo-di-napoli/8319122/",
-        "https://www.ilfattoquotidiano.it/2026/03/10/terremoto-golfo-napoli-capri-magnitudo-notizie/8318948/",
-        "https://www.ilmessaggero.it/italia/terremoto_perche_nessuno_lo_sente_magnitudo_5_9-9407231.html",
-        "https://www.ilmessaggero.it/italia/terremoto_napoli_fortissimo_nessunoi_lo_sente_perche-9407231.html"
       ]
     },
     {
@@ -117,27 +117,50 @@
     },
     {
       "rank": 6,
-      "title": "Famiglia del bosco, rafforzata la vigilanza alla presidente del Tribunale dei minori",
-      "source_count": 6,
+      "title": "Hoepli in liquidazione: l'assemblea dei soci mette fine, dopo 156 anni, alla storica libreria e casa editrice",
+      "source_count": 7,
       "article_count": 10,
       "source_domains": [
         "ansa.it",
-        "unita.it",
-        "ilgiornale.it",
-        "repubblica.it",
+        "milano.corriere.it",
         "adnkronos.com",
-        "roma.corriere.it"
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "fanpage.it",
+        "milano.repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/10/famiglia-del-bosco-rafforzata-la-vigilanza-alla-presidente-del-tribunale-dei_909807f8-a2b4-4d69-af54-56e9a98dbbef.html",
-        "https://www.unita.it/2026/03/10/famiglia-nel-bosco-aumentata-vigilanza-presidente-tribunale-angrisano/",
-        "https://www.ilgiornale.it/news/politica/casa-nel-bosco-magistrati-allattacco-2636293.html",
-        "https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-rafforzata-vigilanza-presidente-tribunale-2636478.html",
-        "https://www.repubblica.it/cronaca/2026/03/10/news/cecilia_angrisano_rafforzata_scorta_giudice_famiglia_bosco-425211326/"
+        "https://www.ansa.it/sito/notizie/cultura/libri/2026/03/10/hoepli-lassemblea-dei-soci-decide-la-messa-in-liquidazione_638739c0-8468-4890-87bb-2265f1626ea3.html",
+        "http://milano.corriere.it/notizie/cronaca/26_marzo_10/hoepli-storia-della-libreria-simbolo-di-milano-dal-garzone-svizzero-diventato-imprenditore-alla-quinta-generazione-nella-trincea-4418dd9f-1198-41bc-bbc3-45d4af78dxlk.shtml",
+        "https://www.adnkronos.com/economia/hoepli-liquidazione-casa-editrice_6ZF57hqAoEmQSPgTrTWNwM",
+        "https://www.ilfattoquotidiano.it/2026/03/10/hoepli-chiude-dopo-156-anni-decisa-la-liquidazione/8319676/",
+        "http://milano.corriere.it/notizie/cronaca/26_marzo_10/milano-hoepli-in-liquidazione-l-assemblea-dei-soci-mette-fine-dopo-156-anni-alla-storica-libreria-e-casa-editrice-07a58b9a-de28-4ff1-81bb-bf48cc28fxlk.shtml"
       ]
     },
     {
       "rank": 7,
+      "title": "Il Maffeo Barberini di Caravaggio acquistato dallo Stato",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "video.corriere.it",
+        "ansa.it",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46747870/-ritratto-di-monsignor-maffeo-barberini-di-caravaggio-acquistato-dall-italia-per-30-mln-immagini/",
+        "https://www.ilgiornale.it/news/arte-e-storia/caravaggio-stato-acquista-ritratto-monsignor-maffeo-2636662.html",
+        "https://www.fanpage.it/cultura/lo-stato-compra-unopera-di-caravaggio-per-30-milioni-di-euro-a-pochi-giorni-dallecce-homo-di-antonello-da-messina/",
+        "https://video.corriere.it/roma/ecco-il-ritratto-di-monsignor-maffeo-barberini-il-quadro-di-caravaggio-da-30-milioni-di-euro/af267fe8-5a98-41b8-b21f-ea479de54xlk",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/10/litalia-acquista-il-maffeo-barberini-di-caravaggio_78a07e12-a57c-4798-814c-cc2807ee9d66.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Mafia, il direttore del Policlinico di Messina indagato per concorso esterno. Arrestato un dirigente regionale",
       "source_count": 7,
       "article_count": 8,
@@ -159,7 +182,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Famiglia del bosco, rafforzata la vigilanza alla presidente del Tribunale dei minori",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "unita.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "roma.corriere.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/10/famiglia-del-bosco-rafforzata-la-vigilanza-alla-presidente-del-tribunale-dei_909807f8-a2b4-4d69-af54-56e9a98dbbef.html",
+        "https://www.unita.it/2026/03/10/famiglia-nel-bosco-aumentata-vigilanza-presidente-tribunale-angrisano/",
+        "https://www.ilgiornale.it/news/politica/casa-nel-bosco-magistrati-allattacco-2636293.html",
+        "https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-rafforzata-vigilanza-presidente-tribunale-2636478.html",
+        "https://www.repubblica.it/cronaca/2026/03/10/news/cecilia_angrisano_rafforzata_scorta_giudice_famiglia_bosco-425211326/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Milano-Cortina, combinata sci alpino da podio: oro per Bertagnolli, argento per Mazzel e Pelizzari",
       "source_count": 6,
       "article_count": 9,
@@ -177,48 +221,6 @@
         "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_10/federico-pelizzari-medaglia-argento-combinata-alpina-uomini-paralimpiadi-fa0d43ef-e9ee-49be-933b-d9dbab342xlk.shtml",
         "https://www.ansa.it/sito/notizie/sport/altrisport/speciali/paralimpiadi-milano_cortina_2026/2026/03/10/milano-cortina-oro-bertagnolli-argento-con-pelizzari-mazzel-e-de-silvestro_9fc0a542-93da-4ca8-bbc7-294337f56cbe.html",
         "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_10/de-silvestro-vince-medaglia-argento-combinata-sitting-paralimpiadi-4e21d243-0a27-43c3-99f8-ea3679e71xlk.shtml"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Mattarella: “Non permettiamo che si realizzi una regressione autoritaria”",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "roma.corriere.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/03/10/mattarella-ce-la-pretesa-di-agire-fuori-da-organismi-sovranazionali_85eb4c2e-e613-4e51-bbb6-1586a717d1d8.html",
-        "https://www.ilfattoquotidiano.it/2026/03/10/mattarella-tirannide-cesarista-poteri-globali-notizie/8319370/",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_10/mattarella-tocqueville-939b24fb-c51a-4e69-bef1-5e739c798xlk.shtml",
-        "https://www.repubblica.it/politica/2026/03/10/news/mattarella_guerra_iran_usa_israele_discorso-425211666/",
-        "https://www.lastampa.it/politica/2026/03/10/news/mattarella_diritto_internazionale_laurea_honoris_causa_firenze-15538783/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Il Maffeo Barberini di Caravaggio acquistato dallo Stato",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "video.corriere.it",
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/arte-e-storia/caravaggio-stato-acquista-ritratto-monsignor-maffeo-2636662.html",
-        "https://www.fanpage.it/cultura/lo-stato-compra-unopera-di-caravaggio-per-30-milioni-di-euro-a-pochi-giorni-dallecce-homo-di-antonello-da-messina/",
-        "https://video.corriere.it/roma/ecco-il-ritratto-di-monsignor-maffeo-barberini-il-quadro-di-caravaggio-da-30-milioni-di-euro/af267fe8-5a98-41b8-b21f-ea479de54xlk",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/10/litalia-acquista-il-maffeo-barberini-di-caravaggio_78a07e12-a57c-4798-814c-cc2807ee9d66.html",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_10/il-caravaggio-passa-allo-stato-per-30-milioni-il-ritratto-di-monsignor-maffeo-barberini-acquistato-dal-mic-77dc78f4-8cde-4043-93a9-352f9b324xlk.shtml"
       ]
     }
   ]
