@@ -1,30 +1,29 @@
 {
   "date": "2026-03-10",
-  "generated_at": "Tue 10 Mar 16:14",
+  "generated_at": "Tue 10 Mar 17:52",
   "stories": [
     {
       "rank": 1,
       "title": "Il ministro Nordio sul caso Bartolozzi: “Parole male interpretate, non deve dimettersi”",
-      "source_count": 10,
-      "article_count": 25,
+      "source_count": 9,
+      "article_count": 22,
       "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
         "roma.corriere.it",
+        "repubblica.it",
         "adnkronos.com",
+        "ansa.it",
         "ilgiornale.it",
         "lastampa.it",
         "fanpage.it",
-        "repubblica.it",
         "ilfattoquotidiano.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/03/10/caso-bartolozzi-niente-scuse-pubbliche.-le-opposizioni-nordio-venga-in-aula_77b2d0f6-9e10-465d-97be-caaa5bb913bb.html",
-        "https://www.liberoquotidiano.it/video/pillole/46743039/nordio-dire-che-voglio-umiliare-la-magistratura-la-frase-che-mi-ha-piu-ferito-/",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_10/bartolozzi-non-chiede-scusa-plotone-esecuzione-b7ffdab6-e00c-44c5-b3eb-f26107cd2xlk.shtml",
+        "https://www.repubblica.it/politica/2026/03/10/news/bartolozzi_referendum_giustizia_magistratura_plotone_esecuzione-425212681/",
         "http://roma.corriere.it/notizie/cronaca/26_marzo_10/caso-chiuso-fratelli-d-italia-blinda-bartolozzi-frasi-travisate-nordio-la-capo-gabinetto-non-deve-dimettersi-d838b5e3-9f02-4ba7-a1e8-8cc7e654dxlk.shtml",
-        "https://www.liberoquotidiano.it/video/pillole/46742493/nordio-dimissioni-di-bartolozzi-in-questo-momento-non-prese-in-considerazione-/",
-        "https://www.adnkronos.com/politica/referendum-nordio-dimissioni-bartolozzi-considerazioni-che-al-momento-non-vengono-prese_3T3wGvkZYkdBjKAcHmTxIO"
+        "https://www.adnkronos.com/politica/referendum-nordio-dimissioni-bartolozzi-considerazioni-che-al-momento-non-vengono-prese_3T3wGvkZYkdBjKAcHmTxIO",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/10/nordio-bartolozzi-non-deve-dimettersi-ha-chiarito-il-suo-punto-di-vista_77b2d0f6-9e10-465d-97be-caaa5bb913bb.html"
       ]
     },
     {
@@ -51,28 +50,6 @@
     },
     {
       "rank": 3,
-      "title": "Famiglia del bosco, rafforzata la vigilanza alla presidente del Tribunale dei minori",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "unita.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "roma.corriere.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/10/famiglia-del-bosco-rafforzata-la-vigilanza-alla-presidente-del-tribunale-dei_909807f8-a2b4-4d69-af54-56e9a98dbbef.html",
-        "https://www.unita.it/2026/03/10/famiglia-nel-bosco-aumentata-vigilanza-presidente-tribunale-angrisano/",
-        "https://www.ilgiornale.it/news/politica/casa-nel-bosco-magistrati-allattacco-2636293.html",
-        "https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-rafforzata-vigilanza-presidente-tribunale-2636478.html",
-        "https://www.repubblica.it/cronaca/2026/03/10/news/cecilia_angrisano_rafforzata_scorta_giudice_famiglia_bosco-425211326/"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Terremoto di 5.9 nel Golfo di Napoli non distante da Capri: scossa avvertita fin sulle coste della Calabria",
       "source_count": 7,
       "article_count": 10,
@@ -94,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Sinner-Fonseca: orario, precedenti e dove vederla in tv",
       "source_count": 7,
       "article_count": 10,
@@ -116,7 +93,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Donna accoltellata sul bus a Napoli, si suicida l'aggressore: era piantonato all'ospedale San Giovanni Bosco",
       "source_count": 8,
       "article_count": 9,
@@ -139,7 +116,50 @@
       ]
     },
     {
+      "rank": 6,
+      "title": "Famiglia del bosco, rafforzata la vigilanza alla presidente del Tribunale dei minori",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "unita.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "roma.corriere.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/10/famiglia-del-bosco-rafforzata-la-vigilanza-alla-presidente-del-tribunale-dei_909807f8-a2b4-4d69-af54-56e9a98dbbef.html",
+        "https://www.unita.it/2026/03/10/famiglia-nel-bosco-aumentata-vigilanza-presidente-tribunale-angrisano/",
+        "https://www.ilgiornale.it/news/politica/casa-nel-bosco-magistrati-allattacco-2636293.html",
+        "https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-rafforzata-vigilanza-presidente-tribunale-2636478.html",
+        "https://www.repubblica.it/cronaca/2026/03/10/news/cecilia_angrisano_rafforzata_scorta_giudice_famiglia_bosco-425211326/"
+      ]
+    },
+    {
       "rank": 7,
+      "title": "Mafia, il direttore del Policlinico di Messina indagato per concorso esterno. Arrestato un dirigente regionale",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "corriere.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "palermo.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.corriere.it/cronache/26_marzo_10/mafia-corruzione-e-appalti-dirigente-regionale-in-carcere-indagato-anche-il-direttore-del-policlinico-di-messina-2208f290-ec72-48b7-9f2a-254cfc28exlk.shtml",
+        "https://www.fanpage.it/attualita/mafia-e-appalti-indagato-anche-lex-eurodeputato-iacolino-appena-nominato-direttore-del-policlinico-di-messina/",
+        "http://palermo.corriere.it/notizie/cronaca/26_marzo_10/favori-a-cosa-nostra-indagato-il-neo-direttore-del-policlinico-di-messina-salvatore-iacolino-arrestato-per-mazzette-il-dirigente-7b4f4425-1ab6-43bf-a796-93543b6fbxlk.shtml",
+        "https://www.ilfattoquotidiano.it/2026/03/10/salvatore-iacolino-indagato-mafia-perquisizioni-news/8318985/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/10/mafia-il-direttore-del-policlinico-di-messina-indagato-per-concorso-esterno.-arrestato_7ffa887e-9749-4c0e-bd7d-f7d560f0cf4c.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Milano-Cortina, combinata sci alpino da podio: oro per Bertagnolli, argento per Mazzel e Pelizzari",
       "source_count": 6,
       "article_count": 9,
@@ -157,28 +177,6 @@
         "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_10/federico-pelizzari-medaglia-argento-combinata-alpina-uomini-paralimpiadi-fa0d43ef-e9ee-49be-933b-d9dbab342xlk.shtml",
         "https://www.ansa.it/sito/notizie/sport/altrisport/speciali/paralimpiadi-milano_cortina_2026/2026/03/10/milano-cortina-oro-bertagnolli-argento-con-pelizzari-mazzel-e-de-silvestro_9fc0a542-93da-4ca8-bbc7-294337f56cbe.html",
         "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_10/de-silvestro-vince-medaglia-argento-combinata-sitting-paralimpiadi-4e21d243-0a27-43c3-99f8-ea3679e71xlk.shtml"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Mafia, il direttore del Policlinico di Messina indagato per concorso esterno. Arrestato un dirigente regionale",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "fanpage.it",
-        "palermo.corriere.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "palermo.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/attualita/mafia-e-appalti-indagato-anche-lex-eurodeputato-iacolino-appena-nominato-direttore-del-policlinico-di-messina/",
-        "http://palermo.corriere.it/notizie/cronaca/26_marzo_10/favori-a-cosa-nostra-indagato-il-neo-direttore-del-policlinico-di-messina-salvatore-iacolino-arrestato-per-mazzette-il-dirigente-7b4f4425-1ab6-43bf-a796-93543b6fbxlk.shtml",
-        "https://www.ilfattoquotidiano.it/2026/03/10/salvatore-iacolino-indagato-mafia-perquisizioni-news/8318985/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/10/mafia-il-direttore-del-policlinico-di-messina-indagato-per-concorso-esterno.-arrestato_7ffa887e-9749-4c0e-bd7d-f7d560f0cf4c.html",
-        "https://www.ilmessaggero.it/politica/salvatore_iacolino_indagato_mafia_messina-9407250.html"
       ]
     },
     {
