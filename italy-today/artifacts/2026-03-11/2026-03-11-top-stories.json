@@ -1,19 +1,19 @@
 {
   "date": "2026-03-11",
-  "generated_at": "Wed 11 Mar 20:41",
+  "generated_at": "Wed 11 Mar 21:40",
   "stories": [
     {
       "rank": 1,
       "title": "Meloni: Crisi Iran investe nostri interessi, Governo non si sottrae a dibattito",
       "source_count": 13,
-      "article_count": 52,
+      "article_count": 54,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
         "video.corriere.it",
+        "unita.it",
         "repubblica.it",
         "adnkronos.com",
-        "unita.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "lastampa.it",
@@ -23,11 +23,11 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46764837/meloni-nessun-capo-di-stato-o-governo-in-parlamento-su-crisi-in-iran-neanche-sanchez/",
         "https://www.liberoquotidiano.it/video/video-news-by-vista/46764841/meloni-non-aderiamo-al-board-of-peace-ma-diamo-contributo-a-discussione-per-supportare-gaza/",
         "https://www.liberoquotidiano.it/video/video-news-by-vista/46764843/meloni-al-pd-no-all-intervento-in-iran-ma-viva-i-bombardamenti-di-clinton-e-d-alema-sulla-serbia/",
         "https://www.liberoquotidiano.it/video/tv-news/46764870/iran-meloni-bombe-usa-vanno-bene-se-governo-e-democratico-/",
-        "https://www.ansa.it/sito/notizie/dirette_live/2026/03/11/iran-alla-camera-la-discussione-sulle-comunicazioni-di-meloni_ec9b3faa-c14f-41a9-9d09-1e073b4ebc4f.html",
-        "https://www.liberoquotidiano.it/video/video-news-by-vista/46764669/crisi-iran-meloni-serve-coesione-disponibile-a-un-tavolo-con-le-opposizioni/"
+        "https://www.ansa.it/sito/notizie/dirette_live/2026/03/11/iran-alla-camera-la-discussione-sulle-comunicazioni-di-meloni_ec9b3faa-c14f-41a9-9d09-1e073b4ebc4f.html"
       ]
     },
     {
@@ -82,29 +82,6 @@
     },
     {
       "rank": 4,
-      "title": "Bus in fiamme provoca sei morti in Svizzera, 'un uomo si è dato fuoco'",
-      "source_count": 8,
-      "article_count": 14,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "unita.it",
-        "fanpage.it",
-        "corriere.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/video/tv-news/46755760/svizzera-un-uomo-si-da-fuoco-su-un-autobus-sei-morti-e-5-feriti/",
-        "https://www.unita.it/2026/03/11/autobus-fuoco-morti-feriti-incendio-svizzera-benzina-fuoco/",
-        "https://www.fanpage.it/esteri/si-e-dato-fuoco-con-la-benzina-poi-fiamme-ovunque-il-racconto-dei-superstiti-del-bus-in-svizzera/",
-        "https://www.corriere.it/cronache/26_marzo_10/svizzera-autobus-prende-fuoco-a-kerzers-diversi-morti-e-feriti-be69a204-2468-42da-86cd-9a8ee5092xlk.shtml",
-        "https://www.corriere.it/cronache/26_marzo_11/bus-incendio-svizzera-cosa-e-successo-d0d267b1-8704-4f70-b281-5f27c858exlk.shtml"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Milano, tram 27 prende fuoco in via Marco Bruto. A bordo una ventina di passeggeri: «C'era fumo ovunque»",
       "source_count": 9,
       "article_count": 13,
@@ -128,30 +105,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Il Bayern è di un altro pianeta, a Bergamo non c'è storia: Atalanta travolta 6-1",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/11/champions-atalanta-bayern-monaco-calcio-italiano-crisi-motivi-analisi/8320462/",
-        "https://www.corriere.it/sport/calcio/champions-league/26_marzo_11/champions-league-atalanta-bayern-monaco-commento-1da6ef7f-6a44-483e-8a5e-a8afd631bxlk.shtml",
-        "https://www.ilgiornale.it/news/sport/partita-senza-storia-bayern-travolgente-che-infligge-2636835.html",
-        "https://www.repubblica.it/sport/calcio/champions/2026/03/10/news/atalanta_bayern_gol-425213327/",
-        "https://www.ansa.it/sito/notizie/sport/2026/03/10/champions-league-bayern-troppo-forte-fa-6-1-e-notte-fonda-atalanta_15a611e7-863a-4b21-b910-534f1ae452e4.html"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "Iran, il ministro dello sport: «Non partecipiamo ai Mondiali di calcio negli Usa»",
       "source_count": 9,
       "article_count": 9,
@@ -175,7 +129,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "L’Italia del baseball fa la storia, battute le stelle degli Stati Uniti",
       "source_count": 8,
       "article_count": 9,
@@ -198,7 +152,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Iran, \"Khamenei è ferito e si nasconde\": la sorte della Guida Suprema è un mistero",
       "source_count": 7,
       "article_count": 9,
@@ -220,7 +174,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Suicidio assistito, archiviato Marco Cappato per i due casi di malati accompagnati in Svizzera",
       "source_count": 8,
       "article_count": 8,
@@ -240,6 +194,48 @@
         "https://www.adnkronos.com/cronaca/eutanasia-gip-milano-archivia-marco-cappato-su-due-casi-non-fu-aiuto-al-suicidio_4t6JIRkd89hp3O3sGP5m0k",
         "https://www.ilfattoquotidiano.it/2026/03/11/fine-vita-cappato-archiviazione-accanimento-terapeutico-notizie/8320575/",
         "https://milano.repubblica.it/cronaca/2026/03/11/news/marco_cappato_archiviato_suicidio_assistito-425214555/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Corte d'appello di Roma: \"Dubbi sulla legittimità del protocollo Italia-Albania\"",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "fanpage.it",
+        "unita.it",
+        "adnkronos.com",
+        "roma.corriere.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/politica/migranti-corte-di-appello-di-roma-dubbi-sulla-legittimita-dei-centri-migranti-in-albania/",
+        "https://www.unita.it/2026/03/11/migranti-albania-corte-appello-roma-cpr-gjader-dubbi-legittimita-protocollo/",
+        "https://www.adnkronos.com/cronaca/migranti-corte-dappello-di-roma-dubbi-su-legittimita-protocollo-italia-albania_4tc60IZS7kZRokMhrBC5Di",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_11/protocollo-italia-albania-dubbi-della-corte-dell-appello-di-roma-sulla-legittimita-dell-accordo-8e95f5eb-eb71-468c-88a0-a3058aea5xlk.shtml",
+        "https://www.repubblica.it/politica/2026/03/11/news/migranti_protocollo_italia_albania_corte_appello_roma-425214961/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Champions League, oggi Real Madrid-Manchester City: orario, probabili formazioni e dove vederla",
+      "source_count": 4,
+      "article_count": 11,
+      "source_domains": [
+        "corriere.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.corriere.it/sport/calcio/champions-league/partita/realmadrid-manchestercity/2628853/",
+        "https://www.adnkronos.com/sport/diretta-psg-chelsea-oggi-champions-league-ottavi-live-risultato-aggiornamenti_7Drgly8XYHhF1HhLvxntas",
+        "https://www.adnkronos.com/sport/diretta-real-madrid-manchester-city-oggi-champions-league-ottavi-live-risultato_6qk73SYrpOj6IkHgfRnO72",
+        "https://www.fanpage.it/sport/live/real-madrid-manchester-city-live-risultato-in-diretta-della-partita-di-champions-a-che-ora-e-su-quale-canale-vederla-in-tv-le-formazioni/",
+        "https://www.ilmessaggero.it/sport/schede/psg_chelsea_dove_vederla_in_chiaro_champions-9409618.html"
       ]
     }
   ]
