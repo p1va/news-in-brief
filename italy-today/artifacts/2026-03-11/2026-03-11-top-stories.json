@@ -1,6 +1,6 @@
 {
   "date": "2026-03-11",
-  "generated_at": "Wed 11 Mar 15:58",
+  "generated_at": "Wed 11 Mar 17:01",
   "stories": [
     {
       "rank": 1,
@@ -131,6 +131,29 @@
     },
     {
       "rank": 6,
+      "title": "L'Europa non vuole la Russia in Biennale",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "repubblica.it",
+        "unita.it",
+        "ilgiornale.it",
+        "roma.corriere.it",
+        "lastampa.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/politica/2026/03/11/news/russia_biennale_venezia_salvini_buttafuoco_giuli-425214650/",
+        "https://www.unita.it/2026/03/11/russia-torna-biennale-venezia-lettera-contro-buttafuoco/",
+        "https://www.ilgiornale.it/news/politica/leuropa-non-vuole-russia-biennale-2636813.html",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_11/giuli-buttafuoco-russia-biennale-amici-fraterni-ora-si-evitano-c16d6ef1-0964-49fa-adda-7702206daxlk.shtml",
+        "https://www.lastampa.it/cultura/2026/03/11/news/biennale_giuli-buttafuoco_e_scontro_sulla_russia-15539826/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Il Bayern è di un altro pianeta, a Bergamo non c'è storia: Atalanta travolta 6-1",
       "source_count": 8,
       "article_count": 10,
@@ -153,7 +176,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Iran, \"Khamenei è ferito e si nasconde\": la sorte della Guida Suprema è un mistero",
       "source_count": 8,
       "article_count": 10,
@@ -173,28 +196,6 @@
         "https://www.adnkronos.com/internazionale/esteri/iran-mojtaba-khamenei-e-solo-di-cartone-vola-il-video-meme_6v6FJyy117vc9VXKNLM3dm",
         "https://www.ilgiornale.it/news/politica/mojtaba-nascosto-o-ferito-ancora-non-appare-covo-nei-5-km-2636808.html",
         "https://www.ilmessaggero.it/mondo/mojtaba_khamenei_ferito_cosa_sappiamo_ultima_ora-9409427.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "La Russia alla Biennale, l'ira dei ministri europei",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "repubblica.it",
-        "unita.it",
-        "ilgiornale.it",
-        "roma.corriere.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/03/11/news/russia_biennale_venezia_salvini_buttafuoco_giuli-425214650/",
-        "https://www.unita.it/2026/03/11/russia-torna-biennale-venezia-lettera-contro-buttafuoco/",
-        "https://www.ilgiornale.it/news/politica/leuropa-non-vuole-russia-biennale-2636813.html",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_11/giuli-buttafuoco-russia-biennale-amici-fraterni-ora-si-evitano-c16d6ef1-0964-49fa-adda-7702206daxlk.shtml",
-        "https://www.lastampa.it/cultura/2026/03/11/news/biennale_giuli-buttafuoco_e_scontro_sulla_russia-15539826/"
       ]
     },
     {
