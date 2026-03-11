@@ -1,6 +1,6 @@
 {
   "date": "2026-03-11",
-  "generated_at": "Wed 11 Mar 17:01",
+  "generated_at": "Wed 11 Mar 17:58",
   "stories": [
     {
       "rank": 1,
@@ -177,9 +177,33 @@
     },
     {
       "rank": 8,
+      "title": "Iran, il ministro dello sport: «Non partecipiamo ai Mondiali di calcio negli Usa»",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "ilmessaggero.it",
+        "unita.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/calcio/iran_mondiali_2026_italia_cosa_cambia_gattuso-9409859.html",
+        "https://www.unita.it/2026/03/11/iran-mondiali-annuncio-ministro-impossibile-guerre-assassinato/",
+        "https://www.fanpage.it/sport/calcio/liran-si-autoesclude-dai-mondiali-nessuna-possibilita-come-funziona-la-regola-sul-ripescaggio/",
+        "https://www.ilgiornale.it/news/calcio/guerra-l-iran-non-parteciper-mondiale-calcio-americano-2637144.html",
+        "https://www.adnkronos.com/sport/iran-verso-no-mondiali-2026-stati-uniti-cosa-cambia-italia-gattuso_5XW7rINPdahZefZEIGm9iE"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Iran, \"Khamenei è ferito e si nasconde\": la sorte della Guida Suprema è un mistero",
-      "source_count": 8,
-      "article_count": 10,
+      "source_count": 7,
+      "article_count": 9,
       "source_domains": [
         "ilgiornale.it",
         "unita.it",
@@ -187,8 +211,7 @@
         "ilmessaggero.it",
         "lastampa.it",
         "laverita.info",
-        "corriere.it",
-        "ilfattoquotidiano.it"
+        "corriere.it"
       ],
       "links": [
         "https://www.ilgiornale.it/news/guerra/iran-sta-guida-suprema-mojtaba-khamenei-2637169.html",
@@ -199,7 +222,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Sal Da Vinci: “Meloni non mi ha chiesto di usare ‘Per sempre sì’ per la campagna del referendum”",
       "source_count": 7,
       "article_count": 9,
@@ -218,29 +241,6 @@
         "https://www.fanpage.it/cultura/sal-da-vinci-giorgia-meloni-non-mi-ha-chiesto-per-sempre-si-ognuno-puo-farne-cio-che-vuole/",
         "https://www.adnkronos.com/politica/sal-da-vinci-meloni-mi-ha-chiamato-per-complimentarsi-il-resto-sono-fake-news_7uordu2FcSW8QKKjO2zl7o",
         "https://www.liberoquotidiano.it/news/giustizia/46756428/sal-da-vinci-smentisce-repubblica-telefonata-giorgia-meloni/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Iran, il ministro dello sport: «Non partecipiamo ai Mondiali di calcio negli Usa»",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "unita.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "corriere.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/03/11/iran-mondiali-annuncio-ministro-impossibile-guerre-assassinato/",
-        "https://www.fanpage.it/sport/calcio/liran-si-autoesclude-dai-mondiali-nessuna-possibilita-come-funziona-la-regola-sul-ripescaggio/",
-        "https://www.ilgiornale.it/news/calcio/guerra-l-iran-non-parteciper-mondiale-calcio-americano-2637144.html",
-        "https://www.adnkronos.com/sport/iran-verso-no-mondiali-2026-stati-uniti-cosa-cambia-italia-gattuso_5XW7rINPdahZefZEIGm9iE",
-        "https://www.lastampa.it/sport/2026/03/11/news/iran_mondiali_2026_ritiro_cosa_succede_italia-15540335/"
       ]
     }
   ]
