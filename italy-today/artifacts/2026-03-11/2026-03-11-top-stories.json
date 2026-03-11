@@ -1,39 +1,40 @@
 {
   "date": "2026-03-11",
-  "generated_at": "Wed 11 Mar 08:53",
+  "generated_at": "Wed 11 Mar 09:52",
   "stories": [
     {
       "rank": 1,
       "title": "Meloni, in diretta al Senato l’intervento sulla crisi in Iran: la premier in Aula dopo lo scoppio della guerra",
       "source_count": 11,
-      "article_count": 17,
+      "article_count": 21,
       "source_domains": [
-        "roma.corriere.it",
         "ansa.it",
+        "video.corriere.it",
+        "repubblica.it",
+        "adnkronos.com",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "lastampa.it",
         "governo.it",
         "fanpage.it",
-        "adnkronos.com",
-        "repubblica.it",
         "ilmanifesto.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "http://roma.corriere.it/politica/diretta-live/26_marzo_11/meloni-iran-parlamento-diretta.shtml",
-        "http://roma.corriere.it/politica/diretta-live/26_marzo_11/meloni-iran-parlamento-diretta.shtml",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/11/iran-meloni-crisi-tra-le-piu-complesse-degli-ultimi-decenni-serve_ec20ffe7-a090-40e0-be29-f05b5b748b5e.html",
-        "https://www.ilgiornale.it/news/interni/giorgia-meloni-crisi-medio-oriente-pi-complesse-agire-seriet-2636961.html",
-        "https://www.ansa.it/sito/notizie/dirette_live/2026/03/11/comunicazioni-della-presidente-del-consiglio-meloni-sulla-guerra-in-iran-diretta_9542c7a2-61ab-461d-87cf-5365f76a49fe.html"
+        "https://www.ansa.it/sito/notizie/politica/2026/03/11/iran-meloni-crisi-complessa-non-vogliamo-entrare-in-guerra.-lintervento-di-usa_ec20ffe7-a090-40e0-be29-f05b5b748b5e.html",
+        "https://video.corriere.it/politica/iran-meloni-qui-non-c-e-un-governo-che-si-sottrae-al-confronto-parlamentare-/02a11c19-f88c-472e-869c-8921273b8xlk",
+        "https://www.repubblica.it/politica/2026/03/11/diretta/meloni_oggi_parlamento_iran_diretta-425213715/",
+        "https://www.adnkronos.com/politica/iran-meloni-senato-discorso-cosa-ha-detto-premier_Z2eve2G7nvy1aAkCAEB7K",
+        "http://roma.corriere.it/politica/diretta-live/26_marzo_11/meloni-iran-parlamento-diretta.shtml"
       ]
     },
     {
       "rank": 2,
       "title": "Autobus prende fuoco in Svizzera, sei morti e cinque feriti. “Un uomo si è dato fuoco all’interno”",
-      "source_count": 9,
-      "article_count": 15,
+      "source_count": 10,
+      "article_count": 16,
       "source_domains": [
+        "unita.it",
         "fanpage.it",
         "corriere.it",
         "liberoquotidiano.it",
@@ -45,11 +46,11 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.unita.it/2026/03/11/autobus-fuoco-morti-feriti-incendio-svizzera-benzina-fuoco/",
         "https://www.fanpage.it/esteri/si-e-dato-fuoco-con-la-benzina-poi-fiamme-ovunque-il-racconto-dei-superstiti-del-bus-in-svizzera/",
         "https://www.corriere.it/cronache/26_marzo_10/svizzera-autobus-prende-fuoco-a-kerzers-diversi-morti-e-feriti-be69a204-2468-42da-86cd-9a8ee5092xlk.shtml",
         "https://www.corriere.it/cronache/26_marzo_11/bus-incendio-svizzera-cosa-e-successo-d0d267b1-8704-4f70-b281-5f27c858exlk.shtml",
-        "https://www.liberoquotidiano.it/news/esteri/46751360/svizzera-autobus-a-fuoco-6-morti-e-5-feriti-un-passeggero-si-e-dato-fuoco-/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/10/bus-in-fiamme-provoca-sei-morti-in-svizzera-un-uomo-si-e-dato-fuoco_eb9036cc-04c5-4fed-b326-4207b3ebfe41.html"
+        "https://www.liberoquotidiano.it/news/esteri/46751360/svizzera-autobus-a-fuoco-6-morti-e-5-feriti-un-passeggero-si-e-dato-fuoco-/"
       ]
     },
     {
@@ -80,11 +81,13 @@
     {
       "rank": 4,
       "title": "Indian Wells, Sinner batte Fonseca 7-6, 7-6 e vola ai quarti",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 9,
+      "article_count": 10,
       "source_domains": [
         "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "corriere.it",
+        "fanpage.it",
         "lastampa.it",
         "ilmessaggero.it",
         "repubblica.it",
@@ -93,14 +96,36 @@
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/03/11/sinner-fonseca-indian-wells-quarti-analisi-letale-talento/8320086/",
+        "https://www.liberoquotidiano.it/news/sport/46752014/jannik-sinner-spiana-fonseca-ma-litiga-con-tutti-non-parlate-/",
         "https://www.corriere.it/sport/tennis/26_marzo_11/sinner-fonseca-risultato-indian-wells-139aeb0c-cbb6-4154-81a7-b983a80bbxlk.shtml",
-        "https://www.lastampa.it/sport/2026/03/11/news/tennis_indian_wells_sinner_batte_fonseca_e_vola_ai_quarti-15539876/",
-        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_indian_welles_orario_dove_vederlo_learner_tien-9409191.html",
-        "https://www.repubblica.it/sport/tennis/2026/03/11/news/indian_wells_sinner_batte_fonseca_in_due_set_e_va_ai_quarti-425213425/"
+        "https://www.fanpage.it/sport/tennis/sinner-fulmina-uno-spettatore-durante-la-partita-con-fonseca-non-ne-puo-piu-interviene-larbitro/",
+        "https://www.lastampa.it/sport/2026/03/11/news/tennis_indian_wells_sinner_batte_fonseca_e_vola_ai_quarti-15539876/"
       ]
     },
     {
       "rank": 5,
+      "title": "Il Bayern è di un altro pianeta, a Bergamo non c'è storia: Atalanta travolta 6-1",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "corriere.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.corriere.it/sport/calcio/champions-league/26_marzo_11/champions-league-atalanta-bayern-monaco-commento-1da6ef7f-6a44-483e-8a5e-a8afd631bxlk.shtml",
+        "https://www.ilgiornale.it/news/sport/partita-senza-storia-bayern-travolgente-che-infligge-2636835.html",
+        "https://www.repubblica.it/sport/calcio/champions/2026/03/10/news/atalanta_bayern_gol-425213327/",
+        "https://www.ansa.it/sito/notizie/sport/2026/03/10/champions-league-bayern-troppo-forte-fa-6-1-e-notte-fonda-atalanta_15a611e7-863a-4b21-b910-534f1ae452e4.html",
+        "https://www.corriere.it/sport/calcio/champions-league/26_marzo_10/atalanta-bayern-monaco-risultato-e9d18219-1578-4bb9-bdd3-5aea24e54xlk.shtml"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "«Plotoni di esecuzione? Caso chiuso», Fratelli d'Italia blinda Bartolozzi: «Frasi travisate». Nordio: «Non deve dimettersi»",
       "source_count": 6,
       "article_count": 10,
@@ -121,29 +146,28 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Il Bayern è di un altro pianeta, a Bergamo non c'è storia: Atalanta travolta 6-1",
-      "source_count": 7,
-      "article_count": 8,
+      "rank": 7,
+      "title": "Hoepli in liquidazione: l'assemblea dei soci mette fine, dopo 156 anni, alla storica libreria e casa editrice",
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
+        "unita.it",
         "ilgiornale.it",
-        "repubblica.it",
-        "ansa.it",
-        "corriere.it",
-        "ilmessaggero.it",
         "lastampa.it",
-        "liberoquotidiano.it"
+        "ansa.it",
+        "milano.corriere.it",
+        "ilfattoquotidiano.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/sport/partita-senza-storia-bayern-travolgente-che-infligge-2636835.html",
-        "https://www.repubblica.it/sport/calcio/champions/2026/03/10/news/atalanta_bayern_gol-425213327/",
-        "https://www.ansa.it/sito/notizie/sport/2026/03/10/champions-league-bayern-troppo-forte-fa-6-1-e-notte-fonda-atalanta_15a611e7-863a-4b21-b910-534f1ae452e4.html",
-        "https://www.corriere.it/sport/calcio/champions-league/26_marzo_10/atalanta-bayern-monaco-risultato-e9d18219-1578-4bb9-bdd3-5aea24e54xlk.shtml",
-        "https://www.ilmessaggero.it/sport/schede/atalanta_bayern_monaco_pagelle_olise_champions_league-9408014.html"
+        "https://www.unita.it/2026/03/11/hoepli-liquidazione-libreria-casa-editrice-milano/",
+        "https://www.ilgiornale.it/news/niente-accordo-i-soci-chiude-storica-hoepli-2636839.html",
+        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/03/11/news/chiusura_hoepli_milano-15539613/",
+        "https://www.ansa.it/sito/notizie/cultura/libri/2026/03/10/hoepli-lassemblea-dei-soci-decide-la-messa-in-liquidazione_638739c0-8468-4890-87bb-2265f1626ea3.html",
+        "http://milano.corriere.it/notizie/cronaca/26_marzo_10/hoepli-storia-della-libreria-simbolo-di-milano-dal-garzone-svizzero-diventato-imprenditore-alla-quinta-generazione-nella-trincea-4418dd9f-1198-41bc-bbc3-45d4af78dxlk.shtml"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Paralimpiadi, Italia da sogno con 4 medaglie. Battuto il record di Pechino '22: Bertagnolli oro|Argento per Pelizzari|Mazzel|De Silvestro",
       "source_count": 5,
       "article_count": 9,
@@ -160,26 +184,6 @@
         "https://www.ansa.it/sito/notizie/sport/altrisport/speciali/paralimpiadi-milano_cortina_2026/2026/03/10/milano-cortina-oro-bertagnolli-argento-con-pelizzari-mazzel-e-de-silvestro_9fc0a542-93da-4ca8-bbc7-294337f56cbe.html",
         "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_10/giacomo-bertagnolli-medaglia-oro-combinata-paralimpiadi-ffb093aa-b1c7-425c-8ddc-99965cbdcxlk.shtml",
         "https://www.ilgiornale.it/news/altri-sport/paralimpiadi-milano-cortina-splendida-italia-oro-e-tre-2636633.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Hoepli in liquidazione: l'assemblea dei soci mette fine, dopo 156 anni, alla storica libreria e casa editrice",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "lastampa.it",
-        "ansa.it",
-        "milano.corriere.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/niente-accordo-i-soci-chiude-storica-hoepli-2636839.html",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/03/11/news/chiusura_hoepli_milano-15539613/",
-        "https://www.ansa.it/sito/notizie/cultura/libri/2026/03/10/hoepli-lassemblea-dei-soci-decide-la-messa-in-liquidazione_638739c0-8468-4890-87bb-2265f1626ea3.html",
-        "http://milano.corriere.it/notizie/cronaca/26_marzo_10/hoepli-storia-della-libreria-simbolo-di-milano-dal-garzone-svizzero-diventato-imprenditore-alla-quinta-generazione-nella-trincea-4418dd9f-1198-41bc-bbc3-45d4af78dxlk.shtml",
-        "https://www.ilfattoquotidiano.it/2026/03/10/hoepli-chiude-dopo-156-anni-decisa-la-liquidazione/8319676/"
       ]
     },
     {
