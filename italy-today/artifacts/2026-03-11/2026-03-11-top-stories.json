@@ -1,6 +1,6 @@
 {
   "date": "2026-03-11",
-  "generated_at": "Wed 11 Mar 14:55",
+  "generated_at": "Wed 11 Mar 15:58",
   "stories": [
     {
       "rank": 1,
@@ -8,12 +8,12 @@
       "source_count": 13,
       "article_count": 47,
       "source_domains": [
+        "video.corriere.it",
         "ansa.it",
         "liberoquotidiano.it",
-        "unita.it",
         "repubblica.it",
         "adnkronos.com",
-        "video.corriere.it",
+        "unita.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "lastampa.it",
@@ -23,9 +23,9 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://video.corriere.it/comunicazioni-della-presidente-meloni-la-diretta-video-dalla-camera/71da3f96-da9b-4b24-b5e6-2e2d6bcf1xlk",
         "https://www.ansa.it/sito/notizie/politica/2026/03/11/meloni-non-entreremo-in-guerra.-tasse-per-chi-specula-sui-carburanti._ec20ffe7-a090-40e0-be29-f05b5b748b5e.html",
         "https://www.liberoquotidiano.it/video/pillole/46757161/iran-meloni-governo-italiano-non-e-complice-di-decisioni-altrui-/",
-        "https://www.unita.it/2026/03/11/mattarella-fulmina-trump-e-smaschera-meloni-lo-schiaffo-del-colle-al-ne-condividere-ne-condannare-della-premier/",
         "https://www.liberoquotidiano.it/video/video-news-by-vista/46757044/meloni-prende-appunti-durante-interventi-in-senato-dopo-informativa-su-crisi-iran/",
         "https://www.liberoquotidiano.it/video/video-news-by-vista/46757046/giorgia-meloni-rientra-in-senato-per-la-discussione-sulla-crisi-in-iran/"
       ]
@@ -59,13 +59,13 @@
       "rank": 3,
       "title": "Sinner, quando gioca: battuto Fonseca 7-6, 7-6, sfiderà Tien ai quarti di Indian Wells. Orario e dove vederlo",
       "source_count": 10,
-      "article_count": 16,
+      "article_count": 17,
       "source_domains": [
         "fanpage.it",
+        "liberoquotidiano.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "liberoquotidiano.it",
         "corriere.it",
         "lastampa.it",
         "ilmessaggero.it",
@@ -75,16 +75,16 @@
       "links": [
         "https://www.fanpage.it/sport/tennis/quando-gioca-sinner-ai-quarti-di-finale-di-indian-wells-data-e-ora-del-match-contro-tien/",
         "https://www.fanpage.it/sport/tennis/nick-novak-e-lo-spettatore-seduto-vicino-al-molestatore-di-sinner-lo-provocava-a-ogni-errore/",
+        "https://www.liberoquotidiano.it/news/sport/46757166/jannik-sinner-rischia-penne-siluro-joao-fonseca-gelo-campo/",
         "https://www.adnkronos.com/sport/sinner-tien-quarti-indian-wells-domani-orario-precedenti-dove-vedere-match-tv-streaming_3GHhe4f7M6Xv0pWsgF1nzW",
-        "https://www.adnkronos.com/sport/joao-fonseca-chi-e-sinnerzinho-indian-wells-fatto-tre-sinner-punta-numero-uno_2MTjeh3BaK052azFiCTH3C",
-        "https://www.ilfattoquotidiano.it/2026/03/11/indian-wells-sinner-lite-pubblico-muso-duro-contro-disturbatori/8320317/"
+        "https://www.adnkronos.com/sport/joao-fonseca-chi-e-sinnerzinho-indian-wells-fatto-tre-sinner-punta-numero-uno_2MTjeh3BaK052azFiCTH3C"
       ]
     },
     {
       "rank": 4,
       "title": "Femminicidio a Messina, donna uccisa con decine di coltellate. Fermato l'ex compagno: aveva il braccialetto elettronico",
       "source_count": 10,
-      "article_count": 15,
+      "article_count": 16,
       "source_domains": [
         "fanpage.it",
         "unita.it",
@@ -98,11 +98,11 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.fanpage.it/attualita/daniela-zinnanti-uccisa-a-messina-lavvocato-dellex-rivela-aveva-portato-il-coltello-da-casa-per-minacciarla/",
         "https://www.fanpage.it/attualita/femminicidio-messina-chi-era-daniela-zinnanti-si-prendeva-cura-della-madre-e-di-tutti-i-familiari/",
         "https://www.unita.it/2026/03/11/uccisa-casa-coltellate-corpo-daniela-zinnanti-ritrovato-figlia-confessa-compagno-donna/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/11/donna-uccisa-con-decine-di-coltellate-a-messina.-fermato-lex_c86e1fb0-7d1d-4052-a95d-2d9740385a4c.html",
-        "https://www.ilfattoquotidiano.it/2026/03/11/uccisa-a-coltellate-in-casa-dallex-compagno-50enne-trovata-morta-dalla-figlia-a-messina/8320085/",
-        "https://www.ilgiornale.it/news/cronaca-nera/uccisa-50-anni-decine-coltellate-fermato-lex-compagno-era-ai-2636930.html"
+        "https://www.ilfattoquotidiano.it/2026/03/11/uccisa-a-coltellate-in-casa-dallex-compagno-50enne-trovata-morta-dalla-figlia-a-messina/8320085/"
       ]
     },
     {
@@ -221,24 +221,25 @@
     },
     {
       "rank": 10,
-      "title": "L'Italia del baseball nella leggenda: Stati Uniti battuti 8-6 a Houston",
-      "source_count": 7,
+      "title": "Iran, il ministro dello sport: «Non partecipiamo ai Mondiali di calcio negli Usa»",
+      "source_count": 8,
       "article_count": 8,
       "source_domains": [
-        "ansa.it",
         "unita.it",
         "fanpage.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "lastampa.it",
         "ilfattoquotidiano.it",
-        "repubblica.it",
         "corriere.it",
-        "lastampa.it"
+        "ansa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/03/11/baseball-litalia-dei-paisa-e-da-leggenda-a-houston-battuti-i-prof-usa_f4b6840d-d2ad-4a51-b76d-8f8ca2078729.html",
-        "https://www.unita.it/2026/03/11/baseball-litalia-stati-uniti-vittoria-azzurri-world-classic-houston/",
-        "https://www.fanpage.it/sport/altri-sport/come-e-stato-possibile-che-litalia-del-baseball-abbia-vinto-contro-gli-stati-uniti-ai-mondiali/",
-        "https://www.ilfattoquotidiano.it/2026/03/11/italia-usa-baseball-world-classic-vittoria-impossibile/8320188/",
-        "https://www.repubblica.it/sport/vari/2026/03/11/news/italia_batte_stati_uniti_world_baseball_classic-425213750/"
+        "https://www.unita.it/2026/03/11/iran-mondiali-annuncio-ministro-impossibile-guerre-assassinato/",
+        "https://www.fanpage.it/sport/calcio/liran-si-autoesclude-dai-mondiali-nessuna-possibilita-come-funziona-la-regola-sul-ripescaggio/",
+        "https://www.ilgiornale.it/news/calcio/guerra-l-iran-non-parteciper-mondiale-calcio-americano-2637144.html",
+        "https://www.adnkronos.com/sport/iran-verso-no-mondiali-2026-stati-uniti-cosa-cambia-italia-gattuso_5XW7rINPdahZefZEIGm9iE",
+        "https://www.lastampa.it/sport/2026/03/11/news/iran_mondiali_2026_ritiro_cosa_succede_italia-15540335/"
       ]
     }
   ]
