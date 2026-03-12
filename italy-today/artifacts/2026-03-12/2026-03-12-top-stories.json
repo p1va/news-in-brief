@@ -1,43 +1,16 @@
 {
   "date": "2026-03-12",
-  "generated_at": "Thu 12 Mar 14:57",
+  "generated_at": "Thu 12 Mar 16:07",
   "stories": [
     {
       "rank": 1,
-      "title": "Addio a Enrica Bonaccorti, aveva 76 anni - Foto",
-      "source_count": 13,
-      "article_count": 32,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "repubblica.it",
-        "corriere.it",
-        "adnkronos.com",
-        "ansa.it",
-        "unita.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/12/enrica-bonaccorti-morta-intervista-confessione-rai-news/8321998/",
-        "https://www.liberoquotidiano.it/news/spettacoli/46775432/enrica-bonaccorti-quando-diceva-mai-capace-affrontarla-come-eleonora-giorgi/",
-        "https://www.ilfattoquotidiano.it/2026/03/12/annunciai-la-gravidanza-in-diretta-tv-e-persi-il-bambino-in-camerino-mentre-tutti-mi-accusavano-di-fare-scandalo-il-retroscena-svelato-da-enrica-bonaccorti/8321744/",
-        "https://www.ilmessaggero.it/schede/enrica_bonaccorti_marito_fidanzato_ultimo_uomo_renato_zero-9411705.html",
-        "https://www.fanpage.it/spettacolo/personaggi/enrica-bonaccorti-da-mara-venier-a-caterina-balivo-tutti-i-ricordi-un-pezzo-della-nostra-vita/"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Base italiana attaccata a Erbil, il comandante: \"Militari nei bunker, danni ma nessun ferito\"",
       "source_count": 13,
-      "article_count": 30,
+      "article_count": 31,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
+        "liberoquotidiano.it",
         "unita.it",
         "fanpage.it",
         "ilgiornale.it",
@@ -47,15 +20,42 @@
         "ilmessaggero.it",
         "laverita.info",
         "lastampa.it",
-        "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/12/israele-colpita-gerusalemme.-il-primo-discorso-di-mojtaba-khamenei.-hormuz-deve-restare_1b2fdf3d-a4bd-4ee6-af12-73a79b6d5e04.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/03/12/crosetto-a-erbil-un-attacco-deliberato.-litalia-riduce-il-personale-in-ambasciata-in-iraq_c7c61077-185b-43be-bf3b-9b8a857957d9.html",
         "https://www.adnkronos.com/internazionale/esteri/due-nuove-esplosioni-a-erbil-crosetto-attacco-a-base-italiana-deliberato_4yMzpfilENxnNMKcDEHl8c",
-        "https://www.unita.it/2026/03/12/droni-shahed-arma-iran-guerra-ucraina-attacco-base-italiana-kiev/",
-        "https://www.fanpage.it/politica/drone-colpisce-base-italiana-a-erbil-cose-successo-e-come-stanno-i-militari-tajani-sono-al-sicuro/",
-        "https://www.ilgiornale.it/news/politica/trump-iran-pi-nulla-colpire-lallarme-droni-verso-california-2637338.html"
+        "https://www.liberoquotidiano.it/video/tv-news/46777738/base-italiana-colpita-a-erbil-il-comandante-no-danni-a-persone/",
+        "https://www.unita.it/2026/03/12/droni-shahed-arma-iran-guerra-ucraina-attacco-base-italiana-kiev/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Addio a Enrica Bonaccorti, aveva 76 anni - Foto",
+      "source_count": 13,
+      "article_count": 29,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ansa.it",
+        "corriere.it",
+        "unita.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/12/enrica-bonaccorti-morta-intervista-confessione-rai-news/8321998/",
+        "https://www.liberoquotidiano.it/news/spettacoli/46775432/enrica-bonaccorti-quando-diceva-mai-capace-affrontarla-come-eleonora-giorgi/",
+        "https://www.ilfattoquotidiano.it/2026/03/12/annunciai-la-gravidanza-in-diretta-tv-e-persi-il-bambino-in-camerino-mentre-tutti-mi-accusavano-di-fare-scandalo-il-retroscena-svelato-da-enrica-bonaccorti/8321744/",
+        "https://www.ilmessaggero.it/schede/enrica_bonaccorti_marito_fidanzato_ultimo_uomo_renato_zero-9411705.html",
+        "https://www.ilfattoquotidiano.it/2026/03/12/enrica-bonaccorti-morta-renato-zero-abbraccio-video-notizie/8321745/"
       ]
     },
     {
@@ -127,6 +127,29 @@
     },
     {
       "rank": 6,
+      "title": "Famiglia nel bosco, uno dei bimbi in sciopero della fame",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/12/famiglia-nel-bosco-il-garante-verifiche-sul-bimbo-che-si-rifiuta-di-mangiare_9861e096-812e-4d62-bf89-98a3ef0ce443.html",
+        "https://www.adnkronos.com/cronaca/famiglia-nel-bosco-mamma-allontanata-da-casa-famiglia-uno-dei-bimbi-rifiuta-di-mangiare_JpKvmHwB2wE8BOp90DbPU",
+        "https://www.ilmessaggero.it/abruzzo/famiglia_nel_bosco_bambini_sciopero_fame-9411887.html",
+        "https://www.ilfattoquotidiano.it/2026/03/12/famiglia-bosco-sciopero-fame-bambino-notizie/8322070/",
+        "https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-dei-bimbi-sciopero-fame-2637643.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "L’azienda di Marghera che licenzia tutti i 37 dipendenti, sostituiti dall’Ai: «Business non più compatibile con i nuovi obiettivi»",
       "source_count": 7,
       "article_count": 8,
@@ -148,7 +171,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Hiv trasmesso alla figlia e non curato, genitori no vax a processo a Bologna: «La madre sapeva di essere sieropositiva»",
       "source_count": 7,
       "article_count": 7,
@@ -170,7 +193,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Meloni: Mai detto a Conte \"vigliacco\" o \"servo\". Contenta di non essere come voi",
       "source_count": 3,
       "article_count": 10,
@@ -188,44 +211,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Nordio blinda Bartolozzi, lei 'fedele, dimissioni per cose più serie'. Bufera sulle frasi di Gratteri",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "lastampa.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "video.corriere.it",
-        "ansa.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/politica/2026/03/12/news/gratteri_rissa_referendum_nordio_batolozzi-15541389/",
-        "https://www.repubblica.it/politica/2026/03/12/news/nordio_bartolozzi_papa_referendum_garlasco-425215659/",
-        "https://ilmanifesto.it/bartolozzi-divide-i-due-fronti-ma-scoppia-il-caso-gratteri",
-        "https://video.corriere.it/politica/nordio-bartolozzi-resta-perche-leale-vostre-osservazioni-improprie-/18aa8882-e768-4065-8a73-60e968efexlk",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/11/nordio-blinda-bartolozzi-lei-fedele-dimissioni-per-cose-piu-serie._80dafe54-56c0-4f62-a5b2-e4c0e5b23104.html"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Stretto di Hormuz bloccato, l’Iran attacca tre mercantili: “Petrolio a 200 dollari”",
+      "title": "Indagini sul carcere minorile di Casal del Marmo a Roma: “Agenti torturavano i detenuti”",
       "source_count": 5,
       "article_count": 7,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "video.corriere.it",
-        "laverita.info",
-        "repubblica.it"
+        "fanpage.it",
+        "unita.it",
+        "ansa.it",
+        "roma.repubblica.it",
+        "roma.corriere.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/video/tv-news/46776284/-colpite-navi-posamine-iraniane-a-hormuz-ma-sale-prezzo-del-greggio/",
-        "https://www.ilgiornale.it/news/politica/stretto-hormuz-colpite-tre-navi-fatwa-delliran-barile-200-2637332.html",
-        "https://www.liberoquotidiano.it/video/tv-news/46771234/attacchi-iran-a-petroliere-colpita-anche-base-italiana-a-erbil-in-iraq/",
-        "https://video.corriere.it/esteri/petroliera-in-fiamme-nel-golfo-persico-dopo-un-attacco-iraniano-colpita-vicino-alle-coste-dell-iraq/dc3098df-57d0-4f39-9f62-4db4113fdxlk",
-        "https://www.ilgiornale.it/news/guerra/non-sono-solo-mine-minacciare-stretto-hormuz-cos-mosquito-2637250.html"
+        "https://www.fanpage.it/roma/torture-nel-carcere-minorile-di-roma-antigone-denuncia-e-leffetto-del-decreto-caivano/",
+        "https://www.fanpage.it/roma/indagini-sul-carcere-minorile-di-casal-del-marmo-a-roma-agenti-torturavano-i-detenuti/",
+        "https://www.unita.it/2026/03/12/tortura-detenuti-carcere-minorile-casal-del-marmo-indagati-agenti/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/12/presunte-torture-su-minori-nel-carcere-di-casal-del-marmo-coinvolti-10-agenti_0b6af8cd-64b0-4e51-929c-7382e7a98278.html",
+        "https://roma.repubblica.it/cronaca/2026/03/12/news/carcere_minorile_casal_del_marmo_come_e-425215975/"
       ]
     }
   ]
