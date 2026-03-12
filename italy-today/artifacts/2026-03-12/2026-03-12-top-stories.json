@@ -1,12 +1,12 @@
 {
   "date": "2026-03-12",
-  "generated_at": "Thu 12 Mar 19:13",
+  "generated_at": "Thu 12 Mar 20:46",
   "stories": [
     {
       "rank": 1,
       "title": "Base italiana colpita a Erbil, il comandante: no danni a persone",
       "source_count": 13,
-      "article_count": 37,
+      "article_count": 38,
       "source_domains": [
         "repubblica.it",
         "ansa.it",
@@ -26,8 +26,8 @@
         "https://www.repubblica.it/esteri/2026/03/12/news/erbil_attacco_base_italiana_camp_sinagra-425217469/",
         "https://www.ansa.it/sito/notizie/mondo/2026/03/12/crosetto-a-erbil-un-attacco-deliberato.-il-comandante-fuga-nei-bunker-poi-il-boato_c7c61077-185b-43be-bf3b-9b8a857957d9.html",
         "https://www.liberoquotidiano.it/video/video-news-by-vista/46780018/attacco-a-base-italiana-a-erbil-tajani-tutti-i-militari-italiani-stanno-bene-/",
-        "https://www.liberoquotidiano.it/video/tv-news/46779302/iran-tajani-ad-erbil-attacco-grave-solidarieta-a-nostri-militari-/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/12/crosetto-a-erbil-un-attacco-deliberato.-litalia-riduce-il-personale-in-ambasciata-in-iraq_c7c61077-185b-43be-bf3b-9b8a857957d9.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/12/israele-colpita-gerusalemme.-il-primo-discorso-di-mojtaba-khamenei.-hormuz-deve-restare_1b2fdf3d-a4bd-4ee6-af12-73a79b6d5e04.html",
+        "https://www.liberoquotidiano.it/video/tv-news/46779302/iran-tajani-ad-erbil-attacco-grave-solidarieta-a-nostri-militari-/"
       ]
     },
     {
@@ -60,6 +60,31 @@
     },
     {
       "rank": 3,
+      "title": "Referendum, Meloni: riforma per i cittadini non per liberarci dei magistrati",
+      "source_count": 10,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "corriere.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "unita.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/03/12/meloni-spinge-il-si-ma-non-vogliamo-liberarci-delle-toghe-_f7e7ceb4-1c47-4ab6-afc4-d07d27c2a726.html",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46783046/referendum-giustizia-meloni-nessuno-ha-in-mente-di-liberarsi-della-magistratura/",
+        "https://www.fanpage.it/politica/meloni-chiude-la-campagna-per-il-referendum-dopo-il-caso-bartolozzi-nessuno-vuole-liberarsi-dei-magistrati/",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/12/referendum-meloni-riforma-per-i-cittadini-non-per-liberarci-dei-magistrati_f7e7ceb4-1c47-4ab6-afc4-d07d27c2a726.html",
+        "https://www.corriere.it/politica/26_marzo_12/referendum-meloni-no-al-controllo-politica-sulla-magistratura-assistiamo-al-solito-allarme-del-rischio-di-una-deriva-illiberale-cfa21aa5-8734-4b1f-a1de-4aea63721xlk.shtml"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Meloni a Schlein: 'Il mio appello è sincero da loro insulti. L'invito resta valido'. La segretaria dem: 'Sta facendo tutto da sola. Noi ci siamo ma posi clava'",
       "source_count": 10,
       "article_count": 11,
@@ -84,7 +109,49 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Attacchi Iran a petroliere, colpita anche base italiana a Erbil in Iraq",
+      "source_count": 5,
+      "article_count": 15,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "video.corriere.it",
+        "ilgiornale.it",
+        "laverita.info",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/video/tv-news/46782000/iran-non-abbiamo-minato-hormuz-ad-alcune-navi-concesso-transito-/",
+        "https://www.liberoquotidiano.it/video/tv-news/46779917/attacchi-di-israele-su-teheran-i-soccorritori-tra-le-macerie/",
+        "https://www.liberoquotidiano.it/video/libero-video/46776259/bahrein-attacco-iraniano-enorme-incendio-struttura-governativa-muharraq/",
+        "https://www.liberoquotidiano.it/video/tv-news/46776452/la-distruzione-in-iran-i-danni-dopo-un-attacco-di-usa-israele/",
+        "https://www.liberoquotidiano.it/video/tv-news/46776284/-colpite-navi-posamine-iraniane-a-hormuz-ma-sale-prezzo-del-greggio/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Europa League: Bologna-Roma DIRETTA e FOTO",
+      "source_count": 7,
+      "article_count": 13,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "ansa.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/calcio/europa-league-roma-riprende-bologna-bernardeschi-risponde-2637809.html",
+        "https://www.ilmessaggero.it/sport/schede/bologna_roma_pagelle_pellegrini_bernardeschi_europa_league-9412251.html",
+        "https://www.corriere.it/sport/calcio/europa-league/26_marzo_12/bologna-roma-ottavi-europa-league-5a78df64-8800-40f2-aac1-1cfc5b07bxlk.shtml",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/12/europa-league-bologna-roma-1-0-diretta-e-foto_fc708632-6fa9-4ba8-a733-aae4e5d8d9c0.html",
+        "https://www.lastampa.it/sport/2026/03/12/news/bologna-roma_nel_derby_europeo_vince_la_paura_finisce_1-1-15542641/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Allarme per una sparatoria in una sinagoga nel Michigan",
       "source_count": 9,
       "article_count": 11,
@@ -108,7 +175,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 8,
       "title": "Famiglia nel bosco, la Garante: 'Nessuno sciopero della fame'",
       "source_count": 8,
       "article_count": 10,
@@ -123,39 +190,15 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/12/famiglia-nel-bosco-nathan-vede-una-nuova-casa-martedi-gli_9861e096-812e-4d62-bf89-98a3ef0ce443.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/12/famiglia-nel-bosco-il-garante-verifiche-sul-bimbo-che-si-rifiuta-di-mangiare_9861e096-812e-4d62-bf89-98a3ef0ce443.html",
         "https://www.adnkronos.com/cronaca/famiglia-nel-bosco-mamma-allontanata-da-casa-famiglia-uno-dei-bimbi-rifiuta-di-mangiare_JpKvmHwB2wE8BOp90DbPU",
         "https://www.ilmessaggero.it/abruzzo/famiglia_nel_bosco_bambini_sciopero_fame-9411887.html",
-        "https://www.ilfattoquotidiano.it/2026/03/12/famiglia-bosco-sciopero-fame-bambino-notizie/8322070/",
-        "https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-dei-bimbi-sciopero-fame-2637643.html"
+        "https://www.ilfattoquotidiano.it/2026/03/12/famiglia-bosco-sciopero-fame-bambino-notizie/8322070/"
       ]
     },
     {
-      "rank": 6,
-      "title": "Referendum, Meloni: riforma per i cittadini non per liberarci dei magistrati",
-      "source_count": 9,
-      "article_count": 9,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "corriere.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "unita.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.fanpage.it/politica/meloni-chiude-la-campagna-per-il-referendum-dopo-il-caso-bartolozzi-nessuno-vuole-liberarsi-dei-magistrati/",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/12/referendum-meloni-riforma-per-i-cittadini-non-per-liberarci-dei-magistrati_f7e7ceb4-1c47-4ab6-afc4-d07d27c2a726.html",
-        "https://www.corriere.it/politica/26_marzo_12/referendum-meloni-no-al-controllo-politica-sulla-magistratura-assistiamo-al-solito-allarme-del-rischio-di-una-deriva-illiberale-cfa21aa5-8734-4b1f-a1de-4aea63721xlk.shtml",
-        "https://www.adnkronos.com/politica/referendum-giustizia-giorgia-meloni-evento_6WnVP151ABgsQjdF6LY2Ds",
-        "https://www.repubblica.it/politica/2026/03/12/news/meloni_intervento_teatro_parenti_referendum-425217567/"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 9,
       "title": "Licenziati e sostituiti dall'Ai, i lavoratori di InvestCloud fra rabbia e paura: «L'azienda fa utili, non capiamo»",
       "source_count": 7,
       "article_count": 9,
@@ -177,67 +220,23 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Assalto alla Biennale di Venezia, ma Buttafuoco resiste: la Russia ci sarà. E la Ue taglia 2 milioni",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it",
-        "unita.it",
-        "corriere.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/03/12/caos-sulla-russia-alla-biennale-giuli-sfiducia-la-rappresentante-del-mic_591bd2d5-6d2b-461b-aac3-0d1082bb704e.html",
-        "https://www.lastampa.it/politica/2026/03/12/news/biennale_mollicone_contro_buttafuoco_sbagliato_ad_aprire_a_russia_e_iran_ora_ci_ripensi-15542242/",
-        "https://www.repubblica.it/cultura/2026/03/12/news/biennale_venezia_commissione_ue_fondi_pietrangelo_buttafuoco-425216863/",
-        "https://www.unita.it/2026/03/12/censurare-la-biennale-in-nome-della-liberta-se-a-venezia-si-esclude-la-russia-fuori-anche-israele-e-usa/",
-        "https://www.repubblica.it/cultura/2026/03/12/news/biennale_russia_zelensky_buttafuoco_giuli_palazzo_chigi-425215699/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Meloni alla Camera sulla crisi in Iran: la premier in replica: “Bombe Usa vanno bene solo se c’è governo dem?” Ok a risoluzione di maggioranza",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ansa.it",
-        "fanpage.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/video/video-news-by-vista/46776448/crosetto-arriva-alla-camera-per-discussione-su-crisi-iran-poi-parla-con-meloni-tra-banchi-governo/",
-        "https://www.liberoquotidiano.it/video/video-news-by-vista/46776446/crisi-iran-fratoianni-a-meloni-da-che-parte-della-storia-vuole-schierare-l-italia-/",
-        "https://www.ilmessaggero.it/politica/guerra_iran_meloni_cosa_ha_detto-9410191.html",
-        "https://www.repubblica.it/politica/2026/03/11/news/meloni_iran_aula_tavolo_opposizioni-425215723/",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/11/meloni-non-entreremo-in-guerra-tasse-a-chi-specula.-da-conte-e-pd-propaganda-a-buon_ec20ffe7-a090-40e0-be29-f05b5b748b5e.html"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Hiv trasmesso alla figlia e non curato, genitori no vax a processo a Bologna: «La madre sapeva di essere sieropositiva»",
-      "source_count": 7,
-      "article_count": 7,
+      "title": "Diretta Sinner-Tien: chi vince va in semifinale a Indian Wells",
+      "source_count": 5,
+      "article_count": 10,
       "source_domains": [
-        "ilmessaggero.it",
-        "ilgiornale.it",
+        "corriere.it",
+        "repubblica.it",
+        "adnkronos.com",
         "fanpage.it",
-        "corrieredibologna.corriere.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/italia/bambini_hiv_mai_curata_bologna_genitori_processo-9411634.html",
-        "https://www.ilgiornale.it/news/nazionale/trasmette-lhiv-figlia-e-non-fa-curare-processo-col-marito-2637529.html",
-        "https://www.fanpage.it/attualita/bologna-nascondono-sieropositivita-e-trasmettono-hiv-alla-neonata-mai-visitata-fino-a-6-anni-genitori-a-processo/",
-        "http://corrieredibologna.corriere.it/notizie/cronaca/26_marzo_12/hiv-trasmesso-alla-figlia-e-non-curato-genitori-no-vax-a-processo-a-bologna-la-madre-sapeva-di-essere-sieropositiva-70673ca0-60d8-41c9-b6e1-f4fb2da9exlk.shtml",
-        "https://www.ilfattoquotidiano.it/2026/03/12/bimba-con-aids-non-curata-per-anni-a-processo-i-genitori-per-maltrattamenti-aggravati/8321518/"
+        "https://www.corriere.it/sport/tennis/diretta-live/26_marzo_12/sinner-tien-quarti-indian-wells-diretta-risultato.shtml",
+        "https://www.repubblica.it/sport/tennis/2026/03/12/diretta/diretta_sinner_tien_oggi_indian_wells-425217885/",
+        "https://www.adnkronos.com/sport/diretta-sinner-tien-oggi-quarti-indian-wells-live-risultato-aggiornamenti_26l06c2ec7nDcNVH3kjnIE",
+        "https://www.fanpage.it/sport/live/sinner-tien-in-diretta-live-jannik-in-campo-per-i-quarti-del-torneo-di-indian-wells/",
+        "https://www.fanpage.it/sport/tennis/errani-e-paolini-in-semifinale-stanotte-a-indian-wells-a-che-ora-e-dove-vedere-il-doppio-femminile/"
       ]
     }
   ]
