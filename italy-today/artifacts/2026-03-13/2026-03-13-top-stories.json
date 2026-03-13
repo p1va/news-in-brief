@@ -1,6 +1,6 @@
 {
   "date": "2026-03-13",
-  "generated_at": "Fri 13 Mar 17:41",
+  "generated_at": "Fri 13 Mar 18:53",
   "stories": [
     {
       "rank": 1,
@@ -79,30 +79,6 @@
     },
     {
       "rank": 4,
-      "title": "Iran, Mojtaba Khamenei rompe il silenzio: \"Voglio vendetta contro Usa, lo stretto di Hormuz resterà chiuso\"",
-      "source_count": 9,
-      "article_count": 11,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "corriere.it",
-        "unita.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ilmanifesto.it",
-        "fanpage.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/guerra/messaggio-morte-fantasma-mojtaba-vendetta-i-martiri-hormuz-2637951.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/03/13/prime-pagine-mojtaba-khamenei-giura-vendetta-hormuz-resta-chiuso_4a7f80fa-3de1-4879-80d5-02991850ffb4.html",
-        "https://www.corriere.it/esteri/26_marzo_13/mojtaba-khamenei-discorso-34b69dad-7f0f-4852-ba86-6d590626dxlk.shtml",
-        "https://www.unita.it/2026/03/13/lo-stretto-di-hormuz-resta-chiuso-su-ordine-di-khamenei-ma-trump-esulta-il-caro-petrolio-premia-gli-affari-usa/",
-        "https://www.repubblica.it/esteri/2026/03/13/news/mojtaba_khamenei_discorso_basi_usa_stretto_hormuz_chiuso-425217796/"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Petroliera russa alla deriva tra Lampedusa e Malta: a bordo 900 tonnellate di gasolio e gas liquido",
       "source_count": 8,
       "article_count": 12,
@@ -125,7 +101,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "F1 Gp Cina, le qualifiche sprint in diretta. Nelle prove libere Russell davanti ad Antonelli, Leclerc 5° e Hamilton 6°",
       "source_count": 7,
       "article_count": 12,
@@ -147,7 +123,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Neonati sepolti, Chiara Petrolini in aula: 'Non sono una madre assassina'",
       "source_count": 9,
       "article_count": 10,
@@ -171,29 +147,30 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Guerra in Iran, le news di oggi. Sì di Washington al petrolio russo. Morto in raid a Erbil un soldato francese, Macron: “Inaccettabile”. Esplosioni a Dubai",
-      "source_count": 7,
-      "article_count": 11,
+      "rank": 7,
+      "title": "Iran, Mojtaba Khamenei rompe il silenzio: \"Voglio vendetta contro Usa, lo stretto di Hormuz resterà chiuso\"",
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "corriere.it",
         "ilgiornale.it",
-        "fanpage.it",
-        "lastampa.it"
+        "ansa.it",
+        "corriere.it",
+        "unita.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmanifesto.it",
+        "fanpage.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/13/ft-francia-e-italia-cercano-un-accordo-con-liran-per-hormuz.-palazzo-chigi_7f434ff2-f4cc-443a-8050-989ed7783509.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/13/ft-francia-e-italia-cercano-laccordo-con-liran-per-hormuz.-la-nato-abbatte_7f434ff2-f4cc-443a-8050-989ed7783509.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/13/guerra-iran-soldato-francese-macron-trump-petrolio-russo-news/8322845/",
-        "https://www.repubblica.it/esteri/2026/03/13/diretta/guerra_iran_usa_israele_news_oggi-425218225/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/13/si-degli-usa-al-petrolio-russo.-morto-un-soldato-francese-a-erbil-esplosioni-a-dubai_7f434ff2-f4cc-443a-8050-989ed7783509.html"
+        "https://www.ilgiornale.it/news/guerra/messaggio-morte-fantasma-mojtaba-vendetta-i-martiri-hormuz-2637951.html",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/03/13/prime-pagine-mojtaba-khamenei-giura-vendetta-hormuz-resta-chiuso_4a7f80fa-3de1-4879-80d5-02991850ffb4.html",
+        "https://www.corriere.it/esteri/26_marzo_13/mojtaba-khamenei-discorso-34b69dad-7f0f-4852-ba86-6d590626dxlk.shtml",
+        "https://www.unita.it/2026/03/13/lo-stretto-di-hormuz-resta-chiuso-su-ordine-di-khamenei-ma-trump-esulta-il-caro-petrolio-premia-gli-affari-usa/",
+        "https://www.repubblica.it/esteri/2026/03/13/news/mojtaba_khamenei_discorso_basi_usa_stretto_hormuz_chiuso-425217796/"
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Iran, il Consiglio Supremo di Difesa riunito da Mattarella: «Italia non parteciperà a guerra, uso basi in rispetto accordi internazionali»",
       "source_count": 8,
       "article_count": 8,
@@ -216,25 +193,44 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Euroderby, botta e risposta. Il verdetto arriverà al ritorno",
-      "source_count": 7,
+      "rank": 9,
+      "title": "Grave scontro sull’A1 tra Ceprano e Pontecorvo: tre morti e diversi feriti",
+      "source_count": 6,
       "article_count": 8,
       "source_domains": [
-        "ilgiornale.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "unita.it",
         "ansa.it",
-        "corriere.it",
-        "liberoquotidiano.it",
         "ilmessaggero.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/scontro-mortale-a1-morti-tre-operai-acuto_65MdZXF6PD5k54ZpZb6vag",
+        "https://www.fanpage.it/roma/mauro-agostini-emiliano-martucci-e-valentino-perinelli-sono-i-tre-operai-morti-sulla1-andavano-al-lavoro/",
+        "https://www.unita.it/2026/03/13/schianto-sulla1-ceprano-pontecorvo-operai-morti-incidente-cantiere/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/13/due-morti-per-incidente-sulla-pontina-chiusa-carreggiata_d31992bd-50eb-4997-8eaa-c7d3570a0463.html",
+        "https://www.fanpage.it/roma/violento-scontro-sulla-pontina-camion-invade-la-corsia-opposta-e-si-schianta-contro-unauto-2-morti/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Aereo da rifornimento Usa precipita in Iraq. Macron: \"Ucciso un soldato francese a Erbil\". Esplosioni a Dubai | Le parole di Khamenei",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "corriere.it",
         "fanpage.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/calcio/euroderby-botta-e-risposta-verdetto-arriver-ritorno-2637913.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/12/europa-league-il-bologna-segna-la-roma-risponde-termina-1-1-il-derby-italiano-foto_fc708632-6fa9-4ba8-a733-aae4e5d8d9c0.html",
-        "https://www.corriere.it/sport/calcio/europa-league/26_marzo_12/bologna-roma-ottavi-europa-league-5a78df64-8800-40f2-aac1-1cfc5b07bxlk.shtml",
-        "https://www.liberoquotidiano.it/news/sport/46783602/roma-e-bologna-non-si-fanno-male-1-1-quarti-in-bilico/",
-        "https://www.ilgiornale.it/news/calcio/europa-league-roma-riprende-bologna-bernardeschi-risponde-2637809.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/13/ft-francia-e-italia-cercano-un-accordo-con-liran-per-hormuz.-palazzo-chigi_7f434ff2-f4cc-443a-8050-989ed7783509.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/13/ft-francia-e-italia-cercano-laccordo-con-liran-per-hormuz.-la-nato-abbatte_7f434ff2-f4cc-443a-8050-989ed7783509.html",
+        "https://www.repubblica.it/esteri/2026/03/13/diretta/guerra_iran_usa_israele_news_oggi-425218225/",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_13/guerra-in-iran-le-ultime-notizie-in-diretta.shtml",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_13/guerra-in-iran-le-ultime-notizie-in-diretta.shtml"
       ]
     }
   ]
