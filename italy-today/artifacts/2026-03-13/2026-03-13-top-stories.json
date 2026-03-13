@@ -1,6 +1,6 @@
 {
   "date": "2026-03-13",
-  "generated_at": "Fri 13 Mar 10:45",
+  "generated_at": "Fri 13 Mar 11:38",
   "stories": [
     {
       "rank": 1,
@@ -35,8 +35,9 @@
       "rank": 2,
       "title": "Iran, Mojtaba Khamenei rompe il silenzio: \"Voglio vendetta contro Usa, lo stretto di Hormuz resterà chiuso\"",
       "source_count": 11,
-      "article_count": 14,
+      "article_count": 15,
       "source_domains": [
+        "ilgiornale.it",
         "ansa.it",
         "corriere.it",
         "unita.it",
@@ -45,16 +46,15 @@
         "adnkronos.com",
         "ilmanifesto.it",
         "fanpage.it",
-        "lastampa.it",
         "liberoquotidiano.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/guerra/messaggio-morte-fantasma-mojtaba-vendetta-i-martiri-hormuz-2637951.html",
         "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/03/13/prime-pagine-mojtaba-khamenei-giura-vendetta-hormuz-resta-chiuso_4a7f80fa-3de1-4879-80d5-02991850ffb4.html",
         "https://www.corriere.it/esteri/26_marzo_13/mojtaba-khamenei-discorso-34b69dad-7f0f-4852-ba86-6d590626dxlk.shtml",
         "https://www.unita.it/2026/03/13/lo-stretto-di-hormuz-resta-chiuso-su-ordine-di-khamenei-ma-trump-esulta-il-caro-petrolio-premia-gli-affari-usa/",
-        "https://www.repubblica.it/esteri/2026/03/13/news/mojtaba_khamenei_discorso_basi_usa_stretto_hormuz_chiuso-425217796/",
-        "https://www.ilmessaggero.it/mondo/hormuz_stretto_chiusura_cosa_cambia_traffico-9412376.html"
+        "https://www.repubblica.it/esteri/2026/03/13/news/mojtaba_khamenei_discorso_basi_usa_stretto_hormuz_chiuso-425217796/"
       ]
     },
     {
@@ -83,6 +83,30 @@
     },
     {
       "rank": 4,
+      "title": "Neonati Parma, Chiara dice di non essere un’assassina: “Quei bimbi parte di me, non gli avrei mai fatto male”",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "unita.it",
+        "corrieredibologna.corriere.it",
+        "repubblica.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/lacrime-chiara-petrolini-nessuno-pu-capire-vuoto-che-provo-2638074.html",
+        "https://www.unita.it/2026/03/13/neonati-partoriti-seppelliti-giardino-chiara-petrolini-incinta-dolore-perdere-figlio/",
+        "http://corrieredibologna.corriere.it/notizie/cronaca/26_marzo_13/chiara-petrolini-figli-neonati-traversetolo-0495da7a-30a2-4553-8bc0-eda6434adxlk.shtml",
+        "https://www.repubblica.it/cronaca/2026/03/13/news/chiara_petrolini_neonati_morti_giardino_dichiarazioni-425218860/",
+        "https://www.fanpage.it/attualita/neonati-parma-chiara-dice-di-non-essere-unassassina-quei-bimbi-parte-di-me-non-gli-avrei-mai-fatto-male/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Guerra in Iran, le news di oggi. Sì di Washington al petrolio russo. Morto in raid a Erbil un soldato francese, Macron: “Inaccettabile”. Esplosioni a Dubai",
       "source_count": 7,
       "article_count": 9,
@@ -101,28 +125,6 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/03/13/si-degli-usa-al-petrolio-russo.-morto-un-soldato-francese-a-erbil-esplosioni-a-dubai_7f434ff2-f4cc-443a-8050-989ed7783509.html",
         "https://www.corriere.it/esteri/diretta-live/26_marzo_13/guerra-in-iran-le-ultime-notizie-in-diretta.shtml",
         "https://www.corriere.it/esteri/diretta-live/26_marzo_13/guerra-in-iran-le-ultime-notizie-in-diretta.shtml"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "F1 Gp Cina, le qualifiche sprint in diretta. Nelle prove libere Russell davanti ad Antonelli, Leclerc 5° e Hamilton 6°",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it",
-        "corriere.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/motori/i-dati-mercedes-spariscono-durante-le-qualifiche-sprint-in-cina-sospetto-guasto-alla-telemetria/",
-        "https://www.ilgiornale.it/news/altri-sport/f1-cina-doppietta-mercedes-russell-batte-antonelli-ferrari-c-2638003.html",
-        "https://www.adnkronos.com/sport/formula-1-gp-cina-qualifiche-gara-sprint-oggi-griglia-partenza_5wDL6icWxTR1FcZ8VBKalq",
-        "https://www.repubblica.it/sport/formulauno/2026/03/13/news/cina_qualifiche_sprint_mercedes_ferrari_macarena-425218627/",
-        "https://www.lastampa.it/sport/2026/03/13/news/gp_cina_mercedes_inarrivabile_pole_sprint_russell-15543266/"
       ]
     },
     {
@@ -149,6 +151,70 @@
     },
     {
       "rank": 7,
+      "title": "Sparatoria in una sinagoga e scuola ebraica in Michigan: l’assalitore è stato ucciso dalla polizia",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/sparatoria-in-sinagoga-nel-michigan-media-fratelli-attentatore-erano-membri-hezbollah-uccisi-da-idf_GDUmov4uFGLJz3549Nht6",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/raid-e-famiglia-libano-chi-c-dietro-lattacco-sinagoga-2637980.html",
+        "https://www.liberoquotidiano.it/video/tv-news/46787842/attacco-sinagoga-in-michigan-morto-aggressore-nessuna-altra-vittima/",
+        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/03/13/attacco-alla-sinagoga-in-michigan-la-famiglia-dellassalitore-uccisa-da-raid-israeliano-in-libano_cf7f9799-79f3-4f10-a125-c3f645ad53ea.html",
+        "https://www.fanpage.it/esteri/sparatoria-in-una-sinagoga-e-scuola-ebraica-in-michigan-unauto-si-e-schiantata-contro-ledificio/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Economiche e distruttive: così Teheran mina lo Stretto di Hormuz",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "corriere.it",
+        "repubblica.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/corridoio-hormuz-trappola-traffico-commerciale-gi-colpite-23-2637844.html",
+        "https://www.adnkronos.com/internazionale/esteri/iran-la-strategia-usate-piccole-imbarcazioni-per-minare-lo-stretto-di-hormuz_kDJlOsYQVyAwY9XQGGglO",
+        "https://www.ilgiornale.it/news/guerra/economiche-e-distruttive-cos-teheran-mina-stretto-hormuz-2637982.html",
+        "https://www.ilmessaggero.it/mondo/canale_di_panama_crescita_commercio_stretto_hormuz-9413619.html",
+        "https://www.corriere.it/esteri/26_marzo_13/mine-acqua-iran-0749d0f4-9d34-49fc-a6b8-a52421f2dxlk.shtml"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "F1 Gp Cina, le qualifiche sprint in diretta. Nelle prove libere Russell davanti ad Antonelli, Leclerc 5° e Hamilton 6°",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "corriere.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/13/f1-qualifiche-sprint-pole-gp-cina-griglia-di-partenza/8323165/",
+        "https://www.fanpage.it/sport/motori/i-dati-mercedes-spariscono-durante-le-qualifiche-sprint-in-cina-sospetto-guasto-alla-telemetria/",
+        "https://www.ilgiornale.it/news/altri-sport/f1-cina-doppietta-mercedes-russell-batte-antonelli-ferrari-c-2638003.html",
+        "https://www.adnkronos.com/sport/formula-1-gp-cina-qualifiche-gara-sprint-oggi-griglia-partenza_5wDL6icWxTR1FcZ8VBKalq",
+        "https://www.lastampa.it/sport/2026/03/13/news/gp_cina_mercedes_inarrivabile_pole_sprint_russell-15543266/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Crosetto: 'A Erbil un attacco deliberato'. Verso il rientro rapido di altri militari",
       "source_count": 6,
       "article_count": 8,
@@ -166,71 +232,6 @@
         "https://www.repubblica.it/politica/2026/03/13/news/erbil_soldati_dopo_attacco_morale_alto_ma_siamo_stanchi-425218116/",
         "https://www.repubblica.it/politica/2026/03/13/news/erbil_crosetto_atto_deliberato_accelera_ritiro_contingente_italiano-425218133/",
         "https://www.lastampa.it/esteri/2026/03/13/news/iran_soldati_italiani_erbit_evacuazione-15542779/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Referendum, Meloni: \"Non restate a casa e votate Sì. Non vogliamo liberarci delle toghe\"",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "repubblica.it",
-        "ilmessaggero.it",
-        "corriere.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/03/13/news/appello_meloni_referendum_riforme_anm-425218097/",
-        "https://www.ilmessaggero.it/politica/meloni_referendum_stupratori-9412395.html",
-        "https://www.corriere.it/politica/26_marzo_12/referendum-meloni-no-al-controllo-politica-sulla-magistratura-assistiamo-al-solito-allarme-del-rischio-di-una-deriva-illiberale-cfa21aa5-8734-4b1f-a1de-4aea63721xlk.shtml",
-        "https://www.fanpage.it/politica/meloni-chiude-la-campagna-per-il-referendum-dopo-il-caso-bartolozzi-nessuno-vuole-liberarsi-dei-magistrati/",
-        "https://www.ilfattoquotidiano.it/2026/03/12/referendum-giustizia-meloni-dichiarazioni-teatro-parenti-news/8322614/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Economiche e distruttive: così Teheran mina lo Stretto di Hormuz",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "lastampa.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "corriere.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/economia/iran-chi-vince-e-chi-perde-in-economia-a-causa-della-guerra-lanalisi_4GpxYHddE7Z7H50opbrTx6",
-        "https://www.lastampa.it/economia/2026/03/13/news/iran_usa_guerra_caro_energia_rischio_crisi_microchip_asiatici-15543394/",
-        "https://www.ilgiornale.it/news/guerra/economiche-e-distruttive-cos-teheran-mina-stretto-hormuz-2637982.html",
-        "https://www.ilmessaggero.it/mondo/canale_di_panama_crescita_commercio_stretto_hormuz-9413619.html",
-        "https://www.repubblica.it/economia/2026/03/13/news/medio_oriente_rotta_greggio_hormuz_mar_rosso-425218090/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Sparatoria in una sinagoga e scuola ebraica in Michigan: l’assalitore è stato ucciso dalla polizia",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-internazionale/raid-e-famiglia-libano-chi-c-dietro-lattacco-sinagoga-2637980.html",
-        "https://www.liberoquotidiano.it/video/tv-news/46787842/attacco-sinagoga-in-michigan-morto-aggressore-nessuna-altra-vittima/",
-        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/03/13/attacco-alla-sinagoga-in-michigan-la-famiglia-dellassalitore-uccisa-da-raid-israeliano-in-libano_cf7f9799-79f3-4f10-a125-c3f645ad53ea.html",
-        "https://www.fanpage.it/esteri/sparatoria-in-una-sinagoga-e-scuola-ebraica-in-michigan-unauto-si-e-schiantata-contro-ledificio/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/allarme-negli-usa-sparatoria-corso-sinagoga-michigan-2637764.html"
       ]
     }
   ]
