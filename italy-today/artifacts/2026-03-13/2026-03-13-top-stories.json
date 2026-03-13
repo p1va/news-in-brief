@@ -1,6 +1,6 @@
 {
   "date": "2026-03-13",
-  "generated_at": "Fri 13 Mar 15:51",
+  "generated_at": "Fri 13 Mar 16:51",
   "stories": [
     {
       "rank": 1,
@@ -35,52 +35,28 @@
       "rank": 2,
       "title": "Sinner dà una lezione a Tien: il futuro può attendere",
       "source_count": 9,
-      "article_count": 14,
+      "article_count": 15,
       "source_domains": [
+        "fanpage.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "ansa.it",
-        "fanpage.it",
         "repubblica.it",
         "corriere.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.fanpage.it/sport/tennis/jannik-sinner-spiega-perche-non-riesce-a-smettere-di-ridere-durante-la-conferenza-a-indian-wells/",
         "https://www.ilgiornale.it/news/tennis/indian-wells-sinner-semifinale-contro-zverev-dovr-stare-2638133.html",
         "https://www.liberoquotidiano.it/news/sport/46793810/sinner-colpo-sconvolge-indian-wells-cosa-fa-con-mano/",
         "https://www.ilfattoquotidiano.it/2026/03/13/sinner-fenicottero-dettaglio-nascosto-scarpe-indian-wells/8323043/",
-        "https://www.liberoquotidiano.it/news/sport/46787357/sinner-batte-tien-indian-wells-questo-cambia-cosa-puo-fregarlo/",
-        "https://www.ansa.it/sito/notizie/sport/2026/03/13/sinner-torna-in-semifinale-a-indian-wells-ora-ce-zverev_555051f7-0767-402b-8b40-b1e5d7395140.html"
+        "https://www.liberoquotidiano.it/news/sport/46787357/sinner-batte-tien-indian-wells-questo-cambia-cosa-puo-fregarlo/"
       ]
     },
     {
       "rank": 3,
-      "title": "Iran, Mojtaba Khamenei rompe il silenzio: \"Voglio vendetta contro Usa, lo stretto di Hormuz resterà chiuso\"",
-      "source_count": 9,
-      "article_count": 12,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "corriere.it",
-        "unita.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ilmanifesto.it",
-        "fanpage.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/guerra/messaggio-morte-fantasma-mojtaba-vendetta-i-martiri-hormuz-2637951.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/03/13/prime-pagine-mojtaba-khamenei-giura-vendetta-hormuz-resta-chiuso_4a7f80fa-3de1-4879-80d5-02991850ffb4.html",
-        "https://www.corriere.it/esteri/26_marzo_13/mojtaba-khamenei-discorso-34b69dad-7f0f-4852-ba86-6d590626dxlk.shtml",
-        "https://www.unita.it/2026/03/13/lo-stretto-di-hormuz-resta-chiuso-su-ordine-di-khamenei-ma-trump-esulta-il-caro-petrolio-premia-gli-affari-usa/",
-        "https://www.repubblica.it/esteri/2026/03/13/news/mojtaba_khamenei_discorso_basi_usa_stretto_hormuz_chiuso-425217796/"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Jacopo Luchini oro nello snowboard alle Paralimpiadi: l’Italia sale a quota 11 medaglie",
       "source_count": 7,
       "article_count": 14,
@@ -102,7 +78,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "F1 Gp Cina, le qualifiche sprint in diretta. Nelle prove libere Russell davanti ad Antonelli, Leclerc 5° e Hamilton 6°",
       "source_count": 7,
       "article_count": 13,
@@ -124,7 +100,54 @@
       ]
     },
     {
+      "rank": 5,
+      "title": "Iran, Mojtaba Khamenei rompe il silenzio: \"Voglio vendetta contro Usa, lo stretto di Hormuz resterà chiuso\"",
+      "source_count": 9,
+      "article_count": 11,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "corriere.it",
+        "unita.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmanifesto.it",
+        "fanpage.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/guerra/messaggio-morte-fantasma-mojtaba-vendetta-i-martiri-hormuz-2637951.html",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/03/13/prime-pagine-mojtaba-khamenei-giura-vendetta-hormuz-resta-chiuso_4a7f80fa-3de1-4879-80d5-02991850ffb4.html",
+        "https://www.corriere.it/esteri/26_marzo_13/mojtaba-khamenei-discorso-34b69dad-7f0f-4852-ba86-6d590626dxlk.shtml",
+        "https://www.unita.it/2026/03/13/lo-stretto-di-hormuz-resta-chiuso-su-ordine-di-khamenei-ma-trump-esulta-il-caro-petrolio-premia-gli-affari-usa/",
+        "https://www.repubblica.it/esteri/2026/03/13/news/mojtaba_khamenei_discorso_basi_usa_stretto_hormuz_chiuso-425217796/"
+      ]
+    },
+    {
       "rank": 6,
+      "title": "Petroliera russa alla deriva tra Lampedusa e Malta: a bordo 900 tonnellate di gasolio e gas liquido",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/13/petroliera-fantasma-russa-arctic-metagaz-deriva-canale-di-sicilia-linosa-lampedusa-allarme-inquinamento-news/8323656/",
+        "https://www.ilgiornale.it/news/politica-internazionale/nave-fantasma-russa-deriva-lampedusa-e-malta-vertice-palazzo-2638188.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/13/petroliera-russa-alla-deriva-nel-mediterraneo-palazzo-chigi-monitoriamo-assieme_ae3fa71d-58aa-4fd6-8668-df5961786d81.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/13/petroliera-russa-alla-deriva-tra-le-pelagie-e-malta-vertice-a-palazzo-chigi_ae3fa71d-58aa-4fd6-8668-df5961786d81.html",
+        "https://www.ilmessaggero.it/mondo/arctic_metagaz_petroliera_deriva_lampedusa_dove_e-9413751.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Neonati sepolti, Chiara Petrolini in aula: 'Non sono una madre assassina'",
       "source_count": 9,
       "article_count": 10,
@@ -148,7 +171,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Guerra in Iran, le news di oggi. Sì di Washington al petrolio russo. Morto in raid a Erbil un soldato francese, Macron: “Inaccettabile”. Esplosioni a Dubai",
       "source_count": 7,
       "article_count": 11,
@@ -167,28 +190,6 @@
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/13/guerra-iran-soldato-francese-macron-trump-petrolio-russo-news/8322845/",
         "https://www.repubblica.it/esteri/2026/03/13/diretta/guerra_iran_usa_israele_news_oggi-425218225/",
         "https://www.ansa.it/sito/notizie/mondo/2026/03/13/si-degli-usa-al-petrolio-russo.-morto-un-soldato-francese-a-erbil-esplosioni-a-dubai_7f434ff2-f4cc-443a-8050-989ed7783509.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Petroliera russa alla deriva tra Lampedusa e Malta: a bordo 900 tonnellate di gasolio e gas liquido",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "corriere.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/13/petroliera-russa-alla-deriva-nel-mediterraneo-palazzo-chigi-monitoriamo-assieme_ae3fa71d-58aa-4fd6-8668-df5961786d81.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/13/petroliera-russa-alla-deriva-tra-le-pelagie-e-malta-vertice-a-palazzo-chigi_ae3fa71d-58aa-4fd6-8668-df5961786d81.html",
-        "https://www.ilmessaggero.it/mondo/arctic_metagaz_petroliera_deriva_lampedusa_dove_e-9413751.html",
-        "https://www.corriere.it/cronache/26_marzo_13/petroliera-russa-alla-deriva-tra-lampedusa-e-malta-senza-equipaggio-39ab2af7-c9da-4bbd-8abf-f18d9bb7bxlk.shtml",
-        "https://www.fanpage.it/attualita/arctic-metagaz-la-nave-russa-carica-di-gas-e-alla-deriva-a-largo-di-lampedusa-rischio-disastro-ambientale/"
       ]
     },
     {
