@@ -1,9 +1,38 @@
 {
   "date": "2026-03-13",
-  "generated_at": "Fri 13 Mar 08:52",
+  "generated_at": "Fri 13 Mar 09:48",
   "stories": [
     {
       "rank": 1,
+      "title": "Bruno Contrada è morto, l'ex 007 nella guerra alla mafia aveva 94 anni",
+      "source_count": 14,
+      "article_count": 15,
+      "source_domains": [
+        "unita.it",
+        "corriere.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "palermo.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it",
+        "ilfoglio.it"
+      ],
+      "links": [
+        "https://www.unita.it/2026/03/13/morto-bruno-contrada-007-sisde-mafia-calvario-giudiziario-vita/",
+        "https://www.corriere.it/cronache/26_marzo_13/bruno-contrada-morto-d4c93d5c-215f-4b9a-820f-b60885970xlk.shtml",
+        "https://www.corriere.it/cronache/26_marzo_13/bruno-contrada-morto-d4c93d5c-215f-4b9a-820f-b60885970xlk.shtml",
+        "https://www.liberoquotidiano.it/news/italia/46787175/bruno-contrada-morto-super-poliziotto-anti-mafia-vicenda-giudiziaria-sconvolto-italia/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/13/-e-morto-bruno-contrada-_7e179110-d6ed-4b7e-926c-500739e1e38f.html"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Iran, Mojtaba Khamenei rompe il silenzio: \"Voglio vendetta contro Usa, lo stretto di Hormuz resterà chiuso\"",
       "source_count": 11,
       "article_count": 14,
@@ -26,32 +55,6 @@
         "https://www.unita.it/2026/03/13/lo-stretto-di-hormuz-resta-chiuso-su-ordine-di-khamenei-ma-trump-esulta-il-caro-petrolio-premia-gli-affari-usa/",
         "https://www.repubblica.it/esteri/2026/03/13/news/mojtaba_khamenei_discorso_basi_usa_stretto_hormuz_chiuso-425217796/",
         "https://www.ilmessaggero.it/mondo/hormuz_stretto_chiusura_cosa_cambia_traffico-9412376.html"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Bruno Contrada è morto, l'ex 007 nella guerra alla mafia aveva 94 anni",
-      "source_count": 11,
-      "article_count": 12,
-      "source_domains": [
-        "corriere.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "palermo.repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.corriere.it/cronache/26_marzo_13/bruno-contrada-morto-d4c93d5c-215f-4b9a-820f-b60885970xlk.shtml",
-        "https://www.corriere.it/cronache/26_marzo_13/bruno-contrada-morto-d4c93d5c-215f-4b9a-820f-b60885970xlk.shtml",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/13/-e-morto-bruno-contrada-_7e179110-d6ed-4b7e-926c-500739e1e38f.html",
-        "https://www.ilmessaggero.it/persone/bruno_contrada_morto_poliziotto_sisde_chi_era-9413625.html",
-        "https://www.fanpage.it/attualita/morto-bruno-contrada-lex-007-della-guerra-di-mafia-a-palermo/"
       ]
     },
     {
@@ -124,6 +127,28 @@
     },
     {
       "rank": 6,
+      "title": "F1 Gp Cina, le qualifiche sprint in diretta. Nelle prove libere Russell davanti ad Antonelli, Leclerc 5° e Hamilton 6°",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "corriere.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/altri-sport/f1-cina-doppietta-mercedes-russell-batte-antonelli-ferrari-c-2638003.html",
+        "https://www.adnkronos.com/sport/formula-1-gp-cina-qualifiche-gara-sprint-oggi-griglia-partenza_5wDL6icWxTR1FcZ8VBKalq",
+        "https://www.repubblica.it/sport/formulauno/2026/03/13/news/cina_qualifiche_sprint_mercedes_ferrari_macarena-425218627/",
+        "https://www.lastampa.it/sport/2026/03/13/news/gp_cina_mercedes_inarrivabile_pole_sprint_russell-15543266/",
+        "https://www.corriere.it/sport/formula-1/diretta-live/26_marzo_13/f1-gp-cina-qualifiche-sprint-diretta.shtml"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Crosetto: 'A Erbil un attacco deliberato'. Verso il rientro rapido di altri militari",
       "source_count": 6,
       "article_count": 8,
@@ -144,7 +169,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Referendum, Meloni: \"Non restate a casa e votate Sì. Non vogliamo liberarci delle toghe\"",
       "source_count": 7,
       "article_count": 7,
@@ -166,7 +191,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Sparatoria in una sinagoga e scuola ebraica in Michigan: l’assalitore è stato ucciso dalla polizia",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-internazionale/raid-e-famiglia-libano-chi-c-dietro-lattacco-sinagoga-2637980.html",
+        "https://www.liberoquotidiano.it/video/tv-news/46787842/attacco-sinagoga-in-michigan-morto-aggressore-nessuna-altra-vittima/",
+        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/03/13/attacco-alla-sinagoga-in-michigan-la-famiglia-dellassalitore-uccisa-da-raid-israeliano-in-libano_cf7f9799-79f3-4f10-a125-c3f645ad53ea.html",
+        "https://www.fanpage.it/esteri/sparatoria-in-una-sinagoga-e-scuola-ebraica-in-michigan-unauto-si-e-schiantata-contro-ledificio/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/allarme-negli-usa-sparatoria-corso-sinagoga-michigan-2637764.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Famiglia nel bosco, uno dei bimbi in sciopero della fame. Ma il Garante smentisce",
       "source_count": 6,
       "article_count": 6,
@@ -184,47 +230,6 @@
         "https://www.ilmessaggero.it/abruzzo/famiglia_nel_bosco_bambini_non_mangiano_perche-9412250.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/12/famiglia-nel-bosco-nathan-vede-una-nuova-casa-martedi-gli_9861e096-812e-4d62-bf89-98a3ef0ce443.html",
         "https://www.fanpage.it/attualita/famiglia-nel-bosco-uno-dei-bimbi-in-sciopero-della-fame-in-casa-famiglia-fino-al-ritorno-della-madre/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Russia alla Biennale, Giuli chiede dimissioni del rappresentante MiC nel cda",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "roma.corriere.it",
-        "ansa.it",
-        "unita.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/13/biennale-venezia-padiglione-dissidenti-russia-notizie/8322888/",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_12/biennale-venezia-giuli-dimissioni-tamara-gregoretti-russia-8a05bb96-ba93-4530-a9a1-5eb431433xlk.shtml",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/12/caos-sulla-russia-alla-biennale-giuli-sfiducia-la-rappresentante-del-mic_591bd2d5-6d2b-461b-aac3-0d1082bb704e.html",
-        "https://www.unita.it/2026/03/12/biennale-venezia-russia-giuli-dimissioni-rappresentante-ministero-cda/",
-        "https://www.ilgiornale.it/news/interni/russia-biennale-venezia-giuli-chiede-dimissioni-2637734.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Sparatoria in una sinagoga e scuola ebraica in Michigan: l’assalitore è stato ucciso dalla polizia",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-internazionale/raid-e-famiglia-libano-chi-c-dietro-lattacco-sinagoga-2637980.html",
-        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/03/13/attacco-alla-sinagoga-in-michigan-la-famiglia-dellassalitore-uccisa-da-raid-israeliano-in-libano_cf7f9799-79f3-4f10-a125-c3f645ad53ea.html",
-        "https://www.fanpage.it/esteri/sparatoria-in-una-sinagoga-e-scuola-ebraica-in-michigan-unauto-si-e-schiantata-contro-ledificio/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/allarme-negli-usa-sparatoria-corso-sinagoga-michigan-2637764.html",
-        "https://www.ilfattoquotidiano.it/2026/03/12/sparatoria-sinagoga-michigan-temple-israel-news/8322442/"
       ]
     }
   ]
