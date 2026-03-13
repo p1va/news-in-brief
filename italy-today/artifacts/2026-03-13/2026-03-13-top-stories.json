@@ -1,6 +1,6 @@
 {
   "date": "2026-03-13",
-  "generated_at": "Fri 13 Mar 07:04",
+  "generated_at": "Fri 13 Mar 08:52",
   "stories": [
     {
       "rank": 1,
@@ -15,7 +15,7 @@
         "ilmessaggero.it",
         "adnkronos.com",
         "ilmanifesto.it",
-        "ilgiornale.it",
+        "fanpage.it",
         "lastampa.it",
         "liberoquotidiano.it",
         "news.google.com"
@@ -30,6 +30,32 @@
     },
     {
       "rank": 2,
+      "title": "Bruno Contrada è morto, l'ex 007 nella guerra alla mafia aveva 94 anni",
+      "source_count": 11,
+      "article_count": 12,
+      "source_domains": [
+        "corriere.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "palermo.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.corriere.it/cronache/26_marzo_13/bruno-contrada-morto-d4c93d5c-215f-4b9a-820f-b60885970xlk.shtml",
+        "https://www.corriere.it/cronache/26_marzo_13/bruno-contrada-morto-d4c93d5c-215f-4b9a-820f-b60885970xlk.shtml",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/13/-e-morto-bruno-contrada-_7e179110-d6ed-4b7e-926c-500739e1e38f.html",
+        "https://www.ilmessaggero.it/persone/bruno_contrada_morto_poliziotto_sisde_chi_era-9413625.html",
+        "https://www.fanpage.it/attualita/morto-bruno-contrada-lex-007-della-guerra-di-mafia-a-palermo/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Sinner dà una lezione a Tien: il futuro può attendere",
       "source_count": 9,
       "article_count": 10,
@@ -53,29 +79,29 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Referendum, Meloni \"Occasione straordinaria, riforma giustizia serve a italiani\"",
+      "rank": 4,
+      "title": "Guerra in Iran, le news di oggi. Sì di Washington al petrolio russo. Morto in raid a Erbil un soldato francese, Macron: “Inaccettabile”. Esplosioni a Dubai",
       "source_count": 7,
       "article_count": 9,
       "source_domains": [
-        "ilgiornale.it",
+        "ilfattoquotidiano.it",
         "repubblica.it",
-        "corriere.it",
         "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "corriere.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/referendum-lappello-meloni-russa-milano-capitale-morale-2637871.html",
-        "https://www.repubblica.it/politica/2026/03/13/news/appello_meloni_referendum_riforme_anm-425218097/",
-        "https://www.corriere.it/politica/26_marzo_12/referendum-meloni-no-al-controllo-politica-sulla-magistratura-assistiamo-al-solito-allarme-del-rischio-di-una-deriva-illiberale-cfa21aa5-8734-4b1f-a1de-4aea63721xlk.shtml",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/12/meloni-spinge-il-si-ma-non-vogliamo-liberarci-delle-toghe-_f7e7ceb4-1c47-4ab6-afc4-d07d27c2a726.html",
-        "https://www.ilgiornale.it/news/magistratura/meloni-riforma-giustizia-coraggiosa-andare-oltre-allarmismi-2637778.html"
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/13/guerra-iran-soldato-francese-macron-trump-petrolio-russo-news/8322845/",
+        "https://www.repubblica.it/esteri/2026/03/13/diretta/guerra_iran_usa_israele_news_oggi-425218225/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/13/si-degli-usa-al-petrolio-russo.-morto-un-soldato-francese-a-erbil-esplosioni-a-dubai_7f434ff2-f4cc-443a-8050-989ed7783509.html",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_13/guerra-in-iran-le-ultime-notizie-in-diretta.shtml",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_13/guerra-in-iran-le-ultime-notizie-in-diretta.shtml"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Euroderby, botta e risposta. Il verdetto arriverà al ritorno",
       "source_count": 7,
       "article_count": 8,
@@ -97,76 +123,59 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Guerra in Iran, le news di oggi. Sì di Washington al petrolio russo. Morto in raid a Erbil un soldato francese, Macron: “Inaccettabile”. Esplosioni a Dubai",
+      "rank": 6,
+      "title": "Crosetto: 'A Erbil un attacco deliberato'. Verso il rientro rapido di altri militari",
       "source_count": 6,
       "article_count": 8,
       "source_domains": [
-        "repubblica.it",
         "ansa.it",
         "corriere.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/03/13/diretta/guerra_iran_usa_israele_news_oggi-425218225/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/13/si-degli-usa-al-petrolio-russo.-morto-un-soldato-francese-a-erbil-esplosioni-a-dubai_7f434ff2-f4cc-443a-8050-989ed7783509.html",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_13/guerra-in-iran-le-ultime-notizie-in-diretta.shtml",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_13/guerra-in-iran-le-ultime-notizie-in-diretta.shtml",
-        "https://www.ilgiornale.it/news/guerra/usa-dicono-s-petrolio-russo-esplosioni-dubai-macron-ucciso-2637933.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Addio a Enrica Bonaccorti, la signora della televisione. Mara Venier: “Sarai sempre con me”",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "laverita.info",
-        "ansa.it",
-        "ilmessaggero.it",
+        "repubblica.it",
         "lastampa.it",
-        "agi.it"
+        "liberoquotidiano.it",
+        "ilgiornale.it"
       ],
       "links": [
-        "https://www.adnkronos.com/spettacoli/enrica-bonaccorti-morta-camera-ardente-funerali_nq0bcWFYmsEtoUALa3gE0",
-        "https://www.laverita.info/tv-addio-enrica-bonaccorti-2676090323.html",
-        "https://www.ansa.it/sito/notizie/cultura/2026/03/12/e-morta-enrica-bonaccorti_b4f408bc-87fa-4474-8794-d6cd4368bea5.html",
-        "https://www.ilmessaggero.it/schede/enrica_bonaccorti_marito_fidanzato_ultimo_uomo_renato_zero-9411705.html",
-        "https://www.lastampa.it/spettacoli/2026/03/12/news/enrica_bonaccorti_morta-15541575/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/12/crosetto-a-erbil-un-attacco-deliberato.-il-comandante-fuga-nei-bunker-poi-il-boato_c7c61077-185b-43be-bf3b-9b8a857957d9.html",
+        "https://www.corriere.it/esteri/26_marzo_13/militari-italia-lasciano-iraq-d3f87c22-94de-4419-90f9-0f1294186xlk.shtml",
+        "https://www.repubblica.it/politica/2026/03/13/news/erbil_soldati_dopo_attacco_morale_alto_ma_siamo_stanchi-425218116/",
+        "https://www.repubblica.it/politica/2026/03/13/news/erbil_crosetto_atto_deliberato_accelera_ritiro_contingente_italiano-425218133/",
+        "https://www.lastampa.it/esteri/2026/03/13/news/iran_soldati_italiani_erbit_evacuazione-15542779/"
       ]
     },
     {
       "rank": 7,
-      "title": "Crosetto: 'A Erbil un attacco deliberato'. Verso il rientro rapido di altri militari",
-      "source_count": 4,
-      "article_count": 6,
+      "title": "Referendum, Meloni: \"Non restate a casa e votate Sì. Non vogliamo liberarci delle toghe\"",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "roma.corriere.it",
         "repubblica.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/12/crosetto-a-erbil-un-attacco-deliberato.-il-comandante-fuga-nei-bunker-poi-il-boato_c7c61077-185b-43be-bf3b-9b8a857957d9.html",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_13/crosetto-intervista-guerra-d75a5334-71ce-4356-bb9c-a3d7849abxlk.shtml",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_13/crosetto-intervista-guerra-d75a5334-71ce-4356-bb9c-a3d7849abxlk.shtml",
-        "https://www.corriere.it/esteri/26_marzo_13/militari-italia-lasciano-iraq-d3f87c22-94de-4419-90f9-0f1294186xlk.shtml",
-        "https://www.repubblica.it/politica/2026/03/13/news/erbil_crosetto_atto_deliberato_accelera_ritiro_contingente_italiano-425218133/"
+        "https://www.repubblica.it/politica/2026/03/13/news/appello_meloni_referendum_riforme_anm-425218097/",
+        "https://www.ilmessaggero.it/politica/meloni_referendum_stupratori-9412395.html",
+        "https://www.corriere.it/politica/26_marzo_12/referendum-meloni-no-al-controllo-politica-sulla-magistratura-assistiamo-al-solito-allarme-del-rischio-di-una-deriva-illiberale-cfa21aa5-8734-4b1f-a1de-4aea63721xlk.shtml",
+        "https://www.fanpage.it/politica/meloni-chiude-la-campagna-per-il-referendum-dopo-il-caso-bartolozzi-nessuno-vuole-liberarsi-dei-magistrati/",
+        "https://www.ilfattoquotidiano.it/2026/03/12/referendum-giustizia-meloni-dichiarazioni-teatro-parenti-news/8322614/"
       ]
     },
     {
       "rank": 8,
-      "title": "Famiglia nel bosco, ora il papà tratta con l’assistente sociale. Pronta una nuova abitazione",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Famiglia nel bosco, uno dei bimbi in sciopero della fame. Ma il Garante smentisce",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
         "lastampa.it",
         "roma.corriere.it",
         "ilmessaggero.it",
         "ansa.it",
+        "fanpage.it",
         "ilgiornale.it"
       ],
       "links": [
@@ -174,15 +183,16 @@
         "http://roma.corriere.it/notizie/cronaca/26_marzo_12/famiglia-nel-bosco-ora-il-papa-tratta-con-l-assistente-sociale-pronta-una-nuova-abitazione-5f6e0a1f-95e3-479f-8ec1-9a3001c9dxlk.shtml",
         "https://www.ilmessaggero.it/abruzzo/famiglia_nel_bosco_bambini_non_mangiano_perche-9412250.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/12/famiglia-nel-bosco-nathan-vede-una-nuova-casa-martedi-gli_9861e096-812e-4d62-bf89-98a3ef0ce443.html",
-        "https://www.ilgiornale.it/news/nazionale/famiglia-nel-bosco-dei-bimbi-sciopero-fame-2637643.html"
+        "https://www.fanpage.it/attualita/famiglia-nel-bosco-uno-dei-bimbi-in-sciopero-della-fame-in-casa-famiglia-fino-al-ritorno-della-madre/"
       ]
     },
     {
       "rank": 9,
       "title": "Russia alla Biennale, Giuli chiede dimissioni del rappresentante MiC nel cda",
-      "source_count": 5,
-      "article_count": 5,
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "roma.corriere.it",
         "ansa.it",
         "unita.it",
@@ -190,30 +200,31 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/13/biennale-venezia-padiglione-dissidenti-russia-notizie/8322888/",
         "http://roma.corriere.it/notizie/cronaca/26_marzo_12/biennale-venezia-giuli-dimissioni-tamara-gregoretti-russia-8a05bb96-ba93-4530-a9a1-5eb431433xlk.shtml",
         "https://www.ansa.it/sito/notizie/politica/2026/03/12/caos-sulla-russia-alla-biennale-giuli-sfiducia-la-rappresentante-del-mic_591bd2d5-6d2b-461b-aac3-0d1082bb704e.html",
         "https://www.unita.it/2026/03/12/biennale-venezia-russia-giuli-dimissioni-rappresentante-ministero-cda/",
-        "https://www.ilgiornale.it/news/interni/russia-biennale-venezia-giuli-chiede-dimissioni-2637734.html",
-        "https://www.lastampa.it/politica/2026/03/12/news/biennale_mollicone_contro_buttafuoco_sbagliato_ad_aprire_a_russia_e_iran_ora_ci_ripensi-15542242/"
+        "https://www.ilgiornale.it/news/interni/russia-biennale-venezia-giuli-chiede-dimissioni-2637734.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Il petrolio risale a quota 100 dollari: “È lo shock peggiore della storia”",
-      "source_count": 4,
-      "article_count": 5,
+      "title": "Sparatoria in una sinagoga e scuola ebraica in Michigan: l’assalitore è stato ucciso dalla polizia",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "repubblica.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "ansa.it"
+        "ilgiornale.it",
+        "ansa.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.repubblica.it/esteri/2026/03/13/news/trump_iran_regime_malvagio_petrolio-425218108/",
-        "https://www.repubblica.it/economia/2026/03/13/news/petrolio_quota_100_dollari_shock_energetico_peggiore_della_storia-425218053/",
-        "https://www.ilmessaggero.it/economia/news/petrolio_crisi_aumenti_100_dollari_hormuz_italia_scorte-9412355.html",
-        "https://www.liberoquotidiano.it/video/video-news-by-vista/46784615/crisi-iran-trump-rilasceremo-al-piu-presto-riserve-strategiche-petrolio/",
-        "https://www.ansa.it/sito/notizie/economia/2026/03/12/crolla-la-produzione-di-petrolio-meno-10-milioni-di-barili-al-giorno.-le-borse-chiudono-in-rosso_d890d86a-008d-42a0-b22e-1d9c093384b7.html"
+        "https://www.ilgiornale.it/news/cronaca-internazionale/raid-e-famiglia-libano-chi-c-dietro-lattacco-sinagoga-2637980.html",
+        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/03/13/attacco-alla-sinagoga-in-michigan-la-famiglia-dellassalitore-uccisa-da-raid-israeliano-in-libano_cf7f9799-79f3-4f10-a125-c3f645ad53ea.html",
+        "https://www.fanpage.it/esteri/sparatoria-in-una-sinagoga-e-scuola-ebraica-in-michigan-unauto-si-e-schiantata-contro-ledificio/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/allarme-negli-usa-sparatoria-corso-sinagoga-michigan-2637764.html",
+        "https://www.ilfattoquotidiano.it/2026/03/12/sparatoria-sinagoga-michigan-temple-israel-news/8322442/"
       ]
     }
   ]
