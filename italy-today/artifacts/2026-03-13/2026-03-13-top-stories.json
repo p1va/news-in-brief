@@ -1,18 +1,18 @@
 {
   "date": "2026-03-13",
-  "generated_at": "Fri 13 Mar 11:38",
+  "generated_at": "Fri 13 Mar 13:13",
   "stories": [
     {
       "rank": 1,
-      "title": "Bruno Contrada è morto, l'ex 007 nella guerra alla mafia aveva 94 anni",
+      "title": "Morto Bruno Contrada, l'ex 007 degli anni della guerra di mafia a Palermo. Le ombre, la condanna, il risarcimento",
       "source_count": 14,
-      "article_count": 16,
+      "article_count": 17,
       "source_domains": [
+        "ansa.it",
         "repubblica.it",
         "unita.it",
         "corriere.it",
         "liberoquotidiano.it",
-        "ansa.it",
         "ilmessaggero.it",
         "fanpage.it",
         "adnkronos.com",
@@ -24,11 +24,11 @@
         "ilfoglio.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/videogallery/italia/2026/03/13/e-morto-bruno-contrada-dal-sisde-al-concorso-esterno-in-associazione-mafiosa_fe352929-41d5-4070-ac11-9acb7f6c8fbc.html",
         "https://www.repubblica.it/cronaca/2026/03/13/news/chi_era_bruno_contrada_ex_007_mafia-425218813/",
         "https://www.unita.it/2026/03/13/morto-bruno-contrada-007-sisde-mafia-calvario-giudiziario-vita/",
         "https://www.corriere.it/cronache/26_marzo_13/bruno-contrada-morto-d4c93d5c-215f-4b9a-820f-b60885970xlk.shtml",
-        "https://www.corriere.it/cronache/26_marzo_13/bruno-contrada-morto-d4c93d5c-215f-4b9a-820f-b60885970xlk.shtml",
-        "https://www.liberoquotidiano.it/news/italia/46787175/bruno-contrada-morto-super-poliziotto-anti-mafia-vicenda-giudiziaria-sconvolto-italia/"
+        "https://www.corriere.it/cronache/26_marzo_13/bruno-contrada-morto-d4c93d5c-215f-4b9a-820f-b60885970xlk.shtml"
       ]
     },
     {
@@ -83,6 +83,27 @@
     },
     {
       "rank": 4,
+      "title": "Jacopo Luchini oro nello snowboard alle Paralimpiadi: l’Italia sale a quota 11 medaglie",
+      "source_count": 6,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/altrisport/speciali/paralimpiadi-milano_cortina_2026/2026/03/13/milano-cortina-argento-a-bertagnolli-13-podi-e-litalia-eguaglia-il-record-di-lillehammer_4f12daf3-e9b1-42a2-928b-a240e135d663.html",
+        "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_13/giacomo-bertagnolli-vince-medaglia-argento-slalom-gigante-ipovedenti-paralimpiadi-milano-cortina-2026-81232999-ba57-4543-bf2a-7b54835c5xlk.shtml",
+        "https://www.ilgiornale.it/news/sci/paralimpiadi-luchini-e-perathoner-d-oro-doppietta-nello-2638094.html",
+        "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_13/emanuel-perathoner-vince-medaglia-oro-snowboard-paralimpiadi-milano-cortina-2026-5e24367c-6da5-4bcb-9360-0f2f99d40xlk.shtml",
+        "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_13/jacopo-luchini-vince-medaglia-oro-banked-slalom-snowboard-paralimpiadi-milano-cortina-2026-a820d1fc-56d7-4dca-8a62-084a916d6xlk.shtml"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Neonati Parma, Chiara dice di non essere un’assassina: “Quei bimbi parte di me, non gli avrei mai fatto male”",
       "source_count": 9,
       "article_count": 9,
@@ -106,7 +127,29 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "F1, in Cina è doppietta Mercedes: Russell batte Antonelli, la Ferrari c’è",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it",
+        "corriere.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/hamilton-ferrari-mercedes-gp-cina-formula-1_7Etw0x8PdBtUZtng7fLzgk",
+        "https://www.ilfattoquotidiano.it/2026/03/13/f1-qualifiche-sprint-pole-gp-cina-griglia-di-partenza/8323165/",
+        "https://www.fanpage.it/sport/motori/i-dati-mercedes-spariscono-durante-le-qualifiche-sprint-in-cina-sospetto-guasto-alla-telemetria/",
+        "https://www.ilgiornale.it/news/altri-sport/f1-cina-doppietta-mercedes-russell-batte-antonelli-ferrari-c-2638003.html",
+        "https://www.adnkronos.com/sport/formula-1-gp-cina-qualifiche-gara-sprint-oggi-griglia-partenza_5wDL6icWxTR1FcZ8VBKalq"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Guerra in Iran, le news di oggi. Sì di Washington al petrolio russo. Morto in raid a Erbil un soldato francese, Macron: “Inaccettabile”. Esplosioni a Dubai",
       "source_count": 7,
       "article_count": 9,
@@ -128,7 +171,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Euroderby, botta e risposta. Il verdetto arriverà al ritorno",
       "source_count": 7,
       "article_count": 8,
@@ -150,7 +193,29 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "title": "Crolla la produzione di petrolio, meno 10 milioni di barili al giorno. Le Borse chiudono in rosso",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/petrolio-gi-produzione-stop-pi-grave-sempre-2637847.html",
+        "https://www.adnkronos.com/economia/iran-chi-vince-e-chi-perde-in-economia-a-causa-della-guerra-lanalisi_4GpxYHddE7Z7H50opbrTx6",
+        "https://www.lastampa.it/economia/2026/03/13/news/iran_usa_guerra_caro_energia_rischio_crisi_microchip_asiatici-15543394/",
+        "https://www.repubblica.it/economia/2026/03/13/news/petrolio_quota_100_dollari_shock_energetico_peggiore_della_storia-425218053/",
+        "https://www.ilmessaggero.it/economia/news/petrolio_crisi_aumenti_100_dollari_hormuz_italia_scorte-9412355.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Sparatoria in una sinagoga e scuola ebraica in Michigan: l’assalitore è stato ucciso dalla polizia",
       "source_count": 7,
       "article_count": 8,
@@ -169,69 +234,6 @@
         "https://www.liberoquotidiano.it/video/tv-news/46787842/attacco-sinagoga-in-michigan-morto-aggressore-nessuna-altra-vittima/",
         "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/03/13/attacco-alla-sinagoga-in-michigan-la-famiglia-dellassalitore-uccisa-da-raid-israeliano-in-libano_cf7f9799-79f3-4f10-a125-c3f645ad53ea.html",
         "https://www.fanpage.it/esteri/sparatoria-in-una-sinagoga-e-scuola-ebraica-in-michigan-unauto-si-e-schiantata-contro-ledificio/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Economiche e distruttive: così Teheran mina lo Stretto di Hormuz",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "corriere.it",
-        "repubblica.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/corridoio-hormuz-trappola-traffico-commerciale-gi-colpite-23-2637844.html",
-        "https://www.adnkronos.com/internazionale/esteri/iran-la-strategia-usate-piccole-imbarcazioni-per-minare-lo-stretto-di-hormuz_kDJlOsYQVyAwY9XQGGglO",
-        "https://www.ilgiornale.it/news/guerra/economiche-e-distruttive-cos-teheran-mina-stretto-hormuz-2637982.html",
-        "https://www.ilmessaggero.it/mondo/canale_di_panama_crescita_commercio_stretto_hormuz-9413619.html",
-        "https://www.corriere.it/esteri/26_marzo_13/mine-acqua-iran-0749d0f4-9d34-49fc-a6b8-a52421f2dxlk.shtml"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "F1 Gp Cina, le qualifiche sprint in diretta. Nelle prove libere Russell davanti ad Antonelli, Leclerc 5° e Hamilton 6°",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "corriere.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/13/f1-qualifiche-sprint-pole-gp-cina-griglia-di-partenza/8323165/",
-        "https://www.fanpage.it/sport/motori/i-dati-mercedes-spariscono-durante-le-qualifiche-sprint-in-cina-sospetto-guasto-alla-telemetria/",
-        "https://www.ilgiornale.it/news/altri-sport/f1-cina-doppietta-mercedes-russell-batte-antonelli-ferrari-c-2638003.html",
-        "https://www.adnkronos.com/sport/formula-1-gp-cina-qualifiche-gara-sprint-oggi-griglia-partenza_5wDL6icWxTR1FcZ8VBKalq",
-        "https://www.lastampa.it/sport/2026/03/13/news/gp_cina_mercedes_inarrivabile_pole_sprint_russell-15543266/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Crosetto: 'A Erbil un attacco deliberato'. Verso il rientro rapido di altri militari",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "corriere.it",
-        "repubblica.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/12/crosetto-a-erbil-un-attacco-deliberato.-il-comandante-fuga-nei-bunker-poi-il-boato_c7c61077-185b-43be-bf3b-9b8a857957d9.html",
-        "https://www.corriere.it/esteri/26_marzo_13/militari-italia-lasciano-iraq-d3f87c22-94de-4419-90f9-0f1294186xlk.shtml",
-        "https://www.repubblica.it/politica/2026/03/13/news/erbil_soldati_dopo_attacco_morale_alto_ma_siamo_stanchi-425218116/",
-        "https://www.repubblica.it/politica/2026/03/13/news/erbil_crosetto_atto_deliberato_accelera_ritiro_contingente_italiano-425218133/",
-        "https://www.lastampa.it/esteri/2026/03/13/news/iran_soldati_italiani_erbit_evacuazione-15542779/"
       ]
     }
   ]
