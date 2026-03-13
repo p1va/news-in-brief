@@ -1,19 +1,19 @@
 {
   "date": "2026-03-13",
-  "generated_at": "Fri 13 Mar 14:51",
+  "generated_at": "Fri 13 Mar 15:51",
   "stories": [
     {
       "rank": 1,
       "title": "Morto Bruno Contrada, l'ex 007 degli anni della guerra di mafia a Palermo. Le ombre, la condanna, il risarcimento",
       "source_count": 14,
-      "article_count": 17,
+      "article_count": 18,
       "source_domains": [
+        "ilmessaggero.it",
         "ansa.it",
         "repubblica.it",
         "unita.it",
         "corriere.it",
         "liberoquotidiano.it",
-        "ilmessaggero.it",
         "fanpage.it",
         "adnkronos.com",
         "ilgiornale.it",
@@ -24,30 +24,52 @@
         "ilfoglio.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/politica/morto_bruno_contrada_ex_agente_segreto_accusato_di_concorso_in_associazione_mafiosa-9414043.html",
         "https://www.ansa.it/sito/videogallery/italia/2026/03/13/e-morto-bruno-contrada-dal-sisde-al-concorso-esterno-in-associazione-mafiosa_fe352929-41d5-4070-ac11-9acb7f6c8fbc.html",
         "https://www.repubblica.it/cronaca/2026/03/13/news/chi_era_bruno_contrada_ex_007_mafia-425218813/",
         "https://www.unita.it/2026/03/13/morto-bruno-contrada-007-sisde-mafia-calvario-giudiziario-vita/",
-        "https://www.corriere.it/cronache/26_marzo_13/bruno-contrada-morto-d4c93d5c-215f-4b9a-820f-b60885970xlk.shtml",
         "https://www.corriere.it/cronache/26_marzo_13/bruno-contrada-morto-d4c93d5c-215f-4b9a-820f-b60885970xlk.shtml"
       ]
     },
     {
       "rank": 2,
+      "title": "Sinner dà una lezione a Tien: il futuro può attendere",
+      "source_count": 9,
+      "article_count": 14,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "fanpage.it",
+        "repubblica.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/tennis/indian-wells-sinner-semifinale-contro-zverev-dovr-stare-2638133.html",
+        "https://www.liberoquotidiano.it/news/sport/46793810/sinner-colpo-sconvolge-indian-wells-cosa-fa-con-mano/",
+        "https://www.ilfattoquotidiano.it/2026/03/13/sinner-fenicottero-dettaglio-nascosto-scarpe-indian-wells/8323043/",
+        "https://www.liberoquotidiano.it/news/sport/46787357/sinner-batte-tien-indian-wells-questo-cambia-cosa-puo-fregarlo/",
+        "https://www.ansa.it/sito/notizie/sport/2026/03/13/sinner-torna-in-semifinale-a-indian-wells-ora-ce-zverev_555051f7-0767-402b-8b40-b1e5d7395140.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Iran, Mojtaba Khamenei rompe il silenzio: \"Voglio vendetta contro Usa, lo stretto di Hormuz resterà chiuso\"",
-      "source_count": 11,
-      "article_count": 15,
+      "source_count": 9,
+      "article_count": 12,
       "source_domains": [
         "ilgiornale.it",
         "ansa.it",
         "corriere.it",
         "unita.it",
         "repubblica.it",
-        "ilmessaggero.it",
         "adnkronos.com",
         "ilmanifesto.it",
         "fanpage.it",
-        "liberoquotidiano.it",
-        "news.google.com"
+        "lastampa.it"
       ],
       "links": [
         "https://www.ilgiornale.it/news/guerra/messaggio-morte-fantasma-mojtaba-vendetta-i-martiri-hormuz-2637951.html",
@@ -58,71 +80,47 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Sinner dà una lezione a Tien: il futuro può attendere",
-      "source_count": 9,
-      "article_count": 13,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "fanpage.it",
-        "repubblica.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/tennis/indian-wells-sinner-semifinale-contro-zverev-dovr-stare-2638133.html",
-        "https://www.ilfattoquotidiano.it/2026/03/13/sinner-fenicottero-dettaglio-nascosto-scarpe-indian-wells/8323043/",
-        "https://www.liberoquotidiano.it/news/sport/46787357/sinner-batte-tien-indian-wells-questo-cambia-cosa-puo-fregarlo/",
-        "https://www.ansa.it/sito/notizie/sport/2026/03/13/sinner-torna-in-semifinale-a-indian-wells-ora-ce-zverev_555051f7-0767-402b-8b40-b1e5d7395140.html",
-        "https://www.fanpage.it/sport/tennis/quando-gioca-sinner-in-semifinale-a-indian-wells-data-e-ora-del-match-contro-zverev/"
-      ]
-    },
-    {
       "rank": 4,
       "title": "Jacopo Luchini oro nello snowboard alle Paralimpiadi: l’Italia sale a quota 11 medaglie",
       "source_count": 7,
-      "article_count": 13,
+      "article_count": 14,
       "source_domains": [
+        "ilgiornale.it",
         "ansa.it",
         "corriere.it",
-        "ilgiornale.it",
         "ilfattoquotidiano.it",
         "lastampa.it",
         "adnkronos.com",
         "repubblica.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/altri-sport/paralimpiadi-italia-nella-storia-l-oro-ren-de-silvestro-ci-2638180.html",
         "https://www.ansa.it/sito/notizie/sport/altrisport/speciali/paralimpiadi-milano_cortina_2026/2026/03/13/milano-cortina-pioggia-di-medaglie-per-litalia-con-14-podi-battuto-il-record_4f12daf3-e9b1-42a2-928b-a240e135d663.html",
         "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_13/rene-de-silvestro-vince-medaglia-argento-gigante-sitting-paralimpiadi-milano-cortina-2026-c9836256-46c5-4598-9c04-3bf59dd00xlk.shtml",
         "https://www.ansa.it/sito/notizie/sport/altrisport/speciali/paralimpiadi-milano_cortina_2026/2026/03/13/milano-cortina-argento-a-bertagnolli-13-podi-e-litalia-eguaglia-il-record-di-lillehammer_4f12daf3-e9b1-42a2-928b-a240e135d663.html",
-        "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_13/giacomo-bertagnolli-vince-medaglia-argento-slalom-gigante-ipovedenti-paralimpiadi-milano-cortina-2026-81232999-ba57-4543-bf2a-7b54835c5xlk.shtml",
-        "https://www.ilgiornale.it/news/sci/paralimpiadi-luchini-e-perathoner-d-oro-doppietta-nello-2638094.html"
+        "https://www.corriere.it/sport/olimpiadi-invernali/26_marzo_13/giacomo-bertagnolli-vince-medaglia-argento-slalom-gigante-ipovedenti-paralimpiadi-milano-cortina-2026-81232999-ba57-4543-bf2a-7b54835c5xlk.shtml"
       ]
     },
     {
       "rank": 5,
-      "title": "F1, in Cina è doppietta Mercedes: Russell batte Antonelli, la Ferrari c’è",
+      "title": "F1 Gp Cina, le qualifiche sprint in diretta. Nelle prove libere Russell davanti ad Antonelli, Leclerc 5° e Hamilton 6°",
       "source_count": 7,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
+        "adnkronos.com",
         "fanpage.it",
         "ilmessaggero.it",
-        "adnkronos.com",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
         "lastampa.it",
         "corriere.it"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/formula-1-gara-sprint-qualifiche-gp-cina-orari-griglia-partenza-dove-vedere-tv_i2bcKa3lxsaVusl9RfRby",
         "https://www.fanpage.it/sport/motori/kimi-antonelli-evita-la-penalita-nel-gp-cina-grazie-a-norris-lo-scagiona-davanti-ai-commissari-f1/",
         "https://www.ilmessaggero.it/blog/milleruote/mercedes_in_fuga_a_shanghai_ma_la_ferrari_non_si_demoralizza_hamilton_li_possiamo_riprendere-9413937.html",
         "https://www.adnkronos.com/sport/hamilton-ferrari-mercedes-gp-cina-formula-1_7Etw0x8PdBtUZtng7fLzgk",
-        "https://www.fanpage.it/sport/motori/la-ferrari-rallenta-allimprovviso-nellsq3-a-shanghai-leclerc-esplode-in-radio-che-diavolo-succede/",
-        "https://www.ilfattoquotidiano.it/2026/03/13/f1-qualifiche-sprint-pole-gp-cina-griglia-di-partenza/8323165/"
+        "https://www.fanpage.it/sport/motori/la-ferrari-rallenta-allimprovviso-nellsq3-a-shanghai-leclerc-esplode-in-radio-che-diavolo-succede/"
       ]
     },
     {
@@ -153,22 +151,22 @@
       "rank": 7,
       "title": "Guerra in Iran, le news di oggi. Sì di Washington al petrolio russo. Morto in raid a Erbil un soldato francese, Macron: “Inaccettabile”. Esplosioni a Dubai",
       "source_count": 7,
-      "article_count": 9,
+      "article_count": 11,
       "source_domains": [
+        "ansa.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
-        "ansa.it",
         "corriere.it",
         "ilgiornale.it",
         "fanpage.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/13/ft-francia-e-italia-cercano-un-accordo-con-liran-per-hormuz.-palazzo-chigi_7f434ff2-f4cc-443a-8050-989ed7783509.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/13/ft-francia-e-italia-cercano-laccordo-con-liran-per-hormuz.-la-nato-abbatte_7f434ff2-f4cc-443a-8050-989ed7783509.html",
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/13/guerra-iran-soldato-francese-macron-trump-petrolio-russo-news/8322845/",
         "https://www.repubblica.it/esteri/2026/03/13/diretta/guerra_iran_usa_israele_news_oggi-425218225/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/13/si-degli-usa-al-petrolio-russo.-morto-un-soldato-francese-a-erbil-esplosioni-a-dubai_7f434ff2-f4cc-443a-8050-989ed7783509.html",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_13/guerra-in-iran-le-ultime-notizie-in-diretta.shtml",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_13/guerra-in-iran-le-ultime-notizie-in-diretta.shtml"
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/13/si-degli-usa-al-petrolio-russo.-morto-un-soldato-francese-a-erbil-esplosioni-a-dubai_7f434ff2-f4cc-443a-8050-989ed7783509.html"
       ]
     },
     {
