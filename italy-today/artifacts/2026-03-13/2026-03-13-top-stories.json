@@ -1,6 +1,6 @@
 {
   "date": "2026-03-13",
-  "generated_at": "Fri 13 Mar 20:43",
+  "generated_at": "Fri 13 Mar 21:40",
   "stories": [
     {
       "rank": 1,
@@ -57,7 +57,7 @@
       "rank": 3,
       "title": "Sinner dà una lezione a Tien: il futuro può attendere",
       "source_count": 8,
-      "article_count": 14,
+      "article_count": 13,
       "source_domains": [
         "fanpage.it",
         "ilgiornale.it",
@@ -124,28 +124,6 @@
     },
     {
       "rank": 6,
-      "title": "Petroliera russa alla deriva tra Lampedusa e Malta: a bordo 900 tonnellate di gasolio e gas liquido",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "corriere.it",
-        "fanpage.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/13/petroliera-fantasma-russa-arctic-metagaz-deriva-canale-di-sicilia-linosa-lampedusa-allarme-inquinamento-news/8323656/",
-        "https://www.ilgiornale.it/news/politica-internazionale/nave-fantasma-russa-deriva-lampedusa-e-malta-vertice-palazzo-2638188.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/13/petroliera-russa-alla-deriva-nel-mediterraneo-palazzo-chigi-monitoriamo-assieme_ae3fa71d-58aa-4fd6-8668-df5961786d81.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/13/petroliera-russa-alla-deriva-tra-le-pelagie-e-malta-vertice-a-palazzo-chigi_ae3fa71d-58aa-4fd6-8668-df5961786d81.html",
-        "https://www.ilmessaggero.it/mondo/arctic_metagaz_petroliera_deriva_lampedusa_dove_e-9413751.html"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Economiche e distruttive: così Teheran mina lo Stretto di Hormuz",
       "source_count": 6,
       "article_count": 10,
@@ -163,6 +141,28 @@
         "https://video.corriere.it/esteri/il-segretario-della-difesa-usa-hegseth-l-unica-cosa-che-impedisce-il-transito-negli-stretti-e-che-l-iran-spara-contro-le-navi-/3cf98a87-3523-41dd-b5b5-c7bd36a80xlk",
         "https://www.ilmessaggero.it/mondo/stretto_di_hormuz_quante_navi_passate-9414077.html",
         "https://www.ilgiornale.it/news/politica/corridoio-hormuz-trappola-traffico-commerciale-gi-colpite-23-2637844.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Arctic Metagaz, metaniera russa alla deriva verso Malta. Palazzo Chigi: monitoriamo. Allarme ambientale",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "fanpage.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/13/petroliera-fantasma-russa-arctic-metagaz-deriva-canale-di-sicilia-linosa-lampedusa-allarme-inquinamento-news/8323656/",
+        "https://www.ilgiornale.it/news/politica-internazionale/nave-fantasma-russa-deriva-lampedusa-e-malta-vertice-palazzo-2638188.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/13/petroliera-russa-alla-deriva-nel-mediterraneo-palazzo-chigi-monitoriamo-assieme_ae3fa71d-58aa-4fd6-8668-df5961786d81.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/13/petroliera-russa-alla-deriva-tra-le-pelagie-e-malta-vertice-a-palazzo-chigi_ae3fa71d-58aa-4fd6-8668-df5961786d81.html",
+        "https://www.ilmessaggero.it/mondo/arctic_metagaz_petroliera_deriva_lampedusa_dove_e-9413751.html"
       ]
     },
     {
