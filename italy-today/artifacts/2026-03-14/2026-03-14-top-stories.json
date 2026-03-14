@@ -1,9 +1,34 @@
 {
   "date": "2026-03-14",
-  "generated_at": "Sat 14 Mar 11:31",
+  "generated_at": "Sat 14 Mar 13:05",
   "stories": [
     {
       "rank": 1,
+      "title": "Attacco Usa all'isola di Kharg, Trump: «L'Iran liberi Hormuz o distruggeremo le infrastrutture petrolifere»",
+      "source_count": 10,
+      "article_count": 22,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/14/medio-oriente-macron-israele-accetti-colloquinbspcon-beirut-a-parigi.-katz-verso_34aa2d34-60a8-4f55-b0b8-7703636d6624.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/14/medio-oriente-macron-israele-accetti-colloquicon-beirut-a-parigi.-katz-verso_34aa2d34-60a8-4f55-b0b8-7703636d6624.html",
+        "https://www.adnkronos.com/internazionale/esteri/isola-kharg-usa-iran-guerra-petrolio-prezzi_2Doo6vWCsH7TZssxNRDa5u",
+        "https://www.fanpage.it/esteri/dallisola-di-kharg-passa-quasi-tutto-il-petrolio-delliran-gli-scenari-ora-che-trump-lha-attaccata/",
+        "https://www.ilgiornale.it/news/guerra/colpita-l-isola-kharg-ecco-perch-trump-punta-sull-opzione-2638392.html"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Formula 1, pole record di Antonelli in Cina davanti a Russell e Leclerc",
       "source_count": 9,
       "article_count": 23,
@@ -27,56 +52,10 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Iran, Trump attacca Kharg: perché l'isola è il cuore del petrolio di Teheran",
-      "source_count": 9,
-      "article_count": 15,
-      "source_domains": [
-        "adnkronos.com",
-        "fanpage.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "corriere.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/isola-kharg-usa-iran-guerra-petrolio-prezzi_2Doo6vWCsH7TZssxNRDa5u",
-        "https://www.fanpage.it/esteri/dallisola-di-kharg-passa-quasi-tutto-il-petrolio-delliran-gli-scenari-ora-che-trump-lha-attaccata/",
-        "https://www.ilgiornale.it/news/guerra/colpita-l-isola-kharg-ecco-perch-trump-punta-sull-opzione-2638392.html",
-        "https://www.liberoquotidiano.it/video/tv-news/46804053/iran-raid-usa-su-isola-di-kharg-snodo-chiave-per-export-greggio/",
-        "https://www.repubblica.it/esteri/2026/03/14/news/isola_kharg_attacco_usa_petrolio_iran-425221102/"
-      ]
-    },
-    {
       "rank": 3,
-      "title": "Medio Oriente: Attacco con drone contro l'ambasciata Usa a Baghdad, fumo nero sul complesso nel cuore della capitale irachena",
+      "title": "Petroliera russa alla deriva, Italia disponibile al supporto",
       "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "corriere.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/14/medio-oriente-macron-israele-accetti-colloquicon-beirut-a-parigi.-katz-verso_34aa2d34-60a8-4f55-b0b8-7703636d6624.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/03/14/drone-contro-lambasciata-usa-a-baghdad-fumo-e-detriti-nel-complesso-diplomatico_f598c7c8-7bec-4968-b3b5-ea30244e752c.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/14/guerra-iran-israele-news-live-oggi/8324119/",
-        "https://www.liberoquotidiano.it/video/libero-video/46801936/baghdad-missile-colpisce-eliporto-ambasciata-usa/",
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-14-marzo-2026/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Nave russa carica di gas alla deriva Rischio disastro, Roma in allarme",
-      "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
         "repubblica.it",
         "ilmanifesto.it",
@@ -95,7 +74,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Epstein, l'ex principe Andrea e Mandelson: dai Files spunta una foto tutti assieme",
       "source_count": 6,
       "article_count": 7,
@@ -116,7 +95,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Banksy svelato: la vera identità dell'artista ricostruita in un ricerca Reuters",
       "source_count": 6,
       "article_count": 6,
@@ -137,7 +116,48 @@
       ]
     },
     {
+      "rank": 6,
+      "title": "I funerali di Enrica Bonaccorti nella Chiesa degli Artisti a Roma: l’ultimo saluto alla conduttrice stroncata a 76 anni da un tumore",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "roma.corriere.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "ansa.it"
+      ],
+      "links": [
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_14/eredita-bonaccorti-testamento-case-ultimo-desiderio-a8c4dca4-8ab4-4375-8d82-7d285cab7xlk.shtml",
+        "http://roma.corriere.it/cronaca/diretta-live/26_marzo_14/enrica-bonaccorti-funerali-diretta.shtml",
+        "https://www.ilfattoquotidiano.it/fq-magazine/live-post/2026/03/14/enrica-bonaccorti-funerali-diretta-roma-notizie/8324205/",
+        "https://www.ilgiornale.it/news/nazionale/l-eredit-enrica-bonaccorti-testamento-immobili-e-l-ultimo-2638355.html",
+        "http://roma.corriere.it/foto-gallery/cronaca/26_marzo_13/camera-ardente-di-enrica-bonaccorti-alla-clinica-ars-medica-l-omaggio-di-tanti-volti-noti.shtml"
+      ]
+    },
+    {
       "rank": 7,
+      "title": "Auto precipita in una scarpata per 200 metri, morti due giovani fidanzati nel Salernitano",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "salerno.corriere.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "http://salerno.corriere.it/notizie/cronaca/26_marzo_14/incidente-cilento-auto-precipita-in-un-dirupo-per-200-metri-fino-al-mare-morti-i-giovani-fidanzati-michele-pirozzi-e-maria-071e68ed-8121-4591-9e73-06e349d87xlk.shtml",
+        "https://www.adnkronos.com/cronaca/cilento-auto-precipita-in-un-dirupo-dopo-incidente-morti-due-fidanzati_2VW2tpFmtqEC90a6TcMMcu",
+        "https://www.lastampa.it/cronaca/2026/03/14/news/auto_precipita_in_una_scarpata_per_200_metri_morti_due_giovani_fidanzati_nel_salernitano-15544674/",
+        "https://www.fanpage.it/napoli/incidente-nel-cilento-auto-sfonda-il-guardrail-e-cade-nel-dirupo-a-montecorice-morta-coppia-di-24-e-29-anni/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/14/con-lauto-precipita-in-una-scarpata-per-200-metri-morta-coppia_6d64f57b-74c3-47fd-a30f-00b6f43dbda1.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Ft: 'Francia e Italia cercano accordo con Iran per le navi a Hormuz'",
       "source_count": 5,
       "article_count": 6,
@@ -157,7 +177,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Usa autorizzano acquisto petrolio russo, Commissione Ue: Nostre sanzioni restano valide",
       "source_count": 5,
       "article_count": 6,
@@ -177,42 +197,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Iran, Consiglio Supremo: “Italia non prenderà parte alla guerra. Rischi di iniziative terroristiche”",
+      "rank": 10,
+      "title": "Contrada si porta via i segreti di Palermo",
       "source_count": 5,
       "article_count": 6,
       "source_domains": [
+        "corriere.it",
         "ilgiornale.it",
-        "laverita.info",
-        "ansa.it",
-        "roma.corriere.it",
-        "ilsole24ore.com"
+        "ilmanifesto.it",
+        "lastampa.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/litalia-mai-guerra-ok-2638280.html",
-        "https://www.laverita.info/italia-non-partecipa-guerra-iran-2676102447.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/13/il-consiglio-supremo-di-difesa-grave-preoccupazione-per-lo-scenario-di-crisi-in-medio-oriente_948491b7-f380-4ae9-bc61-e96c130970c6.html",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_13/mattarella-consiglio-supremo-difesa-italia-no-guerra-iran-c6dc9f74-b47c-4d68-94f9-ed83b8bd6xlk.shtml",
-        "https://www.ilgiornale.it/news/politica-internazionale/iran-consiglio-supremo-italia-non-prender-parte-guerra-2638098.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Milano Cortina: Italia record assoluto alle Paralimpiadi con 14 podi",
-      "source_count": 4,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "laverita.info",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/sport/scritta-pagina-pi-bella-3-ori-e-1-argento-giorno-e-record-2638294.html",
-        "https://www.repubblica.it/sport/dossier/paralimpiadi/2026/03/14/news/azzurri_record_medaglie_paralimpiadi_milano_cortina-425220488/",
-        "https://www.laverita.info/italia-record-paralimpiadi-milano-cortina-2676101134.html",
-        "https://www.ansa.it/sito/notizie/sport/altrisport/speciali/paralimpiadi-milano_cortina_2026/2026/03/13/milano-cortina-pioggia-di-medaglie-per-litalia-con-14-podi-battuto-il-record_4f12daf3-e9b1-42a2-928b-a240e135d663.html",
-        "https://www.repubblica.it/sport/dossier/paralimpiadi/2026/03/13/news/medaglie_italia_paralimpiadi_invernali_2026-425219860/"
+        "https://www.corriere.it/cronache/26_marzo_14/la-morte-di-contrada-traditore-perseguitato-l-enigma-del-superpoliziotto-nella-zona-grigia-dell-antimafia-2c2d1b80-cd3a-4e41-b2d7-a212ec914xlk.shtml",
+        "https://www.ilgiornale.it/news/politica/contrada-morto-incensurato-provano-ancora-mascariarlo-2638271.html",
+        "https://ilmanifesto.it/un-poliziotto-a-palermo",
+        "https://www.lastampa.it/cronaca/2026/03/14/news/contrada_si_porta_via_i_segreti_di_palermo-15544238/",
+        "https://www.ilmessaggero.it/politica/morto_bruno_contrada_ex_agente_segreto_accusato_di_concorso_in_associazione_mafiosa-9414043.html"
       ]
     }
   ]
