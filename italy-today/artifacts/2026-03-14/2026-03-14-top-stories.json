@@ -1,6 +1,6 @@
 {
   "date": "2026-03-14",
-  "generated_at": "Sat 14 Mar 10:36",
+  "generated_at": "Sat 14 Mar 11:31",
   "stories": [
     {
       "rank": 1,
@@ -29,12 +29,13 @@
     {
       "rank": 2,
       "title": "Iran, Trump attacca Kharg: perché l'isola è il cuore del petrolio di Teheran",
-      "source_count": 8,
+      "source_count": 9,
       "article_count": 15,
       "source_domains": [
         "adnkronos.com",
         "fanpage.it",
         "ilgiornale.it",
+        "liberoquotidiano.it",
         "repubblica.it",
         "ansa.it",
         "ilmessaggero.it",
@@ -45,12 +46,34 @@
         "https://www.adnkronos.com/internazionale/esteri/isola-kharg-usa-iran-guerra-petrolio-prezzi_2Doo6vWCsH7TZssxNRDa5u",
         "https://www.fanpage.it/esteri/dallisola-di-kharg-passa-quasi-tutto-il-petrolio-delliran-gli-scenari-ora-che-trump-lha-attaccata/",
         "https://www.ilgiornale.it/news/guerra/colpita-l-isola-kharg-ecco-perch-trump-punta-sull-opzione-2638392.html",
-        "https://www.repubblica.it/esteri/2026/03/14/news/isola_kharg_attacco_usa_petrolio_iran-425221102/",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/03/14/trump-pubblica-video-dei-bombardamenti-sullisola-petrolifera-iraniana-di-kharg_4174fc2d-ccb4-4da7-b960-55cfad13742f.html"
+        "https://www.liberoquotidiano.it/video/tv-news/46804053/iran-raid-usa-su-isola-di-kharg-snodo-chiave-per-export-greggio/",
+        "https://www.repubblica.it/esteri/2026/03/14/news/isola_kharg_attacco_usa_petrolio_iran-425221102/"
       ]
     },
     {
       "rank": 3,
+      "title": "Medio Oriente: Attacco con drone contro l'ambasciata Usa a Baghdad, fumo nero sul complesso nel cuore della capitale irachena",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "corriere.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/14/medio-oriente-macron-israele-accetti-colloquicon-beirut-a-parigi.-katz-verso_34aa2d34-60a8-4f55-b0b8-7703636d6624.html",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/03/14/drone-contro-lambasciata-usa-a-baghdad-fumo-e-detriti-nel-complesso-diplomatico_f598c7c8-7bec-4968-b3b5-ea30244e752c.html",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/14/guerra-iran-israele-news-live-oggi/8324119/",
+        "https://www.liberoquotidiano.it/video/libero-video/46801936/baghdad-missile-colpisce-eliporto-ambasciata-usa/",
+        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-14-marzo-2026/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Nave russa carica di gas alla deriva Rischio disastro, Roma in allarme",
       "source_count": 7,
       "article_count": 7,
@@ -72,28 +95,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Medio Oriente: Attacco con drone contro l'ambasciata Usa a Baghdad, fumo nero sul complesso nel cuore della capitale irachena",
+      "rank": 5,
+      "title": "Epstein, l'ex principe Andrea e Mandelson: dai Files spunta una foto tutti assieme",
       "source_count": 6,
       "article_count": 7,
       "source_domains": [
-        "ansa.it",
+        "ilgiornale.it",
         "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
+        "ansa.it",
         "fanpage.it",
-        "adnkronos.com",
-        "corriere.it"
+        "corriere.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/videogallery/mondo/2026/03/14/drone-contro-lambasciata-usa-a-baghdad-fumo-e-detriti-nel-complesso-diplomatico_f598c7c8-7bec-4968-b3b5-ea30244e752c.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/14/guerra-iran-israele-news-live-oggi/8324119/",
-        "https://www.liberoquotidiano.it/video/libero-video/46801936/baghdad-missile-colpisce-eliporto-ambasciata-usa/",
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-14-marzo-2026/",
-        "https://www.adnkronos.com/internazionale/esteri/guerra-iran-usa-israele-news-oggi-14-marzo_6aP8A09JNVepoN9UdPHxCE"
+        "https://www.ilgiornale.it/news/politica/epstein-andrea-e-mandelson-foto-tre-inguaia-starmer-2638282.html",
+        "https://www.ilfattoquotidiano.it/2026/03/13/epstein-files-foto-andrea-mandelson-news/8323855/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/13/spunta-unaltra-foto-imbarazzante-andrea-e-mandelson-in-accappatoio-con-epstein_ca1d9c99-4c28-46b5-98f7-33fe87d47ff8.html",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/caso-epstein-spunta-foto-andrea-e-mandelson-accappatoio-2638235.html",
+        "https://www.fanpage.it/esteri/epstein-files-spunta-una-foto-del-principe-andrea-con-lex-ambasciatore-negli-usa-peter-mandelson/"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Banksy svelato: la vera identità dell'artista ricostruita in un ricerca Reuters",
       "source_count": 6,
       "article_count": 6,
@@ -114,10 +137,70 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Ft: 'Francia e Italia cercano accordo con Iran per le navi a Hormuz'",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilgiornale.it",
+        "corriere.it",
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/ue-spiazzata-washington-giallo-sui-contatti-liran-2638277.html",
+        "https://www.corriere.it/esteri/26_marzo_14/stretto-hormuz-italia-trattative-6a71c7e3-b382-4297-a921-c6edbdbcbxlk.shtml",
+        "https://www.corriere.it/esteri/26_marzo_14/stretto-hormuz-italia-trattative-6a71c7e3-b382-4297-a921-c6edbdbcbxlk.shtml",
+        "https://www.repubblica.it/esteri/2026/03/14/news/italia_francia_trattano_immunita_stretto_hormuz_smentite_dialogo-425220614/",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/14/ft-francia-e-italia-cercano-accordo-con-iran-per-le-navi-a-hormuz_984c5ab2-9096-4d5d-a70a-9a8fd92c7750.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Usa autorizzano acquisto petrolio russo, Commissione Ue: Nostre sanzioni restano valide",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilgiornale.it",
+        "repubblica.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica-estera/trump-sblocca-petrolio-russo-e-navi-forzino-su-hormuz-mosca-2638363.html",
+        "https://www.repubblica.it/esteri/2026/03/14/news/petrolio_scontro_usa_ue_deroga_sanzioni_zelensky_aiuto_russia-425220638/",
+        "https://www.corriere.it/economia/finanza/26_marzo_13/petrolio-russo-europa-contro-trump-sanzioni-1c108309-7995-4e10-a6a4-f44e0c117xlk.shtml",
+        "https://www.ilmessaggero.it/mondo/petrolio_russo_stati_uniti_putin-9414396.html",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46796246/usa-autorizzano-acquisto-petrolio-russo-commissione-ue-nostre-sanzioni-restano-valide/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Iran, Consiglio Supremo: “Italia non prenderà parte alla guerra. Rischi di iniziative terroristiche”",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilgiornale.it",
+        "laverita.info",
+        "ansa.it",
+        "roma.corriere.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/litalia-mai-guerra-ok-2638280.html",
+        "https://www.laverita.info/italia-non-partecipa-guerra-iran-2676102447.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/13/il-consiglio-supremo-di-difesa-grave-preoccupazione-per-lo-scenario-di-crisi-in-medio-oriente_948491b7-f380-4ae9-bc61-e96c130970c6.html",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_13/mattarella-consiglio-supremo-difesa-italia-no-guerra-iran-c6dc9f74-b47c-4d68-94f9-ed83b8bd6xlk.shtml",
+        "https://www.ilgiornale.it/news/politica-internazionale/iran-consiglio-supremo-italia-non-prender-parte-guerra-2638098.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Milano Cortina: Italia record assoluto alle Paralimpiadi con 14 podi",
       "source_count": 4,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
         "repubblica.it",
@@ -130,86 +213,6 @@
         "https://www.laverita.info/italia-record-paralimpiadi-milano-cortina-2676101134.html",
         "https://www.ansa.it/sito/notizie/sport/altrisport/speciali/paralimpiadi-milano_cortina_2026/2026/03/13/milano-cortina-pioggia-di-medaglie-per-litalia-con-14-podi-battuto-il-record_4f12daf3-e9b1-42a2-928b-a240e135d663.html",
         "https://www.repubblica.it/sport/dossier/paralimpiadi/2026/03/13/news/medaglie_italia_paralimpiadi_invernali_2026-425219860/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Petrolio russo, l’Europa contro Trump: «Mossa sbagliata, non è il momento di ridurre le sanzioni su Mosca»",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "corriere.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/03/14/news/petrolio_scontro_usa_ue_deroga_sanzioni_zelensky_aiuto_russia-425220638/",
-        "https://ilmanifesto.it/europa-presa-alla-sprovvista-nostra-sicurezza-a-rischio",
-        "https://www.lastampa.it/economia/2026/03/14/news/scontro_sul_petrolio_russo_trump_revoca_le_sanzioni_l_europa_un_grave_errore-15544269/",
-        "https://www.corriere.it/economia/finanza/26_marzo_13/petrolio-russo-europa-contro-trump-sanzioni-1c108309-7995-4e10-a6a4-f44e0c117xlk.shtml",
-        "https://www.liberoquotidiano.it/video/video-news-by-vista/46796246/usa-autorizzano-acquisto-petrolio-russo-commissione-ue-nostre-sanzioni-restano-valide/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Iran, Consiglio Supremo: “Italia non prenderà parte alla guerra. Rischi di iniziative terroristiche”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "laverita.info",
-        "ansa.it",
-        "roma.corriere.it",
-        "ilgiornale.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/italia-non-partecipa-guerra-iran-2676102447.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/13/il-consiglio-supremo-di-difesa-grave-preoccupazione-per-lo-scenario-di-crisi-in-medio-oriente_948491b7-f380-4ae9-bc61-e96c130970c6.html",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_13/mattarella-consiglio-supremo-difesa-italia-no-guerra-iran-c6dc9f74-b47c-4d68-94f9-ed83b8bd6xlk.shtml",
-        "https://www.ilgiornale.it/news/politica-internazionale/iran-consiglio-supremo-italia-non-prender-parte-guerra-2638098.html",
-        "https://www.ilsole24ore.com/art/consiglio-difesa-si-all-uso-basi-italia-rispetto-accordi-internazionali-AISF3KwB"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Epstein, l'ex principe Andrea e Mandelson: dai Files spunta una foto tutti assieme",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/13/epstein-files-foto-andrea-mandelson-news/8323855/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/13/spunta-unaltra-foto-imbarazzante-andrea-e-mandelson-in-accappatoio-con-epstein_ca1d9c99-4c28-46b5-98f7-33fe87d47ff8.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/caso-epstein-spunta-foto-andrea-e-mandelson-accappatoio-2638235.html",
-        "https://www.corriere.it/esteri/26_marzo_13/jeffrey-epstein-principe-andrea-mandelson-prima-foto-2be57999-29ac-481a-b369-d78985992xlk.shtml",
-        "https://www.lastampa.it/esteri/2026/03/13/news/epstein_andrea_mandelson_files_foto_assieme-15543945/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "La difesa di Chiara Petrolini: “Non sono una madre che uccide i figli”. L’accusa chiede 26 anni",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "lastampa.it",
-        "ansa.it",
-        "corrieredibologna.corriere.it",
-        "ilgiornale.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/cronaca/2026/03/14/news/la_difesa_di_chiara_petrolini_non_sono_una_madre_che_uccide_i_figli_l_accusa_chiede_26_anni-15544249/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/13/neonati-sepolti-la-procura-chiede-26-anni-per-chiara-petrolini_710eecac-db67-4eb4-84e0-25b95a5c263a.html",
-        "http://corrieredibologna.corriere.it/notizie/cronaca/26_marzo_13/chiara-petrolini-figli-neonati-traversetolo-0495da7a-30a2-4553-8bc0-eda6434adxlk.shtml",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/lacrime-chiara-petrolini-nessuno-pu-capire-vuoto-che-provo-2638074.html",
-        "https://www.agi.it/cronaca/news/2026-03-13/neonati-morti-sepolti-processo-petrolini-36089468/"
       ]
     }
   ]
