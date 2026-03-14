@@ -1,29 +1,29 @@
 {
   "date": "2026-03-14",
-  "generated_at": "Sat 14 Mar 19:34",
+  "generated_at": "Sat 14 Mar 20:37",
   "stories": [
     {
       "rank": 1,
       "title": "Formula 1, pole record di Antonelli in Cina davanti a Russell e Leclerc",
       "source_count": 9,
-      "article_count": 27,
+      "article_count": 28,
       "source_domains": [
+        "adnkronos.com",
         "fanpage.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
         "lastampa.it",
         "corriere.it",
-        "adnkronos.com",
         "ansa.it",
         "ilgiornale.it",
         "liberoquotidiano.it"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/formula-1-gp-cina-domani-orario-griglia-partenza-dove-vederlo-tv-streaming_5YuOEa2Akm1uuRK4kBlHnO",
         "https://www.fanpage.it/sport/motori/leclerc-accusa-hamilton-manovre-aggressive-nella-sprint-al-gp-cina-il-team-radio-svela-la-tensione/",
         "https://www.repubblica.it/sport/formulauno/2026/03/14/news/antonelli_predestinato_record_formula_1-425221622/",
         "https://www.ilfattoquotidiano.it/2026/03/14/antonelli-pole-position-f1-record-storia/8324226/",
-        "https://www.ilfattoquotidiano.it/2026/03/14/formula1-antonelli-pole-record-mercedes-ferrari-oggi/8324139/",
-        "https://www.fanpage.it/sport/motori/kimi-antonelli-fa-la-storia-della-f1-poi-subito-il-tenero-abbraccio-col-papa-e-con-hamilton/"
+        "https://www.ilfattoquotidiano.it/2026/03/14/formula1-antonelli-pole-record-mercedes-ferrari-oggi/8324139/"
       ]
     },
     {
@@ -77,6 +77,31 @@
     },
     {
       "rank": 4,
+      "title": "Il Napoli vince in rimonta contro il Lecce, malore in campo per Banda",
+      "source_count": 10,
+      "article_count": 15,
+      "source_domains": [
+        "ilgiornale.it",
+        "corriere.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/calcio/napoli-stende-lecce-rimonta-i-gol-hojlund-e-politano-malore-2638520.html",
+        "https://www.corriere.it/sport/calcio/serie-a/26_marzo_14/banda-malore-napoli-lecce-38298a8f-87ea-4c3d-b3e6-68187575exlk.shtml",
+        "https://www.repubblica.it/sport/calcio/serie-a/napoli/2026/03/14/news/napoli_vittoria_lecce_spavento_banda-425222000/",
+        "https://www.adnkronos.com/sport/napoli-lecce-banda-si-accascia-terra-malore-cosa-e-successo-come-sta_3x76vhtMWSHoVyueZvyNS0",
+        "https://www.fanpage.it/sport/calcio/malore-per-banda-nel-finale-di-napoli-lecce-crolla-in-campo-trasportato-via-in-ambulanza/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Fiori bianchi e La lontananza di Modugno, a Roma il funerale di Enrica Bonaccorti",
       "source_count": 9,
       "article_count": 14,
@@ -97,27 +122,6 @@
         "https://www.ilgiornale.it/news/personaggi/folla-i-limoni-cielo-renato-zero-laddio-enrica-bonaccorti-2638510.html",
         "https://www.adnkronos.com/cronaca/bonaccorti-i-funerali-a-roma-le-parole-di-renato-zero-la-folla-a-piazza-del-popolo-e-laffetto-degli-amici_3GGh2rFvBycDpnMQBcugli",
         "https://www.ilmessaggero.it/roma/centro_storico/funerali_enrica_bonaccorti_assenza_renato_zero-9415891.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Serie A: Napoli-Lecce in campo 2-1 DIRETTA",
-      "source_count": 6,
-      "article_count": 13,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "corriere.it",
-        "fanpage.it",
-        "lastampa.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/calcio/serie-a/napoli/2026/03/14/news/napoli_vittoria_lecce_spavento_banda-425222000/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/14/serie-a-il-napoli-batte-il-lecce-2-1-_1b3ee642-b784-48bb-b115-39ec16e25c5f.html",
-        "https://www.corriere.it/sport/26_marzo_14/napoli-lecce-risultato-de58ec77-abf1-49c9-8ae7-1ee04985cxlk.shtml",
-        "https://www.fanpage.it/sport/calcio/hojlund-e-politano-ribaltano-il-lecce-napoli-che-fatica-ma-sono-3-punti-doro-per-a-champions/",
-        "https://www.corriere.it"
       ]
     },
     {
