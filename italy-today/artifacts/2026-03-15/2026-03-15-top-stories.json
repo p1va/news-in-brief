@@ -1,37 +1,36 @@
 {
   "date": "2026-03-15",
-  "generated_at": "Sun 15 Mar 17:36",
+  "generated_at": "Sun 15 Mar 18:50",
   "stories": [
     {
       "rank": 1,
       "title": "F1: Kimi Antonelli trionfa in Cina, è il primo italiano da 20 anni",
-      "source_count": 10,
-      "article_count": 26,
+      "source_count": 9,
+      "article_count": 28,
       "source_domains": [
+        "ansa.it",
+        "fanpage.it",
         "corriere.it",
         "adnkronos.com",
-        "fanpage.it",
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "bologna.repubblica.it",
-        "ansa.it",
         "ilgiornale.it",
-        "lastampa.it",
-        "ilmessaggero.it"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/03/15/f1-kimi-antonelli-trionfa-in-cina-ho-realizzato-un-sogno_547b31d6-0d4d-4b67-81ec-5d220bb0db06.html",
+        "https://www.fanpage.it/sport/motori/lo-speaker-sbaglia-il-nome-di-kimi-antonelli-sul-podio-del-gp-cina-annuncia-la-vittoria-di-raikkonen/",
         "https://www.corriere.it/sport/formula-1/cards/pagelle-gp-f1-cina/buongiorno-italia_principale.shtml",
         "https://www.corriere.it/sport/formula-1/26_marzo_15/kimi-antonelli-scambiato-per-kimi-raikkonen-sul-podio-dallo-speaker-cinese-559b6e2a-4d64-49ad-a322-fe0bfcfa1xlk.shtml",
-        "https://www.adnkronos.com/sport/antonelli-gp-cina-video-premiazione-shanghai_6q8K9EeFsZxI7c17Ws81gQ",
-        "https://www.fanpage.it/sport/motori/hamilton-dopo-il-gp-cina-per-la-prima-volta-ho-spiegato-a-mia-mamma-cosa-faccio-era-sbalordita/",
-        "https://www.ilfattoquotidiano.it/2026/03/15/hamilton-ferrari-primo-podio-cina-forza-lavoro-fantastico/8324864/"
+        "https://www.adnkronos.com/sport/antonelli-gp-cina-video-premiazione-shanghai_6q8K9EeFsZxI7c17Ws81gQ"
       ]
     },
     {
       "rank": 2,
       "title": "Sinner conquista per la prima volta la finale a Indian Wells: oggi il match con Medvedev",
       "source_count": 10,
-      "article_count": 19,
+      "article_count": 21,
       "source_domains": [
         "fanpage.it",
         "ilfattoquotidiano.it",
@@ -45,11 +44,11 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.fanpage.it/sport/live/sinner-medvedev-in-diretta-live-in-campo-dalle-22-a-indian-wells-in-palio-ce-il-titolo/",
+        "https://www.fanpage.it/sport/tennis/dua-lipa-assiste-indifferente-alla-sconfitta-di-alcaraz-poi-vuole-incontrare-sinner-a-indian-wells/",
         "https://www.fanpage.it/sport/tennis/medvedev-prima-del-match-con-sinner-ho-davvero-rovinato-la-festa-a-un-sacco-di-gente-me-compreso/",
         "https://www.ilfattoquotidiano.it/2026/03/15/sinner-medvedev-finale-oggi-indian-wells-orario-dove-vedere-tv-streaming/8324909/",
-        "https://www.repubblica.it/sport/tennis/2026/03/15/news/medvedev_fuga_guerra_finale_sinner_indian_wells-425222807/",
-        "https://www.ilgiornale.it/news/tennis/indian-wells-sinner-medvedev-vale-titolo-chi-l-avversario-e-2638646.html",
-        "https://www.ilfattoquotidiano.it/2026/03/15/sinner-indian-wells-finale-medvedev-oggi/8324814/"
+        "https://www.repubblica.it/sport/tennis/2026/03/15/news/medvedev_fuga_guerra_finale_sinner_indian_wells-425222807/"
       ]
     },
     {
@@ -80,23 +79,23 @@
       "rank": 4,
       "title": "Attacco con un drone a una base italiana in Kuwait, nessun ferito. Distrutto un velivolo",
       "source_count": 8,
-      "article_count": 13,
+      "article_count": 16,
       "source_domains": [
+        "adnkronos.com",
         "ilgiornale.it",
         "ansa.it",
-        "ilmessaggero.it",
         "repubblica.it",
+        "ilmessaggero.it",
         "lastampa.it",
-        "adnkronos.com",
         "roma.corriere.it",
         "liberoquotidiano.it"
       ],
       "links": [
+        "https://www.adnkronos.com/internazionale/esteri/attacco-base-kuwait-distrutto-mq-9a-predator_38iB1fD2YrqqlnqComxGNW",
         "https://www.ilgiornale.it/news/difesa/cos-predator-drone-italiano-anti-isis-35-milioni-colpito-2638778.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/03/15/drone-colpisce-una-base-italiana-in-kuwait-distrutto-un-velivolo.-resta-solo_57ae8dae-30c3-4376-8341-e7bab885c020.html",
-        "https://www.ilmessaggero.it/mondo/drone_predator_distrutto_attacco_base_italiana_kuwait-9417605.html",
-        "https://www.repubblica.it/esteri/2026/03/15/news/drone_base_italiana_kuwait_iran-425223286/",
-        "https://www.lastampa.it/esteri/2026/03/15/news/ali_al_salem_la_base_italiana_colpita_in_kuwait_quanti_sono_i_militari_e_perche_e_strategica-15545962/"
+        "https://www.repubblica.it/esteri/2026/03/15/news/base_italiana_kuwait_italiani_attacco_drone_iran-425223379/",
+        "https://www.ilmessaggero.it/mondo/drone_predator_distrutto_attacco_base_italiana_kuwait-9417605.html"
       ]
     },
     {
@@ -147,46 +146,25 @@
     },
     {
       "rank": 7,
-      "title": "Il mondo oscuro di Thiel, l'imprenditore amico di Trump | A Roma «darà lezioni sull'Anticristo»",
-      "source_count": 6,
-      "article_count": 9,
+      "title": "Serie A, oggi Como-Roma - La partita in diretta",
+      "source_count": 4,
+      "article_count": 12,
       "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
         "fanpage.it",
-        "roma.repubblica.it",
-        "corriere.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "corriere.it"
       ],
       "links": [
-        "https://www.fanpage.it/innovazione/tecnologia/il-volto-dellanticristo-secondo-peter-thiel-cosa-rivelano-le-lezioni-segrete-del-profeta-tech-a-roma/",
-        "https://roma.repubblica.it/cronaca/2026/03/15/news/peter_thiel_striscione_colosseo_satana_folgore-425222988/",
-        "https://www.corriere.it/politica/26_marzo_15/thiel-cento-ospiti-selezionati-i-segreti-della-tappa-romana-890a9b70-9ae5-4d18-b043-51bcfe193xlk.shtml",
-        "https://www.repubblica.it/economia/2026/03/15/news/peter_thiel_anticristo_roma_cena_messa_seminario-425222270/",
-        "https://www.corriere.it/esteri/26_marzo_14/il-mondo-oscuro-di-peter-thiel-dall-anticristo-alla-modernita-stagnante-tutte-le-ossessioni-dell-imprenditore-amico-di-trump-b4797bc4-fbb1-433e-9bf0-f60974da5xlk.shtml"
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/15/serie-a-como-roma-in-campo-1-1-diretta_a9756de0-7e55-4ec8-828a-eaf415bc9cbc.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/15/serie-a-como-roma-in-campo-0-1-diretta_a9756de0-7e55-4ec8-828a-eaf415bc9cbc.html",
+        "https://www.adnkronos.com/sport/lazio-milan-oggi-serie-a-orario-probabili-formazioni-dove-vederla-tv-streaming_74bqkzvg3AQWoZXAU6CMBO",
+        "https://www.fanpage.it/sport/live/lazio-milan-live-risultato-in-diretta-della-partita-di-serie-a-a-che-ora-e-su-quale-canale-vederla-in-tv-attese-le-formazioni-ufficiali/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/15/serie-a-como-roma-in-campo-alle-18-diretta_a9756de0-7e55-4ec8-828a-eaf415bc9cbc.html"
       ]
     },
     {
       "rank": 8,
-      "title": "Serie A, oggi Como-Roma - La partita in diretta",
-      "source_count": 4,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "corriere.it",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/15/serie-a-como-roma-in-campo-0-1-diretta_a9756de0-7e55-4ec8-828a-eaf415bc9cbc.html",
-        "https://www.adnkronos.com/sport/lazio-milan-oggi-serie-a-orario-probabili-formazioni-dove-vederla-tv-streaming_74bqkzvg3AQWoZXAU6CMBO",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/15/serie-a-como-roma-in-campo-alle-18-diretta_a9756de0-7e55-4ec8-828a-eaf415bc9cbc.html",
-        "https://www.corriere.it/sport/calcio/serie-a/partita/como-roma/2558788/",
-        "https://www.adnkronos.com/sport/diretta-como-roma-oggi-serie-a-live-risultato-aggiornamenti_7G6wGMNtTa0H3S3XRUQWCo"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "L'emozione di Kimi Antonelli: «Incredibile, ho raggiunto uno dei miei più grandi sogni»",
       "source_count": 5,
       "article_count": 9,
@@ -206,18 +184,37 @@
       ]
     },
     {
+      "rank": 9,
+      "title": "Il mondo oscuro di Thiel, l'imprenditore amico di Trump | A Roma «darà lezioni sull'Anticristo»",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "fanpage.it",
+        "roma.repubblica.it",
+        "corriere.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/roma/flash-mob-contro-peter-thiel-a-roma-i-manifestanti-complice-del-genocidio-a-gaza-e-delle-guerre/",
+        "https://www.fanpage.it/innovazione/tecnologia/il-volto-dellanticristo-secondo-peter-thiel-cosa-rivelano-le-lezioni-segrete-del-profeta-tech-a-roma/",
+        "https://roma.repubblica.it/cronaca/2026/03/15/news/peter_thiel_striscione_colosseo_satana_folgore-425222988/",
+        "https://www.corriere.it/politica/26_marzo_15/thiel-cento-ospiti-selezionati-i-segreti-della-tappa-romana-890a9b70-9ae5-4d18-b043-51bcfe193xlk.shtml",
+        "https://www.repubblica.it/economia/2026/03/15/news/peter_thiel_anticristo_roma_cena_messa_seminario-425222270/"
+      ]
+    },
+    {
       "rank": 10,
       "title": "Iran, petrolio 'ostaggio' dello Stretto di Hormuz: ecco perché il piano B non c'è",
-      "source_count": 7,
-      "article_count": 7,
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
         "repubblica.it",
         "ilgiornale.it",
         "fanpage.it",
         "laverita.info",
         "adnkronos.com",
-        "lastampa.it",
-        "news.google.com"
+        "lastampa.it"
       ],
       "links": [
         "https://www.repubblica.it/economia/2026/03/15/news/perche_bazooka_non_frena_prezzi_petrolio_stretto_hormuz-425223064/",
