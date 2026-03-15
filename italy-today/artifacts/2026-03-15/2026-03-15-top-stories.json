@@ -1,30 +1,31 @@
 {
   "date": "2026-03-15",
-  "generated_at": "Sun 15 Mar 10:38",
+  "generated_at": "Sun 15 Mar 11:33",
   "stories": [
     {
       "rank": 1,
       "title": "F1: Kimi Antonelli trionfa in Cina, è il primo italiano da 20 anni",
-      "source_count": 10,
-      "article_count": 22,
+      "source_count": 11,
+      "article_count": 25,
       "source_domains": [
         "ilfattoquotidiano.it",
+        "bologna.repubblica.it",
         "ansa.it",
         "ilgiornale.it",
         "fanpage.it",
         "adnkronos.com",
         "liberoquotidiano.it",
         "lastampa.it",
-        "repubblica.it",
         "corriere.it",
-        "ilmessaggero.it"
+        "ilmessaggero.it",
+        "news.google.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/15/hamilton-ferrari-primo-podio-cina-forza-lavoro-fantastico/8324864/",
+        "https://bologna.repubblica.it/sport/2026/03/15/news/antonelli_vittoria_gp_mamma_festa-425222887/",
         "https://www.ilfattoquotidiano.it/2026/03/15/antonelli-vittoria-formula-1-cina-lo-avevo-promesso-allitalia-ma-nel-finale-mi-sono-cagato-addosso/8324882/",
         "https://www.ansa.it/sito/videogallery/sport/2026/03/15/formula-1-in-cina-trionfa-kimi-antonelli-il-primo-italiano-da-20-anni_415d03ee-213d-4189-a00d-db12ea1625d6.html",
-        "https://www.ilgiornale.it/news/motori/lacrime-kimi-l-avevo-promesso-all-italia-hamilton-duello-2638653.html",
-        "https://www.fanpage.it/sport/motori/kimi-antonelli-piange-per-la-prima-vittoria-f1-nel-retropodio-confessa-me-la-stavo-facendo-sotto/",
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/03/15/f1-kimi-antonelli-trionfa-in-cina-e-il-primo-italiano-da-20-anni_547b31d6-0d4d-4b67-81ec-5d220bb0db06.html"
+        "https://www.ilgiornale.it/news/motori/lacrime-kimi-l-avevo-promesso-all-italia-hamilton-duello-2638653.html"
       ]
     },
     {
@@ -54,6 +55,29 @@
     },
     {
       "rank": 3,
+      "title": "Medio Oriente, Trump colpisce Kharg: 'Ora altri Paesi mandino navi a Hormuz'",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "laverita.info",
+        "corriere.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/trump-90-bombe-su-kharg-coalizione-liberare-hormuz-2638550.html",
+        "https://www.laverita.info/iran-trump-alleati-mandate-navi-2676141039.html",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_15/guerra-in-iran-le-ultime-notizie-in-diretta-trump-altri-paesi-inviino-navi-per-sicurezza-stretto-di-hormuz-la-replica-di-aragchi.shtml",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/14/medio-oriente-trump-colpisce-kharg-ora-altri-paesi-inviino-navi_c02bd9ae-d6cb-4b8f-807a-4550fa630008.html",
+        "https://www.repubblica.it/esteri/2026/03/15/news/trump_pressa_gli_alleati_mandate_le_navi_a_hormuz_raid_usa_sull_isola_iraniana_di_kharg-425222334/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Oscar 2026: candidature, previsioni, dove vederli in Italia, tutto quello che c'è da sapere",
       "source_count": 7,
       "article_count": 11,
@@ -72,29 +96,6 @@
         "https://www.ilfattoquotidiano.it/2026/03/15/oscar-2026-dove-vedere-cerimonia-diretta-italia-orario-tv-streaming/8324803/",
         "https://www.repubblica.it/spettacoli/dossier/oscar/2026/03/15/news/oscar_2026_candidati_film_attori_registi-425222623/",
         "https://www.corriere.it/spettacoli/oscar/26_marzo_15/oscar-2026-previsioni-mereghetti-chi-vince-e0056986-8acf-4574-ada6-cc1fe0b28xlk.shtml"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Medio Oriente, Trump colpisce Kharg: 'Ora altri Paesi mandino navi a Hormuz'",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "laverita.info",
-        "corriere.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.laverita.info/iran-trump-alleati-mandate-navi-2676141039.html",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_15/guerra-in-iran-le-ultime-notizie-in-diretta-trump-altri-paesi-inviino-navi-per-sicurezza-stretto-di-hormuz-la-replica-di-aragchi.shtml",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/14/medio-oriente-trump-colpisce-kharg-ora-altri-paesi-inviino-navi_c02bd9ae-d6cb-4b8f-807a-4550fa630008.html",
-        "https://www.repubblica.it/esteri/2026/03/15/news/trump_pressa_gli_alleati_mandate_le_navi_a_hormuz_raid_usa_sull_isola_iraniana_di_kharg-425222334/",
-        "https://www.corriere.it/esteri/26_marzo_14/trump-appello-per-lo-stretto-di-hormuz-ai-paesi-alleati-inviate-le-vostre-navi-e9521fcb-7116-4350-84e9-4d0931209xlk.shtml"
       ]
     },
     {
@@ -142,26 +143,6 @@
     },
     {
       "rank": 7,
-      "title": "A Shanghai Antonelli nella storia a 19 anni e mezzo: è il più giovane poleman di sempre",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "corrieredibologna.corriere.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "http://corrieredibologna.corriere.it/sport/cards/chi-e-andrea-kimi-antonelli-pilota/andrea-kimi-antonelli-chi-e-il-fenomeno-della-formula-1_principale.shtml",
-        "https://www.corriere.it/sport/formula-1/26_marzo_15/i-10-segreti-di-kimi-antonelli-fb2a98fb-46d9-4af7-891f-23674e28fxlk.shtml",
-        "https://www.ilgiornale.it/news/motori/chi-andrea-kimi-antonelli-sinner-formula-1-italiana-2453076.html",
-        "https://www.ilmessaggero.it/blog/milleruote/kimi_antonelli_entra_nella_leggenda_a_19_anni_e_mezzo_e_il_pilota_piu_giovane_di_tutti_i_tempi_a_conquistare_una_pole_position-9417309.html",
-        "https://www.ilgiornale.it/news/sport/shanghai-antonelli-nella-storia-19-anni-e-mezzo-pi-giovane-2638572.html"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Il mondo oscuro di Thiel, l'imprenditore amico di Trump | A Roma «darà lezioni sull'Anticristo»",
       "source_count": 5,
       "article_count": 7,
@@ -181,24 +162,43 @@
       ]
     },
     {
+      "rank": 8,
+      "title": "Chi è Andrea Kimi Antonelli, il Sinner della Formula 1 italiana",
+      "source_count": 4,
+      "article_count": 8,
+      "source_domains": [
+        "ilmessaggero.it",
+        "corrieredibologna.corriere.it",
+        "ilgiornale.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/formula1/antonelli_eta_kimi_nome_perche_f1-9417436.html",
+        "http://corrieredibologna.corriere.it/sport/cards/chi-e-andrea-kimi-antonelli-pilota/andrea-kimi-antonelli-chi-e-il-fenomeno-della-formula-1_principale.shtml",
+        "https://www.corriere.it/sport/formula-1/26_marzo_15/i-10-segreti-di-kimi-antonelli-fb2a98fb-46d9-4af7-891f-23674e28fxlk.shtml",
+        "https://www.ilgiornale.it/news/motori/chi-andrea-kimi-antonelli-sinner-formula-1-italiana-2453076.html",
+        "https://www.ilmessaggero.it/blog/milleruote/kimi_antonelli_entra_nella_leggenda_a_19_anni_e_mezzo_e_il_pilota_piu_giovane_di_tutti_i_tempi_a_conquistare_una_pole_position-9417309.html"
+      ]
+    },
+    {
       "rank": 9,
-      "title": "Dal conflitto alle bollette: il costo della guerra sulle tasche degli italiani",
+      "title": "Iran, petrolio 'ostaggio' dello Stretto di Hormuz: ecco perché il piano B non c'è",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
-        "fanpage.it",
-        "repubblica.it",
-        "ansa.it",
         "ilgiornale.it",
-        "corriere.it",
-        "ilsole24ore.com"
+        "fanpage.it",
+        "laverita.info",
+        "adnkronos.com",
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.fanpage.it/politica/guerra-in-iran-e-caro-energia-bollette-fino-a-350-euro-per-le-famiglie-italiane/",
-        "https://www.repubblica.it/economia/2026/03/15/news/guerra_iran_aumenti_bollette_mutui_verdura-425222300/",
-        "https://www.ansa.it/sito/notizie/economia/2026/03/14/pressing-sul-governo-per-i-rincari-al-lavoro-sulle-misure_b7bb6868-4aed-48ae-a1ee-273bab2745f3.html",
-        "https://www.ilgiornale.it/news/cittadini/conflitto-bollette-costo-guerra-sulle-tasche-degli-italiani-2638466.html",
-        "https://www.corriere.it/economia/consumi/26_marzo_14/carburanti-la-crisi-spinge-i-prezzi-16-5-milioni-al-giorno-in-piu-per-gli-automobilisti-60b93ae3-165c-4f51-bb6e-c8aaf4314xlk.shtml"
+        "https://www.ilgiornale.it/news/politica/arriva-tempesta-perfetta-rischio-petrolio-150-dollari-negli-2638555.html",
+        "https://www.fanpage.it/esteri/perche-liran-puo-mettere-in-ginocchio-i-mercati-energetici-mondiali-e-cosa-centra-anche-litalia/",
+        "https://www.laverita.info/mai-dire-blackout-checkpoint-hormuz-2676100077.html",
+        "https://www.adnkronos.com/internazionale/esteri/stretto-hormuz-petrolio-golfo-passaggio_3Gbh3uam6DryzcuN860Rpm",
+        "https://www.lastampa.it/economia/2026/03/15/news/crisi_medio_oriente_caos_globale_mercato_petrolio-15545247/"
       ]
     },
     {
