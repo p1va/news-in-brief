@@ -1,24 +1,23 @@
 {
   "date": "2026-03-15",
-  "generated_at": "Sun 15 Mar 16:40",
+  "generated_at": "Sun 15 Mar 17:36",
   "stories": [
     {
       "rank": 1,
       "title": "F1: Kimi Antonelli trionfa in Cina, è il primo italiano da 20 anni",
-      "source_count": 11,
-      "article_count": 25,
+      "source_count": 10,
+      "article_count": 26,
       "source_domains": [
         "corriere.it",
         "adnkronos.com",
         "fanpage.it",
         "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "bologna.repubblica.it",
         "ansa.it",
         "ilgiornale.it",
         "lastampa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "news.google.com"
+        "ilmessaggero.it"
       ],
       "links": [
         "https://www.corriere.it/sport/formula-1/cards/pagelle-gp-f1-cina/buongiorno-italia_principale.shtml",
@@ -79,6 +78,29 @@
     },
     {
       "rank": 4,
+      "title": "Attacco con un drone a una base italiana in Kuwait, nessun ferito. Distrutto un velivolo",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "roma.corriere.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/difesa/cos-predator-drone-italiano-anti-isis-35-milioni-colpito-2638778.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/15/drone-colpisce-una-base-italiana-in-kuwait-distrutto-un-velivolo.-resta-solo_57ae8dae-30c3-4376-8341-e7bab885c020.html",
+        "https://www.ilmessaggero.it/mondo/drone_predator_distrutto_attacco_base_italiana_kuwait-9417605.html",
+        "https://www.repubblica.it/esteri/2026/03/15/news/drone_base_italiana_kuwait_iran-425223286/",
+        "https://www.lastampa.it/esteri/2026/03/15/news/ali_al_salem_la_base_italiana_colpita_in_kuwait_quanti_sono_i_militari_e_perche_e_strategica-15545962/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Medio Oriente, Trump colpisce Kharg: 'Ora altri Paesi mandino navi a Hormuz'",
       "source_count": 8,
       "article_count": 12,
@@ -101,7 +123,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "La Juve batte l’Udinese e s’arrampica in zona Champions in attesa di Como-Roma",
       "source_count": 8,
       "article_count": 11,
@@ -124,7 +146,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Il mondo oscuro di Thiel, l'imprenditore amico di Trump | A Roma «darà lezioni sull'Anticristo»",
       "source_count": 6,
       "article_count": 9,
@@ -145,28 +167,46 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Attacco con un drone a una base italiana in Kuwait, nessun ferito. Distrutto un velivolo",
-      "source_count": 6,
-      "article_count": 9,
+      "rank": 8,
+      "title": "Serie A, oggi Como-Roma - La partita in diretta",
+      "source_count": 4,
+      "article_count": 10,
       "source_domains": [
-        "ilmessaggero.it",
         "ansa.it",
-        "ilgiornale.it",
         "adnkronos.com",
-        "roma.corriere.it",
-        "liberoquotidiano.it"
+        "corriere.it",
+        "fanpage.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/mondo/drone_predator_distrutto_attacco_base_italiana_kuwait-9417605.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/15/drone-colpisce-una-base-italiana-in-kuwait-distrutto-un-velivolo.-tajani-le-missioni_57ae8dae-30c3-4376-8341-e7bab885c020.html",
-        "https://www.ilgiornale.it/news/guerra/drone-contro-shelter-poi-lesplosione-cos-liran-ha-preso-mira-2638756.html",
-        "https://www.adnkronos.com/internazionale/esteri/iran-attacco-base-italiani-ali-al-salem-kuwait_12TFfYjZnhUE7VVmdWmkRy",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/15/attacco-con-un-drone-a-una-base-italiana-in-kuwait-nessun-ferito.-distrutto_57ae8dae-30c3-4376-8341-e7bab885c020.html"
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/15/serie-a-como-roma-in-campo-0-1-diretta_a9756de0-7e55-4ec8-828a-eaf415bc9cbc.html",
+        "https://www.adnkronos.com/sport/lazio-milan-oggi-serie-a-orario-probabili-formazioni-dove-vederla-tv-streaming_74bqkzvg3AQWoZXAU6CMBO",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/15/serie-a-como-roma-in-campo-alle-18-diretta_a9756de0-7e55-4ec8-828a-eaf415bc9cbc.html",
+        "https://www.corriere.it/sport/calcio/serie-a/partita/como-roma/2558788/",
+        "https://www.adnkronos.com/sport/diretta-como-roma-oggi-serie-a-live-risultato-aggiornamenti_7G6wGMNtTa0H3S3XRUQWCo"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "L'emozione di Kimi Antonelli: «Incredibile, ho raggiunto uno dei miei più grandi sogni»",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "video.corriere.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://video.corriere.it/sport/kimi-antonelli-primo-al-gp-di-shanghai-e-incredibile-ho-raggiunto-uno-dei-miei-piu-grandi-sogni-/e5b4f39e-b233-480e-906d-7f6495b94xlk",
+        "https://www.ilmessaggero.it/sport/formula1/antonelli_eta_kimi_nome_perche_f1-9417436.html",
+        "http://corrieredibologna.corriere.it/sport/cards/chi-e-andrea-kimi-antonelli-pilota/andrea-kimi-antonelli-chi-e-il-fenomeno-della-formula-1_principale.shtml",
+        "https://www.corriere.it/sport/formula-1/26_marzo_15/i-10-segreti-di-kimi-antonelli-fb2a98fb-46d9-4af7-891f-23674e28fxlk.shtml",
+        "https://www.ilgiornale.it/news/motori/chi-andrea-kimi-antonelli-sinner-formula-1-italiana-2453076.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Iran, petrolio 'ostaggio' dello Stretto di Hormuz: ecco perché il piano B non c'è",
       "source_count": 7,
       "article_count": 7,
@@ -185,44 +225,6 @@
         "https://www.fanpage.it/esteri/perche-liran-puo-mettere-in-ginocchio-i-mercati-energetici-mondiali-e-cosa-centra-anche-litalia/",
         "https://www.laverita.info/mai-dire-blackout-checkpoint-hormuz-2676100077.html",
         "https://www.adnkronos.com/internazionale/esteri/stretto-hormuz-petrolio-golfo-passaggio_3Gbh3uam6DryzcuN860Rpm"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Serie A, oggi Como-Roma - La partita in diretta",
-      "source_count": 4,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "corriere.it",
-        "adnkronos.com",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/15/serie-a-como-roma-in-campo-alle-18-diretta_a9756de0-7e55-4ec8-828a-eaf415bc9cbc.html",
-        "https://www.corriere.it/sport/calcio/serie-a/partita/como-roma/2558788/",
-        "https://www.adnkronos.com/sport/diretta-como-roma-oggi-serie-a-live-risultato-aggiornamenti_7G6wGMNtTa0H3S3XRUQWCo",
-        "https://www.fanpage.it/sport/live/como-roma-live-risultato-in-diretta-della-partita-di-serie-a-a-che-ora-e-su-quale-canale-vederla-in-tv-attese-le-formazioni-ufficiali/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/15/serie-a-sassuolo-bologna-in-campo-alle-15-diretta_a0d1b687-e20f-4fe7-8073-ea448284c4d6.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Chi è Andrea Kimi Antonelli, il Sinner della Formula 1 italiana",
-      "source_count": 4,
-      "article_count": 8,
-      "source_domains": [
-        "ilmessaggero.it",
-        "corrieredibologna.corriere.it",
-        "ilgiornale.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/formula1/antonelli_eta_kimi_nome_perche_f1-9417436.html",
-        "http://corrieredibologna.corriere.it/sport/cards/chi-e-andrea-kimi-antonelli-pilota/andrea-kimi-antonelli-chi-e-il-fenomeno-della-formula-1_principale.shtml",
-        "https://www.corriere.it/sport/formula-1/26_marzo_15/i-10-segreti-di-kimi-antonelli-fb2a98fb-46d9-4af7-891f-23674e28fxlk.shtml",
-        "https://www.ilgiornale.it/news/motori/chi-andrea-kimi-antonelli-sinner-formula-1-italiana-2453076.html",
-        "https://www.ilmessaggero.it/blog/milleruote/kimi_antonelli_entra_nella_leggenda_a_19_anni_e_mezzo_e_il_pilota_piu_giovane_di_tutti_i_tempi_a_conquistare_una_pole_position-9417309.html"
       ]
     }
   ]
