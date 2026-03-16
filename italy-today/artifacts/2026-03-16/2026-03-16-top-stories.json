@@ -1,6 +1,6 @@
 {
   "date": "2026-03-16",
-  "generated_at": "Mon 16 Mar 19:18",
+  "generated_at": "Mon 16 Mar 20:47",
   "stories": [
     {
       "rank": 1,
@@ -104,29 +104,6 @@
     },
     {
       "rank": 5,
-      "title": "Trump insiste su una coalizione per scortare le navi nello stretto di Hormuz",
-      "source_count": 8,
-      "article_count": 14,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/video/tv-news/46838289/iran-trump-alcuni-alleati-non-entusiasti-di-proteggere-hormuz/",
-        "https://www.liberoquotidiano.it/video/tv-news/46838177/trump-risposta-francia-su-hormuz-non-e-perfetta-ma-e-la-francia-/",
-        "https://www.corriere.it/oriente-occidente-federico-rampini/26_marzo_16/america-liberare-hormuz-e6d51178-f9a4-49c6-8f7c-37f757e81xlk.shtml",
-        "https://www.ilgiornale.it/news/affari-doro/petrolio-sette-cose-sapere-sulla-crisi-golfo-2639106.html",
-        "https://www.ilmessaggero.it/mondo/stretto_hormuz_nato_modello_mar_nero_cosa_succede-9419329.html"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Bebe Vio: 'Lascio la scherma, farò i 100 metri'",
       "source_count": 9,
       "article_count": 12,
@@ -150,7 +127,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Raffaella Carrà, spunta un figlio adottivo segreto. «È Gian Luca Bulzoni, suo segretario». Ora è anche unico erede",
       "source_count": 10,
       "article_count": 11,
@@ -172,6 +149,29 @@
         "https://www.unita.it/2026/03/16/raffaella-carra-figlio-adottivo-segreto-erede-gian-luca-pelloni-bulzoni/",
         "https://www.liberoquotidiano.it/news/spettacoli/46834453/raffaella-carra-spunta-un-figlio-adottivo-segreto-chi-e-gian-luca-pelloni-bulzoni-unico-erede/",
         "https://www.ilgiornale.it/news/personaggi/raffaella-carr-aveva-figlio-adottivo-segreto-dalle-carte-2639141.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Stretto di Hormuz, le opzioni Usa per proteggere il passaggio delle navi",
+      "source_count": 8,
+      "article_count": 12,
+      "source_domains": [
+        "corriere.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.corriere.it/oriente-occidente-federico-rampini/26_marzo_16/america-liberare-hormuz-e6d51178-f9a4-49c6-8f7c-37f757e81xlk.shtml",
+        "https://www.ilgiornale.it/news/affari-doro/petrolio-sette-cose-sapere-sulla-crisi-golfo-2639106.html",
+        "https://www.ilmessaggero.it/mondo/stretto_hormuz_nato_modello_mar_nero_cosa_succede-9419329.html",
+        "https://www.adnkronos.com/internazionale/esteri/iran-stretto-di-hormuz-nato-consiglio-ue-oggi_55fqQsbm4aUG9X4QM2jXLO",
+        "https://www.ilgiornale.it/news/politica/stretto-hormuz-sotto-assedio-coalizione-non-si-vede-lue-2638820.html"
       ]
     },
     {
