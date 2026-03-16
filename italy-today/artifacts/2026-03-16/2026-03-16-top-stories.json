@@ -1,33 +1,59 @@
 {
   "date": "2026-03-16",
-  "generated_at": "Mon 16 Mar 09:06",
+  "generated_at": "Mon 16 Mar 11:01",
   "stories": [
     {
       "rank": 1,
       "title": "Oscar 2026, tutti i vincitori e le vincitrici: i premi e i film di tutte le categorie",
-      "source_count": 9,
+      "source_count": 11,
       "article_count": 25,
       "source_domains": [
-        "ilmanifesto.it",
-        "ilgiornale.it",
+        "unita.it",
+        "liberoquotidiano.it",
         "ansa.it",
-        "repubblica.it",
         "corriere.it",
-        "ilmessaggero.it",
+        "ilmanifesto.it",
+        "repubblica.it",
+        "ilgiornale.it",
         "lastampa.it",
         "adnkronos.com",
+        "ilmessaggero.it",
         "news.google.com"
       ],
       "links": [
-        "https://ilmanifesto.it/paul-thomas-anderson-sbanca-gli-oscar-6-statuette",
-        "https://www.ilgiornale.it/news/cinema/jimmy-kimmel-no-guerra-bardem-incursioni-politiche-agli-2638955.html",
-        "https://www.ansa.it/sito/photogallery/spettacolo/2026/03/16/tutti-i-look-degli-oscar-2026_3f20fb8a-40eb-4959-ba69-6fb64c7f3f68.html",
-        "https://www.repubblica.it/spettacoli/dossier/oscar/2026/03/16/news/pagelle_oscar_2026-425224221/",
-        "https://www.corriere.it/spettacoli/oscar/26_marzo_16/oscar-serata-senza-scandali-e-con-poca-politica-la-vera-sorpresa-e-la-sconfitta-di-chalamet-e-dicaprio-fdb9fd23-29dc-44f9-8fa7-1dc5c5d0exlk.shtml"
+        "https://www.unita.it/2026/03/16/oscar-2026-battaglia-academy-omaggi-appelli-guerra-usa-anderson/",
+        "https://www.liberoquotidiano.it/video/tv-news/46829194/-una-battaglia-dopo-l-altra-trionfa-agli-oscar-con-sei-statuette/",
+        "https://www.ansa.it/canale_lifestyle/photogallery/2026/03/16/tutti-i-look-degli-oscar-2026_8bafb694-efd2-4317-ab19-9e931b5e2739.html",
+        "https://www.ansa.it/sito/videogallery/spettacolo/2026/03/16/6-oscar-a-una-battaglia-dopo-laltra-premiati-buckley-e-jordan-a-mani-vuote_b2af03be-44ae-449f-974d-e8374b0c5324.html",
+        "https://www.corriere.it/spettacoli/oscar/26_marzo_16/oscar-il-superfavorito-chalamet-torna-a-casa-senza-statuetta-affossato-dall-uscita-su-opera-e-balletto-e77b994e-650b-461d-bf41-3e4f84c0axlk.shtml"
       ]
     },
     {
       "rank": 2,
+      "title": "Sinner batte Medvedev in due set di lotta ed è campione a Indian Wells: «Sono rimasto senza parole». La dedica a Kimi Antonelli",
+      "source_count": 9,
+      "article_count": 15,
+      "source_domains": [
+        "ansa.it",
+        "video.corriere.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/03/16/tennis-sinner-indian-wells-significa-molto-ora-testa-a-miami_48872b6e-c972-4f38-8efe-c0fbe3438245.html",
+        "https://video.corriere.it/sport/il-trionfo-di-sinner-contro-medvedev-agli-indian-wells-i-passaggi-piu-spettacolari/d6c7a6d4-e42f-4216-989c-5d2a5e513xlk",
+        "https://www.fanpage.it/sport/tennis/sinner-disorientato-in-conferenza-a-indian-wells-ho-appena-risposto-alla-stessa-domanda-ripeto/",
+        "https://www.adnkronos.com/sport/sinner-miami-sorteggio-tabellone-oggi-orario-dove-vederlo-tv-possibili-avversari_3uYsnLlyrIrxX016NGd1Ch",
+        "https://www.ilgiornale.it/news/tennis/sinner-accorcia-su-alcaraz-cambia-classifica-atp-e-quando-pu-2638976.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "L'Iran colpisce una base italiana in Kuwait, distrutto un drone. Resta solo il personale essenziale",
       "source_count": 8,
       "article_count": 12,
@@ -50,54 +76,119 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Kimi, gioia e lacrime. Un italiano torna a vincere in F1: “Alla fine me la stavo facendo addosso”",
       "source_count": 6,
-      "article_count": 13,
+      "article_count": 11,
       "source_domains": [
+        "ilmessaggero.it",
         "corriere.it",
         "laverita.info",
         "ilgiornale.it",
         "ansa.it",
-        "repubblica.it",
-        "liberoquotidiano.it"
+        "repubblica.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/blog/milleruote/kimi_e_nata_una_stella_antonelli_come_ascari_l_unico_italiano_a_diventare_campione_del_mondo_di_f1-9419110.html",
         "https://www.corriere.it/sport/formula-1/26_marzo_16/belinelli-kimi-antonelli-3189abfa-8fd1-4c5f-b8e9-188d8b617xlk.shtml",
         "https://www.laverita.info/antonelli-nella-storia-2676173553.html",
         "https://www.ilgiornale.it/news/motori/mio-piccolo-uomo-e-dicevano-fosse-presto-2638876.html",
-        "https://www.ilgiornale.it/news/sport/antonelli-riporta-linno-mameli-f1-20-anni-fisichella-19-anni-2638834.html",
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/03/15/f1-kimi-antonelli-trionfa-in-cina-ho-realizzato-un-sogno_547b31d6-0d4d-4b67-81ec-5d220bb0db06.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Sinner batte Medvedev in due set di lotta ed è campione a Indian Wells: «Sono rimasto senza parole». La dedica a Kimi Antonelli",
-      "source_count": 8,
-      "article_count": 11,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/16/sinner-indian-wells-vittoria-medvedev-news/8325483/",
-        "https://www.liberoquotidiano.it/news/sport/46824111/sinner-vince-indian-wells-suo-primo-pensiero-spiazza-mondo/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/16/tennis-sinner-vince-il-torneo-di-indian-wells-e-dedica-la-vittoria-ad-antonelli-bravo_839402ea-446d-4504-a902-bf93c7bd22ba.html",
-        "https://www.ilgiornale.it/news/tennis/indian-wells-sinner-campione-medvedev-sconfitto-doppio-tie-2638946.html",
-        "https://www.corriere.it/sport/tennis/diretta-live/26_marzo_15/sinner-medvedev-indian-wells-finale-diretta-risultato.shtml"
+        "https://www.ilgiornale.it/news/sport/antonelli-riporta-linno-mameli-f1-20-anni-fisichella-19-anni-2638834.html"
       ]
     },
     {
       "rank": 5,
+      "title": "Da Jimmy Kimmel al \"no alla guerra\" di Bardem: le incursioni politiche agli Oscar 2026",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "video.corriere.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/video/tv-news/46827128/oscar-sul-red-carpet-da-anne-hathaway-al-no-a-la-guerra-di-bardem/",
+        "https://www.ilgiornale.it/news/cinema/jimmy-kimmel-no-guerra-bardem-incursioni-politiche-agli-2638955.html",
+        "https://www.fanpage.it/stile-e-trend/moda/messaggi-di-pace-agli-oscar-2026-da-javier-bardem-con-la-scritta-no-guerra-alle-spillette-ice-out/",
+        "https://video.corriere.it/spettacoli/oscar-bardem-dal-palco-no-alla-guerra-palestina-libera-/ee3dc862-5749-4f7d-bb14-69e5ca8abxlk",
+        "https://www.ilmessaggero.it/schede/oscar_2026_top_flop_cosa_e_successo-9418885.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Bebe Vio: 'Lascio la scherma, farò i 100 metri'",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "video.corriere.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/03/15/parlimpiadi-bebe-vio-lascio-la-scherma-faro-i-100-metri_b28940fb-f7b9-47ea-aa59-3bb82ab9a82c.html",
+        "https://www.ilgiornale.it/news/altri-sport/scherma-mi-stava-distruggendo-bebe-vio-cambia-sport-2639006.html",
+        "https://video.corriere.it/sport/l-annuncio-di-bebe-vio-lascio-la-scherma-e-inizio-con-l-atletica-penso-di-fare-i-100-metri-/9488fed9-c07a-4df6-ae32-731d79887xlk",
+        "https://www.ilfattoquotidiano.it/2026/03/16/e-finita-con-la-scherma-non-ce-la-faccio-piu-fisicamente-ho-iniziato-con-latletica-lannuncio-di-bebe-vio-a-che-tempo-che-fa/8325563/",
+        "https://www.corriere.it/cronache/26_marzo_16/bebe-vio-intervista-corsa-scherma-cambio-vita-99e1d5d2-cd46-4629-9d79-4d32ab148xlk.shtml"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Sean Penn vince l'Oscar ma alla cerimonia non c'è",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "lastampa.it",
+        "fanpage.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/spettacoli/2026/03/16/news/oscar_sean_penn_diserta_cerimonia-15546710/",
+        "https://www.fanpage.it/spettacolo/eventi/sean-penn-vince-loscar-ma-non-si-presenta-alla-cerimonia-lattore-e-in-ucraina/",
+        "https://www.corriere.it/spettacoli/oscar/26_marzo_16/oscar-sean-penn-vince-come-miglior-non-protagonista-ma-diserta-la-cerimonia-e-in-ucraina-096be03f-bee1-4246-93d7-5aa5d79afxlk.shtml",
+        "https://www.ilfattoquotidiano.it/2026/03/16/sean-penn-oscar-assente-ucraina-notizie/8325369/",
+        "https://www.repubblica.it/spettacoli/dossier/oscar/2026/03/16/news/sean_penn_vince_oscar_2026_assente_cerimonia-425224091/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Roma, tamponamento tra due tram in via Prenestina: dieci feriti",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "roma.corriere.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "roma.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_16/via-prenestina-tamponamento-tra-due-tram-passeggeri-feriti-ambulanze-e-vigili-bee8d084-a72d-4fce-93bf-c9a05bde7xlk.shtml",
+        "https://www.ilfattoquotidiano.it/2026/03/16/tamponamento-tra-due-tram-a-roma-dieci-feriti-su-via-prenestina/8325730/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/16/tamponamento-fra-due-tram-a-roma-10-feriti-lievi_a1f090ce-19c8-4c3f-a118-2aa6395ea63b.html",
+        "https://www.adnkronos.com/cronaca/roma-tamponamento-tra-due-tram-in-via-prenestina-feriti-alcuni-passeggeri_61SUMeVpfSikdX7ltS8DXX",
+        "https://www.fanpage.it/roma/tamponamento-fra-due-tram-in-via-prenestina-interrotto-il-servizio-sulla-linea/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Ecco come Trump potrebbe liberare lo Stretto di Hormuz",
       "source_count": 5,
-      "article_count": 9,
+      "article_count": 7,
       "source_domains": [
         "adnkronos.com",
         "repubblica.it",
@@ -114,101 +205,23 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Petrolio, lo scenario peggiore: doppio rialzo dei tassi e recessione, il barile può andare a 140 dollari",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "corriere.it",
-        "adnkronos.com",
-        "ansa.it",
-        "fanpage.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.corriere.it/economia/finanza/26_marzo_16/petrolio-lo-scenario-peggiore-doppio-rialzo-dei-tassi-e-economia-in-frenata-cosi-il-barile-puo-andare-a-140-dollari-c6a64302-1e95-4539-86ab-e5f754f7fxlk.shtml",
-        "https://www.corriere.it/economia/finanza/26_marzo_16/petrolio-lo-scenario-peggiore-doppio-rialzo-dei-tassi-e-economia-in-frenata-cosi-il-barile-puo-andare-a-140-dollari-c6a64302-1e95-4539-86ab-e5f754f7fxlk.shtml",
-        "https://www.adnkronos.com/internazionale/esteri/petrolio-brent-prezzo-guerra-iran_4OLD3OO6F7NJOLUoDg5OVa",
-        "https://www.ansa.it/sito/notizie/economia/2026/03/15/petrolio-alle-stelle-e-prezzi-le-banche-centrali-fanno-il-punto-sulla-guerra_2f590eaf-f099-4f11-83d5-7dfa94def6c0.html",
-        "https://www.fanpage.it/politica/benzina-biglietti-aerei-frutta-e-verdura-dove-stanno-aumentando-i-prezzi/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Sean Penn vince ma diserta la cerimonia. “È in viaggio verso l’Ucraina”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "corriere.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.corriere.it/spettacoli/oscar/26_marzo_16/oscar-sean-penn-vince-come-miglior-non-protagonista-ma-diserta-la-cerimonia-e-in-ucraina-096be03f-bee1-4246-93d7-5aa5d79afxlk.shtml",
-        "https://www.ilfattoquotidiano.it/2026/03/16/sean-penn-oscar-assente-ucraina-notizie/8325369/",
-        "https://www.repubblica.it/spettacoli/dossier/oscar/2026/03/16/news/sean_penn_vince_oscar_2026_assente_cerimonia-425224091/",
-        "https://www.adnkronos.com/spettacoli/sean-penn-assente-oscar-2026_6ZS7hntbBV7Pl5geV04jha",
-        "https://www.ilmessaggero.it/persone/sean_penn_vince_oscar_assente_perche_cosa_e_successo-9417913.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Maltempo sull'Italia, allerta meteo oggi in Calabria e Sicilia: scuole chiuse in alcuni comuni",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "corriere.it",
-        "ansa.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.corriere.it/cronache/26_marzo_16/il-meteo-di-oggi-lunedi-16-marzo-il-maltempo-si-sposta-al-sud-allerta-meteo-arancione-per-calabria-e-sicilia-netto-miglioramento-397ed717-23cb-4266-8aa0-d38e8fd6fxlk.shtml",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/16/maltempo-oggi-allerta-arancione-su-tutta-la-calabria_4200081f-7806-4b12-bc4c-b90d09441f51.html",
-        "https://www.adnkronos.com/cronaca/allerta-meteo-oggi-italia-sud-regioni-a-rischio_1SslKOn4fHLVf9zJsYAo1q",
-        "https://www.fanpage.it/attualita/scuole-chiuse-per-maltempo-e-allerta-meteo-arancione-e-gialla-domani-16-marzo-lelenco-dei-comuni-interessati/",
-        "https://www.ilmessaggero.it/italia/scuole_chiuse_oggi_lunedi_16_marzo_sicilia_calabria_catania_reggio-9417761.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Iran, altolà di Trump alla Nato e Starmer: «Futuro negativo se non si aiuta». Idf: iniziate operazioni di terra nel sud del Libano",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "fanpage.it",
-        "corriere.it",
-        "ansa.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-16-marzo/",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_16/guerra-in-iran-le-ultime-notizie-in-diretta-trump-contro-la-gran-bretagna-ho-chiesto-aiuto-a-starmer-ma-si-e-rifiutato.shtml",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_16/guerra-in-iran-le-ultime-notizie-in-diretta-trump-contro-la-gran-bretagna-ho-chiesto-aiuto-a-starmer-ma-si-e-rifiutato.shtml",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/16/medio-oriente-israele-avvia-le-operazioni-terrestri-nel-sud-del-libano._82343a99-38cd-44fe-9fc7-a11633e8b732.html",
-        "https://www.ilgiornale.it/news/guerra/diretta-trump-avvisa-nato-futuro-negativo-se-non-aiuta-2638948.html"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Missile lanciato contro Tel Aviv, il momento dell'impatto nel video di sorveglianza",
-      "source_count": 4,
+      "title": "Cirielli: \"Incontro con ambasciatore russo? Farnesina sapeva, due funzionari con me\"",
+      "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "video.corriere.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "liberoquotidiano.it"
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "roma.corriere.it"
       ],
       "links": [
-        "https://video.corriere.it/esteri/missile-lanciato-contro-tel-aviv-il-momento-dell-impatto/fcc60b67-e517-4aa6-ae5b-6f423939dxlk",
-        "https://www.ilgiornale.it/news/guerra/gittata-2mila-km-propellente-solido-e-due-stadi-cosa-2638772.html",
-        "https://video.corriere.it/esteri/israele-a-tel-aviv-i-soccorritori-nell-area-colpita-da-un-missile-iraniano/8fd7df0a-39c5-4b9b-b2ae-6af1eed50xlk",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/03/15/attacchi-dellidf-nelliran-occidentale-distrutta-una-base-di-lancio-di-droni_158ff3b2-ba87-4258-9e1b-3654f7ff0b74.html",
-        "https://www.liberoquotidiano.it/video/libero-video/46816310/israele-voragine-missile-iraniano/"
+        "https://www.unita.it/2026/03/16/cirielli-incontro-ambasciatore-russo-viceministro-esteri/",
+        "https://www.ilfattoquotidiano.it/2026/03/16/cirielli-ambasciatore-russo-farnesina-notizie/8325621/",
+        "https://www.adnkronos.com/politica/cirielli-incontro-con-ambasciatore-russo-farnesina-sapeva-due-funzionari-con-me_3NrHhaY2TF6zpOOTNUiJJT",
+        "https://www.lastampa.it/politica/2026/03/16/news/viceministro_cirielli_ambasciatore_russo_meloni-15546691/",
+        "http://roma.corriere.it/notizie/politica/26_marzo_15/incontro-riservato-con-l-ambasciatore-russo-cirielli-fdi-e-un-caso-la-rabbia-di-meloni-d2b29a5f-896d-4a59-a3c5-8d58d480dxlk.shtml"
       ]
     }
   ]
