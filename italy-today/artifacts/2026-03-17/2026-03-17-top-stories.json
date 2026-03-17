@@ -1,13 +1,14 @@
 {
   "date": "2026-03-17",
-  "generated_at": "Tue 17 Mar 17:11",
+  "generated_at": "Tue 17 Mar 19:13",
   "stories": [
     {
       "rank": 1,
-      "title": "Chi è Gian Luca Pelloni Bulzoni, figlio adottivo ed erede universale di Raffaella Carrà",
-      "source_count": 8,
-      "article_count": 16,
+      "title": "Chi è Gian Luca Pelloni Bulzoni, il figlio segreto di Raffaella Carrà, che riapre il capitolo più privato della diva",
+      "source_count": 9,
+      "article_count": 17,
       "source_domains": [
+        "fanpage.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
         "roma.corriere.it",
@@ -18,15 +19,37 @@
         "ansa.it"
       ],
       "links": [
+        "https://www.fanpage.it/spettacolo/personaggi/raffaella-carra-piu-bibita-e-patatine-omaggio-la-vicenda-legale-che-ha-svelato-lidentita-del-figlio/",
         "https://www.liberoquotidiano.it/news/spettacoli/46853413/raffaella-carra-tesoro-300-milioni-patrimonio/",
         "https://www.ilgiornale.it/news/nazionale/raffaella-carr-villa-romana-dellargentario-e-podere-2639605.html",
         "http://roma.corriere.it/notizie/cronaca/26_marzo_17/eredita-immobiliare-raffaella-carra-ville-milionarie-argentario-gian-luca-pelloni-bulzoni-a33d34bb-8b4d-43f0-b761-10b655802xlk.shtml",
-        "https://www.ilgiornale.it/news/politica/ultima-carrambata-raffaella-adott-segretario-ora-lerede-2639300.html",
-        "https://www.lastampa.it/spettacoli/2026/03/17/news/gian_luca_pelloni_bulzoni_chi_e_erede_raffaella_carra-15548155/"
+        "https://www.ilgiornale.it/news/politica/ultima-carrambata-raffaella-adott-segretario-ora-lerede-2639300.html"
       ]
     },
     {
       "rank": 2,
+      "title": "Meningococco B, l'epidemia dal Kent sta raggiungendo Londra: il vaccino, i sintomi e perchè è così letale",
+      "source_count": 7,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/17/epidemia-di-meningite-senza-precedenti-in-inghilterra-e-corsa-contro-il-tempo_4755415c-17da-4748-9b31-1736d246a54d.html",
+        "https://www.fanpage.it/innovazione/scienze/meningite-e-sintomi-lopalco-attenzione-ai-primi-segnali-i-rischi-per-litalia-dai-casi-in-uk/",
+        "https://www.fanpage.it/esteri/allarme-meningite-in-inghilterra-il-ministero-situazione-senza-precedenti-e-il-contagio-arriva-in-francia/",
+        "https://www.ilfattoquotidiano.it/2026/03/17/meningite-b-focolaio-nel-regno-unito-due-giovani-morti-e-15-casi-confermati-scattano-vaccini-e-profilassi/8327454/",
+        "https://www.liberoquotidiano.it/video/tv-news/46853455/inghilterra-file-studenti-per-antibiotici-dopo-epidemia-meningite-b/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Rapina in casa di El Aynaoui, calciatore della Roma chiuso in una stanza: rubati gioielli e Rolex",
       "source_count": 9,
       "article_count": 11,
@@ -50,7 +73,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Politico spietato o fine intellettuale, chi è Ali Larijani: fedele di Khamenei che Idf dà per morto",
       "source_count": 8,
       "article_count": 12,
@@ -73,7 +96,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Caporalato nella moda: commissariata la Dama Spa",
       "source_count": 10,
       "article_count": 10,
@@ -98,29 +121,31 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Iran, Trump: alcuni alleati non entusiasti di proteggere Hormuz",
-      "source_count": 7,
-      "article_count": 12,
+      "rank": 6,
+      "title": "Meloni al podcast di Fedez per parlare del referendum: l’ultima mossa per spingere il sì",
+      "source_count": 9,
+      "article_count": 11,
       "source_domains": [
-        "adnkronos.com",
         "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ansa.it",
+        "ilmessaggero.it",
+        "roma.corriere.it",
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
         "lastampa.it",
         "repubblica.it",
-        "video.corriere.it"
+        "fanpage.it"
       ],
       "links": [
-        "https://www.adnkronos.com/internazionale/esteri/trump-nato-hormuz-piano-iran_aqIFVOqewckI2zGf16YgU",
-        "https://www.ilgiornale.it/news/politica/trump-affondo-sugli-alleati-quando-serve-non-ci-siete-2639285.html",
-        "https://www.liberoquotidiano.it/video/video-news-by-vista/46844973/guerra-in-iran-trump-incoraggiamo-fortemente-gli-alleati-ad-aiutarci-nello-stretto-di-hormuz/",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/03/17/prime-pagine-trump-contro-gli-alleati-e-la-nato-ma-leuropa-lo-molla-su-hormuz_6f6d6613-3cf9-4152-9fdf-ca59f8c9f539.html",
-        "https://www.lastampa.it/rubriche/l-oblo/2026/03/17/audio/le_minacce_di_trump_e_il_no_delleuropa-15547751/"
+        "https://www.ilgiornale.it/news/interni/benvenuti-nella-podcastizzazione-politica-2639692.html",
+        "https://www.ilmessaggero.it/politica/meloni_pulp_podcast_fedez_mr_marra-9421602.html",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_17/referendum-giovedi-meloni-sara-intervistata-da-fedez-per-pulp-podcast-1542fa11-cf5d-4d82-bbad-7e6d96600xlk.shtml",
+        "https://www.unita.it/2026/03/17/meloni-ospite-pulp-podcast-fedez-referendum-giustizia/",
+        "https://www.ilfattoquotidiano.it/2026/03/17/referendum-giustizia-meloni-fedez-pulp-podcast-notizie/8327306/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Arrestato di nuovo Baby Gang: il trapper è coinvolto in un’indagine per armi, rapine e maltrattamenti",
       "source_count": 9,
       "article_count": 10,
@@ -144,53 +169,53 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Allarme meningite in Inghilterra: morti 2 studenti, 11 ricoverati. Avvisate più di 16mila persone",
-      "source_count": 7,
-      "article_count": 12,
-      "source_domains": [
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "corriere.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/innovazione/scienze/meningite-e-sintomi-lopalco-attenzione-ai-primi-segnali-i-rischi-per-litalia-dai-casi-in-uk/",
-        "https://www.fanpage.it/esteri/allarme-meningite-in-inghilterra-il-ministero-situazione-senza-precedenti-e-il-contagio-arriva-in-francia/",
-        "https://www.ilfattoquotidiano.it/2026/03/17/meningite-b-focolaio-nel-regno-unito-due-giovani-morti-e-15-casi-confermati-scattano-vaccini-e-profilassi/8327454/",
-        "https://www.liberoquotidiano.it/video/tv-news/46853455/inghilterra-file-studenti-per-antibiotici-dopo-epidemia-meningite-b/",
-        "https://www.ilmessaggero.it/salute/focus/meningite_casi_dove_sono_morti_quanti-9421483.html"
-      ]
-    },
-    {
       "rank": 8,
-      "title": "Meloni al podcast di Fedez per parlare del referendum: l’ultima mossa per spingere il sì",
+      "title": "Il capo dell'antiterrorismo americano si dimette: «L'Iran non è una minaccia, guerra nata per la pressione di Israele». Il caso di Joe Kent",
       "source_count": 9,
       "article_count": 10,
       "source_domains": [
-        "ilmessaggero.it",
-        "roma.corriere.it",
+        "ansa.it",
+        "adnkronos.com",
+        "corriere.it",
+        "lastampa.it",
+        "ilgiornale.it",
         "unita.it",
         "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it",
-        "fanpage.it"
+        "ilmessaggero.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/politica/meloni_pulp_podcast_fedez_mr_marra-9421602.html",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_17/referendum-giovedi-meloni-sara-intervistata-da-fedez-per-pulp-podcast-1542fa11-cf5d-4d82-bbad-7e6d96600xlk.shtml",
-        "https://www.unita.it/2026/03/17/meloni-ospite-pulp-podcast-fedez-referendum-giustizia/",
-        "https://www.ilfattoquotidiano.it/2026/03/17/referendum-giustizia-meloni-fedez-pulp-podcast-notizie/8327306/",
-        "https://www.ilgiornale.it/news/interni/meloni-fedez-spiegare-ragioni-s-referendum-2639594.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/17/iran-il-capo-del-centro-per-lantiterrorismo-usa-si-dimette-per-la-guerra_d516160c-0ed5-43e2-bc2c-91484af1064a.html",
+        "https://www.adnkronos.com/internazionale/esteri/chi-e-joe-kent-che-si-e-dimesso-contro-la-guerra-e-perche-i-trumpiani-lo-avevano-gia-scaricato_43ya0O9DsLg1TFgsaMhkDe",
+        "https://www.corriere.it/esteri/26_marzo_17/chi-e-joe-kent-il-rambo-che-si-e-dimesso-da-capo-dell-antiterrorismo-usa-e-che-ora-accusa-trump-l-iran-non-era-una-minaccia-d92baf83-b457-4577-9203-7e685af2fxlk.shtml",
+        "https://www.lastampa.it/esteri/2026/03/17/news/guerra_iran_trump_joe_kent-15548828/",
+        "https://www.ilgiornale.it/news/guerra/chi-joe-kent-perch-si-dimesso-dall-antiterrorismo-usa-e-cosa-2639651.html"
       ]
     },
     {
       "rank": 9,
+      "title": "Trump contro gli alleati e la Nato, ma l'Europa lo molla su Hormuz",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ansa.it",
+        "lastampa.it",
+        "repubblica.it",
+        "video.corriere.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/video/tv-news/46855625/trump-accusa-la-nato-errore-sciocco-sullo-stretto-di-hormuz/",
+        "https://www.adnkronos.com/internazionale/esteri/trump-nato-hormuz-piano-iran_aqIFVOqewckI2zGf16YgU",
+        "https://www.ilgiornale.it/news/politica/trump-affondo-sugli-alleati-quando-serve-non-ci-siete-2639285.html",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46844973/guerra-in-iran-trump-incoraggiamo-fortemente-gli-alleati-ad-aiutarci-nello-stretto-di-hormuz/",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/03/17/prime-pagine-trump-contro-gli-alleati-e-la-nato-ma-leuropa-lo-molla-su-hormuz_6f6d6613-3cf9-4152-9fdf-ca59f8c9f539.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Giornata Unità: Mattarella depone corona, poi le Frecce Tricolori",
       "source_count": 3,
       "article_count": 14,
@@ -205,28 +230,6 @@
         "https://www.liberoquotidiano.it/video/video-news-by-vista/46848331/giornata-dell-unita-d-italia-l-omaggio-di-mattarella-al-milite-ignoto-all-altare-della-patria/",
         "https://www.liberoquotidiano.it/video/video-news-by-vista/46848333/giornata-unita-d-italia-il-passaggio-delle-frecce-tricolori-sopra-l-altare-della-patria/",
         "https://video.corriere.it/il-passaggio-delle-frecce-tricolori-sopra-l-altare-della-patria-per-la-giornata-dell-unita-nazionale/54279975-ac92-4d36-abf8-819d867d7xlk"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Maxi tamponamento in galleria sulla Messina-Palermo: coinvolti 80 mezzi",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "corriere.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/17/maxi-tamponamento-in-galleria-sulla20-coinvolti-80-mezzi.-ci-sono-diversi-feriti_f99af137-63e4-48a2-8d9b-63aca68c5885.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/17/maxi-tamponamento-in-galleria-messina-palermo-coinvolti-80-mezzi_f99af137-63e4-48a2-8d9b-63aca68c5885.html",
-        "https://www.adnkronos.com/cronaca/incidente-autostrada-oggi-maxi-tamponamento-a-catena-galleria_1l6klriX7umDEUf2cVRnzz",
-        "https://www.corriere.it/cronache/26_marzo_17/incidente-a-catena-sulla-messina-palermo-tir-e-automobili-intrappolati-in-un-tunnel-e-maxi-coda-ab114b3c-9269-4940-9493-476cf8327xlk.shtml",
-        "https://www.liberoquotidiano.it/video/pillole/46849413/maxi-tamponamento-in-galleria-sull-a20-palermo-messina-coinvolti-80-veicoli/"
       ]
     }
   ]
