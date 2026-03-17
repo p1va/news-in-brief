@@ -1,15 +1,15 @@
 {
   "date": "2026-03-17",
-  "generated_at": "Tue 17 Mar 13:26",
+  "generated_at": "Tue 17 Mar 15:05",
   "stories": [
     {
       "rank": 1,
       "title": "Chi è Gian Luca Pelloni Bulzoni, il figlio segreto di Raffaella Carrà, che riapre il capitolo più privato della diva",
       "source_count": 9,
-      "article_count": 19,
+      "article_count": 18,
       "source_domains": [
-        "roma.corriere.it",
         "ilgiornale.it",
+        "roma.corriere.it",
         "lastampa.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
@@ -19,15 +19,38 @@
         "unita.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/nazionale/raffaella-carr-villa-romana-dellargentario-e-podere-2639605.html",
         "http://roma.corriere.it/notizie/cronaca/26_marzo_17/eredita-immobiliare-raffaella-carra-ville-milionarie-argentario-gian-luca-pelloni-bulzoni-a33d34bb-8b4d-43f0-b761-10b655802xlk.shtml",
         "https://www.ilgiornale.it/news/politica/ultima-carrambata-raffaella-adott-segretario-ora-lerede-2639300.html",
         "https://www.lastampa.it/spettacoli/2026/03/17/news/gian_luca_pelloni_bulzoni_chi_e_erede_raffaella_carra-15548155/",
-        "https://www.liberoquotidiano.it/news/spettacoli/46846206/raffaella-carra-figlio-segreto-enzo-paolo-turchi-cosa-successo-suo-funerale/",
-        "https://www.ilgiornale.it/news/personaggi/chi-gian-luca-pelloni-bulzoni-figlio-segreto-raffaella-carr-2639431.html"
+        "https://www.liberoquotidiano.it/news/spettacoli/46846206/raffaella-carra-figlio-segreto-enzo-paolo-turchi-cosa-successo-suo-funerale/"
       ]
     },
     {
       "rank": 2,
+      "title": "Chi è Ali Larijani, il regista della sicurezza di Teheran nel mirino di Israele",
+      "source_count": 8,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "corriere.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/17/iran-il-filosofo-in-divisa-larijani-luomo-chiave-del-regime-iraniano_1e1afd31-88f8-4fe5-9d4b-003e90d6b020.html",
+        "https://www.ilgiornale.it/news/guerra/iran-svolta-militarizzata-vertice-qalibaf-pronto-prendere-2639567.html",
+        "https://www.adnkronos.com/internazionale/esteri/iran-da-ali-khamenei-a-larijani-i-leader-eliminati-da-israele-dal-28-febbraio_10do20IYulvFyuhv3FOhtT",
+        "https://www.corriere.it/il-punto/america-cina/26_marzo_17/israele-abbiamo-ucciso-larijani-e-soleimani.shtml",
+        "https://www.liberoquotidiano.it/video/tv-news/46850008/iran-israele-annuncia-l-uccisione-di-ali-larijani/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Caporalato nella moda: commissariata la Dama Spa",
       "source_count": 10,
       "article_count": 10,
@@ -52,7 +75,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Rapina in casa di El Aynaoui, calciatore della Roma chiuso in una stanza: rubati gioielli e Rolex",
       "source_count": 9,
       "article_count": 10,
@@ -76,7 +99,30 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Medio Oriente, raid israeliani in Iran, Katz conferma: 'Uccisi Larijani e il comandante Soleimani' - LIVEBLOG",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "fanpage.it",
+        "corriere.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/17/medio-oriente-raid-israeliani-in-iran-katz-conferma-ucciso-larijani.-idf_e0026c55-8868-4a71-9a5f-a5a87c87ceea.html",
+        "https://www.unita.it/2026/03/17/raid-israele-iran-ucciso-capo-milizie-basij-attaccata-baghdad-ambasciata-usa/",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/17/guerra-israele-iran-diretta/8326654/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/17/idf-ondata-di-attacchi-a-teheran-e-a-beirut_e0026c55-8868-4a71-9a5f-a5a87c87ceea.html",
+        "https://www.ilgiornale.it/news/guerra/colpita-lambasciata-usa-iraq-bombe-su-teheran-e-beirut-2639384.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Arrestato di nuovo Baby Gang: il trapper è coinvolto in un’indagine per armi, rapine e maltrattamenti",
       "source_count": 9,
       "article_count": 9,
@@ -100,7 +146,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Iran, Trump: alcuni alleati non entusiasti di proteggere Hormuz",
       "source_count": 6,
       "article_count": 11,
@@ -121,7 +167,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Giornata Unità: Mattarella depone corona, poi le Frecce Tricolori",
       "source_count": 3,
       "article_count": 14,
@@ -139,10 +185,33 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "title": "Meloni al podcast di Fedez per parlare del referendum: l’ultima mossa per spingere il sì",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "roma.corriere.it",
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_17/referendum-giovedi-meloni-sara-intervistata-da-fedez-per-pulp-podcast-1542fa11-cf5d-4d82-bbad-7e6d96600xlk.shtml",
+        "https://www.unita.it/2026/03/17/meloni-ospite-pulp-podcast-fedez-referendum-giustizia/",
+        "https://www.ilfattoquotidiano.it/2026/03/17/referendum-giustizia-meloni-fedez-pulp-podcast-notizie/8327306/",
+        "https://www.ilgiornale.it/news/interni/meloni-fedez-spiegare-ragioni-s-referendum-2639594.html",
+        "https://www.adnkronos.com/politica/giorgia-meloni-fedez-mr-marra-premier_6ITf0jkoYb7mArRSzpB6tX"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Maxi tamponamento in galleria sulla Messina-Palermo: coinvolti 80 mezzi",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
@@ -156,71 +225,8 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/17/maxi-tamponamento-in-galleria-messina-palermo-coinvolti-80-mezzi_f99af137-63e4-48a2-8d9b-63aca68c5885.html",
         "https://www.adnkronos.com/cronaca/incidente-autostrada-oggi-maxi-tamponamento-a-catena-galleria_1l6klriX7umDEUf2cVRnzz",
         "https://www.corriere.it/cronache/26_marzo_17/incidente-a-catena-sulla-messina-palermo-tir-e-automobili-intrappolati-in-un-tunnel-e-maxi-coda-ab114b3c-9269-4940-9493-476cf8327xlk.shtml",
-        "https://www.liberoquotidiano.it/news/italia/46849042/maxi-tamponamento-galleria-a20-80-mezzi-coinvolti-ambulanze-vigili-del-fuoco/",
-        "https://www.fanpage.it/attualita/maxi-tamponamento-in-galleria-a-messina-autostrada-bloccata-e-oltre-80-mezzi-coinvolti/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Politico spietato o fine intellettuale, chi è Ali Larijani: fedele di Khamenei che Idf dà per morto",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "corriere.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/video/tv-news/46850008/iran-israele-annuncia-l-uccisione-di-ali-larijani/",
-        "https://www.corriere.it/esteri/26_marzo_17/ali-larijani-ucciso-israele-7eec095f-f7b8-4438-be7f-a7b898264xlk.shtml",
-        "https://www.adnkronos.com/internazionale/esteri/ali-larijani-morto-chi-era_1XsMWklpY2nlDUTr2C1DXz",
-        "https://www.ilmessaggero.it/mondo/larijani_ucciso_israele_iran_messaggio_telegram_chi_era-9421244.html",
-        "https://www.repubblica.it/esteri/2026/03/17/news/chi_e_ali_larijani_iran_khamenei_repressioni-425226944/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "A Cinturrino contestato l'omicidio premeditato. L'inchiesta si allarga: altri due agenti indagati",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "milano.corriere.it",
-        "ansa.it",
-        "unita.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/nuove-accuse-allagente-cinturrino-premedit-lomicidio-2639396.html",
-        "https://www.fanpage.it/milano/le-minacce-del-poliziotto-cinturrino-a-zack-o-ti-arresto-o-ti-ammazzo-qua-comando-io-non-i-mansouri/",
-        "http://milano.corriere.it/notizie/cronaca/26_marzo_17/milano-le-minacce-dell-agente-cinturrino-di-a-zack-che-se-lo-becco-lo-ammazzo-per-i-pm-premedito-l-omicidio-del-pusher-5847adf4-e335-45a2-a3a1-440b8db02xlk.shtml",
-        "http://milano.corriere.it/notizie/cronaca/26_marzo_17/inchiesta-rogoredo-altri-due-poliziotti-del-commissariato-mecenate-indagati-per-cinturrino-oltre-trenta-capi-d-accusa-3ddd9400-6fb6-4e99-bda9-c79cf7582xlk.shtml",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/16/allagente-cinturrino-contestato-anche-lomicidio-premeditato_2ce0ef5c-280d-4548-8226-669030494623.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Israele attacca Teheran e Beirut. Esplosioni a Doha e Dubai. Baghdad, drone vicino ambasciata Usa",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "fanpage.it",
-        "corriere.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/17/idf-ondata-di-attacchi-a-teheran-e-a-beirut_e0026c55-8868-4a71-9a5f-a5a87c87ceea.html",
-        "https://www.ilgiornale.it/news/guerra/colpita-lambasciata-usa-iraq-bombe-su-teheran-e-beirut-2639384.html",
-        "https://www.repubblica.it/esteri/2026/03/17/diretta/guerra_iran_usa_israele_news_oggi-425226345/",
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-17-marzo/",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_17/guerra-in-iran-le-ultime-notizie-in-diretta-nella-notte-missili-sul-nord-di-israele-e-l-idf-attacchi-a-teheran-e-beirut-baghdad.shtml"
+        "https://www.liberoquotidiano.it/video/pillole/46849413/maxi-tamponamento-in-galleria-sull-a20-palermo-messina-coinvolti-80-veicoli/",
+        "https://www.liberoquotidiano.it/news/italia/46849042/maxi-tamponamento-galleria-a20-80-mezzi-coinvolti-ambulanze-vigili-del-fuoco/"
       ]
     }
   ]
