@@ -1,38 +1,38 @@
 {
   "date": "2026-03-17",
-  "generated_at": "Tue 17 Mar 11:53",
+  "generated_at": "Tue 17 Mar 13:26",
   "stories": [
     {
       "rank": 1,
       "title": "Chi è Gian Luca Pelloni Bulzoni, il figlio segreto di Raffaella Carrà, che riapre il capitolo più privato della diva",
-      "source_count": 10,
+      "source_count": 9,
       "article_count": 19,
       "source_domains": [
+        "roma.corriere.it",
         "ilgiornale.it",
         "lastampa.it",
         "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "roma.corriere.it",
         "laverita.info",
         "roma.repubblica.it",
         "ansa.it",
         "unita.it"
       ],
       "links": [
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_17/eredita-immobiliare-raffaella-carra-ville-milionarie-argentario-gian-luca-pelloni-bulzoni-a33d34bb-8b4d-43f0-b761-10b655802xlk.shtml",
         "https://www.ilgiornale.it/news/politica/ultima-carrambata-raffaella-adott-segretario-ora-lerede-2639300.html",
         "https://www.lastampa.it/spettacoli/2026/03/17/news/gian_luca_pelloni_bulzoni_chi_e_erede_raffaella_carra-15548155/",
         "https://www.liberoquotidiano.it/news/spettacoli/46846206/raffaella-carra-figlio-segreto-enzo-paolo-turchi-cosa-successo-suo-funerale/",
-        "https://www.ilgiornale.it/news/personaggi/chi-gian-luca-pelloni-bulzoni-figlio-segreto-raffaella-carr-2639431.html",
-        "https://www.ilfattoquotidiano.it/2026/03/17/giancarlo-magalli-il-figlio-segreto-di-raffaella-carra-mai-sentito-nominare-ladozione-e-la-cosa-che-mi-stupisce-di-piu-perche-e-unimpresa-complicata-e-non-e-da-lei/8326743/"
+        "https://www.ilgiornale.it/news/personaggi/chi-gian-luca-pelloni-bulzoni-figlio-segreto-raffaella-carr-2639431.html"
       ]
     },
     {
       "rank": 2,
       "title": "Caporalato nella moda: commissariata la Dama Spa",
-      "source_count": 9,
-      "article_count": 9,
+      "source_count": 10,
+      "article_count": 10,
       "source_domains": [
+        "unita.it",
         "ansa.it",
         "milano.corriere.it",
         "ilgiornale.it",
@@ -44,15 +44,63 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.unita.it/2026/03/17/indagato-caporalato-andrea-dini-cognato-governatore-fontana-controllo-giudiziario-paul-shark/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/17/indagato-per-caporalato-il-cognato-del-presidente-della-lombardia_65880093-8a8d-44af-8220-2fa3b11fcd1f.html",
         "http://milano.corriere.it/notizie/cronaca/26_marzo_17/milano-controllo-giudiziario-per-la-dama-spa-del-cognato-del-governatore-fontana-l-azienda-si-rifornisce-da-chi-sfrutta-operai-e3da3e27-f534-43ca-b730-90a0caef1xlk.shtml",
         "https://www.ilgiornale.it/news/interni/indagato-caporalato-cognato-presidente-lombardia-attilio-2639452.html",
-        "https://www.ilmessaggero.it/persone/andrea_dini_attilio_fontana_cognato_indagato_chi_e-9421246.html",
-        "https://www.fanpage.it/milano/il-cognato-del-presidente-di-regione-lombardia-attilio-fontana-e-indagato-per-caporalato-commissariata-paulshark/"
+        "https://www.ilmessaggero.it/persone/andrea_dini_attilio_fontana_cognato_indagato_chi_e-9421246.html"
       ]
     },
     {
       "rank": 3,
+      "title": "Rapina in casa di El Aynaoui, calciatore della Roma chiuso in una stanza: rubati gioielli e Rolex",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "roma.corriere.it",
+        "fanpage.it",
+        "ansa.it",
+        "roma.repubblica.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/el-aynaoui-smalling-zaccagni-giocatori-rapine-roma-tutti-i-precedenti_kjCdUml5SVs584fAv9ayl",
+        "https://www.ilfattoquotidiano.it/2026/03/17/rapina-el-aynaoui-roma-calciatore-sequestrato-famiglia-rolex-bottino/8326948/",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_17/roma-rapina-da-arancia-meccanica-nella-notte-in-casa-del-romanista-el-aynaoui-in-ostaggio-di-sei-banditi-con-tutta-la-famiglia-9ff05d42-b1a0-45f8-a8fe-fc5a33953xlk.shtml",
+        "https://www.fanpage.it/sport/calcio/rapina-in-casa-per-el-aynaoui-il-calciatore-della-roma-chiuso-in-una-stanza-con-madre-e-fidanzata/",
+        "https://www.fanpage.it/roma/banda-armata-nella-villa-di-el-aynaoui-il-giocatore-della-roma-minacciato-con-una-pistola-e-rapinato/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Arrestato di nuovo Baby Gang: il trapper è coinvolto in un’indagine per armi, rapine e maltrattamenti",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "milano.corriere.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/italia/46848399/nuovi-guai-per-baby-gang-arresto-ed-accuse-pesanti-dal-possesso-di-armi-alla-rapina/",
+        "https://www.ilfattoquotidiano.it/2026/03/17/baby-gang-arrestato-di-nuovo-per-porto-abusivo-di-armi-e-rapina-a-marzo-il-trapper-dopo-la-condanna-a-2-anni-e-8-mesi-aveva-promesso-ora-basta-solo-musica/8326963/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/17/armi-e-rapine-nuovo-arresto-per-il-rapper-baby-gang_c57b0ccd-a4da-47ff-9b19-b4348f8863f2.html",
+        "https://www.ilgiornale.it/news/cronaca-locale/armi-e-rapina-nuovo-arresto-trapper-baby-gang-2639408.html",
+        "https://www.ilmessaggero.it/italia/rapper_baby_gang_arrestato_oggi-9421117.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Iran, Trump: alcuni alleati non entusiasti di proteggere Hormuz",
       "source_count": 6,
       "article_count": 11,
@@ -73,52 +121,69 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Arrestato di nuovo Baby Gang: il trapper è coinvolto in un’indagine per armi, rapine e maltrattamenti",
-      "source_count": 8,
-      "article_count": 8,
+      "rank": 6,
+      "title": "Giornata Unità: Mattarella depone corona, poi le Frecce Tricolori",
+      "source_count": 3,
+      "article_count": 14,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "milano.corriere.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "liberoquotidiano.it",
+        "video.corriere.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/17/baby-gang-arrestato-di-nuovo-per-porto-abusivo-di-armi-e-rapina-a-marzo-il-trapper-dopo-la-condanna-a-2-anni-e-8-mesi-aveva-promesso-ora-basta-solo-musica/8326963/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/17/armi-e-rapine-nuovo-arresto-per-il-rapper-baby-gang_c57b0ccd-a4da-47ff-9b19-b4348f8863f2.html",
-        "https://www.ilgiornale.it/news/cronaca-locale/armi-e-rapina-nuovo-arresto-trapper-baby-gang-2639408.html",
-        "https://www.ilmessaggero.it/italia/rapper_baby_gang_arrestato_oggi-9421117.html",
-        "http://milano.corriere.it/notizie/cronaca/26_marzo_17/il-trapper-baby-gang-ci-ricasca-un-nuovo-arresto-e-perquisizioni-a-lecco-d828fa8d-d9c5-4857-aa8a-53f1fe6abxlk.shtml"
+        "https://www.liberoquotidiano.it/video/pillole/46848379/unita-d-italia-mattarella-depone-corona-d-alloro-sulla-tomba-del-milite-ignoto/",
+        "https://www.liberoquotidiano.it/video/tv-news/46849843/giornata-unita-mattarella-depone-corona-poi-le-frecce-tricolori/",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46848331/giornata-dell-unita-d-italia-l-omaggio-di-mattarella-al-milite-ignoto-all-altare-della-patria/",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46848333/giornata-unita-d-italia-il-passaggio-delle-frecce-tricolori-sopra-l-altare-della-patria/",
+        "https://video.corriere.it/il-passaggio-delle-frecce-tricolori-sopra-l-altare-della-patria-per-la-giornata-dell-unita-nazionale/54279975-ac92-4d36-abf8-819d867d7xlk"
       ]
     },
     {
-      "rank": 5,
-      "title": "Rapina in casa di El Aynaoui, calciatore della Roma chiuso in una stanza: rubati gioielli e Rolex",
+      "rank": 7,
+      "title": "Maxi tamponamento in galleria sulla Messina-Palermo: coinvolti 80 mezzi",
       "source_count": 7,
       "article_count": 8,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "fanpage.it",
         "ansa.it",
-        "roma.repubblica.it",
-        "ilgiornale.it",
+        "adnkronos.com",
+        "corriere.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/17/rapina-el-aynaoui-roma-calciatore-sequestrato-famiglia-rolex-bottino/8326948/",
-        "https://www.fanpage.it/sport/calcio/rapina-in-casa-per-el-aynaoui-il-calciatore-della-roma-chiuso-in-una-stanza-con-madre-e-fidanzata/",
-        "https://www.fanpage.it/roma/banda-armata-nella-villa-di-el-aynaoui-il-giocatore-della-roma-minacciato-con-una-pistola-e-rapinato/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/17/rapina-in-casa-el-aynaoui-calciatore-della-roma-chiuso-in-una-stanza_3bfad3a5-e5e4-4c97-905f-103670b23e23.html",
-        "https://roma.repubblica.it/cronaca/2026/03/17/news/furto_casa_neil_el_aynaoui_soldi_gioielli-425226893/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/17/maxi-tamponamento-in-galleria-messina-palermo-coinvolti-80-mezzi_f99af137-63e4-48a2-8d9b-63aca68c5885.html",
+        "https://www.adnkronos.com/cronaca/incidente-autostrada-oggi-maxi-tamponamento-a-catena-galleria_1l6klriX7umDEUf2cVRnzz",
+        "https://www.corriere.it/cronache/26_marzo_17/incidente-a-catena-sulla-messina-palermo-tir-e-automobili-intrappolati-in-un-tunnel-e-maxi-coda-ab114b3c-9269-4940-9493-476cf8327xlk.shtml",
+        "https://www.liberoquotidiano.it/news/italia/46849042/maxi-tamponamento-galleria-a20-80-mezzi-coinvolti-ambulanze-vigili-del-fuoco/",
+        "https://www.fanpage.it/attualita/maxi-tamponamento-in-galleria-a-messina-autostrada-bloccata-e-oltre-80-mezzi-coinvolti/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "title": "Politico spietato o fine intellettuale, chi è Ali Larijani: fedele di Khamenei che Idf dà per morto",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "corriere.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/video/tv-news/46850008/iran-israele-annuncia-l-uccisione-di-ali-larijani/",
+        "https://www.corriere.it/esteri/26_marzo_17/ali-larijani-ucciso-israele-7eec095f-f7b8-4438-be7f-a7b898264xlk.shtml",
+        "https://www.adnkronos.com/internazionale/esteri/ali-larijani-morto-chi-era_1XsMWklpY2nlDUTr2C1DXz",
+        "https://www.ilmessaggero.it/mondo/larijani_ucciso_israele_iran_messaggio_telegram_chi_era-9421244.html",
+        "https://www.repubblica.it/esteri/2026/03/17/news/chi_e_ali_larijani_iran_khamenei_repressioni-425226944/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "A Cinturrino contestato l'omicidio premeditato. L'inchiesta si allarga: altri due agenti indagati",
       "source_count": 5,
       "article_count": 8,
@@ -138,7 +203,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "Israele attacca Teheran e Beirut. Esplosioni a Doha e Dubai. Baghdad, drone vicino ambasciata Usa",
       "source_count": 6,
       "article_count": 7,
@@ -156,68 +221,6 @@
         "https://www.repubblica.it/esteri/2026/03/17/diretta/guerra_iran_usa_israele_news_oggi-425226345/",
         "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-17-marzo/",
         "https://www.corriere.it/esteri/diretta-live/26_marzo_17/guerra-in-iran-le-ultime-notizie-in-diretta-nella-notte-missili-sul-nord-di-israele-e-l-idf-attacchi-a-teheran-e-beirut-baghdad.shtml"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Cosa votare al Referendum Giustizia, la guida last minute per indecisi",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "lastampa.it",
-        "fanpage.it",
-        "repubblica.it",
-        "corriere.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/politica/2026/03/17/news/guida_al_referendum_mandaci_le_domande_risponde_il_costituzionalista-15548119/",
-        "https://www.fanpage.it/politica/cosa-votare-al-referendum-giustizia-la-guida-last-minute-per-indecisi/",
-        "https://www.repubblica.it/politica/2026/03/17/news/referendum_giustizia_cosa_cambia_costituzione-425226004/",
-        "https://www.lastampa.it/politica/2026/03/17/news/guida_al_referendum_le_ragioni_del_si_e_del_no-15547770/",
-        "https://www.lastampa.it/politica/2026/03/17/news/referendum_giustizia_si_o_no_dalle_carriere_all_alta_corte_ecco_cosa_potrebbe_cambiare-15547584/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Meloni ferma su Hormuz, sarebbe un passo verso il coinvolgimento in guerra",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "roma.corriere.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "http://roma.corriere.it/notizie/politica/26_marzo_17/meloni-no-stretto-hormuz-af41df2d-3206-40c7-9193-40104db53xlk.shtml",
-        "https://www.adnkronos.com/internazionale/esteri/trump-piano-hormuz-elenco-paesi_46ew8q5KV3WF7G0IL45XEQ",
-        "https://www.lastampa.it/politica/2026/03/17/news/meloni_frena_su_hormuz_non_mandiamo_le_navi_per_aspides_il_nodo_risorse-15547609/",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/16/meloni-ferma-su-hormuz-sarebbe-un-passo-verso-il-coinvolgimento-in-guerra_82805b79-52a3-4518-ad71-3a1196a71f0b.html",
-        "https://www.ilfattoquotidiano.it/2026/03/16/guerra-in-iran-meloni-trump-navi-italiane-stretto-hormuz-news-intervista/8326474/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Baseball, finisce il sogno dell’Italia. Venezuela in finale contro gli Usa. Trump: “Vittoria magica”",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "adnkronos.com",
-        "lastampa.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/baseball-italia-ko-4-2-contro-venezuela-world-classic_XWPljevNtOWCGiCfD7tcJ",
-        "https://www.lastampa.it/sport/2026/03/17/news/baseball_mondiali_italia_venezuela_2_4-15548000/",
-        "https://www.fanpage.it/sport/altri-sport/litalia-sogna-ma-non-basta-world-baseball-classic-chiuso-al-4-posto-in-finale-va-il-venezuela/",
-        "https://www.ilgiornale.it/news/altri-sport/baseball-finisce-sogno-dell-italia-azzurri-battuti-venezuela-2639400.html",
-        "https://www.repubblica.it/sport/2026/03/17/news/baseball_italia_venezuela_sconfitta-425226422/"
       ]
     }
   ]
