@@ -1,36 +1,109 @@
 {
   "date": "2026-03-18",
-  "generated_at": "Wed 18 Mar 10:06",
+  "generated_at": "Wed 18 Mar 11:52",
   "stories": [
     {
       "rank": 1,
       "title": "Israele: «Abbiamo ucciso Larijani e Soleimani»",
       "source_count": 8,
-      "article_count": 14,
+      "article_count": 16,
       "source_domains": [
+        "adnkronos.com",
         "ilgiornale.it",
         "ilmessaggero.it",
         "lastampa.it",
         "ansa.it",
         "corriere.it",
         "repubblica.it",
-        "adnkronos.com",
         "news.google.com"
       ],
       "links": [
+        "https://www.adnkronos.com/internazionale/esteri/israele-uccide-esmaeil-khatib-chi-era-il-ministro-dellintelligence-iraniano-il-suo-ruolo_6ogz0ekxEuK1UWrB3nKHjt",
+        "https://www.ilgiornale.it/news/guerra/cosa-resta-male-2639915.html",
         "https://www.ilgiornale.it/news/guerra/chi-esmail-khatib-l-uomo-ombra-dell-intelligence-iraniana-2639953.html",
         "https://www.ilmessaggero.it/persone/esmail_khatib_chi_era_ministro_intelligence_iran_ucciso-9423247.html",
-        "https://www.lastampa.it/esteri/2026/03/18/news/iran_morte_esmal_khatib_ministro_intelligence_iraniana-15549579/",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/03/18/prime-pagine-israele-elimina-larijani-il-comandante-delle-forze-basij-soleimani_c2ce9bde-e34e-4221-8b26-88750d18c7ce.html",
-        "https://www.corriere.it/esteri/26_marzo_18/chi-era-gholamreza-soleimani-basij-ucciso-fd1144f7-3fb3-46ac-b962-81830e2e8xlk.shtml"
+        "https://www.ilmessaggero.it/persone/khatib_chi_era_ministro_intelligence_iran_ucciso-9423247.html"
       ]
     },
     {
       "rank": 2,
-      "title": "Chi è Joe Kent, il Rambo che si è dimesso da capo dell'antiterrorismo Usa e che ora accusa Trump: «L'Iran non era una minaccia imminente»",
-      "source_count": 9,
-      "article_count": 11,
+      "title": "Incendio alla Biennale di Venezia, fiamme sul tetto del padiglione della Serbia: il fuoco alimentato dal forte vento",
+      "source_count": 11,
+      "article_count": 12,
       "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "corrieredelveneto.corriere.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/18/incendio-alla-biennale-coinvolto-il-padiglione-serbia-_179f030b-336d-42d9-9a1b-715861c3cdb5.html",
+        "https://www.adnkronos.com/cronaca/biennale-arte-incendio-su-tetto-padiglione-serbia-nessun-ferito_1otY4c8kMJB2TayXqIB2j9",
+        "http://corrieredelveneto.corriere.it/notizie/venezia-mestre/cronaca/26_marzo_18/incendio-alla-biennale-di-venezia-fiamme-sul-tetto-del-padiglione-della-serbia-il-fuoco-alimentato-dal-forte-vento-3db51615-f6bf-4967-92b0-a2dd281d3xlk.shtml",
+        "http://corrieredelveneto.corriere.it/notizie/venezia-mestre/cronaca/26_marzo_18/incendio-alla-biennale-di-venezia-fiamme-sul-tetto-del-padiglione-della-serbia-il-fuoco-alimentato-dal-forte-vento-3db51615-f6bf-4967-92b0-a2dd281d3xlk.shtml",
+        "https://www.fanpage.it/attualita/incendio-alla-biennale-di-venezia-coinvolto-il-padiglione-della-serbia-fiamme-e-fumo-dal-tetto/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "L'Iran minaccia vendetta per la morte di Larijani. Raid israeliani su Beirut, morti e feriti - LIVEBLOG",
+      "source_count": 7,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "video.corriere.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/18/israele-ucciso-il-ministro-dellintelligence-iraniano.-verso-nuovi-patriot-schierati-in-turchia_85e0ff46-8089-444c-a288-3ec9e1b71c00.html",
+        "https://www.repubblica.it/esteri/2026/03/18/news/tel_aviv_bombe_cluster_a_grappolo_iran-425229368/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/18/lidf-attacco-contro-il-ministro-dellintelligence-iraniano.-missili-su-tel-aviv-sei_85e0ff46-8089-444c-a288-3ec9e1b71c00.html",
+        "https://www.liberoquotidiano.it/video/libero-video/46861901/israele-missile-iraniano-colpisce-edificio-ramat-gan-due-morti/",
+        "https://www.liberoquotidiano.it/video/tv-news/46861974/israele-morti-i-due-cittadini-feriti-da-un-missile-iraniano/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Clamoroso ribaltone in Coppa d’Africa, vince a tavolino il Marocco: tolto il trofeo al Senegal",
+      "source_count": 9,
+      "article_count": 12,
+      "source_domains": [
+        "adnkronos.com",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "unita.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/coppa-d-africa-infinita-senegal-annuncia-ricorso-tas-dopo-vittoria-tavolino-marocco_4UcWnl6nUtlS2BDmErpqW5",
+        "https://www.fanpage.it/sport/calcio/il-senegal-rischia-di-essere-escluso-dalla-prossima-coppa-dafrica-cosa-dice-larticolo-59/",
+        "https://www.ilfattoquotidiano.it/2026/03/18/coppa-africa-senegal-controricorso-marocco-farsa-vergnogna-eseguito-ordine/8328087/",
+        "https://www.unita.it/2026/03/18/senegal-perdente-tavolino-marocco-campione-africa-finale/",
+        "https://www.fanpage.it/sport/calcio/la-reazione-di-brahim-diaz-quando-gli-dicono-che-il-marocco-ha-vinto-la-coppa-dafrica-davvero/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Il capo dell'antiterrorismo americano si dimette: «L'Iran non è una minaccia, guerra nata per la pressione di Israele». Casa Bianca: falsità, voleva attaccarci",
+      "source_count": 9,
+      "article_count": 12,
+      "source_domains": [
+        "ilgiornale.it",
         "unita.it",
         "repubblica.it",
         "ilmanifesto.it",
@@ -38,19 +111,18 @@
         "ansa.it",
         "corriere.it",
         "lastampa.it",
-        "ilgiornale.it",
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/teheran-non-era-minaccia-scontro-negli-usa-2639793.html",
         "https://www.unita.it/2026/03/18/il-capo-dellantiterrorismo-usa-lascia-e-sbugiarda-trump-la-guerra-in-iran-su-ordine-di-israele/",
         "https://www.repubblica.it/esteri/2026/03/18/news/usa_capo_dell_antiterrorismo_joe_kent_chi_e-425228666/",
         "https://ilmanifesto.it/si-dimette-il-capo-dellantiterrorismo-usa-liran-non-e-una-minaccia",
-        "https://ilmanifesto.it/trump-si-e-infilato-nello-stretto-e-non-sa-uscirne",
-        "https://www.laverita.info/liran-una-minaccia-balle-di-israele-2676268798.html"
+        "https://ilmanifesto.it/trump-si-e-infilato-nello-stretto-e-non-sa-uscirne"
       ]
     },
     {
-      "rank": 3,
+      "rank": 6,
       "title": "Bonus moto e motorini al via, fino a 4.000 euro di contributi: requisiti, chi può richiederlo e come fare domanda",
       "source_count": 9,
       "article_count": 11,
@@ -74,94 +146,70 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Marco Giallini operato al femore, i colleghi: \"Caduto perché un cane gli è saltato addosso\"",
-      "source_count": 9,
+      "rank": 7,
+      "title": "Non solo Hormuz: così l'Iran allarga il tiro della guerra del petrolio e raggiunge anche il «mediatore» Oman",
+      "source_count": 5,
       "article_count": 10,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/video/tv-news/46864259/guerra-in-medio-oriente-iran-sotto-pressione-su-piu-fronti/",
+        "https://www.lastampa.it/esteri/2026/03/18/news/il_militare_cinese_zhou_bo_perche_ora_mediamo_noi_tra_usa_e_iran-15549530/",
+        "https://www.corriere.it/esteri/26_marzo_18/non-solo-hormuz-iran-guerra-petrolio-oman-d89db269-451c-4d73-be74-9ea029891xlk.shtml",
+        "https://www.ilgiornale.it/news/economia-e-finanza/affari-d-oro-nello-stretto-hormuz-misterioso-magnate-che-ha-2639757.html",
+        "https://www.ilgiornale.it/news/politica-estera/nave-spia-cinese-nel-golfo-cosa-fa-liaowang-1-e-cosa-2639756.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Marco Giallini, incidente ad Aosta: l'attore si frattura una gamba. Riprese di \"Rocco Schiavone\" interrotte",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
         "adnkronos.com",
         "ansa.it",
         "ilfattoquotidiano.it",
         "torino.corriere.it",
-        "fanpage.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "ilmessaggero.it"
       ],
       "links": [
         "https://www.adnkronos.com/spettacoli/marco-giallini-operato-al-femore-i-colleghi-caduto-perche-un-cane-gli-e-saltato-addosso_4yX50hy3FJo62e2tyCTx2r",
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/18/incidente-per-marco-giallini-e-stato-operato-e-andato-tutto-bene_d5492353-d2bb-46f2-8931-55fcc32c5d75.html",
         "https://www.ilfattoquotidiano.it/2026/03/18/un-cane-gli-e-saltato-addosso-e-lo-ha-fatto-cadere-si-e-rotto-la-testa-del-femore-come-sta-marco-giallini-dopo-lincidente-ad-aosta/8327969/",
         "http://torino.corriere.it/notizie/piemonte/26_marzo_17/rocco-schiavone-fu-ferito-marco-giallini-cade-e-si-frattura-un-femore-davanti-all-hotel-ad-aosta-stop-alle-riprese-della-settima-0a911574-ec71-4fa2-919b-fb6b6b2f9xlk.shtml",
-        "https://www.fanpage.it/spettacolo/personaggi/marco-giallini-operato-al-femore-dopo-lincidente-un-cane-gli-e-saltato-addosso/"
+        "https://www.ilgiornale.it/news/tv/incidente-marco-giallini-stop-riprese-rocco-schiavone-cosa-2639740.html"
       ]
     },
     {
-      "rank": 5,
-      "title": "L'Idf: 'Attacco contro il ministro dell'Intelligence iraniano'. Missili su Tel Aviv, sei morti a Beirut - LIVEBLOG",
-      "source_count": 7,
-      "article_count": 11,
+      "rank": 9,
+      "title": "Ancona sarà Capitale italiana della Cultura 2028",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "video.corriere.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "fanpage.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/18/lidf-attacco-contro-il-ministro-dellintelligence-iraniano.-missili-su-tel-aviv-sei_85e0ff46-8089-444c-a288-3ec9e1b71c00.html",
-        "https://www.liberoquotidiano.it/video/tv-news/46861974/israele-morti-i-due-cittadini-feriti-da-un-missile-iraniano/",
-        "https://video.corriere.it/esteri/missile-israeliano-fa-esplodere-un-edificio-a-beirut-in-libano-il-video/f50f82d9-e233-465d-afef-956cbacf5xlk",
-        "https://www.liberoquotidiano.it/video/libero-video/46860621/libano-attacchi-israeliani-centro-beirut-almeno-6-morti-24-feriti/",
-        "https://www.ilgiornale.it/news/guerra/bombe-grappolo-su-tel-aviv-teheran-conseguenze-questa-guerra-2639905.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Clamoroso ribaltone in Coppa d’Africa, vince a tavolino il Marocco: tolto il trofeo al Senegal",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
         "corriere.it",
+        "ansa.it",
+        "adnkronos.com",
         "ilmessaggero.it",
         "repubblica.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.fanpage.it/sport/calcio/la-reazione-di-brahim-diaz-quando-gli-dicono-che-il-marocco-ha-vinto-la-coppa-dafrica-davvero/",
-        "https://www.ilgiornale.it/news/calcio/clamoroso-ribaltone-coppa-d-africa-vince-tavolino-marocco-2639913.html",
-        "https://www.ilfattoquotidiano.it/2026/03/18/coppa-africa-marocco-campione-tavolino-senegal-motivi-perche-decisione/8327940/",
-        "https://www.corriere.it/sport/calcio/26_marzo_17/coppa-africa-senegal-marocco-tavolino-727f8970-9395-4c67-9a95-134cd432axlk.shtml",
-        "https://www.ilmessaggero.it/sport/calcio/coppa_africa_marocco_campione_senegal_cosa_e_successo-9421980.html"
+        "https://www.corriere.it/cultura/26_marzo_18/ancona-e-la-capitale-italiana-della-cultura-2028-02665316-dd0a-49b2-b25a-65c6b9d88xlk.shtml",
+        "https://www.corriere.it/cultura/26_marzo_18/ancona-e-la-capitale-italiana-della-cultura-2028-02665316-dd0a-49b2-b25a-65c6b9d88xlk.shtml",
+        "https://www.ansa.it/sito/notizie/cultura/2026/03/18/ancona-sara-capitale-italiana-della-cultura-2028-_4544a7c3-ff45-4b75-9df3-7e7173c42c80.html",
+        "https://www.adnkronos.com/cultura/ancona-capitale-cultura-2028_4Fut032v9E8n8lQQW2qULf",
+        "https://www.ilmessaggero.it/italia/ancona_capitale_cultura_2028_annuncio-9423319.html"
       ]
     },
     {
-      "rank": 7,
-      "title": "Non solo Hormuz: così l'Iran allarga il tiro della guerra del petrolio e raggiunge anche il «mediatore» Oman",
-      "source_count": 4,
-      "article_count": 8,
-      "source_domains": [
-        "lastampa.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/esteri/2026/03/18/news/il_militare_cinese_zhou_bo_perche_ora_mediamo_noi_tra_usa_e_iran-15549530/",
-        "https://www.corriere.it/esteri/26_marzo_18/non-solo-hormuz-iran-guerra-petrolio-oman-d89db269-451c-4d73-be74-9ea029891xlk.shtml",
-        "https://www.ilgiornale.it/news/economia-e-finanza/affari-d-oro-nello-stretto-hormuz-misterioso-magnate-che-ha-2639757.html",
-        "https://www.ilgiornale.it/news/politica-estera/nave-spia-cinese-nel-golfo-cosa-fa-liaowang-1-e-cosa-2639756.html",
-        "https://www.ilgiornale.it/news/alvise-biffi-presidente-assolombarda-2639822.html"
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 10,
       "title": "Champions, oggi Bayern Monaco-Atalanta: orario, probabili formazioni e dove vederla",
       "source_count": 4,
       "article_count": 8,
@@ -177,48 +225,6 @@
         "https://www.fanpage.it/sport/calcio/bayern-atalanta-dove-vederla-in-tv-e-streaming-orario-e-formazioni-della-partita-di-champions/",
         "https://www.adnkronos.com/sport/tottenham-atletico-madrid-oggi-ottavi-champions-league-orario-dove-vederla-tv-probabili-formazioni_5bvQkp5SrXfz4qDrZAyeul",
         "https://www.adnkronos.com/sport/liverpool-galatasaray-oggi-champions-league-orario-probabili-formazioni-dove-vederla-tv-streaming_6xlLJQoufklie0wfiU1Svf"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Caporalato nella moda: commissariata la Dama Spa",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "milano.corriere.it",
-        "unita.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/17/indagato-per-caporalato-il-cognato-del-presidente-della-lombardia_65880093-8a8d-44af-8220-2fa3b11fcd1f.html",
-        "http://milano.corriere.it/notizie/cronaca/26_marzo_17/milano-controllo-giudiziario-per-la-dama-spa-del-cognato-del-governatore-fontana-l-azienda-si-rifornisce-da-chi-sfrutta-operai-e3da3e27-f534-43ca-b730-90a0caef1xlk.shtml",
-        "https://www.unita.it/2026/03/17/indagato-caporalato-andrea-dini-cognato-governatore-fontana-controllo-giudiziario-paul-shark/",
-        "https://www.ilmessaggero.it/persone/andrea_dini_attilio_fontana_cognato_indagato_chi_e-9421246.html",
-        "https://www.ilsole24ore.com/art/caporalato-indagato-cognato-attilio-fontana-commissariata-paulshark-AIH5pG0B"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Meloni a Pulp Podcast per il referendum, Fedez contro le polemiche: “Abbiamo invitato anche Schlein e Conte”",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "lastampa.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "unita.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/rubriche/l-oblo/2026/03/18/audio/melonez_a_caccia_di_giovani_e_il_dialogo_con_le_toghe_a_posteriori-15549324/",
-        "https://www.fanpage.it/politica/meloni-da-fedez-per-il-referendum-lultima-spiaggia-per-far-vincere-il-si/",
-        "https://www.ilgiornale.it/news/interni/benvenuti-nella-podcastizzazione-politica-2639692.html",
-        "https://www.ilmessaggero.it/politica/meloni_pulp_podcast_fedez_mr_marra-9421602.html",
-        "https://www.unita.it/2026/03/17/meloni-ospite-pulp-podcast-fedez-referendum-giustizia/"
       ]
     }
   ]
