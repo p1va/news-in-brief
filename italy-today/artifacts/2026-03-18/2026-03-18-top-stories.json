@@ -1,15 +1,15 @@
 {
   "date": "2026-03-18",
-  "generated_at": "Wed 18 Mar 20:59",
+  "generated_at": "Wed 18 Mar 21:42",
   "stories": [
     {
       "rank": 1,
-      "title": "Caro benzina e diesel, il governo corre ai ripari. Meloni: \"Tagliamo 25 centesimi al litro\"",
+      "title": "Caro carburanti, Salvini \"Sostanzioso taglio delle accise in Cdm\"",
       "source_count": 11,
-      "article_count": 19,
+      "article_count": 20,
       "source_domains": [
-        "fanpage.it",
         "liberoquotidiano.it",
+        "fanpage.it",
         "ilgiornale.it",
         "ansa.it",
         "adnkronos.com",
@@ -21,11 +21,11 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/video/pillole/46875149/meloni-combattiamo-la-speculazione-prezzi-giu-/",
         "https://www.fanpage.it/politica/prezzi-benzina-e-gasolio-decreto-del-governo-taglia-accise-meno-25-cent-al-litro-subito/",
         "https://www.liberoquotidiano.it/video/pillole/46874551/caro-carburanti-salvini-sostanzioso-taglio-delle-accise-in-cdm-/",
         "https://www.ilgiornale.it/news/interni/taglio-accise-20-giorni-lotta-speculazioni-social-card-tutte-2640207.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/03/18/via-libera-del-cdm-al-decreto-legge-per-tagliare-il-prezzo-dei_e80d053a-881b-4e3a-8883-1a144b6cff43.html",
-        "https://www.adnkronos.com/economia/prezzo-benzina-diesel-taglio-accise_3TWQHiSL6wZ75EqQhxZVsf"
+        "https://www.ansa.it/sito/notizie/economia/2026/03/18/via-libera-del-cdm-al-decreto-legge-per-tagliare-il-prezzo-dei_e80d053a-881b-4e3a-8883-1a144b6cff43.html"
       ]
     },
     {
@@ -162,29 +162,6 @@
     },
     {
       "rank": 7,
-      "title": "Esmail Khatib, chi era il ministro dell'Intelligence di Teheran ucciso in un raid di Israele: le controversie e le accuse internazionali",
-      "source_count": 8,
-      "article_count": 15,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "corriere.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/18/israele-ucciso-il-ministro-dellintelligence-di-teheran.-i-pasdaran-minacciano-i-siti-petrolchimici-del_85e0ff46-8089-444c-a288-3ec9e1b71c00.html",
-        "https://www.repubblica.it/esteri/2026/03/18/news/ministro_dell_intelligence_khatib_ucciso_chi_rimasto_comando_teheran-425229802/",
-        "https://www.liberoquotidiano.it/video/tv-news/46867186/israele-afferma-di-aver-ucciso-il-ministro-dell-intelligence-iraniano/",
-        "https://www.adnkronos.com/internazionale/esteri/israele-uccide-esmaeil-khatib-chi-era-il-ministro-dellintelligence-iraniano-il-suo-ruolo_6ogz0ekxEuK1UWrB3nKHjt",
-        "https://www.ilgiornale.it/news/guerra/cosa-resta-male-2639915.html"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "L'Iran minaccia vendetta per la morte di Larijani. Raid israeliani su Beirut, morti e feriti - LIVEBLOG",
       "source_count": 7,
       "article_count": 16,
@@ -206,7 +183,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Femminicidio a Bergamo, donna di 42 anni uccisa a coltellate dal marito: l'uomo ha poi cercato di togliersi la vita",
       "source_count": 10,
       "article_count": 13,
@@ -228,6 +205,29 @@
         "https://www.unita.it/2026/03/18/femminicidio-bergamo-marito-uccide-moglie-coltellate/",
         "https://www.ilmessaggero.it/italia/bergamo_donna_uccisa_coltellate_marito_ultima_ora-9423664.html",
         "https://www.ilmessaggero.it/italia/valentina_sarto_uccisa_coltellate_marito_bergamo_ultima_ora-9423664.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Esmail Khatib, chi era il ministro dell'Intelligence di Teheran ucciso in un raid di Israele: le controversie e le accuse internazionali",
+      "source_count": 8,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "corriere.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/18/israele-ucciso-il-ministro-dellintelligence-di-teheran.-i-pasdaran-minacciano-i-siti-petrolchimici-del_85e0ff46-8089-444c-a288-3ec9e1b71c00.html",
+        "https://www.repubblica.it/esteri/2026/03/18/news/ministro_dell_intelligence_khatib_ucciso_chi_rimasto_comando_teheran-425229802/",
+        "https://www.liberoquotidiano.it/video/tv-news/46867186/israele-afferma-di-aver-ucciso-il-ministro-dell-intelligence-iraniano/",
+        "https://www.adnkronos.com/internazionale/esteri/israele-uccide-esmaeil-khatib-chi-era-il-ministro-dellintelligence-iraniano-il-suo-ruolo_6ogz0ekxEuK1UWrB3nKHjt",
+        "https://www.ilgiornale.it/news/guerra/cosa-resta-male-2639915.html"
       ]
     },
     {
