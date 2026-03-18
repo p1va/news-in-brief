@@ -1,6 +1,6 @@
 {
   "date": "2026-03-18",
-  "generated_at": "Wed 18 Mar 19:10",
+  "generated_at": "Wed 18 Mar 19:30",
   "stories": [
     {
       "rank": 1,
@@ -182,9 +182,34 @@
     },
     {
       "rank": 8,
+      "title": "Bonus moto e motorini al via, fino a 4 mila euro di contributi",
+      "source_count": 10,
+      "article_count": 12,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "fanpage.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/economia/news/bonus_moto_requisiti_chi_puo_richiedere-9423937.html",
+        "https://www.ansa.it/canale_motori/notizie/due_ruote/2026/03/18/bonus-per-moto-e-motorini-gia-impegnate-tutte-le-risorse_d146a8cd-3ec6-4ca8-bb80-3d3cbaa5310e.html",
+        "https://www.ilfattoquotidiano.it/2026/03/18/ecobonus-ciclomotori-incentivi-prenotazioni-news/8328415/",
+        "https://www.ansa.it/canale_motori/notizie/due_ruote/2026/03/18/bonus-moto-e-motorini-al-via-fino-a-4-mila-euro-di-contributi_d146a8cd-3ec6-4ca8-bb80-3d3cbaa5310e.html",
+        "https://www.ilgiornale.it/news/cittadini/ecobonus-moto-e-ciclomotori-ottenere-fino-4mila-euro-2639941.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Femminicidio a Bergamo, donna di 42 anni uccisa a coltellate dal marito: l'uomo ha poi cercato di togliersi la vita",
       "source_count": 10,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
         "adnkronos.com",
         "unita.it",
@@ -201,42 +226,20 @@
         "https://www.adnkronos.com/cronaca/uccisa-coltellate-bergamo-marito-arrestato_IzsjrdqlXEG9Dl2uu4JBp",
         "https://www.unita.it/2026/03/18/femminicidio-bergamo-marito-uccide-moglie-coltellate/",
         "https://www.ilmessaggero.it/italia/bergamo_donna_uccisa_coltellate_marito_ultima_ora-9423664.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/18/femminicidio-a-bergamo-donna-uccisa-a-coltellate-dal-marito_648eb4a0-b87c-4bf7-b822-6edfd6399726.html",
-        "http://bergamo.corriere.it/notizie/cronaca/26_marzo_18/femminicidio-a-bergamo-donna-di-42-anni-uccisa-a-coltellate-dal-marito-l-uomo-ha-poi-cercato-di-togliersi-la-vita-ce17b70a-3d90-4d24-a129-f6ea133f7xlk.shtml"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Bonus moto e motorini al via, fino a 4 mila euro di contributi",
-      "source_count": 9,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "fanpage.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/canale_motori/notizie/due_ruote/2026/03/18/bonus-per-moto-e-motorini-gia-impegnate-tutte-le-risorse_d146a8cd-3ec6-4ca8-bb80-3d3cbaa5310e.html",
-        "https://www.ilfattoquotidiano.it/2026/03/18/ecobonus-ciclomotori-incentivi-prenotazioni-news/8328415/",
-        "https://www.ansa.it/canale_motori/notizie/due_ruote/2026/03/18/bonus-moto-e-motorini-al-via-fino-a-4-mila-euro-di-contributi_d146a8cd-3ec6-4ca8-bb80-3d3cbaa5310e.html",
-        "https://www.ilgiornale.it/news/cittadini/ecobonus-moto-e-ciclomotori-ottenere-fino-4mila-euro-2639941.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/03/18/bonus-moto-e-motorini-al-via-fino-a-4-mila-euro-di-contributi_5d085b26-29de-4d48-bcda-14f5e5134876.html"
+        "https://www.ilmessaggero.it/italia/valentina_sarto_uccisa_coltellate_marito_bergamo_ultima_ora-9423664.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/18/femminicidio-a-bergamo-donna-uccisa-a-coltellate-dal-marito_648eb4a0-b87c-4bf7-b822-6edfd6399726.html"
       ]
     },
     {
       "rank": 10,
       "title": "Decreto carburanti: sul tavolo taglio accise, stretta antispeculatori, aiuti ai camionisti",
-      "source_count": 8,
-      "article_count": 10,
+      "source_count": 10,
+      "article_count": 12,
       "source_domains": [
+        "fanpage.it",
         "ilgiornale.it",
         "ansa.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "repubblica.it",
         "corriere.it",
@@ -245,11 +248,11 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.fanpage.it/politica/prezzi-benzina-e-gasolio-decreto-del-governo-taglia-accise-meno-25-cent-al-litro-subito/",
         "https://www.ilgiornale.it/news/interni/taglio-accise-20-giorni-lotta-speculazioni-social-card-tutte-2640207.html",
         "https://www.ansa.it/sito/notizie/economia/2026/03/18/via-libera-del-cdm-al-decreto-legge-per-tagliare-il-prezzo-dei_e80d053a-881b-4e3a-8883-1a144b6cff43.html",
-        "https://www.ilmessaggero.it/economia/news/decreto_carburanti_accise_benzina_cosa_prevede_governo-9423834.html",
-        "https://www.repubblica.it/economia/2026/03/18/news/accise_carburanti_il_decreto_in_cdm_bonus_benzina_aiuti_ai_camionisti-425230373/",
-        "https://www.ilgiornale.it/news/interni/carburanti-salvini-tetto-diesel-sotto-190-euro-stasera-cdm-2640162.html"
+        "https://www.ilfattoquotidiano.it/2026/03/18/bonus-carburanti-decreto-caro-benzina-meloni-notizie/8328706/",
+        "https://www.ilmessaggero.it/economia/news/decreto_carburanti_accise_benzina_cosa_prevede_governo-9423834.html"
       ]
     }
   ]
