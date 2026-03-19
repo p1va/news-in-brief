@@ -1,6 +1,6 @@
 {
   "date": "2026-03-19",
-  "generated_at": "Thu 19 Mar 08:54",
+  "generated_at": "Thu 19 Mar 09:55",
   "stories": [
     {
       "rank": 1,
@@ -52,6 +52,28 @@
     },
     {
       "rank": 3,
+      "title": "Missili israeliani colpiscono il giacimento di South Pars in Iran",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "ilgiornale.it",
+        "video.corriere.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "adnkronos.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/guerra/cos-south-pars-giacimento-che-alimenta-l-iran-e-fa-tremare-i-2640404.html",
+        "https://video.corriere.it/esteri/missili-israeliani-colpiscono-il-giacimento-di-south-pars-in-iran/977e9fd6-1e6f-4cf6-8cce-2fdea8b5bxlk",
+        "https://video.corriere.it/esteri/missili-israeliani-colpiscono-il-giacimento-di-south-pars-in-iran/977e9fd6-1e6f-4cf6-8cce-2fdea8b5bxlk",
+        "https://www.lastampa.it/esteri/2026/03/19/video/guerra_iran_usa_israele_missili_qatar_gnl_ras_laffan-15550937/",
+        "https://www.repubblica.it/esteri/2026/03/19/news/israele_guerra_energia_iran_missili_giacimento_gas_south_pars-425230853/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Referendum, sprint per il no. Centrosinistra unito in piazza: “Stavolta possiamo farcela”",
       "source_count": 7,
       "article_count": 10,
@@ -73,7 +95,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Femminicidio a Bergamo: Valentina Sarto uccisa dal marito. A dare l’allarme la figlia dell’uomo",
       "source_count": 7,
       "article_count": 9,
@@ -92,27 +114,6 @@
         "https://milano.repubblica.it/cronaca/2026/03/19/news/bergamo_valentina_sarto_femminicidio_vincenzo_dongellini-425230861/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/18/femminicidio-a-bergamo-donna-uccisa-a-coltellate-dal-marito_648eb4a0-b87c-4bf7-b822-6edfd6399726.html",
         "https://www.unita.it/2026/03/18/femminicidio-bergamo-marito-uccide-moglie-coltellate/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Missili israeliani colpiscono il giacimento di South Pars in Iran",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "video.corriere.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "adnkronos.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://video.corriere.it/esteri/missili-israeliani-colpiscono-il-giacimento-di-south-pars-in-iran/977e9fd6-1e6f-4cf6-8cce-2fdea8b5bxlk",
-        "https://video.corriere.it/esteri/missili-israeliani-colpiscono-il-giacimento-di-south-pars-in-iran/977e9fd6-1e6f-4cf6-8cce-2fdea8b5bxlk",
-        "https://www.lastampa.it/esteri/2026/03/19/video/guerra_iran_usa_israele_missili_qatar_gnl_ras_laffan-15550937/",
-        "https://www.repubblica.it/esteri/2026/03/19/news/israele_guerra_energia_iran_missili_giacimento_gas_south_pars-425230853/",
-        "https://www.repubblica.it/esteri/2026/03/19/news/gas_metano_iran_south_pars_crisi_israele_mercati-425231087/"
       ]
     },
     {
