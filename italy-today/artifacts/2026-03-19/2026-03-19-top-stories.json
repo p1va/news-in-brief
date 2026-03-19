@@ -1,12 +1,12 @@
 {
   "date": "2026-03-19",
-  "generated_at": "Thu 19 Mar 16:05",
+  "generated_at": "Thu 19 Mar 17:11",
   "stories": [
     {
       "rank": 1,
-      "title": "Carburanti, Decreto accise da 400 mln in vigore da oggi: taglio di 25 centesimi a litro",
-      "source_count": 11,
-      "article_count": 23,
+      "title": "Decreto carburanti, le decisioni ufficiali del governo: accise giù per 20 giorni, taglio di 25 centesimi e credito di imposta. «Obiettivo quota 1,9 euro»",
+      "source_count": 10,
+      "article_count": 22,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
@@ -17,7 +17,6 @@
         "fanpage.it",
         "lastampa.it",
         "liberoquotidiano.it",
-        "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
@@ -102,6 +101,28 @@
     },
     {
       "rank": 5,
+      "title": "Mattarella: Europa sappia dire di no a un ordine internazionale fondato sul conflitto",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "video.corriere.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/video/tv-news/46890006/mattarella-fondamenta-ue-solide-non-cedera-a-chi-vuole-smantellarla/",
+        "https://video.corriere.it/politica/il-richiamo-di-mattarella-l-europa-dica-no-ad-un-ampliamento-dei-conflitti-e-alla-perenne-instabilita-/41291a29-57fb-4ff3-9641-02aab2d24xlk",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46888774/mattarella-europa-indispensabile-per-la-pace-servono-giustizia-e-inclusione/",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46888777/mattarella-europa-sappia-dire-di-no-a-un-ordine-internazionale-fondato-sul-conflitto/",
+        "https://www.liberoquotidiano.it/video/pillole/46888105/mattarella-l-europa-sappia-dire-no-a-conflitti-e-perenne-instabilita-/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Trump: distruggeremo tutto il giacimento di South Pars se Teheran attaccherà ancora il Qatar",
       "source_count": 7,
       "article_count": 10,
@@ -123,7 +144,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Referendum, sprint per il no. Centrosinistra unito in piazza: “Stavolta possiamo farcela”",
       "source_count": 7,
       "article_count": 10,
@@ -145,7 +166,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "“Stalking a una collega”: la criminologa Roberta Bruzzone rischia il rinvio a giudizio",
       "source_count": 7,
       "article_count": 9,
@@ -167,7 +188,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Maxifurto allo stabilimento Prada di Venezia: rubate 400 scarpe per centinaia di migliaia di euro",
       "source_count": 8,
       "article_count": 8,
@@ -190,7 +211,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Troppo Bayern per l’Atalanta: Dea fuori dalla Champions, tedeschi ai quarti",
       "source_count": 7,
       "article_count": 7,
@@ -209,28 +230,6 @@
         "https://www.corriere.it/sport/calcio/champions-league/26_marzo_18/bayern-monaco-atalanta-ottavi-champions-league-risultato-e220a51e-29dc-4bc0-ba8d-2c6d6d44axlk.shtml",
         "https://www.liberoquotidiano.it/news/sport/46875553/champions-league-l-atalanta-travolta-ancora-dal-bayern/",
         "https://www.ilgiornale.it/news/calcio/troppo-bayern-l-atalanta-dea-fuori-champions-tedeschi-ai-2640242.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Noa Lang ha rischiato l’amputazione del dito: cosa è successo durante Liverpool-Galatasaray",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "repubblica.it",
-        "corriere.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/calcio/noa_lang_liverpool_galatasaray_inchiesta_uefa_cosa_puo_succedere-9425807.html",
-        "https://www.ilgiornale.it/news/calcio/lang-e-l-infortunio-choc-colpa-cartellone-pubblicitario-ora-2640508.html",
-        "https://www.ilfattoquotidiano.it/2026/03/19/infortunio-lang-champions-rischio-amputazione-notizie/8329339/",
-        "https://www.fanpage.it/sport/calcio/cosa-rischia-il-liverpool-dopo-linfortunio-di-noa-lang-per-colpa-di-un-cartellone-pubblicitario/",
-        "https://www.repubblica.it/sport/calcio/champions/2026/03/19/news/noa_lang_infortunio_dito_champions_league-425231767/"
       ]
     }
   ]
