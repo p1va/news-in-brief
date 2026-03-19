@@ -1,57 +1,80 @@
 {
   "date": "2026-03-19",
-  "generated_at": "Thu 19 Mar 10:51",
+  "generated_at": "Thu 19 Mar 11:42",
   "stories": [
     {
       "rank": 1,
-      "title": "Decreto carburanti, le decisioni ufficiali del governo: accise giù per 20 giorni, taglio di 25 centesimi e credito di imposta. «Obiettivo quota 1,9 euro»",
+      "title": "Carburanti, Decreto accise da 400 mln in vigore da oggi: taglio di 25 centesimi a litro",
       "source_count": 11,
-      "article_count": 22,
+      "article_count": 24,
       "source_domains": [
+        "ilgiornale.it",
+        "repubblica.it",
         "ansa.it",
         "corriere.it",
         "adnkronos.com",
-        "repubblica.it",
         "fanpage.it",
         "lastampa.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
-        "ilgiornale.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/tutte-misure-governo-speculatori-nel-mirino-2640255.html",
+        "https://www.repubblica.it/politica/2026/03/19/news/opposizione_contro_governo_decreto_carburanti-425232019/",
         "https://www.ansa.it/sito/notizie/economia/2026/03/19/da-oggi-il-taglio-alle-accise-ai-carburanti-controlli-a-tappetto-sul-rispetto-dei_3b562617-3623-4e81-b700-bbe709a64654.html",
         "https://www.corriere.it/economia/consumi/26_marzo_19/taglio-accise-carburanti-quanto-si-risparmia-davvero-circa-12-euro-a-pieno-tutti-i-conti-91eb61da-9130-42b6-997c-7311abb1fxlk.shtml",
-        "https://www.adnkronos.com/economia/benzina-diesel-taglio-accise-prezzo_5KF75jzqdidCOGeurtnckx",
-        "https://www.repubblica.it/economia/2026/03/19/news/benzina_diesel_accise_lo_sconto_di_25_centesimi_come_funziona-425231546/",
-        "https://www.fanpage.it/politica/non-solo-taglio-delle-accise-le-misure-del-decreto-carburanti-in-vigore-da-oggi-per-abbassare-i-prezzi-di-benzina/"
+        "https://www.adnkronos.com/economia/benzina-diesel-taglio-accise-prezzo_5KF75jzqdidCOGeurtnckx"
       ]
     },
     {
       "rank": 2,
       "title": "Bergamo, Valentina Sarto uccisa a coltellate dal marito: sei mesi di matrimonio tra urla e minacce",
-      "source_count": 7,
-      "article_count": 13,
+      "source_count": 8,
+      "article_count": 16,
       "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilgiornale.it",
         "fanpage.it",
         "unita.it",
         "lastampa.it",
         "bergamo.corriere.it",
-        "milano.repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it"
+        "milano.repubblica.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/persone/valentina_sarto_vincenzo_dongellini_codice_rosso_nuovo_compagno-9425610.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/19/femminicidio-a-bergamo-il-marito-dimesso-dallospedale-e-portato-in-carcere_25a68f7b-a78e-47f1-ae09-7b54f0edbf0a.html",
+        "https://www.ilgiornale.it/news/politica/anniversario-nozze-uccide-moglie-2640279.html",
         "https://www.fanpage.it/milano/femminicidio-di-valentina-sarto-a-bergamo-il-marito-vincenzo-dongellini-che-lha-uccisa-dimesso-dallospedale/",
-        "https://www.unita.it/2026/03/19/femminicidio-bergamo-valentina-sarto-uccisa-marito/",
-        "https://www.lastampa.it/cronaca/2026/03/19/news/femminicidio_bergamo_valentina_sarto_nuovo_compagno-15550901/",
-        "http://bergamo.corriere.it/notizie/cronaca/26_marzo_19/valentina-sarto-uccisa-dal-marito-a-bergamo-parla-l-uomo-di-cui-si-era-innamorata-glielo-aveva-detto-lui-la-minacciava-stava-adc67bf2-da81-4850-99bc-a012e7205xlk.shtml",
-        "http://bergamo.corriere.it/notizie/cronaca/26_marzo_19/valentina-sarto-uccisa-dal-marito-a-bergamo-parla-l-uomo-di-cui-si-era-innamorata-glielo-aveva-detto-lui-la-minacciava-stava-adc67bf2-da81-4850-99bc-a012e7205xlk.shtml"
+        "https://www.unita.it/2026/03/19/femminicidio-bergamo-valentina-sarto-uccisa-marito/"
       ]
     },
     {
       "rank": 3,
+      "title": "Missili israeliani colpiscono il giacimento di South Pars in Iran",
+      "source_count": 7,
+      "article_count": 12,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "video.corriere.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "adnkronos.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/bombe-sul-gas-minacce-petrolio-mojtaba-vendetta-larijani-2640256.html",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/03/19/attaccati-impianti-iraniani-di-greggio-e-gas-nel-golfo_5fcea35c-c1be-4f5a-8edd-6c400ee53732.html",
+        "https://www.ilgiornale.it/news/guerra/cos-south-pars-giacimento-che-alimenta-l-iran-e-fa-tremare-i-2640404.html",
+        "https://video.corriere.it/esteri/missili-israeliani-colpiscono-il-giacimento-di-south-pars-in-iran/977e9fd6-1e6f-4cf6-8cce-2fdea8b5bxlk",
+        "https://video.corriere.it/esteri/missili-israeliani-colpiscono-il-giacimento-di-south-pars-in-iran/977e9fd6-1e6f-4cf6-8cce-2fdea8b5bxlk"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Trump all'Iran: \"Niente raid sugli impianti in Qatar o vi devasteremo\". E si prepara a inviare \"migliaia di soldati\"",
       "source_count": 8,
       "article_count": 10,
@@ -74,29 +97,31 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Missili israeliani colpiscono il giacimento di South Pars in Iran",
-      "source_count": 7,
-      "article_count": 11,
+      "rank": 5,
+      "title": "Michael Hartono è morto, addio ad uno degli azionisti di riferimento del Como",
+      "source_count": 9,
+      "article_count": 9,
       "source_domains": [
-        "ilgiornale.it",
-        "video.corriere.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmanifesto.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
         "adnkronos.com",
-        "news.google.com"
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "corriere.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/guerra/cos-south-pars-giacimento-che-alimenta-l-iran-e-fa-tremare-i-2640404.html",
-        "https://video.corriere.it/esteri/missili-israeliani-colpiscono-il-giacimento-di-south-pars-in-iran/977e9fd6-1e6f-4cf6-8cce-2fdea8b5bxlk",
-        "https://video.corriere.it/esteri/missili-israeliani-colpiscono-il-giacimento-di-south-pars-in-iran/977e9fd6-1e6f-4cf6-8cce-2fdea8b5bxlk",
-        "https://www.lastampa.it/esteri/2026/03/19/video/guerra_iran_usa_israele_missili_qatar_gnl_ras_laffan-15550937/",
-        "https://www.repubblica.it/esteri/2026/03/19/news/israele_guerra_energia_iran_missili_giacimento_gas_south_pars-425230853/"
+        "https://www.ansa.it/sito/notizie/sport/2026/03/19/calcio-morto-il-proprietario-del-como-michael-bambang-hartono_40208527-f60d-43d4-af9d-102e7f00a797.html",
+        "https://www.ilfattoquotidiano.it/2026/03/19/michael-hartono-morto-como-calcio-chi-era-news/8329303/",
+        "https://www.adnkronos.com/sport/como-in-lutto-morto-a-86-anni-il-patron-michael-hartono_1u2y6gv7WKBD2ZuTjQ2Yx",
+        "https://www.ilgiornale.it/news/calcio/lutto-como-morto-patron-michael-hartono-2640452.html",
+        "https://www.repubblica.it/sport/calcio/serie-a/2026/03/19/news/michael_hartono_morto_azionista_como_calcio_aveva_86_anni-425231929/"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Referendum, sprint per il no. Centrosinistra unito in piazza: “Stavolta possiamo farcela”",
       "source_count": 7,
       "article_count": 10,
@@ -118,7 +143,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Troppo Bayern per l’Atalanta: Dea fuori dalla Champions, tedeschi ai quarti",
       "source_count": 7,
       "article_count": 7,
@@ -140,75 +165,12 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Michael Hartono è morto, addio ad uno degli azionisti di riferimento del Como",
+      "rank": 8,
+      "title": "Maxifurto allo stabilimento Prada di Venezia: rubate 400 scarpe per centinaia di migliaia di euro",
       "source_count": 7,
       "article_count": 7,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmessaggero.it",
         "fanpage.it",
-        "corriere.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/19/michael-hartono-morto-como-calcio-chi-era-news/8329303/",
-        "https://www.ilgiornale.it/news/calcio/lutto-como-morto-patron-michael-hartono-2640452.html",
-        "https://www.repubblica.it/sport/calcio/serie-a/2026/03/19/news/michael_hartono_morto_azionista_como_calcio_aveva_86_anni-425231929/",
-        "https://www.ilmessaggero.it/sport/calcio/michael_hartono_morto_como-9425526.html",
-        "https://www.fanpage.it/sport/calcio/como-in-lutto-michael-bambang-hartono-e-morto-a-86-anni-era-uno-dei-pilastri-del-club/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Roberta Bruzzone e lo stalking alla collega Elisabetta Sionis, la criminologa rischia il rinvio a giudizio. Le offese in chat: «E' in putrefazione»",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "roma.corriere.it",
-        "lastampa.it",
-        "milano.repubblica.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/stalking-troll-e-chat-segrete-bruzzone-sotto-inchiesta-2640275.html",
-        "https://www.ilfattoquotidiano.it/2026/03/19/in-putrefazione-spero-in-un-malaccio-roberta-bruzzone-e-tre-collaboratori-indagati-per-stalking-le-chat-pubblicate-da-repubblica/8329169/",
-        "https://www.ilfattoquotidiano.it/2026/03/19/in-putrefazione-spero-in-un-malaccio-roberta-bruzzone-e-tre-collaboratori-indagati-per-stalking-le-chat-nel-mirino-della-procura/8329169/",
-        "https://www.ilmessaggero.it/persone/roberta_bruzzone_stalking_collega_elisabetta_sionis_chi_e-9425442.html",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_19/roberta-bruzzone-indagata-per-stalking-la-criminologa-ha-perseguitato-per-tre-anni-la-psicologa-forense-elisabetta-sionis-746d3e32-5c56-4368-8379-96e45856cxlk.shtml"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Modifiche alla cartella clinica di Domenico, morto dopo il trapianto di cuore: due medici indagati anche per falso",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "napoli.corriere.it",
-        "unita.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/18/modifiche-alla-cartella-clinica-di-domenico-due-medici-indagati-anche-per_3776ac99-f662-472a-af42-0ce88aacf733.html",
-        "http://napoli.corriere.it/notizie/cronaca/26_marzo_18/domenico-morto-dopo-il-trapianto-al-monaldi-il-cardiochirurgo-oppido-e-la-collega-bergonzoni-indagati-anche-per-falso-nella-7cb59c1b-5817-4bf1-9fc1-1a3f9e99dxlk.shtml",
-        "https://www.unita.it/2026/03/18/trapianto-cuore-fallito-monaldi-medici-indagati-falso-cartella-domenico-caliendo-modificata/",
-        "https://www.ilgiornale.it/news/cronaca-nera/piccolo-domenico-modifiche-cartella-clinica-indagati-due-2640042.html",
-        "https://www.ilmessaggero.it/italia/domenico_caliendo_modifiche_cartella_clinica_medici_indagati_falso-9423504.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Furto da film nella fabbrica di Prada, commando ruba scarpe per centinaia di migliaia di euro",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
         "ilgiornale.it",
         "repubblica.it",
         "corrieredelveneto.corriere.it",
@@ -217,11 +179,52 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.fanpage.it/attualita/assalto-alla-fabbrica-prada-di-dolo-ladri-sfondano-lingresso-e-rubano-scarpe-da-centinaia-di-migliaia-di-euro/",
         "https://www.ilgiornale.it/news/nazionale/prada-commando-sfonda-stabilimento-dolo-rubate-scarpe-2640445.html",
         "https://www.repubblica.it/cronaca/2026/03/19/news/prada_furto_scarpe_venezia-425231917/",
         "http://corrieredelveneto.corriere.it/notizie/venezia-mestre/cronaca/26_marzo_19/maxifurto-da-prada-rubate-scarpe-griffate-per-centinaia-di-migliaia-di-euro-commando-organizzato-ha-sbarrato-la-strada-alle-028dfe67-c352-4b9e-954e-365791820xlk.shtml",
-        "https://www.ilmessaggero.it/italia/prada_furto_scarpe_dolo_venezia-9425497.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/19/maxifurto-da-prada-rubate-scarpe-per-centinaia-di-migliaia-di-euro_95b6183f-6fd8-441c-829b-bf10d11fbf1d.html"
+        "https://www.ilmessaggero.it/italia/prada_furto_scarpe_dolo_venezia-9425497.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Modifiche alla cartella clinica di Domenico, morto dopo il trapianto di cuore: due medici indagati anche per falso",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "napoli.corriere.it",
+        "unita.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/falso-dei-medici-sul-cuore-bruciato-modificarono-cartella-2640277.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/18/modifiche-alla-cartella-clinica-di-domenico-due-medici-indagati-anche-per_3776ac99-f662-472a-af42-0ce88aacf733.html",
+        "http://napoli.corriere.it/notizie/cronaca/26_marzo_18/domenico-morto-dopo-il-trapianto-al-monaldi-il-cardiochirurgo-oppido-e-la-collega-bergonzoni-indagati-anche-per-falso-nella-7cb59c1b-5817-4bf1-9fc1-1a3f9e99dxlk.shtml",
+        "https://www.unita.it/2026/03/18/trapianto-cuore-fallito-monaldi-medici-indagati-falso-cartella-domenico-caliendo-modificata/",
+        "https://www.ilgiornale.it/news/cronaca-nera/piccolo-domenico-modifiche-cartella-clinica-indagati-due-2640042.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Epidemia di meningite in Inghilterra, crescono ancora i casi registrati",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "corriere.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.corriere.it/salute/malattie_infettive/26_marzo_19/allarme-meningite-nel-regno-unito-aumentano-i-casi-0ba55a1f-e69f-4958-a234-661d5b94axlk.shtml",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/19/focolaio-di-meningite-senza-precedenti-in-gran-bretagna-i-casi-sono-saliti-a-27_28d4548e-8e4e-4b9e-87e1-c06271cbe638.html",
+        "https://www.ilmessaggero.it/salute/focus/epidemia_meningite_b_inghilterra_kent_sintomi_contagi_cosa_fare-9425523.html",
+        "https://www.fanpage.it/innovazione/scienze/meningite-nel-kent-bassetti-tra-i-focolai-piu-esplosivi-mai-visti-dove-sono-i-fenomeni-contro-i-vaccini/",
+        "https://www.lastampa.it/cronaca/2026/03/19/news/incubo_meningite_il_contagio_di_canterbury_l_ipotesi_dei_super_diffusori_e_i_rischi_per_l_italia-15550869/"
       ]
     }
   ]
