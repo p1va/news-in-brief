@@ -1,21 +1,20 @@
 {
   "date": "2026-03-19",
-  "generated_at": "Thu 19 Mar 13:19",
+  "generated_at": "Thu 19 Mar 14:57",
   "stories": [
     {
       "rank": 1,
       "title": "Carburanti, Decreto accise da 400 mln in vigore da oggi: taglio di 25 centesimi a litro",
-      "source_count": 12,
-      "article_count": 25,
+      "source_count": 11,
+      "article_count": 22,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "ilgiornale.it",
         "repubblica.it",
-        "ansa.it",
         "corriere.it",
-        "adnkronos.com",
         "fanpage.it",
+        "ansa.it",
         "lastampa.it",
         "liberoquotidiano.it",
         "ilsole24ore.com",
@@ -26,7 +25,7 @@
         "https://www.ilmessaggero.it/economia/news/accise_decreto_carburanti_quanto_si_risparmia_davvero-9425616.html",
         "https://www.ilgiornale.it/news/politica/tutte-misure-governo-speculatori-nel-mirino-2640255.html",
         "https://www.repubblica.it/politica/2026/03/19/news/opposizione_contro_governo_decreto_carburanti-425232019/",
-        "https://www.ansa.it/sito/notizie/economia/2026/03/19/da-oggi-il-taglio-alle-accise-ai-carburanti-controlli-a-tappetto-sul-rispetto-dei_3b562617-3623-4e81-b700-bbe709a64654.html"
+        "https://www.corriere.it/economia/consumi/26_marzo_19/taglio-accise-carburanti-quanto-si-risparmia-davvero-circa-12-euro-a-pieno-tutti-i-conti-91eb61da-9130-42b6-997c-7311abb1fxlk.shtml"
       ]
     },
     {
@@ -56,29 +55,6 @@
     },
     {
       "rank": 3,
-      "title": "Bergamo, Valentina Sarto uccisa a coltellate dal marito: sei mesi di matrimonio tra urla e minacce",
-      "source_count": 8,
-      "article_count": 17,
-      "source_domains": [
-        "bergamo.corriere.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "unita.it",
-        "lastampa.it",
-        "milano.repubblica.it"
-      ],
-      "links": [
-        "http://bergamo.corriere.it/notizie/cronaca/26_marzo_19/chi-era-valentina-sarto-la-donna-uccisa-a-bergamo-dal-marito-sua-madre-scusami-se-non-sono-riuscita-a-proteggerti-da-lui-d314de62-0dd8-4c5c-a033-9cee417e5xlk.shtml",
-        "https://www.ilmessaggero.it/persone/valentina_sarto_vincenzo_dongellini_codice_rosso_nuovo_compagno-9425610.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/19/femminicidio-a-bergamo-il-marito-dimesso-dallospedale-e-portato-in-carcere_25a68f7b-a78e-47f1-ae09-7b54f0edbf0a.html",
-        "https://www.ilgiornale.it/news/politica/anniversario-nozze-uccide-moglie-2640279.html",
-        "https://www.fanpage.it/milano/femminicidio-di-valentina-sarto-a-bergamo-il-marito-vincenzo-dongellini-che-lha-uccisa-dimesso-dallospedale/"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Michael Hartono è morto, addio ad uno degli azionisti di riferimento del Como",
       "source_count": 10,
       "article_count": 11,
@@ -103,7 +79,52 @@
       ]
     },
     {
+      "rank": 4,
+      "title": "Valentina Sarto uccisa dal marito. Il nuovo compagno: “La picchiava, le avevo detto di lasciarlo”",
+      "source_count": 7,
+      "article_count": 13,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "bergamo.corriere.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "unita.it",
+        "lastampa.it",
+        "milano.repubblica.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/19/femminicidio-bergamo-valentina-sarto-omicidio-news/8329510/",
+        "http://bergamo.corriere.it/notizie/cronaca/26_marzo_19/chi-era-valentina-sarto-la-donna-uccisa-a-bergamo-dal-marito-sua-madre-scusami-se-non-sono-riuscita-a-proteggerti-da-lui-d314de62-0dd8-4c5c-a033-9cee417e5xlk.shtml",
+        "https://www.ilmessaggero.it/persone/valentina_sarto_vincenzo_dongellini_codice_rosso_nuovo_compagno-9425610.html",
+        "https://www.fanpage.it/milano/femminicidio-di-valentina-sarto-a-bergamo-il-marito-vincenzo-dongellini-che-lha-uccisa-dimesso-dallospedale/",
+        "https://www.unita.it/2026/03/19/femminicidio-bergamo-valentina-sarto-uccisa-marito/"
+      ]
+    },
+    {
       "rank": 5,
+      "title": "“Stalking a una collega”: la criminologa Roberta Bruzzone rischia il rinvio a giudizio",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "roma.corriere.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/19/roberta-bruzzone-indagata-per-stalking-gli-atti-alla-procura-di-roma_714d10a5-bb52-47d7-a148-ba1f69ee6bc2.html",
+        "https://www.fanpage.it/roma/bruzzone-indagata-per-stalking-la-criminologa-falsita-non-ho-niente-da-nascondere/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/19/bruzzone-indagata-per-stalking-a-collega-atti-a-procura-di-roma_714d10a5-bb52-47d7-a148-ba1f69ee6bc2.html",
+        "https://www.repubblica.it/cronaca/2026/03/19/news/roberta_bruzzone_stalking_intervista-425232204/",
+        "https://www.ilgiornale.it/news/politica/stalking-troll-e-chat-segrete-bruzzone-sotto-inchiesta-2640275.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Trump: distruggeremo tutto il giacimento di South Pars se Teheran attaccherà ancora il Qatar",
       "source_count": 7,
       "article_count": 10,
@@ -125,7 +146,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Referendum, sprint per il no. Centrosinistra unito in piazza: “Stavolta possiamo farcela”",
       "source_count": 7,
       "article_count": 10,
@@ -144,28 +165,6 @@
         "https://www.corriere.it/politica/26_marzo_19/referendum-no-manifestazione-piazza-popolo-d3449fdd-134d-4958-bebe-989a49d29xlk.shtml",
         "https://www.repubblica.it/politica/2026/03/19/news/piazza_no_referendum_centrosinistra_unito_possiamo_farcela-425231116/",
         "https://www.lastampa.it/politica/2026/03/19/news/referendum_la_piazza_del_no_adesso_ci_crede_li_fermeremo-15550603/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "“Stalking a una collega”: la criminologa Roberta Bruzzone rischia il rinvio a giudizio",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "roma.corriere.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/19/bruzzone-indagata-per-stalking-a-collega-atti-a-procura-di-roma_714d10a5-bb52-47d7-a148-ba1f69ee6bc2.html",
-        "https://www.repubblica.it/cronaca/2026/03/19/news/roberta_bruzzone_stalking_intervista-425232204/",
-        "https://www.ilgiornale.it/news/politica/stalking-troll-e-chat-segrete-bruzzone-sotto-inchiesta-2640275.html",
-        "https://www.ilfattoquotidiano.it/2026/03/19/in-putrefazione-spero-in-un-malaccio-roberta-bruzzone-e-tre-collaboratori-indagati-per-stalking-le-chat-pubblicate-da-repubblica/8329169/",
-        "https://www.ilfattoquotidiano.it/2026/03/19/in-putrefazione-spero-in-un-malaccio-roberta-bruzzone-e-tre-collaboratori-indagati-per-stalking-le-chat-nel-mirino-della-procura/8329169/"
       ]
     },
     {
@@ -193,27 +192,6 @@
     },
     {
       "rank": 9,
-      "title": "Meningite in Inghilterra, morti due studenti e 27 casi sospetti nell'ultima settimana: «Focolaio senza precedenti»",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "unita.it",
-        "corriere.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/03/19/meningite-inghilterra-focolaio-kent-morti-casi-sospetti/",
-        "https://www.corriere.it/salute/malattie_infettive/26_marzo_19/allarme-meningite-nel-regno-unito-aumentano-i-casi-0ba55a1f-e69f-4958-a234-661d5b94axlk.shtml",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/19/focolaio-di-meningite-senza-precedenti-in-gran-bretagna-i-casi-sono-saliti-a-27_28d4548e-8e4e-4b9e-87e1-c06271cbe638.html",
-        "https://www.ilmessaggero.it/salute/focus/epidemia_meningite_b_inghilterra_kent_sintomi_contagi_cosa_fare-9425523.html",
-        "https://www.fanpage.it/innovazione/scienze/meningite-nel-kent-bassetti-tra-i-focolai-piu-esplosivi-mai-visti-dove-sono-i-fenomeni-contro-i-vaccini/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Troppo Bayern per l’Atalanta: Dea fuori dalla Champions, tedeschi ai quarti",
       "source_count": 7,
       "article_count": 7,
@@ -232,6 +210,27 @@
         "https://www.corriere.it/sport/calcio/champions-league/26_marzo_18/bayern-monaco-atalanta-ottavi-champions-league-risultato-e220a51e-29dc-4bc0-ba8d-2c6d6d44axlk.shtml",
         "https://www.liberoquotidiano.it/news/sport/46875553/champions-league-l-atalanta-travolta-ancora-dal-bayern/",
         "https://www.ilgiornale.it/news/calcio/troppo-bayern-l-atalanta-dea-fuori-champions-tedeschi-ai-2640242.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Meningite in Inghilterra, morti due studenti e 27 casi sospetti nell'ultima settimana: «Focolaio senza precedenti»",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "unita.it",
+        "corriere.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.unita.it/2026/03/19/meningite-inghilterra-focolaio-kent-morti-casi-sospetti/",
+        "https://www.corriere.it/salute/malattie_infettive/26_marzo_19/allarme-meningite-nel-regno-unito-aumentano-i-casi-0ba55a1f-e69f-4958-a234-661d5b94axlk.shtml",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/19/focolaio-di-meningite-senza-precedenti-in-gran-bretagna-i-casi-sono-saliti-a-27_28d4548e-8e4e-4b9e-87e1-c06271cbe638.html",
+        "https://www.ilmessaggero.it/salute/focus/epidemia_meningite_b_inghilterra_kent_sintomi_contagi_cosa_fare-9425523.html",
+        "https://www.fanpage.it/innovazione/scienze/meningite-nel-kent-bassetti-tra-i-focolai-piu-esplosivi-mai-visti-dove-sono-i-fenomeni-contro-i-vaccini/"
       ]
     }
   ]
