@@ -1,6 +1,6 @@
 {
   "date": "2026-03-20",
-  "generated_at": "Fri 20 Mar 14:51",
+  "generated_at": "Fri 20 Mar 15:52",
   "stories": [
     {
       "rank": 1,
@@ -32,10 +32,12 @@
     },
     {
       "rank": 2,
-      "title": "Gasolio, sconto del 13,4 per cento ma solo da oggi",
-      "source_count": 9,
-      "article_count": 18,
+      "title": "Caro carburanti, solo il 60% dei distributori ha tagliato i prezzi",
+      "source_count": 11,
+      "article_count": 20,
       "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
         "corriere.it",
         "unita.it",
         "repubblica.it",
@@ -47,18 +49,45 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/20/taglio-accise-carburanti-distributori-prezzi-notizie/8331026/",
+        "https://www.ilmessaggero.it/economia/news/carburanti_prezzi_benzina_scendono_taglio_accise-9427963.html",
         "https://www.corriere.it/economia/consumi/26_marzo_20/taglio-accise-solo-il-60-dei-distributori-ha-ridotto-i-prezzi-il-pieno-costa-ancora-5-euro-in-piu-rispetto-allo-sconto-del-governo-34127a76-abc4-48d4-a00e-69183bb70xlk.shtml",
         "https://www.unita.it/2026/03/20/caro-benzina-spagna-sanchez-taglia-iva-carburanti/",
-        "https://www.repubblica.it/economia/2026/03/20/news/caro_carburanti_60_distributori_taglio_accise-425234638/",
-        "https://www.liberoquotidiano.it/video/tv-news/46901688/carburanti-pichetto-durata-taglio-accise-dipende-da-stop-hormuz/",
-        "https://www.ilgiornale.it/news/politica/carburanti-scattato-taglio-delle-accise-controlli-pompa-2640830.html"
+        "https://www.repubblica.it/economia/2026/03/20/news/caro_carburanti_60_distributori_taglio_accise-425234638/"
       ]
     },
     {
       "rank": 3,
-      "title": "Allarme epatite A in Campania. Manfredi: “Vietata la vendita di frutti di mare”",
-      "source_count": 10,
+      "title": "Morto l'attore Chuck Norris, aveva 86 anni. Pochi giorni fa l'ultimo video: «Non invecchio, salgo di livello». Poi il malore",
+      "source_count": 12,
       "article_count": 16,
+      "source_domains": [
+        "repubblica.it",
+        "unita.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/spettacoli/cinema/2026/03/20/news/walker_taxas_ranger_chuck_norris_arti_marziali_chun_kuk_do-425234973/",
+        "https://www.repubblica.it/spettacoli/cinema/2026/03/20/news/dianne_holechek_gena_o_kelley_mogli_chuck_norris_cinque_figli-425234954/",
+        "https://www.unita.it/2026/03/20/morto-chuck-norris-attore-walker-texas-rangers/",
+        "https://www.ansa.it/sito/notizie/cultura/2026/03/20/e-morto-chuck-norris-star-del-cinema-dazione_fcd0e5b5-0eb3-4471-83f5-d32dccf272b4.html",
+        "https://www.adnkronos.com/spettacoli/chuck-norris-morto-walker-texas-ranger_eSVhsY7ccmiFjtixQY31V"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "A Napoli i casi di epatite A aumentati di 41 volte rispetto all'ultimo triennio. Ispezioni in ristoranti e mercatini",
+      "source_count": 10,
+      "article_count": 15,
       "source_domains": [
         "ansa.it",
         "fanpage.it",
@@ -80,58 +109,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "E' morto Chuck Norris, star dei fim d'azione: l'attore aveva 86 anni",
-      "source_count": 11,
-      "article_count": 13,
-      "source_domains": [
-        "unita.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.unita.it/2026/03/20/morto-chuck-norris-attore-walker-texas-rangers/",
-        "https://www.ansa.it/sito/notizie/cultura/2026/03/20/e-morto-chuck-norris-star-del-cinema-dazione_fcd0e5b5-0eb3-4471-83f5-d32dccf272b4.html",
-        "https://www.adnkronos.com/spettacoli/chuck-norris-morto-walker-texas-ranger_eSVhsY7ccmiFjtixQY31V",
-        "https://www.ilgiornale.it/news/personaggi/morto-lattore-americano-chuck-norris-star-cinema-dazione-2641166.html",
-        "https://www.corriere.it/spettacoli/26_marzo_20/morto-chuck-norris-6eed8be7-0099-421c-a2fe-eb7a57e25xlk.shtml"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "Roma, crolla casolare abbandonato al parco degli Acquedotti: due morti",
-      "source_count": 10,
-      "article_count": 12,
-      "source_domains": [
-        "unita.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "roma.corriere.it",
-        "ilmessaggero.it",
-        "roma.repubblica.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/03/20/esplosione-crollo-parco-acquedotti-morti-uomo-donna-scava-macerie/",
-        "https://www.fanpage.it/roma/casolare-esploso-al-parco-degli-acquedotti-morti-due-anarchici-stavano-confezionando-una-bomba/",
-        "https://www.ilfattoquotidiano.it/2026/03/20/crollo-casolare-parco-acquedotti-roma-morte-due-persone/8330647/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/20/crollo-in-casale-abbandonato-al-parco-degli-acquedotti-a-roma-due-morti_157f2485-e85f-4fab-b88c-37f46d71635e.html",
-        "https://www.adnkronos.com/cronaca/roma-crollo-parco-acquedotti_4CBsTs9v97KlWbfH8Pzs6B"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Iran, Meloni \"No missione militare a Hormuz, ma contributo post-conflitto\"",
       "source_count": 8,
       "article_count": 13,
@@ -154,10 +132,10 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Italia, i convocati di Gattuso per playoff: esordio per Palestra, sorpresa Chiesa",
-      "source_count": 9,
-      "article_count": 10,
+      "source_count": 10,
+      "article_count": 11,
       "source_domains": [
         "ilgiornale.it",
         "unita.it",
@@ -165,6 +143,7 @@
         "ansa.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
+        "repubblica.it",
         "fanpage.it",
         "ilmessaggero.it",
         "lastampa.it"
@@ -178,30 +157,32 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Delmastro tensioni in FdI. Meloni: “Poco accorto, io non sapevo ma resta”",
-      "source_count": 8,
-      "article_count": 10,
+      "rank": 7,
+      "title": "Roma, crolla casolare abbandonato al parco degli Acquedotti: due morti",
+      "source_count": 10,
+      "article_count": 11,
       "source_domains": [
         "unita.it",
-        "liberoquotidiano.it",
-        "roma.corriere.it",
-        "fanpage.it",
-        "repubblica.it",
+        "roma.repubblica.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
+        "adnkronos.com",
+        "roma.corriere.it",
+        "ilmessaggero.it",
+        "fanpage.it",
         "lastampa.it",
-        "ilmessaggero.it"
+        "agi.it"
       ],
       "links": [
-        "https://www.unita.it/2026/03/20/delmastro-meloni-blinda-sottosegretario-caso-ristorante/",
-        "https://www.liberoquotidiano.it/video/video-news-by-vista/46900050/caso-delmastro-meloni-doveva-stare-piu-attento-ma-non-si-deve-dimettere/",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_20/delmastro-meloni-imbarazzo-fdi-b13fcaae-7431-44bf-99e4-2ba32cd25xlk.shtml",
-        "https://www.fanpage.it/scanner/delmastro-tra-la-mecca-dei-detenuti-e-i-rapporti-con-la-camorra-e-il-momento-delle-dimissioni/",
-        "https://www.repubblica.it/politica/2026/03/20/news/delmastro_fdi_arianna_meloni_no_gogne-425233574/"
+        "https://www.unita.it/2026/03/20/esplosione-crollo-parco-acquedotti-morti-uomo-donna-scava-macerie/",
+        "https://roma.repubblica.it/cronaca/2026/03/20/news/crollo_casale_parco_acquedotti_storia_via_delle_capannelle_roma_frascati-425234604/",
+        "https://www.ilfattoquotidiano.it/2026/03/20/crollo-casolare-parco-acquedotti-roma-morte-due-persone/8330647/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/20/crollo-in-casale-abbandonato-al-parco-degli-acquedotti-a-roma-due-morti_157f2485-e85f-4fab-b88c-37f46d71635e.html",
+        "https://www.adnkronos.com/cronaca/roma-crollo-parco-acquedotti_4CBsTs9v97KlWbfH8Pzs6B"
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Il derby di Europa League è del Bologna, Roma battuta 4-3 ai supplementari: spettacolo all’Olimpico",
       "source_count": 8,
       "article_count": 10,
@@ -224,7 +205,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Sei giocatori del Sassuolo in isolamento per un focolaio di pertosse",
       "source_count": 9,
       "article_count": 9,
@@ -245,6 +226,29 @@
         "https://www.corriere.it/sport/26_marzo_20/sassuolo-epidemia-pertosse-juventus-3df90b96-5afe-419b-95e2-086223c9fxlk.shtml",
         "https://www.liberoquotidiano.it/news/sport/46900698/juve-sassuolo-focolaio-pertosse-rischio-partita/",
         "https://www.repubblica.it/sport/calcio/2026/03/20/news/sassuolo_epidemia_pertosse_prima_partita_juve-425234659/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Delmastro tensioni in FdI. Meloni: “Poco accorto, io non sapevo ma resta”",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "unita.it",
+        "liberoquotidiano.it",
+        "roma.corriere.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.unita.it/2026/03/20/delmastro-meloni-blinda-sottosegretario-caso-ristorante/",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46900050/caso-delmastro-meloni-doveva-stare-piu-attento-ma-non-si-deve-dimettere/",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_20/delmastro-meloni-imbarazzo-fdi-b13fcaae-7431-44bf-99e4-2ba32cd25xlk.shtml",
+        "https://www.fanpage.it/scanner/delmastro-tra-la-mecca-dei-detenuti-e-i-rapporti-con-la-camorra-e-il-momento-delle-dimissioni/",
+        "https://www.repubblica.it/politica/2026/03/20/news/delmastro_fdi_arianna_meloni_no_gogne-425233574/"
       ]
     }
   ]
