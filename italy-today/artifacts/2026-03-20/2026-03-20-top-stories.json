@@ -1,12 +1,12 @@
 {
   "date": "2026-03-20",
-  "generated_at": "Fri 20 Mar 19:03",
+  "generated_at": "Fri 20 Mar 19:42",
   "stories": [
     {
       "rank": 1,
       "title": "Umberto Bossi, morto a 84 anni fondatore della Lega. Sognava la Padania ma fu convertito dall'Italia",
-      "source_count": 13,
-      "article_count": 32,
+      "source_count": 12,
+      "article_count": 29,
       "source_domains": [
         "laverita.info",
         "liberoquotidiano.it",
@@ -14,7 +14,6 @@
         "ansa.it",
         "unita.it",
         "fanpage.it",
-        "ilmanifesto.it",
         "corriere.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
@@ -84,35 +83,12 @@
     },
     {
       "rank": 4,
-      "title": "Carburanti, il 60% dei distributori ha ridotto i prezzi (ma l'11% li ha addirittura aumentati)",
-      "source_count": 9,
-      "article_count": 15,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "corriere.it",
-        "unita.it",
-        "repubblica.it",
-        "ansa.it",
-        "lastampa.it",
-        "fanpage.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/20/taglio-accise-carburanti-distributori-prezzi-notizie/8331026/",
-        "https://www.ilmessaggero.it/economia/news/carburanti_prezzi_benzina_scendono_taglio_accise-9427963.html",
-        "https://www.corriere.it/economia/consumi/26_marzo_20/taglio-accise-solo-il-60-dei-distributori-ha-ridotto-i-prezzi-il-pieno-costa-ancora-5-euro-in-piu-rispetto-allo-sconto-del-governo-34127a76-abc4-48d4-a00e-69183bb70xlk.shtml",
-        "https://www.unita.it/2026/03/20/caro-benzina-spagna-sanchez-taglia-iva-carburanti/",
-        "https://www.repubblica.it/economia/2026/03/20/news/caro_carburanti_60_distributori_taglio_accise-425234638/"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Italia, i convocati di Gattuso per playoff: esordio per Palestra, sorpresa Chiesa",
       "source_count": 10,
-      "article_count": 13,
+      "article_count": 14,
       "source_domains": [
         "ilgiornale.it",
+        "ilmessaggero.it",
         "fanpage.it",
         "unita.it",
         "corriere.it",
@@ -120,19 +96,18 @@
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "repubblica.it",
-        "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
         "https://www.ilgiornale.it/news/calcio/palestra-e-altri-novit-gattuso-debutti-e-grandi-ritorni-2641242.html",
+        "https://www.ilmessaggero.it/sport/schede/italia_esclusi_convocati_zaniolo_bernardeschi-9428017.html",
         "https://www.fanpage.it/sport/calcio/cosa-ha-fatto-chiesa-per-meritare-la-nazionale-e-perche-gattuso-non-puo-farne-a-meno/",
         "https://www.ilgiornale.it/news/calcio/parte-missione-mondiale-nazionale-ecco-tutti-i-convocati-2641149.html",
-        "https://www.unita.it/2026/03/20/italia-playoff-mondiali-convocati-gattuso-federico-chiesa-tonali-bastoni-palestra/",
-        "https://www.corriere.it/sport/calcio/mondiali/26_marzo_20/convocati-nazionale-lista-gattuso-play-off-mondiale-2b0dd11a-b6a4-4795-a4a3-ec11eaaacxlk.shtml"
+        "https://www.unita.it/2026/03/20/italia-playoff-mondiali-convocati-gattuso-federico-chiesa-tonali-bastoni-palestra/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Roma, crolla casolare abbandonato al parco degli Acquedotti: due morti",
       "source_count": 11,
       "article_count": 12,
@@ -158,7 +133,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Delmastro tensioni in FdI. Meloni: “Poco accorto, io non sapevo ma resta”",
       "source_count": 9,
       "article_count": 12,
@@ -182,7 +157,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Iran, Meloni \"No missione militare a Hormuz, ma contributo post-conflitto\"",
       "source_count": 8,
       "article_count": 13,
@@ -205,7 +180,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Sei giocatori del Sassuolo in isolamento per un focolaio di pertosse",
       "source_count": 10,
       "article_count": 10,
@@ -227,6 +202,29 @@
         "https://www.adnkronos.com/sport/juventus-sassuolo-rischio-rinvio-caso-pertosse-costa-succedendo_416ipkQQZIJQ8EfKAO7lf3",
         "https://www.corriere.it/sport/26_marzo_20/sassuolo-epidemia-pertosse-juventus-3df90b96-5afe-419b-95e2-086223c9fxlk.shtml",
         "https://www.liberoquotidiano.it/news/sport/46900698/juve-sassuolo-focolaio-pertosse-rischio-partita/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Carburanti, il 60% dei distributori ha ridotto i prezzi (ma l'11% li ha addirittura aumentati)",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "unita.it",
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/20/taglio-accise-carburanti-distributori-prezzi-notizie/8331026/",
+        "https://www.ilmessaggero.it/economia/news/carburanti_prezzi_benzina_scendono_taglio_accise-9427963.html",
+        "https://www.corriere.it/economia/consumi/26_marzo_20/taglio-accise-solo-il-60-dei-distributori-ha-ridotto-i-prezzi-il-pieno-costa-ancora-5-euro-in-piu-rispetto-allo-sconto-del-governo-34127a76-abc4-48d4-a00e-69183bb70xlk.shtml",
+        "https://www.unita.it/2026/03/20/caro-benzina-spagna-sanchez-taglia-iva-carburanti/",
+        "https://www.repubblica.it/economia/2026/03/20/news/caro_carburanti_60_distributori_taglio_accise-425234638/"
       ]
     },
     {
