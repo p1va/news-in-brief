@@ -1,6 +1,6 @@
 {
   "date": "2026-03-21",
-  "generated_at": "Sat 21 Mar 14:34",
+  "generated_at": "Sat 21 Mar 15:33",
   "stories": [
     {
       "rank": 1,
@@ -79,25 +79,26 @@
     {
       "rank": 4,
       "title": "Valanga in Alto Adige travolge 10 persone: almeno due vittime. In corso una maxi operazione di salvataggio con 5 elicotteri",
-      "source_count": 9,
-      "article_count": 10,
+      "source_count": 10,
+      "article_count": 13,
       "source_domains": [
+        "ansa.it",
         "fanpage.it",
         "corrieredellaltoadige.corriere.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "ilgiornale.it",
         "repubblica.it",
-        "ansa.it",
         "lastampa.it",
-        "agi.it"
+        "agi.it",
+        "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/21/maxi-intervento-per-una-valanga-in-alto-adige-2-morti-e-5-feriti-in-val_47fa631a-cfbf-4b64-ab1c-1921d124d71e.html",
         "https://www.fanpage.it/attualita/valanga-in-alto-adige-soccorritori-in-azione-a-racines-almeno-dieci-scialpinisti-coinvolti/",
         "http://corrieredellaltoadige.corriere.it/notizie/cronaca/26_marzo_21/alto-adige-valanga-travolge-dieci-persone-in-corso-una-maxi-operazione-di-salvataggio-con-cinque-elicotteri-f2f05565-5964-4323-ac75-dc560f4dcxlk.shtml",
         "http://corrieredellaltoadige.corriere.it/notizie/cronaca/26_marzo_21/alto-adige-valanga-travolge-dieci-persone-in-corso-una-maxi-operazione-di-salvataggio-con-cinque-elicotteri-f2f05565-5964-4323-ac75-dc560f4dcxlk.shtml",
-        "https://www.ilfattoquotidiano.it/2026/03/21/valanga-travolge-dieci-scialpinisti-a-racines-bolzano-maxi-operazione-di-soccorso-in-corso/8332024/",
-        "https://www.ilmessaggero.it/italia/valanga_alto_adige_racines_cosa_e_successo-9429840.html"
+        "https://www.ilfattoquotidiano.it/2026/03/21/valanga-travolge-dieci-scialpinisti-a-racines-bolzano-maxi-operazione-di-soccorso-in-corso/8332024/"
       ]
     },
     {
@@ -125,6 +126,28 @@
     },
     {
       "rank": 6,
+      "title": "Epatite A: come ci si infetta, come ci si può proteggere. Il vaccino è utile?",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "napoli.corriere.it",
+        "napoli.repubblica.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/21/epatite-a-napoli-ricoveri-cotugno-piano-controlli-vaccini/8331873/",
+        "https://www.ilgiornale.it/news/politica/epatite-84-casi-napoli-vietati-i-frutti-mare-2641328.html",
+        "https://www.ilmessaggero.it/salute/schede/epatite_a_6_sintomi_sintomi_cure_contagio_come_avviene-9429648.html",
+        "https://www.fanpage.it/napoli/come-iniziata-londata-di-epatite-a-fra-napoli-e-provincia-dai-molluschi-infetti-ai-casi-che-continuano-a-crescere/",
+        "http://napoli.corriere.it/notizie/cronaca/26_marzo_20/il-virus-di-epatite-a-trovato-in-alcuni-allevamenti-flegrei-di-mitili-l-ipotesi-sull-inizio-del-contagio-e-la-trasmissione-da-44f72c75-5636-4dc3-b2f1-72f799e73xlk.shtml"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Ondata di attacchi su Israele. Iran lancia missili contro base Usa nell’Oceano Indiano",
       "source_count": 7,
       "article_count": 9,
@@ -146,7 +169,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Mondiali di atletica: Andy Diaz oro nel salto triplo, l'Italia parte bene a Torun",
       "source_count": 8,
       "article_count": 8,
@@ -169,29 +192,29 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Epatite A: 84 casi a Napoli \"Vietati i frutti di mare\"",
+      "rank": 9,
+      "title": "È morto Nicholas Brendon, l’indimenticabile Xander di Buffy L’ammazzavampiri: aveva 54 anni",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "ilfattoquotidiano.it",
         "ilgiornale.it",
+        "ansa.it",
         "ilmessaggero.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
         "fanpage.it",
-        "napoli.corriere.it",
-        "napoli.repubblica.it",
-        "ansa.it"
+        "corriere.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/21/epatite-a-napoli-ricoveri-cotugno-piano-controlli-vaccini/8331873/",
-        "https://www.ilgiornale.it/news/politica/epatite-84-casi-napoli-vietati-i-frutti-mare-2641328.html",
-        "https://www.ilmessaggero.it/salute/schede/epatite_a_6_sintomi_sintomi_cure_contagio_come_avviene-9429648.html",
-        "https://www.fanpage.it/napoli/come-iniziata-londata-di-epatite-a-fra-napoli-e-provincia-dai-molluschi-infetti-ai-casi-che-continuano-a-crescere/",
-        "http://napoli.corriere.it/notizie/cronaca/26_marzo_20/il-virus-di-epatite-a-trovato-in-alcuni-allevamenti-flegrei-di-mitili-l-ipotesi-sull-inizio-del-contagio-e-la-trasmissione-da-44f72c75-5636-4dc3-b2f1-72f799e73xlk.shtml"
+        "https://www.ilgiornale.it/news/cinema/nicholas-brendon-ricordo-struggente-cast-buffy-l-2641566.html",
+        "https://www.ansa.it/sito/notizie/cultura/tv/2026/03/21/e-morto-a-54-anni-nicholas-brendon-interprete-di-buffy-lammazzavampiri_c7039de0-86d2-4a0b-8d46-c03c4e606787.html",
+        "https://www.ilmessaggero.it/persone/nicholas_brendon_malattia_come_e_morto_infarto_sindrome_cauda_equina-9429708.html",
+        "https://www.ilgiornale.it/news/personaggi/addio-nicholas-brendon-star-buffy-trovato-senza-vita-nel-2641464.html",
+        "https://www.lastampa.it/spettacoli/2026/03/21/news/e_morto_l_attore_nicholas_brendon_star_della_serie_buffy_l_ammazzavampiri-15554219/"
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Meloni: \"Delmastro leggero, i cittadini valuteranno se c'è stata una manina\"",
       "source_count": 7,
       "article_count": 8,
@@ -210,28 +233,6 @@
         "https://www.lastampa.it/cronaca/2026/03/21/news/delmastro_nelle_foto_c_e_anche_bartolozzi_meloni_una_leggerezza-15554126/",
         "https://www.repubblica.it/cronaca/2026/03/21/news/caso_delmastro_foto_cena_bartolozzi_lega-425235943/",
         "https://www.ilmessaggero.it/politica/delmastro_clan_foto_ristorante_mauro_caroccia_chi_e-9428415.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "È morto Nicholas Brendon, l’indimenticabile Xander di Buffy L’ammazzavampiri: aveva 54 anni",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "corriere.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cultura/tv/2026/03/21/e-morto-a-54-anni-nicholas-brendon-interprete-di-buffy-lammazzavampiri_c7039de0-86d2-4a0b-8d46-c03c4e606787.html",
-        "https://www.ilmessaggero.it/persone/nicholas_brendon_malattia_come_e_morto_infarto_sindrome_cauda_equina-9429708.html",
-        "https://www.ilgiornale.it/news/personaggi/addio-nicholas-brendon-star-buffy-trovato-senza-vita-nel-2641464.html",
-        "https://www.lastampa.it/spettacoli/2026/03/21/news/e_morto_l_attore_nicholas_brendon_star_della_serie_buffy_l_ammazzavampiri-15554219/",
-        "https://www.ilfattoquotidiano.it/2026/03/21/e-morto-xander-di-buffy-lammazzavampiri-lattore-nicholas-brendon-stava-prendendo-delle-medicine-e-si-sottoponeva-a-delle-cure-per-gestire-la-sua-diagnosi/8331669/"
       ]
     }
   ]
