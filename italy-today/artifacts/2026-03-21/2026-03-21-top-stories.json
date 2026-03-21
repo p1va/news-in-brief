@@ -1,12 +1,37 @@
 {
   "date": "2026-03-21",
-  "generated_at": "Sat 21 Mar 17:32",
+  "generated_at": "Sat 21 Mar 18:45",
   "stories": [
     {
       "rank": 1,
-      "title": "Anarchici morti nell’esplosione di un casale a Roma: nella bomba un litro di fertilizzante",
-      "source_count": 11,
+      "title": "Ciclismo, Pogacar infrange un tabù e vince la Milano-Sanremo",
+      "source_count": 10,
       "article_count": 22,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "video.corriere.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/03/21/ciclismo-pogacar-cade-e-poi-trionfa-la-sanremo-e-finalmente-sua.-felicissimo-di-aver_9e1a358a-4f2f-45cb-b274-4e034f7fc430.html",
+        "https://www.fanpage.it/sport/ciclismo/pogacar-racconta-la-caduta-prima-del-trionfo-alla-milano-sanremo-ho-pensato-fosse-tutto-finito/",
+        "https://www.laverita.info/pogacar-vince-milano-sanremo-2026-2676524813.html",
+        "https://www.ansa.it/sito/notizie/sport/2026/03/21/ciclismo-finalmente-pogacar-sua-la-milano-sanremo.-felicissimo-di-aver-vinto-qui_9e1a358a-4f2f-45cb-b274-4e034f7fc430.html",
+        "https://www.ilfattoquotidiano.it/2026/03/21/caduta-pogacar-racchiude-senso-milano-sanremo-per-vincere-corsa-piu-imprevedibile-serviva-impresa-piu-folle/8332133/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Pista anarchica per i morti a Roma: 'Costruivano una bomba'",
+      "source_count": 9,
+      "article_count": 19,
       "source_domains": [
         "fanpage.it",
         "ilmessaggero.it",
@@ -15,49 +40,50 @@
         "ansa.it",
         "ilgiornale.it",
         "laverita.info",
-        "roma.corriere.it",
         "ilmanifesto.it",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "lastampa.it"
       ],
       "links": [
         "https://www.fanpage.it/roma/anarchici-morti-mentre-preparavano-una-bomba-ipotesi-attentato-al-polo-tuscolano-della-polizia/",
         "https://www.ilmessaggero.it/roma/tuscolana/esplosione_roma_anarchici_bomba_fertilizzante_obiettivo_vicino-9429983.html",
+        "https://www.ilmessaggero.it/roma/tuscolana/anarchici_morti_roma_scritte_vendetta_metro_b-9429983.html",
         "https://roma.repubblica.it/cronaca/2026/03/21/news/anarchici_morti_parco_acquedotti_perquisizioni-425237058/",
-        "https://www.ilfattoquotidiano.it/2026/03/21/blitz-della-digos-nella-rete-anarchica-a-roma-caccia-a-contatti-e-obiettivi-dopo-lesplosione-al-parco-degli-acquedotti/8331932/",
-        "https://www.fanpage.it/roma/anarchici-morti-nel-casale-a-roma-perquisiti-5-appartamenti-indagini-sulla-filiera-dellesplosivo/"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Milano-Sanremo, Pogacar nella storia. Vince per la prima volta in volata nonostante la caduta",
-      "source_count": 9,
-      "article_count": 19,
-      "source_domains": [
-        "fanpage.it",
-        "laverita.info",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "video.corriere.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/ciclismo/pogacar-racconta-la-caduta-prima-del-trionfo-alla-milano-sanremo-ho-pensato-fosse-tutto-finito/",
-        "https://www.laverita.info/pogacar-vince-milano-sanremo-2026-2676524813.html",
-        "https://www.ansa.it/sito/notizie/sport/2026/03/21/ciclismo-finalmente-pogacar-sua-la-milano-sanremo.-felicissimo-di-aver-vinto-qui_9e1a358a-4f2f-45cb-b274-4e034f7fc430.html",
-        "https://www.ilfattoquotidiano.it/2026/03/21/caduta-pogacar-racchiude-senso-milano-sanremo-per-vincere-corsa-piu-imprevedibile-serviva-impresa-piu-folle/8332133/",
-        "https://video.corriere.it/sport/caduta-pogacar/3a6a18ca-2839-4d02-83ae-6c61d2aabxlk"
+        "https://www.ilfattoquotidiano.it/2026/03/21/blitz-della-digos-nella-rete-anarchica-a-roma-caccia-a-contatti-e-obiettivi-dopo-lesplosione-al-parco-degli-acquedotti/8331932/"
       ]
     },
     {
       "rank": 3,
+      "title": "Paolo Cirino Pomicino è morto: l’ex ministro Dc aveva 86 anni",
+      "source_count": 11,
+      "article_count": 17,
+      "source_domains": [
+        "ilgiornale.it",
+        "video.corriere.it",
+        "napoli.repubblica.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/interni/tifoso-rossonero-cuore-azzurro-pomicino-senza-dc-maradona-2641603.html",
+        "https://video.corriere.it/politica/addio-a-paolo-cirino-pomicino-ex-ministro-dc-con-i-governi-de-mita-e-andreotti/e4f523b8-fb80-4b9b-b908-0367e51ecxlk",
+        "https://www.ilgiornale.it/news/interni/se-ne-va-mente-interessante-e-anticonformista-ricordo-degli-2641598.html",
+        "https://napoli.repubblica.it/cronaca/2026/03/21/news/morto_cirino_pomicino_politico_dc_reazioni-425237151/",
+        "https://www.fanpage.it/politica/morto-paolo-cirino-pomicino-lex-ministro-della-dc-aveva-86-anni/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Valanga in Alto Adige travolge 10 persone: almeno due vittime. In corso una maxi operazione di salvataggio con 5 elicotteri",
       "source_count": 11,
-      "article_count": 14,
+      "article_count": 15,
       "source_domains": [
+        "lastampa.it",
         "ansa.it",
         "fanpage.it",
         "liberoquotidiano.it",
@@ -66,20 +92,19 @@
         "ilmessaggero.it",
         "ilgiornale.it",
         "repubblica.it",
-        "lastampa.it",
         "agi.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.lastampa.it/cronaca/2026/03/21/video/valanga_in_alto_adige_le_squadre_di_soccorso_in_azione_sulla_hohe_ferse-15554663/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/21/maxi-intervento-per-una-valanga-in-alto-adige-2-morti-e-5-feriti-in-val_47fa631a-cfbf-4b64-ab1c-1921d124d71e.html",
         "https://www.fanpage.it/attualita/valanga-in-alto-adige-soccorritori-in-azione-a-racines-almeno-dieci-scialpinisti-coinvolti/",
         "https://www.liberoquotidiano.it/news/italia/46918147/alto-adige-valanga-travolge-dieci-persone-due-morti-un-ferito-grave/",
-        "http://corrieredellaltoadige.corriere.it/notizie/cronaca/26_marzo_21/alto-adige-valanga-travolge-dieci-persone-in-corso-una-maxi-operazione-di-salvataggio-con-cinque-elicotteri-f2f05565-5964-4323-ac75-dc560f4dcxlk.shtml",
         "http://corrieredellaltoadige.corriere.it/notizie/cronaca/26_marzo_21/alto-adige-valanga-travolge-dieci-persone-in-corso-una-maxi-operazione-di-salvataggio-con-cinque-elicotteri-f2f05565-5964-4323-ac75-dc560f4dcxlk.shtml"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Schianto tra un taxi e una moto a Milano, morti due ventenni: avevano 20 e 23 anni",
       "source_count": 10,
       "article_count": 14,
@@ -104,7 +129,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Pirovano, che meraviglia: vince a Lillehammer e conquista la coppa del mondo di discesa",
       "source_count": 9,
       "article_count": 15,
@@ -128,7 +153,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Funerali Bossi, domani cerimonia semplice a Pontida",
       "source_count": 8,
       "article_count": 12,
@@ -151,54 +176,50 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Paolo Cirino Pomicino è morto: l’ex ministro Dc aveva 86 anni",
-      "source_count": 9,
+      "rank": 8,
+      "title": "Sinner, quando gioca contro Dzumhur a Miami: orario e dove vederla in tv e streaming",
+      "source_count": 6,
       "article_count": 11,
       "source_domains": [
-        "fanpage.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "corriere.it",
         "ansa.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
         "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.fanpage.it/politica/morto-paolo-cirino-pomicino-lex-ministro-della-dc-aveva-86-anni/",
-        "https://www.repubblica.it/venerdi/2026/03/21/news/cirino_pomicino_intervista_giulio_andreotti_dc-425237140/",
-        "https://www.ilfattoquotidiano.it/2026/03/21/e-morto-paolo-cirino-pomicino-lex-parlamentare-della-dc-e-ministro-dei-governi-andreotti-aveva-87-anni/8332140/",
-        "https://www.ilfattoquotidiano.it/2026/03/21/paolo-cirino-pomicino-morto-ministro-andreotti-notizie/8332140/",
-        "https://www.corriere.it/politica/26_marzo_21/morto-cirino-pomicino-l-ex-ministro-dc-aveva-86-anni-6eeaaf14-5940-4838-8c6a-af8418de6xlk.shtml"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Il Napoli passa di misura a Cagliari e si prende il secondo posto",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
         "corriere.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
         "fanpage.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/sport/napoli-basta-gol-mctominay-conte-2-posto-notte-2641342.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/20/al-napoli-basta-mctominay-conte-supera-il-milan-ed-e-secondo_1af500c4-525b-40dc-8d85-ceefc8f20f8d.html",
-        "https://www.corriere.it/sport/26_marzo_20/cagliari-napoli-risultato-a4a94b40-9a6e-4abd-9c79-ec71b4c0dxlk.shtml",
-        "https://www.ilfattoquotidiano.it/2026/03/20/napoli-vittoria-cagliari-conte-scudetto-pressione-inter/8331498/",
-        "https://www.ilgiornale.it/news/calcio/serie-napoli-passa-misura-cagliari-e-si-prende-secondo-posto-2641262.html"
+        "https://www.ansa.it/sito/notizie/flash/2026/03/21/-tennis-dzumhur-battuto-buon-esordio-per-sinner-a-miami-_4d4a8633-2c86-4365-8381-c16512c79e68.html",
+        "https://www.lastampa.it/sport/2026/03/21/news/tennis_sinner_miami_dzumhur-15554772/",
+        "https://www.corriere.it/sport/tennis/diretta-live/26_marzo_21/sinner-dzumhur-miami-diretta-risultato.shtml",
+        "https://www.fanpage.it/sport/live/sinner-dzumhur-in-diretta-live-in-campo-dalle-1830-a-miami-open-jannik-inizia-la-sua-cavalcata/",
+        "https://www.ilfattoquotidiano.it/2026/03/21/oggi-sinner-miami-quando-gioca-orari-diretta-tv-streaming/8331892/"
       ]
     },
     {
       "rank": 9,
+      "title": "Epatite A: come ci si infetta, come ci si può proteggere. Il vaccino è utile?",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "napoli.corriere.it",
+        "napoli.repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/21/epatite-a-salgono-a-53-i-pazienti-ricoverati-al-cotugno-di-napoli_dab8dfca-13cb-4b56-87c2-d3916898184b.html",
+        "https://www.ilfattoquotidiano.it/2026/03/21/epatite-a-napoli-ricoveri-cotugno-piano-controlli-vaccini/8331873/",
+        "https://www.ilgiornale.it/news/politica/epatite-84-casi-napoli-vietati-i-frutti-mare-2641328.html",
+        "https://www.ilmessaggero.it/salute/schede/epatite_a_6_sintomi_sintomi_cure_contagio_come_avviene-9429648.html",
+        "https://www.fanpage.it/napoli/come-iniziata-londata-di-epatite-a-fra-napoli-e-provincia-dai-molluschi-infetti-ai-casi-che-continuano-a-crescere/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Ondata di attacchi su Israele. Iran lancia missili contro base Usa nell’Oceano Indiano",
       "source_count": 7,
       "article_count": 9,
@@ -217,29 +238,6 @@
         "https://www.ilgiornale.it/news/guerra/usa-intercettano-due-missili-iraniani-lanciati-contro-base-2641420.html",
         "https://www.repubblica.it/esteri/2026/03/21/diretta/guerra_iran_usa_israele_news_oggi-425236016/",
         "https://www.corriere.it/esteri/diretta-live/26_marzo_21/guerra-iran-ultime-notizie-diretta.shtml"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Mondiali di atletica: Andy Diaz oro nel salto triplo, l'Italia parte bene a Torun",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "corriere.it",
-        "fanpage.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/sport/46911971/mondiali-indoor-atletica-andy-diaz-azzurro-oro-salto-triplo/",
-        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/03/20/diaz-campione-del-mondo-nel-triplo-litalia-parte-bene-a-torun_4d444176-6e08-4686-a553-e0ab44facb92.html",
-        "https://www.ilfattoquotidiano.it/2026/03/20/andy-diaz-oro-triplo-mondiali-indoor-atletica-news/8331521/",
-        "https://www.ilgiornale.it/news/altri-sport/lazzurro-andy-diaz-oro-nel-salto-triplo-ai-mondiali-indoor-2641281.html",
-        "https://www.adnkronos.com/sport/diaz-oro-mondiali-atletica_21Li34Ys3Iq7zoz41nbZ9F"
       ]
     }
   ]
