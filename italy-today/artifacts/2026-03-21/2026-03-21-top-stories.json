@@ -1,12 +1,37 @@
 {
   "date": "2026-03-21",
-  "generated_at": "Sat 21 Mar 19:31",
+  "generated_at": "Sat 21 Mar 20:36",
   "stories": [
     {
       "rank": 1,
+      "title": "Milano-Sanremo, Pogacar nella storia. Vince per la prima volta in volata nonostante la caduta",
+      "source_count": 10,
+      "article_count": 21,
+      "source_domains": [
+        "fanpage.it",
+        "ansa.it",
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "video.corriere.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/ciclismo/pogacar-alla-milano-sanremo-come-pantani-a-oropa-ora-solo-unimpresa-lo-separa-dalleternita-ciclistica/",
+        "https://www.ansa.it/sito/notizie/sport/2026/03/21/ciclismo-pogacar-cade-e-poi-trionfa-la-sanremo-e-finalmente-sua.-felicissimo-di-aver_9e1a358a-4f2f-45cb-b274-4e034f7fc430.html",
+        "https://www.fanpage.it/sport/ciclismo/pogacar-racconta-la-caduta-prima-del-trionfo-alla-milano-sanremo-ho-pensato-fosse-tutto-finito/",
+        "https://www.laverita.info/pogacar-vince-milano-sanremo-2026-2676524813.html",
+        "https://www.ansa.it/sito/notizie/sport/2026/03/21/ciclismo-finalmente-pogacar-sua-la-milano-sanremo.-felicissimo-di-aver-vinto-qui_9e1a358a-4f2f-45cb-b274-4e034f7fc430.html"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Pista anarchica per i morti a Roma: 'Costruivano una bomba'",
       "source_count": 10,
-      "article_count": 20,
+      "article_count": 18,
       "source_domains": [
         "roma.corriere.it",
         "fanpage.it",
@@ -28,32 +53,31 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Milano-Sanremo, Pogacar nella storia. Vince per la prima volta in volata nonostante la caduta",
-      "source_count": 10,
-      "article_count": 20,
+      "rank": 3,
+      "title": "Masters Miami: Dzumhur battuto, buon esordio per Sinner a Miami. 'Contento di aver cominciato così'",
+      "source_count": 9,
+      "article_count": 19,
       "source_domains": [
+        "repubblica.it",
         "ansa.it",
         "fanpage.it",
-        "laverita.info",
         "ilfattoquotidiano.it",
-        "video.corriere.it",
         "ilgiornale.it",
         "ilmessaggero.it",
-        "repubblica.it",
+        "liberoquotidiano.it",
         "lastampa.it",
-        "news.google.com"
+        "corriere.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/03/21/ciclismo-pogacar-cade-e-poi-trionfa-la-sanremo-e-finalmente-sua.-felicissimo-di-aver_9e1a358a-4f2f-45cb-b274-4e034f7fc430.html",
-        "https://www.fanpage.it/sport/ciclismo/pogacar-racconta-la-caduta-prima-del-trionfo-alla-milano-sanremo-ho-pensato-fosse-tutto-finito/",
-        "https://www.laverita.info/pogacar-vince-milano-sanremo-2026-2676524813.html",
-        "https://www.ansa.it/sito/notizie/sport/2026/03/21/ciclismo-finalmente-pogacar-sua-la-milano-sanremo.-felicissimo-di-aver-vinto-qui_9e1a358a-4f2f-45cb-b274-4e034f7fc430.html",
-        "https://www.ilfattoquotidiano.it/2026/03/21/caduta-pogacar-racchiude-senso-milano-sanremo-per-vincere-corsa-piu-imprevedibile-serviva-impresa-piu-folle/8332133/"
+        "https://www.repubblica.it/sport/tennis/2026/03/21/news/sinner_dzumhur_oggi_miami_risultato-425237565/",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/21/masters-miami-dzumhur-battuto-buon-esordio-per-sinner-a-miami.-contento_8d44dce6-04ec-4463-9f96-b9640b660410.html",
+        "https://www.fanpage.it/sport/tennis/sinner-vince-allesordio-al-miami-open-ma-non-lascia-nulla-al-caso-ho-fatto-anche-un-paio-di-errori/",
+        "https://www.ilfattoquotidiano.it/2026/03/21/sinner-vittoria-miami-open-news/8332201/",
+        "https://www.ilgiornale.it/news/tennis/atp-miami-partenza-vincente-sinner-sconfitte-dzumhur-due-set-2641613.html"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Paolo Cirino Pomicino è morto: l’ex ministro Dc aveva 86 anni",
       "source_count": 11,
       "article_count": 17,
@@ -79,7 +103,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Valanga in Alto Adige travolge 10 persone: almeno due vittime. In corso una maxi operazione di salvataggio con 5 elicotteri",
       "source_count": 11,
       "article_count": 15,
@@ -105,51 +129,28 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Masters Miami: Dzumhur battuto, buon esordio per Sinner a Miami. 'Contento di aver cominciato così'",
-      "source_count": 8,
-      "article_count": 16,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "corriere.it",
-        "fanpage.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/21/masters-miami-dzumhur-battuto-buon-esordio-per-sinner-a-miami.-contento_8d44dce6-04ec-4463-9f96-b9640b660410.html",
-        "https://www.ilfattoquotidiano.it/2026/03/21/sinner-vittoria-miami-open-news/8332201/",
-        "https://www.ilgiornale.it/news/tennis/atp-miami-partenza-vincente-sinner-sconfitte-dzumhur-due-set-2641613.html",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/21/masters-miami-dzumhur-battuto-buon-esordio-per-sinner_8d44dce6-04ec-4463-9f96-b9640b660410.html",
-        "https://www.ansa.it/sito/notizie/flash/2026/03/21/-tennis-dzumhur-battuto-buon-esordio-per-sinner-a-miami-_4d4a8633-2c86-4365-8381-c16512c79e68.html"
-      ]
-    },
-    {
       "rank": 6,
       "title": "Schianto tra un taxi e una moto a Milano, morti due ventenni: avevano 20 e 23 anni",
       "source_count": 10,
-      "article_count": 14,
+      "article_count": 15,
       "source_domains": [
+        "fanpage.it",
         "lastampa.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "milano.corriere.it",
         "ansa.it",
-        "fanpage.it",
         "milano.repubblica.it",
         "ilmessaggero.it",
         "agi.it"
       ],
       "links": [
+        "https://www.fanpage.it/milano/morti-in-un-frontale-tra-moto-e-taxi-a-milano-il-23enne-alla-guida-della-kawasaki-avrebbe-bruciato-il-rosso/",
         "https://www.lastampa.it/cronaca/2026/03/21/video/scontro_a_milano_tra_un_taxi_e_una_moto_morti_due_ventenni-15554606/",
         "https://www.ilgiornale.it/news/cronaca-nera/elisa-dranca-e-mithum-kuranage-chi-erano-i-ragazzi-morti-2641533.html",
         "https://www.liberoquotidiano.it/video/libero-video/46914548/milano-moto-si-schianta-contro-taxi-morti-due-ragazzi-20-23-anni/",
-        "https://www.ilgiornale.it/news/cronaca-locale/milano-scontro-moto-e-tazi-morti-due-ventenni-2641466.html",
-        "https://www.ilfattoquotidiano.it/2026/03/21/incidente-milano-giovani-morti-moto-news/8331697/"
+        "https://www.ilgiornale.it/news/cronaca-locale/milano-scontro-moto-e-tazi-morti-due-ventenni-2641466.html"
       ]
     },
     {
