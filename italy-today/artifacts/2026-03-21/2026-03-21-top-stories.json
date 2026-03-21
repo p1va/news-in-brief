@@ -1,6 +1,6 @@
 {
   "date": "2026-03-21",
-  "generated_at": "Sat 21 Mar 13:03",
+  "generated_at": "Sat 21 Mar 14:34",
   "stories": [
     {
       "rank": 1,
@@ -31,7 +31,7 @@
       "rank": 2,
       "title": "Milano, schianto taxi-moto all’incrocio: morti due ventenni",
       "source_count": 10,
-      "article_count": 15,
+      "article_count": 16,
       "source_domains": [
         "ilgiornale.it",
         "ansa.it",
@@ -54,30 +54,54 @@
     },
     {
       "rank": 3,
-      "title": "Morto l'attore americano Chuck Norris. L'ultimo video: \"Io non invecchio, salgo di livello\"",
+      "title": "Pirovano, che meraviglia: vince a Lillehammer e conquista la coppa del mondo di discesa",
       "source_count": 9,
-      "article_count": 11,
+      "article_count": 15,
       "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
         "liberoquotidiano.it",
         "corriere.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ansa.it",
-        "laverita.info",
-        "unita.it",
-        "ilgiornale.it",
-        "news.google.com"
+        "lastampa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/video/tv-news/46914953/hollywood-orfana-di-chuck-norris-per-noi-era-come-un-padre-/",
-        "https://www.corriere.it/spettacoli/cinema-serie-tv/26_marzo_21/chuck-norris-l-antidivo-nato-in-una-base-aerea-che-sfidava-bruce-lee-e-venne-segnato-dal-fratello-morto-in-vietnam-5bcc7421-9476-4ef3-ba9a-65b8fd1e2xlk.shtml",
-        "https://www.fanpage.it/spettacolo/personaggi/la-vita-privata-di-chuck-norris-due-matrimoni-e-una-figlia-illegittima-conosciuta-solo-da-adulta/",
-        "https://www.lastampa.it/spettacoli/2026/03/21/news/morso_dal_cobra_e_il_cobra_muore_chuck_norris_ecco_come_nasce_una_leggenda-15553738/",
-        "https://www.ansa.it/sito/notizie/cultura/2026/03/20/e-morto-chuck-norris-star-del-cinema-dazione_fcd0e5b5-0eb3-4471-83f5-d32dccf272b4.html"
+        "https://www.ilfattoquotidiano.it/2026/03/21/laura-pirovano-coppa-mondo-discesa-libera-paura-folle-di-farla-cadere-guardare-risultato-devastante/8331995/",
+        "https://www.ansa.it/sito/notizie/sport/sci/2026/03/21/sci-cdm-donne-pirovano-vince-la-coppa-del-mondo-di-discesa-libera_feae5058-e0b5-4cfe-8a57-af414bbf7945.html",
+        "https://www.repubblica.it/sport/sci/2026/03/21/news/pirovano_vince_coppa_mondo_discesa_sci-425236895/",
+        "https://www.ilfattoquotidiano.it/2026/03/21/laura-pirovano-coppa-mondo-discesa-libera-impresa-meravigliosa/8331902/",
+        "https://www.fanpage.it/sport/sport-invernali/laura-pirovano-da-sogno-vince-la-discesa-libera-di-kvitfjell-e-si-prende-la-coppa-del-mondo-di-specialita/"
       ]
     },
     {
       "rank": 4,
+      "title": "Valanga in Alto Adige travolge 10 persone: almeno due vittime. In corso una maxi operazione di salvataggio con 5 elicotteri",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "fanpage.it",
+        "corrieredellaltoadige.corriere.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/attualita/valanga-in-alto-adige-soccorritori-in-azione-a-racines-almeno-dieci-scialpinisti-coinvolti/",
+        "http://corrieredellaltoadige.corriere.it/notizie/cronaca/26_marzo_21/alto-adige-valanga-travolge-dieci-persone-in-corso-una-maxi-operazione-di-salvataggio-con-cinque-elicotteri-f2f05565-5964-4323-ac75-dc560f4dcxlk.shtml",
+        "http://corrieredellaltoadige.corriere.it/notizie/cronaca/26_marzo_21/alto-adige-valanga-travolge-dieci-persone-in-corso-una-maxi-operazione-di-salvataggio-con-cinque-elicotteri-f2f05565-5964-4323-ac75-dc560f4dcxlk.shtml",
+        "https://www.ilfattoquotidiano.it/2026/03/21/valanga-travolge-dieci-scialpinisti-a-racines-bolzano-maxi-operazione-di-soccorso-in-corso/8332024/",
+        "https://www.ilmessaggero.it/italia/valanga_alto_adige_racines_cosa_e_successo-9429840.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Il Napoli passa di misura a Cagliari e si prende il secondo posto",
       "source_count": 8,
       "article_count": 9,
@@ -100,30 +124,29 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Meloni: \"Delmastro leggero, i cittadini valuteranno se c'è stata una manina\"",
-      "source_count": 8,
+      "rank": 6,
+      "title": "Ondata di attacchi su Israele. Iran lancia missili contro base Usa nell’Oceano Indiano",
+      "source_count": 7,
       "article_count": 9,
       "source_domains": [
-        "ilgiornale.it",
-        "roma.corriere.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
         "ansa.it",
-        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "corriere.it",
+        "lastampa.it",
         "fanpage.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/i-sospetti-meloni-sul-caso-delmastro-ho-messo-conto-manina-2641319.html",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_21/delmastro-spuntano-altri-due-scatti-la-premier-meloni-evoca-la-manina-e-scontro-9805a96e-5dda-4056-ae67-3958ba20fxlk.shtml",
-        "https://www.lastampa.it/cronaca/2026/03/21/news/delmastro_nelle_foto_c_e_anche_bartolozzi_meloni_una_leggerezza-15554126/",
-        "https://www.repubblica.it/cronaca/2026/03/21/news/caso_delmastro_foto_cena_bartolozzi_lega-425235943/",
-        "https://www.ilmessaggero.it/politica/delmastro_clan_foto_ristorante_mauro_caroccia_chi_e-9428415.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/21/aiea-nel-sito-nucleare-di-natanz-non-si-registrano-aumenti-di-radiazioni_3098a639-c8f2-4194-a2e8-2efe2002f925.html",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/21/guerra-in-iran-israele-usa-news-oggi-21-marzo/8331692/",
+        "https://www.ilgiornale.it/news/guerra/usa-intercettano-due-missili-iraniani-lanciati-contro-base-2641420.html",
+        "https://www.repubblica.it/esteri/2026/03/21/diretta/guerra_iran_usa_israele_news_oggi-425236016/",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_21/guerra-iran-ultime-notizie-diretta.shtml"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Mondiali di atletica: Andy Diaz oro nel salto triplo, l'Italia parte bene a Torun",
       "source_count": 8,
       "article_count": 8,
@@ -146,7 +169,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Epatite A: 84 casi a Napoli \"Vietati i frutti di mare\"",
       "source_count": 7,
       "article_count": 8,
@@ -168,7 +191,29 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Meloni: \"Delmastro leggero, i cittadini valuteranno se c'è stata una manina\"",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "roma.corriere.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/i-sospetti-meloni-sul-caso-delmastro-ho-messo-conto-manina-2641319.html",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_21/delmastro-spuntano-altri-due-scatti-la-premier-meloni-evoca-la-manina-e-scontro-9805a96e-5dda-4056-ae67-3958ba20fxlk.shtml",
+        "https://www.lastampa.it/cronaca/2026/03/21/news/delmastro_nelle_foto_c_e_anche_bartolozzi_meloni_una_leggerezza-15554126/",
+        "https://www.repubblica.it/cronaca/2026/03/21/news/caso_delmastro_foto_cena_bartolozzi_lega-425235943/",
+        "https://www.ilmessaggero.it/politica/delmastro_clan_foto_ristorante_mauro_caroccia_chi_e-9428415.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "È morto Nicholas Brendon, l’indimenticabile Xander di Buffy L’ammazzavampiri: aveva 54 anni",
       "source_count": 7,
       "article_count": 8,
@@ -187,48 +232,6 @@
         "https://www.ilgiornale.it/news/personaggi/addio-nicholas-brendon-star-buffy-trovato-senza-vita-nel-2641464.html",
         "https://www.lastampa.it/spettacoli/2026/03/21/news/e_morto_l_attore_nicholas_brendon_star_della_serie_buffy_l_ammazzavampiri-15554219/",
         "https://www.ilfattoquotidiano.it/2026/03/21/e-morto-xander-di-buffy-lammazzavampiri-lattore-nicholas-brendon-stava-prendendo-delle-medicine-e-si-sottoponeva-a-delle-cure-per-gestire-la-sua-diagnosi/8331669/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Referendum, scontro finale Meloni-Schlein",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "repubblica.it",
-        "lastampa.it",
-        "roma.corriere.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/giorgia-elly-sfida-tv-garlasco-centra-eccome-2641314.html",
-        "https://www.fanpage.it/live/referendum-giustizia-2026-diretta-news-verso-il-voto-20-marzo/",
-        "https://www.fanpage.it/live/referendum-giustizia-2026-diretta-news-verso-il-voto-21-marzo/",
-        "https://www.repubblica.it/politica/2026/03/21/news/elly_schlein_intervista_referendum_giustizia-425235912/",
-        "https://www.lastampa.it/politica/2026/03/21/news/referendum_scontro_finale_meloni-schlein-15553760/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Iran, nuova ondata di attacchi contro Israele, Arabia, Emirati e Kuwait. Wsj: fallito lancio di missili verso base Usa nell'Oceano indiano",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "corriere.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/21/aiea-nel-sito-nucleare-di-natanz-non-si-registrano-aumenti-di-radiazioni_3098a639-c8f2-4194-a2e8-2efe2002f925.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/21/guerra-in-iran-israele-usa-news-oggi-21-marzo/8331692/",
-        "https://www.ilgiornale.it/news/guerra/usa-intercettano-due-missili-iraniani-lanciati-contro-base-2641420.html",
-        "https://www.repubblica.it/esteri/2026/03/21/diretta/guerra_iran_usa_israele_news_oggi-425236016/",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_21/guerra-iran-ultime-notizie-diretta.shtml"
       ]
     }
   ]
