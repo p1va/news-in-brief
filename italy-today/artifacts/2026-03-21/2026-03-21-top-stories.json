@@ -1,13 +1,14 @@
 {
   "date": "2026-03-21",
-  "generated_at": "Sat 21 Mar 09:40",
+  "generated_at": "Sat 21 Mar 10:35",
   "stories": [
     {
       "rank": 1,
       "title": "Pista anarchica per i morti a Roma: 'Costruivano una bomba'",
-      "source_count": 9,
-      "article_count": 17,
+      "source_count": 10,
+      "article_count": 18,
       "source_domains": [
+        "laverita.info",
         "ilgiornale.it",
         "ansa.it",
         "roma.corriere.it",
@@ -19,23 +20,23 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.laverita.info/anarchici-sellaretto-morti-bomba-2676469410.html",
         "https://www.ilgiornale.it/news/nazionale/legati-gruppo-cospito-e-gi-processo-chi-erano-i-due-2641457.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/21/pista-anarchica-per-i-morti-a-roma-costruivano-una-bomba_157f2485-e85f-4fab-b88c-37f46d71635e.html",
         "http://roma.corriere.it/notizie/cronaca/26_marzo_21/sara-ardizzone-alessandro-mercogliano-anarchici-vita-violenta-812b91ba-6012-4412-8d6f-bdc46236bxlk.shtml",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_21/sara-ardizzone-alessandro-mercogliano-anarchici-vita-violenta-812b91ba-6012-4412-8d6f-bdc46236bxlk.shtml",
-        "https://www.repubblica.it/cronaca/2026/03/21/news/anarchici_ardizzone_mercogliano_chi_erano-425235962/"
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_21/sara-ardizzone-alessandro-mercogliano-anarchici-vita-violenta-812b91ba-6012-4412-8d6f-bdc46236bxlk.shtml"
       ]
     },
     {
       "rank": 2,
       "title": "Milano, schianto taxi-moto all’incrocio: morti due ventenni",
       "source_count": 9,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
+        "ansa.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "video.corriere.it",
-        "ansa.it",
         "fanpage.it",
         "milano.repubblica.it",
         "ilmessaggero.it",
@@ -43,15 +44,38 @@
         "agi.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/21/due-incidenti-mortali-nella-notte-a-roma-muore-un-17enne-a-milano-due_2777ec73-6417-493f-b2b1-df8fac020040.html",
         "https://www.ilgiornale.it/news/cronaca-locale/milano-scontro-moto-e-tazi-morti-due-ventenni-2641466.html",
         "https://www.ilfattoquotidiano.it/2026/03/21/incidente-milano-giovani-morti-moto-news/8331697/",
         "https://video.corriere.it/milano/l-auto-ribaltata-la-moto-a-terra-le-immagini-dell-incidente-in-viale-mugello-a-milano/0027da2a-0aef-4fc7-9318-997c88dadxlk",
-        "https://video.corriere.it/milano/l-auto-ribaltata-la-moto-a-terra-le-immagini-dell-incidente-in-viale-mugello-a-milano/0027da2a-0aef-4fc7-9318-997c88dadxlk",
-        "http://milano.corriere.it/notizie/cronaca/26_marzo_21/milano-incidente-in-viale-mugello-morti-in-motocicletta-un-ragazzo-di-23-anni-e-una-ragazza-di-20-096d2d75-07d8-4640-a6a4-c750d570fxlk.shtml"
+        "https://video.corriere.it/milano/l-auto-ribaltata-la-moto-a-terra-le-immagini-dell-incidente-in-viale-mugello-a-milano/0027da2a-0aef-4fc7-9318-997c88dadxlk"
       ]
     },
     {
       "rank": 3,
+      "title": "Guerra in Iran, le news di oggi. Missili dall’Iran contro la base militare Usa Diego Garcia nell’Oceano Indiano. Israele: “Attacchi contro obbiettivi terroristici a Teheran”.",
+      "source_count": 8,
+      "article_count": 12,
+      "source_domains": [
+        "ilmessaggero.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/italia/missile_iraniano_khorramshahr_4_gittata_dove_puo_colpire-9429665.html",
+        "https://www.corriere.it/esteri/26_marzo_21/diego-garcia-missili-iran-403b8b28-134d-4154-a313-200c4fe05xlk.shtml",
+        "https://www.corriere.it/esteri/26_marzo_21/diego-garcia-missili-iran-403b8b28-134d-4154-a313-200c4fe05xlk.shtml",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/21/guerra-in-iran-israele-usa-news-oggi-21-marzo/8331692/",
+        "https://www.ilgiornale.it/news/guerra/base-diego-garcia-ecco-perch-importante-usa-e-lattacco-2641459.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Morto l'attore americano Chuck Norris. L'ultimo video: \"Io non invecchio, salgo di livello\"",
       "source_count": 8,
       "article_count": 10,
@@ -74,7 +98,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Il Napoli passa di misura a Cagliari e si prende il secondo posto",
       "source_count": 8,
       "article_count": 9,
@@ -94,28 +118,6 @@
         "https://www.corriere.it/sport/26_marzo_20/cagliari-napoli-risultato-a4a94b40-9a6e-4abd-9c79-ec71b4c0dxlk.shtml",
         "https://www.ilfattoquotidiano.it/2026/03/20/napoli-vittoria-cagliari-conte-scudetto-pressione-inter/8331498/",
         "https://www.ilgiornale.it/news/calcio/serie-napoli-passa-misura-cagliari-e-si-prende-secondo-posto-2641262.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Guerra in Iran, le news di oggi. Missili dall’Iran contro la base militare Usa Diego Garcia nell’Oceano Indiano. Israele: “Attacchi contro obbiettivi terroristici a Teheran”.",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "repubblica.it",
-        "corriere.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/21/guerra-in-iran-israele-usa-news-oggi-21-marzo/8331692/",
-        "https://www.ilgiornale.it/news/guerra/base-diego-garcia-ecco-perch-importante-usa-e-lattacco-2641459.html",
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-21-marzo/",
-        "https://www.ilgiornale.it/news/guerra/usa-intercettano-due-missili-iraniani-lanciati-contro-base-2641420.html",
-        "https://www.repubblica.it/esteri/2026/03/21/diretta/guerra_iran_usa_israele_news_oggi-425236016/"
       ]
     },
     {
@@ -143,6 +145,49 @@
     },
     {
       "rank": 7,
+      "title": "Meloni: \"Delmastro leggero, i cittadini valuteranno se c'è stata una manina\"",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "roma.corriere.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_21/delmastro-spuntano-altri-due-scatti-la-premier-meloni-evoca-la-manina-e-scontro-9805a96e-5dda-4056-ae67-3958ba20fxlk.shtml",
+        "https://www.lastampa.it/cronaca/2026/03/21/news/delmastro_nelle_foto_c_e_anche_bartolozzi_meloni_una_leggerezza-15554126/",
+        "https://www.repubblica.it/cronaca/2026/03/21/news/caso_delmastro_foto_cena_bartolozzi_lega-425235943/",
+        "https://www.ilmessaggero.it/politica/delmastro_clan_foto_ristorante_mauro_caroccia_chi_e-9428415.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/20/delmastro-e-bartolozzi-a-cena-nel-ristorante-sotto-accusa_838c5edd-dedb-4cb1-85e3-74d8320512f4.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Convocati della Nazionale, ecco i nomi: la sorpresa è il ritorno di Chiesa. Novità Palestra, confermato Bastoni",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "repubblica.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "unita.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/calcio/nazionale/2026/03/21/news/nazionale_bernardeschi_berardi_zaniolo_mancata_convocazione-425236340/",
+        "https://www.corriere.it/sport/calcio/mondiali/26_marzo_21/federico-chiesa-convocato-nazionale-playoff-mondiali-gattuso-retroscena-9ad5c868-4f26-4124-aae3-cf4beea5cxlk.shtml",
+        "https://www.ilgiornale.it/news/calcio/gattuso-sorprende-tutti-e-ripesca-chiesa-inseguito-settembre-2641386.html",
+        "https://www.ilgiornale.it/news/calcio/palestra-e-altri-novit-gattuso-debutti-e-grandi-ritorni-2641242.html",
+        "https://www.ilmessaggero.it/sport/schede/italia_esclusi_convocati_zaniolo_bernardeschi-9428017.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Terremoto al largo delle Eolie, scosse di magnitudo 4.9 e 4.6 avvertite anche a Palermo, Messina e Reggio Calabria",
       "source_count": 7,
       "article_count": 7,
@@ -164,7 +209,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Omicidio nella notte nell’Aretino: uomo di 30 anni ucciso a colpi d’arma da fuoco dopo una lite",
       "source_count": 7,
       "article_count": 7,
@@ -183,47 +228,6 @@
         "https://www.ilfattoquotidiano.it/2026/03/21/omicidio-arezzo-albanese-30enne-notizie/8331712/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/21/omicidio-ad-arezzo-fermato-un-uomo_0b9f68e3-3d44-454c-998e-a5a860346519.html",
         "https://www.ilmessaggero.it/italia/omicidio_arezzo_cosa_e_successo-9429572.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Convocati della Nazionale, ecco i nomi: la sorpresa è il ritorno di Chiesa. Novità Palestra, confermato Bastoni",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "corriere.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "unita.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.corriere.it/sport/calcio/mondiali/26_marzo_21/federico-chiesa-convocato-nazionale-playoff-mondiali-gattuso-retroscena-9ad5c868-4f26-4124-aae3-cf4beea5cxlk.shtml",
-        "https://www.ilgiornale.it/news/calcio/gattuso-sorprende-tutti-e-ripesca-chiesa-inseguito-settembre-2641386.html",
-        "https://www.ilgiornale.it/news/calcio/palestra-e-altri-novit-gattuso-debutti-e-grandi-ritorni-2641242.html",
-        "https://www.ilmessaggero.it/sport/schede/italia_esclusi_convocati_zaniolo_bernardeschi-9428017.html",
-        "https://www.ilgiornale.it/news/calcio/parte-missione-mondiale-nazionale-ecco-tutti-i-convocati-2641149.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "È morto Nicholas Brendon, l’indimenticabile Xander di Buffy L’ammazzavampiri: aveva 54 anni",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "corriere.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/personaggi/addio-nicholas-brendon-star-buffy-trovato-senza-vita-nel-2641464.html",
-        "https://www.lastampa.it/spettacoli/2026/03/21/news/e_morto_l_attore_nicholas_brendon_star_della_serie_buffy_l_ammazzavampiri-15554219/",
-        "https://www.ilfattoquotidiano.it/2026/03/21/e-morto-xander-di-buffy-lammazzavampiri-lattore-nicholas-brendon-stava-prendendo-delle-medicine-e-si-sottoponeva-a-delle-cure-per-gestire-la-sua-diagnosi/8331669/",
-        "https://www.fanpage.it/spettacolo/personaggi/e-morto-nicholas-brendon-lindimenticabile-xander-di-buffy-lammazzavampiri-aveva-54-anni/",
-        "https://www.corriere.it/spettacoli/cinema-serie-tv/26_marzo_21/nicholas-brendon-morto-l-ammazzavampiri-di-buffy-aveva-54-anni-94f793d4-0770-40de-91e2-43fa05868xlk.shtml"
       ]
     }
   ]
