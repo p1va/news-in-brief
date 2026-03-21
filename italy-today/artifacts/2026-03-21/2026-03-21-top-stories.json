@@ -1,32 +1,56 @@
 {
   "date": "2026-03-21",
-  "generated_at": "Sat 21 Mar 06:55",
+  "generated_at": "Sat 21 Mar 07:38",
   "stories": [
     {
       "rank": 1,
-      "title": "Anarchici morti nell’esplosione di un casale a Roma: nella bomba un litro di fertilizzante",
-      "source_count": 8,
-      "article_count": 10,
+      "title": "Pista anarchica per i morti a Roma: 'Costruivano una bomba'",
+      "source_count": 9,
+      "article_count": 15,
       "source_domains": [
         "ansa.it",
+        "roma.corriere.it",
+        "repubblica.it",
         "ilmanifesto.it",
         "lastampa.it",
         "ilmessaggero.it",
         "ilgiornale.it",
         "fanpage.it",
-        "roma.corriere.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/20/due-morti-nel-crollo-di-un-casale-la-pista-anarchica-lipotesi-e-che-stessero_157f2485-e85f-4fab-b88c-37f46d71635e.html",
-        "https://ilmanifesto.it/esplosione-a-roma-morti-due-anarchici",
-        "https://www.lastampa.it/cronaca/2026/03/21/news/esplosione_roma_due_vittime_anarchici_bomba-15553918/",
-        "https://www.ilmessaggero.it/roma/metropoli/esplosione_roma_anarchici_bomba_complici_cosa_sappiamo-9428422.html",
-        "https://www.ilmessaggero.it/roma/tuscolana/anarchici_roma_obiettivi_tuscolano-9428411.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/21/pista-anarchica-per-i-morti-a-roma-costruivano-una-bomba_157f2485-e85f-4fab-b88c-37f46d71635e.html",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_21/sara-ardizzone-alessandro-mercogliano-anarchici-vita-violenta-812b91ba-6012-4412-8d6f-bdc46236bxlk.shtml",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_21/sara-ardizzone-alessandro-mercogliano-anarchici-vita-violenta-812b91ba-6012-4412-8d6f-bdc46236bxlk.shtml",
+        "https://www.repubblica.it/cronaca/2026/03/21/news/anarchici_ardizzone_mercogliano_chi_erano-425235962/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/20/due-morti-nel-crollo-di-un-casale-la-pista-anarchica-lipotesi-e-che-stessero_157f2485-e85f-4fab-b88c-37f46d71635e.html"
       ]
     },
     {
       "rank": 2,
+      "title": "Morto l'attore americano Chuck Norris. L'ultimo video: \"Io non invecchio, salgo di livello\"",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "corriere.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ansa.it",
+        "laverita.info",
+        "unita.it",
+        "ilgiornale.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.corriere.it/spettacoli/cinema-serie-tv/26_marzo_21/chuck-norris-l-antidivo-nato-in-una-base-aerea-che-sfidava-bruce-lee-e-venne-segnato-dal-fratello-morto-in-vietnam-5bcc7421-9476-4ef3-ba9a-65b8fd1e2xlk.shtml",
+        "https://www.fanpage.it/spettacolo/personaggi/la-vita-privata-di-chuck-norris-due-matrimoni-e-una-figlia-illegittima-conosciuta-solo-da-adulta/",
+        "https://www.lastampa.it/spettacoli/2026/03/21/news/morso_dal_cobra_e_il_cobra_muore_chuck_norris_ecco_come_nasce_una_leggenda-15553738/",
+        "https://www.ansa.it/sito/notizie/cultura/2026/03/20/e-morto-chuck-norris-star-del-cinema-dazione_fcd0e5b5-0eb3-4471-83f5-d32dccf272b4.html",
+        "https://www.laverita.info/morto-chuck-norris-texas-ranger-2676470280.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Il Napoli passa di misura a Cagliari e si prende il secondo posto",
       "source_count": 8,
       "article_count": 9,
@@ -46,29 +70,6 @@
         "https://www.corriere.it/sport/26_marzo_20/cagliari-napoli-risultato-a4a94b40-9a6e-4abd-9c79-ec71b4c0dxlk.shtml",
         "https://www.ilfattoquotidiano.it/2026/03/20/napoli-vittoria-cagliari-conte-scudetto-pressione-inter/8331498/",
         "https://www.ilgiornale.it/news/calcio/serie-napoli-passa-misura-cagliari-e-si-prende-secondo-posto-2641262.html"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Morto l'attore americano Chuck Norris. L'ultimo video: \"Io non invecchio, salgo di livello\"",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "fanpage.it",
-        "lastampa.it",
-        "ansa.it",
-        "laverita.info",
-        "corriere.it",
-        "unita.it",
-        "ilgiornale.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.fanpage.it/spettacolo/personaggi/la-vita-privata-di-chuck-norris-due-matrimoni-e-una-figlia-illegittima-conosciuta-solo-da-adulta/",
-        "https://www.lastampa.it/spettacoli/2026/03/21/news/morso_dal_cobra_e_il_cobra_muore_chuck_norris_ecco_come_nasce_una_leggenda-15553738/",
-        "https://www.ansa.it/sito/notizie/cultura/2026/03/20/e-morto-chuck-norris-star-del-cinema-dazione_fcd0e5b5-0eb3-4471-83f5-d32dccf272b4.html",
-        "https://www.laverita.info/morto-chuck-norris-texas-ranger-2676470280.html",
-        "https://www.corriere.it/spettacoli/26_marzo_20/morto-chuck-norris-6eed8be7-0099-421c-a2fe-eb7a57e25xlk.shtml"
       ]
     },
     {
@@ -95,6 +96,47 @@
     },
     {
       "rank": 5,
+      "title": "Guerra in Iran, le news di oggi. Missili dall’Iran contro la base militare Usa Diego Garcia nell’Oceano Indiano. Israele: “Attacchi contro obbiettivi terroristici a Teheran”.",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "corriere.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-21-marzo/",
+        "https://www.ilgiornale.it/news/guerra/usa-intercettano-due-missili-iraniani-lanciati-contro-base-2641420.html",
+        "https://www.repubblica.it/esteri/2026/03/21/diretta/guerra_iran_usa_israele_news_oggi-425236016/",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_21/guerra-iran-ultime-notizie-diretta.shtml",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_21/guerra-iran-ultime-notizie-diretta.shtml"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Convocati della Nazionale, ecco i nomi: la sorpresa è il ritorno di Chiesa. Novità Palestra, confermato Bastoni",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "corriere.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "unita.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.corriere.it/sport/calcio/mondiali/26_marzo_21/federico-chiesa-convocato-nazionale-playoff-mondiali-gattuso-retroscena-9ad5c868-4f26-4124-aae3-cf4beea5cxlk.shtml",
+        "https://www.ilgiornale.it/news/calcio/gattuso-sorprende-tutti-e-ripesca-chiesa-inseguito-settembre-2641386.html",
+        "https://www.ilgiornale.it/news/calcio/palestra-e-altri-novit-gattuso-debutti-e-grandi-ritorni-2641242.html",
+        "https://www.ilmessaggero.it/sport/schede/italia_esclusi_convocati_zaniolo_bernardeschi-9428017.html",
+        "https://www.ilgiornale.it/news/calcio/parte-missione-mondiale-nazionale-ecco-tutti-i-convocati-2641149.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "La solitudine del Senatur, il dolore degli amici: “Ora lo piange anche chi lo ha tradito”",
       "source_count": 6,
       "article_count": 6,
@@ -115,7 +157,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Terremoto al largo delle Eolie, scosse di magnitudo 4.9 e 4.6 avvertite anche a Palermo, Messina e Reggio Calabria",
       "source_count": 6,
       "article_count": 6,
@@ -136,82 +178,41 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Ecco l’Italia per gli spareggi Mondiali: c’è Chiesa, prima volta per Palestra",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "unita.it",
-        "corriere.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/calcio/gattuso-sorprende-tutti-e-ripesca-chiesa-inseguito-settembre-2641386.html",
-        "https://www.ilgiornale.it/news/calcio/palestra-e-altri-novit-gattuso-debutti-e-grandi-ritorni-2641242.html",
-        "https://www.ilmessaggero.it/sport/schede/italia_esclusi_convocati_zaniolo_bernardeschi-9428017.html",
-        "https://www.ilgiornale.it/news/calcio/parte-missione-mondiale-nazionale-ecco-tutti-i-convocati-2641149.html",
-        "https://www.unita.it/2026/03/20/italia-playoff-mondiali-convocati-gattuso-federico-chiesa-tonali-bastoni-palestra/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Ondata di attacchi su Israele. Iran lancia missili contro base Usa nell’Oceano Indiano",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "corriere.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/guerra/usa-intercettano-due-missili-iraniani-lanciati-contro-base-2641420.html",
-        "https://www.repubblica.it/esteri/2026/03/21/diretta/guerra_iran_usa_israele_news_oggi-425236016/",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_21/guerra-iran-ultime-notizie-diretta.shtml",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_21/guerra-iran-ultime-notizie-diretta.shtml",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/03/21/iran-lancia-due-missili-contro-lisola-diego-garcia_3098a639-c8f2-4194-a2e8-2efe2002f925.html"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Meloni-Schlein, ultima sfida su Delmastro. La premier evoca la «manina», Schlein: «Dovrebbe pretendere le sue dimissioni»",
-      "source_count": 5,
+      "title": "Epatite A, vietato mangiare frutti di mare crudi a Napoli",
+      "source_count": 4,
       "article_count": 6,
       "source_domains": [
-        "ilmessaggero.it",
-        "roma.corriere.it",
+        "napoli.corriere.it",
+        "napoli.repubblica.it",
         "ansa.it",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "news.google.com"
       ],
       "links": [
-        "https://www.ilmessaggero.it/politica/delmastro_clan_foto_ristorante_mauro_caroccia_chi_e-9428415.html",
-        "http://roma.corriere.it/politica/diretta-live/26_marzo_20/meloni-schlein-diretta.shtml",
-        "http://roma.corriere.it/politica/diretta-live/26_marzo_20/meloni-schlein-diretta.shtml",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/20/delmastro-e-bartolozzi-a-cena-nel-ristorante-sotto-accusa_838c5edd-dedb-4cb1-85e3-74d8320512f4.html",
-        "https://www.lastampa.it/politica/2026/03/20/news/meloni_delmastro_e_stato_leggero_i_cittadini_valuteranno_se_c_e_stata_una_manina-15553539/"
+        "http://napoli.corriere.it/notizie/cronaca/26_marzo_20/il-virus-di-epatite-a-trovato-in-alcuni-allevamenti-flegrei-di-mitili-l-ipotesi-sull-inizio-del-contagio-e-la-trasmissione-da-44f72c75-5636-4dc3-b2f1-72f799e73xlk.shtml",
+        "http://napoli.corriere.it/notizie/cronaca/26_marzo_20/il-virus-di-epatite-a-trovato-in-alcuni-allevamenti-flegrei-di-mitili-l-ipotesi-sull-inizio-del-contagio-e-la-trasmissione-da-44f72c75-5636-4dc3-b2f1-72f799e73xlk.shtml",
+        "https://napoli.repubblica.it/cronaca/2026/03/21/news/epatite_napoli_allarme_campania_180_casi_gannaio_cotugno_posti_letto_esauriti-425235908/",
+        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/03/20/a-napoli-i-casi-di-epatite-a-aumentati-di-41-volte-rispetto-allultimo-triennio.-ispezioni-in-ristoranti_564d1751-0951-4f8f-a1e5-f757c18e61d8.html",
+        "https://www.corriere.it/salute/malattie_infettive/26_marzo_20/epatite-a-napoli-come-si-prende-sintomi-vaccino-5723ca57-ceb1-497a-9fd9-7fdcf2ffaxlk.shtml"
       ]
     },
     {
       "rank": 10,
-      "title": "Milan, tegola Leao: non convocato contro il Torino per un guaio all’adduttore",
+      "title": "Meloni-Schlein, ultima sfida su Delmastro. La premier evoca la «manina», Schlein: «Dovrebbe pretendere le sue dimissioni»",
       "source_count": 4,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
-        "corriere.it",
-        "liberoquotidiano.it"
+        "lastampa.it",
+        "roma.corriere.it",
+        "ansa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/sport/max-bacchetta-leao-e-pulisic-ora-svegliatevi-rafa-si-ferma-2641340.html",
-        "https://www.adnkronos.com/sport/leao-infortunio-torino-come-sta-quando-torna-milan_2vfgJldlP6ONKOCVRC7NQZ",
-        "https://www.corriere.it/sport/calcio/26_marzo_20/milan-leao-non-convocato-torino-4e369390-694f-4287-8d4f-5f2d9cb13xlk.shtml",
-        "https://www.corriere.it/sport/calcio/26_marzo_20/milan-leao-non-convocato-torino-4e369390-694f-4287-8d4f-5f2d9cb13xlk.shtml",
-        "https://www.liberoquotidiano.it/news/sport/46906146/milan-allegri-sbotta-datevi-sveglia-rafa-leao-si-ferma-subito-niente-torino/"
+        "https://www.lastampa.it/cronaca/2026/03/21/news/delmastro_nelle_foto_c_e_anche_bartolozzi_meloni_una_leggerezza-15554126/",
+        "http://roma.corriere.it/politica/diretta-live/26_marzo_20/meloni-schlein-diretta.shtml",
+        "http://roma.corriere.it/politica/diretta-live/26_marzo_20/meloni-schlein-diretta.shtml",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/20/delmastro-e-bartolozzi-a-cena-nel-ristorante-sotto-accusa_838c5edd-dedb-4cb1-85e3-74d8320512f4.html",
+        "https://www.lastampa.it/politica/2026/03/20/news/meloni_delmastro_e_stato_leggero_i_cittadini_valuteranno_se_c_e_stata_una_manina-15553539/"
       ]
     }
   ]
