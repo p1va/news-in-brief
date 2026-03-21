@@ -1,29 +1,29 @@
 {
   "date": "2026-03-21",
-  "generated_at": "Sat 21 Mar 07:38",
+  "generated_at": "Sat 21 Mar 08:42",
   "stories": [
     {
       "rank": 1,
       "title": "Pista anarchica per i morti a Roma: 'Costruivano una bomba'",
       "source_count": 9,
-      "article_count": 15,
+      "article_count": 16,
       "source_domains": [
+        "ilgiornale.it",
         "ansa.it",
         "roma.corriere.it",
         "repubblica.it",
         "ilmanifesto.it",
         "lastampa.it",
         "ilmessaggero.it",
-        "ilgiornale.it",
         "fanpage.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/nazionale/legati-gruppo-cospito-e-gi-processo-chi-erano-i-due-2641457.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/21/pista-anarchica-per-i-morti-a-roma-costruivano-una-bomba_157f2485-e85f-4fab-b88c-37f46d71635e.html",
         "http://roma.corriere.it/notizie/cronaca/26_marzo_21/sara-ardizzone-alessandro-mercogliano-anarchici-vita-violenta-812b91ba-6012-4412-8d6f-bdc46236bxlk.shtml",
         "http://roma.corriere.it/notizie/cronaca/26_marzo_21/sara-ardizzone-alessandro-mercogliano-anarchici-vita-violenta-812b91ba-6012-4412-8d6f-bdc46236bxlk.shtml",
-        "https://www.repubblica.it/cronaca/2026/03/21/news/anarchici_ardizzone_mercogliano_chi_erano-425235962/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/20/due-morti-nel-crollo-di-un-casale-la-pista-anarchica-lipotesi-e-che-stessero_157f2485-e85f-4fab-b88c-37f46d71635e.html"
+        "https://www.repubblica.it/cronaca/2026/03/21/news/anarchici_ardizzone_mercogliano_chi_erano-425235962/"
       ]
     },
     {
@@ -74,6 +74,72 @@
     },
     {
       "rank": 4,
+      "title": "Milano, schianto taxi-moto all’incrocio: morti due ventenni",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "milano.corriere.it",
+        "ansa.it",
+        "fanpage.it",
+        "milano.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-locale/milano-scontro-moto-e-tazi-morti-due-ventenni-2641466.html",
+        "https://www.ilfattoquotidiano.it/2026/03/21/incidente-milano-giovani-morti-moto-news/8331697/",
+        "http://milano.corriere.it/notizie/cronaca/26_marzo_21/milano-incidente-in-viale-mugello-morti-in-motocicletta-un-ragazzo-di-23-anni-e-una-ragazza-di-20-096d2d75-07d8-4640-a6a4-c750d570fxlk.shtml",
+        "http://milano.corriere.it/notizie/cronaca/26_marzo_21/milano-incidente-in-viale-mugello-morti-in-motocicletta-un-ragazzo-di-23-anni-e-una-ragazza-di-20-096d2d75-07d8-4640-a6a4-c750d570fxlk.shtml",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/21/schianto-auto-moto-a-milano-morti-due-ventenni_2777ec73-6417-493f-b2b1-df8fac020040.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Guerra in Iran, le news di oggi. Missili dall’Iran contro la base militare Usa Diego Garcia nell’Oceano Indiano. Israele: “Attacchi contro obbiettivi terroristici a Teheran”.",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "repubblica.it",
+        "corriere.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/guerra/base-diego-garcia-ecco-perch-importante-usa-e-lattacco-2641459.html",
+        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-21-marzo/",
+        "https://www.ilgiornale.it/news/guerra/usa-intercettano-due-missili-iraniani-lanciati-contro-base-2641420.html",
+        "https://www.repubblica.it/esteri/2026/03/21/diretta/guerra_iran_usa_israele_news_oggi-425236016/",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_21/guerra-iran-ultime-notizie-diretta.shtml"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Terremoto al largo delle Eolie, scosse di magnitudo 4.9 e 4.6 avvertite anche a Palermo, Messina e Reggio Calabria",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "corriere.it",
+        "ansa.it",
+        "palermo.repubblica.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/attualita/terremoto-nelle-eolie-sciame-sismico-e-scosse-avvertite-a-messina-e-palermo-la-piu-forte-di-magnitudo-4-6/",
+        "https://www.ilgiornale.it/news/nazionale/terremoto-nella-notte-largo-delle-eolie-sciame-15-scosse-2641432.html",
+        "https://www.lastampa.it/cronaca/2026/03/21/news/terremoto_due_scosse_magnitudo_tra_4_e_5_a_messina_e_palermo-15554120/",
+        "https://www.corriere.it/cronache/speciali/interni/26_marzo_21/terremoto-al-largo-delle-eolie-due-scosse-di-magnitudo-4-9-e-4-6-avvertite-anche-a-palermo-messina-e-reggio-calabria-f9c41cea-b3aa-4a19-9604-2df52c2a4xlk.shtml",
+        "https://www.ansa.it/sicilia/notizie/2026/03/21/terremoto-di-magnitudo-4.3-alle-isole-eolie_e8aa7360-3c13-411d-a28f-1bb63205a08e.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Mondiali di atletica: Andy Diaz oro nel salto triplo, l'Italia parte bene a Torun",
       "source_count": 7,
       "article_count": 7,
@@ -95,28 +161,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Guerra in Iran, le news di oggi. Missili dall’Iran contro la base militare Usa Diego Garcia nell’Oceano Indiano. Israele: “Attacchi contro obbiettivi terroristici a Teheran”.",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "corriere.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-21-marzo/",
-        "https://www.ilgiornale.it/news/guerra/usa-intercettano-due-missili-iraniani-lanciati-contro-base-2641420.html",
-        "https://www.repubblica.it/esteri/2026/03/21/diretta/guerra_iran_usa_israele_news_oggi-425236016/",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_21/guerra-iran-ultime-notizie-diretta.shtml",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_21/guerra-iran-ultime-notizie-diretta.shtml"
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 8,
       "title": "Convocati della Nazionale, ecco i nomi: la sorpresa è il ritorno di Chiesa. Novità Palestra, confermato Bastoni",
       "source_count": 5,
       "article_count": 8,
@@ -136,64 +181,22 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "La solitudine del Senatur, il dolore degli amici: “Ora lo piange anche chi lo ha tradito”",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "corriere.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.corriere.it/politica/26_marzo_21/bossi-pellegrinaggio-gemonio-03ffe0ec-7084-4029-bbed-24bae9c1exlk.shtml",
-        "https://www.ilgiornale.it/news/fontana-lega-perde-chi-lha-inventata-io-amico-2641348.html",
-        "https://www.repubblica.it/politica/2026/03/21/news/bossi_manuela_figli_amici_bunker_gemonio-425235953/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/20/funerali-di-bossi-a-pontida-domenica-22.-il-figlio-renzo-il-funerale-con-il-popolo_8713e823-8db9-40f4-8b1f-a18fcad0edb5.html",
-        "https://www.lastampa.it/politica/2026/03/21/news/la_solitudine_del_senatur_il_dolore_degli_amici_ora_lo_piange_anche_chi_lo_ha_tradito-15553843/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Terremoto al largo delle Eolie, scosse di magnitudo 4.9 e 4.6 avvertite anche a Palermo, Messina e Reggio Calabria",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "lastampa.it",
-        "corriere.it",
-        "ansa.it",
-        "palermo.repubblica.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/nazionale/terremoto-nella-notte-largo-delle-eolie-sciame-15-scosse-2641432.html",
-        "https://www.lastampa.it/cronaca/2026/03/21/news/terremoto_due_scosse_magnitudo_tra_4_e_5_a_messina_e_palermo-15554120/",
-        "https://www.corriere.it/cronache/speciali/interni/26_marzo_21/terremoto-al-largo-delle-eolie-due-scosse-di-magnitudo-4-9-e-4-6-avvertite-anche-a-palermo-messina-e-reggio-calabria-f9c41cea-b3aa-4a19-9604-2df52c2a4xlk.shtml",
-        "https://www.ansa.it/sicilia/notizie/2026/03/21/terremoto-di-magnitudo-4.3-alle-isole-eolie_e8aa7360-3c13-411d-a28f-1bb63205a08e.html",
-        "https://palermo.repubblica.it/cronaca/2026/03/21/news/terremoto_messina_palermo-425236094/"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Epatite A, vietato mangiare frutti di mare crudi a Napoli",
+      "title": "Oggi la Milano-Sanremo: dove vedere la Classicissima di primavera in tv e streaming",
       "source_count": 4,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
-        "napoli.corriere.it",
-        "napoli.repubblica.it",
-        "ansa.it",
-        "news.google.com"
+        "fanpage.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it"
       ],
       "links": [
-        "http://napoli.corriere.it/notizie/cronaca/26_marzo_20/il-virus-di-epatite-a-trovato-in-alcuni-allevamenti-flegrei-di-mitili-l-ipotesi-sull-inizio-del-contagio-e-la-trasmissione-da-44f72c75-5636-4dc3-b2f1-72f799e73xlk.shtml",
-        "http://napoli.corriere.it/notizie/cronaca/26_marzo_20/il-virus-di-epatite-a-trovato-in-alcuni-allevamenti-flegrei-di-mitili-l-ipotesi-sull-inizio-del-contagio-e-la-trasmissione-da-44f72c75-5636-4dc3-b2f1-72f799e73xlk.shtml",
-        "https://napoli.repubblica.it/cronaca/2026/03/21/news/epatite_napoli_allarme_campania_180_casi_gannaio_cotugno_posti_letto_esauriti-425235908/",
-        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/03/20/a-napoli-i-casi-di-epatite-a-aumentati-di-41-volte-rispetto-allultimo-triennio.-ispezioni-in-ristoranti_564d1751-0951-4f8f-a1e5-f757c18e61d8.html",
-        "https://www.corriere.it/salute/malattie_infettive/26_marzo_20/epatite-a-napoli-come-si-prende-sintomi-vaccino-5723ca57-ceb1-497a-9fd9-7fdcf2ffaxlk.shtml"
+        "https://www.fanpage.it/sport/ciclismo/martinelli-milano-sanremo-ossessione-di-pogacar-attacchera-sulla-cipressa-ma-vince-van-der-poel/",
+        "https://www.corriere.it/sport/ciclismo/26_marzo_21/ganna-puo-vincere-milano-sanremo-2026-6b782dfd-af4b-46de-8a2f-ead30a5b7xlk.shtml",
+        "https://www.corriere.it/sport/ciclismo/26_marzo_21/dove-vedere-tv-milano-sanremo-2026-c9cd3211-9eab-43a1-926c-c60e360d2xlk.shtml",
+        "https://www.ilfattoquotidiano.it/2026/03/21/milano-sanremo-2026-oggi-orari-diretta-tv-streaming-pogacar-sfida-van-der-poel-cipressa/8331196/",
+        "https://www.fanpage.it/sport/ciclismo/milano-sanremo-2026-oggi-in-tv-il-percorso-e-dove-vederla-in-diretta-e-streaming-i-favoriti/"
       ]
     },
     {
