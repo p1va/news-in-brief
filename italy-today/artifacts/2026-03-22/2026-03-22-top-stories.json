@@ -1,17 +1,17 @@
 {
   "date": "2026-03-22",
-  "generated_at": "Sun 22 Mar 07:00",
+  "generated_at": "Sun 22 Mar 07:45",
   "stories": [
     {
       "rank": 1,
       "title": "Paolo Cirino Pomicino è morto: l’ex ministro Dc aveva 86 anni",
       "source_count": 10,
-      "article_count": 14,
+      "article_count": 16,
       "source_domains": [
         "ansa.it",
-        "ilgiornale.it",
-        "video.corriere.it",
+        "roma.corriere.it",
         "fanpage.it",
+        "ilgiornale.it",
         "napoli.repubblica.it",
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
@@ -21,10 +21,10 @@
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/politica/2026/03/21/e-morto-paolo-cirino-pomicino-ministro-dei-governi-andreotti_88a718d8-d70a-46e6-8976-b75bf4ef7474.html",
+        "http://roma.corriere.it/notizie/politica/26_marzo_21/morto-cirino-pomicino-o-ministro-dc-andreotti-651b5e57-5a0e-41c7-905e-26ec71437xlk.shtml",
+        "https://www.fanpage.it/napoli/laddio-a-cirino-pomicino-vicere-dc-di-napoli-il-ricordo-da-mastella-a-de-luca-in-campania/",
         "https://www.ilgiornale.it/news/interni/tifoso-rossonero-cuore-azzurro-pomicino-senza-dc-maradona-2641603.html",
-        "https://video.corriere.it/politica/addio-a-paolo-cirino-pomicino-ex-ministro-dc-con-i-governi-de-mita-e-andreotti/e4f523b8-fb80-4b9b-b908-0367e51ecxlk",
-        "https://www.ilgiornale.it/news/interni/se-ne-va-mente-interessante-e-anticonformista-ricordo-degli-2641598.html",
-        "https://www.fanpage.it/politica/morto-paolo-cirino-pomicino-lex-ministro-della-dc-aveva-86-anni/"
+        "https://video.corriere.it/politica/addio-a-paolo-cirino-pomicino-ex-ministro-dc-con-i-governi-de-mita-e-andreotti/e4f523b8-fb80-4b9b-b908-0367e51ecxlk"
       ]
     },
     {
@@ -76,10 +76,11 @@
     {
       "rank": 4,
       "title": "Mondiali atletica: Dosso e Battocletti d'oro, Italia prima nel medagliere dei mondiali indoor",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
         "ilgiornale.it",
+        "fanpage.it",
         "ansa.it",
         "corriere.it",
         "lastampa.it",
@@ -89,22 +90,23 @@
       ],
       "links": [
         "https://www.ilgiornale.it/news/altri-sport/fondo-e-sprint-battocletti-e-dosso-nostre-regine-2641740.html",
+        "https://www.fanpage.it/sport/altri-sport/zaynab-dosso-vince-i-60m-ai-mondiali-indoor-di-atletica-dopo-tokyo-abbiamo-deciso-di-cambiare-tutto/",
         "https://www.ansa.it/sito/notizie/sport/altrisport/2026/03/21/mondiali-atletica-dosso-e-battocletti-doro-italia-prima-nel-medagliere-dei_565cecba-4a94-4462-a5c3-c12f2eb2379c.html",
         "https://www.corriere.it/sport/26_marzo_21/atletica-battocletti-oro-3000-mondiali-713a8b21-53ab-4bd6-bfce-51388e911xlk.shtml",
-        "https://video.corriere.it/sport/la-straordinaria-vittoria-di-nadia-battocletti-nei-3mila-metri/febaf2cd-83fb-4856-8785-daafab0e7xlk",
-        "https://www.corriere.it/sport/26_marzo_21/zaynab-dosso-oro-60-metri-mondiali-indoor-atletica-dc003fd0-5243-4f05-bf3c-ca91a2a50xlk.shtml"
+        "https://video.corriere.it/sport/la-straordinaria-vittoria-di-nadia-battocletti-nei-3mila-metri/febaf2cd-83fb-4856-8785-daafab0e7xlk"
       ]
     },
     {
       "rank": 5,
-      "title": "Juventus, brutto pareggio col Sassuolo: Locatelli sbaglia il rigore decisivo",
-      "source_count": 7,
-      "article_count": 8,
+      "title": "Il Sassuolo frena la corsa Champions della Juve, è 1-1: Locatelli sbaglia un rigore, Muric para tutto",
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ilgiornale.it",
         "ansa.it",
         "corriere.it",
         "ilmessaggero.it",
+        "fanpage.it",
         "lastampa.it",
         "liberoquotidiano.it",
         "adnkronos.com"
@@ -120,9 +122,10 @@
     {
       "rank": 6,
       "title": "La minaccia di Trump: 'Iran apra Hormuz entro 48 ore o colpiremo centrali elettriche'. Teheran replica: 'Missili su infrastrutture energetiche Usa'",
-      "source_count": 6,
-      "article_count": 8,
+      "source_count": 7,
+      "article_count": 9,
       "source_domains": [
+        "fanpage.it",
         "ansa.it",
         "corriere.it",
         "ilgiornale.it",
@@ -131,11 +134,11 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-22-marzo/",
         "https://www.ansa.it/sito/notizie/mondo/2026/03/22/lve-blog-trump-iran-apra-hormuz-entro-48-ore-o-colpiremo-centrali_3f2126fb-0590-49fb-af75-015a19ea7053.html",
         "https://www.corriere.it/esteri/diretta-live/26_marzo_22/guerra-in-iran-le-ultime-notizie-in-diretta.shtml",
         "https://www.corriere.it/esteri/diretta-live/26_marzo_22/guerra-in-iran-le-ultime-notizie-in-diretta.shtml",
-        "https://www.ilgiornale.it/news/guerra/lultimatum-trump-teheran-apra-hormuz-48-ore-o-colpiremo-2641737.html",
-        "https://www.repubblica.it/esteri/2026/03/22/diretta/guerra_iran_usa_israele_news_oggi-425237868/"
+        "https://www.ilgiornale.it/news/guerra/lultimatum-trump-teheran-apra-hormuz-48-ore-o-colpiremo-2641737.html"
       ]
     },
     {
@@ -181,22 +184,22 @@
     },
     {
       "rank": 9,
-      "title": "Incidente Milano, in moto contro un taxi: morti due ragazzi di 20 e 23 anni. «Erano passati con il rosso»",
+      "title": "Referendum Giustizia 2026, la diretta | Seggi aperti dalle 7, primo dato affluenza alle 12. Le ragioni del Sì e del No",
       "source_count": 5,
       "article_count": 7,
       "source_domains": [
-        "milano.corriere.it",
-        "lastampa.it",
         "ilgiornale.it",
-        "ilmessaggero.it",
-        "agi.it"
+        "corriere.it",
+        "fanpage.it",
+        "ansa.it",
+        "lastampa.it"
       ],
       "links": [
-        "http://milano.corriere.it/notizie/cronaca/26_marzo_22/milano-elisa-e-mithum-morti-sul-colpo-la-moto-contro-il-taxi-a-tutta-velocita-dopo-aver-bruciato-il-rosso-ee791007-805d-4e13-beb3-86fd7b16dxlk.shtml",
-        "http://milano.corriere.it/notizie/cronaca/26_marzo_22/milano-elisa-e-mithum-morti-sul-colpo-la-moto-contro-il-taxi-a-tutta-velocita-dopo-aver-bruciato-il-rosso-ee791007-805d-4e13-beb3-86fd7b16dxlk.shtml",
-        "https://www.lastampa.it/cronaca/2026/03/21/video/scontro_a_milano_tra_un_taxi_e_una_moto_morti_due_ventenni-15554606/",
-        "https://www.ilgiornale.it/news/cronaca-nera/elisa-dranca-e-mithum-kuranage-chi-erano-i-ragazzi-morti-2641533.html",
-        "https://www.ilgiornale.it/news/cronaca-locale/milano-scontro-moto-e-tazi-morti-due-ventenni-2641466.html"
+        "https://www.ilgiornale.it/news/interni/referendum-seggi-aperti-si-vota-sulla-riforma-giustizia-12-i-2641757.html",
+        "https://www.corriere.it/politica/diretta-live/26_marzo_22/referendum-giustizia-2026-la-diretta-seggi-aperti-dalle-7-primo-dato-affluenza-alle-12-le-ragioni-del-si-e-del-no.shtml",
+        "https://www.corriere.it/politica/diretta-live/26_marzo_22/referendum-giustizia-2026-la-diretta-seggi-aperti-dalle-7-primo-dato-affluenza-alle-12-le-ragioni-del-si-e-del-no.shtml",
+        "https://www.fanpage.it/live/referendum-giustizia-2026-diretta-live-risultati-domenica-22-marzo/",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/22/referendum-aperti-i-seggi-si-vota-oggi-e-domani_8433a593-970d-4c79-89ed-cc3d7a4a51a4.html"
       ]
     },
     {
