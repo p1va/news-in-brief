@@ -1,39 +1,40 @@
 {
   "date": "2026-03-22",
-  "generated_at": "Sun 22 Mar 17:32",
+  "generated_at": "Sun 22 Mar 18:47",
   "stories": [
     {
       "rank": 1,
       "title": "Bossi, i funerali a Pontida: il commosso saluto del popolo Lega",
-      "source_count": 12,
-      "article_count": 36,
+      "source_count": 13,
+      "article_count": 39,
       "source_domains": [
+        "ilgiornale.it",
         "ilmessaggero.it",
         "video.corriere.it",
+        "adnkronos.com",
         "liberoquotidiano.it",
         "governo.it",
         "laverita.info",
         "fanpage.it",
         "lastampa.it",
-        "ilgiornale.it",
         "ansa.it",
         "repubblica.it",
         "ilmanifesto.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/interni/bossi-lultimo-saluto-pontida-meloni-giorgetti-ecco-chi-cera-2641966.html",
         "https://www.ilmessaggero.it/politica/funerali_bossi_tricolore_bruciato_applauso_meloni_cosa_e_successo-9431688.html",
         "https://video.corriere.it/cronaca/funerali-bossi-a-pontida-l-uscita-del-feretro-tra-i-cori-bruciare-il-tricolore-/edaad7b7-8e1d-4ea9-8414-c4b31ef05xlk",
-        "https://www.liberoquotidiano.it/video/tv-news/46931688/l-ultimo-saluto-della-lega-a-umberto-bossi-sul-prato-di-pontida/",
-        "https://www.governo.it/it/articolo/il-presidente-meloni-alle-esequie-di-umberto-bossi/31381",
-        "https://www.laverita.info/funerali-bossi-pontida-lega-2676572296.html"
+        "https://www.adnkronos.com/politica/bossi-il-va-pensiero-chiude-i-funerali-del-senatur-video_2xHfahHtQeCDJXYpzNAG6T",
+        "https://www.liberoquotidiano.it/video/tv-news/46931688/l-ultimo-saluto-della-lega-a-umberto-bossi-sul-prato-di-pontida/"
       ]
     },
     {
       "rank": 2,
       "title": "Referendum, seggi aperti: si vota sulla riforma della giustizia. Alle 12 i primi dati sull'affluenza",
       "source_count": 13,
-      "article_count": 27,
+      "article_count": 29,
       "source_domains": [
         "ansa.it",
         "corriere.it",
@@ -50,18 +51,44 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/03/22/referendum-litalia-al-voto.-sale-laffluenza-oltre-il-37-alle-19-dato-parziale_8433a593-970d-4c79-89ed-cc3d7a4a51a4.html",
         "https://www.ansa.it/sito/notizie/politica/2026/03/22/referendum-litalia-al-voto.-sale-laffluenza-alle-12-sfiora-il-15_8433a593-970d-4c79-89ed-cc3d7a4a51a4.html",
         "https://www.corriere.it/politica/26_marzo_22/confronto-percentuale-votanti-referendum-2026-9e68cb9b-7d95-440e-92de-46857c998xlk.shtml",
         "https://www.liberoquotidiano.it/video/tv-news/46930823/referendum-viminale-alle-ore-12-ha-votato-14-92-per-cento/",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/22/referendum-seggi-aperti-oggi-e-domani.-affluenza-al-149-alle-12.-mattarella_8433a593-970d-4c79-89ed-cc3d7a4a51a4.html",
-        "https://www.corriere.it/politica/26_marzo_22/affluenza-referendum-giustizia-2026-1e9ce832-fe4b-46ed-abb6-57bb2899axlk.shtml"
+        "https://www.ansa.it/sito/notizie/politica/2026/03/22/referendum-seggi-aperti-oggi-e-domani.-affluenza-al-149-alle-12.-mattarella_8433a593-970d-4c79-89ed-cc3d7a4a51a4.html"
       ]
     },
     {
       "rank": 3,
+      "title": "Roma, esplosione a Piana del Sole: coinvolte almeno 3 palazzine, 2 feriti gravi",
+      "source_count": 11,
+      "article_count": 18,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "video.corriere.it",
+        "ilgiornale.it",
+        "roma.repubblica.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "agi.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/videogallery/italia/2026/03/22/crollo-di-una-palazzina-a-roma-la-testimonianza-dei-residenti_e1c2c470-8924-4db1-b831-198fd6dbe506.html",
+        "https://www.ilfattoquotidiano.it/2026/03/22/esplosione-bombola-gpl-roma-ponte-galeria-notizie/8332895/",
+        "https://www.liberoquotidiano.it/video/pillole/46931822/a-roma-crolla-una-palazzina-a-causa-di-una-esplosione-2-feriti/",
+        "https://video.corriere.it/roma/piana-del-sole-un-residente-dopo-l-esplosione-detriti-contro-la-nostra-casa-ci-ha-salvato-l-inferriata/59f274b7-b169-4576-a452-05462656exlk",
+        "https://www.liberoquotidiano.it/video/tv-news/46931990/roma-esplosione-in-uno-stabile-due-persone-rimaste-ferite/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Sofia Goggia vince il SuperG di Lillehammer, le lacrime di gioia",
       "source_count": 9,
-      "article_count": 17,
+      "article_count": 15,
       "source_domains": [
         "adnkronos.com",
         "ansa.it",
@@ -79,32 +106,6 @@
         "https://www.corriere.it/sport/26_marzo_22/dominik-paris-sci-coppa-mondo-2026-superg-e0075591-d5a4-4dc2-8d35-998a8c4e1xlk.shtml",
         "https://www.repubblica.it/sport/sci/2026/03/22/news/goggia_vince_coppa_mondo_superg_femminile-425238521/",
         "https://www.fanpage.it/sport/sport-invernali/meravigliosa-sofia-goggia-in-lacrime-dopo-la-vittoria-a-lillehammer-la-coppa-di-superg-e-sua/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Roma, esplosione a Piana del Sole: coinvolte almeno 3 palazzine, 2 feriti gravi",
-      "source_count": 11,
-      "article_count": 13,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "roma.corriere.it",
-        "ilgiornale.it",
-        "roma.repubblica.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "agi.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/22/esplosione-bombola-gpl-roma-ponte-galeria-notizie/8332895/",
-        "https://www.liberoquotidiano.it/video/pillole/46931822/a-roma-crolla-una-palazzina-a-causa-di-una-esplosione-2-feriti/",
-        "https://www.liberoquotidiano.it/video/tv-news/46931990/roma-esplosione-in-uno-stabile-due-persone-rimaste-ferite/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/22/esplosione-in-una-palazzina-a-roma-ci-sono-feriti_15a462e6-b9a4-4b7e-ad7d-b447920262cd.html",
-        "https://www.ilfattoquotidiano.it/2026/03/22/esplosione-roma-crollo-palazzina-feriti-notizie/8332707/"
       ]
     },
     {
@@ -159,7 +160,7 @@
       "rank": 7,
       "title": "Iran, missili verso Diego Garcia. Idf: “Possono colpire Roma”. Decine di feriti nel sud di Israele",
       "source_count": 6,
-      "article_count": 11,
+      "article_count": 10,
       "source_domains": [
         "adnkronos.com",
         "ilgiornale.it",
@@ -178,24 +179,24 @@
     },
     {
       "rank": 8,
-      "title": "Mondiali atletica: Dosso e Battocletti d'oro, Italia prima nel medagliere dei mondiali indoor",
+      "title": "MotoGp, Marquez vince gara Sprint in Brasile davanti a Di Giannantonio",
       "source_count": 7,
-      "article_count": 10,
+      "article_count": 9,
       "source_domains": [
-        "lastampa.it",
-        "ilgiornale.it",
         "fanpage.it",
         "ansa.it",
         "corriere.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
         "adnkronos.com",
-        "repubblica.it"
+        "lastampa.it"
       ],
       "links": [
-        "https://www.lastampa.it/sport/2026/03/22/news/zaynab_dosso_oro_atletica_sprint-15555461/",
-        "https://www.lastampa.it/sport/2026/03/22/video/zaynab_dosso_e_nadia_battocletti_labbraccio_dopo_loro_ai_mondiali_di_atletica_indoor-15555412/",
-        "https://www.ilgiornale.it/news/altri-sport/fondo-e-sprint-battocletti-e-dosso-nostre-regine-2641740.html",
-        "https://www.fanpage.it/sport/altri-sport/zaynab-dosso-vince-i-60m-ai-mondiali-indoor-di-atletica-dopo-tokyo-abbiamo-deciso-di-cambiare-tutto/",
-        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/03/21/mondiali-atletica-dosso-e-battocletti-doro-italia-prima-nel-medagliere-dei_565cecba-4a94-4462-a5c3-c12f2eb2379c.html"
+        "https://www.fanpage.it/sport/motori/marco-bezzecchi-trionfa-davanti-a-martin-in-brasile-apoteosi-aprilia-in-motogp-di-giannantonio-terzo/",
+        "https://www.ansa.it/sito/notizie/flash/2026/03/22/-motogp-brasile-vince-bezzecchi-davanti-a-martin-e-doppietta-aprilia-_2cdd99a6-4646-4b5d-bb31-99c6a332f5a4.html",
+        "https://www.corriere.it/sport/motomondiale/diretta-live/26_marzo_22/motogp-brasile-gara-diretta.shtml",
+        "https://www.ilmessaggero.it/blog/milleruote/gp_del_brasile_di_giannantonio_conquista_la_pole_e_oggi_partira_davanti_a_tutti-9431762.html",
+        "https://www.fanpage.it/sport/live/live-moto-gp-oggi-di-giannantonio-in-pole-per-la-gara-del-gp-brasile-orari-tv-su-tv8-e-sky-e-dove-vederla-in-diretta-e-streaming/"
       ]
     },
     {
@@ -222,23 +223,24 @@
     },
     {
       "rank": 10,
-      "title": "Addio a Paolo Cirino Pomicino, ex ministro Dc con i governi De Mita e Andreotti",
-      "source_count": 6,
-      "article_count": 9,
+      "title": "Larissa Iapichino vince l'argento nel salto in lungo ai Mondiali indoor: secondo posto con 6.87, oro alla portoghese De Sousa",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
-        "lastampa.it",
-        "ansa.it",
-        "roma.corriere.it",
+        "adnkronos.com",
         "fanpage.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "corriere.it",
         "repubblica.it",
-        "ilgiornale.it"
+        "lastampa.it"
       ],
       "links": [
-        "https://www.lastampa.it/politica/2026/03/22/news/c_era_una_volta_la_dc_addio_cirino_pomicino-15555451/",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/21/e-morto-paolo-cirino-pomicino-ministro-dei-governi-andreotti_88a718d8-d70a-46e6-8976-b75bf4ef7474.html",
-        "http://roma.corriere.it/notizie/politica/26_marzo_21/morto-cirino-pomicino-o-ministro-dc-andreotti-651b5e57-5a0e-41c7-905e-26ec71437xlk.shtml",
-        "https://www.fanpage.it/napoli/laddio-a-cirino-pomicino-vicere-dc-di-napoli-il-ricordo-da-mastella-a-de-luca-in-campania/",
-        "https://www.repubblica.it/politica/2026/03/21/news/morte_paolo_cirino_pomicino_dc_ministro_andreotti-425237374/"
+        "https://www.adnkronos.com/sport/iapichino-medaglia-argento-mondiali-atletica_7g5yAgdjdqULZ8N76TuQHD",
+        "https://www.fanpage.it/sport/altri-sport/larissa-iapichino-rompe-lultimo-tabu-col-primo-podio-iridato-e-argento-nel-lungo-ai-mondiali-indoor/",
+        "https://www.ansa.it/sito/notizie/sport/2026/03/22/larissa-iapichino-conquista-largento-nel-lungo_b82777f6-505c-4b21-9cac-729452afce50.html",
+        "https://www.ilfattoquotidiano.it/2026/03/22/iapichino-argento-salto-lungo-mondiali-indoor-oggi/8332656/",
+        "https://www.corriere.it/sport/26_marzo_22/larissa-iapichino-argento-mondiali-indoor-88653f27-4a03-457e-8906-9b63d51a2xlk.shtml"
       ]
     }
   ]
