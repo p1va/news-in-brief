@@ -1,41 +1,43 @@
 {
   "date": "2026-03-22",
-  "generated_at": "Sun 22 Mar 13:05",
+  "generated_at": "Sun 22 Mar 14:35",
   "stories": [
     {
       "rank": 1,
-      "title": "I funerali di Bossi: a Pontida il popolo dei «fazzoletti verdi». Il corpo sarà cremato",
+      "title": "Bossi, i funerali a Pontida: il commosso saluto del popolo Lega",
       "source_count": 11,
-      "article_count": 30,
+      "article_count": 38,
       "source_domains": [
+        "governo.it",
+        "laverita.info",
+        "liberoquotidiano.it",
         "video.corriere.it",
         "fanpage.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
+        "lastampa.it",
         "ilgiornale.it",
         "ansa.it",
-        "lastampa.it",
         "repubblica.it",
         "ilmanifesto.it",
-        "laverita.info",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.governo.it/it/articolo/il-presidente-meloni-alle-esequie-di-umberto-bossi/31381",
+        "https://www.laverita.info/funerali-bossi-pontida-lega-2676572296.html",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46930349/meloni-arriva-a-pontida-per-i-funerali-di-umberto-bossi/",
         "https://video.corriere.it/cronaca/funerali-bossi-l-arrivo-di-meloni-e-dei-vertici-del-governo/16fce537-aceb-460e-b1a1-0b14ec14dxlk",
-        "https://www.fanpage.it/politica/funerali-di-bossi-salvini-contestato-a-pontida-vergogna-molla-la-camicia-verde/",
-        "https://video.corriere.it/cronaca/funerali-di-bossi-l-arrivo-del-feretro-a-pontida-tra-gli-applausi/4b66fde9-f941-4959-8ea7-09459e68axlk",
-        "https://www.liberoquotidiano.it/video/tv-news/46929376/il-feretro-di-bossi-a-pontida-lungo-applauso-e-suono-delle-cornamuse/",
-        "https://www.ilfattoquotidiano.it/2026/03/22/funerali-bossi-pontida-salvini-contestato-oggi/8332600/"
+        "https://www.liberoquotidiano.it/video/tv-news/46930346/bossi-terminati-i-funerali-col-va-pensiero-e-i-cori-secessione-/"
       ]
     },
     {
       "rank": 2,
-      "title": "Referendum Giustizia 2026, la diretta | Seggi aperti dalle 7, primo dato affluenza alle 12. Le ragioni del Sì e del No",
-      "source_count": 11,
-      "article_count": 23,
+      "title": "Referendum, seggi aperti: si vota sulla riforma della giustizia. Alle 12 i primi dati sull'affluenza",
+      "source_count": 13,
+      "article_count": 25,
       "source_domains": [
+        "liberoquotidiano.it",
         "ansa.it",
         "corriere.it",
+        "adnkronos.com",
         "repubblica.it",
         "unita.it",
         "fanpage.it",
@@ -47,11 +49,11 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/video/tv-news/46930823/referendum-viminale-alle-ore-12-ha-votato-14-92-per-cento/",
         "https://www.ansa.it/sito/notizie/politica/2026/03/22/referendum-seggi-aperti-oggi-e-domani.-affluenza-al-149-alle-12.-mattarella_8433a593-970d-4c79-89ed-cc3d7a4a51a4.html",
         "https://www.corriere.it/politica/26_marzo_22/affluenza-referendum-giustizia-2026-1e9ce832-fe4b-46ed-abb6-57bb2899axlk.shtml",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/22/referendum-si-vota-oggi-e-domani.-affluenza-al-14-alle-12_8433a593-970d-4c79-89ed-cc3d7a4a51a4.html",
-        "https://www.repubblica.it/politica/2026/03/22/diretta/referendum_2026_voto_oggi_news-425237414/",
-        "https://www.unita.it/2026/03/22/referendum-giustizia-seggi-aperti-quando-si-vota/"
+        "https://www.adnkronos.com/politica/referendum-giustizia-affluenza-voto_3YOWXtEMAFmyzGVqDwwa8F",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/22/referendum-si-vota-oggi-e-domani.-affluenza-al-14-alle-12_8433a593-970d-4c79-89ed-cc3d7a4a51a4.html"
       ]
     },
     {
@@ -82,28 +84,54 @@
     {
       "rank": 4,
       "title": "Sofia Goggia vince il SuperG di Lillehammer, le lacrime di gioia",
-      "source_count": 8,
-      "article_count": 14,
+      "source_count": 9,
+      "article_count": 17,
       "source_domains": [
+        "adnkronos.com",
         "ansa.it",
         "corriere.it",
         "repubblica.it",
+        "fanpage.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "lastampa.it",
-        "fanpage.it"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/paris-vince-il-superg-di-lillehammer-un-altro-trionfo-del-campione-azzurro_6DYjjlxdn144WYCzLKG6Ax",
         "https://www.ansa.it/sito/notizie/sport/2026/03/22/sci-ticket-azzurro-paris-e-goggia-vincono-il-superg-delle-finali-di-coppa_7e986e24-dfa2-4695-b2f9-ed632ef81368.html",
         "https://www.corriere.it/sport/26_marzo_22/dominik-paris-sci-coppa-mondo-2026-superg-e0075591-d5a4-4dc2-8d35-998a8c4e1xlk.shtml",
         "https://www.repubblica.it/sport/sci/2026/03/22/news/goggia_vince_coppa_mondo_superg_femminile-425238521/",
-        "https://www.ansa.it/sito/notizie/sport/2026/03/22/sci-sofia-goggia-vince-la-coppa-del-mondo-di-superg-_7e986e24-dfa2-4695-b2f9-ed632ef81368.html",
-        "https://www.ilgiornale.it/news/sci/sci-sofia-goggia-straordinaria-sua-coppa-superg-2641809.html"
+        "https://www.fanpage.it/sport/sport-invernali/meravigliosa-sofia-goggia-in-lacrime-dopo-la-vittoria-a-lillehammer-la-coppa-di-superg-e-sua/"
       ]
     },
     {
       "rank": 5,
+      "title": "Roma, esplosione a Piana del Sole: coinvolte almeno 3 palazzine, 2 feriti gravi",
+      "source_count": 10,
+      "article_count": 12,
+      "source_domains": [
+        "video.corriere.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "roma.repubblica.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "agi.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://video.corriere.it/palazzine-esplose-a-piana-del-sole-roma-la-diretta-video/0727800f-32de-4c29-95db-bb28afb42xlk",
+        "https://video.corriere.it/roma/esplosione-palazzine-a-piana-del-sole-a-roma-le-immagini-delle-case-distrutte/9da9cd56-bac5-44d4-bda6-52ae13ce4xlk",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/22/esplosione-in-una-palazzina-a-roma-ci-sono-feriti_15a462e6-b9a4-4b7e-ad7d-b447920262cd.html",
+        "https://www.ilfattoquotidiano.it/2026/03/22/esplosione-roma-crollo-palazzina-feriti-notizie/8332707/",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_22/esplose-due-palazzine-a-piana-del-sole-ci-sono-feriti-91b98407-7252-4c15-ae3c-151436d73xlk.shtml"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "La minaccia di Trump: 'Iran apra Hormuz entro 48 ore o colpiremo centrali elettriche'. Teheran replica: 'Missili su infrastrutture energetiche Usa'",
       "source_count": 9,
       "article_count": 12,
@@ -127,7 +155,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Il Sassuolo frena la corsa Champions della Juve, è 1-1: Locatelli sbaglia un rigore, Muric para tutto",
       "source_count": 9,
       "article_count": 11,
@@ -151,52 +179,49 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Valanga in Alto Adige, coinvolti 25 scialpinisti: due morti e cinque feriti, tre sono gravi",
-      "source_count": 9,
-      "article_count": 10,
-      "source_domains": [
-        "ilgiornale.it",
-        "corrieredellaltoadige.corriere.it",
-        "ansa.it",
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com",
-        "agi.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/paura-alto-adige-25-persone-travolte-valanga-due-morti-e-tre-2641674.html",
-        "http://corrieredellaltoadige.corriere.it/notizie/cronaca/26_marzo_22/alto-adige-valanga-scialpinisti-morti-43a1977b-f9be-4d05-97a8-54f0cc3b2xlk.shtml",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/21/maxi-intervento-per-una-valanga-in-alto-adige-2-morti-e-5-feriti-in-val_47fa631a-cfbf-4b64-ab1c-1921d124d71e.html",
-        "https://www.ilgiornale.it/news/nazionale/valanga-alto-adige-dieci-persone-travolte-corso-maxi-2641552.html",
-        "https://www.fanpage.it/attualita/valanga-in-alto-adige-soccorritori-in-azione-a-racines-almeno-dieci-scialpinisti-coinvolti/"
-      ]
-    },
-    {
       "rank": 8,
-      "title": "Missile iraniano colpisce la città israeliana di Dimona: il momento dell'impatto",
+      "title": "Milano-Sanremo, Pogacar nella storia. Vince per la prima volta in volata nonostante la caduta",
       "source_count": 6,
-      "article_count": 13,
+      "article_count": 12,
       "source_domains": [
+        "fanpage.it",
+        "lastampa.it",
+        "corriere.it",
         "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "corriere.it"
+        "laverita.info",
+        "ilfattoquotidiano.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/teheran-raid-su-diego-garcia-adesso-anche-leuropa-ha-paura-2641667.html",
-        "https://www.liberoquotidiano.it/video/tv-news/46928010/iran-175-feriti-negli-attacchi-a-dimona-e-arad-nel-sud-di-israele/",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/03/22/115-feriti-nellattacco-iraniano-su-arad-nel-sud-disraele_7369e46f-5ee7-40fb-8b39-98a51e212a14.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/03/21/missile-colpisce-dimona-in-israele-39-feriti-tra-cui-un-bambino_e47a7443-8e38-4f3e-b984-48ee24ea314f.html",
-        "https://www.repubblica.it/esteri/2026/03/22/news/missili_verso_diego_garcia_possono_colpire_roma_feriti_nel_sud_di_israele-425237777/"
+        "https://www.fanpage.it/sport/ciclismo/perche-alla-milano-sanremo-cera-sempre-carlos-sainz-insieme-a-pogacar-la-storia-dei-focaccia-brothers/",
+        "https://www.lastampa.it/sport/2026/03/22/news/ciclismo_milano_sanremo_pogacar-15555447/",
+        "https://www.corriere.it/sport/ciclismo/26_marzo_22/pogacar-milano-sanremo-retroscena-2ee217d0-f898-4e9b-8b54-49d022e1bxlk.shtml",
+        "https://www.corriere.it/sport/ciclismo/26_marzo_22/pogacar-caduta-vittoria-milano-sanremo-come-ha-fatto-8ee86ccd-6d3e-4557-b10a-125f513bbxlk.shtml",
+        "https://www.ilgiornale.it/news/sport/pogacar-epico-cade-recupera-e-vince-classica-che-sfuggiva-2641688.html"
       ]
     },
     {
       "rank": 9,
+      "title": "Iran, missili verso Diego Garcia. Idf: “Possono colpire Roma”. Decine di feriti nel sud di Israele",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "adnkronos.com",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "corriere.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/raid-su-arad-in-israele-colpiti-due-palazzi-video_79XcKT5whQZsPVenWMoVXR",
+        "https://www.ilgiornale.it/news/politica/teheran-raid-su-diego-garcia-adesso-anche-leuropa-ha-paura-2641667.html",
+        "https://www.liberoquotidiano.it/video/tv-news/46928010/iran-175-feriti-negli-attacchi-a-dimona-e-arad-nel-sud-di-israele/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/03/22/115-feriti-nellattacco-iraniano-su-arad-nel-sud-disraele_7369e46f-5ee7-40fb-8b39-98a51e212a14.html",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/03/21/missile-colpisce-dimona-in-israele-39-feriti-tra-cui-un-bambino_e47a7443-8e38-4f3e-b984-48ee24ea314f.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Mondiali atletica: Dosso e Battocletti d'oro, Italia prima nel medagliere dei mondiali indoor",
       "source_count": 7,
       "article_count": 10,
@@ -215,26 +240,6 @@
         "https://www.ilgiornale.it/news/altri-sport/fondo-e-sprint-battocletti-e-dosso-nostre-regine-2641740.html",
         "https://www.fanpage.it/sport/altri-sport/zaynab-dosso-vince-i-60m-ai-mondiali-indoor-di-atletica-dopo-tokyo-abbiamo-deciso-di-cambiare-tutto/",
         "https://www.ansa.it/sito/notizie/sport/altrisport/2026/03/21/mondiali-atletica-dosso-e-battocletti-doro-italia-prima-nel-medagliere-dei_565cecba-4a94-4462-a5c3-c12f2eb2379c.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Milano-Sanremo, Pogacar nella storia. Vince per la prima volta in volata nonostante la caduta",
-      "source_count": 5,
-      "article_count": 11,
-      "source_domains": [
-        "lastampa.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "laverita.info",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/sport/2026/03/22/news/ciclismo_milano_sanremo_pogacar-15555447/",
-        "https://www.corriere.it/sport/ciclismo/26_marzo_22/pogacar-milano-sanremo-retroscena-2ee217d0-f898-4e9b-8b54-49d022e1bxlk.shtml",
-        "https://www.corriere.it/sport/ciclismo/26_marzo_22/pogacar-caduta-vittoria-milano-sanremo-come-ha-fatto-8ee86ccd-6d3e-4557-b10a-125f513bbxlk.shtml",
-        "https://www.ilgiornale.it/news/sport/pogacar-epico-cade-recupera-e-vince-classica-che-sfuggiva-2641688.html",
-        "https://www.laverita.info/pogacar-vince-milano-sanremo-2026-2676524813.html"
       ]
     }
   ]
