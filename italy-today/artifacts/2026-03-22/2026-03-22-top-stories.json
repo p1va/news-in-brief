@@ -1,12 +1,12 @@
 {
   "date": "2026-03-22",
-  "generated_at": "Sun 22 Mar 20:37",
+  "generated_at": "Sun 22 Mar 21:34",
   "stories": [
     {
       "rank": 1,
       "title": "Bossi, i funerali a Pontida: il commosso saluto del popolo Lega",
       "source_count": 13,
-      "article_count": 39,
+      "article_count": 38,
       "source_domains": [
         "corriere.it",
         "ilgiornale.it",
@@ -61,13 +61,13 @@
       "rank": 3,
       "title": "Roma, esplosione a Piana del Sole: coinvolte almeno 3 palazzine, 2 feriti gravi",
       "source_count": 11,
-      "article_count": 20,
+      "article_count": 22,
       "source_domains": [
+        "video.corriere.it",
         "fanpage.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
-        "video.corriere.it",
         "ilgiornale.it",
         "roma.repubblica.it",
         "adnkronos.com",
@@ -76,11 +76,11 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://video.corriere.it/cronaca/il-momento-dell-esplosione-della-palazzina-alla-piana-del-sole-a-roma-il-video/08d86900-6e4f-4356-aa11-7a9fc319axlk",
+        "https://video.corriere.it/cronaca/il-momento-dell-esplosione-della-palazzina-alla-piana-del-sole-a-roma-il-video/08d86900-6e4f-4356-aa11-7a9fc319axlk",
         "https://www.fanpage.it/roma/esplosione-a-piana-del-sole-la-paura-dei-residenti-sembrava-una-bomba-calcinacci-volati-ovunque/",
         "https://www.fanpage.it/roma/palazzina-esplosa-e-crollata-a-roma-feriti-gravemente-due-coniugi-la-moglie-trasferita-al-centro-grandi-ustionati/",
-        "https://www.ansa.it/sito/videogallery/italia/2026/03/22/crollo-di-una-palazzina-a-roma-la-testimonianza-dei-residenti_e1c2c470-8924-4db1-b831-198fd6dbe506.html",
-        "https://www.ilfattoquotidiano.it/2026/03/22/esplosione-bombola-gpl-roma-ponte-galeria-notizie/8332895/",
-        "https://www.liberoquotidiano.it/video/pillole/46931822/a-roma-crolla-una-palazzina-a-causa-di-una-esplosione-2-feriti/"
+        "https://www.ansa.it/sito/videogallery/italia/2026/03/22/crollo-di-una-palazzina-a-roma-la-testimonianza-dei-residenti_e1c2c470-8924-4db1-b831-198fd6dbe506.html"
       ]
     },
     {
@@ -133,6 +133,29 @@
     },
     {
       "rank": 6,
+      "title": "MotoGp: Brasile; vince Bezzecchi davanti a Martin per doppietta Aprilia",
+      "source_count": 8,
+      "article_count": 12,
+      "source_domains": [
+        "video.corriere.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://video.corriere.it/sport/bezzecchi-domina-e-vince-il-moto-gp-del-brasile-gli-highlights-della-gara/f495b44b-2b0e-456e-885c-7404c158exlk",
+        "https://www.ansa.it/sito/notizie/sport/moto/2026/03/22/motogp-grande-italia-anche-in-brasile-trionfo-di-bezzecchi-e-doppietta-aprilianbsp_a933dde1-1173-40c2-b7fc-c2484c5cbb05.html",
+        "https://www.repubblica.it/sport/moto-gp/2026/03/22/news/bezzecchi_vittoria_brasile_aprilia_marquez_quarto-425239045/",
+        "https://www.ilgiornale.it/news/motori/motogp-bezzecchi-trionfa-anche-brasile-doppietta-aprilia-2641988.html",
+        "https://www.ilfattoquotidiano.it/2026/03/22/motogp-bezzecchi-gp-brasile-risultati-nuova-classifica/8332905/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Larissa Iapichino vince l'argento nel salto in lungo ai Mondiali indoor: secondo posto con 6.87, oro alla portoghese De Sousa",
       "source_count": 7,
       "article_count": 12,
@@ -154,29 +177,53 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "MotoGp: Brasile; vince Bezzecchi davanti a Martin per doppietta Aprilia",
-      "source_count": 7,
-      "article_count": 11,
+      "rank": 8,
+      "title": "Caso Garlasco, nuova perizia: “Chiara Poggi lottò con il suo assassino”",
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
-        "ansa.it",
-        "repubblica.it",
+        "milano.repubblica.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
-        "fanpage.it",
-        "corriere.it",
-        "ilmessaggero.it"
+        "milano.corriere.it",
+        "lastampa.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "fanpage.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/moto/2026/03/22/motogp-grande-italia-anche-in-brasile-trionfo-di-bezzecchi-e-doppietta-aprilianbsp_a933dde1-1173-40c2-b7fc-c2484c5cbb05.html",
-        "https://www.repubblica.it/sport/moto-gp/2026/03/22/news/bezzecchi_vittoria_brasile_aprilia_marquez_quarto-425239045/",
-        "https://www.ilgiornale.it/news/motori/motogp-bezzecchi-trionfa-anche-brasile-doppietta-aprilia-2641988.html",
-        "https://www.ilfattoquotidiano.it/2026/03/22/motogp-bezzecchi-gp-brasile-risultati-nuova-classifica/8332905/",
-        "https://www.ansa.it/sito/notizie/sport/moto/2026/03/22/motogp-brasile-vince-bezzecchi-davanti-a-martin-per-doppietta-aprilia_a933dde1-1173-40c2-b7fc-c2484c5cbb05.html"
+        "https://milano.repubblica.it/cronaca/2026/03/22/news/garlasco_indiscrezioni_perizia_chiara_poggi_lotto_assassino_segni_corpo-425239130/",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/chiara-poggi-uccisa-mezz-ora-colazione-nuova-indiscrezione-2641997.html",
+        "https://www.ilfattoquotidiano.it/2026/03/22/delitto-garlasco-consulenza-cattaneo-colluttazione-news/8332743/",
+        "http://milano.corriere.it/notizie/cronaca/26_marzo_22/chiara-poggi-ha-lottato-con-il-suo-assassino-le-indiscrezioni-sulla-perizia-dell-anatomopatologa-cristina-cattaneo-1401d0b4-e9fb-44fb-b59d-d61cb92f8xlk.shtml",
+        "https://www.lastampa.it/cronaca/2026/03/22/news/caso_garlasco_chiara_poggi_lottato_aggressore-15555626/"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Poste presenta l'opas totalitaria per Telecom Italia, operazione da circa 10,8 miliardi",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "laverita.info",
+        "corriere.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/aziende/poste-lancia-opas-totalitaria-l-acquisto-telecom-italia-2642009.html",
+        "https://www.laverita.info/poste-vuole-tutta-tim-offerti-108-miliardi-2676573030.html",
+        "https://www.corriere.it/economia/finanza/26_marzo_22/poste-lancia-opas-totalitaria-per-l-acquisto-di-telecom-italia-operazione-da-10-8-miliardi-d328c7c6-1d77-455e-9144-5f454a249xlk.shtml",
+        "https://www.ansa.it/sito/notizie/economia/2026/03/22/poste-presenta-lopas-totalitaria-per-lacquisto-di-telecom-italia_fe527b32-012e-4e03-b074-1826f72f3886.html",
+        "https://www.ilmessaggero.it/economia/news/poste_acquista_telecom_italia-9431925.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Valanga in val Ridanna, morta Laura Santino: l'italiana di 26 anni era ricoverata a Innsbruck",
       "source_count": 7,
       "article_count": 9,
@@ -195,50 +242,6 @@
         "https://www.fanpage.it/attualita/valanga-in-alto-adige-morta-giovane-scialpinista-bresciana-era-rimasta-sepolta-per-unora-sotto-la-neve/",
         "https://www.ilfattoquotidiano.it/2026/03/22/valanga-val-ridanna-morti-scialpinisti-notizie/8332640/",
         "https://www.ilmessaggero.it/persone/laura_santino_morta_valanga_alto_adige_val_ridanna_chi_era-9431520.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Il Sassuolo frena la corsa Champions della Juve, è 1-1: Locatelli sbaglia un rigore, Muric para tutto",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "repubblica.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/calcio/serie-a/2026/03/22/news/juventus_rigori_sbagliati_spalletti-425238474/",
-        "https://www.lastampa.it/sport/2026/03/22/video/de_luna_lattacco_della_juve_e_tutto_fumo_e_poco_arrosto_locatelli_un_rigore_davvero_molle-15555330/",
-        "https://www.ilgiornale.it/news/calcio/signora-torna-frenare-e-oggi-como-pu-tentare-l-allungo-2641729.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/21/serie-a-juventus-sassuolo-finisce-1-1.-gol-di-yildiz-pareggia-pinamonti_d36b4387-fc99-4b2e-86ed-2e941c261959.html",
-        "https://www.corriere.it/sport/calcio/serie-a/26_marzo_21/juventus-sassuolo-risultato-c37a0dee-7eee-43cf-801b-537450635xlk.shtml"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Caso Garlasco, nuova perizia: “Chiara Poggi lottò con il suo assassino”",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "milano.corriere.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/chiara-poggi-uccisa-mezz-ora-colazione-nuova-indiscrezione-2641997.html",
-        "https://www.ilfattoquotidiano.it/2026/03/22/delitto-garlasco-consulenza-cattaneo-colluttazione-news/8332743/",
-        "http://milano.corriere.it/notizie/cronaca/26_marzo_22/chiara-poggi-ha-lottato-con-il-suo-assassino-le-indiscrezioni-sulla-perizia-dell-anatomopatologa-cristina-cattaneo-1401d0b4-e9fb-44fb-b59d-d61cb92f8xlk.shtml",
-        "https://www.lastampa.it/cronaca/2026/03/22/news/caso_garlasco_chiara_poggi_lottato_aggressore-15555626/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/22/garlasco-chiara-poggi-lotto-con-il-suo-assassino_eaf1b141-7fe5-478c-be9a-538a5c12614a.html"
       ]
     }
   ]
