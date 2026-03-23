@@ -1,45 +1,45 @@
 {
   "date": "2026-03-23",
-  "generated_at": "Mon 23 Mar 07:21",
+  "generated_at": "Mon 23 Mar 09:06",
   "stories": [
     {
       "rank": 1,
-      "title": "Referendum, affluenza record: primo giorno oltre il 46%, boom al Nord. Urne aperte fino alle 15",
+      "title": "Referendum, seggi aperti alle 7, si vota fino alle 15. Domenica affluenza record al 46%",
       "source_count": 12,
-      "article_count": 24,
+      "article_count": 26,
       "source_domains": [
-        "corriere.it",
+        "repubblica.it",
+        "roma.corriere.it",
+        "ilfattoquotidiano.it",
         "fanpage.it",
         "ansa.it",
         "ilgiornale.it",
-        "repubblica.it",
         "lastampa.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
         "adnkronos.com",
         "unita.it",
-        "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
-        "https://www.corriere.it/politica/diretta-live/26_marzo_23/referendum-giustizia-2026-diretta-ragioni-si-no.shtml",
-        "https://www.corriere.it/politica/diretta-live/26_marzo_23/referendum-giustizia-2026-diretta-ragioni-si-no.shtml",
-        "http://corrieredibologna.corriere.it/politica/diretta-live/26_marzo_23/bologna-emilia-romagna-risultati-referendum-giustizia.shtml",
-        "https://www.fanpage.it/live/referendum-giustizia-2026-diretta-live-risultati-lunedi-23-marzo/",
-        "http://bari.corriere.it/politica/diretta-live/26_marzo_23/puglia-referendum-sulla-giustizia-alle-23-di-domenica-affluenza-al-39-oggi-seggi-aperti-dalle-7-alle-15.shtml"
+        "https://www.repubblica.it/politica/2026/03/23/diretta/risultati_referendum_2026_oggi_news-425239363/",
+        "http://roma.corriere.it/cronaca/diretta-live/26_marzo_23/roma-lo-spoglio-e-i-risultati-del-referendum-in-diretta-nella-capitale-affluenza-record-il-picco-a-ostiense-male-don-bosco.shtml",
+        "http://napoli.corriere.it/cronaca/diretta-live/26_marzo_23/napoli-referendum-giustizia-la-diretta-seggi-riaperti-si-vota-fino-alle-15-ieri-affluenza-in-campania-oltre-il-37.shtml",
+        "https://www.ilfattoquotidiano.it/politica-palazzo/live-post/2026/03/23/referendum-seggi-affluenza-regioni-oggi/8333151/",
+        "https://www.corriere.it/politica/diretta-live/26_marzo_23/referendum-giustizia-2026-diretta-ragioni-si-no.shtml"
       ]
     },
     {
       "rank": 2,
       "title": "Tra lacrime e cori contro il tricolore, l'ultimo saluto di Pontida a Umberto Bossi",
       "source_count": 12,
-      "article_count": 20,
+      "article_count": 21,
       "source_domains": [
+        "milano.corriere.it",
         "repubblica.it",
         "ilgiornale.it",
         "ilmessaggero.it",
         "ansa.it",
-        "corriere.it",
         "fanpage.it",
         "adnkronos.com",
         "liberoquotidiano.it",
@@ -49,48 +49,75 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "http://milano.corriere.it/notizie/cronaca/26_marzo_23/gli-applausi-alla-premier-e-i-fischi-a-salvini-difeso-da-francesca-l-ira-dei-veterani-e-la-resa-dei-conti-alle-esequie-di-bossi-f4df679b-b510-4239-9d06-9d0930eb4xlk.shtml",
         "https://www.repubblica.it/politica/2026/03/23/news/pontida_migliaia_funerali_bossi_fischi_contro_salvini-425239288/",
         "https://www.repubblica.it/politica/2026/03/23/news/funerali_bossi_rito_nostalgici_figlio_renzo_non_molliamo-425239232/",
         "https://www.ilgiornale.it/news/interni/bossi-lultimo-saluto-pontida-meloni-giorgetti-ecco-chi-cera-2641966.html",
-        "https://www.ilmessaggero.it/politica/bossi_funerali_cori_contro_salvini_applausi_meloni-9432001.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/22/a-pontida-i-funerali-di-umberto-bossi-coro-contro-salvini-molla-la-camicia-verde_f0106a06-7e35-4fd8-b88f-e12f3684c000.html"
+        "https://www.ilmessaggero.it/politica/bossi_funerali_cori_contro_salvini_applausi_meloni-9432001.html"
       ]
     },
     {
       "rank": 3,
+      "title": "Teheran minaccia gli Usa: «Stop a Hormuz se attacco alle centrali elettriche»",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "corriere.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "fanpage.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/23/liran-non-cede-allultimatum.-trump-si-prepara-al-negoziato-liveblog_17249b21-39fd-4e03-8777-0427ac27ccd0.html",
+        "https://www.corriere.it/esteri/26_marzo_22/guerra-iran-sfida-ultimatum-trump-hormuz-cf58d5f3-663a-4722-9e77-eafe07114xlk.shtml",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/22/liran-pone-6-condizioni-per-la-fine-della-guerra.-trump-teheran-apra_3f2126fb-0590-49fb-af75-015a19ea7053.html",
+        "https://www.repubblica.it/esteri/2026/03/23/diretta/guerra_iran_usa_israele_news_oggi-425239403/",
+        "https://www.ilgiornale.it/news/guerra/diretta-missili-su-tel-aviv-e-israele-avverte-liran-attacco-2642166.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Poste lancia Opas totalitaria per l’acquisto di Tim: operazione da 10,8 miliardi",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 9,
+      "article_count": 12,
       "source_domains": [
         "corriere.it",
         "ilgiornale.it",
         "ilmessaggero.it",
         "laverita.info",
         "ansa.it",
+        "adnkronos.com",
         "lastampa.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
+        "https://www.corriere.it/economia/aziende/26_marzo_23/poste-tim-il-ritorno-sotto-l-ala-pubblica-e-l-urgenza-della-svolta-digitale-i-piani-per-l-integrazione-07bfa95f-39f1-407c-bb10-7154a75f1xlk.shtml",
         "https://www.corriere.it/economia/finanza/26_marzo_22/poste-lancia-opas-totalitaria-per-l-acquisto-di-telecom-italia-operazione-da-10-8-miliardi-d328c7c6-1d77-455e-9144-5f454a249xlk.shtml",
         "https://www.ilgiornale.it/news/aziende/poste-si-prende-tutta-tim-lofferta-108-miliardi-2642093.html",
         "https://www.ilmessaggero.it/economia/news/opas_poste_tim_campione_nazionale_sovranita_digitale-9432012.html",
-        "https://www.ilmessaggero.it/economia/news/poste_opas_tim-9432004.html",
-        "https://www.ilgiornale.it/news/aziende/poste-lancia-opas-totalitaria-l-acquisto-telecom-italia-2642009.html"
+        "https://www.ilmessaggero.it/economia/news/poste_opas_tim-9432004.html"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Serie A:Fiorentina-Inter 1-1: Pio Esposito illude, Ndour frena i nerazzurri",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 9,
+      "article_count": 11,
       "source_domains": [
         "ilgiornale.it",
         "corriere.it",
         "repubblica.it",
         "ansa.it",
         "liberoquotidiano.it",
+        "fanpage.it",
         "lastampa.it",
-        "ilmessaggero.it"
+        "ilmessaggero.it",
+        "adnkronos.com"
       ],
       "links": [
         "https://www.ilgiornale.it/news/sport/esposito-segna-primo-minuto-i-viola-reagiscono-e-77-ci-pensa-2642059.html",
@@ -101,31 +128,14 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Teheran minaccia gli Usa: «Stop a Hormuz se attacco alle centrali elettriche»",
-      "source_count": 5,
-      "article_count": 9,
-      "source_domains": [
-        "corriere.it",
-        "ansa.it",
-        "repubblica.it",
-        "fanpage.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.corriere.it/esteri/26_marzo_22/guerra-iran-sfida-ultimatum-trump-hormuz-cf58d5f3-663a-4722-9e77-eafe07114xlk.shtml",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/22/liran-pone-6-condizioni-per-la-fine-della-guerra.-trump-teheran-apra_3f2126fb-0590-49fb-af75-015a19ea7053.html",
-        "https://www.repubblica.it/esteri/2026/03/23/diretta/guerra_iran_usa_israele_news_oggi-425239403/",
-        "https://www.corriere.it/esteri/26_marzo_22/teheran-iran-attacchi-acqua-energia-civili-6f3caeb3-0e72-445a-9440-8a4952a69xlk.shtml",
-        "https://www.repubblica.it/esteri/2026/03/23/news/iran_sei_punti_tregua_ayatollah_blocco_totale_hormuz-425239116/"
-      ]
-    },
-    {
       "rank": 6,
       "title": "Scontro in pista all’aeroporto LaGuardia, Air Canada urta un veicolo di servizio: due morti",
-      "source_count": 6,
-      "article_count": 7,
+      "source_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
         "corriere.it",
         "fanpage.it",
         "ansa.it",
@@ -134,40 +144,65 @@
         "repubblica.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/video/tv-news/46937900/new-york-aereo-contro-un-mezzo-dei-vigili-del-fuoco-due-morti/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/scontro-all-aeroporto-laguardia-new-york-aereo-contro-mezzo-2642187.html",
+        "https://www.ilfattoquotidiano.it/2026/03/23/incidente-aeroporto-laguardia-newyork-morti-news/8333141/",
         "https://www.corriere.it/economia/trasporti/aerei/26_marzo_23/incidente-all-aeroporto-laguardia-di-new-york-aereo-contro-mezzo-dei-vigili-del-fuoco-32944998-3b54-4b41-ac8d-e4f531633xlk.shtml",
-        "https://www.corriere.it/economia/trasporti/aerei/26_marzo_23/incidente-all-aeroporto-laguardia-di-new-york-aereo-contro-mezzo-dei-vigili-del-fuoco-32944998-3b54-4b41-ac8d-e4f531633xlk.shtml",
-        "https://www.fanpage.it/esteri/aereo-si-scontra-con-veicolo-di-servizio-mentre-atterra-a-new-york-aeroporto-laguardia-chiuso-voli-sospesi/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/23/incidente-su-pista-tra-aereo-e-veicolo-sospesi-i-voli-allaeroporto-laguardia-di-new_32410f2d-7469-4caf-b073-1eee7721db65.html",
-        "https://www.ilmessaggero.it/mondo/laguardia_incidente_aereo_oggi_new_york-9433022.html"
+        "https://www.corriere.it/economia/trasporti/aerei/26_marzo_23/incidente-all-aeroporto-laguardia-di-new-york-aereo-contro-mezzo-dei-vigili-del-fuoco-32944998-3b54-4b41-ac8d-e4f531633xlk.shtml"
       ]
     },
     {
       "rank": 7,
-      "title": "Caso Garlasco, nuova perizia: “Chiara Poggi lottò con il suo assassino”",
-      "source_count": 5,
-      "article_count": 7,
+      "title": "Incidente a Napoli, auto investe e uccide due donne sulle strisce pedonali a Corso Garibaldi: arrestato il conducente, era ubriaco",
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
-        "fanpage.it",
         "ilgiornale.it",
+        "napoli.corriere.it",
+        "ilfattoquotidiano.it",
+        "napoli.repubblica.it",
+        "fanpage.it",
         "ansa.it",
-        "lastampa.it",
-        "ilmessaggero.it"
+        "ilmessaggero.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.fanpage.it/attualita/garlasco-la-perizia-cattaneo-potrebbe-cambiare-lorario-dellomicidio-e-riscrivere-la-storia-del-delitto/",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/chiara-poggi-uccisa-mezz-ora-colazione-nuova-indiscrezione-2641997.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/22/garlasco-chiara-poggi-lotto-con-il-suo-assassino_eaf1b141-7fe5-478c-be9a-538a5c12614a.html",
-        "https://www.lastampa.it/cronaca/2026/03/22/news/caso_garlasco_chiara_poggi_lottato_aggressore-15555626/",
-        "https://www.ilmessaggero.it/italia/chiara_poggi_lotto_assassino_ultimi_sviluppi_garlasco_news-9431581.html"
+        "https://www.ilgiornale.it/news/cronaca-locale/napoli-ubriaco-volante-investe-e-uccide-due-donne-arrestato-2642207.html",
+        "http://napoli.corriere.it/notizie/cronaca/26_marzo_23/napoli-due-donne-travolte-e-uccise-da-auto-in-corsa-alla-guida-c-era-un-34enne-ubriaco-bf8aadaa-1c66-4a69-900e-f0b2d62ecxlk.shtml",
+        "https://www.ilfattoquotidiano.it/2026/03/23/investimento-donne-ucraine-napoli-strisce-notizie/8333177/",
+        "https://napoli.repubblica.it/cronaca/2026/03/23/news/incidente_napoli_corso_garibaldi_arrestato_donne_morte-425239685/",
+        "https://www.fanpage.it/napoli/due-donne-travolte-e-uccise-da-mercedes-a-napoli-il-34enne-alla-guida-era-ubriaco-e-ai-domiciliari/"
       ]
     },
     {
       "rank": 8,
-      "title": "A Roma crolla una palazzina a causa di una esplosione, 2 feriti",
-      "source_count": 5,
-      "article_count": 6,
+      "title": "Alcaraz eliminato dal Miami Open: clamoroso ko contro Korda, Sinner può accorciare nel ranking, ecco come cambia",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "corriere.it",
+        "ansa.it",
+        "repubblica.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.corriere.it/sport/tennis/26_marzo_23/berrettini-vacherot-risultato-masters-1000-miami-9bed96b9-c0b3-45ce-b528-731f16bbdxlk.shtml",
+        "https://www.corriere.it/sport/tennis/26_marzo_22/alcaraz-sconfitta-korda-miami-4c50b485-2645-4989-ac68-c9d6ffb51xlk.shtml",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/22/tennis-a-miami-scivolone-alcaraz-esce-ai-sedicesimi-battuto-da-korda_4413a9cc-57c3-4db4-8938-d5cc2a42df58.html",
+        "https://www.repubblica.it/sport/tennis/2026/03/22/news/alcaraz_korda_miami-425239338/",
+        "https://www.fanpage.it/sport/tennis/alcaraz-eliminato-da-korda-a-miami-lo-sfogo-e-una-sentenza-ora-grande-occasione-per-sinner/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Esplode una palazzina a Roma, due feriti gravi. \"Scoppio impressionante\"",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
         "video.corriere.it",
+        "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
         "adnkronos.com",
@@ -175,50 +210,31 @@
       ],
       "links": [
         "https://video.corriere.it/cronaca/il-momento-dell-esplosione-della-palazzina-alla-piana-del-sole-a-roma-il-video/08d86900-6e4f-4356-aa11-7a9fc319axlk",
+        "https://www.ilfattoquotidiano.it/2026/03/22/esplosione-bombola-gpl-roma-ponte-galeria-notizie/8332895/",
         "https://www.liberoquotidiano.it/video/pillole/46931822/a-roma-crolla-una-palazzina-a-causa-di-una-esplosione-2-feriti/",
         "https://www.liberoquotidiano.it/video/tv-news/46931990/roma-esplosione-in-uno-stabile-due-persone-rimaste-ferite/",
-        "https://www.ilgiornale.it/news/cronaca-nera/esplode-palazzina-roma-ci-sono-feriti-settantina-persone-2641873.html",
-        "https://www.adnkronos.com/cronaca/roma-esplosione-oggi-a-piana-del-sole_5ognNrGAyO5syOFg25NVuN"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Alcaraz eliminato dal Miami Open: clamoroso ko contro Korda, Sinner può accorciare nel ranking, ecco come cambia",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "corriere.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.corriere.it/sport/tennis/26_marzo_22/alcaraz-sconfitta-korda-miami-4c50b485-2645-4989-ac68-c9d6ffb51xlk.shtml",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/22/tennis-a-miami-scivolone-alcaraz-esce-ai-sedicesimi-battuto-da-korda_4413a9cc-57c3-4db4-8938-d5cc2a42df58.html",
-        "https://www.repubblica.it/sport/tennis/2026/03/22/news/alcaraz_korda_miami-425239338/",
-        "https://www.ilmessaggero.it/sport/tennis/alcaraz_eliminato_miami_korda_come_cambia_ranking-9432016.html",
-        "https://www.lastampa.it/sport/2026/03/22/news/jasmine_paolini_open_miami-15555762/"
+        "https://www.ilgiornale.it/news/cronaca-nera/esplode-palazzina-roma-ci-sono-feriti-settantina-persone-2641873.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Ora legale, parte l'iter per renderla permanente",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Caso Garlasco, nuova perizia: “Chiara Poggi lottò con il suo assassino”",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
         "fanpage.it",
-        "corriere.it",
-        "ilsole24ore.com"
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/schede/cambio_ora_legale_2026_quando_orario_come_spostare_lancette-9433043.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/22/ora-legale-permanente-via-libera-della-camera-alindagine-sugli-impatti_937ea66f-8393-4bd8-88f6-777ff8a303ee.html",
-        "https://www.fanpage.it/attualita/ora-legale-permanente-la-camera-da-il-via-libera-allindagine-sullimpatto-in-bolletta-e-per-la-salute/",
-        "https://www.corriere.it/economia/consumi/26_marzo_22/ora-legale-permanente-via-libera-della-camera-all-iter-cosa-puo-cambiare-e-quanto-si-risparmierebbe-a5752820-38ad-4647-9c23-dfe2e1cabxlk.shtml",
-        "https://www.ilsole24ore.com/art/ora-legale-lancette-avanti-sabato-e-domenica-via-l-iter-renderla-permanente-AIED5O6B"
+        "https://www.fanpage.it/attualita/garlasco-la-perizia-cattaneo-potrebbe-cambiare-lorario-dellomicidio-e-riscrivere-la-storia-del-delitto/",
+        "https://www.adnkronos.com/cronaca/caso-garlasco-tg1-perizia-di-cattaneo-ipotizza-nuovo-orario-della-morte-di-chiara-poggi_2Mo0UVMuSivKY1iZ6OnV2p",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/chiara-poggi-uccisa-mezz-ora-colazione-nuova-indiscrezione-2641997.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/22/garlasco-chiara-poggi-lotto-con-il-suo-assassino_eaf1b141-7fe5-478c-be9a-538a5c12614a.html",
+        "https://www.lastampa.it/cronaca/2026/03/22/news/caso_garlasco_chiara_poggi_lottato_aggressore-15555626/"
       ]
     }
   ]
