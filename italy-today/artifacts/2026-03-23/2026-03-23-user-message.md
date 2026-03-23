@@ -1,0 +1,611 @@
+Here is the latest data for today's show:
+- In <previous_episode_transcript> find the script for the last episode for context.
+- In <clustered_headlines> find the "Top Stories" (widely covered).
+- In <other_headlines> find news that were only covered by single source.
+
+
+<previous_episode_transcript>
+# Previous Episode Transcript (2026-03-22)
+Welcome to another episode of "Italy Today", today is Sunday 22 and this episode was curated by Gemini 3.1 Pro.
+
+Let us start with a rapid look at today's developments. Millions of Italians are currently heading to the polls for the constitutional referendum on justice reform, a vote we will dive into deeply in just a moment. On the geopolitical front, tensions are boiling over as US President Donald Trump has issued a forty-eight-hour ultimatum to Iran to reopen the Strait of Hormuz, threatening devastating strikes on Iranian power plants after Tehran's ballistic missiles breached Israeli air defenses and targeted the American base at Diego Garcia. In Rome, a Rai television crew was violently assaulted today in the Quadraro neighborhood; the journalists were investigating occupied squats tied to the two anarchist bomb-makers who died in an explosion earlier this week, signaling a heightened climate of political violence in the capital. Meanwhile, in Washington, Robert Mueller, the former FBI Director who led the 2017 Russia probe into Donald Trump, has passed away. Finally, across the Atlantic, the Cuban energy grid has entirely collapsed, plunging the island into its second total national blackout in less than a week as the country buckles under severe fuel shortages. 
+
+But dominating the national conversation is the ongoing constitutional referendum on the justice system. Polling stations remain open tonight and will reopen tomorrow morning. Because this is a constitutional vote, there is no minimum turnout quorum required for the result to be valid. By early evening, turnout hovered around thirty-nine percent, a figure that has become the central battleground for the country's political media. 
+
+The Rashomon effect on this vote is striking. For the center-right, this is a long-overdue triumph. Outlets like Il Giornale and Libero are framing the steady flow of voters as a quiet, democratic victory by citizens exhausted by a politicized judiciary, celebrating the imminent structural separation of careers between judges and prosecutors. They are largely ignoring the opposition's noise, treating the "Yes" victory as an inevitability. 
+
+On the other side of the spectrum, the progressive opposition is trying to delegitimize the process. La Repubblica and Il Fatto Quotidiano continue to frame the referendum not as a reform, but as an executive power grab explicitly designed to shield government officials, like the embattled Undersecretary Andrea Delmastro, from independent oversight. Because left-wing leaders unofficially encouraged their base to boycott the vote, the actual "Yes" or "No" result is almost secondary. The true takeaway is the math: the Meloni administration is counting on the final turnout numbers to claim a sweeping popular mandate, while the opposition hopes a tepid showing will allow them to brand the overhaul as the agenda of a vocal minority.
+
+Moving from the ballot box to a highly charged farewell in the North, the funeral of Lega Nord founder Umberto Bossi took place today in Pontida. What was supposed to be a solemn moment of unity for the Italian right instead exposed deep, perhaps irreparable, fractures within the League. According to reporting from Corriere della Sera and La Stampa, the atmosphere outside the historic abbey was electric but deeply divided. While Prime Minister Giorgia Meloni and northern governors like Luca Zaia were greeted with warm applause by the green-clad militants, current Lega secretary Matteo Salvini faced open hostility. Crowds chanted "shame" and demanded he take off his green shirt, accusing him of betraying Bossi's original northern secessionist vision in favor of his current nationalist agenda. The takeaway here is significant: Bossi’s passing has emboldened the old guard, and Salvini’s grip on his own party base appears increasingly fragile.
+
+Turning our attention to a structural shift that could directly impact both your health and your wallet, the Chamber of Deputies has officially greenlit a parliamentary inquiry into making daylight saving time—the "ora legale"—permanent all year round. While often treated as a trivial biannual nuisance, Il Sole 24 Ore highlights the massive economic stakes involved in stopping the clock. Since 2004, the extra hour of evening sunlight has saved Italy over two billion euros and twelve billion kilowatt-hours of energy. Proponents of the bill, backed by environmental and medical societies, argue that permanently abolishing the clock change will not only stabilize energy grids in an era of volatile prices, but also eliminate the "mini social jetlag" that actively strains public health and productivity twice a year. 
+
+But before we go, a reminder of Italy's quiet cultural diplomacy. While international relations remain tense and the geopolitical map fractures, artisans at the international mosaic school of Spilimbergo, tucked away in the Friuli-Venezia Giulia region, are currently exporting their intricate, 'made in Italy' masterpieces to adorn holy sites everywhere from Lourdes to Jerusalem. It is a gentle reminder that beyond the screaming headlines, a centuries-old tradition of Italian craftsmanship is still out there, quietly beautifying the world piece by piece.
+
+I will see you tomorrow.
+</previous_episode_transcript>
+
+
+
+<clustered_headlines>
+# Coverage Pulse - 2026-03-23
+
+## 1. Cesare Parodi si è dimesso da presidente dell'Anm
+
+> **Context:** Alla base della decisione, comunicata al "Comitato direttivo dimissioni" dell'Associazione nazionale magistrati, ci sarebbero "gravi motivi familiari"
+
+- **Corriere Della Sera**: Cesare Parodi si dimette da presidente dell'Associazione nazionale magistrati: «Decisione presa prima dell'esito del referendum» L'annuncio fatto subito dopo i primi verdetti usciti dalle urne: qualunque fosse stato il risultato del referendum sulla giustizia non avrebbe più guidato il sindacato delle toghe
+- **Il Sole Ventiquattro Ore**: Parodi si è dimesso da presidente dell’Anm per motivi personali A quanto si apprende per «motivi personali»
+- **La Repubblica**: Si è dimesso il presidente dell’Anm Cesare Parodi 
+- **La Stampa**: Anm, l’addio di Parodi nel giorno del referendum: “Lascio per motivi personali” Le dimissioni del presidente dell’associazione magistrati
+- **ANSA**: Cesare Parodi si è dimesso da presidente dell'Anm A quanto si apprende per 'motivi personali'
+- **Il Giornale**: Cesare Parodi si è dimesso da presidente dell'Anm Alla base della decisione, comunicata al "Comitato direttivo dimissioni" dell'Associazione nazionale magistrati, ci sarebbero "gravi motivi familiari"
+- **L'Unità**: Terremoto all’Anm, il presidente Parodi si dimette da presidente nel giorno del referendum sulla giustizia A seggi appena chiusi dall’Anm arriva un clamoroso colpo di scena. Il presidente dell’Associazione nazionale magistrati Cesare Parodi, che in questi mesi di campagna referendaria è stato uno dei volti e portavoce delle ragioni del No alla riforma della giustizia di Carlo Nordio su cui si è votato domenica e lunedì, si è dimesso dall’incarico. […]
+- **Il Messaggero**: Cesare ​Parodi si è dimesso da presidente dell'Anm. «Motivi personali legati alla salute di un familiare» Cesare Parodi, si è dimesso dalla carica di presidente dell'Associazione nazionale magistrati. A quanti si apprende per 'motivi personali'. Parodi ha comunicato pochi...
+- **Adkronos**: Anm, Parodi si dimette: "Gravi motivi familiari" La decisione, anticipata ai componenti del Comitato direttivo centrale, non ha nessun collegamento con il referendum sulla riforma della giustizia. "Assolutamente no", dice il presidente dell'Anm all'Adnkronos
+- **Fanpage.it**: Cesare Parodi si dimette da presidente dell’Associazione nazionale magistrati, ma non c’entra il Referendum Cesare Parodi si è dimesso da presidente dell'Associazione nazionale magistrato (Anm). L'annuncio arrivato poco prima delle 15 non ha nulla a che vedere con il referendum sulla giustizia (in cui ha trionfato il No). La motivazione sarebbe strettamente personale, di natura familiare.
+
+
+## 2. Incidente a Napoli, auto investe e uccide due donne sulle strisce pedonali a Corso Garibaldi: arrestato il conducente, era ubriaco
+
+> **Context:** Due donne sono state travolte e uccise da un'auto a Napoli, nella zona di Porta Nolana. Secondo alcune testimonianze, stavano attraversando la strada quando una vettura che procedeva ad alta...
+
+- **La Repubblica**: Napoli, due donne investite e uccise da un’auto al Corso Garibaldi: alla guida 34enne senza patente L’automobilista ha tamponato una vettura che ha travolto le due amiche ucraine mentre attraversavano la strada. Il primo conducente fermato e sottoposto ai test per alcol e droga
+- **La Stampa**: Napoli, con l’auto investe due donne e le uccide Ora viene sottoposto a test per droga e alcol. Le vittime devono ancora essere identificate
+- **ANSA**: Due donne travolte e uccise da un'auto a Napoli. Fermato il conducente Stavano attraversando la strada sulle strisce pedonali. La vettura sembra procedesse ad alta velocità. L'uomo sottoposto a test per droga e alcol
+- **AGI**: Due donne travolte e uccise sulle strisce a Napoli, fermato un uomo Il conducente della Mercedes che ha investito e ucciso ieri notte due donne a Napoli, in corso Garibaldi all'altezza di porta Nolana, è stato immediatamente fermato dagli agenti della Polizia Locale di Napoli. Come da prassi in caso di omicidio stradale, l'uomo è stato accompagnato presso una struttura sanitaria per essere sottoposto ai test tossicologici e alcolemici per verificare l'eventuale assunzione di alcol o sostanze psicotrope al momento del sinistro. Secondo i primi rilievi della Polizia Locale, l'uomo, 34 anni, di nazionalità italiana e residente a Napoli, ha travolto le due donne, due amiche ucraine di 52 e 57 anni, che, secondo alcuni testimoni, stavano attraversando lungo le strisce pedonali. Sempre secondo testimonianze, la Mercedes guidata dall'uomo fermato viaggiava ad alta velocità. Dopo l'impatto con i pedoni, la corsa del veicolo è terminata contro tre autovetture regolarmente parcheggiate lungo la strada, causando ingenti danni. Una delle due vittime è deceduta sul colpo a causa della gravità delle ferite riportate; la seconda è spirata poco dopo l'arrivo in ospedale del Mare, nonostante i tentativi di rianimazione dei sanitari del 118. Effettuati i rilievi tecnici necessari a ricostruire l'esatta velocità del veicolo e la dinamica del sinistro. I mezzi coinvolti sono stati posti sotto sequestro. Le accuse al conducente Il conducente, secondo alcuni media, sarebbe stato anche senza patente e apparentemente ubriaco, ma su questi aspetti non ci sono ancora conferme.
+- **Il Messaggero**: Incidente a Napoli, auto investe e uccide due donne sulle strisce pedonali a Corso Garibaldi: arrestato il conducente, era ubriaco Due donne sono state travolte e uccise da un'auto a Napoli, nella zona di Porta Nolana. Secondo alcune testimonianze, stavano attraversando la strada quando una vettura che procedeva ad alta...
+- **Corriere Della Sera**: Due donne travolte e uccise da auto: alla guida c'era un 34enne ubriaco. L'uomo è stato arrestato L'auto era stata presa a noleggio. Una delle due vittime è morta sul colpo, l'altra deceduta in ospedale: avevano 57 e 52 anni
+- **La Repubblica**: Incidente Porta Nolana, arrestato per omicidio stradale 34enne che ha ucciso due donne: era ubriaco Il 34enne Proseguono le indagini della polizia municipale
+- **AGI**: Napoli, due donne travolte e uccise da un'auto: arrestato 34enne positivo ad alcol test L'uomo napoletano di 34 anni alla guida della Mercedes che ieri notte in corso Garibaldi a Napoli, all'altezza di porta Nolana, ha investito e ucciso due donne mentre attraversavano la strada, è stato arrestato per omicidio stradale. Era alla guida sotto l'effetto di alcol. Secondo quanto accertato dagli uomini della Polizia Locale dell'Unità Operativa San Lorenzo e dell'Infortunistica Stradale, le due amiche di nazionalità ucraina di 52 e 57 anni, stavano attraversando corso Garibaldi per dirigersi verso via San Cosmo Fuori Porta Nolana; una volta arrivate al centro della carreggiata, sono state travolte con estrema violenza dall'auto guidata dall'uomo. Le due vittime A causa del violento impatto, il conducente ha perso il controllo della vettura, terminando la propria corsa contro tre veicoli regolarmente in sosta sul lato destro della strada. Le ferite riportate dalle due cittadine ucraine sono apparse subito disperate. Una delle due è deceduta sul colpo a causa della gravità dell'impatto. La seconda vittima è stata trasportata d'urgenza all'Ospedale del Mare, dove i medici hanno tentato invano di salvarle la vita, ma è morta circa due ore dopo il ricovero. Condicente positivo all'alcol test Il conducente della Mercedes è stato immediatamente sottoposto agli accertamenti urgenti per la verifica del tasso alcolemico. I test hanno fornito esito positivo. Informato il pm di turno, l'uomo è stato dichiarato in stato di arresto con l'applicazione della misura della detenzione domiciliare. Gli agenti hanno inoltre proceduto al ritiro della patente e al sequestro del veicolo, risultato essere un'auto a noleggio. Nel luogo dell'incidente, la Polizia Locale sta completando i rilievi tecnici, ascoltando i testimoni presenti al momento del fatto e procedendo all'acquisizione delle immagini dei sistemi di videosorveglianza della zona per ricostruire l'esatta dinamica del sinistro.
+- **Il Fatto Quotidiano**: Falciate da un’auto mentre erano sulle strisce pedonali, morte due donne. Arrestato il conducente: era ubriaco Due donne sono morte dopo essere state investite da un’auto in pieno centro a Napoli mentre erano sulle strisce pedonali. L’incidente è avvenuto in corso Garibaldi, a poca distanza dalla stazione centrale, in una zona particolarmente trafficata. Le vittime, entrambe di nazionalità ucraina, sono state falciate da una vettura mentre si trovavano in strada. L’impatto […] L'articolo Falciate da un’auto mentre erano sulle strisce pedonali, morte due donne. Arrestato il conducente: era ubriaco proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Due donne investite e uccise da Mercedes a Napoli, il 34enne alla guida era ubriaco: è ai domiciliari Arrestato ai domiciliari il 34enne che ieri ha travolto e ucciso con una Mercedes due donne a Corso Garibaldi, visino alla stazione Eav di Porta Nolana: guidava sotto l'effetto di alcol.Continua a leggere
+- **Fanpage.it**: Auto investe pedoni in corso Garibaldi a Napoli: due morti Il tragico incidente si è verificato nella tarda serata odierna: le vittime sono due donne. Sul posto ambulanze e forze dell'ordine: traffico paralizzato nella zona e autobus deviati.Continua a leggere
+- **Il Giornale**: Napoli, ubriaco al volante investe e uccide due donne: arrestato Il fermo per l’uomo è scattato immediatamente: l’autovettura ha finito la sua corsa contro altri tre mezzi in area di sosta. Ecco cosa è successo
+- **L'Unità**: Attraversano sulle strisce pedonali, due donne investite e uccise a Napoli: 34 enne arrestato, positivo all’alcol test Arrestato dalla Polizia Locale l’uomo che ha investito due donne ucraine nella serata di domenica 23 marzo in Corso Garibaldi a Napoli. Sono morte entrambe. L’uomo ha 34 anni, italiano, residente a Napoli, è stato subito fermato dagli agenti dopo i test tossicologici e alcolemici cui è stato sottoposto presso una struttura sanitaria. Si trova […]
+
+
+## 3. Scontro in pista all’aeroporto LaGuardia, Air Canada urta un veicolo di servizio: due morti
+
+> **Context:** Un aereo di Air Canada Express, in arrivo da Montreal, si è scontrato con un mezzo dei vigili del fuoco, stando alle prime ricostruzioni. Stop ai voli. Le du vittime sono il pilota e copilota di uno dei due velivoli
+
+- **Corriere Della Sera**: Incidente all’aeroporto LaGuardia di New York: aereo contro mezzo dei vigili del fuoco: «Due morti» Un velivolo di Air Canada, proveniente da Montreal, si è scontrato con un mezzo dei vigili del fuoco che si muoveva a forte velocità per un’emergenza. L’aeroporto è stato chiuso
+- **Corriere Della Sera**: Incidente all’aeroporto LaGuardia di New York: aereo contro mezzo dei vigili del fuoco. «Due morti, scalo chiuso» Un velivolo di Air Canada, proveniente da Montreal, si è scontrato con un mezzo dei vigili del fuoco che si muoveva a forte velocità per gestire un’emergenza. L’aeroporto LaGuardia è stato chiuso
+- **La Repubblica**: New York, scontro in pista all’aeroporto LaGuardia: aereo Air Canada Express urta un veicolo di servizio, stop ai voli L’incidente durante l’atterraggio, bloccato lo scalo
+- **La Stampa**: Scontro in pista all’aeroporto LaGuardia, Air Canada urta un veicolo di servizio: due morti Un aereo di Air Canada Express, in arrivo da Montreal, si è scontrato con un mezzo dei vigili del fuoco, stando alle prime ricostruzioni. Stop ai voli. Le du vittime sono il pilota e copilota di uno dei due velivoli
+- **ANSA**: Incidente su pista tra aereo e veicolo, sospesi i voli all'aeroporto LaGuardia di New York Coinvolta la pista 4, si indaga sulle cause
+- **Fanpage.it**: Aereo si scontra con veicolo di servizio mentre atterra a New York, aeroporto LaGuardia chiuso: ci sono feriti Incidente all’aeroporto LaGuardia di New York, dove un jet si è scontrato con un mezzo di servizio durante l'atterraggio. Lo scalo è stato temporaneamente chiuso, voli sospesi in partenza e dirottati in arrivo: "Quattro persone ferite".
+- **Il Messaggero**: Aeroporto LaGuardia di New York, incidente sulla pista «tra aereo e veicolo»: morti pilota e co-pilota, voli sospesi e inchiesta aperta Paura a New York. I voli all'aeroporto LaGuardia sono stati sospesi stamattina a causa di un «incidente» che ha coinvolto un aereo e un veicolo su una pista, secondo quanto...
+- **Il Fatto Quotidiano**: Collisione in pista all’aeroporto LaGuardia di New York. Aereo contro un mezzo di servizio: due morti e due feriti Uno scontro tra un aereo di linea e un veicolo di servizio dei vigili del fuoco ha provocato il blocco delle operazioni all’aeroporto LaGuardia di New York nella notte tra domenica e lunedì, causando ritardi e cancellazioni a catena. Secondo le prime ricostruzioni, l’incidente ha coinvolto un velivolo della Air Canada Express e un mezzo […] L'articolo Collisione in pista all’aeroporto LaGuardia di New York. Aereo contro un mezzo di servizio: due morti e due feriti proviene da Il Fatto Quotidiano.
+- **Il Giornale**: Scontro all’aeroporto LaGuardia di New York, aereo contro mezzo dei vigili del fuoco: due vittime Due morti e due feriti nello scontro sulla pista della Grande Mela tra un aereo Air Canada proveniente da Montreal e un mezzo dei vigili del fuoco. Tra le vittime pilota e copilota
+- **Libero**: New York, aereo contro un mezzo dei Vigili del Fuoco: due morti 
+- **Il Messaggero**: Incidente aereo New York, l'audio della torre di controllo all'Air Canada prima dello schianto: «Fermati subito» «Stop, stop, stop». La voce è del controllore di volo della torre di controllo dell'aeroporto LaGuardia di New York. Sta cercando disperatamente di dare istruzioni al camion...
+- **Il Giornale**: "Stop, stop, stop”, poi l’impatto e l'incidente mortale: così gli audio rivelano il disastro aereo a New York Diffusi gli audio della torre di controllo che documentano i drammatici secondi prima dello schianto sulla pista dell’aeroporto di New York che potrebbero chiarire le cause dello scontro in cui hanno perso la vita i due piloti
+- **Il Messaggero**: Incidente aereo New York, l'audio della torre di controllo prima dello scontro tra l'Air Canada e il camion dei vigili del fuoco: «Fermati subito» «Stop, stop, stop». La voce è del controllore di volo della torre di controllo dell'aeroporto LaGuardia di New York. Sta cercando disperatamente di dare istruzioni al camion...
+- **La Stampa**: "Stop, stop, stop!": le voci dalla torre di controllo dell'aeroporto LaGuardia prima dell'incidente Le registrazioni audio che hanno preceduto l'incidente, sulla pista dell'aeroporto newyorkese di LaGuardia, tra il volo di Air Canada e un camion dei Vigili del fuoco. Pochi minuti prima dello schianto, un volo della United aveva dichiarato un'emergenza a causa di un odore a bordo, motivo per il quale i pompieri si trovavano già sulla pista: il camion aveva ricevuto l'autorizzazione ad attraversare la pista 4 all'altezza della via di rullaggio "Delta", dove è avvenuta la collisione. Poi, nelle registrazioni audio del controllo del traffico aereo, si sente un controllore dire: "Stop, stop, stop. Camion uno stop, camion uno, stop", per poi constatare lo scontro. "I soccorsi stanno arrivando". Secondo il sito web di tracciamento voli Flightradar24, l'aereo ha colpito il mezzo a una velocità di circa 39 km/h
+- **Il Post**: Un aereo si è scontrato con un veicolo dei vigili del fuoco all'aeroporto LaGuardia di New York: due persone sono morte 
+
+
+## 4. Poste lancia Opas totalitaria per l’acquisto di Tim: operazione da 10,8 miliardi
+
+> **Context:** L’obiettivo dell’operazione è dare vita ad un unico gruppo, integrando due delle più grandi e importanti realtà industriali italiane. Lo Stato azionista di maggioranza
+
+- **Corriere Della Sera**: Poste lancia Opas totalitaria per l’acquisto di Tim: operazione da 10,8 miliardi L’obiettivo dell’operazione è dare vita ad un unico gruppo, integrando due delle più grandi e importanti realtà industriali italiane. Lo Stato azionista di maggioranza
+- **ANSA**: Poste presenta l'opas totalitaria per Telecom Italia. "Stato azionista di maggioranza sopra il 50%" 'Stabilità nel lungo periodo e mandato chiaro per creare valore'
+- **Il Giornale**: Poste si prende tutta Tim. L'offerta è di 10,8 miliardi Il gruppo di Del Fante lancia un'Opas totalitaria con cash e azioni. I titoli dell'ex Telecom valorizzati 63,35 euro
+- **Il Giornale**: Poste lancia Opas totalitaria per l’acquisto di Telecom Italia: operazione da 10,8 miliardi Nascerebbe una piattaforma integrata da sistema Paese che conta ricavi per circa 26,9 miliardi e un'ebit aggregato di 4,8 miliardi, con oltre 150mila dipendenti
+- **La Verità**: Poste vuole tutta Tim: offerti 10,8 miliardi Premio del 9% sull’ultima quotazione. Nascerebbe un gruppo da 27 miliardi di ricavi.Alcuni numeri per intenderci: circa 27 miliardi di ricavi annui, 4,8 miliardi di margini lordi, oltre 150.000 dipendenti. Queste cifre sono quelle sciorinate da Poste Italiane per descrivere il gruppo che potrebbe nascere nel caso l’Offerta pubblica di acquisto e scambio, Opas, su Telecom Italia andasse in porto. Sì, avete letto bene: all’ora di cena di una domenica sera elettorale, le Poste guidate da Matteo Del Fante e dal direttore generale Giuseppe Lasco puntano al controllo della totalità di Tim.Continua a leggere
+- **Il Messaggero**: Opas di Poste su Tim, un campione nazionale per la sovranità digitale Un senso e un futuro industriale per Telecom. Un salto di qualità per Poste Italiane. E una governance stabile con lo Stato che torna azionista di maggioranza sopra il 50%. Con l'Opa...
+- **Il Messaggero**: Poste lancia l'Opas su Tim: maxi-offerta da 10,8 miliardi. Lo Stato resterà azionista con oltre il 50% L'Opas di Poste Italiane su Tim, di cui possiede il 20%, apre un nuovo polo integrato tra tlc, servizi e piattaforme digitali. Ieri sera il cda del gruppo di recapiti, energia e servizi...
+- **Corriere Della Sera**: Poste-Tim, il ritorno sotto l’ala pubblica e l’urgenza della svolta digitale: i piani per l'integrazione Dalla privatizzazione della Stet nel 1997 all’Opas di Poste: la parabola di Tim dopo decine di dismissioni
+- **Adkronos**: Tim, Poste Italiane lancia opas totalitaria per 10,8 miliardi Per ogni pacchetto di 5.000 azioni oggetto dell'offerta saranno corrisposte 109 azioni ordinarie di nuova emissione e 835 euro
+- **Il Post**: Poste Italiane vuole infine comprarsi tutta TIM 
+- **ANSA**: Del Fante (Poste): 'Tim resta stand alone' La società entra nel gruppo Poste ma il brand sarà protetto. In un comunicato si legge che l'offerente è stato assistito da Gianni & Origoni, quale consulente legale, da J.P.
+- **L'Unità**: Poste Italiane vuole comprare tutta TIM, l’offerta pubblica d’acquisto 10,8 miliardi: “Operazione non concordata, altamente attraente” Sarebbe la nascita di un polo integrato che unirebbe servizi postali, finanziari, assicurativi e logistici con la rete di telecomunicazioni, cloud e infrastrutture digitali. Da 10,8 miliardi di euro l’offerta pubblica di acquisto e scambio (OPAS) totalitaria di Poste Italiane su Telecom Italia (TIM), annunciata nella serata di ieri. L’operazione fonderebbe due società molto riverse […]
+- **ANSA**: Gli sportelli di Poste e i telefonini di Tim, nasce un grande gruppo pubblico 
+- **Corriere Della Sera**: Perché Poste vuole comprare Tim e come vanno le azioni? Il ceo Del Fante: «Operazione allo studio da 5 anni, prima il debito era troppo alto» Tim sale in Borsa, ma per gli analisti l’offerta è bassa
+- **Libero**: Poste-Tim, Durigon: investimento importante, strategico per Paese 
+- **Il Fatto Quotidiano**: Poste punta a una “Tim più aggressiva sul mercato”. Grazie alla solidità finanziaria e ai flussi di cassa del gruppo di spedizioni Giornata di rincorse in Borsa per Poste e la ex Telecom Italia, Tim, in scia all’annuncio dell’acquisizione del gruppo di telecomunicazioni da parte della società di spedizioni che fa capo al ministero dell’Economia direttamente e tramite la Cassa Depositi e Prestiti. L’offerta di acquisto e scambio (opas) lanciata da Poste domenica sera prevede una parte […] L'articolo Poste punta a una “Tim più aggressiva sul mercato”. Grazie alla solidità finanziaria e ai flussi di cassa del gruppo di spedizioni proviene da Il Fatto Quotidiano.
+
+
+## 5. Francia, i socialisti vincono a Parigi e Marsiglia
+
+> **Context:** Male la sinistra radicale, i lepenisti perdono anche Tolone
+
+- **La Stampa**: La gauche ferma gli estremisti Domenica 15 il primo turno delle elezioni municipali aveva consacrato l’avanzata delle ali estreme, a destra il Rassemblement National (Rn) di Marine Le Pen e a sinistra la France Insoumise ...
+- **La Stampa**: Francia, i socialisti vincono a Parigi e Marsiglia Male la sinistra radicale, i lepenisti perdono anche Tolone
+- **ANSA**: Parigi resta alla gauche, battuta la destra di Rachida Dati. Il neosindaco Gregoire in bici verso l'Hotel de Ville Anche Marsiglia alla sinistra che sconfigge il partito di Le Pen
+- **Il Giornale**: Parigi resta alla gauche, battuta la destra di Rachida Dati Il RN ha vinto in "decine di comuni" in questo ballottaggio, ha proclamato stasera Marine Le Pen, rallegrandosi per una "vittoria immensa" del suo partito che ha ormai "migliaia di consiglieri municipali"
+- **La Repubblica**: Comunali Francia, Parigi ferma il vento di destra. “Una città fedele alla sua storia” Emmanuel Grégoire è stato eletto sindaco nella capitale con un vantaggio netto su Rachida Dati
+- **Il Fatto Quotidiano**: Comunali in Francia, Parigi respinge la destra ed elegge Emmanuel Grégoire. Le Pen sconfitta a Marsiglia e Lione Non è bastata la destra tutta unita, dai macroniani fino al Rassemblement National, per frenare l’ascesa del sindaco socialista Emmanuel Grégoire, che ha vinto l’elezione a sindaco di Parigi col 50,52% dei voti, nove punti sopra la sua rivale Rachida Dati, mentre Sophia Chikirou di La France Insoumise si è classificata terza con il 7,96% […] L'articolo Comunali in Francia, Parigi respinge la destra ed elegge Emmanuel Grégoire. Le Pen sconfitta a Marsiglia e Lione proviene da Il Fatto Quotidiano.
+- **Libero**: Amministrative in Francia: ai socialisti Parigi e le grandi città 
+- **L'Unità**: Elezioni in Francia, Parigi e Marsiglia restano alla gauche: delusione dal Rassemblement National e France Insoumise L’estrema destra lepeniana del Rassemblement National e quella “moderata” dei Républicains non sfonda, col centrosinistra, soprattutto quello dei Socialisti rispetto a quello più radicale della France Insoumise, nel bel mezzo di una clamorosa guerra fratricida , riesce a resistere all’avanzata conservatrice e mantiene le due città più importanti al voto domenica in Francia. Parigi e Marsiglia, […]
+- **Il Giornale**: I socialisti tengono Parigi e Marsiglia (senza Mélenchon). Le Pen esulta al Sud Il sindaco della Capitale festeggia in bici. Premiata la scelta di evitare gli estremisti
+- **Libero**: Eletto a Parigi il sindaco socialista Emmanuel Gregoire, la festa con l'uscente Anne Hidalgo 
+- **Corriere Della Sera**: Francia al voto, i socialisti tengono Parigi, Marsiglia e Lille. Avanzano gli Insoumises e Le Pen Il socialista Emmanuel Grégoire - col 51% - respinge l’assalto di Rachida Dati nella capitale. Senza l’aiuto di Mélenchon
+- **Il Post**: Il secondo turno delle elezioni locali in Francia è stata una vittoria per i Socialisti 
+
+
+## 6. Referendum Giustizia 2026, la diretta | Seggi riaperti, affluenza record al 46,07%, exit poll e risultati dalle 15
+
+> **Context:** Orari e guida del voto di oggi, lunedì 23, per il referendum Costituzionale sulla Giustizia: 7-23 e 7-15
+
+- **Corriere Della Sera**: Giustizia, riaperti i seggi: si vota fino alle 15. Affluenza record: 46%. Traina il Centro-Nord, i picchi di Milano, Bologna e Firenze Orari e guida del voto di oggi, lunedì 23, per il referendum Costituzionale sulla Giustizia: 7-23 e 7-15.
+- **Corriere Della Sera**: Referendum Giustizia 2026, la diretta | Seggi riaperti, affluenza record al 46,07%, exit poll e risultati dalle 15 Orari e guida del voto di oggi, lunedì 23, per il referendum Costituzionale sulla Giustizia: 7-23 e 7-15
+- **Corriere Della Sera**: Bologna, lo spoglio e i risultati del referendum in diretta: in Emilia-Romagna affluenza più alta d'Italia Il referendum sulla giustizia: seggi aperti fino alle 15 e in seguito lo spoglio e i risultati: Bologna e l'Emilia-Romagna in vetta alla partecipazione
+- **Corriere Della Sera**: Puglia, referendum sulla giustizia: alle 23 di domenica affluenza al 39%. Oggi seggi aperti dalle 7 alle 15 I cittadini sono chiamati ad esprimersi sul referendum costituzionale sulla giustizia. Alle 23 di ieri nell'area metropolitana di Bari l'affluenza alla chiusura dei seggi era del 40,80%
+- **Corriere Della Sera**: Milano, referendum sulla Giustizia in diretta | L'affluenza sfiora il 55%. Oggi i seggi sono aperti fino alle 15 Allestite a Milano 1.249 sezioni in 162 scuole. La domenica chiude con l'affluenza nel capoluogo e in Lombardia sopra la media italiana, lunedì seggi aperti dalle 7 alle 23. In coda 18enni al primo voto e centenari
+- **La Repubblica**: Referendum, boom di votanti: alle 23 l’affluenza è al 46%. Record al Nord, il Sud arranca Nel primo giorno di urne sulla separazione delle carriere in città come Firenze e Bologna già si supera di molto il 50%. Sicilia ferma al 35%
+- **La Stampa**: Referendum, affluenza record: primo giorno oltre il 46%, boom al Nord. Urne aperte fino alle 15 Boom d'affluenza alle urne per il referendum sulla giustizia: alle 23 di ieri ha votato il 46,07% degli aventi diritto, cifra record. Oggi è il secondo e ultimo giorno di ...
+- **ANSA**: Italia al voto per il referendum Aperti i seggi, si vota fino alle 15.00 Affluenza boom: il 46% alle 23
+- **Fanpage.it**: Referendum Giustizia 2026, i risultati in diretta: affluenza record sopra il 46% nel primo giorno di voto, chi vince tra il Sì e il No alla riforma I risultati del Referendum sulla Giustizia 2026 in diretta: seggi aperti oggi, lunedì 23 marzo, fino alle 15. Affluenza record sopra il 46% per la prima giornata di consultazione. I cittadini sono chiamati alle urne per votare Sì o No sul quesito che riguarda la riforma della giustizia: non è previsto quorum. Gli aggiornamenti dalle urne in tempo reale su Fanpage.it.
+- **Fanpage.it**: A che ora aprono e chiudono i seggi oggi lunedì 23 marzo per il Referendum Giustizia 2026 Oggi, lunedì 23 marzo si vota per il referendum confermativo sulla riforma della giustizia. I seggi saranno aperti alle 7 alle 15. Dopo la chiusura inizierà lo spoglio.
+- **Fanpage.it**: Il primo giorno di voto per il Referendum di domenica 22 marzo 2026 I risultati del Referendum sulla Giustizia 2026: seggi aperti oggi, domenica 22 marzo, dalle 7 alle 23. Terzo dato dell'affluenza alle ore 23 è del 46%. I cittadini sono chiamati alle urne per votare Sì o No sul quesito che riguarda la riforma della giustizia: non è previsto quorum per la validità della consultazione referendaria.
+- **Il Giornale**: Referendum, seggi aperti alle 7, si vota fino alle 15. Domenica affluenza record al 46% Boom d'affluenza alle urne per il referendum sulla giustizia: alle 23 di ieri ha votato il 46,07% degli aventi diritto, cifra record. Seggi aperti dalle 7 alle 15
+- **Il Giornale**: Affluenza boom: alle 23 è al 46%. È il dato più alto in un referendum su due giorni. Tutti i dati Regione per Regione Per i sondaggisti di Youtrend la partita è "ancora imprevedibile". Lunedì 23 marzo si vota ancora dalle 7 alle 15
+- **Il Messaggero**: Referendum, su l'affluenza: alle 23 oltre il 46%. Roma e Milano tra le prime, male Campania e Calabria Affluenza in chiaro aumento, rispetto alle ultime consultazioni referendarie, con marcate differenze tra le diverse aree del Paese. La prima giornata di voto sulla riforma della giustizia ha...
+- **Corriere Della Sera**: Trento e Bolzano, referendum sulla riforma della giustizia in diretta: urne aperte fino alle 15 I cittadini sono chiamati a votare sul referendum costituzionale confermativo che riguarda la giustizia. Non è previsto alcun quorum
+- **Corriere Della Sera**: Veneto, referendum sulla riforma della giustizia in diretta: urne aperte fino alle 15 Il 22 e 23 marzo i cittadini sono chiamati a votare sul referendum costituzionale confermativo che riguarda la giustizia. Non è previsto alcun quorum
+- **Corriere Della Sera**: Napoli, referendum Giustizia - la diretta | Seggi riaperti, si vota fino alle 15. Ieri affluenza in Campania oltre il 37% A urne chiuse si procederà immediatamente allo spoglio delle schede
+- **La Repubblica**: Referendum, le news in diretta: oggi si vota fino alle 15. Ieri affluenza record al 46% Nel pomeriggio si conoscerà l’esito delle urne sulla riforma della giustizia
+- **Il Fatto Quotidiano**: Referendum, alle 7 riaperti i seggi: si vota fino alle 15. Domenica affluenza boom al 46%: tutti i dati regione per regione L'articolo Referendum, alle 7 riaperti i seggi: si vota fino alle 15. Domenica affluenza boom al 46%: tutti i dati regione per regione proviene da Il Fatto Quotidiano.
+- **Corriere Della Sera**: Milano, il referendum in diretta: exit poll e risultati dalle 15. Affluenza sopra la media nazionale. I big al seggio, da Sala a La Russa Oggi urne aperte dalle 7 alle 15, poi il via allo spoglio. Ieri sera aveva votato quasi il 55 per cento degli elettori. In coda 18enni al primo voto e centenari
+- **Corriere Della Sera**: Quando sapremo i risultati del referendum sulla giustizia? Si vota fino alle 15 di lunedì 23 marzo. Subito gli exit poll, poi lo spoglio
+- **Fanpage.it**: A che ora aprono e chiudono i seggi domenica 22 marzo per il Referendum Giustizia 2026 Domenica 22 marzo 2026 si vota per il referendum costituzionale sulla riforma della giustizia. I seggi saranno aperti alle 7 alle ore 23, e poi nuovamente domani dalle 7 alle 15. Dopodiché, le urne chiuderanno e partirà lo scrutinio.
+- **Fanpage.it**: Il fac simile del quesito al Referendum sulla Giustizia: come votare Sì o No il 22 e 23 marzo Si vota anche oggi, lunedì 23 marzo 2026 dalle 7 alle 15 per il Referendum sulla Giustizia: disponibile il fac simile del quesito referendario. Si vota barrando la X sul "Sì" se si è a favore e sul "No" se si è contrari. Ecco come votare, perché non c'è quorum e cosa cambia con la riforma.
+- **Fanpage.it**: Quando arrivano gli exit poll al Referendum sulla Giustizia e dove seguire i risultati in tv A partire dalle 15, con la chiusura dei seggi e l'inizio dello scrutinio delle schede, arriveranno le prime proiezioni ed exit poll del Referendum sulla Giustizia 2026. Per i risultati si dovrà attendere qualche ora: gli speciali tv dove seguire le novità in diretta.
+- **Il Giornale**: Sorpresa: affluenza boom. Il risultato è appeso alle grandi città del Nord Alle 22 ha votato oltre il 45%. L’Emilia Romagna guida la classifica con il 53,5%. Dati bassi al Sud: la Sicilia al 35%
+- **L'Unità**: Referendum Giustizia, i risultati in diretta: il verdetto della battaglia tra SÌ e NO sulla riforma della Magistratura Si chiudono oggi alle 15:00 i seggi per il referendum confermativo sulla riforma della Giustizia voluta dal governo Meloni. Non ci si aspettava un’affluenza così alta. Alle 23:00 di domenica 21 marzo era al 46,07%, circa 21 milioni di persone: dato inaspettato, più alto degli ultimi referendum, che mette le previsioni in un territorio che […]
+- **Corriere Della Sera**: I dati dai Comuni sull'affluenza definitiva per il referendum della Giustizia: percentuale sopra il 58%. Si è votato di più in Emilia Romagna e Toscana Seggi chiusi dalle 15. In Emilia Romagna e Toscana ha votato il 66% degli aventi diritto. In coda la Campania con il 50%
+
+
+## 7. È morto di cancro a 43 anni Leonid Radvinsky, il patron di OnlyFans
+
+> **Context:** Americano d'origine ucraina, era fra i più controversi miliardari informatici al mondo
+
+- **Corriere Della Sera**: È morto a 43 anni Leonid Radvinsky, il proprietario del sito di contenuti per adulti OnlyFans. «Lunga battaglia cotnro il cancro» Il proprietario della Fenix International Limited ha perso una battaglia contro il cancro
+- **La Stampa**: Morto a soli 43 anni Leonid Radvinsky, il fondatore di OnlyFans Originario di Odessa, la sua storia dagli inizi all’impero del sito pornografico
+- **Il Messaggero**: Leonid Radvinsky, il proprietario di OnlyFans è morto a 43 anni. «Si è spento dopo una lunga battaglia contro il cancro» «Siamo profondamente rattristati nell'annunciare la scomparsa di Leonid Radvinsky», ha dichiarato un portavoce. L'imprenditore ucraino-americano, proprietario di OnlyFans,...
+- **La Repubblica**: È morto il proprietario di OnlyFans Leonid Radvinksy. Grazie al sito una ricchezza da 5 miliardi L’imprenditore aveva 43 anni e nel 2018 aveva acquisito la piattaforma per la vendita di contenuti per adulti
+- **ANSA**: È morto di cancro a 43 anni Leonid Radvinsky, il patron di OnlyFans Americano d'origine ucraina, era fra i più controversi miliardari informatici al mondo
+- **Il Giornale**: Morto Radvinsky, proprietario di OnlyFans L’imprenditore ucraino-americano è scomparso dopo una lunga battaglia contro il cancro. Sotto la sua gestione la piattaforma di contenuti per adulti è diventata un fenomeno globale
+- **L'Unità**: Morto il proprietario di OnlyFans: l’imprenditore miliardario Leonid Radvinsky alla guida della piattaforma per adulti, aveva 43 anni Aveva guidato la piattaforma che ha rivoluzionato l’uso di internet e dei social network così come erano concepitI. A 43 anni, dopo una lunga malattia, è morto Leonid Radvinsky, proprietario di OnlyFans. A dare l’annuncio un comunicato dell’azienda: “Siamo profondamente addolorati nell’annunciare la morte di Leo Radvinsky. Leo è venuto a mancare serenamente dopo una […]
+- **Il Post**: È morto a 43 anni il proprietario di OnlyFans, Leonid Radvinsky 
+
+
+## 8. Serie A:Fiorentina-Inter 1-1: Pio Esposito illude, Ndour frena i nerazzurri
+
+> **Context:** I nerazzurri vedono il Milan più vicino
+
+- **Corriere Della Sera**: Fiorentina-Inter 1-1: gol di Esposito e Ndour, Chivu rallenta ancora ed è a +6 sul Milan, a +7 sul Napoli I nerazzurri vanno subito in vantaggio ma subiscono la reazione dei viola, che trovano il pari nella ripresa
+- **Corriere Della Sera**: Voti Fiorentina-Inter: Akanji svagato (5), Dumfries dove era sul pari? (5). Pio Esposito è più pronto di Kean (7) Ancora un passo falso per i nerazzurri: Barella compie una leggerezza grave sulla rete di Ndour. De Gea, l'ultima parata vale un gol (7)
+- **La Repubblica**: L’Inter frena ancora: 1-1 con la Fiorentina. Milan e Napoli si avvicinano Non basta la rete di Esposito dopo pochi secondi ai nerazzurri, raggiunti da Ndour nella ripresa. Le squadre di Allegri e Conte accorciano rispettivamente a 6 e 7 punti il distacco dalla capolista
+- **La Stampa**: L’Inter frena a Firenze, il Milan ora è a -6 Pio Esposito segna al primo minuto, la Fiorentina rimette la partita in parità con Ndour al 77’ e fa un passo avanti nella corsa per la salvezza. Super parata di De Gea all’ultimo secondo
+- **ANSA**: Serie A:Fiorentina-Inter 1-1: Pio Esposito illude, Ndour frena i nerazzurri I nerazzurri vedono il Milan più vicino
+- **Il Giornale**: Inter, un altro regalo Esposito segna al primo minuto, i viola reagiscono e al 77' ci pensa Ndour. Milan (-6) e Napoli (-7) ringraziano
+- **Il Giornale**: La Fiorentina riprende l’Inter e sfiora il colpaccio: al gol di Pio Esposito risponde Ndour L’Inter non riesce a rispondere alle vittorie di Milan e Napoli, nonostante il gol-lampo del giovane talento azzurro. Nella ripresa i viola prendono coraggio e trovano il pareggio con il talento dell’under 21
+- **Libero**: Serie A, l'Inter frena ancora: 1-1 con la Fiorentina L'Inter frena ancora dopo il pareggio contro l'Atalanta: di nuovo un 1-1 per i nerazzurri impegnati al Franchi contro la Fiorentina per il match valido per la 30esima giornata di Serie A. Inter subito in vantaggio dopo 40' con Pio Esposito. Gli uomini di Chivu continuano a spingere, sfiorando il raddoppio in un paio di occasioni. La Fiorentina inizia allora a fare la partita andando vicino al pareggio con Kean e Gudmundsson. Nella ripresa il copione resta lo stesso, con i viola che riescono ad agguantare il pari grazie a un gol di Ndour al 77' che ribatte in rete la respinta di Sommer. Esultano quindi Milan e Napoli ,che al momento si trovano rispettivamente a -6 e -7 dall'Inter. Punto importante invece in chiave salvezza per la Fiorentina che si trova ora alla sedicesima posizione. [[ge:kolumbus:liberoquotidiano:46935118]]
+- **Il Messaggero**: Fiorentina-Inter 1-1, le pagelle: De Gea (7,5) salva la viola allo scadere, Pio Esposito (7) gioca da solo. Barella (5) che errore L'Inter frena anche a Firenze contro la Fiorentina e complica notevolmente la sua corsa verso lo scudetto. Termina 1-1 al Franchi: Pio Esposito sblocca la partita dopo appena 41 secondi ma poi...
+- **Fanpage.it**: L’Inter si fa male da sola, Barella “regala” il pari alla Fiorentina. Milan e Napoli sorridono I nerazzurri vanno in vantaggio con Pio Esposito, sfiorano il raddoppio poi la luce si spegne e subiscono la Viola. Nella ripresa arriva la rete dell'1-1 di Ndour. Kean e Gudmundsson sfiorano addirittura il colpo del ko. De Gea salva tutto nel recupero.Continua a leggere
+
+
+## 9. Voto per la riforma sulla giustizia, gli exit poll e i risultati: No al 49-53%, Sì al 47-51%
+
+> **Context:** I primi dati di Opinio Rai, La7 Swg e Sky: No avanti. Il risultato definitivo atteso nel pomeriggio
+
+- **Corriere Della Sera**: Voto per la riforma sulla giustizia, gli exit poll e i risultati: No al 49-53%, Sì al 47-51% I primi dati di Opinio Rai, La7 Swg e Sky: No avanti. Il risultato definitivo atteso nel pomeriggio
+- **Il Sole Ventiquattro Ore**: Referendum, seconda proiezione Opinio-Rai, il No al 53,9%, il Sì al 46,1% Il No al 53,9% e il Sì al 46,1%. E’ quanto emerge dalla seconda proiezione del consorzio Opinio Italia per la Rai sul referendum sulla giustizia. La copertura del campione...
+- **L'Unità**: Chi ha vinto il referendum sulla Giustizia: i risultati della lunga battaglia tra il SÌ del governo Meloni e il NO delle opposizioni Si profila una vittoria del NO al referendum sulla Giustizia promossa dal governo Meloni, almeno secondo quanto emerso dai primi instant ed exit poll pubblicati subito dopo la chiusura dei seggi. Per Swg/La7 il No è avanti con una forchetta del 44-53% contro il 47-51% del Sì. Gli instant poll di YouTrend/Sky indicano la prevalenza […]
+- **Il Manifesto**: Referendum, i risultati: dagli exit poll un lieve vantaggio del No Secondo i primi instant poll lo scarto tra il Sì e il No è ancora troppo basso. Opinio Rai, SwG La7 e Youtrend per Sky hanno dato sostanzialmente la stessa […] The post Referendum, i risultati: dagli exit poll un lieve vantaggio del No first appeared on il manifesto.
+- **La Repubblica**: Referendum sulla Giustizia, risultati parziali: in Sicilia vince il No con oltre il 61% A Palermo punta di quasi 70 punti percentuali per il No. Il Sì oltre il 38 per cento
+- **La Stampa**: La diretta dai Comitati per il Sì e per il No Exit poll, dati ufficiali e proiezioni sul referendum costituzionale sulla riforma della giustizia. La diretta a urne chiuse dal Comitato nazionale Sì Riforma, dal Comitato Giusto dire No e dal Comitato Società Civile per il No al referendum costituzionale.
+- **Il Fatto Quotidiano**: Referendum, la conferenza stampa del Comitato per il No: la diretta tv Il Comitato per il No è in diretta con i primi commenti ai risultati del Referendum sulla riforma della Giustizia. In streaming dal Centro Congressi Frentani a Roma L'articolo Referendum, la conferenza stampa del Comitato per il No: la diretta tv proviene da Il Fatto Quotidiano.
+
+
+## 10. Iran, i mullah avvertono: “Blocco totale di Hormuz”. Sei punti per la tregua
+
+> **Context:** Dopo l’ultimatum di 48 ore della Casa Bianca, gli ayatollah rilanciano e annunciano che colpiranno le aziende legate agli Usa nel Golfo
+
+- **Corriere Della Sera**: La Repubblica islamica sfida le 48 ore di Trump: «Noi pronti a bloccare Hormuz» Il presidente avverte l’Iran: «Iniziamo dalla centrale elettrica più grande». Lo scià: «Non fatelo»
+- **Corriere Della Sera**: L’escalation sui civili (e la lezione ucraina). La minaccia Usa: «Lasceremo Teheran al buio» 
+- **La Repubblica**: Iran, i mullah avvertono: “Blocco totale di Hormuz”. Sei punti per la tregua Dopo l’ultimatum di 48 ore della Casa Bianca, gli ayatollah rilanciano e annunciano che colpiranno le aziende legate agli Usa nel Golfo
+- **Il Post**: L’Iran minaccia di bloccare interamente lo stretto di Hormuz 
+- **Adkronos**: Ultimatum di Trump e nuova sfida dell'Iran, escalation per Hormuz Il presidente americano chiede l'apertura dello Stretto entro 48 ore. Teheran: "Lo chiudiamo del tutto"
+- **L'Unità**: Guerra in Iran, le 6 condizioni di Teheran per la fine alla guerra: “Ultimatum Trump? Se attaccano colpiremo infrastrutture energetica USA” Sull’orlo di una escalation sempre più allarmante, preoccupante, anche per le conseguenze a livello economico oltre che umanitario, sono scandite da ultimatum e minacce questi giorni di guerra in Medio Oriente. Se da una parte Trump minaccia di distruggere le centrali elettriche se lo Stretto di Hormuz non verrà riaperto, dall’altra l’Iran assicura una ritorsione […]
+- **Il Giornale**: "Hormuz, pronti al blocco totale". Dazio da 2 milioni per passare Trump chiede l'immediata riapertura e minaccia raid sulle centrali elettriche. La replica di Teheran: "Fermiamo pure noi commercio e luce nel Golfo"
+- **Libero**: Iran: "Mineremo lo Stretto di Hormuz se Usa colpiranno le centrali" 
+
+
+## 11. Francia, è morto a 88 anni ex primo ministro socialista Lionel Jospin
+
+- **Corriere Della Sera**: Morto Lionel Jospin, ex primo ministro socialista francese. Aveva 88 anni Segretario del Partito socialista, è stato a capo del governo con Chirac presidente, dal 1997 al 2002. A gennaio aveva subito «un'operazione seria», ma non erano stati rivelati i dettagli
+- **La Stampa**: È morto l'ex premier francese Lionel Jospin L'annuncio è stato fatto dalla famiglia. Aveva 88 anni
+- **ANSA**: E' morto l'ex premier francese Lionel Jospin L'annuncio dalla famiglia. Aveva 88 anni
+- **Il Giornale**: Francia, morto Lionel Jospin: l’ex premier socialista della coabitazione con Chirac A gennaio si era sottoposto a un “delicato intervento chirurgico”. Il suo governo resta ancora oggi il più longevo della Quinta Repubblica
+- **La Repubblica**: Lionel Jospin, è morto l’ex premier francese che fu sorpassato da Jean-Marie Le Pen Socialista, a capo del governo più longevo della quinta repubblica, istituì la settimana di 35 ore. Al primo turno delle presidenziali del 2002 fu battuto dal leader di estrema destra
+- **Libero**: Francia, è morto a 88 anni ex primo ministro socialista Lionel Jospin 
+- **La Stampa**: Jospin e quella sconfitta elettorale che aprì la crisi della sinistra europea L’ex premier è legato al terremoto delle presidenziali 2002, quando venne eliminato dal presidente uscente Chirac e dall’allora leader del Front National, Jean-Marie Le Pen
+- **Il Post**: È morto Lionel Jospin, importante politico socialista ed ex primo ministro francese 
+
+
+## 12. A 22 anni operaio muore incastrato in un macchinario
+
+> **Context:** L'incidente nel Padovano, ferito un collega che ha tentato di soccorrerlo
+
+- **La Repubblica**: Padova, operaio di 22 anni muore incastrato in un macchinario Un collega si è ferito alla mano cercando di salvarlo
+- **La Stampa**: Un operaio di 22 anni muore incastrato in un macchinario nel Padovano La tragedia è avvenuta dentro un capannone a Selvazzano Dentro (Padova)
+- **ANSA**: Operaio di 22 anni muore incastrato in un macchinario nel Padovano Vittima un senegalese, ferito un collega che ha tentato di soccorrerlo
+- **Il Fatto Quotidiano**: Operaio 22enne muore incastrato in un macchinario, ferito il collega che ha tentato di salvarlo Un operaio di 22 anni è morto in un incidente sul lavoro avvenuto dentro un capannone a Selvazzano Dentro (Padova). Sul posto sono intervenuti i sanitari del Suem 118 assieme ai Carabinieri. La vittima, cittadino senegalese e residente a Padova, secondo una prima ricostruzione dei fatti, nel tentativo di effettuare il rabbocco del fluido di […] L'articolo Operaio 22enne muore incastrato in un macchinario, ferito il collega che ha tentato di salvarlo proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Operaio 22enne muore incastrato nel macchinario, collega ferito tentando di salvarlo: tragedia sul lavoro a Padova L’incidente mortale sul lavoro oggi in un’azienda specializzata nella lavorazione dei metalli a Selvazzano Dentro, nell’hinterland di Padova. L'operaio 22enne è rimasto schiacciato nel macchinario su cui stava operando.
+- **Corriere Della Sera**: Incidente sul lavoro nel Padovano: operaio di 22 anni muore incastrato in un macchinario Stava cercando di rabboccare il fluido di un macchinario. Ferito alla mano un collega che cercava di liberarlo
+- **L'Unità**: Incastrato in un macchinario, 22enne morto in un capannone: “Non è accettabile intervenire su impianto in movimento” Ancora una vittima sul lavoro in Italia: aveva 22 anni l’operaio morto in un incidente in un capannone a Selvazzano Dentro, in provincia di Padova. Ferito alla mano destra anche un collega. Sul posto, oltre all’Arma per i rilievi di legge, è intervenuto il personale dello Spisal per accertare l’esatta dinamica dell’incidente e verificare il […]
+- **ANSA**: A 22 anni operaio muore incastrato in un macchinario L'incidente nel Padovano, ferito un collega che ha tentato di soccorrerlo
+
+
+## 13. Tra lacrime e cori contro il tricolore, l'ultimo saluto di Pontida a Umberto Bossi
+
+> **Context:** Salvini contestato per la camicia verde. Alle esequie Meloni, Tajani e big del Carroccio
+
+- **Corriere Della Sera**: Lacrime, bandiere e contestazioni. L’ultimo saluto di Pontida a Bossi I funerali con Meloni e Salvini. L’abbraccio del popolo della Lega alla famiglia del «Capo»
+- **La Repubblica**: Migliaia a Pontida per Bossi, cori e fischi contro Salvini: “Noi traditi, bruci il tricolore” Al funerale cortocircuito di slogan per la secessione e applausi a Meloni. Il segretario in camicia verde bacia la vedova del Senatùr e viene contestato
+- **La Repubblica**: Funerali Bossi, un rito tra nostalgici. Renzo e la famiglia: “Papà non molliamo” Tra i militanti solo vessilli del vecchio Carroccio. Borghezio lasciato fuori dall’abbazia: “Chi ha negato la nostra gente la pagherà”
+- **ANSA**: Tra lacrime e cori contro il tricolore, l'ultimo saluto di Pontida a Umberto Bossi Salvini contestato per la camicia verde. Alle esequie Meloni, Tajani e big del Carroccio
+- **Fanpage.it**: Funerali di Bossi, Salvini contestato a Pontida: “Vergogna, molla la camicia verde” Ai funerali di Umberto Bossi a Pontida emergono nuove tensioni interne alla Lega: Matteo Salvini viene contestato da parte della base, mentre Luca Zaia riceve applausi. Sullo sfondo resta aperta la questione dell'eredità politica del fondatore.
+- **Il Giornale**: Bossi, l'ultimo saluto a Pontida. Da Meloni a Giorgetti: ecco chi c'era. Salvini e il bacio alla moglie del Senatur Applausi dai militanti e sostenitori per la premier Meloni. Fischi per Monti. Salvini in camicia verde bacia la testa di Manuela Marrone, moglie di Bossi: "Oggi non si dichiara nulla, oggi è la presenza"
+- **La Verità**: Funerale di popolo e piazza calda. Un addio degno del miglior Bossi A Pontida l’ultimo saluto dei militanti all’Umberto, l’uomo che ha regalato un sogno al Nord. Applausi per Meloni, alte cariche presenti (ma non Mattarella). Giorgetti spegne il coro «Bruciamo il tricolore».«Hai osato dove nessuno osava. Il tuo sogno vive». L’estremo saluto al Senatur sta tutto in questo striscione davanti al sagrato del monastero di San Giacomo a Pontida; nostalgia, tenerezza, consapevolezza di un mondo perduto. È questa la cifra più intima del «funerale di popolo» che la famiglia ha preferito contrapporre al più solenne funerale di Stato. E quando l’auto con il feretro rallenta davanti al pratone dei tuoni motivazionali, degli annunci politici e dei «vadaviaiciap» cosmici, sui 2000 fedelissimi scende un silenzio irreale. Il mezzo toscano fra le dita e la voce arrochita dall’altro mezzo, sembra di vederlo, Umberto Bossi, mentre costruisce quel sogno nei suoi 30 anni da leader della Lega.Continua a leggere
+- **Il Messaggero**: Umberto Bossi, la Lega delle origini a Pontida per i funerali: applausi a Meloni, contestazioni a Salvini e cori contro il tricolore Una saga del nordismo, dell’indipendentismo e “secessione e “secesiun”, e «Roma ladrona il Nord non perdona». Un tuffo nel passato il fine falò di...
+- **Corriere Della Sera**: Applausi a Meloni, fischi a Salvini (difeso da Francesca): l'ira dei "veterani" ai funerali di Bossi | Monti: «Gli attacchi? Erano sorpresi» La cerimonia si è svolta nell'abbazia di Pontida, luogo simbolo del partito per le storiche adunate. Applausi per Meloni, ma anche cori «Secessione, secessione!». Giorgetti sbotta per i cori contro il Tricolore.
+- **Il Giornale**: "O mia patria, sì bella e perduta". L'ultimo coro per salutare Bossi I funerali imponenti a Pontida tra cori e lacrime per l'estremo addio al Senatùr. La presenza dei vertici dello Stato. Gli abbracci alla moglie Manuela e ai suoi figli
+
+
+## 14. Alcaraz eliminato da Korda a Miami: lo sfogo è una sentenza. Ora grande occasione per Sinner
+
+> **Context:** Sconfitta a sorpresa per Carlos Alcaraz a Miami contro Sebastian Korda. Lo spagnolo cede al terzo set: cambiano gli scenari della classifica mondiale, con Sinner pronto ad approfittarne.Continua a leggere
+
+- **Corriere Della Sera**: Alcaraz ko a sorpresa a Miami contro Korda: «Non so cosa fare». Sinner può approfittarne verso il numero 1 
+- **La Repubblica**: Alcaraz si fa sorprendere da Korda, fuori al terzo turno a Miami Come lo scorso anno, quando fu eliminato all'esordio da Goffin, il n. 1 rimedia una brutta figura in Florida perdendo in tre set con lo statunitense, n. 36. In classifica guadagna solo 40 punti e ora rischia di venire ulteriormente riavvicinato da Sinner
+- **ANSA**: Tennis: a Miami scivolone Alcaraz, esce ai sedicesimi battuto da Korda Il n.1 del mondo perde in tre set, niente ottavi di finale per lo spagnolo
+- **Il Messaggero**: Alcaraz eliminato dal Miami Open: clamoroso ko contro Korda, Sinner può accorciare nel ranking, ecco come cambia Clamoroso ma vero, Carlos Alcaraz saluta Miami al terzo turno del torneo. Il numero uno del mondo perde contro lo statunitense Sebastian Korda (3-6, 7-5, 4-6) e manca l'accesso agli...
+- **Fanpage.it**: Alcaraz eliminato da Korda a Miami: lo sfogo è una sentenza. Ora grande occasione per Sinner Sconfitta a sorpresa per Carlos Alcaraz a Miami contro Sebastian Korda. Lo spagnolo cede al terzo set: cambiano gli scenari della classifica mondiale, con Sinner pronto ad approfittarne.Continua a leggere
+- **Corriere Della Sera**: Come cambia il ranking Atp dopo il ko di Alcaraz? Le speranze di Sinner per il numero 1 Alcaraz eliminato a Miami, Sinner ancora in corsa: il sorpasso in vetta al ranking può avvenire già sulla terra rossa, e molto prima del previsto
+- **Il Fatto Quotidiano**: Alcaraz crolla a Miami, Sinner può avvicinarsi alla vetta: la nuova classifica Atp Il Masters 1000 di Miami diventa improvvisamente un crocevia importante nella stagione di Jannik Sinner. Il motivo non riguarda direttamente l’altoatesino, in campo questa notte contro il francese Moutet, bensì il suo rivale. Carlos Alcaraz è crollato al terzo turno contro Sebastian Korda: sconfitta per 6-3, 5-7, 6-4. Lo statunitense, testa di serie numero 32 […] L'articolo Alcaraz crolla a Miami, Sinner può avvicinarsi alla vetta: la nuova classifica Atp proviene da Il Fatto Quotidiano.
+- **Il Messaggero**: Sinner quando può tornare n.1 al mondo? Come cambia il ranking dopo la sconfitta di Alcaraz a Miami L’eliminazione a sorpresa di Carlos Alcaraz al Masters 1000 di Miami apre nuovi scenari nella corsa al numero 1 del mondo. Lo spagnolo è stato sconfitto al terzo turno dallo...
+- **Il Messaggero**: «Gli avversari con me giocano al massimo, voglio andare a casa». Lo sfogo di Alcaraz sconfitto da Korda a Miami Sebastian Korda ha firmato una delle vittorie più importanti della sua carriera a Miami, ma il tema centrale del match rimane la sconfitta di Carlos Alcaraz. Lo spagnolo, numero 1 del...
+- **Il Messaggero**: Sinner quando può tornare n.1 al mondo? Come cambia il ranking dopo la sconfitta di Alcaraz a Miami L’eliminazione a sorpresa di Carlos Alcaraz al Masters 1000 di Miami apre nuovi scenari nella corsa al numero 1 del mondo. Lo spagnolo è stato sconfitto al terzo turno dallo...
+- **Il Fatto Quotidiano**: I fantasmi di Alcaraz: “Korda sopra il suo livello, con me giocano tutti così. Me ne vado a casa” “Anche Korda ha giocato, direi, al di sopra del suo livello abituale. Ma ero lì, so che d’ora in poi giocheranno così”. Nuovo torneo, stesso sfogo. Carlos Alcaraz non sta vivendo un buon momento in campo e dopo l’eliminazione contro Daniil Medvedev a Indian Wells, ha perso anche a Miami contro Sebastian Korda, addirittura al […] L'articolo I fantasmi di Alcaraz: “Korda sopra il suo livello, con me giocano tutti così. Me ne vado a casa” proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Alcaraz stritolato dal numero uno, non può fermarsi: “Non so quanti giorni di riposo mi daranno” Dopo la sorprendente sconfitta con Korda nel torneo di Miami, Carlos Alcaraz confessa che vorrebbe fermarsi per "resettare la mente e ricaricare le batterie". Ma non può farlo: è la condanna dei numeri uno.Continua a leggere
+- **La Repubblica**: Sinner, come cambia la classifica Atp dopo il ko di Alcaraz a Miami e cosa serve per tornare n.1 Il gap tra lo spagnolo e l’azzurro resta ampio, ma in caso di successo in Florida Jannik potrebbe pensare al sorpasso sulla terra rossa
+- **Libero**: Carlos Alcaraz, lo sfogo rubato: "Me ne vado a casa!". Lo spagnolo è a pezzi Un vero colpo di scena a Miami Open: Carlos Alcaraz esce di scena al terzo turno, sconfitto da Sebastian Korda in tre set, 3-6 7-5 4-6, al termine di una partita dai continui cambi di inerzia. Lo spagnolo ha sofferto a lungo il ritmo e la solidità dell’americano, apparendo in difficoltà per quasi due set e lasciando emergere anche nervosismo verso il proprio angolo. Emblematico uno sfogo durante il secondo parziale: "Me ne vado a casa, me ne vado a casa. Al massimo posso fare un 6-3 6-4, 6-3 7-5… Di più non posso”. Per lunghi tratti Korda ha comandato il match con personalità, arrivando anche a servire per la vittoria. In quel momento però Alcaraz ha reagito, cambiando atteggiamento e alzando improvvisamente il livello, come spesso gli accade nei momenti più delicati. La partita sembrava girata definitivamente dalla parte del numero uno del mondo, capace di incrinare le certezze dell’avversario. [[ge:kolumbus:liberoquotidiano:46472194]] Nel terzo set, invece, è arrivata una nuova svolta: Korda ha ritrovato lucidità, è tornato aggressivo e ha approfittato di un altro passaggio a vuoto dello spagnolo, strappando il break decisivo e chiudendo 6-4. Per l’americano è il successo più importante della carriera, per Alcaraz un’altra battuta d’arresto inattesa dopo quella dello scorso anno contro David Goffin. Il risultato riapre anche il discorso ranking. Alcaraz sale a 13.590 punti, ma senza allungare davvero. Una frenata che può favorire Jannik Sinner, già a quota 11.450 e ora con margine per recuperare terreno: in caso di titolo a Miami arriverebbe a 12.400 punti, accorciando ancora sulla vetta mondiale. [[ge:kolumbus:liberoquotidiano:46844788]]
+
+
+## 15. Affluenza referendum record oltre il 58%: così è ripartita la partecipazione
+
+> **Context:** Con il Nord che traina e il Sud che pur non brillando dà segnali meno netti di disaffezione politica
+
+- **Corriere Della Sera**: Affluenza determinante (anche se non c'è il quorum): i precedenti e il confronto. Come andò con gli altri referendum costituzionali L'affluenza più alta alle 19 fu quella ottenuta nel 2016 dal governo Renzi. Che però, alla fine, perse.
+- **Corriere Della Sera**: Il confronto tra la percentuale di votanti del referendum 2026 con i precedenti quattro: ecco come andò con gli altri quesiti costituzionali L'affluenza più alta alle 19 fu quella ottenuta nel 2016 dal governo Renzi. Che però, alla fine, perse.
+- **La Repubblica**: Affluenza referendum, sondaggisti sorpresi: “Difficile prevedere chi sia avvantaggiato” Il tema era ostico ma la sfida ha risvegliato anche l’interesse dei più giovani
+- **ANSA**: PRIME PAGINE | Referendum, affluenza record: 46% 
+- **Fanpage.it**: L’affluenza al voto per il referendum sulla giustizia è un’ottima notizia, comunque vada a finire Il sorprendente dato sull'affluenza al referendum sulla giustizia è un dato che racconta la voglia della gente di partecipare. Un segnale inatteso e in controtendenza con i precedenti continui cali d'affluenza che fa ben sperare, in un mondo in fiamme.
+- **Il Giornale**: Affluenza record, già il 53,8% alle urne Milano otto punti sopra la media nazionale. Sinistra contro FdI ricorre al prefetto
+- **Corriere Della Sera**: Torino, il referendum in diretta: in Piemonte e in città domenica sera l'affluenza sfiorava già il 50%. Exit poll e risultati dalle 15 Votanti in crescita rispetto a tutti i precedenti referendum con due giorni di voto. Torino (provincia e capoluogo) traina il record dell'affluenza
+- **Il Post**: Al referendum sulla giustizia l'affluenza è inaspettatamente alta 
+- **Il Messaggero**: Referendum, l'Italia s'è desta: l'affluenza record e la scelta di uscire dalla caverna (e non delegare più) L'Italia s'è desta, verrebbe da dire analizzando i dati di affluenza alle urne per il referendum sulla giustizia. Ci sarà tempo e modo per approfondire cosa ha spinto la...
+- **La Repubblica**: Affluenza referendum record oltre il 58%: così è ripartita la partecipazione Con il Nord che traina e il Sud che pur non brillando dà segnali meno netti di disaffezione politica
+- **ANSA**: Referendum, i risultati in diretta - LIVEBLOG Proiezioni Opinio-Rai, il NO al 53,1% e il SI' al 46,9%. A metà dei seggi, l'affluenza è al 58,54%
+- **La Repubblica**: Referendum: a Torino avanti il No con il 59,9% In Piemonte affluenza oltre il 63%
+- **La Repubblica**: Referendum, affluenza record: seggi chiusi e risultati parziali a Roma. Per ora vince il No al 60,8% Scrutinate 1546 sezioni su 2599 e nella Capitale ilo No incassa il 60,8% contro il Si, fermo al 39,1%
+- **La Repubblica**: Milano, al referendum vince il No, in Lombardia il Sì. Sala: “Paese ora contendibile” I primi dati: affluenza alle 15 oltre il 65 per cento in città, al 63,7% in Lombardia
+- **Il Post**: L’affluenza al referendum della giustizia è stata del 59 per cento 
+
+
+## 16. Catania: arrestato Sciacca, esponente di spicco dell'area anarchica
+
+> **Context:** Condannato a Torino per la fabbricazione di un plico esplosivo
+
+- **La Stampa**: Il “fantasma” dell’Asilo Occupato tradito dal ritorno a casa: così è caduto l’anarchico Sciacca Già arrestato nel 2019 dalla Digos di Torino per fabbricazione e detenzione di ordigni, al suo attivo aveva azioni in Italia, Francia e Spagna
+- **Il Giornale**: Arrestato Giuseppe Sciacca, esponente di spicco dell’insurrezionalismo Il catanese è uno dei protagonisti del movimento anarchico italiano, con fortissimi legami con i gruppi internazionali in Spagna e Francia
+- **ANSA**: Catania: arrestato Sciacca, esponente di spicco dell'area anarchica Condannato a Torino per la fabbricazione di un plico esplosivo
+- **AGI**: Catania: arrestato l'anarchico Giuseppe Sciacca, "bombarolo internazionale" È ritenuto un esponente di spicco dell'anarchismo insurrezionalista, Giuseppe Sciacca, 47 anni, detto il 'bombarolo', vero esperto nel procurare e nel confezionare ordigni, arrestato dalla polizia di Stato di Catania poiché deve scontare la pena definitiva di 4 anni e 5 mesi di reclusione. Arrestato dalla polizia di Catania Distintosi nel tempo per numerose azioni sia in ambito nazionale sia internazionale, con episodi registrati anche in Spagna e Francia, annovera, tra i precedenti di maggior rilievo, nel 2004 il fermo di polizia giudiziaria per atto di terrorismo con ordigni micidiali o esplosivi, a seguito del lancio di due bottiglie incendiarie contro il portone della Stazione dei Carabinieri di Piazza Dante in Catania, nonché del rinvenimento di scritte murali di rivendicazione. Il video dell'arresto L'operazione "Scintilla" Nel 2008 è stato segnalato dalla Digos di Trento per accensioni pericolose, danneggiamento e lesioni personali, in occasione di una manifestazione contro la realizzazione della Cittadella Militare di Mattarello; nello stesso anno è stato tratto in arresto per il lancio di ordigni esplosivi ai danni della sede della Polizia Municipale di Parma. Nel novembre 2019 Sciacca è stato tratto in arresto in esecuzione di misura cautelare emessa quale esito delle indagini condotte dalla Digos di Torino, coordinata dalla procura, nell’ambito dell’operazione "Scintilla", che aveva portato all'esecuzione di 14 misure cautelari nei confronti di appartenenti all'area anarchica. Lo sgombero del centro sociale "Asilo" All'operazione è seguito lo sgombero del centro sociale "Asilo" e manifestazioni di protesta sfociate in ulteriori episodi di violenza. L'uomo era nel gruppo del blocco nero che fu fermato in via Aosta in possesso di un vero e proprio arsenale da utilizzare negli scontri di piazza, ed era stato denunciato insieme ad altri 120 compagni, tra cui figurano leader del movimento anarchico internazionale. L'area anarchica in Spagna Nel corso della permanenza all'estero, tra il 2021 e il 2023, è stato frenetico attivista dell'area anarchica antagonista in Spagna, venendo denunciato per allaccio abusivo alla rete elettrica presso uno stabile occupato. La sentenza di condanna dai giudici di Torino Sciacca, coinvolto in diverse operazioni in Piemonte, è stato raggiunto da un ordine di carcerazione emesso il 13 marzo dalla Procura generale presso la Corte di Appello di Torino, conseguente a sentenza di condanna pronunciata dalla Corte di Assise di Appello di Torino e confluita in un provvedimento di determinazione delle pene concorrenti del settembre 2025. Le indagini della Digos di Catania Dopo l'ordine di carcerazione a carico dell'esponente dell'area anarchica catanese, la Digos di Catania aveva avviato un’intensa e articolata attività finalizzata al rintraccio del condannato alla pena di anni 4 e mesi 5 di reclusione, oltre al pagamento della multa di 17 mila euro. Aveva soggiornato per un periodo nel capoluogo etneo, poi si era trasferito in diverse città del territorio nazionale nonché all’estero, mutando frequentemente domicilio. Nell’ultimo periodo risultava stabilitosi nella città di Roma e ulteriori elementi avrebbero indotto a ritenere che fosse in procinto di fare rientro in Sicilia. L'arresto nel centro di Catania Sono stati pertanto predisposti servizi di osservazione nei luoghi abitualmente frequentati dal Sciacca, che hanno consentito di rintracciarlo, nella serata del 21 scorso, nel centro storico di Catania, nei pressi dell’abitazione dei familiari. Bloccato dal personale della Digos, è stato condotto nel carcere di Catania. Ordigni esplosivi a Barcellona L'uomo non avrebbe mai smesso di essere attivo. Ad aprile 2021, dopo il ritrovamento di ordigni esplosivi e incendiari in immobili occupati a Barcellona, è emerso un ruolo di rilievo nel gruppo anarchico locale. Per tali fatti è stato destinatario di un mandato di arresto eseguito presso il valico di frontiera di La Junquera. Le evasioni dai domiciliari a Catania Nel settembre 2023 è stato arrestato dal Nucleo Operativo dei carabinieri di Catania per resistenza e oltraggio a pubblico ufficiale e successivamente sottoposto agli arresti domiciliari. Dopo ripetute evasioni, è stato poi recluso nel carcere di Catania e scarcerato il 28 maggio 2024 per fine pena. L'arresto, spiega la questura di Catania, si inserisce nel quadro della costante attività di prevenzione e contrasto svolta dalle Digos operanti sul territorio nazionale, sotto il costante coordinamento della Direzione Centrale della Polizia di Prevenzione.
+- **La Verità**: Arrestato Giuseppe Sciacca, esponente di spicco dell’area anarchica La Digos della Questura di Catania ha arrestato Giuseppe Sciacca, 47 anni, ritenuto esponente di spicco dell’area anarchica, in cui è noto come il «bombarolo», in esecuzione di un ordine di carcerazione emesso il 13 marzo dalla Procura generale di Torino. Deve scontare una condanna definitiva a 4 anni e 5 mesi di reclusione emessa dalla Corte d’Assise d’appello del capoluogo piemontese, confluita in un provvedimento di determinazione delle pene concorrenti del settembre 2025.Continua a leggere
+- **Libero**: Arrestato esponente anarchico a Catania, deve scontare 4 anni 
+
+
+## 17. Editoria, Antenna acquisisce il 100% di Gedi. La Stampa verso Sae
+
+> **Context:** L’accordo dopo una trattativa durata mesi. Il Cda annuncia le dimissioni
+
+- **Corriere Della Sera**: Gedi (La Repubblica): «Perfezionata la cessione del 100% al gruppo Antenna» Conclusa la lunga trattativa per la vendita del gruppo che edita il quotidiano romano. Il presidente Ceretti ringrazia i dipendenti e parla di nuove prospettive per il futuro delle testate
+- **La Stampa**: Editoria, Antenna acquisisce il 100% di Gedi. La Stampa verso Sae L’accordo dopo una trattativa durata mesi. Il Cda annuncia le dimissioni
+- **ANSA**: Ceretti ai dipendenti Gedi, perfezionata cessione del 100% al gruppo Antenna K Group, proprietaria di Antenna Group: 'Rafforzeremo una realtà indipendente di primo piano nell'informazione'
+- **Il Giornale**: Antenna Group acquista il 100% di Gedi con Repubblica, Radio Deejay e altre testate Il quotidiano La Stampa, invece, è oggetto di un accordo per la vendita al Gruppo Sae. Mirja Cartia d’Asero assumerà il ruolo di amministratore delegato
+- **La Repubblica**: Elkann: “Garantito un futuro di libertà a Repubblica e Stampa” Il ceo di Exor: “Il gruppo Antenna è fortemente sviluppato a livello internazionale e ha grande esperienza sull'innovazione multimediale”
+- **La Repubblica**: Antenna acquista il gruppo Gedi: "Investiremo su Repubblica e ne garantiremo l'indipendenza" Exor cede il 100% del gruppo editoriale a K Group. Nell’operazione sono inclusi le radio Radio Deejay, Radio Capital, m2o, insieme a HuffPost Italia, National Geographic Italia, Limes e la concessionaria pubblicitaria Manzoni
+- **Il Post**: Il gruppo GEDI è stato venduto 
+
+
+## 18. Ambulanze di un ente ebraico a fuoco a Londra, per polizia è 'atto antisemita'
+
+> **Context:** L'incendio nel quartiere di Golders Green. Starmer, 'sconvolgente'
+
+- **La Stampa**: Ambulanze di un ente ebraico a fuoco a Londra nella notte, per la polizia è un “atto antisemita” L’incendio all’esterno di una sinagoga nel quartiere di Golders Green. Starmer: «Sconvolgente»
+- **Il Fatto Quotidiano**: Ambulanze incendiate a Londra, attacco nella comunità ebraica di Golders Green. Starmer: “Sconvolgente” Un incendio doloso ha colpito nella notte il quartiere di Golders Green, nel nord di Londra, dove si trova una delle più grandi comunità ebraiche della capitale britannica. Quattro ambulanze appartenenti a un’organizzazione di volontariato per il soccorso sono state date alle fiamme in quello che la polizia sta trattando come un attacco antisemita. Le […] L'articolo Ambulanze incendiate a Londra, attacco nella comunità ebraica di Golders Green. Starmer: “Sconvolgente” proviene da Il Fatto Quotidiano.
+- **Corriere Della Sera**: Londra, incendiate quattro ambulanze della comunità ebraica. Starmer: «Attacco antisemita scioccante» L’attentato, che non ha fatto vittime, è avvenuto a Golders Green. Il gesto è stato rivendicato dal gruppo Ashab al-Yamin
+- **La Stampa**: Londra, attentato antisemita: le immagini delle ambulanze della comunità ebraica carbonizzate Quattro mezzi di soccorso di un'organizzazione comunitaria ebraica nel nord di Londra sono stati dati alle fiamme durante la notte in quello che il primo ministro britannico Keir Starmer ha definito "un attacco incendiario antisemitico profondamente scioccante". Il drone ci mostra dall'alto i resti carbonizzati dei mezzi. I Vigili del Fuoco di Londra hanno impiegato sei autopompe e 40 uomini sul posto per sedare l'incendio moltiplicato dalle bombole esplose nei veicoli. Un boato che ha frantumato i vetri di un edificio adiacente. Non ci sono feriti. L'intelligence inglese fa sapere che l'attacco vicino alla sinagoga Golders Green è stato rivendicato da un collettivo militante multinazionale allineato all'Iran, chiamato Movimento Islamico del Popolo della Mano Destra. Il gruppo era stato responsabile di incendi simili in Belgio, Grecia e Paesi Bassi.
+- **ANSA**: Ambulanze di un ente ebraico a fuoco a Londra, per polizia è 'atto antisemita' L'incendio nel quartiere di Golders Green. Starmer, 'sconvolgente'
+- **La Repubblica**: Londra, ambulanze a fuoco davanti alla sinagoga. Starmer: “Orrendo atto antisemita” Il rogo nel quartiere di Golders Green, che ospita la più grande comunità ebraica della città. Rivendicazione di un gruppo sciita filo Teheran. “Forse una vendetta per i raid sull’Iran”
+- **Libero**: Londra, a fuoco ambulanze comunità ebraica, la condanna di Starmer 
+
+
+## 19. Israele: “Attacchiamo su larga scala le infrastrutture di Teheran”
+
+> **Context:** Trump conferma la visita in Israele. Idf: «I missili contro Israele sono stati intercettati»
+
+- **Corriere Della Sera**: Iran, Israele: «Attacchiamo su larga scala». L'Aie: «Crisi energetica senza precedenti» | Sull'energia la sfida degli Ayatollah a Trump Le Guardie della Rivoluzione: «Risponderemo a ogni minaccia». Il direttore dell'Agenzia internazionale per l'energia: «Colpiti 40 stabilimenti in tutto il Medio Oriente». Scontro tra repubblicani negli Usa sull'attacco via terra
+- **Corriere Della Sera**: Guerra in Iran, le ultime notizie in diretta | Il ministro di Teheran: «Vogliamo fine duratura del conflitto». Missili contro Israele, Idf: «Intercettati». L'Aie: «Si rischia una crisi energetica senza precedenti» Le notizie di lunedì 23 marzo sull'attacco di Stati Uniti e Israele all'Iran, in diretta. Le Guardie della Rivoluzione: «Risponderemo a ogni minaccia». Il direttore dell'Agenzia internazionale per l'energia: «Colpiti 40 stabilimenti in tutto il Medio Oriente»
+- **La Repubblica**: Guerra in Iran, le news di oggi. “Missile iraniano colpisce in Libano”. Trump conferma la visita in Israele. Raid su Teheran Ultimatum del presidente Usa, ma gli ayatollah rilanciano. Kushner e Witkoff cercano di riannodare la trattativa
+- **La Stampa**: Israele: “Attacchiamo su larga scala le infrastrutture di Teheran” Trump conferma la visita in Israele. Idf: «I missili contro Israele sono stati intercettati»
+- **ANSA**: L'Iran pone 6 condizioni per la fine della guerra. Netanyahu: 'Teheran ha provato di essere è un pericolo per il mondo' - La Giornata del 22 marzo Gli Emirati Arabi Uniti hanno risposto al lancio di attacchi aerei da parte dell'Iran. Esplosioni a Gerusalemme
+- **Fanpage.it**: Iran, la guerra in diretta: Idf: “Intercettati missili da Teheran”, i Pasdaran: “Risponderemo a ogni minaccia” Le ultime news dalla guerra in Iran dopo l'attacco di Israele e USA di oggi lunedì 23 marzo: si rischia una ulteriore escalation in Medioriente dopo l'ultimatum di Trump a Teheran: "Se non apre Hormuz colpiremo le centrali elettriche". I Pasdaran: "Se rete energetica attaccata risponderemo". Missili contro Israele, Idf: "Intercettati".
+- **Fanpage.it**: Le notizie del 22 marzo sulla crisi in Iran Iran dopo l'attacco di Israele e USA, Trump minaccia Teheran: "Se Hormuz non riapre entro 48 ore, colpiremo le centrali". La risposta: "Distruggeremo infrastrutture USA". L'Iran pone 6 condizioni per la fine della guerra. Attacco su Tel Aviv: "15 feriti".
+- **Il Giornale**: Missili su Tel Aviv e Israele avverte l'Iran: "Attacco su vasta scala contro Teheran" Nella notte raid israeliani su Teheran e altre città iraniane, con danni anche a un ospedale ad Ahvaz. Teheran lancia missili verso Israele e minaccia di colpire centrali elettriche e basi Usa
+- **ANSA**: Teheran: 'Se attaccate le coste, mineremo tutto il Golfo Persico' - LIVEBLOG Israele, intercettati missili lanciati dall'Iran. L'Iran non cede all'Ultimatum. Trump si prepara al negoziato
+
+
+## 20. Referendum, Meloni "Occasione persa, ma rispettiamo la decisione degli italiani"
+
+- **La Repubblica**: Meloni, ore di tensione per il referendum. Si alza la posta in gioco, legge elettorale in ballo L’exploit di votanti politicizza l’esito per Palazzo Chigi. In ogni caso incognita al ministero, rischia Delmastro
+- **La Stampa**: L'affluenza alta e il voto pro o contro Meloni Chi avrà vinto il referendum lo capiremo solo oggi, dopo l’apertura delle urne. Ma per una volta, chiunque abbia favorito, rallegriamoci dell’alta affluenza.
+- **La Stampa**: Meloni, il verdetto è politico: stabilità a rischio o volata finale Con la vittoria al referendum il centrodestra potrà rilanciare le riforme, con la sconfitta cambia tutto
+- **ANSA**: Referendum, Meloni: "Affluenza? Democrazia e' buona notizia" La premier al voto per il referendum sulla Giustizia
+- **Libero**: Meloni ai cronisti dopo il voto per referendum giustizia: Lo sapete che non vi posso rispondere oggi 
+- **Libero**: Referendum, Meloni: "Affluenza? Democrazia è buona notizia" 
+- **Libero**: Referendum Giustizia, Meloni vota a Spinaceto e Schlein a Testaccio 
+- **Corriere Della Sera**: Meloni: «Rispettiamo la decisione degli italiani, ma andiamo avanti» 
+- **ANSA**: Meloni: "Rispettiamo la decisione degli italiani, andremo avanti" La premier in un videomessaggio sui social dopo la vittoria del "No" nel referendum sulla giustizia
+- **Adkronos**: Referendum, Meloni: "Rispettiamo decisione degli italiani. Avanti con determinazione, impegno non cambia" La premier: "Resta chiaramente il rammarico per un'occasione persa di modernizzare l'Italia". Nordio: "Non attribuiamo al voto un significato politico, bene alta partecipazione"
+- **Libero**: Referendum, Renzi: Meloni anatra zoppa, suoi dubiteranno di lei 
+- **Libero**: Referendum, Bonelli: Meloni andrà avanti? "Inaccettabile" 
+- **Libero**: Referendum, Meloni "Occasione persa, ma rispettiamo la decisione degli italiani" 
+- **Libero**: Referendum, Meloni: "Rispetto scelta degli italiani, occasione persa" 
+- **Libero**: Referendum giustizia, Schlein: Costruire alternativa, vittoria del No è messaggio per Meloni 
+- **Libero**: Referendum, Bonelli:Meloni arrogante, uniti per mandare destra a casa 
+- **Libero**: Referendum, Schlein "Bloccata riforma sbagliata, ora costruire l'alternativa" 
+- **Libero**: Referendum giustizia, Bonelli: Sconfitta per Meloni, incredibile che abbia detto che andrà avanti 
+- **Libero**: Referendum, Schlein: "Messaggio chiaro a Meloni, governo rifletta" 
+- **Libero**: Referendum giustizia, Meloni: La sovranità appartiene al popolo, rispettiamo il verdetto 
+
+
+
+</clustered_headlines>
+
+
+<other_headlines>
+<article source="AGI" date="Mon, 23 Mar 2026 18:43:32 GMT">
+A Roma la festa del NO al referendum, "L'Italia che resiste"
+Esplode a Roma la gioia dei sostenitori del 'No' al referendum. Piazza Barberini si è riempita per la manifestazione convocata dalla CGIL per celebrare la vittoria del voto contrario alla riforma della giustizia. Tante le bandiere del Pd, della CGIL, di Potere al Popolo per una grande festa di coloro che hanno sostenuto il fronte del no. Tra i tanti presenti spicca uno striscione degli studenti universitari che recita "L'Italia che resiste". Ci sono poi cori contro la premier Meloni: "Deve andare a casa" urlano i manifestanti sotto una leggera pioggia. Un altro coro chiede le "dimissioni" della premier. Poi la canzone "C'è chi dice no" di Vasco Rossi scandita dal corteo organizzato dalla Cgil, partito da piazza Barberini in direzione piazza del Popolo, per festeggiare la vittoria del no al referendum. Altro coro ripetuto soprattutto dai manifestanti più giovani "Angurie sì, Meloni no'. Gualtieri: bocciata una riforma sbagliata Presente in piazza anche il sindaco di Roma Roberto Gualtieri che ha detto ai cronisti: "È stata bocciata una riforma sbagliata fatta anche con un metodo inaccettabile. È molto importante che i cittadini siano andati a votare perché con il loro voto hanno detto che la Costituzione non si cambia a colpi di maggioranza, hanno bocciato un atteggiamento sbagliato e arrogante di fare le riforme". "Una partecipazione così alta è stata un 'no' non solo a una riforma della giustizia sbagliata, ma anche a un metodo inaccettabile per cambiare la Costituzione", ha insistito Gualtieri che poi ha aggiunto: "I cittadini hanno detto chiaramente che la giustizia non si riforma a colpi di maggioranza, senza ascoltare i soggetti della riforma, in questo caso tutta la magistratura. C'è stato un messaggio forte e chiaro al Paese", ha concluso evidenziando come "a Roma ci sia stata un'affermazione molto ampia del No". Il messaggio di Maurizio Landini A piazza Barberini anche il segretario della CGIL Maurizio Landini che, dal palco allestito su un camion, ha parlato ai manifestanti: "È una giornata bellissima, l'inizio di una nuova primavera. Ancora una volta il popolo italiano ha ribadito che la Costituzione non si tocca ma si applica. Questa giornata dice anche un'altra cosa: questo governo non rappresenta la maggioranza del Paese. Il governo abbia l'umiltà di ascoltare questo voto, dice che i cittadini vogliono partecipare. E vogliono dire no alla guerra, sotto ogni forma e ogni mentita spoglia. Anziché un plebiscito per il governo è venuta forte una domanda di cambiamento".
+</article>
+<article source="AGI" date="Mon, 23 Mar 2026 17:30:31 GMT">
+Epatite A, 24 casi in provincia di Latina: attivata task force della Asl
+Un incremento dei casi di Epatite A si è registrato negli ultimi giorni in provincia di Latina. Ad oggi, riferisce la Asl, le segnalazioni risultano complessivamente 24, distribuite nelle città di Aprilia, Fondi, Formia, Latina, Sabaudia, Sermoneta, Campodimele, Priverno, Lenola, e Terracina. I pazienti ricoverati sono attualmente 6, tutti in condizioni stabili e in reparti ordinari. La ASL di Latina ha immediatamente attivato tutte le misure necessarie per contenere la diffusione del virus e tutelare la salute pubblica. È stata prontamente istituita una task force aziendale multidisciplinare, coordinata dalla Direzione Generale e composta dal Dipartimento di Prevenzione, il Servizio di Igiene e Sanità Pubblica (Sisp), la Struttura di Igiene Alimenti di origine animale, nonché l'Unità Operativa Complessa di Malattie Infettive, in costante coordinamento con il SeReSMI (Servizio Regionale per la sorveglianza delle malattie infettive) e l'Area Promozione Salute e Prevenzione della Regione Lazio. Controlli e comunicazioni per la prevenzione Tra le attività già realizzate rientrano la pianificazione e l'esecuzione di rigorosi controlli negli esercizi di ristorazione e in punti vendita della provincia pontina. L'Azienda, inoltre, ha inviato ai Comuni della provincia pontina e all'Ufficio scolastico provinciale di Latina comunicazioni dettagliate sulle misure di prevenzione e contenimento del virus da attuare. Parallelamente, i Medici di medicina generale e i Pediatri di libera scelta, i primi ad avere il contatto con i pazienti, sono stati informati sulle buone prassi da diffondere ai cittadini sull'igienizzazione accurata delle mani e sul consumo di alimenti opportunamente lavati, evitando il consumo di cibo crudo o poco cotto. Monitoraggio della filiera dei molluschi È in fase di valutazione con la Regione Lazio l'attivazione un piano di monitoraggio straordinario degli allevamenti di molluschi del territorio per un ulteriore rafforzamento delle attività di controllo lungo l'intera filiera dei molluschi bivalvi. La ASL di Latina continuerà a monitorare attentamente l'evoluzione della situazione, mantenendo attivi i canali di comunicazione e la cooperazione interistituzionale per l'attuazione di interventi strategici ed integrati di prevenzione, controllo ed informazione chiara e tempestiva ai cittadini.
+</article>
+<article source="AGI" date="Mon, 23 Mar 2026 11:04:05 GMT">
+Valanghe killer, l'Italia è il paese in Europa con più morti
+Sono 37 le persone morte sulle montagne italiane a causa di valanghe in questa stagione invernale che ormai sta volgendo al termine. I dati resi noti dall'European Avalanche Warning Services, che si aggiornano ad ogni primo ottobre, evidenziano che nella stagione 2025/2026 sulle montagne italiane sono morti più scialpinisti ed escursionisti rispetto ad altre nazioni. Il valore è stato aggiornato a seguito della slavina di sabato scorso in Val Ridanna in Alto Adige. Due scialpinisti altoatesini erano stati estratti senza vita dalla massa nevosa e una donna bresciana di 26 anni è successivamente deceduta in ospedale. Una quarta vittima, cittadina austriaca, è stata trovata dopo due giorni di ricerca in Valle Aurina. Il primo incidente della stagione Il primo incidente della stagione in Italia era stato quello del 1 novembre 2025 sulla Cima Vertana, sempre in Alto Adige, ed è stato anche quello con il bilancio più pesante: una valanga ha ucciso cinque persone. Il bilancio europeo attuale Il dato di 37 vittime è il più alto in Europa negli ultimi sei anni. Gli incidenti segnalati in Europa sono stati oltre 130. In Francia sono morte 31 persone causa valanghe, in Austria 29, in Svizzera 16, in Spagna 8. Il primato della stagione 2024/2025 Nella stagione 2024/2025 il triste primato era della Francia con 21 vittime seguita da Svizzera con 20 e Italia con 11.
+</article>
+<article source="AGI" date="Sun, 22 Mar 2026 20:26:02 GMT">
+Caso Garlasco: una nuova perizia cambia l'ora della morte di Chiara Poggi
+Possibile svolta nel caso del delitto di Garlasco: un'esclusiva del Tg1, andata in onda nell'edizione delle 20 del telegiornale, riferisce di alcune indiscrezioni che permetterebbero di cambiare l'orario della morte di Chiara Poggi, uccisa in casa il 13 agosto 2007. La perizia dell'anatomopatologa Cristina Cattaneo, depositata in Procura, avrebbe stabilito infatti che quel giorno la 26enne sarebbe stata uccisa almeno mezz'ora dopo aver fatto colazione, circostanza che se confermata potrebbe spostare in avanti l'ora del delitto e mettere quindi in discussione l'arco temporale in cui la sentenza di condanna dell'allora fidanzato Alberto Stasi colloca l'omicidio. Il caso Stasi e la sentenza In passato infatti si è parlato di un'azione fulminea, di un'aggressione rapida e violenta durata solo pochi minuti. Elementi che hanno avuto la loro influenza anche sulla compatibilità dell'alibi di Stasi, assolto nei primi due gradi di giudizio tra il 2009 e il 2011 e poi, a seguito dell'annullamento della sentenza da parte della Cassazione, condannato a 16 anni di reclusione nel processo d'appello bis. Decisione resa definitiva dalla stessa Suprema Corte nel 2015. La colluttazione e il dna di Andrea Sempio Dall'accertamento peritale, inoltre, emergerebbero anche i segni di una violenta e prolungata colluttazione che potrebbero dare un peso diverso alle tracce di dna trovate sulle unghie di Chiara, che secondo la nuova inchiesta condotta dalla procura di Pavia sarebbero riconducibili ad Andrea Sempio, in passato due volte indagato e due volte archiviato.
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 19:39:49 +0100">
+Referendum, i risultati in diretta. Vince il No con una maxi-affluenza. Meloni: 'E' stata un'occasione persa, ma andiamo avanti'. Schlein: 'C'è l'alternativa' - LIVEBLOG
+L'affluenza definitiva in Italia sfiora il 59%
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 19:22:14 +0100">
+Gattuso: 'Serenità e zero alibi, questa Italia merita una gioia'
+Missione mondiali, il ct: 'Ho fiducia nei ragazzi, non sono degli scappati di casa'
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 19:14:49 +0100">
+Borse europee sull'ottovolante, chiudono positive dopo Trump, crolla il petrolio
+L'Europa recupera ma non troppo. Si allenta la tensione sui titoli di Stato
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 19:14:29 +0100">
+Scontro in pista, due morti all'aeroporto Laguardia di New York
+Un aereo di Air Canada contro un mezzo dei vigili del fuoco, morti il pilota e il copilota
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 19:12:15 +0100">
+Il 100% di Gedi al gruppo greco di Antenna
+L'annuncio ai dipendenti del presidente della società, Paolo Ceretti. Il gruppo acquirente: 'Rafforzeremo una realtà indipendente di primo piano nell'informazione'
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 18:49:55 +0100">
+Niente decadenza per Todde, ma resta la sanzione da 40mila euro
+La Corte d'Appello di Cagliari: 'Violazioni rilevanti' sui rendiconti elettorali
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 18:49:31 +0100">
+Trump: "Accordo su 15 punti, l'Iran ha accettato di non avere l'atomica. In corso un cambio di regime"
+La minaccia: 'Se attaccate le coste, mineremo tutto il Golfo Persico'. Ipotesi di un negoziato Iran-Usa, ma Teheran smentisce. Allerta mondiale degli Usa ai suoi cittadini: 'potrebbero colpirvi'.
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 18:46:24 +0100">
+Funziona l'esofago coltivato in laboratorio, il test nei maiali
+3 o 4 anni per i test sugli esseri umani. La ricerca in UK, guidata da un italiano
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 18:40:33 +0100">
+Il blitz di Poste su Tim, 'stand alone e più aggressiva'
+Opas al via da luglio, la borsa si adegua all'offerta e premia Tim
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 18:11:00 +0100">
+Restaurare la natura, da salvaguardia ad opportunità di sviluppo
+Ansaincontra con Massimo Labra (Nbfc) ed Enrico Giovannini (ASviS)
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 17:38:16 +0100">
+L'Anm: 'Il risultato del voto è un punto di partenza'. Cesare Parodi si dimette da presidente
+'Oggi è un bel giorno per tutto il Paese, abbiamo protetto la Costituzione'
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 15:54:22 +0100">
+In arrivo a passo Gardena la Ztl contro l'overtourism
+Dall'estate 2027 aperto solo a residenti, artigiani e grossisti
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 13:14:00 +0100">
+Piombo oltre i limiti nei vestiti low cost per i bambini
+Studio Usa, 'i piccoli sono i più vulnerabili e hanno l'abitudine a metterli in bocca'
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 12:53:21 +0100">
+Imprese Vincenti, a Venezia la tappa del tour delle pmi eccellenti
+All'M9 di Mestre vengono premiate 10 aziende del Veneto orientale e del Friuli Venezia Giulia
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 12:16:04 +0100">
+Settimana Santa a Gerusalemme, non ci sarà la processione delle Palme
+Rinviata anche la messa del Crisma. Altre decisioni giorno per giorno
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 12:00:08 +0100">
+Allarme Onu, nel 2025 la Terra ha accumulato livelli di calore record
+Guterres: 'Tutti i principali indicatori lampeggiano in rosso'
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 11:21:16 +0100">
+È la Giornata Mondiale della Meteorologia
+Italia primo paese a sviluppare una rete internazionale di osservazioni meteo
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 10:22:34 +0100">
+Sabrina Ferilli racconta a Fazio la sua 'notte prima degli esami'
+L'attrice a Che Tempo Che Fa ricorda la sua adolescenza tra scuola e primi amori
+</article>
+<article source="ANSA" date="Sun, 22 Mar 2026 22:34:03 +0100">
+Turbanti, mostra fotografica con modelli speciali
+Nella Casa Museo Villino Boncompagni Ludovisi dal 23/3 al 30/4
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 12:39:00 +0100">
+L'accordo Ue-Mercosur entrerà in vigore l'1 maggio in via provvisoria
+Bruxelles ha notificato l'applicazione ai Paesi sudamericani
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 13:25:04 +0100">
+L'endometriosi influenza studi e lavoro di una paziente su quattro
+Studio della Cattolica. Colpite 1,8 milioni di italiane, diagnosi spesso in ritardo
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 09:31:33 +0100">
+Effetto bruciagrassi innescato da batteri dell'intestino e dieta
+Il meccanismo che riprogramma il tessuto adiposo apre a nuove terapie
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 09:32:18 +0100">
+Due donne travolte e uccise, arrestato il 34enne alla guida ubriaco
+L'incidente ieri sera: una vittima morta sul colpo, l'altra in ospedale
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 08:59:48 +0100">
+Trovata la regione del cervello che fa predicare bene e razzolare male
+Valuta onestà e tornaconto personale per guidare le nostre azioni
+</article>
+<article source="ANSA" date="Sun, 22 Mar 2026 20:56:10 +0100">
+Dalle bollette alla legge elettorale, i dossier che si aprono ora
+Sei i decreti in ballo, anche il dl sicurezza. Le opposizioni chiedono Delmastro in Antimafia
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 12:41:57 +0100">
+Milano gira a +2,45% con le parole di Trump, lo spread giù a 84 punti. Il petrolio sale ancora
+La quotazione del greggio cresce dello 2,49%. Il brent passa di mano a 113,70 dollari. Crescono anche i prezzi dei carburanti
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 11:45:11 +0100">
+Borse europee in rosso con la guerra in Iran, lo spread vola a 101 punti, il petrolio sale ancora
+La quotazione del greggio cresce dello 2,49%. Brent passa di mano a 113,70 dollari. Borsa europea attesa in rosso. Crescono anche i prezzi dei carburanti
+</article>
+<article source="ANSA" date="Sun, 22 Mar 2026 23:02:09 +0100">
+Informativa ai pm, al vaglio carte sequestrate ad anarchici
+Si indaga sulla rete dei fiancheggiatori. Rai, gravissima aggressione a troupe Tgr Lazio
+</article>
+<article source="ANSA" date="Sun, 22 Mar 2026 22:05:43 +0100">
+Nel borgo dei murales 'aiuto compiti' gratis per bambini e ragazzi
+Iniziativa del Comune abruzzese di Aielli con una cooperativa, due appuntamenti settimanali
+</article>
+<article source="ANSA" date="Mon, 23 Mar 2026 09:34:08 +0100">
+Così i batteri possono viaggiare tra i pianeti
+Scagliati via dagli impatti di asteroidi
+</article>
+<article source="Adkronos" date="Mon, 23 Mar 2026 17:17:00 +0100">
+A Savona il primo alloggio Aisla per persone con Sla e famiglie
+Sulla spiaggia pubblica dello Scaletto senza scalini la posa del primo mattone de 'La casa di Silvia'
+</article>
+<article source="Adkronos" date="Mon, 23 Mar 2026 15:37:47 +0100">
+Lutto per Igor Tudor, il padre muore durante la gara del Tottenham
+Il cordoglio di Lazio e Juventus, dove è stato allenatore
+</article>
+<article source="Adkronos" date="Mon, 23 Mar 2026 15:10:36 +0100">
+Formula 1, il titolo è una lotta tra le Mercedes: Antonelli sfida Russell
+L’italiano campione del mondo a 3,50 su Sisal.it
+</article>
+<article source="Adkronos" date="Mon, 23 Mar 2026 14:51:00 +0100">
+Salute: turismo dentale per 200mila italiani, l'esperto: "Non è solo per questione di prezzo"
+Max Calore, Ceo di DentaLead: "Odontoiatra italiano mediamente più preparato ma servono nuove strategie comunicative"
+</article>
+<article source="Adkronos" date="Mon, 23 Mar 2026 13:43:59 +0100">
+Too Hot to Handle Italia, la seconda stagione con Selvaggia Lucarelli: quando arriva
+La seconda stagione in arrivo prossimamente su Netflix
+</article>
+<article source="Camera Dei Deputati - Ultimi Temi" date="Mon, 23 Mar 2026 12:00:00 GMT">
+Roma Capitale
+E' all'ordine del giorno della Camera dei deputati il disegno di legge costituzionale A.C. 2564-A recante disposizioni in materia di competenze legislative e ordinamento di Roma Capitale. Il provvedimento, presentato dal Governo alla Camera il 5 agosto 2025, è stato esaminato dalla I Commissione che l'11 marzo 2026, con l'approvazione di un unico emendamento del Governo, ha deliberato di conferire ai relatori il mandato a riferire favorevolmente all'Assemblea. Per approfndire si veda il dossier del Servizio Studi della Camera.
+</article>
+<article source="Il Foglio" date="Mon, 23 Mar 2026 10:05:00 GMT">
+Una gondola con la gigantografia di Navalny a Venezia: chi dice sì alla flotilla fogliante
+Sul Foglio di sabato scorso Giuliano Ferrara e Pierluigi Battista hanno scritto una lettera-appello “solo per comunicare ai lettori del Foglio che il 9 maggio, a Venezia, lo stesso giorno dell’apertura del Padiglione russo alla Biennale, avremmo intenzione di affittare una gondola Uber con a bordo, in bella evidenza, una gigantografia di Navalny, assassinato dagli scherani di Putin. Chi volesse unirsi a questa modesta testimonianza a favore della libertà d’espressione e della libertà della cultura e dell’arte censurate darebbe più forza alla nostra piccola e pacifica flotilla”. Il direttore del Foglio Claudio Cerasa è stato il primo a aderire all’iniziativa (“Vengo anche io!”). Molti altri se ne sono aggiunti in queste ore scrivendo a lettere@ilfoglio.it. Ecco un primo elenco. Caro direttore, aderisco con sollievo alla “gondola per Navalny”, proposta da Ferrara e Battista. La Biennale è per il dissenso. Antonio Polito Aderisco appello Pigi. Tutti in gondola. Carlo Calenda Anch’io aderisco convintamente alla iniziativa in oggetto. Davide Corniolo Aderisco all’iniziativa segnalatami dall’amico Pierluigi Battista. Con stima. Chiara Viale Ci sarei anch’io se non fossi altrove. Andrea Graziosi Aderisco. Ferdinando Adornato Aderisco con grande piacere all’iniziativa di Pigi e Ferrara! Simone Lenzi Aderisco con entusiasmo. Non so se potrò essere fisicamente con voi (mi farebbe molto piacere) ma SLAVA UKRAINI. Roberto Burioni Caro direttore, per il 9 maggio mi riservi un posto sulla gondola Navalny. Liberi loro di esporre, liberi noi di protestare: la differenza tra Venezia e San Pietroburgo, dove non si potrebbe fare né una cosa, né l’altra. Ivan Scalfarotto, senatore di Italia Viva Buongiorno, voglio esserci anche io… sono felice della iniziativa. Patrizia Baldi Buongiorno, aderisco volentieri all’iniziativa per Navalny. Grazie. Flaminia Sabatello Ricordare Aleksej Anatol’evic Naval’nyj è un dovere per tutti coloro che si battono per la democrazia e la libertà. Cristiano Kucich Aderisco alla proposta di Giuliano Ferrara e Pierluigi Battista per il 9 maggio. Michele Magno Aderisco all’appello lanciato sabato da Pierluigi Battista e Giuliano Ferrara. Alfredo Nazzaro Gentili amici, aderisco all’iniziativa della gigantografia di Navalny sulla gondola. Cordiali saluti. Massimo Marongiu Il 9 maggio, a Venezia, lo stesso giorno dell’apertura del Padiglione russo alla Biennale, l’idea di far navigare una gondola Uber con a bordo, in bella evidenza, una gigantografia di Navalny, assassinato dagli scherani di Putin, è meravigliosa. Voglio unirmi a questa modesta testimonianza a favore della libertà d’espressione e della libertà della cultura e dell’arte censurate darebbe più forza alla nostra piccola e pacifica flotta. Ci sarò anche io! Riccardo Musmeci Buonasera, vengo anche io! Ci sarò! Tiziana Della Rocca Aderisco! Lorenzo Zunino, Comitato Giustizia Sì Marche Aderisco all’iniziativa del 9 maggio contro la partecipazione russa alla Biennale di Venezia 2026. Silvia Pian W Navalny. Grazie al Foglio. Monica Mondo Aderisco all’iniziativa della Gondola con la gigantografia di Navalny a Venezia. Un cordiale saluto. Gustavo Micheletti Aderisco con entusiasmo. Gabriele Tagliaventi Ottima idea… Sottoscrivo! Marco Mei Aderisco. Roberto Trovato Io ci sono. Pierpaolo Achilli Aderisco all’iniziativa di Battista e Ferrara per la gondola con la gigantografia di Navalny a Venezia. Alessandro Agostinelli Sono una lettrice del Foglio e ho apprezzato la vostra iniziativa di organizzare una manifestazione di dissenso durante la Biennale di Venezia con Aleksei Navalny come icona principale. Qualora l’iniziativa dovesse andare in porto, e me lo auguro, vorrei offrire una illustrazione a matita che realizzai nel 2021 (il 22 aprile, probabilmente accadde a Navalny qualcosa che ora non ricordo; a quell’epoca ero immersa in una specie di serie di ritratti politici sulla base delle notizie del giorno). L’illustrazione è mia e originale, ispirata a una sua fotografia; mi colpisce per quell’espressione tra il severo e lo spaventato, lì in fondo agli occhi, sentimento di consapevolezza ben celato (fino alla morte) dietro tanta fermezza ed ironia. Spero di fare cosa gradita. Federica di Lascio Aderisco. Mario Taddeucci Sassolini Aderisco alla gondola per Navalny. Orietta Breschi Confermo che se mi sarà possibile sarò o in presenza o idealmente sulla gondola di Ferrara e Battista a Venezia. Enrico Vanzina Io ci sto, alla grande!!!! Angelo Filisetti Lodevole iniziativa. Una gondola davanti alla riva prospicente i padiglioni però sarebbe pericolosamente esposta al moto ondoso, bisognerebbe trovarle una posizione adeguatamente protetta. Mario Piovesan
+</article>
+<article source="Il Post" date="Mon, 23 Mar 2026 17:41:19 GMT">
+Speciale – Non era un ultimatum
+</article>
+<article source="Il Post" date="Mon, 23 Mar 2026 15:21:20 GMT">
+Trump ha rimandato la scadenza dell’ultimatum all’Iran
+</article>
+<article source="Il Post" date="Mon, 23 Mar 2026 14:53:17 GMT">
+A Tirana, in Albania, ci sono state nuove proteste antigovernative
+</article>
+<article source="Il Post" date="Mon, 23 Mar 2026 12:14:04 GMT">
+Il valore delle azioni legate ai BTS è diminuito, dopo che il loro primo concerto dal 2022 è stato meno partecipato del previsto
+</article>
+<article source="Il Post" date="Mon, 23 Mar 2026 10:45:48 GMT">
+I risultati del referendum sulla giustizia, in diretta
+</article>
+<article source="Il Post" date="Mon, 23 Mar 2026 10:11:44 GMT">
+Le donne abbandonate in montagna dai partner parlano di “divorzio alpino”
+</article>
+<article source="Il Post" date="Mon, 23 Mar 2026 09:19:57 GMT">
+In Grecia è infine cominciato il processo sull'incidente ferroviario del 2023 in cui morirono 57 persone
+</article>
+<article source="Il Post" date="Mon, 23 Mar 2026 08:27:49 GMT">
+La diretta video del Post sui risultati del referendum
+</article>
+<article source="Il Post" date="Mon, 23 Mar 2026 08:06:49 GMT">
+Il nuovo piano di Bologna per riattivare “città 30”
+</article>
+<article source="Il Post" date="Mon, 23 Mar 2026 07:29:52 GMT">
+Il secondo turno delle elezioni locali in Francia è stato una vittoria per i Socialisti
+</article>
+<article source="Il Post" date="Mon, 23 Mar 2026 07:10:53 GMT">
+Ep. 433 – Un amore ucciso a Gaza
+</article>
+<article source="Il Post" date="Sun, 22 Mar 2026 21:38:50 GMT">
+Poste Italiane vuole comprarsi tutta TIM
+</article>
+<article source="Il Post" date="Mon, 23 Mar 2026 08:21:04 GMT">
+I video di Shia LaBeouf esagitato a Roma
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Mon, 23 Mar 2026 16:09:07 GMT">
+Incentivi a imprese e professionisti: le novità 2026 e il quadro
+In edicola giovedì 26 marzo con Il Sole 24 Ore al prezzo complessivo di 3 euro
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Mon, 23 Mar 2026 14:01:00 GMT">
+Referendum, vittoria del No con il 54%. Meloni: rispettiamo la decisione degli italiani. Schlein: c’è maggioranza alternativa, disponibile a primarie
+L’affluenza si attesta al 58,9%. L’affluenza più alta in Emilia-Romagna (66,7%) e quella più bassa in Sicilia (46,2%).
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Mon, 23 Mar 2026 12:57:56 GMT">
+Il Papa: «Si bombarda ancora. Nessuno dovrebbe aver paura che dal cielo arrivi la morte»
+Udienza dal pontefice di dirigenti e personale di ITA a pochi giorni dal lungo viaggio in Africa. Quella dei voli papali è una tradizione avviata nel 1964 da Paolo VI
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Mon, 23 Mar 2026 12:38:07 GMT">
+In calo precipitazioni e risorsa idrica rinnovabile
+L’andamento emerge dalle valutazioni prodotte dall’Ispra con il modello Bigbang e riguarda il periodo che dal 1951 arriva al 2025
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Mon, 23 Mar 2026 10:14:09 GMT">
+Export, dazi a effetto basso: il 60% dell’import strategico da Paesi a rischio
+Una piccola burrasca, certamente non l’uragano che in molti avevano pronosticato. L’Istat, nella nuova edizione del Rapporto sulla competitività dei settori produttivi, ridimensiona i timori sull’impatto dei dazi...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Mon, 23 Mar 2026 06:11:33 GMT">
+Ora legale, lancette in avanti tra sabato e domenica. Al via l’iter per renderla permanente
+Conto alla rovescia per l’arrivo dell’ora legale che scatterà tra sabato 28 marzo e domenica 29 marzo. Potrebbe essere l’ultima volta: è partito alla Camera l’iter parlamentare per la possibile...
+</article>
+</other_headlines>

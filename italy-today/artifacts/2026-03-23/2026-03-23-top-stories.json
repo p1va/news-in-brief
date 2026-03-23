@@ -1,14 +1,15 @@
 {
   "date": "2026-03-23",
-  "generated_at": "Mon 23 Mar 18:00",
+  "generated_at": "Mon 23 Mar 19:08",
   "stories": [
     {
       "rank": 1,
       "title": "Referendum Giustizia 2026, la diretta | Seggi riaperti, affluenza record al 46,07%, exit poll e risultati dalle 15",
-      "source_count": 8,
-      "article_count": 28,
+      "source_count": 9,
+      "article_count": 27,
       "source_domains": [
         "corriere.it",
+        "unita.it",
         "fanpage.it",
         "ilgiornale.it",
         "repubblica.it",
@@ -19,18 +20,19 @@
       ],
       "links": [
         "https://www.corriere.it/politica/26_marzo_23/affluenza-definitiva-comuni-referendum-giustizia-2c158b1f-9dde-43db-bbac-beb62e9e3xlk.shtml",
+        "https://www.unita.it/2026/03/23/referendum-giustizia-risultati-diretta-verdetto-battaglia-si-no-riforma-magistratura/",
         "https://www.fanpage.it/politica/quando-arrivano-gli-exit-poll-al-referendum-sulla-giustizia-e-dove-seguire-i-risultati-in-tv/",
         "https://www.ilgiornale.it/news/interni/sorpresa-affluenza-boom-risultato-appeso-grandi-citt-nord-2642160.html",
-        "http://milano.corriere.it/cronaca/diretta-live/26_marzo_23/milano-il-referendum-in-diretta-exit-poll-e-risultati-dalle-15-affluenza-sopra-la-media-nazionale-i-big-al-seggio-da-sala-a-la.shtml",
-        "https://www.corriere.it/politica/26_marzo_23/quando-sapremo-risultati-referendum-giustizia-f5627958-6c88-4caa-b27c-bda631d56xlk.shtml"
+        "http://milano.corriere.it/cronaca/diretta-live/26_marzo_23/milano-il-referendum-in-diretta-exit-poll-e-risultati-dalle-15-affluenza-sopra-la-media-nazionale-i-big-al-seggio-da-sala-a-la.shtml"
       ]
     },
     {
       "rank": 2,
       "title": "Poste lancia Opas totalitaria per l’acquisto di Tim: operazione da 10,8 miliardi",
-      "source_count": 11,
-      "article_count": 17,
+      "source_count": 10,
+      "article_count": 16,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "corriere.it",
         "ansa.it",
@@ -39,23 +41,42 @@
         "ilmessaggero.it",
         "laverita.info",
         "adnkronos.com",
-        "lastampa.it",
-        "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/23/poste-tim-piano-borsa/8333744/",
         "https://www.liberoquotidiano.it/video/tv-news/46946544/poste-tim-durigon-investimento-importante-strategico-per-paese/",
         "https://www.corriere.it/economia/finanza/26_marzo_23/perche-poste-vuole-comprare-tim-e-come-vanno-le-azioni-il-ceo-del-fante-operazione-allo-studio-da-5-anni-prima-il-debito-era-24dbaabe-f787-4ee8-82c6-61cd48144xlk.shtml",
         "https://www.ansa.it/sito/podcast/ansa_voice_economia/2026/03/23/gli-sportelli-di-poste-e-i-telefonini-di-tim-nasce-un-grande-gruppo-pubblico_acfdaecf-2ce0-410d-a19a-557ead3b2597.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/03/23/poste-ha-ora-il-27-di-tim-sara-al-20-dopo-la-conversione-delle-risparmio_1577c387-711c-42b0-9185-b2876bf0ef76.html",
-        "https://www.unita.it/2026/03/23/poste-italiane-comprare-tim-offerta-pubblica-acquisto-miliardi-operazione/"
+        "https://www.ansa.it/sito/notizie/economia/2026/03/23/poste-ha-ora-il-27-di-tim-sara-al-20-dopo-la-conversione-delle-risparmio_1577c387-711c-42b0-9185-b2876bf0ef76.html"
       ]
     },
     {
       "rank": 3,
+      "title": "Referendum, Meloni \"Occasione persa, ma rispettiamo la decisione degli italiani\"",
+      "source_count": 6,
+      "article_count": 20,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "video.corriere.it",
+        "ansa.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46951168/referendum-giustizia-schlein-costruire-alternativa-vittoria-del-no-e-messaggio-per-meloni/",
+        "https://www.liberoquotidiano.it/video/tv-news/46951948/referendum-bonelli-meloni-arrogante-uniti-per-mandare-destra-a-casa/",
+        "https://www.liberoquotidiano.it/video/pillole/46950664/referendum-schlein-bloccata-riforma-sbagliata-ora-costruire-l-alternativa-/",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46950084/referendum-giustizia-bonelli-sconfitta-per-meloni-incredibile-che-abbia-detto-che-andra-avanti/",
+        "https://www.liberoquotidiano.it/video/tv-news/46951153/referendum-schlein-messaggio-chiaro-a-meloni-governo-rifletta-/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Scontro in pista all’aeroporto LaGuardia, Air Canada urta un veicolo di servizio: due morti",
-      "source_count": 9,
-      "article_count": 14,
+      "source_count": 10,
+      "article_count": 15,
       "source_domains": [
         "lastampa.it",
         "ilgiornale.it",
@@ -65,7 +86,8 @@
         "corriere.it",
         "fanpage.it",
         "ansa.it",
-        "repubblica.it"
+        "repubblica.it",
+        "news.google.com"
       ],
       "links": [
         "https://www.lastampa.it/esteri/2026/03/23/video/stop_stop_stop_le_voci_dalla_torre_di_controllo_dellaeroporto_laguardia_prima_dellincidente-15556902/",
@@ -73,28 +95,6 @@
         "https://www.ilmessaggero.it/mondo/incidente_aereo_new_york_air_canada_audio_torre_controllo-9433313.html",
         "https://www.ilmessaggero.it/mondo/incidente_aereo_new_york_scontro_air_canada_audio_torre_controllo-9433313.html",
         "https://www.liberoquotidiano.it/video/tv-news/46937900/new-york-aereo-contro-un-mezzo-dei-vigili-del-fuoco-due-morti/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Affluenza referendum record oltre il 58%: così è ripartita la partecipazione",
-      "source_count": 7,
-      "article_count": 16,
-      "source_domains": [
-        "torino.repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "torino.corriere.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://torino.repubblica.it/cronaca/2026/03/23/news/referendum_risultati_torino_piemonte-425240615/",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/23/referendum-i-risultati-in-diretta-liveblog_894d7fe2-472c-4c6a-ac55-1ac3fa8fb341.html",
-        "https://roma.repubblica.it/cronaca/2026/03/23/news/risultati_referendum_2026_roma_affluenza_scrutini_sezioni-425240535/",
-        "https://www.repubblica.it/politica/2026/03/23/news/affluenza_definitiva_referendum_2026_confronto-425240503/",
-        "https://milano.repubblica.it/cronaca/2026/03/23/news/milano_referendum_risultati_affluenza-425240481/"
       ]
     },
     {
@@ -124,6 +124,28 @@
     },
     {
       "rank": 6,
+      "title": "Affluenza referendum record oltre il 58%: così è ripartita la partecipazione",
+      "source_count": 7,
+      "article_count": 15,
+      "source_domains": [
+        "torino.repubblica.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "torino.corriere.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://torino.repubblica.it/cronaca/2026/03/23/news/referendum_risultati_torino_piemonte-425240615/",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/23/referendum-i-risultati-in-diretta-liveblog_894d7fe2-472c-4c6a-ac55-1ac3fa8fb341.html",
+        "https://roma.repubblica.it/cronaca/2026/03/23/news/risultati_referendum_2026_roma_affluenza_scrutini_sezioni-425240535/",
+        "https://www.repubblica.it/politica/2026/03/23/news/affluenza_definitiva_referendum_2026_confronto-425240503/",
+        "https://milano.repubblica.it/cronaca/2026/03/23/news/milano_referendum_risultati_affluenza-425240481/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Alcaraz eliminato da Korda a Miami: lo sfogo è una sentenza. Ora grande occasione per Sinner",
       "source_count": 7,
       "article_count": 14,
@@ -145,7 +167,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Francia, i socialisti vincono a Parigi e Marsiglia",
       "source_count": 9,
       "article_count": 12,
@@ -169,31 +191,27 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Serie A:Fiorentina-Inter 1-1: Pio Esposito illude, Ndour frena i nerazzurri",
-      "source_count": 9,
-      "article_count": 11,
+      "rank": 9,
+      "title": "Referendum, studenti in piazza a Roma festeggiano la vittoria del No",
+      "source_count": 5,
+      "article_count": 16,
       "source_domains": [
-        "ilgiornale.it",
-        "corriere.it",
         "repubblica.it",
-        "ansa.it",
         "liberoquotidiano.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "adnkronos.com"
+        "ilgiornale.it",
+        "video.corriere.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/sport/esposito-segna-primo-minuto-i-viola-reagiscono-e-77-ci-pensa-2642059.html",
-        "https://www.corriere.it/sport/calcio/serie-a/26_marzo_22/fiorentina-inter-risultato-8372200f-2ce4-4046-9726-d28ad31b7xlk.shtml",
-        "https://www.repubblica.it/sport/calcio/2026/03/22/news/fiorentina_inter_gol-425239325/",
-        "https://www.corriere.it/sport/calcio/serie-a/cards/pagelle-fiorentina-inter-26-marzo-22/la-partita_principale.shtml",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/22/serie-afiorentina-inter-1-1-pio-esposito-illude-ndour-frena-i-nerazzurri_c5d831af-a6ea-4619-a08a-09517c8c6a98.html"
+        "https://www.repubblica.it/politica/2026/03/23/news/no_vince_referendum_giustizia_2026_percentuale_voti-425240964/",
+        "https://www.liberoquotidiano.it/video/tv-news/46951644/referendum-schlein-conte-e-landini-in-piazza-festa-per-vittoria-no/",
+        "https://www.liberoquotidiano.it/video/tv-news/46951511/referendum-vendola-volevano-mettere-museruola-alla-magistratura-/",
+        "https://www.liberoquotidiano.it/video/tv-news/46951187/referendum-a-milano-la-festa-per-il-no-in-piazza-duomo/",
+        "https://www.liberoquotidiano.it/video/tv-news/46951149/referendum-studenti-in-piazza-a-roma-festeggiano-la-vittoria-del-no/"
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Cesare Parodi si è dimesso da presidente dell'Anm",
       "source_count": 10,
       "article_count": 10,
@@ -215,28 +233,6 @@
         "https://www.ansa.it/sito/notizie/politica/2026/03/23/cesare-parodi-si-e-dimesso-da-presidente-dellanm_4d72c096-0c78-4f45-beea-6d1efd3200d8.html",
         "https://www.ilgiornale.it/news/interni/cesare-parodi-si-dimesso-presidente-dellanm-2642325.html",
         "https://www.adnkronos.com/politica/anm-parodi-si-dimette-motivi-familiari_1rQn3dP6EKZ7KMYlrZVnMc"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Tra lacrime e cori contro il tricolore, l'ultimo saluto di Pontida a Umberto Bossi",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "ilgiornale.it",
-        "milano.corriere.it",
-        "laverita.info",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/o-mia-patria-s-bella-e-perduta-lultimo-coro-salutare-bossi-2642032.html",
-        "http://milano.corriere.it/notizie/cronaca/26_marzo_23/gli-applausi-alla-premier-e-i-fischi-a-salvini-difeso-da-francesca-l-ira-dei-veterani-e-la-resa-dei-conti-alle-esequie-di-bossi-f4df679b-b510-4239-9d06-9d0930eb4xlk.shtml",
-        "https://www.laverita.info/funerale-di-popolo-e-piazza-calda-un-addio-degno-del-miglior-bossi-2676573016.html",
-        "https://www.repubblica.it/politica/2026/03/23/news/pontida_migliaia_funerali_bossi_fischi_contro_salvini-425239288/",
-        "https://www.repubblica.it/politica/2026/03/23/news/funerali_bossi_rito_nostalgici_figlio_renzo_non_molliamo-425239232/"
       ]
     }
   ]
