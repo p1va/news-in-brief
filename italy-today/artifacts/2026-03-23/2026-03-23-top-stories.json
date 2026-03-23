@@ -1,36 +1,37 @@
 {
   "date": "2026-03-23",
-  "generated_at": "Mon 23 Mar 15:04",
+  "generated_at": "Mon 23 Mar 17:01",
   "stories": [
     {
       "rank": 1,
       "title": "Referendum Giustizia 2026, la diretta | Seggi riaperti, affluenza record al 46,07%, exit poll e risultati dalle 15",
       "source_count": 8,
-      "article_count": 27,
+      "article_count": 28,
       "source_domains": [
-        "fanpage.it",
         "corriere.it",
-        "unita.it",
+        "fanpage.it",
+        "ilgiornale.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
         "ansa.it",
-        "ilgiornale.it",
-        "lastampa.it"
+        "lastampa.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.fanpage.it/politica/referendum-affluenza-record-al-59-per-la-riforma-sulla-giustizia-il-voto-sul-si-e-il-no-regione-per-regione/",
         "https://www.corriere.it/politica/26_marzo_23/affluenza-definitiva-comuni-referendum-giustizia-2c158b1f-9dde-43db-bbac-beb62e9e3xlk.shtml",
-        "https://www.unita.it/2026/03/23/referendum-giustizia-risultati-diretta-verdetto-battaglia-si-no-riforma-magistratura/",
         "https://www.fanpage.it/politica/quando-arrivano-gli-exit-poll-al-referendum-sulla-giustizia-e-dove-seguire-i-risultati-in-tv/",
-        "http://milano.corriere.it/cronaca/diretta-live/26_marzo_23/milano-il-referendum-in-diretta-exit-poll-e-risultati-dalle-15-affluenza-sopra-la-media-nazionale-i-big-al-seggio-da-sala-a-la.shtml"
+        "https://www.ilgiornale.it/news/interni/sorpresa-affluenza-boom-risultato-appeso-grandi-citt-nord-2642160.html",
+        "http://milano.corriere.it/cronaca/diretta-live/26_marzo_23/milano-il-referendum-in-diretta-exit-poll-e-risultati-dalle-15-affluenza-sopra-la-media-nazionale-i-big-al-seggio-da-sala-a-la.shtml",
+        "https://www.corriere.it/politica/26_marzo_23/quando-sapremo-risultati-referendum-giustizia-f5627958-6c88-4caa-b27c-bda631d56xlk.shtml"
       ]
     },
     {
       "rank": 2,
       "title": "Poste lancia Opas totalitaria per l’acquisto di Tim: operazione da 10,8 miliardi",
-      "source_count": 10,
-      "article_count": 16,
+      "source_count": 11,
+      "article_count": 17,
       "source_domains": [
+        "liberoquotidiano.it",
         "corriere.it",
         "ansa.it",
         "unita.it",
@@ -43,11 +44,11 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/video/tv-news/46946544/poste-tim-durigon-investimento-importante-strategico-per-paese/",
         "https://www.corriere.it/economia/finanza/26_marzo_23/perche-poste-vuole-comprare-tim-e-come-vanno-le-azioni-il-ceo-del-fante-operazione-allo-studio-da-5-anni-prima-il-debito-era-24dbaabe-f787-4ee8-82c6-61cd48144xlk.shtml",
         "https://www.ansa.it/sito/podcast/ansa_voice_economia/2026/03/23/gli-sportelli-di-poste-e-i-telefonini-di-tim-nasce-un-grande-gruppo-pubblico_acfdaecf-2ce0-410d-a19a-557ead3b2597.html",
         "https://www.ansa.it/sito/notizie/economia/2026/03/23/poste-ha-ora-il-27-di-tim-sara-al-20-dopo-la-conversione-delle-risparmio_1577c387-711c-42b0-9185-b2876bf0ef76.html",
-        "https://www.unita.it/2026/03/23/poste-italiane-comprare-tim-offerta-pubblica-acquisto-miliardi-operazione/",
-        "https://www.corriere.it/economia/aziende/26_marzo_23/poste-tim-il-ritorno-sotto-l-ala-pubblica-e-l-urgenza-della-svolta-digitale-i-piani-per-l-integrazione-07bfa95f-39f1-407c-bb10-7154a75f1xlk.shtml"
+        "https://www.unita.it/2026/03/23/poste-italiane-comprare-tim-offerta-pubblica-acquisto-miliardi-operazione/"
       ]
     },
     {
@@ -76,6 +77,28 @@
     },
     {
       "rank": 4,
+      "title": "PRIME PAGINE | Referendum, affluenza record: 46%",
+      "source_count": 7,
+      "article_count": 16,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "style.corriere.it",
+        "ansa.it",
+        "fanpage.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/video/tv-news/46948322/referendum-conte-sonora-vittoria-no-grandissima-partecipazione/",
+        "https://www.liberoquotidiano.it/video/tv-news/46946546/referendum-l-applauso-del-comitato-per-il-no-ai-primi-exit-poll/",
+        "https://www.repubblica.it/politica/2026/03/23/news/affluenza_definitiva_referendum_2026_confronto-425240503/",
+        "https://www.ilmessaggero.it/nl/apericena/referendum_giustizia_affluenza_record-9433401.html",
+        "https://style.corriere.it/spettacoli/tv/il-referendum-in-tv-oggi-lunedi-23-marzo-i-nuovi-palinsesti-rai-mediaset-la7-e-sky/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Incidente a Napoli, auto investe e uccide due donne sulle strisce pedonali a Corso Garibaldi: arrestato il conducente, era ubriaco",
       "source_count": 10,
       "article_count": 13,
@@ -100,74 +123,29 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Affluenza referendum record oltre il 58%: così è ripartita la partecipazione",
-      "source_count": 7,
-      "article_count": 14,
-      "source_domains": [
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "corriere.it",
-        "fanpage.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/03/23/news/affluenza_definitiva_referendum_2026_confronto-425240503/",
-        "https://www.ilmessaggero.it/nl/apericena/referendum_giustizia_affluenza_record-9433401.html",
-        "https://www.ilgiornale.it/news/interni/sorpresa-affluenza-boom-risultato-appeso-grandi-citt-nord-2642160.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/03/23/prime-pagine-referendum-affluenza-record-46_43d1c37a-ed4e-4566-8c58-be929e00dd15.html",
-        "https://www.corriere.it/politica/26_marzo_22/confronto-percentuale-votanti-referendum-2026-9e68cb9b-7d95-440e-92de-46857c998xlk.shtml"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Alcaraz eliminato dal Miami Open: clamoroso ko contro Korda, Sinner può accorciare nel ranking, ecco come cambia",
+      "title": "Alcaraz eliminato da Korda a Miami: lo sfogo è una sentenza. Ora grande occasione per Sinner",
       "source_count": 7,
       "article_count": 14,
       "source_domains": [
         "repubblica.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "fanpage.it",
         "corriere.it",
         "ilmessaggero.it",
-        "ansa.it",
-        "lastampa.it"
+        "ansa.it"
       ],
       "links": [
         "https://www.repubblica.it/sport/tennis/2026/03/23/news/sinner_numero_1_classifica_atp_supera_alcaraz-425240349/",
+        "https://www.liberoquotidiano.it/news/sport/46941209/carlos-alcaraz-sfogo-rubato-vado-casa/",
         "https://www.ilfattoquotidiano.it/2026/03/23/alcaraz-sconfitta-miami-korda-sopra-il-suo-livello-con-me-giocano-tutti-cosi-me-ne-vado-a-casa/8333419/",
         "https://www.fanpage.it/sport/tennis/alcaraz-stritolato-dal-numero-uno-non-puo-fermarsi-non-so-quanti-giorni-di-riposo-mi-daranno/",
-        "https://www.ilfattoquotidiano.it/2026/03/23/alcaraz-sconfitto-sinner-nuova-classifica-atp-oggi/8333307/",
-        "https://www.corriere.it/sport/tennis/26_marzo_23/sinner-alcaraz-ranking-atp-miami-montecarlo-eeed2c18-9c96-4c39-998b-581fc9d20xlk.shtml"
+        "https://www.ilfattoquotidiano.it/2026/03/23/alcaraz-sconfitto-sinner-nuova-classifica-atp-oggi/8333307/"
       ]
     },
     {
       "rank": 7,
-      "title": "Tra lacrime e cori contro il tricolore, l'ultimo saluto di Pontida a Umberto Bossi",
-      "source_count": 8,
-      "article_count": 13,
-      "source_domains": [
-        "ilgiornale.it",
-        "milano.corriere.it",
-        "laverita.info",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/o-mia-patria-s-bella-e-perduta-lultimo-coro-salutare-bossi-2642032.html",
-        "http://milano.corriere.it/notizie/cronaca/26_marzo_23/gli-applausi-alla-premier-e-i-fischi-a-salvini-difeso-da-francesca-l-ira-dei-veterani-e-la-resa-dei-conti-alle-esequie-di-bossi-f4df679b-b510-4239-9d06-9d0930eb4xlk.shtml",
-        "https://www.laverita.info/funerale-di-popolo-e-piazza-calda-un-addio-degno-del-miglior-bossi-2676573016.html",
-        "https://www.repubblica.it/politica/2026/03/23/news/pontida_migliaia_funerali_bossi_fischi_contro_salvini-425239288/",
-        "https://www.repubblica.it/politica/2026/03/23/news/funerali_bossi_rito_nostalgici_figlio_renzo_non_molliamo-425239232/"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Francia, i socialisti vincono a Parigi e Marsiglia",
       "source_count": 9,
       "article_count": 12,
@@ -191,7 +169,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Serie A:Fiorentina-Inter 1-1: Pio Esposito illude, Ndour frena i nerazzurri",
       "source_count": 9,
       "article_count": 11,
@@ -215,25 +193,50 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Teheran minaccia gli Usa: «Stop a Hormuz se attacco alle centrali elettriche»",
-      "source_count": 7,
-      "article_count": 9,
+      "rank": 9,
+      "title": "Cesare Parodi si è dimesso da presidente dell'Anm",
+      "source_count": 10,
+      "article_count": 10,
       "source_domains": [
-        "ilgiornale.it",
+        "fanpage.it",
         "unita.it",
-        "liberoquotidiano.it",
-        "corriere.it",
-        "repubblica.it",
+        "ansa.it",
+        "ilgiornale.it",
         "adnkronos.com",
-        "news.google.com"
+        "repubblica.it",
+        "ilmessaggero.it",
+        "roma.corriere.it",
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/hormuz-pronti-blocco-totale-dazio-2-milioni-passare-2642039.html",
-        "https://www.unita.it/2026/03/23/guerra-iran-6-condizioni-fine-guerra-ultimatum-trump-attaccano-energetiche-usa/",
-        "https://www.liberoquotidiano.it/video/tv-news/46940407/iran-mineremo-lo-stretto-di-hormuz-se-usa-colpiranno-le-centrali-/",
-        "https://www.corriere.it/esteri/26_marzo_22/guerra-iran-sfida-ultimatum-trump-hormuz-cf58d5f3-663a-4722-9e77-eafe07114xlk.shtml",
-        "https://www.corriere.it/esteri/26_marzo_22/teheran-iran-attacchi-acqua-energia-civili-6f3caeb3-0e72-445a-9440-8a4952a69xlk.shtml"
+        "https://www.fanpage.it/politica/cesare-parodi-si-dimette-da-presidente-dellassociazione-nazionale-magistrati-ma-non-centra-il-referendum/",
+        "https://www.unita.it/2026/03/23/parodi-dimissioni-presidente-anm-referendum-giustizia/",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/23/cesare-parodi-si-e-dimesso-da-presidente-dellanm_4d72c096-0c78-4f45-beea-6d1efd3200d8.html",
+        "https://www.ilgiornale.it/news/interni/cesare-parodi-si-dimesso-presidente-dellanm-2642325.html",
+        "https://www.adnkronos.com/politica/anm-parodi-si-dimette-motivi-familiari_1rQn3dP6EKZ7KMYlrZVnMc"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Tra lacrime e cori contro il tricolore, l'ultimo saluto di Pontida a Umberto Bossi",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "ilgiornale.it",
+        "milano.corriere.it",
+        "laverita.info",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/o-mia-patria-s-bella-e-perduta-lultimo-coro-salutare-bossi-2642032.html",
+        "http://milano.corriere.it/notizie/cronaca/26_marzo_23/gli-applausi-alla-premier-e-i-fischi-a-salvini-difeso-da-francesca-l-ira-dei-veterani-e-la-resa-dei-conti-alle-esequie-di-bossi-f4df679b-b510-4239-9d06-9d0930eb4xlk.shtml",
+        "https://www.laverita.info/funerale-di-popolo-e-piazza-calda-un-addio-degno-del-miglior-bossi-2676573016.html",
+        "https://www.repubblica.it/politica/2026/03/23/news/pontida_migliaia_funerali_bossi_fischi_contro_salvini-425239288/",
+        "https://www.repubblica.it/politica/2026/03/23/news/funerali_bossi_rito_nostalgici_figlio_renzo_non_molliamo-425239232/"
       ]
     }
   ]
