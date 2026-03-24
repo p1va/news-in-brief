@@ -1,17 +1,42 @@
 {
   "date": "2026-03-24",
-  "generated_at": "Tue 24 Mar 11:51",
+  "generated_at": "Tue 24 Mar 13:26",
   "stories": [
     {
       "rank": 1,
+      "title": "Addio a Gino Paoli, maestro della canzone d'autore italiana",
+      "source_count": 10,
+      "article_count": 24,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "unita.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/live/e-morto-gino-paoli-il-cantautore-aveva-91-anni-nei-suoi-testi-lamore-senza-fine-per-ornella-vanoni/",
+        "https://www.fanpage.it/cultura/e-morto-gino-paoli-il-cantautore-aveva-91-anni/",
+        "https://www.ilgiornale.it/news/personaggi/addio-gino-paoli-mogol-caro-amico-salvini-grandissimo-2642723.html",
+        "https://www.corriere.it/spettacoli/diretta-live/26_marzo_24/mogol-perdo-un-caro-amico-fazio-le-sue-canzoni-erano-quadri-tutte-le-reazioni-alla-morte-di-gino-paoli.shtml",
+        "https://www.adnkronos.com/spettacoli/gino-paoli-ricordo-artisti-politici_3IrjdhPQ7WIciuGxQl77G"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Meloni: \"Rispettiamo la decisione degli italiani, andremo avanti\"",
       "source_count": 11,
-      "article_count": 19,
+      "article_count": 16,
       "source_domains": [
+        "adnkronos.com",
         "unita.it",
         "ilgiornale.it",
         "fanpage.it",
-        "adnkronos.com",
         "lastampa.it",
         "ilmessaggero.it",
         "ansa.it",
@@ -21,58 +46,35 @@
         "repubblica.it"
       ],
       "links": [
+        "https://www.adnkronos.com/internazionale/esteri/infranta-aura-di-invincibilita-la-sconfitta-di-meloni-al-referendum-sui-media-internazionali_7L0LpQ7KpLa2CbX21ROjsY",
         "https://www.unita.it/2026/03/24/perche-gli-italiani-hanno-votato-no-cosi-il-paese-ha-bocciato-il-metodo-meloni/",
         "https://www.ilgiornale.it/news/politica/meloni-occasione-persa-limpegno-va-avanti-2642445.html",
         "https://www.fanpage.it/scanner/la-lezione-del-referendum-la-costituzione-si-cambia-insieme-e-non-a-colpi-di-maggioranza/",
-        "https://www.fanpage.it/politica/sorridi-giorgia-meloni-il-peggio-deve-ancora-venire/",
-        "https://www.adnkronos.com/politica/referendum-meloni-incassa-il-colpo-occasione-persa-legge-elettorale-in-mirino-centrodestra_7w78ArdxSxEktx66wHyg2k"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Referendum Giustizia 2026, i risultati: il No vince con il 53,7%, Meloni ammette la sconfitta: “Italiani hanno deciso, andiamo avanti”",
-      "source_count": 9,
-      "article_count": 15,
-      "source_domains": [
-        "unita.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "fanpage.it",
-        "laverita.info",
-        "ilmanifesto.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.unita.it/2026/03/24/sondaggi-politici-elettorali-partiti-referendum-giustizia-prima-indagine-urne-chiuse/",
-        "https://www.lastampa.it/politica/2026/03/24/diretta/referendum_2026_risultati_reazioni_news-15557869/",
-        "https://www.ilgiornale.it/news/interni/referendum-vince-no-governo-gi-allopera-nordio-dimettermi-ho-2642564.html",
-        "https://www.corriere.it/politica/diretta-live/26_marzo_23/referendum-giustizia-2026-diretta-ragioni-si-no.shtml",
-        "https://www.fanpage.it/live/referendum-giustizia-2026-diretta-live-risultati-lunedi-23-marzo/"
+        "https://www.fanpage.it/politica/sorridi-giorgia-meloni-il-peggio-deve-ancora-venire/"
       ]
     },
     {
       "rank": 3,
       "title": "Il referendum della generazione Z, boom tra i 18 e 28 anni: 67% di partecipazione al voto, con il 58,5% per il No",
-      "source_count": 8,
-      "article_count": 13,
+      "source_count": 9,
+      "article_count": 15,
       "source_domains": [
+        "ansa.it",
         "corriere.it",
         "ilgiornale.it",
+        "unita.it",
         "repubblica.it",
         "ilmanifesto.it",
         "lastampa.it",
         "ilmessaggero.it",
-        "ansa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/03/24/youtrend-la-generazione-z-in-massa-alle-urne-per-dire-no_a92f8549-7880-4fd5-94ed-0ca7c10bed3c.html",
         "https://www.corriere.it/elezioni/2026/referendum-giustizia/26_marzo_24/ai-partiti-del-no-3-9-milioni-di-voti-in-piu-rispetto-alle-politiche-per-il-si-calo-di-2-4-c-e-un-elettorato-ancora-contendibile-148054f8-e379-4eba-bad1-fbfe590bdxlk.shtml",
         "https://www.ilgiornale.it/news/politica/citt-giovani-astensionisti-londa-anomala-no-vince-537-dei-2642442.html",
-        "https://www.corriere.it/politica/26_marzo_23/il-boom-tra-i-giovani-due-su-tre-alle-urne-la-maggioranza-vota-no-1.shtml",
-        "https://www.corriere.it/politica/26_marzo_24/referendum-generazione-z-aa841290-d628-4c09-b6a7-61b1e8c3bxlk.shtml",
-        "https://www.corriere.it/politica/26_marzo_24/referendum-generazione-z-aa841290-d628-4c09-b6a7-61b1e8c3bxlk.shtml"
+        "https://www.unita.it/2026/03/24/referendum-giustizia-no-vince-elettorato-giovane/",
+        "https://www.corriere.it/politica/26_marzo_23/il-boom-tra-i-giovani-due-su-tre-alle-urne-la-maggioranza-vota-no-1.shtml"
       ]
     },
     {
@@ -101,6 +103,30 @@
     },
     {
       "rank": 5,
+      "title": "Referendum Giustizia 2026 | Risultati e spoglio, in diretta: il No ha vinto con il 53,2%. Schlein: «I giovani hanno fatto la differenza». Meloni: «Andiamo avanti». Affluenza al 58,9%",
+      "source_count": 9,
+      "article_count": 12,
+      "source_domains": [
+        "lastampa.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "fanpage.it",
+        "laverita.info",
+        "unita.it",
+        "ilmanifesto.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.lastampa.it/politica/2026/03/24/diretta/referendum_2026_risultati_reazioni_news-15557869/",
+        "https://www.ilgiornale.it/news/interni/referendum-vince-no-governo-gi-allopera-nordio-dimettermi-ho-2642564.html",
+        "https://www.corriere.it/politica/diretta-live/26_marzo_23/referendum-giustizia-2026-diretta-ragioni-si-no.shtml",
+        "https://www.fanpage.it/live/referendum-giustizia-2026-diretta-live-risultati-lunedi-23-marzo/",
+        "https://www.ilgiornale.it/news/interni/diretta-referendum-seggi-aperti-7-si-vota-fino-15-domenca-2642157.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Atp Miami, Sinner sul velluto: batte Moutet in due set e vola agli ottavi",
       "source_count": 8,
       "article_count": 12,
@@ -123,7 +149,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Referendum giustizia, le grandi città trascinano il No: la mappa del voto",
       "source_count": 7,
       "article_count": 12,
@@ -145,53 +171,50 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Referendum giustizia, Schlein: Costruire alternativa, vittoria del No è messaggio per Meloni",
-      "source_count": 5,
-      "article_count": 12,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "roma.corriere.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/video/video-news-by-vista/46960970/referendum-giustizia-schlein-i-giovani-hanno-fatto-la-differenza/",
-        "https://www.liberoquotidiano.it/video/video-news-by-vista/46960474/referendum-giustizia-schlein-l-italia-ha-fermato-una-riforma-sbagliata/",
-        "http://roma.corriere.it/notizie/politica/26_marzo_24/schlein-conte-referendum-424413ea-9b8b-403a-9537-925740868xlk.shtml",
-        "https://www.adnkronos.com/politica/referendum-la-festa-di-schlein-in-piazza-tra-selfie-cori-e-una-promessa-batteremo-meloni_2y4ExSqM6kNtKVPKthXpt9",
-        "https://www.repubblica.it/politica/2026/03/24/news/schlein_intervista_vittoria_no_referendum_giustizia-425241540/"
-      ]
-    },
-    {
       "rank": 8,
       "title": "Trump ferma i raid per cinque giorni: 'Con l'Iran accordo su 15 punti'",
       "source_count": 8,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "unita.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
+        "corriere.it",
         "laverita.info",
         "repubblica.it",
         "adnkronos.com",
-        "ansa.it",
-        "lastampa.it",
-        "video.corriere.it"
+        "ansa.it"
       ],
       "links": [
+        "https://www.unita.it/2026/03/24/cosa-prevede-laccordo-di-trump-con-liran-i-15-punti-per-la-pace/",
         "https://www.ilgiornale.it/news/politica/trump-intesa-liran-teheran-nega-i-negoziati-2642465.html",
         "https://www.liberoquotidiano.it/video/tv-news/46959188/iran-trump-buone-possibilita-di-un-accordo-fanno-sul-serio/",
-        "https://www.laverita.info/trump-iran-accordo-2676580783.html",
-        "https://www.repubblica.it/esteri/2026/03/24/news/negoziato_stati_uniti_iran_trump_intesa_nucleare_teheran-425241385/",
-        "https://www.adnkronos.com/internazionale/esteri/trump-annuncio-iran-colloqui-guerra_52ySX5UGZlpQmtLRNuVagM"
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_24/guerra-iran-news-diretta.shtml",
+        "https://www.laverita.info/trump-iran-accordo-2676580783.html"
       ]
     },
     {
       "rank": 9,
+      "title": "Referendum giustizia, Schlein: Costruire alternativa, vittoria del No è messaggio per Meloni",
+      "source_count": 2,
+      "article_count": 16,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/video/libero-video/46961373/referendum-giustizia-fratoianni-nordio-delmastro-devono-dimettersi/",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46960970/referendum-giustizia-schlein-i-giovani-hanno-fatto-la-differenza/",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46960474/referendum-giustizia-schlein-l-italia-ha-fermato-una-riforma-sbagliata/",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46960476/referendum-giustizia-conte-inizia-una-nuova-primavera-politica/",
+        "https://www.repubblica.it/politica/2026/03/24/news/schlein_intervista_vittoria_no_referendum_giustizia-425241540/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Scontro sulla pista, strage sfiorata al LaGuardia di New York",
       "source_count": 6,
-      "article_count": 10,
+      "article_count": 9,
       "source_domains": [
         "ilgiornale.it",
         "ilmessaggero.it",
@@ -206,28 +229,6 @@
         "https://www.ilgiornale.it/news/cronaca-internazionale/scontro-all-aeroporto-laguardia-new-york-aereo-contro-mezzo-2642187.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/03/23/scontro-sulla-pista-strage-sfiorata-al-laguardia-di-new-york_32410f2d-7469-4caf-b073-1eee7721db65.html",
         "https://video.corriere.it/esteri/in-un-video-il-momento-in-cui-l-aereo-air-canada-si-scontra-con-un-camion-dei-pompieri-a-la-guardia/1b480162-1f06-484f-959d-80b9f666axlk"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Parodi si è dimesso da presidente dell’Anm per motivi personali",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "roma.corriere.it",
-        "ansa.it",
-        "fanpage.it",
-        "unita.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "http://roma.corriere.it/notizie/politica/26_marzo_24/parodi-intervista-anm-30dfe025-e2ae-459f-8472-f89488a25xlk.shtml",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/23/cesare-parodi-si-e-dimesso-da-presidente-dellanm_4d72c096-0c78-4f45-beea-6d1efd3200d8.html",
-        "https://www.fanpage.it/politica/cesare-parodi-si-dimette-da-presidente-dellassociazione-nazionale-magistrati-ma-non-centra-il-referendum/",
-        "https://www.unita.it/2026/03/23/parodi-dimissioni-presidente-anm-referendum-giustizia/",
-        "https://www.ilgiornale.it/news/interni/cesare-parodi-si-dimesso-presidente-dellanm-2642325.html"
       ]
     }
   ]
