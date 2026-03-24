@@ -1,13 +1,15 @@
 {
   "date": "2026-03-24",
-  "generated_at": "Tue 24 Mar 10:06",
+  "generated_at": "Tue 24 Mar 11:51",
   "stories": [
     {
       "rank": 1,
       "title": "Meloni: \"Rispettiamo la decisione degli italiani, andremo avanti\"",
-      "source_count": 9,
-      "article_count": 17,
+      "source_count": 11,
+      "article_count": 19,
       "source_domains": [
+        "unita.it",
+        "ilgiornale.it",
         "fanpage.it",
         "adnkronos.com",
         "lastampa.it",
@@ -19,44 +21,67 @@
         "repubblica.it"
       ],
       "links": [
+        "https://www.unita.it/2026/03/24/perche-gli-italiani-hanno-votato-no-cosi-il-paese-ha-bocciato-il-metodo-meloni/",
+        "https://www.ilgiornale.it/news/politica/meloni-occasione-persa-limpegno-va-avanti-2642445.html",
         "https://www.fanpage.it/scanner/la-lezione-del-referendum-la-costituzione-si-cambia-insieme-e-non-a-colpi-di-maggioranza/",
         "https://www.fanpage.it/politica/sorridi-giorgia-meloni-il-peggio-deve-ancora-venire/",
-        "https://www.adnkronos.com/politica/referendum-meloni-incassa-il-colpo-occasione-persa-legge-elettorale-in-mirino-centrodestra_7w78ArdxSxEktx66wHyg2k",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/03/24/news/nordio_e_delmastro_gli_errori_di_giorgia_meloni-15557469/",
-        "https://www.ilmessaggero.it/politica/referendum_meloni_elezioni_anticipate-9434023.html"
+        "https://www.adnkronos.com/politica/referendum-meloni-incassa-il-colpo-occasione-persa-legge-elettorale-in-mirino-centrodestra_7w78ArdxSxEktx66wHyg2k"
       ]
     },
     {
       "rank": 2,
-      "title": "Referendum Giustizia 2026 | Risultati e spoglio, in diretta: il No ha vinto con il 53,2%. Schlein: «I giovani hanno fatto la differenza». Meloni: «Andiamo avanti». Affluenza al 58,9%",
-      "source_count": 10,
+      "title": "Referendum Giustizia 2026, i risultati: il No vince con il 53,7%, Meloni ammette la sconfitta: “Italiani hanno deciso, andiamo avanti”",
+      "source_count": 9,
       "article_count": 15,
       "source_domains": [
-        "ilgiornale.it",
-        "corriere.it",
-        "ilmanifesto.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "laverita.info",
         "unita.it",
         "lastampa.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "fanpage.it",
+        "laverita.info",
+        "ilmanifesto.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
+        "https://www.unita.it/2026/03/24/sondaggi-politici-elettorali-partiti-referendum-giustizia-prima-indagine-urne-chiuse/",
+        "https://www.lastampa.it/politica/2026/03/24/diretta/referendum_2026_risultati_reazioni_news-15557869/",
         "https://www.ilgiornale.it/news/interni/referendum-vince-no-governo-gi-allopera-nordio-dimettermi-ho-2642564.html",
         "https://www.corriere.it/politica/diretta-live/26_marzo_23/referendum-giustizia-2026-diretta-ragioni-si-no.shtml",
-        "https://ilmanifesto.it/referendum-il-sud-e-i-giovani-trainano-il-no",
-        "https://www.fanpage.it/live/referendum-giustizia-2026-diretta-live-risultati-lunedi-23-marzo/",
-        "https://www.ilmessaggero.it/politica/referendum_no_vittoria_analisi_citta_donne_giovani-9434015.html"
+        "https://www.fanpage.it/live/referendum-giustizia-2026-diretta-live-risultati-lunedi-23-marzo/"
       ]
     },
     {
       "rank": 3,
-      "title": "Colombia, aereo militare si schianta dopo il decollo: 66 morti. I rottami nella Foresta Amazzonica",
+      "title": "Il referendum della generazione Z, boom tra i 18 e 28 anni: 67% di partecipazione al voto, con il 58,5% per il No",
       "source_count": 8,
-      "article_count": 11,
+      "article_count": 13,
       "source_domains": [
+        "corriere.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.corriere.it/elezioni/2026/referendum-giustizia/26_marzo_24/ai-partiti-del-no-3-9-milioni-di-voti-in-piu-rispetto-alle-politiche-per-il-si-calo-di-2-4-c-e-un-elettorato-ancora-contendibile-148054f8-e379-4eba-bad1-fbfe590bdxlk.shtml",
+        "https://www.ilgiornale.it/news/politica/citt-giovani-astensionisti-londa-anomala-no-vince-537-dei-2642442.html",
+        "https://www.corriere.it/politica/26_marzo_23/il-boom-tra-i-giovani-due-su-tre-alle-urne-la-maggioranza-vota-no-1.shtml",
+        "https://www.corriere.it/politica/26_marzo_24/referendum-generazione-z-aa841290-d628-4c09-b6a7-61b1e8c3bxlk.shtml",
+        "https://www.corriere.it/politica/26_marzo_24/referendum-generazione-z-aa841290-d628-4c09-b6a7-61b1e8c3bxlk.shtml"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Colombia, aereo militare si schianta nella Foresta Amazzonica dopo il decollo, almeno 66 i morti Video",
+      "source_count": 9,
+      "article_count": 12,
+      "source_domains": [
+        "liberoquotidiano.it",
         "unita.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
@@ -67,21 +92,21 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/video/tv-news/46960826/si-schianta-aereo-militare-in-colombia-66-morti-e-dispersi/",
         "https://www.unita.it/2026/03/24/disastro-colombia-areo-esercito-confine-peru-morti-schianto/",
         "https://www.ilfattoquotidiano.it/2026/03/24/aereo-militare-colombia-morti-notizie/8334401/",
         "https://www.ilgiornale.it/news/cronaca-internazionale/aereo-militare-si-schianta-poco-decollo-e-prende-fuoco-66-2642607.html",
-        "https://www.fanpage.it/esteri/schianto-aereo-militare-in-colombia-almeno-66-morti-la-corsa-contro-il-tempo-degli-abitanti-ha-salvato-57-soldati/",
-        "https://www.ilmessaggero.it/mondo/colombia_aereo_militare_precipitato_incidente-9435197.html"
+        "https://www.fanpage.it/esteri/schianto-aereo-militare-in-colombia-almeno-66-morti-la-corsa-contro-il-tempo-degli-abitanti-ha-salvato-57-soldati/"
       ]
     },
     {
-      "rank": 4,
-      "title": "Miami, Sinner batte Moutet in due set (6-1, 6-4) e vola agli ottavi contro Michelsen",
+      "rank": 5,
+      "title": "Atp Miami, Sinner sul velluto: batte Moutet in due set e vola agli ottavi",
       "source_count": 8,
-      "article_count": 10,
+      "article_count": 12,
       "source_domains": [
-        "adnkronos.com",
         "ilfattoquotidiano.it",
+        "adnkronos.com",
         "ilgiornale.it",
         "ansa.it",
         "fanpage.it",
@@ -90,141 +115,119 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/24/fair-play-sinner-miami-masters-1000-moutet-lho-toccata-prima-video/8334584/",
+        "https://www.ilfattoquotidiano.it/2026/03/24/atp-miami-quando-gioca-oggi-jannik-sinner-contro-michelsen-orario-tv-streaming/8334546/",
         "https://www.adnkronos.com/sport/jannik-sinner-miami-2026_1oF5eC2TNRWqerhirWalDW",
         "https://www.ilfattoquotidiano.it/2026/03/24/sinner-record-masters-1000-miami-tabellone-oggi/8334383/",
-        "https://www.ilgiornale.it/news/tennis/atp-miami-sinner-sul-velluto-batte-moutet-due-set-e-vola-2642603.html",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/24/tennis-miami-sinner-batte-6-1-6-4-il-francese-moutet-e-va-agli-ottavi_5b79ba89-caf9-4ab4-9b0f-334272a7f332.html",
-        "https://www.fanpage.it/sport/tennis/sinner-ferma-il-gioco-con-moutet-e-si-autodenuncia-il-gesto-che-spiega-perche-tutti-lo-amano/"
+        "https://www.ilgiornale.it/news/tennis/atp-miami-sinner-sul-velluto-batte-moutet-due-set-e-vola-2642603.html"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Referendum giustizia, le grandi città trascinano il No: la mappa del voto",
       "source_count": 7,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
+        "ilgiornale.it",
         "fanpage.it",
         "milano.corriere.it",
-        "ilgiornale.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "unita.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/caso-milano-solita-isola-rossa-nonostante-ferita-mani-pulite-2642462.html",
         "https://www.fanpage.it/napoli/risultati-referendum-giustizia-a-napoli-provincia/",
         "http://milano.corriere.it/notizie/cronaca/26_marzo_24/a-milano-referendum-a-due-facce-il-voto-separa-la-citta-fortino-del-no-dal-resto-della-lombardia-il-centro-storico-e-un-caso-122057b2-72a7-4924-a2cc-e3ff668f0xlk.shtml",
         "https://www.fanpage.it/live/referendum-giustizia-2026-diretta-dopo-i-risultati-il-no-stravince-il-centrosinistra-festeggia-nordio-non-mi-dimettero/",
-        "http://roma.corriere.it/notizie/politica/26_marzo_24/referendum-chi-vinto-f43128a1-3e35-40fe-8742-251d3a2edxlk.shtml",
         "http://roma.corriere.it/notizie/politica/26_marzo_24/referendum-chi-vinto-f43128a1-3e35-40fe-8742-251d3a2edxlk.shtml"
       ]
     },
     {
-      "rank": 6,
-      "title": "Editoria, il gruppo Antenna acquisisce il 100% di Gedi. La Stampa verso Sae",
-      "source_count": 8,
-      "article_count": 9,
+      "rank": 7,
+      "title": "Referendum giustizia, Schlein: Costruire alternativa, vittoria del No è messaggio per Meloni",
+      "source_count": 5,
+      "article_count": 12,
       "source_domains": [
-        "unita.it",
         "liberoquotidiano.it",
-        "ilgiornale.it",
+        "roma.corriere.it",
+        "adnkronos.com",
         "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "corriere.it",
-        "lastampa.it"
+        "ansa.it"
       ],
       "links": [
-        "https://www.unita.it/2026/03/24/elkann-vende-gedi-repubblica-acquistata-gruppo-greco-antenna/",
-        "https://www.liberoquotidiano.it/news/italia/46958205/gedi-venduta-greci-antenna-repubblica-nuovo-azionista/",
-        "https://www.ilgiornale.it/news/aziende/accordo-exor-kyriakou-repubblica-ad-antenna-2642504.html",
-        "https://www.repubblica.it/economia/2026/03/24/news/gedi_vendita_antenna_group_theodore_kyriakou_repubblica-425241451/",
-        "https://www.ilfattoquotidiano.it/2026/03/23/repubblica-gedi-venduta-antenna-elkann-intervista/8334052/"
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46960970/referendum-giustizia-schlein-i-giovani-hanno-fatto-la-differenza/",
+        "https://www.liberoquotidiano.it/video/video-news-by-vista/46960474/referendum-giustizia-schlein-l-italia-ha-fermato-una-riforma-sbagliata/",
+        "http://roma.corriere.it/notizie/politica/26_marzo_24/schlein-conte-referendum-424413ea-9b8b-403a-9537-925740868xlk.shtml",
+        "https://www.adnkronos.com/politica/referendum-la-festa-di-schlein-in-piazza-tra-selfie-cori-e-una-promessa-batteremo-meloni_2y4ExSqM6kNtKVPKthXpt9",
+        "https://www.repubblica.it/politica/2026/03/24/news/schlein_intervista_vittoria_no_referendum_giustizia-425241540/"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Trump ferma i raid per cinque giorni: 'Con l'Iran accordo su 15 punti'",
-      "source_count": 7,
+      "source_count": 8,
       "article_count": 9,
       "source_domains": [
+        "ilgiornale.it",
         "liberoquotidiano.it",
-        "corriere.it",
         "laverita.info",
         "repubblica.it",
         "adnkronos.com",
         "ansa.it",
-        "lastampa.it"
+        "lastampa.it",
+        "video.corriere.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/trump-intesa-liran-teheran-nega-i-negoziati-2642465.html",
         "https://www.liberoquotidiano.it/video/tv-news/46959188/iran-trump-buone-possibilita-di-un-accordo-fanno-sul-serio/",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_24/guerra-iran-news-diretta.shtml",
         "https://www.laverita.info/trump-iran-accordo-2676580783.html",
         "https://www.repubblica.it/esteri/2026/03/24/news/negoziato_stati_uniti_iran_trump_intesa_nucleare_teheran-425241385/",
         "https://www.adnkronos.com/internazionale/esteri/trump-annuncio-iran-colloqui-guerra_52ySX5UGZlpQmtLRNuVagM"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Scontro sulla pista, strage sfiorata al LaGuardia di New York",
       "source_count": 6,
       "article_count": 10,
       "source_domains": [
-        "ilmessaggero.it",
         "ilgiornale.it",
+        "ilmessaggero.it",
         "ansa.it",
         "video.corriere.it",
         "fanpage.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/new-york-aereo-contro-camion-dei-pompieri-due-morti-2642476.html",
         "https://www.ilmessaggero.it/mondo/newyork_laguardia_morti_aeroporto_cosa_non_torna_colpe-9435309.html",
         "https://www.ilgiornale.it/news/cronaca-internazionale/scontro-all-aeroporto-laguardia-new-york-aereo-contro-mezzo-2642187.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/03/23/scontro-sulla-pista-strage-sfiorata-al-laguardia-di-new-york_32410f2d-7469-4caf-b073-1eee7721db65.html",
-        "https://video.corriere.it/esteri/in-un-video-il-momento-in-cui-l-aereo-air-canada-si-scontra-con-un-camion-dei-pompieri-a-la-guardia/1b480162-1f06-484f-959d-80b9f666axlk",
         "https://video.corriere.it/esteri/in-un-video-il-momento-in-cui-l-aereo-air-canada-si-scontra-con-un-camion-dei-pompieri-a-la-guardia/1b480162-1f06-484f-959d-80b9f666axlk"
       ]
     },
     {
-      "rank": 9,
-      "title": "Il blitz di Poste su Tim, 'stand alone e più aggressiva'",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "fanpage.it",
-        "laverita.info",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "corriere.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/economia/il-valore-strategico-del-piano-di-poste-italiane-per-acquisire-telecom-in-poche-parole/",
-        "https://www.laverita.info/poste-opas-tim-polo-tlc-2676585431.html",
-        "https://www.ilgiornale.it/news/aziende/poste-rilancia-sul-risiko-tim-sar-aggressiva-2642502.html",
-        "https://www.ilmessaggero.it/economia/poste_opas_al_via_luglio_fante_tim_restera_societa_separata-9433989.html",
-        "https://www.ilfattoquotidiano.it/2026/03/23/poste-tim-piano-borsa/8333744/"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Referendum, Schlein: \"Ora costruire un'alternativa all'altezza\"",
-      "source_count": 5,
-      "article_count": 10,
+      "title": "Parodi si è dimesso da presidente dell’Anm per motivi personali",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
         "roma.corriere.it",
-        "adnkronos.com",
-        "repubblica.it",
         "ansa.it",
-        "liberoquotidiano.it"
+        "fanpage.it",
+        "unita.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "http://roma.corriere.it/notizie/politica/26_marzo_24/schlein-conte-referendum-424413ea-9b8b-403a-9537-925740868xlk.shtml",
-        "https://www.adnkronos.com/politica/referendum-la-festa-di-schlein-in-piazza-tra-selfie-cori-e-una-promessa-batteremo-meloni_2y4ExSqM6kNtKVPKthXpt9",
-        "https://www.repubblica.it/politica/2026/03/24/news/schlein_intervista_vittoria_no_referendum_giustizia-425241540/",
-        "https://www.adnkronos.com/politica/referendum-leader-dellopposizione-in-festa-vittoria-del-no-e-un-messaggio-per-meloni_5jEsKgqnS9jszh0sOJ1sgo",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/23/referendum-meloni-dimissioni-in-piazza-da-milano-a-roma_78b01124-0603-447b-9afb-9bf8d9a37123.html"
+        "http://roma.corriere.it/notizie/politica/26_marzo_24/parodi-intervista-anm-30dfe025-e2ae-459f-8472-f89488a25xlk.shtml",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/23/cesare-parodi-si-e-dimesso-da-presidente-dellanm_4d72c096-0c78-4f45-beea-6d1efd3200d8.html",
+        "https://www.fanpage.it/politica/cesare-parodi-si-dimette-da-presidente-dellassociazione-nazionale-magistrati-ma-non-centra-il-referendum/",
+        "https://www.unita.it/2026/03/23/parodi-dimissioni-presidente-anm-referendum-giustizia/",
+        "https://www.ilgiornale.it/news/interni/cesare-parodi-si-dimesso-presidente-dellanm-2642325.html"
       ]
     }
   ]
