@@ -1,6 +1,6 @@
 {
   "date": "2026-03-24",
-  "generated_at": "Tue 24 Mar 07:14",
+  "generated_at": "Tue 24 Mar 09:01",
   "stories": [
     {
       "rank": 1,
@@ -28,52 +28,97 @@
     },
     {
       "rank": 2,
-      "title": "Referendum Giustizia 2026, i risultati: il No vince con il 53,7%, Meloni ammette la sconfitta: “Italiani hanno deciso, andiamo avanti”",
-      "source_count": 8,
-      "article_count": 12,
+      "title": "Referendum Giustizia 2026 | Risultati e spoglio, in diretta: il No ha vinto con il 53,2%. Schlein: «I giovani hanno fatto la differenza». Meloni: «Andiamo avanti». Affluenza al 58,9%",
+      "source_count": 10,
+      "article_count": 15,
       "source_domains": [
         "ilgiornale.it",
+        "corriere.it",
+        "ilmanifesto.it",
         "fanpage.it",
+        "ilmessaggero.it",
         "laverita.info",
         "unita.it",
         "lastampa.it",
-        "ilmanifesto.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
         "https://www.ilgiornale.it/news/interni/referendum-vince-no-governo-gi-allopera-nordio-dimettermi-ho-2642564.html",
+        "https://www.corriere.it/politica/diretta-live/26_marzo_23/referendum-giustizia-2026-diretta-ragioni-si-no.shtml",
+        "https://ilmanifesto.it/referendum-il-sud-e-i-giovani-trainano-il-no",
         "https://www.fanpage.it/live/referendum-giustizia-2026-diretta-live-risultati-lunedi-23-marzo/",
-        "https://www.ilgiornale.it/news/interni/diretta-referendum-seggi-aperti-7-si-vota-fino-15-domenca-2642157.html",
-        "https://www.laverita.info/referendum-giustizia-2026-vince-no-2676579199.html",
-        "https://www.unita.it/2026/03/23/meloni-perde-referendum-cosa-cambia-governo-rimpasto-dimissioni-nordio-del-mastro-bartolozzi-santanche/"
+        "https://www.ilmessaggero.it/politica/referendum_no_vittoria_analisi_citta_donne_giovani-9434015.html"
       ]
     },
     {
       "rank": 3,
       "title": "Referendum giustizia, le grandi città trascinano il No: la mappa del voto",
-      "source_count": 8,
+      "source_count": 7,
       "article_count": 11,
       "source_domains": [
         "fanpage.it",
-        "roma.corriere.it",
-        "ilmanifesto.it",
+        "milano.corriere.it",
+        "ilgiornale.it",
         "adnkronos.com",
-        "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "unita.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.fanpage.it/napoli/risultati-referendum-giustizia-a-napoli-provincia/",
+        "http://milano.corriere.it/notizie/cronaca/26_marzo_24/a-milano-referendum-a-due-facce-il-voto-separa-la-citta-fortino-del-no-dal-resto-della-lombardia-il-centro-storico-e-un-caso-122057b2-72a7-4924-a2cc-e3ff668f0xlk.shtml",
         "https://www.fanpage.it/live/referendum-giustizia-2026-diretta-dopo-i-risultati-il-no-stravince-il-centrosinistra-festeggia-nordio-non-mi-dimettero/",
         "http://roma.corriere.it/notizie/politica/26_marzo_24/referendum-chi-vinto-f43128a1-3e35-40fe-8742-251d3a2edxlk.shtml",
-        "http://roma.corriere.it/notizie/politica/26_marzo_24/referendum-chi-vinto-f43128a1-3e35-40fe-8742-251d3a2edxlk.shtml",
-        "https://ilmanifesto.it/referendum-il-sud-e-i-giovani-trainano-il-no",
-        "https://www.adnkronos.com/politica/referendum-giustizia-vittoria-no-mappa-voto_47jeL146thW5d0VH36iPHB"
+        "http://roma.corriere.it/notizie/politica/26_marzo_24/referendum-chi-vinto-f43128a1-3e35-40fe-8742-251d3a2edxlk.shtml"
       ]
     },
     {
       "rank": 4,
+      "title": "Trump ferma i raid per cinque giorni: 'Con l'Iran accordo su 15 punti'",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "corriere.it",
+        "laverita.info",
+        "repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/video/tv-news/46959188/iran-trump-buone-possibilita-di-un-accordo-fanno-sul-serio/",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_24/guerra-iran-news-diretta.shtml",
+        "https://www.laverita.info/trump-iran-accordo-2676580783.html",
+        "https://www.repubblica.it/esteri/2026/03/24/news/negoziato_stati_uniti_iran_trump_intesa_nucleare_teheran-425241385/",
+        "https://www.adnkronos.com/internazionale/esteri/trump-annuncio-iran-colloqui-guerra_52ySX5UGZlpQmtLRNuVagM"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Atp Miami, Sinner sul velluto: batte Moutet in due set e vola agli ottavi",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "corriere.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/03/24/sinner-record-masters-1000-miami-tabellone-oggi/8334383/",
+        "https://www.ilgiornale.it/news/tennis/atp-miami-sinner-sul-velluto-batte-moutet-due-set-e-vola-2642603.html",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/24/tennis-miami-sinner-batte-6-1-6-4-il-francese-moutet-e-va-agli-ottavi_5b79ba89-caf9-4ab4-9b0f-334272a7f332.html",
+        "https://www.fanpage.it/sport/tennis/sinner-ferma-il-gioco-con-moutet-e-si-autodenuncia-il-gesto-che-spiega-perche-tutti-lo-amano/",
+        "https://www.liberoquotidiano.it/news/sport/46958256/sinner-travolge-moutet-punto-annullato-video-fa-giro-mondo/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Referendum, Schlein: \"Ora costruire un'alternativa all'altezza\"",
       "source_count": 5,
       "article_count": 10,
@@ -93,7 +138,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Scontro sulla pista, strage sfiorata al LaGuardia di New York",
       "source_count": 6,
       "article_count": 9,
@@ -111,48 +156,6 @@
         "https://video.corriere.it/esteri/in-un-video-il-momento-in-cui-l-aereo-air-canada-si-scontra-con-un-camion-dei-pompieri-a-la-guardia/1b480162-1f06-484f-959d-80b9f666axlk",
         "https://video.corriere.it/esteri/in-un-video-il-momento-in-cui-l-aereo-air-canada-si-scontra-con-un-camion-dei-pompieri-a-la-guardia/1b480162-1f06-484f-959d-80b9f666axlk",
         "https://www.fanpage.it/esteri/aereo-si-scontra-con-veicolo-di-servizio-mentre-atterra-a-new-york-aeroporto-laguardia-chiuso-voli-sospesi/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Poste-Tim, il ritorno sotto l’ala pubblica e l’urgenza della svolta digitale: i piani per l'integrazione",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "laverita.info",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "corriere.it"
-      ],
-      "links": [
-        "https://www.laverita.info/poste-opas-tim-polo-tlc-2676585431.html",
-        "https://www.ilgiornale.it/news/aziende/poste-rilancia-sul-risiko-tim-sar-aggressiva-2642502.html",
-        "https://www.ilmessaggero.it/economia/poste_opas_al_via_luglio_fante_tim_restera_societa_separata-9433989.html",
-        "https://www.ilfattoquotidiano.it/2026/03/23/poste-tim-piano-borsa/8333744/",
-        "https://www.ansa.it/sito/notizie/economia/2026/03/23/poste-ha-ora-il-27-di-tim-sara-al-20-dopo-la-conversione-delle-risparmio_1577c387-711c-42b0-9185-b2876bf0ef76.html"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Trump ferma i raid per cinque giorni: 'Con l'Iran accordo su 15 punti'",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "corriere.it",
-        "laverita.info",
-        "repubblica.it",
-        "adnkronos.com",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_24/guerra-iran-news-diretta.shtml",
-        "https://www.laverita.info/trump-iran-accordo-2676580783.html",
-        "https://www.repubblica.it/esteri/2026/03/24/news/negoziato_stati_uniti_iran_trump_intesa_nucleare_teheran-425241385/",
-        "https://www.adnkronos.com/internazionale/esteri/trump-annuncio-iran-colloqui-guerra_52ySX5UGZlpQmtLRNuVagM",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/23/trump-ferma-i-raid-per-cinque-giorni-con-liran-accordo-su-15-punti_5747f300-ad95-46e7-b519-4419159076eb.html"
       ]
     },
     {
@@ -179,42 +182,43 @@
     },
     {
       "rank": 9,
-      "title": "Il referendum della generazione Z, boom tra i 18 e 28 anni: 67% di partecipazione al voto, con il 58,5% per il No",
-      "source_count": 5,
-      "article_count": 7,
+      "title": "Il blitz di Poste su Tim, 'stand alone e più aggressiva'",
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
-        "corriere.it",
-        "repubblica.it",
-        "lastampa.it",
+        "laverita.info",
+        "ilgiornale.it",
         "ilmessaggero.it",
-        "ansa.it"
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "corriere.it"
       ],
       "links": [
-        "https://www.corriere.it/politica/26_marzo_24/referendum-generazione-z-aa841290-d628-4c09-b6a7-61b1e8c3bxlk.shtml",
-        "https://www.corriere.it/politica/26_marzo_24/referendum-generazione-z-aa841290-d628-4c09-b6a7-61b1e8c3bxlk.shtml",
-        "https://www.repubblica.it/politica/2026/03/24/news/flussi_elettorali_voto_referendum_giustizia_analisi-425241517/",
-        "https://www.lastampa.it/politica/2026/03/24/news/la_mappa_delle_urne_il_no_prevale_nelle_grandi_citta_il_si_nei_centri_sotto_i_10_mila_abitanti-15557512/",
-        "https://www.ilmessaggero.it/politica/referendum_disertori_destra_chi_sono_come_hanno_votato_partiti-9433974.html"
+        "https://www.laverita.info/poste-opas-tim-polo-tlc-2676585431.html",
+        "https://www.ilgiornale.it/news/aziende/poste-rilancia-sul-risiko-tim-sar-aggressiva-2642502.html",
+        "https://www.ilmessaggero.it/economia/poste_opas_al_via_luglio_fante_tim_restera_societa_separata-9433989.html",
+        "https://www.ilfattoquotidiano.it/2026/03/23/poste-tim-piano-borsa/8333744/",
+        "https://www.ansa.it/sito/notizie/economia/2026/03/23/poste-ha-ora-il-27-di-tim-sara-al-20-dopo-la-conversione-delle-risparmio_1577c387-711c-42b0-9185-b2876bf0ef76.html"
       ]
     },
     {
       "rank": 10,
       "title": "Colombia, aereo militare si schianta nella Foresta Amazzonica dopo il decollo, almeno 66 i morti Video",
       "source_count": 5,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "fanpage.it",
         "ilmessaggero.it",
         "corriere.it",
         "ansa.it",
-        "fanpage.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.fanpage.it/esteri/schianto-aereo-militare-in-colombia-almeno-66-morti-la-corsa-contro-il-tempo-degli-abitanti-ha-salvato-57-soldati/",
         "https://www.ilmessaggero.it/mondo/colombia_aereo_militare_precipitato_incidente-9435197.html",
         "https://www.corriere.it/esteri/26_marzo_24/aereo-militare-colombiano-si-schianta-subito-dopo-il-decollo-almeno-66-i-morti-9891e394-ec0d-47b2-ae2f-e7b6c8c8dxlk.shtml",
         "https://video.corriere.it/esteri/colombia-ecco-l-aereo-militare-in-fiamme-dopo-lo-schianto-nella-foresta-amazzonica/55300b49-5529-4dec-b690-1a3d3f8c6xlk",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/23/aereo-militare-precipita-in-colombia-8-morti-e-oltre-80-feriti_c736dc5e-396f-42cc-865b-b82fce548517.html",
-        "https://www.fanpage.it/esteri/aereo-militare-c-130-hercules-precipita-e-va-a-fuoco-con-oltre-100-soldati-a-bordo-tragedia-in-colombia/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/23/aereo-militare-precipita-in-colombia-8-morti-e-oltre-80-feriti_c736dc5e-396f-42cc-865b-b82fce548517.html"
       ]
     }
   ]
