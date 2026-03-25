@@ -1,19 +1,19 @@
 {
   "date": "2026-03-25",
-  "generated_at": "Wed 25 Mar 09:00",
+  "generated_at": "Wed 25 Mar 10:04",
   "stories": [
     {
       "rank": 1,
       "title": "Meloni: \"Auspico che anche Santanchè si dimetta\". Delmastro e Bartolozzi lasciano",
       "source_count": 12,
-      "article_count": 22,
+      "article_count": 23,
       "source_domains": [
+        "repubblica.it",
         "fanpage.it",
         "roma.corriere.it",
         "unita.it",
         "ilgiornale.it",
         "lastampa.it",
-        "repubblica.it",
         "adnkronos.com",
         "ilmanifesto.it",
         "ilmessaggero.it",
@@ -22,19 +22,20 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.repubblica.it/politica/2026/03/25/diretta/santanche_meloni_nordio_news_giustizia_governo-425244147/",
         "https://www.fanpage.it/live/governo-meloni-ultime-notizie-crisi-dimissioni-25-marzo-diretta/",
         "http://roma.corriere.it/politica/diretta-live/26_marzo_25/dimissioni-governo-meloni-santanche-ultime-notizie.shtml",
         "https://www.unita.it/2026/03/25/capaci-di-tutto-buoni-a-nulla-saltano-delmastro-e-bartolozzi-il-governo-meloni-e-in-tilt/",
-        "https://www.ilgiornale.it/news/interni/sono-stato-sprovveduto-delmastro-e-bartolozzi-lasciano-2643033.html",
-        "https://www.fanpage.it/scanner/dimissioni-nel-governo-meloni-cerca-capri-espiatori-ma-la-responsabilita-politica-e-sua/"
+        "https://www.ilgiornale.it/news/interni/sono-stato-sprovveduto-delmastro-e-bartolozzi-lasciano-2643033.html"
       ]
     },
     {
       "rank": 2,
       "title": "Addio a Gino Paoli, maestro della canzone d'autore italiana",
-      "source_count": 9,
+      "source_count": 10,
       "article_count": 16,
       "source_domains": [
+        "unita.it",
         "ilmessaggero.it",
         "ilgiornale.it",
         "ilmanifesto.it",
@@ -46,28 +47,30 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.unita.it/2026/03/25/gino-paoli-abiettamente-poetico-addio-al-primo-antidivo-della-canzone/",
         "https://www.ilmessaggero.it/persone/gino_paoli_funerale_quando_dove_moglie_figli-9437315.html",
+        "https://www.ilmessaggero.it/persone/gino_paoli_funerale_ceneri_boccadasse_quando_dove-9437315.html",
         "https://www.ilgiornale.it/news/musica/poeta-ruvido-che-port-cielo-dautore-nella-stanza-musica-pop-2642993.html",
-        "https://ilmanifesto.it/passioni-e-mal-di-di-vivere-addio-a-gino-paoli-lanarchico-della-canzone-dautore",
-        "https://www.ansa.it/sito/notizie/cultura/2026/03/24/e-morto-gino-paoli_fe0b0a05-792f-4859-b365-8aebc36c55cf.html",
-        "https://www.corriere.it/spettacoli/26_marzo_24/gino-paoli-gigante-dalla-vita-inimitabile-la-pallottola-nel-cuore-vanoni-e-sandrelli-il-figlio-scomparso-i-capolavori-e-l-4becaf0d-1116-4813-8d12-1ce6cf5b9xlk.shtml"
+        "https://ilmanifesto.it/passioni-e-mal-di-di-vivere-addio-a-gino-paoli-lanarchico-della-canzone-dautore"
       ]
     },
     {
       "rank": 3,
       "title": "Bergamo, studente di terza media accoltella un'insegnante a scuola: è gravissima",
-      "source_count": 9,
-      "article_count": 9,
+      "source_count": 11,
+      "article_count": 11,
       "source_domains": [
         "adnkronos.com",
         "unita.it",
         "ansa.it",
         "bergamo.corriere.it",
         "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "milano.repubblica.it",
         "fanpage.it",
-        "lastampa.it"
+        "lastampa.it",
+        "agi.it"
       ],
       "links": [
         "https://www.adnkronos.com/cronaca/bergamo-studente-delle-medie-accoltella-professoressa-prima-della-lezione-e-grave_7fz7WS7lbjghqN3o8dYmi6",
@@ -80,8 +83,8 @@
     {
       "rank": 4,
       "title": "Sinner fatica con Michelsen, ma avanza ai quarti a Miami",
-      "source_count": 8,
-      "article_count": 9,
+      "source_count": 9,
+      "article_count": 10,
       "source_domains": [
         "ilfattoquotidiano.it",
         "fanpage.it",
@@ -89,6 +92,7 @@
         "liberoquotidiano.it",
         "ansa.it",
         "corriere.it",
+        "ilmessaggero.it",
         "repubblica.it",
         "lastampa.it"
       ],
@@ -102,47 +106,88 @@
     },
     {
       "rank": 5,
-      "title": "Iran, Trump propone piano: 15 punti per chiudere la guerra",
+      "title": "Santanchè, mediazione di La Russa, la ministra però resiste. Meloni: sfiducia in Aula",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 10,
       "source_domains": [
         "ilgiornale.it",
+        "adnkronos.com",
         "ilfattoquotidiano.it",
-        "fanpage.it",
+        "ansa.it",
+        "roma.corriere.it",
         "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/interni/daniela-santanch-arriva-ministero-i-giornalisti-chiedono-2643083.html",
+        "https://www.adnkronos.com/politica/santanche-arriva-al-ministero-nessuna-risposta-ai-cronisti-sulla-richiesta-di-dimissioni-video_5X2Lr5g1B1FLbBrVhubiaI",
+        "https://www.adnkronos.com/politica/meloni-in-pressing-per-dimissioni-santanche-la-ministra-oggi-al-dicastero-no-comment-su-passo-indietro_6VRz4ysfkohZw6YhN4ZA48",
+        "https://www.ilfattoquotidiano.it/politica-palazzo/live-post/2026/03/25/mozione-sfiducia-santanche-m5s-ministero-dimissioni/8335769/",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/24/santanche-continua-a-lavorare-domattina-attesa-al-ministero_87c7faf1-adff-477b-8759-0ab551905036.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Iran, Trump propone piano: 15 punti per chiudere la guerra",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "repubblica.it",
+        "ilfattoquotidiano.it",
         "adnkronos.com",
         "corriere.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/guerra/teheran-usa-negoziano-loro-stessi-media-richieste-degli-2643047.html",
+        "https://www.repubblica.it/esteri/2026/03/25/news/piano_15_punti_trump_iran_intesa_ostacoli-425244300/",
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/25/guerra-in-iran-israele-usa-news-oggi-25-marzo/8335625/",
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-25-marzo/",
         "https://www.repubblica.it/esteri/2026/03/25/news/trump_iran_accordo_concessioni_hormuz_aperto_navi_amiche-425243660/",
-        "https://www.adnkronos.com/internazionale/esteri/iran-trump-piano-usa-15-punti_6rApoNJk0YRZzJRuLPanDy"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Meloni-Santanchè, braccio di ferro inedito e durissimo. E la maggioranza pensa alla sfiducia in Parlamento",
-      "source_count": 4,
-      "article_count": 7,
-      "source_domains": [
-        "roma.corriere.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "http://roma.corriere.it/notizie/politica/26_marzo_25/meloni-santanche-retroscena-braccio-di-ferro-0459d6e5-1f69-490f-a2da-a9b383c60xlk.shtml",
-        "http://roma.corriere.it/notizie/politica/26_marzo_25/meloni-santanche-retroscena-braccio-di-ferro-0459d6e5-1f69-490f-a2da-a9b383c60xlk.shtml",
-        "https://www.repubblica.it/politica/2026/03/25/news/dimissioni_delmastro_bartolozzi_cosa_e_successo-425243780/",
-        "https://www.lastampa.it/politica/2026/03/25/news/santanche_mediazione_la_russa_ministra_resiste_dimissioni_meloni-15559171/",
-        "https://www.lastampa.it/politica/2026/03/25/news/la_premier_e_i_contatti_con_il_colle_poi_l_ordine_al_partito_ora_pulizia-15559160/"
+        "https://www.adnkronos.com/internazionale/esteri/iran-trump-piano-usa-15-punti_6rApoNJk0YRZzJRuLPanDy",
+        "https://www.corriere.it/esteri/26_marzo_24/iran-apre-hormuz-trump-invia-piano-pace-b4402497-7ff8-43b0-b6ec-2a92fea89xlk.shtml"
       ]
     },
     {
       "rank": 7,
+      "title": "Ucraina, drone russo sconfina e colpisce centrale elettrica in Estonia",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/flash/2026/03/25/-lettonia-drone-proveniente-dalla-russia-esploso-sul-nostro-territorio-_188001b5-7cd0-46e2-b45c-2b751a6fee8a.html",
+        "https://www.ilfattoquotidiano.it/2026/03/25/drone-russo-contro-una-centrale-elettrica-in-estonia-convocata-riunione-demergenza-sulla-sicurezza/8335707/",
+        "https://www.fanpage.it/esteri/drone-russo-colpisce-centrale-elettrica-in-estonia-governo-convoca-vertice-demergenza-sulla-sicurezza/",
+        "https://www.adnkronos.com/internazionale/esteri/ucraina-drone-russo-sconfina-e-colpisce-centrale-elettrica-in-estonia_5QkWaru2s4zwWFK8JhtYfg",
+        "https://www.ilgiornale.it/news/guerra/drone-russo-sconfina-estonia-colpita-centrale-elettrica-2643060.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Media: “Gli Usa hanno inviato all’Iran il piano in 15 punti per finire la guerra”",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/25/medio-oriente-iran-deride-trump-siete-cosi-nei-guai-che_86d80ec3-136f-4f04-97ad-f9033094c220.html",
+        "https://www.ilgiornale.it/news/guerra/teheran-usa-negoziano-loro-stessi-media-richieste-degli-2643047.html",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_25/guerra-in-iran-le-ultime-notizie-in-diretta.shtml",
+        "https://www.repubblica.it/esteri/2026/03/25/diretta/guerra_iran_usa_israele_news_oggi-425243838/",
+        "https://www.lastampa.it/esteri/2026/03/25/diretta/guerra_iran_usa_israele_news_oggi-15559249/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Conte e Schlein in campo per le primarie, Salis si sfila",
       "source_count": 5,
       "article_count": 5,
@@ -162,7 +207,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Attacco russo su Leopoli: drone colpisce chiesa patrimonio Unesco",
       "source_count": 4,
       "article_count": 6,
@@ -178,44 +223,6 @@
         "https://www.corriere.it/esteri/26_marzo_24/attacco-diurno-sull-ucraina-drone-contro-siti-unesco-a-leopoli-90921d20-cfc1-4209-9ec3-de7870774xlk.shtml",
         "https://video.corriere.it/esteri/attacco-russo-su-leopoli-il-momento-in-cui-uno-dei-droni-colpisce-un-edificio-residenziale/4af431bf-5ca3-404f-9048-bbc27c268xlk",
         "https://www.liberoquotidiano.it/video/tv-news/46969916/attacchi-con-drone-nel-centro-di-leopoli-in-fiamme-un-palazzo/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "I racconti dei ragazzi sul loro No al referendum",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "corriere.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/cronaca/2026/03/25/news/costituzione_referendum_partecipazione_giovani-425243620/",
-        "https://www.repubblica.it/cronaca/2026/03/25/news/no_referendum_giovani_storie_fuorisede_moini_immigrato-425243612/",
-        "https://www.ilmessaggero.it/politica/referendum_perche_i_giovani_hanno_votato_no-9436076.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/24/youtrend-la-generazione-z-in-massa-alle-urne-per-dire-no_a92f8549-7880-4fd5-94ed-0ca7c10bed3c.html",
-        "https://www.corriere.it/politica/26_marzo_23/il-boom-tra-i-giovani-due-su-tre-alle-urne-la-maggioranza-vota-no-1.shtml"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Terremoto, dimissioni, pressioni su Santanchè: le decisioni di Meloni, una giornata cruciale",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "laverita.info",
-        "liberoquotidiano.it",
-        "governo.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.laverita.info/delmastro-bartolozzi-2676615043.html",
-        "https://www.liberoquotidiano.it/news/politica/46972620/terremoto-dimissioni-pressioni-su-santanche-le-decisioni-di-meloni-una-giornata-cruciale/",
-        "https://www.governo.it/it/articolo/nota-di-palazzo-chigi/31387",
-        "https://www.liberoquotidiano.it/news/politica/46971172/giorgia-meloni-chiede-le-dimissioni-di-santanche-faccia-la-stessa-scelta-di-bartolozzi-e-delmastro-/",
-        "https://www.liberoquotidiano.it/news/giustizia/46969055/andrea-delmastro-giusi-bartolozzi-dimissioni-ministero-giustizia/"
       ]
     }
   ]
