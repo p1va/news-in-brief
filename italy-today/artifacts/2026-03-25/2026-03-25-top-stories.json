@@ -1,9 +1,36 @@
 {
   "date": "2026-03-25",
-  "generated_at": "Wed 25 Mar 19:09",
+  "generated_at": "Wed 25 Mar 20:48",
   "stories": [
     {
       "rank": 1,
+      "title": "Santanchè arriva al ministero, nessuna risposta ai cronisti sulla richiesta di dimissioni",
+      "source_count": 12,
+      "article_count": 29,
+      "source_domains": [
+        "ansa.it",
+        "video.corriere.it",
+        "fanpage.it",
+        "unita.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/03/25/governo-la-ministra-santanche-si-e-dimessa-il-mio-certificato-penale-immacolato_87c7faf1-adff-477b-8759-0ab551905036.html",
+        "https://video.corriere.it/politica/santanche-l-ultima-volta-al-ministero-del-turismo-l-uscita-senza-rispondere-ai-cronisti/298a1cb8-8bb8-40a2-ba15-3718243ddxlk",
+        "https://video.corriere.it/politica/santanche-l-ultima-volta-al-ministero-del-turismo-l-uscita-senza-rispondere-ai-cronisti/298a1cb8-8bb8-40a2-ba15-3718243ddxlk",
+        "http://roma.corriere.it/notizie/politica/26_marzo_25/daniela-santanche-dimissioni-410d844f-dd8f-4aad-9dfa-68061f37exlk.shtml",
+        "http://roma.corriere.it/notizie/politica/26_marzo_25/daniela-santanche-dimissioni-410d844f-dd8f-4aad-9dfa-68061f37exlk.shtml"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Bergamo, studente di terza media accoltella un'insegnante a scuola: è gravissima",
       "source_count": 12,
       "article_count": 23,
@@ -30,10 +57,10 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Meloni: \"Auspico che anche Santanchè si dimetta\". Delmastro e Bartolozzi lasciano",
+      "rank": 3,
+      "title": "Via Delmastro e Bartolozzi. Meloni, ora si dimetta anche Santanchè. Lei resiste",
       "source_count": 10,
-      "article_count": 19,
+      "article_count": 18,
       "source_domains": [
         "ilgiornale.it",
         "unita.it",
@@ -55,30 +82,34 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Santanchè arriva al ministero, nessuna risposta ai cronisti sulla richiesta di dimissioni",
-      "source_count": 8,
-      "article_count": 18,
+      "rank": 4,
+      "title": "Suicidio assistito con dispositivo oculare. Così è morta Libera",
+      "source_count": 12,
+      "article_count": 14,
       "source_domains": [
-        "ansa.it",
-        "video.corriere.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
+        "fanpage.it",
         "ilgiornale.it",
-        "ilsole24ore.com"
+        "adnkronos.com",
+        "firenze.repubblica.it",
+        "ilfattoquotidiano.it",
+        "unita.it",
+        "corrierefiorentino.corriere.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "lastampa.it",
+        "agi.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/03/25/governo-la-ministra-santanche-si-e-dimessa-il-mio-certificato-penale-immacolato_87c7faf1-adff-477b-8759-0ab551905036.html",
-        "https://video.corriere.it/politica/santanche-l-ultima-volta-al-ministero-del-turismo-l-uscita-senza-rispondere-ai-cronisti/298a1cb8-8bb8-40a2-ba15-3718243ddxlk",
-        "https://video.corriere.it/politica/santanche-l-ultima-volta-al-ministero-del-turismo-l-uscita-senza-rispondere-ai-cronisti/298a1cb8-8bb8-40a2-ba15-3718243ddxlk",
-        "https://www.adnkronos.com/politica/santanche-lascia-il-ministero-nessuna-dichiarazione-video_3d6ryic1bIK2QAo3IsovKE",
-        "https://www.repubblica.it/politica/2026/03/25/news/daniela_santanche_dimissioni_meloni_ministro_turismo-425245009/"
+        "https://www.fanpage.it/innovazione/scienze/come-funziona-il-dispositivo-a-comando-oculare-del-cnr-che-ha-permesso-il-suicidio-assistito-di-libera/",
+        "https://www.ilgiornale.it/news/attualit/suicidio-assistito-cos-e-funziona-puntatore-oculare-creato-2643282.html",
+        "https://www.ilgiornale.it/news/nazionale/suicidio-assistito-dispositivo-oculare-cos-morta-libera-2643262.html",
+        "https://www.adnkronos.com/cronaca/e-morta-libera-per-la-55enne-suicidio-assistito-con-il-dispositivo-fornito-dalla-usl_Ho0dmJFeWrkMHoIkMV8Wc",
+        "https://firenze.repubblica.it/cronaca/2026/03/25/news/come_funziona_libera_dispositivo_progettato_cnr-425245229/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Famiglia nel bosco, La Russa incontra i genitori \"Stemperare il clima\"",
       "source_count": 7,
       "article_count": 17,
@@ -100,57 +131,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Gino Paoli, il funerale in forma privata e niente camera ardente: le ceneri sparse in mare a Boccadasse, il borgo della sua gatta",
-      "source_count": 9,
-      "article_count": 14,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "genova.repubblica.it",
-        "ilmessaggero.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "corriere.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/personaggi/gino-paoli-torner-nel-suo-mare-ceneri-disperse-boccadasse-2643277.html",
-        "https://www.fanpage.it/cultura/le-ceneri-di-gino-paoli-saranno-gettate-nel-mare-di-boccadesse-i-funerali-giovedi-26-marzo-in-forma-privata/",
-        "https://www.adnkronos.com/spettacoli/gino-paoli-le-ceneri-del-cantautore-saranno-disperse-a-boccadasse_6TxwM9sj6gsZ7tf32bBuNG",
-        "https://www.ilfattoquotidiano.it/2026/03/25/gino-paoli-laddio-silenzioso-e-di-classe-funerali-privati-e-le-ceneri-disperse-sul-lungomare-di-boccadasse/8335791/",
-        "https://genova.repubblica.it/cronaca/2026/03/25/news/gino_paoli_ceneri_in_mare_boccadasse_genova_la_gatta_funerali_forma_privata_liguria-425244411/"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Suicidio assistito con dispositivo oculare. Così è morta Libera",
-      "source_count": 11,
-      "article_count": 11,
-      "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "unita.it",
-        "corrierefiorentino.corriere.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "firenze.repubblica.it",
-        "lastampa.it",
-        "agi.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/nazionale/suicidio-assistito-dispositivo-oculare-cos-morta-libera-2643262.html",
-        "https://www.adnkronos.com/cronaca/e-morta-libera-per-la-55enne-suicidio-assistito-con-il-dispositivo-fornito-dalla-usl_Ho0dmJFeWrkMHoIkMV8Wc",
-        "https://www.ilfattoquotidiano.it/2026/03/25/suicidio-assistito-libera-comando-oculare-news/8336247/",
-        "https://www.unita.it/2026/03/25/suicidio-assistito-morta-libera-macchinario-cnr-autosomministrazione-farmaco/",
-        "http://corrierefiorentino.corriere.it/notizie/cronaca/26_marzo_25/morta-libera-il-suicidio-assistito-e-stato-possibile-grazie-al-dispositivo-a-comando-oculare-del-cnr-44378365-eb42-439c-9ce1-2268a9dfdxlk.shtml"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Sinner fatica con Michelsen, ma avanza ai quarti a Miami",
       "source_count": 8,
       "article_count": 13,
@@ -173,7 +154,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Caso di aviaria in Lombardia: è il primo contagio umano in Europa. Il ministero: “Contratta all’estero”",
       "source_count": 9,
       "article_count": 10,
@@ -197,48 +178,66 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Santanchè lascia dopo il pressing di Meloni: «Cara Giorgia, pago conti di altri. Non vorrei essere un capro espiatorio» | La sua lettera",
-      "source_count": 8,
-      "article_count": 11,
+      "rank": 8,
+      "title": "Gino Paoli, il funerale in forma privata e niente camera ardente: le ceneri sparse in mare a Boccadasse, il borgo della sua gatta",
+      "source_count": 7,
+      "article_count": 10,
       "source_domains": [
-        "roma.corriere.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "unita.it",
-        "liberoquotidiano.it",
         "ilgiornale.it",
+        "fanpage.it",
         "adnkronos.com",
-        "ilmessaggero.it"
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "corriere.it"
       ],
       "links": [
-        "http://roma.corriere.it/notizie/politica/26_marzo_25/daniela-santanche-dimissioni-410d844f-dd8f-4aad-9dfa-68061f37exlk.shtml",
-        "http://roma.corriere.it/notizie/politica/26_marzo_25/daniela-santanche-dimissioni-410d844f-dd8f-4aad-9dfa-68061f37exlk.shtml",
-        "https://www.corriere.it/politica/26_marzo_25/testo-lettera-dimissioni-santanche-6db76357-824d-4cd9-bdda-75e829403xlk.shtml",
-        "https://www.ilfattoquotidiano.it/2026/03/25/santanche-dimissioni-lettera-meloni-garibaldi-delmastro-notizie/8336579/",
-        "https://www.fanpage.it/spettacolo/programmi-tv/santanche-si-dimette-ma-la-tv-generalista-guarda-dallaltra-parte-il-tg2-la-infila-come-terza-notizia/"
+        "https://www.ilgiornale.it/news/personaggi/gino-paoli-torner-nel-suo-mare-ceneri-disperse-boccadasse-2643277.html",
+        "https://www.fanpage.it/cultura/le-ceneri-di-gino-paoli-saranno-gettate-nel-mare-di-boccadesse-i-funerali-giovedi-26-marzo-in-forma-privata/",
+        "https://www.adnkronos.com/spettacoli/gino-paoli-le-ceneri-del-cantautore-saranno-disperse-a-boccadasse_6TxwM9sj6gsZ7tf32bBuNG",
+        "https://www.ilfattoquotidiano.it/2026/03/25/gino-paoli-laddio-silenzioso-e-di-classe-funerali-privati-e-le-ceneri-disperse-sul-lungomare-di-boccadasse/8335791/",
+        "https://www.ilmessaggero.it/schede/gino_paoli_case_dove_viveva_genova_modena-9437364.html"
       ]
     },
     {
-      "rank": 10,
-      "title": "In Danimarca vincono i socialdemcoratici della premier ma senza maggioranza",
+      "rank": 9,
+      "title": "La classifica delle migliori università: La Sapienza prima per Lettere classiche e Storia antica per il sesto anno",
       "source_count": 7,
       "article_count": 9,
       "source_domains": [
         "ilfattoquotidiano.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "unita.it",
         "ansa.it",
-        "ilmanifesto.it"
+        "ilgiornale.it",
+        "fanpage.it",
+        "roma.corriere.it",
+        "ilmessaggero.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/25/elezioni-danimarca-socialdemocratici-tassa-maiali-notizie/8335980/",
-        "https://www.corriere.it/esteri/26_marzo_25/l-voto-in-danimarca-vincono-i-socialdemcoratici-della-premier-ma-senza-maggioranza-25695230-6fd8-48d2-9f19-74dd01535xlk.shtml",
-        "https://www.ilgiornale.it/news/politica/sinistra-avanti-calo-peggior-risultato-1901-governare-serve-2642954.html",
-        "https://www.liberoquotidiano.it/news/tv-news/46980035/danimarca-socialdemocratici-primi-ma-senza-maggioranza/",
-        "https://www.unita.it/2026/03/25/elezioni-danimarca-socialdemocratici-frederiksen-primo-partito-senza-maggioranza/"
+        "https://www.ilfattoquotidiano.it/2026/03/25/classifica-universita-mondiali-qs-sapienza-bocconi-notizie/8335957/",
+        "https://www.ansa.it/canale_legalita_scuola/notizie/mur/2026/03/25/la-classifica-delle-migliori-universita-la-sapienza-prima-per-lettere-classiche-e-storia_b47ff0a6-dcec-49ac-95ea-fb2f479c9a1b.html",
+        "https://www.ilgiornale.it/news/attualit/universit-classifica-mondiale-sapienza-primo-posto-lettere-2643143.html",
+        "https://www.fanpage.it/roma/la-sapienza-e-luniversita-migliore-negli-studi-classici-al-mondo-per-il-sesto-anno-consecutivo/",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_25/la-sapienza-e-la-migliore-universita-al-mondo-per-lettere-e-storia-in-classifica-anche-tor-vergata-e-roma-tre-f0ea2b7a-5792-47c9-8aca-7c85e8ea8xlk.shtml"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Meloni in visita in Algeria, incontro con Tebboune",
+      "source_count": 4,
+      "article_count": 11,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "governo.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/46986861/tebboune_tra_italia_e_algeria_partnership_strategica_su_piu_fronti_/",
+        "https://www.liberoquotidiano.it/news/pillole/46986516/medio-oriente-meloni-dall-italia-sostegno-a-ogni-iniziativa-per-la-stabilita-/",
+        "https://www.liberoquotidiano.it/news/pillole/46986519/italia-algeria_meloni_rafforziamo_cooperazione_e_flusso_di_gas_/",
+        "https://www.liberoquotidiano.it/news/tv-news/46986850/meloni-rafforziamo-cooperazione-e-flusso-di-gas-dall-algeria/",
+        "https://www.ilmessaggero.it/politica/meloni_algeria_guerra_iran_gas_cosa_ha_detto-9437807.html"
       ]
     }
   ]
