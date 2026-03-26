@@ -1,13 +1,41 @@
 {
   "date": "2026-03-26",
-  "generated_at": "Thu 26 Mar 11:00",
+  "generated_at": "Thu 26 Mar 11:58",
   "stories": [
     {
       "rank": 1,
+      "title": "Tredicenne accoltella la prof a scuola e si filma",
+      "source_count": 12,
+      "article_count": 25,
+      "source_domains": [
+        "corriere.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "laverita.info",
+        "ilmanifesto.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.corriere.it/cronache/26_marzo_26/trescore-balneario-manifesto-telegram-b15d7515-c1d7-4ca0-aef3-2906be888xlk.shtml",
+        "https://www.ilfattoquotidiano.it/2026/03/26/ecco-perche-il-fattoquotidiano-non-pubblichera-il-video-del-13enne-che-accoltella-la-professoressa/8337269/",
+        "https://www.ilmessaggero.it/persone/prof_accoltellata_studente_telegram_uccidero_l_insegnante_trescore_balneario-9439785.html",
+        "https://www.ilmessaggero.it/italia/prof_accoltellata_video_diretta_cosa_e_successo_trescore_balneario-9439782.html",
+        "https://www.ilfattoquotidiano.it/2026/03/26/minori-reati-social-accoltellamento-trescore-notizie/8336627/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Santanchè lascia il governo: “Obbedisco alla premier, pago anche i conti degli altri”",
       "source_count": 10,
-      "article_count": 23,
+      "article_count": 24,
       "source_domains": [
+        "ilgiornale.it",
         "unita.it",
         "ansa.it",
         "fanpage.it",
@@ -16,40 +44,14 @@
         "repubblica.it",
         "lastampa.it",
         "ilmessaggero.it",
-        "ilgiornale.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/obbedisco-leader-sono-immacolata-santanch-si-dimette-2643374.html",
         "https://www.unita.it/2026/03/26/fratelli-italia-dimissioni-santanche-ministra-delmastro/",
         "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/03/26/prime-pagine-santanche-si-dimette-obbedisco-e-pago-anche-per-gli-altri_ca2e8e88-9d6f-49b6-b5b8-ea74e6fd8a4b.html",
         "https://www.unita.it/2026/03/26/santanche-si-dimette-il-congedo-al-veleno-dal-ministero-meloni-risolve-la-grana-giustizia-nella-maggioranza/",
-        "https://www.fanpage.it/live/governo-meloni-ultime-notizie-crisi-dimissioni-26-marzo-diretta/",
-        "http://roma.corriere.it/notizie/politica/26_marzo_26/santanche-dimissioni-meloni-088719fd-9aa0-4cd6-a852-542d82394xlk.shtml"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Tredicenne accoltella la prof a scuola e si filma",
-      "source_count": 10,
-      "article_count": 18,
-      "source_domains": [
-        "video.corriere.it",
-        "ilgiornale.it",
-        "milano.repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "laverita.info",
-        "ilmanifesto.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://video.corriere.it/bergamo/il-video-dell-agguato-del-13enne-alla-professoressa-a-trescore-balnerare/57379695-78eb-46d9-9282-d6f2c0eddxlk",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/laggressione-13enne-prof-video-diretta-su-telegram-poi-2643545.html",
-        "https://milano.repubblica.it/cronaca/2026/03/26/news/post_social_ragazzo_accoltellamento_bergamo_prof_mocchi-425246813/",
-        "https://www.lastampa.it/cronaca/2026/03/26/news/immagini_aggressione_scuola_prof_trescore_balneario-15560953/",
-        "https://www.ilgiornale.it/news/nazionale/brutto-voto-o-lite-compagno-cosa-c-dietro-l-accoltellamento-2643516.html"
+        "https://www.fanpage.it/live/governo-meloni-ultime-notizie-crisi-dimissioni-26-marzo-diretta/"
       ]
     },
     {
@@ -79,63 +81,67 @@
     },
     {
       "rank": 4,
-      "title": "Verdetto storico negli Usa: 'Meta e Google colpevoli della dipendenza dai social'",
-      "source_count": 7,
-      "article_count": 9,
+      "title": "Dipendenza da social media, Meta e Google responsabili: la storica sentenza",
+      "source_count": 8,
+      "article_count": 13,
       "source_domains": [
-        "unita.it",
-        "fanpage.it",
         "corriere.it",
+        "ilgiornale.it",
+        "unita.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
         "ilfattoquotidiano.it",
         "ansa.it",
-        "ilgiornale.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.corriere.it/tecnologia/26_marzo_26/chi-e-kaley-g-m-la-ventenne-che-ha-vinto-la-causa-contro-meta-e-youtube-sulla-dipendenza-da-social-f56cb676-1ade-4cc7-b0a0-b012f6163xlk.shtml",
+        "https://www.ilgiornale.it/news/politica/social-dipendenza-colpo-google-e-meta-2643396.html",
         "https://www.unita.it/2026/03/26/social-dipendenza-condannati-meta-google-milioni-dollari-risarcimento/",
-        "https://www.fanpage.it/innovazione/tecnologia/instagram-deve-risarcire-42-milioni-di-dollari-a-una-ragazza-per-il-tribunale-i-social-creano-dipendenza/",
-        "https://www.corriere.it/tecnologia/26_marzo_25/instagram-e-youtube-responsabili-della-dipendenza-da-social-la-sentenza-storica-a-los-angeles-9f87b346-901b-4743-ba60-648e52fadxlk.shtml",
-        "https://www.corriere.it/esteri/26_marzo_25/usa-contro-meta-facebook-instagram-e-youtube-due-sentenze-e-risarcimenti-milionari-provocano-dipendenza-6b29e116-caab-4ccc-bafe-b147c5df3xlk.shtml",
-        "https://www.ilfattoquotidiano.it/2026/03/25/dipendenza-social-meta-google-risarcimento-notizie/8336735/"
+        "https://www.corriere.it/tecnologia/26_marzo_26/perche-la-sentenza-sulla-dipendenza-da-social-e-storica-e-quali-saranno-le-conseguenze-per-le-big-tech-5621da30-9aee-4cb5-aebe-baa480417xlk.shtml",
+        "https://www.liberoquotidiano.it/news/tv-news/46998868/giuria-usa-meta-e-youtube-condannate-creano-dipendenza-/"
       ]
     },
     {
       "rank": 5,
-      "title": "Previsioni meteo: colpo di coda dell'inverno, Italia sferzata dal vento e neve anche in collina",
-      "source_count": 6,
+      "title": "Caos Forza Italia, Gasparri si dimette da capogruppo al Senato. Idea Stefania Craxi per la successione",
+      "source_count": 9,
       "article_count": 10,
       "source_domains": [
+        "roma.corriere.it",
         "ansa.it",
-        "fanpage.it",
+        "adnkronos.com",
         "ilgiornale.it",
         "ilmessaggero.it",
-        "adnkronos.com",
-        "torino.corriere.it"
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/26/previsioni-meteo-colpo-di-coda-dellinverno-italia-sferzata-dal-vento-e-neve_d7d64210-dce1-4da6-b226-4496b4642756.html",
-        "https://www.fanpage.it/attualita/con-il-ciclone-deborah-torna-linverno-sul-centro-italia-la-neve-causa-disagi-in-toscana-e-umbria/",
-        "https://www.ilgiornale.it/news/attualit/italia-nel-vortice-invernale-neve-bassa-quota-fino-10-c-meno-2643525.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/26/la-neve-e-tornata-in-alto-adige-chiusi-passi-gardena-e-sella_d7d64210-dce1-4da6-b226-4496b4642756.html",
-        "https://www.ilmessaggero.it/schede/freddo_termosifoni_non_si_possono_accendere_dove_lista_ciclone_artico-9439525.html"
+        "http://roma.corriere.it/notizie/politica/26_marzo_26/forza-italia-maurizio-gasparri-costretto-a-lasciare-la-poltrona-da-capogruppo-al-suo-posto-stefania-craxi-989cee18-3214-46cf-b007-f0080bac0xlk.shtml",
+        "http://roma.corriere.it/notizie/politica/26_marzo_26/forza-italia-maurizio-gasparri-costretto-a-lasciare-la-poltrona-da-capogruppo-al-suo-posto-stefania-craxi-989cee18-3214-46cf-b007-f0080bac0xlk.shtml",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/26/gasparri-si-dimettera-in-giornata-da-capogruppo-di-fi-al-senato_014b9354-3498-4b48-814b-822100b56c25.html",
+        "https://www.adnkronos.com/politica/gasparri-si-dimette-in-giornata-da-capogruppo-di-forza-italia_4Nq2utoHWzmq17JyAEYShk",
+        "https://www.ilgiornale.it/news/parlamento/maurizio-gasparri-lascia-ruolo-capogruppo-forza-italia-suo-2643602.html"
       ]
     },
     {
       "rank": 6,
-      "title": "Famiglia nel bosco, i genitori da La Russa: \"Qui per tendere una mano\"",
+      "title": "I genitori del bosco da La Russa: \"Vogliamo tornare una famiglia\"",
       "source_count": 7,
       "article_count": 9,
       "source_domains": [
-        "laverita.info",
+        "ilgiornale.it",
         "ansa.it",
         "unita.it",
         "roma.corriere.it",
         "lastampa.it",
-        "ilgiornale.it",
+        "laverita.info",
         "news.google.com"
       ],
       "links": [
-        "https://www.laverita.info/famiglia-bosco-lettera-mamma-catherine-2676619324.html",
+        "https://www.ilgiornale.it/news/politica/i-genitori-bosco-russa-vogliamo-tornare-famiglia-2643394.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/25/la-russa-incontra-i-genitori-della-famiglia-nel-bosco.-la-donna-grazie-a-chi_3617049d-ef8c-4ad6-94a5-8ece26523e36.html",
         "https://www.unita.it/2026/03/25/famiglia-bosco-la-russa-genitori-senato-clima-condizioni-convivenza/",
         "http://roma.corriere.it/notizie/cronaca/26_marzo_25/la-famiglia-del-bosco-ha-incontrato-la-russa-catherine-in-lacrime-abbiamo-scelto-l-italia-per-i-nostri-stessi-valori-fateci-cd5792c8-67f0-44e1-b5de-96bc8c194xlk.shtml",
@@ -144,6 +150,28 @@
     },
     {
       "rank": 7,
+      "title": "Suicidio assistito con dispositivo oculare. Così è morta Libera",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "corrierefiorentino.corriere.it",
+        "ilmanifesto.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "agi.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/sguardo-morire-primo-suicidio-assistito-comandato-occhi-2643397.html",
+        "http://corrierefiorentino.corriere.it/notizie/cronaca/26_marzo_26/il-suicidio-assistito-di-libera-parla-il-medico-che-l-ha-seguita-ha-sorriso-e-ha-detto-io-sono-pronta-poi-con-gli-occhi-si-e-9ce5c6f2-04b2-4923-bbdd-11e2a3c33xlk.shtml",
+        "https://ilmanifesto.it/suicidio-assistito-libera-e-morta-con-laiuto-del-cnr",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/25/morta-libera-suicidio-assistito-con-dispositivo-a-comando-oculare_612c302e-9545-4402-baa9-23e642d6d8a4.html",
+        "https://www.ilgiornale.it/news/attualit/suicidio-assistito-cos-e-funziona-puntatore-oculare-creato-2643282.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Terremoto oggi a Pistoia, scossa di magnitudo 4,1: avvertita anche a Firenze",
       "source_count": 8,
       "article_count": 8,
@@ -166,67 +194,43 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Suicidio assistito con dispositivo oculare. Così è morta Libera",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "corrierefiorentino.corriere.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "agi.it",
-        "news.google.com"
-      ],
-      "links": [
-        "http://corrierefiorentino.corriere.it/notizie/cronaca/26_marzo_26/il-suicidio-assistito-di-libera-parla-il-medico-che-l-ha-seguita-ha-sorriso-e-ha-detto-io-sono-pronta-poi-con-gli-occhi-si-e-9ce5c6f2-04b2-4923-bbdd-11e2a3c33xlk.shtml",
-        "https://ilmanifesto.it/suicidio-assistito-libera-e-morta-con-laiuto-del-cnr",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/25/morta-libera-suicidio-assistito-con-dispositivo-a-comando-oculare_612c302e-9545-4402-baa9-23e642d6d8a4.html",
-        "https://www.ilgiornale.it/news/attualit/suicidio-assistito-cos-e-funziona-puntatore-oculare-creato-2643282.html",
-        "https://www.ilgiornale.it/news/nazionale/suicidio-assistito-dispositivo-oculare-cos-morta-libera-2643262.html"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Schlein: In qualunque momento ci saranno le elezioni politiche noi ci faremo trovare pronti",
-      "source_count": 6,
-      "article_count": 9,
+      "title": "Iran, Trump: \"Negoziatori di Teheran hanno paura di essere uccisi dalla loro stessa gente\"",
+      "source_count": 5,
+      "article_count": 10,
       "source_domains": [
-        "corriere.it",
-        "repubblica.it",
-        "ilmanifesto.it",
+        "video.corriere.it",
         "liberoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it"
+        "repubblica.it",
+        "lastampa.it",
+        "ilgiornale.it"
       ],
       "links": [
-        "https://www.corriere.it/politica/26_marzo_26/pd-lo-stop-di-schlein-ai-federatori-il-leader-sia-espressione-dei-partiti-1d7bc21a-68e4-4b7e-8201-64dc2b0edxlk.shtml",
-        "https://www.repubblica.it/politica/2026/03/26/news/schlein_pronti_elezioni_alternativa_destra_primarie-425245914/",
-        "https://ilmanifesto.it/schlein-alla-stampa-estera-siamo-pronti-a-elezioni",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/46991632/schlein-nostro-obiettivo-sempre-stato-ricostruire-coalizione-progressista-alternativa-ala-destra/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/46991630/schlein-in-qualunque-momento-ci-saranno-le-elezioni-politiche-noi-ci-faremo-trovare-pronti/"
+        "https://video.corriere.it/esteri/trump-i-negoziatori-di-teheran-hanno-paura-di-essere-uccisi-dalla-loro-stessa-gente-/aca733d1-5771-4651-a2b2-84ba9f23exlk",
+        "https://www.liberoquotidiano.it/news/libero-video/46997791/iran-trump-negoziatori-di-teheran-hanno-paura-di-essere-uccisi-dalla-loro-stessa-gente-/",
+        "https://www.liberoquotidiano.it/news/tv-news/46995453/trump-stiamo-vincendo-gli-iraniani-trattano-ma-hanno-paura-di-dirlo/",
+        "https://www.repubblica.it/esteri/2026/03/26/news/negoziati_iran__cinque_richieste_usa-425245982/",
+        "https://www.repubblica.it/esteri/2026/03/26/news/piano_usa_iran_nucleare_hormuz-425245984/"
       ]
     },
     {
       "rank": 10,
-      "title": "Gattuso all’Italia: “L’Irlanda del Nord ha il veleno dentro, ma noi vogliamo tornare al Mondiale”",
-      "source_count": 6,
-      "article_count": 8,
+      "title": "Italia, l'Irlanda del Nord stasera per giocarci (mezzo) Mondiale: convocati e ultime notizie in diretta",
+      "source_count": 5,
+      "article_count": 10,
       "source_domains": [
-        "ansa.it",
+        "unita.it",
+        "fanpage.it",
         "corriere.it",
-        "ilgiornale.it",
-        "lastampa.it",
         "ilfattoquotidiano.it",
-        "repubblica.it"
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/03/26/il-bivio-mondiali-gattuso-giochiamo-con-il-dente-avvelenato_7128f429-e110-4885-a16a-68923809fa21.html",
-        "https://www.corriere.it/sport/calcio/26_marzo_26/dove-vedere-italia-irlanda-del-nord-qualificazioni-mondiale-2026-6d830836-4c1d-4f9b-b99f-52f5a9d7fxlk.shtml",
-        "https://www.corriere.it/sport/calcio/26_marzo_26/gattuso-ct-nazionale-commento-condo-64bbdfed-7bb2-4cd5-8cd0-6732f2080xlk.shtml",
-        "https://www.ilgiornale.it/news/sport/carica-mondiale-gattuso-non-pu-essere-litalia-pi-forte-dovr-2643413.html",
-        "https://www.lastampa.it/sport/2026/03/26/news/italia_irlanda_del_nord_analisi_playoff-15560668/"
+        "https://www.unita.it/2026/03/26/chi-gioca-italia-irlanda-nord-scelte-gattuso-semifinale-playoff-bastoni-palestra-esposito/",
+        "https://www.fanpage.it/sport/live/italia-irlanda-del-nord-live-giovedi-26-marzo-formazioni-orario-diretta-playoff-mondiali/",
+        "https://www.fanpage.it/sport/calcio/gattuso-ha-deciso-chi-sono-i-5-calciatori-da-mandare-in-tribuna-per-italia-irlanda-del-nord/",
+        "https://www.corriere.it/sport/diretta-live/26_marzo_26/italia-irlanda-nord-stasera-qualificazioni.shtml",
+        "https://www.corriere.it/sport/diretta-live/26_marzo_26/italia-irlanda-nord-stasera-qualificazioni.shtml"
       ]
     }
   ]
