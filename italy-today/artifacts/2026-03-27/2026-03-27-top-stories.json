@@ -1,29 +1,29 @@
 {
   "date": "2026-03-27",
-  "generated_at": "Fri 27 Mar 09:02",
+  "generated_at": "Fri 27 Mar 10:04",
   "stories": [
     {
       "rank": 1,
       "title": "L’Italia fa il primo passo verso il Mondiale, 2-0 all’Irlanda del Nord. Ora la finale play-off",
       "source_count": 9,
-      "article_count": 14,
+      "article_count": 16,
       "source_domains": [
+        "liberoquotidiano.it",
         "corriere.it",
         "ansa.it",
         "ilgiornale.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it",
         "adnkronos.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/sport/47012594/gennaro_gattuso_aggrappato_tonali_pagelle_italia_irlanda_nord/",
+        "https://www.liberoquotidiano.it/news/sport/47012592/gattuso_italia_bosnia_non_e_scontato_parole_caldo_fanno_tremare/",
         "https://www.corriere.it/sport/diretta-live/26_marzo_26/italia-irlanda-nord-stasera-qualificazioni.shtml",
         "https://www.corriere.it/sport/diretta-live/26_marzo_26/italia-irlanda-nord-stasera-qualificazioni.shtml",
-        "https://www.ansa.it/sito/notizie/sport/2026/03/26/mondiali-litalia-batte-2-0-lirlanda-del-nord-e-accede-alla-finale-dei_7128f429-e110-4885-a16a-68923809fa21.html",
-        "https://www.ilgiornale.it/news/calcio/italia-buona-irlanda-nord-eliminata-grazie-ai-gol-tonali-e-2643856.html",
-        "https://www.corriere.it/sport/calcio/mondiali/26_marzo_26/gattuso-dopo-italia-irlanda-del-nord-intervista-65a284c5-0b7c-4ed1-b8df-db9c1ed93xlk.shtml"
+        "https://www.ansa.it/sito/notizie/sport/2026/03/26/mondiali-litalia-batte-2-0-lirlanda-del-nord-e-accede-alla-finale-dei_7128f429-e110-4885-a16a-68923809fa21.html"
       ]
     },
     {
@@ -76,28 +76,6 @@
     },
     {
       "rank": 4,
-      "title": "Sinner quando gioca la semifinale a Miami? Tiafoe travolto in due set. Orario e dove vederla",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/tennis/sinner-zverev-oggi-in-semifinale-al-miami-open-2026-a-che-ora-si-gioca-e-dove-vederla-in-tv/",
-        "https://www.ilgiornale.it/news/sport/sinner-semifinale-grazie-versione-perfetta-se-stesso-2643917.html",
-        "https://www.liberoquotidiano.it/news/sport/47009462/jannik-sinner-prima-massacra-tiafoe-poi-giustifica-cosi/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/26/tennis-sinner-in-semifinale-a-miami-battuto-tiafoe-in-2-set_d2fa7123-1fd6-45a1-8e31-97d8b910d2b5.html",
-        "https://www.corriere.it/sport/tennis/diretta-live/26_marzo_26/sinner-tiafoe-quarti-miami-diretta-risultato.shtml"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Addio a Beppe Savoldi, re del gol e mister due miliardi",
       "source_count": 7,
       "article_count": 8,
@@ -119,7 +97,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Sui social il manifesto che annunciava l’aggressione: “Ucciderò la mia prof”",
       "source_count": 6,
       "article_count": 9,
@@ -140,7 +118,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Sciopero dei giornalisti. Il comunicato della Fnsi e della Fieg",
       "source_count": 7,
       "article_count": 7,
@@ -159,6 +137,27 @@
         "https://www.corriere.it/economia/aziende/26_marzo_26/oggi-sciopero-giornalisti-comunicato-sindacale-fnsi-comunicato-fieg-38d0e053-4459-4dbc-91d7-2297399efxlk.shtml",
         "https://www.lastampa.it/editoriali/lettere-e-idee/2026/03/26/news/la_stampa_sciopero_contratto_di_lavoro-15561455/",
         "https://www.ansa.it/sito/notizie/politica/2026/03/26/fnsi-lo-sciopero-per-il-rinnovo-contrattuale-garantire-un-futuro-allinformazione-.-fieg-dal_980e1d2b-5a0c-4f0c-80ac-557186b57b47.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Sinner quando gioca la semifinale a Miami? Tiafoe travolto in due set. Orario e dove vederla",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/tennis/sinner-zverev-oggi-in-semifinale-al-miami-open-2026-a-che-ora-si-gioca-e-dove-vederla-in-tv/",
+        "https://www.ilgiornale.it/news/sport/sinner-semifinale-grazie-versione-perfetta-se-stesso-2643917.html",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/26/tennis-sinner-in-semifinale-a-miami-battuto-tiafoe-in-2-set_d2fa7123-1fd6-45a1-8e31-97d8b910d2b5.html",
+        "https://www.corriere.it/sport/tennis/diretta-live/26_marzo_26/sinner-tiafoe-quarti-miami-diretta-risultato.shtml",
+        "https://www.ilgiornale.it/news/tennis/atp-miami-sinner-troppo-superiore-regola-tiafoe-due-set-e-2643826.html"
       ]
     },
     {
