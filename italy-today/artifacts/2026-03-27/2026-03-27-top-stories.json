@@ -1,6 +1,6 @@
 {
   "date": "2026-03-27",
-  "generated_at": "Fri 27 Mar 13:20",
+  "generated_at": "Fri 27 Mar 14:58",
   "stories": [
     {
       "rank": 1,
@@ -99,28 +99,6 @@
     },
     {
       "rank": 5,
-      "title": "Addio a Beppe Savoldi, re del gol e mister due miliardi",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "corriere.it",
-        "unita.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/sport/addio-savoldi-idolo-popolo-calcio-umano-mister-2-miliardi-2643916.html",
-        "https://ilmanifesto.it/addio-a-beppe-savoldi-il-bomber-dei-settanta",
-        "https://www.ansa.it/sito/notizie/sport/2026/03/26/calcio-e-morto-beppe-savoldi_692e19fb-09be-4f58-8f8f-17a3c6685af0.html",
-        "https://www.ilmessaggero.it/sport/calcio/beppe_savoldi_chi_era_mister_due_miliardi-9440146.html",
-        "https://www.corriere.it/sport/26_marzo_26/beppe-savoldi-morto-03f6286b-2ecc-4525-9ec4-846dd3319xlk.shtml"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Sciopero dei giornalisti. Il comunicato della Fnsi e della Fieg",
       "source_count": 7,
       "article_count": 7,
@@ -142,7 +120,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Choc al cimitero, profanato il corpo di Pamela Genini",
       "source_count": 6,
       "article_count": 7,
@@ -163,7 +141,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Sinner quando gioca la semifinale a Miami? Tiafoe travolto in due set. Orario e dove vederla",
       "source_count": 6,
       "article_count": 7,
@@ -184,10 +162,31 @@
       ]
     },
     {
+      "rank": 8,
+      "title": "Addio a Beppe Savoldi, re del gol e mister due miliardi",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilmanifesto.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "unita.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/sport/addio-savoldi-idolo-popolo-calcio-umano-mister-2-miliardi-2643916.html",
+        "https://ilmanifesto.it/addio-a-beppe-savoldi-il-bomber-dei-settanta",
+        "https://www.ansa.it/sito/notizie/sport/2026/03/26/calcio-e-morto-beppe-savoldi_692e19fb-09be-4f58-8f8f-17a3c6685af0.html",
+        "https://www.ilmessaggero.it/sport/calcio/beppe_savoldi_chi_era_mister_due_miliardi-9440146.html",
+        "https://www.corriere.it/sport/26_marzo_26/beppe-savoldi-morto-03f6286b-2ecc-4525-9ec4-846dd3319xlk.shtml"
+      ]
+    },
+    {
       "rank": 9,
-      "title": "Il manifesto su Telegram dello studente accoltellatore: “Infrangerò ogni regola, non sono punibile”",
+      "title": "“Tagliati o racconto i tuoi segreti”: il ricatto choc del 13enne che ha accoltellato la prof",
       "source_count": 5,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
         "laverita.info",
@@ -196,11 +195,11 @@
         "milano.repubblica.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/tagliati-o-racconto-i-tuoi-segreti-ricatto-choc-13enne-che-2644130.html",
+        "https://www.ilgiornale.it/news/politica/piace-umiliarmi-uccider-13enne-trasferito-psichiatria-2643894.html",
         "https://www.ilgiornale.it/news/politica/nei-suoi-profili-violenza-show-i-killer-sono-idoli-chat-i-2643897.html",
         "https://www.laverita.info/accoltellamento-prof-trescore-2676627092.html",
-        "https://ilmanifesto.it/coltellate-alla-professoressa-quella-lontananza-mortale-dagli-adulti",
-        "https://www.corriere.it/cronache/26_marzo_26/13enne-accoltella-prof-bergamo-amica-chat-4fceab70-2a3f-4f57-a40f-6c9355e3dxlk.shtml",
-        "https://milano.repubblica.it/cronaca/2026/03/26/news/manifesto_telegram_studente_accoltellatore-425248729/"
+        "https://ilmanifesto.it/coltellate-alla-professoressa-quella-lontananza-mortale-dagli-adulti"
       ]
     },
     {
