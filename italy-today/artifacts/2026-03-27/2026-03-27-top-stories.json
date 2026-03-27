@@ -1,11 +1,11 @@
 {
   "date": "2026-03-27",
-  "generated_at": "Fri 27 Mar 11:47",
+  "generated_at": "Fri 27 Mar 13:20",
   "stories": [
     {
       "rank": 1,
       "title": "L’Italia fa il primo passo verso il Mondiale, 2-0 all’Irlanda del Nord. Ora la finale play-off",
-      "source_count": 9,
+      "source_count": 10,
       "article_count": 16,
       "source_domains": [
         "liberoquotidiano.it",
@@ -14,6 +14,7 @@
         "ilgiornale.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
+        "laverita.info",
         "ilmessaggero.it",
         "lastampa.it",
         "adnkronos.com"
@@ -184,6 +185,26 @@
     },
     {
       "rank": 9,
+      "title": "Il manifesto su Telegram dello studente accoltellatore: “Infrangerò ogni regola, non sono punibile”",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilgiornale.it",
+        "laverita.info",
+        "ilmanifesto.it",
+        "corriere.it",
+        "milano.repubblica.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/nei-suoi-profili-violenza-show-i-killer-sono-idoli-chat-i-2643897.html",
+        "https://www.laverita.info/accoltellamento-prof-trescore-2676627092.html",
+        "https://ilmanifesto.it/coltellate-alla-professoressa-quella-lontananza-mortale-dagli-adulti",
+        "https://www.corriere.it/cronache/26_marzo_26/13enne-accoltella-prof-bergamo-amica-chat-4fceab70-2a3f-4f57-a40f-6c9355e3dxlk.shtml",
+        "https://milano.repubblica.it/cronaca/2026/03/26/news/manifesto_telegram_studente_accoltellatore-425248729/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Trump concede dieci giorni in più all’Iran: «Negozino o sarò il loro incubo»",
       "source_count": 5,
       "article_count": 6,
@@ -200,25 +221,6 @@
         "https://www.corriere.it/esteri/26_marzo_26/trump-negoziati-iran-incubo-41a11276-0aa8-4baa-b7a7-70aa56825xlk.shtml",
         "https://www.repubblica.it/esteri/2026/03/26/news/trump_iran_usa_guerra_tregua-425248841/",
         "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/03/26/proseguono-i-contatti-usa-iran-ma-trump-prepara-lattacco-finale_0ce4badb-4dc4-496e-9bd5-234d21bd88e1.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Epatite A, aperta un'inchiesta per commercio di alimenti nocivi: ipotesi cozze estere",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "ansa.it",
-        "napoli.corriere.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/epatite-procura-indaga-sullorigine-delle-cozze-2643899.html",
-        "https://www.fanpage.it/roma/epatite-a-nel-lazio-a-gaeta-vietati-i-frutti-di-mare-crudi-nei-ristoranti/",
-        "https://www.fanpage.it/napoli/controlli-contro-lepatite-a-tra-vomero-e-arenella-trovate-cozze-e-vongole-non-tracciate-sequestrati-70-chili/",
-        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/03/26/iss-160-casi-di-epatite-a-solo-a-marzo-nel-2026-110-in-campania_55ba04f5-50e3-4f0c-abb3-8cf5588655f5.html",
-        "http://napoli.corriere.it/notizie/cronaca/26_marzo_26/epatite-a-procura-di-napoli-apre-un-inchiesta-per-commercio-di-alimenti-nocivi-ipotesi-cozze-estere-a71e5fe8-84fd-4d92-a93c-6b80d02c0xlk.shtml"
       ]
     }
   ]
