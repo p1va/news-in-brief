@@ -1,6 +1,6 @@
 {
   "date": "2026-03-27",
-  "generated_at": "Fri 27 Mar 14:58",
+  "generated_at": "Fri 27 Mar 16:01",
   "stories": [
     {
       "rank": 1,
@@ -78,9 +78,10 @@
     {
       "rank": 4,
       "title": "Chiara Mocchi, la prof accoltellata: «Stiamo accanto al ragazzo che mi ha colpito, non porto rabbia». Il legale del 13enne: distaccato dalla realtà",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
+        "unita.it",
         "ilgiornale.it",
         "lastampa.it",
         "ansa.it",
@@ -90,11 +91,11 @@
         "bergamo.corriere.it"
       ],
       "links": [
+        "https://www.unita.it/2026/03/27/insegnante-accoltellata-scuola-lettera-prof-perche-buio/",
         "https://www.ilgiornale.it/news/politica/e-prof-ferita-torno-scuola-nessun-rancore-stategli-accanto-2643895.html",
         "https://www.lastampa.it/cronaca/2026/03/26/news/la_professoressa_aggredita_a_bergamo_ne_rabbia_ne_rancore_restiamo_vicini_a_quel_ragazzo-15562147/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/26/sta-meglio-la-professoressa-accoltellata-non-e-piu-in-terapia-intensiva_8dab826d-19e8-4064-a1d2-75ae3535428a.html",
-        "https://milano.repubblica.it/cronaca/2026/03/26/news/lettera_professoressa_accoltellata_chiara_mocchi_trescore_balneario-425248922/",
-        "https://www.ilfattoquotidiano.it/2026/03/26/prof-accoltellata-trescore-balneario-testimonianza-notizie/8337944/"
+        "https://milano.repubblica.it/cronaca/2026/03/26/news/lettera_professoressa_accoltellata_chiara_mocchi_trescore_balneario-425248922/"
       ]
     },
     {
@@ -107,16 +108,16 @@
         "ilmanifesto.it",
         "corriere.it",
         "lastampa.it",
-        "ansa.it",
         "ilmessaggero.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
         "https://www.ilgiornale.it/news/editoria-e-media/sciopero-dei-giornalisti-comunicato-fnsi-e-fieg-2644014.html",
         "https://ilmanifesto.it/perche-stavolta-non-scioperiamo",
         "https://www.corriere.it/economia/aziende/26_marzo_26/oggi-sciopero-giornalisti-comunicato-sindacale-fnsi-comunicato-fieg-38d0e053-4459-4dbc-91d7-2297399efxlk.shtml",
         "https://www.lastampa.it/editoriali/lettere-e-idee/2026/03/26/news/la_stampa_sciopero_contratto_di_lavoro-15561455/",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/26/fnsi-lo-sciopero-per-il-rinnovo-contrattuale-garantire-un-futuro-allinformazione-.-fieg-dal_980e1d2b-5a0c-4f0c-80ac-557186b57b47.html"
+        "https://www.ilmessaggero.it/italia/sciopero_giornalisti_27_marzo-9440149.html"
       ]
     },
     {
@@ -163,27 +164,6 @@
     },
     {
       "rank": 8,
-      "title": "Addio a Beppe Savoldi, re del gol e mister due miliardi",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "corriere.it",
-        "unita.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/sport/addio-savoldi-idolo-popolo-calcio-umano-mister-2-miliardi-2643916.html",
-        "https://ilmanifesto.it/addio-a-beppe-savoldi-il-bomber-dei-settanta",
-        "https://www.ansa.it/sito/notizie/sport/2026/03/26/calcio-e-morto-beppe-savoldi_692e19fb-09be-4f58-8f8f-17a3c6685af0.html",
-        "https://www.ilmessaggero.it/sport/calcio/beppe_savoldi_chi_era_mister_due_miliardi-9440146.html",
-        "https://www.corriere.it/sport/26_marzo_26/beppe-savoldi-morto-03f6286b-2ecc-4525-9ec4-846dd3319xlk.shtml"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "“Tagliati o racconto i tuoi segreti”: il ricatto choc del 13enne che ha accoltellato la prof",
       "source_count": 5,
       "article_count": 7,
@@ -200,6 +180,27 @@
         "https://www.ilgiornale.it/news/politica/nei-suoi-profili-violenza-show-i-killer-sono-idoli-chat-i-2643897.html",
         "https://www.laverita.info/accoltellamento-prof-trescore-2676627092.html",
         "https://ilmanifesto.it/coltellate-alla-professoressa-quella-lontananza-mortale-dagli-adulti"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Addio a Beppe Savoldi, re del gol e mister due miliardi",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilmanifesto.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "unita.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/sport/addio-savoldi-idolo-popolo-calcio-umano-mister-2-miliardi-2643916.html",
+        "https://ilmanifesto.it/addio-a-beppe-savoldi-il-bomber-dei-settanta",
+        "https://www.ansa.it/sito/notizie/sport/2026/03/26/calcio-e-morto-beppe-savoldi_692e19fb-09be-4f58-8f8f-17a3c6685af0.html",
+        "https://www.ilmessaggero.it/sport/calcio/beppe_savoldi_chi_era_mister_due_miliardi-9440146.html",
+        "https://www.corriere.it/sport/26_marzo_26/beppe-savoldi-morto-03f6286b-2ecc-4525-9ec4-846dd3319xlk.shtml"
       ]
     },
     {
