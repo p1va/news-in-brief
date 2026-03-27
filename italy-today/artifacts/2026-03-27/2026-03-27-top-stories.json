@@ -1,12 +1,12 @@
 {
   "date": "2026-03-27",
-  "generated_at": "Fri 27 Mar 17:06",
+  "generated_at": "Fri 27 Mar 19:05",
   "stories": [
     {
       "rank": 1,
       "title": "L’Italia fa il primo passo verso il Mondiale, 2-0 all’Irlanda del Nord. Ora la finale play-off",
-      "source_count": 10,
-      "article_count": 16,
+      "source_count": 9,
+      "article_count": 14,
       "source_domains": [
         "liberoquotidiano.it",
         "corriere.it",
@@ -16,8 +16,7 @@
         "ilfattoquotidiano.it",
         "laverita.info",
         "ilmessaggero.it",
-        "lastampa.it",
-        "adnkronos.com"
+        "lastampa.it"
       ],
       "links": [
         "https://www.liberoquotidiano.it/news/sport/47012594/gennaro_gattuso_aggrappato_tonali_pagelle_italia_irlanda_nord/",
@@ -30,77 +29,28 @@
     {
       "rank": 2,
       "title": "Gasparri lascia la guida dei senatori di Forza Italia, al suo posto Stefania Craxi",
-      "source_count": 10,
-      "article_count": 13,
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ilgiornale.it",
-        "laverita.info",
         "fanpage.it",
         "roma.corriere.it",
         "ilmanifesto.it",
         "lastampa.it",
         "ansa.it",
         "repubblica.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it"
+        "ilfattoquotidiano.it"
       ],
       "links": [
         "https://www.ilgiornale.it/news/politica/marina-ridisegna-forza-italia-gasparri-lascia-arriva-craxi-2643873.html",
-        "https://www.ilgiornale.it/news/politica/cambio-era-gi-stato-programmato-leadership-fi-non-2643874.html",
-        "https://www.laverita.info/forza-italia-gasparri-craxi-berlusconi-2676627558.html",
         "https://www.fanpage.it/scanner/le-purghe-in-forza-italia-preparano-la-discesa-in-campo-di-pier-silvio-berlusconi/",
-        "http://roma.corriere.it/notizie/politica/26_marzo_26/forza-italia-maurizio-gasparri-costretto-a-lasciare-la-poltrona-da-capogruppo-al-suo-posto-stefania-craxi-989cee18-3214-46cf-b007-f0080bac0xlk.shtml"
+        "http://roma.corriere.it/notizie/politica/26_marzo_26/forza-italia-maurizio-gasparri-costretto-a-lasciare-la-poltrona-da-capogruppo-al-suo-posto-stefania-craxi-989cee18-3214-46cf-b007-f0080bac0xlk.shtml",
+        "https://ilmanifesto.it/anche-forza-italia-alla-resa-dei-conti-il-primo-licenziato-e-gasparri",
+        "http://roma.corriere.it/notizie/politica/26_marzo_26/stefania-craxi-intervista-senato-da39016f-c769-4ca8-b7a5-0886dc8dcxlk.shtml"
       ]
     },
     {
       "rank": 3,
-      "title": "Meloni sente Mattarella: nessun rimpasto di governo. E si prende l’interim del Turismo",
-      "source_count": 9,
-      "article_count": 10,
-      "source_domains": [
-        "roma.corriere.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "governo.it",
-        "ilgiornale.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "http://roma.corriere.it/notizie/politica/26_marzo_26/meloni-mattarella-rimpasto-interim-turismo-fa2c3d7a-d7d0-42e6-95f7-25055d53axlk.shtml",
-        "http://roma.corriere.it/notizie/politica/26_marzo_26/meloni-mattarella-rimpasto-interim-turismo-fa2c3d7a-d7d0-42e6-95f7-25055d53axlk.shtml",
-        "https://www.lastampa.it/politica/2026/03/26/news/meloni_tiene_il_turismo_lo_spettro_dei_sondaggi_che_vedono_il_sorpasso-15562138/",
-        "https://www.ilmessaggero.it/politica/meloni_ministero_turismo_colloquio_mattarella_ultime_notizie-9440449.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/26/meloni-parla-con-mattarella-e-prende-il-turismo-a-interim_cdbbf314-1a39-453a-ba0f-6f37174f3190.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Chiara Mocchi, la prof accoltellata: «Stiamo accanto al ragazzo che mi ha colpito, non porto rabbia». Il legale del 13enne: distaccato dalla realtà",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "unita.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ansa.it",
-        "milano.repubblica.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "bergamo.corriere.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/03/27/insegnante-accoltellata-scuola-lettera-prof-perche-buio/",
-        "https://www.ilgiornale.it/news/politica/e-prof-ferita-torno-scuola-nessun-rancore-stategli-accanto-2643895.html",
-        "https://www.lastampa.it/cronaca/2026/03/26/news/la_professoressa_aggredita_a_bergamo_ne_rabbia_ne_rancore_restiamo_vicini_a_quel_ragazzo-15562147/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/26/sta-meglio-la-professoressa-accoltellata-non-e-piu-in-terapia-intensiva_8dab826d-19e8-4064-a1d2-75ae3535428a.html",
-        "https://milano.repubblica.it/cronaca/2026/03/26/news/lettera_professoressa_accoltellata_chiara_mocchi_trescore_balneario-425248922/"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Sciopero dei giornalisti. Il comunicato della Fnsi e della Fieg",
       "source_count": 7,
       "article_count": 7,
@@ -122,28 +72,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Sinner quando gioca la semifinale a Miami? Tiafoe travolto in due set. Orario e dove vederla",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/tennis/sinner-zverev-oggi-in-semifinale-al-miami-open-2026-a-che-ora-si-gioca-e-dove-vederla-in-tv/",
-        "https://www.ilgiornale.it/news/sport/sinner-semifinale-grazie-versione-perfetta-se-stesso-2643917.html",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/26/tennis-sinner-in-semifinale-a-miami-battuto-tiafoe-in-2-set_d2fa7123-1fd6-45a1-8e31-97d8b910d2b5.html",
-        "https://www.corriere.it/sport/tennis/diretta-live/26_marzo_26/sinner-tiafoe-quarti-miami-diretta-risultato.shtml",
-        "https://www.ilgiornale.it/news/tennis/atp-miami-sinner-troppo-superiore-regola-tiafoe-due-set-e-2643826.html"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 4,
       "title": "“Tagliati o racconto i tuoi segreti”: il ricatto choc del 13enne che ha accoltellato la prof",
       "source_count": 5,
       "article_count": 7,
@@ -163,7 +92,48 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 5,
+      "title": "Trescore, la prof accoltellata: “Non lasciamo vinca il buio, la mia ferita sarà un ponte”",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "unita.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ansa.it",
+        "milano.repubblica.it",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.unita.it/2026/03/27/insegnante-accoltellata-scuola-lettera-prof-perche-buio/",
+        "https://www.ilgiornale.it/news/politica/e-prof-ferita-torno-scuola-nessun-rancore-stategli-accanto-2643895.html",
+        "https://www.lastampa.it/cronaca/2026/03/26/news/la_professoressa_aggredita_a_bergamo_ne_rabbia_ne_rancore_restiamo_vicini_a_quel_ragazzo-15562147/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/26/sta-meglio-la-professoressa-accoltellata-non-e-piu-in-terapia-intensiva_8dab826d-19e8-4064-a1d2-75ae3535428a.html",
+        "https://milano.repubblica.it/cronaca/2026/03/26/news/lettera_professoressa_accoltellata_chiara_mocchi_trescore_balneario-425248922/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Meloni sente Mattarella: nessun rimpasto di governo. E si prende l’interim del Turismo",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "roma.corriere.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "http://roma.corriere.it/notizie/politica/26_marzo_26/meloni-mattarella-rimpasto-interim-turismo-fa2c3d7a-d7d0-42e6-95f7-25055d53axlk.shtml",
+        "http://roma.corriere.it/notizie/politica/26_marzo_26/meloni-mattarella-rimpasto-interim-turismo-fa2c3d7a-d7d0-42e6-95f7-25055d53axlk.shtml",
+        "https://www.lastampa.it/politica/2026/03/26/news/meloni_tiene_il_turismo_lo_spettro_dei_sondaggi_che_vedono_il_sorpasso-15562138/",
+        "https://www.ilmessaggero.it/politica/meloni_ministero_turismo_colloquio_mattarella_ultime_notizie-9440449.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/26/meloni-parla-con-mattarella-e-prende-il-turismo-a-interim_cdbbf314-1a39-453a-ba0f-6f37174f3190.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Trump concede dieci giorni in più all’Iran: «Negozino o sarò il loro incubo»",
       "source_count": 5,
       "article_count": 6,
@@ -183,42 +153,56 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Choc al cimitero, profanato il corpo di Pamela Genini",
-      "source_count": 5,
-      "article_count": 6,
+      "rank": 8,
+      "title": "Noelia Castillo è morta a 25 anni, sottoposta a eutanasia: era paraplegica per un tentativo di suicidio dopo aver subìto uno stupro di gruppo",
+      "source_count": 4,
+      "article_count": 5,
       "source_domains": [
-        "ilgiornale.it",
-        "bergamo.corriere.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "unita.it"
+        "laverita.info",
+        "unita.it",
+        "fanpage.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/choc-cimitero-profanato-corpo-pamela-genini-2643898.html",
-        "http://bergamo.corriere.it/notizie/cronaca/26_marzo_26/pamela-genini-il-corpo-profanato-trafugata-la-testa-dalla-tomba-672cbc0f-9de9-4124-aa9c-7fea8e6afxlk.shtml",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/26/profanato-il-cadavere-di-pamela-genini-la-modella-uccisa-a-milano_feadafe9-8d13-45b8-a5c2-8b970a6615d4.html",
-        "https://www.ilgiornale.it/news/nazionale/trafugato-e-decapitato-cadavere-pamela-genini-modella-uccisa-2643788.html",
-        "https://www.ilmessaggero.it/italia/pamela_genini_profanato_cadavere_cimitero_cosa_e_successo-9440191.html"
+        "https://www.laverita.info/la-giovane-noelia-muore-2676628676.html",
+        "https://www.unita.it/2026/03/27/eutanasia-noelia-castillo-paraplegicastupro-spagna/",
+        "https://www.fanpage.it/esteri/noelia-castillo-e-morta-leutanasia-dopo-lo-stupro-lattesa-di-601-giorni-e-lultima-notte-con-la-mamma/",
+        "https://www.fanpage.it/esteri/tenta-suicidio-dopo-uno-stupro-di-gruppo-noelia-resta-tetraplegica-oggi-si-sottoporra-alleutanasia/",
+        "https://www.ilmessaggero.it/mondo/noelia_castillo_morta_eutanasia_stupro_storia-9440380.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "La spinta di Marina Berlusconi: bene il rinnovamento della classe dirigente in Forza Italia. Il ruolo (saldo) di Tajani",
+      "source_count": 3,
+      "article_count": 4,
+      "source_domains": [
+        "roma.corriere.it",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "http://roma.corriere.it/notizie/politica/26_marzo_26/marina-berlusconi-spinta-rinnovamento-classe-dirigente-0a5dd768-07e7-4765-bc0f-fe2e209d3xlk.shtml",
+        "http://roma.corriere.it/notizie/politica/26_marzo_26/marina-berlusconi-spinta-rinnovamento-classe-dirigente-0a5dd768-07e7-4765-bc0f-fe2e209d3xlk.shtml",
+        "https://www.lastampa.it/politica/2026/03/26/news/polveriera_forza_italia_quella_telefonata_di_marina_berlusconi_a_meloni-15562177/",
+        "https://www.repubblica.it/politica/2026/03/26/news/marina_berlusconi_forza_italia_gasparri_tajani_retroscena-425248812/"
       ]
     },
     {
       "rank": 10,
-      "title": "Epatite A, aperta un'inchiesta per commercio di alimenti nocivi: ipotesi cozze estere",
-      "source_count": 4,
-      "article_count": 5,
+      "title": "Droni e marines infiltrati, i piani dello sbarco Usa in Iran. Ucciso il leader della Marina militare",
+      "source_count": 3,
+      "article_count": 4,
       "source_domains": [
         "ilgiornale.it",
-        "fanpage.it",
-        "ansa.it",
-        "napoli.corriere.it"
+        "repubblica.it",
+        "corriere.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/epatite-procura-indaga-sullorigine-delle-cozze-2643899.html",
-        "https://www.fanpage.it/roma/epatite-a-nel-lazio-a-gaeta-vietati-i-frutti-di-mare-crudi-nei-ristoranti/",
-        "https://www.fanpage.it/napoli/controlli-contro-lepatite-a-tra-vomero-e-arenella-trovate-cozze-e-vongole-non-tracciate-sequestrati-70-chili/",
-        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/03/26/iss-160-casi-di-epatite-a-solo-a-marzo-nel-2026-110-in-campania_55ba04f5-50e3-4f0c-abb3-8cf5588655f5.html",
-        "http://napoli.corriere.it/notizie/cronaca/26_marzo_26/epatite-a-procura-di-napoli-apre-un-inchiesta-per-commercio-di-alimenti-nocivi-ipotesi-cozze-estere-a71e5fe8-84fd-4d92-a93c-6b80d02c0xlk.shtml"
+        "https://www.ilgiornale.it/news/politica/ucciso-tangsiri-pasdaran-che-ha-chiuso-hormuz-teheran-ha-2643889.html",
+        "https://www.ilgiornale.it/news/politica/i-quattro-piani-americani-lassalto-teocrazia-regime-kharg-2643890.html",
+        "https://www.repubblica.it/esteri/2026/03/26/news/battaglia_per_le_isole_iraniane_kharg_droni_mine-425248682/",
+        "https://www.corriere.it/esteri/26_marzo_26/sbarco-marine-iran-pantano-152727d1-1b6c-4817-955c-8edaced12xlk.shtml"
       ]
     }
   ]
