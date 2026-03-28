@@ -1,34 +1,58 @@
 {
   "date": "2026-03-28",
-  "generated_at": "Sat 28 Mar 15:38",
+  "generated_at": "Sat 28 Mar 16:43",
   "stories": [
     {
       "rank": 1,
       "title": "Ilaria Salis, cosa è successo? Il blitz della polizia nell'hotel a Roma e la segnalazione dalla Germania, Salis: «Arrivati all'alba, mi hanno chiesto del corteo»",
       "source_count": 10,
-      "article_count": 20,
+      "article_count": 22,
       "source_domains": [
         "ilfattoquotidiano.it",
-        "ilmessaggero.it",
         "liberoquotidiano.it",
+        "ilmessaggero.it",
         "fanpage.it",
         "roma.corriere.it",
+        "lastampa.it",
         "adnkronos.com",
         "ilgiornale.it",
         "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
+        "repubblica.it"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/03/28/ilaria-salis-controllo-polizia-verbale-intervista-ultime-notizie/8338658/",
+        "https://www.liberoquotidiano.it/news/libero-video/47030749/ilaria-salis-corteo-svegliata-mia-stanza-albergo-controllo-senza-spiegazioni/",
         "https://www.ilmessaggero.it/persone/ilaria_salis_cosa_e_successo_polizia_segnalazione_germania_hotel_roma_corteo-9442132.html",
         "https://www.liberoquotidiano.it/news/italia/47029233/ilaria-salis-post-col-vomito-foto-poliziotto-e-polemica/",
-        "https://www.fanpage.it/politica/ilaria-salis-perquisita-a-roma-smentisce-la-questura-evidente-correlazione-con-la-manifestazione-di-oggi/",
-        "https://www.liberoquotidiano.it/news/italia/47029159/ilaria-salis-smontate-le-balle-sulla-perquisizione-segnalazione-partita-dalla-germania-il-corteo-non-c-entra-/"
+        "https://www.fanpage.it/politica/ilaria-salis-perquisita-a-roma-smentisce-la-questura-evidente-correlazione-con-la-manifestazione-di-oggi/"
       ]
     },
     {
       "rank": 2,
+      "title": "A Roma il corteo No Kings contro le guerre, schierati mille agenti: diretta",
+      "source_count": 9,
+      "article_count": 22,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "roma.repubblica.it",
+        "video.corriere.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47031339/striscione-gaza-we-are-coming-alla-manifestazione-no-kings-a-roma/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47031337/alla-manifestazione-no-kings-a-roma-sventola-un-enorme-bandiera-della-palestina/",
+        "https://www.liberoquotidiano.it/news/libero-video/47030740/no-kings-roma-partito-corteo-contro-guerra/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47031334/tamburi-e-balli-al-corteo-nazionale-no-kings-a-roma/",
+        "https://www.fanpage.it/roma/corteo-no-kings-a-roma-migliaia-in-piazza-cartelli-contro-trump-e-meloni-no-ai-re-e-alle-loro-guerre/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "F1 Giappone, Kimi Antonelli in pole",
       "source_count": 9,
       "article_count": 19,
@@ -52,7 +76,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Sinner in finale a Miami, Zverev battuto in due set",
       "source_count": 9,
       "article_count": 19,
@@ -73,30 +97,6 @@
         "https://www.ilfattoquotidiano.it/2026/03/28/atp-miami-quando-gioca-oggi-jannik-sinner-contro-lehecka-finale-orario-tv-streaming/8338427/",
         "https://www.fanpage.it/sport/tennis/sinner-si-complimenta-con-zverev-la-risposta-e-sorprendente-non-e-stato-abbastanza-per-batterti/",
         "https://www.ilgiornale.it/news/tennis/atp-miami-sinner-e-double-sunshine-c-solo-lehecka-chi-l-2644356.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "A Roma il corteo No Kings contro le guerre, schierati mille agenti: diretta",
-      "source_count": 9,
-      "article_count": 17,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "roma.repubblica.it",
-        "video.corriere.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/roma/corteo-no-kings-a-roma-migliaia-in-piazza-cartelli-contro-trump-e-meloni-no-ai-re-e-alle-loro-guerre/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/no-kings-italy-oggi-il-corteo-a-roma-contro-i-re-e-le-loro-guerre_408cfd0f-0318-4e02-a560-1e6ef583f129.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47030470/roma-no-kings-in-piazza-contro-guerre-e-riarmo/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47029968/manifestazione-no-kings-a-roma-sventola-gigantesca-bandiera-della-pace/",
-        "https://roma.repubblica.it/cronaca/2026/03/28/diretta/manifestazione_roma_no_kings_oggi_news_diretta-425250069/"
       ]
     },
     {
@@ -172,6 +172,53 @@
     },
     {
       "rank": 8,
+      "title": "Giuseppe Tango, chi è il nuovo presidente dell'Anm: «Recuperare il dialogo con la politica»",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "roma.corriere.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_28/giuseppe-tango-nuovo-presidente-anm-4022e91a-26ef-4a10-8136-ce65ac872xlk.shtml",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/28/al-giudice-tango-la-presidenza-dellanm-_b1e38601-09b1-4b1c-a382-ecd16456c949.html",
+        "https://www.ilgiornale.it/news/magistratura/eletto-giuseppe-tango-chi-nuovo-presidente-dell-anm-2644495.html",
+        "https://www.ilmessaggero.it/politica/giuseppe_tango_presidente_anm_chi_e-9442262.html",
+        "https://www.ilfattoquotidiano.it/2026/03/28/giuseppe-tango-nuovo-presidente-anm-news/8338693/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Parco della Pace a Roma, una donna cade in un pozzo non segnalato: incastrata a 15 metri di profondità",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "roma.corriere.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "roma.repubblica.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-locale/paura-roma-donna-cade-pozzo-non-segnalato-l-intervento-dei-2644499.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/recuperata-la-donna-caduta-in-un-pozzo-a-roma-trasportata-in-ospedale_e400165d-b29b-4506-9a5a-978138101581.html",
+        "https://www.ilfattoquotidiano.it/2026/03/28/donna-cade-pozzo-parco-della-pace-roma-news-ultime-notizie/8338606/",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_28/parco-della-pace-a-roma-una-donna-cade-in-un-pozzo-non-segnalato-incastrata-a-15-metri-di-profondita-afa36bd3-925c-4455-81d6-8361bb191xlk.shtml",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_28/parco-della-pace-a-roma-una-donna-cade-in-un-pozzo-non-segnalato-incastrata-a-15-metri-di-profondita-afa36bd3-925c-4455-81d6-8361bb191xlk.shtml"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Torna l'ora legale, come e quando spostare le lancette",
       "source_count": 7,
       "article_count": 8,
@@ -190,50 +237,6 @@
         "https://www.corriere.it/economia/consumi/26_marzo_28/ora-legale-stanotte-le-lancette-si-spostano-in-avanti-risparmi-per-80-milioni-di-euro-ecco-come-2cb7df94-e55d-48e8-93f3-f31881111xlk.shtml",
         "https://www.lastampa.it/cronaca/2026/03/28/news/ora_legale_2026_quando_cambia-15562835/",
         "https://www.repubblica.it/cronaca/2026/03/28/news/ora_legale_2026_quando_cambia-425248510/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Dimarco e l'esultanza per la vittoria della Bosnia: «Non siamo stati arroganti. Poco rispettoso riprenderci»",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "corriere.it",
-        "fanpage.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/calcio/nessuna-presunzione-dimarco-spiega-video-dell-esultanza-2644485.html",
-        "https://www.ilfattoquotidiano.it/2026/03/28/dimarco-video-virale-galles-bosnia-poco-rispettoso-esser-ripresi-cerano-famiglie-e-bambini/8338527/",
-        "https://www.liberoquotidiano.it/news/sport/47029920/bosnia-italia-federico-dimarco-fa-scoppiare-la-polemica/",
-        "https://www.corriere.it/sport/calcio/mondiali/26_marzo_28/dimarco-bosnia-esultanza-conferenza-1802ab78-ccd6-4b89-830c-2fe458997xlk.shtml",
-        "https://www.fanpage.it/sport/calcio/dimarco-spiega-il-discusso-video-dellesultanza-per-la-bosnia-e-stato-poco-rispettoso-filmarci/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Donna e bimbo di un anno trovati morti in un laghetto nel Rodigino",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "corrieredelveneto.corriere.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/rovigo_donna_bambino_morti_lago_artificiale_ultima_ora-9442219.html",
-        "https://www.ilgiornale.it/news/cronaca-locale/tragedia-nel-rodigino-mamma-e-bimbo-anno-morti-laghetto-2644466.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/donna-e-bimbo-di-un-anno-trovati-morti-in-un-laghetto-nel-rodigino_23adf88a-019e-4142-980d-742f3495f565.html",
-        "https://www.ilfattoquotidiano.it/2026/03/28/tragedia-castelguglielmo-donna-bambino-laghetto-news/8338562/",
-        "https://www.fanpage.it/attualita/una-donna-e-un-bimbo-di-un-anno-trovati-morti-in-un-laghetto-artificiale-la-tragedia-vicino-a-rovigo/"
       ]
     }
   ]
