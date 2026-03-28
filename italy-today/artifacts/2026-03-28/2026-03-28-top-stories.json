@@ -1,15 +1,64 @@
 {
   "date": "2026-03-28",
-  "generated_at": "Sat 28 Mar 11:35",
+  "generated_at": "Sat 28 Mar 13:07",
   "stories": [
     {
       "rank": 1,
-      "title": "Sinner in finale a Miami, Zverev battuto in due set",
-      "source_count": 9,
+      "title": "Salis perquisita in hotel a Roma: \"Italia ormai è un regime\". Questura: \"Segnalazione da Paese terzo, atto dovuto\"",
+      "source_count": 10,
       "article_count": 17,
       "source_domains": [
-        "ilfattoquotidiano.it",
         "fanpage.it",
+        "roma.corriere.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/politica/ilaria-salis-perquisita-a-roma-smentisce-la-questura-evidente-correlazione-con-la-manifestazione-di-oggi/",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_28/ilaria-salis-racconto-perquisizione-ora-verbale-43e3702f-8a6e-438d-8ec9-6fa4962f1xlk.shtml",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_28/ilaria-salis-racconto-perquisizione-ora-verbale-43e3702f-8a6e-438d-8ec9-6fa4962f1xlk.shtml",
+        "https://www.liberoquotidiano.it/news/politica/47028840/ilaria-salis-la-questura-controllo-chiesto-da-un-paese-terzo-ma-la-sinistra-infanga-l-italia-regime-/",
+        "https://www.ilfattoquotidiano.it/2026/03/28/controllo-salis-hotel-germania-mi-chiedevano-del-corteo-intervista/8338396/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Antonelli ci ha preso gusto, Kimi in pole pure al GP Giappone: Leclerc in seconda fila a Suzuka",
+      "source_count": 9,
+      "article_count": 18,
+      "source_domains": [
+        "fanpage.it",
+        "corriere.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/motori/verstappen-esplode-in-radio-contro-red-bull-dopo-le-qualifiche-da-incubo-a-suzuka-era-inguidabile/",
+        "https://www.corriere.it/sport/formula-1/26_marzo_28/kimi-antonelli-intervista-gp-giappone-qualifiche-9ec66568-7778-4845-8eb6-b19c9f376xlk.shtml",
+        "https://www.fanpage.it/sport/motori/charles-leclerc-spiega-perche-per-lui-le-qualifiche-f1-in-giappone-sono-state-una-fota-farsa/",
+        "https://www.repubblica.it/sport/formulauno/2026/03/28/news/hamilton_leclerc_ferrari_f1_gp_giappone_2026-425249827/",
+        "https://www.fanpage.it/sport/motori/la-reazione-di-kimi-antonelli-alla-pole-in-giappone-spiega-cosha-di-speciale-peccato-per-lerrore/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Sinner in finale a Miami, Zverev battuto in due set",
+      "source_count": 9,
+      "article_count": 18,
+      "source_domains": [
+        "fanpage.it",
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
@@ -19,59 +68,11 @@
         "ansa.it"
       ],
       "links": [
+        "https://www.fanpage.it/sport/tennis/jiri-lehecka-chi-e-lavversario-di-sinner-al-miami-open-fisico-scolpito-e-dna-dello-sportivo/",
         "https://www.ilfattoquotidiano.it/2026/03/28/atp-miami-quando-gioca-oggi-jannik-sinner-contro-lehecka-finale-orario-tv-streaming/8338427/",
         "https://www.fanpage.it/sport/tennis/sinner-si-complimenta-con-zverev-la-risposta-e-sorprendente-non-e-stato-abbastanza-per-batterti/",
         "https://www.ilgiornale.it/news/tennis/atp-miami-sinner-e-double-sunshine-c-solo-lehecka-chi-l-2644356.html",
-        "https://www.ilfattoquotidiano.it/2026/03/28/sinner-zverev-semifinale-miami-analisi-finale-domenica-lehecka/8338266/",
-        "https://www.ilmessaggero.it/sport/schede/sinner_ranking_numero_uno_alcaraz_come_cambia_punti-9441782.html"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Antonelli ci ha preso gusto, Kimi in pole pure al GP Giappone: Leclerc in seconda fila a Suzuka",
-      "source_count": 9,
-      "article_count": 16,
-      "source_domains": [
-        "corriere.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.corriere.it/sport/formula-1/26_marzo_28/kimi-antonelli-intervista-gp-giappone-qualifiche-9ec66568-7778-4845-8eb6-b19c9f376xlk.shtml",
-        "https://www.fanpage.it/sport/motori/charles-leclerc-spiega-perche-per-lui-le-qualifiche-f1-in-giappone-sono-state-una-fota-farsa/",
-        "https://www.fanpage.it/sport/motori/la-reazione-di-kimi-antonelli-alla-pole-in-giappone-spiega-cosha-di-speciale-peccato-per-lerrore/",
-        "https://www.ilfattoquotidiano.it/2026/03/28/antonelli-pole-position-giappone-formula1-record-seconda-consecutiva-ferrari-leclerc-hamilton/8338276/",
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/03/28/f1-giappone-kimi-antonelli-in-pole.-_80554e23-2665-4fec-98a6-6281f7971e7d.html"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Ilaria Salis e la perquisizione in hotel a Roma: «L'Italia ormai è un regime». La questura: «Controlli di routine»",
-      "source_count": 9,
-      "article_count": 14,
-      "source_domains": [
-        "roma.corriere.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "repubblica.it",
-        "fanpage.it"
-      ],
-      "links": [
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_28/ilaria-salis-racconto-perquisizione-ora-verbale-43e3702f-8a6e-438d-8ec9-6fa4962f1xlk.shtml",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_28/ilaria-salis-racconto-perquisizione-ora-verbale-43e3702f-8a6e-438d-8ec9-6fa4962f1xlk.shtml",
-        "https://www.ilfattoquotidiano.it/2026/03/28/controllo-salis-hotel-germania-mi-chiedevano-del-corteo-intervista/8338396/",
-        "https://www.lastampa.it/politica/2026/03/28/news/ilaria_salis_perquisizioni_hotel_intervista-15562946/",
-        "https://www.adnkronos.com/politica/ilaria-salis-e-la-perquisizione-in-hotel-a-roma-italia-ormai-e-un-regime_1XNXKI7YRBhMlzKfNy0VOM"
+        "https://www.ilfattoquotidiano.it/2026/03/28/sinner-zverev-semifinale-miami-analisi-finale-domenica-lehecka/8338266/"
       ]
     },
     {
@@ -148,22 +149,22 @@
       "rank": 7,
       "title": "Corteo No Kings a Roma, la diretta live | In migliaia da piazza della Repubblica a San Giovanni: «Blocchiamo la città». Schierati mille agenti",
       "source_count": 7,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "roma.repubblica.it",
         "roma.corriere.it",
         "ilgiornale.it",
-        "roma.repubblica.it",
         "lastampa.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "fanpage.it"
       ],
       "links": [
+        "https://roma.repubblica.it/cronaca/2026/03/28/diretta/manifestazione_roma_no_kings_oggi_news_diretta-425250069/",
         "http://roma.corriere.it/cronaca/diretta-live/26_marzo_28/corteo-no-kings-roma-diretta.shtml",
         "http://roma.corriere.it/cronaca/diretta-live/26_marzo_28/corteo-no-kings-roma-diretta.shtml",
         "https://www.ilgiornale.it/news/politica/oggi-piazza-antagonista-allerta-anarchici-2644241.html",
-        "https://roma.repubblica.it/cronaca/2026/03/28/news/no_kings_askatasuna_chi_sono_manifestazione_roma_oggi-425249863/",
-        "https://www.lastampa.it/cronaca/2026/03/28/diretta/no_kings_oggi_manifestazione_roma_diretta-15562911/"
+        "https://roma.repubblica.it/cronaca/2026/03/28/news/no_kings_askatasuna_chi_sono_manifestazione_roma_oggi-425249863/"
       ]
     },
     {
