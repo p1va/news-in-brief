@@ -1,6 +1,6 @@
 {
   "date": "2026-03-28",
-  "generated_at": "Sat 28 Mar 19:36",
+  "generated_at": "Sat 28 Mar 20:39",
   "stories": [
     {
       "rank": 1,
@@ -30,30 +30,6 @@
     },
     {
       "rank": 2,
-      "title": "Sinner in finale a Miami, Zverev battuto in due set",
-      "source_count": 9,
-      "article_count": 20,
-      "source_domains": [
-        "corriere.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.corriere.it/sport/tennis/26_marzo_28/sinner-lehecka-finale-miami-orario-dove-vedere-9e489867-7353-4fa1-b1db-9f0aa4db2xlk.shtml",
-        "https://www.liberoquotidiano.it/news/sport/47031496/jannik-sinner-finale-miami-rischio-rinvio-ecco-perche/",
-        "https://www.repubblica.it/sport/tennis/2026/03/28/news/finale_miami_atp_orario_sinner_lehecka_chi_e-425250185/",
-        "https://www.fanpage.it/sport/tennis/jiri-lehecka-chi-e-lavversario-di-sinner-al-miami-open-fisico-scolpito-e-dna-dello-sportivo/",
-        "https://www.ilfattoquotidiano.it/2026/03/28/atp-miami-quando-gioca-oggi-jannik-sinner-contro-lehecka-finale-orario-tv-streaming/8338427/"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "No Kings, a Roma partito il corteo contro la guerra",
       "source_count": 8,
       "article_count": 21,
@@ -76,7 +52,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "F1 Giappone, Kimi Antonelli in pole",
       "source_count": 9,
       "article_count": 19,
@@ -97,6 +73,30 @@
         "https://www.corriere.it/sport/formula-1/26_marzo_28/kimi-antonelli-intervista-gp-giappone-qualifiche-9ec66568-7778-4845-8eb6-b19c9f376xlk.shtml",
         "https://www.fanpage.it/sport/motori/charles-leclerc-spiega-perche-per-lui-le-qualifiche-f1-in-giappone-sono-state-una-fota-farsa/",
         "https://www.repubblica.it/sport/formulauno/2026/03/28/news/hamilton_leclerc_ferrari_f1_gp_giappone_2026-425249827/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Sinner in finale a Miami, Zverev battuto in due set",
+      "source_count": 9,
+      "article_count": 19,
+      "source_domains": [
+        "corriere.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ansa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.corriere.it/sport/tennis/26_marzo_28/sinner-lehecka-finale-miami-orario-dove-vedere-9e489867-7353-4fa1-b1db-9f0aa4db2xlk.shtml",
+        "https://www.liberoquotidiano.it/news/sport/47031496/jannik-sinner-finale-miami-rischio-rinvio-ecco-perche/",
+        "https://www.repubblica.it/sport/tennis/2026/03/28/news/finale_miami_atp_orario_sinner_lehecka_chi_e-425250185/",
+        "https://www.fanpage.it/sport/tennis/jiri-lehecka-chi-e-lavversario-di-sinner-al-miami-open-fisico-scolpito-e-dna-dello-sportivo/",
+        "https://www.ilfattoquotidiano.it/2026/03/28/atp-miami-quando-gioca-oggi-jannik-sinner-contro-lehecka-finale-orario-tv-streaming/8338427/"
       ]
     },
     {
@@ -153,12 +153,35 @@
     },
     {
       "rank": 7,
-      "title": "Iran, feriti 12 soldati Usa in Arabia Saudita. Rubio: “La guerra durerà settimane, non mesi”",
+      "title": "Rovigo, i corpi di una donna e di un bimbo di un anno ritrovati in un laghetto",
       "source_count": 8,
       "article_count": 11,
       "source_domains": [
         "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
         "ilfattoquotidiano.it",
+        "fanpage.it",
+        "corrieredelveneto.corriere.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/giallo-in-veneto-donna-e-bimbo-trovati-morti-in-un-laghetto_23adf88a-019e-4142-980d-742f3495f565.html",
+        "https://www.liberoquotidiano.it/news/italia/47031295/rovigo-corpi-donna-bambino-trovati-laghetto-giallo/",
+        "https://www.ilmessaggero.it/italia/rovigo_donna_bambino_morti_lago_artificiale_ultima_ora-9442219.html",
+        "https://www.ilmessaggero.it/italia/rovigo_madre_figlio_morti_lago_castelgugliemo_ultima_ora_cosa_sappiamo-9442219.html",
+        "https://www.ilgiornale.it/news/cronaca-locale/tragedia-nel-rodigino-mamma-e-bimbo-anno-morti-laghetto-2644466.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Iran, feriti 12 soldati Usa in Arabia Saudita. Rubio: “La guerra durerà settimane, non mesi”",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
         "fanpage.it",
         "corriere.it",
         "repubblica.it",
@@ -167,34 +190,11 @@
         "adnkronos.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/28/soldati-usa-feriti-in-un-raid-iraniani-gli-houthi-dichiarano-guerra_82ce1fc0-9970-4e9a-a879-3cd0a3aab9bd.html",
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/28/guerra-in-iran-israele-usa-news-oggi-28-marzo/8338261/",
         "https://www.ansa.it/sito/notizie/mondo/2026/03/28/raid-iraniano-su-una-base-in-arabia-saudita-12-militari-usa-feriti.-gli_82ce1fc0-9970-4e9a-a879-3cd0a3aab9bd.html",
         "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-28-marzo/",
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_28/guerra-in-iran-le-ultime-notizie-in-diretta.shtml",
         "https://www.corriere.it/esteri/diretta-live/26_marzo_28/guerra-in-iran-le-ultime-notizie-in-diretta.shtml"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Una donna e un bimbo di un anno trovati morti in un laghetto artificiale: la tragedia vicino a Rovigo",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "corrieredelveneto.corriere.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/italia/47031295/rovigo-corpi-donna-bambino-trovati-laghetto-giallo/",
-        "https://www.ilmessaggero.it/italia/rovigo_donna_bambino_morti_lago_artificiale_ultima_ora-9442219.html",
-        "https://www.ilmessaggero.it/italia/rovigo_madre_figlio_morti_lago_castelgugliemo_ultima_ora_cosa_sappiamo-9442219.html",
-        "https://www.ilgiornale.it/news/cronaca-locale/tragedia-nel-rodigino-mamma-e-bimbo-anno-morti-laghetto-2644466.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/donna-e-bimbo-di-un-anno-trovati-morti-in-un-laghetto-nel-rodigino_23adf88a-019e-4142-980d-742f3495f565.html"
       ]
     },
     {
@@ -222,24 +222,24 @@
     },
     {
       "rank": 10,
-      "title": "Decreto fiscale, ok del cdm: rinviata la tassa da due euro sui pacchi extra Ue",
+      "title": "Ora legale, stanotte le lancette si spostano in avanti: risparmi per 80 milioni di euro, ecco come",
       "source_count": 7,
       "article_count": 9,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "roma.corriere.it",
+        "ansa.it",
         "ilgiornale.it",
-        "news.google.com",
-        "ilsole24ore.com"
+        "corriere.it",
+        "lastampa.it",
+        "repubblica.it",
+        "fanpage.it",
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/28/dl-fisco-slitta-la-tassa-sui-pacchi-via-le-nuove-imposte-sui-dividenti-e-spunta-un-credito-fiscale-sugli-investimenti/8338311/",
-        "https://www.ilfattoquotidiano.it/2026/03/28/dl-fisco-slitta-la-tassa-sui-pacchi-via-le-nuove-imposte-sui-dividendi-e-spunta-un-credito-fiscale-sugli-investimenti/8338311/",
-        "https://www.ilmessaggero.it/economia/news/decreto_fiscale_tassa_pacchi_extra_ue_misure-9441755.html",
-        "https://www.repubblica.it/politica/2026/03/28/news/decreto_fiscale_cdm_tassa_pacchi_dividendi-425249296/",
-        "http://roma.corriere.it/notizie/politica/26_marzo_28/il-governo-approva-il-decreto-fiscale-rinviata-la-tassa-da-due-euro-sui-pacchi-extra-ue-ecco-tutte-le-novita-69d9e14d-4f4c-48bf-aa21-c2ef4434cxlk.shtml"
+        "https://www.ansa.it/sito/notizie/economia/2026/03/28/torna-lora-legale-stanotte-spostare-le-lancette-avanti_689e7d0d-e3ec-44b9-a338-1613d7fc8045.html",
+        "https://www.ilgiornale.it/news/cittadini/scatta-lora-legale-ecco-quanto-ci-guadagniamo-bolletta-2644510.html",
+        "https://www.ansa.it/sito/notizie/economia/2026/03/28/torna-lora-legale-dal-2004-risparmiati-23-miliardi-di-euro_689e7d0d-e3ec-44b9-a338-1613d7fc8045.html",
+        "https://www.corriere.it/economia/consumi/26_marzo_28/ora-legale-stanotte-le-lancette-si-spostano-in-avanti-risparmi-per-80-milioni-di-euro-ecco-come-2cb7df94-e55d-48e8-93f3-f31881111xlk.shtml",
+        "https://www.corriere.it/economia/consumi/26_marzo_28/ora-legale-stanotte-le-lancette-si-spostano-in-avanti-risparmi-per-80-milioni-di-euro-ecco-come-2cb7df94-e55d-48e8-93f3-f31881111xlk.shtml"
       ]
     }
   ]
