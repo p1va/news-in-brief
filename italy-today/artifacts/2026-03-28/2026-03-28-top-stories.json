@@ -1,6 +1,6 @@
 {
   "date": "2026-03-28",
-  "generated_at": "Sat 28 Mar 20:39",
+  "generated_at": "Sat 28 Mar 21:37",
   "stories": [
     {
       "rank": 1,
@@ -32,23 +32,23 @@
       "rank": 2,
       "title": "No Kings, a Roma partito il corteo contro la guerra",
       "source_count": 8,
-      "article_count": 21,
+      "article_count": 22,
       "source_domains": [
+        "ansa.it",
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "lastampa.it",
         "fanpage.it",
-        "ansa.it",
         "roma.repubblica.it",
         "video.corriere.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/videogallery/short_video/2026/03/28/per-un-mondo-libero-dalle-guerre-a-roma-migliaia-al-corteo-no-kings_baffa56a-b4f0-4e13-927d-8f33f61deabb.html",
         "https://www.ilfattoquotidiano.it/2026/03/28/corteo-no-kings-roma-manifestazione-oggi-video/8338839/",
         "https://www.liberoquotidiano.it/news/libero-video/47032498/no-kings-roma-corteo-san-giovanni-devia-percorso-verso-verano/",
         "https://www.liberoquotidiano.it/news/tv-news/47032941/washington-maxi-pupazzo-contro-trump-al-corteo-no-kings/",
-        "https://www.lastampa.it/cronaca/2026/03/28/video/roma_il_corteo_dei_no_kings_entra_nella_tangenziale_est-15563272/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47031339/striscione-gaza-we-are-coming-alla-manifestazione-no-kings-a-roma/"
+        "https://www.lastampa.it/cronaca/2026/03/28/video/roma_il_corteo_dei_no_kings_entra_nella_tangenziale_est-15563272/"
       ]
     },
     {
@@ -129,8 +129,8 @@
     {
       "rank": 6,
       "title": "Tiger Woods arrestato (e poi rilasciato) dopo un incidente d'auto in Florida: è accusato di guida in stato di ebbrezza",
-      "source_count": 10,
-      "article_count": 11,
+      "source_count": 9,
+      "article_count": 10,
       "source_domains": [
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
@@ -140,8 +140,7 @@
         "repubblica.it",
         "ansa.it",
         "adnkronos.com",
-        "ilgiornale.it",
-        "fanpage.it"
+        "ilgiornale.it"
       ],
       "links": [
         "https://www.liberoquotidiano.it/news/libero-video/47029151/tiger-woods-il-campione-di-golf-rilasciato-dopo-l-arresto-per-guida-in-stato-di-ebbrezza/",
@@ -222,24 +221,22 @@
     },
     {
       "rank": 10,
-      "title": "Ora legale, stanotte le lancette si spostano in avanti: risparmi per 80 milioni di euro, ecco come",
-      "source_count": 7,
-      "article_count": 9,
+      "title": "MotoGP: Austin, Martin vince la Sprint Race. Di Giannantonio conquista la pole LA GRIGLIA DI PARTENZA",
+      "source_count": 5,
+      "article_count": 12,
       "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "lastampa.it",
-        "repubblica.it",
         "fanpage.it",
-        "adnkronos.com"
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "corriere.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/03/28/torna-lora-legale-stanotte-spostare-le-lancette-avanti_689e7d0d-e3ec-44b9-a338-1613d7fc8045.html",
-        "https://www.ilgiornale.it/news/cittadini/scatta-lora-legale-ecco-quanto-ci-guadagniamo-bolletta-2644510.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/03/28/torna-lora-legale-dal-2004-risparmiati-23-miliardi-di-euro_689e7d0d-e3ec-44b9-a338-1613d7fc8045.html",
-        "https://www.corriere.it/economia/consumi/26_marzo_28/ora-legale-stanotte-le-lancette-si-spostano-in-avanti-risparmi-per-80-milioni-di-euro-ecco-come-2cb7df94-e55d-48e8-93f3-f31881111xlk.shtml",
-        "https://www.corriere.it/economia/consumi/26_marzo_28/ora-legale-stanotte-le-lancette-si-spostano-in-avanti-risparmi-per-80-milioni-di-euro-ecco-come-2cb7df94-e55d-48e8-93f3-f31881111xlk.shtml"
+        "https://www.fanpage.it/sport/motori/martin-fa-il-fenomeno-in-pista-ad-austin-poi-impenna-per-festeggiare-la-vittoria-e-cade-cose-successo/",
+        "https://www.ansa.it/sito/notizie/sport/moto/2026/03/28/motogp-austin-martin-vince-la-sprint-race.-di-giannantonio-conquista-la-pole-la-griglia_ffeb183c-c88e-4874-b3e9-c7a89fecc967.html",
+        "https://www.fanpage.it/sport/motori/jorge-martin-vince-la-sprint-race-del-gp-usa-e-beffa-bagnaia-si-fa-superare-allultimo-giro/",
+        "https://www.repubblica.it/sport/moto-gp/2026/03/28/news/martin_bagnaia_marquez_bezzecchi_di_giannantonio_sprint_austin-425250883/",
+        "https://www.fanpage.it/sport/motori/penalita-per-bezzecchi-e-marini-nella-gara-di-motogp-ad-austin-cambia-la-griglia-di-partenza/"
       ]
     }
   ]
