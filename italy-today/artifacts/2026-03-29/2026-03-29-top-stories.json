@@ -1,12 +1,12 @@
 {
   "date": "2026-03-29",
-  "generated_at": "Sun 29 Mar 17:38",
+  "generated_at": "Sun 29 Mar 18:54",
   "stories": [
     {
       "rank": 1,
       "title": "Kimi Antonelli, bis da applausi: vince in Giappone ed è in testa al mondiale, Leclerc splendido 3°",
       "source_count": 11,
-      "article_count": 30,
+      "article_count": 29,
       "source_domains": [
         "ansa.it",
         "repubblica.it",
@@ -31,8 +31,8 @@
     {
       "rank": 2,
       "title": "Israele vieta a Pizzaballa di entrare al Santo Sepolcro: \"Grave stop per la prima volta da secoli\". Meloni: \"Offesa ai credenti\"",
-      "source_count": 11,
-      "article_count": 23,
+      "source_count": 10,
+      "article_count": 21,
       "source_domains": [
         "ansa.it",
         "video.corriere.it",
@@ -40,7 +40,6 @@
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "repubblica.it",
-        "governo.it",
         "adnkronos.com",
         "fanpage.it",
         "ilmessaggero.it",
@@ -107,31 +106,6 @@
     },
     {
       "rank": 5,
-      "title": "Cena a tre con Meloni, Tajani e Salvini: all'esame le conseguenze della sconfitta al referendum",
-      "source_count": 10,
-      "article_count": 10,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/governo/meloni-tajani-e-salvini-vertice-ripartenza-casa-premier-2644614.html",
-        "https://www.fanpage.it/live/governo-meloni-ultime-notizie-crisi-dimissioni-29-marzo-diretta/",
-        "https://www.repubblica.it/politica/2026/03/29/news/meloni_cena_tajani_salvini_governo_dopo_referendum-425250967/",
-        "https://ilmanifesto.it/centrodestra-resa-dei-conti-dopo-la-sconfitta-al-sud",
-        "https://www.corriere.it/politica/26_marzo_28/cena-a-tre-con-meloni-tajani-e-salvini-all-esame-le-conseguenze-della-sconfitta-al-referendum-601d34bd-5138-4ada-93bd-cc17d3a9bxlk.shtml"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Milano, Porsche si schianta contro 4 auto in sosta: morto un ragazzo di 21 anni",
       "source_count": 9,
       "article_count": 11,
@@ -155,7 +129,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Gli Usa più vicini a inviare truppe di terra, Teheran minaccia: 'Diventeranno cibo per gli squali' - Liveblog",
       "source_count": 7,
       "article_count": 12,
@@ -177,7 +151,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "La confessione del 13enne che ha accoltellato la prof: «Mi dispiace non averla uccisa». Voleva ammazzare anche i genitori",
       "source_count": 8,
       "article_count": 10,
@@ -200,23 +174,46 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Sinner-Lehecka, la finale a Miami: orario e dove vedere in tv. Jannik può avvicinarsi ad Alcaraz",
       "source_count": 5,
-      "article_count": 11,
+      "article_count": 13,
       "source_domains": [
-        "ansa.it",
         "fanpage.it",
+        "ansa.it",
         "corriere.it",
         "ilgiornale.it",
         "repubblica.it"
       ],
       "links": [
+        "https://www.fanpage.it/sport/tennis/lalbo-doro-del-miami-open-agassi-e-djokovic-hanno-il-record-di-vittorie-sinner-a-caccia-del-bis/",
         "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/29/a-miami-ce-la-finale-di-errani-paolini-alle-22-sinner-contro-lehecka-per-il-titolo_b17a7f26-d8bd-43fa-b18f-9dd60bf217ab.html",
         "https://www.fanpage.it/sport/live/sinner-lehecka-in-diretta-live-in-campo-dalle-21-al-miami-open-incognita-pioggia-sulla-finale/",
-        "https://www.corriere.it/sport/tennis/26_marzo_29/errani-paolini-finale-doppio-donne-master-1000-miami-dove-vedere-tv-e2c046da-46bc-4a46-918c-74e811ce6xlk.shtml",
-        "https://www.fanpage.it/sport/tennis/forte-rischio-pioggia-a-miami-cosa-succede-se-la-finale-di-sinner-con-lehecka-viene-rinviata/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/29/sinner-si-allena-con-paolini-rischio-pioggia-stasera-per-la-finale-a-miami_b17a7f26-d8bd-43fa-b18f-9dd60bf217ab.html"
+        "https://www.fanpage.it/sport/tennis/quanto-guadagna-se-sinner-se-vince-il-miami-open-2026-montepremi-e-prize-money/",
+        "https://www.corriere.it/sport/tennis/26_marzo_29/errani-paolini-finale-doppio-donne-master-1000-miami-dove-vedere-tv-e2c046da-46bc-4a46-918c-74e811ce6xlk.shtml"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Cena a tre con Meloni, Tajani e Salvini: all'esame le conseguenze della sconfitta al referendum",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/governo/meloni-tajani-e-salvini-vertice-ripartenza-casa-premier-2644614.html",
+        "https://www.fanpage.it/live/governo-meloni-ultime-notizie-crisi-dimissioni-29-marzo-diretta/",
+        "https://www.repubblica.it/politica/2026/03/29/news/meloni_cena_tajani_salvini_governo_dopo_referendum-425250967/",
+        "https://ilmanifesto.it/centrodestra-resa-dei-conti-dopo-la-sconfitta-al-sud",
+        "https://www.corriere.it/politica/26_marzo_28/cena-a-tre-con-meloni-tajani-e-salvini-all-esame-le-conseguenze-della-sconfitta-al-referendum-601d34bd-5138-4ada-93bd-cc17d3a9bxlk.shtml"
       ]
     },
     {
