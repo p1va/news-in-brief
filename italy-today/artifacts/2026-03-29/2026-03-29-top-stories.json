@@ -1,19 +1,19 @@
 {
   "date": "2026-03-29",
-  "generated_at": "Sun 29 Mar 13:09",
+  "generated_at": "Sun 29 Mar 14:40",
   "stories": [
     {
       "rank": 1,
       "title": "Kimi Antonelli, bis da applausi: vince in Giappone ed è in testa al mondiale, Leclerc splendido 3°",
       "source_count": 11,
-      "article_count": 29,
+      "article_count": 28,
       "source_domains": [
         "fanpage.it",
         "corriere.it",
+        "liberoquotidiano.it",
         "ansa.it",
         "ilmessaggero.it",
         "repubblica.it",
-        "liberoquotidiano.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
@@ -24,12 +24,38 @@
         "https://www.fanpage.it/sport/motori/kimi-antonelli-trionfa-in-giappone-ma-non-festeggia-con-lo-champagne-la-legge-glielo-ha-vietato/",
         "https://www.corriere.it/sport/formula-1/26_marzo_29/pagelle-f1-gp-giappone-3727a881-eb79-42eb-b4ea-26cdc453exlk.shtml",
         "https://www.corriere.it/sport/formula-1/26_marzo_29/pagelle-f1-gp-giappone-3727a881-eb79-42eb-b4ea-26cdc453exlk.shtml",
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/03/29/f1-antonelli-re-anche-in-giappone-e-vola-in-testa-al-mondiale-le-classifiche_6facd21a-3fa0-49e3-bdac-8cf9a8439536.html",
-        "https://www.ilmessaggero.it/blog/milleruote/antonelli_si_ripete_in_giappone_davanti_a_tutti_con_nonchalance_come_i_veri_campioni-9443796.html"
+        "https://www.liberoquotidiano.it/news/sport/47041319/kimi-antonelli-strana-esultanza-suzuka-chi-omaggia-dopo-vittoria/",
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/03/29/f1-antonelli-re-anche-in-giappone-e-vola-in-testa-al-mondiale-le-classifiche_6facd21a-3fa0-49e3-bdac-8cf9a8439536.html"
       ]
     },
     {
       "rank": 2,
+      "title": "Israele vieta a Pizzaballa di entrare al Santo Sepolcro: \"Grave stop per la prima volta da secoli\". Meloni: \"Offesa ai credenti\"",
+      "source_count": 11,
+      "article_count": 16,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "corriere.it",
+        "governo.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/03/29/israele-impedisce-al-cardinale-pizzaballa-di-entrare-al-santo-sepolcro.-lui-situazione-complicata_377245fb-fe6a-49ee-8fd2-e9cc7705a541.html",
+        "https://www.ilfattoquotidiano.it/2026/03/29/israele-pizzaballa-messa-santo-sepolcro-reazioni-meloni-macron-tajani-convoca-ambasciatore-ultime-notizie/8339349/",
+        "https://www.ilgiornale.it/news/politica-internazionale/israele-vieta-pizzaballa-entrare-santo-sepolcro-grave-stop-2644720.html",
+        "https://www.repubblica.it/politica/2026/03/29/news/cardinale_pizzaballa_israele_meloni_tajani-425251668/",
+        "https://www.corriere.it/politica/26_marzo_29/meloni-il-divieto-a-pizzaballa-offende-la-liberta-religiosa-2bf5f4c9-e722-4904-81d5-6dd821753xlk.shtml"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "David Riondino è morto, il cantautore e attore aveva 73 anni",
       "source_count": 11,
       "article_count": 14,
@@ -52,32 +78,6 @@
         "https://www.ilgiornale.it/news/personaggi/morto-david-riondino-artista-poliedrico-e-fuori-dagli-schemi-2644662.html",
         "https://www.fanpage.it/spettacolo/personaggi/e-morto-david-riondino-a-73-anni-il-cantante-che-scrisse-la-hit-maracaibo/",
         "http://roma.corriere.it/notizie/cronaca/26_marzo_29/morto-david-riondino-aveva-73-anni-la-scuola-dei-giullari-il-sogno-lasciato-a-meta-86f9a062-b160-4409-aaad-9ec43e055xlk.shtml"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Israele vieta a Pizzaballa di entrare al Santo Sepolcro: \"Grave stop per la prima volta da secoli\". Meloni: \"Offesa ai credenti\"",
-      "source_count": 11,
-      "article_count": 14,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "corriere.it",
-        "governo.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica-internazionale/israele-vieta-pizzaballa-entrare-santo-sepolcro-grave-stop-2644720.html",
-        "https://www.repubblica.it/politica/2026/03/29/news/cardinale_pizzaballa_israele_meloni_tajani-425251668/",
-        "https://www.corriere.it/politica/26_marzo_29/meloni-il-divieto-a-pizzaballa-offende-la-liberta-religiosa-2bf5f4c9-e722-4904-81d5-6dd821753xlk.shtml",
-        "https://www.governo.it/it/articolo/dichiarazione-del-presidente-meloni/31414",
-        "https://www.adnkronos.com/internazionale/esteri/israele-cardinale-pizzaballa-gerusalemme_6xc7QT2d3tToRXxWzZr0XC"
       ]
     },
     {
@@ -133,6 +133,28 @@
     },
     {
       "rank": 6,
+      "title": "Gli Usa più vicini a inviare truppe di terra, Teheran minaccia: 'Diventeranno cibo per gli squali' - Liveblog",
+      "source_count": 7,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/29/gli-usa-piu-vicini-a-inviare-truppe-di-terra-teheran-minaccia-diventeranno_64538de2-93b6-4e30-b93a-c3dabb47f5d5.html",
+        "https://www.ilmessaggero.it/mondo/guerra_usa_iran_invasione_assalto_finale_cosa_succede_ora-9443754.html",
+        "https://www.ilmessaggero.it/mondo/attacco_usa_iran_guerra_israele_situazione_live-9443754.html",
+        "https://www.ilmessaggero.it/mondo/guerra_usa_iran_attacco_marines_paracadutisti_isola_kharg-9443754.html",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/29/guerra-iran-israele-usa-news-oggi-29-marzo/8339124/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "La confessione del 13enne che ha accoltellato la prof: «Mi dispiace non averla uccisa». Voleva ammazzare anche i genitori",
       "source_count": 8,
       "article_count": 10,
@@ -155,69 +177,30 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Guerra Iran, dai paracadutisti ai nodi di Kharg: così gli Usa preparano l'assalto finale. «Pronte incursioni delle forze speciali»",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/29/gli-usa-piu-vicini-a-inviare-truppe-di-terra-teheran-minaccia-diventeranno_64538de2-93b6-4e30-b93a-c3dabb47f5d5.html",
-        "https://www.ilmessaggero.it/mondo/guerra_usa_iran_invasione_assalto_finale_cosa_succede_ora-9443754.html",
-        "https://www.ilmessaggero.it/mondo/attacco_usa_iran_guerra_israele_situazione_live-9443754.html",
-        "https://www.ilmessaggero.it/mondo/guerra_usa_iran_attacco_marines_paracadutisti_isola_kharg-9443754.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/29/guerra-iran-israele-usa-news-oggi-29-marzo/8339124/"
-      ]
-    },
-    {
       "rank": 8,
-      "title": "No Kings, a Roma partito il corteo contro la guerra",
-      "source_count": 4,
-      "article_count": 14,
+      "title": "Quadro di Renoir rubato a Villa Magnani: «Les poissons vale milioni di euro». Il furto in provincia di Parma",
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
-        "lastampa.it",
         "ansa.it",
-        "liberoquotidiano.it",
-        "news.google.com"
+        "fanpage.it",
+        "ilgiornale.it",
+        "corrieredibologna.corriere.it",
+        "ilfattoquotidiano.it",
+        "bologna.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.lastampa.it/cronaca/2026/03/29/news/no_kings_roma-15563553/",
-        "https://www.ansa.it/sito/videogallery/short_video/2026/03/28/per-un-mondo-libero-dalle-guerre-a-roma-migliaia-al-corteo-no-kings_baffa56a-b4f0-4e13-927d-8f33f61deabb.html",
-        "https://www.liberoquotidiano.it/news/libero-video/47032498/no-kings-roma-corteo-san-giovanni-devia-percorso-verso-verano/",
-        "https://www.liberoquotidiano.it/news/tv-news/47032941/washington-maxi-pupazzo-contro-trump-al-corteo-no-kings/",
-        "https://www.liberoquotidiano.it/news/tv-news/47032355/bonelli-al-corteo-di-roma-no-ai-signori-della-guerra/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/29/rubati-un-quadro-di-renoir-di-cezanne-e-di-matisse-alla-magnani-rocca-nel-parmense_805ba874-f2a1-4abc-a0e1-9e4c563498ad.html",
+        "https://www.fanpage.it/attualita/rubato-un-quadro-di-renoir-dalla-fondazione-magnani-rocca-nel-parmense-les-poissons-vale-milioni-di-euro/",
+        "https://www.ilgiornale.it/news/nazionale/colpo-milioni-nel-parmense-sparisce-renoir-fondazione-2644733.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/29/rubato-un-quadro-di-renoir-alla-magnani-rocca-nel-parmense-_805ba874-f2a1-4abc-a0e1-9e4c563498ad.html",
+        "http://corrieredibologna.corriere.it/notizie/cronaca/26_marzo_29/quadro-renoir-rubato-les-poissons-afef91b0-9bd9-405c-90ad-65aea7106xlk.shtml"
       ]
     },
     {
       "rank": 9,
-      "title": "Sinner-Lehecka, la finale a Miami: orario e dove vedere in tv. Jannik può avvicinarsi ad Alcaraz",
-      "source_count": 6,
-      "article_count": 11,
-      "source_domains": [
-        "corriere.it",
-        "fanpage.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.corriere.it/sport/tennis/26_marzo_29/errani-paolini-finale-doppio-donne-master-1000-miami-dove-vedere-tv-e2c046da-46bc-4a46-918c-74e811ce6xlk.shtml",
-        "https://www.fanpage.it/sport/tennis/forte-rischio-pioggia-a-miami-cosa-succede-se-la-finale-di-sinner-con-lehecka-viene-rinviata/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/29/sinner-si-allena-con-paolini-rischio-pioggia-stasera-per-la-finale-a-miami_b17a7f26-d8bd-43fa-b18f-9dd60bf217ab.html",
-        "https://www.fanpage.it/sport/tennis/sinner-numero-1-al-mondo-nel-ranking-atp-al-posto-di-alcaraz-cosa-serve-tra-miami-e-monte-carlo/",
-        "https://www.corriere.it/sport/tennis/26_marzo_29/sinner-volee-rete-miami-cronometro-cf9650f7-d8b3-4260-b3b1-52ca81f69xlk.shtml"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Si schiantano con la Porsche contro alcune auto in sosta, tre ragazzi feriti a Milano: grave un 21enne",
       "source_count": 8,
       "article_count": 9,
@@ -237,6 +220,27 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/29/finisce-con-una-porsche-contro-unauto-in-sosta-morto-un-21enne-a-milano_f6cc45f3-021a-4509-a0ce-19e2a25d4eaf.html",
         "https://www.ilfattoquotidiano.it/2026/03/29/porsche-spider-incidente-milano-news/8339229/",
         "http://milano.corriere.it/notizie/cronaca/26_marzo_29/milano-incidente-porta-vercellina-tre-ragazzi-si-schiantano-con-l-auto-contro-le-macchine-in-sosta-grave-21enne-bfd9c482-974f-40b7-99e7-c233c6342xlk.shtml"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Sinner-Lehecka, la finale a Miami: orario e dove vedere in tv. Jannik può avvicinarsi ad Alcaraz",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "corriere.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.corriere.it/sport/tennis/26_marzo_29/errani-paolini-finale-doppio-donne-master-1000-miami-dove-vedere-tv-e2c046da-46bc-4a46-918c-74e811ce6xlk.shtml",
+        "https://www.fanpage.it/sport/tennis/forte-rischio-pioggia-a-miami-cosa-succede-se-la-finale-di-sinner-con-lehecka-viene-rinviata/",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/29/sinner-si-allena-con-paolini-rischio-pioggia-stasera-per-la-finale-a-miami_b17a7f26-d8bd-43fa-b18f-9dd60bf217ab.html",
+        "https://www.fanpage.it/sport/tennis/sinner-numero-1-al-mondo-nel-ranking-atp-al-posto-di-alcaraz-cosa-serve-tra-miami-e-monte-carlo/",
+        "https://www.corriere.it/sport/tennis/26_marzo_29/sinner-volee-rete-miami-cronometro-cf9650f7-d8b3-4260-b3b1-52ca81f69xlk.shtml"
       ]
     }
   ]
