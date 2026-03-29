@@ -1,9 +1,33 @@
 {
   "date": "2026-03-29",
-  "generated_at": "Sun 29 Mar 07:13",
+  "generated_at": "Sun 29 Mar 08:51",
   "stories": [
     {
       "rank": 1,
+      "title": "Kimi Antonelli, bis da applausi: vince in Giappone ed è in testa al mondiale, Leclerc splendido 3°",
+      "source_count": 9,
+      "article_count": 15,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ansa.it",
+        "corriere.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/motori/f1-antonelli-fortunato-mi-andata-bene-leclerc-che-fatica-2644642.html",
+        "https://www.ilfattoquotidiano.it/2026/03/29/antonelli-vittoria-giappone-classifica-mondiale-news/8339102/",
+        "https://www.adnkronos.com/sport/formula-1-gp-giappone-ferrari-team-radio-leclerc_4PRveDNcNmoFPkItVYZdnO",
+        "https://www.repubblica.it/sport/formulauno/2026/03/29/news/antonelli_vittoria_giappone_leclerc_terzo-425251274/",
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/03/29/-f1-antonelli-vince-anche-in-giappone-e-leader-del-mondiale-_6facd21a-3fa0-49e3-bdac-8cf9a8439536.html"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Eletto Giuseppe Tango, chi è il nuovo presidente dell’Anm",
       "source_count": 11,
       "article_count": 11,
@@ -29,11 +53,12 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Corteo No Kings a Roma, Ilaria Salis denuncia: “La polizia nel mio hotel per controllarmi”",
-      "source_count": 9,
-      "article_count": 10,
+      "source_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "fanpage.it",
         "repubblica.it",
         "ilmanifesto.it",
         "lastampa.it",
@@ -45,15 +70,35 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.fanpage.it/politica/cosa-non-torna-nella-storia-del-controllo-preventivo-di-polizia-contro-ilaria-salis/",
         "https://www.repubblica.it/cronaca/2026/03/29/news/ilaria_salis_indagine_germania_piantedosi_verifiche-425250910/",
         "https://ilmanifesto.it/identificata-in-hotel-ilaria-salis-la-segnalazione-dal-viminale",
         "https://www.lastampa.it/politica/2026/03/29/news/l_inchiesta_a_berlino_e_il_primo_controllo_la_questura_si_difende_atto_dovuto-15563675/",
-        "https://www.ilmessaggero.it/politica/ilaria_salis_mistero_date_alert_tedesco_controlli_mancati-9442602.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/28/controllo-di-polizia-per-salis-perquisita-in-hotel.-siamo-in-un-regime.-a-roma-il-corteo_fd40de27-5d70-4e2a-ba57-6d9143727c13.html"
+        "https://www.ilmessaggero.it/politica/ilaria_salis_mistero_date_alert_tedesco_controlli_mancati-9442602.html"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "No Kings, a Roma partito il corteo contro la guerra",
+      "source_count": 5,
+      "article_count": 15,
+      "source_domains": [
+        "roma.corriere.it",
+        "lastampa.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "news.google.com"
+      ],
+      "links": [
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_29/no-kings-corteo-roma-f236d556-ea05-4677-a3ef-dfc7197efxlk.shtml",
+        "https://www.lastampa.it/cronaca/2026/03/29/news/no_kings_roma-15563553/",
+        "https://www.ansa.it/sito/videogallery/short_video/2026/03/28/per-un-mondo-libero-dalle-guerre-a-roma-migliaia-al-corteo-no-kings_baffa56a-b4f0-4e13-927d-8f33f61deabb.html",
+        "https://www.liberoquotidiano.it/news/libero-video/47032498/no-kings-roma-corteo-san-giovanni-devia-percorso-verso-verano/",
+        "https://www.liberoquotidiano.it/news/tv-news/47032941/washington-maxi-pupazzo-contro-trump-al-corteo-no-kings/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Cena a tre con Meloni, Tajani e Salvini: all'esame le conseguenze della sconfitta al referendum",
       "source_count": 9,
       "article_count": 9,
@@ -77,7 +122,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Attacco Houthi contro Israele e incubo chiusura su Bab el-Mandeb: così si rischia il doppio colpo",
       "source_count": 9,
       "article_count": 9,
@@ -101,118 +146,83 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "No Kings, a Roma partito il corteo contro la guerra",
-      "source_count": 4,
-      "article_count": 14,
-      "source_domains": [
-        "lastampa.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.lastampa.it/cronaca/2026/03/29/news/no_kings_roma-15563553/",
-        "https://www.ansa.it/sito/videogallery/short_video/2026/03/28/per-un-mondo-libero-dalle-guerre-a-roma-migliaia-al-corteo-no-kings_baffa56a-b4f0-4e13-927d-8f33f61deabb.html",
-        "https://www.liberoquotidiano.it/news/libero-video/47032498/no-kings-roma-corteo-san-giovanni-devia-percorso-verso-verano/",
-        "https://www.liberoquotidiano.it/news/tv-news/47032941/washington-maxi-pupazzo-contro-trump-al-corteo-no-kings/",
-        "https://www.liberoquotidiano.it/news/tv-news/47032355/bonelli-al-corteo-di-roma-no-ai-signori-della-guerra/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "F1: Antonelli vince anche in Giappone, è leader del mondiale",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/03/29/-f1-antonelli-vince-anche-in-giappone-e-leader-del-mondiale-_6facd21a-3fa0-49e3-bdac-8cf9a8439536.html",
-        "https://www.corriere.it/sport/formula-1/diretta-live/26_marzo_29/f1-gp-giappone-gara-diretta.shtml",
-        "https://www.corriere.it/sport/formula-1/diretta-live/26_marzo_29/f1-gp-giappone-gara-diretta.shtml",
-        "https://www.ilgiornale.it/news/motori/lha-fatto-nuovo-kimi-antonelli-trionfa-giappone-ed-leader-2644618.html",
-        "https://www.fanpage.it/sport/motori/kimi-antonelli-si-ripete-anche-in-giappone-e-fa-sognare-vince-davanti-a-piastri-e-sale-in-testa-al-mondiale/"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "Sinner-Lehecka, la finale a Miami: orario e dove vedere in tv. Jannik può avvicinarsi ad Alcaraz",
-      "source_count": 5,
-      "article_count": 7,
+      "title": "La confessione del 13enne che ha accoltellato la prof: «Mi dispiace non averla uccisa». Voleva ammazzare anche i genitori",
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
         "fanpage.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "corriere.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/tennis/sinner-lehecka-oggi-in-finale-al-miami-open-2026-a-che-ora-si-gioca-e-dove-vederla-in-tv/",
-        "https://www.ilgiornale.it/news/sport/sinner-ingiocabile-si-prepara-cocktail-sunshine-double-2644569.html",
-        "https://www.repubblica.it/sport/tennis/2026/03/29/news/sinner_finale_miami_gol_greg_norman-425250879/",
-        "https://www.corriere.it/sport/tennis/26_marzo_28/sinner-lehecka-finale-miami-orario-dove-vedere-9e489867-7353-4fa1-b1db-9f0aa4db2xlk.shtml",
-        "https://www.liberoquotidiano.it/news/sport/47031496/jannik-sinner-finale-miami-rischio-rinvio-ecco-perche/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "La confessione del 13enne che ha accoltellato la prof: «Mi dispiace non averla uccisa». Voleva ammazzare anche i genitori",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
+        "ilmessaggero.it",
         "ilgiornale.it",
         "bergamo.corriere.it",
         "lastampa.it",
         "ansa.it"
       ],
       "links": [
+        "https://www.fanpage.it/milano/la-confessione-del-13enne-che-ha-accoltellato-la-prof-in-diretta-su-telegram-mi-dispiace-non-averla-uccisa/",
+        "https://www.ilmessaggero.it/italia/prof_accoltellata_confessione_ragazzo_voleva_uccidere_genitori-9443689.html",
         "https://www.ilgiornale.it/news/nazionale/tredicenne-che-ha-accoltellato-prof-mi-dispiace-non-averla-2644605.html",
         "http://bergamo.corriere.it/notizie/cronaca/26_marzo_29/bergamo-confessione-13enne-accoltellato-prof-spiace-non-averla-uccisa-fa0ece4a-c199-409b-9f5d-a4dbbdaa5xlk.shtml",
-        "http://bergamo.corriere.it/notizie/cronaca/26_marzo_29/bergamo-confessione-13enne-accoltellato-prof-spiace-non-averla-uccisa-fa0ece4a-c199-409b-9f5d-a4dbbdaa5xlk.shtml",
-        "https://www.lastampa.it/politica/2026/03/29/news/prof_aggredita_ascuola_il_manifesto_della_vendetta_ispirato_agli_anime-15563531/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/la-prof-accoltellata-chiusi-canale-e-profilo-telegram-del-13enne_f192b262-a6d0-4fb1-9e41-30a34552abb5.html"
+        "http://bergamo.corriere.it/notizie/cronaca/26_marzo_29/bergamo-confessione-13enne-accoltellato-prof-spiace-non-averla-uccisa-fa0ece4a-c199-409b-9f5d-a4dbbdaa5xlk.shtml"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Sinner-Lehecka, la finale a Miami: orario e dove vedere in tv. Jannik può avvicinarsi ad Alcaraz",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "fanpage.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/tennis/sinner-numero-1-al-mondo-nel-ranking-atp-al-posto-di-alcaraz-cosa-serve-tra-miami-e-monte-carlo/",
+        "https://www.corriere.it/sport/tennis/26_marzo_29/sinner-volee-rete-miami-cronometro-cf9650f7-d8b3-4260-b3b1-52ca81f69xlk.shtml",
+        "https://www.fanpage.it/sport/tennis/sinner-lehecka-oggi-in-finale-al-miami-open-2026-a-che-ora-si-gioca-e-dove-vederla-in-tv/",
+        "https://www.ilgiornale.it/news/sport/sinner-ingiocabile-si-prepara-cocktail-sunshine-double-2644569.html",
+        "https://www.repubblica.it/sport/tennis/2026/03/29/news/sinner_finale_miami_gol_greg_norman-425250879/"
       ]
     },
     {
       "rank": 9,
-      "title": "Tragedia nel Rodigino, mamma e bimbo di un anno morti in un laghetto",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Guerra in Iran: \"Pentagono pronto a settimane di operazioni a terra in Iran\". Raid Usa-Israele su Hormuz",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "corrieredelveneto.corriere.it",
-        "ilmessaggero.it",
+        "ilgiornale.it",
+        "fanpage.it",
         "ansa.it",
-        "ilgiornale.it"
+        "adnkronos.com",
+        "repubblica.it"
       ],
       "links": [
-        "http://corrieredelveneto.corriere.it/notizie/rovigo/cronaca/26_marzo_29/la-rete-tagliata-e-il-passeggino-nei-campi-gli-ultimi-istanti-della-mamma-trovata-morta-con-il-figlio-di-un-anno-nel-laghetto-7e3a2ccd-a3d4-4b22-8a99-ec0179bf1xlk.shtml",
-        "https://www.ilmessaggero.it/italia/mamma_figlio_morti_laghetto_suicidio_perche_chi_erano-9443642.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/giallo-in-veneto-donna-e-bimbo-trovati-morti-in-un-laghetto_23adf88a-019e-4142-980d-742f3495f565.html",
-        "https://www.ilgiornale.it/news/cronaca-locale/tragedia-nel-rodigino-mamma-e-bimbo-anno-morti-laghetto-2644466.html"
+        "https://www.ilgiornale.it/news/guerra/usa-pronti-sbarcare-iran-pentagono-valuta-raid-terra-kharg-2644644.html",
+        "https://www.ilgiornale.it/news/guerra/diretta-guerra-iran-pentagono-pronto-settimane-operazioni-2644634.html",
+        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-29-marzo/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/29/il-washington-post-il-pentagono-si-prepara-a-settimane-di-operazioni-a-terra-in-iran-liveblog_64538de2-93b6-4e30-b93a-c3dabb47f5d5.html",
+        "https://www.adnkronos.com/internazionale/esteri/iran-raid-usa-israele-sul-porto-vicino-stretto-hormuz-5-morti-forti-esplosioni-udite-a-teheran-la-diretta_52paAhrMN1lAEe3X5qnkm"
       ]
     },
     {
       "rank": 10,
-      "title": "Scatta l'ora legale: ecco quanto ci guadagniamo in bolletta",
+      "title": "Tragedia nel Rodigino, mamma e bimbo di un anno morti in un laghetto",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
         "ansa.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "corriere.it"
+        "corrieredelveneto.corriere.it",
+        "ilmessaggero.it",
+        "ilgiornale.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/03/29/e-tornata-lora-legale-durera-fino-al-25-ottobre_689e7d0d-e3ec-44b9-a338-1613d7fc8045.html",
-        "https://www.adnkronos.com/cronaca/ora-legale-amica-dei-bambini-come-sfruttare-lora-di-luce-in-piu_397RuSGAtEj7g8EnxGv9XW",
-        "https://www.ilgiornale.it/news/cittadini/scatta-lora-legale-ecco-quanto-ci-guadagniamo-bolletta-2644510.html",
-        "https://www.corriere.it/economia/consumi/26_marzo_28/ora-legale-stanotte-le-lancette-si-spostano-in-avanti-risparmi-per-80-milioni-di-euro-ecco-come-2cb7df94-e55d-48e8-93f3-f31881111xlk.shtml"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/29/donna-e-bimbo-morti-nel-rodigino-la-procura-indaga-per-omicidio_3c782a5c-06b7-4905-9c2c-a68c7f303a31.html",
+        "http://corrieredelveneto.corriere.it/notizie/rovigo/cronaca/26_marzo_29/la-rete-tagliata-e-il-passeggino-nei-campi-gli-ultimi-istanti-della-mamma-trovata-morta-con-il-figlio-di-un-anno-nel-laghetto-7e3a2ccd-a3d4-4b22-8a99-ec0179bf1xlk.shtml",
+        "https://www.ilmessaggero.it/italia/mamma_figlio_morti_laghetto_suicidio_perche_chi_erano-9443642.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/28/giallo-in-veneto-donna-e-bimbo-trovati-morti-in-un-laghetto_23adf88a-019e-4142-980d-742f3495f565.html",
+        "https://www.ilgiornale.it/news/cronaca-locale/tragedia-nel-rodigino-mamma-e-bimbo-anno-morti-laghetto-2644466.html"
       ]
     }
   ]
