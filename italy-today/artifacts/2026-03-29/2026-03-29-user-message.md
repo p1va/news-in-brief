@@ -1,0 +1,576 @@
+Here is the latest data for today's show:
+- In <previous_episode_transcript> find the script for the last episode for context.
+- In <clustered_headlines> find the "Top Stories" (widely covered).
+- In <other_headlines> find news that were only covered by single source.
+
+
+<previous_episode_transcript>
+# Previous Episode Transcript (2026-03-28)
+Welcome to another episode of "Italy Today", today is Saturday 28 and this episode was curated by Gemini 3.1 Pro.
+
+As we anticipated yesterday, the massive "No Kings" anti-war protests have locked down central Rome today, drawing tens of thousands of demonstrators marching against global conflicts and the Meloni government. Meanwhile, Daniela Santanchè broke her silence following her bitter resignation yesterday, posting a video thanking the Tourism Ministry staff and pointedly adding that "life is long." On the international front, the Middle East conflict is escalating dramatically; an Iranian strike on a US base in Saudi Arabia left twelve American soldiers wounded, while Houthi forces in Yemen launched their first missile at Israel, prompting US Secretary of State Marco Rubio to declare the war will end in weeks, not months. In a historic first, Pope Leo XIV has arrived in the Principality of Monaco for a diplomatic visit, using his platform to explicitly condemn the global idolatry of wealth and military power. And a quick domestic reminder for everyone in Europe: daylight saving time begins tonight, so remember to set your clocks forward one hour at 2 AM. 
+
+But returning to today's massive demonstrations in Rome, the real political firestorm did not happen during the march itself, but hours before it even began, involving European Parliament member Ilaria Salis. At dawn, Italian police arrived at Salis's hotel room in the capital for what they described as an identification check. The timing, just hours before she was set to join the anti-government "No Kings" protest, immediately triggered a fierce institutional clash. 
+
+The progressive opposition and digital outlets like Fanpage and La Repubblica immediately framed the incident as an intimidation tactic. Salis herself declared the country is sliding into a "regime," with the Green-Left Alliance accusing the Meloni administration of using police state tactics to harass political opponents. On the other side, the conservative press, led by Libero and Il Giornale, aggressively dismissed the outcry as manufactured left-wing victimhood. They amplified the official police statement, which clarified that the check had absolutely nothing to do with the protests or domestic security decrees, but was a mandatory, routine protocol triggered by an automated Schengen alert from Germany. Ultimately, the incident perfectly encapsulates Italy's current hyper-polarized climate. Whether it was a tone-deaf bureaucratic automated check or a deliberate show of force, both the government and the opposition are actively weaponizing the event to rally their respective bases around the narratives of law-and-order versus democratic backsliding.
+
+Moving from the streets to the economy, the government has just passed a sweeping new Fiscal Decree that has severely fractured its relationship with Italy's industrial sector. While the headline for consumers is a delay of the controversial two-euro tax on non-EU parcels, the real structural shock is buried in the fine print. According to Il Sole 24 Ore, the decree slashes the highly anticipated "Transition 5.0" tax credits for corporate innovation by a staggering sixty-five percent. Confindustria, the national employers' federation, is furious, publicly stating that the government has broken its promises and severely penalized businesses. In response, Economy Minister Giancarlo Giorgetti defended the cuts, pointing to the unforeseen economic shocks caused by the escalating Middle Eastern war and the need to tightly prioritize state funds.
+
+Turning to the justice system, the Italian judiciary is attempting to stabilize its ranks following months of intense friction with the executive branch. Today, Giuseppe Tango was elected by acclamation as the new president of the National Association of Magistrates. He steps into the role just a day after the European Union's mandate on the "abuse of office" crime set Rome and Brussels on a collision course, a story we covered yesterday. As Il Corriere della Sera notes, Tango belongs to the more moderate "Magistratura Indipendente" faction. In his inaugural remarks, he explicitly promised to restore a constructive dialogue with the political class, insisting the judiciary's union is not, and will never be, a political party. It is a clear signal that the moderate wing of the judiciary is looking to de-escalate the ongoing war with the Meloni government.
+
+But before we go, it seems an era of Italian cultural tradition is quietly coming to an end. For generations, the ultimate middle-class dream in Italy was for a child to become an "avvocato" or an "ingegnere"—a lawyer or an engineer. However, new data published today by Il Sole 24 Ore from the AlmaLaurea university consortium reveals a massive demographic shift. Young Italians are abandoning these traditional prestige degrees in droves. As the labor market evolves and the economy shifts heavily toward the service sector and new technologies, the old myth of the safe, prestigious professional title is fading, making way for a much more pragmatic, and perhaps uncertain, generation of students.
+
+I will see you tomorrow.
+</previous_episode_transcript>
+
+
+
+<clustered_headlines>
+# Coverage Pulse - 2026-03-29
+
+## 1. David Riondino è morto, il cantautore e attore aveva 73 anni
+
+> **Context:** I funerali dell’artista fiorentino si terranno martedì nella Chiesa degli artisti di Roma
+
+- **Corriere Della Sera**: Morto David Riondino, aveva 73 anni. La Scuola dei Giullari il sogno lasciato a metà L'attore e cantautore fiorentino si è spento a 73 anni, domenica 29 marzo, nella sua casa romana
+- **Il Sole Ventiquattro Ore**: Addio a David Riondino, artista poliedrico tra musica, teatro e satira culturale È morto all’età di 73 anni il cantautore, attore, regista, scrittore David Riondino. Era nato a Firenze nel 1952. A darne l’annuncio su Facebook è l’amica Chiara Rapaccini, artista, illustratrice...
+- **La Stampa**: È morto David Riondino, il cantautore e attore aveva 73 anni ROMA.- È morto all'età di 73 anni il cantautore, attore, regista, scrittore David Riondino. Era nato a Firenze nel 1952. A darne l'annuncio su Facebook è l'amica Chiara Rapaccini, artista, ...
+- **ANSA**: E' morto l'attore e regista David Riondino Aveva 73 anni, martedì i funerali a Roma
+- **Adkronos**: È morto David Riondino, l'attore e cantautore aveva 73 anni﻿ Martedì i funerali nella Chiesa degli artisti a Roma
+- **Il Fatto Quotidiano**: È morto David Riondino, aveva 73 anni. Da “Maracaibo” al teatro, addio a un artista libero È morto a 73 anni David Riondino. Cantautore, attore e autore tra i più eclettici della scena italiana, si è spento domenica 29 marzo nella sua casa romana dopo una malattia. I funerali si terranno martedì 31 alle 11 nella Chiesa degli Artisti a Roma. Nato a Firenze nel 1952, Riondino è stato una figura […] L'articolo È morto David Riondino, aveva 73 anni. Da “Maracaibo” al teatro, addio a un artista libero proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: È morto David Riondino a 73 anni, il cantante che scrisse la hit Maracaibo È morto David Riondino a 73 anni nella sua casa romana. Autore, attore e regista, firmò “Maracaibo”. I funerali martedì 31 marzo nella Chiesa degli Artisti di Roma.Continua a leggere
+- **Il Messaggero**: David Riondino è morto, addio all'attore e cantautore fiorentino: aveva 73 anni. I funerali si terranno martedì 31 alle 11 Addio a David Riondino: l'attore e cantautore fiorentino si è spento a 73 anni, domenica 29 marzo, nella sua casa romana. Lo riportano fonti vicine all'artista. I funerali si...
+- **Corriere Della Sera**: La Firenze di David Riondino: dal lavoro come bibliotecario ai concerti nelle Case del Popolo. Addio al cantautore visionario Si è spento a 73 anni nella sua casa di Roma. Il legame col capoluogo toscano dove è nato e cresciuto, qui è iniziata la sua carriera ma all'inizio lavorava come bibliotecario, su Firenze aveva anche scritto un libro. Martedì i funerali a Roma
+- **La Repubblica**: David Riondino è morto, il cantautore e attore aveva 73 anni I funerali dell’artista fiorentino si terranno martedì nella Chiesa degli artisti di Roma
+- **Il Post**: È morto David Riondino 
+- **Il Giornale**: Morto David Riondino, artista poliedrico e fuori dagli schemi: da Zelig al Maurizio Costanzo Show Se n’è andato nella sua casa di Roma dopo una lunga malattia a 73 anni. Ha attraversato musica, teatro, televisione e satira con uno stile originale e indipendente
+- **La Stampa**: L'omaggio a David Riondino ospite di "Che tempo che fa" nel 2018 L'omaggio dedicato da Fabio Fazio e i suoi ospiti a "Che tempo che fa" a David Riondino: era il 2018. Riondino è morto questa mattina, all'età di 73 anni: era nato a Firenze nel 1952. A darne l'annuncio su Facebook è l'amica Chiara Rapaccini, artista, illustratrice e designer. I funerali saranno celebrati martedì alle 11 a Roma, nella Chiesa degli Artisti di Piazza del Popolo. Leggi l'articolo
+- **La Repubblica**: Addio a David Riondino: l’infanzia tra Conti e La Pira, il debutto nella Firenze della controcultura L’attore scomparso a Roma a 73 anni
+
+
+## 2. Kimi Antonelli, bis da applausi: vince in Giappone ed è in testa al mondiale, Leclerc splendido 3°
+
+> **Context:** Il bolognese della Mercedes parte male ma ritorna in testa grazie alla safety car, secondo Piastri, Charles sul podio dopo i duelli spettacolari con Hamilton e Russell
+
+- **Corriere Della Sera**: Capolavoro Antonelli: parte male, poi domina e vola in testa al mondiale. Ferrari bene a metà: podio show per Leclerc, Hamilton 6° L'azzurro della Mercedes vince ancora dopo la Cina, a 19 anni è leader del campionato. Charles si difende nel finale dagli attacchi di Russell
+- **Corriere Della Sera**: F1 Gp Giappone, la gara in diretta: Antonelli vince davanti a Piastri e vola in testa al mondiale. Gran podio per Leclerc, Hamilton 6° L'azzurro della Mercedes parte male, ma poi rimonta e trionfa per la seconda volta di fila, prendendosi la testa della classifica. Russell, infatti, non va oltre il quarto posto perdendo il duello con un gran Leclerc
+- **La Stampa**: Strepitoso Antonelli: vince anche in Giappone e vola in testa al Mondiale. Podio Leclerc Piastri in seconda posizione, Charles chiude davanti a Russell
+- **ANSA**: F1: Antonelli vince anche in Giappone, è leader del mondiale Secondo successo di fila per l'italiano, sul podio Piastri e Leclerc
+- **Fanpage.it**: Kimi Antonelli si ripete anche in Giappone e fa sognare: vince davanti a Piastri e sale in testa al Mondiale Kimi Antonelli trionfa anche a Suzuka dopo la Cina, batte Piastri e Leclerc e diventa uno dei più giovani leader del Mondiale di Formula 1.Continua a leggere
+- **Fanpage.it**: Formula 1, Kimi Antonelli vince il GP Giappone: Piastri 2°, Leclerc porta la Ferrari sul podio La diretta della gara del GP Giappone di F1 in calendario oggi: gli aggiornamenti live. Leclerc e Hamilton sfidano le Mercedes di Russell e Antonelli per la vittoria.Continua a leggere
+- **Il Giornale**: L'ha fatto di nuovo. Kimi Antonelli trionfa in Giappone ed è leader mondiale di Formula 1. Per Leclerc ottimo terzo posto Il bolognese, nonostante una partenza orribile, fa ancora la storia della Formula 1: nessuno aveva mai vinto due gare prima di compiere 20 anni. Il monegasco riesce a difendere la terza piazza, Hamilton 6°
+- **La Repubblica**: Kimi Antonelli, bis da applausi: vince in Giappone ed è in testa al mondiale, Leclerc splendido 3° Il bolognese della Mercedes parte male ma ritorna in testa grazie alla safety car, secondo Piastri, Charles sul podio dopo i duelli spettacolari con Hamilton e Russell
+- **Adkronos**: Formula 1, gioia Ferrari per podio Gp Giappone: team radio (colorito) a Leclerc Il pilota monegasco ha vinto un duello durissimo in pista con Russell
+- **Adkronos**: Formula 1, ordine d'arrivo Gp Giappone e classifica Piloti Antonelli trionfa a Suzuka e si prende la testa del Mondiale
+- **Il Fatto Quotidiano**: Antonelli da impazzire in Giappone: sfrutta la safety car, si prende Gran Premio (Leclerc terzo) e vetta del Mondiale E sono due, di seguito, come i grandi campioni. Kimi Antonelli raddoppia. Dopo il suo primo trionfo in carriera in Cina, il pilota bolognese della Mercedes conquista anche il gran premio del Giappone, terza prova del Mondiale. Una vittoria che vale doppio perché lo proietta in testa alla classifica piloti. Il diciannovenne ha preceduto la […] L'articolo Antonelli da impazzire in Giappone: sfrutta la safety car, si prende Gran Premio (Leclerc terzo) e vetta del Mondiale proviene da Il Fatto Quotidiano.
+- **Il Giornale**: F1, Antonelli: "Fortunato, mi è andata bene". Leclerc: "Che fatica" Dopo la seconda vittoria consecutiva, il giovane bolognese ammette di dover lavorare molto sulle partenze. Il monegasco soddisfatto della prestazione nonostante la sfortuna dovuta alla safety car
+- **Corriere Della Sera**: Kimi Antonelli dopo la vittoria del Gp del Giappone: «Non me lo aspettavo il primo posto nel mondiale. Ora devo capire come fare delle partenze decenti» Il pilota della Mercedes a soli 19 anni e dopo il successo in Giappone si ritrova in testa al campionato: «La macchina va veramente forte, siamo in una grande posizione. Oggi con la safety car mi è andata di lusso»
+- **La Repubblica**: F1 Gp Giappone, pagelle: Antonelli pazzesco, Leclerc da applausi. Verstappen e Hamilton, sveglia Promossi e bocciati della gara di Suzuka vinta dalla Mercedes del pilota italiano
+- **La Stampa**: Andrea Kimi Antonelli, il ragazzo dei record in F1: mai nessuno in testa al Mondiale così giovane Battuto il primato che apparteneva ad Hamilton. Il diciannovenne di Bologna ha anche eguagliato la doppietta di Ascari e riportato un pilota italiano davanti a tutti
+- **Fanpage.it**: L’umiltà di Kimi Antonelli dopo Suzuka: “Partenza terribile, devo allenarmi. Ho avuto fortuna” Kimi Antonelli vince il GP del Giappone e va in testa al Mondiale F1 2026, ma nel dopogara ammette errori alla partenza e il peso della Safety Car.Continua a leggere
+- **Libero**: Kimi Antonelli, l'attacco in radio: "Incredibile, che fortuna...", Russel vuole la sua testa Il Gran Premio del Giappone, terzo appuntamento del Mondiale di Formula 1, è stato deciso da un episodio chiave a metà gara. Al giro 22, la Haas di Oliver Bearman ha perso il controllo finendo violentemente contro le barriere. Il giovane pilota britannico ha riportato una botta alla caviglia ma è riuscito a uscire dall’abitacolo.L’incidente ha immediatamente fatto scattare la bandiera gialla e poi il regime di safety car, che ha congelato la corsa e permesso ai piloti ancora da fermare di effettuare il pit stop.Una vera beffa per George Russell. Il britannico della Mercedes, che in quel momento guidava la gara, aveva deciso di rientrare ai box proprio nel giro precedente per cambiare gomme. Cedendo così la testa della corsa al compagno di squadra Kimi Antonelli, rimasto fuori più a lungo. Quando è entrata la safety car, Russell è esploso via radio: "Incredibile! Che fortuna che abbiamo in queste ultime due gare", riferendosi chiaramente alla vittoria di Antonelli in Cina due settimane prima. [[ge:kolumbus:liberoquotidiano:47037013]] Dai box Mercedes hanno cercato di calmarlo invitandolo a concentrarsi sulla gara. La safety car ha favorito proprio Antonelli, che ha potuto gestire al meglio la strategia e mantenere il comando una volta rientrata la vettura di sicurezza.La gara, partita con 10 minuti di ritardo per riparare le barriere danneggiate in una categoria di supporto, ha così visto il giovane talento italiano consolidare la sua rimonta e conquistare la seconda vittoria consecutiva, volando in testa al Mondiale piloti. Russell, nonostante la leadership iniziale, ha dovuto accontentarsi di un piazzamento inferiore al podio.
+- **Libero**: Gp Suzuka, Kimi Antonelli trionfa e scrive la storia. Terzo Leclerc Kimi Antonelli ha conquistato una vittoria straordinaria nel Gran Premio del Giappone, terza prova del Mondiale 2026. Il 19enne pilota italiano della Mercedes è partito dalla pole position (1’28”778), ma una pessima partenza lo ha fatto scivolare fino al sesto posto. Con una rimonta impressionante e una gestione gara di grande maturità, Antonelli ha recuperato terreno giro dopo giro, sfruttando al meglio il ritmo superiore della Mercedes W17.La gara, partita con 10 minuti di ritardo per riparare le barriere danneggiate in una categoria di supporto, è stata decisiva al giro 23. L’incidente di Ollie Bearman (Haas), finito a muro con una violenta botta alla caviglia, ha fatto entrare la safety car. Questo momento ha favorito Antonelli e Hamilton, ancora senza pit-stop, permettendo all’italiano di balzare al comando.Al rientro della safety car, Antonelli ha imposto un ritmo forsennato, accumulando un vantaggio di oltre 13 secondi su Oscar Piastri. Dietro di loro si è acceso un duello serrato tra le Ferrari e le Mercedes. Charles Leclerc ha realizzato un capolavoro difensivo, conquistando il terzo posto dopo aver superato Lewis Hamilton e resistito agli attacchi di George Russell fino all’ultima curva.Sul podio sono saliti: 1. Kimi Antonelli (Mercedes), 2. Oscar Piastri (McLaren), 3. Charles Leclerc (Ferrari). Quarto Russell, sesto Hamilton, con Lando Norris in sesta posizione. Con questa seconda vittoria consecutiva dopo quella in Cina, Antonelli vola in testa al Mondiale piloti, superando il compagno Russell. “Suzuka è un circuito magico e vincere qui dopo una rimonta del genere è indimenticabile”, ha commentato il giovane talento bolognese.La Mercedes consolida il primato tra i costruttori, mentre la Ferrari mostra segnali positivi con il podio di Leclerc. Un inizio di stagione da sogno per il “ragazzo prodigio” italiano, che a soli 19 anni si candida già come protagonista assoluto del 2026.
+- **La Repubblica**: Antonelli: “In testa al mondiale? Meglio non pensarci, ma che opportunità”. Il messaggio a Sinner Con la vittoria in Giappone il pilota italiano della Mercedes è diventato il più giovane leader della classifica iridata: “Ora ho tre settimane per capire come fare delle partenze decenti”
+- **ANSA**: F1: Antonelli re anche in Giappone e vola in testa al Mondiale LE CLASSIFICHE 'E' Presto per pensarci', dice Kimi. Sul podio Piastri e un combattivo Leclerc
+- **Il Messaggero**: Antonelli si ripete in Giappone: davanti a tutti con nonchalance, come i veri campioni Lo ha fatto davvero. Non scherzava affatto: «A Suzuka ci riprovo», aveva dichiarato sorridendo. Un meraviglioso Kimi Antonelli, nel “caloroso” Giappone, si acchiappa la...
+- **Corriere Della Sera**: Pagelle F1 Gp Giappone: Antonelli verso la terra della gloria (10), Leclerc un guerriero (10). Per Hamilton un passo indietro Tutti i voti della gara di Suzuka, dove l'azzurro della Mercedes ha raccolto il secondo successo consecutivo. Grandissima prova anche di Charles, che ha saputo difendere il podio dagli attacchi di Russell
+- **Corriere Della Sera**: Pagelle Gp Giappone: Antonelli verso la terra della gloria (10), Leclerc un guerriero (10). Per Hamilton un passo indietro Tutti i voti della gara di Suzuka, dove l'azzurro della Mercedes ha raccolto il secondo successo consecutivo. Grandissima prova anche di Charles, che ha saputo difendere il podio dagli attacchi di Russell
+- **Libero**: Kimi Antonelli fa impazzire l'Italia: il team radio di Suzuka diventa virale Nel video della team radio Mercedes, subito dopo aver tagliato il traguardo del Gran Premio del Giappone a Suzuka, Kimi Antonelli ha lasciato esplodere tutta la sua emozione. Il 19enne pilota italiano, alla guida della Mercedes, ha conquistato la seconda vittoria consecutiva nel Mondiale 2026, dopo il successo ottenuto due settimane fa in Cina.“Wow, let’s go! Sono stato un po’ fortunato con la safety car, ma che gara incredibile nel finale. E che macchina che ho…”, ha esclamato Antonelli via radio verso il suo box, con un misto di gioia consapevole e grande soddisfazione. Questa volta l’emozione pura della prima vittoria ha lasciato spazio a una consapevolezza maggiore: il successo di Suzuka gli permette infatti di sorpassare il compagno di squadra George Russell e volare in testa alla classifica piloti del Mondiale.Antonelli, partito dalla pole position (la seconda consecutiva, con il tempo di 1:28.778), ha gestito una gara complicata, caratterizzata dall’incidente di Oliver Bearman che ha fatto entrare la safety car a metà gara. Grazie a una strategia intelligente e al passo superiore della Mercedes W17, il giovane talento bolognese ha recuperato posizioni e imposto il suo ritmo nel finale, regalando al team tedesco una solida affermazione sul circuito giapponese.Con questo risultato, Antonelli diventa il più giovane leader della classifica piloti nella storia della Formula 1. Clicca qui per guardare il video del team radio di Kimi Antonelli
+- **Fanpage.it**: Kimi Antonelli trionfa in Giappone, ma non festeggia con lo champagne: la legge glielo ha vietato Antonelli non ha potuto festeggiare con lo champagne il trionfo del Gp del Giappone. Per Kimi solo una bevanda analcolica, perché una legge del Giappone impedisce a chi ha meno di 20 anni di bere alcolici.Continua a leggere
+- **Il Post**: Kimi Antonelli ha vinto anche in Giappone 
+- **Libero**: Kimi Antonelli, la strana esultanza a Suzuka: chi omaggia dopo la vittoria Kimi Antonelli continua il suo incredibile inizio di stagione in Formula 1. Il 19enne pilota italiano della Mercedes ha vinto il Gran Premio del Giappone, conquistando la seconda vittoria consecutiva dopo quella in Cina e balzando in testa alla classifica piloti del Mondiale 2026.Partito dalla pole position, Antonelli ha commesso l’ennesimo errore in partenza ed è scivolato fino al sesto posto nelle prime curve. La rimonta è stata favorita dall’incidente di Ollie Bearman, che ha fatto entrare la safety car proprio dopo il pit stop di George Russell. Il compagno di squadra britannico, che era al comando, si è ritrovato così dietro e non è più riuscito a risalire.Dopo la ripartenza, Antonelli ha imposto un ritmo imprendibile con la Mercedes W17, dominando la gara in solitaria. Alle sue spalle ha chiuso un ottimo Oscar Piastri su McLaren, mentre Charles Leclerc (Ferrari) ha conquistato il terzo posto dopo un finale difensivo di grande cuore, tenendo dietro Russell.Con questo successo Antonelli è tornato in testa al Mondiale, un risultato che mancava a un pilota italiano da 21 anni, dall’epoca di Giancarlo Fisichella. [[ge:kolumbus:liberoquotidiano:47025326]] Sul podio, la gioia del giovane talento bolognese è esplosa in modo iconico: Antonelli ha esultato mimando la celebre mossa di Usain Bolt, la freccia scoccata con il braccio, simbolo di vittoria e superiorità. Un gesto che ha fatto subito il giro del mondo e che sottolinea la personalità spavalda e la grande fiducia del "ragazzo prodigio" italiano. [[ge:kolumbus:liberoquotidiano:47037354]]
+- **La Repubblica**: Kimi Antonelli, festa senza brindisi: centra un altro record, mima Bolt ma gli vietano lo champagne In Giappone il limite per bere è 20 anni: il pilota italiano sul podio ha avuto una bottiglia analcolica
+- **ANSA**: Antonelli re anche in Giappone e vola in testa al Mondiale LE CLASSIFICHE 'E' Presto per pensarci', dice Kimi. Sul podio Piastri e un combattivo Leclerc
+
+
+## 3. Quadro di Renoir rubato a Villa Magnani: «Les poissons vale milioni di euro». Il furto in provincia di Parma
+
+> **Context:** Il quadro del pittore impressionista portato via dalla sede della Fondazione Magnani Rocca a Mamiano di Traversetolo. Si tratta di una delle rare opere del pittore in una collezione permanente italiana
+
+- **Corriere Della Sera**: Quadro di Renoir rubato a Villa Magnani: «Les poissons vale milioni di euro». Il furto in provincia di Parma Il quadro del pittore impressionista portato via dalla sede della Fondazione Magnani Rocca a Mamiano di Traversetolo. Si tratta di una delle rare opere del pittore in una collezione permanente italiana
+- **Il Sole Ventiquattro Ore**: Rubato un quadro di Renoir alla Fondazione Magnani Rocca nel Parmense Olio su tela, del valore di diversi milioni, è una delle rare opere dell’autore in una collezione permanente in Italia
+- **La Repubblica**: Rubato un quadro di Renoir dalla Fondazione Magnani Rocca nel Parmense Si tratta dell’opera “Les Poissons”, dipinta intorno al 1917 dal pittore impressionista. Il furto è avvenuto a Mamiano di Traversetolo nei giorni scorsi
+- **La Stampa**: Rubato un quadro di Renoir alla Fondazione Magnani-Rocca nel Parmense Portato via Les Poissons, indagano i carabinieri
+- **ANSA**: Rubato un quadro di Renoir alla 'Magnani Rocca' nel Parmense Portato via 'Les Poissons', indagano i carabinieri
+- **Il Fatto Quotidiano**: Rubato il quadro Les poissons di Renoir da Villa Magnani: vale milioni di euro Il quadro Les Poissons del pittore impressionista Pierre-Auguste Renoir è stato rubato nei giorni scorsi dalla Fondazione Magnani Rocca di Mamiano di Traversetolo, nel Parmense. L’opera, un olio su tela del valore di diversi milioni, è uno dei rari quadri dell’autore francese in una collezione permanente in Italia. Alcuni giorni fa i ladri, con il […] L'articolo Rubato il quadro Les poissons di Renoir da Villa Magnani: vale milioni di euro proviene da Il Fatto Quotidiano.
+- **ANSA**: Rubati un quadro di Renoir, di Cezanne e di Matisse alla 'Magnani Rocca' nel Parmense Portati via 'Les Poissons', 'Natura morta con ciliegie' e 'Odalisca'
+- **Il Fatto Quotidiano**: Rubati quadri di Renoir, Matisse e Cezanne da Villa Magnani: valgono milioni di euro Colpo grosso alla Fondazione Magnani Rocca di Mamiamo di Traversetolo, nel Parmense. Alcuni giorni fa i ladri, con il volto travisato, si sarebbero introdotti all’interno di Villa Magnani, sede della collezione d’arte, e sono riusciti a sottrarre dipinti di Pierre-Auguste Renoir, Paul Cezanne e Henri Matisse. Un bottino dal valore di svariati milioni di euro. […] L'articolo Rubati quadri di Renoir, Matisse e Cezanne da Villa Magnani: valgono milioni di euro proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Rubati quadri di Renoir, Cézanne e Matisse dalla Fondazione Magnani Rocca: furto da milioni di euro Furto alla Fondazione Magnani Rocca nel Parmense, rubato il dipinto “Les Poissons” del pittore impressionista Pierre-Auguste Renoir. Sottratti anche un Cézanne e un Matisse, i quadri valgono diversi milioni di euro. Indagano i Carabinieri.Continua a leggere
+- **Il Giornale**: Colpo da milioni nel parmense: sparisce un Renoir dalla Fondazione Magnani Rocca L’opera, “Les Poissons”, un olio su tela del 1917 dal valore di diversi milioni di euro, è una delle poche dell’artista presenti in una collezione permanente in Italia
+- **AGI**: Furto d'arte milionario a Parma: rubati un Renoir, un Matisse e un Cezanne Un furto di ingente valore ha colpito nei giorni scorsi la Fondazione Magnani Rocca di Mamiano di Traversetolo. Secondo quanto riferito dalla TgR Rai Emilia-Romagna, ignoti si sono introdotti nell’edificio asportando opere d'arte dal valore stimato di diversi milioni di euro. Inizialmente le segnalazioni riguardavano esclusivamente il quadro "Les Poissons", un olio su tela del pittore impressionista Pierre-Auguste Renoir risalente al 1917 circa. Tuttavia, i successivi rilievi effettuati all'interno della villa-museo hanno rivelato un bilancio ben più grave: a distanza di poche ore dall'accertamento del primo ammanco, è stata confermata la sparizione di altri due capolavori. Le opere d'arte sottratte Secondo le prime ricostruzioni riportate dal quotidiano Il Resto del Carlino, i ladri avrebbero colpito la cosiddetta "sala dei francesi", situata al piano superiore della Fondazione. Oltre alla tela di Renoir, mancano all'appello "Natura morta con ciliegie" di Paul Cézanne (1890) "Odalisca sulla terrazza" di Henri Matisse (1922). Le indagini in corso Le autorità sono state allertate immediatamente dopo la scoperta del furto. Al momento, il perimetro delle indagini è affidato ai carabinieri, che stanno procedendo con i rilievi scientifici e l'analisi dei sistemi di sorveglianza per risalire all'identità dei responsabili e stabilire l'esatta tempistica dell'intrusione. Nessuna dichiarazione sulla sicurezza Non sono state rilasciate dichiarazioni ufficiali in merito a eventuali falle nel sistema di sicurezza della struttura, nota a livello internazionale per la prestigiosa collezione permanente raccolta da Luigi Magnani.
+- **Il Messaggero**: «Furto milionario in meno di 3 minuti». Rubati i quadri di Renoir, Cézanne e Matisse dalla mostra di Parma. Quarta opera abbandonata Tre importanti opere d’arte sono state sottratte dalla Fondazione Magnani-Rocca, situata a Mamiano di Traversetolo, nel Parmense. Oltre al dipinto “Les Poissons” di...
+
+
+## 4. Israele vieta a Pizzaballa di entrare al Santo Sepolcro: "Grave stop per la prima volta da secoli". Meloni: "Offesa ai credenti"
+
+> **Context:** La polizia israeliana ha impedito le celebrazioni nella domenica delle palme ai capi della Chiesa latina in Terra Santa. Proteste del governo italiano
+
+- **Corriere Della Sera**: La polizia israeliana impedisce al cardinal Pizzaballa di entrare al Santo Sepolcro. Il Patriarcato: «Precedente di gravità inaudita» La nota del Patriarcato Latino: «Questo incidente costituisce un grave precedente e ignora la sensibilità di miliardi di persone in tutto il mondo che, durante questa settimana, guardano a Gerusalemme». Pizzaballa era insieme al custode di Terra Santa, padre Francesco Ielpo
+- **Corriere Della Sera**: Gerusalemme, «la polizia israeliana impedisce l'ingresso al Santo Sepolcro al cardinale Pizzaballa per la Domenica delle Palme». Il Patriarcato: «Irragionevole» La nota del Patriarcato Latino: «Questo incidente costituisce un grave precedente e ignora la sensibilità di miliardi di persone in tutto il mondo che, durante questa settimana, guardano a Gerusalemme». Pizzaballa era insieme al custode di Terra Santa, padre Francesco Ielpo
+- **La Repubblica**: Gerusalemme, Israele non fa entrare il cardinale Pizzaballa e Ielpo nel Santo Sepolcro per le Palme Il patriarca latino e il custode di Terra Santa stavano andando a celebrare la liturgia. Il Papa: “Impedito ai fedeli di vivere i riti di Pasqua”
+- **La Stampa**: Israele blocca l'ingresso di Pizzaballa al Santo Sepolcro: “Violata libertà di culto” Il Patriarcato latino, in ossequio alle restrizioni emanate dalle autorità israeliane, ha cancellato le funzioni sacre dell’inizio del Triduo pasquale come la messa delle Palme, la tradizionale processione che si tiene da Betfage al Monte degli Ulivi fino alla chiesa di Sant’Anna e la messa crismale del Giovedì Santo
+- **ANSA**: La polizia di Israele impedisce al cardinale Pizzaballa di entrare al Santo Sepolcro Lo rende noto il Patriarcato, 'fermati mentre si recavano privatamente'
+- **Il Fatto Quotidiano**: Israele impedisce al cardinale Pizzaballa di entrare nel Santo Sepolcro a Gerusalemme per la Messa delle Palme: “Gravissimo precedente, mai successo” La polizia israeliana ha impedito al Patriarca latino di Gerusalemme, il cardinale Pierbattista Pizzaballa, e al Custode di Terra Santa, padre Francesco Ielpo, di entrare nella Chiesa del Santo Sepolcro a Gerusalemme dove si stavano recando per celebrare la Messa della Domenica delle Palme. La notizia è stata resa nota dal Patriarcato di Gerusalemme sottolineando […] L'articolo Israele impedisce al cardinale Pizzaballa di entrare nel Santo Sepolcro a Gerusalemme per la Messa delle Palme: “Gravissimo precedente, mai successo” proviene da Il Fatto Quotidiano.
+- **Il Messaggero**: Pizzaballa, la polizia israeliana impedisce il suo ingresso al Santo Sepolcro a Gerusalemme: «Precedente grave» «Questa mattina, la polizia israeliana ha impedito al Patriarca latino di Gerusalemme, il Cardinale Pierbattista Pizzaballa, Capo della Chiesa Cattolica in Terra Santa, e al Custode di Terra...
+- **Corriere Della Sera**: Le reazioni: Tajani convoca l'ambasciatore israeliano. Meloni: «Una offesa per i credenti e per la libertà religiosa» Tajani: inaccettabile. Bonelli: governo israeliano feroce e violento
+- **Adkronos**: Israele impedisce a cardinale Pizzaballa accesso a Santo Sepolcro per messa domenica delle Palme. Meloni: "Un'offesa", Tajani: "Sdegnati con Tel Aviv" E' la prima volta da secoli. La denuncia del Patriarcato cattolico: "Misura manifestamente irragionevole e grossolanamente sproporzionata, ignorata la sensibilità di miliardi di persone in tutto il mondo". Il ministro degli Esteri: "Istruzioni al nostro ambasciatore di protestare"
+- **Fanpage.it**: Gerusalemme, da Israele schiaffo alla Pasqua: polizia blocca il cardinale Pizzaballa davanti al Santo Sepolcro Gerusalemme: la polizia blocca il Patriarca Pizzaballa e il Custode Ielpo, impedendo la messa delle Palme al Santo Sepolcro. Uno strappo senza precedenti da secoli nella Città Santa.
+- **La Repubblica**: Meloni: “Vicini a Pizzaballa, da autorità Israele offesa ai credenti”. Tajani convoca l’ambasciatore La premier commenta il divieto al cardinale di celebrare la messa della domenica delle Palme
+- **Il Giornale**: Israele vieta a Pizzaballa di entrare al Santo Sepolcro: "Grave stop per la prima volta da secoli". Meloni: "Offesa ai credenti" La polizia israeliana ha impedito le celebrazioni nella domenica delle palme ai capi della Chiesa latina in Terra Santa. Proteste del governo italiano
+- **ANSA**: Israele impedisce al cardinale Pizzaballa di entrare al Santo Sepolcro. Lui: 'Situazione complicata' Meloni: 'Offesa ai credenti'. Tajani convoca l'ambasciatore. La replica: 'Ragioni di sicurezza'
+- **Il Fatto Quotidiano**: Da Meloni a Macron, tutti contro Israele: “Lo stop a Pizzaballa viola la libertà di culto”. E Tajani convoca l’ambasciatore La decisione delle autorità israeliane di impedire al cardinale Pierbattista Pizzaballa di celebrare la messa della Domenica delle Palme nel Santo Sepolcro viene condannata unanimemente dal governo e non solo. Al coro delle massime cariche italiane e delle opposizioni – con Elly Schlein durissima contro Benjamin Netanyahu – si unisce anche la Francia, con Emmanuel […] L'articolo Da Meloni a Macron, tutti contro Israele: “Lo stop a Pizzaballa viola la libertà di culto”. E Tajani convoca l’ambasciatore proviene da Il Fatto Quotidiano.
+- **ANSA**: Pizzaballa bloccato all'ingresso del Santo Sepolcro. Herzog: 'Profondo dolore per l'incidente' Il cardinale: 'Situazione complicata'. Meloni: 'Offesa ai credenti'. Tajani convoca l'ambasciatore
+- **Il Giornale**: Il cardinale Pizzaballa: "Situazione complicata, vogliamo la pace" Dopo essere stato respinto al Santo Sepolcro, il patriarca di Gerusalemme guida la supplica per la pace al Monte degli Ulivi
+- **Il Giornale**: Israele apre a un piano per consentire l'accesso al Santo Sepolcro Dopo le polemiche sul no a Pizzaballa le autorità di Tel Aviv stanno mettendo a punto le disposizioni per permettere ai religiosi di visitare la Chiesa senza rischi
+- **Libero**: Israele, esplode il caso Pizzaballa: Tajani convoca l'ambasciatore, Meloni esprime vicinanza al cardinale La politica italiana ha espresso solidarietà e sdegno dopo quanto accaduto domenica 29 marzo a Gerusalemme, dove al cardinale Pierbattista Pizzaballa, Patriarca latino di Gerusalemme, e a padre Francesco Ielpo, Custode di Terra Santa, è stato impedito di accedere al Santo Sepolcro per celebrare la Messa della Domenica delle Palme.Il ministro degli Esteri Antonio Tajani ha definito l’accaduto "inaccettabile" e ha annunciato: "Ho dato indicazione di convocare domani al ministero degli esteri l’ambasciatore di Israele per avere chiarimenti sulla decisione di impedire al cardinale Pizzaballa la celebrazione della domenica delle Palme". Ha aggiunto: "Per la prima volta ai vertici della Chiesa la polizia israeliana ha negato la possibilità di celebrare la Messa delle Palme in uno dei luoghi più sacri per milioni di fedeli nel mondo. Ho dato immediate istruzioni al nostro Ambasciatore in Israele di esprimere alle autorità di Tel Aviv il nostro sdegno e confermare la posizione italiana a tutela, sempre ed in ogni circostanza, della libertà di religione". La premier Giorgia Meloni ha espresso "vicinanza al Cardinale Pizzaballa, a Padre Ielpo e ai religiosi ai quali le autorità israeliane hanno impedito oggi di celebrare la Messa della Domenica delle Palme nel Santo Sepolcro". Ha poi sottolineato: "Il Santo Sepolcro di Gerusalemme è luogo sacro della cristianità, e in quanto tale da preservare e tutelare per la celebrazione dei riti sacri. Impedirne l’ingresso al Patriarca di Gerusalemme e al Custode di Terra Santa, peraltro in una solennità centrale per la fede qual è la Domenica delle Palme, costituisce un’offesa non solo per i credenti, ma per ogni comunità che riconosca la libertà religiosa". [[ge:kolumbus:liberoquotidiano:47040846]] Anche il presidente della Camera Lorenzo Fontana ha espresso «piena solidarietà al Cardinale Pierbattista Pizzaballa e a monsignor Francesco Ielpo» auspicando "piena chiarezza sull’accaduto" e ribadendo "il rispetto del principio fondamentale della libertà di professare la propria fede". Infine le parole di Angelo Bonelli (AVS): "Impedire al cardinale Pierbattista Pizzaballa e a padre Francesco Ielpo di recarsi al Santo Sepolcro per celebrare la Messa della Domenica delle Palme è un atto violento e di ostilità nei confronti di tutta la comunità cristiana cattolica. Il governo israeliano non si smentisce e si conferma feroce e violento".
+- **Corriere Della Sera**: Il cardinale Pizzaballa celebra la messa dopo il divieto al Santo Sepolcro 
+- **Corriere Della Sera**: Pizzaballa al Getsemani: «Oggi Gesù torna a piangere su Gerusalemme e tutte le vittime di una guerra che non finisce» Il cardinale, assieme al padre Custode di Terrasanta Francesco Ielpo, era da poco stato fermato dalla polizia israeliana mentre andava verso il Santo Sepolcro per celebrare la messa della Domenica delle Palme
+- **ANSA**: Lo stop di Israele a Pizzaballa al Santo Sepolcro. Netanyahu: 'Un piano per le celebrazioni' Il cardinale: 'Situazione complicata'. Meloni: 'Offesa ai credenti'. Tajani convoca l'ambasciatore
+
+
+## 5. Milano, Porsche si schianta contro 4 auto in sosta: morto un ragazzo di 21 anni
+
+> **Context:** Sulla Porsche Spider viaggiavano tre ragazzi e purtroppo il conducente non ce l'ha fatta. Ecco cosa è successo
+
+- **Corriere Della Sera**: Incidente in centro a Milano, tre ventenni si schiantano su auto in sosta 
+- **Fanpage.it**: Si schiantano con la Porsche contro alcune auto in sosta, tre ragazzi feriti a Milano: grave un 21enne Tre giovani sono rimasti gravemente feriti dopo essersi schiantati con una Porsche Spider contro alcune auto in sosta nel pieno centro di Milano. Coinvolte due ragazze di 19 e 20 anni e un 21enne che è stato ricoverato in codice rosso.Continua a leggere
+- **Corriere Della Sera**: Milano, incidente in viale di Porta Vercellina: tre ragazzi si schiantano con la Porsche contro le auto in sosta, grave 21enne L’incidente dopo piazzale Aquileia. Operato al Policlinico il 21enne alla guida che ha perso il controllo della Porsche Spyder (con targa tedesca)
+- **La Stampa**: Milano: schianto contro auto in sosta, feriti tre giovani Milano: tre giovani sono rimasti feriti (uno è in gravi condizioni) dopo che l'auto su cui viaggiavano si è schiantata contro alcune vetture in sosta. L'incidente è avvenuto circa alle 6 di mattina in corso di Porta Vercellina. Coinvolti una ragazza di 19 anni, una di 20 e un ragazzo di 21 anni alla guida. Secondo una prima ricostruzione, il veicolo ha urtato diverse auto parcheggiate lungo la strada. Il conducente è stato trasportato in codice rosso al Policlinico, mentre le due passeggere sono state portate in codice giallo all'ospedale San Carlo
+- **Il Fatto Quotidiano**: Porsche spider si schianta contro quattro auto in sosta a Milano: tre feriti, grave il conducente 21enne Una Porsche spider si è schiantata contro alcune auto in sosta nelle prime ore di domenica 29 marzo, a Milano. A bordo dell’auto c’erano tre ragazzi: il conducente di 21 anni è stato trasportato in codice rosso al Policlinico, ma non risulta in pericolo di vita. Erano circa le 6.00 della mattina di domenica quando […] L'articolo Porsche spider si schianta contro quattro auto in sosta a Milano: tre feriti, grave il conducente 21enne proviene da Il Fatto Quotidiano.
+- **Libero**: Milano, tre giovani si schiantano contro delle auto in sosta 
+- **ANSA**: Finisce con una Porsche contro un'auto in sosta, morto un 21enne a Milano Incidente all'alba in centro città, ferite due ragazze di 19 e 20 anni
+- **Il Giornale**: Milano, Porsche si schianta contro 4 auto in sosta: morto un ragazzo di 21 anni Sulla Porsche Spider viaggiavano tre ragazzi e purtroppo il conducente non ce l'ha fatta. Ecco cosa è successo
+- **Il Messaggero**: Incidente Milano, con una Porsche Spyder si schianta contro auto in sosta: morto 21enne, ferite due passeggere È morto Lorenzo P., il ragazzo di 21 anni coinvolto nell’incidente avvenuto all’alba di oggi, domenica 29 marzo, a Milano: la Porsche Spyder che stava guidando si...
+- **Fanpage.it**: Si schianta in Porsche contro alcune auto in sosta a Milano: morto il 21enne Lorenzo Mattia Persiani È Lorenzo Mattia Persiani il 21enne che è morto dopo essersi schiantato con una Porsche Spyder contro alcune auto in sosta in centro a Milano. Il ragazzo era stato ricoverato al Policlinico dove era stato sottoposto a un'operazione chirurgica.Continua a leggere
+- **La Repubblica**: Milano, Porsche si schianta contro auto in sosta: morto il 21enne Lorenzo Persiani Porta Vercellina, all’alba l’auto a forte velocità ha travolto quattro veicoli. Morto il ragazzo alla guida. Ferite le due amiche di 20 e 19 anni
+
+
+## 6. Cena a tre con Meloni, Tajani e Salvini: all'esame le conseguenze della sconfitta al referendum
+
+> **Context:** L'incontro è avvenuto a casa della premier, obiettivo il rilancio dell'azione di governo per riguadagnare la fiducia degli elettori
+
+- **Corriere Della Sera**: Cena a tre con Meloni, Tajani e Salvini: all'esame le conseguenze della sconfitta al referendum L'incontro è avvenuto a casa della premier, obiettivo il rilancio dell'azione di governo per riguadagnare la fiducia degli elettori
+- **Il Sole Ventiquattro Ore**: Meloni vede Salvini e Tajani, vertice a cena dalla premier La presidente del Consiglio Giorgia Meloni ha incontrato ieri sera a cena i vicepremier Matteo Salvini e Antonio Tajani. Il vertice si è tenuto nella residenza romana della premier. Obiettivo:...
+- **La Repubblica**: Vertice nella villa di Meloni, panico da crollo nei sondaggi. L’opposizione: venga in aula Invito a cena venerdì sera per Matteo Salvini e Antonio Tajani nella residenza romana del capo del governo. Sul tavolo il tema del rilancio della coalizione. Lettera del centrosinistra ai presidenti delle Camere per chiedere che la premier riferisca in Parlamento
+- **Il Fatto Quotidiano**: Vertice a casa Meloni con i vicepremier Salvini e Tajani: sul tavolo futuro e strategie dopo la sconfitta al referendum Si sono seduti attorno a un tavolo, a cena, per analizzare la sconfitta al referendum. La presidente del Consiglio, Giorgia Meloni, ha tenuto venerdì sera un vertice informale con i due vicepremier Matteo Salvini e Antonio Tajani. Il luogo scelto è stata la villa della premier a Roma sud, come anticipato da Repubblica. Fonti del […] L'articolo Vertice a casa Meloni con i vicepremier Salvini e Tajani: sul tavolo futuro e strategie dopo la sconfitta al referendum proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Governo Meloni, la premier vede Salvini e Tajani a cena: sul tavolo il voto anticipato, news in diretta Le notizie dell'ultima ora sul governo Meloni dopo le dimissioni di Delmastro, Bartolozzi e Santanchè e dopo il passo indietro di Gasparri da capogruppo di FI al Senato. Ieri sera la premier ha convocato Tajani e Salvini nella sua residenza a Roma per fare il punto sulla situazione. Tutti gli aggiornamenti sulla crisi interna al governo dopo i risultati del Referendum.Continua a leggere
+- **Il Manifesto**: Centrodestra, resa dei conti dopo la sconfitta al Sud La presidente del Consiglio Giorgia Meloni e i vicepremier Matteo Salvini e Antonio Tajani venerdì hanno cenato a casa della premier. Secondo fonti di governo si sarebbe trattato di una […] The post Centrodestra, resa dei conti dopo la sconfitta al Sud first appeared on il manifesto.
+- **Il Messaggero**: Governo, vertice a tre Meloni-Tajani-Salvini. «Ora ingraniamo le marce alte» Una cena tra leader, dopo un Consiglio dei ministri in cui non si è proferito parola sulla sonora sconfitta incassata alle urne e sulla dolorosissima uscita di scena di Daniela...
+- **Il Giornale**: Meloni, Tajani e Salvini: vertice per la ripartenza a casa della premier Incontro post-referendum tra i leader. Sul tavolo legge elettorale, crisi internazionali ed equilibri di coalizione
+
+
+## 7. La confessione del 13enne che ha accoltellato la prof: «Mi dispiace non averla uccisa». Voleva ammazzare anche i genitori
+
+> **Context:** La confessione del 13enne che ha accoltellato la professoressa di francese a Trescore Balneario, nella Bergamasca. Il ragazzo è stato affidato ai servizi sociali e sarà accompagnato in una comunità
+
+- **Corriere Della Sera**: La confessione del 13enne che ha accoltellato la prof: «Mi dispiace non averla uccisa». Voleva ammazzare anche i genitori La confessione del 13enne che ha accoltellato la professoressa di francese a Trescore Balneario, nella Bergamasca. Il ragazzo è stato affidato ai servizi sociali e sarà accompagnato in una comunità
+- **Corriere Della Sera**: Bergamo, la confessione del 13enne che ha accoltellato la prof: «Mi dispiace non averla uccisa». Voleva ammazzare anche i genitori La confessione del 13enne che ha accoltellato la professoressa di francese a Trescore Balneario, nella Bergamasca. Il ragazzo è stato affidato ai servizi sociali e sarà accompagnato in una comunità
+- **La Stampa**: Prof aggredita a scuola, il manifesto della vendetta ispirato agli “anime” Il contenuto del messaggio pubblicato su Telegram dal 13enne rimanda a serie giapponesi per adolescenti. Gli esperti: “Non è un testo generato con l’Ai”
+- **ANSA**: La prof accoltellata, chiusi canale e profilo Telegram del 13enne Aperti due fascicoli dalla procura dei minori. Zuppi: "Colpito dalle parole della docente"
+- **Il Giornale**: Il tredicenne che ha accoltellato la prof: "Mi dispiace di non averla uccisa" Il ragazzino lo ha detto ai carabinieri che lo hanno interrogato. Avrebbe voluto uccidere anche i genitori. Indagine a tutto campo per risalire a eventuali istigatori. L'insegnante di francese sta meglio
+- **Fanpage.it**: La confessione del 13enne che ha accoltellato la prof in diretta su Telegram: “Mi dispiace non averla uccisa” Ai carabinieri il 13enne avrebbe riferito di essere dispiaciuto per non aver portato a termine l'omicidio della professoressa di francese Chiara Mocchi, accoltellata a scuola lo scorso 25 marzo. Il ragazzino avrebbe confessato di voler uccidere anche i genitori.Continua a leggere
+- **Il Messaggero**: «Mi dispiace non averla uccisa». La confessione del 13enne che ha accoltellato la prof (e che voleva ammazzare anche i genitori) Non mostra alcun segno di rimorso, anzi ha detto che il suo unico rammarico è non essere riuscito a portare a termine ciò che aveva progettato. Il tredicenne di Trescore Balneario,...
+- **La Repubblica**: Prof accoltellata, l’amica di chat dell’aggressore: “Voleva uccidere i suoi ma riuscii a fermarlo” Racconto shock della ragazza: “L’ho sentito prima dell’agguato, lo aveva deciso sabato”. A Trescore spuntano vecchie minacce alla docente: sputi sull’auto e volgarità sui muri
+- **Il Fatto Quotidiano**: L’interrogatorio del 13enne autore del tentato omicidio della prof: “Dispiaciuto per non averla uccisa” Aveva pianificato di uccidere la sua insegnante di francese, si era procurato tutto il necessario e aveva trasmesso in diretta la sua vendetta iniziata con l’accoltellamento della docente nei corridoi della scuola media di Trescore Balneario, nella Bergamasca: il 13enne, autore del tentato omicidio, durante l’interrogatorio si è detto dispiaciuto di non aver portato a […] L'articolo L’interrogatorio del 13enne autore del tentato omicidio della prof: “Dispiaciuto per non averla uccisa” proviene da Il Fatto Quotidiano.
+- **Il Giornale**: L'arsenale comprato in chat. Caccia ai contatti del 13enne Qualcuno potrebbe aver spinto il giovane all'azione. Chiuso il canale Telegram che ha trasmesso la diretta
+
+
+## 8. Leone XIV: “Deponete le armi, le ingiustizie hanno le ore contate. Le vostre mani grondano sangue”
+
+> **Context:** Il Papa: «Dio rifiuta la guerra, nessuno lo usi per giustificarla, si apra un cammino di riconciliazione e di pace. Vicini ai cristiani che in Medio Oriente non possono vivere i riti della Pasqua»
+
+- **Corriere Della Sera**: Domenica delle Palme, Papa Leone: «Dio rifiuta la guerra, nessuno può usarlo per giustificarla» Il Pontefice in piazza San Pietro, con migliaia di fedeli, apre le celebrazioni della Settimana Santa prima di Pasqua
+- **Il Sole Ventiquattro Ore**: Il Papa: nessuno può usare Dio per giustificare la guerra Gesù «non si è armato, non si è difeso, non ha combattuto nessuna guerra. Ha manifestato il volto mite di Dio, che sempre rifiuta la violenza, e invece di salvare...
+- **ANSA**: Il Papa nella Domenica delle Palme: "Deponete le armi! Siete fratelli!" "Sentiamo il gemito di dolore di tutti gli oppressi dalla guerra"
+- **Il Messaggero**: Papa Leone: «Cristo rifiuta le preghiere di quei leader con le mani lorde di sangue» «Cristo, Re della pace, grida ancora dalla sua croce: Dio è amore! Abbiate pietà! Deponete le armi, ricordatevi che siete fratelli!». È fortissima la condanna...
+- **La Repubblica**: Nuovo appello del Papa: “Deponete le armi”. E ai cristiani in Terrasanta: “Vi sono vicino” Da Piazza San Pietro il Pontefice ricorda “Dio rigetta le preghiere di chi fa la guerra”. E citando don Tonino Bello alla Madonna chiede “dacci la certezza che le ingiustizie contro i popoli abbiano i giorni contati”
+- **La Stampa**: Leone XIV: “Deponete le armi, le ingiustizie hanno le ore contate. Le vostre mani grondano sangue” Il Papa: «Dio rifiuta la guerra, nessuno lo usi per giustificarla, si apra un cammino di riconciliazione e di pace. Vicini ai cristiani che in Medio Oriente non possono vivere i riti della Pasqua»
+- **Il Fatto Quotidiano**: L’appello di Leone XIV nella domenica delle Palme: “Nessuno può usare Dio per giustificare la guerra. Deponete le armi” “Abbiate pietà! Deponete le armi, ricordatevi che siete fratelli!”. È l’appello lanciato dal Papa per l’omelia della domenica delle Palme. “Guardando” a Gesù “che è stato crocifisso per noi, vediamo i crocifissi dell’umanità. Nelle sue piaghe vediamo le ferite di tante donne e uomini di oggi. Nel suo ultimo grido sentiamo il pianto di chi […] L'articolo L’appello di Leone XIV nella domenica delle Palme: “Nessuno può usare Dio per giustificare la guerra. Deponete le armi” proviene da Il Fatto Quotidiano.
+
+
+## 9. Anche gli Houthi contro gli Usa. Migliaia di marines arrivati nel Golfo
+
+> **Context:** Gli yemeniti minacciano l’altra strozzatura energetica, Bab el-Mandeb, con effetti devastanti
+
+- **Corriere Della Sera**: Chi sono gli Houthi, milizia filo-Ayatollah, e perché sono così pericolosi: «Pronti a bloccare il Mar Rosso» 
+- **La Repubblica**: Gli Houthi all’attacco, ora tocca al Mar Rosso. Arrivati 2200 marines I guerriglieri dello Yemen: “Tra le opzioni chiudere Bab el Mandeb”. Colpita base Usa in Arabia Saudita, 12 soldati americani feriti
+- **La Stampa**: Anche gli Houthi contro gli Usa. Migliaia di marines arrivati nel Golfo Gli yemeniti minacciano l’altra strozzatura energetica, Bab el-Mandeb, con effetti devastanti
+- **Adkronos**: Iran, cosa significa l'attacco degli Houthi a Israele: la strategia di Teheran e il rischio escalation Secondo alcuni analisti potrebbe restare un caso isolato. Un alto funzionario del ministero della propaganda Houthi ha minacciato la chiusura dello Stretto di Bab al-Mandab
+- **La Verità**: Gli Huthi lanciano un missile su Israele. Dopo Hormuz trema il Mar Rosso Come due anni fa lo snodo commerciale chiave per l’Europa rischia lo stop: aumenteranno costi d’importazione e inflazione.Il portavoce della tribù sciita minaccia raid intensi su Stato ebraico, Emirati e Arabia: «Hanno sfidato Teheran e pagheranno, noi abbiamo delle scorte balistiche infinite».Lo speciale contiene due articoli.Continua a leggere
+- **Il Manifesto**: Si apre il fronte-Houthi, rischia di chiudere un altro Stretto L’ingresso di Ansarullah, gli Houthi, nella mischia non era una questione di «se», ma di «quando». E venerdì sera, quando il gruppo yemenita sciita alleato di Teheran ha avvertito che […] The post Si apre il fronte-Houthi, rischia di chiudere un altro Stretto first appeared on il manifesto.
+- **Il Messaggero**: Guerra, gli Houthi entrano in guerra e ora anche Suez è a rischio. Migliaia di marines statunitensi in arrivo Da una parte, un negoziato fragile ma che si è ufficialmente aperto. Dall’altra, una guerra che rischia di assistere a una nuova pericolosa escalation. Dopo settimane di attesa, ieri...
+- **La Verità**: La guerra arriva nel Mar Rosso. L’Italia rischia di dover sparare Gli Huthi lanciano missili su Israele, la nostra Marina può essere coinvolta per difendere le navi. Base Usa bombardata dall’Iran. Finora, l’entrata in guerra degli Huthi a fianco dell’Iran si è tradotta in un razzo scagliato verso Israele; una provocazione alla quale Tel Aviv e gli americani non hanno nemmeno risposto. Ma la minaccia dei ribelli yemeniti si proietta subito sull’altro Stretto strategico, dopo quello di Hormuz, chiuso dai pasdaran: Bab el-Mandeb. Continua a leggere
+
+
+## 10. Anarchici a Roma in via Lemonia per commemorazione Ardizzone e Mercogliano
+
+> **Context:** Presidio era stato vietato, ingente schieramento forze ordine. Deposti fiori rossi e neri
+
+- **Corriere Della Sera**: Parco degli Acquedotti, presidio degli anarchici per la morte di Sara Ardizzone e Alessandro Mercogliano Le forze dell'ordine sul posto. Gli anarchici sono alcune decine, si sono radunati vicino alla chiesa di San Policarpo
+- **ANSA**: Anarchici a Roma in via Lemonia per commemorazione Ardizzone e Mercogliano Presidio era stato vietato, ingente schieramento forze ordine. Deposti fiori rossi e neri
+- **Fanpage.it**: Commemorazione degli anarchici a Roma vietata oggi: camionette della polizia, 60 militanti identificati Anarchici commemorano Sara Ardizzone e Sandrone Mercogliano a Roma, ma dopo il divieto del questore in via Lemonia arrivano blindati e droni.Continua a leggere
+- **La Repubblica**: Parco degli Acquedotti, tra blindati e droni gli anarchici commemorano Ardizzone e Mercogliano L’imponente l’apparato di sicurezza e il divieto del questore non hanno fermato i manifestanti. Slogan e fiori per ricordare i compagni morti in seguito all’esplosione dell’ordigno che stavano fabbricando
+- **Il Giornale**: Anarchici in corteo nonostante il divieto, presidio per Mercogliano e Ardizzone: 91 fermati a Roma Erano circa 60 questa mattina gli antagonisti che hanno voluto ricordare i “compagni” morti mentre preparavano un ordigno in un casale abbandonato. Altri gruppi fermati prima e identificati
+- **Il Sole Ventiquattro Ore**: Manifestazione anarchica a Roma, 91 fermi preventivi Gruppi di anarchici sono stati bloccati su vari ingressi del parco degli Acquedotti a Roma, arrivati per una manifestazione di commemorazione dei due militanti anarchici morti nell’esplosione del...
+- **ANSA**: Manifestazione anarchica a Roma, 91 fermi preventivi Il presidio era stato vietato dalla questura. Si valuterà il foglio di via
+- **Libero**: Roma, corteo anarchico non autorizzato in ricordo di Ardizzone e Mercogliano 
+
+
+## 11. Gli Usa più vicini a inviare truppe di terra, Teheran minaccia: 'Diventeranno cibo per gli squali' - Liveblog
+
+> **Context:** Si tratterebbe di incursioni condotte da operazioni speciali e truppe di fanteria. Nuovi raid sulla capitale iraniana
+
+- **La Repubblica**: Guerra in Iran, le news di oggi. “Il Pentagono si prepara a settimane di operazioni di terra in Iran” Migliaia di marines nel Golfo. Oggi al via Pakistan il vertice dei Paesi che cercano una mediazione. Teheran minaccia di colpire le università Usa in Medio Oriente
+- **ANSA**: Il Washington Post: "Il Pentagono si prepara a settimane di operazioni a terra in Iran" - Liveblog Si tratterebbe di incursioni condotte da operazioni speciali e truppe di fanteria. Due potenti esplosioni hanno scosso il nord di Teheran nelle prime ore del mattino
+- **Adkronos**: Iran, raid Usa-Israele sul porto vicino Stretto Hormuz: 5 morti. W. Post: Pentagono si prepara a settimane di operazioni di terra - La diretta Colpito il molo di Bandar Khamir. Forti esplosioni udite a Teheran, deflagrazioni nella zona nordorientale della capitale
+- **Fanpage.it**: Iran, la guerra in diretta: Raid Usa-Israele su porto di Bandar Pol, vicino allo stretto di Hormuz Le ultime news dalla guerra in Iran dopo l'attacco di Israele e USA: cinque morti nel raid di Stati Uniti e Tel Aviv su porto vicino allo stretto di Hormuz. Houthi minacciano chiusura dello stretto di Bab el-Mandab.Continua a leggere
+- **Il Giornale**: Usa pronti a sbarcare in Iran, il Pentagono valuta raid di terra: Kharg nel mirino Mentre a Islamabad si tenta la via diplomatica, Washington rafforza il dispositivo militare e studia incursioni contro obiettivi strategici del regime
+- **Il Giornale**: Guerra in Iran: "Pentagono pronto a settimane di operazioni a terra in Iran". Raid Usa-Israele su Hormuz Israele intensifica le operazioni contro l’Iran, colpisce Teheran e intercetta missili nel Negev. I media iraniani denunciano raid su Bandar Khamir, mentre crescono i timori di escalation regionale
+- **Il Fatto Quotidiano**: Guerra in Iran, media: “Il Pentagono si prepara a settimane di operazioni di terra”. Teheran replica: “Li aspettiamo” L'articolo Guerra in Iran, media: “Il Pentagono si prepara a settimane di operazioni di terra”. Teheran replica: “Li aspettiamo” proviene da Il Fatto Quotidiano.
+- **Il Messaggero**: Guerra Iran, dai paracadutisti ai nodi di Kharg: così gli Usa preparano l'assalto finale. «Pronte incursioni delle forze speciali» Donald Trump continua a sostenere che la guerra in Medio Oriente sta per finire. Eppure migliaia di marines a bordo di navi anfibie della Marina Usa, appartenenti alla 31ª e...
+- **Il Messaggero**: Attacco Usa all'Iran, dai paracadutisti ai nodi di Kharg: così i Marines preparano l'assalto Donald Trump continua a sostenere che la guerra in Medio Oriente sta per finire. Eppure migliaia di marines a bordo di navi anfibie della Marina Usa, appartenenti alla 31ª e...
+- **ANSA**: Gli Usa più vicini a inviare truppe di terra, Teheran minaccia: 'Diventeranno cibo per gli squali' - Liveblog Si tratterebbe di incursioni condotte da operazioni speciali e truppe di fanteria. Nuovi raid sulla capitale iraniana
+- **Il Messaggero**: Guerra Usa-Iran, dai Marines ai paracadutisti: il Pentagono prepara l'assalto finale. «Incursioni delle forze speciali, non un'invasione» Donald Trump continua a sostenere che la guerra in Medio Oriente sta per finire. Eppure migliaia di marines a bordo di navi anfibie della Marina Usa, appartenenti alla 31ª e...
+- **Adkronos**: Iran, raid su studi tv del Qatar. Teheran: "Marines? Ottimo cibo per gli squali". W. Post: "Pentagono si prepara a operazioni di terra" - La diretta Attacco a porto vicino a Hormuz: 5 morti. Forti esplosioni udite a Teheran, Idf: "Infrastrutture nel mirino". I pasdaran minacciano attacchi alle università di Usa e Israele nella regione e lanciano un ultimatum
+
+
+## 12. Mamma e figlio trovati morti nel lago
+
+> **Context:** Giallo a Rovigo: vicino alla riva il passeggino
+
+- **Corriere Della Sera**: La rete tagliata e il passeggino nei campi: mamma trovata morta con il figlio di un anno nel laghetto del Polesine Un testimone li avrebbe visti poco prima di sparire. Si fa strada l'ipotesi dell'omicidio-suicidio
+- **ANSA**: Giallo in Veneto, donna e bimbo trovati morti in un laghetto Nel Rodigino, il piccolo ha appena 12 mesi. I cadaveri visti da un passante
+- **Il Messaggero**: Mamma e figlio di 1 anno morti nel laghetto: passeggino e scarpine sulla sponda hanno fatto scattare l'allarme CASTELGUGLIELMO (ROVIGO) - Le scarpine ancora lì per terra. Rosse e blu, con l’Uomo ragno stampato sopra. Poco più in là, il passeggino: vuoto, fermo sulla stradina che...
+- **ANSA**: Donna e bimbo morti nel Rodigino, la Procura indaga per omicidio Lunedì l'autopsia sui corpi di mamma e figlio trovati in un laghetto
+- **Il Giornale**: Mamma e figlio trovati morti nel lago Giallo a Rovigo: vicino alla riva il passeggino
+- **Fanpage.it**: Mamma e figlioletto trovati morti in un laghetto a Rovigo, si indaga per omicidio: lunedì l’autopsia Si indaga per omicidio per la morte di una donna di 39 anni e del figlioletto di un anno trovati senza vita in un laghetto di Castelguglielmo, nei pressi di Rovigo. Si tratta di un atto dovuto per effettuare ulteriori accertamenti. Lunedì l'autopsia.
+- **La Repubblica**: Mamma e figlio trovati morti in un laghetto a Rovigo, aperto un fascicolo per omicidio Al momento non ci sono indagati, potrebbe trattarsi semplicemente di un passaggio tecnico per procedere a tutti gli accertamenti necessari
+
+
+## 13. Montagna, sciatore italiano di 41 anni muore travolto da una valanga in Austria. Era impegnato in una discesa fuori pista
+
+> **Context:** L'incidente nella valle dello Zillertal: la vittima era impegnato in una discesa fuori pista con un compagno che è rimasto ferito a una mano
+
+- **Corriere Della Sera**: Montagna, sciatore italiano di 41 anni muore travolto da una valanga in Austria. Era impegnato in una discesa fuori pista L'incidente nella valle dello Zillertal: la vittima era impegnato in una discesa fuori pista con un compagno che è rimasto ferito a una mano
+- **La Stampa**: Sciatore italiano muore in Tirolo durante un fuoripista Il 41enne è rimasto sepolto sotto la neve per 30 minuti
+- **ANSA**: Sciatore italiano muore in Tirolo durante un fuoripista Il 41enne è rimasto sepolto sotto la neve per 30 minuti
+- **Fanpage.it**: Si stacca una valanga sulla montagna in Austria, muore sciatore italiano 41enne durante la discesa fuoripista Uno sciatore italiano di 41 anni è morto travolto da una valanga mentre effettuava un fuoripista sulla vetta dell'Hoher Marchkopf a Hochfuegen, nella Zillertal, valle del Tirolo austriaco. A chiamare i soccorsi è stato l'amico 36enne.Continua a leggere
+- **Il Messaggero**: Federico Giubilato, chi era lo sciatore travolto da una valanga durante un fuoripista con un amico: aveva 41 anni TIROLO (AUSTRIA) - Valanga travolge due sciatori: morto Federico Giubilato, 41enne di Bassano del Grappa. La slavina si è staccata nella valle austriaca...
+- **Il Fatto Quotidiano**: Travolto da una valanga, italiano muore in Austria. Un 25enne perde la vita sulle Prealpi Orobie Era sul Marchkopf, in Austria, per una escursione in montagna con gli amici. Un’improvvisa valanga larga 250 metri lo ha seppellito sotto 1,60 metri di neve e per lui non c’è stato nulla da fare. Federico Giubilato, 41enne di Bassano del Grappa, nel Vicentino, doveva compiere 42 anni lunedì 30 marzo, ma nel pomeriggio di […] L'articolo Travolto da una valanga, italiano muore in Austria. Un 25enne perde la vita sulle Prealpi Orobie proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Sciatore travolto da una valanga in Austria durante fuoripista, la vittima è il 41enne Federico Giubilato Lo sciatore Federico Giubilato, 41enne vicentino, è stato travolto e ucciso da una valanga sulle Alpi austriache mentre faceva un fuoripista. Per lui non c'è stato nulla da fare: è rimasto sepolto per 30 minuti sotto 1.60 metri di neve.
+
+
+## 14. I misteri dell’indagine su Silvia Salis: la segnalazione tedesca, il “controllo discreto”, il Viminale all’oscuro
+
+> **Context:** Polemiche dell’opposizione per i controlli sull’europarlamentare, a Roma per la manifestazione No Kings. Cosa è successo
+
+- **La Repubblica**: I misteri dell’indagine su Silvia Salis: la segnalazione tedesca, il “controllo discreto”, il Viminale all’oscuro Polemiche dell’opposizione per i controlli sull’europarlamentare, a Roma per la manifestazione No Kings. Cosa è successo
+- **ANSA**: Controllo di polizia per Salis: "Perquisita in hotel. Siamo in un regime". A Roma il corteo No Kings La questura di Roma spiega che si è trattato di una verifica Schengen su richiesta della Germania. Bonelli e Fratoianni (Avs): 'Lesa la sua l'immunità. Piantedosi riferisca. Tajani convochi l'ambasciatore'
+- **Il Manifesto**: Identificata in hotel Ilaria Salis. La segnalazione dal Viminale «Un atto dovuto». Così la questura di Roma ha spiegato la visita della polizia fatta ieri mattina alle 7 nella camera di albergo in cui alloggiava l’europarlamentare Ilaria Salis da […] The post Identificata in hotel Ilaria Salis. La segnalazione dal Viminale first appeared on il manifesto.
+- **Il Messaggero**: Ilaria Salis, il mistero delle date: l'alert tedesco un mese fa (ma non sono scattati i controlli) La polemica esplode poco dopo le 8 di ieri mattina, quando Ilaria Salis, eurodeputata di Avs, arrestata a Budapest nel 2023 con l'accusa di aver aggredito tre militanti neonazisti e poi eletta...
+- **Fanpage.it**: Cosa non torna nella storia del controllo ‘preventivo’ di polizia contro Ilaria Salis Il caso del controllo subito ieri mattina da Ilaria Salis nella sua camera d'albergo, poche ore prima del corteo No Kings a Roma, solleva parecchi dubbi. La gestione dell'ispezione da parte della polizia e i motivi di un'operazione inusuale condotto contro un'europarlamentare alimentano le polemiche.Continua a leggere
+
+
+## 15. Verstappen spiazza tutti: potrei lasciare la F1
+
+> **Context:** L’olandese, deluso dalle nuove regole e dalla sua Red Bull, medita il ritiro a fine stagione
+
+- **Fanpage.it**: Max Verstappen minaccia il ritiro dalla Formula 1 a fine stagione: “Ci penserò nelle prossime settimane” Max Verstappen apre all’addio alla Formula 1 dopo il GP del Giappone 2026: la crisi Red Bull e il nuovo regolamento spingono l’olandese a riflettere sul futuro.Continua a leggere
+- **La Repubblica**: Clamoroso Verstappen, pensa al ritiro: “Non mi diverto più, meglio stare con famiglia e amici” Dichiarazioni forti dell’olandese, 4 volte campione del mondo, dopo la gara di Suzuka conclusa con un anonimo ottavo posto
+- **La Stampa**: Verstappen spiazza tutti: potrei lasciare la F1 L’olandese, deluso dalle nuove regole e dalla sua Red Bull, medita il ritiro a fine stagione
+- **Corriere Della Sera**: Verstappen choc dopo il Gp di Suzuka: «Valuto il ritiro, questa Formula 1 non è divertente: è l'opposto della guida» Il campione olandese della Red Bull ha totalizzato solo 12 punti in tre gare: «Non so se ne vale la pena, ci sono altre cose che mi appassionano»
+- **Il Fatto Quotidiano**: “Sto pensando al ritiro, non mi diverto più. Non mi piace questa Formula 1”: lo sfogo di Verstappen Max Verstappen potrebbe lasciar la Formula 1 alla fine di questa stagione, con due anni di anticipo rispetto alla scadenza del suo contratto con la Red Bull, previsto per il 2028. Tra i motivi principali ci sarebbe il nuovo regolamento, da cui Verstappen si è ampiamento dissociato nel corso di questi mesi. Verstappen non lo […] L'articolo “Sto pensando al ritiro, non mi diverto più. Non mi piace questa Formula 1”: lo sfogo di Verstappen proviene da Il Fatto Quotidiano.
+
+
+## 16. Martin beffa Bagnaia all’ultimo giro e torna a vincere, la Sprint di Austin è sua. Bezzecchi out
+
+> **Context:** Terzo Acosta. Errore di Marc Marquez che fa uscire dalla gara anche Di Giannantonio
+
+- **La Repubblica**: Martin vince la sprint e scivola festeggiando. Marquez penalizzato per aver centrato Di Giannantonio Spagnoli protagonisti nel gran premio delle Americhe
+- **La Stampa**: Martin beffa Bagnaia all’ultimo giro e torna a vincere, la Sprint di Austin è sua. Bezzecchi out Terzo Acosta. Errore di Marc Marquez che fa uscire dalla gara anche Di Giannantonio
+- **Fanpage.it**: Martin fa il fenomeno in pista ad Austin poi impenna per festeggiare la vittoria e cade: cos’è successo Jorge Martin si è imposto in Sprint ad Austin infilando all'ultimo Pecco Bagnaia. Nel festeggiare la vittoria che coincide anche con il ritrovato 1° posto in generale, lo spagnolo ha però rischiato grossissimo: impennando, ha perso il controllo della sua Aprilia finendo a ruzzoloni sull'asfalto.Continua a leggere
+- **Fanpage.it**: Jorge Martin vince la Sprint Race del GP USA e beffa Bagnaia: si fa superare all’ultimo giro Banaia si fa soffiare il primo posto nella Sprint Race di Austin all'ultimo respiro: Martin lo supera e si prende la vittoria. Marc Marquez e Bezzecchi cadono e si ritirano.Continua a leggere
+- **Il Messaggero**: Austin, Martin con Aprilia torna a vincere nella Sprint davanti ad un ritrovato Bagnaia su Ducati Jorge Martin con l’Aprilia vince la Sprint del GP degli Stati Uniti davanti a Bagnaia con la Ducati ed Acosta sulla Ktm e si prende la leadership del Mondiale. Quando si è spento il...
+- **Il Fatto Quotidiano**: MotoGp, Martin vince la sprint ad Austin: “Sono tornato”. Beffa per Bagnaia, out Bezzecchi | L’ordine d’arrivo e la classifica Jorge Martin torna a vincere. Lo fa con la sua Aprilia in una gara che era stata dominata da Pecco Bagnaia, ma che ha ceduto velocità nell’ultimo giro con lo spagnolo che lo ha passato e poi ha tenuto il mezzo giro finale nella Sprint del Gp degli Usa di MotoGp sul circuito di Austin. […] L'articolo MotoGp, Martin vince la sprint ad Austin: “Sono tornato”. Beffa per Bagnaia, out Bezzecchi | L’ordine d’arrivo e la classifica proviene da Il Fatto Quotidiano.
+
+
+## 17. Sinner-Lehecka, finale a Miami in diretta | Jannik a caccia del secondo titolo in Florida
+
+> **Context:** Il numero 2 del mondo è a un passo dal Sunshine Double dopo il successo a Indian Wells
+
+- **Corriere Della Sera**: Sinner-Lehecka, la finale a Miami: orario e dove vedere in tv. Jannik può avvicinarsi ad Alcaraz 
+- **La Repubblica**: Sinner vuole la doppietta americana e si prepara giocando a golf con Greg Norman Dopo Indian Wells, oggi il numero 1 del mondo affronta Lehecka in finale a Miami
+- **Fanpage.it**: Sinner-Lehecka oggi in finale al Miami Open 2026, a che ora si gioca e dove vederla in TV Jannik Sinner sfida il ceco Jiri Lehecka nella finale del Masters 1000 di Miami. Si gioca alle ore 21, i precedenti tra i due tennisti e perché la partita non sarà trasmessa in diretta TV in chiaro, ma solo su Sky e NOW.Continua a leggere
+- **Il Giornale**: Sinner ingiocabile si prepara il cocktail Sunshine double Si chiama così l'accoppiata Indian Wells-Miami. Il salto di qualità di Jannik è realtà
+- **Corriere Della Sera**: Sinner va sempre più a rete: litiga con i 25 secondi, ha bisogno di una nuova routine tra un punto e l'altro | Dove vedere la finale A Miami il numero 2 del mondo si sta spesso affidando alle volée, ma così facendo ha bisogno di più tempo tra un punto e l'altro e si è lamentato con l'arbitro. Stasera la sfida con Lehecka
+- **Fanpage.it**: Sinner numero 1 al mondo nel ranking ATP al posto di Alcaraz: cosa serve tra Miami e Monte Carlo Sinner conquista la finale del Miami Open contro Lehecka e riduce drasticamente il gap dallo spagnolo nel ranking ATP. I calcoli e gli scenari punti alla mano: con una vittoria in Florida, il clamoroso sorpasso al numero uno a Monte Carlo diventa possibile.Continua a leggere
+- **ANSA**: Sinner si allena con Paolini, rischio pioggia stasera per la finale a Miami L'azzurra, sparring d'eccezione, in campo con Errani nella finale di doppio in programma alle 18.30
+- **Fanpage.it**: Forte rischio pioggia a Miami: cosa succede se la finale di Sinner con Lehecka viene rinviata La finale tra Sinner e Lehecka è in programma alle ore 21 di oggi al Miami Open. Ma a Miami incombe la pioggia, che potrebbe complicare i piani di Jannik e del suo avversario, alla prima finale importante della carriera.Continua a leggere
+- **Corriere Della Sera**: Il tennis azzurro la fa da padrone a Miami, anche Errani e Paolini in finale nel doppio donne. Dove vederla La coppia azzurra se la vedrà contro il duo Siniakova-Townsend, la speranza è quella di replicare il successo di Bolelli e Vavassori
+- **Fanpage.it**: Sinner-Lehecka in diretta LIVE, in campo dalle 21 al Miami Open: incognita pioggia sulla finale Sinner sfida Lehecka nel match della finale di Miami Open 2026. Jannik, numero due al mondo, può ambire al trofeo del secondo Master 1000 americano riuscendo così a completare il Sunshine Double. Oggi sul campo Centrale sfiderà Lehecka, numero 22 nel ranking ATP. Per Sinner sarebbe il secondo trofeo a Miami (dove ha vinto anche nel 2024) e il 26° della sua carriera.Continua a leggere
+- **Fanpage.it**: Quanto guadagna se Sinner se vince il Miami Open 2026: montepremi e prize money Il montepremi del Miami Open 2026. Se Jannik Sinner vincerà il torneo di Miami intascherà oltre un milione di euro e soprattutto mille preziosissimi punti per la classifica ATP.Continua a leggere
+- **ANSA**: A Miami c'è la finale di Errani-Paolini, alle 22 Sinner contro Lehečka per il titolo Sfideranno la ceca Katerina Siniakova e la statunitense Taylor Townsend
+- **Fanpage.it**: L’albo d’oro del Miami Open: Agassi e Djokovic hanno il record di vittorie, Sinner a caccia del bis Andre Agassi e Novak Djokovic detengono il record di successi al Miami Open. Jannik Sinner è stato il primo italiano a vincere Miami ed ha la chance di fare il bis.Continua a leggere
+- **Corriere Della Sera**: Sinner-Lehecka, finale a Miami in diretta | Jannik a caccia del secondo titolo in Florida Il numero 2 del mondo è a un passo dal Sunshine Double dopo il successo a Indian Wells
+
+
+## 18. Il primo sondaggio dopo il referendum: FdI è in calo, crescono Pd, M5S e Forza Italia. E senza Vannacci il Campo largo è in vantaggio
+
+> **Context:** La simulazione sulla Camera all'indomani del referendum: centrodestra vincente se c’è anche Vannacci
+
+- **Corriere Della Sera**: Il primo sondaggio dopo il referendum: FdI è in calo, crescono Pd, M5S e Forza Italia. E senza Vannacci il Campo largo è in vantaggio La simulazione sulla Camera all'indomani del referendum: centrodestra vincente se c’è anche Vannacci
+- **La Stampa**: Scossa referendum: giù FdI, su M5S. Ma il sorpasso del campo largo non c’è Le intenzioni di voto in vista delle Politiche 2027. La vera partita si gioca sula legge elettorale
+- **Il Fatto Quotidiano**: Elezioni anticipate? Il centrodestra vincerebbe solo con Vannacci. I sondaggi puniscono Meloni, che studia il rimpasto L’atmosfera che si respira nei corridoi di Palazzo Chigi assomiglia sempre più a un complicato esercizio di resistenza dopo il brusco risveglio della batosta referendaria. Il primo sondaggio post voto di Nando Pagnoncelli pubblicato dal Corriere della Sera conferma la situazione di estrema fragilità per la maggioranza, con Fratelli d’Italia che scende al 26,7 per […] L'articolo Elezioni anticipate? Il centrodestra vincerebbe solo con Vannacci. I sondaggi puniscono Meloni, che studia il rimpasto proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Sondaggi politici, Fratelli d’Italia crolla, salgono Pd e M5s: la rilevazione dopo la crisi nel governo FdI crolla ai minimi. Balzo in avanti del Pd. Salgono anche M5s e FI. Stabile la Lega. È l'effetto referendum che ha colpito la premier dopo dopo la sconfitta alle urne e le dimissioni di Santanchè, Delmastro e Bartolozzi. Ecco l'ultimo sondaggio di Nando Pagnoncelli.Continua a leggere
+
+
+## 19. Tango guiderà l'Anm: 'Ora dialogo con la politica e nuove soluzioni'
+
+> **Context:** Eletto magistrato millennial di 'Mi': 'serve rinnovamento'. Nordio: 'troveremo concordia'
+
+- **Corriere Della Sera**: Giuseppe Tango è il nuovo presidente dell'Anm. Succede a Parodi che si era dimesso per «motivi personali» È stato votato «per acclamazione» dopo il passo indietro avvenuto prima dell'esito del voto al referendum
+- **ANSA**: Tango guiderà l'Anm: 'Ora dialogo con la politica e nuove soluzioni' Eletto magistrato millennial di 'Mi': 'serve rinnovamento'. Nordio: 'troveremo concordia'
+- **Adkronos**: Anm, neopresidente Tango apre al dialogo. Nordio: "Troveremo elementi di concordia" Quarantatré anni, palermitano, giudice del lavoro, Tango raccoglie il testimone di Cesare Parodi.- Il Guardasigilli gli ha augurato “buon lavoro e un fruttuoso rapporto con noi"
+- **Il Giornale**: L'Anm elegge il duro Tango. "Fiducia della società civile" Aveva parlato di rischio di "deriva autoritaria" col Sì. Ma ora smorza i toni: "Non siamo un partito politico"
+
+
+## 20. Tregua dal maltempo ma dura poco, in arrivo nuova ondata di freddo e pioggia
+
+> **Context:** Possibili fenomeni meteo estremi ma per Pasqua arrivano buone notizie
+
+- **Adkronos**: Tregua dal maltempo ma dura poco, in arrivo nuova ondata di freddo e pioggia Possibili fenomeni meteo estremi ma per Pasqua arrivano buone notizie
+- **Il Messaggero**: Previsioni meteo Pasqua e Pasquetta 2026, arriva il ciclone freddo: i due scenari possibili Previsioni meteo per Pasqua e Pasquetta 2026. La Settimana Santa si preannuncia ancora movimentata, almeno nella sua prima parte, e con temperature spesso sotto media. L'alta pressione...
+- **ANSA**: Breve schiarita, poi ancora pioggia e vento Forte peggioramento atteso fra il primo e il 2 aprile
+- **Il Giornale**: Tempesta sull'Italia, raffiche a 90km all’ora e neve a bassa quota: che tempo ci sarà a Pasqua Ci aspettano due-tre giorni di severo maltempo con venti da burrasca su gran parte delle nostre regioni: quali saranno le più colpite
+
+
+
+</clustered_headlines>
+
+
+<other_headlines>
+<article source="AGI" date="Sun, 29 Mar 2026 17:03:31 GMT">
+Furti d'arte, i 'colpi grossi' più famosi in Italia
+Fa sempre notizia il furto di un'opera d'arte. Anche se in Italia, ahimè, è abbastanza frequente. Il Belpaese è al primo posto di questo tipo di trafugamenti anche per l'immenso patrimonio artistico che possediamo. Secondo gli studi più recenti, circa 600 reperti prezioni vengono rubati all'anno, ossia ben due al giorno. L'ultimo furto riguarda quello scoperto oggi: i dipinti di Renoir, Cezanne e Matisse -'Les Poissons', 'Natura morta con ciliegie' e 'Odalisca sulla terrazza' - sono stati sottratti alla fondazione Magnani Rocca di Parma da una banda di ladri che è riuscita a introdursi all'interno della villa a Mamiano di Traversetolo. Anche se il valore non è stato stimato esattamente, si tratta sicuramente di un colpo da milioni di euro. Purtroppo le opere dei tre impressionisti sono solo le ultime della lista. La "Natività" di Caravaggio Tra i furti più famosi in Italia, c'è La "Nativita'" di Caravaggio di cui non si hanno più notizie da quasi 60 anni. Nell'autunno del 1969, a Palermo, un gruppo di uomini sospetti irruppe nell'oratorio di San Lorenzo, arrotolò la tela e poi si dileguò. Sembra che il furto del dipinto, valutato attorno a 20 milioni di dollari, sia stato commissionato dalla mafia, ma non vi sono prove certe. Ci sono moltissime leggende attorno alla sua sorte: c'è chi dice che addirittura Riina la conservasse come scendiletto, chi afferma che invece giaccia nascosta insieme ad altri beni della mafia, sotterrata in qualche landa sperduta, o anche chi sostiene che venne nascosta in una stalla e quindi rosicchiata dai topi o che sia stata trafugata in Svizzera per essere venduta a collezionisti spregiudicati. La tela di "Ecce homo" Altra opera scomparsa è la tela di "Ecce homo", di Antonello da Messina, rubata dal Museo Broletto di Novara nel 1974, e la "Madonna con Bambino" di Giovanni Bellini rubata dalla chiesa veneziana della Madonna dell'Orto 33 anni fa. Sempre a Venezia, nello stesso anno cioè nel 1993, venne portata via una tela del Tiepolo dalle pareti della chiesa di Santa Maria della Fava mentre dall'abitazione dell'industriale Alberto Falk, cinque anni dopo, scomparve una tela di Canaletto. Sempre negli anni 90, dalla Galleria d'arte Ricci Oddi di Piacenza venne rubato il "Ritratto di signora", di Gustav Klimt ma più ritrovato, e la sua sorte è diventata perfino oggetto di leggende. Fece poi scalpore il furto al Palazzo Ducale di Urbino, nel 1975 I ladri approfittarono delle impalcature e della mancanza di un sistema di allarme per portare via La Muta di Raffaello, La Madonna di Senigallia e La Flagellazione di Piero della Francesca. La vicenda è stata degna di essere il 'plot' di un film per come si è svolta: si scoprì che il colpo era stato ad opera di un falegname di Pesaro, non di una banda di professionisti come sembrava in un primo momento. Lui venne fermato ma le opere erano in mano ai suoi complici. I malviventi caddero poi nella trappola dei carabinieri e i dipinti tornarono al loro posto, accolti al Palazzo Ducale da una folla festante. Tra i casi a lieto fine, c'è quello più famoso e che riguarda il quadro più celebrato del mondo, la Gioconda. Vero che successe a Parigi ma l''autore del furto e il quadro erano italiani. Nel 1911 un giovane imbianchino italiano Vincenzo Peruggia, che aveva lavorato al Louvre rubò il capolavoro di Leonardo dalle sale del Museo. Si chiuse in uno sgabuzzino e poi ne uscì, s'approprio' del dipinto, lo nascose nel cappotto e se ne andò indisturbato. Lo staff del Museo si accorse della scomparsa della Monna Lisa solo la mattina seguente. Scattarono le indagini: Peruggia fu scoperto e l'opera recuperata, ma prima che tornasse al proprio posto passarono due anni.
+</article>
+<article source="AGI" date="Sun, 29 Mar 2026 10:40:08 GMT">
+Alessio, il santo dei barboni
+È il santo dei barboni. Alessio per 17 anni ha dormito nel sottoscala. Voleva scomparire da questo mondo per trovare Dio nell’altro. E alla fine il mendicante - nato a Roma nel IV secolo d.C. - pare ci sia riuscito. È salito agli onori degli altari a furor di popolo, è stato proclamato dalla Chiesa protettore degli accattoni (festa il 17 luglio) e nel 1217 papa Onorio III gli ha dedicato una basilica costruita nel quartiere Aventino a Roma, che porta il suo nome e quello del martire Bonifacio. Il santo sembra un vagabondo dei giorni nostri. Non di quelli che con una mano implorano e con l’altra magari versano soldi sul proprio conto corrente milionario (è successo). Ma di chi preferisce starsene ai margini, rannicchiato sul marciapiede sotto cumuli di coperte perché sgomitare in mezzo alla vita lo disumanizza più della povertà. Le leggende e le contraddizioni Va subito detto che sul personaggio di leggende ne fioccano diverse. Ne esistono almeno tre: siriaca, greca e latina. C’è un filo rosso però che le unisce tutte: la trama generale della storia. Punto primo, Alessio avrebbe vissuto sempre nella contraddizione apparente, nel paradosso. Proveniva da una famiglia ricca e famosa (il padre era un senatore dell’impero), eppure ha scelto di essere anonimo e malmesso. Possedeva molto ma si è fatto bastare poco: l’abito vecchio, lo spicciolo nella tasca degli altri, un minimo di carità. Chiedeva l’elemosina e poi dava tutto ai miserabili. La grande fuga e il prodigio Secondo, la grande fuga. La tradizione latina racconta che il giorno del suo matrimonio (o della sua prima notte di nozze) il giovane non ce l’ha fatta ad accontentare sposa e genitori. Scappa. Arriva fino a Edessa – Siria settentrionale, oggi Turchia - dove trascorre diciassette anni da accattone davanti a una chiesa. Fino al giorno del prodigio, quando la Madonna ritratta in un quadro avrebbe parlato al custode dell’edificio dicendogli di ospitare quell’uomo di Dio. Il ritorno a Roma e il non riconoscimento Quindi in giro si comincia a parlare di Alessio il Pio. Però lui non vuole: ha scelto di essere niente e non qualcuno. Così scappa di nuovo. E qui comincia il terzo tempo del film sul santo. Per le strane rotte del destino – si dirà della Provvidenza – il mendicante si ritrova a Roma. E a quale porta va a bussare per chiedere ospitalità? A quella di casa sua. I genitori però non lo riconoscono. Negli anni passati lo hanno fatto cercare ovunque dai loro servi: in città, in Italia, all’estero, fino a Edessa (casualità della leggenda). E ora che lo hanno davanti agli occhi non si accorgono di lui. Un altro paradosso. Il padre non lo caccia, gli offre il sottoscala dove il santo dormirà ogni notte per diciassette anni. La morte e il rotolo L’ultimo fotogramma parla di un Alessio stanco, consapevole di essere arrivato al termine della sua vita. E con le forze che gli sono rimaste decide di scriverla. Ci riesce. Poi si abbandonerà alla morte (intorno al 412). Il resto è abbellito dalla meraviglia. L’agiografia dice che sono state le campane di Roma che improvvisamente si sono messe a suonare avvisando della sua dipartita. Nel sottoscala si fiondano tutti, persino il pontefice (qualche fonte parla anche dell’imperatore). Sarà lui a sfilare il rotolo dalla mano di Alessio e a leggere l’odissea. Il monumento e il paradosso finale Oggi la storia del venerabile è simboleggiata nel monumento marmoreo del XVIII secolo conservato nella basilica che porta il suo nome (assieme a quello di Bonifacio). Si tratta di un’opera policroma firmata dall’artista berniniano Andrea Bergondi. La scultura immobilizza l’istante tra la vita e la morte: in alto i gradini (conservato anche un frammento dell’antica struttura lignea), sotto il santo disteso e ai lati, a mezz’aria, due angeli che lo assistono nel momento del trapasso. Nella Capitale la chiesa è un luogo ricercato per celebrare il proprio matrimonio, proprio il giuramento che Alessio non ha voluto pronunciare per scegliere di promettere fedeltà a un Altro. Ancora un paradosso.
+</article>
+<article source="AGI" date="Sat, 28 Mar 2026 22:58:49 GMT">
+A Roma il corteo 'No Kings' contro Trump. Gli organizzatori: "Siamo 300mila"
+Nel pieno della guerra all'Iran riparte la mobilitazione dei 'No Kings' contro Donald Trump. Negli Usa sono 3.100 manifestazioni negli Stati Uniti a cui se ne aggiungeranno altre in tutto il mondo. Gli organizzatori prevedono partecipazioni record in una fase di malcontento nel Paese per il conflitto mediorientale e le sue ricadute economiche. Tra le città interessate alla mobilitazione, c'è anche Roma dove alle 14 è partito un corteo di No Kings Italia che da piazza della Repubblica raggiungerà Piazza San Giovanni. Alla manifestazione, organizzata nell'ambito della mobilitazione globale del weekend "Together. Contro i Re e le loro guerre", l'attenzione è massima per il timore di incidenti. Dal carro di testa gli organizzatori rivendicano i numeri della mobilitazione: "Siamo 300mila". Malgrado non ci siano dati ufficiali, fonti della questura indicano numeri molto diversi: per la polizia i partecipanti sono all'incirca 25mila. Corteo ad alta tensione e il 'caso' Salis' Oltre un migliaio di agenti impegnati a controllare un corteo che si annuncia ad alta tensione. Una situazione che si è surriscaldata già di prima mattina quando l'eurodeputata di AVS Ilaria Salis è stata sottoposta a un controllo preventivo della Polizia di Stato effettuato all'alba. Ilaria Salis è stata raggiunta dagli agenti nella sua stanza d'albergo a poche ore dalla manifestazione prevista in Piazza della Repubblica. La Questura di Roma ha precisato che l'attività è scaturita "da una segnalazione proveniente da un paese terzo del panorama europeo, che non consente margine di discrezionalità negli adempimenti richiesti alle autorità italiane". Secondo questa ricostruzione, il controllo rappresenterebbe dunque un atto dovuto a seguito di protocolli di cooperazione internazionale. Difficile però che i manifestanti non associno questo controllo preventivo alla manifestazione in programma. Il controllo all'eurodeputata sarebbe partito da una segnalazione della Germania. L'alert, secondo quanto apprende l'AGI, è scattato nell'ambito del sistema di segnalazioni Schengen. LA DIRETTA DAL CORTEO 'NO KINGS' DI ROMA 17.45 CORTEO 'NO KINGS' ARRIVATO SULLA TANGENZIALE La testa del corteo 'No Kings' è arrivata sulla tangenziale ed è a poche centinaia di metri da piazzale del Verano. I manifestanti continuano a scandire cori contro il governo e, insieme alle donne, gridano "siamo tutti antifasciste". 7.31 QUESTURA: NESSUN NUMERO UFFICIALE DI PARTECIPANTI Con riferimento alle notizie raccolte dalle agenzie uscite, la questura di Roma precisa di "non aver fornito alcun numero circa i partecipanti al corteo". 16.44 'FONTI' DELLA QUESTURA: IN CORTEO CIRCA 25MILA PARTECIPANTI Fonti della questura indicano che la coda del corteo si trova a Piazza dell'Esquilino e che i partecipanti sono all'incirca 25mila, numeri lontani da quelli dichiarati dagli organizzatori. 16.31 ORGANIZZATORI: SIAMO 300MILA, AVANTI FINO AL VERANO Il corteo No Kings Italia ha raggiunto Piazza San Giovanni, a Roma, e proseguirà proprio per la grande partecipazione, come confermato dalla questura, fino a piazzale del Verano. Migliaia di partecipanti stanno continuando a sfilare lungo il percorso partito da piazza della Repubblica, con striscioni, cartelli e bandiere. Dal carro di testa gli organizzatori rivendicano i numeri della mobilitazione: "Siamo 300mila". In piazza e lungo il corteo sventolano numerose bandiere della Palestina, dell'Iran, di Cuba e del Venezuela, insieme a quelle della pace. 16.26 PARTECIPAZIONE SUPERIORE ALLE PREVISIONi, IL CORTEO PROSEGUE Considerata "la partecipazione superiore a quella preavvisata", i promotori hanno formalmente presentato un preavviso al questore chiedendo di proseguire fino a piazza del Verano. "Preso atto formalmente" della richiesta, la questura ha autorizzato la prosecuzione del corteo secondo il seguente itinerario: via Carlo Felice, Porta Maggiore, Via dello Scalo San Lorenzo, tangenziale est fino all'intersezione con Via Tiburtina, Via Tiburtina, Piazzale del Verano. La sala operativa della Questura sta procedendo a "rimodulare i servizi per garantire la sicurezza dell'iniziativa fino alla nuova destinazione". 15.55 FOTO CON MELONI, LA RUSSA E NORDIO A TESTA IN GIÙ Tre foto raffiguranti la presidente del Consiglio Giorgia Meloni, il presidente del Senato Ignazio La Russa e il ministro della Giustizia Carlo Nordio sono state mostrate capovolte, con accanto una ghigliottina di cartapesta da tre giovani presenti al corteo nella Capitale. La scena si è registrata nei pressi della basilica di Santa Maria Maggiore. Poco distante, al centro del corteo, altri partecipanti hanno esibito anche carte da poker con la figura di un re incappucciato accompagnata dalla scritta 'Trump boia'. 15.35 - CORTEO GIUNTO ALL'ESQUILINO, CORI CONTRO MELONI Decine di migliaia i presenti in piazza per il corteo 'No Kings' a Roma. La testa del corteo è arrivata in Piazza dell'Esquilino dopo aver percorso via Cavour mentre la coda si trova ancora in Piazza della Repubblica. Cori contro la premier Giorgia Meloni, ma anche striscioni contro Donald Trump. Srotolata una bandiera gigante della Palestina, tantissime le bandiere della pace. 14.40 - LANDINI: "È LA PIAZZA DEL NO AL REFERENDUM" "Questa è la piazza del no al referendum, è la piazza contro il governo. Questa e' una piazza innanzitutto contro la guerra, contro la logica e la cultura della guerra, perché tutti i nostri problemi oggi vengono da lì". Così il segretario generale della Cgil, Maurizio Landini, dalla testa del corteo No Kings a Roma, in piazza della Repubblica. "Vengono da lì i problemi che poi si chiamano salario, vengono da lì i problemi che si chiamano rischio della democrazia, logiche autoritarie che rischiano di venire avanti e quindi credo che questa sia una grande domanda di pace. Grande domanda di rimettere al centro i bisogni delle persone e di fermare questa cultura pericolosa, autoritaria", ha aggiunto. 14.01 - UN MISSILE SFILA IN CORTEO Già molti partecipanti in piazza della Repubblica, a Roma, da dove partirà il corteo No Kings Italia, manifestazione internazionale "contro i re e le loro guerre", diretta a Piazza San Giovanni. Davanti alla basilica di Santa Maria degli Angeli il maestro Mario del doposcuola Mammut sta ultimando un missile di legno che sfilerà insieme ai partecipanti in arrivo da tutta Italia. Sulla punta ha posizionato alcuni fiori e la bandiera della pace, mentre tutt'intorno ha incollato immagini delle guerre in Medio Oriente. In piazza sventolano numerose bandiere della Palestina, dell'Iran, di Cuba e del Venezuela, insieme a quelle della pace e alle tante bandiere della Cgil. Presenti anche i vessilli di Avs e di diverse associazioni, tra cui Amnesty International.
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 20:45:58 +0200">
+ASviS e CNBF, 'Piani della Natura e rigenerazione urbana'
+Secondo appuntamento per approfondire con esperti e stakeholder il rapporto tra natura e rigenerazione urbana in ottica di politiche pubbliche e scelte imprenditoriali
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 20:25:50 +0200">
+Non è mai troppo presto! Educare al digitale dalla culla all’età adulta
+In streaming dalle 17.30
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 20:19:08 +0200">
+Meloni: 'Il decreto sicurezza funziona, lo conferma il fermo dei 91 anarchici'
+La premier: "Non limita la libertà di manifestare, ma tutela chi lo fa civilmente"
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 19:51:44 +0200">
+Addio a David Riondino, il poeta della satira
+Aveva 73 anni, martedì i funerali a Roma. Cantautore, attore, scrittore, regista, dal Collettivo Victor Jara al Costanzo Show
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 19:27:50 +0200">
+Colpo milionario, rubati un Renoir un Cézanne e un Matisse
+Il maxifurto in tre minuti alla Magnani Rocca, che ospita capolavori da tutto il mondo
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 19:21:27 +0200">
+Porsche fuori controllo in centro a Milano, muore un 21enne
+Ferite anche due ragazze, la macchina presa a noleggio finita contro 4 auto
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 19:10:37 +0200">
+Poco rappresentati e 'social first', il rapporto tra giovani e notizie
+L'analisi del Reuters Institute: ""Stravolto in 10 anni, si informano da TikTok, Instagram e YouTube"
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 18:58:31 +0200">
+L'appello del Papa: 'Vicini ai cristiani in Medio Oriente'
+Leone all'Angelus: 'Soffrono un conflitto atroce e non possono celebrare i riti'
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 18:55:29 +0200">
+Valditara incontra la docente aggredita: 'Mi mancano i miei alunni'
+A Bergamo, la professoressa a colloquio con il ministro per quasi un'ora
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 18:54:04 +0200">
+La battaglia delle torri, anche Tim dice addio a Inwit
+La disdetta dopo quella di Fasweb+Vodafone. 'Inefficace e strumentale'
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 18:52:17 +0200">
+Sepolto nella neve per 30 minuti, muore uno sciatore italiano
+Investito da una slavina larga circa 250 metri sul Marchkopf, in Tirolo
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 17:59:01 +0200">
+Luna, gli astronauti di Artemis II pronti a una missione 'epica'
+'Incredibile privilegio', dice la prima donna destinata a raggiungere l'orbita lunare
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 17:24:38 +0200">
+Salvato dalle bombe da un soldato, il dipinto torna a 'casa'
+Recuperato da un canadese durante la guerra, donato a Ortona dopo 80 anni
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 14:41:51 +0200">
+Brignone e Goggia al Tonale nel ricordo di Elena Fanchini
+Anche Pirovano e Compagnoni a evento con oltre 600 appassionati
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 14:40:23 +0200">
+A Sestriere una scultura celebra la centesima vittoria di Shiffrin
+Nella Coppa del mondo del 2025. L'opera è di Maurizo Perron
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 14:23:52 +0200">
+Tour Eiffel, una passerella sospesa a 60 metri per i piu' coraggiosi
+La struttura, temporanea, sara' accessibile fino al 3 maggio
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 14:22:07 +0200">
+Earth Hour 2026, Torino spegne la Mole e il ponte della Gran Madre
+La citta' partecipa alla mobilitazione globale per la tutela dell'ambiente
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 08:26:59 +0200">
+Saturno, il ritratto più completo grazie ai telescopi Hubble e Webb
+I loro dati complementari permettono di studiare gli strati dell'atmosfera
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 19:22:13 +0200">
+Scatta il primo fermo preventivo ai cortei, a Roma misura per 91
+Manifestanti bloccati alla commemorazione degli anarchici morti. 'Trattenuti per ore'
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 07:15:06 +0200">
+È tornata l'ora legale, durerà fino al 25 ottobre
+Terna: 'Dal 2004 risparmiati 2,3 miliardi di euro'. Resterà in vigore fino al 25 ottobre
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 08:29:02 +0200">
+Lanciata la missione europea Celeste, per la navigazione satellitare del futuro VIDEO
+In orbita i primi due satelliti. Sarà complementare al sistema Galileo
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 12:07:53 +0200">
+Per Pasqua 9 milioni di italiani in viaggio nonostante la crisi internazionale
+Bocca: "In Italia ci si sente al sicuro, ma i conflitti danneggiano il turismo"
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 11:38:38 +0200">
+L'AI in guerra per distruggere, confondere, creare
+Nuovo approfondimento di Alessio Jacona
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 11:50:29 +0200">
+Meloni vede Salvini e Tajani. L'input ai ministri: 'Mettete le marce alte'
+Sale il gasolio, ipotesi di tagliare ancora le accise. Mattarella: 'Serve responsabilità'
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 11:37:30 +0200">
+Torre Eiffel, una passerella sospesa a 60 metri per i piu' coraggiosi
+La struttura, temporanea, sara' accessibile fino al 3 maggio
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 10:30:58 +0200">
+Giorgia: "Gli stadi? Mai avuto questa ambizione, sono più da club"
+"Momento di rinascita, credo di essere un caso abbastanza raro per la mia generazione"
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 12:29:49 +0200">
+Anarchici a Roma commemorano Ardizzone e Mercogliano
+Il presidio era stato vietato, ingente schieramento forze ordine. Deposti fiori rossi e neri
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 10:39:15 +0200">
+F1: Antonelli re anche in Giappone e vola in testa al Mondiale
+'E' Presto per pensarci', dice Kimi. Sul podio Piastri e un combattivo Leclerc
+</article>
+<article source="ANSA" date="Sat, 28 Mar 2026 20:59:56 +0100">
+La guerra piomba su conti e Pil, per Giorgetti: 'Possiamo assorbire shock'
+Il ministro sollecita una risposta dall'Ue. Moody's: 'L'Italia tiene ma ci sono rischi'
+</article>
+<article source="ANSA" date="Sun, 29 Mar 2026 08:31:50 +0200">
+Scoperto un giovanissimo sistema solare, è distante 400 anni luce
+Osservato dal telescopio Vlt in Cile
+</article>
+<article source="Adkronos" date="Sun, 29 Mar 2026 18:13:24 +0200">
+Evelina Sgarbi, l'appello ad Achille Lauro: "Vorrei conoscerlo". E la dedica a papà Vittorio
+La figlia del critico d'arte ospite oggi nel salotto di Silvia Toffanin
+</article>
+<article source="Adkronos" date="Sun, 29 Mar 2026 16:33:00 +0200">
+Selvaggia Lucarelli, matrimonio rimandato: "Non siamo riusciti a organizzare"
+L'opinionista del Grande Fratello Vip ospite oggi nel salotto di Silvia Toffanin
+</article>
+<article source="Adkronos" date="Sun, 29 Mar 2026 16:12:01 +0200">
+Serena Grandi, tensioni con Corinne Clery: "Accuse infondate". L'appello di Venier
+L'attrice ospite oggi nel salotto di Mara Venier al fianco del figlio Edoardo
+</article>
+<article source="Adkronos" date="Sun, 29 Mar 2026 13:16:05 +0200">
+Cacciari e le primarie del centrosinistra: "Non interessano a nessuno"
+"Non c'è nessuna unità su temi fiscali e politica estera, di che parla Schlein?"
+</article>
+<article source="Adkronos" date="Sun, 29 Mar 2026 12:49:00 +0200">
+Santo Sepolcro chiuso, stop a Pizzaballa. Netanyahu: "Motivi di sicurezza". Il cardinale: "Ci sono stati fraintendimenti"
+Avrebbe dovuto celebrare la messa nella Domenica delle Palme. La telefonata di Meloni per esprimere "vicinanza", Tajani convoca l'ambasciatore. Herzog: "Profondo dolore, ingresso negato per motivi sicurezza". La condanna di Macron: "Garantire la libertà di culto"
+</article>
+<article source="Adkronos" date="Sun, 29 Mar 2026 08:05:12 +0200">
+Ernia, il 'processo' show a Milano: il Duca è tornato a casa
+Tra ospiti, racconto personale e un Forum sold out
+</article>
+<article source="Adkronos" date="Sun, 29 Mar 2026 07:19:44 +0200">
+Verissimo, domenica 29 marzo: gli ospiti e le interviste di oggi
+L'appuntamento della domenica con Silvia Toffanin
+</article>
+<article source="Adkronos" date="Sun, 29 Mar 2026 07:16:23 +0200">
+Che tempo che fa oggi 29 marzo, gli ospiti di Fabio Fazio e le anticipazioni
+Tra gli ospiti Gianni Morandi, Federica Brignone e padre Gabriel Romanelli
+</article>
+<article source="Adkronos" date="Sun, 29 Mar 2026 07:15:38 +0200">
+Oggi è la Domenica delle palme, cosa si celebra e perché si usano i rami d'ulivo
+Simboli e tradizioni del giorno che segna l’inizio della celebrazione della Settimana Santa nella tradizione cristiana
+</article>
+<article source="Adkronos" date="Sun, 29 Mar 2026 00:04:53 +0100">
+Ora legale amica dei bambini, come sfruttare l'ora di luce in più
+Più giochi all'aria aperta, meno schermi e luci artificiali, e a tavola più cibi freschi e a chilometro zero, da consumare a 'fornelli spenti'
+</article>
+<article source="Adkronos" date="Sun, 29 Mar 2026 00:02:49 +0100">
+Covid, negli Usa avanza la variante Cicada: perché BA.3.2 preoccupa gli esperti
+Ha circolato inosservata da fine 2024 ma ora è in crescita, per via di numerose mutazioni può sfuggire alle difese immunitarie
+</article>
+<article source="Adkronos" date="Sat, 28 Mar 2026 21:16:10 +0100">
+SuperEnalotto, numeri combinazione vincente sabato 28 marzo
+Nessun '6' né '5+1', centrati sette '5' che vincono 29.773,88 euro ciascuno
+</article>
+<article source="Adkronos" date="Sat, 28 Mar 2026 21:09:19 +0100">
+Bambole di Pezza, condannato lo stalker di Morgana Blue: le inviava messaggi da oltre 20 anni
+L'uomo avrebbe molestato anche la musicista Micol Martinez e la madre di lei, Katia Zerbini
+</article>
+<article source="Il Post" date="Sun, 29 Mar 2026 07:06:34 GMT">
+Cos’è questo video che ha fatto litigare Italia e Bosnia Erzegovina nel calcio
+</article>
+<article source="Il Post" date="Sat, 28 Mar 2026 21:29:31 GMT">
+Confindustria ora è molto arrabbiata col governo
+</article>
+<article source="Il Post" date="Sun, 29 Mar 2026 07:02:16 GMT">
+Kimi Antonelli ha vinto anche in Giappone - ilpost.it
+</article>
+<article source="Il Post" date="Sat, 28 Mar 2026 22:47:49 GMT">
+Circa 1.200 persone uccise in Libano dall’inizio della guerra
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 29 Mar 2026 18:13:10 GMT">
+Consiglio Nazionale Giovani, presentato il portale per la previdenza complementare
+«In un mercato del lavoro caratterizzato da carriere discontinue e salari medi nel settore privato di circa 15.600 euro annui, la consapevolezza finanziaria è diventata un pilastro indispensabile per l’autonomia futura»
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 29 Mar 2026 13:37:00 GMT">
+Bernardo Rossi Doria, urbanista e difensore del patrimonio culturale e ambientale, è scomparso a 91 anni
+Figura di spicco nel panorama dell’urbanistica italiana e della difesa del patrimonio storico e ambientale, l’architetto e urbanista Bernardo Rossi Doria è morto all’età di 91 anni a Roma, dove...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 29 Mar 2026 12:44:00 GMT">
+Maxi furto d’arte nel Parmense: sottratte opere di Renoir, Cezanne e Matisse
+Les Poissons, olio su tela del valore di diversi milioni, è una delle rare opere di Renoir in una collezione permanente in Italia
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 29 Mar 2026 10:55:00 GMT">
+Manifestazione anarchica a Roma, 91 fermi preventivi. Meloni: decreto sicurezza funziona
+Erano arrivati per una manifestazione di commemorazione dei due militanti anarchici morti nell’esplosione del 19 marzo, vietata dalla Questura
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 29 Mar 2026 09:11:00 GMT">
+Addio a David Riondino, artista fiorentino tra musica, teatro e satira culturale
+È morto all’età di 73 anni il cantautore, attore, regista, scrittore David Riondino. Era nato a Firenze nel 1952. A darne l’annuncio su Facebook è l’amica Chiara Rapaccini, artista, illustratrice...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 29 Mar 2026 08:58:00 GMT">
+Non solo cioccolato, per Pasqua rincari anche su dolci e cibi tipici
+È quanto emerge dall’Osservatorio nazionale della Federconsumatori. Prezzi in crescita anche per carne e uova
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 29 Mar 2026 06:52:00 GMT">
+Bollette, proroga al 2038 per le centrali a carbone. Stop al telemarketing per chiamate non richieste
+Ok alle modifiche in commissione: il testo approda in Aula alla Camera da lunedì. Anche i condòmini ammessi alle Cer
+</article>
+</other_headlines>
