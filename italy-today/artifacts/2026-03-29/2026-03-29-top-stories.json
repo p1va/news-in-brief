@@ -1,6 +1,6 @@
 {
   "date": "2026-03-29",
-  "generated_at": "Sun 29 Mar 14:40",
+  "generated_at": "Sun 29 Mar 15:40",
   "stories": [
     {
       "rank": 1,
@@ -32,26 +32,26 @@
       "rank": 2,
       "title": "Israele vieta a Pizzaballa di entrare al Santo Sepolcro: \"Grave stop per la prima volta da secoli\". Meloni: \"Offesa ai credenti\"",
       "source_count": 11,
-      "article_count": 16,
+      "article_count": 19,
       "source_domains": [
         "ansa.it",
-        "ilfattoquotidiano.it",
         "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "repubblica.it",
         "corriere.it",
         "governo.it",
         "adnkronos.com",
         "fanpage.it",
-        "liberoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/03/29/pizzaballa-bloccato-allingresso-del-santo-sepolcro.-herzog-profondo-dolore-per_377245fb-fe6a-49ee-8fd2-e9cc7705a541.html",
+        "https://www.ilgiornale.it/news/guerra/israele-apre-piano-consentire-laccesso-santo-sepolcro-2644742.html",
         "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/03/29/israele-impedisce-al-cardinale-pizzaballa-di-entrare-al-santo-sepolcro.-lui-situazione-complicata_377245fb-fe6a-49ee-8fd2-e9cc7705a541.html",
         "https://www.ilfattoquotidiano.it/2026/03/29/israele-pizzaballa-messa-santo-sepolcro-reazioni-meloni-macron-tajani-convoca-ambasciatore-ultime-notizie/8339349/",
-        "https://www.ilgiornale.it/news/politica-internazionale/israele-vieta-pizzaballa-entrare-santo-sepolcro-grave-stop-2644720.html",
-        "https://www.repubblica.it/politica/2026/03/29/news/cardinale_pizzaballa_israele_meloni_tajani-425251668/",
-        "https://www.corriere.it/politica/26_marzo_29/meloni-il-divieto-a-pizzaballa-offende-la-liberta-religiosa-2bf5f4c9-e722-4904-81d5-6dd821753xlk.shtml"
+        "https://www.liberoquotidiano.it/news/politica/47041731/israele-esplode-caso-pizzaballa-tajani-convoca-ambasciatore-meloni-esprime-vicinanza-cardinale/"
       ]
     },
     {
@@ -82,32 +82,6 @@
     },
     {
       "rank": 4,
-      "title": "Eletto Giuseppe Tango, chi è il nuovo presidente dell’Anm",
-      "source_count": 11,
-      "article_count": 11,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "roma.corriere.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/politica/anm-neopresidente-tango-apre-al-dialogo-nordio-troveremo-elementi-di-concordia_6rSutZEmAgx6m7PEd5bpfi",
-        "https://www.ansa.it/sito/notizie/politica/2026/03/28/al-giudice-tango-la-presidenza-dellanm-_b1e38601-09b1-4b1c-a382-ecd16456c949.html",
-        "http://roma.corriere.it/notizie/cronaca/26_marzo_28/giuseppe-tango-nuovo-presidente-anm-4022e91a-26ef-4a10-8136-ce65ac872xlk.shtml",
-        "https://www.ilgiornale.it/news/magistratura/eletto-giuseppe-tango-chi-nuovo-presidente-dell-anm-2644495.html",
-        "https://www.liberoquotidiano.it/news/giustizia/47031638/giuseppe-tango-chi-e-successore-parodi-capo-anm/"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Cena a tre con Meloni, Tajani e Salvini: all'esame le conseguenze della sconfitta al referendum",
       "source_count": 10,
       "article_count": 10,
@@ -132,7 +106,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Gli Usa più vicini a inviare truppe di terra, Teheran minaccia: 'Diventeranno cibo per gli squali' - Liveblog",
       "source_count": 7,
       "article_count": 12,
@@ -154,7 +128,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "La confessione del 13enne che ha accoltellato la prof: «Mi dispiace non averla uccisa». Voleva ammazzare anche i genitori",
       "source_count": 8,
       "article_count": 10,
@@ -177,7 +151,54 @@
       ]
     },
     {
+      "rank": 7,
+      "title": "Eletto Giuseppe Tango, chi è il nuovo presidente dell’Anm",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "roma.corriere.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "agi.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/politica/anm-neopresidente-tango-apre-al-dialogo-nordio-troveremo-elementi-di-concordia_6rSutZEmAgx6m7PEd5bpfi",
+        "https://www.ansa.it/sito/notizie/politica/2026/03/28/al-giudice-tango-la-presidenza-dellanm-_b1e38601-09b1-4b1c-a382-ecd16456c949.html",
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_28/giuseppe-tango-nuovo-presidente-anm-4022e91a-26ef-4a10-8136-ce65ac872xlk.shtml",
+        "https://www.ilgiornale.it/news/magistratura/eletto-giuseppe-tango-chi-nuovo-presidente-dell-anm-2644495.html",
+        "https://www.liberoquotidiano.it/news/giustizia/47031638/giuseppe-tango-chi-e-successore-parodi-capo-anm/"
+      ]
+    },
+    {
       "rank": 8,
+      "title": "Milano, Porsche si schianta contro 4 auto in sosta: morto un ragazzo di 21 anni",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "fanpage.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "milano.corriere.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/milano/si-schianta-in-porsche-contro-alcune-auto-in-sosta-a-milano-morto-il-21enne-lorenzo-mattia-persiani/",
+        "https://www.ilmessaggero.it/italia/incidente_milano_porsche_via_porta_vercellina_morto_lorenzo_ultime_notizie-9443880.html",
+        "https://www.ilgiornale.it/news/cronaca-locale/milano-porsche-si-schianta-contro-4-auto-sosta-morto-ragazzo-2644724.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/29/finisce-con-una-porsche-contro-unauto-in-sosta-morto-un-21enne-a-milano_f6cc45f3-021a-4509-a0ce-19e2a25d4eaf.html",
+        "https://www.ilfattoquotidiano.it/2026/03/29/porsche-spider-incidente-milano-news/8339229/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Quadro di Renoir rubato a Villa Magnani: «Les poissons vale milioni di euro». Il furto in provincia di Parma",
       "source_count": 8,
       "article_count": 10,
@@ -200,47 +221,25 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Si schiantano con la Porsche contro alcune auto in sosta, tre ragazzi feriti a Milano: grave un 21enne",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "milano.corriere.it",
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/incidente_milano_porsche_via_porta_vercellina_morto_lorenzo_ultime_notizie-9443880.html",
-        "https://www.ilgiornale.it/news/cronaca-locale/milano-porsche-si-schianta-contro-4-auto-sosta-morto-ragazzo-2644724.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/29/finisce-con-una-porsche-contro-unauto-in-sosta-morto-un-21enne-a-milano_f6cc45f3-021a-4509-a0ce-19e2a25d4eaf.html",
-        "https://www.ilfattoquotidiano.it/2026/03/29/porsche-spider-incidente-milano-news/8339229/",
-        "http://milano.corriere.it/notizie/cronaca/26_marzo_29/milano-incidente-porta-vercellina-tre-ragazzi-si-schiantano-con-l-auto-contro-le-macchine-in-sosta-grave-21enne-bfd9c482-974f-40b7-99e7-c233c6342xlk.shtml"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Sinner-Lehecka, la finale a Miami: orario e dove vedere in tv. Jannik può avvicinarsi ad Alcaraz",
-      "source_count": 6,
-      "article_count": 10,
+      "title": "Anche gli Houthi contro gli Usa. Migliaia di marines arrivati nel Golfo",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "corriere.it",
-        "fanpage.it",
-        "ansa.it",
-        "ilgiornale.it",
+        "laverita.info",
+        "adnkronos.com",
+        "ilmanifesto.it",
         "repubblica.it",
-        "liberoquotidiano.it"
+        "lastampa.it",
+        "ilmessaggero.it",
+        "corriere.it"
       ],
       "links": [
-        "https://www.corriere.it/sport/tennis/26_marzo_29/errani-paolini-finale-doppio-donne-master-1000-miami-dove-vedere-tv-e2c046da-46bc-4a46-918c-74e811ce6xlk.shtml",
-        "https://www.fanpage.it/sport/tennis/forte-rischio-pioggia-a-miami-cosa-succede-se-la-finale-di-sinner-con-lehecka-viene-rinviata/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/03/29/sinner-si-allena-con-paolini-rischio-pioggia-stasera-per-la-finale-a-miami_b17a7f26-d8bd-43fa-b18f-9dd60bf217ab.html",
-        "https://www.fanpage.it/sport/tennis/sinner-numero-1-al-mondo-nel-ranking-atp-al-posto-di-alcaraz-cosa-serve-tra-miami-e-monte-carlo/",
-        "https://www.corriere.it/sport/tennis/26_marzo_29/sinner-volee-rete-miami-cronometro-cf9650f7-d8b3-4260-b3b1-52ca81f69xlk.shtml"
+        "https://www.laverita.info/guerra-iran-mar-rosso-italia-2676634505.html",
+        "https://www.laverita.info/crisi-mar-rosso-prezzi-energia-2676634469.html",
+        "https://www.adnkronos.com/internazionale/esteri/guerra-iran-usa-trump-houthi-news_1di7fZpSFSN2XkUzw0Qmb8",
+        "https://ilmanifesto.it/si-apre-il-fronte-houthi-rischia-di-chiudere-un-altro-stretto",
+        "https://www.repubblica.it/esteri/2026/03/29/news/iran_houthi_in_guerra_arrivati_marines_usa-425250937/"
       ]
     }
   ]
