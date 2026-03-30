@@ -1,6 +1,6 @@
 {
   "date": "2026-03-30",
-  "generated_at": "Mon 30 Mar 20:55",
+  "generated_at": "Mon 30 Mar 21:51",
   "stories": [
     {
       "rank": 1,
@@ -32,32 +32,6 @@
     },
     {
       "rank": 2,
-      "title": "Lo stop a Pizzaballa al Santo Sepolcro. Poi Netanyahu: 'Gli sia consentito l'accesso'",
-      "source_count": 11,
-      "article_count": 22,
-      "source_domains": [
-        "laverita.info",
-        "lastampa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "unita.it",
-        "corriere.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.laverita.info/israele-pizzaballa-pasqua-generale-bertolini-2676637846.html",
-        "https://www.lastampa.it/esteri/2026/03/30/news/israele-santa_sede_dietro_l_incidente_ci_sono_accordi_mai_attuati-15565392/",
-        "https://www.ilgiornale.it/news/politica/lavviso-agli-agenti-e-stop-strada-spinta-leone-siamo-voi-2644784.html",
-        "https://www.ilgiornale.it/news/politica/santo-sepolcro-vietato-pizzaballa-ira-meloni-scuse-israele-2644783.html",
-        "https://www.repubblica.it/esteri/2026/03/30/news/gerusalemme_messe_in_diretta_luoghi_santi_patriarcato_pizzaballa_questione_risolta-425253067/"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Meraviglioso Sinner: batte Lehecka, vince il titolo a Miami e completa il Sunshine Double. Il n.1 di Alcaraz si avvicina",
       "source_count": 8,
       "article_count": 18,
@@ -77,6 +51,29 @@
         "https://www.lastampa.it/sport/2026/03/30/news/quella_doppietta_di_sinner_a_miami_battendo_lehecka-15565250/",
         "https://www.ilgiornale.it/news/tennis/jannik-sinner-ecco-quanto-ha-incassato-bis-miami-tennista-2645096.html",
         "https://www.fanpage.it/sport/tennis/la-classifica-atp-aggiornata-dopo-miami-a-sinner-bastano-200-punti-per-scavalcare-alcaraz-a-monte-carlo/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Lo stop a Pizzaballa al Santo Sepolcro. Poi Netanyahu: 'Gli sia consentito l'accesso'",
+      "source_count": 8,
+      "article_count": 17,
+      "source_domains": [
+        "laverita.info",
+        "lastampa.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "corriere.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.laverita.info/israele-pizzaballa-pasqua-generale-bertolini-2676637846.html",
+        "https://www.lastampa.it/esteri/2026/03/30/news/israele-santa_sede_dietro_l_incidente_ci_sono_accordi_mai_attuati-15565392/",
+        "https://www.ilgiornale.it/news/politica/lavviso-agli-agenti-e-stop-strada-spinta-leone-siamo-voi-2644784.html",
+        "https://www.ilgiornale.it/news/politica/santo-sepolcro-vietato-pizzaballa-ira-meloni-scuse-israele-2644783.html",
+        "https://www.repubblica.it/esteri/2026/03/30/news/gerusalemme_messe_in_diretta_luoghi_santi_patriarcato_pizzaballa_questione_risolta-425253067/"
       ]
     },
     {
@@ -108,24 +105,24 @@
       "rank": 5,
       "title": "Caso Delmastro, indagine sulle società della famiglia Caroccia: «Così reinvestivano i soldi del clan Senese nel locale Bisteccheria d'Italia»",
       "source_count": 9,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "roma.corriere.it",
         "fanpage.it",
         "unita.it",
         "adnkronos.com",
         "ansa.it",
         "ilmessaggero.it",
         "roma.repubblica.it",
-        "roma.corriere.it",
         "ilfattoquotidiano.it",
         "lastampa.it"
       ],
       "links": [
+        "http://roma.corriere.it/notizie/cronaca/26_marzo_30/caso-delmastro-affari-famiglia-caroccia-clan-94e79035-cbec-4a54-b2a5-486187b45xlk.shtml",
         "https://www.fanpage.it/politica/caso-delmastro-per-i-pm-il-ristorante-aperto-con-i-caroccia-riciclava-i-soldi-della-camorra/",
         "https://www.unita.it/2026/03/30/caso-delmastro-bisteccheria-riciclaggio-denaro-clan-senese/",
         "https://www.adnkronos.com/cronaca/indagine-su-societa-famiglia-caroccia-laccusa-usati-proventi-clan-senese_2FRundiDck0JsxyYEIHf0x",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/30/indagine-sulla-societa-dei-caroccia-utilizzati-soldi-del-clan-senese-_d3582738-d927-492f-8694-915a8a004fcb.html",
-        "https://www.ilmessaggero.it/italia/mauro_miriam_caroccia_soldi_clan_senese_ristorante_delmastro_cosa_sappiamo-9445512.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/30/indagine-sulla-societa-dei-caroccia-utilizzati-soldi-del-clan-senese-_d3582738-d927-492f-8694-915a8a004fcb.html"
       ]
     },
     {
