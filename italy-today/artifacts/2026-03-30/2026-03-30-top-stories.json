@@ -1,12 +1,40 @@
 {
   "date": "2026-03-30",
-  "generated_at": "Mon 30 Mar 13:48",
+  "generated_at": "Mon 30 Mar 15:11",
   "stories": [
     {
       "rank": 1,
+      "title": "Terrorismo, arrestato un 17enne di Pescara: programmava una strage scolastica ispirata alla Columbine",
+      "source_count": 13,
+      "article_count": 23,
+      "source_domains": [
+        "ilmessaggero.it",
+        "repubblica.it",
+        "unita.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "roma.corriere.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/abruzzo/strage_scuola_columbine_pescara_ragazzo_arrestato_chi_e-9445799.html",
+        "https://www.repubblica.it/cronaca/2026/03/30/news/ragazzo_neonazista_arrestato_perugia_piano_strage_sparatoria_suprematismo-425253396/",
+        "https://bologna.repubblica.it/cronaca/2026/03/30/news/neonazisti_terrorismo_arresto_ragazzo_gruppo_werwolf_division_chi_e-425253005/",
+        "https://www.unita.it/2026/03/30/progettava-strage-scuola-modello-columbine-arrestato-17enne-perugia/",
+        "https://www.lastampa.it/cronaca/2026/03/30/news/werwolf_division_gruppo_suprematista_neonazista_cosa_e-15565067/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Lo stop a Pizzaballa al Santo Sepolcro. Poi Netanyahu: 'Gli sia consentito l'accesso'",
       "source_count": 11,
-      "article_count": 26,
+      "article_count": 23,
       "source_domains": [
         "ilgiornale.it",
         "repubblica.it",
@@ -29,54 +57,26 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Terrorismo, arrestato un 17enne di Pescara: programmava una strage scolastica ispirata alla Columbine",
-      "source_count": 13,
-      "article_count": 22,
-      "source_domains": [
-        "repubblica.it",
-        "unita.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "roma.corriere.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/cronaca/2026/03/30/news/ragazzo_neonazista_arrestato_perugia_piano_strage_sparatoria_suprematismo-425253396/",
-        "https://bologna.repubblica.it/cronaca/2026/03/30/news/neonazisti_terrorismo_arresto_ragazzo_gruppo_werwolf_division_chi_e-425253005/",
-        "https://www.unita.it/2026/03/30/progettava-strage-scuola-modello-columbine-arrestato-17enne-perugia/",
-        "https://www.lastampa.it/cronaca/2026/03/30/news/werwolf_division_gruppo_suprematista_neonazista_cosa_e-15565067/",
-        "https://www.liberoquotidiano.it/news/tv-news/47052891/operazione-hate-17enne-arrestato-con-accusa-propaganda-e-terrorismo/"
-      ]
-    },
-    {
       "rank": 3,
       "title": "Meraviglioso Sinner: batte Lehecka, vince il titolo a Miami e completa il Sunshine Double. Il n.1 di Alcaraz si avvicina",
       "source_count": 8,
-      "article_count": 15,
+      "article_count": 19,
       "source_domains": [
-        "ilgiornale.it",
         "fanpage.it",
+        "ilgiornale.it",
+        "lastampa.it",
         "ilmessaggero.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
         "corriere.it",
-        "ansa.it",
-        "lastampa.it"
+        "ansa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/tennis/jannik-sinner-ecco-quanto-ha-incassato-bis-miami-tennista-2645096.html",
-        "https://www.fanpage.it/sport/tennis/la-classifica-atp-aggiornata-dopo-miami-a-sinner-bastano-200-punti-per-scavalcare-alcaraz-a-monte-carlo/",
-        "https://www.ilmessaggero.it/sport/schede/sinner_sorpasso_alcaraz_montecarlo_quando_torna_numero_uno-9445442.html",
-        "https://www.repubblica.it/sport/tennis/2026/03/30/news/classifica_atp_sinner_prossimo_torneo-425252811",
-        "https://www.ilfattoquotidiano.it/2026/03/30/sinner-vittoria-miami-sorpasso-alcaraz-quando-montecarlo-nuova-classifica-atp-oggi/8339687/"
+        "https://www.fanpage.it/sport/tennis/aryna-sabalenka-esulta-per-sinner-dopo-che-al-miami-open-il-loro-destino-si-e-intrecciato-ancora/",
+        "https://www.ilgiornale.it/news/tennis/cos-golden-sunshine-double-che-ha-fatto-entrare-jannik-nella-2645172.html",
+        "https://www.fanpage.it/sport/tennis/sinner-fa-piangere-gerry-armstrong-a-miami-so-che-per-te-non-e-mai-stato-facile-grazie-davvero/",
+        "https://www.lastampa.it/sport/2026/03/30/news/quella_doppietta_di_sinner_a_miami_battendo_lehecka-15565250/",
+        "https://www.ilgiornale.it/news/tennis/jannik-sinner-ecco-quanto-ha-incassato-bis-miami-tennista-2645096.html"
       ]
     },
     {
@@ -106,6 +106,30 @@
     },
     {
       "rank": 5,
+      "title": "La prof accoltellata: \"Colpita a mezzo millimetro dall'aorta, salvata dai donatori di sangue\"",
+      "source_count": 9,
+      "article_count": 11,
+      "source_domains": [
+        "adnkronos.com",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "bergamo.corriere.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/professoressa-accoltellata-trescore-balneario-lettera-chiara-mocchi_5I3X56Mk8mugOuOTXXNWWX",
+        "https://www.fanpage.it/milano/la-prof-accoltellata-da-uno-studente-a-trescore-salva-grazie-al-coraggio-immenso-di-un-mio-alunno/",
+        "https://www.ilfattoquotidiano.it/2026/03/30/professoressa-accoltellata-bergamo-sangue-donatori-notizie/8340040/",
+        "https://www.ilgiornale.it/news/nazionale/prof-accoltellata-colpita-mezzo-millimetro-dallaorta-salvata-2645079.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/30/il-racconto-della-prof-accoltellata-un-fendente-a-un-millimetro-dalla-mia-aorta-salvata_f8a2c25b-1240-45f1-a9bd-eead54ca6d91.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Caso Delmastro, indagine sulle società della famiglia Caroccia: «Così reinvestivano i soldi del clan Senese nel locale Bisteccheria d'Italia»",
       "source_count": 9,
       "article_count": 9,
@@ -126,29 +150,6 @@
         "https://www.adnkronos.com/cronaca/indagine-su-societa-famiglia-caroccia-laccusa-usati-proventi-clan-senese_2FRundiDck0JsxyYEIHf0x",
         "https://www.ansa.it/sito/notizie/cronaca/2026/03/30/indagine-sulla-societa-dei-caroccia-utilizzati-soldi-del-clan-senese-_d3582738-d927-492f-8694-915a8a004fcb.html",
         "https://www.ilmessaggero.it/italia/mauro_miriam_caroccia_soldi_clan_senese_ristorante_delmastro_cosa_sappiamo-9445512.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "La prof accoltellata: “Colpita a mezzo millimetro dall’aorta, salvata da un altro alunno 13enne”",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "bergamo.corriere.it",
-        "ilmessaggero.it",
-        "milano.repubblica.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/03/30/professoressa-accoltellata-bergamo-sangue-donatori-notizie/8340040/",
-        "https://www.ilgiornale.it/news/nazionale/prof-accoltellata-colpita-mezzo-millimetro-dallaorta-salvata-2645079.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/30/il-racconto-della-prof-accoltellata-un-fendente-a-un-millimetro-dalla-mia-aorta-salvata_f8a2c25b-1240-45f1-a9bd-eead54ca6d91.html",
-        "http://bergamo.corriere.it/notizie/cronaca/26_marzo_30/la-professoressa-accoltellata-a-trescore-in-elicottero-ho-sentito-ancora-pochi-minuti-e-la-perdiamo-sono-salva-grazie-ai-20209fa1-a533-44db-911d-6b82da336xlk.shtml",
-        "https://www.ilmessaggero.it/italia/chiara_mocchi_lettera_io_viva_grazie_coraggio_studente_donatori_sangue-9445525.html"
       ]
     },
     {
@@ -195,30 +196,11 @@
     },
     {
       "rank": 9,
-      "title": "Dzeko verso Bosnia-Italia: «Vogliamo il Mondiale, loro hanno paura, li faremo soffrire»",
-      "source_count": 5,
+      "title": "Madrid chiude il suo spazio aereo ai velivoli coinvolti nella guerra in Iran. Trump: «Potremmo prendere Kharg» | Lo scenario",
+      "source_count": 6,
       "article_count": 7,
       "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "corriere.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/calcio/li-faremo-soffrire-l-avvertimento-edin-dzeko-agli-azzurri-2645103.html",
-        "https://www.fanpage.it/sport/calcio/barbarez-e-il-piano-ironico-per-bosnia-italia-vediamo-chi-parcheggia-il-bus-per-primo/",
-        "https://www.fanpage.it/sport/calcio/dzeko-graffiante-se-ce-qualcuno-che-ha-imparato-a-giocare-in-stadi-scadenti-sono-gli-italiani/",
-        "https://www.corriere.it/sport/calcio/mondiali/26_marzo_30/dzeko-bosnia-italia-mondiale-esultanza-intervista-b57f9f7a-31a3-400d-b7ca-b613ea9e6xlk.shtml",
-        "https://www.corriere.it/sport/calcio/mondiali/26_marzo_30/bosnia-italia-muscoli-mente-sciolti-commento-4f3c5e8b-eb9a-4ce8-933c-b642b27f2xlk.shtml"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Madrid chiude il suo spazio aereo ai velivoli coinvolti nella guerra in Iran. Trump: «Potremmo prendere Kharg» | Lo scenario",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
+        "ansa.it",
         "corriere.it",
         "fanpage.it",
         "ilfattoquotidiano.it",
@@ -226,11 +208,31 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/30/medio-oriente-quarto-missile-dalliran-verso-la-turchia-intercettato-dalla-nato._1e81c56e-07bb-4fc3-8c1c-fc270fbc64b3.html",
         "https://www.corriere.it/esteri/diretta-live/26_marzo_30/guerra-in-iran-le-ultime-notizie-in-diretta-ucciso-un-casco-blu-di-unifil-in-libano.shtml",
         "https://www.corriere.it/esteri/diretta-live/26_marzo_30/guerra-in-iran-le-ultime-notizie-in-diretta-ucciso-un-casco-blu-di-unifil-in-libano.shtml",
         "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-30-marzo/",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/30/guerra-in-iran-israele-usa-news-oggi-30-marzo/8339688/",
-        "https://www.repubblica.it/esteri/2026/03/30/diretta/guerra_iran_usa_israele_news_oggi-425252398/"
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/30/guerra-in-iran-israele-usa-news-oggi-30-marzo/8339688/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Dzeko verso Bosnia-Italia: «Vogliamo il Mondiale, loro hanno paura, li faremo soffrire»",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "lastampa.it",
+        "fanpage.it",
+        "corriere.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/calcio/li-faremo-soffrire-l-avvertimento-edin-dzeko-agli-azzurri-2645103.html",
+        "https://www.lastampa.it/sport/2026/03/30/news/bosnia_italia_calcio_mondiali_qualificazioni-15565158/",
+        "https://www.fanpage.it/sport/calcio/dzeko-graffiante-se-ce-qualcuno-che-ha-imparato-a-giocare-in-stadi-scadenti-sono-gli-italiani/",
+        "https://www.corriere.it/sport/calcio/mondiali/26_marzo_30/dzeko-bosnia-italia-mondiale-esultanza-intervista-b57f9f7a-31a3-400d-b7ca-b613ea9e6xlk.shtml",
+        "https://www.corriere.it/sport/calcio/mondiali/26_marzo_30/bosnia-italia-muscoli-mente-sciolti-commento-4f3c5e8b-eb9a-4ce8-933c-b642b27f2xlk.shtml"
       ]
     }
   ]
