@@ -1,19 +1,19 @@
 {
   "date": "2026-03-30",
-  "generated_at": "Mon 30 Mar 15:11",
+  "generated_at": "Mon 30 Mar 17:04",
   "stories": [
     {
       "rank": 1,
       "title": "Terrorismo, arrestato un 17enne di Pescara: programmava una strage scolastica ispirata alla Columbine",
       "source_count": 13,
-      "article_count": 23,
+      "article_count": 24,
       "source_domains": [
         "ilmessaggero.it",
         "repubblica.it",
         "unita.it",
         "lastampa.it",
         "liberoquotidiano.it",
-        "roma.corriere.it",
+        "video.corriere.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "ansa.it",
@@ -36,24 +36,24 @@
       "source_count": 11,
       "article_count": 23,
       "source_domains": [
+        "laverita.info",
+        "lastampa.it",
         "ilgiornale.it",
         "repubblica.it",
         "unita.it",
-        "lastampa.it",
         "corriere.it",
         "liberoquotidiano.it",
-        "laverita.info",
         "ansa.it",
         "fanpage.it",
         "adnkronos.com",
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.laverita.info/israele-pizzaballa-pasqua-generale-bertolini-2676637846.html",
+        "https://www.lastampa.it/esteri/2026/03/30/news/israele-santa_sede_dietro_l_incidente_ci_sono_accordi_mai_attuati-15565392/",
         "https://www.ilgiornale.it/news/politica/lavviso-agli-agenti-e-stop-strada-spinta-leone-siamo-voi-2644784.html",
         "https://www.ilgiornale.it/news/politica/santo-sepolcro-vietato-pizzaballa-ira-meloni-scuse-israele-2644783.html",
-        "https://www.repubblica.it/esteri/2026/03/30/news/gerusalemme_messe_in_diretta_luoghi_santi_patriarcato_pizzaballa_questione_risolta-425253067/",
-        "https://www.unita.it/2026/03/30/guerra-santo-sepolcro-divieto-preghiera-pizzaballa-netanyahu/",
-        "https://www.lastampa.it/esteri/2026/03/30/news/pizzaballa_polizia_israele_accordo_accesso_santo_sepolcro-15564972/"
+        "https://www.repubblica.it/esteri/2026/03/30/news/gerusalemme_messe_in_diretta_luoghi_santi_patriarcato_pizzaballa_questione_risolta-425253067/"
       ]
     },
     {
@@ -81,10 +81,35 @@
     },
     {
       "rank": 4,
-      "title": "Quadri di Renoir, Cezanne e Matisse rubati : «Valgono milioni di euro, i ladri hanno agito in tre minuti»",
-      "source_count": 10,
-      "article_count": 11,
+      "title": "La prof accoltellata: \"Colpita a mezzo millimetro dall'aorta, salvata dai donatori di sangue\"",
+      "source_count": 9,
+      "article_count": 12,
       "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "bergamo.corriere.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/30/dimessa-la-professoressa-accoltellata-un-fendente-a-un-millimetro-dalla-mia-aorta-salvata-da-uno_f8a2c25b-1240-45f1-a9bd-eead54ca6d91.html",
+        "https://www.adnkronos.com/cronaca/professoressa-accoltellata-trescore-balneario-lettera-chiara-mocchi_5I3X56Mk8mugOuOTXXNWWX",
+        "https://www.fanpage.it/milano/la-prof-accoltellata-da-uno-studente-a-trescore-salva-grazie-al-coraggio-immenso-di-un-mio-alunno/",
+        "https://www.ilfattoquotidiano.it/2026/03/30/professoressa-accoltellata-bergamo-sangue-donatori-notizie/8340040/",
+        "https://www.ilgiornale.it/news/nazionale/prof-accoltellata-colpita-mezzo-millimetro-dallaorta-salvata-2645079.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Quadri di Renoir, Cezanne e Matisse rubati : «Valgono milioni di euro, i ladri hanno agito in tre minuti»",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
         "fanpage.it",
         "unita.it",
         "ilgiornale.it",
@@ -92,40 +117,14 @@
         "bologna.repubblica.it",
         "liberoquotidiano.it",
         "corrieredibologna.corriere.it",
-        "ilsole24ore.com",
-        "agi.it",
-        "news.google.com"
+        "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/03/30/quadri-di-renoir-cezanne-e-matisse-rubati-investigatori-al-lavoro-su-tracce-e-filmati_347c75ca-8104-407c-96fe-bd8985042431.html",
         "https://www.fanpage.it/attualita/tre-minuti-per-sparire-la-dinamica-del-furto-alla-fondazione-magnani-rocca-di-traversetolo/",
         "https://www.unita.it/2026/03/30/colpo-milioni-fondazione-magnani-rocca-rubati-renoir-cezanne-matisse/",
         "https://www.ilgiornale.it/news/cronaca-nera/rubate-tele-renoir-matisse-e-c-zanne-colpo-3-minuti-2644940.html",
-        "https://www.lastampa.it/cronaca/2026/03/30/news/fondazione_magnani_rocca_furto_renoir_cezanne_matisse-15565005/",
-        "https://bologna.repubblica.it/cronaca/2026/03/30/news/furto_renoir_cezanne_matisse_magnani_rocca_parma-425252342/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "La prof accoltellata: \"Colpita a mezzo millimetro dall'aorta, salvata dai donatori di sangue\"",
-      "source_count": 9,
-      "article_count": 11,
-      "source_domains": [
-        "adnkronos.com",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "bergamo.corriere.it",
-        "ilmessaggero.it",
-        "milano.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/professoressa-accoltellata-trescore-balneario-lettera-chiara-mocchi_5I3X56Mk8mugOuOTXXNWWX",
-        "https://www.fanpage.it/milano/la-prof-accoltellata-da-uno-studente-a-trescore-salva-grazie-al-coraggio-immenso-di-un-mio-alunno/",
-        "https://www.ilfattoquotidiano.it/2026/03/30/professoressa-accoltellata-bergamo-sangue-donatori-notizie/8340040/",
-        "https://www.ilgiornale.it/news/nazionale/prof-accoltellata-colpita-mezzo-millimetro-dallaorta-salvata-2645079.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/03/30/il-racconto-della-prof-accoltellata-un-fendente-a-un-millimetro-dalla-mia-aorta-salvata_f8a2c25b-1240-45f1-a9bd-eead54ca6d91.html"
+        "https://www.lastampa.it/cronaca/2026/03/30/news/fondazione_magnani_rocca_furto_renoir_cezanne_matisse-15565005/"
       ]
     },
     {
@@ -154,6 +153,50 @@
     },
     {
       "rank": 7,
+      "title": "Dzeko verso Bosnia-Italia: «Vogliamo il Mondiale, loro hanno paura, li faremo soffrire»",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "corriere.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "fanpage.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.corriere.it/sport/calcio/mondiali/diretta-live/26_marzo_30/gattuso-conferenza-playoff-mondiale-bosnia-diretta.shtml",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/03/30/mondiali-dzeko-litalia-temeva-piu-il-galles-noi-lo-abbiamo-battuto_4c7102c3-76f0-4188-8302-ff3afe358646.html",
+        "http://bari.corriere.it/notizie/sport/26_marzo_30/bosnia-italia-l-ex-ct-della-nazionale-giampiero-ventura-squadra-mai-cosi-compatta-speriamo-di-tornare-a-essere-protagonisti-dd4804b6-f046-4980-9529-3abb4b09fxlk.shtml",
+        "https://www.ilgiornale.it/news/calcio/li-faremo-soffrire-l-avvertimento-edin-dzeko-agli-azzurri-2645103.html",
+        "https://www.lastampa.it/sport/2026/03/30/news/bosnia_italia_calcio_mondiali_qualificazioni-15565158/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Anziano trovato morto in casa nel Piacentino, arrestati la moglie e il figlio: “Inferte gravi e prolungate sofferenze”",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "corrieredibologna.corriere.it",
+        "unita.it",
+        "bologna.repubblica.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "agi.it"
+      ],
+      "links": [
+        "http://corrieredibologna.corriere.it/notizie/cronaca/26_marzo_30/castel-san-giovanni-piacenza-anziano-trovato-morto-a-ottobre-arrestati-moglie-e-figlio-gli-hanno-inferto-gravi-e-prolungate-23dec1af-76ea-4140-affe-150fb5baexlk.shtml",
+        "https://www.unita.it/2026/03/30/omicidio-castel-san-giovanni-anziano-ucciso-moglie-figlio-segregato-scantinato/",
+        "https://bologna.repubblica.it/cronaca/2026/03/30/news/piacenza_anziano_trovato_morto_casa_arrestati_moglie_figlio-425252919/",
+        "https://www.adnkronos.com/cronaca/piacenza-anziano-morto-in-casa-ultime-news_5mx2K27ucshTeDQO3MrHcv",
+        "https://www.ilfattoquotidiano.it/2026/03/30/anziano-morto-seminterrato-arresti-omicidio-notizie/8339799/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Lorenzo Persiani, morto sulla Porsche da 200mila euro presa a noleggio: la corsa con due amiche (sedute su un sedile solo) e lo schianto. Chi era il 21enne",
       "source_count": 6,
       "article_count": 9,
@@ -174,7 +217,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Bezzecchi, un cow boy in Texas: ad Austin vince la quinta gara di fila e si riprende la vetta del Mondiale",
       "source_count": 6,
       "article_count": 8,
@@ -192,47 +235,6 @@
         "https://www.fanpage.it/sport/motori/bagnaia-e-marquez-spiegano-il-tallone-dachille-della-ducati-come-le-gomme-stanno-riscrivendo-la-stagione/",
         "https://www.ilgiornale.it/news/motori/leader-stile-antonelli-bezzecchi-cala-tris-e-si-riprende-2644853.html",
         "https://www.ilgiornale.it/news/motori/motogp-bezzecchi-fa-tre-vittorie-su-tre-e-trionfa-anche-ad-2644779.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Madrid chiude il suo spazio aereo ai velivoli coinvolti nella guerra in Iran. Trump: «Potremmo prendere Kharg» | Lo scenario",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "corriere.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/30/medio-oriente-quarto-missile-dalliran-verso-la-turchia-intercettato-dalla-nato._1e81c56e-07bb-4fc3-8c1c-fc270fbc64b3.html",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_30/guerra-in-iran-le-ultime-notizie-in-diretta-ucciso-un-casco-blu-di-unifil-in-libano.shtml",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_30/guerra-in-iran-le-ultime-notizie-in-diretta-ucciso-un-casco-blu-di-unifil-in-libano.shtml",
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-30-marzo/",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/03/30/guerra-in-iran-israele-usa-news-oggi-30-marzo/8339688/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Dzeko verso Bosnia-Italia: «Vogliamo il Mondiale, loro hanno paura, li faremo soffrire»",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "lastampa.it",
-        "fanpage.it",
-        "corriere.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/calcio/li-faremo-soffrire-l-avvertimento-edin-dzeko-agli-azzurri-2645103.html",
-        "https://www.lastampa.it/sport/2026/03/30/news/bosnia_italia_calcio_mondiali_qualificazioni-15565158/",
-        "https://www.fanpage.it/sport/calcio/dzeko-graffiante-se-ce-qualcuno-che-ha-imparato-a-giocare-in-stadi-scadenti-sono-gli-italiani/",
-        "https://www.corriere.it/sport/calcio/mondiali/26_marzo_30/dzeko-bosnia-italia-mondiale-esultanza-intervista-b57f9f7a-31a3-400d-b7ca-b613ea9e6xlk.shtml",
-        "https://www.corriere.it/sport/calcio/mondiali/26_marzo_30/bosnia-italia-muscoli-mente-sciolti-commento-4f3c5e8b-eb9a-4ce8-933c-b642b27f2xlk.shtml"
       ]
     }
   ]
