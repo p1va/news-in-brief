@@ -1,29 +1,29 @@
 {
   "date": "2026-03-31",
-  "generated_at": "Tue 31 Mar 13:57",
+  "generated_at": "Tue 31 Mar 15:10",
   "stories": [
     {
       "rank": 1,
       "title": "Bosnia-Italia, cosa succede in caso di sconfitta o vittoria (e quali squadre affronterebbero gli azzurri ai Mondiali)",
       "source_count": 9,
-      "article_count": 31,
+      "article_count": 29,
       "source_domains": [
+        "ilmessaggero.it",
         "ilgiornale.it",
         "fanpage.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it",
         "ansa.it",
         "corriere.it",
+        "adnkronos.com",
         "unita.it",
-        "repubblica.it"
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/sport/schede/italia_chi_sono_giocatori_chiave_bosnia_tonali_pio_esposito-9447914.html",
         "https://www.ilgiornale.it/news/calcio/bosnia-italia-ecco-quanti-milioni-vale-qualificazione-degli-2645569.html",
         "https://www.fanpage.it/sport/calcio/cosa-succede-se-litalia-pareggia-o-perde-contro-la-bosnia-nella-finale-dei-playoff-mondiali/",
-        "https://www.adnkronos.com/sport/bosnia-italia-spareggio-mondiale-senza-goal-line-technology-protocollo-in-caso-reti-dubbie_oTwRxAHObPrncvWFrZDTx",
-        "https://www.ilmessaggero.it/sport/calcio/bosnia_italia_goal_line_technology_polemica_var-9447765.html",
-        "https://www.lastampa.it/sport/2026/03/31/news/bosnia-italia_pericolo_gol_fantasma_niente_goal_line_technology-15566623/"
+        "https://www.ansa.it/sito/notizie/sport/2026/03/31/litalia-si-gioca-tutto-in-bosnia-gattuso-non-belli-ma-concreti-liveblog_a99a50ed-9d38-4320-ae68-8f74ed8ebe4c.html",
+        "https://www.ilmessaggero.it/sport/schede/italia_ripescata_mondiali_se_cosa_dice_regolamento_fifa-9447659.html"
       ]
     },
     {
@@ -55,9 +55,36 @@
     },
     {
       "rank": 3,
+      "title": "Campobasso, madre e figlia morte dopo Natale: «Avvelenamento con la ricina», non fu intossicazione alimentare. Si indaga per omicidio",
+      "source_count": 12,
+      "article_count": 14,
+      "source_domains": [
+        "repubblica.it",
+        "bari.corriere.it",
+        "unita.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/cronaca/2026/03/31/news/sara_di_vita_antonella_di_ielsi_chi_erano_mamma_figlia_morte_intossicate-425255694/",
+        "http://bari.corriere.it/notizie/cronaca/26_marzo_31/campobasso-madre-e-figlia-morte-per-botulino-e-stato-un-omicidio-b0371446-4ce8-45c9-809e-c775ebfefxlk.shtml",
+        "http://bari.corriere.it/notizie/cronaca/26_marzo_31/campobasso-madre-e-figlia-morte-per-botulino-e-stato-un-omicidio-b0371446-4ce8-45c9-809e-c775ebfefxlk.shtml",
+        "https://www.unita.it/2026/03/31/madre-figlia-morte-natale-campobasso-avvelenate-ricina/",
+        "https://www.adnkronos.com/cronaca/madre-e-figlia-morte-a-campobasso-uccise-da-un-veleno-si-indaga-per-omicidio_2g2vBKZr3jWScZM6VkHt59"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Iran, gli Usa attaccano un deposito di munizioni e Trump pubblica il video. Colpita petroliera a Dubai, esplosioni a Gerusalemme",
       "source_count": 9,
-      "article_count": 14,
+      "article_count": 15,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
@@ -70,15 +97,15 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/47071299/gli-usa-colpiscono-deposito-di-munizioni-in-iran-trump-posta-il-video/",
         "https://www.liberoquotidiano.it/news/libero-video/47068430/iran-incendio-nel-centro-di-israele-dopo-il-raid-di-teheran/",
         "https://www.ansa.it/sito/videogallery/mondo/2026/03/31/gli-usa-colpiscono-un-deposito-di-munizioni-in-iran-trump-posta-il-video_3e67eefb-e7d4-4226-8861-31b451fb1fea.html",
         "https://www.corriere.it/esteri/diretta-live/26_marzo_31/guerra-in-iran-le-ultime-notizie-in-diretta-il-brent-vola-a-115-49-dollari-dopo-l-attacco-dell-iran-alla-petroliera.shtml",
-        "https://www.corriere.it/esteri/diretta-live/26_marzo_31/guerra-in-iran-le-ultime-notizie-in-diretta-il-brent-vola-a-115-49-dollari-dopo-l-attacco-dell-iran-alla-petroliera.shtml",
-        "https://www.liberoquotidiano.it/news/libero-video/47064253/iran-raid-americano-su-obiettivi-militari-il-video-del-comando-centrale-usa/"
+        "https://www.corriere.it/esteri/diretta-live/26_marzo_31/guerra-in-iran-le-ultime-notizie-in-diretta-il-brent-vola-a-115-49-dollari-dopo-l-attacco-dell-iran-alla-petroliera.shtml"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Crosetto ha negato uso base Sigonella agli Usa",
       "source_count": 11,
       "article_count": 12,
@@ -104,33 +131,31 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Campobasso, madre e figlia morte dopo Natale: «Avvelenamento con la ricina», non fu intossicazione alimentare. Si indaga per omicidio",
-      "source_count": 11,
-      "article_count": 12,
+      "rank": 6,
+      "title": "Chat neonazi, armi ed esplosivo. \"La strage a scuola e mi uccido\"",
+      "source_count": 9,
+      "article_count": 11,
       "source_domains": [
-        "bari.corriere.it",
-        "unita.it",
-        "adnkronos.com",
-        "ilgiornale.it",
         "ilfattoquotidiano.it",
-        "repubblica.it",
         "fanpage.it",
-        "ansa.it",
+        "ilgiornale.it",
+        "roma.corriere.it",
+        "repubblica.it",
+        "ilmanifesto.it",
         "ilmessaggero.it",
         "lastampa.it",
-        "agi.it"
+        "ansa.it"
       ],
       "links": [
-        "http://bari.corriere.it/notizie/cronaca/26_marzo_31/campobasso-madre-e-figlia-morte-per-botulino-e-stato-un-omicidio-b0371446-4ce8-45c9-809e-c775ebfefxlk.shtml",
-        "http://bari.corriere.it/notizie/cronaca/26_marzo_31/campobasso-madre-e-figlia-morte-per-botulino-e-stato-un-omicidio-b0371446-4ce8-45c9-809e-c775ebfefxlk.shtml",
-        "https://www.unita.it/2026/03/31/madre-figlia-morte-natale-campobasso-avvelenate-ricina/",
-        "https://www.adnkronos.com/cronaca/madre-e-figlia-morte-a-campobasso-uccise-da-un-veleno-si-indaga-per-omicidio_2g2vBKZr3jWScZM6VkHt59",
-        "https://www.ilgiornale.it/news/cronaca-nera/non-fu-intossicazione-omicidio-svolta-sul-caso-madre-e-2645562.html"
+        "https://www.ilfattoquotidiano.it/2026/03/31/strage-pianificata-scuola-17enne-arrestato-notizie/8341571/",
+        "https://www.fanpage.it/attualita/progettava-strage-a-scuola-la-mamma-del-17enne-arrestato-e-anche-colpa-mia-dovevo-controllarlo-sui-social/",
+        "https://www.ilgiornale.it/news/politica/chat-neonazi-armi-ed-esplosivo-strage-scuola-e-mi-uccido-2645285.html",
+        "http://roma.corriere.it/notizie/politica/26_marzo_31/piano-studente-strage-scuola-636342c1-b528-4e32-aa81-865e03869xlk.shtml",
+        "https://www.repubblica.it/cronaca/2026/03/31/news/intervista_mamma_studente_17_anni_perugia_odio_razziale-425254467/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Israele, sì della Knesset alla pena di morte per palestinesi",
       "source_count": 8,
       "article_count": 11,
@@ -150,29 +175,6 @@
         "https://www.liberoquotidiano.it/news/tv-news/47067995/israele-si-della-knesset-alla-pena-di-morte-per-palestinesi/",
         "https://video.corriere.it/esteri/ben-gvir-brinda-dopo-l-approvazione-della-pena-di-morte-per-i-terroristi-palestinesi-abbiamo-fatto-la-storia-/8884cc17-584d-4114-b39e-ceac7239cxlk",
         "https://www.corriere.it/esteri/26_marzo_30/israele-pena-di-morte-terroristi-palestinesi-69041879-e275-42b2-824c-0870bf95dxlk.shtml"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Chat neonazi, armi ed esplosivo. \"La strage a scuola e mi uccido\"",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "roma.corriere.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/attualita/progettava-strage-a-scuola-la-mamma-del-17enne-arrestato-e-anche-colpa-mia-dovevo-controllarlo-sui-social/",
-        "https://www.ilgiornale.it/news/politica/chat-neonazi-armi-ed-esplosivo-strage-scuola-e-mi-uccido-2645285.html",
-        "http://roma.corriere.it/notizie/politica/26_marzo_31/piano-studente-strage-scuola-636342c1-b528-4e32-aa81-865e03869xlk.shtml",
-        "https://www.repubblica.it/cronaca/2026/03/31/news/intervista_mamma_studente_17_anni_perugia_odio_razziale-425254467/",
-        "https://ilmanifesto.it/sognava-una-columbine-italiana-arrestato-17enne-pescarese"
       ]
     },
     {
