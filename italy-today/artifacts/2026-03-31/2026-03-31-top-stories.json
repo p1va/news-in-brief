@@ -1,6 +1,6 @@
 {
   "date": "2026-03-31",
-  "generated_at": "Tue 31 Mar 19:11",
+  "generated_at": "Tue 31 Mar 19:16",
   "stories": [
     {
       "rank": 1,
@@ -108,9 +108,10 @@
     {
       "rank": 5,
       "title": "Crosetto ha negato uso base Sigonella agli Usa",
-      "source_count": 11,
+      "source_count": 10,
       "article_count": 13,
       "source_domains": [
+        "corriere.it",
         "ilmessaggero.it",
         "repubblica.it",
         "ansa.it",
@@ -119,16 +120,14 @@
         "ilgiornale.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
-        "roma.corriere.it",
-        "lastampa.it",
-        "news.google.com"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.corriere.it/esteri/26_marzo_31/base-sigonella-negata-agli-usa-la-casa-bianca-l-italia-e-di-supporto-2adbc81b-1a91-4231-98fb-7f3d9b1dexlk.shtml",
         "https://www.ilmessaggero.it/mondo/sigonella_cosa_e_successo_conseguenze_italia_trump-9448033.html",
         "https://www.repubblica.it/politica/2026/03/31/news/crosetto_sigonella_voli_usa_italia_base-425255488/",
         "https://www.ansa.it/sito/notizie/mondo/2026/03/31/crosetto-ha-negato-uso-base-sigonella-agli-usa_1096803e-7199-4c2c-aad6-4c6b46551032.html",
-        "https://www.laverita.info/sigonella-italia-nega-base-usa-2676641251.html",
-        "https://www.fanpage.it/politica/litalia-nega-agli-usa-luso-della-base-di-sigonella-cosa-e-successo-la-decisione-del-ministro-crosetto/"
+        "https://www.laverita.info/sigonella-italia-nega-base-usa-2676641251.html"
       ]
     },
     {
