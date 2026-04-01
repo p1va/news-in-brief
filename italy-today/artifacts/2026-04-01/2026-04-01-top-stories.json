@@ -1,12 +1,12 @@
 {
   "date": "2026-04-01",
-  "generated_at": "Wed 01 Apr 17:04",
+  "generated_at": "Wed 01 Apr 19:13",
   "stories": [
     {
       "rank": 1,
       "title": "FOCUS | Il calcio italiano in macerie, per la terza volta niente Mondiali",
       "source_count": 11,
-      "article_count": 25,
+      "article_count": 24,
       "source_domains": [
         "fanpage.it",
         "ansa.it",
@@ -30,9 +30,9 @@
     },
     {
       "rank": 2,
-      "title": "Naufragio di migranti nell'Egeo, 18 morti",
+      "title": "Diciannove morti al largo di Lampedusa, altri 18 nel mar Egeo. Tragedia di migranti",
       "source_count": 10,
-      "article_count": 15,
+      "article_count": 16,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
@@ -46,40 +46,18 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/01/diciannove-morti-al-largo-di-lampedusa-altri-18-nel-mar-egeo.-tragedia-di-migranti_ba898bf7-e4ea-4782-ab97-4585c3189037.html",
         "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/01/sale-a-19-il-bilancio-dei-migranti-morti-a-lampedusa.-nel-mar-egeo-18-vittime_ba898bf7-e4ea-4782-ab97-4585c3189037.html",
         "https://www.adnkronos.com/cronaca/naufragio-lampedusa-migranti-morti_6Rwj6Zinapnhw3pbtUglAz",
         "https://www.ilgiornale.it/news/nazionale/naufragio-lampedusa-19-migranti-morti-ipotermia-2646083.html",
-        "https://www.ilfattoquotidiano.it/2026/04/01/naufragio-nel-canale-di-sicilia-19-migranti-morti-i-58-sopravvissuti-soccorsi-e-portati-a-lampedusa/8342761/",
-        "https://www.ilmessaggero.it/italia/naufragio_lampedusa_migranti_morti_bambini-9450049.html"
+        "https://www.ilfattoquotidiano.it/2026/04/01/naufragio-nel-canale-di-sicilia-19-migranti-morti-i-58-sopravvissuti-soccorsi-e-portati-a-lampedusa/8342761/"
       ]
     },
     {
       "rank": 3,
-      "title": "Madre e figlia morte: non fu intossicazione. \"Uccise dalla ricina\" La pista dei familiari",
-      "source_count": 7,
-      "article_count": 16,
-      "source_domains": [
-        "ilmessaggero.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "foggia.corriere.it",
-        "fanpage.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/madre_figlia_avvelenate_chi_ha_comprato_ricina_malore_marito-9450237.html",
-        "https://www.lastampa.it/cronaca/2026/04/01/news/campobasso_madre_figlia_avvelenate_ricina_marito_nessuna_traccia-15568123/",
-        "https://www.repubblica.it/cronaca/2026/04/01/news/madre_figlia_morte_campobasso_marito_omicidio-425257611/",
-        "https://www.ilgiornale.it/news/politica/madre-e-figlia-morte-non-fu-intossicazione-uccise-ricina-2645785.html",
-        "https://www.ilmessaggero.it/persone/alice_di_vita_sorella_mamme_e_figlia_avvelenate_pietracatella-9449641.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Disastro Italia, la Bosnia vince ai rigori. Azzurri fuori dal Mondiale per la terza edizione di fila",
+      "title": "Italia fuori dai Mondiali per la terza volta di fila, ko ai rigori con la Bosnia: adesso servono solo le dimissioni",
       "source_count": 9,
-      "article_count": 14,
+      "article_count": 13,
       "source_domains": [
         "ilgiornale.it",
         "corriere.it",
@@ -100,7 +78,77 @@
       ]
     },
     {
+      "rank": 4,
+      "title": "I Caroccia interrogati dai pm. \"Delmastro? È estraneo\"",
+      "source_count": 9,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "roma.corriere.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "roma.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/01/mauro-caroccia-ai-pm-delmastro-ci-ha-fatto-beneficienza_cedd0316-84b9-46fe-b972-6f16ab10e70a.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47090349/roma-mauro-caroccia-ai-pm-delmastro-ci-ha-fatto-della-beneficenza-/",
+        "https://www.ilfattoquotidiano.it/2026/04/01/caso-delmastro-caroccia-interrogatorio-clan-senese-notizie/8342719/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/01/il-comitato-condotta-della-camera-formalizza-la-sanzione-a-delmastro_4af6e506-0a9c-4aa3-8980-0d15b7dc7973.html",
+        "https://www.ilgiornale.it/news/magistratura/i-caroccia-interrogati-dai-pm-delmastro-estraneo-2645889.html"
+      ]
+    },
+    {
       "rank": 5,
+      "title": "Campobasso, le tracce di ricina nel sangue di Antonella e Sara e l'ipotesi dark web: «Avvelenate in casa». Sospetti su familiari e amici",
+      "source_count": 7,
+      "article_count": 13,
+      "source_domains": [
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "foggia.corriere.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/italia/madre_figlia_avvelenate_chi_ha_comprato_ricina_malore_marito-9450237.html",
+        "https://www.lastampa.it/cronaca/2026/04/01/news/campobasso_madre_figlia_avvelenate_ricina_marito_nessuna_traccia-15568123/",
+        "https://www.ilfattoquotidiano.it/2026/04/01/avvelenamento-ricina-pietracatella-madre-figlia-notizie/8342645/",
+        "https://www.repubblica.it/cronaca/2026/04/01/news/madre_figlia_morte_campobasso_marito_omicidio-425257611/",
+        "https://www.ilgiornale.it/news/politica/madre-e-figlia-morte-non-fu-intossicazione-uccise-ricina-2645785.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Addio al giornalista Roberto Arditti",
+      "source_count": 9,
+      "article_count": 11,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "roma.corriere.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/personaggi/47091324/roberto_arditti_gravissimo_ancora_vivo_mistero_annuncio_morte/",
+        "https://www.ansa.it/sito/notizie/politica/2026/04/01/malore-per-il-giornalista-roberto-arditti-condizioni-estremamente-gravi_d9bc754d-bff8-48af-a985-3d9f846c0c5f.html",
+        "http://roma.corriere.it/notizie/cronaca/26_aprile_01/il-giornalista-roberto-arditti-e-in-condizioni-gravissime-all-ospedale-san-camillo-di-roma-69669ed2-2100-4f4b-bfce-ca835a9bexlk.shtml",
+        "https://www.ilmessaggero.it/persone/roberto_arditti_giornalista_come_sta_infarto-9450069.html",
+        "https://www.fanpage.it/spettacolo/personaggi/e-morto-roberto-arditti-ex-direttore-de-il-tempo-e-autore-di-porta-a-porta-aveva-60-anni/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Medio Oriente: Trump, 'sto considerando seriamente il ritiro dalla Nato' - LIVE",
       "source_count": 8,
       "article_count": 11,
@@ -123,7 +171,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Bonifici, stop a Pasqua: perché si fermano fino al 7 aprile e cosa succede agli stipendi",
       "source_count": 9,
       "article_count": 10,
@@ -147,96 +195,47 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "La difesa dei Caroccia davanti ai pm: “I soldi sono di Delmastro, non della criminalità”",
-      "source_count": 9,
-      "article_count": 10,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "roma.corriere.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ansa.it",
-        "roma.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/47090349/roma-mauro-caroccia-ai-pm-delmastro-ci-ha-fatto-della-beneficenza-/",
-        "https://www.ilfattoquotidiano.it/2026/04/01/caso-delmastro-caroccia-interrogatorio-clan-senese-notizie/8342719/",
-        "https://www.ilgiornale.it/news/magistratura/i-caroccia-interrogati-dai-pm-delmastro-estraneo-2645889.html",
-        "http://roma.corriere.it/notizie/cronaca/26_aprile_01/caroccia-delmastro-vittime-interrogatorio-83e320f8-9f9b-42d1-aab4-9e24ed639xlk.shtml",
-        "https://www.adnkronos.com/cronaca/indagine-caroccia-delmastro-oggi-interrogatorio_2ATKkGxV8OtDnKhg5beK4H"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Addio al giornalista Roberto Arditti",
-      "source_count": 9,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "roma.corriere.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/04/01/malore-per-il-giornalista-roberto-arditti-condizioni-estremamente-gravi_d9bc754d-bff8-48af-a985-3d9f846c0c5f.html",
-        "http://roma.corriere.it/notizie/cronaca/26_aprile_01/il-giornalista-roberto-arditti-e-in-condizioni-gravissime-all-ospedale-san-camillo-di-roma-69669ed2-2100-4f4b-bfce-ca835a9bexlk.shtml",
-        "https://www.ilmessaggero.it/persone/roberto_arditti_giornalista_come_sta_infarto-9450069.html",
-        "https://www.fanpage.it/spettacolo/personaggi/e-morto-roberto-arditti-ex-direttore-de-il-tempo-e-autore-di-porta-a-porta-aveva-60-anni/",
-        "https://www.ilfattoquotidiano.it/2026/04/01/roberto-arditti-morto-giornalista-news/8342705/"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Iraq, il rapimento della giornalista americana Shelly Kittleson a Baghdad",
+      "title": "Crosetto nega ai bombardieri Usa la base di Sigonella",
       "source_count": 7,
       "article_count": 11,
       "source_domains": [
-        "unita.it",
-        "liberoquotidiano.it",
-        "corriere.it",
         "ilgiornale.it",
+        "roma.corriere.it",
         "ansa.it",
-        "ilmessaggero.it",
-        "news.google.com"
+        "lastampa.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.unita.it/2026/04/01/shelly-kittleson-giornalista-usa-rapita-baghdad/",
-        "https://www.liberoquotidiano.it/news/tv-news/47084257/una-giornalista-americana-rapita-nel-centro-di-baghdad/",
-        "https://www.corriere.it/esteri/26_marzo_31/iraq-una-reporter-americana-sequestrata-da-un-commando-sciita-catturato-uno-dei-rapitori-9503455e-e849-4aef-ae1a-5aa4c0458xlk.shtml",
-        "https://www.ilgiornale.it/news/guerra/kataib-hezbollah-milizia-ombra-che-sfida-stato-chi-c-dietro-2645883.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/31/rapita-a-baghdad-la-giornalista-americana-shelly-kittleson-lavora-anche-per-testate_b099abaf-830e-4e37-9877-b9ca48a060c8.html"
+        "https://www.ilgiornale.it/news/politica/sigonella-base-negata-trump-cos-governo-spiazza-sinistra-2645764.html",
+        "https://www.ilgiornale.it/news/politica/meloni-avvertita-nel-pieno-notte-i-contatti-usa-spiegare-2645765.html",
+        "http://roma.corriere.it/notizie/politica/26_aprile_01/meloni-sigonella-usa-15e9455c-0907-4dca-b4a9-9521aacf7xlk.shtml",
+        "http://roma.corriere.it/notizie/politica/26_aprile_01/meloni-sigonella-usa-15e9455c-0907-4dca-b4a9-9521aacf7xlk.shtml",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/04/01/prime-pagine-crosetto-nega-ai-bombardieri-usa-la-base-di-sigonella_ce879dca-f0ed-4fb8-aa1e-d4ed6b0e86ba.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Crosetto nega ai bombardieri Usa la base di Sigonella",
-      "source_count": 8,
-      "article_count": 10,
+      "title": "Scuola, 143 euro di aumento ai prof. Valditara: \"Risultato storico\"",
+      "source_count": 7,
+      "article_count": 11,
       "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
         "ansa.it",
+        "liberoquotidiano.it",
         "lastampa.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
+        "adnkronos.com",
+        "ilgiornale.it",
         "corriere.it",
-        "ilsole24ore.com"
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.fanpage.it/politica/sigonella-cosa-prevedono-gli-accordi-italia-usa-sullutilizzo-delle-basi-e-quando-serve-lok-del-parlamento/",
-        "https://www.ilgiornale.it/news/politica/sigonella-base-negata-trump-cos-governo-spiazza-sinistra-2645764.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/04/01/prime-pagine-crosetto-nega-ai-bombardieri-usa-la-base-di-sigonella_ce879dca-f0ed-4fb8-aa1e-d4ed6b0e86ba.html",
-        "https://www.lastampa.it/politica/2026/04/01/news/tensione_roma_washington_negata_base_sigonella-15567472/",
-        "https://ilmanifesto.it/crosetto-dice-no-ai-bombardieri-americani-in-sicilia"
+        "https://www.ansa.it/canale_legalita_scuola/notizie/2026/04/01/firmato-il-contratto-della-scuola-137-euro-in-piu-al-mese_cf16ff62-f9d0-410e-ab1a-649bbba95996.html",
+        "https://www.liberoquotidiano.it/news/pillole/47088792/contratto_scuola_via_libera_agli_aumenti_anief_rilancia_su_stipendi_e_burnout/",
+        "https://www.lastampa.it/economia/2026/04/01/news/scuola_nuovo_contratto_aumento_143_euro-15568022/",
+        "https://www.adnkronos.com/cronaca/contratto-scuola-aumenti-in-busta-paga-per-insegnanti-e-ata-le-novita_3FXhIhm7Y4Fi5d8g9LFaBv",
+        "https://www.liberoquotidiano.it/news/pillole/47084270/scuola_valditara_con_tre_rinnovi_del_contratto_risultato_storico_/"
       ]
     }
   ]
