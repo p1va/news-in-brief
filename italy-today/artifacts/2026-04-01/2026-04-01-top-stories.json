@@ -1,58 +1,60 @@
 {
   "date": "2026-04-01",
-  "generated_at": "Wed 01 Apr 07:44",
+  "generated_at": "Wed 01 Apr 09:15",
   "stories": [
     {
       "rank": 1,
       "title": "Italia fuori dai Mondiali per la terza volta di fila, ko ai rigori con la Bosnia: adesso servono solo le dimissioni",
-      "source_count": 8,
-      "article_count": 16,
+      "source_count": 11,
+      "article_count": 22,
       "source_domains": [
-        "corriere.it",
-        "fanpage.it",
         "ilgiornale.it",
+        "corriere.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
         "ilfattoquotidiano.it",
-        "laverita.info",
-        "ilmessaggero.it",
         "repubblica.it",
-        "lastampa.it"
+        "laverita.info",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/calcio/cos-i-bambini-italiani-stanno-perdendo-i-mondiali-senza-2645901.html",
         "https://www.corriere.it/sport/calcio/mondiali/26_aprile_01/addio-mondiale-italia-commento-1ca3c1d3-7867-423c-b29c-8ec674075xlk.shtml",
         "https://www.corriere.it/sport/calcio/mondiali/26_aprile_01/incubo-italia-gattuso-commento-1adb42de-85b7-4706-8398-0461483e7xlk.shtml",
         "https://www.corriere.it/sport/calcio/mondiali/26_aprile_01/incubo-italia-gattuso-commento-1adb42de-85b7-4706-8398-0461483e7xlk.shtml",
-        "https://www.corriere.it/sport/calcio/mondiali/diretta-live/26_marzo_31/bosnia-italia-qualificazioni.shtml",
         "https://www.corriere.it/sport/calcio/mondiali/diretta-live/26_marzo_31/bosnia-italia-qualificazioni.shtml"
       ]
     },
     {
       "rank": 2,
       "title": "Campobasso, le tracce di ricina nel sangue di Antonella e Sara e l'ipotesi dark web: «Avvelenate in casa». Sospetti su familiari e amici",
-      "source_count": 8,
-      "article_count": 13,
+      "source_count": 7,
+      "article_count": 14,
       "source_domains": [
-        "bari.corriere.it",
+        "ilmessaggero.it",
+        "foggia.corriere.it",
         "fanpage.it",
         "lastampa.it",
-        "ilmessaggero.it",
         "ansa.it",
         "ilgiornale.it",
-        "repubblica.it",
-        "agi.it"
+        "repubblica.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/persone/alice_di_vita_sorella_mamme_e_figlia_avvelenate_pietracatella-9449641.html",
+        "http://foggia.corriere.it/notizie/cronaca/26_aprile_01/madre-e-figlia-uccise-dalla-ricina-parla-il-sindaco-siamo-convinti-che-si-sia-trattato-di-una-morte-accidentale-b21c6ac0-8f36-42ab-a494-82574e702xlk.shtml",
         "http://bari.corriere.it/notizie/cronaca/26_aprile_01/campobasso-ricina-omicidio-312310c9-634a-4c70-b514-bf21357cdxlk.shtml",
         "http://bari.corriere.it/notizie/cronaca/26_aprile_01/campobasso-ricina-omicidio-312310c9-634a-4c70-b514-bf21357cdxlk.shtml",
-        "http://bari.corriere.it/notizie/cronaca/26_marzo_31/campobasso-madre-e-figlia-morte-per-botulino-e-stato-un-omicidio-b0371446-4ce8-45c9-809e-c775ebfefxlk.shtml",
-        "https://www.fanpage.it/attualita/madre-e-figlia-morte-avvelenate-a-campobasso-lipotesi-della-ricina-comprata-sul-dark-web-sospetti-sugli-amici/",
-        "https://www.lastampa.it/cronaca/2026/04/01/news/mamma_figlia_avvelenate_natale_duplice_omicidio-15567538/"
+        "http://bari.corriere.it/notizie/cronaca/26_marzo_31/campobasso-madre-e-figlia-morte-per-botulino-e-stato-un-omicidio-b0371446-4ce8-45c9-809e-c775ebfefxlk.shtml"
       ]
     },
     {
       "rank": 3,
       "title": "Crosetto nega ai bombardieri Usa la base di Sigonella",
-      "source_count": 9,
-      "article_count": 11,
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
         "roma.corriere.it",
         "ansa.it",
@@ -61,7 +63,6 @@
         "ilmanifesto.it",
         "ilgiornale.it",
         "ilmessaggero.it",
-        "laverita.info",
         "ilsole24ore.com"
       ],
       "links": [
@@ -74,9 +75,31 @@
     },
     {
       "rank": 4,
-      "title": "La giornalista americana Shelly Kittleson rapita a Baghdad, 'nelle mani di milizia Hezbollah'",
+      "title": "Trump: \"La guerra in Iran finirà tra 2-3 settimane\". Stanotte il discorso alla nazione. Khamenei a Hezbollah: \"Vi sosteniamo pienamente\"",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "unita.it",
+        "corriere.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/videogallery/mondo/2026/04/01/trump-la-guerra-in-iran-finira-in-2-3-settimane_1d05e60e-e8ac-4f80-9fd8-68777a18e27b.html",
+        "https://www.unita.it/2026/04/01/iran-annuncio-trump-fine-guerra-scontro-nato/",
+        "https://www.corriere.it/esteri/diretta-live/26_aprile_01/guerra-in-iran-le-ultime-notizie-in-diretta-giornalista-usa-rapita-e-poi-liberata-in-iraq.shtml",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/01/emirati-pronti-a-scendere-in-campo-per-forzare-hormuz_5abd952a-2feb-4bec-b5cc-f8b0c6425038.html",
+        "https://www.repubblica.it/esteri/2026/04/01/diretta/guerra_iran_usa_israele_news_oggi-425256670/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Rapita a Baghdad la giornalista Usa Shelly Kittleson: giallo sulla liberazione",
       "source_count": 5,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
         "corriere.it",
         "ilgiornale.it",
@@ -93,34 +116,14 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "La Nazionale e vent’anni di delusioni",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/calcio/cos-i-bambini-italiani-stanno-perdendo-i-mondiali-senza-2645901.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47082142/la-delusione-dei-tifosi-italiani-per-l-eliminazione-degli-azzurri/",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/04/01/news/italia_solitudine_azzurra_vent_anni_assenza_progetto-425256696/",
-        "https://www.repubblica.it/sport/calcio/2026/04/01/news/italia_mondiali_mancata_qualificazione_commento-425256699/",
-        "https://www.adnkronos.com/sport/i-ragazzi-che-non-vedranno-litalia-al-mondiale-la-generazione-senza-le-notti-magiche_5IqqbC3wmGpOSeOL33OV3p"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Fallimento Italia, Gravina non si dimette: \"Valutazioni in Consiglio federale\"",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Italia senza Mondiale: pressioni per far dimettere Gravina. Gattuso verso l’addio da ct",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
         "ansa.it",
         "corriere.it",
+        "lastampa.it",
         "ilgiornale.it",
         "fanpage.it",
         "adnkronos.com",
@@ -129,9 +132,9 @@
       "links": [
         "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/01/gravina-nella-tempesta-dimissioni-valuta-il-consiglio-figc-_2efa51ce-b908-4476-9750-0bfba7fe13df.html",
         "https://www.corriere.it/sport/calcio/mondiali/26_aprile_01/gattuso-lacrime-chiedo-scusa-1771641d-1925-47b4-8c91-1dae9a581xlk.shtml",
+        "https://www.lastampa.it/sport/2026/04/01/news/italia_gravina_gattuso_dimissioni_futuro-15567617/",
         "https://www.ilgiornale.it/news/calcio/processo-nazionale-italia-fuori-mondiale-tempesta-su-gravina-2645877.html",
-        "https://www.fanpage.it/sport/calcio/gravina-non-si-dimette-ho-convocato-un-consiglio-federale-e-chiedo-a-gattuso-di-rimanere/",
-        "https://www.adnkronos.com/sport/bosnia-italia-gravina-figc_4OikJdJtYr043Jam3XQHJ3"
+        "https://www.fanpage.it/sport/calcio/gravina-non-si-dimette-ho-convocato-un-consiglio-federale-e-chiedo-a-gattuso-di-rimanere/"
       ]
     },
     {
@@ -157,6 +160,26 @@
     },
     {
       "rank": 8,
+      "title": "Il difensore dei Caroccia: 'Delmastro è stato l'unico che gli ha teso una mano'",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "roma.corriere.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "roma.repubblica.it"
+      ],
+      "links": [
+        "http://roma.corriere.it/notizie/cronaca/26_aprile_01/caroccia-delmastro-vittime-interrogatorio-83e320f8-9f9b-42d1-aab4-9e24ed639xlk.shtml",
+        "https://www.adnkronos.com/cronaca/indagine-caroccia-delmastro-oggi-interrogatorio_2ATKkGxV8OtDnKhg5beK4H",
+        "https://www.ilmessaggero.it/politica/delmastro_soldi_caroccia_bisteccheria-9449664.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/01/il-difensore-dei-caroccia-delmastro-e-stato-lunico-che-gli-ha-teso-una_4af6e506-0a9c-4aa3-8980-0d15b7dc7973.html",
+        "https://roma.repubblica.it/cronaca/2026/04/01/news/caso_delmastro_caroccia_interrogatorio_procura-425257155/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Vendita di San Siro, 9 indagati. Le chat tra l'ex assessore e i consulenti: \"Niente scene...\" | Sala: \"Operato per il bene della città\"",
       "source_count": 4,
       "article_count": 5,
@@ -175,40 +198,22 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Se in Israele la pena di morte porta all’apartheid",
+      "rank": 10,
+      "title": "Carburanti, taglio delle accise fino al 30 aprile",
       "source_count": 4,
       "article_count": 5,
       "source_domains": [
-        "unita.it",
+        "ansa.it",
+        "corriere.it",
         "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.unita.it/2026/04/01/uccidere-palestinesi-non-e-reato-la-nuova-regola-del-diritto-israeliano-e-un-obbrobrio-giuridico/",
-        "https://www.repubblica.it/esteri/2026/04/01/news/pena_morte_israele_protesta_onu_ue_pizzaballa_reazione_piu_odio-425256595/",
-        "https://ilmanifesto.it/a-morte-per-apartheid-ricorso-allalta-corte",
-        "https://ilmanifesto.it/dalluccisione-lenta-allesecuzione-immediata",
-        "https://www.lastampa.it/esteri/2026/04/01/news/se_in_israele_la_pena_di_morte_porta_all_apartheid-15567108/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Latina, drogava il figlio e lo violentava inviando i video all'amante: 10 anni alla madre e all'uomo per violenza sessuale",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilmessaggero.it",
-        "fanpage.it",
-        "roma.corriere.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/latina/latina_violenta_figlio_madre_arrestata_amante-9449554.html",
-        "https://www.fanpage.it/roma/narcotizza-il-figlio-14enne-e-lo-violenta-poi-manda-i-video-allamante-condannati-a-10-anni-a-latina/",
-        "http://roma.corriere.it/notizie/cronaca/26_aprile_01/latina-drogava-il-figlio-e-lo-violentava-inviando-i-video-all-amante-10-anni-alla-madre-e-all-uomo-per-violenza-sessuale-560a5150-0615-4848-816b-4eb0570adxlk.shtml",
-        "https://www.lastampa.it/cronaca/2026/04/01/news/latina_madre_droga_figlio_filma_stupri-15567566/"
+        "https://www.ansa.it/sito/notizie/economia/2026/04/01/foti-in-settimana-faremo-il-taglio-delle-accise_a89110a2-2d7c-4085-82ef-99e24f6c723b.html",
+        "https://www.ansa.it/sito/notizie/economia/2026/03/31/il-governo-ascolta-le-imprese-e-valuta-proroga-delle-accise_a65da8e0-29d6-4592-9344-82967e46b330.html",
+        "https://www.corriere.it/economia/aziende/26_aprile_01/fondi-alle-imprese-il-governo-cerca-1-2-miliardi-ma-e-diviso-urso-preme-e-giorgetti-frena-73f39b71-482a-418f-ac7f-f63a8b01exlk.shtml",
+        "https://www.repubblica.it/economia/2026/03/31/news/taglio_accise_benzina_diesel_proroga_30_aprile-425256582/",
+        "https://www.ilsole24ore.com/art/carburanti-taglio-accise-fino-30-aprile-AId70MHC"
       ]
     }
   ]
