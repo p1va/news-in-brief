@@ -1,6 +1,6 @@
 {
   "date": "2026-04-01",
-  "generated_at": "Wed 01 Apr 13:50",
+  "generated_at": "Wed 01 Apr 15:13",
   "stories": [
     {
       "rank": 1,
@@ -30,6 +30,31 @@
     },
     {
       "rank": 2,
+      "title": "Naufragio di migranti nell'Egeo, 18 morti",
+      "source_count": 10,
+      "article_count": 15,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "repubblica.it",
+        "fanpage.it",
+        "unita.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/01/sale-a-19-il-bilancio-dei-migranti-morti-a-lampedusa.-nel-mar-egeo-18-vittime_ba898bf7-e4ea-4782-ab97-4585c3189037.html",
+        "https://www.adnkronos.com/cronaca/naufragio-lampedusa-migranti-morti_6Rwj6Zinapnhw3pbtUglAz",
+        "https://www.ilgiornale.it/news/nazionale/naufragio-lampedusa-19-migranti-morti-ipotermia-2646083.html",
+        "https://www.ilfattoquotidiano.it/2026/04/01/naufragio-nel-canale-di-sicilia-19-migranti-morti-i-58-sopravvissuti-soccorsi-e-portati-a-lampedusa/8342761/",
+        "https://www.ilmessaggero.it/italia/naufragio_lampedusa_migranti_morti_bambini-9450049.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Madre e figlia morte: non fu intossicazione. \"Uccise dalla ricina\" La pista dei familiari",
       "source_count": 8,
       "article_count": 16,
@@ -52,7 +77,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Disastro Italia, la Bosnia vince ai rigori. Azzurri fuori dal Mondiale per la terza edizione di fila",
       "source_count": 9,
       "article_count": 14,
@@ -73,29 +98,6 @@
         "https://www.corriere.it/sport/calcio/mondiali/diretta-live/26_marzo_31/bosnia-italia-qualificazioni.shtml",
         "https://www.liberoquotidiano.it/news/sport/47081197/la-bosnia-umilia-l-italia-dopo-la-partita-cosa-e-successo-dopo-il-fischio-finale/",
         "https://www.fanpage.it/sport/calcio/italia-derisa-per-il-video-dei-calciatori-che-esultano-per-la-bosnia-dimarco-ora-non-festeggi/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Rapita a Baghdad la giornalista Usa Shelly Kittleson: giallo sulla liberazione",
-      "source_count": 8,
-      "article_count": 13,
-      "source_domains": [
-        "unita.it",
-        "liberoquotidiano.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.unita.it/2026/04/01/shelly-kittleson-giornalista-usa-rapita-baghdad/",
-        "https://www.liberoquotidiano.it/news/tv-news/47084257/una-giornalista-americana-rapita-nel-centro-di-baghdad/",
-        "https://www.corriere.it/esteri/26_marzo_31/iraq-una-reporter-americana-sequestrata-da-un-commando-sciita-catturato-uno-dei-rapitori-9503455e-e849-4aef-ae1a-5aa4c0458xlk.shtml",
-        "https://www.ilgiornale.it/news/guerra/kataib-hezbollah-milizia-ombra-che-sfida-stato-chi-c-dietro-2645883.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/03/31/rapita-a-baghdad-la-giornalista-americana-shelly-kittleson-lavora-anche-per-testate_b099abaf-830e-4e37-9877-b9ca48a060c8.html"
       ]
     },
     {
@@ -147,33 +149,56 @@
     },
     {
       "rank": 7,
-      "title": "Naufragio di migranti nell'Egeo, 18 morti",
-      "source_count": 8,
+      "title": "Iraq, il rapimento della giornalista americana Shelly Kittleson a Baghdad",
+      "source_count": 7,
       "article_count": 11,
       "source_domains": [
-        "ilmessaggero.it",
-        "corriere.it",
-        "repubblica.it",
-        "ansa.it",
-        "fanpage.it",
         "unita.it",
-        "adnkronos.com",
-        "lastampa.it"
+        "liberoquotidiano.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ilmessaggero.it/italia/naufragio_lampedusa_migranti_morti_bambini-9450049.html",
-        "https://www.corriere.it/cronache/26_aprile_01/lampedusa-19-migranti-morti-e-cinque-in-condizioni-critiche-erano-su-un-barcone-agganciato-dalla-guardia-costiera-i-decessi-per-a1862383-87e4-40a0-8e9e-3c3d65956xlk.shtml",
-        "https://www.corriere.it/cronache/26_aprile_01/lampedusa-19-migranti-morti-e-cinque-in-condizioni-critiche-erano-su-un-barcone-agganciato-dalla-guardia-costiera-i-decessi-per-a1862383-87e4-40a0-8e9e-3c3d65956xlk.shtml",
-        "https://www.repubblica.it/cronaca/2026/04/01/news/migranti_lampedusa_naufragio_morti-425257890/",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/01/diciotto-migranti-morti-a-lampedusa.-altrettante-vittime-nel-mar-egeo_ba898bf7-e4ea-4782-ab97-4585c3189037.html"
+        "https://www.unita.it/2026/04/01/shelly-kittleson-giornalista-usa-rapita-baghdad/",
+        "https://www.liberoquotidiano.it/news/tv-news/47084257/una-giornalista-americana-rapita-nel-centro-di-baghdad/",
+        "https://www.corriere.it/esteri/26_marzo_31/iraq-una-reporter-americana-sequestrata-da-un-commando-sciita-catturato-uno-dei-rapitori-9503455e-e849-4aef-ae1a-5aa4c0458xlk.shtml",
+        "https://www.ilgiornale.it/news/guerra/kataib-hezbollah-milizia-ombra-che-sfida-stato-chi-c-dietro-2645883.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/03/31/rapita-a-baghdad-la-giornalista-americana-shelly-kittleson-lavora-anche-per-testate_b099abaf-830e-4e37-9877-b9ca48a060c8.html"
       ]
     },
     {
       "rank": 8,
-      "title": "La difesa dei Caroccia davanti ai pm: “I soldi sono di Delmastro, non della criminalità”",
-      "source_count": 7,
-      "article_count": 8,
+      "title": "Crosetto nega ai bombardieri Usa la base di Sigonella",
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/politica/sigonella-cosa-prevedono-gli-accordi-italia-usa-sullutilizzo-delle-basi-e-quando-serve-lok-del-parlamento/",
+        "https://www.ilgiornale.it/news/politica/sigonella-base-negata-trump-cos-governo-spiazza-sinistra-2645764.html",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/04/01/prime-pagine-crosetto-nega-ai-bombardieri-usa-la-base-di-sigonella_ce879dca-f0ed-4fb8-aa1e-d4ed6b0e86ba.html",
+        "https://www.lastampa.it/politica/2026/04/01/news/tensione_roma_washington_negata_base_sigonella-15567472/",
+        "https://ilmanifesto.it/crosetto-dice-no-ai-bombardieri-americani-in-sicilia"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "La difesa dei Caroccia davanti ai pm: “I soldi sono di Delmastro, non della criminalità”",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "roma.corriere.it",
         "adnkronos.com",
@@ -183,53 +208,34 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/01/caso-delmastro-caroccia-interrogatorio-clan-senese-notizie/8342719/",
         "https://www.ilgiornale.it/news/magistratura/i-caroccia-interrogati-dai-pm-delmastro-estraneo-2645889.html",
         "http://roma.corriere.it/notizie/cronaca/26_aprile_01/caroccia-delmastro-vittime-interrogatorio-83e320f8-9f9b-42d1-aab4-9e24ed639xlk.shtml",
         "https://www.adnkronos.com/cronaca/indagine-caroccia-delmastro-oggi-interrogatorio_2ATKkGxV8OtDnKhg5beK4H",
-        "https://www.ilmessaggero.it/politica/delmastro_soldi_caroccia_bisteccheria-9449664.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/01/il-difensore-dei-caroccia-delmastro-e-stato-lunico-che-gli-ha-teso-una_4af6e506-0a9c-4aa3-8980-0d15b7dc7973.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Scuola, 143 euro di aumento ai prof. Valditara: \"Risultato storico\"",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/contratto-scuola-aumenti-in-busta-paga-per-insegnanti-e-ata-le-novita_3FXhIhm7Y4Fi5d8g9LFaBv",
-        "https://www.liberoquotidiano.it/news/pillole/47084270/scuola_valditara_con_tre_rinnovi_del_contratto_risultato_storico_/",
-        "https://www.ilgiornale.it/news/governo/scuola-firmato-rinnovo-143-euro-aumento-ai-prof-2646004.html",
-        "https://www.corriere.it/scuola/26_aprile_01/scuola-firmato-il-nuovo-contratto-aumenti-medi-da-137-euro-per-1-3-milioni-di-lavoratori-e0fee9ad-96a3-4ada-aace-a346caaa2xlk.shtml",
-        "https://www.ansa.it/canale_legalita_scuola/notizie/2026/04/01/firmato-il-contratto-scuola-137-euro-di-aumento-medio_cf16ff62-f9d0-410e-ab1a-649bbba95996.html"
+        "https://www.ilmessaggero.it/politica/delmastro_soldi_caroccia_bisteccheria-9449664.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Crosetto nega ai bombardieri Usa la base di Sigonella",
-      "source_count": 6,
-      "article_count": 8,
+      "title": "Addio al giornalista Roberto Arditti",
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "ilgiornale.it",
         "ansa.it",
-        "lastampa.it",
-        "ilmanifesto.it",
+        "roma.corriere.it",
         "ilmessaggero.it",
-        "ilsole24ore.com"
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/sigonella-base-negata-trump-cos-governo-spiazza-sinistra-2645764.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/04/01/prime-pagine-crosetto-nega-ai-bombardieri-usa-la-base-di-sigonella_ce879dca-f0ed-4fb8-aa1e-d4ed6b0e86ba.html",
-        "https://www.lastampa.it/politica/2026/04/01/news/tensione_roma_washington_negata_base_sigonella-15567472/",
-        "https://ilmanifesto.it/crosetto-dice-no-ai-bombardieri-americani-in-sicilia",
-        "https://www.ilgiornale.it/news/interni/negata-base-sigonella-agli-aerei-usa-2645417.html"
+        "https://www.ansa.it/sito/notizie/politica/2026/04/01/malore-per-il-giornalista-roberto-arditti-condizioni-estremamente-gravi_d9bc754d-bff8-48af-a985-3d9f846c0c5f.html",
+        "http://roma.corriere.it/notizie/cronaca/26_aprile_01/il-giornalista-roberto-arditti-e-in-condizioni-gravissime-all-ospedale-san-camillo-di-roma-69669ed2-2100-4f4b-bfce-ca835a9bexlk.shtml",
+        "https://www.ilmessaggero.it/persone/roberto_arditti_giornalista_come_sta_infarto-9450069.html",
+        "https://www.fanpage.it/spettacolo/personaggi/e-morto-roberto-arditti-ex-direttore-de-il-tempo-e-autore-di-porta-a-porta-aveva-60-anni/",
+        "https://www.ilfattoquotidiano.it/2026/04/01/roberto-arditti-morto-giornalista-news/8342705/"
       ]
     }
   ]
