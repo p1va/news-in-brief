@@ -1,12 +1,12 @@
 {
   "date": "2026-04-02",
-  "generated_at": "Thu 02 Apr 19:10",
+  "generated_at": "Thu 02 Apr 20:43",
   "stories": [
     {
       "rank": 1,
       "title": "Gravina si è dimesso da presidente della Figc, il 22 giugno le elezioni per la successione",
       "source_count": 14,
-      "article_count": 31,
+      "article_count": 30,
       "source_domains": [
         "ansa.it",
         "video.corriere.it",
@@ -33,34 +33,9 @@
     },
     {
       "rank": 2,
-      "title": "Iran, Trump: \"Li colpiremo con estrema durezza nelle prossime due o tre settimane\"",
-      "source_count": 10,
-      "article_count": 27,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "unita.it",
-        "ilmanifesto.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/02/liran-tornera-alleta-della-pietra-ma-trump-non-da-la-linea_2d4a8692-a6bc-468c-aba8-61e8242f2e8f.html",
-        "https://www.ilgiornale.it/news/guerra/missili-caccia-marina-e-atomica-ecco-i-quattro-obiettivi-usa-2646552.html",
-        "https://www.corriere.it/oriente-occidente-federico-rampini/26_aprile_02/trump-dice-una-cosa-teheran-ne-sente-un-altra-97ff4261-a532-48ba-9efd-a9806caccxlk.shtml",
-        "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/04/02/news/usa_iran_vittoria_dal_cielo-425260324/",
-        "https://video.corriere.it/esteri/teheran-i-raid-di-usa-e-israele-sono-insignificanti-ignorano-la-nostra-potenza-militare-/af445277-7b7c-4370-b2d8-730814906xlk"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Il ritorno dell'uomo sulla Luna, è partita la missione Artemis II VIDEO",
       "source_count": 12,
-      "article_count": 24,
+      "article_count": 23,
       "source_domains": [
         "liberoquotidiano.it",
         "ilgiornale.it",
@@ -84,35 +59,59 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "Il testo integrale del discorso di Trump alla nazione sull'Iran",
+      "source_count": 9,
+      "article_count": 26,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "unita.it",
+        "ilmanifesto.it",
+        "adnkronos.com",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/02/liran-tornera-alleta-della-pietra-ma-trump-non-da-la-linea_2d4a8692-a6bc-468c-aba8-61e8242f2e8f.html",
+        "https://www.ilgiornale.it/news/guerra/missili-caccia-marina-e-atomica-ecco-i-quattro-obiettivi-usa-2646552.html",
+        "https://www.corriere.it/oriente-occidente-federico-rampini/26_aprile_02/trump-dice-una-cosa-teheran-ne-sente-un-altra-97ff4261-a532-48ba-9efd-a9806caccxlk.shtml",
+        "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/04/02/news/usa_iran_vittoria_dal_cielo-425260324/",
+        "https://video.corriere.it/esteri/teheran-i-raid-di-usa-e-israele-sono-insignificanti-ignorano-la-nostra-potenza-militare-/af445277-7b7c-4370-b2d8-730814906xlk"
+      ]
+    },
+    {
       "rank": 4,
       "title": "Maltempo, crolla il ponte sul Trigno tra Abruzzo e Molise",
       "source_count": 10,
-      "article_count": 20,
+      "article_count": 18,
       "source_domains": [
-        "ilmanifesto.it",
         "ansa.it",
-        "video.corriere.it",
-        "liberoquotidiano.it",
+        "ilmanifesto.it",
         "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "adnkronos.com",
         "fanpage.it",
+        "corriere.it",
         "unita.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/02/il-maltempo-sferza-il-centro-sud-crolla-un-ponte-si-temono-vittime_80c24a34-ef49-4c31-819e-f6c0e950a4c0.html",
         "https://ilmanifesto.it/emergenza-molise-crolla-un-ponte-italia-spezzata-in-due",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/02/il-maltempo-sferza-il-centro-sud-unauto-coinvolta-nel-crollo-del-ponte_b4e49fb5-4485-4489-84f3-42eaee680148.html",
-        "https://video.corriere.it/le-immagini-dal-drone-del-ponte-crollato-sul-fiume-trigno/f2165cad-bfa1-4e96-881f-c113fe680xlk",
-        "https://www.liberoquotidiano.it/news/tv-news/47105853/maltempo-in-abruzzo-l-esondazione-del-fiume-pescara-dall-alto/",
-        "https://video.corriere.it/grave-smottamento-a-rapolla-il-video-del-muro-di-contenimento-crollato-in-centro-citta/a46096d0-d29e-4b1c-b00d-a7aea0ebexlk"
+        "https://www.ansa.it/sito/videogallery/italia/2026/04/02/maltempo-in-molise-crolla-ponte-sul-trigno-lungo-la-statale-16-adriatica_0964ae8b-16ca-48ed-accb-34c8b8ca448e.html",
+        "https://www.ilfattoquotidiano.it/cronaca/live-post/2026/04/02/maltempo-pasqua-frane-abruzzo-marche-molise-news/8343765/"
       ]
     },
     {
       "rank": 5,
       "title": "'Relazione con Piantedosi', nel governo scoppia il caso di Claudia Conte",
-      "source_count": 10,
-      "article_count": 17,
+      "source_count": 9,
+      "article_count": 16,
       "source_domains": [
         "repubblica.it",
         "liberoquotidiano.it",
@@ -122,7 +121,6 @@
         "fanpage.it",
         "lastampa.it",
         "ilmanifesto.it",
-        "ilmessaggero.it",
         "ansa.it"
       ],
       "links": [
@@ -137,12 +135,12 @@
       "rank": 6,
       "title": "Caso Almasri: Italia deferita ad assemblea della Cpi per mancata cooperazione",
       "source_count": 9,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
+        "ansa.it",
         "unita.it",
         "roma.corriere.it",
         "fanpage.it",
-        "ansa.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
@@ -150,11 +148,11 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/02/la-corte-penale-internazionale-ufficializza-il-deferimento-dellitalia-sul-caso-almasri_404378db-cc01-40d3-bdb8-4b92b61598ef.html",
         "https://www.unita.it/2026/04/02/almasri-italia-deferita-corte-penale-internazionale/",
         "https://roma.corriere.it/notizie/politica/26_aprile_02/caso-almasri-italia-deferita-ad-assemblea-cpi-per-mancata-cooperazione-b6ccd5c7-bf1c-4182-ad3d-3e87d03ccxlk.shtml",
         "https://www.fanpage.it/politica/caso-almasri-litalia-e-stata-deferita-allassemblea-della-corte-penale-internazionale-per-mancata-cooperazione/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/02/il-cpi-ufficializza-litalia-deferita-allassemblea-degli-stati-su-almasri_404378db-cc01-40d3-bdb8-4b92b61598ef.html",
-        "https://www.repubblica.it/politica/2026/04/02/news/caso_almasri_italia_deferita_cpi_che_cosa_significa_davvero-425260283/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/02/il-cpi-ufficializza-litalia-deferita-allassemblea-degli-stati-su-almasri_404378db-cc01-40d3-bdb8-4b92b61598ef.html"
       ]
     },
     {
@@ -183,6 +181,53 @@
     },
     {
       "rank": 8,
+      "title": "Caso Ramy, chiesto il processo per il carabiniere che lo inseguiva per omicidio stradale e per 6 militari per falso",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "milano.corriere.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "milano.repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/caso-ramy-procura-milano-chiede-processo_6AHgbUUmCPGK63LQT6C5sz",
+        "https://milano.corriere.it/notizie/cronaca/26_aprile_02/ramy-chiesto-il-processo-per-il-carabiniere-e-per-l-amico-del-19enne-morto-a-milano-per-i-pm-fu-omicidio-stradale-40e746cb-1cd3-4564-b0e7-350492b0axlk.shtml",
+        "https://www.fanpage.it/milano/caso-ramy-chiesto-il-processo-per-il-carabiniere-che-lo-inseguiva-per-omicidio-stradale-e-per-6-militari-per-falso/",
+        "https://www.ilmessaggero.it/italia/ramy_elgaml_processo_carabiniere_inseguimento_omicidio_stradale-9452351.html",
+        "https://www.liberoquotidiano.it/news/milano/47105708/ramy-omicidio-stradale-pm-processo-carabiniere/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Trump licenzia la procuratrice generale Pam Bondi: troppo debole con gli avversari del tycoon",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/02/trump-silura-lattorney-general-pam-bondi_2e655be1-b153-4318-b8f7-d49903f70fc2.html",
+        "https://www.corriere.it/esteri/26_aprile_02/donald-trump-licenzia-pam-nondi-attorney-general-della-casa-bianca-df482fb5-a181-4439-847b-45ed095e1xlk.shtml",
+        "https://www.ilfattoquotidiano.it/2026/04/02/stati-uniti-trump-silura-la-procuratrice-generale-pam-bondi/8344459/",
+        "https://www.ilgiornale.it/news/politica-estera/trump-silura-pam-bondi-dipartimento-giustizia-suo-posto-2646568.html",
+        "https://www.ilmessaggero.it/mondo/pam_bondi_licenziata_trump_chi_e-9452437.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Trump minaccia di uscire dalla NATO: l’alternativa è un esercito europeo",
       "source_count": 7,
       "article_count": 8,
@@ -201,50 +246,6 @@
         "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/04/02/prime-pagine-trumpminaccia-laddio-alla-nato-e-una-tigre-di-carta_bfa1e304-8a0e-4aec-9080-459aa5a389a0.html",
         "https://www.fanpage.it/scanner/trump-minaccia-di-uscire-dalla-nato-lalternativa-e-un-esercito-europeo/",
         "https://www.repubblica.it/esteri/2026/04/02/news/trump_nato_minaccia_abbandono_tregua_iran-425258723/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Federica Pellegrini mamma bis: è nata la figlia Rachele",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "corriere.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/02/la-nostra-piccola-e-nata-con-la-luna-rosa-federica-pellegrini-mamma-bis-ecco-la-prima-foto-di-rachele/8343785/",
-        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/04/02/federica-pellegrini-di-nuovo-mamma-e-nata-rachele_6ebec491-dac8-47c7-9056-b7e4b8500b1a.html",
-        "https://www.ilgiornale.it/news/personaggi/federica-pellegrini-mamma-bis-nata-rachele-2646421.html",
-        "https://www.adnkronos.com/sport/federica-pellegrini-mamma-bis-e-nata-la-figlia-rachele_3In0hEnmKGQuZfVMtsh1DT",
-        "https://www.fanpage.it/spettacolo/gossip/federica-pellegrini-e-matteo-giunta-genitori-bis-e-nata-rachele/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Caso Ramy, chiesto il processo per il carabiniere che lo inseguiva per omicidio stradale e per 6 militari per falso",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "milano.corriere.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/caso-ramy-procura-milano-chiede-processo_6AHgbUUmCPGK63LQT6C5sz",
-        "https://milano.corriere.it/notizie/cronaca/26_aprile_02/ramy-chiesto-il-processo-per-il-carabiniere-e-per-l-amico-del-19enne-morto-a-milano-per-i-pm-fu-omicidio-stradale-40e746cb-1cd3-4564-b0e7-350492b0axlk.shtml",
-        "https://www.fanpage.it/milano/caso-ramy-chiesto-il-processo-per-il-carabiniere-che-lo-inseguiva-per-omicidio-stradale-e-per-6-militari-per-falso/",
-        "https://www.ilmessaggero.it/italia/ramy_elgaml_processo_carabiniere_inseguimento_omicidio_stradale-9452351.html",
-        "https://www.liberoquotidiano.it/news/milano/47105708/ramy-omicidio-stradale-pm-processo-carabiniere/"
       ]
     }
   ]
