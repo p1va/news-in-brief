@@ -1,9 +1,36 @@
 {
   "date": "2026-04-02",
-  "generated_at": "Thu 02 Apr 11:55",
+  "generated_at": "Thu 02 Apr 13:28",
   "stories": [
     {
       "rank": 1,
+      "title": "Gravina può dimettersi, la diretta della riunione in Figc",
+      "source_count": 12,
+      "article_count": 23,
+      "source_domains": [
+        "unita.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "corriere.it",
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.unita.it/2026/04/02/dimissioni-gravina-presidente-federcalcio-flop-nazionale-mondiali/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/02/dimissioni-di-gravina-il-22-giugno-elezioni-presidente-figc_a3615b98-3602-4468-9646-1428ba186523.html",
+        "https://www.ilfattoquotidiano.it/2026/04/02/gravina-dimissioni-figc-presidente-prossime-elezioni-diretta-news-oggi/8343936/",
+        "https://www.fanpage.it/sport/calcio/gravina-si-e-dimesso-da-presidente-della-figc-dopo-il-fallimento-mondiale-elezioni-il-22-giugno/",
+        "https://www.repubblica.it/sport/calcio/2026/04/02/diretta/gravina_dimissioni_vertice_figc_diretta-425260255/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Iran, Trump: \"Li colpiremo con estrema durezza nelle prossime due o tre settimane\"",
       "source_count": 10,
       "article_count": 22,
@@ -28,7 +55,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Il ritorno dell'uomo sulla Luna, è partita la missione Artemis II VIDEO",
       "source_count": 12,
       "article_count": 19,
@@ -55,105 +82,85 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Maltempo, crolla un ponte tra Abruzzo e Molise: frane e allagamenti, preoccupa la portata dei fiumi",
+      "rank": 4,
+      "title": "Maltempo, crolla il ponte sul Trigno tra Abruzzo e Molise",
       "source_count": 11,
-      "article_count": 17,
+      "article_count": 20,
       "source_domains": [
+        "ansa.it",
         "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "adnkronos.com",
-        "liberoquotidiano.it",
         "fanpage.it",
         "corriere.it",
         "unita.it",
-        "ansa.it",
         "lastampa.it",
         "ilmessaggero.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/videogallery/italia/2026/04/02/maltempo-in-molise-crolla-ponte-sul-trigno-lungo-la-statale-16-adriatica_0964ae8b-16ca-48ed-accb-34c8b8ca448e.html",
         "https://www.ilfattoquotidiano.it/cronaca/live-post/2026/04/02/maltempo-pasqua-frane-abruzzo-marche-molise-news/8343765/",
         "https://www.ilfattoquotidiano.it/2026/04/02/crollo-ponte-trigno-video-drone-notizie/8343719/",
-        "https://www.ilgiornale.it/news/nazionale/maltempo-crolla-ponte-abruzzo-e-molise-frane-e-allagamenti-2646413.html",
-        "https://www.adnkronos.com/cronaca/maltempo-crolla-ponte-sul-fiume-trigno-traffico-interrotto-sulladriatica-tra-abruzzo-e-molise_paX9xOUOnMASFpnXYov6H",
-        "https://www.liberoquotidiano.it/news/tv-news/47101168/maltempo-in-molise-crolla-un-ponte-sul-fiume-trigno-lungo-la-ss16/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Gravina verso le dimissioni, Abete e Malagò tra le ipotesi per la presidenza della FIGC",
-      "source_count": 9,
-      "article_count": 18,
-      "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "corriere.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/calcio/figc-gravina-verso-dimissioni-malag-pole-successione-2646464.html",
-        "https://www.adnkronos.com/sport/figc-gravina-verso-dimissioni-nomi-successore_7rSRH6Na1YQaE9l8aXfb0H",
-        "https://www.fanpage.it/sport/calcio/gattuso-non-si-e-dimesso-subito-dopo-bosnia-italia-perche-aveva-stretto-un-patto-con-gravina/",
-        "https://www.corriere.it/sport/calcio/mondiali/diretta-live/26_aprile_02/nazionale-mondiali-vertice-figc-diretta-gravina-gattuso-dimissioni.shtml",
-        "https://www.ilfattoquotidiano.it/2026/04/02/gravina-dimissioni-figc-mondiali-news/8343438/"
+        "https://www.liberoquotidiano.it/news/pillole/47100801/maltempo-in-molise-crolla-ponte-sulla-ss16-a-montenero-di-bisacci/",
+        "https://www.liberoquotidiano.it/news/libero-video/47100293/maltempo-crolla-ponte-trigno-abruzzo-molise/"
       ]
     },
     {
       "rank": 5,
       "title": "'Relazione con Piantedosi', nel governo scoppia il caso di Claudia Conte",
       "source_count": 9,
-      "article_count": 13,
+      "article_count": 12,
       "source_domains": [
         "unita.it",
-        "repubblica.it",
         "ilgiornale.it",
         "fanpage.it",
         "roma.corriere.it",
         "lastampa.it",
+        "repubblica.it",
         "ilmanifesto.it",
         "ilmessaggero.it",
         "ansa.it"
       ],
       "links": [
         "https://www.unita.it/2026/04/02/chi-e-claudia-conte-relazione-ministro-piantedosi-nomina-commissione/",
-        "https://www.repubblica.it/politica/2026/04/02/news/piantedosi_viminale_claudia_conte_no_rassegna_stampa_ministero-425260092/",
         "https://www.ilgiornale.it/news/politica/scoppia-caso-piantedosi-avs-chiarisca-2646228.html",
         "https://www.fanpage.it/politica/piantedosi-conte-nuova-grana-per-meloni-che-ricorda-laffaire-boccia-sangiuliano-ipotesi-rimpasto-piu-vicina/",
+        "http://roma.corriere.it/notizie/politica/26_aprile_02/piantedosi-claudia-conte-meloni-privata-9eadc2dd-926d-40f4-9114-343721895xlk.shtml",
         "http://roma.corriere.it/notizie/politica/26_aprile_02/piantedosi-claudia-conte-meloni-privata-9eadc2dd-926d-40f4-9114-343721895xlk.shtml"
       ]
     },
     {
       "rank": 6,
-      "title": "Allegri o Conte, si apre la partita per il dopo Gattuso",
-      "source_count": 5,
-      "article_count": 8,
+      "title": "Caso Almasri: Italia deferita ad assemblea della Cpi per mancata cooperazione",
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
-        "corriere.it",
         "fanpage.it",
-        "ilgiornale.it",
+        "ansa.it",
         "repubblica.it",
+        "ilfattoquotidiano.it",
+        "roma.corriere.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.corriere.it/sport/calcio/26_aprile_02/buffon-gravina-gattuso-commento-roncone-2bc37715-9316-439a-a1e1-9b0a39b91xlk.shtml",
-        "https://www.fanpage.it/sport/calcio/gattuso-e-buffon-verso-laddio-alla-nazionale-conte-e-allegri-il-sogno-ma-il-regolamento-parla-chiaro/",
-        "https://www.corriere.it/sport/26_aprile_02/la-russa-italia-allenatore-intervista-6f0e4bfa-b8d9-47ec-ab96-9ca28c245xlk.shtml",
-        "https://www.corriere.it/sport/calcio/mondiali/26_aprile_02/gattuso-futuro-dimissioni-mancini-inzaghi-conte-nazionale-db4ff611-86f2-44a0-80e8-b2766af27xlk.shtml",
-        "https://www.ilgiornale.it/news/sport/gattuso-bonucci-e-buffon-se-ex-campioni-falliscono-2646246.html"
+        "https://www.fanpage.it/politica/caso-almasri-litalia-e-stata-deferita-allassemblea-della-corte-penale-internazionale-per-mancata-cooperazione/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/02/il-cpi-ufficializza-litalia-deferita-allassemblea-degli-stati-su-almasri_404378db-cc01-40d3-bdb8-4b92b61598ef.html",
+        "https://www.repubblica.it/politica/2026/04/02/news/caso_almasri_italia_deferita_cpi_che_cosa_significa_davvero-425260283/",
+        "https://www.ilfattoquotidiano.it/2026/04/02/almasri-la-corte-penale-internazionale-deferisce-litalia-allassemblea-degli-stati-membri-impedi-arresto-e-consegna/8343862/",
+        "http://roma.corriere.it/notizie/politica/26_aprile_02/caso-almasri-italia-deferita-ad-assemblea-cpi-per-mancata-cooperazione-b6ccd5c7-bf1c-4182-ad3d-3e87d03ccxlk.shtml"
       ]
     },
     {
       "rank": 7,
-      "title": "Nato, disgusto Trump. \"È una tigre di carta. Potrei andarmene\". Il rebus delle norme",
-      "source_count": 6,
-      "article_count": 7,
+      "title": "Trump minaccia di uscire dalla NATO: l’alternativa è un esercito europeo",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "unita.it",
         "ilgiornale.it",
         "ansa.it",
         "fanpage.it",
@@ -162,15 +169,57 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.unita.it/2026/04/02/cosa-succede-se-gli-usa-escono-dalla-nato-il-futuro-dellalleanza-atlantica-in-bilico/",
         "https://www.ilgiornale.it/news/politica/nato-disgusto-trump-tigre-carta-potrei-andarmene-rebus-delle-2646223.html",
         "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/04/02/prime-pagine-trumpminaccia-laddio-alla-nato-e-una-tigre-di-carta_bfa1e304-8a0e-4aec-9080-459aa5a389a0.html",
         "https://www.fanpage.it/scanner/trump-minaccia-di-uscire-dalla-nato-lalternativa-e-un-esercito-europeo/",
-        "https://www.repubblica.it/esteri/2026/04/02/news/trump_nato_minaccia_abbandono_tregua_iran-425258723/",
-        "https://www.repubblica.it/esteri/2026/04/02/news/nato_uscita_stati_uniti_condizioni_congresso_usa_trump-425258767/"
+        "https://www.repubblica.it/esteri/2026/04/02/news/trump_nato_minaccia_abbandono_tregua_iran-425258723/"
       ]
     },
     {
       "rank": 8,
+      "title": "Gattuso pronto a lasciare: “Il futuro del nostro calcio è più importante del mio”",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "fanpage.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/calcio/gattuso-non-si-e-dimesso-subito-dopo-bosnia-italia-perche-aveva-stretto-un-patto-con-gravina/",
+        "https://www.corriere.it/sport/calcio/26_aprile_02/buffon-gravina-gattuso-commento-roncone-2bc37715-9316-439a-a1e1-9b0a39b91xlk.shtml",
+        "https://www.fanpage.it/sport/calcio/gattuso-e-buffon-verso-laddio-alla-nazionale-conte-e-allegri-il-sogno-ma-il-regolamento-parla-chiaro/",
+        "https://www.corriere.it/sport/26_aprile_02/la-russa-italia-allenatore-intervista-6f0e4bfa-b8d9-47ec-ab96-9ca28c245xlk.shtml",
+        "https://www.corriere.it/sport/calcio/mondiali/26_aprile_02/gattuso-futuro-dimissioni-mancini-inzaghi-conte-nazionale-db4ff611-86f2-44a0-80e8-b2766af27xlk.shtml"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Federica Pellegrini mamma bis: è nata la figlia Rachele",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "corriere.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/02/la-nostra-piccola-e-nata-con-la-luna-rosa-federica-pellegrini-mamma-bis-ecco-la-prima-foto-di-rachele/8343785/",
+        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/04/02/federica-pellegrini-di-nuovo-mamma-e-nata-rachele_6ebec491-dac8-47c7-9056-b7e4b8500b1a.html",
+        "https://www.ilgiornale.it/news/personaggi/federica-pellegrini-mamma-bis-nata-rachele-2646421.html",
+        "https://www.adnkronos.com/sport/federica-pellegrini-mamma-bis-e-nata-la-figlia-rachele_3In0hEnmKGQuZfVMtsh1DT",
+        "https://www.fanpage.it/spettacolo/gossip/federica-pellegrini-e-matteo-giunta-genitori-bis-e-nata-rachele/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "«Delmastro? Ci ha fatto beneficenza». L'interrogatorio di Caroccia e della figlia",
       "source_count": 6,
       "article_count": 6,
@@ -188,47 +237,6 @@
         "https://www.laverita.info/delmastro-sanzionato-dalla-camera-caroccia-da-lui-solo-beneficenza-2676651437.html",
         "https://www.lastampa.it/cronaca/2026/04/02/news/la_versione_dei_caroccia_delmastro_un_benefattore_i_senese_clienti_da_30_anni-15568878/",
         "https://ilmanifesto.it/delmastro-ha-fatto-beneficenza"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Federica Pellegrini di nuovo mamma, è nata Rachele",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "corriere.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/04/02/federica-pellegrini-di-nuovo-mamma-e-nata-rachele_6ebec491-dac8-47c7-9056-b7e4b8500b1a.html",
-        "https://www.ilgiornale.it/news/personaggi/federica-pellegrini-mamma-bis-nata-rachele-2646421.html",
-        "https://www.adnkronos.com/sport/federica-pellegrini-mamma-bis-e-nata-la-figlia-rachele_3In0hEnmKGQuZfVMtsh1DT",
-        "https://www.fanpage.it/spettacolo/gossip/federica-pellegrini-e-matteo-giunta-genitori-bis-e-nata-rachele/",
-        "https://www.corriere.it/sport/26_aprile_02/federica-pellegrini-mamma-rachele-38b6ad4f-da48-4e0c-9d5b-1ef746416xlk.shtml"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Bonifici bloccati a Pasqua, quelli istantanei sono disponibili: sistema, quanto costano e come farli",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "fanpage.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "corriere.it",
-        "unita.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/innovazione/tecnologia/target2-cose-il-sistema-ue-che-causera-il-blocco-dei-bonifici-da-oggi-al-6-aprile-quali-alternative-usare/",
-        "https://www.ilmessaggero.it/economia/news/bonifici_bloccati_come_fare_istantanei-9451892.html",
-        "https://www.ilmessaggero.it/economia/news/bonifici_bloccati_oggi_pasqua_istantanei_come_fare-9451892.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/04/01/i-bonifici-ordinari-slittano-al-7-aprile-ma-restano-gli-istantanei_0fbc1294-0f51-4a88-a56c-893d8a609cb7.html",
-        "https://www.corriere.it/economia/finanza/26_aprile_01/bonifici-bloccati-a-pasqua-perche-si-fermano-fino-al-7-aprile-e-cosa-succede-a-stipendi-e-pagamenti-2cb9460e-7351-4095-8503-7ef5f142fxlk.shtml"
       ]
     }
   ]
