@@ -1,44 +1,20 @@
 {
   "date": "2026-04-02",
-  "generated_at": "Thu 02 Apr 09:07",
+  "generated_at": "Thu 02 Apr 10:59",
   "stories": [
     {
       "rank": 1,
-      "title": "Iran, Trump: \"Siamo vicini agli obiettivi, vittorie schiaccianti\"",
-      "source_count": 10,
-      "article_count": 17,
-      "source_domains": [
-        "repubblica.it",
-        "unita.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/04/02/diretta/guerra_iran_usa_israele_news_oggi-425258919/",
-        "https://www.unita.it/2026/04/02/iran-discorso-trump-casa-bianca-guerra/",
-        "https://ilmanifesto.it/trump-parla-alla-nazione-guerra-in-iran-vicina-alla-fine",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/02/trump-nelle-prossime-2-3-settimane-colpiremo-duramente-liran-lo-riporteremo-alleta-della_0a1212ae-0d4e-4dff-b6dd-f433804befd9.html",
-        "https://www.adnkronos.com/internazionale/esteri/guerra-iran-usa-news-oggi-ultime-notizie_1BaZHr0x5wbBDYTmJgWvMz"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Il ritorno dell'uomo sulla Luna, è partita la missione Artemis II VIDEO",
-      "source_count": 11,
-      "article_count": 15,
+      "source_count": 12,
+      "article_count": 19,
       "source_domains": [
         "ansa.it",
+        "unita.it",
+        "ilgiornale.it",
         "ilfattoquotidiano.it",
         "corriere.it",
         "liberoquotidiano.it",
         "adnkronos.com",
-        "ilgiornale.it",
         "lastampa.it",
         "ilmessaggero.it",
         "repubblica.it",
@@ -46,11 +22,36 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/02/artemis-ii-dopo-54-anni-4-astronauti-di-nuovo-verso-la-luna_ca5f594a-5d10-41d8-a0c8-c9f644318f18.html",
+        "https://www.unita.it/2026/04/02/artemis-ii-luna-decollata-missione-nasa-apollo-tecnologia-italiana/",
+        "https://www.ilgiornale.it/news/scienze/reid-victor-christina-jeremy-chi-sono-astronauti-missione-2646367.html",
         "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/02/il-ritorno-delluomo-sulla-luna-e-partita-la-missione-artemis-ii-la-diretta_9f9f27a9-e2ce-4118-9986-e45d52872e33.html",
-        "https://www.ilfattoquotidiano.it/2026/04/02/artemis-missione-nasa-partita-luna-astronauti-oggi-news-foto/8343411/",
-        "https://www.corriere.it/tecnologia/diretta-live/26_aprile_01/artemis-il-lancio-in-diretta-l-uomo-torna-verso-luna-quando-parte-dove-vederlo-in-streaming-e-il-countdown-della-nasa.shtml",
-        "https://www.corriere.it/tecnologia/diretta-live/26_aprile_01/artemis-il-lancio-in-diretta-l-uomo-torna-verso-luna-quando-parte-dove-vederlo-in-streaming-e-il-countdown-della-nasa.shtml",
-        "https://www.liberoquotidiano.it/news/scienze-tech/47096530/l_umanita_torna_verso_la_luna_al_via_la_missione_artemis_2/"
+        "https://www.ilfattoquotidiano.it/2026/04/02/artemis-missione-nasa-partita-luna-astronauti-oggi-news-foto/8343411/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Il testo integrale del discorso di Trump alla nazione sull'Iran",
+      "source_count": 10,
+      "article_count": 20,
+      "source_domains": [
+        "corriere.it",
+        "repubblica.it",
+        "unita.it",
+        "ilmanifesto.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.corriere.it/esteri/26_aprile_02/testo-integrale-discorso-trump-iran-add0a015-36df-4964-abbb-f6d2d79dexlk.shtml",
+        "https://www.repubblica.it/esteri/2026/04/02/diretta/guerra_iran_usa_israele_news_oggi-425258919/",
+        "https://www.unita.it/2026/04/02/iran-discorso-trump-casa-bianca-guerra/",
+        "https://ilmanifesto.it/trump-parla-alla-nazione-guerra-in-iran-vicina-alla-fine",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47098825/trump-riporteremo-l-iran-all-eta-della-pietra/"
       ]
     },
     {
@@ -79,10 +80,11 @@
     },
     {
       "rank": 4,
-      "title": "'Relazione con Piantedosi', nel governo scoppia il caso di Claudia Conte",
-      "source_count": 8,
+      "title": "Claudia Conte: “Una relazione con il ministro Piantedosi? Non posso negarla”",
+      "source_count": 9,
       "article_count": 12,
       "source_domains": [
+        "ilgiornale.it",
         "fanpage.it",
         "roma.corriere.it",
         "lastampa.it",
@@ -93,29 +95,31 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/scoppia-caso-piantedosi-avs-chiarisca-2646228.html",
         "https://www.fanpage.it/politica/piantedosi-conte-nuova-grana-per-meloni-che-ricorda-laffaire-boccia-sangiuliano-ipotesi-rimpasto-piu-vicina/",
         "http://roma.corriere.it/notizie/politica/26_aprile_02/piantedosi-claudia-conte-meloni-privata-9eadc2dd-926d-40f4-9114-343721895xlk.shtml",
         "http://roma.corriere.it/notizie/politica/26_aprile_02/piantedosi-claudia-conte-meloni-privata-9eadc2dd-926d-40f4-9114-343721895xlk.shtml",
-        "https://www.fanpage.it/live/governo-meloni-comment-news-in-diretta/",
         "https://www.lastampa.it/politica/2026/04/02/news/claudia_conte_piantedosi_relazione_rivelazione-15568851/"
       ]
     },
     {
       "rank": 5,
-      "title": "Il maltempo flagella il Centro-Sud, crollato il ponte sul Trigno lungo la statale 16 Adriatica",
-      "source_count": 6,
+      "title": "Maltempo al Centrosud, fiumi esondati e strade chiuse",
+      "source_count": 8,
       "article_count": 11,
       "source_domains": [
-        "corriere.it",
-        "ansa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "foggia.corriere.it",
         "lastampa.it",
+        "ansa.it",
         "ilmessaggero.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
-        "https://www.corriere.it/cronache/diretta-live/26_aprile_02/maltempo-in-abruzzo-marche-e-molise-le-notizie-in-diretta.shtml",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/02/il-maltempo-flagella-il-centro-sud-crollato-il-ponte-sul-trigno-lungo-la-statale_b4e49fb5-4485-4489-84f3-42eaee680148.html",
+        "https://www.ilfattoquotidiano.it/2026/04/02/linea-adriatica-treni-cancellati-esondazione-osento-notizie/8343455/",
+        "https://www.liberoquotidiano.it/news/tv-news/47099492/maltempo-al-centro-sud-oltre-800-interventi-dei-vigili-del-fuoco/",
         "http://foggia.corriere.it/notizie/cronaca/26_aprile_02/maltempo-nel-foggiano-soccorsi-50-automobilisti-e-40-residenti-in-masserie-esonda-il-fiume-cervaro-campagne-sott-acqua-9a157133-35e1-41f1-86d9-aeafbdb75xlk.shtml",
         "https://www.corriere.it/cronache/26_aprile_02/il-meteo-di-oggi-giovedi-2-aprile-maltempo-al-sud-e-interventi-di-soccorso-nel-foggiano-mentre-il-nord-resta-soleggiato-5054a163-fbda-4655-914f-30fd4d63axlk.shtml",
         "https://video.corrieredelmezzogiorno.corriere.it/foggia-allerta-maltempo-in-tutta-la-capitanata/76c6dbd2-bd95-4e1d-b857-ec1dd9309xlk"
@@ -123,6 +127,29 @@
     },
     {
       "rank": 6,
+      "title": "Maltempo, crolla un ponte sul fiume Trigno tra Abruzzo e Molise: interrotti i collegamenti stradali",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "corriere.it",
+        "unita.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/02/crollo-ponte-trigno-video-drone-notizie/8343719/",
+        "https://www.ilgiornale.it/news/nazionale/maltempo-crolla-ponte-abruzzo-e-molise-frane-e-allagamenti-2646413.html",
+        "https://www.adnkronos.com/cronaca/maltempo-crolla-ponte-sul-fiume-trigno-traffico-interrotto-sulladriatica-tra-abruzzo-e-molise_paX9xOUOnMASFpnXYov6H",
+        "https://www.fanpage.it/attualita/maltempo-crolla-un-ponte-sul-fiume-trigno-tra-abruzzo-e-molise-interrotti-i-collegamenti-stradali/",
+        "https://www.ilfattoquotidiano.it/2026/04/02/crollo-ponte-statale-16-fiume-trigno-molise-abruzzo-maltempo-ultime-notizie/8343545/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Allegri o Conte, si apre la partita per il dopo Gattuso",
       "source_count": 5,
       "article_count": 8,
@@ -142,11 +169,12 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Trump minaccia di uscire dalla NATO: l’alternativa è un esercito europeo",
-      "source_count": 5,
-      "article_count": 6,
+      "rank": 8,
+      "title": "Nato, disgusto Trump. \"È una tigre di carta. Potrei andarmene\". Il rebus delle norme",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
+        "ilgiornale.it",
         "ansa.it",
         "fanpage.it",
         "repubblica.it",
@@ -154,39 +182,20 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/nato-disgusto-trump-tigre-carta-potrei-andarmene-rebus-delle-2646223.html",
         "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/04/02/prime-pagine-trumpminaccia-laddio-alla-nato-e-una-tigre-di-carta_bfa1e304-8a0e-4aec-9080-459aa5a389a0.html",
         "https://www.fanpage.it/scanner/trump-minaccia-di-uscire-dalla-nato-lalternativa-e-un-esercito-europeo/",
         "https://www.repubblica.it/esteri/2026/04/02/news/trump_nato_minaccia_abbandono_tregua_iran-425258723/",
-        "https://www.repubblica.it/esteri/2026/04/02/news/nato_uscita_stati_uniti_condizioni_congresso_usa_trump-425258767/",
-        "https://ilmanifesto.it/usa-fuori-dalla-nato-la-minaccia-di-trump-assolutamente-forse"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Mamma e figlia morte a Campobasso, nel sangue del marito non c’è traccia di ricina: anche lui era finito in ospedale",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "fanpage.it",
-        "corriere.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/attualita/mamma-e-figlia-morte-a-campobasso-nel-sangue-del-marito-non-ce-traccia-di-ricina-anche-lui-era-finito-in-ospedale/",
-        "https://www.corriere.it/cronache/26_aprile_01/campobasso-madre-figlia-uccise-ricina-marito-274b221f-c202-4305-a497-e74b97a21xlk.shtml",
-        "https://www.liberoquotidiano.it/news/italia/47085719/mamma-figlie-avvelenate-nessuna-traccia-ricina-scoperta-marito-ospedale/",
-        "https://www.ilmessaggero.it/persone/madre_figlia_morte_avvelenate_campobasso_marito_liti_famiglia-9450549.html",
-        "https://www.lastampa.it/cronaca/2026/04/01/news/campobasso_madre_figlia_avvelenate_ricina_marito_nessuna_traccia-15568123/"
+        "https://www.repubblica.it/esteri/2026/04/02/news/nato_uscita_stati_uniti_condizioni_congresso_usa_trump-425258767/"
       ]
     },
     {
       "rank": 9,
       "title": "«Delmastro? Ci ha fatto beneficenza». L'interrogatorio di Caroccia e della figlia",
-      "source_count": 5,
-      "article_count": 5,
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
+        "ilgiornale.it",
         "roma.corriere.it",
         "laverita.info",
         "lastampa.it",
@@ -194,31 +203,32 @@
         "ansa.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/caroccia-e-figlia-interrogati-dda-e-delmastro-arriva-censura-2646227.html",
         "http://roma.corriere.it/notizie/cronaca/26_aprile_02/caso-delmastro-interrogatorio-caroccia-figlia-clan-bd983111-29ca-482a-a982-5a6af9fb9xlk.shtml",
         "https://www.laverita.info/delmastro-sanzionato-dalla-camera-caroccia-da-lui-solo-beneficenza-2676651437.html",
         "https://www.lastampa.it/cronaca/2026/04/02/news/la_versione_dei_caroccia_delmastro_un_benefattore_i_senese_clienti_da_30_anni-15568878/",
-        "https://ilmanifesto.it/delmastro-ha-fatto-beneficenza",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/01/mauro-caroccia-ai-pm-delmastro-ci-ha-fatto-beneficienza_cedd0316-84b9-46fe-b972-6f16ab10e70a.html"
+        "https://ilmanifesto.it/delmastro-ha-fatto-beneficenza"
       ]
     },
     {
       "rank": 10,
-      "title": "Conferenza remigrazione, sospesi i parlamentari Pd, M5s e Avs che hanno occupato la sala",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Federica Pellegrini di nuovo mamma, è nata Rachele",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
+        "ansa.it",
         "ilgiornale.it",
+        "adnkronos.com",
+        "fanpage.it",
         "corriere.it",
-        "repubblica.it",
-        "ilsole24ore.com",
-        "news.google.com"
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/interni/conferenza-remigrazione-sospesi-i-parlamentari-pd-m5s-e-avs-2646192.html",
-        "https://www.corriere.it/politica/26_aprile_01/sospesi-22-deputati-dell-opposizione-impedirono-una-conferenza-di-casapound-a-montecitorio-f859b55c-bd76-4391-a8a7-8af5a228exlk.shtml",
-        "https://www.repubblica.it/politica/2026/04/01/news/deputati_pd_m5s_avs_sospensione_occupazione_sala_stampa_remigrazione_casapound-425258594/",
-        "https://www.ilsole24ore.com/art/conferenza-remigrazione-5-giorni-sospensione-22-deputati-e-4-ad-altri-10-AIdA3lIC",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaGFsc0FSRmpKS3lsWU5VWXU4QXJaZHNOTkVPek9GU3NsX3hkRVdvOHg4SlE1bTlJenAwVFJZekRKblhRRWZNaDloRG1BZDhRR1RjbmR2QVpjX0lkUmlIU1EwN2h3eWRvUVZHcElDbHYyWkxVSXZ3WkN2aHVZNTRmbnNmczlVMXN6cU1DVG9INA?oc=5"
+        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/04/02/federica-pellegrini-di-nuovo-mamma-e-nata-rachele_6ebec491-dac8-47c7-9056-b7e4b8500b1a.html",
+        "https://www.ilgiornale.it/news/personaggi/federica-pellegrini-mamma-bis-nata-rachele-2646421.html",
+        "https://www.adnkronos.com/sport/federica-pellegrini-mamma-bis-e-nata-la-figlia-rachele_3In0hEnmKGQuZfVMtsh1DT",
+        "https://www.fanpage.it/spettacolo/gossip/federica-pellegrini-e-matteo-giunta-genitori-bis-e-nata-rachele/",
+        "https://www.corriere.it/sport/26_aprile_02/federica-pellegrini-mamma-rachele-38b6ad4f-da48-4e0c-9d5b-1ef746416xlk.shtml"
       ]
     }
   ]
