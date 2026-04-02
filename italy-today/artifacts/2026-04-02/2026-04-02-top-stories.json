@@ -1,6 +1,6 @@
 {
   "date": "2026-04-02",
-  "generated_at": "Thu 02 Apr 19:06",
+  "generated_at": "Thu 02 Apr 19:10",
   "stories": [
     {
       "rank": 1,
@@ -33,6 +33,31 @@
     },
     {
       "rank": 2,
+      "title": "Iran, Trump: \"Li colpiremo con estrema durezza nelle prossime due o tre settimane\"",
+      "source_count": 10,
+      "article_count": 27,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "unita.it",
+        "ilmanifesto.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/02/liran-tornera-alleta-della-pietra-ma-trump-non-da-la-linea_2d4a8692-a6bc-468c-aba8-61e8242f2e8f.html",
+        "https://www.ilgiornale.it/news/guerra/missili-caccia-marina-e-atomica-ecco-i-quattro-obiettivi-usa-2646552.html",
+        "https://www.corriere.it/oriente-occidente-federico-rampini/26_aprile_02/trump-dice-una-cosa-teheran-ne-sente-un-altra-97ff4261-a532-48ba-9efd-a9806caccxlk.shtml",
+        "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/04/02/news/usa_iran_vittoria_dal_cielo-425260324/",
+        "https://video.corriere.it/esteri/teheran-i-raid-di-usa-e-israele-sono-insignificanti-ignorano-la-nostra-potenza-militare-/af445277-7b7c-4370-b2d8-730814906xlk"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Il ritorno dell'uomo sulla Luna, è partita la missione Artemis II VIDEO",
       "source_count": 12,
       "article_count": 24,
@@ -56,31 +81,6 @@
         "https://www.lastampa.it/esteri/2026/04/02/video/artemis_leccezionale_ripresa_della_partenza_fatta_da_una_passeggera_a_bordo_di_un_volo_di_linea-15569560/",
         "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/02/artemis-ii-dopo-54-anni-4-astronauti-di-nuovo-verso-la-luna_ca5f594a-5d10-41d8-a0c8-c9f644318f18.html",
         "https://www.repubblica.it/esteri/2026/04/02/news/shuttle_armstrong_apollo_artemis_luna-425259942/"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Iran, Trump: \"Li colpiremo con estrema durezza nelle prossime due o tre settimane\"",
-      "source_count": 10,
-      "article_count": 26,
-      "source_domains": [
-        "ilgiornale.it",
-        "corriere.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "unita.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/guerra/missili-caccia-marina-e-atomica-ecco-i-quattro-obiettivi-usa-2646552.html",
-        "https://www.corriere.it/oriente-occidente-federico-rampini/26_aprile_02/trump-dice-una-cosa-teheran-ne-sente-un-altra-97ff4261-a532-48ba-9efd-a9806caccxlk.shtml",
-        "https://www.repubblica.it/esteri/rubriche/la-sottile-linea-rossa/2026/04/02/news/usa_iran_vittoria_dal_cielo-425260324/",
-        "https://video.corriere.it/esteri/teheran-i-raid-di-usa-e-israele-sono-insignificanti-ignorano-la-nostra-potenza-militare-/af445277-7b7c-4370-b2d8-730814906xlk",
-        "https://www.corriere.it/esteri/26_aprile_02/testo-integrale-discorso-trump-iran-add0a015-36df-4964-abbb-f6d2d79dexlk.shtml"
       ]
     },
     {
