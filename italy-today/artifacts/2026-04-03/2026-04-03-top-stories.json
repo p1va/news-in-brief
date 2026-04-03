@@ -1,6 +1,6 @@
 {
   "date": "2026-04-03",
-  "generated_at": "Fri 03 Apr 16:52",
+  "generated_at": "Fri 03 Apr 17:41",
   "stories": [
     {
       "rank": 1,
@@ -109,6 +109,58 @@
     },
     {
       "rank": 5,
+      "title": "Netflix, rincari degli abbonamenti illegittimi: \"Rimborsi fino a 500 euro ai clienti\". La sentenza",
+      "source_count": 11,
+      "article_count": 14,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "corriere.it",
+        "unita.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/attualit/aumenti-abbonamenti-netflix-illegittimi-ecco-procedere-2646916.html",
+        "https://www.ilfattoquotidiano.it/2026/04/03/netflix-rimborsi-aumenti-illegittimi-sentenza-oggi/8345516/",
+        "https://www.fanpage.it/innovazione/tecnologia/netflix-come-chiedere-il-rimborso-per-gli-abbonamenti-la-procedura-per-avere-fino-a-500-euro/",
+        "https://www.ilgiornale.it/news/entertainment-e-servizi/netflix-rincari-illegittimi-rimborsi-fino-500-euro-cosa-2646860.html",
+        "https://www.ansa.it/sito/notizie/economia/2026/04/03/vittoria-dei-consumatori-su-netflix-illegittimi-i-rincari-della-piattaforma_7dc179d5-3057-4d3b-af22-ddd22f8b90fb.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Blitz di Meloni nel Golfo, 'missione per la sicurezza energetica'",
+      "source_count": 11,
+      "article_count": 14,
+      "source_domains": [
+        "video.corriere.it",
+        "ilmessaggero.it",
+        "unita.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://video.corriere.it/politica/governo-blitz-di-meloni-nel-golfo-missione-per-sicurezza-energetica-/aaa6e277-681c-482e-80f0-6a4bba29cxlk",
+        "https://www.ilmessaggero.it/politica/meloni_missione_sorpresa_gas_medio_oriente_perche-9454304.html",
+        "https://www.unita.it/2026/04/03/meloni-visita-arabia-saudita-qatar-emirati-missione-sicurezza-energetica/",
+        "https://roma.corriere.it/notizie/politica/26_aprile_03/meloni-blitz-golfo-persico-arabia-saudita-emirati-qatar-6ed177ff-e032-4919-9b84-0de5051a0xlk.shtml",
+        "https://roma.corriere.it/notizie/politica/26_aprile_03/meloni-blitz-golfo-persico-arabia-saudita-emirati-qatar-6ed177ff-e032-4919-9b84-0de5051a0xlk.shtml"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Gattuso dà l'addio alla Nazionale: a breve risoluzione del contratto",
       "source_count": 10,
       "article_count": 14,
@@ -130,58 +182,6 @@
         "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/03/gattuso-lascia-la-nazionale-con-il-dolore-nel-cuore_b15d94e3-4a12-4d6e-82dd-a7a786a57a15.html",
         "https://www.liberoquotidiano.it/news/tv-news/47123092/rino-gattuso-non-e-piu-il-ct-azzurro-lascio-con-dolore-nel-cuore-/",
         "https://www.ilfattoquotidiano.it/2026/04/03/gattuso-dimissioni-nazionale-eliminazione-mondiali-news/8345132/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Netflix, rincari degli abbonamenti illegittimi: \"Rimborsi fino a 500 euro ai clienti\". La sentenza",
-      "source_count": 11,
-      "article_count": 13,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "corriere.it",
-        "unita.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/03/netflix-rimborsi-aumenti-illegittimi-sentenza-oggi/8345516/",
-        "https://www.fanpage.it/innovazione/tecnologia/netflix-come-chiedere-il-rimborso-per-gli-abbonamenti-la-procedura-per-avere-fino-a-500-euro/",
-        "https://www.ilgiornale.it/news/entertainment-e-servizi/netflix-rincari-illegittimi-rimborsi-fino-500-euro-cosa-2646860.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/04/03/vittoria-dei-consumatori-su-netflix-illegittimi-i-rincari-della-piattaforma_7dc179d5-3057-4d3b-af22-ddd22f8b90fb.html",
-        "https://www.corriere.it/tecnologia/26_aprile_03/netflix-sentenza-gli-aumenti-degli-abbonamenti-sono-illegittimi-rimborsi-fino-a-500-euro-a-famiglia-7059fdf6-b26b-429b-a554-0c6dfdbbaxlk.shtml"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Meloni a Gedda, blitz nel Golfo Persico: missione per la sicurezza energetica",
-      "source_count": 11,
-      "article_count": 13,
-      "source_domains": [
-        "video.corriere.it",
-        "ilmessaggero.it",
-        "unita.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://video.corriere.it/politica/governo-blitz-di-meloni-nel-golfo-missione-per-sicurezza-energetica-/aaa6e277-681c-482e-80f0-6a4bba29cxlk",
-        "https://www.ilmessaggero.it/politica/meloni_missione_sorpresa_gas_medio_oriente_perche-9454304.html",
-        "https://www.unita.it/2026/04/03/meloni-visita-arabia-saudita-qatar-emirati-missione-sicurezza-energetica/",
-        "https://roma.corriere.it/notizie/politica/26_aprile_03/meloni-blitz-golfo-persico-arabia-saudita-emirati-qatar-6ed177ff-e032-4919-9b84-0de5051a0xlk.shtml",
-        "https://roma.corriere.it/notizie/politica/26_aprile_03/meloni-blitz-golfo-persico-arabia-saudita-emirati-qatar-6ed177ff-e032-4919-9b84-0de5051a0xlk.shtml"
       ]
     },
     {
@@ -209,50 +209,50 @@
     },
     {
       "rank": 9,
-      "title": "Pam Bondi, dal caso Epstein alla “fedeltà tradita”: cosa c'è dietro il licenziamento deciso da Trump",
-      "source_count": 10,
-      "article_count": 12,
+      "title": "Catania, accoltella la moglie in strada: la donna voleva separarsi. Fermato il marito",
+      "source_count": 9,
+      "article_count": 11,
       "source_domains": [
-        "adnkronos.com",
-        "ilgiornale.it",
-        "unita.it",
-        "liberoquotidiano.it",
         "ansa.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "unita.it",
         "corriere.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
         "ilmessaggero.it",
-        "lastampa.it",
-        "repubblica.it",
-        "news.google.com"
+        "lastampa.it"
       ],
       "links": [
-        "https://www.adnkronos.com/internazionale/esteri/pam-bondi-licenziata-trump-deporre-lo-stesso-congresso_laC50QVpzrzG9xNptn1t3",
-        "https://www.ilgiornale.it/news/politica/licenziata-bondi-guardasigilli-paga-caso-epstein-2646621.html",
-        "https://www.unita.it/2026/04/03/trump-licenzia-pam-bondi-ministra-giustizia/",
-        "https://www.liberoquotidiano.it/news/tv-news/47117571/trump-silura-pam-bondi-al-suo-posto-l-ex-avvocato-personale-blanche/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/03/trump-silura-la-ministra-della-giustizia-pam-bondi-pesa-il-caso-epstein_2e655be1-b153-4318-b8f7-d49903f70fc2.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/03/donna-accoltellata-a-catania-fermato-lex-marito_02d1dcb1-ddd4-402c-830c-1c8d294aa10f.html",
+        "https://www.ilgiornale.it/news/cronaca-locale/accoltella-moglie-strada-e-fugge-catturato-2646773.html",
+        "https://www.fanpage.it/attualita/donna-accoltellata-in-strada-a-catania-e-gravissima-in-ospedale-laggressore-e-in-fuga/",
+        "https://www.unita.it/2026/04/03/catania-accoltella-moglie-marito-catturato-dopo-fuga/",
+        "https://www.corriere.it/cronache/26_aprile_03/catania-accoltella-moglie-marito-fuga-877ff444-7bca-436d-b087-45ef9ad5axlk.shtml"
       ]
     },
     {
       "rank": 10,
-      "title": "Guerra in Iran, le news di oggi. Teheran: “Abbattuto F-35 Usa”. Ignota la sorte del pilota. Colpita raffineria in Kuwait",
-      "source_count": 8,
-      "article_count": 13,
+      "title": "Pianificava azioni terroristiche ispirate a Unabomber, arrestato",
+      "source_count": 9,
+      "article_count": 11,
       "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "corriere.it",
+        "ilfattoquotidiano.it",
         "repubblica.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "lastampa.it"
+        "lastampa.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "unita.it",
+        "corriere.it",
+        "ilgiornale.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/03/medio-oriente-abbattuto-in-iran-un-caccia-usa-tratto-in-salvo-uno-dei_3f5c3fe4-5979-4eed-9f48-6c02eba7b2b3.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/03/medio-oriente-lesercito-iraniano-ha-avviato-delle-ricerche-per-trovare-il-pilota_3f5c3fe4-5979-4eed-9f48-6c02eba7b2b3.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47123527/l-iran-mostra-il-ponte-a-teheran-distrutto-dagli-attacchi-usa-israele/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/03/medio-oriente-distrutto-il-ponte-b1.-nave-francese-attraversa-hormuz.-forse_3f5c3fe4-5979-4eed-9f48-6c02eba7b2b3.html",
-        "https://www.ilmessaggero.it/mondo/iran_ponte_b1_distrutto_usa_missili_cosa_e_successo-9453950.html"
+        "https://www.ilfattoquotidiano.it/2026/04/03/anarchico-influencer-tutorial-armi-ordigni-notizie/8345498/",
+        "https://www.repubblica.it/cronaca/2026/04/03/news/pescara_arrestato_unabomber_armi_anarchici_roma-425262903/",
+        "https://www.lastampa.it/cronaca/2026/04/03/video/laquila_arrestato_diciottenne_pianificava_azioni_terroristiche_ispirate_a_unabomber-15571364/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/03/pianificava-azioni-terroristiche-ispirate-a-unabomber-arrestato_d0af642f-6f12-40e1-8f3c-3f31ac097fa7.html",
+        "https://www.ilmessaggero.it/abruzzo/teramo_attentato_unabomber_arrestato_denuncia-9454041.html"
       ]
     }
   ]
