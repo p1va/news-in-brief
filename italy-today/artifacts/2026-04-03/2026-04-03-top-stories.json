@@ -1,6 +1,6 @@
 {
   "date": "2026-04-03",
-  "generated_at": "Fri 03 Apr 15:45",
+  "generated_at": "Fri 03 Apr 16:52",
   "stories": [
     {
       "rank": 1,
@@ -34,8 +34,9 @@
       "rank": 2,
       "title": "Governo approva nuovo decreto carburanti, Giorgetti: Taglio accise prorogato fino al primo maggio",
       "source_count": 13,
-      "article_count": 19,
+      "article_count": 25,
       "source_domains": [
+        "ansa.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "laverita.info",
@@ -45,17 +46,16 @@
         "corriere.it",
         "unita.it",
         "repubblica.it",
-        "ansa.it",
         "lastampa.it",
         "ilmessaggero.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/04/03/prorogato-il-taglio-delle-accise-per-i-consumatori-non-basta_12a307b7-b7ff-40ac-b9d3-8fd74be1a7ad.html",
         "https://www.adnkronos.com/economia/taglio-accise-carburanti-cosa-prevede-il-decreto-approvato-oggi-in-cdm-le-misure_6thDlFhVtLQc4BGqYzX69N",
         "https://www.ilfattoquotidiano.it/2026/04/03/carburanti-taglio-accise-aumento-prezzi-oggi/8345234/",
         "https://www.laverita.info/carburanti-via-libera-del-governo-alla-proroga-del-taglio-delle-accise-2676659511.html",
-        "https://www.liberoquotidiano.it/news/pillole/47116974/accise_sui_carburanti_giorgetti_proroghiamo_il_taglio_all_1_maggio_/",
-        "https://www.ilgiornale.it/news/cittadini/decreto-accise-mossa-governo-contenere-i-prezzi-benzina-2646770.html"
+        "https://www.liberoquotidiano.it/news/pillole/47116974/accise_sui_carburanti_giorgetti_proroghiamo_il_taglio_all_1_maggio_/"
       ]
     },
     {
@@ -86,6 +86,29 @@
     },
     {
       "rank": 4,
+      "title": "Il maltempo sferza il Centro-Sud: crolla un ponte, si temono vittime",
+      "source_count": 8,
+      "article_count": 17,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "video.corriere.it",
+        "repubblica.it",
+        "lastampa.it",
+        "fanpage.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/03/il-ponte-crollato-sul-trigno-la-moglie-del-disperso-teme-il-peggio_33b2692f-2464-4c1f-a693-8c71b6b1fe90.html",
+        "https://www.liberoquotidiano.it/news/libero-video/47120519/crollo-ponte-trigno-continuano-ricerche-auto-caduta/",
+        "https://www.ilgiornale.it/news/politica/sud-ciclone-pasqua-crolla-ponte-molise-2646633.html",
+        "https://video.corriere.it/il-trigno-si-ritira-dal-ponte-caduto-il-video-dal-drone-della-strada-collassata-sul-letto-del-fiume/4ad78885-c089-4d77-9696-e2771620cxlk",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/03/il-maltempo-imperversa-al-centro-sud.-tragedia-sfiorata-per-una-frana-in-puglia_33b2692f-2464-4c1f-a693-8c71b6b1fe90.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Gattuso dà l'addio alla Nazionale: a breve risoluzione del contratto",
       "source_count": 10,
       "article_count": 14,
@@ -110,17 +133,17 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Netflix, rincari degli abbonamenti illegittimi: \"Rimborsi fino a 500 euro ai clienti\". La sentenza",
       "source_count": 11,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "fanpage.it",
         "ilgiornale.it",
         "ansa.it",
         "corriere.it",
         "unita.it",
-        "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
         "repubblica.it",
@@ -128,15 +151,64 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/03/netflix-rimborsi-aumenti-illegittimi-sentenza-oggi/8345516/",
         "https://www.fanpage.it/innovazione/tecnologia/netflix-come-chiedere-il-rimborso-per-gli-abbonamenti-la-procedura-per-avere-fino-a-500-euro/",
         "https://www.ilgiornale.it/news/entertainment-e-servizi/netflix-rincari-illegittimi-rimborsi-fino-500-euro-cosa-2646860.html",
         "https://www.ansa.it/sito/notizie/economia/2026/04/03/vittoria-dei-consumatori-su-netflix-illegittimi-i-rincari-della-piattaforma_7dc179d5-3057-4d3b-af22-ddd22f8b90fb.html",
-        "https://www.corriere.it/tecnologia/26_aprile_03/netflix-sentenza-gli-aumenti-degli-abbonamenti-sono-illegittimi-rimborsi-fino-a-500-euro-a-famiglia-7059fdf6-b26b-429b-a554-0c6dfdbbaxlk.shtml",
-        "https://www.unita.it/2026/04/03/abbonamenti-netflix-aumenti-illegittimi-rimborsi-fino-500-euro/"
+        "https://www.corriere.it/tecnologia/26_aprile_03/netflix-sentenza-gli-aumenti-degli-abbonamenti-sono-illegittimi-rimborsi-fino-a-500-euro-a-famiglia-7059fdf6-b26b-429b-a554-0c6dfdbbaxlk.shtml"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Meloni a Gedda, blitz nel Golfo Persico: missione per la sicurezza energetica",
+      "source_count": 11,
+      "article_count": 13,
+      "source_domains": [
+        "video.corriere.it",
+        "ilmessaggero.it",
+        "unita.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://video.corriere.it/politica/governo-blitz-di-meloni-nel-golfo-missione-per-sicurezza-energetica-/aaa6e277-681c-482e-80f0-6a4bba29cxlk",
+        "https://www.ilmessaggero.it/politica/meloni_missione_sorpresa_gas_medio_oriente_perche-9454304.html",
+        "https://www.unita.it/2026/04/03/meloni-visita-arabia-saudita-qatar-emirati-missione-sicurezza-energetica/",
+        "https://roma.corriere.it/notizie/politica/26_aprile_03/meloni-blitz-golfo-persico-arabia-saudita-emirati-qatar-6ed177ff-e032-4919-9b84-0de5051a0xlk.shtml",
+        "https://roma.corriere.it/notizie/politica/26_aprile_03/meloni-blitz-golfo-persico-arabia-saudita-emirati-qatar-6ed177ff-e032-4919-9b84-0de5051a0xlk.shtml"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Spazio, Artemis II: la capsula Orion si dirige verso la Luna",
+      "source_count": 8,
+      "article_count": 14,
+      "source_domains": [
+        "lastampa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "corriere.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.lastampa.it/scienza/2026/04/03/video/verso_la_luna_lastronauta_koch_ripara_la_toilette_orgogliosa_di_essere_lidraulica_spaziale-15571454/",
+        "https://www.adnkronos.com/internazionale/esteri/artemis-ii-verso-luna-lancio-visto-passeggeri-video_5UYW5k6jCvBWSJADOT117D",
+        "https://www.liberoquotidiano.it/news/tv-news/47120523/orion-lascia-l-orbita-terrestre-umanita-dimostra-di-cosa-e-capace-/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/04/03/artemis-ii-lequipaggio-si-sente-piuttosto-bene-quassu_151ab7bb-d806-456b-a690-a2f318f4c325.html",
+        "https://www.ilmessaggero.it/scienza/missione_artemis_2_dove_si_trova_ora_lascia_orbita_terrestre_nasa-9453910.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Pam Bondi, dal caso Epstein alla “fedeltà tradita”: cosa c'è dietro il licenziamento deciso da Trump",
       "source_count": 10,
       "article_count": 12,
@@ -161,96 +233,26 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Spazio, Artemis II: la capsula Orion si dirige verso la Luna",
-      "source_count": 8,
-      "article_count": 13,
-      "source_domains": [
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "corriere.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/artemis-ii-verso-luna-lancio-visto-passeggeri-video_5UYW5k6jCvBWSJADOT117D",
-        "https://www.liberoquotidiano.it/news/tv-news/47120523/orion-lascia-l-orbita-terrestre-umanita-dimostra-di-cosa-e-capace-/",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/04/03/artemis-ii-lequipaggio-si-sente-piuttosto-bene-quassu_151ab7bb-d806-456b-a690-a2f318f4c325.html",
-        "https://www.ilmessaggero.it/scienza/missione_artemis_2_dove_si_trova_ora_lascia_orbita_terrestre_nasa-9453910.html",
-        "https://www.fanpage.it/innovazione/scienze/artemis-2-il-modulo-con-equipaggio-lascia-lorbita-terrestre-ora-orion-fa-rotta-verso-la-luna/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Le dimissioni di Gravina: “Una scelta amara”. Figc al voto il 22 giugno",
-      "source_count": 8,
-      "article_count": 13,
-      "source_domains": [
-        "corriere.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "laverita.info"
-      ],
-      "links": [
-        "https://www.corriere.it/sport/calcio/mondiali/26_aprile_03/gabriele-gravina-retroscena-dimissioni-42461ff6-6db6-4990-9cc4-7641b16edxlk.shtml",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/04/03/prime-pagine-terremoto-in-figc-gravina-si-dimette-via-anche-buffon_6d473487-56c2-4772-945e-b4fda3fab169.html",
-        "https://www.ilgiornale.it/news/sport/lasciano-gravina-e-buffon-elezioni-mondiale-corso-2646648.html",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/04/03/news/gravina_dimissioni_voto_22_giugno_cronaca-425261201/",
-        "https://ilmanifesto.it/gravina-si-dimette-da-presidente-figc-al-suo-posto-favoriti-malago-o-abete"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Meloni, viaggio a sorpresa nel Golfo Persico: «Missione in Arabia, Qatar ed Emirati per la sicurezza energetica»",
-      "source_count": 10,
-      "article_count": 11,
-      "source_domains": [
-        "ilmessaggero.it",
-        "unita.it",
-        "roma.corriere.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/politica/meloni_missione_sorpresa_gas_medio_oriente_perche-9454304.html",
-        "https://www.unita.it/2026/04/03/meloni-visita-arabia-saudita-qatar-emirati-missione-sicurezza-energetica/",
-        "https://roma.corriere.it/notizie/politica/26_aprile_03/meloni-blitz-golfo-persico-arabia-saudita-emirati-qatar-6ed177ff-e032-4919-9b84-0de5051a0xlk.shtml",
-        "https://roma.corriere.it/notizie/politica/26_aprile_03/meloni-blitz-golfo-persico-arabia-saudita-emirati-qatar-6ed177ff-e032-4919-9b84-0de5051a0xlk.shtml",
-        "https://www.ilfattoquotidiano.it/2026/04/03/meloni-golfo-sicurezza-energetica-missione-oggi/8345369/"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Il maltempo sferza il Centro-Sud: crolla un ponte, si temono vittime",
-      "source_count": 7,
+      "title": "Guerra in Iran, le news di oggi. Teheran: “Abbattuto F-35 Usa”. Ignota la sorte del pilota. Colpita raffineria in Kuwait",
+      "source_count": 8,
       "article_count": 13,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "video.corriere.it",
         "ansa.it",
-        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "repubblica.it",
+        "adnkronos.com",
         "fanpage.it",
-        "news.google.com"
+        "lastampa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/47120519/crollo-ponte-trigno-continuano-ricerche-auto-caduta/",
-        "https://www.ilgiornale.it/news/politica/sud-ciclone-pasqua-crolla-ponte-molise-2646633.html",
-        "https://video.corriere.it/il-trigno-si-ritira-dal-ponte-caduto-il-video-dal-drone-della-strada-collassata-sul-letto-del-fiume/4ad78885-c089-4d77-9696-e2771620cxlk",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/03/il-maltempo-imperversa-al-centro-sud.-tragedia-sfiorata-per-una-frana-in-puglia_33b2692f-2464-4c1f-a693-8c71b6b1fe90.html",
-        "https://video.corriere.it/spoltore-esonda-il-fiume-pescara-300-persone-lasciate-fuori-casa/69226d03-f93f-4d95-be2e-6ace69ddbxlk"
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/03/medio-oriente-abbattuto-in-iran-un-caccia-usa-tratto-in-salvo-uno-dei_3f5c3fe4-5979-4eed-9f48-6c02eba7b2b3.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/03/medio-oriente-lesercito-iraniano-ha-avviato-delle-ricerche-per-trovare-il-pilota_3f5c3fe4-5979-4eed-9f48-6c02eba7b2b3.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47123527/l-iran-mostra-il-ponte-a-teheran-distrutto-dagli-attacchi-usa-israele/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/03/medio-oriente-distrutto-il-ponte-b1.-nave-francese-attraversa-hormuz.-forse_3f5c3fe4-5979-4eed-9f48-6c02eba7b2b3.html",
+        "https://www.ilmessaggero.it/mondo/iran_ponte_b1_distrutto_usa_missili_cosa_e_successo-9453950.html"
       ]
     }
   ]
