@@ -1,22 +1,22 @@
 {
   "date": "2026-04-04",
-  "generated_at": "Sat 04 Apr 11:36",
+  "generated_at": "Sat 04 Apr 13:09",
   "stories": [
     {
       "rank": 1,
       "title": "Meloni nel Golfo Persico, missione in Arabia, Emirati e Qatar. Il nodo degli approvvigionamenti energetici e le misure",
       "source_count": 12,
-      "article_count": 21,
+      "article_count": 22,
       "source_domains": [
         "governo.it",
         "video.corriere.it",
         "ansa.it",
+        "repubblica.it",
         "liberoquotidiano.it",
         "fanpage.it",
         "adnkronos.com",
         "ilgiornale.it",
         "lastampa.it",
-        "repubblica.it",
         "ilmessaggero.it",
         "unita.it",
         "ilsole24ore.com"
@@ -25,15 +25,15 @@
         "https://www.governo.it/it/articolo/incontro-con-lemiro-del-qatar-sheikh-tamim-bin-hamad-al-thani-nota-di-palazzo-chigi/31450",
         "https://video.corriere.it/politica/governo-meloni-arrivata-a-doha-vedra-l-emiro-del-qatar-al-thani/f92ad937-54a4-4bb0-ab17-1fc61cb4exlk",
         "https://www.ansa.it/sito/notizie/politica/2026/04/04/meloni-lascia-gedda-espressa-vicinanza-dellitalia-allarabia-saudita_da8294e8-b7eb-441b-a5a0-3c6bd5967eab.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47133125/governo-la-premier-meloni-arrivata-a-doha-vedra-emiro-qatar-al-thani/",
-        "https://www.fanpage.it/live/governo-meloni-ultime-notizie-crisi-dimissioni-4-aprile-diretta/"
+        "https://www.repubblica.it/politica/2026/04/04/news/meloni_golfo_persico_doha_incontro_al_thani-425263874/",
+        "https://www.liberoquotidiano.it/news/tv-news/47133125/governo-la-premier-meloni-arrivata-a-doha-vedra-emiro-qatar-al-thani/"
       ]
     },
     {
       "rank": 2,
       "title": "Abbattuto un F15 americano. \"Un pilota messo in salvo\". L'Iran: catturato il secondo",
       "source_count": 9,
-      "article_count": 20,
+      "article_count": 19,
       "source_domains": [
         "ilgiornale.it",
         "liberoquotidiano.it",
@@ -55,35 +55,60 @@
     },
     {
       "rank": 3,
-      "title": "Arrestato il boss di camorra Roberto Mazzarella",
+      "title": "Catturato il boss Roberto Mazzarella, era tra i 4 ricercati più pericolosi del ministero dell'Interno",
       "source_count": 10,
-      "article_count": 13,
+      "article_count": 14,
       "source_domains": [
+        "ilmessaggero.it",
         "liberoquotidiano.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "napoli.corriere.it",
         "adnkronos.com",
         "fanpage.it",
-        "ilmessaggero.it",
         "napoli.repubblica.it",
         "lastampa.it",
         "agi.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/italia/roberto_mazzarella_come_e_stato_catturato_chi_e_boss_vietri-9456077.html",
         "https://www.liberoquotidiano.it/news/pillole/47132927/arrestato_il_boss_latitante_di_camorra_roberto_mazzarella/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/04/arrestato-il-boss-di-camorra-roberto-mazzarella_431e3296-d56e-4b76-8d7c-35e5f27d433e.html",
         "https://www.liberoquotidiano.it/news/tv-news/47134427/finita-la-latitanza-del-boss-di-camorra-roberto-mazzarella/",
-        "https://www.ilfattoquotidiano.it/2026/04/04/mazzarella-boss-camorra-arrestato-vietri-news/8345979/",
-        "https://napoli.corriere.it/notizie/cronaca/26_aprile_04/camorra-arrestato-il-capoclan-roberto-mazzarella-e-stato-scovato-dai-carabinieri-a-vietri-sul-mare-5bb00500-5ac1-4df6-96d4-fb076239bxlk.shtml"
+        "https://www.ilfattoquotidiano.it/2026/04/04/mazzarella-boss-camorra-arrestato-vietri-news/8345979/"
       ]
     },
     {
       "rank": 4,
-      "title": "Vittorio Messori è morto, addio allo scrittore cattolico famoso per “Ipotesi su Gesù”: aveva 84 anni",
-      "source_count": 10,
-      "article_count": 12,
+      "title": "Carburante a rischio per i voli, scattano le prime limitazioni in 4 aeroporti italiani: «Rifornirsi altrove»",
+      "source_count": 9,
+      "article_count": 14,
       "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/economia/aziende/2026/04/04/scattano-le-prime-restrizioni-per-i-carburanti-per-gli-aerei-_f17f98ae-bc4c-4016-9d4c-3db14f4031c8.html",
+        "https://www.fanpage.it/attualita/crisi-carburante-scattano-prime-restrizioni-negli-aeroporti-limitazioni-a-linate-bologna-venezia-e-treviso/",
+        "https://www.ilmessaggero.it/italia/guerra_iran_voli_a_rischio_quali_sono-9456054.html",
+        "https://www.ilfattoquotidiano.it/2026/04/04/limitazioni-carburante-aeroporti-bologna-milano-notizie/8346113/",
+        "https://www.repubblica.it/economia/2026/04/04/news/carburante_a_rischio_limitazioni_4_aeroporti_italiani-425264160/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "E' morto Vittorio Messori, addio allo scrittore cattolico più famoso al mondo con 'Ipotesi su Gesù'",
+      "source_count": 10,
+      "article_count": 13,
+      "source_domains": [
+        "adnkronos.com",
         "ansa.it",
         "fanpage.it",
         "ilfattoquotidiano.it",
@@ -91,39 +116,15 @@
         "ilgiornale.it",
         "ilmessaggero.it",
         "bologna.repubblica.it",
-        "adnkronos.com",
         "lastampa.it",
         "agi.it"
       ],
       "links": [
+        "https://www.adnkronos.com/cultura/morto-vittorio-messori-funerali-sabato-11-aprile-allabbazia-di-maguzzano_5Lzzl7unrV3ikXehOWhsSF",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/04/e-morto-vittorio-messori-scrittore-e-giornalista-cattolico_2c79cb97-8f4d-4f4e-ae1e-a6de82f26fc0.html",
         "https://www.fanpage.it/cultura/e-morto-vittorio-messori-il-piu-noto-scrittore-cattolico-con-ipotesi-su-gesu-fatale-un-attacco-cardiaco/",
         "https://www.ilfattoquotidiano.it/2026/04/04/e-morto-vittorio-messori-addio-al-grande-scrittore-cattolico-di-ipotesi-su-gesu-il-suo-cuore-si-e-spento-alle-ore-21-45-di-venerdi-santo/8345971/",
-        "https://www.ilfattoquotidiano.it/2026/04/04/e-morto-vittorio-messori-addio-allo-scrittore-cattolico-di-ipotesi-su-gesu-il-suo-cuore-si-e-spento-alle-ore-21-45-di-venerdi-santo/8345971/",
-        "https://www.corriere.it/cultura/26_aprile_04/morto-vittorio-messori-b7cfee67-04ce-4769-b82b-a41a069adxlk.shtml"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Gattuso addio alla Nazionale: 'Lascio col dolore nel cuore'",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "corriere.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ansa.it",
-        "unita.it"
-      ],
-      "links": [
-        "https://www.corriere.it/sport/calcio/26_aprile_04/italia-prossimo-allenatore-conte-mancini-ultime-news-3ce0c54b-4727-4c11-b7ee-bf17420e8xlk.shtml",
-        "https://www.ilgiornale.it/news/sport/anche-gattuso-fa-passo-indietro-lascio-dolore-nel-cuore-2646990.html",
-        "https://www.repubblica.it/sport/calcio/2026/04/04/news/panchina_nazionale_gattuso_lascia_nuovo_ct_allegri_conte_mancini-425263384/",
-        "https://ilmanifesto.it/nazionale-lascia-anche-gattuso-nuovo-ct-a-giugno",
-        "https://www.ilmessaggero.it/sport/nazionali/nazionale_mancini_ct_cosa_succede_malago_ora-9454743.html"
+        "https://www.ilfattoquotidiano.it/2026/04/04/e-morto-vittorio-messori-addio-allo-scrittore-cattolico-di-ipotesi-su-gesu-il-suo-cuore-si-e-spento-alle-ore-21-45-di-venerdi-santo/8345971/"
       ]
     },
     {
@@ -150,14 +151,14 @@
     },
     {
       "rank": 7,
-      "title": "A metà strada tra Terra e Luna: ecco le prime foto scattate dagli astronauti di Artemis II",
+      "title": "Nasa: Artemis II è a metà strada verso la Luna",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
         "corriere.it",
         "fanpage.it",
-        "liberoquotidiano.it",
         "ansa.it",
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
@@ -165,8 +166,8 @@
         "https://www.corriere.it/tecnologia/cards/gli-astronauti-di-artemis-ii-a-meta-strada-tra-la-terra-e-la-luna-le-prime-foto-scattate-coi-loro-smartphone/lalba_principale.shtml",
         "https://video.corriere.it/tecnologia/le-prime-immagini-della-terra-inviate-dalla-missione-artemis-ii/31ed4cc3-579a-4b12-8a93-fd533900cxlk",
         "https://www.fanpage.it/innovazione/scienze/artemis-2-la-foto-della-terra-vista-dagli-astronauti-e-una-meraviglia-la-luna-si-avvicina-siamo-a-meta-strada/",
-        "https://www.liberoquotidiano.it/news/tv-news/47132792/nasa-artemis-ii-e-a-meta-strada-verso-la-luna/",
-        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/04/artemis-ii-e-a-meta-strada-verso-la-luna_55b7e792-6dbf-4b13-953e-7a4ee483e0fd.html"
+        "https://www.ansa.it/sito/videogallery/mondo/2026/04/04/missione-artemis-lentusiasmo-degli-astronauti-a-bordo-della-orion_f04a0f22-ea38-4658-810e-f8d0af332fc9.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47132792/nasa-artemis-ii-e-a-meta-strada-verso-la-luna/"
       ]
     },
     {
@@ -193,42 +194,43 @@
     },
     {
       "rank": 9,
-      "title": "Netflix, rincari illegittimi: rimborsi fino a 500 euro, cosa possono fare i consumatori",
-      "source_count": 5,
+      "title": "Mazzi, il manager di musica e tv al Turismo per il dopo Santanchè",
+      "source_count": 6,
       "article_count": 7,
       "source_domains": [
-        "fanpage.it",
         "ilgiornale.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "corriere.it"
+        "laverita.info",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.fanpage.it/innovazione/tecnologia/netflix-annuncia-il-ricorso-sui-rimborsi-come-aderire-alla-class-action-se-la-societa-decide-di-non-pagare/",
-        "https://www.ilgiornale.it/news/politica/aumenti-abbonati-netflix-condannata-rimborsi-fino-500-euro-2646976.html",
-        "https://www.ilgiornale.it/news/attualit/aumenti-abbonamenti-netflix-illegittimi-ecco-procedere-2646916.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/04/03/vittoria-dei-consumatori-su-netflix-illegittimi-i-rincari-della-piattaforma_7dc179d5-3057-4d3b-af22-ddd22f8b90fb.html",
-        "https://www.ilfattoquotidiano.it/2026/04/03/netflix-rimborsi-aumenti-illegittimi-sentenza-oggi/8345516/"
+        "https://www.ilgiornale.it/news/politica/mazzi-manager-musica-e-tv-turismo-santanch-2646965.html",
+        "https://www.ilgiornale.it/news/interni/gianmarco-mazzi-debutta-turismo-pochi-follower-niente-selfie-2647070.html",
+        "https://www.laverita.info/meloni-nomina-mazzi-ministro-turismo-2676663792.html",
+        "https://www.repubblica.it/politica/2026/04/04/news/mazzi_gianmarco_chi_e_nuovo_ministro_turismo-425263437/",
+        "https://ilmanifesto.it/blitz-di-meloni-mazzi-promosso-ministro-del-turismo"
       ]
     },
     {
       "rank": 10,
-      "title": "Meteo Pasqua e Pasquetta, caldo e sole con massime fino a 26°: arriva la primavera. Ma quanto durerà?",
+      "title": "Ribaltone meteo, a Pasqua e Pasquetta arriva la primavera",
       "source_count": 5,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "milano.corriere.it",
         "ansa.it",
         "ilmessaggero.it",
-        "corriere.it",
         "adnkronos.com",
         "fanpage.it"
       ],
       "links": [
+        "https://milano.corriere.it/notizie/meteo/26_aprile_04/previsioni-meteo-domenica-5-aprile-pasqua-e-pasquetta-con-l-anticiclone-cielo-sereno-e-temperature-primaverili-d5024f57-ac9e-493c-a75a-f1e3862eaxlk.shtml",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/04/pasqua-e-pasquetta-con-sole-e-massime-fino-a-26c-primavera-da-nord-a-sud_4788456f-7a24-4f2f-9acf-63b8559774c2.html",
         "https://www.ilmessaggero.it/italia/meteo_pasqua_pasquetta_caldo_quanto_dura-9455998.html",
         "https://www.corriere.it/cronache/26_aprile_04/meteo-pasqua-col-sole-e-pasquetta-da-picnic-in-maniche-corte-mentre-al-sud-si-fa-la-conta-dei-danni-32-turisti-tratti-in-salvo-7ed4ac0d-2e4e-4814-a63f-b15092a42xlk.shtml",
-        "https://www.adnkronos.com/cronaca/meteo-previsioni-pasqua-pasquetta-aprile-2026_2CD9z93ibhgN7q56r5OiFV",
-        "https://www.fanpage.it/napoli/sole-e-temperature-in-aumento-su-napoli-e-campania-le-previsioni-per-pasqua-e-pasquetta-2026/"
+        "https://www.adnkronos.com/cronaca/meteo-previsioni-pasqua-pasquetta-aprile-2026_2CD9z93ibhgN7q56r5OiFV"
       ]
     }
   ]
