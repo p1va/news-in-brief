@@ -1,63 +1,90 @@
 {
   "date": "2026-04-04",
-  "generated_at": "Sat 04 Apr 13:09",
+  "generated_at": "Sat 04 Apr 14:40",
   "stories": [
     {
       "rank": 1,
       "title": "Meloni nel Golfo Persico, missione in Arabia, Emirati e Qatar. Il nodo degli approvvigionamenti energetici e le misure",
       "source_count": 12,
-      "article_count": 22,
+      "article_count": 21,
       "source_domains": [
-        "governo.it",
-        "video.corriere.it",
+        "ilfattoquotidiano.it",
+        "roma.corriere.it",
         "ansa.it",
         "repubblica.it",
         "liberoquotidiano.it",
         "fanpage.it",
+        "governo.it",
         "adnkronos.com",
         "ilgiornale.it",
         "lastampa.it",
         "ilmessaggero.it",
-        "unita.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.governo.it/it/articolo/incontro-con-lemiro-del-qatar-sheikh-tamim-bin-hamad-al-thani-nota-di-palazzo-chigi/31450",
+        "https://www.ilfattoquotidiano.it/2026/04/04/meloni-golfo-crisi-energetica-notizie/8346118/",
+        "https://roma.corriere.it/notizie/politica/26_aprile_04/meloni-golfo-visite-energia-qatar-emirati-arabia-6912c832-a2fc-4e31-9bd5-ea6e302f7xlk.shtml",
+        "https://roma.corriere.it/notizie/politica/26_aprile_04/meloni-golfo-visite-energia-qatar-emirati-arabia-6912c832-a2fc-4e31-9bd5-ea6e302f7xlk.shtml",
         "https://video.corriere.it/politica/governo-meloni-arrivata-a-doha-vedra-l-emiro-del-qatar-al-thani/f92ad937-54a4-4bb0-ab17-1fc61cb4exlk",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/04/meloni-lascia-gedda-espressa-vicinanza-dellitalia-allarabia-saudita_da8294e8-b7eb-441b-a5a0-3c6bd5967eab.html",
-        "https://www.repubblica.it/politica/2026/04/04/news/meloni_golfo_persico_doha_incontro_al_thani-425263874/",
-        "https://www.liberoquotidiano.it/news/tv-news/47133125/governo-la-premier-meloni-arrivata-a-doha-vedra-emiro-qatar-al-thani/"
+        "https://www.ansa.it/sito/notizie/politica/2026/04/04/meloni-lascia-gedda-espressa-vicinanza-dellitalia-allarabia-saudita_da8294e8-b7eb-441b-a5a0-3c6bd5967eab.html"
       ]
     },
     {
       "rank": 2,
       "title": "Abbattuto un F15 americano. \"Un pilota messo in salvo\". L'Iran: catturato il secondo",
-      "source_count": 9,
-      "article_count": 19,
+      "source_count": 11,
+      "article_count": 17,
       "source_domains": [
         "ilgiornale.it",
         "liberoquotidiano.it",
-        "video.corriere.it",
+        "ilfattoquotidiano.it",
+        "laverita.info",
         "fanpage.it",
-        "ilmessaggero.it",
+        "corriere.it",
         "repubblica.it",
         "ansa.it",
         "adnkronos.com",
-        "lastampa.it"
+        "lastampa.it",
+        "ilmessaggero.it"
       ],
       "links": [
         "https://www.ilgiornale.it/news/politica/abbattuto-f15-americano-pilota-messo-salvo-liran-catturato-2646954.html",
         "https://www.liberoquotidiano.it/news/libero-video/47132647/iran-abbattuto-caccia-usa-annuncio-esercito/",
-        "https://video.corriere.it/esteri/iran-tv-di-stato-chiede-ai-cittadini-di-collaborare-alle-ricerche-del-pilota-usa-disperso/7b5022c0-628a-44a0-8fa5-57bddc3a5xlk",
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-4-aprile/",
-        "https://www.ilmessaggero.it/mondo/f15_usa_abbattuto_iran_come_ha_fatto_sensori_infrarossi_passivi-9455765.html"
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/04/04/f15-abbattuto-iran-trump-pilota-news/8345963/",
+        "https://www.laverita.info/iran-abbatte-f15-usa-2676663019.html",
+        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-4-aprile/"
       ]
     },
     {
       "rank": 3,
-      "title": "Catturato il boss Roberto Mazzarella, era tra i 4 ricercati più pericolosi del ministero dell'Interno",
+      "title": "Carburante a rischio per i voli, scattano le prime limitazioni in 4 aeroporti italiani: «Rifornirsi altrove»",
       "source_count": 10,
-      "article_count": 14,
+      "article_count": 16,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/economia/carburante-a-rischio-per-i-voli-al-via-restrizioni-in-4-aeroporti-italiani_5r3emm1cYfxzocfPp1picJ",
+        "https://www.ansa.it/sito/notizie/economia/2026/04/04/scattano-le-prime-restrizioni-sui-carburanti-per-gli-aerei_f17f98ae-bc4c-4016-9d4c-3db14f4031c8.html",
+        "https://www.ansa.it/sito/notizie/economia/aziende/2026/04/04/scattano-le-prime-restrizioni-per-i-carburanti-per-gli-aerei-_f17f98ae-bc4c-4016-9d4c-3db14f4031c8.html",
+        "https://www.fanpage.it/attualita/crisi-carburante-scattano-prime-restrizioni-negli-aeroporti-limitazioni-a-linate-bologna-venezia-e-treviso/",
+        "https://www.ilmessaggero.it/italia/guerra_iran_voli_a_rischio_quali_sono-9456054.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Roberto Mazzarella, catturato il boss della camorra tra i 4 latitanti più pericolosi: era in un resort di lusso con moglie e figli in Costiera Amalfitana",
+      "source_count": 10,
+      "article_count": 15,
       "source_domains": [
         "ilmessaggero.it",
         "liberoquotidiano.it",
@@ -72,34 +99,10 @@
       ],
       "links": [
         "https://www.ilmessaggero.it/italia/roberto_mazzarella_come_e_stato_catturato_chi_e_boss_vietri-9456077.html",
+        "https://www.liberoquotidiano.it/news/italia/47135287/roberto-mazzarella-arrestato-super-boss-camorra-latitante-dove-viveva-lusso/",
         "https://www.liberoquotidiano.it/news/pillole/47132927/arrestato_il_boss_latitante_di_camorra_roberto_mazzarella/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/04/arrestato-il-boss-di-camorra-roberto-mazzarella_431e3296-d56e-4b76-8d7c-35e5f27d433e.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47134427/finita-la-latitanza-del-boss-di-camorra-roberto-mazzarella/",
-        "https://www.ilfattoquotidiano.it/2026/04/04/mazzarella-boss-camorra-arrestato-vietri-news/8345979/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Carburante a rischio per i voli, scattano le prime limitazioni in 4 aeroporti italiani: «Rifornirsi altrove»",
-      "source_count": 9,
-      "article_count": 14,
-      "source_domains": [
-        "ansa.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/aziende/2026/04/04/scattano-le-prime-restrizioni-per-i-carburanti-per-gli-aerei-_f17f98ae-bc4c-4016-9d4c-3db14f4031c8.html",
-        "https://www.fanpage.it/attualita/crisi-carburante-scattano-prime-restrizioni-negli-aeroporti-limitazioni-a-linate-bologna-venezia-e-treviso/",
-        "https://www.ilmessaggero.it/italia/guerra_iran_voli_a_rischio_quali_sono-9456054.html",
-        "https://www.ilfattoquotidiano.it/2026/04/04/limitazioni-carburante-aeroporti-bologna-milano-notizie/8346113/",
-        "https://www.repubblica.it/economia/2026/04/04/news/carburante_a_rischio_limitazioni_4_aeroporti_italiani-425264160/"
+        "https://www.liberoquotidiano.it/news/tv-news/47134427/finita-la-latitanza-del-boss-di-camorra-roberto-mazzarella/"
       ]
     },
     {
@@ -129,6 +132,29 @@
     },
     {
       "rank": 6,
+      "title": "Roma, incidente mortale in via Tuscolana: perdono la vita una mamma e un 16enne. Grave una bambina",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "roma.corriere.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/roma/e-patrizia-trabucco-la-donna-morta-nellincidente-su-via-tuscolana-a-roma-con-lei-perde-la-vita-un-16enne/",
+        "https://www.liberoquotidiano.it/news/italia/47135329/roma-incidente-choc-via-tuscolana-mamma-brucia-semaforo-rosso-due-morti/",
+        "https://roma.corriere.it/notizie/cronaca/26_aprile_04/incidente-a-vermicino-due-morti-e-tre-feriti-gravi-nello-scontro-frontale-fra-due-auto-in-via-tuscolana-e1faa925-619b-4538-a05f-eebee27faxlk.shtml",
+        "https://www.ilgiornale.it/news/cronaca-locale/roma-incidente-mortale-tuscolana-perdono-vita-mamma-e-16enne-2647079.html",
+        "https://www.ilfattoquotidiano.it/2026/04/04/incidente-roma-tuscolana-morti-16enne-donna-notizie/8345992/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Bologna, precipita dalla tromba delle scale di una palazzina mentre gioca con gli amici: morto un 12enne",
       "source_count": 7,
       "article_count": 8,
@@ -150,7 +176,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Nasa: Artemis II è a metà strada verso la Luna",
       "source_count": 6,
       "article_count": 9,
@@ -171,29 +197,28 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Roma, incidente mortale in via Tuscolana: perdono la vita una mamma e un 16enne. Grave una bambina",
-      "source_count": 7,
+      "rank": 9,
+      "title": "Sinner, quando gioca a Montecarlo? Kouame o Humbert al secondo turno: data, tabellone e dove vederlo in tv (anche in chiaro)",
+      "source_count": 6,
       "article_count": 7,
       "source_domains": [
-        "roma.corriere.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
         "fanpage.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
         "adnkronos.com",
-        "ilmessaggero.it"
+        "ilgiornale.it",
+        "corriere.it"
       ],
       "links": [
-        "https://roma.corriere.it/notizie/cronaca/26_aprile_04/incidente-a-vermicino-due-morti-e-tre-feriti-gravi-nello-scontro-frontale-fra-due-auto-in-via-tuscolana-e1faa925-619b-4538-a05f-eebee27faxlk.shtml",
-        "https://www.ilgiornale.it/news/cronaca-locale/roma-incidente-mortale-tuscolana-perdono-vita-mamma-e-16enne-2647079.html",
-        "https://www.ilfattoquotidiano.it/2026/04/04/incidente-roma-tuscolana-morti-16enne-donna-notizie/8345992/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/04/scontro-fra-due-auto-a-roma-morti-una-donna-e-un-ragazzo-di-16-anni_cb8def47-a59c-4139-91e5-77f3255c2872.html",
-        "https://www.fanpage.it/roma/incidente-stradale-sulla-tuscolana-a-roma-scontro-tra-auto-morti-2-uomini-2-bimbi-estratti-dalle-lamiere/"
+        "https://www.fanpage.it/sport/tennis/quando-gioca-sinner-a-monte-carlo-data-e-orario-del-match-desordio-il-possibile-avversario/",
+        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_montecarlo_tabellone_possibili_avversari_dove_vederlo-9456095.html",
+        "https://www.ilfattoquotidiano.it/2026/04/04/atp-monte-carlo-sinner-italiani-tabellone-programma-dove-vedere-tv-streaming/8346080/",
+        "https://www.adnkronos.com/sport/sinner-maestro-tennis-un-giorno-lezione-jannik-montecarlo-video_w9fzOshYGKfL7eFdmgZT9",
+        "https://www.ilgiornale.it/news/tennis/jannik-sinner-riparte-montecarlo-quando-pu-tornare-numero-1-2647074.html"
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Mazzi, il manager di musica e tv al Turismo per il dopo Santanchè",
       "source_count": 6,
       "article_count": 7,
@@ -211,26 +236,6 @@
         "https://www.laverita.info/meloni-nomina-mazzi-ministro-turismo-2676663792.html",
         "https://www.repubblica.it/politica/2026/04/04/news/mazzi_gianmarco_chi_e_nuovo_ministro_turismo-425263437/",
         "https://ilmanifesto.it/blitz-di-meloni-mazzi-promosso-ministro-del-turismo"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Ribaltone meteo, a Pasqua e Pasquetta arriva la primavera",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "milano.corriere.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://milano.corriere.it/notizie/meteo/26_aprile_04/previsioni-meteo-domenica-5-aprile-pasqua-e-pasquetta-con-l-anticiclone-cielo-sereno-e-temperature-primaverili-d5024f57-ac9e-493c-a75a-f1e3862eaxlk.shtml",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/04/pasqua-e-pasquetta-con-sole-e-massime-fino-a-26c-primavera-da-nord-a-sud_4788456f-7a24-4f2f-9acf-63b8559774c2.html",
-        "https://www.ilmessaggero.it/italia/meteo_pasqua_pasquetta_caldo_quanto_dura-9455998.html",
-        "https://www.corriere.it/cronache/26_aprile_04/meteo-pasqua-col-sole-e-pasquetta-da-picnic-in-maniche-corte-mentre-al-sud-si-fa-la-conta-dei-danni-32-turisti-tratti-in-salvo-7ed4ac0d-2e4e-4814-a63f-b15092a42xlk.shtml",
-        "https://www.adnkronos.com/cronaca/meteo-previsioni-pasqua-pasquetta-aprile-2026_2CD9z93ibhgN7q56r5OiFV"
       ]
     }
   ]
