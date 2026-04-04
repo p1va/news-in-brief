@@ -1,14 +1,15 @@
 {
   "date": "2026-04-04",
-  "generated_at": "Sat 04 Apr 14:40",
+  "generated_at": "Sat 04 Apr 15:40",
   "stories": [
     {
       "rank": 1,
       "title": "Meloni nel Golfo Persico, missione in Arabia, Emirati e Qatar. Il nodo degli approvvigionamenti energetici e le misure",
-      "source_count": 12,
-      "article_count": 21,
+      "source_count": 13,
+      "article_count": 23,
       "source_domains": [
         "ilfattoquotidiano.it",
+        "lastampa.it",
         "roma.corriere.it",
         "ansa.it",
         "repubblica.it",
@@ -17,23 +18,49 @@
         "governo.it",
         "adnkronos.com",
         "ilgiornale.it",
-        "lastampa.it",
         "ilmessaggero.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/04/04/meloni-golfo-crisi-energetica-notizie/8346118/",
+        "https://www.lastampa.it/politica/2026/04/04/news/la_premier_meloni_in_qatar_e_emirati_urgente_riaprire_lo_stretto_di_hormuz-15572517/",
         "https://roma.corriere.it/notizie/politica/26_aprile_04/meloni-golfo-visite-energia-qatar-emirati-arabia-6912c832-a2fc-4e31-9bd5-ea6e302f7xlk.shtml",
         "https://roma.corriere.it/notizie/politica/26_aprile_04/meloni-golfo-visite-energia-qatar-emirati-arabia-6912c832-a2fc-4e31-9bd5-ea6e302f7xlk.shtml",
-        "https://video.corriere.it/politica/governo-meloni-arrivata-a-doha-vedra-l-emiro-del-qatar-al-thani/f92ad937-54a4-4bb0-ab17-1fc61cb4exlk",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/04/meloni-lascia-gedda-espressa-vicinanza-dellitalia-allarabia-saudita_da8294e8-b7eb-441b-a5a0-3c6bd5967eab.html"
+        "https://video.corriere.it/politica/governo-meloni-arrivata-a-doha-vedra-l-emiro-del-qatar-al-thani/f92ad937-54a4-4bb0-ab17-1fc61cb4exlk"
       ]
     },
     {
       "rank": 2,
-      "title": "Abbattuto un F15 americano. \"Un pilota messo in salvo\". L'Iran: catturato il secondo",
+      "title": "Carburante a rischio per i voli, scattano le prime limitazioni in 4 aeroporti italiani: «Rifornirsi altrove»",
       "source_count": 11,
-      "article_count": 17,
+      "article_count": 19,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/economia/carburante-a-rischio-per-i-voli-al-via-restrizioni-in-4-aeroporti-italiani_5r3emm1cYfxzocfPp1picJ",
+        "https://www.adnkronos.com/economia/voli-carburante-aeroporti-bologna-milano-venezia_5r3emm1cYfxzocfPp1picJ",
+        "https://www.ansa.it/sito/notizie/economia/2026/04/04/scattano-le-prime-restrizioni-sui-carburanti-per-gli-aerei_f17f98ae-bc4c-4016-9d4c-3db14f4031c8.html",
+        "https://www.liberoquotidiano.it/news/economia/47136798/carburante-prime-restrizione-voli-4-aeroporti-italiani-coinvolti/",
+        "https://www.ilmessaggero.it/italia/voli_cancellati_estate_2026-9456091.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Abbattuto un F15 americano. \"Un pilota messo in salvo\". L'Iran: catturato il secondo",
+      "source_count": 10,
+      "article_count": 16,
       "source_domains": [
         "ilgiornale.it",
         "liberoquotidiano.it",
@@ -44,8 +71,7 @@
         "repubblica.it",
         "ansa.it",
         "adnkronos.com",
-        "lastampa.it",
-        "ilmessaggero.it"
+        "lastampa.it"
       ],
       "links": [
         "https://www.ilgiornale.it/news/politica/abbattuto-f15-americano-pilota-messo-salvo-liran-catturato-2646954.html",
@@ -53,31 +79,6 @@
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/04/04/f15-abbattuto-iran-trump-pilota-news/8345963/",
         "https://www.laverita.info/iran-abbatte-f15-usa-2676663019.html",
         "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-4-aprile/"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Carburante a rischio per i voli, scattano le prime limitazioni in 4 aeroporti italiani: «Rifornirsi altrove»",
-      "source_count": 10,
-      "article_count": 16,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/economia/carburante-a-rischio-per-i-voli-al-via-restrizioni-in-4-aeroporti-italiani_5r3emm1cYfxzocfPp1picJ",
-        "https://www.ansa.it/sito/notizie/economia/2026/04/04/scattano-le-prime-restrizioni-sui-carburanti-per-gli-aerei_f17f98ae-bc4c-4016-9d4c-3db14f4031c8.html",
-        "https://www.ansa.it/sito/notizie/economia/aziende/2026/04/04/scattano-le-prime-restrizioni-per-i-carburanti-per-gli-aerei-_f17f98ae-bc4c-4016-9d4c-3db14f4031c8.html",
-        "https://www.fanpage.it/attualita/crisi-carburante-scattano-prime-restrizioni-negli-aeroporti-limitazioni-a-linate-bologna-venezia-e-treviso/",
-        "https://www.ilmessaggero.it/italia/guerra_iran_voli_a_rischio_quali_sono-9456054.html"
       ]
     },
     {
@@ -179,7 +180,7 @@
       "rank": 8,
       "title": "Nasa: Artemis II è a metà strada verso la Luna",
       "source_count": 6,
-      "article_count": 9,
+      "article_count": 8,
       "source_domains": [
         "corriere.it",
         "fanpage.it",
