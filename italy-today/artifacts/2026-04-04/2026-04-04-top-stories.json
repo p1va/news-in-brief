@@ -1,6 +1,6 @@
 {
   "date": "2026-04-04",
-  "generated_at": "Sat 04 Apr 08:52",
+  "generated_at": "Sat 04 Apr 09:47",
   "stories": [
     {
       "rank": 1,
@@ -30,10 +30,11 @@
     {
       "rank": 2,
       "title": "Meloni nel Golfo Persico, missione in Arabia, Emirati e Qatar. Il nodo degli approvvigionamenti energetici e le misure",
-      "source_count": 12,
-      "article_count": 17,
+      "source_count": 11,
+      "article_count": 18,
       "source_domains": [
         "ansa.it",
+        "liberoquotidiano.it",
         "fanpage.it",
         "governo.it",
         "roma.corriere.it",
@@ -42,20 +43,67 @@
         "lastampa.it",
         "repubblica.it",
         "ilmessaggero.it",
-        "unita.it",
-        "liberoquotidiano.it",
         "ilsole24ore.com"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/politica/2026/04/04/meloni-lascia-gedda-espressa-vicinanza-dellitalia-allarabia-saudita_da8294e8-b7eb-441b-a5a0-3c6bd5967eab.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47133125/governo-la-premier-meloni-arrivata-a-doha-vedra-emiro-qatar-al-thani/",
         "https://www.fanpage.it/live/governo-meloni-ultime-notizie-crisi-dimissioni-4-aprile-diretta/",
         "https://www.governo.it/it/articolo/visita-del-presidente-meloni-arabia-saudita-qatar-e-emirati-arabi-uniti-nota-di-palazzo",
-        "https://roma.corriere.it/notizie/politica/26_aprile_03/meloni-blitz-golfo-persico-arabia-saudita-emirati-qatar-6ed177ff-e032-4919-9b84-0de5051a0xlk.shtml",
-        "https://www.adnkronos.com/politica/meloni-vede-mohammed-bin-salman-sforzi-per-soluzione-diplomatica-conflitto-in-iran_1MZw9XUkK4nSs5slGkGs1D"
+        "https://roma.corriere.it/notizie/politica/26_aprile_03/meloni-blitz-golfo-persico-arabia-saudita-emirati-qatar-6ed177ff-e032-4919-9b84-0de5051a0xlk.shtml"
       ]
     },
     {
       "rank": 3,
+      "title": "Vittorio Messori è morto, addio allo scrittore cattolico famoso per “Ipotesi su Gesù”: aveva 84 anni",
+      "source_count": 10,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "corriere.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "bologna.repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/04/e-morto-vittorio-messori-scrittore-e-giornalista-cattolico_2c79cb97-8f4d-4f4e-ae1e-a6de82f26fc0.html",
+        "https://www.fanpage.it/cultura/e-morto-vittorio-messori-il-piu-noto-scrittore-cattolico-con-ipotesi-su-gesu-fatale-un-attacco-cardiaco/",
+        "https://www.ilfattoquotidiano.it/2026/04/04/e-morto-vittorio-messori-addio-al-grande-scrittore-cattolico-di-ipotesi-su-gesu-il-suo-cuore-si-e-spento-alle-ore-21-45-di-venerdi-santo/8345971/",
+        "https://www.ilfattoquotidiano.it/2026/04/04/e-morto-vittorio-messori-addio-allo-scrittore-cattolico-di-ipotesi-su-gesu-il-suo-cuore-si-e-spento-alle-ore-21-45-di-venerdi-santo/8345971/",
+        "https://www.corriere.it/cultura/26_aprile_04/morto-vittorio-messori-b7cfee67-04ce-4769-b82b-a41a069adxlk.shtml"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Arrestato il boss Roberto Mazzarella, tra i latitanti più pericolosi: era in un resort di lusso a Vietri",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "napoli.corriere.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "napoli.repubblica.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/04/arrestato-il-boss-di-camorra-roberto-mazzarella_431e3296-d56e-4b76-8d7c-35e5f27d433e.html",
+        "https://www.ilfattoquotidiano.it/2026/04/04/mazzarella-boss-camorra-arrestato-vietri-news/8345979/",
+        "https://napoli.corriere.it/notizie/cronaca/26_aprile_04/camorra-arrestato-il-capoclan-roberto-mazzarella-e-stato-scovato-dai-carabinieri-a-vietri-sul-mare-5bb00500-5ac1-4df6-96d4-fb076239bxlk.shtml",
+        "https://www.adnkronos.com/cronaca/catturato-il-boss-roberto-mazzarella-era-tra-i-4-ricercati-piu-pericolosi-del-ministero-dellinterno_5XQzWjvJnIG6MjxOM7XSmT",
+        "https://www.fanpage.it/napoli/arrestato-il-boss-roberto-mazzarella-tra-i-latitanti-piu-pericolosi-era-in-un-resort-di-lusso-in-costiera/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Gattuso addio alla Nazionale: 'Lascio col dolore nel cuore'",
       "source_count": 8,
       "article_count": 9,
@@ -75,52 +123,6 @@
         "https://www.repubblica.it/sport/calcio/2026/04/04/news/panchina_nazionale_gattuso_lascia_nuovo_ct_allegri_conte_mancini-425263384/",
         "https://ilmanifesto.it/nazionale-lascia-anche-gattuso-nuovo-ct-a-giugno",
         "https://www.ilmessaggero.it/sport/nazionali/nazionale_mancini_ct_cosa_succede_malago_ora-9454743.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "E' morto Vittorio Messori, addio allo scrittore cattolico più famoso al mondo con 'Ipotesi su Gesù'",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "corriere.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "bologna.repubblica.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/04/e-morto-vittorio-messori-addio-al-grande-scrittore-cattolico-di-ipotesi-su-gesu-il-suo-cuore-si-e-spento-alle-ore-21-45-di-venerdi-santo/8345971/",
-        "https://www.corriere.it/cultura/26_aprile_04/morto-vittorio-messori-b7cfee67-04ce-4769-b82b-a41a069adxlk.shtml",
-        "https://www.ilgiornale.it/news/attualit/morto-vittorio-messori-lautore-cattolico-pi-famoso-mondo-2647058.html",
-        "https://www.ilmessaggero.it/vaticano/vittorio_messori_morto_scrittore_oggi-9455828.html",
-        "https://www.corriere.it/cronache/26_aprile_04/vittorio-messori-intervista-7447f0b4-5de3-4b03-a618-e633e4c49xlk.shtml"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Arrestato il boss di camorra Roberto Mazzarella",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "napoli.corriere.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "napoli.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/04/arrestato-il-boss-di-camorra-roberto-mazzarella_431e3296-d56e-4b76-8d7c-35e5f27d433e.html",
-        "https://www.ilfattoquotidiano.it/2026/04/04/mazzarella-boss-camorra-arrestato-vietri-news/8345979/",
-        "https://napoli.corriere.it/notizie/cronaca/26_aprile_04/camorra-arrestato-il-capoclan-roberto-mazzarella-e-stato-scovato-dai-carabinieri-a-vietri-sul-mare-5bb00500-5ac1-4df6-96d4-fb076239bxlk.shtml",
-        "https://www.adnkronos.com/cronaca/catturato-il-boss-roberto-mazzarella-era-tra-i-4-ricercati-piu-pericolosi-del-ministero-dellinterno_5XQzWjvJnIG6MjxOM7XSmT",
-        "https://www.fanpage.it/napoli/arrestato-il-boss-roberto-mazzarella-tra-i-latitanti-piu-pericolosi-era-in-un-resort-di-lusso-in-costiera/"
       ]
     },
     {
@@ -168,9 +170,51 @@
     },
     {
       "rank": 8,
+      "title": "Nasa: Artemis II è a metà strada verso la Luna",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "corriere.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/innovazione/scienze/artemis-2-la-foto-della-terra-vista-dagli-astronauti-e-una-meraviglia-la-luna-si-avvicina-siamo-a-meta-strada/",
+        "https://www.liberoquotidiano.it/news/tv-news/47132792/nasa-artemis-ii-e-a-meta-strada-verso-la-luna/",
+        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/04/artemis-ii-e-a-meta-strada-verso-la-luna_55b7e792-6dbf-4b13-953e-7a4ee483e0fd.html",
+        "https://www.ilmessaggero.it/mondo/artemis_2_video_luna_nasa_equipaggio-9455723.html",
+        "https://www.lastampa.it/scienza/2026/04/04/news/artemis_2_giorno_4-15571960/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Roma, incidente mortale in via Tuscolana: perdono la vita una mamma e un 16enne. Grave una bambina",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-locale/roma-incidente-mortale-tuscolana-perdono-vita-mamma-e-16enne-2647079.html",
+        "https://www.ilfattoquotidiano.it/2026/04/04/incidente-roma-tuscolana-morti-16enne-donna-notizie/8345992/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/04/scontro-fra-due-auto-a-roma-morti-una-donna-e-un-ragazzo-di-16-anni_cb8def47-a59c-4139-91e5-77f3255c2872.html",
+        "https://www.fanpage.it/roma/incidente-stradale-sulla-tuscolana-a-roma-scontro-tra-auto-morti-2-uomini-2-bimbi-estratti-dalle-lamiere/",
+        "https://www.adnkronos.com/cronaca/roma-scontro-fra-due-auto-in-via-tuscolana-2-morti-e-due-bimbi-estratti-da-lamiere_1CyiKSlOCwVmRAqdP5jaRL"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Supermercati aperti a Pasqua e Pasquetta 2026",
       "source_count": 3,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
         "corriere.it",
         "fanpage.it",
@@ -182,45 +226,6 @@
         "https://www.fanpage.it/milano/i-supermercati-aperti-a-milano-a-pasqua-e-pasquetta-2026-dove-fare-la-spesa-il-5-e-6-aprile/",
         "https://www.ilgiornale.it/news/attualit/supermercati-aperti-pasqua-e-pasquetta-2026-2646834.html",
         "https://www.fanpage.it/napoli/gli-orari-dei-mezzi-a-napoli-a-pasqua-e-pasquetta-2026-le-modifiche-a-bus-metro-e-funicolari/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Voli e cancellazioni, quanto carburante per gli aerei hanno i Paesi? «Il Regno Unito ha scorte per 3 mesi, l’Italia per 7»",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "corriere.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.corriere.it/economia/trasporti/aerei/26_aprile_04/voli-cancellazioni-carburante-aerei-scorte-italia-ef20c0b1-4ab5-47f3-967e-6709df7d7xlk.shtml",
-        "https://www.corriere.it/economia/trasporti/aerei/26_aprile_04/voli-cancellazioni-carburante-aerei-scorte-italia-ef20c0b1-4ab5-47f3-967e-6709df7d7xlk.shtml",
-        "https://www.corriere.it/economia/trasporti/aerei/26_aprile_03/voli-e-sicuro-prenotare-per-l-estate-quali-sono-le-destinazioni-meno-critiche-come-organizzare-le-vacanze-in-tempo-di-guerra-a26df530-6bf2-4464-b949-b432ea8f5xlk.shtml",
-        "https://www.ilmessaggero.it/economia/schede/voli_aerei_destinazioni_rischio_crisi_cherosene_premium-9454189.html",
-        "https://www.repubblica.it/economia/2026/04/03/news/cherosene_aerei_ryanair_lufthansa_voli_cancellati-425262288/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Ostia, muore a 15 anni dopo una cena con le compagne di squadra. Allergica al lattosio: si indaga",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "roma.corriere.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/nazionale/sofia-vico-muore-15-anni-cena-amici-aperta-inchiesta-2647066.html",
-        "https://roma.corriere.it/notizie/cronaca/26_aprile_04/non-riesco-piu-a-respirare-le-ultime-parole-di-sofia-15enne-allergica-al-lattosio-morta-durante-la-cena-inchiesta-della-procura-a1b8f966-baa4-4d72-8273-2dec95fd3xlk.shtml",
-        "https://www.ilmessaggero.it/salute/schede/sofia_di_vico_allergia_latte_sintomi_cure_adrenalina-9455727.html",
-        "https://www.liberoquotidiano.it/news/italia/47123513/ostia-15enne-sofia-di-vico-muore-dopo-cena-amiche-sospetto/",
-        "https://www.lastampa.it/cronaca/2026/04/03/news/ostia_15enne_morta_cena_allergia-15571296/"
       ]
     }
   ]
