@@ -1,18 +1,18 @@
 {
   "date": "2026-04-04",
-  "generated_at": "Sat 04 Apr 19:38",
+  "generated_at": "Sat 04 Apr 20:41",
   "stories": [
     {
       "rank": 1,
-      "title": "Meloni nel Golfo Persico, missione in Arabia, Emirati e Qatar. Il nodo degli approvvigionamenti energetici e le misure",
+      "title": "«Urgente assicurare la navigazione nello Stretto». Meloni e gli incontri in Qatar ed Emirati | Choc energia, la missione nel Golfo e le tappe",
       "source_count": 11,
-      "article_count": 25,
+      "article_count": 28,
       "source_domains": [
         "adnkronos.com",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "ansa.it",
         "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
         "lastampa.it",
         "roma.corriere.it",
         "repubblica.it",
@@ -23,9 +23,9 @@
       "links": [
         "https://www.adnkronos.com/politica/meloni-nel-golfo-no-visita-simbolica-si-decide-nostra-sicurezza-e-futuro-economico_CHvDAd54jI3DIwSlA95N5",
         "https://www.adnkronos.com/politica/meloni-visita-golfo-perche-il-rischio-energia_CHvDAd54jI3DIwSlA95N5",
-        "https://www.ilgiornale.it/news/governo/video-giorgia-meloni-nel-golfo-difendere-interessi-degli-2647209.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/04/meloni-nel-golfo-focus-sullenergia-e-la-difesa-militare_da8294e8-b7eb-441b-a5a0-3c6bd5967eab.html",
-        "https://www.ilfattoquotidiano.it/2026/04/04/meloni-golfo-crisi-energetica-notizie/8346118/"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47139986/meloni-nel-golfo-per-difendere-gli-interessi-degli-italiani-e-della-nazione-/",
+        "https://www.liberoquotidiano.it/news/pillole/47139687/meloni_in_italia_e_all_estero_la_missione_e_difendere_l_interesse_italiano_/",
+        "https://www.ilgiornale.it/news/governo/video-giorgia-meloni-nel-golfo-difendere-interessi-degli-2647209.html"
       ]
     },
     {
@@ -56,31 +56,6 @@
     },
     {
       "rank": 3,
-      "title": "Abbattuto un F15 americano. \"Un pilota messo in salvo\". L'Iran: catturato il secondo",
-      "source_count": 10,
-      "article_count": 15,
-      "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "corriere.it",
-        "repubblica.it",
-        "ansa.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/abbattuto-f15-americano-pilota-messo-salvo-liran-catturato-2646954.html",
-        "https://www.liberoquotidiano.it/news/libero-video/47132647/iran-abbattuto-caccia-usa-annuncio-esercito/",
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-4-aprile/",
-        "https://www.ilmessaggero.it/mondo/f15_usa_abbattuto_iran_come_ha_fatto_sensori_infrarossi_passivi-9455765.html",
-        "https://www.corriere.it/esteri/diretta-live/26_aprile_04/iran-usa-news-diretta-1.shtml"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Arrestato il boss di camorra Roberto Mazzarella",
       "source_count": 10,
       "article_count": 14,
@@ -102,6 +77,30 @@
         "https://www.fanpage.it/napoli/arresto-del-latitante-roberto-mazzarella-quando-il-cugino-ed-ex-boss-diceva-non-e-lontano-da-napoli/",
         "https://www.liberoquotidiano.it/news/pillole/47132927/arrestato_il_boss_latitante_di_camorra_roberto_mazzarella/",
         "https://video.corriere.it/cronaca/camorra-arrestato-il-boss-latitante-roberto-mazzarella/6f6a5466-71dd-497f-8bc1-53d83baafxlk"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Abbattuto un F15 americano. \"Un pilota messo in salvo\". L'Iran: catturato il secondo",
+      "source_count": 9,
+      "article_count": 14,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "corriere.it",
+        "repubblica.it",
+        "ansa.it",
+        "adnkronos.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/abbattuto-f15-americano-pilota-messo-salvo-liran-catturato-2646954.html",
+        "https://www.liberoquotidiano.it/news/libero-video/47132647/iran-abbattuto-caccia-usa-annuncio-esercito/",
+        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-4-aprile/",
+        "https://www.ilmessaggero.it/mondo/f15_usa_abbattuto_iran_come_ha_fatto_sensori_infrarossi_passivi-9455765.html",
+        "https://www.corriere.it/esteri/diretta-live/26_aprile_04/iran-usa-news-diretta-1.shtml"
       ]
     },
     {
@@ -154,6 +153,27 @@
     },
     {
       "rank": 7,
+      "title": "Nasa: Artemis II è a metà strada verso la Luna",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "lastampa.it",
+        "corriere.it",
+        "fanpage.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/esteri/2026/04/04/video/artemis_verso_la_luna_le_spettacolari_immagini_dalla_navicella_orion-15572846/",
+        "https://www.lastampa.it/scienza/2026/04/04/news/artemis_2_luna_ritorno-astronauti_record_distanza-15572771/",
+        "https://www.corriere.it/tecnologia/cards/gli-astronauti-di-artemis-ii-a-meta-strada-tra-la-terra-e-la-luna-le-prime-foto-scattate-coi-loro-smartphone/lalba_principale.shtml",
+        "https://video.corriere.it/tecnologia/le-prime-immagini-della-terra-inviate-dalla-missione-artemis-ii/31ed4cc3-579a-4b12-8a93-fd533900cxlk",
+        "https://www.fanpage.it/innovazione/scienze/artemis-2-la-foto-della-terra-vista-dagli-astronauti-e-una-meraviglia-la-luna-si-avvicina-siamo-a-meta-strada/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Incidente a Portegrandi, auto invade la corsia opposta e si schianta contro un bus (con a bordo 50 persone): un morto e 5 feriti",
       "source_count": 7,
       "article_count": 8,
@@ -175,31 +195,10 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Nasa: Artemis II è a metà strada verso la Luna",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "lastampa.it",
-        "corriere.it",
-        "fanpage.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/scienza/2026/04/04/news/artemis_2_luna_ritorno-astronauti_record_distanza-15572771/",
-        "https://www.corriere.it/tecnologia/cards/gli-astronauti-di-artemis-ii-a-meta-strada-tra-la-terra-e-la-luna-le-prime-foto-scattate-coi-loro-smartphone/lalba_principale.shtml",
-        "https://video.corriere.it/tecnologia/le-prime-immagini-della-terra-inviate-dalla-missione-artemis-ii/31ed4cc3-579a-4b12-8a93-fd533900cxlk",
-        "https://www.fanpage.it/innovazione/scienze/artemis-2-la-foto-della-terra-vista-dagli-astronauti-e-una-meraviglia-la-luna-si-avvicina-siamo-a-meta-strada/",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/04/04/missione-artemis-lentusiasmo-degli-astronauti-a-bordo-della-orion_f04a0f22-ea38-4658-810e-f8d0af332fc9.html"
-      ]
-    },
-    {
       "rank": 9,
       "title": "Quando gioca Sinner a Monte Carlo, data e orario del match d’esordio: il possibile avversario",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
         "fanpage.it",
         "corriere.it",
@@ -213,7 +212,7 @@
         "https://www.corriere.it/sport/tennis/26_aprile_04/sinner-doppio-bergs-montecarlo-dove-vedere-tv-pasqua-876ea391-c28e-4f45-b6bb-1b50713e6xlk.shtml",
         "https://www.fanpage.it/sport/tennis/quando-gioca-sinner-a-monte-carlo-data-e-orario-del-match-desordio-il-possibile-avversario/",
         "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_montecarlo_tabellone_possibili_avversari_dove_vederlo-9456095.html",
-        "https://www.ilfattoquotidiano.it/2026/04/04/atp-monte-carlo-sinner-italiani-tabellone-programma-dove-vedere-tv-streaming/8346080/"
+        "https://www.ilmessaggero.it/sport/schede/sinner_montecarlo_quando_gioca_tabellone_dove_vederlo_tv_streaming-9456095.html"
       ]
     },
     {
