@@ -1,6 +1,6 @@
 {
   "date": "2026-04-04",
-  "generated_at": "Sat 04 Apr 20:41",
+  "generated_at": "Sat 04 Apr 21:39",
   "stories": [
     {
       "rank": 1,
@@ -85,9 +85,9 @@
       "source_count": 9,
       "article_count": 14,
       "source_domains": [
+        "fanpage.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
-        "fanpage.it",
         "ilmessaggero.it",
         "corriere.it",
         "repubblica.it",
@@ -96,11 +96,11 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.fanpage.it/innovazione/scienze/f%e2%80%9115-abbattuto-in-iran-cose-laddestramento-sere-per-i-piloti-finiti-in-territorio-nemico/",
         "https://www.ilgiornale.it/news/politica/abbattuto-f15-americano-pilota-messo-salvo-liran-catturato-2646954.html",
         "https://www.liberoquotidiano.it/news/libero-video/47132647/iran-abbattuto-caccia-usa-annuncio-esercito/",
         "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-4-aprile/",
-        "https://www.ilmessaggero.it/mondo/f15_usa_abbattuto_iran_come_ha_fatto_sensori_infrarossi_passivi-9455765.html",
-        "https://www.corriere.it/esteri/diretta-live/26_aprile_04/iran-usa-news-diretta-1.shtml"
+        "https://www.ilmessaggero.it/mondo/f15_usa_abbattuto_iran_come_ha_fatto_sensori_infrarossi_passivi-9455765.html"
       ]
     },
     {
@@ -217,21 +217,24 @@
     },
     {
       "rank": 10,
-      "title": "Serie A, oggi Lazio-Parma - La partita in diretta",
-      "source_count": 4,
-      "article_count": 9,
+      "title": "Grave lutto per l’ex Inter Felice Centofanti: addio alla figlia Giorgia",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
         "corriere.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it"
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.corriere.it/sport/calcio/serie-a/partita/lazio-parma/2558811/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/04/serie-a-in-campo-alle-2045-lazio-parma-diretta_2f6f7edb-0b1c-43c2-9b09-d0621737febe.html",
-        "https://www.adnkronos.com/sport/diretta-lazio-parma-oggi-serie-a-live-risultato-aggiornamenti_7A1tXH4JCM6HDxtk58dvyl",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/04/serie-a-in-campo-sabato-alle-18-verona-fiorentina-diretta_0cb0a7f2-9786-47cb-88a9-32efe04bbd92.html",
-        "https://www.ilmessaggero.it/schede/lazio_parma_formazioni_oggi_dove_vederla-9455889.html"
+        "https://www.ilgiornale.it/news/attualit/grave-lutto-l-ex-inter-felice-centofanti-addio-figlia-2647221.html",
+        "https://www.fanpage.it/sport/calcio/grave-lutto-per-lex-interista-felice-centofanti-e-morta-la-figlia-giorgia/",
+        "https://www.corriere.it/sport/calcio/26_aprile_04/giorgia-centofanti-morta-felice-martina-baae46bd-7cd9-41f1-90e2-9281769cexlk.shtml",
+        "https://www.repubblica.it/sport/vari/2026/04/04/news/giorgia_centofanti_addio_sorella_martina_figlia_felice-425264721/",
+        "https://www.ilmessaggero.it/persone/centofanti_morta_figlia_disabile_terzino_inter_malattia-9456393.html"
       ]
     }
   ]
