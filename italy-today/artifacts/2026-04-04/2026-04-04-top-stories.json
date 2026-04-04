@@ -1,19 +1,19 @@
 {
   "date": "2026-04-04",
-  "generated_at": "Sat 04 Apr 15:40",
+  "generated_at": "Sat 04 Apr 16:45",
   "stories": [
     {
       "rank": 1,
       "title": "Meloni nel Golfo Persico, missione in Arabia, Emirati e Qatar. Il nodo degli approvvigionamenti energetici e le misure",
       "source_count": 13,
-      "article_count": 23,
+      "article_count": 24,
       "source_domains": [
         "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "lastampa.it",
         "roma.corriere.it",
         "ansa.it",
         "repubblica.it",
-        "liberoquotidiano.it",
         "fanpage.it",
         "governo.it",
         "adnkronos.com",
@@ -24,17 +24,17 @@
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/04/04/meloni-golfo-crisi-energetica-notizie/8346118/",
+        "https://www.liberoquotidiano.it/news/libero-video/47136805/meloni-incontra-l-emiro-al-thani-focus-su-sforzi-diplomatici-per-uscire-dalla-crisi/",
         "https://www.lastampa.it/politica/2026/04/04/news/la_premier_meloni_in_qatar_e_emirati_urgente_riaprire_lo_stretto_di_hormuz-15572517/",
         "https://roma.corriere.it/notizie/politica/26_aprile_04/meloni-golfo-visite-energia-qatar-emirati-arabia-6912c832-a2fc-4e31-9bd5-ea6e302f7xlk.shtml",
-        "https://roma.corriere.it/notizie/politica/26_aprile_04/meloni-golfo-visite-energia-qatar-emirati-arabia-6912c832-a2fc-4e31-9bd5-ea6e302f7xlk.shtml",
-        "https://video.corriere.it/politica/governo-meloni-arrivata-a-doha-vedra-l-emiro-del-qatar-al-thani/f92ad937-54a4-4bb0-ab17-1fc61cb4exlk"
+        "https://roma.corriere.it/notizie/politica/26_aprile_04/meloni-golfo-visite-energia-qatar-emirati-arabia-6912c832-a2fc-4e31-9bd5-ea6e302f7xlk.shtml"
       ]
     },
     {
       "rank": 2,
       "title": "Carburante a rischio per i voli, scattano le prime limitazioni in 4 aeroporti italiani: «Rifornirsi altrove»",
       "source_count": 11,
-      "article_count": 19,
+      "article_count": 18,
       "source_domains": [
         "adnkronos.com",
         "ansa.it",
@@ -60,7 +60,7 @@
       "rank": 3,
       "title": "Abbattuto un F15 americano. \"Un pilota messo in salvo\". L'Iran: catturato il secondo",
       "source_count": 10,
-      "article_count": 16,
+      "article_count": 15,
       "source_domains": [
         "ilgiornale.it",
         "liberoquotidiano.it",
@@ -199,27 +199,6 @@
     },
     {
       "rank": 9,
-      "title": "Sinner, quando gioca a Montecarlo? Kouame o Humbert al secondo turno: data, tabellone e dove vederlo in tv (anche in chiaro)",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "fanpage.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "corriere.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/tennis/quando-gioca-sinner-a-monte-carlo-data-e-orario-del-match-desordio-il-possibile-avversario/",
-        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_montecarlo_tabellone_possibili_avversari_dove_vederlo-9456095.html",
-        "https://www.ilfattoquotidiano.it/2026/04/04/atp-monte-carlo-sinner-italiani-tabellone-programma-dove-vedere-tv-streaming/8346080/",
-        "https://www.adnkronos.com/sport/sinner-maestro-tennis-un-giorno-lezione-jannik-montecarlo-video_w9fzOshYGKfL7eFdmgZT9",
-        "https://www.ilgiornale.it/news/tennis/jannik-sinner-riparte-montecarlo-quando-pu-tornare-numero-1-2647074.html"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Mazzi, il manager di musica e tv al Turismo per il dopo Santanchè",
       "source_count": 6,
       "article_count": 7,
@@ -237,6 +216,26 @@
         "https://www.laverita.info/meloni-nomina-mazzi-ministro-turismo-2676663792.html",
         "https://www.repubblica.it/politica/2026/04/04/news/mazzi_gianmarco_chi_e_nuovo_ministro_turismo-425263437/",
         "https://ilmanifesto.it/blitz-di-meloni-mazzi-promosso-ministro-del-turismo"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Ribaltone meteo, a Pasqua e Pasquetta arriva la primavera",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "milano.corriere.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://milano.corriere.it/notizie/meteo/26_aprile_04/previsioni-meteo-domenica-5-aprile-pasqua-e-pasquetta-con-l-anticiclone-cielo-sereno-e-temperature-primaverili-d5024f57-ac9e-493c-a75a-f1e3862eaxlk.shtml",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/04/pasqua-e-pasquetta-con-sole-e-massime-fino-a-26c-primavera-da-nord-a-sud_4788456f-7a24-4f2f-9acf-63b8559774c2.html",
+        "https://www.ilmessaggero.it/italia/meteo_pasqua_pasquetta_caldo_quanto_dura-9455998.html",
+        "https://www.corriere.it/cronache/26_aprile_04/meteo-pasqua-col-sole-e-pasquetta-da-picnic-in-maniche-corte-mentre-al-sud-si-fa-la-conta-dei-danni-32-turisti-tratti-in-salvo-7ed4ac0d-2e4e-4814-a63f-b15092a42xlk.shtml",
+        "https://www.adnkronos.com/cronaca/meteo-previsioni-pasqua-pasquetta-aprile-2026_2CD9z93ibhgN7q56r5OiFV"
       ]
     }
   ]
