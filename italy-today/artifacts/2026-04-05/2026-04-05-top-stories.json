@@ -1,19 +1,19 @@
 {
   "date": "2026-04-05",
-  "generated_at": "Sun 05 Apr 15:40",
+  "generated_at": "Sun 05 Apr 16:44",
   "stories": [
     {
       "rank": 1,
       "title": "Gli Usa mettono in salvo il pilota disperso. La missione: le forze speciali, la battaglia notturna, i due aerei «fatti saltare»",
       "source_count": 11,
-      "article_count": 21,
+      "article_count": 23,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ansa.it",
         "repubblica.it",
         "adnkronos.com",
         "liberoquotidiano.it",
         "ilgiornale.it",
-        "ilfattoquotidiano.it",
         "corriere.it",
         "fanpage.it",
         "ilmessaggero.it",
@@ -21,11 +21,11 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/05/iran-usa-pasdaran-abbattimento-c130-notizie/8346908/",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/05/medio-oriente-trump-il-pilota-salvato-in-iran-e-gravemente-ferito-il-liveblog_dfd91ced-2691-4952-b6e4-0a5abe29937f.html",
         "https://www.repubblica.it/esteri/2026/04/05/news/scontro_hercules_usa_salvataggio_pilota_disperso-425265587/",
         "https://www.adnkronos.com/internazionale/esteri/pilota-disperso-in-iran-usa-hanno-distrutto-due-aerei-per-non-lasciarli-a-teheran_6emBGmz7tvplcPRZdCAU7j",
-        "https://www.adnkronos.com/internazionale/esteri/pilota-usa-recuperato-in-iran-cosa-sappiamo-finora-delloperazione_1exg8cwqcjJbyXKkbXIt2B",
-        "https://www.adnkronos.com/internazionale/esteri/missione-di-salvataggio-per-il-pilota-usa-disperso-in-iran-trump-tra-le-piu-audaci-di-sempre_5GOwsARLXwnX7LQlly0sV7"
+        "https://www.adnkronos.com/internazionale/esteri/pilota-usa-recuperato-in-iran-cosa-sappiamo-finora-delloperazione_1exg8cwqcjJbyXKkbXIt2B"
       ]
     },
     {
@@ -188,6 +188,27 @@
     },
     {
       "rank": 9,
+      "title": "Pogacar come Merckx: dopo la Sanremo vince anche il Giro delle Fiandre",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/ciclismo/pogacar-trionfa-al-giro-delle-fiandre-ma-passa-col-rosso-al-passaggio-a-livello-si-muove-la-procura/",
+        "https://www.ilgiornale.it/news/ciclismo/pogacar-cannibale-milano-sanremo-e-giro-delle-fiandre-merckx-2647436.html",
+        "https://www.corriere.it/sport/ciclismo/26_aprile_05/pogacar-giro-delle-fiandre-6688eb29-7a6c-4c0a-9127-a03bdc6ddxlk.shtml",
+        "https://www.ilfattoquotidiano.it/2026/04/05/pogacar-giro-fiandre-milano-sanremo-successo-trionfo/8346867/",
+        "https://www.adnkronos.com/sport/pogacar-giro-fiandre-classifica-2026_381ZGX64PtKWrmqOt0SXf8"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "“Trump ricoverato in ospedale”, ma la Casa Bianca smentisce i rumors",
       "source_count": 6,
       "article_count": 6,
@@ -205,26 +226,6 @@
         "https://www.corriere.it/esteri/26_aprile_05/trump-ricoverato-in-ospedale-la-casa-bianca-costretta-a-smentire-i-rumors-diffusi-online-e1d93325-8235-4a84-991e-21dc73e4bxlk.shtml",
         "https://www.repubblica.it/esteri/2026/04/05/news/trump_ricoverato_ospedale_malattia_casa_bianca-425265083/",
         "https://www.adnkronos.com/internazionale/esteri/il-giallo-del-ricovero-di-trump-il-presidente-usa-lontano-dallocchio-pubblico-al-lavoro-per-gli-americani_4IB9g1cZO0Twtz3fu2FwwJ"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Grave lutto per l’ex Inter Felice Centofanti: addio alla figlia Giorgia",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/attualit/grave-lutto-l-ex-inter-felice-centofanti-addio-figlia-2647221.html",
-        "https://www.corriere.it/sport/calcio/26_aprile_04/giorgia-centofanti-morta-felice-martina-baae46bd-7cd9-41f1-90e2-9281769cexlk.shtml",
-        "https://www.ilmessaggero.it/persone/centofanti_morta_figlia_disabile_terzino_inter_malattia-9456393.html",
-        "https://www.ilfattoquotidiano.it/2026/04/04/centofanti-lutto-figlia-giorgia-notizie/8346329/",
-        "https://www.adnkronos.com/sport/lutto-ex-inter-felice-centofanti-morta-la-figlia-giorgia-il-saluto-sorella-martina_7EaOLW3ZU5vtXv5wnPfUmV"
       ]
     }
   ]
