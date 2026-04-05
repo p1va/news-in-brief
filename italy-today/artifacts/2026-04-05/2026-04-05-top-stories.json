@@ -1,6 +1,6 @@
 {
   "date": "2026-04-05",
-  "generated_at": "Sun 05 Apr 10:43",
+  "generated_at": "Sun 05 Apr 11:37",
   "stories": [
     {
       "rank": 1,
@@ -53,12 +53,11 @@
     },
     {
       "rank": 3,
-      "title": "Papa Leone, appello alla pace nel giorno di Pasqua: «Mondo ferito da guerre e soprusi. Oggi abbiamo bisogno di speranza»",
-      "source_count": 9,
-      "article_count": 12,
+      "title": "Il Papa: \"Non lasciamoci paralizzare da guerre e ingiustizie\"",
+      "source_count": 8,
+      "article_count": 11,
       "source_domains": [
         "ilgiornale.it",
-        "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "roma.corriere.it",
         "lastampa.it",
@@ -69,36 +68,14 @@
       ],
       "links": [
         "https://www.ilgiornale.it/news/vaticano/papa-san-pietro-benedizione-pasqua-veglia-pace-l11-aprile-2647404.html",
-        "https://www.ilfattoquotidiano.it/2026/04/05/papa-leone-omelia-pasqua-guerre-notizie/8346689/",
         "https://www.ilmessaggero.it/vaticano/papa_leone_messa_pasqua_benedizione_urbi_et_orbi-9457709.html",
         "https://roma.corriere.it/notizie/politica/26_aprile_05/pasqua-papa-leone-xiv-omelia-guerre-280ab9c9-4750-4f95-b8d6-c18624521xlk.shtml",
-        "https://www.lastampa.it/politica/2026/04/05/news/messaggio_del_papa_al_mondo_abbandoniamo_ogni_volonta_di_contesa_di_dominio_e_di_potere-15573299/"
+        "https://www.lastampa.it/politica/2026/04/05/news/messaggio_del_papa_al_mondo_abbandoniamo_ogni_volonta_di_contesa_di_dominio_e_di_potere-15573299/",
+        "https://www.lastampa.it/esteri/2026/04/05/news/leone_xiv_egoismi_di_parte_guerre_oppressione_siamo_in_tunnel_di_cui_non_vediamo_l_uscita-15573271/"
       ]
     },
     {
       "rank": 4,
-      "title": "Gli auguri di Meloni e il messaggio di Mattarella al Papa: “Recuperare le ragioni del dialogo”",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "roma.corriere.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/04/05/auguri-da-meloni-per-una-felice-e-serena-pasqua_bdcada8d-b04e-4294-9425-ee6e4fae5492.html",
-        "https://www.fanpage.it/politica/gli-auguri-di-pasqua-del-presidente-mattarella-a-papa-leone-xiv-mi-unisco-ai-suoi-appelli-per-la-pace/",
-        "https://www.ilgiornale.it/news/interni/auguri-meloni-e-messaggio-mattarella-papa-recuperare-ragioni-2647368.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/05/mattarella-manda-auguri-pasqua-al-papa-si-recuperino-ragioni-dialogo-e-moderazione_76ba4798-e778-482e-9002-d6fa1919d329.html",
-        "https://www.repubblica.it/cronaca/2026/04/05/news/papa_leone_pasqua_2026_mattarella_iran_libano-425265386/"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Allarme carburante per gli aerei. Scattano i limiti in 4 scali italiani",
       "source_count": 7,
       "article_count": 9,
@@ -120,7 +97,73 @@
       ]
     },
     {
+      "rank": 5,
+      "title": "Naufragio in zona Sar Libica, 80 migranti dispersi: 32 i superstiti",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "palermo.repubblica.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "corriere.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://palermo.repubblica.it/cronaca/2026/04/05/news/settanta_dispersi_in_mare_i_sopravvissuti_al_naufragio_trasferiti_a_lampedusa-425265572/",
+        "https://www.ilgiornale.it/news/nazionale/migranti-naufragio-acque-libiche-32-superstiti-80-dispersi-2647408.html",
+        "https://www.ilmessaggero.it/mondo/naufraghi_lampedusa_sopravvissuti_cosa_dicono-9457723.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/05/superstiti-del-naufragio-sono-80-i-dispersi_bd2f7149-ed01-4497-8822-04f8749e8513.html",
+        "https://www.corriere.it/cronache/26_aprile_05/naufragio-libia-lampedusa-morti-dispersi-342f38d3-920c-494c-a48f-e3dd3e8b6xlk.shtml"
+      ]
+    },
+    {
       "rank": 6,
+      "title": "Mattarella e gli auguri al Papa: «Tempi complessi, si recuperi dialogo»",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "roma.corriere.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/04/05/auguri-da-meloni-per-una-felice-e-serena-pasqua_bdcada8d-b04e-4294-9425-ee6e4fae5492.html",
+        "https://www.fanpage.it/politica/gli-auguri-di-pasqua-del-presidente-mattarella-a-papa-leone-xiv-mi-unisco-ai-suoi-appelli-per-la-pace/",
+        "https://www.ilgiornale.it/news/interni/auguri-meloni-e-messaggio-mattarella-papa-recuperare-ragioni-2647368.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/04/05/mattarella-manda-auguri-pasqua-al-papa-si-recuperino-ragioni-dialogo-e-moderazione_76ba4798-e778-482e-9002-d6fa1919d329.html",
+        "https://www.repubblica.it/cronaca/2026/04/05/news/papa_leone_pasqua_2026_mattarella_iran_libano-425265386/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Sinner esordisce in doppio con Bergs nel Masters-1000 di Montecarlo: orario e dove vedere in tv",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
+        "corriere.it",
+        "ansa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/05/sinner-montecarlo-doppio-vittoria-bergs-nuove-soluzioni/8346752/",
+        "https://www.fanpage.it/sport/tennis/sinner-e-bergs-accedono-al-secondo-turno-in-doppio-allatp-monte-carlo-vittoria-contro-machac-ruud/",
+        "https://www.repubblica.it/sport/tennis/2026/04/05/diretta/sinner_bergs_doppio_atp_montecarlo-425265410/",
+        "https://www.corriere.it/sport/tennis/diretta-live/26_aprile_05/sinner-bergs-ruud-machac-doppio-montecarlo-diretta-risultato.shtml",
+        "https://www.ansa.it/sito/notizie/sport/2026/04/05/tennis-montecarlo-al-via-sinner-insegue-alcaraz_2e6b67bf-df24-4240-8631-0d3f2a8b9251.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "“Trump ricoverato in ospedale”, ma la Casa Bianca smentisce i rumors",
       "source_count": 6,
       "article_count": 6,
@@ -138,47 +181,6 @@
         "https://www.corriere.it/esteri/26_aprile_05/trump-ricoverato-in-ospedale-la-casa-bianca-costretta-a-smentire-i-rumors-diffusi-online-e1d93325-8235-4a84-991e-21dc73e4bxlk.shtml",
         "https://www.repubblica.it/esteri/2026/04/05/news/trump_ricoverato_ospedale_malattia_casa_bianca-425265083/",
         "https://www.adnkronos.com/internazionale/esteri/il-giallo-del-ricovero-di-trump-il-presidente-usa-lontano-dallocchio-pubblico-al-lavoro-per-gli-americani_4IB9g1cZO0Twtz3fu2FwwJ"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Sinner esordisce in doppio con Bergs nel Masters-1000 di Montecarlo: orario e dove vedere in tv",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "repubblica.it",
-        "corriere.it",
-        "ansa.it",
-        "fanpage.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/tennis/2026/04/05/diretta/sinner_bergs_doppio_atp_montecarlo-425265410/",
-        "https://www.corriere.it/sport/tennis/diretta-live/26_aprile_05/sinner-bergs-ruud-machac-doppio-montecarlo-diretta-risultato.shtml",
-        "https://www.ansa.it/sito/notizie/sport/2026/04/05/tennis-montecarlo-al-via-sinner-insegue-alcaraz_2e6b67bf-df24-4240-8631-0d3f2a8b9251.html",
-        "https://www.fanpage.it/sport/tennis/sinner-e-bergs-oggi-in-doppio-a-monte-carlo-a-che-ora-e-dove-vedere-in-tv-e-streaming-lincontro/",
-        "https://www.corriere.it/sport/tennis/26_aprile_04/sinner-doppio-bergs-montecarlo-dove-vedere-tv-pasqua-876ea391-c28e-4f45-b6bb-1b50713e6xlk.shtml"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Naufragio in zona Sar Libica, 80 migranti dispersi: 32 i superstiti",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "corriere.it",
-        "lastampa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/nazionale/migranti-naufragio-acque-libiche-32-superstiti-80-dispersi-2647408.html",
-        "https://www.ilmessaggero.it/mondo/naufraghi_lampedusa_sopravvissuti_cosa_dicono-9457723.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/05/superstiti-del-naufragio-sono-80-i-dispersi_bd2f7149-ed01-4497-8822-04f8749e8513.html",
-        "https://www.corriere.it/cronache/26_aprile_05/naufragio-libia-lampedusa-morti-dispersi-342f38d3-920c-494c-a48f-e3dd3e8b6xlk.shtml",
-        "https://www.lastampa.it/esteri/2026/04/05/news/naufragio_in_zona_sar_libica_80_migranti_dispersi_32_i_superstiti-15573296/"
       ]
     },
     {
@@ -203,22 +205,22 @@
     },
     {
       "rank": 10,
-      "title": "Caro energia, cinque governi Ue (tra cui l’Italia) chiedono di tassare gli extraprofitti delle società energetiche: «È il momento di agire»",
+      "title": "A Pasqua nel resort da mille euro a notte: il capoclan Mazzarella tradito dalle vacanze con la famiglia",
       "source_count": 5,
       "article_count": 6,
       "source_domains": [
         "ilgiornale.it",
-        "repubblica.it",
+        "fanpage.it",
         "ilmanifesto.it",
-        "ilmessaggero.it",
-        "corriere.it"
+        "ansa.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/litalia-altri-quattro-paesi-ora-tassare-extraprofitti-2647251.html",
-        "https://www.repubblica.it/economia/2026/04/05/news/wolff_tassa_extraprofitti_bruxelles_vigilare_cartelli-425265042/",
-        "https://ilmanifesto.it/litalia-salta-sul-treno-ue-per-tassare-gli-extraprofitti",
-        "https://www.ilmessaggero.it/economia/hormuz_cosa_succede_ora-9456479.html",
-        "https://www.ilgiornale.it/news/politica-economica/energia-cinque-paesi-ue-chiedono-tassa-sugli-extraprofitti-c-2647157.html"
+        "https://www.ilgiornale.it/news/politica/colpo-camorra-boss-pi-pericoloso-arrestato-allalba-resort-2647271.html",
+        "https://www.fanpage.it/napoli/a-pasqua-nel-resort-da-mille-euro-a-notte-il-capoclan-mazzarella-tradito-dalle-vacanze-con-la-famiglia/",
+        "https://ilmanifesto.it/arrestato-mazzarella-era-in-fuga-da-un-anno",
+        "https://www.ilgiornale.it/news/nazionale/arrestato-capoclan-ricercato-roberto-mazzarella-meloni-stato-2647206.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/04/arrestato-il-boss-di-camorra-roberto-mazzarella_431e3296-d56e-4b76-8d7c-35e5f27d433e.html"
       ]
     }
   ]
