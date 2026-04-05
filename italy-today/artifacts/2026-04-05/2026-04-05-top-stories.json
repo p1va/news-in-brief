@@ -1,11 +1,11 @@
 {
   "date": "2026-04-05",
-  "generated_at": "Sun 05 Apr 19:39",
+  "generated_at": "Sun 05 Apr 20:42",
   "stories": [
     {
       "rank": 1,
       "title": "Gli Usa mettono in salvo il pilota disperso. La missione: le forze speciali, la battaglia notturna, i due aerei «fatti saltare»",
-      "source_count": 11,
+      "source_count": 10,
       "article_count": 23,
       "source_domains": [
         "video.corriere.it",
@@ -17,7 +17,6 @@
         "ilfattoquotidiano.it",
         "fanpage.it",
         "ilmessaggero.it",
-        "lastampa.it",
         "news.google.com"
       ],
       "links": [
@@ -30,50 +29,51 @@
     },
     {
       "rank": 2,
-      "title": "Papa Leone, appello alla pace nel giorno di Pasqua: «Mondo ferito da guerre e soprusi. Oggi abbiamo bisogno di speranza»",
-      "source_count": 8,
-      "article_count": 14,
+      "title": "La Veglia di Pasqua di Papa Leone: «Non lasciamoci paralizzare da guerre e ingiustizie»",
+      "source_count": 9,
+      "article_count": 17,
       "source_domains": [
         "adnkronos.com",
-        "ansa.it",
         "lastampa.it",
         "ilgiornale.it",
-        "ilmessaggero.it",
         "roma.corriere.it",
+        "ansa.it",
+        "fanpage.it",
+        "repubblica.it",
         "ilmanifesto.it",
         "ilsole24ore.com"
       ],
       "links": [
         "https://www.adnkronos.com/cronaca/prima-pasqua-da-papa-per-leone-xiv-lomelia-no-allindifferenza-alla-morte_7LnuzMRyElLe6iSsqVTmp7",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/04/05/il-papa-chi-ha-il-potere-di-scatenare-le-guerre-scelga-la-pace_9962e297-05c2-4b82-8afa-fb7ccbab2496.html",
         "https://www.lastampa.it/roma/2026/04/05/video/pasqua_lappello_del_papa_ai_leader_mondiali_chi_ha_in_mano_armi_le_deponga-15573345/",
         "https://www.ilgiornale.it/news/vaticano/papa-san-pietro-benedizione-pasqua-veglia-pace-l11-aprile-2647404.html",
-        "https://www.ilmessaggero.it/vaticano/papa_leone_messa_pasqua_benedizione_urbi_et_orbi-9457709.html"
+        "https://www.ilgiornale.it/news/politica/leone-celebra-pasqua-cina-altri-perseguitati-2647273.html",
+        "https://roma.corriere.it/notizie/politica/26_aprile_05/pasqua-papa-leone-xiv-omelia-guerre-280ab9c9-4750-4f95-b8d6-c18624521xlk.shtml"
       ]
     },
     {
       "rank": 3,
-      "title": "Meloni, missione in Qatar e Emirati. \"Hormuz, prioritario che venga riaperto\"",
+      "title": "Asti, bimbo di 8 anni muore in uno schianto sull'autostrada, era in moto col padre",
       "source_count": 10,
-      "article_count": 11,
+      "article_count": 10,
       "source_domains": [
-        "ilgiornale.it",
         "ilfattoquotidiano.it",
+        "ilgiornale.it",
         "liberoquotidiano.it",
-        "laverita.info",
-        "roma.corriere.it",
-        "repubblica.it",
+        "corriere.it",
+        "ansa.it",
         "fanpage.it",
         "ilmessaggero.it",
-        "ansa.it",
-        "ilsole24ore.com"
+        "torino.repubblica.it",
+        "lastampa.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica-internazionale/meloni-missione-qatar-e-emirati-hormuz-prioritario-che-venga-2647326.html",
-        "https://www.ilfattoquotidiano.it/2026/04/05/meloni-golfo-persico-energia-sicurezza-nazionale-news/8346682/",
-        "https://www.liberoquotidiano.it/news/libero-video/47145668/meloni-in-qatar-nel-golfo-si-decide-nostra-sicurezza-e-futuro-economico-giusto-esserci/",
-        "https://www.laverita.info/meloni-stringe-accordi-golfo-2676666452.html",
-        "https://roma.corriere.it/notizie/politica/26_aprile_05/meloni-golfo-missione-energia-impegni-e9ba4118-60e5-48aa-900e-c2d64da0cxlk.shtml"
+        "https://www.ilfattoquotidiano.it/2026/04/05/incidente-bambino-morto-a21-news/8346938/",
+        "https://www.ilgiornale.it/news/cronaca-nera/bimbo-8-anni-muore-schianto-sullautostrada-era-moto-col-2647452.html",
+        "https://www.liberoquotidiano.it/news/italia/47154265/incidente-a21-morto-bambino-8-anni-era-moto-padre/",
+        "https://www.corriere.it/cronache/26_aprile_05/bimbo-di-8-anni-muore-in-uno-schianto-sull-autostrada-era-in-moto-col-padre-f6427ae4-3177-47a4-a793-c90301170xlk.shtml",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/05/-bimbo-muore-in-schianto-sullautostrada-era-in-moto-col-padre-_283a5a48-39a7-4d10-8c52-2005ebd20d8d.html"
       ]
     },
     {
@@ -125,30 +125,6 @@
     },
     {
       "rank": 6,
-      "title": "Asti, bimbo di 8 anni muore in uno schianto sull'autostrada, era in moto col padre",
-      "source_count": 9,
-      "article_count": 9,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "ansa.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "torino.repubblica.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/05/incidente-bambino-morto-a21-news/8346938/",
-        "https://www.ilgiornale.it/news/cronaca-nera/bimbo-8-anni-muore-schianto-sullautostrada-era-moto-col-2647452.html",
-        "https://www.corriere.it/cronache/26_aprile_05/bimbo-di-8-anni-muore-in-uno-schianto-sull-autostrada-era-in-moto-col-padre-f6427ae4-3177-47a4-a793-c90301170xlk.shtml",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/05/-bimbo-muore-in-schianto-sullautostrada-era-in-moto-col-padre-_283a5a48-39a7-4d10-8c52-2005ebd20d8d.html",
-        "https://www.fanpage.it/attualita/bimbo-muore-in-un-incidente-in-autostrada-a-pasqua-era-in-moto-con-il-padre-poi-lo-schianto-con-unauto/"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Gli auguri di Meloni e il messaggio di Mattarella al Papa: “Recuperare le ragioni del dialogo”",
       "source_count": 7,
       "article_count": 10,
@@ -170,27 +146,29 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "La messa di Pasqua in piazza San Pietro, poi la benedizione Urbi et Orbi",
-      "source_count": 5,
-      "article_count": 10,
+      "rank": 7,
+      "title": "Meloni, missione in Qatar e Emirati. \"Hormuz, prioritario che venga riaperto\"",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ilgiornale.it",
         "liberoquotidiano.it",
-        "video.corriere.it",
-        "ansa.it",
+        "roma.corriere.it",
+        "repubblica.it",
         "fanpage.it",
-        "repubblica.it"
+        "ansa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47152442/leone-xiv-benedice-i-fedeli-dal-balcone-di-san-pietro-e-rientra-in-basilica-dopo-l-urbi-et-orbi/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47150727/papa-leone-xiv-cristo-e-risorto-buona-pasqua-/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47150586/il-giro-in-papamobile-di-leone-xiv-in-piazza-san-pietro-dopo-la-messa-di-pasqua/",
-        "https://video.corriere.it/roma/papa-leone-xiv-sul-sagrato-di-basilica-s-pietro-celebra-la-sua-prima-messa-di-pasqua/88ff0747-bced-4350-9e55-7d384761dxlk",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47148330/papa-leone-xiv-esce-sul-sagrato-di-basilica-s-pietro-per-celebrare-la-sua-prima-messa-di-pasqua/"
+        "https://www.ilgiornale.it/news/politica-internazionale/meloni-missione-qatar-e-emirati-hormuz-prioritario-che-venga-2647326.html",
+        "https://www.liberoquotidiano.it/news/libero-video/47145668/meloni-in-qatar-nel-golfo-si-decide-nostra-sicurezza-e-futuro-economico-giusto-esserci/",
+        "https://roma.corriere.it/notizie/politica/26_aprile_05/meloni-golfo-missione-energia-impegni-e9ba4118-60e5-48aa-900e-c2d64da0cxlk.shtml",
+        "https://www.repubblica.it/politica/2026/04/05/news/meloni_viaggio_emirati_qatar_energia_a_rischio-425264895/",
+        "https://www.fanpage.it/live/governo-meloni-ultime-notizie-crisi-dimissioni-4-aprile-diretta/"
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Germania, gli uomini devono chiedere l’autorizzazione all’esercito per soggiorni prolungati all’estero",
       "source_count": 7,
       "article_count": 8,
@@ -212,7 +190,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Pogacar come Merckx: dopo la Sanremo vince anche il Giro delle Fiandre",
       "source_count": 6,
       "article_count": 8,
@@ -230,6 +208,25 @@
         "https://www.ilgiornale.it/news/ciclismo/pogacar-cannibale-milano-sanremo-e-giro-delle-fiandre-merckx-2647436.html",
         "https://www.corriere.it/sport/ciclismo/26_aprile_05/pogacar-giro-delle-fiandre-6688eb29-7a6c-4c0a-9127-a03bdc6ddxlk.shtml",
         "https://www.ilfattoquotidiano.it/2026/04/05/pogacar-giro-fiandre-milano-sanremo-successo-trionfo/8346867/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Serie A: Cremonese-Bologna 1-2",
+      "source_count": 4,
+      "article_count": 7,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "bologna.repubblica.it",
+        "corriere.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/cremonese-bologna-1-2-domenica-5-aprile_2TzxWny8o3PhfLhxpukgrs",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/05/serie-a-cremonese-bologna-1-2_22e981bd-16e1-4510-a433-4dec93e5a1d3.html",
+        "https://bologna.repubblica.it/sport/2026/04/05/news/cremonese_bologna_serie_a-425265772/",
+        "https://www.corriere.it/sport/calcio/serie-a/26_aprile_05/cremonese-bologna-risultato-bb6f668a-60a0-430b-aba2-2c8080b7exlk.shtml",
+        "https://www.corriere.it/sport/calcio/serie-a/partita/cremonese-bologna/2558808/"
       ]
     }
   ]
