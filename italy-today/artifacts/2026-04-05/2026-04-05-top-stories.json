@@ -1,77 +1,99 @@
 {
   "date": "2026-04-05",
-  "generated_at": "Sun 05 Apr 07:17",
+  "generated_at": "Sun 05 Apr 08:54",
   "stories": [
     {
       "rank": 1,
       "title": "Meloni nel Golfo: \"No visita simbolica, energia a rischio se situazione peggiora\"",
-      "source_count": 10,
+      "source_count": 9,
       "article_count": 16,
       "source_domains": [
         "laverita.info",
-        "repubblica.it",
         "roma.corriere.it",
+        "repubblica.it",
         "ilmessaggero.it",
         "ansa.it",
         "adnkronos.com",
         "liberoquotidiano.it",
         "ilgiornale.it",
-        "lastampa.it",
-        "news.google.com"
+        "lastampa.it"
       ],
       "links": [
         "https://www.laverita.info/meloni-stringe-accordi-golfo-2676666452.html",
+        "https://roma.corriere.it/notizie/politica/26_aprile_05/meloni-golfo-missione-energia-impegni-e9ba4118-60e5-48aa-900e-c2d64da0cxlk.shtml",
         "https://www.repubblica.it/politica/2026/04/05/news/meloni_viaggio_emirati_qatar_energia_a_rischio-425264895/",
         "https://roma.corriere.it/notizie/politica/26_aprile_04/meloni-golfo-visite-energia-qatar-emirati-arabia-6912c832-a2fc-4e31-9bd5-ea6e302f7xlk.shtml",
-        "https://www.ilmessaggero.it/politica/meloni_hormuz_rischio_italia_guerra_iran-9456471.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/04/meloni-nel-golfo-focus-sullenergia-e-la-difesa-militare_da8294e8-b7eb-441b-a5a0-3c6bd5967eab.html"
+        "https://www.ilmessaggero.it/politica/meloni_hormuz_rischio_italia_guerra_iran-9456471.html"
       ]
     },
     {
       "rank": 2,
       "title": "Gli Usa mettono in salvo il pilota disperso. La missione: le forze speciali, la battaglia notturna, i due aerei «fatti saltare»",
-      "source_count": 7,
-      "article_count": 14,
+      "source_count": 8,
+      "article_count": 15,
       "source_domains": [
+        "repubblica.it",
+        "ilfattoquotidiano.it",
         "corriere.it",
         "ansa.it",
-        "repubblica.it",
         "fanpage.it",
         "ilgiornale.it",
         "lastampa.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.repubblica.it/esteri/2026/04/05/news/pilota_usa_salvato_cosa_e_successo-425265347/",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/04/05/iran-guerra-usa-live-news-5-aprile/8346545/",
         "https://www.corriere.it/esteri/26_aprile_05/operazione-salvataggio-pilota-usa-cee21e41-3057-4db0-a1d0-187ad252dxlk.shtml",
         "https://www.corriere.it/esteri/26_aprile_05/operazione-salvataggio-pilota-usa-cee21e41-3057-4db0-a1d0-187ad252dxlk.shtml",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/05/medio-oriente-forze-usa-recuperano-il-pilota-disperso-in-iran.-trump-e-sano_dfd91ced-2691-4952-b6e4-0a5abe29937f.html",
-        "https://www.repubblica.it/esteri/2026/04/05/diretta/guerra_iran_usa_israele_news_oggi-425265067/",
-        "https://www.corriere.it/esteri/diretta-live/26_aprile_05/iran-guerra-notizie.shtml"
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/05/medio-oriente-forze-usa-recuperano-il-pilota-disperso-in-iran.-trump-e-sano_dfd91ced-2691-4952-b6e4-0a5abe29937f.html"
       ]
     },
     {
       "rank": 3,
-      "title": "La Veglia di Pasqua di Papa Leone: «Non lasciamoci paralizzare da guerre e ingiustizie»",
-      "source_count": 6,
-      "article_count": 7,
+      "title": "Carburante a rischio per i voli, scattano le prime limitazioni in quattro aeroporti italiani (Linate, Venezia, Treviso e Bologna): «Rifornirsi altrove»",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "repubblica.it",
-        "ilmanifesto.it",
-        "adnkronos.com",
+        "fanpage.it",
+        "laverita.info",
         "ansa.it",
         "ilgiornale.it",
-        "roma.corriere.it"
+        "liberoquotidiano.it",
+        "corriere.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.repubblica.it/cronaca/2026/04/05/news/pasqua_2026_papa_leone_benedizione_urbi_et_orbi-425264932/",
-        "https://ilmanifesto.it/pasqua-in-armi-laccusa-di-leone-xiv-non-in-nome-di-dio",
-        "https://www.adnkronos.com/cronaca/papa-leone-xiv-alla-sua-prima-veglia-di-pasqua-non-lasciamoci-paralizzare-dalle-guerre_7EFycTyHPJOskll7R3VTNV",
-        "https://www.ansa.it/vaticano/notizie/2026/04/04/la-pasqua-di-leone-guerre-e-rancori-non-ci-possono-paralizzare_45bef04e-220a-4270-8101-94a8aa1ea123.html",
-        "https://www.ilgiornale.it/news/vaticano/lappello-papa-non-lasciamoci-paralizzare-guerre-e-2647225.html"
+        "https://www.fanpage.it/stile-e-trend/viaggi/prime-restrizioni-carburanti-negli-aeroporti-italiani-gruppo-save-non-significative-per-scali-del-veneto/",
+        "https://www.laverita.info/aeroporti-lockdown-cieli-gia-iniziato-2676666453.html",
+        "https://www.ansa.it/sito/notizie/economia/2026/04/04/allarme-carburante-sui-voli-restrizioni-in-4-scali-italiani_f17f98ae-bc4c-4016-9d4c-3db14f4031c8.html",
+        "https://www.ilgiornale.it/news/nazionale/disponibilit-limitata-prime-limitazioni-cherosene-quattro-2647149.html",
+        "https://www.liberoquotidiano.it/news/economia/47136798/carburante-prime-restrizione-voli-4-aeroporti-italiani-coinvolti/"
       ]
     },
     {
       "rank": 4,
+      "title": "La Veglia di Pasqua di Papa Leone: «Non lasciamoci paralizzare da guerre e ingiustizie»",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "video.corriere.it",
+        "fanpage.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ansa.it/vaticano/notizie/2026/04/05/la-messa-di-pasqua-in-piazza-san-pietro-poi-la-benedizione-urbi-et-orbi_57fad948-36a8-41c6-8e01-64cd09a4dd67.html",
+        "https://video.corriere.it/la-messa-di-pasqua-presieduta-dal-papa-e-la-benedizione-urbi-et-orbi-diretta-video/c79a523d-d285-4106-ac20-1172f3a3axlk",
+        "https://www.fanpage.it/spettacolo/programmi-tv/messa-di-pasqua-2025-in-tv-la-prima-di-papa-leone-xiv-a-che-ora-e-dove-vedere-la-celebrazione/",
+        "https://www.repubblica.it/cronaca/2026/04/05/news/pasqua_2026_papa_leone_benedizione_urbi_et_orbi-425264932/",
+        "https://www.adnkronos.com/cronaca/papa-leone-xiv-alla-sua-prima-veglia-di-pasqua-non-lasciamoci-paralizzare-dalle-guerre_7EFycTyHPJOskll7R3VTNV"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "“Trump ricoverato in ospedale”, ma la Casa Bianca smentisce i rumors",
       "source_count": 6,
       "article_count": 6,
@@ -92,7 +114,68 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "Mattarella e gli auguri al Papa: «Tempi complessi, si recuperi dialogo»",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "roma.corriere.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/politica/gli-auguri-di-pasqua-del-presidente-mattarella-a-papa-leone-xiv-mi-unisco-ai-suoi-appelli-per-la-pace/",
+        "https://www.ilgiornale.it/news/interni/auguri-meloni-e-messaggio-mattarella-papa-recuperare-ragioni-2647368.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/04/05/mattarella-manda-auguri-pasqua-al-papa-si-recuperino-ragioni-dialogo-e-moderazione_76ba4798-e778-482e-9002-d6fa1919d329.html",
+        "https://roma.corriere.it/notizie/politica/26_aprile_05/mattarella-e-gli-auguri-di-pasqua-al-papa-si-recuperino-ragioni-del-dialogo-e-moderazione-80b1ebad-ce75-40f6-913f-e68121afexlk.shtml",
+        "https://www.lastampa.it/cronaca/2026/04/05/news/gli_auguri_di_mattarella_al_papa_mi_unisco_ai_suoi_appelli_per_la_pace-15573251/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Tennis: Montecarlo al via, Sinner insegue Alcaraz",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "corriere.it",
+        "ilmessaggero.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/04/05/tennis-montecarlo-al-via-sinner-insegue-alcaraz_2e6b67bf-df24-4240-8631-0d3f2a8b9251.html",
+        "https://www.fanpage.it/sport/tennis/sinner-e-bergs-oggi-in-doppio-a-monte-carlo-a-che-ora-e-dove-vedere-in-tv-e-streaming-lincontro/",
+        "https://www.corriere.it/sport/tennis/26_aprile_04/sinner-doppio-bergs-montecarlo-dove-vedere-tv-pasqua-876ea391-c28e-4f45-b6bb-1b50713e6xlk.shtml",
+        "https://www.ansa.it/sito/notizie/sport/2026/04/04/tennis-montecarlo-al-via-sinner-insegue-alcaraz_2e6b67bf-df24-4240-8631-0d3f2a8b9251.html",
+        "https://www.ilmessaggero.it/sport/schede/sinner_montecarlo_quando_gioca_tabellone_dove_vederlo_tv_streaming-9456095.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Artemis 2, Orion raggiunge la luna: le spettacolari immagini dallo spazio",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "corriere.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/cronaca/2026/04/05/news/luna_artemis_macchine_fotografiche-425265311/",
+        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/05/artemis-ii-a-due-terzi-del-viaggio-verso-la-luna_55b7e792-6dbf-4b13-953e-7a4ee483e0fd.html",
+        "https://www.ilmessaggero.it/scienza/artemis_ii_problema_bagno_rotto_missione-9457582.html",
+        "https://www.lastampa.it/esteri/2026/04/04/video/artemis_verso_la_luna_le_spettacolari_immagini_dalla_navicella_orion-15572846/",
+        "https://www.lastampa.it/scienza/2026/04/04/news/artemis_2_luna_ritorno-astronauti_record_distanza-15572771/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Caro energia, cinque governi Ue (tra cui l’Italia) chiedono di tassare gli extraprofitti delle società energetiche: «È il momento di agire»",
       "source_count": 5,
       "article_count": 6,
@@ -112,100 +195,23 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Grave lutto per l’ex Inter Felice Centofanti: addio alla figlia Giorgia",
+      "rank": 10,
+      "title": "Caro carburanti, la tempesta perfetta nei cieli: voli cancellati e prezzi alle stelle",
       "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "corriere.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/attualit/grave-lutto-l-ex-inter-felice-centofanti-addio-figlia-2647221.html",
-        "https://www.corriere.it/sport/calcio/26_aprile_04/giorgia-centofanti-morta-felice-martina-baae46bd-7cd9-41f1-90e2-9281769cexlk.shtml",
-        "https://www.ilmessaggero.it/persone/centofanti_morta_figlia_disabile_terzino_inter_malattia-9456393.html",
-        "https://www.ilfattoquotidiano.it/2026/04/04/centofanti-lutto-figlia-giorgia-notizie/8346329/",
-        "https://www.adnkronos.com/sport/lutto-ex-inter-felice-centofanti-morta-la-figlia-giorgia-il-saluto-sorella-martina_7EaOLW3ZU5vtXv5wnPfUmV"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Sinner esordisce in doppio con Bergs nel Masters-1000 di Montecarlo: orario e dove vedere in tv",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "fanpage.it",
-        "corriere.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/tennis/sinner-e-bergs-oggi-in-doppio-a-monte-carlo-a-che-ora-e-dove-vedere-in-tv-e-streaming-lincontro/",
-        "https://www.corriere.it/sport/tennis/26_aprile_04/sinner-doppio-bergs-montecarlo-dove-vedere-tv-pasqua-876ea391-c28e-4f45-b6bb-1b50713e6xlk.shtml",
-        "https://www.ansa.it/sito/notizie/sport/2026/04/04/tennis-montecarlo-al-via-sinner-insegue-alcaraz_2e6b67bf-df24-4240-8631-0d3f2a8b9251.html",
-        "https://www.ilmessaggero.it/sport/schede/sinner_montecarlo_quando_gioca_tabellone_dove_vederlo_tv_streaming-9456095.html",
-        "https://www.ilgiornale.it/news/tennis/jannik-sinner-riparte-montecarlo-quando-pu-tornare-numero-1-2647074.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Carburante a rischio per i voli, limitazioni in 4 aeroporti italiani. E Ryanair lancia l'allarme",
-      "source_count": 4,
       "article_count": 6,
       "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "corriere.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/04/04/allarme-carburante-sui-voli-restrizioni-in-4-scali-italiani_f17f98ae-bc4c-4016-9d4c-3db14f4031c8.html",
-        "https://www.ilgiornale.it/news/nazionale/disponibilit-limitata-prime-limitazioni-cherosene-quattro-2647149.html",
-        "https://www.corriere.it/economia/trasporti/aerei/26_aprile_04/crisi-carburante-rischio-voli-aeroporti-italiani-4ba00c39-7f70-46e9-8e3c-429f39f7axlk.shtml",
-        "https://www.ilgiornale.it/news/politica/estate-nera-vista-voli-rischio-possibili-anche-scenari-2646960.html",
-        "https://www.ilsole24ore.com/art/stretta-carburante-4-aeroporti-voli-prioritari-e-perche-traffico-non-e-rischio-per-ora-AICyhVLC"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Artemis 2, Orion raggiunge la luna: le spettacolari immagini dallo spazio",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
         "lastampa.it",
-        "corriere.it"
-      ],
-      "links": [
-        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/05/artemis-ii-a-due-terzi-del-viaggio-verso-la-luna_55b7e792-6dbf-4b13-953e-7a4ee483e0fd.html",
-        "https://www.ilmessaggero.it/scienza/artemis_ii_problema_bagno_rotto_missione-9457582.html",
-        "https://www.lastampa.it/esteri/2026/04/04/video/artemis_verso_la_luna_le_spettacolari_immagini_dalla_navicella_orion-15572846/",
-        "https://www.lastampa.it/scienza/2026/04/04/news/artemis_2_luna_ritorno-astronauti_record_distanza-15572771/",
-        "https://www.corriere.it/tecnologia/cards/gli-astronauti-di-artemis-ii-a-meta-strada-tra-la-terra-e-la-luna-le-prime-foto-scattate-coi-loro-smartphone/lalba_principale.shtml"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "E' morto Vittorio Messori, lo scrittore cattolico delle 'Ipotesi su Gesù'",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "corriere.it",
+        "repubblica.it",
+        "ilmessaggero.it",
         "ilgiornale.it",
-        "ilmessaggero.it"
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/04/e-morto-vittorio-messori-scrittore-e-giornalista-cattolico_2c79cb97-8f4d-4f4e-ae1e-a6de82f26fc0.html",
-        "https://www.corriere.it/cultura/26_aprile_04/morto-vittorio-messori-b7cfee67-04ce-4769-b82b-a41a069adxlk.shtml",
-        "https://www.ilgiornale.it/news/attualit/morto-vittorio-messori-lautore-cattolico-pi-famoso-mondo-2647058.html",
-        "https://www.ilmessaggero.it/vaticano/vittorio_messori_morto_scrittore_oggi-9455828.html",
-        "https://www.corriere.it/cronache/26_aprile_04/vittorio-messori-intervista-7447f0b4-5de3-4b03-a618-e633e4c49xlk.shtml"
+        "https://www.lastampa.it/economia/2026/04/05/news/caro_carburanti_per_gli_aerei_cosa_si_rischia_tra_voli_cancellati_e_prezzi_in_aumento-15573241/",
+        "https://www.repubblica.it/economia/2026/04/05/news/compagnie_aeree_voli_cancellati_prezzi_biglietti_carburante-425265038/",
+        "https://www.ilmessaggero.it/economia/voli_cancellati_quali_cosa_succede_ora-9456499.html",
+        "https://www.ilgiornale.it/news/politica/prenotare-fretta-evitare-rincari-e-prepararsi-mete-2646961.html",
+        "https://www.ilgiornale.it/news/politica/estate-nera-vista-voli-rischio-possibili-anche-scenari-2646960.html"
       ]
     }
   ]
