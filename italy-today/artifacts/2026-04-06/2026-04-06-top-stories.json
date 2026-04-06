@@ -1,6 +1,6 @@
 {
   "date": "2026-04-06",
-  "generated_at": "Mon 06 Apr 14:58",
+  "generated_at": "Mon 06 Apr 15:56",
   "stories": [
     {
       "rank": 1,
@@ -54,6 +54,28 @@
     },
     {
       "rank": 3,
+      "title": "Artemis II, è la giornata del passaggio ravvicinato alla Luna",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "video.corriere.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://video.corriere.it/tecnologia/artemis-ii-gli-astronauti-entrano-nella-sfera-di-influenza-della-luna-l-annuncio-della-nasa-in-diretta/646a35de-8173-42b1-9e77-91d6b1741xlk",
+        "https://www.ilmessaggero.it/scienza/artemis_ii_lato_oscuro_luna_cos_e_blackout_cosa_succede_oggi-9458246.html",
+        "https://www.ilfattoquotidiano.it/2026/04/06/artemis-missione-record-distanza-terra-news/8347131/",
+        "https://www.liberoquotidiano.it/news/libero-video/47160713/problemi-con-la-toilette-per-artemis-ii-nasa-questione-ingegneristica-complessa-/",
+        "https://www.fanpage.it/innovazione/scienze/oggi-6-aprile-il-sorvolo-della-luna-di-artemis-2-la-nasa-mostra-cosa-vedranno-esattamente-gli-astronauti/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Dodicenne risucchiato dal bocchettone della piscina: è in condizioni disperate",
       "source_count": 9,
       "article_count": 9,
@@ -77,7 +99,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "L’Inter schianta la Roma 5-2, doppietta di Lautaro: segnale forte a Napoli e Milan per lo scudetto",
       "source_count": 8,
       "article_count": 10,
@@ -100,7 +122,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Bimbo muore in un incidente in autostrada a Pasqua: era in moto con il padre, poi lo schianto con un’auto",
       "source_count": 9,
       "article_count": 9,
@@ -124,7 +146,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Giovane calciatore travolto sulle strisce a Casal Monastero: Mattia Rizzetti muore a 16 anni",
       "source_count": 8,
       "article_count": 9,
@@ -147,10 +169,10 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Medio Oriente - 'Negoziati in corso per una tregua'. Iran: 'Abbiamo presentato risposta ai mediatori, piano Usa inaccettabile' - LIVEBLOG",
       "source_count": 6,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
@@ -160,32 +182,11 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/06/medio-oriente-trump-martedi-e-la-scadenza-definitiva-per-un-accordo-con-liran_e052316e-a1ed-415e-ae76-a96c672ccf63.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/06/medio-oriente-teheran-inaccettabile-il-piano-usa.-raid-di-israele-su-siti-petrolchimici_e052316e-a1ed-415e-ae76-a96c672ccf63.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/06/medio-oriente-negoziati-in-corso-per-una-tregua.-teheran-smentisce-e-non_e052316e-a1ed-415e-ae76-a96c672ccf63.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/06/medio-oriente-negoziati-in-corso-per-una-tregua.-teheran-smentisce-non_e052316e-a1ed-415e-ae76-a96c672ccf63.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/06/medio-oriente-live-in-corso-negoziati-usa-iran-per-un-cessate-il-fuoco_e052316e-a1ed-415e-ae76-a96c672ccf63.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/04/06/iran-israele-tregua-teheran-raid-notizie/8346947/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Artemis II, è la giornata del passaggio ravvicinato alla Luna",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ansa.it",
-        "corriere.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/scienza/artemis_ii_lato_oscuro_luna_cos_e_blackout_cosa_succede_oggi-9458246.html",
-        "https://www.ilfattoquotidiano.it/2026/04/06/artemis-missione-record-distanza-terra-news/8347131/",
-        "https://www.fanpage.it/innovazione/scienze/oggi-6-aprile-il-sorvolo-della-luna-di-artemis-2-la-nasa-mostra-cosa-vedranno-esattamente-gli-astronauti/",
-        "https://www.ilmessaggero.it/scienza/artemis_ii_live_tracker_luna_dove_si_trova_ora-9458097.html",
-        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/06/-artemis-ii-e-la-giornata-del-passaggio-ravvicinato-alla-luna-_8cd171ff-7181-4b1b-bcba-1bc6b3081e40.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/06/medio-oriente-live-in-corso-negoziati-usa-iran-per-un-cessate-il-fuoco_e052316e-a1ed-415e-ae76-a96c672ccf63.html"
       ]
     },
     {
