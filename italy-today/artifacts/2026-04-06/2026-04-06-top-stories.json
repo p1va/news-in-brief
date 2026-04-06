@@ -1,9 +1,31 @@
 {
   "date": "2026-04-06",
-  "generated_at": "Mon 06 Apr 16:59",
+  "generated_at": "Mon 06 Apr 17:56",
   "stories": [
     {
       "rank": 1,
+      "title": "Artemis II, è la giornata del passaggio ravvicinato alla Luna",
+      "source_count": 7,
+      "article_count": 14,
+      "source_domains": [
+        "corriere.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.corriere.it/tecnologia/diretta-live/26_aprile_06/artemis-2-il-giro-attorno-alla-luna-degli-astronauti-sulla-navicella-orion-il-flyby-live.shtml",
+        "https://video.corriere.it/la-diretta-video-da-artemis-ii-il-passaggio-dal-lato-piu-oscuro-della-luna/74bd9891-9f08-437c-8487-28b17a650xlk",
+        "https://video.corriere.it/tecnologia/artemis-ii-gli-astronauti-entrano-nella-sfera-di-influenza-della-luna-l-annuncio-della-nasa-in-diretta/646a35de-8173-42b1-9e77-91d6b1741xlk",
+        "https://www.ilmessaggero.it/scienza/artemis_ii_lato_oscuro_luna_cos_e_blackout_cosa_succede_oggi-9458246.html",
+        "https://www.ilmessaggero.it/scienza/luna_lato_oscuro_cosa_e_artemis_blackout-9458246.html"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Medio Oriente, 'negoziati in corso per una tregua'. Teheran smentisce e non cede: 'Non riapriremo Hormuz per uno stop temporaneo'- LIVEBLOG",
       "source_count": 8,
       "article_count": 13,
@@ -26,7 +48,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Turisti salvati sul Lago di Braies, l'appello dei soccorritori: \"Non camminate sul ghiaccio\"",
       "source_count": 10,
       "article_count": 11,
@@ -51,7 +73,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Smart working, arresto e multe fino a 7.500 euro. Cosa rischiano i datori di lavoro dal 7 aprile",
       "source_count": 10,
       "article_count": 10,
@@ -73,28 +95,6 @@
         "https://www.liberoquotidiano.it/news/economia/47162505/smart-working-cosa-cambia-dal-7-aprile-tutte-le-nuove-regole-e-le-multe/",
         "https://www.lastampa.it/cronaca/2026/04/06/news/smart_working_domani_obbligo_informazioni_sicurezza_datore_di_lavoro-15573776/",
         "https://www.fanpage.it/politica/smart-working-scattano-le-sanzioni-per-linformativa-sulla-sicurezza-cosa-cambia-dal-7-aprile-per-i-datori-di-lavoro/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Artemis II, è la giornata del passaggio ravvicinato alla Luna",
-      "source_count": 7,
-      "article_count": 12,
-      "source_domains": [
-        "video.corriere.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://video.corriere.it/la-diretta-video-da-artemis-ii-il-passaggio-dal-lato-piu-oscuro-della-luna/74bd9891-9f08-437c-8487-28b17a650xlk",
-        "https://video.corriere.it/tecnologia/artemis-ii-gli-astronauti-entrano-nella-sfera-di-influenza-della-luna-l-annuncio-della-nasa-in-diretta/646a35de-8173-42b1-9e77-91d6b1741xlk",
-        "https://www.ilmessaggero.it/scienza/artemis_ii_lato_oscuro_luna_cos_e_blackout_cosa_succede_oggi-9458246.html",
-        "https://www.ilfattoquotidiano.it/2026/04/06/artemis-missione-record-distanza-terra-news/8347131/",
-        "https://www.liberoquotidiano.it/news/libero-video/47160713/problemi-con-la-toilette-per-artemis-ii-nasa-questione-ingegneristica-complessa-/"
       ]
     },
     {
@@ -146,48 +146,49 @@
     },
     {
       "rank": 7,
+      "title": "L'aeroporto di Brindisi non ha più carburante, sei gli scali italiani con limitazioni",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "fanpage.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "corriere.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/attualita/aeroporto-di-brindisi-senza-carburante-per-gli-aerei-fino-al-7-aprile-limitazioni-a-pescara-e-reggio-calabria/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/06/altri-aeroporti-senza-carburante-incognita-sui-viaggi-estivi_879f88dd-c6a4-415a-b293-c5db7e1cbea8.html",
+        "https://www.ilfattoquotidiano.it/2026/04/06/aeroporto-brindisi-carburante-disagi-voli-notizie/8347305/",
+        "https://www.ilmessaggero.it/italia/aeroporto_brindisi_senza_carburante_reggio_calabria_pescara_ultime_notizie-9458413.html",
+        "https://www.repubblica.it/economia/2026/04/06/news/aeroporti_cherosene_brindisi_reggio_calabria_pescara_limitazioni-425266798/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Giovane calciatore travolto sulle strisce a Casal Monastero: Mattia Rizzetti muore a 16 anni",
       "source_count": 8,
       "article_count": 9,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "fanpage.it",
         "lastampa.it",
         "liberoquotidiano.it",
         "roma.corriere.it",
         "ansa.it",
-        "roma.repubblica.it",
-        "ilmessaggero.it"
+        "roma.repubblica.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/06/mattia-rizzetti-investito-roma-pasqua-vittime-notizie/8347296/",
         "https://www.ilgiornale.it/news/nazionale/16enne-travolto-mentre-attraversava-strada-addio-mattia-2647511.html",
         "https://www.fanpage.it/roma/roma-il-calciatore-mattia-rizzetti-morto-a-17-anni-investito-da-auto-incidente-a-casal-monastero/",
         "https://www.lastampa.it/cronaca/2026/04/06/news/giovane_calciatore_travolto_sulle_strisce_a_casal_monastero_mattia_rizzetti_muore_a_16_anni-15573659/",
-        "https://www.liberoquotidiano.it/news/italia/47158008/roma-sotto-choc-investito-e-ucciso-da-un-auto-mentre-tornava-a-casa-mattia-rizzetti-muore-a-16-anni/",
-        "https://roma.corriere.it/notizie/cronaca/26_aprile_06/mattia-rizzetti-morto-in-un-incidente-a-roma-il-16enne-investito-a-casal-monastero-era-una-promessa-del-calcio-37f3bc06-80f5-46c3-9f96-7c49166d5xlk.shtml"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Bimbo muore in un incidente in autostrada a Pasqua: era in moto con il padre, poi lo schianto con un’auto",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "torino.corriere.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "fanpage.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://torino.corriere.it/notizie/piemonte/26_aprile_06/bimbo-di-8-anni-morto-in-autostrada-la-famiglia-stava-rientrando-a-torino-dopo-una-gita-fuori-porta-74eca999-beca-43f9-aa74-088303ed7xlk.shtml",
-        "https://www.lastampa.it/torino/2026/04/06/news/bambino_torinese_morto_8_anni_moto_padre_incidente_autostrada_torino_piacenza-15573642/",
-        "https://www.ilfattoquotidiano.it/2026/04/05/incidente-bambino-morto-a21-news/8346938/",
-        "https://www.ilgiornale.it/news/cronaca-nera/bimbo-8-anni-muore-schianto-sullautostrada-era-moto-col-2647452.html",
-        "https://www.liberoquotidiano.it/news/italia/47154265/incidente-a21-morto-bambino-8-anni-era-moto-padre/"
+        "https://www.liberoquotidiano.it/news/italia/47158008/roma-sotto-choc-investito-e-ucciso-da-un-auto-mentre-tornava-a-casa-mattia-rizzetti-muore-a-16-anni/"
       ]
     },
     {
@@ -213,20 +214,20 @@
     },
     {
       "rank": 10,
-      "title": "Iran, Trump e l'ultimatum finale: \"Aprite lo Stretto di Hormuz o distruggo tutto\"",
+      "title": "Trump all'Iran: \"Aprite il maledetto Stretto di Hormuz\"",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 6,
       "source_domains": [
-        "adnkronos.com",
-        "laverita.info",
+        "ilmessaggero.it",
+        "corriere.it",
         "repubblica.it",
+        "adnkronos.com",
         "fanpage.it",
-        "liberoquotidiano.it",
-        "news.google.com"
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.adnkronos.com/internazionale/esteri/trump-e-laccordo-con-iran-passo-avanti-di-teheran-ma-non-basta_6yufYtEnFezTcrqSVOIiVX",
-        "https://www.laverita.info/hormuz-scontro-usa-iran-trump-2676667895.html",
+        "https://www.ilmessaggero.it/mondo/hormuz_chi_guadagna_chiusura_stretto-9458393.html",
+        "https://www.corriere.it/oriente-occidente-federico-rampini/26_aprile_06/hormuz-e-aperto-basta-pagare-a5dfdea6-bf5d-4b42-a21d-c2368ff59xlk.shtml",
         "https://www.repubblica.it/esteri/2026/04/06/news/trump_volgare_iran_guerra_bastardi_hormuz_ultimatum-425266101/",
         "https://www.adnkronos.com/internazionale/esteri/trump-ultimatum-iran-guerra-oggi-news_7EAZhOXhJS2dy9oKm5ovtP",
         "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-5-aprile/"
