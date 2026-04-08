@@ -1,17 +1,16 @@
 {
   "date": "2026-04-08",
-  "generated_at": "Wed 08 Apr 20:55",
+  "generated_at": "Wed 08 Apr 21:52",
   "stories": [
     {
       "rank": 1,
-      "title": "Donald, retromarcia in extremis dopo le minacce. Decisiva la mediazione del Pakistan",
-      "source_count": 12,
-      "article_count": 25,
+      "title": "Trump congela l’attacco: due settimane per trattare con l’Iran",
+      "source_count": 11,
+      "article_count": 22,
       "source_domains": [
         "lastampa.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
-        "ilfattoquotidiano.it",
         "adnkronos.com",
         "unita.it",
         "fanpage.it",
@@ -25,8 +24,8 @@
         "https://www.lastampa.it/esteri/2026/04/08/video/dalla_mediazione_del_pakistan_allamministrazione_trump_in_affanno_cosa_ce_dietro_alla_tregua_tra_usa_e_iran-15576770/",
         "https://www.liberoquotidiano.it/news/tv-news/47194231/teheran-niente-cessate-il-fuoco-se-usa-non-accettano-le-10-condizioni/",
         "https://www.ilgiornale.it/news/politica-estera/armi-nucleari-hormuz-e-sanzioni-ecco-tutti-i-punti-che-iran-2648294.html",
-        "https://www.ilfattoquotidiano.it/2026/04/08/piano-iran-cessate-fuoco-10-punti-trattative-trump-usa/8348907/",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-tregua-retroscena-khamenei_5vzyS77txUdWGinN8rhTbV"
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-tregua-retroscena-khamenei_5vzyS77txUdWGinN8rhTbV",
+        "https://www.unita.it/2026/04/08/cosa-prevede-accordo-cessate-il-fuoco-iran-stati-uniti-piano-10-punti-stretto-hormuz/"
       ]
     },
     {
@@ -106,31 +105,6 @@
     },
     {
       "rank": 5,
-      "title": "Giuli sui fondi non dati al film su Regeni: Scelta che non condivido, ma commissione è autonoma",
-      "source_count": 10,
-      "article_count": 12,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "unita.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "news.google.com",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/08/regeni-docufilm-fondi-giuli-notizie/8349586/",
-        "https://www.unita.it/2026/04/08/niente-soldi-per-il-film-su-giulio-regeni-bufera-sul-ministro-giuli/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47193098/giuli-sui-fondi-non-dati-al-film-su-regeni-scelta-che-non-condivido-ma-commissione-e-autonoma/",
-        "https://www.fanpage.it/politica/fondi-negati-al-film-su-regeni-il-ministro-giuli-dice-che-non-e-stata-una-scelta-politica-nessuna-censura/",
-        "https://www.liberoquotidiano.it/news/tv-news/47192816/film-su-regeni-senza-fondi-mic-giuli-nessuna-scelta-politica/"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Fermato Elia Del Grande, era nel Varesotto: ha ferito un carabiniere mentre lo bloccavano",
       "source_count": 8,
       "article_count": 9,
@@ -153,29 +127,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "La speranza di tregua fa crollare il prezzo del petrolio. Lo sprint delle Borse",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/economia/2026/04/08/news/prezzi_benzina_gasolio_voli_che_cosa_succede_ora-425270016/",
-        "https://www.liberoquotidiano.it/news/tv-news/47189215/tregua-usa-iran-volano-le-borse-globali-giu-il-petrolio/",
-        "https://www.lastampa.it/economia/2026/04/08/news/petrolio_prezzo_tregua_iran-15576103/",
-        "https://www.ilgiornale.it/news/borsa-e-mercati/tregua-usa-iran-l-europa-brinda-borse-rally-petrolio-picco-e-2648165.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/04/08/corsa-al-ribasso-per-il-petrolio-perde-il-18-e-scende-sotto-i-100-dollari-al-barile_c8e64540-9609-4d6c-a36b-4ff84887e39b.html"
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 6,
       "title": "Iran, il Papa: soddisfazione per l'annuncio della tregua immediata",
       "source_count": 3,
       "article_count": 13,
@@ -193,7 +145,28 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
+      "title": "Giuli sui fondi non dati al film su Regeni: Scelta che non condivido, ma commissione è autonoma",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilgiornale.it",
+        "news.google.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47193098/giuli-sui-fondi-non-dati-al-film-su-regeni-scelta-che-non-condivido-ma-commissione-e-autonoma/",
+        "https://www.liberoquotidiano.it/news/tv-news/47192816/film-su-regeni-senza-fondi-mic-giuli-nessuna-scelta-politica/",
+        "https://www.adnkronos.com/spettacoli/caso-docufilm-giulio-regeni-finanziamenti_70mzDKaFk1caUQi5fIm0hp",
+        "https://www.repubblica.it/politica/2026/04/08/news/mollicone_fdi_docufilm_giulio_regeni_finanziamenti-425270138/",
+        "https://www.repubblica.it/politica/2026/04/08/news/galimberti_intervista_film_regeni_no_fondi-425270124/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Massicci bombardamenti israeliani su Beirut, \"centinaia di morti\"",
       "source_count": 6,
       "article_count": 9,
@@ -214,7 +187,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Artemis saluta la Luna, inizia il ritorno verso la Terra",
       "source_count": 6,
       "article_count": 8,
@@ -232,6 +205,28 @@
         "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/08/riaccesi-i-motori-di-artemis-ii-anche-la-via-lattea-tra-le-foto_d067bb1e-b19f-4448-9748-269d63e8a9b0.html",
         "https://www.fanpage.it/innovazione/scienze/artemis-2-la-splendida-foto-della-terra-che-tramonta-dietro-la-faccia-nascosta-della-luna-restera-nella-storia/",
         "https://www.ilfattoquotidiano.it/2026/04/08/artemis-tramonto-terra-luna-news/8348656/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Interrail, 40mila biglietti gratis ai 18enni per viaggiare in Europa: oggi il click day",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/04/08/via-a-discovereu-il-bando-per-i-giovani-per-girare-lue-in-treno-gratis_344070dc-c33e-4b22-b6b8-9b72551bb521.html",
+        "https://www.fanpage.it/esteri/interrail-via-al-clic-day-per-i-18enni-che-vogliono-viaggiare-in-treno-in-europa-in-palio-40-mila-biglietti-gratuiti/",
+        "https://www.ilfattoquotidiano.it/2026/04/08/interrail-gratuito-18enni-clic-day-notizie/8348858/",
+        "https://www.ilmessaggero.it/economia/schede/interrail_biglietti_gratis_clic_day_erasmus_requisiti_domanda-9461924.html",
+        "https://www.repubblica.it/economia/2026/04/08/news/interrail_biglietti_gratis_viaggi_europa_click_day_oggi-425270111/"
       ]
     }
   ]
