@@ -1,28 +1,54 @@
 {
   "date": "2026-04-08",
-  "generated_at": "Wed 08 Apr 15:19",
+  "generated_at": "Wed 08 Apr 17:14",
   "stories": [
     {
       "rank": 1,
-      "title": "Si risveglia la frana più grande d'Europa: chiusa l’A14. «Settimane per il ripristino» | Perché i treni non possono più viaggiare",
+      "title": "Donald, retromarcia in extremis dopo le minacce. Decisiva la mediazione del Pakistan",
       "source_count": 12,
-      "article_count": 20,
+      "article_count": 23,
       "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "unita.it",
         "fanpage.it",
-        "ilmessaggero.it",
+        "lastampa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
         "ansa.it",
+        "laverita.info",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica-estera/armi-nucleari-hormuz-e-sanzioni-ecco-tutti-i-punti-che-iran-2648294.html",
+        "https://www.ilfattoquotidiano.it/2026/04/08/piano-iran-cessate-fuoco-10-punti-trattative-trump-usa/8348907/",
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-tregua-retroscena-khamenei_5vzyS77txUdWGinN8rhTbV",
+        "https://www.unita.it/2026/04/08/cosa-prevede-accordo-cessate-il-fuoco-iran-stati-uniti-piano-10-punti-stretto-hormuz/",
+        "https://www.fanpage.it/esteri/la-tregua-per-teheran-il-fallimento-di-trump-chi-ha-vinto-e-chi-ha-perso-la-guerra-tra-iran-usa-e-israele/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Frana in Molise, Italia divisa in due sulla dorsale Adriatica",
+      "source_count": 11,
+      "article_count": 16,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
         "unita.it",
         "ilgiornale.it",
         "lastampa.it",
         "bari.repubblica.it",
         "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
+        "fanpage.it",
         "ilmanifesto.it",
         "bari.corriere.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.fanpage.it/attualita/frana-di-petacciato-in-molise-lelenco-dei-treni-che-subiscono-variazioni-o-cancellazioni/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/08/frana-in-molise-domani-in-cdm-i-primi-fondi-per-lemergenza_aaecff7e-7fef-497d-9da1-622bbf64ac5f.html",
         "https://www.ilmessaggero.it/italia/frana_molise_navigatori_non_funzionano_treni_fermi_caos-9462129.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/08/frana-in-molise-decaro-la-puglia-isolata-si-strutturano-i-piani-di-emergenza.-disagi-per_aaecff7e-7fef-497d-9da1-622bbf64ac5f.html",
         "https://www.unita.it/2026/04/08/frana-petacciato-europa-strade-scuole-chiuse-molise-italia-divisa-puglia-isolata/",
@@ -30,59 +56,81 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Donald, retromarcia in extremis dopo le minacce. Decisiva la mediazione del Pakistan",
-      "source_count": 10,
-      "article_count": 19,
+      "rank": 3,
+      "title": "Montecarlo, super Berrettini: doppio bagel a Medvedev e il russo distrugge la racchetta",
+      "source_count": 9,
+      "article_count": 18,
       "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
         "fanpage.it",
-        "lastampa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
         "repubblica.it",
-        "unita.it",
         "liberoquotidiano.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
-        "laverita.info",
         "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica-estera/armi-nucleari-hormuz-e-sanzioni-ecco-tutti-i-punti-che-iran-2648294.html",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-tregua-retroscena-khamenei_5vzyS77txUdWGinN8rhTbV",
-        "https://www.fanpage.it/esteri/la-tregua-per-teheran-il-fallimento-di-trump-chi-ha-vinto-e-chi-ha-perso-la-guerra-tra-iran-usa-e-israele/",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/04/08/news/iran_usa_tregua_vincitore-15576119/",
-        "https://www.repubblica.it/esteri/2026/04/08/news/cosa_e_successo_stanotte_iran_usa_hormuz-425269904/"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Atp Montecarlo, Berrettini è clamoroso: asfalta Medvedev con un doppio 6-0",
-      "source_count": 9,
-      "article_count": 16,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "fanpage.it"
-      ],
-      "links": [
+        "https://www.fanpage.it/sport/tennis/quando-gioca-sinner-contro-machac-a-monte-carlo-data-e-orario-degli-ottavi-di-finale/",
+        "https://www.adnkronos.com/sport/diretta-musetti-vacherot-oggi-montecarlo-secondo-turno-live-risultato-aggiornamenti_2h1K8B9kU8NdT4wlhl90Fk",
         "https://www.ilgiornale.it/news/tennis/atp-montecarlo-berrettini-clamoroso-asfalta-medvedev-doppio-2648287.html",
         "https://www.repubblica.it/sport/tennis/2026/04/08/news/berrettini_medvedev_racchetta_spaccata_dedica_verdone-425270310/",
-        "https://www.liberoquotidiano.it/news/sport/47189648/medvedev-berrettini-come-riduce-racchetta/",
-        "https://www.lastampa.it/sport/tennis/2026/04/08/video/montecarlo_doppio_6-0_da_matteo_berrettini_la_furia_di_medvedev-15576271/",
-        "https://www.adnkronos.com/sport/berrettini-travolge-medvedev-montecarlo-messaggio-speciale-carlo-verdone-cosa-e-successo_wFW0SMnpzmDJVE4zbwkeC"
+        "https://www.liberoquotidiano.it/news/sport/47189648/medvedev-berrettini-come-riduce-racchetta/"
       ]
     },
     {
       "rank": 4,
-      "title": "Addio a Mircea Lucescu, il mondo del calcio piange una leggenda",
+      "title": "Giuli e il film su Regeni: un errore non finanziarlo. Le tensioni con Mollicone",
       "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "unita.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it",
+        "news.google.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.unita.it/2026/04/08/niente-soldi-per-il-film-su-giulio-regeni-bufera-sul-ministro-giuli/",
+        "https://www.fanpage.it/politica/fondi-negati-al-film-su-regeni-il-ministro-giuli-dice-che-non-e-stata-una-scelta-politica-nessuna-censura/",
+        "https://www.liberoquotidiano.it/news/tv-news/47192816/film-su-regeni-senza-fondi-mic-giuli-nessuna-scelta-politica/",
+        "https://www.adnkronos.com/spettacoli/caso-docufilm-giulio-regeni-finanziamenti_70mzDKaFk1caUQi5fIm0hp",
+        "https://www.repubblica.it/politica/2026/04/08/news/mollicone_fdi_docufilm_giulio_regeni_finanziamenti-425270138/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Appello bis per Impagnatiello, la Cassazione: 'Riconoscere la premeditazione'",
+      "source_count": 8,
       "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "unita.it",
+        "ilgiornale.it",
+        "milano.repubblica.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/08/appello-bis-per-impagnatiello-la-cassazione-riconoscere-la-premeditazione_b0ab0cc4-a622-4c39-9369-68c22ff0faed.html",
+        "https://www.unita.it/2026/04/08/femminicidio-giulia-tramontano-processo-appello-bis-impagnatiello-premeditazione/",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-giulia-tramontano-cassazione-dispone-appello-bis-2648375.html",
+        "https://milano.repubblica.it/cronaca/2026/04/08/news/impagnatiello_cassazione_dispone_nuovo_processo_femminicidio_tramontano_premeditazione-425270708/",
+        "https://www.fanpage.it/milano/femminicidio-tramontano-la-cassazione-chiede-un-nuovo-processo-per-impagnatiello-riconoscere-la-premeditazione/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Morto a 80 anni Mircea Lucescu: in Italia aveva allenato Inter, Brescia e Pisa",
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
         "unita.it",
         "ilgiornale.it",
@@ -91,7 +139,6 @@
         "brescia.corriere.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
-        "lastampa.it",
         "news.google.com"
       ],
       "links": [
@@ -103,57 +150,34 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Artemis saluta la Luna, inizia il ritorno verso la Terra",
-      "source_count": 8,
-      "article_count": 12,
+      "rank": 7,
+      "title": "Fermato Elia Del Grande a Varano Borghi (Varese): guidava un’auto rubata, ferito un carabiniere",
+      "source_count": 9,
+      "article_count": 9,
       "source_domains": [
-        "laverita.info",
+        "unita.it",
         "ilgiornale.it",
         "ansa.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "corriere.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.laverita.info/artemis-2-terra-luna-2676679231.html",
-        "https://www.laverita.info/artemis-ii-2676678128.html",
-        "https://www.ilgiornale.it/news/politica/foto-terra-lato-oscuro-luna-2648046.html",
-        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/08/riaccesi-i-motori-di-artemis-ii-anche-la-via-lattea-tra-le-foto_d067bb1e-b19f-4448-9748-269d63e8a9b0.html",
-        "https://www.fanpage.it/innovazione/scienze/artemis-2-la-splendida-foto-della-terra-che-tramonta-dietro-la-faccia-nascosta-della-luna-restera-nella-storia/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Giuli e il film su Regeni: un errore non finanziarlo. Le tensioni con Mollicone",
-      "source_count": 9,
-      "article_count": 11,
-      "source_domains": [
-        "fanpage.it",
         "adnkronos.com",
-        "repubblica.it",
-        "ilgiornale.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "roma.corriere.it",
-        "news.google.com",
-        "ilsole24ore.com"
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "milano.repubblica.it"
       ],
       "links": [
-        "https://www.fanpage.it/politica/fondi-negati-al-film-su-regeni-il-ministro-giuli-dice-che-non-e-stata-una-scelta-politica-nessuna-censura/",
-        "https://www.adnkronos.com/spettacoli/caso-docufilm-giulio-regeni-finanziamenti_70mzDKaFk1caUQi5fIm0hp",
-        "https://www.repubblica.it/politica/2026/04/08/news/mollicone_fdi_docufilm_giulio_regeni_finanziamenti-425270138/",
-        "https://www.repubblica.it/politica/2026/04/08/news/galimberti_intervista_film_regeni_no_fondi-425270124/",
-        "https://www.ilgiornale.it/news/politica/lotta-politica-nome-regeni-si-dimettono-due-esperti-i-fondi-2648039.html"
+        "https://www.unita.it/2026/04/08/arrestato-elia-del-grande-strage-dei-fornai-evaso-casa-lavoro/",
+        "https://www.ilgiornale.it/news/nazionale/finisce-fuga-elia-grande-arrestato-nel-varesotto-2648343.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/08/elia-del-grande-arrestato-nel-varesotto-carabiniere-ferito-nella-cattura_45ba1d77-e274-4783-b52b-cef774cbddf7.html",
+        "https://www.adnkronos.com/cronaca/fermato-elia-del-grande-era-alla-guida-di-unauto-rubata_pt3Bo7Nwwqe4laSEGki7J",
+        "https://www.ilmessaggero.it/italia/elia_del_grande_arrestato_fuga_seconda_volta_varese-9462166.html"
       ]
     },
     {
-      "rank": 7,
-      "title": "Tregua Usa-Iran, volano le borse globali, giù il petrolio",
+      "rank": 8,
+      "title": "La speranza di tregua fa crollare il prezzo del petrolio. Lo sprint delle Borse",
       "source_count": 7,
-      "article_count": 10,
+      "article_count": 9,
       "source_domains": [
         "repubblica.it",
         "liberoquotidiano.it",
@@ -167,71 +191,47 @@
         "https://www.repubblica.it/economia/2026/04/08/news/prezzi_benzina_gasolio_voli_che_cosa_succede_ora-425270016/",
         "https://www.liberoquotidiano.it/news/tv-news/47189215/tregua-usa-iran-volano-le-borse-globali-giu-il-petrolio/",
         "https://www.lastampa.it/economia/2026/04/08/news/petrolio_prezzo_tregua_iran-15576103/",
-        "https://www.ilgiornale.it/news/interni/iran-tajani-scommette-sulla-tregua-petrolio-scende-l-italia-2648167.html",
-        "https://www.ilgiornale.it/news/borsa-e-mercati/tregua-usa-iran-l-europa-brinda-borse-rally-petrolio-picco-e-2648165.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Fermato Elia Del Grande, era nel Varesotto: ha ferito un carabiniere mentre lo bloccavano",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "unita.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "milano.repubblica.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/04/08/arrestato-elia-del-grande-strage-dei-fornai-evaso-casa-lavoro/",
-        "https://www.ilgiornale.it/news/nazionale/finisce-fuga-elia-grande-arrestato-nel-varesotto-2648343.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/08/elia-del-grande-arrestato-nel-varesotto-carabiniere-ferito-nella-cattura_45ba1d77-e274-4783-b52b-cef774cbddf7.html",
-        "https://www.adnkronos.com/cronaca/fermato-elia-del-grande-era-alla-guida-di-unauto-rubata_pt3Bo7Nwwqe4laSEGki7J",
-        "https://www.ilmessaggero.it/italia/elia_del_grande_arrestato_fuga_seconda_volta_varese-9462166.html"
+        "https://www.ilgiornale.it/news/borsa-e-mercati/tregua-usa-iran-l-europa-brinda-borse-rally-petrolio-picco-e-2648165.html",
+        "https://www.ansa.it/sito/notizie/economia/2026/04/08/corsa-al-ribasso-per-il-petrolio-perde-il-18-e-scende-sotto-i-100-dollari-al-barile_c8e64540-9609-4d6c-a36b-4ff84887e39b.html"
       ]
     },
     {
       "rank": 9,
       "title": "Iran, il Papa: soddisfazione per l'annuncio della tregua immediata",
-      "source_count": 4,
-      "article_count": 10,
+      "source_count": 3,
+      "article_count": 12,
       "source_domains": [
-        "adnkronos.com",
         "liberoquotidiano.it",
-        "ansa.it",
-        "news.google.com"
+        "adnkronos.com",
+        "ansa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/47193194/a-teheran-fra-sollievo-e-orgoglio-dopo-la-tregua-con-gli-usa/",
+        "https://www.liberoquotidiano.it/news/pillole/47191850/iran_falcone_salutiamo_con_grande_favore_i_15_giorni_di_tregua_/",
         "https://www.adnkronos.com/politica/tregua-iran-leader-ue-e-canada-attuare-cessate-il-fuoco-anche-in-libano_4oSmyR1aBPNidhQvJMCnsm",
         "https://www.liberoquotidiano.it/news/libero-video/47190511/iran-papa-leone-soddisfazione-tregua-segno-viva-speranza/",
-        "https://www.liberoquotidiano.it/news/libero-video/47188321/iran-macron-bene-cessate-il-fuoco-ma-includa-anche-libano/",
-        "https://www.liberoquotidiano.it/news/tv-news/47189479/iran-il-papa-soddisfazione-per-l-annuncio-della-tregua-immediata/",
-        "https://www.ansa.it/vaticano/notizie/2026/04/08/il-papa-accolgo-con-soddisfazione-lannuncio-della-tregua_47e1f0e1-40b7-42fb-9d55-c9cc8d07a7c3.html"
+        "https://www.liberoquotidiano.it/news/tv-news/47191886/iran-vance-tregua-fragile-trump-impaziente-di-fare-progressi/"
       ]
     },
     {
       "rank": 10,
-      "title": "Madre e figlia morte a Campobasso, interrogati parenti sopravvissuti: si indaga anche sui cesti regalati a Natale",
+      "title": "Artemis saluta la Luna, inizia il ritorno verso la Terra",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "ilfattoquotidiano.it",
+        "laverita.info",
+        "ilgiornale.it",
         "ansa.it",
         "fanpage.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "foggia.corriere.it"
+        "ilfattoquotidiano.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/08/madre-e-figlia-avvelenate-dalla-ricina-interrogati-gianni-e-alice-di-vita-esiti-su-autopsia-solo-entro-la-fine-di-aprile/8349016/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/08/morte-avvelenate-padre-e-figlia-interrogati-in-questura-a-campobasso_5827b1e4-ee96-486d-9929-99fd26baba9f.html",
-        "https://www.fanpage.it/attualita/madre-e-figlia-morte-a-campobasso-interrogati-parenti-sopravvissuti-si-indaga-anche-sui-cesti-regalati-a-natale/",
-        "https://www.ilmessaggero.it/persone/madre_e_figlia_morte_campobasso_ultime_padre_sorella_interrogatorio_gianni_di_vita_alice_di_vita-9461893.html",
-        "https://www.liberoquotidiano.it/news/italia/47187098/mamma-figlie-avvelenate-ricina-agito-velocemente-dettaglio-cambia-tutto/"
+        "https://www.laverita.info/artemis-2-terra-luna-2676679231.html",
+        "https://www.ilgiornale.it/news/politica/foto-terra-lato-oscuro-luna-2648046.html",
+        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/08/riaccesi-i-motori-di-artemis-ii-anche-la-via-lattea-tra-le-foto_d067bb1e-b19f-4448-9748-269d63e8a9b0.html",
+        "https://www.fanpage.it/innovazione/scienze/artemis-2-la-splendida-foto-della-terra-che-tramonta-dietro-la-faccia-nascosta-della-luna-restera-nella-storia/",
+        "https://www.ilfattoquotidiano.it/2026/04/08/artemis-tramonto-terra-luna-news/8348656/"
       ]
     }
   ]
