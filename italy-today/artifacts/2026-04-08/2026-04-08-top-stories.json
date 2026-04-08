@@ -1,6 +1,6 @@
 {
   "date": "2026-04-08",
-  "generated_at": "Wed 08 Apr 19:39",
+  "generated_at": "Wed 08 Apr 20:55",
   "stories": [
     {
       "rank": 1,
@@ -31,11 +31,34 @@
     },
     {
       "rank": 2,
-      "title": "Frana in Molise, Italia divisa in due sulla dorsale Adriatica",
-      "source_count": 12,
+      "title": "Montecarlo, super Berrettini: doppio bagel a Medvedev e il russo distrugge la racchetta",
+      "source_count": 9,
       "article_count": 18,
       "source_domains": [
+        "fanpage.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
         "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/tennis/quando-gioca-sinner-contro-machac-a-monte-carlo-data-e-orario-degli-ottavi-di-finale/",
+        "https://www.adnkronos.com/sport/diretta-musetti-vacherot-oggi-montecarlo-secondo-turno-live-risultato-aggiornamenti_2h1K8B9kU8NdT4wlhl90Fk",
+        "https://www.ilgiornale.it/news/tennis/atp-montecarlo-berrettini-clamoroso-asfalta-medvedev-doppio-2648287.html",
+        "https://www.repubblica.it/sport/tennis/2026/04/08/news/berrettini_medvedev_racchetta_spaccata_dedica_verdone-425270310/",
+        "https://www.liberoquotidiano.it/news/sport/47189648/medvedev-berrettini-come-riduce-racchetta/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Frana in Molise, Italia divisa in due sulla dorsale Adriatica",
+      "source_count": 11,
+      "article_count": 15,
+      "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
         "unita.it",
@@ -43,21 +66,21 @@
         "lastampa.it",
         "bari.repubblica.it",
         "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
         "fanpage.it",
-        "laverita.info",
         "ilmanifesto.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/08/frana-molise-petacciato-volo-drone-autostrada-a14-ferrovie-danni/8349661/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/08/frana-in-molise-domani-in-cdm-i-primi-fondi-per-lemergenza_aaecff7e-7fef-497d-9da1-622bbf64ac5f.html",
         "https://www.ilmessaggero.it/italia/frana_molise_navigatori_non_funzionano_treni_fermi_caos-9462129.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/08/frana-in-molise-decaro-la-puglia-isolata-si-strutturano-i-piani-di-emergenza.-disagi-per_aaecff7e-7fef-497d-9da1-622bbf64ac5f.html",
-        "https://www.unita.it/2026/04/08/frana-petacciato-europa-strade-scuole-chiuse-molise-italia-divisa-puglia-isolata/"
+        "https://www.unita.it/2026/04/08/frana-petacciato-europa-strade-scuole-chiuse-molise-italia-divisa-puglia-isolata/",
+        "https://www.ilgiornale.it/news/meteo-e-clima/frana-record-molise-italia-spaccata-2648147.html"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Appello bis per Impagnatiello, la Cassazione: 'Riconoscere la premeditazione'",
       "source_count": 10,
       "article_count": 13,
@@ -82,7 +105,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Giuli sui fondi non dati al film su Regeni: Scelta che non condivido, ma commissione è autonoma",
       "source_count": 10,
       "article_count": 12,
@@ -104,30 +127,6 @@
         "https://www.liberoquotidiano.it/news/video-news-by-vista/47193098/giuli-sui-fondi-non-dati-al-film-su-regeni-scelta-che-non-condivido-ma-commissione-e-autonoma/",
         "https://www.fanpage.it/politica/fondi-negati-al-film-su-regeni-il-ministro-giuli-dice-che-non-e-stata-una-scelta-politica-nessuna-censura/",
         "https://www.liberoquotidiano.it/news/tv-news/47192816/film-su-regeni-senza-fondi-mic-giuli-nessuna-scelta-politica/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Atp Montecarlo, Berrettini è clamoroso: asfalta Medvedev con un doppio 6-0",
-      "source_count": 9,
-      "article_count": 13,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/tennis/atp-montecarlo-berrettini-clamoroso-asfalta-medvedev-doppio-2648287.html",
-        "https://www.repubblica.it/sport/tennis/2026/04/08/news/berrettini_medvedev_racchetta_spaccata_dedica_verdone-425270310/",
-        "https://www.liberoquotidiano.it/news/sport/47189648/medvedev-berrettini-come-riduce-racchetta/",
-        "https://www.lastampa.it/sport/tennis/2026/04/08/video/montecarlo_doppio_6-0_da_matteo_berrettini_la_furia_di_medvedev-15576271/",
-        "https://www.adnkronos.com/sport/berrettini-travolge-medvedev-montecarlo-messaggio-speciale-carlo-verdone-cosa-e-successo_wFW0SMnpzmDJVE4zbwkeC"
       ]
     },
     {
