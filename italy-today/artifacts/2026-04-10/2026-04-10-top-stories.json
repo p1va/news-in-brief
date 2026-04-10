@@ -1,18 +1,18 @@
 {
   "date": "2026-04-10",
-  "generated_at": "Fri 10 Apr 19:09",
+  "generated_at": "Fri 10 Apr 20:48",
   "stories": [
     {
       "rank": 1,
       "title": "Monte-Carlo, Sinner è in semifinale con Zverev. Auger-Aliassime superato in 2 set",
       "source_count": 9,
-      "article_count": 18,
+      "article_count": 16,
       "source_domains": [
         "ansa.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
-        "fanpage.it",
         "repubblica.it",
+        "fanpage.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
         "lastampa.it",
@@ -22,40 +22,17 @@
         "https://www.ansa.it/sito/notizie/sport/2026/04/10/sinner-in-semifinale-a-montecarlo-testa-a-testa-con-alcaraz_b560d3f3-d635-4c3c-b151-4035115ab36b.html",
         "https://www.ilgiornale.it/news/tennis/atp-montecarlo-sinner-zverev-vale-finale-cosa-sappiamo-2649815.html",
         "https://www.ilfattoquotidiano.it/2026/04/10/atp-montecarlo-quando-gioca-jannik-sinner-contro-zverev-semifinale-orario-tv-streaming/8351950/",
-        "https://www.fanpage.it/sport/tennis/da-george-russell-alla-fidanzata-laila-il-box-di-sinner-e-affollatissimo-a-monte-carlo-sono-in-10/",
-        "https://www.repubblica.it/sport/tennis/2026/04/10/news/sinner_auger_aliassime_oggi_montecarlo_risultato-425275443/"
+        "https://www.repubblica.it/sport/tennis/2026/04/10/news/sinner_auger_aliassime_oggi_montecarlo_risultato-425275443/",
+        "https://www.ilgiornale.it/news/tennis/atp-montecarlo-sinner-semifinale-e-torna-numero-2649505.html"
       ]
     },
     {
       "rank": 2,
-      "title": "Nomine: Mef deposita lista per cda Enel, Enav, Eni e Leonardo. Ecco chi resta, chi viene e chi va",
-      "source_count": 9,
+      "title": "Artemis II, la navetta Orion in viaggio verso la Terra",
+      "source_count": 8,
       "article_count": 12,
       "source_domains": [
-        "repubblica.it",
-        "unita.it",
-        "liberoquotidiano.it",
         "ilgiornale.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/economia/2026/04/10/news/leonardo_cambia_manager_cingolani_mariani_titolo_borsa-425275368/",
-        "https://www.unita.it/2026/04/10/meloni-silura-cingolani-ad-leonardo/",
-        "https://www.liberoquotidiano.it/news/politica/47212400/nomine_leonardo_enel_eni_chi_entra_chi_esce_tutti_nomi/",
-        "https://www.ilgiornale.it/news/politica-economica/mariani-ad-leonardo-all-enel-resta-ticket-cattaneo-scaroni-2649081.html",
-        "https://www.lastampa.it/economia/2026/04/10/news/leonardo_mariani_al_posto_di_cingolani_alla_presidenza_dell_eni_di_foggia-15578801/"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Artemis II, la navetta Orion in viaggio verso la Terra",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
         "ilmessaggero.it",
         "laverita.info",
         "ilfattoquotidiano.it",
@@ -65,11 +42,33 @@
         "fanpage.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/scienze/artemis-ii-rientra-sulla-terra-cos-splashdown-e-folle-2649832.html",
         "https://www.ilmessaggero.it/scienza/artemis_rientro_missione_dove_vederla_streaming_nasa_pericolosa-9466687.html",
         "https://www.laverita.info/artemis-2-2676697910.html",
         "https://www.ilfattoquotidiano.it/2026/04/10/artemis-rientro-astronauti-orion-news/8351643/",
-        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/10/artemis-ii-la-navetta-orion-in-viaggio-verso-la-terra-_7cf84295-7331-416b-b7c7-6f346e1661c9.html",
-        "https://www.lastampa.it/esteri/2026/04/10/news/artemis_2_rientro_rischi-15579557/"
+        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/10/artemis-ii-la-navetta-orion-in-viaggio-verso-la-terra-_7cf84295-7331-416b-b7c7-6f346e1661c9.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Mariani ad di Leonardo, all’Enel resta il ticket Cattaneo-Scaroni",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "repubblica.it",
+        "unita.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ansa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/economia/2026/04/10/news/leonardo_cambia_manager_cingolani_mariani_titolo_borsa-425275368/",
+        "https://www.unita.it/2026/04/10/meloni-silura-cingolani-ad-leonardo/",
+        "https://www.liberoquotidiano.it/news/politica/47212400/nomine_leonardo_enel_eni_chi_entra_chi_esce_tutti_nomi/",
+        "https://www.ilgiornale.it/news/politica-economica/mariani-ad-leonardo-all-enel-resta-ticket-cattaneo-scaroni-2649081.html",
+        "https://www.lastampa.it/economia/2026/04/10/news/leonardo_mariani_al_posto_di_cingolani_alla_presidenza_dell_eni_di_foggia-15578801/"
       ]
     },
     {
@@ -96,50 +95,6 @@
     },
     {
       "rank": 5,
-      "title": "Da Putin il cessate il fuoco di due giorni per la Pasqua ortodossa. Zelensky: 'Lo rispetteremo'",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "unita.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/47223236/tregua-pasquale-russa-preceduta-da-droni-scetticismo-fra-gli-ucraini/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/10/zelensky-da-qui-a-settembre-mesi-difficili-la-russia-va-pressata_744b22e1-e500-4255-8dbd-0982ed887201.html",
-        "https://www.unita.it/2026/04/10/ucraina-tregua-pasqua-ortodossa-putin-negoziati-pace-zelensky/",
-        "https://www.ilfattoquotidiano.it/2026/04/10/ucraina-fino-a-domenica-sera-la-tregua-della-pasqua-ortodossa-zelensky-rilancia-i-negoziati-fine-dei-raid-anche-dopo-la-festivita/8351366/",
-        "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-10-aprile_5rc5jAXbFuErtayDEgxbYX"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Melania Trump: “Non sono una vittima di Epstein”",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/vittime-epstein-contro-melania-protegge-i-potenti-e-scarica-su-di-noi_5EUifmyVClEQFBnUd97Txo",
-        "https://www.liberoquotidiano.it/news/tv-news/47218103/melania-trump-a-sorpresa-convoca-stampa-usa-nessun-legame-con-epstein/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/09/melania-trump-alla-stampa-mai-stata-amica-di-epstein-su-di-me-menzogne-infondate_c030000f-5560-4af4-97e7-66fb21487df2.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47214958/melania-trump-non-sono-una-vittima-di-epstein-e-lui-non-mi-ha-presentato-a-donald-trump/",
-        "https://www.fanpage.it/esteri/caso-epstein-melania-trump-non-abbiamo-mai-avuto-una-relazione-e-non-sono-una-sua-vittima/"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Rimini, è morto Matteo Brandimarti, il 12enne risucchiato dall'idromassaggio nell'hotel di Pennabilli",
       "source_count": 8,
       "article_count": 8,
@@ -162,7 +117,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "Il Financial Times: “Aeroporti europei a rischio carburante se Hormuz non riapre in tre settimane”",
       "source_count": 7,
       "article_count": 9,
@@ -184,7 +139,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 7,
       "title": "Roma-Firenze, stop a treni e Alta Velocità: da mezzanotte (di oggi) fino alle 15 di domenica lavori e disagi",
       "source_count": 7,
       "article_count": 8,
@@ -206,7 +161,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Trump: “A Hormuz pessimo lavoro dell’Iran sul petrolio”. Razzi Hezbollah sulla Galilea",
       "source_count": 7,
       "article_count": 8,
@@ -225,6 +180,50 @@
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/04/10/trump-pedaggi-iraniani-hormuz-petrolio-news/8351162/",
         "https://www.ilgiornale.it/news/guerra/diretta-trump-gestione-pessima-hormuz-non-laccordo-che-2649150.html",
         "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-10-aprile-2026/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Palermo, tragico incidente sul lavoro: morti due operai caduti da una gru",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "palermo.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/10/si-spezza-il-braccio-della-gru-morti-due-operai-che-lavoravano-in-nero_ad43f688-af04-42b5-bc5f-07bc3c1164b7.html",
+        "https://www.ilfattoquotidiano.it/2026/04/10/incidente-lavoro-palermo-morti-operai-gru-notizie/8351669/",
+        "https://www.liberoquotidiano.it/news/pillole/47217001/cadono_da_una_gru_morti_due_operai_a_palermo/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/10/incidente-sul-lavoro-a-palermo-due-operai-morti-caduti-da-una-gru_ad43f688-af04-42b5-bc5f-07bc3c1164b7.html",
+        "https://www.adnkronos.com/cronaca/palermo-incidente-operai-morti-gru_5sUb4kfbHnU3nZBKG9V6gD"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Pisa, a 12 anni attira in bagno una compagna e la colpisce con le forbici",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "firenze.repubblica.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/italia/pisa_aggressione_forbici_scuola_cosa_e_successo-9466675.html",
+        "https://www.ilmessaggero.it/italia/ragazza_aggredisce_compagna_classe_forbici_pisa_cosa_e_successo-9466675.html",
+        "https://www.fanpage.it/attualita/pisa-12enne-aggredisce-la-compagna-di-classe-a-colpi-di-forbici-grave-episodio-in-una-scuola-media/",
+        "https://www.ilgiornale.it/news/nazionale/lite-e-poi-laggressione-forbici-12enne-ferisce-coetanea-2649578.html",
+        "https://firenze.repubblica.it/cronaca/2026/04/10/news/pisa_dodici_anni_aggredisce_ragazza_forbici_bagno-425275412/"
       ]
     }
   ]
