@@ -1,57 +1,78 @@
 {
   "date": "2026-04-10",
-  "generated_at": "Fri 10 Apr 14:57",
+  "generated_at": "Fri 10 Apr 16:02",
   "stories": [
     {
       "rank": 1,
       "title": "Nomine: Mef deposita lista per cda Enel, Enav, Eni e Leonardo. Ecco chi resta, chi viene e chi va",
       "source_count": 9,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
+        "repubblica.it",
         "unita.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
         "lastampa.it",
-        "repubblica.it",
         "ansa.it",
         "ilmessaggero.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
+        "https://www.repubblica.it/economia/2026/04/10/news/leonardo_cambia_manager_cingolani_mariani_titolo_borsa-425275368/",
         "https://www.unita.it/2026/04/10/meloni-silura-cingolani-ad-leonardo/",
         "https://www.liberoquotidiano.it/news/politica/47212400/nomine_leonardo_enel_eni_chi_entra_chi_esce_tutti_nomi/",
         "https://www.ilgiornale.it/news/politica-economica/mariani-ad-leonardo-all-enel-resta-ticket-cattaneo-scaroni-2649081.html",
-        "https://www.lastampa.it/economia/2026/04/10/news/leonardo_mariani_al_posto_di_cingolani_alla_presidenza_dell_eni_di_foggia-15578801/",
-        "https://www.repubblica.it/economia/2026/04/10/news/nomine_rinnovo_eni_enel_enav_leonardo-425273914/"
+        "https://www.lastampa.it/economia/2026/04/10/news/leonardo_mariani_al_posto_di_cingolani_alla_presidenza_dell_eni_di_foggia-15578801/"
       ]
     },
     {
       "rank": 2,
-      "title": "Rimini, morte cerebrale per il 12enne risucchiato dal bocchettone della vasca idromassaggio",
-      "source_count": 9,
-      "article_count": 10,
+      "title": "Monte-Carlo, Sinner è in semifinale con Zverev. Auger-Aliassime superato in 2 set",
+      "source_count": 8,
+      "article_count": 13,
       "source_domains": [
-        "ansa.it",
-        "unita.it",
-        "adnkronos.com",
-        "ilgiornale.it",
         "fanpage.it",
-        "bologna.repubblica.it",
+        "repubblica.it",
+        "ilgiornale.it",
         "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
         "lastampa.it",
-        "agi.it"
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/10/dodicenne-morto-incastrato-nellidromassaggio-autorizzato-lespianto-degli-organi_5881194a-4d1d-478d-b149-e64ccc9092ce.html",
-        "https://www.unita.it/2026/04/10/risucchiato-piscina-idromassaggio-morto-vacanza-famiglia-pasqua-genitori-organi-figlio/",
-        "https://www.adnkronos.com/cronaca/rimini-e-morto-il-12enne-risucchiato-da-bocchettone-vasca-idromassaggio_66nwkq8SWbdOen1J9ZXYlE",
-        "https://www.ilgiornale.it/news/cronaca-nera/rimini-morto-matteo-brandimarti-12enne-risucchiato-2649213.html",
-        "https://www.fanpage.it/attualita/morto-il-12enne-risucchiato-da-bocchettone-della-piscina-a-rimini-la-gamba-incastrata-e-lallarme-dei-genitori/"
+        "https://www.fanpage.it/sport/tennis/da-george-russell-alla-fidanzata-laila-il-box-di-sinner-e-affollatissimo-a-monte-carlo-sono-in-10/",
+        "https://www.repubblica.it/sport/tennis/2026/04/10/news/sinner_auger_aliassime_oggi_montecarlo_risultato-425275443/",
+        "https://www.ilgiornale.it/news/tennis/atp-montecarlo-sinner-semifinale-e-torna-numero-2649505.html",
+        "https://www.fanpage.it/sport/tennis/sinner-domina-auger-aliassime-a-monte-carlo-e-ringrazia-il-meteo-le-nuvole-mi-hanno-aiutato/",
+        "https://www.ilmessaggero.it/sport/schede/sinner_zverev_orario_dove_vederla_in_chiaro_montecarlo_semifinale_ranking-9466617.html"
       ]
     },
     {
       "rank": 3,
+      "title": "Artemis II, la navetta Orion in viaggio verso la Terra",
+      "source_count": 7,
+      "article_count": 12,
+      "source_domains": [
+        "ilmessaggero.it",
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/scienza/artemis_rientro_missione_dove_vederla_streaming_nasa_pericolosa-9466687.html",
+        "https://www.laverita.info/artemis-2-2676697910.html",
+        "https://www.ilfattoquotidiano.it/2026/04/10/artemis-rientro-astronauti-orion-news/8351643/",
+        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/10/artemis-ii-la-navetta-orion-in-viaggio-verso-la-terra-_7cf84295-7331-416b-b7c7-6f346e1661c9.html",
+        "https://www.lastampa.it/esteri/2026/04/10/news/artemis_2_rientro_rischi-15579557/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Melania Trump: “Non sono una vittima di Epstein”",
       "source_count": 8,
       "article_count": 10,
@@ -74,7 +95,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Stefano Gabbana lascia la presidenza di D&G. Il gruppo: 'Nessuna influenza sulle attività creative'",
       "source_count": 7,
       "article_count": 10,
@@ -96,7 +117,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Frana in Molise, riaperta la linea ferroviaria adriatica",
       "source_count": 7,
       "article_count": 10,
@@ -118,7 +139,30 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Rimini, morte cerebrale per il 12enne risucchiato dal bocchettone della vasca idromassaggio",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "unita.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "fanpage.it",
+        "bologna.repubblica.it",
+        "ilmessaggero.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/10/dodicenne-morto-incastrato-nellidromassaggio-autorizzato-lespianto-degli-organi_5881194a-4d1d-478d-b149-e64ccc9092ce.html",
+        "https://www.unita.it/2026/04/10/risucchiato-piscina-idromassaggio-morto-vacanza-famiglia-pasqua-genitori-organi-figlio/",
+        "https://www.adnkronos.com/cronaca/rimini-e-morto-il-12enne-risucchiato-da-bocchettone-vasca-idromassaggio_66nwkq8SWbdOen1J9ZXYlE",
+        "https://www.ilgiornale.it/news/cronaca-nera/rimini-morto-matteo-brandimarti-12enne-risucchiato-2649213.html",
+        "https://www.fanpage.it/attualita/morto-il-12enne-risucchiato-da-bocchettone-della-piscina-a-rimini-la-gamba-incastrata-e-lallarme-dei-genitori/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Da Putin il cessate il fuoco di due giorni per la Pasqua ortodossa. Zelensky: 'Lo rispetteremo'",
       "source_count": 7,
       "article_count": 9,
@@ -137,48 +181,6 @@
         "https://www.ilfattoquotidiano.it/2026/04/10/ucraina-fino-a-domenica-sera-la-tregua-della-pasqua-ortodossa-zelensky-rilancia-i-negoziati-fine-dei-raid-anche-dopo-la-festivita/8351366/",
         "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-10-aprile_5rc5jAXbFuErtayDEgxbYX",
         "https://www.repubblica.it/esteri/2026/04/10/diretta/guerra_ucraina_russia_news_oggi-425273943/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Monte-Carlo, Sinner è in semifinale con Zverev. Auger-Aliassime superato in 2 set",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "lastampa.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/tennis/atp-montecarlo-sinner-semifinale-e-torna-numero-2649505.html",
-        "https://www.fanpage.it/sport/tennis/sinner-domina-auger-aliassime-a-monte-carlo-e-ringrazia-il-meteo-le-nuvole-mi-hanno-aiutato/",
-        "https://www.ilfattoquotidiano.it/2026/04/10/sinner-montecarlo-quarti-di-finale-auger-aliassime-vittoria-commento-analisi/8351754/",
-        "https://www.ansa.it/sito/notizie/sport/2026/04/10/tennis-sinner-a-montecarlo-contro-auger-aliassime-per-laccesso-alla-semifinale_b560d3f3-d635-4c3c-b151-4035115ab36b.html",
-        "https://www.lastampa.it/sport/2026/04/10/news/sinner_auger-aliassime_montecarlo-15579585/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Artemis II, la navetta Orion in viaggio verso la Terra",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/10/artemis-rientro-astronauti-orion-news/8351643/",
-        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/10/artemis-ii-la-navetta-orion-in-viaggio-verso-la-terra-_7cf84295-7331-416b-b7c7-6f346e1661c9.html",
-        "https://www.lastampa.it/esteri/2026/04/10/news/artemis_2_rientro_rischi-15579557/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47216702/una-spettacolare-eclissi-solare-nello-spazio-vista-a-bordo-di-artemis-ii/",
-        "https://www.liberoquotidiano.it/news/libero-video/47215829/spazio-artemis-2-vicina-ritorno-terra/"
       ]
     },
     {
@@ -205,23 +207,24 @@
     },
     {
       "rank": 10,
-      "title": "Scontro a Porta a Porta tra Vespa e Provenzano, il conduttore urla: “Stia zitto, non glielo consento”",
-      "source_count": 6,
+      "title": "Il Financial Times: “Aeroporti europei a rischio carburante se Hormuz non riapre in tre settimane”",
+      "source_count": 7,
       "article_count": 8,
       "source_domains": [
-        "liberoquotidiano.it",
         "ilgiornale.it",
+        "unita.it",
+        "ansa.it",
         "fanpage.it",
-        "adnkronos.com",
+        "repubblica.it",
         "ilfattoquotidiano.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/personaggi/47218252/bruno-vespa-giuseppe-provenzano-dimostrato-tutto-prima-fosse-nato/",
-        "https://www.ilgiornale.it/news/interni/dovrebbe-sedersi-l-non-glielo-consento-scontro-provenzano-e-2649295.html",
-        "https://www.fanpage.it/spettacolo/programmi-tv/bruno-vespa-urla-stia-zitto-a-provenzano-in-diretta-il-pd-chiede-alla-rai-una-presa-di-distanza/",
-        "https://www.adnkronos.com/politica/vespa-provenzano-video-porta-a-porta_3DRhQmPB7vqPtWISUFJZr4",
-        "https://www.ilfattoquotidiano.it/2026/04/10/questo-non-glielo-consento-con-quello-che-vedete-in-giro-sulla-par-condicio-anche-la-battuta-se-la-poteva-risparmiare-adesso-stia-zitto-bruno-vespa-sbotta-con-giuseppe-provenzano-pd/8351258/"
+        "https://www.ilgiornale.it/news/cittadini/ue-cherosene-sempre-pi-scarso-lettera-allarmata-aci-europe-2649750.html",
+        "https://www.unita.it/2026/04/10/aeroporti-senza-cherosene-hormuz-chiuso-voli-a-rischio/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/10/financial-times-gli-aeroporti-europei-a-rischio-carburante-entro-tre-settimane_348d8173-7174-48d0-b908-e7be142d2d55.html",
+        "https://www.fanpage.it/esteri/se-hormuz-non-riapre-in-3-settimane-manchera-carburante-per-aerei-lallarme-degli-aeroporti-europei/",
+        "https://www.repubblica.it/economia/2026/04/10/news/cherosene_allarme_aeroporti_europa_aie_birol-425275148/"
       ]
     }
   ]
