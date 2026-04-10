@@ -1,12 +1,12 @@
 {
   "date": "2026-04-10",
-  "generated_at": "Fri 10 Apr 11:04",
+  "generated_at": "Fri 10 Apr 13:25",
   "stories": [
     {
       "rank": 1,
-      "title": "Mariani ad di Leonardo, all’Enel resta il ticket Cattaneo-Scaroni",
-      "source_count": 8,
-      "article_count": 10,
+      "title": "Nomine: Mef deposita lista per cda Enel, Enav, Eni e Leonardo. Ecco chi resta, chi viene e chi va",
+      "source_count": 9,
+      "article_count": 11,
       "source_domains": [
         "unita.it",
         "liberoquotidiano.it",
@@ -15,7 +15,8 @@
         "repubblica.it",
         "ansa.it",
         "ilmessaggero.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
         "https://www.unita.it/2026/04/10/meloni-silura-cingolani-ad-leonardo/",
@@ -27,6 +28,30 @@
     },
     {
       "rank": 2,
+      "title": "Rimini, morte cerebrale per il 12enne risucchiato dal bocchettone della vasca idromassaggio",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "unita.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "fanpage.it",
+        "bologna.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/10/dodicenne-morto-incastrato-nellidromassaggio-autorizzato-lespianto-degli-organi_5881194a-4d1d-478d-b149-e64ccc9092ce.html",
+        "https://www.unita.it/2026/04/10/risucchiato-piscina-idromassaggio-morto-vacanza-famiglia-pasqua-genitori-organi-figlio/",
+        "https://www.adnkronos.com/cronaca/rimini-e-morto-il-12enne-risucchiato-da-bocchettone-vasca-idromassaggio_66nwkq8SWbdOen1J9ZXYlE",
+        "https://www.ilgiornale.it/news/cronaca-nera/rimini-morto-matteo-brandimarti-12enne-risucchiato-2649213.html",
+        "https://www.fanpage.it/attualita/morto-il-12enne-risucchiato-da-bocchettone-della-piscina-a-rimini-la-gamba-incastrata-e-lallarme-dei-genitori/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Stefano Gabbana lascia la presidenza di D&G. Il gruppo: 'Nessuna influenza sulle attività creative'",
       "source_count": 7,
       "article_count": 10,
@@ -45,29 +70,6 @@
         "https://www.ansa.it/sito/notizie/economia/aziende/2026/04/10/stefano-gabbana-lascia-la-presidenza-di-dg-va-a-alfonso-dolce_1db21f00-4bda-4a0c-b175-1dc11a5c5653.html",
         "https://www.ilfattoquotidiano.it/2026/04/10/stefano-gabbana-si-e-dimesso-dalla-presidenza-di-dolce-gabbana-per-rafforzare-il-management-spunta-il-nome-di-stefano-cantino-ex-ceo-di-gucci/8351187/",
         "https://www.fanpage.it/stile-e-trend/moda/stefano-gabbana-lascia-la-presidenza-di-dolcegabbana-al-suo-posto-alfonso-dolce/"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Rimini, morte cerebrale per il 12enne risucchiato dal bocchettone della vasca idromassaggio",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "unita.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "fanpage.it",
-        "bologna.repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/04/10/risucchiato-piscina-idromassaggio-morto-vacanza-famiglia-pasqua-genitori-organi-figlio/",
-        "https://www.adnkronos.com/cronaca/rimini-e-morto-il-12enne-risucchiato-da-bocchettone-vasca-idromassaggio_66nwkq8SWbdOen1J9ZXYlE",
-        "https://www.ilgiornale.it/news/cronaca-nera/rimini-morto-matteo-brandimarti-12enne-risucchiato-2649213.html",
-        "https://www.fanpage.it/attualita/morto-il-12enne-risucchiato-da-bocchettone-della-piscina-a-rimini-la-gamba-incastrata-e-lallarme-dei-genitori/",
-        "https://bologna.repubblica.it/cronaca/2026/04/10/news/matteo_brandimarti_morto_bocchettone_idromassaggio_pennabilli-425274651/"
       ]
     },
     {
@@ -94,6 +96,49 @@
     },
     {
       "rank": 5,
+      "title": "Melania Trump (a sorpresa) parla di Epstein dalla Casa Bianca: «Mai stata sua amica, non è stato lui a presentarmi Donald»",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/47218103/melania-trump-a-sorpresa-convoca-stampa-usa-nessun-legame-con-epstein/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/09/melania-trump-alla-stampa-mai-stata-amica-di-epstein-su-di-me-menzogne-infondate_c030000f-5560-4af4-97e7-66fb21487df2.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47214958/melania-trump-non-sono-una-vittima-di-epstein-e-lui-non-mi-ha-presentato-a-donald-trump/",
+        "https://www.fanpage.it/esteri/caso-epstein-melania-trump-non-abbiamo-mai-avuto-una-relazione-e-non-sono-una-sua-vittima/",
+        "https://www.lastampa.it/esteri/2026/04/10/video/epstein_melania_trump_dalla_casa_bianca_basta_calunnie_sul_mio_conto-15579166/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Artemis II, la navetta Orion in viaggio verso la Terra",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/10/artemis-rientro-astronauti-orion-news/8351643/",
+        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/10/artemis-ii-la-navetta-orion-in-viaggio-verso-la-terra-_7cf84295-7331-416b-b7c7-6f346e1661c9.html",
+        "https://www.lastampa.it/esteri/2026/04/10/news/artemis_2_rientro_rischi-15579557/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47216702/una-spettacolare-eclissi-solare-nello-spazio-vista-a-bordo-di-artemis-ii/",
+        "https://www.liberoquotidiano.it/news/libero-video/47215829/spazio-artemis-2-vicina-ritorno-terra/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Frana in Molise, riaperta la linea ferroviaria adriatica",
       "source_count": 7,
       "article_count": 8,
@@ -115,32 +160,31 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Melania Trump: “Non sono una vittima di Epstein”",
-      "source_count": 7,
-      "article_count": 7,
+      "rank": 8,
+      "title": "Sinner-Auger Aliassime: orario, dove vederla (tv e streaming) e precedenti. Jannik a Montecarlo minaccia Alcaraz",
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
-        "liberoquotidiano.it",
         "fanpage.it",
+        "adnkronos.com",
         "ilgiornale.it",
-        "ilmessaggero.it",
         "lastampa.it",
-        "repubblica.it"
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/09/melania-trump-alla-stampa-mai-stata-amica-di-epstein-su-di-me-menzogne-infondate_c030000f-5560-4af4-97e7-66fb21487df2.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47214958/melania-trump-non-sono-una-vittima-di-epstein-e-lui-non-mi-ha-presentato-a-donald-trump/",
-        "https://www.fanpage.it/esteri/caso-epstein-melania-trump-non-abbiamo-mai-avuto-una-relazione-e-non-sono-una-sua-vittima/",
-        "https://www.ilgiornale.it/news/politica-estera/verit-melania-trump-epstein-mai-stata-sua-amica-su-me-2648998.html",
-        "https://www.ilmessaggero.it/mondo/melania_trump_epstein_ultime_notizie-9464861.html"
+        "https://www.ansa.it/sito/notizie/sport/2026/04/10/tennis-sinner-a-montecarlo-contro-auger-aliassime-per-laccesso-alla-semifinale_b560d3f3-d635-4c3c-b151-4035115ab36b.html",
+        "https://www.fanpage.it/sport/tennis/sinner-stremato-a-monte-carlo-mentre-gioca-con-machac-pensa-a-chiedere-chi-ha-vinto-di-la/",
+        "https://www.fanpage.it/sport/live/sinner-auger-aliassime-in-diretta-live-in-campo-dalle-13-a-monte-carlo-quarti-di-finale-per-jannik/",
+        "https://www.adnkronos.com/sport/sinner-auger-aliassime-oggi-quarti-montecarlo-orario-precedenti-dove-vedere-match-tv-streaming_2k0duiQgH5H5MAUee7KzIS",
+        "https://www.ilgiornale.it/news/tennis/sinner-cigola-po-e-striscia-37-set-vinti-fila-si-ferma-qui-2649108.html"
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Roma-Firenze, stop a treni e Alta Velocità: da mezzanotte (di oggi) fino alle 15 di domenica lavori e disagi",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
         "ilfattoquotidiano.it",
         "adnkronos.com",
@@ -153,70 +197,29 @@
         "https://www.ilfattoquotidiano.it/2026/04/10/ritardi-treni-milano-roma-ertms-weekend-notizie/8351403/",
         "https://www.adnkronos.com/cronaca/treni-cancellazioni-variazioni-oggi-10-aprile-lunedi-13-dove-perche_7L5cOeD6AznMb6FuD9QQjJ",
         "https://www.ilmessaggero.it/italia/roma_firenze_treni_alta_velocita_stop_cosa_succede-9466337.html",
-        "https://www.lastampa.it/cronaca/2026/04/10/news/weekend_treni_ritardi_e_disagi_lavori_roma_firenze-15579150/",
-        "https://www.ilsole24ore.com/art/weekend-passione-i-pendolari-sospesa-tratta-ferroviaria-roma-firenze-causa-lavori-AIOjIxPC"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Sinner-Auger Aliassime: orario, dove vederla (tv e streaming) e precedenti. Jannik a Montecarlo minaccia Alcaraz",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "fanpage.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/tennis/sinner-stremato-a-monte-carlo-mentre-gioca-con-machac-pensa-a-chiedere-chi-ha-vinto-di-la/",
-        "https://www.fanpage.it/sport/live/sinner-auger-aliassime-in-diretta-live-in-campo-dalle-13-a-monte-carlo-quarti-di-finale-per-jannik/",
-        "https://www.adnkronos.com/sport/sinner-auger-aliassime-oggi-quarti-montecarlo-orario-precedenti-dove-vedere-match-tv-streaming_2k0duiQgH5H5MAUee7KzIS",
-        "https://www.ilgiornale.it/news/tennis/sinner-cigola-po-e-striscia-37-set-vinti-fila-si-ferma-qui-2649108.html",
-        "https://www.lastampa.it/sport/2026/04/10/news/i_dolori_dell_imbattibile_sinner_ho_dovuto_metterci_piu_energia-15578889/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Morto Afrika Bambaataa, fu uno dei grandi pionieri dell’hip hop",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "unita.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/04/10/morto-afrika-bambaataa-dj-rapper-hip-hop-zulu-nation/",
-        "https://www.fanpage.it/cultura/e-morto-afrika-bambaataa-aveva-68-anni-pioniere-dellhip-hop-fu-accusato-di-abusi-su-minori/",
-        "https://www.ilfattoquotidiano.it/2026/04/10/afrika-bambaataa-e-morto-di-cancro-alla-prostata-pioniere-dellhip-hop-e-dellelettronica-con-il-motto-pace-amore-unita-e-divertimento-il-lento-declino-dopo-le-accuse-di-abusi/8351168/",
-        "https://www.lastampa.it/spettacoli/2026/04/10/news/afrika_bambaataa_morto-15579224/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/10/il-pioniere-dellhip-hop-afrika-bambaataa-e-morto-alleta-di-68-anni_38549826-c819-4160-9557-b8e72eac63eb.html"
+        "https://www.ilmessaggero.it/italia/treni_cancellati_roma_firenze_perche_quando_quanto_dura-9466337.html",
+        "https://www.lastampa.it/cronaca/2026/04/10/news/weekend_treni_ritardi_e_disagi_lavori_roma_firenze-15579150/"
       ]
     },
     {
       "rank": 10,
-      "title": "Italiano in carcere negli Usa per commercio di munizioni verso la Russia",
+      "title": "Scontro a Porta a Porta tra Vespa e Provenzano, il conduttore urla: “Stia zitto, non glielo consento”",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
-        "ilfattoquotidiano.it",
         "fanpage.it",
-        "ansa.it",
-        "repubblica.it",
-        "agi.it"
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/cronaca-internazionale/munizioni-usa-russia-passando-kirghizistan-arrestato-2649225.html",
-        "https://www.ilfattoquotidiano.it/2026/04/10/commerciante-armi-arrestato-usa-russia-news/8351350/",
-        "https://www.fanpage.it/esteri/italiano-arrestato-negli-usa-esportava-illegalmente-munizioni-in-russia-sapeva-di-infrangere-la-legge/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/10/italiano-in-carcere-negli-usa-per-commercio-di-munizioni-verso-la-russia_da350151-efde-42e0-9bb3-d9448b4148b4.html",
-        "https://www.repubblica.it/cronaca/2026/04/10/news/manfred_gruber_italiano_arrestato_usa_commercio_munizioni_russia-425274497/"
+        "https://www.ilgiornale.it/news/interni/dovrebbe-sedersi-l-non-glielo-consento-scontro-provenzano-e-2649295.html",
+        "https://www.fanpage.it/spettacolo/programmi-tv/bruno-vespa-urla-stia-zitto-a-provenzano-in-diretta-il-pd-chiede-alla-rai-una-presa-di-distanza/",
+        "https://www.adnkronos.com/politica/vespa-provenzano-video-porta-a-porta_3DRhQmPB7vqPtWISUFJZr4",
+        "https://www.ilfattoquotidiano.it/2026/04/10/questo-non-glielo-consento-con-quello-che-vedete-in-giro-sulla-par-condicio-anche-la-battuta-se-la-poteva-risparmiare-adesso-stia-zitto-bruno-vespa-sbotta-con-giuseppe-provenzano-pd/8351258/",
+        "https://www.liberoquotidiano.it/news/personaggi/47213283/porta-a-porta-vespa-provenzano-non-glielo-consento/"
       ]
     }
   ]
