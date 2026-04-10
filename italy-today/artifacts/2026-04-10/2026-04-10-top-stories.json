@@ -1,9 +1,33 @@
 {
   "date": "2026-04-10",
-  "generated_at": "Fri 10 Apr 16:02",
+  "generated_at": "Fri 10 Apr 17:04",
   "stories": [
     {
       "rank": 1,
+      "title": "Monte-Carlo, Sinner è in semifinale con Zverev. Auger-Aliassime superato in 2 set",
+      "source_count": 9,
+      "article_count": 15,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/10/atp-montecarlo-quando-gioca-jannik-sinner-contro-zverev-semifinale-orario-tv-streaming/8351950/",
+        "https://www.fanpage.it/sport/tennis/da-george-russell-alla-fidanzata-laila-il-box-di-sinner-e-affollatissimo-a-monte-carlo-sono-in-10/",
+        "https://www.repubblica.it/sport/tennis/2026/04/10/news/sinner_auger_aliassime_oggi_montecarlo_risultato-425275443/",
+        "https://www.ilgiornale.it/news/tennis/atp-montecarlo-sinner-semifinale-e-torna-numero-2649505.html",
+        "https://www.fanpage.it/sport/tennis/sinner-domina-auger-aliassime-a-monte-carlo-e-ringrazia-il-meteo-le-nuvole-mi-hanno-aiutato/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Nomine: Mef deposita lista per cda Enel, Enav, Eni e Leonardo. Ecco chi resta, chi viene e chi va",
       "source_count": 9,
       "article_count": 12,
@@ -27,52 +51,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Monte-Carlo, Sinner è in semifinale con Zverev. Auger-Aliassime superato in 2 set",
-      "source_count": 8,
-      "article_count": 13,
-      "source_domains": [
-        "fanpage.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "lastampa.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/tennis/da-george-russell-alla-fidanzata-laila-il-box-di-sinner-e-affollatissimo-a-monte-carlo-sono-in-10/",
-        "https://www.repubblica.it/sport/tennis/2026/04/10/news/sinner_auger_aliassime_oggi_montecarlo_risultato-425275443/",
-        "https://www.ilgiornale.it/news/tennis/atp-montecarlo-sinner-semifinale-e-torna-numero-2649505.html",
-        "https://www.fanpage.it/sport/tennis/sinner-domina-auger-aliassime-a-monte-carlo-e-ringrazia-il-meteo-le-nuvole-mi-hanno-aiutato/",
-        "https://www.ilmessaggero.it/sport/schede/sinner_zverev_orario_dove_vederla_in_chiaro_montecarlo_semifinale_ranking-9466617.html"
-      ]
-    },
-    {
       "rank": 3,
-      "title": "Artemis II, la navetta Orion in viaggio verso la Terra",
-      "source_count": 7,
-      "article_count": 12,
-      "source_domains": [
-        "ilmessaggero.it",
-        "laverita.info",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/scienza/artemis_rientro_missione_dove_vederla_streaming_nasa_pericolosa-9466687.html",
-        "https://www.laverita.info/artemis-2-2676697910.html",
-        "https://www.ilfattoquotidiano.it/2026/04/10/artemis-rientro-astronauti-orion-news/8351643/",
-        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/10/artemis-ii-la-navetta-orion-in-viaggio-verso-la-terra-_7cf84295-7331-416b-b7c7-6f346e1661c9.html",
-        "https://www.lastampa.it/esteri/2026/04/10/news/artemis_2_rientro_rischi-15579557/"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Melania Trump: “Non sono una vittima di Epstein”",
       "source_count": 8,
       "article_count": 10,
@@ -92,6 +71,28 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/04/09/melania-trump-alla-stampa-mai-stata-amica-di-epstein-su-di-me-menzogne-infondate_c030000f-5560-4af4-97e7-66fb21487df2.html",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/47214958/melania-trump-non-sono-una-vittima-di-epstein-e-lui-non-mi-ha-presentato-a-donald-trump/",
         "https://www.fanpage.it/esteri/caso-epstein-melania-trump-non-abbiamo-mai-avuto-una-relazione-e-non-sono-una-sua-vittima/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Artemis II, la navetta Orion in viaggio verso la Terra",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "ilmessaggero.it",
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/scienza/artemis_rientro_missione_dove_vederla_streaming_nasa_pericolosa-9466687.html",
+        "https://www.laverita.info/artemis-2-2676697910.html",
+        "https://www.ilfattoquotidiano.it/2026/04/10/artemis-rientro-astronauti-orion-news/8351643/",
+        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/10/artemis-ii-la-navetta-orion-in-viaggio-verso-la-terra-_7cf84295-7331-416b-b7c7-6f346e1661c9.html",
+        "https://www.lastampa.it/esteri/2026/04/10/news/artemis_2_rientro_rischi-15579557/"
       ]
     },
     {
@@ -140,29 +141,6 @@
     },
     {
       "rank": 7,
-      "title": "Rimini, morte cerebrale per il 12enne risucchiato dal bocchettone della vasca idromassaggio",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "unita.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "fanpage.it",
-        "bologna.repubblica.it",
-        "ilmessaggero.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/10/dodicenne-morto-incastrato-nellidromassaggio-autorizzato-lespianto-degli-organi_5881194a-4d1d-478d-b149-e64ccc9092ce.html",
-        "https://www.unita.it/2026/04/10/risucchiato-piscina-idromassaggio-morto-vacanza-famiglia-pasqua-genitori-organi-figlio/",
-        "https://www.adnkronos.com/cronaca/rimini-e-morto-il-12enne-risucchiato-da-bocchettone-vasca-idromassaggio_66nwkq8SWbdOen1J9ZXYlE",
-        "https://www.ilgiornale.it/news/cronaca-nera/rimini-morto-matteo-brandimarti-12enne-risucchiato-2649213.html",
-        "https://www.fanpage.it/attualita/morto-il-12enne-risucchiato-da-bocchettone-della-piscina-a-rimini-la-gamba-incastrata-e-lallarme-dei-genitori/"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Da Putin il cessate il fuoco di due giorni per la Pasqua ortodossa. Zelensky: 'Lo rispetteremo'",
       "source_count": 7,
       "article_count": 9,
@@ -181,6 +159,29 @@
         "https://www.ilfattoquotidiano.it/2026/04/10/ucraina-fino-a-domenica-sera-la-tregua-della-pasqua-ortodossa-zelensky-rilancia-i-negoziati-fine-dei-raid-anche-dopo-la-festivita/8351366/",
         "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-10-aprile_5rc5jAXbFuErtayDEgxbYX",
         "https://www.repubblica.it/esteri/2026/04/10/diretta/guerra_ucraina_russia_news_oggi-425273943/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Rimini, è morto Matteo Brandimarti, il 12enne risucchiato dall'idromassaggio nell'hotel di Pennabilli",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "unita.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "fanpage.it",
+        "bologna.repubblica.it",
+        "ilmessaggero.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/10/dodicenne-morto-incastrato-nellidromassaggio-autorizzato-lespianto-degli-organi_5881194a-4d1d-478d-b149-e64ccc9092ce.html",
+        "https://www.unita.it/2026/04/10/risucchiato-piscina-idromassaggio-morto-vacanza-famiglia-pasqua-genitori-organi-figlio/",
+        "https://www.adnkronos.com/cronaca/rimini-e-morto-il-12enne-risucchiato-da-bocchettone-vasca-idromassaggio_66nwkq8SWbdOen1J9ZXYlE",
+        "https://www.ilgiornale.it/news/cronaca-nera/rimini-morto-matteo-brandimarti-12enne-risucchiato-2649213.html",
+        "https://www.fanpage.it/attualita/morto-il-12enne-risucchiato-da-bocchettone-della-piscina-a-rimini-la-gamba-incastrata-e-lallarme-dei-genitori/"
       ]
     },
     {
