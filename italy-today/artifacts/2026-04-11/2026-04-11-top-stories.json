@@ -1,6 +1,6 @@
 {
   "date": "2026-04-11",
-  "generated_at": "Sat 11 Apr 13:13",
+  "generated_at": "Sat 11 Apr 14:43",
   "stories": [
     {
       "rank": 1,
@@ -9,9 +9,9 @@
       "article_count": 24,
       "source_domains": [
         "laverita.info",
+        "liberoquotidiano.it",
         "fanpage.it",
         "ansa.it",
-        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "ilmanifesto.it",
         "adnkronos.com",
@@ -22,20 +22,43 @@
       ],
       "links": [
         "https://www.laverita.info/artemis-2-ammaraggio-orion-luna-2676701781.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47230407/artemis-ii-torna-sulla-terra-astronauti-sorridenti-dopo-lo-splashdown-perfetto/",
         "https://www.fanpage.it/innovazione/scienze/artemis-ii-nasa-rientrata-oggi-record-di-distanza-per-lequipaggio-e-cosa-cambia-per-il-ritorno-sulla-luna/",
         "https://www.ansa.it/canale_scienza/multimedia/photogallery/2026/04/11/il-viaggio-di-artemis-ii-verso-la-luna_879cb651-ee03-46ed-a937-d53d704d6ce6.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/04/11/missione-compiuta-per-artemis-ii_f8051da2-6231-4e83-a391-11fc658edb26.html",
-        "https://www.liberoquotidiano.it/news/libero-video/47227338/artemis-recupero-astronauti-oceano-pacifico/"
+        "https://www.ansa.it/sito/videogallery/mondo/2026/04/11/missione-compiuta-per-artemis-ii_f8051da2-6231-4e83-a391-11fc658edb26.html"
       ]
     },
     {
       "rank": 2,
+      "title": "Sinner batte Zverev e va in finale a Montecarlo. Alcaraz in campo, Jannik spera di tornare n.1",
+      "source_count": 8,
+      "article_count": 25,
+      "source_domains": [
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/tennis/sinner-scoppia-a-ridere-durante-lintervista-per-colpa-dei-piloti-di-formula-1-scusatemi-non-riesco/",
+        "https://www.ilfattoquotidiano.it/2026/04/11/sinner-finale-montecarlo-alcaraz-non-vedo-ora-non-ho-nulla-da-perdere/8352507/",
+        "https://www.repubblica.it/sport/tennis/2026/04/11/news/sinner_zverev_oggi_montecarlo_risultato-425277256/",
+        "https://www.ansa.it/sito/notizie/sport/2026/04/11/sinner-in-finale-a-montecarlo-battutonbsp-zverev-in-due-set-6-1-6-4_cceabf13-6267-4f07-88c1-ab2ee76d0d58.html",
+        "https://www.ilgiornale.it/news/tennis/jannik-sinner-sontuoso-abbatte-zverev-e-vola-finale-2650075.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Iran-Usa, oggi i colloqui a Islamabad. Teheran: \"Piena disponibilità, ma non ci fidiamo\" - Diretta",
       "source_count": 10,
-      "article_count": 16,
+      "article_count": 17,
       "source_domains": [
-        "ansa.it",
         "liberoquotidiano.it",
+        "ansa.it",
         "ilfattoquotidiano.it",
         "laverita.info",
         "repubblica.it",
@@ -46,34 +69,11 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/47230901/pakistan-al-via-i-colloqui-di-pace-tra-usa-e-iran-a-islamabad/",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/11/vance-vede-sharif-prima-dei-colloqui.-nessun-via-libera-usa_db8d3a7f-20a5-4713-854c-77be83015d4b.html",
         "https://www.liberoquotidiano.it/news/libero-video/47228320/iran-arrivo-vance-pakistan-negoziati-teheran/",
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/04/11/guerra-in-iran-israele-usa-news-oggi-11-aprile/8352304/",
-        "https://www.liberoquotidiano.it/news/libero-video/47227331/islamabad-arrivo-delegazione-iraniana-via-negoziati-usa/",
-        "https://www.laverita.info/trump-guerra-iran-hormuz-2676700185.html"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Montecarlo, oggi semifinale Sinner-Zverev - Il match in diretta",
-      "source_count": 8,
-      "article_count": 18,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/04/11/masters-montecarlo-la-sfida-sinner-zverev-in-semifinale-4-0_cceabf13-6267-4f07-88c1-ab2ee76d0d58.html",
-        "https://www.repubblica.it/sport/tennis/2026/04/11/diretta/sinner_zverev_atp_montecarlo_semifinale_oggi_diretta-425277113/",
-        "https://www.ilfattoquotidiano.it/sport-miliardi/live-post/2026/04/11/sinner-zverev-semifinale-montecarlo-diretta/8352445/",
-        "https://www.lastampa.it/sport/2026/04/11/news/sinner_zverev_alcaraz_vacherot_montecarlo-15580826/",
-        "https://www.adnkronos.com/sport/diretta-sinner-zverev-oggi-montecarlo-semifinale-live-risultato-aggiornamenti_2cUye2De8o7KrtPweqlqiH"
+        "https://www.liberoquotidiano.it/news/libero-video/47227331/islamabad-arrivo-delegazione-iraniana-via-negoziati-usa/"
       ]
     },
     {
