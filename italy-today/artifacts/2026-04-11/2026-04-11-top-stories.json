@@ -1,38 +1,40 @@
 {
   "date": "2026-04-11",
-  "generated_at": "Sat 11 Apr 07:10",
+  "generated_at": "Sat 11 Apr 08:55",
   "stories": [
     {
       "rank": 1,
-      "title": "Artemis 2, rientrata dal viaggio Terra-Luna la navicella Orion: “Missione straordinaria”",
-      "source_count": 10,
-      "article_count": 13,
+      "title": "Artemis II, rientro riuscito: così gli astronauti sono tornati sulla Terra dopo il viaggio intorno alla Luna",
+      "source_count": 11,
+      "article_count": 16,
       "source_domains": [
         "ansa.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
         "ilmanifesto.it",
         "adnkronos.com",
         "ilgiornale.it",
         "lastampa.it",
         "ilmessaggero.it",
-        "fanpage.it",
         "repubblica.it",
         "liberoquotidiano.it",
         "laverita.info"
       ],
       "links": [
+        "https://www.ansa.it/sito/videogallery/mondo/2026/04/11/missione-compiuta-per-artemis-ii_f8051da2-6231-4e83-a391-11fc658edb26.html",
+        "https://www.fanpage.it/innovazione/scienze/artemis-ii-nasa-rientro-perfetto-dalla-luna-che-viaggio-stiamo-tutti-bene/",
+        "https://www.ilfattoquotidiano.it/2026/04/11/artemis-ii-missione-compiuta-il-rientro-sulla-terra-e-riuscito-dallingresso-in-atmosfera-allo-splashdown-nel-pacifico-tutte-le-fasi-finali-della-missione/8352303/",
         "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/04/11/la-navetta-orion-e-ammarata-missione-compiuta-per-artemis-ii-diretta_7cf84295-7331-416b-b7c7-6f346e1661c9.html",
-        "https://ilmanifesto.it/orion-e-rientrata-si-conclude-artemis-2-ma-lallunaggio-al-2028-e-in-dubbio",
-        "https://www.adnkronos.com/internazionale/esteri/artemis-2-rientro-sulla-terra_1yvcoijb6ExeVaFSRDH6j0",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/artemis-ii-compiuta-missione-sulla-luna-ammaraggio-nel-2649945.html",
-        "https://www.lastampa.it/scienza/2026/04/11/video/artemis_2_le_immagini_ravvicinate_della_navicella_orion_dopo_lo_splashdown-15580598/"
+        "https://ilmanifesto.it/orion-e-rientrata-si-conclude-artemis-2-ma-lallunaggio-al-2028-e-in-dubbio"
       ]
     },
     {
       "rank": 2,
-      "title": "Guerra in Iran, le news di oggi. È il giorno dei negoziati. Trump: “No pedaggi a Hormuz, sono acque internazionali”. Delegazione Usa arrivata a Islamabad",
-      "source_count": 8,
-      "article_count": 11,
+      "title": "Iran-Usa, oggi i colloqui a Islamabad. Teheran: \"Piena disponibilità, ma non ci fidiamo\" - Diretta",
+      "source_count": 9,
+      "article_count": 12,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "laverita.info",
         "ansa.it",
         "repubblica.it",
@@ -43,15 +45,37 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/04/11/guerra-in-iran-israele-usa-news-oggi-11-aprile/8352304/",
         "https://www.laverita.info/trump-guerra-iran-hormuz-2676700185.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/11/i-media-iraniani-se-gli-usa-accettano-le-precondizioni-di-teheran-i-colloqui-al-via-domani_db8d3a7f-20a5-4713-854c-77be83015d4b.html",
         "https://www.repubblica.it/esteri/2026/04/11/diretta/guerra_iran_usa_israele_news_oggi-425276294/",
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-11-aprile-2026/",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-news-oggi-diretta-ultime-notizie_4pajr0Tt04I1gaQgUYjjQu"
+        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-11-aprile-2026/"
       ]
     },
     {
       "rank": 3,
+      "title": "Sinner in semifinale a Montecarlo, testa a testa con Alcaraz",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "ansa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/live/sinner-zverev-in-diretta-live-la-semifinale-in-diretta-live-dalle-1330-a-montecarlo-in-palio-ce-la-finale/",
+        "https://www.ilgiornale.it/news/tennis/sinner-voglia-impresa-palio-trono-re-2649942.html",
+        "https://www.adnkronos.com/sport/sinner-zverev-oggi-montecarlo-orario-dove-vederla-tv_7jrhTjjpqYjhoTa2SO4MvE",
+        "https://www.fanpage.it/sport/tennis/sinner-zverev-oggi-in-semifinale-a-monte-carlo-a-che-ora-si-gioca-e-dove-vederla-in-tv-e-streaming/",
+        "https://www.repubblica.it/sport/tennis/2026/04/11/news/sinner_varieta_colpi_palle_corte_discese_rete-425276105/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Salis: 'Io l'anti-Meloni? Se lo chiedono lo prenderei in considerazione'",
       "source_count": 7,
       "article_count": 8,
@@ -73,28 +97,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Sinner in semifinale a Montecarlo, testa a testa con Alcaraz",
+      "rank": 5,
+      "title": "Anziani morti in ambulanza a Forlì, arrestato l’autista",
       "source_count": 6,
-      "article_count": 9,
+      "article_count": 6,
       "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
         "fanpage.it",
-        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
         "ansa.it",
-        "ilmessaggero.it"
+        "ilgiornale.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/tennis/sinner-voglia-impresa-palio-trono-re-2649942.html",
-        "https://www.adnkronos.com/sport/sinner-zverev-oggi-montecarlo-orario-dove-vederla-tv_7jrhTjjpqYjhoTa2SO4MvE",
-        "https://www.fanpage.it/sport/tennis/sinner-zverev-oggi-in-semifinale-a-monte-carlo-a-che-ora-si-gioca-e-dove-vederla-in-tv-e-streaming/",
-        "https://www.fanpage.it/sport/tennis/carlos-alcaraz-a-monte-carlo-spiega-cosa-ruberebbe-a-sinner-il-modo-in-cui-colpisce-e-unico/",
-        "https://www.lastampa.it/sport/2026/04/11/news/tennis_sinner_monte-carlo_alcaraz_numero_1_zverev_masters_1000-15580311/"
+        "https://www.fanpage.it/attualita/anziani-morti-in-ambulanza-a-forli-arrestato-luca-spada-il-27enne-e-accusato-di-omicidio-aggravato/",
+        "https://www.ilfattoquotidiano.it/2026/04/11/omicidi-ambulanza-forli-operatore-arrestato-news/8352323/",
+        "https://www.ilmessaggero.it/italia/anziani_morti_ambulanza_autista_luca_spada_arrestato_tecnica_bolla_aria-9468274.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/11/anziani-morti-in-ambulanza-arrestato-lautista_77d81394-df91-4819-9e71-77448109fc08.html",
+        "https://www.ilgiornale.it/news/nazionale/anziani-morti-ambulanza-arrestato-l-autista-2649986.html"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "La tripletta di Malen rilancia la Roma, botta e risposta tra Ranieri e Gasperini",
       "source_count": 5,
       "article_count": 6,
@@ -114,25 +138,46 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "L'allarme degli aeroporti Ue: 'Tre settimane, poi voli a rischio'",
-      "source_count": 4,
-      "article_count": 4,
+      "rank": 7,
+      "title": "Ue, cherosene sempre più scarso: tre settimane e poi voli a rischio",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
         "repubblica.it",
         "lastampa.it",
         "ansa.it",
-        "ilgiornale.it"
+        "ilgiornale.it",
+        "unita.it"
       ],
       "links": [
         "https://www.repubblica.it/economia/2026/04/11/news/aeroporti_cherosene_intervista_giuricin-425276279/",
         "https://www.lastampa.it/economia/2026/04/11/news/aerei_cherosene_iata-15580200/",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/10/lallarme-degli-aeroporti-ue-tre-settimane-poi-voli-a-rischio-_348d8173-7174-48d0-b908-e7be142d2d55.html",
-        "https://www.ilgiornale.it/news/cittadini/ue-cherosene-sempre-pi-scarso-lettera-allarmata-aci-europe-2649750.html"
+        "https://www.ilgiornale.it/news/cittadini/ue-cherosene-sempre-pi-scarso-lettera-allarmata-aci-europe-2649750.html",
+        "https://www.unita.it/2026/04/10/aeroporti-senza-cherosene-hormuz-chiuso-voli-a-rischio/"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Emanuele Fiano verso l’addio al Pd, scontro sul gemellaggio con Tel Aviv: “Difficile restare nel partito”",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/milano/milano-verso-la-fine-del-gemellaggio-con-tel-aviv-fiano-se-voglio-lasciare-il-pd-difficile-rimanere/",
+        "https://www.ilgiornale.it/news/interni/non-tollero-pi-livello-che-si-raggiunto-nel-partito-sfogo-2649965.html",
+        "https://www.ilgiornale.it/news/interni/pd-chiede-nuovo-stop-gemellaggio-tel-aviv-fiano-minaccia-2649804.html",
+        "https://www.ilfattoquotidiano.it/2026/04/10/fiano-addio-pd-gemellaggio-milano-telaviv-notizie/8352084/",
+        "https://www.liberoquotidiano.it/news/politica/47222238/emanuele-fiano-pronto-a-lasciare-il-pd-non-posso-piu-restare-/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Tajani a rapporto dai Berlusconi, la famiglia chiede discontinuità: c’è intesa su Costa capogruppo",
       "source_count": 4,
       "article_count": 4,
@@ -150,52 +195,20 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Emanuele Fiano verso l’addio al Pd, scontro sul gemellaggio con Tel Aviv: “Difficile restare nel partito”",
+      "rank": 10,
+      "title": "Treni, stop tra Roma e Firenze fino alle 15 di domenica: ferme Alta Velocità e linea convenzionale",
       "source_count": 3,
       "article_count": 4,
       "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it"
+        "ansa.it",
+        "repubblica.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/interni/non-tollero-pi-livello-che-si-raggiunto-nel-partito-sfogo-2649965.html",
-        "https://www.ilgiornale.it/news/interni/pd-chiede-nuovo-stop-gemellaggio-tel-aviv-fiano-minaccia-2649804.html",
-        "https://www.ilfattoquotidiano.it/2026/04/10/fiano-addio-pd-gemellaggio-milano-telaviv-notizie/8352084/",
-        "https://www.liberoquotidiano.it/news/politica/47222238/emanuele-fiano-pronto-a-lasciare-il-pd-non-posso-piu-restare-/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Blocco navale per imbarcazioni con migranti a bordo e norme sui Cpr: bollinato il testo del ddl Immigrazione",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ilmanifesto.it",
-        "fanpage.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://ilmanifesto.it/il-blocco-navale-molla-gli-ormeggi-il-ddl-verso-laula",
-        "https://www.fanpage.it/politica/blocco-navale-per-imbarcazioni-con-migranti-a-bordo-e-norme-sui-cpr-bollinato-il-testo-del-ddl-immigrazione/",
-        "https://www.ilsole24ore.com/art/bollinato-ddl-immigrazione-non-c-e-stretta-parlamentari-cpr-AINIH8QC"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Fi, dai Berlusconi fiducia a Tajani: visione unitaria per il rilancio",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "laverita.info",
-        "ilfattoquotidiano.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/marina-pier-silvio-blindano-tajani-2676701245.html",
-        "https://www.ilfattoquotidiano.it/2026/04/10/forza-italia-tajani-riunione-berlusconi-news-ultime-notizie/8352023/",
-        "https://www.ilsole24ore.com/art/da-barelli-congressi-nodi-forza-italia-pettine-oggi-l-incontro-tajani-marina-berlusconi-AIWNGkQC"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/09/stop-alla-circolazione-dei-treni-per-lavori-sulla-roma-firenze_0f9170d1-06c9-40a7-9e83-bcf764dd4c0c.html",
+        "https://www.repubblica.it/economia/2026/04/11/news/treni_roma_firenze_sospensione_alta_velocita_convenzionale-425275933/",
+        "https://www.repubblica.it/economia/2026/04/10/news/ferrovie_stop_treni_roma_firenze-425274787/",
+        "https://www.agi.it/cronaca/news/2026-04-10/treni-stop-circolazione-roma-firenze-36517637/"
       ]
     }
   ]
