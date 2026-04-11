@@ -1,33 +1,9 @@
 {
   "date": "2026-04-11",
-  "generated_at": "Sat 11 Apr 20:43",
+  "generated_at": "Sat 11 Apr 21:41",
   "stories": [
     {
       "rank": 1,
-      "title": "Sinner batte Zverev e va in finale a Montecarlo. Alcaraz in campo, Jannik spera di tornare n.1",
-      "source_count": 9,
-      "article_count": 31,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/11/sinner-alcaraz-statistica-punti-ruud-folle-in-questo-momento/8352691/",
-        "https://www.ansa.it/sito/notizie/sport/2026/04/11/montecarlo-sinner-contro-alcaraz-la-finale-che-tutti-aspettavano_5ef7f9e5-1230-4c58-9f15-03682f595a82.html",
-        "https://www.liberoquotidiano.it/news/sport/47233297/sinner-non-finire-intervista-non-riesco-a-parlare/",
-        "https://www.fanpage.it/sport/tennis/sinner-alcaraz-in-finale-a-monte-carlo-quando-e-a-che-ora-si-gioca-la-finale-che-assegna-il-numero-1/",
-        "https://www.ilfattoquotidiano.it/2026/04/11/sinner-alcaraz-montecarlo-2026-finale-orario-quando-dove-vedere-tv-streaming-gratis/8352525/"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Artemis II, rientro riuscito: così gli astronauti sono tornati sulla Terra dopo il viaggio intorno alla Luna",
       "source_count": 12,
       "article_count": 25,
@@ -51,6 +27,30 @@
         "https://www.liberoquotidiano.it/news/libero-video/47230150/artemis-ii-nasa-missione-per-tutta-umanita/",
         "https://www.laverita.info/artemis-2-ammaraggio-orion-luna-2676701781.html",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/47230407/artemis-ii-torna-sulla-terra-astronauti-sorridenti-dopo-lo-splashdown-perfetto/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Sinner batte Zverev e va in finale a Montecarlo. Alcaraz in campo, Jannik spera di tornare n.1",
+      "source_count": 9,
+      "article_count": 28,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/04/11/montecarlo-sinner-contro-alcaraz-la-finale-che-tutti-aspettavano_5ef7f9e5-1230-4c58-9f15-03682f595a82.html",
+        "https://www.liberoquotidiano.it/news/sport/47233297/sinner-non-finire-intervista-non-riesco-a-parlare/",
+        "https://www.fanpage.it/sport/tennis/sinner-alcaraz-in-finale-a-monte-carlo-quando-e-a-che-ora-si-gioca-la-finale-che-assegna-il-numero-1/",
+        "https://www.ilfattoquotidiano.it/2026/04/11/sinner-alcaraz-montecarlo-2026-finale-orario-quando-dove-vedere-tv-streaming-gratis/8352525/",
+        "https://www.fanpage.it/sport/tennis/sinner-scoppia-a-ridere-durante-lintervista-per-colpa-dei-piloti-di-formula-1-scusatemi-non-riesco/"
       ]
     },
     {
@@ -103,29 +103,6 @@
     },
     {
       "rank": 5,
-      "title": "Ungheria al voto, giovani anti-Orban in piazza, Trump lo sostiene",
-      "source_count": 8,
-      "article_count": 11,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/ungheria-domani-la-sfida-orban-magyar-decine-di-migliaia-al-mega-evento-contro-il-primo-ministro_wXkSqEfmIdotjm8gadgBV",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/11/in-ungheria-domani-81-milioni-di-elettori-al-voto-duello-tra-orban-e-magyar_de2b6dfc-ac24-4363-9c94-2762ade5fc3d.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/10/orban-allangolo-gioca-le-ultime-carte-e-grida-al-complotto-_57981e22-2768-41b6-af13-1c2611a6291c.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47229488/ungheria-al-voto-giovani-anti-orban-in-piazza-trump-lo-sostiene/",
-        "https://www.ilmessaggero.it/mondo/elezioni_ungheria_orban_magyar_chi_vince_conseguenze_italia_ue_cosa_cambia-9468345.html"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Anziani morti in ambulanza, arrestato l’autista Luca Spada",
       "source_count": 8,
       "article_count": 9,
@@ -145,6 +122,28 @@
         "https://www.fanpage.it/attualita/anziani-morti-in-ambulanza-a-forli-arrestato-luca-spada-il-27enne-e-accusato-di-omicidio-aggravato/",
         "https://www.ilfattoquotidiano.it/2026/04/11/omicidi-ambulanza-forli-operatore-arrestato-news/8352323/",
         "https://www.ilmessaggero.it/italia/anziani_morti_ambulanza_autista_luca_spada_arrestato_tecnica_bolla_aria-9468274.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Ungheria al voto, giovani anti-Orban in piazza, Trump lo sostiene",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/ungheria-domani-la-sfida-orban-magyar-decine-di-migliaia-al-mega-evento-contro-il-primo-ministro_wXkSqEfmIdotjm8gadgBV",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/11/in-ungheria-domani-81-milioni-di-elettori-al-voto-duello-tra-orban-e-magyar_de2b6dfc-ac24-4363-9c94-2762ade5fc3d.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/10/orban-allangolo-gioca-le-ultime-carte-e-grida-al-complotto-_57981e22-2768-41b6-af13-1c2611a6291c.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47229488/ungheria-al-voto-giovani-anti-orban-in-piazza-trump-lo-sostiene/",
+        "https://www.ilmessaggero.it/mondo/elezioni_ungheria_orban_magyar_chi_vince_conseguenze_italia_ue_cosa_cambia-9468345.html"
       ]
     },
     {
