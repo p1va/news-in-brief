@@ -1,6 +1,6 @@
 {
   "date": "2026-04-11",
-  "generated_at": "Sat 11 Apr 19:41",
+  "generated_at": "Sat 11 Apr 20:43",
   "stories": [
     {
       "rank": 1,
@@ -30,10 +30,10 @@
       "rank": 2,
       "title": "Artemis II, rientro riuscito: così gli astronauti sono tornati sulla Terra dopo il viaggio intorno alla Luna",
       "source_count": 12,
-      "article_count": 24,
+      "article_count": 25,
       "source_domains": [
-        "lastampa.it",
         "liberoquotidiano.it",
+        "lastampa.it",
         "laverita.info",
         "fanpage.it",
         "ansa.it",
@@ -46,24 +46,25 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47236355/lo-storico-viaggio-sulla-luna-di-artemis-ii-nel-video-pubblicato-dalla-casa-bianca/",
         "https://www.lastampa.it/scienza/2026/04/11/news/il_grande_e_atteso_successo_di_artemis_2_e_adesso-15581162/",
         "https://www.liberoquotidiano.it/news/libero-video/47230150/artemis-ii-nasa-missione-per-tutta-umanita/",
         "https://www.laverita.info/artemis-2-ammaraggio-orion-luna-2676701781.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47230407/artemis-ii-torna-sulla-terra-astronauti-sorridenti-dopo-lo-splashdown-perfetto/",
-        "https://www.fanpage.it/innovazione/scienze/artemis-ii-nasa-rientrata-oggi-record-di-distanza-per-lequipaggio-e-cosa-cambia-per-il-ritorno-sulla-luna/"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47230407/artemis-ii-torna-sulla-terra-astronauti-sorridenti-dopo-lo-splashdown-perfetto/"
       ]
     },
     {
       "rank": 3,
-      "title": "Islamabad, l'arrivo della delegazione iraniana: al via i negoziati con gli Usa",
-      "source_count": 7,
-      "article_count": 15,
+      "title": "Iran-Usa, oggi i colloqui a Islamabad. Teheran: \"Piena disponibilità, ma non ci fidiamo\" - Diretta",
+      "source_count": 8,
+      "article_count": 18,
       "source_domains": [
         "fanpage.it",
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "ansa.it",
         "lastampa.it",
+        "repubblica.it",
         "adnkronos.com",
         "news.google.com"
       ],
@@ -77,31 +78,6 @@
     },
     {
       "rank": 4,
-      "title": "Elezioni in Ungheria, come incideranno i risultati su Italia e Ue? Da Orban a Magyar, tutto sul voto",
-      "source_count": 10,
-      "article_count": 11,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmanifesto.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/ungheria-domani-la-sfida-orban-magyar-decine-di-migliaia-al-mega-evento-contro-il-primo-ministro_wXkSqEfmIdotjm8gadgBV",
-        "https://ilmanifesto.it/ungheria-eccoci-al-voto",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/11/in-ungheria-domani-81-milioni-di-elettori-al-voto-duello-tra-orban-e-magyar_de2b6dfc-ac24-4363-9c94-2762ade5fc3d.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/10/orban-allangolo-gioca-le-ultime-carte-e-grida-al-complotto-_57981e22-2768-41b6-af13-1c2611a6291c.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47229488/ungheria-al-voto-giovani-anti-orban-in-piazza-trump-lo-sostiene/"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Nicole Minetti graziata da Mattarella e Nordio. Quirinale: “Gravi condizioni di salute di un minore”",
       "source_count": 10,
       "article_count": 11,
@@ -123,6 +99,29 @@
         "https://www.adnkronos.com/politica/caso-ruby-nicole-minetti-graziata-presidente-mattarella_PfA3I1dMQHdH9eGr780KP",
         "https://www.repubblica.it/politica/2026/04/11/news/nicole_minetti_grazia_mattarella_nordio-425276778/",
         "https://www.fanpage.it/politica/nicole-minetti-graziata-da-mattarella-era-stata-condannata-3-anni-e-11-mesi-per-il-caso-ruby/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Ungheria al voto, giovani anti-Orban in piazza, Trump lo sostiene",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/ungheria-domani-la-sfida-orban-magyar-decine-di-migliaia-al-mega-evento-contro-il-primo-ministro_wXkSqEfmIdotjm8gadgBV",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/11/in-ungheria-domani-81-milioni-di-elettori-al-voto-duello-tra-orban-e-magyar_de2b6dfc-ac24-4363-9c94-2762ade5fc3d.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/10/orban-allangolo-gioca-le-ultime-carte-e-grida-al-complotto-_57981e22-2768-41b6-af13-1c2611a6291c.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47229488/ungheria-al-voto-giovani-anti-orban-in-piazza-trump-lo-sostiene/",
+        "https://www.ilmessaggero.it/mondo/elezioni_ungheria_orban_magyar_chi_vince_conseguenze_italia_ue_cosa_cambia-9468345.html"
       ]
     },
     {
@@ -194,27 +193,6 @@
     },
     {
       "rank": 9,
-      "title": "Usa-Iran, colloqui in salita. Trump: \"Apriremo Stretto di Hormuz con o senza Teheran\"",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
-        "laverita.info",
-        "repubblica.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/alta-tensione-su-hormuz-e-libano-ai-negoziati-lavviso-trump-2649879.html",
-        "https://www.laverita.info/trump-guerra-iran-hormuz-2676700185.html",
-        "https://www.repubblica.it/esteri/2026/04/11/diretta/guerra_iran_usa_israele_news_oggi-425276294/",
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-11-aprile-2026/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/iran-oggi-i-negoziati-i-nodi-hormuz-e-libano-cnn-cina-pronta-2649951.html"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Bologna, morto bimbo di un anno e mezzo caduto da una finestra: era in casa con la sorellina e dei parenti",
       "source_count": 6,
       "article_count": 8,
@@ -232,6 +210,27 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/11/morto-il-bambino-di-un-anno-e-mezzo-caduto-da-una-finestra-a-bologna_d1250b84-754b-451e-b1c6-176f80a7d029.html",
         "https://www.ilfattoquotidiano.it/2026/04/11/bambino-precipitato-finestra-bologna-morto-notizie/8352628/",
         "https://www.ilmessaggero.it/italia/bambino_morto_bologna_caduto_finestra-9468607.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Biennale, l’ultimatum della Ue: “Via i fondi se vengono i russi”",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/politica/2026/04/11/news/biennale_commissione_europea_pietrangelo_buttafuoco_tagli_fondi-425277701/",
+        "https://www.ilfattoquotidiano.it/2026/04/11/biennale-venezia-taglio-fondi-ue-padiglione-russo/8352671/",
+        "https://www.lastampa.it/cultura/2026/04/11/news/biennale_venezia_padiglione_russo_ue_taglio_fondi_polemica-15581270/",
+        "https://www.ilgiornale.it/news/interni/lue-taglia-i-fondi-biennale-insorgono-lega-e-m5s-2650147.html",
+        "https://www.ansa.it/sito/notizie/cultura/2026/04/11/la-commissione-ue-stop-ai-fondi-alla-biennale-se-ci-saranno-i-russi_c203e3f6-3c77-4fac-82f6-50c6705665c3.html"
       ]
     }
   ]
