@@ -1,0 +1,4 @@
+# Generated artifacts — exclude from GitHub language stats and collapse diffs
+*.html linguist-generated=true
+italy-today/artifacts/** linguist-generated=true
+asia-in-brief/artifacts/** linguist-generated=true
