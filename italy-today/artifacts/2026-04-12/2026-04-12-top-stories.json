@@ -1,38 +1,38 @@
 {
   "date": "2026-04-12",
-  "generated_at": "Sun 12 Apr 19:05",
+  "generated_at": "Sun 12 Apr 19:47",
   "stories": [
     {
       "rank": 1,
-      "title": "Sinner torna numero 1 del mondo, come cambia ranking dopo trionfo Montecarlo",
+      "title": "Sinner si prende tutto: batte Alcaraz, vince Monte Carlo e torna il numero 1 del tennis",
       "source_count": 11,
-      "article_count": 28,
+      "article_count": 31,
       "source_domains": [
-        "fanpage.it",
         "adnkronos.com",
+        "fanpage.it",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
         "ilmessaggero.it",
         "laverita.info",
         "ansa.it",
-        "liberoquotidiano.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/sinner-montecarlo-finale-alcaraz-tuffo-piscina-paura_3R6WUCMCul6b5Kh5PCytTN",
         "https://www.fanpage.it/sport/tennis/sinner-spiazzato-dalla-domanda-sullinno-italiano-a-monte-carlo-normalmente-si-canta-no/",
         "https://www.fanpage.it/sport/tennis/jannik-sinner-puo-perdere-il-numero-1-del-ranking-gia-tra-una-settimana-per-soli-10-punti/",
         "https://www.adnkronos.com/sport/sinner-montecarlo-domanda-inno-alcaraz-finale_1V6iwXyOItgND7NdpLdVj1",
-        "https://www.fanpage.it/sport/tennis/alcaraz-e-le-bellissime-parole-per-sinner-a-rete-cemento-erba-terra-rossa-la-prossima-volta/",
-        "https://www.ilgiornale.it/news/tennis/atp-montecarlo-quanto-ha-intascato-sinner-vittoria-2650421.html"
+        "https://www.liberoquotidiano.it/news/sport/47247490/jannik-sinner-cosa-spunta-spalti-mentre-ringrazia-tutti/"
       ]
     },
     {
       "rank": 2,
-      "title": "Elezioni in Ungheria, aperti i seggi: sfida Orban-Magyar",
+      "title": "Elezioni in Ungheria, seconda proiezione: Magyar consolida il vantaggio su Orban",
       "source_count": 10,
-      "article_count": 28,
+      "article_count": 29,
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
@@ -46,15 +46,39 @@
         "ilmanifesto.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/elezioni-in-ungheria-magyar-orban-si-e-congratulato-per-la-nostra-vittoria_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/12/elezioni-in-ungheria-seconda-proiezione-magyar-consolida-il-vantaggio-su-orban_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
         "https://www.ilmessaggero.it/mondo/nuovo_governo_ungheria_incognita_sulyok-9470489.html",
         "https://www.repubblica.it/esteri/2026/04/12/diretta/elezioni_ungheria_2026_orban_magyar_diretta-425278977/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/urne-chiuse-in-ungheria-affluenza-record-al-74-attesa-per-i-risultati_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
-        "https://www.ilmessaggero.it/mondo/peter_magyar_chi_e-9470444.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/urne-chiuse-in-ungheria-affluenza-record-al-74-attesa-per-i-risultati_7b061b3c-06ec-4e84-b116-5b331bbafa52.html"
       ]
     },
     {
       "rank": 3,
+      "title": "Massa, aggredito in piazza cade e sbatte la testa: 47enne muore davanti al figlio di 11 anni",
+      "source_count": 9,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "firenze.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/12/muore-a-massa-dopo-laggressione-del-branco-davanti-al-figlio-di-11-anni-fermati_4e491807-239b-4d01-bffc-f27a18a0a2d2.html",
+        "https://www.fanpage.it/attualita/giacomo-bongiorni-morto-a-massa-dopo-laggressione-davanti-al-figlio-fermati-3-ragazzi-uno-e-minorenne/",
+        "https://www.liberoquotidiano.it/news/italia/47240095/massa-aggredito-ammazzato-figlio-11enne/",
+        "https://www.ilgiornale.it/news/nazionale/aggredito-gruppo-persone-pap-muore-davanti-figlio-11enne-2650298.html",
+        "https://www.adnkronos.com/cronaca/aggressione-in-centro-a-massa-47enne-muore-sotto-gli-occhi-del-figlio-di-11-anni_3Ct3TPwwJMgOU1uvuywO35"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Medio Oriente: Falliti i negoziati Usa-Iran, Vance lascia il Pakistan: 'Non c'è accordo' -LIVEBLOG",
       "source_count": 8,
       "article_count": 13,
@@ -74,30 +98,6 @@
         "https://www.ilfattoquotidiano.it/2026/04/12/negoziato-usa-iran-fallito-perche-hormuz-uranio-news/8352993/",
         "https://www.laverita.info/usa-iran-negoziati-falliti-nucleare-2676703148.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/12/falliti-i-negoziati-usa-iran-vance-lascia-il-pakistan-non-ce-accordo_d6921415-edb9-4b0a-9bdf-87589954fcd3.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Massa, aggredito in piazza cade e sbatte la testa: 47enne muore davanti al figlio di 11 anni",
-      "source_count": 9,
-      "article_count": 11,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ansa.it",
-        "firenze.repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/italia/47240095/massa-aggredito-ammazzato-figlio-11enne/",
-        "https://www.ilgiornale.it/news/nazionale/aggredito-gruppo-persone-pap-muore-davanti-figlio-11enne-2650298.html",
-        "https://www.adnkronos.com/cronaca/aggressione-in-centro-a-massa-47enne-muore-sotto-gli-occhi-del-figlio-di-11-anni_3Ct3TPwwJMgOU1uvuywO35",
-        "https://www.adnkronos.com/cronaca/massa-aggressione-padre-morto-davanti-figlio_3Ct3TPwwJMgOU1uvuywO35",
-        "https://www.ilfattoquotidiano.it/2026/04/12/massa-aggressione-morto-davanti-al-figlio/8352980/"
       ]
     },
     {
@@ -145,46 +145,26 @@
     },
     {
       "rank": 7,
-      "title": "Hormuz, cos'è il blocco navale imposto da Trump? Lo sminamento, gli altri paesi coinvolti e il precedente del Venezuela",
+      "title": "Usa-Iran, negoziati fiume: Stretto di Hormuz è il nodo",
       "source_count": 5,
       "article_count": 8,
       "source_domains": [
         "ansa.it",
+        "adnkronos.com",
         "ilmessaggero.it",
         "ilgiornale.it",
-        "adnkronos.com",
         "fanpage.it"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/mondo/2026/04/12/medio-oriente-trump-annuncia-un-blocco-navale-a-hormuz.-i-pasdaran-minacciano-sara_d6921415-edb9-4b0a-9bdf-87589954fcd3.html",
-        "https://www.ilmessaggero.it/mondo/hormuz_blocco_navale_cosa_e_trump-9470317.html",
-        "https://www.ilmessaggero.it/mondo/hormuz_blocco_navale_trump_cosa_significa-9470317.html",
-        "https://www.ilgiornale.it/news/guerra/trump-ho-autorizzato-blocco-navale-immediato-contro-l-iran-2650389.html",
-        "https://www.adnkronos.com/internazionale/esteri/trump-iran-messaggio-guerra-stati-uniti_fNXiF2xfbeMBiE2SlHiFY"
+        "https://www.adnkronos.com/internazionale/esteri/trump-iran-messaggio-guerra-stati-uniti_fNXiF2xfbeMBiE2SlHiFY",
+        "https://www.ilmessaggero.it/mondo/hormuz_petroliere_cinesi_inversione_u_cosa_succede_ultime_notizie-9470159.html",
+        "https://www.ilmessaggero.it/mondo/guerra_usa_iran_cosa_succede_ora_escalation_mercati_blocco_navale_hormuz-9470087.html",
+        "https://www.ilgiornale.it/news/guerra/flottiglia-iraniana-controlla-ancora-stretto-hormuz-2650288.html"
       ]
     },
     {
       "rank": 8,
-      "title": "Chi controlla il mare, domina il mondo. Per questo Trump deve riprendersi Hormuz a tutti i costi",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "lastampa.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "laverita.info",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/esteri/2026/04/12/news/trump_hormuz_iran-15581954/",
-        "https://www.repubblica.it/esteri/2026/04/12/news/edward_fishman_controllando_hormuz_iran_piu_forte_non_ci_rinuncera-425278598/",
-        "https://www.ilgiornale.it/news/politica/tensione-sulle-navi-sminatrici-hormuz-c-chiave-i-6-miliardi-2650185.html",
-        "https://www.ilgiornale.it/news/guerra/flottiglia-iraniana-controlla-ancora-stretto-hormuz-2650288.html",
-        "https://www.laverita.info/hormuz-bloccato-america-al-comando-2676696358.html"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "L’impresa di Yeman Crippa, vince la maratona di Parigi",
       "source_count": 6,
       "article_count": 6,
@@ -205,7 +185,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "L’ad di Eni Descalzi: “Necessario sospendere il bando del 2027 sul gas russo”",
       "source_count": 6,
       "article_count": 6,
@@ -223,6 +203,26 @@
         "https://www.adnkronos.com/economia/gas-descalzi-necessario-sospendere-bando-russia-che-scattera-il-1-gennaio-2027_6mBtqiwPu4LtlsDZxrt8Oy",
         "https://www.ilgiornale.it/news/politica-economica/descalzi-eni-necessario-sospendere-bando-sul-gas-russo-2650428.html",
         "https://www.lastampa.it/economia/2026/04/12/news/descalzi_eni_gas_russo_lega-15582120/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Elettra Lamborghini in ospedale: prima il forfait a Canzonissima, poi la sorpresa",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/personaggi/mistero-ricovero-e-ritorno-scena-elettra-lamborghini-cosa-2650371.html",
+        "https://www.fanpage.it/spettacolo/programmi-tv/elettra-lamborghini-e-il-malore-prima-di-canzonissima-la-cistite-acuta-il-ricovero-e-le-parole-su-instagram/",
+        "https://www.liberoquotidiano.it/news/spettacoli/televisione/47238129/elettra-lamborghini-ricovero-urgenza-canzonissima/",
+        "https://www.ilfattoquotidiano.it/2026/04/12/elettra-lamborghini-non-sta-bene-lassenza-della-cantante-a-canzonissima-il-motivo-lo-spiega-lei-stessa-una-cistite-tra-le-piu-forti-mai-avute/8352971/",
+        "https://www.fanpage.it/spettacolo/programmi-tv/stavo-svenendo-ovunque-elettra-lamborghini-a-canzonissima-nonostante-i-problemi-di-salute/"
       ]
     }
   ]
