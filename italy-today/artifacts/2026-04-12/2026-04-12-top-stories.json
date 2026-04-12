@@ -1,34 +1,60 @@
 {
   "date": "2026-04-12",
-  "generated_at": "Sun 12 Apr 17:42",
+  "generated_at": "Sun 12 Apr 19:01",
   "stories": [
     {
       "rank": 1,
-      "title": "Sinner vince a Montecarlo e torna numero 1 al mondo. Battuto Alcaraz 7-6, 6-3",
-      "source_count": 10,
-      "article_count": 24,
+      "title": "Sinner torna numero 1 del mondo, come cambia ranking dopo trionfo Montecarlo",
+      "source_count": 11,
+      "article_count": 28,
       "source_domains": [
         "fanpage.it",
+        "adnkronos.com",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
         "ilmessaggero.it",
         "laverita.info",
         "ansa.it",
-        "adnkronos.com",
+        "liberoquotidiano.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.fanpage.it/sport/tennis/sinner-spiazzato-dalla-domanda-sullinno-italiano-a-monte-carlo-normalmente-si-canta-no/",
+        "https://www.fanpage.it/sport/tennis/jannik-sinner-puo-perdere-il-numero-1-del-ranking-gia-tra-una-settimana-per-soli-10-punti/",
+        "https://www.adnkronos.com/sport/sinner-montecarlo-domanda-inno-alcaraz-finale_1V6iwXyOItgND7NdpLdVj1",
         "https://www.fanpage.it/sport/tennis/alcaraz-e-le-bellissime-parole-per-sinner-a-rete-cemento-erba-terra-rossa-la-prossima-volta/",
-        "https://www.ilgiornale.it/news/tennis/atp-montecarlo-quanto-ha-intascato-sinner-vittoria-2650421.html",
-        "https://www.ilfattoquotidiano.it/2026/04/12/sinner-numero1-montecarlo-rolandgarros-news/8353205/",
-        "https://www.repubblica.it/sport/tennis/2026/04/12/news/sinner_vince_finale_montecarlo_numero_uno_classifica_atp-425278927/",
-        "https://www.repubblica.it/sport/tennis/2026/04/12/news/sinner_famiglia_laila_vince_finale_montecarlo_numero_uno-425278919/"
+        "https://www.ilgiornale.it/news/tennis/atp-montecarlo-quanto-ha-intascato-sinner-vittoria-2650421.html"
       ]
     },
     {
       "rank": 2,
+      "title": "Elezioni in Ungheria, aperti i seggi: sfida Orban-Magyar",
+      "source_count": 10,
+      "article_count": 28,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/elezioni-in-ungheria-seconda-proiezione-magyar-consolida-il-vantaggio-su-orban_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
+        "https://www.ilmessaggero.it/mondo/nuovo_governo_ungheria_incognita_sulyok-9470489.html",
+        "https://www.repubblica.it/esteri/2026/04/12/diretta/elezioni_ungheria_2026_orban_magyar_diretta-425278977/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/urne-chiuse-in-ungheria-affluenza-record-al-74-attesa-per-i-risultati_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
+        "https://www.ilmessaggero.it/mondo/peter_magyar_chi_e-9470444.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Medio Oriente: Falliti i negoziati Usa-Iran, Vance lascia il Pakistan: 'Non c'è accordo' -LIVEBLOG",
       "source_count": 8,
       "article_count": 13,
@@ -48,28 +74,6 @@
         "https://www.ilfattoquotidiano.it/2026/04/12/negoziato-usa-iran-fallito-perche-hormuz-uranio-news/8352993/",
         "https://www.laverita.info/usa-iran-negoziati-falliti-nucleare-2676703148.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/12/falliti-i-negoziati-usa-iran-vance-lascia-il-pakistan-non-ce-accordo_d6921415-edb9-4b0a-9bdf-87589954fcd3.html"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Elezioni Ungheria, affluenza record alle urne: alle 13 ha votato il 54,14%",
-      "source_count": 7,
-      "article_count": 13,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/04/12/diretta/elezioni_ungheria_2026_orban_magyar_diretta-425278977/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/urne-chiuse-in-ungheria-affluenza-record-al-74-attesa-per-i-risultati_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
-        "https://www.ilfattoquotidiano.it/2026/04/12/elezioni-ungheria-orban-magyar-budapest-oggi/8353195/",
-        "https://www.ilfattoquotidiano.it/2026/04/12/elezioni-ungheria-magyar-orban-affluenza-risultati-oggi/8353169/",
-        "https://www.adnkronos.com/internazionale/esteri/elezioni-ungheria-2026-risultati-oggi_1PlVXUDYLqM4xUJPRsKmAG"
       ]
     },
     {
@@ -98,26 +102,6 @@
     },
     {
       "rank": 5,
-      "title": "Elezioni in Ungheria, chi è Magyar: l'ex insider che può battere Orban",
-      "source_count": 5,
-      "article_count": 13,
-      "source_domains": [
-        "ilgiornale.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica-estera/ora-o-mai-pi-ecco-chi-demolitore-che-ha-lanciato-sfida-ad-2650363.html",
-        "https://www.ilgiornale.it/news/politica/ungheria-giorno-verit-orb-n-prova-ad-arginare-magyar-2650193.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/guerra-ucraina-i-migranti-i-salari-i-temi-che-dividono-i-due-2650291.html",
-        "https://www.lastampa.it/esteri/2026/04/12/news/peter_magyar_chi_e-15581819/",
-        "https://www.lastampa.it/esteri/2026/04/12/news/chi_e_viktor_orban_da_attivista_per_la_democrazia_a_leader_illiberale-15581794/"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Anziani morti in ambulanza, Luca Spada intercettato: “Soffrivano troppo. Mi è piaciuto, lo rifarò”",
       "source_count": 6,
       "article_count": 9,
@@ -135,6 +119,28 @@
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/anziani-morti-ambulanza-l-autista-intercettato-mi-piaciuto-2650350.html",
         "https://www.ilgiornale.it/news/politica/morti-ambulanza-arrestato-lautista-fiero-ci-che-sono-2650209.html",
         "https://www.ilmessaggero.it/persone/luca_spada_meldola_intercettazioni_anziani_uccisi-9470146.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Il Parma strappa un punto al Napoli e fa un favore all’Inter: a Conte non basta McTominay",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/sport/47245983/serie-a-mctominay-replica-a-strefezza-parma-napoli-1-1/",
+        "https://www.ilfattoquotidiano.it/2026/04/12/napoli-parma-risultato-serie-a-news/8353189/",
+        "https://www.repubblica.it/sport/calcio/serie-a/2026/04/12/news/parma_napoli_gol_mctominay-425278856/",
+        "https://www.ilgiornale.it/news/calcio/parma-strappa-punto-napoli-e-fa-favore-all-inter-conte-non-2650408.html",
+        "https://www.ilmessaggero.it/sport/schede/parma_napoli_pagelle_strefezza_mctominay_classifica_serie_a-9470342.html"
       ]
     },
     {
@@ -159,26 +165,6 @@
     },
     {
       "rank": 8,
-      "title": "L'Ue taglia i fondi alla Biennale, insorgono Lega e M5s",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/biennale-scontro-ue-nessuna-norma-violata-2650197.html",
-        "https://www.repubblica.it/politica/2026/04/12/news/padiglione_russo_biennale_imbarazzo_palazzo_chigi_incontro_meloni_zelensky-425277944/",
-        "https://ilmanifesto.it/biennale-sotto-assedio-tra-guerra-boicottaggi-e-fondi-europei-a-rischio",
-        "https://www.ansa.it/sito/notizie/cultura/2026/04/11/la-commissione-ue-stop-ai-fondi-alla-biennale-se-ci-saranno-i-russi_c203e3f6-3c77-4fac-82f6-50c6705665c3.html",
-        "https://www.repubblica.it/politica/2026/04/11/news/biennale_commissione_europea_pietrangelo_buttafuoco_tagli_fondi-425277701/"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Chi controlla il mare, domina il mondo. Per questo Trump deve riprendersi Hormuz a tutti i costi",
       "source_count": 5,
       "article_count": 7,
@@ -198,7 +184,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "L’impresa di Yeman Crippa, vince la maratona di Parigi",
       "source_count": 6,
       "article_count": 6,
@@ -216,6 +202,27 @@
         "https://www.adnkronos.com/sport/yeman-crippa-vince-maratona-parigi_4SuQh74wUdqszSSFNaZJ2y",
         "https://www.ansa.it/sito/notizie/sport/altrisport/2026/04/12/impresa-di-yeman-crippa-vince-la-maratona-di-parigi_95d4bf14-8f29-40f3-a1f1-dabbbd1ca9d9.html",
         "https://www.repubblica.it/sport/vari/2026/04/12/news/crippa_vince_maratona_parigi-425278423/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "L’ad di Eni Descalzi: “Necessario sospendere il bando del 2027 sul gas russo”",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/12/descalzi-gas-russo-ets-energia-notizie/8353228/",
+        "https://www.repubblica.it/economia/2026/04/12/news/gas_russia_descalzi_guerra_iran-425279060/",
+        "https://www.adnkronos.com/economia/gas-descalzi-necessario-sospendere-bando-russia-che-scattera-il-1-gennaio-2027_6mBtqiwPu4LtlsDZxrt8Oy",
+        "https://www.ilgiornale.it/news/politica-economica/descalzi-eni-necessario-sospendere-bando-sul-gas-russo-2650428.html",
+        "https://www.lastampa.it/economia/2026/04/12/news/descalzi_eni_gas_russo_lega-15582120/"
       ]
     }
   ]
