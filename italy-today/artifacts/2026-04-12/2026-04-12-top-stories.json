@@ -1,12 +1,12 @@
 {
   "date": "2026-04-12",
-  "generated_at": "Sun 12 Apr 20:45",
+  "generated_at": "Sun 12 Apr 21:43",
   "stories": [
     {
       "rank": 1,
       "title": "Sinner si prende tutto: batte Alcaraz, vince Monte Carlo e torna il numero 1 del tennis",
       "source_count": 11,
-      "article_count": 32,
+      "article_count": 31,
       "source_domains": [
         "fanpage.it",
         "adnkronos.com",
@@ -32,7 +32,7 @@
       "rank": 2,
       "title": "Elezioni in Ungheria, chi è Magyar: l'ex insider che può battere Orban",
       "source_count": 6,
-      "article_count": 18,
+      "article_count": 17,
       "source_domains": [
         "repubblica.it",
         "ilmessaggero.it",
@@ -51,28 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "È già affluenza record in Ungheria, Orban: 'Non è la mia ultima elezione'. Magyar: 'Vinceremo'",
-      "source_count": 7,
-      "article_count": 15,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/elezioni-in-ungheria-magyar-orban-si-e-congratulato-per-la-nostra-vittoria_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/elezioni-in-ungheria-seconda-proiezione-magyar-consolida-il-vantaggio-su-orban_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
-        "https://www.repubblica.it/esteri/2026/04/12/diretta/elezioni_ungheria_2026_orban_magyar_diretta-425278977/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/urne-chiuse-in-ungheria-affluenza-record-al-74-attesa-per-i-risultati_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
-        "https://www.ilfattoquotidiano.it/2026/04/12/elezioni-ungheria-orban-magyar-budapest-oggi/8353195/"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Massa, aggredito in piazza cade e sbatte la testa: 47enne muore davanti al figlio di 11 anni",
       "source_count": 9,
       "article_count": 13,
@@ -93,6 +71,28 @@
         "https://www.liberoquotidiano.it/news/italia/47240095/massa-aggredito-ammazzato-figlio-11enne/",
         "https://www.ilgiornale.it/news/nazionale/aggredito-gruppo-persone-pap-muore-davanti-figlio-11enne-2650298.html",
         "https://www.adnkronos.com/cronaca/aggressione-in-centro-a-massa-47enne-muore-sotto-gli-occhi-del-figlio-di-11-anni_3Ct3TPwwJMgOU1uvuywO35"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Elezioni Ungheria, affluenza record alle urne: alle 13 ha votato il 54,14%",
+      "source_count": 7,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/elezioni-in-ungheria-seconda-proiezione-magyar-consolida-il-vantaggio-su-orban_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
+        "https://www.repubblica.it/esteri/2026/04/12/diretta/elezioni_ungheria_2026_orban_magyar_diretta-425278977/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/urne-chiuse-in-ungheria-affluenza-record-al-74-attesa-per-i-risultati_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
+        "https://www.ilfattoquotidiano.it/2026/04/12/elezioni-ungheria-orban-magyar-budapest-oggi/8353195/",
+        "https://www.ilfattoquotidiano.it/2026/04/12/elezioni-ungheria-magyar-orban-affluenza-risultati-oggi/8353169/"
       ]
     },
     {
@@ -126,15 +126,15 @@
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
-        "ilgiornale.it",
         "adnkronos.com",
-        "lastampa.it"
+        "lastampa.it",
+        "ilgiornale.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/04/12/falliti-i-colloqui-a-islamabad-trump-annuncia-il-blocco-di-hormuz_474197eb-416e-4eee-b132-8f8064bc4e4a.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/12/medio-oriente-trump-annuncia-un-blocco-navale-a-hormuz.-i-pasdaran-minacciano-sara_d6921415-edb9-4b0a-9bdf-87589954fcd3.html",
         "https://www.ilmessaggero.it/mondo/hormuz_blocco_navale_cosa_e_trump-9470317.html",
         "https://www.ilmessaggero.it/mondo/hormuz_blocco_navale_trump_cosa_significa-9470317.html",
-        "https://www.ilgiornale.it/news/guerra/trump-ho-autorizzato-blocco-navale-immediato-contro-l-iran-2650389.html",
         "https://www.adnkronos.com/internazionale/esteri/trump-iran-messaggio-guerra-stati-uniti_fNXiF2xfbeMBiE2SlHiFY"
       ]
     },
@@ -161,6 +161,28 @@
     },
     {
       "rank": 8,
+      "title": "L’Inter ribalta il Como con Thuram e Dumfries, lo scudetto è sempre più vicino",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/04/12/il-napoli-frena-linter-passa-a-como-e-avvicina-il-titolo_ff1eaf87-26c7-43e0-b145-bb3e92dc20e3.html",
+        "https://www.ilgiornale.it/news/calcio/l-inter-va-sotto-poi-ribalta-4-3-como-e-mette-l-allungo-2650445.html",
+        "https://www.fanpage.it/sport/calcio/poker-inter-che-batte-il-como-in-rimonta-e-avvicina-lo-scudetto-chivu-ora-e-a-9-sul-napoli-secondo/",
+        "https://www.ilmessaggero.it/sport/schede/como_inter_pagelle_classifica_serie_a-9470605.html",
+        "https://www.lastampa.it/sport/2026/04/12/news/como_inter_gol_highlights-15582495/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Il Parma strappa un punto al Napoli e fa un favore all’Inter: a Conte non basta McTominay",
       "source_count": 7,
       "article_count": 7,
@@ -182,43 +204,24 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Ungheria, Schlein: “Con Orbán hanno perso Meloni e Salvini”",
+      "rank": 10,
+      "title": "Ungheria, vince il centrodestra di Magyar e la sinistra sale sul carro. Schlein: \"Tempo dei sovranisti è finito\"",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ilgiornale.it",
         "adnkronos.com",
         "ansa.it",
-        "ilgiornale.it",
         "repubblica.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica-estera/ungheria-meloni-si-congratula-magyar-continueremo-2650442.html",
         "https://www.adnkronos.com/internazionale/esteri/salis-orban-elezioni-ungheria_2ldx9upjhBALmGCRyvqhAe",
         "https://www.ansa.it/sito/notizie/politica/2026/04/12/la-sinistra-italiana-festeggia-il-tempo-dei-sovranisti-e-finito.-meloni-cauta-su-magyar_7a97f3d0-8200-4b7b-b9cc-83ee8adf537e.html",
         "https://www.ilgiornale.it/news/interni/ungheria-vince-centrodestra-magyar-e-sinistra-sale-sul-carro-2650439.html",
-        "https://www.repubblica.it/politica/2026/04/12/news/sconfitta_orban_reazioni_ungheria_schlein_meloni_salvini_destra-425279260/",
-        "https://www.ansa.it/sito/notizie/flash/2026/04/12/schlein-il-tempo-delle-destre-e-finito-con-orban-perdono-trump-e-meloni_3671785c-640a-4c00-8d37-177267104d90.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Serie A, Como-Inter 0-0 - Diretta",
-      "source_count": 4,
-      "article_count": 8,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/calcio/poker-inter-che-batte-il-como-in-rimonta-e-avvicina-lo-scudetto-chivu-ora-e-a-9-sul-napoli-secondo/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/12/serie-a-in-campo-como-inter-diretta_7bf8e0d2-c3b5-4070-b5e6-443b8ce21abc.html",
-        "https://www.adnkronos.com/sport/diretta-como-inter-oggi-serie-a-risultato-live_42qHUd6RXoGHZwiBU49YLt",
-        "https://www.adnkronos.com/sport/diretta-como-inter-3-4-oggi-serie-a-risultato-live_42qHUd6RXoGHZwiBU49YLt",
-        "https://www.fanpage.it/sport/live/como-inter-live-risultato-in-diretta-della-partita-di-serie-a-attese-le-formazioni-ufficiali-giocatori-in-campo-alle-ore-2045/"
+        "https://www.repubblica.it/politica/2026/04/12/news/sconfitta_orban_reazioni_ungheria_schlein_meloni_salvini_destra-425279260/"
       ]
     }
   ]
