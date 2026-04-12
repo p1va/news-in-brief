@@ -1,15 +1,15 @@
 {
   "date": "2026-04-12",
-  "generated_at": "Sun 12 Apr 19:47",
+  "generated_at": "Sun 12 Apr 20:45",
   "stories": [
     {
       "rank": 1,
       "title": "Sinner si prende tutto: batte Alcaraz, vince Monte Carlo e torna il numero 1 del tennis",
       "source_count": 11,
-      "article_count": 31,
+      "article_count": 32,
       "source_domains": [
-        "adnkronos.com",
         "fanpage.it",
+        "adnkronos.com",
         "liberoquotidiano.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
@@ -21,40 +21,58 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.fanpage.it/sport/tennis/alcaraz-registra-con-il-telefono-il-tuffo-di-sinner-e-rilancia-la-sfida-scene-esilaranti-a-monte-carlo/",
         "https://www.adnkronos.com/sport/sinner-montecarlo-finale-alcaraz-tuffo-piscina-paura_3R6WUCMCul6b5Kh5PCytTN",
         "https://www.fanpage.it/sport/tennis/sinner-spiazzato-dalla-domanda-sullinno-italiano-a-monte-carlo-normalmente-si-canta-no/",
         "https://www.fanpage.it/sport/tennis/jannik-sinner-puo-perdere-il-numero-1-del-ranking-gia-tra-una-settimana-per-soli-10-punti/",
-        "https://www.adnkronos.com/sport/sinner-montecarlo-domanda-inno-alcaraz-finale_1V6iwXyOItgND7NdpLdVj1",
-        "https://www.liberoquotidiano.it/news/sport/47247490/jannik-sinner-cosa-spunta-spalti-mentre-ringrazia-tutti/"
+        "https://www.adnkronos.com/sport/sinner-montecarlo-domanda-inno-alcaraz-finale_1V6iwXyOItgND7NdpLdVj1"
       ]
     },
     {
       "rank": 2,
-      "title": "Elezioni in Ungheria, seconda proiezione: Magyar consolida il vantaggio su Orban",
-      "source_count": 10,
-      "article_count": 29,
+      "title": "Elezioni in Ungheria, chi è Magyar: l'ex insider che può battere Orban",
+      "source_count": 6,
+      "article_count": 18,
       "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
         "repubblica.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
+        "ilmessaggero.it",
         "ilgiornale.it",
-        "fanpage.it",
-        "liberoquotidiano.it",
         "lastampa.it",
+        "adnkronos.com",
         "ilmanifesto.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/elezioni-in-ungheria-magyar-orban-si-e-congratulato-per-la-nostra-vittoria_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/elezioni-in-ungheria-seconda-proiezione-magyar-consolida-il-vantaggio-su-orban_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
+        "https://www.repubblica.it/politica/2026/04/12/news/peter_magyar_ritratto_vincitore_elezioni_ungheria-425279385/",
+        "https://www.ilmessaggero.it/mondo/magyar_vince_elezioni_ungheria_cosa_cambia_europa_trump_ucraina-9470586.html",
+        "https://www.ilmessaggero.it/mondo/orban_sconfitto_elezioni_ungheria_magyar_discepolo_cosa_e_successo-9470577.html",
         "https://www.ilmessaggero.it/mondo/nuovo_governo_ungheria_incognita_sulyok-9470489.html",
-        "https://www.repubblica.it/esteri/2026/04/12/diretta/elezioni_ungheria_2026_orban_magyar_diretta-425278977/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/urne-chiuse-in-ungheria-affluenza-record-al-74-attesa-per-i-risultati_7b061b3c-06ec-4e84-b116-5b331bbafa52.html"
+        "https://www.ilmessaggero.it/mondo/peter_magyar_chi_e-9470444.html"
       ]
     },
     {
       "rank": 3,
+      "title": "È già affluenza record in Ungheria, Orban: 'Non è la mia ultima elezione'. Magyar: 'Vinceremo'",
+      "source_count": 7,
+      "article_count": 15,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/elezioni-in-ungheria-magyar-orban-si-e-congratulato-per-la-nostra-vittoria_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/elezioni-in-ungheria-seconda-proiezione-magyar-consolida-il-vantaggio-su-orban_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
+        "https://www.repubblica.it/esteri/2026/04/12/diretta/elezioni_ungheria_2026_orban_magyar_diretta-425278977/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/urne-chiuse-in-ungheria-affluenza-record-al-74-attesa-per-i-risultati_7b061b3c-06ec-4e84-b116-5b331bbafa52.html",
+        "https://www.ilfattoquotidiano.it/2026/04/12/elezioni-ungheria-orban-magyar-budapest-oggi/8353195/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Massa, aggredito in piazza cade e sbatte la testa: 47enne muore davanti al figlio di 11 anni",
       "source_count": 9,
       "article_count": 13,
@@ -78,10 +96,10 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Medio Oriente: Falliti i negoziati Usa-Iran, Vance lascia il Pakistan: 'Non c'è accordo' -LIVEBLOG",
       "source_count": 8,
-      "article_count": 13,
+      "article_count": 12,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
@@ -101,7 +119,27 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "Usa-Iran, negoziati fiume: Stretto di Hormuz è il nodo",
+      "source_count": 5,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/medio-oriente-trump-annuncia-un-blocco-navale-a-hormuz.-i-pasdaran-minacciano-sara_d6921415-edb9-4b0a-9bdf-87589954fcd3.html",
+        "https://www.ilmessaggero.it/mondo/hormuz_blocco_navale_cosa_e_trump-9470317.html",
+        "https://www.ilmessaggero.it/mondo/hormuz_blocco_navale_trump_cosa_significa-9470317.html",
+        "https://www.ilgiornale.it/news/guerra/trump-ho-autorizzato-blocco-navale-immediato-contro-l-iran-2650389.html",
+        "https://www.adnkronos.com/internazionale/esteri/trump-iran-messaggio-guerra-stati-uniti_fNXiF2xfbeMBiE2SlHiFY"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Anziani morti in ambulanza, Luca Spada intercettato: “Soffrivano troppo. Mi è piaciuto, lo rifarò”",
       "source_count": 6,
       "article_count": 8,
@@ -122,7 +160,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Il Parma strappa un punto al Napoli e fa un favore all’Inter: a Conte non basta McTominay",
       "source_count": 7,
       "article_count": 7,
@@ -144,85 +182,43 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Usa-Iran, negoziati fiume: Stretto di Hormuz è il nodo",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/12/medio-oriente-trump-annuncia-un-blocco-navale-a-hormuz.-i-pasdaran-minacciano-sara_d6921415-edb9-4b0a-9bdf-87589954fcd3.html",
-        "https://www.adnkronos.com/internazionale/esteri/trump-iran-messaggio-guerra-stati-uniti_fNXiF2xfbeMBiE2SlHiFY",
-        "https://www.ilmessaggero.it/mondo/hormuz_petroliere_cinesi_inversione_u_cosa_succede_ultime_notizie-9470159.html",
-        "https://www.ilmessaggero.it/mondo/guerra_usa_iran_cosa_succede_ora_escalation_mercati_blocco_navale_hormuz-9470087.html",
-        "https://www.ilgiornale.it/news/guerra/flottiglia-iraniana-controlla-ancora-stretto-hormuz-2650288.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "L’impresa di Yeman Crippa, vince la maratona di Parigi",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/altri-sport/storica-impresa-yeman-crippa-primo-italiano-trionfare-2650368.html",
-        "https://www.ilfattoquotidiano.it/2026/04/12/impresa-pazzesca-yeman-crippa-vince-maratona-di-parigi-da-oggi-si-apre-nuova-carriera/8353061/",
-        "https://www.adnkronos.com/sport/yeman-crippa-vince-maratona-parigi_4SuQh74wUdqszSSFNaZJ2y",
-        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/04/12/impresa-di-yeman-crippa-vince-la-maratona-di-parigi_95d4bf14-8f29-40f3-a1f1-dabbbd1ca9d9.html",
-        "https://www.repubblica.it/sport/vari/2026/04/12/news/crippa_vince_maratona_parigi-425278423/"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "L’ad di Eni Descalzi: “Necessario sospendere il bando del 2027 sul gas russo”",
+      "title": "Ungheria, Schlein: “Con Orbán hanno perso Meloni e Salvini”",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "repubblica.it",
         "adnkronos.com",
+        "ansa.it",
         "ilgiornale.it",
+        "repubblica.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/12/descalzi-gas-russo-ets-energia-notizie/8353228/",
-        "https://www.repubblica.it/economia/2026/04/12/news/gas_russia_descalzi_guerra_iran-425279060/",
-        "https://www.adnkronos.com/economia/gas-descalzi-necessario-sospendere-bando-russia-che-scattera-il-1-gennaio-2027_6mBtqiwPu4LtlsDZxrt8Oy",
-        "https://www.ilgiornale.it/news/politica-economica/descalzi-eni-necessario-sospendere-bando-sul-gas-russo-2650428.html",
-        "https://www.lastampa.it/economia/2026/04/12/news/descalzi_eni_gas_russo_lega-15582120/"
+        "https://www.adnkronos.com/internazionale/esteri/salis-orban-elezioni-ungheria_2ldx9upjhBALmGCRyvqhAe",
+        "https://www.ansa.it/sito/notizie/politica/2026/04/12/la-sinistra-italiana-festeggia-il-tempo-dei-sovranisti-e-finito.-meloni-cauta-su-magyar_7a97f3d0-8200-4b7b-b9cc-83ee8adf537e.html",
+        "https://www.ilgiornale.it/news/interni/ungheria-vince-centrodestra-magyar-e-sinistra-sale-sul-carro-2650439.html",
+        "https://www.repubblica.it/politica/2026/04/12/news/sconfitta_orban_reazioni_ungheria_schlein_meloni_salvini_destra-425279260/",
+        "https://www.ansa.it/sito/notizie/flash/2026/04/12/schlein-il-tempo-delle-destre-e-finito-con-orban-perdono-trump-e-meloni_3671785c-640a-4c00-8d37-177267104d90.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Elettra Lamborghini in ospedale: prima il forfait a Canzonissima, poi la sorpresa",
-      "source_count": 5,
-      "article_count": 6,
+      "title": "Serie A, Como-Inter 0-0 - Diretta",
+      "source_count": 4,
+      "article_count": 8,
       "source_domains": [
-        "ilgiornale.it",
         "fanpage.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com"
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/personaggi/mistero-ricovero-e-ritorno-scena-elettra-lamborghini-cosa-2650371.html",
-        "https://www.fanpage.it/spettacolo/programmi-tv/elettra-lamborghini-e-il-malore-prima-di-canzonissima-la-cistite-acuta-il-ricovero-e-le-parole-su-instagram/",
-        "https://www.liberoquotidiano.it/news/spettacoli/televisione/47238129/elettra-lamborghini-ricovero-urgenza-canzonissima/",
-        "https://www.ilfattoquotidiano.it/2026/04/12/elettra-lamborghini-non-sta-bene-lassenza-della-cantante-a-canzonissima-il-motivo-lo-spiega-lei-stessa-una-cistite-tra-le-piu-forti-mai-avute/8352971/",
-        "https://www.fanpage.it/spettacolo/programmi-tv/stavo-svenendo-ovunque-elettra-lamborghini-a-canzonissima-nonostante-i-problemi-di-salute/"
+        "https://www.fanpage.it/sport/calcio/poker-inter-che-batte-il-como-in-rimonta-e-avvicina-lo-scudetto-chivu-ora-e-a-9-sul-napoli-secondo/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/12/serie-a-in-campo-como-inter-diretta_7bf8e0d2-c3b5-4070-b5e6-443b8ce21abc.html",
+        "https://www.adnkronos.com/sport/diretta-como-inter-oggi-serie-a-risultato-live_42qHUd6RXoGHZwiBU49YLt",
+        "https://www.adnkronos.com/sport/diretta-como-inter-3-4-oggi-serie-a-risultato-live_42qHUd6RXoGHZwiBU49YLt",
+        "https://www.fanpage.it/sport/live/como-inter-live-risultato-in-diretta-della-partita-di-serie-a-attese-le-formazioni-ufficiali-giocatori-in-campo-alle-ore-2045/"
       ]
     }
   ]
