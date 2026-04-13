@@ -1,67 +1,41 @@
 {
   "date": "2026-04-13",
-  "generated_at": "Mon 13 Apr 14:56",
+  "generated_at": "Mon 13 Apr 16:21",
   "stories": [
     {
       "rank": 1,
-      "title": "Sinner-Alcaraz, Jannik trionfa a Montecarlo e torna numero uno del mondo: come cambia il ranking Atp",
-      "source_count": 11,
-      "article_count": 30,
-      "source_domains": [
-        "adnkronos.com",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it",
-        "laverita.info",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/sinner-montecarlo-briatore-laila-hasanovic-alcaraz-finale_R3vPHS3usyQPzLDjMAthi",
-        "https://www.fanpage.it/sport/tennis/jannik-sinner-a-cena-da-flavio-briatore-la-festa-dopo-il-trionfo-a-monte-carlo-ti-voglio-bene/",
-        "https://www.ilfattoquotidiano.it/2026/04/13/sinner-alcaraz-montecarlo-vittoria-mentale-cambia-equilibri-panatta-ha-vinto-con-testa/8353668/",
-        "https://www.liberoquotidiano.it/news/sport/47256111/jannik-sinner-istante-spaccato-carlos-alcaraz/",
-        "https://www.liberoquotidiano.it/news/sport/47255947/adriano-panatta-testa-carlos-alcaraz/"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "\"Papa Leone non mi piace\", l'attacco totale di Trump",
-      "source_count": 10,
-      "article_count": 25,
+      "source_count": 11,
+      "article_count": 18,
       "source_domains": [
         "ilgiornale.it",
         "fanpage.it",
-        "ansa.it",
         "ilmessaggero.it",
+        "unita.it",
         "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
+        "ansa.it",
         "lastampa.it",
+        "repubblica.it",
         "adnkronos.com",
-        "unita.it"
+        "ilfattoquotidiano.it",
+        "news.google.com"
       ],
       "links": [
         "https://www.ilgiornale.it/news/cronaca-internazionale/trump-attacca-papa-leone-elogia-fratello-louis-maga-e-ha-2650789.html",
         "https://www.fanpage.it/esteri/lattacco-a-leone-xiv-puo-rivelarsi-un-boomerang-per-trump-rischia-di-costargli-consensi-tra-i-cattolici-usa/",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/13/la-politica-italiana-si-schiera-col-papa-salvini-attaccarlo-non-e-utile-ne-intelligente_a2e8b8ae-0061-4a7c-ad73-dcb6a55e281a.html",
         "https://www.ilmessaggero.it/nl/apericena/trump_papa_leone_elettori_cattolici_elezioni_midterm-9471958.html",
-        "https://www.ilgiornale.it/news/interni/meloni-salvini-politica-italiana-difende-pontefice-attacchi-2650714.html"
+        "https://www.unita.it/2026/04/13/trump-contro-papa-leone-iran-elezioni-pontefice/",
+        "https://www.fanpage.it/esteri/trump-si-raffigura-come-gesu-e-attacca-il-papa-si-dia-una-regolata-leone-xiv-non-ho-paura-di-lui/"
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "A Budapest finisce un'epoca: Orban sconfitto dopo 16 anni",
-      "source_count": 9,
-      "article_count": 23,
+      "source_count": 8,
+      "article_count": 21,
       "source_domains": [
         "ilgiornale.it",
         "fanpage.it",
-        "ansa.it",
         "unita.it",
         "liberoquotidiano.it",
         "lastampa.it",
@@ -72,9 +46,34 @@
       "links": [
         "https://www.ilgiornale.it/news/politica/magyar-chiude-lera-orb-n-maggioranza-assoluta-2650454.html",
         "https://www.ilgiornale.it/news/politica/resa-viktor-16-anni-servo-paese-2650456.html",
+        "https://www.ilgiornale.it/news/politica-estera/fortuna-era-dittatore-2650571.html",
         "https://www.fanpage.it/esteri/chi-e-peter-magyar-il-leader-del-partito-tisza-che-ha-sconfitto-orban-alle-elezioni-in-ungheria/",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/04/13/la-folla-esulta-per-magyar-ride-e-si-abbraccia-a-budapest_d4f60ad1-efa5-44b2-9ae7-37492d913c33.html",
         "https://www.unita.it/2026/04/13/ungheria-orban-magyar-elezioni-sovranismo-europeista-filorusso/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Malagò candidato della serie A alla Figc, ha il sì di 18 club su 20. In corsa anche Abete",
+      "source_count": 10,
+      "article_count": 17,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "unita.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/elezioni-figc-serie-a-giovanni-malago-onorato-stima-anche-abete-pronto-candidatura_7lsEoDYJjfGIewQYNN8d6c",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/13/la-serie-a-sceglie-malago-candidato-alla-presidenza-della-figc.-in-corsa-anche_ddc56261-7c4d-4c26-ae0c-7031574d21ed.html",
+        "https://www.repubblica.it/sport/calcio/2026/04/13/news/malago_abete_candidati_figc-425280952/",
+        "https://www.ilfattoquotidiano.it/2026/04/13/malago-contro-abete-trame-elezioni-figc-ruolo-marotta-gravina-mire-governo-scenari/8354376/",
+        "https://www.repubblica.it/sport/calcio/serie-a/2026/04/13/diretta/la_serie_a_candida_malago_alla_federcalcio-425280133/"
       ]
     },
     {
@@ -104,11 +103,11 @@
       "rank": 5,
       "title": "Niente accordo Usa-Iran, Trump ordina il blocco di Hormuz",
       "source_count": 8,
-      "article_count": 11,
+      "article_count": 13,
       "source_domains": [
-        "adnkronos.com",
         "ilmessaggero.it",
         "ilgiornale.it",
+        "adnkronos.com",
         "liberoquotidiano.it",
         "ansa.it",
         "repubblica.it",
@@ -116,62 +115,83 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.ilmessaggero.it/schede/blocco_hormuz_come_funziona_conseguenze_prezzi_petrolio_guerra-9472241.html",
+        "https://www.ilgiornale.it/news/guerra/intelligence-satellitare-e-intercettazione-delle-navi-2650803.html",
         "https://www.adnkronos.com/internazionale/esteri/iran-blocco-hormuz-come-funziona-gli-scenari_7jaq0NnV6808Z0xohNfj6f",
         "https://www.ilmessaggero.it/mondo/hormuz_blocco_navi_usa_dragamine_portaerei_cacciatorpediniere-9472081.html",
-        "https://www.ilgiornale.it/news/politica/si-scatena-furia-trump-bloccheremo-hormuz-e-anche-tutti-2650449.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47256373/cina-chiede-navigazione-libera-nello-stretto-di-hormuz/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/13/lo-stretto-di-hormuz-e-nuovamente-chiuso-traffico-marittimo-bloccato-live_6c42c30b-5d16-4cb8-88b8-c0fc348f3283.html"
+        "https://www.ilgiornale.it/news/politica/si-scatena-furia-trump-bloccheremo-hormuz-e-anche-tutti-2650449.html"
       ]
     },
     {
       "rank": 6,
-      "title": "Figc, Malagò è il candidato della Lega Serie A per la presidenza",
+      "title": "Opposizione: Meloni condanni Trump sul Papa. E anche Salvini critica: “Non intelligente attaccarlo”",
       "source_count": 9,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
-        "repubblica.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "unita.it",
+        "governo.it",
+        "ilmessaggero.it",
         "ansa.it",
-        "adnkronos.com",
-        "fanpage.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
         "lastampa.it",
-        "ilmessaggero.it"
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.repubblica.it/sport/calcio/serie-a/2026/04/13/diretta/la_serie_a_candida_malago_alla_federcalcio-425280133/",
-        "https://www.ilgiornale.it/news/calcio/corro-figc-abete-lancia-sfida-malag-cosa-succede-2650791.html",
-        "https://www.ilfattoquotidiano.it/2026/04/13/abete-sfida-malago-presidenza-figc-news/8354322/",
-        "https://www.unita.it/2026/04/13/federcalcio-malago-candidato-club-serie-a/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/13/18-club-a-favore-la-serie-a-sceglie-malago-candidato-a-presidenza-figc_ddc56261-7c4d-4c26-ae0c-7031574d21ed.html"
+        "https://www.governo.it/it/articolo/dichiarazione-del-presidente-del-consiglio-giorgia-meloni/31514",
+        "https://www.ilmessaggero.it/politica/meloni_contro_trump_papa_leone_cosa_ha_detto-9472293.html",
+        "https://www.ansa.it/sito/notizie/flash/2026/04/13/-meloni-inaccettabili-le-parole-di-trump-nei-confronti-del-papa-_6741d59d-dd7b-4068-bb8a-643ee12808ab.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/04/13/la-politica-italiana-si-schiera-col-papa-salvini-attaccarlo-non-e-utile-ne-intelligente_a2e8b8ae-0061-4a7c-ad73-dcb6a55e281a.html",
+        "https://www.ilgiornale.it/news/interni/meloni-salvini-politica-italiana-difende-pontefice-attacchi-2650714.html"
       ]
     },
     {
       "rank": 7,
       "title": "Giacomo Bongiorni, ucciso dal branco di ragazzi davanti al figlio. La compagna: “Dovevamo sposarci”",
       "source_count": 8,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "ilgiornale.it",
         "ansa.it",
         "fanpage.it",
         "adnkronos.com",
         "unita.it",
-        "ilgiornale.it",
         "ilmessaggero.it",
         "lastampa.it",
         "firenze.repubblica.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/nazionale/lindagine-sulla-morte-giacomo-bongiorni-non-stato-colpo-solo-2650809.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/13/morto-davanti-al-figlio-il-pm-cinque-identificati-tre-sono-minori_58edc570-df8d-4d3f-8c6c-07de14b0a271.html",
         "https://www.fanpage.it/attualita/omicidio-di-giacomo-bongiorni-a-massa-salgono-a-5-gli-indagati-il-pm-non-e-morto-per-un-solo-colpo/",
         "https://www.adnkronos.com/cronaca/omicidio-massa-giacomo-bongiorni-aggressori_7989iQODLbxSIFFm8GJwji",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/13/muore-davanti-al-figlio-domani-la-fiaccolata-per-giacomo-bongiorni_58edc570-df8d-4d3f-8c6c-07de14b0a271.html",
-        "https://www.unita.it/2026/04/13/ucciso-compagna-figlio-fermati-giovani-morte-giacomo-bongiorni-minorenne/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/13/muore-davanti-al-figlio-domani-la-fiaccolata-per-giacomo-bongiorni_58edc570-df8d-4d3f-8c6c-07de14b0a271.html"
       ]
     },
     {
       "rank": 8,
+      "title": "Sinner, numero 1 già a rischio? Così Alcaraz può sorpassarlo nel ranking",
+      "source_count": 6,
+      "article_count": 13,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/sinner-montecarlo-briatore-laila-hasanovic-alcaraz-finale_R3vPHS3usyQPzLDjMAthi",
+        "https://www.adnkronos.com/sport/sinner-numero-1-ranking-atp-alcaraz-sorpasso_4eSAg9UHUYhlY1fZXpLIdm",
+        "https://www.ilmessaggero.it/sport/tennis/jannik_sinner_alcaraz_montecarlo_vagnozzi-9471799.html",
+        "https://www.ilgiornale.it/news/tennis/cos-sinner-ha-cambiato-pelle-sulla-terra-rossa-quando-2650656.html",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/13/classifica-atp-sinner-n.1-110-punti-di-vantaggio-su-alcaraz_28ae6166-f865-4de2-8550-1ed9f76813b1.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Lutto nella politica milanese, morto l'ambientalista Carlo Monguzzi",
       "source_count": 7,
       "article_count": 7,
@@ -193,7 +213,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Albero cade per il vento, muore una dodicenne in Puglia",
       "source_count": 7,
       "article_count": 7,
@@ -212,27 +232,6 @@
         "https://www.ilfattoquotidiano.it/2026/04/13/bisceglie-albero-vento-alicia-amoruso-morta-news/8354253/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/13/albero-cade-per-il-vento-muore-una-dodicenne-in-puglia_d9c76247-6294-4189-93d4-e6a21d428dcd.html",
         "https://www.ilgiornale.it/news/nazionale/cade-albero-forte-vento-muore-schiacciata-ragazzina-12-anni-2650779.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Lo Stretto, il nucleare, i missili: salta il negoziato tra Usa e Iran",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "laverita.info",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "unita.it",
-        "fanpage.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.laverita.info/pakistan-mediazione-usa-iran-trump-2676703319.html",
-        "https://www.ilgiornale.it/news/politica/met-notte-vance-risale-sullaereo-niente-accordo-pakistan-2650447.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47256171/trattativa-usa-iran-vance-nessun-accordo-dopo-21-ore-di-colloqui/",
-        "https://www.unita.it/2026/04/13/perche-sono-falliti-negoziati-stati-uniti-iran-hormuz-blocco-navale/",
-        "https://www.fanpage.it/esteri/cosa-succede-dopo-il-fallimento-dei-primi-colloqui-tra-usa-e-iran-a-islamabad-scenari-e-conseguenze/"
       ]
     }
   ]
