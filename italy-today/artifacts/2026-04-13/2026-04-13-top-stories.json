@@ -1,6 +1,6 @@
 {
   "date": "2026-04-13",
-  "generated_at": "Mon 13 Apr 19:27",
+  "generated_at": "Mon 13 Apr 20:11",
   "stories": [
     {
       "rank": 1,
@@ -32,7 +32,7 @@
       "rank": 2,
       "title": "A Budapest finisce un'epoca: Orban sconfitto dopo 16 anni",
       "source_count": 7,
-      "article_count": 23,
+      "article_count": 22,
       "source_domains": [
         "fanpage.it",
         "ilgiornale.it",
@@ -78,7 +78,7 @@
       "rank": 4,
       "title": "Niente accordo Usa-Iran, Trump ordina il blocco di Hormuz",
       "source_count": 8,
-      "article_count": 18,
+      "article_count": 17,
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
@@ -215,22 +215,25 @@
     },
     {
       "rank": 10,
-      "title": "Tajani a Beirut: A Israele chiediamo stop attacchi a civili e a militari Unifil",
-      "source_count": 5,
-      "article_count": 11,
+      "title": "Il ricordo del «verde» Monguzzi, per tutti un lottatore",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
-        "lastampa.it",
+        "laverita.info",
+        "unita.it",
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ansa.it"
+        "ansa.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.lastampa.it/esteri/2026/04/13/news/tajani_condanna_i_raid_in_libano_inaccettabili_israele_convoca_l_ambasciatore_italiano-15583804/",
-        "https://www.ilgiornale.it/news/politica-internazionale/attacchi-libano-israele-convoca-l-ambasciatore-italiano-2650832.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47265619/starmer-cessare-immeditamente-i-bombardamenti-in-libano/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47261814/tajani-a-beirut-a-israele-chiediamo-stop-attacchi-a-civili-e-a-militari-unifil/",
-        "https://www.liberoquotidiano.it/news/pillole/47257658/tajani_in_libano_qui_per_facilitare_il_dialogo_con_israele_/"
+        "https://www.laverita.info/addio-carlo-monguzzi-2676707732.html",
+        "https://www.unita.it/2026/04/13/morto-carlo-monguzzi-ambientalista-milano-differenziata-san-siro-palestina/",
+        "https://www.ilfattoquotidiano.it/2026/04/13/carlo-monguzzi-morto-ambientalista-milano-news/8353516/",
+        "https://www.ilgiornale.it/news/interni/morto-carlo-monguzzi-storico-esponente-ambientalista-2650659.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/04/13/lutto-nella-politica-milanese-morto-lambientalista-carlo-monguzzi_cc0019a0-3ad4-4268-91d8-c1881f61bde4.html"
       ]
     }
   ]
