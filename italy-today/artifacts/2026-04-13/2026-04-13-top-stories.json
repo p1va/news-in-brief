@@ -1,42 +1,19 @@
 {
   "date": "2026-04-13",
-  "generated_at": "Mon 13 Apr 18:10",
+  "generated_at": "Mon 13 Apr 19:27",
   "stories": [
     {
       "rank": 1,
-      "title": "A Budapest finisce un'epoca: Orban sconfitto dopo 16 anni",
-      "source_count": 8,
-      "article_count": 25,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "unita.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.fanpage.it/evening-review/lesperimento-ungherese-e-finito-il-modello-orban-ha-perso-nessuno-sa-che-europa-ci-sara-domani/",
-        "https://www.ilgiornale.it/news/politica/magyar-chiude-lera-orb-n-maggioranza-assoluta-2650454.html",
-        "https://www.ilgiornale.it/news/politica/resa-viktor-16-anni-servo-paese-2650456.html",
-        "https://www.ilgiornale.it/news/politica-estera/fortuna-era-dittatore-2650571.html",
-        "https://www.fanpage.it/esteri/chi-e-peter-magyar-il-leader-del-partito-tisza-che-ha-sconfitto-orban-alle-elezioni-in-ungheria/"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "\"Papa Leone non mi piace\", l'attacco totale di Trump",
       "source_count": 11,
-      "article_count": 20,
+      "article_count": 21,
       "source_domains": [
+        "ansa.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
         "fanpage.it",
         "unita.it",
-        "ansa.it",
         "lastampa.it",
         "repubblica.it",
         "adnkronos.com",
@@ -44,11 +21,33 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/13/trump-attacca-il-papa-debole-e-pessimo-sulla-politica-estera.-leone-risponde_8e91ffa4-c131-4e83-a9a8-f95a84cf16a5.html",
         "https://www.ilmessaggero.it/mondo/trump_papa_leone_cosa_e_successo-9472423.html",
         "https://www.liberoquotidiano.it/news/tv-news/47266000/trump-non-mi-scuso-con-il-papa-/",
         "https://www.ilgiornale.it/news/cronaca-internazionale/trump-attacca-papa-leone-elogia-fratello-louis-maga-e-ha-2650789.html",
-        "https://www.fanpage.it/esteri/lattacco-a-leone-xiv-puo-rivelarsi-un-boomerang-per-trump-rischia-di-costargli-consensi-tra-i-cattolici-usa/",
-        "https://www.ilmessaggero.it/nl/apericena/trump_papa_leone_elettori_cattolici_elezioni_midterm-9471958.html"
+        "https://www.fanpage.it/esteri/lattacco-a-leone-xiv-puo-rivelarsi-un-boomerang-per-trump-rischia-di-costargli-consensi-tra-i-cattolici-usa/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "A Budapest finisce un'epoca: Orban sconfitto dopo 16 anni",
+      "source_count": 7,
+      "article_count": 23,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "unita.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/evening-review/lesperimento-ungherese-e-finito-il-modello-orban-ha-perso-nessuno-sa-che-europa-ci-sara-domani/",
+        "https://www.ilgiornale.it/news/politica/magyar-chiude-lera-orb-n-maggioranza-assoluta-2650454.html",
+        "https://www.ilgiornale.it/news/politica/resa-viktor-16-anni-servo-paese-2650456.html",
+        "https://www.ilgiornale.it/news/politica-estera/fortuna-era-dittatore-2650571.html",
+        "https://www.fanpage.it/esteri/chi-e-peter-magyar-il-leader-del-partito-tisza-che-ha-sconfitto-orban-alle-elezioni-in-ungheria/"
       ]
     },
     {
@@ -79,7 +78,7 @@
       "rank": 4,
       "title": "Niente accordo Usa-Iran, Trump ordina il blocco di Hormuz",
       "source_count": 8,
-      "article_count": 16,
+      "article_count": 18,
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
@@ -91,38 +90,62 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/13/trump-blocca-i-porti-iraniani-elimineremo-chi-si-avvicina_386c6bd6-1af3-4c19-a79d-4c95cdb8d340.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/13/scatta-il-blocco-di-hormuz.-trump-le-navi-che-lo-violano-saranno-eliminate.-starmer_6c42c30b-5d16-4cb8-88b8-c0fc348f3283.html",
         "https://www.ilmessaggero.it/schede/blocco_hormuz_come_funziona_conseguenze_prezzi_petrolio_guerra-9472241.html",
         "https://www.ilgiornale.it/news/guerra/intelligence-satellitare-e-intercettazione-delle-navi-2650803.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/13/lo-stretto-di-hormuz-e-nuovamente-chiuso.-trump-il-blocco-dei-porti-da-oggi-alle_6c42c30b-5d16-4cb8-88b8-c0fc348f3283.html",
-        "https://www.adnkronos.com/internazionale/esteri/iran-blocco-hormuz-come-funziona-gli-scenari_7jaq0NnV6808Z0xohNfj6f"
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/13/lo-stretto-di-hormuz-e-nuovamente-chiuso.-trump-il-blocco-dei-porti-da-oggi-alle_6c42c30b-5d16-4cb8-88b8-c0fc348f3283.html"
       ]
     },
     {
       "rank": 5,
-      "title": "Morti in ambulanza a Forlì, Spada indagato per 6 omicidi: “Iniettava aria in vena, meno di un minuto per uccidere”",
+      "title": "Autista di ambulanze, la procura contesta sei omicidi. “Accertamenti su altri casi”",
       "source_count": 8,
-      "article_count": 14,
+      "article_count": 15,
       "source_domains": [
+        "ansa.it",
         "adnkronos.com",
         "fanpage.it",
         "unita.it",
         "ilgiornale.it",
-        "ansa.it",
         "bologna.repubblica.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/13/sei-gli-omicidi-contestati-al-presunto-killer-dellambulanza-mercoledi-linterrogatorio_1fc13d9a-7805-4b14-bb91-0bb8d0b05688.html",
         "https://www.adnkronos.com/cronaca/morti-sospette-anziani-ambulanza-forli-luca-spada-omicidi_5z3ZXajWoaLEAsdj5xil57",
         "https://www.fanpage.it/attualita/morti-in-ambulanza-a-forli-spada-indagato-per-6-omicidi-iniettava-aria-in-vena-meno-di-un-minuto-per-uccidere/",
         "https://www.unita.it/2026/04/13/morti-sospette-ambulanza-omicidi-luca-spada-sospetti-autista-arrestato-imprese-funebri/",
-        "https://www.ilgiornale.it/news/nazionale/luca-spada-intercettazioni-choc-compagna-oggi-hai-fatto-due-2650698.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/13/sei-gli-omicidi-di-anziani-contestati-allautista-di-ambulanze_1fc13d9a-7805-4b14-bb91-0bb8d0b05688.html"
+        "https://www.ilgiornale.it/news/nazionale/luca-spada-intercettazioni-choc-compagna-oggi-hai-fatto-due-2650698.html"
       ]
     },
     {
       "rank": 6,
+      "title": "Opposizione: Meloni condanni Trump sul Papa. E anche Salvini critica: “Non intelligente attaccarlo”",
+      "source_count": 9,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "governo.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/04/13/meloni-prima-tiepida-poi-laffondo-contro-trump-sul-papa_a2e8b8ae-0061-4a7c-ad73-dcb6a55e281a.html",
+        "https://www.ilfattoquotidiano.it/2026/04/13/trump-papa-leone-schlein-inaccettabile-notizie/8354585/",
+        "https://www.governo.it/it/articolo/dichiarazione-del-presidente-del-consiglio-giorgia-meloni/31514",
+        "https://www.ilmessaggero.it/politica/meloni_contro_trump_papa_leone_cosa_ha_detto-9472293.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47264950/parole-trump-sul-papa-conte-pagina-triste-mala-tempora-currunt/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Sinner, numero 1 già a rischio? Così Alcaraz può sorpassarlo nel ranking",
       "source_count": 8,
       "article_count": 14,
@@ -145,37 +168,13 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Opposizione: Meloni condanni Trump sul Papa. E anche Salvini critica: “Non intelligente attaccarlo”",
-      "source_count": 9,
-      "article_count": 13,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "governo.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/13/trump-papa-leone-schlein-inaccettabile-notizie/8354585/",
-        "https://www.governo.it/it/articolo/dichiarazione-del-presidente-del-consiglio-giorgia-meloni/31514",
-        "https://www.ilmessaggero.it/politica/meloni_contro_trump_papa_leone_cosa_ha_detto-9472293.html",
-        "https://www.ansa.it/sito/notizie/flash/2026/04/13/-meloni-inaccettabili-le-parole-di-trump-nei-confronti-del-papa-_6741d59d-dd7b-4068-bb8a-643ee12808ab.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47264946/schlein-trump-inaccettabile-su-papa-leone-mi-aspetto-che-tutti-condannino/"
-      ]
-    },
-    {
       "rank": 8,
       "title": "Giacomo Bongiorni, ucciso dal branco di ragazzi davanti al figlio. La compagna: “Dovevamo sposarci”",
       "source_count": 8,
-      "article_count": 12,
+      "article_count": 11,
       "source_domains": [
-        "ansa.it",
         "ilgiornale.it",
+        "ansa.it",
         "fanpage.it",
         "adnkronos.com",
         "unita.it",
@@ -184,18 +183,18 @@
         "firenze.repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/13/ucciso-davanti-al-figlio-tre-minori-indagati-per-omicidio-_58edc570-df8d-4d3f-8c6c-07de14b0a271.html",
         "https://www.ilgiornale.it/news/nazionale/lindagine-sulla-morte-giacomo-bongiorni-non-stato-colpo-solo-2650809.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/13/morto-davanti-al-figlio-il-pm-cinque-identificati-tre-sono-minori_58edc570-df8d-4d3f-8c6c-07de14b0a271.html",
         "https://www.fanpage.it/attualita/omicidio-di-giacomo-bongiorni-a-massa-salgono-a-5-gli-indagati-il-pm-non-e-morto-per-un-solo-colpo/",
-        "https://www.adnkronos.com/cronaca/omicidio-massa-giacomo-bongiorni-aggressori_7989iQODLbxSIFFm8GJwji"
+        "https://www.adnkronos.com/cronaca/omicidio-massa-giacomo-bongiorni-aggressori_7989iQODLbxSIFFm8GJwji",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/13/muore-davanti-al-figlio-domani-la-fiaccolata-per-giacomo-bongiorni_58edc570-df8d-4d3f-8c6c-07de14b0a271.html"
       ]
     },
     {
       "rank": 9,
       "title": "Albero cade per il vento, muore una dodicenne in Puglia",
-      "source_count": 7,
-      "article_count": 8,
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ansa.it",
         "fanpage.it",
@@ -203,7 +202,8 @@
         "ilfattoquotidiano.it",
         "ilgiornale.it",
         "bari.repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/13/due-morti-in-puglia-per-il-vento-vittime-una-12enne-e-un-operaio_d9c76247-6294-4189-93d4-e6a21d428dcd.html",
@@ -215,24 +215,22 @@
     },
     {
       "rank": 10,
-      "title": "Lutto nella politica milanese, morto l'ambientalista Carlo Monguzzi",
-      "source_count": 7,
-      "article_count": 7,
+      "title": "Tajani a Beirut: A Israele chiediamo stop attacchi a civili e a militari Unifil",
+      "source_count": 5,
+      "article_count": 11,
       "source_domains": [
-        "unita.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "fanpage.it",
         "lastampa.it",
-        "ilsole24ore.com"
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.unita.it/2026/04/13/morto-carlo-monguzzi-ambientalista-milano-differenziata-san-siro-palestina/",
-        "https://www.ilfattoquotidiano.it/2026/04/13/carlo-monguzzi-morto-ambientalista-milano-news/8353516/",
-        "https://www.ilgiornale.it/news/interni/morto-carlo-monguzzi-storico-esponente-ambientalista-2650659.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/13/lutto-nella-politica-milanese-morto-lambientalista-carlo-monguzzi_cc0019a0-3ad4-4268-91d8-c1881f61bde4.html",
-        "https://www.fanpage.it/milano/e-morto-carlo-monguzzi-il-consigliere-che-difendeva-lambiente-e-combatteva-contro-labbattimento-di-san-siro/"
+        "https://www.lastampa.it/esteri/2026/04/13/news/tajani_condanna_i_raid_in_libano_inaccettabili_israele_convoca_l_ambasciatore_italiano-15583804/",
+        "https://www.ilgiornale.it/news/politica-internazionale/attacchi-libano-israele-convoca-l-ambasciatore-italiano-2650832.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47265619/starmer-cessare-immeditamente-i-bombardamenti-in-libano/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47261814/tajani-a-beirut-a-israele-chiediamo-stop-attacchi-a-civili-e-a-militari-unifil/",
+        "https://www.liberoquotidiano.it/news/pillole/47257658/tajani_in_libano_qui_per_facilitare_il_dialogo_con_israele_/"
       ]
     }
   ]
