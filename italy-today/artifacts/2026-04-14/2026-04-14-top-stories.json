@@ -1,17 +1,17 @@
 {
   "date": "2026-04-14",
-  "generated_at": "Tue 14 Apr 19:39",
+  "generated_at": "Tue 14 Apr 21:04",
   "stories": [
     {
       "rank": 1,
       "title": "Trump al Corriere: \"Scioccato da Meloni. Pensavo avesse coraggio, mi sbagliavo\"",
       "source_count": 11,
-      "article_count": 33,
+      "article_count": 31,
       "source_domains": [
+        "ilgiornale.it",
         "ansa.it",
         "adnkronos.com",
         "liberoquotidiano.it",
-        "ilgiornale.it",
         "ilmessaggero.it",
         "repubblica.it",
         "unita.it",
@@ -21,11 +21,11 @@
         "ilmanifesto.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/quindi-oggi/gran-botta-c-occhio-non-esagerare-meloni-e-trump-quindi-oggi-2651365.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/14/trump-attacca-meloni-sono-scioccato-su-di-lei-mi-sbagliavo_e88cff7a-47c0-49c7-a0c3-636e26a50bdc.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/14/trump-scioccato-da-meloni-pensavo-avesse-coraggio-su-di-lei-mi-sbagliavo_e88cff7a-47c0-49c7-a0c3-636e26a50bdc.html",
         "https://www.adnkronos.com/internazionale/esteri/trump-contro-meloni-messaggio-iran_5x7A84B0u8HgpeK0tTHqkf",
-        "https://www.ansa.it/sito/videogallery/italia/2026/04/14/meloni-non-so-quanti-leader-hanno-parlato-come-me-su-trump_b88d4fd7-9e57-4352-8c26-d31e69cdd9f0.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47279658/schlein-condanna-attacco-di-trump-a-meloni-non-accettiamo-minacce-/"
+        "https://www.ansa.it/sito/videogallery/italia/2026/04/14/meloni-non-so-quanti-leader-hanno-parlato-come-me-su-trump_b88d4fd7-9e57-4352-8c26-d31e69cdd9f0.html"
       ]
     },
     {
@@ -55,9 +55,32 @@
     },
     {
       "rank": 3,
+      "title": "Il 17enne fermato per l'omicidio di Giacomo Bongiorni è un campione di boxe. Il genitore di uno dei romeni: \"Sono stati aggrediti\"",
+      "source_count": 8,
+      "article_count": 14,
+      "source_domains": [
+        "adnkronos.com",
+        "fanpage.it",
+        "unita.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "firenze.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/massa-omicidio-bongiorni-giovane-pugile_63IvHoGP4iC6IkWo2AwZik",
+        "https://www.fanpage.it/attualita/giacomo-bongiorni-ucciso-a-botte-a-massa-il-terzo-ragazzo-fermato-e-un-17enne-campione-di-boxe/",
+        "https://www.unita.it/2026/04/14/ucciso-figlio-pugile-fermato-colpiti-reagito/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/14/il-17enne-arrestato-per-lomicidio-di-giacomo-bongiorni-lui-mi-aveva-colpito_f48cd48b-75f2-44a4-816e-c7d7ff458f96.html",
+        "https://www.ilgiornale.it/news/politica/ucciso-branco-5-indagati-3-minori-hanno-infierito-mentre-era-2650931.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Trump e la religione per giustificare la guerra: l'azzardo (a perdere) del tycoon",
       "source_count": 7,
-      "article_count": 15,
+      "article_count": 14,
       "source_domains": [
         "unita.it",
         "ilgiornale.it",
@@ -73,31 +96,6 @@
         "https://www.ilgiornale.it/news/politica/nuovo-medioevo-social-potere-temporale-2650919.html",
         "https://www.ilgiornale.it/news/politica/pessimo-e-debole-papa-grazie-me-trump-e-linsulto-choc-che-2650915.html",
         "https://www.laverita.info/scintille-usa-vaticano-trump-insulta-il-papa-e-debole-e-pessimo-e-poi-diventa-gesu-2676707992.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Omicidio Massa, il 17enne arrestato è un pugile: \"Bongiorni mi ha dato testata al volto, ho reagito\"",
-      "source_count": 10,
-      "article_count": 10,
-      "source_domains": [
-        "adnkronos.com",
-        "fanpage.it",
-        "unita.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "firenze.repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/massa-omicidio-bongiorni-giovane-pugile_63IvHoGP4iC6IkWo2AwZik",
-        "https://www.fanpage.it/attualita/giacomo-bongiorni-ucciso-a-botte-a-massa-il-terzo-ragazzo-fermato-e-un-17enne-campione-di-boxe/",
-        "https://www.unita.it/2026/04/14/ucciso-figlio-pugile-fermato-colpiti-reagito/",
-        "https://www.liberoquotidiano.it/news/italia/47273234/giacomo-bongiorni-17enne-massacrato-pugni-campione-boxe-cosa-emerge/",
-        "https://www.ilgiornale.it/news/cronaca-nera/massa-sferrare-pugno-fatale-bongiorni-17enne-promessa-boxe-2651141.html"
       ]
     },
     {
@@ -126,28 +124,6 @@
     },
     {
       "rank": 6,
-      "title": "Guerra in Iran, le news di oggi in diretta -Pechino: “Irresponsabile il blocco navale Usa a Hormuz”",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/14/islamabad-propone-di-ospitare-un-secondo-round-di-negoziati-liveblog_bc7acada-c11c-4b50-9085-e00ef236a48e.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/04/14/una-petroliera-cinese-attraversa-lo-stretto-di-hormuz-dopo-il-blocco-usa_d08b37d5-55c8-46bc-96c6-e092993869f9.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/14/nyt-trump-boccia-la-proposta-delliran-sullo-stop-di-5-anni-ad-arricchimento-uranio_bc7acada-c11c-4b50-9085-e00ef236a48e.html",
-        "https://www.repubblica.it/esteri/2026/04/14/diretta/guerra_iran_usa_israele_news_oggi-425281589/",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-israele-ultime-notizie-oggi-14-aprile_SfxUsPcIFT1bDBsIMKPBi"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Guasto sulla linea dell'Alta Velocità Napoli-Roma, per i treni ritardi fino a 180 minuti",
       "source_count": 7,
       "article_count": 9,
@@ -169,29 +145,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Il 17enne arrestato per l'omicidio di Giacomo Bongiorni: 'Lui mi aveva colpito'",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "firenze.repubblica.it",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/14/il-17enne-arrestato-per-lomicidio-di-giacomo-bongiorni-lui-mi-aveva-colpito_f48cd48b-75f2-44a4-816e-c7d7ff458f96.html",
-        "https://www.ilgiornale.it/news/politica/ucciso-branco-5-indagati-3-minori-hanno-infierito-mentre-era-2650931.html",
-        "https://www.ilgiornale.it/news/cronaca-nera/sono-stati-aggrediti-laltra-versione-sull-omicidio-giacomo-2651083.html",
-        "https://www.fanpage.it/attualita/omicidio-giacomo-bongiorni-a-massa-il-padre-del-19enne-arrestato-non-e-un-criminale-si-sono-difesi/",
-        "https://www.ilmessaggero.it/persone/giacomo_bongiorni_massa_padre_aggressori_figlio_studi-9473850.html"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "title": "Turchia, ex studente spara in un liceo poi si suicida: almeno 16 feriti",
       "source_count": 7,
       "article_count": 9,
@@ -213,7 +167,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Booking.com hackerata, la piattaforma avvisa i clienti sulla fuga di dati",
       "source_count": 8,
       "article_count": 8,
@@ -233,6 +187,48 @@
         "https://www.ilfattoquotidiano.it/2026/04/14/booking-attacco-hacker-dati-personali-notizie/8355618/",
         "https://www.adnkronos.com/economia/attacco-hacker-contro-booking-rubati-dati-su-prenotazioni-scatta-avviso-agli-utenti_3SB4zINVOAEo6pc4p3AZXS",
         "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/04/14/booking.com-hackerata-la-piattaforma-avvisa-i-clienti-su-fuga-dati_adb4ab84-e5d0-421c-b2bd-93281a5f1e0d.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Napoli, ucciso per errore a 20 anni: la verità sulla notte di camorra in cui è morto Fabio Ascione",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "fanpage.it",
+        "unita.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/napoli/gli-ultimi-minuti-di-fabio-ascione-in-un-video-il-cornetto-al-bar-dove-cera-lamico-che-lo-avrebbe-ucciso/",
+        "https://www.fanpage.it/napoli/funerali-di-fabio-ascione-ponticelli/",
+        "https://www.unita.it/2026/04/14/omicidio-fabio-ascione-fermati-minorenne-stesa-sparatoria/",
+        "https://www.lastampa.it/cronaca/2026/04/14/news/omicidio_fabio_ascione_ponticelli_napoli-15584388/",
+        "https://www.ilfattoquotidiano.it/2026/04/14/omicidio-ascione-napoli-killer-fermati-notizie/8354986/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Guerra in Iran, le news di oggi in diretta -Pechino: “Irresponsabile il blocco navale Usa a Hormuz”",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/14/islamabad-propone-di-ospitare-un-secondo-round-di-negoziati-liveblog_bc7acada-c11c-4b50-9085-e00ef236a48e.html",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/04/14/una-petroliera-cinese-attraversa-lo-stretto-di-hormuz-dopo-il-blocco-usa_d08b37d5-55c8-46bc-96c6-e092993869f9.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/14/nyt-trump-boccia-la-proposta-delliran-sullo-stop-di-5-anni-ad-arricchimento-uranio_bc7acada-c11c-4b50-9085-e00ef236a48e.html",
+        "https://www.repubblica.it/esteri/2026/04/14/diretta/guerra_iran_usa_israele_news_oggi-425281589/",
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-israele-ultime-notizie-oggi-14-aprile_SfxUsPcIFT1bDBsIMKPBi"
       ]
     }
   ]
