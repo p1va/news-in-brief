@@ -1,6 +1,6 @@
 {
   "date": "2026-04-14",
-  "generated_at": "Tue 14 Apr 17:20",
+  "generated_at": "Tue 14 Apr 19:27",
   "stories": [
     {
       "rank": 1,
@@ -10,8 +10,8 @@
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
-        "ilgiornale.it",
         "liberoquotidiano.it",
+        "ilgiornale.it",
         "ilmessaggero.it",
         "repubblica.it",
         "unita.it",
@@ -21,38 +21,15 @@
         "ilmanifesto.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/14/trump-attacca-meloni-sono-scioccato-su-di-lei-mi-sbagliavo_e88cff7a-47c0-49c7-a0c3-636e26a50bdc.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/14/trump-scioccato-da-meloni-pensavo-avesse-coraggio-su-di-lei-mi-sbagliavo_e88cff7a-47c0-49c7-a0c3-636e26a50bdc.html",
         "https://www.adnkronos.com/internazionale/esteri/trump-contro-meloni-messaggio-iran_5x7A84B0u8HgpeK0tTHqkf",
         "https://www.ansa.it/sito/videogallery/italia/2026/04/14/meloni-non-so-quanti-leader-hanno-parlato-come-me-su-trump_b88d4fd7-9e57-4352-8c26-d31e69cdd9f0.html",
-        "https://www.ilgiornale.it/news/politica-internazionale/mar-lago-sharm-rapporto-meloni-e-trump-2651293.html",
         "https://www.liberoquotidiano.it/news/tv-news/47279658/schlein-condanna-attacco-di-trump-a-meloni-non-accettiamo-minacce-/"
       ]
     },
     {
       "rank": 2,
-      "title": "Trump e la religione per giustificare la guerra: l'azzardo (a perdere) del tycoon",
-      "source_count": 8,
-      "article_count": 18,
-      "source_domains": [
-        "unita.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "laverita.info",
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/04/14/papa-leone-risponde-alle-minacce-di-trump-non-mi-fai-paura/",
-        "https://www.unita.it/2026/04/14/perche-trump-ha-attaccato-papa-leone-quale-e-il-vero-obiettivo-del-presidente-usa/",
-        "https://www.liberoquotidiano.it/news/libero-video/47274526/salvini-su-trump-occorrono-nervi-saldi-attacco-papa-fuori-luogo/",
-        "https://www.ilgiornale.it/news/politica/nuovo-medioevo-social-potere-temporale-2650919.html",
-        "https://www.ilgiornale.it/news/politica/pessimo-e-debole-papa-grazie-me-trump-e-linsulto-choc-che-2650915.html"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Meloni: 'Sospeso il rinnovo automatico dell'accordo di difesa con Israele'",
       "source_count": 10,
       "article_count": 13,
@@ -74,6 +51,28 @@
         "https://www.liberoquotidiano.it/news/video-news-by-vista/47275520/meloni-sospeso-il-rinnovo-automatico-dell-accordo-di-difesa-con-israele/",
         "https://www.ansa.it/sito/notizie/politica/2026/04/14/meloni-sospeso-il-rinnovo-automatico-dellaccordo-di-difesa-con-israele_354db594-d517-4829-975b-2a8e4900a781.html",
         "https://www.lastampa.it/cronaca/2026/04/14/news/italia_israele_stop_cooperazione_militare-15584622/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Trump e la religione per giustificare la guerra: l'azzardo (a perdere) del tycoon",
+      "source_count": 7,
+      "article_count": 15,
+      "source_domains": [
+        "unita.it",
+        "ilgiornale.it",
+        "laverita.info",
+        "ansa.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.unita.it/2026/04/14/papa-leone-risponde-alle-minacce-di-trump-non-mi-fai-paura/",
+        "https://www.unita.it/2026/04/14/perche-trump-ha-attaccato-papa-leone-quale-e-il-vero-obiettivo-del-presidente-usa/",
+        "https://www.ilgiornale.it/news/politica/nuovo-medioevo-social-potere-temporale-2650919.html",
+        "https://www.ilgiornale.it/news/politica/pessimo-e-debole-papa-grazie-me-trump-e-linsulto-choc-che-2650915.html",
+        "https://www.laverita.info/scintille-usa-vaticano-trump-insulta-il-papa-e-debole-e-pessimo-e-poi-diventa-gesu-2676707992.html"
       ]
     },
     {
@@ -215,23 +214,25 @@
     },
     {
       "rank": 10,
-      "title": "Napoli, ucciso per errore a 20 anni: la verità sulla notte di camorra in cui è morto Fabio Ascione",
-      "source_count": 6,
-      "article_count": 9,
+      "title": "Booking.com hackerata, la piattaforma avvisa i clienti sulla fuga di dati",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
-        "fanpage.it",
+        "liberoquotidiano.it",
         "unita.it",
-        "lastampa.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
-        "ansa.it"
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.fanpage.it/napoli/gli-ultimi-minuti-di-fabio-ascione-in-un-video-il-cornetto-al-bar-dove-cera-lamico-che-lo-avrebbe-ucciso/",
-        "https://www.fanpage.it/napoli/funerali-di-fabio-ascione-ponticelli/",
-        "https://www.unita.it/2026/04/14/omicidio-fabio-ascione-fermati-minorenne-stesa-sparatoria/",
-        "https://www.lastampa.it/cronaca/2026/04/14/news/omicidio_fabio_ascione_ponticelli_napoli-15584388/",
-        "https://www.ilfattoquotidiano.it/2026/04/14/omicidio-ascione-napoli-killer-fermati-notizie/8354986/"
+        "https://www.liberoquotidiano.it/news/italia/47277970/booking-attacco-hacker-possibile-cancellazione-prenotazioni/",
+        "https://www.unita.it/2026/04/14/booking-hackerata-violati-dati-utenti/",
+        "https://www.ilfattoquotidiano.it/2026/04/14/booking-attacco-hacker-dati-personali-notizie/8355618/",
+        "https://www.adnkronos.com/economia/attacco-hacker-contro-booking-rubati-dati-su-prenotazioni-scatta-avviso-agli-utenti_3SB4zINVOAEo6pc4p3AZXS",
+        "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/04/14/booking.com-hackerata-la-piattaforma-avvisa-i-clienti-su-fuga-dati_adb4ab84-e5d0-421c-b2bd-93281a5f1e0d.html"
       ]
     }
   ]
