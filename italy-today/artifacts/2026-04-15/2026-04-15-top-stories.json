@@ -1,6 +1,6 @@
 {
   "date": "2026-04-15",
-  "generated_at": "Wed 15 Apr 19:28",
+  "generated_at": "Wed 15 Apr 19:42",
   "stories": [
     {
       "rank": 1,
@@ -30,7 +30,7 @@
       "rank": 2,
       "title": "Quel “You are fired” che aiuta la premier",
       "source_count": 8,
-      "article_count": 21,
+      "article_count": 20,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
@@ -127,6 +127,27 @@
     },
     {
       "rank": 6,
+      "title": "Mps, per il rinnovo del Cda vince la lista dell'ex ad Lovaglio (49,95% dei voti)",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/finanza/mps-vince-lovaglio-delfin-e-banco-bpm-determinanti-per-il-ribaltone-di-siena_4vDuLgEALIJcWxIXxYUxax",
+        "https://www.ansa.it/sito/notizie/economia/2026/04/15/lovaglio-si-riprende-mps-battuta-la-lista-del-cda_c3b9bfb7-4c18-4b13-869b-8ddc5a294bc2.html",
+        "https://www.ilmessaggero.it/economia/news/assemblea_mps_via_libera_al_nuovo_board_prima_la_lista_plt_holding_con_lovaglio-9476746.html",
+        "https://www.ilgiornale.it/news/banche/assemblea-mps-vince-lista-lovaglio-4995-dei-voti-2651837.html",
+        "https://www.ansa.it/sito/notizie/economia/2026/04/15/la-lista-di-plt-holding-con-lovaglio-e-la-piu-votata-dallassemblea-di-mps_c3b9bfb7-4c18-4b13-869b-8ddc5a294bc2.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Alcaraz si ritira da Atp Barcellona, Sinner resta numero 1 del mondo",
       "source_count": 7,
       "article_count": 8,
@@ -145,27 +166,6 @@
         "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/15/alcaraz-si-ritira-da-barcellona-per-un-problema-al-polso_ad4ae68b-21d2-42ff-898d-b7de0595d055.html",
         "https://www.adnkronos.com/sport/alcaraz-ritiro-infortunio-sinner-ranking_7yKO1DGV9fh4HOAqcrZxtw",
         "https://www.repubblica.it/sport/tennis/2026/04/15/news/alcaraz_barcellona_ritiro_sinner_classifica_atp-425286055/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Assemblea Mps, via libera al nuovo board: prima la lista Plt Holding con Lovaglio",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/04/15/lovaglio-si-riprende-mps-battuta-la-lista-del-cda_c3b9bfb7-4c18-4b13-869b-8ddc5a294bc2.html",
-        "https://www.ilmessaggero.it/economia/news/assemblea_mps_via_libera_al_nuovo_board_prima_la_lista_plt_holding_con_lovaglio-9476746.html",
-        "https://www.ilgiornale.it/news/banche/assemblea-mps-vince-lista-lovaglio-4995-dei-voti-2651837.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/04/15/la-lista-di-plt-holding-con-lovaglio-e-la-piu-votata-dallassemblea-di-mps_c3b9bfb7-4c18-4b13-869b-8ddc5a294bc2.html",
-        "https://www.adnkronos.com/finanza/mps-vince-lista-lovaglio_1IOf6wxSgVKX53mrjW0udF"
       ]
     },
     {
