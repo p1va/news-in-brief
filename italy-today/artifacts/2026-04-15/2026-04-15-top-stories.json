@@ -1,6 +1,6 @@
 {
   "date": "2026-04-15",
-  "generated_at": "Wed 15 Apr 19:42",
+  "generated_at": "Wed 15 Apr 21:00",
   "stories": [
     {
       "rank": 1,
@@ -28,29 +28,6 @@
     },
     {
       "rank": 2,
-      "title": "Quel “You are fired” che aiuta la premier",
-      "source_count": 8,
-      "article_count": 20,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "unita.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/15/nuovo-attacco-di-trump.-meloni-non-si-puo-dividere-loccidente_0462a777-8816-42ff-8bc8-d59b1062e46a.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/15/trump-attacca-ancora-meloni-con-chi-nega-laiuto-non-piu_0462a777-8816-42ff-8bc8-d59b1062e46a.html",
-        "https://www.ilfattoquotidiano.it/2026/04/15/trump-attacca-meloni-rapporto-iran-news/8356617/",
-        "https://www.fanpage.it/politica/il-fallimento-gigantesco-della-politica-estera-di-giorgia-meloni/",
-        "https://www.ilgiornale.it/news/politica-internazionale/nuovo-affondo-trump-contro-meloni-stata-negativa-l-italia-2651679.html"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Narcotraffico, 13 arresti a Roma. C’è anche l’ex boss della Banda della Magliana Pernasetti",
       "source_count": 11,
       "article_count": 15,
@@ -73,6 +50,29 @@
         "https://www.fanpage.it/roma/chi-e-raffaele-pernasetti-er-palletta-della-banda-della-magliana-dai-furti-ai-rapporti-coi-senese/",
         "https://www.liberoquotidiano.it/news/tv-news/47287370/droga-e-armi-a-roma-13-arresti-anche-un-ex-banda-della-magliana/",
         "https://www.laverita.info/arrestato-er-palletta-banda-magliana-2676720929.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "La “special relationship” tra Meloni e Trump: un anno e mezzo di incontri e complimenti, poi il gelo",
+      "source_count": 8,
+      "article_count": 17,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "unita.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/esteri/2026/04/15/news/trump_nuovo_attacco_meloni-425286882/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/15/nuovo-attacco-di-trump.-meloni-non-si-puo-dividere-loccidente_0462a777-8816-42ff-8bc8-d59b1062e46a.html",
+        "https://www.liberoquotidiano.it/news/pillole/47291300/usa-la-russa-meloni-non-poteva-stare-in-silenzio-non-c-e-nulla-di-insanabile-/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/15/trump-attacca-ancora-meloni-con-chi-nega-laiuto-non-piu_0462a777-8816-42ff-8bc8-d59b1062e46a.html",
+        "https://www.ilfattoquotidiano.it/2026/04/15/trump-attacca-meloni-rapporto-iran-news/8356617/"
       ]
     },
     {
@@ -150,22 +150,22 @@
       "rank": 7,
       "title": "Alcaraz si ritira da Atp Barcellona, Sinner resta numero 1 del mondo",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "adnkronos.com",
         "ansa.it",
         "liberoquotidiano.it",
-        "adnkronos.com",
         "repubblica.it",
         "ilmessaggero.it",
         "fanpage.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/alcaraz-ritiro-barcellona-sinner-numero-1-come-cambia-ranking-atp_5IEntodLRUEkSqAP4pkgqb",
         "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/15/alcaraz-si-ritira-da-barcellona-sfuma-il-controsorpasso-su-sinner_ad4ae68b-21d2-42ff-898d-b7de0595d055.html",
         "https://www.liberoquotidiano.it/news/sport/47293548/carlos-alcaraz-problema-polso-si-ritira-atp-barcellona-sinner-numero-1/",
         "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/15/alcaraz-si-ritira-da-barcellona-per-un-problema-al-polso_ad4ae68b-21d2-42ff-898d-b7de0595d055.html",
-        "https://www.adnkronos.com/sport/alcaraz-ritiro-infortunio-sinner-ranking_7yKO1DGV9fh4HOAqcrZxtw",
-        "https://www.repubblica.it/sport/tennis/2026/04/15/news/alcaraz_barcellona_ritiro_sinner_classifica_atp-425286055/"
+        "https://www.adnkronos.com/sport/alcaraz-ritiro-infortunio-sinner-ranking_7yKO1DGV9fh4HOAqcrZxtw"
       ]
     },
     {
@@ -212,23 +212,22 @@
     },
     {
       "rank": 10,
-      "title": "Cagliari, donna precipita dal terzo piano e muore nel cortile di casa. Non si esclude l’omicidio",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "«Giacomo Bongiorni è morto per le botte»: i risultati dell'autopsia. Cosa è successo davvero in piazza? La ricostruzione dai video",
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "adnkronos.com",
         "ansa.it",
-        "repubblica.it"
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "firenze.repubblica.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/persone/florea_florina_cagliari_mariano_pinna_indagato_cosa_e_successo-9476291.html",
-        "https://www.ilgiornale.it/news/nazionale/66enne-precipita-terzo-piano-e-muore-non-si-esclude-omicidio-2651547.html",
-        "https://www.fanpage.it/attualita/donna-precipita-dal-terzo-piano-della-sua-abitazione-a-selargius-e-muore-non-si-esclude-ipotesi-omicidio/",
-        "https://www.adnkronos.com/cronaca/cagliari-donna-precipita-da-terzo-piano-e-muore-non-si-esclude-lomicidio_3z38RaygxLM3vNe8t1QdDX",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/15/donna-precipita-dal-terzo-piano-e-muore-non-si-esclude-omicidio_76dd8e24-787c-4daf-a11b-5bc563e49a6f.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/15/una-testata-di-bongiorni-al-mio-amico-non-labbiamo-sfiorato_bf3e8454-819e-442e-8a42-94f12ae5c688.html",
+        "https://www.ilfattoquotidiano.it/2026/04/15/omicidio-bongiorni-massa-fermati-rissa-notizie/8356787/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/15/la-testimonianza-di-uno-degli-arrestati-a-massa-bongiorni-ha-dato-una-testata-al-mio_bf3e8454-819e-442e-8a42-94f12ae5c688.html",
+        "https://www.fanpage.it/attualita/lomicidio-di-giacomo-bongiorni-in-un-video-telecamere-nel-centro-di-massa-mostrano-la-dinamica-dellaggressione/",
+        "https://www.ilfattoquotidiano.it/2026/04/15/omicidio-bongiorni-massa-autopsia-notizie/8356405/"
       ]
     }
   ]
