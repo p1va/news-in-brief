@@ -1,12 +1,36 @@
 {
   "date": "2026-04-15",
-  "generated_at": "Wed 15 Apr 17:15",
+  "generated_at": "Wed 15 Apr 19:28",
   "stories": [
     {
       "rank": 1,
+      "title": "Meloni riceve a Palazzo Chigi il Presidente ucraino Zelensky",
+      "source_count": 9,
+      "article_count": 22,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "governo.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47294855/l-abbraccio-tra-meloni-e-zelensky-all-arrivo-del-presidente-ucraino-a-palazzo-chigi/",
+        "https://www.liberoquotidiano.it/news/pillole/47294564/mattarella_a_zelensky_l_italia_sara_sempre_al_fianco_dell_ucraina_/",
+        "https://www.liberoquotidiano.it/news/pillole/47294434/ucraina_meloni_l_occidente_diviso_sarebbe_un_regalo_a_mosca_/",
+        "https://www.liberoquotidiano.it/news/tv-news/47295784/zelensky-ha-incontrato-il-ministro-della-difesa-guido-crosetto/",
+        "https://www.ilfattoquotidiano.it/2026/04/15/meloni-zelensky-accordo-droni-ucraina-news/8356937/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Quel “You are fired” che aiuta la premier",
       "source_count": 8,
-      "article_count": 20,
+      "article_count": 21,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
@@ -18,15 +42,15 @@
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/15/nuovo-attacco-di-trump.-meloni-non-si-puo-dividere-loccidente_0462a777-8816-42ff-8bc8-d59b1062e46a.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/15/trump-attacca-ancora-meloni-con-chi-nega-laiuto-non-piu_0462a777-8816-42ff-8bc8-d59b1062e46a.html",
         "https://www.ilfattoquotidiano.it/2026/04/15/trump-attacca-meloni-rapporto-iran-news/8356617/",
         "https://www.fanpage.it/politica/il-fallimento-gigantesco-della-politica-estera-di-giorgia-meloni/",
-        "https://www.ilgiornale.it/news/politica-internazionale/nuovo-affondo-trump-contro-meloni-stata-negativa-l-italia-2651679.html",
-        "https://www.ilgiornale.it/news/politica/trump-allangolo-attacca-roma-deluso-e-scioccato-premier-2651384.html"
+        "https://www.ilgiornale.it/news/politica-internazionale/nuovo-affondo-trump-contro-meloni-stata-negativa-l-italia-2651679.html"
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Narcotraffico, 13 arresti a Roma. C’è anche l’ex boss della Banda della Magliana Pernasetti",
       "source_count": 11,
       "article_count": 15,
@@ -49,31 +73,6 @@
         "https://www.fanpage.it/roma/chi-e-raffaele-pernasetti-er-palletta-della-banda-della-magliana-dai-furti-ai-rapporti-coi-senese/",
         "https://www.liberoquotidiano.it/news/tv-news/47287370/droga-e-armi-a-roma-13-arresti-anche-un-ex-banda-della-magliana/",
         "https://www.laverita.info/arrestato-er-palletta-banda-magliana-2676720929.html"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Incontro Meloni - Zelensky a Palazzo Chigi",
-      "source_count": 10,
-      "article_count": 13,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "governo.it",
-        "lastampa.it",
-        "ilmanifesto.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/15/meloni-zelensky-accordo-droni-ucraina-news/8356937/",
-        "https://www.adnkronos.com/politica/ucraina-incontro-meloni-zelensky-italia-interessata-a-produzione-congiunta-droni_1r0bTg2KHNph9OCfxX7wZk",
-        "https://www.repubblica.it/politica/2026/04/15/news/meloni_riceve_zelensky_roma_sostegno_kiev-425286011/",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/15/zelensky-a-palazzo-chigi-per-lincontro-con-meloni_a1e403bc-3585-4329-a51c-241b1f897257.html",
-        "https://www.repubblica.it/esteri/2026/04/15/diretta/guerra_ucraina_russia_news_oggi-425284337/"
       ]
     },
     {
@@ -128,6 +127,49 @@
     },
     {
       "rank": 6,
+      "title": "Alcaraz si ritira da Atp Barcellona, Sinner resta numero 1 del mondo",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/15/alcaraz-si-ritira-da-barcellona-sfuma-il-controsorpasso-su-sinner_ad4ae68b-21d2-42ff-898d-b7de0595d055.html",
+        "https://www.liberoquotidiano.it/news/sport/47293548/carlos-alcaraz-problema-polso-si-ritira-atp-barcellona-sinner-numero-1/",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/15/alcaraz-si-ritira-da-barcellona-per-un-problema-al-polso_ad4ae68b-21d2-42ff-898d-b7de0595d055.html",
+        "https://www.adnkronos.com/sport/alcaraz-ritiro-infortunio-sinner-ranking_7yKO1DGV9fh4HOAqcrZxtw",
+        "https://www.repubblica.it/sport/tennis/2026/04/15/news/alcaraz_barcellona_ritiro_sinner_classifica_atp-425286055/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Assemblea Mps, via libera al nuovo board: prima la lista Plt Holding con Lovaglio",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/economia/2026/04/15/lovaglio-si-riprende-mps-battuta-la-lista-del-cda_c3b9bfb7-4c18-4b13-869b-8ddc5a294bc2.html",
+        "https://www.ilmessaggero.it/economia/news/assemblea_mps_via_libera_al_nuovo_board_prima_la_lista_plt_holding_con_lovaglio-9476746.html",
+        "https://www.ilgiornale.it/news/banche/assemblea-mps-vince-lista-lovaglio-4995-dei-voti-2651837.html",
+        "https://www.ansa.it/sito/notizie/economia/2026/04/15/la-lista-di-plt-holding-con-lovaglio-e-la-piu-votata-dallassemblea-di-mps_c3b9bfb7-4c18-4b13-869b-8ddc5a294bc2.html",
+        "https://www.adnkronos.com/finanza/mps-vince-lista-lovaglio_1IOf6wxSgVKX53mrjW0udF"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Usa-Iran verso nuovi colloqui, Trump: \"Guerra quasi finita\"",
       "source_count": 6,
       "article_count": 8,
@@ -148,10 +190,10 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Turchia, sparatoria in una scuola media: 4 morti, il killer è uno studente. È il secondo attacco in due giorni",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
@@ -161,33 +203,15 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/15/sparatoria-in-una-scuola-media-in-turchia-almeno-nove-morti-_ef5d0bbc-fe68-4663-ace8-f2ff2f43ba67.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/15/sale-a-9-il-bilancio-dei-morti-nella-sparatoria-in-una-scuola-in-turchia_ef5d0bbc-fe68-4663-ace8-f2ff2f43ba67.html",
         "https://www.ilfattoquotidiano.it/2026/04/15/sparatoria-turchia-scuola-media-kahramanmaras-news/8356636/",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/15/almeno-4-morti-in-una-sparatoria-in-una-scuola-in-turchia-il-killer-e-uno-studente_ef5d0bbc-fe68-4663-ace8-f2ff2f43ba67.html",
-        "https://www.unita.it/2026/04/15/turchia-sparatoria-scuola-morti-feriti-kahramanmaras/",
-        "https://www.fanpage.it/esteri/sparatoria-in-una-scuola-media-in-turchia-ci-sono-morti-e-feriti-arrestato-un-uomo-a-kahramanmaras/"
+        "https://www.unita.it/2026/04/15/turchia-sparatoria-scuola-morti-feriti-kahramanmaras/"
       ]
     },
     {
-      "rank": 8,
-      "title": "Mattarella: Il mondo sarebbe migliore se i potenti usassero l'autoironia",
-      "source_count": 3,
-      "article_count": 9,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/47285967/mattarella-non-confondere-comunicazione-e-informazione/",
-        "https://www.liberoquotidiano.it/news/tv-news/47285922/mattarella-se-potenti-della-terra-fossero-autoironici-meglio-per-il-mondo/",
-        "https://www.lastampa.it/politica/2026/04/15/news/mattarella_difende_papa_leone-15585312/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47281709/mattarella-autoironia-per-resistere-a-tentazioni-potere-papa-mette-in-guardia-da-autoesaltazione/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47281711/mattarella-compito-giornalisti-e-demarcare-confini-fra-vero-e-falso/"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "Cagliari, donna precipita dal terzo piano e muore nel cortile di casa. Non si esclude l’omicidio",
       "source_count": 6,
       "article_count": 6,
@@ -205,26 +229,6 @@
         "https://www.fanpage.it/attualita/donna-precipita-dal-terzo-piano-della-sua-abitazione-a-selargius-e-muore-non-si-esclude-ipotesi-omicidio/",
         "https://www.adnkronos.com/cronaca/cagliari-donna-precipita-da-terzo-piano-e-muore-non-si-esclude-lomicidio_3z38RaygxLM3vNe8t1QdDX",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/15/donna-precipita-dal-terzo-piano-e-muore-non-si-esclude-omicidio_76dd8e24-787c-4daf-a11b-5bc563e49a6f.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Mps, per il rinnovo del Cda vince la lista dell'ex ad Lovaglio (49,95% dei voti)",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/banche/assemblea-mps-vince-lista-lovaglio-4995-dei-voti-2651837.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/04/15/la-lista-di-plt-holding-con-lovaglio-e-la-piu-votata-dallassemblea-di-mps_c3b9bfb7-4c18-4b13-869b-8ddc5a294bc2.html",
-        "https://www.adnkronos.com/finanza/mps-vince-lista-lovaglio_1IOf6wxSgVKX53mrjW0udF",
-        "https://www.repubblica.it/economia/2026/04/15/news/mps_la_delfin_del_vecchio_potrebbe_votare_a_favore_della_lista_lovaglio-425285600/",
-        "https://www.lastampa.it/economia/2026/04/15/news/mps_delfin_votera_per_lista_plt_holding_con_lovaglio-15586016/"
       ]
     }
   ]
