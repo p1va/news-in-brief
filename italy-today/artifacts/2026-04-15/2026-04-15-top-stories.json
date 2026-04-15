@@ -1,37 +1,38 @@
 {
   "date": "2026-04-15",
-  "generated_at": "Wed 15 Apr 13:53",
+  "generated_at": "Wed 15 Apr 15:14",
   "stories": [
     {
       "rank": 1,
       "title": "La “special relationship” tra Meloni e Trump: un anno e mezzo di incontri e complimenti, poi il gelo",
       "source_count": 9,
-      "article_count": 28,
+      "article_count": 26,
       "source_domains": [
+        "unita.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "fanpage.it",
         "ilgiornale.it",
         "repubblica.it",
-        "unita.it",
         "lastampa.it",
         "ilmessaggero.it",
         "liberoquotidiano.it"
       ],
       "links": [
+        "https://www.unita.it/2026/04/15/trump-attacca-meloni-salvini-presidente-usa-social-gesu-pace/",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/15/trump-attacca-ancora-meloni-con-chi-nega-laiuto-non-piu_0462a777-8816-42ff-8bc8-d59b1062e46a.html",
         "https://www.ilfattoquotidiano.it/2026/04/15/trump-attacca-meloni-rapporto-iran-news/8356617/",
         "https://www.fanpage.it/politica/il-fallimento-gigantesco-della-politica-estera-di-giorgia-meloni/",
-        "https://www.ilgiornale.it/news/politica-internazionale/nuovo-affondo-trump-contro-meloni-stata-negativa-l-italia-2651679.html",
-        "https://www.ilgiornale.it/news/politica/rottura-inevitabile-meloni-e-lequilibrio-destinato-scoppiare-2651382.html"
+        "https://www.ilgiornale.it/news/politica-internazionale/nuovo-affondo-trump-contro-meloni-stata-negativa-l-italia-2651679.html"
       ]
     },
     {
       "rank": 2,
       "title": "Narcotraffico, 13 arresti a Roma. C’è anche l’ex boss della Banda della Magliana Pernasetti",
-      "source_count": 10,
-      "article_count": 14,
+      "source_count": 11,
+      "article_count": 15,
       "source_domains": [
+        "lastampa.it",
         "unita.it",
         "fanpage.it",
         "liberoquotidiano.it",
@@ -44,11 +45,11 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.lastampa.it/cronaca/2026/04/15/news/raffaele_pernasetti_er_palletta_chi_e-15586093/",
         "https://www.unita.it/2026/04/15/maxi-blitz-spaccio-roma-arrestate-carcere-palletta-banda-magliana/",
         "https://www.fanpage.it/roma/chi-e-raffaele-pernasetti-er-palletta-della-banda-della-magliana-dai-furti-ai-rapporti-coi-senese/",
         "https://www.liberoquotidiano.it/news/tv-news/47287370/droga-e-armi-a-roma-13-arresti-anche-un-ex-banda-della-magliana/",
-        "https://www.laverita.info/arrestato-er-palletta-banda-magliana-2676720929.html",
-        "https://www.liberoquotidiano.it/news/libero-video/47285835/roma-13-arresti-per-narcotraffico-c-e-anche-ex-boss-della-magliana-pernasetti/"
+        "https://www.laverita.info/arrestato-er-palletta-banda-magliana-2676720929.html"
       ]
     },
     {
@@ -102,63 +103,66 @@
     },
     {
       "rank": 5,
-      "title": "Turchia, sparatoria in una scuola media: 4 morti, il killer è uno studente. È il secondo attacco in due giorni",
+      "title": "Usa-Iran verso nuovi colloqui, Trump: \"Guerra quasi finita\"",
       "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "unita.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-media-accordo-di-principio-per-estensione-tregua-e-nuovo-round-colloqui_6j6dCSpvwFg8t2K0HJz3kS",
+        "https://www.unita.it/2026/04/15/iran-stati-uniti-trump-nuovi-negoziati-pakistan/",
+        "https://www.liberoquotidiano.it/news/libero-video/47286240/usa-iran-verso-nuovi-colloqui-trump-guerra-quasi-finita-/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/15/trump-piu-che-possibile-un-accordo-con-iran-entro-aprile.-teheran_a25e8c05-6584-463b-8d65-86027f31724b.html",
+        "https://www.repubblica.it/esteri/2026/04/15/diretta/guerra_iran_usa_israele_news_oggi-425284349/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Meloni riceve Zelensky a Palazzo Chigi: tutti i dossier sul tavolo",
+      "source_count": 7,
       "article_count": 7,
       "source_domains": [
-        "ilfattoquotidiano.it",
         "ansa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "governo.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/04/15/zelensky-a-palazzo-chigi-per-lincontro-con-meloni_a1e403bc-3585-4329-a51c-241b1f897257.html",
+        "https://www.repubblica.it/esteri/2026/04/15/diretta/guerra_ucraina_russia_news_oggi-425284337/",
+        "https://www.ilgiornale.it/news/politica-internazionale/meloni-riceve-zelensky-palazzo-chigi-tutti-i-dossier-sul-2651739.html",
+        "https://www.governo.it/it/articolo/incontro-meloni-zelensky-palazzo-chigi/31533",
+        "https://www.lastampa.it/politica/2026/04/15/diretta/meloni_zelensky_palazzo_chigi_mattarella-15586009/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Turchia, sparatoria in una scuola media: 4 morti, il killer è uno studente. È il secondo attacco in due giorni",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
         "unita.it",
         "fanpage.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/15/sale-a-9-il-bilancio-dei-morti-nella-sparatoria-in-una-scuola-in-turchia_ef5d0bbc-fe68-4663-ace8-f2ff2f43ba67.html",
         "https://www.ilfattoquotidiano.it/2026/04/15/sparatoria-turchia-scuola-media-kahramanmaras-news/8356636/",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/15/almeno-4-morti-in-una-sparatoria-in-una-scuola-in-turchia-il-killer-e-uno-studente_ef5d0bbc-fe68-4663-ace8-f2ff2f43ba67.html",
         "https://www.unita.it/2026/04/15/turchia-sparatoria-scuola-morti-feriti-kahramanmaras/",
-        "https://www.fanpage.it/esteri/sparatoria-in-una-scuola-media-in-turchia-ci-sono-morti-e-feriti-arrestato-un-uomo-a-kahramanmaras/",
-        "https://www.ilmessaggero.it/mondo/turchia_sparatoria_scuola_morti-9476314.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Usa-Iran verso nuovi colloqui, Trump: \"Guerra quasi finita\"",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "unita.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.unita.it/2026/04/15/iran-stati-uniti-trump-nuovi-negoziati-pakistan/",
-        "https://www.liberoquotidiano.it/news/libero-video/47286240/usa-iran-verso-nuovi-colloqui-trump-guerra-quasi-finita-/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/15/trump-piu-che-possibile-un-accordo-con-iran-entro-aprile.-teheran_a25e8c05-6584-463b-8d65-86027f31724b.html",
-        "https://www.repubblica.it/esteri/2026/04/15/diretta/guerra_iran_usa_israele_news_oggi-425284349/",
-        "https://www.liberoquotidiano.it/news/tv-news/47286183/guterres-onu-molto-probabile-la-ripresa-dei-colloqui-usa-iran-/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Salis \"In Ungheria non vince la sinistra, ma perde l'ultradestra\"",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ilmanifesto.it",
-        "repubblica.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://ilmanifesto.it/per-la-cina-gli-affari-in-ungheria-non-finiscono-con-orban",
-        "https://www.repubblica.it/economia/rubriche/outlook/2026/04/15/news/il_fallimento_dell_orbanomics_ecco_perche_dopo_16_anni_ha_perso_le_elezioni-425283738/",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/04/15/news/orban_la_lezione_per_ue_e_sinistra-15585211/",
-        "https://www.liberoquotidiano.it/news/pillole/47280789/ungheria_benifei_finita_era_orban_nuovo_governo_riporta_budapest_in_alveo_ue_/",
-        "https://www.liberoquotidiano.it/news/pillole/47279758/ungheria-falcone-vittoria-magyar-rafforza-principi-europeisti-e-democrazia-/"
+        "https://www.fanpage.it/esteri/sparatoria-in-una-scuola-media-in-turchia-ci-sono-morti-e-feriti-arrestato-un-uomo-a-kahramanmaras/"
       ]
     },
     {
@@ -202,21 +206,22 @@
     },
     {
       "rank": 10,
-      "title": "Massa, l’omicidio in un video. Arrestato boxeur di 17 anni",
-      "source_count": 4,
+      "title": "L'Iran ha usato i satelliti cinesi per attaccare le basi Usa, dalla Prince Sultan in Arabia Saudita a Erbil in Iraq",
+      "source_count": 5,
       "article_count": 6,
       "source_domains": [
-        "fanpage.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "firenze.repubblica.it",
-        "lastampa.it"
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.fanpage.it/attualita/lomicidio-di-giacomo-bongiorni-in-un-video-telecamere-nel-centro-di-massa-mostrano-la-dinamica-dellaggressione/",
-        "https://www.ilgiornale.it/news/politica/campioncino-boxe-e-anni-sul-ring-forse-suo-pugno-fatale-che-2651407.html",
-        "https://firenze.repubblica.it/cronaca/2026/04/15/news/giacomo_bongiorni_massa_omicidio_video_arrestato_boxeur_17_anni-425284067/",
-        "https://firenze.repubblica.it/cronaca/2026/04/15/news/massa_minorenne_da_giovane_promessa_del_ring_ai_guai_con_la_giustizia-425284395/",
-        "https://www.lastampa.it/cronaca/2026/04/15/news/le_spinte_la_testata_al_ragazzo_poi_i_due_pugni_alla_vittima_cosi_i_video_riscrivono_il_delitto-15585328/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/15/il-financial-times-liran-uso-un-satellite-cinese-per-colpire-le-basi-usa._a25e8c05-6584-463b-8d65-86027f31724b.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/15/il-financial-times-liran-uso-un-satellite-cinese-per-colpire-le-basi-usa_a25e8c05-6584-463b-8d65-86027f31724b.html",
+        "https://www.repubblica.it/esteri/2026/04/15/news/satellite_cinese_usato_dall_iran_per_attaccare_gli_usa_trump_xi_hormuz-425285593/",
+        "https://www.ilfattoquotidiano.it/2026/04/15/satellite-spia-cina-iran-usa-rivelazioni-financial-times/8356541/",
+        "https://www.ilgiornale.it/news/difesa/satellite-segreto-cinese-spiare-e-colpire-basi-usa-cos-l-2651668.html"
       ]
     }
   ]
