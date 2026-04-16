@@ -1,0 +1,295 @@
+Here is the latest data for today's show:
+- In <previous_episode_transcript> find the script for the last episode for context.
+- In <clustered_headlines> find the "Top Stories" (widely covered).
+- In <other_headlines> find news that were only covered by single source.
+
+
+<previous_episode_transcript>
+# Previous Episode Transcript (2026-04-15)
+Welcome to another episode of "Italy Today", today is Wednesday 15 and this episode was curated by Gemini 3.1 Pro.
+
+Let's start with a rapid-fire look at today's headlines. On the global stage, US President Donald Trump announced today that the war in Iran is "almost over," even as the Financial Times revealed Tehran utilized Chinese spy satellites to target American bases. In the Vatican, the transatlantic feud continues; US Vice President JD Vance publicly warned Pope Leo XIV to stick to theology and stay out of foreign policy. Domestically, the Bank of Italy reports that the national public debt has surged again, nearing a staggering 3.14 trillion euros. In Brussels, Commission President Ursula von der Leyen announced that the EU's new app for mandatory age verification on social media is technically ready for rollout. In the banking sector, Luigi Lovaglio has secured another term as CEO of Monte dei Paschi di Siena, defeating a rival board list and stabilizing the world's oldest bank. Meanwhile, the Italian Senate has definitively passed the PNRR decree, aligning critical recovery fund deadlines to June. And finally, a massive anti-drug blitz in Rome has led to 13 arrests, returning to prison Raffaele Pernasetti, a historical boss of the infamous Banda della Magliana crime syndicate.
+
+Following up on yesterday's report regarding the diplomatic earthquake between Rome and the MAGA White House, Prime Minister Giorgia Meloni has made her next move. With Donald Trump publicly calling her "unacceptable" and cowardly, Meloni hosted Ukrainian President Volodymyr Zelensky at Palazzo Chigi today. The two leaders announced a new joint production agreement for military drones, with Meloni pointedly declaring that "a divided West is a gift to Moscow." It is a stark geopolitical pivot; increasingly isolated by Washington, Meloni is doubling down on her European and NATO commitments to project institutional stability. 
+
+The domestic press is fiercely divided on how to interpret this realignment. On the progressive left, newspapers like La Repubblica and the digital outlet Fanpage are framing this as the spectacular collapse of Meloni’s foreign policy, arguing she is frantically running back to the European establishment after her failed attempt to appease an unpredictable American president. Conversely, the sovereigntist right is spinning the crisis as a badge of honor. Il Giornale and Libero defend the Prime Minister's stance, arguing that standing up to Trump and continuing to back Kyiv proves she is a true sovereign leader who prioritizes Italian security over bowing to Washington's dictates.
+
+Moving from international diplomacy to coalition politics, the battle for the future of Forza Italia has taken a bitter turn. Marina Berlusconi, the eldest daughter of the late Silvio Berlusconi and president of Fininvest, has fiercely denied rumors that she is preparing to officially enter politics. In a scathing public letter, she attacked Il Fatto Quotidiano—the anti-establishment paper that originally published the rumor—accusing them of harboring a "caveman-like" and deeply misogynistic disdain for women. While Il Fatto maintains she is quietly preparing a political descent, Marina's aggressive denial is meant to shut down internal coalition panic and reaffirm her current role as a behind-the-scenes powerbroker rather than a frontline candidate. 
+
+Turning to the systemic infrastructure issues plaguing the south, a massive judicial earthquake has hit Sicily. The Prosecutor's Office in Gela has placed 13 people under investigation for the devastating January landslide that destroyed parts of the town of Niscemi. Among the investigated are the last four presidents of the Sicilian Region, including the current governor Renato Schifani and Civil Protection Minister Nello Musumeci. Prosecutors allege that despite millions of euros being allocated for hydrogeological safety over the last 15 years, the necessary structural works were simply never executed, turning a preventable risk into a state-sponsored disaster.
+
+But before we go, some positive news for the Italian export economy. The 58th edition of Vinitaly closed its doors in Verona today, recording a massive 90,000 attendees from 135 different nations. Despite the dark clouds of global trade wars and the sweeping US tariffs implemented last year, the sheer volume of international buyers—especially a surging interest from Asia and Eastern Europe—proves that the Italian wine sector remains a highly resilient diplomatic and economic force.
+
+I will see you tomorrow.
+</previous_episode_transcript>
+
+
+
+<clustered_headlines>
+# Coverage Pulse - 2026-04-16
+
+## 1. Meloni, messaggio a Trump: «In Iran faremo la nostra parte». Il presidente Usa: non c'è più lo stesso rapporto
+
+> **Context:** Non lascia, raddoppia. Donald Trump torna di nuovo all'attacco di Giorgia Meloni. «Non abbiamo più lo stesso rapporto», rilancia dai microfoni di Fox News, non pago...
+
+- **La Repubblica**: Trump attacca ancora Meloni: “Non c’è più lo stesso rapporto” Secondo affondo in un’intervista a Fox News. E con Vance insiste contro il Papa: “Ditegli che l’Iran ha ucciso 42 mila persone”
+- **ANSA**: Nuovo attacco di Trump. Meloni: 'Non si può dividere l'Occidente' Per il secondo giorno di fila il presidente Usa contro la premier. "È stata negativa", l'affondo, sempre legato alla postura italiana sulla guerra in Iran
+- **Fanpage.it**: La grande bufala dello strappo tra Meloni, Trump e Netanyahu Definire inaccettabili le parole di Trump sul Papa è il minimo sindacale, così come interrompere un memorandum sulla difesa con Israele dopo tutto quel che è successo a Gaza. Per cambiare davvero passo in politica estera serve altro. Meloni vuole farlo, o vuole solo fare finta, per recuperare un po' di popolarità?Continua a leggere
+- **Fanpage.it**: Governo Meloni, la premier scaricata da Trump, Schlein: “Doveroso condannare presidente Usa ma Meloni ha commesso errori gravissimi” Le notizie dell'ultima ora sul governo Meloni dopo gli attacchi di Donald Trump contro il Papa e la premier. Con Meloni "non c'è più lo stesso rapporto", dice il tycoon. "Il rapporto di amicizia con gli Usa resta", rassicura Tajani. Il M5s accusa il governo di aver fallito in politica estera. Tutti gli aggiornamenti sulla crisi interna al governo.Continua a leggere
+- **La Verità**: Trump-Meloni, nuovo assalto: «Il rapporto è cambiato». L’Italia ridimensiona il litigio Per l’inquilino della Casa Bianca, Roma è stata «negativa», ma «continua a sfruttare Hormuz». Tajani: «Non si tratta di una vera crisi». La Russa: «Nulla è insanabile».All’indomani dell’attacco contro il premier Giorgia Meloni, il presidente degli Stati Uniti, Donald Trump, non ha mostrato alcuna intenzione di fare dietrofront. Durante un’intervista rilasciata a Fox Business per commentare gli sviluppi sul fronte mediorientale, ha lanciato nuove stoccate, sentenziando che Meloni «è stata negativa».Continua a leggere
+- **L'Unità**: Meloni, altre sberle da Trump: la premier scaricata dall’alleato spera nel divorzio per ricollocarsi al centro Trump torna alla carica. Meglio mettere i proverbiali puntini sulle i: “No, il rapporto con Giorgia Meloni non è più lo stesso”. Non è solo una ripetizione della scomunica già comminata. Il presidente furioso aggiunge un dettaglio significativo: “Con chiunque ci abbia rifiutato aiuto in questa situazione iraniana non abbiamo lo stesso rapporto”. Le critiche […]
+- **Il Manifesto**: Ora la premier teme di non aver più carte da giocare in Europa Trump non si ferma, continua a sferrare mazzate contro l’ex prediletta italiana. Casomai qualcuno non avesse afferrato il concetto, si ripete: «Con Meloni non abbiamo più lo stesso rapporto. È […] The post Ora la premier teme di non aver più carte da giocare in Europa first appeared on il manifesto.
+- **Il Messaggero**: Meloni, messaggio a Trump: «In Iran faremo la nostra parte». Il presidente Usa: non c'è più lo stesso rapporto Non lascia, raddoppia. Donald Trump torna di nuovo all'attacco di Giorgia Meloni. «Non abbiamo più lo stesso rapporto», rilancia dai microfoni di Fox News, non pago...
+- **Libero**: Attacco di Trump a Meloni, La Russa: "Nulla di insanabile" 
+
+
+## 2. Sciopero dei giornalisti oggi 16 aprile. La nota Fnsi e il comunicato Fieg
+
+- **Il Sole Ventiquattro Ore**: Comunicato sindacale della Fnsi sullo sciopero della stampa del 16 aprile 2026 Il Sole 24 Ore non sarà in edicola e il suo sito web non è aggiornato per l’agitazione proclamata da Fnsi per il rinnovo del Ccnl dei giornalisti
+- **La Stampa**: Oggi La Stampa in sciopero per il rinnovo del contratto di lavoro: il sito non sarà aggiornato fino a venerdì 17 aprile Le giornaliste e i giornalisti italiani scioperano, oggi, per la terza volta. Non lo facciamo a cuor leggero, ma riteniamo che sia ...
+- **Adkronos**: Sciopero dei giornalisti oggi 16 aprile. La nota Fnsi e il comunicato Fieg 
+- **Il Fatto Quotidiano**: Giornalisti in sciopero per il rinnovo del contratto di lavoro (scaduto da 10 anni): il comunicato dei Cdr del Fatto Care lettrici e cari lettori, oggi le giornaliste e i giornalisti italiani tornano a mobilitarsi per la terza volta nel giro di pochi mesi. Una nuova giornata di sciopero contro la chiusura degli editori della Fieg (a cui la nostra società, Seif, non aderisce) alle richieste avanzate dal sindacato per il rinnovo del contratto, scaduto […] L'articolo Giornalisti in sciopero per il rinnovo del contratto di lavoro (scaduto da 10 anni): il comunicato dei Cdr del Fatto proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Sciopero giornalisti oggi 16 aprile, ferma anche la Rai: come cambia la programmazione tv Giovedì 16 aprile i giornalisti italiani tornano a scioperare per il rinnovo del contratto Fnsi-Fieg. A seguito della sospensione dell'attività giornalistica, ci saranno cambi di programmazione che interessano le testate Rai e anche di altri emittenti, con edizioni dei telegiornali ridotte e programmi anticipati.Continua a leggere
+- **Il Manifesto**: Fnsi, comunicato sindacale sciopero 16 aprile 2026 Le giornaliste e i giornalisti italiani scioperano, oggi, per la terza volta. Non lo facciamo a cuor leggero, ma riteniamo che sia necessario informare i lettori, la società e la […] The post Fnsi, comunicato sindacale sciopero 16 aprile 2026 first appeared on il manifesto.
+- **L'Unità**: Perché non ci sono trasmissioni in tv e radio oggi: lo sciopero dei giornalisti per il contratto nazionale Per la terza volta giornalisti e giornaliste italiani scioperano per chiedere il rinnovo del Contratto di lavoro. La mobilitazione è stata indetta dalla Federazione Nazionale della Stampa Italiana e proclamata per protestare contro il rinnovo del contratto di lavoro Fnsi-Fieg, scaduto da dieci anni, e per l’equo compenso rivolto ai lavoratori autonomi. “Le giornaliste e […]
+
+
+## 3. “La guerra è quasi finita”, il negoziato a distanza tra Washington e Teheran
+
+> **Context:** Contatti per estendere il cessate il fuoco e fissare un nuovo incontro. Hormuz, l’Iran apre a un corridoio navale lungo le coste dell’Oman
+
+- **La Repubblica**: “La guerra è quasi finita”, il negoziato a distanza tra Washington e Teheran Contatti per estendere il cessate il fuoco e fissare un nuovo incontro. Hormuz, l’Iran apre a un corridoio navale lungo le coste dell’Oman
+- **La Stampa**: Gli Usa: intesa ad aprile e finisce la guerra con l’Iran. Ma arrivano 10 mila soldati Domani a Parigi vertice per riaprire Hormuz. Teheran: l’Europa ne stia fuori. Si lavora per prorogare la tregua. Ombre sui satelliti cinesi contro l’America
+- **La Stampa**: Pasdaran e Stati Uniti, passi verso l’intesa Tra portaerei e diplomazia, il cessate il fuoco resta appeso. Sullo sfondo, la minaccia della Cina
+- **Adkronos**: Usa-Iran, Stretto di Hormuz e negoziati: i messaggi di Trump e lo scenario Si apre uno spiraglio per un nuovo round di colloqui per porre fine alla guerra, i temi chiave non cambiano
+- **Il Messaggero**: Iran verso la proroga della tregua, vicino l’accordo quadro con gli Usa. Teheran potrebbe riaprire una parte di Hormuz «Un accordo con l'Iran entro fine aprile è possibile. Li abbiamo pestati pesantemente». Il linguaggio colorito è quello d’ordinanza di Donald Trump così...
+- **Il Giornale**: "Conflitto chiuso entro aprile". Satelliti cinesi contro le basi Usa Trump certo che le ostilità siano vicine allo stop. Ma invia altri 10mila soldati nel Golfo. La rivelazione: "Teheran ha usato dispositivi-spia comprati da Pechino"
+
+
+## 4. Mps, Lovaglio messo alla porta ma rieletto amministratore delegato grazie a Del Vecchio e BPM: Caltagirone grande sconfitto
+
+> **Context:** Luigi Lovaglio torna al comando di Mps, il Montepaschi di Siena. L’ex amministratore delegato messo alla porta con tanto di licenziamento per giusta causa dopo aver fatto uscire dalle sabbie mobili l’istituto di credito senese e aver gestito la controversa scalata a Mediobanca, è infatti il clamoroso vincitore della partita tenuta mercoledì nell’assemblea chiamata a […]
+
+- **ANSA**: Lovaglio si riprende Mps, battuta la lista del cda Delfin e Bpm col banchiere, 'non vedo l'ora di ricominciare'. A Plt 8 consiglieri su 15
+- **La Verità**: Colpo di scena a Mps: torna Lovaglio. In sella grazie ai Del Vecchio e a Bpm L’ad del risanamento rientra al suo posto con il blitz di Delfin, che vota con Blackrocke Banco. Sconfitta la lista di Fabrizio Palermo sostenuta da Caltagirone. Governo spettatore.Certe assemblee degli azionisti iniziano come una messa cantata e finiscono come una corrida. A Siena, ieri, si è passati dall’incenso al confronto nel giro di poche ore, con il Monte dei Paschi che ha fatto quello che gli riesce meglio da secoli: sorprendere tutti, soprattutto chi era convinto di aver già vinto.Continua a leggere
+- **Il Manifesto**: Mps, dopo il conflitto è tornato Lovaglio Luigi Lovaglio ha ha riconquistato MPS. L’assemblea ieri ha sancito il ritorno del banchiere grazie al successo della lista PLT, sostenuta dal fondo norvegese Norges Bank e da BlackRock. Il […] The post Mps, dopo il conflitto è tornato Lovaglio first appeared on il manifesto.
+- **L'Unità**: Mps, Lovaglio messo alla porta ma rieletto amministratore delegato grazie a Del Vecchio e BPM: Caltagirone grande sconfitto Luigi Lovaglio torna al comando di Mps, il Montepaschi di Siena. L’ex amministratore delegato messo alla porta con tanto di licenziamento per giusta causa dopo aver fatto uscire dalle sabbie mobili l’istituto di credito senese e aver gestito la controversa scalata a Mediobanca, è infatti il clamoroso vincitore della partita tenuta mercoledì nell’assemblea chiamata a […]
+
+
+## 5. Morto Alexander Manninger, ex portiere della Juventus: vittima di un incidente stradale in Austria, lo scontro con un treno
+
+> **Context:** Alexander Manninger, ex portiere della Serie A di calcio con un passato trae Fiorentina, Bologna, Juventus e Torino, è morto oggi all’età di 48 anni in un incidente stradale. L’ex calciatore austriaco è deceduto a seguito di un incidente mentre era alla guida della sua auto, un minivan Volkswagen: la vettura, secondo quanto riferiscono i […]
+
+- **Fanpage.it**: Alex Manninger è morto a 48 anni, tragico incidente con un treno per l’ex portiere della Juventus Alex Manninger è morto. L'ex portiere, con trascorsi in Italia anche tra Juventus e Fiorentina, aveva 48 anni. Manninger è stato travolto da un treno mentre era nella sua auto.Continua a leggere
+- **L'Unità**: Morto Alexander Manninger, ex portiere della Juventus: vittima di un incidente stradale in Austria, lo scontro con un treno Alexander Manninger, ex portiere della Serie A di calcio con un passato trae Fiorentina, Bologna, Juventus e Torino, è morto oggi all’età di 48 anni in un incidente stradale. L’ex calciatore austriaco è deceduto a seguito di un incidente mentre era alla guida della sua auto, un minivan Volkswagen: la vettura, secondo quanto riferiscono i […]
+- **Il Giornale**: Lutto nel mondo del calcio: Alexander Manninger muore in un incidente stradale Fatale l’impatto della sua auto con un treno: l’ex portiere austriaco è stato estratto dal veicolo ma non c’è stato nulla da fare
+- **Libero**: Morto Alex Manninger: l'auto dell'ex Juve travolta a un passaggio a livello aperto L'ex portiere della Juventus Alex Manninger è morto in un incidente stradale: aveva 48 anni. Come riporta il sito di Gianluca Di Marzio, secondo le prime ricostruzioni sarebbe infatti passato da un passaggio a livello incustodito - e con la barra alzata - ed è stato travolto da un treno che passava in quel punto intorno alle 8:20 di questa mattina, giovedì 16 aprile. Il veicolo, un minivan, è stato gravemente danneggiato nell’impatto con un treno regionale. I circa 25 passeggeri del treno e il conducente sono rimasti illesi, mentre per l’ex portiere non c’è stato nulla da fare nonostante i rapidi soccorsi e i tentativi di rianimazione. Le cause dell’incidente restano ancora da chiarire. Le autorità stanno analizzando i dati elettronici del veicolo e verificando anche il corretto funzionamento del segnale rosso al passaggio a livello. Manninger si trovava da solo in auto al momento dello schianto. "Grazie al tipo di veicolo, è possibile analizzare con precisione i dati elettronici e, di conseguenza, il comportamento del conducente", ha spiegato l'ingegner Gerhard Kronreif, perito incaricato dalla Procura. Si indaga anche sull'effettivo funzionamento del semaforo che avrebbe dovuto indicare con il rosso il divieto di attraversamento dei binari. Nato a Salisburgo, Manninger era stato uno dei portieri più rappresentativi del calcio austriaco. Dopo gli inizi con l’Austria Salzburg, nel 1997 era diventato il primo austriaco a trasferirsi in Premier League con l’Arsenal, vincendo nella stagione 1997/98 il 'double' campionato-FA Cup. Nel corso della carriera aveva giocato in diversi club europei, soprattutto in Italia, tra cui Juventus e Siena, oltre a esperienze con Liverpool e Ausburgo. Con la nazionale austriaca ha collezionato 34 presenze, partecipando anche agli Europei del 2008 come secondo portiere. Manninger aveva concluso la carriera nel 2017. Ad annunciare la sua scomparsa di Alex Manninger è stato il Salisburgo, ex club in cui il portiere ha giocato: "Ci uniamo al cordoglio per il nostro ex portiere Alex Manninger, tragicamente scomparso in un incidente stradale. I nostro pensieri sono con la sua famiglia e i suoi amici. Riposa in pace, Alexander".
+- **Libero**: Alex Manninger, il giallo sull'incidente stradale: su cosa si indaga La scomparsa di Alex Manninger, ex portiere di Juve, Siena e Fiorentina, ha scosso tutto il mondo del calcio. L'austriaco è morto in un incidente stradale, travolto da un treno in corsia mentre con la sua auto si trovava in mezzo al passaggio a livello. La sbarra, secondo quanto si apprende, era alzata. Manniger si trovava da solo in auto al momento dell'impatto con il treno. Le 25 persone a bordo, invece, sono rimaste illese. "Grazie al tipo di veicolo, è possibile analizzare con precisione i dati elettronici e, di conseguenza, il comportamento del conducente", ha spiegato l'ingegner Gerhard Kronreif, perito incaricato dalla Procura. Si indaga anche sull'effettivo funzionamento del semaforo che avrebbe dovuto indicare con il rosso il divieto di attraversamento dei binari. Nato a Salisburgo, Manninger era stato uno dei portieri più rappresentativi del calcio austriaco. Dopo gli inizi con l’Austria Salzburg, nel 1997 era diventato il primo austriaco a trasferirsi in Premier League con l’Arsenal, vincendo nella stagione 1997/98 il 'double' campionato-FA Cup. Nel corso della carriera aveva giocato in diversi club europei, soprattutto in Italia, tra cui Juventus e Siena, oltre a esperienze con Liverpool e Ausburgo. Con la nazionale austriaca ha collezionato 34 presenze, partecipando anche agli Europei del 2008 come secondo portiere. Manninger aveva concluso la carriera nel 2017.
+
+
+## 6. Il Papa: «I governi siano lucidi, serve un esame di coscienza». E Trump torna ad attaccarlo
+
+> **Context:** Ormai è chiaro: tra l'amministrazione Trump e Leone XIV si sta consumando a distanza uno scontro inedito. L'ultimo atto è persino surreale perché scende sul terreno...
+
+- **Fanpage.it**: Scontro USA – Vaticano, Schiavazzi: “Trump ha creato il suo peggior nemico, ora Papa Leone ruggisce” "Il rodaggio è finito, ora il Leone ruggisce". L’analista di Limes, Piero Schiavazzi, spiega a Fanpage.it come lo scontro con Donald Trump abbia consacrato Papa Leone XIV leader globale. Con i suoi attacchi a Prevost, il Tycoon ha commesso un autogol epocale, trasformando l'inquilino del Vaticano nel punto di riferimento dell'opposizione mondiale e nel custode della vera anima americana.Continua a leggere
+- **Il Messaggero**: Il Papa: «I governi siano lucidi, serve un esame di coscienza». E Trump torna ad attaccarlo Ormai è chiaro: tra l'amministrazione Trump e Leone XIV si sta consumando a distanza uno scontro inedito. L'ultimo atto è persino surreale perché scende sul terreno...
+- **Il Giornale**: Da Trump-Gesù a Vance e il terzo round col Papa. "Dio è con l'America". "No a chi spadroneggia" Nuovi attacchi a Prevost: "Gli dicano che l'Iran ha ucciso 42mila civili". Leone: pace non è uno slogan
+
+
+## 7. Trump dice che oggi riprendono i negoziati tra Israele e Libano
+
+- **Fanpage.it**: Iran-USA, la guerra in diretta: Trump annuncia negoziati tra Israele e Libano, Beirut smentisce. Stretto Hormuz ancora chiuso Le ultime news dalla guerra in Iran dopo l'attacco di Israele e USA: Trump parla di conflitto “quasi finito” e di nuovi colloqui “entro due giorni”, poi annuncia la ripresa dei negoziati tra Israele e Libano dopo 34 anni. Ma Beirut smentisce. Gli Usa mantengono il blocco di Hormuz e l’Iran minaccia ritorsioni.Continua a leggere
+- **Il Post**: Trump dice che oggi riprendono i negoziati tra Israele e Libano 
+- **L'Unità**: Libano-Israele, l’annuncio di Trump: “Cessate il fuoco di 10 giorni, risolta la decima guerra nel mondo” Tra Israele e Libano è stato concordato un cessate il fuoco di dieci giorni. Ad annunciarlo sul social Truth è stato il presidente degli Stati Uniti Donald Trump. “Ho appena avuto eccellenti conversazioni con il molto rispettato presidente Joseph Aoun, del Libano, e con il primo ministro Benjamin Netanyahu, di Israele. Questi due leader hanno […]
+
+
+## 8. L’omicidio di Giacomo Bongiorni in un video: telecamere nel centro di Massa mostrano la dinamica dell’aggressione
+
+> **Context:** Le telecamere presenti nel centro di Massa mostrano la dinamica dell'aggressione ai danni di Giacomi Bongiorni, ucciso sotto gli occhi del figlio 11enne. Indagati cinque giovani.
+
+- **La Stampa**: Massa, la versione dei ragazzi: “Era tutto finito, ci ha inseguiti”. Tre telecamere su 4 fuori uso I due maggiorenni dal gip. A disposizione solo un video senza audio. Sul tavolo degli investigatori le ricostruzioni opposte di arrestati e vittime
+- **Fanpage.it**: L’omicidio di Giacomo Bongiorni in un video: telecamere nel centro di Massa mostrano la dinamica dell’aggressione Le telecamere presenti nel centro di Massa mostrano la dinamica dell'aggressione ai danni di Giacomi Bongiorni, ucciso sotto gli occhi del figlio 11enne. Indagati cinque giovani.
+- **Il Giornale**: L'aggressione a Giacomo Bongiorni in un video: cosa mostrano le immagini del pestaggio Pochi ma significativi secondi potrebbero chiarire a chi attribuire le responsabilità per la morte del carpentiere di 47 anni ucciso a Massa
+
+
+## 9. La mossa anti Trump di Meloni: vertice su Hormuz con Macron, Starmer e Merz
+
+> **Context:** La leader sarà venerdì a Parigi a patto che ci sia anche il cancelliere tedesco. Presente pure il premier inglese per discutere di una spedizione nello Stretto
+
+- **La Repubblica**: La mossa anti Trump di Meloni: vertice su Hormuz con Macron, Starmer e Merz La leader sarà venerdì a Parigi a patto che ci sia anche il cancelliere tedesco. Presente pure il premier inglese per discutere di una spedizione nello Stretto
+- **Il Giornale**: L'affondo bis di Trump: "Sull'Iran non ci ha aiutato. Ora il rapporto è cambiato". Meloni: su Hormuz ci siamo. E valuta di andare a Parigi La premier non replica al nuovo attacco. Ma domani potrebbe partecipare in presenza (con Merz) al vertice per sminare lo Stretto convocato da Macron e Starmer
+- **Fanpage.it**: Meloni ora tenta la sponda con Macron e va a Parigi: il piano europeo per riaprire lo stretto di Hormuz “Nel caso te lo fossi perso” è il Podcast di Fanpage.it che ogni giorno alle 18.00 fa il punto sulla notizia più importante del momento, per farti restare sempre aggiornato. Oggi parliamo del piano degli europei per riaprire lo stretto di Hormuz, a cui partecipa anche Giorgia Meloni.Continua a leggere
+
+
+## 10. Marina accusa il Fatto: "Cavernicoli"
+
+> **Context:** Lettera a Dagospia: "La discesa in campo? Fantomatica. Disprezzo da body shaming"
+
+- **Il Messaggero**: Forza Italia, i nodi Sicilia e gruppo Ue. Marina Berlusconi: «Io in campo? Solo fantasie» Non scende in campo ma neanche resta in tribuna. Marina Berlusconi per cominciare rompe il silenzio. Scrive a Dagospia la patron di Fininvest e se la prende con un articolo del Fatto Quotidiano a...
+- **L'Unità**: Il Fatto Quotidiano contro Marina Berlusconi, il “machismo” antico del giornale di Travaglio Marina Berlusconi ha scritto una lettera molto polemica a Dagospia per replicare a un articolo firmato da Pino Corrias sul “Fatto Quotidiano”. Era un articolo tutto contro di lei e contro suo padre. Marina Berlusconi lo ha definito un articolo “cavernicolo” e ha scritto: «Non so se l’articolista abbia una moglie, una figlia, una sorella, […]
+- **Il Giornale**: Marina accusa il Fatto: "Cavernicoli" Lettera a Dagospia: "La discesa in campo? Fantomatica. Disprezzo da body shaming"
+
+
+## 11. Frana di Niscemi, indagati gli ultimi quattro governatori. Anche Musumeci
+
+> **Context:** Tredici indagati, quattro nomi di peso: Nello Musumeci, Renato Schifani, Raffaele Lombardo e Rosario Crocetta. Si tratta del primo step dell’inchiesta per disastro colposo della procura di Gela che sta […] The post Frana di Niscemi, indagati gli ultimi quattro governatori. Anche Musumeci first appeared on il manifesto.
+
+- **La Verità**: La frana di Niscemi travolge la politica: indagati anche gli ultimi quattro governatori «Opere antismottamento mai realizzate»: in Sicilia 13 persone, tra cui Renato Schifani, Rosario Crocetta, Raffaele Lombardo e Nello Musumeci finiscono sotto inchiesta a Gela.Arriva una svolta nelle indagini sulla frana che lo scorso 25 gennaio ha squassato Niscemi, in provincia di Caltanissetta: 13 persone sono finite indagate. Nel corso di una conferenza stampa il procuratore capo di Gela, Salvatore Vella, ha reso noto il numero degli indagati (tra cui ci sono ben quattro presidenti di Regione, tra ex e attuale) che adesso sono accusati di disastro colposo e danneggiamento seguito da frana.Continua a leggere
+- **Il Manifesto**: Frana di Niscemi, indagati gli ultimi quattro governatori. Anche Musumeci Tredici indagati, quattro nomi di peso: Nello Musumeci, Renato Schifani, Raffaele Lombardo e Rosario Crocetta. Si tratta del primo step dell’inchiesta per disastro colposo della procura di Gela che sta […] The post Frana di Niscemi, indagati gli ultimi quattro governatori. Anche Musumeci first appeared on il manifesto.
+- **Il Giornale**: Niscemi, indagati 4 governatori. "Un fiume di denaro mai usato" Contestato il disastro colposo a Lombardo, Crocetta, Musumeci e Schifani. I pm: "Inutilizzati i 12 milioni nelle casse regionali"
+
+
+## 12. Roberto Saviano assolto nel processo per diffamazione a Salvini: lo chiamò “ministro della mala vita”
+
+> **Context:** Lo scrittore Roberto Saviano è stato assolto dall'accusa di diffamazione ai danni di Matteo Salvini, che lo aveva portato in tribunale per averlo chiamato "ministro della mala vita" nel 2018. Il giudice ha stabilito che il fatto non costituisce reato.
+
+- **Fanpage.it**: Roberto Saviano assolto nel processo per diffamazione a Salvini: lo chiamò “ministro della mala vita” Lo scrittore Roberto Saviano è stato assolto dall'accusa di diffamazione ai danni di Matteo Salvini, che lo aveva portato in tribunale per averlo chiamato "ministro della mala vita" nel 2018. Il giudice ha stabilito che il fatto non costituisce reato.
+- **Libero**: Roberto Saviano, definì Salvini "ministro della malavita": assolto Definì Matteo Salvini "ministro della malavita": assolto lo scrittore campano Roberto Saviano, su cui pendeva un'accusa di diffamazione nei confronti dell'attuale vicepremier per via di alcuni post pubblicati sui social nel 2018, quando Salvini era ministro dell'Interno. Lo ha deciso il giudice monocratico del tribunale di Roma. In sua difesa, Saviano aveva affermato che la sua critica nasceva da una posizione culturale e politica ben precisa, citando Salvemini per sottolineare una tradizione di denuncia morale nei confronti del potere. Non è tardato ad arrivare il commento dello scrittore, che ha parlato della sentenza attaccando il vicepremier: "Salvini per anni mi ha perseguitato letteralmente, facendo campagne elettorali su di me. Soprattutto, lo ricorderete, continuando a dichiarare che avrebbe tolto la mia scorta. Questa sentenza ci dimostra che lui aveva preso in considerazione la possibilità di consegnarmi ai clan. Chi chiede di togliere la scorta a chi è scortato dallo Stato, senza tra l'altro addurne una motivazione, sta accettando di consegnare la persona ai clan. Questa sentenza per me, soprattutto, va a sottolineare questo - ha detto a LaPresse -. Voglio dedicarla a chi mi ha difeso, al mio avvocato Antonio Nobile, assieme ad Articolo 21 e a tutte le persone che in questi anni ci sono sempre state. E poi la dedico a Gaetano Salvemini, perché Gaetano Salvemini oggi è stato tantissime volte citato e gli avrebbe fatto piacere di sentire che le sue parole mettono così tanta paura, ancora oggi, al potere". [[ge:kolumbus:liberoquotidiano:47285704]]
+- **Il Giornale**: “Salvini ministro della Mala vita”. E Saviano viene assolto Lo scrittore ha esultato sui social per la decisione del tribunale di Roma: “Legittima ”
+
+
+## 13. Dal Csm assist agli antagonisti: bocciato il dl Sicurezza
+
+> **Context:** Il parere del Consiglio Superiore della Magistratura non è vincolante e ha spaccato i membri: secondo alcuni si è trattata di una ingerenza. I collettivi rilanciano la notizia
+
+- **Il Sole Ventiquattro Ore**: Dl Sicurezza, il Csm approva il parere e accende l’alert sul fermo preventivo: può ampliare la discrezionalità della polizia Il plenum approva il parere sul Dl Sicurezza con 15 voti a favore, 7 contrari e 5 astenuti. Nel documento della Sesta Commissione rilievi anche su manifestazioni pubbliche, 41 bis, collaboratori di giustizia, immigrazione e protezione internazionale
+- **Il Manifesto**: Il Csm boccia il nuovo decreto sicurezza: «Incide sulle libertà» L’ultimo decreto sicurezza «si muove su un crinale costituzionalmente molto sensibile». E ci sono problemi anche con l’articolo 5 della Cedu, quello che parla proprio del diritto alla libertà e […] The post Il Csm boccia il nuovo decreto sicurezza: «Incide sulle libertà» first appeared on il manifesto.
+- **Il Giornale**: Dal Csm assist agli antagonisti: bocciato il dl Sicurezza Il parere del Consiglio Superiore della Magistratura non è vincolante e ha spaccato i membri: secondo alcuni si è trattata di una ingerenza. I collettivi rilanciano la notizia
+
+
+## 14. Se il mercato batte (ancora) la politica
+
+> **Context:** La vittoria, nel corso dell’assemblea del Monte dei Paschi di Siena, della lista dell’imprenditore Pierluigi Tortora, che indicava Cesare Bisoni come presidente e Luigi Lovaglio come ...
+
+- **La Repubblica**: Lovaglio: “Non lascerò Siena”. La rimonta costruita tra azionisti e politici Il banchiere ha sfruttato i rapporti con i grandi fondi e il canale aperto con Giorgetti che lo aveva voluto in quel ruolo
+- **La Stampa**: Se il mercato batte (ancora) la politica La vittoria, nel corso dell’assemblea del Monte dei Paschi di Siena, della lista dell’imprenditore Pierluigi Tortora, che indicava Cesare Bisoni come presidente e Luigi Lovaglio come ...
+- **Il Giornale**: La doccia gelata in Mediobanca Nelle settimane precedenti, molti dipendenti e manager parlando dell'appuntamento non nascondevano di preferire la vittoria della lista del cda che proponeva Fabrizio Palermo come nuovo capo
+
+
+## 15. La mossa Ue: ecco il "green pass" per verificare l'età sui social
+
+> **Context:** L'app presto sugli store online. Von der Leyen: "Sicura, facile e anonima per la sicurezza dei nostri figli"
+
+- **La Stampa**: Social, lo scudo per i minori. Ma le Big Tech si salvano «È compito dei genitori crescere i loro figli, non delle piattaforme», ha dichiarato Ursula von der Leyen presentando contestualmente l’applicazione europea per la verifica dell’età sui ...
+- **ANSA**: Von der Leyen: 'Pronta l'app per verificare l'età sui social' L'Ue istituirà un meccanismo di coordinamento. Il prototipo testato anche in Italia
+- **Il Giornale**: La mossa Ue: ecco il "green pass" per verificare l'età sui social L'app presto sugli store online. Von der Leyen: "Sicura, facile e anonima per la sicurezza dei nostri figli"
+
+
+## 16. Champions: Bayern Monaco e Arsenal in semifinale, fuori Real Madrid e Sporting Lisbona LE FOTO
+
+> **Context:** I tedeschi battono nel ritorno gli spagnoli 4-3. Agli inglesi basta uno 0-0 con i portoghesi
+
+- **La Repubblica**: Bayern-Real è un altro sport, decidono Diaz e Olise. Anche l’Arsenal in semifinale, Sporting ko Grande spettacolo all’Allianz Arena di Monaco: fino all’88’ i blancos erano avanti 3-2, poi i tedeschi hanno messo la freccia e troveranno il Psg
+- **ANSA**: Champions: Bayern Monaco e Arsenal in semifinale, fuori Real Madrid e Sporting Lisbona LE FOTO I tedeschi battono nel ritorno gli spagnoli 4-3. Agli inglesi basta uno 0-0 con i portoghesi
+- **Fanpage.it**: PSG-Bayern Monaco e Atletico Madrid-Arsenal sono le semifinali di Champions League I risultati del ritorno dei quarti: i tedeschi vincono 4-3 contro il Real Madrid al termine di una partita spettacolare. Ai Gunners basta lo 0-0 a Londra contro lo Sporting Lisbona.Continua a leggere
+
+
+## 17. Il piano Ue per l’energia con prezzi calmierati, voucher e fondi del Pnrr
+
+> **Context:** Ecco il programma in 5 punti che la Commissione presenterà mercoledì. Sostegno pubblico ai settori più colpiti dalla crisi per coprire gli extra-costi
+
+- **La Stampa**: Il piano Ue per l’energia con prezzi calmierati, voucher e fondi del Pnrr Ecco il programma in 5 punti che la Commissione presenterà mercoledì. Sostegno pubblico ai settori più colpiti dalla crisi per coprire gli extra-costi
+- **Il Manifesto**: Da Bruxelles il piano anti-rincari, per il governo è un «pannicello caldo» Mentre dal governo Meloni cresce la richiesta di sospendere il patto di stabilità, dalla Commissione Ue è arrivata ieri una bozza del piano, atteso per mercoledì 22 aprile, per fronteggiare […] The post Da Bruxelles il piano anti-rincari, per il governo è un «pannicello caldo» first appeared on il manifesto.
+- **Il Messaggero**: Ue, giù le tasse sull'elettricità nel piano anti-crisi. Copertura extra su caro-carburanti e fertilizzanti Un taglio alle tasse sull'elettricità. Così l'Europa è pronta a fare la sua mossa, al momento, per mettere una toppa (la prima), all'impatto della crisi energetica...
+
+
+## 18. Uccide il gatto nel parco e cerca di cucinarlo per mangiarlo: arrivano i carabinieri a Sarzana
+
+> **Context:** Ha ucciso un gatto e poi ha provato a cucinarlo in un parco pubblico a Sarzana, in provincia di La Spezia. I passanti hanno chiamato i carabinieri, che hanno fermato e denunciato l’uomo, di nazionalità nigeriana. Il fatto è avvenuto vicino all’area giochi, in una zona già segnalata per degrado.Continua a leggere
+
+- **Fanpage.it**: Uccide il gatto nel parco e cerca di cucinarlo per mangiarlo: arrivano i carabinieri a Sarzana Ha ucciso un gatto e poi ha provato a cucinarlo in un parco pubblico a Sarzana, in provincia di La Spezia. I passanti hanno chiamato i carabinieri, che hanno fermato e denunciato l’uomo, di nazionalità nigeriana. Il fatto è avvenuto vicino all’area giochi, in una zona già segnalata per degrado.Continua a leggere
+- **Il Giornale**: Orrore a La Spezia: uccide un gatto e lo cucina nel parco. Fermato un nigeriano Segnalato da alcuni cittadini che hanno assistito alla terribile scena, è stato bloccato al Parco di Crociata di Sarzana dopo aver ucciso e dato fuoco a un gatto con l’intento di mangiarlo
+- **Libero**: Sarzana, nigeriano arrostisce un gatto per mangiarlo: immagini atroci Orrore a Sarzana, dove un uomo - di nazionalità nigeriana - ha dato fuoco a un gatto nell'intento di cibarsene. L'orribile scena a cui hanno assistito diverse persone è avvenuta in un parco pubblico. Proprio qui alcuni cittadini hanno immediatamente allertato carabinieri, polizia e anche il comune, intervenuto tramite l'assessore alla sicurezza Stefano Torri che ha denunciato in un post sui social l'accaduto. L'episodio è avvenuto nel pomeriggio di mercoledì 15 aprile dentro l'area del Parco nel quartiere Crociata, uno spazio verde tra le case attualmente chiuso. È arrivata da lì la segnalazione di alcuni residenti che hanno notato l'uomo intento ad accendere un fuoco. Poi La scoperta choc del corpo della bestiola morta, in mezzo a cartoni bruciati. Sul posto La polizia che ha individuato un uomo di origini straniere risultato irregolare sul territorio e portato poi in commissariato per accertamenti. Al momento non è certo se l'uomo abbia ucciso o meno l'animale o se abbia tentato di dargli fuoco successivamente. I testimoni saranno ascoltati. Al momento è scattato un divieto di avvicinamento di 48 ore all'area del parco, provvedimento che potrebbe essere propedeutico al daspo urbano. Per l'uomo è stato necessario l'intervento di un mediatore culturale perché il soggetto non parla italiano. In caso venisse accertata, potrebbe essere contestata la soppressione di animale e la crudeltà del gesto. [[ge:kolumbus:liberoquotidiano:47215816]] "La nostra posizione è chiara e non ammette repliche - tuona Torri -. Massima severità. Auspichiamo che la giustizia faccia il suo corso con il massimo della severità prevista per i reati contro gli animali. Non tolleriamo zone franche. Chi pensa di poter agire al di fuori delle regole e del rispetto umano e animale in questa città ha sbagliato indirizzo. Repressione e controllo: Non possiamo prevedere i gesti folli di certi soggetti, ma abbiamo il dovere e lA ferma volontà di intervenire, reprimere e punire chiunque mini la sicurezza e il decoro urbano. Prima la sicurezza. Prima la legalità". [[ge:kolumbus:liberoquotidiano:47215052]]
+
+
+## 19. L'Italia è con Kiev. "Al vostro fianco: Occidente diviso regalo a Mosca"
+
+> **Context:** Zelensky da Meloni e al Colle. Siglato un accordo su aiuti e droni antimissili
+
+- **La Stampa**: Trump, nuova sfida all’Italia. “I rapporti sono cambiati”. Meloni: Zelensky amico vero La premier: «Il sostegno a Kiev continua». Mattarella: «Sempre al vostro fianco». Trovato un accordo per la produzione di droni insieme all’Ucraina
+- **Libero**: Mattarella a Zelensky: L'Italia sarà sempre al fianco dell'Ucraina 
+- **Il Giornale**: L'Italia è con Kiev. "Al vostro fianco: Occidente diviso regalo a Mosca" Zelensky da Meloni e al Colle. Siglato un accordo su aiuti e droni antimissili
+
+
+## 20. Bari, bambino di 7 anni precipita dal balcone al settimo piano: è ricoverato in condizioni gravissime
+
+> **Context:** Dramma a Bari, nel quartiere San Paolo. Un bambino di 7 anni è caduto dall'alto da un balcone al settimo piano di una palazzina. Il piccolo ora è ricoverato in gravissime...
+
+- **Adkronos**: Bari, bambino cade dal settimo piano: è gravissimo Il bambino di 8 anni ricoverato in condizioni gravissime
+- **Fanpage.it**: È morto il bambino di 7 anni caduto dal settimo piano a Bari: era da solo in casa con la madre Non ce l’ha fatta il bambino di 7 anni precipitato dal settimo piano a Bari, nel quartiere San Paolo. È morto al Policlinico dopo il ricovero in condizioni disperate. Era in casa con la madre, il padre è detenuto.Continua a leggere
+- **Fanpage.it**: Bari, bimbo di 6 anni precipita dal sesto piano: ricoverato in condizioni disperate al Policlinico I fatti, la cui dinamica è ancora in fase di accertamento, sono avvenuti tra il tardo pomeriggio e la prima serata di mercoledì 15 aprile in una palazzina del quartiere San Paolo. Il bambino è ricoverato in condizioni disperate al Policlinico di Bari.Continua a leggere
+- **Il Messaggero**: Bari, bambino di 7 anni precipita dal balcone al settimo piano: è ricoverato in condizioni gravissime Dramma a Bari, nel quartiere San Paolo. Un bambino di 7 anni è caduto dall'alto da un balcone al settimo piano di una palazzina. Il piccolo ora è ricoverato in gravissime...
+
+
+
+</clustered_headlines>
+
+
+<other_headlines>
+<article source="ANSA" date="Wed, 15 Apr 2026 22:35:14 +0200">
+Sparatoria in una scuola media in Turchia, almeno nove morti
+Il killer uno studente che si è suicidato. Il secondo episodio nel paese in due giorni
+</article>
+<article source="ANSA" date="Wed, 15 Apr 2026 22:33:02 +0200">
+La prima mossa di Magyar, 'media di Stato propaganda, li chiuderò'
+Il premier in pectore attacca dai canali pubblici. A inizio maggio l'incarico
+</article>
+<article source="ANSA" date="Wed, 15 Apr 2026 22:28:57 +0200">
+"La violenza economica sia un reato", la Commissione femminicidio approva la relazione
+'A scuola e all'università educazione all'autonomia economica'
+</article>
+<article source="ANSA" date="Wed, 15 Apr 2026 22:19:16 +0200">
+Il personal trainer ucciso a Foggia, la pista del killer arrivato in bici
+Video di un uomo incappucciato sul luogo delitto. Il pm: "Su di lui si addensano i sospetti"
+</article>
+<article source="ANSA" date="Wed, 15 Apr 2026 22:08:28 +0200">
+Trump evoca l'intesa ad aprile, si lavora al rinnovo della tregua
+Verso un nuovo round di negoziati con Vance. Il tycoon non molla e invia altri 10.000 soldati
+</article>
+<article source="ANSA" date="Wed, 15 Apr 2026 21:59:09 +0200">
+La rete dell'odio online, così diventa virale
+Mappa dell'intolleranza n.9 emergono de-umanizzazione, misoginia strutturale e donne odiatrici
+</article>
+<article source="ANSA" date="Wed, 15 Apr 2026 21:30:39 +0200">
+Abbuffate alcoliche per 4,5 milioni di italiani, 79mila hanno meno di 18 anni
+Rapporto Iss, nel 2024 8 milioni e 200mila consumatori a rischio e 730mila hanno già danni
+</article>
+<article source="Adkronos" date="Wed, 15 Apr 2026 23:52:17 +0200">
+Pechino Express, domani la nuova tappa in Cina con le coppie 'mixate'
+Chi conquisterà il biglietto più importante e potrà proseguire la corsa nel 'Paese del dragone'?
+</article>
+<article source="Adkronos" date="Wed, 15 Apr 2026 23:39:00 +0200">
+Camminare di pomeriggio è meglio per la glicemia, lo studio e l'orario ideale
+Camminare di pomeriggio è meglio per controllare la glicemia, soprattutto per le persone affette da diabete tipo 2. Ecco cosa dice la review scientifica e perché l’orario fa la differenza
+</article>
+<article source="Adkronos" date="Wed, 15 Apr 2026 23:36:25 +0200">
+Ictus in carcere per Ratko Mladic, il Macellaio di Bosnia "in condizioni molto gravi"
+L'83enne è detenuto all'Aia dove sta scontando una condanna all'ergastolo per genocidio e crimini di guerra durante la guerra in Bosnia negli anni '90
+</article>
+<article source="Adkronos" date="Wed, 15 Apr 2026 22:43:51 +0200">
+Borges serve dal basso sul match point, Etcheverry 'offeso'. E Barcellona fischia
+Il tennista portoghese ha battuto l'argentino negli ottavi dell'Atp 500 tra i fischi
+</article>
+<article source="Adkronos" date="Wed, 15 Apr 2026 22:03:00 +0200">
+Alcaraz si ritira da Barcellona, Sinner allunga al numero 1. Come cambia ranking
+Il tennista spagnolo ha dato forfait nel 500 spagnolo per infortunio
+</article>
+<article source="Adkronos" date="Wed, 15 Apr 2026 21:42:03 +0200">
+Uno spray nasale ferma l'invecchiamento del cervello, lo studio
+E' stato testato su modelli animali in 2 dosi: ha dimostrato di migliorare la memoria e dissipare la 'nebbia mentale' in poche settimane
+</article>
+<article source="Governo Italiano - Comunicati Stampa" date="Thu, 16 Apr 2026 19:50:28 +0200">
+Cessate il fuoco tra Libano e Israele, dichiarazione del Presidente Meloni
+L’annuncio di un cessate il fuoco tra Libano e Israele è un’eccellente notizia e mi congratulo con i Governi libanese e israeliano per aver raggiunto questo importante risultato grazie alla mediazione degli Stati Uniti. È ora fondamentale che il cessate il fuoco sia pienamente rispettato. Hezbollah, che ha la responsabilità di aver dato il via a questo conflitto, deve cessare ogni azione contro Israele e rispettare le decisioni assunte dal Governo libanese. Auspico inoltre che il cessate il fuoco possa creare le condizioni per il successo dei negoziati tra Israele e Libano portando ad una pace piena e duratura. [...]
+</article>
+<article source="Il Post" date="Thu, 16 Apr 2026 18:14:25 GMT">
+Trump dice che Israele e Libano hanno concordato un cessate il fuoco di 10 giorni
+</article>
+<article source="Il Post" date="Thu, 16 Apr 2026 02:10:28 GMT">
+Speciale – C’è voglia di negoziato
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Wed, 15 Apr 2026 20:30:15 GMT">
+Il comunicato della Fieg
+Gli editori della Fieg, fin dall’inizio dell’avvio del confronto per il rinnovo contrattuale, hanno rappresentato la necessità di un cambiamento sostanziale delle regole contrattuali per recuperare efficienza e produttività e...
+</article>
+</other_headlines>
