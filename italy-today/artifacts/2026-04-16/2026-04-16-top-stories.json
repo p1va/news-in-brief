@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "generated_at": "Thu 16 Apr 14:03",
+  "generated_at": "Thu 16 Apr 15:52",
   "stories": [
     {
       "rank": 1,
@@ -75,7 +75,7 @@
       "rank": 4,
       "title": "Mattarella a Zelensky \"L'Italia sarà sempre al fianco dell'Ucraina\"",
       "source_count": 3,
-      "article_count": 10,
+      "article_count": 9,
       "source_domains": [
         "ilgiornale.it",
         "liberoquotidiano.it",
@@ -111,25 +111,6 @@
     },
     {
       "rank": 6,
-      "title": "Il personal trainer ucciso a Foggia, la pista del killer arrivato in bici",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-nera/foggia-killer-bici-e-laudio-choc-2652060.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/15/il-personal-trainer-ucciso-a-foggia-la-pista-del-killer-arrivato-in-bici_19771805-fee7-4408-b054-dae0a9e7e7ae.html",
-        "https://www.liberoquotidiano.it/news/pillole/47296053/foggia_omicidio_personal_trainer_al_tg1_il_video_del_presunto_killer/",
-        "https://www.ilgiornale.it/news/cronaca-nera/che-fai-mi-ammazzi-l-audio-choc-dellomicidio-personal-2651888.html",
-        "https://www.ilmessaggero.it/italia/dino_carta_che_fai_mi_spari_audio_personal_trainer_ucciso-9476570.html"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Marina Berlusconi: \"Io scendere in campo? Fantasie. Dal Fatto disprezzo cavernicolo per il genere femminile\"",
       "source_count": 4,
       "article_count": 5,
@@ -148,7 +129,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Champions: il Bayern elimina il Real, in semifinale anche l'Arsenal",
       "source_count": 4,
       "article_count": 4,
@@ -163,6 +144,24 @@
         "https://www.repubblica.it/sport/calcio/champions/2026/04/15/news/bayern_real_arsenal_sporting_champions_quarti-425287032/",
         "https://www.fanpage.it/sport/calcio/bayern-monaco-psg-e-arsenal-atletico-madrid-sono-le-semifinali-di-champions-league/",
         "https://www.lastampa.it/sport/2026/04/15/news/champions_bayern_real_madrid_risultato-15586801/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "L’omicidio di Giacomo Bongiorni in un video: telecamere nel centro di Massa mostrano la dinamica dell’aggressione",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-nera/laggressione-giacomo-bongiorni-video-cosa-mostrano-immagini-2652230.html",
+        "https://www.fanpage.it/attualita/lomicidio-di-giacomo-bongiorni-in-un-video-telecamere-nel-centro-di-massa-mostrano-la-dinamica-dellaggressione/",
+        "https://www.lastampa.it/cronaca/2026/04/15/news/massa_la_versione_dei_ragazzi_era_tutto_finito_ci_ha_inseguiti_tre_telecamere_su_4_fuori_uso-15586740/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/15/una-testata-di-bongiorni-al-mio-amico-non-labbiamo-sfiorato_bf3e8454-819e-442e-8a42-94f12ae5c688.html"
       ]
     },
     {
@@ -185,19 +184,20 @@
     },
     {
       "rank": 10,
-      "title": "L’espulsione di Camavinga cambia Bayern-Real: dubbi per la reazione dell’arbitro Vincic dopo il giallo",
-      "source_count": 2,
-      "article_count": 5,
+      "title": "Alex Manninger è morto a 48 anni, tragico incidente con un treno per l’ex portiere della Juventus",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
-        "fanpage.it",
-        "adnkronos.com"
+        "ilgiornale.it",
+        "unita.it",
+        "liberoquotidiano.it",
+        "fanpage.it"
       ],
       "links": [
-        "https://www.fanpage.it/sport/calcio/sneijder-camavinga-stupido-i-calciatori-del-real-dovevano-correre-da-lui-negli-spogliatoi/",
-        "https://www.fanpage.it/sport/calcio/carvajal-inveisce-contro-larbitro-dopo-lespulsione-di-camavinga-in-champions-e-colpa-tua/",
-        "https://www.fanpage.it/sport/calcio/vinicius-esplode-contro-bellingham-nel-momento-piu-difficile-di-bayern-real-madrid-tappati-la-bocca/",
-        "https://www.fanpage.it/sport/calcio/lespulsione-di-camavinga-cambia-bayern-real-dubbi-per-la-reazione-dellarbitro-vincic-dopo-il-giallo/",
-        "https://www.adnkronos.com/sport/camavinga-rosso-bayern-real-caos-spagna-cose-successo_2CYXsWxRkPUPcv9on9jBDF"
+        "https://www.ilgiornale.it/news/calcio/choc-nel-mondo-calcio-alexander-manninger-muore-incidente-2652222.html",
+        "https://www.unita.it/2026/04/16/morto-alexander-manninger-ex-portiere-juventus-incidente-stradale-austria/",
+        "https://www.liberoquotidiano.it/news/sport/47303949/alex-manninger-morto-ex-juventus-fatale-incidente-stradale/",
+        "https://www.fanpage.it/sport/calcio/alex-manninger-e-morto-a-48-anni-tragico-incidente-con-un-treno-per-lex-portiere-della-juventus/"
       ]
     }
   ]
