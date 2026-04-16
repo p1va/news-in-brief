@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "generated_at": "Thu 16 Apr 07:59",
+  "generated_at": "Thu 16 Apr 09:30",
   "stories": [
     {
       "rank": 1,
@@ -46,6 +46,28 @@
     },
     {
       "rank": 3,
+      "title": "Lovaglio si riprende Mps, battuta la lista del cda",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "unita.it",
+        "laverita.info",
+        "ilmanifesto.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.unita.it/2026/04/16/mps-lovaglio-eletto-amministratore-delegato-del-vecchio-caltagirone/",
+        "https://www.laverita.info/lovaglio-torna-ad-in-mps-2676749168.html",
+        "https://ilmanifesto.it/mps-dopo-il-conflitto-e-tornato-lovaglio",
+        "https://www.ansa.it/sito/notizie/economia/2026/04/15/lovaglio-si-riprende-mps-battuta-la-lista-del-cda_c3b9bfb7-4c18-4b13-869b-8ddc5a294bc2.html",
+        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/04/15/news/se_il_mercato_batte_ancora_la_politica-15586648/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Sciopero dei giornalisti oggi 16 aprile. La nota Fnsi e il comunicato Fieg",
       "source_count": 7,
       "article_count": 7,
@@ -64,27 +86,6 @@
         "https://www.adnkronos.com/economia/sciopero-dei-giornalisti-oggi-16-aprile-la-nota-fnsi-e-il-comunicato-fieg_1CZ9gmuv494j5CemdJAz1o",
         "https://www.lastampa.it/economia/2026/04/15/news/la_stampa_sciopero_contratto_di_lavoro-15586762/",
         "https://www.ansa.it/sito/notizie/politica/2026/04/15/sciopero-dei-giornalisti-il-16-aprile.-le-ragioni-dellfnsi.-la-nota-fieg-necessita-di-un-cambio_6fb4b8e5-4d8c-46b4-89bf-013d4f9a7dab.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Lovaglio si riprende Mps, battuta la lista del cda",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "laverita.info",
-        "ilmanifesto.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.laverita.info/lovaglio-torna-ad-in-mps-2676749168.html",
-        "https://ilmanifesto.it/mps-dopo-il-conflitto-e-tornato-lovaglio",
-        "https://www.ansa.it/sito/notizie/economia/2026/04/15/lovaglio-si-riprende-mps-battuta-la-lista-del-cda_c3b9bfb7-4c18-4b13-869b-8ddc5a294bc2.html",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/04/15/news/se_il_mercato_batte_ancora_la_politica-15586648/",
-        "https://www.ilmessaggero.it/economia/news/assemblea_mps_via_libera_al_nuovo_board_prima_la_lista_plt_holding_con_lovaglio-9476746.html"
       ]
     },
     {
@@ -181,19 +182,20 @@
     },
     {
       "rank": 10,
-      "title": "Cesena: violenza di gruppo in casa di amici, 7 giovani indagati. Avevano anche filmato gli abusi",
-      "source_count": 3,
+      "title": "Marina Berlusconi: \"Io scendere in campo? Fantasie. Dal Fatto disprezzo cavernicolo per il genere femminile\"",
+      "source_count": 4,
       "article_count": 4,
       "source_domains": [
-        "ilgiornale.it",
+        "unita.it",
         "ilmessaggero.it",
-        "lastampa.it"
+        "ilgiornale.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/nazionale/maggiorenni-e-origine-straniera-chi-branco-accusato-dello-2652065.html",
-        "https://www.ilgiornale.it/news/nazionale/droga-poi-stupro-branco-e-immagini-degli-abusi-negli-2651841.html",
-        "https://www.ilmessaggero.it/italia/ragazza_violentata_cesena_festa_video_amici-9476505.html",
-        "https://www.lastampa.it/cronaca/2026/04/15/news/cesena_violenza_casa_filmati_sette_giovani_indagati-15586021/"
+        "https://www.unita.it/2026/04/16/il-fatto-quotidiano-contro-marina-berlusconi-il-machismo-antico-del-giornale-di-travaglio/",
+        "https://www.ilmessaggero.it/politica/forza_italia_marina_berlusconi-9476962.html",
+        "https://www.ilgiornale.it/news/interni/marina-berlusconi-io-scendere-campo-fantasie-fatto-disprezzo-2651770.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/04/15/marina-berlusconi-contro-il-fatto-discesa-in-campo-fantasie-disprezzano-le-donne_0c18e7bb-9ef3-4449-a581-4b5a39762047.html"
       ]
     }
   ]
