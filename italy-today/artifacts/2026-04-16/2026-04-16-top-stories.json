@@ -1,6 +1,6 @@
 {
   "date": "2026-04-16",
-  "generated_at": "Thu 16 Apr 17:24",
+  "generated_at": "Thu 16 Apr 19:26",
   "stories": [
     {
       "rank": 1,
@@ -69,21 +69,20 @@
     },
     {
       "rank": 4,
-      "title": "Marina Berlusconi: \"Io scendere in campo? Fantasie. Dal Fatto disprezzo cavernicolo per il genere femminile\"",
-      "source_count": 4,
-      "article_count": 5,
+      "title": "Rapina in banca all’Arenella: criminali si barricano dentro, carabinieri sul posto",
+      "source_count": 3,
+      "article_count": 6,
       "source_domains": [
+        "fanpage.it",
         "ilgiornale.it",
-        "unita.it",
-        "ilmessaggero.it",
-        "ansa.it"
+        "unita.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/marina-accusa-fatto-cavernicoli-2651939.html",
-        "https://www.unita.it/2026/04/16/il-fatto-quotidiano-contro-marina-berlusconi-il-machismo-antico-del-giornale-di-travaglio/",
-        "https://www.ilmessaggero.it/politica/forza_italia_marina_berlusconi-9476962.html",
-        "https://www.ilgiornale.it/news/interni/marina-berlusconi-io-scendere-campo-fantasie-fatto-disprezzo-2651770.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/15/marina-berlusconi-contro-il-fatto-discesa-in-campo-fantasie-disprezzano-le-donne_0c18e7bb-9ef3-4449-a581-4b5a39762047.html"
+        "https://www.fanpage.it/napoli/il-ruolo-dei-gis-di-livorno-nella-rapina-in-banca-a-napoli-e-i-motivi-dellintervento-a-distanza-di-ore/",
+        "https://www.fanpage.it/napoli/la-dinamica-della-rapina-in-banca-a-napoli-i-banditi-avevano-maschere-da-attori-il-racconto-degli-ostaggi/",
+        "https://www.ilgiornale.it/news/nazionale/assalto-banca-nel-cuore-napoli-liberati-i-25-ostaggi-i-2652228.html",
+        "https://www.fanpage.it/napoli/live/rapina-a-napoli-diretta-video-dallarenella-a-breve-lirruzione-delle-forze-speciali-nella-banca-credit-agricole/",
+        "https://www.unita.it/2026/04/16/rapina-banca-napoli-ostaggi-filiale-piazza-medaglie-oro-paura-arenella/"
       ]
     },
     {
@@ -107,24 +106,6 @@
     },
     {
       "rank": 6,
-      "title": "Champions: il Bayern elimina il Real, in semifinale anche l'Arsenal",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "fanpage.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/15/champions-bayern-monaco-e-arsenal-in-semifinale-fuori-real-madrid-e-sporting-lisbona_158bb3ee-937a-41e3-b410-a553471d91f8.html",
-        "https://www.repubblica.it/sport/calcio/champions/2026/04/15/news/bayern_real_arsenal_sporting_champions_quarti-425287032/",
-        "https://www.fanpage.it/sport/calcio/bayern-monaco-psg-e-arsenal-atletico-madrid-sono-le-semifinali-di-champions-league/",
-        "https://www.lastampa.it/sport/2026/04/15/news/champions_bayern_real_madrid_risultato-15586801/"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Mps, Lovaglio messo alla porta ma rieletto amministratore delegato grazie a Del Vecchio e BPM: Caltagirone grande sconfitto",
       "source_count": 4,
       "article_count": 4,
@@ -142,25 +123,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "L’omicidio di Giacomo Bongiorni in un video: telecamere nel centro di Massa mostrano la dinamica dell’aggressione",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-nera/laggressione-giacomo-bongiorni-video-cosa-mostrano-immagini-2652230.html",
-        "https://www.fanpage.it/attualita/lomicidio-di-giacomo-bongiorni-in-un-video-telecamere-nel-centro-di-massa-mostrano-la-dinamica-dellaggressione/",
-        "https://www.lastampa.it/cronaca/2026/04/15/news/massa_la_versione_dei_ragazzi_era_tutto_finito_ci_ha_inseguiti_tre_telecamere_su_4_fuori_uso-15586740/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/15/una-testata-di-bongiorni-al-mio-amico-non-labbiamo-sfiorato_bf3e8454-819e-442e-8a42-94f12ae5c688.html"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "title": "Fiorentina-Crystal Palace: orario, probabili formazioni e dove vederla in tv",
       "source_count": 2,
       "article_count": 6,
@@ -177,21 +140,53 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Uccide un gatto nel parco e cerca di cucinarlo, choc a Sarzana. L'uomo è stato denunciato",
-      "source_count": 4,
+      "rank": 8,
+      "title": "L’espulsione di Camavinga cambia Bayern-Real: dubbi per la reazione dell’arbitro Vincic dopo il giallo",
+      "source_count": 2,
+      "article_count": 5,
+      "source_domains": [
+        "fanpage.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/calcio/sneijder-camavinga-stupido-i-calciatori-del-real-dovevano-correre-da-lui-negli-spogliatoi/",
+        "https://www.fanpage.it/sport/calcio/carvajal-inveisce-contro-larbitro-dopo-lespulsione-di-camavinga-in-champions-e-colpa-tua/",
+        "https://www.fanpage.it/sport/calcio/vinicius-esplode-contro-bellingham-nel-momento-piu-difficile-di-bayern-real-madrid-tappati-la-bocca/",
+        "https://www.fanpage.it/sport/calcio/lespulsione-di-camavinga-cambia-bayern-real-dubbi-per-la-reazione-dellarbitro-vincic-dopo-il-giallo/",
+        "https://www.adnkronos.com/sport/camavinga-rosso-bayern-real-caos-spagna-cose-successo_2CYXsWxRkPUPcv9on9jBDF"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Bari, bambino di 7 anni precipita dal balcone al settimo piano: è ricoverato in condizioni gravissime",
+      "source_count": 3,
       "article_count": 4,
       "source_domains": [
-        "liberoquotidiano.it",
         "fanpage.it",
-        "ilgiornale.it",
+        "adnkronos.com",
         "ilmessaggero.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/terra-promessa/47298605/sarzano-nigeriano-arrostisce-gatto-mangiarlo/",
-        "https://www.fanpage.it/attualita/uccide-il-gatto-nel-parco-e-cerca-di-cucinarlo-per-mangiarlo-arrivano-i-carabinieri-a-sarzana/",
-        "https://www.ilgiornale.it/news/cronaca-locale/orrore-spezia-uccide-gatto-e-cucina-nel-parco-fermato-2651903.html",
-        "https://www.ilmessaggero.it/italia/uccide_gatto_cucina_parco_sarzana-9476857.html"
+        "https://www.fanpage.it/attualita/e-morto-il-bambino-di-6-anni-caduto-dal-settimo-piano-a-bari-era-da-solo-in-casa-con-la-madre/",
+        "https://www.fanpage.it/attualita/bari-bimbo-di-6-anni-precipita-dal-sesto-piano-ricoverato-in-condizioni-disperate-al-policlinico/",
+        "https://www.adnkronos.com/cronaca/bari-bambino-cade-ricoverato_5lRPZPprqkSYUHyv17HWn",
+        "https://www.ilmessaggero.it/italia/bari_bambino_cade_balcone_palazzo_ultime_notizie-9477009.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Dal Csm assist agli antagonisti: bocciato il dl Sicurezza",
+      "source_count": 3,
+      "article_count": 3,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilmanifesto.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/nazionale/csm-assist-agli-antagonisti-bocciato-dl-sicurezza-2652117.html",
+        "https://ilmanifesto.it/il-csm-boccia-il-nuovo-decreto-sicurezza-incide-sulle-liberta",
+        "https://www.ilsole24ore.com/art/dl-sicurezza-csm-approva-parere-e-accende-l-alert-fermo-preventivo-puo-ampliare-discrezionalita-polizia-AIne4pWC"
       ]
     }
   ]
