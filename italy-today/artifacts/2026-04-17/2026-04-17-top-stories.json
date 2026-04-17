@@ -1,9 +1,36 @@
 {
   "date": "2026-04-17",
-  "generated_at": "Fri 17 Apr 11:05",
+  "generated_at": "Fri 17 Apr 13:45",
   "stories": [
     {
       "rank": 1,
+      "title": "Napoli, rapina in banca: 25 persone in ostaggio, poi la fuga dei banditi mascherati da attori nella rete fognaria",
+      "source_count": 12,
+      "article_count": 16,
+      "source_domains": [
+        "laverita.info",
+        "adnkronos.com",
+        "ansa.it",
+        "ilgiornale.it",
+        "unita.it",
+        "napoli.repubblica.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "agi.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.laverita.info/rapina-napoli-video-2676756911.html",
+        "https://www.adnkronos.com/cronaca/rapina-in-banca-a-napoli-investigatori-ricostruiscono-via-di-fuga-e-arrivo-dei-banditi-ultime-notizie_6ufqzy222nehCg7LGUtCal",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/17/caccia-alluomo-dopo-la-rapina-con-ostaggi-in-banca-a-napoli_075aff2d-827a-420e-92e5-3278a1bc2281.html",
+        "https://www.ilgiornale.it/news/cronaca-nera/blitz-ostaggi-e-fuga-rapina-film-2652480.html",
+        "https://www.unita.it/2026/04/17/colpo-grosso-banca-buco-napoli-dipendenti-clienti-ostaggio-cassette-svaligiate-caccia-banditi-fuga/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Medio Oriente: Scattata la tregua di 10 giorni fra Israele e Libano",
       "source_count": 11,
       "article_count": 14,
@@ -29,62 +56,14 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Napoli, rapina in banca: 25 persone in ostaggio, poi la fuga dei banditi mascherati da attori nella rete fognaria",
+      "rank": 3,
+      "title": "Meloni all'Eliseo per il vertice di Parigi. Al via il tavolo per sminare Hormuz",
       "source_count": 9,
       "article_count": 13,
       "source_domains": [
         "ansa.it",
         "ilgiornale.it",
-        "unita.it",
-        "napoli.repubblica.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/17/caccia-alluomo-dopo-la-rapina-con-ostaggi-in-banca-a-napoli_075aff2d-827a-420e-92e5-3278a1bc2281.html",
-        "https://www.ilgiornale.it/news/cronaca-nera/blitz-ostaggi-e-fuga-rapina-film-2652480.html",
-        "https://www.unita.it/2026/04/17/colpo-grosso-banca-buco-napoli-dipendenti-clienti-ostaggio-cassette-svaligiate-caccia-banditi-fuga/",
-        "https://napoli.repubblica.it/cronaca/2026/04/17/news/napoli_rapina_banca_arenella_news_oggi-425287872/",
-        "https://www.liberoquotidiano.it/news/libero-video/47312665/napoli-rapina-banca-ostaggi-caccia-banditi-armati-fuga/"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Alex Manninger, morto l’ex portiere della Juve: la sua auto travolta da un treno in Austria",
-      "source_count": 9,
-      "article_count": 12,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "unita.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/calcio/manninger-indagini-sul-passaggio-livello-cosa-pu-essere-2652512.html",
-        "https://www.fanpage.it/sport/calcio/alex-manninger-e-i-dubbi-sullincidente-mortale-conosceva-bene-quel-passaggio-a-livello-incustodito/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/17/morto-in-un-incidente-stradale-a-48-anni-lex-portiere-austriaco-manninger_790f630b-8ea4-4063-9304-db6e9cd98692.html",
-        "https://www.ilmessaggero.it/persone/alex_manninger_incidente_morto_eta_chi_era-9478359.html",
-        "https://www.lastampa.it/sport/2026/04/17/news/alex_manninger_ex_portiere_morto-15587423/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Meloni oggi a Parigi, Europa discute piano per Stretto di Hormuz",
-      "source_count": 9,
-      "article_count": 11,
-      "source_domains": [
         "governo.it",
-        "ilgiornale.it",
-        "ansa.it",
         "repubblica.it",
         "laverita.info",
         "ilfattoquotidiano.it",
@@ -93,21 +72,46 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/04/17/al-via-a-parigi-il-vertice-su-hormuz-i-leader-alleliseo-da-macron_12b34e13-6f53-4b4a-afb9-62919d9d2228.html",
+        "https://www.ilgiornale.it/news/guerra/meloni-vertice-parigi-tavolo-sminare-hormuz-2652687.html",
         "https://www.governo.it/it/articolo/partecipazione-alla-conferenza-sulla-navigazione-marittima-nello-stretto-di-hormuz/31562",
         "https://www.ilgiornale.it/news/politica/meloni-soddisfatta-nuova-tregua-vertice-alleliseo-nodo-2652335.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/17/meloni-attesa-a-parigi-alle-14-il-summit-su-hormuz-alleliseo_12b34e13-6f53-4b4a-afb9-62919d9d2228.html",
-        "https://www.repubblica.it/esteri/2026/04/17/news/vertice_volenterosi_parigi_stretto_hormuz_meloni_macron_merz_starmer_posizioni-425287773/",
-        "https://www.repubblica.it/politica/2026/04/17/news/meloni_parigi_vertice_guerra_hormuz_macron_merz_starmer_oggi-425287640/"
+        "https://www.ansa.it/sito/notizie/politica/2026/04/17/meloni-attesa-a-parigi-alle-14-il-summit-su-hormuz-alleliseo_12b34e13-6f53-4b4a-afb9-62919d9d2228.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Alex Manninger, morto l’ex portiere della Juve: la sua auto travolta da un treno in Austria",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/17/manninger-incidente-passaggio-livello-indagini-news/8358098/",
+        "https://www.ilgiornale.it/news/calcio/manninger-indagini-sul-passaggio-livello-cosa-pu-essere-2652512.html",
+        "https://www.fanpage.it/sport/calcio/alex-manninger-e-i-dubbi-sullincidente-mortale-conosceva-bene-quel-passaggio-a-livello-incustodito/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/17/morto-in-un-incidente-stradale-a-48-anni-lex-portiere-austriaco-manninger_790f630b-8ea4-4063-9304-db6e9cd98692.html",
+        "https://www.ilmessaggero.it/persone/alex_manninger_incidente_morto_eta_chi_era-9478359.html"
       ]
     },
     {
       "rank": 5,
       "title": "Allarme jet fuel per l’estate. Birol: “In Europa il carburante per aerei basterà per sei settimane”",
-      "source_count": 6,
-      "article_count": 7,
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
         "unita.it",
         "ilgiornale.it",
+        "liberoquotidiano.it",
+        "laverita.info",
         "ilfattoquotidiano.it",
         "repubblica.it",
         "ilmessaggero.it",
@@ -116,9 +120,9 @@
       "links": [
         "https://www.unita.it/2026/04/17/voli-a-rischio-estate-europa-carburante-diritti-passeggeri/",
         "https://www.ilgiornale.it/news/politica/sei-settimane-dello-stop-aereo-2652340.html",
-        "https://www.ilfattoquotidiano.it/2026/04/17/crisi-carburante-aereo-europa-riserve/8357587/",
-        "https://www.repubblica.it/economia/2026/04/17/news/carburante_aerei_cherosene_europa_allarme_sei_settimane-425287719/",
-        "https://www.ilmessaggero.it/economia/news/aerei_carburante_finito_6_settimane_voli_a_rischio-9478361.html"
+        "https://www.liberoquotidiano.it/news/europa/47314816/aerei-punto-rottura-carburante-sei-settimane-poco-piu/",
+        "https://www.laverita.info/klm-taglia-160-voli-carburante-2676756227.html",
+        "https://www.ilfattoquotidiano.it/2026/04/17/crisi-carburante-aereo-europa-riserve/8357587/"
       ]
     },
     {
@@ -144,27 +148,47 @@
     },
     {
       "rank": 7,
-      "title": "Ucraina, almeno 17 morti e 100 feriti nei raid russi di ieri",
+      "title": "Pensa di citare la Bibbia invece è una frase di Pulp Fiction, la gaffe di Pete Hegseth",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
-        "repubblica.it",
-        "ilgiornale.it",
+        "liberoquotidiano.it",
         "ansa.it",
-        "ilmanifesto.it",
-        "unita.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.repubblica.it/esteri/2026/04/17/news/russia_ucraina_guerra_raid_vittime_news-425288249/",
-        "https://www.ilgiornale.it/news/guerra/kiev-notte-missili-e-stragi-riparte-lescalation-mosca-2652475.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/17/ucraina-almeno-17-morti-e-100-feriti-nei-raid-russi-di-ieri_4df72574-311b-42db-90a6-870720539178.html",
-        "https://ilmanifesto.it/massiccia-ondata-di-raid-sullucraina-17-morti-e-oltre-100-feriti",
-        "https://www.unita.it/2026/04/16/ucraina-attacco-russo-kiev-odessa-missili-droni-morti/"
+        "https://www.liberoquotidiano.it/news/esteri/47316193/usa-pete-hegseth-pulp-fiction-bibbia/",
+        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/04/17/virale-il-video-di-hegseth-che-vuole-citare-la-bibbia-ma-e-pulp-fiction_8eceefe4-0787-4830-863b-89b37c4c9a52.html",
+        "https://www.ilfattoquotidiano.it/2026/04/17/hegseth-pulp-fiction-bibbia-pentagono-notizie/8357609/",
+        "https://www.adnkronos.com/internazionale/esteri/pensa-di-citare-la-bibbia-invece-e-una-frase-di-pulp-fiction-la-gaffe-di-pete-hegseth-video_79bx1sRI5TsM5odGOWHJ74",
+        "https://www.lastampa.it/esteri/2026/04/17/video/usa_hegseth_vuole_citare_la_bibbia_ma_e_la_scena_di_pulp_fiction_la_gaffe_del_capo_del_pentagono-15587517/"
       ]
     },
     {
       "rank": 8,
+      "title": "Dl Sicurezza, via libera al Senato con 96 sì: cartelli e proteste dalle opposizioni",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47316222/approvato-dl-sicurezza-in-senato-con-96-voti-favorevoli-le-opposizioni-protestano/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47315292/dl-sicurezza-opposizioni-con-cartelli-in-aula-senato-con-governo-meloni-zero-sicurezza-/",
+        "https://www.ilgiornale.it/news/interni/dl-sicurezza-libera-senato-96-s-cartelli-e-proteste-dalle-2652546.html",
+        "https://www.fanpage.it/politica/senato-approva-il-decreto-sicurezza-ora-la-destra-corre-per-non-farlo-scadere-sara-scontro-alla-camera/",
+        "https://www.repubblica.it/politica/2026/04/17/news/decreto_sicurezza_governo_meloni_senato_oggi-425287726/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Giacomo Bongiorni, l'autopsia: «Gravissima emorragia, la mandibola spostata per i colpi»",
       "source_count": 5,
       "article_count": 6,
@@ -184,26 +208,6 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Leone: \"Guai a usare Dio per i conflitti\"",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/frecciata-vance-e-guerra-giusta-mediatori-gi-lavoro-ricucire-2652337.html",
-        "https://www.ilgiornale.it/news/politica/leone-guai-usare-dio-i-conflitti-2652336.html",
-        "https://www.ilmessaggero.it/vaticano/papa_leone_contro_trump_tiranni_religione_cosa_ha_detto-9478630.html",
-        "https://www.repubblica.it/esteri/2026/04/17/news/papa_leone_xiv_mondo_devastato_da_una_manciata_di_tiranni_guerra_iran_trump-425287427/",
-        "https://ilmanifesto.it/il-papa-insiste-guai-a-chi-usa-dio-per-la-guerra"
-      ]
-    },
-    {
       "rank": 10,
       "title": "Definì Salvini “ministro della malavita”, Saviano assolto. Il vicepremier: “Lo querelerò di nuovo”",
       "source_count": 5,
@@ -211,16 +215,16 @@
       "source_domains": [
         "ilfattoquotidiano.it",
         "ilgiornale.it",
+        "fanpage.it",
         "repubblica.it",
-        "ilmanifesto.it",
-        "liberoquotidiano.it"
+        "ilmanifesto.it"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/04/17/saviano-salvini-diffamazione-assoluzione-news/8357917/",
         "https://www.ilgiornale.it/news/politica/saviano-assolto-i-giudici-si-pu-dire-salvini-malavitoso-2652350.html",
+        "https://www.fanpage.it/politica/roberto-saviano-assolto-nel-processo-per-diffamazione-a-salvini-lo-chiamo-ministro-della-mala-vita/",
         "https://www.repubblica.it/politica/2026/04/17/news/saviano_assolto_processo_diffamazione_salvini_ministro_della_malavita-425287326/",
-        "https://ilmanifesto.it/salvini-ministro-della-malavita-assolto-saviano",
-        "https://www.ilgiornale.it/news/interni/salvini-ministro-mala-vita-e-saviano-viene-assolto-2652259.html"
+        "https://ilmanifesto.it/salvini-ministro-della-malavita-assolto-saviano"
       ]
     }
   ]
