@@ -1,6 +1,6 @@
 {
   "date": "2026-04-17",
-  "generated_at": "Fri 17 Apr 19:16",
+  "generated_at": "Fri 17 Apr 20:56",
   "stories": [
     {
       "rank": 1,
@@ -128,27 +128,47 @@
     },
     {
       "rank": 6,
-      "title": "Energia, le proposte Ue: un giorno di smart working a settimana e sconti per i trasporti pubblici",
+      "title": "Medio Oriente, l'Iran: 'Hormuz è completamente aperto'. Trump: 'Il nostro blocco resta in vigore'",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 10,
       "source_domains": [
-        "ilmessaggero.it",
         "ansa.it",
-        "unita.it",
-        "fanpage.it",
+        "ilmessaggero.it",
         "repubblica.it",
-        "liberoquotidiano.it"
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilgiornale.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/economia/news/smart_working_obbligatorio_mezzi_pubblici_gratis_voucher_bollette_piano_ue_energia-9479270.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/04/17/il-piano-ue-anti-crisi-piu-telelavoro-e-sconti-sui-mezzi-pubblici_6717d83c-8b8d-4bc1-a9e5-f36ade97300c.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/04/17/il-piano-ue-anti-crisi-piu-smart-working-sconti-sui-mezzi-pubblici_6717d83c-8b8d-4bc1-a9e5-f36ade97300c.html",
-        "https://www.unita.it/2026/04/17/crisi-energetica-piano-ue-smartworking-mezzi-pubblici-scontati/",
-        "https://www.fanpage.it/politica/smart-working-obbligatorio-un-giorno-a-settimana-e-meno-aria-condizionata-il-piano-ue-contro-il-caro-energia/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/17/medio-oriente-liran-riapre-hormuz.-trump-porteremo-negli-usa-luranio_29e7ce13-5536-4c21-80f7-6a82533325e4.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/17/medio-oriente-liran-riapre-hormuz.-trump-penso-che-faremo-un-accordo_29e7ce13-5536-4c21-80f7-6a82533325e4.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/17/medio-oriente-liran-hormuz-e-completamente-aperto.-trump-la-nato-stia-alla_29e7ce13-5536-4c21-80f7-6a82533325e4.html",
+        "https://www.ilmessaggero.it/mondo/hormuz_aperto_cosa_succede_davvero-9479126.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/17/medio-oriente-liran-hormuz-e-completamente-aperto.-trump-il-nostro-blocco-resta_29e7ce13-5536-4c21-80f7-6a82533325e4.html"
       ]
     },
     {
       "rank": 7,
+      "title": "Serie A, oggi Inter Cagliari - La partita in diretta",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/calcio/tutto-facile-l-inter-cagliari-battuto-3-0-grazie-ai-gol-2652823.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/17/serie-a-inter-batte-cagliari-3-0-con-i-gol-di-thuram-barella-e-zielinski-cronaca_ca400685-4018-4296-8703-4bf85e1bdb12.html",
+        "https://www.fanpage.it/sport/calcio/inter-sempre-piu-vicina-allo-scudetto-cagliari-battuto-3-0-gol-di-thuram-barella-e-zielinski/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/17/serie-a-inter-cagliari-0-0-diretta-e-foto_ca400685-4018-4296-8703-4bf85e1bdb12.html",
+        "https://www.adnkronos.com/sport/diretta-inter-cagliari-live-oggi-serie-a-risultato-aggiornamenti_AnyGkKGVBFsHchkmCE4Zh"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "“Mai un tono diverso tra me e Ranieri”. Gasperini (in lacrime) va via sbattendo la porta: cosa è successo",
       "source_count": 7,
       "article_count": 7,
@@ -170,7 +190,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Manolo Portanova, confermata in appello la condanna a 6 anni per stupro di gruppo",
       "source_count": 6,
       "article_count": 7,
@@ -191,7 +211,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Starmer: 'Imperdonabile che non mi abbiano informato su Mandelson'",
       "source_count": 6,
       "article_count": 7,
@@ -209,26 +229,6 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/04/17/starmer-imperdonabile-che-non-mi-abbiano-informato-su-mandelson_1baa6b00-9c7a-4246-a185-83caae6a8984.html",
         "https://www.adnkronos.com/internazionale/esteri/caso-epstein-mandelson-governo-starmer-news-oggi_79Vdphsu2LSjVJtrbVT7HQ",
         "https://www.unita.it/2026/04/17/caso-epstein-starmer-nomina-mandelson-ambasciatore-dimissioni/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Medio Oriente, l'Iran: 'Hormuz è completamente aperto'. Trump: 'Il nostro blocco resta in vigore'",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/17/medio-oriente-liran-riapre-hormuz.-trump-penso-che-faremo-un-accordo_29e7ce13-5536-4c21-80f7-6a82533325e4.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/17/medio-oriente-liran-hormuz-e-completamente-aperto.-trump-la-nato-stia-alla_29e7ce13-5536-4c21-80f7-6a82533325e4.html",
-        "https://www.ilmessaggero.it/mondo/hormuz_aperto_cosa_succede_davvero-9479126.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/17/medio-oriente-liran-hormuz-e-completamente-aperto.-trump-il-nostro-blocco-resta_29e7ce13-5536-4c21-80f7-6a82533325e4.html",
-        "https://www.repubblica.it/esteri/2026/04/17/news/stretto_hormuz_riaperto_conseguenze_economia-425288745/"
       ]
     }
   ]
