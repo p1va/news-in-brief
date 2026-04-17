@@ -1,11 +1,11 @@
 {
   "date": "2026-04-17",
-  "generated_at": "Fri 17 Apr 15:04",
+  "generated_at": "Fri 17 Apr 16:13",
   "stories": [
     {
       "rank": 1,
       "title": "Napoli, rapina in banca: 25 persone in ostaggio, poi la fuga dei banditi mascherati da attori nella rete fognaria",
-      "source_count": 12,
+      "source_count": 13,
       "article_count": 19,
       "source_domains": [
         "ilmessaggero.it",
@@ -19,6 +19,7 @@
         "napoli.repubblica.it",
         "ilfattoquotidiano.it",
         "lastampa.it",
+        "agi.it",
         "news.google.com"
       ],
       "links": [
@@ -59,12 +60,12 @@
       "rank": 3,
       "title": "Meloni all'Eliseo per il vertice di Parigi. Al via il tavolo per sminare Hormuz",
       "source_count": 10,
-      "article_count": 16,
+      "article_count": 17,
       "source_domains": [
+        "liberoquotidiano.it",
         "ansa.it",
         "ilgiornale.it",
         "lastampa.it",
-        "liberoquotidiano.it",
         "governo.it",
         "repubblica.it",
         "laverita.info",
@@ -73,18 +74,18 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47318603/meloni-arriva-a-parigi-per-vertice-su-hormuz-l-abbraccio-con-macron/",
         "https://www.ansa.it/sito/notizie/politica/2026/04/17/al-via-a-parigi-il-vertice-su-hormuz-i-leader-alleliseo-da-macron_12b34e13-6f53-4b4a-afb9-62919d9d2228.html",
         "https://www.ilgiornale.it/news/guerra/meloni-vertice-parigi-tavolo-sminare-hormuz-2652687.html",
         "https://www.lastampa.it/esteri/2026/04/17/diretta/coalizione_volenterosi_oggi_vertice_parigi-15587978/",
-        "https://www.liberoquotidiano.it/news/tv-news/47318597/merz-e-meloni-arrivano-all-eliseo-per-vertice-volenterosi-su-hormuz/",
-        "https://www.lastampa.it/esteri/2026/04/17/video/parigi_la_premier_meloni_arriva_al_vertice_dei_volenterosi_labbraccio_con_macron-15587899/"
+        "https://www.liberoquotidiano.it/news/tv-news/47318597/merz-e-meloni-arrivano-all-eliseo-per-vertice-volenterosi-su-hormuz/"
       ]
     },
     {
       "rank": 4,
       "title": "Alex Manninger, morto l’ex portiere della Juve: la sua auto travolta da un treno in Austria",
       "source_count": 8,
-      "article_count": 9,
+      "article_count": 8,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ilgiornale.it",
@@ -105,9 +106,9 @@
     },
     {
       "rank": 5,
-      "title": "Allarme jet fuel per l’estate. Birol: “In Europa il carburante per aerei basterà per sei settimane”",
+      "title": "Aerei, crisi carburante: l’Europa ha scorte solo per 6 settimane. Voli estivi a rischio, allarme su possibili cancellazioni",
       "source_count": 8,
-      "article_count": 9,
+      "article_count": 8,
       "source_domains": [
         "unita.it",
         "ilgiornale.it",
@@ -171,6 +172,27 @@
     },
     {
       "rank": 8,
+      "title": "Mamma e figlia avvelenate, sentita (di nuovo) per 4 ore la cugina di De Vita: chi è e perché l'attenzione è puntata su di lei",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/17/morte-avvelenate-la-cugina-di-gianni-di-vita-sentita-di-nuovo-per-oltre-4-ore_5ad524f4-7786-472e-8d81-02442ddf47aa.html",
+        "https://www.ilfattoquotidiano.it/2026/04/17/avvelenamento-ricina-pietracatella-indagini-notizie/8358142/",
+        "https://www.ilgiornale.it/news/nazionale/mamma-e-figlia-avvelenate-sentita-nuovo-4-ore-cugina-de-vita-2652528.html",
+        "https://www.fanpage.it/attualita/madre-e-figlia-morte-a-campobasso-per-la-ricina-interrogata-per-4-ore-la-cugina-del-marito-e-la-seconda-volta/",
+        "https://www.ilmessaggero.it/persone/madre_e_figlia_avvelenate_laura_di_vita_pietracatella_campobasso_cugina_chi_e-9478376.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Scandalo Epstein, nuove clamorose rivelazioni su Mandelson: ora Starmer potrebbe dimettersi",
       "source_count": 6,
       "article_count": 6,
@@ -191,7 +213,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Pensa di citare la Bibbia invece è una frase di Pulp Fiction, la gaffe di Pete Hegseth",
       "source_count": 6,
       "article_count": 6,
@@ -209,26 +231,6 @@
         "https://www.ilfattoquotidiano.it/2026/04/17/hegseth-pulp-fiction-bibbia-pentagono-notizie/8357609/",
         "https://www.adnkronos.com/internazionale/esteri/pensa-di-citare-la-bibbia-invece-e-una-frase-di-pulp-fiction-la-gaffe-di-pete-hegseth-video_79bx1sRI5TsM5odGOWHJ74",
         "https://www.lastampa.it/esteri/2026/04/17/video/usa_hegseth_vuole_citare_la_bibbia_ma_e_la_scena_di_pulp_fiction_la_gaffe_del_capo_del_pentagono-15587517/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Dl Sicurezza, via libera al Senato con 96 sì: cartelli e proteste dalle opposizioni",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47316222/approvato-dl-sicurezza-in-senato-con-96-voti-favorevoli-le-opposizioni-protestano/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47315292/dl-sicurezza-opposizioni-con-cartelli-in-aula-senato-con-governo-meloni-zero-sicurezza-/",
-        "https://www.ilgiornale.it/news/interni/dl-sicurezza-libera-senato-96-s-cartelli-e-proteste-dalle-2652546.html",
-        "https://www.fanpage.it/politica/senato-approva-il-decreto-sicurezza-ora-la-destra-corre-per-non-farlo-scadere-sara-scontro-alla-camera/",
-        "https://www.repubblica.it/politica/2026/04/17/news/decreto_sicurezza_governo_meloni_senato_oggi-425287726/"
       ]
     }
   ]
