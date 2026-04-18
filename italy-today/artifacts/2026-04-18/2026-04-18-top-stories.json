@@ -1,6 +1,6 @@
 {
   "date": "2026-04-18",
-  "generated_at": "Sat 18 Apr 15:44",
+  "generated_at": "Sat 18 Apr 16:52",
   "stories": [
     {
       "rank": 1,
@@ -52,28 +52,50 @@
     },
     {
       "rank": 3,
-      "title": "Stretto di Hormuz, Meloni \"Missione navale solo con la fine delle ostilità\"",
-      "source_count": 7,
-      "article_count": 11,
+      "title": "Rapina con sequestro nella villa dell'ex senatore leghista Filippi nel Vicentino",
+      "source_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "ilgiornale.it",
         "liberoquotidiano.it",
         "fanpage.it",
-        "ilgiornale.it",
+        "adnkronos.com",
         "repubblica.it",
-        "ilmanifesto.it",
+        "ansa.it",
+        "ilmessaggero.it",
         "lastampa.it",
-        "ilsole24ore.com"
+        "ilfattoquotidiano.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47332039/meloni-annunciata-nuova-chiusura-di-hormuz-lavoriamo-per-rafforzare-stabilita-/",
-        "https://www.fanpage.it/politica/il-piano-del-governo-meloni-per-mandare-le-navi-cacciamine-italiane-nello-stretto-di-hormuz/",
-        "https://www.ilgiornale.it/news/politica/iran-campo-i-volenterosi-italia-pronta-inviare-sue-navi-2652835.html",
-        "https://www.repubblica.it/politica/2026/04/18/news/volenterosi_vertice_macron_missione_difensiva_hormuz_meloni-425289600/",
-        "https://ilmanifesto.it/meloni-volenterosa-per-forza-nostre-navi-con-lok-del-parlamento"
+        "https://www.ilgiornale.it/news/interni/massacrato-botte-e-rapinato-pistola-tempia-racconto-choc-2653070.html",
+        "https://www.liberoquotidiano.it/news/italia/47331663/alberto-filippi-ex-senatore-rapinato-casa-pugni-pistola-faccia-immagini-choc/",
+        "https://www.fanpage.it/attualita/lex-senatore-filippi-sequestrato-e-rapinato-bottino-da-3-milioni-mi-hanno-puntato-una-pistola-in-faccia/",
+        "https://www.adnkronos.com/cronaca/vicenza-arcugnano-rapina-choc-in-villa-ex-senatore-lega-filippi_1StiRmTVNtt3LwNWbbkO0V",
+        "https://www.repubblica.it/cronaca/2026/04/18/news/arcugnano_rapina_ex_senatore_lega_filippi-425290523/"
       ]
     },
     {
       "rank": 4,
+      "title": "A Milano corteo dei Patrioti e della Lega in piazza Duomo",
+      "source_count": 5,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "milano.repubblica.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/04/18/a-milano-corteo-dei-patrioti-e-della-lega-in-piazza-duomo_c310da29-ad7e-4873-af8f-09317aa97b3f.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/04/18/a-milano-corteo-dei-patrioti-e-della-lega-in-piazza-duomo.-salvini-chiude_c310da29-ad7e-4873-af8f-09317aa97b3f.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47335146/i-patrioti-europei-a-milano-bardella-e-wilders-sul-palco-con-salvini/",
+        "https://www.liberoquotidiano.it/news/libero-video/47332646/lega-milano-trattore-verso-piazza-duomo/",
+        "https://www.ansa.it/sito/notizie/politica/2026/04/18/a-milano-corteo-lega-cori-contro-musulmani-e-von-der-leyen_c310da29-ad7e-4873-af8f-09317aa97b3f.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Super Cobolli: batte Zverev 6-3, 6-3 e va in finale a Monaco",
       "source_count": 7,
       "article_count": 11,
@@ -95,132 +117,114 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Rapina con sequestro nella villa dell'ex senatore leghista Filippi nel Vicentino",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/interni/massacrato-botte-e-rapinato-pistola-tempia-racconto-choc-2653070.html",
-        "https://www.fanpage.it/attualita/lex-senatore-filippi-sequestrato-e-rapinato-bottino-da-3-milioni-mi-hanno-puntato-una-pistola-in-faccia/",
-        "https://www.adnkronos.com/cronaca/vicenza-arcugnano-rapina-choc-in-villa-ex-senatore-lega-filippi_1StiRmTVNtt3LwNWbbkO0V",
-        "https://www.repubblica.it/cronaca/2026/04/18/news/arcugnano_rapina_ex_senatore_lega_filippi-425290523/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/18/rapina-con-sequestro-nella-villa-dellex-senatore-leghista-filippi-nel_34769d14-5f3c-4f74-ab15-3a870068ba8f.html"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Manifestazioni a Milano, al via il “corteo dei patrioti” della Lega. Partiti anche gli antagonisti",
-      "source_count": 5,
-      "article_count": 10,
+      "title": "Uccide a roncolate l’ex e il suo nuovo fidanzato, poi suicida gettandosi da una torre",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
+        "fanpage.it",
         "ansa.it",
-        "milano.repubblica.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it"
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "torino.repubblica.it",
+        "lastampa.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/04/18/a-milano-corteo-dei-patrioti-e-della-lega-in-piazza-duomo.-salvini-chiude_c310da29-ad7e-4873-af8f-09317aa97b3f.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/18/a-milano-corteo-lega-cori-contro-musulmani-e-von-der-leyen_c310da29-ad7e-4873-af8f-09317aa97b3f.html",
-        "https://milano.repubblica.it/cronaca/2026/04/18/diretta/manifestazioni_milano_oggi_remigrazione_antifascisti-425290542/",
-        "https://www.ilgiornale.it/news/interni/milano-blindata-remigration-summit-lega-attesa-piazza-duomo-2653037.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47333607/-milano-e-migrante-in-piazza-contro-summit-patrioti-della-lega/"
+        "https://www.fanpage.it/attualita/uccide-ex-e-nuovo-compagno-con-una-roncola-poi-si-suicida-gettandosi-dalla-torre-del-castello-di-cossombrato/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/18/uccide-la-ex-e-il-compagno-poi-si-suicida-_7043cd59-d89d-499b-beb4-7e62efc94fc2.html",
+        "https://www.adnkronos.com/cronaca/asti-uccide-ex-moglie-e-compagno-a-roncolate-e-poi-si-toglie-la-vita-gettandosi-dal-castello_15ww3JGNuyxNdCyD2NuvLP",
+        "https://www.ilmessaggero.it/italia/asti_omicidio_ex_e_compagno-9481155.html",
+        "https://www.ilfattoquotidiano.it/2026/04/18/omicidio-suicidio-cossombrato-astigiano-news/8359395/"
       ]
     },
     {
       "rank": 7,
-      "title": "La prof taglia i capelli a due alunne delle medie davanti ai loro compagni: «Volevo solo farmi capire». Il caso a Mestre",
-      "source_count": 7,
-      "article_count": 7,
+      "title": "Muore annegato a sette anni in centro termale vicino a Latina",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
-        "adnkronos.com",
-        "ilgiornale.it",
         "fanpage.it",
-        "ilfattoquotidiano.it",
+        "ilgiornale.it",
         "ansa.it",
+        "ilfattoquotidiano.it",
+        "roma.repubblica.it",
+        "ilmessaggero.it",
         "lastampa.it",
-        "ilmessaggero.it"
+        "agi.it"
       ],
       "links": [
-        "https://www.adnkronos.com/cronaca/venezia-prof-taglia-capelli-alunne_6AUScERnAQuFtvlqX7kqo9",
-        "https://www.ilgiornale.it/news/cronaca-locale/prof-taglia-i-capelli-due-alunne-classe-genitori-rivolta-2653024.html",
-        "https://www.fanpage.it/attualita/insegnante-taglia-ciocca-di-capelli-a-due-alunne-a-mestre-volevo-farmi-capire-meglio-proteste-dei-genitori/",
-        "https://www.ilfattoquotidiano.it/2026/04/18/docente-taglia-capelli-alunne-mestre-notizie/8358925/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/18/docente-taglia-i-capelli-a-due-alunne-in-classe-per-spiegare-un-riassunto_327c1727-4f72-46fe-af7d-46d5e5000bb1.html"
+        "https://www.fanpage.it/roma/latina-bimbo-di-7-anni-muore-alle-terme-di-suio-forse-e-stato-risucchiato-dal-bocchettone-di-una-piscina/",
+        "https://www.ilgiornale.it/news/nazionale/latina-bimbo-7-anni-morto-piscina-risucchiato-bocchettone-2653089.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/18/muore-annegato-a-7-anni-in-centro-termale-vicino-latina-_3c541821-84ce-4dfa-aa50-7c689bebf67c.html",
+        "https://www.ilfattoquotidiano.it/2026/04/18/bambino-annegato-suio-terme-latina-notizie/8359389/",
+        "https://roma.repubblica.it/cronaca/2026/04/18/news/suio_terme_bambino_sette_anni_annegato_latina-425290896/"
       ]
     },
     {
       "rank": 8,
       "title": "Raduno Patrioti Europei, a Milano tensioni tra antagonisti e forze dell’ordine",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "adnkronos.com",
         "ilgiornale.it",
-        "liberoquotidiano.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/pillole/47333140/corteo_centri_sociali_a_milano_fumogeni_e_petardi_contro_la_polizia_le_immagini/",
         "https://www.ilfattoquotidiano.it/2026/04/18/scontri-milano-antagonisti-patrioti-europei-news/8359280/",
         "https://www.ilmessaggero.it/italia/manifestazione_patrioti_lega_milano_oggi_cosa_succede-9481018.html",
         "https://www.adnkronos.com/cronaca/a-milano-cortei-contro-i-patrioti-lega-in-piazza-vogliamo-salvini-al-ministero-dellinterno_503nTJ3OfFtBqc9Sn9UQwN",
-        "https://www.ilgiornale.it/news/nazionale/tre-cortei-contro-i-patrioti-e-antagonisti-cacciano-i-2653053.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47333144/tensione-a-milano-fra-anti-patrioti-e-agenti-idranti-e-fumogeni/"
+        "https://www.ilgiornale.it/news/nazionale/tre-cortei-contro-i-patrioti-e-antagonisti-cacciano-i-2653053.html"
       ]
     },
     {
       "rank": 9,
-      "title": "Il piano geniale della Ue: domeniche a piedi",
+      "title": "Iran, in campo i \"volenterosi\". Italia pronta a inviare le sue navi",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 8,
       "source_domains": [
+        "fanpage.it",
         "ilgiornale.it",
-        "laverita.info",
-        "lastampa.it",
         "repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it"
+        "ilmanifesto.it",
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/europa/commissione-ue-stacca-spina-all-europa-smart-working-tutti-2652914.html",
-        "https://www.laverita.info/bruxelles-piano-crisi-energia-2676760669.html",
-        "https://www.lastampa.it/torino/2026/04/18/news/piano_qualita_aria_2026_regione_piemonte-15588846/",
-        "https://www.repubblica.it/economia/2026/04/18/news/ue_smart_working_trasporti_energia-425289283/",
-        "https://www.ansa.it/sito/notizie/economia/2026/04/17/il-piano-ue-anti-crisi-piu-smart-working-e-sconti-sui-mezzi-pubblici_6717d83c-8b8d-4bc1-a9e5-f36ade97300c.html"
+        "https://www.fanpage.it/politica/il-piano-del-governo-meloni-per-mandare-le-navi-cacciamine-italiane-nello-stretto-di-hormuz/",
+        "https://www.ilgiornale.it/news/politica/iran-campo-i-volenterosi-italia-pronta-inviare-sue-navi-2652835.html",
+        "https://www.fanpage.it/live/governo-meloni-ultime-notizie-crisi-dimissioni-18-aprile-diretta/",
+        "https://www.repubblica.it/politica/2026/04/18/news/volenterosi_vertice_macron_missione_difensiva_hormuz_meloni-425289600/",
+        "https://ilmanifesto.it/meloni-volenterosa-per-forza-nostre-navi-con-lok-del-parlamento"
       ]
     },
     {
       "rank": 10,
-      "title": "È morto Oscar Schmidt, la “Mano Santa” del basket",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Milano, due turiste violentate a un passo da piazza Duomo. Si cerca un nordafricano",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
         "ansa.it",
         "fanpage.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
+        "liberoquotidiano.it",
         "ilmessaggero.it",
+        "ilgiornale.it",
+        "milano.repubblica.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/basket/2026/04/17/addio-a-oscar-schmidt-mano-santa-del-basket-e-bandiera-di-caserta_0c3066fc-6697-451c-99c3-859703cb5aeb.html",
-        "https://www.fanpage.it/sport/basket/morto-oscar-schmidt-leggenda-del-basket-gioco-anche-in-italia-aveva-68-anni/",
-        "https://www.ilfattoquotidiano.it/2026/04/17/oscar-schmidt-morto-basket-leggenda-news/8358795/",
-        "https://www.repubblica.it/sport/basket/2026/04/17/news/oscar_schmidt_morto_leggenda_basket_scudetto_caserta-425289617/",
-        "https://www.ilmessaggero.it/persone/oscar_schmidt_morto_come_chi_era-9479440.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/18/turiste-aggredite-e-abusate-per-riavere-borsa-e-telefono-rapinati_2ac5484e-1182-4269-8c23-39783934d1a7.html",
+        "https://www.fanpage.it/milano/turiste-olandesi-violentate-in-via-larga-a-milano-identificato-laggressore-prima-la-rapina-poi-gli-abusi/",
+        "https://www.liberoquotidiano.it/news/milano/47331651/milano-violentate-due-turiste-piazza-duomo-fermato-30enne-marocchino/",
+        "https://www.ilmessaggero.it/italia/turiste_violentate_milano_marocchino_oggi-9480832.html",
+        "https://www.ilgiornale.it/news/nazionale/milano-due-turiste-violentate-passo-piazza-duomo-si-cerca-2652962.html"
       ]
     }
   ]
