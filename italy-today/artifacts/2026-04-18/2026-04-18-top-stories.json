@@ -1,6 +1,6 @@
 {
   "date": "2026-04-18",
-  "generated_at": "Sat 18 Apr 19:05",
+  "generated_at": "Sat 18 Apr 19:50",
   "stories": [
     {
       "rank": 1,
@@ -122,10 +122,10 @@
       "rank": 6,
       "title": "Asti, uccide ex moglie e compagno a roncolate e poi si toglie la vita gettandosi dal castello",
       "source_count": 8,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
-        "fanpage.it",
         "ansa.it",
+        "fanpage.it",
         "adnkronos.com",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
@@ -134,15 +134,38 @@
         "agi.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/18/uccide-la-ex-e-il-compagno-poi-si-lancia-da-una-torre-e-muore_7043cd59-d89d-499b-beb4-7e62efc94fc2.html",
         "https://www.fanpage.it/attualita/uccide-ex-e-nuovo-compagno-con-una-roncola-poi-si-suicida-gettandosi-dalla-torre-del-castello-di-cossombrato/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/18/uccide-la-ex-e-il-compagno-poi-si-suicida-_7043cd59-d89d-499b-beb4-7e62efc94fc2.html",
         "https://www.adnkronos.com/cronaca/asti-uccide-ex-moglie-e-compagno-a-roncolate-e-poi-si-toglie-la-vita-gettandosi-dal-castello_15ww3JGNuyxNdCyD2NuvLP",
-        "https://www.adnkronos.com/cronaca/asti-omicidio-suicidio-marito-moglie_15ww3JGNuyxNdCyD2NuvLP",
-        "https://www.ilmessaggero.it/italia/asti_omicidio_ex_e_compagno-9481155.html"
+        "https://www.adnkronos.com/cronaca/asti-omicidio-suicidio-marito-moglie_15ww3JGNuyxNdCyD2NuvLP"
       ]
     },
     {
       "rank": 7,
+      "title": "Raduno Patrioti Europei, a Milano tensioni tra antagonisti e forze dell’ordine",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "milano.repubblica.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://milano.repubblica.it/cronaca/2026/04/18/news/remigration_protesta_collettivi_milano-425291291/",
+        "https://www.liberoquotidiano.it/news/pillole/47333140/corteo_centri_sociali_a_milano_fumogeni_e_petardi_contro_la_polizia_le_immagini/",
+        "https://www.ilfattoquotidiano.it/2026/04/18/scontri-milano-antagonisti-patrioti-europei-news/8359280/",
+        "https://www.ilmessaggero.it/italia/manifestazione_patrioti_lega_milano_oggi_cosa_succede-9481018.html",
+        "https://www.adnkronos.com/cronaca/a-milano-cortei-contro-i-patrioti-lega-in-piazza-vogliamo-salvini-al-ministero-dellinterno_503nTJ3OfFtBqc9Sn9UQwN"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Muore annegato a sette anni in centro termale vicino a Latina",
       "source_count": 8,
       "article_count": 9,
@@ -162,28 +185,6 @@
         "https://www.ilgiornale.it/news/nazionale/latina-bimbo-7-anni-morto-piscina-risucchiato-bocchettone-2653089.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/18/muore-annegato-a-7-anni-in-centro-termale-vicino-latina-_3c541821-84ce-4dfa-aa50-7c689bebf67c.html",
         "https://www.ilfattoquotidiano.it/2026/04/18/bambino-annegato-suio-terme-latina-notizie/8359389/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Raduno Patrioti Europei, a Milano tensioni tra antagonisti e forze dell’ordine",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/pillole/47333140/corteo_centri_sociali_a_milano_fumogeni_e_petardi_contro_la_polizia_le_immagini/",
-        "https://www.ilfattoquotidiano.it/2026/04/18/scontri-milano-antagonisti-patrioti-europei-news/8359280/",
-        "https://www.ilmessaggero.it/italia/manifestazione_patrioti_lega_milano_oggi_cosa_succede-9481018.html",
-        "https://www.adnkronos.com/cronaca/a-milano-cortei-contro-i-patrioti-lega-in-piazza-vogliamo-salvini-al-ministero-dellinterno_503nTJ3OfFtBqc9Sn9UQwN",
-        "https://www.ilgiornale.it/news/nazionale/tre-cortei-contro-i-patrioti-e-antagonisti-cacciano-i-2653053.html"
       ]
     },
     {
