@@ -1,6 +1,6 @@
 {
   "date": "2026-04-18",
-  "generated_at": "Sat 18 Apr 16:52",
+  "generated_at": "Sat 18 Apr 17:43",
   "stories": [
     {
       "rank": 1,
@@ -54,44 +54,45 @@
       "rank": 3,
       "title": "Rapina con sequestro nella villa dell'ex senatore leghista Filippi nel Vicentino",
       "source_count": 9,
-      "article_count": 10,
+      "article_count": 12,
       "source_domains": [
+        "ansa.it",
+        "lastampa.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
         "fanpage.it",
         "adnkronos.com",
         "repubblica.it",
-        "ansa.it",
         "ilmessaggero.it",
-        "lastampa.it",
         "ilfattoquotidiano.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/18/preso-a-pugni-e-minacciato-con-la-pistola-rapina-choc-in-una-villa_34769d14-5f3c-4f74-ab15-3a870068ba8f.html",
+        "https://www.lastampa.it/cronaca/2026/04/18/video/rapina_nella_villa_dellex_senatore_lega_filippi_pugni_e_pistola_in_faccia_unora_sotto_la_minaccia_dei_banditi-15589436/",
         "https://www.ilgiornale.it/news/interni/massacrato-botte-e-rapinato-pistola-tempia-racconto-choc-2653070.html",
         "https://www.liberoquotidiano.it/news/italia/47331663/alberto-filippi-ex-senatore-rapinato-casa-pugni-pistola-faccia-immagini-choc/",
-        "https://www.fanpage.it/attualita/lex-senatore-filippi-sequestrato-e-rapinato-bottino-da-3-milioni-mi-hanno-puntato-una-pistola-in-faccia/",
-        "https://www.adnkronos.com/cronaca/vicenza-arcugnano-rapina-choc-in-villa-ex-senatore-lega-filippi_1StiRmTVNtt3LwNWbbkO0V",
-        "https://www.repubblica.it/cronaca/2026/04/18/news/arcugnano_rapina_ex_senatore_lega_filippi-425290523/"
+        "https://www.fanpage.it/attualita/lex-senatore-filippi-sequestrato-e-rapinato-bottino-da-3-milioni-mi-hanno-puntato-una-pistola-in-faccia/"
       ]
     },
     {
       "rank": 4,
       "title": "A Milano corteo dei Patrioti e della Lega in piazza Duomo",
-      "source_count": 5,
-      "article_count": 13,
+      "source_count": 6,
+      "article_count": 15,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
         "milano.repubblica.it",
         "ilgiornale.it",
+        "lastampa.it",
         "ilfattoquotidiano.it"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/politica/2026/04/18/a-milano-corteo-dei-patrioti-e-della-lega-in-piazza-duomo_c310da29-ad7e-4873-af8f-09317aa97b3f.html",
+        "https://www.liberoquotidiano.it/news/libero-video/47334155/milano-centinaia-strada-corteo-pro-remigrazione-contro-guerra-immigrati/",
         "https://www.ansa.it/sito/notizie/politica/2026/04/18/a-milano-corteo-dei-patrioti-e-della-lega-in-piazza-duomo.-salvini-chiude_c310da29-ad7e-4873-af8f-09317aa97b3f.html",
         "https://www.liberoquotidiano.it/news/tv-news/47335146/i-patrioti-europei-a-milano-bardella-e-wilders-sul-palco-con-salvini/",
-        "https://www.liberoquotidiano.it/news/libero-video/47332646/lega-milano-trattore-verso-piazza-duomo/",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/18/a-milano-corteo-lega-cori-contro-musulmani-e-von-der-leyen_c310da29-ad7e-4873-af8f-09317aa97b3f.html"
+        "https://www.liberoquotidiano.it/news/libero-video/47332646/lega-milano-trattore-verso-piazza-duomo/"
       ]
     },
     {
@@ -118,6 +119,29 @@
     },
     {
       "rank": 6,
+      "title": "Muore annegato a sette anni in centro termale vicino a Latina",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "roma.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/18/annega-a-7-anni-in-centro-termale-forse-incastrato-in-un-bocchettone_3c541821-84ce-4dfa-aa50-7c689bebf67c.html",
+        "https://www.fanpage.it/roma/latina-bimbo-di-7-anni-muore-alle-terme-di-suio-forse-e-stato-risucchiato-dal-bocchettone-di-una-piscina/",
+        "https://www.ilgiornale.it/news/nazionale/latina-bimbo-7-anni-morto-piscina-risucchiato-bocchettone-2653089.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/18/muore-annegato-a-7-anni-in-centro-termale-vicino-latina-_3c541821-84ce-4dfa-aa50-7c689bebf67c.html",
+        "https://www.ilfattoquotidiano.it/2026/04/18/bambino-annegato-suio-terme-latina-notizie/8359389/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Uccide a roncolate l’ex e il suo nuovo fidanzato, poi suicida gettandosi da una torre",
       "source_count": 8,
       "article_count": 8,
@@ -137,29 +161,6 @@
         "https://www.adnkronos.com/cronaca/asti-uccide-ex-moglie-e-compagno-a-roncolate-e-poi-si-toglie-la-vita-gettandosi-dal-castello_15ww3JGNuyxNdCyD2NuvLP",
         "https://www.ilmessaggero.it/italia/asti_omicidio_ex_e_compagno-9481155.html",
         "https://www.ilfattoquotidiano.it/2026/04/18/omicidio-suicidio-cossombrato-astigiano-news/8359395/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Muore annegato a sette anni in centro termale vicino a Latina",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "roma.repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/roma/latina-bimbo-di-7-anni-muore-alle-terme-di-suio-forse-e-stato-risucchiato-dal-bocchettone-di-una-piscina/",
-        "https://www.ilgiornale.it/news/nazionale/latina-bimbo-7-anni-morto-piscina-risucchiato-bocchettone-2653089.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/18/muore-annegato-a-7-anni-in-centro-termale-vicino-latina-_3c541821-84ce-4dfa-aa50-7c689bebf67c.html",
-        "https://www.ilfattoquotidiano.it/2026/04/18/bambino-annegato-suio-terme-latina-notizie/8359389/",
-        "https://roma.repubblica.it/cronaca/2026/04/18/news/suio_terme_bambino_sette_anni_annegato_latina-425290896/"
       ]
     },
     {
