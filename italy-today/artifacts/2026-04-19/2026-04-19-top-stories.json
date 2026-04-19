@@ -1,37 +1,16 @@
 {
   "date": "2026-04-19",
-  "generated_at": "Sun 19 Apr 09:02",
+  "generated_at": "Sun 19 Apr 10:00",
   "stories": [
     {
       "rank": 1,
-      "title": "La dinamica attorno allo Stretto di Hormuz: ecco come l’Iran tiene in ostaggio il mondo",
-      "source_count": 8,
-      "article_count": 9,
+      "title": "Sparatoria in una discoteca a Bisceglie: Filippo Scavo ferito al collo, muore a 43 anni. Panico tra i clienti, cosa è successo",
+      "source_count": 10,
+      "article_count": 10,
       "source_domains": [
-        "fanpage.it",
         "ilgiornale.it",
-        "laverita.info",
-        "lastampa.it",
-        "adnkronos.com",
-        "ilmanifesto.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/politica/cosa-prevede-il-piano-europeo-per-riaprire-lo-stretto-di-hormuz/",
-        "https://www.ilgiornale.it/news/politica-estera/trump-prepara-furia-economica-contro-l-iran-petroliere-nel-2653220.html",
-        "https://www.laverita.info/hormuz-blocco-2676762222.html",
-        "https://www.lastampa.it/esteri/2026/04/19/news/la_dinamica_attorno_allo_stretto_di_hormuz_ecco_come_l_iran_tiene_in_ostaggio_il_mondo-15589964/",
-        "https://www.adnkronos.com/cronaca/iran-usa-trump-guerra-news-19-aprile_52kD2o4oFnESKu7Q30jWm3"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Spari nella notte in una discoteca di Bisceglie: muore 43enne per un colpo al collo",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
         "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "adnkronos.com",
         "fanpage.it",
         "ansa.it",
@@ -41,19 +20,43 @@
         "agi.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/nazionale/bisceglie-sparatoria-discoteca-morto-43enne-2653239.html",
         "https://www.ilfattoquotidiano.it/2026/04/19/sparatoria-bisceglie-discoteca-divinae-follie-notizie/8359742/",
+        "https://www.liberoquotidiano.it/news/italia/47338700/bisceglie_ucciso_discoteca_davanti_tutti_chi_e_vittima/",
         "https://www.adnkronos.com/cronaca/sparatoria-in-una-discoteca-di-bisceglie-muore-43enne_1RL4omp1ns1DeJlM6vF3Kp",
-        "https://www.fanpage.it/attualita/spari-nella-notte-in-una-discoteca-di-bisceglie-muore-un-43enne-per-un-colpo-al-collo/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/19/spari-in-una-discoteca-nel-nord-barese-muore-un-43enne_87770e74-3c71-430f-8c48-4fd883d8ab4e.html",
-        "https://www.ilmessaggero.it/persone/sparatoria_bisceglie_discoteca_filippo_scavo_morto_cosa_e_successo-9482500.html"
+        "https://www.fanpage.it/attualita/spari-nella-notte-in-una-discoteca-di-bisceglie-muore-un-43enne-per-un-colpo-al-collo/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "La dinamica attorno allo Stretto di Hormuz: ecco come l’Iran tiene in ostaggio il mondo",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "laverita.info",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilmanifesto.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/mondo/hormuz_mappa_mine_dove_sono_quali_rotte_sono_sicure-9482613.html",
+        "https://www.fanpage.it/politica/cosa-prevede-il-piano-europeo-per-riaprire-lo-stretto-di-hormuz/",
+        "https://www.ilgiornale.it/news/politica-estera/trump-prepara-furia-economica-contro-l-iran-petroliere-nel-2653220.html",
+        "https://www.laverita.info/hormuz-blocco-2676762222.html",
+        "https://www.lastampa.it/esteri/2026/04/19/news/la_dinamica_attorno_allo_stretto_di_hormuz_ecco_come_l_iran_tiene_in_ostaggio_il_mondo-15589964/"
       ]
     },
     {
       "rank": 3,
       "title": "Alberto Filippi rapinato in villa davanti a moglie e figlie, bottino da 3 milioni. «Mi hanno riempito di pugni»",
-      "source_count": 6,
-      "article_count": 9,
+      "source_count": 7,
+      "article_count": 10,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "lastampa.it",
         "repubblica.it",
         "ansa.it",
@@ -62,11 +65,11 @@
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/19/rapina-senatore-lega-arcugnano-video-notizie/8359864/",
         "https://www.lastampa.it/cronaca/2026/04/19/video/il_racconto_dellex_senatore_filippi_pistola_puntata_in_testa_paura_per_mia_moglie_e_i_figli-15589982/",
         "https://www.lastampa.it/cronaca/2026/04/19/news/alberto_filippi_l_ex_senatore_sequestrato_e_rapinato_in_casa_riempito_di_pugni_mi_hanno_portato_via_3_milioni-15589959/",
         "https://www.repubblica.it/politica/2026/04/19/news/alberto_filippi_rapina_villa_arcugnano_intervista-425291537/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/18/preso-a-pugni-e-minacciato-con-la-pistola-rapina-choc-in-una-villa_34769d14-5f3c-4f74-ab15-3a870068ba8f.html",
-        "https://www.lastampa.it/cronaca/2026/04/18/video/rapina_nella_villa_dellex_senatore_lega_filippi_pugni_e_pistola_in_faccia_unora_sotto_la_minaccia_dei_banditi-15589436/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/18/preso-a-pugni-e-minacciato-con-la-pistola-rapina-choc-in-una-villa_34769d14-5f3c-4f74-ab15-3a870068ba8f.html"
       ]
     },
     {
@@ -133,6 +136,27 @@
     },
     {
       "rank": 7,
+      "title": "Ragazzo di 25 anni ucciso in un parcheggio a Pavia: accoltellato mentre stava recuperando l’auto",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/19/omicidio-pavia-25enne-accoltellato-notizie/8359877/",
+        "https://www.fanpage.it/milano/scoppia-una-rissa-tra-due-gruppi-in-un-parcheggio-a-pavia-e-viene-accoltellato-25enne-muore-in-ospedale/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/19/ragazzo-di-25-anni-ucciso-in-un-parcheggio-a-pavia_f9cb2df5-59c7-4665-a8c7-ee5c8de77fc6.html",
+        "https://www.ilmessaggero.it/italia/accoltellato_morto_pavia_parcheggio_cosa_e_successo-9482614.html",
+        "https://milano.repubblica.it/cronaca/2026/04/19/news/pavia_accoltellato_ucciso_ragazzo_parcheggio-425291963/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Tregua violata in Libano, ucciso un casco blu francese",
       "source_count": 5,
       "article_count": 6,
@@ -152,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Il ritorno di Marracash e Elodie: cantano insieme a sorpresa al concerto del rapper, poi l'abbraccio",
       "source_count": 4,
       "article_count": 6,
@@ -171,7 +195,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Napoli, il video dei rapinatori. “Colpo in banca preparato da mesi”",
       "source_count": 4,
       "article_count": 5,
@@ -187,25 +211,6 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/18/rapina-in-banca-la-caccia-alla-banda-del-buco-passa-per-il-sottosuolo_96ca7657-3c3c-4e41-b3fc-f099aba57db2.html",
         "https://www.ilgiornale.it/news/attualit/banca-rapinata-ira-dei-clienti-e-caccia-ai-6-professionisti-2652938.html",
         "https://www.ilgiornale.it/news/stanza-feltri/rapina-choc-napoli-e-nostra-sicurezza-2652939.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "L’Atalanta frena la Roma, a Krstovic risponde Hermoso: ambizioni giallorosse di Champions più lontane",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "fanpage.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/sport/petrucci-presidente-fip-domani-nuovi-vertici-2653161.html",
-        "https://www.ilgiornale.it/news/calcio/roma-bloccata-sull-1-1-dall-atalanta-non-basta-gol-hermoso-2653126.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/18/pari-e-fischi-per-roma-e-atalanta-champions-piu-lontana-_c334b294-511d-4691-b6d4-40dac0aa12d6.html",
-        "https://www.fanpage.it/sport/calcio/latalanta-frena-la-roma-a-krstovic-risponde-hermoso-ambizioni-giallorosse-di-champions-piu-lontane/",
-        "https://www.liberoquotidiano.it/news/sport/47336349/roma-finisce-1-a-1-con-l-atalanta-ora-la-champions-league-si-allontana/"
       ]
     }
   ]
