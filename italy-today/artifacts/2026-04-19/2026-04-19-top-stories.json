@@ -1,6 +1,6 @@
 {
   "date": "2026-04-19",
-  "generated_at": "Sun 19 Apr 14:49",
+  "generated_at": "Sun 19 Apr 15:44",
   "stories": [
     {
       "rank": 1,
@@ -52,10 +52,11 @@
     },
     {
       "rank": 3,
-      "title": "Sparatoria in una discoteca a Bisceglie: Filippo Scavo ferito al collo, muore a 43 anni. Panico tra i clienti, cosa è successo",
-      "source_count": 10,
+      "title": "Bisceglie, spari in una discoteca: ucciso un 43enne. L’ombra dell'esecuzione mafiosa sull’omicidio",
+      "source_count": 9,
       "article_count": 10,
       "source_domains": [
+        "bari.repubblica.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
@@ -63,23 +64,21 @@
         "fanpage.it",
         "ansa.it",
         "ilmessaggero.it",
-        "bari.repubblica.it",
-        "lastampa.it",
-        "agi.it"
+        "lastampa.it"
       ],
       "links": [
+        "https://bari.repubblica.it/cronaca/2026/04/19/news/divinae_follie_filippo_scavo_bisceglie_soldi_nelle_tasche_strisciuglio-425292403/",
         "https://www.ilgiornale.it/news/nazionale/bisceglie-sparatoria-discoteca-morto-43enne-2653239.html",
         "https://www.ilfattoquotidiano.it/2026/04/19/sparatoria-bisceglie-discoteca-divinae-follie-notizie/8359742/",
         "https://www.liberoquotidiano.it/news/italia/47338700/bisceglie_ucciso_discoteca_davanti_tutti_chi_e_vittima/",
-        "https://www.adnkronos.com/cronaca/sparatoria-in-una-discoteca-di-bisceglie-muore-43enne_1RL4omp1ns1DeJlM6vF3Kp",
-        "https://www.fanpage.it/attualita/spari-nella-notte-in-una-discoteca-di-bisceglie-muore-un-43enne-per-un-colpo-al-collo/"
+        "https://www.adnkronos.com/cronaca/sparatoria-in-una-discoteca-di-bisceglie-muore-43enne_1RL4omp1ns1DeJlM6vF3Kp"
       ]
     },
     {
       "rank": 4,
       "title": "Latina, bimbo di 7 anni muore in piscina. \"Forse risucchiato da un bocchettone\"",
-      "source_count": 8,
-      "article_count": 11,
+      "source_count": 7,
+      "article_count": 10,
       "source_domains": [
         "fanpage.it",
         "adnkronos.com",
@@ -87,7 +86,6 @@
         "roma.repubblica.it",
         "ilmessaggero.it",
         "ansa.it",
-        "ilfattoquotidiano.it",
         "agi.it"
       ],
       "links": [
@@ -183,6 +181,26 @@
     },
     {
       "rank": 9,
+      "title": "Filippi: “Notte da incubo in villa, preso a pugni e pistola in faccia. Ho perso tre milioni di euro”",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/19/rapina-villa-filippi-sequestro-arcugnano-notizie/8359962/",
+        "https://www.ilgiornale.it/news/politica/larma-puntata-testa-figlie-ostaggio-e-botte-mi-hanno-portato-2653148.html",
+        "https://www.ilfattoquotidiano.it/2026/04/19/rapina-senatore-lega-arcugnano-video-notizie/8359864/",
+        "https://www.lastampa.it/cronaca/2026/04/19/video/il_racconto_dellex_senatore_filippi_pistola_puntata_in_testa_paura_per_mia_moglie_e_i_figli-15589982/",
+        "https://www.lastampa.it/cronaca/2026/04/19/news/alberto_filippi_l_ex_senatore_sequestrato_e_rapinato_in_casa_riempito_di_pugni_mi_hanno_portato_via_3_milioni-15589959/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Bellandi oro agli Europei di judo: era l’unico titolo che le mancava. Trionfa anche Pirelli",
       "source_count": 5,
       "article_count": 6,
@@ -199,25 +217,6 @@
         "https://www.ansa.it/sito/notizie/sport/altrisport/2026/04/19/europei-judo-bellandi-oro-era-lunico-titolo-che-le-mancava_fd37af52-fe80-4853-8163-2538e9c021c2.html",
         "https://www.repubblica.it/sport/vari/2026/04/19/news/bellandi_oro_europei_judo-425292248/",
         "https://www.lastampa.it/sport/2026/04/19/news/europei_judo_bellandi_oro-15590186/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Serie A, oggi Verona-Milan: orario, probabili formazioni e dove vederla",
-      "source_count": 4,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/19/serie-a-in-campo-verona-milan-diretta_114cf130-7a24-46df-bd5d-d1919d05ad2c.html",
-        "https://www.adnkronos.com/sport/diretta-verona-milan-oggi-serie-a-live-risultato-aggiornamenti_3urZWxQbreguLwP1uMQHMr",
-        "https://www.fanpage.it/sport/live/verona-milan-live-risultato-in-diretta-della-partita-di-serie-a-attese-le-formazioni-ufficiali-giocatori-in-campo-alle-ore-15/",
-        "https://www.adnkronos.com/sport/verona-milan-oggi-serie-a-orario-formazioni-dove-vederla_5z9ZzJ1z2xNxJiJRxbFvVw",
-        "https://www.fanpage.it/sport/calcio/verona-milan-dove-vederla-oggi-in-tv-e-streaming-orario-e-formazioni/"
       ]
     }
   ]
