@@ -1,6 +1,6 @@
 {
   "date": "2026-04-20",
-  "generated_at": "Mon 20 Apr 12:10",
+  "generated_at": "Mon 20 Apr 14:57",
   "stories": [
     {
       "rank": 1,
@@ -30,14 +30,41 @@
     },
     {
       "rank": 2,
-      "title": "Omicidio di Gabriele Vaccaro a Pavia, fermato un 17enne: lo ha aggredito con un cacciavite",
-      "source_count": 11,
+      "title": "Escort di lusso per clienti facoltosi, tra loro anche calciatori di serie A. Quattro arresti",
+      "source_count": 12,
       "article_count": 13,
       "source_domains": [
+        "unita.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
         "adnkronos.com",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "agi.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.unita.it/2026/04/20/escort-movida-milano-clienti-vip-calciatori-serie-a/",
+        "https://www.fanpage.it/milano/smantellato-un-giro-di-escort-di-lusso-nei-locali-di-milano-calciatori-di-serie-a-tra-i-clienti/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/20/escort-nei-locali-della-movida-milanese-quattro-arresti-e-perquisizioni_7d067be2-2ba7-41e6-9fcc-f6e90abae8e1.html",
+        "https://www.ilfattoquotidiano.it/2026/04/20/escort-lusso-milano-calciatori-serie-a-nomi-pacchetto-servizio-dopo-partita/8360765/",
+        "https://www.ilfattoquotidiano.it/2026/04/20/escort-lusso-milano-arresti-notizie/8360740/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Omicidio di Gabriele Vaccaro a Pavia, fermato un 17enne: lo ha aggredito con un cacciavite",
+      "source_count": 11,
+      "article_count": 12,
+      "source_domains": [
         "unita.it",
         "ansa.it",
         "ilgiornale.it",
+        "adnkronos.com",
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
@@ -47,15 +74,15 @@
         "agi.it"
       ],
       "links": [
-        "https://www.adnkronos.com/cronaca/la-passione-per-il-calcio-e-il-trasferimento-al-nord-chi-era-gabriele-vaccaro_3sVxChDhvIHoAG3PWJmf9h",
         "https://www.unita.it/2026/04/20/ucciso-parcheggio-coltellata-collo-fermato-omicidio-gabriele-vaccaro/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/20/omicidio-in-un-parcheggio-a-pavia-fermato-un-17enne_81ca751e-e1e9-41ed-86a2-c103c608db33.html",
         "https://www.ilgiornale.it/news/cronaca-locale/pavia-25enne-ucciso-nel-parcheggio-fermato-17enne-ore-2653517.html",
-        "https://www.adnkronos.com/cronaca/pavia-ragazzo-ucciso-in-un-parcheggio-fermato-un-16enne_6gC6SL38AXbU1u9a8XoIRB"
+        "https://www.adnkronos.com/cronaca/pavia-ragazzo-ucciso-in-un-parcheggio-fermato-un-16enne_6gC6SL38AXbU1u9a8XoIRB",
+        "https://www.ilfattoquotidiano.it/2026/04/20/omicidio-a-pavia-fermato-un-sedicenne-e-accusato-di-aver-ucciso-con-un-cacciavite-il-25enne-gabriele-vaccaro/8360435/"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Vasto, ragazzo di 21 anni ucciso nel garage di casa: fermato il padre",
       "source_count": 9,
       "article_count": 13,
@@ -79,7 +106,33 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Camionista investito e ucciso nel Casertano durante la protesta dei tir: travolto da una vettura",
+      "source_count": 11,
+      "article_count": 11,
+      "source_domains": [
+        "unita.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "napoli.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.unita.it/2026/04/20/camionista-investito-presidio-sospeso-sciopero-caro-carburanti-confindustria/",
+        "https://www.adnkronos.com/cronaca/incidente-camionista-morto-a1-protesta-tir_4qDN5rmFoZZd3NE1rl6Aqv",
+        "https://www.ilfattoquotidiano.it/2026/04/20/sciopero-autotrasportatori-incidente-morto-nappo-news/8360495/",
+        "https://www.liberoquotidiano.it/news/italia/47348528/a1-autostrada-caserta-morto-camionista-travolto-auto-durante-protesta-caro-carburante/",
+        "https://www.fanpage.it/napoli/protesta-dei-tir-camionista-55enne-investito-e-ucciso-sulla1-mentre-manifesta-incidente-a-san-nicola-la-strada/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Dossieraggio, inchiesta Roma su “Squadra Fiore”: in corso perquisizioni. Indagato l’ex Dis Del Deo",
       "source_count": 11,
       "article_count": 11,
@@ -105,36 +158,12 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Camionista investito e ucciso nel Casertano durante la protesta dei tir: travolto da una vettura",
-      "source_count": 10,
-      "article_count": 10,
-      "source_domains": [
-        "unita.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "napoli.repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.unita.it/2026/04/20/camionista-investito-presidio-sospeso-sciopero-caro-carburanti-confindustria/",
-        "https://www.adnkronos.com/cronaca/incidente-camionista-morto-a1-protesta-tir_4qDN5rmFoZZd3NE1rl6Aqv",
-        "https://www.ilfattoquotidiano.it/2026/04/20/sciopero-autotrasportatori-incidente-morto-nappo-news/8360495/",
-        "https://www.liberoquotidiano.it/news/italia/47348528/a1-autostrada-caserta-morto-camionista-travolto-auto-durante-protesta-caro-carburante/",
-        "https://www.fanpage.it/napoli/protesta-dei-tir-camionista-55enne-investito-e-ucciso-sulla1-mentre-manifesta-incidente-a-san-nicola-la-strada/"
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "title": "Bulgaria, vince Radev il filorusso. Che cerca alleati",
-      "source_count": 9,
-      "article_count": 10,
+      "source_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "fanpage.it",
         "unita.it",
@@ -146,44 +175,22 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/47352246/l-ex-presidente-radev-conquista-la-maggioranza-in-parlamento-bulgaro/",
         "https://www.ilgiornale.it/news/politica/bulgaria-vince-radev-filorusso-che-cerca-alleati-2653390.html",
         "https://www.fanpage.it/politica/elezioni-in-bulgaria-2026-radev-vince-con-il-447-chi-e-il-filorusso-anti-ue-con-la-maggioranza-assoluta/",
         "https://www.unita.it/2026/04/20/elezioni-bulgaria-vittoria-ex-presidente-radev/",
-        "https://www.ilfattoquotidiano.it/2026/04/20/elezioni-bulgaria-lex-presidente-radev-ha-la-maggioranza-assoluta-un-nuovo-sostenitore-del-dialogo-con-la-russia-arriva-in-ue/8360448/",
-        "https://www.adnkronos.com/internazionale/esteri/elezioni-bulgaria-2026-radev-ha-maggioranza-assoluta-in-parlamento_2nfRyY1zcCVsob1XXCDsHO"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Escort di lusso per clienti facoltosi, tra loro anche calciatori di serie A. Quattro arresti",
-      "source_count": 9,
-      "article_count": 10,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "milano.repubblica.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/milano/smantellato-un-giro-di-escort-di-lusso-nei-locali-di-milano-calciatori-di-serie-a-tra-i-clienti/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/20/escort-nei-locali-della-movida-milanese-quattro-arresti-e-perquisizioni_7d067be2-2ba7-41e6-9fcc-f6e90abae8e1.html",
-        "https://www.ilfattoquotidiano.it/2026/04/20/escort-lusso-milano-calciatori-serie-a-nomi-pacchetto-servizio-dopo-partita/8360765/",
-        "https://www.ilfattoquotidiano.it/2026/04/20/escort-lusso-milano-arresti-notizie/8360740/",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/escort-lusso-clienti-facoltosi-loro-anche-calciatori-serie-2653638.html"
+        "https://www.ilfattoquotidiano.it/2026/04/20/elezioni-bulgaria-lex-presidente-radev-ha-la-maggioranza-assoluta-un-nuovo-sostenitore-del-dialogo-con-la-russia-arriva-in-ue/8360448/"
       ]
     },
     {
       "rank": 8,
       "title": "Usa colpiscono e bloccano nave dell'Iran, il video dell'operazione",
-      "source_count": 6,
-      "article_count": 10,
+      "source_count": 8,
+      "article_count": 13,
       "source_domains": [
         "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
         "adnkronos.com",
@@ -191,40 +198,20 @@
         "fanpage.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/videogallery/mondo/2026/04/20/gli-usa-diffondono-il-video-dei-marines-che-salgono-sulla-nave_1b86166b-a8aa-4721-8b53-cedce4d538b8.html",
+        "https://www.ilmessaggero.it/mondo/guerra_iran_usa_fermata_nave_hormuz_spari_lista_nera-9484633.html",
+        "https://www.repubblica.it/esteri/2026/04/20/news/lista_usa_cattivi_sanzioni_nave_iraniana_bloccata-425294012/",
         "https://www.ansa.it/sito/videogallery/mondo/2026/04/20/una-nave-da-guerra-statunitense-colpisce-un-mercantile-iraniano-che-tentava-di-eludere_7d2373ef-5f3d-4cea-b898-6d898cf31984.html",
-        "https://www.ilgiornale.it/news/guerra/lavvertimento-poi-raffica-e-i-marines-cosi-usa-hanno-2653539.html",
-        "https://www.liberoquotidiano.it/news/libero-video/47348379/iran-esercito-usa-abborda-nave-teheran-golfo-oman/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/20/gli-stati-uniti-sequestrano-una-nave-iraniana.-lira-di-teheran-droni_67cea65a-390d-4e33-aed7-f55d48f95589.html",
-        "https://www.adnkronos.com/internazionale/esteri/marines-si-calano-con-le-corde-e-sequestrano-nave-iraniana-le-immagini_13w7H83Xw7wxNmWGRxzH2k"
+        "https://www.ilgiornale.it/news/guerra/lavvertimento-poi-raffica-e-i-marines-cosi-usa-hanno-2653539.html"
       ]
     },
     {
       "rank": 9,
-      "title": "Sinner, il tabellone di Madrid: esordio con qualificato, possibile derby con Musetti in semifinale",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "repubblica.it",
-        "fanpage.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/20/atp-madrid-2026-sinner-tabellone-italiani/8360720/",
-        "https://www.adnkronos.com/sport/sinner-madrid-tabellone-tutti-avversari-musetti_291oyVRmi16FDMuOL5XaXh",
-        "https://www.ilgiornale.it/news/tennis/atp-madrid-sorteggiato-tabellone-avversari-sinner-e-degli-2653551.html",
-        "https://www.repubblica.it/sport/tennis/2026/04/20/news/sinner_numero_uno_classifica_open_madrid-425293331/",
-        "https://www.fanpage.it/sport/tennis/atp-madrid-2026-oggi-il-sorteggio-del-tabellone-con-sinner-che-va-a-caccia-del-record-e-6-italiani/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "In Giappone scossa di terremoto di magnitudo 7.5, allerta tsunami",
-      "source_count": 6,
-      "article_count": 7,
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "unita.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
@@ -233,11 +220,32 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.unita.it/2026/04/20/terremoto-giappone-allarme-tsunami-scossa-magnitudo-evacuazione/",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/20/in-giappone-allerta-per-un-possibile-maxi-terremoto.-stamattina-una-scossa-7.5_375b686b-81a2-4ab5-9936-f36f59d095b1.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/20/in-giappone-scossa-di-terremoto-di-magnitudo-7.5-allerta-tsunami_375b686b-81a2-4ab5-9936-f36f59d095b1.html",
         "https://www.ilfattoquotidiano.it/2026/04/20/terremoto-giappone-tsunami-magnitudo-notizie/8360549/",
-        "https://www.ilmessaggero.it/mondo/terremoto_giappone_oggi_allarme_tsunami_dove-9484258.html",
-        "https://www.fanpage.it/esteri/terremoto-di-magnitudo-7-5-in-giappone-emessa-allerta-tsunami-attese-onde-alte-otre-3-metri/"
+        "https://www.ilmessaggero.it/mondo/terremoto_giappone_oggi_allarme_tsunami_dove-9484258.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Sinner, il tabellone di Madrid: esordio con qualificato, possibile derby con Musetti in semifinale",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "fanpage.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/infortunio-sinner-madrid-allarme-cose-successo_3EtcIfBnoiI6led84SvQ9R",
+        "https://www.ilfattoquotidiano.it/2026/04/20/atp-madrid-2026-sinner-tabellone-italiani/8360720/",
+        "https://www.adnkronos.com/sport/sinner-madrid-tabellone-tutti-avversari-musetti_291oyVRmi16FDMuOL5XaXh",
+        "https://www.ilgiornale.it/news/tennis/atp-madrid-sorteggiato-tabellone-avversari-sinner-e-degli-2653551.html",
+        "https://www.repubblica.it/sport/tennis/2026/04/20/news/madrid_open_2026_sorteggio_tabellone_sinner-425293649/"
       ]
     }
   ]
