@@ -1,31 +1,30 @@
 {
   "date": "2026-04-20",
-  "generated_at": "Mon 20 Apr 14:57",
+  "generated_at": "Mon 20 Apr 16:18",
   "stories": [
     {
       "rank": 1,
       "title": "Strage in Louisiana, 7 degli 8 bambini uccisi erano figli del killer",
-      "source_count": 11,
-      "article_count": 16,
+      "source_count": 10,
+      "article_count": 17,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "unita.it",
         "ansa.it",
         "fanpage.it",
         "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
         "adnkronos.com",
         "lastampa.it",
         "ilmessaggero.it",
-        "repubblica.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/47354766/strage-di-bambini-in-louisiana-i-vicini-giocavano-qui-di-fronte/",
         "https://www.ilgiornale.it/news/politica/strage-dei-bambini-lite-famiglia-8-morti-2653388.html",
         "https://www.unita.it/2026/04/20/strage-bambini-stati-uniti-uccisi-otto-bambini/",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/20/sette-degli-otto-bimbi-uccisi-in-louisiana-erano-figli-del-killer._87d135ab-c67d-40bf-9aad-9bcecc382f8a.html",
-        "https://www.fanpage.it/esteri/otto-bimbi-uccisi-in-louisiana-7-erano-figli-del-killer-indagini-su-movente-si-stava-separando-dalla-moglie/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/chi-luomo-che-ha-ucciso-otto-bambini-louisiana-2653542.html"
+        "https://www.fanpage.it/esteri/otto-bimbi-uccisi-in-louisiana-7-erano-figli-del-killer-indagini-su-movente-si-stava-separando-dalla-moglie/"
       ]
     },
     {
@@ -57,6 +56,30 @@
     },
     {
       "rank": 3,
+      "title": "Vasto, ragazzo di 21 anni ucciso nel garage di casa: fermato il padre",
+      "source_count": 9,
+      "article_count": 14,
+      "source_domains": [
+        "fanpage.it",
+        "ilmessaggero.it",
+        "unita.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/attualita/andrea-sciorilli-ucciso-a-vasto-dal-papa-con-unascia-colpito-sul-letto-lite-scoppiata-per-un-colloquio/",
+        "https://www.ilmessaggero.it/abruzzo/andrea_sciorilli_ucciso_padre_perche_ricostruzione-9484664.html",
+        "https://www.ilmessaggero.it/abruzzo/andrea_sciorilli_liti_casa_padre_antonio-9484328.html",
+        "https://www.unita.it/2026/04/20/ucciso-coltellate-garage-padre-andrea-sciorilli/",
+        "https://www.ilmessaggero.it/abruzzo/andrea_sciorilli_chi_era_ragazzo_ucciso_padre_perche-9484288.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Omicidio di Gabriele Vaccaro a Pavia, fermato un 17enne: lo ha aggredito con un cacciavite",
       "source_count": 11,
       "article_count": 12,
@@ -79,30 +102,6 @@
         "https://www.ilgiornale.it/news/cronaca-locale/pavia-25enne-ucciso-nel-parcheggio-fermato-17enne-ore-2653517.html",
         "https://www.adnkronos.com/cronaca/pavia-ragazzo-ucciso-in-un-parcheggio-fermato-un-16enne_6gC6SL38AXbU1u9a8XoIRB",
         "https://www.ilfattoquotidiano.it/2026/04/20/omicidio-a-pavia-fermato-un-sedicenne-e-accusato-di-aver-ucciso-con-un-cacciavite-il-25enne-gabriele-vaccaro/8360435/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Vasto, ragazzo di 21 anni ucciso nel garage di casa: fermato il padre",
-      "source_count": 9,
-      "article_count": 13,
-      "source_domains": [
-        "ilmessaggero.it",
-        "unita.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "fanpage.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/abruzzo/andrea_sciorilli_liti_casa_padre_antonio-9484328.html",
-        "https://www.unita.it/2026/04/20/ucciso-coltellate-garage-padre-andrea-sciorilli/",
-        "https://www.ilmessaggero.it/abruzzo/andrea_sciorilli_chi_era_ragazzo_ucciso_padre_perche-9484288.html",
-        "https://www.ilgiornale.it/news/cronaca-locale/omicidio-20enne-andrea-sciorilli-fermato-padre-giovane-2653526.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/20/omicidio-a-vasto-fermato-il-papa-della-vittima_5a6b93de-9c07-4e01-84bd-07525add94ec.html"
       ]
     },
     {
@@ -159,34 +158,9 @@
     },
     {
       "rank": 7,
-      "title": "Bulgaria, vince Radev il filorusso. Che cerca alleati",
-      "source_count": 10,
-      "article_count": 11,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "unita.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/47352246/l-ex-presidente-radev-conquista-la-maggioranza-in-parlamento-bulgaro/",
-        "https://www.ilgiornale.it/news/politica/bulgaria-vince-radev-filorusso-che-cerca-alleati-2653390.html",
-        "https://www.fanpage.it/politica/elezioni-in-bulgaria-2026-radev-vince-con-il-447-chi-e-il-filorusso-anti-ue-con-la-maggioranza-assoluta/",
-        "https://www.unita.it/2026/04/20/elezioni-bulgaria-vittoria-ex-presidente-radev/",
-        "https://www.ilfattoquotidiano.it/2026/04/20/elezioni-bulgaria-lex-presidente-radev-ha-la-maggioranza-assoluta-un-nuovo-sostenitore-del-dialogo-con-la-russia-arriva-in-ue/8360448/"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Usa colpiscono e bloccano nave dell'Iran, il video dell'operazione",
       "source_count": 8,
-      "article_count": 13,
+      "article_count": 12,
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
@@ -203,6 +177,30 @@
         "https://www.repubblica.it/esteri/2026/04/20/news/lista_usa_cattivi_sanzioni_nave_iraniana_bloccata-425294012/",
         "https://www.ansa.it/sito/videogallery/mondo/2026/04/20/una-nave-da-guerra-statunitense-colpisce-un-mercantile-iraniano-che-tentava-di-eludere_7d2373ef-5f3d-4cea-b898-6d898cf31984.html",
         "https://www.ilgiornale.it/news/guerra/lavvertimento-poi-raffica-e-i-marines-cosi-usa-hanno-2653539.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Bulgaria, vince Radev il filorusso. Che cerca alleati",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/47352246/l-ex-presidente-radev-conquista-la-maggioranza-in-parlamento-bulgaro/",
+        "https://www.ilgiornale.it/news/politica/bulgaria-vince-radev-filorusso-che-cerca-alleati-2653390.html",
+        "https://www.fanpage.it/politica/elezioni-in-bulgaria-2026-radev-vince-con-il-447-chi-e-il-filorusso-anti-ue-con-la-maggioranza-assoluta/",
+        "https://www.unita.it/2026/04/20/elezioni-bulgaria-vittoria-ex-presidente-radev/",
+        "https://www.ilfattoquotidiano.it/2026/04/20/elezioni-bulgaria-lex-presidente-radev-ha-la-maggioranza-assoluta-un-nuovo-sostenitore-del-dialogo-con-la-russia-arriva-in-ue/8360448/"
       ]
     },
     {
