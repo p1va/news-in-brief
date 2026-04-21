@@ -1,16 +1,16 @@
 {
   "date": "2026-04-21",
-  "generated_at": "Tue 21 Apr 18:04",
+  "generated_at": "Tue 21 Apr 19:26",
   "stories": [
     {
       "rank": 1,
       "title": "Il conduttore tv russo Solovyov insulta Meloni: 'Fascista p...'. La Farnesina convoca l'ambasciatore",
       "source_count": 9,
-      "article_count": 17,
+      "article_count": 19,
       "source_domains": [
+        "ilgiornale.it",
         "ansa.it",
         "ilfattoquotidiano.it",
-        "ilgiornale.it",
         "fanpage.it",
         "repubblica.it",
         "adnkronos.com",
@@ -19,11 +19,11 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/cronaca-internazionale/insulti-attacchi-hacker-e-lombra-dellatomica-tutti-attacchi-2654311.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/lanchor-di-putin-insulta-meloni-alta-tensione-roma-mosca_0feebe7d-46ff-4693-8129-b22e5ff736c4.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/21/il-conduttore-tv-russo-solovyov-insulta-meloni-fascista-p....-la-farnesina-convoca-lambasciatore_0feebe7d-46ff-4693-8129-b22e5ff736c4.html",
         "https://www.ilfattoquotidiano.it/2026/04/21/offese-cremlino-italia-meloni-mattarella-news/8362513/",
-        "https://www.ilgiornale.it/news/interni/solidariet-politica-lattacco-solovyov-meloni-e-tajani-2654270.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/04/21/ilconduttorerusso-solovyov-insultameloni-fascista-p..._79e8d500-bec9-4b37-ac73-7411ae28e494.html",
-        "https://www.fanpage.it/politica/gli-insulti-a-giorgia-meloni-del-conduttore-e-propagandista-russo-solovyov-fascista-putt/"
+        "https://www.ilgiornale.it/news/interni/solidariet-politica-lattacco-solovyov-meloni-e-tajani-2654270.html"
       ]
     },
     {
@@ -99,9 +99,9 @@
     },
     {
       "rank": 5,
-      "title": "Sfruttavano escort con 'servizio dopopartita' per calciatori",
-      "source_count": 8,
-      "article_count": 12,
+      "title": "Party ed escort di lusso: i servizi tutto compreso per i calciatori di Milan, Inter e della serie A",
+      "source_count": 9,
+      "article_count": 11,
       "source_domains": [
         "unita.it",
         "fanpage.it",
@@ -109,6 +109,7 @@
         "ilmessaggero.it",
         "milano.repubblica.it",
         "ilgiornale.it",
+        "lastampa.it",
         "laverita.info",
         "ilsole24ore.com"
       ],
@@ -122,30 +123,6 @@
     },
     {
       "rank": 6,
-      "title": "Uccisa a coltellate a Vignale Monferrato: arrestato e condotto in carcere l'ex compagno",
-      "source_count": 9,
-      "article_count": 11,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "lastampa.it",
-        "unita.it",
-        "fanpage.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/21/femminicidio-vignale-monferrato-loredana-ferrara-notizie/8361856/",
-        "https://www.adnkronos.com/cronaca/femminicidio-vignale-monferrato-loredana-ferrara-silvio-gambetta-news_5SWhV0pJZq7gZ7VtpgrdkD",
-        "https://www.ilgiornale.it/news/politica/ammazzata-strada-coltellata-gola-ex-convivente-arrestato-2653872.html",
-        "https://www.lastampa.it/alessandria/2026/04/21/news/femminicidio_vignale_monferrato_silvio_gambetta_loredana_ferrara_investita_auto_accoltellata-15592729/",
-        "https://www.unita.it/2026/04/21/uccisa-coltellate-passanti-fermato-ex-loredana-ferrara-aggredita/"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Apple, Tim Cook lascia a settembre: John Ternus nuovo ceo",
       "source_count": 8,
       "article_count": 11,
@@ -168,7 +145,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Rimpatri, nuovo decreto per abrogare gli incentivi agli avvocati: la strada del governo per superare l'impasse sul dl sicurezza",
       "source_count": 7,
       "article_count": 11,
@@ -190,7 +167,52 @@
       ]
     },
     {
+      "rank": 8,
+      "title": "Uccisa a coltellate a Vignale Monferrato: arrestato e condotto in carcere l'ex compagno",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "lastampa.it",
+        "unita.it",
+        "ansa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/attualita/loredana-ferrara-uccisa-in-strada-dallex-a-vignale-monferrato-i-testimoni-gli-urlava-di-lasciarla-stare/",
+        "https://www.ilfattoquotidiano.it/2026/04/21/femminicidio-vignale-monferrato-loredana-ferrara-notizie/8361856/",
+        "https://www.adnkronos.com/cronaca/femminicidio-vignale-monferrato-loredana-ferrara-silvio-gambetta-news_5SWhV0pJZq7gZ7VtpgrdkD",
+        "https://www.ilgiornale.it/news/politica/ammazzata-strada-coltellata-gola-ex-convivente-arrestato-2653872.html",
+        "https://www.lastampa.it/alessandria/2026/04/21/news/femminicidio_vignale_monferrato_silvio_gambetta_loredana_ferrara_investita_auto_accoltellata-15592729/"
+      ]
+    },
+    {
       "rank": 9,
+      "title": "Voli cancellati, Ue: no risarcimenti per carenza di carburante. Ecco perché (e cosa fare)",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/lue-no-ai-risarcimenti-solo-se-i-voli-sono-cancellati-per-carenza-carburante_97ca5dc7-696c-4d7b-9d3a-433a93e864ef.html",
+        "https://www.fanpage.it/stile-e-trend/viaggi/il-commissario-europeo-ai-trasporti-tzitzikostas-sui-voli-cancellati-i-passeggeri-non-verranno-risarciti/",
+        "https://www.ilgiornale.it/news/cittadini/voli-cancellati-carenza-carburante-s-rimborso-no-2654251.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/lue-no-ai-risarcimenti-per-carenza-di-jet-fuel-e-una-circostanza-straordinaria_97ca5dc7-696c-4d7b-9d3a-433a93e864ef.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/lue-no-ai-rimborsi-per-carenza-di-jet-fuel-e-una-circostanza-straordinaria_97ca5dc7-696c-4d7b-9d3a-433a93e864ef.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Trump silura un'altra donna",
       "source_count": 7,
       "article_count": 7,
@@ -209,27 +231,6 @@
         "https://www.ilfattoquotidiano.it/2026/04/21/trump-chavez-deremer-dimissioni-scandali-notizie/8361582/",
         "https://www.ilgiornale.it/news/cronaca-internazionale/trump-silura-unaltra-donna-chi-lori-chavez-deremer-e-perch-2653941.html",
         "https://www.lastampa.it/esteri/2026/04/21/news/chavez-deremer_si_dimette_segretaria_lavoro_trump-15592257/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Usa-Iran, il mistero della tregua: quando scade? Le versioni di Trump e Teheran",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/usa-iran-tregua-trump-negoziati_3Gk8fXf5hpAiMkGlBN8ZzS",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-trump-post-social-negoziati-tregua_7as01VZyyO0jGBNuSSRGqE",
-        "https://www.ilgiornale.it/news/politica/iran-regime-diviso-i-falchi-allattacco-dei-pragmatici-2653858.html",
-        "https://www.liberoquotidiano.it/news/libero-video/47366435/iran-trump-accordo-o-tornano-le-bombe-/",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/04/21/prime-pagine-ripresa-dei-colloqui-usa-iran-accordo-o-tornano-le-bombe_343deee8-ac6a-40ec-b052-b4255a8cb2f2.html"
       ]
     }
   ]
