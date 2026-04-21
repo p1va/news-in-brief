@@ -1,9 +1,32 @@
 {
   "date": "2026-04-21",
-  "generated_at": "Tue 21 Apr 14:52",
+  "generated_at": "Tue 21 Apr 16:16",
   "stories": [
     {
       "rank": 1,
+      "title": "Guerra in Iran, le news. Media: “Khamenei ha autorizzato i negoziati in Pakistan”",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "unita.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "fanpage.it",
+        "laverita.info",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.unita.it/2026/04/21/iran-usa-stallo-negoziati-in-pakistan-cessate-il-fuoco/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/medio-oriente-vance-e-ghalibaf-saranno-in-pakistan-per-i-colloqui.-trump-liran_d4b1c1a5-f610-4d72-b110-1b16df244cf6.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/medio-oriente-nuovi-negoziati-usa-iran.-khamenei-ha-autorizzato-la-delegazione-iraniana_d4b1c1a5-f610-4d72-b110-1b16df244cf6.html",
+        "https://www.ilgiornale.it/news/politica/iran-scatta-lora-x-islamabad-trump-insiste-intesa-o-bombe-2653856.html",
+        "https://www.repubblica.it/esteri/2026/04/21/diretta/guerra_iran_usa_israele_news_oggi-425295525/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Trovato morto Vincenzo Iannitti, confessa amico 19enne: \"L'ho accoltellato e gettato dal terrazzo\"",
       "source_count": 10,
       "article_count": 11,
@@ -28,7 +51,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Sfruttavano escort con 'servizio dopopartita' per calciatori",
       "source_count": 8,
       "article_count": 12,
@@ -51,7 +74,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Uccisa a coltellate a Vignale Monferrato: arrestato e condotto in carcere l'ex compagno",
       "source_count": 9,
       "article_count": 11,
@@ -75,7 +98,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Un anno senza Bergoglio, Papa Leone: \"Raccogliamo la sua eredità, promuoviamo la fratellanza\"",
       "source_count": 7,
       "article_count": 12,
@@ -97,7 +120,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Rimpatri, nuovo decreto per abrogare gli incentivi agli avvocati: la strada del governo per superare l'impasse sul dl sicurezza",
       "source_count": 7,
       "article_count": 11,
@@ -119,7 +142,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Apple, Tim Cook lascia a settembre: John Ternus nuovo ceo",
       "source_count": 8,
       "article_count": 10,
@@ -142,29 +165,51 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Guerra in Iran, le news. Media: “Khamenei ha autorizzato i negoziati in Pakistan”",
-      "source_count": 7,
+      "rank": 8,
+      "title": "Il conduttore tv russo Solovyov insulta Meloni: 'Fascista p...'. La Farnesina convoca l'ambasciatore",
+      "source_count": 8,
       "article_count": 10,
       "source_domains": [
         "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "fanpage.it",
-        "laverita.info",
+        "ilfattoquotidiano.it",
         "adnkronos.com",
-        "lastampa.it"
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/medio-oriente-vance-e-ghalibaf-saranno-in-pakistan-per-i-colloqui.-trump-liran_d4b1c1a5-f610-4d72-b110-1b16df244cf6.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/medio-oriente-nuovi-negoziati-usa-iran.-khamenei-ha-autorizzato-la-delegazione-iraniana_d4b1c1a5-f610-4d72-b110-1b16df244cf6.html",
-        "https://www.ilgiornale.it/news/politica/iran-scatta-lora-x-islamabad-trump-insiste-intesa-o-bombe-2653856.html",
-        "https://www.repubblica.it/esteri/2026/04/21/diretta/guerra_iran_usa_israele_news_oggi-425295525/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/medio-oriente-il-giorno-dei-nuovi-negoziati-usa-iran.-una-petroliera_d4b1c1a5-f610-4d72-b110-1b16df244cf6.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/il-conduttore-russo-solovyov-insulta-meloni-fascista-p...-_0feebe7d-46ff-4693-8129-b22e5ff736c4.html",
+        "https://www.ilfattoquotidiano.it/2026/04/21/solovyov-putin-insulti-meloni-russia-idiota-fascista-news/8362400/",
+        "https://www.adnkronos.com/internazionale/esteri/meloni-insulti-tv-russia-solovyev-video_51j4KpcjhFzkuf2uxKuk1t",
+        "https://www.repubblica.it/esteri/2026/04/21/news/vladimir_solovyev_giorgia_meloni_insulti_tv_propagandista_russo-425297226/",
+        "https://www.ilmessaggero.it/politica/insulti_meloni_escalation_russia_premium-9486821.html"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Voli cancellati in Ue: niente risarcimento per carenza jet fuel, ecco perché",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cittadini/voli-cancellati-carenza-carburante-s-rimborso-no-2654251.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/lue-no-ai-risarcimenti-per-carenza-di-jet-fuel-e-una-circostanza-straordinaria_97ca5dc7-696c-4d7b-9d3a-433a93e864ef.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/lue-no-ai-rimborsi-per-carenza-di-jet-fuel-e-una-circostanza-straordinaria_97ca5dc7-696c-4d7b-9d3a-433a93e864ef.html",
+        "https://www.repubblica.it/economia/2026/04/21/news/voli_cancellati_carburante_gravi_motivi_norme_ue-425296766/",
+        "https://www.ilmessaggero.it/economia/schede/volo_cancellato_carburante_no_risarcimento_perche_cosa_fare-9486563.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Trump silura un'altra donna",
       "source_count": 7,
       "article_count": 7,
@@ -183,47 +228,6 @@
         "https://www.ilfattoquotidiano.it/2026/04/21/trump-chavez-deremer-dimissioni-scandali-notizie/8361582/",
         "https://www.ilgiornale.it/news/cronaca-internazionale/trump-silura-unaltra-donna-chi-lori-chavez-deremer-e-perch-2653941.html",
         "https://www.lastampa.it/esteri/2026/04/21/news/chavez-deremer_si_dimette_segretaria_lavoro_trump-15592257/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Gli spioni della Squadra Fiore: così il big dei servizi Del Deo gestiva la fabbrica dei dossier",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "unita.it",
-        "roma.repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/squadra-fiore-nel-mirino-indagati-hacker-ed-ex-007-2653853.html",
-        "https://www.unita.it/2026/04/21/chi-sono-gli-007-deviati-scoperti-truffe-e-dossieraggi-della-cricca-clandestina-dei-servizi/",
-        "https://roma.repubblica.it/cronaca/2026/04/21/news/spioni_squadra_fiore_del_deo_fabbrica_dei_dossier-425295605/",
-        "https://www.repubblica.it/politica/2026/04/21/news/giuseppe_del_deo_dis_indagato_chi_e-425295431/",
-        "https://www.ilmessaggero.it/italia/spionaggio_roma_inchiesta_giuseppe_del_deo_servizi_segreti_cosa_succede-9485048.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Voli cancellati, Ue: no risarcimenti per carenza di carburante. Ecco perché (e cosa fare)",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/lue-no-ai-rimborsi-per-carenza-di-jet-fuel-e-una-circostanza-straordinaria_97ca5dc7-696c-4d7b-9d3a-433a93e864ef.html",
-        "https://www.repubblica.it/economia/2026/04/21/news/voli_cancellati_carburante_gravi_motivi_norme_ue-425296766/",
-        "https://www.ilmessaggero.it/economia/schede/volo_cancellato_carburante_no_risarcimento_perche_cosa_fare-9486563.html",
-        "https://www.lastampa.it/economia/2026/04/21/news/crisi_carburante_vertice_ue_emergenza-15592842/",
-        "https://www.adnkronos.com/internazionale/esteri/voli-cancellati-in-ue-niente-risarcimento-per-carenza-jet-fuel-ecco-perche_2VVLz0tRb7LT9NfUhZFAxB"
       ]
     }
   ]
