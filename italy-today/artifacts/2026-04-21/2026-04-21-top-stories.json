@@ -1,6 +1,6 @@
 {
   "date": "2026-04-21",
-  "generated_at": "Tue 21 Apr 19:26",
+  "generated_at": "Tue 21 Apr 20:09",
   "stories": [
     {
       "rank": 1,
@@ -51,29 +51,6 @@
     },
     {
       "rank": 3,
-      "title": "Guerra in Iran, le news. Media: “Khamenei ha autorizzato i negoziati in Pakistan”",
-      "source_count": 8,
-      "article_count": 14,
-      "source_domains": [
-        "ansa.it",
-        "unita.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "fanpage.it",
-        "laverita.info",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/medio-oriente-attesa-per-i-colloqui-a-islamabad.-trump-liran-non-ha-altra_d4b1c1a5-f610-4d72-b110-1b16df244cf6.html",
-        "https://www.unita.it/2026/04/21/iran-usa-stallo-negoziati-in-pakistan-cessate-il-fuoco/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/medio-oriente-vance-e-ghalibaf-saranno-in-pakistan-per-i-colloqui.-trump-liran_d4b1c1a5-f610-4d72-b110-1b16df244cf6.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/medio-oriente-nuovi-negoziati-usa-iran.-khamenei-ha-autorizzato-la-delegazione-iraniana_d4b1c1a5-f610-4d72-b110-1b16df244cf6.html",
-        "https://www.ilgiornale.it/news/politica/iran-scatta-lora-x-islamabad-trump-insiste-intesa-o-bombe-2653856.html"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Trovato morto Vincenzo Iannitti, confessa amico 19enne: \"L'ho accoltellato e gettato dal terrazzo\"",
       "source_count": 10,
       "article_count": 12,
@@ -98,14 +75,14 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Party ed escort di lusso: i servizi tutto compreso per i calciatori di Milan, Inter e della serie A",
+      "rank": 4,
+      "title": "Almeno 70 calciatori alle serate milanesi con le escort",
       "source_count": 9,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
+        "ansa.it",
         "unita.it",
         "fanpage.it",
-        "ansa.it",
         "ilmessaggero.it",
         "milano.repubblica.it",
         "ilgiornale.it",
@@ -114,11 +91,34 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/21/almeno-70-calciatori-alle-serate-milanesi-con-le-escort-_5f223ade-8a93-425f-a66c-81594e0fd1a7.html",
         "https://www.unita.it/2026/04/21/escort-movida-milano-calciatori-serie-a/",
         "https://www.fanpage.it/milano/langosteria-coraje-e-pineta-i-locali-milanesi-dove-70-calciatori-avrebbero-speso-190mila-euro-per-feste-con-escort/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/21/la-ragazza-che-denuncio-escort-per-calciatori-anche-durante-lockdown_5f223ade-8a93-425f-a66c-81594e0fd1a7.html",
-        "https://www.ilmessaggero.it/persone/escort_calciatori_serie_a_inter_milan_gas_esilarante_lockdown-9486421.html",
-        "https://milano.repubblica.it/cronaca/2026/04/21/news/party_escort_calciatori_intercettazioni-425296296/"
+        "https://www.ilmessaggero.it/persone/escort_calciatori_serie_a_inter_milan_gas_esilarante_lockdown-9486421.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Guerra in Iran, le news. Media: “Khamenei ha autorizzato i negoziati in Pakistan”",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "unita.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "fanpage.it",
+        "laverita.info",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.unita.it/2026/04/21/iran-usa-stallo-negoziati-in-pakistan-cessate-il-fuoco/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/medio-oriente-vance-e-ghalibaf-saranno-in-pakistan-per-i-colloqui.-trump-liran_d4b1c1a5-f610-4d72-b110-1b16df244cf6.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/21/medio-oriente-nuovi-negoziati-usa-iran.-khamenei-ha-autorizzato-la-delegazione-iraniana_d4b1c1a5-f610-4d72-b110-1b16df244cf6.html",
+        "https://www.ilgiornale.it/news/politica/iran-scatta-lora-x-islamabad-trump-insiste-intesa-o-bombe-2653856.html",
+        "https://www.repubblica.it/esteri/2026/04/21/diretta/guerra_iran_usa_israele_news_oggi-425295525/"
       ]
     },
     {
