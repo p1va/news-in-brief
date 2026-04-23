@@ -1,33 +1,102 @@
 {
   "date": "2026-04-23",
-  "generated_at": "Thu 23 Apr 10:27",
+  "generated_at": "Thu 23 Apr 12:04",
   "stories": [
     {
       "rank": 1,
-      "title": "'L'Italia ai Mondiali al posto dell'Iran', l'idea dell'inviato di Trump",
-      "source_count": 9,
-      "article_count": 10,
+      "title": "Italia ripescata ai Mondiali? Cosa sappiamo davvero, quando decide la Fifa e quali squadre affronterebbe",
+      "source_count": 10,
+      "article_count": 13,
       "source_domains": [
+        "ilfattoquotidiano.it",
+        "fanpage.it",
         "unita.it",
         "repubblica.it",
         "liberoquotidiano.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "ilgiornale.it",
         "ansa.it",
-        "lastampa.it"
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/23/mondiali-italia-posto-iran-replica-teheran-parteciperemo-calcio-ai-popoli-non-politici/8364186/",
+        "https://www.fanpage.it/sport/calcio/figc-mai-contattata-per-il-ripescaggio-dellitalia-ai-mondiali-perche-la-fifa-non-smentisce-le-voci/",
         "https://www.unita.it/2026/04/23/italia-sostituisce-iran-mondiali-calcio-piano-zampolli-inviato-trump/",
         "https://www.repubblica.it/sport/calcio/esteri/2026/04/23/news/mondiali_ripescaggio_italia_trump_zampolli_fifa_cosa_succede-425300864/",
-        "https://www.liberoquotidiano.it/news/sport/47398260/italia-mondiali-mossa-paolo-zampolli-donald-trump-cosa-succedendo/",
-        "https://www.fanpage.it/sport/calcio/il-ripescaggio-dellitalia-ai-mondiali-arriva-a-trump-con-le-pressioni-dellalto-inviato-paolo-zampolli/",
-        "https://www.ilfattoquotidiano.it/2026/04/23/zampolli-mondiali-italia-iran-fifa-news/8363785/"
+        "https://www.liberoquotidiano.it/news/sport/47398260/italia-mondiali-mossa-paolo-zampolli-donald-trump-cosa-succedendo/"
       ]
     },
     {
       "rank": 2,
+      "title": "Il mistero della ricina: ricerche nei pc dell’istituto agrario e analisi del telefono della sorella",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/23/morte-avvelenate-pm-acquisire-gli-ultimi-5-mesi-sul-telefonino-di-alice_61b11baf-3f02-4659-90e5-57fdbcb6570c.html",
+        "https://www.adnkronos.com/cronaca/madre-figlia-morte-avvelenate-pietracatella-campobasso-news-indagini-telefono-alice_6h22LejRjFLSy41upZfNFh",
+        "https://www.ilmessaggero.it/italia/avvelenate_ricina_figlia_alice_di_vita_telefonino_sequestro-9490898.html",
+        "https://www.ilfattoquotidiano.it/2026/04/23/avvelenamento-ricina-campobasso-esami-vetrini-notizie/8364022/",
+        "https://www.lastampa.it/cronaca/2026/04/23/news/avvelenamento_ricina_campobasso_cellulare_sequestrato_notizie-15595624/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Barbara d'Urso fa causa a Mediaset: \"Ingerenze e diritti non pagati\"",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/spettacoli/tv-radio/2026/04/23/news/barbara_d_urso_mediaset_tribunale_causa-425301415/",
+        "https://www.ilfattoquotidiano.it/2026/04/23/barbara-durso-porta-mediaset-in-tribunale-diritti-non-pagati-e-ingerenze-sugli-ospiti/8363906/",
+        "https://www.ilgiornale.it/news/tv/barbara-durso-fa-causa-mediaset-ingerenze-e-diritti-non-2655333.html",
+        "https://www.liberoquotidiano.it/news/spettacoli/47399324/barbara-d-urso-causa-mediaset-mediazione-fallita-accuse/",
+        "https://www.adnkronos.com/spettacoli/barbara-durso-causa-mediaset-perche_6LYQVL4EHcjUFyg3ysxBF2"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Migranti, l’avvocato della Corte Ue promuove i centri in Albania ma a una condizione: “Garantire i diritti”",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "repubblica.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/politica/2026/04/23/news/centri_migranti_albania_ok_avvocato_corte_ue-425301354/",
+        "https://www.fanpage.it/politica/migranti-lavvocato-della-corte-ue-promuove-i-centri-in-albania-ma-a-una-condizione-garantire-i-diritti/",
+        "https://www.adnkronos.com/politica/migranti-accordo-italia-albania-corte-ue-meloni_2bEhnIj7BmG0rK4Y6YYn9i",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/23/avv.-corte-ue-cpr-in-albania-sono-conformi-ma-tutelare-diritti-migranti_8d3c48b3-21dd-4e44-afbb-9c9d5084a796.html",
+        "https://www.adnkronos.com/internazionale/esteri/avvocato-corte-ue-intesa-migranti-italia-albania-valida-ma-solo-con-diritti-garantiti_5RccdFUwZCZkHMw9XQ3SVe"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Hormuz, pasdaran diffondono immagini del sequestro di due navi cargo",
       "source_count": 6,
       "article_count": 9,
@@ -48,28 +117,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Barbara D’Urso fa causa a Mediaset: «Diritti non pagati e limiti alla linea editoriale». Il nodo ospiti con De Filippi e Toffanin",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/23/barbara-durso-porta-mediaset-in-tribunale-diritti-non-pagati-e-ingerenze-sugli-ospiti/8363906/",
-        "https://www.ilgiornale.it/news/tv/barbara-durso-fa-causa-mediaset-ingerenze-e-diritti-non-2655333.html",
-        "https://www.adnkronos.com/spettacoli/barbara-durso-causa-mediaset-perche_6LYQVL4EHcjUFyg3ysxBF2",
-        "https://www.repubblica.it/spettacoli/tv-radio/2026/04/23/news/barbara_d_urso_causa_mediaset_diritti-425300915/",
-        "https://www.ilmessaggero.it/persone/barbara_d_urso_causa_mediaset_toffanin_de_filippi-9490296.html"
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 6,
       "title": "Coppa Italia, uno straordinario Motta manda la Lazio in finale: Atalanta battuta ai rigori",
       "source_count": 6,
       "article_count": 8,
@@ -90,7 +138,49 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "title": "Chi è Edoardo Motta, l’eroe pararigori della Lazio rimpianto dalla Juve",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/la-notte-che-vale-una-stagione-chi-e-edoardo-motta-il-pararigori-della-lazio_3b4YZ2N61RXysuXxVawmpm",
+        "https://www.liberoquotidiano.it/news/sport/47399043/edoardo-motta-para-4-rigori-crolla-intervista-giro-mondo/",
+        "https://www.ilgiornale.it/news/calcio/edoardo-motta-chi-portiere-dei-record-che-ha-parato-4-rigori-2655311.html",
+        "https://www.fanpage.it/sport/calcio/edoardo-motta-si-blocca-in-diretta-scusate-non-mi-e-mai-capitato-e-portiere-della-lazio-per-caso/",
+        "https://www.lastampa.it/sport/2026/04/23/news/edoardo_motta_portiere_chi_e-15595316/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Giorgetti: 'Se le stime saranno confermate, l'Italia sarà fuori dalla procedura nel 2027'",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "repubblica.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/economia/2026/04/23/news/giorgetti_stagflazione_dfp_procedura_infrazione-425301154/",
+        "https://www.ilgiornale.it/news/politica-economica/i-conti-salute-hanno-limitato-l-impatto-crisi-globale-e-2655330.html",
+        "https://www.adnkronos.com/economia/giogetti-se-stime-saranno-confermate-italia-fuori-da-procedura-nel-2027_1C5lzHwrJjkVeLUelR5VBO",
+        "https://www.ansa.it/sito/notizie/economia/2026/04/23/giorgetti-se-le-stime-saranno-confermate-litalia-sara-fuori-dalla-procedura-nel_4a5b2606-d4c2-481b-b137-6fff80b3b12e.html",
+        "https://www.ilmessaggero.it/economia/news/procedura_ue_itala_spese_difesa_energia-9489412.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Ucciso a 23 anni a Monserrato, muratore morto per un colpo di pistola al petto: indagini a Cagliari",
       "source_count": 6,
       "article_count": 6,
@@ -111,103 +201,24 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Danimarca, scontro tra treni a 40 chilometri da Copenaghen: 17 feriti",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/23/scontro-tra-due-treni-in-danimarca-diversi-feriti_3cfad34d-d96a-45a6-8334-1638ec2e5f5c.html",
-        "https://www.ilfattoquotidiano.it/2026/04/23/scontro-treni-danimarca-feriti-notizie/8363812/",
-        "https://www.liberoquotidiano.it/news/libero-video/47398539/danimarca-scontro-treni-regionali-immagini-convogli-distrutti/",
-        "https://www.liberoquotidiano.it/news/tv-news/47400371/danimarca-scontro-tra-treni-a-40-chilometri-da-copenaghen-17-feriti/",
-        "https://www.fanpage.it/esteri/violento-scontro-tra-due-treni-in-danimarca-ci-sono-diversi-feriti/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Il mistero della ricina: ricerche nei pc dell’istituto agrario e analisi del telefono della sorella",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/avvelenate_ricina_figlia_alice_di_vita_telefonino_sequestro-9490898.html",
-        "https://www.ilfattoquotidiano.it/2026/04/23/avvelenamento-ricina-campobasso-esami-vetrini-notizie/8364022/",
-        "https://www.repubblica.it/cronaca/2026/04/23/news/alice_di_vita_madre_figlia_morte_campobasso_chat_ricerche_online-425301013/",
-        "https://www.ilgiornale.it/news/nazionale/morte-avvelenate-sequestrato-cellulare-figlia-maggiore-alice-2655304.html",
-        "https://www.fanpage.it/attualita/avvelenate-con-ricina-a-campobasso-sequestrato-cellulare-della-figlia-alice-e-analisi-sul-pc-di-una-scuola/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Chi è Edoardo Motta, l’eroe pararigori della Lazio rimpianto dalla Juve",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "adnkronos.com",
-        "ilgiornale.it",
-        "fanpage.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/la-notte-che-vale-una-stagione-chi-e-edoardo-motta-il-pararigori-della-lazio_3b4YZ2N61RXysuXxVawmpm",
-        "https://www.ilgiornale.it/news/calcio/edoardo-motta-chi-portiere-dei-record-che-ha-parato-4-rigori-2655311.html",
-        "https://www.fanpage.it/sport/calcio/edoardo-motta-si-blocca-in-diretta-scusate-non-mi-e-mai-capitato-e-portiere-della-lazio-per-caso/",
-        "https://www.lastampa.it/sport/2026/04/23/news/edoardo_motta_portiere_chi_e-15595316/",
-        "https://www.repubblica.it/sport/calcio/serie-a/lazio/2026/04/23/news/edoardo_motta_chi_e_portiere_lazio_rigori-425300349/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Famiglia nel bosco, Catherine Birmingham in lacrime alla Camera: “Contro i nostri figli una crudeltà mai vista”",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/interni/catherine-e-nathan-calvario-ingiusto-2655285.html",
-        "https://www.ilfattoquotidiano.it/2026/04/23/famiglia-bosco-ricongiungimento-conferenza-camera-notizie/8363873/",
-        "https://www.liberoquotidiano.it/news/libero-video/47397121/famiglia-nel-bosco-catherine-trevallion-mai-vista-crudelta-come-questa-su-bambini/",
-        "https://www.fanpage.it/attualita/famiglia-nel-bosco-catherine-birmingham-in-lacrime-alla-camera-contro-i-nostri-figli-una-crudelta-mai-vista/",
-        "https://www.ilmessaggero.it/abruzzo/famiglia_bosco_sfogo_madre_crudelta_bambini_cosa_ha_detto-9489382.html"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Giorgetti: 'Se le stime saranno confermate, l'Italia sarà fuori dalla procedura nel 2027'",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "“Separati dall’Ice”: la foto vincitrice del World Press Photo 2026",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
+        "ilmanifesto.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
+        "fanpage.it",
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica-economica/i-conti-salute-hanno-limitato-l-impatto-crisi-globale-e-2655330.html",
-        "https://www.adnkronos.com/economia/giogetti-se-stime-saranno-confermate-italia-fuori-da-procedura-nel-2027_1C5lzHwrJjkVeLUelR5VBO",
-        "https://www.ansa.it/sito/notizie/economia/2026/04/23/giorgetti-se-le-stime-saranno-confermate-litalia-sara-fuori-dalla-procedura-nel_4a5b2606-d4c2-481b-b137-6fff80b3b12e.html",
-        "https://www.ilmessaggero.it/economia/news/procedura_ue_itala_spese_difesa_energia-9489412.html",
-        "https://www.ilsole24ore.com/art/giorgetti-se-stime-confermate-italia-fuori-procedura-2027-AIsjtqeC"
+        "https://ilmanifesto.it/carol-guzy-dobbiamo-dare-un-volto-alle-conseguenze-delle-azioni-dellice",
+        "https://www.ilfattoquotidiano.it/2026/04/23/world-press-photo-separati-ice-trump-news/8364043/",
+        "https://www.ansa.it/sito/notizie/cultura/2026/04/23/la-foto-di-una-famiglia-di-migranti-separata-dallice-vince-il-world-press-photo_294f3274-a0d1-4b49-af8a-e1f5ded31225.html",
+        "https://www.fanpage.it/attualita/world-press-photo-2026-una-famiglia-separata-dallice-e-la-foto-dellanno-lo-scatto-e-di-carol-guzy/",
+        "https://www.repubblica.it/cultura/2026/04/23/news/world_press_photo_award_foto_vincitrice_carol_zuzy_ice_trump_miami_herald-425300947/"
       ]
     }
   ]
