@@ -1,18 +1,18 @@
 {
   "date": "2026-04-23",
-  "generated_at": "Thu 23 Apr 15:19",
+  "generated_at": "Thu 23 Apr 17:28",
   "stories": [
     {
       "rank": 1,
       "title": "Italia ripescata ai Mondiali? Cosa sappiamo davvero, quando decide la Fifa e quali squadre affronterebbe",
       "source_count": 10,
-      "article_count": 15,
+      "article_count": 16,
       "source_domains": [
         "fanpage.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "unita.it",
         "repubblica.it",
-        "liberoquotidiano.it",
         "ilmessaggero.it",
         "ilgiornale.it",
         "ansa.it",
@@ -21,14 +21,38 @@
       ],
       "links": [
         "https://www.fanpage.it/sport/calcio/litalia-ripescata-ai-mondiali-diventa-un-caso-internazionale-interviene-lambasciata-delliran/",
+        "https://www.liberoquotidiano.it/news/sport/47402979/italia-ripescata-mondiali-no-governo-ipotesi-vergognosa/",
         "https://www.ilfattoquotidiano.it/2026/04/23/mondiali-italia-posto-iran-replica-teheran-parteciperemo-calcio-ai-popoli-non-politici/8364186/",
         "https://www.ilfattoquotidiano.it/2026/04/23/mondiali-italia-ripescata-scambio-iran-fifa-smentita-zampolli-figuraccia/8364074/",
-        "https://www.fanpage.it/sport/calcio/figc-mai-contattata-per-il-ripescaggio-dellitalia-ai-mondiali-perche-la-fifa-non-smentisce-le-voci/",
-        "https://www.unita.it/2026/04/23/italia-sostituisce-iran-mondiali-calcio-piano-zampolli-inviato-trump/"
+        "https://www.fanpage.it/sport/calcio/figc-mai-contattata-per-il-ripescaggio-dellitalia-ai-mondiali-perche-la-fifa-non-smentisce-le-voci/"
       ]
     },
     {
       "rank": 2,
+      "title": "Barbara D'Urso fa causa a Mediaset: \"Ingerenze e diritti non pagati\"",
+      "source_count": 9,
+      "article_count": 14,
+      "source_domains": [
+        "fanpage.it",
+        "ansa.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/spettacolo/personaggi/barbara-durso-replica-a-mediaset-le-mie-pretese-fantasia-a-breve-saprete-la-verita/",
+        "https://www.ansa.it/sito/notizie/cultura/2026/04/23/barbara-durso-fa-causa-a-mediaset-ingerenze-e-diritti-non-pagati_90a4ed52-602f-42f0-b8d8-70364425973c.html",
+        "https://www.ansa.it/sito/notizie/cultura/2026/04/23/ingerenze-e-diritti-non-pagati-barbara-durso-fa-causa-a-mediaset_90a4ed52-602f-42f0-b8d8-70364425973c.html",
+        "https://www.lastampa.it/spettacoli/2026/04/23/news/barbara_d_urso_causa_mediaset_risposta_biscione-15595859/",
+        "https://www.repubblica.it/spettacoli/tv-radio/2026/04/23/news/barbara_d_urso_mediaset_tribunale_causa-425301415/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Centri in Albania, l'avvocato della Corte Ue: «Conformi alle norme». Meloni: «Persi due anni per letture giudiziarie forzate»",
       "source_count": 10,
       "article_count": 11,
@@ -53,7 +77,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Morte avvelenate, sequestrato cellulare alla figlia maggiore Alice",
       "source_count": 9,
       "article_count": 11,
@@ -74,29 +98,6 @@
         "https://www.adnkronos.com/cronaca/madre-figlia-morte-avvelenate-pietracatella-campobasso-news-indagini-telefono-alice_6h22LejRjFLSy41upZfNFh",
         "https://www.lastampa.it/cronaca/2026/04/23/news/campobasso_ricina_avvelenamento_autopsia_cosa_sappiamo-15595807/",
         "https://www.ilmessaggero.it/italia/avvelenate_ricina_figlia_alice_di_vita_telefonino_sequestro-9490898.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Barbara d'Urso fa causa a Mediaset: \"Ingerenze e diritti non pagati\"",
-      "source_count": 8,
-      "article_count": 12,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cultura/2026/04/23/ingerenze-e-diritti-non-pagati-barbara-durso-fa-causa-a-mediaset_90a4ed52-602f-42f0-b8d8-70364425973c.html",
-        "https://www.lastampa.it/spettacoli/2026/04/23/news/barbara_d_urso_causa_mediaset_risposta_biscione-15595859/",
-        "https://www.repubblica.it/spettacoli/tv-radio/2026/04/23/news/barbara_d_urso_mediaset_tribunale_causa-425301415/",
-        "https://www.ilfattoquotidiano.it/2026/04/23/barbara-durso-porta-mediaset-in-tribunale-diritti-non-pagati-e-ingerenze-sugli-ospiti/8363906/",
-        "https://www.ilgiornale.it/news/tv/barbara-durso-fa-causa-mediaset-ingerenze-e-diritti-non-2655333.html"
       ]
     },
     {
@@ -145,6 +146,26 @@
     },
     {
       "rank": 7,
+      "title": "Governo Meloni, Sì alla fiducia sul dl Sicurezza, domani voto finale e correttivo dopo i rilievi del Colle, Schlein: “Avete fallito”: news in diretta",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/sicurezza-pugno-conte-governo-incassa-s-2655144.html",
+        "https://www.fanpage.it/live/governo-meloni-ultime-notizie-23-aprile-diretta-decreto-sicurezza/",
+        "https://www.ansa.it/sito/notizie/politica/2026/04/23/dl-sicurezza-riprese-le-votazioni-sugli-odg-domani-il-voto-finale_776f8868-d813-498e-8ae8-2461b18d09e5.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47399465/la-camera-approva-la-fiducia-al-dl-sicurezza/",
+        "https://www.fanpage.it/live/overno-meloni-ultime-notizie-crisi-dimissioni-23-aprile-diretta/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Chi è Edoardo Motta, l’eroe pararigori della Lazio rimpianto dalla Juve",
       "source_count": 6,
       "article_count": 7,
@@ -165,7 +186,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Hormuz, pasdaran diffondono immagini del sequestro di due navi cargo",
       "source_count": 4,
       "article_count": 9,
@@ -184,7 +205,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Giorgetti: 'Se le stime saranno confermate, l'Italia sarà fuori dalla procedura nel 2027'",
       "source_count": 6,
       "article_count": 6,
@@ -202,27 +223,6 @@
         "https://www.adnkronos.com/economia/giogetti-se-stime-saranno-confermate-italia-fuori-da-procedura-nel-2027_1C5lzHwrJjkVeLUelR5VBO",
         "https://www.ansa.it/sito/notizie/economia/2026/04/23/giorgetti-se-le-stime-saranno-confermate-litalia-sara-fuori-dalla-procedura-nel_4a5b2606-d4c2-481b-b137-6fff80b3b12e.html",
         "https://www.ilmessaggero.it/economia/news/procedura_ue_itala_spese_difesa_energia-9489412.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Ucciso a 23 anni a Monserrato, muratore morto per un colpo di pistola al petto: indagini a Cagliari",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "unita.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/04/23/ucciso-strada-colpo-petto-omicidio-leonardo-mocci-muratore/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/23/omicidio-nel-cagliaritano-23enne-ucciso-con-un-colpo-di-pistola-al-petto_4c50147d-650c-473b-a3fd-f7c11ef3c199.html",
-        "https://www.ilfattoquotidiano.it/2026/04/23/omicidio-monserrato-giovane-ucciso-pistola-notizie/8363804/",
-        "https://www.fanpage.it/attualita/cagliari-muratore-di-23-anni-ucciso-con-un-colpo-di-pistola-al-petto-nel-cuore-della-notte/",
-        "https://www.ilmessaggero.it/italia/ucciso_monserrato_muratore_cagliari_chi_era-9490143.html"
       ]
     }
   ]
