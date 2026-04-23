@@ -1,33 +1,9 @@
 {
   "date": "2026-04-23",
-  "generated_at": "Thu 23 Apr 21:01",
+  "generated_at": "Thu 23 Apr 21:58",
   "stories": [
     {
       "rank": 1,
-      "title": "Italia ripescata ai Mondiali? Cosa sappiamo davvero, quando decide la Fifa e quali squadre affronterebbe",
-      "source_count": 9,
-      "article_count": 15,
-      "source_domains": [
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "unita.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/calcio/abete-sul-ripescaggio-politico-dellitalia-ai-mondiali-2026-da-tifoso-ci-spero-poi-scatta-la-logica/",
-        "https://www.fanpage.it/sport/calcio/litalia-ripescata-ai-mondiali-diventa-un-caso-internazionale-interviene-lambasciata-delliran/",
-        "https://www.liberoquotidiano.it/news/sport/47402979/italia-ripescata-mondiali-no-governo-ipotesi-vergognosa/",
-        "https://www.ilfattoquotidiano.it/2026/04/23/mondiali-italia-posto-iran-replica-teheran-parteciperemo-calcio-ai-popoli-non-politici/8364186/",
-        "https://www.fanpage.it/sport/calcio/figc-mai-contattata-per-il-ripescaggio-dellitalia-ai-mondiali-perche-la-fifa-non-smentisce-le-voci/"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Barbara D'Urso fa causa a Mediaset: \"Ingerenze e diritti non pagati\"",
       "source_count": 9,
       "article_count": 14,
@@ -48,6 +24,30 @@
         "https://www.ansa.it/sito/notizie/cultura/2026/04/23/ingerenze-e-diritti-non-pagati-barbara-durso-fa-causa-a-mediaset_90a4ed52-602f-42f0-b8d8-70364425973c.html",
         "https://www.lastampa.it/spettacoli/2026/04/23/news/barbara_d_urso_causa_mediaset_risposta_biscione-15595859/",
         "https://www.repubblica.it/spettacoli/tv-radio/2026/04/23/news/barbara_d_urso_mediaset_tribunale_causa-425301415/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Italia ripescata ai Mondiali? Cosa sappiamo davvero, quando decide la Fifa e quali squadre affronterebbe",
+      "source_count": 9,
+      "article_count": 14,
+      "source_domains": [
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "unita.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/calcio/abete-sul-ripescaggio-politico-dellitalia-ai-mondiali-2026-da-tifoso-ci-spero-poi-scatta-la-logica/",
+        "https://www.fanpage.it/sport/calcio/litalia-ripescata-ai-mondiali-diventa-un-caso-internazionale-interviene-lambasciata-delliran/",
+        "https://www.liberoquotidiano.it/news/sport/47402979/italia-ripescata-mondiali-no-governo-ipotesi-vergognosa/",
+        "https://www.ilfattoquotidiano.it/2026/04/23/mondiali-italia-posto-iran-replica-teheran-parteciperemo-calcio-ai-popoli-non-politici/8364186/",
+        "https://www.fanpage.it/sport/calcio/figc-mai-contattata-per-il-ripescaggio-dellitalia-ai-mondiali-perche-la-fifa-non-smentisce-le-voci/"
       ]
     },
     {
@@ -125,28 +125,6 @@
     },
     {
       "rank": 6,
-      "title": "Coppa Italia, uno straordinario Motta manda la Lazio in finale: Atalanta battuta ai rigori",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "adnkronos.com",
-        "unita.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/lazio-finale-coppa-italia-europa-quanto-vale-lotito-sarri_aOuBgmS8qjEXpNBpanMLi",
-        "https://www.unita.it/2026/04/23/edoardo-motta-eroe-rigori-lazio-finale-coppa-italia-inter/",
-        "https://www.ilmessaggero.it/sport/schede/lazio_europa_league_vittoria_coppa_italia_combinazioni-9490795.html",
-        "https://www.ilfattoquotidiano.it/2026/04/23/motta-rigori-lazio-atalanta-coppa-italia-lacrime-parole-impresa-chi-e/8363833/",
-        "https://www.ilgiornale.it/news/sport/botta-e-risposta-romagnoli-pasalic-90-poi-motta-para-4-2655181.html"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Solovyov torna sull'Italia e attacca Mattarella",
       "source_count": 7,
       "article_count": 9,
@@ -168,7 +146,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Femminicidio a Foggia, guardia giurata uccide la moglie a colpi di pistola",
       "source_count": 8,
       "article_count": 8,
@@ -191,7 +169,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Ranieri verso l'addio alla Roma, atteso comunicato del club",
       "source_count": 7,
       "article_count": 8,
@@ -213,7 +191,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "“Separati dall’Ice”: la foto vincitrice del World Press Photo 2026",
       "source_count": 7,
       "article_count": 7,
@@ -232,6 +210,27 @@
         "https://www.ansa.it/sito/notizie/cultura/2026/04/23/la-foto-di-una-famiglia-di-migranti-separata-dallice-vince-il-world-press-photo_294f3274-a0d1-4b49-af8a-e1f5ded31225.html",
         "https://www.liberoquotidiano.it/news/tv-news/47401704/world-press-photo-separati-dall-ice-di-carol-guzy-e-foto-dell-anno/",
         "https://www.fanpage.it/attualita/world-press-photo-2026-una-famiglia-separata-dallice-e-la-foto-dellanno-lo-scatto-e-di-carol-guzy/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "25 aprile, Mattarella: “Il prevalere della legge del più forte crea barbarie in vita internazionale”",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/47406928/25-aprile-mattarella-ribadiamo-l-impegno-dell-italia-per-la-pace-/",
+        "https://www.liberoquotidiano.it/news/pillole/47406931/mattarella_la_legge_del_piu_forte_semina_lutti_e_distruzioni_/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47407531/mattarella-i-valori-della-resistenza-sono-scolpiti-nella-costituzione/",
+        "https://www.ilgiornale.it/news/quirinale/25-aprile-lappello-mattarella-sia-momento-riflessione-2655591.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/04/23/mattarella-se-prevale-la-legge-del-piu-forte-e-barbarie-nella-vita-internazionale_f692575d-2109-4692-bef0-6e24e00d2acd.html"
       ]
     }
   ]
