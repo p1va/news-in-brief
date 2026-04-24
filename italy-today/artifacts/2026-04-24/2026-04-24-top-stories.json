@@ -1,29 +1,29 @@
 {
   "date": "2026-04-24",
-  "generated_at": "Fri 24 Apr 20:58",
+  "generated_at": "Fri 24 Apr 21:55",
   "stories": [
     {
       "rank": 1,
       "title": "Sinner fatica, ma batte Bonzi: esordio vincente a Madrid",
       "source_count": 9,
-      "article_count": 20,
+      "article_count": 21,
       "source_domains": [
+        "adnkronos.com",
         "fanpage.it",
         "ansa.it",
         "repubblica.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
-        "adnkronos.com",
         "lastampa.it",
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/rafa-jodar-chi-e-madrid-sinner-avversario-de-minaur_bjjaf00uJtaJ2KT5SFS4c",
         "https://www.fanpage.it/sport/tennis/sinner-esordio-difficile-con-bonzi-a-madrid-sfoghi-in-campo-su-un-punto-sono-bravo-e-sullaltro-no/",
         "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/24/sinner-batte-in-rimonta-bonzi-allesordio-a-madrid_5625bff9-b279-4250-acc7-8adbc3f49901.html",
         "https://www.repubblica.it/sport/tennis/2026/04/24/news/sinner_bonzi_madrid_problemi_fisici-425304500/",
-        "https://www.ilgiornale.it/news/tennis/atp-madrid-sinner-soffre-vince-rimonta-bonzi-sconfitto-tre-2656092.html",
-        "https://www.ilfattoquotidiano.it/2026/04/24/sinner-esordio-madrid-bonzi-vittoria-rimonta-analisi-commento/8365836/"
+        "https://www.ilgiornale.it/news/tennis/atp-madrid-sinner-soffre-vince-rimonta-bonzi-sconfitto-tre-2656092.html"
       ]
     },
     {
@@ -126,6 +126,27 @@
     },
     {
       "rank": 6,
+      "title": "Serie A: Il Napoli strapazza la Cremonese e rinvia la festa scudetto dell'Inter",
+      "source_count": 6,
+      "article_count": 14,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/inter-scudetto-quando-puo-vincere-combinazioni-napoli_7t3eXspNKXvYcGOUi32MuM",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/24/serie-a-il-napoli-strapazza-la-cremonese-e-rinvia-la-festa-scudetto-dellinter_cfded710-b0a7-4bc2-998c-0f5a0e17c497.html",
+        "https://www.ilgiornale.it/news/calcio/serie-napoli-travolge-4-0-cremonese-e-rimanda-scudetto-dell-2656144.html",
+        "https://www.ilfattoquotidiano.it/2026/04/24/napoli-cremonese-inter-scudetto-festa-quando/8366137/",
+        "https://www.adnkronos.com/sport/braccio-grassi-rigore-napoli-cremonese-proteste_7xI4Q0WOkgNLsM1Dv6JLoM"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "La Camera approva il Dl Sicurezza con 162 sì",
       "source_count": 7,
       "article_count": 12,
@@ -147,7 +168,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Disputa Italia-Svizzera sul rimborso per cure mediche a tre feriti del rogo di Crans-Montana",
       "source_count": 8,
       "article_count": 10,
@@ -170,7 +191,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Trump ha annunciato un’estensione di tre settimane del cessate il fuoco tra Israele e Libano",
       "source_count": 7,
       "article_count": 10,
@@ -192,47 +213,24 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Perde il figlio e vuole morire: l'eutanasia choc di Wendy Duffy",
-      "source_count": 7,
-      "article_count": 8,
+      "rank": 10,
+      "title": "Sicurezza, sciolto il nodo migranti",
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
+        "repubblica.it",
         "ansa.it",
         "ilmessaggero.it",
         "fanpage.it",
-        "unita.it",
         "ilgiornale.it",
-        "ilfattoquotidiano.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/24/addio-wendy-ha-voluto-il-suicidio-assistito-dopo-aver-perso-il-figlio_3b2ab0b6-7589-4d11-82aa-92b8d652724a.html",
-        "https://www.ilmessaggero.it/mondo/wendy_duffy_morta_suicidio_assistito_figlio-9493440.html",
-        "https://www.fanpage.it/innovazione/scienze/lassociazione-svizzera-che-consente-il-suicidio-assistito-anche-senza-malattia-il-caso-pegasos/",
-        "https://www.unita.it/2026/04/24/morto-soffocato-pomodoro-madre-dolore-eutanasia/",
-        "https://www.ilgiornale.it/news/politica/vuole-leutanasia-anche-se-sana-caso-wendy-2655708.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Femminicidio a Foggia, marito uccide la moglie a colpi di pistola",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "unita.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/24/femminicidio-foggia-guardia-giurata-arresto-notizie/8365318/",
-        "https://www.unita.it/2026/04/24/stafania-rago-uccisa-marito-social-post-violenza-donne/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/23/femminicidio-a-foggia-guardia-giurata-uccide-la-moglie-a-colpi-di-pistola_b03962f3-c295-4977-bfed-266f84a6e019.html",
-        "https://www.ilmessaggero.it/italia/stefania_rago_uccisa_foggia_chi_era_marito_antonio_fortebraccio-9492882.html",
-        "https://www.fanpage.it/attualita/foggia-stefania-rago-uccisa-dal-marito-tommaso-fortebraccio-litigavano-spesso-continue-scenate-di-gelosia/"
+        "https://www.repubblica.it/politica/2026/04/24/news/decreto_sicurezza_via_libera_camera_legge_mattarella-425304930/",
+        "https://www.ansa.it/sito/notizie/politica/2026/04/24/ok-al-decreto-sicurezza-con-la-correzione-chiesta-dal-colle.-cambiano-i-rimpatri_78206993-61c5-4b54-8fb1-186f4ca4149b.html",
+        "https://www.ilmessaggero.it/politica/decreto_sicurezza_cosa_cambia_bonus_non_avvocati-9493575.html",
+        "https://www.fanpage.it/politica/il-decreto-sicurezza-del-governo-meloni-diventa-legge-ma-viene-modificato-subito-cambia-il-bonus-rimpatri/",
+        "https://www.repubblica.it/politica/2026/04/24/news/bonus_rimpatri_cosa_prevede_correzione_decreto_sicurezza_bis-425304101/"
       ]
     }
   ]
