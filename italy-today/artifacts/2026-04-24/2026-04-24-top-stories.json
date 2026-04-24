@@ -1,9 +1,31 @@
 {
   "date": "2026-04-24",
-  "generated_at": "Fri 24 Apr 16:10",
+  "generated_at": "Fri 24 Apr 17:55",
   "stories": [
     {
       "rank": 1,
+      "title": "Sinner fatica, ma batte Bonzi: esordio vincente a Madrid",
+      "source_count": 7,
+      "article_count": 18,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/24/sinner-batte-in-rimonta-bonzi-allesordio-a-madrid_5625bff9-b279-4250-acc7-8adbc3f49901.html",
+        "https://www.repubblica.it/sport/tennis/2026/04/24/news/sinner_bonzi_madrid_problemi_fisici-425304500/",
+        "https://www.ilgiornale.it/news/tennis/atp-madrid-sinner-soffre-vince-rimonta-bonzi-sconfitto-tre-2656092.html",
+        "https://www.ilfattoquotidiano.it/2026/04/24/sinner-esordio-madrid-bonzi-vittoria-rimonta-analisi-commento/8365836/",
+        "https://www.adnkronos.com/sport/sinner-nervoso-madrid-reazione-bonzi-oggi_44fjnjtyeUeUEhxBLvccD2"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Roma, terminato il rapporto con Ranieri: \"Piena fiducia in Gasperini\"",
       "source_count": 8,
       "article_count": 17,
@@ -26,7 +48,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Neonati sepolti, Chiara Petrolini condannata a 24 anni. Assolta per la morte del primogenito",
       "source_count": 10,
       "article_count": 13,
@@ -51,7 +73,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Garlasco, la procuratrice generale Nanni: “Pavia pronta a chiedere la revisione, valuteremo”",
       "source_count": 10,
       "article_count": 11,
@@ -76,7 +98,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "La Camera approva il Dl Sicurezza con 162 sì",
       "source_count": 7,
       "article_count": 12,
@@ -98,31 +120,32 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Madrid, oggi Sinner-Bonzi al secondo turno - Il match in diretta",
-      "source_count": 6,
-      "article_count": 13,
+      "rank": 6,
+      "title": "Trump ha annunciato un’estensione di tre settimane del cessate il fuoco tra Israele e Libano",
+      "source_count": 7,
+      "article_count": 10,
       "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
+        "ilgiornale.it",
         "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ilgiornale.it"
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.adnkronos.com/sport/sinner-nervoso-madrid-reazione-bonzi-oggi_44fjnjtyeUeUEhxBLvccD2",
-        "https://www.adnkronos.com/sport/diretta-sinner-bonzi-oggi-madrid-secondo-turno-live-risultato_1b9TPqVCAF0B1JNJiLa5as",
-        "https://www.ilfattoquotidiano.it/2026/04/24/musetti-hurkacz-masters1000-madrid-risultato-segnali-incoraggianti/8365429/",
-        "https://www.adnkronos.com/sport/madrid-musetti-batte-hurkacz-qualificato-terzo-turno-avversario-griekspoor_5wlUxkL0NfJmuPImHnJHNa",
-        "https://www.repubblica.it/sport/tennis/2026/04/24/diretta/madrid_open_2026_oggi_musetti_tyra_grant-425303267/"
+        "https://www.ilgiornale.it/news/politica/colloqui-libano-israele-parteciper-anche-trump-2655693.html",
+        "https://www.repubblica.it/esteri/2026/04/24/news/trump_tregua_libano_israele_negoziati-425303574/",
+        "https://www.repubblica.it/esteri/2026/04/24/diretta/iran_guerra_usa_israele_news_oggi-425302707/",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/04/24/cessate-fuoco-libano-israele-trump-hormuz-notizie/8365071/",
+        "https://www.adnkronos.com/internazionale/esteri/libano-tregua-estesa-di-3-settimane-e-trump-annuncia-presto-incontro-netanyahu-aoun_2Iz2ol0ocUiWhCvWwAo0HG"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Donna britannica sceglie di morire in una clinica svizzera dopo la perdita del figlio",
       "source_count": 8,
-      "article_count": 10,
+      "article_count": 9,
       "source_domains": [
         "ilmessaggero.it",
         "fanpage.it",
@@ -142,27 +165,51 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Meloni, altolà all'Ue: \"Per il caro energia serve flessibilità come per la difesa\"",
-      "source_count": 5,
-      "article_count": 11,
+      "rank": 8,
+      "title": "Madre e figlia morte avvelenate, c'è la conferma: 'Intossicazione da ricina'. Sequestrato il cellulare alla figlia Alice",
+      "source_count": 7,
+      "article_count": 10,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
+        "adnkronos.com",
+        "repubblica.it",
         "ansa.it",
-        "lastampa.it",
-        "repubblica.it"
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47418663/meloni-negoziato-su-bilancio-ue-difficilissimo-nostre-linee-rosse-coesione-e-pac/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47418203/meloni-spese-per-la-difesa-restano-ma-adesso-energia-ha-la-priorita-/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47418209/meloni-sensato-allentamento-delle-regole-sugli-aiuti-di-stato-in-ue/",
-        "https://www.liberoquotidiano.it/news/pillole/47416423/ue_meloni_allentamento_delle_regole_su_aiuti_di_stato_e_sensato_/",
-        "https://www.liberoquotidiano.it/news/tv-news/47418207/ue-meloni-merz-sul-patto-cerchiamo-di-avvicinare-le-posizioni/"
+        "https://www.adnkronos.com/cronaca/madre-e-figlia-morte-a-campobasso-giallo-di-pietracatella-ultime-notizie_2fgOzkppiQzRh21pttoG56",
+        "https://www.repubblica.it/cronaca/2026/04/24/news/campobasso_madre_figlia_avvelenate_ricina_storia_cosa_sappiamo-425303685/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/24/madre-e-figlia-morte-avvelenate-arrivati-risultati-su-gianni-di-vita-negativo-alla_dc3e8695-6385-4424-83dc-7c110e906cf6.html",
+        "https://www.ilgiornale.it/news/politica/uccise-ricina-analisi-nel-telefono-sorella-alice-appunti-sui-2655714.html",
+        "https://www.fanpage.it/attualita/morte-a-campobasso-ce-conferma-dellavvelenamento-da-ricina-si-indaga-sugli-ultimi-5-mesi-della-vita-di-alice/"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Alcaraz salta Roma e Roland Garros: \"Momento difficile, ma devo essere cauto\"",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/bertolucci-alcaraz-ritiro-roma-roland-garros-infortunio_62JuCTPQLttc97Ip3Fknc0",
+        "https://www.ilgiornale.it/news/tennis/alcaraz-choc-infortunio-polso-pi-grave-previsto-spagnolo-2656087.html",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/24/alcaraz-salta-roma-e-parigi-momento-duro-ma-serve-prudenza_043341d9-4db4-49be-b2ea-2fd55c30df05.html",
+        "https://www.ilmessaggero.it/sport/tennis/sinner_alcaraz_come_cambia_classifica_atp-9493477.html",
+        "https://www.ilfattoquotidiano.it/2026/04/24/alcaraz-salta-roma-roland-garros-infortunio-momento-complicato-classifica-atp/8365812/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Foggia, la lite poi quattro spari: guardia uccide la moglie a colpi di pistola",
       "source_count": 7,
       "article_count": 8,
@@ -181,49 +228,6 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/23/femminicidio-a-foggia-guardia-giurata-uccide-la-moglie-a-colpi-di-pistola_b03962f3-c295-4977-bfed-266f84a6e019.html",
         "https://www.fanpage.it/attualita/foggia-stefania-rago-uccisa-dal-marito-tommaso-fortebraccio-litigavano-spesso-continue-scenate-di-gelosia/",
         "https://www.fanpage.it/attualita/foggia-marito-uccide-la-moglie-a-colpi-di-pistola-dopo-un-litigio-in-casa/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Madre e figlia morte avvelenate, c'è la conferma: 'Intossicazione da ricina'. Sequestrato il cellulare alla figlia Alice",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/cronaca/2026/04/24/news/campobasso_madre_figlia_avvelenate_ricina_storia_cosa_sappiamo-425303685/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/24/madre-e-figlia-morte-avvelenate-arrivati-risultati-su-gianni-di-vita-negativo-alla_dc3e8695-6385-4424-83dc-7c110e906cf6.html",
-        "https://www.ilgiornale.it/news/politica/uccise-ricina-analisi-nel-telefono-sorella-alice-appunti-sui-2655714.html",
-        "https://www.fanpage.it/attualita/morte-a-campobasso-ce-conferma-dellavvelenamento-da-ricina-si-indaga-sugli-ultimi-5-mesi-della-vita-di-alice/",
-        "https://www.ilmessaggero.it/persone/madre_e_figlia_avvelenate_alice_di_vita_note_telefono_pasti_ricina-9491681.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Coro di no al ripescaggio dell’Italia ai mondiali. Trump: «Non ci penso»",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "fanpage.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/mondiali-ripescaggio-italia-parole-trump-zampolli-iran-possibile-rinuncia-scenari_4pYS812PD92nZ1KfJhLOOw",
-        "https://www.fanpage.it/sport/calcio/trump-smonta-lipotesi-del-ripescaggio-dellitalia-ai-mondiali-non-e-una-cosa-a-cui-penso/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/24/trump-litalia-invece-delliran-ai-mondiali-non-ci-sto-pensando-_28e577ba-34e6-429c-a7a3-44c672feb91d.html",
-        "https://www.ilgiornale.it/news/calcio/ripescare-l-italia-idea-buonsenso-e-trump-ha-peso-2655791.html",
-        "https://www.repubblica.it/sport/calcio/2026/04/24/news/ripescaggio_italia_mondiali_zampolli_trump_fifa_coro_di_no-425302604/"
       ]
     }
   ]
