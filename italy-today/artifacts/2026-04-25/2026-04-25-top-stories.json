@@ -1,6 +1,6 @@
 {
   "date": "2026-04-25",
-  "generated_at": "Sat 25 Apr 10:03",
+  "generated_at": "Sat 25 Apr 11:00",
   "stories": [
     {
       "rank": 1,
@@ -53,14 +53,13 @@
     },
     {
       "rank": 3,
-      "title": "25 aprile, manifestazioni in tutta Italia. Mattarella rende omaggio ai caduti all’altare della Patria",
-      "source_count": 8,
-      "article_count": 12,
+      "title": "25 aprile: Mattarella all'Altare della Patria rende omaggio ai caduti",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
         "ilgiornale.it",
-        "fanpage.it",
-        "repubblica.it",
         "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "ansa.it",
         "governo.it",
         "lastampa.it",
@@ -68,10 +67,10 @@
       ],
       "links": [
         "https://www.ilgiornale.it/news/interni/mattarella-e-meloni-allaltare-patria-lanniversario-2656275.html",
-        "https://www.fanpage.it/roma/festa-della-liberazione-oggi-antifascisti-in-piazza-bandiere-della-palestina-a-san-paolo-corteo-a-roma-est/",
-        "https://www.repubblica.it/politica/2026/04/25/diretta/25_aprile_festa_liberazione_meloni_mattarella-425305281/",
         "https://www.ilfattoquotidiano.it/politica-palazzo/live-post/2026/04/25/25-aprile-i-cortei-e-le-celebrazioni-mattarella-allaltare-della-patria-crosetto-grati-a-generazione-che-ci-ha-restituito-la-liberta/8366213/",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/25/25-aprile-mattarella-allaltare-della-patria-rende-omaggio-ai-caduti_84827b4b-0146-4647-998d-a6cd5b9916e3.html"
+        "https://www.liberoquotidiano.it/news/tv-news/47428331/25-aprile-mattarella-all-altare-della-patria-con-meloni-e-crosetto/",
+        "https://www.ansa.it/sito/notizie/politica/2026/04/25/25-aprile-mattarella-allaltare-della-patria-rende-omaggio-ai-caduti_84827b4b-0146-4647-998d-a6cd5b9916e3.html",
+        "https://www.ansa.it/sito/notizie/dirette_live/2026/04/24/25-aprile-altare-della-patria-deposizione-di-una-corona-dalloro-in-occasione-dell81_f0765ee0-5f09-49e0-8bfb-7576c25d2b76.html"
       ]
     },
     {
@@ -100,7 +99,7 @@
       "rank": 5,
       "title": "Caro energia, i falchi bloccano Roma e Madrid: “Non potete chiedere altri soldi”",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 6,
       "source_domains": [
         "ilgiornale.it",
         "adnkronos.com",
@@ -160,6 +159,26 @@
     },
     {
       "rank": 8,
+      "title": "“Via la Spagna dalla Nato”, Trump studia le sue vendette",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilgiornale.it",
+        "repubblica.it",
+        "laverita.info",
+        "ilmanifesto.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/schiaffo-falkland-e-madrid-sospesa-minaccia-americana-ai-2656163.html",
+        "https://www.repubblica.it/esteri/2026/04/25/news/regno_unito_reazioni_trump_falkland_sovranita_argentina_nato-425305626/",
+        "https://www.laverita.info/nato-usa-trump-spagna-uk-2676813029.html",
+        "https://www.repubblica.it/esteri/2026/04/25/news/trump_nato_contro_spagna_gran_bretagna-425304861/",
+        "https://ilmanifesto.it/la-vendetta-del-pentagono-punire-spagna-e-inghilterra"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Neonati sepolti, Chiara Petrolini condannata a 24 anni e tre mesi ma assolta dall'accusa di omicidio del primogenito",
       "source_count": 5,
       "article_count": 6,
@@ -179,43 +198,22 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "“Via la Spagna dalla Nato”, Trump studia le sue vendette",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "laverita.info",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/schiaffo-falkland-e-madrid-sospesa-minaccia-americana-ai-2656163.html",
-        "https://www.laverita.info/nato-usa-trump-spagna-uk-2676813029.html",
-        "https://www.repubblica.it/esteri/2026/04/25/news/trump_nato_contro_spagna_gran_bretagna-425304861/",
-        "https://ilmanifesto.it/la-vendetta-del-pentagono-punire-spagna-e-inghilterra",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/24/media-unemail-del-pentagono-ipotizza-la-sospensione-della-spagna-dalla-nato._2cd14800-0dd9-47e0-a405-af91f5a6694f.html"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Conferma dai test: \"Uccise da ricina\"",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "25 aprile, Anpi e antagonisti in piazza",
+      "source_count": 4,
+      "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
+        "adnkronos.com",
         "fanpage.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it"
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/due-donne-morte-pietracatella-2656170.html",
-        "https://www.fanpage.it/attualita/mamma-e-figlia-uccise-da-ricina-a-pietracatella-intossicazione-acuta-dubbi-sul-padre-tracce-potrebbero-svanire/",
-        "https://www.repubblica.it/cronaca/2026/04/25/news/ricina_avvelenate_antonella_di_ielsi_sara_di_vita_analisi_pavia-425304742/",
-        "https://www.ilmessaggero.it/italia/madre_figlia_morte_avvelenate_dose_ricina_sangue_marito_ultime_notizie-9493829.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/24/madre-e-figlia-morte-avvelenate-arrivati-risultati-su-gianni-di-vita-negativo-alla_dc3e8695-6385-4424-83dc-7c110e906cf6.html"
+        "https://www.ilgiornale.it/news/interni/milano-sinistra-divisa-antagonisti-occupano-unampia-ala-2656332.html",
+        "https://www.adnkronos.com/cronaca/25-aprile-2026-cortei-diretta-news_6TbK4l6zk6MCM4AHiVhFEv",
+        "https://www.fanpage.it/roma/festa-della-liberazione-oggi-antifascisti-in-piazza-bandiere-della-palestina-a-san-paolo-corteo-a-roma-est/",
+        "https://www.repubblica.it/politica/2026/04/25/diretta/25_aprile_festa_liberazione_meloni_mattarella-425305281/",
+        "https://www.fanpage.it/live/manifestazioni-25-aprile-italia-diretta-ultime-news/"
       ]
     }
   ]
