@@ -1,9 +1,33 @@
 {
   "date": "2026-04-25",
-  "generated_at": "Sat 25 Apr 11:51",
+  "generated_at": "Sat 25 Apr 13:19",
   "stories": [
     {
       "rank": 1,
+      "title": "25 aprile: Mattarella all'Altare della Patria rende omaggio ai caduti",
+      "source_count": 9,
+      "article_count": 17,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "governo.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/04/25/25-aprile-mattarella-a-san-severino-marche-ora-e-sempre-resistenza_84827b4b-0146-4647-998d-a6cd5b9916e3.html",
+        "https://www.ilmessaggero.it/politica/mattarella_ora_e_sempre_resistenza_25_aprile_cosa_ha_detto-9495081.html",
+        "https://www.repubblica.it/politica/2026/04/25/news/mattarella_25_aprile_festa_liberta_resistenza-425305731/",
+        "https://www.liberoquotidiano.it/news/pillole/47429610/25_aprile_mattarella_al_monumento_ai_caduti_di_san_severino_marche/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47429619/onori-militari-all-arrivo-di-mattarella-all-altare-della-patria-per-81-anniversario-liberazione/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Crans-Montana, la Svizzera chiede all’Italia 108mila euro per i tre ricoveri. Meloni: “Richiesta ignobile”",
       "source_count": 10,
       "article_count": 12,
@@ -25,30 +49,6 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/24/crans-montana-la-svizzera-chiedera-allitalia-il-rimborso-delle-spese-mediche.-meloni_fe69ab02-cb70-4d3c-8fc5-7725a46467de.html",
         "https://www.laverita.info/svizzera-rimborso-cure-crans-montana-2676812993.html",
         "https://milano.repubblica.it/cronaca/2026/04/25/news/crans_montana_svizzera_chiede_soldi_italia_spese_mediche_feriti-425305007/"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "25 aprile: Mattarella all'Altare della Patria rende omaggio ai caduti",
-      "source_count": 9,
-      "article_count": 13,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "governo.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/04/25/25-aprile-mattarella-a-san-severino-marche-ora-e-sempre-resistenza_84827b4b-0146-4647-998d-a6cd5b9916e3.html",
-        "https://www.ilmessaggero.it/politica/mattarella_ora_e_sempre_resistenza_25_aprile_cosa_ha_detto-9495081.html",
-        "https://www.repubblica.it/politica/2026/04/25/news/mattarella_25_aprile_festa_liberta_resistenza-425305731/",
-        "https://www.liberoquotidiano.it/news/tv-news/47429649/mattarella-a-san-severino-marche-per-le-celebrazioni-del-25-aprile/",
-        "https://www.ilgiornale.it/news/interni/mattarella-e-meloni-allaltare-patria-lanniversario-2656275.html"
       ]
     },
     {
@@ -77,6 +77,50 @@
     },
     {
       "rank": 4,
+      "title": "25 aprile, Anpi e antagonisti in piazza",
+      "source_count": 5,
+      "article_count": 14,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/interni/milano-sinistra-divisa-antagonisti-occupano-unampia-ala-2656332.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47429613/delegazione-piu-europa-aggredita-al-corteo-del-25-aprile-perche-portano-bandiera-ucraina/",
+        "https://www.adnkronos.com/cronaca/25-aprile-2026-cortei-diretta-news_6TbK4l6zk6MCM4AHiVhFEv",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47429490/landini-ancora-piu-importante-festeggiare-25-aprile-in-un-periodo-di-guerra/",
+        "https://www.liberoquotidiano.it/news/tv-news/47430194/salvini-al-florence-american-cemetery-25-aprile-di-tutti-per-tutti-/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Il designatore degli arbitri Rocchi indagato per concorso in frode sportiva",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/rocchi-avviso-garanzia-frode-sportiva-news_3GpNhvCRNoNybVas1EXikk",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/25/il-designatore-degli-arbitri-rocchi-indagato-per-concorso-in-frode-sportiva_e25fc1a5-fcf2-4204-9399-a2b0f4cd7e8c.html",
+        "https://www.ilmessaggero.it/sport/calcio/rocchi_indagato_quali_partite_inchiesta_inter_verona_udinese_parma-9495098.html",
+        "https://www.ilgiornale.it/news/calcio/terremoto-nel-calcio-indagato-designatore-degli-arbitri-2656341.html",
+        "https://www.ilmessaggero.it/sport/calcio/gianluca_rocchi_indagato_arbitro_concorso_frode_sportiva-9495084.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Giuseppina Di Foggia rinuncia alla buonuscita da 7,3 milioni di euro, accordo con Terna",
       "source_count": 7,
       "article_count": 8,
@@ -98,7 +142,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "La resa di Alcaraz, lo spagnolo salta Roma e Parigi",
       "source_count": 7,
       "article_count": 7,
@@ -120,7 +164,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Caro energia, i falchi bloccano Roma e Madrid: “Non potete chiedere altri soldi”",
       "source_count": 6,
       "article_count": 6,
@@ -141,7 +185,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Serie A: Il Napoli strapazza la Cremonese e rinvia la festa scudetto dell'Inter",
       "source_count": 6,
       "article_count": 6,
@@ -162,7 +206,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "“Via la Spagna dalla Nato”, Trump studia le sue vendette",
       "source_count": 5,
       "article_count": 6,
@@ -179,45 +223,6 @@
         "https://www.laverita.info/nato-usa-trump-spagna-uk-2676813029.html",
         "https://www.repubblica.it/esteri/2026/04/25/news/trump_nato_contro_spagna_gran_bretagna-425304861/",
         "https://ilmanifesto.it/la-vendetta-del-pentagono-punire-spagna-e-inghilterra"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "25 aprile, Anpi e antagonisti in piazza",
-      "source_count": 4,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/interni/milano-sinistra-divisa-antagonisti-occupano-unampia-ala-2656332.html",
-        "https://www.adnkronos.com/cronaca/25-aprile-2026-cortei-diretta-news_6TbK4l6zk6MCM4AHiVhFEv",
-        "https://www.fanpage.it/roma/festa-della-liberazione-oggi-antifascisti-in-piazza-bandiere-della-palestina-a-san-paolo-corteo-a-roma-est/",
-        "https://www.repubblica.it/politica/2026/04/25/diretta/25_aprile_festa_liberazione_meloni_mattarella-425305281/",
-        "https://www.fanpage.it/live/manifestazioni-25-aprile-italia-diretta-ultime-news/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "I pm: \"Revisione del processo a Stasi\"",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/i-pm-revisione-processo-stasi-2656171.html",
-        "https://www.fanpage.it/attualita/garlasco-lesperto-spiega-liter-per-arrivare-alla-revisione-per-stasi-ce-un-collegamento-con-sempio/",
-        "https://www.ilmessaggero.it/persone/sempio_rischio_processo_perche-9493776.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/24/linchiesta-garlasco-verso-la-conclusione-atteso-un-incontro-tra-il-pm-di-pavia-e-la-procuratrice-generale_f7c17303-1c50-4933-aaca-3bfcad42c1a1.html",
-        "https://www.ilsole24ore.com/art/procura-pavia-pronta-chiedere-revisione-processo-stasi-pg-nanni-studio-carte-ne-facile-ne-veloce-AIkU9rgC"
       ]
     }
   ]
