@@ -1,41 +1,63 @@
 {
   "date": "2026-04-25",
-  "generated_at": "Sat 25 Apr 16:54",
+  "generated_at": "Sat 25 Apr 17:45",
   "stories": [
     {
       "rank": 1,
       "title": "25 aprile, Mattarella da San Severino Marche: Ora e sempre Resistenza",
       "source_count": 9,
-      "article_count": 29,
+      "article_count": 32,
       "source_domains": [
         "liberoquotidiano.it",
+        "ilgiornale.it",
         "lastampa.it",
         "ansa.it",
         "ilmessaggero.it",
         "repubblica.it",
-        "ilgiornale.it",
         "ilfattoquotidiano.it",
         "governo.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/pillole/47431367/25_aprile_fumarola_memoria_e_responsabilita_portare_avanti_valori_democrazia_/",
+        "https://www.liberoquotidiano.it/news/pillole/47431237/25_aprile_fratoianni_la_liberta_si_conquista_e_guadagna_ogni_giorno_/",
+        "https://www.ilgiornale.it/news/interni/25-aprile-nelle-piazze-digitali-2656362.html",
         "https://www.liberoquotidiano.it/news/libero-video/47430641/25-aprile-mattarella-si-leva-ancora-oggi-una-sola-invocazione-pace/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47430629/salvini-su-25-aprile-sia-festa-di-riconciliazione-e-pacificazione-basta-polemiche-e-scontri/",
-        "https://www.lastampa.it/politica/2026/04/25/news/mattarella_25_aprile_discorso_ora_e_sempre_resistenza_san_severino_marche-15598987/",
-        "https://www.liberoquotidiano.it/news/pillole/47430259/25_aprile_mattarella_a_san_severino_marche_la_pace_e_il_senso_della_resistenza_/",
-        "https://www.liberoquotidiano.it/news/tv-news/47431106/25-aprile-tajani-nel-mondo-troppe-dittature-che-soffocano-liberta-/"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47430629/salvini-su-25-aprile-sia-festa-di-riconciliazione-e-pacificazione-basta-polemiche-e-scontri/"
       ]
     },
     {
       "rank": 2,
+      "title": "Il corteo del 25 aprile passa tra le vie di Roma, tra striscioni e cori",
+      "source_count": 7,
+      "article_count": 25,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "milano.repubblica.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/25/25-aprile-celebrazioni-in-tutta-italia.-caos-al-corteo-di-milano-brigata-ebraica-cacciati_3ef9ef84-c895-4b23-98c2-2777a2542f34.html",
+        "https://www.ilgiornale.it/news/interni/25-aprile-i-pro-pal-bloccano-brigata-ebraica-e-sala-se-2656384.html",
+        "https://www.liberoquotidiano.it/news/libero-video/47431903/25-aprile-brigata-ebraica-cacciata-dal-corteo-istanti-concitati/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/25/cortei-e-celebrazioni-in-tutta-italia.-offese-alla-brigata-ebraica-pro-pal_3ef9ef84-c895-4b23-98c2-2777a2542f34.html",
+        "https://milano.repubblica.it/cronaca/2026/04/25/diretta/corteo_25_aprile_festa_liberazione_diretta_milano-425305804/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Calcio, il designatore degli arbitri Rocchi indagato per frode",
       "source_count": 11,
-      "article_count": 20,
+      "article_count": 21,
       "source_domains": [
+        "fanpage.it",
         "ilgiornale.it",
         "repubblica.it",
         "ansa.it",
-        "fanpage.it",
         "adnkronos.com",
         "liberoquotidiano.it",
         "lastampa.it",
@@ -45,35 +67,39 @@
         "agi.it"
       ],
       "links": [
+        "https://www.fanpage.it/sport/calcio/rocchi-sceglieva-arbitri-graditi-allinter-e-faceva-pressioni-al-var-i-capi-daccusa-del-pm-di-milano/",
         "https://www.ilgiornale.it/news/calcio/i-dialoghi-e-incongruenze-sala-var-che-hanno-attirato-2656387.html",
         "https://www.repubblica.it/sport/calcio/2026/04/25/news/chi_e_gianluca_rocchi_scheda-425306092/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/25/le-due-partite-al-centro-dellinchiesta-su-rocchi-_9c0e7540-fe9f-4ddb-a89b-8d3ee444e7b0.html",
-        "https://www.fanpage.it/sport/calcio/la-lettera-che-ha-innescato-lindagine-su-rocchi-cita-il-rigore-su-bisseck-costato-lo-scudetto-allinter/",
-        "https://milano.repubblica.it/cronaca/2026/04/25/news/inchiesta_arbitri_esposto_indagine_violati_principi_lealta_correttezza_rocchi_rocca-425305943/"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Il corteo del 25 aprile passa tra le vie di Roma, tra striscioni e cori",
-      "source_count": 5,
-      "article_count": 20,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47432751/parco-schuster-gremito-di-persone-alla-manifestazione-del-25-aprile-a-roma/",
-        "https://www.ilgiornale.it/news/interni/25-aprile-nelle-piazze-digitali-2656362.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47430662/coro-inni-e-canti-di-lotta-sul-palco-della-manifestazione-del-25-aprile-a-parco-schuster-a-roma/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47430270/il-corteo-del-25-aprile-passa-tra-le-vie-di-roma-tra-striscioni-e-cori/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47430276/fumogeni-coprono-la-manifestazione-del-25-aprile-a-roma/"
+        "https://www.fanpage.it/sport/calcio/la-lettera-che-ha-innescato-lindagine-su-rocchi-cita-il-rigore-su-bisseck-costato-lo-scudetto-allinter/"
       ]
     },
     {
       "rank": 4,
+      "title": "25 aprile, a Roma spari ad aria compressa vicino al Parco Schuster dopo corteo: feriti un uomo e una donna iscritti all'Anpi",
+      "source_count": 9,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "roma.repubblica.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/videogallery/italia/2026/04/25/colpi-di-pistola-ad-aria-compressa-a-roma-contro-due-iscritti-allanpi-feriti_beee5207-e77d-4262-b94e-a42b77fb9b28.html",
+        "https://www.ilfattoquotidiano.it/2026/04/25/spari-anpi-25aprile-roma-notizie/8366487/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/25/colpi-di-pistola-ad-aria-compressa-a-roma-contro-due-iscritti-allanpi-ferita_6eb8bb86-2406-4b3d-ac8b-30406cd74880.html",
+        "https://www.ilfattoquotidiano.it/2026/04/25/spari-anpi-roma-25aprile-news/8366446/",
+        "https://www.ilgiornale.it/news/nazionale/roma-spari-contro-due-coniugi-col-fazzoletto-dei-partigiani-2656371.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Iran-Usa, verso un nuovo round di colloqui: Witkoff e Kushner oggi in Pakistan - Diretta",
       "source_count": 8,
       "article_count": 13,
@@ -93,30 +119,6 @@
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/04/25/iran-usa-pakistan-incontro-smentita-news/8366227/",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/25/medio-oriente-verso-un-nuovo-round-di-colloqui-usa-iran-a-islamabad_fc94eddb-b63e-48b5-9b87-26986b02fb94.html",
         "https://www.ansa.it/sito/notizie/flash/2026/04/25/media-da-araghchi-a-munir-la-risposta-esaustiva-delliran-alle-proposte_3149b3b3-27bd-4222-9d19-14b7f760f1cb.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "25 aprile, a Roma spari ad aria compressa vicino al Parco Schuster dopo corteo: feriti un uomo e una donna iscritti all'Anpi",
-      "source_count": 9,
-      "article_count": 12,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "roma.repubblica.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/25/spari-anpi-25aprile-roma-notizie/8366487/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/25/colpi-di-pistola-ad-aria-compressa-a-roma-contro-due-iscritti-allanpi-ferita_6eb8bb86-2406-4b3d-ac8b-30406cd74880.html",
-        "https://www.ilfattoquotidiano.it/2026/04/25/spari-anpi-roma-25aprile-news/8366446/",
-        "https://www.ilgiornale.it/news/nazionale/roma-spari-contro-due-coniugi-col-fazzoletto-dei-partigiani-2656371.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/25/colpi-di-pistola-a-roma-contro-due-iscritti-allanpi-feriti_6eb8bb86-2406-4b3d-ac8b-30406cd74880.html"
       ]
     },
     {
