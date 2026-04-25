@@ -1,6 +1,6 @@
 {
   "date": "2026-04-25",
-  "generated_at": "Sat 25 Apr 11:00",
+  "generated_at": "Sat 25 Apr 11:51",
   "stories": [
     {
       "rank": 1,
@@ -29,6 +29,30 @@
     },
     {
       "rank": 2,
+      "title": "25 aprile: Mattarella all'Altare della Patria rende omaggio ai caduti",
+      "source_count": 9,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "governo.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/04/25/25-aprile-mattarella-a-san-severino-marche-ora-e-sempre-resistenza_84827b4b-0146-4647-998d-a6cd5b9916e3.html",
+        "https://www.ilmessaggero.it/politica/mattarella_ora_e_sempre_resistenza_25_aprile_cosa_ha_detto-9495081.html",
+        "https://www.repubblica.it/politica/2026/04/25/news/mattarella_25_aprile_festa_liberta_resistenza-425305731/",
+        "https://www.liberoquotidiano.it/news/tv-news/47429649/mattarella-a-san-severino-marche-per-le-celebrazioni-del-25-aprile/",
+        "https://www.ilgiornale.it/news/interni/mattarella-e-meloni-allaltare-patria-lanniversario-2656275.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Iran-Usa, verso un nuovo round di colloqui: Witkoff e Kushner oggi in Pakistan - Diretta",
       "source_count": 9,
       "article_count": 12,
@@ -52,29 +76,29 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "25 aprile: Mattarella all'Altare della Patria rende omaggio ai caduti",
+      "rank": 4,
+      "title": "Giuseppina Di Foggia rinuncia alla buonuscita da 7,3 milioni di euro, accordo con Terna",
       "source_count": 7,
       "article_count": 8,
       "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "governo.it",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/interni/mattarella-e-meloni-allaltare-patria-lanniversario-2656275.html",
-        "https://www.ilfattoquotidiano.it/politica-palazzo/live-post/2026/04/25/25-aprile-i-cortei-e-le-celebrazioni-mattarella-allaltare-della-patria-crosetto-grati-a-generazione-che-ci-ha-restituito-la-liberta/8366213/",
-        "https://www.liberoquotidiano.it/news/tv-news/47428331/25-aprile-mattarella-all-altare-della-patria-con-meloni-e-crosetto/",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/25/25-aprile-mattarella-allaltare-della-patria-rende-omaggio-ai-caduti_84827b4b-0146-4647-998d-a6cd5b9916e3.html",
-        "https://www.ansa.it/sito/notizie/dirette_live/2026/04/24/25-aprile-altare-della-patria-deposizione-di-una-corona-dalloro-in-occasione-dell81_f0765ee0-5f09-49e0-8bfb-7576c25d2b76.html"
+        "https://www.adnkronos.com/economia/di-foggia-terna-eni-buonuscita_1o6nqUUeYF87u2MBpSEYwA",
+        "https://www.ansa.it/sito/notizie/economia/2026/04/25/terna-sottoscritto-accordo-con-di-foggia.-rinuncia-all-indennita-come-dg_101f226e-ac2a-43e4-b282-859805084b0a.html",
+        "https://www.ilgiornale.it/news/aziende/terna-ceo-giuseppina-foggia-rinuncia-buonuscita-73-milioni-2656338.html",
+        "https://www.ilfattoquotidiano.it/2026/04/25/terna-di-foggia-buonuscita/8366281/",
+        "https://www.ilmessaggero.it/economia/news/giuseppina_di_terna_indennizzo_7_milioni_terna_buonuscita_oggi-9495030.html"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "La resa di Alcaraz, lo spagnolo salta Roma e Parigi",
       "source_count": 7,
       "article_count": 7,
@@ -96,7 +120,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Caro energia, i falchi bloccano Roma e Madrid: “Non potete chiedere altri soldi”",
       "source_count": 6,
       "article_count": 6,
@@ -117,7 +141,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Serie A: Il Napoli strapazza la Cremonese e rinvia la festa scudetto dell'Inter",
       "source_count": 6,
       "article_count": 6,
@@ -135,26 +159,6 @@
         "https://www.ilgiornale.it/news/calcio/serie-napoli-travolge-4-0-cremonese-e-rimanda-scudetto-dell-2656144.html",
         "https://www.liberoquotidiano.it/news/sport/47424807/il-napoli-travolge-la-cremonese-4-a-0-rimandata-la-festa-scudetto-nerazzurra/",
         "https://www.ilfattoquotidiano.it/2026/04/24/napoli-cremonese-inter-scudetto-festa-quando/8366137/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Delitto di Garlasco, la Procura: Stasi va liberato. \"Ma iter lungo e difficile\"",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/i-pm-revisione-processo-stasi-2656171.html",
-        "https://www.fanpage.it/attualita/garlasco-lesperto-spiega-liter-per-arrivare-alla-revisione-per-stasi-ce-un-collegamento-con-sempio/",
-        "https://www.ilmessaggero.it/persone/sempio_rischio_processo_perche-9493776.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/24/linchiesta-garlasco-verso-la-conclusione-atteso-un-incontro-tra-il-pm-di-pavia-e-la-procuratrice-generale_f7c17303-1c50-4933-aaca-3bfcad42c1a1.html",
-        "https://www.ilgiornale.it/news/attualit/delitto-garlasco-procura-stasi-va-liberato-iter-lungo-e-2655971.html"
       ]
     },
     {
@@ -179,26 +183,6 @@
     },
     {
       "rank": 9,
-      "title": "Neonati sepolti, Chiara Petrolini condannata a 24 anni e tre mesi ma assolta dall'accusa di omicidio del primogenito",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "unita.it",
-        "ilmessaggero.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/chiara-e-i-neonati-sepolti-24-anni-omicidio-2656168.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/24/neonati-sepolti-chiara-petrolini-condannata-a-24-anni-e-tre-mesi_6f6f0388-2c29-4592-bf45-ee40044f7c74.html",
-        "https://www.unita.it/2026/04/24/chiara-petrolini-neonati-sepolti-condannata-omicidio/",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/neonati-sepolti-chiara-petrolini-condannata-24-anni-e-tre-2655983.html",
-        "https://www.ilmessaggero.it/italia/chiara_petrolini_condannata_oggi-9493160.html"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "25 aprile, Anpi e antagonisti in piazza",
       "source_count": 4,
       "article_count": 7,
@@ -214,6 +198,26 @@
         "https://www.fanpage.it/roma/festa-della-liberazione-oggi-antifascisti-in-piazza-bandiere-della-palestina-a-san-paolo-corteo-a-roma-est/",
         "https://www.repubblica.it/politica/2026/04/25/diretta/25_aprile_festa_liberazione_meloni_mattarella-425305281/",
         "https://www.fanpage.it/live/manifestazioni-25-aprile-italia-diretta-ultime-news/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "I pm: \"Revisione del processo a Stasi\"",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/i-pm-revisione-processo-stasi-2656171.html",
+        "https://www.fanpage.it/attualita/garlasco-lesperto-spiega-liter-per-arrivare-alla-revisione-per-stasi-ce-un-collegamento-con-sempio/",
+        "https://www.ilmessaggero.it/persone/sempio_rischio_processo_perche-9493776.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/24/linchiesta-garlasco-verso-la-conclusione-atteso-un-incontro-tra-il-pm-di-pavia-e-la-procuratrice-generale_f7c17303-1c50-4933-aaca-3bfcad42c1a1.html",
+        "https://www.ilsole24ore.com/art/procura-pavia-pronta-chiedere-revisione-processo-stasi-pg-nanni-studio-carte-ne-facile-ne-veloce-AIkU9rgC"
       ]
     }
   ]
