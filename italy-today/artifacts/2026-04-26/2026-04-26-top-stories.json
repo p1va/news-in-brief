@@ -1,58 +1,80 @@
 {
   "date": "2026-04-26",
-  "generated_at": "Sun 26 Apr 10:54",
+  "generated_at": "Sun 26 Apr 11:45",
   "stories": [
     {
       "rank": 1,
       "title": "Attentato a Trump, notizie in diretta: fermato l’uomo che ha sparato alla cena dei giornalisti della Casa Bianca",
       "source_count": 11,
-      "article_count": 29,
+      "article_count": 33,
       "source_domains": [
+        "ilgiornale.it",
         "ansa.it",
         "laverita.info",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "adnkronos.com",
+        "repubblica.it",
         "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
         "ilmanifesto.it",
         "fanpage.it",
         "lastampa.it",
-        "ilmessaggero.it",
-        "repubblica.it"
+        "ilmessaggero.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/cronaca-internazionale/ci-siamo-abbassati-sotto-i-tavoli-abbiamo-sentito-spari-2656620.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/26/spari-alla-cena-dei-media-con-trump-i-video_4967d1ff-c9ec-4aca-baae-6a1f8e3b7afe.html",
         "https://www.laverita.info/spari-gala-attentato-trump-washington-2676815505.html",
-        "https://www.ilfattoquotidiano.it/2026/04/26/attentato-trump-video-spari-washington-news/8366832/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/washington-sotto-choc-film-sparatoria-e-i-dubbi-sulla-2656512.html",
-        "https://www.ilfattoquotidiano.it/2026/04/26/attentato-trump-vance-evacuazione-video-news/8366817/"
+        "https://www.repubblica.it/esteri/2026/04/26/news/attentato_a_trump_reazioni_leader_stranieri-425307120/",
+        "https://www.liberoquotidiano.it/news/tv-news/47440634/spari-a-cena-con-media-e-trump-gli-agenti-nella-casa-del-sospettato/"
       ]
     },
     {
       "rank": 2,
       "title": "Designatore degli arbitri Rocchi indagato per frode: «Avrebbe favorito l’Inter»",
-      "source_count": 8,
-      "article_count": 18,
+      "source_count": 9,
+      "article_count": 20,
       "source_domains": [
+        "adnkronos.com",
+        "lastampa.it",
         "ilgiornale.it",
         "fanpage.it",
         "repubblica.it",
         "ilmessaggero.it",
-        "lastampa.it",
         "ansa.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/bufera-arbitri-serie-a-rocchi-gianluca-indagati-var-rischi-inter-cosa-sappiamo_3NapokbExjuDlUlHKzY2hu",
+        "https://www.lastampa.it/sport/2026/04/26/news/caso_rocchi_faide_arbitri_inchiesta-15599871/",
         "https://www.ilgiornale.it/news/calcio/scandalo-arbitri-designatore-rocchi-si-autosospende-ministro-2656522.html",
         "https://www.fanpage.it/sport/calcio/rocchi-cosa-rischia-linter-la-figc-sara-commissariata-chi-designera-gli-arbitri-tutte-le-risposte/",
-        "https://www.fanpage.it/sport/calcio/il-caso-rocchi-scoperchia-le-faide-nellaia-voti-studiati-per-aggiustare-le-classifiche-degli-arbitri/",
-        "https://www.ilgiornale.it/news/politica/rocchi-indagato-laccusa-dei-pm-designatore-scelse-arbitri-2656445.html",
-        "https://www.repubblica.it/sport/calcio/serie-a/2026/04/26/news/rocchi_indagato_arbitri_inter_riunioni_san_siro-425306548/"
+        "https://www.fanpage.it/sport/calcio/il-caso-rocchi-scoperchia-le-faide-nellaia-voti-studiati-per-aggiustare-le-classifiche-degli-arbitri/"
       ]
     },
     {
       "rank": 3,
+      "title": "25 aprile, Brigata ebraica cacciata dal corteo: istanti concitati",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "ilgiornale.it",
+        "milano.repubblica.it",
+        "ilmanifesto.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/interni/l-anpi-ha-organizzato-tutto-ci-vediamo-tribunale-scontro-2656609.html",
+        "https://milano.repubblica.it/cronaca/2026/04/26/news/25_aprile_a_milano_corteo_brigata_ebraica_anpi_polemiche-425307082/",
+        "https://milano.repubblica.it/cronaca/2026/04/26/news/25_aprile_milano_insulti_shock_brigata_ebraica_corteo_scorta-425306522/",
+        "https://ilmanifesto.it/brigata-ebraica-contro-lanpi-a-milano-e-scontro-sul-corteo",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/25/25-aprile-corteo-a-milano-la-brigata-ebraica-cacciati-da-una-minoranza-e-dalla-polizia_3ef9ef84-c895-4b23-98c2-2777a2542f34.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Chi è Cole Tomas Allen, l’uomo arrestato per l’attentato a Trump durante la cena con i giornalisti",
       "source_count": 8,
       "article_count": 9,
@@ -75,7 +97,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Gli spari a Roma sul 25 aprile: coppia ferita da un uomo in moto. “Un attacco alla democrazia”",
       "source_count": 7,
       "article_count": 9,
@@ -97,46 +119,25 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "25 aprile, Brigata ebraica cacciata dal corteo: istanti concitati",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "milano.repubblica.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://milano.repubblica.it/cronaca/2026/04/26/news/25_aprile_a_milano_corteo_brigata_ebraica_anpi_polemiche-425307082/",
-        "https://milano.repubblica.it/cronaca/2026/04/26/news/25_aprile_milano_insulti_shock_brigata_ebraica_corteo_scorta-425306522/",
-        "https://ilmanifesto.it/brigata-ebraica-contro-lanpi-a-milano-e-scontro-sul-corteo",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/25/25-aprile-corteo-a-milano-la-brigata-ebraica-cacciati-da-una-minoranza-e-dalla-polizia_3ef9ef84-c895-4b23-98c2-2777a2542f34.html",
-        "https://www.liberoquotidiano.it/news/libero-video/47431903/25-aprile-brigata-ebraica-cacciata-dal-corteo-istanti-concitati/"
-      ]
-    },
-    {
       "rank": 6,
       "title": "Treviso: bimba di 18 mesi rimane incastrata nel tosaerba, è in pericolo di vita",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "fanpage.it",
         "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/26/bambina-schiacciata-tagliaerba-loria-treviso-notizie/8366922/",
         "https://www.ilgiornale.it/news/cronaca-locale/orrore-treviso-bimba-18-mesi-rimane-incastrata-nel-tosaerba-2656515.html",
         "https://www.fanpage.it/attualita/treviso-bimba-di-18-mesi-schiacciata-dal-tosaerba-guidato-dal-padre-e-in-pericolo-di-vita/",
         "https://www.liberoquotidiano.it/news/italia/47434502/treviso-bimba-18-mesi-resta-incastrata-tosaerba-gravissima/",
-        "https://www.ilfattoquotidiano.it/2026/04/25/bambina-incastrata-tosaerba-treviso-notizie/8366545/",
-        "https://www.ilmessaggero.it/italia/bambina_18_mesi_tosaerba_pericolo_vita_loria-9495406.html"
+        "https://www.ilfattoquotidiano.it/2026/04/25/bambina-incastrata-tosaerba-treviso-notizie/8366545/"
       ]
     },
     {
@@ -180,23 +181,22 @@
     },
     {
       "rank": 9,
-      "title": "Torino-Inter: dove vederla (tv e streaming), orario e probabili formazioni del matchball scudetto di Serie A",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Sinner-Moller: orario, precedenti e dove vederla in tv",
+      "source_count": 5,
+      "article_count": 8,
       "source_domains": [
         "adnkronos.com",
         "fanpage.it",
-        "ilgiornale.it",
         "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "ilgiornale.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.adnkronos.com/sport/torino-inter-oggi-serie-a-orario-formazioni-dove-vederla-tv-streaming_2GoWM4aGe6TMho7d8i7Iqo",
-        "https://www.fanpage.it/sport/calcio/torino-inter-dove-vederla-oggi-in-tv-e-streaming-orario-e-formazioni/",
-        "https://www.ilgiornale.it/news/sport/passa-torino-treno-inter-diretto-verso-titolo-2656472.html",
-        "https://www.repubblica.it/sport/calcio/serie-a/inter/2026/04/26/news/inter_torino_scudetto_inchiesta-425306577/",
-        "https://www.ilmessaggero.it/sport/schede/torino_inter_dove_vederla_tv_orario_formazioni_serie_a-9495206.html"
+        "https://www.adnkronos.com/sport/diretta-musetti-griekspoor-oggi-terzo-turno-masters-1000-madrid-live-risultato_6J6vFPVi8cyHdWOAZN70bO",
+        "https://www.fanpage.it/sport/live/sinner-moller-in-diretta-live-in-campo-dalle-16-allatp-madrid-2026-jannik-in-campo-nei-sedicesimi-di-finale/",
+        "https://www.repubblica.it/sport/tennis/2026/04/26/diretta/musetti_griekspoor_madrid_open_risultati_oggi-425307156/",
+        "https://www.ilgiornale.it/news/tennis/atp-madrid-sinner-contro-moller-chi-l-avversario-e-quando-2656507.html",
+        "https://www.adnkronos.com/sport/musetti-griekspoor-oggi-atp-madrid-orario-dove-vederla-tv_24nEhRUJvmZn7JIgSqUsPG"
       ]
     },
     {
