@@ -1,12 +1,12 @@
 {
   "date": "2026-04-26",
-  "generated_at": "Sun 26 Apr 14:54",
+  "generated_at": "Sun 26 Apr 15:52",
   "stories": [
     {
       "rank": 1,
       "title": "Attentato a Trump, notizie in diretta: fermato l’uomo che ha sparato alla cena dei giornalisti della Casa Bianca",
-      "source_count": 11,
-      "article_count": 42,
+      "source_count": 12,
+      "article_count": 43,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
@@ -18,7 +18,8 @@
         "ilmanifesto.it",
         "fanpage.it",
         "lastampa.it",
-        "ilmessaggero.it"
+        "ilmessaggero.it",
+        "news.google.com"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/mondo/2026/04/26/spari-al-gala-con-i-giornalisti-sui-social-dellaggressore-retorica-anti-trump_60bfcf1c-6673-41e1-9113-e155c94a6c62.html",
@@ -32,27 +33,50 @@
       "rank": 2,
       "title": "Inchiesta arbitri: dagli indagati alle pressioni Var e designazioni 'pro-Inter', cosa sappiamo finora",
       "source_count": 8,
-      "article_count": 21,
+      "article_count": 22,
       "source_domains": [
+        "ilgiornale.it",
         "adnkronos.com",
         "ansa.it",
         "ilmessaggero.it",
         "lastampa.it",
-        "ilgiornale.it",
         "fanpage.it",
         "laverita.info",
         "repubblica.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/calcio/arbitropoli-tutto-che-c-sapere-sul-nuovo-scandalo-calcio-2656650.html",
         "https://www.adnkronos.com/sport/inchiesta-arbitri-commissariamento-figc-cosa-succede-regolamento_2L7xmjyteA6LJUU4yRVRwU",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/26/inchiesta-arbitri-rocca-scrisse-su-inter-roma-fu-favorito-il-napoli_616653d6-ebb0-46b5-acef-7f7c2a216457.html",
         "https://www.ilmessaggero.it/sport/calcio/inchiesta_arbitri_rocchi_gervasoni_paterna_cosa_facevano_var_partite-9496842.html",
-        "https://www.adnkronos.com/sport/bufera-arbitri-serie-a-rocchi-gianluca-indagati-var-rischi-inter-cosa-sappiamo_3NapokbExjuDlUlHKzY2hu",
-        "https://www.lastampa.it/sport/2026/04/26/news/caso_rocchi_faide_arbitri_inchiesta-15599871/"
+        "https://www.adnkronos.com/sport/bufera-arbitri-serie-a-rocchi-gianluca-indagati-var-rischi-inter-cosa-sappiamo_3NapokbExjuDlUlHKzY2hu"
       ]
     },
     {
       "rank": 3,
+      "title": "Madrid, oggi Sinner-Moller al terzo turno - Il match in diretta",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_madrid_ottavi_norrie_o_tirante_dove_vederla-9496991.html",
+        "https://www.ilmessaggero.it/sport/schede/musetti_quando_gioca_madrid_lehecka_ottavi_orario_dove_vederla_tv_streaming-9496950.html",
+        "https://www.ilfattoquotidiano.it/2026/04/26/musetti-griekspoor-vittoria-analisi-commento-ottavi-atp-madrid-news/8367066/",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/26/tennis-musetti-agli-ottavi-a-madrid-battuto-lolandese-griekspoor_b96460d3-5ce4-451f-a1c3-6021f9ab9317.html",
+        "https://www.adnkronos.com/sport/diretta-sinner-moller-oggi-terzo-turno-madrid-live-risultato-aggiornamenti_6yIb1f4KbRmf1Zuupau5ow"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Marquez, festa a metà a Jerez: vince Alex, Marc cade. Bezzecchi e Di Giannantonio sul podio",
       "source_count": 8,
       "article_count": 12,
@@ -75,10 +99,10 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Chernobyl, ecco cosa è successo 40 anni fa",
       "source_count": 6,
-      "article_count": 11,
+      "article_count": 13,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
@@ -88,15 +112,37 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/47443195/papa-40-anni-di-chernobyl-atomica-sia-a-servizio-di-vita-e-pace/",
+        "https://www.liberoquotidiano.it/news/tv-news/47442708/pecoraro-scanio-a-40-anni-da-chernobyl-nucleare-un-resta-pericolo/",
         "https://www.liberoquotidiano.it/news/tv-news/47441769/cerimonia-in-ucraina-per-i-40-anni-dal-disastro-nucleare-di-chernobyl/",
         "https://www.ansa.it/canale_scienza/notizie/energia/2026/04/26/a-chernobyl-40-anni-fa-il-piu-grave-incidente-nucleare-_6d8fce3a-44b8-4621-8ba5-50557926214d.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/26/zelensky-ricorda-chernobyl-dalla-russia-oggi-terrorismo-nucleare_adda394e-965d-46ae-9714-cbfb74fa0c05.html",
-        "https://www.adnkronos.com/internazionale/esteri/quarantanni-fa-il-disastro-di-chernobyl_2tkMurlLfTTDfvReL5lbJW",
-        "https://www.repubblica.it/cronaca/2026/04/26/news/cosa_e_successo_a_chernobyl_quando_cause-425306185/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/26/zelensky-ricorda-chernobyl-dalla-russia-oggi-terrorismo-nucleare_adda394e-965d-46ae-9714-cbfb74fa0c05.html"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "La Fenice, annullate tutte le collaborazioni con Beatrice Venezi. Giuli: pieno sostegno al sovrintendente",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cultura/2026/04/26/fondazione-la-fenice-annullate-tutte-le-collaborazioni-con-venezi-_0d38fd5a-10f3-4e26-bc9b-c5759ffd9443.html",
+        "https://www.ilfattoquotidiano.it/2026/04/26/venezi-fenice-licenziamento-dichiarazioni-notizie/8367160/",
+        "https://www.ilmessaggero.it/italia/beatrice_venezi_stop_collaborazione_teatro_fenice_cosa_succede-9496968.html",
+        "https://www.ilgiornale.it/news/teatro/fondazione-fenice-annullate-tutte-collaborazioni-beatrice-2656648.html",
+        "https://www.adnkronos.com/spettacoli/fenice-venezi-stop-collaborazione-licenziamento-oggi_KF7XsfQgaGP9SGM37mTuY"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Chi è Cole Tomas Allen, l’uomo arrestato per l’attentato a Trump durante la cena con i giornalisti",
       "source_count": 8,
       "article_count": 9,
@@ -116,49 +162,6 @@
         "https://www.ilfattoquotidiano.it/2026/04/26/attentato-trump-cole-allen-casa-bianca-news/8366780/",
         "https://www.ilgiornale.it/news/cronaca-internazionale/insegnante-sviluppatore-videogiochi-donatore-kamala-harris-2656497.html",
         "https://www.repubblica.it/esteri/2026/04/26/news/spari_alla_cena_di_trump_con_i_giornalisti_chi_e_l_attentatore-425306713/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Madrid, oggi Sinner-Moller al terzo turno - Il match in diretta",
-      "source_count": 6,
-      "article_count": 11,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "repubblica.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/schede/musetti_quando_gioca_madrid_lehecka_ottavi_orario_dove_vederla_tv_streaming-9496950.html",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/26/tennis-musetti-agli-ottavi-a-madrid-battuto-lolandese-griekspoor_b96460d3-5ce4-451f-a1c3-6021f9ab9317.html",
-        "https://www.adnkronos.com/sport/diretta-sinner-moller-oggi-terzo-turno-madrid-live-risultato-aggiornamenti_6yIb1f4KbRmf1Zuupau5ow",
-        "https://www.adnkronos.com/sport/diretta-musetti-griekspoor-oggi-terzo-turno-masters-1000-madrid-live-risultato_6J6vFPVi8cyHdWOAZN70bO",
-        "https://www.fanpage.it/sport/live/sinner-moller-in-diretta-live-in-campo-dalle-16-allatp-madrid-2026-jannik-in-campo-nei-sedicesimi-di-finale/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "25 Aprile a Milano, Meghnagi: “L’Anpi non voleva gli ebrei”. La replica: “Parole farneticanti”",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "milano.repubblica.it",
-        "laverita.info",
-        "ilmessaggero.it",
-        "ilmanifesto.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/interni/l-anpi-ha-organizzato-tutto-ci-vediamo-tribunale-scontro-2656609.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/26/spari-a-roma-anpi-non-ci-lasceremo-intimidire.-meghnagi-a-milano-tutto-organizzato_f34c5360-4750-49fb-8400-7f6c6c79d6ae.html",
-        "https://milano.repubblica.it/cronaca/2026/04/26/news/25_aprile_a_milano_corteo_brigata_ebraica_anpi_polemiche-425307082/",
-        "https://www.laverita.info/festa-liberazione-un-caos-2676815414.html",
-        "https://milano.repubblica.it/cronaca/2026/04/26/news/25_aprile_milano_insulti_shock_brigata_ebraica_corteo_scorta-425306522/"
       ]
     },
     {
@@ -185,35 +188,15 @@
     },
     {
       "rank": 9,
-      "title": "Spari, coppia ferita all’evento Anpi. \"Un uomo col casco e la tuta mimetica\"",
-      "source_count": 6,
+      "title": "Saluti romani a Dongo, gli antifascisti lanciano gavettoni di sterco e cantano “Bella ciao”",
+      "source_count": 7,
       "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "roma.repubblica.it",
-        "lastampa.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/interni/spari-coppia-ferita-all-evento-anpi-uomo-col-casco-e-tuta-2656556.html",
-        "https://www.adnkronos.com/cronaca/25-aprile-anpi-roma-condanniamo-atto-terrorista-non-ci-lasceremo-intimidire_cDUoBUoTIxHUkPACM8d9O",
-        "https://www.fanpage.it/roma/spari-in-piazza-a-roma-il-25-aprile-colpiti-marito-e-moglie-da-un-uomo-in-moto-indaga-la-digos/",
-        "https://roma.repubblica.it/cronaca/2026/04/26/news/25_aprile_spari_roma_parco_schuster-425306574/",
-        "https://roma.repubblica.it/cronaca/2026/04/26/news/spari_corteo_25_aprile_parco_schuster_rossana_gabrielli-425306497/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Saluti romani a Dongo, gli antifascisti cantano “Bella ciao”",
-      "source_count": 6,
-      "article_count": 7,
       "source_domains": [
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
         "ansa.it",
+        "liberoquotidiano.it",
         "milano.repubblica.it",
         "fanpage.it"
       ],
@@ -222,7 +205,28 @@
         "https://www.ilfattoquotidiano.it/2026/04/26/saluti-romani-dongo-neofascisti-antifascisti-news/8367067/",
         "https://www.ilgiornale.it/news/interni/bella-ciao-escrementi-e-cori-lassalto-degli-antifascisti-ai-2656632.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/26/saluti-romani-dei-neofascisti-a-dongo.-a-predappio-in-150-per-commemorare-mussolini_d5ab26b5-2357-4bda-88bd-711d83e173b8.html",
-        "https://milano.repubblica.it/cronaca/2026/04/26/news/dongo_saluti_romani_apologia_fascismo_costituzione-425307247/"
+        "https://www.liberoquotidiano.it/news/libero-video/47441767/saluti-romani-a-dongo-antifascisti-lanciano-palloncini-con-sterco/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Maratona di Londra, Sawe fa la storia: muro delle 2 ore abbattuto, nuovo record del mondo",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/04/26/sawe-e-storia-il-primo-a-correre-la-maratona-sotto-le-2-ore_b2933869-33b4-4c77-85e4-ade6ea70895d.html",
+        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/04/26/record-del-mondo-maratona-a-londra-sawe-il-primo-sotto-le-2-ore_b2933869-33b4-4c77-85e4-ade6ea70895d.html",
+        "https://www.fanpage.it/sport/altri-sport/sabastian-sawe-scrive-la-storia-della-maratona-a-londra-diventa-il-primo-a-chiuderla-in-meno-di-due-ore/",
+        "https://www.ansa.it/sito/notizie/flash/2026/04/26/record-mondo-maratona-sawe-il-primo-sotto-le-2-ore-a-londra_3164f4dc-1a63-4481-8c6d-274cad4d96e9.html",
+        "https://www.repubblica.it/sport/vari/2026/04/26/news/sawe_maratona_record_mondo-425307238/"
       ]
     }
   ]
