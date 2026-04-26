@@ -1,37 +1,38 @@
 {
   "date": "2026-04-26",
-  "generated_at": "Sun 26 Apr 09:10",
+  "generated_at": "Sun 26 Apr 10:54",
   "stories": [
     {
       "rank": 1,
-      "title": "Spari alla cena dei corrispondenti con Trump, ferito un agente. I colpi, la fuga e il panico in sala. Fermato l'assalitore",
-      "source_count": 10,
-      "article_count": 32,
+      "title": "Attentato a Trump, notizie in diretta: fermato l’uomo che ha sparato alla cena dei giornalisti della Casa Bianca",
+      "source_count": 11,
+      "article_count": 29,
       "source_domains": [
         "ansa.it",
+        "laverita.info",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "fanpage.it",
         "adnkronos.com",
+        "liberoquotidiano.it",
         "ilmanifesto.it",
+        "fanpage.it",
         "lastampa.it",
         "ilmessaggero.it",
-        "repubblica.it",
-        "liberoquotidiano.it"
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/26/chi-e-cole-tomas-allen-luomo-che-ha-aperto-il-fuoco-alla-cena_783c8948-e2f1-4700-8668-043c32d5627c.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/26/spari-alla-cena-dei-media-con-trump-i-video_4967d1ff-c9ec-4aca-baae-6a1f8e3b7afe.html",
+        "https://www.laverita.info/spari-gala-attentato-trump-washington-2676815505.html",
         "https://www.ilfattoquotidiano.it/2026/04/26/attentato-trump-video-spari-washington-news/8366832/",
         "https://www.ilgiornale.it/news/cronaca-internazionale/washington-sotto-choc-film-sparatoria-e-i-dubbi-sulla-2656512.html",
-        "https://www.ilfattoquotidiano.it/2026/04/26/attentato-trump-vance-evacuazione-video-news/8366817/",
-        "https://www.fanpage.it/esteri/chi-e-cole-tomas-allen-luomo-arrestato-per-lattentato-a-trump-durante-la-cena-con-i-giornalisti/"
+        "https://www.ilfattoquotidiano.it/2026/04/26/attentato-trump-vance-evacuazione-video-news/8366817/"
       ]
     },
     {
       "rank": 2,
       "title": "Designatore degli arbitri Rocchi indagato per frode: «Avrebbe favorito l’Inter»",
       "source_count": 8,
-      "article_count": 17,
+      "article_count": 18,
       "source_domains": [
         "ilgiornale.it",
         "fanpage.it",
@@ -46,19 +47,62 @@
         "https://www.ilgiornale.it/news/calcio/scandalo-arbitri-designatore-rocchi-si-autosospende-ministro-2656522.html",
         "https://www.fanpage.it/sport/calcio/rocchi-cosa-rischia-linter-la-figc-sara-commissariata-chi-designera-gli-arbitri-tutte-le-risposte/",
         "https://www.fanpage.it/sport/calcio/il-caso-rocchi-scoperchia-le-faide-nellaia-voti-studiati-per-aggiustare-le-classifiche-degli-arbitri/",
-        "https://www.repubblica.it/sport/calcio/serie-a/2026/04/26/news/rocchi_indagato_arbitri_inter_riunioni_san_siro-425306548/",
-        "https://www.repubblica.it/sport/calcio/serie-a/2026/04/26/news/rocchi_indagato_commento_crosetti-425306452/"
+        "https://www.ilgiornale.it/news/politica/rocchi-indagato-laccusa-dei-pm-designatore-scelse-arbitri-2656445.html",
+        "https://www.repubblica.it/sport/calcio/serie-a/2026/04/26/news/rocchi_indagato_arbitri_inter_riunioni_san_siro-425306548/"
       ]
     },
     {
       "rank": 3,
-      "title": "25 aprile, Brigata ebraica cacciata dal corteo: istanti concitati",
+      "title": "Chi è Cole Tomas Allen, l’uomo arrestato per l’attentato a Trump durante la cena con i giornalisti",
       "source_count": 8,
-      "article_count": 12,
+      "article_count": 9,
       "source_domains": [
-        "laverita.info",
-        "milano.repubblica.it",
+        "ansa.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
         "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/26/chi-e-cole-tomas-allen-luomo-che-ha-aperto-il-fuoco-alla-cena_783c8948-e2f1-4700-8668-043c32d5627c.html",
+        "https://www.fanpage.it/esteri/chi-e-cole-tomas-allen-luomo-arrestato-per-lattentato-a-trump-durante-la-cena-con-i-giornalisti/",
+        "https://www.ilfattoquotidiano.it/2026/04/26/attentato-trump-cole-allen-casa-bianca-news/8366780/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/insegnante-sviluppatore-videogiochi-donatore-kamala-harris-2656497.html",
+        "https://www.repubblica.it/esteri/2026/04/26/news/spari_alla_cena_di_trump_con_i_giornalisti_chi_e_l_attentatore-425306713/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Gli spari a Roma sul 25 aprile: coppia ferita da un uomo in moto. “Un attacco alla democrazia”",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "roma.repubblica.it",
+        "lastampa.it",
+        "ansa.it",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/interni/spari-coppia-ferita-all-evento-anpi-uomo-col-casco-e-tuta-2656556.html",
+        "https://www.adnkronos.com/cronaca/25-aprile-anpi-roma-condanniamo-atto-terrorista-non-ci-lasceremo-intimidire_cDUoBUoTIxHUkPACM8d9O",
+        "https://www.fanpage.it/roma/spari-in-piazza-a-roma-il-25-aprile-colpiti-marito-e-moglie-da-un-uomo-in-moto-indaga-la-digos/",
+        "https://roma.repubblica.it/cronaca/2026/04/26/news/25_aprile_spari_roma_parco_schuster-425306574/",
+        "https://www.lastampa.it/cronaca/2026/04/26/news/si_e_fermato_in_moto_e_ha_estratto_l_arma_il_racconto_dei_coniugi_feriti_al_25_aprile_di_roma-15599499/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "25 aprile, Brigata ebraica cacciata dal corteo: istanti concitati",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "milano.repubblica.it",
         "ilmanifesto.it",
         "ansa.it",
         "liberoquotidiano.it",
@@ -66,38 +110,15 @@
         "news.google.com"
       ],
       "links": [
-        "https://www.laverita.info/festa-liberazione-un-caos-2676815414.html",
+        "https://milano.repubblica.it/cronaca/2026/04/26/news/25_aprile_a_milano_corteo_brigata_ebraica_anpi_polemiche-425307082/",
         "https://milano.repubblica.it/cronaca/2026/04/26/news/25_aprile_milano_insulti_shock_brigata_ebraica_corteo_scorta-425306522/",
-        "https://www.ilmessaggero.it/roma/centro_storico/roma_spari_corteo_25_aprile_cosa_e_successo-9495550.html",
         "https://ilmanifesto.it/brigata-ebraica-contro-lanpi-a-milano-e-scontro-sul-corteo",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/25/25-aprile-corteo-a-milano-la-brigata-ebraica-cacciati-da-una-minoranza-e-dalla-polizia_3ef9ef84-c895-4b23-98c2-2777a2542f34.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/25/25-aprile-corteo-a-milano-la-brigata-ebraica-cacciati-da-una-minoranza-e-dalla-polizia_3ef9ef84-c895-4b23-98c2-2777a2542f34.html",
+        "https://www.liberoquotidiano.it/news/libero-video/47431903/25-aprile-brigata-ebraica-cacciata-dal-corteo-istanti-concitati/"
       ]
     },
     {
-      "rank": 4,
-      "title": "Gli spari a Roma sul 25 aprile: coppia ferita da un uomo in moto. “Un attacco alla democrazia”",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "roma.repubblica.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/roma/spari-in-piazza-a-roma-il-25-aprile-colpiti-marito-e-moglie-da-un-uomo-in-moto-indaga-la-digos/",
-        "https://www.liberoquotidiano.it/news/italia/47437332/casco_integrale_e_giubbotto_militare_caccia_all_uomo_del_25_aprile/",
-        "https://roma.repubblica.it/cronaca/2026/04/26/news/25_aprile_spari_roma_parco_schuster-425306574/",
-        "https://www.lastampa.it/cronaca/2026/04/26/news/si_e_fermato_in_moto_e_ha_estratto_l_arma_il_racconto_dei_coniugi_feriti_al_25_aprile_di_roma-15599499/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/25/colpi-di-pistola-ad-aria-compressa-a-roma-contro-due-iscritti-allanpi-ferita_6eb8bb86-2406-4b3d-ac8b-30406cd74880.html"
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "Treviso: bimba di 18 mesi rimane incastrata nel tosaerba, è in pericolo di vita",
       "source_count": 7,
       "article_count": 7,
@@ -119,7 +140,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "25 aprile, Meloni: 'Ricordiamo la sconfitta dell'oppressione fascista'",
       "source_count": 5,
       "article_count": 9,
@@ -139,32 +160,33 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Chernobyl, ecco cosa è successo 40 anni fa",
       "source_count": 4,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "repubblica.it",
         "ansa.it",
+        "repubblica.it",
         "adnkronos.com",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/canale_scienza/notizie/energia/2026/04/26/a-chernobyl-40-anni-fa-il-piu-grave-incidente-nucleare-_6d8fce3a-44b8-4621-8ba5-50557926214d.html",
         "https://www.repubblica.it/esteri/2026/04/26/news/chernobyl_40_anni_esplosione_centrale_nucleare_timeline-425307068/",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/26/zelensky-ricorda-chernobyl-dalla-russia-oggi-terrorismo-nucleare_adda394e-965d-46ae-9714-cbfb74fa0c05.html",
         "https://www.adnkronos.com/internazionale/esteri/quarantanni-fa-il-disastro-di-chernobyl_2tkMurlLfTTDfvReL5lbJW",
-        "https://www.repubblica.it/cronaca/2026/04/26/news/cosa_e_successo_a_chernobyl_quando_cause-425306185/",
-        "https://www.repubblica.it/esteri/2026/04/26/news/svetlana_aleksievich_fantasma_di_chernobyl_pesa_sul_nostro_futuro-425306194/"
+        "https://www.repubblica.it/cronaca/2026/04/26/news/cosa_e_successo_a_chernobyl_quando_cause-425306185/"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Torino-Inter: dove vederla (tv e streaming), orario e probabili formazioni del matchball scudetto di Serie A",
-      "source_count": 5,
-      "article_count": 5,
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
         "adnkronos.com",
         "fanpage.it",
+        "ilgiornale.it",
         "repubblica.it",
         "ilmessaggero.it",
         "lastampa.it"
@@ -172,47 +194,28 @@
       "links": [
         "https://www.adnkronos.com/sport/torino-inter-oggi-serie-a-orario-formazioni-dove-vederla-tv-streaming_2GoWM4aGe6TMho7d8i7Iqo",
         "https://www.fanpage.it/sport/calcio/torino-inter-dove-vederla-oggi-in-tv-e-streaming-orario-e-formazioni/",
+        "https://www.ilgiornale.it/news/sport/passa-torino-treno-inter-diretto-verso-titolo-2656472.html",
         "https://www.repubblica.it/sport/calcio/serie-a/inter/2026/04/26/news/inter_torino_scudetto_inchiesta-425306577/",
-        "https://www.ilmessaggero.it/sport/schede/torino_inter_dove_vederla_tv_orario_formazioni_serie_a-9495206.html",
-        "https://www.lastampa.it/sport/2026/04/25/news/d_aversa_conferenza_stampa_vigilia_toro_inter-15598924/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Trump cancella il viaggio di Witkoff e Kushner in Pakistan. Netanyahu ordina di attaccare in Libano",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "fanpage.it",
-        "laverita.info",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/esteri/guerra-in-iran-le-notizie-di-oggi-negoziati-in-stallo-trump-annulla-il-viaggio-in-pakistan-di-witkoff-e-kushner/",
-        "https://www.laverita.info/pakistan-americani-a-casa-2676815319.html",
-        "https://www.repubblica.it/esteri/2026/04/26/news/trump_cancella_il_vertice_di_islamabad_i_negoziati_una_perdita_di_tempo_se_vuole_l_iran_mi_chiami-425306514/",
-        "https://www.repubblica.it/esteri/2026/04/26/diretta/guerra_iran_usa_israele_news_oggi-425306611/",
-        "https://www.lastampa.it/esteri/2026/04/26/diretta/guerra_iran_usa_israele_news_oggi-15599555/"
+        "https://www.ilmessaggero.it/sport/schede/torino_inter_dove_vederla_tv_orario_formazioni_serie_a-9495206.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Sinner-Moller: orario, precedenti e dove vederla in tv",
+      "title": "Trump cancella il viaggio di Witkoff e Kushner in Pakistan. Netanyahu ordina di attaccare in Libano",
       "source_count": 4,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
         "ilgiornale.it",
-        "adnkronos.com",
         "fanpage.it",
-        "ilmessaggero.it"
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/tennis/atp-madrid-sinner-contro-moller-chi-l-avversario-e-quando-2656507.html",
-        "https://www.adnkronos.com/sport/musetti-griekspoor-oggi-atp-madrid-orario-dove-vederla-tv_24nEhRUJvmZn7JIgSqUsPG",
-        "https://www.adnkronos.com/sport/sinner-moller-oggi-atp-madrid-orario-dove-vederla-tv_3Ry2KsY5GZrqI8QPEojDEw",
-        "https://www.fanpage.it/sport/tennis/sinner-moller-oggi-allatp-madrid-a-che-ora-gioca-jannik-e-dove-vedere-in-diretta-tv-e-streaming/",
-        "https://www.ilmessaggero.it/sport/schede/sinner_moller_orario_madrid_quando_gioca_dove_vederla_tv-9495234.html"
+        "https://www.ilgiornale.it/news/guerra/usa-iran-i-negoziati-appesi-filo-2656573.html",
+        "https://www.ilgiornale.it/news/guerra/iran-fermata-nave-flotta-ombra-teheran-netanyahu-ordina-2656546.html",
+        "https://www.fanpage.it/esteri/guerra-in-iran-le-notizie-di-oggi-negoziati-in-stallo-trump-annulla-il-viaggio-in-pakistan-di-witkoff-e-kushner/",
+        "https://www.repubblica.it/esteri/2026/04/26/news/trump_cancella_il_vertice_di_islamabad_i_negoziati_una_perdita_di_tempo_se_vuole_l_iran_mi_chiami-425306514/",
+        "https://www.repubblica.it/esteri/2026/04/26/diretta/guerra_iran_usa_israele_news_oggi-425306611/"
       ]
     }
   ]
