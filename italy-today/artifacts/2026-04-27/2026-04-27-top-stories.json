@@ -1,32 +1,9 @@
 {
   "date": "2026-04-27",
-  "generated_at": "Mon 27 Apr 20:15",
+  "generated_at": "Mon 27 Apr 22:00",
   "stories": [
     {
       "rank": 1,
-      "title": "Inchiesta arbitri, non solo Rocchi e gli altri addetti al Var: aumenta il numero degli indagati",
-      "source_count": 8,
-      "article_count": 17,
-      "source_domains": [
-        "ilgiornale.it",
-        "milano.repubblica.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/calcio/nomi-dinamiche-e-punti-oscuri-tutto-che-sappiamo-sulla-nuova-2657079.html",
-        "https://www.ilgiornale.it/news/calcio/inchiesta-sugli-arbitri-5-indagati-noti-iscritti-sono-pi-2657021.html",
-        "https://milano.repubblica.it/cronaca/2026/04/27/news/inchiesta_arbitri_indagini_aumenta_numero_coinvolti-425309230/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/27/inchiesta-arbitri-cinque-gli-indagati-noti-ma-gli-iscritti-sono-di-piu._867c4884-fd98-4b3d-8565-5fa754a69a3d.html",
-        "https://www.ilfattoquotidiano.it/2026/04/27/inchiesta-arbitri-inter-non-indagata-notizie/8367840/"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Marcello Dell'Utri a processo per i 42 milioni ricevuti da Berlusconi",
       "source_count": 12,
       "article_count": 13,
@@ -53,30 +30,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "La Fenice licenzia Venezi: “Ha offeso l’orchestra”. Giuli: stiamo con il teatro",
-      "source_count": 8,
-      "article_count": 14,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "unita.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/27/venezi-licenziamento-fenice-dichiarazioni-offesa-e-bullizzata-per-mesi-mi-sono-fatta-da-sola-non-piaccio-alla-casta/8368346/",
-        "https://www.ilgiornale.it/news/musica/beatrice-venezi-rompe-silenzio-fenice-risponder-modo-2657135.html",
-        "https://www.ilmessaggero.it/persone/beatrice_venezi_la_fenice_offesa_orchestra_perche_e_stata_licenziata-9498993.html",
-        "https://www.repubblica.it/politica/2026/04/27/news/venezi_prendo_atto_decisione_colabianchi_fenice_chiarita-425309536/",
-        "https://www.lastampa.it/cultura/2026/04/27/news/beatrice_venezi_bullizzata_musicisti_fenice-15601367/"
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "title": "Guerra in Iran, le news di oggi: Araghchi da Putin. Axios: “Riapertura di Hormuz senza accordo sul nucleare”",
       "source_count": 8,
       "article_count": 13,
@@ -99,41 +53,86 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "Venezi: «Decisione della Fenice andrà chiarita. Gli orchestrali mi hanno offesa e bullizzata, non piaccio alla Casta»",
+      "source_count": 9,
+      "article_count": 12,
+      "source_domains": [
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "unita.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/cultura/beatrice-venezi-fuori-dalla-fenice-decisione-da-chiarire-sono-stata-diffamata-per-mesi/",
+        "https://www.ilfattoquotidiano.it/2026/04/27/venezi-licenziamento-fenice-dichiarazioni-offesa-e-bullizzata-per-mesi-mi-sono-fatta-da-sola-non-piaccio-alla-casta/8368346/",
+        "https://www.ilgiornale.it/news/musica/beatrice-venezi-rompe-silenzio-fenice-risponder-modo-2657135.html",
+        "https://www.ilmessaggero.it/persone/beatrice_venezi_la_fenice_offesa_orchestra_perche_e_stata_licenziata-9498993.html",
+        "https://www.repubblica.it/politica/2026/04/27/news/venezi_prendo_atto_decisione_colabianchi_fenice_chiarita-425309536/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Inchiesta arbitri, non solo Rocchi e gli altri addetti al Var: aumenta il numero degli indagati",
+      "source_count": 7,
+      "article_count": 13,
+      "source_domains": [
+        "ilgiornale.it",
+        "milano.repubblica.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/calcio/nomi-dinamiche-e-punti-oscuri-tutto-che-sappiamo-sulla-nuova-2657079.html",
+        "https://www.ilgiornale.it/news/calcio/inchiesta-sugli-arbitri-5-indagati-noti-iscritti-sono-pi-2657021.html",
+        "https://milano.repubblica.it/cronaca/2026/04/27/news/inchiesta_arbitri_indagini_aumenta_numero_coinvolti-425309230/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/27/inchiesta-arbitri-cinque-gli-indagati-noti-ma-gli-iscritti-sono-di-piu._867c4884-fd98-4b3d-8565-5fa754a69a3d.html",
+        "https://www.ilfattoquotidiano.it/2026/04/27/inchiesta-arbitri-inter-non-indagata-notizie/8367840/"
+      ]
+    },
+    {
       "rank": 5,
       "title": "Il Colle scrive a Nordio: 'Chiarire sulla grazia a Minetti'. Ok del ministero a nuove verifiche",
       "source_count": 8,
       "article_count": 11,
       "source_domains": [
+        "ilmessaggero.it",
         "ansa.it",
         "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
         "ilgiornale.it",
         "repubblica.it",
-        "ilmessaggero.it",
         "lastampa.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
+        "https://www.ilmessaggero.it/italia/minetti_revoca_grazia_indagini_quirinale_ministero_giustizia-9499193.html",
         "https://www.ansa.it/sito/notizie/politica/2026/04/27/il-quirinale-scrive-a-nordio-sulla-grazia-a-minetti-nuove-verifiche.-lei-notizie_de7b6de8-90eb-4319-89e9-ddab3c714aab.html",
         "https://www.ansa.it/sito/notizie/politica/2026/04/27/il-colle-scrive-a-nordio-chiarire-sulla-grazia-a-minetti.-ok-del-ministero-a-nuove_de7b6de8-90eb-4319-89e9-ddab3c714aab.html",
         "https://www.ansa.it/sito/notizie/politica/2026/04/27/il-colle-scrive-al-ministero-della-giustizia-chiarire-sulla-grazia-a-minetti.-avviate_de7b6de8-90eb-4319-89e9-ddab3c714aab.html",
-        "https://www.ilfattoquotidiano.it/2026/04/27/grazia-minetti-quirinale-mattarella-istruttoria-news/8368133/",
-        "https://www.liberoquotidiano.it/news/italia/47456153/nicole-minetti-ministero-avvia-accertamenti-chiesti-colle-primi-esiti-tra-24-ore/"
+        "https://www.ilfattoquotidiano.it/2026/04/27/grazia-minetti-quirinale-mattarella-istruttoria-news/8368133/"
       ]
     },
     {
       "rank": 6,
       "title": "Trump dopo attentato: Impressionato dai Servizi Segreti, quando sei influente ti danno la caccia",
-      "source_count": 7,
-      "article_count": 11,
+      "source_count": 6,
+      "article_count": 10,
       "source_domains": [
         "laverita.info",
         "ilmessaggero.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
         "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
+        "repubblica.it"
       ],
       "links": [
         "https://www.laverita.info/trump-dietro-attentato-complotto-2676818094.html",
@@ -188,26 +187,6 @@
     },
     {
       "rank": 9,
-      "title": "Un grosso squalo attacca un motoscafo a Gallipoli, paura per i pescatori",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "adnkronos.com",
-        "fanpage.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/squali-gallipoli-terracina-bagno-pericolo_oEPnCuuDbBh4EbCUBT6AP",
-        "https://www.fanpage.it/kodami/dove-vive-lo-squalo-mako-in-italia-lultimo-avvistamento-a-gallipoli-le-imbarcazioni-lo-incuriosiscono/",
-        "https://www.ansa.it/sito/videogallery/italia/2026/04/27/un-grosso-squalo-attacca-un-motoscafo-a-gallipoli-paura-per-i-pescatori_b862b846-8195-4dd6-b202-ce7adea720fa.html",
-        "https://www.ilfattoquotidiano.it/2026/04/27/squalo-mako-gallipoli-imbarcazione-pescatori-notizie/8367498/",
-        "https://www.fanpage.it/roma/squalo-in-mare-a-terracina-lanimale-si-avvicina-alla-riva-paura-tra-i-bagnanti/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Madrid, domani Sinner-Norrie agli ottavi: orario, precedenti e dove vederla",
       "source_count": 6,
       "article_count": 7,
@@ -225,6 +204,27 @@
         "https://www.fanpage.it/sport/tennis/sinner-norrie-oggi-allatp-madrid-a-che-ora-gioca-jannik-e-dove-vedere-in-diretta-tv-e-streaming/",
         "https://www.repubblica.it/sport/tennis/2026/04/27/diretta/madrid_open_2026_oggi_darderi_cobolli-425309101/",
         "https://www.ilgiornale.it/news/tennis/chi-cameron-norrie-prossimo-avversario-sinner-madrid-2657055.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "L’accusa di Trump: “Aggressore ispirato dai No Kings”. E si scaglia contro una giornalista",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/27/trump-attacco-cbs-pedofilo-stupratore-news/8367756/",
+        "https://www.liberoquotidiano.it/news/esteri/47448723/trump-furia-contro-giornalista-persona-orribile-dovresti-vergognarti/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/trump-ecco-chi-si-ispirato-luomo-che-ha-sparato-washington-2656847.html",
+        "https://www.lastampa.it/esteri/2026/04/27/news/trump_60_minutes_sparatoria_washington_intervista_cbs-15600636/",
+        "https://www.adnkronos.com/internazionale/esteri/attentato-washington-trump-sbotta-giornalista_45UesQmKHECAolSwadDBzR"
       ]
     }
   ]
