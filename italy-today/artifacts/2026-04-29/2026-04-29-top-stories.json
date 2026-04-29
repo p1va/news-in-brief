@@ -1,34 +1,9 @@
 {
   "date": "2026-04-29",
-  "generated_at": "Wed 29 Apr 11:03",
+  "generated_at": "Wed 29 Apr 12:25",
   "stories": [
     {
       "rank": 1,
-      "title": "Spari a Roma il 25 aprile, fermato 21enne della Comunità ebraica: aveva ferito due attivisti Anpi",
-      "source_count": 10,
-      "article_count": 16,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "unita.it",
-        "lastampa.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/04/29/eitan-bondi-25-aprile-roma-coltelli-armi-vessilli-israele-brigata-ebraica-news/8369958/",
-        "https://www.ilmessaggero.it/roma/centro_storico/spari_25_aprile_anpi_polemiche_reazioni_oggi-9502651.html",
-        "https://www.ilfattoquotidiano.it/2026/04/29/eitan-bondi-comunita-ebraica-condanna-anpi-derive-estremistiche-news/8369965/",
-        "https://www.unita.it/2026/04/29/spari-contro-iscritti-anpi-25-aprile-roma-fermato-ragazzo-comunita-ebraica/",
-        "https://www.lastampa.it/cronaca/2026/04/29/news/anpi_da_tempo_c_e_una_deriva_estremistica_da_esponenti_della_comunita_ebraica-15603326/"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Dl Lavoro, Meloni \"Un mld di incentivi, ma solo a chi applica 'salario giusto'\"",
       "source_count": 8,
       "article_count": 14,
@@ -51,7 +26,74 @@
       ]
     },
     {
+      "rank": 2,
+      "title": "Usa, mandato d’arresto per l’ex direttore dell’Fbi Comey: è accusato di aver minacciato la vita di Trump",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/47479982/incriminato-l-ex-fbi-comey-presunte-minacce-a-trump/",
+        "https://www.fanpage.it/esteri/ex-direttore-dellfbi-james-comey-incriminato-per-minacce-a-trump-dopo-una-foto-di-conchiglie-col-numero-8647/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/29/mandato-darresto-per-lex-capo-dellfbi-comey-la-vendetta-di-trump_4f324e9d-0c1b-4f8f-b18f-a531ea56b292.html",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/minacce-morte-presidente-trump-mandato-darresto-lex-capo-2657775.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/28/lex-capo-dellfbi-comey-accusato-di-aver-minacciato-la-vita-di-trump_75bcdbee-1721-48a9-8818-62de0a1823dc.html"
+      ]
+    },
+    {
       "rank": 3,
+      "title": "Spari contro iscritti Anpi al corteo del 25 Aprile a Roma, fermato 21enne della comunità ebraica: accusato di tentato omicidio",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "unita.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/29/eitan-bondi-25-aprile-roma-coltelli-armi-vessilli-israele-brigata-ebraica-news/8369958/",
+        "https://www.ilfattoquotidiano.it/2026/04/29/eitan-bondi-comunita-ebraica-condanna-anpi-derive-estremistiche-news/8369965/",
+        "https://www.unita.it/2026/04/29/spari-contro-iscritti-anpi-25-aprile-roma-fermato-ragazzo-comunita-ebraica/",
+        "https://www.ilgiornale.it/news/attualit/roma-fermato-chi-ha-sparato-25-aprile-21enne-brigata-ebraica-2657786.html",
+        "https://www.ilmessaggero.it/roma/centro_storico/spari_25_aprile_arrestato_eitan_bondi_chi_e_brigata_ebraica-9502521.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Fermato l’autore degli spari del 25 aprile: è un 21enne della comunità ebraica",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "roma.repubblica.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/videogallery/italia/2026/04/29/25-aprile-il-momento-degli-spari-a-roma-ripreso-dalle-telecamere-di-videosorveglianza_ed59499c-ddcc-414e-b415-87e2e1169d9a.html",
+        "https://www.ilgiornale.it/news/nazionale/che-non-torna-sul-21enne-ebreo-e-i-precedenti-penali-padre-2657881.html",
+        "https://roma.repubblica.it/cronaca/2026/04/29/news/eithan_bondi_chi_e_spari_25_aprile_brigata_ebraica-425313269/",
+        "https://www.liberoquotidiano.it/news/libero-video/47479985/25-aprile-spari-a-roma-fermato-un-21enne-per-tentato-omicidio/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/25/colpi-di-pistola-ad-aria-compressa-a-roma-contro-due-iscritti-allanpi-ferita_6eb8bb86-2406-4b3d-ac8b-30406cd74880.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Svolta nel mercato del petrolio: gli Emirati Arabi escono dall’Opec. Cosa può succedere adesso",
       "source_count": 7,
       "article_count": 9,
@@ -73,7 +115,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Pavia, Elisa Giugno trovata morta a 22 anni in una scarpata. Perquisita la casa di un amico",
       "source_count": 6,
       "article_count": 10,
@@ -94,7 +136,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Re Carlo e la battuta a Trump: \"Parli inglese grazie a noi\"",
       "source_count": 5,
       "article_count": 10,
@@ -114,29 +156,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Usa, mandato d’arresto per l’ex direttore dell’Fbi Comey: è accusato di aver minacciato la vita di Trump",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.fanpage.it/esteri/ex-direttore-dellfbi-james-comey-incriminato-per-minacce-a-trump-dopo-una-foto-di-conchiglie-col-numero-8647/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/29/mandato-darresto-per-lex-capo-dellfbi-comey-la-vendetta-di-trump_4f324e9d-0c1b-4f8f-b18f-a531ea56b292.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/minacce-morte-presidente-trump-mandato-darresto-lex-capo-2657775.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/28/lex-capo-dellfbi-comey-accusato-di-aver-minacciato-la-vita-di-trump_75bcdbee-1721-48a9-8818-62de0a1823dc.html",
-        "https://www.ilmessaggero.it/mondo/james_comey_minacce_morte_trump_cosa_e_successo-9501263.html"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "title": "Nessy Guerra condannata per adulterio in Egitto, ora rischia il carcere: «Ho paura, aiutatemi»",
       "source_count": 6,
       "article_count": 8,
@@ -157,50 +177,31 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Caso Minetti, Meloni: Escludo le dimissioni di Nordio",
       "source_count": 4,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "liberoquotidiano.it",
         "ansa.it",
         "lastampa.it",
-        "repubblica.it",
-        "liberoquotidiano.it"
+        "repubblica.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/47479978/caso-minetti-meloni-rispettata-la-legge-escludo-dimissioni-/",
         "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/04/29/prime-pagine-meloni-difende-nordio-su-minetti-manca-qualcosa-ma-e-il-pg-che-indaga_e7bed9b5-d9d1-489c-9ad6-dc10be94aef0.html",
         "https://www.lastampa.it/rubriche/l-oblo/2026/04/29/audio/la_vicenda_minetti_e_meloni_in_campo_per_difendere_nordio-15602990/",
         "https://www.repubblica.it/politica/2026/04/29/news/minetti_meloni_nordio_vignetta_ellekappa-425312226/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47472070/caso-minetti-meloni-d-accordo-sulla-necessita-di-fare-ulteriori-accertamenti/",
-        "https://www.liberoquotidiano.it/news/pillole/47471251/minetti-meloni-fiducia-in-nordio-si-ad-accertamenti-ulteriori-/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Von der Leyen: 'La guerra in Iran costa all'Ue 500 milioni al giorno per l'energia'",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/29/medio-oriente-nuovo-quadro-dellue-sugli-aiuti-di-stato-per-la-crisi._1e1e2682-5cc6-4862-a5b6-0ab9261505e6.html",
-        "https://www.adnkronos.com/internazionale/esteri/von-der-leyen-guerra-in-iran-costa-allue-500-milioni-al-giorno-per-lenergia_7bzwFFwy96kfJnjBjUmnPS",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/29/von-der-leyen-la-guerra-in-iran-costa-allue-500-milioni-al-giorno_1e1e2682-5cc6-4862-a5b6-0ab9261505e6.html",
-        "https://www.repubblica.it/esteri/2026/04/29/diretta/guerra_iran_usa_israele_news_oggi-425312366/",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/04/29/iran-wsj-trump-ha-ordinato-la-proroga-del-blocco-di-hormuz-von-der-leyen-la-guerra-costa-allue-500-milioni-al-giorno/8369796/"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47472070/caso-minetti-meloni-d-accordo-sulla-necessita-di-fare-ulteriori-accertamenti/"
       ]
     },
     {
       "rank": 10,
       "title": "L'Ue: 'I sistemi di controllo per l'età di Facebook e Instagram inefficaci'. Meta: 'Le verifiche funzionano'",
-      "source_count": 5,
-      "article_count": 6,
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
+        "liberoquotidiano.it",
         "ansa.it",
         "ilmessaggero.it",
         "ilgiornale.it",
@@ -208,11 +209,11 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/47481569/ue-contro-meta-inefficaci-i-controlli-sugli-under-13/",
         "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/04/29/lue-i-sistemi-di-controllo-per-leta-di-facebook-e-instagram-inefficaci.-meta-le-verifiche_7e770b69-b78e-4ae2-a5cd-cefda2da668f.html",
         "https://www.ilmessaggero.it/social/meta_sistemi_controllo_eta_non_funzionano-9502611.html",
         "https://www.ilgiornale.it/news/entertainment-e-servizi/meta-non-tutela-under-13-su-instagram-e-facebook-ue-contro-2657821.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/29/lue-sistemi-di-controllo-per-leta-di-facebook-e-instagram-inefficaci_832fb18a-4342-4318-ab1d-805782aac1f6.html",
-        "https://www.adnkronos.com/internazionale/esteri/instagram-facebook-minori-ue-contro-meta_Z9xTgmDKNa3XURAFNMp3e"
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/29/lue-sistemi-di-controllo-per-leta-di-facebook-e-instagram-inefficaci_832fb18a-4342-4318-ab1d-805782aac1f6.html"
       ]
     }
   ]
