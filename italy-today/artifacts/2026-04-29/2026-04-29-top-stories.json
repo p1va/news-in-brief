@@ -1,17 +1,17 @@
 {
   "date": "2026-04-29",
-  "generated_at": "Wed 29 Apr 19:51",
+  "generated_at": "Wed 29 Apr 21:14",
   "stories": [
     {
       "rank": 1,
       "title": "Andrea Sempio convocato in procura: ultimo interrogatorio prima della chiusura indagini su Garlasco",
       "source_count": 12,
-      "article_count": 15,
+      "article_count": 16,
       "source_domains": [
         "ansa.it",
+        "liberoquotidiano.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
         "ilgiornale.it",
         "fanpage.it",
         "ilmessaggero.it",
@@ -23,17 +23,17 @@
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/29/garlasco-andrea-sempio-convocato-dalla-procura-il-6-maggio.-ha-ucciso-chiara-poggi_c45138d6-bbc9-48d4-8edd-c0f11be02d4a.html",
+        "https://www.liberoquotidiano.it/news/italia/47490902/andrea_sempio_ucciso_chiara_poggi_da_solo_pm_pavia_svolta_terremoto/",
         "https://www.adnkronos.com/cronaca/caso-garlasco-sempio-convocato-procura_2adO7KRhO8NvnmQNmaQldy",
         "https://www.adnkronos.com/cronaca/garlasco-sempio-omicidio-stasi-processo_2adO7KRhO8NvnmQNmaQldy",
-        "https://www.ilfattoquotidiano.it/2026/04/29/caso-garlasco-sempio-interrogatorio-procura-notizie/8370708/",
-        "https://www.liberoquotidiano.it/news/italia/47490375/garlasco_sempio_convocato_procura_6_maggio_cosa_potrebbe_accadere/"
+        "https://www.ilfattoquotidiano.it/2026/04/29/caso-garlasco-sempio-interrogatorio-procura-notizie/8370708/"
       ]
     },
     {
       "rank": 2,
       "title": "Sinner ancora troppo forte per Jodar, è semifinale a Madrid",
-      "source_count": 8,
-      "article_count": 17,
+      "source_count": 7,
+      "article_count": 16,
       "source_domains": [
         "fanpage.it",
         "ansa.it",
@@ -41,8 +41,7 @@
         "liberoquotidiano.it",
         "ilgiornale.it",
         "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "ilmessaggero.it"
       ],
       "links": [
         "https://www.fanpage.it/sport/tennis/sinner-supera-jodar-a-madrid-e-frena-i-paragoni-non-sono-sullo-stesso-piano-di-djokovic-e-nadal/",
@@ -78,9 +77,10 @@
     {
       "rank": 4,
       "title": "Re Carlo e la battuta a Trump: \"Parli inglese grazie a noi\"",
-      "source_count": 5,
-      "article_count": 13,
+      "source_count": 6,
+      "article_count": 14,
       "source_domains": [
+        "ansa.it",
         "repubblica.it",
         "adnkronos.com",
         "liberoquotidiano.it",
@@ -88,11 +88,11 @@
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/29/i-reali-a-new-york-incontrano-lanti-trump_a3a341d4-256b-4654-a9f5-b15f73ea27af.html",
         "https://www.repubblica.it/esteri/2026/04/29/news/re_carlo_discorso_frecciate_battute_trump-425314261/",
         "https://www.adnkronos.com/internazionale/esteri/trump-video-offesa-regina-camilla_4dua0XsXj6ASl46eMICNgx",
         "https://www.liberoquotidiano.it/news/libero-video/47484869/donald-trump-sfregio-camilla-ruba-posto/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47481276/trump-e-re-carlo-brindano-ai-250-anni-di-liberta-americana-alla-cena-di-stato-alla-casa/",
-        "https://www.ilgiornale.it/news/politica/lassalto-dei-no-kings-faccia-faccia-i-due-king-2657671.html"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47481276/trump-e-re-carlo-brindano-ai-250-anni-di-liberta-americana-alla-cena-di-stato-alla-casa/"
       ]
     },
     {
@@ -184,44 +184,46 @@
     },
     {
       "rank": 9,
-      "title": "Mandato d'arresto per l'ex capo dell'Fbi Comey, la vendetta di Trump",
-      "source_count": 6,
-      "article_count": 8,
+      "title": "730, anomalia nella Certificazione unica. La denuncia Cgil: “A rischio migliaia di contribuenti”",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "ansa.it",
         "ilmessaggero.it",
-        "repubblica.it"
+        "fanpage.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/cronaca-internazionale/minacce-morte-trump-lex-direttore-dellfbi-james-comey-si-2658137.html",
-        "https://www.liberoquotidiano.it/news/libero-video/47479982/incriminato-l-ex-fbi-comey-presunte-minacce-a-trump/",
-        "https://www.fanpage.it/esteri/ex-direttore-dellfbi-james-comey-incriminato-per-minacce-a-trump-dopo-una-foto-di-conchiglie-col-numero-8647/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/04/29/mandato-darresto-per-lex-capo-dellfbi-comey-la-vendetta-di-trump_4f324e9d-0c1b-4f8f-b18f-a531ea56b292.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/minacce-morte-presidente-trump-mandato-darresto-lex-capo-2657775.html"
+        "https://www.ilgiornale.it/news/cittadini/modello-730-denuncia-cgil-errori-nelle-certificazioni-uniche-2658101.html",
+        "https://www.ilmessaggero.it/economia/news/730_anomalia_certificazione_unica_cosa_succede-9503070.html",
+        "https://www.fanpage.it/politica/errori-nelle-certificazioni-uniche-730-a-rischio-allarme-della-cgil-sulle-dichiarazioni-dei-redditi-2026/",
+        "https://www.repubblica.it/economia/2026/04/29/news/730_certicazione_unica_errore_anomalia_rischi_segnalazione-425313723/",
+        "https://www.lastampa.it/economia/2026/04/29/news/730_certificazione_unica_errore_anomalia_allarme_cgil-15603668/"
       ]
     },
     {
       "rank": 10,
-      "title": "Il mistero di Elisa Giugno, morta a 22 anni in fondo al dirupo. Perquisita casa dell’amico",
-      "source_count": 6,
-      "article_count": 8,
+      "title": "Putin e Trump al telefono 90 minuti. Lo zar: «Disposto alla tregua il 9 maggio». Anche l'Iran al centro del colloquio",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
-        "fanpage.it",
+        "ansa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
-        "unita.it",
-        "ansa.it",
-        "lastampa.it"
+        "adnkronos.com",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.fanpage.it/milano/elisa-giugno-trovata-morta-a-cecima-lamico-e-stata-con-me-una-settimana-poi-allimprovviso-se-ne-andata/",
-        "https://www.ilgiornale.it/news/politica/giovane-22-anni-trovata-morta-scarpata-sospetti-sullamico-2657697.html",
-        "https://www.ilfattoquotidiano.it/2026/04/29/si-indaga-per-omicidio-per-la-morte-di-elisa-giugno-la-22enne-e-stata-trovata-morta-nelloltrepo-pavese/8369909/",
-        "https://www.unita.it/2026/04/29/ritrovato-cadavere-elisa-giugno-scomparsa-amico/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/29/ragazza-trovata-morta-nel-pavese-sul-corpo-presenta-delle-ferite_2d0f9157-2aba-479a-9d62-df442bba5474.html"
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/04/29/putin-a-trump-disposto-a-dichiarare-la-tregua-per-il-giorno-della-vittoria_6c92214b-0bcf-4134-be65-028ee8718e64.html",
+        "https://www.repubblica.it/esteri/2026/04/29/news/putin_trump_telefonata_iran_ucraina_nucleare-425314361/",
+        "https://www.liberoquotidiano.it/news/esteri/47493250/putin-trump-telefonata-russia-iran-progetti-reciprocamente-vantaggiosi/",
+        "https://www.ilgiornale.it/news/guerra/putin-trump-unora-e-mezzo-colloquio-telefonico-cosa-si-sono-2658122.html",
+        "https://www.ilfattoquotidiano.it/2026/04/29/telefonata-putin-trump-durata-oltre-unora-e-mezza-il-presidente-russo-pronto-a-una-tregua-per-il-giorno-della-vittoria/8370721/"
       ]
     }
   ]
