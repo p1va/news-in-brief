@@ -1,36 +1,14 @@
 {
   "date": "2026-04-29",
-  "generated_at": "Wed 29 Apr 15:24",
+  "generated_at": "Wed 29 Apr 17:46",
   "stories": [
     {
       "rank": 1,
-      "title": "Dl Lavoro, Meloni \"Un mld di incentivi, ma solo a chi applica 'salario giusto'\"",
+      "title": "Fermato l’autore degli spari del 25 aprile: è un 21enne della comunità ebraica",
       "source_count": 8,
       "article_count": 14,
       "source_domains": [
         "ilgiornale.it",
-        "laverita.info",
-        "fanpage.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/ecco-decreto-lavoro-miliardo-sul-tavolo-meloni-miglior-modo-2657680.html",
-        "https://www.ilgiornale.it/news/politica/incentivi-assunzioni-degli-under-35-e-garanzie-ai-giovani-2657679.html",
-        "https://www.laverita.info/decreto-lavoro-governo-meloni-2676826397.html",
-        "https://www.fanpage.it/politica/bonus-assunzioni-salario-giusto-e-tutele-per-i-rider-le-novita-nel-decreto-primo-maggio-del-governo-meloni/",
-        "https://www.ansa.it/sito/notizie/economia/2026/04/28/via-libera-del-cdm-al-nuovo-decreto-lavoro-meloni-cosi-ringraziamo_eb83654d-51dd-4ad0-a2c5-2e6d967d74d9.html"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Fermato l’autore degli spari del 25 aprile: è un 21enne della comunità ebraica",
-      "source_count": 7,
-      "article_count": 13,
-      "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
@@ -40,15 +18,57 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/attualit/non-ci-si-pu-stupire-pesante-commento-predicatore-baya-2658079.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/04/29/chi-e-eitan-bondi-il-fermato-per-gli-spari-del-25-aprile_ce891cd5-7593-4241-82fc-e7ad2f97ab58.html",
         "https://www.liberoquotidiano.it/news/libero-video/47482086/eithan-bondi-ecco-il-momento-degli-spari-del-25-aprile/",
         "https://www.liberoquotidiano.it/news/tv-news/47484445/il-video-degli-spari-al-corteo-del-25-aprile-a-roma-fermato-21enne/",
-        "https://www.ansa.it/sito/videogallery/italia/2026/04/29/25-aprile-il-momento-degli-spari-a-roma-ripreso-dalle-telecamere-di-videosorveglianza_ed59499c-ddcc-414e-b415-87e2e1169d9a.html",
-        "https://www.ilmessaggero.it/persone/eitan_bondi_chi_e_studi_architettura_lavoro_agente_immobiliare-9502800.html"
+        "https://www.ansa.it/sito/videogallery/italia/2026/04/29/25-aprile-il-momento-degli-spari-a-roma-ripreso-dalle-telecamere-di-videosorveglianza_ed59499c-ddcc-414e-b415-87e2e1169d9a.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Tennis: Madrid, Sinner supera Jodar e va in semifinale",
+      "source_count": 7,
+      "article_count": 12,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/04/29/sinner-jodar-madrid-quarti-what-a-player-telecamera-elogi-intervista/8370706/",
+        "https://www.ansa.it/sito/notizie/sport/2026/04/29/a-madrid-sinner-incontra-la-rivelazione-jodar_4cb9c391-cb57-4359-a538-d50fe1cef2b3.html",
+        "https://www.ilgiornale.it/news/tennis/atp-madrid-sinner-fatica-supera-jodar-super-tie-break-e-vola-2658094.html",
+        "https://www.adnkronos.com/sport/sinner-complimenti-jodar-quarti-madrid-cosa-ha-detto-jannik_4qXs3m6Z5ez1XZyv6F8iLy",
+        "https://www.fanpage.it/sport/tennis/jannik-sinner-in-semifinale-a-madrid-il-primo-pensiero-e-per-lo-sconfitto-jodar-pura-classe/"
       ]
     },
     {
       "rank": 3,
+      "title": "Re Carlo e la battuta a Trump: \"Parli inglese grazie a noi\"",
+      "source_count": 5,
+      "article_count": 12,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/trump-video-offesa-regina-camilla_4dua0XsXj6ASl46eMICNgx",
+        "https://www.liberoquotidiano.it/news/libero-video/47484869/donald-trump-sfregio-camilla-ruba-posto/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47481276/trump-e-re-carlo-brindano-ai-250-anni-di-liberta-americana-alla-cena-di-stato-alla-casa/",
+        "https://www.ilgiornale.it/news/politica/lassalto-dei-no-kings-faccia-faccia-i-due-king-2657671.html",
+        "https://www.ilgiornale.it/news/politica/lasse-donald-e-carlo-mai-alleati-pi-stretti-2657670.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Usa, mandato d’arresto per l’ex direttore dell’Fbi Comey: è accusato di aver minacciato la vita di Trump",
       "source_count": 8,
       "article_count": 9,
@@ -71,7 +91,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "L’Ue contro Instagram e Facebook: rischi per gli under 13",
       "source_count": 8,
       "article_count": 9,
@@ -94,27 +114,51 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Re Carlo e la battuta a Trump: \"Parli inglese grazie a noi\"",
-      "source_count": 5,
-      "article_count": 11,
+      "rank": 6,
+      "title": "Andrea Sempio convocato in procura: ultimo interrogatorio prima della chiusura indagini su Garlasco",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
         "adnkronos.com",
-        "repubblica.it"
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47481276/trump-e-re-carlo-brindano-ai-250-anni-di-liberta-americana-alla-cena-di-stato-alla-casa/",
-        "https://www.ilgiornale.it/news/politica/lassalto-dei-no-kings-faccia-faccia-i-due-king-2657671.html",
-        "https://www.ilgiornale.it/news/politica/lasse-donald-e-carlo-mai-alleati-pi-stretti-2657670.html",
-        "https://www.ilmessaggero.it/persone/re_carlo_trump_discorso_casa_bianca_cosa_e_successo-9502606.html",
-        "https://www.liberoquotidiano.it/news/libero-video/47476939/re-carlo-risponde-a-trump-se-non-fosse-per-noi-oggi-parlereste-francese-/"
+        "https://www.adnkronos.com/cronaca/caso-garlasco-sempio-convocato-procura_2adO7KRhO8NvnmQNmaQldy",
+        "https://www.ilfattoquotidiano.it/2026/04/29/caso-garlasco-sempio-interrogatorio-procura-notizie/8370708/",
+        "https://www.ilgiornale.it/news/nazionale/garlasco-sempio-convocato-procura-pavia-6-maggio-2658113.html",
+        "https://www.fanpage.it/attualita/garlasco-sempio-convocato-in-procura-il-6-maggio-ultimo-interrogatorio-prima-della-chiusura-delle-indagini/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/04/29/garlasco-andrea-sempio-convocato-dalla-procura-di-pavia-il-6-maggio_c45138d6-bbc9-48d4-8edd-c0f11be02d4a.html"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Bonus assunzioni, “salario giusto” e tutele per i rider: le novità nel decreto Primo maggio del governo Meloni",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "fanpage.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "laverita.info",
+        "ansa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/politica/decreto-lavoro-quello-che-giorgia-meloni-chiama-salario-giusto-in-realta-e-il-minimo-sindacale/",
+        "https://www.ilmessaggero.it/economia/schede/salario_giusto_minimo_differenza_cosa_puo_cambiare_stipendi_italiani-9503048.html",
+        "https://www.ilgiornale.it/news/politica/ecco-decreto-lavoro-miliardo-sul-tavolo-meloni-miglior-modo-2657680.html",
+        "https://www.ilgiornale.it/news/politica/incentivi-assunzioni-degli-under-35-e-garanzie-ai-giovani-2657679.html",
+        "https://www.laverita.info/decreto-lavoro-governo-meloni-2676826397.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Spari a Roma il 25 aprile, fermato 21enne della Comunità ebraica: aveva ferito due attivisti Anpi",
       "source_count": 6,
       "article_count": 9,
@@ -135,28 +179,29 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Rocchi e il giallo San Siro: \"Parlava con altri arbitri\". E diserta l'interrogatorio",
-      "source_count": 6,
-      "article_count": 8,
+      "rank": 9,
+      "title": "730, anomalia nella Certificazione unica. La denuncia Cgil: “A rischio migliaia di contribuenti”",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
-        "fanpage.it",
-        "ansa.it",
         "ilgiornale.it",
-        "adnkronos.com",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "repubblica.it",
         "lastampa.it",
-        "liberoquotidiano.it"
+        "ilfattoquotidiano.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.fanpage.it/sport/calcio/le-testimonianze-degli-arbitri-su-rocchi-confermano-le-designazioni-pilotate-per-due-partite-dellinter/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/29/inchiesta-arbitri-dalle-testimonianze-conferme-su-designazioni-pilotate_fb22cc32-483e-4745-a856-c633ece5b59c.html",
-        "https://www.ilgiornale.it/news/politica/rocchi-e-giallo-san-siro-parlava-altri-arbitri-e-diserta-2657693.html",
-        "https://www.fanpage.it/sport/calcio/rocchi-intercettato-a-san-siro-sulle-designazioni-per-linter-si-capisce-con-chi-parla/",
-        "https://www.adnkronos.com/sport/inchiesta-arbitri-rocchi-nomi-indagine-inter-news_19lxBUREavjVxI3L2GE66M"
+        "https://www.ilgiornale.it/news/cittadini/modello-730-denuncia-cgil-errori-nelle-certificazioni-uniche-2658101.html",
+        "https://www.ilmessaggero.it/economia/news/730_anomalia_certificazione_unica_cosa_succede-9503070.html",
+        "https://www.fanpage.it/politica/errori-nelle-certificazioni-uniche-730-a-rischio-allarme-della-cgil-sulle-dichiarazioni-dei-redditi-2026/",
+        "https://www.repubblica.it/economia/2026/04/29/news/730_certicazione_unica_errore_anomalia_rischi_segnalazione-425313723/",
+        "https://www.lastampa.it/economia/2026/04/29/news/730_certificazione_unica_errore_anomalia_allarme_cgil-15603668/"
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Londra, attacco antisemita: due persone accoltellate in un quartiere ebraico. Starmer: “Inquietante”",
       "source_count": 7,
       "article_count": 7,
@@ -175,45 +220,6 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/04/29/due-persone-accoltellate-in-un-quartiere-ebraico-a-londra-_6916ede9-bcd2-42b4-84e9-827a4639dc48.html",
         "https://www.ilmessaggero.it/mondo/ebrei_accoltellati_londra_cosa_e_successo-9502825.html",
         "https://www.liberoquotidiano.it/news/tv-news/47483155/londra-due-ebrei-accoltellati-nel-quartiere-ebraico-fermato-un-uomo/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Caso Minetti, Meloni: Escludo le dimissioni di Nordio",
-      "source_count": 4,
-      "article_count": 9,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/47479978/caso-minetti-meloni-rispettata-la-legge-escludo-dimissioni-/",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/04/29/prime-pagine-meloni-difende-nordio-su-minetti-manca-qualcosa-ma-e-il-pg-che-indaga_e7bed9b5-d9d1-489c-9ad6-dc10be94aef0.html",
-        "https://www.lastampa.it/rubriche/l-oblo/2026/04/29/audio/la_vicenda_minetti_e_meloni_in_campo_per_difendere_nordio-15602990/",
-        "https://www.repubblica.it/politica/2026/04/29/news/minetti_meloni_nordio_vignetta_ellekappa-425312226/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47472070/caso-minetti-meloni-d-accordo-sulla-necessita-di-fare-ulteriori-accertamenti/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Il mistero di Elisa Giugno, morta a 22 anni in fondo al dirupo. Perquisita casa dell’amico",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "unita.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/giovane-22-anni-trovata-morta-scarpata-sospetti-sullamico-2657697.html",
-        "https://www.ilfattoquotidiano.it/2026/04/29/si-indaga-per-omicidio-per-la-morte-di-elisa-giugno-la-22enne-e-stata-trovata-morta-nelloltrepo-pavese/8369909/",
-        "https://www.unita.it/2026/04/29/ritrovato-cadavere-elisa-giugno-scomparsa-amico/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/29/ragazza-trovata-morta-nel-pavese-sul-corpo-presenta-delle-ferite_2d0f9157-2aba-479a-9d62-df442bba5474.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/28/il-corpo-di-ventiduenne-trovato-in-una-scarpata-perquisita-la-casa-di-un-amico_8a88dad8-7ca7-4a34-8a6a-5978c76549c4.html"
       ]
     }
   ]
