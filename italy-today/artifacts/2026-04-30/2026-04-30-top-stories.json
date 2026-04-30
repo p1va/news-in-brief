@@ -1,12 +1,12 @@
 {
   "date": "2026-04-30",
-  "generated_at": "Thu 30 Apr 17:29",
+  "generated_at": "Thu 30 Apr 19:44",
   "stories": [
     {
       "rank": 1,
       "title": "Israele intercetta la Flotilla vicino Creta, fermati 175 attivisti. 'Arrestati 24 italiani'",
-      "source_count": 10,
-      "article_count": 29,
+      "source_count": 11,
+      "article_count": 30,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -16,22 +16,23 @@
         "adnkronos.com",
         "unita.it",
         "ilmanifesto.it",
+        "ilfattoquotidiano.it",
         "fanpage.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/04/30/israele-blocca-la-flotilla-a-creta-175-fermati-e-sbarcati-in-grecia_0de4a195-61c6-47d9-84ed-4f2cce2a1c69.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/30/israele-intercetta-la-flotilla-arrestati-anche-24-italiani.-saranno-rilasciati-nelle-prossime_72dc34ec-a178-4187-a28a-688f5eaa17ab.html",
         "https://www.liberoquotidiano.it/news/libero-video/47510760/flotilla-capriole-giochi-bordo-video-diffuso-israele-attivisti-fermati-fa-giro-mondo/",
         "https://www.lastampa.it/cronaca/2026/04/30/news/global_sumud_flotilla_italiani_fermati_chi_sono-15605249/",
-        "https://www.liberoquotidiano.it/news/tv-news/47510763/global-sumud-flotilla-opposizioni-all-attacco-il-governo-riferisca/",
         "https://www.ansa.it/sito/videogallery/mondo/2026/04/30/flotilla-israele-diffonde-video-con-ritrovamento-di-preservativi-e-droga_341f97c3-791c-45f7-b7c5-a2c85dec7f11.html"
       ]
     },
     {
       "rank": 2,
-      "title": "Garlasco, «Chiara Poggi rifiutò Sempio, ecco perché l'ha uccisa». Il movente secondo la Procura di Pavia: colpita almeno 12 volte",
-      "source_count": 11,
-      "article_count": 19,
+      "title": "Garlasco, la procura rivela il movente per cui Sempio avrebbe ucciso Chiara Poggi: “L’ha rifiutato”",
+      "source_count": 10,
+      "article_count": 18,
       "source_domains": [
         "laverita.info",
         "ilmessaggero.it",
@@ -42,8 +43,7 @@
         "adnkronos.com",
         "fanpage.it",
         "milano.repubblica.it",
-        "lastampa.it",
-        "news.google.com"
+        "lastampa.it"
       ],
       "links": [
         "https://www.laverita.info/sempio-colpevole-garlasco-procura-poggi-2676834153.html",
@@ -101,10 +101,36 @@
     },
     {
       "rank": 5,
-      "title": "Sinner, quando gioca (e dove vederlo in tv): la semifinale contro Fils, i precedenti e i percorsi a Madrid",
-      "source_count": 6,
+      "title": "Biennale di Venezia, si dimette la giuria internazionale che aveva escluso Israele e Russia dai premi",
+      "source_count": 10,
       "article_count": 11,
       "source_domains": [
+        "fanpage.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "agi.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/cultura/la-giuria-della-biennale-darte-di-venezia-2026-si-e-dimessa-i-premi-saranno-assegnati-dai-visitatori/",
+        "https://www.ansa.it/sito/notizie/politica/2026/04/30/si-e-dimessa-la-giuria-internazionale-della-biennale-di-venezia_3ba29cb2-1a5a-45c1-97f5-d38165ecc2f9.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47514529/terremoto-alla-biennale-si-dimette-giuria-premiazione-a-novembre/",
+        "https://www.repubblica.it/cultura/2026/04/30/news/biennale_arte_chi_c_era_nella_giuria_dei_leoni_d_oro_che_si_e_dimessa-425316726/",
+        "https://www.ilfattoquotidiano.it/2026/04/30/biennale-venezia-giuria-dimissioni-notizie/8371891/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Sinner, quando gioca (e dove vederlo in tv): la semifinale contro Fils, i precedenti e i percorsi a Madrid",
+      "source_count": 7,
+      "article_count": 12,
+      "source_domains": [
+        "repubblica.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
@@ -113,41 +139,18 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.repubblica.it/sport/tennis/2026/04/30/diretta/madrid_open_2026_oggi_cobolli_zverev-425316767/",
         "https://www.adnkronos.com/sport/madrid-oggi-cobolli-zverev-ai-quarti-il-match-in-diretta_5H9FU73qWcrloHhdfkzy3L",
         "https://www.ilfattoquotidiano.it/2026/04/30/atp-madrid-quando-gioca-sinner-contro-fils-semifinale-orario-dove-vederla-tv-streaming/8371776/",
         "https://www.ilgiornale.it/news/tennis/sinner-fils-vale-finale-madrid-chi-l-avversario-e-quando-2658452.html",
-        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_dove_vederlo_semifinale_madrid-9504861.html",
-        "https://www.fanpage.it/sport/tennis/jannik-sinner-agli-internazionali-ditalia-lincognita-sul-programma-tra-madrid-e-roland-garros/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Biennale di Venezia, si dimette la giuria internazionale che aveva escluso Israele e Russia dai premi",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/cultura/la-giuria-della-biennale-darte-di-venezia-2026-si-e-dimessa-i-premi-saranno-assegnati-dai-visitatori/",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/30/si-e-dimessa-la-giuria-internazionale-della-biennale-di-venezia_3ba29cb2-1a5a-45c1-97f5-d38165ecc2f9.html",
-        "https://www.repubblica.it/cultura/2026/04/30/news/biennale_arte_chi_c_era_nella_giuria_dei_leoni_d_oro_che_si_e_dimessa-425316726/",
-        "https://www.ilfattoquotidiano.it/2026/04/30/biennale-venezia-giuria-dimissioni-notizie/8371891/",
-        "https://www.ilgiornale.it/news/arte-e-storia/si-dimessa-giuria-internazionale-biennale-venezia-2658569.html"
+        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_dove_vederlo_semifinale_madrid-9504861.html"
       ]
     },
     {
       "rank": 7,
       "title": "È morto Craig Venter, lo scienziato che sequenziò il genoma umano",
-      "source_count": 8,
-      "article_count": 8,
+      "source_count": 9,
+      "article_count": 9,
       "source_domains": [
         "ilgiornale.it",
         "adnkronos.com",
@@ -156,7 +159,8 @@
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
         "https://www.ilgiornale.it/news/scienze/morte-j-craig-venter-rappuoli-rivoluzione-genomica-guida-2658584.html",
