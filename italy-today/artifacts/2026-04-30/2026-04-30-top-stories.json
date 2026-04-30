@@ -1,12 +1,12 @@
 {
   "date": "2026-04-30",
-  "generated_at": "Thu 30 Apr 19:48",
+  "generated_at": "Thu 30 Apr 21:09",
   "stories": [
     {
       "rank": 1,
       "title": "Flotilla, le immagini dell'intercettazione israeliana",
       "source_count": 8,
-      "article_count": 28,
+      "article_count": 27,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -19,10 +19,10 @@
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/mondo/2026/04/30/israele-blocca-la-flotilla-a-creta-175-fermati-e-sbarcati-in-grecia_0de4a195-61c6-47d9-84ed-4f2cce2a1c69.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47514229/meloni-su-sequestro-flotilla-missione-che-non-aiuta-gaza-e-da-problemi-a-noi/",
         "https://www.ansa.it/sito/notizie/mondo/2026/04/30/israele-intercetta-la-flotilla-arrestati-anche-24-italiani.-saranno-rilasciati-nelle-prossime_72dc34ec-a178-4187-a28a-688f5eaa17ab.html",
         "https://www.liberoquotidiano.it/news/tv-news/47514066/flotilla-meloni-non-ancora-preso-in-considerazione-invio-navi/",
-        "https://www.liberoquotidiano.it/news/libero-video/47510760/flotilla-capriole-giochi-bordo-video-diffuso-israele-attivisti-fermati-fa-giro-mondo/",
-        "https://www.lastampa.it/cronaca/2026/04/30/news/global_sumud_flotilla_italiani_fermati_chi_sono-15605249/"
+        "https://www.liberoquotidiano.it/news/libero-video/47510760/flotilla-capriole-giochi-bordo-video-diffuso-israele-attivisti-fermati-fa-giro-mondo/"
       ]
     },
     {
@@ -54,7 +54,7 @@
       "rank": 3,
       "title": "Gervasoni quattro ore dal pm: “Inter-Roma, escludo che l’audio del Var sia stato manomesso”",
       "source_count": 8,
-      "article_count": 16,
+      "article_count": 15,
       "source_domains": [
         "fanpage.it",
         "ilfattoquotidiano.it",
@@ -77,7 +77,7 @@
       "rank": 4,
       "title": "Francesco Sessa, chi era l’italiano ucciso a coltellate a Ibiza",
       "source_count": 8,
-      "article_count": 16,
+      "article_count": 14,
       "source_domains": [
         "ansa.it",
         "unita.it",
@@ -98,6 +98,29 @@
     },
     {
       "rank": 5,
+      "title": "Sinner, quando gioca (e dove vederlo in tv): la semifinale contro Fils, i precedenti e i percorsi a Madrid",
+      "source_count": 8,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/04/30/cobolli-battuto-da-zverev-il-tedesco-in-semifinale-a-madrid_42e367e1-339c-4ccd-a9ae-1ef9abd9db5d.html",
+        "https://www.repubblica.it/sport/tennis/2026/04/30/diretta/madrid_open_2026_oggi_cobolli_zverev-425316767/",
+        "https://www.lastampa.it/sport/2026/04/30/news/zverev_cobolli_masters_1000_madrid-15605653/",
+        "https://www.adnkronos.com/sport/madrid-oggi-cobolli-zverev-ai-quarti-il-match-in-diretta_5H9FU73qWcrloHhdfkzy3L",
+        "https://www.adnkronos.com/sport/madrid-zverev-batte-cobolli-domani-semifinale-blockx-sinner_5H9FU73qWcrloHhdfkzy3L"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Biennale di Venezia, si dimette la giuria internazionale che aveva escluso Israele e Russia dai premi",
       "source_count": 10,
       "article_count": 11,
@@ -119,28 +142,6 @@
         "https://www.liberoquotidiano.it/news/tv-news/47514529/terremoto-alla-biennale-si-dimette-giuria-premiazione-a-novembre/",
         "https://www.repubblica.it/cultura/2026/04/30/news/biennale_arte_chi_c_era_nella_giuria_dei_leoni_d_oro_che_si_e_dimessa-425316726/",
         "https://www.ilfattoquotidiano.it/2026/04/30/biennale-venezia-giuria-dimissioni-notizie/8371891/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Sinner, quando gioca (e dove vederlo in tv): la semifinale contro Fils, i precedenti e i percorsi a Madrid",
-      "source_count": 7,
-      "article_count": 12,
-      "source_domains": [
-        "repubblica.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/tennis/2026/04/30/diretta/madrid_open_2026_oggi_cobolli_zverev-425316767/",
-        "https://www.adnkronos.com/sport/madrid-oggi-cobolli-zverev-ai-quarti-il-match-in-diretta_5H9FU73qWcrloHhdfkzy3L",
-        "https://www.ilfattoquotidiano.it/2026/04/30/atp-madrid-quando-gioca-sinner-contro-fils-semifinale-orario-dove-vederla-tv-streaming/8371776/",
-        "https://www.ilgiornale.it/news/tennis/sinner-fils-vale-finale-madrid-chi-l-avversario-e-quando-2658452.html",
-        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_dove_vederlo_semifinale_madrid-9504861.html"
       ]
     },
     {
@@ -192,6 +193,25 @@
     },
     {
       "rank": 9,
+      "title": "Piano Casa, Meloni \"Recupero di 60 mila alloggi popolari\"",
+      "source_count": 4,
+      "article_count": 11,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47514705/meloni-su-piano-casa-approvate-norme-per-sgomberi-immobili-occupati/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47514707/meloni-10-miliardi-di-euro-per-100mila-alloggi-tra-case-popolari-e-prezzi-calmierati/",
+        "https://www.liberoquotidiano.it/news/pillole/47514391/piano_casa_meloni_recupero_di_60_mila_alloggi_popolari_/",
+        "https://www.ilgiornale.it/news/interni/meloni-si-irrita-sul-caso-minetti-ho-gi-risposto-agli-2658603.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47513795/meloni-si-spazientisce-a-domanda-su-minetti-non-vanificate-il-nostro-lavoro-oggi-piano-casa/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Agenzia delle Entrate, la dichiarazione precompilata 2026 è online",
       "source_count": 7,
       "article_count": 8,
@@ -210,27 +230,6 @@
         "https://www.fanpage.it/studios/730-precompilato-2026-cosa-cambia-e-a-cosa-prestare-attenzione/",
         "https://www.ilfattoquotidiano.it/2026/04/30/modello-730-documenti-detrazioni-fiscali-guida-news/8349464/",
         "https://www.lastampa.it/economia/2026/04/30/news/730_precompilato_oggi_online_modelli-15604606/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Caso Minetti, in Uruguay spunta una coppia che era disponibile ad adottare il bambino",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/04/30/news/caso_minetti_uruguay_spunta_coppia_disponibile_adottare_bambino-425316751/",
-        "https://www.ilfattoquotidiano.it/2026/04/30/minetti-gate-famiglia-adottiva-bambino-intervista-news/8371790/",
-        "https://www.fanpage.it/politica/grazia-a-minetti-le-ombre-sulladozione-del-bambino-spunta-una-coppia-uruguaiana/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/04/30/li-chiamava-mamma-e-papa-la-sentenza-dalluruguay-sulladozione-di-nicole-minetti_8d074127-b9ab-45ce-8e45-9f6afd74f303.html",
-        "https://www.lastampa.it/esteri/2026/04/30/news/nicole_minetti_grazia_bimbo_non_abbandonato_famiglia_adozione-15605082/"
       ]
     }
   ]
