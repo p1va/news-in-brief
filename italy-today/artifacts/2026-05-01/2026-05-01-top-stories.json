@@ -1,32 +1,9 @@
 {
   "date": "2026-05-01",
-  "generated_at": "Fri 01 May 18:06",
+  "generated_at": "Fri 01 May 19:26",
   "stories": [
     {
       "rank": 1,
-      "title": "Piano Casa, Meloni \"Recupero di 60 mila alloggi popolari\"",
-      "source_count": 8,
-      "article_count": 16,
-      "source_domains": [
-        "laverita.info",
-        "ilgiornale.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.laverita.info/piano-casa-governo-meloni-2676839103.html",
-        "https://www.ilgiornale.it/news/politica/piano-casa-10-miliardi-nuova-proroga-taglio-delle-accise-2658677.html",
-        "https://www.ilgiornale.it/news/politica/meloni-linea-centomila-alloggi-nei-prossimi-10-anni-scontro-2658678.html",
-        "https://www.lastampa.it/economia/2026/05/01/news/piano_casa_nuovi_alloggi_notai_come_funziona-15606138/",
-        "https://www.adnkronos.com/economia/piano-casa-tre-pilastri-per-il-pacchetto-con-obiettivo-100mila-alloggi-le-misure_5Xig90D9KY5CZsV3GNI4GM"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Sinner in finale a Madrid, Fils battuto in 2 set in semifinale - Rivivi il match",
       "source_count": 9,
       "article_count": 15,
@@ -50,10 +27,10 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Angelo Pizzi, cameriere ucciso per sbaglio in un ristorante a Bisceglie. Il bersaglio era un'altra persona",
       "source_count": 10,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
         "adnkronos.com",
         "liberoquotidiano.it",
@@ -75,7 +52,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Il Primo Maggio di Meloni da PizzAut: “Qui lavoratori straordinari”",
       "source_count": 9,
       "article_count": 13,
@@ -96,6 +73,29 @@
         "https://www.ilfattoquotidiano.it/2026/05/01/pizzaut-meloni-primo-maggio-monza-notizie/8372614/",
         "https://www.laverita.info/meloni-pizzaut-monza-primo-maggio-2676839601.html",
         "https://www.governo.it/it/articolo/visita-del-presidente-meloni-al-ristorante-pizzaut-di-monza/31700"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Meloni: Obiettivo 100 mila nuovi alloggi nei prossimi 10 anni, dedichiamo 10 miliardi di euro",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "laverita.info",
+        "ilgiornale.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.laverita.info/piano-casa-governo-meloni-2676839103.html",
+        "https://www.ilgiornale.it/news/politica/piano-casa-10-miliardi-nuova-proroga-taglio-delle-accise-2658677.html",
+        "https://www.ilgiornale.it/news/politica/meloni-linea-centomila-alloggi-nei-prossimi-10-anni-scontro-2658678.html",
+        "https://www.lastampa.it/economia/2026/05/01/news/piano_casa_nuovi_alloggi_notai_come_funziona-15606138/",
+        "https://www.adnkronos.com/economia/piano-casa-tre-pilastri-per-il-pacchetto-con-obiettivo-100mila-alloggi-le-misure_5Xig90D9KY5CZsV3GNI4GM"
       ]
     },
     {
@@ -168,66 +168,67 @@
     },
     {
       "rank": 8,
-      "title": "Garlasco, la nuova ricostruzione: il nodo delle scale e i colpi mortali di Sempio quando Chiara era svenuta. Così cambia la scena del delitto",
-      "source_count": 6,
-      "article_count": 9,
+      "title": "L’annuncio di Trump: “Aumento i dazi sulle auto in UE al 25%, non state rispettando patti”",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
-        "unita.it",
+        "ansa.it",
         "fanpage.it",
-        "ilmessaggero.it",
         "ilfattoquotidiano.it",
-        "milano.repubblica.it",
-        "ansa.it"
+        "adnkronos.com",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.unita.it/2026/05/01/sempio-laccusa-della-procura-sul-caso-garlasco-chiara-poggi-uccisa-per-un-no-agi-da-solo/",
-        "https://www.fanpage.it/attualita/garlasco-i-legali-dei-poggi-contro-il-cambio-di-reato-per-sempio-nuova-versione-sembra-costruita-a-tavolino/",
-        "https://www.ilmessaggero.it/italia/garlasco_nuova_ricostruzione_sempio_cosa_cambia-9506760.html",
-        "https://www.ilfattoquotidiano.it/2026/05/01/delitto-garlasco-stasi-sempio-notizie/8371987/",
-        "https://www.fanpage.it/attualita/garlasco-colluttazione-e-colpi-sulle-scale-le-novita-dei-pm-contro-sempio-e-le-differenze-con-la-sentenza-stasi/"
+        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/05/01/trump-alza-i-dazi-sulle-auto-europee-al-25_1214be19-d7fe-458c-82bb-ab6740a307f6.html",
+        "https://www.fanpage.it/esteri/lannuncio-di-trump-aumento-i-dazi-sulle-auto-in-ue-al-25-non-state-rispettando-patti/",
+        "https://www.ilfattoquotidiano.it/2026/05/01/trump-aumenta-i-dazi-per-leuropa-visto-che-non-rispetta-il-nostro-accordo-salgono-al-25-su-auto-e-camion/8372685/",
+        "https://www.adnkronos.com/internazionale/esteri/trump-dazi-usa-ue-auto-camion_5KPO41XYCcw8F23v6CJvpq",
+        "https://www.ilgiornale.it/news/politica-estera/lannuncio-trump-lue-non-sta-rispettando-nostro-accordo-dazi-2658952.html"
       ]
     },
     {
       "rank": 9,
-      "title": "1 Maggio, Meloni: \"Con decreto lavoro difendiamo occupazione con misure concrete\"",
+      "title": "Flotilla intercettata davanti a Creta. Condanna della Meloni",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "ansa.it",
-        "repubblica.it",
         "ilgiornale.it",
-        "adnkronos.com",
+        "laverita.info",
+        "unita.it",
+        "fanpage.it",
         "lastampa.it",
-        "liberoquotidiano.it"
+        "ilmanifesto.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/05/01/primo-maggio-sindacati-in-piazza.-landini-a-meloni-basta-propaganda_cafc0390-1107-4c1b-9c46-13ca499ba45d.html",
-        "https://www.repubblica.it/economia/2026/05/01/diretta/1_maggio_festa_lavoratori_oggi_news-425317669/",
-        "https://www.ansa.it/sito/notizie/politica/2026/05/01/meloni-le-risorse-pubbliche-devono-andare-a-chi-rispetta-i-lavoratori_3093d3ff-5cba-48f3-8aee-b5c245f6b167.html",
-        "https://www.ilgiornale.it/news/governo/meloni-1-maggio-festa-chi-ogni-giorno-manda-avanti-litalia-2658818.html",
-        "https://www.adnkronos.com/politica/1-maggio-meloni-con-decreto-lavoro-difendiamo-occupazione-con-misure-concrete_1j57LSIPj3Ij8T15Eqb7cg"
+        "https://www.ilgiornale.it/news/politica/flotilla-intercettata-davanti-creta-condanna-meloni-2658691.html",
+        "https://www.laverita.info/israele-ferma-flotilla-ira-di-meloni-2676838520.html",
+        "https://www.unita.it/2026/05/01/lassalto-pirata-di-israele-contro-la-flotilla-barche-abbordate-e-attivisti-sequestrati-persino-meloni-deve-protestare/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/flotilla-stati-uniti-trump-appoggiano-l-azione-israele-2658813.html",
+        "https://www.fanpage.it/politica/dopo-lassalto-alla-flotilla-italia-e-ue-se-la-prendono-con-israele-e-non-piu-con-i-pacifisti/"
       ]
     },
     {
       "rank": 10,
-      "title": "Trump: 'L'Italia non è stata d'aiuto, probabile il ritiro delle truppe Usa'. Minacce anche a Spagna e Germania",
-      "source_count": 7,
-      "article_count": 7,
+      "title": "F1, libere Gp Miami: Ferrari davanti a tutti con Leclerc, Antonelli quinto",
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
         "ilgiornale.it",
-        "lastampa.it"
+        "repubblica.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "fanpage.it"
       ],
       "links": [
-        "https://www.adnkronos.com/internazionale/esteri/trump-contro-italia-attacco-iran_6svYMilomAkB8nkJFTVmck",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47523614/trump-valuto-ritiro-truppe-dall-italia-non-hanno-aiutato-in-iran/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/01/trump-litalia-non-e-stata-daiuto-probabile-il-ritiro-delle-truppe-usa._c581e430-b0b5-44de-b492-27d302f656ac.html",
-        "https://www.repubblica.it/esteri/2026/05/01/news/trump_avverte_l_italia_via_le_nostre_truppe_non_ci_avete_aiutato_in_iran-425317463/",
-        "https://www.ilmessaggero.it/mondo/truppe_usa_ritiro_italia_trump_minaccia_perche_cosa_succede-9505570.html"
+        "https://www.ilgiornale.it/news/motori/f1-bene-ferrari-nelle-libere-miami-leclerc-primo-hamilton-4-2658966.html",
+        "https://www.repubblica.it/sport/formulauno/2026/05/01/news/prove_libere_gp_miami_risultati_leclerc_antonelli-425318533/",
+        "https://www.lastampa.it/sport/2026/05/01/news/f1_gp_miami_leclerc_antonelli-15606427/",
+        "https://www.ilfattoquotidiano.it/2026/05/01/orari-formula-1-gp-miami-2026/8372555/",
+        "https://www.ilmessaggero.it/blog/milleruote/f1_i_fulmini_minacciano_il_gp_di_miami_antonelli_in_testa_al_mondiale_ho_provato_al_simulatore_piu_di_100_partenze-9506723.html"
       ]
     }
   ]
