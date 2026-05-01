@@ -1,6 +1,6 @@
 {
   "date": "2026-05-01",
-  "generated_at": "Fri 01 May 14:21",
+  "generated_at": "Fri 01 May 16:04",
   "stories": [
     {
       "rank": 1,
@@ -53,7 +53,7 @@
     {
       "rank": 3,
       "title": "Spari a Roma il 25 aprile, ai domiciliari Eitan Bondì: «Mi vergogno, non ho legami con la Brigata Ebraica»",
-      "source_count": 10,
+      "source_count": 9,
       "article_count": 12,
       "source_domains": [
         "ilfattoquotidiano.it",
@@ -64,7 +64,6 @@
         "ilmessaggero.it",
         "lastampa.it",
         "adnkronos.com",
-        "unita.it",
         "ilsole24ore.com"
       ],
       "links": [
@@ -101,6 +100,28 @@
     },
     {
       "rank": 5,
+      "title": "Sinner in finale a Madrid, Fils battuto in 2 set in semifinale - Rivivi il match",
+      "source_count": 7,
+      "article_count": 12,
+      "source_domains": [
+        "adnkronos.com",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/sinner-finale-madrid-nuovo-ranking-atp_11nUj5IAFSJ40wCvvHmpk0",
+        "https://www.repubblica.it/sport/tennis/2026/05/01/news/sinner_vince_contro_fils_finale_madrid_atp-425318383/",
+        "https://www.ilgiornale.it/news/tennis/sinner-magnifico-supera-fils-due-set-e-vola-finale-madrid-2658949.html",
+        "https://www.ansa.it/sito/notizie/sport/2026/05/01/sinner-batte-fils-6-2-6-4-e-conquista-la-finale-a-madrid_e2410099-17fe-48f5-a03e-1e755de2a80f.html",
+        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_finale_madrid_zverev_o_blockx_orario_dove_vederla-9506986.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Primo Maggio a Roma, Concertone a piazza San Giovanni: chi canta e quando, la scaletta",
       "source_count": 7,
       "article_count": 11,
@@ -122,7 +143,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Flotilla intercettata davanti a Creta. Condanna della Meloni",
       "source_count": 7,
       "article_count": 11,
@@ -144,29 +165,28 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Trump: 'L'Italia non è stata d'aiuto, probabile il ritiro delle truppe Usa'. Minacce anche a Spagna e Germania",
-      "source_count": 7,
-      "article_count": 8,
+      "rank": 8,
+      "title": "Garlasco, la nuova ricostruzione: il nodo delle scale e i colpi mortali di Sempio quando Chiara era svenuta. Così cambia la scena del delitto",
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
+        "unita.it",
+        "fanpage.it",
         "ilmessaggero.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it",
+        "milano.repubblica.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47523614/trump-valuto-ritiro-truppe-dall-italia-non-hanno-aiutato-in-iran/",
-        "https://www.ilgiornale.it/news/guerra/trump-nessun-aiuto-iran-truppe-usa-dall-italia-2658803.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/01/trump-litalia-non-e-stata-daiuto-probabile-il-ritiro-delle-truppe-usa._c581e430-b0b5-44de-b492-27d302f656ac.html",
-        "https://www.adnkronos.com/internazionale/esteri/trump-guerra-iran-scadenza-60-giorni_1pohLjjt6t22xCDGiLXJVv",
-        "https://www.repubblica.it/esteri/2026/05/01/news/trump_avverte_l_italia_via_le_nostre_truppe_non_ci_avete_aiutato_in_iran-425317463/"
+        "https://www.unita.it/2026/05/01/sempio-laccusa-della-procura-sul-caso-garlasco-chiara-poggi-uccisa-per-un-no-agi-da-solo/",
+        "https://www.fanpage.it/attualita/garlasco-i-legali-dei-poggi-contro-il-cambio-di-reato-per-sempio-nuova-versione-sembra-costruita-a-tavolino/",
+        "https://www.ilmessaggero.it/italia/garlasco_nuova_ricostruzione_sempio_cosa_cambia-9506760.html",
+        "https://www.ilfattoquotidiano.it/2026/05/01/delitto-garlasco-stasi-sempio-notizie/8371987/",
+        "https://www.fanpage.it/attualita/garlasco-colluttazione-e-colpi-sulle-scale-le-novita-dei-pm-contro-sempio-e-le-differenze-con-la-sentenza-stasi/"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Flotilla, sbarcati a Creta 173 attivisti fermati dagli israeliani. “Abu Keshek e Ávila saranno portati in Israele per essere interrogati”",
       "source_count": 6,
       "article_count": 9,
@@ -187,45 +207,24 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Rivoluzione alla Biennale: lascia la Giuria, anche Russia e Israele per i premi",
       "source_count": 6,
       "article_count": 8,
       "source_domains": [
+        "fanpage.it",
         "ilgiornale.it",
         "repubblica.it",
         "ansa.it",
         "liberoquotidiano.it",
-        "ilmessaggero.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.fanpage.it/politica/caos-alla-biennale-di-venezia-lo-scontro-tra-il-governo-e-il-presidente-buttafuoco-su-russia-e-israele/",
         "https://www.ilgiornale.it/news/si-dimette-giuria-meloni-non-avrei-aperto-russia-2658705.html",
         "https://www.repubblica.it/politica/2026/05/01/news/biennale_dimissioni_giura_salta_cerimonia_apertura-425317380/",
         "https://www.ilgiornale.it/news/arte-e-storia/si-dimessa-giuria-internazionale-biennale-venezia-2658569.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/04/30/si-e-dimessa-la-giuria-internazionale-della-biennale-di-venezia_3ba29cb2-1a5a-45c1-97f5-d38165ecc2f9.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47514658/biennale-meloni-al-posto-di-buttafuoco-non-avrei-aperto-alla-russia/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "1 Maggio, Meloni: \"Con decreto lavoro difendiamo occupazione con misure concrete\"",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/economia/2026/05/01/diretta/1_maggio_festa_lavoratori_oggi_news-425317669/",
-        "https://www.ansa.it/sito/notizie/politica/2026/05/01/meloni-le-risorse-pubbliche-devono-andare-a-chi-rispetta-i-lavoratori_3093d3ff-5cba-48f3-8aee-b5c245f6b167.html",
-        "https://www.ilgiornale.it/news/governo/meloni-1-maggio-festa-chi-ogni-giorno-manda-avanti-litalia-2658818.html",
-        "https://www.adnkronos.com/politica/1-maggio-meloni-con-decreto-lavoro-difendiamo-occupazione-con-misure-concrete_1j57LSIPj3Ij8T15Eqb7cg",
-        "https://www.lastampa.it/politica/2026/05/01/diretta/primo_maggio_festa_lavoro_giornata-15605904/"
+        "https://www.ansa.it/sito/notizie/politica/2026/04/30/si-e-dimessa-la-giuria-internazionale-della-biennale-di-venezia_3ba29cb2-1a5a-45c1-97f5-d38165ecc2f9.html"
       ]
     }
   ]
