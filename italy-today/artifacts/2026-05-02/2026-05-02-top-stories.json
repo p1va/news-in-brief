@@ -1,6 +1,6 @@
 {
   "date": "2026-05-02",
-  "generated_at": "Sat 02 May 17:55",
+  "generated_at": "Sat 02 May 19:11",
   "stories": [
     {
       "rank": 1,
@@ -32,7 +32,7 @@
       "rank": 2,
       "title": "F1: Norris vince la gara sprint a Miami, terza la Ferrari di Leclerc",
       "source_count": 7,
-      "article_count": 19,
+      "article_count": 18,
       "source_domains": [
         "repubblica.it",
         "adnkronos.com",
@@ -72,6 +72,27 @@
     },
     {
       "rank": 4,
+      "title": "Concertone, “Bella Ciao” riscritta: scoppia il caso Delia. Bufera per l’addio al “partigiano”",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/musica/nessuna-presa-giro-sul-tema-inclusivit-solo-quando-fa-comodo-2659093.html",
+        "https://www.ansa.it/sito/notizie/cultura/2026/05/02/delia-ci-indigniamo-per-una-parola-cambiata-mentre-a-gaza-ce-genocidio_25d2fe85-cd6f-449c-9dd5-3a6d9cb1527d.html",
+        "https://www.adnkronos.com/spettacoli/gassmann-contro-delia-bella-ciao-concertone_7wQ6dn5BlBkpVMhhBWHOVu",
+        "https://www.liberoquotidiano.it/news/spettacoli/47538390/delia-cambia-testo-bella-ciao-sinistra-rivolta-ultima-ridicola-figura-palta/",
+        "https://www.ilfattoquotidiano.it/2026/05/02/perche-ho-cambiato-partigiano-in-essere-umano-per-allargare-il-messaggio-al-mondo-non-e-una-cosa-solo-del-passato-le-parole-di-delia-dopo-il-concertone/8372903/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Silvia Salis e gli insulti social: \"Chi mi ha dato della p*****a pagherà, soldi in beneficenza\"",
       "source_count": 8,
       "article_count": 8,
@@ -94,7 +115,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Sinner-Zverev, domani finale a Madrid: Jannik in campo per titolo e record",
       "source_count": 6,
       "article_count": 8,
@@ -115,27 +136,27 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Concertone, “Bella Ciao” riscritta: scoppia il caso Delia. Bufera per l’addio al “partigiano”",
+      "rank": 7,
+      "title": "Serie A: in campo Como-Napoli DIRETTA",
       "source_count": 5,
-      "article_count": 9,
+      "article_count": 8,
       "source_domains": [
         "ilgiornale.it",
+        "ilmessaggero.it",
         "ansa.it",
         "adnkronos.com",
-        "ilfattoquotidiano.it",
         "fanpage.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/musica/nessuna-presa-giro-sul-tema-inclusivit-solo-quando-fa-comodo-2659093.html",
-        "https://www.ansa.it/sito/notizie/cultura/2026/05/02/delia-ci-indigniamo-per-una-parola-cambiata-mentre-a-gaza-ce-genocidio_25d2fe85-cd6f-449c-9dd5-3a6d9cb1527d.html",
-        "https://www.adnkronos.com/spettacoli/gassmann-contro-delia-bella-ciao-concertone_7wQ6dn5BlBkpVMhhBWHOVu",
-        "https://www.ilfattoquotidiano.it/2026/05/02/perche-ho-cambiato-partigiano-in-essere-umano-per-allargare-il-messaggio-al-mondo-non-e-una-cosa-solo-del-passato-le-parole-di-delia-dopo-il-concertone/8372903/",
-        "https://www.ilfattoquotidiano.it/2026/05/02/se-delia-non-sa-quel-che-canta-lingenua-manomissione-di-bella-ciao-al-concertone-si-puo-spiegare-solo-in-un-modo/8372751/"
+        "https://www.ilgiornale.it/news/calcio/como-e-napoli-fanno-punto-testa-finisce-senza-reti-2659101.html",
+        "https://www.ilmessaggero.it/sport/schede/como_napoli_pagelle_nico_paz_diao_milinkovic_savic_classifica_serie_a-9507718.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/05/02/serie-a-in-campo-como-napoli-0-0-diretta-e-foto_9251665c-977c-40a4-aec9-e087838e7ffe.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/04/30/serie-a-sabato-in-campo-alle-18-como-napoli-diretta-probabili-formazioni_9251665c-977c-40a4-aec9-e087838e7ffe.html",
+        "https://www.adnkronos.com/sport/diretta-como-napoli-oggi-serie-a-live-risultato-aggiornamenti_7jz5WkcG2ejZcRLr1wFb0o"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Il nuovo taglio delle accise dei carburanti si ferma al 10 maggio (ma sarà esteso)",
       "source_count": 6,
       "article_count": 7,
@@ -156,7 +177,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Certificazione unica, il pasticcio dell’Inps: 2 milioni di documenti errati. Si rischia di perdere il bonus fiscale",
       "source_count": 6,
       "article_count": 6,
@@ -177,7 +198,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Treno trancia i cavi elettrici, bloccato Frecciarossa con 125 passeggeri: caos sulla linea adriatica in Abruzzo",
       "source_count": 6,
       "article_count": 6,
@@ -195,26 +216,6 @@
         "https://www.ilmessaggero.it/abruzzo/treno_bloccato_abruzzo_pescara_frecciarossa-9507106.html",
         "https://www.repubblica.it/cronaca/2026/05/01/news/treni_bloccati_pescara-425318709/",
         "https://www.agi.it/cronaca/news/2026-05-01/treno-frecciarossa-bloccato-abruzzo-montesilvano-36854032/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Salerno, scopre che il marito la tradisce: lo narcotizza e lo evira nel sonno, choc ad Angri",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/02/narcotizza-e-evira-il-marito-arrestata.-voleva-in-casa-anche-la-prima-moglie_84055989-a1d7-4812-aa59-71f7c1be820f.html",
-        "https://www.ilfattoquotidiano.it/2026/05/02/marito-evirato-angri-salerno-notizie/8372809/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/02/narcotizza-e-evira-il-marito-arrestata_84055989-a1d7-4812-aa59-71f7c1be820f.html",
-        "https://www.fanpage.it/napoli/angri-scopre-il-tradimento-del-marito-e-lo-evira-mentre-dorme-lui-e-grave-in-ospedale/",
-        "https://www.liberoquotidiano.it/news/italia/47530314/angri-choc-donna-tradita-evira-marito-come-lo-ritrovano/"
       ]
     }
   ]
