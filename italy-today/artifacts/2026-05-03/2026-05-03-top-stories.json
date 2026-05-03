@@ -1,9 +1,30 @@
 {
   "date": "2026-05-03",
-  "generated_at": "Sun 03 May 11:53",
+  "generated_at": "Sun 03 May 13:25",
   "stories": [
     {
       "rank": 1,
+      "title": "F1 Gp Miami, gara anticipata per allerta maltempo. Ecco a che ora si corre",
+      "source_count": 6,
+      "article_count": 12,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "repubblica.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/blog/milleruote/antonelli_come_senna_e_schumacher_tre_pole_di_fila_dopo_la_prima_in_carriera_ed_ha_solo_19_anni-9509077.html",
+        "https://www.ilmessaggero.it/sport/formula1/f1_gran_premio_miami_anticipato_allerta_meteo_dove_vederlo_orario_ultime_notizie-9509020.html",
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/05/03/f1-temporali-in-arrivo-gp-di-miami-anticipato-alle-19_7c920d6d-a90e-4f5d-8f69-07997fae7d32.html",
+        "https://www.ilgiornale.it/news/motori/kimi-senna-e-schumi-tre-pole-fila-2659212.html",
+        "https://www.lastampa.it/sport/2026/05/03/news/gp_miami_gara_anticipata_per_allerta_meteo-15607637/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Garlasco, Sempio e i 3mila messaggi sul forum di seduzione (con il nickname Andreas): «A 18 anni ero ossessionato da una ragazza». La frase choc sullo stupro",
       "source_count": 7,
       "article_count": 11,
@@ -25,7 +46,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Missione Rubio a Roma, prove di disgelo con Vaticano e governo Meloni: atteso giovedì",
       "source_count": 8,
       "article_count": 10,
@@ -48,31 +69,10 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "F1, terza pole consecutiva per Antonelli, Leclerc 3° sia in griglia che nella sprint",
-      "source_count": 6,
-      "article_count": 11,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "repubblica.it",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/blog/milleruote/antonelli_come_senna_e_schumacher_tre_pole_di_fila_dopo_la_prima_in_carriera_ed_ha_solo_19_anni-9509077.html",
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/05/03/f1-temporali-in-arrivo-gp-di-miami-anticipato-alle-19_7c920d6d-a90e-4f5d-8f69-07997fae7d32.html",
-        "https://www.ilgiornale.it/news/motori/kimi-senna-e-schumi-tre-pole-fila-2659212.html",
-        "https://www.lastampa.it/sport/2026/05/03/news/gp_miami_gara_anticipata_per_allerta_meteo-15607637/",
-        "https://www.repubblica.it/sport/formulauno/2026/05/03/news/gp_miami_allerta_meteo_gara_anticipata_nuovo_orario-425320380/"
-      ]
-    },
-    {
       "rank": 4,
       "title": "Zanardi, il pilota senza gambe che ha mostrato al mondo com’è possibile rialzarsi",
       "source_count": 4,
-      "article_count": 12,
+      "article_count": 11,
       "source_domains": [
         "ilgiornale.it",
         "bologna.repubblica.it",
@@ -89,6 +89,27 @@
     },
     {
       "rank": 5,
+      "title": "Sinner-Zverev, oggi finale a Madrid: orario, precedenti e dove vederla",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "fanpage.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/live/sinner-zverev-in-diretta-live-in-campo-dalle-17-allatp-madrid-2026-in-palio-ce-il-titolo/",
+        "https://www.repubblica.it/sport/tennis/2026/05/03/news/sinner_zverev_finale_atp_madrid_dove_vedere_tv-425320683/",
+        "https://www.ilmessaggero.it/sport/schede/sinner_zverev_dove_vederla_tv_a_che_ora_gioca_finale_oggi_madrid-9508967.html",
+        "https://www.ilmessaggero.it/sport/schede/sinner_dove_vedere_finale_zverev_tv_a_che_ora_gioca_oggi_madrid-9508967.html",
+        "https://www.adnkronos.com/sport/sinner-zverev-oggi-finale-madrid-orario-precedenti-dove-vederla-tv-streaming_44YEANne9UHzoosowAMtAM"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "L’Inter pronta alla festa davanti ai suoi miti. Basta un punto per lo scudetto",
       "source_count": 6,
       "article_count": 8,
@@ -106,27 +127,6 @@
         "https://www.ilmessaggero.it/sport/schede/inter_parma_dove_vederla_orario_formazioni_scudetto_classifica-9508959.html",
         "https://www.adnkronos.com/sport/inter-oggi-festa-scudetto-cosa-serve-nerazzurri-tricolore-combinazioni-parma_5yMtETkcS3wlKQFroOLbVW",
         "https://www.adnkronos.com/sport/inter-parma-oggi-serie-a-orario-probabili-formazioni-dove-vedere-scudetto-tv-streaming_3RNuYA2UATYcQPr47DJDEE"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Sinner-Zverev, oggi finale a Madrid: orario, precedenti e dove vederla",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "repubblica.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/tennis/2026/05/03/news/sinner_zverev_finale_atp_madrid_dove_vedere_tv-425320683/",
-        "https://www.ilmessaggero.it/sport/schede/sinner_zverev_dove_vederla_tv_a_che_ora_gioca_finale_oggi_madrid-9508967.html",
-        "https://www.ilmessaggero.it/sport/schede/sinner_dove_vedere_finale_zverev_tv_a_che_ora_gioca_oggi_madrid-9508967.html",
-        "https://www.adnkronos.com/sport/sinner-zverev-oggi-finale-madrid-orario-precedenti-dove-vederla-tv-streaming_44YEANne9UHzoosowAMtAM",
-        "https://www.fanpage.it/sport/tennis/sinner-zverev-oggi-in-finale-a-madrid-a-che-ora-si-gioca-e-dove-vederla-in-tv-in-chiaro-e-streaming/"
       ]
     },
     {
@@ -151,9 +151,30 @@
     },
     {
       "rank": 8,
-      "title": "Trump, via i soldati Usa dalla Germania: \"E ne taglieremo molti di più\"",
+      "title": "Roma, tragedia sul Gra: scende per aiutare automobilista e viene travolto da un'auto. Muore 35enne, altri 3 feriti",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "roma.repubblica.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-locale/si-ferma-prestare-aiuto-viene-travolto-morto-35enne-2659274.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/03/si-ferma-per-soccorrere-automobilista-35enne-muore-investito-a-roma_60a46cf8-ed5e-4f1b-827b-0a3f6fedb89b.html",
+        "https://www.adnkronos.com/cronaca/roma-scende-per-aiutare-automobilista-e-viene-travolto-morto-35enne_6u88GcZo2Z619Ye7UtgITa",
+        "https://www.ilmessaggero.it/roma/tuscolana/gra_roma_incidente_morto_automobilista_oggi_cosa_e_successo-9509021.html",
+        "https://www.fanpage.it/roma/incidente-sul-gra-allalba-auto-si-ribalta-e-viene-travolta-muore-un-uomo-tre-feriti/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Via dalla Germania 5mila soldati Usa. E l'Europa adesso si scopre disarmata",
       "source_count": 5,
-      "article_count": 7,
+      "article_count": 6,
       "source_domains": [
         "ilgiornale.it",
         "liberoquotidiano.it",
@@ -170,43 +191,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Narcotizza ed evira il convivente mentre dorme: “Voleva in casa anche la prima moglie”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/napoli/evirato-dalla-compagna-ad-angri-voleva-in-casa-anche-la-prima-moglie-la-donna-in-carcere/",
-        "https://www.ilgiornale.it/news/politica/evirato-nel-sonno-moglie-voleva-ospitare-ex-2659129.html",
-        "https://www.ilmessaggero.it/persone/evira_marito_angri_avvocato_cosa_ha_detto_cosa_e_successo-9508980.html",
-        "https://www.lastampa.it/cronaca/2026/05/03/news/salerno_narcotizza_evira_convivente-15607624/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/02/narcotizza-e-evira-il-marito-arrestata.-voleva-in-casa-anche-la-prima-moglie_84055989-a1d7-4812-aa59-71f7c1be820f.html"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Fidanzati si schiantano in scooter, i corpi trovati da un runner in un fosso ore dopo",
+      "title": "Flotilla, Israele proroga di 2 giorni la detenzione degli attivisti Saif Abukeshek e Thiago Avila",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
         "ansa.it",
-        "ilgiornale.it",
-        "milano.repubblica.it",
-        "fanpage.it"
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/persone/milano_fidanzati_morti_sarah_ernani_alexandru_viorel_tribiano_chi_erano-9509081.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/03/in-scooter-nel-fosso-due-giovani-morti-nel-milanese_a74e3aed-8ad2-409e-9491-48e28d9b96cc.html",
-        "https://www.ilgiornale.it/news/cronaca-nera/perdono-controllo-dello-scooter-e-finiscono-burrone-morti-2659222.html",
-        "https://milano.repubblica.it/cronaca/2026/05/03/news/incidente_scooter_coppia_ventenni-425320492/",
-        "https://www.fanpage.it/milano/auto-esce-di-strada-a-tribiano-nel-milanese-morti-due-giovani-di-24-e-25-anni/"
+        "https://www.repubblica.it/cronaca/2026/05/03/news/flotilla_attivisti_trattenuti_carcere_italia_fermati-425320726/",
+        "https://www.lastampa.it/esteri/2026/05/03/video/flotilla_thiago_avila_in_tribunale_con_le_manette_alle_caviglie-15607763/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/03/ong-arrivati-in-tribunale-i-due-attivisti-della-flotilla-arrestati-da-israele_65d82da4-f593-4643-8e23-38b3a3a516ec.html",
+        "https://www.lastampa.it/esteri/2026/05/03/news/flotilla_detenzione_attivisti_saif_abukeshek_thiago_avila-15607654/",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/05/03/flotilla-abukeshek-e-avila-alle-930-in-tribunale-per-ludienza-sulla-proroga-della-detenzione-in-israele/8373422/"
       ]
     }
   ]
