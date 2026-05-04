@@ -1,33 +1,80 @@
 {
   "date": "2026-05-04",
-  "generated_at": "Mon 04 May 11:11",
+  "generated_at": "Mon 04 May 14:17",
   "stories": [
     {
       "rank": 1,
       "title": "L'Inter vince il 21esimo scudetto: esplode la festa a Milano",
-      "source_count": 9,
-      "article_count": 21,
+      "source_count": 7,
+      "article_count": 19,
       "source_domains": [
         "adnkronos.com",
-        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "unita.it",
         "ansa.it",
-        "fanpage.it",
-        "liberoquotidiano.it",
         "ilgiornale.it",
         "lastampa.it",
         "repubblica.it"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/inter-quanto-vale-scudetto-incasso-nerazzurro-ricavi-serie-a_6di8BwMDiiBVoZnzMGeLc3",
         "https://www.adnkronos.com/sport/scudetto-inter-facchetti-bonolis-bertolino-tifosi-vip-commenti_5twtMfRUgMXxvl0lfysSYn",
         "https://www.adnkronos.com/sport/inter-festa-scudetto-lautaro-thuram-dumfries-duomo-video_71KntipJ4hXaGGaMpM34Kr",
-        "https://www.ilfattoquotidiano.it/2026/05/04/piazza-duomo-inter-festa-scudetto-video/8374022/",
-        "https://www.ilfattoquotidiano.it/2026/05/04/scudetto-inter-festa-duomo-dimarco-lautaro-racconto/8374000/",
+        "https://www.liberoquotidiano.it/news/pillole/47563266/la_barba_al_palo_-_bella_e_meritata_la_grande_festa_dell_inter/",
         "https://www.unita.it/2026/05/04/inter-campione-italia-parma-scudetto-nerazzurri-chivu/"
       ]
     },
     {
       "rank": 2,
+      "title": "Trump: “Guidiamo le navi a Hormuz”. Cento aerei e 15mila uomini per Project Freedom. Ira di Teheran",
+      "source_count": 9,
+      "article_count": 13,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "unita.it",
+        "repubblica.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/04/project-freedom-trump-stretto-hormuz-notizie/8374349/",
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-hormuz-trump-project-freedom_14DOpnfYNx9u3DYqFuLETP",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/04/medio-oriente-teheran-colpita-con-due-missili-una-nave-da-guerra_c991b0b5-9c86-45a7-9a1b-e9c8584148bd.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/04/medio-oriente-trump-lancia-loperazione-freedom-per-liberare-le-navi-a-hormuz._c991b0b5-9c86-45a7-9a1b-e9c8584148bd.html",
+        "https://www.unita.it/2026/05/04/trump-operazione-project-freedom-liberazione-navi-ferme-stretto-hormuz/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "La deputata ed ex ministra Marianna Madia lascia il Pd",
+      "source_count": 10,
+      "article_count": 11,
+      "source_domains": [
+        "repubblica.it",
+        "unita.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/politica/2026/05/04/news/madia_pd_italia_viva_renzi_intervista-425322322/",
+        "https://www.unita.it/2026/05/04/marianna-madia-lascia-pd-ingresso-italia-viva-renzi/",
+        "https://www.adnkronos.com/politica/pd-marianna-madia-lascia-dem-passa-da-indipendente-a-italia-viva_3yoKbZMwX1H1VbxZybRUOU",
+        "https://www.ilgiornale.it/news/interni/madia-lascia-pd-e-passa-italia-viva-scelta-difficile-e-2659521.html",
+        "https://www.ilfattoquotidiano.it/2026/05/04/marianna-madia-pd-italia-viva-notizie/8373945/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Focolaio di hantavirus su una nave da crociera: tre vittime nell’Atlantico",
       "source_count": 9,
       "article_count": 12,
@@ -51,81 +98,12 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Meloni in Armenia al vertice Cpe, partecipa a riunione con Zelensky",
-      "source_count": 8,
-      "article_count": 12,
-      "source_domains": [
-        "governo.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.governo.it/it/articolo/il-presidente-meloni-incontra-il-presidente-della-confederazione-elvetica/31713",
-        "https://www.ilmessaggero.it/politica/meloni-9510714.html",
-        "https://www.ilgiornale.it/news/politica/meloni-armenia-summit-cpe-vista-sugli-usa-2659355.html",
-        "https://www.repubblica.it/politica/2026/05/04/news/giorgia_meloni_vertice_cpe_comunita_politica_europea_migranti-425322390/",
-        "https://www.ansa.it/sito/notizie/politica/2026/05/04/meloni-a-erevan-con-la-epc-concentriamoci-sui-nostri-vicini-del-mediterraneo_f7d732f6-8f31-47bf-aa19-e1a8f863dfeb.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "La deputata ed ex ministra Marianna Madia lascia il Pd",
-      "source_count": 9,
+      "rank": 5,
+      "title": "Flotilla, la procura di Roma indaga per sequestro di persona",
+      "source_count": 10,
       "article_count": 10,
       "source_domains": [
-        "repubblica.it",
-        "unita.it",
         "adnkronos.com",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/05/04/news/madia_pd_italia_viva_renzi_intervista-425322322/",
-        "https://www.unita.it/2026/05/04/marianna-madia-lascia-pd-ingresso-italia-viva-renzi/",
-        "https://www.adnkronos.com/politica/pd-marianna-madia-lascia-dem-passa-da-indipendente-a-italia-viva_3yoKbZMwX1H1VbxZybRUOU",
-        "https://www.ilgiornale.it/news/interni/madia-lascia-pd-e-passa-italia-viva-scelta-difficile-e-2659521.html",
-        "https://www.ilfattoquotidiano.it/2026/05/04/marianna-madia-pd-italia-viva-notizie/8373945/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Trump: “Guidiamo le navi a Hormuz”. Cento aerei e 15mila uomini per Project Freedom. Ira di Teheran",
-      "source_count": 8,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "unita.it",
-        "repubblica.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/04/medio-oriente-teheran-colpita-con-due-missili-una-nave-da-guerra_c991b0b5-9c86-45a7-9a1b-e9c8584148bd.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/04/medio-oriente-trump-lancia-loperazione-freedom-per-liberare-le-navi-a-hormuz._c991b0b5-9c86-45a7-9a1b-e9c8584148bd.html",
-        "https://www.unita.it/2026/05/04/trump-operazione-project-freedom-liberazione-navi-ferme-stretto-hormuz/",
-        "https://www.repubblica.it/esteri/2026/05/04/diretta/guerra_in_iran_le_news_di_oggi_in_diretta-425321656/",
-        "https://www.repubblica.it/esteri/2026/05/04/news/project_freedom_trump_navi_hormuz_cento_aerei_15_mila_uomini_ira_iran-425322040/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Flotilla, la procura di Roma indaga per sequestro di persona",
-      "source_count": 9,
-      "article_count": 9,
-      "source_domains": [
         "ilmessaggero.it",
         "unita.it",
         "fanpage.it",
@@ -137,15 +115,60 @@
         "agi.it"
       ],
       "links": [
+        "https://www.adnkronos.com/cronaca/flotilla-procura-roma-apre-nuova-inchiesta-per-sequestro-di-persona_7gb3jGUjtIUDzn0ADPIX0X",
         "https://www.ilmessaggero.it/mondo/flotilla_israele_ultime_notizie-9510735.html",
         "https://www.unita.it/2026/05/04/flotilla-indagine-procura-roma-sequestro-persona-attivisti/",
         "https://www.fanpage.it/attualita/flotilla-procura-roma-indaga-per-sequestro-di-persona-ora-governo-chieda-rilascio-immediato-di-saif-e-thiago/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/04/flotilla-la-procura-di-roma-indaga-per-sequestro-di-persona-_ba8d159c-2984-49f0-80ef-8c3fdb64f679.html",
-        "https://www.ilfattoquotidiano.it/2026/05/04/flotilla-gaza-procura-roma-indagine-notizie/8374203/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/04/flotilla-la-procura-di-roma-indaga-per-sequestro-di-persona-_ba8d159c-2984-49f0-80ef-8c3fdb64f679.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Meloni in Armenia al vertice Cpe, partecipa a riunione con Zelensky",
+      "source_count": 7,
+      "article_count": 12,
+      "source_domains": [
+        "governo.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.governo.it/it/articolo/visita-nella-repubblica-dell-azerbaigian/31720",
+        "https://www.governo.it/it/articolo/il-presidente-meloni-incontra-il-presidente-della-confederazione-elvetica/31713",
+        "https://www.ilgiornale.it/news/politica/meloni-armenia-summit-cpe-vista-sugli-usa-2659355.html",
+        "https://www.repubblica.it/politica/2026/05/04/news/giorgia_meloni_vertice_cpe_comunita_politica_europea_migranti-425322390/",
+        "https://www.ansa.it/sito/notizie/politica/2026/05/04/meloni-a-erevan-con-la-epc-concentriamoci-sui-nostri-vicini-del-mediterraneo_f7d732f6-8f31-47bf-aa19-e1a8f863dfeb.html"
       ]
     },
     {
       "rank": 7,
+      "title": "Garlasco, la versione di Sempio sull’ossessione nei forum: “Non era Chira Poggi ma una barista”",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "milano.repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/persone/garlasco_sempio_barista_birreria_chi_e_sara_in_procura_6_maggio-9510928.html",
+        "https://www.fanpage.it/attualita/garlasco-difesa-sempio-sui-messaggi-pubblicati-sul-forum-parlava-di-una-barista-e-lo-scriveva/",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/sempio-sul-forum-ho-unossessione-barista-birreria-domani-2659626.html",
+        "https://www.ilfattoquotidiano.it/2026/05/04/delitto-garlasco-sempio-difesa-notizie/8374264/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/04/delitto-di-garlasco-sempio-sul-forum-ho-unossessione-per-una-barista-di-una_2dbf7ebd-fa27-41c3-b614-2329af5ad84f.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Sinner nella storia: Zverev annichilito in due set, Jannik è il primo a vincere 5 Masters 1000 di fila",
       "source_count": 6,
       "article_count": 11,
@@ -166,7 +189,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Rudolph Giuliani ricoverato in ospedale in condizioni critiche",
       "source_count": 8,
       "article_count": 8,
@@ -186,28 +209,6 @@
         "https://www.adnkronos.com/internazionale/esteri/rudolph-giuliani-ex-sindaco-new-york-salute_4532VWA1onAE35bMIgSm17",
         "https://www.liberoquotidiano.it/news/libero-video/47560190/rudolph-giuliani-ricoverato-oondizioni-critiche-ultima-drammatica-diretta-online/",
         "https://www.ilgiornale.it/news/cronaca-internazionale/rudolph-giuliani-ricoverato-ospedale-condizioni-critiche-2659491.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "La missione vaticana di Rubio e i tre dossier per il disgelo con Papa Leone",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "laverita.info",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/trump-vuole-ricucire-litalia-e-papa-missione-rubio-roma-2659353.html",
-        "https://www.laverita.info/rubio-prova-con-la-doppia-ricucitura-a-roma-vedra-il-papa-e-forse-meloni-2676845796.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/05/04/prime-pagine-missione-di-rubio-a-roma-vedra-il-papa-e-il-governo_8633a3d7-24fb-496e-93f4-75c067ff2ed7.html",
-        "https://www.repubblica.it/politica/2026/05/04/news/papa_rubio_incontro_vaticano_pace-425321443/",
-        "https://www.lastampa.it/esteri/2026/05/04/news/medio_oriente_cuba_i_migranti_ecco_i_dossier_di_rubio_per_il_disgelo_con_il_vaticano-15608224/"
       ]
     },
     {
