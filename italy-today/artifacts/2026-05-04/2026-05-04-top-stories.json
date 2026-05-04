@@ -1,31 +1,57 @@
 {
   "date": "2026-05-04",
-  "generated_at": "Mon 04 May 14:17",
+  "generated_at": "Mon 04 May 16:54",
   "stories": [
     {
       "rank": 1,
       "title": "L'Inter vince il 21esimo scudetto: esplode la festa a Milano",
-      "source_count": 7,
-      "article_count": 19,
+      "source_count": 8,
+      "article_count": 23,
       "source_domains": [
+        "ilgiornale.it",
         "adnkronos.com",
         "liberoquotidiano.it",
         "unita.it",
         "ansa.it",
-        "ilgiornale.it",
+        "fanpage.it",
         "lastampa.it",
         "repubblica.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/calcio/l-inter-ha-meritato-vincere-altre-hanno-sbagliato-tutto-e-pi-2659749.html",
         "https://www.adnkronos.com/sport/inter-quanto-vale-scudetto-incasso-nerazzurro-ricavi-serie-a_6di8BwMDiiBVoZnzMGeLc3",
         "https://www.adnkronos.com/sport/scudetto-inter-facchetti-bonolis-bertolino-tifosi-vip-commenti_5twtMfRUgMXxvl0lfysSYn",
         "https://www.adnkronos.com/sport/inter-festa-scudetto-lautaro-thuram-dumfries-duomo-video_71KntipJ4hXaGGaMpM34Kr",
-        "https://www.liberoquotidiano.it/news/pillole/47563266/la_barba_al_palo_-_bella_e_meritata_la_grande_festa_dell_inter/",
-        "https://www.unita.it/2026/05/04/inter-campione-italia-parma-scudetto-nerazzurri-chivu/"
+        "https://www.liberoquotidiano.it/news/pillole/47563266/la_barba_al_palo_-_bella_e_meritata_la_grande_festa_dell_inter/"
       ]
     },
     {
       "rank": 2,
+      "title": "Focolaio di hantavirus su una nave da crociera: tre vittime nell’Atlantico",
+      "source_count": 10,
+      "article_count": 13,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "unita.it",
+        "fanpage.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/mondo/hantavirus_nave_crociera_capo_verde_epidemia_cosa_succede-9511063.html",
+        "https://www.ilmessaggero.it/schede/hantavirus_cosa_e_sintomi_italia_cosa_sapere_ultima_ora-9510696.html",
+        "https://www.ilgiornale.it/news/farmaci-e-terapie/hantavirus-cos-sintomi-e-contagio-2659551.html",
+        "https://www.unita.it/2026/05/04/tre-morti-nave-crociera-atlantico-sospetti-casi-hantavirus-cose-virus-topi/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/focolaio-hantavirus-su-nave-crociera-tre-vittime-nell-2659542.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Trump: “Guidiamo le navi a Hormuz”. Cento aerei e 15mila uomini per Project Freedom. Ira di Teheran",
       "source_count": 9,
       "article_count": 13,
@@ -49,7 +75,33 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Flotilla, la procura di Roma indaga per sequestro di persona",
+      "source_count": 11,
+      "article_count": 11,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "unita.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "roma.repubblica.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/giustizia/47566538/flotilla-procura-si-muove-indagine-sequestro-persona/",
+        "https://www.adnkronos.com/cronaca/flotilla-procura-roma-apre-nuova-inchiesta-per-sequestro-di-persona_7gb3jGUjtIUDzn0ADPIX0X",
+        "https://www.ilmessaggero.it/mondo/flotilla_israele_ultime_notizie-9510735.html",
+        "https://www.unita.it/2026/05/04/flotilla-indagine-procura-roma-sequestro-persona-attivisti/",
+        "https://www.fanpage.it/attualita/flotilla-procura-roma-indaga-per-sequestro-di-persona-ora-governo-chieda-rilascio-immediato-di-saif-e-thiago/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "La deputata ed ex ministra Marianna Madia lascia il Pd",
       "source_count": 10,
       "article_count": 11,
@@ -74,118 +126,70 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Focolaio di hantavirus su una nave da crociera: tre vittime nell’Atlantico",
-      "source_count": 9,
-      "article_count": 12,
-      "source_domains": [
-        "ilmessaggero.it",
-        "unita.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/schede/hantavirus_cosa_e_sintomi_italia_cosa_sapere_ultima_ora-9510696.html",
-        "https://www.unita.it/2026/05/04/tre-morti-nave-crociera-atlantico-sospetti-casi-hantavirus-cose-virus-topi/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/focolaio-hantavirus-su-nave-crociera-tre-vittime-nell-2659542.html",
-        "https://www.fanpage.it/esteri/epidemia-di-hantavirus-su-una-nave-da-crociera-gravi-altri-due-membri-dellequipaggio-e-un-passeggero-inglese/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/04/tre-morti-per-una-possibile-epidemia-su-una-nave-da-crociera-altri_47733cfe-8804-48fa-b5d4-757f560ab49d.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Flotilla, la procura di Roma indaga per sequestro di persona",
-      "source_count": 10,
-      "article_count": 10,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "unita.it",
-        "fanpage.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "roma.repubblica.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/flotilla-procura-roma-apre-nuova-inchiesta-per-sequestro-di-persona_7gb3jGUjtIUDzn0ADPIX0X",
-        "https://www.ilmessaggero.it/mondo/flotilla_israele_ultime_notizie-9510735.html",
-        "https://www.unita.it/2026/05/04/flotilla-indagine-procura-roma-sequestro-persona-attivisti/",
-        "https://www.fanpage.it/attualita/flotilla-procura-roma-indaga-per-sequestro-di-persona-ora-governo-chieda-rilascio-immediato-di-saif-e-thiago/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/04/flotilla-la-procura-di-roma-indaga-per-sequestro-di-persona-_ba8d159c-2984-49f0-80ef-8c3fdb64f679.html"
-      ]
-    },
-    {
       "rank": 6,
       "title": "Meloni in Armenia al vertice Cpe, partecipa a riunione con Zelensky",
       "source_count": 7,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
         "governo.it",
+        "ilmessaggero.it",
         "ilgiornale.it",
         "repubblica.it",
         "ansa.it",
         "liberoquotidiano.it",
-        "fanpage.it",
-        "ilsole24ore.com"
+        "lastampa.it"
       ],
       "links": [
         "https://www.governo.it/it/articolo/visita-nella-repubblica-dell-azerbaigian/31720",
         "https://www.governo.it/it/articolo/il-presidente-meloni-incontra-il-presidente-della-confederazione-elvetica/31713",
-        "https://www.ilgiornale.it/news/politica/meloni-armenia-summit-cpe-vista-sugli-usa-2659355.html",
-        "https://www.repubblica.it/politica/2026/05/04/news/giorgia_meloni_vertice_cpe_comunita_politica_europea_migranti-425322390/",
-        "https://www.ansa.it/sito/notizie/politica/2026/05/04/meloni-a-erevan-con-la-epc-concentriamoci-sui-nostri-vicini-del-mediterraneo_f7d732f6-8f31-47bf-aa19-e1a8f863dfeb.html"
+        "https://www.ilmessaggero.it/politica/meloni-9510714.html",
+        "https://www.ilmessaggero.it/politica/meloni_trump_soldati_usa_basi_italiane_cosa_ha_detto_guerra_ucraina-9510714.html",
+        "https://www.ilgiornale.it/news/politica/meloni-armenia-summit-cpe-vista-sugli-usa-2659355.html"
       ]
     },
     {
       "rank": 7,
-      "title": "Garlasco, la versione di Sempio sull’ossessione nei forum: “Non era Chira Poggi ma una barista”",
-      "source_count": 8,
-      "article_count": 11,
+      "title": "Garlasco, l'ultimo colpo di scena. Oltre a Sempio, i pm sentiranno anche Marco Poggi e le sorelle Cappa",
+      "source_count": 7,
+      "article_count": 10,
       "source_domains": [
-        "ilmessaggero.it",
-        "fanpage.it",
         "ilgiornale.it",
+        "laverita.info",
+        "ilmessaggero.it",
         "ilfattoquotidiano.it",
-        "ansa.it",
+        "fanpage.it",
         "milano.repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.ilmessaggero.it/persone/garlasco_sempio_barista_birreria_chi_e_sara_in_procura_6_maggio-9510928.html",
-        "https://www.fanpage.it/attualita/garlasco-difesa-sempio-sui-messaggi-pubblicati-sul-forum-parlava-di-una-barista-e-lo-scriveva/",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/sempio-sul-forum-ho-unossessione-barista-birreria-domani-2659626.html",
-        "https://www.ilfattoquotidiano.it/2026/05/04/delitto-garlasco-sempio-difesa-notizie/8374264/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/04/delitto-di-garlasco-sempio-sul-forum-ho-unossessione-per-una-barista-di-una_2dbf7ebd-fa27-41c3-b614-2329af5ad84f.html"
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/chi-sono-gemelle-cappa-legame-chiara-poggi-e-cosa-fanno-oggi-2659765.html",
+        "https://www.laverita.info/garlasco-sempio-poggi-cappa-procura-2676848021.html",
+        "https://www.ilmessaggero.it/italia/marco_poggi_cosa_fa_oggi_garlasco_amicizia_sempio-9511097.html",
+        "https://www.ilfattoquotidiano.it/2026/05/04/caso-garlasco-nuovi-interrogatori-marco-poggi-gemelle-cappa-news/8374790/",
+        "https://www.ilmessaggero.it/schede/gemelle_cappa_chi_sono_cosa_hanno_fatto_garlasco_intercettazioni_stasi-9511054.html"
       ]
     },
     {
       "rank": 8,
-      "title": "Sinner nella storia: Zverev annichilito in due set, Jannik è il primo a vincere 5 Masters 1000 di fila",
-      "source_count": 6,
-      "article_count": 11,
+      "title": "La missione vaticana di Rubio e i tre dossier per il disgelo con Papa Leone",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
         "fanpage.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
         "ilgiornale.it",
-        "news.google.com"
+        "laverita.info",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.fanpage.it/sport/tennis/sinner-insofferente-sullimbattibilita-una-domanda-non-necessaria-a-roma-si-gioca-tre-record/",
-        "https://www.ilfattoquotidiano.it/2026/05/04/sinner-si-emoziona-parlando-della-mamma-mio-modello-vorrei-passare-tempo-insieme/8374107/",
-        "https://www.liberoquotidiano.it/news/sport/47561367/sinner-zverev-poi-te-ne-penti-parole-pesantissime-mamma-siglinde/",
-        "https://www.liberoquotidiano.it/news/sport/47560854/leggenda-5inner/",
-        "https://www.adnkronos.com/sport/sinner-record-vittorie-nadal-djokovic-federer_2bHl0NbqwOe3eg2l25LSEp"
+        "https://www.fanpage.it/politica/marco-rubio-a-roma-per-salvare-il-rapporto-con-papa-leone-xiv-e-giorgia-meloni-lultima-carta-di-trump/",
+        "https://www.ilgiornale.it/news/politica/trump-vuole-ricucire-litalia-e-papa-missione-rubio-roma-2659353.html",
+        "https://www.laverita.info/rubio-prova-con-la-doppia-ricucitura-a-roma-vedra-il-papa-e-forse-meloni-2676845796.html",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/05/04/prime-pagine-missione-di-rubio-a-roma-vedra-il-papa-e-il-governo_8633a3d7-24fb-496e-93f4-75c067ff2ed7.html",
+        "https://www.repubblica.it/politica/2026/05/04/news/papa_rubio_incontro_vaticano_pace-425321443/"
       ]
     },
     {
