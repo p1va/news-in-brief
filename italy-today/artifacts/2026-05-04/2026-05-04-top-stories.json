@@ -1,214 +1,235 @@
 {
   "date": "2026-05-04",
-  "generated_at": "Mon 04 May 08:39",
+  "generated_at": "Mon 04 May 11:11",
   "stories": [
     {
       "rank": 1,
       "title": "L'Inter vince il 21esimo scudetto: esplode la festa a Milano",
-      "source_count": 5,
-      "article_count": 14,
+      "source_count": 9,
+      "article_count": 21,
       "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "unita.it",
         "ansa.it",
+        "fanpage.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
         "lastampa.it",
         "repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/05/03/linter-e-campione-ditalia_58db6e15-ff57-46d3-9521-4ef8e5dfae99.html",
-        "https://www.ansa.it/sito/videogallery/calcio/2026/05/04/inter-campione-ditalia-festa-a-milano_9d07fc5e-b8b7-47c9-a31b-efb76b85ef0a.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47560445/inter-la-gioia-dei-tifosi-dopo-un-anno-difficile-ci-siamo-rifatti/",
-        "https://www.liberoquotidiano.it/news/tv-news/47560437/l-inter-vince-il-21esimo-scudetto-esplode-la-festa-a-milano/",
-        "https://www.ilgiornale.it/news/calcio/inter-missione-compiuta-e-adesso-i-campioni-d-italia-2659432.html"
+        "https://www.adnkronos.com/sport/scudetto-inter-facchetti-bonolis-bertolino-tifosi-vip-commenti_5twtMfRUgMXxvl0lfysSYn",
+        "https://www.adnkronos.com/sport/inter-festa-scudetto-lautaro-thuram-dumfries-duomo-video_71KntipJ4hXaGGaMpM34Kr",
+        "https://www.ilfattoquotidiano.it/2026/05/04/piazza-duomo-inter-festa-scudetto-video/8374022/",
+        "https://www.ilfattoquotidiano.it/2026/05/04/scudetto-inter-festa-duomo-dimarco-lautaro-racconto/8374000/",
+        "https://www.unita.it/2026/05/04/inter-campione-italia-parma-scudetto-nerazzurri-chivu/"
       ]
     },
     {
       "rank": 2,
-      "title": "La deputata ed ex ministra Marianna Madia lascia il Pd",
-      "source_count": 8,
-      "article_count": 8,
+      "title": "Focolaio di hantavirus su una nave da crociera: tre vittime nell’Atlantico",
+      "source_count": 9,
+      "article_count": 12,
       "source_domains": [
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ansa.it",
         "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/politica/pd-marianna-madia-lascia-dem-passa-da-indipendente-a-italia-viva_3yoKbZMwX1H1VbxZybRUOU",
-        "https://www.ilgiornale.it/news/interni/madia-lascia-pd-e-passa-italia-viva-scelta-difficile-e-2659521.html",
-        "https://www.ilfattoquotidiano.it/2026/05/04/marianna-madia-pd-italia-viva-notizie/8373945/",
-        "https://www.repubblica.it/politica/2026/05/04/news/marianna_madia_lascia_pd-425321940/",
-        "https://www.ansa.it/sito/notizie/politica/2026/05/04/la-deputata-ed-ex-ministra-marianna-madia-lascia-il-pd_3d382833-9a84-4bbb-bd30-54bd101ad558.html"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Missione “disgelo” di Rubio in Italia. Incontrerà il Papa il 7 maggio",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "laverita.info",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it",
+        "unita.it",
         "ilgiornale.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/rubio-prova-con-la-doppia-ricucitura-a-roma-vedra-il-papa-e-forse-meloni-2676845796.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/05/04/prime-pagine-missione-di-rubio-a-roma-vedra-il-papa-e-il-governo_8633a3d7-24fb-496e-93f4-75c067ff2ed7.html",
-        "https://www.repubblica.it/politica/2026/05/04/news/papa_rubio_incontro_vaticano_pace-425321443/",
-        "https://www.lastampa.it/esteri/2026/05/04/news/medio_oriente_cuba_i_migranti_ecco_i_dossier_di_rubio_per_il_disgelo_con_il_vaticano-15608224/",
-        "https://www.ilmessaggero.it/vaticano/missione_diplomatica_usa_vaticano_rubio_trump_papa_leone_libano_gerusalemme_dossier_globali-9509489.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Hantavirus, tre morti su una nave da crociera nell’Atlantico legati alla febbre dei topi. L’Oms: “Possibile epidemia”",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
         "fanpage.it",
         "ansa.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
-        "ilmessaggero.it",
+        "liberoquotidiano.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/schede/hantavirus_cosa_e_sintomi_italia_cosa_sapere_ultima_ora-9510696.html",
+        "https://www.unita.it/2026/05/04/tre-morti-nave-crociera-atlantico-sospetti-casi-hantavirus-cose-virus-topi/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/focolaio-hantavirus-su-nave-crociera-tre-vittime-nell-2659542.html",
         "https://www.fanpage.it/esteri/epidemia-di-hantavirus-su-una-nave-da-crociera-gravi-altri-due-membri-dellequipaggio-e-un-passeggero-inglese/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/04/tre-morti-per-una-possibile-epidemia-su-una-nave-da-crociera-altri_47733cfe-8804-48fa-b5d4-757f560ab49d.html",
-        "https://www.repubblica.it/cronaca/2026/05/04/news/hantavirus_nave_da_crociera_cos_e_sintomi_contagio_cura-425322113/",
-        "https://www.ilfattoquotidiano.it/2026/05/04/scoppia-unepidemia-da-hantavirus-sulla-nave-da-crociera-mv-hondius-tre-morti-e-altre-tre-persone-in-gravi-condizioni-lesperto-e-il-peggior-posto-possibile-in-cui-ammalarsi-gravemente/8373946/",
-        "https://www.ilmessaggero.it/salute/focus/hantavirus_sintomi_cosa_e_nave_da_crociera_atlantico-9510429.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/04/tre-morti-per-una-possibile-epidemia-su-una-nave-da-crociera-altri_47733cfe-8804-48fa-b5d4-757f560ab49d.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Meloni in Armenia al vertice Cpe, partecipa a riunione con Zelensky",
+      "source_count": 8,
+      "article_count": 12,
+      "source_domains": [
+        "governo.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.governo.it/it/articolo/il-presidente-meloni-incontra-il-presidente-della-confederazione-elvetica/31713",
+        "https://www.ilmessaggero.it/politica/meloni-9510714.html",
+        "https://www.ilgiornale.it/news/politica/meloni-armenia-summit-cpe-vista-sugli-usa-2659355.html",
+        "https://www.repubblica.it/politica/2026/05/04/news/giorgia_meloni_vertice_cpe_comunita_politica_europea_migranti-425322390/",
+        "https://www.ansa.it/sito/notizie/politica/2026/05/04/meloni-a-erevan-con-la-epc-concentriamoci-sui-nostri-vicini-del-mediterraneo_f7d732f6-8f31-47bf-aa19-e1a8f863dfeb.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "La deputata ed ex ministra Marianna Madia lascia il Pd",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "repubblica.it",
+        "unita.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/politica/2026/05/04/news/madia_pd_italia_viva_renzi_intervista-425322322/",
+        "https://www.unita.it/2026/05/04/marianna-madia-lascia-pd-ingresso-italia-viva-renzi/",
+        "https://www.adnkronos.com/politica/pd-marianna-madia-lascia-dem-passa-da-indipendente-a-italia-viva_3yoKbZMwX1H1VbxZybRUOU",
+        "https://www.ilgiornale.it/news/interni/madia-lascia-pd-e-passa-italia-viva-scelta-difficile-e-2659521.html",
+        "https://www.ilfattoquotidiano.it/2026/05/04/marianna-madia-pd-italia-viva-notizie/8373945/"
       ]
     },
     {
       "rank": 5,
       "title": "Trump: “Guidiamo le navi a Hormuz”. Cento aerei e 15mila uomini per Project Freedom. Ira di Teheran",
-      "source_count": 6,
-      "article_count": 7,
+      "source_count": 8,
+      "article_count": 11,
       "source_domains": [
         "ansa.it",
+        "unita.it",
         "repubblica.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "fanpage.it",
-        "lastampa.it"
+        "fanpage.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/04/medio-oriente-teheran-colpita-con-due-missili-una-nave-da-guerra_c991b0b5-9c86-45a7-9a1b-e9c8584148bd.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/04/medio-oriente-trump-lancia-loperazione-freedom-per-liberare-le-navi-a-hormuz._c991b0b5-9c86-45a7-9a1b-e9c8584148bd.html",
+        "https://www.unita.it/2026/05/04/trump-operazione-project-freedom-liberazione-navi-ferme-stretto-hormuz/",
         "https://www.repubblica.it/esteri/2026/05/04/diretta/guerra_in_iran_le_news_di_oggi_in_diretta-425321656/",
-        "https://www.repubblica.it/esteri/2026/05/04/news/project_freedom_trump_navi_hormuz_cento_aerei_15_mila_uomini_ira_iran-425322040/",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/05/04/guerra-in-iran-israele-usa-news-oggi-4-maggio/8373943/",
-        "https://www.ilgiornale.it/news/guerra/trump-liran-sta-andando-molto-bene-liberiamo-navi-hormuz-2659480.html"
+        "https://www.repubblica.it/esteri/2026/05/04/news/project_freedom_trump_navi_hormuz_cento_aerei_15_mila_uomini_ira_iran-425322040/"
       ]
     },
     {
       "rank": 6,
-      "title": "Sinner nella storia: Zverev annichilito in due set, Jannik è il primo a vincere 5 Masters 1000 di fila",
-      "source_count": 5,
-      "article_count": 8,
+      "title": "Flotilla, la procura di Roma indaga per sequestro di persona",
+      "source_count": 9,
+      "article_count": 9,
       "source_domains": [
-        "adnkronos.com",
-        "lastampa.it",
+        "ilmessaggero.it",
+        "unita.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "liberoquotidiano.it",
-        "news.google.com"
+        "roma.repubblica.it",
+        "lastampa.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.adnkronos.com/sport/sinner-record-vittorie-nadal-djokovic-federer_2bHl0NbqwOe3eg2l25LSEp",
-        "https://www.adnkronos.com/sport/sinner-madrid-pensiero-genitori-commosso-trionfo-zverev_1Fi27bLh8WXp5FrFzjFZWN",
-        "https://www.lastampa.it/sport/2026/05/04/news/jannik_sinner_analisi_vittorie-15608352/",
-        "https://www.ilgiornale.it/news/sport/manita-record-sinner-5-masters-fila-e-ora-roma-e-parigi-2659399.html",
-        "https://www.liberoquotidiano.it/news/sport/47555506/sinner-champagne-figuraccia-mondovisione/"
+        "https://www.ilmessaggero.it/mondo/flotilla_israele_ultime_notizie-9510735.html",
+        "https://www.unita.it/2026/05/04/flotilla-indagine-procura-roma-sequestro-persona-attivisti/",
+        "https://www.fanpage.it/attualita/flotilla-procura-roma-indaga-per-sequestro-di-persona-ora-governo-chieda-rilascio-immediato-di-saif-e-thiago/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/04/flotilla-la-procura-di-roma-indaga-per-sequestro-di-persona-_ba8d159c-2984-49f0-80ef-8c3fdb64f679.html",
+        "https://www.ilfattoquotidiano.it/2026/05/04/flotilla-gaza-procura-roma-indagine-notizie/8374203/"
       ]
     },
     {
       "rank": 7,
-      "title": "Paura sul volo Venezia-Newark: l’aereo United colpisce un palo e sfiora un camion",
+      "title": "Sinner nella storia: Zverev annichilito in due set, Jannik è il primo a vincere 5 Masters 1000 di fila",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 11,
       "source_domains": [
-        "ilgiornale.it",
         "fanpage.it",
-        "lastampa.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/cronaca-internazionale/paura-sul-volo-venezia-newark-l-aereo-united-colpisce-palo-e-2659527.html",
-        "https://www.fanpage.it/esteri/usa-incidente-in-atterraggio-volo-partito-da-venezia-colpisce-un-palo-e-un-furgone-a-newark/",
-        "https://www.lastampa.it/video/socialnews/2026/05/04/video/new_jersey_nello_specchietto_vede_il_boeing_che_sta_per_investirlo_la_reazione_del_guidatore-15608409/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/04/un-aereo-united-airlines-colpisce-un-palo-della-luce-e-un-camion-durante-latterraggio_ab7da39d-3138-40d5-9bcc-6b80b60dfa6f.html",
-        "https://www.repubblica.it/esteri/2026/05/04/news/usa_volo_da_venezia_tocca_un_lampione_durante_l_atterraggio_a_newark_urtato_anche_un_furgone-425321687/"
+        "https://www.fanpage.it/sport/tennis/sinner-insofferente-sullimbattibilita-una-domanda-non-necessaria-a-roma-si-gioca-tre-record/",
+        "https://www.ilfattoquotidiano.it/2026/05/04/sinner-si-emoziona-parlando-della-mamma-mio-modello-vorrei-passare-tempo-insieme/8374107/",
+        "https://www.liberoquotidiano.it/news/sport/47561367/sinner-zverev-poi-te-ne-penti-parole-pesantissime-mamma-siglinde/",
+        "https://www.liberoquotidiano.it/news/sport/47560854/leggenda-5inner/",
+        "https://www.adnkronos.com/sport/sinner-record-vittorie-nadal-djokovic-federer_2bHl0NbqwOe3eg2l25LSEp"
       ]
     },
     {
       "rank": 8,
-      "title": "Rudy Giuliani, l’ex sindaco di New York, è in ospedale in condizioni critiche",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Rudolph Giuliani ricoverato in ospedale in condizioni critiche",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
+        "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "lastampa.it",
         "repubblica.it",
         "ansa.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/persone/rudolph_giuliani_ricoverato_ospedale_trump_cosa_sappiamo-9510663.html",
         "https://www.ilfattoquotidiano.it/2026/05/04/rudolph-giuliani-ricoverato-condizioni-ultime-notizie/8374050/",
         "https://www.adnkronos.com/internazionale/esteri/rudolph-giuliani-ex-sindaco-new-york-salute_4532VWA1onAE35bMIgSm17",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/rudolph-giuliani-ricoverato-ospedale-condizioni-critiche-2659491.html",
-        "https://www.lastampa.it/esteri/2026/05/04/news/l_ex_sindaco_di_new_york_rudy_giuliani_e_ricoverato_in_ospedale_in_condizioni_critiche-15608363/",
-        "https://www.repubblica.it/esteri/2026/05/04/news/rudolph_giuliani_ricoverato_ex_sindaco_new_york-425321691/"
+        "https://www.liberoquotidiano.it/news/libero-video/47560190/rudolph-giuliani-ricoverato-oondizioni-critiche-ultima-drammatica-diretta-online/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/rudolph-giuliani-ricoverato-ospedale-condizioni-critiche-2659491.html"
       ]
     },
     {
       "rank": 9,
-      "title": "Meloni in Armenia al vertice Cpe, partecipa a riunione con Zelensky",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "La missione vaticana di Rubio e i tre dossier per il disgelo con Papa Leone",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "governo.it",
+        "ilgiornale.it",
+        "laverita.info",
+        "ansa.it",
         "repubblica.it",
+        "lastampa.it",
+        "ilmessaggero.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/47560439/meloni-in-armenia-al-vertice-cpe-partecipa-a-riunione-con-zelensky/",
-        "https://www.fanpage.it/live/governo-meloni-ultime-notizie-crisi-dimissioni-4-maggio-diretta/",
-        "https://www.governo.it/it/articolo/vertice-della-comunit-politica-europea/31706",
-        "https://www.repubblica.it/politica/2026/05/04/news/meloni_prepara_bilaterale_rubio_sponde_europa-425321621/",
-        "https://www.ilsole24ore.com/art/lunedi-meloni-armenia-partecipa-vertice-comunita-politica-europea-AIzrtXqC"
+        "https://www.ilgiornale.it/news/politica/trump-vuole-ricucire-litalia-e-papa-missione-rubio-roma-2659353.html",
+        "https://www.laverita.info/rubio-prova-con-la-doppia-ricucitura-a-roma-vedra-il-papa-e-forse-meloni-2676845796.html",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/05/04/prime-pagine-missione-di-rubio-a-roma-vedra-il-papa-e-il-governo_8633a3d7-24fb-496e-93f4-75c067ff2ed7.html",
+        "https://www.repubblica.it/politica/2026/05/04/news/papa_rubio_incontro_vaticano_pace-425321443/",
+        "https://www.lastampa.it/esteri/2026/05/04/news/medio_oriente_cuba_i_migranti_ecco_i_dossier_di_rubio_per_il_disgelo_con_il_vaticano-15608224/"
       ]
     },
     {
       "rank": 10,
-      "title": "Frenata brusca della metro in centro a Milano, ci sono dei feriti",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Paura sul volo Venezia-Newark: l’aereo United colpisce un palo e sfiora un camion",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "fanpage.it",
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "fanpage.it",
+        "lastampa.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/04/frenata-brusca-della-metro-in-centro-a-milano-contusi-e-feriti_4522b4f5-b151-4d21-b04e-348a6cfae4e6.html",
-        "https://www.fanpage.it/milano/tenta-di-gettarsi-sotto-alla-metro-a-cadorna-frenata-secca-del-treno-diversi-passeggeri-feriti/",
-        "https://www.ilgiornale.it/news/cronaca-locale/frenata-brusca-metro-centro-milano-contusi-e-feriti-2659529.html",
-        "https://www.ilmessaggero.it/italia/milano_incidente_metro_frenata_oggi_cosa_e_successo_feriti_tentato_suicidio-9510536.html",
-        "https://www.lastampa.it/cronaca/2026/05/04/news/metro_milano_frenata_brusca_feriti-15608554/"
+        "https://www.ilfattoquotidiano.it/2026/05/04/la-ruota-dellaereo-di-linea-si-e-schiantata-contro-il-finestrino-del-conducente-aereo-partito-da-venezia-urta-un-palo-e-un-furgone-durante-latterraggio-le-immagini-dellimpatto/8374274/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/paura-sul-volo-venezia-newark-l-aereo-united-colpisce-palo-e-2659527.html",
+        "https://www.fanpage.it/esteri/usa-incidente-in-atterraggio-volo-partito-da-venezia-colpisce-un-palo-e-un-furgone-a-newark/",
+        "https://www.lastampa.it/video/socialnews/2026/05/04/video/new_jersey_nello_specchietto_vede_il_boeing_che_sta_per_investirlo_la_reazione_del_guidatore-15608409/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/04/un-aereo-united-airlines-colpisce-un-palo-della-luce-e-un-camion-durante-latterraggio_ab7da39d-3138-40d5-9bcc-6b80b60dfa6f.html"
       ]
     }
   ]
