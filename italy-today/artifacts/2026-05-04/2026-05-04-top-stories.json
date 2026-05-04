@@ -1,6 +1,6 @@
 {
   "date": "2026-05-04",
-  "generated_at": "Mon 04 May 19:54",
+  "generated_at": "Mon 04 May 20:23",
   "stories": [
     {
       "rank": 1,
@@ -194,6 +194,29 @@
     },
     {
       "rank": 9,
+      "title": "Germania, auto piomba sulla folla a tutta velocità: due morti e diversi feriti a Lipsia. Arrestato conducente",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-internazionale/auto-sulla-folla-lipsia-germania-almeno-otto-feriti-2659747.html",
+        "https://www.fanpage.it/esteri/germania-auto-piomba-sulla-folla-a-tutta-velocita-due-morti-e-diversi-feriti-a-lipsia/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/04/auto-contro-la-folla-a-lipsia-due-morti-e-due-feriti_428629cc-5796-40ed-85ad-4c77be82d7b9.html",
+        "https://www.ilfattoquotidiano.it/2026/05/04/attacco-auto-lipsia-folla-notizie/8374901/",
+        "https://www.liberoquotidiano.it/news/esteri/47568840/lipsia-auto-folla-morti-feriti-bilancio-drammatico-arrestato-conducente/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "La missione vaticana di Rubio e i tre dossier per il disgelo con Papa Leone",
       "source_count": 8,
       "article_count": 8,
@@ -213,29 +236,6 @@
         "https://www.laverita.info/rubio-prova-con-la-doppia-ricucitura-a-roma-vedra-il-papa-e-forse-meloni-2676845796.html",
         "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/05/04/prime-pagine-missione-di-rubio-a-roma-vedra-il-papa-e-il-governo_8633a3d7-24fb-496e-93f4-75c067ff2ed7.html",
         "https://www.repubblica.it/politica/2026/05/04/news/papa_rubio_incontro_vaticano_pace-425321443/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Rudolph Giuliani ricoverato in ospedale in condizioni critiche",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/persone/rudolph_giuliani_ricoverato_ospedale_trump_cosa_sappiamo-9510663.html",
-        "https://www.ilfattoquotidiano.it/2026/05/04/rudolph-giuliani-ricoverato-condizioni-ultime-notizie/8374050/",
-        "https://www.adnkronos.com/internazionale/esteri/rudolph-giuliani-ex-sindaco-new-york-salute_4532VWA1onAE35bMIgSm17",
-        "https://www.liberoquotidiano.it/news/libero-video/47560190/rudolph-giuliani-ricoverato-oondizioni-critiche-ultima-drammatica-diretta-online/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/rudolph-giuliani-ricoverato-ospedale-condizioni-critiche-2659491.html"
       ]
     }
   ]
