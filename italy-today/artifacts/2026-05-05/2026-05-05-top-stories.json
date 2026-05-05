@@ -1,6 +1,6 @@
 {
   "date": "2026-05-05",
-  "generated_at": "Tue 05 May 19:50",
+  "generated_at": "Tue 05 May 21:11",
   "stories": [
     {
       "rank": 1,
@@ -99,9 +99,9 @@
     },
     {
       "rank": 5,
-      "title": "Garlasco, non solo Sempio: i pm chiamano in procura il fratello di Chiara e le Cappa",
+      "title": "Delitto di Garlasco, l'avvocato di Sempio: 'Domani Andrea non risponderà ai pm'. Le cugine di Chiara Poggi saranno ascoltate oggi",
       "source_count": 7,
-      "article_count": 10,
+      "article_count": 9,
       "source_domains": [
         "milano.repubblica.it",
         "ilgiornale.it",
@@ -121,15 +121,14 @@
     },
     {
       "rank": 6,
-      "title": "Guerra in Iran, le news di oggi. Nave Maersk passata per Hormuz con la scorta Usa. Teheran nega",
-      "source_count": 5,
-      "article_count": 11,
+      "title": "Medio Oriente, il colosso Maersk: 'Una nostra nave ha attraversato Hormuz sotto scorta degli Usa'. L'Iran nega",
+      "source_count": 4,
+      "article_count": 9,
       "source_domains": [
         "ansa.it",
         "ilgiornale.it",
         "repubblica.it",
-        "fanpage.it",
-        "lastampa.it"
+        "fanpage.it"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/mondo/2026/05/05/medio-oriente-due-navi-militari-usa-hanno-attraversato-hormuz-schivati_5b0afa8b-5859-4e21-8ef6-0eeb44f09cae.html",
@@ -141,26 +140,6 @@
     },
     {
       "rank": 7,
-      "title": "Met Gala 2026, le pagelle del red carpet: da Beyoncé a Nicole Kidman",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "d.repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/nl/trendsetting/met_gala_top_flop_serata_look_spiegati-9513169.html",
-        "https://www.ilfattoquotidiano.it/2026/05/05/met-gala-2026-da-heidi-klum-in-versione-statua-vivente-a-sabrina-carpenter-avvolta-nella-pellicola-dei-film-tutti-i-look-anche-i-piu-assurdi-sul-red-carpet/8375355/",
-        "https://www.lastampa.it/spettacoli/2026/05/05/news/look_star_meta_gala_2026_promossi-15609864/",
-        "https://www.lastampa.it/spettacoli/2026/05/05/news/met_gala_2026_look_bocciati_star-15609841/",
-        "https://www.ilmessaggero.it/schede/met_gala_2026_look_pagelle_katy_perry_heidi_klum_anne_hathaway_emily_blunt-9512547.html"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "L'Fmi: il caro-energia peserà 450 euro sulle famiglie italiane, 2.270 con uno scenario grave",
       "source_count": 6,
       "article_count": 6,
@@ -178,6 +157,26 @@
         "https://www.ansa.it/sito/notizie/economia/2026/05/05/fmi-caro-energia-pesera-450-euro-su-famiglie-italiane-2.270-con_e5083ad4-5271-4973-990a-b5daf4237265.html",
         "https://www.ilmessaggero.it/economia/news/caro_energia_benzina_quanto_cosa_a_famiglie_italiane_fmi-9512700.html",
         "https://www.lastampa.it/economia/2026/05/05/news/iran_guerra_fmi_ricadute_italiani-15609746/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Met Gala 2026, le tre (e più) curiosità: da Zara sul red carpet al quadro \"scandaloso\" di Lauren Sanchez. I look spiegati",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "d.repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/nl/trendsetting/met_gala_top_flop_serata_look_spiegati-9513169.html",
+        "https://www.ilfattoquotidiano.it/2026/05/05/met-gala-2026-da-heidi-klum-in-versione-statua-vivente-a-sabrina-carpenter-avvolta-nella-pellicola-dei-film-tutti-i-look-anche-i-piu-assurdi-sul-red-carpet/8375355/",
+        "https://www.lastampa.it/spettacoli/2026/05/05/news/look_star_meta_gala_2026_promossi-15609864/",
+        "https://www.lastampa.it/spettacoli/2026/05/05/news/met_gala_2026_look_bocciati_star-15609841/",
+        "https://www.ilmessaggero.it/schede/met_gala_2026_look_pagelle_katy_perry_heidi_klum_anne_hathaway_emily_blunt-9512547.html"
       ]
     },
     {
@@ -201,22 +200,21 @@
     },
     {
       "rank": 10,
-      "title": "Bad Bunny irriconoscibile al Met Gala: \"Ci sono voluti 53 anni per prepararmi\"",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Arsenal-Atletico Madrid 1-0, Saka batte Simeone e Arteta vola in finale di Champions",
+      "source_count": 4,
+      "article_count": 7,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
         "fanpage.it",
+        "ilmessaggero.it",
+        "lastampa.it",
         "adnkronos.com"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/05/met-gala-2026-bad-bunny-invecchiato-e-irriconoscibile-sul-red-carpet-il-vero-significato-del-suo-look-firmato-zara/8375337/",
-        "https://www.liberoquotidiano.it/news/libero-video/47577089/met-gala-bad-bunny-presenta-versione-anziana/",
-        "https://www.repubblica.it/spettacoli/musica/2026/05/05/news/bad_bunny_met_gala_2026-425324322/",
-        "https://www.fanpage.it/stile-e-trend/moda/la-trasformazione-di-bad-bunny-al-met-gala-invecchiato-di-50-anni-con-rughe-e-capelli-bianchi/",
-        "https://www.adnkronos.com/spettacoli/met-gala-bad-bunny-irriconoscibile_6WG55cOxVxjg4Ej9cYkgSV"
+        "https://www.fanpage.it/sport/calcio/il-gol-di-saka-manda-larsenal-in-finale-di-champions-dopo-20-anni-atletico-madrid-stordito/",
+        "https://www.ilmessaggero.it/sport/calcio/arsenal_atletico_madrid_saka_champions_league-9513475.html",
+        "https://www.lastampa.it/sport/2026/05/05/news/arsenal_finalista_chiampions-15610792/",
+        "https://www.adnkronos.com/sport/diretta-arsenal-atletico-madrid-oggi-semifinale-champions-league-risultato-live_7qEvDukR6zgGY5GXGYmfCn",
+        "https://www.adnkronos.com/sport/diretta-arsenal-atletico-madrid-1-0-oggi-semifinale-champions-league-risultato-live_7qEvDukR6zgGY5GXGYmfCn"
       ]
     }
   ]
