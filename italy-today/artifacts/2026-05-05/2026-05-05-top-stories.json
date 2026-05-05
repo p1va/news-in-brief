@@ -1,6 +1,6 @@
 {
   "date": "2026-05-05",
-  "generated_at": "Tue 05 May 12:10",
+  "generated_at": "Tue 05 May 17:46",
   "stories": [
     {
       "rank": 1,
@@ -29,9 +29,79 @@
     },
     {
       "rank": 2,
-      "title": "Delitto di Garlasco, l'avvocato di Sempio: 'Domani Andrea non risponderà ai pm'. Le cugine di Chiara Poggi saranno ascoltate oggi",
+      "title": "Gli amici, i tifosi: il mondo oggi a Padova per salutare Alex Zanardi",
+      "source_count": 8,
+      "article_count": 12,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "laverita.info",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/47583789/addio_a_zanardi_migliaia_di_persone_ai_funerali_di_alex_a_padova/",
+        "https://www.laverita.info/funerali-alex-zanardi-video-2676852453.html",
+        "https://www.ansa.it/sito/notizie/sport/2026/05/05/duemila-persone-in-chiesa-per-il-funerale-di-zanardi-la-handbike-sullaltare_a12655e4-6892-4680-857c-3ded297deaa8.html",
+        "https://www.ilgiornale.it/news/nazionale/lultimo-saluto-zanardi-l-amico-che-tutti-avrebbero-voluto-2659995.html",
+        "https://www.ilfattoquotidiano.it/2026/05/05/funerali-alex-zanardi-padova-applausi-ingresso-feretro-basilica-applausi-video/8375588/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Trump attacca ancora il Papa: “Leone mette in pericolo molti cattolici”",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "unita.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/05/trump-attacca-ancora-leone-sta-mettendo-in-pericolo-molti-cattolici.-parolin_dbb53fba-93a2-4464-959f-d88ca29032e9.html",
+        "https://www.fanpage.it/esteri/trump-attacca-di-nuovo-papa-leone-xiv-mette-in-pericolo-molti-cattolici/",
+        "https://www.unita.it/2026/05/05/trump-contro-papa-leone-incontro-rubio-vaticano/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/05/trump-attacca-ancora-il-papa-sta-mettendo-in-pericolo-molti-cattolici_dbb53fba-93a2-4464-959f-d88ca29032e9.html",
+        "https://www.repubblica.it/cronaca/2026/05/05/news/trump_attacca_ancora_papa_leone_mette_in_pericolo_molti_cattolici-425324653/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Epidemia di hantavirus su nave da crociera a Capo Verde: 3 morti e 4 malati, possibile sbarco alle Canarie",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/47585067/la-spagna-prende-tempo-sull-attracco-della-nave-colpita-da-hantavirus/",
+        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/05/05/loms-possibile-trasmissione-dellhantavirus-da-uomo-a-uomo-sulla-nave-da-crociera_245ae98f-5cfe-44db-ad5c-744e4bfdc8e6.html",
+        "https://www.adnkronos.com/internazionale/esteri/hantavirus-nave-crociera-oggi-origine-focolaio_5WSkCfyUPW39Xgxdqeo9hR",
+        "https://www.fanpage.it/esteri/epidemia-di-hantavirus-su-nave-da-crociera-a-capo-verde-3-morti-e-4-malati-possibile-sbarco-alle-canarie/",
+        "https://www.adnkronos.com/internazionale/esteri/hantavirus-su-nave-da-crociera-ultimo-bilancio_1K7f09Zq1zQdedIYLO8cVp"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Garlasco, non solo Sempio: i pm chiamano in procura il fratello di Chiara e le Cappa",
       "source_count": 7,
-      "article_count": 13,
+      "article_count": 10,
       "source_domains": [
         "milano.repubblica.it",
         "ilgiornale.it",
@@ -50,16 +120,15 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Medio Oriente: 'Due navi militari Usa hanno attraversato Hormuz, schivati i raid iraniani'",
-      "source_count": 6,
-      "article_count": 13,
+      "rank": 6,
+      "title": "Guerra in Iran, le news di oggi. Nave Maersk passata per Hormuz con la scorta Usa. Teheran nega",
+      "source_count": 5,
+      "article_count": 11,
       "source_domains": [
         "ansa.it",
         "ilgiornale.it",
         "repubblica.it",
         "fanpage.it",
-        "ilmanifesto.it",
         "lastampa.it"
       ],
       "links": [
@@ -68,73 +137,6 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/05/05/medio-oriente-il-colosso-maersk-una-nostra-nave-ha-attraversato-hormuz-sotto_5b0afa8b-5859-4e21-8ef6-0eeb44f09cae.html",
         "https://www.ilgiornale.it/news/politica/avviso-trump-su-hormuz-liberatelo-o-torna-guerra-2659807.html",
         "https://www.repubblica.it/esteri/2026/05/05/diretta/guerra_in_iran_le_news_di_oggi_in_diretta-425323820/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Epidemia di hantavirus su nave da crociera a Capo Verde: 3 morti e 4 malati, possibile sbarco alle Canarie",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/05/05/loms-possibile-trasmissione-dellhantavirus-da-uomo-a-uomo-sulla-nave-da-crociera_245ae98f-5cfe-44db-ad5c-744e4bfdc8e6.html",
-        "https://www.adnkronos.com/internazionale/esteri/hantavirus-nave-crociera-oggi-origine-focolaio_5WSkCfyUPW39Xgxdqeo9hR",
-        "https://www.fanpage.it/esteri/epidemia-di-hantavirus-su-nave-da-crociera-a-capo-verde-3-morti-e-4-malati-possibile-sbarco-alle-canarie/",
-        "https://www.adnkronos.com/internazionale/esteri/hantavirus-su-nave-da-crociera-ultimo-bilancio_1K7f09Zq1zQdedIYLO8cVp",
-        "https://www.ilgiornale.it/news/politica/epidemia-choc-crociera-tre-morti-hantavirus-2659823.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Gli amici, i tifosi: il mondo oggi a Padova per salutare Alex Zanardi",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/05/05/duemila-persone-in-chiesa-per-il-funerale-di-zanardi-la-handbike-sullaltare_a12655e4-6892-4680-857c-3ded297deaa8.html",
-        "https://www.ilgiornale.it/news/nazionale/lultimo-saluto-zanardi-l-amico-che-tutti-avrebbero-voluto-2659995.html",
-        "https://www.ilfattoquotidiano.it/2026/05/05/funerali-alex-zanardi-padova-applausi-ingresso-feretro-basilica-applausi-video/8375588/",
-        "https://www.repubblica.it/sport/2026/05/05/diretta/alex_zanardi_funerali_padova_oggi_news_diretta-425324397/",
-        "https://www.ilfattoquotidiano.it/2026/05/05/funerali-zanardi-padova-handbike-altare-presenti/8375547/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Trump attacca ancora il Papa: “Leone mette in pericolo molti cattolici”",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "unita.it",
-        "ansa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/05/05/trump-contro-papa-leone-incontro-rubio-vaticano/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/05/trump-attacca-ancora-il-papa-sta-mettendo-in-pericolo-molti-cattolici_dbb53fba-93a2-4464-959f-d88ca29032e9.html",
-        "https://www.repubblica.it/cronaca/2026/05/05/news/trump_attacca_ancora_papa_leone_mette_in_pericolo_molti_cattolici-425324653/",
-        "https://www.adnkronos.com/internazionale/esteri/trump-papa-scontro-attacco-cosa-ha-detto_EGsWZLLTbyyrIR7r1NqWh",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/nuovo-affondo-trump-contro-papa-sta-mettendo-pericolo-molti-2660006.html"
       ]
     },
     {
@@ -160,6 +162,26 @@
     },
     {
       "rank": 8,
+      "title": "Met Gala 2026, le pagelle del red carpet: da Beyoncé a Nicole Kidman",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "d.repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/nl/trendsetting/met_gala_top_flop_serata_look_spiegati-9513169.html",
+        "https://www.ilfattoquotidiano.it/2026/05/05/met-gala-2026-da-heidi-klum-in-versione-statua-vivente-a-sabrina-carpenter-avvolta-nella-pellicola-dei-film-tutti-i-look-anche-i-piu-assurdi-sul-red-carpet/8375355/",
+        "https://www.lastampa.it/spettacoli/2026/05/05/news/look_star_meta_gala_2026_promossi-15609864/",
+        "https://www.lastampa.it/spettacoli/2026/05/05/news/met_gala_2026_look_bocciati_star-15609841/",
+        "https://www.ilmessaggero.it/schede/met_gala_2026_look_pagelle_katy_perry_heidi_klum_anne_hathaway_emily_blunt-9512547.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "L'Fmi: il caro-energia peserà 450 euro sulle famiglie italiane, 2.270 con uno scenario grave",
       "source_count": 6,
       "article_count": 6,
@@ -180,42 +202,22 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Bad Bunny irriconoscibile al Met Gala: \"Ci sono voluti 53 anni per prepararmi\"",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "fanpage.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/05/met-gala-2026-bad-bunny-invecchiato-e-irriconoscibile-sul-red-carpet-il-vero-significato-del-suo-look-firmato-zara/8375337/",
-        "https://www.liberoquotidiano.it/news/libero-video/47577089/met-gala-bad-bunny-presenta-versione-anziana/",
-        "https://www.repubblica.it/spettacoli/musica/2026/05/05/news/bad_bunny_met_gala_2026-425324322/",
-        "https://www.fanpage.it/stile-e-trend/moda/la-trasformazione-di-bad-bunny-al-met-gala-invecchiato-di-50-anni-con-rughe-e-capelli-bianchi/",
-        "https://www.adnkronos.com/spettacoli/met-gala-bad-bunny-irriconoscibile_6WG55cOxVxjg4Ej9cYkgSV"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Met Gala 2026, le pagelle del red carpet: da Beyoncé a Nicole Kidman",
+      "title": "Internazionali di Roma, folla per Djokovic a Piazza del Popolo",
       "source_count": 4,
-      "article_count": 6,
+      "article_count": 8,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "d.repubblica.it"
+        "roma.repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/05/met-gala-2026-da-heidi-klum-in-versione-statua-vivente-a-sabrina-carpenter-avvolta-nella-pellicola-dei-film-tutti-i-look-anche-i-piu-assurdi-sul-red-carpet/8375355/",
-        "https://www.lastampa.it/spettacoli/2026/05/05/news/look_star_meta_gala_2026_promossi-15609864/",
-        "https://www.lastampa.it/spettacoli/2026/05/05/news/met_gala_2026_look_bocciati_star-15609841/",
-        "https://www.ilmessaggero.it/schede/met_gala_2026_look_pagelle_katy_perry_heidi_klum_anne_hathaway_emily_blunt-9512547.html",
-        "https://d.repubblica.it/culture/celebrity/2026/05/05/news/coppie_met_gala_red_carpet_2026-425323849/"
+        "https://roma.repubblica.it/cronaca/2026/05/05/news/internazionali_tennis_djokovic_piazza_del_popolo-425325658/",
+        "https://www.adnkronos.com/sport/giocatori-tifosi-lite-internazionali-roma-2026-rissa_4rIT5IQh4Xfd3hX7IgNqab",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/05/05/djokovic-infiamma-i-tifosi-allenamento-show-a-piazza-del-popolo_1558663f-2508-4434-b66e-08f450b60bdf.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47585235/internazionali-di-roma-folla-per-djokovic-a-piazza-del-popolo/",
+        "https://www.adnkronos.com/sport/internazionali-2026-nuovo-foro-italico-sinner_1QRqbkiajW6IDTmbLKU0Nf"
       ]
     }
   ]
