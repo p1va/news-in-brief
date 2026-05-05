@@ -1,16 +1,40 @@
 {
   "date": "2026-05-05",
-  "generated_at": "Tue 05 May 08:21",
+  "generated_at": "Tue 05 May 10:53",
   "stories": [
     {
       "rank": 1,
+      "title": "In tre finiscono in acqua a Venezia, un ventenne muore annegato",
+      "source_count": 10,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/05/in-tre-finiscono-in-acqua-a-venezia-un-ragazzo-muore-annegato_1960b6d8-21d9-4cbe-810a-86a0ed2e8bd2.html",
+        "https://www.ilfattoquotidiano.it/2026/05/05/venezia-finiscono-acqua-20enne-morto-annegato-news/8375301/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/05/in-tre-finiscono-in-acqua-a-venezia-un-ventenne-muore-annegato_1960b6d8-21d9-4cbe-810a-86a0ed2e8bd2.html",
+        "https://www.fanpage.it/attualita/venezia-tre-giovani-cadono-in-acqua-nei-canali-un-ventenne-muore-annegato/",
+        "https://www.liberoquotidiano.it/news/italia/47575122/venezia_tre_persone_acqua_morto_20enne_tragedia_giallo_alba/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Delitto di Garlasco, l'avvocato di Sempio: 'Domani Andrea non risponderà ai pm'. Le cugine di Chiara Poggi saranno ascoltate oggi",
-      "source_count": 8,
+      "source_count": 7,
       "article_count": 12,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
         "ilgiornale.it",
+        "ansa.it",
         "fanpage.it",
         "ilmessaggero.it",
         "lastampa.it",
@@ -18,7 +42,7 @@
         "milano.repubblica.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/05/caso-garlasco-sempio-non-risponde-sentite-gemelle-cappa-news/8375365/",
+        "https://www.ilgiornale.it/news/politica/cappa-e-marco-poggi-dai-pm-interrogatorio-contemporanea-2659825.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/05/garlasco-oggi-le-cugine-di-chiara-poggi-saranno-sentite-come-testimoni_98ff0ccb-06d3-439a-bf58-d1f6a7ee0799.html",
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/garlasco-oggi-sorelle-cappa-procura-testimoniare-sempio-si-2659974.html",
         "https://www.fanpage.it/attualita/la-versione-delle-gemelle-cappa-sullomicidio-della-cugina-chiara-poggi-cosa-avevano-detto-nei-primi-interrogatori/",
@@ -26,149 +50,147 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "In tre si gettano in acqua a Venezia, ventenne muore annegato",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/05/venezia-finiscono-acqua-20enne-morto-annegato-news/8375301/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/05/in-tre-finiscono-in-acqua-a-venezia-un-ventenne-muore-annegato_1960b6d8-21d9-4cbe-810a-86a0ed2e8bd2.html",
-        "https://www.fanpage.it/attualita/venezia-tre-giovani-cadono-in-acqua-nei-canali-un-ventenne-muore-annegato/",
-        "https://www.ilgiornale.it/news/cronaca-locale/venezia-cade-acqua-amici-allalba-20enne-muore-annegato-2659942.html",
-        "https://www.adnkronos.com/cronaca/in-tre-si-gettano-in-acqua-a-venezia-ventenne-muore-annegato_3w7pExhvhikTp2LkyKqOkD"
-      ]
-    },
-    {
       "rank": 3,
       "title": "Hormuz, Trump forza il blocco: “Ora l’Iran tratti, se ci attacca lo rado al suolo”",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 12,
       "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "laverita.info",
         "ilgiornale.it",
+        "ansa.it",
+        "repubblica.it",
+        "laverita.info",
         "fanpage.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.repubblica.it/esteri/2026/05/05/diretta/guerra_in_iran_le_news_di_oggi_in_diretta-425323820/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/05/medio-oriente-liran-project-freedom-e-senza-sbocco.-una-nave-attraversa_5b0afa8b-5859-4e21-8ef6-0eeb44f09cae.html",
-        "https://www.laverita.info/blocco-hormuz-trump-2676849540.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/05/05/prime-pagine-scatta-project-freedom-e-scoppia-la-battaglia-a-hormuz_5a43a123-e3b5-4dff-83a8-c9229171e2da.html",
-        "https://www.ilgiornale.it/news/guerra/diretta-alta-tensione-ad-hormuz-scambio-colpi-usa-iran-2659915.html"
+        "https://www.ilgiornale.it/news/guerra/barchini-raid-ed-elicotteri-apache-cos-mini-guerra-cui-parla-2660037.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/05/medio-oriente-il-colosso-maersk-una-nostra-nave-ha-attraversato-hormuz-sotto_5b0afa8b-5859-4e21-8ef6-0eeb44f09cae.html",
+        "https://www.ilgiornale.it/news/politica/golfo-si-infiamma-tornano-missili-e-droni-su-pozzi-e-2659804.html",
+        "https://www.ilgiornale.it/news/politica/avviso-trump-su-hormuz-liberatelo-o-torna-guerra-2659807.html",
+        "https://www.repubblica.it/esteri/2026/05/05/diretta/guerra_in_iran_le_news_di_oggi_in_diretta-425323820/"
       ]
     },
     {
       "rank": 4,
-      "title": "Met Gala 2026, le pagelle del red carpet: da Beyoncé a Nicole Kidman",
-      "source_count": 4,
-      "article_count": 5,
+      "title": "Gli amici, i tifosi: il mondo oggi a Padova per salutare Alex Zanardi",
+      "source_count": 6,
+      "article_count": 10,
       "source_domains": [
         "ansa.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "d.repubblica.it"
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/canale_lifestyle/notizie/beauty_fitness/2026/05/05/parata-di-star-al-met-gala-da-lindsey-vonn-a-julianne-moore-a-rihanna_993f1c2d-a700-4870-84ea-ecdebaac3257.html",
-        "https://www.fanpage.it/stile-e-trend/moda/beyonce-al-met-gala-2026-con-labito-scheletro-sul-red-carpet-veste-coordinata-alla-figlia-blue-ivy/",
-        "https://www.ilmessaggero.it/schede/met_gala_2026_look_pagelle_katy_perry_heidi_klum_anne_hathaway_emily_blunt-9512547.html",
-        "https://d.repubblica.it/culture/celebrity/2026/05/05/news/coppie_met_gala_red_carpet_2026-425323849/",
-        "https://d.repubblica.it/fashion/look-delle-star/2026/05/04/news/met_gala_2026_red_carpet_nicole_kidman_beyonce-425323773/"
+        "https://www.ansa.it/sito/notizie/sport/2026/05/05/duemila-persone-in-chiesa-per-il-funerale-di-zanardi-la-handbike-sullaltare_a12655e4-6892-4680-857c-3ded297deaa8.html",
+        "https://www.ilgiornale.it/news/nazionale/lultimo-saluto-zanardi-l-amico-che-tutti-avrebbero-voluto-2659995.html",
+        "https://www.ilfattoquotidiano.it/2026/05/05/funerali-alex-zanardi-padova-applausi-ingresso-feretro-basilica-applausi-video/8375588/",
+        "https://www.repubblica.it/sport/2026/05/05/diretta/alex_zanardi_funerali_padova_oggi_news_diretta-425324397/",
+        "https://www.ilfattoquotidiano.it/2026/05/05/funerali-zanardi-padova-handbike-altare-presenti/8375547/"
       ]
     },
     {
       "rank": 5,
-      "title": "Met Gala nelle mani di Bezos, polemica a New York. Zendaya e Meryl Streep disertano",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Epidemia di hantavirus su nave da crociera a Capo Verde: 3 morti e 4 malati, possibile sbarco alle Canarie",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
-        "lastampa.it",
+        "fanpage.it",
+        "adnkronos.com",
         "ilgiornale.it",
+        "ilfattoquotidiano.it",
         "repubblica.it",
-        "news.google.com"
+        "liberoquotidiano.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.lastampa.it/spettacoli/2026/05/05/news/met_gala_stelle_e_polemiche-15609667/",
-        "https://www.ilgiornale.it/news/personaggi/met-gala-2026-bufera-su-bezos-star-fuga-e-polemiche-vigilia-2659704.html",
-        "https://www.repubblica.it/esteri/2026/05/04/news/met_gala_jeff_lauren_bezos_polemica_new_york_boicottaggi_mamdani_diserta-425322400/",
-        "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54bGRzUmE1ck1tZUFQV3NqWFR4eEZ0blFodjlaTlpKSXdIUFNlaEdmdWxIb0hXOHhjNG1FRlNfb1lmaXBxb1lTQkdyR2R1b1Ewdl9wMnIwa3JSUnp0QjVkd0xKTQ?oc=5"
+        "https://www.fanpage.it/esteri/epidemia-di-hantavirus-su-nave-da-crociera-a-capo-verde-3-morti-e-4-malati-possibile-sbarco-alle-canarie/",
+        "https://www.adnkronos.com/internazionale/esteri/hantavirus-su-nave-da-crociera-ultimo-bilancio_1K7f09Zq1zQdedIYLO8cVp",
+        "https://www.ilgiornale.it/news/politica/epidemia-choc-crociera-tre-morti-hantavirus-2659823.html",
+        "https://www.ilfattoquotidiano.it/2026/05/05/5-casi-sospetti-e-due-confermati-di-hantavirus-i-passeggeri-sono-isolati-nelle-cabine-la-nave-da-crociera-mv-hondius-ferma-al-largo-di-capo-verde-oms-valuta-levacuazione/8375493/",
+        "https://www.repubblica.it/esteri/2026/05/05/news/hantavirus_nave_da_crociera_mv_hondius_volo_sant_elena_johannesburg_casi_contagi-425324423/"
       ]
     },
     {
       "rank": 6,
-      "title": "Se il gelo con gli Usa continua",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Trump attacca ancora il Papa: “Leone mette in pericolo molti cattolici”",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
-        "ilmanifesto.it",
-        "lastampa.it",
+        "ansa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "ilgiornale.it"
+        "lastampa.it"
       ],
       "links": [
-        "https://ilmanifesto.it/meloni-vedra-rubio-prova-di-disgelo-evitando-di-scottarsi",
-        "https://www.lastampa.it/rubriche/il-taccuino/2026/05/05/news/se_il_gelo_con_gli_usa_continua-15609419/",
-        "https://www.ilmessaggero.it/politica/meloni_trump_truppe_usa_ultime_notizie-9511294.html",
-        "https://www.ilgiornale.it/news/politica-internazionale/migranti-meloni-flussi-incontrollati-incidono-su-qualit-2659546.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/05/trump-attacca-ancora-il-papa-sta-mettendo-in-pericolo-molti-cattolici_dbb53fba-93a2-4464-959f-d88ca29032e9.html",
+        "https://www.repubblica.it/cronaca/2026/05/05/news/trump_attacca_ancora_papa_leone_mette_in_pericolo_molti_cattolici-425324653/",
+        "https://www.adnkronos.com/internazionale/esteri/trump-papa-scontro-attacco-cosa-ha-detto_EGsWZLLTbyyrIR7r1NqWh",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/nuovo-affondo-trump-contro-papa-sta-mettendo-pericolo-molti-2660006.html",
+        "https://www.ilfattoquotidiano.it/2026/05/05/trump-papa-leone-xiv-cattolici-notizie/8375540/"
       ]
     },
     {
       "rank": 7,
-      "title": "Flotilla, la procura di Roma indaga per sequestro di persona. Gli attivisti restano in cella in Israele, in Aula con le catene",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Garlasco, Sempio sceglie di non rispondere ai pm e chiede una consulenza personologica: interrogatorio per le gemelle Cappa",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "agi.it",
-        "news.google.com"
+        "fanpage.it",
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "milano.repubblica.it",
+        "agi.it"
       ],
       "links": [
-        "https://ilmanifesto.it/la-procura-di-roma-apre-un-fascicolo-i-pm-ipotizzano-il-sequestro-di-persona",
-        "https://www.ilmessaggero.it/mondo/flotilla_israele_ultime_notizie-9510735.html",
-        "https://www.agi.it/cronaca/news/2026-05-04/flotilla-procura-roma-inchiesta-sequestro-persona-36879743/",
-        "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMGpBcVRpZzlkaW1DaTNuRGU5SFhubmI4cnZfemxBbmcyZEVvTjlZVmhhcGJiZDhZZXBsUkRTWU9iMmJtcDJEMVRMb3p6WmlCNmJrR1ZkM1owR2JfTWdKVC1FQy1qdFFBOHVVUUhtR3I2Q3dydzhMX254YzJjOFpEeGozUjRlUEtySGphdC1VY25TY09tdzJSZFR1NmtXejg?oc=5"
+        "https://www.fanpage.it/attualita/garlasco-lavvocata-taccia-sempio-voleva-parlare-ma-aspettiamo-il-suo-messaggio-sullo-stupro-va-contestualizzato/",
+        "https://www.unita.it/2026/05/05/delitto-garlasco-sempio-non-risponde-pm-interrogatorio-gemelle-cappa/",
+        "https://www.ilfattoquotidiano.it/2026/05/05/caso-garlasco-sempio-non-risponde-sentite-gemelle-cappa-news/8375365/",
+        "https://www.ansa.it/sito/notizie/flash/2026/05/05/-lavvocato-di-sempio-domani-andrea-non-rispondera-ai-pm-_da109a2e-f119-4fd0-916c-91a8424c77ef.html",
+        "https://www.fanpage.it/attualita/garlasco-sempio-non-rispondera-durante-linterrogatorio-a-pavia-la-scelta-motivata-dai-suoi-avvocati/"
       ]
     },
     {
       "rank": 8,
-      "title": "Giorgetti: 'Estendere le deroghe del Patto sulla difesa anche al caro-energia'",
-      "source_count": 3,
-      "article_count": 3,
+      "title": "L'Fmi: il caro-energia peserà 450 euro sulle famiglie italiane, 2.270 con uno scenario grave",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "lastampa.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.lastampa.it/economia/2026/05/05/news/serve_un_piano_europeo_anti-inflazione_la_risposta_dei_singoli_stati_non_basta-15609386/",
-        "https://www.ansa.it/sito/notizie/economia/2026/05/04/giorgetti-estendere-le-deroghe-del-patto-sulla-difesa-anche-al-caro-energia_9a24ae71-f5b9-4b4f-96ac-d15313dd9cb6.html",
-        "https://www.ilsole24ore.com/art/giorgetti-estendere-clausola-ue-spese-difesa-misure-contro-caro-energia-AICZdhrC"
+        "https://www.ilfattoquotidiano.it/2026/05/05/caro-energia-fmi-famiglie-italiane-notizie/8375496/",
+        "https://www.ansa.it/sito/notizie/economia/2026/05/05/fmi-caro-energia-pesera-450-euro-su-famiglie-italiane-2.270-con_e5083ad4-5271-4973-990a-b5daf4237265.html",
+        "https://www.ilmessaggero.it/economia/news/caro_energia_benzina_quanto_cosa_a_famiglie_italiane_fmi-9512700.html",
+        "https://www.lastampa.it/economia/2026/05/05/news/iran_guerra_fmi_ricadute_italiani-15609746/",
+        "https://www.ilsole24ore.com/art/fmi-caro-energia-pesera-450-2270-euro-famiglie-italiane-AIQCfOsC"
       ]
     },
     {
       "rank": 9,
       "title": "Bad Bunny irriconoscibile al Met Gala: \"Ci sono voluti 53 anni per prepararmi\"",
-      "source_count": 3,
-      "article_count": 3,
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "repubblica.it",
         "fanpage.it",
         "adnkronos.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/05/met-gala-2026-bad-bunny-invecchiato-e-irriconoscibile-sul-red-carpet-il-vero-significato-del-suo-look-firmato-zara/8375337/",
+        "https://www.liberoquotidiano.it/news/libero-video/47577089/met-gala-bad-bunny-presenta-versione-anziana/",
         "https://www.repubblica.it/spettacoli/musica/2026/05/05/news/bad_bunny_met_gala_2026-425324322/",
         "https://www.fanpage.it/stile-e-trend/moda/la-trasformazione-di-bad-bunny-al-met-gala-invecchiato-di-50-anni-con-rughe-e-capelli-bianchi/",
         "https://www.adnkronos.com/spettacoli/met-gala-bad-bunny-irriconoscibile_6WG55cOxVxjg4Ej9cYkgSV"
@@ -176,18 +198,21 @@
     },
     {
       "rank": 10,
-      "title": "Garlasco, gli avvocati di Sempio: “Andrea non risponderà ai pm”",
-      "source_count": 3,
-      "article_count": 3,
+      "title": "Met Gala 2026, le pagelle del red carpet: da Beyoncé a Nicole Kidman",
+      "source_count": 4,
+      "article_count": 6,
       "source_domains": [
-        "ansa.it",
-        "fanpage.it",
-        "milano.repubblica.it"
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "d.repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/flash/2026/05/05/-lavvocato-di-sempio-domani-andrea-non-rispondera-ai-pm-_da109a2e-f119-4fd0-916c-91a8424c77ef.html",
-        "https://www.fanpage.it/attualita/garlasco-sempio-non-rispondera-durante-linterrogatorio-a-pavia-la-scelta-motivata-dai-suoi-avvocati/",
-        "https://milano.repubblica.it/cronaca/2026/05/05/news/garlasco_avvocati_sempio_interrogatorio-425324315/"
+        "https://www.ilfattoquotidiano.it/2026/05/05/met-gala-2026-da-heidi-klum-in-versione-statua-vivente-a-sabrina-carpenter-avvolta-nella-pellicola-dei-film-tutti-i-look-anche-i-piu-assurdi-sul-red-carpet/8375355/",
+        "https://www.lastampa.it/spettacoli/2026/05/05/news/look_star_meta_gala_2026_promossi-15609864/",
+        "https://www.lastampa.it/spettacoli/2026/05/05/news/met_gala_2026_look_bocciati_star-15609841/",
+        "https://www.ilmessaggero.it/schede/met_gala_2026_look_pagelle_katy_perry_heidi_klum_anne_hathaway_emily_blunt-9512547.html",
+        "https://d.repubblica.it/culture/celebrity/2026/05/05/news/coppie_met_gala_red_carpet_2026-425323849/"
       ]
     }
   ]
