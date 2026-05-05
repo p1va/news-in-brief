@@ -1,6 +1,6 @@
 {
   "date": "2026-05-05",
-  "generated_at": "Tue 05 May 10:53",
+  "generated_at": "Tue 05 May 12:10",
   "stories": [
     {
       "rank": 1,
@@ -31,47 +31,70 @@
       "rank": 2,
       "title": "Delitto di Garlasco, l'avvocato di Sempio: 'Domani Andrea non risponderà ai pm'. Le cugine di Chiara Poggi saranno ascoltate oggi",
       "source_count": 7,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
+        "milano.repubblica.it",
         "ilgiornale.it",
         "ansa.it",
         "fanpage.it",
         "ilmessaggero.it",
         "lastampa.it",
-        "laverita.info",
-        "milano.repubblica.it"
+        "laverita.info"
       ],
       "links": [
+        "https://milano.repubblica.it/cronaca/2026/05/05/news/gemelle_cappa_sospetti_segreti_garlasco-425324835/",
         "https://www.ilgiornale.it/news/politica/cappa-e-marco-poggi-dai-pm-interrogatorio-contemporanea-2659825.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/05/garlasco-oggi-le-cugine-di-chiara-poggi-saranno-sentite-come-testimoni_98ff0ccb-06d3-439a-bf58-d1f6a7ee0799.html",
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/garlasco-oggi-sorelle-cappa-procura-testimoniare-sempio-si-2659974.html",
-        "https://www.fanpage.it/attualita/la-versione-delle-gemelle-cappa-sullomicidio-della-cugina-chiara-poggi-cosa-avevano-detto-nei-primi-interrogatori/",
-        "https://www.ilmessaggero.it/persone/garlasco_marco_poggi_convocato_perche_dove_vive_oggi_eta_che_fine_ha_fatto-9512653.html"
+        "https://www.fanpage.it/attualita/la-versione-delle-gemelle-cappa-sullomicidio-della-cugina-chiara-poggi-cosa-avevano-detto-nei-primi-interrogatori/"
       ]
     },
     {
       "rank": 3,
-      "title": "Hormuz, Trump forza il blocco: “Ora l’Iran tratti, se ci attacca lo rado al suolo”",
+      "title": "Medio Oriente: 'Due navi militari Usa hanno attraversato Hormuz, schivati i raid iraniani'",
       "source_count": 6,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
-        "ilgiornale.it",
         "ansa.it",
+        "ilgiornale.it",
         "repubblica.it",
-        "laverita.info",
         "fanpage.it",
+        "ilmanifesto.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/05/medio-oriente-due-navi-militari-usa-hanno-attraversato-hormuz-schivati_5b0afa8b-5859-4e21-8ef6-0eeb44f09cae.html",
         "https://www.ilgiornale.it/news/guerra/barchini-raid-ed-elicotteri-apache-cos-mini-guerra-cui-parla-2660037.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/05/medio-oriente-il-colosso-maersk-una-nostra-nave-ha-attraversato-hormuz-sotto_5b0afa8b-5859-4e21-8ef6-0eeb44f09cae.html",
-        "https://www.ilgiornale.it/news/politica/golfo-si-infiamma-tornano-missili-e-droni-su-pozzi-e-2659804.html",
         "https://www.ilgiornale.it/news/politica/avviso-trump-su-hormuz-liberatelo-o-torna-guerra-2659807.html",
         "https://www.repubblica.it/esteri/2026/05/05/diretta/guerra_in_iran_le_news_di_oggi_in_diretta-425323820/"
       ]
     },
     {
       "rank": 4,
+      "title": "Epidemia di hantavirus su nave da crociera a Capo Verde: 3 morti e 4 malati, possibile sbarco alle Canarie",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/05/05/loms-possibile-trasmissione-dellhantavirus-da-uomo-a-uomo-sulla-nave-da-crociera_245ae98f-5cfe-44db-ad5c-744e4bfdc8e6.html",
+        "https://www.adnkronos.com/internazionale/esteri/hantavirus-nave-crociera-oggi-origine-focolaio_5WSkCfyUPW39Xgxdqeo9hR",
+        "https://www.fanpage.it/esteri/epidemia-di-hantavirus-su-nave-da-crociera-a-capo-verde-3-morti-e-4-malati-possibile-sbarco-alle-canarie/",
+        "https://www.adnkronos.com/internazionale/esteri/hantavirus-su-nave-da-crociera-ultimo-bilancio_1K7f09Zq1zQdedIYLO8cVp",
+        "https://www.ilgiornale.it/news/politica/epidemia-choc-crociera-tre-morti-hantavirus-2659823.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Gli amici, i tifosi: il mondo oggi a Padova per salutare Alex Zanardi",
       "source_count": 6,
       "article_count": 10,
@@ -92,33 +115,12 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Epidemia di hantavirus su nave da crociera a Capo Verde: 3 morti e 4 malati, possibile sbarco alle Canarie",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "fanpage.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/esteri/epidemia-di-hantavirus-su-nave-da-crociera-a-capo-verde-3-morti-e-4-malati-possibile-sbarco-alle-canarie/",
-        "https://www.adnkronos.com/internazionale/esteri/hantavirus-su-nave-da-crociera-ultimo-bilancio_1K7f09Zq1zQdedIYLO8cVp",
-        "https://www.ilgiornale.it/news/politica/epidemia-choc-crociera-tre-morti-hantavirus-2659823.html",
-        "https://www.ilfattoquotidiano.it/2026/05/05/5-casi-sospetti-e-due-confermati-di-hantavirus-i-passeggeri-sono-isolati-nelle-cabine-la-nave-da-crociera-mv-hondius-ferma-al-largo-di-capo-verde-oms-valuta-levacuazione/8375493/",
-        "https://www.repubblica.it/esteri/2026/05/05/news/hantavirus_nave_da_crociera_mv_hondius_volo_sant_elena_johannesburg_casi_contagi-425324423/"
-      ]
-    },
-    {
       "rank": 6,
       "title": "Trump attacca ancora il Papa: “Leone mette in pericolo molti cattolici”",
-      "source_count": 7,
-      "article_count": 7,
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
+        "unita.it",
         "ansa.it",
         "repubblica.it",
         "adnkronos.com",
@@ -128,11 +130,11 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.unita.it/2026/05/05/trump-contro-papa-leone-incontro-rubio-vaticano/",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/05/trump-attacca-ancora-il-papa-sta-mettendo-in-pericolo-molti-cattolici_dbb53fba-93a2-4464-959f-d88ca29032e9.html",
         "https://www.repubblica.it/cronaca/2026/05/05/news/trump_attacca_ancora_papa_leone_mette_in_pericolo_molti_cattolici-425324653/",
         "https://www.adnkronos.com/internazionale/esteri/trump-papa-scontro-attacco-cosa-ha-detto_EGsWZLLTbyyrIR7r1NqWh",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/nuovo-affondo-trump-contro-papa-sta-mettendo-pericolo-molti-2660006.html",
-        "https://www.ilfattoquotidiano.it/2026/05/05/trump-papa-leone-xiv-cattolici-notizie/8375540/"
+        "https://www.ilgiornale.it/news/cronaca-internazionale/nuovo-affondo-trump-contro-papa-sta-mettendo-pericolo-molti-2660006.html"
       ]
     },
     {
@@ -159,10 +161,11 @@
     {
       "rank": 8,
       "title": "L'Fmi: il caro-energia peserà 450 euro sulle famiglie italiane, 2.270 con uno scenario grave",
-      "source_count": 5,
-      "article_count": 5,
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
         "ilfattoquotidiano.it",
+        "repubblica.it",
         "ansa.it",
         "ilmessaggero.it",
         "lastampa.it",
@@ -170,10 +173,10 @@
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/05/05/caro-energia-fmi-famiglie-italiane-notizie/8375496/",
+        "https://www.repubblica.it/economia/2026/05/05/news/fmi_conto_guerra_italia_famiglie_patto_stabilita_spread_tassi-425324485/",
         "https://www.ansa.it/sito/notizie/economia/2026/05/05/fmi-caro-energia-pesera-450-euro-su-famiglie-italiane-2.270-con_e5083ad4-5271-4973-990a-b5daf4237265.html",
         "https://www.ilmessaggero.it/economia/news/caro_energia_benzina_quanto_cosa_a_famiglie_italiane_fmi-9512700.html",
-        "https://www.lastampa.it/economia/2026/05/05/news/iran_guerra_fmi_ricadute_italiani-15609746/",
-        "https://www.ilsole24ore.com/art/fmi-caro-energia-pesera-450-2270-euro-famiglie-italiane-AIQCfOsC"
+        "https://www.lastampa.it/economia/2026/05/05/news/iran_guerra_fmi_ricadute_italiani-15609746/"
       ]
     },
     {
