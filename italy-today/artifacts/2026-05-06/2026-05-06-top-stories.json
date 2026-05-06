@@ -1,20 +1,20 @@
 {
   "date": "2026-05-06",
-  "generated_at": "Wed 06 May 16:50",
+  "generated_at": "Wed 06 May 18:24",
   "stories": [
     {
       "rank": 1,
-      "title": "Evaristo Beccalossi morto, storica bandiera dell'Inter: avrebbe compiuto 70 anni tra pochi giorni",
+      "title": "Evaristo Beccalossi è morto, addio ad una delle leggende dell’Inter",
       "source_count": 10,
-      "article_count": 15,
+      "article_count": 13,
       "source_domains": [
         "repubblica.it",
         "adnkronos.com",
         "laverita.info",
         "ansa.it",
         "unita.it",
-        "liberoquotidiano.it",
         "ilgiornale.it",
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it",
         "news.google.com"
@@ -24,64 +24,44 @@
         "https://www.repubblica.it/sport/calcio/serie-a/inter/2026/05/06/news/fulvio_collovati_beccalossi_ricordo_intervista-425327774/",
         "https://www.adnkronos.com/sport/evaristo-beccalossi-morte-ricordo-tifosi_64Q8FvCc4coNzb9bUTcA8k",
         "https://www.laverita.info/morto-beccalossi-piu-amati-inter-2676857759.html",
-        "https://milano.repubblica.it/cronaca/2026/05/06/news/morto_beccalossi_enrico_ruggeri_intervista-425327287/"
+        "https://www.ansa.it/sito/notizie/sport/2026/05/06/e-morto-evaristo-beccalossi-storica-bandiera-dellinter_ef758a7b-340e-41cd-8eda-931b50a38a5b.html"
       ]
     },
     {
       "rank": 2,
-      "title": "Garlasco, Andrea Sempio arrivato in procura a Pavia, non parlerà ai pm",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "unita.it",
-        "ilfattoquotidiano.it",
-        "milano.repubblica.it",
-        "ilgiornale.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/live/delitto-garlasco-interrogatorio-diretta-andrea-sempio-6-maggio-2026/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/06/garlasco-andrea-sempio-intercettato-ha-tentato-un-approccio-e-chiara-poggi-ha-rifiutato_c4e16038-a51f-4dfd-9189-78b112324582.html",
-        "https://www.unita.it/2026/05/06/sempio-intercettazione-chiara-poggi-video-interrogatorio-delitto-garlasco/",
-        "https://www.ilfattoquotidiano.it/2026/05/06/garlasco-sempio-lascia-procura-pavia-auto-video/8377256/",
-        "https://milano.repubblica.it/cronaca/2026/05/06/news/andrea_sempio_in_procura_quattro_ore_non_ha_risposto_pm-425327484/"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Hantavirus, tre evacuati dalla MV Hondius, sabato la nave a Tenerife",
-      "source_count": 7,
-      "article_count": 11,
+      "source_count": 8,
+      "article_count": 13,
       "source_domains": [
         "ansa.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "adnkronos.com",
         "liberoquotidiano.it",
         "fanpage.it",
-        "ilfattoquotidiano.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/06/la-hondius-entro-sabato-a-tenerife-il-ministero-della-salute-italiano-allerta-gli_7f2ce15b-cad1-4b05-adf9-d7d369dab17f.html",
+        "https://www.ilmessaggero.it/salute/focus/virus_nave_crociera_allerta_ministero_cosa_succede-9515545.html",
+        "https://www.ilfattoquotidiano.it/2026/05/06/hantavirus-contagio-turisti-discarica-argentina-ipotesi-inizio-focolaio-news/8377633/",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/06/la-hondius-sabato-a-tenerife.-ipotesi-di-contagio-dopo-unescursione-di-birdwatching-a-ushuaia_7f2ce15b-cad1-4b05-adf9-d7d369dab17f.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/primo-contagiato-svizzera-crociera-dell-orrore-cresce-l-2660742.html",
-        "https://www.adnkronos.com/cronaca/hantavirus-matteo-bassetti-nave-da-crociera_5U5OHbMpNrxO9A5aYIqXTS",
-        "https://www.adnkronos.com/internazionale/esteri/hantavirus-italia-nave-da-crociera_7Iw58UVIFLcI1NuvW5wP1a",
-        "https://www.liberoquotidiano.it/news/tv-news/47596383/hantavirus-tre-evacuati-dalla-mv-hondius-sabato-la-nave-a-tenerife/"
+        "https://www.ilgiornale.it/news/cronaca-internazionale/primo-contagiato-svizzera-crociera-dell-orrore-cresce-l-2660742.html"
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "È morto a 87 anni Ted Turner: fondò la Cnn, la prima rete all-news",
-      "source_count": 8,
-      "article_count": 10,
+      "source_count": 9,
+      "article_count": 11,
       "source_domains": [
         "ansa.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
         "unita.it",
         "adnkronos.com",
+        "fanpage.it",
         "ilgiornale.it",
         "ilmessaggero.it",
         "lastampa.it"
@@ -95,7 +75,51 @@
       ]
     },
     {
+      "rank": 4,
+      "title": "Garlasco, Andrea Sempio arrivato in procura a Pavia, non parlerà ai pm",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "milano.repubblica.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/06/garlasco-andrea-sempio-intercettato-ha-tentato-un-approccio-e-chiara-poggi-ha-rifiutato_c4e16038-a51f-4dfd-9189-78b112324582.html",
+        "https://www.unita.it/2026/05/06/sempio-intercettazione-chiara-poggi-video-interrogatorio-delitto-garlasco/",
+        "https://www.ilfattoquotidiano.it/2026/05/06/garlasco-sempio-lascia-procura-pavia-auto-video/8377256/",
+        "https://milano.repubblica.it/cronaca/2026/05/06/news/andrea_sempio_in_procura_quattro_ore_non_ha_risposto_pm-425327484/",
+        "https://www.liberoquotidiano.it/news/libero-video/47592616/delitto-garlasco-arrivo-sempio-procura-pavia/"
+      ]
+    },
+    {
       "rank": 5,
+      "title": "Pamela Genini e la tomba profanata, l’ex Francesco Dolci in caserma a Bergamo con l’avvocata",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "milano.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-nera/tomba-pamela-genini-profanata-indagato-l-ex-si-cerca-testa-2660758.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/06/lex-fidanzato-di-pamela-genini-indagato-per-vilipendio-di-cadavere-e-furto_b5b42d51-3322-46df-b4ba-e1ad4d2270b7.html",
+        "https://www.ilmessaggero.it/persone/pamela_genini_ex_fidanzato_indagato_vilipendio-9515446.html",
+        "https://www.fanpage.it/milano/francesco-dolci-e-indagato-per-la-profanazione-della-tomba-dellex-fidanzata-pamela-genini/",
+        "https://www.ilfattoquotidiano.it/2026/05/06/pamela-genini-tomba-profanata-francesco-dolci-indagato-caserma-pm/8377467/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Kate torna in Italia: a Reggio Emilia in nome dell’infanzia",
       "source_count": 7,
       "article_count": 9,
@@ -117,7 +141,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Arrestato l’arciere paralimpico Matteo Bonacina: accusato di abusi e stalking su atlete della Nazionale",
       "source_count": 8,
       "article_count": 8,
@@ -140,29 +164,29 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Pamela Genini e la tomba profanata, l’ex Francesco Dolci in caserma a Bergamo con l’avvocata",
+      "rank": 8,
+      "title": "Nordio farà causa a Mediaset e a Bianca Berlinguer per il caso Ranucci – Minetti",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
-        "ilgiornale.it",
+        "fanpage.it",
         "ansa.it",
-        "ilmessaggero.it",
+        "repubblica.it",
         "ilfattoquotidiano.it",
-        "milano.repubblica.it",
+        "ilgiornale.it",
         "lastampa.it",
-        "fanpage.it"
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/cronaca-nera/tomba-pamela-genini-profanata-indagato-l-ex-si-cerca-testa-2660758.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/06/lex-fidanzato-di-pamela-genini-indagato-per-vilipendio-di-cadavere-e-furto_b5b42d51-3322-46df-b4ba-e1ad4d2270b7.html",
-        "https://www.ilmessaggero.it/persone/pamela_genini_ex_fidanzato_indagato_vilipendio-9515446.html",
-        "https://www.ilfattoquotidiano.it/2026/05/06/pamela-genini-tomba-profanata-francesco-dolci-indagato-caserma-pm/8377467/",
-        "https://milano.repubblica.it/cronaca/2026/05/06/news/pamela_genini_tomba_profanata_ex_francesco_dolci_in_caserma-425327214/"
+        "https://www.fanpage.it/spettacolo/programmi-tv/nordio-annuncia-causa-civile-contro-bianca-berlinguer-e-mediaset-per-il-caso-minetti-e-le-parole-di-ranucci/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/06/nordio-fara-causa-a-mediaset-e-a-berlinguer-sul-caso-minetti-in-tv_b3daeef8-ed6d-4a0d-9524-b09bdc1b40a2.html",
+        "https://www.repubblica.it/politica/2026/05/06/news/nordio_causa_mediaset_berlinguer_caso_minetti_ranucci_tv-425328039/",
+        "https://www.ilfattoquotidiano.it/2026/05/06/caso-minetti-nordio-causa-mediaset-berlinguer-notizie/8377660/",
+        "https://www.ilgiornale.it/news/interni/caso-minetti-nordio-fa-causa-civile-bianca-berlinguer-2660784.html"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Roberto Savi: “Dietro ai delitti della Uno Bianca c’erano i servizi segreti”",
       "source_count": 5,
       "article_count": 8,
@@ -182,43 +206,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "PRIME PAGINE | Trump torna all'attacco del Papa, gelo sul viaggio di Rubio",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/trump-attacco-bis-papa-mette-rischio-i-cattolici-2660285.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/05/06/prime-pagine-trump-torna-allattacco-del-papa-gelo-sul-viaggio_1b9c38d7-c967-4b87-992e-483a164dfffd.html",
-        "https://www.lastampa.it/rubriche/l-oblo/2026/05/06/audio/i_possibili_perche_del_nuovo_attacco_di_trump_al_papa-15610831/",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/05/06/news/la_guerra_santa_del_tycoon-15610759/",
-        "https://www.lastampa.it/esteri/2026/05/06/news/trump_papa_scontro_strategia_cardinali-15610586/"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "L'ambasciatore russo alla Biennale: 'L'Italia bersaglio di brutali diktat della Ue'",
+      "title": "Garlasco, le intercettazioni di Sempio. Il Tg1: «Tentò un approccio e Chiara Poggi rifiutò». Aveva visto il video di lei e Stasi",
       "source_count": 5,
-      "article_count": 6,
+      "article_count": 8,
       "source_domains": [
-        "ansa.it",
         "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "laverita.info",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/05/06/buttafuoco-apre-la-biennale-qui-lunico-veto-e-lesclusione-preventive-grazie-al-ministro_d6dd82d2-fa95-4002-8669-9aa68b2b7dac.html",
-        "https://www.ilgiornale.it/news/interni/biennale-venezia-lambasciatore-russo-italia-bersaglio-2660561.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/05/06/lambasciatore-russo-alla-biennale-litalia-bersaglio-di-brutali-diktat-della-ue_d6dd82d2-fa95-4002-8669-9aa68b2b7dac.html",
-        "https://www.repubblica.it/politica/2026/05/06/news/pussy_riot_sokurov_protesta_biennale_venezia_padiglione_russia-425327114/",
-        "https://www.lastampa.it/politica/2026/05/06/news/l_ambasciatore_russo_paramonov_alla_biennale_l_italia_bersaglio_di_brutali_diktat_dell_ue-15611148/"
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/garlasco-sempio-solo-auto-lintercettazione-14-aprile-2025-2660781.html",
+        "https://www.laverita.info/tivu-verita-garlasco-audio-choc-di-sempio-marco-poggi-lo-difende-2676859473.html",
+        "https://www.fanpage.it/attualita/garlasco-pm-svelano-il-movente-di-sempio-intercettato-nel-2025-parla-dei-video-e-del-rifiuto-di-chiara-poggi/",
+        "https://www.fanpage.it/live/delitto-garlasco-interrogatorio-diretta-andrea-sempio-6-maggio-2026/",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/colpo-scena-garlasco-intercettazioni-che-potrebbero-cambiare-2660712.html"
       ]
     }
   ]
