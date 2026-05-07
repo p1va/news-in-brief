@@ -1,50 +1,180 @@
 {
   "date": "2026-05-07",
-  "generated_at": "Thu 07 May 08:45",
+  "generated_at": "Thu 07 May 11:15",
   "stories": [
     {
       "rank": 1,
+      "title": "Marco Rubio è arrivato a Roma: tra poco l’incontro con il Papa",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "laverita.info",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/07/il-segretario-di-stato-usa-marco-rubio-e-in-vaticano-da-papa-leone-xiv/8378256/",
+        "https://www.adnkronos.com/internazionale/esteri/rubio-roma-vaticano-papa-incontro-oggi_5tGYsG72EgIAEglt1YqiW0",
+        "https://www.laverita.info/marco-rubio-geopolitica-2676860764.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/07/il-segretario-di-stato-americano-marco-rubio-e-arrivato-a-roma_f0bfb745-7db5-4c30-acc6-caf87b242933.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47613955/l-arrivo-in-vaticano-del-segretario-di-stato-usa-marco-rubio/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Allarme hantavirus, primo contagiato in Svizzera dopo la crociera dell’orrore",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/07/hantavirus-nave-da-crociera-ultime-notizie-oggi-7-maggio/8378200/",
+        "https://www.fanpage.it/innovazione/scienze/hantavirus-sulla-nave-da-crociera-loms-conferma-il-ceppo-andes-si-trasmette-da-persona-a-persona/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/07/arrivati-in-olanda-i-due-pazienti-con-hantavirus-evacuati-dalla-nave-fermati_aa04a90a-11dc-4d0f-bc32-aa66d329f9be.html",
+        "https://www.ilmessaggero.it/salute/schede/hantavirus_mappa_contagi_dove_e_malattia-9517260.html",
+        "https://www.fanpage.it/esteri/epidemia-di-hantavirus-dopo-il-primo-decesso-il-capitano-della-nave-mv-hondius-disse-non-e-infettivo/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Garlasco, Andrea Sempio intercettato: 'Ho visto il video di Chiara Poggi e Alberto Stasi, lei mi ha rifiutato'",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 10,
       "source_domains": [
+        "ilgiornale.it",
         "fanpage.it",
         "laverita.info",
-        "ilgiornale.it",
         "ansa.it",
         "unita.it",
         "milano.repubblica.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/colpo-scena-garlasco-2660950.html",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/difesa-sempio-lavoro-smontare-laccusa-sulle-intercettazioni-2661030.html",
         "https://www.fanpage.it/live/delitto-garlasco-nuovi-indizi-contro-andrea-sempio-dopo-linterrogatorio-diretta-7-maggio/",
         "https://www.laverita.info/sempio-intercettato-chiara-mi-respinse-2676862174.html",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/colpo-scena-garlasco-intercettazioni-che-potrebbero-cambiare-2660712.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/06/garlasco-andrea-sempio-intercettato-ho-visto-il-video-di-chiara-poggi-e-alberto-stasi_c4e16038-a51f-4dfd-9189-78b112324582.html",
-        "https://www.laverita.info/tivu-verita-garlasco-audio-choc-di-sempio-marco-poggi-lo-difende-2676859473.html"
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/colpo-scena-garlasco-intercettazioni-che-potrebbero-cambiare-2660712.html"
       ]
     },
     {
-      "rank": 2,
-      "title": "Trump, nuovo piano di pace: “Accordo entro una settimana”. Teheran frena: “No alla resa”",
+      "rank": 4,
+      "title": "David, da Sossai a Quattrocchi ecco perché gli outsider hanno sbancato",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "unita.it",
+        "repubblica.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.unita.it/2026/05/07/perche-citta-pianura-david-donatello-matilda-angelis-lino-musella-autocrati-fascisti/",
+        "https://www.repubblica.it/spettacoli/cinema/2026/05/07/news/sossai_sorrentino_david_2026-425329471/",
+        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/07/david-di-donatello-miglior-film-le-citta-di-pianura_cbcb4850-23bc-4548-bce8-3b5db5fb9ebc.html",
+        "https://www.ilfattoquotidiano.it/2026/05/07/david-di-donatello-2026-le-citta-di-pianura-di-francesco-sossai-trionfa-con-8-statuette-sorrentino-a-mani-vuote-insinna-mattatore-della-serata-la-cronaca-della-cerimonia/8377999/",
+        "https://www.ilgiornale.it/news/tv/david-donatello-2026-trionfo-citt-pianura-tutti-i-vincitori-2660967.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Iran, nuova proposta Usa. Trump: «Firma dell’intesa la prossima settimana»",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "laverita.info",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/guerra/trump-intesa-passo-l-iran-punti-inaccettabili-2660957.html",
+        "https://www.ilgiornale.it/news/guerra/prove-exit-strategy-washington-teheran-donald-vuole-firma-2660959.html",
+        "https://www.laverita.info/trump-accordi-di-pace-iran-2676860862.html",
+        "https://www.ilgiornale.it/news/guerra/iran-oggi-attesa-risposta-teheran-proposta-degli-usa-trump-2660979.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47612169/iran-trump-vogliono-un-accordo-ottimi-colloqui-nelle-ultime-24-ore/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Mamma e figlia morte con ricina a Campobasso, il movente in attriti familiari: nuovo interrogatorio per la cugina",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/giallo-pietracatella-nuovo-interrogatorio_5YbBoJU5qBuXmb0ddxvZxi",
+        "https://www.ilfattoquotidiano.it/2026/05/07/avvelenamento-ricina-pietracatella-movente-notizie/8378051/",
+        "https://www.fanpage.it/attualita/mamma-e-figlia-morte-con-ricina-a-campobasso-il-movente-in-attriti-familiari-nuovo-interrogatorio-per-la-cugina/",
+        "https://www.ilmessaggero.it/italia/avvelenate_ricina_movente_colpevole_inchiesta_oggi-9517145.html",
+        "https://www.lastampa.it/cronaca/2026/05/07/news/delitto_ricina_avvelenamento_dissidi_antonella_parente-15612215/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Tomba di Pamela Genini profanata, indagato l’ex: si cerca la testa della 29enne",
       "source_count": 5,
       "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "news.google.com"
+        "ansa.it",
+        "milano.repubblica.it",
+        "fanpage.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/guerra/iran-oggi-attesa-risposta-teheran-proposta-degli-usa-trump-2660979.html",
-        "https://www.repubblica.it/esteri/2026/05/07/news/trump_nuovo_piano_pace_iran_accordo_vicino_teheran_frena_no_resa-425328509/",
-        "https://www.repubblica.it/esteri/2026/05/07/news/pressing_usa_intesa_iran_trump_viaggio_cina_xi-425328477/",
-        "https://www.ilmessaggero.it/mondo/iran_nuova_proposta_trump_firma_intesa-9515781.html",
-        "https://www.lastampa.it/esteri/2026/05/07/diretta/guerra_iran_usa_israele_news_oggi-15612165/"
+        "https://www.ilgiornale.it/news/politica/tomba-profanata-lex-pamela-adesso-indagato-2660871.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/07/profanazione-tomba-di-pamela-perquisite-fino-a-tarda-notte-case-dolci-e-genitori_81467550-6b69-42d9-b8a0-783dfd6ad20d.html",
+        "https://milano.repubblica.it/cronaca/2026/05/07/news/pamela_genini_ex_fidanzato_francesco_dolci_indagato_perquisizioni-425329282/",
+        "https://www.fanpage.it/milano/profanazione-bara-pamela-genini-lex-dolci-indagato-a-chi-ho-schiacciato-i-piedi-non-ho-fatto-nulla/",
+        "https://www.lastampa.it/cronaca/2026/05/07/news/estorsione_minaccia_o_vendetta_le_tante_piste_dietro_lo_sfregio_di_pamela_genini-15612133/"
       ]
     },
     {
-      "rank": 3,
+      "rank": 8,
+      "title": "Internazionali d’Italia, Berrettini affronta l’australiano Popyrin",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "repubblica.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/dossier/internazionali-di-tennis-italia/2026/05/07/diretta/internazionali_tennis_roma_partite_oggi_berrettini_paolini_sonego-425329418/",
+        "https://www.ilgiornale.it/news/tennis/internazionali-roma-sinner-scalda-motore-prossimo-avversario-2661096.html",
+        "https://www.adnkronos.com/sport/berrettini-popyrin-internazionali-roma-2026-furia-proteste-arbitro-lite_2sBXVMmRVqG8hmNFSiDWBD",
+        "https://www.fanpage.it/sport/tennis/effetto-sinner-sugli-internazionali-ditalia-a-roma-i-biglietti-piu-cari-del-tennis/",
+        "https://www.adnkronos.com/sport/diretta-berrettini-popyrin-oggi-internazionali-roma-2026-risultato-live_5hdUN8EZKVTS5ihJX8nfqZ"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "David di Donatello 2026: da Bianca Balti ad Arisa, domina il total black",
       "source_count": 5,
       "article_count": 6,
@@ -64,138 +194,20 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Marco Rubio è arrivato a Roma: tra poco l’incontro con il Papa",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/07/il-segretario-di-stato-americano-marco-rubio-e-arrivato-a-roma_f0bfb745-7db5-4c30-acc6-caf87b242933.html",
-        "https://www.ansa.it/sito/videogallery/italia/2026/05/07/a-roma-il-segretario-di-stato-americano-marco-rubio_75aa33eb-40a3-4160-b45a-578bb55b9df8.html",
-        "https://www.ilgiornale.it/news/politica-estera/marco-rubio-vaticano-ricucire-papa-2660996.html",
-        "https://www.repubblica.it/esteri/2026/05/07/diretta/papa_leone_marco_rubio_roma_incontro_oggi_news-425329163/",
-        "https://www.lastampa.it/esteri/2026/05/07/diretta/papa_leone_marco_rubio_incontro_oggi_vaticano_news-15612328/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Epstein, pubblicato integralmente il biglietto d’addio: “Un privilegio scegliere quando andarsene”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/07/epstein-biglietto-suicidio-carcere-testo/8378039/",
-        "https://www.fanpage.it/attualita/epstein-desecretato-il-biglietto-daddio-non-hanno-trovato-nulla-un-privilegio-scegliere-quando-andarsene/",
-        "https://www.lastampa.it/esteri/2026/05/07/news/epstein_biglietto_d_addio_suicidio-15612208/",
-        "https://www.repubblica.it/esteri/2026/05/07/news/epstein_lettera_suicidio_carcere-425328732/",
-        "https://www.ilmessaggero.it/mondo/jeffrey_epstein_biglietto_prima_suicidio-9515811.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "David, trionfano \"Le città di pianura\" di Sossai",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/07/david-di-donatello-miglior-film-le-citta-di-pianura_cbcb4850-23bc-4548-bce8-3b5db5fb9ebc.html",
-        "https://www.ilfattoquotidiano.it/2026/05/07/david-di-donatello-2026-le-citta-di-pianura-di-francesco-sossai-trionfa-con-8-statuette-sorrentino-a-mani-vuote-insinna-mattatore-della-serata-la-cronaca-della-cerimonia/8377999/",
-        "https://www.ilgiornale.it/news/tv/david-donatello-2026-trionfo-citt-pianura-tutti-i-vincitori-2660967.html",
-        "https://www.repubblica.it/spettacoli/cinema/2026/05/07/news/david_2026_cerimonia_proteste_vincitori-425328693/",
-        "https://www.lastampa.it/spettacoli/2026/05/06/news/david_di_donatello_serata_premi-15612094/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Mamma e figlia morte con ricina a Campobasso, il movente in attriti familiari: nuovo interrogatorio per la cugina",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/07/avvelenamento-ricina-pietracatella-movente-notizie/8378051/",
-        "https://www.fanpage.it/attualita/mamma-e-figlia-morte-con-ricina-a-campobasso-il-movente-in-attriti-familiari-nuovo-interrogatorio-per-la-cugina/",
-        "https://www.ilmessaggero.it/italia/avvelenate_ricina_movente_colpevole_inchiesta_oggi-9517145.html",
-        "https://www.lastampa.it/cronaca/2026/05/07/news/delitto_ricina_avvelenamento_dissidi_antonella_parente-15612215/",
-        "https://www.repubblica.it/cronaca/2026/05/07/news/madre_figlia_avvelenate_pietracatella_movente-425328261/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "L'ex fidanzato di Pamela Genini indagato per vilipendio di cadavere e furto",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "fanpage.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/milano/profanazione-bara-pamela-genini-lex-dolci-indagato-a-chi-ho-schiacciato-i-piedi-non-ho-fatto-nulla/",
-        "https://www.lastampa.it/cronaca/2026/05/07/news/estorsione_minaccia_o_vendetta_le_tante_piste_dietro_lo_sfregio_di_pamela_genini-15612133/",
-        "https://www.liberoquotidiano.it/news/italia/47602045/pamela-genini-decapitata-francesco-dolci-indagato-cosa-stanno-cercando-casa-sua/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/06/lex-fidanzato-di-pamela-genini-indagato-per-vilipendio-di-cadavere-e-furto_b5b42d51-3322-46df-b4ba-e1ad4d2270b7.html",
-        "https://www.ilgiornale.it/news/cronaca-nera/tomba-pamela-genini-profanata-indagato-l-ex-si-cerca-testa-2660758.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Internazionali: Sinner al Foro Italico, primo allenamento nel pomeriggio",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "fanpage.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/tennis/effetto-sinner-sugli-internazionali-ditalia-a-roma-i-biglietti-piu-cari-del-tennis/",
-        "https://www.adnkronos.com/sport/diretta-berrettini-popyrin-oggi-internazionali-roma-2026-risultato-live_5hdUN8EZKVTS5ihJX8nfqZ",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/05/07/internazionali-sinner-al-foro-italico-primo-allenamento-nel-pomeriggio_ceb7b566-612a-4aba-8eb7-ccf4881c9430.html",
-        "https://www.ilgiornale.it/news/sport/internazionali-avanti-arnaldi-e-grant-2660888.html"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "È morto Ted Turner, fondatore della Cnn. Cambiò per sempre le notizie in televisione",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "50esimo Sisma Friuli, Mattarella: Concetto di resilienza ha qui le sue radici",
+      "source_count": 2,
+      "article_count": 9,
       "source_domains": [
-        "ansa.it",
-        "ilmanifesto.it",
         "ilgiornale.it",
-        "news.google.com"
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/06/addio-a-ted-turner-il-re-della-cnn-pioniere-dei-media-all-news_dcfda567-e2c6-460a-b849-cf9866a92e29.html",
-        "https://ilmanifesto.it/addio-ted-turner-lautentico-tycoon-che-fondo-la-cnn",
-        "https://www.ilgiornale.it/news/editoria-e-media/morto-ted-turner-fondatore-cnn-aveva-87-anni-2660695.html",
-        "https://news.google.com/rss/articles/CBMickFVX3lxTE9WTGNYazVQVVVMbmtkWkdaNk5wdGtrMVV1ODZDUUd6M0FjckF4dHFrOG9kTnpZUExLbDJISU9kSjc1aEcyamNEZm1TRDJZRlRueHVHaW41alhHZS1FNXlfRWFSNFhVZHBVa0VCazZWUmZOQQ?oc=5"
+        "https://www.ilgiornale.it/news/politica/tragedia-modello-ricostruzione-lomaggio-friuli-mattarella-e-2660865.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47613566/fedriga-ricordare-il-sisma-in-friuli-e-occasione-per-disegnare-il-futuro/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47613493/50-esimo-sisma-friuli-meloni-alla-mostra-friuli-1976-con-mattarella/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47613497/50esimo-sisma-friuli-mattarella-concetto-di-resilienza-ha-qui-le-sue-radici/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47613499/mattarella-sisma-friuli-ha-segnato-la-storia-dell-italia-intera/"
       ]
     }
   ]
