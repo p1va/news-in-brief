@@ -1,76 +1,96 @@
 {
   "date": "2026-05-07",
-  "generated_at": "Thu 07 May 16:59",
+  "generated_at": "Thu 07 May 18:51",
   "stories": [
     {
       "rank": 1,
-      "title": "Marco Rubio è arrivato a Roma: tra poco l’incontro con il Papa",
-      "source_count": 8,
-      "article_count": 15,
+      "title": "L’Argentina indaga sulle origini del focolaio da hantavirus sulla nave da crociera",
+      "source_count": 7,
+      "article_count": 13,
       "source_domains": [
+        "ansa.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "lastampa.it",
+        "fanpage.it",
         "ilgiornale.it",
         "repubblica.it",
-        "ilsole24ore.com"
+        "news.google.com"
       ],
       "links": [
-        "https://www.ilmessaggero.it/vaticano/papa_leone_rubio_incontro_regalo_penna_cosa_e_successo-9517613.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47619247/rubio-in-vaticano-con-papa-leone-colloqui-cordiali-e-costruttivi-/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/07/terminata-la-visita-di-rubio-al-papa.-usa-con-la-santa-sede-relazioni-solide_f0bfb745-7db5-4c30-acc6-caf87b242933.html",
+        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/05/07/lhantavirus-cose-come-si-trasmette-e-cosa-provoca_cd04029c-539c-4812-9562-fe3f28059b87.html",
+        "https://www.ilmessaggero.it/salute/medicina/hantavirus_nave_crociera_cosa_non_torna_passeggero_scomparso-9517844.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47620720/hantavirus-oms-5-casi-confermati-ma-c-e-possibilita-che-aumentino/",
+        "https://www.liberoquotidiano.it/news/tv-news/47619150/hantavirus-all-inizio-pericolo-sottovalutato-si-mangiava-a-buffet-/",
+        "https://www.fanpage.it/innovazione/scienze/hantavirus-sulla-nave-da-crociera-loms-conferma-il-ceppo-andes-si-trasmette-da-persona-a-persona/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Chiuse le indagini sul delitto di Garlasco: “Sempio ha ucciso Chiara Poggi”. Cosa succede ora",
+      "source_count": 8,
+      "article_count": 12,
+      "source_domains": [
+        "fanpage.it",
+        "unita.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/attualita/perche-andrea-sempio-e-accusato-dellomicidio-di-chiara-poggi-il-movente-e-la-nuova-ricostruzione/",
+        "https://www.unita.it/2026/05/07/delitto-garlasco-chiusura-indagini-sempio-chiara-poggi/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/07/garlasco-la-procura-chiude-le-indagini-chiara-poggi-uccisa-da-sempio_9a0d67fe-718a-4304-ba7d-0ed652b52e76.html",
+        "https://www.ilfattoquotidiano.it/2026/05/07/caso-garlasco-sempio-indagini-chiuse-notizie/8378768/",
+        "https://www.fanpage.it/attualita/chiuse-le-indagini-sul-delitto-di-garlasco-andrea-sempio-ha-ucciso-chiara-poggi-cosa-succede-ora/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Marco Rubio è arrivato a Roma: tra poco l’incontro con il Papa",
+      "source_count": 6,
+      "article_count": 13,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47619426/tajani-con-rubio-parleremo-di-relazioni-transatlantiche-non-di-parole-trump-su-meloni/",
+        "https://www.liberoquotidiano.it/news/tv-news/47619685/italia-usa-tajani-con-rubio-non-parleremo-delle-battute-di-trump-su-meloni/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47618567/tajani-su-incontro-con-rubio-non-essere-d-accordo-su-qualcosa-non-significa-venir-meno-alleanza/",
         "https://www.adnkronos.com/internazionale/esteri/rubio-roma-vaticano-papa-incontro-oggi_5tGYsG72EgIAEglt1YqiW0",
         "https://www.liberoquotidiano.it/news/libero-video/47613741/marco-rubio-incontra-leone-xiv-dopo-attacchi-trump-papa/"
       ]
     },
     {
-      "rank": 2,
-      "title": "Hantavirus, primo contagio in Svizzera del ceppo Andes: falla nei controlli sulla nave da crociera. Ecco cosa sappiamo",
-      "source_count": 8,
-      "article_count": 13,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/07/hantavirus-la-nave-diretta-alle-canarie.-gia-sbarcati-tutti-i-contagiati_aa04a90a-11dc-4d0f-bc32-aa66d329f9be.html",
-        "https://www.ilfattoquotidiano.it/2026/05/07/hantavirus-nave-da-crociera-ultime-notizie-oggi-7-maggio/8378200/",
-        "https://www.fanpage.it/innovazione/scienze/hantavirus-sulla-nave-da-crociera-loms-conferma-il-ceppo-andes-si-trasmette-da-persona-a-persona/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/07/arrivati-in-olanda-i-due-pazienti-con-hantavirus-evacuati-dalla-nave-fermati_aa04a90a-11dc-4d0f-bc32-aa66d329f9be.html",
-        "https://www.ilgiornale.it/news/attualit/contagio-crociera-23-passeggeri-spariti-ed-allerta-frontiere-2660977.html"
-      ]
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "title": "Internazionali d’Italia, Berrettini affronta l’australiano Popyrin",
       "source_count": 6,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
-        "adnkronos.com",
         "repubblica.it",
+        "adnkronos.com",
         "ilgiornale.it",
         "lastampa.it",
         "fanpage.it",
         "ansa.it"
       ],
       "links": [
+        "https://www.repubblica.it/sport/rubriche/monday-s-net/2026/05/07/news/atp_roma_tennis_berrettini-425330543/",
         "https://www.adnkronos.com/sport/internazionali-2026-roma-colpo-torneo-anno-sinner-quinn_7n1auCXQaiLbPGliUptoAJ",
         "https://www.adnkronos.com/sport/sinner-djokovic-internazionali-roma-2026-boicottaggio-slam_3p7aMpO3Ir5EIyfDDJoXzn",
         "https://www.adnkronos.com/sport/sinner-boicottare-slam-internazionali-roma-2026_1P07dzXp25Sg98Pct2gogJ",
-        "https://www.repubblica.it/sport/dossier/internazionali-di-tennis-italia/2026/05/07/diretta/internazionali_tennis_roma_partite_oggi_berrettini_paolini_sonego-425329418/",
-        "https://www.ilgiornale.it/news/tennis/internazionali-roma-sinner-scalda-motore-prossimo-avversario-2661096.html"
+        "https://www.repubblica.it/sport/dossier/internazionali-di-tennis-italia/2026/05/07/diretta/internazionali_tennis_roma_partite_oggi_berrettini_paolini_sonego-425329418/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Grazia a Nicole Minetti, la procura generale: “Per ora non ci sono elementi per cambiare il parere”",
       "source_count": 8,
       "article_count": 8,
@@ -93,32 +113,10 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "David, da Sossai a Quattrocchi ecco perché gli outsider hanno sbancato",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "unita.it",
-        "repubblica.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/05/07/perche-citta-pianura-david-donatello-matilda-angelis-lino-musella-autocrati-fascisti/",
-        "https://www.repubblica.it/spettacoli/cinema/2026/05/07/news/sossai_sorrentino_david_2026-425329471/",
-        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/07/david-di-donatello-miglior-film-le-citta-di-pianura_cbcb4850-23bc-4548-bce8-3b5db5fb9ebc.html",
-        "https://www.ilfattoquotidiano.it/2026/05/07/david-di-donatello-2026-le-citta-di-pianura-di-francesco-sossai-trionfa-con-8-statuette-sorrentino-a-mani-vuote-insinna-mattatore-della-serata-la-cronaca-della-cerimonia/8377999/",
-        "https://www.ilgiornale.it/news/tv/david-donatello-2026-trionfo-citt-pianura-tutti-i-vincitori-2660967.html"
-      ]
-    },
-    {
       "rank": 6,
       "title": "Epstein, pubblicato integralmente il biglietto d’addio: “Un privilegio scegliere quando andarsene”",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -129,15 +127,36 @@
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/07/lultima-sfida-di-epstein-su-di-me-non-hanno-trovato-nulla_7a203aad-4b1f-486c-b355-2398b7c26e20.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/07/giudice-pubblica-la-nota-lasciata-da-epstein-prima-del-suicidio-_7a203aad-4b1f-486c-b355-2398b7c26e20.html",
         "https://www.liberoquotidiano.it/news/tv-news/47616165/usa-reso-pubblico-il-presunto-messaggio-pre-suicidio-di-epstein/",
         "https://www.ilfattoquotidiano.it/2026/05/07/epstein-biglietto-suicidio-carcere-testo/8378039/",
-        "https://www.fanpage.it/attualita/epstein-desecretato-il-biglietto-daddio-non-hanno-trovato-nulla-un-privilegio-scegliere-quando-andarsene/",
-        "https://www.lastampa.it/esteri/2026/05/07/news/epstein_biglietto_d_addio_suicidio-15612208/"
+        "https://www.fanpage.it/attualita/epstein-desecretato-il-biglietto-daddio-non-hanno-trovato-nulla-un-privilegio-scegliere-quando-andarsene/"
       ]
     },
     {
       "rank": 7,
+      "title": "David, da Sossai a Quattrocchi ecco perché gli outsider hanno sbancato",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "unita.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/07/david-di-donatello-aurora-quattrocchi-e-le-citta-di-pianura-sbancano-ledizione-delle-proteste_cbcb4850-23bc-4548-bce8-3b5db5fb9ebc.html",
+        "https://www.unita.it/2026/05/07/perche-citta-pianura-david-donatello-matilda-angelis-lino-musella-autocrati-fascisti/",
+        "https://www.repubblica.it/spettacoli/cinema/2026/05/07/news/sossai_sorrentino_david_2026-425329471/",
+        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/07/david-di-donatello-miglior-film-le-citta-di-pianura_cbcb4850-23bc-4548-bce8-3b5db5fb9ebc.html",
+        "https://www.ilfattoquotidiano.it/2026/05/07/david-di-donatello-2026-le-citta-di-pianura-di-francesco-sossai-trionfa-con-8-statuette-sorrentino-a-mani-vuote-insinna-mattatore-della-serata-la-cronaca-della-cerimonia/8377999/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Iran, nuova proposta Usa. Trump: «Firma dell’intesa la prossima settimana»",
       "source_count": 6,
       "article_count": 8,
@@ -158,66 +177,44 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Garlasco, nuovi indizi contro Andrea Sempio dopo l’interrogatorio, i legali minimizzano: “Saprà spiegare”, le ultime notizie in diretta",
-      "source_count": 6,
+      "rank": 9,
+      "title": "Mattarella: “Episodi di violenza non deformino realtà su giovani”",
+      "source_count": 5,
       "article_count": 8,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "laverita.info",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/07/delitto-garlasco-audio-sempio-chiavetta-usb-notizie/8378298/",
-        "https://www.fanpage.it/attualita/roberta-bruzzone-non-crede-allaudio-di-sempio-ha-subito-perso-forza-stasi-ha-avuto-assoluzione-mediatica/",
-        "https://www.ilmessaggero.it/italia/garlasco_cosa_succede_ora_discovery_sempio_stasi-9517415.html",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/difesa-sempio-lavoro-smontare-laccusa-sulle-intercettazioni-2661030.html",
-        "https://www.fanpage.it/live/delitto-garlasco-nuovi-indizi-contro-andrea-sempio-dopo-linterrogatorio-diretta-7-maggio/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Garlasco, chiuse le indagini su Sempio: “Ha ucciso lui Chiara Poggi”. Atti a Milano per la revisione",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
+        "liberoquotidiano.it",
         "ansa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
         "adnkronos.com",
-        "milano.repubblica.it",
-        "lastampa.it"
+        "repubblica.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/07/garlasco-la-procura-chiude-le-indagini-chiara-poggi-uccisa-da-sempio_9a0d67fe-718a-4304-ba7d-0ed652b52e76.html",
-        "https://www.ilfattoquotidiano.it/2026/05/07/caso-garlasco-sempio-indagini-chiuse-notizie/8378768/",
-        "https://www.fanpage.it/attualita/chiuse-le-indagini-sul-delitto-di-garlasco-andrea-sempio-ha-ucciso-chiara-poggi-cosa-succede-ora/",
-        "https://www.adnkronos.com/cronaca/caso-garlasco-chiara-poggi-indagine-sempio-ha-ucciso_3Gf3L1oDqJ8ZOn81W2o2ap",
-        "https://milano.repubblica.it/cronaca/2026/05/07/news/sempio_chiara_poggi_chiusura_indagini_garlasco-425330213/"
+        "https://www.liberoquotidiano.it/news/pillole/47620024/mattarella_giovani_coltivano_valori_positivi_e_voglia_di_costruire_/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47619428/mattarella-premia-gli-alfieri-della-repubblica-adulti-ignorano-disagio-dei-giovani/",
+        "https://www.ansa.it/sito/notizie/politica/2026/05/06/mattarella-sceglie-28-giovani-alfieri-ecco-chi-sono-e-quali-sono-le-loro_55aa6d94-4531-418c-a892-014265d65dc6.html",
+        "https://www.adnkronos.com/politica/mattarella-i-giovani-vanno-ascoltati-episodi-di-violenza-non-oscurino-le-tante-notizie-positive-ben-piu-numerose_63m2oz348ELfpC7Y0JldbS",
+        "https://www.repubblica.it/politica/2026/05/07/news/mattarella_alfieri_repubblica_giovani_valore-425329696/"
       ]
     },
     {
       "rank": 10,
-      "title": "Mamma e figlia morte con ricina a Campobasso, il movente in attriti familiari: nuovo interrogatorio per la cugina",
+      "title": "Famiglia scomparsa dal 20 aprile, allarme per Sonia Bottacchiari e i due figli (16 e 14 anni): da Parma al Friuli trovata solo l'auto",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
+        "ansa.it",
         "adnkronos.com",
-        "ilfattoquotidiano.it",
+        "unita.it",
         "fanpage.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "repubblica.it"
+        "bologna.repubblica.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.adnkronos.com/cronaca/giallo-pietracatella-nuovo-interrogatorio_5YbBoJU5qBuXmb0ddxvZxi",
-        "https://www.ilfattoquotidiano.it/2026/05/07/avvelenamento-ricina-pietracatella-movente-notizie/8378051/",
-        "https://www.fanpage.it/attualita/mamma-e-figlia-morte-con-ricina-a-campobasso-il-movente-in-attriti-familiari-nuovo-interrogatorio-per-la-cugina/",
-        "https://www.ilmessaggero.it/italia/avvelenate_ricina_movente_colpevole_inchiesta_oggi-9517145.html",
-        "https://www.lastampa.it/cronaca/2026/05/07/news/delitto_ricina_avvelenamento_dissidi_antonella_parente-15612215/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/07/il-mistero-della-famiglia-scomparsa-la-madre-si-era-licenziata_f1481dba-f6ae-492a-b248-4a11d35af434.html",
+        "https://www.adnkronos.com/cronaca/famiglia-scomparsa-da-piacenza-vasta-ricerca-nella-zona-di-tarcento-ultime-notizie_2VAC24NjGCFshYpvepawuU",
+        "https://www.unita.it/2026/05/07/partono-vacanza-montagna-spariti-madre-figli-adolescenti-giallo-sonia-bottacchiari/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/07/donna-con-figli-scomparsa-in-friuli-ricerche-serrate.-si-indaga-per-sottrazione_f1481dba-f6ae-492a-b248-4a11d35af434.html",
+        "https://www.fanpage.it/attualita/sonia-bottacchiari-e-i-figli-scomparsi-a-piacenza-il-papa-potrebbero-essere-saliti-sullauto-di-qualcuno/"
       ]
     }
   ]
