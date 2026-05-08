@@ -1,30 +1,29 @@
 {
   "date": "2026-05-08",
-  "generated_at": "Fri 08 May 20:12",
+  "generated_at": "Fri 08 May 22:05",
   "stories": [
     {
       "rank": 1,
-      "title": "Italia-Usa, Rubio a palazzo Chigi per incontro con Meloni",
-      "source_count": 12,
-      "article_count": 25,
+      "title": "Meloni incontra il Segretario Usa Marco Rubio a Palazzo Chigi",
+      "source_count": 11,
+      "article_count": 24,
       "source_domains": [
+        "ilmessaggero.it",
         "ansa.it",
         "liberoquotidiano.it",
-        "fanpage.it",
         "lastampa.it",
-        "ilmessaggero.it",
         "repubblica.it",
         "adnkronos.com",
         "ilgiornale.it",
         "unita.it",
+        "fanpage.it",
         "governo.it",
-        "ilmanifesto.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilmessaggero.it/politica/meloni_rubio_cosa_e_successo-9520207.html",
         "https://www.ansa.it/sito/notizie/politica/2026/05/08/prove-di-disgelo-ma-tra-meloni-e-rubio-restano-le-distanze_9e00c52d-af12-4244-b5be-545a8c4f4c36.html",
         "https://www.liberoquotidiano.it/news/pillole/47636563/meloni_con_rubio_incontro_costruttivo_su_dossier_importanti_per_l_italia_/",
-        "https://www.fanpage.it/nel-caso-te-lo-fossi-perso/meloni-accoglie-rubio-a-roma-ma-le-conviene-tenersi-alla-larga-da-trump/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/47637442/meloni-incontra-rubio-entrambi-comprendiamo-importanza-di-difendere-propri-interessi-nazionali/",
         "https://www.lastampa.it/politica/2026/05/08/news/meloni_rubio_disgelo-15614760/"
       ]
@@ -55,24 +54,27 @@
     },
     {
       "rank": 3,
-      "title": "Un anno fa la \"fumata bianca\". Meloni: \"Leone XIV punto di riferimento globale\"",
-      "source_count": 7,
-      "article_count": 11,
+      "title": "Omicidio Diabolik, Calderon assolto in appello «per non aver commesso il fatto». In primo grado era stato condannato all'ergastolo",
+      "source_count": 10,
+      "article_count": 10,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
+        "ilmanifesto.it",
         "ilgiornale.it",
-        "napoli.repubblica.it",
-        "adnkronos.com",
+        "ansa.it",
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "roma.repubblica.it",
         "ilmessaggero.it",
-        "fanpage.it"
+        "lastampa.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/pillole/47635129/leone-xiv-saluta-i-fedeli-dalla-papamobile-in-piazza-del-plebiscito-a-napoli/",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/05/08/il-papa-nellanniversario-di-pontificato-io-il-primo-benedetto_cca4eeab-17d0-4caa-9317-3259a5a2a96b.html",
-        "https://www.ilgiornale.it/news/vaticano/anno-fa-fumata-bianca-meloni-leone-xiv-punto-riferimento-2661531.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47629187/il-papa-un-anno-fa-l-elezione-a-pompei-per-affidamento-a-madonna/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/08/il-papa-e-arrivato-al-santuario-di-pompei_c4786940-9d0c-4d8e-ace7-05e689ea9a2a.html"
+        "https://ilmanifesto.it/omicidio-piscitelli-assolto-calderon",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-diabolik-assolto-appello-presunto-killer-primo-2661735.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/08/omicidio-diabolik-assolto-in-appello-il-presunto-killer-_a4fff95d-50ae-4c95-8370-fd7bbe5007e3.html",
+        "https://www.unita.it/2026/05/08/omicidio-diabolik-assolto-appello-presunto-killer/",
+        "https://www.ilfattoquotidiano.it/2026/05/08/omicidio-diabolik-piscitelli-raul-esteban-calderon-assolto-appello-news/8379707/"
       ]
     },
     {
@@ -99,48 +101,43 @@
     },
     {
       "rank": 5,
-      "title": "Omicidio Diabolik, Calderon assolto in appello «per non aver commesso il fatto». In primo grado era stato condannato all'ergastolo",
-      "source_count": 9,
-      "article_count": 9,
+      "title": "Un anno fa la \"fumata bianca\". Meloni: \"Leone XIV punto di riferimento globale\"",
+      "source_count": 6,
+      "article_count": 10,
       "source_domains": [
-        "ilgiornale.it",
+        "liberoquotidiano.it",
         "ansa.it",
-        "unita.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "roma.repubblica.it",
+        "ilgiornale.it",
+        "adnkronos.com",
         "ilmessaggero.it",
-        "lastampa.it",
-        "agi.it"
+        "fanpage.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-diabolik-assolto-appello-presunto-killer-primo-2661735.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/08/omicidio-diabolik-assolto-in-appello-il-presunto-killer-_a4fff95d-50ae-4c95-8370-fd7bbe5007e3.html",
-        "https://www.unita.it/2026/05/08/omicidio-diabolik-assolto-appello-presunto-killer/",
-        "https://www.ilfattoquotidiano.it/2026/05/08/omicidio-diabolik-piscitelli-raul-esteban-calderon-assolto-appello-news/8379707/",
-        "https://www.fanpage.it/roma/assolto-in-appello-raul-calderon-accusato-dellomicidio-di-fabrizio-diabolik-piscitelli/"
+        "https://www.liberoquotidiano.it/news/pillole/47635129/leone-xiv-saluta-i-fedeli-dalla-papamobile-in-piazza-del-plebiscito-a-napoli/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/05/08/il-papa-nellanniversario-di-pontificato-io-il-primo-benedetto_cca4eeab-17d0-4caa-9317-3259a5a2a96b.html",
+        "https://www.ilgiornale.it/news/vaticano/anno-fa-fumata-bianca-meloni-leone-xiv-punto-riferimento-2661531.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47629187/il-papa-un-anno-fa-l-elezione-a-pompei-per-affidamento-a-madonna/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/08/il-papa-e-arrivato-al-santuario-di-pompei_c4786940-9d0c-4d8e-ace7-05e689ea9a2a.html"
       ]
     },
     {
       "rank": 6,
-      "title": "Andrea Sempio e gli appunti sulle agendine: “Molta ansia, mia madre in panico per la cosa di Stasi”",
-      "source_count": 7,
-      "article_count": 8,
+      "title": "Gli Usa colpiscono due petroliere iraniane, l'ira di Teheran",
+      "source_count": 5,
+      "article_count": 10,
       "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "milano.repubblica.it",
         "ansa.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "ilmessaggero.it"
+        "ilgiornale.it",
+        "repubblica.it",
+        "fanpage.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.fanpage.it/attualita/nelle-agende-sequestrate-a-sempio-gli-appunti-sul-delitto-di-garlasco-mamma-in-panico-per-la-cosa-di-stasi/",
-        "https://www.ilgiornale.it/news/politica/chiara-uccisa-odio-e-crudelt-i-cento-audio-che-inguaiano-2661373.html",
-        "https://milano.repubblica.it/cronaca/2026/05/08/news/andrea_sempio_appunti_agendine_ansia_panico-425331966/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/08/sempio-stasi-ha-chiesto-la-riapertura-dellindagine-su-di-me-mamma-in-panico_4674a6cf-9907-4d2d-b2ee-c959fd0a40e6.html",
-        "https://www.lastampa.it/cronaca/2026/05/08/news/andrea_sempio_agende_ossessione_chiara_poggi_agende-15614086/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/08/gli-usa-colpiscono-due-petroliere-iraniane-lira-di-teheran_4871b75b-fb38-48de-8325-6fa976110582.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/08/medio-oriente-teheran-dagli-usa-avventurismo-sconsiderato-evidente-a-tutti.-vance_6645c562-6828-4613-a2a8-8b89cbf77708.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/08/medio-oriente-centcom-neutralizzate-due-petroliere-iraniane-nel-golfo-di-oman._6645c562-6828-4613-a2a8-8b89cbf77708.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/08/medio-oriente-fox-news-nuovi-attacchi-usa-contro-petroliere-iraniane._6645c562-6828-4613-a2a8-8b89cbf77708.html",
+        "https://www.ilgiornale.it/news/politica/guerra-logoramento-usa-iran-teheran-pu-resistere-mesi-2661383.html"
       ]
     },
     {
@@ -189,22 +186,23 @@
     },
     {
       "rank": 9,
-      "title": "Medio Oriente, Centcom: 'Neutralizzate due petroliere iraniane nel Golfo di Oman'. Vance incontra il premier del Qatar - LIVEBLOG",
-      "source_count": 5,
-      "article_count": 9,
+      "title": "Andrea Sempio e gli appunti sulle agendine: “Molta ansia, mia madre in panico per la cosa di Stasi”",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it",
         "fanpage.it",
-        "news.google.com"
+        "ilgiornale.it",
+        "milano.repubblica.it",
+        "ansa.it",
+        "lastampa.it",
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/08/medio-oriente-teheran-dagli-usa-avventurismo-sconsiderato-evidente-a-tutti.-vance_6645c562-6828-4613-a2a8-8b89cbf77708.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/08/medio-oriente-centcom-neutralizzate-due-petroliere-iraniane-nel-golfo-di-oman._6645c562-6828-4613-a2a8-8b89cbf77708.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/08/medio-oriente-fox-news-nuovi-attacchi-usa-contro-petroliere-iraniane._6645c562-6828-4613-a2a8-8b89cbf77708.html",
-        "https://www.ilgiornale.it/news/politica/guerra-logoramento-usa-iran-teheran-pu-resistere-mesi-2661383.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/08/trump-la-tregua-con-liran-resta-in-vigore-ma-firmino-o-colpiremo.-missili-e-droni_6645c562-6828-4613-a2a8-8b89cbf77708.html"
+        "https://www.fanpage.it/attualita/nelle-agende-sequestrate-a-sempio-gli-appunti-sul-delitto-di-garlasco-mamma-in-panico-per-la-cosa-di-stasi/",
+        "https://www.ilgiornale.it/news/politica/chiara-uccisa-odio-e-crudelt-i-cento-audio-che-inguaiano-2661373.html",
+        "https://milano.repubblica.it/cronaca/2026/05/08/news/andrea_sempio_appunti_agendine_ansia_panico-425331966/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/08/sempio-stasi-ha-chiesto-la-riapertura-dellindagine-su-di-me-mamma-in-panico_4674a6cf-9907-4d2d-b2ee-c959fd0a40e6.html",
+        "https://www.lastampa.it/cronaca/2026/05/08/news/andrea_sempio_agende_ossessione_chiara_poggi_agende-15614086/"
       ]
     },
     {
