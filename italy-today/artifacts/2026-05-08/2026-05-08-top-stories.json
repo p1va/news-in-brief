@@ -1,13 +1,14 @@
 {
   "date": "2026-05-08",
-  "generated_at": "Fri 08 May 14:05",
+  "generated_at": "Fri 08 May 16:22",
   "stories": [
     {
       "rank": 1,
       "title": "Meloni incontra il Segretario Usa Marco Rubio a Palazzo Chigi",
-      "source_count": 12,
+      "source_count": 13,
       "article_count": 19,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ansa.it",
         "ilmessaggero.it",
         "repubblica.it",
@@ -22,21 +23,21 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/08/meloni-rubio-incontro-palazzo-chigi-notizie/8379759/",
         "https://www.ansa.it/sito/notizie/politica/2026/05/08/rubio-a-palazzo-chigi-vertice-di-unora-e-mezza-con-meloni.-spero-in-una_9e00c52d-af12-4244-b5be-545a8c4f4c36.html",
         "https://www.ilmessaggero.it/mondo/rubio_meloni_roma_guerra_iran_nato_cosa_ha_detto-9519632.html",
         "https://www.repubblica.it/politica/2026/05/08/news/meloni_rubio_incontro_roma_tensioni_trump-425332136/",
-        "https://www.ansa.it/sito/notizie/politica/2026/05/08/rubio-a-palazzo-chigi-stretta-di-mano-con-meloni.-tajani-anche-gli_9e00c52d-af12-4244-b5be-545a8c4f4c36.html",
-        "https://www.adnkronos.com/politica/rubio-a-palazzo-chigi-al-via-lincontro-del-disgelo-con-meloni-video_T1Q4SORPbbhyNuj1irwXa"
+        "https://www.ansa.it/sito/notizie/politica/2026/05/08/rubio-a-palazzo-chigi-stretta-di-mano-con-meloni.-tajani-anche-gli_9e00c52d-af12-4244-b5be-545a8c4f4c36.html"
       ]
     },
     {
       "rank": 2,
       "title": "Elezioni locali Uk, disfatta Labour e Reform di Farage primo partito. Starmer: il governo va avanti",
       "source_count": 9,
-      "article_count": 14,
+      "article_count": 15,
       "source_domains": [
-        "ilmessaggero.it",
         "ansa.it",
+        "ilmessaggero.it",
         "unita.it",
         "liberoquotidiano.it",
         "repubblica.it",
@@ -46,39 +47,61 @@
         "ilgiornale.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/08/il-labour-perde-anche-il-galles-il-partito-ammette-la-storica-disfatta_4def9004-e879-4556-bcc1-6e5ef8d970c8.html",
         "https://www.ilmessaggero.it/politica/starmer_elezioni_risultati_reform_uk_farage-9519536.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/08/labour-dimezzato-e-reform-primo-partito.-starmer-risultato-pesante-ma-vado-avanti_4def9004-e879-4556-bcc1-6e5ef8d970c8.html",
         "https://www.unita.it/2026/05/08/risultati-elezioni-locali-inghilterra-sconfitta-starmer-reform-farage-verdi/",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/05/08/elezioni-locali-nel-regno-unito-starmer-risultato-che-fa-male-mia_fceaa564-6b14-4f36-9960-dac363188550.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47630840/regno-unito-il-voto-locale-punisce-starmer-e-premia-farage/"
+        "https://www.ansa.it/sito/videogallery/mondo/2026/05/08/elezioni-locali-nel-regno-unito-starmer-risultato-che-fa-male-mia_fceaa564-6b14-4f36-9960-dac363188550.html"
       ]
     },
     {
       "rank": 3,
       "title": "Garlasco, la procura chiude le indagini: 'Chiara Poggi uccisa da Sempio con odio e crudeltà'",
-      "source_count": 9,
-      "article_count": 13,
+      "source_count": 7,
+      "article_count": 11,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ilgiornale.it",
         "fanpage.it",
-        "laverita.info",
         "adnkronos.com",
         "ilmessaggero.it",
         "ansa.it",
-        "unita.it",
-        "milano.repubblica.it"
+        "unita.it"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/05/08/caso-garlasco-sempio-pennetta-usb-notizie/8379593/",
         "https://www.ilgiornale.it/news/politica/chiara-uccisa-odio-e-crudelt-i-cento-audio-che-inguaiano-2661373.html",
         "https://www.fanpage.it/live/delitto-di-garlasco-chiuse-indagini-andrea-sempio-ha-ucciso-chiara-poggi-diretta-8-maggio/",
-        "https://www.laverita.info/garlasco-sempio-intercettazioni-chiusura-indagini-2676867711.html",
-        "https://www.adnkronos.com/cronaca/garlasco-indagini-sempio-procura-stasi_67gJ26x1knxFXit7AFzCFC"
+        "https://www.adnkronos.com/cronaca/garlasco-indagini-sempio-procura-stasi_67gJ26x1knxFXit7AFzCFC",
+        "https://www.fanpage.it/attualita/garlasco-la-discovery-e-i-20-giorni-di-sempio-per-essere-sentito-i-prossimi-passi-prima-del-processo/"
       ]
     },
     {
       "rank": 4,
+      "title": "Omicidio Diabolik, Calderon assolto in appello «per non aver commesso il fatto». In primo grado era stato condannato all'ergastolo",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "roma.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-diabolik-assolto-appello-presunto-killer-primo-2661735.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/08/omicidio-diabolik-assolto-in-appello-il-presunto-killer-_a4fff95d-50ae-4c95-8370-fd7bbe5007e3.html",
+        "https://www.unita.it/2026/05/08/omicidio-diabolik-assolto-appello-presunto-killer/",
+        "https://www.ilfattoquotidiano.it/2026/05/08/omicidio-diabolik-piscitelli-raul-esteban-calderon-assolto-appello-news/8379707/",
+        "https://www.fanpage.it/roma/assolto-in-appello-raul-calderon-accusato-dellomicidio-di-fabrizio-diabolik-piscitelli/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Il Papa: un anno fa l'elezione, a Pompei per affidamento a Madonna",
       "source_count": 6,
       "article_count": 11,
@@ -99,49 +122,71 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Hantavirus, salgono i contagi. L'Oms: \"Non è una pandemia\"",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "repubblica.it",
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/08/hantavirus-caso-sospetto-spagna-ultime-notizie-oggi-8-maggio/8379615/",
-        "https://www.ilgiornale.it/news/politica/hantavirus-salgono-i-contagi-loms-non-pandemia-2661391.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/08/segnalato-nuovo-caso-sospetto-di-hantavirus-non-era-sulla-nave_a0bbfa74-57c8-4c0f-b87a-7a85b9139dfd.html",
-        "https://www.repubblica.it/esteri/2026/05/08/news/hantavirus_news_contagi_virus_nave_hostess-425331870/",
-        "https://www.fanpage.it/innovazione/scienze/hantavirus-sulla-mv-hondius-gli-spostamenti-della-coppia-olandese-e-il-birdwatching-alla-discarica-di-ushuaia/"
-      ]
-    },
-    {
       "rank": 6,
       "title": "Guerra in Iran, le news di oggi. Teheran: “Gli Usa hanno violato il cessate il fuoco, rispondiamo”",
-      "source_count": 5,
-      "article_count": 7,
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
         "ansa.it",
         "ilgiornale.it",
         "repubblica.it",
         "fanpage.it",
+        "lastampa.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/08/medio-oriente-centcom-neutralizzate-due-petroliere-iraniane-nel-golfo-di-oman._6645c562-6828-4613-a2a8-8b89cbf77708.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/08/medio-oriente-fox-news-nuovi-attacchi-usa-contro-petroliere-iraniane._6645c562-6828-4613-a2a8-8b89cbf77708.html",
         "https://www.ilgiornale.it/news/politica/guerra-logoramento-usa-iran-teheran-pu-resistere-mesi-2661383.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/08/trump-la-tregua-con-liran-resta-in-vigore-ma-firmino-o-colpiremo.-missili-e-droni_6645c562-6828-4613-a2a8-8b89cbf77708.html",
-        "https://www.repubblica.it/esteri/2026/05/08/diretta/guerra_in_iran_le_news_di_oggi_in_diretta-425331186/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/teheran-violato-cessate-fuoco-usa-raid-autodifesa-emirati-2661474.html"
+        "https://www.repubblica.it/esteri/2026/05/08/diretta/guerra_in_iran_le_news_di_oggi_in_diretta-425331186/"
       ]
     },
     {
       "rank": 7,
+      "title": "Piacenza, donna di 56 anni uccisa a coltellate in casa: si cerca il marito",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "bologna.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/08/femminicidio-piacenza-donna-accoltellata-notizie/8379819/",
+        "https://www.adnkronos.com/cronaca/piacenza-femminicidio-uccisa-coltellate-marito_2TKG3hVIcvs8sixMvWGqvj",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/08/donna-uccisa-in-casa-a-piacenza-si-cerca-il-marito_3ba9a96d-565c-4e45-a1f2-36afb727631f.html",
+        "https://www.fanpage.it/attualita/ho-ucciso-mia-moglie-chiama-il-112-e-poi-scappa-in-casa-il-cadavere-della-56enne-caccia-alluomo-a-piacenza/",
+        "https://www.ilmessaggero.it/italia/piacenza_donna_uccisa_marito_fuga_carabinieri_cosa_sappiamo-9519837.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Happy Birthday, Sir David: Attenborough compie 100 anni",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/08/david-attenborough-compie-100-anni-londra-celebra-luomo-che-ci-ha-insegnato-a-guardare-la-terra/8379669/",
+        "https://www.liberoquotidiano.it/news/tv-news/47634911/david-attenborough-fa-100-anni-porto-le-meraviglie-della-terra-in-tv/",
+        "https://www.repubblica.it/cultura/2026/05/08/news/david_attenborough_compie_100_anni-425331996/",
+        "https://www.fanpage.it/kodami/un-regalo-speciale-per-i-100-anni-di-david-attenborough-una-nuova-specie-di-vespa-in-suo-onore/",
+        "https://www.ilgiornale.it/news/scienze/mentre-attenborough-oggi-compie-cent-anni-noi-crediamo-tigri-2661508.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Giro d'Italia 2026, tutto quello che c'è da sapere",
       "source_count": 4,
       "article_count": 8,
@@ -160,61 +205,23 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Andrea Sempio, il passaggio-chiave per i pm: \"Libero di... bel cu***\"",
-      "source_count": 3,
-      "article_count": 9,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/08/caso-garlasco-sempio-moleskine-stasi-notizie/8379386/",
-        "https://www.liberoquotidiano.it/news/italia/47629206/sempio_pagato_100_euro_foto_intime_amica/",
-        "https://www.liberoquotidiano.it/news/italia/47629170/sempio-effetto-domino-chiara-poggi-c-erano-altri-video-cosa-successo-20-luglio/",
-        "https://www.liberoquotidiano.it/news/italia/47628901/andrea_sempio_madre_panico_cosa_svelano_appunti_andrea_sempio/",
-        "https://www.liberoquotidiano.it/news/italia/47628879/andrea_sempio_libro_sogni_bionda_usa_taser_lui_salta_addosso_apre_faccia/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Da Tusk a Rubio, raffica di bilaterali per Meloni",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "laverita.info",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "liberoquotidiano.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/patto-italia-libia-energia-immigrazione-2676866263.html",
-        "https://www.repubblica.it/politica/2026/05/08/news/meloni_rubio_incontro_libano_libia-425331062/",
-        "https://ilmanifesto.it/affari-energia-e-migranti-meloni-incontra-dbeibah",
-        "https://www.liberoquotidiano.it/news/pillole/47620736/meloni-incontra-il-primo-ministro-del-governo-di-unita-nazionale-libico/",
-        "https://www.ilsole24ore.com/art/da-tusk-rubio-raffica-bilaterali-meloni-AIuHMIxC"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Olimpiadi invernali, la Corte dei Conti del Veneto indaga sulla pista da bob di Cortina",
+      "title": "L'Hantavirus: cos'è, come si trasmette e cosa provoca",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 7,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "milano.repubblica.it",
         "ansa.it",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "adnkronos.com",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/08/pista-bob-cortina-corte-conti-indagine-danni-impianto-olimpiadi/8379294/",
-        "https://milano.repubblica.it/cronaca/2026/05/08/news/olimpiadi_cortina_danno_erariale_pista_bob-425331697/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/08/la-corte-di-conti-del-veneto-indaga-sulla-pista-da-bob-di-cortina_2011851a-a2fc-451d-a228-4f4c47a42ef7.html",
-        "https://www.lastampa.it/cronaca/2026/05/08/news/milano_cortina_corte_conti_indagini_pista_bob-15614130/",
-        "https://www.ilsole24ore.com/art/la-corte-conti-veneto-indaga-pista-bob-cortina-AIVKDGxC"
+        "https://www.ansa.it/canale_scienza/notizie/biotech/2026/05/08/nature-il-vaccino-contro-lhantavirus-allo-studio-da-30-anni-_fe3800b3-afb8-489e-b947-09b3aeb4c621.html",
+        "https://www.adnkronos.com/cronaca/hantavirus-contagio-sintomi-italia_62hFgc0fVXiDUpMk8lgbZy",
+        "https://www.ilgiornale.it/news/politica/hantavirus-salgono-i-contagi-loms-non-pandemia-2661391.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47629358/hantavirus-paesi-al-lavoro-per-tracciare-passeggeri-e-contatti/",
+        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/05/07/lhantavirus-cose-come-si-trasmette-e-cosa-provoca_cd04029c-539c-4812-9562-fe3f28059b87.html"
       ]
     }
   ]
