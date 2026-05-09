@@ -1,17 +1,18 @@
 {
   "date": "2026-05-09",
-  "generated_at": "Sat 09 May 13:31",
+  "generated_at": "Sat 09 May 15:00",
   "stories": [
     {
       "rank": 1,
       "title": "Hantavirus, il ministero della Salute: 'Attivata la sorveglianza su 4 passeggeri del volo Klm, informate quattro Regioni'",
-      "source_count": 10,
-      "article_count": 11,
+      "source_count": 11,
+      "article_count": 13,
       "source_domains": [
+        "fanpage.it",
+        "ilmessaggero.it",
         "ansa.it",
         "adnkronos.com",
         "liberoquotidiano.it",
-        "fanpage.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
@@ -20,11 +21,11 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.fanpage.it/innovazione/scienze/hantavirus-andes-i-casi-fuori-dalla-nave-mv-hondius-diventano-il-nodo-per-loms-monitorare-sintomi-precoci/",
+        "https://www.ilmessaggero.it/salute/focus/hantavirus_quarantena_sintomi_isolamento_perche_rischi-9521770.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/09/hantavirus-il-ministero-della-salute-attivata-la-sorveglianza-su-4-passeggeri-del-volo-klm_3e1d2873-0610-47e7-9ec3-6a3c67b8699c.html",
         "https://www.adnkronos.com/cronaca/hantavirus-ministero-salute-attivati-protocolli-di-sorveglianza-su-4-passeggeri-del-volo-klm-passati-per-roma_6vSK2uCkZeOAKUDa3Cg6Cx",
-        "https://www.liberoquotidiano.it/news/italia/47646413/hantavirus-il-ministero-della-salute-sorveglianza-su-4-passeggeri-passati-per-roma-/",
-        "https://www.fanpage.it/esteri/hantavirus-su-nave-da-crociera-ministero-salute-4-persone-arrivate-in-italia-dopo-contatti-con-passeggera/",
-        "https://www.ilgiornale.it/news/attualit/hantavirus-sorveglianza-attiva-italia-quattro-passeggeri-2662023.html"
+        "https://www.liberoquotidiano.it/news/italia/47646413/hantavirus-il-ministero-della-salute-sorveglianza-su-4-passeggeri-passati-per-roma-/"
       ]
     },
     {
@@ -33,21 +34,21 @@
       "source_count": 8,
       "article_count": 11,
       "source_domains": [
+        "repubblica.it",
         "adnkronos.com",
         "unita.it",
         "ilgiornale.it",
-        "repubblica.it",
         "ansa.it",
         "laverita.info",
         "ilmanifesto.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.repubblica.it/esteri/2026/05/09/news/starmer_dal_trionfo_al_disastro_labour_inghilterra-425334438/",
         "https://www.adnkronos.com/internazionale/esteri/il-politologo-klemperer-disprezzo-per-valori-progressisti-ha-segnato-la-rottura-fra-elettorato-e-labour_5rTOdI7hYGvo06nj5nBMCh",
         "https://www.unita.it/2026/05/09/perche-comunali-britanniche-waterloo-starmer-boom-destra-trumpiana-farage/",
         "https://www.ilgiornale.it/news/politica-estera/valanga-farage-sul-voto-oltre-destra-e-sinistra-l-inizio-2662052.html",
-        "https://www.ilgiornale.it/news/politica/colpo-grazia-bipartitismo-e-regno-unito-andato-pezzi-2661892.html",
-        "https://www.ilgiornale.it/news/politica/crollo-labour-starmer-allangolo-risultato-doloroso-non-2661891.html"
+        "https://www.ilgiornale.it/news/politica/colpo-grazia-bipartitismo-e-regno-unito-andato-pezzi-2661892.html"
       ]
     },
     {
@@ -103,19 +104,19 @@
       "source_count": 6,
       "article_count": 11,
       "source_domains": [
+        "fanpage.it",
         "adnkronos.com",
         "repubblica.it",
         "ilgiornale.it",
         "ilmessaggero.it",
-        "fanpage.it",
         "ilfattoquotidiano.it"
       ],
       "links": [
+        "https://www.fanpage.it/sport/live/sinner-ofner-in-diretta-live-agli-internazionali-di-roma-2026-si-gioca-dalle-19-prima-partita-per-jannik-in-casa/",
         "https://www.adnkronos.com/sport/sinner-kalinskaya-ex-fidanzati-internazionali-roma-2026-centrale_G29YEvsHdFO6O4SeuAq4d",
         "https://www.adnkronos.com/sport/atmane-chi-e-cobolli-avversario-alieni-internazionali-roma-2026_2u780nWGEOSGlNqqOHzN5i",
         "https://www.repubblica.it/sport/dossier/internazionali-di-tennis-italia/2026/05/09/diretta/internazionali_tennis_roma_2026_oggi_paolini_cobolli-425334043/",
-        "https://www.adnkronos.com/sport/cobolli-sinner-internazionali-roma-2026-punto-allenamento_2RSH66mDRYS8tx5VE3v53u",
-        "https://www.ilgiornale.it/news/tennis/sinner-ofner-debutto-agli-internazionali-orario-tv-e-chi-2662010.html"
+        "https://www.adnkronos.com/sport/cobolli-sinner-internazionali-roma-2026-punto-allenamento_2RSH66mDRYS8tx5VE3v53u"
       ]
     },
     {
@@ -142,6 +143,27 @@
     },
     {
       "rank": 7,
+      "title": "MotoGp, Bagnaia in pole e secondo nella sprint race a Le Mans. Marquez a terra",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "fanpage.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/09/moto-gp-francia-le-mans-gara-sprint-risultati-classifica-news/8380654/",
+        "https://www.ilgiornale.it/news/motori/motogp-bagnaia-pole-e-secondo-nella-sprint-race-mans-marquez-2662096.html",
+        "https://www.adnkronos.com/sport/motogp-oggi-ordine-arrivo-gara-sprint-gp-francia-classifica-mondiale_15QoSYCRH9sZLI0PC8nFTL",
+        "https://www.repubblica.it/sport/moto-gp/2026/05/09/news/martin_vince_sprint_caduta_marc_marquez-425334470/",
+        "https://www.adnkronos.com/sport/motogp-ordine-arrivo-gara-sprint-gp-francia-classifica-mondiale_2sz5Nsg0yt1K8uYYZnUO8B"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Garlasco, il diario che inchioda Sempio: “Ho commesso cose brutte, mamma è in panico per me”",
       "source_count": 6,
       "article_count": 8,
@@ -162,7 +184,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Ucraina, tre giorni di tregua: ok a Trump da Kiev e Mosca",
       "source_count": 5,
       "article_count": 7,
@@ -179,26 +201,6 @@
         "https://www.ansa.it/sito/videogallery/mondo/2026/05/09/trump-vorrei-estensione-significativa-a-tregua-tra-russia-e-ucraina_ffbead53-ef5a-4c94-93eb-a57be53675ee.html",
         "https://www.liberoquotidiano.it/news/tv-news/47645915/trump-bello-se-cessate-il-fuoco-tra-russia-e-ucraina-si-estendesse/",
         "https://www.repubblica.it/esteri/2026/05/09/news/ucraina_tre_giorni_tregua_ok_trump_vday_scambio_prigionieri-425333456/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "A Venezia la protesta contro la presenza di Israele alla Biennale",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/venezia-assalti-e-scontri-pro-pal-padiglioni-chiusi-contro-2661881.html",
-        "https://www.repubblica.it/politica/2026/05/09/news/biennale_protesta_contro_israele_scontri_polizia_pro-pal-425333395/",
-        "https://www.ilgiornale.it/news/arte-e-storia/padiglioni-chiusi-e-cortei-pro-pal-biennale-scoppia-protesta-2661698.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47638411/salvini-in-biennale-padiglione-italia-bellissimo-poi-a-israele/",
-        "https://www.liberoquotidiano.it/news/tv-news/47638133/a-venezia-la-protesta-contro-la-presenza-di-israele-alla-biennale/"
       ]
     },
     {
