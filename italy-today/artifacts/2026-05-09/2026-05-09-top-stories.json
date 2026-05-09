@@ -1,6 +1,6 @@
 {
   "date": "2026-05-09",
-  "generated_at": "Sat 09 May 10:14",
+  "generated_at": "Sat 09 May 11:58",
   "stories": [
     {
       "rank": 1,
@@ -28,9 +28,10 @@
     {
       "rank": 2,
       "title": "Minivan finisce in un canale, tre morti a Chioggia",
-      "source_count": 8,
-      "article_count": 8,
+      "source_count": 9,
+      "article_count": 9,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "ansa.it",
         "ilfattoquotidiano.it",
@@ -41,15 +42,83 @@
         "agi.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/italia/47644953/chioggia_minivan_con_9_persone_bordo_cade_canale_3_morti/",
         "https://www.ilgiornale.it/news/cronaca-locale/tragedia-chioggia-minivan-finisce-nel-canale-tre-morti-2661980.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/09/minivan-finisce-dentro-un-canale-nel-veneziano-tre-morti_e2d6521a-1a14-4465-b082-d69a5e9221f8.html",
         "https://www.ilfattoquotidiano.it/2026/05/09/minivan-canale-chioggia-3-morti-notizie/8380266/",
-        "https://www.fanpage.it/attualita/minivan-esce-di-strada-e-finisce-in-un-canale-nel-veneziano-tre-morti-altri-passeggeri-riesco-a-salvarsi/",
-        "https://www.adnkronos.com/cronaca/minivan-finisce-in-un-canale-tre-morti-a-chioggia_1TBeCYvyOiLk7W93JKlrTC"
+        "https://www.fanpage.it/attualita/minivan-esce-di-strada-e-finisce-in-un-canale-nel-veneziano-tre-morti-altri-passeggeri-riesco-a-salvarsi/"
       ]
     },
     {
       "rank": 3,
+      "title": "Hantavirus, il ministero della Salute: “Sorveglianza attiva su 4 turisti a bordo del volo Klm”",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "agi.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/hantavirus-ministero-salute-attivati-protocolli-di-sorveglianza-su-4-passeggeri-del-volo-klm-passati-per-roma_6vSK2uCkZeOAKUDa3Cg6Cx",
+        "https://www.fanpage.it/esteri/hantavirus-su-nave-da-crociera-ministero-salute-4-persone-arrivate-in-italia-dopo-contatti-con-passeggera/",
+        "https://www.ilgiornale.it/news/attualit/hantavirus-sorveglianza-attiva-italia-quattro-passeggeri-2662023.html",
+        "https://www.ilfattoquotidiano.it/2026/05/09/hantavirus-sorveglianza-passeggeri-italiani-notizie/8380377/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/09/attivata-la-sorveglianza-per-lhantavirus-su-4-passeggeri-del-volo-klm-atterrati-in-italia_3e1d2873-0610-47e7-9ec3-6a3c67b8699c.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Il voto affossa i laburisti e fa volare Farage, ma Starmer prova a resistere",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "unita.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ansa.it",
+        "laverita.info",
+        "ilmanifesto.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.unita.it/2026/05/09/perche-comunali-britanniche-waterloo-starmer-boom-destra-trumpiana-farage/",
+        "https://www.ilgiornale.it/news/politica-estera/valanga-farage-sul-voto-oltre-destra-e-sinistra-l-inizio-2662052.html",
+        "https://www.ilgiornale.it/news/politica/colpo-grazia-bipartitismo-e-regno-unito-andato-pezzi-2661892.html",
+        "https://www.ilgiornale.it/news/politica/crollo-labour-starmer-allangolo-risultato-doloroso-non-2661891.html",
+        "https://www.repubblica.it/esteri/2026/05/09/news/labour_e_conservatori_inghilterra_elezioni_starmer-425333945/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Giorno della Vittoria, a Mosca la parata sottotono di Putin: \"Affrontiamo forza aggressiva sostenuta da Nato\"",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/esteri/putin-alla-parata-del-9-maggio-in-ucraina-affrontiamo-una-forza-sostenuta-dallintero-blocco-nato/",
+        "https://www.ilfattoquotidiano.it/2026/05/09/russia-parata-9-maggio-kiev-violata-tregua/8380302/",
+        "https://www.liberoquotidiano.it/news/libero-video/47645204/giorno-della-vittoria-la-parata-militare-nella-piazza-rossa-di-mosca/",
+        "https://www.repubblica.it/esteri/2026/05/09/diretta/guerra_ucraina_russia_news_oggi-425333520/",
+        "https://www.ilgiornale.it/news/guerra/diretta-tregua-3-giorni-mosca-e-kiev-mosca-iniziata-parata-2661973.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Garlasco, il diario che inchioda Sempio: “Ho commesso cose brutte, mamma è in panico per me”",
       "source_count": 6,
       "article_count": 9,
@@ -70,73 +139,31 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Giorno della Vittoria, a Mosca la parata sottotono di Putin: \"Affrontiamo forza aggressiva sostenuta da Nato\"",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/05/09/news/parata_mosca_putin_piazza_rossa_guerra_russia_ucraina-425334051/",
-        "https://www.ilfattoquotidiano.it/2026/05/09/russia-parata-9-maggio-kiev-violata-tregua/8380302/",
-        "https://www.repubblica.it/esteri/2026/05/09/diretta/guerra_ucraina_russia_news_oggi-425333520/",
-        "https://www.ilgiornale.it/news/guerra/diretta-tregua-3-giorni-mosca-e-kiev-mosca-iniziata-parata-2661973.html",
-        "https://www.repubblica.it/esteri/2026/05/09/news/guerra_russia_ucraina_nuovi_droni_mini_cruise_parata_mosca-425333785/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Il voto affossa i laburisti e fa volare Farage, ma Starmer prova a resistere",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "ansa.it",
-        "laverita.info",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/colpo-grazia-bipartitismo-e-regno-unito-andato-pezzi-2661892.html",
-        "https://www.ilgiornale.it/news/politica/crollo-labour-starmer-allangolo-risultato-doloroso-non-2661891.html",
-        "https://www.repubblica.it/esteri/2026/05/09/news/labour_e_conservatori_inghilterra_elezioni_starmer-425333945/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/08/il-voto-affossa-i-laburisti-e-fa-volare-farage-ma-starmer-prova-a-resistere_4def9004-e879-4556-bcc1-6e5ef8d970c8.html",
-        "https://www.laverita.info/farage-starmer-elezioni-amministrative-uk-2676872705.html"
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "title": "Sinner a che ora gioca a Roma? Debutto con Ofner gli Internazionali d'Italia: orario, dove vederla (anche in chiaro) e precedenti",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "repubblica.it",
         "ilgiornale.it",
         "ilmessaggero.it",
         "adnkronos.com",
         "fanpage.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it"
+        "ilfattoquotidiano.it"
       ],
       "links": [
+        "https://www.repubblica.it/sport/dossier/internazionali-di-tennis-italia/2026/05/09/diretta/internazionali_tennis_roma_2026_oggi_paolini_cobolli-425334043/",
         "https://www.ilgiornale.it/news/tennis/sinner-ofner-debutto-agli-internazionali-orario-tv-e-chi-2662010.html",
         "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_internazionali_roma_ofner_oggi_orario_dove_vederla_in_chiaro_precedenti-9521425.html",
         "https://www.adnkronos.com/sport/cobolli-atmane-oggi-internazionali-roma-2026-orario-dove-vederla-tv_1k3E81yFic07yZ2clY6h2Q",
-        "https://www.adnkronos.com/sport/paolini-mertens-oggi-internazionali-roma-2026-orario-dove-vederla-tv-in-chiaro_6yjqjm7QLMdV2CmcEHyHvm",
-        "https://www.fanpage.it/sport/tennis/sinner-ofner-oggi-allatp-roma-a-che-ora-si-gioca-e-dove-vederla-in-tv-in-chiaro-e-streaming/"
+        "https://www.adnkronos.com/sport/paolini-mertens-oggi-internazionali-roma-2026-orario-dove-vederla-tv-in-chiaro_6yjqjm7QLMdV2CmcEHyHvm"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Ucraina, tre giorni di tregua: ok a Trump da Kiev e Mosca",
       "source_count": 5,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
         "ansa.it",
@@ -149,11 +176,11 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/05/09/trump-vorrei-unestensione-significativa-della-tregua-tra-russia-e-ucraina.-_d936029a-74c4-4de3-a868-e1655e775780.html",
         "https://www.ansa.it/sito/videogallery/mondo/2026/05/09/trump-vorrei-estensione-significativa-a-tregua-tra-russia-e-ucraina_ffbead53-ef5a-4c94-93eb-a57be53675ee.html",
         "https://www.liberoquotidiano.it/news/tv-news/47645915/trump-bello-se-cessate-il-fuoco-tra-russia-e-ucraina-si-estendesse/",
-        "https://www.liberoquotidiano.it/news/pillole/47641982/trump_conflitto_tra_russia_e_ucraina_il_peggiore_dalla_seconda_guerra_mondiale_/"
+        "https://www.repubblica.it/esteri/2026/05/09/news/ucraina_tre_giorni_tregua_ok_trump_vday_scambio_prigionieri-425333456/"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "A Venezia la protesta contro la presenza di Israele alla Biennale",
       "source_count": 5,
       "article_count": 7,
@@ -173,44 +200,24 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Hantavirus, il ministero della Salute: “Sorveglianza attiva su 4 turisti a bordo del volo Klm”",
+      "rank": 10,
+      "title": "UFO, il Pentagono pubblica gli X-Files: dai lampi visti nelle missioni Apollo agli oggetti non identificati",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
-        "ilgiornale.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
+        "fanpage.it",
         "lastampa.it",
-        "agi.it"
+        "ilgiornale.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/attualit/hantavirus-sorveglianza-attiva-italia-quattro-passeggeri-2662023.html",
-        "https://www.ilfattoquotidiano.it/2026/05/09/hantavirus-sorveglianza-passeggeri-italiani-notizie/8380377/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/09/attivata-la-sorveglianza-per-lhantavirus-su-4-passeggeri-del-volo-klm-atterrati-in-italia_3e1d2873-0610-47e7-9ec3-6a3c67b8699c.html",
-        "https://www.repubblica.it/cronaca/2026/05/09/news/hantavirus_italia_ministero_salute_sorveglianza_attiva_su_quattro_passeggeri-425334145/",
-        "https://www.lastampa.it/cronaca/2026/05/09/news/hantavirus_passati_da_roma_quattro_turisti_che_erano_sull_aereo_con_una_vittima_oms_rischio_basso-15615366/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Omicidio Diabolik, ribaltata la sentenza: Calderon assolto",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "unita.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/omicidio-diabolik-assolto-calderon-lira-dei-familiari-2661893.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/08/omicidio-diabolik-assolto-in-appello-il-presunto-killer-_a4fff95d-50ae-4c95-8370-fd7bbe5007e3.html",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-diabolik-assolto-appello-presunto-killer-primo-2661735.html",
-        "https://www.unita.it/2026/05/08/omicidio-diabolik-assolto-appello-presunto-killer/",
-        "https://www.lastampa.it/cronaca/2026/05/08/news/omicidio_diabolik_calderon_assolto-15614468/"
+        "https://www.adnkronos.com/internazionale/esteri/ufo-nel-file-fbi-lavvistamento-di-misteriosi-esseri-bassi-e-con-tute-spaziali_7c8DNpp3SIKIRlt2ev04ja",
+        "https://www.liberoquotidiano.it/news/libero-video/47645207/stati-uniti-il-pentagono-pubblica-nuovi-documenti-e-video-sugli-ufo/",
+        "https://www.ilfattoquotidiano.it/2026/05/09/lampi-di-luce-oggetti-volanti-non-identificati-improvvisi-il-dipartimento-della-difesa-svela-le-carte-sugli-avvistamenti-degli-ufo-tra-i-testimoni-gli-astronauti-dellapollo/8380292/",
+        "https://www.fanpage.it/innovazione/scienze/ufo-il-pentagono-pubblica-gli-x-files-dai-lampi-visti-nelle-missioni-apollo-agli-oggetti-non-identificati/",
+        "https://www.lastampa.it/esteri/2026/05/09/video/ufo_il_pentagono_svela_i_file_segreti_ma_lanalista_frena_nessuna_prova_di_vita_aliena-15615316/"
       ]
     }
   ]
