@@ -1,11 +1,11 @@
 {
   "date": "2026-05-10",
-  "generated_at": "Sun 10 May 12:00",
+  "generated_at": "Sun 10 May 13:49",
   "stories": [
     {
       "rank": 1,
       "title": "Hantavirus, la nave Hondius entrata nel porto di Granadilla a Tenerife",
-      "source_count": 8,
+      "source_count": 9,
       "article_count": 12,
       "source_domains": [
         "ansa.it",
@@ -15,7 +15,8 @@
         "ilgiornale.it",
         "lastampa.it",
         "repubblica.it",
-        "ilmanifesto.it"
+        "ilmanifesto.it",
+        "ilsole24ore.com"
       ],
       "links": [
         "https://www.ansa.it/sito/videogallery/mondo/2026/05/10/hantavirus-evacuati-i-primi-passeggeri-dalla-nave-mv-hondius_79bb2a56-bc48-4666-8b21-48a20452f31c.html",
@@ -28,10 +29,11 @@
     {
       "rank": 2,
       "title": "Sinner quando gioca a Roma? Battuto Ofner, ora c'è Popyrin: data, orario e dove vederla (anche in chiaro)",
-      "source_count": 7,
-      "article_count": 8,
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
         "adnkronos.com",
+        "fanpage.it",
         "ilgiornale.it",
         "repubblica.it",
         "ansa.it",
@@ -40,15 +42,37 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/sinner-internazionali-roma-2026-ruud-robot_2FLXOSZlqYFa7pPIJHxxsg",
         "https://www.adnkronos.com/sport/sinner-quando-gioca-internazionali-roma-2026-data-orario-dove-vederlo-tv-popyrin_MCxVusbtFKeCGVzLRIwte",
+        "https://www.fanpage.it/sport/tennis/a-roma-il-manifesto-di-sinner-il-campione-che-non-si-accontenta-mai-cerco-il-mio-potenziale-massimo/",
         "https://www.ilgiornale.it/news/sport/jannik-debutta-bene-roma-batte-6-3-6-4-ofner-29-vittoria-2662204.html",
-        "https://www.repubblica.it/sport/dossier/internazionali-di-tennis-italia/2026/05/09/news/sinner_ofner_risultato_internazionali-425335195/",
-        "https://www.ansa.it/sito/notizie/sport/2026/05/09/internazionali-sinner-in-campo-contro-ofner_1013e96f-1bc2-4887-8dfd-97c63c15231d.html",
-        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_internazionali_roma_prossimo_turno_data_orario_mensik_popyrin_dove_vederla_tv-9522040.html"
+        "https://www.repubblica.it/sport/dossier/internazionali-di-tennis-italia/2026/05/09/news/sinner_ofner_risultato_internazionali-425335195/"
       ]
     },
     {
       "rank": 3,
+      "title": "Motogp: dominio dell'Aprilia in Francia, vince Martin davanti a Bezzecchi",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/10/moto-gp-francia-gara-risultati-classifica-mondiale-news/8381332/",
+        "https://www.ilgiornale.it/news/motori/motogp-bagnaia-terra-martin-beffa-bezzecchi-tripletta-2662372.html",
+        "https://www.ansa.it/sito/notizie/sport/moto/2026/05/10/motogp-dominio-aprilia-in-francia-vince-martin-davanti-a-bezzecchi_d4edfcc7-fd60-4891-83f4-7b70c1a3973b.html",
+        "https://www.adnkronos.com/sport/motogp-oggi-ordine-arrivo-gp-francia-le-mans-classifica-mondiale_4nPeKifsr9yk3lRz9sTo1u",
+        "https://www.fanpage.it/sport/motori/martin-vince-la-gara-di-motogp-a-le-mans-con-una-super-rimonta-su-bezzecchi-caduta-per-bagnaia/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Putin, 'il conflitto in Ucraina sta volgendo al termine. Pronti a negoziare con la Ue'",
       "source_count": 6,
       "article_count": 8,
@@ -69,49 +93,48 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Marquez cade ancora: piede fratturato e nuova operazione alla spalla",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/blog/milleruote/marc_marquez_cade_si_frattura_a_le_mans_si_opera_saltara_due_gare_vince_ancora_l_aprilia_di_martin-9523356.html",
-        "https://www.fanpage.it/sport/motori/marquez-e-il-grave-incidente-a-le-mans-ha-un-problema-neuromuscolare-cerco-di-sopravvivere-il-corpo-non-risponde/",
-        "https://www.ilgiornale.it/news/sport/ducati-aprilia-pole-bagnaia-e-sprint-martin-paura-marquez-si-2662205.html",
-        "https://www.ilgiornale.it/news/motori/terribile-highside-all-ultimo-giro-sprint-volo-marc-marquez-2662133.html",
-        "https://www.liberoquotidiano.it/news/sport/47648974/marc-marquez-schianto-terrificante-frattura-video-choc-incidente/"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "Israele, espulsi i due attivisti della Flotilla Thiago e Saif",
+      "title": "Flotilla: espulsi da Israele i due attivisti Saif Abukeshek e Thiago Avila",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "fanpage.it",
         "ansa.it",
         "ilgiornale.it",
-        "ilfattoquotidiano.it",
         "repubblica.it",
         "ilmanifesto.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/10/flotilla-gaza-mantovani-turchia-notizie/8381258/",
         "https://www.fanpage.it/politica/flotilla-israele-libera-thiago-avila-e-saif-abukeshek-stop-alla-detenzione-arbitraria-dei-due-attivisti-rapiti-in-acque-internazionali/",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/10/flotilla-espulsi-da-israele-i-due-attivisti-thiago-e-saif_9ecfdffa-2a09-45bc-97d8-c3fc6ea619a2.html",
         "https://www.ilgiornale.it/news/cronaca-internazionale/flotilla-espulsi-israele-i-due-attivisti-thiago-avila-e-saif-2662277.html",
-        "https://www.ilfattoquotidiano.it/2026/05/10/flotilla-espulsi-da-israele-i-due-attivisti-saif-abu-keshek-e-thiago-avila/8381011/",
-        "https://www.repubblica.it/esteri/2026/05/10/news/israele_espulsi_i_due_attivisti_della_flotilla-425335344/"
+        "https://www.ilfattoquotidiano.it/2026/05/10/flotilla-espulsi-da-israele-i-due-attivisti-saif-abu-keshek-e-thiago-avila/8381011/"
       ]
     },
     {
       "rank": 6,
+      "title": "Marco Poggi e i video intimi di Chiara: “Se qualcuno li ha visti, li ha rubati”",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/10/assurda-ma-unica-spiegazione-plausibile-e-pensare-che-sempio-abbia-preso-la-chiavetta-di-chiara-cosi-marco-poggi-ai-pm-sul-mistero-dei-video-privati/8381283/",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/garlasco-chiara-disse-stefania-cappa-dei-video-l-ipotesi-2662369.html",
+        "https://milano.repubblica.it/cronaca/2026/05/10/news/stefania_cappa_chiara_poggi_video_stasi_verbali_interrogatorio-425335177/",
+        "https://www.lastampa.it/cronaca/2026/05/10/news/marco_poggi_e_i_filmati_intimi_di_chiara_se_qualcuno_li_ha_visti_li_ha_rubati-15616186/",
+        "https://www.ilmessaggero.it/italia/garlasco_marco_poggi_video_chiara_cosa_non_torna-9522068.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Vlahovic da Champions, la Juve vince a Lecce",
       "source_count": 4,
       "article_count": 6,
@@ -130,7 +153,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Hantavirus, l'esperta: \"Più letale ma diverso da Covid, non si rischia nuova pandemia\"",
       "source_count": 4,
       "article_count": 5,
@@ -149,7 +172,25 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Oggi è la festa della mamma: origini, significato e differenze tra Paesi",
+      "source_count": 3,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "ilgiornale.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/spettacoli/auguri-festa-della-mamma-vip-instagram_265k6ecwJBiP1qXjzjEhMM",
+        "https://www.adnkronos.com/politica/festa-della-mamma-da-meloni-a-conte-gli-auguri-della-politica_7v39P22Ipae22FN6nWNF8o",
+        "https://www.ilgiornale.it/news/interni/dono-pi-grande-e-sfida-pi-profonda-messaggio-meloni-festa-2662267.html",
+        "https://www.adnkronos.com/cronaca/festa-della-mamma-2026_5BEkUQylDklX1bMuWVA6dF",
+        "https://www.ilgiornale.it/news/attualit/festa-mamma-ecco-cosa-si-festeggia-e-perch-data-cambia-ogni-2662149.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Garlasco, il foglio buttato lontano da casa e quelle parole sospette: il mistero degli appunti di Sempio",
       "source_count": 4,
       "article_count": 4,
@@ -164,42 +205,6 @@
         "https://www.ilgiornale.it/news/nazionale/garlasco-foglio-buttato-lontano-casa-e-quelle-parole-2662296.html",
         "https://www.ilmessaggero.it/italia/garlasco_sempio_foglietto_rifiuti_cosa_c_e_scritto_assassino_chiara_poggi_ultime_notizie-9523227.html",
         "https://www.lastampa.it/cronaca/2026/05/10/news/garlasco_spunta_un_altro_biglietto_che_sempio_aveva_buttato_i_pm_appunti_sul_delitto-15616172/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "La Biennale apre al pubblico, lunghe code e manifestazioni contro la presenza russa",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "laverita.info",
-        "repubblica.it",
-        "lastampa.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.laverita.info/biennale-venezia-russia-ucraina-proteste-2676873989.html",
-        "https://www.repubblica.it/politica/2026/05/10/news/biennale_apertura_pubblico_e_giallo_dei_visti-425335050/",
-        "https://www.lastampa.it/cultura/2026/05/10/news/la_biennale_del_pubblico_che_chiede_basta_polemiche-15615985/",
-        "https://www.ansa.it/sito/notizie/cultura/2026/05/09/la-biennale-apre-al-pubblico-lunghe-code-e-manifestazioni-contro-la-presenza-russa_64d6a5e0-fccb-4b81-a7ee-9a3ecde4816d.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Partita la Race for the cure, in 200mila per la lotta al tumore del seno",
-      "source_count": 3,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/10/partita-la-race-for-the-cure-in-200mila-per-la-lotta-al-tumore-del_c3e396c5-acc9-4cf5-92b9-66f9dfc81d83.html",
-        "https://www.adnkronos.com/cronaca/tumori-a-roma-in-200mila-per-race-for-the-cure_36CEx9GSBt2mwV9ceNLFYU",
-        "https://www.adnkronos.com/salute/race-for-the-cure-gualtieri-clima-straordinario-evento-unico-al-mondo-video_4Jgx9cIsRA44i2dB62qWqU",
-        "https://www.ilfattoquotidiano.it/2026/05/10/race-for-the-cure-a-roma-migliaia-di-partecipanti-alla-corsa-per-la-prevenzione-del-tumore-al-seno-la-diretta/8381094/",
-        "https://www.adnkronos.com/salute/a-roma-londa-rosa-per-race-for-the-cure-sport-e-prevenzione-contro-il-tumore-al-seno-video_4tRBV9pVpxFv6ORJLOjJaQ"
       ]
     }
   ]
