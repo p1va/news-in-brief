@@ -1,12 +1,12 @@
 {
   "date": "2026-05-10",
-  "generated_at": "Sun 10 May 20:58",
+  "generated_at": "Sun 10 May 21:57",
   "stories": [
     {
       "rank": 1,
       "title": "Hantavirus, la nave Hondius entrata nel porto di Granadilla a Tenerife",
-      "source_count": 10,
-      "article_count": 20,
+      "source_count": 11,
+      "article_count": 21,
       "source_domains": [
         "ilmessaggero.it",
         "ansa.it",
@@ -17,6 +17,7 @@
         "adnkronos.com",
         "ilgiornale.it",
         "lastampa.it",
+        "ilmanifesto.it",
         "ilsole24ore.com"
       ],
       "links": [
@@ -100,6 +101,26 @@
     },
     {
       "rank": 5,
+      "title": "Crollo Milan, l'Atalanta vince 2-3: si complica la corsa Champions di Allegri. Fischi a San Siro",
+      "source_count": 5,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/calcio/apocalisse-milan-i-rossoneri-battuti-3-2-dall-atalanta-i-2662425.html",
+        "https://www.fanpage.it/sport/calcio/il-milan-si-sveglia-troppo-tardi-latalanta-vince-3-2-allegri-si-gioca-la-champions-con-la-roma/",
+        "https://www.adnkronos.com/sport/gol-annullato-fullkrug-fuorigioco-milan-atalanta-cose-successo_6jvINtLUaYyNOjJKn6f8vW",
+        "https://www.fanpage.it/sport/calcio/il-milan-affonda-con-latalanta-i-tifosi-se-ne-vanno-addirittura-allinizio-del-secondo-tempo/",
+        "https://www.adnkronos.com/sport/milan-atalanta-tifosi-stadio-fischi-protesta_7nEqGu2J8NDVy5dq9kKjsw"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Flotilla: espulsi da Israele i due attivisti Saif Abukeshek e Thiago Avila",
       "source_count": 6,
       "article_count": 7,
@@ -120,31 +141,31 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Putin, 'il conflitto in Ucraina sta volgendo al termine. Pronti a negoziare con la Ue'",
+      "rank": 7,
+      "title": "Guerra Ucraina - Russia, le news. Putin: “La guerra sta finendo. Per i negoziati vorrei Schroeder”",
       "source_count": 6,
       "article_count": 7,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "repubblica.it",
         "liberoquotidiano.it",
         "fanpage.it",
-        "ilmessaggero.it",
-        "ansa.it"
+        "ilmessaggero.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/10/ucraina-russia-guerra-ultime-notizie-oggi-10-maggio/8381355/",
         "https://www.ilgiornale.it/news/politica/paratina-putin-apre-conflitto-va-verso-fine-2662170.html",
         "https://www.repubblica.it/esteri/2026/05/10/diretta/guerra_ucraina_russia_news_oggi-425335255/",
         "https://www.liberoquotidiano.it/news/libero-video/47655876/ucraina-vladimir-putin-questione-sta-concludersi/",
-        "https://www.fanpage.it/esteri/putin-annuncia-che-la-guerra-in-ucraina-sta-finendo-e-punta-sullex-cancelliere-schroeder-come-mediatore-con-lue/",
-        "https://www.repubblica.it/esteri/2026/05/10/news/apertura_putin_europa_conflitto_kiev_sta_finendo_schroeder_negoziatore-425335192/"
+        "https://www.fanpage.it/esteri/putin-annuncia-che-la-guerra-in-ucraina-sta-finendo-e-punta-sullex-cancelliere-schroeder-come-mediatore-con-lue/"
       ]
     },
     {
-      "rank": 7,
-      "title": "Garlasco, il foglio buttato lontano da casa e quelle parole sospette: il mistero degli appunti di Sempio",
+      "rank": 8,
+      "title": "Garlasco, la difesa di Sempio: “Quel foglio con scritto ‘assassino’ era per uno spettacolo”",
       "source_count": 5,
-      "article_count": 8,
+      "article_count": 6,
       "source_domains": [
         "fanpage.it",
         "adnkronos.com",
@@ -156,28 +177,8 @@
         "https://www.fanpage.it/attualita/lavvocato-di-sempio-e-nuzzi-smontano-il-biglietto-con-la-parola-assassino-era-appunto-per-uno-spettacolo/",
         "https://www.adnkronos.com/cronaca/sempio-assassino-appunto-garlasco_3A3jURt5Asm06Go0b2qaMR",
         "https://www.lastampa.it/cronaca/2026/05/10/news/garlasco_stasi_sempio_appunto_assassino_interrogatorio_stasi-15616867/",
-        "https://www.fanpage.it/attualita/il-testo-del-biglietto-buttato-nella-spazzatura-da-andrea-sempio-i-pm-appunti-sul-delitto-di-garlasco/",
-        "https://www.ilgiornale.it/news/nazionale/garlasco-foglio-buttato-lontano-casa-e-quelle-parole-2662296.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Hantavirus, cosa sappiamo dei quattro possibili contatti rientrati in Italia: “In quarantena, ma senza sintomi”",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "laverita.info",
-        "repubblica.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/napoli/hantavirus-in-quarantena-a-casa-il-napoletano-che-era-sul-volo-con-la-donna-morta-listituto-zooprofilattico-pronti-i-laboratori-analisi/",
-        "https://www.ilgiornale.it/news/politica/firenze-donna-quarantena-non-tempo-dellallarmismo-2662187.html",
-        "https://www.fanpage.it/innovazione/scienze/hantavirus-cosa-sappiamo-dei-quattro-possibili-contatti-rientrati-in-italia-in-quarantena-ma-senza-sintomi/",
-        "https://www.laverita.info/hantavirus-quarantena-italia-2676873992.html",
-        "https://www.repubblica.it/cronaca/2026/05/10/news/hantavirus_italiani_quarantena_aereo_vittima-425335162/"
+        "https://www.ilgiornale.it/news/nazionale/garlasco-foglio-buttato-lontano-casa-e-quelle-parole-2662296.html",
+        "https://www.ilmessaggero.it/italia/garlasco_sempio_foglietto_rifiuti_cosa_c_e_scritto_assassino_chiara_poggi_ultime_notizie-9523227.html"
       ]
     },
     {
@@ -202,20 +203,21 @@
     },
     {
       "rank": 10,
-      "title": "Partita la Race for the cure, in 200mila per la lotta al tumore del seno",
-      "source_count": 3,
-      "article_count": 6,
+      "title": "Hantavirus, cosa sappiamo dei quattro possibili contatti rientrati in Italia: “In quarantena, ma senza sintomi”",
+      "source_count": 4,
+      "article_count": 5,
       "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it"
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/videogallery/italia/2026/05/10/race-for-the-cure-il-mare-rosa-di-200mila-persone-in-corsa-contro_91624ce1-04c8-49ce-95dc-456428a91130.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/10/partita-la-race-for-the-cure-in-200mila-per-la-lotta-al-tumore-del_c3e396c5-acc9-4cf5-92b9-66f9dfc81d83.html",
-        "https://www.adnkronos.com/cronaca/tumori-a-roma-in-200mila-per-race-for-the-cure_36CEx9GSBt2mwV9ceNLFYU",
-        "https://www.adnkronos.com/salute/race-for-the-cure-gualtieri-clima-straordinario-evento-unico-al-mondo-video_4Jgx9cIsRA44i2dB62qWqU",
-        "https://www.ilfattoquotidiano.it/2026/05/10/race-for-the-cure-a-roma-migliaia-di-partecipanti-alla-corsa-per-la-prevenzione-del-tumore-al-seno-la-diretta/8381094/"
+        "https://www.fanpage.it/napoli/hantavirus-in-quarantena-a-casa-il-napoletano-che-era-sul-volo-con-la-donna-morta-listituto-zooprofilattico-pronti-i-laboratori-analisi/",
+        "https://www.ilgiornale.it/news/politica/firenze-donna-quarantena-non-tempo-dellallarmismo-2662187.html",
+        "https://www.fanpage.it/innovazione/scienze/hantavirus-cosa-sappiamo-dei-quattro-possibili-contatti-rientrati-in-italia-in-quarantena-ma-senza-sintomi/",
+        "https://www.ilfattoquotidiano.it/2026/05/10/hantavirus-quarantena-volo-klm-notizie/8381103/",
+        "https://www.repubblica.it/cronaca/2026/05/10/news/hantavirus_italiani_quarantena_aereo_vittima-425335162/"
       ]
     }
   ]
