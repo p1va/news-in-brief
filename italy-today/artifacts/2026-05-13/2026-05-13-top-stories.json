@@ -1,55 +1,78 @@
 {
   "date": "2026-05-13",
-  "generated_at": "Wed 13 May 20:10",
+  "generated_at": "Wed 13 May 22:21",
   "stories": [
     {
       "rank": 1,
-      "title": "Trump arriva a Pechino per il vertice con Xi Jinping",
+      "title": "Kate Middleton a Reggio Emilia, l’arrivo, il saluto ai bambini, gli abbracci: la diretta",
       "source_count": 8,
       "article_count": 19,
       "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "unita.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "bologna.repubblica.it",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/persone/kate_middleton_principessa_reggio_emilia-9530217.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/13/la-principessa-kate-a-reggio-children-im-very-excited-_77a6e2b7-846c-4b4d-ba0f-f7cd917f4787.html",
+        "https://www.unita.it/2026/05/13/perche-kate-middleton-a-reggio-emilia-visita-progetto-pedagogico-reggio-children/",
+        "https://www.lastampa.it/cronaca/2026/05/13/news/kate_middleton_visita_reggio_emilia_look_bambini_scuola-15620711/",
+        "https://www.ilgiornale.it/news/moda/kate-middleton-2664085.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Trump arriva a Pechino per il vertice con Xi Jinping",
+      "source_count": 8,
+      "article_count": 17,
+      "source_domains": [
+        "ilmessaggero.it",
         "laverita.info",
         "ansa.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
         "fanpage.it",
-        "ilmanifesto.it",
-        "lastampa.it",
+        "unita.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ilmessaggero.it/mondo/trump_cina_xi_no_aiuti_fattore_iran_guerra-9530252.html",
         "https://www.laverita.info/trump-cina-iran-economia-elezioni-2676890726.html",
         "https://www.laverita.info/trump-pechino-vertice-xi-jinping-2676889118.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/13/trump-a-pechino-con-17-super-ceo-punta-al-board-of-trade_b0ce2f1a-8a08-46cc-bbee-20895aa49b61.html",
-        "https://www.liberoquotidiano.it/news/pillole/47710664/cina-il-presidente-usa-donald-trump-arrivato-a-pechino/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47710615/trump-arriva-a-pechino-per-il-vertice-con-xi-jinping/"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "È il giorno di Kate Middleton a Reggio Emilia: le tappe e dove il pubblico potrà incontrarla",
-      "source_count": 8,
-      "article_count": 16,
-      "source_domains": [
-        "ansa.it",
-        "unita.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "bologna.repubblica.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/13/la-principessa-kate-a-reggio-children-im-very-excited-_77a6e2b7-846c-4b4d-ba0f-f7cd917f4787.html",
-        "https://www.unita.it/2026/05/13/perche-kate-middleton-a-reggio-emilia-visita-progetto-pedagogico-reggio-children/",
-        "https://www.lastampa.it/cronaca/2026/05/13/news/kate_middleton_visita_reggio_emilia_look_bambini_scuola-15620711/",
-        "https://www.ilgiornale.it/news/moda/kate-middleton-2664085.html",
-        "https://bologna.repubblica.it/cronaca/2026/05/13/diretta/kate_middleton_italia_visita_reggio_emilia_oggi_ultime_notizie-425341937/"
+        "https://www.liberoquotidiano.it/news/pillole/47710664/cina-il-presidente-usa-donald-trump-arrivato-a-pechino/"
       ]
     },
     {
       "rank": 3,
+      "title": "L'Inter domina la Lazio, dopo lo scudetto vince la 10ma Coppa Italia",
+      "source_count": 8,
+      "article_count": 16,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/05/13/linter-domina-la-lazio-dopo-lo-scudetto-vince-la-10ma-coppa-italia_9c07bc41-eecb-42b3-aba2-430156837a7e.html",
+        "https://www.ilgiornale.it/news/calcio/l-inter-non-si-ferma-pi-e-conquista-anche-coppa-italia-2664262.html",
+        "https://www.ilgiornale.it/news/calcio/lazio-inter-pagelle-nerazzurri-dominanti-biancocelesti-2664258.html",
+        "https://www.fanpage.it/sport/calcio/linter-vince-la-coppa-italia-sfuma-il-sogno-europa-della-lazio-chivu-fa-il-bis-dopo-lo-scudetto/",
+        "https://www.ilfattoquotidiano.it/2026/05/13/inter-coppa-italia-double-scudetto-lazio-finale-analisi-commento/8385554/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Hormuz, Tajani: “Non chiediamo una nuova operazione nel Golfo, impegno solo dopo la pace”",
       "source_count": 7,
       "article_count": 15,
@@ -71,7 +94,31 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "La Lega di A tenta per il derby domenica alle 12, il Viminale dice no",
+      "source_count": 9,
+      "article_count": 12,
+      "source_domains": [
+        "repubblica.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ansa.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/calcio/serie-a/2026/05/13/news/lega_ricorso_tar_orario_derby_viminale-425343609/",
+        "https://www.ilgiornale.it/news/calcio/lega-tenta-derby-domenica-12-viminale-dice-no-2664248.html",
+        "https://www.adnkronos.com/sport/derby-roma-lazio-rimane-lunedi-18-maggio-lega-ricorso-tar_6dHudMKve9zBpfWoz4wBbf",
+        "https://www.ansa.it/sito/notizie/sport/2026/05/13/fonti-la-proposta-della-lega-calcio-sul-derby-non-e-percorribile_10c428d1-f46f-4178-9e3b-574bd55a25fd.html",
+        "https://www.fanpage.it/sport/calcio/quando-si-gioca-roma-lazio-il-derby-del-pasticcio-rifiutata-la-proposta-della-lega-serie-a/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Rintracciati madre e figli scomparsi in Friuli: “Stanno bene ma vogliono restare irreperibili”",
       "source_count": 9,
       "article_count": 12,
@@ -95,35 +142,12 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Roma-Lazio alle 12 di domenica, Serie A e Prefettura trattano sul derby: gli orari delle partite",
-      "source_count": 9,
-      "article_count": 10,
+      "rank": 7,
+      "title": "Meloni al \"premier time\". Sfida su energia, fisco e Sud",
+      "source_count": 6,
+      "article_count": 12,
       "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ansa.it",
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
         "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/calcio/lega-tenta-derby-domenica-12-viminale-dice-no-2664248.html",
-        "https://www.adnkronos.com/sport/derby-roma-lazio-rimane-lunedi-18-maggio-lega-ricorso-tar_6dHudMKve9zBpfWoz4wBbf",
-        "https://www.ansa.it/sito/notizie/sport/2026/05/13/fonti-la-proposta-della-lega-calcio-sul-derby-non-e-percorribile_10c428d1-f46f-4178-9e3b-574bd55a25fd.html",
-        "https://www.fanpage.it/sport/calcio/quando-si-gioca-roma-lazio-il-derby-del-pasticcio-rifiutata-la-proposta-della-lega-serie-a/",
-        "https://www.liberoquotidiano.it/news/pillole/47714053/simonelli_proposto_anticipare_partite_champions_domenica_alle_12_/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Governo, Meloni \"Avanti con sostegno a salari, famiglie e imprese\"",
-      "source_count": 5,
-      "article_count": 13,
-      "source_domains": [
         "liberoquotidiano.it",
         "fanpage.it",
         "repubblica.it",
@@ -131,15 +155,38 @@
         "ilgiornale.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/politica/meloni_premier_time_senato_sfida_opposizioni-9530184.html",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/47716410/standing-ovation-a-meloni-dopo-il-suo-intervento-al-premier-time-al-senato/",
         "https://www.fanpage.it/politica/nucleare-superbonus-e-tasse-cosa-ha-detto-meloni-al-premier-time-e-dove-ha-sbagliato/",
         "https://www.liberoquotidiano.it/news/pillole/47714415/governo-meloni-avanti-con-sostegno-a-salari-famiglie-e-imprese-/",
-        "https://www.liberoquotidiano.it/news/pillole/47714218/governo-meloni-porte-aperte-a-chi-vuole-confrontarsi-nel-merito-/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/47713579/meloni-al-premier-time-crediamo-che-i-salari-vadano-aumentati-rafforzando-la-contrattazione/"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Consob, Freni si ritira dalla corsa alla presidenza",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ilmanifesto.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "unita.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/freni-si-arrende-ai-veti-la-consob-resta-al-buio",
+        "https://www.repubblica.it/economia/2026/05/13/news/consob_federico_freni_intervista-425343085/",
+        "https://www.ilgiornale.it/news/interni/consob-passo-indietro-freni-2664103.html",
+        "https://www.ilfattoquotidiano.it/2026/05/13/consob-giorgetti-freni-rinuncia-meloni-notizie/8385131/",
+        "https://www.ansa.it/sito/notizie/economia/2026/05/13/freni-si-ritira-dalla-corsa-alla-presidenza-della-consob_c8490be9-c600-4cba-91bd-d8b5e301383c.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Rubavano dati su calciatori, vip e imprenditori e li rivendevano: poliziotti arrestati a Napoli",
       "source_count": 8,
       "article_count": 9,
@@ -162,7 +209,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Focolaio di gastroenterite su una nave da crociera, morto un passeggero: 1.700 persone in quarantena a Bordeaux per norovirus",
       "source_count": 7,
       "article_count": 10,
@@ -181,49 +228,6 @@
         "https://www.liberoquotidiano.it/news/esteri/47711053/bordeaux-nave-da-crociera-focolaio-gastroenterite-vomito-diarrea-un-morto-1700-in-quarantena-bordo/",
         "https://www.ilfattoquotidiano.it/2026/05/13/focolaio-di-gastroenterite-in-crociera-muore-uno-dei-passeggeri-a-bordo-della-nave-oltre-1-700-persone-in-quarantena-a-bordeaux/8385014/",
         "https://www.ilgiornale.it/news/cronaca-internazionale/nuovo-allarme-sanitario-su-nave-crociera-focolaio-2664007.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Internazionali, Darderi sfida Jodar: in palio la semifinale. Dove vedere il match in tv e a che ora",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "laverita.info"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/tennis/internazionali-roma-darderi-si-gioca-storica-semifinale-2664071.html",
-        "https://www.repubblica.it/sport/dossier/internazionali-di-tennis-italia/2026/05/13/news/dove_vedere_sinner_rublev_internazionali_roma-425342523/",
-        "https://www.adnkronos.com/sport/rublev-sinner-internazionali-roma-2026-paura_4XCGJxs9h26wocTvjz2UON",
-        "https://www.ilfattoquotidiano.it/2026/05/13/quando-gioca-oggi-darderi-jodar-internazionali-roma-dove-vedere-tv-streaming-chiaro/8384541/",
-        "https://www.fanpage.it/sport/tennis/darderi-jodar-oggi-allatp-roma-a-che-ora-vedere-la-partita-in-tv-e-in-streaming-anche-in-chiaro/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Consob, Freni si ritira dalla corsa alla presidenza",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "repubblica.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "unita.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/economia/2026/05/13/news/consob_federico_freni_intervista-425343085/",
-        "https://www.ilgiornale.it/news/interni/consob-passo-indietro-freni-2664103.html",
-        "https://www.ilfattoquotidiano.it/2026/05/13/consob-giorgetti-freni-rinuncia-meloni-notizie/8385131/",
-        "https://www.ansa.it/sito/notizie/economia/2026/05/13/freni-si-ritira-dalla-corsa-alla-presidenza-della-consob_c8490be9-c600-4cba-91bd-d8b5e301383c.html",
-        "https://www.ilfattoquotidiano.it/2026/05/13/freni-presidenza-consob-ritiro-notizie/8385081/"
       ]
     }
   ]
