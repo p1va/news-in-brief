@@ -1,12 +1,103 @@
 {
   "date": "2026-05-17",
-  "generated_at": "Sun 17 May 14:30",
+  "generated_at": "Sun 17 May 16:05",
   "stories": [
     {
       "rank": 1,
-      "title": "Modena, auto piomba sui passanti: 7 feriti, 4 in gravi condizioni: le immagini dei pedoni travolti",
-      "source_count": 9,
+      "title": "Maldive, tre esperti sub finlandesi tentano il recupero dei corpi: \"In balia degli squali, non possiamo lasciarli lì\"",
+      "source_count": 7,
+      "article_count": 18,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/17/sub-italiani-maldive-corpi-integri-notizie/8389720/",
+        "https://www.ilmessaggero.it/mondo/maldive_recupero_corpi_dove_sono_grotte_alimantha-9537932.html",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/maldive-tre-esperti-sub-finlandesi-tentano-recupero-dei-2665879.html",
+        "https://www.ilfattoquotidiano.it/2026/05/17/sub-italiani-morti-maldive-finlandesi-notizie/8389486/",
+        "https://www.fanpage.it/esteri/maldive-i-corpi-degli-italiani-intrappolati-nella-grotta-a-60-metri-sono-in-balia-degli-squali/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Internazionali, la finale: oggi Sinner-Ruud - Diretta",
+      "source_count": 8,
+      "article_count": 16,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "laverita.info",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/05/17/sinner-ruud-3-2-nel-primo-set-della-finale-degli-internazionali-ditalia_24645e7b-eb59-4c5f-bef8-ba7af2455bfc.html",
+        "https://www.adnkronos.com/sport/internazionali-roma-2026-vip-sinner-ruud-finale-mattarella-favino-fidanzata-laila-hasanovic_7nQCSU89RmaSZh04CwBVJQ",
+        "https://www.ilgiornale.it/news/tennis/internazionali-sinner-ruud-vale-titolo-gara-diretta-2665914.html",
+        "https://www.fanpage.it/sport/tennis/quanto-guadagna-sinner-se-vince-gli-internazionali-di-roma-punti-e-montepremi/",
+        "https://www.ilfattoquotidiano.it/sport-miliardi/live-post/2026/05/17/internazionali-sinner-ruud-finale-roma-diretta-commento-live/8389710/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Modena, Mattarella e Meloni visitano i feriti all'Ospedale di Baggiovara",
+      "source_count": 8,
       "article_count": 15,
+      "source_domains": [
+        "governo.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.governo.it/it/articolo/investimento-modena-il-presidente-meloni-visita-i-feriti/31836",
+        "https://www.liberoquotidiano.it/news/pillole/47763325/modena_mattarella_e_meloni_visitano_i_feriti_all_ospedale_di_baggiovara/",
+        "https://www.liberoquotidiano.it/news/pillole/47763252/mattarella_e_meloni_arrivano_all_ospedale_maggiore_di_bologna_le_immagini/",
+        "https://www.repubblica.it/politica/2026/05/17/news/mattarella_meloni_modena_auto_incidente_feriti-425351564/",
+        "https://www.adnkronos.com/cronaca/modena-auto-folla-salim-el-koudri-chi-e-cosa-e-successo_3Ab1IxoSDVmGo5nxgWIurH"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Chi è Dara, cantante della Bulgaria che ha vinto l’Eurovision Song Contest 2026 scavalcando Israele",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/persone/eurovision_dara_bulgaria_chi_e_eta_carriera-9537903.html",
+        "https://www.ilgiornale.it/news/musica/chi-dara-cantante-bulgara-che-ha-vinto-leurovision-song-2665813.html",
+        "https://www.liberoquotidiano.it/news/libero-video/47761847/eurovision-la-bulgaria-festeggia-la-sua-prima-storica-vittoria/",
+        "https://www.fanpage.it/stile-e-trend/moda/la-bulgaria-vince-leurovision-2026-dara-e-la-diva-del-palco-con-i-capelli-a-righe-bicolor/",
+        "https://www.ilgiornale.it/news/musica/eurovision-trionfo-bulgaria-seconda-israele-solo-quinto-2665745.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Modena, auto piomba sui passanti: 7 feriti, 4 in gravi condizioni: le immagini dei pedoni travolti",
+      "source_count": 8,
+      "article_count": 13,
       "source_domains": [
         "fanpage.it",
         "liberoquotidiano.it",
@@ -15,7 +106,6 @@
         "ansa.it",
         "ilmessaggero.it",
         "unita.it",
-        "bologna.repubblica.it",
         "news.google.com"
       ],
       "links": [
@@ -27,105 +117,17 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Sinner batte Medvedev e vola in finale a Roma: “Ma stanotte non ho dormito”. L’azzurro sfiderà Ruud",
-      "source_count": 9,
-      "article_count": 15,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "ilgiornale.it",
-        "laverita.info",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/sport-miliardi/live-post/2026/05/17/internazionali-sinner-ruud-finale-roma-diretta-commento-live/8389710/",
-        "https://www.adnkronos.com/sport/diretta-sinner-ruud-oggi-finale-internazionali-roma-2026-risultato-live_6tzkDkQNqrx7KzhQfbVRYO",
-        "https://www.fanpage.it/sport/live/sinner-ruud-in-diretta-la-finale-degli-internazionali-di-roma-jannik-favoritissimo/",
-        "https://www.ilgiornale.it/news/tennis/internazionali-giorno-finale-sinner-ruud-chi-norvegese-e-2665807.html",
-        "https://www.ilgiornale.it/news/sport/sinner-regola-medvedev-nel-secondo-atto-semifinale-2665704.html"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Terrore a Modena, falcia pedoni con auto. Mattarella e Meloni oggi in città. La diretta",
-      "source_count": 7,
-      "article_count": 15,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ansa.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/pillole/47763325/modena_mattarella_e_meloni_visitano_i_feriti_all_ospedale_di_baggiovara/",
-        "https://www.liberoquotidiano.it/news/pillole/47763252/mattarella_e_meloni_arrivano_all_ospedale_maggiore_di_bologna_le_immagini/",
-        "https://www.repubblica.it/politica/2026/05/17/news/mattarella_meloni_modena_auto_incidente_feriti-425351564/",
-        "https://www.adnkronos.com/cronaca/modena-auto-folla-salim-el-koudri-chi-e-cosa-e-successo_3Ab1IxoSDVmGo5nxgWIurH",
-        "https://www.liberoquotidiano.it/news/tv-news/47763648/modena-mattarella-e-meloni-visitano-feriti-in-ospedale/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Maldive, tre esperti sub finlandesi tentano il recupero dei corpi: \"In balia degli squali, non possiamo lasciarli lì\"",
-      "source_count": 5,
-      "article_count": 16,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-internazionale/maldive-tre-esperti-sub-finlandesi-tentano-recupero-dei-2665879.html",
-        "https://www.ilgiornale.it/news/politica/sepoltura-non-pu-valere-unaltra-vita-2665685.html",
-        "https://www.ilgiornale.it/news/politica/sospetto-dellesperto-dellisola-temo-che-non-fossero-2665683.html",
-        "https://www.ilgiornale.it/news/politica/sub-maldiviano-morto-cercare-i-quattro-corpi-esperti-2665684.html",
-        "https://www.ilmessaggero.it/persone/maldive_italiani_morti_gianluca_benedetti_incidente_grotta_cosa_e_successo_come_sono_mort-9537679.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "La Bulgaria di Dara trionfa all’Eurovision con Bangaranga. Sal Da Vinci quinto",
+      "rank": 6,
+      "title": "Motogp, spaventose cadute di Alex Marquez e Zarco nel Gp di Catalogna. Vince Di Giannantonio",
       "source_count": 8,
       "article_count": 12,
       "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/musica/chi-dara-cantante-bulgara-che-ha-vinto-leurovision-song-2665813.html",
-        "https://www.liberoquotidiano.it/news/libero-video/47761847/eurovision-la-bulgaria-festeggia-la-sua-prima-storica-vittoria/",
-        "https://www.fanpage.it/stile-e-trend/moda/la-bulgaria-vince-leurovision-2026-dara-e-la-diva-del-palco-con-i-capelli-a-righe-bicolor/",
-        "https://www.ilgiornale.it/news/musica/eurovision-trionfo-bulgaria-seconda-israele-solo-quinto-2665745.html",
-        "https://www.lastampa.it/spettacoli/2026/05/17/news/vienna_indifferente_a_eurovision_dall_italia_parte_pure_il_ministro-15625110/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Motogp, spaventose cadute di Alex Marquez e Zarco nel Gp di Catalogna. Vince Di Giannantonio",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "ilgiornale.it",
         "fanpage.it",
+        "liberoquotidiano.it",
         "repubblica.it",
         "lastampa.it"
       ],
@@ -139,6 +141,26 @@
     },
     {
       "rank": 7,
+      "title": "Serie A LIVE, Inter-Verona e festa Scudetto in diretta: oggi i nerazzurri sfileranno con due coppe",
+      "source_count": 5,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ansa.it",
+        "lastampa.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/calcio/festa-scudetto-san-siro-l-inter-pareggia-1-1-contro-verona-2665920.html",
+        "https://www.adnkronos.com/sport/diretta-festa-scudetto-inter-sfilata-milano-live_6jGwTsF662q4z0sDtmqEAe",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/05/17/serie-a-inter-verona-1-0-diretta-e-foto_634bee2a-7930-4a39-afff-14bf2b7be718.html",
+        "https://www.lastampa.it/sport/2026/05/17/news/inter_verona_highlights-15625683/",
+        "https://www.adnkronos.com/sport/diretta-inter-verona-oggi-serie-a-live-risultato-festa-scudetto-premiazione_4k3dnVFPMkFoxt4wTp1WiG"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Salim il laureato, la malattia mentale e quell'odio covato: \"Io un bullizzato\"",
       "source_count": 6,
       "article_count": 9,
@@ -159,7 +181,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Sciopero lunedì 18 maggio, chi si ferma e quando: da Roma a Milano, orari e fasce di garanzia",
       "source_count": 6,
       "article_count": 9,
@@ -180,44 +202,24 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Il quinto posto di Sal Da Vinci a Eurovision 2026 è una vittoria nonostante il dispiacere sul suo volto",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "fanpage.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/spettacolo/eventi/marcello-sacchetta-dopo-la-finale-delleurovision-2026-orgoglio-e-magia-unemozione-che-non-dimenticheremo-mai/",
-        "https://www.fanpage.it/cultura/il-quinto-posto-di-sal-da-vinci-a-eurovision-2026-e-una-vittoria-nonostante-il-dispiacere-sul-suo-volto/",
-        "https://www.fanpage.it/cultura/le-prime-parole-di-sal-da-vinci-dopo-il-quinto-posto-alleurovision-2026-portero-il-vostro-amore-con-me-per-sempre/",
-        "https://www.ilmessaggero.it/persone/eurovision_2026_sal_da_vinci_perche_ha_perso_televoto-9537643.html",
-        "https://www.repubblica.it/spettacoli/dossier/eurovision/2026/05/17/news/sal_da_vinci_e_le_emozioni_dell_eurovision-425350961/"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "La Juve si butta via, perde 2-0 in casa con la Fiorentina e scivola al 6° posto",
+      "title": "Volata Champions: tutte le combinazioni a 90' dal termine",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 9,
       "source_domains": [
-        "fanpage.it",
-        "adnkronos.com",
         "repubblica.it",
-        "ilgiornale.it",
         "ilmessaggero.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.fanpage.it/sport/calcio/locatelli-parla-mentre-i-tifosi-della-juventus-contestano-fanno-bene-dopo-queste-figure/",
-        "https://www.adnkronos.com/sport/spalletti-juventus-fiorentina-serie-a-parole_NbpYqc5TYp8NxiUcsGeJ8",
-        "https://www.repubblica.it/sport/calcio/serie-a/2026/05/17/news/juventus_fiorentina_gol-425351692/",
-        "https://www.ilgiornale.it/news/calcio/disastro-juventus-bianconeri-battuti-casa-2-0-fiorentina-2665858.html",
-        "https://www.ilmessaggero.it/sport/schede/juve_fiorentina_pagelle_ndour_mandragora_koopmeiners_classifica_serie_a-9537832.html"
+        "https://www.repubblica.it/sport/calcio/serie-a/2026/05/17/news/lotta_champions_serie_a_calendario_scontri_diretti-425351863/",
+        "https://www.ilmessaggero.it/sport/schede/classifica_serie_a_champions_milan_juventus_roma_como-9537877.html",
+        "https://www.fanpage.it/sport/calcio/corsa-champions-le-combinazioni-e-la-classifica-avulsa-a-90-dalla-fine-alla-juve-serve-un-miracolo/",
+        "https://www.liberoquotidiano.it/news/sport/47763914/il-milan-vince-col-genoa-e-ha-un-piede-in-champions-disastro-juve-roma-ok/",
+        "https://www.ilfattoquotidiano.it/2026/05/17/corsa-champions-juventus-napoli-milan-roma-como-calendario-risultati/8389578/"
       ]
     }
   ]
