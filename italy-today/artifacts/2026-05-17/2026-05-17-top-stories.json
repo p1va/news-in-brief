@@ -1,19 +1,20 @@
 {
   "date": "2026-05-17",
-  "generated_at": "Sun 17 May 10:28",
+  "generated_at": "Sun 17 May 12:04",
   "stories": [
     {
       "rank": 1,
       "title": "Modena, la folle corsa in auto contro i pedoni: 8 feriti. Mattarella e Meloni attesi in città",
-      "source_count": 11,
-      "article_count": 20,
+      "source_count": 12,
+      "article_count": 24,
       "source_domains": [
+        "repubblica.it",
+        "adnkronos.com",
         "ansa.it",
-        "bologna.repubblica.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "fanpage.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
         "ilmanifesto.it",
         "ilmessaggero.it",
         "unita.it",
@@ -21,25 +22,48 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.repubblica.it/politica/2026/05/17/news/mattarella_meloni_modena_auto_incidente_feriti-425351564/",
+        "https://www.adnkronos.com/cronaca/modena-auto-folla-salim-el-koudri-chi-e-cosa-e-successo_3Ab1IxoSDVmGo5nxgWIurH",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/17/modena-il-giorno-dopo-silenzio-e-choc.-oggi-la-visita-di-mattarella-e-meloni_399948e5-9b8a-43ec-83cf-bcb86958c97f.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/05/17/focus-modena-si-sveglia-sotto-shock-mattarella-e-meloni-attesi-dai-feriti_6c6c338d-09cb-466f-886c-05bc552dbd28.html",
-        "https://bologna.repubblica.it/cronaca/2026/05/17/diretta/modena_auto_incidente_morti_news_oggi-425351150/",
-        "https://www.ilgiornale.it/news/nazionale/mattarella-e-meloni-modena-l-attacco-visita-ai-feriti-2665767.html",
-        "https://www.fanpage.it/attualita/il-video-dellauto-che-travolge-i-pedoni-a-modena-limpatto-poi-la-fuga-di-salim-el-koudri-sette-i-feriti/"
+        "https://www.lastampa.it/cronaca/2026/05/17/news/mattarella_e_meloni_in_visita_ai_feriti_ricoverati_al_baggiovara_grazie_al_lavoro_dei_sanitari-15625498/",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/05/17/focus-modena-si-sveglia-sotto-shock-mattarella-e-meloni-attesi-dai-feriti_6c6c338d-09cb-466f-886c-05bc552dbd28.html"
       ]
     },
     {
       "rank": 2,
-      "title": "Naeem, il sub veterano delle Maldive: “Quella grotta è casa mia, è insidiosa anche per super esperti”",
-      "source_count": 6,
-      "article_count": 18,
+      "title": "Sinner batte Medvedev e vola in finale a Roma: “Ma stanotte non ho dormito”. L’azzurro sfiderà Ruud",
+      "source_count": 9,
+      "article_count": 13,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "laverita.info",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/live/sinner-ruud-in-diretta-la-finale-degli-internazionali-di-roma-jannik-favoritissimo/",
+        "https://www.ilgiornale.it/news/tennis/internazionali-giorno-finale-sinner-ruud-chi-norvegese-e-2665807.html",
+        "https://www.ilgiornale.it/news/sport/sinner-regola-medvedev-nel-secondo-atto-semifinale-2665704.html",
+        "https://www.adnkronos.com/sport/sinner-alcaraz-ranking-internazionali-italia-2026-roma-alcaraz-quanto-guadagna_2c8GILrJgUGTflFadnHMAC",
+        "https://www.laverita.info/tennis-sinner-punta-trono-roma-2676905142.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Maldive, la pista dell'incidente: Gianluca Benedetti ha tentato di risalire, gli altri rimasti bloccati, cosa è successo dentro la grotta?",
+      "source_count": 5,
+      "article_count": 16,
       "source_domains": [
         "ilgiornale.it",
         "ilmessaggero.it",
         "repubblica.it",
         "lastampa.it",
-        "ansa.it",
-        "news.google.com"
+        "ansa.it"
       ],
       "links": [
         "https://www.ilgiornale.it/news/politica/sepoltura-non-pu-valere-unaltra-vita-2665685.html",
@@ -50,55 +74,33 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Chi è Dara, cantante della Bulgaria che ha vinto l’Eurovision Song Contest 2026 scavalcando Israele",
-      "source_count": 7,
-      "article_count": 11,
+      "rank": 4,
+      "title": "La Bulgaria di Dara trionfa all’Eurovision con Bangaranga. Sal Da Vinci quinto",
+      "source_count": 8,
+      "article_count": 12,
       "source_domains": [
         "ilgiornale.it",
-        "ilmessaggero.it",
+        "liberoquotidiano.it",
         "fanpage.it",
         "lastampa.it",
+        "ilmessaggero.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "repubblica.it"
       ],
       "links": [
         "https://www.ilgiornale.it/news/musica/chi-dara-cantante-bulgara-che-ha-vinto-leurovision-song-2665813.html",
-        "https://www.ilmessaggero.it/persone/eurovision_2026_sal_da_vinci_perche_ha_perso_televoto-9537643.html",
+        "https://www.liberoquotidiano.it/news/libero-video/47761847/eurovision-la-bulgaria-festeggia-la-sua-prima-storica-vittoria/",
         "https://www.fanpage.it/stile-e-trend/moda/la-bulgaria-vince-leurovision-2026-dara-e-la-diva-del-palco-con-i-capelli-a-righe-bicolor/",
         "https://www.ilgiornale.it/news/musica/eurovision-trionfo-bulgaria-seconda-israele-solo-quinto-2665745.html",
         "https://www.lastampa.it/spettacoli/2026/05/17/news/vienna_indifferente_a_eurovision_dall_italia_parte_pure_il_ministro-15625110/"
       ]
     },
     {
-      "rank": 4,
-      "title": "Sinner liquida Medvedev e va in finale",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
-        "laverita.info",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "lastampa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/tennis/internazionali-giorno-finale-sinner-ruud-chi-norvegese-e-2665807.html",
-        "https://www.ilgiornale.it/news/sport/sinner-regola-medvedev-nel-secondo-atto-semifinale-2665704.html",
-        "https://www.adnkronos.com/sport/sinner-alcaraz-ranking-internazionali-italia-2026-roma-alcaraz-quanto-guadagna_2c8GILrJgUGTflFadnHMAC",
-        "https://www.laverita.info/tennis-sinner-punta-trono-roma-2676905142.html",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/05/16/sinner-i-n-finale-a-roma-contro-ruud.-svetolina-vince-tra-le-donne_24645e7b-eb59-4c5f-bef8-ba7af2455bfc.html"
-      ]
-    },
-    {
       "rank": 5,
       "title": "Salim il laureato, la malattia mentale e quell'odio covato: \"Io un bullizzato\"",
       "source_count": 6,
-      "article_count": 9,
+      "article_count": 8,
       "source_domains": [
         "ilgiornale.it",
         "laverita.info",
@@ -110,13 +112,53 @@
       "links": [
         "https://www.ilgiornale.it/news/politica/salim-laureato-malattia-mentale-e-quellodio-covato-io-2665666.html",
         "https://www.ilgiornale.it/news/nazionale/vita-solitaria-laurea-e-cure-cosa-si-sa-fino-ad-ora-sulluomo-2665757.html",
-        "https://www.ilgiornale.it/news/nazionale/i-profili-social-chiusi-e-i-sospetti-sulla-radicalizzazione-2665772.html",
         "https://www.laverita.info/lassalitore-laureato-si-sentiva-emarginato-2676904757.html",
-        "https://bologna.repubblica.it/cronaca/2026/05/17/news/salim_el_koudri_modena_cure_psichiatriche-425350889/"
+        "https://bologna.repubblica.it/cronaca/2026/05/17/news/salim_el_koudri_modena_cure_psichiatriche-425350889/",
+        "https://www.ilmessaggero.it/italia/salim_el_koudri_problemi_psichici_chi_e_cosa_sappiamo-9536570.html"
       ]
     },
     {
       "rank": 6,
+      "title": "Sciopero generale 18 maggio, dai treni alla scuola: chi si ferma e perché",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/economia/2026/05/16/sciopero-generale-di-24-ore-il-18-maggio-trasporti-a-rischio_67dac344-dcbf-4b25-8fef-440f5033408b.html",
+        "https://www.adnkronos.com/cronaca/sciopero-17-18-maggio-treni-trasporto-locale-orari-fasce-garanzia_ssTssIsYPcwLs2fmfrunb",
+        "https://www.fanpage.it/attualita/sciopero-generale-il-18-maggio-2026-si-fermano-treni-e-mezzi-pubblici-gli-orari-trenitalia-italo-e-trenord/",
+        "https://www.lastampa.it/economia/2026/05/17/news/sciopero_18_maggio_stop_a_treni_e_autobus_disagi_anche_per_scuola_e_sanita-15625266/",
+        "https://www.fanpage.it/napoli/sciopero-a-napoli-il-18-maggio-stop-a-bus-metro-e-funicolari-anm-orari-e-chi-aderisce/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Le prime parole di Sal Da Vinci dopo il quinto posto all’Eurovision 2026: “Porterò il vostro amore con me per sempre”",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "fanpage.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/cultura/il-quinto-posto-di-sal-da-vinci-a-eurovision-2026-e-una-vittoria-nonostante-il-dispiacere-sul-suo-volto/",
+        "https://www.fanpage.it/cultura/le-prime-parole-di-sal-da-vinci-dopo-il-quinto-posto-alleurovision-2026-portero-il-vostro-amore-con-me-per-sempre/",
+        "https://www.ilmessaggero.it/persone/eurovision_2026_sal_da_vinci_perche_ha_perso_televoto-9537643.html",
+        "https://www.repubblica.it/spettacoli/dossier/eurovision/2026/05/17/news/sal_da_vinci_e_le_emozioni_dell_eurovision-425350961/",
+        "https://www.ilfattoquotidiano.it/2026/05/16/eurovision-song-contest-2026-sal-da-vinci-piange-al-termine-di-per-sempre-si-boato-e-ovazioni-in-arena/8389275/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Serie A, oggi Juve-Fiorentina: orario, probabili formazioni e dove vederla",
       "source_count": 2,
       "article_count": 9,
@@ -133,45 +175,25 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Modena, così i passanti hanno bloccato Samir El Koudiri in 11 secondi",
-      "source_count": 4,
-      "article_count": 6,
+      "rank": 9,
+      "title": "Serie A, Roma-Lazio 0-0 - Diretta",
+      "source_count": 3,
+      "article_count": 7,
       "source_domains": [
-        "ilmessaggero.it",
         "ansa.it",
-        "lastampa.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/persone/modena_auto_luca_signorelli_chi_e_video_ha_fermato_el_koudri_eroe_cosa_ha_fatto-9537758.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/05/16/modena-il-racconto-di-luca-signorelli-che-ha-bloccato-linvestitore.-mattarella-lo-ringrazia_780821c0-2201-4333-83f5-19f7cf34f74c.html",
-        "https://www.lastampa.it/cronaca/2026/05/17/video/il_momento_in_cui_e_stato_bloccato_salim_el_koudri_luomo_del_folle_assalto_di_modena-15625268/",
-        "https://www.ilgiornale.it/news/cronaca-nera/modena-cos-i-passanti-hanno-fermato-samir-el-koudiri-11-2665652.html",
-        "https://www.ilgiornale.it/news/cronaca-nera/luca-signorelli-chi-l-eroe-che-ha-fermato-l-investitore-2665659.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Sciopero generale 18 maggio, dai treni alla scuola: chi si ferma e perché",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
         "adnkronos.com",
-        "fanpage.it",
-        "lastampa.it",
         "ilmessaggero.it"
       ],
       "links": [
-        "https://www.adnkronos.com/cronaca/sciopero-17-18-maggio-treni-trasporto-locale-orari-fasce-garanzia_ssTssIsYPcwLs2fmfrunb",
-        "https://www.fanpage.it/attualita/sciopero-generale-il-18-maggio-2026-si-fermano-treni-e-mezzi-pubblici-gli-orari-trenitalia-italo-e-trenord/",
-        "https://www.lastampa.it/economia/2026/05/17/news/sciopero_18_maggio_stop_a_treni_e_autobus_disagi_anche_per_scuola_e_sanita-15625266/",
-        "https://www.fanpage.it/napoli/sciopero-a-napoli-il-18-maggio-stop-a-bus-metro-e-funicolari-anm-orari-e-chi-aderisce/",
-        "https://www.fanpage.it/roma/sciopero-a-roma-il-18-maggio-stop-ai-mezzi-atac-gli-orari-di-bus-metro-e-tram-e-chi-aderisce/"
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/05/17/serie-a-roma-lazio-2-0-e-genoa-milan-0-2-diretta-e-foto_0e63b413-1fd7-4432-b5a1-cf491b4cea65.html",
+        "https://www.adnkronos.com/sport/roma-lazio-espulsi-rovella-wesley-rissa-cose-successo_3JJMA6St8ER0MwCxHPKtJs",
+        "https://www.adnkronos.com/sport/roma-lazio-rigore-rovella-celik-contatto-gasperini-proteste_1xmTLeaB7UBYjk8UtSDKMS",
+        "https://www.adnkronos.com/sport/gol-annullato-dia-roma-lazio-fuorigioco-cose-successo_7hQ9cSayCNI4G5tIFnojMq",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/05/17/serie-a-roma-lazio-0-0-e-genoa-milan-0-0-diretta-e-foto_0e63b413-1fd7-4432-b5a1-cf491b4cea65.html"
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Amici, chi sono i cinque finalisti: tre ballerini, due cantanti",
       "source_count": 4,
       "article_count": 5,
@@ -187,24 +209,6 @@
         "https://www.adnkronos.com/spettacoli/amici-oggi-finale-diretta-canale-5_6HMzvOrftgcgPN8xI3Tw61",
         "https://www.fanpage.it/spettacolo/interviste/amici-25-fabrizio-prolli-vincera-alessio-o-emiliano-alessandra-celentano-su-veronica-peparini-ha-detto-stronte/",
         "https://www.ansa.it/sito/notizie/cultura/2026/05/16/sfida-a-cinque-per-la-vittoria-finale-ad-amici-2026_ce06d9f4-6753-4d3f-ac57-d28fd0af212c.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Terrore a Modena: con l'auto a 100 all'ora sui pedoni. L'uomo accusato di strage",
-      "source_count": 3,
-      "article_count": 6,
-      "source_domains": [
-        "laverita.info",
-        "liberoquotidiano.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.laverita.info/modena-auto-folla-2676904770.html",
-        "https://www.liberoquotidiano.it/news/italia/47756993/salim-el-koudri-chi-e-31enne-investito-pedoni-modena-laureato-economia-incensurato/",
-        "https://www.liberoquotidiano.it/news/italia/47754802/modena-auto-folle-velocita-falcia-decine-persone-ci-sono-feriti-gravi/",
-        "https://www.agi.it/cronaca/news/2026-05-17/modena-auto-sui-pedoni-37090525/",
-        "https://www.agi.it/cronaca/news/2026-05-16/chi-e-attentatore-modena-37086716/"
       ]
     }
   ]
