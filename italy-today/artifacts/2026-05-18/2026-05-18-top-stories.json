@@ -1,36 +1,104 @@
 {
   "date": "2026-05-18",
-  "generated_at": "Mon 18 May 10:18",
+  "generated_at": "Mon 18 May 14:36",
   "stories": [
     {
       "rank": 1,
       "title": "Sinner vince gli Internazionali di Roma: \"Sono sempre molto emozionato quando c'è Mattarella\"",
-      "source_count": 12,
-      "article_count": 24,
+      "source_count": 11,
+      "article_count": 33,
       "source_domains": [
+        "adnkronos.com",
         "fanpage.it",
         "ilfattoquotidiano.it",
-        "adnkronos.com",
+        "liberoquotidiano.it",
         "ansa.it",
         "ilmessaggero.it",
         "repubblica.it",
         "lastampa.it",
-        "liberoquotidiano.it",
         "ilgiornale.it",
         "ilmanifesto.it",
-        "laverita.info",
         "news.google.com"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/sinner-internazionali-2026-cosa-ha-fatto-dove-ha-cenato-cosa-ha-mangiato-roma_5qViePUZ2TKgBvTwto3qr1",
+        "https://www.adnkronos.com/sport/sinner-mattarella-binaghi-internazionali-2026-rapporto-strappo_4BOQ2CyJzqMQu80Y8x1qAX",
         "https://www.fanpage.it/sport/tennis/panatta-sinner-mi-ha-fatto-sorridere-durante-la-premiazione-con-mattarella-e-stato-dolcissimo/",
         "https://www.ilfattoquotidiano.it/2026/05/18/sinner-dominio-roma-divario-alcaraz-nuova-classifica-atp-oggi/8390268/",
-        "https://www.adnkronos.com/sport/sinner-quando-gioca-roland-garros-date-orari-dove-vederlo-tv-internazionali-roma-2026_QHmI5PptIOWvZpVV9tOpt",
-        "https://www.ansa.it/sito/notizie/sport/2026/05/18/tennis-sinner-vola-nel-ranking-atp-2740-punti-su-alcaraz_a977d6ac-387e-40dd-86fa-e42d0a0ea732.html",
-        "https://www.adnkronos.com/sport/sinner-mattarella-genitori-vittoria-internazionali-2026-roma_1HyK9wlUcllYpSgar94NB"
+        "https://www.liberoquotidiano.it/news/pillole/47772187/paltrinieri_momento_d_oro_per_lo_sport_italiano_ho_tifato_sinner_/"
       ]
     },
     {
       "rank": 2,
+      "title": "Israele intercetta la Flotilla diretta a Gaza: abbordate alcune imbarcazioni vicino a Cipro",
+      "source_count": 11,
+      "article_count": 13,
+      "source_domains": [
+        "fanpage.it",
+        "laverita.info",
+        "ilmanifesto.it",
+        "unita.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/live/governo-meloni-ultime-notizie-crisi-dimissioni-18-maggio-diretta/",
+        "https://www.laverita.info/idf-sequestro-flotilla-gaza-2676907332.html",
+        "https://ilmanifesto.it/flotilla-per-gaza-sotto-attacco-in-acque-internazionali",
+        "https://www.unita.it/2026/05/18/flotilla-gaza-attaccata-idf-cipro-barche-fermati-italiani/",
+        "https://www.liberoquotidiano.it/news/tv-news/47775234/flotilla-netanyahu-elogia-marina-israeliana-sventato-piano-malvagio/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Trump all'Iran: intesa o fine. Emirati, colpito sito nucleare",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "fanpage.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-18-maggio/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/18/medio-oriente-media-liran-apre-a-lungo-stop-del-programma-nucleare_edde9275-dfb0-4339-9f38-567c7853d6c9.html",
+        "https://www.ilgiornale.it/news/politica/trump-alliran-intesa-o-fine-emirati-colpito-sito-nucleare-2665973.html",
+        "https://www.repubblica.it/esteri/2026/05/18/diretta/guerra_iran_usa_israele_news_oggi-425352724/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/18/-lultimatum-di-trump-liran-accetti-laccordo-o-sparira-_edde9275-dfb0-4339-9f38-567c7853d6c9.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Maldive, missione esplorativa dei sub finlandesi: in forse il recupero dei corpi degli italiani",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/18/individuati-i-corpi-dei-4-italiani-alle-maldive-si-tentera-il-recupero-tra-domani_ac8eace9-4fa5-4651-b932-2efdedfbf874.html",
+        "https://www.fanpage.it/esteri/sub-morti-intervengono-i-sommozzatori-finlandesi-le-maldive-non-cera-richiesta-per-limmersione-in-grotta/",
+        "https://www.ilmessaggero.it/persone/maldive_grotta_degli_squali_sub_corpi_individuati_dove_sono_alimatha_recupero-9539453.html",
+        "https://www.ilgiornale.it/news/politica/maldive-ipotesi-choc-miscela-inadeguata-gas-nelle-bombole-2665975.html",
+        "https://www.repubblica.it/cronaca/2026/05/18/diretta/maldive_italiani_morti_ultime_notizie_oggi-425353025/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Due donne trovate morte in cantiere nel Napoletano: ipotesi duplice omicidio, interrogato sospettato",
       "source_count": 8,
       "article_count": 8,
@@ -53,7 +121,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 6,
       "title": "Coppa e scudetto. La festa dell'Inter",
       "source_count": 5,
       "article_count": 11,
@@ -73,29 +141,28 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Maldive, missione esplorativa dei sub finlandesi: in forse il recupero dei corpi degli italiani",
-      "source_count": 7,
-      "article_count": 8,
+      "rank": 7,
+      "title": "Zelensky: 'Pesanti raid nella notte, un drone russo colpisce una nave cinese'",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
-        "repubblica.it",
-        "fanpage.it",
+        "adnkronos.com",
         "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "news.google.com"
+        "laverita.info",
+        "liberoquotidiano.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/maldive-ipotesi-choc-miscela-inadeguata-gas-nelle-bombole-2665975.html",
-        "https://www.repubblica.it/cronaca/2026/05/18/diretta/maldive_italiani_morti_ultime_notizie_oggi-425353025/",
-        "https://www.fanpage.it/innovazione/scienze/sub-morti-alle-maldive-ora-i-soccorritori-usano-il-rebreather-cose-il-sistema-a-circuito-chiuso/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/grotte-sommerse-e-missione-impossibile-chi-sono-i-super-sub-2666121.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/18/maldive-al-via-limmersione-del-team-per-il-recupero-dei-corpi_ac8eace9-4fa5-4651-b932-2efdedfbf874.html"
+        "https://www.ilgiornale.it/news/guerra/nave-cinese-attaccata-dai-russi-cosa-succede-nel-mar-nero-2666175.html",
+        "https://www.ilgiornale.it/news/politica/rappresaglia-zelensky-droni-su-mosca-3-morti-2665974.html",
+        "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-18-maggio-2026_3WKpdT4Yv272JyTGzk2K2T",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/18/zelensky-pesanti-raid-russi-nella-notte-un-drone-russo-colpisce-una_2ce906b5-8929-45ac-b6e4-c9ff2e96ec56.html",
+        "https://www.laverita.info/droni-ucraini-mosca-2676906378.html"
       ]
     },
     {
-      "rank": 5,
+      "rank": 8,
       "title": "Sciopero generale, lunedì nero per trasporti e servizi: quali sono le fasce garantite",
       "source_count": 6,
       "article_count": 6,
@@ -116,28 +183,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "\"Bastardi cristiani di merda\", \"Il vostro gesù cristo lo brucio\": le mail del 2021 scritte da Salim El Koudri all'università di Modena",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "unita.it",
-        "bologna.repubblica.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/18/modena-oggi-ludienza-di-convalida-del-fermo-di-el-koudri_1887920f-f2dc-471d-bc4f-33d89412f812.html",
-        "https://www.unita.it/2026/05/18/chi-e-salim-el-koudri-attacco-modena-auto/",
-        "https://bologna.repubblica.it/cronaca/2026/05/18/news/salim_el_koudri_lettera_universita_investitore_modena-425353375/",
-        "https://www.ilgiornale.it/news/cronaca-nera/bastardi-cristiani-merda-vostro-ges-cristo-brucio-mail-2021-2666127.html",
-        "https://www.ilmessaggero.it/italia/modena_salim_el_koudri_mail_bastardi_cristiani_gesu_cristo-9539339.html"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 9,
       "title": "Voto in Andalusia: vince il Pp senza maggioranza, disfatta annunciata per Sanchez. Cresce Vox",
       "source_count": 6,
       "article_count": 6,
@@ -158,64 +204,23 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Zelensky: 'Pesanti raid nella notte, un drone russo colpisce una nave cinese'",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ansa.it",
-        "laverita.info",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/rappresaglia-zelensky-droni-su-mosca-3-morti-2665974.html",
-        "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-18-maggio-2026_3WKpdT4Yv272JyTGzk2K2T",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/18/zelensky-pesanti-raid-russi-nella-notte-un-drone-russo-colpisce-una_2ce906b5-8929-45ac-b6e4-c9ff2e96ec56.html",
-        "https://www.laverita.info/droni-ucraini-mosca-2676906378.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47771469/ucraina-i-droni-russi-attaccano-odessa-feriti/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Trump all'Iran: intesa o fine. Emirati, colpito sito nucleare",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/trump-alliran-intesa-o-fine-emirati-colpito-sito-nucleare-2665973.html",
-        "https://www.repubblica.it/esteri/2026/05/18/diretta/guerra_iran_usa_israele_news_oggi-425352724/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/18/-lultimatum-di-trump-liran-accetti-laccordo-o-sparira-_edde9275-dfb0-4339-9f38-567c7853d6c9.html",
-        "https://www.ilgiornale.it/news/guerra/trump-minaccia-teheran-loro-tempo-stringe-e-pentagono-2666071.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47770907/nuove-minacce-di-trump-iran-accetti-accordo-o-non-restera-piu-nulla/"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Flotilla, Israele prende il controllo delle barche al largo di Cipro. Fermati anche alcuni italiani",
+      "title": "Meloni alla Ue: deroga al Patto per l’energia. Replica: posizione non cambia",
       "source_count": 5,
       "article_count": 6,
       "source_domains": [
-        "ansa.it",
+        "ilfattoquotidiano.it",
+        "laverita.info",
         "ilgiornale.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
+        "ansa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/18/lidf-sequestra-al-largo-di-cipro-le-barche-della-flotilla-dirette-verso-gaza_812876f6-44c1-4608-b01f-e70088b26308.html",
-        "https://www.ilgiornale.it/news/politica-internazionale/israele-ferma-flotilla-largo-cipro-l-idf-prende-controllo-2666093.html",
-        "https://www.ilmessaggero.it/mondo/flotilla_idf_barche_sequestrate_cipro_gaza-9539284.html",
-        "https://www.repubblica.it/esteri/2026/05/18/news/flotilla_israele_assalto_missione_gaza-425353154/",
-        "https://www.lastampa.it/esteri/2026/05/18/news/flotilla_gaza_intercettata_israele-15626351/"
+        "https://www.ilfattoquotidiano.it/2026/05/18/la-commissione-ue-risponde-a-meloni-no-a-clausola-di-salvaguardia-allargata-alle-spese-per-affrontare-la-crisi-energetica/8390365/",
+        "https://www.laverita.info/meloni-europa-patto-stabilita-2676906717.html",
+        "https://www.ilgiornale.it/news/politica/meloni-bruxelles-serve-flessibilit-caro-energia-2665972.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/05/18/meloni-a-von-der-leyen-deroga-al-patto-sullenergia-o-safe-a-rischio_c48e7248-701a-4c7e-be4c-6efe4d66bec2.html",
+        "https://www.ilgiornale.it/news/governo/lettera-meloni-von-der-leyen-estendere-allenergia-deroga-2665941.html"
       ]
     }
   ]
