@@ -1,16 +1,18 @@
 {
   "date": "2026-05-22",
-  "generated_at": "Fri 22 May 12:29",
+  "generated_at": "Fri 22 May 15:55",
   "stories": [
     {
       "rank": 1,
       "title": "Addio al fondatore di Slow Food “Carlin” Petrini",
-      "source_count": 11,
-      "article_count": 15,
+      "source_count": 13,
+      "article_count": 18,
       "source_domains": [
+        "repubblica.it",
+        "liberoquotidiano.it",
         "governo.it",
         "ansa.it",
-        "repubblica.it",
+        "unita.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "fanpage.it",
@@ -21,15 +23,63 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.repubblica.it/esteri/2026/05/22/news/re_carlo_petrini_slow_food-425363414/",
+        "https://www.liberoquotidiano.it/news/tv-news/47830470/addio-a-carlo-petrini-il-rivoluzionario-del-cibo-buono-pulito-e-giusto/",
         "https://www.governo.it/it/articolo/scomparsa-di-carlin-petrini-il-cordoglio-del-presidente-meloni/31889",
         "https://www.ansa.it/sito/notizie/politica/2026/05/22/genio-visionario-maestro-ambasciatore-di-tradizioni-e-costruttore.-litalia-ricorda-carlo-petrini_8c9527fd-82f4-4d81-854e-5f369464ad1c.html",
-        "https://www.repubblica.it/cronaca/2026/05/22/diretta/morto_carlo_petrini_slow_food_reazioni-425362509/?ref=RHLF-BG-P3-S1-T1-PP",
-        "https://www.adnkronos.com/cronaca/morte-carlo-petrini-mattarella-ricordo-cordoglio-la-russa-tajani_mDNPh3RbZYdMhuVqeqpIv",
-        "https://www.ansa.it/piemonte/notizie/2026/05/22/morto-carlo-petrini-fondatore-di-slow-food-e-terra-madre_67c45798-c805-46ac-809f-ab6eef030074.html"
+        "https://www.repubblica.it/cronaca/2026/05/22/diretta/morto_carlo_petrini_slow_food_reazioni-425362509/?ref=RHLF-BG-P3-S1-T1-PP"
       ]
     },
     {
       "rank": 2,
+      "title": "Maldive, il sub capo missione: “Così abbiamo recuperato i corpi. Erano a 15 minuti dalla superficie”",
+      "source_count": 8,
+      "article_count": 14,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "laverita.info",
+        "ansa.it",
+        "repubblica.it",
+        "fanpage.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-internazionale/maldive-grotta-dove-sono-morti-i-sub-italiani-ecco-prime-2668535.html",
+        "https://www.ilgiornale.it/news/attualit/potrebbe-essere-stato-errore-umano-racconto-capo-sub-dei-2668531.html",
+        "https://www.ilmessaggero.it/mondo/maldive_foto_grotta_italiani_morti_cosa_e_successo_davvero-9548415.html",
+        "https://www.lastampa.it/cronaca/2026/05/22/news/maldive_foto_grotta_sub_italiani_morti-15632429/",
+        "https://www.laverita.info/sub-recupero-italiani-maldive-2676930276.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "La leghista Piazza evoca Modena al comizio di Schlein: sospesa. Meloni: “Parole inaccettabili”",
+      "source_count": 10,
+      "article_count": 10,
+      "source_domains": [
+        "fanpage.it",
+        "unita.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "governo.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/milano/augura-a-elly-schlein-di-essere-investita-durante-il-comizio-a-lecco-sospesa-la-leghista-debora-piazza/",
+        "https://www.unita.it/2026/05/22/leghista-piazza-post-modena-contro-comizio-schlein-lecco/",
+        "https://www.ansa.it/sito/notizie/politica/2026/05/22/frase-choc-su-schlein-di-una-dirigente-della-lega-a-lecco.-meloni-parole_d5f5a3eb-886d-41b9-ab9d-ea498c61c740.html",
+        "https://www.ilmessaggero.it/politica/debora_piazza_consigliera_lega_lecco_modena_schlein_cosa_e_successo-9548457.html",
+        "https://www.ilgiornale.it/news/interni/lecco-augura-schlein-essere-investita-bufera-sulla-leghista-2668515.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Caso Epstein: “Andrea investigato anche per sospetti reati sessuali commessi a Windsor”",
       "source_count": 9,
       "article_count": 9,
@@ -53,33 +103,51 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Flotilla, tornano gli attivisti: «Siamo stati torturati dagli israeliani. Abusi sessuali sulle donne»",
-      "source_count": 5,
-      "article_count": 8,
+      "rank": 5,
+      "title": "Flotilla, attivisti atterrati a Fiumicino: \"Ore di botte, sevizie e torture\"",
+      "source_count": 6,
+      "article_count": 12,
       "source_domains": [
+        "firenze.repubblica.it",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "ansa.it",
-        "repubblica.it",
         "lastampa.it",
         "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/i-militanti-accusano-torture-ritorno-aereo-loro-spese-2668143.html",
-        "https://www.ansa.it/sito/videogallery/italia/2026/05/22/flotilla-bundu-umiliazione-facendoci-spogliare-incatenati-facendo-terrorismo-psicologico_7e6e9416-1bd9-49a7-bd80-9a69ae0d55a9.html",
-        "https://www.ilgiornale.it/news/politica-internazionale/picchiati-ammanettati-e-torturati-ritorno-degli-attivisti-2668276.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/05/22/prime-pagine-la-denuncia-degli-attivisti-della-flotilla-botte-catene-e-abusi_7c5908ba-2089-4173-9c3e-5ec1579daf65.html",
-        "https://www.repubblica.it/politica/2026/05/22/news/flotilla_attivisti_italia_non_paga_i_biglietti-425362083/"
+        "https://firenze.repubblica.it/cronaca/2026/05/22/news/flotilla_toscani_bundu_salvetti_torture-425363773/",
+        "https://www.repubblica.it/politica/2026/05/22/news/flotilla_tortura_interrogatori-425363340/",
+        "https://www.liberoquotidiano.it/news/libero-video/47828604/flotilla-attivisti-atterrati-fiumicino-ore-botte-sevizie-torture/",
+        "https://www.liberoquotidiano.it/news/tv-news/47830232/flotilla-attivisti-a-istanbul-costole-rotte-come-guantanamo-/",
+        "https://www.ilgiornale.it/news/politica/i-militanti-accusano-torture-ritorno-aereo-loro-spese-2668143.html"
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "title": "\"Infrastrutture\", l'intervento di Riccardo Morelli",
+      "source_count": 1,
+      "article_count": 13,
+      "source_domains": [
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/47822175/-infrastrutture-l-intervento-di-edoardo-rixi/",
+        "https://www.liberoquotidiano.it/news/libero-video/47827845/-infrastrutture-l-intervento-di-riccardo-morelli/",
+        "https://www.liberoquotidiano.it/news/libero-video/47827849/-infrastrutture-l-intervento-di-stefano-paggi/",
+        "https://www.liberoquotidiano.it/news/libero-video/47822209/-infrastrutture-l-intervento-di-antonio-morabito/",
+        "https://www.liberoquotidiano.it/news/libero-video/47822197/-infrastrutture-l-intervento-di-cristiana-marrone/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Beatrice Bellucci morta sulla Colombo, la perizia ribalta tutto: indagata l’amica Silvia Piancazzo",
-      "source_count": 5,
-      "article_count": 6,
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
+        "liberoquotidiano.it",
         "roma.repubblica.it",
         "lastampa.it",
         "fanpage.it"
@@ -87,32 +155,13 @@
       "links": [
         "https://www.ilfattoquotidiano.it/2026/05/22/morte-beatrice-bellucci-indagine-perizia-notizie/8395592/",
         "https://www.ilmessaggero.it/roma/eur/beatrice_bellucci_amica_indagata_silvia_piancazzo_cosa_e_successo_roma_incidente-9548243.html",
+        "https://www.liberoquotidiano.it/news/italia/47828359/beatrice-bellucci-clamoroso-ribaltone-nell-incidente-indagata-la-migliore-amica/",
         "https://roma.repubblica.it/cronaca/2026/05/22/news/beatrice_bellucci_morta_colombo_pena_omicidio_stradale_concorso_responsabilita_silvia_piancazz-425362969/",
-        "https://www.lastampa.it/cronaca/2026/05/22/news/beatrice_bellucci_incidente_colombo_indagata_amica-15632135/",
-        "https://www.fanpage.it/roma/incidente-sulla-colombo-per-la-morte-di-beatrice-bellucci-indagata-anche-la-sua-amica-andava-troppo-veloce/"
+        "https://www.lastampa.it/cronaca/2026/05/22/news/beatrice_bellucci_incidente_colombo_indagata_amica-15632135/"
       ]
     },
     {
-      "rank": 5,
-      "title": "La direttrice dei sub finlandesi: “Ecco come abbiamo agito nelle grotte delle Maldive”",
-      "source_count": 4,
-      "article_count": 7,
-      "source_domains": [
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/esteri/sub-morti-maldive-le-ipotesi-su-cosa-e-successo-nelle-grotte-autopsia-e-attrezzature-i-prossimi-passi/",
-        "https://www.ilfattoquotidiano.it/2026/05/22/sub-italiani-maldive-speleosub-finlandese-notizie/8395267/",
-        "https://www.ilmessaggero.it/persone/maldive_sub_come_sono_morti_corridoio_30_metri_uscita_sbagliata_bombole_cosa_e_successo_ricostruzione_oggi-9548031.html",
-        "https://www.lastampa.it/cronaca/2026/05/22/video/maldive_i_sub_che_hanno_recuperato_i_corpi_volevamo_aiutare_le_famiglie-15632043/",
-        "https://www.lastampa.it/cronaca/2026/05/22/news/maldive_sub_finlandesi_recupero_corpi_dan_europe-15631671/"
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 8,
       "title": "Raid di Kiev sugli 007 russi: cento morti",
       "source_count": 5,
       "article_count": 5,
@@ -132,76 +181,43 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "'Botte e abusi sessuali', racconti shock della Flotilla. Rientrati gli italiani rilasciati da Israele",
-      "source_count": 4,
+      "rank": 9,
+      "title": "Stellantis svela il Piano: 60 miliardi di investimenti",
+      "source_count": 5,
       "article_count": 5,
       "source_domains": [
         "ilfattoquotidiano.it",
+        "unita.it",
         "ansa.it",
-        "laverita.info",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/22/flotilla-gaza-testimoni-italiani-ben-gvir-notizie/8395567/",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/05/22/flotilla-gaza-israele-ultime-notizie/8395524/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/21/la-denuncia-degli-attivisti-botte-catene-e-abusi-sessuali_e9136f02-0fd2-4e95-80a1-d12029a2baed.html",
-        "https://www.laverita.info/flotilla-rilascio-attivisti-2676927717.html",
-        "https://www.agi.it/cronaca/news/2026-05-22/flotilla-italiani-rientro-racconti-violenza-37177329/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Trump su Hormuz: Vogliamo che lo Stretto sia libero e senza pedaggi",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
         "ilgiornale.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
+        "ilmanifesto.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/guerra/bozza-dintesa-usa-iran-luranio-ultimo-ostacolo-2668313.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47828368/trump-su-hormuz-vogliamo-che-lo-stretto-sia-libero-e-senza-pedaggi/",
-        "https://www.repubblica.it/esteri/2026/05/22/news/hormuz_iran_si_allarga_trump_niente_pedaggi_ci_prenderemo_l_uranio-425362015/",
-        "https://www.lastampa.it/esteri/2026/05/22/news/trump_iran_guerra_accordo-15631511/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Tajani aspetta le scuse. \"Sanzioni per Ben Gvir\"",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "unita.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/tajani-aspetta-scuse-sanzioni-ben-gvir-2668146.html",
-        "https://www.repubblica.it/politica/2026/05/22/news/governo_meloni_sanzioni_israele_ben_gvir_flotilla-425362137/",
-        "https://ilmanifesto.it/tajani-chiediamo-allue-sanzioni-al-ministro-le-opposizioni-non-basta",
-        "https://www.unita.it/2026/05/21/caso-ben-gvir-crisi-tra-italia-e-israele-perche-meloni-ha-convocato-lambasciatore/"
+        "https://www.ilfattoquotidiano.it/2026/05/22/da-fiat-quattrolino-ai-nuovi-suv-multienergia-cosi-cambia-la-galassia-stellantis/8395696/",
+        "https://www.unita.it/2026/05/22/stellantis-lpromesse-piano-filosa-stabilimento-italia-miliardi-modelli-2030/",
+        "https://www.ansa.it/sito/notizie/economia/2026/05/21/filosa-non-chiuderemo-gli-impianti-in-italia-e-in-europa_e1e059a7-377c-427f-812e-716f375d7e54.html",
+        "https://www.ilgiornale.it/news/aziende/stellantis-svela-piano-60-miliardi-investimenti-2668226.html",
+        "https://ilmanifesto.it/stellantis-il-nuovo-piano-e-gia-vecchio-investimenti-negli-usa-gelo-sullitalia"
       ]
     },
     {
       "rank": 10,
-      "title": "Cristiano Ronaldo trionfa in Arabia e scoppia a piangere. La delusione di Inzaghi (2°): “Imbattuti, ma abbiamo vinto solo la Coppa”",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Guardiola lascia il Manchester City: “Niente è eterno, tranne l’amore che provo per questa maglia”",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "fanpage.it",
-        "repubblica.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
-        "lastampa.it"
+        "fanpage.it",
+        "ilgiornale.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.fanpage.it/sport/calcio/in-arabia-dilaga-lhashtag-contro-simone-inzaghi-i-tifosi-dellal-hilal-non-vogliono-piu-vederlo/",
-        "https://www.repubblica.it/sport/calcio/esteri/2026/05/22/news/simone_inzaghi_sconfitta_arabia_saudita_ronaldo-425362822/",
-        "https://www.ilfattoquotidiano.it/2026/05/22/cristiano-ronaldo-arabia-saudita-al-nassr-inzaghi-secondo-delusione-imbattuti-ma-abbiamo-vinto-solo-la-coppa/8395247/",
-        "https://www.lastampa.it/sport/2026/05/22/video/lal-nassr_di_ronaldo_vince_il_campionato_darabia_i_tifosi_invadono_le_strade_di_riad-15631921/"
+        "https://www.liberoquotidiano.it/news/tv-news/47831208/guardiola-annuncia-l-addio-al-city-sono-stati-10-anni-incredibili/",
+        "https://www.ilfattoquotidiano.it/2026/05/22/pep-guardiola-addio-ufficiale-manchester-city-annunciato-nuovo-incarico/8395538/",
+        "https://www.fanpage.it/sport/calcio/guardiola-via-dal-manchester-city-e-ufficiale-non-chiedetemi-i-motivi-avra-un-nuovo-ruolo/",
+        "https://www.ilgiornale.it/news/calcio/nulla-eterno-pep-guardiola-dice-addio-manchester-city-2668436.html",
+        "https://www.repubblica.it/sport/calcio/esteri/2026/05/22/news/guardiola_addio_manchester_city-425363113/"
       ]
     }
   ]
