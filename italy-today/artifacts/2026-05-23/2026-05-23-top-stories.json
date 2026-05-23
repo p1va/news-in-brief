@@ -1,16 +1,16 @@
 {
   "date": "2026-05-23",
-  "generated_at": "Sat 23 May 16:08",
+  "generated_at": "Sat 23 May 18:06",
   "stories": [
     {
       "rank": 1,
       "title": "Il Papa ad Acerra: «Sono venuto a raccogliere le lacrime, scardinate la cultura della prepotenza»",
       "source_count": 9,
-      "article_count": 13,
+      "article_count": 14,
       "source_domains": [
+        "ansa.it",
         "napoli.repubblica.it",
         "liberoquotidiano.it",
-        "ansa.it",
         "ilgiornale.it",
         "fanpage.it",
         "adnkronos.com",
@@ -19,11 +19,11 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/23/il-papa-da-la-scossa-alla-terra-dei-fuochi-basta-prepotenze_c436052d-8b93-4361-a643-e339584fb47a.html",
         "https://napoli.repubblica.it/cronaca/2026/05/23/diretta/papa_leone_visita_acerra_incontro_famiglie_terra_fuochi-425364959/",
         "https://www.liberoquotidiano.it/news/tv-news/47840611/papa-ad-acerra-mantovano-governo-c-e-serve-risveglio-coscienze/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/23/il-papa-ad-acerra-troppo-male-in-questa-terra-scardinate-la-cultura-della-prepotenza_c436052d-8b93-4361-a643-e339584fb47a.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47840376/papa-ad-acerra-il-prete-cantante-a-leone-canto-il-grido-della-terra-/",
-        "https://www.liberoquotidiano.it/news/tv-news/47840351/papa-ad-acerra-bagno-di-folla-per-leone-xiv-oltre-12mila-fedeli/"
+        "https://www.liberoquotidiano.it/news/tv-news/47840376/papa-ad-acerra-il-prete-cantante-a-leone-canto-il-grido-della-terra-/"
       ]
     },
     {
@@ -50,10 +50,33 @@
     },
     {
       "rank": 3,
-      "title": "F1: Alain Prost rapinato e aggredito in casa, trauma cranico per il campione francese",
-      "source_count": 8,
-      "article_count": 8,
+      "title": "F1, scintille in casa Mercedes in Canada: a Russell la sprint, Antonelli 3°",
+      "source_count": 7,
+      "article_count": 12,
       "source_domains": [
+        "ilgiornale.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/motori/f1-scintille-casa-mercedes-canada-russell-sprint-antonelli-3-2668933.html",
+        "https://www.repubblica.it/sport/formulauno/2026/05/23/news/antonelli_russell_toto_wolff_duello_sprint_gp_canada-425366014/",
+        "https://www.adnkronos.com/sport/gp-canada-russell-vince-gara-sprint-ordine-arrivo-classifica_41Ao6w6mIjKeZAFSwN7O4A",
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/05/23/gp-canada-russell-vince-la-sprint-terzo-antonelli_b7ca566c-1af1-40a0-86ce-9999a83f5373.html",
+        "https://www.ilfattoquotidiano.it/2026/05/23/f1-sprint-canada-russell-antonelli-furioso-polemica-risultati-nuova-classifica/8396639/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "F1: Alain Prost rapinato e aggredito in casa, trauma cranico per il campione francese",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
         "adnkronos.com",
         "ansa.it",
         "ilgiornale.it",
@@ -64,33 +87,78 @@
         "repubblica.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/sport/47840915/alain-prost-rapinato-casa-colpito-testa-sospetto-drammatico/",
         "https://www.adnkronos.com/internazionale/esteri/paura-per-alain-prost-lex-campione-di-f1-rapinato-e-aggredito-nella-villa-di-nyon_g7bADAjjCRW2zOW8TOWZJ",
         "https://www.ansa.it/sito/notizie/sport/f1/2026/05/23/f1-alain-prost-rapinato-e-aggredito-in-casa-trauma-cranico-per-il-campione-francese_dcb14bf5-53b3-46c1-b06e-0f9315679568.html",
         "https://www.ilgiornale.it/news/cronaca-internazionale/aggredito-casa-alain-prost-l-ex-pilota-ferrari-ha-riportato-2668791.html",
-        "https://www.ilfattoquotidiano.it/2026/05/23/rapina-alain-prost-villa-ginevra-notizie/8396473/",
-        "https://www.ilmessaggero.it/persone/alain_prost_rapina_casa_ferito_svizzera_cosa_e_successo-9550056.html"
+        "https://www.ilfattoquotidiano.it/2026/05/23/rapina-alain-prost-villa-ginevra-notizie/8396473/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Strage Capaci, Piantedosi \"Grande saldatura di forze dell'ordine e magistratura\"",
       "source_count": 3,
-      "article_count": 12,
+      "article_count": 14,
       "source_domains": [
         "liberoquotidiano.it",
         "ilgiornale.it",
         "ansa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/pillole/47842809/strage-capaci-di-matteo-no-a-parate-di-sepolcri-imbiancati-/",
         "https://www.liberoquotidiano.it/news/pillole/47841165/strage_capaci_priola_momento_di_grande_riflessione_e_orgoglio_/",
         "https://www.liberoquotidiano.it/news/pillole/47840782/strage_capaci_cerimonia_alla_caserma_lungaro_in_ricordo_delle_vittime/",
         "https://www.liberoquotidiano.it/news/libero-video/47840628/strage-capaci-la-deposizione-della-corona-d-alloro-presso-la-stele/",
-        "https://www.liberoquotidiano.it/news/pillole/47840589/strage_capaci_schifani_mafia_va_combattuta_cittadini_e_istituzioni_uniti_/",
-        "https://www.liberoquotidiano.it/news/pillole/47840342/colosimo_sostegno_figli_borsellino_sprona_a_chiudere_prima_relazione_su_stragi_/"
+        "https://www.liberoquotidiano.it/news/pillole/47840589/strage_capaci_schifani_mafia_va_combattuta_cittadini_e_istituzioni_uniti_/"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "Caso Gucci, la figlia Allegra dopo l’archiviazione della Cedu: “Paga chi ha perso il padre”",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "fanpage.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/milano/la-cedu-archivia-il-caso-sulleredita-gucci-la-figlia-chi-ha-ucciso-ha-incassato-chi-ha-perso-il-padre-ha-pagato/",
+        "https://www.adnkronos.com/cronaca/allegra-gucci-ricordo-cedu-cosa-ha-detto_337F37jIxarpvc7Qax959",
+        "https://www.ilfattoquotidiano.it/2026/05/23/allegra-gucci-e-laccordo-da-39-milioni-di-euro-con-la-madre-patrizia-reggiani-chi-ha-ucciso-ha-incassato-chi-ha-perso-il-padre-ha-pagato/8396711/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/23/allegra-gucci-chi-ha-ucciso-ha-incassato-chi-ha-perso-il-padre-ha-pagato_9c2481ef-4bde-4895-9d5f-ccb7bc529f27.html",
+        "https://www.repubblica.it/economia/2026/05/23/news/allegra_gucci_ricorso_cedu_vitalizio_patrizia_reggiani-425365723/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Atterrate a Malpensa le salme dei sub italiani morti alle Maldive: lunedì le autopsie",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/italia/maldive_sub_morti_su_cosa_si_indaga_autopsie_cosa_succede_ora_bombole_gopro-9550377.html",
+        "https://www.ilmessaggero.it/italia/maldive_sub_morti_autopsie_cosa_scoprono-9550377.html",
+        "https://www.ilfattoquotidiano.it/2026/05/23/sub-morti-maldive-salme-malpensa-notizie/8396637/",
+        "https://www.adnkronos.com/cronaca/tragedia-alle-maldive-in-italia-le-salme-dei-sub-larrivo-a-malpensa-video_3JMYHxnjk8jkhuUrdE6Qh5",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/23/maldive-in-italia-le-salme-dei-sub-morti-atterrato-a-malpensa-il-volo-da-istanbul_c4e994a4-5eee-4d34-89c3-bc64749329e2.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Strage di Capaci, Mattarella: \"23 maggio ha segnato storia Repubblica, fu attacco a libertà\"",
       "source_count": 6,
       "article_count": 9,
@@ -108,70 +176,6 @@
         "https://www.ilgiornale.it/news/nazionale/strage-capaci-commemorazione-34-anni-dallattentato-2668755.html",
         "https://www.adnkronos.com/politica/strage-di-capaci-mattarella-23-maggio-ha-segnato-storia-repubblica-fu-attacco-a-liberta_4iB332WLmR5KRVGZLvPLrZ",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/23/mattarella-con-la-strage-di-capaci-lavvio-della-riscossa-civile_b892db00-330e-412b-8fe2-a90fa77591c0.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "L'Italia celebra Carlo Petrini, il visionario che ha realizzato le utopie",
-      "source_count": 5,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
-        "lastampa.it",
-        "ansa.it",
-        "repubblica.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/carl-n-pioniere-gusto-lento-suo-sogno-diventato-realt-2668690.html",
-        "https://www.lastampa.it/cuneo/2026/05/23/news/addio_a_petrini_in_memoria_borse_di_studio_per_l_universita_di_pollenzo_e_doni_agli_orti_in_africa-15633419/",
-        "https://www.ansa.it/sito/notizie/politica/2026/05/22/genio-visionario-maestro-ambasciatore-di-tradizioni-e-costruttore.-litalia-ricorda-carlo-petrini_8c9527fd-82f4-4d81-854e-5f369464ad1c.html",
-        "https://www.repubblica.it/cronaca/2026/05/23/news/carlo_petrini_slow_food_michele_serra_commento-425364500/",
-        "https://torino.repubblica.it/cronaca/2026/05/23/news/carlo_petrini_ricordo_universita_pollenzo-425364522/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Atterrate a Malpensa le salme dei sub italiani morti alle Maldive: lunedì le autopsie",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ansa.it",
-        "milano.repubblica.it",
-        "lastampa.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/maldive_sub_morti_su_cosa_si_indaga_autopsie_cosa_succede_ora_bombole_gopro-9550377.html",
-        "https://www.ilfattoquotidiano.it/2026/05/23/sub-morti-maldive-salme-malpensa-notizie/8396637/",
-        "https://www.adnkronos.com/cronaca/tragedia-alle-maldive-in-italia-le-salme-dei-sub-larrivo-a-malpensa-video_3JMYHxnjk8jkhuUrdE6Qh5",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/23/maldive-in-italia-le-salme-dei-sub-morti-atterrato-a-malpensa-il-volo-da-istanbul_c4e994a4-5eee-4d34-89c3-bc64749329e2.html",
-        "https://milano.repubblica.it/cronaca/2026/05/23/news/malpensa_maldive_salme_sub_morti-425365530/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Caso Gucci, la figlia Allegra dopo l’archiviazione della Cedu: “Paga chi ha perso il padre”",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/allegra-gucci-ricordo-cedu-cosa-ha-detto_337F37jIxarpvc7Qax959",
-        "https://www.ilfattoquotidiano.it/2026/05/23/allegra-gucci-e-laccordo-da-39-milioni-di-euro-con-la-madre-patrizia-reggiani-chi-ha-ucciso-ha-incassato-chi-ha-perso-il-padre-ha-pagato/8396711/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/23/allegra-gucci-chi-ha-ucciso-ha-incassato-chi-ha-perso-il-padre-ha-pagato_9c2481ef-4bde-4895-9d5f-ccb7bc529f27.html",
-        "https://www.repubblica.it/economia/2026/05/23/news/allegra_gucci_ricorso_cedu_vitalizio_patrizia_reggiani-425365723/",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/allegra-gucci-e-laccordo-39-milioni-madre-pagare-riscatto-2668873.html"
       ]
     },
     {
