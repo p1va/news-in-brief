@@ -1,9 +1,30 @@
 {
   "date": "2026-05-23",
-  "generated_at": "Sat 23 May 18:06",
+  "generated_at": "Sat 23 May 19:26",
   "stories": [
     {
       "rank": 1,
+      "title": "Mattarella: strage di Capaci ha segnato la storia della Repubblica",
+      "source_count": 6,
+      "article_count": 21,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "palermo.repubblica.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/47844758/strage_di_capaci_ragazzi_leggono_i_nomi_delle_vittime_all_albero_falcone/",
+        "https://www.liberoquotidiano.it/news/pillole/47844641/34_anni_fa_la_strage_di_capaci_il_minuto_di_silenzio_all_albero_falcone/",
+        "https://www.liberoquotidiano.it/news/pillole/47844401/strage_capaci_schlein_mai_dimenticare_servitori_dello_stato_uccisi_da_mafia_/",
+        "https://www.liberoquotidiano.it/news/pillole/47842809/strage-capaci-di-matteo-no-a-parate-di-sepolcri-imbiancati-/",
+        "https://www.liberoquotidiano.it/news/pillole/47841165/strage_capaci_priola_momento_di_grande_riflessione_e_orgoglio_/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Il Papa ad Acerra: «Sono venuto a raccogliere le lacrime, scardinate la cultura della prepotenza»",
       "source_count": 9,
       "article_count": 14,
@@ -27,10 +48,33 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "F1, scintille in casa Mercedes in Canada: a Russell la sprint, Antonelli 3°",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "fanpage.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/motori/la-rivalita-antonelli-russell-nella-sprint-di-f1-in-canada-mette-a-rischio-una-mercedes-senza-gerarchie/",
+        "https://www.ilmessaggero.it/sport/formula1/kimi_antonelli_lite_russell_toto_wolff_fuorioso_cosa_e_successo-9550492.html",
+        "https://www.ilgiornale.it/news/motori/f1-scintille-casa-mercedes-canada-russell-sprint-antonelli-3-2668933.html",
+        "https://www.repubblica.it/sport/formulauno/2026/05/23/news/antonelli_russell_toto_wolff_duello_sprint_gp_canada-425366014/",
+        "https://www.adnkronos.com/sport/gp-canada-russell-vince-gara-sprint-ordine-arrivo-classifica_41Ao6w6mIjKeZAFSwN7O4A"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Guerra Iran, a Trump sono state presentate le opzioni per riprendere il conflitto",
       "source_count": 7,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
         "ansa.it",
         "repubblica.it",
@@ -41,37 +85,15 @@
         "ilgiornale.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/23/trump-decide-sulliran.-possibili-altri-due-mesi-di-tregua-_4cc887d3-8c33-4901-90d8-7689a60ccd7e.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/23/trump-ad-axios-accordo-o-attacco-fifty-fifty-decisione-entro-domani.-mediatori_4cc887d3-8c33-4901-90d8-7689a60ccd7e.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/23/iran-divergenze-ridotte-ma-non-ce-ancora-lintesa.-rubio-ce-una-possibilita-che_4cc887d3-8c33-4901-90d8-7689a60ccd7e.html",
         "https://www.repubblica.it/esteri/2026/05/23/news/iran_ecco_cosa_potrebbe_fare_trump_obiettivi_attacco-425365648/",
-        "https://www.liberoquotidiano.it/news/libero-video/47840622/trump-valuta-nuovi-raid-sull-iran-ma-prosegue-il-negoziato/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/23/media-proposte-iraniane-inaccettabili-per-gli-usa-colloqui-in-corso-ma-manca_4cc887d3-8c33-4901-90d8-7689a60ccd7e.html"
+        "https://www.liberoquotidiano.it/news/libero-video/47840622/trump-valuta-nuovi-raid-sull-iran-ma-prosegue-il-negoziato/"
       ]
     },
     {
-      "rank": 3,
-      "title": "F1, scintille in casa Mercedes in Canada: a Russell la sprint, Antonelli 3°",
-      "source_count": 7,
-      "article_count": 12,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/motori/f1-scintille-casa-mercedes-canada-russell-sprint-antonelli-3-2668933.html",
-        "https://www.repubblica.it/sport/formulauno/2026/05/23/news/antonelli_russell_toto_wolff_duello_sprint_gp_canada-425366014/",
-        "https://www.adnkronos.com/sport/gp-canada-russell-vince-gara-sprint-ordine-arrivo-classifica_41Ao6w6mIjKeZAFSwN7O4A",
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/05/23/gp-canada-russell-vince-la-sprint-terzo-antonelli_b7ca566c-1af1-40a0-86ce-9999a83f5373.html",
-        "https://www.ilfattoquotidiano.it/2026/05/23/f1-sprint-canada-russell-antonelli-furioso-polemica-risultati-nuova-classifica/8396639/"
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "title": "F1: Alain Prost rapinato e aggredito in casa, trauma cranico per il campione francese",
       "source_count": 9,
       "article_count": 9,
@@ -95,30 +117,13 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Strage Capaci, Piantedosi \"Grande saldatura di forze dell'ordine e magistratura\"",
-      "source_count": 3,
-      "article_count": 14,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/pillole/47842809/strage-capaci-di-matteo-no-a-parate-di-sepolcri-imbiancati-/",
-        "https://www.liberoquotidiano.it/news/pillole/47841165/strage_capaci_priola_momento_di_grande_riflessione_e_orgoglio_/",
-        "https://www.liberoquotidiano.it/news/pillole/47840782/strage_capaci_cerimonia_alla_caserma_lungaro_in_ricordo_delle_vittime/",
-        "https://www.liberoquotidiano.it/news/libero-video/47840628/strage-capaci-la-deposizione-della-corona-d-alloro-presso-la-stele/",
-        "https://www.liberoquotidiano.it/news/pillole/47840589/strage_capaci_schifani_mafia_va_combattuta_cittadini_e_istituzioni_uniti_/"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Caso Gucci, la figlia Allegra dopo l’archiviazione della Cedu: “Paga chi ha perso il padre”",
-      "source_count": 8,
-      "article_count": 8,
+      "title": "Allegra Gucci e l'accordo da 3,9 milioni con la madre: \"Pagare un riscatto non è avere giustizia\"",
+      "source_count": 9,
+      "article_count": 9,
       "source_domains": [
         "fanpage.it",
+        "liberoquotidiano.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "ansa.it",
@@ -129,10 +134,10 @@
       ],
       "links": [
         "https://www.fanpage.it/milano/la-cedu-archivia-il-caso-sulleredita-gucci-la-figlia-chi-ha-ucciso-ha-incassato-chi-ha-perso-il-padre-ha-pagato/",
+        "https://www.liberoquotidiano.it/news/italia/47843762/gucci_allegra_contro_mamma_patrizia_reggiani_chi_ucciso_incassato_chi_perso_padre_pagato/",
         "https://www.adnkronos.com/cronaca/allegra-gucci-ricordo-cedu-cosa-ha-detto_337F37jIxarpvc7Qax959",
         "https://www.ilfattoquotidiano.it/2026/05/23/allegra-gucci-e-laccordo-da-39-milioni-di-euro-con-la-madre-patrizia-reggiani-chi-ha-ucciso-ha-incassato-chi-ha-perso-il-padre-ha-pagato/8396711/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/23/allegra-gucci-chi-ha-ucciso-ha-incassato-chi-ha-perso-il-padre-ha-pagato_9c2481ef-4bde-4895-9d5f-ccb7bc529f27.html",
-        "https://www.repubblica.it/economia/2026/05/23/news/allegra_gucci_ricorso_cedu_vitalizio_patrizia_reggiani-425365723/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/23/allegra-gucci-chi-ha-ucciso-ha-incassato-chi-ha-perso-il-padre-ha-pagato_9c2481ef-4bde-4895-9d5f-ccb7bc529f27.html"
       ]
     },
     {
@@ -159,47 +164,6 @@
     },
     {
       "rank": 8,
-      "title": "Strage di Capaci, Mattarella: \"23 maggio ha segnato storia Repubblica, fu attacco a libertà\"",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "palermo.repubblica.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/23/mattarella-con-capaci-lavvio-della-riscossa-civile.-meloni-dalla-memoria_b892db00-330e-412b-8fe2-a90fa77591c0.html",
-        "https://palermo.repubblica.it/cronaca/2026/05/23/diretta/strage_capaci_falcone_mafia_commemorazione_notizie-425365046/",
-        "https://www.ilgiornale.it/news/nazionale/strage-capaci-commemorazione-34-anni-dallattentato-2668755.html",
-        "https://www.adnkronos.com/politica/strage-di-capaci-mattarella-23-maggio-ha-segnato-storia-repubblica-fu-attacco-a-liberta_4iB332WLmR5KRVGZLvPLrZ",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/23/mattarella-con-la-strage-di-capaci-lavvio-della-riscossa-civile_b892db00-330e-412b-8fe2-a90fa77591c0.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Gli attivisti della Flotilla: “Noi come animali sotto il tiro dei cecchini”. Un italiano ricoverato",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "unita.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/05/23/israele-alla-sbarra-dopo-ben-gvir-leuropa-si-sveglia-i-big-ue-contro-lespansione-illegale-delle-colonie-in-cisgiordania/",
-        "https://www.repubblica.it/politica/2026/05/23/news/attivista_flotilla_martina_comparelli_molestata_fotografata_intervista-425364470/",
-        "https://www.repubblica.it/politica/2026/05/23/news/nave_lager_panic_room_racconti_attivisti_flotilla-425364503/",
-        "https://roma.repubblica.it/cronaca/2026/05/23/news/flotilla_torture_israele_ministro_ben_gvir_procura_roma-425364272/",
-        "https://ilmanifesto.it/tortura-e-sequestro-della-sumud-le-ipotesi-della-procura-di-roma"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Un successo il test in volo della nuova Starship di Musk",
       "source_count": 5,
       "article_count": 7,
@@ -216,6 +180,45 @@
         "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/05/23/lanciata-la-nuova-starship-di-musk-primo-test-in-volo-_c3d4753e-f2f1-4b05-b4b8-2ac4e2ba61c3.html",
         "https://www.fanpage.it/innovazione/scienze/starship-spacex-lancio-epico-tra-riprese-dallo-spazio-e-splashdown-infuocato-nasa-luna-e-marte-piu-vicini/",
         "https://www.liberoquotidiano.it/news/tv-news/47839493/lo-spettacolare-ammaraggio-del-gigantesco-razzo-v-3-di-space-x/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Esplode miniera di carbone nel nord della Cina: 90 morti e decine di persone intrappolate",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/23/strage-in-una-miniera-in-cina-82-morti-nel-peggior-disastro-dal-2009_8104ccfa-30c0-41d4-a4d6-aaa4c10806c5.html",
+        "https://www.ilfattoquotidiano.it/2026/05/23/cina-90-morti-nellesplosione-di-una-miniera-di-carbone-arrestati-dirigenti-del-gruppo-tongzhou/8396447/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/23/oltre-80-morti-in-una-miniera-di-carbone-in-cina-_8104ccfa-30c0-41d4-a4d6-aaa4c10806c5.html",
+        "https://www.fanpage.it/esteri/esplode-miniera-di-carbone-nel-nord-della-cina-90-morti-e-decine-di-persone-intrappolate/",
+        "https://www.adnkronos.com/internazionale/esteri/cina-esplosione-miniera-liushenyu-morti_2OxK7ffma1Cz1LFM9x8XWj"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Inizia il countdown per scoprire il vincitore della Palma d'oro, stasera la premiazione",
+      "source_count": 4,
+      "article_count": 7,
+      "source_domains": [
+        "d.repubblica.it",
+        "ansa.it",
+        "lastampa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://d.repubblica.it/culture/dossier/festival-di-cannes/2026/05/23/news/look_red_carpet_cannes_2026_da_eva_longoria_a_penelope_cruz-425366162/",
+        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/23/favino-saldana-geena-davis-tra-i-premiatori-nella-cerimonia-di-chiusura-a-cannes_a89a509f-fe83-4162-a955-8ad502fec301.html",
+        "https://www.repubblica.it/spettacoli/dossier/festival-di-cannes/2026/05/23/diretta/cannes_2026_film_palma_oro_cerimonia_chiusura-425365977/",
+        "https://www.ansa.it/sito/photogallery/spettacolo/2026/05/23/a-cannes-la-serata-del-palmares_080f170b-fdad-4476-97bc-7e0752c4b546.html",
+        "https://www.lastampa.it/spettacoli/2026/05/23/news/festival_cinema_cannes_2026_vincitori_palma_d_oro-15633766/"
       ]
     }
   ]
