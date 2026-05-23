@@ -1,6 +1,6 @@
 {
   "date": "2026-05-23",
-  "generated_at": "Sat 23 May 19:26",
+  "generated_at": "Sat 23 May 20:12",
   "stories": [
     {
       "rank": 1,
@@ -9,9 +9,9 @@
       "article_count": 21,
       "source_domains": [
         "liberoquotidiano.it",
+        "ilgiornale.it",
         "ansa.it",
         "palermo.repubblica.it",
-        "ilgiornale.it",
         "adnkronos.com",
         "ilsole24ore.com"
       ],
@@ -25,6 +25,30 @@
     },
     {
       "rank": 2,
+      "title": "F1, scintille in casa Mercedes in Canada: a Russell la sprint, Antonelli 3°",
+      "source_count": 9,
+      "article_count": 15,
+      "source_domains": [
+        "fanpage.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/motori/perche-la-fia-non-ha-indagato-sul-contatto-russell-antonelli-nella-sprint-del-canada-la-spiegazione-dei-commissari/",
+        "https://www.adnkronos.com/sport/diretta-qualifiche-gp-canada-formula-1-montreal-live-pole-position_3QPnca46KUUU5Z6ACjtpfK",
+        "https://www.fanpage.it/sport/motori/la-rivalita-antonelli-russell-nella-sprint-di-f1-in-canada-mette-a-rischio-una-mercedes-senza-gerarchie/",
+        "https://www.liberoquotidiano.it/news/sport/47845682/kimi-antonelli-terzo-sprint-race-canada-russell-mi-ha-spinto-fuori-guerra-dentro-mercedes/",
+        "https://www.ilmessaggero.it/sport/formula1/kimi_antonelli_lite_russell_toto_wolff_fuorioso_cosa_e_successo-9550492.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Il Papa ad Acerra: «Sono venuto a raccogliere le lacrime, scardinate la cultura della prepotenza»",
       "source_count": 9,
       "article_count": 14,
@@ -45,29 +69,6 @@
         "https://www.liberoquotidiano.it/news/tv-news/47840611/papa-ad-acerra-mantovano-governo-c-e-serve-risveglio-coscienze/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/23/il-papa-ad-acerra-troppo-male-in-questa-terra-scardinate-la-cultura-della-prepotenza_c436052d-8b93-4361-a643-e339584fb47a.html",
         "https://www.liberoquotidiano.it/news/tv-news/47840376/papa-ad-acerra-il-prete-cantante-a-leone-canto-il-grido-della-terra-/"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "F1, scintille in casa Mercedes in Canada: a Russell la sprint, Antonelli 3°",
-      "source_count": 8,
-      "article_count": 13,
-      "source_domains": [
-        "fanpage.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/motori/la-rivalita-antonelli-russell-nella-sprint-di-f1-in-canada-mette-a-rischio-una-mercedes-senza-gerarchie/",
-        "https://www.ilmessaggero.it/sport/formula1/kimi_antonelli_lite_russell_toto_wolff_fuorioso_cosa_e_successo-9550492.html",
-        "https://www.ilgiornale.it/news/motori/f1-scintille-casa-mercedes-canada-russell-sprint-antonelli-3-2668933.html",
-        "https://www.repubblica.it/sport/formulauno/2026/05/23/news/antonelli_russell_toto_wolff_duello_sprint_gp_canada-425366014/",
-        "https://www.adnkronos.com/sport/gp-canada-russell-vince-gara-sprint-ordine-arrivo-classifica_41Ao6w6mIjKeZAFSwN7O4A"
       ]
     },
     {
