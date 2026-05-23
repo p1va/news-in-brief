@@ -1,50 +1,50 @@
 {
   "date": "2026-05-23",
-  "generated_at": "Sat 23 May 20:12",
+  "generated_at": "Sat 23 May 22:02",
   "stories": [
     {
       "rank": 1,
-      "title": "Mattarella: strage di Capaci ha segnato la storia della Repubblica",
-      "source_count": 6,
-      "article_count": 21,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "palermo.repubblica.it",
-        "adnkronos.com",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/pillole/47844758/strage_di_capaci_ragazzi_leggono_i_nomi_delle_vittime_all_albero_falcone/",
-        "https://www.liberoquotidiano.it/news/pillole/47844641/34_anni_fa_la_strage_di_capaci_il_minuto_di_silenzio_all_albero_falcone/",
-        "https://www.liberoquotidiano.it/news/pillole/47844401/strage_capaci_schlein_mai_dimenticare_servitori_dello_stato_uccisi_da_mafia_/",
-        "https://www.liberoquotidiano.it/news/pillole/47842809/strage-capaci-di-matteo-no-a-parate-di-sepolcri-imbiancati-/",
-        "https://www.liberoquotidiano.it/news/pillole/47841165/strage_capaci_priola_momento_di_grande_riflessione_e_orgoglio_/"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "F1, scintille in casa Mercedes in Canada: a Russell la sprint, Antonelli 3°",
+      "title": "F1: in Canada Russell conquista sprint e pole, secondo Antonelli",
       "source_count": 9,
-      "article_count": 15,
+      "article_count": 23,
       "source_domains": [
-        "fanpage.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
         "ilmessaggero.it",
         "ilgiornale.it",
+        "adnkronos.com",
         "repubblica.it",
         "ansa.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.fanpage.it/sport/motori/perche-la-fia-non-ha-indagato-sul-contatto-russell-antonelli-nella-sprint-del-canada-la-spiegazione-dei-commissari/",
-        "https://www.adnkronos.com/sport/diretta-qualifiche-gp-canada-formula-1-montreal-live-pole-position_3QPnca46KUUU5Z6ACjtpfK",
-        "https://www.fanpage.it/sport/motori/la-rivalita-antonelli-russell-nella-sprint-di-f1-in-canada-mette-a-rischio-una-mercedes-senza-gerarchie/",
-        "https://www.liberoquotidiano.it/news/sport/47845682/kimi-antonelli-terzo-sprint-race-canada-russell-mi-ha-spinto-fuori-guerra-dentro-mercedes/",
-        "https://www.ilmessaggero.it/sport/formula1/kimi_antonelli_lite_russell_toto_wolff_fuorioso_cosa_e_successo-9550492.html"
+        "https://www.ilmessaggero.it/sport/formula1/gp_canada_qualifiche_russell_antonelli_hamilton_leclerc-9550675.html",
+        "https://www.ilgiornale.it/news/motori/f1-russell-spunta-su-antonelli-pole-canada-male-due-ferrari-2668961.html",
+        "https://www.adnkronos.com/sport/gp-canada-oggi-formula-1-orario-griglia-partenza-dove-vedere-gran-premio-montreal-tv-streaming_7ilKKcd1VDcZNmhUukqc9K",
+        "https://www.adnkronos.com/sport/gp-canada-russell-pole-position-antonelli-secondo-ferrari-qualifiche-griglia-partenza_6PTjEheB1HTlkJOOaRSaE4",
+        "https://www.repubblica.it/sport/formulauno/2026/05/23/news/gp_canada_russell_antonelli_pole_griglia-425366497/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Mattarella: strage di Capaci ha segnato la storia della Repubblica",
+      "source_count": 6,
+      "article_count": 22,
+      "source_domains": [
+        "palermo.repubblica.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://palermo.repubblica.it/cronaca/2026/05/24/news/strage_capaci_giovanni_falcone_mafia-425366133/",
+        "https://www.liberoquotidiano.it/news/pillole/47844758/strage_di_capaci_ragazzi_leggono_i_nomi_delle_vittime_all_albero_falcone/",
+        "https://www.liberoquotidiano.it/news/pillole/47844641/34_anni_fa_la_strage_di_capaci_il_minuto_di_silenzio_all_albero_falcone/",
+        "https://www.liberoquotidiano.it/news/pillole/47844401/strage_capaci_schlein_mai_dimenticare_servitori_dello_stato_uccisi_da_mafia_/",
+        "https://www.liberoquotidiano.it/news/pillole/47842809/strage-capaci-di-matteo-no-a-parate-di-sepolcri-imbiancati-/"
       ]
     },
     {
@@ -95,30 +95,6 @@
     },
     {
       "rank": 5,
-      "title": "F1: Alain Prost rapinato e aggredito in casa, trauma cranico per il campione francese",
-      "source_count": 9,
-      "article_count": 9,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/sport/47840915/alain-prost-rapinato-casa-colpito-testa-sospetto-drammatico/",
-        "https://www.adnkronos.com/internazionale/esteri/paura-per-alain-prost-lex-campione-di-f1-rapinato-e-aggredito-nella-villa-di-nyon_g7bADAjjCRW2zOW8TOWZJ",
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/05/23/f1-alain-prost-rapinato-e-aggredito-in-casa-trauma-cranico-per-il-campione-francese_dcb14bf5-53b3-46c1-b06e-0f9315679568.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/aggredito-casa-alain-prost-l-ex-pilota-ferrari-ha-riportato-2668791.html",
-        "https://www.ilfattoquotidiano.it/2026/05/23/rapina-alain-prost-villa-ginevra-notizie/8396473/"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Allegra Gucci e l'accordo da 3,9 milioni con la madre: \"Pagare un riscatto non è avere giustizia\"",
       "source_count": 9,
       "article_count": 9,
@@ -139,6 +115,29 @@
         "https://www.adnkronos.com/cronaca/allegra-gucci-ricordo-cedu-cosa-ha-detto_337F37jIxarpvc7Qax959",
         "https://www.ilfattoquotidiano.it/2026/05/23/allegra-gucci-e-laccordo-da-39-milioni-di-euro-con-la-madre-patrizia-reggiani-chi-ha-ucciso-ha-incassato-chi-ha-perso-il-padre-ha-pagato/8396711/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/23/allegra-gucci-chi-ha-ucciso-ha-incassato-chi-ha-perso-il-padre-ha-pagato_9c2481ef-4bde-4895-9d5f-ccb7bc529f27.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "F1: Alain Prost rapinato e aggredito in casa, trauma cranico per il campione francese",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/sport/47840915/alain-prost-rapinato-casa-colpito-testa-sospetto-drammatico/",
+        "https://www.adnkronos.com/internazionale/esteri/paura-per-alain-prost-lex-campione-di-f1-rapinato-e-aggredito-nella-villa-di-nyon_g7bADAjjCRW2zOW8TOWZJ",
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/05/23/f1-alain-prost-rapinato-e-aggredito-in-casa-trauma-cranico-per-il-campione-francese_dcb14bf5-53b3-46c1-b06e-0f9315679568.html",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/aggredito-casa-alain-prost-l-ex-pilota-ferrari-ha-riportato-2668791.html",
+        "https://www.ilfattoquotidiano.it/2026/05/23/rapina-alain-prost-villa-ginevra-notizie/8396473/"
       ]
     },
     {
@@ -165,6 +164,48 @@
     },
     {
       "rank": 8,
+      "title": "Caso Flotilla, la Francia chiude le porte a Ben Gvir",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "unita.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/africa/2026/05/23/la-flotilla-si-sposta-sulla-terra-la-francia-bandisce-ben-gvir_936ac6f2-786d-4bf3-9949-a29c12eee3fc.html",
+        "https://www.lastampa.it/esteri/2026/05/23/news/francia_ben-gvir_israele_tajani-15633627/",
+        "https://www.ilgiornale.it/news/politica-estera/caso-flotilla-francia-chiude-porte-ben-gvir-2668868.html",
+        "https://www.ilfattoquotidiano.it/2026/05/23/flotilla-gaza-ben-gvir-francia-convoglio-libia/8396651/",
+        "https://www.ansa.it/sito/notizie/mondo/africa/2026/05/23/rientrati-a-roma-altri-6-attivisti-della-flotilla.-convoglio-in-libia-rifiutati-gli_936ac6f2-786d-4bf3-9949-a29c12eee3fc.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Giro d’Italia, Vingegaard vince la tappa a Pila e si prende la maglia rosa",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/general/47847245/giro_italia_vingegaard_domina_pila_prende_maglia_rosa/",
+        "https://www.fanpage.it/sport/ciclismo/vingegaard-vince-e-abbraccia-piganzoli-aveva-gia-staccato-tutti-non-ho-nemmeno-attaccato/",
+        "https://www.adnkronos.com/sport/giro-d-italia-vingegaard-vince-tappa-14-maglia-rosa-come-cambia-classifica_2lY11elmRO6oMKanyIcQ4k",
+        "https://www.ilfattoquotidiano.it/2026/05/23/giro-italia-vingegaard-maglia-rosa-pellizzari-nuova-classifica-generale/8396719/",
+        "https://www.fanpage.it/sport/ciclismo/vingegaard-a-pila-si-prende-tutto-tappa-e-maglia-rosa-avevamo-messo-una-ics-il-piano-e-riuscito/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Un successo il test in volo della nuova Starship di Musk",
       "source_count": 5,
       "article_count": 7,
@@ -181,45 +222,6 @@
         "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/05/23/lanciata-la-nuova-starship-di-musk-primo-test-in-volo-_c3d4753e-f2f1-4b05-b4b8-2ac4e2ba61c3.html",
         "https://www.fanpage.it/innovazione/scienze/starship-spacex-lancio-epico-tra-riprese-dallo-spazio-e-splashdown-infuocato-nasa-luna-e-marte-piu-vicini/",
         "https://www.liberoquotidiano.it/news/tv-news/47839493/lo-spettacolare-ammaraggio-del-gigantesco-razzo-v-3-di-space-x/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Esplode miniera di carbone nel nord della Cina: 90 morti e decine di persone intrappolate",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/23/strage-in-una-miniera-in-cina-82-morti-nel-peggior-disastro-dal-2009_8104ccfa-30c0-41d4-a4d6-aaa4c10806c5.html",
-        "https://www.ilfattoquotidiano.it/2026/05/23/cina-90-morti-nellesplosione-di-una-miniera-di-carbone-arrestati-dirigenti-del-gruppo-tongzhou/8396447/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/23/oltre-80-morti-in-una-miniera-di-carbone-in-cina-_8104ccfa-30c0-41d4-a4d6-aaa4c10806c5.html",
-        "https://www.fanpage.it/esteri/esplode-miniera-di-carbone-nel-nord-della-cina-90-morti-e-decine-di-persone-intrappolate/",
-        "https://www.adnkronos.com/internazionale/esteri/cina-esplosione-miniera-liushenyu-morti_2OxK7ffma1Cz1LFM9x8XWj"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Inizia il countdown per scoprire il vincitore della Palma d'oro, stasera la premiazione",
-      "source_count": 4,
-      "article_count": 7,
-      "source_domains": [
-        "d.repubblica.it",
-        "ansa.it",
-        "lastampa.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://d.repubblica.it/culture/dossier/festival-di-cannes/2026/05/23/news/look_red_carpet_cannes_2026_da_eva_longoria_a_penelope_cruz-425366162/",
-        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/23/favino-saldana-geena-davis-tra-i-premiatori-nella-cerimonia-di-chiusura-a-cannes_a89a509f-fe83-4162-a955-8ad502fec301.html",
-        "https://www.repubblica.it/spettacoli/dossier/festival-di-cannes/2026/05/23/diretta/cannes_2026_film_palma_oro_cerimonia_chiusura-425365977/",
-        "https://www.ansa.it/sito/photogallery/spettacolo/2026/05/23/a-cannes-la-serata-del-palmares_080f170b-fdad-4476-97bc-7e0752c4b546.html",
-        "https://www.lastampa.it/spettacoli/2026/05/23/news/festival_cinema_cannes_2026_vincitori_palma_d_oro-15633766/"
       ]
     }
   ]
