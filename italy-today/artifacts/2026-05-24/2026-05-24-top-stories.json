@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "generated_at": "Sun 24 May 14:30",
+  "generated_at": "Sun 24 May 16:08",
   "stories": [
     {
       "rank": 1,
@@ -52,8 +52,8 @@
     {
       "rank": 3,
       "title": "Festival di Cannes 2026, Palma d'Oro a Cristian Mungiu per Fjord. Storico ex aequo per la regia a “La Bola negra” e “Fatherland”",
-      "source_count": 9,
-      "article_count": 11,
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
         "liberoquotidiano.it",
         "ilgiornale.it",
@@ -62,8 +62,7 @@
         "ansa.it",
         "ilfattoquotidiano.it",
         "fanpage.it",
-        "repubblica.it",
-        "lastampa.it"
+        "repubblica.it"
       ],
       "links": [
         "https://www.liberoquotidiano.it/news/libero-video/47855024/cannes-2026-mungiu-palma-d-oro-fjord/",
@@ -75,47 +74,68 @@
     },
     {
       "rank": 4,
-      "title": "Massiccio raid di Mosca su Kiev: l'esercito di Putin usa gli Oreshnik",
+      "title": "Massiccio attacco russo su Kiev: almeno 4 morti e decine di feriti. Colpiti 40 punti della capitale",
       "source_count": 8,
-      "article_count": 11,
+      "article_count": 9,
       "source_domains": [
-        "liberoquotidiano.it",
         "fanpage.it",
         "repubblica.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "lastampa.it",
         "ansa.it",
-        "ilmessaggero.it"
+        "ilmessaggero.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/47855970/zelensky-putin-ora-usa-anche-l-oreshnik-sono-davvero-pazzi-/",
         "https://www.fanpage.it/esteri/quattro-morti-e-50-feriti-in-una-serie-di-attacchi-russi-su-kiev-lanciato-anche-un-missile-oreshnik/",
         "https://www.repubblica.it/esteri/2026/05/24/diretta/guerra_ucraina_russia_news_oggi-425366553/",
         "https://www.liberoquotidiano.it/news/tv-news/47854062/massiccio-attacco-russo-su-kiev-una-notte-davvero-terrificante-/",
-        "https://www.ilfattoquotidiano.it/2026/05/24/attacco-russo-kiev-oreshnik/8397000/"
+        "https://www.ilfattoquotidiano.it/2026/05/24/attacco-russo-kiev-oreshnik/8397000/",
+        "https://www.ilgiornale.it/news/guerra/massiccio-raid-mosca-su-kiev-lanciati-50-missili-e-700-droni-2669066.html"
       ]
     },
     {
       "rank": 5,
       "title": "Pollenzo si ferma per Carlin Petrini: sotto gli alberi l’addio laico al padre di Slow Food",
-      "source_count": 3,
-      "article_count": 11,
+      "source_count": 4,
+      "article_count": 12,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ansa.it",
         "lastampa.it",
         "torino.repubblica.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/24/funerali-carlo-petrini-pollenzo-slow-food-notizie/8397238/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/24/grazie-vi-voglio-un-gran-bene-laudio-di-carlo-petrini-durante-il-suo-commiato_87d4d6e0-c3b3-438f-a851-1407af0729dc.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/24/un-lungo-applauso-allarrivo-della-bara-di-carlo-petrini_87d4d6e0-c3b3-438f-a851-1407af0729dc.html",
         "https://www.lastampa.it/cronaca/2026/05/24/video/lultimo_saluto_a_carlin_petrini_da_don_ciotti_a_fassino_e_fulvio_marino_il_ricordo_dei_suoi_amici-15634402/",
-        "https://www.lastampa.it/cuneo/2026/05/24/video/lultimo_messaggio_di_petrini_grazie_per_quello_che_fate-15634371/",
-        "https://torino.repubblica.it/cronaca/2026/05/24/diretta/carlo_petrini_oggi_i_funerali_a_pollenzo-425367107/"
+        "https://www.lastampa.it/cuneo/2026/05/24/video/lultimo_messaggio_di_petrini_grazie_per_quello_che_fate-15634371/"
       ]
     },
     {
       "rank": 6,
+      "title": "Classifica Serie A corsa Champions, le combinazioni per Roma, Milan, Juve e Como: cosa può succedere stasera",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "fanpage.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/live/serie-a-diretta-risultati-live-ultima-giornata-domenica-24-maggio/",
+        "https://www.adnkronos.com/sport/champions-league-squadre-qualificate-combinazioni-milan-roma-juve-como-classifica-avulsa_3A06yZfxySoWIbSKnNcFME",
+        "https://www.ilmessaggero.it/sport/schede/corsa_champions_combinazioni_roma_milan_juve_como_classifica_avulsa-9551767.html",
+        "https://www.ilmessaggero.it/sport/schede/classifica_serie_a_champions_combinazioni_roma_milan_juve_como_classifica_avulsa-9551767.html",
+        "https://www.ilmessaggero.it/sport/schede/classifica_avulsa_roma_milan_juventus_como_serie_a_champions_combinazioni-9551767.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "F1: in Canada Russell conquista sprint e pole, secondo Antonelli",
       "source_count": 5,
       "article_count": 8,
@@ -135,7 +155,47 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Tragedia alle Maldive, l’incognita delle torce: cosa può aver ingannato i sub italiani",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/24/maldive-lultimo-saluto-alla-prof-nei-fondali-liguri_4eea3c9e-4865-4bbc-a940-65d6073a4077.html",
+        "https://www.repubblica.it/cronaca/2026/05/24/news/maldive_sub_morti_nuova_legge_immersioni-425367316/",
+        "https://www.ilgiornale.it/news/politica/italia-salme-dei-sub-verit-dalle-autopsie-2668990.html",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/tragedia-maldive-l-incognita-delle-torce-cosa-pu-aver-2669103.html",
+        "https://www.ilmessaggero.it/mondo/maldive_sub_italiani_poco_tempo_bombole_ossigeno_torce_cunicolo_maledetto-9551828.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Corsa contro il tempo per l'emergenza ebola in Congo. Rezza: 'In occidente rischio non escluso ma controllabile'",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/24/corsa-contro-il-tempo-per-lemergenza-ebola-in-congo.-rezza-in-occidente-rischio_efaa0597-5b18-4ff0-b960-fe24baf46d8d.html",
+        "https://www.ilfattoquotidiano.it/2026/05/24/epidemia-ebola-congo-204-morti-notizie/8397171/",
+        "https://www.ilgiornale.it/news/politica/ebola-congo-rischio-molto-elevato-e-lallarme-riguarda-altri-2668985.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/24/msf-corsa-contro-il-tempo-per-lemergenza-ebola-in-congo_efaa0597-5b18-4ff0-b960-fe24baf46d8d.html",
+        "https://www.repubblica.it/esteri/2026/05/24/news/ebola_oms_alza_livello_allerta_usa_bloccano_voli_africa-425366300/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Amministrative, alle 12 affluenza al voto poco sotto il 15%, in lieve calo",
       "source_count": 5,
       "article_count": 7,
@@ -152,66 +212,6 @@
         "https://www.lastampa.it/politica/2026/05/24/diretta/elezioni_comunali_oggi_domani-15634246/",
         "https://www.ansa.it/sito/notizie/politica/2026/05/24/si-vota-oggi-e-domani-oltre-6-milioni-di-elettori-alle-urne_4955eb4f-a0be-4a8a-af27-f639ba8fb297.html",
         "https://www.repubblica.it/politica/2026/05/24/news/comunali_2026_dove_si_vota_capoluoghi_venezia_reggio_calabria_salerno-425366392/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Classifica Serie A corsa Champions, le combinazioni per Roma, Milan, Juve e Como: cosa può succedere stasera",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/champions-league-squadre-qualificate-combinazioni-milan-roma-juve-como-classifica-avulsa_3A06yZfxySoWIbSKnNcFME",
-        "https://www.ilmessaggero.it/sport/schede/corsa_champions_combinazioni_roma_milan_juve_como_classifica_avulsa-9551767.html",
-        "https://www.ilmessaggero.it/sport/schede/classifica_serie_a_champions_combinazioni_roma_milan_juve_como_classifica_avulsa-9551767.html",
-        "https://www.ilmessaggero.it/sport/schede/classifica_avulsa_roma_milan_juventus_como_serie_a_champions_combinazioni-9551767.html",
-        "https://www.fanpage.it/sport/calcio/chi-va-in-champions-a-pari-punti-tra-milan-roma-como-e-juventus-la-classifica-avulsa-in-serie-a/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Tragedia alle Maldive, l’incognita delle torce: cosa può aver ingannato i sub italiani",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "repubblica.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/cronaca/2026/05/24/news/maldive_sub_morti_nuova_legge_immersioni-425367316/",
-        "https://www.ilgiornale.it/news/politica/italia-salme-dei-sub-verit-dalle-autopsie-2668990.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/tragedia-maldive-l-incognita-delle-torce-cosa-pu-aver-2669103.html",
-        "https://www.ilmessaggero.it/mondo/maldive_sub_italiani_poco_tempo_bombole_ossigeno_torce_cunicolo_maledetto-9551828.html",
-        "https://www.ilmessaggero.it/mondo/maldive_bombole_ossigeno_poca_aria_tempo_come_sono_morti-9551828.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Ebola, Pregliasco: non esiste rischio zero",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/24/epidemia-ebola-congo-204-morti-notizie/8397171/",
-        "https://www.ilgiornale.it/news/politica/ebola-congo-rischio-molto-elevato-e-lallarme-riguarda-altri-2668985.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/24/msf-corsa-contro-il-tempo-per-lemergenza-ebola-in-congo_efaa0597-5b18-4ff0-b960-fe24baf46d8d.html",
-        "https://www.repubblica.it/esteri/2026/05/24/news/ebola_oms_alza_livello_allerta_usa_bloccano_voli_africa-425366300/",
-        "https://www.ilsole24ore.com/art/virus-ebola-pregliasco-italia-rischio-contagio-AILm3sFD"
       ]
     }
   ]
