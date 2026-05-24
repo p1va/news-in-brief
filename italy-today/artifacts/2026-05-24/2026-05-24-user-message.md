@@ -1,0 +1,566 @@
+Here is the latest data for today's show:
+- In <previous_episode_transcript> find the script for the last episode for context.
+- In <clustered_headlines> find the "Top Stories" (widely covered).
+- In <other_headlines> find news that were only covered by single source.
+
+
+<previous_episode_transcript>
+# Previous Episode Transcript (2026-05-23)
+Welcome to another episode of "Italy Today", today is Saturday 23 and this episode was curated by Gemini 3.1 Pro.
+
+Let's start with a rapid look at the headlines. In global geopolitics, President Donald Trump has been presented with final military options regarding Iran, as the White House weighs whether to resume active conflict or allow more time for negotiations over Tehran's nuclear program. Meanwhile, at the Trento Economics Festival, former Prime Minister Romano Prodi issued a scathing critique of the European Union, accusing the bloc of acting like "servants" to the Trump administration while lacking a cohesive strategy to deal with China. Domestically, Public Administration Minister Paolo Zangrillo announced a massive hiring wave, promising to inject up to 250,000 new state employees into the system in 2026 to modernize the bureaucracy. On the industrial front, the government has officially unlocked over 1.3 billion euros in stimulus funds for the struggling automotive sector. And finally, Minister Roberto Calderoli confirmed the government will push forward with a new electoral law introducing a three percent threshold, a move that could drastically reshape the parliament. But today, the nation's focus is firmly on the past.
+
+Today marks the 34th anniversary of the Capaci bombing, the mafia assassination of Judge Giovanni Falcone, his wife Francesca Morvillo, and their police escort. From the highest offices of the state to the streets of Palermo, Italy paused to remember the tragedy that fundamentally altered the Republic. President Sergio Mattarella and Prime Minister Giorgia Meloni both issued statements declaring May 23rd the beginning of Italy's civil resurgence, framing the state's subsequent crackdown on organized crime as a definitive victory for institutional integrity. 
+
+Yet, the political synthesis of the day reveals that the memory of 1992 is an active ideological battleground. On the left and the anti-establishment front, *Il Fatto Quotidiano* and progressive networks focus heavily on the speeches of prominent magistrates like Nino Di Matteo, who used today's rallies to accuse segments of the current establishment of seeking to archive the search for the "hidden masterminds" behind the massacres. They frame the anniversary not as a closed chapter, but as an ongoing investigation into state-mafia collusion. Conversely, conservative papers like *Il Giornale* push back against these perpetual conspiracies. They emphasize the state's triumph over the Corleonesi clan, praising the current government's hardline justice policies and viewing the left's focus on institutional shadows as a cynical attempt to delegitimize the current political class. 
+
+The takeaway is that the memory of Giovanni Falcone is no longer just about defeating the mafia. It has become a proxy war. As various factions lay claim to his legacy, the commemoration of the Capaci massacre highlights the deep, unresolved tensions over trust in the Italian state itself.
+
+Following up on yesterday's lead story, the diplomatic shockwaves from the Gaza flotilla incident are spreading rapidly across Europe. After Italian Foreign Minister Antonio Tajani requested EU sanctions against Israel's National Security Minister Itamar Ben Gvir, Paris has taken immediate action. Today, the French government officially banned Ben Gvir from entering French territory, citing "unspeakable behavior" toward the detained activists. This move coincides with a joint declaration from Italy, France, Germany, and the UK demanding an immediate halt to Israeli settlements in the West Bank. The Meloni government's initial pushback against the treatment of Italian citizens is now snowballing into a coordinated European fracture with the Israeli hard-right.
+
+Moving from international diplomacy to domestic environmental crises, Pope Leo XIV made a historic visit today to Acerra, the epicenter of Campania's infamous "Terra dei Fuochi", or Land of Fires. Greeted by thousands, the Pope met with families of cancer victims whose illnesses are linked to decades of illegal toxic waste dumping by the Camorra. While local politicians often prefer to treat the region's environmental disaster as a problem of the past, the Pontiff's visit violently thrusts the issue back into the national spotlight. By describing the area as a "deadly concentrate of dark interests," Pope Leo XIV is applying immense moral pressure on Rome and regional authorities to finally deliver on long-delayed decontamination projects.
+
+But before we go, the glitter and glamour of the 79th Cannes Film Festival comes to an end tonight as the jury prepares to award the coveted Palme d'Or. While Italian cinema waits with bated breath for the final verdict on the Croisette, one highly anticipated award has already been handed out. The prestigious "Palm Dog", celebrating the best canine performance in film, went to a very good boy named Yuri, the breakout star of the movie "La Perra". Because even in the high-stakes world of international cinema, everyone loves a good dog.
+
+I will see you tomorrow.
+</previous_episode_transcript>
+
+
+
+<clustered_headlines>
+# Coverage Pulse - 2026-05-24
+
+## 1. Scontri tra ultrà a Torino prima del derby
+
+> **Context:** Alcuni fermati e qualche ferito tra forze dell'ordine
+
+- **Libero**: Torino, "colori della Juventus vietati allo stadio": scoppia il caso 
+- **La Stampa**: Derby della Mole, caccia all'uomo tra ultras nella notte. Alta tensione per stasera In attesa della partita di questa sera, granata e bianconeri si sono cercati per ore. La polizia, però, è sempre riuscita a trovarsi al posto giusto nel momento giusto
+- **La Stampa**: Derby di Torino, assalto degli ultras Juve: sassaiola fuori dallo stadio, tifosi rifugiati nei bar La polizia riesce a evitare il contatto tra le due tifoserie: tre arresti. Nella notte la caccia all'uomo per la città
+- **ANSA**: Scontri tra ultrà a Torino prima del derby Alcuni fermati e qualche ferito tra forze dell'ordine
+- **Fanpage.it**: Scontri prima del derby Torino-Juventus, lacrimogeni e tifosi fermati: tensione altissima Giornata e notte di forti tensioni a Torino tra ultras di Torino e Juventus prima del derby, con disordini vicino allo stadio e intervento delle forze dell’ordine. Contestato anche il caso del “dress code” per i tifosi, poi bloccato dalla Questura.Continua a leggere
+- **Il Giornale**: Scontri tra ultras di Torino e Juventus I due cortei dei tifosi hanno provato a venire a contatto a poche ore dal derby. Lancio di bottiglie verso alcuni poliziotti. Fermati alcuni ultras
+- **La Repubblica**: Derby Toro-Juve, scontri tra tifosi. Gli ultras bianconeri: “Uno di noi ferito, non dovete giocare” I supporter organizzati sono venuti a contatto ad alcune centinaia di metri dallo stadio. Il capitano bianconero Locatelli a colloquio con la curva. Sospesa la partita di Torino, partite invece le altre quattro gare
+- **ANSA**: Serie A: scontri tra tifosi a Torino. Partite al via solo su quattro campi LIVE Derby Torino: squadre ancora negli spogliatoi, ultrà minacciano invasione di campo
+- **ANSA**: Scontri a Torino prima del derby, tifoso in codice rosso. Gli ultrà della Juve chiedono di non giocare, squadre ancora negli spogliatoi I disordini scoppiati nei pressi dello stadio. Feriti quattro poliziotti
+- **Adkronos**: Torino-Juventus, derby comincia alle 21.45. Gli scontri e la richiesta dei tifosi bianconeri: "Non giocate" I bianconeri affrontano il Torino nell'ultima giornata di Serie A
+- **Il Fatto Quotidiano**: Scontri prima del derby di Torino, tifoso juventino ferito alla testa. Contestazione degli ultras bianconeri sugli spalti Domenica di forte tensione a Torino prima del derby tra Juventus e Torino, segnato da scontri tra gruppi ultras e dal ferimento di un tifoso bianconero. Un uomo di 45 anni è stato soccorso dal personale del 118 di Azienda Zero e trasportato in codice rosso all’ospedale Mauriziano, per poi essere trasferito al Cto a […] L'articolo Scontri prima del derby di Torino, tifoso juventino ferito alla testa. Contestazione degli ultras bianconeri sugli spalti proviene da Il Fatto Quotidiano.
+- **Il Messaggero**: Torino-Juventus, gli ultras bianconeri chiedono di non giocare: tifoso grave in ospedale dopo gli scontri fuori dallo stadio Pomeriggio di tensione nei pressi dello stadio Olimpico-Grande Torino, dove alle 20.45 in programma il derby della Mole tra Torino e Juventus. Gruppi ultras delle due tifoserie hanno tentato di...
+
+
+## 2. A Cannes trionfa (di nuovo) il rumeno Cristian Mungiu con "Fjord"
+
+- **La Repubblica**: Cristian Mungiu Palma d’oro. A Cannes vincono le famiglie in bilico Al regista romeno. il massimo riconoscimento. Tre gli ex aequo decisi dalla giuria presieduta da Park Chan-wook
+- **ANSA**: Palma d'oro a Mungiu per il film 'Fjord', a Cannes l'eco di guerre e diritti a rischio Premio speciale della giuria per Minotaur di Zvyagintsev che si rivolge a Putin: 'Ponete fine alla carneficina'. Tanti ex aequo. Barbra Streisand in video
+- **Il Fatto Quotidiano**: Cannes 2026, trionfa Cristian Mungiu con Fjord. Un Palmares europeo tra guerra, politica e grandi valori umani La Palma d’oro della 79ma edizione del Festival di Cannes è andata a Fjord del romeno Cristian Mungiu, che ha dunque raddoppiato il massimo riconoscimento sulla Croisette già ricevuto con l’indimenticabile 4 mesi, 3 settimane, 2 giorni nel 2007. Un film bellissimo, rigoroso, politico ed esemplificativo rispetto alla possibilità di conciliare le differenze sociali e […] L'articolo Cannes 2026, trionfa Cristian Mungiu con Fjord. Un Palmares europeo tra guerra, politica e grandi valori umani proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Cannes 2026, tutti i vincitori: Palma d’oro al film Fjord di Mungiu, Miglior Regia a La bola negra e Fatherland I vincitori del Festival di Cannes 2026: Palma d’Oro a Fjord di Cristian Mungiu, Migliore attrice ex aequo a Virginie Efira e Tao Okamoto per il film All of a sudden. Ex aequo anche per il Miglior Attore. Il premio è stato vinto da Emmanuel Macchia e Valentin Campagne per il film Coward.Continua a leggere
+- **Il Post**: I vincitori del festival di Cannes 
+- **Il Giornale**: Palma d'Oro a "Fjord". Premio alla regia ex aequo Vince il romeno Cristian Mungiu. "Bola Negra" e "Fatherland" condividono il riconoscimento
+- **Il Giornale**: Cannes 2026, trionfa “Fjord”. Tutti i premi, gli ex aequo e l’omaggio a Barbra Streisand Dal trionfo di “Fjord” alla Palma d’oro onoraria a Barbra Streisand, il Festival di Cannes 2026 ha regalato una serata ricca di emozioni, premi ex aequo e discorsi contro guerra e violenza
+- **Il Manifesto**: Cannes 79, tutti i premi Palma d’Oro al film Fjord di Cristian Mungiu Grand Prix a Minotaur di Andrey Zvyagintsev Premio della Giuria al The Dreamed Adventure di Valeska Grisebach Migliore Regia ex aequo a […] The post Cannes 79, tutti i premi first appeared on il manifesto.
+- **Il Messaggero**: Festival di Cannes 2026, Palma d'Oro a Cristian Mungiu per Fjord. Storico ex aequo per la regia a “La Bola negra” e “Fatherland” Al Festival di Cannes trionfa Fjord, il film del romeno Cristian Mungiu che, già premiato nel 2007, entra nel ristrettissimo club dei registi premiati due volte con la Palma d’oro (ne...
+- **La Repubblica**: Cannes, da “Fjord” a “Minotaur” i film vincitori e quando li vedremo in sala o in streaming Praticamente tutti i titoli premiati hanno già una distribuzione in Italia, ma non li vedremo prima dell’autunno
+- **Libero**: Cannes 2026, Mungiu Palma d'oro con Fjord: "Spero susciti più dubbi in chi è sicuro di avere ragione" 
+- **Libero**: A Cannes trionfa (di nuovo) il rumeno Cristian Mungiu con "Fjord" 
+
+
+## 3. Spari vicino alla Casa Bianca, ucciso l'attentatore. Trump: "Era ossessionato dall'edificio più sacro del Paese"
+
+> **Context:** La residenza del presidente Usa in lockdown per circa un'ora, Secret service e Fbi in azione. Ferito un passante. L'attentatore Nasir Best in passato aveva già cercato di entrare nella Casa Bianca
+
+- **La Repubblica**: Spari fuori dalla Casa Bianca. Morto l’attentatore, 21 anni. “Si credeva Gesù, sui social scriveva vorrei far male a Trump” Sono intervenuti gli agenti speciali e l’Fbi. Una persona è in gravi condizioni. Aveva disturbi mentali, un giudice aveva disposto il divieto di avvicinamento. Il post del presidente: “Era ossessionato dalla Casa Bianca, l’evento dimostra la necessità di costruire uno spazio più sicuro”
+- **La Stampa**: Casa Bianca: la raffica degli spari ripresa da un testimone oculare Nelle immagini girate da un passante nei pressi della Casa Bianca, al checkpoint tra 17th Street e Pennsylvania Avenue, si sente distintamente la raffica di colpi, mentre la gente inizia a correre per allontanarsi il più possibile dalla zona. Secondo quanto dichiarato dai servizi segreti americani, il presidente Donald Trump si trovava alla Casa Bianca al momento dell'accaduto. L?assalitore è stato ucciso
+- **La Stampa**: Spari contro la Casa Bianca, ucciso l’attentatore. Sui social scriveva: “Vorrei far male a Trump” Esplosa una trentina di colpi di arma da fuoco. Nessun agente del Servizio Segreto è rimasto ferito. L’uomo, il 21enne Nasire Best, ha detto di essere «Gesù Cristo» e di «voler essere arrestato»
+- **ANSA**: Spari vicino alla Casa Bianca, il Secret Service uccide l'aggressore La residenza Trump in lockdown, poi revocato. L'aggressore aveva sparato contro l'edificio. Un passante è rimasto ferito
+- **Adkronos**: Spari contro la Casa Bianca, ucciso l'attentatore: "Si credeva Dio" Un 21enne apre il fuoco contro gli agenti del Secret Service e viene ucciso. Un passante ferito
+- **Il Fatto Quotidiano**: Gli spari in diretta: il giornalista interrompe il collegamento tv dalla Casa Bianca. La fuga nella briefing room | Video Minuti di terrore alla Casa Bianca, quando un uomo armato ha aperto il fuoco contro gli agenti del Secret Service in uno dei checkpoint vicino al perimetro. L’aggressore è morto poco dopo in ospedale in seguito alle ferite riportate. Nella sparatoria è rimasta ferita anche una persona: è ricoverata in ospedale in condizioni gravi. L’allarme […] L'articolo Gli spari in diretta: il giornalista interrompe il collegamento tv dalla Casa Bianca. La fuga nella briefing room | Video proviene da Il Fatto Quotidiano.
+- **Il Fatto Quotidiano**: Attacco alla Casa Bianca: uomo armato apre il fuoco, ucciso dagli agenti del Secret Service In passato si era già scontrato con gli agenti del Secret Service, una mentre voleva tentare di entrare alla CasaBianca. Il 21enne Nasir Best è stato colpito e ferito a morte dagli agenti dopo avere aperto il fuoco in uno dei checkpoint vicino al perimetro della Casa Bianca. Un gesto che ha fatto vivere minuti […] L'articolo Attacco alla Casa Bianca: uomo armato apre il fuoco, ucciso dagli agenti del Secret Service proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Spari nei pressi della Casa Bianca davanti ai giornalisti, l’aggressore ucciso dai Servizi Segreti Un giovane di 21 anni, Nasir Best, ha aperto il fuoco nei pressi della Casa Bianca nella serata di ieri, sabato 23 maggio. I Servizi Segreti lo hanno neutralizzato rispondendo al fuoco. Il 21enne era noto alle forze dell'ordine e si era già presentato agli agenti che lo avevano arrestato nel giugno scorso come "Gesù Cristo".Continua a leggere
+- **Il Giornale**: Spari vicino alla Casa Bianca, ucciso l'attentatore. Trump: "Era ossessionato dall'edificio più sacro del Paese" La residenza del presidente Usa in lockdown per circa un'ora, Secret service e Fbi in azione. Ferito un passante. L'attentatore Nasir Best in passato aveva già cercato di entrare nella Casa Bianca
+- **Libero**: Uomo spara fuori dalla Casa Bianca, ucciso dal Secret service 
+- **Libero**: Sparatoria alla Casa Bianca: "Sono Gesù" e viene ucciso, chi è l'attentatore “Si proclamava Gesù” l’uomo che nella notte italiana ha sparato davanti alla Casa Bianca, facendo scattare il lockdown nel cuore politico degli Stati Uniti. Una sparatoria con almeno 30 colpi e 1 feriti vicino a Pennsylvania Avenue 1.600 di Washington, che per qualche decina di minuti ha tenuto con il fiato sospeso l’America e il mondo. L’attentatore era già noto agli agenti della sicurezza. Considerato una persona con problemi mentali, aveva detto di essere Gesù Cristo e aveva già violato un ordine di non avvicinarsi alla Casa Bianca, secondo quanto riferisce il New York Post. Secret Service e agenti dell’Fbi sono subito intervenuti per fermare il folle che nella sparatoria è rimasto ferito gravemente: l’uomo è morto dopo il ricovero in ospedale. Il suo nome era Nasire Best, 21 anni, del Maryland. Lo rende noto Fox News. Best è stato ucciso a colpi d'arma da fuoco dagli agenti dei servizi segreti statunitensi intorno alle 18 (ora della costa orientale degli Stati Uniti. Aveva sparato con una pistola vicino a un checkpoint della Casa Bianca. Il presidente Donald Trump è rimasto illeso all'interno della Casa Bianca e l'attentatore non è mai riuscito a oltrepassare il perimetro generale della struttura. Un civile adulto presente sul posto è rimasto ferito durante la sparatoria e un agente dei servizi segreti statunitensi è stato portato in ospedale a scopo precauzionale. Secondo alcune fonti, riferisce sempre Fox, Best aveva avuto precedenti contatti con i servizi segreti statunitensi almeno in due occasioni nel 2025 e come detto presentava una storia di problemi di salute mentale. L'Fbi, l'Atf e il dipartimento di polizia metropolitana stanno collaborando alle indagini in corso.
+- **ANSA**: Spari vicino alla Casa Bianca, giornalista interrompe la diretta e si mette al riparo L'aggressore ucciso dal Secret Service, una persona e' rimasta ferita nella sparatoria
+- **La Verità**: Sparatoria vicino alla Casa Bianca, ucciso un uomo armato Attimi di panico nei pressi della Casa Bianca: un uomo armato ha aperto il fuoco contro gli agenti del Secret Service prima di essere ucciso. Ferita gravemente una persona presente nella zona. Giornalisti costretti a interrompere le dirette e a mettersi al riparo.Continua a leggere
+
+
+## 4. Ucraina; la vendetta di Putin, pioggia di missili e droni su Kiev
+
+> **Context:** Lanciato anche il supermissile Oreshnik. Lo sdegno di Zelensky e dei leader europei
+
+- **La Repubblica**: Guerra Ucraina - Russia, le news di oggi. Attacco russo con missili Oreshnik, 4 morti e 60 feriti Zelensky e gli Usa avevano lanciato un allarme sul massiccio raid russo in arrivo. Due vittime nella capitale, colpire varie aree dell’Ucraina
+- **La Repubblica**: Massiccio attacco russo su Kiev, lanciato anche il supermissile Oreshnik progettato per colpire l’Europa Era stato annunciato dall’ambasciatore americano in Ucraina un attacco eccezionale di Mosca e così è stato. I missili utilizzati sono progettati per attacchi nucleari
+- **La Stampa**: Oreshnik, il missile balistico che viaggia a 3 chilometri al secondo progettato per colpire l’Europa L’arma usata dalla Russia stanotte era già stata utilizzata per missioni di combattimento nel novembre 2024, in via sperimentale
+- **La Stampa**: Massiccio attacco russo su Kiev: almeno 4 morti e decine di feriti. Colpiti 40 punti della capitale Una massiccia ondata di missili e droni ha danneggiato edifici residenziali, uffici e scuole
+- **ANSA**: Un morto e almeno 40 feriti a Kiev per l'attacco russo nella notte Danni in più di 40 punti della capitale, in azione i soccorritori
+- **Il Fatto Quotidiano**: Attacco russo notturno su Kiev: oltre 50 missili e 700 droni sulla capitale Ucraina. Poi l’allerta aereo per i missili Oreshnik Una nuova serie di forti esplosioni è stata udita a Kiev nelle prime ore della mattina di domenica 24 maggio da un giornalista dell’AFP presente sul posto. Poi è arrivato l’allerta aereo in tutto il Paese a causa della minaccia di utilizzo dei missili Oreshnik. La capitale ucraina era stata presa di mira da missili […] L'articolo Attacco russo notturno su Kiev: oltre 50 missili e 700 droni sulla capitale Ucraina. Poi l’allerta aereo per i missili Oreshnik proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Quattro morti e 50 feriti in una serie di attacchi russi su Kiev: lanciato anche un missile Oreshnik Quattro persone sono morte e una cinquantina sono rimaste ferite in Ucraina a seguito di un massiccio attacco russo: Mosca ha lanciato anche un missile Oreshnik, non intercettabile perché in grado di viaggiare a oltre 10 volte la velocità del suono.Continua a leggere
+- **Il Giornale**: Massiccio raid di Mosca su Kiev: l'esercito di Putin usa gli Oreshnik Attacchi anche su altre città del Paese. Il bilancio è di due morti e 60 feriti
+- **Il Messaggero**: Ucraina, maxi attacco russo nella notte con missili e droni: lanciato anche il razzo Oreshnik Nella notte tra il 24 e il 24 maggio, le forze russe hanno lanciato un attacco combinato su larga scala con missili e droni contro Kiev e la regione circostante, colpendo edifici residenziali e...
+- **La Stampa**: Kiev: la visita di Zelensky nel quartiere devastato dagli attacchi russi La visita del presidente ucraino Zelensky ai quartieri di Kiev più colpiti dal massiccio attacco missilistico russo nella notte. Almeno quattro le persone che sono morte e oltre 100 i feriti. Zelensky ha confermato che la Russia ha utilizzato il missile balistico Oreshnik, in grado di trasportare testate nucleari. Mosca ha colpito l'Ucraina con "90 missili e 600 droni", ha dichiarato l'aeronautica ucraina, aggiungendo di aver intercettato 55 missili e 549 droni. Uno di questi missili era appunto un Oreshnik, un missile balistico ipersonico a medio raggio russo in grado di trasportare testate nucleari Segui la diretta
+- **Libero**: Massiccio attacco russo su Kiev, "una notte davvero terrificante" 
+- **Libero**: Zelensky: Putin ora usa anche l'Oreshnik, sono "davvero pazzi" 
+- **ANSA**: L'Oreshnik, il missile ipersonico dello zar che può colpire l'Europa Viaggia alla velocità di 3 Km al secondo e può portare più testate nucleari
+- **ANSA**: Ucraina; la vendetta di Putin, pioggia di missili e droni su Kiev Lanciato anche il supermissile Oreshnik. Lo sdegno di Zelensky e dei leader europei
+
+
+## 5. Media, 'accordo tra Usa e Iran vicino alla firma, prevista tregua di 60 giorni e la riapertura di Hormuz'
+
+> **Context:** Le questioni nucleari sono ancora oggetto di negoziazione
+
+- **La Repubblica**: Trump: “L’accordo è pronto, l’Iran riaprirà Hormuz”. Il nodo dell’uranio arricchito Giornata di contatti frenetici, il presidente statunitense: “Intesa al 50% entro poche ore, altrimenti attacco”. Le consultazioni con le monarchie del Golfo e Israele. Anche la Repubblica islamica parla di progressi negoziali ma il memorandum non è chiuso. Mediatori al lavoro
+- **La Repubblica**: Un memorandum generico Iran-Usa con una tregua di sessanta giorni per parlare di Hormuz e atomica Dagli Usa impegno a levare le sanzioni ai pasdaran, lo Stretto riaprirebbe gradualmente: resta aperta la questione dei pedaggi
+- **La Stampa**: Iran, l’annuncio di Trump: “Negoziate le linee generali di un accordo, Hormuz sarà riaperto” Teheran precisa: «Lo Stretto rimane sotto il nostro controllo»
+- **ANSA**: Media, 'accordo tra Usa e Iran vicino alla firma, prevista tregua di 60 giorni e la riapertura di Hormuz' Le questioni nucleari sono ancora oggetto di negoziazione
+- **Il Fatto Quotidiano**: Media: “L’accordo Iran-Usa prevede tregua di 60 giorni e Hormuz riaperto senza pedaggi”. Resta aperto il nodo del nucleare L'articolo Media: “L’accordo Iran-Usa prevede tregua di 60 giorni e Hormuz riaperto senza pedaggi”. Resta aperto il nodo del nucleare proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Iran, la guerra in diretta, Trump: “Accordo in gran parte negoziato”, ma i Pasdaran negano: “Fa solo propaganda, controlliamo Hormuz” Le ultime news dalla guerra Iran-USA in tempo reale: Trump annuncia un accordo imminente con Teheran, ma i Pasdaran frenano: "Fa propaganda, Hormuz rimane sotto la nostra gestione".Continua a leggere
+- **Il Giornale**: Hormuz, uranio e petrolio: ecco cosa prevede l'intesa tra Stati Uniti e Iran Dalla tregua di 60 giorni alla partita sul nucleare, passando per lo Stretto di Hormuz, le sanzioni petrolifere e il ruolo di Israele: cosa contiene davvero la bozza di accordo che Washington e Teheran stanno cercando di chiudere nelle ultime ore
+- **Il Giornale**: Usa e Iran vicini all'accordo: tregua di 60 giorni e Hormuz riaperto. Teheran: "Lo stretto rimane sotto il nostro controllo" L'intesa fermerebbe le ostilità su tutti i fronti, compreso il Libano. La Repubblica islamica si impegna a rinunciare alle scorte di Uranio. Verrebbero sbloccati 25 miliardi di beni iraniani congelati all'estero
+- **Il Giornale**: Usa-Iran, Trump: "Pronto l'accordo, negoziate le linee generali". E assicura: "Hormuz sarà riaperto". Ma Teheran frena Il presidente americano minaccia: "Intesa o attacco". Poi sente al telefono i leader del Golfo: "Annuncio a breve i dettagli". Nuova proposta da Teheran
+- **Il Messaggero**: Iran, c'è l'accordo con gli Usa: tregua di 60 giorni, stop sanzioni sul petrolio e Hormuz riaperto senza pedaggi. Si tratta sul nucleare Stretta finale su un accordo tra Stati Uniti e Iran per una proroga alla tregua di 60 giorni, durante la quale lo Stretto di Hormuz verrebbe riaperto, l'Iran potrebbe vendere liberamente...
+- **Il Messaggero**: Iran-Usa, la questione nucleare può aspettare. Ora i mediatori puntano allo Stretto di Hormuz Washington e Teheran continuano a minacciarsi vicendevolmente. Donald Trump afferma di essere pronto a ridurre l’Iran in cenere, se non viene a più miti consigli. La nuova Guida...
+- **Il Giornale**: Iran, Trump annuncia l’accordo: "Ho già parlato con Netanyahu" Per il tycoon negoziate le linee di un patto con i leader del Golfo che prevede la riconsegna dell’uranio e la riapertura di Hormuz: "Presto comunicheremo i dettagli"
+- **Il Giornale**: Senza Hormuz libero. Trump pronto ai raid per aprire lo Stretto L'economia globale in crisi, se l'Iran resiste il tycoon scatenerà un'offensiva
+- **Libero**: Trump e l'Iran annunciano un accordo "da finalizzare" 
+- **ANSA**: Medio Oriente; slitta la firma dell'accordo Iran-Usa, Hormuz resta chiuso. Si tratta ancora Trump: 'Non ho fretta'. E Teheran avverte: 'Attenti, può saltare tutto'
+
+
+## 6. Pole di Russell al Gp di Formula 1 in Canada, Antonelli 2°: Hamilton 5°, Leclerc in difficoltà
+
+> **Context:** Mostruoso giro di Russell che conquista la pole position nel Gp di Formula 1 in Canada. Si piazza secondo Antonelli e terzo Norris. Le Ferrari di Hamilton e Leclerc rispettivamente quinta e ottava.Continua a leggere
+
+- **ANSA**: F1: in Canada Russell conquista sprint e pole, secondo Antonelli Terzo Norris davanti a Piastri, quinto Hamilton, ottavo Leclerc. Scintille tra i piloti Mercedes, il team non gradisce
+- **Il Fatto Quotidiano**: F1, oggi il GP Canada: la griglia di partenza e gli orari | Dove vedere in tv e streaming diretta e replica Nella serata italiana scatta il Gp del Canada, quinto appuntamento del Mondiale di Formula 1, sul circuito “Gilles Villeneuve” di Montreal. Tutti a caccia di Andrea Kimi Antonelli, il 19enne bolognese leader della classifica Piloti. Dopo la Sprint vinta da George Russell, con il contatto in pista e le tensioni interne al team Mercedes, oggi […] L'articolo F1, oggi il GP Canada: la griglia di partenza e gli orari | Dove vedere in tv e streaming diretta e replica proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Formula 1 oggi, orari TV del GP Canada su TV8 e Sky e dove vederlo: Russell in pole, Ferrari in difficoltà La diretta della gara del GP Canada di F1 in calendario oggi: gli aggiornamenti live. Leclerc e Hamilton sfidano Kimi Antonelli, Russell, Norris, Piastri e Verstappen per la vittoria.Continua a leggere
+- **Fanpage.it**: Pole di Russell al Gp di Formula 1 in Canada, Antonelli 2°: Hamilton 5°, Leclerc in difficoltà Mostruoso giro di Russell che conquista la pole position nel Gp di Formula 1 in Canada. Si piazza secondo Antonelli e terzo Norris. Le Ferrari di Hamilton e Leclerc rispettivamente quinta e ottava.Continua a leggere
+- **Il Giornale**: F1, Russell la spunta su Antonelli, è pole in Canada. Male le due Ferrari L’inglese della Mercedes doppia la vittoria nella sprint race con la pole position nella gara lunga. Kimi deve accontentarsi del secondo posto: molto peggio i ferraristi con Hamilton 5° e Leclerc addirittura 8°
+- **Adkronos**: Formula 1, oggi il Gp del Canada: orario, griglia di partenza e dove vederlo in tv e streaming Il Circus fa tappa a Montreal per il quinto appuntamento della stagione
+- **Adkronos**: Formula 1, si corre a Montreal: oggi Gp Canada - Diretta Riparte il mondiale dopo la Sprint vinta da Russell
+
+
+## 7. Tragedia alle Maldive, l’incognita delle torce: cosa può aver ingannato i sub italiani
+
+> **Context:** In attesa dell’esame delle autopsie e dei filmati delle GoPro, alcune guide subacquee delle Maldive spiegano quanto sia importante il ruolo delle torce anche e soprattutto in presenza di sabbia
+
+- **ANSA**: Maldive: le salme dei sub morti in Italia, settimana decisiva per le indagini Lunedì prime autopsie. Analisi di go-pro e interrogatori. Si indaga per omicidio colposo
+- **Fanpage.it**: Cosa possono svelare le autopsie sui sub morti alle Maldive, il medico legale: “Annegamento e gas tossici” Le autopsie sugli italiani morti durante un'immersione alle Maldive potrebbero chiarire le cause della tragedia nella grotta di Devana Kandu. Lo spiega a Fanpage.it il medico legale Marcello Lorello: "Dall'intrappolamento ai gas tossici, la causa della morte è solo uno degli elementi di una ricostruzione più ampia"Continua a leggere
+- **Il Giornale**: Tragedia alle Maldive, l’incognita delle torce: cosa può aver ingannato i sub italiani In attesa dell’esame delle autopsie e dei filmati delle GoPro, alcune guide subacquee delle Maldive spiegano quanto sia importante il ruolo delle torce anche e soprattutto in presenza di sabbia
+- **Il Messaggero**: Maldive, perché i sub italiani avevano poco tempo per risalire: le bombole ricreative, le torce e il cunicolo chiuso Che tipo di attrezzatura hanno utilizzato i cinque sub italiani morti alle Maldive? Qual è la differenza con il materiale utilizzato dal team di speleosub finlandese che ha recuperato i...
+- **Il Giornale**: In Italia le salme dei sub. La verità dalle autopsie Domani in Procura a Roma attrezzature e GoPro. Team troppo esperto per dotazioni così inadeguate
+- **Il Messaggero**: Maldive, le bombole ricreative (con meno ossigeno), le torce e il cunicolo chiuso: perché i sub italiani avevano poco tempo per risalire Che tipo di attrezzatura hanno utilizzato i cinque sub italiani morti alle Maldive? Qual è la differenza con il materiale utilizzato dal team di speleosub finlandese che ha recuperato i...
+- **La Repubblica**: Sub morti, la stretta delle Maldive sulle immersioni. Domani la prima autopsia Il governo ha intenzione di introdurre una legge per disciplinare l’attività dei sommozzatori. Previste sanzioni durissime.
+- **ANSA**: Maldive, l'ultimo saluto alla prof nei fondali liguri Preghiera al Cristo degli Abissi a -17 metri. Domani autopsie e analisi delle go-pro
+
+
+## 8. Corsa contro il tempo per l'emergenza ebola in Congo. Rezza: 'In occidente rischio non escluso ma controllabile'
+
+> **Context:** Oltre 200 morti, Msf: nella zona colpita dispiegamento di 'personale medico e logistico con ampia esperienza'
+
+- **ANSA**: Msf: 'Corsa contro il tempo per l'emergenza Ebola in Congo' Nella zona colpita dispiegamento di 'personale medico e logistico con ampia esperienza'
+- **Il Giornale**: Ebola, in Congo il rischio è "molto elevato". E l'allarme riguarda altri 10 Paesi africani Gli Stati Uniti rafforzano gli screening negli aeroporti. La nazionale di calcio congolese in quarantena verso i Mondiali
+- **Il Sole Ventiquattro Ore**: Pregliasco: per Ebola non è pandemia ma irresponsabile sottovalutare “L’epidemia di Ebola nella Repubblica Democratica del Congo è un segnale che il mondo non può permettersi di ignorare. Non siamo davanti a uno scenario da pandemia globale come il...
+- **La Repubblica**: Ebola, l’Oms alza il livello di allerta. Gli Usa bloccano i voli da alcuni Paesi colpiti in Africa Il grado del rischio diventa “molto elevato” in Congo. I centri Msf bruciati, il capo progetto a Goma: “Mancano test e laboratori”
+- **Il Fatto Quotidiano**: “È una corsa contro il tempo”, l’allarme di Medici senza frontiere sull’epidemia di Ebola. Rischio diffusione in 10 paesi. Pregliasco: “Irresponsabile sottovalutare” Una “corsa contro il tempo” per contenere l’epidemia di Ebola nell’est della Repubblica Democratica del Congo, dove aumentano i casi sospetti, i decessi e il timore di una diffusione regionale del virus. A lanciare l’allarme è Medici Senza Frontiere, impegnata in una risposta d’emergenza su larga scala insieme alle autorità sanitarie congolesi e all’Organizzazione Mondiale […] L'articolo “È una corsa contro il tempo”, l’allarme di Medici senza frontiere sull’epidemia di Ebola. Rischio diffusione in 10 paesi. Pregliasco: “Irresponsabile sottovalutare” proviene da Il Fatto Quotidiano.
+- **La Repubblica**: “Contro Ebola ci mancano i test”. La testimonianza di Msf da Goma. Bruciate due tende per i malati Valeria Geppi, capo progetto di Medici Senza Frontiere nella Repubblica Democratica del Congo: “L’allarme per l’epidemia è scattato quando c’erano già decine di casi. Stiamo allestendo centri di isolamento, ma abbiamo così tante altre malattie da curare”
+- **ANSA**: Corsa contro il tempo per l'emergenza ebola in Congo. Rezza: 'In occidente rischio non escluso ma controllabile' Oltre 200 morti, Msf: nella zona colpita dispiegamento di 'personale medico e logistico con ampia esperienza'
+- **ANSA**: Emergenza Ebola, a rischio altri 10 paesi africani. Rezza: 'In Occidente rischio non escluso ma controllabile' Oltre 200 morti nella Repubblica democratica del Congo. Esperti, 'non sottovalutare'
+
+
+## 9. Classifica Serie A corsa Champions, le combinazioni per Roma, Milan, Juve e Como: cosa può succedere stasera
+
+> **Context:** Novanta minuti per decidere una stagione. L’ultima giornata di Serie A mette in scena una delle corse Champions più intricate degli ultimi anni, con quattro squadre racchiuse in...
+
+- **La Repubblica**: Champions, la notte da brividi per quattro: come stanno Milan, Roma, Como e Juve. Con polemica a Torino Stasera le sfide decisive per il terzo e quarto posto
+- **Il Fatto Quotidiano**: Serie A, oggi gli ultimi verdetti su Champions e retrocessione: Milan, Roma, Juve e Como in lotta, tutte le combinazioni Oggi la Serie A 2025/26 emette i suoi ultimi verdetti. Vanno assegnati gli ultimi due posti che valgono la Champions League, ma vengono stabilite anche le due squadre che andranno in Europa League. Soprattutto, si decide chi tra Lecce e Cremonese saluterà il massimo campionato e sarà retrocessa in Serie B, insieme a Pisa e […] L'articolo Serie A, oggi gli ultimi verdetti su Champions e retrocessione: Milan, Roma, Juve e Como in lotta, tutte le combinazioni proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Chi va in Champions a pari punti tra Milan, Roma, Como e Juventus: la classifica avulsa in Serie A In base ai risultati dell'ultima giornata di campionato vediamo cosa succede e come si calcola la posizione esatta con 3 o 4 squadre con lo stesso punteggio finale, considerati i criteri della classifica avulsa.Continua a leggere
+- **Il Messaggero**: Corsa Champions, le combinazioni di Roma, Milan, Juve e Como: cosa può succedere stasera Novanta minuti per decidere una stagione. L’ultima giornata di Serie A mette in scena una delle corse Champions più intricate degli ultimi anni, con quattro squadre racchiuse in...
+- **Il Messaggero**: Classifica Serie A corsa Champions, le combinazioni per Roma, Milan, Juve e Como: cosa può succedere stasera Novanta minuti per decidere una stagione. L’ultima giornata di Serie A mette in scena una delle corse Champions più intricate degli ultimi anni, con quattro squadre racchiuse in...
+- **Adkronos**: Corsa Champions: tutte le combinazioni per Milan, Roma, Como e Juve. Cosa cambia con la classifica avulsa Negli ultimi 90 minuti della stagione può ancora succedere di tutto in ottica quarto posto
+- **Il Messaggero**: Serie A, l'eventuale classifica avulsa nella corsa Champions, le combinazioni per Roma, Milan, Juve e Como Novanta minuti per decidere una stagione. L’ultima giornata di Serie A mette in scena una delle corse Champions più intricate degli ultimi anni, con quattro squadre racchiuse in...
+- **Fanpage.it**: Serie A LIVE, i risultati delle partite: chi va in Champions tra Juve, Milan, Roma e Como e chi retrocede tra Lecce e Cremonese La Serie A in diretta: chi va in Champions Juve, Milan, Roma e Como e chi retrocede in Serie B tra Lecce e Cremonese. I risultati e gli highlights.Continua a leggere
+
+
+## 10. Il Quirinale lancia il sito per gli 80 anni, Mattarella: 'La Repubblica siamo noi'
+
+> **Context:** L'iniziativa 'Fai il tuo video' in occasione dell'anniversario del referendum istituzionale del 2 giugno 1946. Da Zalone a Bisio, i primi filmati già online
+
+- **Il Sole Ventiquattro Ore**: Quirinale lancia sito per gli 80 anni, “fai il tuo il video per la Repubblica” L’iniziativa in occasione degli 80 anni dal referendum istituzionale del 2 giugno del 1946
+- **La Repubblica**: “Fai il tuo video per gli 80 anni della Repubblica”. L’iniziativa del Quirinale Anche Bisio, Zalone e Jasmine Paolini tra le decine e decine di cittadini che hanno aderito finora
+- **ANSA**: Il Quirinale lancia il sito per gli 80 anni: "Fai il tuo video per la Repubblica" L'iniziativa lanciata dal Colle in occasione dell'anniversario del referendum istituzionale del 2 giugno del 1946
+- **ANSA**: Il Quirinale lancia il sito per gli 80 anni, Mattarella: 'La Repubblica siamo noi' L'iniziativa 'Fai il tuo video' in occasione dell'anniversario del referendum istituzionale del 2 giugno 1946. Da Zalone a Bisio, i primi filmati già online
+- **Il Fatto Quotidiano**: “Per me la Repubblica è…”: da Checco Zalone a Riccardo Zanotti, il Quirinale celebra il 2 giugno e chiede ai cittadini di mandare i loro video “Vuoi essere anche tu un volto della Repubblica? Bastano pochi secondi di video“. Con questo claim il Quirinale ha lanciato una nuova iniziativa per celebrare l’anniversario della nascita della Repubblica e festeggiarne gli 80 anni, il prossimo 2 giugno. Per l’occasione è stata creata una piattaforma che si è già popolata di video: l’invito è […] L'articolo “Per me la Repubblica è…”: da Checco Zalone a Riccardo Zanotti, il Quirinale celebra il 2 giugno e chiede ai cittadini di mandare i loro video proviene da Il Fatto Quotidiano.
+- **Libero**: Decine di "video selfie" per celebrare gli 80 anni della Repubblica 
+- **ANSA**: 'Cosa è la Repubblica per te?' Il Colle lancia il sito per gli short video dei cittadini Iniziativa per il 2 giugno. Da Zalone a Bisio, i primi filmati già online. Mattarella: 'La Repubblica siamo noi'
+- **ANSA**: Da Zalone a Bisio, i video che raccontano la Repubblica sul sito del Quirinale La piattaforma per gli 80 anni rivolta soprattutto ai giovani, c'e' anche Jasmine Paolini
+
+
+## 11. Oltre 6 milioni di elettori alle urne oggi e domani, alle 19 affluenza al 34,5%
+
+> **Context:** Votano quasi 750 Comuni, test per le coalizioni. Fari su Venezia, Salerno, Reggio Calabria
+
+- **La Repubblica**: Urne aperte oggi e domani per oltre sei milioni: è sfida da Venezia a Messina Primo test dopo il referendum, con l’incognita affluenza: si eleggono i sindaci in 18 città capoluogo. Il centrosinistra cerca la sua rivincita in Laguna
+- **La Stampa**: La sfida dei sindaci, urne aperte: 6 milioni di italiani al voto Oggi e domani le amministrative. Il duello più importante a Venezia, dove il centrosinistra spera nella vittoria
+- **ANSA**: Si vota oggi e domani, oltre 6 milioni di elettori alle urne Quasi 750 Comuni coinvolti. Test per le coalizioni, fari su Venezia e Reggio Calabria
+- **Il Giornale**: Elezioni amministrative, si vota in 894 Comuni. Alle 12 affluenza poco sotto il 15% Urne aperte anche domani dalle 7 alle 15. Coinvolti 18 capoluoghi: nei Comuni sopra i 15mila abitanti possibile anche il voto disgiunto, eventuali ballottaggi il 7 e 8 giugno
+- **Il Sole Ventiquattro Ore**: Amministrative, alle 12 affluenza al voto poco sotto il 15%, in lieve calo Vanno al voto quasi 750 Comuni, 661 nelle Regioni a statuto ordinario e il resto in quelle a statuto speciale
+- **La Repubblica**: Urne aperte in oltre 700 comuni e 18 capoluoghi. Affluenza alle 12 poco sotto il 15% Si vota oggi dalle 7 alle 23 e domani dalle 7 alle 15. In totale, sono chiamati ai seggi oltre 6,3 milioni di italiani. Il dato precedente dell’affluenza a livello nazionale è del 15,75
+- **La Stampa**: Amministrative, alle 12 affluenza poco sotto il 15%: le sfide chiave I seggi chiudono domani alle 15, poi via alle operazioni di spoglio
+- **ANSA**: Oltre 6 milioni di elettori alle urne oggi e domani, alle 19 affluenza al 34,5% Votano quasi 750 Comuni, test per le coalizioni. Fari su Venezia, Salerno, Reggio Calabria
+- **ANSA**: Oltre 6 milioni di cittadini alle urne, alle 19 l'affluenza al 34,5%. Alle urne fino alle 15 di lunedì Votano quasi 750 Comuni, test per le coalizioni. Fari su Venezia, Salerno, Reggio Calabria
+
+
+## 12. “Per me, mentalmente, non è sostenibile continuare in questo modo”: perché Verstappen minaccia l’addio alla F1
+
+> **Context:** “Posso dirvi che se le cose restano così, allora… vedremo, perché per me, mentalmente, non è sostenibile continuare in questo modo un altro anno, assolutamente no”. Max Verstappen minaccia l’addio alla Formula 1. Il 28enne olandese, 4 volte campione del mondo, torna a sbandierare l’ipotesi di un suo ritiro se non ci saranno sostanziali novità […] L'articolo “Per me, mentalmente, non è sostenibile continuare in questo modo”: perché Verstappen minaccia l’addio alla F1 proviene da Il Fatto Quotidiano.
+
+- **Fanpage.it**: Verstappen è arrivato al limite, può lasciare la Formula 1: “Mentalmente non posso continuare così” Max Verstappen si è lasciato andare a una minaccia sul futuro, questo potrebbe essere il suo ultimo anno in Formula 1: "Per me, mentalmente, è semplicemente insostenibile rimanere in questo stato. Assolutamente no".Continua a leggere
+- **Libero**: Max Verstappen choc: "Se le cose restano così, non posso continuare" "Se le cose restano così per me impossibile continuare". A sganciare la bomba è Max Verstappen, per 4 anni di fila campione del mondo in Formula 1, lo scorso anno superato da Lando Norris su McLaren e quest'anno in grandi difficoltà con la sua Red Bull. "Non è mentalmente sostenibile continuare così", è stato il duro sfogo di Max al termine della gara sprint del Gran premio del Canada, dove é giunto settimo a quasi 16 secondi dal vincitore, George Russell su Mercedes. Nel mirino, più che la sua monoposto, c'è la Fia: Verstappen è tornato a minacciare di lasciare la Formula 1 al termine di questa stagione se le modifiche previste al regolamento sui motori per il prossimo anno non verranno approvate. "Se i regolamenti rimangono così, il prossimo sarà un anno lungo, e non lo voglio. Non sono mentalmente in grado di sostenerlo" ha detto. [[ge:kolumbus:liberoquotidiano:47851802]] La Fia, l'organo di governo della Formula 1, ha dichiarato due settimane fa di aver raggiunto un accordo di principio per introdurre modifiche che ridurrebbero la necessità di gestione energetica con i nuovi motori introdotti quest'anno. Sono però emerse opposizioni nei successivi colloqui sui dettagli del piano e al momento non c'è sufficiente accorso l'approvazione della proposta secondo i protocolli di governance della F1. L'olandese della Red Bull ha anche confermato che, se decidesse di smettere con le monoposto, non tornerebbe indietro: "Ci sono tante altre cose divertenti da fare, là fuori".
+- **Il Fatto Quotidiano**: “Per me, mentalmente, non è sostenibile continuare in questo modo”: perché Verstappen minaccia l’addio alla F1 “Posso dirvi che se le cose restano così, allora… vedremo, perché per me, mentalmente, non è sostenibile continuare in questo modo un altro anno, assolutamente no”. Max Verstappen minaccia l’addio alla Formula 1. Il 28enne olandese, 4 volte campione del mondo, torna a sbandierare l’ipotesi di un suo ritiro se non ci saranno sostanziali novità […] L'articolo “Per me, mentalmente, non è sostenibile continuare in questo modo”: perché Verstappen minaccia l’addio alla F1 proviene da Il Fatto Quotidiano.
+- **La Repubblica**: Verstappen è arrivato al limite: “Lascio la F1 se bloccano il cambio delle regole” Il pilota olandese, quattro volte campione del mondo, durissimo contro l'ipotesi di rinviare al 2028 la ripartizione 60:40 tra termico ed elettrico
+
+
+## 13. Grave incidente per Marios Oikonomou: l’ex Samp e Bologna è in condizioni estremamente critiche
+
+> **Context:** Il 34enne difensore greco Marios Oikonomou sta lottando tra la vita e la morte dopo essere stato operato d'urgenza alla testa in seguito a un grave incidente stradale che ha visto la sua motocicletta scontrarsi violentemente con un'automobile.Continua a leggere
+
+- **Fanpage.it**: Grave incidente per Marios Oikonomou: l’ex Samp e Bologna è in condizioni estremamente critiche Il 34enne difensore greco Marios Oikonomou sta lottando tra la vita e la morte dopo essere stato operato d'urgenza alla testa in seguito a un grave incidente stradale che ha visto la sua motocicletta scontrarsi violentemente con un'automobile.Continua a leggere
+- **Libero**: Oikonomou, l'ex Serie A rischia la vita: tragico incidente in moto Sta rischiando la vita, Marios Oikonomou. Il 34enne ex difensore greco, che in Italia ha militato tra le altre squadre con Bologna e Sampdoria, è rimasto vittima di un gravissimo incidente stradale a Giannina, in Grecia. Mentre viaggiava sulla sua motocicletta, il giocatore ritiratosi nel 2024 si è schiantato contro un'auto che stava facendo una inversione di marcia riportando gravi lesioni alla testa. Ora Oikonomou versa "in condizioni estremamente critiche" e "sta lottando per la vita", riferiscono i media greci. Oikonomou in carriera vanta 6 presenze nella Nazionale ellenica, 48 partite in Serie A e 32 in Serie B vestendo le maglie di Cagliari, Bologna, Spal, Bari e Sampdoria. Immediatamente soccorso, il 34enne è stato trasportato all'Ospedale Universitario di Giannina e sottoposto a un intervento chirurgico d'urgenza di craniectomia decompressiva e quindi ricoverato in terapia intensiva in condizioni molto critiche. Le prime 48 ore sono considerate decisive per le sue sorti: oggi sarà sottoposto a una risonanza magnetica. I media locali riportano le testimonianze di residenti e automobilisti di passaggio che confermano la pericolosità della strada. Oikonomou si è schiantato davanti a un ospedale, l'"Hatzikosta". Un medico che vi lavora, il chirurgo Philippos Siakas, appena pochi giorni fa aveva denunciato su Facebook proprio i pericoli per l'ingresso e l'uscita dei veicoli ricordando i numero incidenti già avvenuti in quel tratto di strada.
+- **Il Messaggero**: Marios Oikonomou, incidente in moto in Grecia: è gravissimo. In Italia ha giocato con Cagliari, Bologna e Sampdoria Marios Oikonomou, trentatreenne ex calciatore con un lungo trascorso nei campionati italiani, si trova ricoverato in gravi condizioni a Giannina, la sua città natale in Grecia a...
+- **Il Giornale**: Terribile incidente stradale per Marios Oikonomou: il calciatore lotta tra la vita e la morte Gravi lesioni al cranio per l'ex difensore greco, tuttora ricoverato nel reparto di terapia intensiva
+
+
+## 14. La Russa: 'Almirante favorì il percorso democratico". Bufera da sinistra
+
+> **Context:** Pd-Avs: 'Fu antisemita,è revisionismo'. Fonti vicine al presidente del Senato: 'Offendete anche Mattarella'
+
+- **Fanpage.it**: La Russa elogia Almirante: “Un fascista ma poi aiutò la democrazia”. Pd e Avs: “Era razzista e antisemita” Polemica per le parole del presidente del Senato. La Russa celebra il ricordo di Giorgio Almirante, funzionario del regime fascista nella Repubblica di Salò e leader dell'MSI: "Era fascista ma poi aiutò la democrazia". Le opposizioni: "Inaccettabile, fu un teorico dell'antisemitismo di Stato".Continua a leggere
+- **Il Giornale**: Almirante, la sinistra insulta La Russa. Fonti del Senato: “Polemica becera” Non si fermano le polemiche dopo l’intervista che il presidente del Senato Ignazio La Russa ha rilasciato su Giorgio Almirante
+- **ANSA**: La Russa: 'Almirante favorì il percorso democratico". Bufera da sinistra Pd-Avs: 'Fu antisemita,è revisionismo'. Fonti vicine al presidente del Senato: 'Offendete anche Mattarella'
+- **La Repubblica**: “Almirante democratico”: bufera su La Russa Il presidente del Senato ricorda il fondatore Msi. Per le opposizioni “un grave sdoganamento della cultura dell’odio”
+
+
+## 15. Si dà fuoco davanti allo stabilimento Amazon a Torrazza Piemonte, gravissimo 36enne: “Ustioni su 65% del corpo”
+
+> **Context:** A Torrazza Piemonte (Torino) un uomo di 36 anni si è dato fuoco nei pressi dello stabilimento Amazon. È in gravissime condizioni, ha riportato ustioni sul 65% del corpo. La prognosi resta riservata. Indagini in corso per chiarire la dinamica dell'accaduto.Continua a leggere
+
+- **La Stampa**: Torrazza Piemonte, si dà fuoco nello stabilimento Amazon per una delusione d'amore: è in fin di vita L’uomo si era invaghito di una donna che lavora nell’edificio ma non è dipendente del colosso della logistica. Respinto più volte, ha tentato l’insano gesto
+- **Il Fatto Quotidiano**: Si dà fuoco nel parcheggio davanti al polo Amazon: 36enne gravissimo al Cto di Torino Un uomo di 36 anni si è dato fuoco nella notte tra sabato e domenica nel parcheggio antistante uno stabilimento Amazon a Torrazza Piemonte, nel Canavese, in provincia di Torino. Il gesto è davanti al centro logistico della multinazionale americana e ha immediatamente allarmato le persone presenti nella zona, che hanno chiamato i soccorsi. Sul […] L'articolo Si dà fuoco nel parcheggio davanti al polo Amazon: 36enne gravissimo al Cto di Torino proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Si dà fuoco davanti allo stabilimento Amazon a Torrazza Piemonte, gravissimo 36enne: “Ustioni su 65% del corpo” A Torrazza Piemonte (Torino) un uomo di 36 anni si è dato fuoco nei pressi dello stabilimento Amazon. È in gravissime condizioni, ha riportato ustioni sul 65% del corpo. La prognosi resta riservata. Indagini in corso per chiarire la dinamica dell'accaduto.Continua a leggere
+- **AGI**: Si dà fuoco davanti allo stabilimento Amazon nel Torinese, grave un uomo di 36 anni AGi - Davanti allo stabilimento Amazon di Torrazza Piemonte, in provincia di Torino, un uomo di 36 anni di Chivasso si é cosparso di benzina e si é dato fuoco riportando gravi ustioni sul 65 per cento del corpo. Non era un dipendente di Amazon Da quanto si apprende, alla base del gesto compiuto dal 36enne, che non risulta essere un dipendente della multinazionale, vi sarebbero motivi sentimentali. L'intervento dei sanitari del 118 Sul posto é intervenuta l’ambulanza del 118 che ha trasportato il ferito in codice rosso all’ospedale Cto di Torino. Amazon: "Vicinanza alla vittima" In una nota Amazon ha espresso vicinanza alla vittima e si é detta disponibile a collaborare con le forze dell’ordine, qualora fosse necessario.
+
+
+## 16. America's Cup: Luna Rossa batte New Zealand e trionfa a Cagliari
+
+> **Context:** Finale perfetta per la barca italiana, Kiwi traditi da errore al via
+
+- **Il Giornale**: America's Cup: la barca davanti ai mostri sacri Luna Rossa junior dà lezione ai grandi
+- **ANSA**: America's Cup, Sirena: 'Voglio vincere l'con Luna Rossa per l'Italia' 'Kiwi piangono sempre ma sono loro il team da battere'
+- **La Repubblica**: America’s Cup, Luna Rossa di Burling e Tita trionfa a Cagliari battendo in finale New Zealand Le regate preliminari dell’evento che si terrà a Napoli nel 2027 si concludono con la regata dominata dalla barca senior di Prada sui kiwi. Out Luna Rossa delle ragazze e dei giovani dopo due errori in partenza
+- **ANSA**: America's Cup: Luna Rossa batte New Zealand e trionfa a Cagliari Finale perfetta per la barca italiana, Kiwi traditi da errore al via
+- **Il Fatto Quotidiano**: Preliminari di America’s Cup Luna Rossa trionfa a Cagliari, battuto il team New Zealand. Ora si pensa a Napoli 2027 Nel Golfo degli Angeli la festa è tutta italiana. Luna Rossa Prada Pirelli ha chiuso da protagonista le regate preliminari della 38esima America’s Cup battendo in finale il defender Team New Zealand e mandando un segnale chiaro in vista della sfida di Napoli 2027. A conquistare il match race conclusivo nel mare di Cagliari è […] L'articolo Preliminari di America’s Cup Luna Rossa trionfa a Cagliari, battuto il team New Zealand. Ora si pensa a Napoli 2027 proviene da Il Fatto Quotidiano.
+- **Il Giornale**: America’s Cup, Luna Rossa supera New Zealand e trionfa nelle regate preliminari a Cagliari L’equipaggio italiano domina New Zealand nell’ultima giornata di regate preliminari dell’America’s Cup. Prossime regate in programma a Napoli dal 24 al 27 settembre
+
+
+## 17. Pollenzo si ferma per Carlin Petrini: sotto gli alberi l’addio laico al padre di Slow Food
+
+> **Context:** Da Oscar Farinetti a don Luigi Ciotti, passando per Eddie Mukiibi e Lella Costa: nessun rito religioso ma una commemorazione collettiva immersa nel verde di Pollenzo per il “piemontese universale” che ha trasformato il cibo in cultura e impegno civile
+
+- **La Stampa**: Carlo Petrini e Francesco, la fede è nella cura Ho saputo della morte di Carlo nella notte. E la prima cosa che ho sentito non è stata la sorpresa – Carlin era malato, lo sapevamo. Ho sentito che dovevamo riprendere i nostri ...
+- **La Stampa**: Ciao Carlin, a Pollenzo il popolo di Petrini Folla alla camera ardente nella sua università: sulle pareti le immagini e i video dei tanti incontri e dei viaggi nel mondo. La sorella Chiara: «Gli ripetevo sempre che ha vissuto almeno quattro vite»
+- **La Stampa**: Io, Nuto Revelli e l’amore per gli umili. La politica ha perso la compassione Carlo Petrini: l’idea di Terra Madre è nata con lui, dal suo modo di stare con le persone semplici
+- **La Repubblica**: Pollenzo si ferma per Carlin Petrini: sotto gli alberi l’addio laico al padre di Slow Food Da Oscar Farinetti a don Luigi Ciotti, passando per Eddie Mukiibi e Lella Costa: nessun rito religioso ma una commemorazione collettiva immersa nel verde di Pollenzo per il “piemontese universale” che ha trasformato il cibo in cultura e impegno civile
+- **La Stampa**: Il popolo di Carlo Petrini per l’ultimo saluto: “Un rivoluzionario che parlava a papi e contadini” Decine gli amici vicini e lontani, accorsi questa mattina nella Sala Rossa dell’Agenzia di Pollenzo per l’ultimo saluto a Carlo Petrini, il fondatore di Slow Food morto giovedì a 76 anni. ...
+- **La Stampa**: A Pollenzo l'ultimo saluto a Carlo Petrini: la diretta I funerali di Carlo Petrini, fondatore di Slow Food, a Pollenzo. La cerimonia funebre, in forma laica, si svolge in un luogo fortemente simbolico: il cortile dell'Agenzia di Pollenzo, sede dell'Università di Scienze Gastronomiche
+- **ANSA**: Pollenzo si prepara per l'ultimo saluto a Carlo Petrini Arrivano amici, volontari e istituzioni per la cerimonia pubblica
+- **ANSA**: Un lungo applauso all'arrivo della bara di Carlo Petrini Mini Ovadia: 'Ci ha fatto capire che l'atto di nutrirsi è rivoluzionario'
+- **La Stampa**: L'ultimo saluto a Carlin Petrini: da don Ciotti a Fassino e Fulvio Marino, il ricordo degli amici È stata una cerimonia toccante ed emozionante quella che ha accompagnato l'ultimo saluto a Carlo "Carlin" Petrini. Nella sua Bra sono accorsi centinaia di amici e conoscenti che hanno voluto salutare il fondatore di Slow Food. Abbiamo raccolto le voci e i ricordi di alcune personalità dal mondo della politica, della cucina e dello spettacolo che hanno conosciuto Carlin e che ne hanno omaggiato la memoria.
+- **La Stampa**: L'ultimo messaggio di Petrini: “Grazie per quello che fate, vi voglio un gran bene” Un messaggio diffuso, un saluto a tutti coloro che gli hanno camminato a fianco. La voce di Carlo Petrini è risuonata ancora una volta, con un audio trasmesso dopo i funerali a Pollenzo. LEGGI L'ARTICOLO
+- **ANSA**: 'Grazie, vi voglio un gran bene': l'audio di Carlo Petrini durante il suo commiato L'ultimo saluto a Pollenzo, lunghi applausi. Le studentesse: 'Ci diceva di essere visionari'. Il ricordo di Ovadia e don Ciotti
+- **Il Fatto Quotidiano**: L’ultimo saluto a Carlo Petrini, decine di persone cantano ai funerali a Pollenzo. Don Ciotti: “La sua è una eredità immensa” Nella sua Pollenzo, frazione di Bra, nel Cuneese, il luogo dove ha preso forma il progetto culturale e umano di Slow Food e dell’Università di Scienze Gastronomiche, è il giorno dell’ultimo saluto a Carlo Petrini. Decine di persone hanno reso omaggio, prima della cerimonia laica nei giardini dell’Agenzia, al fondatore di Slow Food intonando la […] L'articolo L’ultimo saluto a Carlo Petrini, decine di persone cantano ai funerali a Pollenzo. Don Ciotti: “La sua è una eredità immensa” proviene da Il Fatto Quotidiano.
+- **ANSA**: Lunghi applausi per l'addio a Petrini nella sua Pollenzo In migliaia al saluto laico: 'Sognavamo la rivoluzione, lui l'ha fatta'
+
+
+## 18. Garlasco, Andrea Sempio attacca i pm: “Questi sono corrotti, mi aspetto di tutto”
+
+> **Context:** L’indagato per l’omicidio di Chiara Poggi è intercettato mentre parla con un’amica: “Non ci dicono elementi, la cosa è pilotata”
+
+- **La Repubblica**: Garlasco, Andrea Sempio attacca i pm: “Questi sono corrotti, mi aspetto di tutto” L’indagato per l’omicidio di Chiara Poggi è intercettato mentre parla con un’amica: “Non ci dicono elementi, la cosa è pilotata”
+- **Il Messaggero**: Garlasco, Sempio intercettato: «Magistrati stra-corrotti. Pagati da Stasi? Ci sono cose strane sotto» Ad Andrea Sempio restano tre giorni, poi dovrà dare una risposta alla Procura di Pavia che aspetta di sapere se potrà interrogarlo. Nel caso in cui accettasse, si ritroverebbe...
+- **Il Giornale**: "Sono tutti stra-corrotti". L'attacco di Sempio ai pm dell'indagine L’intercettazione dell’indagato risale al marzo 2025: “Lui (Massimo Lovati, ndr) e l’Angela continuavano a dire: si vede che è una cosa pilotata, gli elementi non vengono detti”
+
+
+## 19. Famiglia nel bosco, Nathan: "Catherine pronta a collaborare per il benessere dei bambini". E in una lettera ai giudici: "Mai contrari ai medici"
+
+> **Context:** Tra il trasferimento nella nuova casa, le visite controllate ai figli e l’attesa di poter tornare insieme, Nathan Trevallion rompe il silenzio al programma Fuori dal coro: “Questa prova ci ha resi più forti”
+
+- **Il Messaggero**: Famiglia del bosco, la lettera di Catherine e Nathan ai giudici: «Mai contrari ai medici, chiedemmo aiuto dopo l'intossicazione» La libertà di crescere i propri figli secondo un modello alternativo e il dovere dello Stato di intervenire quando ritiene che quei minori possano essere in pericolo. Nathan e Catherine,...
+- **Il Giornale**: Famiglia nel bosco, Nathan: "Catherine pronta a collaborare per il benessere dei bambini". E in una lettera ai giudici: "Mai contrari ai medici" Tra il trasferimento nella nuova casa, le visite controllate ai figli e l’attesa di poter tornare insieme, Nathan Trevallion rompe il silenzio al programma Fuori dal coro: “Questa prova ci ha resi più forti”
+- **Fanpage.it**: Famiglia nel bosco, il papà Nathan Trevallion: “Mia moglie Catherine pronta a collaborare per il bene dei bimbi” In un'intervista Nathan Trevallion, il padre della famiglia del bosco, ha detto che la moglie Catherine è "pronta a collaborare per il benessere dei nostri figli". I due, ha spiegato, sono più uniti dopo l’allontanamento dei figli: “Ci chiedono quando potranno tornare a casa”.Continua a leggere
+
+
+## 20. Giro d’Italia 2026 oggi in TV, 15ª tappa Voghera-Milano: percorso, dove vederla in diretta e streaming, i favoriti
+
+> **Context:** 15a tappa del Giro d'Italia 2026 Voghera-Milano dedicata agli sprinter. Diretta in TV e in streaming in chiaro sui canali Rai.Continua a leggere
+
+- **Adkronos**: Giro d'Italia, oggi 15esima tappa: orario, percorso e dove vederla In programma i 157 chilometri da Voghera a Milano
+- **Fanpage.it**: Giro d’Italia 2026 oggi in TV, 15ª tappa Voghera-Milano: percorso, dove vederla in diretta e streaming, i favoriti 15a tappa del Giro d'Italia 2026 Voghera-Milano dedicata agli sprinter. Diretta in TV e in streaming in chiaro sui canali Rai.Continua a leggere
+- **Il Fatto Quotidiano**: Giro d’Italia, oggi la tappa con arrivo a Milano: le strade chiuse, le deviazioni delle linee Atm e i divieti di domenica 24 maggio Oggi, domenica 24 maggio, il Giro d’Italia arriva a Milano per la 15esima tappa della Corsa Rosa 2026, che parte da Voghera intorno alle ore 13.40 per arrivare sul traguardo di corso Venezia intorno alle 17, dove si svolgeranno anche le premiazioni. Una giornata speciale per gli appassionati di ciclismo, che però inevitabilmente influirà sul […] L'articolo Giro d’Italia, oggi la tappa con arrivo a Milano: le strade chiuse, le deviazioni delle linee Atm e i divieti di domenica 24 maggio proviene da Il Fatto Quotidiano.
+
+
+
+</clustered_headlines>
+
+
+<other_headlines>
+<article source="AGI" date="Sun, 24 May 2026 13:24:52 GMT">
+Un gruppo di studenti picchia due docenti a Parma, "per un rimprovero"
+Botte e spintoni a Parma subiti da due insegnanti. C'è un rimprovero all'origine dell'aggressione a due insegnanti da parte di un gruppo di ragazzi giovedì scorso a Parma, ripresa da un video: lo ha riferito uno dei due docenti che ha precisato di non essere stato colpito, a differenza del collega. Il racconto dell'insegnante di Parma "Intorno all'una", ha raccontato, "vedo un ragazzo nell'area antistante la scuola, di fronte alla fermata dell'autobus, che sta telefonando. A un certo punto dà un calcio a una lattina che si schianta contro la portiera di un'auto parcheggiata. Io non conosco quel ragazzo e ho saputo solo dopo che era dell'Itis ma sono un insegnante e quindi lo richiamo perché è una cosa senza senso, illogica, e soprattutto da maleducati". L'aggressione al parco "Lo studente reagisce a male parole e assieme al collega l'ho richiamato un po' più intensamente di prima", ha spiegato il docente, "dopo la scuola incontro quel ragazzo con sette, otto altri giovani che non conosco". L'insegnante si stava allontanando in bicicletta quando, arrivato nel parco, si è accorto di essere stato seguito. "Ma non sono stato toccato da nessuno", ha specificato, a differenza del collega intervenuto per difenderlo che è stato preso a cinghiate. Spintoni e botte ai due professori Sull'aggressione nelle vicinanze dell’Itis Leonardo da Vinci di Parma, il cui video è diventato virale, si vedono alcuni giovani spingere e colpire due professori, mentre altri ragazzi ridono e filmano la scena. I docenti coinvolti non avrebbero intenzione di sporgere denuncia ma il ministro dell’Istruzione e del Merito, Giuseppe Valditara, ha preso contatti con la dirigenza scolastica dell’istituto parmigiano per esprimere vicinanza ai docenti coinvolti e all’intera comunità scolastica. Gli organi collegiali saranno chiamati a valutare eventuali provvedimenti disciplinari nei confronti degli studenti coinvolti anche se la scuola ha precisato che le decisioni saranno adottate mantenendo una finalità educativa, pur nella consapevolezza della gravità dei fatti.
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 20:33:24 +0200">
+Orsini: 'Non vogliamo delocalizzare, l'Europa sia unita per l'industria'
+Il presidente di Confindustria: 'Speriamo in una soluzione per Hormuz, l'energia è la priorità'. Oggi serve 'coraggio'
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 20:32:40 +0200">
+Trump si sottoporrà a controlli medici martedì, si riaccende faro sulla sua salute
+La quarta visita da quando è tornato alla Casa Bianca mentre si avvicina l'80mo compleanno
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 19:09:51 +0200">
+Firenze, Bolzano e Trieste le province doc per bambini, giovani e anziani
+La classifica del Sole 24 Ore sulla qualità della vita per età. Tra gli under 35 pesa il divario del lavoro
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 19:01:05 +0200">
+America's Cup: Luna Rossa si aggiudica i preliminari, ora rotta su Napoli
+Il trionfo su New Zealand negli Ac40 spinge il team verso la sfida del 2027
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 18:49:55 +0200">
+Il Papa: 'La guerra vinta dall'amore, non da una superpotenza'
+Domani arriva Magnifica Humanitas, la prima enciclica di Leone
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 11:14:06 +0200">
+Italia quinta in Europa per l'uso di ChatGpt, cresce il fabbisogno energetico
+Nel nostro Paese il consumo mensile pari a due giorni di lavoro di una centrale nucleare
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 11:00:26 +0200">
+In una mostra dell'ANSA le donne che hanno fatto la storia d'Italia
+La storica e curatrice Silvia Salvatici: "Il problema della sottorappresentanza non ancora risolto"
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 08:59:48 +0200">
+Tutto da rifare nella ricerca di ET
+Probabilmente sono stati commessi degli errori, potrebbero esserci stati dei falsi negativi
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 07:12:32 +0200">
+Le parole di Olivia, un allarme che emoziona e va ascoltato
+Save the children presenta la sua ricerca sul disagio giovanile nelle periferie. Learn more about your ad choices. Visit
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 07:11:20 +0200">
+I forzati dell'AI (e le mogli tristi)
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 19:53:18 +0200">
+Serie A: in campo Napoli-Udinese 1-0 DIRETTA
+Con i friulani basta un pareggio per finire al secondo posto in classifica
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 19:36:41 +0200">
+Iran, Trump: 'I negoziati procedono, i miei incaricati di non affrettare la conclusione di un accordo'
+'La firma non ci sarà oggi'. Dopo il pre-accordo possibili colloqui Usa-Teheran il 5 giugno
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 16:11:14 +0200">
+Cento anni fa nasceva Miles Davis, già mito in vita
+Era nato il 26 maggio 1926, il trombettista ha travalicato i confini del jazz
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 16:51:23 +0200">
+Raid russi su Kiev, un morto e almeno 40 feriti. Zelensky: 'Anche un missile che porta testate nucleari'
+Danni in più di 40 punti della capitale, in azione i soccorritori. Condanna di Meloni e Macron
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 16:21:17 +0200">
+Si vota oggi e domani, oltre 6 milioni di elettori alle urne, alle 12 l'affluenza vicina al 15%
+Votano quasi 750 Comuni, test per le coalizioni. Fari su Venezia, Salerno, Reggio Calabria
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 15:48:46 +0200">
+Firenze è la provincia italiana in cui i bambini vivono meglio
+Bolzano conquista il primato nella qualità della vita dei giovani e Trieste guida la classifica dedicata agli anziani
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 13:32:23 +0200">
+Clima estivo sull'Italia, picco del caldo al Centro-Nord con temperature sopra i 30°
+Un vasto anticiclone di origine subtropicale si è insediato stabilmente sul bacino del Mediterraneo
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 15:58:53 +0200">
+Media, 'accordo tra Usa e Iran vicino alla firma'. Pezeshkian: 'Pronti a rassicurare il mondo che non cerchiamo armi nucleari'
+Le questioni nucleari sono ancora oggetto di negoziazione
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 15:07:23 +0200">
+Trump e la sua passione per foto e video fatti con l'intelligenza artificiale
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 14:59:15 +0200">
+Serie A: in campo Parma-Sassuolo 0-0 DIRETTA
+Cuesta ha il contratto, ma in caso di offerte potrebbe partire
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 13:33:13 +0200">
+Ufficio Onu, mafie italiane in affari con gruppi terroristici
+Contatti 'ndrangheta-Hezbollah. Unodc, 95mila omicidi l'anno, pari a vittime delle guerre
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 13:10:07 +0200">
+'Il nostro Paz, complicato e geniale', parlano fratello e sorella del fumettista
+A 70 anni dalla nascita di Andrea Pazienza, sito ufficiale e l'appello per un suo murale
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 11:31:30 +0200">
+Assalto a bancomat nel Foggiano, esplosi tre Atm e vetri infranti
+Sindaco di Orta Nova: "Serve una risposta forte. Chiederò un tavolo per la sicurezza"
+</article>
+<article source="ANSA" date="Sat, 23 May 2026 22:30:37 +0200">
+Fs, sciopero del personale il 28 e 29 maggio
+Dalle 21 di giovedì alle 21 di venerdì
+</article>
+<article source="ANSA" date="Sat, 23 May 2026 21:42:32 +0200">
+'Ciao Groenlandia', Trump pubblica un'immagine creata con l'IA
+Compare il volto del presidente dietro le montagne mentre guarda la città
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 07:10:09 +0200">
+Il Papa dà la scossa alla terra dei fuochi: 'Basta prepotenze'
+'Sono venuto a raccogliere le vostre lacrime'. Almeno 15 mila in piazza Calipari
+</article>
+<article source="ANSA" date="Sun, 24 May 2026 07:07:05 +0200">
+Capaci 34 anni dopo, il ricordo tra speranza e polemiche
+Conte attacca Colosimo, FdI la difende. Mattarella: 'Eredità di Falcone è un patrimonio'
+</article>
+<article source="ANSA" date="Sat, 23 May 2026 23:50:51 +0200">
+Serie A: Pedro protagonista, la Lazio batte il Pisa nella serata degli addii
+Moreo porta avanti gli ospiti, poi Dele-Bashiru e lo spagnolo completano la rimonta
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 20:56:34 +0200">
+Roland Garros, cade il primo big: Fritz eliminato all'esordio
+L'americano si è arreso in quattro set al connazionale Basavareddy
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 20:21:00 +0200">
+Serie A, oggi Verona-Roma 0-0 - La partita in diretta
+I gialloblù ospitano la squadra di Gasperini al Bentegodi
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 19:46:45 +0200">
+Roland Garros, è tornato il coro che 'disturba' i tennisti: "Olè"
+Lo Slam parigino ha preso il via con il primo turno
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 19:24:00 +0200">
+Serie B, la finale playoff: Catanzaro-Monza 0-0 - Diretta
+I calabresi ospitano i lombardi nell'andata dello spareggio promozione
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 19:08:08 +0200">
+Osaka, le cene diventano un caso: accuse di razzismo al Roland Garros
+La tennista giapponese si è difesa sui social
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 18:45:32 +0200">
+Roland Garros, giornalista 'sfotte' Shelton sui Mondiali. Lui non la prende bene
+Il tennista americano sarà impegnato nel primo turno dello Slam parigino
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 18:31:00 +0200">
+Roland Garros, impresa Cinà al primo turno: Opelka ko in cinque set
+Il 19enne tennista azzurro ha battuto l'americano all'esordio: prima vittoria in uno Slam
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 18:23:59 +0200">
+Napoli, Alisson Santos si ferma: infortunio contro l'Udinese
+L'attaccante azzurro ha accusato un problema fisico
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 18:16:22 +0200">
+Federico Cinà, chi è azzurro che ha debuttato con una vittoria al Roland Garros
+Il tennista azzurro ha battuto l'americano Opelka nel primo turno dello Slam parigino
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 17:43:00 +0200">
+Serie A, Napoli-Udinese 1-0 - Diretta
+Gli azzurri ospitano i friulani al Maradona nell'ultima giornata di campionato
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 16:13:00 +0200">
+Antonello Venditti e Mara Venier, il retroscena a Domenica In: "Ma lo possiamo dire?"
+Il cantautore romano è stato ospite oggi nel salotto di Domenica In
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 14:24:42 +0200">
+Gea, problemi di... stomaco al Roland Garros: "Non riesco più a muovermi". Cos'è successo
+Il tennista francese ha abbandonato il campo durante il primo set contro Khachanov
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 07:42:31 +0200">
+Fuori dal coro, oggi 24 maggio: intervista esclusiva a Nathan, padre della 'famiglia nel bosco'﻿
+Tra i temi anche la strage di Modena, cosa si nasconde dietro il disagio di Salim El Koudri
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 07:40:31 +0200">
+Che tempo che fa, gli ospiti di oggi di Fabio Fazio
+Dalle 19.30 in diretta sul Nove e in streaming su discovery+, in puntata anche Lino Guanciale e Cecilia Sala
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 07:39:57 +0200">
+Verissimo 'Le Storie', anticipazioni di oggi 24 maggio: gli ospiti e le interviste
+L'appuntamento è su Canale 5 alle 16.30
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 07:39:30 +0200">
+Serie A, oggi Verona-Roma: orario, probabili formazioni e dove vederla
+I gialloblù ospitano la squadra di Gasperini allo stadio Bentegodi
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 07:39:00 +0200">
+Domenica In, gli ospiti di oggi di Mara Venier
+L'appuntamento della domenica su Rai1
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 07:37:57 +0200">
+Da noi... a ruota libera, oggi domenica 24 maggio: gli ospiti di Fialdini
+L'appuntamento è alle 17.20 su Rai1
+</article>
+<article source="Adkronos" date="Sun, 24 May 2026 00:02:12 +0200">
+Caldo anomalo in Italia con picchi fino a 35°C, fiammata africana fino a fine maggio
+Temperature da piena estate con largo anticipo rispetto al passato e, poi, scenderanno con piogge e temporali
+</article>
+<article source="Governo Italiano - Comunicati Stampa" date="Sun, 24 May 2026 13:42:24 +0200">
+Dichiarazione del Presidente Meloni
+Esprimo ferma condanna per il pesante attacco russo che ha colpito nuovamente le infrastrutture civili in Ucraina, con il progressivo innalzamento del livello degli armamenti utilizzati. La nostra solidarietà va alla popolazione ucraina, che da oltre quattro anni subisce le drammatiche conseguenze di questa guerra di aggressione. Continueremo a lavorare con determinazione insieme ai partner europei e internazionali per favorire il percorso verso una pace giusta e duratura.
+</article>
+<article source="Il Post" date="Sun, 24 May 2026 08:00:46 GMT">
+Ep. 155 – Salvini e la stocasticità
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 24 May 2026 15:28:40 GMT">
+Welfare, contro le trappole della bonus economy un piano per le nuove generazioni
+La proposta di Elsa Fornero per superare le fragilità dell’economia italiana: un’iniziativa bipartisan da portare avanti a prescindere da chi vincerà le elezioni. Dal Notariato proposte per sostenere il piano casa
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 24 May 2026 15:06:10 GMT">
+Progetto Pallipes per la tutela dei gamberi di fiume tra Friuli Venezia Giulia e Slovenia
+Aggiornare lo stato delle conoscenze sulle popolazioni di gamberi di fiume, specie considerata a rischio, in Friuli Venezia Giulia e nell’area transfrontaliera italo-slovena e attuare misure di gestione delle specie...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 24 May 2026 13:35:25 GMT">
+Bonus per furgoni e moto, sbloccato il decreto
+Il Dpcm scende a 1,3 miliardi. Urso: accordo con il Mef per recuperare a luglio i 250 milioni tagliati. Noleggio auto a lungo termine incentivato con 50 milioni per chi ha Isee basso
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 24 May 2026 13:01:00 GMT">
+Milano e la sfida del modello Londra, per ritrovare il ceto medio
+Un libro scritto in prima persona. Da brianzolo – di Arcore – che adesso lavora e vive a Milano. Da lombardo – laureato in Economia e commercio alla università di...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 24 May 2026 11:20:00 GMT">
+Amministrative, alle 19 affluenza al 34,5%, in calo
+Vanno al voto quasi 750 Comuni, 661 nelle Regioni a statuto ordinario e il resto in quelle a statuto speciale
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 24 May 2026 10:40:36 GMT">
+Partite Iva, rispunta la sanatoria fiscale sul passato
+Emendamento di Forza Italia per introdurre il ravvedimento speciale anche a chi aderirà o riaderirà al concordato preventivo biennale
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 24 May 2026 10:31:00 GMT">
+Bernini: «Porteremo l’università italiana a Gaza e in Libano»
+L’arma migliore per il futuro del Medio Oriente è la democrazia scientifica. Ne è così convinta Anna Maria Bernini, che nel Consiglio dei ministri di venerdì sera ha condiviso un...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 24 May 2026 10:14:00 GMT">
+Mimit: prezzo medio self benzina a 1,968 euro al litro, gasolio a 2,037 euro
+Il ministero delle Imprese e del Made in Italy rende noto che, in base agli ultimi dati rilevati dall’Osservatorio sui prezzi dei carburanti del Mimit, in data odierna - domenica...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 24 May 2026 10:13:00 GMT">
+Quirinale lancia sito per gli 80 anni, “fai il tuo video per la Repubblica”
+L’iniziativa in occasione degli 80 anni dal referendum istituzionale del 2 giugno del 1946
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 24 May 2026 09:49:00 GMT">
+Prodi: «Siamo servi di fronte a Trump, indecisi di fronte ai cinesi»
+«Ci comportiamo come servi di fronte a Donald Trump e non sappiamo come comportarci davanti ai cinesi. L’Europa dovrebbe avere capacità unitaria di intervento. Ci vorrebbe un riformismo europeo». Al...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 24 May 2026 09:47:00 GMT">
+Osservatorio Giappone ed Expand per rafforzare l’Italia nel mondo
+Due iniziative del Gruppo Il Sole 24 ORE a sostegno dell’export: focus con informazioni sul mercato giapponese e piattaforma con Confindustria per orientare le aziende sui mercati esteri
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 24 May 2026 09:08:00 GMT">
+Il Papa: la guerra vinta dall’amore, non da una superpotenza
+Leone XIV nell’omelia: «Dio chiede alla Chiesa unità, superare faziosità e mode»
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 24 May 2026 06:49:00 GMT">
+Benanti e Cassese tra encicicla e poteri digitali. Qualità della vita premia Bolzano, Firenze e Trieste
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 24 May 2026 06:45:42 GMT">
+L’allarme Flp: a Milano mancano ispettori del lavoro, il caro vita disincentiva i trasferimenti
+Il sindacato: il costo della vita trainato dal caro affitti e dal caro energia rende il trasferimento del personale sempre meno attrattivo
+</article>
+</other_headlines>
