@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "generated_at": "Sun 24 May 12:06",
+  "generated_at": "Sun 24 May 14:30",
   "stories": [
     {
       "rank": 1,
@@ -28,29 +28,6 @@
     },
     {
       "rank": 2,
-      "title": "Massiccio raid di Mosca su Kiev: l'esercito di Putin usa gli Oreshnik",
-      "source_count": 8,
-      "article_count": 12,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/47855970/zelensky-putin-ora-usa-anche-l-oreshnik-sono-davvero-pazzi-/",
-        "https://www.fanpage.it/esteri/quattro-morti-e-50-feriti-in-una-serie-di-attacchi-russi-su-kiev-lanciato-anche-un-missile-oreshnik/",
-        "https://www.repubblica.it/esteri/2026/05/24/diretta/guerra_ucraina_russia_news_oggi-425366553/",
-        "https://www.lastampa.it/esteri/2026/05/24/video/kiev_la_visita_di_zelensky_nel_quartiere_devastato_dagli_attacchi_russi-15634269/",
-        "https://www.liberoquotidiano.it/news/tv-news/47854062/massiccio-attacco-russo-su-kiev-una-notte-davvero-terrificante-/"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Media, 'accordo tra Usa e Iran vicino alla firma, prevista tregua di 60 giorni e la riapertura di Hormuz'",
       "source_count": 8,
       "article_count": 12,
@@ -73,11 +50,12 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Festival di Cannes 2026, Palma d'Oro a Cristian Mungiu per Fjord. Storico ex aequo per la regia a “La Bola negra” e “Fatherland”",
-      "source_count": 8,
-      "article_count": 9,
+      "source_count": 9,
+      "article_count": 11,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "ilmessaggero.it",
         "ilmanifesto.it",
@@ -88,15 +66,56 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/47855024/cannes-2026-mungiu-palma-d-oro-fjord/",
+        "https://www.liberoquotidiano.it/news/tv-news/47857755/a-cannes-trionfa-di-nuovo-il-rumeno-cristian-mungiu-con-fjord-/",
         "https://www.ilgiornale.it/news/palma-doro-fjord-premio-regia-ex-aequo-2669000.html",
         "https://www.ilmessaggero.it/spettacoli/cinema/festival_di_cannes_2026_premi_chi_ha_vinto_palma_d_oro_fjord_mungiu-9550678.html",
-        "https://ilmanifesto.it/cannes-79-tutti-i-premi",
-        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/23/palma-doro-a-mungiu-per-il-film-fjord-a-cannes-leco-di-guerre-e-diritti_a89a509f-fe83-4162-a955-8ad502fec301.html",
-        "https://www.ilfattoquotidiano.it/2026/05/23/cannes-2026-trionfa-cristian-mungiu-con-fjord-palmares-europeo-tra-guerra-politica-e-grandi-valori-umani/8396949/"
+        "https://ilmanifesto.it/cannes-79-tutti-i-premi"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Massiccio raid di Mosca su Kiev: l'esercito di Putin usa gli Oreshnik",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ansa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/47855970/zelensky-putin-ora-usa-anche-l-oreshnik-sono-davvero-pazzi-/",
+        "https://www.fanpage.it/esteri/quattro-morti-e-50-feriti-in-una-serie-di-attacchi-russi-su-kiev-lanciato-anche-un-missile-oreshnik/",
+        "https://www.repubblica.it/esteri/2026/05/24/diretta/guerra_ucraina_russia_news_oggi-425366553/",
+        "https://www.liberoquotidiano.it/news/tv-news/47854062/massiccio-attacco-russo-su-kiev-una-notte-davvero-terrificante-/",
+        "https://www.ilfattoquotidiano.it/2026/05/24/attacco-russo-kiev-oreshnik/8397000/"
       ]
     },
     {
       "rank": 5,
+      "title": "Pollenzo si ferma per Carlin Petrini: sotto gli alberi l’addio laico al padre di Slow Food",
+      "source_count": 3,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "torino.repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/24/grazie-vi-voglio-un-gran-bene-laudio-di-carlo-petrini-durante-il-suo-commiato_87d4d6e0-c3b3-438f-a851-1407af0729dc.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/24/un-lungo-applauso-allarrivo-della-bara-di-carlo-petrini_87d4d6e0-c3b3-438f-a851-1407af0729dc.html",
+        "https://www.lastampa.it/cronaca/2026/05/24/video/lultimo_saluto_a_carlin_petrini_da_don_ciotti_a_fassino_e_fulvio_marino_il_ricordo_dei_suoi_amici-15634402/",
+        "https://www.lastampa.it/cuneo/2026/05/24/video/lultimo_messaggio_di_petrini_grazie_per_quello_che_fate-15634371/",
+        "https://torino.repubblica.it/cronaca/2026/05/24/diretta/carlo_petrini_oggi_i_funerali_a_pollenzo-425367107/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "F1: in Canada Russell conquista sprint e pole, secondo Antonelli",
       "source_count": 5,
       "article_count": 8,
@@ -116,7 +135,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Amministrative, alle 12 affluenza al voto poco sotto il 15%, in lieve calo",
       "source_count": 5,
       "article_count": 7,
@@ -136,7 +155,27 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Classifica Serie A corsa Champions, le combinazioni per Roma, Milan, Juve e Como: cosa può succedere stasera",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/champions-league-squadre-qualificate-combinazioni-milan-roma-juve-como-classifica-avulsa_3A06yZfxySoWIbSKnNcFME",
+        "https://www.ilmessaggero.it/sport/schede/corsa_champions_combinazioni_roma_milan_juve_como_classifica_avulsa-9551767.html",
+        "https://www.ilmessaggero.it/sport/schede/classifica_serie_a_champions_combinazioni_roma_milan_juve_como_classifica_avulsa-9551767.html",
+        "https://www.ilmessaggero.it/sport/schede/classifica_avulsa_roma_milan_juventus_como_serie_a_champions_combinazioni-9551767.html",
+        "https://www.fanpage.it/sport/calcio/chi-va-in-champions-a-pari-punti-tra-milan-roma-como-e-juventus-la-classifica-avulsa-in-serie-a/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Tragedia alle Maldive, l’incognita delle torce: cosa può aver ingannato i sub italiani",
       "source_count": 5,
       "article_count": 7,
@@ -156,58 +195,23 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Pollenzo si ferma per Carlin Petrini: sotto gli alberi l’addio laico al padre di Slow Food",
-      "source_count": 3,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "torino.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/24/un-lungo-applauso-allarrivo-della-bara-di-carlo-petrini_87d4d6e0-c3b3-438f-a851-1407af0729dc.html",
-        "https://torino.repubblica.it/cronaca/2026/05/24/diretta/carlo_petrini_oggi_i_funerali_a_pollenzo-425367107/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/24/pollenzo-si-prepara-per-lultimo-saluto-a-carlo-petrini_87d4d6e0-c3b3-438f-a851-1407af0729dc.html",
-        "https://www.lastampa.it/cuneo/2026/05/24/diretta/carlo_petrini_ultimo_saluto-15634271/",
-        "https://www.lastampa.it/cuneo/2026/05/24/video/pollenzo_i_funerali_di_carlo_petrini_-_la_diretta-15634248/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Ebola, \"il rischio maggiore è toccare i cadaveri\"",
-      "source_count": 4,
+      "rank": 10,
+      "title": "Ebola, Pregliasco: non esiste rischio zero",
+      "source_count": 5,
       "article_count": 6,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "ansa.it",
-        "liberoquotidiano.it",
+        "repubblica.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/24/epidemia-ebola-congo-204-morti-notizie/8397171/",
         "https://www.ilgiornale.it/news/politica/ebola-congo-rischio-molto-elevato-e-lallarme-riguarda-altri-2668985.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/24/msf-corsa-contro-il-tempo-per-lemergenza-ebola-in-congo_efaa0597-5b18-4ff0-b960-fe24baf46d8d.html",
-        "https://www.liberoquotidiano.it/news/libero-video/47849150/ebola-caos-congo-come-vengono-seppelliti-morti/",
-        "https://www.liberoquotidiano.it/news/tv-news/47842944/ebola-il-rischio-maggiore-e-toccare-i-cadaveri-/",
+        "https://www.repubblica.it/esteri/2026/05/24/news/ebola_oms_alza_livello_allerta_usa_bloccano_voli_africa-425366300/",
         "https://www.ilsole24ore.com/art/virus-ebola-pregliasco-italia-rischio-contagio-AILm3sFD"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Strage Capaci, Priola \"Momento di grande riflessione e orgoglio\"",
-      "source_count": 3,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "palermo.repubblica.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/23/mattarella-con-capaci-lavvio-della-riscossa-civile.-meloni-dalla-memoria_b892db00-330e-412b-8fe2-a90fa77591c0.html",
-        "https://palermo.repubblica.it/cronaca/2026/05/24/news/strage_capaci_giovanni_falcone_mafia-425366133/",
-        "https://www.liberoquotidiano.it/news/pillole/47844758/strage_di_capaci_ragazzi_leggono_i_nomi_delle_vittime_all_albero_falcone/",
-        "https://www.liberoquotidiano.it/news/pillole/47844641/34_anni_fa_la_strage_di_capaci_il_minuto_di_silenzio_all_albero_falcone/",
-        "https://www.liberoquotidiano.it/news/pillole/47844401/strage_capaci_schlein_mai_dimenticare_servitori_dello_stato_uccisi_da_mafia_/"
       ]
     }
   ]
