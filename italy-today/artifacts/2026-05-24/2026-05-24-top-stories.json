@@ -1,13 +1,14 @@
 {
   "date": "2026-05-24",
-  "generated_at": "Sun 24 May 10:47",
+  "generated_at": "Sun 24 May 12:06",
   "stories": [
     {
       "rank": 1,
       "title": "Spari vicino alla Casa Bianca, ucciso l'attentatore. Trump: \"Era ossessionato dall'edificio più sacro del Paese\"",
-      "source_count": 8,
+      "source_count": 9,
       "article_count": 13,
       "source_domains": [
+        "laverita.info",
         "ansa.it",
         "ilfattoquotidiano.it",
         "fanpage.it",
@@ -18,15 +19,38 @@
         "repubblica.it"
       ],
       "links": [
+        "https://www.laverita.info/sparatoria-casa-bianca-uomo-ucciso-2676936120.html",
         "https://www.ansa.it/sito/videogallery/mondo/2026/05/24/spari-vicino-alla-casa-bianca-giornalista-interrompe-la-diretta-e-si-mette-al-riparo_fbe3a5d9-58ef-4862-9750-fe59ab748886.html",
         "https://www.ilfattoquotidiano.it/2026/05/24/sparatoria-casa-bianca-secret-service-giornalista-diretta-tv-fuga-video/8397017/",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/24/spari-vicino-alla-casa-bianca-secret-service-uccide-laggressore_7d0088d2-4641-4f76-b249-a71bd7bbb4a8.html",
-        "https://www.ilfattoquotidiano.it/2026/05/24/sparatoria-casa-bianca-nasir-best-secret-service-notizie/8396999/",
-        "https://www.fanpage.it/esteri/spari-nei-pressi-della-casa-bianca-davanti-ai-giornalisti-laggressore-ucciso-dai-servizi-segreti/"
+        "https://www.ilfattoquotidiano.it/2026/05/24/sparatoria-casa-bianca-nasir-best-secret-service-notizie/8396999/"
       ]
     },
     {
       "rank": 2,
+      "title": "Massiccio raid di Mosca su Kiev: l'esercito di Putin usa gli Oreshnik",
+      "source_count": 8,
+      "article_count": 12,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/47855970/zelensky-putin-ora-usa-anche-l-oreshnik-sono-davvero-pazzi-/",
+        "https://www.fanpage.it/esteri/quattro-morti-e-50-feriti-in-una-serie-di-attacchi-russi-su-kiev-lanciato-anche-un-missile-oreshnik/",
+        "https://www.repubblica.it/esteri/2026/05/24/diretta/guerra_ucraina_russia_news_oggi-425366553/",
+        "https://www.lastampa.it/esteri/2026/05/24/video/kiev_la_visita_di_zelensky_nel_quartiere_devastato_dagli_attacchi_russi-15634269/",
+        "https://www.liberoquotidiano.it/news/tv-news/47854062/massiccio-attacco-russo-su-kiev-una-notte-davvero-terrificante-/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Media, 'accordo tra Usa e Iran vicino alla firma, prevista tregua di 60 giorni e la riapertura di Hormuz'",
       "source_count": 8,
       "article_count": 12,
@@ -46,29 +70,6 @@
         "https://www.ilmessaggero.it/mondo/guerra_iran_accordo_usa_cosa_succede_ultime_notizie-9551798.html",
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/05/24/iran-usa-accordo-guerra-hormuz-trump-nucleare/8397001/",
         "https://www.ilgiornale.it/news/politica-estera/hormuz-uranio-e-petrolio-ecco-cosa-prevede-lintesa-stati-2669072.html"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Massiccio raid di Mosca su Kiev: l'esercito di Putin usa gli Oreshnik",
-      "source_count": 8,
-      "article_count": 11,
-      "source_domains": [
-        "fanpage.it",
-        "repubblica.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/esteri/quattro-morti-e-50-feriti-in-una-serie-di-attacchi-russi-su-kiev-lanciato-anche-un-missile-oreshnik/",
-        "https://www.repubblica.it/esteri/2026/05/24/diretta/guerra_ucraina_russia_news_oggi-425366553/",
-        "https://www.lastampa.it/esteri/2026/05/24/video/kiev_la_visita_di_zelensky_nel_quartiere_devastato_dagli_attacchi_russi-15634269/",
-        "https://www.liberoquotidiano.it/news/tv-news/47854062/massiccio-attacco-russo-su-kiev-una-notte-davvero-terrificante-/",
-        "https://www.ilfattoquotidiano.it/2026/05/24/attacco-russo-kiev-oreshnik/8397000/"
       ]
     },
     {
@@ -97,24 +98,102 @@
     {
       "rank": 5,
       "title": "F1: in Canada Russell conquista sprint e pole, secondo Antonelli",
-      "source_count": 4,
-      "article_count": 7,
+      "source_count": 5,
+      "article_count": 8,
       "source_domains": [
+        "adnkronos.com",
         "ilfattoquotidiano.it",
         "fanpage.it",
         "ilgiornale.it",
         "ansa.it"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/gp-canada-oggi-formula-1-orario-griglia-partenza-dove-vedere-gara-montreal-tv-streaming_6piCv8gwlMGcY7gEIIoN64",
         "https://www.ilfattoquotidiano.it/2026/05/24/f1-oggi-il-gp-canada-la-griglia-di-partenza-e-gli-orari-dove-vedere-in-tv-e-streaming-diretta-e-replica/8396643/",
         "https://www.fanpage.it/sport/live/formula-1-oggi-orari-tv-del-gp-canada-su-tv8-e-sky-e-dove-vederlo-russell-in-pole-ferrari-in-difficolta/",
         "https://www.ilgiornale.it/news/motori/f1-russell-spunta-su-antonelli-pole-canada-male-due-ferrari-2668961.html",
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/05/23/f1-in-canada-russell-conquista-sprint-e-pole-secondo-antonelli-_b7ca566c-1af1-40a0-86ce-9999a83f5373.html",
-        "https://www.fanpage.it/sport/motori/pole-di-russell-al-gp-di-formula-1-in-canada-antonelli-2-hamilton-5-leclerc-in-difficolta/"
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/05/23/f1-in-canada-russell-conquista-sprint-e-pole-secondo-antonelli-_b7ca566c-1af1-40a0-86ce-9999a83f5373.html"
       ]
     },
     {
       "rank": 6,
+      "title": "Amministrative, alle 12 affluenza al voto poco sotto il 15%, in lieve calo",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ansa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/politica/2026/05/24/diretta/comunali_2026_affluenza_elezioni_amministrative-425366097/",
+        "https://www.ilgiornale.it/news/interni/elezioni-amministrative-si-vota-894-comuni-seggi-aperti-2669110.html",
+        "https://www.lastampa.it/politica/2026/05/24/diretta/elezioni_comunali_oggi_domani-15634246/",
+        "https://www.ansa.it/sito/notizie/politica/2026/05/24/si-vota-oggi-e-domani-oltre-6-milioni-di-elettori-alle-urne_4955eb4f-a0be-4a8a-af27-f639ba8fb297.html",
+        "https://www.repubblica.it/politica/2026/05/24/news/comunali_2026_dove_si_vota_capoluoghi_venezia_reggio_calabria_salerno-425366392/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Tragedia alle Maldive, l’incognita delle torce: cosa può aver ingannato i sub italiani",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "repubblica.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/cronaca/2026/05/24/news/maldive_sub_morti_nuova_legge_immersioni-425367316/",
+        "https://www.ilgiornale.it/news/politica/italia-salme-dei-sub-verit-dalle-autopsie-2668990.html",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/tragedia-maldive-l-incognita-delle-torce-cosa-pu-aver-2669103.html",
+        "https://www.ilmessaggero.it/mondo/maldive_sub_italiani_poco_tempo_bombole_ossigeno_torce_cunicolo_maledetto-9551828.html",
+        "https://www.ilmessaggero.it/mondo/maldive_bombole_ossigeno_poca_aria_tempo_come_sono_morti-9551828.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Pollenzo si ferma per Carlin Petrini: sotto gli alberi l’addio laico al padre di Slow Food",
+      "source_count": 3,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "torino.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/24/un-lungo-applauso-allarrivo-della-bara-di-carlo-petrini_87d4d6e0-c3b3-438f-a851-1407af0729dc.html",
+        "https://torino.repubblica.it/cronaca/2026/05/24/diretta/carlo_petrini_oggi_i_funerali_a_pollenzo-425367107/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/24/pollenzo-si-prepara-per-lultimo-saluto-a-carlo-petrini_87d4d6e0-c3b3-438f-a851-1407af0729dc.html",
+        "https://www.lastampa.it/cuneo/2026/05/24/diretta/carlo_petrini_ultimo_saluto-15634271/",
+        "https://www.lastampa.it/cuneo/2026/05/24/video/pollenzo_i_funerali_di_carlo_petrini_-_la_diretta-15634248/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Ebola, \"il rischio maggiore è toccare i cadaveri\"",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/ebola-congo-rischio-molto-elevato-e-lallarme-riguarda-altri-2668985.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/24/msf-corsa-contro-il-tempo-per-lemergenza-ebola-in-congo_efaa0597-5b18-4ff0-b960-fe24baf46d8d.html",
+        "https://www.liberoquotidiano.it/news/libero-video/47849150/ebola-caos-congo-come-vengono-seppelliti-morti/",
+        "https://www.liberoquotidiano.it/news/tv-news/47842944/ebola-il-rischio-maggiore-e-toccare-i-cadaveri-/",
+        "https://www.ilsole24ore.com/art/virus-ebola-pregliasco-italia-rischio-contagio-AILm3sFD"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Strage Capaci, Priola \"Momento di grande riflessione e orgoglio\"",
       "source_count": 3,
       "article_count": 7,
@@ -129,79 +208,6 @@
         "https://www.liberoquotidiano.it/news/pillole/47844758/strage_di_capaci_ragazzi_leggono_i_nomi_delle_vittime_all_albero_falcone/",
         "https://www.liberoquotidiano.it/news/pillole/47844641/34_anni_fa_la_strage_di_capaci_il_minuto_di_silenzio_all_albero_falcone/",
         "https://www.liberoquotidiano.it/news/pillole/47844401/strage_capaci_schlein_mai_dimenticare_servitori_dello_stato_uccisi_da_mafia_/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Pollenzo si ferma per Carlin Petrini: sotto gli alberi l’addio laico al padre di Slow Food",
-      "source_count": 3,
-      "article_count": 7,
-      "source_domains": [
-        "torino.repubblica.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://torino.repubblica.it/cronaca/2026/05/24/diretta/carlo_petrini_oggi_i_funerali_a_pollenzo-425367107/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/24/pollenzo-si-prepara-per-lultimo-saluto-a-carlo-petrini_87d4d6e0-c3b3-438f-a851-1407af0729dc.html",
-        "https://www.lastampa.it/cuneo/2026/05/24/diretta/carlo_petrini_ultimo_saluto-15634271/",
-        "https://www.lastampa.it/cuneo/2026/05/24/video/pollenzo_i_funerali_di_carlo_petrini_-_la_diretta-15634248/",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/05/24/news/carlo_e_francesco_la_fede_e_nella_cura-15633926/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Maldive, le bombole ricreative (con meno ossigeno), le torce e il cunicolo chiuso: perché i sub italiani avevano poco tempo per risalire",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/italia-salme-dei-sub-verit-dalle-autopsie-2668990.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/tragedia-maldive-l-incognita-delle-torce-cosa-pu-aver-2669103.html",
-        "https://www.ilmessaggero.it/mondo/maldive_sub_italiani_poco_tempo_bombole_ossigeno_torce_cunicolo_maledetto-9551828.html",
-        "https://www.ilmessaggero.it/mondo/maldive_bombole_ossigeno_poca_aria_tempo_come_sono_morti-9551828.html",
-        "https://www.fanpage.it/attualita/cosa-possono-svelare-le-autopsie-sui-sub-morti-alle-maldive-il-medico-legale-annegamento-e-gas-tossici/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Si vota oggi e domani, oltre 6 milioni di elettori alle urne",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/interni/elezioni-amministrative-si-vota-894-comuni-seggi-aperti-2669110.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/05/24/si-vota-oggi-e-domani-oltre-6-milioni-di-elettori-alle-urne_4955eb4f-a0be-4a8a-af27-f639ba8fb297.html",
-        "https://www.repubblica.it/politica/2026/05/24/news/comunali_2026_dove_si_vota_capoluoghi_venezia_reggio_calabria_salerno-425366392/",
-        "https://www.lastampa.it/politica/2026/05/24/news/elezioni_amministrative_sfida_sindaci-15634005/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Corsa Champions, le combinazioni di Roma, Milan, Juve e Como: cosa può succedere stasera",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/schede/corsa_champions_combinazioni_roma_milan_juve_como_classifica_avulsa-9551767.html",
-        "https://www.fanpage.it/sport/calcio/chi-va-in-champions-a-pari-punti-tra-milan-roma-como-e-juventus-la-classifica-avulsa-in-serie-a/",
-        "https://www.ilfattoquotidiano.it/2026/05/24/serie-a-oggi-lotta-champions-retrocessione-combinazioni-milan-roma-juventus-como/8396665/",
-        "https://www.repubblica.it/sport/calcio/serie-a/2026/05/24/news/champions_milan_roma_como_juve_torino-425366476/"
       ]
     }
   ]
