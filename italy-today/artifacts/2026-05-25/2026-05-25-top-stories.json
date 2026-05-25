@@ -1,35 +1,85 @@
 {
   "date": "2026-05-25",
-  "generated_at": "Mon 25 May 17:13",
+  "generated_at": "Mon 25 May 19:52",
   "stories": [
     {
       "rank": 1,
-      "title": "Attivato il protocollo sanitario per due pazienti ricoverati al Sacco di Milano: sono a rischio Ebola",
+      "title": "Ebola, due casi sospetti in Lombardia: rientrati dall'Uganda con la febbre sono ricoverati a Milano",
       "source_count": 11,
-      "article_count": 12,
+      "article_count": 15,
       "source_domains": [
         "ansa.it",
-        "unita.it",
+        "ilfattoquotidiano.it",
         "liberoquotidiano.it",
+        "unita.it",
         "fanpage.it",
         "adnkronos.com",
         "ilgiornale.it",
         "ilmessaggero.it",
-        "ilfattoquotidiano.it",
         "milano.repubblica.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/25/tornano-dalluganda-con-la-febbre-negativi-al-test-per-lebola-i-due-cooperanti_febf5999-9daf-4e36-9478-05a1f8b30897.html",
+        "https://www.ilfattoquotidiano.it/2026/05/25/ebola-cooperanti-italiani-negativi-notizie/8398559/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/25/ebola-monitorate-in-ospedale-2-persone-rientrate-dalluganda-con-febbre-_febf5999-9daf-4e36-9478-05a1f8b30897.html",
-        "https://www.unita.it/2026/05/25/ebola-casi-sospetti-ricoverati-milano-congo-incendiati-centri-trattamento/",
-        "https://www.liberoquotidiano.it/news/tv-news/47874048/ebola-esami-su-cooperanti-rientrati-da-uganda-bertolaso-forse-malaria/",
-        "https://www.fanpage.it/milano/attivato-il-protocollo-sanitario-per-due-pazienti-ricoverati-al-sacco-di-milano-sono-a-rischio-ebola/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/25/ebola-2-persone-rientrate-dalluganda-con-febbre-monitorate-in-ospedale_febf5999-9daf-4e36-9478-05a1f8b30897.html"
+        "https://www.liberoquotidiano.it/news/pillole/47873535/ebola_bertolaso_su_casi_sospetti_attivati_accertamenti_e_procedure_/",
+        "https://www.unita.it/2026/05/25/ebola-casi-sospetti-ricoverati-milano-congo-incendiati-centri-trattamento/"
       ]
     },
     {
       "rank": 2,
+      "title": "Elezioni, a Salerno De Luca vince senza il Pd",
+      "source_count": 11,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "unita.it",
+        "lastampa.it",
+        "fanpage.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/05/25/comunali-il-centrodestra-a-sorpresa-a-venezia-delusione-del-campo-largo.-de-luca-sbanca_f5827b0e-f272-484d-ae80-2b9e8aed2451.html",
+        "https://www.ilfattoquotidiano.it/2026/05/25/de-luca-sindaco-salerno-quinta-volta-notizie/8398380/",
+        "https://www.ilmessaggero.it/politica/vincenzo_de_luca_chi_e_sindaco_salerno_vicere-9553823.html",
+        "https://www.repubblica.it/politica/2026/05/25/news/vincenzo_de_luca_sindaco_salerno_elezioni_comunali_2026-425369358/",
+        "https://www.ilgiornale.it/news/interni/elezioni-salerno-de-luca-vince-senza-pd-2669524.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Arriva l'enciclica di Leone XIV. Il messaggio: 'Rimaniamo umani'",
+      "source_count": 9,
+      "article_count": 14,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/politica/non-chiediamoci-se-lia-sia-buona-o-cattiva-ma-chi-controlla-cosa-la-vera-domanda-nellenciclica-del-papa/",
+        "https://www.ilgiornale.it/news/vaticano/crollo-papa-sui-social-account-pontifex-perdono-12mila-2669656.html",
+        "https://www.ilfattoquotidiano.it/2026/05/25/la-dottrina-di-papa-leone-xiv-sullintelligenza-artificiale-disarmare-lia-significa-sottrarla-alla-logica-della-competizione-militare-economia-e-cognitiva/8398036/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/05/25/papa-leone-xiv-lintelligenza-artificiale-deve-essere-disarmata_c50d22ed-8023-457a-ad70-a9b0a0f53a5e.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47874270/papa-leone-l-intelligenza-artificiale-deve-essere-disarmata-/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Rivoluzione Milan, RedBird caccia tutti: via Allegri, Furlani, Tare e Moncada",
       "source_count": 8,
       "article_count": 13,
@@ -52,32 +102,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Elezioni, a Salerno De Luca vince senza il Pd",
-      "source_count": 10,
-      "article_count": 11,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "unita.it",
-        "lastampa.it",
-        "fanpage.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/25/de-luca-sindaco-salerno-quinta-volta-notizie/8398380/",
-        "https://www.ilmessaggero.it/politica/vincenzo_de_luca_chi_e_sindaco_salerno_vicere-9553823.html",
-        "https://www.repubblica.it/politica/2026/05/25/news/vincenzo_de_luca_sindaco_salerno_elezioni_comunali_2026-425369358/",
-        "https://www.ilgiornale.it/news/interni/elezioni-salerno-de-luca-vince-senza-pd-2669524.html",
-        "https://www.ilgiornale.it/news/interni/elezioni-comunali-urne-chiuse-i-primi-exit-poll-2669506.html"
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "title": "Comunali, chiusi i seggi, la diretta dello spoglio - Liveblog",
       "source_count": 6,
       "article_count": 13,
@@ -98,67 +123,45 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Arriva l'enciclica di Leone XIV. Il messaggio: 'Rimaniamo umani'",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/videogallery/mondo/2026/05/25/papa-leone-xiv-lintelligenza-artificiale-deve-essere-disarmata_c50d22ed-8023-457a-ad70-a9b0a0f53a5e.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47874270/papa-leone-l-intelligenza-artificiale-deve-essere-disarmata-/",
-        "https://www.fanpage.it/attualita/di-cosa-parla-lenciclica-magnifica-humanitas-e-perche-e-il-manifesto-del-pontificato-di-leone-xiv/",
-        "https://www.liberoquotidiano.it/news/tv-news/47872836/magnifica-humanitas-la-prima-enciclica-di-leone-disarmare-l-ia-/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/25/arriva-lenciclica-di-leone-xiv.-il-messaggio-rimaniamo-umani-_e5bb0b45-fdd7-4328-9077-87b7646231cc.html"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Flotilla di terra, a Bengasi due attivisti italiani fermati. “Accusati di ingresso illegale”",
+      "title": "'Due attivisti italiani della Flotilla trasferiti a Bengasi, trattati come possibili clandestini'",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "ansa.it",
         "fanpage.it",
         "liberoquotidiano.it",
-        "ansa.it",
         "ilgiornale.it",
         "repubblica.it",
         "adnkronos.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/25/attivisti-flotilla-davanti-al-giudice-a-bengasi-saranno-espulsi_6e97ab0c-8083-435d-b84a-4981c86baa76.html",
         "https://www.fanpage.it/politica/flotilla-di-terra-10-attivisti-fermati-in-libia-cosa-sappiamo-dei-due-italiani-in-attesa-di-giudizio-a-bengasi/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47874291/tajani-su-attivisti-italiani-della-flotilla-trasferiti-a-bengasi-stiamo-seguendo-la-vicenda/",
         "https://www.liberoquotidiano.it/news/tv-news/47873418/flotilla-due-italiani-fermati-in-libia-processati-come-clandestini/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/25/due-attivisti-italiani-della-flotilla-trasferiti-a-bengasi-trattati-come-possibili_6e97ab0c-8083-435d-b84a-4981c86baa76.html",
-        "https://www.ilgiornale.it/news/politica/scuse-herzog-abusi-sulla-flotilla-carovana-terra-bloccata-2669229.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/attivisti-flotilla-bengasi-trattati-possibili-clandestini-2669406.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/25/due-attivisti-italiani-della-flotilla-trasferiti-a-bengasi-trattati-come-possibili_6e97ab0c-8083-435d-b84a-4981c86baa76.html"
       ]
     },
     {
       "rank": 7,
       "title": "Garlasco, la difesa di Sempio: “L’impronta del piede incompatibile col killer. I soliloqui? Non sono confessioni”",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "ansa.it",
         "fanpage.it",
         "ilgiornale.it",
-        "ansa.it",
         "milano.repubblica.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/25/la-difesa-di-sempio-i-suoi-soliloqui-non-hanno-natura-confessoria_c7c182a6-77da-4263-b00b-1dc1f7d4cbb2.html",
         "https://www.fanpage.it/attualita/garlasco-depositati-gli-atti-della-difesa-di-sempio-baldi-dna-sulle-unghie-di-chiara-e-per-contaminazione/",
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/contrattacco-difesa-sempio-smontare-tesi-procura-pavia-2669469.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/25/la-difesa-di-sempio-deposita-oggi-le-consulenze-per-smontare-le-accuse_c7c182a6-77da-4263-b00b-1dc1f7d4cbb2.html",
-        "https://milano.repubblica.it/cronaca/2026/05/25/news/garlasco_difesa_sempio_deposita_consulenze-425368765/",
-        "https://www.ilmessaggero.it/persone/garlasco_sempio_consulenze_depositate_oggi_quali_sono_impronte_soliloqui-9553502.html"
+        "https://milano.repubblica.it/cronaca/2026/05/25/news/garlasco_difesa_sempio_deposita_consulenze-425368765/"
       ]
     },
     {
@@ -183,6 +186,27 @@
     },
     {
       "rank": 9,
+      "title": "Centrodestra, la rivincita dopo il referendum: strappa Reggio Calabria e tiene Venezia",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/25/comunali-il-centrodestra-vince-la-sfida-di-venezia-e-conquista-reggio-calabria-meloni-esulta-anche-oggi-rimandiamo-il-crollo-a-domani/8398451/",
+        "https://www.ilgiornale.it/news/interni/non-soddisfatti-risultati-chiaroscuro-i-giallorossi-tilt-2669636.html",
+        "https://www.ilmessaggero.it/politica/comunali_chi_ha_vinto_centrodestra_centrosinistra_meloni_schlein-9553969.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47875522/donzelli-su-vittoria-centrodestra-a-venezia-i-sogni-della-sinistra-si-infrangono-con-la-realta-/",
+        "https://www.ilgiornale.it/news/interni/exploit-centrodestra-venezia-meloni-vincere-qui-sarebbe-2669556.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Torino, scontri al derby: ferito un tifoso della Juve, poi il ricatto degli ultrà",
       "source_count": 4,
       "article_count": 8,
@@ -198,26 +222,6 @@
         "https://www.ilgiornale.it/news/calcio/scontri-torino-juve-e-giallo-lacrimogeno-chi-tifoso-2669427.html",
         "https://www.lastampa.it/torino/2026/05/25/news/scontri_derby_torino_otto_arresti_ultras_juventus_indagini-15635251/",
         "https://www.ilgiornale.it/news/calcio/torino-juventus-derby-paura-solo-amichevole-2669303.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Iran, annunci e minacce ma la svolta non c’è",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-media-battuta-darresto-in-negoziati-ancora-distanti-su-questioni-chiave_4VocowZ38Wn5iWH2aAN3gx",
-        "https://www.liberoquotidiano.it/news/tv-news/47869413/iran-intesa-con-usa-su-diversi-punti-ma-l-accordo-non-e-imminente/",
-        "https://www.ilgiornale.it/news/politica/mani-legate-libano-e-concessioni-alliran-i-dubbi-netanyahu-2669230.html",
-        "https://www.ilgiornale.it/news/politica/uranio-hormuz-e-khamenei-tutte-incognite-dellintesa-2669226.html",
-        "https://www.ilgiornale.it/news/politica/tempo-gioca-noi-pazienza-trump-piegare-ayatollah-2669225.html"
       ]
     }
   ]
