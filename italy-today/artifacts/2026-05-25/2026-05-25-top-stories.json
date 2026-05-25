@@ -1,12 +1,12 @@
 {
   "date": "2026-05-25",
-  "generated_at": "Mon 25 May 19:56",
+  "generated_at": "Mon 25 May 21:19",
   "stories": [
     {
       "rank": 1,
-      "title": "Ebola, due casi sospetti in Lombardia: rientrati dall'Uganda con la febbre sono ricoverati a Milano",
+      "title": "Ebola, monitorate in ospedale 2 persone rientrate dall'Uganda con febbre",
       "source_count": 11,
-      "article_count": 15,
+      "article_count": 16,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
@@ -21,11 +21,11 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/25/negativi-al-virus-ebola-i-due-cooperanti-rientrati-in-italia_febf5999-9daf-4e36-9478-05a1f8b30897.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/25/tornano-dalluganda-con-la-febbre-negativi-al-test-per-lebola-i-due-cooperanti_febf5999-9daf-4e36-9478-05a1f8b30897.html",
         "https://www.ilfattoquotidiano.it/2026/05/25/ebola-cooperanti-italiani-negativi-notizie/8398559/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/25/ebola-monitorate-in-ospedale-2-persone-rientrate-dalluganda-con-febbre-_febf5999-9daf-4e36-9478-05a1f8b30897.html",
-        "https://www.liberoquotidiano.it/news/pillole/47873535/ebola_bertolaso_su_casi_sospetti_attivati_accertamenti_e_procedure_/",
-        "https://www.unita.it/2026/05/25/ebola-casi-sospetti-ricoverati-milano-congo-incendiati-centri-trattamento/"
+        "https://www.liberoquotidiano.it/news/pillole/47873535/ebola_bertolaso_su_casi_sospetti_attivati_accertamenti_e_procedure_/"
       ]
     },
     {
@@ -125,26 +125,51 @@
     {
       "rank": 6,
       "title": "'Due attivisti italiani della Flotilla trasferiti a Bengasi, trattati come possibili clandestini'",
-      "source_count": 6,
-      "article_count": 9,
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
         "ansa.it",
         "fanpage.it",
         "liberoquotidiano.it",
-        "ilgiornale.it",
         "repubblica.it",
         "adnkronos.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/cronaca-internazionale/ci-sono-feriti-convoglio-terra-flotilla-sotto-attacco-libia-2669674.html",
+        "https://www.ilfattoquotidiano.it/2026/05/25/flotilla-convoglio-terra-libia-attacco/8398640/",
+        "https://www.lastampa.it/esteri/2026/05/25/news/flotilla_convoglio_in_libia_sotto_attacco_violenze_sugli_attivisti-15636222/",
         "https://www.ansa.it/sito/notizie/mondo/2026/05/25/attivisti-flotilla-davanti-al-giudice-a-bengasi-saranno-espulsi_6e97ab0c-8083-435d-b84a-4981c86baa76.html",
-        "https://www.fanpage.it/politica/flotilla-di-terra-10-attivisti-fermati-in-libia-cosa-sappiamo-dei-due-italiani-in-attesa-di-giudizio-a-bengasi/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47874291/tajani-su-attivisti-italiani-della-flotilla-trasferiti-a-bengasi-stiamo-seguendo-la-vicenda/",
-        "https://www.liberoquotidiano.it/news/tv-news/47873418/flotilla-due-italiani-fermati-in-libia-processati-come-clandestini/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/25/due-attivisti-italiani-della-flotilla-trasferiti-a-bengasi-trattati-come-possibili_6e97ab0c-8083-435d-b84a-4981c86baa76.html"
+        "https://www.fanpage.it/politica/flotilla-di-terra-10-attivisti-fermati-in-libia-cosa-sappiamo-dei-due-italiani-in-attesa-di-giudizio-a-bengasi/"
       ]
     },
     {
       "rank": 7,
+      "title": "Ferrari Luce, a Roma debutto mondiale per la prima elettrica del Cavallino",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/motori/a-roma-debutto-mondiale-della-ferrari-luce-la-prima-full-electric-del-cavallino_5EtzqnaoHCWPkm7ENKUNcc",
+        "https://www.ansa.it/canale_motori/notizie/novita_anticipazione/2026/05/25/ferrari-luce-a-roma-debutto-mondiale-per-la-prima-elettrica-del-cavallino_5732acf4-6e0a-4fc5-b14c-e6b6498d3cb2.html",
+        "https://www.ilfattoquotidiano.it/2026/05/25/ferrari-luce-la-scommessa-elettrica-che-cambia-il-volto-del-cavallino-foto/8398420/",
+        "https://www.ilgiornale.it/news/automotive/ferrari-luce-elettrica-che-reinventa-maranello-2669596.html",
+        "https://www.repubblica.it/motori/2026/05/25/news/ferrari_luce_auto_elettrica_debutto_roma-425369991/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Garlasco, la difesa di Sempio: “L’impronta del piede incompatibile col killer. I soliloqui? Non sono confessioni”",
       "source_count": 6,
       "article_count": 9,
@@ -165,63 +190,45 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Marco Basoccu, chi è il tifoso ferito nel derby Torino-Juventus. Il padre: «Colpito da un lacrimogeno, è caduto a faccia in giù. Credevo di trovarlo morto»",
+      "rank": 9,
+      "title": "Medio Oriente - Teheran: 'L'accordo non è imminente'",
       "source_count": 5,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
         "adnkronos.com",
-        "torino.repubblica.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/marco-basoccu-chi-e-tifoso-juventus-ferito-scontri-torino_7LJbclDmJZCkeyguVaLOKh",
-        "https://torino.repubblica.it/cronaca/2026/05/25/news/tifoso_ferito_in_un_video_la_verita_su_cosa_ha_colpito_marco_basoccu_negli_scontri_prima_del_derby-425368975/",
-        "https://torino.repubblica.it/cronaca/2026/05/25/news/marco_basoccu_tifoso_ferito_derby_il_padre_del_tifoso_ferito_ridicola_l_ipotesi_della_bottiglia_a_colpirlo_e_stato_un_lac-425368942/",
-        "https://www.ilfattoquotidiano.it/2026/05/25/scontri-derby-torino-juventus-basoccu-chi-e-tifoso-ferito-come-sta-condizioni-oggi-indagini-cosa-sappiamo/8397681/",
-        "https://www.ilmessaggero.it/persone/marco_basoccu_tifoso_ferito_torino_juventus_chi_e_eta_cosa_e_successo_come_sta_prognosi_riservata-9553418.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Centrodestra, la rivincita dopo il referendum: strappa Reggio Calabria e tiene Venezia",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
+        "ansa.it",
         "liberoquotidiano.it",
-        "repubblica.it",
-        "ilsole24ore.com"
+        "ilgiornale.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/25/comunali-il-centrodestra-vince-la-sfida-di-venezia-e-conquista-reggio-calabria-meloni-esulta-anche-oggi-rimandiamo-il-crollo-a-domani/8398451/",
-        "https://www.ilgiornale.it/news/interni/non-soddisfatti-risultati-chiaroscuro-i-giallorossi-tilt-2669636.html",
-        "https://www.ilmessaggero.it/politica/comunali_chi_ha_vinto_centrodestra_centrosinistra_meloni_schlein-9553969.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/47875522/donzelli-su-vittoria-centrodestra-a-venezia-i-sogni-della-sinistra-si-infrangono-con-la-realta-/",
-        "https://www.ilgiornale.it/news/interni/exploit-centrodestra-venezia-meloni-vincere-qui-sarebbe-2669556.html"
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-media-battuta-darresto-in-negoziati-ancora-distanti-su-questioni-chiave_4VocowZ38Wn5iWH2aAN3gx",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/25/medio-oriente-trump-i-negoziati-con-liran-procedono-bene-grande-accordo_af4d82f1-9f54-4aed-8c31-28d49d15d0b5.html",
+        "https://www.liberoquotidiano.it/news/tv-news/47869413/iran-intesa-con-usa-su-diversi-punti-ma-l-accordo-non-e-imminente/",
+        "https://www.ilgiornale.it/news/politica/tempo-gioca-noi-pazienza-trump-piegare-ayatollah-2669225.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/25/medio-oriente-media-il-quadro-dellintesa-usa-iran-e-definito_4dbfb3f2-1e39-4fe9-9b26-4b8d8ac8df76.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Torino, scontri al derby: ferito un tifoso della Juve, poi il ricatto degli ultrà",
-      "source_count": 4,
-      "article_count": 8,
+      "title": "Preparava un attentato per lo Stato islamico a Reggio Emilia, arrestato un 22enne",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
+        "fanpage.it",
+        "liberoquotidiano.it",
         "ansa.it",
+        "ilmessaggero.it",
         "ilgiornale.it",
         "lastampa.it",
-        "repubblica.it"
+        "agi.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/25/gli-scontri-al-derby-di-torino-otto-ultras-della-juve-arrestati_a250496e-1c84-4fe4-abe6-65a2e55dae57.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/25/scontri-ultra-a-torino-stabile-il-tifoso-ferito-da-una-bottiglia_a250496e-1c84-4fe4-abe6-65a2e55dae57.html",
-        "https://www.ilgiornale.it/news/calcio/scontri-torino-juve-e-giallo-lacrimogeno-chi-tifoso-2669427.html",
-        "https://www.lastampa.it/torino/2026/05/25/news/scontri_derby_torino_otto_arresti_ultras_juventus_indagini-15635251/",
-        "https://www.ilgiornale.it/news/calcio/torino-juventus-derby-paura-solo-amichevole-2669303.html"
+        "https://www.fanpage.it/attualita/aveva-acconsentito-a-compiere-un-attentato-in-italia-arrestato-il-22enne-jaber-naggay-a-reggio-emilia/",
+        "https://www.liberoquotidiano.it/news/italia/47876735/reggio-emilia-22enne-islamico-pronto-commettere-strage-arresto-extremis/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/25/preparava-un-attentato-per-lo-stato-islamico-fermato-un-22enne-_26f67f70-9b85-4f00-8700-b6c5a86c925a.html",
+        "https://www.ilmessaggero.it/italia/reggio_emilia_attentato_isis_terrorismo_arrestato_22enne_cosa_sappiamo-9553878.html",
+        "https://www.ilgiornale.it/news/attualit/fermato-22enne-reggio-emilia-seguace-dellisis-e-pronto-2669543.html"
       ]
     }
   ]
