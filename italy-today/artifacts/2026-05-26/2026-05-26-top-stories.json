@@ -1,12 +1,12 @@
 {
   "date": "2026-05-26",
-  "generated_at": "Tue 26 May 14:01",
+  "generated_at": "Tue 26 May 17:32",
   "stories": [
     {
       "rank": 1,
       "title": "Ferrari Luce, la prima elettrica che reinventa Maranello",
       "source_count": 10,
-      "article_count": 13,
+      "article_count": 14,
       "source_domains": [
         "ilfattoquotidiano.it",
         "fanpage.it",
@@ -29,12 +29,12 @@
     },
     {
       "rank": 2,
-      "title": "Belgio, treno travolge scuolabus a un passaggio a livello: diverse vittime",
+      "title": "Belgio, scuolabus travolto da un treno. Il ministro: “Ci sarebbero quattro vittime e feriti”",
       "source_count": 9,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
-        "fanpage.it",
         "liberoquotidiano.it",
+        "fanpage.it",
         "unita.it",
         "ilgiornale.it",
         "ansa.it",
@@ -44,11 +44,11 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/47886419/in-belgio-scuolabus-travolto-da-treno-4-morti-fra-loro-2-bambini/",
         "https://www.fanpage.it/esteri/bus-travolto-dal-treno-in-belgio-i-ragazzi-morti-frequentavano-scuola-dedicata-a-studenti-con-disturbi/",
         "https://www.liberoquotidiano.it/news/libero-video/47883741/belgio-scuolabus-travolto-da-un-treno-al-passaggio-a-livello-morti-due-ragazzi-l-accompagnatore-e-l-autista/",
         "https://www.unita.it/2026/05/26/incidente-scuolabus-travolto-treno-belgio-morti-studenti/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/belgio-scuolabus-investito-treno-diversi-morti-2669903.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/26/media-diversi-morti-nellincidente-allo-scuolabus-in-belgio_0a5c5a0e-c782-4c2b-8171-3bdd3459ec27.html"
+        "https://www.ilgiornale.it/news/cronaca-internazionale/belgio-scuolabus-investito-treno-diversi-morti-2669903.html"
       ]
     },
     {
@@ -95,9 +95,75 @@
     },
     {
       "rank": 5,
-      "title": "Confindustria incalza il governo: “Europa a rischio deserto industriale, riallocare subito 20 miliardi”",
+      "title": "Roland Garros, è il giorno di Sinner: chi è Tabur e quando giocano",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "adnkronos.com",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/diretta-sinner-tabur-oggi-roland-garros-2026-risultato-live_3OtZvy9v6DduDK0hNxRg1O",
+        "https://www.adnkronos.com/sport/roland-garros-arnaldi-batte-griekspoor-primo-turno-oggi_5OhU2Gy0a7fKNU4SXXd8wZ",
+        "https://www.fanpage.it/sport/tennis/clement-tabur-lavversario-di-sinner-a-parigi-sto-male-quando-lo-vedo-era-lunico-che-non-volevo/",
+        "https://www.adnkronos.com/sport/roland-garros-medvedev-eliminato-sorpresa-salta-semifinale-sinner_5TXiUb427AOJMoxpdw2XqZ",
+        "https://www.ilmessaggero.it/sport/tennis/medvedev_litiga_moglie_caldo_roland_garros_cosa_ha_detto-9555789.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Napoli, 12enne pugnalato in casa al polmone al Rione Sanità: il papà tenta di togliersi la vita tagliandosi la gola",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "unita.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/26/12enne-accoltellato-a-napoli-entrate-ho-ucciso-mio-figlio-il-racconto-dellinfermiera-intervenuta_629b799e-9280-47db-8768-c2e9255e1a38.html",
+        "https://www.unita.it/2026/05/26/accoltellato-casa-12enne-ferita-madre-aggredita-infermiera-arrestato-padre/",
+        "https://www.liberoquotidiano.it/news/italia/47883084/napoli-padre-astinenza-accoltella-figlio-12enne-tenta-suicidio/",
+        "https://www.ilfattoquotidiano.it/2026/05/26/accoltellamento-napoli-padre-figlio-notizie/8398963/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/26/12enne-accoltellato-a-napoli-padre-tenta-di-togliersi-la-vita_629b799e-9280-47db-8768-c2e9255e1a38.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "PRIME PAGINE | Centrodestra a sorpresa a Venezia, delusione del campo largo",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "repubblica.it",
+        "ansa.it",
+        "ilmanifesto.it",
+        "news.google.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/interni/venezia-venturini-spacca-campo-largo-50-dei-grillini-vota-2670089.html",
+        "https://www.repubblica.it/politica/2026/05/26/news/venezia_vittoria_venturini_lista_civica_partiti_centrodestra_pd_analisi-425371685/",
+        "https://www.ilgiornale.it/news/interni/lezione-elezioni-2669813.html",
+        "https://www.ilgiornale.it/news/politica/venturini-nasce-stella-cos-conquista-venezia-e-sua-lista-2669684.html",
+        "https://www.ansa.it/sito/videogallery/italia/2026/05/26/a-venezia-venturini-sindaco-al-primo-turno_a79f74a1-d048-4fd5-924e-5f4b19e2dab9.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Industriali, appello di Orsini all'Ue: \"Serve svolta sul debito comune. Sospendere gli Ets\"",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
@@ -108,94 +174,33 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47886398/orsini-confindustria-burocrazia-europea-e-lunare-bisogna-cambiare/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/47883133/orsini-confindustria-ue-non-sa-cos-e-la-competitivita-persi-250-mila-occupati-nella-manifattura/",
         "https://www.ansa.it/sito/notizie/eventi/2026/05/25/confindustria-a-roma-lassemblea-2026_59d3112a-ecf5-446f-af15-22728d9ed72f.html",
         "https://www.ilgiornale.it/news/politica-economica/industriali-appello-orsini-allue-serve-svolta-sul-debito-2669887.html",
-        "https://www.adnkronos.com/economia/industria-il-monito-di-orsini-se-non-faremo-scelte-coraggiose-la-perderemo_7wb2BfINYcuRORXOgbl6mh",
-        "https://www.repubblica.it/economia/2026/05/26/news/confindustria_patto_in_cinque_punti-425370869/"
+        "https://www.adnkronos.com/economia/industria-il-monito-di-orsini-se-non-faremo-scelte-coraggiose-la-perderemo_7wb2BfINYcuRORXOgbl6mh"
       ]
     },
     {
-      "rank": 6,
-      "title": "Comunali, la nuova mappa dei 18 comuni capoluogo",
-      "source_count": 4,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/05/26/comunali-il-centrodestra-si-tiene-venezia-7-capoluoghi-al-centrosinistra_533967dd-6e27-435d-bd98-73d94758e69f.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/05/26/comunali-la-nuova-mappa-dei-18-comuni-capoluogo_1fa0c081-61cc-42ca-858e-09652673ad67.html",
-        "https://www.repubblica.it/politica/2026/05/26/news/comunali_elezioni_risultati_partiti_grandi_citta-425371237/",
-        "https://www.liberoquotidiano.it/news/libero-video/47883730/amministrative-fratoianni-centrodestra-non-e-imbattibile/",
-        "https://www.ilgiornale.it/news/politica/coalizione-promossa-vittorie-secche-venezia-e-reggio-2669686.html"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "PRIME PAGINE | Centrodestra a sorpresa a Venezia, delusione del campo largo",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "ilmanifesto.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/interni/lezione-elezioni-2669813.html",
-        "https://www.ilgiornale.it/news/politica/venturini-nasce-stella-cos-conquista-venezia-e-sua-lista-2669684.html",
-        "https://www.ansa.it/sito/videogallery/italia/2026/05/26/a-venezia-venturini-sindaco-al-primo-turno_a79f74a1-d048-4fd5-924e-5f4b19e2dab9.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/05/26/prime-pagine-centrodestra-a-sorpresa-a-venezia-delusione-del-campo-largo_07c32c44-3958-4cb5-90a3-a9faaa17745b.html",
-        "https://ilmanifesto.it/sorpresa-venezia-martella-affondato-al-primo-turno"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Padre accoltella il figlio 12enne, poi tenta di togliersi la vita: il ragazzino è in prognosi riservata",
+      "rank": 9,
+      "title": "Ritardi fino a 2 ore sull’Alta Velocità tra Milano e Bologna, Trenitalia: “Ci sono persone sui binari”",
       "source_count": 7,
       "article_count": 7,
       "source_domains": [
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
         "fanpage.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/italia/47883084/napoli-padre-astinenza-accoltella-figlio-12enne-tenta-suicidio/",
-        "https://www.ilfattoquotidiano.it/2026/05/26/accoltellamento-napoli-padre-figlio-notizie/8398963/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/26/12enne-accoltellato-a-napoli-padre-tenta-di-togliersi-la-vita_629b799e-9280-47db-8768-c2e9255e1a38.html",
-        "https://www.ilmessaggero.it/italia/napoli_padre_accoltella_figlio_crisi_astinenza_cosa_e_successo_ultime_notizie-9555488.html",
-        "https://www.fanpage.it/napoli/napoli-12enne-pugnalato-in-casa-al-polmone-al-rione-sanita-il-papa-tenta-di-togliersi-la-vita-tagliandosi-la-gola/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Francesco Cannizzaro del centrodestra è il nuovo sindaco di Reggio Calabria",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
+        "adnkronos.com",
         "ilgiornale.it",
-        "ilmessaggero.it",
-        "ilmanifesto.it",
-        "ilsole24ore.com",
-        "news.google.com"
+        "ansa.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/26/elezioni-reggio-calabria-cannizzaro-sindaco-falcomata-notizie/8399310/",
-        "https://www.ilgiornale.it/news/politica/nel-segno-ponte-sindaci-moderati-reggio-e-messina-2669691.html",
-        "https://www.ilmessaggero.it/schede/elezioni_comunali_venezia_reggio_calabria_messina_fermo_macerata_pistoia-9555556.html",
-        "https://ilmanifesto.it/cannizzaro-trionfa-a-reggio-calabria-la-caporetto-del-partito-democratico",
-        "https://www.ilsole24ore.com/art/chi-e-francesco-cannizzaro-nuovo-sindaco-reggio-calabria-che-strappa-comune-centrosinistra-12-anni-AI0FfiHD"
+        "https://www.liberoquotidiano.it/news/italia/47886250/milano-bologna-persona-binari-alta-velocita-caos/",
+        "https://www.ilfattoquotidiano.it/2026/05/26/alta-velocita-milano-bologna-ritardi-binari-notizie/8399525/",
+        "https://www.fanpage.it/attualita/ritardi-fino-a-2-ore-sullalta-velocita-tra-milano-e-bologna-trenitalia-ci-sono-persone-sui-binari/",
+        "https://www.adnkronos.com/cronaca/treni-due-ore-di-ritardo-alta-velocita-milano-bologna_2T0a9pfNU0XboEtIXnrnFS",
+        "https://www.ilgiornale.it/news/cronaca-locale/alta-velocit-milano-bologna-nel-caos-persone-sui-binari-2670025.html"
       ]
     },
     {
