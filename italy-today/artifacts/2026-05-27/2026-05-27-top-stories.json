@@ -1,12 +1,12 @@
 {
   "date": "2026-05-27",
-  "generated_at": "Wed 27 May 14:33",
+  "generated_at": "Wed 27 May 18:04",
   "stories": [
     {
       "rank": 1,
       "title": "Accoltellano a morte 22enne in stazione, poi in 10 fuggono in treno. L'ipotesi dell'agguato e delle gang",
-      "source_count": 10,
-      "article_count": 12,
+      "source_count": 11,
+      "article_count": 13,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ansa.it",
@@ -17,7 +17,8 @@
         "milano.repubblica.it",
         "ilmessaggero.it",
         "lastampa.it",
-        "agi.it"
+        "agi.it",
+        "news.google.com"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/05/27/omicidio-certosa-milano-gang-notizie/8400753/",
@@ -31,68 +32,47 @@
       "rank": 2,
       "title": "Roland Garros, Sinner debutta in scioltezza: Tabur sconfitto nettamente in tre set",
       "source_count": 6,
-      "article_count": 11,
+      "article_count": 13,
       "source_domains": [
-        "ilfattoquotidiano.it",
         "adnkronos.com",
+        "ilfattoquotidiano.it",
         "fanpage.it",
         "repubblica.it",
         "lastampa.it",
         "ilgiornale.it"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/roland-garros-mensik-terzo-turno-dopo-match-infinito-cosa-e-successo_4jgKqZkYIHBb1NxXVBjDW5",
+        "https://www.adnkronos.com/sport/paolo-bertolucci-boccia-kit-sinner-roland-garros_gnhG9cF2TBLSVc8JmeoEB",
         "https://www.ilfattoquotidiano.it/2026/05/27/roland-garros-quando-gioca-sinner-contro-cerundolo-orario-ufficiale-caldo-emergenza/8400840/",
         "https://www.adnkronos.com/sport/sinner-cerundolo-domani-secondo-turno-roland-garros-orario-dove-vederla-tv-streaming_6sEtvAf75GRk00XZ7Wu2AR",
-        "https://www.fanpage.it/sport/tennis/sinner-cerundolo-oggi-al-roland-garros-a-che-ora-si-gioca-e-dove-vederla-in-tv-in-chiaro-e-streaming/",
-        "https://www.repubblica.it/sport/dossier/roland-garros/2026/05/27/news/sinner_quando_gioca_roland_garros_orario-425373686/",
-        "https://www.adnkronos.com/sport/sinner-quanto-guadagna-premi-sponsor-cifre-record-alcaraz_1j1o4xEROgcEKEvEMX2ALC"
+        "https://www.fanpage.it/sport/tennis/sinner-cerundolo-oggi-al-roland-garros-a-che-ora-si-gioca-e-dove-vederla-in-tv-in-chiaro-e-streaming/"
       ]
     },
     {
       "rank": 3,
       "title": "Delmastro, la Procura chiede alla Camera di acquisire le chat con Caroccia",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "unita.it",
         "ansa.it",
-        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "roma.repubblica.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/27/caso-delmastro-chat-caroccia-procura-notizie/8401076/",
         "https://www.unita.it/2026/05/27/delmastro-caso-bisteccheria-procura-chiede-chat-caroccia/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/27/pm-di-roma-chiede-autorizzazione-alla-camera-per-chat-tra-delmastro-e-caroccia_e289cbab-019e-4cf6-afbb-9e6bacba8ad5.html",
         "https://www.ilfattoquotidiano.it/2026/05/27/bisteccheria-italia-delmastro-caroccia-notizie/8400405/",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/delmastro-procura-chiede-camera-acquisire-chat-caroccia-2670331.html",
-        "https://roma.repubblica.it/cronaca/2026/05/27/news/delmastro_chat_caroccia_procura_bisteccheria_riciclaggio_clan_senese-425373029/"
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/delmastro-procura-chiede-camera-acquisire-chat-caroccia-2670331.html"
       ]
     },
     {
       "rank": 4,
-      "title": "Spagna, Guardia Civil perquisisce sede Partito socialista a Madrid",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "lastampa.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/esteri/2026/05/27/news/dagli_scandali_nel_psoe_alla_moglie_sotto_inchiesta_fino_al_caso_zapatero_tutti_i_guai_di_sanchez-15637983/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/27/media-guardia-civil-nella-sede-centrale-del-partito-socialista-a-madrid_047c358c-a79b-4f01-a27a-634038aa7bb1.html",
-        "https://www.adnkronos.com/internazionale/esteri/spagna-guardia-civil-perquisisce-sede-partito-socialista-a-madrid_3wAniFcFaG8FdsBupSJpOJ",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/perquisizioni-nel-quartier-generale-partito-socialista-2670326.html",
-        "https://www.ilmessaggero.it/mondo/madrid_corruzione_partito_socialista_guardi_civil-9557533.html"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Meloni ad Assemblea di Confindustria: Ue faccia meno e lo faccia meglio",
       "source_count": 6,
       "article_count": 7,
@@ -113,7 +93,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Ebola, dottoressa italiana in rientro dal Congo: è entrata in contatto con pazienti contagiati",
       "source_count": 6,
       "article_count": 6,
@@ -134,7 +114,68 @@
       ]
     },
     {
+      "rank": 6,
+      "title": "Uno scranno della Camera dedicato a Matteotti, polemiche per le assenze alla cerimonia",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/05/27/alla-camera-uno-scranno-dedicato-a-matteotti-lite-sulle-assenze-in-aula_57cdedc4-5610-43ef-a083-00b369108970.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/47905765/una-targa-in-memoria-di-matteotti-in-aula-alla-camera-sul-suo-scranno-ecco-lo-scoprimento/",
+        "https://www.ansa.it/sito/notizie/politica/2026/05/27/uno-scranno-della-camera-dedicato-a-matteotti-polemiche-per-le-assenze-alla_57cdedc4-5610-43ef-a083-00b369108970.html",
+        "https://www.lastampa.it/politica/2026/05/27/video/camera_dei_deputati_scoperta_targa_in_memoria_di_matteotti_su_quello_che_fu_il_suo_scranno-15637961/",
+        "https://www.repubblica.it/politica/2026/05/27/news/giacomo_matteotti_camera_scranno_fontana_polemiche_banchi_vuoti_fdi-425372985/"
+      ]
+    },
+    {
       "rank": 7,
+      "title": "Spagna, Guardia Civil perquisisce sede Partito socialista a Madrid",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/27/media-guardia-civil-nella-sede-centrale-del-partito-socialista-a-madrid_047c358c-a79b-4f01-a27a-634038aa7bb1.html",
+        "https://www.adnkronos.com/internazionale/esteri/spagna-guardia-civil-perquisisce-sede-partito-socialista-a-madrid_3wAniFcFaG8FdsBupSJpOJ",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/perquisizioni-nel-quartier-generale-partito-socialista-2670326.html",
+        "https://www.ilmessaggero.it/mondo/madrid_corruzione_partito_socialista_guardi_civil-9557533.html",
+        "https://www.repubblica.it/esteri/2026/05/27/news/spagna_polizia_perquisisce_sede_psoe_finanziamenti_illeciti-425372797/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Maggio mai così caldo. Afa da Londra a Parigi. “Sarà sempre peggio”",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/05/27/londata-di-caldo-in-europa-vista-dai-satelliti_85c3b120-df2c-41fd-81bf-a580857d61fe.html",
+        "https://www.lastampa.it/cronaca/2026/05/27/news/ondata_caldo_nord_italia_picco_temperature_durata-15638168/",
+        "https://www.ilmessaggero.it/italia/caldo_anomalo_cosa_succede_quanto_dura_dove_quando-9557627.html",
+        "https://www.repubblica.it/cronaca/2026/05/27/news/ondata_caldo_previsioni_meteo_italia_bollino_rosso-425372834/",
+        "https://www.ilgiornale.it/news/meteo-e-clima/ondata-calore-sull-italia-prime-4-citt-bollino-rosso-2670301.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Dopo le polemiche Montefalcone e Oddenino riappaiono sul sito dell’Università di Genova: “Silenzio per lutto”",
       "source_count": 5,
       "article_count": 5,
@@ -154,7 +195,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Arrivati in Italia gli attivisti della Flotilla della carovana di terra",
       "source_count": 5,
       "article_count": 5,
@@ -171,46 +212,6 @@
         "https://www.fanpage.it/politica/flotilla-per-gaza-atterrati-a-fiumicino-i-primi-attivisti-resta-alta-la-tensione-per-i-dieci-ancora-bloccati-a-bengasi/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/27/arrivati-in-italia-gli-attivisti-della-flotilla-della-carovana-di-terra_df35a753-ec8a-4a05-91a5-b4265e5a3fd1.html",
         "https://www.lastampa.it/cronaca/2026/05/27/news/flotilla_arrivati_all_aeroporto_di_fiumicino_gli_attivisti_della_carovana_di_terra-15637713/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Uno scranno della Camera dedicato a Matteotti, polemiche per le assenze alla cerimonia",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/05/27/uno-scranno-della-camera-dedicato-a-matteotti-polemiche-per-le-assenze-alla_57cdedc4-5610-43ef-a083-00b369108970.html",
-        "https://www.lastampa.it/politica/2026/05/27/video/camera_dei_deputati_scoperta_targa_in_memoria_di_matteotti_su_quello_che_fu_il_suo_scranno-15637961/",
-        "https://www.repubblica.it/politica/2026/05/27/news/giacomo_matteotti_camera_scranno_fontana_polemiche_banchi_vuoti_fdi-425372985/",
-        "https://www.liberoquotidiano.it/news/tv-news/47901139/giacomo-matteotti-a-102-anni-dall-omicidio-una-targa-sul-suo-scranno/",
-        "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFenNRRlpoaVppMGpDT1hEQVNNMVdMbVNfY2NpRlJXeE1yMVZ0ZmhWV2RVYkhPV3VDbkFzaF9pOU8xcHpnTGtXODZ6dUhwRzdwNW4xN2MzQXVDY0lhVWJ1SUZEYkk2MUoxZ21QUXdOb3dBSVk?oc=5"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Media iraniani, c'è la bozza dell'accordo con gli Usa: \"Via blocco da Hormuz e transito a livelli pre-guerra\"",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilmessaggero.it",
-        "unita.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/mondo/hormuz_bluff_iran_mine_non_c_erano_cosa_sappiamo-9558042.html",
-        "https://www.unita.it/2026/05/27/iran-bozza-accordo-pace-stati-uniti-blocco-navale-usa-stretto-hormuz/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/27/medio-oriente-tv-iraniana-nella-bozza-fine-del-blocco-usa-di-hormuz_22f62eb7-4e03-4cbf-ad81-6e29cc2afc6b.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/iran-i-pasdaran-improbabile-ripresa-guerra-usa-2670490.html",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-israele-guerra-news-oggi-27-maggio-2026_5MR9uzdJwi4Kf6jPRtiRQV"
       ]
     }
   ]
