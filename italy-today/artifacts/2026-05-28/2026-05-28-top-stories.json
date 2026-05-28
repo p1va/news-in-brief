@@ -1,30 +1,29 @@
 {
   "date": "2026-05-28",
-  "generated_at": "Thu 28 May 18:19",
+  "generated_at": "Thu 28 May 20:37",
   "stories": [
     {
       "rank": 1,
       "title": "La vittoria a un passo, il malore, poi il crollo: così Sinner è stato eliminato al Roland Garros",
-      "source_count": 10,
+      "source_count": 9,
       "article_count": 28,
       "source_domains": [
-        "ansa.it",
         "adnkronos.com",
-        "repubblica.it",
+        "ansa.it",
         "ilmessaggero.it",
+        "lastampa.it",
         "ilmanifesto.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "fanpage.it",
-        "lastampa.it",
-        "news.google.com"
+        "repubblica.it"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/sinner-roland-garros-cosa-dicono-medici_6DKzG8QbYwMLlDNStEFR8F",
+        "https://www.adnkronos.com/sport/sinner-cerundolo-roland-garros-cosa-ha-detto_6MUPmT6gqp1U0N0Twqun77",
         "https://www.ansa.it/sito/notizie/sport/tennis/2026/05/28/sinner-crollo-choc-senza-energie-e-sfuma-il-sogno-roland-garros_c9dd0a94-ddf2-4ad4-a89b-c703be164bc1.html",
-        "https://www.adnkronos.com/sport/diretta-berrettini-rinderknech-oggi-roland-garros-2026-risultato-live_4JnaOTYmhxCEMosIDihV3L",
-        "https://www.repubblica.it/sport/dossier/roland-garros/2026/05/28/diretta/roland_garros_risultati_oggi_arnaldi_berrettini_cobolli_darderi-425375371/",
         "https://www.ilmessaggero.it/sport/schede/sinner_cosa_c_e_dietro_sconfitta_roland_garros-9560433.html",
-        "https://ilmanifesto.it/sinner-e-la-maledizione-di-parigi"
+        "https://www.lastampa.it/sport/tennis/2026/05/28/video/roland-garros_sinner_accasciato_a_bordo_campo_il_momento_del_crollo_al_terzo_set-15639921/"
       ]
     },
     {
@@ -143,6 +142,28 @@
     },
     {
       "rank": 7,
+      "title": "Allegri nuovo allenatore del Napoli, manca solo l'ufficialità",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/calcio/napoli-cambia-tutto-arriva-allegri-pronto-biennale-2671289.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/05/28/allegri-nuovo-allenatore-del-napoli-manca-solo-lufficialita_65cfb173-1044-4b4e-a417-bdff803d595c.html",
+        "https://www.adnkronos.com/sport/napoli-allegri-nuovo-allenatore-accordo-de-laurentiis_ekYtp5xiFp5UgrlJWOeO1",
+        "https://www.ilfattoquotidiano.it/2026/05/28/allegri-nuovo-allenatore-napoli-scelta-de-laurentiis-motivi/8402268/",
+        "https://www.repubblica.it/sport/calcio/serie-a/napoli/2026/05/28/news/napoli_accordo_con_allegri_sara_lui_il_nuovo_allenatore-425376399/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Energia, Meloni: “Non possiamo dire ai cittadini che i soldi ci sono solo per la difesa”",
       "source_count": 6,
       "article_count": 6,
@@ -160,27 +181,6 @@
         "https://www.repubblica.it/politica/2026/05/28/news/giorgia_meloni_mattino_5_energia_difesa_governo-425375229/",
         "https://www.ilgiornale.it/news/governo/meloni-integralismo-islamico-pericolo-reale-su-modena-fare-2670910.html",
         "https://www.lastampa.it/politica/2026/05/28/news/meloni_soldi_energia_difesa-15639065/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Usa, nuovo attacco in Iran. Rappresaglia dei Pasdaran: raid su base americana. Israele bombarda Tiro",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "repubblica.it",
-        "unita.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/05/28/diretta/guerra_iran_usa_israele_news_oggi-425374684/",
-        "https://www.unita.it/2026/05/28/iran-raid-usa-bandar-abbas-pasdaran-colpiscono-base-usa/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/28/sanzioni-usa-allagenzia-iraniana-creata-per-gestire-il-transito-a-hormuz_9cc48a89-2c8b-4a0c-9ed1-b6c3b56c3103.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/attacco-usa-bandar-abbas-rappresaglia-iraniana-colpisce-base-2670858.html",
-        "https://www.lastampa.it/esteri/2026/05/28/diretta/guerra_iran_usa_israele_news_oggi-15638734/"
       ]
     },
     {
@@ -206,23 +206,22 @@
     },
     {
       "rank": 10,
-      "title": "Allegri nuovo allenatore del Napoli, manca solo l'ufficialità",
-      "source_count": 6,
+      "title": "Zapatero, la moglie di Sanchez e il fratello: i casi giudiziari che colpiscono il governo in Spagna",
+      "source_count": 5,
       "article_count": 6,
       "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "adnkronos.com",
+        "fanpage.it",
         "ilfattoquotidiano.it",
+        "ilgiornale.it",
         "repubblica.it",
-        "lastampa.it"
+        "ilmanifesto.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/calcio/napoli-cambia-tutto-arriva-allegri-pronto-biennale-2671289.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/05/28/allegri-nuovo-allenatore-del-napoli-manca-solo-lufficialita_65cfb173-1044-4b4e-a417-bdff803d595c.html",
-        "https://www.adnkronos.com/sport/napoli-allegri-nuovo-allenatore-accordo-de-laurentiis_ekYtp5xiFp5UgrlJWOeO1",
-        "https://www.ilfattoquotidiano.it/2026/05/28/allegri-nuovo-allenatore-napoli-scelta-de-laurentiis-motivi/8402268/",
-        "https://www.repubblica.it/sport/calcio/serie-a/napoli/2026/05/28/news/napoli_accordo_con_allegri_sara_lui_il_nuovo_allenatore-425376399/"
+        "https://www.fanpage.it/esteri/zapatero-la-moglie-di-sanchez-e-il-fratello-i-casi-giudiziari-che-colpiscono-il-governo-in-spagna/",
+        "https://www.ilfattoquotidiano.it/2026/05/28/psoe-scandali-sanchez-processo-penale-spagna-come-funziona/8401815/",
+        "https://www.ilgiornale.it/news/politica-estera/moglie-fratello-fino-zapatero-tutti-i-guai-giudiziari-che-2671022.html",
+        "https://www.ilgiornale.it/news/politica/terremoto-spagna-corruzione-e-complotto-nel-partito-2670786.html",
+        "https://www.repubblica.it/esteri/2026/05/28/news/sanchez_moglie_fratello_zapatero_processi_psoe_socialisti_spagna-425374442/"
       ]
     }
   ]
