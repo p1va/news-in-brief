@@ -1,12 +1,37 @@
 {
   "date": "2026-05-30",
-  "generated_at": "Sat 30 May 20:15",
+  "generated_at": "Sat 30 May 22:07",
   "stories": [
     {
       "rank": 1,
+      "title": "Cobolli batte Tien e vola agli ottavi del Roland Garros",
+      "source_count": 10,
+      "article_count": 17,
+      "source_domains": [
+        "ilgiornale.it",
+        "repubblica.it",
+        "ansa.it",
+        "adnkronos.com",
+        "laverita.info",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/tennis/anche-arnaldi-strepitoso-sconfigge-collignon-super-tie-break-2672170.html",
+        "https://www.repubblica.it/sport/dossier/roland-garros/2026/05/30/news/berrettini_cobolli_arnaldi_roland_garros-425380738/",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/05/30/berrettini-cobolli-arnaldi-laltra-italia-vince-al-roland-garros_b27a29d7-1607-4fab-ae3b-bcb446202217.html",
+        "https://www.adnkronos.com/sport/roland-garros-risultati-terzo-turno-oggi_2x1BY2sojEPJPyu19D3hH6",
+        "https://www.laverita.info/berrettini-cobolli-ottavi-roland-garros-2676976787.html"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Champions League, la finale: Psg-Arsenal 0-1 - Diretta",
       "source_count": 8,
-      "article_count": 19,
+      "article_count": 18,
       "source_domains": [
         "adnkronos.com",
         "ilmessaggero.it",
@@ -26,7 +51,31 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "Champions, la finale finisce ai rigori: il Psg batte l’Arsenal grazie all’errore di Gabriel",
+      "source_count": 9,
+      "article_count": 14,
+      "source_domains": [
+        "repubblica.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "laverita.info",
+        "ansa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/calcio/champions/2026/05/30/news/arsenal_sconfitto_psg_delusione_londra_nord-425380778/",
+        "https://www.fanpage.it/sport/calcio/ceferin-dimentica-marquinhos-alla-premiazione-interviene-dembele-gaffe-prima-di-alzare-la-champions/",
+        "https://www.ilgiornale.it/news/calcio/pagelle-psg-arsenal-i-migliori-e-i-peggiori-finale-champions-2672157.html",
+        "https://www.fanpage.it/sport/calcio/marquinhos-e-lunico-del-psg-che-non-esulta-per-la-champions-deve-correre-a-consolare-gabriel/",
+        "https://www.laverita.info/psg-arsenal-finale-champions-budapest-2676976784.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Cavalli dalle prove del 2 giugno in fuga sulla Colombo: imbizzarriti da fuochi, forse sparati da un vigile. Auto danneggiate e feriti",
       "source_count": 9,
       "article_count": 13,
@@ -50,7 +99,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "Bimba morta a Bordighera, arrestato il compagno della madre",
       "source_count": 8,
       "article_count": 13,
@@ -70,54 +119,6 @@
         "https://www.ilgiornale.it/news/cronaca-nera/bimba-morta-bordighera-svolta-choc-anche-compagno-madre-2671977.html",
         "https://www.fanpage.it/attualita/bimba-di-2-anni-morta-a-bordighera-arrestato-il-compagno-della-madre-e-accusato-di-maltratamenti/",
         "https://www.adnkronos.com/cronaca/bimba-morta-a-bordighera-svolta-nellinchiesta-arrestato-il-compagno-della-madre_5fyltk3j8dBrXKZplmuD79"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Cobolli batte Tien e vola agli ottavi del Roland Garros",
-      "source_count": 9,
-      "article_count": 12,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/tennis/cobolli-show-gli-parlano-del-titolo-del-roland-garros-e-si-scatena-sotto-il-tavolo-per-scaramanzia/",
-        "https://www.ilgiornale.it/news/tennis/splendido-cobolli-sconfigge-tien-tre-set-e-vola-agli-ottavi-2672107.html",
-        "https://www.fanpage.it/sport/tennis/cobolli-passeggia-al-roland-garros-ma-va-in-imbarazzo-per-la-champions-oggi-non-parlo-di-tennis/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/05/30/roland-garros-cobolli-agli-ottavi-battuto-tien-in-tre-set_b27a29d7-1607-4fab-ae3b-bcb446202217.html",
-        "https://www.adnkronos.com/sport/cobolli-roland-garros-2026-fischiato-finale-champions-psg-arsenal_54FvklzWVgB10xwPCNXtXS"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Ebola, in Italia obbligo di dichiarazione per chi proviene da Congo e Uganda",
-      "source_count": 9,
-      "article_count": 9,
-      "source_domains": [
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "laverita.info",
-        "repubblica.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.fanpage.it/politica/ebola-governo-meloni-lancia-controlli-su-chi-arriva-da-congo-e-uganda-i-cinque-livelli-di-rischio/",
-        "https://www.liberoquotidiano.it/news/tv-news/47954550/ebola-capo-dell-oms-arrivato-nell-epicentro-rdc-dell-epidemia/",
-        "https://www.ilgiornale.it/news/nazionale/ebola-negativo-test-sull-italiana-allarme-meloni-2671988.html",
-        "https://www.ilmessaggero.it/salute/medicina/ebola_obbligo_dichiarazione_per_chi-9563877.html",
-        "https://www.laverita.info/ebola-meloni-ue-controlli-frontiere-2676975367.html"
       ]
     },
     {
@@ -168,51 +169,6 @@
     },
     {
       "rank": 8,
-      "title": "Champions, la finale finisce ai rigori: il Psg batte l’Arsenal grazie all’errore di Gabriel",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "laverita.info",
-        "repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/calcio/pagelle-psg-arsenal-i-migliori-e-i-peggiori-finale-champions-2672157.html",
-        "https://www.fanpage.it/sport/calcio/marquinhos-e-lunico-del-psg-che-non-esulta-per-la-champions-deve-correre-a-consolare-gabriel/",
-        "https://www.laverita.info/psg-arsenal-finale-champions-budapest-2676976784.html",
-        "https://www.repubblica.it/sport/calcio/champions/2026/05/30/news/pagelle_psg_arsenal-425380606/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/05/30/champions-leagueil-psg-fa-il-bis-battuto-larsenal-ai-rigori_28370691-f854-4b24-b500-6b9f1381b5da.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Berrettini vince dopo oltre 5 ore e torna agli ottavi del Roland Garros. I matchpoint salvati e il super tie-break: l'impresa di Matteo",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "laverita.info",
-        "ilgiornale.it",
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.laverita.info/berrettini-cobolli-ottavi-roland-garros-2676976787.html",
-        "https://www.ilgiornale.it/news/tennis/berrettini-straordinario-comesana-sconfitto-super-tie-break-2672147.html",
-        "https://www.fanpage.it/sport/tennis/matteo-berrettini-agli-ottavi-del-roland-garros-senza-aspettarselo-non-so-cosa-mi-passi-per-la-testa/",
-        "https://www.liberoquotidiano.it/news/sport/47957031/roland-garros-matteo-berrettini-batte-comesana-dopo-oltre-5-ore-vola-ottavi-finale/",
-        "https://www.ilfattoquotidiano.it/2026/05/30/berrettini-roland-garros-ottavi-analisi-commento-non-me-laspettavo-ce-tanto-lavoro-dietro/8404224/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Femminicidio in casa a Ferrara: arrestato il marito",
       "source_count": 8,
       "article_count": 8,
@@ -232,6 +188,49 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/30/donna-morta-in-casa-a-ferrara-arrestato-il-marito.-colpita-con-diverse-coltellate_779183cd-e948-4c92-b690-ef0e6f237b41.html",
         "https://www.ilfattoquotidiano.it/2026/05/30/femminicidio-ferrara-moglie-coltellate-notizie/8404000/",
         "https://www.fanpage.it/attualita/donna-trovata-morta-in-casa-a-ferrara-arrestato-il-marito-prima-lha-uccisa-poi-ha-chiamato-i-soccorsi/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Tragedia Maldive, folla in chiesa per i funerali di Monica Montefalcone e Giorgia Sommacal",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "genova.repubblica.it",
+        "lastampa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/30/maldive-gli-studenti-e-il-mare-laddio-di-genova-a-monica-montefalcone-e-alla-figlia_6ed58eae-4428-484c-8503-c5fab26ebd1d.html",
+        "https://www.ilfattoquotidiano.it/2026/05/30/sub-morti-maldive-funerali-genova-notizie/8403938/",
+        "https://www.fanpage.it/attualita/sub-morti-alle-maldive-a-genova-i-funerali-di-montefalcone-e-della-figlia-monica-era-la-nostra-guida/",
+        "https://www.ilgiornale.it/news/cronaca-nera/laddio-monica-montefalcone-e-giorgia-sommacal-strazio-ai-2672063.html",
+        "https://genova.repubblica.it/cronaca/2026/05/30/diretta/tragedia_maldive_folla_in_chiesa_per_i_funerali_di_monica_montefalcone_e_giorgia_sommacal-425379839/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Drone in Romania, incidente annunciato e la Nato sceglie la prudenza: “Rafforzare le difese aeree”",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "laverita.info",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/30/drone-russo-romania-galati-notizie/8403974/",
+        "https://www.ilgiornale.it/news/politica/drone-russo-colpisce-romania-accuse-ue-putin-prova-smentire-2671866.html",
+        "https://www.lastampa.it/esteri/2026/05/30/news/droni_russi_in_romania_mosca_minaccia_l_europa_medvedev_non_dormirete_sonni_tranquilli-15641605/",
+        "https://www.laverita.info/ucraina-ue-drone-nato-russia-2676973617.html",
+        "https://www.repubblica.it/esteri/2026/05/30/news/drone_romania_incidente_annunciato_nato_sceglie_prudenza_rafforzare_difese_aeree-425379145/"
       ]
     }
   ]
