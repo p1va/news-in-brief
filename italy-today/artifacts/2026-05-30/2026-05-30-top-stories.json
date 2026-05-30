@@ -1,6 +1,6 @@
 {
   "date": "2026-05-30",
-  "generated_at": "Sat 30 May 10:53",
+  "generated_at": "Sat 30 May 12:09",
   "stories": [
     {
       "rank": 1,
@@ -28,40 +28,18 @@
     },
     {
       "rank": 2,
-      "title": "Morto il sociologo e filosofo Edgar Morin, aveva 104 anni",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/cultura/e-morto-edgar-morin-il-filosofo-antropologo-e-gigante-della-cultura-contemporanea-aveva-104-anni/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/30/morto-il-sociologo-e-filosofo-edgar-morin-aveva-104-anni_1ea9b380-e14b-4c25-a5f7-6a6bd0b3d0e4.html",
-        "https://www.ilgiornale.it/news/personaggi/morto-filosofo-egard-morin-aveva-104-anni-2671971.html",
-        "https://www.ilfattoquotidiano.it/2026/05/30/e-morto-edgar-morin-il-filosofo-del-pensiero-complesso-nato-senza-vita-inizio-a-respirare-dopo-una-buona-mezzora-di-schiaffi/8403822/",
-        "https://www.ilmessaggero.it/persone/edgar_morin_morto_chi_e_pensiero_complesso-9563804.html"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Bimba di 2 anni morta a Bordighera, arrestato il compagno della madre: è accusato di maltrattamenti",
-      "source_count": 7,
-      "article_count": 8,
+      "source_count": 8,
+      "article_count": 12,
       "source_domains": [
         "ansa.it",
         "ilgiornale.it",
         "fanpage.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "lastampa.it",
+        "genova.repubblica.it",
+        "ilmessaggero.it"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/cronaca/2026/05/30/bimba-morta-a-bordighera-arrestato-il-compagno-della-madre_1acc2ec3-4f74-4c13-bf8a-d72a00cf19cd.html",
@@ -72,11 +50,36 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "Morto il sociologo e filosofo Edgar Morin, aveva 104 anni",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "fanpage.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/cultura/e-morto-edgar-morin-il-filosofo-antropologo-e-gigante-della-cultura-contemporanea-aveva-104-anni/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/30/morto-il-sociologo-e-filosofo-edgar-morin-aveva-104-anni_1ea9b380-e14b-4c25-a5f7-6a6bd0b3d0e4.html",
+        "https://www.ilgiornale.it/news/personaggi/morto-filosofo-egard-morin-aveva-104-anni-2671971.html",
+        "https://www.ilfattoquotidiano.it/2026/05/30/e-morto-edgar-morin-il-filosofo-del-pensiero-complesso-nato-senza-vita-inizio-a-respirare-dopo-una-buona-mezzora-di-schiaffi/8403822/",
+        "https://www.ilmessaggero.it/persone/edgar_morin_morto_chi_e_pensiero_complesso-9563804.html"
+      ]
+    },
+    {
       "rank": 4,
       "title": "Ebola, in Italia obbligo di dichiarazione per chi proviene da Congo e Uganda",
-      "source_count": 7,
-      "article_count": 7,
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
+        "fanpage.it",
         "ilgiornale.it",
         "ilmessaggero.it",
         "laverita.info",
@@ -86,15 +89,56 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.fanpage.it/politica/ebola-governo-meloni-lancia-controlli-su-chi-arriva-da-congo-e-uganda-i-cinque-livelli-di-rischio/",
         "https://www.ilgiornale.it/news/nazionale/ebola-negativo-test-sull-italiana-allarme-meloni-2671988.html",
         "https://www.ilmessaggero.it/salute/medicina/ebola_obbligo_dichiarazione_per_chi-9563877.html",
         "https://www.laverita.info/ebola-meloni-ue-controlli-frontiere-2676975367.html",
-        "https://www.repubblica.it/cronaca/2026/05/30/news/ebola_regole_italia_dichiarazione_viaggi_voli-425379623/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/30/ebola-in-italia-obbligo-dichiarazione-per-chi-proviene-da-congo-e-uganda_80bfa904-242c-4c46-b4c4-a44ad49a41d9.html"
+        "https://www.repubblica.it/cronaca/2026/05/30/news/ebola_regole_italia_dichiarazione_viaggi_voli-425379623/"
       ]
     },
     {
       "rank": 5,
+      "title": "Psg-Arsenal, perché è cambiato l'orario della finale di Champions League",
+      "source_count": 5,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/calcio/arsenal-psg-finale-champions-due-macchine-quasi-perfette-2672067.html",
+        "https://www.fanpage.it/sport/calcio/dove-si-gioca-psg-arsenal-in-finale-di-champions-lo-stadio-che-ospito-roma-siviglia-di-europa-league/",
+        "https://www.fanpage.it/sport/live/psg-arsenal-la-finale-di-champions-league-in-diretta-solo-su-sky-e-non-su-tv8-partita-storica-le-formazioni-ufficiali/",
+        "https://www.repubblica.it/sport/calcio/coppe/2026/05/30/news/finale_champions_orario_18_ecco_perche-425379834/",
+        "https://www.fanpage.it/sport/calcio/psg-arsenal-cosa-succede-in-caso-di-pareggio-il-regolamento-su-supplementari-e-rigori-chi-vince/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Trapani, 11enne prova ad accoltellare un prof in diretta social. La sera prima il post su Tik Tok: \"Non incolpatemi\"",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-locale/non-datemi-colpa-che-far-cosa-scriveva-l-11enne-provare-ad-2672075.html",
+        "https://www.ilgiornale.it/news/politica/cerca-accoltellare-prof-4-undicenne-si-riprende-diretta-2671890.html",
+        "https://www.fanpage.it/attualita/cerca-di-accoltellare-il-prof-a-san-vito-lo-capo-sul-casco-dell11enne-scritte-sulle-stragi-negli-usa/",
+        "https://www.adnkronos.com/cronaca/san-vito-lo-capo-11enne-tentato-accoltellamento-prof-news_1HwVBG9v4YGjdUwAgzYItC",
+        "https://www.ilmessaggero.it/persone/undicenne_accoltella_prof_trapani_post_tiktok_commenti-9563811.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "A Roma i cavalli per la parata del 2 giugno scappano e galoppano tra le auto sulla Colombo: il video",
       "source_count": 7,
       "article_count": 7,
@@ -116,28 +160,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Trapani, 11enne prova ad accoltellare un prof in diretta social. La sera prima il post su Tik Tok: \"Non incolpatemi\"",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/cerca-accoltellare-prof-4-undicenne-si-riprende-diretta-2671890.html",
-        "https://www.fanpage.it/attualita/cerca-di-accoltellare-il-prof-a-san-vito-lo-capo-sul-casco-dell11enne-scritte-sulle-stragi-negli-usa/",
-        "https://www.adnkronos.com/cronaca/san-vito-lo-capo-11enne-tentato-accoltellamento-prof-news_1HwVBG9v4YGjdUwAgzYItC",
-        "https://www.ilmessaggero.it/persone/undicenne_accoltella_prof_trapani_post_tiktok_commenti-9563811.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/29/undiicenne-tenta-di-accoltellare-il-prof-a-scuola-in-diretta-social_d2032ec9-a723-49ee-a03c-99ec3759bd12.html"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "title": "Iran, Casa Bianca: “Trump accetterà accordo solo se Teheran rispetterà linee rosse”. Media: “Missile iraniano contro base in Kuwait, 5 feriti”",
       "source_count": 6,
       "article_count": 6,
@@ -158,7 +181,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Aggredisce la moglie con ferocia durante una lite: donna in fin di vita a Catania",
       "source_count": 6,
       "article_count": 6,
@@ -179,42 +202,22 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Psg-Arsenal, perché è cambiato l'orario della finale di Champions League",
+      "rank": 10,
+      "title": "Roland Garros in diretta: Cobolli sfida Tien, oggi in campo anche Arnaldi e Berrettini",
       "source_count": 4,
       "article_count": 7,
       "source_domains": [
-        "repubblica.it",
-        "fanpage.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "liberoquotidiano.it"
+        "adnkronos.com",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.repubblica.it/sport/calcio/coppe/2026/05/30/news/finale_champions_orario_18_ecco_perche-425379834/",
-        "https://www.fanpage.it/sport/calcio/psg-arsenal-cosa-succede-in-caso-di-pareggio-il-regolamento-su-supplementari-e-rigori-chi-vince/",
-        "https://www.ilmessaggero.it/sport/schede/psg_arsenal_orario_cambiato_perche-9563825.html",
-        "https://www.ilmessaggero.it/sport/schede/psg_arsenal_dove_vederla_gratis_finale_champions_orario_formazioni-9563808.html",
-        "https://www.liberoquotidiano.it/news/tv-news/47951143/champions-league-a-budapest-si-gioca-la-finale-tra-il-psg-e-l-arsenal/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "L'azienda che sta costruendo il consolato statunitense a Milano è stata messa sotto controllo giudiziario con l'accusa di caporalato",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilmanifesto.it",
-        "unita.it",
-        "ilgiornale.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://ilmanifesto.it/milano-schiavi-nel-cantiere-del-consolato-usa",
-        "https://www.unita.it/2026/05/29/schiavi-indiani-cantiere-consolato-usa-milano-controllo-giudiziario-caddell/",
-        "https://www.ilgiornale.it/news/cronaca-locale/lavoratori-sfruttati-realzzare-consolato-usa-caddell-2671710.html",
-        "https://www.ilsole24ore.com/art/controllo-giudiziario-l-azienda-americana-che-costruisce-consolato-usa-AI1CUmLD",
-        "https://news.google.com/rss/articles/CBMilwFBVV95cUxORHM5dnpPZWZ1X0VXWGZWMjMyeUlzTG1PWXA4b0J1ck9hSTI1eUZvMDZSMFhSRTBNVlBhT3o1ZmlJR3h5SnJRbzh4Z0c5Z2VYY2t1Qk00TXV4V3RCVW5TQmFjSktPNmx5ZFNTc0s2amlmek9ZYVRRMWJJXzdzQU9ud1pldUZFMFVEeHlDZDFoLTRYbHBIZTRv?oc=5"
+        "https://www.ilfattoquotidiano.it/2026/05/30/roland-garros-risultati-terzo-turno-italiani-cobolli-berrettini-arnaldi/8403957/",
+        "https://www.ilmessaggero.it/sport/tennis/cobolli_roland_garros_tien_ottavi_perche_puo_vincere-9564044.html",
+        "https://www.adnkronos.com/sport/zverev-roland-garros-2026-sinner-favorito-parigi_1NDNlMX1A4WiTaZRjiK5xa",
+        "https://www.repubblica.it/sport/dossier/roland-garros/2026/05/30/diretta/roland_garros_risultati_oggi_arnaldi_berrettini_cobolli-425379704/",
+        "https://www.adnkronos.com/sport/diretta-berrettini-comesana-oggi-roland-garros-2026-risultato-live_6FkZ4T3mTy7cJ2GAsZCMKE"
       ]
     }
   ]
