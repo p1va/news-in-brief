@@ -1,6 +1,6 @@
 {
   "date": "2026-05-31",
-  "generated_at": "Sun 31 May 19:40",
+  "generated_at": "Sun 31 May 21:09",
   "stories": [
     {
       "rank": 1,
@@ -107,29 +107,6 @@
     },
     {
       "rank": 5,
-      "title": "Bimba morta a Bordighera, le sorelline: “Nessuno ha chiamato i soccorsi, era avvolta in una coperta rossa”",
-      "source_count": 8,
-      "article_count": 12,
-      "source_domains": [
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "genova.repubblica.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/attualita/bimba-morta-a-bordighera-le-sorelline-nessuno-ha-chiamato-i-soccorsi-era-avvolta-in-una-coperta-rossa/",
-        "https://www.liberoquotidiano.it/news/italia/47966908/bordighera-racconto-sconvolgente-sorella-beatrice-sputava-carne/",
-        "https://www.ilgiornale.it/news/cronaca-nera/bordighera-racconto-choc-sorellina-beatrice-aveva-corpo-2672385.html",
-        "https://www.ilmessaggero.it/italia/bimba_morta_bordighera_mamma_violenza_picchiava_accusa-9565797.html",
-        "https://www.ilfattoquotidiano.it/2026/05/31/morte-beatrice-bordighera-sorellina-testimonianza-notizie/8404666/"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "MotoGp, doppietta Aprilia al Mugello: vince Bezzecchi davanti a Martin. Bagnaia terzo",
       "source_count": 8,
       "article_count": 12,
@@ -152,7 +129,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Operai sfruttati per il nuovo consolato Usa a Milano: manager di Caddell fermato a Bergamo",
       "source_count": 10,
       "article_count": 10,
@@ -177,18 +154,39 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Cavalli della parata in fuga, colpa dei fuochi d’artificio: quattro feriti, panico tra le auto",
+      "rank": 7,
+      "title": "Bimba morta a Bordighera, le sorelline: “Nessuno ha chiamato i soccorsi, era avvolta in una coperta rossa”",
       "source_count": 7,
       "article_count": 11,
+      "source_domains": [
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "genova.repubblica.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/attualita/bimba-morta-a-bordighera-le-sorelline-nessuno-ha-chiamato-i-soccorsi-era-avvolta-in-una-coperta-rossa/",
+        "https://www.liberoquotidiano.it/news/italia/47966908/bordighera-racconto-sconvolgente-sorella-beatrice-sputava-carne/",
+        "https://www.ilgiornale.it/news/cronaca-nera/bordighera-racconto-choc-sorellina-beatrice-aveva-corpo-2672385.html",
+        "https://www.ilmessaggero.it/italia/bimba_morta_bordighera_mamma_violenza_picchiava_accusa-9565797.html",
+        "https://www.ilfattoquotidiano.it/2026/05/31/morte-beatrice-bordighera-sorellina-testimonianza-notizie/8404666/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Cavalli della parata in fuga, colpa dei fuochi d’artificio: quattro feriti, panico tra le auto",
+      "source_count": 6,
+      "article_count": 10,
       "source_domains": [
         "adnkronos.com",
         "ansa.it",
         "ilgiornale.it",
         "fanpage.it",
         "roma.repubblica.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it"
+        "ilmanifesto.it"
       ],
       "links": [
         "https://www.adnkronos.com/cronaca/cavalli-roma-fuga-vigili-urbani_45Vumj1DpviDHh0EjIQeY5",
@@ -200,28 +198,6 @@
     },
     {
       "rank": 9,
-      "title": "Roland Garros, Arnaldi esulta per Berrettini e Cobolli: \"Ha vinto anche Matteo?\"",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/arnaldi-berrettini-cobolli-roland-garros-2026-ottavi_1VVIJ7EdMfdoyTFAR2WdQM",
-        "https://www.ilfattoquotidiano.it/2026/05/31/roland-garros-cobolli-berrettini-arnaldi-italiani-programma-orari-lunedi-ottavi-finale/8404653/",
-        "https://www.repubblica.it/sport/dossier/roland-garros/2026/05/31/news/berrettini_arnaldi_cobolli_ottavi_roland_garros-425381441/",
-        "https://www.ilmessaggero.it/sport/schede/berrettini_cobolli_arnaldi_ottavi_tabellone_roland_garros_avversari_dove_vedere_tv_streaming_orari-9565618.html",
-        "https://www.fanpage.it/sport/tennis/il-tabellone-del-roland-garros-e-sempre-piu-aperto-berrettini-cobolli-e-arnaldi-puntano-alla-finale/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Vingegaard nella storia: conquista il Giro e completa la Tripla Corona",
       "source_count": 6,
       "article_count": 10,
@@ -239,6 +215,27 @@
         "https://www.fanpage.it/sport/ciclismo/vingegaard-vince-il-giro-ditalia-2026-milan-salva-lorgoglio-italiano-nellultima-tappa-a-roma/",
         "https://www.repubblica.it/sport/dossier/ciclismo-giro-italia/2026/05/31/news/giro_d_italia_milan_vince_tappa_roma_vingegaard_vince_giro-425381727/",
         "https://www.ilfattoquotidiano.it/2026/05/31/vingegaard-tripla-corona-giro-ditalia-dualismo-pogacar/8404771/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Roland Garros, Arnaldi esulta per Berrettini e Cobolli: \"Ha vinto anche Matteo?\"",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/arnaldi-berrettini-cobolli-roland-garros-2026-ottavi_1VVIJ7EdMfdoyTFAR2WdQM",
+        "https://www.ilfattoquotidiano.it/2026/05/31/roland-garros-cobolli-berrettini-arnaldi-italiani-programma-orari-lunedi-ottavi-finale/8404653/",
+        "https://www.repubblica.it/sport/dossier/roland-garros/2026/05/31/news/berrettini_arnaldi_cobolli_ottavi_roland_garros-425381441/",
+        "https://www.ilmessaggero.it/sport/schede/berrettini_cobolli_arnaldi_ottavi_tabellone_roland_garros_avversari_dove_vedere_tv_streaming_orari-9565618.html",
+        "https://www.fanpage.it/sport/tennis/il-tabellone-del-roland-garros-e-sempre-piu-aperto-berrettini-cobolli-e-arnaldi-puntano-alla-finale/"
       ]
     }
   ]
