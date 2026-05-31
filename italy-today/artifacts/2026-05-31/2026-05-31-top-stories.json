@@ -1,35 +1,130 @@
 {
   "date": "2026-05-31",
-  "generated_at": "Sun 31 May 08:57",
+  "generated_at": "Sun 31 May 11:06",
   "stories": [
     {
       "rank": 1,
-      "title": "Cavalli della parata in fuga, colpa dei fuochi d’artificio: quattro feriti, panico tra le auto",
-      "source_count": 9,
+      "title": "Bottiglie incendiarie contro abitazione di un cronista nel Vicentino",
+      "source_count": 11,
       "article_count": 11,
       "source_domains": [
+        "governo.it",
+        "fanpage.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.governo.it/it/articolo/attentato-incendiario-ad-adriano-cappellari-dichiarazione-del-presidente-meloni/31958",
+        "https://www.fanpage.it/attualita/vicenza-bombe-molotov-contro-la-casa-del-giornalista-anti-camorra-adriano-cappellari/",
+        "https://www.repubblica.it/cronaca/2026/05/31/news/adriano_cappellari_attentato_vicenza_don_patriciello_caivano-425381368/",
+        "https://www.adnkronos.com/cronaca/adriano-cappellari-esplosione-casa-giornalista-enego_6ATn2Lc7GgKKh3FMDPdkbz",
+        "https://www.lastampa.it/cronaca/2026/05/31/news/vicenza_attentato_al_cronista_di_enego_in_una_lettera_minacce_a_meloni_e_don_patricello-15642782/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Cavalli della parata in fuga, colpa dei fuochi d’artificio: quattro feriti, panico tra le auto",
+      "source_count": 9,
+      "article_count": 12,
+      "source_domains": [
+        "ilgiornale.it",
         "fanpage.it",
         "roma.repubblica.it",
         "ilmanifesto.it",
         "ilmessaggero.it",
         "ansa.it",
-        "ilgiornale.it",
         "lastampa.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/petardi-prove-parata-30-cavalli-fuga-nella-capitale-agenti-2672190.html",
         "https://www.fanpage.it/kodami/la-fuga-dei-cavalli-della-polizia-a-roma-a-causa-dei-fuochi-dartificio-quando-le-campagne-di-sensibilizzazione-non-servono-nemmeno-alle-forze-dellordine/",
         "https://www.fanpage.it/roma/cavalli-della-parata-imbizzarriti-per-strada-sulla-colombo-a-roma-4-feriti-e-un-agente-a-rischio/",
         "https://roma.repubblica.it/cronaca/2026/05/31/news/cavalli_in_fuga_roma_militari_2_giugno_comandante_vigili-425380669/",
-        "https://roma.repubblica.it/cronaca/2026/05/31/news/cavalli_parata_2_giugno_colombo_incidente_auto_cid_assicurazione_sabrina_sgarra-425380665/",
-        "https://ilmanifesto.it/cavalli-disertori-e-feriti-gravi-notte-di-caos-e-vigili-sospettati"
+        "https://roma.repubblica.it/cronaca/2026/05/31/news/cavalli_parata_2_giugno_colombo_incidente_auto_cid_assicurazione_sabrina_sgarra-425380665/"
       ]
     },
     {
-      "rank": 2,
-      "title": "Tre italiani agli ottavi al Roland Garros, impresa Berrettini e Arnaldi. Cobolli domina",
+      "rank": 3,
+      "title": "Trionfo del Psg, vince la seconda Champions di fila. Arsenal ko ai rigori",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it",
+        "laverita.info",
+        "ilmessaggero.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/calcio/larsenal-travolta-come-linter-il-psg-domina-in-ogni-dato-i-numeri-impietosi-delle-due-finali/",
+        "https://www.fanpage.it/sport/calcio/il-chelsea-punge-larsenal-dopo-la-finale-persa-la-casa-dei-trofei-di-londra-con-la-foto-della-champions/",
+        "https://www.ilgiornale.it/news/sport/psg-sul-trono-deuropa-2672207.html",
+        "https://www.repubblica.it/sport/calcio/champions/2026/05/30/news/arsenal_sconfitto_psg_delusione_londra_nord-425380778/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/05/30/champions-leagueil-psg-fa-il-bis-battuto-larsenal-ai-rigori_28370691-f854-4b24-b500-6b9f1381b5da.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Foggia, in fuga dai carabinieri si schiantano in auto: muore un 17enne, a bordo tutti minorenni",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "bari.repubblica.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/31/fuggono-ad-un-posto-di-blocco-e-si-schiantano-muore-un-16enne_56f42653-9c15-4a4c-9e25-aaf8ca7ea523.html",
+        "https://www.ilgiornale.it/news/cronaca-nera/minorenne-guida-fugge-posto-blocco-muore-17enne-altri-2672318.html",
+        "https://www.ilfattoquotidiano.it/2026/05/31/incidente-orta-nova-minorenne-posto-blocco-notizie/8404594/",
+        "https://www.ilmessaggero.it/italia/incidente_foggia_minorenni_morto_feriti_chi_e_cosa_e_successo-9565674.html",
+        "https://www.fanpage.it/attualita/foggia-auto-si-schianta-e-capovolge-per-evitare-controllo-dei-carabinieri-17enne-morto-e-4-feriti-a-orta-nova/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Parigi, la festa per la Champions diventa una guerriglia",
       "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/31/guerriglia-a-parigi-per-la-festa-della-champions-un-morto-e-un-ferito_3730c911-8e45-4952-bc19-3f9feee92857.html",
+        "https://www.ilfattoquotidiano.it/2026/05/31/scontri-parigi-psg-champions-league-morti-feriti/8404614/",
+        "https://www.ilmessaggero.it/mondo/psg_champions_scontri_parigi_morto_feriti_cosa_e_successo-9565690.html",
+        "https://www.fanpage.it/esteri/guerriglia-a-parigi-dopo-la-vittoria-del-psg-in-champions-league-scontri-auto-bruciate-e-400-arresti/",
+        "https://www.ilfattoquotidiano.it/2026/05/31/scontri-psg-champions-league-parigi-notizie/8404543/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Impresa di Berrettini, vince la partita infinita",
+      "source_count": 6,
       "article_count": 9,
       "source_domains": [
         "ilmessaggero.it",
@@ -37,8 +132,7 @@
         "ilgiornale.it",
         "repubblica.it",
         "liberoquotidiano.it",
-        "laverita.info",
-        "lastampa.it"
+        "laverita.info"
       ],
       "links": [
         "https://www.ilmessaggero.it/sport/schede/berrettini_cobolli_arnaldi_ottavi_tabellone_roland_garros_avversari_dove_vedere_tv_streaming_orari-9565618.html",
@@ -49,53 +143,33 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Trionfo del Psg, vince la seconda Champions di fila. Arsenal ko ai rigori",
-      "source_count": 7,
-      "article_count": 9,
+      "rank": 7,
+      "title": "Beatrice uccisa a due anni, i soprusi e le botte nella casa dell’orrore",
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
         "ilgiornale.it",
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it",
-        "laverita.info",
+        "genova.repubblica.it",
+        "fanpage.it",
         "ilmessaggero.it",
-        "liberoquotidiano.it"
+        "ansa.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/sport/psg-sul-trono-deuropa-2672207.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/05/30/champions-leagueil-psg-fa-il-bis-battuto-larsenal-ai-rigori_28370691-f854-4b24-b500-6b9f1381b5da.html",
-        "https://www.lastampa.it/sport/2026/05/31/news/champions_psg_trionfo_luis_enrique-15642555/",
-        "https://www.repubblica.it/sport/calcio/champions/2026/05/30/news/psg_arsenal_gol_finale_champions-425380653/",
-        "https://www.ilgiornale.it/news/calcio/pagelle-psg-arsenal-i-migliori-e-i-peggiori-finale-champions-2672157.html"
+        "https://www.ilgiornale.it/news/politica/beatrice-morta-2-anni-sigarette-botte-e-torture-coraggio-2672188.html",
+        "https://genova.repubblica.it/cronaca/2026/05/31/news/era_viola_ma_non_hanno_chiamato_l_ambulanza_il_drammatico_racconto_della_sorella_di_beatrice-425381348/",
+        "https://www.fanpage.it/attualita/beatrice-morta-a-2-anni-a-bordighera-madre-e-compagno-incastrati-dalle-sorelline-violenze-brutali-e-continue/",
+        "https://www.ilmessaggero.it/persone/beatrice_bambina_morta_bordighera_sorella_madre_manuel_iannuzzi-9565650.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/31/bimba-morta-sorellina-ha-raccontato-a-investigatori-lagonia-di-beatrice_0fee68dc-2663-443e-8421-bbf0966e362c.html"
       ]
     },
     {
-      "rank": 4,
-      "title": "Beatrice uccisa a due anni, i soprusi e le botte nella casa dell’orrore",
-      "source_count": 5,
+      "rank": 8,
+      "title": "Morta Zeudi Araya, sex symbol degli anni 70: la fama con \"La ragazza dalla pelle di luna”, fu attrice e produttrice",
+      "source_count": 6,
       "article_count": 6,
       "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "genova.repubblica.it",
-        "lastampa.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/persone/beatrice_bambina_morta_bordighera_sorella_madre_manuel_iannuzzi-9565650.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/31/bimba-morta-sorellina-ha-raccontato-a-investigatori-lagonia-di-beatrice_0fee68dc-2663-443e-8421-bbf0966e362c.html",
-        "https://genova.repubblica.it/cronaca/2026/05/31/news/bimba_morta_bordighera_beatrice_aiello_indagine_carte_cellulare_immagini_sigaretta-425380771/",
-        "https://www.lastampa.it/imperia-sanremo/2026/05/31/news/beatrice_uccisa_a_due_anni_a_bordighera_i_soprusi_e_le_botte_nella_casa_dell_orrore-15642434/",
-        "https://www.lastampa.it/cronaca/2026/05/31/news/beatrice_e_l_inferno_che_si_nasconde_in_famiglia-15642424/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Morta Zeudi Araya, sex symbol degli anni 70: la fama con \"La ragazza dalla pelle di luna”, fu attrice e produttrice",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
+        "fanpage.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
         "ansa.it",
@@ -103,15 +177,15 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.fanpage.it/spettacolo/personaggi/e-morta-zeudi-araya-icona-del-cinema-erotico-la-ragazza-dalla-pelle-di-luna-aveva-75-anni/",
         "https://www.ilfattoquotidiano.it/2026/05/31/e-morta-zeudi-araya-addio-alla-ragazza-dalla-pelle-di-luna-icona-del-cinema-sexy-e-storica-produttrice-stroncata-da-una-lunga-malattia-a-75-anni/8404528/",
         "https://www.ilgiornale.it/news/morta-zeudi-araya-diva-dei-film-erotici-anni-70-2672203.html",
         "https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/30/morta-zeudi-araya-attrice-e-produttrice-dopo-una-lunga-malattia_3efd08bb-c674-4c84-ae45-2325ea24177e.html",
-        "https://www.ilmessaggero.it/persone/zeudi_araya_chi_era_morta_oggi-9564336.html",
-        "https://www.ilsole24ore.com/art/morta-zeudy-araya-attrice-e-produttrice-una-lunga-malattia-AIYE08ND"
+        "https://www.ilmessaggero.it/persone/zeudi_araya_chi_era_morta_oggi-9564336.html"
       ]
     },
     {
-      "rank": 6,
+      "rank": 9,
       "title": "Borse di lusso e viaggi coi fondi per migranti: al consorzio Maleventum contestato danno erariale da 1,3 milioni",
       "source_count": 5,
       "article_count": 5,
@@ -131,73 +205,21 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Guerra in Iran, le news di oggi. Nyt: Trump chiede modifiche alla proposta di accordo con Teheran",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/05/31/diretta/guerra_iran_usa_israele_news_oggi-425380787/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/31/medio-oriente-trump-negoziati-con-liran-lenti-non-avranno-larma_9148523f-8997-4d47-9fe2-002355da1645.html",
-        "https://www.lastampa.it/esteri/2026/05/31/diretta/guerra_iran_usa_israele_news_oggi-15642589/",
-        "https://www.ilgiornale.it/news/politica-estera/ore-cruciali-trump-hormuz-liberato-subito-distruggeremo-l-2671980.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Parigi, la festa per la Champions diventa una guerriglia",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/05/31/scontri-psg-champions-league-parigi-notizie/8404543/",
-        "https://www.adnkronos.com/internazionale/esteri/psg-champions-festa-scontri-francia-arresti-parigi_6IKtLhxo6hD6mdXXnqnvnL",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/parigi-vittoria-champions-festa-si-trasforma-nel-caos-2672243.html",
-        "https://www.lastampa.it/sport/2026/05/30/news/scontri_tra_tifosi_psg_e_polizia_13_arresti_a_parigi-15642449/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Bottiglie incendiarie contro abitazione di un cronista nel Vicentino",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/31/bottiglie-incendiarie-contro-abitazione-di-un-cronista-nel-vicentino_0f5b3a0c-c335-40fb-bc4c-70aafa3a88e2.html",
-        "https://www.ilfattoquotidiano.it/2026/05/31/bottiglie-molotov-contro-la-casa-del-giornalista-adriano-cappellari-esplosione-nella-notte-a-enego-indagini-in-corso/8404540/",
-        "https://www.ilgiornale.it/news/cronaca-nera/bottiglie-incendiarie-contro-labitazione-cronista-adriano-2672274.html",
-        "https://www.ilmessaggero.it/persone/adriano_cappellari_giornalista_enego_eta_chi_e_attentato-9565563.html"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Trasferimenti di petrolio nave-nave: ecco perché l'Iran continua a resistere",
-      "source_count": 3,
-      "article_count": 3,
+      "title": "Leao: “Al Milan ho dato tutto, ora voglio una nuova sfida in un altro campionato”",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
-        "repubblica.it",
-        "lastampa.it",
-        "ilgiornale.it"
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.repubblica.it/esteri/2026/05/31/news/circolazione_stretto_hormuz_fari_spenti_navi_blocco_iran-425380430/",
-        "https://www.lastampa.it/esteri/2026/05/31/news/guerra_iran_nuove_rotte_petrolio_siria-15642414/",
-        "https://www.ilgiornale.it/news/politica-estera/trasferimenti-petrolio-nave-nave-ecco-perch-liran-continua-2672103.html"
+        "https://www.adnkronos.com/sport/leao-ai-saluti-al-milan-ho-dato-tutto-quello-che-potevo-desidero-una-nuova-sfida_4UboUMO7jvFXcu9wLPoWLH",
+        "https://www.ilfattoquotidiano.it/2026/05/31/leao-milan-futuro-addio-ho-dato-tutto-cio-che-avevo-intervista/8404554/",
+        "https://www.fanpage.it/sport/calcio/leao-saluta-il-milan-ho-dato-tutto-pronto-a-una-nuova-sfida-anche-rabiot-e-modric-verso-laddio/",
+        "https://www.repubblica.it/sport/calcio/serie-a/2026/05/31/news/leao_milan_calciomercato-425381209/"
       ]
     }
   ]
