@@ -1,6 +1,6 @@
 {
   "date": "2026-05-31",
-  "generated_at": "Sun 31 May 17:16",
+  "generated_at": "Sun 31 May 19:27",
   "stories": [
     {
       "rank": 1,
@@ -57,29 +57,79 @@
     },
     {
       "rank": 3,
-      "title": "Roland Garros, Arnaldi esulta per Berrettini e Cobolli: \"Ha vinto anche Matteo?\"",
-      "source_count": 8,
+      "title": "Ebola, caso sospetto a Cagliari. Paziente in ospedale con sintomi: rientrava dal Congo",
+      "source_count": 11,
       "article_count": 12,
       "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "repubblica.it",
         "ilmessaggero.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "laverita.info"
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
       ],
       "links": [
-        "https://www.adnkronos.com/sport/arnaldi-berrettini-cobolli-roland-garros-2026-ottavi_1VVIJ7EdMfdoyTFAR2WdQM",
-        "https://www.ilfattoquotidiano.it/2026/05/31/roland-garros-cobolli-berrettini-arnaldi-italiani-programma-orari-lunedi-ottavi-finale/8404653/",
-        "https://www.repubblica.it/sport/dossier/roland-garros/2026/05/31/news/berrettini_arnaldi_cobolli_ottavi_roland_garros-425381441/",
-        "https://www.ilmessaggero.it/sport/schede/berrettini_cobolli_arnaldi_ottavi_tabellone_roland_garros_avversari_dove_vedere_tv_streaming_orari-9565618.html",
-        "https://www.fanpage.it/sport/tennis/il-tabellone-del-roland-garros-e-sempre-piu-aperto-berrettini-cobolli-e-arnaldi-puntano-alla-finale/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/31/sospetto-caso-di-ebola-a-cagliari-uomo-in-ospedale-con-sintomi_1113502c-af08-404f-a628-50d12705ed14.html",
+        "https://www.fanpage.it/attualita/un-caso-sospetto-di-ebola-a-cagliari-il-paziente-e-isolato-in-ospedale-era-da-poco-tornato-dal-congo/",
+        "https://www.liberoquotidiano.it/news/italia/47967971/ebola-sospetto-caso-cagliari-sintomatico-strade-chiuse-ore/",
+        "https://www.ilgiornale.it/news/nazionale/cagliari-paura-sospetto-caso-ebola-sintomatico-2672423.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/31/allarme-per-un-sospetto-caso-di-ebola-a-cagliari-paziente-in-ospedale_1113502c-af08-404f-a628-50d12705ed14.html"
       ]
     },
     {
       "rank": 4,
+      "title": "Parigi in festa, Psg da Macron. Ma la Champions costa cara: un morto e un ferito grave, 780 fermi",
+      "source_count": 9,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/31/la-festa-per-la-vittoria-del-psg-in-champions-diventa-guerriglia-un-morto-e-300_3730c911-8e45-4952-bc19-3f9feee92857.html",
+        "https://www.lastampa.it/esteri/2026/05/31/video/champions_league_i_tifosi_bloccano_la_tangenziale_di_parigi_dopo_la_vittoria_del_psg-15642922/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/05/31/guerriglia-a-parigi-per-la-festa-della-champions-un-morto-e-un-ferito_3730c911-8e45-4952-bc19-3f9feee92857.html",
+        "https://www.ilfattoquotidiano.it/2026/05/31/scontri-parigi-psg-champions-league-morti-feriti/8404614/",
+        "https://www.liberoquotidiano.it/news/libero-video/47963630/parigi-inferno-vittoria-psg-champions-violenze-arresti/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Bimba morta a Bordighera, le sorelline: “Nessuno ha chiamato i soccorsi, era avvolta in una coperta rossa”",
+      "source_count": 8,
+      "article_count": 12,
+      "source_domains": [
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "genova.repubblica.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/attualita/bimba-morta-a-bordighera-le-sorelline-nessuno-ha-chiamato-i-soccorsi-era-avvolta-in-una-coperta-rossa/",
+        "https://www.liberoquotidiano.it/news/italia/47966908/bordighera-racconto-sconvolgente-sorella-beatrice-sputava-carne/",
+        "https://www.ilgiornale.it/news/cronaca-nera/bordighera-racconto-choc-sorellina-beatrice-aveva-corpo-2672385.html",
+        "https://www.ilmessaggero.it/italia/bimba_morta_bordighera_mamma_violenza_picchiava_accusa-9565797.html",
+        "https://www.ilfattoquotidiano.it/2026/05/31/morte-beatrice-bordighera-sorellina-testimonianza-notizie/8404666/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "MotoGp, doppietta Aprilia al Mugello: vince Bezzecchi davanti a Martin. Bagnaia terzo",
       "source_count": 8,
       "article_count": 12,
@@ -102,7 +152,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Operai sfruttati per il nuovo consolato Usa a Milano: manager di Caddell fermato a Bergamo",
       "source_count": 10,
       "article_count": 10,
@@ -127,117 +177,69 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Champions League, la finale finisce ai rigori: il Psg batte l’Arsenal grazie all’errore di Gabriel",
-      "source_count": 8,
-      "article_count": 11,
-      "source_domains": [
-        "fanpage.it",
-        "repubblica.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "laverita.info",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/calcio/larsenal-travolta-come-linter-il-psg-domina-in-ogni-dato-i-numeri-impietosi-delle-due-finali/",
-        "https://www.fanpage.it/sport/calcio/il-chelsea-punge-larsenal-dopo-la-finale-persa-la-casa-dei-trofei-di-londra-con-la-foto-della-champions/",
-        "https://www.repubblica.it/sport/calcio/champions/2026/05/30/news/arsenal_sconfitto_psg_delusione_londra_nord-425380778/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/05/30/champions-leagueil-psg-fa-il-bis-battuto-larsenal-ai-rigori_28370691-f854-4b24-b500-6b9f1381b5da.html",
-        "https://www.repubblica.it/sport/calcio/champions/2026/05/30/news/psg_arsenal_gol_finale_champions-425380653/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Parigi, la festa per la Champions diventa una guerriglia",
-      "source_count": 8,
-      "article_count": 11,
-      "source_domains": [
-        "lastampa.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/esteri/2026/05/31/video/champions_league_i_tifosi_bloccano_la_tangenziale_di_parigi_dopo_la_vittoria_del_psg-15642922/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/05/31/guerriglia-a-parigi-per-la-festa-della-champions-un-morto-e-un-ferito_3730c911-8e45-4952-bc19-3f9feee92857.html",
-        "https://www.ilfattoquotidiano.it/2026/05/31/scontri-parigi-psg-champions-league-morti-feriti/8404614/",
-        "https://www.liberoquotidiano.it/news/libero-video/47963630/parigi-inferno-vittoria-psg-champions-violenze-arresti/",
-        "https://www.ilmessaggero.it/mondo/psg_champions_scontri_parigi_morto_feriti_cosa_e_successo-9565690.html"
-      ]
-    },
-    {
       "rank": 8,
-      "title": "Beatrice uccisa a due anni, i soprusi e le botte nella casa dell’orrore",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "genova.repubblica.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/attualita/bimba-morta-a-bordighera-le-sorelline-nessuno-ha-chiamato-i-soccorsi-era-avvolta-in-una-coperta-rossa/",
-        "https://www.ilgiornale.it/news/cronaca-nera/bordighera-racconto-choc-sorellina-beatrice-aveva-corpo-2672385.html",
-        "https://www.ilmessaggero.it/italia/bimba_morta_bordighera_mamma_violenza_picchiava_accusa-9565797.html",
-        "https://www.ilfattoquotidiano.it/2026/05/31/morte-beatrice-bordighera-sorellina-testimonianza-notizie/8404666/",
-        "https://www.ilgiornale.it/news/politica/beatrice-morta-2-anni-sigarette-botte-e-torture-coraggio-2672188.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Ebola, caso sospetto a Cagliari. Paziente in ospedale con sintomi: rientrava dal Congo",
-      "source_count": 9,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/nazionale/cagliari-paura-sospetto-caso-ebola-sintomatico-2672423.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/31/allarme-per-un-sospetto-caso-di-ebola-a-cagliari-paziente-in-ospedale_1113502c-af08-404f-a628-50d12705ed14.html",
-        "https://www.adnkronos.com/cronaca/ebola-caso-cagliari-ultime-news-oggi_Z3L7zGRSJhsUEkrjF8dQ9",
-        "https://www.ilfattoquotidiano.it/2026/05/31/ebola-cagliari-sospetto-caso-notizie/8404812/",
-        "https://www.repubblica.it/cronaca/2026/05/31/news/sospetto_ebola_cagliari-425381658/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Cavalli della parata in fuga, colpa dei fuochi d’artificio: quattro feriti, panico tra le auto",
       "source_count": 7,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
         "ilgiornale.it",
         "fanpage.it",
         "roma.repubblica.it",
         "ilmanifesto.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilsole24ore.com"
+        "ilmessaggero.it"
       ],
       "links": [
+        "https://www.adnkronos.com/cronaca/cavalli-roma-fuga-vigili-urbani_45Vumj1DpviDHh0EjIQeY5",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/31/la-fuga-dei-cavalli-quattro-vigili-esclusi-dalla-parata-ai-fori-imperiali_f1f2632f-b593-44da-901b-2c1da2b5590c.html",
         "https://www.ilgiornale.it/news/nazionale/i-vigili-hanno-acceso-i-petardi-spunta-laudio-fuga-dei-2672396.html",
         "https://www.ilgiornale.it/news/politica/petardi-prove-parata-30-cavalli-fuga-nella-capitale-agenti-2672190.html",
-        "https://www.fanpage.it/kodami/la-fuga-dei-cavalli-della-polizia-a-roma-a-causa-dei-fuochi-dartificio-quando-le-campagne-di-sensibilizzazione-non-servono-nemmeno-alle-forze-dellordine/",
-        "https://www.fanpage.it/roma/cavalli-della-parata-imbizzarriti-per-strada-sulla-colombo-a-roma-4-feriti-e-un-agente-a-rischio/",
-        "https://roma.repubblica.it/cronaca/2026/05/31/news/cavalli_in_fuga_roma_militari_2_giugno_comandante_vigili-425380669/"
+        "https://www.fanpage.it/kodami/la-fuga-dei-cavalli-della-polizia-a-roma-a-causa-dei-fuochi-dartificio-quando-le-campagne-di-sensibilizzazione-non-servono-nemmeno-alle-forze-dellordine/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Roland Garros, Arnaldi esulta per Berrettini e Cobolli: \"Ha vinto anche Matteo?\"",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/arnaldi-berrettini-cobolli-roland-garros-2026-ottavi_1VVIJ7EdMfdoyTFAR2WdQM",
+        "https://www.ilfattoquotidiano.it/2026/05/31/roland-garros-cobolli-berrettini-arnaldi-italiani-programma-orari-lunedi-ottavi-finale/8404653/",
+        "https://www.repubblica.it/sport/dossier/roland-garros/2026/05/31/news/berrettini_arnaldi_cobolli_ottavi_roland_garros-425381441/",
+        "https://www.ilmessaggero.it/sport/schede/berrettini_cobolli_arnaldi_ottavi_tabellone_roland_garros_avversari_dove_vedere_tv_streaming_orari-9565618.html",
+        "https://www.fanpage.it/sport/tennis/il-tabellone-del-roland-garros-e-sempre-piu-aperto-berrettini-cobolli-e-arnaldi-puntano-alla-finale/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Vingegaard nella storia: conquista il Giro e completa la Tripla Corona",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.laverita.info/vingegaard-vince-giro-italia-2026-2676978011.html",
+        "https://www.ilfattoquotidiano.it/2026/05/31/giro-italia-2026-pagelle-vingegaard-pellizzari-ciccone-eulalio-ganna/8404704/",
+        "https://www.fanpage.it/sport/ciclismo/vingegaard-vince-il-giro-ditalia-2026-milan-salva-lorgoglio-italiano-nellultima-tappa-a-roma/",
+        "https://www.repubblica.it/sport/dossier/ciclismo-giro-italia/2026/05/31/news/giro_d_italia_milan_vince_tappa_roma_vingegaard_vince_giro-425381727/",
+        "https://www.ilfattoquotidiano.it/2026/05/31/vingegaard-tripla-corona-giro-ditalia-dualismo-pogacar/8404771/"
       ]
     }
   ]
