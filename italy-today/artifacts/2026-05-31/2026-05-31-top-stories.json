@@ -1,13 +1,14 @@
 {
   "date": "2026-05-31",
-  "generated_at": "Sun 31 May 14:00",
+  "generated_at": "Sun 31 May 15:25",
   "stories": [
     {
       "rank": 1,
-      "title": "Bottiglie incendiarie contro abitazione di un cronista nel Vicentino",
-      "source_count": 11,
-      "article_count": 11,
+      "title": "Esplosione davanti casa cronista a Vicenza, in una lettera minacce e riferimenti a don Patriciello e Meloni",
+      "source_count": 12,
+      "article_count": 12,
       "source_domains": [
+        "liberoquotidiano.it",
         "governo.it",
         "fanpage.it",
         "repubblica.it",
@@ -21,11 +22,11 @@
         "agi.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/italia/47963842/adriano-cappellari-molotov-casa-cronista-giorgia-meloni-non-fara-intimidire/",
         "https://www.governo.it/it/articolo/attentato-incendiario-ad-adriano-cappellari-dichiarazione-del-presidente-meloni/31958",
         "https://www.fanpage.it/attualita/vicenza-bombe-molotov-contro-la-casa-del-giornalista-anti-camorra-adriano-cappellari/",
         "https://www.repubblica.it/cronaca/2026/05/31/news/adriano_cappellari_attentato_vicenza_don_patriciello_caivano-425381368/",
-        "https://www.adnkronos.com/cronaca/adriano-cappellari-esplosione-casa-giornalista-enego_6ATn2Lc7GgKKh3FMDPdkbz",
-        "https://www.lastampa.it/cronaca/2026/05/31/news/vicenza_attentato_al_cronista_di_enego_in_una_lettera_minacce_a_meloni_e_don_patricello-15642782/"
+        "https://www.adnkronos.com/cronaca/adriano-cappellari-esplosione-casa-giornalista-enego_6ATn2Lc7GgKKh3FMDPdkbz"
       ]
     },
     {
@@ -79,25 +80,24 @@
     },
     {
       "rank": 4,
-      "title": "Cavalli della parata in fuga, colpa dei fuochi d’artificio: quattro feriti, panico tra le auto",
-      "source_count": 8,
-      "article_count": 11,
+      "title": "MotoGp, Bezzecchi vince Gp Italia e allunga nel mondiale. Ordine d'arrivo e classifica",
+      "source_count": 7,
+      "article_count": 12,
       "source_domains": [
-        "ilgiornale.it",
         "fanpage.it",
-        "roma.repubblica.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
-        "ilsole24ore.com",
-        "news.google.com"
+        "repubblica.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/petardi-prove-parata-30-cavalli-fuga-nella-capitale-agenti-2672190.html",
-        "https://www.fanpage.it/kodami/la-fuga-dei-cavalli-della-polizia-a-roma-a-causa-dei-fuochi-dartificio-quando-le-campagne-di-sensibilizzazione-non-servono-nemmeno-alle-forze-dellordine/",
-        "https://www.fanpage.it/roma/cavalli-della-parata-imbizzarriti-per-strada-sulla-colombo-a-roma-4-feriti-e-un-agente-a-rischio/",
-        "https://roma.repubblica.it/cronaca/2026/05/31/news/cavalli_in_fuga_roma_militari_2_giugno_comandante_vigili-425380669/",
-        "https://roma.repubblica.it/cronaca/2026/05/31/news/cavalli_parata_2_giugno_colombo_incidente_auto_cid_assicurazione_sabrina_sgarra-425380665/"
+        "https://www.fanpage.it/sport/motori/bezzecchi-e-labbraccio-con-kimi-antonelli-al-mugello-dopo-il-trionfo-mi-fai-gasare-troppo/",
+        "https://www.ilfattoquotidiano.it/2026/05/31/bezzecchi-antonelli-abbraccio-mugello-motogp-fai-paura-fai-paura-mi-fai-gasare-troppo/8404755/",
+        "https://www.ansa.it/sito/notizie/sport/moto/2026/05/31/motogp-bezzecchi-trionfa-al-mugello-davanti-a-martin_2b296c53-129c-41ed-9dc4-1a0cd650bf8c.html",
+        "https://www.repubblica.it/sport/moto-gp/2026/05/31/news/bezzecchi_vince_gp_italia_mugello-425381544/",
+        "https://www.ilgiornale.it/news/motori/motogp-storica-doppietta-aprilia-mugello-bezzecchi-su-martin-2672349.html"
       ]
     },
     {
@@ -125,6 +125,50 @@
     },
     {
       "rank": 6,
+      "title": "Cavalli della parata in fuga, colpa dei fuochi d’artificio: quattro feriti, panico tra le auto",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "roma.repubblica.it",
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/nazionale/i-vigili-hanno-acceso-i-petardi-spunta-laudio-fuga-dei-2672396.html",
+        "https://www.ilgiornale.it/news/politica/petardi-prove-parata-30-cavalli-fuga-nella-capitale-agenti-2672190.html",
+        "https://www.fanpage.it/kodami/la-fuga-dei-cavalli-della-polizia-a-roma-a-causa-dei-fuochi-dartificio-quando-le-campagne-di-sensibilizzazione-non-servono-nemmeno-alle-forze-dellordine/",
+        "https://www.fanpage.it/roma/cavalli-della-parata-imbizzarriti-per-strada-sulla-colombo-a-roma-4-feriti-e-un-agente-a-rischio/",
+        "https://roma.repubblica.it/cronaca/2026/05/31/news/cavalli_in_fuga_roma_militari_2_giugno_comandante_vigili-425380669/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Beatrice uccisa a due anni, i soprusi e le botte nella casa dell’orrore",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "genova.repubblica.it",
+        "fanpage.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-nera/bordighera-racconto-choc-sorellina-beatrice-aveva-corpo-2672385.html",
+        "https://www.ilmessaggero.it/italia/bimba_morta_bordighera_mamma_violenza_picchiava_accusa-9565797.html",
+        "https://www.ilfattoquotidiano.it/2026/05/31/morte-beatrice-bordighera-sorellina-testimonianza-notizie/8404666/",
+        "https://www.ilgiornale.it/news/politica/beatrice-morta-2-anni-sigarette-botte-e-torture-coraggio-2672188.html",
+        "https://genova.repubblica.it/cronaca/2026/05/31/news/era_viola_ma_non_hanno_chiamato_l_ambulanza_il_drammatico_racconto_della_sorella_di_beatrice-425381348/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Champions League, la finale finisce ai rigori: il Psg batte l’Arsenal grazie all’errore di Gabriel",
       "source_count": 7,
       "article_count": 10,
@@ -146,51 +190,30 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "MotoGp, Bezzecchi vince Gp Italia e allunga nel mondiale. Ordine d'arrivo e classifica",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/moto/2026/05/31/motogp-bezzecchi-trionfa-al-mugello-davanti-a-martin_2b296c53-129c-41ed-9dc4-1a0cd650bf8c.html",
-        "https://www.repubblica.it/sport/moto-gp/2026/05/31/news/bezzecchi_vince_gp_italia_mugello-425381544/",
-        "https://www.ilgiornale.it/news/motori/motogp-storica-doppietta-aprilia-mugello-bezzecchi-su-martin-2672349.html",
-        "https://www.fanpage.it/sport/motori/e-festa-aprilia-al-mugello-bezzecchi-vince-davanti-a-martin-bagnaia-sul-podio-di-un-soffio-con-la-ducati/",
-        "https://www.adnkronos.com/sport/motogp-bezzecchi-vince-gp-italia-ordine-arrivo-classifica-mondiale_3IYymQoG6dxsBBTjtt8QWw"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Beatrice uccisa a due anni, i soprusi e le botte nella casa dell’orrore",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "genova.repubblica.it",
-        "fanpage.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/bimba_morta_bordighera_mamma_violenza_picchiava_accusa-9565797.html",
-        "https://www.ilfattoquotidiano.it/2026/05/31/morte-beatrice-bordighera-sorellina-testimonianza-notizie/8404666/",
-        "https://www.ilgiornale.it/news/politica/beatrice-morta-2-anni-sigarette-botte-e-torture-coraggio-2672188.html",
-        "https://genova.repubblica.it/cronaca/2026/05/31/news/era_viola_ma_non_hanno_chiamato_l_ambulanza_il_drammatico_racconto_della_sorella_di_beatrice-425381348/",
-        "https://www.fanpage.it/attualita/beatrice-morta-a-2-anni-a-bordighera-madre-e-compagno-incastrati-dalle-sorelline-violenze-brutali-e-continue/"
-      ]
-    },
-    {
       "rank": 9,
+      "title": "Operai sfruttati per il nuovo consolato Usa a Milano: manager di Caddell fermato a Bergamo",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/05/31/sfruttamento-operai-consolato-usa-milano-notizie/8404763/",
+        "https://www.fanpage.it/milano/indagato-per-caporalato-per-il-nuovo-consolato-usa-a-milano-manager-della-caddell-fermato-mentre-scappa-a-istanbul/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/05/31/schiavi-per-costruire-il-consolato-usa-a-milano-fermato-un-manager-di-cddell_21080b4d-9e55-481f-8893-40cdaebbc5fc.html",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/caporalato-nel-cantiere-consolato-usa-fermato-bergamo-2672351.html",
+        "https://www.ilmessaggero.it/italia/manager_caddell_arrestato_chi_e_ulas_demir-9565779.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Morta Zeudi Araya, sex symbol degli anni 70: la fama con \"La ragazza dalla pelle di luna”, fu attrice e produttrice",
       "source_count": 6,
       "article_count": 6,
@@ -208,27 +231,6 @@
         "https://www.ilgiornale.it/news/morta-zeudi-araya-diva-dei-film-erotici-anni-70-2672203.html",
         "https://www.ansa.it/sito/notizie/cultura/cinema/2026/05/30/morta-zeudi-araya-attrice-e-produttrice-dopo-una-lunga-malattia_3efd08bb-c674-4c84-ae45-2325ea24177e.html",
         "https://www.ilmessaggero.it/persone/zeudi_araya_chi_era_morta_oggi-9564336.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Operai sfruttati per il nuovo consolato Usa a Milano: manager di Caddell fermato a Bergamo",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "milano.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/milano/indagato-per-caporalato-per-il-nuovo-consolato-usa-a-milano-manager-della-caddell-fermato-mentre-scappa-a-istanbul/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/05/31/schiavi-per-costruire-il-consolato-usa-a-milano-fermato-un-manager-di-cddell_21080b4d-9e55-481f-8893-40cdaebbc5fc.html",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/caporalato-nel-cantiere-consolato-usa-fermato-bergamo-2672351.html",
-        "https://www.ilmessaggero.it/italia/manager_caddell_arrestato_chi_e_ulas_demir-9565779.html",
-        "https://milano.repubblica.it/cronaca/2026/05/31/news/ulas_demir_caddell_consolato_usa_fermato-425381508/"
       ]
     }
   ]
