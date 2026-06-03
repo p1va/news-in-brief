@@ -1,16 +1,16 @@
 {
   "date": "2026-06-03",
-  "generated_at": "Wed 03 Jun 17:03",
+  "generated_at": "Wed 03 Jun 20:27",
   "stories": [
     {
       "rank": 1,
       "title": "Nicole Minetti, pg di Milano conferma parere positivo sulla grazia: «Nessun fatto contrastante, smentite le dichiarazioni sui festini»",
       "source_count": 10,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "ansa.it",
         "unita.it",
         "fanpage.it",
-        "ansa.it",
         "adnkronos.com",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
@@ -20,37 +20,57 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/03/la-procura-conferma-il-parere-positivo-sulla-grazia-a-minetti_a559b536-0a45-425a-8ce0-3e30ee16206e.html",
         "https://www.unita.it/2026/06/03/grazia-nicole-minetti-flop-travaglio-procura-smentisce-inchiesta-fatto-quotidiano/",
         "https://www.fanpage.it/politica/la-procura-conferma-il-parere-positivo-sulla-grazia-a-nicole-minetti-non-sara-revocata/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/03/grazia-a-minetti-la-procura-generale-di-milano-conferma-il-parere-positivo_a559b536-0a45-425a-8ce0-3e30ee16206e.html",
-        "https://www.adnkronos.com/cronaca/grazia-nicole-minetti-parere-procura-milano_19SxiX0oYW2McZYjwqhFra",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/caso-minetti-procura-conferma-parere-positivo-grazia-falsi-2673551.html"
+        "https://www.adnkronos.com/cronaca/grazia-nicole-minetti-parere-procura-milano_19SxiX0oYW2McZYjwqhFra"
       ]
     },
     {
       "rank": 2,
-      "title": "San Pietroburgo, maxi attacco di droni ucraini: colpiti terminal petrolio, aziende militari e navi. L'operazione nel primo giorno della Davos russa",
-      "source_count": 7,
-      "article_count": 10,
+      "title": "Attacchi ucraini su San Pietroburgo nel giorno della Davos russa",
+      "source_count": 6,
+      "article_count": 12,
       "source_domains": [
+        "ansa.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
         "unita.it",
-        "ansa.it",
         "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it"
+        "repubblica.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/03/droni-su-san-pietroburgo-kiev-fa-tremare-la-davos-russa_a35d677c-59df-4b9c-bee6-b6fd15e82321.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48008761/zelensky-attacchi-droni-ucraini-su-san-pietroburgo-risposta-giusta-/",
         "https://www.liberoquotidiano.it/news/libero-video/48004419/russia-colpito-terminal-petrolifero-a-san-pietroburgo/",
         "https://www.ilmessaggero.it/mondo/san_pietroburgo_attacco_ucraina_droni_cosa_e_successo-9570943.html",
-        "https://www.unita.it/2026/06/03/attacco-droni-ucraini-san-pietroburgo-davos-russa/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/02/pioggia-di-droni-e-missili-su-kiev-e-lucraina-almeno-17-morti.-si-scava-tra-le-macerie_a35d677c-59df-4b9c-bee6-b6fd15e82321.html",
-        "https://www.ilmessaggero.it/mondo/attacco_san_pietroburgo_oggi_davos_russa_cosa_succede-9570845.html"
+        "https://www.unita.it/2026/06/03/attacco-droni-ucraini-san-pietroburgo-davos-russa/"
       ]
     },
     {
       "rank": 3,
+      "title": "Energia, sì dell'Ue alla flessibilità. Per l'Italia spesa fino a 14 miliardi",
+      "source_count": 6,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/economia/2026/06/03/ok-alla-deroga-ma-lue-richiama-litalia-su-accise-e-salari_2d11385c-7e7a-420e-a199-f3987e83277b.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48009238/via-libera-ue-su-flessibilita-meloni-risultato-importante-pronti-14-miliardi-contro-caro-energia/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48008616/dovombrokis-ue-si-a-flessibilita-per-energia-fino-allo-0-6-nel-triennio/",
+        "https://www.liberoquotidiano.it/news/pillole/48007382/ue_via_libera_alla_clausola_di_salvaguardia_per_l_energia/",
+        "https://www.ansa.it/sito/notizie/economia/2026/06/03/ue-via-libera-alla-flessibilita-sullenergia.-giorgetti-recepite-le-proposte-dellitalia_2d11385c-7e7a-420e-a199-f3987e83277b.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Braccianti arsi vivi, in dieci in un bilocale: quella vita da schiavi prima di morire",
       "source_count": 6,
       "article_count": 10,
@@ -71,28 +91,6 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Energia, sì dell'Ue alla flessibilità. Per l'Italia spesa fino a 14 miliardi",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/06/03/ue-via-libera-alla-flessibilita-sullenergia.-giorgetti-recepite-le-proposte-dellitalia_2d11385c-7e7a-420e-a199-f3987e83277b.html",
-        "https://www.ilfattoquotidiano.it/2026/06/03/patto-stabilita-deroga-energia-italia-notizie/8407388/",
-        "https://www.liberoquotidiano.it/news/tv-news/48006771/ue-propone-flessibilita-di-0-3-pil-per-riduzione-carburanti-fossili/",
-        "https://www.fanpage.it/politica/ue-sblocca-14-miliardi-contro-il-caro-energia-ma-meloni-non-potra-usarli-per-bonus-bollette-e-carburanti/",
-        "https://www.ilgiornale.it/news/governo/ue-ok-allitalia-ai-14-miliardi-euro-pi-soddisfazione-2673603.html"
-      ]
-    },
-    {
       "rank": 5,
       "title": "Bimba di 2 anni morta a Bordighera: “Mamma ha viaggiato col cadavere della piccola in auto deceduta da ore”",
       "source_count": 1,
@@ -110,30 +108,9 @@
     },
     {
       "rank": 6,
-      "title": "Notte di scontri nel Golfo. Trump: 'I negoziati evolvono, potrei incontrare Khamenei'",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-3-giugno-2026/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/03/notte-di-scontri-nel-golfo.-trump-i-negoziati-evolvono-potrei-incontrare-khamenei_639876b8-1c3e-4b54-a842-6e7c10451db2.html",
-        "https://www.repubblica.it/esteri/2026/06/03/diretta/guerra_iran_usa_israelenews_oggi-425385823/",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/02/lira-di-trump-contro-netanyahu-sei-un-pazzo-senza-di-me-saresti-in-galera_639876b8-1c3e-4b54-a842-6e7c10451db2.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48001628/iran-nuova-escalation-nel-golfo-colpita-nave-attacco-al-kuwait/"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Incidente per Emanuele Pozzolo: fuori strada con il suv nel Biellese",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
         "ilgiornale.it",
@@ -144,40 +121,41 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/03/pozzolo-finisce-con-il-suv-fuoristrada-era-ubriaco-alla-guida_a1a3c7fc-56f9-4562-bbf8-080ae4b3f893.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/03/incidente-stradale-per-pozzolo-tasso-alcolemico-doppio-rispetto-al-consentito_a1a3c7fc-56f9-4562-bbf8-080ae4b3f893.html",
         "https://www.ilgiornale.it/news/nazionale/incidente-emanuele-pozzolo-fuori-strada-suv-nel-biellese-2673463.html",
         "https://www.ilmessaggero.it/italia/pozzolo_incidente_suv_biella_tasso_alcol_alto_chi_e-9570776.html",
-        "https://torino.repubblica.it/cronaca/2026/06/03/news/pozzolo_fuori_strada_suv_biellese_tasso_alcolemico_alto-425386343/",
-        "https://www.lastampa.it/biella/2026/06/03/news/pozzolo_ubriaco_fuori_strada_suv_cossato-15645558/"
+        "https://torino.repubblica.it/cronaca/2026/06/03/news/pozzolo_fuori_strada_suv_biellese_tasso_alcolemico_alto-425386343/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Roland Garros: magica Italia a Parigi, Cobolli e derby azzurro per sognare",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/06/03/arnaldi-vince-il-primo-set-7-5-contro-berrettini-a-parigi-diretta-e-foto_cdcd3fb3-92d1-475a-a9fd-54be3c44cde8.html",
+        "https://www.adnkronos.com/sport/roland-garros-berrettini-contro-arbitro-roland-garros-arnaldi_3QaECBppusEYOjTXApNSqA",
+        "https://www.adnkronos.com/sport/diretta-berrettini-arnaldi-oggi-quarti-roland-garros-live-risultato-aggiornamenti_2upB6SLBZNVzaZTKs1o9FK",
+        "https://www.fanpage.it/sport/tennis/zverev-ride-al-roland-garros-il-prossimo-avversario-non-mimporta-poi-arnaldi-mi-ha-sorpreso/",
+        "https://www.ansa.it/sito/notizie/sport/2026/06/02/roland-garros-magica-italia-a-parigi-cobolli-e-derby-azzurro-per-sognare_d752cda1-5169-41bf-a77c-3c12b28965a9.html"
       ]
     },
     {
       "rank": 8,
-      "title": "Roland Garros: magica Italia a Parigi, Cobolli e derby azzurro per sognare",
-      "source_count": 6,
-      "article_count": 8,
+      "title": "Erri De Luca, cancellata la prolusione al Festival di Salerno dopo le parole su Israele e genocidio a Gaza: “Non vado per motivi personali”",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/06/03/roland-garros-quarti-di-finale-cobolli-auger-aliassime-diretta_395d014e-9dac-44dd-acd0-d84e39add9f0.html",
-        "https://www.fanpage.it/sport/tennis/zverev-ride-al-roland-garros-il-prossimo-avversario-non-mimporta-poi-arnaldi-mi-ha-sorpreso/",
-        "https://www.ansa.it/sito/notizie/sport/2026/06/02/roland-garros-magica-italia-a-parigi-cobolli-e-derby-azzurro-per-sognare_d752cda1-5169-41bf-a77c-3c12b28965a9.html",
-        "https://www.ilgiornale.it/news/sport/fuori-sinner-alcaraz-e-djokovic-roland-garros-sinfiamma-2673336.html",
-        "https://www.repubblica.it/sport/dossier/roland-garros/2026/06/03/news/cobolli_arnaldi_berrettini_partite_oggi_roland_garros-425385612/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Erri De Luca escluso da Salerno Letteratura Festival per frasi su Gaza, il direttore artistico: \"Non era giusto far finta di niente\"",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
+        "ilfattoquotidiano.it",
         "adnkronos.com",
         "unita.it",
         "ilgiornale.it",
@@ -186,11 +164,30 @@
         "napoli.repubblica.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/06/03/il-festival-salerno-letteratura-annulla-la-prolusione-di-erri-de-luca-dopo-lintervista-sul-sionismo-e-gaza-non-ce-identita-di-vedute/8407548/",
         "https://www.adnkronos.com/cultura/erri-de-luca-escluso-salerno-letteratura-festival-frasi-gaza-israele_1J63HXh0GHsHlfNcOE0vAs",
         "https://www.unita.it/2026/06/03/erri-de-luca-cancellata-prolusione-festival-salerno-parole-israele-genocidio-gaza/",
         "https://www.ilgiornale.it/news/interni/riconsiderata-nostra-decisione-erri-de-luca-escluso-festival-2673621.html",
-        "https://www.liberoquotidiano.it/news/personaggi/48004084/erri-de-luca-escluso-festival-salerno-letteratura-comincia-censura-rossa/",
-        "https://www.fanpage.it/napoli/erri-de-luca-non-aprira-piu-salerno-letteratura-dopo-le-sue-dichiarazioni-sul-genocidio-a-gaza/"
+        "https://www.liberoquotidiano.it/news/personaggi/48004084/erri-de-luca-escluso-festival-salerno-letteratura-comincia-censura-rossa/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Notte di scontri nel Golfo. Trump: 'I negoziati evolvono, potrei incontrare Khamenei'",
+      "source_count": 4,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/03/medio-oriente-raid-nel-golfo-trump-apre-al-faccia-a-faccia-con_77e2d412-17dd-4ffa-9988-c1161da05a3f.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/03/notte-di-scontri-nel-golfo.-trump-i-negoziati-evolvono-potrei-incontrare-khamenei_639876b8-1c3e-4b54-a842-6e7c10451db2.html",
+        "https://www.repubblica.it/esteri/2026/06/03/diretta/guerra_iran_usa_israelenews_oggi-425385823/",
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/02/lira-di-trump-contro-netanyahu-sei-un-pazzo-senza-di-me-saresti-in-galera_639876b8-1c3e-4b54-a842-6e7c10451db2.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48001628/iran-nuova-escalation-nel-golfo-colpita-nave-attacco-al-kuwait/"
       ]
     },
     {
