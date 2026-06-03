@@ -1,9 +1,56 @@
 {
   "date": "2026-06-03",
-  "generated_at": "Wed 03 Jun 20:27",
+  "generated_at": "Wed 03 Jun 21:29",
   "stories": [
     {
       "rank": 1,
+      "title": "Cobolli-Arnaldi la semifinale, ci sarà un azzurro per il titolo Roland Garros",
+      "source_count": 9,
+      "article_count": 21,
+      "source_domains": [
+        "adnkronos.com",
+        "fanpage.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/roland-garros-berrettini-ritiro-lacrime-arnaldi-abbraccio-cosa-e-successo_1YqiF8waSkw7xiEhSXNP6E",
+        "https://www.fanpage.it/sport/tennis/berrettini-si-ritira-per-infortunio-al-roland-garros-arnaldi-non-auguro-a-nessuno-di-finire-cosi/",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/06/03/cobolli-arnaldi-la-semifinale-ci-sara-un-azzurro-per-il-titolo-roland-garros_cdcd3fb3-92d1-475a-a9fd-54be3c44cde8.html",
+        "https://www.ilfattoquotidiano.it/2026/06/03/berrettini-ritiro-roland-garros-arnaldi-semifinale/8408043/",
+        "https://www.ilgiornale.it/news/tennis/arnaldi-vince-derby-amaro-berrettini-si-ritira-infortunio-2673788.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Via libera Ue su flessibilità, Meloni: Risultato importante, pronti 14 miliardi contro caro energia",
+      "source_count": 8,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/economia/2026/06/03/ok-alla-deroga-ma-lue-richiama-litalia-su-accise-e-salari_2d11385c-7e7a-420e-a199-f3987e83277b.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48009238/via-libera-ue-su-flessibilita-meloni-risultato-importante-pronti-14-miliardi-contro-caro-energia/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48008616/dovombrokis-ue-si-a-flessibilita-per-energia-fino-allo-0-6-nel-triennio/",
+        "https://www.liberoquotidiano.it/news/pillole/48007382/ue_via_libera_alla_clausola_di_salvaguardia_per_l_energia/",
+        "https://www.ansa.it/sito/notizie/economia/2026/06/03/ue-via-libera-alla-flessibilita-sullenergia.-giorgetti-recepite-le-proposte-dellitalia_2d11385c-7e7a-420e-a199-f3987e83277b.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Nicole Minetti, pg di Milano conferma parere positivo sulla grazia: «Nessun fatto contrastante, smentite le dichiarazioni sui festini»",
       "source_count": 10,
       "article_count": 11,
@@ -28,7 +75,30 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "title": "Incidente per Emanuele Pozzolo: fuori strada con il suv nel Biellese",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "torino.repubblica.it",
+        "unita.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/03/pozzolo-finisce-con-il-suv-fuoristrada-era-ubriaco-alla-guida_a1a3c7fc-56f9-4562-bbf8-080ae4b3f893.html",
+        "https://torino.repubblica.it/cronaca/2026/06/03/news/emanuele_pozzolo_futuro_nazionale_incidente_biella_ritratto-425386870/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/03/incidente-stradale-per-pozzolo-tasso-alcolemico-doppio-rispetto-al-consentito_a1a3c7fc-56f9-4562-bbf8-080ae4b3f893.html",
+        "https://www.unita.it/2026/06/03/emanuele-pozzolo-incidente-stradale-biellese/",
+        "https://www.ilgiornale.it/news/nazionale/incidente-emanuele-pozzolo-fuori-strada-suv-nel-biellese-2673463.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Attacchi ucraini su San Pietroburgo nel giorno della Davos russa",
       "source_count": 6,
       "article_count": 12,
@@ -49,49 +119,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Energia, sì dell'Ue alla flessibilità. Per l'Italia spesa fino a 14 miliardi",
-      "source_count": 6,
-      "article_count": 12,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/06/03/ok-alla-deroga-ma-lue-richiama-litalia-su-accise-e-salari_2d11385c-7e7a-420e-a199-f3987e83277b.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48009238/via-libera-ue-su-flessibilita-meloni-risultato-importante-pronti-14-miliardi-contro-caro-energia/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48008616/dovombrokis-ue-si-a-flessibilita-per-energia-fino-allo-0-6-nel-triennio/",
-        "https://www.liberoquotidiano.it/news/pillole/48007382/ue_via_libera_alla_clausola_di_salvaguardia_per_l_energia/",
-        "https://www.ansa.it/sito/notizie/economia/2026/06/03/ue-via-libera-alla-flessibilita-sullenergia.-giorgetti-recepite-le-proposte-dellitalia_2d11385c-7e7a-420e-a199-f3987e83277b.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Braccianti arsi vivi, in dieci in un bilocale: quella vita da schiavi prima di morire",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/attualita/bravissimi-ragazzi-chi-erano-i-quattro-braccianti-bruciati-vivi-nel-furgone-ad-amendolara/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48005235/schlein-su-braccianti-bruciati-vivi-immagini-devastanti-fare-luce-su-caporalato/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/03/braccianti-bruciati-vivi-erano-arrivati-in-calabria-dalla-sardegna_460c79bf-9ae4-4a52-bc0b-d46d05eb8048.html",
-        "https://www.ilgiornale.it/news/politica/i-braccianti-arsi-vivi-lite-i-caporali-e-portiere-bloccate-2673325.html",
-        "https://www.lastampa.it/rubriche/l-oblo/2026/06/03/audio/la_vergogna_del_caporalato_e_lindignazione_di_breve_durata-15645327/"
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "Bimba di 2 anni morta a Bordighera: “Mamma ha viaggiato col cadavere della piccola in auto deceduta da ore”",
       "source_count": 1,
       "article_count": 15,
@@ -107,107 +135,87 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Incidente per Emanuele Pozzolo: fuori strada con il suv nel Biellese",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "torino.repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/03/pozzolo-finisce-con-il-suv-fuoristrada-era-ubriaco-alla-guida_a1a3c7fc-56f9-4562-bbf8-080ae4b3f893.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/03/incidente-stradale-per-pozzolo-tasso-alcolemico-doppio-rispetto-al-consentito_a1a3c7fc-56f9-4562-bbf8-080ae4b3f893.html",
-        "https://www.ilgiornale.it/news/nazionale/incidente-emanuele-pozzolo-fuori-strada-suv-nel-biellese-2673463.html",
-        "https://www.ilmessaggero.it/italia/pozzolo_incidente_suv_biella_tasso_alcol_alto_chi_e-9570776.html",
-        "https://torino.repubblica.it/cronaca/2026/06/03/news/pozzolo_fuori_strada_suv_biellese_tasso_alcolemico_alto-425386343/"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "Roland Garros: magica Italia a Parigi, Cobolli e derby azzurro per sognare",
-      "source_count": 6,
-      "article_count": 9,
+      "title": "Notte di scontri nel Golfo. Trump: 'I negoziati evolvono, potrei incontrare Khamenei'",
+      "source_count": 5,
+      "article_count": 10,
       "source_domains": [
         "ansa.it",
-        "adnkronos.com",
         "fanpage.it",
-        "ilgiornale.it",
         "repubblica.it",
-        "lastampa.it"
+        "liberoquotidiano.it",
+        "ilgiornale.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/06/03/arnaldi-vince-il-primo-set-7-5-contro-berrettini-a-parigi-diretta-e-foto_cdcd3fb3-92d1-475a-a9fd-54be3c44cde8.html",
-        "https://www.adnkronos.com/sport/roland-garros-berrettini-contro-arbitro-roland-garros-arnaldi_3QaECBppusEYOjTXApNSqA",
-        "https://www.adnkronos.com/sport/diretta-berrettini-arnaldi-oggi-quarti-roland-garros-live-risultato-aggiornamenti_2upB6SLBZNVzaZTKs1o9FK",
-        "https://www.fanpage.it/sport/tennis/zverev-ride-al-roland-garros-il-prossimo-avversario-non-mimporta-poi-arnaldi-mi-ha-sorpreso/",
-        "https://www.ansa.it/sito/notizie/sport/2026/06/02/roland-garros-magica-italia-a-parigi-cobolli-e-derby-azzurro-per-sognare_d752cda1-5169-41bf-a77c-3c12b28965a9.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/03/trump-molto-bene-i-colloqui-con-liran-potrebbero-chiudersi-nel-fine_77e2d412-17dd-4ffa-9988-c1161da05a3f.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/03/medio-oriente-raid-nel-golfo-trump-apre-al-faccia-a-faccia-con_77e2d412-17dd-4ffa-9988-c1161da05a3f.html",
+        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-3-giugno-2026/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/03/notte-di-scontri-nel-golfo.-trump-i-negoziati-evolvono-potrei-incontrare-khamenei_639876b8-1c3e-4b54-a842-6e7c10451db2.html",
+        "https://www.repubblica.it/esteri/2026/06/03/diretta/guerra_iran_usa_israelenews_oggi-425385823/"
       ]
     },
     {
       "rank": 8,
       "title": "Erri De Luca, cancellata la prolusione al Festival di Salerno dopo le parole su Israele e genocidio a Gaza: “Non vado per motivi personali”",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "fanpage.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "unita.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
-        "fanpage.it",
         "napoli.repubblica.it"
       ],
       "links": [
+        "https://www.fanpage.it/napoli/caso-erri-de-luca-salerno-letteratura-intervista-carillo/",
         "https://www.ilfattoquotidiano.it/2026/06/03/il-festival-salerno-letteratura-annulla-la-prolusione-di-erri-de-luca-dopo-lintervista-sul-sionismo-e-gaza-non-ce-identita-di-vedute/8407548/",
         "https://www.adnkronos.com/cultura/erri-de-luca-escluso-salerno-letteratura-festival-frasi-gaza-israele_1J63HXh0GHsHlfNcOE0vAs",
         "https://www.unita.it/2026/06/03/erri-de-luca-cancellata-prolusione-festival-salerno-parole-israele-genocidio-gaza/",
-        "https://www.ilgiornale.it/news/interni/riconsiderata-nostra-decisione-erri-de-luca-escluso-festival-2673621.html",
-        "https://www.liberoquotidiano.it/news/personaggi/48004084/erri-de-luca-escluso-festival-salerno-letteratura-comincia-censura-rossa/"
+        "https://www.ilgiornale.it/news/interni/riconsiderata-nostra-decisione-erri-de-luca-escluso-festival-2673621.html"
       ]
     },
     {
       "rank": 9,
-      "title": "Notte di scontri nel Golfo. Trump: 'I negoziati evolvono, potrei incontrare Khamenei'",
-      "source_count": 4,
-      "article_count": 8,
+      "title": "Garlasco, “nessuna corruzione”: i pm di Brescia potrebbero chiedere l’archiviazione per Venditti",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "repubblica.it",
+        "milano.repubblica.it",
         "liberoquotidiano.it",
-        "ilgiornale.it"
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/03/medio-oriente-raid-nel-golfo-trump-apre-al-faccia-a-faccia-con_77e2d412-17dd-4ffa-9988-c1161da05a3f.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/03/notte-di-scontri-nel-golfo.-trump-i-negoziati-evolvono-potrei-incontrare-khamenei_639876b8-1c3e-4b54-a842-6e7c10451db2.html",
-        "https://www.repubblica.it/esteri/2026/06/03/diretta/guerra_iran_usa_israelenews_oggi-425385823/",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/02/lira-di-trump-contro-netanyahu-sei-un-pazzo-senza-di-me-saresti-in-galera_639876b8-1c3e-4b54-a842-6e7c10451db2.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48001628/iran-nuova-escalation-nel-golfo-colpita-nave-attacco-al-kuwait/"
+        "https://milano.repubblica.it/cronaca/2026/06/03/news/corruzione_garlasco_archiviazione_sempio_nessuna_prova_venditti-425387984/",
+        "https://www.liberoquotidiano.it/news/italia/48005570/andrea-sempio-archiviazione-2017-ex-pm-venditti-non-fu-corrotto/",
+        "https://www.fanpage.it/attualita/garlasco-esclusiva-tg1-nessun-elemento-sullipotesi-di-corruzione-nei-confronti-dellex-pm-mario-venditti/",
+        "https://www.ilfattoquotidiano.it/2026/06/03/caso-garlasco-venditti-corruzione-notizie/8407418/",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/nessun-elemento-su-corruzione-verso-richiesta-archiviazione-2673639.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Leclerc e Ferrari avanti insieme: rinnovo pluriennale per il pilota monegasco",
+      "title": "L'Italia dei giovani vince in Lussemburgo, basta un gol di Pio Esposito",
       "source_count": 5,
-      "article_count": 6,
+      "article_count": 8,
       "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
+        "fanpage.it",
         "ansa.it",
-        "lastampa.it",
-        "repubblica.it"
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/motori/leclerc-e-ferrari-avanti-insieme-rinnovo-pluriennale-pilota-2673476.html",
-        "https://www.liberoquotidiano.it/news/sport/48000536/charles_leclerc_rinnovo_vita_ferrari_scelta_clamorosa_prime_parole/",
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/06/03/la-scuderia-ferrari-rinnova-laccordo-pluriennale-con-leclerc_e677c7e1-4ba1-44b3-9715-d6dea3dbe92a.html",
-        "https://www.lastampa.it/sport/2026/06/03/video/charles_leclerc_rinnovo_ferrari_annuncio-15645637/",
-        "https://www.repubblica.it/sport/formulauno/2026/06/03/news/leclerc_rinnovo_ferrari-425386119/"
+        "https://www.fanpage.it/sport/calcio/baldini-esalta-la-sua-giovane-italia-sapevo-che-le-stelle-sarebbero-state-dalla-nostra-parte/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/06/03/litalia-dei-giovani-vince-in-lussemburgo-basta-un-gol-di-pio-esposito_6cb80908-f44a-4998-9958-93422bebda2f.html",
+        "https://www.ilgiornale.it/news/calcio/buona-baldini-sulla-panchina-dell-italia-nazionale-dei-2673796.html",
+        "https://www.ilmessaggero.it/sport/nazionali/italia_lussemburgo_pio_esposito_baldini_cosa_e_successo-9571561.html",
+        "https://www.fanpage.it/sport/calcio/la-giovane-italia-di-baldini-batte-il-lussemburgo-pio-esposito-regala-un-sorriso-dopo-il-disastro-mondiali/"
       ]
     }
   ]
