@@ -1,6 +1,6 @@
 {
   "date": "2026-06-04",
-  "generated_at": "Thu 04 Jun 14:10",
+  "generated_at": "Thu 04 Jun 17:51",
   "stories": [
     {
       "rank": 1,
@@ -32,7 +32,7 @@
       "rank": 2,
       "title": "Stragi mafiose del 1993, archiviate le accuse per Marcello Dell’Utri e Silvio Berlusconi",
       "source_count": 9,
-      "article_count": 14,
+      "article_count": 15,
       "source_domains": [
         "ilgiornale.it",
         "ansa.it",
@@ -45,15 +45,62 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/interni/trent-anni-persecuzione-reazioni-all-archiviazione-2674174.html",
         "https://www.ilgiornale.it/news/interni/stragi-1993-meloni-larchiviazione-spazza-trentanni-sospetti-2674142.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/04/archiviate-le-accuse-a-dellutri-e-berlusconi-per-le-stragi-di-mafia-del-93.-marina_ef77d1bd-d1fb-46b6-b838-1a09a33a6ab9.html",
         "https://www.governo.it/it/articolo/dichiarazione-del-presidente-meloni/31994",
-        "https://www.fanpage.it/politica/archiviata-linchiesta-su-berlusconi-dellutri-e-le-stragi-di-mafia-non-ci-sono-elementi-concreti/",
-        "https://www.ilgiornale.it/news/interni/marina-berlusconi-accuse-mio-padre-erano-fango-2674065.html"
+        "https://www.fanpage.it/politica/archiviata-linchiesta-su-berlusconi-dellutri-e-le-stragi-di-mafia-non-ci-sono-elementi-concreti/"
       ]
     },
     {
       "rank": 3,
+      "title": "Milano, violenze sessuali per superare un esame alla scuola militare Teulié. Arrestato insegnante 48enne",
+      "source_count": 10,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "unita.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/04/violenze-sessuali-alla-scuola-militare-di-milano-arrestato-un-professore_b9213f57-2090-43d2-b5d2-f5d1661b59a7.html",
+        "https://www.ilfattoquotidiano.it/2026/06/04/scuola-militare-teulie-professore-violenza-sessuale-intercettazioni/8408897/",
+        "https://www.ilgiornale.it/news/nazionale/accuse-abusi-su-sette-allievi-arrestato-docente-italiano-2674152.html",
+        "https://www.unita.it/2026/06/04/abusi-sessuali-scuola-militare-teulie-milano-arrestato-professore-italiano/",
+        "https://www.ilfattoquotidiano.it/2026/06/04/scuola-militare-teulie-insegnante-arrestato-notizie/8408670/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Camera approva Ddl sul nucleare, testo passa al Senato",
+      "source_count": 7,
+      "article_count": 14,
+      "source_domains": [
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/politica/nucleare_approvazione_camera_cosa_cambia_cosa_prevede-9573177.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48022637/salvini-italia-non-puo-fare-a-meno-del-nucleare-bene-il-voto-camera/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48020769/ok-camera-a-ddl-nucleare-picchetto-fratin-andiamo-avanti-anche-con-i-decreti-attuativi/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48020771/ok-camera-a-ddl-nucleare-picchetto-fratin-fonte-pulita-che-integra-rinnovabili/",
+        "https://www.repubblica.it/economia/2026/06/04/news/nucleare_ddl_camera_reattori_sostenibili_pichetto-425389045/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Pina Picierno lascia il Pd: “La casa dei riformisti non c'è più”",
       "source_count": 10,
       "article_count": 10,
@@ -78,31 +125,9 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Camera approva Ddl sul nucleare, testo passa al Senato",
-      "source_count": 7,
-      "article_count": 13,
-      "source_domains": [
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/politica/nucleare_approvazione_camera_cosa_cambia_cosa_prevede-9573177.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48020769/ok-camera-a-ddl-nucleare-picchetto-fratin-andiamo-avanti-anche-con-i-decreti-attuativi/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48020771/ok-camera-a-ddl-nucleare-picchetto-fratin-fonte-pulita-che-integra-rinnovabili/",
-        "https://www.repubblica.it/economia/2026/06/04/news/nucleare_ddl_camera_reattori_sostenibili_pichetto-425389045/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48020773/ok-camera-a-ddl-nucleare-bonelli-quando-saremo-al-governo-faremo-vera-transizione-ecologica/"
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "Caso Minetti, Quirinale: dopo Pg Milano nessuna rivalutazione della grazia",
-      "source_count": 8,
+      "source_count": 9,
       "article_count": 10,
       "source_domains": [
         "ansa.it",
@@ -112,7 +137,8 @@
         "repubblica.it",
         "lastampa.it",
         "unita.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/politica/2026/06/04/quirinale-nessuna-rivalutazione-della-grazia-a-minetti_c4f078b3-aee7-457c-af05-7ab462a109ce.html",
@@ -123,52 +149,51 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Roland Garros d'Italia: Cobolli e Arnaldi valgono la finale",
-      "source_count": 7,
+      "rank": 7,
+      "title": "Maturità 2026, oggi i nomi dei commissari esterni: dove trovarli, il calendario e le novità",
+      "source_count": 8,
       "article_count": 9,
       "source_domains": [
+        "ansa.it",
         "repubblica.it",
         "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "laverita.info",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/dossier/roland-garros/2026/06/04/news/dove_vedere_orario_arnaldi_cobolli_semifinale_roland_garros-425389350/",
-        "https://www.fanpage.it/sport/tennis/berrettini-e-arnaldi-guadagnano-127-posizioni-cobolli-top-10-il-nuovo-ranking-atp-dopo-il-roland-garros/",
-        "https://www.ilfattoquotidiano.it/2026/06/04/ranking-atp-roland-garros-cobolli-top10-arnaldi-berrettini-posizioni/8408237/",
-        "https://www.repubblica.it/sport/dossier/roland-garros/2026/06/04/news/cobolli_arnaldi_berrettini_ronald_garros_semifinale-425388054/",
-        "https://www.ilmessaggero.it/sport/schede/cobolli_arnaldi_orario_dove_vederla_in_chiaro_semifinale_roland_garros_precedenti-9571575.html"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Milano, violenze sessuali per superare un esame alla scuola militare Teulié. Arrestato insegnante 48enne",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
         "ilgiornale.it",
-        "unita.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "ansa.it",
-        "fanpage.it",
-        "milano.repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/nazionale/accuse-abusi-su-sette-allievi-arrestato-docente-italiano-2674152.html",
-        "https://www.unita.it/2026/06/04/abusi-sessuali-scuola-militare-teulie-milano-arrestato-professore-italiano/",
-        "https://www.ilfattoquotidiano.it/2026/06/04/scuola-militare-teulie-insegnante-arrestato-notizie/8408670/",
-        "https://www.ilmessaggero.it/italia/milano_violenza_sessuale_professore_arrestato_scuola_militare-9573232.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/04/arrestato-per-violenza-sessuale-insegnante-scuola-militare-a-milano_b9213f57-2090-43d2-b5d2-f5d1661b59a7.html"
+        "https://www.ansa.it/canale_legalita_scuola/notizie/mim/2026/06/04/maturita-online-le-commissioni-desame-sono-13.989_1b4a404b-18e0-4e40-b1c2-0fff64161183.html",
+        "https://www.repubblica.it/scuola/dossier/maturita/2026/06/04/news/maturita_2026_commissioni_esame_pubblicate_mim-425389274/",
+        "https://www.fanpage.it/attualita/commissioni-maturita-2026-sito-mim-aggiornamento-4-giugno/",
+        "https://www.ilgiornale.it/news/attualit/maturit-2026-oggi-i-nomi-commissari-esterni-dove-trovarli-2674063.html",
+        "https://www.ilfattoquotidiano.it/2026/06/04/maturita-2026-debutta-il-nuovo-modello-caccia-ai-commissari-esterni-in-arrivo-i-nomi/8408228/"
       ]
     },
     {
       "rank": 8,
+      "title": "Roland Garros d'Italia: Cobolli e Arnaldi valgono la finale",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "repubblica.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/tennis/arnaldi-contro-cobolli-roland-garros-vinciamo-senza-sinner-2674163.html",
+        "https://www.repubblica.it/sport/dossier/roland-garros/2026/06/04/news/dove_vedere_orario_arnaldi_cobolli_semifinale_roland_garros-425389350/",
+        "https://www.fanpage.it/sport/tennis/berrettini-e-arnaldi-guadagnano-127-posizioni-cobolli-top-10-il-nuovo-ranking-atp-dopo-il-roland-garros/",
+        "https://www.ilfattoquotidiano.it/2026/06/04/ranking-atp-roland-garros-cobolli-top10-arnaldi-berrettini-posizioni/8408237/",
+        "https://www.repubblica.it/sport/dossier/roland-garros/2026/06/04/news/cobolli_arnaldi_berrettini_ronald_garros_semifinale-425388054/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Roland Garros, Errani-Vavassori campioni a Parigi: splendido bis per la coppia del doppio misto",
       "source_count": 7,
       "article_count": 7,
@@ -190,37 +215,17 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Maturità 2026, oggi i nomi dei commissari esterni: dove trovarli, il calendario e le novità",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "repubblica.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/scuola/dossier/maturita/2026/06/04/news/maturita_2026_commissioni_esame_pubblicate_mim-425389274/",
-        "https://www.fanpage.it/attualita/commissioni-maturita-2026-sito-mim-aggiornamento-4-giugno/",
-        "https://www.ilgiornale.it/news/attualit/maturit-2026-oggi-i-nomi-commissari-esterni-dove-trovarli-2674063.html",
-        "https://www.ilfattoquotidiano.it/2026/06/04/maturita-2026-debutta-il-nuovo-modello-caccia-ai-commissari-esterni-in-arrivo-i-nomi/8408228/",
-        "https://www.ilmessaggero.it/scuola/maturita_2026_commissari_esterni_nomi_dove_trovarli_oggi_4_giugno_commissioni_date_novita-9572823.html"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "La Camera Usa ordina il ritiro dalla guerra in Iran, ma Trump può porre il veto",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "La Camera degli Stati Uniti ha votato una risoluzione per imporre il ritiro dalla guerra contro l'Iran: ma Trump può mettere il veto",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
         "unita.it",
         "ansa.it",
         "liberoquotidiano.it",
         "repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
         "https://www.unita.it/2026/06/04/camera-usa-vota-stop-guerra-iran-trump-veto/",
