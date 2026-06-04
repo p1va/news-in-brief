@@ -1,13 +1,14 @@
 {
   "date": "2026-06-04",
-  "generated_at": "Thu 04 Jun 20:20",
+  "generated_at": "Thu 04 Jun 22:28",
   "stories": [
     {
       "rank": 1,
       "title": "Marjane Satrapi, «morta di dolore dopo la scomparsa del marito» l' autrice di \"Persepolis\". Aveva 56 anni",
-      "source_count": 11,
-      "article_count": 15,
+      "source_count": 12,
+      "article_count": 16,
       "source_domains": [
+        "ilmanifesto.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
         "unita.it",
@@ -21,19 +22,20 @@
         "news.google.com"
       ],
       "links": [
+        "https://ilmanifesto.it/ha-trasformato-linfanzia-in-una-favola-universale",
         "https://www.liberoquotidiano.it/news/tv-news/48020787/addio-a-marjane-satrapi-racconto-l-iran-in-persepolis-/",
         "https://www.liberoquotidiano.it/news/esteri/48018233/morte-marjane-satrapi-cosa-stroncato-autrice-persepolis-/",
         "https://www.ilmessaggero.it/persone/marjane_satrapi_morta_dolore_causa_morte_marito_mattias_ripa_chi_era-9573034.html",
-        "https://www.unita.it/2026/06/04/marjane-satrapi-fumettista-autrice-persepolis-morta-scomparsa-marito/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/04/morta-a-56-anni-lartista-franco-iraniana-marjane-satrapi_5f529130-3510-40ed-b4bf-5cc9f62c9adc.html"
+        "https://www.unita.it/2026/06/04/marjane-satrapi-fumettista-autrice-persepolis-morta-scomparsa-marito/"
       ]
     },
     {
       "rank": 2,
       "title": "Stragi mafiose del 1993, archiviate le accuse per Marcello Dell’Utri e Silvio Berlusconi",
-      "source_count": 9,
-      "article_count": 16,
+      "source_count": 10,
+      "article_count": 17,
       "source_domains": [
+        "adnkronos.com",
         "ansa.it",
         "ilgiornale.it",
         "governo.it",
@@ -45,15 +47,89 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.adnkronos.com/cronaca/berlusconi-dellutri-stragi-mafia-93-archiviazione_4vVzImUbsDvWAzBEZoOCND",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/04/berlusconi-archiviato-per-le-stragi-mafiose-del-1993i.-marina-disastro-giustizia_ef77d1bd-d1fb-46b6-b838-1a09a33a6ab9.html",
         "https://www.ilgiornale.it/news/interni/trent-anni-persecuzione-reazioni-all-archiviazione-2674174.html",
         "https://www.ilgiornale.it/news/interni/stragi-1993-meloni-larchiviazione-spazza-trentanni-sospetti-2674142.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/04/archiviate-le-accuse-a-dellutri-e-berlusconi-per-le-stragi-di-mafia-del-93.-marina_ef77d1bd-d1fb-46b6-b838-1a09a33a6ab9.html",
-        "https://www.governo.it/it/articolo/dichiarazione-del-presidente-meloni/31994"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/04/archiviate-le-accuse-a-dellutri-e-berlusconi-per-le-stragi-di-mafia-del-93.-marina_ef77d1bd-d1fb-46b6-b838-1a09a33a6ab9.html"
       ]
     },
     {
       "rank": 3,
+      "title": "Camera approva Ddl sul nucleare, testo passa al Senato",
+      "source_count": 8,
+      "article_count": 16,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/primo-si-al-nucleare-apriremo-le-centrali-entro-dieci-anni",
+        "https://www.ilmessaggero.it/economia/nucleare_legge_ok_camera_cosa_succede_ora_ultime_notizie-9573682.html",
+        "https://www.ilmessaggero.it/politica/nucleare_approvazione_camera_cosa_cambia_cosa_prevede-9573177.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48022637/salvini-italia-non-puo-fare-a-meno-del-nucleare-bene-il-voto-camera/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48020769/ok-camera-a-ddl-nucleare-picchetto-fratin-andiamo-avanti-anche-con-i-decreti-attuativi/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Picierno lascia il Pd: 'La casa dei riformisti non c'è più'",
+      "source_count": 11,
+      "article_count": 11,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/picierno-se-ne-va-ma-resta",
+        "https://www.ilgiornale.it/news/interni/coraggio-lasciare-non-rinunciare-ai-propri-valori-ha-merito-2674001.html",
+        "https://www.fanpage.it/politica/pina-picierno-lascia-il-pd-la-casa-dei-riformisti-non-ce-piu-troppi-i-silenzi-sullucraina/",
+        "https://www.unita.it/2026/06/04/pina-picierno-lascia-partito-democratico/",
+        "https://www.ilfattoquotidiano.it/2026/06/04/picierno-lascia-pd-schlein-notizie/8408135/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Caso Minetti, Mattarella prende atto delle conclusioni Procura e conferma la grazia",
+      "source_count": 10,
+      "article_count": 12,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it",
+        "unita.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/mattarella-nessun-privilegio-per-minetti",
+        "https://www.ilmessaggero.it/politica/nicole_minetti_grazia_decisione_mattarella_cosa_e_successo-9573730.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/06/04/quirinale-nessuna-rivalutazione-della-grazia-a-minetti_c4f078b3-aee7-457c-af05-7ab462a109ce.html",
+        "https://www.ilfattoquotidiano.it/2026/06/04/mattarella-grazia-minetti-confermata-parere-procura-generale-milano-ultime-notizie/8408645/",
+        "https://www.ilmessaggero.it/politica/nicole_minetti_grazia_nessuna_rivalutazione-9573216.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Milano, violenze sessuali per superare un esame alla scuola militare Teulié. Arrestato insegnante 48enne",
       "source_count": 10,
       "article_count": 12,
@@ -78,101 +154,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Camera approva Ddl sul nucleare, testo passa al Senato",
-      "source_count": 7,
-      "article_count": 14,
-      "source_domains": [
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/politica/nucleare_approvazione_camera_cosa_cambia_cosa_prevede-9573177.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48022637/salvini-italia-non-puo-fare-a-meno-del-nucleare-bene-il-voto-camera/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48020769/ok-camera-a-ddl-nucleare-picchetto-fratin-andiamo-avanti-anche-con-i-decreti-attuativi/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48020771/ok-camera-a-ddl-nucleare-picchetto-fratin-fonte-pulita-che-integra-rinnovabili/",
-        "https://www.repubblica.it/economia/2026/06/04/news/nucleare_ddl_camera_reattori_sostenibili_pichetto-425389045/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Pina Picierno lascia il Pd: “La casa dei riformisti non c'è più”",
-      "source_count": 10,
-      "article_count": 10,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "unita.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/interni/coraggio-lasciare-non-rinunciare-ai-propri-valori-ha-merito-2674001.html",
-        "https://www.fanpage.it/politica/pina-picierno-lascia-il-pd-la-casa-dei-riformisti-non-ce-piu-troppi-i-silenzi-sullucraina/",
-        "https://www.unita.it/2026/06/04/pina-picierno-lascia-partito-democratico/",
-        "https://www.ilfattoquotidiano.it/2026/06/04/picierno-lascia-pd-schlein-notizie/8408135/",
-        "https://www.ansa.it/sito/notizie/politica/2026/06/04/picierno-lascia-il-pd-la-casa-dei-riformisti-non-ce-piu_dcc74991-8c1a-4b6f-943d-bdee604345f2.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Arnaldi-Cobolli, orario e dove vedere in chiaro (in tv e streaming) la semifinale del Roland Garros",
-      "source_count": 8,
-      "article_count": 11,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "laverita.info"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/arnaldi-cobolli-roland-garros-tv-chiaro-gratis_3vkfg948E5qUavO8IsjIQw",
-        "https://www.ilmessaggero.it/sport/schede/arnaldi_cobolli_orario_dove_vederla_in_chiaro_tv_streaming_semifinale_roland_garros-9573557.html",
-        "https://www.lastampa.it/sport/2026/06/04/news/tennis_in_tv_roland_garros_cobolli-arnaldi_in_chiaro-15647640/",
-        "https://www.fanpage.it/sport/tennis/binaghi-berrettini-pensava-di-dover-smettere-a-breve-non-ci-ho-pensato-su-lho-mandato-a-fan-o/",
-        "https://www.ilgiornale.it/news/tennis/arnaldi-contro-cobolli-roland-garros-vinciamo-senza-sinner-2674163.html"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "Caso Minetti, Quirinale: dopo Pg Milano nessuna rivalutazione della grazia",
-      "source_count": 9,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it",
-        "unita.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/06/04/quirinale-nessuna-rivalutazione-della-grazia-a-minetti_c4f078b3-aee7-457c-af05-7ab462a109ce.html",
-        "https://www.ilfattoquotidiano.it/2026/06/04/mattarella-grazia-minetti-confermata-parere-procura-generale-milano-ultime-notizie/8408645/",
-        "https://www.ilmessaggero.it/politica/nicole_minetti_grazia_nessuna_rivalutazione-9573216.html",
-        "https://www.ilgiornale.it/news/quirinale/mattarella-prende-atto-delle-conclusioni-procura-e-chiude-2674120.html",
-        "https://www.repubblica.it/politica/2026/06/04/news/caso_minetti_mattarella_procura_grazia-425389310/"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Maturità 2026, oggi i nomi dei commissari esterni: dove trovarli, il calendario e le novità",
       "source_count": 8,
       "article_count": 9,
@@ -192,6 +174,27 @@
         "https://www.fanpage.it/attualita/commissioni-maturita-2026-sito-mim-aggiornamento-4-giugno/",
         "https://www.ilgiornale.it/news/attualit/maturit-2026-oggi-i-nomi-commissari-esterni-dove-trovarli-2674063.html",
         "https://www.ilfattoquotidiano.it/2026/06/04/maturita-2026-debutta-il-nuovo-modello-caccia-ai-commissari-esterni-in-arrivo-i-nomi/8408228/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "I braccianti uccisi perché non volevano stare in 10 in una stanza",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/04/i-braccianti-uccisi-dopo-una-lite-non-volevano-stare-in-10-in-una-stanza_9bfa2f5d-7337-4567-98c2-ab386fb817b8.html",
+        "https://www.fanpage.it/attualita/braccianti-bruciati-vivi-ad-amendolara-il-gip-uccisi-perche-si-lamentavano-di-dover-stare-in-10-in-una-stanza/",
+        "https://www.ilgiornale.it/news/cronaca-nera/braccianti-uccisi-lite-non-volevano-stare-10-stanza-2674278.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/04/i-braccianti-uccisi-perche-non-volevano-stare-in-10-in-una-stanza_9bfa2f5d-7337-4567-98c2-ab386fb817b8.html",
+        "https://www.ilmessaggero.it/italia/braccianti_bruciati_vivi_non_volevano_stare_in_10_stanza_cosa_e_successo-9573501.html"
       ]
     },
     {
@@ -219,21 +222,24 @@
     },
     {
       "rank": 10,
-      "title": "Vannacci: \"Pozzolo non era ubriaco, rimane in Futuro Nazionale\"",
-      "source_count": 4,
-      "article_count": 7,
+      "title": "Zelensky scrive a Putin: \"Incontriamoci\". Il Cremlino: \"Venga a Mosca quando vuole\"",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilgiornale.it"
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.adnkronos.com/politica/vannacci-futuro-nazionale-pozzolo-news_6Ec77Iu15TBmB4Tip5RVFj",
-        "https://www.liberoquotidiano.it/news/tv-news/48026301/fnv-vannacci-pozzolo-resta-nel-partito-non-lascio-nessuno-indietro/",
-        "https://www.lastampa.it/politica/2026/06/04/news/vannacci_pozzolo_resta_in_futuro_nazionale-15647457/",
-        "https://www.ilgiornale.it/news/politica/nuovi-guai-sparo-pozzolo-va-fuori-strada-positivo-allalcol-2673824.html",
-        "https://www.ilgiornale.it/news/interni/essere-positivi-all-alcoltest-non-significa-essere-ubriachi-2673944.html"
+        "https://ilmanifesto.it/zelensky-a-putin-incontriamoci-per-finire-la-guerra",
+        "https://www.ilmessaggero.it/mondo/zelensky_lettera_putin_fine_guerra_ucraina_cosa_succede_ora-9573723.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/04/ucraina-lettera-aperta-di-zelensky-a-putin-incontriamoci.-lo-zar-pronti-a-una-soluzione_b7213e4e-ef3c-43f5-91cd-b1823b212eca.html",
+        "https://www.ilfattoquotidiano.it/2026/06/04/zelensky-putin-incontro-pace-notizie/8409171/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/04/lettera-aperta-di-zelensky-a-putin-incontriamoci.-lo-zar-pronti-a-una-soluzione-pacifica_b7213e4e-ef3c-43f5-91cd-b1823b212eca.html"
       ]
     }
   ]
