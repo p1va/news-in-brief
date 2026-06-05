@@ -1,16 +1,16 @@
 {
   "date": "2026-06-05",
-  "generated_at": "Fri 05 Jun 10:04",
+  "generated_at": "Fri 05 Jun 13:58",
   "stories": [
     {
       "rank": 1,
       "title": "L'apertura di Putin: \"Ora negoziamo\". Zelensky: \"Vediamoci\". Trump: \"Bellissimo\"",
       "source_count": 9,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "unita.it",
-        "liberoquotidiano.it",
         "ansa.it",
         "laverita.info",
         "repubblica.it",
@@ -19,19 +19,20 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/48033346/trump-felice-che-zelensky-e-putin-parlino-di-incontrarsi-/",
         "https://www.ilgiornale.it/news/politica/lapertura-putin-ora-negoziamo-zelensky-vediamoci-trump-2674330.html",
         "https://www.unita.it/2026/06/05/ucraina-zelensky-proposta-incontro-putin-pace/",
         "https://www.liberoquotidiano.it/news/tv-news/48032487/ucraina-zelensky-a-putin-incontriamoci-per-mettere-fine-a-guerra/",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/06/05/prime-pagine-putin-zelensky-segnali-di-pace_b82ef937-32a5-4c41-b341-3dcef2c3f66d.html",
-        "https://www.laverita.info/zelensky-putin-dialogo-pace-2677001053.html"
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/06/05/prime-pagine-putin-zelensky-segnali-di-pace_b82ef937-32a5-4c41-b341-3dcef2c3f66d.html"
       ]
     },
     {
       "rank": 2,
-      "title": "Nucleare, c'è il sì alla svolta. Ok alle centrali del futuro",
-      "source_count": 6,
-      "article_count": 7,
+      "title": "\"Produrremo energia con tecnologie di nuova generazione\"",
+      "source_count": 7,
+      "article_count": 10,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "ansa.it",
         "fanpage.it",
@@ -40,15 +41,78 @@
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48036683/nucleare-pichetto-confida-di-approvare-legge-delega-entro-l-estate/",
+        "https://www.liberoquotidiano.it/news/tv-news/48036528/pichetto-fratin-sul-nucleare-servono-informazione-e-trasparenza/",
+        "https://www.liberoquotidiano.it/news/tv-news/48036519/nucleare-pichetto-fratin-reattori-vicino-a-industrie-e-data-center/",
         "https://www.ilgiornale.it/news/produrremo-energia-tecnologie-nuova-generazione-2674340.html",
-        "https://www.ilgiornale.it/news/politica/nucleare-c-s-svolta-ok-centrali-futuro-2674326.html",
-        "https://www.ansa.it/ansa2030/notizie/energia_energie/2026/06/05/litalia-torna-allatomo-50-anni-dopo_7837afd3-559c-4e46-83b4-872dd409f6a8.html",
-        "https://www.fanpage.it/politica/nucleare-litalia-verso-un-nuovo-referendum-pichetto-fratin-spiega-come-e-perche/",
-        "https://www.repubblica.it/economia/2026/06/05/news/nucleare_italiano_tempi_costi_piano_legge_delega_governo-425390340/"
+        "https://www.ilgiornale.it/news/politica/nucleare-c-s-svolta-ok-centrali-futuro-2674326.html"
       ]
     },
     {
       "rank": 3,
+      "title": "Drone navale esplode nel porto rumeno di Costanza. Attacco russo nella regione di Kiev",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "fanpage.it",
+        "ansa.it",
+        "repubblica.it",
+        "unita.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/esteri/drone-navale-esplode-nel-porto-di-costanza-in-romania-diretta-conseguenza-della-guerra-russia-ucraina/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/05/ucraina-putin-le-elite-europee-provocano-il-caos_9a03b6b3-453c-4f92-94d6-eabaa9dff3ab.html",
+        "https://www.repubblica.it/esteri/2026/06/05/diretta/guerra_ucraina_russia_news_oggi-425390469/",
+        "https://www.unita.it/2026/06/05/drone-ucraino-esplode-porto-costanza-romania/",
+        "https://www.lastampa.it/esteri/2026/06/05/video/romania_esplosione_drone_porto_giornalista_fugge_costanza-15648557/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Palermo, manifesti contro le nozze di Dua Lipa e Callum Turner: “La nostra piazza non è il tuo salotto”",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ansa.it",
+        "lastampa.it",
+        "palermo.repubblica.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/italia/dua_lipa_matrimonio_palermo_rivolta_residenti_strade_chiuse-9575223.html",
+        "https://www.adnkronos.com/spettacoli/matrimonio-dua-lipa-protesta-palermo-volantini_6DKShQjMhrcWHa3J6sU4Ba",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/05/palermo-is-not-for-rent-i-manifesti-contro-le-strade-blindate-per-il-matrimonio_0a19797b-4cc7-49a4-8c7d-14cc9008fff8.html",
+        "https://www.lastampa.it/spettacoli/2026/06/05/news/palermo_matrimonio_dua_lipa_callum_turner_proteste_poster-15648384/",
+        "https://palermo.repubblica.it/cronaca/2026/06/05/news/poster_protesta_contro_dua_lipa_centro_storico-425390845/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "L'attore James Handy ucciso a Los Angeles, Hollywood sotto choc",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/06/05/media-accoltellato-a-morte-lattore-james-handy-aveva-recitato-in-top-gun_9b28ab12-414f-424e-a88d-2c9bf8a2c505.html",
+        "https://www.ilgiornale.it/news/cinema/ucciso-lattore-james-handy-arrestato-figlio-compagna-2674449.html",
+        "https://www.adnkronos.com/spettacoli/james-handy-omicidio-hollywood-attore-morto_3FkbX50uhcC0aTxWJErwv6",
+        "https://www.ilmessaggero.it/persone/james_handy_ucciso_ucciso_attore_chi_era_cosa_e_successo-9574905.html",
+        "https://www.lastampa.it/spettacoli/2026/06/05/news/james_handy_ucciso_attore_top_gun_los_angeles-15648263/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Marco Poggi parla in tv dopo 19 anni: “Rovinato il ricordo di Chiara”",
       "source_count": 5,
       "article_count": 6,
@@ -68,55 +132,59 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Dove vedere la semifinale del Roland Garros fra Matteo Arnaldi e Flavio Cobolli",
-      "source_count": 4,
-      "article_count": 5,
+      "rank": 7,
+      "title": "“Senza abbonamento non sali”: autista del bus lascia in mezzo alla strada un bambino di 11 anni",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "repubblica.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/dossier/roland-garros/2026/06/05/diretta/bolelli_vavassori_granollers_zeballos_roland_garros_oggi-425391078/",
-        "https://www.adnkronos.com/sport/zverev-mensik-oggi-semifinale-roland-garros-2026-orario-dove-vederla-tv_7f3rrISpqz16nIojopbOSY",
-        "https://www.repubblica.it/sport/dossier/roland-garros/2026/06/05/news/arnaldi_cobolli_roland_garros_semifinale_oggi-425390265/",
-        "https://www.lastampa.it/sport/2026/06/05/news/arnaldi_cobolli_derby_semifinale_parigi-15647870/",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWE1JMUNOUmFFY0xCbTdVYkpwYWdINDBWQ081R25Wdzk4T0lTSUpTVWlDaTJuVDl5SkpYUmJ5TldkWVVfZjVlcGEwT0c3Q2daZ0hLMmZBMXh4eWNwb1RjWDFTcW5yOHBzS25sRnJJeUZmQnZRQ1p0aUQtYkxrX003R2h5cThsQzlpTTdPMmJmWQ?oc=5"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Mattarella conferma la grazia a Minetti e seppellisce Travaglio: il Quirinale chiude il caso",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "unita.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it"
+        "ansa.it",
+        "fanpage.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/quirinale/mattarella-confermata-grazia-2674453.html",
-        "https://www.unita.it/2026/06/05/mattarella-conferma-la-grazia-a-minetti-e-seppellisce-travaglio-il-quirinale-chiude-il-caso/",
-        "https://ilmanifesto.it/mattarella-nessun-privilegio-per-minetti",
-        "https://www.ilmessaggero.it/politica/nicole_minetti_grazia_decisione_mattarella_cosa_e_successo-9573730.html",
-        "https://www.unita.it/2026/06/04/travaglio-fallisce-lassalto-al-quirinale-mattarella-esce-dalla-vicenda-minetti-sempre-piu-forte/"
+        "https://www.ilfattoquotidiano.it/2026/06/05/senza-biglietto-non-puoi-salire-ragazzino-di-11-anni-lasciato-a-piedi-dal-bus-perche-ha-dimenticato-labbonamento/8409839/",
+        "https://www.ilgiornale.it/news/attualit/bimbo-11-anni-non-ha-labbonamento-bus-lautista-fa-scendere-2674617.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/05/lasciato-a-terra-dallautista-del-bus-11enne-torna-a-casa-a-piedi_20f0d91f-e68b-422c-bd21-5a1aca95d83c.html",
+        "https://www.fanpage.it/attualita/bimbo-di-11-anni-dimentica-labbonamento-del-bus-lautista-non-lo-fa-salire-il-caso-nel-torinese/",
+        "https://www.lastampa.it/torino/2026/06/05/news/studente_lasciato_fuori_bus_luserna_san_giovanni_assoutenti-15648438/"
       ]
     },
     {
-      "rank": 6,
-      "title": "Istat: stima crescita Pil +0,7% nel 2026 e 2027. Inflazione in risalita",
-      "source_count": 4,
-      "article_count": 4,
+      "rank": 8,
+      "title": "Crans-Montana, la madre di una delle vittime: \"Voglio risposte\". Jessica Moretti: \"Contro di noi solo falsità\"",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/crans-montana-oggi-confronto-moretti-udienza-nuove-accuse-ultime-news_2D5UyVAVknGS7lz6FGXUN",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/05/crans-montana-oggi-i-moretti-a-confronto-davanti-ai-magistrati_8db0c2c9-d3aa-40f8-80cb-bc731a79dee0.html",
+        "https://www.ilmessaggero.it/mondo/crans_montana_jessica_moretti_interrogatorio_falsita_cosa_ha_detto-9575031.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48033521/i-familiari-delle-vittime-di-crans-montana-chiedono-risposte-/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/crans-montana-madre-delle-vittime-voglio-risposte-2674529.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Istat: stima crescita Pil +0,7% nel 2026 e 2027. Inflazione in risalita",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "liberoquotidiano.it",
         "adnkronos.com",
         "ansa.it",
         "repubblica.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/economia/48033317/istat-altra-botta-gufi-pil-crescita-2026-2027/",
         "https://www.adnkronos.com/economia/istat-stime-2026-2027-pil-inflazione-occupazione-consumi_4GYySEYVwNqUhBVzbA4lrO",
         "https://www.ansa.it/sito/notizie/economia/2026/06/05/istat-pil-atteso-07-nel-2026-e-nel-2027_b037996e-c1fd-4bba-aa34-3175f7e6c3ac.html",
         "https://www.repubblica.it/economia/2026/06/05/news/istat_inflazione_pil_guerra_nota_andamento_economia-425391011/",
@@ -124,75 +192,22 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Guerra in Medio Oriente, news. Protezione civile: “In Libano sette morti nei raid di Israele a Tiro”",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/06/05/diretta/guerra_iran_usa_israele_news_oggi-425390475/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/05/medio-oriente-netanyahu-non-fa-votare-la-tregua-con-il-libano-hezbollah-si-oppone_d8fc1e0c-d8f5-47bd-94cd-c4597e6cd139.html",
-        "https://www.ilgiornale.it/news/guerra/attacco-droni-porto-delloman-interrotto-carico-petrolio-2674423.html",
-        "https://www.lastampa.it/esteri/2026/06/05/diretta/guerra_iran_usa_israele_news_oggi-15647883/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Addio alla creatrice di Persepolis. \"Distrutta dalla morte del marito\"",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/addio-creatrice-persepolis-distrutta-morte-marito-2674337.html",
-        "https://www.repubblica.it/cultura/2026/06/05/news/marjane_satrapi_che_sapeva_disegnare_la_cognizione_del_dolore-425390162/",
-        "https://ilmanifesto.it/ha-trasformato-linfanzia-in-una-favola-universale",
-        "https://www.ilmessaggero.it/persone/marjane_satrapi_morta_dolore_causa_morte_marito_mattias_ripa_chi_era-9573034.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Menia (FdI) contro una coppia gay: “Basta carezze in pubblico”. Scalfarotto (Iv): “Omofobo”",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/politica/fiumicino-il-senatore-menia-fdi-contro-una-coppia-gay-allaeroporto-le-effusioni-fatele-a-casa-vostra/",
-        "https://www.ansa.it/sito/notizie/politica/2026/06/05/scalfarotto-menia-intollerante-ed-omofobo_ffb42568-ed4a-40ea-b4f5-4b4435c3419e.html",
-        "https://www.lastampa.it/politica/2026/06/05/news/aeroporto_fiumicino_effusioni_gay_senatore_menia_critiche-15648357/",
-        "https://www.repubblica.it/politica/2026/06/04/news/menia_senatore_fdi_contro_coppia_gay-425390394/"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "L'attore James Handy ucciso a Los Angeles, Hollywood sotto choc",
+      "title": "Roland Garros, la semifinale Mensik – Zverev in diretta: 4-4",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 6,
       "source_domains": [
-        "ilgiornale.it",
+        "repubblica.it",
         "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/cinema/ucciso-lattore-james-handy-arrestato-figlio-compagna-2674449.html",
-        "https://www.adnkronos.com/spettacoli/james-handy-omicidio-hollywood-attore-morto_3FkbX50uhcC0aTxWJErwv6",
-        "https://www.ilmessaggero.it/persone/james_handy_ucciso_ucciso_attore_chi_era_cosa_e_successo-9574905.html",
-        "https://www.lastampa.it/spettacoli/2026/06/05/news/james_handy_ucciso_attore_top_gun_los_angeles-15648263/"
+        "https://www.repubblica.it/sport/tennis/2026/06/05/diretta/roland_garros_semifinale_mensik_zverev_diretta-425391563/",
+        "https://www.adnkronos.com/sport/diretta-zverev-mensik-oggi-roland-garros-2026-risultato-live_3XI3FMEnYsdxr376Qe9qve",
+        "https://www.adnkronos.com/sport/zverev-mensik-oggi-semifinale-roland-garros-2026-orario-dove-vederla-tv_7f3rrISpqz16nIojopbOSY",
+        "https://www.repubblica.it/sport/dossier/roland-garros/2026/06/05/news/arnaldi_cobolli_roland_garros_semifinale_oggi-425390265/",
+        "https://www.lastampa.it/sport/2026/06/05/news/arnaldi_cobolli_derby_semifinale_parigi-15647870/"
       ]
     }
   ]
