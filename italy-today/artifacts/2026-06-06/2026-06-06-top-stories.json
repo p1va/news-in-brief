@@ -1,6 +1,6 @@
 {
   "date": "2026-06-06",
-  "generated_at": "Sat 06 Jun 18:15",
+  "generated_at": "Sat 06 Jun 20:17",
   "stories": [
     {
       "rank": 1,
@@ -124,7 +124,7 @@
       "rank": 6,
       "title": "Proteste e piume di struzzo, Dua Lipa divide Palermo: “Non siamo il tuo salotto”",
       "source_count": 8,
-      "article_count": 14,
+      "article_count": 13,
       "source_domains": [
         "ilmessaggero.it",
         "ansa.it",
@@ -169,6 +169,30 @@
     },
     {
       "rank": 8,
+      "title": "Ucraina, Putin: \"Non vedo il senso di faccia a faccia con Zelensky\"",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "unita.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmanifesto.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/putin-strappa-lettera-zelensky-rabbia-kiev-ha-scelto-guerra-2674881.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48051046/ucraina-putin-non-vedo-il-senso-di-faccia-a-faccia-con-zelensky-/",
+        "https://www.liberoquotidiano.it/news/libero-video/48051041/ucraina-zelensky-putin-ha-scelto-ancora-la-guerra-/",
+        "https://www.fanpage.it/esteri/putin-deride-la-lettera-di-zelensky-e-rilancia-la-guerra-lanalisi-ha-scelto-di-continuare-a-combattere/",
+        "https://www.unita.it/2026/06/06/putin-stoppa-zelensky-e-lapertura-ucraina-per-la-pace-lo-zar-dice-no-a-un-incontro-per-terminare-la-guerra/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "De Martino: il Festival di Sanremo 2027 dal 16 al 20 febbraio",
       "source_count": 9,
       "article_count": 9,
@@ -192,49 +216,25 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Meloni diserta il vertice Ue-Balcani",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "fanpage.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/06/05/meloni-non-va-al-vertice-ue-balcani_2942f2d7-2a5b-47b3-96a1-2e9e730697f7.html",
-        "https://www.fanpage.it/politica/il-caso-del-vertice-europeo-sui-balcani-saltato-da-meloni-era-alla-presentazione-di-un-francobollo/",
-        "https://www.lastampa.it/politica/2026/06/06/news/tivat_balcani_meloni_assente_ucraina_truppe-15649422/",
-        "https://www.repubblica.it/politica/2026/06/06/news/giorgia_meloni_reggio_calabria_vertice_europa_balcani-425392414/",
-        "https://ilmanifesto.it/meloni-diserta-il-vertice-ue-fermata-da-un-francobollo"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Putin strappa la lettera di Zelensky. Rabbia Kiev: \"Ha scelto la guerra\"",
-      "source_count": 8,
+      "title": "Medio Oriente: gli Usa colpiscono postazioni radar iraniane. Teheran lancia raid su 'basi nemiche'",
+      "source_count": 7,
       "article_count": 8,
       "source_domains": [
-        "ilgiornale.it",
+        "ansa.it",
         "liberoquotidiano.it",
-        "fanpage.it",
-        "unita.it",
         "repubblica.it",
-        "adnkronos.com",
-        "ilmanifesto.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/putin-strappa-lettera-zelensky-rabbia-kiev-ha-scelto-guerra-2674881.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48051046/ucraina-putin-non-vedo-il-senso-di-faccia-a-faccia-con-zelensky-/",
-        "https://www.fanpage.it/esteri/putin-deride-la-lettera-di-zelensky-e-rilancia-la-guerra-lanalisi-ha-scelto-di-continuare-a-combattere/",
-        "https://www.unita.it/2026/06/06/putin-stoppa-zelensky-e-lapertura-ucraina-per-la-pace-lo-zar-dice-no-a-un-incontro-per-terminare-la-guerra/",
-        "https://www.repubblica.it/esteri/2026/06/06/news/putin_nega_incontro_zelensky_schroeder_russia_elite_europee_provocano_caos-425392606/"
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/06/06/raid-degli-usa-su-stazioni-radar-liran-vuole-i-beni-congelati_470abd1c-adf7-43aa-8619-f29a45c1b0b2.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48053191/iran-teheran-attacca-bahrein-kuwait-immagini-missili-droni-intercettati/",
+        "https://www.repubblica.it/esteri/2026/06/06/diretta/guerra_iran_usa_israele_news_oggi-425392715/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/06/gli-usa-hanno-colpito-postazioni-radar-iraniane-di-sorveglianza-costiera-a-goruk_7e870aed-f5cf-463f-9bd2-26769dd7e6c7.html",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/06/attacco-usa-iran-radar-missili-notizie/8410658/"
       ]
     }
   ]
