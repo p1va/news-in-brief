@@ -1,14 +1,37 @@
 {
   "date": "2026-06-07",
-  "generated_at": "Sun 07 Jun 14:08",
+  "generated_at": "Sun 07 Jun 16:25",
   "stories": [
     {
       "rank": 1,
+      "title": "F1: A Monaco Antonelli parte dalla pole, terza la Ferrari di Hamilton DIRETTA",
+      "source_count": 8,
+      "article_count": 22,
+      "source_domains": [
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/motori/leclerc-furibondo-per-i-freni-della-ferrari-nel-gp-monaco-sembro-un-idiota-ma-cosi-e-pericoloso/",
+        "https://www.ilfattoquotidiano.it/2026/06/07/gp-monaco-antonelli-vince-leclerc-ritiro-notizie/8411634/",
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/06/07/f1-gp-di-monaco-vince-antonelli-seconda-la-ferrari-di-hamilton_7bb34f63-3b83-4bd6-a3a6-5c5268cecf16.html",
+        "https://www.ilgiornale.it/news/motori/f1-antonelli-stratosferico-monaco-hamilton-secondo-leclerc-2675371.html",
+        "https://www.adnkronos.com/sport/formula-1-oggi-ordine-arrivo-gp-montecarlo-classifica-mondiale-antonelli_4AJufJxYN6qmXzXWORmNu5"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Roland Garros, la finale: oggi Cobolli-Zverev - Diretta",
       "source_count": 8,
-      "article_count": 18,
+      "article_count": 19,
       "source_domains": [
-        "repubblica.it",
+        "d.repubblica.it",
         "fanpage.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
@@ -18,25 +41,47 @@
         "lastampa.it"
       ],
       "links": [
+        "https://d.repubblica.it/culture/celebrity/2026/06/07/news/finale_roland_garros_2026_vip_lenny_kravitz_marion_cotillard_lea_seydoux-425395302/",
         "https://www.repubblica.it/sport/dossier/roland-garros/2026/06/07/diretta/cobolli_zverev_finale_roland_garros_diretta-425395042/",
         "https://www.fanpage.it/sport/tennis/quanto-guadagna-cobolli-se-vince-il-roland-garros-punti-e-montepremi/",
         "https://www.adnkronos.com/sport/cobolli-zverev-russell-crowe-finale-roland-garros-2026-gladiatore_328ZrHtxB10s3ONaNqWU3z",
-        "https://www.ilfattoquotidiano.it/sport-miliardi/live-post/2026/06/07/cobolli-zverev-finale-roland-garros-diretta-oggi-7-giugno/8411498/",
-        "https://www.adnkronos.com/sport/diretta-cobolli-zverev-oggi-finale-roland-garros-2026-risultato-live_4hrVVrizSbRm7fB7p7Iz6Z"
+        "https://www.ilfattoquotidiano.it/sport-miliardi/live-post/2026/06/07/cobolli-zverev-finale-roland-garros-diretta-oggi-7-giugno/8411498/"
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
+      "title": "MotoGp, Marc Marquez trionfa in Ungheria: vittoria numero 100. Bagnaia 3°, Bezzecchi subito fuori",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/moto/2026/06/07/motogp-marquez-padrone-in-ungheria-sono-cento-vittorie-_a3a1c222-2396-466d-8927-522ff96addc1.html",
+        "https://www.ilmessaggero.it/sport/moto/motogp_marquez_vince_gp_ungheria_bagnaia_bezzecchi_di_giannantonio_incidente-9578930.html",
+        "https://www.ilgiornale.it/news/altri-sport/motogp-marc-marquez-domina-ungheria-e-fa-100-vittorie-2675355.html",
+        "https://www.fanpage.it/sport/motori/jorge-martin-punito-dalla-motogp-dopo-lincidente-con-bezzecchi-in-ungheria-come-stanno-i-piloti/",
+        "https://www.ansa.it/sito/notizie/sport/moto/2026/06/07/motogp-in-ungheria-vince-marc-marquez-seconda-la-ktm-di-acosta_a3a1c222-2396-466d-8927-522ff96addc1.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Comunali 2026, ballottaggio in sei capoluoghi: urne aperte dalle 7 alle 23. Primo turno in Sardegna",
-      "source_count": 9,
-      "article_count": 11,
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
         "adnkronos.com",
         "repubblica.it",
-        "ilmanifesto.it",
         "lastampa.it",
         "ilmessaggero.it",
         "ilsole24ore.com"
@@ -47,49 +92,6 @@
         "https://www.ilgiornale.it/news/interni/amministrative-ai-ballottaggi-12-regioni-si-vota-fino-23-2675266.html",
         "https://www.ansa.it/sito/notizie/politica/2026/06/07/urne-aperte-in-12-regioni-per-i-ballottaggi-e-per-il-voto-in-148-comuni-in-sardegna_f22a4f3a-752b-47fe-8073-563fdb9a0beb.html",
         "https://www.adnkronos.com/politica/elezioni-amministrative-2026-ballottaggi-oggi-domani_1sOrxVCvg3Y0gpEAjJ02DC"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "F1: A Monaco Antonelli parte dalla pole, terza la Ferrari di Hamilton DIRETTA",
-      "source_count": 6,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/06/06/f1-antonelli-stellare-a-monaco-con-una-storica-pole-terza-la-ferrari-di-hamilton_c77fd2fe-1ea2-4367-b30b-d58f9dc94d83.html",
-        "https://www.adnkronos.com/sport/gp-montecarlo-formula-1_2k3KmEPUJ8WtadijXo7AKh",
-        "https://www.ilmessaggero.it/sport/formula1/gp_monaco_diretta_formula_1_antonelli_hamilton_leclerc-9578842.html",
-        "https://www.adnkronos.com/sport/fred-vasseur-ferrari-gp-montecarlo_OwkFvWaX2HgPuFiP3aIEM",
-        "https://www.adnkronos.com/sport/diretta-formula-1-oggi-gp-montecarlo-gara-classifica-live_2F6AUF20z4dTWxxzlkza69"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "MotoGp, Marc Marquez trionfa in Ungheria: vittoria numero 100. Bagnaia 3°, Bezzecchi subito fuori",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "fanpage.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/moto/2026/06/07/motogp-in-ungheria-vince-marc-marquez-seconda-la-ktm-di-acosta_a3a1c222-2396-466d-8927-522ff96addc1.html",
-        "https://www.repubblica.it/sport/moto-gp/2026/06/07/news/marc_marquez_vince_gp_ungheria_motogp-425395183/",
-        "https://www.ilfattoquotidiano.it/2026/06/07/motogp-ungheria-ordine-di-arrivo-classifica-mondiale-oggi/8411521/",
-        "https://www.adnkronos.com/sport/motogp-oggi-ordine-arrivo-gp-ungheria-classifica-mondiale-marquez-bezzecchi_1nRGHKidA8nxYSxS15zowR",
-        "https://www.lastampa.it/sport/2026/06/07/news/moto_gp_ungheria_marquez_vince_davanti_acosta_e_bagnaia_bezzecchi_fuori_alla_prima_curva-15650482/"
       ]
     },
     {
@@ -138,6 +140,48 @@
     },
     {
       "rank": 7,
+      "title": "La Russa apre verifiche sul caso del senatore Silvestro dopo la denuncia per violenza sessuale",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/interni/senatore-forza-italia-accusato-violenza-presidente-russa-2675345.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/06/07/caso-silvestro-la-russa-chiede-accertamenti-ai-senatori-questori_fd38cde7-c498-4ae6-b8f0-5bfb9c32f982.html",
+        "https://www.adnkronos.com/politica/violenza-sessuale-senato-denuncia-accuse_1auLULrca56wNGsmpOd9G5",
+        "https://www.repubblica.it/politica/2026/06/07/news/francesco_silvestro_violenza_sessuale_senato_reazioni-425394943/",
+        "https://www.lastampa.it/politica/2026/06/07/news/senatore_silvestro_violenza_sessuale_la_russa-15650442/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Banco Bpm propone a Mps un'operazione di aggregazione",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/economia/2026/06/07/banco-bpm-propone-a-mps-una-aggregazione_9fa8a9b6-8495-43b7-9073-71d2eeabd050.html",
+        "https://www.ilgiornale.it/news/banche/banco-bpm-propone-mps-unoperazione-aggregazione-2675358.html",
+        "https://www.repubblica.it/economia/2026/06/07/news/banco_bpm_mps_valore_nuova_banca-425395272/",
+        "https://www.ilmessaggero.it/economia/news/mps_proposta_di_aggregazione_da_bpm-9578883.html",
+        "https://www.ilfattoquotidiano.it/2026/06/07/bpm-proprosta-monte-paschi/8411503/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Stipendi, da oggi scatta la trasparenza salariale: come sapere quanto guadagnano i colleghi in busta paga",
       "source_count": 6,
       "article_count": 6,
@@ -158,7 +202,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Garlasco, parla la mamma di Stasi: “Ci sono elementi forti, a questo punto ci credo ma serve più silenzio”",
       "source_count": 6,
       "article_count": 6,
@@ -176,47 +220,6 @@
         "https://www.ilmessaggero.it/persone/garlasco_alberto_stasi_madre_elisabetta_ligabo_oggi_sempio_cosa_ha_detto-9578665.html",
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/garlasco-mamma-stasi-rompe-silenzio-quando-alberto-sar-2675245.html",
         "https://www.liberoquotidiano.it/news/italia/48058841/garlasco_la_mamma_di_stasi_rompe_il_silenzio_dove_andro_con_alberto_quando_tutto_finira_/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Francesco Silvestro, senatore di Forza Italia accusato di violenza sessuale in Senato. Lui si difende: «Denunci pure. Io un bel ragazzo, lei normale»",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/06/07/silvestro-senatore-denuncia-violenza-sessuale-notizie/8411365/",
-        "https://www.fanpage.it/politica/il-senatore-silvestro-fi-accusato-di-violenza-sessuale-lui-si-difende-io-bel-ragazzo-lei-normale/",
-        "https://www.ilmessaggero.it/persone/francesco_silvestro_forza_italia_violenza_sessuale_chi_e_eta_moglie_cosa_e_successo-9578704.html",
-        "https://www.ilmessaggero.it/politica/francesco_silvestro_forza_italia_violenza_sessuale_chi_e_eta_moglie_cosa_e_successo-9578704.html",
-        "https://www.liberoquotidiano.it/news/italia/48058959/_violenza_in_ufficio_del_senato_il_parlamentare_azzurro_smonta_tutte_le_accuse/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Minetti, la presunta teste ritratta le sue rivelazioni. “Falsi i festini con escort”",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "fanpage.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/politica/caso-minetti-la-testimone-uruguaiana-ritratta-davanti-al-notaio-mai-visti-festini-nella-villa/",
-        "https://www.lastampa.it/cronaca/2026/06/07/news/minetti_la_presunta_teste_ritratta_rivelazioni_falsi_i_festini_con_escort-15650377/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/07/grazia-a-minetti-la-teste-ritratta-mai-visto-festini_3e6727a4-15b3-45b8-be5e-92ff11dad1cc.html",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/caso-minetti-massaggiatrice-ritratta-tutto-spunta-documento-2675256.html",
-        "https://www.repubblica.it/politica/2026/06/07/news/minetti_test_ritratta_rivelazioni_false_festini_quirinale-425394298/"
       ]
     }
   ]
