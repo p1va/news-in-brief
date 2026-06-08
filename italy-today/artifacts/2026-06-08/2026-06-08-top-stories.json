@@ -1,56 +1,33 @@
 {
   "date": "2026-06-08",
-  "generated_at": "Mon 08 Jun 11:10",
+  "generated_at": "Mon 08 Jun 16:07",
   "stories": [
     {
       "rank": 1,
       "title": "Missili iraniani su Tel Aviv, che reagisce. Rotta la tregua di aprile",
       "source_count": 6,
-      "article_count": 11,
+      "article_count": 14,
       "source_domains": [
+        "liberoquotidiano.it",
         "repubblica.it",
         "ansa.it",
         "ilgiornale.it",
         "unita.it",
-        "liberoquotidiano.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48077797/iran-e-israele-annunciano-sospensione-attacchi-trump-sente-netanyahu/",
         "https://www.repubblica.it/esteri/2026/06/08/diretta/guerra_iran_usa_israele_news_oggi-425396054/",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/08/medio-oriente-trump-a-netanyahu-non-rispondere-ai-missili-iraniani-ma-israele-attacca_998b2f97-105e-4a3b-8566-7421ed629483.html",
         "https://www.ilgiornale.it/news/politica/i-jet-israele-colpiscono-beirut-e-liran-furioso-lancia-i-2675413.html",
-        "https://www.unita.it/2026/06/08/iran-israele-tregua-rotta-attacchi-teheran-tel-aviv/",
-        "https://www.ilgiornale.it/news/guerra/i-missili-su-beirut-poi-scoppio-dellescalation-cos-riesploso-2675564.html"
+        "https://www.unita.it/2026/06/08/iran-israele-tregua-rotta-attacchi-teheran-tel-aviv/"
       ]
     },
     {
       "rank": 2,
-      "title": "Terremoto nelle Filippine, scossa di magnitudo 7.8. Edifici crollati e allerta tsunami",
+      "title": "Sinner all’ospedale San Raffaele di Milano per accertamenti programmati, i controlli dopo il malore al Roland Garros",
       "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "unita.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/06/08/terremoto-filippine-morti-feriti-dispersi-scossa-magnitudo-7-8-evacuazioni-tsunami/",
-        "https://www.ilfattoquotidiano.it/2026/06/08/terremoto-filippine-immagini-scossa-diretta-video/8411918/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/terremoto-nelle-filippine-scossa-magnitudo-78-edifici-2675579.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/08/terremoto-di-magnitudo-7.8-nelle-filippine-un-morto-4-feriti-e-numerosi-edifici-crollati_8e537acf-2efb-4aec-933c-f6622d1bf7f2.html",
-        "https://www.lastampa.it/esteri/2026/06/08/video/terremoto_nelle_filippine_un_edificio_si_sbriciola_in_pochi_secondi-15651396/"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Jannik Sinner in ospedale al San Raffaele di Milano per accertamenti dopo il malore al Roland Garros",
-      "source_count": 8,
-      "article_count": 8,
+      "article_count": 10,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ilgiornale.it",
@@ -62,15 +39,59 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/06/08/fascia-al-braccio-e-sorriso-sinner-lascia-il-san-raffaele-dopo-gli-accertamenti-le-ipotesi-sugli-esami-effettuati/8412556/",
         "https://www.ilfattoquotidiano.it/2026/06/08/sinner-ospedale-san-raffaele-milano-esami-clinici-oggi-cosa-sappiamo/8412149/",
         "https://www.ilgiornale.it/news/tennis/sinner-ospedale-san-raffaele-milano-accertamenti-programmati-2675692.html",
         "https://www.fanpage.it/sport/tennis/jannik-sinner-in-ospedale-al-san-raffaele-di-milano-per-accertamenti-dopo-il-malore-al-roland-garros/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/06/08/sinner-in-day-hospital-al-san-raffaele-di-milano-per-accertamenti_7c4e915e-082d-43a6-9426-9719226e03cd.html",
-        "https://www.adnkronos.com/sport/sinner-come-sta-esami-roland-garros-ultime-news-ritorno-campo_7pn1NbUWnoROTEXch8HzuT"
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/06/08/sinner-in-day-hospital-al-san-raffaele-di-milano-per-accertamenti_7c4e915e-082d-43a6-9426-9719226e03cd.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Terremoto nelle Filippine, scossa di magnitudo 7.8. Edifici crollati e allerta tsunami",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.unita.it/2026/06/08/terremoto-filippine-morti-feriti-dispersi-scossa-magnitudo-7-8-evacuazioni-tsunami/",
+        "https://www.ilfattoquotidiano.it/2026/06/08/terremoto-filippine-immagini-scossa-diretta-video/8411918/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/terremoto-nelle-filippine-scossa-magnitudo-78-edifici-2675579.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/08/terremoto-di-magnitudo-7.8-nelle-filippine-un-morto-4-feriti-e-numerosi-edifici-crollati_8e537acf-2efb-4aec-933c-f6622d1bf7f2.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48069408/filippine-terremoto-magnitudo-7-8-nel-sud-ci-sono-morti/"
       ]
     },
     {
       "rank": 4,
+      "title": "Intesa Sanpaolo ha fatto un’offerta per acquistare MPS",
+      "source_count": 5,
+      "article_count": 11,
+      "source_domains": [
+        "repubblica.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/economia/2026/06/08/news/mps_giorgetti_offerta_di_intesa-425397394/",
+        "https://www.lastampa.it/economia/2026/06/08/news/intesa_mps_alleanze_schieramento_big-15651621/",
+        "https://www.repubblica.it/economia/2026/06/08/diretta/intesa_mps_bper_bpm_unipol_generali_ultime_notizie_oggi-425396357/",
+        "https://www.ilgiornale.it/news/banche/anche-banco-bpm-vuole-scambiare-fedi-siena-nozze-50-miliardi-2675508.html",
+        "https://www.ilgiornale.it/news/banche/prove-superbanca-2675502.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Caccia Nato in volo sul Baltico: abbattuto un drone in territorio lettone",
       "source_count": 7,
       "article_count": 8,
@@ -92,27 +113,48 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Intesa Sanpaolo ha fatto un’offerta per acquistare MPS",
-      "source_count": 5,
-      "article_count": 9,
+      "rank": 6,
+      "title": "Antonelli extraterrestre: con una prestazione superba sbanca Montecarlo. É il più giovane di tutti i tempi",
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
-        "repubblica.it",
-        "ilgiornale.it",
         "ilmessaggero.it",
-        "lastampa.it",
-        "news.google.com"
+        "fanpage.it",
+        "ilgiornale.it",
+        "laverita.info",
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.repubblica.it/economia/2026/06/08/diretta/intesa_mps_bper_bpm_unipol_generali_ultime_notizie_oggi-425396357/",
-        "https://www.ilgiornale.it/news/banche/anche-banco-bpm-vuole-scambiare-fedi-siena-nozze-50-miliardi-2675508.html",
-        "https://www.ilgiornale.it/news/banche/prove-superbanca-2675502.html",
-        "https://www.ilgiornale.it/news/banche/scalata-mps-si-profila-accordo-cimbri-lovaglio-2675603.html",
-        "https://www.ilgiornale.it/news/banche/risiko-bancario-allultima-curva-2675463.html"
+        "https://www.ilmessaggero.it/blog/milleruote/antonelli_extraterrestre_con_una_prestazione_superba_sbanca_montecarlo_e_il_piu_giovane_di_tutti_i_tempi-9580354.html",
+        "https://motori.ilmessaggero.it/motorsport/antonelli_extraterrestre_con_una_prestazione_superba_sbanca_montecarlo_e_il_piu_giovane_di_tutti_i_tempi-9580354.html",
+        "https://www.fanpage.it/sport/motori/kimi-antonelli-a-monaco-ha-ignorato-le-istruzioni-di-mercedes-rallenta-ma-lui-continuava-a-volare/",
+        "https://www.ilgiornale.it/news/motori/kimi-vola-ragazzo-vola-2675483.html",
+        "https://www.laverita.info/antonelli-vince-monaco-f1-2677010043.html"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Vaticano, il Papa alle Cortes: «Le armi non costruiscono una pace duratura»",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "lastampa.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.lastampa.it/esteri/2026/06/08/news/papa_leone_spagna_riavvicinare_stato_chiesa-15651698/",
+        "https://www.ansa.it/vaticano/notizie/2026/06/08/il-papa-ai-vescovi-spagnoli-dare-riparazioni-a-vittime-abusi_e8251bed-0820-4b49-9a2d-44888dc9a6ac.html",
+        "https://www.repubblica.it/esteri/2026/06/08/news/leone_xiv_viaggio_spagna_discorso_parlamento_spagnolo_incontro_vittime_abusi_chiesa-425396756/",
+        "https://www.ilgiornale.it/news/vaticano/papa-spagna-lincontro-privato-sanchez-e-poi-discorso-2675610.html",
+        "https://www.lastampa.it/esteri/2026/06/08/news/papa_leone_parlamento_spagnolo-15651483/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Ballottaggi comunali 2026: i risultati in diretta. Si vota fino alle 15, poi lo spoglio",
       "source_count": 5,
       "article_count": 6,
@@ -132,78 +174,42 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Antonelli extraterrestre: con una prestazione superba sbanca Montecarlo. É il più giovane di tutti i tempi",
+      "rank": 9,
+      "title": "Commissione Covid, l'opposizione lascia i lavori: cittadini interrogati in commissariato",
       "source_count": 5,
       "article_count": 6,
       "source_domains": [
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "laverita.info",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/blog/milleruote/antonelli_extraterrestre_con_una_prestazione_superba_sbanca_montecarlo_e_il_piu_giovane_di_tutti_i_tempi-9580354.html",
-        "https://www.fanpage.it/sport/motori/kimi-antonelli-a-monaco-ha-ignorato-le-istruzioni-di-mercedes-rallenta-ma-lui-continuava-a-volare/",
-        "https://www.ilgiornale.it/news/motori/kimi-vola-ragazzo-vola-2675483.html",
-        "https://www.laverita.info/antonelli-vince-monaco-f1-2677010043.html",
-        "https://www.lastampa.it/sport/2026/06/08/news/kimi_antonelli_ora_la_pressione_non_mi_distrugge_piu_l_unico_che_poteva_fermarmi_ero_io-15651051/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Cobolli si ferma a un passo dal sogno: Zverev vince il Roland Garros dopo cinque set",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
         "fanpage.it",
         "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "laverita.info"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/tennis/panatta-cobolli-mi-ha-svelato-che-non-riusciva-piu-a-giocare-a-zverev-ho-detto-welcome-to-the-club/",
-        "https://www.ilfattoquotidiano.it/2026/06/08/zverev-roland-garros-2026-campione-slam-chi-e-storia-carriera-infortunio-diabete-tabu/8411983/",
-        "https://www.liberoquotidiano.it/news/sport/48069353/zverev-tira-fuori-siringa-bel-mezzo-finale-cobolli-roland-garros/",
-        "https://www.laverita.info/roland-garros-2026-cobolli-zverev-2677009053.html",
-        "https://www.liberoquotidiano.it/news/sport/48064823/roland-garros-cobolli-lotta-ma-non-basta-zverev-batte-5-set/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Monito del Papa contro la corruzione: “Non bastano le riforme, serve il rinnovamento morale”",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
         "ansa.it",
         "repubblica.it",
-        "ilgiornale.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/vaticano/notizie/2026/06/08/il-papa-ai-vescovi-spagnoli-dare-riparazioni-a-vittime-abusi_e8251bed-0820-4b49-9a2d-44888dc9a6ac.html",
-        "https://www.repubblica.it/esteri/2026/06/08/news/leone_xiv_viaggio_spagna_discorso_parlamento_spagnolo_incontro_vittime_abusi_chiesa-425396756/",
-        "https://www.ilgiornale.it/news/vaticano/papa-spagna-lincontro-privato-sanchez-e-poi-discorso-2675610.html",
-        "https://www.lastampa.it/esteri/2026/06/08/news/papa_leone_parlamento_spagnolo-15651483/"
+        "https://www.fanpage.it/politica/caos-in-commissione-covid-le-opposizioni-abbandonano-i-lavori-fdi-fa-interrogare-cittadini-in-caserma/",
+        "https://www.ilfattoquotidiano.it/2026/06/08/commissione-covid-audizioni-commissariato-notizie/8412337/",
+        "https://www.ansa.it/sito/notizie/politica/2026/06/08/le-opposizioni-abbandonano-la-commissione-covid-fdi-ha-superato-la-linea-rossa_2297c094-add4-433f-9371-d6cc1e5b6aaa.html",
+        "https://www.repubblica.it/politica/2026/06/08/news/commissione_covid_cittadini_interrogati_commissariato_opposizione_lascia_lavori-425396995/",
+        "https://www.lastampa.it/politica/2026/06/08/news/commissione_covid_l_opposizione_lascia_i_lavori_cittadini_interrogati_in_commissariato-15651546/"
       ]
     },
     {
       "rank": 10,
-      "title": "Mps, Intesa lancia un'Opas a 10,091 euro per azione da 30,6 miliardi e sale in Generali. Messina: creeremo banca wealth da duemila miliardi",
+      "title": "“Tu avevi detto che non ci sarei mai riuscito”: la rivincita di Zverev, il primo dei perdenti ora è campione Slam. L’infortunio, il diabete e il tabù spezzato",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 7,
       "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "laverita.info"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/banche/intesa-sanpaolo-lancia-opas-su-mps-operazione-306-miliardi-2675505.html",
-        "https://www.repubblica.it/economia/2026/06/08/news/intesa_sanpaolo_opas_per_mps_unipol_generali-425396133/",
-        "https://www.ilmessaggero.it/economia/news/mps_intesa_lancia_un_opas_da_30_6_miliardi-9580122.html",
-        "https://www.lastampa.it/economia/2026/06/08/news/mps-mediobanca_intesa_lancia_l_opas_volontaria_sulla_totalita_di_azioni_di_montepaschi-15651090/"
+        "https://www.ilfattoquotidiano.it/2026/06/08/roland-garros-cobolli-zverev-racconto-panatta-finale-premiazione/8412428/",
+        "https://www.liberoquotidiano.it/news/sport/48074770/alexander-zverev-sam-querrey-chi-assunto-perche-sei-qui/",
+        "https://www.fanpage.it/sport/tennis/panatta-cobolli-mi-ha-svelato-che-non-riusciva-piu-a-giocare-a-zverev-ho-detto-welcome-to-the-club/",
+        "https://www.ilfattoquotidiano.it/2026/06/08/zverev-roland-garros-2026-campione-slam-chi-e-storia-carriera-infortunio-diabete-tabu/8411983/",
+        "https://www.liberoquotidiano.it/news/sport/48069353/zverev-tira-fuori-siringa-bel-mezzo-finale-cobolli-roland-garros/"
       ]
     }
   ]
