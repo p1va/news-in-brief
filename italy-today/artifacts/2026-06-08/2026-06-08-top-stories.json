@@ -1,6 +1,6 @@
 {
   "date": "2026-06-08",
-  "generated_at": "Mon 08 Jun 19:28",
+  "generated_at": "Mon 08 Jun 21:58",
   "stories": [
     {
       "rank": 1,
@@ -19,18 +19,19 @@
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/economia/2026/06/08/intesa-irrompe-nel-risiko-offerta-da-306-miliardi-per-mps_80497406-b49e-4a86-a2eb-8cc612d9444f.html",
+        "https://www.liberoquotidiano.it/news/pillole/48080060/gasbarro_l_operazione_intesa-mps_puo_ridisegnare_il_sistema_bancario_nazionale_/",
         "https://www.liberoquotidiano.it/news/pillole/48079244/intesa-sanpaolo-messina-con-opas-su-mps-creiamo-valore-per-gli-azionisti-/",
         "https://www.liberoquotidiano.it/news/pillole/48079001/intesa-sanpaolo-lancia-opas-totalitaria-su-mps/",
-        "https://www.liberoquotidiano.it/news/pillole/48077885/unipol_lancia_maxi_operazione_bancaria_per_635_filiali_mps/",
-        "https://www.liberoquotidiano.it/news/tv-news/48079316/mps-conte-tutelare-asset-strategici-e-garantire-accesso-credito/"
+        "https://www.liberoquotidiano.it/news/pillole/48077885/unipol_lancia_maxi_operazione_bancaria_per_635_filiali_mps/"
       ]
     },
     {
       "rank": 2,
       "title": "Missili iraniani su Tel Aviv, che reagisce. Rotta la tregua di aprile",
-      "source_count": 6,
-      "article_count": 16,
+      "source_count": 7,
+      "article_count": 14,
       "source_domains": [
+        "ilmessaggero.it",
         "ansa.it",
         "liberoquotidiano.it",
         "repubblica.it",
@@ -39,11 +40,11 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/mondo/israele_iran_tregua_quanto_dura_stop_attacchi-9581039.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/08/medio-oriente-caso-flotilla-indagato-a-roma-ministro-israeliano-ben-gvir_998b2f97-105e-4a3b-8566-7421ed629483.html",
         "https://www.liberoquotidiano.it/news/tv-news/48080065/iran-netanyahu-per-ora-fuoco-sospeso-ma-pronti-a-rispondere/",
         "https://www.liberoquotidiano.it/news/tv-news/48077797/iran-e-israele-annunciano-sospensione-attacchi-trump-sente-netanyahu/",
-        "https://www.repubblica.it/esteri/2026/06/08/diretta/guerra_iran_usa_israele_news_oggi-425396054/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/08/medio-oriente-trump-a-netanyahu-non-rispondere-ai-missili-iraniani-ma-israele-attacca_998b2f97-105e-4a3b-8566-7421ed629483.html"
+        "https://www.repubblica.it/esteri/2026/06/08/diretta/guerra_iran_usa_israele_news_oggi-425396054/"
       ]
     },
     {
@@ -71,6 +72,30 @@
     },
     {
       "rank": 4,
+      "title": "Caso Flotilla, indagato a Roma Ben Gvir. Il ministro israeliano contro l'Italia: 'il Paese dello stivale è diventato quello delle ciabatte'",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "roma.repubblica.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/06/08/ben-gvir-indagato-flotilla-procura-roma-notizie/8412884/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/08/caso-flotilla-indagato-a-roma-ben-gvir.-il-ministro-israeliano-contro-litalia_a2e2ba94-bf6c-4947-88bd-775c03f94b65.html",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/flotilla-ministro-israeliano-ben-gvir-indagato-roma-lui-2675884.html",
+        "https://www.ilmessaggero.it/persone/ben_gvir_indagato_cosa_dice-9580959.html",
+        "https://www.fanpage.it/politica/israele-il-ministro-ben-gvir-indagato-a-roma-per-il-caso-flotilla-nel-fascicolo-ipotesi-di-tortura-e-sequestro/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Terremoto nelle Filippine, scossa di magnitudo 7.8. Edifici crollati e allerta tsunami",
       "source_count": 9,
       "article_count": 9,
@@ -94,51 +119,75 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Antonelli extraterrestre: con una prestazione superba sbanca Montecarlo. É il più giovane di tutti i tempi",
       "source_count": 7,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "fanpage.it",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "laverita.info",
-        "repubblica.it",
-        "lastampa.it"
+        "repubblica.it"
       ],
       "links": [
         "https://www.ilmessaggero.it/sport/schede/kimi_antonelli_gp_monaco_record_grand_chelem_cosa_e_formula_1-9580611.html",
         "https://www.ilmessaggero.it/blog/milleruote/antonelli_extraterrestre_con_una_prestazione_superba_sbanca_montecarlo_e_il_piu_giovane_di_tutti_i_tempi-9580354.html",
         "https://motori.ilmessaggero.it/motorsport/antonelli_extraterrestre_con_una_prestazione_superba_sbanca_montecarlo_e_il_piu_giovane_di_tutti_i_tempi-9580354.html",
-        "https://www.ilfattoquotidiano.it/2026/06/08/antonelli-gp-monaco-vittoria-tuffo-porto-montecarlo-papa-marco-video/8411967/",
-        "https://www.fanpage.it/sport/motori/kimi-antonelli-a-monaco-ha-ignorato-le-istruzioni-di-mercedes-rallenta-ma-lui-continuava-a-volare/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Caccia Nato in volo sul Baltico: abbattuto un drone in territorio lettone",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/06/08/diretta/guerra_ucraina_russia_news_oggi-425396065/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/08/lettonia-un-aereo-della-nato-ha-abbattuto-questa-mattina-un-drone_b01b7868-2513-4ff4-8503-27790b0d97fd.html",
-        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-drone-lettonia-nato-news_24JavVefBC5dic4WIlg6eV",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/08/lettonia-drone-nato-ucraina-russia-guerra-diretta/8412059/",
-        "https://www.fanpage.it/attualita/ucraina-la-nato-intercetta-droni-in-lettonia-e-moldavia-da-londra-il-piano-con-le-5-condizioni-per-la-pace/"
+        "https://www.ilmessaggero.it/sport/formula1/antonelli_extraterrestre_con_una_prestazione_superba_sbanca_montecarlo_e_il_piu_giovane_di_tutti_i_tempi-9580354.html",
+        "https://www.ilfattoquotidiano.it/2026/06/08/antonelli-gp-monaco-vittoria-tuffo-porto-montecarlo-papa-marco-video/8411967/"
       ]
     },
     {
       "rank": 7,
+      "title": "Omicidio Willy, Gabriele Bianchi condannato all’ergastolo. Via libera alla giustizia riparativa",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "roma.repubblica.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-willy-carcere-vita-anche-gabriele-bianchi-2675886.html",
+        "https://www.fanpage.it/roma/omicidio-willy-duarte-gabriele-bianchi-condannato-allergastolo-in-appello-ter/",
+        "https://roma.repubblica.it/cronaca/2026/06/08/news/omicidio_willy_cosa_e_giustizia_riparativa_gabriele_bianchi-425397948/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/08/omicidio-willy-ergastolo-a-gabriele-bianchi-nellappello-ter_1aa54948-7166-45d9-8838-e93068bddd16.html",
+        "https://www.ilfattoquotidiano.it/2026/06/08/omicidio-willy-monteiro-gabriele-bianchi-ergastolo-notizie/8412754/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Studentessa spagnola denuncia violenza sessuale di gruppo fuori da una discoteca: indaga la polizia",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ansa.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/milano-studentessa-denuncia-violenza-gruppo_7tik3L5660pifrBkqPnCy3",
+        "https://www.ilgiornale.it/news/cronaca-locale/milano-studentessa-20enne-denuncia-violenza-sessuale-gruppo-2675877.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/08/studentessa-erasmus-a-milano-denuncia-violenza-sessuale-di-gruppo_62fab374-9070-4ca1-ba76-db6900e04fad.html",
+        "https://www.fanpage.it/milano/studentessa-erasmus-di-20-anni-violentata-a-milano-da-un-gruppo-di-uomini-dopo-una-serata-in-discoteca/",
+        "https://www.ilfattoquotidiano.it/2026/06/08/violenza-sessuale-gruppo-milano-discoteca-notizie/8412764/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Grazia a Minetti, doppia causa da 255 milioni a Fatto e Rai (una a New York della società di Cipriani)",
       "source_count": 7,
       "article_count": 7,
@@ -160,66 +209,24 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Studentessa spagnola denuncia violenza sessuale di gruppo fuori da una discoteca: indaga la polizia",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "milano.repubblica.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-locale/milano-studentessa-20enne-denuncia-violenza-sessuale-gruppo-2675877.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/08/studentessa-erasmus-a-milano-denuncia-violenza-sessuale-di-gruppo_62fab374-9070-4ca1-ba76-db6900e04fad.html",
-        "https://www.fanpage.it/milano/studentessa-erasmus-di-20-anni-violentata-a-milano-da-un-gruppo-di-uomini-dopo-una-serata-in-discoteca/",
-        "https://www.ilfattoquotidiano.it/2026/06/08/violenza-sessuale-gruppo-milano-discoteca-notizie/8412764/",
-        "https://www.ilmessaggero.it/italia/milano_studentessa_erasmus_stuprata_violenza_gruppo_cosa_e_successo-9580914.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Vaticano, il Papa alle Cortes: «Le armi non costruiscono una pace duratura»",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "lastampa.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.lastampa.it/esteri/2026/06/08/news/papa_leone_spagna_riavvicinare_stato_chiesa-15651698/",
-        "https://www.ansa.it/vaticano/notizie/2026/06/08/il-papa-ai-vescovi-spagnoli-dare-riparazioni-a-vittime-abusi_e8251bed-0820-4b49-9a2d-44888dc9a6ac.html",
-        "https://www.repubblica.it/esteri/2026/06/08/news/leone_xiv_viaggio_spagna_discorso_parlamento_spagnolo_incontro_vittime_abusi_chiesa-425396756/",
-        "https://www.ilgiornale.it/news/vaticano/papa-spagna-lincontro-privato-sanchez-e-poi-discorso-2675610.html",
-        "https://www.lastampa.it/esteri/2026/06/08/news/papa_leone_parlamento_spagnolo-15651483/"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Flotilla, il ministro della Sicurezza israeliano Itamar Ben-Gvir indagato a Roma",
+      "title": "Lettonia: 'Un aereo della Nato ha abbattuto questa mattina un drone'",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ansa.it",
         "adnkronos.com",
-        "roma.repubblica.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/persone/ben_gvir_indagato_cosa_dice-9580959.html",
-        "https://www.fanpage.it/politica/israele-il-ministro-ben-gvir-indagato-a-roma-per-il-caso-flotilla-nel-fascicolo-ipotesi-di-tortura-e-sequestro/",
-        "https://www.ilfattoquotidiano.it/2026/06/08/violenze-sulla-flotilla-il-ministro-israeliano-itamar-ben-gvir-indagato-dalla-procura-di-roma-per-sequestro-e-tortura/8412636/",
-        "https://www.adnkronos.com/cronaca/caso-flotilla-video-ben-gvir-roma_SEBhuhIF3G7hSY24HB6dO",
-        "https://roma.repubblica.it/cronaca/2026/06/08/news/flotilla_ministro_israele_ben-gvir_indagato_roma_video-425397835/"
+        "https://www.repubblica.it/esteri/2026/06/08/diretta/guerra_ucraina_russia_news_oggi-425396065/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/08/lettonia-un-aereo-della-nato-ha-abbattuto-questa-mattina-un-drone_b01b7868-2513-4ff4-8503-27790b0d97fd.html",
+        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-drone-lettonia-nato-news_24JavVefBC5dic4WIlg6eV",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/08/lettonia-drone-nato-ucraina-russia-guerra-diretta/8412059/",
+        "https://www.fanpage.it/attualita/ucraina-la-nato-intercetta-droni-in-lettonia-e-moldavia-da-londra-il-piano-con-le-5-condizioni-per-la-pace/"
       ]
     }
   ]
