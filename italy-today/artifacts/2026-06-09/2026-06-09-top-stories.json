@@ -1,15 +1,40 @@
 {
   "date": "2026-06-09",
-  "generated_at": "Tue 09 Jun 16:10",
+  "generated_at": "Tue 09 Jun 19:23",
   "stories": [
     {
       "rank": 1,
+      "title": "Luca Parmitano nell'equipaggio che apre la via alla Luna. 'Sono onorato, l'Italia la mia rampa di lancio'",
+      "source_count": 10,
+      "article_count": 16,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/06/09/luca-parmitano-nellequipaggio-che-apre-la-via-alla-luna.-sono-onorato_f5a2650f-cdf0-4ec2-afe7-902b39fc18bf.html",
+        "https://www.fanpage.it/innovazione/scienze/artemis-iii-nasa-luca-parmitano-sono-onorato-ma-consapevole-della-sfida/",
+        "https://www.adnkronos.com/cronaca/luca-parmitano-chi-e-astronauta-scelto-nasa-missione-artemis-3_5D8OkD3BDSGlFRkQUWLvc3",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/luca-parmitano-sar-pilota-artemis-iii-2676378.html",
+        "https://www.ilmessaggero.it/scienza/luca_parmitano_artemis_iii_equipaggio_cosa_fara-9582825.html"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Ponte sullo Stretto, la procura di Roma indaga per corruzione: “Volevano condizionare la Corte dei Conti”",
       "source_count": 10,
-      "article_count": 11,
+      "article_count": 13,
       "source_domains": [
-        "roma.repubblica.it",
         "ansa.it",
+        "roma.repubblica.it",
         "unita.it",
         "fanpage.it",
         "adnkronos.com",
@@ -20,15 +45,15 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/09/ponte-sullo-stretto-tre-indagati-per-corruzione.-volevano-condizionare-i-giudici_a23f4f73-30db-4f2b-8b39-f24f00b565e4.html",
         "https://roma.repubblica.it/cronaca/2026/06/09/news/ponte_stretto_chi_e_tommaso_miele_giudice_corte_dei_conti_indagato_corruzione-425399941/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/09/ponte-sullo-stretto-tre-persone-indagate-per-corruzione.-anche-un-ex-presidente_a23f4f73-30db-4f2b-8b39-f24f00b565e4.html",
         "https://www.unita.it/2026/06/09/indagati-corruzione-progetto-ponte-sullo-stretto-corte-dei-conti/",
-        "https://www.fanpage.it/politica/ponte-sullo-stretto-procura-apre-inchiesta-per-corruzione-indagati-volevano-condizionare-corte-conti/",
-        "https://www.adnkronos.com/cronaca/ponte-stretto-messina-indagati-corruzione_7JYqe4M8XBb22KayoXHITu"
+        "https://www.fanpage.it/politica/ponte-sullo-stretto-procura-apre-inchiesta-per-corruzione-indagati-volevano-condizionare-corte-conti/"
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Milano, Belen Rodriguez indagata per omissione di soccorso",
       "source_count": 10,
       "article_count": 10,
@@ -53,70 +78,93 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Treni, sospeso lo sciopero di giovedì 11 giugno. Stop dopo l’incontro al ministero",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 10,
       "source_domains": [
+        "ansa.it",
         "fanpage.it",
         "adnkronos.com",
-        "ansa.it",
         "repubblica.it",
         "ilmessaggero.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/economia/2026/06/09/giovedi-treni-a-rischio.-i-sindacati-di-base-confermano-lo-sciopero_dfcf8c47-2bfb-4ae7-9262-72c0f9be649e.html",
         "https://www.fanpage.it/attualita/sospeso-lo-sciopero-dei-treni-l11-e-12-giugno-per-trenitalia-italo-e-trenord-lannuncio-dopo-tavolo-mit/",
         "https://www.adnkronos.com/economia/sciopero-treni-11-giungo-2026-sospeso-cosa-cambia_1AR8zaDQxuWUHPPldEyz5P",
         "https://www.ansa.it/sito/notizie/economia/2026/06/09/sindacati-sospeso-sciopero-nelle-ferrovie-dell11-giugno_dfcf8c47-2bfb-4ae7-9262-72c0f9be649e.html",
-        "https://www.repubblica.it/economia/2026/06/09/news/treni_sciopero_11_giugno_sospeso-425399840/",
-        "https://www.ilmessaggero.it/italia/sciopero_treni_sospeso_giovedi_11_giugno_quale-9582692.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Secondo giorno di controlli al San Raffaele per Sinner. Come sta il numero uno al mondo",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/tennis/secondo-giorno-controlli-san-raffaele-sinner-sta-numero-2676305.html",
-        "https://www.ilmessaggero.it/sport/tennis/sinner_come_sta_esito_esami_san_raffaele_esito_quando_torna-9582415.html",
-        "https://www.ansa.it/sito/notizie/sport/2026/06/09/jannik-sinner-tornato-al-san-raffaele-per-completare-gli-accertamenti_41ec3c54-a8c0-465d-8165-7cf0ca2815de.html",
-        "https://www.repubblica.it/sport/tennis/2026/06/09/news/sinner_secondo_giorno_esami_ospedale_san_raffaele-425398795/",
-        "https://www.ilgiornale.it/news/tennis/sinner-tagliando-verso-wimbledon-capire-i-blackout-poi-2676015.html"
+        "https://www.repubblica.it/economia/2026/06/09/news/treni_sciopero_11_giugno_sospeso-425399840/"
       ]
     },
     {
       "rank": 5,
-      "title": "Nasce Super Intesa ora anche l'Italia avrà una banca da 2.000 miliardi",
-      "source_count": 6,
-      "article_count": 7,
+      "title": "Secondo giorno di controlli al San Raffaele per Sinner. Come sta il numero uno al mondo",
+      "source_count": 7,
+      "article_count": 9,
       "source_domains": [
-        "ilgiornale.it",
-        "laverita.info",
         "ansa.it",
-        "lastampa.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "liberoquotidiano.it"
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/nasce-super-intesa-ora-anche-litalia-avr-banca-2000-miliardi-2675920.html",
-        "https://www.laverita.info/intesa-mps-2677013322.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/06/09/prime-pagine-intesa-irrompe-nel-risiko-offerta-da-306-miliardi-per_d2263f44-1425-4cfa-9a7c-4b51388328fc.html",
-        "https://www.lastampa.it/economia/2026/06/09/news/intesa_sanpaolo_polizze_conti_correnti_e_fondi_nasce_il_colosso_del_risparmio_azionale-15652197/",
-        "https://www.ilmessaggero.it/economia/intesa_offerta_mps-9581043.html"
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/06/09/sinner-completa-gli-accertamenti-ora-torna-ad-allenarsi_41ec3c54-a8c0-465d-8165-7cf0ca2815de.html",
+        "https://www.ilgiornale.it/news/tennis/secondo-giorno-controlli-san-raffaele-sinner-sta-numero-2676305.html",
+        "https://www.liberoquotidiano.it/news/sport/48088266/jannik-sinner-come-sta-quando-torna-esito-test-san-raffaele/",
+        "https://www.ilfattoquotidiano.it/2026/06/09/sinner-san-raffaele-accertamenti-medici-secondo-giorno-come-sta-oggi/8413407/",
+        "https://www.ilmessaggero.it/sport/tennis/sinner_come_sta_esito_esami_san_raffaele_esito_quando_torna-9582415.html"
       ]
     },
     {
       "rank": 6,
+      "title": "Nasce Super Intesa ora anche l'Italia avrà una banca da 2.000 miliardi",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "laverita.info",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/economia/2026/06/09/il-mercato-spinge-intesa-mps.-messina-avanti-anche-con-una-controfferta_ad66eba7-1928-4639-aa52-81f2eb350687.html",
+        "https://www.ilgiornale.it/news/politica/nasce-super-intesa-ora-anche-litalia-avr-banca-2000-miliardi-2675920.html",
+        "https://www.laverita.info/intesa-mps-2677013322.html",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/06/09/prime-pagine-intesa-irrompe-nel-risiko-offerta-da-306-miliardi-per_d2263f44-1425-4cfa-9a7c-4b51388328fc.html",
+        "https://www.lastampa.it/economia/2026/06/09/news/intesa_sanpaolo_polizze_conti_correnti_e_fondi_nasce_il_colosso_del_risparmio_azionale-15652197/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Arrestato in Egitto l’ex marito di Nessy Guerra, l’italiana condannata per adulterio",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "genova.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/09/arrestato-lex-marito-di-nessy-guerra-condannata-per-adulterio-in-egitto.-lei_31053c34-7ff7-47ae-bc6a-ee8a934ddc6c.html",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/minacce-e-aggressione-lex-marito-nessy-guerra-arrestato-2676235.html",
+        "https://www.fanpage.it/attualita/arrestato-lex-marito-di-nessy-guerra-la-27enne-italiana-bloccata-in-egitto-con-la-figlia/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/09/arrestato-in-egitto-lex-marito-dellitaliana-condannata-per-adulterio-_31053c34-7ff7-47ae-bc6a-ee8a934ddc6c.html",
+        "https://www.ilmessaggero.it/italia/nessy_guerra_arrestato_marito_egitto_chi_e_ultima_ora-9582535.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Donald Trump sonoramente fischiato alla finale NBA a New York",
       "source_count": 5,
       "article_count": 7,
@@ -136,28 +184,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Arrestato in Egitto l’ex marito di Nessy Guerra, l’italiana condannata per adulterio",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "genova.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-internazionale/minacce-e-aggressione-lex-marito-nessy-guerra-arrestato-2676235.html",
-        "https://www.fanpage.it/attualita/arrestato-lex-marito-di-nessy-guerra-la-27enne-italiana-bloccata-in-egitto-con-la-figlia/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/09/arrestato-in-egitto-lex-marito-dellitaliana-condannata-per-adulterio-_31053c34-7ff7-47ae-bc6a-ee8a934ddc6c.html",
-        "https://www.ilmessaggero.it/italia/nessy_guerra_arrestato_marito_egitto_chi_e_ultima_ora-9582535.html",
-        "https://genova.repubblica.it/cronaca/2026/06/09/news/arrestato_in_egitto_tamer_hamouda_ex_marito_di_nessy_guerra-425399476/"
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "title": "Cannavaro perquisito con i cani antidroga e l'attaccante dell'Iraq interrogato per 7 ore, i controlli choc negli Usa per i Mondiali",
       "source_count": 5,
       "article_count": 6,
@@ -177,7 +204,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Napoli, sparò a un disabile per vendicarsi di un like alla fidanzata, arrestato",
       "source_count": 5,
       "article_count": 5,
@@ -194,25 +221,6 @@
         "https://napoli.repubblica.it/cronaca/2026/06/09/news/napoli_sparo_a_disabile_per_un_like_sui_social_arrestato-425398966/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/09/disabile-gambizzato-a-napoli-per-un-like-sui-social-giovane-fermato_16b5ce55-14cb-4df1-9d1a-7e2fec00e854.html",
         "https://www.fanpage.it/napoli/disabile-gambizzato-per-un-like-sui-social-fermato-il-presunto-responsabile/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Perché Ben-Gvir è indagato in Italia, le accuse di sequestro e tortura agli attivisti della Flotilla: “Paese dello stivale a Paese delle infradito”",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "unita.it",
-        "liberoquotidiano.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/ben-gvir-indagato-roma-sequestro-e-tortura-sugli-attivisti-2675907.html",
-        "https://www.unita.it/2026/06/09/perche-ben-gvir-indagato-italia-accuse-sequestro-tortura-attivisti-flotilla-paese/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/flotilla-ministro-israeliano-ben-gvir-indagato-roma-lui-2675884.html",
-        "https://www.liberoquotidiano.it/news/esteri/48083735/ben_gvir_indagato_flotilla_insulta_italia_paese_stivale_ciabatte_infradito/",
-        "https://www.agi.it/cronaca/news/2026-06-08/flotilla-indagato-ministro-ben-gvir-37453818/"
       ]
     }
   ]
