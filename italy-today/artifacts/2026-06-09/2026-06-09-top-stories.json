@@ -1,53 +1,101 @@
 {
   "date": "2026-06-09",
-  "generated_at": "Tue 09 Jun 12:46",
+  "generated_at": "Tue 09 Jun 16:10",
   "stories": [
     {
       "rank": 1,
       "title": "Ponte sullo Stretto, la procura di Roma indaga per corruzione: “Volevano condizionare la Corte dei Conti”",
-      "source_count": 8,
-      "article_count": 8,
+      "source_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "roma.repubblica.it",
+        "ansa.it",
+        "unita.it",
         "fanpage.it",
         "adnkronos.com",
         "ilgiornale.it",
-        "ansa.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://roma.repubblica.it/cronaca/2026/06/09/news/ponte_stretto_chi_e_tommaso_miele_giudice_corte_dei_conti_indagato_corruzione-425399941/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/09/ponte-sullo-stretto-tre-persone-indagate-per-corruzione.-anche-un-ex-presidente_a23f4f73-30db-4f2b-8b39-f24f00b565e4.html",
+        "https://www.unita.it/2026/06/09/indagati-corruzione-progetto-ponte-sullo-stretto-corte-dei-conti/",
         "https://www.fanpage.it/politica/ponte-sullo-stretto-procura-apre-inchiesta-per-corruzione-indagati-volevano-condizionare-corte-conti/",
-        "https://www.adnkronos.com/cronaca/ponte-stretto-messina-indagati-corruzione_7JYqe4M8XBb22KayoXHITu",
-        "https://www.ilgiornale.it/news/interni/ponte-sullo-stretto-procura-roma-indaga-corruzione-2676213.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/09/ponte-sullo-stretto-la-procura-di-roma-indaga-per-corruzione_a23f4f73-30db-4f2b-8b39-f24f00b565e4.html",
-        "https://www.ilfattoquotidiano.it/2026/06/09/ponte-stretto-corruzione-perquisizioni-notizie/8413475/"
+        "https://www.adnkronos.com/cronaca/ponte-stretto-messina-indagati-corruzione_7JYqe4M8XBb22KayoXHITu"
       ]
     },
     {
       "rank": 2,
-      "title": "Ballottaggi, finisce 3-3: Legnini vince a Chieti, Macerata al centrodestra. Tra primo e secondo turno, sostanziale parità",
-      "source_count": 6,
-      "article_count": 7,
+      "title": "Milano, Belen Rodriguez indagata per omissione di soccorso",
+      "source_count": 10,
+      "article_count": 10,
       "source_domains": [
         "ansa.it",
-        "unita.it",
-        "repubblica.it",
-        "ilmanifesto.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "ilsole24ore.com"
+        "fanpage.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/06/08/comunali-il-test-dei-ballottaggi-sostanziale-pareggio-tra-i-poli_3c3e028f-007b-418b-9b00-1726fa7980ce.html",
-        "https://www.unita.it/2026/06/09/ai-ballottaggi-finisce-in-parita-i-test-arezzo-e-vigevano-ad-agrigento-storico-trionfo-della-sinistra/",
-        "https://www.repubblica.it/politica/2026/06/09/news/ballotaggi_risultati_analisi_voto_comunali_2026-425398289/",
-        "https://ilmanifesto.it/ballottaggi-finisce-3-3-la-sinistra-perde-lecco-ma-conquista-agrigento",
-        "https://www.ilmessaggero.it/politica/ballottaggi_risultati_chi_ha_vinto-9580998.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/09/provoca-incidenti-e-non-si-ferma-indagata-a-milano-belen-rodriguez_c3231028-7ea1-4f8d-9a10-c0dd8e65a3bb.html",
+        "https://www.adnkronos.com/cronaca/belen-rodriguez-incidente-indagata-cosa-e-successo_1HndKHB9b7dilYXDP3exP7",
+        "https://www.ilgiornale.it/news/nazionale/milano-belen-rodriguez-indagata-omissione-soccorso-2676334.html",
+        "https://milano.repubblica.it/cronaca/2026/06/09/news/belen_rodriguez_indagata_omissione_soccorso_milano-425399858/",
+        "https://www.lastampa.it/cronaca/2026/06/09/news/belen_rodriguez_omissione_di_soccorso_indagata_milano-15652948/"
       ]
     },
     {
       "rank": 3,
+      "title": "Treni, sospeso lo sciopero di giovedì 11 giugno. Stop dopo l’incontro al ministero",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "fanpage.it",
+        "adnkronos.com",
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/attualita/sospeso-lo-sciopero-dei-treni-l11-e-12-giugno-per-trenitalia-italo-e-trenord-lannuncio-dopo-tavolo-mit/",
+        "https://www.adnkronos.com/economia/sciopero-treni-11-giungo-2026-sospeso-cosa-cambia_1AR8zaDQxuWUHPPldEyz5P",
+        "https://www.ansa.it/sito/notizie/economia/2026/06/09/sindacati-sospeso-sciopero-nelle-ferrovie-dell11-giugno_dfcf8c47-2bfb-4ae7-9262-72c0f9be649e.html",
+        "https://www.repubblica.it/economia/2026/06/09/news/treni_sciopero_11_giugno_sospeso-425399840/",
+        "https://www.ilmessaggero.it/italia/sciopero_treni_sospeso_giovedi_11_giugno_quale-9582692.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Secondo giorno di controlli al San Raffaele per Sinner. Come sta il numero uno al mondo",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/tennis/secondo-giorno-controlli-san-raffaele-sinner-sta-numero-2676305.html",
+        "https://www.ilmessaggero.it/sport/tennis/sinner_come_sta_esito_esami_san_raffaele_esito_quando_torna-9582415.html",
+        "https://www.ansa.it/sito/notizie/sport/2026/06/09/jannik-sinner-tornato-al-san-raffaele-per-completare-gli-accertamenti_41ec3c54-a8c0-465d-8165-7cf0ca2815de.html",
+        "https://www.repubblica.it/sport/tennis/2026/06/09/news/sinner_secondo_giorno_esami_ospedale_san_raffaele-425398795/",
+        "https://www.ilgiornale.it/news/tennis/sinner-tagliando-verso-wimbledon-capire-i-blackout-poi-2676015.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Nasce Super Intesa ora anche l'Italia avrà una banca da 2.000 miliardi",
       "source_count": 6,
       "article_count": 7,
@@ -68,27 +116,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Sinner è tornato al San Raffaele: nuovi esami dopo il malore di Parigi",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/tennis/sinner_come_sta_esito_esami_san_raffaele_esito_quando_torna-9582415.html",
-        "https://www.ansa.it/sito/notizie/sport/2026/06/09/jannik-sinner-tornato-al-san-raffaele-per-completare-gli-accertamenti_41ec3c54-a8c0-465d-8165-7cf0ca2815de.html",
-        "https://www.repubblica.it/sport/tennis/2026/06/09/news/sinner_secondo_giorno_esami_ospedale_san_raffaele-425398795/",
-        "https://www.ilgiornale.it/news/tennis/sinner-tagliando-verso-wimbledon-capire-i-blackout-poi-2676015.html",
-        "https://www.lastampa.it/sport/2026/06/09/news/sinner_in_campo_al_san_raffaele_check-up_pensando_a_wimbledon-15652115/"
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "Donald Trump sonoramente fischiato alla finale NBA a New York",
       "source_count": 5,
       "article_count": 7,
@@ -108,7 +136,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Arrestato in Egitto l’ex marito di Nessy Guerra, l’italiana condannata per adulterio",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "genova.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-internazionale/minacce-e-aggressione-lex-marito-nessy-guerra-arrestato-2676235.html",
+        "https://www.fanpage.it/attualita/arrestato-lex-marito-di-nessy-guerra-la-27enne-italiana-bloccata-in-egitto-con-la-figlia/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/09/arrestato-in-egitto-lex-marito-dellitaliana-condannata-per-adulterio-_31053c34-7ff7-47ae-bc6a-ee8a934ddc6c.html",
+        "https://www.ilmessaggero.it/italia/nessy_guerra_arrestato_marito_egitto_chi_e_ultima_ora-9582535.html",
+        "https://genova.repubblica.it/cronaca/2026/06/09/news/arrestato_in_egitto_tamer_hamouda_ex_marito_di_nessy_guerra-425399476/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Cannavaro perquisito con i cani antidroga e l'attaccante dell'Iraq interrogato per 7 ore, i controlli choc negli Usa per i Mondiali",
       "source_count": 5,
       "article_count": 6,
@@ -128,27 +177,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Flotilla, indagato a Roma il ministro israeliano Ben Gvir. Lui: “Paese delle ciabatte”. Tajani: “Indegno”",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "unita.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/ben-gvir-indagato-roma-sequestro-e-tortura-sugli-attivisti-2675907.html",
-        "https://www.unita.it/2026/06/09/perche-ben-gvir-indagato-italia-accuse-sequestro-tortura-attivisti-flotilla-paese/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/flotilla-ministro-israeliano-ben-gvir-indagato-roma-lui-2675884.html",
-        "https://www.liberoquotidiano.it/news/esteri/48083735/ben_gvir_indagato_flotilla_insulta_italia_paese_stivale_ciabatte_infradito/",
-        "https://www.lastampa.it/cronaca/2026/06/08/news/flottilla_indagato_a_roma_il_ministro_israeliano_ben_gvir-15652013/"
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "title": "Napoli, sparò a un disabile per vendicarsi di un like alla fidanzata, arrestato",
       "source_count": 5,
       "article_count": 5,
@@ -168,41 +197,22 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Arrestato in Egitto l’ex marito di Nessy Guerra, l’italiana condannata per adulterio",
-      "source_count": 5,
+      "rank": 10,
+      "title": "Perché Ben-Gvir è indagato in Italia, le accuse di sequestro e tortura agli attivisti della Flotilla: “Paese dello stivale a Paese delle infradito”",
+      "source_count": 4,
       "article_count": 5,
       "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "genova.repubblica.it",
-        "lastampa.it"
+        "ilgiornale.it",
+        "unita.it",
+        "liberoquotidiano.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.fanpage.it/attualita/arrestato-lex-marito-di-nessy-guerra-la-27enne-italiana-bloccata-in-egitto-con-la-figlia/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/09/arrestato-in-egitto-lex-marito-dellitaliana-condannata-per-adulterio-_31053c34-7ff7-47ae-bc6a-ee8a934ddc6c.html",
-        "https://www.ilmessaggero.it/italia/nessy_guerra_arrestato_marito_egitto_chi_e_ultima_ora-9582535.html",
-        "https://genova.repubblica.it/cronaca/2026/06/09/news/arrestato_in_egitto_tamer_hamouda_ex_marito_di_nessy_guerra-425399476/",
-        "https://www.lastampa.it/imperia-sanremo/2026/06/09/news/egitto_arrestato_ex_marito_nessy_guerra-15652720/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Tutte le curiosità su stadi, ritiri, spostamenti e sicurezza",
-      "source_count": 3,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/schede/mondiali_dove_vederli_in_chiaro_rai_dazn_quando_iniziano_orari_date_calendario_gironi-9582467.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/08/e-online-lo-speciale-di-ansa.it-sui-mondiali-2026_5af33bbb-b05e-46f7-9fbe-816f733403be.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/05/31/mondiali-2026-tre-paesi-48-squadre-e-tanti-campioni.-quanta-attesa-per_6f95885a-6b9c-4076-980f-4d5987fe9bb2.html",
-        "https://www.ilgiornale.it/news/calcio/mondiali-stelle-pi-attese-e-possibili-sorprese-2675859.html",
-        "https://www.ilgiornale.it/news/calcio/mondiale-tutte-curiosit-su-stadi-ritiri-spostamenti-e-2675816.html"
+        "https://www.ilgiornale.it/news/politica/ben-gvir-indagato-roma-sequestro-e-tortura-sugli-attivisti-2675907.html",
+        "https://www.unita.it/2026/06/09/perche-ben-gvir-indagato-italia-accuse-sequestro-tortura-attivisti-flotilla-paese/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/flotilla-ministro-israeliano-ben-gvir-indagato-roma-lui-2675884.html",
+        "https://www.liberoquotidiano.it/news/esteri/48083735/ben_gvir_indagato_flotilla_insulta_italia_paese_stivale_ciabatte_infradito/",
+        "https://www.agi.it/cronaca/news/2026-06-08/flotilla-indagato-ministro-ben-gvir-37453818/"
       ]
     }
   ]
