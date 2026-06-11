@@ -1,6 +1,6 @@
 {
   "date": "2026-06-11",
-  "generated_at": "Thu 11 Jun 14:47",
+  "generated_at": "Thu 11 Jun 18:24",
   "stories": [
     {
       "rank": 1,
@@ -30,9 +30,56 @@
     },
     {
       "rank": 2,
+      "title": "Medici di famiglia, addio riforma. Meloni: “Troppi contrasti, non me la sento”. Cosa succede adesso",
+      "source_count": 9,
+      "article_count": 11,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "unita.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/06/11/riforma-medici-base-case-comunita-notizie/8416267/",
+        "https://www.repubblica.it/politica/2026/06/11/news/attilio_fontana_medici_famiglia_governo_scelta_sbagliata-425403943/",
+        "https://www.unita.it/2026/06/11/riforma-medici-base-case-comunita-ministro-schllaci-sindacato/",
+        "https://www.ilgiornale.it/news/politica/dietrofront-medici-base-schillaci-ritira-riforma-2677163.html",
+        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/06/10/salta-la-riforma-dei-medici-di-famiglia-stop-al-decreto-legge_a4224ee4-e000-4713-9afd-c80ab07b767e.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "La Bce alza i tassi di un quarto di punto",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/36496080/la-bce-alza-i-tassi-di-un-quarto-di-punto/",
+        "https://www.ansa.it/sito/notizie/economia/2026/06/11/la-bce-alza-i-tassi-di-un-quarto-di-punto-al-225_80cfe0d5-5870-452b-a73c-34c502e35f99.html",
+        "https://www.ilgiornale.it/news/borsa-e-mercati/bce-primo-rialzo-dei-tassi-2023-francoforte-torna-stringere-2677535.html",
+        "https://www.ilfattoquotidiano.it/2026/06/11/che-succede-a-mutui-e-prestiti-dopo-laumento-dei-tassi-limpatto-sui-bilanci-delle-famiglie/8415839/",
+        "https://www.repubblica.it/economia/2026/06/11/news/bce_alza_tassi_25_punti-425404026/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Decine di raid Usa sull'Iran, Teheran attacca basi Golfo",
       "source_count": 6,
-      "article_count": 14,
+      "article_count": 11,
       "source_domains": [
         "adnkronos.com",
         "liberoquotidiano.it",
@@ -46,37 +93,14 @@
         "https://www.liberoquotidiano.it/news/libero-video/48118000/iran-attacchi-bahrein-macerie-edifici-fiamme-intercettazione-missili/",
         "https://www.repubblica.it/esteri/2026/06/11/diretta/guerra_iran_usa_israele_news_oggi-425402865/",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/11/nuova-ondata-di-raid-usa-sulliran.-teheran-colpite-basi-americane-in-kuwait_ec757a63-c4ea-4b6e-8f49-1546853c894c.html",
-        "https://www.ilgiornale.it/news/guerra/escalation-controllata-usa-e-regime-liran-tira-corda-donald-2677284.html"
+        "https://www.liberoquotidiano.it/news/libero-video/48117041/iran-teheran-chiude-stretto-hormuz-qualsiasi-nave-bersagliata/"
       ]
     },
     {
-      "rank": 3,
-      "title": "Medici di famiglia, addio riforma. Meloni: “Troppi contrasti, non me la sento”. Cosa succede adesso",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "repubblica.it",
-        "unita.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/06/11/news/attilio_fontana_medici_famiglia_governo_scelta_sbagliata-425403943/",
-        "https://www.unita.it/2026/06/11/riforma-medici-base-case-comunita-ministro-schllaci-sindacato/",
-        "https://www.ilgiornale.it/news/politica/dietrofront-medici-base-schillaci-ritira-riforma-2677163.html",
-        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/06/10/salta-la-riforma-dei-medici-di-famiglia-stop-al-decreto-legge_a4224ee4-e000-4713-9afd-c80ab07b767e.html",
-        "https://www.fanpage.it/politica/riforma-medici-di-famiglia-il-governo-ha-bloccato-il-decreto-legge-cosa-succede-adesso/"
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "title": "Milano-Cortina, indagata Elisabetta Pellegrini dirigente del ministero dei Trasporti",
-      "source_count": 7,
-      "article_count": 8,
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ansa.it",
         "fanpage.it",
@@ -84,7 +108,8 @@
         "ilgiornale.it",
         "milano.repubblica.it",
         "lastampa.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/11/milano-cortina-indagata-una-dirigente-del-ministero-trasporti_c625e38a-12a5-4a76-95d2-e6e9e420a7c0.html",
@@ -95,27 +120,46 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "\"Meloni indossa ginocchiere\", bufera alla Camera per frase del M5S Silvestri",
-      "source_count": 5,
-      "article_count": 10,
+      "rank": 6,
+      "title": "L'intervento di Silvestri (M5S) su Meloni e le \"ginocchiere\"",
+      "source_count": 4,
+      "article_count": 11,
       "source_domains": [
-        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "adnkronos.com",
         "ilgiornale.it",
-        "fanpage.it",
-        "liberoquotidiano.it"
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/06/11/silvestri-ginocchiere-meloni-polemica-notizie/8415857/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48121519/meloni-risponde-a-silvestri-sulle-ginocchiere-ovazione-dal-centrodestra-alla-camera/",
+        "https://www.liberoquotidiano.it/news/libero-video/48120825/pietro-senaldi-francesco-silvestri-giorgia-meloni-ginocchio/",
         "https://www.adnkronos.com/politica/meloni-ginocchiere-silvestri-frase-camera_2UGi86hOOBYOeHumhFATZy",
         "https://www.ilgiornale.it/news/interni/sospensione-silvestri-ed-espulsione-m5s-destra-si-compatta-2677560.html",
-        "https://www.fanpage.it/politica/silvestri-m5s-e-linsulto-a-meloni-con-trump-indossa-le-ginocchiere-fdi-insorge-sessista/",
         "https://www.ilgiornale.it/news/interni/chi-francesco-silvestri-grillino-ora-che-ha-insultato-2677541.html"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Mondiali, via alla cerimonia in Messico. Shakira fa ballera l’Azteca. Tra poco Bocelli",
+      "source_count": 5,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/11/mondiale-il-calcio-unisce-tutto-il-mondo-allo-stadio-azteca-linaugurazione-con_7df6c77c-4688-439d-a734-4fd874e7cbba.html",
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/06/11/diretta/mondiali_fifa_2026_cerimoni_apertura_oggi_diretta-425404494/",
+        "https://www.ilgiornale.it/news/calcio/occhi-mondo-sui-mondiali-cerimonia-apertura-e-poi-subito-2677716.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/photogallery/2026/06/11/mondiali-la-festa-dei-i-tifosi-verso-lo-stadio-azteca-_3c0f85d8-e8b6-4978-927e-5a4520d8f8d0.html",
+        "https://www.ilgiornale.it/news/calcio/azteca-tempio-calcio-che-non-va-mai-pensione-apre-altro-2677654.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Ponte Messina, Miele si dimette da presidente Collegio revisori Conti Csm",
       "source_count": 7,
       "article_count": 7,
@@ -137,28 +181,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Bce, primo rialzo dei tassi dal 2023: cosa cambia per tassi, mutui e obbligazioni",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/06/11/la-bce-alza-i-tassi-di-un-quarto-di-punto-al-225_80cfe0d5-5870-452b-a73c-34c502e35f99.html",
-        "https://www.ilgiornale.it/news/borsa-e-mercati/bce-primo-rialzo-dei-tassi-2023-francoforte-torna-stringere-2677535.html",
-        "https://www.ilfattoquotidiano.it/2026/06/11/che-succede-a-mutui-e-prestiti-dopo-laumento-dei-tassi-limpatto-sui-bilanci-delle-famiglie/8415839/",
-        "https://www.repubblica.it/economia/2026/06/11/news/bce_alza_tassi_25_punti-425404026/",
-        "https://www.ilmessaggero.it/economia/news/mutui_aumenti_cosa_cambia_simulazioni_tassi_bce-9586319.html"
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "title": "Il Papa dal molo dei migranti a Gran Canaria, 'la dignità umana non ha passaporto'",
       "source_count": 6,
       "article_count": 8,
@@ -179,7 +202,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Meloni: isolare Israele pericoloso, allontana la pace",
       "source_count": 1,
       "article_count": 13,
@@ -192,27 +215,6 @@
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48117778/meloni-si-a-sanzioni-contro-coloni-violenti-che-fomentano-odio/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48117469/meloni-europa-dovra-riflettere-sulla-direzione-delle-relazioni-con-israele/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48117472/meloni-su-guerra-libano-italia-sostiene-con-convinzione-forze-armate-libanesi/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Achille Lauro: “La mia fortuna è stata crescere tra la gente\"",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/musica/achille-lauro-allolimpico-show-nasce-mia-storia-venditti-2677452.html",
-        "https://www.ansa.it/sito/videogallery/spettacolo/2026/06/11/achille-lauro-la-mia-fortuna-e-stata-crescere-tra-la-gente_a3fb6cd6-75a9-4d7a-bf13-9ed8821abf23.html",
-        "https://www.fanpage.it/cultura/achille-lauro-raccoglie-leredita-di-antonello-venditti-allolimpico-due-generazioni-una-sola-roma/",
-        "https://www.liberoquotidiano.it/news/tv-news/48118331/achille-lauro-show-all-olimpico-lo-sogno-da-25-anni/",
-        "https://www.liberoquotidiano.it/news/tv-news/48118325/la-notte-indimenticabile-di-achille-lauro-allo-stadio-olimpico/"
       ]
     }
   ]
