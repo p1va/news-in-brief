@@ -1,42 +1,67 @@
 {
   "date": "2026-06-12",
-  "generated_at": "Fri 12 Jun 17:43",
+  "generated_at": "Fri 12 Jun 20:21",
   "stories": [
     {
       "rank": 1,
       "title": "Garlasco, Stasi esce dal carcere e ottiene l’affidamento in prova",
       "source_count": 10,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "fanpage.it",
         "ilgiornale.it",
         "ansa.it",
         "unita.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "milano.repubblica.it",
-        "fanpage.it",
         "ilmessaggero.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.fanpage.it/attualita/stasi-verso-la-scarcerazione-lavvocato-bocciolini-non-sara-un-uomo-libero-e-lindagine-su-sempio-non-centra/",
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/alberto-stasi-esce-carcere-finir-scontare-pena-ai-servizi-2678207.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/12/stasi-esce-dal-carcere-e-ottiene-laffidamento-in-prova_edc3eec5-7e00-40a9-8829-37484defa20a.html",
         "https://www.unita.it/2026/06/12/alberto-stasi-affidamento-in-prova-caso-garlasco/",
-        "https://www.adnkronos.com/cronaca/caso-garlasco-stasi-affidamento-in-prova_61CLTj5Yaj4nGL0pmzeUuH",
-        "https://www.ilfattoquotidiano.it/2026/06/12/caso-garlasco-stasi-affidamento-servizi-sociali-notizie/8417428/"
+        "https://www.adnkronos.com/cronaca/caso-garlasco-stasi-affidamento-in-prova_61CLTj5Yaj4nGL0pmzeUuH"
       ]
     },
     {
       "rank": 2,
+      "title": "Problema tecnico sull'aereo del Papa in Spagna: Leone tornerà a Roma con il Falcon del Re",
+      "source_count": 10,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "fanpage.it",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/vaticano/notizie/2026/06/12/un-guasto-allaereo-iberia-leone-torna-a-roma-con-laereo-di-re-felipe_8f35351a-ccdb-4cbb-b7fe-ac1c2f7baf29.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48143619/papa-leone-costretto-a-scendere-dall-aereo-per-un-problema-tecnico/",
+        "https://www.ansa.it/vaticano/notizie/2026/06/12/iberia-il-guasto-allaereo-non-puo-essere-riparato.-leone-tornera-a-roma_8f35351a-ccdb-4cbb-b7fe-ac1c2f7baf29.html",
+        "https://www.adnkronos.com/internazionale/esteri/papa-leone-aereo-guasto-tecnico-decollo_YcOzx6wlPUla2RQZWZgQv",
+        "https://www.ilfattoquotidiano.it/2026/06/12/volo-papa-tenerife-re-felipe-problema-tecnico/8417540/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Storico debutto di SpaceX a Wall Street, Musk: vi porterò oltre Marte",
       "source_count": 9,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
-        "ilmessaggero.it",
         "liberoquotidiano.it",
+        "ilmessaggero.it",
         "repubblica.it",
         "ilgiornale.it",
         "fanpage.it",
@@ -47,37 +72,37 @@
         "https://www.ansa.it/sito/notizie/economia/2026/06/12/parte-mega-ipo-musk-davo-a-spacex-meno-del-10-di-probabilita-di-riuscita_49ce47f0-8c05-4a31-ab22-8405131bd56d.html",
         "https://www.ansa.it/sito/videogallery/mondo/2026/06/12/elon-musk-spacex-vuole-portarvi-sulla-luna-su-marte-e-oltre_8f1bfb7e-b36f-4b9a-9ec2-8eb5d2268246.html",
         "https://www.ilfattoquotidiano.it/2026/06/12/space-x-sold-out-allo-sbarco-in-borsa-ma-elon-musk-tiene-stretto-il-controllo-risparmiatori-italiani-tagliati-fuori/8417541/",
-        "https://www.ilmessaggero.it/persone/elon_musk_trilionario_cosa_significa_quanto_guadagna-9588691.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48143402/storico-debutto-di-spacex-a-wall-street-musk-vi-portero-oltre-marte/"
+        "https://www.liberoquotidiano.it/news/tv-news/48144763/folla-a-times-square-le-azioni-di-spacex-infiammano-wall-street/",
+        "https://www.ilmessaggero.it/persone/elon_musk_trilionario_cosa_significa_quanto_guadagna-9588691.html"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "In due sul monopattino, morto 18enne nello scontro con un’automobile: la tragedia nella notte a Milano",
       "source_count": 7,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
+        "lastampa.it",
         "fanpage.it",
         "ilgiornale.it",
         "ansa.it",
         "unita.it",
         "ilmessaggero.it",
-        "milano.repubblica.it",
-        "lastampa.it"
+        "milano.repubblica.it"
       ],
       "links": [
+        "https://www.lastampa.it/cronaca/2026/06/12/news/eros_morto_in_monopattino_papa_intervista_commemorazione-15657217/",
         "https://www.fanpage.it/milano/trovato-privo-di-sensi-accanto-al-monopattino-sulla-ciclabile-di-rodano-nel-milanese-morto-un-20enne/",
         "https://www.ilgiornale.it/news/cronaca-nera/chi-era-eros-gagliardi-19enne-passeggero-monopattino-morto-2678080.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/12/17enne-investito-e-ucciso-rientrava-a-piedi-da-una-festa_417a56cb-dc99-4840-9a63-739f09d67db8.html",
-        "https://www.unita.it/2026/06/12/monopattino-morto-18enne-scontro-automobile-tragedia-milano/",
-        "https://www.ilmessaggero.it/italia/eros_gagliardi_chi_era_miocardite_ragazzo_morto_monopattino_milano-9588256.html"
+        "https://www.unita.it/2026/06/12/monopattino-morto-18enne-scontro-automobile-tragedia-milano/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Trump: \"Raggiunto un accordo con l'Iran, a breve la firma\"",
       "source_count": 5,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
         "ansa.it",
         "ilgiornale.it",
@@ -86,38 +111,38 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/12/il-pakistan-ce-un-testo-comune-iran-usa.-voci-sulla-firma-domenica-a-ginevra_a6ecc0b7-9fe7-4b29-be1b-445da5427101.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/12/medio-oriente-voci-di-una-firma-a-ginevra-ma-lintesa-usa-iran-e-un-giallo_ec757a63-c4ea-4b6e-8f49-1546853c894c.html",
         "https://www.ilgiornale.it/news/politica/hormuz-nucleare-e-fondi-congelati-nostro-testo-tocca-2677824.html",
         "https://www.ilgiornale.it/news/politica/trump-ferma-i-raid-c-lintesa-e-teheran-arriva-lapertura-2677821.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48136230/trump-raggiunto-accordo-iran-a-breve-firma/",
-        "https://www.repubblica.it/esteri/2026/06/12/diretta/guerra_iran_usa_israele_news_oggi-425405229/"
+        "https://www.liberoquotidiano.it/news/libero-video/48136230/trump-raggiunto-accordo-iran-a-breve-firma/"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "È morto l'artista britannico David Hockney",
       "source_count": 8,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "ansa.it",
         "fanpage.it",
         "unita.it",
         "ilgiornale.it",
         "ilmessaggero.it",
-        "ansa.it",
         "repubblica.it",
         "lastampa.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/videogallery/spettacolo/2026/06/12/morto-a-88-anni-david-hockney-un-viaggio-attraverso-il-suo-amore-per-larte_d4b296f9-f158-4d48-9831-e6cce29cf71c.html",
         "https://www.fanpage.it/stile-e-trend/design/ha-portato-la-pittura-nel-futuro-chi-era-david-hockney-il-rivoluzionario-dellarte-contemporanea/",
         "https://www.unita.it/2026/06/12/morto-david-hockney-protagonista-pop-art-guadagnino-bojack-horseman/",
         "https://www.ilgiornale.it/news/arte-e-storia/morto-lartista-britannico-david-hockney-2678072.html",
-        "https://www.fanpage.it/cultura/e-morto-david-hockney-lartista-iconico-della-pop-art-aveva-87-anni/",
-        "https://www.ilmessaggero.it/persone/david_hockney_morto_artista_britannico_chi_era-9588302.html"
+        "https://www.fanpage.it/cultura/e-morto-david-hockney-lartista-iconico-della-pop-art-aveva-87-anni/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Ventimiglia, ritrovati i corpi senza vita dei due ragazzi dispersi",
       "source_count": 7,
       "article_count": 9,
@@ -139,7 +164,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Macron-Meloni, primo vertice bilaterale il 25 giugno ad Antibes con nove ministri",
       "source_count": 8,
       "article_count": 8,
@@ -147,73 +172,29 @@
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "repubblica.it",
-        "liberoquotidiano.it",
         "adnkronos.com",
         "ilgiornale.it",
         "ansa.it",
-        "lastampa.it"
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/06/12/vertice-meloni-macron-antibes-giugno-notizie/8417427/",
         "https://www.ilmessaggero.it/mondo/meloni_macron_vertice_francia_di_cosa_parlano-9588576.html",
         "https://www.repubblica.it/politica/2026/06/12/news/macron_meloni_antibes_incontro_25_giugno-425406511/",
-        "https://www.liberoquotidiano.it/news/esteri/48140073/giorgia-meloni-emmanuel-macron-prima-volta-cosa-tavolo-antibes/",
-        "https://www.adnkronos.com/internazionale/esteri/meloni-macron-vertice-antibes_7O7kGkx9AmFMstqtv4z7C"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Problema tecnico sull'aereo del Papa in Spagna: Leone tornerà a Roma con il Falcon del Re",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "fanpage.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/vaticano/notizie/2026/06/12/iberia-il-guasto-allaereo-non-puo-essere-riparato.-leone-tornera-a-roma_8f35351a-ccdb-4cbb-b7fe-ac1c2f7baf29.html",
-        "https://www.adnkronos.com/internazionale/esteri/papa-leone-aereo-guasto-tecnico-decollo_YcOzx6wlPUla2RQZWZgQv",
-        "https://www.ilfattoquotidiano.it/2026/06/12/volo-papa-tenerife-re-felipe-problema-tecnico/8417540/",
-        "https://www.ilgiornale.it/news/vaticano/problema-tecnico-sullaereo-papa-spagna-re-felipe-sala-bordo-2678221.html",
-        "https://www.ilmessaggero.it/vaticano/papa_leone_bloccato_tenerife_aereo_guasto-9588656.html"
+        "https://www.adnkronos.com/internazionale/esteri/meloni-macron-vertice-antibes_7O7kGkx9AmFMstqtv4z7C",
+        "https://www.ilgiornale.it/news/politica-internazionale/primo-vertice-bilaterale-meloni-e-macron-incontro-italia-2678134.html"
       ]
     },
     {
       "rank": 9,
-      "title": "Lago Maggiore, elicottero precipitato a Lesa",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "torino.repubblica.it",
-        "agi.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/12/precipita-elicottero-sul-lago-maggiore-un-morto-e-tre-feriti_ee6879cf-1adb-4c6e-9481-cc8dbdcd2a12.html",
-        "https://www.lastampa.it/novara/2026/06/12/news/adrian_bryner_morto_elicottero_lesa_lago_maggiore-15656745/",
-        "https://www.ilgiornale.it/news/nazionale/precipita-elicottero-sul-lago-maggiore-morto-e-tre-feriti-2678076.html",
-        "https://www.fanpage.it/attualita/elicottero-precipita-a-lesa-sul-lago-maggiore-in-corso-lintervento-dei-soccorritori/",
-        "https://torino.repubblica.it/cronaca/2026/06/12/news/elicottero_precipita_solcio_lesa_lago_maggiore-425406034/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Nicole Minetti «non deve scontare la pena»: così i giudici prendono atto della grazia concessa",
-      "source_count": 7,
-      "article_count": 7,
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ilgiornale.it",
+        "liberoquotidiano.it",
         "ansa.it",
         "ilmessaggero.it",
         "adnkronos.com",
@@ -223,9 +204,32 @@
       "links": [
         "https://www.ilfattoquotidiano.it/2026/06/12/nicole-minetti-grazia-quirinale-pena-notizie/8417568/",
         "https://www.ilgiornale.it/news/interni/caso-minetti-lultima-parola-tribunale-si-attende-lok-revoca-2678178.html",
+        "https://www.liberoquotidiano.it/news/giustizia/48143437/nicole-minetti-tribunale-sorveglianza-revoca-esecuzione-pena-caso-chiuso/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/12/pg-a-giudici-prendere-atto-della-grazia-a-minetti-non-deve-scontare-la-pena_2f41869d-a2da-4935-a507-9dd726f38cdb.html",
-        "https://www.ilmessaggero.it/politica/nicole_minetti_grazia_niente_pena_da_scontare_oggi-9588675.html",
-        "https://www.adnkronos.com/cronaca/nicole-minetti-grazia-sospensione-pena_3jJVgjlDGVNnFQrf62TdPp"
+        "https://www.ilmessaggero.it/politica/nicole_minetti_grazia_niente_pena_da_scontare_oggi-9588675.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Madre e figlia avvelenate con ricina, denunciata amica di famiglia per favoreggiamento: “Ha negato le liti”",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
+        "repubblica.it",
+        "unita.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/mamma-e-figlia-avvelenate-ricina-denunciata-amica-famiglia-2678283.html",
+        "https://www.fanpage.it/attualita/madre-e-figlia-avvelenate-con-ricina-denunciata-amica-di-famiglia-per-favoreggiamento-ha-negato-le-liti/",
+        "https://www.repubblica.it/cronaca/2026/06/12/news/avvelenate_ricina_pietracatella_indagata_amica_di_famiglia-425406674/",
+        "https://www.unita.it/2026/06/12/morte-avvelenate-ricina-amica-famiglia-denunciata-favoreggiamento/",
+        "https://www.adnkronos.com/cronaca/giallo-pietracatella-svolta-caso-amica-famiglia_2HApy0S1zc8qZDHzxUABok"
       ]
     }
   ]
