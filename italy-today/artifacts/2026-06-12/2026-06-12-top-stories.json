@@ -1,6 +1,6 @@
 {
   "date": "2026-06-12",
-  "generated_at": "Fri 12 Jun 20:21",
+  "generated_at": "Fri 12 Jun 20:26",
   "stories": [
     {
       "rank": 1,
@@ -100,26 +100,6 @@
     },
     {
       "rank": 5,
-      "title": "Trump: \"Raggiunto un accordo con l'Iran, a breve la firma\"",
-      "source_count": 5,
-      "article_count": 13,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/12/il-pakistan-ce-un-testo-comune-iran-usa.-voci-sulla-firma-domenica-a-ginevra_a6ecc0b7-9fe7-4b29-be1b-445da5427101.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/12/medio-oriente-voci-di-una-firma-a-ginevra-ma-lintesa-usa-iran-e-un-giallo_ec757a63-c4ea-4b6e-8f49-1546853c894c.html",
-        "https://www.ilgiornale.it/news/politica/hormuz-nucleare-e-fondi-congelati-nostro-testo-tocca-2677824.html",
-        "https://www.ilgiornale.it/news/politica/trump-ferma-i-raid-c-lintesa-e-teheran-arriva-lapertura-2677821.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48136230/trump-raggiunto-accordo-iran-a-breve-firma/"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "È morto l'artista britannico David Hockney",
       "source_count": 8,
       "article_count": 10,
@@ -139,6 +119,27 @@
         "https://www.unita.it/2026/06/12/morto-david-hockney-protagonista-pop-art-guadagnino-bojack-horseman/",
         "https://www.ilgiornale.it/news/arte-e-storia/morto-lartista-britannico-david-hockney-2678072.html",
         "https://www.fanpage.it/cultura/e-morto-david-hockney-lartista-iconico-della-pop-art-aveva-87-anni/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Trump: \"Raggiunto un accordo con l'Iran, a breve la firma\"",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "fanpage.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-12-giugno/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/12/il-pakistan-ce-un-testo-comune-iran-usa.-voci-sulla-firma-domenica-a-ginevra_a6ecc0b7-9fe7-4b29-be1b-445da5427101.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/12/medio-oriente-voci-di-una-firma-a-ginevra-ma-lintesa-usa-iran-e-un-giallo_ec757a63-c4ea-4b6e-8f49-1546853c894c.html",
+        "https://www.ilgiornale.it/news/politica/trump-ferma-i-raid-c-lintesa-e-teheran-arriva-lapertura-2677821.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48136230/trump-raggiunto-accordo-iran-a-breve-firma/"
       ]
     },
     {
