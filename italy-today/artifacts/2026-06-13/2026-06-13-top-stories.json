@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated_at": "Sat 13 Jun 09:27",
+  "generated_at": "Sat 13 Jun 12:01",
   "stories": [
     {
       "rank": 1,
@@ -28,32 +28,35 @@
     },
     {
       "rank": 2,
-      "title": "Modena, studente punta una pistola al professore in classe. «Dammi le sigarette o sparo»",
-      "source_count": 7,
-      "article_count": 7,
+      "title": "\"Dammi le sigarette o sparo\", studente punta la pistola contro un professore",
+      "source_count": 9,
+      "article_count": 9,
       "source_domains": [
+        "adnkronos.com",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "fanpage.it",
         "ansa.it",
         "ilmessaggero.it",
         "bologna.repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "agi.it"
       ],
       "links": [
+        "https://www.adnkronos.com/cronaca/punta-pistola-contro-professore-modena-mirandola_6SmLzLiELCQuuzS134MxyL",
         "https://www.ilgiornale.it/news/nazionale/dammi-sigarette-o-sparo-studente-punta-pistola-professore-2678454.html",
         "https://www.ilfattoquotidiano.it/2026/06/13/studente-pistola-professore-mirandola-notizie/8418007/",
         "https://www.fanpage.it/attualita/modena-dammi-le-sigarette-o-ti-sparo-studente-punta-la-pistola-a-pallini-contro-il-prof/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/13/-punta-una-pistola-al-professore-in-classe-nel-modenese-_57d68b8f-eb49-46b8-a761-2b036555775d.html",
-        "https://www.ilmessaggero.it/italia/modena_pistola_scuola_professore_sigarette_minaccia-9590194.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/13/-punta-una-pistola-al-professore-in-classe-nel-modenese-_57d68b8f-eb49-46b8-a761-2b036555775d.html"
       ]
     },
     {
       "rank": 3,
       "title": "Usa-Iran, accordo a un passo. Trump: entro lunedì la firma. Droni abbattuti a Hormuz",
-      "source_count": 7,
-      "article_count": 7,
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
+        "repubblica.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "fanpage.it",
@@ -63,56 +66,138 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.repubblica.it/esteri/2026/06/13/diretta/guerra_iran_usa_israele_news_oggi-425407628/",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/13/usa-abbattuti-diversi-droni-iraniani-contro-navi-commerciali-ad-hormuz_94a56ef3-898b-4ea0-a3b3-ade166d183ea.html",
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/13/iran-laccordo-con-gli-usa-regge-nella-notte-abbattuti-droni-di-teheran-a-hormuz-dallesercito-statunitense/8417920/",
         "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-13-giugno/",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-accordo-news_7eO6XDImNjJ2MLY4UdfDQ3",
-        "https://www.ilgiornale.it/news/guerra/accordo-fatto-usa-e-teheran-attesa-firma-nella-notte-sono-2678394.html"
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-accordo-news_7eO6XDImNjJ2MLY4UdfDQ3"
       ]
     },
     {
       "rank": 4,
-      "title": "David Hockney, addio al maestro della luce",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Usa, la prima uscita è uno show: 4-1 al Paraguay. Trump assente, tante star di Hollywood in tribuna",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "ilgiornale.it",
-        "ilmanifesto.it",
-        "lastampa.it",
+        "adnkronos.com",
         "ansa.it",
-        "unita.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/si-tuff-nella-pittura-rinnovandola-tutta-forza-colore-e-pop-2678331.html",
-        "https://ilmanifesto.it/david-hockney-unesperienza-ininterrotta-di-piacere",
-        "https://www.lastampa.it/cultura/2026/06/13/news/david_hockney_arte_luce_colore_pittura-15657318/",
-        "https://www.ansa.it/sito/notizie/cultura/2026/06/12/e-morto-a-88-anni-lartista-britannico-david-hockney_41e2303a-41d1-41a8-aec5-9de6aa37209c.html",
-        "https://www.unita.it/2026/06/12/morto-david-hockney-protagonista-pop-art-guadagnino-bojack-horseman/"
+        "https://www.adnkronos.com/sport/pulisic-milan-usa-paraguay-mondiali-2026_5lIFE40IJeXQKK89QXVNty",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/13/tom-cruise-paris-hilton-jamie-foxx-hollywood-va-allo-stadio-per_37281289-cedd-4b27-ae47-f8a72dfd5976.html",
+        "https://www.ilfattoquotidiano.it/2026/06/13/mondiali-2026-risultati-notte-13-giugno-nuove-classifiche/8417976/",
+        "https://www.liberoquotidiano.it/news/tv-news/48152263/mondiali-i-tifosi-usa-festeggiano-la-prima-vittoria/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/13/mondiali-usa-paraguay-4-1.-trump-assente-al-debutto-della-nazionale_93d836b4-bd54-4613-9217-a8ca10c26817.html"
       ]
     },
     {
       "rank": 5,
-      "title": "Problema all'aereo, il Papa torna a Roma con il jet del re di Spagna",
+      "title": "Re Carlo del Brasile e il sogno più grande",
       "source_count": 5,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
+        "lastampa.it",
         "ilmessaggero.it",
-        "news.google.com"
+        "ilgiornale.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/videogallery/mondo/2026/06/12/il-papa-torna-a-roma-con-il-jet-del-re-di-spagna_2a062838-69b4-499d-bdf5-acbd4688f267.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48148436/papa-leone-xiv-riesce-lasciare-tenerife-jet-privato-re-felipe/",
-        "https://www.ansa.it/vaticano/notizie/2026/06/12/un-guasto-allaereo-iberia-leone-torna-a-roma-con-laereo-di-re-felipe_8f35351a-ccdb-4cbb-b7fe-ac1c2f7baf29.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48143619/papa-leone-costretto-a-scendere-dall-aereo-per-un-problema-tecnico/",
-        "https://www.ilgiornale.it/news/vaticano/problema-tecnico-sullaereo-papa-spagna-re-felipe-sala-bordo-2678221.html"
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/12/mondiali-il-brasile-scalda-new-york-il-grande-sogno-di-ancelotti_e2fc768b-7c67-40d1-b550-5364345d4fa5.html",
+        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/06/13/news/mondiali_in_tv_alberto_rimedio_voce_di_brasile-marocco-15657600/",
+        "https://www.ilmessaggero.it/sport/schede/ancelotti_brasile_mondiali_chi_e_guadagni_moglie_eta_vittorie_figli-9590107.html",
+        "https://www.ilgiornale.it/news/sport/aver-vinto-tutto-nei-club-ancelotti-affronta-sfida-pi-2678339.html",
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/06/13/news/brasile_ancelotti_sorrentino_grande_bellezza-425407578/"
       ]
     },
     {
       "rank": 6,
+      "title": "SpaceX vola a Wall Street. Musk è il primo trilionario",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilmanifesto.it",
+        "ansa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/spacex-vola-wall-street-musk-primo-trilionario-2678319.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48148435/space-x-debutto-wall-street-musk-vi-porteremo-marte-oltre/",
+        "https://www.lastampa.it/economia/2026/06/13/news/spacex_debutto_borsa_musk-15657463/",
+        "https://ilmanifesto.it/paperone-futurista-musk-e-il-primo-trilionario",
+        "https://www.ansa.it/sito/notizie/economia/2026/06/12/parte-mega-ipo-musk-davo-a-spacex-meno-del-10-di-probabilita-di-riuscita_49ce47f0-8c05-4a31-ab22-8405131bd56d.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Problema all'aereo, il Papa torna a Roma con il jet del re di Spagna",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/vaticano/papa-resta-terra-e-attacca-chi-promette-paradiso-ai-migranti-2678437.html",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/06/12/il-papa-torna-a-roma-con-il-jet-del-re-di-spagna_2a062838-69b4-499d-bdf5-acbd4688f267.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48148436/papa-leone-xiv-riesce-lasciare-tenerife-jet-privato-re-felipe/",
+        "https://www.ansa.it/vaticano/notizie/2026/06/12/un-guasto-allaereo-iberia-leone-torna-a-roma-con-laereo-di-re-felipe_8f35351a-ccdb-4cbb-b7fe-ac1c2f7baf29.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48143619/papa-leone-costretto-a-scendere-dall-aereo-per-un-problema-tecnico/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Mondiali 2026, Inghilterra derubata negli Usa: spariti palloni, scarpini e materiale d'allenamento. Cosa è successo",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "fanpage.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/06/13/mondiali-2026-furto-inghilterra-scaripini-lavagne-tuchel/8418139/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/13/mondiali-rubate-scarpe-e-palloni-nel-ritiro-dellinghilterra-indaga-la-polizia_02a9dd4e-0410-48c8-b3b9-5c6baba31ae3.html",
+        "https://www.adnkronos.com/sport/inghilterra-mondiali-2026-furto-ritiro_2vwJKVenwBI3VJm7evsdCs",
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/06/13/news/kane_bellingham_furto_nazionale_inglese_rubati_scarpini_palloni-425408144/",
+        "https://www.fanpage.it/sport/calcio/inghilterra-vittima-di-un-furto-colossale-rubati-scarpini-di-kane-e-bellingham-e-le-lavagne-di-tuchel/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Araghchi ci crede: \"Accordo vicino\". Ma manca ancora l'ok di Khamenei",
+      "source_count": 4,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/araghchi-ci-crede-accordo-vicino-manca-ancora-lok-khamenei-2678295.html",
+        "https://www.ilgiornale.it/news/politica/hormuz-nucleare-e-beni-congelati-tenuta-dellintesa-si-gioca-2678298.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48151994/iran-l-accordo-sara-firmato-nei-prossimi-giorni/",
+        "https://www.liberoquotidiano.it/news/libero-video/48148437/iran-araghchi-ecco-i-passi-per-l-accordo-con-gli-usa-per-finire-la-guerra-/",
+        "https://www.repubblica.it/esteri/2026/06/13/news/iran_usa_scambio_accuse_accordo_regge_europei_irrilevanti-425407404/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Primo vertice bilaterale tra Meloni e Macron: incontro Italia-Francia ad Antibes il 25 luglio, presenti 9 ministri",
       "source_count": 5,
       "article_count": 5,
@@ -129,82 +214,6 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/06/12/primo-vertice-bilaterale-macron-meloni-il-25-giugno-ad-antibes_1d21cf27-b63b-40df-962d-7620318af14c.html",
         "https://www.ilgiornale.it/news/politica-internazionale/primo-vertice-bilaterale-meloni-e-macron-incontro-italia-2678134.html",
         "https://www.ilsole24ore.com/art/meloni-e-macron-sara-ad-antibes-primo-bilaterale-prove-disgelo-i-bastioni-AIq4GydD"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Usa, la prima uscita è uno show: 4-1 al Paraguay. Trump assente, tante star di Hollywood in tribuna",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "fanpage.it",
-        "repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/06/13/mondiali-2026-risultati-notte-13-giugno-nuove-classifiche/8417976/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/13/mondiali-usa-paraguay-4-1.-trump-assente-al-debutto-della-nazionale_93d836b4-bd54-4613-9217-a8ca10c26817.html",
-        "https://www.fanpage.it/sport/calcio/stati-uniti-show-ai-mondiali-esordio-da-sogno-e-poker-al-paraguay-davanti-alle-stelle-di-hollywood/",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/06/13/news/usa_paraguay_gol-425407804/",
-        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mM2JUbzhqZW5LQWtVcURUNFdPdnBSVnRCSjd4R1RnOF9zU1dSczdXd24weGRURmJrRW1Md3JKLWJEMWdoSUw1clowMTlxcVpER01oQnBCSElNWTBpWkRBWg?oc=5"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Re Carlo del Brasile e il sogno più grande",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/schede/ancelotti_brasile_mondiali_chi_e_guadagni_moglie_eta_vittorie_figli-9590107.html",
-        "https://www.ilgiornale.it/news/sport/aver-vinto-tutto-nei-club-ancelotti-affronta-sfida-pi-2678339.html",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/06/13/news/brasile_ancelotti_sorrentino_grande_bellezza-425407578/",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/06/13/news/brasile_di_ancelotti_marocco-15657330/",
-        "https://www.ilmessaggero.it/sport/schede/brasile_marocco_dove_vederla_in_chiaro_tv_streaming_orario_formazioni-9588477.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "SpaceX vola al debutto in Borsa. Musk: “Vi porterò su Marte”",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/48148435/space-x-debutto-wall-street-musk-vi-porteremo-marte-oltre/",
-        "https://www.lastampa.it/economia/2026/06/13/news/spacex_debutto_borsa_musk-15657463/",
-        "https://ilmanifesto.it/paperone-futurista-musk-e-il-primo-trilionario",
-        "https://www.liberoquotidiano.it/news/tv-news/48144763/folla-a-times-square-le-azioni-di-spacex-infiammano-wall-street/",
-        "https://www.ilmessaggero.it/persone/elon_musk_trilionario_cosa_significa_quanto_guadagna-9588691.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Vannacci, al via l’assemblea costituente del partito. Il generale prepara il contrattacco a Meloni",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/06/13/simbolo-del-partito-e-colosseo-tutto-pronto-per-lassemblea-costituente-di-futuro_c7d6ee59-cf9b-445f-8d6e-6e39609b3e79.html",
-        "https://www.ilmessaggero.it/politica/vannacci_futuro_nazionale-9590184.html",
-        "https://www.lastampa.it/politica/2026/06/13/news/le_truppe_di_vannacci_sbarcano_a_roma_sono_il_mio_esercito-15657338/",
-        "https://www.ilsole24ore.com/art/vannacci-via-l-assemblea-costituente-partito-generale-prepara-contrattacco-meloni-AIvXondD"
       ]
     }
   ]
