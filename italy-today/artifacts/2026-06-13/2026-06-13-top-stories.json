@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated_at": "Sat 13 Jun 18:18",
+  "generated_at": "Sat 13 Jun 19:51",
   "stories": [
     {
       "rank": 1,
@@ -29,30 +29,6 @@
     },
     {
       "rank": 2,
-      "title": "È strage di alpinisti: 7 morti in 24 ore, gli ultimi incidenti sul Cervino e il Monte Bianco",
-      "source_count": 9,
-      "article_count": 11,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "torino.repubblica.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ilsole24ore.com",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/attualita/incidenti-in-montagna-7-vittime-in-24-ore-un-alpinista-morto-sul-cervino-illeso-il-compagno/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/13/morto-un-altro-alpinista-su-monte-bianco-e-il-settimo-in-24-ore_937b7e88-8e8e-4c8b-9e89-c3e72e1b1bb2.html",
-        "https://www.ilfattoquotidiano.it/2026/06/13/incidenti-alpi-alpinisti-morti-notizie/8418229/",
-        "https://torino.repubblica.it/cronaca/2026/06/13/news/due_alpinisti_morti_sul_monte_bianco-425408504/",
-        "https://www.fanpage.it/attualita/morti-sul-gran-paradiso-3-alpinisti-trentini-precipitati-per-circa-400-metri-il-piu-giovane-aveva-29-anni/"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "F1: Russell in pole a Barcellona davanti ad Hamilton LA GRIGLIA DI PARTENZA",
       "source_count": 8,
       "article_count": 12,
@@ -75,7 +51,53 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "È strage di alpinisti: 7 morti in 24 ore, gli ultimi incidenti sul Cervino e il Monte Bianco",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "fanpage.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "torino.repubblica.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/attualita/incidenti-in-montagna-7-vittime-in-24-ore-un-alpinista-morto-sul-cervino-illeso-il-compagno/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/13/morto-un-altro-alpinista-su-monte-bianco-e-il-settimo-in-24-ore_937b7e88-8e8e-4c8b-9e89-c3e72e1b1bb2.html",
+        "https://www.ilfattoquotidiano.it/2026/06/13/incidenti-alpi-alpinisti-morti-notizie/8418229/",
+        "https://torino.repubblica.it/cronaca/2026/06/13/news/due_alpinisti_morti_sul_monte_bianco-425408504/",
+        "https://www.fanpage.it/attualita/morti-sul-gran-paradiso-3-alpinisti-trentini-precipitati-per-circa-400-metri-il-piu-giovane-aveva-29-anni/"
+      ]
+    },
+    {
       "rank": 4,
+      "title": "Garlasco, Stasi può uscire dal carcere: c’è l’ok all’affidamento in prova ai servizi sociali",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "milano.repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/flash/2026/06/13/-tribunale-sorveglianza-positivo-il-percorso-di-stasi-in-carcere-_a511a1ef-deee-4428-a899-541113f9aa5a.html",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/i-giudici-stasi-pu-uscire-carcere-libera-allaffidamento-2678421.html",
+        "https://www.fanpage.it/attualita/alberto-stasi-puo-uscire-dal-carcere-i-giudici-danno-ok-allaffidamento-in-prova-ai-servizi-sociali/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/13/i-giudici-stasi-puo-uscire-dal-carcere-via-libera-allaffidamento_4395aaaa-e23b-48ed-84c2-5a33a6318fef.html",
+        "https://www.ilfattoquotidiano.it/2026/06/13/caso-garlasco-stasi-affidamento-servizi-sociali-notizie-2/8417954/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Usa, la prima uscita è uno show: 4-1 al Paraguay. Trump assente, tante star di Hollywood in tribuna",
       "source_count": 7,
       "article_count": 10,
@@ -97,7 +119,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Usa-Iran, accordo a un passo. Trump: entro lunedì la firma. Droni abbattuti a Hormuz",
       "source_count": 8,
       "article_count": 9,
@@ -117,29 +139,6 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/06/13/usa-abbattuti-diversi-droni-iraniani-contro-navi-commerciali-ad-hormuz_94a56ef3-898b-4ea0-a3b3-ade166d183ea.html",
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/13/iran-laccordo-con-gli-usa-regge-nella-notte-abbattuti-droni-di-teheran-a-hormuz-dallesercito-statunitense/8417920/",
         "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-13-giugno/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Garlasco, Stasi può uscire dal carcere: c’è l’ok all’affidamento in prova ai servizi sociali",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "milano.repubblica.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "laverita.info"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/i-giudici-stasi-pu-uscire-carcere-libera-allaffidamento-2678421.html",
-        "https://www.fanpage.it/attualita/alberto-stasi-puo-uscire-dal-carcere-i-giudici-danno-ok-allaffidamento-in-prova-ai-servizi-sociali/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/13/i-giudici-stasi-puo-uscire-dal-carcere-via-libera-allaffidamento_4395aaaa-e23b-48ed-84c2-5a33a6318fef.html",
-        "https://www.ilfattoquotidiano.it/2026/06/13/caso-garlasco-stasi-affidamento-servizi-sociali-notizie-2/8417954/",
-        "https://milano.repubblica.it/cronaca/2026/06/13/news/garlasco_alberto_stasi_uscire_carcere_ok_affidamento_prova_servizi_sociali-425408065/"
       ]
     },
     {
@@ -166,6 +165,28 @@
     },
     {
       "rank": 8,
+      "title": "Omicidio a Milano, 60enne trovato morto in casa con ferite alla testa",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "milano.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/13/uomo-trovato-morto-in-casa-a-milano-ipotesi-omicidio_e2adf702-6af8-4c6d-baef-bc396c557952.html",
+        "https://www.ilmessaggero.it/italia/roberto_pietro_guerrino_morto_milano_ucciso_cosa_e_successo_chi_era-9590655.html",
+        "https://www.adnkronos.com/cronaca/milano-uomo-trovato-morto-in-casa-con-ferite-alla-testa-ipotesi-omicidio_2S6EUQO4kMQj93jFCn7JkQ",
+        "https://www.adnkronos.com/cronaca/milano-trovato-morto-in-casa-roberto-pietro-guerrino_2S6EUQO4kMQj93jFCn7JkQ",
+        "https://www.fanpage.it/milano/trovato-morto-in-casa-a-milano-roberto-pietro-guerrino-colpito-alla-testa-con-un-corpo-contundente/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Mondiali 2026, furto di materiale tecnico nel ritiro dell'Inghilterra",
       "source_count": 7,
       "article_count": 7,
@@ -187,7 +208,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "SpaceX vola a Wall Street. Musk è il primo trilionario",
       "source_count": 7,
       "article_count": 7,
@@ -206,28 +227,6 @@
         "https://www.ilfattoquotidiano.it/2026/06/13/elon-musk-trilionario-spacex-fondi-pensione-rischi-quotazione-notizie/8418235/",
         "https://www.ilgiornale.it/news/politica/spacex-vola-wall-street-musk-primo-trilionario-2678319.html",
         "https://www.liberoquotidiano.it/news/libero-video/48148435/space-x-debutto-wall-street-musk-vi-porteremo-marte-oltre/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Cade un areo da turismo nel Comasco: gravissimi due uomini di 55 e 66 anni",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "milano.repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.fanpage.it/milano/aereo-da-turismo-precipita-a-lurate-caccivio-como-due-feriti-gravissimi/",
-        "https://www.ilfattoquotidiano.it/2026/06/13/aereo-da-turismo-si-schianta-nel-comasco-gravissimi-due-uomini-di-58-e-55-anni/8418418/",
-        "https://milano.repubblica.it/cronaca/2026/06/13/news/cade_areo_turismo_comasco_gravissimi_uomini-425408800/",
-        "https://www.ilmessaggero.it/italia/como_aereo_turismo_precipitato_cosa_e_successo-9590545.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/13/cade-aereo-da-turismo-nel-comasco-due-feriti-gravissimi_723cb049-0776-41c9-9200-8efe9e16ed4a.html"
       ]
     }
   ]
