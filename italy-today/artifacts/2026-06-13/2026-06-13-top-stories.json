@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated_at": "Sat 13 Jun 14:23",
+  "generated_at": "Sat 13 Jun 16:23",
   "stories": [
     {
       "rank": 1,
@@ -29,9 +29,55 @@
     },
     {
       "rank": 2,
+      "title": "È strage di alpinisti: 7 morti in 24 ore, gli ultimi incidenti sul Cervino e il Monte Bianco",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "fanpage.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "torino.repubblica.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/attualita/incidenti-in-montagna-7-vittime-in-24-ore-un-alpinista-morto-sul-cervino-illeso-il-compagno/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/13/morto-un-altro-alpinista-su-monte-bianco-e-il-settimo-in-24-ore_937b7e88-8e8e-4c8b-9e89-c3e72e1b1bb2.html",
+        "https://www.ilfattoquotidiano.it/2026/06/13/incidenti-alpi-alpinisti-morti-notizie/8418229/",
+        "https://torino.repubblica.it/cronaca/2026/06/13/news/due_alpinisti_morti_sul_monte_bianco-425408504/",
+        "https://www.fanpage.it/attualita/morti-sul-gran-paradiso-3-alpinisti-trentini-precipitati-per-circa-400-metri-il-piu-giovane-aveva-29-anni/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "F1: Russell si prende la pole a Barcellona, secondo Hamilton",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "ilgiornale.it",
+        "repubblica.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/motori/f1-leclerc-muro-barcellona-pole-russell-hamilton-2-davanti-2678564.html",
+        "https://www.repubblica.it/sport/formulauno/2026/06/13/diretta/gp_barcellona_2026_diretta_pole_ferrari_antonelli-425408631/",
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/06/13/f1-russell-si-prende-la-pole-a-barcellona-secondo-hamilton_6d69baff-6bcc-4a48-b8bf-86532d52a6a2.html",
+        "https://www.adnkronos.com/sport/qualifiche-gp-barcellona-griglia-oggi-13-giugno-risultati_7eD58Uy2R1EA1FDLyAQBKT",
+        "https://www.ilfattoquotidiano.it/2026/06/13/f1-gp-barcellona-qualifiche-griglia-di-partenza-russell-hamilton-antonelli-leclerc/8418397/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Garlasco, Stasi può uscire dal carcere: c’è l’ok all’affidamento in prova ai servizi sociali",
-      "source_count": 9,
-      "article_count": 9,
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
         "ilgiornale.it",
         "fanpage.it",
@@ -40,8 +86,7 @@
         "milano.repubblica.it",
         "adnkronos.com",
         "lastampa.it",
-        "laverita.info",
-        "ilsole24ore.com"
+        "laverita.info"
       ],
       "links": [
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/i-giudici-stasi-pu-uscire-carcere-libera-allaffidamento-2678421.html",
@@ -52,30 +97,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Tre alpinisti morti sul Gran Paradiso: due sono italiani. Corpi individuati a 3.600 metri",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "torino.repubblica.it",
-        "fanpage.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/13/morto-un-altro-alpinista-su-monte-bianco-e-il-settimo-in-24-ore_937b7e88-8e8e-4c8b-9e89-c3e72e1b1bb2.html",
-        "https://www.ilfattoquotidiano.it/2026/06/13/incidenti-alpi-alpinisti-morti-notizie/8418229/",
-        "https://torino.repubblica.it/cronaca/2026/06/13/news/due_alpinisti_morti_sul_monte_bianco-425408504/",
-        "https://www.fanpage.it/attualita/morti-sul-gran-paradiso-3-alpinisti-trentini-precipitati-per-circa-400-metri-il-piu-giovane-aveva-29-anni/",
-        "https://www.lastampa.it/aosta/2026/06/13/news/incidenti_in_montagna_alpinista_muore_sul_cervino-15657706/"
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "title": "Usa, la prima uscita è uno show: 4-1 al Paraguay. Trump assente, tante star di Hollywood in tribuna",
       "source_count": 7,
       "article_count": 9,
@@ -97,7 +119,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Usa-Iran, accordo a un passo. Trump: entro lunedì la firma. Droni abbattuti a Hormuz",
       "source_count": 8,
       "article_count": 8,
@@ -120,7 +142,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Re Carlo del Brasile e il sogno più grande",
       "source_count": 7,
       "article_count": 8,
@@ -142,7 +164,29 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "SpaceX vola a Wall Street. Musk è il primo trilionario",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilmanifesto.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.laverita.info/spacex-ipo-quotazione-borsa-musk-2677036522.html",
+        "https://www.ilfattoquotidiano.it/2026/06/13/elon-musk-trilionario-spacex-fondi-pensione-rischi-quotazione-notizie/8418235/",
+        "https://www.ilgiornale.it/news/politica/spacex-vola-wall-street-musk-primo-trilionario-2678319.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48148435/space-x-debutto-wall-street-musk-vi-porteremo-marte-oltre/",
+        "https://www.lastampa.it/economia/2026/06/13/news/spacex_debutto_borsa_musk-15657463/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Mondiali 2026, furto di materiale tecnico nel ritiro dell'Inghilterra",
       "source_count": 7,
       "article_count": 7,
@@ -164,27 +208,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "FOCUS | Problema all'aereo, il Papa torna a Roma con il jet del re di Spagna",
-      "source_count": 5,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/06/13/focus-problema-allaereo-il-papa-torna-a-roma-con-il-jet-del-re-di-spagna_1056e2ec-8fbf-4c6f-a754-49c838c1b3f7.html",
-        "https://www.ilgiornale.it/news/vaticano/papa-resta-terra-e-attacca-chi-promette-paradiso-ai-migranti-2678437.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/06/12/il-papa-torna-a-roma-con-il-jet-del-re-di-spagna_2a062838-69b4-499d-bdf5-acbd4688f267.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48148436/papa-leone-xiv-riesce-lasciare-tenerife-jet-privato-re-felipe/",
-        "https://www.ansa.it/vaticano/notizie/2026/06/12/un-guasto-allaereo-iberia-leone-torna-a-roma-con-laereo-di-re-felipe_8f35351a-ccdb-4cbb-b7fe-ac1c2f7baf29.html"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "Hormuz, nucleare e beni congelati. La tenuta dell'intesa si gioca sui dettagli",
       "source_count": 5,
       "article_count": 8,
@@ -201,27 +225,6 @@
         "https://www.ilgiornale.it/news/politica/hormuz-nucleare-e-beni-congelati-tenuta-dellintesa-si-gioca-2678298.html",
         "https://www.liberoquotidiano.it/news/tv-news/48151994/iran-l-accordo-sara-firmato-nei-prossimi-giorni/",
         "https://www.liberoquotidiano.it/news/libero-video/48148437/iran-araghchi-ecco-i-passi-per-l-accordo-con-gli-usa-per-finire-la-guerra-/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "SpaceX vola a Wall Street. Musk è il primo trilionario",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/spacex-vola-wall-street-musk-primo-trilionario-2678319.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48148435/space-x-debutto-wall-street-musk-vi-porteremo-marte-oltre/",
-        "https://www.lastampa.it/economia/2026/06/13/news/spacex_debutto_borsa_musk-15657463/",
-        "https://ilmanifesto.it/paperone-futurista-musk-e-il-primo-trilionario",
-        "https://www.ansa.it/sito/notizie/economia/2026/06/12/parte-mega-ipo-musk-davo-a-spacex-meno-del-10-di-probabilita-di-riuscita_49ce47f0-8c05-4a31-ab22-8405131bd56d.html"
       ]
     }
   ]
