@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated_at": "Sat 13 Jun 19:51",
+  "generated_at": "Sat 13 Jun 20:24",
   "stories": [
     {
       "rank": 1,
@@ -62,8 +62,8 @@
         "torino.repubblica.it",
         "lastampa.it",
         "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "agi.it"
       ],
       "links": [
         "https://www.fanpage.it/attualita/incidenti-in-montagna-7-vittime-in-24-ore-un-alpinista-morto-sul-cervino-illeso-il-compagno/",
@@ -120,29 +120,6 @@
     },
     {
       "rank": 6,
-      "title": "Usa-Iran, accordo a un passo. Trump: entro lunedì la firma. Droni abbattuti a Hormuz",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "adnkronos.com",
-        "repubblica.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-trump-accordo-ultime-news-diretta_1hWbYGpIV6WJRHW52j8iTa",
-        "https://www.repubblica.it/esteri/2026/06/13/diretta/guerra_iran_usa_israele_news_oggi-425407628/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/13/usa-abbattuti-diversi-droni-iraniani-contro-navi-commerciali-ad-hormuz_94a56ef3-898b-4ea0-a3b3-ade166d183ea.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/13/iran-laccordo-con-gli-usa-regge-nella-notte-abbattuti-droni-di-teheran-a-hormuz-dallesercito-statunitense/8417920/",
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-13-giugno/"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Re Carlo del Brasile e il sogno più grande",
       "source_count": 7,
       "article_count": 8,
@@ -161,6 +138,28 @@
         "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/12/mondiali-il-brasile-scalda-new-york-il-grande-sogno-di-ancelotti_e2fc768b-7c67-40d1-b550-5364345d4fa5.html",
         "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/06/13/news/mondiali_in_tv_alberto_rimedio_voce_di_brasile-marocco-15657600/",
         "https://www.ilmessaggero.it/sport/schede/ancelotti_brasile_mondiali_chi_e_guadagni_moglie_eta_vittorie_figli-9590107.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Accordo fatto tra Usa e Teheran, attesa per la firma. Ma nella notte sono stati abbattuti diversi droni iraniani a Hormuz",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "repubblica.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-trump-accordo-ultime-news-diretta_1hWbYGpIV6WJRHW52j8iTa",
+        "https://www.repubblica.it/esteri/2026/06/13/diretta/guerra_iran_usa_israele_news_oggi-425407628/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/13/usa-abbattuti-diversi-droni-iraniani-contro-navi-commerciali-ad-hormuz_94a56ef3-898b-4ea0-a3b3-ade166d183ea.html",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/13/iran-laccordo-con-gli-usa-regge-nella-notte-abbattuti-droni-di-teheran-a-hormuz-dallesercito-statunitense/8417920/",
+        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-13-giugno/"
       ]
     },
     {
