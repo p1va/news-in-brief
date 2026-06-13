@@ -1,6 +1,6 @@
 {
   "date": "2026-06-13",
-  "generated_at": "Sat 13 Jun 16:23",
+  "generated_at": "Sat 13 Jun 18:18",
   "stories": [
     {
       "rank": 1,
@@ -30,7 +30,7 @@
     {
       "rank": 2,
       "title": "È strage di alpinisti: 7 morti in 24 ore, gli ultimi incidenti sul Cervino e il Monte Bianco",
-      "source_count": 8,
+      "source_count": 9,
       "article_count": 11,
       "source_domains": [
         "fanpage.it",
@@ -40,7 +40,8 @@
         "lastampa.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "agi.it"
       ],
       "links": [
         "https://www.fanpage.it/attualita/incidenti-in-montagna-7-vittime-in-24-ore-un-alpinista-morto-sul-cervino-illeso-il-compagno/",
@@ -52,13 +53,13 @@
     },
     {
       "rank": 3,
-      "title": "F1: Russell si prende la pole a Barcellona, secondo Hamilton",
+      "title": "F1: Russell in pole a Barcellona davanti ad Hamilton LA GRIGLIA DI PARTENZA",
       "source_count": 8,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
         "ansa.it",
+        "repubblica.it",
+        "ilgiornale.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "fanpage.it",
@@ -66,15 +67,60 @@
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/06/13/f1-russell-in-pole-a-barcellona-davanti-ad-hamilton-la-griglia-di-partenza_6d69baff-6bcc-4a48-b8bf-86532d52a6a2.html",
+        "https://www.repubblica.it/sport/formulauno/2026/06/13/news/f1_barcellona_2026_russell_pole_ferrari_hamilton_leclerc_errore-425408843/",
         "https://www.ilgiornale.it/news/motori/f1-leclerc-muro-barcellona-pole-russell-hamilton-2-davanti-2678564.html",
         "https://www.repubblica.it/sport/formulauno/2026/06/13/diretta/gp_barcellona_2026_diretta_pole_ferrari_antonelli-425408631/",
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/06/13/f1-russell-si-prende-la-pole-a-barcellona-secondo-hamilton_6d69baff-6bcc-4a48-b8bf-86532d52a6a2.html",
-        "https://www.adnkronos.com/sport/qualifiche-gp-barcellona-griglia-oggi-13-giugno-risultati_7eD58Uy2R1EA1FDLyAQBKT",
-        "https://www.ilfattoquotidiano.it/2026/06/13/f1-gp-barcellona-qualifiche-griglia-di-partenza-russell-hamilton-antonelli-leclerc/8418397/"
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/06/13/f1-russell-si-prende-la-pole-a-barcellona-secondo-hamilton_6d69baff-6bcc-4a48-b8bf-86532d52a6a2.html"
       ]
     },
     {
       "rank": 4,
+      "title": "Usa, la prima uscita è uno show: 4-1 al Paraguay. Trump assente, tante star di Hollywood in tribuna",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/13/il-nuovo-capitan-america-e-balogun-nigeriano-di-new-york_3f7b0251-d8f4-4c94-a711-b51066c94773.html",
+        "https://www.adnkronos.com/sport/vip-stati-uniti-tom-cruise-brad-pitt-beckham-mondiali-2026_3N6eEU7B88Yqiz750iTeKb",
+        "https://www.adnkronos.com/sport/pulisic-milan-usa-paraguay-mondiali-2026_5lIFE40IJeXQKK89QXVNty",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/13/tom-cruise-paris-hilton-jamie-foxx-hollywood-va-allo-stadio-per_37281289-cedd-4b27-ae47-f8a72dfd5976.html",
+        "https://www.ilfattoquotidiano.it/2026/06/13/mondiali-2026-risultati-notte-13-giugno-nuove-classifiche/8417976/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Usa-Iran, accordo a un passo. Trump: entro lunedì la firma. Droni abbattuti a Hormuz",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "repubblica.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-trump-accordo-ultime-news-diretta_1hWbYGpIV6WJRHW52j8iTa",
+        "https://www.repubblica.it/esteri/2026/06/13/diretta/guerra_iran_usa_israele_news_oggi-425407628/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/13/usa-abbattuti-diversi-droni-iraniani-contro-navi-commerciali-ad-hormuz_94a56ef3-898b-4ea0-a3b3-ade166d183ea.html",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/13/iran-laccordo-con-gli-usa-regge-nella-notte-abbattuti-droni-di-teheran-a-hormuz-dallesercito-statunitense/8417920/",
+        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-13-giugno/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Garlasco, Stasi può uscire dal carcere: c’è l’ok all’affidamento in prova ai servizi sociali",
       "source_count": 8,
       "article_count": 8,
@@ -94,51 +140,6 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/13/i-giudici-stasi-puo-uscire-dal-carcere-via-libera-allaffidamento_4395aaaa-e23b-48ed-84c2-5a33a6318fef.html",
         "https://www.ilfattoquotidiano.it/2026/06/13/caso-garlasco-stasi-affidamento-servizi-sociali-notizie-2/8417954/",
         "https://milano.repubblica.it/cronaca/2026/06/13/news/garlasco_alberto_stasi_uscire_carcere_ok_affidamento_prova_servizi_sociali-425408065/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Usa, la prima uscita è uno show: 4-1 al Paraguay. Trump assente, tante star di Hollywood in tribuna",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/vip-stati-uniti-tom-cruise-brad-pitt-beckham-mondiali-2026_3N6eEU7B88Yqiz750iTeKb",
-        "https://www.adnkronos.com/sport/pulisic-milan-usa-paraguay-mondiali-2026_5lIFE40IJeXQKK89QXVNty",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/13/tom-cruise-paris-hilton-jamie-foxx-hollywood-va-allo-stadio-per_37281289-cedd-4b27-ae47-f8a72dfd5976.html",
-        "https://www.ilfattoquotidiano.it/2026/06/13/mondiali-2026-risultati-notte-13-giugno-nuove-classifiche/8417976/",
-        "https://www.liberoquotidiano.it/news/tv-news/48152263/mondiali-i-tifosi-usa-festeggiano-la-prima-vittoria/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Usa-Iran, accordo a un passo. Trump: entro lunedì la firma. Droni abbattuti a Hormuz",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/06/13/diretta/guerra_iran_usa_israele_news_oggi-425407628/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/13/usa-abbattuti-diversi-droni-iraniani-contro-navi-commerciali-ad-hormuz_94a56ef3-898b-4ea0-a3b3-ade166d183ea.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/13/iran-laccordo-con-gli-usa-regge-nella-notte-abbattuti-droni-di-teheran-a-hormuz-dallesercito-statunitense/8417920/",
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-13-giugno/",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-accordo-news_7eO6XDImNjJ2MLY4UdfDQ3"
       ]
     },
     {
@@ -165,28 +166,6 @@
     },
     {
       "rank": 8,
-      "title": "SpaceX vola a Wall Street. Musk è il primo trilionario",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "laverita.info",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilmanifesto.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.laverita.info/spacex-ipo-quotazione-borsa-musk-2677036522.html",
-        "https://www.ilfattoquotidiano.it/2026/06/13/elon-musk-trilionario-spacex-fondi-pensione-rischi-quotazione-notizie/8418235/",
-        "https://www.ilgiornale.it/news/politica/spacex-vola-wall-street-musk-primo-trilionario-2678319.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48148435/space-x-debutto-wall-street-musk-vi-porteremo-marte-oltre/",
-        "https://www.lastampa.it/economia/2026/06/13/news/spacex_debutto_borsa_musk-15657463/"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Mondiali 2026, furto di materiale tecnico nel ritiro dell'Inghilterra",
       "source_count": 7,
       "article_count": 7,
@@ -208,23 +187,47 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Hormuz, nucleare e beni congelati. La tenuta dell'intesa si gioca sui dettagli",
-      "source_count": 5,
-      "article_count": 8,
+      "rank": 9,
+      "title": "SpaceX vola a Wall Street. Musk è il primo trilionario",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
-        "ilmessaggero.it",
+        "fanpage.it",
+        "laverita.info",
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "ilmanifesto.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/mondo/iran_usa_cosa_c_e_dietro_intesa-9590387.html",
-        "https://www.ilgiornale.it/news/politica/araghchi-ci-crede-accordo-vicino-manca-ancora-lok-khamenei-2678295.html",
-        "https://www.ilgiornale.it/news/politica/hormuz-nucleare-e-beni-congelati-tenuta-dellintesa-si-gioca-2678298.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48151994/iran-l-accordo-sara-firmato-nei-prossimi-giorni/",
-        "https://www.liberoquotidiano.it/news/libero-video/48148437/iran-araghchi-ecco-i-passi-per-l-accordo-con-gli-usa-per-finire-la-guerra-/"
+        "https://www.fanpage.it/innovazione/tecnologia/per-arrivare-alla-ricchezza-di-elon-musk-un-italiano-deve-lavorare-43-milioni-di-anni/",
+        "https://www.laverita.info/spacex-ipo-quotazione-borsa-musk-2677036522.html",
+        "https://www.ilfattoquotidiano.it/2026/06/13/elon-musk-trilionario-spacex-fondi-pensione-rischi-quotazione-notizie/8418235/",
+        "https://www.ilgiornale.it/news/politica/spacex-vola-wall-street-musk-primo-trilionario-2678319.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48148435/space-x-debutto-wall-street-musk-vi-porteremo-marte-oltre/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Cade un areo da turismo nel Comasco: gravissimi due uomini di 55 e 66 anni",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "milano.repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/milano/aereo-da-turismo-precipita-a-lurate-caccivio-como-due-feriti-gravissimi/",
+        "https://www.ilfattoquotidiano.it/2026/06/13/aereo-da-turismo-si-schianta-nel-comasco-gravissimi-due-uomini-di-58-e-55-anni/8418418/",
+        "https://milano.repubblica.it/cronaca/2026/06/13/news/cade_areo_turismo_comasco_gravissimi_uomini-425408800/",
+        "https://www.ilmessaggero.it/italia/como_aereo_turismo_precipitato_cosa_e_successo-9590545.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/13/cade-aereo-da-turismo-nel-comasco-due-feriti-gravissimi_723cb049-0776-41c9-9200-8efe9e16ed4a.html"
       ]
     }
   ]
