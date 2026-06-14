@@ -1,9 +1,34 @@
 {
   "date": "2026-06-14",
-  "generated_at": "Sun 14 Jun 09:48",
+  "generated_at": "Sun 14 Jun 12:06",
   "stories": [
     {
       "rank": 1,
+      "title": "Venezia, 17enne uccide a coltellate la zia e getta il corpo nel fiume",
+      "source_count": 10,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/14/17enne-uccide-la-zia-e-lancia-il-cadavere-nel-fiume_7358cf9e-7a7f-40c8-a0d5-edbe1264a66e.html",
+        "https://www.ilgiornale.it/news/cronaca-locale/uccide-zia-coltellate-e-getta-corpo-nel-fiume-17enne-2678674.html",
+        "https://www.liberoquotidiano.it/news/italia/48164915/san-stino-livenza-17-anni-uccide-zia-coltellate-getta-corpo-fiume-cosa-c-e-dietro/",
+        "https://www.ilfattoquotidiano.it/2026/06/14/omicidio-san-stino-livenza-17enne-zia-notizie/8418681/",
+        "https://www.adnkronos.com/cronaca/17enne-coltellate-zia-fiume_12eENNZXTi1spTxkkG0S4A"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Meloni: patentino antifascista per gli editori? È censura",
       "source_count": 9,
       "article_count": 9,
@@ -27,34 +52,12 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Venezia, 17enne uccide a coltellate la zia e getta il corpo nel fiume",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-locale/uccide-zia-coltellate-e-getta-corpo-nel-fiume-17enne-2678674.html",
-        "https://www.ilfattoquotidiano.it/2026/06/14/omicidio-san-stino-livenza-17enne-zia-notizie/8418681/",
-        "https://www.adnkronos.com/cronaca/17enne-coltellate-zia-fiume_12eENNZXTi1spTxkkG0S4A",
-        "https://www.fanpage.it/attualita/san-stino-di-livenza-uccide-la-zia-a-coltellate-e-poi-butta-il-corpo-nel-fiume-17enne-ha-confessato/",
-        "https://www.repubblica.it/cronaca/2026/06/14/news/venezia_ragazzo_17_anni_uccide_zia_cadavere_fiume-425409719/"
-      ]
-    },
-    {
       "rank": 3,
       "title": "Marocco vivace, Brasile macchinoso: partenza lenta per Ancelotti",
-      "source_count": 6,
-      "article_count": 6,
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "adnkronos.com",
         "fanpage.it",
         "ilgiornale.it",
@@ -63,143 +66,156 @@
         "repubblica.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/06/14/ancelotti-fifa-brasile-marocco-mancanza-di-rispetto-conferenza-stampa/8418900/",
+        "https://www.adnkronos.com/sport/ancelotti-duello-in-conferenza-stampa-dopo-il-flop-del-brasile-video_JEcFwWbRuhXE6zxDFz8JS",
         "https://www.adnkronos.com/sport/brasile-esordio-flop-ai-mondiali-2026-e-primo-processo-a-ancelotti_5epmDJyNiL5cPFmBM0CARu",
         "https://www.fanpage.it/sport/calcio/ancelotti-nervoso-con-la-fifa-questa-e-mancanza-di-rispetto-brutto-esordio-del-brasile-ai-mondiali/",
-        "https://www.ilgiornale.it/news/calcio/mondiali-brasile-ancelotti-pareggia-esordio-amaro-turchia-2678681.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/14/mondiali-brasile-marocco-1-1_e2fc768b-7c67-40d1-b550-5364345d4fa5.html",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/06/14/news/mondiali_marocco_vivace_brasile_macchinoso_ancelotti-15658377/"
+        "https://www.ilgiornale.it/news/calcio/mondiali-brasile-ancelotti-pareggia-esordio-amaro-turchia-2678681.html"
       ]
     },
     {
       "rank": 4,
-      "title": "Stasi, primo giorno di libertà dopo dieci anni in carcere: “Per lui è un nuovo inizio”",
-      "source_count": 5,
-      "article_count": 6,
+      "title": "Knicks campioni Nba dopo 53 anni, New York pazza di gioia",
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "fanpage.it",
-        "lastampa.it",
-        "milano.repubblica.it",
-        "ilmessaggero.it",
-        "ilgiornale.it"
+        "ansa.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.fanpage.it/attualita/il-primo-giorno-fuori-dal-carcere-di-alberto-stasi-il-saluto-ai-detenuti-e-poi-il-ritorno-a-casa-della-madre/",
-        "https://www.lastampa.it/cronaca/2026/06/14/news/stasi_fuori_dal_carcere_pranzo_mamma-15658397/",
-        "https://milano.repubblica.it/cronaca/2026/06/14/news/stasi_primo_giorno_liberta_dopo_dieci_anni_carcere_nuovo_inizio-425409411/",
-        "https://milano.repubblica.it/cronaca/2026/06/14/news/motivazioni_giudice_stasi_accettato_pena_ritendendola_ingiusta-425409337/",
-        "https://www.ilmessaggero.it/italia/stasi_incontro_madre_carcere_maturo_cosa_ha_detto-9590868.html"
+        "https://www.ilgiornale.it/news/cronaca-internazionale/new-york-disordini-e-arresti-nella-notte-festa-titolo-nba-2678753.html",
+        "https://www.ilfattoquotidiano.it/2026/06/14/knicks-campioni-nba-new-york-festa-delirio-immagini-foto-piu-belle/8418794/",
+        "https://www.liberoquotidiano.it/news/pillole/48167058/knicks_campioni_nba_dopo_53_anni_a_new_york_esplode_la_festa_le_immagini/",
+        "https://www.liberoquotidiano.it/news/libero-video/48164794/nba-finals-2026-knicks-campioni-dopo-53-anni-esplode-la-festa-a-new-york/",
+        "https://www.fanpage.it/sport/basket/knicks-campioni-nba-dopo-53-anni-e-una-serie-epica-jalen-brunson-e-il-re-di-kew-york/"
       ]
     },
     {
       "rank": 5,
-      "title": "Knicks campioni NBA dopo 53 anni e una serie epica, Jalen Brunson è il Re di New York",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Roberto Guerrino ucciso in casa a Milano, l’ipotesi dell’agguato all’interprete dopo un incontro intimo",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "fanpage.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
+        "lastampa.it",
         "ansa.it",
-        "lastampa.it"
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.fanpage.it/sport/basket/knicks-campioni-nba-dopo-53-anni-e-una-serie-epica-jalen-brunson-e-il-re-di-kew-york/",
-        "https://www.ilgiornale.it/news/basket/i-new-york-knicks-vincono-titolo-nba-2678667.html",
-        "https://www.liberoquotidiano.it/news/sport/48162326/nba_jalen_brown_trascina_new_york_knicks_titolo_dopo_53_anni/",
-        "https://www.ansa.it/sito/notizie/sport/basket/2026/06/14/i-new-york-knicks-vincono-le-finals-nba-spurs-battuti-94-90-in-gara-5_ac42433a-3b5f-4c74-affc-b3adddadcd96.html",
-        "https://www.lastampa.it/sport/2026/06/14/news/knicks_campioni_nba_dopo_53_anni_new_york_gioia-15658380/"
+        "https://www.ilfattoquotidiano.it/2026/06/14/omicidio-milano-interprete-guerrino-incontro-chat-notizie/8418844/",
+        "https://www.fanpage.it/milano/roberto-guerrino-ucciso-in-casa-a-milano-lipotesi-dellagguato-allinterprete-dopo-un-incontro-intimo/",
+        "https://www.ilgiornale.it/news/cronaca-nera/milano-chi-roberto-pietro-guerrino-celebre-interprete-2678705.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48164791/milano-61enne-trovato-morto-in-casa-colpito-alla-testa-indagini-in-corso/",
+        "https://www.lastampa.it/cronaca/2026/06/14/news/il_giallo_dell_interprete_massacrato_in_casa_a_milano_lavorava_con_re_e_presidenti-15658286/"
       ]
     },
     {
       "rank": 6,
-      "title": "Petizione contro Eskhol Nevo, ma il Libro Possibile conferma 'ci sarà'",
-      "source_count": 4,
-      "article_count": 5,
+      "title": "Stasi, primo giorno di libertà dopo dieci anni in carcere: “Per lui è un nuovo inizio”",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "repubblica.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "adnkronos.com",
         "lastampa.it",
-        "ilgiornale.it"
+        "milano.repubblica.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/06/13/il-libro-possibile-nessuna-esclusione-nevo-ci-sara-_692387e2-c678-42d2-a65f-005a4d1ef96a.html",
-        "https://www.repubblica.it/dossier/repubblica-delle-idee/2026/06/14/news/eshkol_nevo_intervista_ben_gvir_israele-425409236/",
-        "https://www.lastampa.it/esteri/2026/06/14/news/israele_deriva_del_no_agli_ebrei_non_e_antisemitismo_ma_fanatismo-15658177/",
-        "https://www.ilgiornale.it/news/attualit/libro-possibile-petizione-contro-presenza-eshkol-nevo-2678536.html",
-        "https://www.ilgiornale.it/news/politica/leretico-de-luca-non-si-arrende-e-va-ebraica-2678310.html"
+        "https://www.ilgiornale.it/news/politica/lascia-tv-allamico-cella-stasi-abbraccia-mamma-2678626.html",
+        "https://www.fanpage.it/attualita/il-primo-giorno-fuori-dal-carcere-di-alberto-stasi-il-saluto-ai-detenuti-e-poi-il-ritorno-a-casa-della-madre/",
+        "https://www.adnkronos.com/cronaca/garalsco-stasi-libero-carcere_xMWIfh055WnRoWhpSFa4T",
+        "https://www.lastampa.it/cronaca/2026/06/14/news/stasi_fuori_dal_carcere_pranzo_mamma-15658397/",
+        "https://milano.repubblica.it/cronaca/2026/06/14/news/stasi_primo_giorno_liberta_dopo_dieci_anni_carcere_nuovo_inizio-425409411/"
       ]
     },
     {
       "rank": 7,
-      "title": "Nuovo stop di Trump alla super IA di Anthropic, 'problemi di sicurezza'",
-      "source_count": 4,
-      "article_count": 5,
+      "title": "Referendum in Svizzera, 'No' al 55% per limitare abitanti a 10 milioni",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
         "ansa.it",
-        "ilmessaggero.it"
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.fanpage.it/innovazione/tecnologia/dietro-lo-stop-usa-ad-anthropic-ce-lo-zampino-di-amazon-il-report-su-fable-5-che-ha-allarmato-la-casa-bianca/",
-        "https://www.ilgiornale.it/news/aziende/usa-bloccano-anthropic-morale-favola-fable-durata-cinque-2678572.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/13/anthropic-sospende-i-modelli-ia-piu-potenti-su-pressioni-governo-usa_77cb9e8a-fb0e-4bd2-b8aa-9b3da590c092.html",
-        "https://www.ilmessaggero.it/tecnologia/news/anthropic_perche_importante_intelligenza_artificiale_trump-9590523.html",
-        "https://www.ansa.it/sito/videogallery/short_video/2026/06/13/quando-washington-spegne-lintelligenza-artificiale_fa834a7c-139d-45a4-aad9-42f1b8615553.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/14/media-dalle-prime-proiezioni-vince-il-no-al-referendum-in-svizzera_1be9a1a7-84d1-4ba6-a06d-ac2d03a22a6a.html",
+        "https://www.adnkronos.com/internazionale/esteri/svizzera-referndum-anti-immigrazione-leva-servizio-civile_1nDUVmPh1qt4boclYDKhav",
+        "https://www.ilmessaggero.it/mondo/referendum_svizzera_anti_migranti_risultati-9592047.html",
+        "https://www.ilgiornale.it/news/politica/svizzeri-voto-siamo-troppi-tetto-a10-milioni-2678615.html",
+        "https://www.repubblica.it/esteri/2026/06/14/news/svizzera_voto_proposta_udc_anti_migranti_limite_10_milioni_abitanti-425410011/"
       ]
     },
     {
       "rank": 8,
-      "title": "L'Australia vince 2-0, comincia male il Mondiale della Turchia di Montella",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/06/14/mondiali-2026-risultati-notte-14-giugno-turchia-montella-flop-nuova-classifica/8418714/",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/06/14/news/australia_turchia_gol-425409849/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/14/mondiali-australia-turchia-2-0-_a9af5b54-147f-41b6-9298-ab017204feff.html",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/06/14/news/colpo-australia_due_a_zero_alla_turchia_di_yildiz-15658405/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Germania-Curaçao: dove vederla (in tv e streaming), orario e probabili formazioni",
-      "source_count": 3,
-      "article_count": 5,
-      "source_domains": [
-        "fanpage.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/sport/calcio/mondiali-2026-oggi-in-tv-su-rai-e-dazn-dove-vedere-germania-curacao-e-olanda-giappone-gli-orari-delle-partite/",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/06/14/news/germania_curacao_neuer_nostalgia-425409407/",
-        "https://www.ilmessaggero.it/sport/schede/mondiali_programma_domenica_14_giugno_partite_in_chiaro_dove_vederle-9590641.html",
-        "https://www.ilmessaggero.it/sport/schede/olanda_giappone_dove_vederla_in_chiaro_gratis_tv_streaming_orario_mondiali-9590460.html",
-        "https://www.ilmessaggero.it/sport/schede/germania_curacao_dove_vederla_tv_dazn_rai_mondiali_orario_probabili_formazioni-9590410.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Il giallo dell’interprete massacrato in casa. Lavorava con re e presidenti",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Anthropic fa sempre più paura. Trump vieta la super Intelligenza Artificiale, ecco perché",
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
+        "fanpage.it",
         "lastampa.it",
         "ansa.it",
         "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/cronaca-nera/milano-chi-roberto-pietro-guerrino-celebre-interprete-2678705.html",
-        "https://www.lastampa.it/cronaca/2026/06/14/news/il_giallo_dell_interprete_massacrato_in_casa_a_milano_lavorava_con_re_e_presidenti-15658286/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/13/uomo-trovato-morto-in-casa-a-milano-ipotesi-omicidio_e2adf702-6af8-4c6d-baef-bc396c557952.html",
-        "https://www.ilmessaggero.it/italia/roberto_pietro_guerrino_morto_milano_ucciso_cosa_e_successo_chi_era-9590655.html"
+        "https://www.ilgiornale.it/news/politica/trump-blocca-super-intelligenza-artificiale-oscurate-2678625.html",
+        "https://www.fanpage.it/innovazione/tecnologia/dietro-lo-stop-usa-ad-anthropic-ce-lo-zampino-di-amazon-il-report-su-fable-5-che-ha-allarmato-la-casa-bianca/",
+        "https://www.lastampa.it/tech/2026/06/14/news/anthropic_c_e_amazon_dietro_la_stretta_usa_sui_modelli_ia_fable_5_e_mythos_5-15658539/",
+        "https://www.ilgiornale.it/news/aziende/usa-bloccano-anthropic-morale-favola-fable-durata-cinque-2678572.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/13/anthropic-sospende-i-modelli-ia-piu-potenti-su-pressioni-governo-usa_77cb9e8a-fb0e-4bd2-b8aa-9b3da590c092.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Starmer: 'Intercettata nella Manica una petroliera della flotta ombra russa'",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/gb-manica-nave-flotta-ombra-russa_382AI5ajEmgZM6H7vCkQUf",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/14/starmer-intercettata-nella-manica-una-petroliera-della-flotta-ombra-russa_1e798901-a2a2-4914-a815-4ff5baeaa126.html",
+        "https://www.liberoquotidiano.it/news/esteri/48165789/russia_smyrtos_petroliera_flotta_ombra_putin_abbordata_marine_inglesi_canale_manica/",
+        "https://www.ilmessaggero.it/mondo/flotta_ombra_russa_manica_nave_intercettata_starmer-9591931.html",
+        "https://www.lastampa.it/esteri/2026/06/14/diretta/guerra_russia_ucraina_news_oggi-15658326/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Donald Trump compie 80 anni, festa di compleanno alla Casa Bianca con la Mma per il presidente Usa",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/06/14/trump-80-anni-ufc-casa-bianca-notizie/8418799/",
+        "https://www.lastampa.it/esteri/2026/06/14/video/per_gli_80_anni_di_trump_washington_si_trasforma_in_unarena_show_ufc_tra_paracadutisti_e_fighter-15658559/",
+        "https://www.adnkronos.com/internazionale/esteri/donald-trump-80-anni-festa-compleanno_2sjqn5lEsrwV6f9whpIICr",
+        "https://www.fanpage.it/sport/altri-sport/ufc-freedom-250-oggi-alla-casa-bianca-a-che-ora-e-dove-vedere-in-tv-lo-storico-evento-voluto-da-trump/",
+        "https://www.ilmessaggero.it/persone/trump_festa_80_anni_compleanno_ospiti_incontro_arti_marziali-9590799.html"
       ]
     }
   ]
