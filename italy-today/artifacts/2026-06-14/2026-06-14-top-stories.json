@@ -1,6 +1,6 @@
 {
   "date": "2026-06-14",
-  "generated_at": "Sun 14 Jun 12:06",
+  "generated_at": "Sun 14 Jun 15:13",
   "stories": [
     {
       "rank": 1,
@@ -31,12 +31,12 @@
       "rank": 2,
       "title": "Meloni: patentino antifascista per gli editori? È censura",
       "source_count": 9,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "ilgiornale.it",
         "ansa.it",
         "fanpage.it",
         "ilfattoquotidiano.it",
-        "ilgiornale.it",
         "adnkronos.com",
         "ilmessaggero.it",
         "repubblica.it",
@@ -44,15 +44,82 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/interni/pi-libri-pi-liberi-nessuna-censura-approfondiremo-e-sinistra-2678798.html",
         "https://www.ansa.it/sito/notizie/politica/2026/06/14/meloni-patentino-antifascista-per-gli-editori-e-censura_76f6a69c-4824-4dbb-a26f-d751a0bc51a5.html",
         "https://www.fanpage.it/politica/piu-libri-piu-liberi-meloni-dice-che-chiedere-una-dichiarazione-antifascista-equivale-a-censurare-le-idee/",
         "https://www.ilfattoquotidiano.it/2026/06/14/piu-libri-piu-liberi-meloni-patentino-antifascista-notizie/8418719/",
-        "https://www.ilgiornale.it/news/interni/meloni-patentino-antifascista-editori-censura-2678691.html",
-        "https://www.adnkronos.com/politica/meloni-editori-patentino-antifascista_6u1KgqcAt8ArLvdbtmtNQw"
+        "https://www.ilgiornale.it/news/interni/meloni-patentino-antifascista-editori-censura-2678691.html"
       ]
     },
     {
       "rank": 3,
+      "title": "Starmer: 'Intercettata nella Manica una petroliera della flotta ombra russa'",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/14/i-royal-marines-fermano-una-petroliera-della-flotta-ombra-russa_1e798901-a2a2-4914-a815-4ff5baeaa126.html",
+        "https://www.repubblica.it/esteri/2026/06/14/diretta/guerra_ucraina_russia_news_oggi-425409539/",
+        "https://www.ilfattoquotidiano.it/2026/06/14/flotta-ombra-russa-petroliera-manica-notizie/8418937/",
+        "https://www.ilgiornale.it/news/guerra/blitz-dei-royal-marines-e-sequestro-nave-russa-cos-successo-2678792.html",
+        "https://www.fanpage.it/esteri/guerra-ucraina-sequestrata-petroliera-della-flotta-ombra-di-putin-nella-manica-zelensky-colpiti-impianti-russi/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Gp Barcellona, fantastico Hamilton: prima vittoria in Ferrari",
+      "source_count": 7,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/06/14/-f1-hamilton-trionfa-a-barcellona-prima-vittoria-con-la-ferrari-_b5b05c34-4881-443b-93e9-a13da4647e42.html",
+        "https://www.adnkronos.com/sport/formula-1-oggi-ordine-arrivo-gp-barcellona-classifica-mondiale-hamilton-antonelli_5g6e87ak8BZl0sZ0kIGfoo",
+        "https://www.fanpage.it/sport/motori/capolavoro-hamilton-a-barcellona-prima-vittoria-in-ferrari-kimi-antonelli-fuori-la-classifica-f1/",
+        "https://www.ilfattoquotidiano.it/2026/06/14/f1-hamilton-ferrari-vittoria-gp-barcellona-risultato-nuova-classifica/8419027/",
+        "https://www.adnkronos.com/sport/antonelli-penalita-gp-barcellona-formula-1-cose-successo_XqwvuMyNjEzgzv7vdaDgU"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Knicks campioni Nba dopo 53 anni, New York pazza di gioia",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "lastampa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/sport/2026/06/14/news/nba_le_rivincite_di_brunson-15658648/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/new-york-disordini-e-arresti-nella-notte-festa-titolo-nba-2678753.html",
+        "https://www.ilfattoquotidiano.it/2026/06/14/knicks-campioni-nba-new-york-festa-delirio-immagini-foto-piu-belle/8418794/",
+        "https://www.liberoquotidiano.it/news/pillole/48167058/knicks_campioni_nba_dopo_53_anni_a_new_york_esplode_la_festa_le_immagini/",
+        "https://www.liberoquotidiano.it/news/libero-video/48164794/nba-finals-2026-knicks-campioni-dopo-53-anni-esplode-la-festa-a-new-york/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Marocco vivace, Brasile macchinoso: partenza lenta per Ancelotti",
       "source_count": 7,
       "article_count": 8,
@@ -74,31 +141,10 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Knicks campioni Nba dopo 53 anni, New York pazza di gioia",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-internazionale/new-york-disordini-e-arresti-nella-notte-festa-titolo-nba-2678753.html",
-        "https://www.ilfattoquotidiano.it/2026/06/14/knicks-campioni-nba-new-york-festa-delirio-immagini-foto-piu-belle/8418794/",
-        "https://www.liberoquotidiano.it/news/pillole/48167058/knicks_campioni_nba_dopo_53_anni_a_new_york_esplode_la_festa_le_immagini/",
-        "https://www.liberoquotidiano.it/news/libero-video/48164794/nba-finals-2026-knicks-campioni-dopo-53-anni-esplode-la-festa-a-new-york/",
-        "https://www.fanpage.it/sport/basket/knicks-campioni-nba-dopo-53-anni-e-una-serie-epica-jalen-brunson-e-il-re-di-kew-york/"
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "title": "Roberto Guerrino ucciso in casa a Milano, l’ipotesi dell’agguato all’interprete dopo un incontro intimo",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
         "ilfattoquotidiano.it",
         "fanpage.it",
@@ -113,36 +159,37 @@
         "https://www.fanpage.it/milano/roberto-guerrino-ucciso-in-casa-a-milano-lipotesi-dellagguato-allinterprete-dopo-un-incontro-intimo/",
         "https://www.ilgiornale.it/news/cronaca-nera/milano-chi-roberto-pietro-guerrino-celebre-interprete-2678705.html",
         "https://www.liberoquotidiano.it/news/libero-video/48164791/milano-61enne-trovato-morto-in-casa-colpito-alla-testa-indagini-in-corso/",
-        "https://www.lastampa.it/cronaca/2026/06/14/news/il_giallo_dell_interprete_massacrato_in_casa_a_milano_lavorava_con_re_e_presidenti-15658286/"
+        "https://www.ilgiornale.it/news/cadavere-nudo-e-cranio-fracassato-nolo-trovato-morto-2678648.html"
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Stasi, primo giorno di libertà dopo dieci anni in carcere: “Per lui è un nuovo inizio”",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ilmessaggero.it",
         "ilgiornale.it",
         "fanpage.it",
         "adnkronos.com",
         "lastampa.it",
-        "milano.repubblica.it",
-        "ilmessaggero.it"
+        "milano.repubblica.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/italia/stasi_regali_compagni_carcere_ventilatore_frigo_cosa_e_successo-9592096.html",
         "https://www.ilgiornale.it/news/politica/lascia-tv-allamico-cella-stasi-abbraccia-mamma-2678626.html",
         "https://www.fanpage.it/attualita/il-primo-giorno-fuori-dal-carcere-di-alberto-stasi-il-saluto-ai-detenuti-e-poi-il-ritorno-a-casa-della-madre/",
         "https://www.adnkronos.com/cronaca/garalsco-stasi-libero-carcere_xMWIfh055WnRoWhpSFa4T",
-        "https://www.lastampa.it/cronaca/2026/06/14/news/stasi_fuori_dal_carcere_pranzo_mamma-15658397/",
-        "https://milano.repubblica.it/cronaca/2026/06/14/news/stasi_primo_giorno_liberta_dopo_dieci_anni_carcere_nuovo_inizio-425409411/"
+        "https://www.lastampa.it/cronaca/2026/06/14/news/stasi_fuori_dal_carcere_pranzo_mamma-15658397/"
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Referendum in Svizzera, 'No' al 55% per limitare abitanti a 10 milioni",
-      "source_count": 6,
+      "source_count": 7,
       "article_count": 7,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ansa.it",
         "adnkronos.com",
         "ilmessaggero.it",
@@ -151,71 +198,32 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/06/14/referendum-svizzera-immigrazione-10-milioni-vince-no/8418916/",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/14/media-dalle-prime-proiezioni-vince-il-no-al-referendum-in-svizzera_1be9a1a7-84d1-4ba6-a06d-ac2d03a22a6a.html",
         "https://www.adnkronos.com/internazionale/esteri/svizzera-referndum-anti-immigrazione-leva-servizio-civile_1nDUVmPh1qt4boclYDKhav",
         "https://www.ilmessaggero.it/mondo/referendum_svizzera_anti_migranti_risultati-9592047.html",
-        "https://www.ilgiornale.it/news/politica/svizzeri-voto-siamo-troppi-tetto-a10-milioni-2678615.html",
-        "https://www.repubblica.it/esteri/2026/06/14/news/svizzera_voto_proposta_udc_anti_migranti_limite_10_milioni_abitanti-425410011/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Anthropic fa sempre più paura. Trump vieta la super Intelligenza Artificiale, ecco perché",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/trump-blocca-super-intelligenza-artificiale-oscurate-2678625.html",
-        "https://www.fanpage.it/innovazione/tecnologia/dietro-lo-stop-usa-ad-anthropic-ce-lo-zampino-di-amazon-il-report-su-fable-5-che-ha-allarmato-la-casa-bianca/",
-        "https://www.lastampa.it/tech/2026/06/14/news/anthropic_c_e_amazon_dietro_la_stretta_usa_sui_modelli_ia_fable_5_e_mythos_5-15658539/",
-        "https://www.ilgiornale.it/news/aziende/usa-bloccano-anthropic-morale-favola-fable-durata-cinque-2678572.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/13/anthropic-sospende-i-modelli-ia-piu-potenti-su-pressioni-governo-usa_77cb9e8a-fb0e-4bd2-b8aa-9b3da590c092.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Starmer: 'Intercettata nella Manica una petroliera della flotta ombra russa'",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/gb-manica-nave-flotta-ombra-russa_382AI5ajEmgZM6H7vCkQUf",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/14/starmer-intercettata-nella-manica-una-petroliera-della-flotta-ombra-russa_1e798901-a2a2-4914-a815-4ff5baeaa126.html",
-        "https://www.liberoquotidiano.it/news/esteri/48165789/russia_smyrtos_petroliera_flotta_ombra_putin_abbordata_marine_inglesi_canale_manica/",
-        "https://www.ilmessaggero.it/mondo/flotta_ombra_russa_manica_nave_intercettata_starmer-9591931.html",
-        "https://www.lastampa.it/esteri/2026/06/14/diretta/guerra_russia_ucraina_news_oggi-15658326/"
+        "https://www.ilgiornale.it/news/politica/svizzeri-voto-siamo-troppi-tetto-a10-milioni-2678615.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Donald Trump compie 80 anni, festa di compleanno alla Casa Bianca con la Mma per il presidente Usa",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Vannacci: \"Il femminicidio non esiste, uomini e donne sono uguali\"",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
-        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
         "lastampa.it",
-        "adnkronos.com",
-        "fanpage.it",
-        "ilmessaggero.it"
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/06/14/trump-80-anni-ufc-casa-bianca-notizie/8418799/",
-        "https://www.lastampa.it/esteri/2026/06/14/video/per_gli_80_anni_di_trump_washington_si_trasforma_in_unarena_show_ufc_tra_paracadutisti_e_fighter-15658559/",
-        "https://www.adnkronos.com/internazionale/esteri/donald-trump-80-anni-festa-compleanno_2sjqn5lEsrwV6f9whpIICr",
-        "https://www.fanpage.it/sport/altri-sport/ufc-freedom-250-oggi-alla-casa-bianca-a-che-ora-e-dove-vedere-in-tv-lo-storico-evento-voluto-da-trump/",
-        "https://www.ilmessaggero.it/persone/trump_festa_80_anni_compleanno_ospiti_incontro_arti_marziali-9590799.html"
+        "https://www.ilmessaggero.it/politica/vannacci_femminicidio_cosa_ha_detto_futuro_nazionale_oggi-9592211.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48168434/vannacci-infiamma-italia-femminicidio-omicidio-come-tutti-altri/",
+        "https://www.ilgiornale.it/news/interni/vannacci-femminicidio-non-esiste-uomini-e-donne-sono-uguali-2678766.html",
+        "https://www.repubblica.it/politica/2026/06/14/news/vannacci_femminicidio_non_esiste_reato_furgiuele_deputato_camerati-425410164/",
+        "https://www.ilmessaggero.it/politica/vannacci_femminicidio_non_esiste_uomo_donna_parita_cosa_ha_detto-9592044.html"
       ]
     }
   ]
