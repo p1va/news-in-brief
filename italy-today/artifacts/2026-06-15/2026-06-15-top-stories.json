@@ -1,59 +1,60 @@
 {
   "date": "2026-06-15",
-  "generated_at": "Mon 15 Jun 18:02",
+  "generated_at": "Mon 15 Jun 21:14",
   "stories": [
     {
       "rank": 1,
-      "title": "USA-Iran: cosa prevede l’accordo e perché è un passo indietro per Trump",
-      "source_count": 9,
-      "article_count": 19,
+      "title": "Capo Verde, esordio mondiale indimenticabile: Spagna fermata sullo 0-0",
+      "source_count": 8,
+      "article_count": 18,
       "source_domains": [
+        "fanpage.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/sport/calcio/scommette-un-milione-sulla-spagna-vincente-contro-capo-verde-e-perde-tutto-avrebbe-vinto-briciole/",
+        "https://www.fanpage.it/sport/calcio/mendes-scopre-in-tv-il-boom-di-follower-di-vozinha-dopo-limpresa-di-capo-verde-ai-mondiali-cosa/",
+        "https://www.adnkronos.com/sport/vozinha-social-spagna-capo-verde-mondiali-2026_1CuHiPaquWvUPFq7T2o5gZ",
+        "https://www.ilgiornale.it/news/calcio/spagna-stecca-debutto-capo-verde-strappa-punto-e-fa-storia-2679368.html",
+        "https://www.fanpage.it/sport/calcio/chi-e-vozinha-il-portiere-40enne-eroe-di-capo-verde-ai-mondiali-chiamato-cosi-per-una-scelta-dei-nonni/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "USA-Iran: cosa prevede l’accordo e perché è un passo indietro per Trump",
+      "source_count": 8,
+      "article_count": 17,
+      "source_domains": [
+        "liberoquotidiano.it",
         "ansa.it",
         "fanpage.it",
         "repubblica.it",
         "adnkronos.com",
         "ilmessaggero.it",
         "lastampa.it",
-        "ilgiornale.it",
-        "unita.it",
-        "laverita.info"
+        "ilgiornale.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/pillole/48182442/intesa_usa_-_iran_hormuz_riapre_sollievo_per_mercati_e_logistica/",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/15/usa-e-iran-cantano-vittoria-il-grande-perdente-e-netanyahu_6f4fe6b7-219f-44d7-b57f-f4a2be94f2ac.html",
         "https://www.fanpage.it/esteri/dallo-stretto-di-hormuz-alla-questione-nucleare-cosa-sappiamo-dellaccordo-di-pace-iran-usa/",
         "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-15-giugno/",
-        "https://www.repubblica.it/esteri/2026/06/15/diretta/guerra_iran_usa_israele_news_oggi-425411143/",
-        "https://www.adnkronos.com/internazionale/esteri/guerra-iran-usa-accordo-hormuz-nucleare-dubbi-analisti_7uyRznyhJ5ZqpKvS3qtjh9"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Raid russi sull'Ucraina, almeno 11 morti. In fiamme la Cattedrale della Dormizione a Kiev",
-      "source_count": 7,
-      "article_count": 13,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "fanpage.it",
-        "unita.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48182015/massiccio-attacco-russo-con-600-droni-in-ucraina-colpito-anche-un-monastero-ortodosso/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48182021/attacco-russo-su-kiev-colpisce-area-lavra-11-morti-e-53-feriti-in-tutto-il-paese/",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/15/raid-russi-sullucraina-almeno-11-morti.-in-fiamme-la-cattedrale-della-dormizione-a-kiev_391f3c1e-2277-4d1e-a8a7-796fceebb6fd.html",
-        "https://www.repubblica.it/esteri/2026/06/15/diretta/guerra_ucraina_russia_news_oggi-425411185/",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/06/15/kiev-le-immagini-aeree-della-cattedrale-patrimonio-unesco-dopo-lattacco-russo_bdfc9842-9eaf-409c-853a-6f26d829cd5d.html"
+        "https://www.repubblica.it/esteri/2026/06/15/diretta/guerra_iran_usa_israele_news_oggi-425411143/"
       ]
     },
     {
       "rank": 3,
       "title": "La chat sessista degli autisti Atm con le foto delle passeggere: l’azienda apre un’inchiesta",
-      "source_count": 9,
-      "article_count": 9,
+      "source_count": 10,
+      "article_count": 10,
       "source_domains": [
+        "fanpage.it",
         "unita.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
@@ -65,15 +66,58 @@
         "agi.it"
       ],
       "links": [
+        "https://www.fanpage.it/milano/cosa-rischiano-i-dipendenti-atm-che-si-sono-scambiati-foto-di-donne-riprese-dalle-telecamere-in-una-chat-sessista/",
         "https://www.unita.it/2026/06/15/foto-passeggere-chat-dipendenti-accuse-gruppo-atm-milano-maschi/",
         "https://www.ilfattoquotidiano.it/2026/06/15/chat-sessista-atm-milano-passeggere-notizie/8419584/",
         "https://www.adnkronos.com/cronaca/milano-atm-chat-sessista-staff-ticinese-carlotta-vagnoli_mzm1XaCPY4pYpWdr7wCmR",
-        "https://www.ilgiornale.it/news/nazionale/chat-sessista-i-dipendenti-atm-rubate-foto-dalle-telecamere-2679113.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/15/chat-tra-dipendenti-atm-milano-con-immagini-telecamere-dei-mezzi_cfdef1d1-6903-4025-88ef-4a5789fb2be7.html"
+        "https://www.ilgiornale.it/news/nazionale/chat-sessista-i-dipendenti-atm-rubate-foto-dalle-telecamere-2679113.html"
       ]
     },
     {
       "rank": 4,
+      "title": "Raid russi sull'Ucraina, almeno 11 morti. In fiamme la Cattedrale della Dormizione a Kiev",
+      "source_count": 6,
+      "article_count": 12,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "fanpage.it",
+        "unita.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48183709/raid-russo-su-monastero-lavra-patrimonio-dell-unesco-a-kiev-il-sopralluogo-di-zelensky/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48182021/attacco-russo-su-kiev-colpisce-area-lavra-11-morti-e-53-feriti-in-tutto-il-paese/",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/15/raid-russi-sullucraina-almeno-11-morti.-in-fiamme-la-cattedrale-della-dormizione-a-kiev_391f3c1e-2277-4d1e-a8a7-796fceebb6fd.html",
+        "https://www.repubblica.it/esteri/2026/06/15/diretta/guerra_ucraina_russia_news_oggi-425411185/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/06/15/kiev-le-immagini-aeree-della-cattedrale-patrimonio-unesco-dopo-lattacco-russo_bdfc9842-9eaf-409c-853a-6f26d829cd5d.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "L'annuncio del premier britannico Starmer: Governo vieterà uso dei social ai minori di 16 anni",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "unita.it",
+        "repubblica.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48183284/l-annuncio-del-premier-britannico-starmer-governo-vietera-uso-dei-social-ai-minori-di-16-anni/",
+        "https://www.liberoquotidiano.it/news/esteri/48182383/regno-unito-divieto-totale-under-16-starmer-scelta-estrema-social/",
+        "https://www.unita.it/2026/06/15/social-vietati-minori-16-anni-regno-unito/",
+        "https://www.repubblica.it/cronaca/2026/06/15/news/social_vietati_minori_australia_regno_unito_italia-425411949/",
+        "https://www.liberoquotidiano.it/news/libero-video/48177817/regno-unito-starmer-vieteremo-uso-social-media-minori-16-anni/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Il figlio della principessa di Norvegia Mette Marit condannato a 4 anni per stupro",
       "source_count": 8,
       "article_count": 8,
@@ -96,50 +140,52 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Sorelle scomparse in Abruzzo, indagati i responsabili della casa famiglia: “Abbandono di minori”",
+      "rank": 7,
+      "title": "Sondaggio Swg per Tg La7, Futuro Nazionale al 5,3% come la Lega",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/politica/2026/06/15/news/sondaggi_politici_futuro_nazionale_vannacci_lega_fdi_pd-425413145/",
+        "https://www.ansa.it/sito/notizie/politica/2026/06/15/sondaggio-swg-per-tg-la7-futuro-nazionale-al-53-come-la-lega_921a3db8-25ed-4909-8b1f-49beac23be30.html",
+        "https://www.ilfattoquotidiano.it/2026/06/15/roberto-vannacci-affianca-matteo-salvini-futuro-nazionale-al-53-come-la-lega-il-sondaggio-swg/8420085/",
+        "https://www.liberoquotidiano.it/news/politica/48183754/sondaggio-mentana-swg-vannacci-aggancia-lega-fdi-primo-partito-bene-forza-italia-lega/",
+        "https://www.ilmessaggero.it/politica/vannacci_salvini_sondaggio_swg_la7_aggancio_cosa_dice-9594121.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Sorelle sparite da casa famiglia: un video le ha riprese prima della scomparsa, in camera biglietti in codice",
       "source_count": 7,
       "article_count": 9,
       "source_domains": [
+        "ilgiornale.it",
         "ansa.it",
         "fanpage.it",
         "ilmessaggero.it",
-        "ilgiornale.it",
         "laverita.info",
         "repubblica.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/nazionale/trucchi-spariti-bigliettini-codice-e-lultimo-avvistamento-2679333.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/15/sorelle-scomparse-avanza-lipotesi-della-fuga-programmata_72307e1c-058f-4d66-a924-af3a6ef4f637.html",
         "https://www.fanpage.it/attualita/sorelle-sparite-da-casa-famiglia-un-video-le-ha-riprese-prima-della-scomparsa-in-camera-biglietti-in-codice/",
         "https://www.ilmessaggero.it/abruzzo/sorelle_scomparse_video_ultimo_avvistamento_biglietti_codice_stanza-9593899.html",
-        "https://www.fanpage.it/attualita/sorelle-scomparse-in-abruzzo-indagati-i-responsabili-della-casa-famiglia-abbandono-di-minori/",
-        "https://www.ilgiornale.it/news/politica/ore-ansia-due-sorelline-scomparse-i-sommozzatori-ispezionano-2678882.html"
+        "https://www.fanpage.it/attualita/sorelle-scomparse-in-abruzzo-indagati-i-responsabili-della-casa-famiglia-abbandono-di-minori/"
       ]
     },
     {
-      "rank": 6,
-      "title": "Regno Unito, Starmer vieta i social media agli under 16",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "unita.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/06/15/social-vietati-minori-16-anni-regno-unito/",
-        "https://www.repubblica.it/cronaca/2026/06/15/news/social_vietati_minori_australia_regno_unito_italia-425411949/",
-        "https://www.liberoquotidiano.it/news/libero-video/48177817/regno-unito-starmer-vieteremo-uso-social-media-minori-16-anni/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/15/starmer-annuncia-il-divieto-dei-social-per-gli-under-16-nel-regno_e73fed33-1a3a-43e8-9123-5b520b1435d5.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48179459/regno-unito-vieta-social-a-under-16-starmer-rendono-infelici/"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 9,
       "title": "Nordio: 'Il libro più importante per la nostra giustizia, cioè il Codice penale, reca la firma di Mussolini'",
       "source_count": 6,
       "article_count": 6,
@@ -160,62 +206,23 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Aspettando Yamal, i ragazzi con la valigia si prendono la scena",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/14/mondiali-tocca-alla-spagna-capo-verde-sfida-yamal_35b4eb88-c475-4137-a7ff-1dcd357ea952.html",
-        "https://www.ilgiornale.it/news/calcio/spagna-poco-real-macchina-giovane-e-affamata-successi-2678974.html",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/06/15/news/yamal_ragazzi_con_la_valigia_si_prendono_scena-425410913/",
-        "https://www.ilmessaggero.it/sport/schede/spagna_capo_verde_dove_vederla_rai_dazn_mondiali_orario_probabili_formazioni-9592518.html",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/06/15/news/yamal_lancia_la_sfida_a_ronaldo_e_messi-15659152/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Guida alla Maturità 2026: dalle 4 materie orali allo stop alla “scena muta”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "fanpage.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/attualita/orale-maturita-2026-la-lettera-verra-estratta-martedi-16-giugno-come-verificare-la-data-del-colloquio/",
-        "https://www.ilmessaggero.it/scuola/maturita_vip_chi_sono_blanco_mimi_caruso_andrea_arru_esame-9593729.html",
-        "https://www.ansa.it/canale_legalita_scuola/notizie/2026/06/14/ansamaturita-al-via-il-18-giugno-lesame-punta-alla-responsabilita_2fa95a39-2adc-4ca8-95a9-62d54d86e959.html",
-        "https://www.lastampa.it/cronaca/2026/06/15/news/maturita_2026_novita-15659220/",
-        "https://www.agi.it/cronaca/news/2026-06-15/esame-maturita-2026-prove-37565257/"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Chiara Guerra, la prof uccisa a coltellate dal nipote 17enne dopo un rimprovero: l'eredità contesa e i rancori in famiglia",
-      "source_count": 4,
+      "title": "Super gol di Ashour, poi Lukaku entra e segna: Belgio-Egitto finisce 1-1",
+      "source_count": 5,
       "article_count": 6,
       "source_domains": [
         "fanpage.it",
         "ansa.it",
-        "unita.it",
-        "ilmessaggero.it"
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.fanpage.it/attualita/la-prof-chiara-guerra-uccisa-dal-nipote-17enne-la-scuola-rinvia-gli-esami-di-terza-media-per-chi-non-se-la-sente/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/15/insegnante-uccisa-dal-nipote-ricerche-del-corpo-ancora-senza-esito_647250cf-04a2-45ed-bc27-9f07f722495c.html",
-        "https://www.unita.it/2026/06/15/uccisa-coltellate-buttata-fiume-confessa-nipote-17enne-chiara-guerra-allarme-scuola-interrogatorio/",
-        "https://www.fanpage.it/attualita/chiara-guerra-uccisa-dal-nipote-17enne-si-indaga-sul-movente-lipotesi-dei-dissidi-familiari-per-leredita/",
-        "https://www.ilmessaggero.it/italia/chiara_guerra_nipote_eredita_lite_rimprovero_cosa_e_successo-9593369.html"
+        "https://www.fanpage.it/sport/calcio/lukaku-salva-il-belgio-in-25-secondi-contro-legitto-avvio-di-mondiali-in-salita-per-rudi-garcia/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/15/mondiali-belgio-egitto-1-1-autogol-di-hany-e-rete-del-pari-dei-nordafricani_cb1ef7d4-0d53-448f-b2e5-6169776b677c.html",
+        "https://www.adnkronos.com/sport/lukaku-mondiali-2026-belgio-egitto-20-secondi_1LTPTwRKDXtHGBgoICzt0R",
+        "https://www.ilmessaggero.it/sport/schede/belgio_egitto_pagelle_lukaku_ashour_mondiali_classifica_gironi_osa_e_successo-9594266.html",
+        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/06/15/news/super_gol_di_ashour_poi_lukaku_entra_e_segna_belgio-egitto_finisce_1-1-15660252/"
       ]
     }
   ]
