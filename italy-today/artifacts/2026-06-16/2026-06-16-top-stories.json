@@ -1,6 +1,6 @@
 {
   "date": "2026-06-16",
-  "generated_at": "Tue 16 Jun 11:25",
+  "generated_at": "Tue 16 Jun 17:12",
   "stories": [
     {
       "rank": 1,
@@ -30,77 +30,123 @@
     },
     {
       "rank": 2,
-      "title": "Terrorismo anarchico, sette arresti in tutta Italia per i sabotaggi sull’Alta velocità",
-      "source_count": 8,
-      "article_count": 11,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "roma.repubblica.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/06/16/sabotaggio-alta-velocita-terrorismo-anarchico-notizie/8420709/",
-        "https://www.ilgiornale.it/news/nazionale/sale-l-allarme-anarchico-italia-cos-agiscono-cellule-2679585.html",
-        "https://www.liberoquotidiano.it/news/italia/48188042/terrorismo-anarchico-sabotaggi-alta-velocita-sette-arresti/",
-        "https://www.liberoquotidiano.it/news/tv-news/48190269/cellula-terroristica-anarchica-7-arresti-anche-per-attentati-a-treni/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/16/cellula-terroristica-anarchica-e-attentato-alla-linea-av-roma-firenze-7-arresti_44565dff-904e-491b-9d8b-07da2b4fbad6.html"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Ritrovato il corpo di Chiara Guerra, la prof uccisa dal nipote 17enne",
       "source_count": 8,
-      "article_count": 10,
+      "article_count": 12,
       "source_domains": [
+        "fanpage.it",
         "ilfattoquotidiano.it",
         "unita.it",
         "ilmessaggero.it",
         "ansa.it",
         "ilgiornale.it",
         "repubblica.it",
-        "fanpage.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.fanpage.it/attualita/chiara-guerra-uccisa-dal-nipote-con-oltre-20-coltellate-ha-anche-cercato-di-darle-fuoco-per-cancellare-le-prove/",
         "https://www.ilfattoquotidiano.it/2026/06/16/omicidio-san-stino-livenza-chiara-guerra-notizie/8420696/",
         "https://www.unita.it/2026/06/16/chiara-guerra-trovato-corpo-fiume-lemene-uccisa-nipote/",
         "https://www.ilmessaggero.it/italia/chiara_guerra_ricostruzione_omicidio_venti_minuti_cambio_vestiti_cosa_sappiamo-9595743.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/16/trovato-il-corpo-della-donna-uccisa-dal-nipote_2d3d7c1c-0193-4870-ab58-bd855bc910db.html",
-        "https://www.ilgiornale.it/news/politica/uccisa-nipote-si-cerca-nel-canale-corpo-e-larma-2679422.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/16/trovato-il-corpo-della-donna-uccisa-dal-nipote_2d3d7c1c-0193-4870-ab58-bd855bc910db.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Terrorismo anarchico, sette arresti in tutta Italia per i sabotaggi sull’Alta velocità",
+      "source_count": 9,
+      "article_count": 11,
+      "source_domains": [
+        "fanpage.it",
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "roma.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/roma/anarchici-arrestati-a-vicovaro-la-riunione-per-organizzare-workshop-sugli-esplosivi-e-sabotaggi-ferroviari/",
+        "https://www.laverita.info/sabotaggio-alta-velocita-giustizia-2677045911.html",
+        "https://www.ilfattoquotidiano.it/2026/06/16/sabotaggio-alta-velocita-terrorismo-anarchico-notizie/8420709/",
+        "https://www.ilgiornale.it/news/nazionale/sale-l-allarme-anarchico-italia-cos-agiscono-cellule-2679585.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48190269/cellula-terroristica-anarchica-7-arresti-anche-per-attentati-a-treni/"
       ]
     },
     {
       "rank": 4,
-      "title": "Sorelline scomparse in Abruzzo, nella camera un codice per parlare con l’esterno",
-      "source_count": 6,
-      "article_count": 7,
+      "title": "Chiarimento tra Meloni e Trump, \"importante l'unità dell'Occidente\"",
+      "source_count": 7,
+      "article_count": 11,
       "source_domains": [
-        "ilgiornale.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
-        "repubblica.it",
-        "laverita.info",
+        "fanpage.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
         "lastampa.it",
-        "ilmessaggero.it"
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/sorelle-scomparse-trovati-stanza-messaggi-codice-2679421.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/15/sorelle-scomparse-avanza-lipotesi-della-fuga-programmata_72307e1c-058f-4d66-a924-af3a6ef4f637.html",
-        "https://www.repubblica.it/cronaca/2026/06/16/news/sorelle_scomparse_abruzzo_ultime_notizie-425413626/",
-        "https://www.laverita.info/sorelline-scomparse-casa-famiglia-2677044684.html",
-        "https://www.lastampa.it/cronaca/2026/06/16/news/sarah_alisya_sorelle_scomparse_biglietti_in_codice-15660316/"
+        "https://www.ilfattoquotidiano.it/2026/06/16/trump-meloni-incontro-chiarificatore-g7-notizie/8421079/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/06/16/siparietto-trump-meloni-al-g7-la-premier-siamo-sempre-stati-amici_9d6178b4-ed8c-4326-962e-21817ecadb7b.html",
+        "https://www.fanpage.it/nel-caso-te-lo-fossi-perso/il-g7-delle-tensioni-e-del-disgelo-giorgia-meloni-rivede-donald-trump/",
+        "https://www.adnkronos.com/politica/meloni-trump-siparietto-g7-video_1bjLGXtc0SDNAN0pUi7kyn",
+        "https://www.liberoquotidiano.it/news/tv-news/48195647/g7-trump-scherza-con-meloni-io-abbandonato-e-lei-ma-no-/"
       ]
     },
     {
       "rank": 5,
-      "title": "Ubriaco provoca incidente, auto cade nel lago di Como: morto un 37enne, grave la donna con lui",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Sara Ceccantini muore in un incidente a Mykonos, festeggiava l'addio al nubilato con le amiche: una di loro è grave",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
+        "ansa.it",
+        "unita.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "firenze.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/16/muore-in-un-incidente-a-mykonos-era-nellisola-per-il-suo-addio-al-nubilato_bd958f05-2dfb-4fd1-98ab-4a7a40df22fc.html",
+        "https://www.unita.it/2026/06/16/mykonos-amiche-addio-nubilato-muore-incidente-sara-ceccantini-figlia/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/39enne-italiana-muore-mykonos-durante-laddio-nubilato-chi-2679710.html",
+        "https://www.liberoquotidiano.it/news/esteri/48192383/mykonos-morte-atroce-sara-addio-nubilato-finisce-tragedia/",
+        "https://firenze.repubblica.it/cronaca/2026/06/16/news/sara_ceccantini_mykonos_morte_valdarno_arezzo_addio_nubilato-425414400/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Chat sessista tra autisti Atm, un dipendente indagato: scattano cinque perquisizioni",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "fanpage.it",
+        "adnkronos.com",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/milano/chat-sessista-tra-dipendenti-atm-ce-un-indagato-per-accesso-abusivo-a-sistema-informatico-5-perquisizioni/",
+        "https://www.adnkronos.com/cronaca/chat-atm-milano-indagato-perquisizioni_6oNDu6XilTCGD9H02yMOFR",
+        "https://milano.repubblica.it/cronaca/2026/06/16/news/chat_sessista_autisti_atm_un_indagato_perquisizioni-425414737/",
+        "https://www.lastampa.it/milano/2026/06/16/news/chat_sessista_atm_indagato_perquisizioni-15660772/",
+        "https://www.repubblica.it/cronaca/2026/06/16/news/chat_sessiste_atm_milano_intervista_ragazza-425414223/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Scontro tra auto, una cade nel lago di Como: un morto. L’altro conducente ubriaco ha tentato la fuga",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilgiornale.it",
         "unita.it",
         "milano.repubblica.it",
         "ilmessaggero.it",
@@ -108,19 +154,20 @@
         "agi.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/cronaca-locale/marocchino-ubriaco-provoca-incidente-e-fugge-auto-finisce-2679785.html",
         "https://www.unita.it/2026/06/16/auto-lago-como-frontale-morto-salvata-soccorritori/",
         "https://milano.repubblica.it/cronaca/2026/06/16/news/auto_lago_como_statale_regina_brienno_argenno_morto_uomo-425413667/",
         "https://www.ilmessaggero.it/italia/incidente_lago_di_como_morti_cosa_e_successo-9595471.html",
-        "https://www.ilsole24ore.com/art/auto-cade-lago-como-grave-donna-uomo-disperso-AIlvsEhD",
-        "https://www.agi.it/cronaca/news/2026-06-16/como-lago-incidente-auto-37584074/"
+        "https://www.ilsole24ore.com/art/auto-cade-lago-como-grave-donna-uomo-disperso-AIlvsEhD"
       ]
     },
     {
-      "rank": 6,
-      "title": "Trump al G7 di Evian: \"Mosca deve fare un accordo, farò tutto ciò che è in mio potere\"",
-      "source_count": 5,
-      "article_count": 5,
+      "rank": 8,
+      "title": "G7 a Evian, news. Trump dopo il colloquio con Zelensky: “La Russia deve fare un accordo”",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
+        "unita.it",
         "ansa.it",
         "repubblica.it",
         "liberoquotidiano.it",
@@ -128,86 +175,53 @@
         "ilmanifesto.it"
       ],
       "links": [
+        "https://www.unita.it/2026/06/16/g7-francia-trump-pace-ucraina-putin-zelensky/",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/16/trump-al-g7-di-evian-mosca-deve-fare-un-accordo-faro-tutto-cio-che_850dbfa5-1b6b-4b71-a921-f59b05bed3c2.html",
         "https://www.repubblica.it/esteri/2026/06/16/diretta/g7_oggi_trump_zelensky_macron_meloni_diretta-425413635/",
         "https://www.liberoquotidiano.it/news/tv-news/48190458/macron-apre-g7-con-trilaterale-zelensky-e-trump-russia-trovi-accordo/",
-        "https://www.ilgiornale.it/news/difesa/g7-zelensky-arrivato-evian-sessione-lavoro-su-ucraina-2679561.html",
-        "https://ilmanifesto.it/il-tycoon-adesso-concentriamoci-sullucraina"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Riccardo Bossi, condanna definitiva per il reddito di cittadinanza. Conferma per i maltrattamenti",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "milano.repubblica.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/riccardo-bossi-condannato-maltrattamenti-madre-conferma-corte-appello_5j3ABwe0qX8jPvfhCNsHaF",
-        "https://www.ilgiornale.it/news/interni/riccardo-bossi-confermata-condanna-maltrattamenti-nei-2679667.html",
-        "https://www.ilfattoquotidiano.it/2026/06/16/riccardo-bossi-condanna-maltrattamenti-notizie/8420546/",
-        "https://milano.repubblica.it/cronaca/2026/06/16/news/riccardo_bossi_condanna_definitiva_reddito_cittadinanza-425414023/",
-        "https://www.agi.it/cronaca/news/2026-06-16/condanna-bossi-jr-37583927/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Chiarimento tra Meloni e Trump, \"importante l'unità dell'Occidente\"",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/06/16/chiarimento-tra-meloni-e-trump-importante-lunita-delloccidente_2294fe7f-29e3-412f-88a8-44f1887dad7b.html",
-        "https://www.repubblica.it/politica/2026/06/16/news/meloni_trump_g7_evian_incontro-425414218/",
-        "https://www.ilgiornale.it/news/politica/meloni-g7-vian-su-hormuz-pronti-far-nostra-parte-disgelo-2679395.html",
-        "https://www.lastampa.it/esteri/2026/06/16/news/g7_evian_meloni_trump_chiarimento-15660550/",
-        "https://www.lastampa.it/rubriche/il-taccuino/2026/06/16/news/serve_un_g7_anche_al_centrodestra-15660233/"
+        "https://www.ilgiornale.it/news/difesa/g7-zelensky-arrivato-evian-sessione-lavoro-su-ucraina-2679561.html"
       ]
     },
     {
       "rank": 9,
-      "title": "Chat sessista Atm, “su quel cellulare altre foto prese dalle telecamere di sorveglianza”",
-      "source_count": 3,
-      "article_count": 5,
+      "title": "Chi era Semyon Skrepetsky, il dissidente e artista russo ucciso in Polonia",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
-        "repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
         "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.repubblica.it/cronaca/2026/06/16/news/chat_sessiste_atm_milano_intervista_ragazza-425414223/",
-        "https://www.ilgiornale.it/news/politica/chat-autisti-atm-foto-donne-rubate-sui-mezzi-avviata-2679420.html",
-        "https://www.ilgiornale.it/news/nazionale/ho-visto-foto-dei-glutei-ragazza-racconto-26enne-che-ha-2679545.html",
-        "https://www.lastampa.it/cronaca/2026/06/16/news/atm_milano_chat_sessista_foto_telecamere_sorveglianza-15660380/",
-        "https://www.ilgiornale.it/news/chat-offende-donne-e-lazienda-sar-linea-durissima-2679453.html"
+        "https://www.adnkronos.com/internazionale/esteri/semyon-skrepetsky-russo-ucciso-polonia-caricature-putin_1FxHJ91STcybqpRdZlQVS3",
+        "https://www.ilmessaggero.it/mondo/semyon_skrepetsky_dissidente_russo_ucciso_polonia_putin-9596069.html",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/chi-era-semyon-skrepetsky-dissidente-e-artista-russo-ucciso-2679782.html",
+        "https://www.ilfattoquotidiano.it/2026/06/16/skrepetsky-dissidente-russo-ucciso-polonia-notizie/8420849/",
+        "https://www.repubblica.it/esteri/2026/06/16/news/ucciso_dissidente_russo_semyon_skrepetsky_polonia-425413820/"
       ]
     },
     {
       "rank": 10,
-      "title": "Commerzbank, il governo tedesco respinge l’offerta di Unicredit: “Premio non adeguato”",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Sorelline scomparse in Abruzzo, nella camera un codice per parlare con l’esterno",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
-        "ilmessaggero.it",
-        "repubblica.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "laverita.info",
         "lastampa.it",
-        "ilgiornale.it"
+        "ilmessaggero.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/economia/news/commerzbank_unicredit_offerta_germania-9595665.html",
-        "https://www.repubblica.it/economia/2026/06/16/news/unicredit_berlino_respinge_l_offerta_su_commerz_non_offre_premio_sufficiente-425414002/",
-        "https://www.lastampa.it/economia/2026/06/16/news/commerzbank_il_governo_tedesco_respinge_l_ops_di_unicredit_premio_non_adeguato-15660521/",
-        "https://www.ilgiornale.it/news/banche/unicredit-commerz-indagine-francoforte-2679512.html"
+        "https://www.ilgiornale.it/news/politica/sorelle-scomparse-trovati-stanza-messaggi-codice-2679421.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/15/sorelle-scomparse-avanza-lipotesi-della-fuga-programmata_72307e1c-058f-4d66-a924-af3a6ef4f637.html",
+        "https://www.laverita.info/sorelline-scomparse-casa-famiglia-2677044684.html",
+        "https://www.lastampa.it/cronaca/2026/06/16/news/sarah_alisya_sorelle_scomparse_biglietti_in_codice-15660316/",
+        "https://www.ilmessaggero.it/abruzzo/sorelline_scomparse_nascoste_parente_video_telefono_cosa_sappiamo-9594293.html"
       ]
     }
   ]
