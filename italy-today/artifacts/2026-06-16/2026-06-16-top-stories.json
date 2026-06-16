@@ -1,13 +1,41 @@
 {
   "date": "2026-06-16",
-  "generated_at": "Tue 16 Jun 21:19",
+  "generated_at": "Tue 16 Jun 23:00",
   "stories": [
     {
       "rank": 1,
-      "title": "Torre Milano, assolti tutti gli imputati: la prima sentenza dell'inchiesta sull'urbanistica. Sala: «Violenza verbale dei pm»",
-      "source_count": 11,
-      "article_count": 15,
+      "title": "Addio a Camillo Ruini, il cardinale dei princìpi non negoziabili",
+      "source_count": 12,
+      "article_count": 17,
       "source_domains": [
+        "adnkronos.com",
+        "governo.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "laverita.info",
+        "ansa.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/politica/ruini-morto-cordoglio-meloni-politica_7hjtM31m8ZPuIgeKFIEr3k",
+        "https://www.governo.it/it/articolo/scomparsa-del-cardinal-camillo-ruini-dichiarazione-del-presidente-meloni/32113",
+        "https://www.ilgiornale.it/news/vaticano/addio-camillo-ruini-cardinale-pi-odiato-sinistra-2679891.html",
+        "https://www.repubblica.it/politica/2026/06/16/diretta/morte_cardinale_camillo_ruini-425415448/",
+        "https://www.adnkronos.com/politica/cardinale-ruini-berlusconi-italia_2TesI3HnzwrzYT73xkCk1d"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Torre Milano, assolti tutti gli imputati: la prima sentenza dell'inchiesta sull'urbanistica. Sala: «Violenza verbale dei pm»",
+      "source_count": 12,
+      "article_count": 16,
+      "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
@@ -21,41 +49,39 @@
         "agi.it"
       ],
       "links": [
+        "https://ilmanifesto.it/torre-milano-tutti-assolti-abuso-edilizio-in-buona-fede",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/16/tutti-assolti-nel-processo-per-la-torre-sala-attacca-i-pm_67752cca-1e7a-4e10-9912-edd85135c53e.html",
         "https://www.liberoquotidiano.it/news/libero-video/48191377/inchiesta-urbanistica-sala-bene-sentenza-amareggiato-violenza-verbale-pm/",
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/urbanistica-cosa-c-dietro-decisione-tribunale-assolvere-2679686.html",
-        "https://www.ilfattoquotidiano.it/2026/06/16/urbanistica-milano-torre-stresa-sala-centrodestra-notizie/8420619/",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/inchiesta-urbanistica-sala-amareggiato-violenza-verbale-2679644.html"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Addio a Camillo Ruini, il cardinale dei princìpi non negoziabili",
-      "source_count": 11,
-      "article_count": 15,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "laverita.info",
-        "ansa.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/vaticano/addio-camillo-ruini-cardinale-pi-odiato-sinistra-2679891.html",
-        "https://www.repubblica.it/politica/2026/06/16/diretta/morte_cardinale_camillo_ruini-425415448/",
-        "https://www.adnkronos.com/politica/cardinale-ruini-berlusconi-italia_2TesI3HnzwrzYT73xkCk1d",
-        "https://www.laverita.info/morto-cardinale-camillo-ruini-2677049291.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/06/16/e-morto-il-cardinale-camillo-ruini_b8162c9c-3530-44f1-8038-1542d28432b2.html"
+        "https://www.ilfattoquotidiano.it/2026/06/16/urbanistica-milano-torre-stresa-sala-centrodestra-notizie/8420619/"
       ]
     },
     {
       "rank": 3,
+      "title": "Siparietto Trump-Meloni al G7, la premier: \"Siamo sempre stati amici\"",
+      "source_count": 9,
+      "article_count": 17,
+      "source_domains": [
+        "repubblica.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/politica/2026/06/17/news/trump_meloni_g7_vignetta_ellekappa-425415373/",
+        "https://www.ilmessaggero.it/politica/meloni_battuta_trump_amici_abbandonato_cosa_hanno_detto-9596358.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48199905/meloni-e-modi-scherzano-tra-i-leader-del-g7-siamo-la-coppia-piu-famosa-del-mondo/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48198854/trump-scherza-con-meloni-sono-stato-abbandonato-lei-siamo-sempre-amici-siparietto-al-g7/",
+        "https://www.ilgiornale.it/news/politica-internazionale/trump-meloni-disgelo-poi-battuta-g7-abbandonato-siamo-sempre-2679867.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Chat sessista tra autisti Atm, un dipendente indagato: scattano cinque perquisizioni",
       "source_count": 9,
       "article_count": 14,
@@ -76,29 +102,6 @@
         "https://www.ansa.it/lombardia/notizie/2026/06/16/chat-sessista-latm-sospende-i-dipendenti-coinvolti_37b575e5-60aa-41ea-9cf7-f89485d0d538.html",
         "https://www.ilfattoquotidiano.it/2026/06/16/chat-sessista-atm-milano-indagato-notizie/8421203/",
         "https://www.fanpage.it/milano/chat-sessista-tra-dipendenti-atm-ce-un-indagato-per-accesso-abusivo-a-sistema-informatico-5-perquisizioni/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Trump-Meloni, il disgelo poi la battuta al G7: \"Abbandonato…\". \"Siamo sempre stati amici\"",
-      "source_count": 8,
-      "article_count": 14,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48198854/trump-scherza-con-meloni-sono-stato-abbandonato-lei-siamo-sempre-amici-siparietto-al-g7/",
-        "https://www.ilgiornale.it/news/politica-internazionale/trump-meloni-disgelo-poi-battuta-g7-abbandonato-siamo-sempre-2679867.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48198123/-si-siamo-famosi-su-instagram-siparietto-di-meloni-e-modi-tra-i-leader-del-g7/",
-        "https://www.liberoquotidiano.it/news/libero-video/48197937/meloni-trump-g7-audio-rubato-cosa-si-sono-detti-veramente/",
-        "https://www.ilfattoquotidiano.it/2026/06/16/trump-meloni-incontro-chiarificatore-g7-notizie/8421079/"
       ]
     },
     {
@@ -128,24 +131,24 @@
       "rank": 6,
       "title": "Terrorismo anarchico, sette arresti in tutta Italia per i sabotaggi sull’Alta velocità",
       "source_count": 9,
-      "article_count": 11,
+      "article_count": 13,
       "source_domains": [
-        "fanpage.it",
+        "ilmessaggero.it",
         "laverita.info",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
         "ansa.it",
-        "ilmessaggero.it",
         "roma.repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.fanpage.it/roma/anarchici-arrestati-a-vicovaro-la-riunione-per-organizzare-workshop-sugli-esplosivi-e-sabotaggi-ferroviari/",
+        "https://www.ilmessaggero.it/italia/cellula_anarchica_covo_roma_chi_sono-9596436.html",
         "https://www.laverita.info/sabotaggio-alta-velocita-giustizia-2677045911.html",
         "https://www.ilfattoquotidiano.it/2026/06/16/sabotaggio-alta-velocita-terrorismo-anarchico-notizie/8420709/",
         "https://www.ilgiornale.it/news/nazionale/sale-l-allarme-anarchico-italia-cos-agiscono-cellule-2679585.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48190269/cellula-terroristica-anarchica-7-arresti-anche-per-attentati-a-treni/"
+        "https://www.liberoquotidiano.it/news/italia/48188042/terrorismo-anarchico-sabotaggi-alta-velocita-sette-arresti/"
       ]
     },
     {
@@ -174,6 +177,27 @@
     },
     {
       "rank": 8,
+      "title": "Mondiali: un super Mbappe trascina la Francia, Senegal ko CRONACA e FOTO",
+      "source_count": 6,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/16/mondiali-un-super-mbappe-trascina-la-francia-senegal-ko-cronaca-e-foto_66e0aeab-6378-451e-b475-9bc853133fa6.html",
+        "https://www.fanpage.it/sport/calcio/labbaglio-di-adani-ai-mondiali-questo-e-rigore-tutta-la-vita-ma-mbappe-non-viene-neanche-toccato/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/16/mondiali-francia-batte-senegal-3-1-cronaca-e-foto_66e0aeab-6378-451e-b475-9bc853133fa6.html",
+        "https://www.ilmessaggero.it/sport/schede/francia_senegal_pagelle_mbappe_barcola_olise_mondiali-9596434.html",
+        "https://www.adnkronos.com/sport/francia-senegal-caos-rigore-negato-mbappe-deschamps-cose-successo-mondiali-2026_5uYCwLz8uNgGGPn7ipCThn"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Chi era Semyon Skrepetsky, l'artista russo ucciso in Polonia: disegnava caricature di Putin",
       "source_count": 8,
       "article_count": 8,
@@ -196,7 +220,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Scontro tra auto, una cade nel lago di Como: un morto. L’altro conducente ubriaco ha tentato la fuga",
       "source_count": 6,
       "article_count": 6,
@@ -214,27 +238,6 @@
         "https://milano.repubblica.it/cronaca/2026/06/16/news/auto_lago_como_statale_regina_brienno_argenno_morto_uomo-425413667/",
         "https://www.ilmessaggero.it/italia/incidente_lago_di_como_morti_cosa_e_successo-9595471.html",
         "https://www.ilsole24ore.com/art/auto-cade-lago-como-grave-donna-uomo-disperso-AIlvsEhD"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "G7 a Evian, news. Trump dopo il colloquio con Zelensky: “La Russia deve fare un accordo”",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "unita.it",
-        "ansa.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/06/16/g7-francia-trump-pace-ucraina-putin-zelensky/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/16/trump-al-g7-di-evian-mosca-deve-fare-un-accordo-faro-tutto-cio-che_850dbfa5-1b6b-4b71-a921-f59b05bed3c2.html",
-        "https://www.repubblica.it/esteri/2026/06/16/diretta/g7_oggi_trump_zelensky_macron_meloni_diretta-425413635/",
-        "https://www.liberoquotidiano.it/news/tv-news/48190458/macron-apre-g7-con-trilaterale-zelensky-e-trump-russia-trovi-accordo/",
-        "https://www.ilgiornale.it/news/difesa/g7-zelensky-arrivato-evian-sessione-lavoro-su-ucraina-2679561.html"
       ]
     }
   ]
