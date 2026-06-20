@@ -1,63 +1,64 @@
 {
   "date": "2026-06-20",
-  "generated_at": "Sat 20 Jun 09:31",
+  "generated_at": "Sat 20 Jun 12:05",
   "stories": [
     {
       "rank": 1,
-      "title": "L’offesa di Trump e lo stupore di Giorgia Meloni",
-      "source_count": 10,
-      "article_count": 23,
+      "title": "Trump shock su Meloni, tra Italia e Usa ora è rottura totale",
+      "source_count": 9,
+      "article_count": 19,
       "source_domains": [
-        "ansa.it",
         "ilgiornale.it",
+        "ansa.it",
+        "laverita.info",
         "lastampa.it",
         "unita.it",
         "repubblica.it",
         "ilmessaggero.it",
         "ilmanifesto.it",
-        "liberoquotidiano.it",
-        "ilsole24ore.com",
-        "news.google.com"
+        "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/chiedeva-foto-mi-fa-pena-trump-si-vendica-i-no-dellitalia-2681677.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/19/trump-shock-su-meloni-tra-italia-e-usa-ora-e-rottura-totale_5d8e2f1b-bf8f-46ea-a85d-cb4efa5ab235.html",
+        "https://www.laverita.info/trump-contro-meloni-foto-replica-2677067553.html",
         "https://www.ilgiornale.it/news/politica-internazionale/scontro-trump-meloni-premier-non-finita-qui-i-dubbi-sulla-2681772.html",
-        "https://www.lastampa.it/politica/2026/06/20/news/trump-meloni_scontro_totale_ministri_verso_lo_strappo_pronti_a_disertare_il_4_luglio-15665409/",
-        "https://www.unita.it/2026/06/20/trump-manganella-meloni-e-una-figuraccia-internazionale-che-lo-abbia-implorato-o-no-con-donald-la-premier-ha-sbagliato-tutto/",
-        "https://www.repubblica.it/politica/2026/06/20/news/parole_trump_meloni_ministri_festa_usa-425422414/"
+        "https://www.lastampa.it/politica/2026/06/20/news/trump-meloni_scontro_totale_ministri_verso_lo_strappo_pronti_a_disertare_il_4_luglio-15665409/"
       ]
     },
     {
       "rank": 2,
       "title": "Incendio a Santo Domingo, muore un’italiana in un resort di lusso: 1700 evacuati",
-      "source_count": 8,
-      "article_count": 11,
+      "source_count": 9,
+      "article_count": 15,
       "source_domains": [
+        "fanpage.it",
         "ansa.it",
         "ilgiornale.it",
         "napoli.repubblica.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "ilmessaggero.it",
         "liberoquotidiano.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
       ],
       "links": [
+        "https://www.fanpage.it/napoli/francesca-valentino-di-caserta-morta-nellincendio-al-resort-di-santo-domingo-lascia-marito-e-due-bimbe/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/06/20/incendio-in-un-resort-nella-repubblica-dominicana-1700-evacuati_c28f6e07-de1d-4539-af81-9ac0d2666c48.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/19/incendio-in-un-resort-della-repubblica-dominicana-la-farnesina-assiste-285-italiani_96d8fa90-7c17-42f4-8763-d583eef45551.html",
         "https://www.ilgiornale.it/news/nazionale/chi-francesca-valentino-turista-italiana-morta-nellincendio-2681823.html",
-        "https://napoli.repubblica.it/cronaca/2026/06/20/news/francesca_valentino_italiana_morta_santo_domingo_caserta-425423068/",
-        "https://www.ilfattoquotidiano.it/2026/06/20/incendio-santo-domingo-resort-turista-italiana-notizie/8424583/",
-        "https://www.fanpage.it/esteri/nellincendio-nel-resort-a-santo-domingo-morta-46enne-italiana-colta-da-una-crisi-respiratoria-in-spiaggia/"
+        "https://napoli.repubblica.it/cronaca/2026/06/20/news/francesca_valentino_italiana_morta_santo_domingo_caserta-425423068/"
       ]
     },
     {
       "rank": 3,
       "title": "Versilia, schianto tra scooter e Suv nella notte: muore un 17enne, in fuga il conducente dell'auto",
-      "source_count": 8,
-      "article_count": 9,
+      "source_count": 9,
+      "article_count": 10,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "ilmessaggero.it",
         "fanpage.it",
@@ -68,140 +69,148 @@
       "links": [
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/20/scontro-suv-scooter-muore-un-17enne-fuggiti-gli-occupanti-dellauto-_12c267f2-2b39-448f-912d-c16b631b101f.html",
         "https://www.ilfattoquotidiano.it/2026/06/20/incidente-versilia-17enne-morto-notizie/8424594/",
+        "https://www.liberoquotidiano.it/news/italia/48249330/versilia-follia-suv-svizzero-davanti-twiga-morto-17enne-scooter/",
         "https://www.ilgiornale.it/news/nazionale/versilia-schianto-scooter-e-suv-nella-notte-muore-17enne-2681798.html",
-        "https://www.ilmessaggero.it/italia/incidente_morto_scooter_suv_svizzero_versilia_gabriele_martini-9604145.html",
-        "https://www.fanpage.it/attualita/diciassettenne-muore-nello-scontro-con-un-suv-automobilista-in-fuga-schianto-di-fronte-al-twiga-in-versilia/"
+        "https://www.ilmessaggero.it/italia/incidente_morto_scooter_suv_svizzero_versilia_gabriele_martini-9604145.html"
       ]
     },
     {
       "rank": 4,
-      "title": "Libano, ancora 50 morti prima di una nuova tregua. L’Idf: “Non ci fermiamo”",
-      "source_count": 6,
-      "article_count": 7,
+      "title": "In Libano nuovi attacchi e vittime, 'anche un soldato'. Witkoff verso la Svizzera",
+      "source_count": 7,
+      "article_count": 11,
       "source_domains": [
         "ansa.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
+        "adnkronos.com",
         "ilgiornale.it",
+        "ilfattoquotidiano.it",
         "repubblica.it",
+        "liberoquotidiano.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/20/in-libano-nuovi-attacchi-e-16-vittime-anche-un-soldato.-witkoff-verso-la-svizzera_f7997f81-fab6-4dec-9a6a-4a8733aa3a6c.html",
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-trump-israele-accordo-a-rischio_1hCzFflzAxTIKFygxGuMHh",
+        "https://www.ilgiornale.it/news/politica/israele-e-hezbollah-s-cessate-fuoco-ok-netanyahu-lidf-2681683.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/20/in-libano-nuovi-attacchi-e-vittime-anche-un-soldato.-witkoff-verso-la-svizzera_f7997f81-fab6-4dec-9a6a-4a8733aa3a6c.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/20/guerra-in-iran-libano-israele-usa-news-oggi-20-giugno/8424608/",
-        "https://www.liberoquotidiano.it/news/libero-video/48246804/libano-idf-video-presunti-raid-contro-hezbollah-sud/",
-        "https://www.ilgiornale.it/news/guerra/raid-israeliani-libano-almeno-cinque-morti-witkoff-e-kushner-2681775.html",
-        "https://www.repubblica.it/esteri/2026/06/20/news/liban_morti_nuova_tregua_idf_hezbollah-425422534/"
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/20/guerra-in-iran-libano-israele-usa-news-oggi-20-giugno/8424608/"
       ]
     },
     {
       "rank": 5,
+      "title": "Polemiche al Premio Strega, scontro Mari-Ciabatti su frasi sessiste contro Murgia: lo scrittore smentisce",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "fanpage.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/cultura/polemiche-al-premio-strega-scontro-mari-ciabatti-su-frasi-sessiste-contro-murgia-lo-scrittore-smentisce/",
+        "https://www.ansa.it/sito/notizie/cultura/libri/2026/06/19/scoppia-il-caso-mari-lo-strega-frasi-denigratorie-incompatibili-con-il-premio_0bbdd0b2-31e8-45d0-9d04-229f04a34e61.html",
+        "https://www.ilfattoquotidiano.it/2026/06/20/murgia-era-intransigente-e-violenta-perche-brutta-cosi-sfogava-cosi-la-sua-rabbia-parole-inaccettabili-scoppia-la-polemica-per-le-parole-di-mari-a-ciabatti-caos-al-premio-strega-2026/8424600/",
+        "https://www.liberoquotidiano.it/news/cultura/48249332/michela-murgia-violenta-perche-brutta-rissa-premio-strega/",
+        "https://www.ilgiornale.it/news/letteratura/mari-contro-murgia-ciabatti-indignata-caos-strega-2681740.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Parla con la mano davanti alla bocca e viene espulso. Il Paraguay batte la Turchia di Montella",
       "source_count": 5,
-      "article_count": 6,
+      "article_count": 5,
       "source_domains": [
         "ansa.it",
-        "fanpage.it",
         "ilmessaggero.it",
+        "fanpage.it",
         "repubblica.it",
         "lastampa.it"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/20/mondiali-delusione-turchia-montella-eliminato-dal-paraguay_719f4c62-8d42-46be-a1ed-7d6145f99ea3.html",
-        "https://www.fanpage.it/sport/calcio/montella-sbotta-la-turchia-fa-65-tiri-e-zero-gol-gli-usa-segnano-senza-tirare-dove-la-logica/",
         "https://www.ilmessaggero.it/sport/calcio/almiron_espulsione_mondiali_perche_paraguay_turchia_cosa_e_successo-9604108.html",
         "https://www.fanpage.it/sport/calcio/almiron-primo-espulso-per-la-mano-davanti-alla-bocca-scatta-la-regola-vinicius-in-turchia-paraguay/",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/06/20/news/turchia_paraguay_almiron_espulso_mano_davanti_bocca-425422752/"
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/06/20/news/turchia_paraguay_almiron_espulso_mano_davanti_bocca-425422752/",
+        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/06/20/news/gol_e_highlights_turchia_paraguay_0-1-15665321/"
       ]
     },
     {
-      "rank": 6,
-      "title": "Calcio: coraggio, dignità e gol, l'addio al bomber Protti",
+      "rank": 7,
+      "title": "Una giornata di grazia. Tra Agostino e scienza. Pavia accoglie Leone terzo Papa in 40 anni",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/20/papa-leone-atteso-a-pavia-in-piazza-duomo-benedira-una-culla-per_3f5bf66e-7ae8-422a-99d1-89eb2cf02a7e.html",
+        "https://www.ilgiornale.it/news/giornata-grazia-agostino-e-scienza-pavia-accoglie-leone-2681719.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48249877/papa-a-pavia-cnao-visita-leone-rafforza-connubio-scienza-e-fede/",
+        "https://www.ilmessaggero.it/vaticano/papa_leone_pavia_remigrazioni_santa_francesca_cabrini_sant_agostino_viaggi-9604073.html",
+        "https://www.lastampa.it/cronaca/2026/06/20/news/leone_a_pavia_per_non_lasciare_al_male_l_ultima_parola-15665343/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Scontro Meloni-Trump, Salvini: \"Chi attacca la premier colpisce l'Italia\"",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/politica/2026/06/20/news/scontro_trump_meloni_salvini_reazioni_italia-425423293/",
+        "https://www.adnkronos.com/politica/donald-trump-giorgia-meloni-attacco-italia-salvini_1r2qtEv6Y4HfQB1v17fSbN",
+        "https://www.lastampa.it/politica/2026/06/20/news/salvini_dopo_il_caso_trump-meloni_pentito_del_sostegno_no_rapporto_non_compromesso-15665502/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48243287/solidarieta-di-sa-nchez-a-meloni-non-saprei-nemmeno-come-definire-l-attacco-di-trump/",
+        "https://www.liberoquotidiano.it/news/tv-news/48244110/italia-usa-schlein-attacchi-trump-a-meloni-inaccettabili-destra-apra-occhi/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Emilio Fede e Diana De Feo, lite sull’eredità: case e gioielli contesi tra le figlie Simona e Sveva",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "roma.repubblica.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/personaggi/emilio-fede-scontro-figlie-leredit-milionaria-centro-ville-2681872.html",
+        "https://www.liberoquotidiano.it/news/italia/48249338/emilio-fede-battaglia-figlie-eredita-tribunale/",
+        "https://www.ilmessaggero.it/persone/emilio_fede_figlie_eredita_lite_patrimonio_sveva_fede_simona_fede-9604129.html",
+        "https://roma.repubblica.it/cronaca/2026/06/20/news/dalle_ville_ai_gioielli_le_figlie_di_emilio_fede_litigano_per_l_eredita-425422495/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Calcio: coraggio, dignità e gol, l'addio al bomber Protti",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
         "ilgiornale.it",
         "repubblica.it",
-        "laverita.info",
         "ansa.it",
         "ilmessaggero.it"
       ],
       "links": [
         "https://www.ilgiornale.it/news/sport/igor-zar-che-si-fece-amare-tutti-2681714.html",
         "https://www.repubblica.it/sport/calcio/2026/06/20/news/zoff_protti_lazio_roma_derby-425422592/",
-        "https://www.laverita.info/addio-igor-protti-morto-2677065914.html",
         "https://www.ansa.it/sito/notizie/sport/calcio/2026/06/19/calcio-morto-igor-protti-da-tempo-lottava-contro-una-malattia_4182f9bf-3457-4aa7-8825-6b0348785e43.html",
         "https://www.ilmessaggero.it/persone/igor_protti_come_e_morto_ultime_ore-9602807.html"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Michele Mari offende Michela Murgia. Premio Strega nella tempesta",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/06/20/murgia-era-intransigente-e-violenta-perche-brutta-cosi-sfogava-cosi-la-sua-rabbia-parole-inaccettabili-scoppia-la-polemica-per-le-parole-di-mari-a-ciabatti-caos-al-premio-strega-2026/8424600/",
-        "https://www.ilgiornale.it/news/letteratura/mari-contro-murgia-ciabatti-indignata-caos-strega-2681740.html",
-        "https://www.lastampa.it/cultura/2026/06/20/news/la_lite_mari-ciabatti_agita_lo_strega-15665310/",
-        "https://www.ilgiornale.it/news/letteratura/premio-strega-scoppia-caso-michele-mari-frasi-denigratorie-2681652.html",
-        "https://www.repubblica.it/cultura/2026/06/19/news/premio_strega_2026__michele_mari_teresa_ciabatti_michela_murgia_lite-425422079/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "La svolta storica di Cuba (che apre al mercato): i 4 punti chiave per capire la \"revolución\"",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "unita.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://ilmanifesto.it/riforme-per-non-morire-cuba-da-la-svolta-e-apre-al-mercato",
-        "https://www.ilmessaggero.it/mondo/cuba_revolucion_economica_in_cosa_consiste-9602850.html",
-        "https://www.unita.it/2026/06/19/cuba-mercato-pacchetto-riforme-crisi-cambiamenti-urgenti-necessari/",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFVZWVQ2dEIzcGtTSFlRMHFkN01wZUZNS3RNZGlkVkM1UFh6ZktoX2hZcFpHZFo4ZXpmdnNjNDNYRjluSjdEV3lfSHY2LWw5R1hCRXB2bjdtVjc2UV9sT2ZnN0VNV3puODJzT2VweHhjUVU3MkVPYmhGcFpvZ0xtZ3g3OXltaXVKeWJ3VWxYMUlNblFjNk1KWEl5RXJfcjhYcEhKMmhzU2EtUQ?oc=5"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Trump farnetica su Meloni: «Ha implorato per una foto». Lei: «L’Italia non supplica»",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "laverita.info",
-        "ilgiornale.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.laverita.info/trump-contro-meloni-foto-replica-2677067553.html",
-        "https://www.ilgiornale.it/news/politica-internazionale/vendetta-trump-su-la7-meloni-mi-ha-chiesto-foto-2681373.html",
-        "https://www.liberoquotidiano.it/news/esteri/48243130/trump-ancora-contro-meloni-perche-non-voglio-come-fan/",
-        "https://www.laverita.info/meloni-a-trump-2677063151.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Firenze, in cinquemila contro i duecento di Vannacci: “Qui per fermare l’illegalità”",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "lastampa.it",
-        "firenze.repubblica.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/politica/2026/06/20/news/firenze_in_cinquemila_contro_i_duecento_di_vannacci_qui_per_fermare_l_illegalita-15665211/",
-        "https://firenze.repubblica.it/cronaca/2026/06/19/news/firenze_3000_contro_passeggiata_vannacci-425422544/",
-        "https://www.ilfattoquotidiano.it/2026/06/19/roberto-vannacci-a-firenze-per-una-passeggiata-identitaria-migliaia-in-piazza-per-contestarlo/8424456/"
       ]
     }
   ]
