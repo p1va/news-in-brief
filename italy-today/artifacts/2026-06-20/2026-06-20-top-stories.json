@@ -1,13 +1,14 @@
 {
   "date": "2026-06-20",
-  "generated_at": "Sat 20 Jun 17:43",
+  "generated_at": "Sat 20 Jun 19:48",
   "stories": [
     {
       "rank": 1,
       "title": "Trump: «Meloni vuole tornare mia amica per risalire nei sondaggi». La premier: «La mia popolarità non è affar suo, pensi alla sua»",
-      "source_count": 12,
-      "article_count": 25,
+      "source_count": 13,
+      "article_count": 24,
       "source_domains": [
+        "adnkronos.com",
         "ilfattoquotidiano.it",
         "repubblica.it",
         "fanpage.it",
@@ -22,11 +23,11 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.adnkronos.com/internazionale/esteri/rottura-trump-meloni-ultime-notizie_3HwX7djcY67BDk5z2RBDyq",
         "https://www.ilfattoquotidiano.it/2026/06/20/meloni-trump-special-relationship-rottura-notizie/8424876/",
         "https://www.repubblica.it/esteri/2026/06/20/news/zampolli_scontro_trump_meloni_rottura-425423766/",
         "https://www.fanpage.it/politica/trump-meloni-lite-infinita-non-sta-combinando-niente-in-italia-preoccupati-della-tua-popolarita/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48252126/meloni-a-trump-attacchi-insensati-e-immotivati-mia-popolarita-non-la-riguarda-pensi-alla-sua/",
-        "https://www.ilgiornale.it/news/politica-internazionale/risposta-meloni-nuovo-attacco-trump-l-italia-sovrana-pensi-2681930.html"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48252126/meloni-a-trump-attacchi-insensati-e-immotivati-mia-popolarita-non-la-riguarda-pensi-alla-sua/"
       ]
     },
     {
@@ -57,6 +58,28 @@
     },
     {
       "rank": 3,
+      "title": "MotoGp, Bagnaia torna a vincere: sua la sprint a Brno. Cade Bezzecchi",
+      "source_count": 7,
+      "article_count": 16,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilgiornale.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/06/20/motogp-bezzecchi-squalificato-brno-motivo-spinta-commissari/8424967/",
+        "https://www.ansa.it/sito/notizie/sport/moto/2026/06/20/motogp-a-brno-bagnaia-domina-la-sprint-bezzecchi-squalificato_09f9a6eb-6606-41e6-a0ce-45b9ebbda6c7.html",
+        "https://www.repubblica.it/sport/moto-gp/2026/06/20/news/bezzecchi_squalificato_spinta_addetto_pista_brno_niente_gp-425424026/",
+        "https://www.adnkronos.com/sport/bezzecchi-furia-gara-sprint-gp-repubblica-ceca-caduta-video_4YAvp0unkWZZRsPgVIaIhJ",
+        "https://www.fanpage.it/sport/motori/clamoroso-in-motogp-bezzecchi-squalificato-dal-gp-di-brno-punizione-esemplare-per-il-gesto-nella-sprint/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Versilia, schianto tra scooter e Suv nella notte: muore un 17enne, in fuga il conducente dell'auto",
       "source_count": 9,
       "article_count": 13,
@@ -80,7 +103,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Eredità di Emilio Fede, scontro tra le figlie Simona e Sveva per le ville di Napoli e Capri, gioielli e conti correnti",
       "source_count": 8,
       "article_count": 9,
@@ -100,28 +123,6 @@
         "https://www.ilfattoquotidiano.it/2026/06/20/quando-sono-andata-a-casa-di-mamma-pensavo-ci-fosse-stato-un-furto-scoppia-la-lite-tra-le-figlie-di-emilio-fede-per-leredita-milionaria-ville-gioielli-cassette-di-sicurezza-e-conti-cosa-si/8424763/",
         "https://www.fanpage.it/spettacolo/personaggi/eredita-di-emilio-fede-scontro-tra-le-figlie-simona-e-sveva-il-caso-in-procura-a-roma/",
         "https://www.ilgiornale.it/news/personaggi/emilio-fede-scontro-figlie-leredit-milionaria-centro-ville-2681872.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "MotoGp, Bagnaia torna a vincere: sua la sprint a Brno. Cade Bezzecchi",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/motori/motogp-bagnaia-vola-brno-e-conquista-sprint-race-cade-2681943.html",
-        "https://www.repubblica.it/sport/moto-gp/2026/06/20/news/bagnaia_vince_gara_sprint_motogp_brno_2026-425423590/",
-        "https://www.adnkronos.com/sport/motogp-bagnaia-vince-sprint-repubblica-ceca-ordine-arrivo-classifica-piloti_76mWT8i98LE97H9mngcJvN",
-        "https://www.ansa.it/sito/notizie/sport/moto/2026/06/20/motogp-repubblica-ceca-bagnaia-vince-la-sprint-davanti-a-ogura-_09f9a6eb-6606-41e6-a0ce-45b9ebbda6c7.html",
-        "https://www.ilfattoquotidiano.it/2026/06/20/motogp-sprint-race-repubblica-ceca-brno-ordine-arrivo-classifica-mondiale/8424770/"
       ]
     },
     {
@@ -168,6 +169,28 @@
     },
     {
       "rank": 8,
+      "title": "Infarto choc per Gago, malore in diretta tv per l'ex giocatore della Roma",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/calcio/gago-malore-choc-sala-stampa-attacco-cuore-lallenatore-2681982.html",
+        "https://www.adnkronos.com/sport/gago-infarto-conferenza-stampa-ex-roma-video_6lt7BpwbHRHGVEPTcdmW5F",
+        "https://www.ilfattoquotidiano.it/2026/06/20/infarto-gago-conferenza-stampa-operato-come-sta-condizioni/8424793/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/06/20/infarto-choc-per-gago-malore-in-diretta-tv-per-lex-giocatore-della_7baeec1b-0823-4dfa-989a-1422aed85c21.html",
+        "https://www.liberoquotidiano.it/news/sport/48251572/fernando-gago-malore-diretta-conferenza-stampa/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Polemiche al Premio Strega, scontro Mari-Ciabatti su frasi sessiste contro Murgia: lo scrittore smentisce",
       "source_count": 6,
       "article_count": 7,
@@ -188,45 +211,24 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Burnham trionfa e lancia la sfida a Starmer: \"Io l'ultima chance Labour, fatti da parte\"",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "laverita.info",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/06/20/andy-burnham-starmer-leadership-labour-notizie/8424656/",
-        "https://www.ilgiornale.it/news/politica/burnham-trionfa-e-lancia-sfida-starmer-io-lultima-chance-2681685.html",
-        "https://www.laverita.info/burnham-sfida-starmer-labour-2677066645.html",
-        "https://www.repubblica.it/esteri/2026/06/20/news/burnham_il_re_del_nord_che_vuole_scalare_il_regno_unito-425422583/",
-        "https://ilmanifesto.it/burnham-va-per-starmer-assedio-o-assalto"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Spagna, rinviata a giudizio la moglie del premier Sánchez. Ritirato il passaporto",
+      "title": "Scontro Meloni-Trump, Salvini: \"Chi attacca la premier colpisce l'Italia\"",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
+        "fanpage.it",
         "ilgiornale.it",
+        "liberoquotidiano.it",
         "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "ansa.it",
+        "adnkronos.com",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/cronaca-internazionale/tegola-sanchez-moglie-begona-gomez-rinviata-giudizio-2681889.html",
-        "https://www.repubblica.it/esteri/2026/06/20/news/spagna_moglie_sanchez_begona_rinviata_a_giudizio_ritirato_passaporto-425423434/",
-        "https://www.ilfattoquotidiano.it/2026/06/20/spagna-moglie-sanchez-rinviata-giudizio-notizie/8424694/",
-        "https://www.ilmessaggero.it/mondo/begona_gomez_rinviata_a_giudizio_moglie_pedro_sanchez_perche_cosa_e_successo-9604346.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/20/la-moglie-di-pedro-sanchez-rinviata-a-giudizio-ritirato-il-passaporto_381093a5-a709-4c4d-84de-28b1c528bab4.html"
+        "https://www.fanpage.it/politica/da-trump-nuovo-affondo-contro-meloni-salvini-parole-sgradevoli-ma-non-e-guerra-conte-tocca-a-noi/",
+        "https://www.ilgiornale.it/news/governo/scontro-meloni-trump-reazioni-salvini-sul-premier-parole-2681959.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48252417/italia-usa-salvini-chi-attacca-premier-attacca-il-paese-/",
+        "https://www.repubblica.it/politica/2026/06/20/news/scontro_trump_meloni_salvini_reazioni_italia-425423293/",
+        "https://www.adnkronos.com/politica/donald-trump-giorgia-meloni-attacco-italia-salvini_1r2qtEv6Y4HfQB1v17fSbN"
       ]
     }
   ]
