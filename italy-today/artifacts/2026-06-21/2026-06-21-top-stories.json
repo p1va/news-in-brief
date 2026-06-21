@@ -1,143 +1,195 @@
 {
   "date": "2026-06-21",
-  "generated_at": "Sun 21 Jun 10:01",
+  "generated_at": "Sun 21 Jun 12:19",
   "stories": [
     {
       "rank": 1,
       "title": "Senago, auto con 9 ragazzi a bordo cade in un canale: 3 morti. Conducente positivo all’alcol test",
-      "source_count": 10,
-      "article_count": 10,
+      "source_count": 11,
+      "article_count": 18,
       "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
         "ilgiornale.it",
-        "milano.repubblica.it",
-        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
         "fanpage.it",
+        "liberoquotidiano.it",
+        "milano.repubblica.it",
+        "ansa.it",
         "lastampa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
         "agi.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/tre-17enni-morti-in-auto-precipitata-in-un-canale-nel-milanese_4f0a13a4-f0bb-4c7c-a784-7e63316c08af.html",
-        "https://www.ilfattoquotidiano.it/2026/06/21/incidente-senago-canale-villoresi-17enni-oggi/8425171/",
-        "https://www.adnkronos.com/cronaca/incidente-senago-canale-tre-ragazzi-morti_2jyuvZVepoZA5SNBgqqXf9",
-        "https://www.ilgiornale.it/news/cronaca-nera/auto-precipita-canale-nel-milanese-morti-tre-17enni-bordo-2682094.html",
-        "https://milano.repubblica.it/cronaca/2026/06/21/news/auto_nove_ragazzi_canale_senago_tre_morti-425424611/"
+        "https://www.ilgiornale.it/news/nazionale/camilla-lorenzo-e-riccardo-chi-erano-tre-vittime-dell-2682185.html",
+        "https://www.ilfattoquotidiano.it/2026/06/21/incidente-senago-tre-ragazzi-morti-chi-erano/8425270/",
+        "https://www.fanpage.it/milano/auto-con-9-ragazzi-cade-in-un-canale-a-senago-3-morti-arrestato-il-conducente-positivo-allalcol-test/",
+        "https://www.liberoquotidiano.it/news/libero-video/48258472/senago-auto-finisce-nel-canale-villoresi-tre-ragazzini-morti/",
+        "https://milano.repubblica.it/cronaca/2026/06/21/news/incidente_senago_chi_sono_ragazzi_morti-425424901/"
       ]
     },
     {
       "rank": 2,
       "title": "Meloni a Trump: Attacchi insensati e immotivati. Mia popolarità non la riguarda, pensi alla sua",
-      "source_count": 6,
-      "article_count": 13,
+      "source_count": 7,
+      "article_count": 17,
       "source_domains": [
+        "ilgiornale.it",
+        "fanpage.it",
         "repubblica.it",
         "lastampa.it",
         "ilmessaggero.it",
-        "ilgiornale.it",
         "liberoquotidiano.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.repubblica.it/politica/2026/06/21/news/meloni_trump_scontro_trappola_sovranista-425424311/",
+        "https://www.ilgiornale.it/news/politica/giorgia-non-fa-passi-indietro-attacchi-insensati-basta-2682005.html",
+        "https://www.ilgiornale.it/news/politica/trump-secondo-atto-meloni-nel-mirino-ha-negato-basi-non-mia-2682007.html",
+        "https://www.fanpage.it/politica/la-lite-tra-meloni-e-trump-mette-a-rischio-litalia-dazi-gas-e-vino-cosa-ce-in-ballo/",
         "https://www.repubblica.it/politica/2026/06/21/news/lorenzo_guerini_pd_scontro_trump_meloni_usa_ue_intervista-425424274/",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/06/21/news/trump_meloni-15666023/",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/06/21/news/la_dottrina_donald_punisce_gli_alleati-15665997/",
-        "https://www.ilmessaggero.it/mondo/trump_stati_uniti_attacco_meloni_iran_danni_economia-9604801.html"
+        "https://www.lastampa.it/politica/2026/06/21/news/dazi_e_gas_ora_meloni_teme_la_vendetta_di_trump-15666059/"
       ]
     },
     {
       "rank": 3,
-      "title": "Guerra in Iran, le news. Vance è in Svizzera, incontrerà Ghalibaf. Media: “Hormuz resta chiuso”",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Mondiali: Eloy Room portiere da record: \"Mi merito una statua a Curacao\"",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "ansa.it",
-        "repubblica.it",
         "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it",
         "fanpage.it",
-        "ilgiornale.it",
-        "lastampa.it"
+        "adnkronos.com",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/21/vance-arrivato-in-svizzera-per-i-colloqui-con-teheran_b65bfcbe-56b2-4ff6-ba80-6bdb7da45174.html",
-        "https://www.repubblica.it/esteri/2026/06/21/diretta/guerra_iran_usa_israele_news_oggi-425424360/",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/21/notizie-mondo-internazionale-aggiornamenti-oggi/8425144/",
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-21-giugno/",
-        "https://www.ilgiornale.it/news/guerra/i-negoziati-usa-e-iran-vance-atterrato-svizzera-alta-2682082.html"
+        "https://www.ilfattoquotidiano.it/2026/06/21/room-portiere-curacao-15-parate-storia-chi-e/8425233/",
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/06/21/news/eloy_room_chi_e_portiere_curacao_record_parate_mondiali-425424907/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/21/eloy-room-portiere-da-record-mi-merito-una-statua-a-curacao_884fdf47-1fb4-4468-8eef-4868dbdedd4f.html",
+        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/06/21/news/ecuador-curacao_finisce_0-0_record_di_parate_per_room_e_l_eroe_della_partita-15666448/",
+        "https://www.fanpage.it/sport/calcio/ora-voglio-una-statua-a-curacao-eloy-room-gia-accampa-pretese-dopo-lo-storico-record-ai-mondiali/"
       ]
     },
     {
       "rank": 4,
-      "title": "Arriva la seconda ondata di calore, oggi 8 città con bollino rosso. Ecco quali",
-      "source_count": 4,
-      "article_count": 6,
+      "title": "Giorgia Meloni sfila a sorpresa con gli alpini dopo la polemica con Trump",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/21/ondata-di-caldo-anche-in-francia-vietato-il-consumo-di-alcol-nelle-zone-in-allerta_7f7556e2-93a8-4371-b4ee-e1d0608117cf.html",
-        "https://www.ilmessaggero.it/schede/caldo_seconda_ondata_temporali_calori_meteo_dove-9605935.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/20/arriva-seconda-ondata-di-calore-domani-8-citta-con-bollino-rosso_5ba97880-9ca0-4e2f-b812-14b5af517f43.html",
-        "https://www.adnkronos.com/cronaca/meteo-previsioni-caldi-record-oggi-21-giugno_6NFXzFBoMV412xavDtQ4f9",
-        "https://www.ilsole24ore.com/art/bollettino-ondate-calore-AISANRID"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Impresa Curacao, lo 0-0 con l'Ecuador vale il primo punto mondiale: il portiere Room eroe del match",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "fanpage.it",
         "adnkronos.com",
         "ilmessaggero.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/21/eloy-room-portiere-da-record-mi-merito-una-statua-a-curacao_884fdf47-1fb4-4468-8eef-4868dbdedd4f.html",
-        "https://www.fanpage.it/sport/calcio/ora-voglio-una-statua-a-curacao-eloy-room-gia-accampa-pretese-dopo-lo-storico-record-ai-mondiali/",
-        "https://www.adnkronos.com/sport/curacao-mondiali-re-festa-video_2PCWQPI5j2iuzjiI3bvRwX",
-        "https://www.ilmessaggero.it/sport/calcio/curacao_primo_punto_mondiali_ecuador_portiere_room-9605834.html",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/06/21/news/curacao_primo_punto_mondiale_ecuador-425424451/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Savona, auto travolge e uccide una 23enne in moto. Poi girano video: “Questa è morta, ci danno tentato omicidio”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "laverita.info",
-        "ansa.it",
-        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
         "ilgiornale.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.laverita.info/incidenti-aurelia-versilia-morti-2677070512.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/20/una-ragazza-di-23-anni-muore-in-un-incidente-un-ragazzo-gira-un-video-e-ride-questa_183f9686-a7f6-4350-9560-af84bac964f3.html",
-        "https://www.ilmessaggero.it/italia/sofia_barberi_morta_incidente_video_risate_ceriale_ultime_notizie-9604760.html",
-        "https://www.ilgiornale.it/news/cronaca-nera/savona-auto-travolge-e-uccide-23enne-moto-poi-girano-video-2681990.html",
-        "https://www.lastampa.it/savona/2026/06/20/video/savona_deridono_i_carabinieri_dopo_lincidente_mortale_qui_ci_danno_il_tentato_omicidio-15665747/"
+        "https://www.ansa.it/sito/notizie/politica/2026/06/21/meloni-sfila-al-raduno-degli-alpini-del-triveneto-a-gemona.-avevo-bisogno_d93333ea-f598-4fb1-badb-6160c6b4fc9c.html",
+        "https://www.adnkronos.com/politica/meloni-raduno-alpini-friuli_745bu69nJM8eDAYsUHpafp",
+        "https://www.ilmessaggero.it/politica/meloni_trump_alpini_perche_e_andata_cosa_ha_detto-9605999.html",
+        "https://www.ilfattoquotidiano.it/2026/06/21/meloni-trump-raduno-alpini-gemona-notizie/8425237/",
+        "https://www.repubblica.it/politica/2026/06/21/news/meloni_raduno_alpini_blitz_scontro_trump-425424864/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "MotoGp, Bezzecchi si scusa: \"Nessuna giustificazione\". L'abbraccio con il marshall dopo la lite",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/motogp-bezzecchi-scuse-marshall-schiaffo-gp-repubblica-ceca_XPNed31k7af5idAR6LJvF",
+        "https://www.fanpage.it/sport/motori/marco-bezzecchi-torna-in-pista-a-brno-e-va-dal-marshal-colpito-nella-sprint-le-scuse-dopo-la-squalifica/",
+        "https://www.ilfattoquotidiano.it/2026/06/21/bezzecchi-marshall-squalifica-brno-video-abbraccio-scuse/8425256/",
+        "https://www.ansa.it/sito/notizie/sport/moto/2026/06/21/motogp-bezzecchi-squalificato-a-brno-chiedo-scusa-a-tutta-la-comunita-del-circus_79c64600-c313-412c-b177-651ffdce427a.html",
+        "https://www.repubblica.it/sport/moto-gp/2026/06/21/news/bezzecchi_scuse_schiaffo_steward_gp_repubblica_ceca_motogp-425424822/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Guerra in Iran, le news. Vance è in Svizzera, incontrerà Ghalibaf. Media: “Hormuz resta chiuso”",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "fanpage.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/21/medio-oriente-via-ai-colloqui-usa-iran-su-libano-e-fondi-congelati.-i-media_b65bfcbe-56b2-4ff6-ba80-6bdb7da45174.html",
+        "https://www.ilgiornale.it/news/politica/raid-libano-stop-hormuz-ai-colloqui-svizzera-2682013.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/21/vance-arrivato-in-svizzera-per-i-colloqui-con-teheran_b65bfcbe-56b2-4ff6-ba80-6bdb7da45174.html",
+        "https://www.repubblica.it/esteri/2026/06/21/diretta/guerra_iran_usa_israele_news_oggi-425424360/",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/06/21/notizie-mondo-internazionale-aggiornamenti-oggi/8425144/"
       ]
     },
     {
       "rank": 7,
+      "title": "Iniziano i complicati negoziati tra Stati Uniti e Iran",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/esteri/come-mai-libano-e-nucleare-rischiano-di-far-saltare-davvero-laccordo-tra-usa-e-iran/",
+        "https://www.ilgiornale.it/news/politica/quei-100-miliardi-salvare-dialogo-e-i-rischi-riarmo-2682014.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48257340/iran-l-arrivo-in-svizzera-della-delegazione-di-teheran/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/06/21/stati-uniti-iran-il-vicepresidente-usa-vance-in-svizzera-per-i-negoziati_5222a39b-edfd-4174-ad88-494600bb09e4.html",
+        "https://www.repubblica.it/esteri/2026/06/21/news/witkoff_kushner_inviati_in_svizzera_al_via_tavolo_tecnico_iran-425424073/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Madre e figlia trovate morte in casa a Torino, l'ipotesi è omicidio-suicidio",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/06/21/torino-madre-figlia-morte-in-casa-ipotesi-omicidio-suicidio-news/8425318/",
+        "https://www.ilgiornale.it/news/nazionale/madre-uccide-figlia-13-anni-e-poi-si-toglie-vita-trovarle-2682192.html",
+        "https://www.ilmessaggero.it/italia/madre_uccide_figlia_corpi_trovati_sorella-9606065.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/21/madre-e-figlia-trovate-morte-in-casa-a-torino-lipotesi-e-omicidio-suicidio_569fd153-5e1f-49c7-8deb-fd53d7b09090.html",
+        "https://www.adnkronos.com/cronaca/madre-figlia-morte-torino-ipotesi-omicidio-suicidio_nZLNOcXBl4EELuVbqeRKv"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "In migliaia in piazza al corteo del Roma Pride con bandiere e ventagli arcobaleno",
-      "source_count": 1,
+      "source_count": 2,
       "article_count": 9,
       "source_domains": [
+        "ilgiornale.it",
         "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48255249/pascale-al-pride-pannella-e-berlusconi-mi-hanno-insegnato-tolleranza/",
+        "https://www.ilgiornale.it/news/politica/sfilata-pride-cori-pro-pal-e-insulti-agli-ebrei-2682015.html",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48255246/una-marea-arcobaleno-balla-in-strada-ymca-al-pride-di-roma/",
         "https://www.liberoquotidiano.it/news/libero-video/48254117/orrore-giulia-bongiorno-roma-pride-2026-cosa-spunta/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48253899/la-gay-street-al-colosseo-con-dj-set-e-danza-per-festeggiare-il-pride-di-roma/",
@@ -145,57 +197,22 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Guerra Ucraina–Russia, news di oggi. La Crimea sospende vendite di carburante a privati e aziende",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/ucraina-droni-crimea-attacco-news-oggi_7zxXL1EqiyJJRh5SmPiZdJ",
-        "https://www.ilmessaggero.it/mondo/crimea_stop_vendita_carburante_civili_attacchi_ucraina-9605926.html",
-        "https://www.repubblica.it/esteri/2026/06/21/diretta/guerra_ucraina_russia_news_oggi-425424378/",
-        "https://www.lastampa.it/esteri/2026/06/21/diretta/guerra_russia_ucraina_news_oggi-15666209/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Iniziano i complicati negoziati tra Stati Uniti e Iran",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/videogallery/mondo/2026/06/21/stati-uniti-iran-il-vicepresidente-usa-vance-in-svizzera-per-i-negoziati_5222a39b-edfd-4174-ad88-494600bb09e4.html",
-        "https://www.repubblica.it/esteri/2026/06/21/news/witkoff_kushner_inviati_in_svizzera_al_via_tavolo_tecnico_iran-425424073/",
-        "https://www.liberoquotidiano.it/news/tv-news/48252368/accordo-iran-usa-burgenstock-blindata-con-posti-di-blocco/",
-        "https://news.google.com/rss/articles/CBMieEFVX3lxTE93U3dmTDNwX2k1UVVFeUhxRkRmdGdPSWgyeVFCWENnQXRSeXh6Wk14QkI1NDR4bUVZRkdZSXlCZWIxU2hzQXNsOEJPUWFVMkZPaE03UXJabW5obzVfaWw1MHg4dE1hUnhxejhrWVZCdEt5a2ZobllkSQ?oc=5"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Emilio Fede, scontro tra le figlie per l'eredità milionaria: al centro ville, gioielli e conti correnti",
+      "title": "Figuraccia M5s: pubblicata foto fake",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 6,
       "source_domains": [
-        "roma.repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilgiornale.it"
+        "laverita.info",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://roma.repubblica.it/cronaca/2026/06/21/news/il_testamento_fantasma_di_casa_fede_cosi_mia_sorella_ha_svuotato_il_conto-425424261/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/20/lite-tra-le-figlie-di-emilio-fede-per-leredita-chiesta-larchiviazione_6b8a69c9-980a-4e8e-9c84-be8f69c8592a.html",
-        "https://www.ilmessaggero.it/persone/emilio_fede_figlie_chi_sono_che_lavoro_fanno-9604449.html",
-        "https://www.ilgiornale.it/news/personaggi/emilio-fede-scontro-figlie-leredit-milionaria-centro-ville-2681872.html"
+        "https://www.laverita.info/pellegrini-m5s-fake-foto-meloni-2677070581.html",
+        "https://www.liberoquotidiano.it/news/politica/48256901/meloni-trump-foto-fake-grillino-insulti-seguaci-nana-infame/",
+        "https://www.ilgiornale.it/news/interni/foto-fake-meloni-trump-rischio-indagine-pentastellato-2681935.html",
+        "https://www.liberoquotidiano.it/news/politica/48251071/donald-trump-giorgia-meloni-foto-premier-implorato-falso-grillino-rischia-grosso/",
+        "https://www.ilgiornale.it/news/politica-internazionale/foto-supplicata-si-tratta-falso-creato-lia-figuraccia-2681900.html"
       ]
     }
   ]
