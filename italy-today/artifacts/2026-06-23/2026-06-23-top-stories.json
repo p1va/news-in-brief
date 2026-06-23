@@ -1,6 +1,6 @@
 {
   "date": "2026-06-23",
-  "generated_at": "Tue 23 Jun 20:21",
+  "generated_at": "Tue 23 Jun 21:06",
   "stories": [
     {
       "rank": 1,
@@ -29,7 +29,7 @@
       "rank": 2,
       "title": "Meloni: Colpita da quanto successo con Trump, ma lavoro bilaterale con Usa ora torni alla normalità",
       "source_count": 9,
-      "article_count": 15,
+      "article_count": 13,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
@@ -51,13 +51,36 @@
     },
     {
       "rank": 3,
+      "title": "Cristiano Ronaldo nella storia, è il primo giocatore a segnare in sei edizioni dei Mondiali: migliorato il suo record (già battuto in Qatar)",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "adnkronos.com",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/ronaldo-portogallo-uzbekistan-gol-record_VUoAl27fDKOHsPittNIje",
+        "https://www.ilgiornale.it/news/calcio/cristiano-ronaldo-epocale-fa-gol-sei-diverse-edizioni-dei-2683373.html",
+        "https://www.fanpage.it/sport/calcio/cristiano-ronaldo-risponde-a-messi-nuovo-record-ai-mondiali-e-portogallo-travolgente-sulluzbekistan/",
+        "https://www.ilmessaggero.it/sport/schede/portogallo_uzbekistan_pagelle_ronaldo_bruno_fernandes_mondiali_2026_risultato-9610107.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/23/mondiali-in-campo-portogallo-uzbekistan-diretta_d7f9682e-df7a-4160-8820-871f003cb15f.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Londra, la resa di Starmer. Adesso tocca a Burnham (settimo premier in 10 anni)",
       "source_count": 8,
       "article_count": 12,
       "source_domains": [
+        "unita.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
-        "unita.it",
         "ansa.it",
         "fanpage.it",
         "ilmanifesto.it",
@@ -65,15 +88,15 @@
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.unita.it/2026/06/23/starmer-sara-dimenticato-in-fretta-labour-in-attesa-di-un-messia-parla-donald-sassoon/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48283790/trump-su-premier-britannico-dimissionario-keir-starmer-non-e-di-certo-winston-churchill/",
         "https://www.ilgiornale.it/news/politica/niente-carisma-gaffe-ed-errori-disastro-keir-trionfo-2682771.html",
         "https://www.ilgiornale.it/news/politica/starmer-si-arrende-lacrime-ultimo-flop-che-azzoppa-labour-2682770.html",
-        "https://www.unita.it/2026/06/23/starmer-lascia-e-burnham-si-scalda-il-labour-spera-nel-re-del-nord-un-nuovo-messia-da-manchester/",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/06/23/prime-pagine-starmer-si-dimette-londra-senza-pace-dopo-la-brexit_7b5b3fd3-3341-4133-a2e8-440c43289933.html"
+        "https://www.unita.it/2026/06/23/starmer-lascia-e-burnham-si-scalda-il-labour-spera-nel-re-del-nord-un-nuovo-messia-da-manchester/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Procura di Roma: 'Su Regeni esercizio metodico e freddo di violenza'",
       "source_count": 7,
       "article_count": 11,
@@ -95,47 +118,25 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Ronaldo diventa il primo giocatore a segnare in sei diverse edizioni del Mondiale",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/ronaldo-portogallo-uzbekistan-gol-record_VUoAl27fDKOHsPittNIje",
-        "https://www.ilgiornale.it/news/calcio/cristiano-ronaldo-epocale-fa-gol-sei-diverse-edizioni-dei-2683373.html",
-        "https://www.ilmessaggero.it/sport/schede/portogallo_uzbekistan_pagelle_ronaldo_bruno_fernandes_mondiali_2026_risultato-9610107.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/23/mondiali-in-campo-portogallo-uzbekistan-diretta_d7f9682e-df7a-4160-8820-871f003cb15f.html",
-        "https://www.liberoquotidiano.it/news/sport/48287874/mondiali-2026-ronaldo-gol-6-mondiali-diversi/"
-      ]
-    },
-    {
       "rank": 6,
       "title": "Caldo estremo, non è finita. Ferrara (3bMeteo): «Il picco la settimana prossima, ecco le città a rischio»",
       "source_count": 7,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "fanpage.it",
         "ilgiornale.it",
         "ilmessaggero.it",
         "ansa.it",
         "unita.it",
-        "fanpage.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.fanpage.it/milano/ondata-di-caldo-a-milano-allerta-massima-per-i-prossimi-tre-giorni-temperature-oltre-i-35-gradi/",
         "https://www.ilgiornale.it/news/meteo-e-clima/picchi-fino-41-c-ecco-quali-saranno-aree-d-italia-pi-calde-2683155.html",
         "https://www.ilmessaggero.it/italia/caldo_picco_quando_arrivera_esperto_trombe_d_aria-9609668.html",
         "https://www.ansa.it/sito/notizie/politica/2026/06/23/ancora-in-aumento-le-citta-rosse-per-il-caldo-giovedi-sono-17_66d3f570-3a51-4c41-8fe8-6992fbe2a2d4.html",
-        "https://www.ilgiornale.it/news/politica/unestate-nel-2003-16-citt-bollino-rosso-e-leffetto-notti-2682791.html",
-        "https://www.unita.it/2026/06/23/ondata-caldo-citta-bollino-rosso-italia-spettro-estate-2003-europa/"
+        "https://www.ilgiornale.it/news/politica/unestate-nel-2003-16-citt-bollino-rosso-e-leffetto-notti-2682791.html"
       ]
     },
     {
@@ -185,27 +186,6 @@
     },
     {
       "rank": 9,
-      "title": "Dieci anni dalla Brexit, una delusione senza via d'uscita",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/22/dieci-anni-dalla-brexit-una-delusione-senza-via-duscita_d42f8611-72e6-472c-837b-f931cac08e50.html",
-        "https://www.ilgiornale.it/news/politica/premier-soldi-e-migranti-ecco-cosa-andato-storto-eppure-2682773.html",
-        "https://www.adnkronos.com/internazionale/esteri/brexit-oggi-unione-europea-regno-unito_6f7hVEkSZKPI13KrwXBosA",
-        "https://www.repubblica.it/politica/2026/06/23/news/meloni_salvini_berlusconi_renzi_reazioni_brexit-425428511/",
-        "https://www.repubblica.it/esteri/2026/06/23/news/boston_citta_voti_brexit_reportage_dieci_anni_dopo-425428391/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Europa stravolta dal caldo. In Francia 40 morti per annegamento",
       "source_count": 5,
       "article_count": 8,
@@ -222,6 +202,27 @@
         "https://www.liberoquotidiano.it/news/tv-news/48285329/ondata-di-calore-in-francia-40-morti-per-annegamento-dal-18-giugno/",
         "https://www.ilfattoquotidiano.it/2026/06/23/caldo-francia-morti-annegamento-notizie/8427291/",
         "https://www.ilmessaggero.it/mondo/caldo_estremo_francia_fermata_centrale_nucleare-9609544.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "La7, l'audio originale della telefonata con Trump a \"L'aria che tira\"",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/politica/laudio-integrale-della-chiamata-in-cui-trump-ha-insultato-giorgia-meloni/",
+        "https://www.ilfattoquotidiano.it/2026/06/23/esclusivo-la7-trump-meloni/8427308/",
+        "https://www.ansa.it/sito/videogallery/italia/2026/06/23/la7-laudio-originale-della-telefonata-con-trump-a-laria-che-tira_dcf7423f-c20f-4675-87a6-7d5a56a82b52.html",
+        "https://www.adnkronos.com/internazionale/esteri/trump-contro-meloni-intervista-la7-audio_2DwNA7MKC8Lo678jn99VoA",
+        "https://www.liberoquotidiano.it/news/personaggi/48280605/l-aria-che-tira-l-audio-della-telefonata-in-cui-trump-infanga-meloni-ecco-cosa-dice-il-tycoon/"
       ]
     }
   ]
