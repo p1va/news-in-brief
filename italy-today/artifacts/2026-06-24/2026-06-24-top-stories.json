@@ -1,39 +1,66 @@
 {
   "date": "2026-06-24",
-  "generated_at": "Wed 24 Jun 20:12",
+  "generated_at": "Wed 24 Jun 22:27",
   "stories": [
     {
       "rank": 1,
-      "title": "Alemanno fuori da Rebibbia: 'Esco dal carcere innocente'",
-      "source_count": 11,
-      "article_count": 15,
+      "title": "Rutte accusa l’Italia: 500 voli Usa contro l’Iran dalle basi italiane, governo smentisce",
+      "source_count": 10,
+      "article_count": 20,
       "source_domains": [
+        "ilmanifesto.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/rutte-in-italia-500-scali-verso-liran",
+        "https://ilmanifesto.it/il-nuovo-fuoco-amico-che-imbarazza-il-governo",
+        "https://www.adnkronos.com/internazionale/esteri/nato-rutte-aerei-usa-basi-italia-risposta-crosetto-polemiche_3r3sWzIFvY8DQfwk8hQIZq",
+        "https://www.ilmessaggero.it/politica/rutte_italia_voli_usa_iran_cosa_ha_detto-9612359.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/24/rutte-500-aerei-usa-dallitalia-in-iran.-e-bufera_e2c9cd18-cf18-4396-9549-8abac819c3d1.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "L’ex sindaco di Roma Gianni Alemanno lascia il carcere di Rebibbia: “Esco da innocente”",
+      "source_count": 12,
+      "article_count": 17,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
         "fanpage.it",
         "ansa.it",
         "unita.it",
         "adnkronos.com",
-        "ilmessaggero.it",
         "roma.repubblica.it",
         "liberoquotidiano.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://ilmanifesto.it/alemanno-libero-e-paladino-dei-detenuti-purche-bianchi",
+        "https://www.ilmessaggero.it/politica/alemanno_compagno_cella_chi_era_cosa_ha_detto-9612396.html",
         "https://www.ilfattoquotidiano.it/2026/06/24/alemanno-rebibbia-cori-striscioni-dichiarazioni-video/8428630/",
-        "https://www.ilgiornale.it/news/politica/alemanno-libero-esce-rebibbia-mi-sembra-disertare-2683431.html",
-        "https://www.fanpage.it/politica/lex-sindaco-di-roma-alemanno-esce-da-rebibbia-dopo-la-reclusione-su-carceri-meloni-non-ha-fatto-niente/",
-        "https://www.ansa.it/sito/notizie/politica/2026/06/24/alemanno-esce-dal-carcere-dopo-un-anno-e-mezzo_5fb0e4f1-1724-4e32-9477-c24ad6971db4.html",
-        "https://www.unita.it/2026/06/24/alemanno-esce-carcere-meloni-sovraffollamento-vannacci/"
+        "https://www.ilfattoquotidiano.it/2026/06/24/alemanno-carcere-rebibbia-dichiarazione-notizie/8428482/",
+        "https://www.ilgiornale.it/news/politica/alemanno-libero-esce-rebibbia-mi-sembra-disertare-2683431.html"
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "La famiglia Berlusconi ha venduto Villa Certosa ad Al Thani",
-      "source_count": 9,
-      "article_count": 16,
+      "source_count": 10,
+      "article_count": 17,
       "source_domains": [
+        "ilmanifesto.it",
         "ilgiornale.it",
         "ansa.it",
         "lastampa.it",
@@ -45,43 +72,20 @@
         "news.google.com"
       ],
       "links": [
+        "https://ilmanifesto.it/tracce-di-vita-smeralda",
         "https://www.ilgiornale.it/news/societ/villa-certosa-epopea-126-stanze-e-vulcani-finti-potere-e-2683789.html",
         "https://www.ansa.it/sito/photogallery/primopiano/2026/06/24/da-putin-a-mubarak-le-foto-dei-leader-a-villa-certosa-con-berlusconi_62c1c0cd-0a42-4010-9d33-bb03a6fe3043.html",
         "https://www.lastampa.it/economia/2026/06/24/news/hamad_bin_jassim_al_thani_villa_certosa_chi_e_sceicco-15669616/",
-        "https://www.ilgiornale.it/news/attualit/miliardario-e-politico-alto-rango-qatar-chi-hamad-bin-jassim-2683715.html",
-        "https://www.repubblica.it/politica/2026/06/24/news/villa_certosa_berlusconi_storia-425431227/"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Rutte accusa l’Italia: 500 voli Usa contro l’Iran dalle basi italiane, governo smentisce",
-      "source_count": 9,
-      "article_count": 16,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "unita.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/24/rutte-500-aerei-usa-dallitalia-in-iran.-e-bufera_e2c9cd18-cf18-4396-9549-8abac819c3d1.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/24/rutte-500-aerei-usa-dallitalia-in-iran.-poi-la-nato-precisa.-tajani_e2c9cd18-cf18-4396-9549-8abac819c3d1.html",
-        "https://www.repubblica.it/politica/2026/06/24/news/basi_italiane_usa_iran_ruolo_limitato_rutte-425431708/",
-        "https://www.adnkronos.com/politica/iran-voli-usa-basi-italia-intervista-crosetto_2D2WpBH6Bifc3BCxapE1Uq",
-        "https://www.adnkronos.com/cronaca/iran500-aerei-usa-bonelli-difesa_1DNAAsLvDsW6MOjH4rz6U"
+        "https://www.ilgiornale.it/news/attualit/miliardario-e-politico-alto-rango-qatar-chi-hamad-bin-jassim-2683715.html"
       ]
     },
     {
       "rank": 4,
       "title": "Federica Sciarelli lascia Chi l'ha visto? dopo vent'anni",
-      "source_count": 10,
-      "article_count": 11,
+      "source_count": 11,
+      "article_count": 12,
       "source_domains": [
+        "adnkronos.com",
         "ansa.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
@@ -94,11 +98,11 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.adnkronos.com/spettacoli/chi-lha-visto-sciarelli-puntata-stasera_77D2MHkbiWjLWuvzqdTBmG",
         "https://www.ansa.it/sito/notizie/cultura/2026/06/24/sciarelli-verso-laddio-a-chi-lha-visto-dopo-22-anni-si-cerca-lerede_bc7ec92b-cf6a-46bb-9494-aeed29c4ea3a.html",
         "https://www.ansa.it/sito/notizie/cultura/2026/06/24/rai-con-federica-sciarelli-si-ragiona-sul-futuro_bc7ec92b-cf6a-46bb-9494-aeed29c4ea3a.html",
         "https://www.ilmessaggero.it/persone/federica_sciarelli_chi_l_ha_visto_rai_sostituiti_nomi_massimo_giletti_eleonora_daniele-9611642.html",
-        "https://www.ilfattoquotidiano.it/2026/06/24/federica-sciarelli-dice-addio-a-chi-lha-visto-la-rai-valuta-chi-potrebbe-raccoglierne-leredita/8428530/",
-        "https://www.ilgiornale.it/news/personaggi/federica-sciarelli-lascia-chi-lha-visto-laddio-oltre-2683631.html"
+        "https://www.ilfattoquotidiano.it/2026/06/24/federica-sciarelli-dice-addio-a-chi-lha-visto-la-rai-valuta-chi-potrebbe-raccoglierne-leredita/8428530/"
       ]
     },
     {
@@ -127,6 +131,49 @@
     },
     {
       "rank": 6,
+      "title": "Continua l'ascesa dell'afa, oggi bollino rosso per caldo in 17 città",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/caldo-allerta-citta-bollino-rosso-oggi_6lRuKCHhyD8z0n57U17kDC",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/24/litalia-nella-morsa-dellafa-61enne-muore-mentre-lavora-nella-vigna_ffcc179a-7d98-4044-becf-e1edb1f00f42.html",
+        "https://www.fanpage.it/live/ondata-di-caldo-record-in-italia-e-europa-oggi-bollino-rosso-in-16-citta-durera-fino-a-luglio-ultime-news-in-diretta/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/24/litalia-nella-morsa-dellafa-agli-uffizi-condizionatori-in-tilt-e-stop-alla_ffcc179a-7d98-4044-becf-e1edb1f00f42.html",
+        "https://www.ilgiornale.it/news/meteo-e-clima/leuropa-si-scioglie-giugno-pi-rovente-2683527.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Nato, Meloni a Berlino per il vertice E5: \"Europa deve assumersi responsabilità\"",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "governo.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/vertice-e5-berlino-punti-summit_1wDNHnMo9ebnDBcRMt4xY2",
+        "https://www.liberoquotidiano.it/news/libero-video/48303115/giorgia-meloni-vertice-e5-europa-assuma-responsabilita-/",
+        "https://www.ansa.it/sito/notizie/politica/2026/06/24/meloni-e-gli-altri-leader-delle5-a-berlino-da-merz_aab32095-8d48-4f55-9a97-6ae8a8711aee.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48302924/meloni-rafforziamo-componente-europea-nato-bisogna-assumersi-proprie-responsabilita-su-difesa/",
+        "https://www.repubblica.it/politica/2026/06/24/news/meloni_vertice_e5_sorvola_caso_rutte_fertitta_salvini-425431738/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Sinner, il ritorno: sulla strada per Wimbledon l’unico avversario è il caldo. Norrie ko in due set",
       "source_count": 5,
       "article_count": 11,
@@ -146,28 +193,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Nato, Meloni a Berlino per il vertice E5: \"Europa deve assumersi responsabilità\"",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "governo.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/48303115/giorgia-meloni-vertice-e5-europa-assuma-responsabilita-/",
-        "https://www.ansa.it/sito/notizie/politica/2026/06/24/meloni-e-gli-altri-leader-delle5-a-berlino-da-merz_aab32095-8d48-4f55-9a97-6ae8a8711aee.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48302924/meloni-rafforziamo-componente-europea-nato-bisogna-assumersi-proprie-responsabilita-su-difesa/",
-        "https://www.repubblica.it/politica/2026/06/24/news/meloni_vertice_e5_sorvola_caso_rutte_fertitta_salvini-425431738/",
-        "https://www.ilgiornale.it/news/politica-internazionale/vertice-e5-meloni-ue-deve-assumersi-sua-responsabilit-2683825.html"
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "title": "Tragedia di Senago, gip concede domiciliari a ragazzo alla guida: \"Ha cercato di aiutare amici\"",
       "source_count": 7,
       "article_count": 8,
@@ -189,45 +215,21 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "L'Europa si \"scioglie\". È il giugno più rovente",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "fanpage.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/24/litalia-nella-morsa-dellafa-61enne-muore-mentre-lavora-nella-vigna_ffcc179a-7d98-4044-becf-e1edb1f00f42.html",
-        "https://www.fanpage.it/live/ondata-di-caldo-record-in-italia-e-europa-oggi-bollino-rosso-in-16-citta-durera-fino-a-luglio-ultime-news-in-diretta/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/24/litalia-nella-morsa-dellafa-agli-uffizi-condizionatori-in-tilt-e-stop-alla_ffcc179a-7d98-4044-becf-e1edb1f00f42.html",
-        "https://www.ilgiornale.it/news/meteo-e-clima/leuropa-si-scioglie-giugno-pi-rovente-2683527.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/24/ondata-di-afa-in-europa-in-gran-bretagna-previsti-picchi-record-fino-a-39-gradi_708cb1b8-7c65-411e-9784-e1be9f990191.html"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Trump critica il Senato Usa: \"Voto sull'Iran inopportuno e insignificante\"",
-      "source_count": 6,
-      "article_count": 7,
+      "title": "Mondiali: Svizzera-Canada e Bosnia Erzegovina-Qatar in campo DIRETTA",
+      "source_count": 3,
+      "article_count": 11,
       "source_domains": [
+        "adnkronos.com",
         "ansa.it",
-        "fanpage.it",
-        "unita.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "repubblica.it"
+        "fanpage.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/24/trump-critica-il-senato-usa-voto-sulliran-inopportuno-e-insignificante.-e-cancella-la-firma_78e820fa-6540-4cee-bc36-9cf5502116ff.html",
-        "https://www.fanpage.it/live/iran-news-usa-israele-diretta-live-24-giugno/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/24/trump-critica-il-senato-usa-voto-sulliran-inopportuno-e-insignificante_78e820fa-6540-4cee-bc36-9cf5502116ff.html",
-        "https://www.unita.it/2026/06/24/trump-senato-vota-mozione-contro-guerra-in-iran/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/usa-senato-vota-contro-trump-e-lui-inopportuno-e-insensato-2683547.html"
+        "https://www.adnkronos.com/sport/diretta-marocco-haiti-oggi-mondiali-2026-risultato-live_TQDCOodjxPJt2oRInETpA",
+        "https://www.adnkronos.com/sport/diretta-brasile-scozia-oggi-mondiali-2026-risultato-live_6ZuW6eZsP6vg3PwkIIF8su",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/24/mondiali-svizzera-canada-e-bosnia-erzegovina-qatar-in-campo-diretta_13a416ea-ed17-482b-a0c7-84936b3b8ff3.html",
+        "https://www.adnkronos.com/sport/ufo-neymar-vinicius-brasile-scozia-mondiali-2026_6lQKFoklt3WjQqYQFPrMx8",
+        "https://www.fanpage.it/sport/live/scozia-brasile-live-ai-mondiali-2026-diretta-tv-su-dazn-a-che-ora-vedere-la-partita/"
       ]
     }
   ]
