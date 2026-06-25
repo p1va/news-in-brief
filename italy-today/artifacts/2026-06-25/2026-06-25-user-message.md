@@ -1,0 +1,662 @@
+Here is the latest data for today's show:
+- In <previous_episode_transcript> find the script for the last episode for context.
+- In <clustered_headlines> find the "Top Stories" (widely covered).
+- In <other_headlines> find news that were only covered by single source.
+
+
+<previous_episode_transcript>
+# Previous Episode Transcript (2026-06-24)
+Welcome to another episode of "Italy Today", today is Wednesday 24 and this episode was curated by Gemini 3.1 Pro.
+
+Let's start with a rapid-fire look at today's major developments. Following up on yesterday's report, the European heatwave is intensifying, with seventeen Italian cities now under maximum red alerts and the Uffizi Gallery in Florence forced to halt ticket sales after its air conditioning system collapsed under the strain. Up in Berlin, Prime Minister Giorgia Meloni is attending the E5 summit today, meeting with German Chancellor Friedrich Merz, British Prime Minister Keir Starmer, and other leaders to desperately coordinate a stronger European defense pillar for NATO. On the economic front, the Court of Auditors issued a stark warning this morning, noting that Italy's public deficit is heavily overshooting expectations as the toxic financial tail of the Superbonus construction scheme continues to drain state coffers. In international news, a new United Nations commission has released a devastating report accusing Israel of deliberately targeting children in Gaza, labeling the military actions a genocide. And finally, the United States Ambassador to Italy has publicly stepped in to do some damage control following yesterday's leaked audio of President Donald Trump mocking Prime Minister Meloni, waving the incident away on national television as a "normal disagreement" among close allies. 
+
+But that diplomatic band-aid is already failing, because the main story today is a massive geopolitical rupture over the ongoing war in Iran, and it places Rome right in the crosshairs. In a televised interview, NATO Secretary General Mark Rutte explicitly stated that five hundred United States military aircraft took off from American bases in Italy to support the "Epic Fury" operation against Tehran. The Italian government immediately went into full damage control. Defense Minister Guido Crosetto vehemently denied the claim, stating that Italy strictly respects international treaties and only ever authorized logistical support, not combat or kinetic missions. 
+
+The domestic press is having a field day with this contradiction, and the spin is completely polarized. On the left, anti-establishment papers like *Il Fatto Quotidiano* and *L'Unità* are treating Rutte's statement as a smoking gun. They argue this completely shatters Meloni's recent attempts to project a "straight spine" against the Trump administration's aggressive foreign policy, accusing the government of lying to Parliament and secretly turning Italy into a launchpad for an American war. Conversely, the right-wing *Il Giornale* rushes to the government's defense, calling Rutte's claim a "colossal lie" and questioning whether the NATO chief is deliberately misrepresenting standard logistical flights to drag European allies deeper into the conflict. The undeniable takeaway is that Italy is trapped: hosting massive US military infrastructure means Rome's distinction between "logistical support" and "active warfare" is a technicality that neither its citizens, nor the international community, are willing to buy anymore.
+
+Moving from geopolitical conflicts to a seismic shift in domestic politics, the hard right is facing a sudden internal fracture. Former Rome Mayor Gianni Alemanno was released from Rebibbia prison this morning after serving over a year for corruption charges related to the infamous "Mondo di Mezzo" scandal. But Alemanno did not just go home quietly. Stepping out of the prison gates, he immediately announced a political comeback alongside the highly controversial General Roberto Vannacci. As reported by *La Stampa*, Alemanno used his first moments of freedom to fiercely attack Meloni's government for failing to address the catastrophic overcrowding in Italian prisons. This is a highly consequential maneuver. By aligning with Vannacci, Alemanno is actively trying to build a radical, sovereigntist alternative to Meloni's Brothers of Italy, looking to poach voters who feel the current Prime Minister has become too moderate and establishment. 
+
+Turning to the economic and cultural landscape, a defining symbol of the Second Republic has officially been sold. The Berlusconi family has finalized the sale of Villa Certosa, the late Prime Minister's legendary Sardinian estate, to the Qatari royal family, the Al Thani dynasty, for three hundred and fifty million euros. For decades, the massive compound in Porto Rotondo was the unofficial summer capital of Italy, a place where Silvio Berlusconi hosted everyone from Vladimir Putin to George W. Bush. *Il Fatto Quotidiano* frames the sale as the ultimate dismantling of the billionaire's empire and a symbolic end to his era of power. Meanwhile, financial papers like *Il Sole 24 Ore* point out the broader macroeconomic trend: Gulf state wealth continues to quietly buy up Europe's most iconic and strategically valuable real estate.
+
+But before we go, a palate cleanser to remind us of what Italy undeniably still does best. The travel platform Holidu has just released its 2026 ranking of the Top One Hundred Culinary Capitals of Europe, analyzing everything from the density of high-quality restaurants to local ingredient sourcing. The podium is entirely Italian, with Rome, Florence, and Naples sweeping the top three spots, leaving cities like Paris and San Sebastian trailing behind. It is a comforting reminder that no matter how chaotic the political or economic machinery gets, the foundation of Italian culture remains globally unmatched.
+
+I will see you tomorrow.
+</previous_episode_transcript>
+
+
+
+<clustered_headlines>
+# Coverage Pulse - 2026-06-25
+
+## 1. Treni in ritardo e lavori sulla rete, l’ad di Ferrovie Donnarumma lascia dopo l'incontro con Salvini
+
+> **Context:** Al suo posto arriverebbe Gianpiero Strisciuglio
+
+- **Il Sole Ventiquattro Ore**: Fs, Donnarumma lascia. Gianpiero Strisciuglio sarà il nuovo ad Cambio al vertice di Fs. L’ad Stefano Donnarumma nei prossimi giorni «chiuderà i dossier più importanti prima di consegnare le dimissioni». A farlo sapere sono stati fonti del...
+- **La Repubblica**: Fs, Donnarumma lascia l’incarico di ad dopo l’incontro con Salvini. Successore sarà interno Il manager incontra il ministro dei Trasporti. Dopo il vertice, prende forma la volontà di gettare la spugna: convocata la prima linea dirigenziale. Il favorito a raccoglierne l’eredità è Strisciuglio (Trenitalia). Il Pd: certificato il fallimento
+- **La Stampa**: Treni in ritardo e lavori sulla rete, l’ad di Ferrovie Donnarumma lascia dopo l'incontro con Salvini Al suo posto arriverebbe Gianpiero Strisciuglio
+- **ANSA**: Donnarumma lascia le ferrovie, a pesare i recenti disservizi sulla linea ferroviaria Il ministro Salvini e l'ad di Fs concordano sulla conclusione del mandato in anticipo
+- **Il Giornale**: Fs, Donnarumma lascia la guida. Salvini lo ringrazia L’ad ha lasciato dopo un incontro avvenuto questa mattina con il ministro Matteo Salvini
+- **La Verità**: Fs, incontro Salvini-Donnarumma: l'ad verso le dimissioni Il manager dovrebbe chiudere nei prossimi giorni i dossier più urgenti prima di lasciare l’incarico. Per la guida operativa del gruppo prende quota il nome dell’ad di Trenitalia, Gianpiero Strisciuglio.Continua a leggere
+- **Il Messaggero**: Fs, Donnarumma lascia l'incarico: «Dimissioni nei prossimi giorni». La decisione dopo l'incontro con Salvini Ribaltone in arrivo nelle Ferrovie dello Stato. Stefano Antonio Donnarumma avrebbe deciso di dimettersi da ad e dg di Fs nella mattina di giovedì 25. Alle 8,30 il manager ex Terna, secondo...
+- **Il Sole Ventiquattro Ore**: Strisciuglio, la scelta interna di Salvini per il dopo-Donnarumma Una carriera di 25 anni tutta interna al gruppo Fs che culminerà con la nomina ad amministratore delegato. È la parabola di Gianpiero Strisciuglio, barese, 50 anni, una laurea in...
+- **La Repubblica**: Donnarumma si dimette. Le opposizioni: deve lasciare Salvini. Forza Italia: ora svolta in Fs Bonelli (Avs): resta al suo posto il terminator dei trasporti. Barbagallo (Pd): il governo manca di visione strategica. Più Europa: colpe scaricate su un manager di valore. I forzisti invocano un cambio di passo nelle ferrovie
+- **L'Unità**: Donnarumma si dimette dalla guida di Ferrovie, l’uscita dopo un vertice con Salvini: al suo posto l’AD di Trenitalia Costretto a lasciare dopo l’intervento di Matteo Salvini e il lungo faccia a faccia, durato circa due ore, nella sede del ministero dei Trasporti. Stefano Donnarumma, amministratore delegato di Ferrovie dello Stato, lascerà nei prossimi giorni la sua carica di guida del gruppo. Al termine della riunione con Salvini, Donnarumma ha convocato una videoconferenza con […]
+- **Fanpage.it**: Si dimette Stefano Donnarumma, Strisciuglio nuovo ad di Fs. Opposizioni: “Salvini ha fallito come ministro” Si dimette Stefano Donnarumma, ad di Fs. L'amministratore delegato di Trenitalia Gianpiero Strisciuglio prenderà il suo posto. I rapporti tra Donnarumma e Salvini erano ormai logori, per via di una gestione caotica dell'azienda e per i disservizi alla rete ferroviaria degli ultimi mesi. Opposizioni all'attacco: "Più che Donnarumma, a doversene andare è il ministro dei Trasporti".Continua a leggere
+- **ANSA**: Fine corsa per Donnarumma a Fs, lascia nei prossimi giorni L'ad diTrenitalia, Strisciuglio, probabile sostituto. Le opposizioni chiedono le dimissioni di Salvini
+- **Il Post**: Stefano Antonio Donnarumma si dimetterà da amministratore delegato di Ferrovie dello Stato 
+
+
+## 2. Strage ferroviaria di Viareggio, condanne definitive: Moretti andrà in carcere
+
+> **Context:** La Cassazione rigetta i ricorsi degli imputati. L'ex ad di Ferrovie dello Stato e Rete Ferroviaria Italiana condannato a 5 anni
+
+- **Il Sole Ventiquattro Ore**: Strage di Viareggio, il Pg della Cassazione chiede conferma delle condanne per tutti imputati Un eventuale accoglimento della richiesta aprirebbe la strada all’esecuzione delle pene, compresa quella nei confronti dell’ex amministratore delegato di Ferrovie dello Stato e Rfi, Mauro Moretti, che rischia il carcere
+- **La Stampa**: Strage di Viareggio, Moretti andrà in carcere: condanna definitiva Diventano definitive le condanne per gli imputati nel processo per la strage ferroviaria di Viareggio del 29 giugno 2009, in cui persero la vita 32 persone e oltre un centinaio rimasero ferite. ...
+- **ANSA**: Condanne definitive per la strage di Viareggio, Moretti andrà in carcere L'ex amministratore delegato di Ferrovie dello Stato deve scontare cinque anni
+- **Adkronos**: Strage ferroviaria di Viareggio, condanne definitive: Moretti andrà in carcere La Cassazione rigetta i ricorsi degli imputati. L'ex ad di Ferrovie dello Stato e Rete Ferroviaria Italiana condannato a 5 anni
+- **Il Fatto Quotidiano**: Strage di Viareggio, la Cassazione conferma le condanne: sono definitive. Moretti andrà in carcere Le condanne per la strage ferroviaria di Viareggio ora sono definitive. La Cassazione ha accolto le richieste della procura generale, rigettando i ricorsi presentati dagli imputati contro la sentenza d’appello ter che aveva confermato, tra gli altri, la condanna a 5 anni di reclusione per Mauro Moretti, ex amministratore delegato di Ferrovie dello Stato e […] L'articolo Strage di Viareggio, la Cassazione conferma le condanne: sono definitive. Moretti andrà in carcere proviene da Il Fatto Quotidiano.
+- **Il Giornale**: Strage di Viareggio, condanne definitive: l'ex ad di Fs Moretti andrà in carcere La Cassazione respinge i ricorsi degli imputati e conferma le pene decise nel processo d'appello ter. Definitive anche le condanne per altri dieci ex dirigenti e tecnici coinvolti nella gestione e manutenzione del convoglio deragliato
+- **Il Messaggero**: Strage di Viareggio, definitive le condanne per Mauro Moretti e altri 10 imputati: l'ex ad di Fs e Rfi andrà in carcere Sono definitive le condanne del procedimento per la strage alla stazione di Viareggio (Lucca) del 29 giugno 2009. Lo hanno deciso i giudici della quarta sezione penale di Cassazione che rigettando...
+- **La Repubblica**: Strage Viareggio, la mamma di una vittima: “Finalmente giustizia, Moretti non ha mai chiesto scusa” Dopo la sentenza della Cassazione parla Daniela Rombi, presidente dell’associazione dei familiari delle vittime: “E’ finita, lo dovevo alla mia bambina”
+- **ANSA**: Definitive le condanne per la strage di Viareggio, Moretti va in carcere La Cassazione rigetta i ricorsi. Nel 2009 morirono 32 persone. La difesa dell'ex ad di Ferrovie: 'Siamo indignati'
+- **AGI**: Strage di Viareggio: definitiva la condanna a cinque anni per Mauro Moretti. L'ex ad di Rf... Dopo 17 anni è stata scritta la parola fine al procedimento giudiziario per la strage di Viareggio del 2009, il disastro ferroviario in cui morirono 32 persone: la Cassazione ha confermato le 11 condanne inflitte nel processo d'appello ter, tra cui quella a cinque anni di reclusione per l'ex amministratore delegato di Ferrovie dello Stato e Rfi Mauro Moretti, che andrà in carcere. Per tutti l'accusa è disastro ferroviario colposo ma per Moretti c'è anche l'accusa di incendio. Probabile che la difesa chieda per lui gli arresti domiciliari, anche alla luce dell'età, 72 anni. Per l'ex amministratore delegato di Rete ferroviaria italiana, Michele Mario Elia, è stata confermata la pena di 4 anni, 2 mesi e 20 giorni. Soddisfazione per i familiari delle vittime che vedono accertate le responsabilità e condannati i responsabili, e che quindi lunedì prossimo potranno ricordare il 17mo anniversario della strage con un animo diverso. Il deragliamento e la successiva esplosione di un convoglio merci carico di Gpl nella stazione della Versilia causarono anche centinaia di feriti. La Suprema Corte ha accolto la richiesta della Procura generale, che aveva sollecitato il rigetto di tutti i ricorsi e la conferma integrale delle pene stabilite nel giudizio di appello ter celebrato a Firenze. Nel maggio 2025 la Corte d'appello fiorentina, a cui la Cassazione aveva chiesto un nuovo giudizio d'appello per la sola quantificazione delle pene, le aveva confermate "per mantenere sanzioni il più possibile adeguate alla gravita' eccezionale dei fatti". La riduzione della pena di un nono rispetto alla pena base, infatti, consentiva di mantenere "il necessario equilibrio" tra l'attenuante del risarcimento dei danni alle vittime e ai loro familiari e la necessita' di applicare una sanzione adeguata alla straordinaria gravita' della vicenda. "Sono profondamente indignata dall'esito del processo perché profondamente ingiusto", ha commentato l'avvocata Ambra Giovene, legale di Mauro Moretti, "è un risultato ingiusto per le persone che vengono travolte da questo risultato", ha aggiunto, "per alcune delle quali si apriranno le porte del carcere per un reato colposo, che sicuramente è un fatto gravissimo: ci furono 32 morti e centinaia di feriti. Ma è un reato colposo per il quale l'ingegnere Moretti non è colpevole, lo dicono gli atti giudiziari". "Dispiace per i familiari delle vittime, che devono inchinarsi come ci inchiniamo noi, a questa sentenza", ha affermato la legale, "ma non c'è niente da festeggiare ne' per noi ne' per loro". Confermate le pene tra i due e sei anni anche per gli altri imputati, tra ex dirigenti e tecnici delle società coinvolte nella gestione e nella manutenzione del convoglio deragliato.
+
+
+## 3. Europa rovente, in Francia bimbo di 3 anni trovato morto in auto. Spagna: 212 morti in pochi giorni
+
+> **Context:** Temperature oltre i 35 gradi. Colpite soprattutto Francia e Spagna. Bollino rosso in 17 città italiane
+
+- **Il Sole Ventiquattro Ore**: Caldo, dal bollino giallo al rosso in 27 città Per comunicare i possibili effetti sulla salute delle ondate di calore il ministero della Salute elabora dei bollettini giornalieri per 27 città, con previsioni fino a 48 ore. Guarda il...
+- **La Repubblica**: Europa rovente, in Francia bimbo di 3 anni trovato morto in auto. Spagna: 212 morti in pochi giorni Temperature oltre i 35 gradi. Colpite soprattutto Francia e Spagna. Bollino rosso in 17 città italiane
+- **La Repubblica**: Caldo, in arrivo il picco. Bollino rosso in 18 città. Già quattro le vittime “Mai un’ondata di calore così lunga”. Schillaci convoca un vertice. Temperature record ma andrà ancora peggio nel weekend
+- **ANSA**: Un bambino di tre anni morto in auto per il caldo in Francia, 212 morti in Spagna Il sindaco di Parigi: 'Mortalità in aumento per il caldo, siate prudenti', 3.500 scuole rimaste chiuse nel paese
+- **Fanpage.it**: Ondata di caldo record in Italia in diretta, oggi bollino rosso in 17 città: 4 vittime per ipotesi colpo di calore, bimbo di 3 anni trovato morto in auto in Francia Si intensifica l'ondata di caldo intenso dove oggi sono 17 le città da bollino rosso secondo il bollettino delle ondate di calore del Ministero della Salute. Le temperature massime che raggiungeranno i 40 gradi in alcune città come Firenze e Bologna sono destinate a perdurare ancora a lungo con picco atteso nel weekend.
+- **Fanpage.it**: Caldo record, ondata di calore su Italia e Europa: 17 città da bollino rosso, picco oltre 40 gradi nel weekend Continua l'ondata di caldo record: 16 città da bollino rosso in Italia, domani salgono a 17 con 41 gradi attesi a Firenze. Stando al meteo il picco di calore sarà nel weekend. In Francia morto un bambino di 6 anni per annegamento, aumentano a 42 le vittime.
+- **Il Giornale**: Caldo senza tregua, città da bollino rosso Nell'ultima settimana gli interventi di soccorso sono aumentati del 10 per cento
+- **La Stampa**: L’Europa soffoca, in Francia bimbo di 3 anni muore in auto per il caldo. In Spagna 212 morti Colpite soprattutto Francia e Spagna. Caldo estremo anche in Italia: bollino rosso in 17 città. Allerta in Gran Bretagna: temperature mai viste
+- **Il Giornale**: Il caldo estremo miete vittime: in Francia bimbo di tre anni muore in auto, in Spagna oltre 200 decessi. In Italia 16 città da bollino rosso Francia e Spagna sotto la canicola africana con temperature mai registrate prima nel mese di giugno. A Londra annullato un summit per il caldo record, ecco cosa sta succedendo
+- **Il Giornale**: Sos caldo: black out e primi morti. Il piano per cantieri e ospedali Paese nella morsa dell'afa, picco nel weekend. Uffizi in tilt. Vittime a Lodi, Napoli, Teramo, Piacenza e Garlasco. Oggi il tavolo tecnico al ministero
+- **Libero**: Emergenza caldo in Italia e Europa: bollino rosso e vittime per afa 
+- **Il Messaggero**: «Bastano 20 minuti in auto per morire», allerta colpo di calore nei bambini. Sintomi e consigli dei pediatri L'ondata di calore intenso che attraversa periodicamente l'Europa e l'Italia rappresenta un serio pericolo per la salute dei più piccoli. I bambini, specialmente nei primi anni...
+- **Adkronos**: Caldo estremo in Francia, bambino di 3 anni trovato morto in auto Temperature record anche di notte, impennata di attacchi cardiaci a Parigi
+- **Il Messaggero**: Caldo, mappa città più colpite nel weekend: da Roma a Firenze oltre 40 gradi. Ecco quando arriva il picco e i bollini rossi L’Italia si trova sotto l’assedio di un’intensa ondata di calore di origine africana che sta dominando l’intero bacino del Mediterraneo. L’anticiclone, che si prevede...
+- **ANSA**: Europa bollente, 212 morti in Spagna. E Parigi vieta gli alcolici Bimbo di 3 anni muore in auto in Francia. Circolare ministero, attenzione ai grandi eventi
+
+
+## 4. Venezuela, due scosse di terremoto di 7.2 e 7.5: decine di palazzi crollati. 32 morti e 700 feriti
+
+> **Context:** Lo stato più colpito è La Guaira. Operazioni di soccorso in corso tra le macerie. Chiuso l'aeroporto di Maiquetía per gravi danni, allarme tsunami poi rientrato nei Caraibi.
+
+- **La Repubblica**: Terremoto in Venezuela, doppia scossa di magnitudo 7.2 e 7.5: 32 morti e oltre 700 feriti Appello di Maduro dal carcere: “Unità per affrontare il sisma”. Tajani: “Non ci sono vittime tra italiani registrati su Viaggiare Sicuri. Ma comunità italo-venezuelana conta 120 mila persone”. Dichiarato lo stato d’emergenza. Trump: “Usa pronti ad aiutare”
+- **La Stampa**: Il sisma in diretta: così il terremoto ha scatenato il panico in aeroporto Un violento terremoto di magnitudo 7.5 ha colpito il Venezuela il 24 giugno, seminando panico e distruzione tra Caracas e le zone vicine all’epicentro. Secondo lo US Geological Survey, la scossa principale — preceduta da un’altra di magnitudo 7.2 a meno di un minuto di distanza — è stata registrata a circa 16 chilometri da Morón, nello stato di Carabobo, a soli 10 chilometri di profondità. Migliaia di persone sono scese in strada mentre gli edifici oscillavano violentemente. Le immagini diffuse dal politico venezuelano Wilmer Azuaje mostrano i danni all’aeroporto internazionale Simón Bolívar di Maiquetía, dove parti delle strutture sono crollate. Le autorità hanno dichiarato lo stato di emergenza: il bilancio provvisorio parla di almeno 32 morti e centinaia di feriti, ma si teme che il numero possa salire. Per alcune aree dei Caraibi è stata emessa anche un’allerta tsunami, poi revocata.
+- **La Stampa**: Terremoto in Venezuela, le immagini del disastro Il Venezuela è stato colpito da un violento terremoto: due potenti scosse (quasi) gemelle di magnitudo 7.2 e 7.5 a distanza di 39 secondi hanno trafitto il Paese a partire dalle 18.24 ora locale (In Italia 00:24). Si tratta del sisma più potente da oltre un secolo. Diversi gli edifici crollati anche a Caracas dove si scava senza sosta tra le macerie per salvare le persone rimaste intrappolate sotto i calcinacci. Lo stato più colpito è La Guaira nella parte centro-settentrionale del Venezuela a circa 20 km da Caracas.
+- **La Stampa**: Venezuela, due scosse di terremoto di 7.2 e 7.5: decine di palazzi crollati. 32 morti e 700 feriti Lo stato più colpito è La Guaira. Operazioni di soccorso in corso tra le macerie. Chiuso l'aeroporto di Maiquetía per gravi danni, allarme tsunami poi rientrato nei Caraibi.
+- **Il Fatto Quotidiano**: Terremoto in Venezuela, il momento della scossa: crollano macerie dagli edifici, panico in strada Urla di paura e persone in fuga dopo le due scose, di magnitudo 7,2 e 7,5, che hanno colpito il Venezuela intorno alle 18 ora locale del 24 giugno. Le immagini mostrano il crollo di pezzi delle facciate degli edifici, mentre all’aeroporto di Caracas ha ceduto la copertura del soffitto del terminal. Le immagini più […] L'articolo Terremoto in Venezuela, il momento della scossa: crollano macerie dagli edifici, panico in strada proviene da Il Fatto Quotidiano.
+- **Il Fatto Quotidiano**: Terremoto in Venezuela, le immagini dei palazzi crollati dopo le scosse Due scosse di terremoto violentissime, a breve distanza una dall’altra, hanno messo in ginocchio il Venezuela provocando il crollo di centinaia di edifici. I primi numeri parlano di 32 morti e 700 feriti, ma sono destinati a salire. Lo stato più colpito è La Guaira. Secondo l’ambasciatore italiano De Vito al momento non risultano vittime […] L'articolo Terremoto in Venezuela, le immagini dei palazzi crollati dopo le scosse proviene da Il Fatto Quotidiano.
+- **Fanpage.it**: Doppio terremoto in Venezuela oggi, scossa più forte di magnitudo 7.5: “Possibili oltre 10mila vittime”. “Non ci sono vittime italiane” Almeno due violentissime scosse di terremoto - la più forte di 7.5 - hanno colpito il Venezuela, provocando almeno 32 morti e oltre 700 feriti: crolli e incendi soprattutto nello stato di La Guaira e a Caracas, dove l'aeroporto ha sospeso i voli. Secondo stime USGS, le vittime potrebbero essere anche 10mila. Ambasciatore De Vito: "Non risultano vittime italiane"
+- **Fanpage.it**: Terremoto oggi in Venezuela, forti scosse fino a magnitudo 7.5: palazzi crollati e black out, anche a Caracas Due scosse di terremoto con magnitudo 7.2 e 7.5 sono state registrate in Venezuela la sera del 24 luglio (ora locale). Il sisma ha coinvolto anche la capitale, Caracas. Secondo una prima rilevazione è il terremoto più grande che ha colpito il Paese dal 1900. Si registrano molti edifici crollati, in diversi centri abitati. Non è ancora chiaro il numero delle vittime.
+- **Il Giornale**: Violenti scosse di terremoto in Venezuela, la più forte di magnitudo 7.5. "Almeno 32 morti e 700 feriti". Meloni: "In contatto per aiuti". Verifiche sugli italiani coinvolti Due scosse fortissime: la prima di magnitudo 7.2, seguita da un'altra a distanza di 39 secondi ancora più potente. Si teme un disastro di vasta portata: mai un sisma simile negli ultimi 126 anni
+- **Libero**: Venezuela, un doppio terremoto rade al suolo Caracas: immagini apocalittiche Due scosse di terremoto violentissime, a breve distanza una dall'altra, hanno messo in ginocchio il Venezuela provocando il crollo di centinaia di edifici. Panico e disperazione tra la gente che in pochi minuti ha perso tutto, nella capitale Caracas, come in una vasta zona a ovest del Paese. Il bilancio ufficiale, al momento, parla di almeno 32 morti e 700 feriti. "La casa ci stava cadendo addosso, sembrava un film horror", ha raccontato una signora che si è salvata scappando dalla sua abitazione a Caracas, ora ridotta un ammasso di calcinacci. "Il boato è stato terrificante", ha aggiunto una vicina. Sinora nessun bilancio delle vittime, ma si teme una strage. Un sindaco della città di Chacao, una delle più colpite, ha ammesso che ci sono delle vittime, ma senza dare dettagli. Gravemente danneggiato l'aeroporto internazionale che ha sospeso i voli: in tante aree dello scalo il tetto è crollato, con scene di panico tra i passeggeri. In pochi minuti sono saltate le comunicazioni telefoniche, messe sotto pressione dalle chiamate dei milioni di venezuelani che vivono all'estero, ansiosi di avere informazioni dei propri cari. Sospeso anche il rifornimento del gas per motivi di sicurezza. TERRIFYING: NORTHERN VENEZUELA STRUCK BY MASSIVE EARTHQUAKES Scary visuals coming out of Northern Coast City of Venezuela, La Guaria, where 2 earthquakes, 7.2 and 7.5 on Richter scale, have caused massive destruction. Epicenter is said to be in the West of Caracas. Thousands… https://t.co/sS0DQFHJCA pic.twitter.com/YkkD1Un7cT — India Strikes YT (@IndiaStrikes_) June 25, 2026 La gente si è riversata per strada in stato di choc. Solo dopo tre ore dal disastro, la presidente ad interim Delcy Rodriguez, dalla tv pubblica, visibilmente provata, ha parlato alla popolazione, annunciando lo stato di emergenza e lanciando un appello all'unità nazionale: "Dopo le due prime scosse abbiamo avuto 20 repliche. La situazione è grave, molte zone sono state colpite gravemente. Il mio messaggio ora è mantenere l'unione e la calma per salvare vite: tutte le organizzazioni si sono messe al lavoro". Intanto da ore le immagini diffuse in rete avevano già mostrato al mondo gli addetti al soccorso a lavoro per scavare e salvare vite, ma anche tante, tantissime barelle di feriti. Le dimensioni del disastro fanno pensare al peggio: la prima scossa è stata di magnitudo 7.1, la seconda addirittura del 7.5. A rendere le conseguenze di questo terremoto ancora più grave la bassa profondità dell'epicentro, appena 10 chilometri sotto il suolo. E soprattutto le case costruite senza alcuna osservanza delle norme antisismiche. How Caracas, Venezuela is looking look after the earthquake… The full extent of the damages are unknown.https://t.co/pdUdVjkaal — Mario Nawfal (@MarioNawfal) June 24, 2026 La zona più colpita, oltre alla Capitale, quella a ovest di Caracas. In particolare la provincia rurale di Yumarè, un centro di circa 20mila abitanti, che rimane ancora completamente isolato. La rete telefonica non funziona e si comunica solo via WhatsApp, come ha fatto sapere la giornalista locale Patricia Torres all'agenzia Ansa. Si è trattato del terremoto in Venezuela più violento da 126 anni a questa parte, tanto che le scosse si sono sentite sino a oltre 160 chilometri dall'epicentro, ai confini con la Colombia.
+- **L'Unità**: Trema il Venezuela, si teme l’ecatombe dopo due fortissime scosse di terremoto: “Una vera tragedia” Almeno 32 morti e oltre 700 feriti negli ospedali in Venezuela dove la scorsa notte si sono verificate due forti scosse di terremoto. A comunicare i dati la presidente ad interim Delcy Rodriguez. “Lo stato più colpito è La Guaira. Ci sono decine di edifici danneggiati. Là è una vera tragedia. Stiamo ricevendo squadre di […]
+- **Il Fatto Quotidiano**: “Abbiamo perso tutto e temiamo altre scosse. C’è tanta gente sotto le macerie”: le voci dei venezuelani dopo il terremoto Ore drammatiche per il Venezuela. Caracas e diverse regioni sono devastate dallo sciame sismico che ha colpito la costa centrale del Paese, partendo da un terremoto di magnitudo 7,2 e una successiva replica da 7.5. Almeno 20 scosse sono state avvertite nelle ore successive. Per il Paese è il terremoto più forte dell’ultimo secolo. In […] L'articolo “Abbiamo perso tutto e temiamo altre scosse. C’è tanta gente sotto le macerie”: le voci dei venezuelani dopo il terremoto proviene da Il Fatto Quotidiano.
+- **Libero**: Terremoto in Venezuela, paura e crolli all'aeroporto di Caracas Un violentissimo terremoto ha colpito il Venezuela. Due forti scosse, di magnitudo 7.2 e 7.5, hanno devastato ampie aree del Paese provocando il crollo di centinaia di edifici. Oltre 30 morti e oltre 700 feriti ma il numero potrebbe aumentare nelle prossime ore. Gravi i danni anche nella capitale Caracas dove migliaia di persone si sono riversate in strada in stato di shock. Nelle immagini il momento della scossa nell’aeroporto internazionale: sospesi i voli, le comunicazioni telefoniche sono andate in tilt e, per motivi di sicurezza, è stato interrotto il rifornimento di gas.
+- **Adkronos**: Terremoto in Venezuela, il day after: l'elicottero in volo sulle zone colpite La devastazione del terremoto vista dall'elicottero. Le autorità del Venezuela diffondono un video registrato dall'elicottero che sorvola il territorio dello stato di La Guaira, il più colpito dalle due violente scosse di magnitudo 7.2 e 7.5.
+- **La Verità**: Venezuela devastato da un terremoto. Oltre 30.000 dispersi, ansia per gli italiani Si aggrava a ogni minuto il bollettino di morti e feriti del sisma. Il nostro ambasciatore: «Al momento non ci sono connazionali».Una doppia scossa, la prima di magnitudo 7.2 e la seconda di magnitudo 7.5, hanno devastato il Venezuela colpendo il Paese sudamericano a un minuto di distanza l’una dall’altra. Continua a leggere
+
+
+## 5. Alessia Pifferi, definitiva la condanna a 24 anni per aver lasciato morire la figlia di stenti: rigettati i ricorsi presentati da pg e difensore
+
+> **Context:** È definitiva la condanna a 24 anni per Alessia Pifferi, la donna accusata di aver lasciato morire di stenti la figlia di meno di un anno e mezzo, nel luglio del 2022. I giudici della...
+
+- **La Stampa**: Alessia Pifferi, cosa decide oggi la Cassazione La donna è in carcere dal 2020 per la morte della figlia di 18 mesi, abbandonata a casa da sola per giorni: attenderà il verdetto nel carcere di Bergamo. I Supremi giudici dovranno valutare i ricorsi della procura generale di Milano e della sua difesa
+- **Adkronos**: Lasciò morire la figlia di stenti, pg Cassazione chiede appello bis per Alessia Pifferi: "No attenuanti" La piccola Diana morta nel 2022, la bimba di 18 mesi abbandonata sola in casa per sei giorni dalla madre
+- **Il Giornale**: Alessia Pifferi, per la pg della Cassazione il processo d'appello è da rifare. "No alle attenuanti, merita ergastolo" In secondo grado era stato cancellato il carcere a vita e la donna condannata a 24 anni per la morte della figlioletta di 18 mesi, lasciata da sola in casa per giorni e morta di stenti. La pg della Cassazione chiede che si ritorni a processo
+- **ANSA**: Caso Pifferi, definitiva la condanna a 24 anni Lasciò morire di stenti la figlia Diana, di meno di un anno e mezzo, nel luglio 2022
+- **AGI**: Fece morire la figlia di stenti, è definitiva la condanna a 24 anni di Alessia Pifferi E' definitiva la condanna a 24 anni di reclusione di Alessia Pifferi, la donna accusata di omicidio volontario per aver lasciato morire di stenti nel luglio del 2022 la figlia di un anno e mezzo abbandonata a casa per circa una settimana. La Corte di Cassazione ha confermato quanto deciso nel processo di appello. La procura generale della Suprema Corte si è espressa questa mattina sollecitando, sull'onda di quanto chiesto dalla procura generale di Milano, un nuovo giudizio sulle attenuanti generiche riconosciute dalla sentenza di secondo grado e sull'eliminazione della libertà vigilata. In primo grado l'imputata era stata condannata all'ergastolo. Respinto invece il ricorso della difesa della donna, rappresentata dall'avvocato Cristian Scaramozzino, che puntava a "una diversa quantificazione della pena e a una diversa qualificazione giuridica del fatto, ossia la morte in conseguenza di abbandono del minore". Perchè la riduzione di pena? Non una pena esemplare ma calibrata al suo caso. La Corte d'assise d'appello di Milano nel cancellare l'ergastolo in favore di una reclusione a 24 anni di reclusione per Pifferi aveva ricercato "la determinazione di una pena non già "esemplare" a far da monito sinonimo di "pena ingiusta" bensì equamente commisurata; una risposta sanzionatoria che potesse risultare nella sua complessiva entità oltre che non sproporzionata il più possibile "individualizzata ", e dunque calibrata sulla situazione del singolo condannato in attuazione del mandato costituzionale di "personalità" della responsabilità penale affinchè il 'caso-Diana', unico nell'esperienza giudiziaria nazionale, rimanesse per sempre unico, senza per questo ricorrere ad una pena perpetua per la madre responsabile". E' quanto era stato scritto nella motivazione della sentenza del processo di secondo grado a carico. I giudici avevano escluso l'aggravante dei futili e abietti motivi e riconosciuto le circostanze attenuanti generiche equivalenti all'unica aggravante rimasta del rapporto di filiazione. In favore di Pifferi avevano 'pesato' il contesto socio-familiare, in cui è cresciuta e vissuta, "qualche defaillance cognitiva" e "l'asfissiante morbosità mediatica" che ha avuto l'intera vicenda processuale.
+- **L'Unità**: Alessia Pifferi, definitiva la condanna a 24 anni: lasciò morire di stenti la figlia Diana, di 18 mesi, abbandonata in casa È definitiva la condanna a 24 anni di reclusione per Alessia Pifferi accusata di aver lasciato morire di stenti la figlia Diana, di meno di un anno e mezzo, abbandonandola nel suo appartamento di Milano dal 14 al 20 luglio del 2022 e morendo così nella sua culla. È questa la decisione dei giudici della […]
+- **Il Messaggero**: Alessia Pifferi, definitiva la condanna a 24 anni per aver lasciato morire la figlia di stenti: rigettati i ricorsi presentati da pg e difensore È definitiva la condanna a 24 anni per Alessia Pifferi, la donna accusata di aver lasciato morire di stenti la figlia di meno di un anno e mezzo, nel luglio del 2022. I giudici della...
+- **Libero**: Alessia Pifferi, lasciò morire la figlia di stenti: nessun ergastolo, rigettato il ricorso del pg Nessun ergastolo per Alessia Pifferi, la donna accusata di aver lasciato morire di stenti la figlia Diana, di un anno e mezzo, nel luglio 2022, mentre era in vacanza fuori Milano con un uomo. I giudici della prima sezione della Suprema Corte hanno rigettato i ricorsi presentati da pg e difensore, condannando l'imputata a 24 anni di reclusione e confermando dunque la sentenza di secondo grado, nella quale cruciale era stata la concessione delle attenuanti generiche. In primo grado, invece, la 38enne era stata considerata "capace di intendere e volere" nonché responsabile non di un "abbandono di minore" con morte come conseguenza - questa la tesi difensiva - ma di "omicidio volontario" della bambina, lasciata per sei giorni da sola con "due biberon di latte, due bottigliette d’acqua e una di teuccio". L’omicidio, aggravato dal rapporto di filiazione e dai futili motivi, senza attenuanti, aveva fatto scattare l’ergastolo. In Appello, invece, pur concordando sulla non infermità mentale di Pifferi, i giudici avevano recuperato alcuni disturbi mentali per concederle attenuanti generiche equivalenti all’aggravante del rapporto filiale. Questo aveva riportato la pena al massimo possibile per l’omicidio semplice, 24 anni. [[ge:kolumbus:liberoquotidiano:45818534]] Nelle motivazioni della sentenza, la Corte d’Appello aveva fatto riferimento alla decisione della Corte di primo grado di negare le attenuanti alla donna per via del suo comportamento processuale, pieno di falsità e accuse infondate nei confronti di altri. Per i giudici d’Appello, però, Pifferi si era comportata in questo modo come "rielaborazione difensiva solo per sottrarsi al 'giudizio morale' di un cronachismo distorto", e al "cannoneggiamento televisivo". Dunque, per loro, la richiesta della difesa di riconoscerle attenuanti "(anche) per il clamore mediatico sofferto dall’imputata”, che “in sé sarebbe a dir poco singolare e atipica, qui è invece addirittura fondata". Non resta che aspettare la pubblicazione delle motivazioni della sentenza della Cassazione per capire se in terzo grado sia stato considerato anche questo profilo, oppure soltanto quello del disturbo cognitivo di Pifferi. [[ge:kolumbus:liberoquotidiano:44871547]]
+
+
+## 6. Macron-Meloni, vertice ad Antibes: “Francia e Italia partner indispensabili. Coalizione in Libano”
+
+> **Context:** In Costa Azzurra il primo bilaterale tra i due governi
+
+- **Il Sole Ventiquattro Ore**: Oggi Meloni da Macron: sintonia sul Libano, intese su difesa ed energia Ad Antibes il vertice intergovernativo Italia-Francia. Obiettivo: superare i dissidi e sbloccare il Trattato del Quirinale
+- **La Repubblica**: Meloni e Macron, polemiche, sgarbi e baci. Le relazioni pericolose fino al bilaterale di Antibes Quattro anni di tensioni tra i due leader. Oggi il primo vertice intergovernativo tra Roma e Parigi dal 2020
+- **ANSA**: Nel pomeriggio Meloni con 9 ministri ad Antibes per il vertice Italia-Francia Prima la visita al museo Picasso con Macron. Conferenza stampa alle 18
+- **ANSA**: Macron accoglie Meloni ad Antibes e scherza, 'Giorgia quanto tempo...' La premier atterrata a Nizza per il vertice intergovernativo Italia-Francia. Il presidente francese la aspetta al Museo Picasso, presenti i ministri della cultura
+- **Il Giornale**: Al via il vertice Italia-Francia, Macron e Meloni a Villa Eilenroc Il presidente francese Emmanuel Macron accoglie Giorgia Meloni con una battuta, mentre le riserva baci, abbracci e le stringe la mano, sul piazzale antistante il Museo Picasso di Antibes
+- **Governo Italiano - Comunicati Stampa**: Vertice intergovernativo Italia-Francia Il Presidente del Consiglio, Giorgia Meloni, partecipa oggi ad Antibes al Vertice intergovernativo Italia-Francia.
+- **La Repubblica**: Macron-Meloni, vertice ad Antibes: “Francia e Italia partner indispensabili. Coalizione in Libano” In Costa Azzurra il primo bilaterale tra i due governi
+- **La Stampa**: Vertice Meloni-Macron a Cap d’Antibes: “Giornata importante, priorità condivise” Il presidente francese: «Con l’Italia vogliamo un'Europa competitiva e sovrana»
+- **ANSA**: Macron- Meloni: 'Francia e Italia partner naturali e indispensabili' 'Vogliamo proiettare la nostra relazione verso il futuro con obiettivi chiari. Sulla difesa più forza alla collaborazione: sostegno a Ucraina, operazioni di pace, sicurezza comune'
+- **Adkronos**: Vertice Macron-Meloni: "Italia e Francia partner naturali e indispensabili". Lanciata coalizione per il Libano Le parole dei leader alla stampa al termine del summit, la premier: "Senza di noi Europa e Occidente non sarebbero quello che sono". Scambio di accordi da difesa a spazio
+- **Libero**: Meloni: con Macron a volte non d'accordo, ma falso relazioni glaciali 
+- **Libero**: Libano, Meloni: con Francia lanciamo coalizione di sostegno 
+- **Libero**: Vertice Italia-Francia, Macron accoglie Meloni: Giorgia, quanto tempo 
+- **ANSA**: Asse Meloni-Macron: 'Roma e Parigi partner indispensabili' I due ad Antibes, 'mai rapporti glaciali'. E lanciano la coalizione per il Libano
+- **Libero**: Italia-Francia, Meloni: Nostre relazioni vere e durature. Senza noi Occidente non sarebbe lo stesso 
+
+
+## 7. 80 anni Assemblea Costituente, Mattarella: Diede forma a libertà e democrazia degli italiani
+
+- **Il Sole Ventiquattro Ore**: Costituente, la seconda volta (in 11 anni di presidenza) che Sergio Mattarella parla alla Camera In tutto assisteranno dal vivo al discorso del Capo dello Stato circa 700 persone
+- **ANSA**: Cerimonia per gli 80 anni dalla prima seduta dell'Assemblea Costituente Con Mattarella, Meloni, i presidenti del Senato e della Camera
+- **La Repubblica**: Costituente, Mattarella: “Fu rivoluzione pacifica. Fascismo aveva messo a rischio unità d'Italia” Le celebrazioni alla Camera per gli 80 anni dalla prima seduta dell'Assemblea Costituente. Applausi alla citazione di Matteotti e Rosselli, “martiri assassinati dal regime”
+- **La Stampa**: Mattarella celebra l'Assemblea costituente: “Il fascismo aveva messo a rischio l'unità d'Italia” Le celebrazioni per gli 80 anni dalla prima seduta dell'Assemblea Costituente. Applausi alla citazione di Matteotti e Rosselli
+- **ANSA**: Mattarella alla Camera per gli 80 anni della prima seduta dell'Assemblea costituente: "Rendiamo onore ai Padri costituenti" Il presidente cita Matteotti e Rosselli, "martiri assassinati dal fascismo". Lungo applauso in Aula
+- **Il Giornale**: Mattarella celebra gli 80 anni dell'Assemblea costituente, standing ovation bipartisan. Ma i vannacciani non ci sono: "Altri impegni" Il capo dello Stato alla Camera: “Una rivoluzione pacifica”. Il richiamo alla libertà, al suffragio universale e al ruolo delle madri e dei padri della Costituzione
+- **Libero**: 80 anni costituente, Mattarella: Libertà fu pagata da partigiani, militari internati ed ebrei 
+- **Libero**: 80 anni dell'Assemblea Costituente, l'arrivo di Mattarella a Montecitorio 
+- **Libero**: 80 anni Costituente, La Russa: Volontà di dare speranza agli italiani fu più forte delle divisioni 
+- **Libero**: Mattarella: il fascismo mise a rischio l'unità d'Italia 
+- **Libero**: 80 anni della Costituente, Mattarella: "La Repubblica è di tutti" 
+- **Libero**: La Russa: Assemblea Costituente miracolo di lungimiranza politica 
+- **Libero**: Mattarella e Meloni alla cerimonia per 80 anni Assemblea Costituente 
+- **Il Messaggero**: Mattarella celebra l'Assemblea costituente: «La Repubblica è di tutti». Tre minuti di applauso. I vannacciani disertano «La Repubblica è di tutti». Alla Camera si celebrano gli 80 anni dell'Assemblea Costituente e l'aula di Montecitorio tributa un'ovazione a Sergio Mattarella. Tappeti...
+- **Libero**: 80 anni Costituente, Fontana (Camera): Donne portarono contributo essenziale a Repubblica 
+- **Libero**: Mattarella accolto dagli onori militari alla Camera per 80 anni Assemblea Costituente 
+- **Libero**: 80 anni Costituente, Mattarella: Fusione tra idea Risorgimento e Resistenza 
+- **Libero**: Standing ovation per Mattarella alla Camera per 80esimo Assemblea Costituente 
+- **Governo Italiano - Comunicati Stampa**: Cerimonia per gli 80 anni dalla prima seduta dell'Assemblea Costituente Il Presidente del Consiglio, Giorgia Meloni, ha partecipato, presso la Camera dei Deputati, alla cerimonia per gli 80 anni dalla prima seduta dell'Assemblea Costituente.
+- **Libero**: 80 anni Costituente, Lorenzo Fontana: Anteponiamo dialogo a contrapposizione in questi tempi tesi 
+- **Libero**: 80 anni Costituente, stretta di mano tra Mattarella e Meloni dopo discorso Presidente Repubblica 
+- **Libero**: Mattarella "Percorso compiuto dall'Italia repubblicana è motivo di orgoglio" 
+- **Libero**: 80 anni Assemblea Costituente, Mattarella: Diede forma a libertà e democrazia degli italiani 
+- **Libero**: 80 anni Costituente, standing ovation per Mattarella al termine del suo intervento alla Camera 
+- **Libero**: Standing ovation per Mattarella agli 80 anni dell'Assemblea Costituente alla Camera 
+- **Libero**: Mattarella: Madri e Padri Costituenti diedero forma a libertà e democrazia 
+
+
+## 8. Aerei Usa, bufera Italia-Nato
+
+> **Context:** Nato, Rutte: «Dalle basi italiane partiti 500 aerei Usa per i raid in Iran». Crosetto: «Trasmette un messaggio fallace». Le opposizioni insorgono
+
+- **La Stampa**: Aerei Usa, bufera Italia-Nato Nato, Rutte: «Dalle basi italiane partiti 500 aerei Usa per i raid in Iran». Crosetto: «Trasmette un messaggio fallace». Le opposizioni insorgono
+- **La Stampa**: Il giallo delle basi militari americane sul territorio italiano Gli scali statunitensi di Aviano e Sigonella al centro del dibattito politico. Gli Usa sono tenuti a notificare le azioni alle autorità italiane, ma è una sorta di autocertificazione. Grande è la differenza fra operazioni logistiche e belligeranti
+- **La Stampa**: Il giallo dei voli statunitensi Era inevitabile che il velo, prima o poi, cadesse. E Rutte c’è riuscito, mettendo in imbarazzo il ministro della Difesa Crosetto, che gli ha chiesto un’ulteriore precisazione. Ma siccome ...
+- **ANSA**: PRIME PAGINE | "500 aerei Usa decollati dall’Italia", è bufera su Rutte 
+- **Fanpage.it**: L’Italia ha davvero concesso l’uso delle basi militari agli Usa per la guerra in Iran? Le dichiarazioni del segretario generale della Nato Mark Rutte hanno riacceso lo scontro politico sull’utilizzo delle basi americane presenti in Italia durante l’operazione statunitense contro l’Iran. Il governo respinge le accuse e sostiene di aver autorizzato esclusivamente attività logistiche previste dagli accordi internazionali. Ma la vicenda riapre interrogativi sul confine tra supporto tecnico e coinvolgimento in un conflitto.
+- **La Verità**: Rutte: «Aerei Usa decollati dall’Italia per attaccare l’Iran». «No, voli tecnici» Mr Nato parla di 500 partenze e la sinistra urla subito allo scandalo. Ma Crosetto chiarisce: «Attività logistiche conformi ai trattati».È un caso politico, ma con ripercussioni internazionali potenzialmente significative, quello che ha provocato ieri, in Italia, il segretario generale della Nato, Mark Rutte, a seguito di un’intervista da lui rilasciata a Fox News sull’operazione militare in Iran. Continua a leggere
+- **L'Unità**: Aerei americani in basi italiane: come Rutte ha inguaiato Meloni, l’ira della sinistra Rutte, il segretario generale della Nato, ha messo nei guai la premier. Che lo abbia fatto apposta, come pure qualche malfidato sospetta, è improbabile. Quasi certamente si è limitato a non calibrare le parole nell’ansia di dimostrarsi fedele, per non dire ossequioso, a Donald Trump. Ma il guaio c’è lo stesso e l’opposizione non potrebbe […]
+- **Il Manifesto**: Rutte: «In Italia 500 scali verso l’Iran» Il Segretario generale della Nato Mark Rutte ha scatenato una tempesta mediatica dichiarando che «500 aerei statunitensi sono decollati dalle basi americane in Italia per supportare l’operazione Epic Fury» contro […] The post Rutte: «In Italia 500 scali verso l’Iran» first appeared on il manifesto.
+- **Il Manifesto**: Il nuovo «fuoco amico» che imbarazza il governo Dire furiosi è poco: al ministero della Difesa sono letteralmente imbestialiti. Le parole del segretario generale della Nato Rutte sui 500 voli americani partiti dalle basi italiane rischiano di provocare […] The post Il nuovo «fuoco amico» che imbarazza il governo first appeared on il manifesto.
+- **Il Giornale**: "Jet Usa da Roma contro l'Iran". Rutte, la fake e il vertice con Trump Nuovo "siluro" del segretario contro l'Europa: 500 voli partiti dalle basi in Italia. Ma erano azioni logistiche. L'ambasciatore americano Fertitta: "Meloni eccellente"
+
+
+## 9. Sorele ritrovate, la madre, il compagno e il nonno interrogati: «Non le abbiamo sequestrate». Fuori dal carcere, scatta obbligo di dimora
+
+> **Context:** Fermo convalidato e obbligo di dimora a Latina per Valentina D'Acunto, Vincenzo Esposito e Marco D'Acunto, rispettivamente madre, compagno della madre e nonno materno delle due sorelle di...
+
+- **La Stampa**: Sorelle ritrovate, i tre fermati arrivano in tribunale a Sulmona per gli interrogatori Sono arrivati al tribunale di Sulmona Valentina D’Acunto, madre delle due sorelle ritrovate a Formia dopo due settimane di scomparsa, il compagno Vincenzo Esposito e il nonno delle ragazze, Marco D’Acunto. I tre sono stati sottoposti a fermo all’alba di lunedì con l’accusa di sequestro di persona aggravato in concorso.Sono in corso gli interrogatori di garanzia davanti al giudice per le indagini preliminari, chiamato a decidere sulla convalida dei provvedimenti. Le indagini coinvolgono complessivamente quattro persone: oltre ai tre fermati, risulta indagata a piede libero una parente acquisita della madre, che avrebbe ospitato le minori durante il periodo di allontanamento. Per l’udienza, Esposito e il nonno sono stati trasferiti dal carcere di Sulmona, mentre la madre è giunta dal penitenziario di Teramo.
+- **Il Fatto Quotidiano**: Sorelle scomparse in Abruzzo: i tre fermati hanno risposto alle domande della gip. Attesa la convalida A tre giorni dal ritrovamento a Formia delle due sorelline scomparse da una casa famiglia in Abruzzo, si sono conclusi gli interrogatori di garanzia della madre Valentina D’Acunto, di suo padre Marco D’Acunto e del compagno della donna, Vincenzo Esposito. Tutti e tre sono sottoposti a fermo con l’accusa di sequestro di persona aggravato in […] L'articolo Sorelle scomparse in Abruzzo: i tre fermati hanno risposto alle domande della gip. Attesa la convalida proviene da Il Fatto Quotidiano.
+- **Adkronos**: Sorelle ritrovate, per i tre indagati niente più carcere: scatta l'obbligo di dimora La difesa: "Attendiamo motivazioni per eventuale ricorso a Tribunale Riesame"
+- **Fanpage.it**: Sorelle scomparse e ritrovate a Formia: fermi convalidati ma mamma, compagno e nonno lasciano il carcere Per Valentina D'Acunto, Marco D'Acunto e Vincenzo Esposito è stato disposto l'obbligo di dimora in provincia di Latina e di firma 2 volte al giorno. I familiari delle due sorelle portate via dalla comunità in Abruzzo possono uscire dal carcere.Continua a leggere
+- **Il Messaggero**: Sorele ritrovate, la madre, il compagno e il nonno interrogati: «Non le abbiamo sequestrate». Fuori dal carcere, scatta obbligo di dimora Fermo convalidato e obbligo di dimora a Latina per Valentina D'Acunto, Vincenzo Esposito e Marco D'Acunto, rispettivamente madre, compagno della madre e nonno materno delle due sorelle di...
+- **Libero**: Sorelle scomparse, niente carcere ma obbligo di dimora per mamma, nonno e patrigno Fermo convalidato e obbligo di dimora a Latina per Valentina D'Acunto, Vincenzo Esposito e Marco D'Acunto, rispettivamente madre, compagno della madre e nonno materno delle due sorelle di 12 e 16 anni scomparse dalla casa famiglia di Civitella Alfedena, in Abruzzo, lo scorso 6 giugno e ritrovate la scorsa domenica sera nell'abitazione di una lontana parente della madre a Formia. Questo l'esito dell'udienza fiume che si è tenuta questa mattina nell'aula due del tribunale di Sulmona. In giornata ci sono stati gli interrogatori di garanzia di Valentina D'Acunto, del padre e del compagno, sottoposti a fermo con l'accusa di sequestro di persona aggravato in concorso nei confronti delle figlie della donna. Gli interrogatori, iniziati intorno alle 9.30 nel tribunale di Sulmona, si sono svolti davanti al giudice per le indagini preliminari, che al termine si è ritirato in camera di consiglio. Secondo quanto si apprende, tutti e tre hanno risposto alle domande del gip. [[ge:kolumbus:liberoquotidiano:48284038]] I tre saranno ora ricondotti nelle carceri di provenienza - Teramo per Valentina D'Acunto, Sulmona per suo padre, Marco D'Acunto, e per il compagno della donna, Vincenzo Esposito - solo per gli adempimenti burocratici, poi potranno fare rientro nelle rispettive abitazioni. "Restano da verificare ulteriori circostanze per accertare l'eventuale coinvolgimento di altre persone", ha spiegato il procuratore del tribunale di Sulmona, Luciano D'Angelo. La donna ottantenne presso la cui abitazione sono state trovate le minori è indagata per concorso in sequestro di persona. "Valentina D'Acunto ha fornito alcune spiegazioni, ma si tratta di sue convinzioni personali. Il suo obiettivo era tornare ad avere con sé le figlie", ha aggiunto il magistrato. La difesa ha sostenuto che la contestazione corretta fosse quella di sottrazione di minorenni e non di sequestro di persona. Una tesi che il giudice non ha accolto. [[ge:kolumbus:liberoquotidiano:48278032]]
+
+
+## 10. Madre e figlio uccisi a fucilate in Versilia, fermato il padre. Mirko sui social: “Per lui meglio morto che gay”
+
+> **Context:** “Ragazzi, è brutto pensare che un padre ti preferisce morto che gay”. Scriveva così in un post del 2022 sui social Mirko Moriconi, il 24enne ucciso mercoledì insieme alla madre Kathy Andreoni dal padre Pietro Moriconi a Vado, frazione di Camaiore in Versilia. Un duplice omicidio che si è consumato poco dopo le 14 nell’abitazione […]
+
+- **La Repubblica**: Omicidio di Camaiore, Mirko voleva cambiare sesso e l’aveva confidato agli amici Il ragazzo stava pensando alla transizione e questo potrebbe aver acuito le frizioni con il padre
+- **La Stampa**: I tormenti di Mirko, ucciso dal padre a Camaiore: “Per lui sono la rovina della famiglia” Mirko Moriconi raccontava sui social la sua vita e le difficoltà in famiglia. “Ora basta”, avrebbe gridato il padre prima di uccidere lui e la moglie
+- **L'Unità**: Madre e figlio uccisi a fucilate in Versilia, fermato il padre. Mirko sui social: “Per lui meglio morto che gay” “Ragazzi, è brutto pensare che un padre ti preferisce morto che gay”. Scriveva così in un post del 2022 sui social Mirko Moriconi, il 24enne ucciso mercoledì insieme alla madre Kathy Andreoni dal padre Pietro Moriconi a Vado, frazione di Camaiore in Versilia. Un duplice omicidio che si è consumato poco dopo le 14 nell’abitazione […]
+- **Il Messaggero**: «Ci aveva detto che voleva cambiare sesso»: il sogno di Mirko Moriconi. L'odio del padre e la complicità con la mamma (amica) Una violenta tragedia familiare ha sconvolto la Versilia nella giornata di mercoledì 24 giugno 2026. Nella frazione collinare di Pieve di Camaiore, in provincia di Lucca,...
+- **Fanpage.it**: Mamma e figlio uccisi a Camaiore, le liti continue con il padre Piero Moriconi: “Valutava di ucciderli da un po’” Erano legatissimi Mirko e Kety, il 24enne ucciso insieme alla madre da Piero Moriconi a Camaiore. Il ragazzo era stato ricoverato per alcune dipendenze da alcol e droghe dovute alle sue fragilità, ma non aveva mai avuto un buon rapporto con il padre, che non accettava il suo orientamento sessuale. La madre, invece, avrebbe sempre cercato di mediare tra i due.
+- **Libero**: Camaiore, Mirko "voleva cambiare sesso": cosa c'è dietro l'orrore del padre killer "Mi sono liberato di loro". Queste le parole che Piero Moriconi avrebbe detto a parenti e vicini dopo aver ucciso a colpi di fucile la moglie, Kety Andreoni, 52 anni, e il figlio, Mirko Moriconi, 24 anni. Il movente dietro il duplice omicidio, consumatosi ieri, 24 giugno, in Versilia, nella frazione collinare di Pieve di Camaiore, sarebbe da ricercare nell'incapacità dell'uomo di accettare l'omosessualità del figlio che, tra l'altro, secondo il Corriere, aveva confidato agli amici più stretti il desiderio di cambiare sesso. Come emerge dalle indagini, coordinate dalla Procura di Lucca, gli scontri tra Mirko e il padre andavano avanti da tempo: il giovane aveva più volte espresso pubblicamente il forte disagio per la totale mancanza di accettazione da parte del papà. Tra i tanti pensieri pubblicati da Mirko sui social, ad attirare particolarmente l'attenzione è il post del 12 ottobre 2022, in cui il ragazzo scriveva: "Ragazzi, è brutto pensare che un padre ti preferisce morto che gay". L'uomo, 63 anni, è stato arrestato. [[ge:kolumbus:liberoquotidiano:48300525]] Di tutt'altro tipo era invece il rapporto tra Mirko e la madre, Kety Andreoni. Da quanto emerge, la donna era sempre stata dalla parte del figlio, difendendolo dai dissidi familiari e proteggendolo dai frequenti attacchi del padre. "La mia complice di vita, la mia migliore amica, la mia forza. Mia mamma", scriveva il 24enne sui social sotto un selfie insieme alla madre. Inoltre, in occasione della Festa della Mamma, il ragazzo le aveva dedicato una lunga poesia in musica, citando anche i versi di Laura Pausini sulla "meraviglia di essere simili". Proseguono intanto le indagini nella piccola frazione in provincia di Lucca. La casa in cui viveva la famiglia è stata posta sotto sequestro dai carabinieri per effettuare i rilievi tecnico-scientifici necessari a ricostruire l'esatta dinamica del delitto. I residenti della zona hanno confermato agli inquirenti l'esistenza di continue tensioni e dissidi nel nucleo familiare, descrivendo l'omicida come un uomo cupo e lamentoso nell'ultimo periodo. [[ge:kolumbus:liberoquotidiano:48302571]]
+
+
+## 11. Controlli biometrici, allarme negli aeroporti: “Così l’estate rischia il caos”
+
+> **Context:** Fiumicino e Ciampino pronti a sospendere il nuovo sistema europeo per evitare code e disagi. Bruxelles difende l'Entry-Exit System, ma compagnie e gestori chiedono maggiore flessibilità
+
+- **ANSA**: Aeroporti di Roma al Financial Times: "Rischio caos estivo con i controlli biometrici in entrata Ue" L'Ad Troncone: "Molto preoccupati". Possibile sospensione del sistema Ees
+- **Il Giornale**: Controlli biometrici, allarme negli aeroporti: “Così l’estate rischia il caos” Fiumicino e Ciampino pronti a sospendere il nuovo sistema europeo per evitare code e disagi. Bruxelles difende l'Entry-Exit System, ma compagnie e gestori chiedono maggiore flessibilità
+- **Il Messaggero**: Aeroporti Roma al Ft: «Rischio caos estivo con i controlli biometrici in entrata Ue, siamo preoccupati» Gli aeroporti di Roma potrebbero essere costretti a sospendere i controlli biometrici previsti dal nuovo sistema europeo Entry-Exit System (Ees) nel picco del traffico estivo per evitare il caos....
+- **L'Unità**: Controlli biometrici, con l’estate rischio caos negli aeroporti: scontro tra scali e Bruxelles sul sistema EES Da una parte le istituzioni europee, dall’altra i principali scali aeroportuali del Vecchio Continente che temono un caos estivo. È scontro tra le società che gestiscono i più importanti aeroporti europei e la Commissione Ue a poche settimane ormai dal consueto periodo clou degli spostamenti di massa del turismo europeo: al centro della diatriba c’è […]
+- **ANSA**: Il sistema Ees, controlli biometrici e stop ai timbri sui passaporti - SCHEDA Applicato ai cittadini extra-Schengen, pienamente operativo da aprile
+- **Il Fatto Quotidiano**: Aeroporti, rivolta contro la “schedatura Ue”: “Un imbuto per i passeggeri, lo boicottiamo” Disagi e file interminabili. Ma soprattutto passeggeri extraeuropei che perdono il proprio aereo a causa dei nuovi controlli alle frontiere imposti negli aeroporti dell’Unione europea con l’entrata in vigore delle norme dell’Ees (entry-exit system). Questo è quello che sta accadendo nei maggiori scali del Vecchio Continente dopo che la Commissione ha introdotto da due mesi […] L'articolo Aeroporti, rivolta contro la “schedatura Ue”: “Un imbuto per i passeggeri, lo boicottiamo” proviene da Il Fatto Quotidiano.
+- **La Stampa**: Aeroporti, in tilt i controlli biometrici Troncone (Adr): “Procedure incompatibili con i picchi di traffico che dovremo affrontare quest’estate”
+- **ANSA**: Fiumicino lancia l'allarme code, sospendere i controlli biometrici L'ad di Adr: 'Si rischia il caos'. L'Ue: 'Gli Stati attuino le norme, prevista flessibilità'
+
+
+## 12. Da Berlusconi allo sceicco Al Thani, venduta Villa Certosa
+
+> **Context:** La storica residenza del Cav passa alla famiglia reale de Qatar per 350 milioni
+
+- **La Stampa**: Lo sceicco di Villa Certosa La dinastia Al Thani del Qatar compra la residenza di Berlusconi in Sardegna: dalle sette piscine al finto vulcano, è l’ultimo simbolo dell’ex Cavaliere
+- **ANSA**: Da Berlusconi allo sceicco Al Thani, venduta Villa Certosa La storica residenza del Cav passa alla famiglia reale de Qatar per 350 milioni
+- **Il Manifesto**: Tracce di vita smeralda Villa Certosa è Silvio Berlusconi. In tanti sensi la storia della dimora extra lusso in Sardegna che ora la famiglia del Cavaliere ha venduto all’emiro del Qatar Al Thani per […] The post Tracce di vita smeralda first appeared on il manifesto.
+- **Il Giornale**: Villa Certosa passa allo sceicco Al Thani. Quelle estati del Cav con Blair e Putin La famiglia reale acquista la magione per 350 milioni. L'epopea di Berlusconi
+- **Il Sole Ventiquattro Ore**: Chi è Hamad bin Jassim Al Thani, l’acquirente di Villa Certosa Parte della famiglia Al Thani, che governa il Qatar da oltre un secolo e mezzo, HBJ è ricchissimo e una figura di spicco nella politica del suo paese
+
+
+## 13. Ora in Rai senza Sciarelli parte il toto "Chi l'ha visto?"
+
+> **Context:** La conduttrice e la tv di Stato "ragionano sul futuro". In sostanza, si cerca il nuovo conduttore del format
+
+- **La Repubblica**: Sciarelli, dopo 22 anni addio a “Chi l’ha visto?”. La Rai pensa a Fagnani Per la conduttrice storica l’ipotesi di restare con alcuni speciali L’idea per il dopo, con il nodo Belve. In pista Daniele e Costamagna
+- **Adkronos**: Rinaldi e il lapsus in diretta su La7: "Tra pochissimo su 'Chi l'ha visto?'" Il conduttore di 'Ignoto X' sbaglia il nome del suo programma proprio nel giorno in cui si apre il dibattito sulla successione a Federica Sciarelli
+- **Il Giornale**: Ora in Rai senza Sciarelli parte il toto "Chi l'ha visto?" La conduttrice e la tv di Stato "ragionano sul futuro". In sostanza, si cerca il nuovo conduttore del format
+- **Il Messaggero**: "Chi l'ha visto?", chi prenderà il posto di Federica Sciarelli? Da Fagnani a Fialdini, la Rai cerca un'erede. E spunta l'idea Stefano Coletta Succede ormai ogni anno, a fine stagione, ma stavolta sembra (un po' più) vero. Federica Sciarelli, volto e cuore del popolare programma di servizio pubblico di Rai3, Chi l'ha...
+- **Il Fatto Quotidiano**: “Ne parleremo a Chi l’ha visto?”: il clamoroso lapsus di Pino Rinaldi incendia il toto-nomi del dopo Sciarelli Nonostante la concorrenza dei Mondiali e di Temptation Island, Federica Sciarelli saluta il pubblico di Chi l’ha visto? e conferma l’ennesimo successo d’ascolti, in attesa dell’ultima puntata di mercoledì prossimo. Con la nota ufficiale della Rai che sancisce il suo addio dopo ventidue anni, è partito il toto-nomi per la successione in vista della presentazione […] L'articolo “Ne parleremo a Chi l’ha visto?”: il clamoroso lapsus di Pino Rinaldi incendia il toto-nomi del dopo Sciarelli proviene da Il Fatto Quotidiano.
+
+
+## 14. Si blocca treno a Milano sotto il sole, 300 passeggeri senza aria condizionata
+
+> **Context:** Il blocco all'altezza di piazza Sire Raul, vicino alla stazione di Lambrate
+
+- **La Stampa**: Milano, treno bloccato senza aria condizionata e 300 passeggeri a bordo Un treno di Trenord si è bloccato questo pomeriggio all'altezza di piazza Sire Raul, a Milano, vicino alla stazione di Lambrate. A bordo ci sarebbero circa trecento passeggeri, bloccati al ...
+- **Adkronos**: Si blocca treno a Milano sotto il sole, 300 passeggeri senza aria condizionata Il blocco all'altezza di piazza Sire Raul, vicino alla stazione di Lambrate
+- **Il Messaggero**: Milano, treno regionale con 300 passeggeri a bordo «bloccato sotto il sole senza aria condizionata» Caos a Milano. Un treno di Trenord si è bloccato questo pomeriggio all'altezza di piazza Sire Raul, vicino alla stazione di Lambrate. A bordo - a quanto apprende l'Adnkronos - circa...
+- **La Repubblica**: Lambrate, treno bloccato al caldo con 300 passeggeri: trasferiti dopo un’ora su altro convoglio I viaggiatori sono stati soccorsi dal personale del 118, vigili del fuoco e Protezione civile. L’ipotesi del guasto è quella di un cavo aereo tranciato dal pantografo
+- **ANSA**: Treno bloccato a Milano per ore con 200 a bordo senza aria condizionata Passeggeri poi trasferiti su un altro convoglio. Un guasto della linea elettrica
+
+
+## 15. Omicidio di Roberto Guerrino in via Oxilia: fermato un giovane pronto a scappare, ha confessato
+
+> **Context:** E’ un ragazzo di 19 anni: lo scorso 13 giugno a Milano aveva risposto alla richiesta su una app di incontri dell’interprete
+
+- **La Repubblica**: Omicidio di Roberto Guerrino in via Oxilia: fermato un giovane pronto a scappare, ha confessato E’ un ragazzo di 19 anni: lo scorso 13 giugno a Milano aveva risposto alla richiesta su una app di incontri dell’interprete
+- **La Stampa**: Fermato un 19enne per l’omicidio dell’interprete Roberto Guerrino, l’ipotesi della rapina I carabinieri di Milano hanno individuato un ragazzo di origini nordafricane
+- **Il Giornale**: Omicidio interprete a Milano, fermato 19enne marocchino che ha confessato. "L'ho ucciso io" Lo scorso 13 giugno aveva risposto alla richiesta su una app di incontri dell’interprete. Ha raccontato di avere concordato un appuntamento sessuale, poi di essersi bloccato e di averlo colpito. Aveva con sé l'Ipad air rubato
+- **Il Messaggero**: Roberto Guerrino ucciso a Milano, fermato un 19enne: l'interprete era stato trovato morto in casa con ferite alla testa Novità sulla morte di Roberto Guerrino, l'inteprete sessantenne ucciso nel suo appartamento di via Oxilia a Milano lo scorso 13 giugno. I carabinieri avrebbero fermato un...
+- **Libero**: Milano, indagini sulla morte dell'interprete Roberto Guerrino, fermato un 19enne 
+
+
+## 16. «L'uscita di sicurezza era chiusa con una catena». La testimonianza di Sofia, sopravvissuta alla strage di Crans-Montana
+
+> **Context:** A distanza di mesi dalla tragedia di Crans-Montana emerge un nuovo elemento destinato a pesare sull'inchiesta. A raccontarlo è Sofia Donadio, studentessa milanese sopravvissuta...
+
+- **ANSA**: Crans-Montana, una sopravvissuta: 'L'uscita di sicurezza era chiusa con una catena' Lo rivela la giovane sopravvissuta italiana rimasta gravemente ferita a Capodanno
+- **AGI**: Crans-Montana, una superstite racconta: "L'uscita era chiusa con una catena" "L'uscita di emergenza era chiusa con una catena di acciaio, come quelle per le bici, e un lucchetto. Davanti alla porta c'era uno sgabello. Quella porta non e' mai stata toccata da nessuno". Lo ha detto in un incontro coi giornalisti Sofia Donadio, la sedicenne milanese ferita nell'incendio al 'Le Constellation'. "L'uscita e' sempre stata chiusa - ha aggiunto - l'avevo notato anche prima dell'incendio"
+- **Fanpage.it**: Sofia, 16enne sopravvissuta a Crans-Montana, a sei mesi dal rogo rivela: “Uscita sicurezza chiusa con una catena” A rivelarlo è stata Sofia la sedicenne italiana rimasta gravemente ferita nell'incendio del locale Constellation a capodanno che ha causato oltre 40 morti. La mancanza di sicurezza è uno dei punti cardine dell'inchiesta della magistratura elvetica che vede indagati i due coniugi Moretti, proprietari e gestori.Continua a leggere
+- **Il Giornale**: Crans-Montana, la testimonianza dell’italiana ferita: “L’uscita di sicurezza era chiusa con catena e lucchetto” Le parole di Sofia Donadio riaccendendono i dubbi sulla sicurezza del Constellation. A luglio saranno interrogati due dei 14 imputati in relazione all’inchiesta per omicidio colposo, lesioni e incendio colposo
+- **Il Messaggero**: «L'uscita di sicurezza era chiusa con una catena». La testimonianza di Sofia, sopravvissuta alla strage di Crans-Montana A distanza di mesi dalla tragedia di Crans-Montana emerge un nuovo elemento destinato a pesare sull'inchiesta. A raccontarlo è Sofia Donadio, studentessa milanese sopravvissuta...
+
+
+## 17. Trump celebra i 250 anni degli Stati Uniti con un comizio: la festa diventa un evento Maga
+
+> **Context:** Per il “compleanno” dell’America il presidente sostituisce il concerto con un discorso davanti ai sostenitori, tra inni patriottici e balletti. Una celebrazione nata per unire il Paese si trasforma in un nuovo atto di divisione
+
+- **La Repubblica**: Trump celebra i 250 anni degli Stati Uniti con un comizio: la festa diventa un evento Maga Per il “compleanno” dell’America il presidente sostituisce il concerto con un discorso davanti ai sostenitori, tra inni patriottici e balletti. Una celebrazione nata per unire il Paese si trasforma in un nuovo atto di divisione
+- **La Stampa**: Trump celebra i 250 anni degli Stati Uniti con un comizio in stile Maga Il presidente americano non ha perso l’occasione per un momento autocelebrativo. Poi ha parlato della situazione in Medio Oriente, sostenendo che «l'Iran non avrà mai l'atomica»
+- **Il Fatto Quotidiano**: Trump apre le celebrazioni per i 250 anni degli Usa con un comizio in stile Maga: “L’America è tornata” L’inizio con God bless the Usa e la chiusura con il balletto sulle note di “YMCA” e lo slogan Make America Great Again. L’esaltazione del trumpismo, le “vittorie quotidiane” e lo spauracchio comunismo. Più che un discorso da celebrazione ufficiale è stato un comizio elettorale, quello che ieri sera il presidente degli Stati Uniti Donald […] L'articolo Trump apre le celebrazioni per i 250 anni degli Usa con un comizio in stile Maga: “L’America è tornata” proviene da Il Fatto Quotidiano.
+- **Il Giornale**: La festa dell’America diventa un trionfo Maga. Trump lancia la sfida: “Ora il mondo ci rispetta” Il tycoon domina il palco del National Mall: “Eravamo un Paese morto”. Nuovi attacchi ai partner europei, polemiche per la svolta politica delle celebrazioni
+- **Il Messaggero**: Lo show della fidanzata del capo dell'Fbi e la ruota panoramica, comizio di Trump per i 250 anni Usa: «Sconfiggere il comunismo» Donal Trump apre le celebrazioni per i 250 anni degli Stati Uniti con un comizio in pieno stile Maga. La cornice è quella del National Mall di Washington, il parco storico che si estende da...
+- **La Repubblica**: I due volti della bandiera americana Duecentocinquanta anni dopo l’indipendenza degli Stati Uniti, a chi appartengono oggi le stelle e le strisce? A chi si identifica con il presidente o a chi pratica il dissenso? È l’interrogativo di questa festa
+
+
+## 18. Cori e croce celtica, Alemanno è libero e va con Vannacci
+
+> **Context:** L’ex sindaco esce da Rebibbia e cena con il generale: «È lui la speranza dell’Italia, Meloni lo sottovaluta»
+
+- **La Stampa**: Cori e croce celtica, Alemanno è libero e va con Vannacci L’ex sindaco esce da Rebibbia e cena con il generale: «È lui la speranza dell’Italia, Meloni lo sottovaluta»
+- **L'Unità**: Caro Alemanno, spiega a Vannacci cos’è il carcere: nel nome di Abele può diventare Caino Il generale Vannacci ieri ha dichiarato: “Io sto con Abele, Caino deve marcire in galera”. In serata Gianni Alemanno, appena uscito dal carcere, è andato a cena col generale Caro Gianni, appena uscito da Rebibbia, ti affido subito un compito: spiega a Vannacci cos’è il carcere. Parlagli delle gabbie e delle chiavi, che ingoiano e […]
+- **Il Giornale**: "In cella ho scoperto la libertà. Io, Vannacci e la politica..." L'ex sindaco Gianni Alemanno lascia Rebibbia: "È un'esperienza che fa andare all'essenza. Nordio? Vorrei incontrarlo"
+- **La Repubblica**: “Volevo votarti, ma questo è troppo”. L’abbraccio con Alemanno bocciato sui social di Vannacci La festa per un politico di lunghissimo corso condannato e che esce da Rebibbia non convince i potenziali elettori di Futuro nazionale
+
+
+## 19. Caldo estremo: 1,5 milioni di lavoratori a rischio. Cgil e Greenpeace: “Il governo fa troppo poco”
+
+> **Context:** Allarme lanciato per il 25-26-27 giugno. Più esposti cantieri, logistica, rider e manutenzione urbana. Roma, la città con il numero più alto di addetti coinvolti: 428 mila
+
+- **Il Sole Ventiquattro Ore**: Il meteorologo Betti (Cnr): «Con questo caldo rischio nubifragi» Se le ondate di caldo stanno diventando strutturali, allora devono diventarlo anche gli interventi a tutela dei lavoratori. Il riferimento è alla norma portata in Consiglio dei ministri di lunedì,...
+- **Fanpage.it**: Dalle pause a come vestirsi, quali sono i diritti da garantire ai lavoratori durante l’emergenza caldo L'intervista di Fanpage all'avvocato Cristiano Cominotto: "Non esiste, in Italia, una disciplina organica sull’emergenza caldo sui luoghi di lavoro, ma esistono misure di prevenzione per la tutela della loro salute. Ecco quali sono".
+- **Il Fatto Quotidiano**: “Emergenza caldo? 1,5 milioni di lavoratori a rischio nei prossimi tre giorni”. L’appello della Cgil: “Necessarie misure immediate” Muratori, rider, carpentieri, magazzinieri: a rischio, nei prossimi tre giorni, la salute di 1,5 milioni di lavoratori e lavoratrici. È una delle gravi conseguenze dell’ondata di calore anomala – ormai però diventata la nuova normalità – che da una settimana sta colpendo il nostro Paese e gran parte dell’Europa. A certificarlo è l’analisi condotta da […] L'articolo “Emergenza caldo? 1,5 milioni di lavoratori a rischio nei prossimi tre giorni”. L’appello della Cgil: “Necessarie misure immediate” proviene da Il Fatto Quotidiano.
+- **La Repubblica**: Caldo estremo: 1,5 milioni di lavoratori a rischio. Cgil e Greenpeace: “Il governo fa troppo poco” Allarme lanciato per il 25-26-27 giugno. Più esposti cantieri, logistica, rider e manutenzione urbana. Roma, la città con il numero più alto di addetti coinvolti: 428 mila
+
+
+## 20. «Chiara Petrolini lucida e determinata, voleva eliminare il figlio». Le motivazioni della sentenza di condanna a 24 anni
+
+> **Context:** «Pur immatura e fragile» Chiara Petrolini ha agito «con lucidità e determinazione», «tenendo sempre ferma la propria volontà di non far scoprire niente...
+
+- **ANSA**: Giudici: "Chiara Petrolini lucida e determinata, voleva eliminare il figlio" "Ferma volontà di non far scoprire niente finché ha potuto", il bimbo sepolto in giardino
+- **Fanpage.it**: Neonati sepolti a Parma, le motivazioni della sentenza: “Chiara lucida e determinata, voleva eliminare il figlio” Per la Corte d'Assise di Parma Chiara P., la 22enne condannata a 24 anni e 3 mesi per l'omicidio del figlio nato il 7 agosto 2024 e sepolto nel giardino di casa, agì con lucidità e determinazione. "Ferma volontà di partorirlo e poi eliminarlo", scrivono nelle motivazioni della sentenza.
+- **Il Messaggero**: «Chiara Petrolini lucida e determinata, voleva eliminare il figlio». Le motivazioni della sentenza di condanna a 24 anni «Pur immatura e fragile» Chiara Petrolini ha agito «con lucidità e determinazione», «tenendo sempre ferma la propria volontà di non far scoprire niente...
+- **Il Giornale**: Chiara Petrolini, pubblicate le motivazioni della sentenza: “Lucida e determinata, voleva eliminare il figlio” Per i giudici la 23enne era pienamente consapevole della gravidanza e avrebbe pianificato l'omicidio del secondogenito. Esclusa invece la responsabilità per la morte del primo figlio per mancanza di prove sulla nascita in vita
+
+
+
+</clustered_headlines>
+
+
+<other_headlines>
+<article source="AGI" date="Thu, 25 Jun 2026 18:20:44 GMT">
+Crans-Montana, una superstite racconta: "Mostro le ferite per la lotta di noi ragazzi"
+"Ho deciso di incontrare i giornalisti perché le persone devono sapere quanto stiamo lottando tutti quanti noi". Sofia Donadio, 16 anni, studentessa al liceo Virgilio, sopravvissuta al rogo nel 'Le Constellation', ha deciso di mostrarsi al mondo per esporre le ustioni alle braccia, fare ascoltare la sua voce danneggiata dai fumi dell'incendio, spiegare come la sua vita sia "totalmente cambiata". Il suo racconto pero' non è mai al singolare: con lei ci sono gli amici morti, le loro famiglie e i ragazzi che stanno con fatica e devozione alla vita migliorando di giorno in giorno. Oltre alla mamma e al papa', che le siedono accanto nello studio milanese dell'avvocato Fabrizio Ventimiglia, il suo pensiero è alla sorella e al fratello. "Mi dà conforto cercare di dare forza a loro, sono sempre stata una persona a cui piace aiutare gli altri, anche quando non me lo chiedono. Ho sempre avuto le idee chiare sul mio percorso di studi: giurisprudenza o medicina. Adesso, quello che è successo mi ha rafforzato ancora di più su questa strada". La voce è bassa ma determinata e la fragilità del corpo e dell'anima diventano un'energia che illumina i suoi pensieri e chi la ascolta. Un 'segreto' gliel'hanno insegnato al Niguarda dov'è stata trasferita dopo un primo ricovero in Svizzera. "A quello che farà la giustizia ci penso poco, preferisco pensare a come andare avanti. Mi dispiace per le persone che lottano come me e per chi non c'è più, per le vite fantastiche buttate via in un solo minuto. Ho ricominciato a sorridere quando sono uscita dal coma. La prima cosa che mi hanno detto i medici è stata che avrei dovuto ricominciare a sorridere, che non avrei potuto deprimermi. Ho avuto e ho le mie paure, come la paura dell'intervento e delle punture di eparina due volte al giorno. In ospedale mi hanno aiutata tantissimo, facevano il loro lavoro con grande passione e io ho cercato di sorridere fin da subito. Anche con la voce cosi' sentivo di dover dare coraggio ai miei genitori e fratelli". Sofia non nasconde le difficoltà del rientro a casa. "Mi sono sentita sollevata perché avrei potuto dormire nel mio letto e rivedere i miei amici ma è stato difficile. Mi sono ricostruita piano piano la mia vita. All'inizio mi svegliavo e passavo dal divano al letto. Sentivo che avevo bisogno di muovermi. I professori e i compagni mi sono sempre rimasti accanto, una mia compagna, in particolare, veniva sempre a casa mia coi libri per studiare assieme e il preside e il vice mi sono venuti a trovare chiedendomi che orale avrei preferito fare. Gli studenti svizzeri bocciati? Mi chiedo come si possa averli bocciati con un trauma cosi' forte...". Da quando è stata dimessa è stata operata una decina di volte per le ustioni alla testa, alla schiena, alle gambe e alle braccia. "Faccio il laser ogni 45 giorni, la logopedia per la voce, vado dalla psicologa. La mia vita è cambiata totalmente, anche per le cose più piccole che prima riuscivo a fare da sola ora ho sempre bisogno di una mano. Banalmente anche per la doccia, non riesco a farla da sola, non riesco a farla in piedi. Le cicatrici le vedo e poi le sento, è come se ci fosse qualcosa che mi tocca, un fastidio". Ma ci sono gli amici da incoraggiare a distoglierla dai cattivi pensieri. "Quando vado in ospedale a trovarli li esorto a non mollare, a farsi forza a vicenda. Devono sapere che possono ancora vivere e tornare a fare quello che facevano prima. Ci sono ostacoli ma si possono superare. Sento i genitori, i fratelli e le sorelle dei ragazzi che non ci sono più. Mi dà conforto sentirli e io lo do' a loro". "L'uscita di emergenza era chiusa con una catena di acciaio" "L'uscita di emergenza era chiusa con una catena di acciaio, come quelle per le bici, e un lucchetto. Davanti alla porta c'era uno sgabello. Quella porta non è mai stata toccata da nessuno". Sofia Donadio parla anche dei possibili epiloghi dell'indagine svizzera che coinvolge i Moretti e il sindaco Nicola Fe'raud: "Mi sembra folle l'ipotesi che non ci siano delle condanne. Sono arrabbiata, non cerco vendetta ma ho voglia di giustizia perche' questo fatto ha rovinato la vita di tante persone che non se lo meritavano. Non e' giusto che chi ha colpe la passi liscia".
+</article>
+<article source="AGI" date="Thu, 25 Jun 2026 17:11:46 GMT">
+Roma capitale dell’industria: le proposte di Federmanager per filiere, turismo e crescita delle PMI
+Istituire un Board Strategico permanente per coordinare le filiere industriali e il turismo dei grandi eventi, e attivare un Piano di Consolidamento per supportare l'aggregazione e la managerializzazione del tessuto delle PMI laziali. Queste le proposte annunciate dal presidente Antonio Amato durante l’Assemblea Annuale di Federmanager Roma che si è svolta oggi a Roma. Nel suo intervento il Presidente ha posto l'accento sulla necessità di un cambio di passo immediato. "La trasformazione che stiamo attraversando non è una fase congiunturale destinata a riassorbirsi: è un cambiamento strutturale del modello industriale - ha spiegato Amato - in questo scenario di ridefinizione profonda, Roma e il Lazio non sono comprimari, ma attori protagonisti. Il Lazio corre più veloce. E questa velocità non è casuale — è il frutto di scelte coraggiose, investimenti e, soprattutto, di competenze". Per rispondere a questa trasformazione, Amato ha presentato le richieste dell'Associazione. "Chiediamo che Roma venga candidata a sede degli Stati Generali dei principali pilastri industriali nazionali — energia, farmaceutica, costruzioni, ICT — con una cadenza stabile nel tempo. Non un evento celebrativo, ma un luogo permanente di indirizzo e decisione". Per rendere operativa la misura, il Presidente ha invocato "la costituzione di una Task Force mista, un Board Strategico Territoriale, un organo decisionale e di indirizzo, non un semplice tavolo di discussione", a cui affidare anche "il coordinamento di una politica strutturata sul turismo congressuale e sui grandi eventi, che valorizzi quanto il Giubileo ci ha insegnato: che Roma è in grado di attrarre il mondo, e che questa capacità va organizzata e messa a sistema come leva di sviluppo economico permanente". La seconda misura cardine illustrata dal vertice riguarda la dimensione delle aziende locali. "Chiediamo un Piano di Consolidamento Industriale delle Filiere Locali, da attivare con le Organizzazioni di rappresentanza delle imprese, la Regione Lazio e il Ministero delle Imprese e del Made in Italy", ha spiegato il Presidente. "Chiediamo misure concrete per favorire l'aggregazione delle nostre PMI nei distretti chiave — farmaceutico, aerospazio, costruzioni — perché la dimensione è una condizione di sopravvivenza nella competizione globale". I dati presentati da Banca d'Italia durante l’assemblea certificano che nel 2025 il Lazio ha trainato l'economia nazionale crescendo del +0,6%, mentre le proiezioni SVIMEZ stimano un balzo del PIL regionale addirittura del +2%, spinto da costruzioni e manifattura avanzata. Eccellenze rappresentate dalla farmaceutica (oltre il 50% dell'export), dall'aerospazio (5 miliardi di fatturato a Roma) e dall'ICT (14.000 imprese). Il Presidente ha poi invitato a non cullarsi sui successi, ponendo l'accento su capitale umano, flessibilità e welfare aziendale: "Senza questi strumenti perderemo i giovani talenti. Roma non ha bisogno di vecchie scrivanie, ma di hub collaborativi: l'evoluzione dei modelli di lavoro è un fattore critico di competitività". Amato ha quindi concluso con un appello alla cooperazione: "La crescita si costruisce insieme. Il management è l'infrastruttura immateriale su cui poggia il Paese. Alle istituzioni chiediamo semplificazione, velocità decisionale e il pieno coinvolgimento delle migliori competenze nelle scelte strategiche". All'evento è intervenuto il Sindaco di Roma, Roberto Gualtieri, che ha valorizzato la centralità del ruolo manageriale nel piano di rilancio cittadino: “il valore di voi manager è decisivo, siete un interlocutore importantissimo. Del resto, anche il sindaco è un po' manager e i cittadini sono gli azionisti. In questi anni sono stati investiti nella Capitale 14 miliardi di euro tra risorse del Giubileo, PNRR, partnership pubblico-privato e fondi comunali. Dobbiamo dare continuità a questi investimenti e rafforzare l’infrastrutturazione di tutta la città per fare di Roma la vera locomotiva del Paese”. La Vicepresidente della Regione Lazio, Roberta Angelilli, si è espressa favorevolmente sulla proposta di candidare Roma a sede degli Stati Generali dell’Industria: “accettiamo questa sfida”, ha dichiarato. Angelilli ha poi delineato i nodi centrali su cui concentrare l'azione: “Una delle sfide principali riguarda chiaramente gli investimenti. Ma non basta: occorre puntare con decisione sulla semplificazione, perché è necessario ridurre la burocrazia per poter correre, e sull’innovazione a 360 gradi, fondamentale per non perdere competitività. Infine, un pilastro strategico è rappresentato dalle competenze e dalla formazione, asset che voi, con i vostri 10.300 manager nel Lazio, avete da sempre nel DNA”. Hanno partecipato all’evento, Giuseppe Biazzo, Presidente di Unindustria; Valter Quercioli, Presidente Nazionale di Federmanager; Francesca De Sanctis Presidente ANCE ROMA – ACER; Cetti Galante Presidente INTOO CEO Global; Aurelio Regina Vice Presidente di Confindustria per l'Energia e per la Transizione energetica; Alberto Tripi Presidente Almaviva e Special Advisor di Confindustria per l'Intelligenza Artificiale; Lavinia Mennuni, membro della Commissione Bilancio del Senato. L’evento si è concluso con i videomessaggi del Viceministro delle Imprese e del Made in Italy, Valentino Valentini e del Presidente del Consiglio regionale Antonello Aurigemma.
+</article>
+<article source="AGI" date="Thu, 25 Jun 2026 16:46:07 GMT">
+L'Europa nella morsa del caldo. Bollino rosso in 17 città italiane
+L'ondata di caldo che sta investendo l'Italia si avvia verso il suo culmine. L'emergenza è destinata a crescere progressivamente, con un picco previsto non prima di lunedì prossimo. Il bollettino sulle ondate di calore del ministero della Salute, che esamina quotidianamente 27 città campione, traccia un quadro emblematico: oggi sono 17 i centri urbani contrassegnati dal bollino rosso, il livello massimo di allerta, e la quota salirà a 18 nelle giornate di domani e sabato. La mappa del rischio odierna comprende Ancona, Bari, Bologna, Bolzano, Brescia, Firenze, Frosinone, Latina, Milano, Perugia, Pescara, Rieti, Roma, Torino, Venezia, Verona e Viterbo. Nei prossimi due giorni si aggiungerà anche Genova, che oggi si trova in una situazione di bollino arancione. Le temperature massime percepite lasciano poco spazio alle interpretazioni: sono attesi 39 gradi a Firenze, 38 a Latina, 37 a Milano, 36 a Roma e Bolzano, e 35 a Torino e Venezia. Il livello 3 di emergenza non si limita a tutelare i sottogruppi tradizionalmente fragili, ma indica una condizione in grado di produrre effetti negativi sulla salute di persone sane e attive. Risposta istituzionale Il ministero avverte che l'impatto sulla popolazione è direttamente proporzionale alla durata dell'ondata. Le istituzioni stanno rispondendo attraverso il Piano operativo nazionale di previsione e prevenzione, attivo già dal 25 maggio. Sotto la guida di Mara Campitiello e Sergio Iavicoli, la Cabina di regia interistituzionale ha analizzato i dati dal 15 maggio al 22 giugno relativi agli over 65 e ai flussi dei Pronto Soccorso, rilevando che al momento non sussistono picchi critici di mortalità o accesso alle strutture. Monitoraggio sanitario La sorveglianza sanitaria verrà comunque potenziata, introducendo sperimentalmente in alcune grandi città un monitoraggio sugli accessi ai Centri salute mentale territoriali e dedicando una circolare specifica alla gestione dei grandi eventi. Parallelamente, il numero di pubblica utilità 1500 ha registrato circa 300 chiamate nei primi giorni di attivazione, con richieste provenienti da datori di lavoro e da cittadini che domandano chiarimenti su problematiche cardiocircolatorie e tematiche psico-sociali. Situazione locale e criticità Sul fronte locale, l'assessore al Welfare della Lombardia, Guido Bertolaso, ha confermato un incremento del 15-20% delle chiamate d'emergenza e degli accessi ospedalieri nell'ultima settimana, precisando tuttavia che il sistema assistenziale è pronto e la situazione è sotto controllo. I disagi infrastrutturali iniziano però a farsi sentire: a Palermo, il presidente del tribunale Piergiorgio Morosini ha parzialmente sospeso le udienze penali fino al 29 giugno a causa di un guasto agli impianti di condizionamento, garantendo solo i procedimenti urgenti e attivando il lavoro agile. Contesto europeo Il fenomeno non risparmia il resto del continente, dove l'Europa occidentale sta registrando temperature superiori ad alcune aree dell'Africa. L'Istituto meteorologico olandese ha emesso la sua prima allerta rossa per il caldo in gran parte del Paese, con picchi previsti di 40 gradi. Nel Regno Unito è stato registrato il giugno più caldo di sempre con i 36,4 gradi rilevati nel Somerset, superando il primato storico dell'estate 1976 e costringendo il Met Office a estendere l'allerta rossa per Londra. Anche la Svizzera ha infranto i propri record storici risalenti al 1947: a Basilea la colonnina di mercurio ha toccato i 38 gradi e il livello di allerta massimo rimarrà in vigore fino a lunedì.
+</article>
+<article source="AGI" date="Thu, 25 Jun 2026 06:49:24 GMT">
+"Corregge" il caffè dell'amico con le benzodiazepine per rubargli la fede, arrestato
+Un caffè insieme nel pomeriggio era parte di un piano premeditato costato a un uomo di 53 anni la misura cautelare dei domiciliari. I fatti risalgono ai primi giorni di aprile, quando agli agenti del commissariato di Ladispoli era giunta una segnalazione dal Policlinico Gemelli di Roma per sospetto avvelenamento da benzodiazepine. La vittima, un uomo di 62 anni di Ladispoli, nella ricostruzione degli inquirenti, era stata contattata dal suo conoscente mentre si trovava nella sua abitazione per una proposta di due chiacchiere e un caffè. Così è entrato in casa "l'amico", che ha poi approfittato di un momento di distrazione del sessantaduenne per "correggere" il caffè con degli psicofarmaci e farlo addormentare e derubarlo della fede nuziale. Il soccorso della vittima dopo il caffè Solo il giorno successivo, la vittima era stata soccorsa da altri due amici che, non essendo riusciti a raggiungerlo telefonicamente, si erano presentati a casa sua, trovandolo in stato confusionale e in evidente stato di sonnolenza. Accompagnato al pronto soccorso, solo una volta dimesso dall'ospedale l'uomo si è reso conto della sparizione della fede. Le indagini e il recupero dell'anello Le indagini hanno mostrato che l'anello era stato subito ceduto a un compro oro della zona, e subito frammentata per la lavorazione del metallo prezioso. Determinante, ai fini del riconoscimento, è stato il riscontro delle incisioni personalizzate ancora presenti sulle parti dell'anello recuperate. Nel corso della perquisizione domiciliare non è stata, invece, rinvenuta la tazzina dalla quale, secondo la ricostruzione investigativa, sarebbe stata somministrata la sostanza farmacologica. Sul tavolo dell'abitazione c'era però il cappuccio di una siringa, elemento ritenuto compatibile con l'ipotesi che lo psicofarmaco fosse stato somministrato mediante inoculazione all'interno della bevanda. La decisione del gip Il giudice per le indagini preliminari così ha disposto un provvedimento restrittivo per rapina impropria per l'uomo di 53 anni.
+</article>
+<article source="AGI" date="Thu, 25 Jun 2026 04:31:00 GMT">
+Caldo: vademecum per difendere cani, gatti e uccelli da compagnia
+"Garantire l'idratazione dei nostri amici animali, con acqua fresca e pulita è essenziale per permettere loro di affrontare questo periodo di caldo elevato". E' quanto spiega all'AGI Sara Greco Dirigente medico veterinario, UOS Parassitologia e Sierologia, UOC Patologia animale e Sanità pubblica dell'Istituto Zooprofilattico Sperimentale del Lazio e della Toscana (IZSLT). "Il caldo eccessivo - continua Greco - soprattutto se associato un alto tasso di umidità, come quello che stiamo vivendo in questi giorni può essere molto pericoloso per i nostri animali domestici e avere degli effetti importanti perché cani, gatti e uccelli hanno una capacità di dissipare il calore molto diversa dalla nostra". Per i cani rischio del colpo di calore Nei cani il rischio principale, spiega la dottoressa, è il colpo di calore. "A differenza dell'uomo, il cane non suda attraverso la pelle: ha una sudorazione limitata, soprattutto a livello dei cuscinetti plantari ma disperde il calore principalmente attraverso il respiro. Quando le temperature e l'umidità sono elevate - avverte la veterinaria - questo meccanismo può diventare insufficiente, con conseguente aumento della temperatura corporea, disidratazione, alterazioni neurologiche e, nei casi più gravi, danni agli organi interni". I gatti possono essere vulnerabili Anche i gatti possono soffrire il caldo, sebbene spesso siano più abili nel cercare zone fresche e ridurre spontaneamente l'attività fisica. Tuttavia, gatti anziani, obesi o affetti da patologie croniche sono particolarmente vulnerabili e i segnali possono essere più subdoli (respiro a bocca aperta, lieve abbattimento) e viene portato dal veterinario quando il quadro è già avanzato. Quando la temperatura corporea supera i 40-41 C, il colpo di calore diventa un'emergenza veterinaria e richiede un intervento immediato, perché può evolvere rapidamente verso insufficienza multiorgano e morte dell'animale. Attenzione agli uccelli in gabbia Gli uccelli da compagnia, come canarini e pappagalli, sono anch'essi molto sensibili alle alte temperature. In natura possono spostarsi verso aree più favorevoli, mentre in gabbia dipendono completamente dalle condizioni ambientali garantite dal proprietario. Temperature eccessive possono provocare stress termico, disidratazione, difficoltà respiratorie e, nei casi estremi, morte improvvisa". Vademecum per difendere i nostri animali Per difendere i nostri animali bastano poche ma essenziali accortezze: "La prevenzione è fondamentale - spiega Greco - perché il colpo di calore è una condizione che può svilupparsi molto rapidamente ma che, nella maggior parte dei casi, è evitabile con alcune semplici precauzioni. Per cani e gatti è importante garantire sempre acqua fresca e pulita, lasciare gli animali negli ambienti più freschi della casa, evitare l'attività fisica nelle ore più calde della giornata e preferire le passeggiate al mattino presto o in tarda serata, nelle passeggiate prestare particolare attenzione alle superfici molto calde, come asfalto e marciapiedi, che possono causare ustioni ai cuscinetti plantari dei cani. Una regola semplice è appoggiare il dorso della mano sull'asfalto per alcuni secondi: se risulta troppo caldo per noi, lo è anche per loro. Per gli uccelli da compagnia è importante collocare le gabbie in ambienti ventilati, non esposti a correnti d'aria dirette, lontano dalla luce solare diretta e dalle finestre particolarmente esposte al sole, devono avere sempre acqua fresca a disposizione, per molte specie, può essere utile mettere a disposizione una vaschetta per il bagno o nebulizzare leggermente l'ambiente nelle ore più calde". Non lasciare in auto gli animali Un messaggio, poi, essenziale conclude l'esperta è "di non lasciare mai un animale in automobile, neppure per pochi minuti. Anche con i finestrini leggermente aperti, la temperatura all'interno dell'abitacolo può aumentare rapidamente fino a livelli potenzialmente letali. Se noi percepiamo caldo e disagio, per molti animali la situazione può essere ancora più critica. La migliore protezione è semplice: acqua, ombra, ambienti freschi e buon senso".
+</article>
+<article source="AGI" date="Thu, 25 Jun 2026 01:44:00 GMT">
+Nasce il Polo italiano cyber e spazio
+È stato presentato alla Camera dei Deputati, in occasione del convegno dal titolo "Italia nello Spazio, dalla sovranità tecnologica alla crescita del sistema Paese" il Polo Italiano per il Cyber e lo Spazio (PiCS), un'iniziativa strategica che nasce dall'accordo quadro tra la Fondazione AISES-SPES Academy e il CNR. Marco Lisi (Cda ASI e inviato speciale per lo Spazio del MAECI) ha illustrato il nuovo Polo che si propone come "punto di riferimento nazionale per la formazione, la ricerca, l'innovazione e il dialogo tra istituzioni, industria e mondo accademico nei settori della Cybersicurezza e della Space Economy, due settori sempre più centrali per la competitività, la sovranità tecnologica e l'autonomia strategica dell'Italia e dell'Europa". In un contesto internazionale caratterizzato da profonde trasformazioni tecnologiche e geopolitiche e minacce sempre più complesse, PiCS nasce con l'obiettivo di favorire la crescita di competenze avanzate, promuovere la cultura della sicurezza digitale e sostenere lo sviluppo di un ecosistema integrato capace di valorizzare le opportunità offerte dall'economia dello spazio e dalle tecnologie emergenti. L'obiettivo è mettere a sistema le eccellenze esistenti, facilitare il dialogo tra domanda e offerta di innovazione e contribuire così al rafforzamento della sovranità tecnologica italiana ed europea. Crescita della space economy e cyber Si tratta di due settori in forte espansione; il mercato globale della Space Economy dovrebbe raggiungere i 1.000 miliardi di euro nel 2030, con una crescita media annua dell'11% rispetto ai 470 miliardi del 2023; con l'Italia che si posiziona al settimo posto al mondo per investimenti spaziali in rapporto al PIL. Sul fronte cyber, la spesa globale per la Cybersecurity ha invece raggiunto i 213 miliardi di dollari nel 2025, +12% su base annua, mentre il mercato italiano ha toccato i 2,78 miliardi di euro nel 2025, +12% sull'anno precedente, trainato soprattutto dalla P.A. Un ecosistema strategico integrato "La space economy e il cyberspazio non sono domini separati: costituiscono un unico ecosistema strategico nel quale innovazione, sicurezza e crescita economica procedono insieme", dichiara il Prof. Luigi Martino, direttore del Polo Italiano per il Cyber e lo Spazio oltre che docente in Cybersecurity all'Università di Bologna e Firenze. "Le tecnologie dual use rappresentano uno degli strumenti più efficaci per generare valore, accelerare il trasferimento tecnologico e rafforzare l'autonomia strategica nazionale. Il nostro obiettivo è costruire un luogo di incontro stabile tra pubblico e privato, tra ricerca e industria, capace di trasformare le eccellenze italiane in progetti concreti e in nuove opportunità per il Paese e per l'Europa". Sfide e sovranità tecnologica "In un contesto caratterizzato da competizione tecnologica, minacce ibride e crescente dipendenza da piattaforme e servizi extraeuropei, l'Italia è chiamata a rafforzare le proprie capacità strategiche, sviluppando competenze, ricerca e innovazione. Il Polo nasce con l'obiettivo di contribuire a questa sfida, creando un ecosistema permanente di collaborazione tra istituzioni, università e imprese al servizio della sicurezza e della competitività del Paese", afferma Valerio De Luca, Presidente del Polo Italiano per il Cyber e lo Spazio, oltre che Presidente Fondazione AISES e Direttore SPES Academy Carlo Azeglio Ciampi. Dipendenza tecnologica e sicurezza Presidiare in autonomia cyber e spazio non è solo una questione industriale, ma una condizione di sicurezza nazionale ed europea. Gran parte delle tecnologie e dei servizi critici, dal cloud alle soluzioni di cybersicurezza fino ai dati di osservazione satellitare, dipende ancora da fornitori extraeuropei. La sovranità tecnologica è oggi tra le maggiori priorità italiane ed europee ed ha l'obiettivo di ridurre la dipendenza dall'estero, irrobustire le filiere critiche e ricongiungere gli interessi privati con quelli pubblici di resilienza e sicurezza. Fasi operative del progetto Il lavoro del Polo Italiano per il Cyber e lo Spazio si articolerà in tre fasi: raccolta dei bisogni e definizione degli use case (sensemaking & scoping), mappatura delle competenze e composizione di team ibridi tra ricerca e industria (matching), e realizzazione di pilot, di validazioni e deliverable misurabili (execution). Fanno infine parte del nuovo Polo Italiano per il Cyber e lo Spazio numerose istituzioni, atenei e imprese.
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 22:05:12 +0200">
+Mondiali: in campo Curacao - Costa d'Avorio 0-0 e Ecuador - Germania 0-1 DIRETTA e FOTO
+La nazionale caraibica, squadra simpatia del torneo, sogna il miracolo
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 21:53:27 +0200">
+Cold case tra i Longobardi, trovata la prima donna ferita in modo violento
+Forse era una guerriera, oppure la vittima di violenza domestica
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 21:39:49 +0200">
+Terremoto, morto un italo-venezuelano nel crollo di un edificio a La Guaira. Centinaia di vittime e quasi 40 mila dispersi
+Si scava tra le macerie. Parte la macchina della solidarietà, Farnesina monitora gli italiani
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 21:29:47 +0200">
+Terremoto in Venezuela, la scossa ripresa in diretta - I VIDEO
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 20:32:52 +0200">
+La Francia intercetta una petroliera russa al largo della Sicilia
+L'Ue proroga di un anno le sanzioni economiche. Cresce il pressing di Kiev su Mosca
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 19:44:23 +0200">
+Da Fininvest dividendo da 150 milioni per i figli di Berlusconi
+In aumento del 50%. Marina, 'l'Europa ha bisogno di grandi gruppi, questione di sovranità'
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 19:01:26 +0200">
+Il terremoto in Venezuela: 'Siamo in tre', il miracolo dei fratellini estratti vivi
+Li hanno trovati tra i solai crollati di un edificio, il video dei soccorsi diventa virale
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 18:28:42 +0200">
+La ministra svedese al Consiglio Ambiente Ue con in braccio il figlio di pochi mesi: "Felice di non dover scegliere"
+Romina Pourmokhtari a Lussemburgo: "Possiamo partecipare alle riunioni e essere presenti"
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 18:27:03 +0200">
+In Venezuela si scava tra le macerie, La Guaira lo stato più colpito
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 16:44:01 +0200">
+Mattarella alla Camera: "Rendiamo onore ai Padri costituenti". I vannacciani lasciano l'Aula per un flash mob
+Il presidente cita Matteotti e Rosselli, "martiri assassinati dal fascismo". Lungo applauso in Aula
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 16:39:00 +0200">
+In Europa temperature del suolo vicine ai 50 gradi VIDEO
+Lo indicano le rilevazioni dei satelliti europei di Copernicus
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 16:18:51 +0200">
+Col caldo il Grand Tour si fa indoor, in hotel tra cucina d'autore, arte e letteratura
+Affinity Kitchen Alchemy, salotto culturale e gastronomico del The Goethe Hotel a Roma
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 15:49:45 +0200">
+Il Papa riceve gli azzurri del nuoto: 'Sport occasione di crescita spirituale'
+Delegazione di atleti in Vaticano, cuffia e accappatoio personalizzati per il Pontefice
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 11:41:37 +0200">
+Le calze
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 10:38:44 +0200">
+I giovani stanno invecchiando più in fretta delle generazioni precedenti
+L'orologio biologico accelerato potrebbe spiegare l'aumento dei tumori precoci
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 20:06:34 +0200">
+In Italia avanza la robotica, il mercato vale 3,5 miliardi di euro
+PoliMi, il 28% delle aziende la usa. Per 6 su 10 è una risposta al calo di manodopera
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 20:04:55 +0200">
+Venezuela in ginocchio per il terremoto, centinaia di morti e quasi 40 mila dispersi
+Si scava tra le macerie. Parte la macchina della solidarietà, Farnesina monitora gli italiani
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 19:11:02 +0200">
+Mondiali: Iran-Egitto 'pride match', la Fifa dice sì alle bandiere LGBTQ+
+A Seattle è il giorno dell'orgoglio gay, scontro con le due Federazioni
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 17:58:05 +0200">
+Terremoto in Venezuela, si scava tra le macerie - I VIDEO
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 12:30:07 +0200">
+Santuario Pelagos, maxi-area protetta per i cetacei nell'alto Mediterraneo
+Wwf e Istituto Tethys nel progetto che coinvolge 13 enti fra Italia, Francia e Monaco
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 17:26:51 +0200">
+Terremoto in Venezuela, 164 morti, 1000 feriti. 'Oltre 25 mila i dispersi' - LA DIRETTA
+Si scava tra i palazzi crollati. La presidente Delcy Rodriguez dichiara lo stato d'emergenza. Tajani: 'Verifichiamo se ci sono italiani'
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 17:18:02 +0200">
+I segni zodiacali influenzano il successo delle relazioni d’amore?
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 17:09:33 +0200">
+Il caldo colpisce anche cani e gatti, in Francia aumenta la mortalità. Cosa fare
+Il pronto soccorso veterinario: 'Il colpo di calore è fatale in un caso su due"
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 14:14:23 +0200">
+Terremoto in Venezuela, 164 morti, 1000 feriti e oltre 10mila dispersi - LA DIRETTA
+Si scava tra i palazzi crollati. La presidente Delcy Rodriguez dichiara lo stato d'emergenza. Tajani: 'Verifichiamo se ci sono italiani'
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 12:37:23 +0200">
+Terremoto in Venezuela, una testimone italiana: "Scosse fortissime, ancora panico e paura"
+'Molti erano in casa perché era un giorno festivo'
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 10:31:13 +0200">
+Ufficiale Bagnaia all'Aprilia, contratto di 4 anni
+Dopo l'addio alla Ducati l'annuncio: farà coppia tutta italiana con Bezzecchi
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 10:03:39 +0200">
+Pet in fuga, i cani italiani scappano di più
+Report smentisce luoghi comuni, la taglia ad esempio conta molto
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 10:00:50 +0200">
+Le mostre del weekend, da Raffaello e Pontormo a Umberto Eco
+A Palermo gli scatti sul 'Maxiprocesso', a Foligno Guidi e Tancredi
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 09:14:59 +0200">
+Ballare con il Parkinson, a Palazzo Buonaccorsi di Macerata c'è 'Sinfonia del caos'
+La performance dei Dance Well Dancers celebra la danza come aiuto contro la malattia
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 10:30:53 +0200">
+Istat, fatturato dell'industria ad aprile +3,2% anno, servizi +4,2%
+In volume il fatturato annuo dell'industria è in calo (-0,6%)
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 09:58:26 +0200">
+Venezuela sconvolto dal terremoto, scosse oltre magnitudo 7
+Primo bilancio di 32 morti, tragicamente destinato a salire. Dichiarato lo stato d'emergenza
+</article>
+<article source="ANSA" date="Thu, 25 Jun 2026 09:19:56 +0200">
+Perché il cervello ricorda meglio le sorprese
+Scoperta utile per migliorare l'IA
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 21:07:00 +0200">
+Mondiali, Germania-Ecuador 1-1 e Curacao-Costa d'Avorio 0-1- Diretta
+Si chiude il gruppo E nella rassegna iridata
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 20:54:18 +0200">
+"Denunciare fa paura, ma è la cosa giusta": il racconto della 31enne molestata nel bagno di un locale a Milano
+La vittima: “Quello che è successo è stata la goccia che ha fatto traboccare il vaso”
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 20:20:00 +0200">
+Mondiali, Kane libero dalla maledizione. Lo stregone del Ghana: "Non è più nemico"
+L'attaccante inglese è atteso dalla sfida con Panama nella terza giornata
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 20:06:44 +0200">
+Mondiali, Ibrahimovic attacca: "Mbappé e Vinicius dovrebbero giocare nel Camerun"
+Il dirigente del Milan ha commentato la storica qualificazione del Sudafrica ai sedicesimi
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 19:14:42 +0200">
+Genova, auto investe pedoni: 3 feriti
+L'auto avrebbe travolto le vittime, che sarebbero anziani, sul marciapiede
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 19:10:19 +0200">
+Mondiali 2026, Norvegia-Francia: in palio il primato del Gruppo I, Blues avanti a 1,62 su Sisal.it
+Il Mondiale entra sempre più nel vivo e le gare si fanno via via più interessanti. Norvegia – Francia, ad esempio, è il match che assegna il primato del Gruppo I: entrambe a 6 punti e certe della qualificazione, le due squadre andranno a caccia del successo che decreterà chi sarà la regina del girone. La Francia ha il vantaggio della differenza reti, a Mbappè e compagni basterà quindi il pareggio per blindare il primo posto e scegliersi la strada verso il MetLife Stadium di New York per il turno successivo. Per gli esperti di Sisal, la squadra di Deschamps non si accontenterà, la vittoria è infatti a 1,62, mentre il tris di vittorie norvegese sale a 4,50, stessa quota per il pareggio. Quel che è certo è che vedremo in campo due delle squadre con il miglior potenziale offensivo del torneo: 7 gol in due gare per la Norvegia, 6 per la Francia. Ci si aspetta dunque una sfida all’insegna dello spettacolo, con entrambe in rete, a 1,72, e da Over 2,50, a 1,60.
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 18:57:17 +0200">
+Cartabellotta: "Il Ssn fatica ad adattarsi alla rivoluzione digitale"
+Il presidente di Gimbe al festival 'We Make Future' a Bologna, 'investire in alfabetizzazione per ridurre il divario tecnologico"
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 18:44:03 +0200">
+Doncic al Foro Italico, canestri sul Centrale per la stella Nba
+Mezzaroma: "L’evoluzione del Centrale rappresenta un passaggio strategico per il Foro Italico". Nepi: "Il futuro prendere forma"
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 18:27:30 +0200">
+Trump, via libera dalla Corte Suprema: Usa possono respingere migranti prima dell'ingresso
+La sentenza permette ermette agli agenti di confine di respingere migranti prima che possano fisicamente attraversare la frontiera tra Stati Uniti e Messico
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 18:10:00 +0200">
+Sostenibilità, Grandi (Comune Milano): "Transizione ecologica necessaria per benessere e costi"
+‘Fondamentale lavoro di gruppo tra amministratori pubblici, politica, aziende, centri di ricerca e università'
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 17:34:51 +0200">
+Fisco, Cazzato (EY): "Tema beneficiario effettivo merita attenzione a livello giuridico"
+“Il tema del beneficiario effettivo è un tema importante che merita una grande attenzione sia nel quadro giuridico esistente, sia da parte del legislatore. Se vogliamo iniziare dal primo profilo, dal punto di vista dell'approccio delle società italiane che distribuiscono dividendi, bisogna essere molto cauti e molto prudenti nella valutazione della sussistenza, delle condizioni che portano alla distribuzione di dividendi in esenzione d'imposta o con agevolazioni di vario tipo. Di conseguenza bisogna prestare una grande attenzione sull'acquisizione di tutta la documentazione probatoria che in qualche modo giustifica l'operato del sostituto”. Sono le parole di Annalisa Cazzato, EY Tax, in occasione dell’Ey Tax Talk. L’appuntamento, svoltosi a Milano, ha permesso a professionisti e istituzioni di approfondire i principali temi di attualità fiscale, come le novità introdotte dalla riforma fiscale e dalla legge di bilancio, e i più recenti sviluppi in ambito internazionale.
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 17:20:28 +0200">
+Doncic annuncia il primo giocatore del Roma Basket Club, è Nico Mannion
+Il campione Nba a Roma avrà diversi incontri istituzionali
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 14:02:37 +0200">
+Gibelli (Asstra): "Trasporto pubblico fattore decisivo rigenerazione urbana e abilitante vendita case o uffici"
+"È arrivato quindi il momento di provare a immaginare un tipo di trasporto pubblico locale diverso"
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 14:02:35 +0200">
+Judas Priest: "Non esistono più band come la nostra o Black Sabbath"
+Intervista a Richie Faulkner, il chitarrista della formazione britannica, in vista delle quattro date italiane a settembre: "Il nuovo album è quasi pronto, puntiamo a pubblicarlo nel 2027"
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 13:58:29 +0200">
+Nuovo fuori ruolo per Bartolozzi in staff Foti: in Commissione Csm 4 voti a favore e 2 astenuti
+Nelle prossime settimane il caso sarà all’attenzione del plenum
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 13:47:00 +0200">
+Sostenibilità, Romenti (Iulm): "Cultura sostenibilità nostra prerogativa da tempo"
+"Urgente e indispensabile aggiornare i contenuti dei nostri corsi per rispondere alle esigenze di mercato"
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 13:44:38 +0200">
+Harry torna nel Regno Unito: "Carlo costretto a delicato gioco di equilibri con William"
+Harry si è riunito con Carlo lo scorso settembre, per la prima volta dopo 19 mesi
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 13:43:00 +0200">
+Sostenibilità, Maione (Regione Lombardia): "Raccogliamo 50 kg di vetro per abitante all’anno"
+"La comunicazione di qualità è parte integrante dell’infrastruttura della sostenibilità"
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 13:29:15 +0200">
+Compact Tractor, il prototipo italiano di trattore che abbatte incidenti mortali in agricoltura
+Finanziato dall’Inail (con il bando Bric) e sviluppato in stretta sinergia tra l’Università degli Studi della Tuscia (Unitus), l’Università degli Studi di Milano (Unimi) e l’Università Niccolò Cusano (Unicusano)
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 13:14:40 +0200">
+Sanità, i nuovi scenari della salute al centro della formazione per giornalisti
+Webinar 'One health e Open health' promosso da ASviS e Zambon su rapporto tra salute, ambiente e società e il ruolo dell’informazione nel raccontarli
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 11:20:59 +0200">
+Ai, Mentana al Wmf: "Senza un’idea di Paese, rischia di essere subita e non governata"
+Enrico Mentana è tornato sul Mainstage del 'Wmf – We Make Future 2026, Il Più Grande Evento sull’Innovazione: AI Tech e Digital', con un intervento dedicato al rapporto tra comunicazione, politica, democrazia e trasformazioni globali. Al centro della sua analisi, il ruolo degli algoritmi e dei social nella costruzione di ambienti sempre più chiusi e autoreferenziali. Secondo Mentana, il sistema informativo contemporaneo tende a spingere ciascuno verso contenuti, profili e posizioni già affini alle proprie idee, generando una realtà di contrapposizione permanente. In questo scenario, l’avversario non viene ascoltato per comprenderne le ragioni, ma per cercare l’errore e rilanciare l’attacco. Il giornalista ha descritto questa dinamica come uno dei cortocircuiti centrali del presente: un dibattito pubblico sempre più orientato alla polarizzazione, alla ridicolizzazione dell’altro e a forme di bullismo verbale, online e non solo. Una contrapposizione che diventa ancora più evidente proprio in un tempo in cui sono venute meno le grandi ideologie del passato, lasciando spazio a scontri più tattici, occasionali e strumentali.
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 11:14:00 +0200">
+Sostenibilità, progetto 'A Scuola di Acqua-Sete di Futuro' promosso da Sanpellegrino e ScuolAttiva Ets
+Il cambiamento climatico è ormai entrato anche nelle aule scolastiche. Non solo come tema di educazione civica o scientifica, ma come questione che riguarda emozioni, abitudini quotidiane, salute e partecipazione. Per molti insegnanti, parlare di ambiente significa oggi aiutare bambine e bambini a capire cosa sta accadendo intorno a loro, ma anche come reagire senza sentirsi impotenti. È il quadro che emerge dai nuovi dati del progetto 'A Scuola di Acqua – Sete di Futuro', promosso da Sanpellegrino e ScuolAttiva Ets con la supervisione scientifica dell’Università di Pavia. La prima indagine dedicata all’eco-ansia nei bambini , condotta nel 2024 dall’Università di Pavia, nell’ambito del progetto A scuola di Acqua, aveva evidenziato una preoccupazione molto diffusa per il futuro dell’ambiente da parte del 95% degli alunni, accompagnata da segnali di impatto emotivo per il 40% di loro, ma anche da un forte senso di responsabilità (95,6% del campione) e dalla fiducia di poter contribuire al cambiamento (97,2% dei bambini). Con la nuova ricerca condotta durante l’anno scolastico appena concluso, il progetto ha approfondito il punto di vista degli insegnanti grazie ad un corso di formazione accreditato dal Ministero dell’Istruzione e del Merito e attraverso l’esperienza d’uso di un toolkit didattico su natura, sostenibilità, emozioni e cura dell’ambiente sviluppato ad hoc.
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 10:41:43 +0200">
+Secondo giorno World Tech Conference, gli appuntamenti
+Prosegue la World Tech Conference con la seconda giornata dal titolo “La trasformazione in corso – Industria, Scienza, Sistemi Reali”, dedicata all'analisi delle profonde trasformazioni che stanno ridefinendo i modelli industriali, i sistemi produttivi e le infrastrutture strategiche a livello globale. La giornata del 25 giugno riunirà rappresentanti delle istituzioni europee e nazionali, leader industriali, ricercatori e accademici internazionali per discutere il ruolo delle tecnologie emergenti nello sviluppo economico, nella sicurezza e nella competitività dei sistemi Paese.
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 10:27:00 +0200">
+Imprese, Vergani (Kopron): "Dieci anni di crescita, costruite basi solide per futuro"
+"Pronti ad affrontare un mercato sempre più dinamico con professionalità e visione"
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 10:23:21 +0200">
+Roma, circolazione sospesa tra Tiburtina e aeroporto Fiumicino: treni cancellati
+Le cause sono in corso di accertamento. Richiesta attivazione bus dalle stazioni di Roma Termini e Roma Tiburtina
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 10:20:13 +0200">
+Mobilità, Folonari (Aniasa): "Noleggio scelta sempre più diffusa, serve stabilità normativa"
+"Oltre 1,5 milioni di veicoli gestiti, ma troppe norme creano incertezza per il settore"
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 10:11:36 +0200">
+Mobilità, Di Loreto (Bain & Company): "Auto sempre più cara, serve un modello per tornare accessibile"
+'In 15 anni da 5 a 11 stipendi per comprare un’auto, manca una vettura per tutti'
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 10:09:02 +0200">
+Mobilità, Pietrantonio (Unrae): "Auto troppo cara, serve pragmatismo mettendo il consumatore al centro"
+'prezzi in crescita e norme cambiano il mercato, serve più pragmatismo Ue'
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 10:05:13 +0200">
+Mobilità, Bonollo (Anfia): "Servono più auto piccole e neutralità tecnologica"
+'La transizione va resa sostenibile per famiglie, industria e mercato'
+</article>
+<article source="Adkronos" date="Thu, 25 Jun 2026 09:59:00 +0200">
+Corea del Sud fa flop, la domanda al ct: "Vi hanno avvelenato?"
+La stampa cerca spiegazioni dopo la sconfitta con il Sudafrica
+</article>
+<article source="Governo Italiano - Comunicati Stampa" date="Thu, 25 Jun 2026 13:03:26 +0200">
+80° anniversario della Vespa, il Presidente Meloni riceve il Presidente Esecutivo e l’Amministratore delegato del Gruppo Piaggio
+Dopo aver partecipato nell'Aula di Montecitorio alla cerimonia celebrativa della prima seduta dell'Assemblea Costituente e prima di partire per Antibes per il 36° Vertice Intergovernativo tra Italia e Francia, il Presidente del Consiglio, Giorgia Meloni, ha ricevuto brevemente a Palazzo Chigi il Presidente Esecutivo e l’Amministratore delegato del Gruppo Piaggio, Matteo e Michele Colaninno, in occasione dell’80° anniversario del brevetto e dell’inizio della produzione della Vespa. Nella Sala dei Galeoni sono stati esposti tre esemplari storici del 1949, del 1964 e del 1976, oltre ad alcuni mezzi più moderni, di colori diversi, per comporre il Tricolore.
+</article>
+<article source="Governo Italiano - Comunicati Stampa" date="Thu, 25 Jun 2026 09:04:17 +0200">
+Terremoto in Venezuela, nota di Palazzo Chigi
+Nel seguire con profonda apprensione le conseguenze del violento terremoto che ha colpito il Venezuela, il Presidente del Consiglio, Giorgia Meloni, esprime a nome del Governo la più sentita solidarietà e vicinanza alle autorità venezuelane e alla popolazione. La Presidenza del Consiglio è in continuo contatto con il Ministero degli Affari Esteri e la Protezione Civile per attivare tempestivamente ogni canale di aiuto umanitario e di assistenza ai nostri connazionali.
+</article>
+<article source="Il Post" date="Thu, 25 Jun 2026 09:01:13 GMT">
+I parastinchi dei calciatori si sono ristretti
+</article>
+<article source="Il Post" date="Thu, 25 Jun 2026 06:51:34 GMT">
+I prezzi del petrolio sono tornati ai livelli di prima della guerra
+</article>
+<article source="Il Post" date="Thu, 25 Jun 2026 06:45:03 GMT">
+A Camaiore, in provincia di Lucca, una donna e suo figlio sono stati uccisi a colpi di fucile
+</article>
+<article source="Il Post" date="Thu, 25 Jun 2026 06:31:46 GMT">
+Ora c’è un modo più facile per trovare le multe
+</article>
+<article source="Il Post" date="Thu, 25 Jun 2026 06:23:37 GMT">
+In Francia è stato rilevato il primo caso di ebola fuori dall'Africa: è un medico rientrato dalla Repubblica Democratica del Congo
+</article>
+<article source="Il Post" date="Thu, 25 Jun 2026 03:58:09 GMT">
+Almeno 164 persone sono morte a causa di due forti terremoti in Venezuela
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Thu, 25 Jun 2026 17:01:58 GMT">
+Milano, un altro candidato alle (possibili) primarie del centrosinistra: scende in campo Goisis
+Se la politica non decide, i possibili candidati si fanno avanti in autonomia. La storia si ripete a Milano, dove in attesa che i partiti sciolgano le riserve per la...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Thu, 25 Jun 2026 14:07:00 GMT">
+Strage di Viareggio, la Cassazione conferma condanne. L’ex ad Moretti andrà in carcere
+Diventano definitive le condanne per gli imputati nel processo per la strage ferroviaria di Viareggio del 29 giugno 2009, in cui persero la vita 32 persone e oltre...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Thu, 25 Jun 2026 10:59:57 GMT">
+Tutti nodi del voto in primavera, dall’autonomia alle pensioni dei parlamentari
+Ufficialmente Giorgia Meloni manda avanti i suoi (Giovanni Donzelli in primis) a ripetere che il governo arriverà alla fine naturale della legislatura in autunno. Eppure a Palazzo Chigi, crisi internazionali...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Thu, 25 Jun 2026 10:58:00 GMT">
+Fs, Donnarumma lascia. Salvini: nuovo ad tecnico
+Finisce in anticipo l’esperienza di Stefano Donnarumma alla guida di Fs: l’ad nei prossimi giorni «chiuderà i dossier più importanti prima di consegnare le dimissioni». A farlo è...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Thu, 25 Jun 2026 09:56:35 GMT">
+Italiani smart: sei su dieci hanno la firma digitale, è tra le più sicure d’Europa
+Trentatré milioni di certificati attivi, sette miliardi di firme l’anno, 233 marche temporali emesse ogni secondo. Gli italiani hanno adottato la firma digitale più e meglio di quasi tutti i...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Thu, 25 Jun 2026 09:16:43 GMT">
+Decreto Accise, è legge l’obbligo di accettazione della moneta elettronica anche via app e wallet
+Accoglie con favore la notizia Satispay, che da settembre porterà a zero le commissioni per transazioni sotto i dieci euro per «rendere i pagamenti digitali accessibili a tutti»
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Thu, 25 Jun 2026 08:54:10 GMT">
+Bce, solo il 7% delle aziende dell’Eurozona usa l’Ai in modo intensivo
+Nonostante l’adozione dell’intelligenza artificiale sia sempre più diffusa, la maggior parte delle imprese dell’area euro la impiega in modo sporadico o moderato
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Thu, 25 Jun 2026 08:53:00 GMT">
+Basi Usa in Italia, quali sono e quali le funzioni strategiche
+L’Italia ospita alcune delle installazioni logistiche e strategiche più importanti dell’intera scacchiera euro-mediterranea
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Thu, 25 Jun 2026 08:50:42 GMT">
+Antitrust multa Deghi Spa per uso ingannevole di countdown nelle promozioni online
+L’Autorità Garante della Concorrenza e del Mercato ha sanzionato per 2 milioni di euro Deghi Spa per pratica commerciale scorretta. L’Autorità ha accertato che la società, da gennaio 2024 a...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Thu, 25 Jun 2026 06:55:00 GMT">
+In Italia è allarme blackout. A Milano fino a 36 gradi in nidi e materne
+Ondata di afa sull’Italia e sale il rischio blackout elettrico. In alcuni quartieri di Milano e Roma è già accaduto. E il fenomeno, con le temperature che non scenderanno a...
+</article>
+</other_headlines>
