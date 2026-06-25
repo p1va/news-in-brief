@@ -1,36 +1,12 @@
 {
   "date": "2026-06-25",
-  "generated_at": "Thu 25 Jun 15:47",
+  "generated_at": "Thu 25 Jun 18:19",
   "stories": [
     {
       "rank": 1,
-      "title": "Europa rovente, in Francia bimbo di 3 anni trovato morto in auto. Spagna: 212 morti in pochi giorni",
-      "source_count": 9,
-      "article_count": 17,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/caldo-record-francia-previsioni-meteo_2KSadB5lVEaukMQ7HKovgA",
-        "https://www.ilmessaggero.it/italia/caldo_citta_colpite_weekend_quali_sono_mappa_bollini_rossi-9614147.html",
-        "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/06/25/in-europa-temperature-del-suolo-vicine-ai-50-gradi-_8a7054a0-b29a-4d4b-b004-bceb30f54787.html",
-        "https://www.ilgiornale.it/news/attualit/caldo-estremo-miete-vittime-francia-bimbo-tre-anni-muore-2684170.html",
-        "https://www.ilgiornale.it/news/meteo-e-clima/sos-caldo-black-out-e-primi-morti-piano-cantieri-e-ospedali-2684032.html"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Standing ovation per Mattarella alla Camera per 80esimo Assemblea Costituente",
+      "title": "80 anni Assemblea Costituente, Mattarella: Diede forma a libertà e democrazia degli italiani",
       "source_count": 8,
-      "article_count": 18,
+      "article_count": 25,
       "source_domains": [
         "governo.it",
         "liberoquotidiano.it",
@@ -43,17 +19,17 @@
       ],
       "links": [
         "https://www.governo.it/it/articolo/cerimonia-gli-80-anni-dalla-prima-seduta-dellassemblea-costituente/32204",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48313385/80-anni-costituente-fontana-camera-donne-portarono-contributo-essenziale-a-repubblica/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48313328/mattarella-accolto-dagli-onori-militari-alla-camera-per-80-anni-assemblea-costituente/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48311952/80-anni-costituente-mattarella-fusione-tra-idea-risorgimento-e-resistenza/",
-        "https://www.ilmessaggero.it/politica/mattarella_assemblea_costituente_fascismo_vannacci_cosa_e_successo-9613942.html"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48314938/80-anni-costituente-lorenzo-fontana-anteponiamo-dialogo-a-contrapposizione-in-questi-tempi-tesi/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48314224/80-anni-costituente-stretta-di-mano-tra-mattarella-e-meloni-dopo-discorso-presidente-repubblica/",
+        "https://www.liberoquotidiano.it/news/pillole/48313326/mattarella_percorso_compiuto_dall_italia_repubblicana_e_motivo_di_orgoglio_/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48313540/80-anni-assemblea-costituente-mattarella-diede-forma-a-liberta-e-democrazia-degli-italiani/"
       ]
     },
     {
-      "rank": 3,
-      "title": "Due forti scosse in Venezuela, si temono migliaia di vittime",
+      "rank": 2,
+      "title": "Terremoto in Venezuela, si scava tra le macerie - I VIDEO",
       "source_count": 7,
-      "article_count": 19,
+      "article_count": 23,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -64,15 +40,86 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/25/venezuela-in-ginocchio-centinaia-di-morti-e-quasi-40-mila-dispersi_5794b65c-936e-41f6-97bc-50d731019990.html",
+        "https://www.ansa.it/sito/podcast/in_diretta_dal_mondo/2026/06/25/in-venezuela-si-scava-tra-le-macerie-la-guaira-lo-stato-piu-colpito_2741c6b2-927f-428e-9944-d805228e3475.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/25/terremoto-in-venezuela-164-morti-1000-feriti.-oltre-25-mila-i-dispersi-la-diretta_ae85a13c-5cd3-4a91-83c9-91a36a86b5ee.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/25/il-terremoto-in-venezuela-siamo-in-tre-il-miracolo-dei-fratellini-estratti-vivi_94de9a6b-f7eb-405f-9995-2c2589c9c420.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48314606/sisma-venezuela-portavoce-commissione-ue-noi-pronti-a-intervenire-/",
-        "https://www.liberoquotidiano.it/news/tv-news/48312417/due-forti-scosse-in-venezuela-si-temono-migliaia-di-vittime/",
-        "https://www.ansa.it/sito/videogallery/primopiano/2026/06/25/terremoto-in-venezuela-si-scava-tra-le-macerie-i-video_43fa2622-31dd-448c-a8f6-3c7e5d0d5f33.html"
+        "https://www.liberoquotidiano.it/news/tv-news/48316136/la-devastazione-a-la-guaira-oltre-20mila-dispersi-in-venezuela/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/25/il-terremoto-in-venezuela-siamo-in-tre-il-miracolo-dei-fratellini-estratti-vivi_94de9a6b-f7eb-405f-9995-2c2589c9c420.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Europa rovente, in Francia bimbo di 3 anni trovato morto in auto. Spagna: 212 morti in pochi giorni",
+      "source_count": 9,
+      "article_count": 14,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "ansa.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/caldo-record-francia-previsioni-meteo_2KSadB5lVEaukMQ7HKovgA",
+        "https://www.ilmessaggero.it/italia/caldo_citta_colpite_weekend_quali_sono_mappa_bollini_rossi-9614147.html",
+        "https://www.ilgiornale.it/news/attualit/caldo-estremo-miete-vittime-francia-bimbo-tre-anni-muore-2684170.html",
+        "https://www.ilgiornale.it/news/meteo-e-clima/sos-caldo-black-out-e-primi-morti-piano-cantieri-e-ospedali-2684032.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48308831/emergenza-caldo-in-italia-e-europa-bollino-rosso-e-vittime-per-afa/"
       ]
     },
     {
       "rank": 4,
+      "title": "Macron-Meloni, vertice ad Antibes: “Francia e Italia partner indispensabili. Coalizione in Libano”",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "governo.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/25/macron-meloni-francia-e-italia-partner-naturali-e-indispensabili-_ec9cdaf2-0139-43c3-85b1-ea6a610665bc.html",
+        "https://www.repubblica.it/politica/2026/06/25/news/antibes_macron_meloni_vertice_italia_francia-425434129/",
+        "https://www.adnkronos.com/internazionale/esteri/meloni-macron-vertice-francia-conferenza-stampa_2H7UYaBLTJIikTXsi2u8yO",
+        "https://www.liberoquotidiano.it/news/tv-news/48318202/meloni-con-macron-a-volte-non-d-accordo-ma-falso-relazioni-glaciali/",
+        "https://www.liberoquotidiano.it/news/tv-news/48318188/libano-meloni-con-francia-lanciamo-coalizione-di-sostegno/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "“Brutto che un padre ti preferisca morto che gay”: il post social di Mirko, ucciso con la mamma a Camaiore",
+      "source_count": 9,
+      "article_count": 11,
+      "source_domains": [
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "firenze.repubblica.it",
+        "unita.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.fanpage.it/cultura/noemi-ricorda-mirko-moriconi-che-sognava-la-musica-cantavi-le-mie-canzoni-il-tuo-sogno-era-essere-libero/",
+        "https://www.fanpage.it/attualita/mamma-e-figlio-uccisi-a-camaiore-le-liti-continue-con-il-padre-piero-moriconi-valutava-di-ucciderli-da-un-po/",
+        "https://www.ilfattoquotidiano.it/2026/06/25/i-dolori-di-mirko-moriconi-forse-potro-guarire-e-scrivere-canzoni-arcigay-omolesbobitransfobia-e-patriarcato-uccidono/8429889/",
+        "https://www.liberoquotidiano.it/news/italia/48307849/camaiore-mirko-moriconi-gay-voleva-cambiare-sesso-odio-padre-killer/",
+        "https://firenze.repubblica.it/cronaca/2026/06/25/news/omicidio_camaiore_mirko_transizione-425433071/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Venezuela, due scosse di terremoto di 7.2 e 7.5: decine di palazzi crollati. 32 morti e 700 feriti",
       "source_count": 7,
       "article_count": 13,
@@ -94,34 +141,12 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "“Brutto che un padre ti preferisca morto che gay”: il post social di Mirko, ucciso con la mamma a Camaiore",
-      "source_count": 8,
+      "rank": 7,
+      "title": "Fs, incontro Salvini-Donnarumma: l'ad verso le dimissioni",
+      "source_count": 9,
       "article_count": 11,
       "source_domains": [
         "fanpage.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "unita.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/attualita/mamma-e-figlio-uccisi-a-camaiore-le-liti-continue-con-il-padre-piero-moriconi-valutava-di-ucciderli-da-un-po/",
-        "https://www.repubblica.it/commenti/2026/06/25/news/omofobia_a_camaiore_l_odio_che_uccide-425433439/",
-        "https://www.liberoquotidiano.it/news/italia/48307849/camaiore-mirko-moriconi-gay-voleva-cambiare-sesso-odio-padre-killer/",
-        "https://firenze.repubblica.it/cronaca/2026/06/25/news/omicidio_camaiore_mirko_transizione-425433071/",
-        "https://www.unita.it/2026/06/25/madre-figlio-uccisi-versilia/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Fs, incontro Salvini-Donnarumma: l'ad verso le dimissioni",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
         "repubblica.it",
         "unita.it",
         "ansa.it",
@@ -132,41 +157,42 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.fanpage.it/politica/si-dimette-stefano-donnarumma-strisciuglio-nuovo-ad-di-fs-opposizioni-salvini-ha-fallito-come-ministro/",
         "https://www.repubblica.it/economia/2026/06/25/news/donnarumma_salvini_fs_dimissioni_pd_avs-425433764/",
         "https://www.unita.it/2026/06/25/donnarumma-dimissioni-ferrovie-salvini/",
         "https://www.ansa.it/sito/notizie/economia/2026/06/25/mit-nei-prossimi-giorni-donnarumma-rassegnera-le-dimissioni-da-fs_8a8fcfb2-14d8-440d-8d26-f03e2e8670dc.html",
-        "https://www.ilgiornale.it/news/interni/fs-donnarumma-lascia-guida-salvini-ringrazia-strisciuglio-2684199.html",
-        "https://www.laverita.info/ferrovie-donnarumma-dimissioni-strisciuglio-2677102304.html"
+        "https://www.ilgiornale.it/news/interni/fs-donnarumma-lascia-guida-salvini-ringrazia-strisciuglio-2684199.html"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Aerei Usa, bufera Italia-Nato",
       "source_count": 7,
       "article_count": 10,
       "source_domains": [
+        "ilgiornale.it",
         "fanpage.it",
         "ansa.it",
         "laverita.info",
         "unita.it",
         "ilmanifesto.it",
-        "lastampa.it",
-        "news.google.com"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/jet-usa-roma-contro-liran-rutte-fake-e-vertice-trump-2683903.html",
         "https://www.fanpage.it/politica/litalia-ha-davvero-concesso-luso-delle-basi-militari-agli-usa-per-la-guerra-in-iran/",
         "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/06/25/prime-pagine-500-aerei-usa-decollati-dallitalia-e-bufera-su-rutte_2abb1b47-83b3-4b5b-9b80-533bc0ef32cf.html",
         "https://www.laverita.info/rutte-voli-usa-italia-iran-2677095585.html",
-        "https://www.unita.it/2026/06/25/aerei-americani-in-basi-italiane-come-rutte-ha-inguaiato-meloni-lira-della-sinistra/",
-        "https://ilmanifesto.it/rutte-in-italia-500-scali-verso-liran"
+        "https://www.unita.it/2026/06/25/aerei-americani-in-basi-italiane-come-rutte-ha-inguaiato-meloni-lira-della-sinistra/"
       ]
     },
     {
-      "rank": 8,
-      "title": "Lasciò morire la figlia di stenti, pg Cassazione chiede appello bis per Alessia Pifferi: \"No attenuanti\"",
-      "source_count": 7,
-      "article_count": 7,
+      "rank": 9,
+      "title": "Alessia Pifferi, definitiva la condanna a 24 anni per aver lasciato morire la figlia di stenti: rigettati i ricorsi presentati da pg e difensore",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
+        "liberoquotidiano.it",
         "unita.it",
         "ansa.it",
         "ilmessaggero.it",
@@ -176,51 +202,33 @@
         "agi.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/italia/48314628/alessia-pifferi-lascio-morire-figlia-stenti-nessun-ergastolo-rigettato-ricorso-pg/",
         "https://www.unita.it/2026/06/25/alessia-pifferi-condanna-cassazione-figlia-morta-stenti-abbandonata/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/25/la-cassazione-chiede-lappello-bis-per-il-caso-pifferi-non-riconoscere-attenuanti_23fb8347-7521-4136-a1ab-049f7bc8f949.html",
         "https://www.ilmessaggero.it/italia/alessia_pifferi_condanna_24_anni_figlia_morta_stenti-9614035.html",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/alessia-pifferi-pg-cassazione-processo-dappello-rifare-no-2684153.html",
-        "https://www.adnkronos.com/cronaca/alessia-pifferi-processo-morte-diana-pg-cassazione_6B3GWerwFdS7yOat3jNnSO"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Macron accoglie Meloni ad Antibes e scherza, 'Giorgia quanto tempo...'",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "governo.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica-internazionale/vertice-italia-francia-macron-accoglie-meloni-museo-picasso-2684319.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/25/macron-accoglie-meloni-ad-antibes-e-scherza-giorgia-quanto-tempo...-_ec9cdaf2-0139-43c3-85b1-ea6a610665bc.html",
-        "https://www.governo.it/it/articolo/vertice-intergovernativo-italia-francia/32202",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/25/nel-pomeriggio-meloni-con-9-ministri-ad-antibes-per-il-vertice-italia-francia_ec9cdaf2-0139-43c3-85b1-ea6a610665bc.html",
-        "https://www.repubblica.it/politica/2026/06/25/news/macron_meloni_polemiche_bilaterale_antibes-425433066/"
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/alessia-pifferi-pg-cassazione-processo-dappello-rifare-no-2684153.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Trump celebra i 250 anni degli Stati Uniti con un comizio: la festa diventa un evento Maga",
-      "source_count": 5,
-      "article_count": 6,
+      "title": "Strage ferroviaria di Viareggio, condanne definitive: Moretti andrà in carcere",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
-        "repubblica.it",
-        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "ilmessaggero.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.repubblica.it/venerdi/2026/06/25/news/indipendenza_americana_anniversario_bandiera_presidente_storia-425433793/",
-        "https://www.ilfattoquotidiano.it/2026/06/25/trump-250-anni-usa-comizio-maga-notizie/8429574/",
-        "https://www.ilgiornale.it/news/politica-estera/festa-dell-america-diventa-trionfo-maga-trump-lancia-sfida-2684047.html",
-        "https://www.ilmessaggero.it/mondo/trump_festa_250_anni_stati_uniti_fidanzata_capo_fbi_ruota_panoramica_cosa_e_successo-9613586.html",
-        "https://www.lastampa.it/esteri/2026/06/25/news/trump_celebra_i_250_anni_degli_stati_uniti_con_un_comizio_in_stile_maga-15670296/"
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/strage-viareggio-condanne-definitive-lex-ad-fs-e-rfi-moretti-2684461.html",
+        "https://www.ilmessaggero.it/italia/strage_viareggio_moretti_carcere-9614364.html",
+        "https://www.ilfattoquotidiano.it/2026/06/25/strage-di-viareggio-condanne-definitive-moretti-carcere-news-oggi/8430470/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/25/condanne-definitive-per-la-strage-di-viareggio-moretti-andra-in-carcere_0a7d6caa-f698-40e0-8847-e5f05944f439.html",
+        "https://www.adnkronos.com/cronaca/strage-viareggio-cassazione-condanna-moretti-carcere_10lmFuFhw2vokFoXVwSAqQ"
       ]
     }
   ]
