@@ -1,6 +1,6 @@
 {
   "date": "2026-06-26",
-  "generated_at": "Fri 26 Jun 15:30",
+  "generated_at": "Fri 26 Jun 17:58",
   "stories": [
     {
       "rank": 1,
@@ -55,6 +55,53 @@
     },
     {
       "rank": 3,
+      "title": "Volkswagen raddoppia i tagli: 100mila posti e quattro stabilimenti tedeschi a rischio",
+      "source_count": 9,
+      "article_count": 10,
+      "source_domains": [
+        "fanpage.it",
+        "ilgiornale.it",
+        "unita.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/esteri/volkswagen-pronta-a-drastici-tagli-di-personale-100mila-posti-e-4-impianti-a-rischio-chiusura/",
+        "https://www.ilgiornale.it/news/aziende/volkswagen-prepara-maxi-ristrutturazione-fino-100mila-2684965.html",
+        "https://www.unita.it/2026/06/26/volkswagen-tagli-100mila-posti-indiscrezione-automotive/",
+        "https://www.ansa.it/canale_motori/notizie/industria_analisi/2026/06/26/media-vw-intende-tagliare-altri-50.000-posti-di-lavoro_9e9b4faf-8d1e-4a77-9727-2805b22a95bd.html",
+        "https://www.repubblica.it/economia/2026/06/26/news/volkswagen_auto_piano_riduzione_raddoppia_i_tagli_100_mila_addetti_a_rischio-425435694/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Il terremoto piega il Venezuela: il bilancio sale a 235 morti e oltre 4mila feriti. Tra le vittime anche due italiani. Unità di Crisi della Farnesina: \"65mila connazionali nell'area del sisma\"",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "unita.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.unita.it/2026/06/26/terremoto-in-venezuela-dramma-dispersi/",
+        "https://www.fanpage.it/live/terremoto-in-venezuela-news-26-giugno/",
+        "https://www.unita.it/2026/06/26/terremoto-venezuela-bilancio-morti-dispersi/",
+        "https://www.ilfattoquotidiano.it/2026/06/26/terremoto-venezuela-morti-feriti-notizie/8430752/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/terremomoto-piega-venezuale-bilancio-sale-235-morti-e-oltre-2684622.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Trenitalia, attacco hacker: furto di dati personali dei passeggeri. «Violati cellulari e mail, ma non le carte di credito»",
       "source_count": 8,
       "article_count": 10,
@@ -77,73 +124,52 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Sisma in Venezuela, almeno 235 morti. Si cercano migliaia di dispersi",
-      "source_count": 6,
+      "rank": 6,
+      "title": "Terremoto Venezuela, la moglie del calciatore Hector Bello morta nel tentativo di salvare la figlia",
+      "source_count": 7,
       "article_count": 11,
       "source_domains": [
+        "adnkronos.com",
         "ansa.it",
-        "fanpage.it",
         "ilgiornale.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/26/in-venezuela-589-vittime-e-oltre-50mila-mila-dispersi.-tajani-tre-gli_0d8eea66-5af0-46f6-8694-51bd3ffc46e4.html",
-        "https://www.ansa.it/sito/notizie/flash/2026/06/26/tajani-sono-3-gli-italo-venezuelani-morti-5-feriti-e-35-dispersi_2654a7e9-5a6c-4c22-9901-5a2a0f8e365e.html",
-        "https://www.fanpage.it/live/terremoto-in-venezuela-news-26-giugno/",
-        "https://www.ilgiornale.it/news/politica/italo-venezuelano-morto-guaira-comunit-ansia-2684528.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/26/oltre-50-mila-persone-disperse-in-venezuela_0d8eea66-5af0-46f6-8694-51bd3ffc46e4.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Carlo lascia Buckingham Palace, non sarà più la residenza dei reali",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
         "fanpage.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
         "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/esteri/quanto-pagano-di-tasse-re-carlo-e-il-principe-william-50-milioni-di-sterline-da-quando-il-sovrano-e-salito-al-trono/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/26/polemica-nel-regno-unito-per-lannuncio-re-carlo-che-non-vivra_231e47f0-bdb9-4db6-a8f9-1ba91ae2960f.html",
-        "https://www.liberoquotidiano.it/news/esteri/48325642/re-carlo-lascia-buckingham-palace-fine-era-dove-va-a-vivere/",
-        "https://www.ilmessaggero.it/schede/re_carlo_non_vive_a_buckingham_palace_perche_ristrutturazione_polemiche_oggi-9615905.html",
-        "https://www.ilgiornale.it/news/personaggi/re-carlo-decisione-storica-buckingham-palace-non-sar-pi-sua-2684701.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Volkswagen raddoppia i tagli: 100mila posti e quattro stabilimenti tedeschi a rischio",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "unita.it",
-        "ansa.it",
         "repubblica.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.unita.it/2026/06/26/volkswagen-tagli-100mila-posti-indiscrezione-automotive/",
-        "https://www.ansa.it/canale_motori/notizie/industria_analisi/2026/06/26/media-vw-intende-tagliare-altri-50.000-posti-di-lavoro_9e9b4faf-8d1e-4a77-9727-2805b22a95bd.html",
-        "https://www.repubblica.it/economia/2026/06/26/news/volkswagen_auto_piano_riduzione_raddoppia_i_tagli_100_mila_addetti_a_rischio-425435694/",
-        "https://www.ilmessaggero.it/mondo/volkswagen_licenziamenti_100mila_crisi_cosa_succede-9616109.html",
-        "https://www.ilfattoquotidiano.it/2026/06/26/volkswagen-verso-la-ristrutturazione-la-stampa-tedesca-a-rischio-4-fabbriche-e-100mila-posti-di-lavoro/8430997/"
+        "https://www.adnkronos.com/sport/terremoto-venezuela-moglie-calciatore-morta-salvare-figlia_1pPeQFBrRNJS1p4D3m4q86",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/26/terremoto-in-venezuela-la-vittima-italo-venezuelana-ha-salvato-la-moglie_a32c66ed-1346-43a2-9871-8e9eac4e75ef.html",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/origine-siciliana-55-anni-figlio-firenze-chi-giuseppe-2684932.html",
+        "https://www.fanpage.it/sport/calcio/la-moglie-di-hector-bello-estratta-morta-dalla-macerie-del-terremoto-ha-protetto-la-figlia-col-suo-corpo/",
+        "https://www.lastampa.it/esteri/2026/06/26/news/giuseppe_colaianni_morto_italiano_venezuela_terremoto-15672196/"
       ]
     },
     {
       "rank": 7,
+      "title": "Carlo lascia Buckingham Palace, non sarà più la residenza dei reali",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/26/-e-bufera-sulladdio-di-carlo-e-camilla-a-buckingham-palace-_231e47f0-bdb9-4db6-a8f9-1ba91ae2960f.html",
+        "https://www.fanpage.it/esteri/quanto-pagano-di-tasse-re-carlo-e-il-principe-william-50-milioni-di-sterline-da-quando-il-sovrano-e-salito-al-trono/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/26/polemica-nel-regno-unito-per-lannuncio-re-carlo-che-non-vivra_231e47f0-bdb9-4db6-a8f9-1ba91ae2960f.html",
+        "https://www.liberoquotidiano.it/news/esteri/48325642/re-carlo-lascia-buckingham-palace-fine-era-dove-va-a-vivere/",
+        "https://www.ilmessaggero.it/schede/re_carlo_non_vive_a_buckingham_palace_perche_ristrutturazione_polemiche_oggi-9615905.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Asse Meloni-Macron: 'Roma e Parigi partner indispensabili'",
       "source_count": 7,
       "article_count": 8,
@@ -152,30 +178,49 @@
         "laverita.info",
         "unita.it",
         "repubblica.it",
+        "ilmessaggero.it",
         "lastampa.it",
-        "ansa.it",
-        "liberoquotidiano.it"
+        "ansa.it"
       ],
       "links": [
         "https://www.ilgiornale.it/news/politica/ritorna-lasse-meloni-macron-indispensabili-loccidente-2684516.html",
         "https://www.laverita.info/meloni-macron-vertice-antibes-2677108227.html",
         "https://www.unita.it/2026/06/26/meloni-tra-le-braccia-di-macron-per-dimenticare-trump-ricucire-con-parigi-per-strappare-flessibilita-in-europa/",
         "https://www.repubblica.it/politica/2026/06/26/news/macron_meloni_vertice_antibes_le_pen-425434535/",
-        "https://www.lastampa.it/esteri/2026/06/26/news/meloni-macron_l_asse_ritrovato-15671362/"
+        "https://www.ilmessaggero.it/politica/meloni_macron_accordi_italia_francia_libano_cosa_cambia-9614552.html"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Terremoti in Venezuela, il mondo si mobilita. Trump: li aiuteremo",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/esteri/2026/06/26/news/dottrina_donroe_trump_terremoto_venezuela_america_latina-425435835/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48325929/trump-aiuteremo-il-venezuela-dopo-il-tremendo-terremoto/",
+        "https://www.liberoquotidiano.it/news/libero-video/48323912/terremoto-in-venezuela-i-soccorritori-continuano-a-scavare-tra-le-macerie/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/06/26/neonato-estratto-vivo-dalle-macerie-a-la-guaira-il-video-del-salvataggio_b7ade088-d63d-4938-8f16-0ed2f128109e.html",
+        "https://www.ilmessaggero.it/mondo/venezuela_aiuti_usa_cuba_iran_insieme-9615861.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "L’Iran accusa l’Italia: “Complici della guerra”. Ma adesso Rutte frena",
-      "source_count": 6,
-      "article_count": 8,
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
         "fanpage.it",
         "unita.it",
         "repubblica.it",
-        "lastampa.it",
-        "liberoquotidiano.it"
+        "lastampa.it"
       ],
       "links": [
         "https://www.ilgiornale.it/news/politica/nato-liran-minaccia-litalia-rischia-missione-hormuz-2684519.html",
@@ -183,47 +228,6 @@
         "https://www.unita.it/2026/06/26/caso-rutte-un-nuovo-guaio-per-litalia-teheran-accusa-il-governo-meloni-complice-degli-usa/",
         "https://www.repubblica.it/esteri/2026/06/26/news/iran_accusa_italia_complici_guerra_rutte-425434642/",
         "https://www.repubblica.it/politica/2026/06/26/news/meloni_guerra_iran_rutte_attacco_navi-425434630/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Il terremoto piega il Venezuela: il bilancio sale a 235 morti e oltre 4mila feriti. Tra le vittime anche due italiani. Unità di Crisi della Farnesina: \"65mila connazionali nell'area del sisma\"",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "unita.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "laverita.info"
-      ],
-      "links": [
-        "https://www.unita.it/2026/06/26/terremoto-in-venezuela-dramma-dispersi/",
-        "https://www.unita.it/2026/06/26/terremoto-venezuela-bilancio-morti-dispersi/",
-        "https://www.ilfattoquotidiano.it/2026/06/26/terremoto-venezuela-morti-feriti-notizie/8430752/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/terremomoto-piega-venezuale-bilancio-sale-235-morti-e-oltre-2684622.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/forti-scosse-terremoto-venezuela-pi-forte-75-mori-e-feriti-2683947.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Tragedia sulla statale 89 tra Foggia e Manfredonia: morti tre giovani. Si ipotizza un colpo di sonno",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "fanpage.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "unita.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/incidente_foggia_morti_famiglia_narcisio_mammolino_piscitelli-9616143.html",
-        "https://www.fanpage.it/attualita/auto-esce-fuori-strada-e-si-ribalta-sulla-statale-89-tra-foggia-e-manfredonia-morti-due-uomini-e-una-donna/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/26/auto-fuori-strada-nel-foggiano-tre-morti_197b4721-946a-4150-85d7-86d527b392cb.html",
-        "https://www.ilgiornale.it/news/nazionale/tragedia-sulla-statale-89-foggia-e-manfredonia-morti-tre-2684710.html",
-        "https://www.unita.it/2026/06/26/auto-fuori-strada-morti-tre-giovani-incidente-foggia-manfredonia/"
       ]
     }
   ]
