@@ -1,17 +1,16 @@
 {
   "date": "2026-06-26",
-  "generated_at": "Fri 26 Jun 12:19",
+  "generated_at": "Fri 26 Jun 15:30",
   "stories": [
     {
       "rank": 1,
       "title": "Strage ferroviaria di Viareggio, condanne definitive: Moretti si è costituito in carcere ieri sera",
-      "source_count": 12,
-      "article_count": 17,
+      "source_count": 11,
+      "article_count": 14,
       "source_domains": [
         "unita.it",
         "ilgiornale.it",
         "ilmessaggero.it",
-        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
         "ansa.it",
@@ -19,40 +18,18 @@
         "lastampa.it",
         "laverita.info",
         "fanpage.it",
-        "agi.it"
+        "news.google.com"
       ],
       "links": [
         "https://www.unita.it/2026/06/26/strage-viareggio-moretti-costituito-in-carcere-condanna-cassazione/",
         "https://www.ilgiornale.it/news/politica/strage-viareggio-moretti-carcere-2684524.html",
         "https://www.ilmessaggero.it/italia/moretti_carcere_oggi_strage_viareggio-9615984.html",
-        "https://www.liberoquotidiano.it/news/italia/48325618/strage-viareggio-moretti-si-costituisce-carcere-dopo-condanna-definitiva/",
-        "https://www.ilfattoquotidiano.it/2026/06/26/strage-viareggio-moretti-costituisce-carcere-oggi/8430920/"
+        "https://www.ilfattoquotidiano.it/2026/06/26/strage-viareggio-moretti-costituisce-carcere-oggi/8430920/",
+        "https://www.repubblica.it/cronaca/2026/06/26/news/strage_viareggio_moretti_costituito_carcere-425435249/"
       ]
     },
     {
       "rank": 2,
-      "title": "Sisma in Venezuela, almeno 235 morti. Si cercano migliaia di dispersi",
-      "source_count": 7,
-      "article_count": 15,
-      "source_domains": [
-        "fanpage.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/live/terremoto-in-venezuela-news-26-giugno/",
-        "https://www.ilgiornale.it/news/politica/italo-venezuelano-morto-guaira-comunit-ansia-2684528.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48325929/trump-aiuteremo-il-venezuela-dopo-il-tremendo-terremoto/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/26/oltre-50-mila-persone-disperse-in-venezuela_0d8eea66-5af0-46f6-8694-51bd3ffc46e4.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48323912/terremoto-in-venezuela-i-soccorritori-continuano-a-scavare-tra-le-macerie/"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Amadeus lascia Warner Bros. Discovery, l'annuncio: \"Risoluzione consensuale\"",
       "source_count": 10,
       "article_count": 10,
@@ -77,26 +54,47 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Asse Meloni-Macron: 'Roma e Parigi partner indispensabili'",
+      "rank": 3,
+      "title": "Trenitalia, attacco hacker: furto di dati personali dei passeggeri. «Violati cellulari e mail, ma non le carte di credito»",
       "source_count": 8,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
         "ilgiornale.it",
-        "laverita.info",
         "unita.it",
         "repubblica.it",
-        "lastampa.it",
         "ansa.it",
-        "liberoquotidiano.it",
-        "governo.it"
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/ritorna-lasse-meloni-macron-indispensabili-loccidente-2684516.html",
-        "https://www.laverita.info/meloni-macron-vertice-antibes-2677108227.html",
-        "https://www.unita.it/2026/06/26/meloni-tra-le-braccia-di-macron-per-dimenticare-trump-ricucire-con-parigi-per-strappare-flessibilita-in-europa/",
-        "https://www.repubblica.it/politica/2026/06/26/news/macron_meloni_vertice_antibes_le_pen-425434535/",
-        "https://www.lastampa.it/esteri/2026/06/26/news/meloni-macron_l_asse_ritrovato-15671362/"
+        "https://www.ilgiornale.it/news/nazionale/hacker-attaccano-i-sistemi-trenitalia-quali-dati-sono-stati-2684878.html",
+        "https://www.unita.it/2026/06/26/attacco-hacker-trenitalia-violati-dati-personali-passeggeri/",
+        "https://www.repubblica.it/cronaca/2026/06/26/news/attacco_hacker_trenitalia_ultime_notizie-425435815/",
+        "https://www.repubblica.it/economia/2026/06/26/news/trenitalia_attacco_hacker_oggi_rischi_passeegeri-425435713/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/26/attacco-hacker-su-alcuni-dati-personali-clienti-di-trenitalia_26fb15dd-f829-4e4a-9da7-a0734b74fd13.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Sisma in Venezuela, almeno 235 morti. Si cercano migliaia di dispersi",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/26/in-venezuela-589-vittime-e-oltre-50mila-mila-dispersi.-tajani-tre-gli_0d8eea66-5af0-46f6-8694-51bd3ffc46e4.html",
+        "https://www.ansa.it/sito/notizie/flash/2026/06/26/tajani-sono-3-gli-italo-venezuelani-morti-5-feriti-e-35-dispersi_2654a7e9-5a6c-4c22-9901-5a2a0f8e365e.html",
+        "https://www.fanpage.it/live/terremoto-in-venezuela-news-26-giugno/",
+        "https://www.ilgiornale.it/news/politica/italo-venezuelano-morto-guaira-comunit-ansia-2684528.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/26/oltre-50-mila-persone-disperse-in-venezuela_0d8eea66-5af0-46f6-8694-51bd3ffc46e4.html"
       ]
     },
     {
@@ -124,6 +122,50 @@
     },
     {
       "rank": 6,
+      "title": "Volkswagen raddoppia i tagli: 100mila posti e quattro stabilimenti tedeschi a rischio",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "unita.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.unita.it/2026/06/26/volkswagen-tagli-100mila-posti-indiscrezione-automotive/",
+        "https://www.ansa.it/canale_motori/notizie/industria_analisi/2026/06/26/media-vw-intende-tagliare-altri-50.000-posti-di-lavoro_9e9b4faf-8d1e-4a77-9727-2805b22a95bd.html",
+        "https://www.repubblica.it/economia/2026/06/26/news/volkswagen_auto_piano_riduzione_raddoppia_i_tagli_100_mila_addetti_a_rischio-425435694/",
+        "https://www.ilmessaggero.it/mondo/volkswagen_licenziamenti_100mila_crisi_cosa_succede-9616109.html",
+        "https://www.ilfattoquotidiano.it/2026/06/26/volkswagen-verso-la-ristrutturazione-la-stampa-tedesca-a-rischio-4-fabbriche-e-100mila-posti-di-lavoro/8430997/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Asse Meloni-Macron: 'Roma e Parigi partner indispensabili'",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "laverita.info",
+        "unita.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ansa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/ritorna-lasse-meloni-macron-indispensabili-loccidente-2684516.html",
+        "https://www.laverita.info/meloni-macron-vertice-antibes-2677108227.html",
+        "https://www.unita.it/2026/06/26/meloni-tra-le-braccia-di-macron-per-dimenticare-trump-ricucire-con-parigi-per-strappare-flessibilita-in-europa/",
+        "https://www.repubblica.it/politica/2026/06/26/news/macron_meloni_vertice_antibes_le_pen-425434535/",
+        "https://www.lastampa.it/esteri/2026/06/26/news/meloni-macron_l_asse_ritrovato-15671362/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "L’Iran accusa l’Italia: “Complici della guerra”. Ma adesso Rutte frena",
       "source_count": 6,
       "article_count": 8,
@@ -144,10 +186,10 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Il terremoto piega il Venezuela: il bilancio sale a 235 morti e oltre 4mila feriti. Tra le vittime anche due italiani. Unità di Crisi della Farnesina: \"65mila connazionali nell'area del sisma\"",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
         "unita.it",
         "ilfattoquotidiano.it",
@@ -157,71 +199,31 @@
         "laverita.info"
       ],
       "links": [
+        "https://www.unita.it/2026/06/26/terremoto-in-venezuela-dramma-dispersi/",
         "https://www.unita.it/2026/06/26/terremoto-venezuela-bilancio-morti-dispersi/",
         "https://www.ilfattoquotidiano.it/2026/06/26/terremoto-venezuela-morti-feriti-notizie/8430752/",
         "https://www.ilgiornale.it/news/cronaca-internazionale/terremomoto-piega-venezuale-bilancio-sale-235-morti-e-oltre-2684622.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/forti-scosse-terremoto-venezuela-pi-forte-75-mori-e-feriti-2683947.html",
-        "https://www.liberoquotidiano.it/news/esteri/48320753/venezuela-ecatombe-235-morti-4200-feriti-42mila-dispersi-vittime-italiano/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "L'assalto di Salvini e l'ok di Meloni: così Donnarumma è stato silurato da Fs",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "lastampa.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/ribaltone-ferrovie-2684522.html",
-        "https://www.lastampa.it/economia/2026/06/26/news/il_siluramento_dopo_il_si_di_meloni_lo_sfogo_di_donnarumma_prima_l_azienda-15671237/",
-        "https://ilmanifesto.it/salvini-va-allassalto-di-ferrovie-licenziato-lad-donnarumma",
-        "https://www.ilmessaggero.it/economia/donnarumma_salvini_retroscena_fs_cosa_e_successo-9614512.html",
-        "https://www.ilsole24ore.com/art/strisciuglio-scelta-interna-salvini-il-dopo-donnarumma-AITeF1rD"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Tragedia sulla statale 89 tra Foggia e Manfredonia: morti tre giovani. Si ipotizza un colpo di sonno",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "unita.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/attualita/auto-esce-fuori-strada-e-si-ribalta-sulla-statale-89-tra-foggia-e-manfredonia-morti-due-uomini-e-una-donna/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/26/auto-fuori-strada-nel-foggiano-tre-morti_197b4721-946a-4150-85d7-86d527b392cb.html",
-        "https://www.ilgiornale.it/news/nazionale/tragedia-sulla-statale-89-foggia-e-manfredonia-morti-tre-2684710.html",
-        "https://www.unita.it/2026/06/26/auto-fuori-strada-morti-tre-giovani-incidente-foggia-manfredonia/",
-        "https://www.ilmessaggero.it/italia/incidente_foggia_manfredonia_luigi_narciso_morti_chi_sono_oggi-9615798.html"
+        "https://www.ilgiornale.it/news/cronaca-internazionale/forti-scosse-terremoto-venezuela-pi-forte-75-mori-e-feriti-2683947.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Vw, il Ceo Blume prevede di tagliare fino a 100.000 posti di lavoro nei prossimi anni",
-      "source_count": 4,
-      "article_count": 5,
+      "title": "Tragedia sulla statale 89 tra Foggia e Manfredonia: morti tre giovani. Si ipotizza un colpo di sonno",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
         "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "fanpage.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "unita.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/mondo/volkswagen_licenziamenti_100mila_crisi_cosa_succede-9616109.html",
-        "https://www.ilfattoquotidiano.it/2026/06/26/volkswagen-verso-la-ristrutturazione-la-stampa-tedesca-a-rischio-4-fabbriche-e-100mila-posti-di-lavoro/8430997/",
-        "https://www.ilfattoquotidiano.it/2026/06/26/volkswagen-esuberi-stabilimenti-chiusura-notizie/8430917/",
-        "https://www.lastampa.it/economia/2026/06/26/news/volkswagen_piano_100_mila_tagli-15671817/",
-        "https://www.ilsole24ore.com/art/vw-ceo-blume-punta-tagliare-fino-100000-posti-lavoro-prossimi-anni-AI53fzsD"
+        "https://www.ilmessaggero.it/italia/incidente_foggia_morti_famiglia_narcisio_mammolino_piscitelli-9616143.html",
+        "https://www.fanpage.it/attualita/auto-esce-fuori-strada-e-si-ribalta-sulla-statale-89-tra-foggia-e-manfredonia-morti-due-uomini-e-una-donna/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/26/auto-fuori-strada-nel-foggiano-tre-morti_197b4721-946a-4150-85d7-86d527b392cb.html",
+        "https://www.ilgiornale.it/news/nazionale/tragedia-sulla-statale-89-foggia-e-manfredonia-morti-tre-2684710.html",
+        "https://www.unita.it/2026/06/26/auto-fuori-strada-morti-tre-giovani-incidente-foggia-manfredonia/"
       ]
     }
   ]
