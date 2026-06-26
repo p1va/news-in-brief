@@ -1,32 +1,30 @@
 {
   "date": "2026-06-26",
-  "generated_at": "Fri 26 Jun 20:07",
+  "generated_at": "Fri 26 Jun 21:29",
   "stories": [
     {
       "rank": 1,
       "title": "Strage ferroviaria di Viareggio, condanne definitive: Moretti si è costituito in carcere ieri sera",
-      "source_count": 12,
-      "article_count": 13,
+      "source_count": 10,
+      "article_count": 12,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "unita.it",
         "ilgiornale.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
         "repubblica.it",
         "ansa.it",
         "adnkronos.com",
         "lastampa.it",
-        "laverita.info",
-        "fanpage.it",
         "agi.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/06/26/strage-viareggio-moretti-condanna-notizie/8431722/",
         "https://www.unita.it/2026/06/26/strage-viareggio-moretti-costituito-in-carcere-condanna-cassazione/",
         "https://www.ilgiornale.it/news/politica/strage-viareggio-moretti-carcere-2684524.html",
         "https://www.ilmessaggero.it/italia/moretti_carcere_oggi_strage_viareggio-9615984.html",
-        "https://www.liberoquotidiano.it/news/italia/48325618/strage-viareggio-moretti-si-costituisce-carcere-dopo-condanna-definitiva/",
-        "https://www.ilfattoquotidiano.it/2026/06/26/strage-viareggio-moretti-costituisce-carcere-oggi/8430920/"
+        "https://www.liberoquotidiano.it/news/italia/48325618/strage-viareggio-moretti-si-costituisce-carcere-dopo-condanna-definitiva/"
       ]
     },
     {
@@ -127,28 +125,6 @@
     },
     {
       "rank": 6,
-      "title": "Il terremoto piega il Venezuela: il bilancio sale a 235 morti e oltre 4mila feriti. Tra le vittime anche due italiani. Unità di Crisi della Farnesina: \"65mila connazionali nell'area del sisma\"",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "unita.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/06/26/terremoto-in-venezuela-dramma-dispersi/",
-        "https://www.fanpage.it/live/terremoto-in-venezuela-news-26-giugno/",
-        "https://www.unita.it/2026/06/26/terremoto-venezuela-bilancio-morti-dispersi/",
-        "https://www.ilfattoquotidiano.it/2026/06/26/terremoto-venezuela-morti-feriti-notizie/8430752/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/terremomoto-piega-venezuale-bilancio-sale-235-morti-e-oltre-2684622.html"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Terremoto Venezuela, morta la moglie di Hector Bello che ha fatto da scudo alla figlia di un anno. Il calciatore: «Come farò a raccontarglielo?»",
       "source_count": 8,
       "article_count": 9,
@@ -168,6 +144,28 @@
         "https://www.liberoquotidiano.it/news/esteri/48332495/venezuela-terremoto-tragedia-nazionale-hector-bello-moglie-salva-figlia-muore/",
         "https://www.fanpage.it/sport/calcio/la-moglie-di-hector-bello-estratta-morta-dalla-macerie-del-terremoto-ha-protetto-la-figlia-col-suo-corpo/",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/26/ha-fatto-scudo-alla-figlia-di-un-anno-morta-la-moglie-del-calciatore-venezuelano_b5be9c7b-7954-40f3-ba7b-62b311a9f8b6.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Il terremoto piega il Venezuela: il bilancio sale a 235 morti e oltre 4mila feriti. Tra le vittime anche due italiani. Unità di Crisi della Farnesina: \"65mila connazionali nell'area del sisma\"",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "unita.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.unita.it/2026/06/26/terremoto-in-venezuela-dramma-dispersi/",
+        "https://www.fanpage.it/live/terremoto-in-venezuela-news-26-giugno/",
+        "https://www.unita.it/2026/06/26/terremoto-venezuela-bilancio-morti-dispersi/",
+        "https://www.ilfattoquotidiano.it/2026/06/26/terremoto-venezuela-morti-feriti-notizie/8430752/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/terremomoto-piega-venezuale-bilancio-sale-235-morti-e-oltre-2684622.html"
       ]
     },
     {
@@ -191,23 +189,22 @@
     },
     {
       "rank": 9,
-      "title": "Meloni-Macron, l’asse ritrovato",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Mondiali, Norvegia-Francia 1-3: tripletta di Dembele. Senegal-Iraq 1-0 - Diretta",
+      "source_count": 5,
+      "article_count": 8,
       "source_domains": [
-        "ilgiornale.it",
-        "laverita.info",
-        "unita.it",
-        "repubblica.it",
+        "fanpage.it",
         "ilmessaggero.it",
+        "adnkronos.com",
+        "ansa.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/ritorna-lasse-meloni-macron-indispensabili-loccidente-2684516.html",
-        "https://www.laverita.info/meloni-macron-vertice-antibes-2677108227.html",
-        "https://www.unita.it/2026/06/26/meloni-tra-le-braccia-di-macron-per-dimenticare-trump-ricucire-con-parigi-per-strappare-flessibilita-in-europa/",
-        "https://www.repubblica.it/politica/2026/06/26/news/macron_meloni_vertice_antibes_le_pen-425434535/",
-        "https://www.ilmessaggero.it/politica/meloni_macron_accordi_italia_francia_libano_cosa_cambia-9614552.html"
+        "https://www.fanpage.it/sport/calcio/ousmane-dembele-mostra-perche-gioca-da-pallone-doro-i-mondiali-tripletta-da-urlo-alla-norvegia/",
+        "https://www.ilmessaggero.it/sport/calcio/mondiali_2026_francia_norvegia_senegal_classifica_accoppiamenti_situazione_cosa_e_successo-9616705.html",
+        "https://www.adnkronos.com/sport/norvegia-francia-rigore-caos-maignan-para-strand-larsen-salva-bleus_7dhUqzQKlvCh97LbjqHh6u",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/25/mondiali-si-chiude-il-girone-i-con-norvegia-francia-e-senegal-iraq-diretta_159f34c6-86cb-4ed9-bfd4-60ac77dd01ad.html",
+        "https://www.ilmessaggero.it/sport/calcio/norvegia_francia_turnover_cambi_haaland_perche_non_gioca_riposo_tabellone-9616629.html"
       ]
     },
     {
