@@ -1,14 +1,15 @@
 {
   "date": "2026-06-27",
-  "generated_at": "Sat 27 Jun 08:47",
+  "generated_at": "Sat 27 Jun 11:04",
   "stories": [
     {
       "rank": 1,
       "title": "Triplice omicidio a Roma, uccisi a coltellate genitori e figlia minorenne. Ricercato un amico di famiglia",
-      "source_count": 8,
-      "article_count": 10,
+      "source_count": 9,
+      "article_count": 12,
       "source_domains": [
         "ansa.it",
+        "liberoquotidiano.it",
         "roma.repubblica.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
@@ -19,17 +20,58 @@
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/27/triplice-omicidio-a-roma-uccisi-a-coltellate-genitori-e-figlia-minorenne.-ricercato-un-amico_bc71c3cb-55d7-49f2-8a46-a0a7b33ae1c0.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48341387/famiglia-uccisa-a-roma-un-parente-e-assurdo-il-papa-era-una-brava-persona-/",
+        "https://www.liberoquotidiano.it/news/libero-video/48341384/famiglia-uccisa-a-roma-la-polizia-sul-luogo-del-delitto/",
         "https://roma.repubblica.it/cronaca/2026/06/27/news/triplice_omicidio_roma_ricerche_assassino_amico_famiglia-425437106/",
-        "https://www.ilfattoquotidiano.it/2026/06/27/padre-madre-e-figlia-di-otto-anni-uccisi-a-coltellate-a-roma-ferito-il-figlio-maggiore-si-cerca-laggressore/8431813/",
-        "https://roma.repubblica.it/cronaca/2026/06/27/news/triplice_omicidio_casalotti_roma_vittime_bambina_alicia_parenti-425436958/",
-        "https://www.adnkronos.com/cronaca/roma-omicidi-famiglia-bangladesh_4RJBujbK3nxBy5jSgDXEZ0"
+        "https://www.ilfattoquotidiano.it/2026/06/27/padre-madre-e-figlia-di-otto-anni-uccisi-a-coltellate-a-roma-ferito-il-figlio-maggiore-si-cerca-laggressore/8431813/"
       ]
     },
     {
       "rank": 2,
+      "title": "Terremoto in Venezuela, atterrato il primo aereo con squadre italiane",
+      "source_count": 5,
+      "article_count": 12,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-internazionale/venezuela-macerie-e-disperazione-2685210.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/27/la-missione-italiana-e-in-venezuela-team-verso-le-aree-del-sisma_212a4ae0-fd2c-44f2-bc00-b4672a644f86.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/27/venezuela-nuova-scossa-di-magnitudo-4.9-avvertita-nel-centro-del-paese_d0aaabe0-cd57-4e7b-ac29-3506dcec1379.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48342172/terremoto-in-venezuela-atterrato-il-primo-aereo-con-squadre-italiane/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/06/27/la-missione-italiana-e-in-venezuela-il-team-verso-le-aree-del-sisma_fa0d324a-a0f0-44b6-930c-91674b221ef8.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Firmato l’accordo Israele-Libano. Attacchi tra Usa e Iran. Teheran: “Violata la pace”",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/c-lintesa-libano-israele-torna-lincubo-hormuz-2685124.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/27/iran-vance-alla-violenza-si-risopnde-con-violenza-teheran-colpite-posizioni_d2e3a14a-2d8d-4e97-bd96-083f23a953a4.html",
+        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-27-giugno/",
+        "https://www.repubblica.it/esteri/2026/06/27/news/accordo_israele_libano_usa_rubio_hezbollah-425436623/",
+        "https://www.repubblica.it/esteri/2026/06/27/diretta/guerra_iran_usa_israele_news_oggi-425436772/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "L’Europa nella morsa del caldo, nel weekend più temuto l’Italia supera i 40 gradi",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 6,
       "source_domains": [
         "adnkronos.com",
         "lastampa.it",
@@ -42,33 +84,52 @@
         "https://www.adnkronos.com/cronaca/caldo-record-weekend-svolta-cambia-meteo-temperature-italia_7wbECsCRcJt6vQ2WVGDkJ2",
         "https://www.lastampa.it/cronaca/2026/06/27/news/caldo_previsioni_week_end-15672725/",
         "https://www.repubblica.it/cronaca/2026/06/27/news/ondata_calore_europa_week_end_40_gradi-425436695/",
-        "https://www.repubblica.it/cronaca/2026/06/27/news/francia_caldo_strage_bambini_pride_annullato-425436534/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/26/in-francia-sale-a-55-bilancio-delle-persone-annegate-a-causa-del-caldo_e014b119-9d67-4393-a6a9-8d91a4d487dc.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/26/in-francia-sale-a-55-bilancio-delle-persone-annegate-a-causa-del-caldo_e014b119-9d67-4393-a6a9-8d91a4d487dc.html",
+        "https://www.ilgiornale.it/news/meteo-e-clima/caldo-18-citt-bollino-rosso-scatta-l-allerta-temporali-5-2684728.html"
       ]
     },
     {
-      "rank": 3,
-      "title": "Firmato l’accordo Israele-Libano. Attacchi tra Usa e Iran. Teheran: “Violata la pace”",
-      "source_count": 6,
+      "rank": 5,
+      "title": "Il caldo costa fino a 600 euro al mese a famiglia: come risparmiare",
+      "source_count": 5,
       "article_count": 6,
       "source_domains": [
-        "ansa.it",
-        "fanpage.it",
-        "laverita.info",
-        "repubblica.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "lastampa.it"
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/27/iran-vance-alla-violenza-si-risopnde-con-violenza-teheran-colpite-posizioni_d2e3a14a-2d8d-4e97-bd96-083f23a953a4.html",
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-27-giugno/",
-        "https://www.laverita.info/meloni-macron-libano-intesa-2677116881.html",
-        "https://www.repubblica.it/esteri/2026/06/27/news/accordo_israele_libano_usa_rubio_hezbollah-425436623/",
-        "https://www.ilmessaggero.it/mondo/libano_israele_intesa_ombra_iran-9616716.html"
+        "https://www.ilgiornale.it/news/attualit/temperature-elevate-non-danno-tregua-e-ci-costano-fino-600-2685252.html",
+        "https://www.ilfattoquotidiano.it/2026/06/27/caldo-estremo-costi-fino-a-600-euro-al-mese-per-famiglia-pesano-condizionatori-consumo-di-acqua-prodotti-freschi-e-spostamenti/8431862/",
+        "https://www.ilmessaggero.it/economia/schede/blackout_caldo_rimborso_bolletta_luce_cosa_fare-9617892.html",
+        "https://www.lastampa.it/economia/2026/06/27/news/il_caldo_costa_fino_a_600_euro_al_mese_a_famiglia_come_risparmiare-15672799/",
+        "https://www.ilsole24ore.com/art/ecco-come-affrontare-caldo-senza-svuotare-portafogli-AIGcE8sD"
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "title": "L'afa ferma l'Europa. Stop al Pride a Parigi, Milano sposta l'orario",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/lafa-ferma-leuropa-stop-pride-parigi-milano-sposta-lorario-2685141.html",
+        "https://www.ilgiornale.it/news/attualit/milano-pride-cambia-orario-caldo-polemiche-e-defezioni-2685226.html",
+        "https://www.adnkronos.com/cronaca/milano-pride-oggi-partenza-posticipata-caldo-percorso_3uBOSkzUL9Ou7jpO3H8J54",
+        "https://www.repubblica.it/cronaca/2026/06/27/news/francia_caldo_strage_bambini_pride_annullato-425436534/",
+        "https://ilmanifesto.it/il-caldo-batte-anche-il-pride-parigi-brucia-e-non-si-spegne"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Volkswagen, 100 mila licenziamenti sul tavolo: dazi americani e sussidi cinesi dietro la crisi del modello di produzione",
       "source_count": 5,
       "article_count": 6,
@@ -88,54 +149,19 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Venezuela, cimitero Catia La Mar: il racconto dalla “ground zero” del terremoto",
-      "source_count": 4,
+      "rank": 8,
+      "title": "Strage di Viareggio, Moretti in carcere a Orvieto: 'Ho rispetto per lo Stato'",
+      "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "repubblica.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/06/27/news/venezuela_rabbia_terremoto_soccorsi_non_arrivano-425436674/",
-        "https://www.repubblica.it/esteri/2026/06/27/news/venezuela_terremoto_bimbi_rimasti_soli_ospedale-425436551/",
-        "https://www.lastampa.it/esteri/2026/06/27/news/venezuela_terremoto_reportage_catia_la_mar_epicentro-15672597/",
-        "https://www.liberoquotidiano.it/news/tv-news/48334939/onu-in-venezuela-oltre-500-morti-e-50mila-dispersi/",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TV3UtQ0ZYQWRlT0RsdW5BejJrdUJ6bGV1Mng2N0hjZGQtYzNvZzYtN2ZkQ0RvNEFHZW91aGZXX2NhRFFjSFpkLWRMbU1wS3Npd2cxTHhKd1BhenJvUGdyLV9xbmhKY1lBb2VlNjVqS3FMQnhIR3c?oc=5"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Mondiali: Il Belgio batte 5-1 la Nuova Zelanda, Egitto-Iran 1-1",
-      "source_count": 3,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/25/mondiali-si-chiude-il-girone-g-con-egitto-iran-e-nuova-zelanda-belgio-diretta_070a9243-e3e4-49ac-9112-d1c3c52532f6.html",
-        "https://www.adnkronos.com/sport/iran-derubato-mondiali-2026-gol-valido-fuorigioco_4UDNS3xOVzxuQcVNA6bCcU",
-        "https://www.adnkronos.com/sport/iran-mondiali-2026-egitto-rigore-sbagliato-gol-annullato-traversa_18wli6C1fOEBEuRUiwFfnW",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/06/27/news/egitto-iran_1-1_la_squadra_di_salah_passa_ai_sedicesimi_e_sfidera_l_australia-15672759/",
-        "https://www.adnkronos.com/sport/belgio-nuova-zelanda-5-1-iran-egitto-1-1-verdetti-classifica-girone-mondiali-2026_5V1uaDFsYR1CGg2H7Eigko"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Strage di Viareggio, Moretti in carcere a Orvieto: 'Ho rispetto per lo Stato'",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
+        "ilgiornale.it",
         "ilmanifesto.it",
         "lastampa.it",
         "ansa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/moretti-gi-cella-leterno-dilemma-responsabilit-2685130.html",
         "https://ilmanifesto.it/perche-per-la-corte-moretti-e-responsabile-e-colpevole",
         "https://www.lastampa.it/cronaca/2026/06/27/news/moretti_carcere_orvieto-15672563/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/26/strage-di-viareggio-moretti-si-e-costituito-in-carcere_ea5fd3b7-8be3-4b09-8ba6-27da031290a3.html",
@@ -143,57 +169,43 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Terremoto in Venezuela: sale a 920 il bilancio dei morti, oltre 50mila i dispersi. Tra le vittime Berroteran, giovane calciatore",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "fanpage.it",
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/esteri/venezuela-nuova-scossa-di-magnitudo-4-9-nella-notte-920-morti-tra-loro-anche-la-siciliana-francesca-mannina/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/27/venezuela-nuova-scossa-di-magnitudo-4.9-avvertita-nel-centro-del-paese_d0aaabe0-cd57-4e7b-ac29-3506dcec1379.html",
-        "https://www.lastampa.it/esteri/2026/06/27/news/terremoto_venezuela_morti_italia-15672802/",
-        "https://www.repubblica.it/esteri/2026/06/27/diretta/venezuela_terremoto_morti_feriti_dispersi_italiani_soccorsi-425436817/"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Favola Capo Verde, pareggia con l'Arabia Saudita e vola ai sedicesimi con l'Argentina",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Mondiali, la festa di Capo Verde dopo la storica qualificazione",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
+        "ilgiornale.it",
         "fanpage.it",
+        "liberoquotidiano.it",
         "ilmessaggero.it",
-        "ilfattoquotidiano.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/calcio/mondiali-tre-pareggi-bastano-storica-qualificazione-capo-2685289.html",
         "https://www.fanpage.it/sport/calcio/capo-verde-ai-sedicesimi-la-storia-piu-clamorosa-dei-mondiali-perche-esultano-cantando-un-percento/",
+        "https://www.liberoquotidiano.it/news/tv-news/48342120/mondiali-la-festa-di-capo-verde-dopo-la-storica-qualificazione/",
         "https://www.ilmessaggero.it/sport/calcio/capo_verde_mondiali_argentina_vozinha_ultime_notizie-9617767.html",
-        "https://www.ilfattoquotidiano.it/2026/06/27/mondiali-2026-risultati-oggi-nuova-classifica-gironi/8416831/",
         "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/06/27/news/favola_capo_verde_pareggia_con_l_arabia_saudita_e_vola_ai_sedicesimi_con_l_argentina-15672692/"
       ]
     },
     {
       "rank": 10,
-      "title": "Divorzio consensuale tra Amadeus e Warner Bros., uscita con due anni di anticipo",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Loredana Bertè annulla il concerto: “Il caldo mette a rischio la mia salute”",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "fanpage.it",
         "ilgiornale.it",
-        "ansa.it",
-        "news.google.com"
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "fanpage.it"
       ],
       "links": [
-        "https://www.fanpage.it/spettacolo/personaggi/il-futuro-di-amadeus-dopo-laddio-a-nove-e-unincognita-potrebbe-restare-sul-divano/",
-        "https://www.ilgiornale.it/news/amadeus-lascia-warner-coletta-posto-sciarelli-2685151.html",
-        "https://www.ansa.it/sito/notizie/cultura/2026/06/26/amadeus-lascia-in-anticipo-warner-bros-discovery_4841c877-bee2-41b7-9eb1-d56fb1f4e5db.html",
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6aUF4MjBKbGQwdHVySmR3d0NTSjA1NzBwa3RzTTNIT0k0SGlmUWdDV3hVckhLSTE2dDktLUVES2tvcTluekdIbFduMlFkcHBUOGVkV3VLTl8yV09KNEFYZk9aeDJydXpraXJnaQ?oc=5"
+        "https://www.ilgiornale.it/news/musica/loredana-bert-costretta-ad-annullare-concerto-mette-rischio-2685246.html",
+        "https://www.ilfattoquotidiano.it/2026/06/27/esibirmi-in-queste-condizioni-metterebbe-concretamente-a-rischio-la-mia-salute-loredana-berte-cancella-il-concerto-a-bergamo-per-il-caldo-torrido/8431889/",
+        "https://www.ilmessaggero.it/persone/loredana_berte_annulla_concerto_bergamo_perche_caldo_salute_rimborso_biglietti-9617853.html",
+        "https://www.adnkronos.com/spettacoli/berte-concerto-annulla-caldo-rischio_2ZtqWtWh14fotNTH5U4hUI",
+        "https://www.fanpage.it/cultura/loredana-berte-annulla-il-concerto-il-caldo-mette-a-rischio-la-mia-salute/"
       ]
     }
   ]
