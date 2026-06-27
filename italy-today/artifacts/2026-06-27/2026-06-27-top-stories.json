@@ -1,13 +1,14 @@
 {
   "date": "2026-06-27",
-  "generated_at": "Sat 27 Jun 12:19",
+  "generated_at": "Sat 27 Jun 14:49",
   "stories": [
     {
       "rank": 1,
       "title": "Triplice omicidio a Roma, uccisi a coltellate genitori e figlia minorenne. Ricercato un amico di famiglia",
-      "source_count": 9,
-      "article_count": 13,
+      "source_count": 10,
+      "article_count": 14,
       "source_domains": [
+        "fanpage.it",
         "adnkronos.com",
         "ansa.it",
         "liberoquotidiano.it",
@@ -19,15 +20,56 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.fanpage.it/roma/strage-a-casalotti-uccisi-padre-madre-e-figlia-lappello-della-polizia-per-rintracciare-il-presunto-killer/",
         "https://www.adnkronos.com/cronaca/triplice-omicidio-roma-parla-testimone-visto-ragazzo-ferito-uomo-fuggire_7neauUT30icsIa0l1WMXQW",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/27/triplice-omicidio-a-roma-uccisi-a-coltellate-genitori-e-figlia-minorenne.-ricercato-un-amico_bc71c3cb-55d7-49f2-8a46-a0a7b33ae1c0.html",
         "https://www.liberoquotidiano.it/news/libero-video/48341387/famiglia-uccisa-a-roma-un-parente-e-assurdo-il-papa-era-una-brava-persona-/",
-        "https://www.liberoquotidiano.it/news/libero-video/48341384/famiglia-uccisa-a-roma-la-polizia-sul-luogo-del-delitto/",
-        "https://roma.repubblica.it/cronaca/2026/06/27/news/triplice_omicidio_roma_ricerche_assassino_amico_famiglia-425437106/"
+        "https://www.liberoquotidiano.it/news/libero-video/48341384/famiglia-uccisa-a-roma-la-polizia-sul-luogo-del-delitto/"
       ]
     },
     {
       "rank": 2,
+      "title": "Terremoto in Venezuela, atterrato il primo aereo con squadre italiane",
+      "source_count": 5,
+      "article_count": 15,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/videogallery/mondo/2026/06/27/venezuela-prima-e-dopo-il-terremoto-le-immagini-satellitari_e8bbb365-3fe7-40cd-9d46-787cbd955fb2.html",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/06/27/venezuela-due-anziani-si-tengono-per-mano-mentre-la-terra-trema_f0e55700-35c2-4b25-86a8-b9e453c05c94.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48342996/trump-su-venezuela-al-di-la-del-terremoto-gente-balla-per-strada-ed-economia-va-meglio-che-mai/",
+        "https://www.liberoquotidiano.it/news/pillole/48342496/sisma_venezuela_atterrato_il_primo_aereo_con_soccorritori_italiani/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/venezuela-macerie-e-disperazione-2685210.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "MotoGp: Fernandez vince la sprint a Assen, quarto Bezzecchi",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/motori/motogp-aprilia-stellare-ad-assen-sprint-fernandez-pole-2685355.html",
+        "https://www.adnkronos.com/sport/motogp-olanda-fernandez-vince-gara-sprint-assen-ordine-arrivo_7hVpbBb3I5xGXHPcMi0lJA",
+        "https://www.ilfattoquotidiano.it/2026/06/27/motogp-sprint-gp-olanda-risultati-nuova-classifica/8432120/",
+        "https://www.ansa.it/sito/notizie/sport/moto/2026/06/27/motogp-fernandez-vince-la-sprint-a-assen-quarto-bezzecchi-_489723a3-deb1-4203-94a1-adf15c953e13.html",
+        "https://www.lastampa.it/sport/2026/06/27/news/motogp_sprint_gp_olanda_assen-15672992/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "L’Europa nella morsa del caldo, nel weekend più temuto l’Italia supera i 40 gradi",
       "source_count": 7,
       "article_count": 7,
@@ -49,10 +91,10 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
       "title": "Firmato l’accordo Israele-Libano. Attacchi tra Usa e Iran. Teheran: “Violata la pace”",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
         "ansa.it",
@@ -70,27 +112,27 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "In Venezuela macerie e disperazione",
+      "rank": 6,
+      "title": "Sinner, si avvicina l'esordio a Wimbledon: data, orario e dove vederlo in tv",
       "source_count": 5,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
         "ansa.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
+        "fanpage.it",
         "repubblica.it",
-        "lastampa.it"
+        "ilmessaggero.it",
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/videogallery/mondo/2026/06/27/venezuela-due-anziani-si-tengono-per-mano-mentre-la-terra-trema_f0e55700-35c2-4b25-86a8-b9e453c05c94.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/venezuela-macerie-e-disperazione-2685210.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48341728/terremoto-venezuela-un-uomo-estratto-vivo-dalle-macerie-a-la-guaira/",
-        "https://www.repubblica.it/esteri/2026/06/27/news/venezuela_rabbia_terremoto_soccorsi_non_arrivano-425436674/",
-        "https://www.repubblica.it/esteri/2026/06/27/news/venezuela_terremoto_bimbi_rimasti_soli_ospedale-425436551/"
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/06/27/wimbledon-sinner-fatti-piccoli-cambiamenti-nella-preparazione-per-affrontare-il-caldo_8f70ec69-93df-42c7-b4f6-242563a8c481.html",
+        "https://www.fanpage.it/sport/tennis/jannik-sinner-e-stanco-delle-polemiche-a-wimbledon-sono-qui-per-parlare-di-tennis/",
+        "https://www.repubblica.it/sport/dossier/wimbledon/2026/06/27/news/sinner_preparazione_cambiamenti_non_ho_la_bacchetta_magica_wimbledon-425437413/",
+        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_wimbledon_orario_dove_vederla_tv_streaming-9618024.html",
+        "https://www.adnkronos.com/sport/wimbledon-sinner-verso-esordio-kecmanovic-cambiamenti-preparazione-conferenza_3M5eVXeqqbiGTtB6iSyKC2"
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Il caldo costa fino a 600 euro al mese a famiglia: come risparmiare",
       "source_count": 5,
       "article_count": 6,
@@ -110,7 +152,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "L'afa ferma l'Europa. Stop al Pride a Parigi, Milano sposta l'orario",
       "source_count": 5,
       "article_count": 6,
@@ -130,7 +172,27 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "title": "Gp Austria: Hamilton sfida le Mercedes per la pole",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "repubblica.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "fanpage.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/formulauno/2026/06/27/diretta/gp_austria_2026_qualifiche_pole-425437582/",
+        "https://www.lastampa.it/sport/2026/06/27/news/gp_austria_hamilton_sfida_le_mercedes_per_la_pole-15672909/",
+        "https://www.ilgiornale.it/news/motori/kimi-stupisce-ancora-ferrari-torna-preoccupare-2685230.html",
+        "https://www.fanpage.it/sport/live/formula-1-oggi-le-qualifiche-del-gp-austria-orari-tv8-e-sky-e-dove-vederle-in-diretta-e-streaming-ferrari-sfida-mercedes-per-la-pole/",
+        "https://www.adnkronos.com/sport/gp-austria-qualifiche-formula-1-oggi-orario-dove-vederle-tv-streaming_JXWEe6Qib6lBmOeefnyeq"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Volkswagen, 100 mila licenziamenti sul tavolo: dazi americani e sussidi cinesi dietro la crisi del modello di produzione",
       "source_count": 5,
       "article_count": 6,
@@ -147,66 +209,6 @@
         "https://ilmanifesto.it/centomila-licenziamenti-la-volkswagen-non-ce-piu",
         "https://www.ilmessaggero.it/economia/news/volkswagen_cosa_c_e_dietro_licenziamenti-9616694.html",
         "https://www.ilgiornale.it/news/aziende/volkswagen-prepara-maxi-ristrutturazione-fino-100mila-2684965.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Strage di Viareggio, Moretti in carcere a Orvieto: 'Ho rispetto per lo Stato'",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/moretti-gi-cella-leterno-dilemma-responsabilit-2685130.html",
-        "https://ilmanifesto.it/perche-per-la-corte-moretti-e-responsabile-e-colpevole",
-        "https://www.lastampa.it/cronaca/2026/06/27/news/moretti_carcere_orvieto-15672563/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/26/strage-di-viareggio-moretti-si-e-costituito-in-carcere_ea5fd3b7-8be3-4b09-8ba6-27da031290a3.html",
-        "https://www.ilsole24ore.com/art/il-caso-moretti-capire-imprese-complesse-non-cercare-capri-espiatori-AIMM5WtD"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Mondiali, la festa di Capo Verde dopo la storica qualificazione",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/calcio/mondiali-tre-pareggi-bastano-storica-qualificazione-capo-2685289.html",
-        "https://www.fanpage.it/sport/calcio/capo-verde-ai-sedicesimi-la-storia-piu-clamorosa-dei-mondiali-perche-esultano-cantando-un-percento/",
-        "https://www.liberoquotidiano.it/news/tv-news/48342120/mondiali-la-festa-di-capo-verde-dopo-la-storica-qualificazione/",
-        "https://www.ilmessaggero.it/sport/calcio/capo_verde_mondiali_argentina_vozinha_ultime_notizie-9617767.html",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/06/27/news/favola_capo_verde_pareggia_con_l_arabia_saudita_e_vola_ai_sedicesimi_con_l_argentina-15672692/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Loredana Bertè annulla il concerto: “Il caldo mette a rischio la mia salute”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/musica/loredana-bert-costretta-ad-annullare-concerto-mette-rischio-2685246.html",
-        "https://www.ilfattoquotidiano.it/2026/06/27/esibirmi-in-queste-condizioni-metterebbe-concretamente-a-rischio-la-mia-salute-loredana-berte-cancella-il-concerto-a-bergamo-per-il-caldo-torrido/8431889/",
-        "https://www.ilmessaggero.it/persone/loredana_berte_annulla_concerto_bergamo_perche_caldo_salute_rimborso_biglietti-9617853.html",
-        "https://www.adnkronos.com/spettacoli/berte-concerto-annulla-caldo-rischio_2ZtqWtWh14fotNTH5U4hUI",
-        "https://www.fanpage.it/cultura/loredana-berte-annulla-il-concerto-il-caldo-mette-a-rischio-la-mia-salute/"
       ]
     }
   ]
