@@ -1,12 +1,12 @@
 {
   "date": "2026-06-27",
-  "generated_at": "Sat 27 Jun 16:13",
+  "generated_at": "Sat 27 Jun 18:12",
   "stories": [
     {
       "rank": 1,
       "title": "Triplice omicidio a Roma, uccisi a coltellate genitori e figlia minorenne. Ricercato un amico di famiglia",
       "source_count": 10,
-      "article_count": 14,
+      "article_count": 15,
       "source_domains": [
         "fanpage.it",
         "adnkronos.com",
@@ -20,41 +20,68 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.fanpage.it/roma/triplice-omicidio-a-casalotti-le-clienti-del-supermercato-dove-lavorava-kamal-siamo-senza-parole/",
         "https://www.fanpage.it/roma/strage-a-casalotti-uccisi-padre-madre-e-figlia-lappello-della-polizia-per-rintracciare-il-presunto-killer/",
         "https://www.adnkronos.com/cronaca/triplice-omicidio-roma-parla-testimone-visto-ragazzo-ferito-uomo-fuggire_7neauUT30icsIa0l1WMXQW",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/27/triplice-omicidio-a-roma-uccisi-a-coltellate-genitori-e-figlia-minorenne.-ricercato-un-amico_bc71c3cb-55d7-49f2-8a46-a0a7b33ae1c0.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48341387/famiglia-uccisa-a-roma-un-parente-e-assurdo-il-papa-era-una-brava-persona-/",
-        "https://www.liberoquotidiano.it/news/libero-video/48341384/famiglia-uccisa-a-roma-la-polizia-sul-luogo-del-delitto/"
+        "https://www.liberoquotidiano.it/news/libero-video/48341387/famiglia-uccisa-a-roma-un-parente-e-assurdo-il-papa-era-una-brava-persona-/"
       ]
     },
     {
       "rank": 2,
       "title": "F1: Russell in pole in Austria, Leclerc in prima fila",
-      "source_count": 8,
-      "article_count": 12,
+      "source_count": 9,
+      "article_count": 13,
       "source_domains": [
+        "fanpage.it",
+        "repubblica.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
         "adnkronos.com",
         "ansa.it",
+        "liberoquotidiano.it",
         "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it",
-        "fanpage.it"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.fanpage.it/sport/motori/perche-la-pole-di-russell-al-gp-daustria-f1-e-regolare-nonostante-la-bandiera-gialla-cosa-e-successo-nei-22-chiave-del-q3/",
+        "https://www.repubblica.it/sport/formulauno/2026/06/27/news/russell_pole_gp_austria_2026_leclerc_hamilton_ferrari-425437771/",
         "https://www.ilfattoquotidiano.it/2026/06/27/gp-austria-2026-qualifiche-russell-pole-notizie/8432199/",
         "https://www.ilgiornale.it/news/motori/f1-doccia-gelata-ferrari-austria-russell-scippa-pole-leclerc-2685374.html",
-        "https://www.adnkronos.com/sport/russell-gp-austria-f1-leclerc-hamilton_29oTohf1V2xK6KyHhH7cYK",
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/06/27/f1-russell-in-pole-in-austria-leclerc-in-prima-fila_3e95f21a-3a12-441e-86f5-1ce5e2cb48f9.html",
-        "https://www.ilmessaggero.it/sport/formula1/gp_austria_qualifiche_russell_leclerc_pole_bandiera_gialla_cosa_e_successo-9618250.html"
+        "https://www.adnkronos.com/sport/russell-gp-austria-f1-leclerc-hamilton_29oTohf1V2xK6KyHhH7cYK"
       ]
     },
     {
       "rank": 3,
+      "title": "Disperso nel Lago di Vico il marito della ministra Roccella: “Caduto in acqua dalla barca, non è più riemerso”",
+      "source_count": 11,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "fanpage.it",
+        "laverita.info",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "roma.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/27/il-marito-della-ministra-roccella-disperso-nel-lago-di-vico-_1103d34f-89ae-4934-83bc-9a2d8a75807e.html",
+        "https://www.fanpage.it/roma/disperso-nel-lago-di-vico-il-marito-della-ministra-roccella-caduto-in-acqua-dalla-barca-non-e-piu-riemerso/",
+        "https://www.laverita.info/marito-roccella-lago-vico-2677120514.html",
+        "https://www.adnkronos.com/cronaca/marito-ministra-roccella-disperso-nel-lago-di-vico_5aRVcfOHfummMNLYI4AOBy",
+        "https://www.ilgiornale.it/news/attualit/disperso-marito-ministra-roccella-stava-facendo-bagno-nel-2685411.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Terremoto in Venezuela, atterrato il primo aereo con squadre italiane",
       "source_count": 5,
-      "article_count": 14,
+      "article_count": 15,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -63,15 +90,38 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/videogallery/italia/2026/06/27/los-palos-grandes-il-quartiere-di-caracas-colpito-dal-sisma_dc4c5de9-49dc-4fa2-b791-7a93838eb3b8.html",
         "https://www.ansa.it/sito/videogallery/mondo/2026/06/27/venezuela-prima-e-dopo-il-terremoto-le-immagini-satellitari_e8bbb365-3fe7-40cd-9d46-787cbd955fb2.html",
         "https://www.ansa.it/sito/videogallery/mondo/2026/06/27/venezuela-due-anziani-si-tengono-per-mano-mentre-la-terra-trema_f0e55700-35c2-4b25-86a8-b9e453c05c94.html",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48342996/trump-su-venezuela-al-di-la-del-terremoto-gente-balla-per-strada-ed-economia-va-meglio-che-mai/",
-        "https://www.liberoquotidiano.it/news/pillole/48342496/sisma_venezuela_atterrato_il_primo_aereo_con_soccorritori_italiani/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/venezuela-macerie-e-disperazione-2685210.html"
+        "https://www.liberoquotidiano.it/news/pillole/48342496/sisma_venezuela_atterrato_il_primo_aereo_con_soccorritori_italiani/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Milano Pride, al via il corteo. Schlein: \"Omotransfobia ha ucciso Mirko Moriconi\"",
+      "source_count": 8,
+      "article_count": 12,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "fanpage.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "milano.repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/mondo/pride_milano_schlein_budapest_parigi_lione_sospeso_caldo_ultima_ora-9618368.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/27/pride-a-milano-e-napoli-in-ricordo-di-mirko-e-della-mamma-kety_cb5dede6-31a5-4741-b245-8f9a4af57e3a.html",
+        "https://www.fanpage.it/milano/milano-pride-una-marea-arcobaleno-si-riversa-in-strada-in-migliaia-in-corteo-nonostante-il-caldo/",
+        "https://www.adnkronos.com/cronaca/milano-pride-schlein-programma-percorso-caldo_6D2rvmRcTZai6z1X9qW7sI",
+        "https://www.ilgiornale.it/news/nazionale/milano-pride-sorpresa-si-presenta-anche-elly-schlein-2685380.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "MotoGp: Fernandez vince la sprint a Assen, quarto Bezzecchi",
       "source_count": 7,
       "article_count": 12,
@@ -93,50 +143,50 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Firmato l’accordo Israele-Libano. Attacchi tra Usa e Iran. Teheran: “Violata la pace”",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "ansa.it",
         "liberoquotidiano.it",
         "ilgiornale.it",
-        "ansa.it",
         "fanpage.it",
         "repubblica.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/27/medio-oriente-il-leader-di-hezbollah-attacca-laccordo-e-umiliante.-a-luglio-nuovo-round_d2e3a14a-2d8d-4e97-bd96-083f23a953a4.html",
         "https://www.liberoquotidiano.it/news/libero-video/48343754/medioriente-firmato-accordo-libano-israele/",
         "https://www.ilgiornale.it/news/politica/c-lintesa-libano-israele-torna-lincubo-hormuz-2685124.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/27/iran-vance-alla-violenza-si-risopnde-con-violenza-teheran-colpite-posizioni_d2e3a14a-2d8d-4e97-bd96-083f23a953a4.html",
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-27-giugno/",
-        "https://www.repubblica.it/esteri/2026/06/27/diretta/guerra_iran_usa_israele_news_oggi-425436772/"
+        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-27-giugno/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "L’Europa nella morsa del caldo, nel weekend più temuto l’Italia supera i 40 gradi",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "ansa.it",
         "adnkronos.com",
         "ilmessaggero.it",
-        "ansa.it",
         "lastampa.it",
         "repubblica.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/27/lemergenza-caldo-per-193-milioni-di-europei-il-picco-lunedi_cc300195-b915-415f-9277-e5fab56080f0.html",
         "https://www.adnkronos.com/cronaca/caldo-record-allarme-morti_1z9Nzr6i0h0rcuSWEwOhwc",
         "https://www.ilmessaggero.it/mondo/caldo_estremo_meta_citta_europa_record_caldo_oggi-9618021.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/06/27/caldo-record-in-alto-adige-a-bolzano-la-notte-piu-rovente-dal-1956_23d79dd5-2d72-4b88-9cba-9df4297a4435.html",
-        "https://www.adnkronos.com/cronaca/caldo-record-weekend-svolta-cambia-meteo-temperature-italia_7wbECsCRcJt6vQ2WVGDkJ2",
-        "https://www.lastampa.it/cronaca/2026/06/27/news/caldo_previsioni_week_end-15672725/"
+        "https://www.adnkronos.com/cronaca/caldo-record-weekend-svolta-cambia-meteo-temperature-italia_7wbECsCRcJt6vQ2WVGDkJ2"
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Mondiali, dramma Iran: rigore sbagliato, gol annullato e traversa nel recupero",
       "source_count": 5,
       "article_count": 8,
@@ -156,64 +206,23 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Terremoto in Venezuela, oltre 40mila dispersi: 920 morti. Tajani: “Tra le vittime 3 italo-venezuelani”",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "lastampa.it",
-        "fanpage.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "laverita.info"
-      ],
-      "links": [
-        "https://www.lastampa.it/esteri/2026/06/27/video/venezuela_terremoto_immagini_satellitari_danni-15672925/",
-        "https://www.fanpage.it/esteri/venezuela-nuova-scossa-di-magnitudo-4-9-nella-notte-920-morti-tra-loro-anche-la-siciliana-francesca-mannina/",
-        "https://www.ilfattoquotidiano.it/2026/06/27/terremoto-venezuela-morti-dispersi-notizie/8431839/",
-        "https://www.lastampa.it/esteri/2026/06/27/news/terremoto_venezuela_morti_italia-15672802/",
-        "https://www.repubblica.it/esteri/2026/06/27/diretta/venezuela_terremoto_morti_feriti_dispersi_italiani_soccorsi-425436817/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Loredana Bertè annulla il concerto: “Il caldo mette a rischio la mia salute”",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "fanpage.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/spettacoli/48344168/loredana-berte-unica-scelta-seria-responsabile-caldo-record-concerto-annullato/",
-        "https://www.ilgiornale.it/news/musica/loredana-bert-costretta-ad-annullare-concerto-mette-rischio-2685246.html",
-        "https://www.ilfattoquotidiano.it/2026/06/27/esibirmi-in-queste-condizioni-metterebbe-concretamente-a-rischio-la-mia-salute-loredana-berte-cancella-il-concerto-a-bergamo-per-il-caldo-torrido/8431889/",
-        "https://www.ilmessaggero.it/persone/loredana_berte_annulla_concerto_bergamo_perche_caldo_salute_rimborso_biglietti-9617853.html",
-        "https://www.adnkronos.com/spettacoli/berte-concerto-annulla-caldo-rischio_2ZtqWtWh14fotNTH5U4hUI"
-      ]
-    },
-    {
       "rank": 10,
       "title": "Sinner, si avvicina l'esordio a Wimbledon: data, orario e dove vederlo in tv",
       "source_count": 5,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "ansa.it",
         "fanpage.it",
+        "ansa.it",
         "repubblica.it",
         "ilmessaggero.it",
         "adnkronos.com"
       ],
       "links": [
+        "https://www.fanpage.it/sport/tennis/djokovic-dice-a-sinner-cosa-gli-capitera-lunedi-a-wimbledon-nel-tennis-non-esiste-niente-di-simile/",
         "https://www.ansa.it/sito/notizie/sport/tennis/2026/06/27/wimbledon-sinner-fatti-piccoli-cambiamenti-nella-preparazione-per-affrontare-il-caldo_8f70ec69-93df-42c7-b4f6-242563a8c481.html",
         "https://www.fanpage.it/sport/tennis/jannik-sinner-e-stanco-delle-polemiche-a-wimbledon-sono-qui-per-parlare-di-tennis/",
         "https://www.repubblica.it/sport/dossier/wimbledon/2026/06/27/news/sinner_preparazione_cambiamenti_non_ho_la_bacchetta_magica_wimbledon-425437413/",
-        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_wimbledon_orario_dove_vederla_tv_streaming-9618024.html",
-        "https://www.adnkronos.com/sport/wimbledon-sinner-verso-esordio-kecmanovic-cambiamenti-preparazione-conferenza_3M5eVXeqqbiGTtB6iSyKC2"
+        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_wimbledon_orario_dove_vederla_tv_streaming-9618024.html"
       ]
     }
   ]
