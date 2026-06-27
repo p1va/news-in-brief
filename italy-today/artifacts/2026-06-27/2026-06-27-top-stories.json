@@ -1,6 +1,6 @@
 {
   "date": "2026-06-27",
-  "generated_at": "Sat 27 Jun 14:49",
+  "generated_at": "Sat 27 Jun 16:13",
   "stories": [
     {
       "rank": 1,
@@ -29,9 +29,32 @@
     },
     {
       "rank": 2,
+      "title": "F1: Russell in pole in Austria, Leclerc in prima fila",
+      "source_count": 8,
+      "article_count": 12,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/06/27/gp-austria-2026-qualifiche-russell-pole-notizie/8432199/",
+        "https://www.ilgiornale.it/news/motori/f1-doccia-gelata-ferrari-austria-russell-scippa-pole-leclerc-2685374.html",
+        "https://www.adnkronos.com/sport/russell-gp-austria-f1-leclerc-hamilton_29oTohf1V2xK6KyHhH7cYK",
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/06/27/f1-russell-in-pole-in-austria-leclerc-in-prima-fila_3e95f21a-3a12-441e-86f5-1ce5e2cb48f9.html",
+        "https://www.ilmessaggero.it/sport/formula1/gp_austria_qualifiche_russell_leclerc_pole_bandiera_gialla_cosa_e_successo-9618250.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Terremoto in Venezuela, atterrato il primo aereo con squadre italiane",
       "source_count": 5,
-      "article_count": 15,
+      "article_count": 14,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -48,11 +71,12 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "MotoGp: Fernandez vince la sprint a Assen, quarto Bezzecchi",
-      "source_count": 6,
-      "article_count": 11,
+      "source_count": 7,
+      "article_count": 12,
       "source_domains": [
+        "repubblica.it",
         "ilgiornale.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
@@ -61,41 +85,20 @@
         "fanpage.it"
       ],
       "links": [
+        "https://www.repubblica.it/sport/moto-gp/2026/06/27/news/motogp_fernandez_ogura_sprint_assen_aprilia-425437610/",
         "https://www.ilgiornale.it/news/motori/motogp-aprilia-stellare-ad-assen-sprint-fernandez-pole-2685355.html",
         "https://www.adnkronos.com/sport/motogp-olanda-fernandez-vince-gara-sprint-assen-ordine-arrivo_7hVpbBb3I5xGXHPcMi0lJA",
         "https://www.ilfattoquotidiano.it/2026/06/27/motogp-sprint-gp-olanda-risultati-nuova-classifica/8432120/",
-        "https://www.ansa.it/sito/notizie/sport/moto/2026/06/27/motogp-fernandez-vince-la-sprint-a-assen-quarto-bezzecchi-_489723a3-deb1-4203-94a1-adf15c953e13.html",
-        "https://www.lastampa.it/sport/2026/06/27/news/motogp_sprint_gp_olanda_assen-15672992/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "L’Europa nella morsa del caldo, nel weekend più temuto l’Italia supera i 40 gradi",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/mondo/caldo_estremo_meta_citta_europa_record_caldo_oggi-9618021.html",
-        "https://www.adnkronos.com/cronaca/caldo-record-weekend-svolta-cambia-meteo-temperature-italia_7wbECsCRcJt6vQ2WVGDkJ2",
-        "https://www.lastampa.it/cronaca/2026/06/27/news/caldo_previsioni_week_end-15672725/",
-        "https://www.repubblica.it/cronaca/2026/06/27/news/ondata_calore_europa_week_end_40_gradi-425436695/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/26/in-francia-sale-a-55-bilancio-delle-persone-annegate-a-causa-del-caldo_e014b119-9d67-4393-a6a9-8d91a4d487dc.html"
+        "https://www.ansa.it/sito/notizie/sport/moto/2026/06/27/motogp-fernandez-vince-la-sprint-a-assen-quarto-bezzecchi-_489723a3-deb1-4203-94a1-adf15c953e13.html"
       ]
     },
     {
       "rank": 5,
       "title": "Firmato l’accordo Israele-Libano. Attacchi tra Usa e Iran. Teheran: “Violata la pace”",
-      "source_count": 6,
-      "article_count": 7,
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "ansa.it",
         "fanpage.it",
@@ -104,15 +107,97 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/48343754/medioriente-firmato-accordo-libano-israele/",
         "https://www.ilgiornale.it/news/politica/c-lintesa-libano-israele-torna-lincubo-hormuz-2685124.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/27/iran-vance-alla-violenza-si-risopnde-con-violenza-teheran-colpite-posizioni_d2e3a14a-2d8d-4e97-bd96-083f23a953a4.html",
         "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-27-giugno/",
-        "https://www.repubblica.it/esteri/2026/06/27/news/accordo_israele_libano_usa_rubio_hezbollah-425436623/",
         "https://www.repubblica.it/esteri/2026/06/27/diretta/guerra_iran_usa_israele_news_oggi-425436772/"
       ]
     },
     {
       "rank": 6,
+      "title": "L’Europa nella morsa del caldo, nel weekend più temuto l’Italia supera i 40 gradi",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/caldo-record-allarme-morti_1z9Nzr6i0h0rcuSWEwOhwc",
+        "https://www.ilmessaggero.it/mondo/caldo_estremo_meta_citta_europa_record_caldo_oggi-9618021.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/27/caldo-record-in-alto-adige-a-bolzano-la-notte-piu-rovente-dal-1956_23d79dd5-2d72-4b88-9cba-9df4297a4435.html",
+        "https://www.adnkronos.com/cronaca/caldo-record-weekend-svolta-cambia-meteo-temperature-italia_7wbECsCRcJt6vQ2WVGDkJ2",
+        "https://www.lastampa.it/cronaca/2026/06/27/news/caldo_previsioni_week_end-15672725/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Mondiali, dramma Iran: rigore sbagliato, gol annullato e traversa nel recupero",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/calcio/iran_mondiali_fuorigioco_furto_cosa_e_successo-9618231.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48343751/mondiali-2026-egitto-festa-storico-passaggio-ottavi-dopo-pari-con-iran/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/25/mondiali-si-chiude-il-girone-g-con-egitto-iran-e-nuova-zelanda-belgio-diretta_070a9243-e3e4-49ac-9112-d1c3c52532f6.html",
+        "https://www.adnkronos.com/sport/iran-derubato-mondiali-2026-gol-valido-fuorigioco_4UDNS3xOVzxuQcVNA6bCcU",
+        "https://www.adnkronos.com/sport/iran-mondiali-2026-egitto-rigore-sbagliato-gol-annullato-traversa_18wli6C1fOEBEuRUiwFfnW"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Terremoto in Venezuela, oltre 40mila dispersi: 920 morti. Tajani: “Tra le vittime 3 italo-venezuelani”",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "lastampa.it",
+        "fanpage.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.lastampa.it/esteri/2026/06/27/video/venezuela_terremoto_immagini_satellitari_danni-15672925/",
+        "https://www.fanpage.it/esteri/venezuela-nuova-scossa-di-magnitudo-4-9-nella-notte-920-morti-tra-loro-anche-la-siciliana-francesca-mannina/",
+        "https://www.ilfattoquotidiano.it/2026/06/27/terremoto-venezuela-morti-dispersi-notizie/8431839/",
+        "https://www.lastampa.it/esteri/2026/06/27/news/terremoto_venezuela_morti_italia-15672802/",
+        "https://www.repubblica.it/esteri/2026/06/27/diretta/venezuela_terremoto_morti_feriti_dispersi_italiani_soccorsi-425436817/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Loredana Bertè annulla il concerto: “Il caldo mette a rischio la mia salute”",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "fanpage.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/spettacoli/48344168/loredana-berte-unica-scelta-seria-responsabile-caldo-record-concerto-annullato/",
+        "https://www.ilgiornale.it/news/musica/loredana-bert-costretta-ad-annullare-concerto-mette-rischio-2685246.html",
+        "https://www.ilfattoquotidiano.it/2026/06/27/esibirmi-in-queste-condizioni-metterebbe-concretamente-a-rischio-la-mia-salute-loredana-berte-cancella-il-concerto-a-bergamo-per-il-caldo-torrido/8431889/",
+        "https://www.ilmessaggero.it/persone/loredana_berte_annulla_concerto_bergamo_perche_caldo_salute_rimborso_biglietti-9617853.html",
+        "https://www.adnkronos.com/spettacoli/berte-concerto-annulla-caldo-rischio_2ZtqWtWh14fotNTH5U4hUI"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Sinner, si avvicina l'esordio a Wimbledon: data, orario e dove vederlo in tv",
       "source_count": 5,
       "article_count": 7,
@@ -129,86 +214,6 @@
         "https://www.repubblica.it/sport/dossier/wimbledon/2026/06/27/news/sinner_preparazione_cambiamenti_non_ho_la_bacchetta_magica_wimbledon-425437413/",
         "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_wimbledon_orario_dove_vederla_tv_streaming-9618024.html",
         "https://www.adnkronos.com/sport/wimbledon-sinner-verso-esordio-kecmanovic-cambiamenti-preparazione-conferenza_3M5eVXeqqbiGTtB6iSyKC2"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Il caldo costa fino a 600 euro al mese a famiglia: come risparmiare",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/attualit/temperature-elevate-non-danno-tregua-e-ci-costano-fino-600-2685252.html",
-        "https://www.ilfattoquotidiano.it/2026/06/27/caldo-estremo-costi-fino-a-600-euro-al-mese-per-famiglia-pesano-condizionatori-consumo-di-acqua-prodotti-freschi-e-spostamenti/8431862/",
-        "https://www.ilmessaggero.it/economia/schede/blackout_caldo_rimborso_bolletta_luce_cosa_fare-9617892.html",
-        "https://www.lastampa.it/economia/2026/06/27/news/il_caldo_costa_fino_a_600_euro_al_mese_a_famiglia_come_risparmiare-15672799/",
-        "https://www.ilsole24ore.com/art/ecco-come-affrontare-caldo-senza-svuotare-portafogli-AIGcE8sD"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "L'afa ferma l'Europa. Stop al Pride a Parigi, Milano sposta l'orario",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/lafa-ferma-leuropa-stop-pride-parigi-milano-sposta-lorario-2685141.html",
-        "https://www.ilgiornale.it/news/attualit/milano-pride-cambia-orario-caldo-polemiche-e-defezioni-2685226.html",
-        "https://www.adnkronos.com/cronaca/milano-pride-oggi-partenza-posticipata-caldo-percorso_3uBOSkzUL9Ou7jpO3H8J54",
-        "https://www.repubblica.it/cronaca/2026/06/27/news/francia_caldo_strage_bambini_pride_annullato-425436534/",
-        "https://ilmanifesto.it/il-caldo-batte-anche-il-pride-parigi-brucia-e-non-si-spegne"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Gp Austria: Hamilton sfida le Mercedes per la pole",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "repubblica.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "fanpage.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/formulauno/2026/06/27/diretta/gp_austria_2026_qualifiche_pole-425437582/",
-        "https://www.lastampa.it/sport/2026/06/27/news/gp_austria_hamilton_sfida_le_mercedes_per_la_pole-15672909/",
-        "https://www.ilgiornale.it/news/motori/kimi-stupisce-ancora-ferrari-torna-preoccupare-2685230.html",
-        "https://www.fanpage.it/sport/live/formula-1-oggi-le-qualifiche-del-gp-austria-orari-tv8-e-sky-e-dove-vederle-in-diretta-e-streaming-ferrari-sfida-mercedes-per-la-pole/",
-        "https://www.adnkronos.com/sport/gp-austria-qualifiche-formula-1-oggi-orario-dove-vederle-tv-streaming_JXWEe6Qib6lBmOeefnyeq"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Volkswagen, 100 mila licenziamenti sul tavolo: dazi americani e sussidi cinesi dietro la crisi del modello di produzione",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "laverita.info",
-        "ilgiornale.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "unita.it"
-      ],
-      "links": [
-        "https://www.laverita.info/crisi-volkswagen-licenziamenti-transizione-auto-2677116803.html",
-        "https://www.ilgiornale.it/news/aziende/volkswagen-grave-crisi-taglia-centomila-occupati-2685165.html",
-        "https://ilmanifesto.it/centomila-licenziamenti-la-volkswagen-non-ce-piu",
-        "https://www.ilmessaggero.it/economia/news/volkswagen_cosa_c_e_dietro_licenziamenti-9616694.html",
-        "https://www.ilgiornale.it/news/aziende/volkswagen-prepara-maxi-ristrutturazione-fino-100mila-2684965.html"
       ]
     }
   ]
