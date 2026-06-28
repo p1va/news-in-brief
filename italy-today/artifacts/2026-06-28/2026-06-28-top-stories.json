@@ -1,12 +1,12 @@
 {
   "date": "2026-06-28",
-  "generated_at": "Sun 28 Jun 14:03",
+  "generated_at": "Sun 28 Jun 15:28",
   "stories": [
     {
       "rank": 1,
       "title": "Marito Roccella disperso nel lago di Vico, proseguono le ricerche di Luigi Cavallari",
-      "source_count": 11,
-      "article_count": 17,
+      "source_count": 10,
+      "article_count": 16,
       "source_domains": [
         "fanpage.it",
         "ilfattoquotidiano.it",
@@ -16,7 +16,6 @@
         "ansa.it",
         "ilmessaggero.it",
         "laverita.info",
-        "lastampa.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
@@ -73,6 +72,28 @@
     },
     {
       "rank": 4,
+      "title": "F1: in Austria vince Russell, terzo Antonelli e quinta la Ferrari di Hamilton",
+      "source_count": 7,
+      "article_count": 12,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "fanpage.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/06/28/f1-russell-gp-austria-risultati-nuova-classifica/8432715/",
+        "https://www.adnkronos.com/sport/gp-austria-russell-vince-accorcia-antonelli-ordine-arrivo-classifica-piloti_1FpIv6N2UzfkN950eHQkEM",
+        "https://www.ilgiornale.it/news/motori/f1-russell-vince-austria-antonelli-3-ferrari-poco-2685625.html",
+        "https://www.fanpage.it/sport/motori/russell-risorge-in-austria-regola-verstappen-e-kimi-antonelli-ferrari-dispersa-al-red-bull-ring/",
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/06/28/f1-austria-vince-russell-terzo-antonelli-e-quinta-la-ferrari-di-hamilton_0dd15e65-aedc-46fd-be2d-3d78fa77c5b0.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Hormuz, droni iraniani in azione, gli Usa rispondono e Teheran attacca Bahrein e Kuwait",
       "source_count": 7,
       "article_count": 9,
@@ -94,7 +115,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Aereo da turismo precipita in Francia, undici morti",
       "source_count": 8,
       "article_count": 8,
@@ -117,10 +138,10 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Famiglia sterminata a Roma, è caccia al killer in fuga",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
         "adnkronos.com",
         "roma.repubblica.it",
@@ -138,10 +159,31 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Fondi pensione, dal 1 luglio nuove regole per i lavoratori privati: iscrizione automatica per i neoassunti",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "fanpage.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.fanpage.it/politica/fondi-pensione-dal-1-luglio-nuove-regole-per-i-lavoratori-privati-iscrizione-automatica-per-i-neoassunti/",
+        "https://www.ansa.it/sito/notizie/economia/2026/06/28/dal-1-luglio-nuove-regole-dei-fondi-pensione-adesione-automatica-per_ad74aee0-8136-4151-85c8-3810a46e7317.html",
+        "https://www.liberoquotidiano.it/news/economia/48350261/-adesione-automatica-pensioni-dall-1-luglio-cambia-tutto/",
+        "https://www.lastampa.it/economia/2026/06/28/news/fondi_pensione_dal_primo_luglio_scattano_le_nuove_regole_cosa_cambia_per_i_lavoratori-15673759/",
+        "https://www.repubblica.it/economia/2026/06/28/news/fondi_pensione_cosa_cambia_dal_primo_luglio_adesione_automatica_e_60_giorni_per_dire_no-425437818/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Sisma in Venezuela, 11enne ritrovato vivo dopo tre giorni",
       "source_count": 5,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ansa.it",
@@ -158,62 +200,24 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "F1, doccia gelata Ferrari in Austria. Russell scippa la pole a Leclerc, Hamilton 3°",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "fanpage.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/formula1/gp_austria_formula_1_diretta_russell_antonelli_leclerc_hamilton-9619874.html",
-        "https://www.adnkronos.com/sport/f1-gp-austria-ferrari-hamilton-leclerc-antonelli-mercedes_5Laq1qzofvzoAKGCLuKZB4",
-        "https://www.ilmessaggero.it/blog/milleruote/ferrari_laclerc_e_hamilton_beffati_da_russell_che_prende_la_pole_george_rispetta_le_regole_della_bandiera_gialla-9619679.html",
-        "https://www.ilgiornale.it/news/motori/russell-pole-giallo-finale-beffate-ferrari-2685539.html",
-        "https://www.adnkronos.com/sport/gp-austria-oggi-formula-1-orario-griglia-partenza-dove-vedere-gara-tv-streaming_2IxMCVqGK4qJAG9M7TpqKG"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Mondiali, oggi al via i sedicesimi: il programma e dove vedere le partite",
-      "source_count": 4,
+      "rank": 10,
+      "title": "Salvini ai giovani della Lega: “Resto in sella. Guiderò la campagna elettorale con Zaia e Fedriga al fianco”",
+      "source_count": 6,
       "article_count": 6,
       "source_domains": [
-        "ansa.it",
-        "fanpage.it",
-        "ilmessaggero.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/28/mondiali-ecco-i-sedicesimi-al-via-stasera-con-sudafrica-canada_f42febfa-22ae-44fa-a699-b860fe8e3538.html",
-        "https://www.fanpage.it/sport/calcio/mondiali-2026-programma-e-orari-dei-sedicesimi-quasi-tutte-le-partite-saranno-in-chiaro-in-tv/",
-        "https://www.ilmessaggero.it/sport/schede/mondiali_2026_programma_sedicesimi_ottavi_quarti_argentina_brasile_francia_spagna_incroci-9619598.html",
-        "https://www.adnkronos.com/sport/mondiali-canada-sudafrica-jesse-marsch_2CZR8ISBX0neiR5ITaWd5A",
-        "https://www.fanpage.it/sport/calcio/mondiali-2026-le-partite-di-oggi-in-tv-e-gli-orari-su-rai-e-dazn-canada-sudafrica-vale-un-posto-agli-ottavi/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Arabia Saudita, precipita elicottero Saudi Aramco: 14 morti",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "fanpage.it",
         "adnkronos.com",
         "ansa.it",
-        "repubblica.it"
+        "lastampa.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/06/28/saudi-aramco-elicottero-precipita/8432920/",
-        "https://www.fanpage.it/esteri/cade-elicottero-della-compagnia-petrolifera-saudi-aramco-14-persone-morte-nello-schianto-a-ras-tanura/",
-        "https://www.adnkronos.com/internazionale/esteri/arabia-saudita-precipita-elicottero-saudi-aramco-14-morti_110cRJQXUQNtgrT2NYyroQ",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/28/precipita-un-elicottero-di-aramco-in-arabia-saudita-14-morti_5a4715b8-160b-4259-afcf-626213055080.html",
-        "https://www.repubblica.it/esteri/2026/06/28/news/arabia_saudita_precipita_un_elicottero_14_morti-425439011/"
+        "https://www.adnkronos.com/politica/salvini-nexus-vannacci-elezioni_5kvPDPxsmUmylbRKlRGIwK",
+        "https://www.ansa.it/sito/notizie/politica/2026/06/28/salvini-arriveremo-al-voto-con-questa-alleanza-con-vannacci-a-oggi-no_aec4418e-f244-4195-9b24-0b6b4ba6c562.html",
+        "https://www.lastampa.it/politica/2026/06/28/news/salvini_giovani_lega_zaia_e_fedriga-15673904/",
+        "https://www.ilgiornale.it/news/interni/salvini-guider-campagna-elettorale-zaia-e-fedriga-2685599.html",
+        "https://www.repubblica.it/politica/2026/06/28/news/salvini_vannacci_zaia_fedriga_lega_elezioni-425438967/"
       ]
     }
   ]
