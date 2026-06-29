@@ -1,9 +1,53 @@
 {
   "date": "2026-06-29",
-  "generated_at": "Mon 29 Jun 16:00",
+  "generated_at": "Mon 29 Jun 18:16",
   "stories": [
     {
       "rank": 1,
+      "title": "Wimbledon, Sinner fatica e perde sangue dal piede ma batte Kecmanovic al quinto set",
+      "source_count": 8,
+      "article_count": 18,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "fanpage.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/06/29/wimbledon-sinner-avanti-col-brivido-kecmanovic-ko-al-quinto-set_0cdcc658-a06c-4f0e-a490-16cb9dea9780.html",
+        "https://www.ilfattoquotidiano.it/2026/06/29/sinner-wimbledon-esordio-dichiarazioni-la-rivelazione-di-sinner-allinizio-ero-molto-teso-cera-nervosismo-non-era-una-partita-come-le-altre/8433999/",
+        "https://www.adnkronos.com/sport/wimbledon-sinner-dopo-vittoria-kecmanovic-match-difficile-spiega-infortunio_7CnQ94z4OqMt7sL7bZeXOW",
+        "https://www.fanpage.it/sport/tennis/sinner-finisce-insanguinato-la-battaglia-con-kecmanovic-a-wimbledon-sembra-molto-peggio-di-quel-che-e/",
+        "https://www.ilmessaggero.it/sport/tennis/sinner_oggi_wimbledon_kecmanovic_risultato_cosa_e_successo_caduta_sangue_statistiche_prossimo_avversario-9621735.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Sisma Venezuela, si continua a scavare tra le macerie. Ancora 50 mila dispersi",
+      "source_count": 6,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "fanpage.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/06/29/terremoto-in-venezuela-spenta-la-speranza-a-macuto-nessun-segnale-di-vita-da-mamma-e-figli_5209348c-92bb-4835-ab57-10f4053ff59f.html",
+        "https://www.ansa.it/sito/podcast/in_diretta_dal_mondo/2026/06/29/nellapocalisse-di-la-guaira-la-citta-inghiottita-dal-sisma_d09b8c0d-e7dd-4e6d-9661-0273654108db.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48361784/squadre-di-soccorso-usa-salvano-neonato-tra-le-macerie-in-venezuela/",
+        "https://www.fanpage.it/esteri/venezuela-nuova-scossa-di-magnitudo-5-1-fa-tremare-la-guaira-ancora-paura-dopo-i-due-terremoti-devastanti/",
+        "https://www.lastampa.it/esteri/2026/06/29/news/terremoto_venezuela_nuova_scossa-15674674/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Germania, violenta sparatoria oggi a Stade: almeno 6 morti e diversi feriti, fermate due persone",
       "source_count": 8,
       "article_count": 9,
@@ -26,7 +70,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "Patente sospesa per un anno al parlamentare Pozzolo dopo l'incidente a giugno",
       "source_count": 8,
       "article_count": 8,
@@ -49,51 +93,32 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Caldo estremo sull'Italia, oggi sono 22 le città da bollino rosso: domani salgono a 25",
-      "source_count": 7,
+      "rank": 5,
+      "title": "Kate scala le vette più alte della Gran Bretagna. La sfida per «raccogliere fondi contro il cancro»",
+      "source_count": 8,
       "article_count": 8,
       "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/29/morti-due-anziani-per-il-caldo-a-genova.-aumentano-le-citta-con-bollino_89ba49aa-35cc-4cc1-af4c-45035c6c4e0e.html",
-        "https://www.ilfattoquotidiano.it/2026/06/29/ondata-calore-bollino-rosso-temporali-grandine-notizie/8433497/",
-        "https://www.adnkronos.com/cronaca/caldo-estremo-italia-bollini-rossi_5WVF2PgDfsv9IqCFGNbmEX",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/29/londata-di-calore-sta-per-lasciare-litalia-in-arrivo-forti-temporali_89ba49aa-35cc-4cc1-af4c-45035c6c4e0e.html",
-        "https://www.repubblica.it/cronaca/2026/06/29/diretta/caldo_record_oggi_meteo_italia_oggi-425439865/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Wimbledon, Sinner riparte da Kecmanovic: chi è l’avversario e quando giocano",
-      "source_count": 5,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
+        "liberoquotidiano.it",
+        "unita.it",
         "fanpage.it",
-        "ilgiornale.it",
-        "ilmessaggero.it"
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/06/29/wimbledon-in-campo-sinner-kecmanovic-4-6-6-3-6-7-6-2-2-2_0cdcc658-a06c-4f0e-a490-16cb9dea9780.html",
-        "https://www.adnkronos.com/sport/diretta-darderi-quinn-oggi-primo-turno-wimbledon-live-risultato_5ByAaeyrcmFBbJqCNJM3Iu",
-        "https://www.adnkronos.com/sport/sinner-wimbledon-2026-paura-caduta-choc-infortunio-come-sta-cose-successo_3tHa61Zl19CBkI5aQZMfJ9",
-        "https://www.adnkronos.com/sport/sinner-wimbledon-2026-show-tifosi-kecmanovic_2VBl1e8ojgXOZ5JIUVxStl",
-        "https://www.adnkronos.com/sport/sinner-futuro-tennis-ritiro-formula-1-alcol_7yeLIHnbyZKb8fw5hb004P"
+        "https://www.liberoquotidiano.it/news/tv-news/48364293/la-principessa-kate-sulle-vette-inglesi-per-sensibilizzare-sul-cancro/",
+        "https://www.unita.it/2026/06/29/kate-scala-vette-britanniche-alte-contro-cancro-three-peaks-challenge-principessa-sfida-sensibilizzare/",
+        "https://www.fanpage.it/stile-e-trend/viaggi/come-funziona-il-three-peak-challange-di-kate-middleton-bisogna-scalare-tre-montagne-in-24-ore/",
+        "https://www.adnkronos.com/internazionale/royalfamilynews/kate-middleton-lotta-cancro-come-sta-re-carlo_mcoTBGtu7bIbIOM1rA1p0",
+        "https://www.ilfattoquotidiano.it/2026/06/29/il-cancro-non-colpisce-solo-il-corpo-cambia-tutta-la-vita-durante-e-dopo-le-cure-non-basta-la-sola-medicina-kate-middleton-scala-da-sola-in-24-ore-le-vette-piu-alte-della-gran-bretagna-e/8433341/"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Verifiche in un rimessaggio per barche al lago di Vico, ancora disperso il marito della ministra Roccella",
-      "source_count": 7,
+      "source_count": 6,
       "article_count": 8,
       "source_domains": [
         "ansa.it",
@@ -101,7 +126,6 @@
         "repubblica.it",
         "unita.it",
         "ilgiornale.it",
-        "liberoquotidiano.it",
         "agi.it"
       ],
       "links": [
@@ -113,106 +137,82 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Sisma Venezuela, si continua a scavare tra le macerie. Ancora 50 mila dispersi",
-      "source_count": 5,
-      "article_count": 10,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "fanpage.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48361784/squadre-di-soccorso-usa-salvano-neonato-tra-le-macerie-in-venezuela/",
-        "https://www.fanpage.it/esteri/venezuela-nuova-scossa-di-magnitudo-5-1-fa-tremare-la-guaira-ancora-paura-dopo-i-due-terremoti-devastanti/",
-        "https://www.lastampa.it/esteri/2026/06/29/news/terremoto_venezuela_nuova_scossa-15674674/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/vigile-fuoco-italiano-venezuela-corsa-contro-tempo-2685964.html",
-        "https://www.liberoquotidiano.it/news/pillole/48359003/sisma_venezuela_si_continua_a_scavare_tra_le_macerie_ancora_50_mila_dispersi/"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "Kate scala le vette più alte della Gran Bretagna. La sfida per «raccogliere fondi contro il cancro»",
-      "source_count": 7,
+      "title": "Caldo estremo sull'Italia, oggi sono 22 le città da bollino rosso: domani salgono a 25",
+      "source_count": 6,
       "article_count": 7,
       "source_domains": [
-        "unita.it",
-        "fanpage.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
         "ansa.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.unita.it/2026/06/29/kate-scala-vette-britanniche-alte-contro-cancro-three-peaks-challenge-principessa-sfida-sensibilizzare/",
-        "https://www.fanpage.it/stile-e-trend/viaggi/come-funziona-il-three-peak-challange-di-kate-middleton-bisogna-scalare-tre-montagne-in-24-ore/",
-        "https://www.adnkronos.com/internazionale/royalfamilynews/kate-middleton-lotta-cancro-come-sta-re-carlo_mcoTBGtu7bIbIOM1rA1p0",
-        "https://www.ilfattoquotidiano.it/2026/06/29/il-cancro-non-colpisce-solo-il-corpo-cambia-tutta-la-vita-durante-e-dopo-le-cure-non-basta-la-sola-medicina-kate-middleton-scala-da-sola-in-24-ore-le-vette-piu-alte-della-gran-bretagna-e/8433341/",
-        "https://www.ilmessaggero.it/persone/kate_scala_montagne_contro_cancro-9621313.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/29/morti-due-anziani-per-il-caldo-a-genova.-aumentano-le-citta-con-bollino_89ba49aa-35cc-4cc1-af4c-45035c6c4e0e.html",
+        "https://www.ilfattoquotidiano.it/2026/06/29/ondata-calore-bollino-rosso-temporali-grandine-notizie/8433497/",
+        "https://www.adnkronos.com/cronaca/caldo-estremo-italia-bollini-rossi_5WVF2PgDfsv9IqCFGNbmEX",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/29/londata-di-calore-sta-per-lasciare-litalia-in-arrivo-forti-temporali_89ba49aa-35cc-4cc1-af4c-45035c6c4e0e.html",
+        "https://www.repubblica.it/cronaca/2026/06/29/diretta/caldo_record_oggi_meteo_italia_oggi-425439865/"
       ]
     },
     {
       "rank": 8,
-      "title": "Trump: “L’Iran ha chiesto un incontro, sarà domani a Doha”",
+      "title": "Giappone-Brasile alle 19, Holly e Benji 40 anni fa: quando la realtà conferma le fantasie",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
-        "fanpage.it",
         "ansa.it",
+        "adnkronos.com",
         "ilgiornale.it",
+        "fanpage.it",
         "repubblica.it",
-        "lastampa.it",
-        "liberoquotidiano.it"
+        "lastampa.it"
       ],
       "links": [
-        "https://www.fanpage.it/live/iran-news-guerra-usa-israele-diretta-live-29-giugno/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/29/medio-oriente-usa-iran-stop-agli-attacchi-martedi-incontro-a-doha_eb2964ce-aad0-445b-ac90-31aa258d803b.html",
-        "https://www.ilgiornale.it/news/politica/attacchi-e-minacce-usa-e-iran-ora-su-hormuz-risale-tensione-2685663.html",
-        "https://www.repubblica.it/esteri/2026/06/29/diretta/guerra_iran_usa_israele_news_oggi-425439628/",
-        "https://www.lastampa.it/esteri/2026/06/29/diretta/guerra_iran_usa_israele_news_oggi-15674309/"
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/29/mondiali-brasile-giappone-nellentusiasmo-dei-tifosi_cb37ac45-8129-4380-9c02-8fd617de045e.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/28/mondiali-brasile-giappone-in-campo-lunedi-alle-19-diretta_65f943a9-005f-47a4-9651-780fcb638615.html",
+        "https://www.adnkronos.com/sport/diretta-brasile-giappone-oggi-sedicesimi-mondiali-live-risultato-aggiornamenti_4aFoQ1cshTCbokEAv7Yfn4",
+        "https://www.ilgiornale.it/news/calcio/brasile-giappone-holly-e-benji-aveva-predetto-profezia-2686100.html",
+        "https://www.fanpage.it/sport/calcio/brasile-giappone-ai-mondiali-holly-e-benji-aveva-previsto-tutto-come-e-finita-nel-cartone-animato/"
       ]
     },
     {
       "rank": 9,
-      "title": "Terremoto Venezuela, trovati i corpi della famiglia Cuomo. I nonni erano morti nel sisma in Irpinia del 1980",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Fancy Food, Cinelli \"Negli Usa nuovo slancio per il Made in Italy\"",
+      "source_count": 1,
+      "article_count": 11,
       "source_domains": [
-        "ansa.it",
-        "unita.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/06/29/venezuela-si-scava-ancora-per-salvare-la-donna-con-i-due-figli_5209348c-92bb-4835-ab57-10f4053ff59f.html",
-        "https://www.unita.it/2026/06/29/vittime-italiane-terremoto-venezuela-famiglia-cuomo/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/trovati-morti-enzo-trini-e-isabella-cuomo-i-nonni-morirono-2685813.html",
-        "https://www.ilmessaggero.it/mondo/terremoto_venezuela_famiglia_cuomo_morti_nonni_ultime_notizie-9621214.html",
-        "https://www.lastampa.it/esteri/2026/06/29/news/sisma_venezuela_irpinia_dramma_famiglia-15674434/"
+        "https://www.liberoquotidiano.it/news/tv-news/48365654/cirio-contro-l-italian-sounding-qualita-e-piu-tutele-europee/",
+        "https://www.liberoquotidiano.it/news/tv-news/48364667/cirio-export-food-piemontese-verso-usa-puntiamo-al-miliardo/",
+        "https://www.liberoquotidiano.it/news/tv-news/48364001/nasce-la-nazionale-vini-italiana-con-coldiretti-a-new-york/",
+        "https://www.liberoquotidiano.it/news/pillole/48361849/nuova_fiera_del_levante_al_fancy_food_di_new_york_focus_sui_mercati_esteri/",
+        "https://www.liberoquotidiano.it/news/pillole/48360016/summer_fancy_food_show_300_aziende_italiane_a_new_york/"
       ]
     },
     {
       "rank": 10,
-      "title": "Muore investita a 15 anni, arrestato motociclista di 20 anni. I testimoni: \"Stava impennando\"",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Trump perde il ricorso alla Corte Suprema: confermata condanna per abuso sessuale alla scrittrice E. Jean Carroll",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
-        "unita.it",
-        "ansa.it",
-        "ilgiornale.it",
         "fanpage.it",
-        "liberoquotidiano.it"
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.unita.it/2026/06/29/incidenti-mortali-muoiono-tragedie-calabria-sicilia/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/29/una-15enne-e-morta-dopo-essere-stata-investita-arrestato-il-motociclista_dd819795-b165-45cd-a5ff-c9d6386d6fae.html",
-        "https://www.ilgiornale.it/news/cronaca-nera/15nne-morta-essere-stata-investita-arrestato-motociclista-2685778.html",
-        "https://www.fanpage.it/attualita/messina-giulia-investita-e-uccisa-a-15-anni-da-una-moto-arrestato-20enne-alla-guida-stava-impennando/",
-        "https://www.liberoquotidiano.it/news/italia/48357008/messina-uccide-moto-giulia-scimone-arrestato-20enne/"
+        "https://www.fanpage.it/esteri/trump-perde-il-ricorso-alla-corte-suprema-confermata-condanna-per-abuso-sessuale-alla-scrittrice-e-jean-carroll/",
+        "https://www.adnkronos.com/internazionale/esteri/corte-suprema-trump-lisa-cook-jean-carroll-voto-posta_69SgVcB6A4YRp0NSNahmOm",
+        "https://www.ilfattoquotidiano.it/2026/06/29/trump-carroll-abusi-sessuali-notizie/8433819/",
+        "https://www.ilgiornale.it/news/politica-estera/corte-suprema-chiude-porta-trump-resta-condanna-nel-caso-e-2686109.html",
+        "https://www.repubblica.it/esteri/2026/06/29/news/trump_jean_carroll_violenza_sessuale_corte_suprema-425440588/"
       ]
     }
   ]
