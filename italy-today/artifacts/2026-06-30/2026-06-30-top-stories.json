@@ -1,26 +1,27 @@
 {
   "date": "2026-06-30",
-  "generated_at": "Tue 30 Jun 21:04",
+  "generated_at": "Tue 30 Jun 22:24",
   "stories": [
     {
       "rank": 1,
       "title": "Esplosione scuote il principato di Monaco, atto doloso. Tre feriti, grave l'oligarca ucraino Ermolaev",
-      "source_count": 9,
-      "article_count": 19,
+      "source_count": 10,
+      "article_count": 18,
       "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
-        "ilgiornale.it",
         "liberoquotidiano.it",
         "unita.it",
         "adnkronos.com",
         "fanpage.it",
         "lastampa.it",
+        "ilgiornale.it",
         "repubblica.it",
         "news.google.com"
       ],
       "links": [
+        "https://ilmanifesto.it/la-prima-bomba-a-montecarlo-colpito-un-oligarca-ucraino",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/30/caccia-al-killer-del-principato-voleva-uccidere-il-magnate-di-kiev_65894a4e-b6c5-44ab-a941-5c9395dfae2d.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/battaglione-monaco-l-lite-ucraina-riviera-che-kiev-non-2686505.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/06/30/il-procuratore-del-principato-di-monaco-si-indaga-per-omicidio-escluso-il-terrorismo_65894a4e-b6c5-44ab-a941-5c9395dfae2d.html",
         "https://www.ansa.it/sito/notizie/mondo/europa/2026/06/30/forte-esplosione-scuote-monaco-atto-doloso.-tre-feriti-nel-mirino_bf6ff65a-b141-4d50-b291-217a6af6412f.html",
         "https://www.liberoquotidiano.it/news/libero-video/48371266/attentato-principato-monaco-grave-oligarca-ucraino-luogo-attacco/"
@@ -53,9 +54,10 @@
     {
       "rank": 3,
       "title": "Quattro arresti per l'attentato a Sigfrido Ranucci, il blitz dei Carabinieri",
-      "source_count": 8,
-      "article_count": 13,
+      "source_count": 9,
+      "article_count": 14,
       "source_domains": [
+        "ilmanifesto.it",
         "liberoquotidiano.it",
         "fanpage.it",
         "ansa.it",
@@ -66,15 +68,64 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://ilmanifesto.it/quattro-arresti-per-la-bomba-a-casa-ranucci-i-pm-agivano-su-commissione",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48377943/quattro-arresti-per-l-attentato-a-sigfrido-ranucci-il-blitz-dei-carabinieri/",
         "https://www.fanpage.it/roma/a-corrado-non-devono-arrivare-caccia-ai-mandanti-dellattentato-a-ranucci-volevano-far-fuggire-gli-arrestati/",
         "https://www.ansa.it/sito/videogallery/italia/2026/06/30/attentato-a-ranucci-le-immagini-del-doppio-blitz_3475a48f-a35d-493f-8248-3a0b6d52955f.html",
-        "https://www.adnkronos.com/cronaca/attentato-ranucci-chi-sono-arrestati_3NpU54A3570NQoMtxap02e",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/30/attentato-dinamitardo-contro-sigfrido-ranucci-4-arresti-_9af24c92-35bc-4cbb-8c10-3d7e3229c017.html"
+        "https://www.adnkronos.com/cronaca/attentato-ranucci-chi-sono-arrestati_3NpU54A3570NQoMtxap02e"
       ]
     },
     {
       "rank": 4,
+      "title": "Appello di Leone XIV ai Lefebvriani: “Tornate sui vostri passi, scisma di estrema gravità”",
+      "source_count": 9,
+      "article_count": 11,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "unita.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/lefebvriani-appello-del-papa-per-evitare-lonta-dello-scisma",
+        "https://www.ansa.it/vaticano/notizie/2026/06/30/lappello-di-leone-ai-lefebvriani-vi-prego-tornate-indietro_cd4871ea-85d7-49a2-bdb8-027d3fc26832.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48374899/papa-lefebvriani-tornate-vostri-passi-no-scisma/",
+        "https://www.unita.it/2026/06/30/chi-sono-lefebvriani-appello-papa-leone-vescovi-scisma/",
+        "https://www.ansa.it/vaticano/notizie/2026/06/30/il-papa-ai-lefebvriani-vi-prego-con-il-cuore-tornate-indietro_cd4871ea-85d7-49a2-bdb8-027d3fc26832.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "La Corte Suprema boccia Trump, resta lo ius soli automatico",
+      "source_count": 10,
+      "article_count": 10,
+      "source_domains": [
+        "ilmanifesto.it",
+        "fanpage.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/nessun-presidente-potra-piu-attaccare-lo-ius-soli",
+        "https://www.fanpage.it/esteri/corte-suprema-usa-boccia-trump-sullo-ius-soli-chi-nasce-in-usa-e-cittadino-anche-se-genitori-sono-irregolari/",
+        "https://www.liberoquotidiano.it/news/esteri/48376970/trump-corte-suprema-boccia-tentativo-abolire-ius-soli/",
+        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/06/30/la-corte-suprema-usa-contro-trump-mantiene-lo-ius-soli_641c77aa-2203-425b-aff2-616d7232dfb9.html",
+        "https://www.unita.it/2026/06/30/ius-soli-corte-suprema-boccia-limitazioni-trump/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Inter, Bastoni indagato per prostituzione minorile: il giocatore coinvolto nell’inchiesta escort. Sentiti altri tre calciatori",
       "source_count": 9,
       "article_count": 11,
@@ -98,65 +149,19 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "L'ultimo appello di Papa Leone ai lefebvriani: «Non ordinate i vescovi o sarà scisma. Vi prego, ​tornate sui vostri passi»",
+      "rank": 7,
+      "title": "Chiede una pizza gratis e il pizzaiolo si rifiuta: Raffaele Stipa ucciso a coltellate, arrestato un uomo nella notte",
       "source_count": 8,
       "article_count": 10,
       "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "unita.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/vaticano/notizie/2026/06/30/lappello-di-leone-ai-lefebvriani-vi-prego-tornate-indietro_cd4871ea-85d7-49a2-bdb8-027d3fc26832.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48374899/papa-lefebvriani-tornate-vostri-passi-no-scisma/",
-        "https://www.unita.it/2026/06/30/chi-sono-lefebvriani-appello-papa-leone-vescovi-scisma/",
-        "https://www.ansa.it/vaticano/notizie/2026/06/30/il-papa-ai-lefebvriani-vi-prego-con-il-cuore-tornate-indietro_cd4871ea-85d7-49a2-bdb8-027d3fc26832.html",
-        "https://www.ilgiornale.it/news/vaticano/papa-ai-lefebvriani-vi-prego-cuore-tornate-indietro-2686373.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "La Corte Suprema boccia Trump, resta lo ius soli automatico",
-      "source_count": 9,
-      "article_count": 9,
-      "source_domains": [
-        "fanpage.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "unita.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.fanpage.it/esteri/corte-suprema-usa-boccia-trump-sullo-ius-soli-chi-nasce-in-usa-e-cittadino-anche-se-genitori-sono-irregolari/",
-        "https://www.liberoquotidiano.it/news/esteri/48376970/trump-corte-suprema-boccia-tentativo-abolire-ius-soli/",
-        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/06/30/la-corte-suprema-usa-contro-trump-mantiene-lo-ius-soli_641c77aa-2203-425b-aff2-616d7232dfb9.html",
-        "https://www.unita.it/2026/06/30/ius-soli-corte-suprema-boccia-limitazioni-trump/",
-        "https://www.ilfattoquotidiano.it/2026/06/30/ius-soli-corte-suprema-trump-ordine-esecutivo-notizie/8435024/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Pizzaiolo ucciso a coltellate a Reggio Emilia da un cliente, arrestato",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
         "fanpage.it",
         "ilmessaggero.it",
         "ansa.it",
         "unita.it",
         "ilgiornale.it",
+        "liberoquotidiano.it",
         "bologna.repubblica.it",
-        "lastampa.it"
+        "agi.it"
       ],
       "links": [
         "https://www.fanpage.it/attualita/chi-e-luomo-arrestato-per-lomicidio-stipa-a-reggio-emilia-si-chiama-andrea-pellati-ed-e-un-pluripregiudicato/",
@@ -168,6 +173,25 @@
     },
     {
       "rank": 8,
+      "title": "Wimbledo: in campo Wawrinka-Berrettini 1-2 DIRETTA SET Sonego batte Etcheverry in quattro set",
+      "source_count": 4,
+      "article_count": 11,
+      "source_domains": [
+        "repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/dossier/wimbledon/2026/07/01/news/berrettini_wawrinka_wimbledon_grant_serena_paolini_cobolli-425443519/",
+        "https://www.adnkronos.com/sport/cobolli-navone-sospesa-furia-angolo-wimbledon-2026-quando-riprende-partita_6JJpzFze74dQN4Fz3R4hWy",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/06/30/wimbledo-in-campo-wawrinka-berrettini-1-2-diretta-set-sonego-batte-etcheverry-in-quattro_35e57596-e8bd-4b82-bbb1-52bbef853803.html",
+        "https://www.ilmessaggero.it/sport/tennis/cobolli_wimbledon_sospesa_quando_gioca_ranking_atp-9623997.html",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/06/30/wimbledon-sonego-batte-etcheverry-in-quattro-set.-wawrinka-berrettini-1-0-diretta_35e57596-e8bd-4b82-bbb1-52bbef853803.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Napoli, rissa e spari in piazza Montesanto: sequestrato kalashnikov, tre fermi tra cui una donna",
       "source_count": 6,
       "article_count": 9,
@@ -188,47 +212,25 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Germania e Olanda, cosa c'è dietro la crisi Mondiale? Nagelsmann rischia (e c'è l'ombra di Klopp), Koeman delude",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "fanpage.it",
-        "repubblica.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/06/30/mondiali-2026-germania-olanda-eliminazione-rigori-paraguay-marocco-poveri-ricchi-arroganza-nordica/8434972/",
-        "https://www.fanpage.it/sport/calcio/nagelsmann-in-profondo-imbarazzo-nellintervista-tv-dopo-la-sconfitta-della-germania-io-non-scappo/",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/06/30/news/germania_eliminata_stampa_cancelliere_merz-425442101/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/06/30/mondiali-aereo-in-ritardo-e-volti-cupi-il-rientro-triste-della-germania_a7d75231-d478-415d-a8ae-c8119cccb39a.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48371263/mondiali-2026-corea-del-sud-torna-casa-insulti-ex-ct-squadra/"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Carmelo Cinturrino è stato destituito dalla Polizia: uccise il pusher a Rogoredo",
+      "title": "Bracciante muore nei campi del Mantovano, ipotesi malore per il caldo",
       "source_count": 7,
       "article_count": 7,
       "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "fanpage.it",
+        "ilmanifesto.it",
+        "adnkronos.com",
         "ansa.it",
-        "ilmessaggero.it",
+        "fanpage.it",
+        "milano.repubblica.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/nazionale/carmelo-cinturrino-stato-destituito-polizia-uccise-pusher-2686495.html",
-        "https://www.ilfattoquotidiano.it/2026/06/30/omicidio-rogoredo-cinturrino-destituito-notizie/8434633/",
-        "https://www.fanpage.it/milano/omicidio-rogoredo-lagente-carmelo-cinturrino-e-stato-espulso-dalla-polizia/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/06/30/carmelo-cinturrino-destituito-dalla-polizia-di-stato_0d8a8b97-7d7b-4850-87cb-b8355e2dce5e.html",
-        "https://www.ilmessaggero.it/italia/carmelo_cinturrino_licenziato_polizia_oggi-9623367.html"
+        "https://ilmanifesto.it/la-raccolta-nelle-campagne-miete-nuove-vittime-per-la-ministra-calderone-va-tutto-bene",
+        "https://www.adnkronos.com/cronaca/operaio-morto-mantovano-caldo-estremo_2Jccdwa9B93nBhiVtyuPXl",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/06/30/nella-morsa-del-caldo-25-citta-bollino-rosso.-bracciante-muore-nei_bdc98c69-5fb9-44e4-a152-d05f7f5d071e.html",
+        "https://www.fanpage.it/milano/un-bracciante-e-morto-nei-campi-di-angurie-del-mantovano-lipotesi-malore-per-il-caldo/",
+        "https://milano.repubblica.it/cronaca/2026/06/30/news/mantova_caldo_bracciante_malore_campi_angurie-425441615/"
       ]
     }
   ]
