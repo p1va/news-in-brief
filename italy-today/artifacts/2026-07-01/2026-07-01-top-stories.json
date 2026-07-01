@@ -1,17 +1,17 @@
 {
   "date": "2026-07-01",
-  "generated_at": "Wed 01 Jul 20:53",
+  "generated_at": "Wed 01 Jul 22:25",
   "stories": [
     {
       "rank": 1,
       "title": "Sfida a Leone, i lefebvriani ordinano 4 vescovi senza il permesso del Papa",
       "source_count": 11,
-      "article_count": 22,
+      "article_count": 19,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "repubblica.it",
         "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilgiornale.it",
         "unita.it",
         "ilfattoquotidiano.it",
         "ansa.it",
@@ -21,8 +21,8 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilmessaggero.it/vaticano/i_vescovi_ribelli-9626193.html",
         "https://www.liberoquotidiano.it/news/tv-news/48393313/a-econe-la-cerimonia-di-consacrazione-dei-4-nuovi-vescovi-lefebvriani/",
-        "https://www.ilgiornale.it/news/vaticano/cos-scomunica-pena-pi-grave-nella-vita-chiesa-2687230.html",
         "https://www.repubblica.it/cronaca/2026/07/01/news/econe_scomunica_scisma_vescovi_lefebvriani-425444682/",
         "https://www.liberoquotidiano.it/news/tv-news/48390360/i-lefebvriani-consacrano-nuovi-vescovi-in-svizzera-e-scisma/",
         "https://www.liberoquotidiano.it/news/libero-video/48387337/lefebvriani-consacrano-4-vescovi-celebrazione-svizzera/"
@@ -125,28 +125,6 @@
     },
     {
       "rank": 6,
-      "title": "Inchiesta escort, legale di Bastoni: \"Escludo rapporti a pagamento con minorenne\"",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "ilmessaggero.it",
-        "milano.repubblica.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/calcio/bastoni_prostituzione_chi_e_ragazza_17_anni_cosa_ha_detto-9625986.html",
-        "https://milano.repubblica.it/cronaca/2026/07/01/news/bastoni_indagato_ragazza_pm_non_ho_preso_soldi_non_sono_escort-425444598/",
-        "https://www.ilfattoquotidiano.it/2026/07/01/bastoni-indagato-parla-ragazza-non-sono-prostituta-non-ho-preso-soldi-venerdi-interrogatorio-notizie-oggi/8435741/",
-        "https://www.ansa.it/sito/notizie/sport/2026/07/01/il-legale-di-bastoni-escludo-categoricamente-abbia-avuto-rapporti-a-pagamento_84a49b4b-7a58-4ede-82d6-33f17900f7f1.html",
-        "https://www.ilmessaggero.it/persone/bastoni_prostituzione_minorile_sesso_pagamento_intercettazioni_cosa_e_successo-9625413.html"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Per Trump guadagni da favola con le criptovalute. “Ha incassato oltre un miliardo nel 2025”",
       "source_count": 8,
       "article_count": 8,
@@ -169,32 +147,34 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Ius soli, schiaffo a Trump. La Corte Suprema Usa salva il diritto di cittadinanza per nascita",
-      "source_count": 6,
-      "article_count": 8,
+      "rank": 7,
+      "title": "Inchiesta escort, legale di Bastoni: \"Escludo rapporti a pagamento con minorenne\"",
+      "source_count": 7,
+      "article_count": 9,
       "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmanifesto.it"
+        "ilgiornale.it",
+        "adnkronos.com",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/ius-soli-schiaffo-trump-lui-congresso-rimedi-2686754.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48385554/usa-corte-suprema-boccia-trump-rimane-ius-soli/",
-        "https://www.liberoquotidiano.it/news/tv-news/48383697/la-corte-suprema-boccia-di-nuovo-trump-sullo-jus-soli/",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/07/01/prime-pagine-la-corte-suprema-boccia-trump-lo-ius-soli-resta-in-vigore_803c34c2-e38c-4248-995c-b9bd075a0f95.html",
-        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/01/la-corte-suprema-boccia-trump-lo-ius-soli-resta-in-vigore.-vance-non_641c77aa-2203-425b-aff2-616d7232dfb9.html"
+        "https://www.ilmessaggero.it/sport/calcio/bastoni_prostituzione_chi_e_ragazza_17_anni_cosa_ha_detto-9625986.html",
+        "https://milano.repubblica.it/cronaca/2026/07/01/news/bastoni_indagato_ragazza_pm_non_ho_preso_soldi_non_sono_escort-425444598/",
+        "https://www.ilfattoquotidiano.it/2026/07/01/bastoni-indagato-parla-ragazza-non-sono-prostituta-non-ho-preso-soldi-venerdi-interrogatorio-notizie-oggi/8435741/",
+        "https://www.ansa.it/sito/notizie/sport/2026/07/01/il-legale-di-bastoni-escludo-categoricamente-abbia-avuto-rapporti-a-pagamento_84a49b4b-7a58-4ede-82d6-33f17900f7f1.html",
+        "https://www.ilmessaggero.it/persone/bastoni_prostituzione_minorile_sesso_pagamento_intercettazioni_cosa_e_successo-9625413.html"
       ]
     },
     {
-      "rank": 9,
-      "title": "Caldo, la mappa del mare \"bollente\": i dati Copernicus e gli impatti sugli ecosistemi marini (e sull'uomo)",
-      "source_count": 6,
-      "article_count": 6,
+      "rank": 8,
+      "title": "Copernicus, a giugno 2026 mari e oceani mai così caldi. Col “Super El Niño” si rischiano livelli estremi",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
+        "ilmanifesto.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "fanpage.it",
@@ -203,32 +183,52 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://ilmanifesto.it/mare-bollente-clima-torrido-e-alluvioni-italia-a-rischio-caraibi",
         "https://www.ilfattoquotidiano.it/2026/07/01/temperature-oceani-record-2026-copernicus-notizie/8436035/",
         "https://www.ilmessaggero.it/mondo/record_temperature_oceani_giugno_2026_copernicus_impatti-9625525.html",
         "https://www.fanpage.it/innovazione/scienze/copernicus-a-giugno-2026-mari-e-oceani-mai-cosi-caldi-col-super-el-nino-si-rischiano-livelli-estremi/",
-        "https://www.lastampa.it/cronaca/2026/07/01/news/allarme_per_le_temperature_recor_il_mare_e_sempre_piu_caldo-15676410/",
-        "https://www.repubblica.it/cronaca/2026/07/01/news/ondata_calore_mare_record_temperatura_copernicus-425443491/"
+        "https://www.lastampa.it/cronaca/2026/07/01/news/allarme_per_le_temperature_recor_il_mare_e_sempre_piu_caldo-15676410/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Tregua dal caldo estremo, oggi 24 città con bollino giallo. Da domani Italia in verde",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "fanpage.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/caldo-bollettino-oggi-2-luglio_2QzXXl1BML6P0k8u3Xf5mX",
+        "https://www.liberoquotidiano.it/news/libero-video/48385559/morsa-caldo-comincia-cedere/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/01/tregua-dal-caldo-oggi-21-bollini-rossi-domani-scendono-a-due_cea3218e-2a10-49d9-8c6c-13eaac021fa0.html",
+        "https://www.fanpage.it/attualita/il-caldo-si-attenua-domani-2-luglio-solo-2-citta-da-bollino-rosso-temperature-giu-anche-di-8-gradi/",
+        "https://www.repubblica.it/cronaca/2026/07/01/news/caldo_morti_italia_europa_perturbazione-425443371/"
       ]
     },
     {
       "rank": 10,
-      "title": "Meloni riceve Parmitano, pilota per Artemis III: dà lustro all'Italia",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Ius soli, schiaffo a Trump. La Corte Suprema Usa salva il diritto di cittadinanza per nascita",
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
         "ilgiornale.it",
-        "governo.it",
         "liberoquotidiano.it",
-        "ilsole24ore.com"
+        "ansa.it",
+        "lastampa.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/canale_scienza/notizie/ricerca_istituzioni/2026/07/01/parmitano-da-meloni-curiosita-e-piacere-di-incontrarsi_a81d84c8-a394-4aad-8589-c3d27c13ad09.html",
-        "https://www.adnkronos.com/politica/parmitano-meloni-incontro-palazzo-chigi_6dnfkiE9uA8BIVnW4TJReX",
-        "https://www.ilgiornale.it/news/interni/meloni-incontra-parmitano-sei-leccellenza-dellitalia-nel-2687045.html",
-        "https://www.governo.it/it/articolo/il-presidente-meloni-riceve-lastronauta-dell-esa-parmitano/32249",
-        "https://www.liberoquotidiano.it/news/tv-news/48386712/meloni-riceve-parmitano-pilota-per-artemis-iii-da-lustro-all-italia/"
+        "https://www.ilgiornale.it/news/politica/ius-soli-schiaffo-trump-lui-congresso-rimedi-2686754.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48385554/usa-corte-suprema-boccia-trump-rimane-ius-soli/",
+        "https://www.liberoquotidiano.it/news/tv-news/48383697/la-corte-suprema-boccia-di-nuovo-trump-sullo-jus-soli/",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/07/01/prime-pagine-la-corte-suprema-boccia-trump-lo-ius-soli-resta-in-vigore_803c34c2-e38c-4248-995c-b9bd075a0f95.html",
+        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/01/la-corte-suprema-boccia-trump-lo-ius-soli-resta-in-vigore.-vance-non_641c77aa-2203-425b-aff2-616d7232dfb9.html"
       ]
     }
   ]
