@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "generated_at": "Thu 02 Jul 19:48",
+  "generated_at": "Thu 02 Jul 21:17",
   "stories": [
     {
       "rank": 1,
@@ -188,6 +188,28 @@
     },
     {
       "rank": 9,
+      "title": "Attentato di Monaco, la sospettata è un'ucraina",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/02/e-una-donna-ucraina-lattentatore-che-ha-lasciato-un-pacco-bomba-a-casa-delloligarca-ermolaev-a-monaco/8437710/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/attentato-monaco-sospettata-unucraina-residente-germania-2687982.html",
+        "https://www.liberoquotidiano.it/news/esteri/48405826/monaco-pista-choc-attentatore-non-e-uomo-chi-cercano-italia/",
+        "https://www.ilmessaggero.it/mondo/monaco_attentatrice_oggi_chi_e_ucraina-9628242.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/02/lattentatore-di-monaco-sarebbe-una-donna-ucraina.-e-stata-ripresa-dalle-telecamere_e5a11604-af1a-4f5c-8f2c-6213fc5f43cd.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Wimbledon: in campo Sonego-Diallo 1-1 e Grant eliminata da Bouzkova DIRETTA",
       "source_count": 4,
       "article_count": 9,
@@ -198,30 +220,11 @@
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/07/02/italia-protagonista-a-wimbledon-berrettini-guida-il-poker-azzurro_3086fc29-04c2-48df-95f5-b3f1a67e5242.html",
         "https://www.ansa.it/sito/notizie/sport/2026/07/02/wimbledon-avanzano-sonego-berrettini-cobolli-paolini_3086fc29-04c2-48df-95f5-b3f1a67e5242.html",
         "https://www.adnkronos.com/sport/wimbledon-paolini-non-delude-batte-golubic-in-due-set-e-vola-al-terzo-turno_nFOhJvdPzhYzqwjEMlq7h",
         "https://www.ansa.it/sito/notizie/sport/2026/07/02/wimbledon-avanzano-sonego-berrettini-e-cobolli.-in-campo-paolini_3086fc29-04c2-48df-95f5-b3f1a67e5242.html",
-        "https://www.adnkronos.com/sport/wimbledoon-djokovic-sinner-brooksby_6MfbYcxUZhqCHqTIoDH8SL",
         "https://www.ansa.it/sito/notizie/sport/2026/07/02/wimbledon-sonego-vince-un-match-maratona-con-diallo-in-campo-berrettini-e-cobolli_3086fc29-04c2-48df-95f5-b3f1a67e5242.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Venezuela, individuato uomo vivo sotto le macerie a 7 giorni dal sisma",
-      "source_count": 4,
-      "article_count": 8,
-      "source_domains": [
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/salute/terremoto-sopravvivere-giorni-sotto-macerie-tre-variabili_4kbOxhkhPw1KLrlaTJnzXR",
-        "https://www.liberoquotidiano.it/news/tv-news/48402063/venezuela-applausi-per-l-uomo-estratto-vivo-8-giorni-dopo-il-sisma/",
-        "https://www.liberoquotidiano.it/news/libero-video/48398096/venezuela-estratto-vivo-dalle-macerie-8-giorni-dopo-il-terremoto/",
-        "https://www.repubblica.it/esteri/2026/07/02/news/venezuela_sette_giorni_lutto_nazionale_bilancio_morti_accertati-425446296/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/02/soccorritori-al-lavoro-in-venezuela-per-estrarre-uomo-vivo-a-8-giorni-dal-sisma_cbadbcb3-2c7d-49c6-8f98-9c2c2cdae739.html"
       ]
     }
   ]
