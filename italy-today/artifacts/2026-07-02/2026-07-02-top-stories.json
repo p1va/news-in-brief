@@ -1,6 +1,6 @@
 {
   "date": "2026-07-02",
-  "generated_at": "Thu 02 Jul 19:43",
+  "generated_at": "Thu 02 Jul 19:48",
   "stories": [
     {
       "rank": 1,
@@ -145,26 +145,6 @@
     },
     {
       "rank": 7,
-      "title": "Wimbledon: in campo Sonego-Diallo 1-1 e Grant eliminata da Bouzkova DIRETTA",
-      "source_count": 5,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/07/02/wimbledon-avanzano-sonego-berrettini-cobolli-paolini_3086fc29-04c2-48df-95f5-b3f1a67e5242.html",
-        "https://www.adnkronos.com/sport/wimbledon-paolini-non-delude-batte-golubic-in-due-set-e-vola-al-terzo-turno_nFOhJvdPzhYzqwjEMlq7h",
-        "https://www.ansa.it/sito/notizie/sport/2026/07/02/wimbledon-avanzano-sonego-berrettini-e-cobolli.-in-campo-paolini_3086fc29-04c2-48df-95f5-b3f1a67e5242.html",
-        "https://www.adnkronos.com/sport/wimbledoon-djokovic-sinner-brooksby_6MfbYcxUZhqCHqTIoDH8SL",
-        "https://www.lastampa.it/sport/2026/07/02/news/wimbledon_berrettini_batte_francese_fils-15678370/"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Macerata, 62enne ucciso in casa a Civitanova Marche: fermata la compagna",
       "source_count": 6,
       "article_count": 8,
@@ -185,7 +165,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Milano: inchiesta escort, domani Bastoni non si presenterà a interrogatorio",
       "source_count": 7,
       "article_count": 7,
@@ -204,6 +184,25 @@
         "https://www.ilfattoquotidiano.it/2026/07/02/inchiesta-escort-ascoltati-in-caserma-daniel-maldini-kevin-bonifazi-bastoni-si-avvale-facolta-di-non-rispondere/8437611/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/02/il-legale-bastoni-non-si-presentera-allinterrogatorio-di-domani_ba1c6a50-85b8-420b-9c76-655a21dc3e84.html",
         "https://milano.repubblica.it/cronaca/2026/07/02/news/inchiesta_escort_bastoni_avvale_facolta_non_rispondere_maldini_bonifazi-425447294/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Wimbledon: in campo Sonego-Diallo 1-1 e Grant eliminata da Bouzkova DIRETTA",
+      "source_count": 4,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/07/02/wimbledon-avanzano-sonego-berrettini-cobolli-paolini_3086fc29-04c2-48df-95f5-b3f1a67e5242.html",
+        "https://www.adnkronos.com/sport/wimbledon-paolini-non-delude-batte-golubic-in-due-set-e-vola-al-terzo-turno_nFOhJvdPzhYzqwjEMlq7h",
+        "https://www.ansa.it/sito/notizie/sport/2026/07/02/wimbledon-avanzano-sonego-berrettini-e-cobolli.-in-campo-paolini_3086fc29-04c2-48df-95f5-b3f1a67e5242.html",
+        "https://www.adnkronos.com/sport/wimbledoon-djokovic-sinner-brooksby_6MfbYcxUZhqCHqTIoDH8SL",
+        "https://www.ansa.it/sito/notizie/sport/2026/07/02/wimbledon-sonego-vince-un-match-maratona-con-diallo-in-campo-berrettini-e-cobolli_3086fc29-04c2-48df-95f5-b3f1a67e5242.html"
       ]
     },
     {
