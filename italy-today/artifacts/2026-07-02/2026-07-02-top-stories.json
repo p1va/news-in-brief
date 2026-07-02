@@ -1,19 +1,19 @@
 {
   "date": "2026-07-02",
-  "generated_at": "Thu 02 Jul 12:16",
+  "generated_at": "Thu 02 Jul 15:24",
   "stories": [
     {
       "rank": 1,
       "title": "Lefebvriani, arriva la scomunica del Vaticano dopo la consacrazione dei nuovi vescovi",
       "source_count": 11,
-      "article_count": 16,
+      "article_count": 18,
       "source_domains": [
+        "ilmessaggero.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
         "unita.it",
         "ansa.it",
         "adnkronos.com",
-        "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
         "lastampa.it",
@@ -21,38 +21,84 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilmessaggero.it/vaticano/lefebvriani_sacramenti_validi_battesimo_matrimonio_scomunica_comunione-9627869.html",
         "https://www.ilgiornale.it/news/politica/leone-wojtyla-ora-scomunica-e-lavviso-ai-tedeschi-dolore-2687406.html",
         "https://www.ilgiornale.it/news/politica/arriva-scisma-dei-lefebvriani-pronti-pagare-qualsiasi-prezzo-2687405.html",
         "https://www.liberoquotidiano.it/news/tv-news/48399946/lefebrviani-vaticano-scomunica-per-tutti-i-ministri-san-pio-x/",
-        "https://www.unita.it/2026/07/02/lefebvriani-scomunicati-papa-leone-scisma/",
-        "https://www.ansa.it/vaticano/notizie/2026/07/02/lefebvriani-il-vaticano-decreta-la-scomunica-_e36da1b9-e6f8-4a06-9765-6452628e302e.html"
+        "https://www.unita.it/2026/07/02/lefebvriani-scomunicati-papa-leone-scisma/"
       ]
     },
     {
       "rank": 2,
-      "title": "Pioggia di fuoco su Kiev: almeno 13 morti nei raid russi",
-      "source_count": 8,
-      "article_count": 12,
+      "title": "Vigilanza Rai, si dimette Floridia e i consiglieri di opposizione",
+      "source_count": 9,
+      "article_count": 10,
       "source_domains": [
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
         "unita.it",
+        "adnkronos.com",
+        "ilgiornale.it",
         "ansa.it",
         "ilfattoquotidiano.it",
-        "ilgiornale.it",
         "repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ilmessaggero.it/mondo/guerra_ucraina_russia_attacco_kiev_cosa_e_successo-9627667.html",
-        "https://www.ilmessaggero.it/mondo/russia_vendetta_flamingo_missili_volgograd_ucraina-9627653.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48398334/attacco-russo-massiccio-su-kiev-con-oltre-70-razzi-e-500-droni/",
-        "https://www.liberoquotidiano.it/news/libero-video/48397164/kiev-attacco-russo-cuore-notte-piu-massiccio-inizio-guerra/",
-        "https://www.unita.it/2026/07/02/bombardamento-russo-kiev-morti-feriti-colpito-pronto-soccorso/"
+        "https://www.unita.it/2026/07/02/vigilanza-rai-dimissioni-opposizione-presidente-floridia/",
+        "https://www.adnkronos.com/politica/rai-floridia-vigilanza-rai-presidenza_5pth9gWPcGBFT5oJKs9SH",
+        "https://www.ilgiornale.it/news/interni/vigilanza-rai-opposizioni-si-dimettono-massa-commissione-2687749.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/07/02/floridia-e-i-commissari-dellopposizione-si-dimettono-dalla-vigilanza-rai-floridia-mi-sono-dimessa_0d2095c6-b9ca-40b1-a2bd-15f14dd5db10.html",
+        "https://www.ilfattoquotidiano.it/2026/07/02/vigilanza-rai-si-dimettono-tutti-i-componenti-di-opposizione-se-ne-va-anche-la-presidente-floridia-m5s/8437198/"
       ]
     },
     {
       "rank": 3,
+      "title": "Mastella: “Sono malato, spero di farcela. Pregate per me” /Video l'annuncio in chiesa",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "unita.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "napoli.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/07/02/mastella-a-tutti-chiedo-di-pregare-per-me-anche-io-sono-malato_40ac942c-a114-4802-807b-e6be90f0e1ed.html",
+        "https://www.adnkronos.com/politica/clemente-mastella-benevento-malattia_6BoaQlH0lvd0vBKZ2IT9QA",
+        "https://www.unita.it/2026/07/02/mastella-fedeli-basilica-benevento-malato-pregare/",
+        "https://www.ilfattoquotidiano.it/2026/07/02/anche-io-sono-malato-spero-di-farcela-lannuncio-con-la-voce-rotta-di-clemente-mastella/8437315/",
+        "https://www.ilgiornale.it/news/interni/lannuncio-mastella-chiesa-tutti-chiedo-pregare-me-anche-io-2687787.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Ucraina, è di 13 morti il bilancio dei violenti attacchi russi a Kiev",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "unita.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48402033/-credevo-di-morire-gli-abitanti-di-kiev-raccontano-l-attacco-russo/",
+        "https://www.ilmessaggero.it/mondo/guerra_ucraina_russia_attacco_kiev_cosa_e_successo-9627667.html",
+        "https://www.ilmessaggero.it/mondo/russia_vendetta_flamingo_missili_volgograd_ucraina-9627653.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48398334/attacco-russo-massiccio-su-kiev-con-oltre-70-razzi-e-500-droni/",
+        "https://www.liberoquotidiano.it/news/libero-video/48397164/kiev-attacco-russo-cuore-notte-piu-massiccio-inizio-guerra/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "La Corte di Giustizia Ue conferma la multa da 4,1 miliardi a Google per Android",
       "source_count": 8,
       "article_count": 8,
@@ -75,7 +121,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "“Abbiamo capito cosa è successo a Parigi”: cosa ha detto Sinner a Wimbledon",
       "source_count": 6,
       "article_count": 8,
@@ -96,28 +142,67 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Vigilanza Rai, le opposizioni si dimettono in massa dalla commissione",
+      "rank": 7,
+      "title": "Macerata, 62enne ucciso in casa a Civitanova Marche: fermata la compagna",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 8,
       "source_domains": [
-        "adnkronos.com",
+        "ilmessaggero.it",
         "ilgiornale.it",
+        "unita.it",
+        "adnkronos.com",
         "ansa.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it"
       ],
       "links": [
-        "https://www.adnkronos.com/politica/rai-floridia-vigilanza-rai-presidenza_5pth9gWPcGBFT5oJKs9SH",
-        "https://www.ilgiornale.it/news/interni/vigilanza-rai-opposizioni-si-dimettono-massa-commissione-2687749.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/07/02/floridia-e-i-commissari-dellopposizione-si-dimettono-dalla-vigilanza-rai-floridia-mi-sono-dimessa_0d2095c6-b9ca-40b1-a2bd-15f14dd5db10.html",
-        "https://www.ilfattoquotidiano.it/2026/07/02/vigilanza-rai-si-dimettono-tutti-i-componenti-di-opposizione-se-ne-va-anche-la-presidente-floridia-m5s/8437198/",
-        "https://www.repubblica.it/politica/2026/07/02/news/vigilanza_rai_dimissioni_consiglieri_opposizione_floridia_boschi-425446804/"
+        "https://www.ilmessaggero.it/italia/isabella_di_mattia_chi_e_compagna_marco_pennesi_omicidio_civitanova-9628049.html",
+        "https://www.ilgiornale.it/news/cronaca-nera/civitanova-lui-62-anni-lei-33-accoltella-lite-mi-sono-difesa-2687756.html",
+        "https://www.unita.it/2026/07/02/omicidio-civitanova-marche-ucciso-coltellate-casa-fermata-compagna/",
+        "https://www.adnkronos.com/cronaca/civitanova-marche-uccio-coltellate-compagna_XSmh52SlFWNqrbXquvi0j",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/02/ucciso-in-casa-a-civitanova-marche-arrestata-la-compagna-_e5d81c3d-21b5-4af8-b451-6a5cc172291e.html"
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "title": "Venezuela, individuato uomo vivo sotto le macerie a 7 giorni dal sisma",
+      "source_count": 4,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/salute/terremoto-sopravvivere-giorni-sotto-macerie-tre-variabili_4kbOxhkhPw1KLrlaTJnzXR",
+        "https://www.liberoquotidiano.it/news/tv-news/48402063/venezuela-applausi-per-l-uomo-estratto-vivo-8-giorni-dopo-il-sisma/",
+        "https://www.liberoquotidiano.it/news/libero-video/48398096/venezuela-estratto-vivo-dalle-macerie-8-giorni-dopo-il-terremoto/",
+        "https://www.repubblica.it/esteri/2026/07/02/news/venezuela_sette_giorni_lutto_nazionale_bilancio_morti_accertati-425446296/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/02/soccorritori-al-lavoro-in-venezuela-per-estrarre-uomo-vivo-a-8-giorni-dal-sisma_cbadbcb3-2c7d-49c6-8f98-9c2c2cdae739.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Massimo Ciarelli morto dopo l'inseguimento dei carabinieri, fuggito all'alt con lo scooter: nel 2012 uccise un ultrà del Pescara",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "unita.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/abruzzo/massimo_ciarelli_come_e_morto_ricostruzione_pescara-9628044.html",
+        "https://www.ilfattoquotidiano.it/2026/07/02/non-era-lui-a-guidare-lo-scooter-la-famiglia-di-massimo-ciarelli-contesta-la-ricostruzione-dellincidente/8437417/",
+        "https://www.unita.it/2026/07/02/alt-carabinieri-massimo-ciarelli-muore-inseguimento-condannato-omicidio-ultra/",
+        "https://www.ilfattoquotidiano.it/2026/07/02/massimo-ciarelli-morto-scooter-alt-carabinieri-uccise-tifoso-pescara/8436889/",
+        "https://www.liberoquotidiano.it/news/italia/48396583/pescara-non-si-ferma-all-alt-dei-carabinieri-muore-nello-schianto/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Villa Taverna, oggi il ricevimento per l’Independence day. FdI ci sarà: Meloni ci pensa, no di Schlein",
       "source_count": 5,
       "article_count": 5,
@@ -134,82 +219,6 @@
         "https://www.lastampa.it/politica/2026/07/02/news/festa_usa_a_villa_taverna_dubbi_meloni_va_arianna-15677291/",
         "https://www.ilmessaggero.it/politica/villa_taverna_chi_ci_sara_meloni_schlein_indipendence_day-9626187.html",
         "https://www.ilsole24ore.com/art/independence-day-politica-villa-taverna-incognita-meloni-lo-strappo-trump-AI6EafyD"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Ucciso in casa a Civitanova Marche, arrestata la compagna",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/civitanova-marche-uccio-coltellate-compagna_XSmh52SlFWNqrbXquvi0j",
-        "https://www.ilfattoquotidiano.it/2026/07/02/omicidio-civitanova-marche-testimonianza-vicino-di-casa-news/8437111/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/02/ucciso-in-casa-a-civitanova-marche-arrestata-la-compagna-_e5d81c3d-21b5-4af8-b451-6a5cc172291e.html",
-        "https://www.ilmessaggero.it/italia/civitanova_omicidio_marco_pennesi_chi_e_stato-9627698.html",
-        "https://www.ilfattoquotidiano.it/2026/07/02/civitanova-marche-omicidio-marco-pennesi-indagini-ultime-notizie/8436944/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Pericolo grandine, come proteggere l'auto e ottenere un risarcimento",
-      "source_count": 3,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/canicola-arrivano-temporali-e-downburst-pioggia-vento-e-2687427.html",
-        "https://www.ilgiornale.it/news/meteo-e-clima/vortice-provoca-forti-temporali-poi-torna-l-anticiclone-ecco-2687569.html",
-        "https://www.ilmessaggero.it/schede/allerta_meteo_oggi_dove_quali_regioni-9627441.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/01/tregua-dal-caldo-oggi-21-bollini-rossi-domani-scendono-a-due_cea3218e-2a10-49d9-8c6c-13eaac021fa0.html",
-        "https://www.ilgiornale.it/news/meteo-e-clima/pericolo-grandine-proteggere-lauto-e-ottenere-risarcimento-2687318.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Massimo Ciarelli morto dopo l'inseguimento dei carabinieri, fuggito all'alt con lo scooter: nel 2012 uccise un ultrà del Pescara",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "unita.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.unita.it/2026/07/02/alt-carabinieri-massimo-ciarelli-muore-inseguimento-condannato-omicidio-ultra/",
-        "https://www.ilfattoquotidiano.it/2026/07/02/massimo-ciarelli-morto-scooter-alt-carabinieri-uccise-tifoso-pescara/8436889/",
-        "https://www.liberoquotidiano.it/news/italia/48396583/pescara-non-si-ferma-all-alt-dei-carabinieri-muore-nello-schianto/",
-        "https://www.lastampa.it/cronaca/2026/07/02/news/massimo_ciarelli_morto_inseguimento_carabinieri-15677676/",
-        "https://www.ilmessaggero.it/abruzzo/massimo_ciarelli_morto_pescara_inseguimento_alt_carabinieri_cosa_e_successo-9626223.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Il Senegal incanta, poi si butta via: il Belgio vince in rimonta ai supplementari e vola agli ottavi",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "repubblica.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/02/news/lukaku_belgio_gol_mondiali-425446475/",
-        "https://www.ilgiornale.it/news/calcio/senegal-incanta-poi-si-butta-belgio-vince-rimonta-ai-2687515.html",
-        "https://www.ilmessaggero.it/sport/schede/inghilterra_congo_kane_cipenga_pagelle_mondiali_cosa_e_successo-9625908.html",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/01/news/l_inghilterra_salvata_dalla_doppietta_di_kane_contro_il_congo-15677121/",
-        "https://www.ilmessaggero.it/sport/schede/belgio_senegal_pagelle_tielemans_lukaku_mondiali_cosa_e_successo-9625646.html"
       ]
     }
   ]
