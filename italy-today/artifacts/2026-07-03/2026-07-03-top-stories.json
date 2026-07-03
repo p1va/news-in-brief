@@ -1,9 +1,35 @@
 {
   "date": "2026-07-03",
-  "generated_at": "Fri 03 Jul 15:18",
+  "generated_at": "Fri 03 Jul 17:42",
   "stories": [
     {
       "rank": 1,
+      "title": "Fentanyl rubato all'Israelitico: riunione d'urgenza a Palazzo Chigi. «Ventimila dosi in circolazione», aperta un'inchiesta",
+      "source_count": 11,
+      "article_count": 14,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "unita.it",
+        "ilmessaggero.it",
+        "roma.repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/fentanyl-overdose-rischio-morte_7rVLmnWcH3ahOC7ENSnQqv",
+        "https://www.ilfattoquotidiano.it/2026/07/03/fentanyl-cose-oppioide-pericolosita-overdose-news/8438800/",
+        "https://www.adnkronos.com/salute/sanita/fentanyl-cos-e-droga-sintomi-furto-fiale_4uaqQJfUAnozqYDN4UPdJ1",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/03/riunione-durgenza-a-palazzo-chigi-dopo-il-furto-di-fentanyl-allospedale-israelitico_5afd910d-4b95-4b3b-90dd-af4bacf38a7d.html",
+        "https://www.ilgiornale.it/news/nazionale/fentanyl-rubato-roma-l-allarme-governo-80-fiale-fino-20mila-2688459.html"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "'L'attentatrice di Monaco fuggita in auto in Italia'",
       "source_count": 10,
       "article_count": 15,
@@ -28,32 +54,28 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Fentanyl rubato a Roma, l’allarme del governo: \"Con 80 fiale fino a 20mila dosi\"",
-      "source_count": 10,
-      "article_count": 11,
+      "rank": 3,
+      "title": "Wimbledon: Sinner batte Brooksby e va agli ottavi",
+      "source_count": 6,
+      "article_count": 16,
       "source_domains": [
-        "adnkronos.com",
         "ansa.it",
-        "ilgiornale.it",
-        "unita.it",
+        "adnkronos.com",
+        "repubblica.it",
         "ilmessaggero.it",
-        "roma.repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it"
+        "ilgiornale.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.adnkronos.com/salute/sanita/fentanyl-cos-e-droga-sintomi-furto-fiale_4uaqQJfUAnozqYDN4UPdJ1",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/03/riunione-durgenza-a-palazzo-chigi-dopo-il-furto-di-fentanyl-allospedale-israelitico_5afd910d-4b95-4b3b-90dd-af4bacf38a7d.html",
-        "https://www.ilgiornale.it/news/nazionale/fentanyl-rubato-roma-l-allarme-governo-80-fiale-fino-20mila-2688459.html",
-        "https://www.unita.it/2026/07/03/fentanyl-80-fiale-rubate-ospedale-israelitico-roma/",
-        "https://www.ilgiornale.it/news/attualit/cos-fentanyl-droga-sintetica-che-preoccupa-mondo-2688472.html"
+        "https://www.ansa.it/sito/notizie/sport/2026/07/03/wimbledon-sinner-batte-brooksby-e-va-agli-ottavi_f26b6963-d57d-4618-9471-0f0375189daf.html",
+        "https://www.adnkronos.com/sport/wimbledon-djokovic-rinderknech-oggi-doppia-caduta-video_17S6QewkjMvIJ4ipCBlE67",
+        "https://www.adnkronos.com/sport/sinner-wimbledon-2026-brooksby_3zkDnLr7niwKWyKUYZ3m2T",
+        "https://www.repubblica.it/sport/dossier/wimbledon/2026/07/03/news/sinner_brooksby_gesto_incitamento_pubblico-425449851/",
+        "https://www.repubblica.it/sport/tennis/2026/07/03/news/djokovic_volee_tuffo_wimbledon-425449817/"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Milano, 28enne muore annegato in piscina: Alfredo era entrato con amici nella notte scavalcando la recinzione",
       "source_count": 10,
       "article_count": 10,
@@ -78,7 +100,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Allegri nuovo allenatore del Napoli, è ufficiale. De Laurentiis: “Benvenuto Max”",
       "source_count": 8,
       "article_count": 8,
@@ -101,7 +123,51 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "Hegseth era pronto ad annunciare tagli significativi delle truppe Usa in Europa: Rubio l’ha fermato",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/esteri/48415200/europa-pentagono-stava-farlo-passo-crisi-militare/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/03/wsj-hegseth-stava-per-annunciare-tagli-alle-truppe-in-europa-rubio_c5807f8d-e239-4bea-bf5d-7f8cfb6557d4.html",
+        "https://www.ilgiornale.it/news/politica-estera/truppe-usa-dall-europa-piano-bloccato-all-ultimo-cosa-voleva-2688291.html",
+        "https://www.ilfattoquotidiano.it/2026/07/03/capo-pentagono-pete-hegseth-nuovi-tagli-truppe-usa-europa-rubio-lo-ha-fermato/8438128/",
+        "https://www.ilmessaggero.it/mondo/nato_piano_hegseth_taglio_militari_usa_europa_rubio_cosa_sappiamo-9629728.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Khamenei, la salma arriva a Teheran: l’Iran prepara il funerale-show nel cuore della crisi",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/funerali-di-khamenei-le-lacrime-di-ghalibaf-e-la-reazione-di-araghchi-video_5LCUlipQedZS3z44eABBJm",
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/03/il-lungo-addio-allayatollah-khamenei-la-prova-di-forza-delliran_2286d37b-9cba-4c28-b133-5327e5a5e1ca.html",
+        "https://www.ilfattoquotidiano.it/2026/07/03/teheran-si-trasforma-in-un-palco-per-i-funerali-di-khamenei-a-guardar-bene-e-solo-uno-spettacolo/8438096/",
+        "https://www.ilfattoquotidiano.it/2026/07/03/iran-le-immagini-dellarrivo-della-salma-di-khamenei-alla-grande-moschea-di-teheran/8438174/",
+        "https://www.ilgiornale.it/news/politica/i-megafunerali-khamenei-senza-figlio-mojtaba-poi-i-nuovi-2688052.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Ucraina, nuovi attacchi russi su Kiev, sale a 30 numero dei morti",
       "source_count": 6,
       "article_count": 10,
@@ -122,85 +188,23 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Hegseth era pronto ad annunciare tagli significativi delle truppe Usa in Europa: Rubio l’ha fermato",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/03/wsj-hegseth-stava-per-annunciare-tagli-alle-truppe-in-europa-rubio_c5807f8d-e239-4bea-bf5d-7f8cfb6557d4.html",
-        "https://www.ilgiornale.it/news/politica-estera/truppe-usa-dall-europa-piano-bloccato-all-ultimo-cosa-voleva-2688291.html",
-        "https://www.ilfattoquotidiano.it/2026/07/03/capo-pentagono-pete-hegseth-nuovi-tagli-truppe-usa-europa-rubio-lo-ha-fermato/8438128/",
-        "https://www.ilmessaggero.it/mondo/nato_piano_hegseth_taglio_militari_usa_europa_rubio_cosa_sappiamo-9629728.html",
-        "https://www.adnkronos.com/internazionale/esteri/nato-attacco-trump-retroscena-hegseth-news_27prxVK4Y8soiZzf8A3zkL"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Khamenei, la salma arriva a Teheran: l’Iran prepara il funerale-show nel cuore della crisi",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/03/teheran-si-trasforma-in-un-palco-per-i-funerali-di-khamenei-a-guardar-bene-e-solo-uno-spettacolo/8438096/",
-        "https://www.ilfattoquotidiano.it/2026/07/03/iran-le-immagini-dellarrivo-della-salma-di-khamenei-alla-grande-moschea-di-teheran/8438174/",
-        "https://www.ilgiornale.it/news/politica/i-megafunerali-khamenei-senza-figlio-mojtaba-poi-i-nuovi-2688052.html",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/03/la-salma-di-khamenei-nella-grande-moschea.-lomaggio-del-capo-dei-pasdaran_2286d37b-9cba-4c28-b133-5327e5a5e1ca.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48410504/iran-la-salma-di-ali-khamenei-alla-grande-moschea-di-teheran/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Azzurro inglese",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/07/03/wimbledon-sinner-brooksby-in-campo-nel-pomeriggio_f26b6963-d57d-4618-9471-0f0375189daf.html",
-        "https://www.adnkronos.com/sport/diretta-djokovic-rinderknech-oggi-wimbledon-2026-risultato-live_3HeG5yRxEot97LxN9vvvd",
-        "https://www.ilgiornale.it/news/tennis/wimbledon-giorno-sinner-brooksby-chi-l-avversario-e-quando-2688275.html",
-        "https://www.repubblica.it/sport/dossier/wimbledon/2026/07/03/news/jenson_brooksby_sinner_avversario_wimbledon_chi_e-425448399/",
-        "https://www.ilgiornale.it/news/tennis/azzurro-inglese-2688162.html"
-      ]
-    },
-    {
       "rank": 9,
       "title": "Taylor Swift e Travis Kelce si sposano: le nozze segrete già celebrate, il piano di sicurezza, le donazioni milionarie e un docufilm",
       "source_count": 5,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "liberoquotidiano.it",
         "ansa.it",
+        "liberoquotidiano.it",
         "repubblica.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cultura/2026/07/03/il-giorno-del-si-blindato-di-taylor-swift-mamdani-un-suo-fan_a0208edc-97f7-47b5-a8c0-7c7336bb21fa.html",
         "https://www.liberoquotidiano.it/news/libero-video/48412648/matrimonio-taylor-swift-fan-in-attesa-davanti-madison-square-garden/",
         "https://www.ansa.it/canale_lifestyle/notizie/people/2026/07/02/taylor-swift-e-travis-kelce-un-vero-royal-wedding-americano-scoperte-ascendenze_39bec9e2-bea2-4fd3-bb0d-9dae190ba65b.html",
         "https://www.repubblica.it/spettacoli/2026/07/03/news/taylor_swift_e_travis_kalce_oggi_sposi_a_new_york-425449160/",
-        "https://www.ilgiornale.it/news/personaggi/taylor-swift-e-travis-kelce-si-sposano-nozze-segrete-gi-2688354.html",
-        "https://www.repubblica.it/spettacoli/musica/2026/07/03/news/taylor_swift_e_travis_kelce_galeotto_fu_il_podcast_la_love_story_iniziata_tre_estati_fa-425449110/"
+        "https://www.ilgiornale.it/news/personaggi/taylor-swift-e-travis-kelce-si-sposano-nozze-segrete-gi-2688354.html"
       ]
     },
     {
