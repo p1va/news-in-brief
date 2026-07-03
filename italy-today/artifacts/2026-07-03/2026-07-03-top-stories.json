@@ -1,100 +1,65 @@
 {
   "date": "2026-07-03",
-  "generated_at": "Fri 03 Jul 09:30",
+  "generated_at": "Fri 03 Jul 12:15",
   "stories": [
     {
       "rank": 1,
       "title": "'L'attentatrice di Monaco fuggita in auto in Italia'",
       "source_count": 10,
-      "article_count": 11,
+      "article_count": 14,
       "source_domains": [
         "ansa.it",
         "unita.it",
         "adnkronos.com",
         "ilmessaggero.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
         "repubblica.it",
         "lastampa.it",
-        "liberoquotidiano.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/03/lattentatrice-di-monaco-fuggita-in-auto-in-italia-per-raggiungere-la-svizzera_e0f34abc-4baa-4e7d-bb57-7ba06f062fa3.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/03/lattentatrice-di-monaco-fuggita-in-auto-in-italia_e0f34abc-4baa-4e7d-bb57-7ba06f062fa3.html",
         "https://www.unita.it/2026/07/03/attentato-monaco-oligarca-ermolaev-ucraina-mandato-arresto-italia/",
         "https://www.adnkronos.com/internazionale/esteri/attentato-monaco-indagini-donna-fuga-italia-news_49YkYKs1AS47KSZc1plpvl",
-        "https://www.ilmessaggero.it/mondo/attentatrice_monaco_chi_e_anastasia-9629681.html",
-        "https://www.ilfattoquotidiano.it/2026/07/03/fuggita-in-italia-lattentatrice-che-ha-messo-la-bomba-davanti-alla-casa-delloligarca-ucraino-a-monaco/8438033/"
+        "https://www.ilmessaggero.it/mondo/attentatrice_monaco_chi_e_anastasia-9629681.html"
       ]
     },
     {
       "rank": 2,
       "title": "Milano, 28enne muore annegato in piscina: Alfredo era entrato con amici nella notte scavalcando la recinzione",
-      "source_count": 7,
-      "article_count": 7,
+      "source_count": 9,
+      "article_count": 9,
       "source_domains": [
+        "ansa.it",
         "adnkronos.com",
         "unita.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
+        "milano.repubblica.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/03/a-milano-si-tuffa-di-notte-in-una-piscina-pubblica-e-annega.-indagati-gli-amici_ee806dfa-fcfa-4e9e-a970-10254713c224.html",
         "https://www.adnkronos.com/cronaca/milano-morto-annegato-piscina-romano_1GGJpdPiIkuLdpDthmL92r",
         "https://www.unita.it/2026/07/03/scavalcano-tuffano-muore-notte-milano-tragedia-amici/",
         "https://www.ilfattoquotidiano.it/2026/07/03/milano-piscina-romano-morto-annegato-news/8437998/",
-        "https://www.ilgiornale.it/news/nazionale/scavalca-recinzione-e-si-tuffa-notte-nella-piscina-pubblica-2688214.html",
-        "https://www.liberoquotidiano.it/news/milano/48408757/milano-28enne-annega-piscina-scavalcato-recinzione-notte/"
+        "https://www.ilgiornale.it/news/nazionale/scavalca-recinzione-e-si-tuffa-notte-nella-piscina-pubblica-2688214.html"
       ]
     },
     {
       "rank": 3,
-      "title": "Mastella: “Sono malato, spero di farcela. Pregate per me” /Video l'annuncio in chiesa",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/07/02/mastella-a-tutti-chiedo-di-pregare-per-me-anche-io-sono-malato_40ac942c-a114-4802-807b-e6be90f0e1ed.html",
-        "https://www.repubblica.it/politica/2026/07/03/news/malattia_mastella_berlusconi_bonino_politici_annuncio-425448355/",
-        "https://www.ilgiornale.it/news/interni/mastella-racconta-malattia-ho-tumore-ora-temo-morire-solo-2688179.html",
-        "https://napoli.repubblica.it/cronaca/2026/07/03/news/clemente_mastella_annuncio_malattia_affetto_persone-425448080/",
-        "https://www.ilmessaggero.it/politica/mastella_choc_chiesa_sto_male_pregate_me-9628368.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Sale a 30 il bilancio dei morti a Kiev nell'attacco russo di ieri. Drone contro un condominio a Sumy",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/02/notte-di-raid-russi-su-kiev-sale-a-20-il-bilancio-dei-morti.-zelensky-con_4619cad3-36b7-4911-8f90-e65990dfa7b0.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/07/03/prime-pagine-putin-scatena-linferno-su-kiev-oltre-25-morti-e-palazzi-rasi_0637200b-feba-4a73-b9a0-480fb3002b94.html",
-        "https://www.ilgiornale.it/news/guerra/oltre-30-morti-kiev-droni-russi-su-sumy-uccisa-bimba-anno-2688170.html",
-        "https://www.repubblica.it/esteri/2026/07/03/diretta/guerra_ucraina_russia_news_oggi-425448077/",
-        "https://ilmanifesto.it/kiev-brucia-lattacco-russo-piu-grave-di-sempre-22-morti"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Allegri nuovo allenatore del Napoli, è ufficiale. De Laurentiis: “Benvenuto Max”",
-      "source_count": 5,
-      "article_count": 5,
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "unita.it",
         "adnkronos.com",
         "ansa.it",
         "ilmessaggero.it",
@@ -102,38 +67,141 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/calcio/inizia-l-era-allegri-sulla-panchina-napoli-2688351.html",
+        "https://www.ilfattoquotidiano.it/2026/07/03/napoli-allegri-ufficialmente-nuovo-allenatore-si-trova-mercato-bloccato-analisi/8438210/",
+        "https://www.unita.it/2026/07/03/allegri-allenatore-napoli-milan-centenario/",
         "https://www.adnkronos.com/sport/napoli-allegri-annuncio-ufficiale-reazioni-tifosi_2jeA7yZVVmyYfSpWTByEWT",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/03/de-laurentiis-ufficializza-allegri-benvenuto-max_f58fdce1-9c26-431f-8da9-c5f361491cef.html",
-        "https://www.ilmessaggero.it/sport/calcio/allegri_napoli_quanto_guadagna-9629680.html",
-        "https://www.repubblica.it/sport/calcio/serie-a/2026/07/03/news/allegri_napoli_allenatore_ufficiale_ultime_notizie-425448658/",
-        "https://www.lastampa.it/sport/2026/07/03/news/massimiliano_allegri_nuovo_allenatore_napoli-15678959/"
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/03/de-laurentiis-ufficializza-allegri-benvenuto-max_f58fdce1-9c26-431f-8da9-c5f361491cef.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Ucraina, nuovi attacchi russi su Kiev, sale a 30 numero dei morti",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/pioggia-missili-e-strage-kiev-avviso-zelensky-risponderemo-2688053.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48409957/ucraina-sale-30-morti-92-feriti-bilancio-attacco-russo-kiev/",
+        "https://www.liberoquotidiano.it/news/tv-news/48411052/ucraina-nuovi-attacchi-russi-su-kiev-sale-a-30-numero-dei-morti/",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/02/notte-di-raid-russi-su-kiev-sale-a-20-il-bilancio-dei-morti.-zelensky-con_4619cad3-36b7-4911-8f90-e65990dfa7b0.html",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/07/03/prime-pagine-putin-scatena-linferno-su-kiev-oltre-25-morti-e-palazzi-rasi_0637200b-feba-4a73-b9a0-480fb3002b94.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Hegseth era pronto ad annunciare tagli significativi delle truppe Usa in Europa: Rubio l’ha fermato",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/03/wsj-hegseth-stava-per-annunciare-tagli-alle-truppe-in-europa-rubio_c5807f8d-e239-4bea-bf5d-7f8cfb6557d4.html",
+        "https://www.ilgiornale.it/news/politica-estera/truppe-usa-dall-europa-piano-bloccato-all-ultimo-cosa-voleva-2688291.html",
+        "https://www.ilfattoquotidiano.it/2026/07/03/capo-pentagono-pete-hegseth-nuovi-tagli-truppe-usa-europa-rubio-lo-ha-fermato/8438128/",
+        "https://www.ilmessaggero.it/mondo/nato_piano_hegseth_taglio_militari_usa_europa_rubio_cosa_sappiamo-9629728.html",
+        "https://www.adnkronos.com/internazionale/esteri/nato-attacco-trump-retroscena-hegseth-news_27prxVK4Y8soiZzf8A3zkL"
       ]
     },
     {
       "rank": 6,
-      "title": "Ronaldo e Gonçalo Ramos ribaltano la Croazia, il Portogallo vince 2-1: agli ottavi contro la Spagna",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Azzurro inglese",
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
-        "ansa.it",
-        "repubblica.it",
+        "adnkronos.com",
         "ilgiornale.it",
+        "repubblica.it",
         "lastampa.it",
+        "ansa.it",
         "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/03/mondiali-portogallo-in-rimonta-vince-2-1.-dramma-croazia-dubbi-sul-gol-annullato_525c52e3-d694-4f04-aa13-4be7335128b3.html",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/03/news/portogallo_croazia_ronaldo_goncalo_ramos_gol-425448543/",
-        "https://www.ilgiornale.it/news/calcio/cristiano-ronaldo-e-gon-alo-ramos-leao-portogallo-batte-2-1-2688142.html",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/03/news/il_portogallo_supera_al_cardiopalma_la_croazia_prosegue_il_mondiale_di_ronaldo_ma_solo_i_sensori_del_pallone_lo_salvano-15678798/",
-        "https://www.ilmessaggero.it/sport/schede/portogallo_croazia_cristiano_ronaldo_perisic_modric_goncalo_ramos_pagelle_mondiali-9628460.html"
+        "https://www.adnkronos.com/sport/diretta-djokovic-rinderknech-oggi-wimbledon-2026-risultato-live_3HeG5yRxEot97LxN9vvvd",
+        "https://www.ilgiornale.it/news/tennis/wimbledon-giorno-sinner-brooksby-chi-l-avversario-e-quando-2688275.html",
+        "https://www.repubblica.it/sport/dossier/wimbledon/2026/07/03/news/jenson_brooksby_sinner_avversario_wimbledon_chi_e-425448399/",
+        "https://www.ilgiornale.it/news/tennis/azzurro-inglese-2688162.html",
+        "https://www.lastampa.it/sport/2026/07/03/news/wimbledon_berrettini_terzo_turno-15678854/"
       ]
     },
     {
       "rank": 7,
+      "title": "Khamenei, la salma arriva a Teheran: l’Iran prepara il funerale-show nel cuore della crisi",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/03/teheran-si-trasforma-in-un-palco-per-i-funerali-di-khamenei-a-guardar-bene-e-solo-uno-spettacolo/8438096/",
+        "https://www.ilfattoquotidiano.it/2026/07/03/iran-le-immagini-dellarrivo-della-salma-di-khamenei-alla-grande-moschea-di-teheran/8438174/",
+        "https://www.ilgiornale.it/news/politica/i-megafunerali-khamenei-senza-figlio-mojtaba-poi-i-nuovi-2688052.html",
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/03/la-salma-di-khamenei-nella-grande-moschea.-lomaggio-del-capo-dei-pasdaran_2286d37b-9cba-4c28-b133-5327e5a5e1ca.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48410504/iran-la-salma-di-ali-khamenei-alla-grande-moschea-di-teheran/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Ronaldo e Gonçalo Ramos ribaltano la Croazia, il Portogallo vince 2-1: agli ottavi contro la Spagna",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "lastampa.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/tech/2026/07/03/news/portogallo_croazia_pallone_adidas_ronaldo-15679084/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/03/mondiali-portogallo-in-rimonta-vince-2-1.-dramma-croazia-dubbi-sul-gol-annullato_525c52e3-d694-4f04-aa13-4be7335128b3.html",
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/03/news/portogallo_croazia_ronaldo_goncalo_ramos_gol-425448543/",
+        "https://www.ilgiornale.it/news/calcio/cristiano-ronaldo-e-gon-alo-ramos-leao-portogallo-batte-2-1-2688142.html",
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/03/news/portogallo_croazia_cosa_e_successo_var_fuorigioco_sensore_pallone-425448181/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Vigilanza Rai azzerata. Blitz del Campo largo con dimissioni in blocco",
+      "source_count": 4,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/vigilanza-rai-azzerata-blitz-campo-largo-dimissioni-blocco-2688060.html",
+        "https://www.repubblica.it/politica/2026/07/03/news/vigilanza_rai_dimissioni_commissione-425447903/",
+        "https://www.repubblica.it/politica/2026/07/03/news/rai_cosa_succede_dimissioni_vigilanza_rai-425447912/",
+        "https://www.repubblica.it/politica/2026/07/03/news/dimissioni_vigilanza_rai_stefano_graziano_intervista-425447883/",
+        "https://www.repubblica.it/politica/2026/07/03/news/maria_elena_boschi_dimissioni_vigilanza_rai_intervista-425447896/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Spagna al bacio, Austria demolita: le Furie Rosse volano agli ottavi di finale",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
         "liberoquotidiano.it",
         "ilgiornale.it",
@@ -142,66 +210,11 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/48409959/mondiali-spagna-austria-3-0-a-madrid-esplode-gioia-tifosi/",
         "https://www.liberoquotidiano.it/news/tv-news/48410122/mondiali-spagna-agli-ottavi-3-0-all-austria-festa-dei-tifosi/",
         "https://www.ilgiornale.it/news/calcio/spagna-senza-affanni-tris-ottavi-2688164.html",
         "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/02/news/spagna_austria_gol-425448007/",
-        "https://www.ilmessaggero.it/sport/schede/spagna_austria_pagelle_oyarzabal_cucurella_yamal_mondiali-9628346.html",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/02/news/la_spagna_domina_l_austria_3-0_e_vola_agli_ottavi_affrontera_la_vincente_tra_portogallo_e_croazia-15678723/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Azzurro inglese",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/tennis/wimbledon-giorno-sinner-brooksby-chi-l-avversario-e-quando-2688275.html",
-        "https://www.ilgiornale.it/news/tennis/azzurro-inglese-2688162.html",
-        "https://www.lastampa.it/sport/2026/07/03/news/wimbledon_berrettini_terzo_turno-15678854/",
-        "https://www.ansa.it/sito/notizie/sport/2026/07/02/italia-protagonista-a-wimbledon-berrettini-guida-il-poker-azzurro_3086fc29-04c2-48df-95f5-b3f1a67e5242.html",
-        "https://www.ilgiornale.it/news/tennis/wimbledon-berrettini-straordinario-sconfigge-fils-4-set-e-2687997.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Rai, azzerata la Vigilanza. L’opposizione lascia: “Denunciare non è servito”",
-      "source_count": 3,
-      "article_count": 6,
-      "source_domains": [
-        "repubblica.it",
-        "ilmanifesto.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/07/03/news/vigilanza_rai_dimissioni_commissione-425447903/",
-        "https://www.repubblica.it/politica/2026/07/03/news/rai_cosa_succede_dimissioni_vigilanza_rai-425447912/",
-        "https://www.repubblica.it/politica/2026/07/03/news/dimissioni_vigilanza_rai_stefano_graziano_intervista-425447883/",
-        "https://www.repubblica.it/politica/2026/07/03/news/maria_elena_boschi_dimissioni_vigilanza_rai_intervista-425447896/",
-        "https://ilmanifesto.it/le-grandi-dimissioni-dalla-vigilanza-rai-commissione-in-tilt"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Khamenei, la salma arriva a Teheran: l’Iran prepara il funerale-show nel cuore della crisi",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/03/la-salma-di-khamenei-nella-grande-moschea.-lomaggio-del-capo-dei-pasdaran_2286d37b-9cba-4c28-b133-5327e5a5e1ca.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/khamenei-salma-arriva-teheran-l-iran-prepara-funerale-show-2688199.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/03/iran-esposta-la-bara-di-ali-khamenei-nella-grande-moschea-di-teheran-delegazioni-da-piu-di-100-paesi-per-i-funerali-dellayatollah/8437981/",
-        "https://www.repubblica.it/esteri/2026/07/03/news/iran_la_prova_di_forza_al_funerale_di_khamenei_dobbiamo_ribellarci-425447859/"
+        "https://www.ilmessaggero.it/sport/schede/spagna_austria_pagelle_oyarzabal_cucurella_yamal_mondiali-9628346.html"
       ]
     }
   ]
