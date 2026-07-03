@@ -1,6 +1,6 @@
 {
   "date": "2026-07-03",
-  "generated_at": "Fri 03 Jul 19:45",
+  "generated_at": "Fri 03 Jul 21:17",
   "stories": [
     {
       "rank": 1,
@@ -56,7 +56,7 @@
       "rank": 3,
       "title": "Wimbledon, Sinner vola agli ottavi: 'Posso crescere ancora'",
       "source_count": 6,
-      "article_count": 16,
+      "article_count": 15,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
@@ -121,27 +121,6 @@
     },
     {
       "rank": 6,
-      "title": "Ucraina, nuovi attacchi russi su Kiev, sale a 30 numero dei morti",
-      "source_count": 6,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/03/ucraina-a-kiev-si-scava-ancora-dopo-i-raid-nuova-strage-a-sumy_4619cad3-36b7-4911-8f90-e65990dfa7b0.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48412768/ucraina-drone-contro-condominio-sumy-4-morti/",
-        "https://www.ilgiornale.it/news/politica/pioggia-missili-e-strage-kiev-avviso-zelensky-risponderemo-2688053.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48409957/ucraina-sale-30-morti-92-feriti-bilancio-attacco-russo-kiev/",
-        "https://www.liberoquotidiano.it/news/tv-news/48411052/ucraina-nuovi-attacchi-russi-su-kiev-sale-a-30-numero-dei-morti/"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Allegri nuovo allenatore del Napoli, è ufficiale. De Laurentiis: “Benvenuto Max”",
       "source_count": 8,
       "article_count": 8,
@@ -164,7 +143,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Hegseth era pronto ad annunciare tagli significativi delle truppe Usa in Europa: Rubio l’ha fermato",
       "source_count": 8,
       "article_count": 8,
@@ -187,7 +166,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Il giorno del sì blindato di Taylor Swift e Travis Kelce",
       "source_count": 6,
       "article_count": 10,
@@ -208,23 +187,45 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Mastella racconta la malattia: “Ho un tumore, ora temo di morire da solo”",
-      "source_count": 5,
-      "article_count": 7,
+      "rank": 9,
+      "title": "Terremoto in Venezuela, il capo della polizia di La Guaira è vivo sotto le macerie: intrappolato per 9 giorni",
+      "source_count": 7,
+      "article_count": 9,
       "source_domains": [
-        "ilgiornale.it",
         "ansa.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
+        "lastampa.it",
         "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/mastella-chiesa-e-fascia-commuove-i-concittadini-sono-malato-2688063.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/07/02/mastella-a-tutti-chiedo-di-pregare-per-me-anche-io-sono-malato_40ac942c-a114-4802-807b-e6be90f0e1ed.html",
-        "https://www.ilfattoquotidiano.it/2026/07/03/mastella-tumore-preghiera-benevento-sindaco-intervista/8438004/",
-        "https://www.repubblica.it/politica/2026/07/03/news/malattia_mastella_berlusconi_bonino_politici_annuncio-425448355/",
-        "https://www.liberoquotidiano.it/news/politica/48408627/mastella-a-cuore-aperto-tumore-paura-morire-da-solo/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/03/terremoto-in-venezuela-non-ce-lha-fatta-il-piccolo-fabio-speranze-per-un-dirigente_9d914adf-7b61-4dea-8de6-322380e647d5.html",
+        "https://www.ilmessaggero.it/mondo/terremoto_venezuela_capo_polizia_vivo_macerie_chi_e_gustavo_matamoros-9630464.html",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/venezuela-vivo-capo-polizia-guaira-sotto-macerie-9-giorni-2688639.html",
+        "https://www.ilfattoquotidiano.it/2026/07/03/bimbo-resiste-da-9-giorni-sotto-le-macerie-anche-il-capo-della-polizia-di-la-guaira-intrappolato-la-corsa-contro-il-tempo-nel-venezuela-devastato-dal-sisma/8438953/",
+        "https://www.repubblica.it/esteri/2026/07/03/news/venezuela_terremoto_capo_polizia_la_guaira-425450156/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Ucraina, nuovi attacchi russi su Kiev, sale a 30 numero dei morti",
+      "source_count": 5,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/03/ucraina-a-kiev-si-scava-ancora-dopo-i-raid-nuova-strage-a-sumy_4619cad3-36b7-4911-8f90-e65990dfa7b0.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48412768/ucraina-drone-contro-condominio-sumy-4-morti/",
+        "https://www.ilgiornale.it/news/politica/pioggia-missili-e-strage-kiev-avviso-zelensky-risponderemo-2688053.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48409957/ucraina-sale-30-morti-92-feriti-bilancio-attacco-russo-kiev/",
+        "https://www.liberoquotidiano.it/news/tv-news/48411052/ucraina-nuovi-attacchi-russi-su-kiev-sale-a-30-numero-dei-morti/"
       ]
     }
   ]
