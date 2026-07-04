@@ -1,12 +1,36 @@
 {
   "date": "2026-07-04",
-  "generated_at": "Sat 04 Jul 18:09",
+  "generated_at": "Sat 04 Jul 19:30",
   "stories": [
     {
       "rank": 1,
+      "title": "Fentanyl rubato a Roma, l’allarme del governo: \"Con 80 fiale fino a 20mila dosi\"",
+      "source_count": 9,
+      "article_count": 15,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "roma.repubblica.it",
+        "lastampa.it",
+        "ilmanifesto.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/04/fentanyl-il-furto-del-farmaco-sarebbe-avvenuto-in-due-momenti-ispezione-dei-carabinieri-allospedale-israelitico/8439528/",
+        "https://www.ilgiornale.it/news/nazionale/dalle-80-fiale-fentanyl-rubate-si-possono-ricavare-decine-2688952.html",
+        "https://www.adnkronos.com/cronaca/fentanyl-italia-allerta-circolare-ministero-salute_2bRS0QlluhJpe66PYVUeB5",
+        "https://www.ilmessaggero.it/roma/eur/fentanyl_rubato_cosa_non_torna_cassaforte_chiave_clonata_roma-9631872.html",
+        "https://www.ilgiornale.it/news/politica/rubate-80-fiale-20mila-dosi-furto-su-commissione-2688716.html"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Papa Leone XIV arriva a Lampedusa e saluta i fedeli, le immagini",
       "source_count": 6,
-      "article_count": 18,
+      "article_count": 17,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -21,29 +45,6 @@
         "https://palermo.repubblica.it/cronaca/2026/07/04/news/baglioni_lampedusa_visita_papa_leone-425451254/",
         "https://www.liberoquotidiano.it/news/pillole/48428206/papa_leone_xiv_lascia_lampedusa_le_immagini/",
         "https://www.ansa.it/vaticano/notizie/2026/07/04/il-papa-a-lampedusa-in-questo-luogo-piu-che-le-parole-parlano-i-gesti_604cee96-21bc-402f-b091-092fa39b5889.html"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Teheran, iniziati ufficialmente i funerali di Khamenei",
-      "source_count": 8,
-      "article_count": 15,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/iran-funerali-khamenei-trump_54zJJ8LYvywoO7t9YjD7aX",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/04/morte-allamerica-in-migliaia-a-teheran-per-ali-khamenei_adf19df3-d166-41ba-ae89-fec8b46d615c.html",
-        "https://www.ilfattoquotidiano.it/2026/07/04/folla-khamenei-slogan-usa-morte-allamerica/8439322/",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/04/iran-funerale-khamenei-ultime-notizie/8439303/",
-        "https://www.ilgiornale.it/news/politica-estera/4-luglio-teheran-2688821.html"
       ]
     },
     {
@@ -70,25 +71,25 @@
     },
     {
       "rank": 4,
-      "title": "Fentanyl rubato a Roma, l’allarme del governo: \"Con 80 fiale fino a 20mila dosi\"",
+      "title": "Teheran, iniziati ufficialmente i funerali di Khamenei",
       "source_count": 8,
-      "article_count": 14,
+      "article_count": 13,
       "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ansa.it",
-        "roma.repubblica.it",
-        "lastampa.it",
-        "ilmanifesto.it"
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/04/fentanyl-il-furto-del-farmaco-sarebbe-avvenuto-in-due-momenti-ispezione-dei-carabinieri-allospedale-israelitico/8439528/",
-        "https://www.ilgiornale.it/news/nazionale/dalle-80-fiale-fentanyl-rubate-si-possono-ricavare-decine-2688952.html",
-        "https://www.adnkronos.com/cronaca/fentanyl-italia-allerta-circolare-ministero-salute_2bRS0QlluhJpe66PYVUeB5",
-        "https://www.ilmessaggero.it/roma/eur/fentanyl_rubato_cosa_non_torna_cassaforte_chiave_clonata_roma-9631872.html",
-        "https://www.ilgiornale.it/news/politica/rubate-80-fiale-20mila-dosi-furto-su-commissione-2688716.html"
+        "https://www.adnkronos.com/internazionale/esteri/iran-funerali-khamenei-trump_54zJJ8LYvywoO7t9YjD7aX",
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/04/morte-allamerica-in-migliaia-a-teheran-per-ali-khamenei_adf19df3-d166-41ba-ae89-fec8b46d615c.html",
+        "https://www.ilfattoquotidiano.it/2026/07/04/folla-khamenei-slogan-usa-morte-allamerica/8439322/",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/04/iran-funerale-khamenei-ultime-notizie/8439303/",
+        "https://www.ilgiornale.it/news/politica-estera/4-luglio-teheran-2688821.html"
       ]
     },
     {
@@ -181,6 +182,26 @@
     },
     {
       "rank": 9,
+      "title": "Mondiali, oggi Canada-Marocco - Diretta",
+      "source_count": 5,
+      "article_count": 11,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/caos-canada-marocco-hakimi-rissa-mondiali-2026_6CjMEgS8wm6B520X3Kzxub",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/04/mondiali-canada-marocco-0-0-diretta-e-foto_b44394fb-8c6e-46f5-a50c-4dc62bd31a9b.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/04/mondiali-paraguay-francia-diretta_bb6ac486-d86b-4694-8619-c7707f4ede67.html",
+        "https://www.adnkronos.com/sport/diretta-canada-marocco-oggi-mondiali-2026-risultato-live_iLcqUXdJX3yOxTXfG7TOX",
+        "https://www.adnkronos.com/sport/mondiali-oggi-iniziano-ottavi-partite-tabellone-calendario-dove-vederle-tv-streaming_3tRpulNMPGnKYdYT0aUGnx"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Taylor Swift e Travis Kelce sono marito e moglie, al Madison Square Garden il sì più glam dell’anno",
       "source_count": 7,
       "article_count": 9,
@@ -199,29 +220,6 @@
         "https://www.ilmessaggero.it/persone/taylor_swift_matrimonio_vestito_sposa_dior_travis_kelce-9631824.html",
         "https://www.ilgiornale.it/news/politica/swift-kelce-stelle-e-strisce-s-blindato-show-2688721.html",
         "https://www.ilfattoquotidiano.it/2026/07/04/taylor-swift-e-travis-kelce-sono-ufficialmente-sposati-da-adam-sandler-lannuncio-del-madison-square-garden-labito-dior-e-tutti-gli-ospiti-vip/8439204/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Otranto, si tuffa in mare per salvare i figli piccoli: muore papà di 54 anni",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "bari.repubblica.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/04/padre-salva-i-suoi-due-gemelli-che-stavano-annegando-si-sente-male_889645f0-ea33-42f2-983e-daf4b417b033.html",
-        "https://www.ilfattoquotidiano.it/2026/07/04/salva-i-due-figli-gemelli-dalle-onde-poi-si-accascia-sulla-spiaggia-e-muore-a-otranto/8439504/",
-        "https://www.ilmessaggero.it/italia/gennaro_cagnazzo_morto_salvataggio_figli_mare_otranto_cosa_e_successo-9632013.html",
-        "https://www.adnkronos.com/cronaca/otranto-mare-gemelli-malore-padre_7loMOdDLtDHQjk7xTv0R9F",
-        "https://www.ilgiornale.it/news/cronaca-nera/si-tuffa-mare-salvare-i-suoi-figli-difficolt-i-bimbi-illesi-2688944.html"
       ]
     }
   ]
