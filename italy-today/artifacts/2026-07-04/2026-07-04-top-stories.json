@@ -1,37 +1,59 @@
 {
   "date": "2026-07-04",
-  "generated_at": "Sat 04 Jul 11:01",
+  "generated_at": "Sat 04 Jul 12:15",
   "stories": [
     {
       "rank": 1,
       "title": "Fentanyl rubato a Roma, l’allarme del governo: \"Con 80 fiale fino a 20mila dosi\"",
       "source_count": 9,
-      "article_count": 13,
+      "article_count": 14,
       "source_domains": [
+        "ilmessaggero.it",
         "ilgiornale.it",
         "ansa.it",
         "roma.repubblica.it",
         "lastampa.it",
         "ilmanifesto.it",
-        "ilmessaggero.it",
         "unita.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
+        "https://www.ilmessaggero.it/roma/eur/fentanyl_rubato_cosa_non_torna_cassaforte_chiave_clonata_roma-9631872.html",
         "https://www.ilgiornale.it/news/politica/rubate-80-fiale-20mila-dosi-furto-su-commissione-2688716.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/04/maxifurto-di-fentanyl-allisraelitico-rubate-fiale-per-20mila-dosi_5afd910d-4b95-4b3b-90dd-af4bacf38a7d.html",
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/chiavi-l-assenza-telecamere-e-doppio-accesso-cosa-non-torna-2688803.html",
-        "https://roma.repubblica.it/cronaca/2026/07/04/news/furto_fentanyl_ospedale_israelitico_chiavi_clonabili_video-425450847/",
-        "https://www.lastampa.it/cronaca/2026/07/04/news/le_80_fiale_di_fentanyl_sparite_a_roma_furto_mirato_o_falla_clamorosa_i_punti_che_non_tornano-15679963/"
+        "https://roma.repubblica.it/cronaca/2026/07/04/news/furto_fentanyl_ospedale_israelitico_chiavi_clonabili_video-425450847/"
       ]
     },
     {
       "rank": 2,
-      "title": "Teheran, iniziati ufficialmente i funerali di Khamenei",
-      "source_count": 7,
-      "article_count": 12,
+      "title": "Papa a Lampedusa, attivista lo ringrazia per visita al cimitero migranti",
+      "source_count": 6,
+      "article_count": 17,
       "source_domains": [
+        "palermo.repubblica.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://palermo.repubblica.it/cronaca/2026/07/04/news/baglioni_lampedusa_visita_papa_leone-425451254/",
+        "https://www.ansa.it/vaticano/notizie/2026/07/04/il-papa-a-lampedusa-in-questo-luogo-piu-che-le-parole-parlano-i-gesti_604cee96-21bc-402f-b091-092fa39b5889.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48427084/papa-leone-lampedusa-lo-ferma-la-suora-sa-come-mi-chiamo-cala-gelo/",
+        "https://www.adnkronos.com/cronaca/papa-lampedusa-video_4bRdIsNph9fMmyK5MSskfS",
+        "https://www.liberoquotidiano.it/news/tv-news/48427300/papa-a-lampedusa-baglioni-grande-dono-l-abbraccio-di-due-papi-all-isola/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Teheran, iniziati ufficialmente i funerali di Khamenei",
+      "source_count": 8,
+      "article_count": 14,
+      "source_domains": [
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "ansa.it",
         "liberoquotidiano.it",
@@ -41,15 +63,15 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/04/folla-khamenei-slogan-usa-morte-allamerica/8439322/",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/04/iran-funerale-khamenei-ultime-notizie/8439303/",
         "https://www.ilgiornale.it/news/politica-estera/4-luglio-teheran-2688821.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/04/teheran-iniziati-ufficialmente-i-funerali-di-khamenei_af009a76-cc8b-43af-839c-d4314e75626e.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48424161/iran-migliaia-di-persone-davanti-alla-moschea-di-teheran-per-i-funerali-di-khamenei/",
-        "https://www.ilgiornale.it/news/politica-estera/liran-si-ferma-khamenei-sei-giorni-lutto-e-mobilitazione-2688796.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48425079/in-migliaia-a-teheran-per-la-cerimonia-funebre-di-ali-khamenei/"
+        "https://www.liberoquotidiano.it/news/libero-video/48424161/iran-migliaia-di-persone-davanti-alla-moschea-di-teheran-per-i-funerali-di-khamenei/"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "4 luglio, Trump a Mount Rushmore: \"Non saremo mai comunisti, nostra identità sotto attacco\"",
       "source_count": 7,
       "article_count": 11,
@@ -71,27 +93,30 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Papa a Lampedusa, attivista lo ringrazia per visita al cimitero migranti",
-      "source_count": 5,
-      "article_count": 12,
+      "rank": 5,
+      "title": "Taylor Swift e Travis Kelce sono marito e moglie, al Madison Square Garden il sì più glam dell’anno",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
+        "ilmessaggero.it",
         "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
         "liberoquotidiano.it",
+        "repubblica.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/vaticano/notizie/2026/07/04/il-papa-a-lampedusa-in-questo-luogo-piu-che-le-parole-parlano-i-gesti_604cee96-21bc-402f-b091-092fa39b5889.html",
-        "https://www.adnkronos.com/cronaca/papa-lampedusa-video_4bRdIsNph9fMmyK5MSskfS",
-        "https://www.ansa.it/vaticano/notizie/2026/07/04/il-papa-e-atterrato-a-lampedusa-13-anni-dopo-il-viaggio-di-francesco_604cee96-21bc-402f-b091-092fa39b5889.html",
-        "https://www.ilgiornale.it/news/attualit/papa-leone-xiv-lampedusa-programma-pontefice-visita-2688818.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48427228/papa-leone-xiv-con-i-migranti-alla-porta-d-europa-a-lampedusa/"
+        "https://www.ilmessaggero.it/persone/taylor_swift_travis_kelce_abito_da_sposa_vip_madison_square_garden-9631824.html",
+        "https://www.ilgiornale.it/news/politica/swift-kelce-stelle-e-strisce-s-blindato-show-2688721.html",
+        "https://www.ilfattoquotidiano.it/2026/07/04/taylor-swift-e-travis-kelce-sono-ufficialmente-sposati-da-adam-sandler-lannuncio-del-madison-square-garden-labito-dior-e-tutti-gli-ospiti-vip/8439204/",
+        "https://www.adnkronos.com/spettacoli/matrimonio-taylor-swift-travis-kelce_1msoo0oGm8Of5Plb7yyXaP",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/04/taylor-swift-e-travis-kelce-si-sono-sposati_f44ce959-3009-4608-bd03-c5fc0e2dd8aa.html"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Spavento per Aldo Montano, in ospedale per choc anafilattico: “La mia vita appesa a un filo”",
       "source_count": 8,
       "article_count": 8,
@@ -114,29 +139,72 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Taylor Swift e Travis Kelce sono marito e moglie, al Madison Square Garden il sì più glam dell’anno",
-      "source_count": 7,
-      "article_count": 7,
+      "rank": 7,
+      "title": "F1: Antonelli vince la gara sprint in Inghilterra, seconda la Ferrari di Hamilton",
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
         "adnkronos.com",
+        "ilgiornale.it",
         "ansa.it",
-        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/persone/taylor_swift_travis_kelce_abito_da_sposa_vip_madison_square_garden-9631824.html",
-        "https://www.ilgiornale.it/news/politica/swift-kelce-stelle-e-strisce-s-blindato-show-2688721.html",
-        "https://www.ilfattoquotidiano.it/2026/07/04/taylor-swift-e-travis-kelce-sono-ufficialmente-sposati-da-adam-sandler-lannuncio-del-madison-square-garden-labito-dior-e-tutti-gli-ospiti-vip/8439204/",
-        "https://www.adnkronos.com/spettacoli/matrimonio-taylor-swift-travis-kelce_1msoo0oGm8Of5Plb7yyXaP",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/04/taylor-swift-e-travis-kelce-si-sono-sposati_f44ce959-3009-4608-bd03-c5fc0e2dd8aa.html"
+        "https://www.adnkronos.com/sport/f1-gp-gran-bretagna-antonelli-hamilton_4Lo2qCH6lO5VsdtHXyZP4v",
+        "https://www.ilgiornale.it/news/motori/f1-antonelli-batte-hamilton-nella-sprint-silverstone-leclerc-2688898.html",
+        "https://www.ansa.it/sito/notizie/sport/2026/07/04/f1-antonelli-vince-la-gara-sprint-in-inghilterra-seconda-la-ferrari-di-hamilton_06918c32-114c-4c3b-9b67-0f3fc1a65042.html",
+        "https://www.repubblica.it/sport/formulauno/2026/07/04/news/antonelli_vince_sprint_gp_silverstone-425451282/",
+        "https://www.adnkronos.com/sport/f1-gp-gran-bretagna-ferrari-antonelli-mercedes_5LkEiDW1UkbT1N0rSgTfuP"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Tifoso ferito in scontri derby Torino, Procura: \"Chiesti domiciliari per agente, lacrimogeno lanciato in modo non conforme\"",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "torino.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/04/arresto-poliziotto-tifoso-ferito-derby-torino-juve/8439293/",
+        "https://www.adnkronos.com/cronaca/scontri-derby-torino-tifoso-ferito-procura-arresto-poliziotto_7KmeEoxQOct0KFHShTvjhV",
+        "https://www.ilmessaggero.it/italia/tifoso_ferito_derby_torino_chiesto_arresto_di_un_poliziotto-9631696.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/04/pm-grave-quadro-indiziario-per-il-poliziotto-riguardo-al-ferimento-di-un-tifoso-juventino_44e39a3a-a14a-4550-ba54-b1f51eb315f9.html",
+        "https://www.ilgiornale.it/news/nazionale/torino-juventus-chiesti-i-domiciliari-agente-lacrimogeno-ad-2688793.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "San Siro, aggredito con 20 coltellate alle spalle senza motivo: grave un uomo di 55 anni",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/04/accoltellato-fuori-da-un-bar-a-san-siro-a-milano-gravissimo-55enne-laggressore-bloccato-da-clienti-e-passanti/8439318/",
+        "https://www.adnkronos.com/cronaca/milano-colpito-coltellate-schiena-cosa-e-successo_6IIddWXRUvGgvBb0fQgsa7",
+        "https://www.ilgiornale.it/news/cronaca-nera/uomo-55-anni-accoltellato-22enne-gambiano-mai-visto-ha-2688894.html",
+        "https://www.ilmessaggero.it/italia/milano_accoltellato_da_sconosciuto_chi_e_cosa_e_successo-9631848.html",
+        "https://milano.repubblica.it/cronaca/2026/07/04/news/san_siro_accoltellato_uomo_grave-425451033/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Il Papa dei migranti a Lampedusa sfida l'Europa dei muri, la preghiera al cimitero delle vittime senza nome",
       "source_count": 6,
       "article_count": 7,
@@ -154,68 +222,6 @@
         "https://www.repubblica.it/cronaca/2026/07/04/news/leone_xiv_migranti_lampedusa_indipendenza_usa-425450295/",
         "https://www.lastampa.it/cronaca/2026/07/04/news/papa_leone_lampedusa-15679982/",
         "https://www.ilgiornale.it/news/vaticano/leone-xiv-oggi-lampedusa-seconda-volta-nella-storia-papa-2688777.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "La letterina del piccolo Leo al Papa: 'Io sbarcato qui da solo 10 anni fa'",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/mondo/lettera_piccolo_leo_a_papa_leone_tappa_a_lampedusa-9631815.html",
-        "https://www.ilgiornale.it/news/vaticano/lettera-piccolo-leo-papa-lampedusa-ero-solo-poi-pallone-mi-2688840.html",
-        "https://www.ilfattoquotidiano.it/2026/07/04/lettera-bimbo-migrante-papa-leone-lampedusa-ho-perso-la-mamma-ma-non-piango-piu/8439216/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/04/la-letterina-del-piccolo-leo-al-papa-io-sbarcato-qui-da-solo-10-anni-fa_f35f6836-c063-445b-bd31-66270b897900.html",
-        "https://www.repubblica.it/cronaca/2026/07/04/news/lettera_bambino_leo_papa_leone_lampedusa-425450973/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Tifoso ferito in scontri derby Torino, Procura: \"Chiesti domiciliari per agente, lacrimogeno lanciato in modo non conforme\"",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "torino.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/scontri-derby-torino-tifoso-ferito-procura-arresto-poliziotto_7KmeEoxQOct0KFHShTvjhV",
-        "https://www.ilmessaggero.it/italia/tifoso_ferito_derby_torino_chiesto_arresto_di_un_poliziotto-9631696.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/04/pm-grave-quadro-indiziario-per-il-poliziotto-riguardo-al-ferimento-di-un-tifoso-juventino_44e39a3a-a14a-4550-ba54-b1f51eb315f9.html",
-        "https://www.ilgiornale.it/news/nazionale/torino-juventus-chiesti-i-domiciliari-agente-lacrimogeno-ad-2688793.html",
-        "https://torino.repubblica.it/cronaca/2026/07/04/news/tifoso_ferito_derby_poliziotto_arresto_lacrimogeno-425450516/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "La Contrada dell'Aquila vola sul tufo e vince il Palio di Siena",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/03/palio-di-siena-vince-contrada-aquila-non-accadeva-dal-1992_a0bb98ee-4e33-4f4e-808d-67a888beae0a.html",
-        "https://www.ilgiornale.it/news/nazionale/palio-siena-trionfa-contrada-dellaquila-34-anni-attesa-2688632.html",
-        "https://www.liberoquotidiano.it/news/italia/48419754/palio-siena-vince-l-aquila-dopo-34-anni-tittia-diodoro-fanno-storia/",
-        "https://www.lastampa.it/cronaca/2026/07/03/news/palio_di_siena_trionfa_l_aquila_non_vinceva_dal_1992-15679640/",
-        "https://www.agi.it/cronaca/news/2026-07-03/palio-siena-vince-aquila-37858257/"
       ]
     }
   ]
