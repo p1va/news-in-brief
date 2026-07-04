@@ -1,12 +1,12 @@
 {
   "date": "2026-07-04",
-  "generated_at": "Sat 04 Jul 14:45",
+  "generated_at": "Sat 04 Jul 16:11",
   "stories": [
     {
       "rank": 1,
       "title": "Papa Leone XIV arriva a Lampedusa e saluta i fedeli, le immagini",
       "source_count": 6,
-      "article_count": 19,
+      "article_count": 18,
       "source_domains": [
         "liberoquotidiano.it",
         "palermo.repubblica.it",
@@ -25,9 +25,33 @@
     },
     {
       "rank": 2,
+      "title": "Spavento per Aldo Montano, in ospedale per choc anafilattico: “La mia vita appesa a un filo”",
+      "source_count": 9,
+      "article_count": 13,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "roma.repubblica.it",
+        "ansa.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/04/ladrenalina-sia-disponibile-come-i-defibrillatori-le-allergie-alimentari-possono-uccidere-lappello-degli-esperti/8439483/",
+        "https://www.adnkronos.com/cronaca/aldo-montano-caseina-allergia-sintomi_3qG9HfaPIZrOmmFOtCumS7",
+        "https://www.ilfattoquotidiano.it/2026/07/04/aldo-montano-parlano-i-medici-il-nostro-lavoro-percepito-e-valorizzato-non-sappiamo-se-abbia-denunciato/8439339/",
+        "https://www.ilmessaggero.it/roma/eur/aldo_montano_ricoverato_amico_gianmarco_d_eusebio_corsa_ospedale_difficolta_respiratoria-9631910.html",
+        "https://www.ilfattoquotidiano.it/2026/07/04/aldo-montano-ricoveratochoc-anafilattico-vita-appesa-a-un-filo-allergia-caseina/8439284/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Teheran, iniziati ufficialmente i funerali di Khamenei",
       "source_count": 8,
-      "article_count": 14,
+      "article_count": 13,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ilgiornale.it",
@@ -47,57 +71,78 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Maxifurto di fentanyl all'Israelitico, rubate fiale per 20mila dosi",
-      "source_count": 8,
+      "rank": 4,
+      "title": "Fentanyl rubato a Roma, l’allarme del governo: \"Con 80 fiale fino a 20mila dosi\"",
+      "source_count": 7,
       "article_count": 13,
       "source_domains": [
+        "ilgiornale.it",
         "adnkronos.com",
         "ilmessaggero.it",
-        "ilgiornale.it",
         "ansa.it",
         "roma.repubblica.it",
         "lastampa.it",
-        "ilmanifesto.it",
-        "news.google.com"
+        "ilmanifesto.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/nazionale/dalle-80-fiale-fentanyl-rubate-si-possono-ricavare-decine-2688952.html",
         "https://www.adnkronos.com/cronaca/fentanyl-italia-allerta-circolare-ministero-salute_2bRS0QlluhJpe66PYVUeB5",
         "https://www.ilmessaggero.it/roma/eur/fentanyl_rubato_cosa_non_torna_cassaforte_chiave_clonata_roma-9631872.html",
         "https://www.ilgiornale.it/news/politica/rubate-80-fiale-20mila-dosi-furto-su-commissione-2688716.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/04/maxifurto-di-fentanyl-allisraelitico-rubate-fiale-per-20mila-dosi_5afd910d-4b95-4b3b-90dd-af4bacf38a7d.html",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/chiavi-l-assenza-telecamere-e-doppio-accesso-cosa-non-torna-2688803.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Spavento per Aldo Montano, in ospedale per choc anafilattico: “La mia vita appesa a un filo”",
-      "source_count": 9,
-      "article_count": 12,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "roma.repubblica.it",
-        "ansa.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/aldo-montano-caseina-allergia-sintomi_3qG9HfaPIZrOmmFOtCumS7",
-        "https://www.ilfattoquotidiano.it/2026/07/04/aldo-montano-parlano-i-medici-il-nostro-lavoro-percepito-e-valorizzato-non-sappiamo-se-abbia-denunciato/8439339/",
-        "https://www.ilmessaggero.it/roma/eur/aldo_montano_ricoverato_amico_gianmarco_d_eusebio_corsa_ospedale_difficolta_respiratoria-9631910.html",
-        "https://www.ilfattoquotidiano.it/2026/07/04/aldo-montano-ricoveratochoc-anafilattico-vita-appesa-a-un-filo-allergia-caseina/8439284/",
-        "https://www.ilgiornale.it/news/nazionale/aldo-montano-ospedale-choc-anafilattico-avevo-avvisato-2688883.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/04/maxifurto-di-fentanyl-allisraelitico-rubate-fiale-per-20mila-dosi_5afd910d-4b95-4b3b-90dd-af4bacf38a7d.html"
       ]
     },
     {
       "rank": 5,
-      "title": "F1: Antonelli vince la gara sprint in Inghilterra, seconda la Ferrari di Hamilton",
+      "title": "Milano, uomo colpito con 20 coltellate senza motivo da uno sconosciuto in zona San Siro: è in codice rosso",
+      "source_count": 9,
+      "article_count": 11,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/chi-e-lamin-saidilly-aggressore-milano-oggi-san-siro_3A5C1IAUtztsc6UegGI4K7",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/04/colpito-con-20-coltellate-alla-schiena-e-alladdome-a-milano_bd1a1ab5-62ee-4553-b704-18b5fa51f247.html",
+        "https://www.ilgiornale.it/news/cronaca-nera/chi-lamin-saidilly-l-uomo-che-ha-accoltellato-passante-2688938.html",
+        "https://www.ilfattoquotidiano.it/2026/07/04/accoltellato-fuori-da-un-bar-a-san-siro-a-milano-gravissimo-55enne-laggressore-bloccato-da-clienti-e-passanti/8439318/",
+        "https://www.adnkronos.com/cronaca/milano-colpito-coltellate-schiena-cosa-e-successo_6IIddWXRUvGgvBb0fQgsa7"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "4 luglio, Trump a Mount Rushmore: \"Non saremo mai comunisti, nostra identità sotto attacco\"",
       "source_count": 7,
       "article_count": 12,
+      "source_domains": [
+        "lastampa.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/esteri/2026/07/04/news/trump_usa_4_luglio_celebrazioni_comunismo-15680364/",
+        "https://www.ilgiornale.it/news/politica/trump-fa-auguri-allamerica-trionfo-nostro-spirito-2688711.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/04/trump-proclama-4-luglio-2026-il-250mo-anniversario-della-dichiarazione-dindipendenza_142e5404-b48d-4844-af10-db492b3766ea.html",
+        "https://www.adnkronos.com/internazionale/esteri/trump-4-luglio-discorso-comunismo-usa_53eOr3FFS652mtwgFoOkbu",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/07/04/trump-identita-usa-sotto-nuovo-attacco-dai-nuovi-arrivati-nel_5fe0c0c4-c847-4667-84ce-a09e7511baa3.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "F1: Antonelli vince la gara sprint in Inghilterra, seconda la Ferrari di Hamilton",
+      "source_count": 7,
+      "article_count": 11,
       "source_domains": [
         "adnkronos.com",
         "ilfattoquotidiano.it",
@@ -116,76 +161,52 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "4 luglio, Trump a Mount Rushmore: \"Non saremo mai comunisti, nostra identità sotto attacco\"",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/trump-fa-auguri-allamerica-trionfo-nostro-spirito-2688711.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/04/trump-proclama-4-luglio-2026-il-250mo-anniversario-della-dichiarazione-dindipendenza_142e5404-b48d-4844-af10-db492b3766ea.html",
-        "https://www.adnkronos.com/internazionale/esteri/trump-4-luglio-discorso-comunismo-usa_53eOr3FFS652mtwgFoOkbu",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/07/04/trump-identita-usa-sotto-nuovo-attacco-dai-nuovi-arrivati-nel_5fe0c0c4-c847-4667-84ce-a09e7511baa3.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48424249/trump-4-luglio-identita-usa-minacciata-rinascita-comunismo/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Milano, uomo colpito con 20 coltellate senza motivo da uno sconosciuto in zona San Siro: è in codice rosso",
-      "source_count": 9,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "milano.repubblica.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/04/colpito-con-20-coltellate-alla-schiena-e-alladdome-a-milano_bd1a1ab5-62ee-4553-b704-18b5fa51f247.html",
-        "https://www.ilfattoquotidiano.it/2026/07/04/accoltellato-fuori-da-un-bar-a-san-siro-a-milano-gravissimo-55enne-laggressore-bloccato-da-clienti-e-passanti/8439318/",
-        "https://www.adnkronos.com/cronaca/milano-colpito-coltellate-schiena-cosa-e-successo_6IIddWXRUvGgvBb0fQgsa7",
-        "https://www.liberoquotidiano.it/news/milano/48428214/milano-gambiano-massacra-20-coltellate-uomo-alba/",
-        "https://www.ilgiornale.it/news/cronaca-nera/uomo-55-anni-accoltellato-22enne-gambiano-mai-visto-ha-2688894.html"
-      ]
-    },
-    {
       "rank": 8,
       "title": "Taylor Swift e Travis Kelce sono marito e moglie, al Madison Square Garden il sì più glam dell’anno",
-      "source_count": 8,
+      "source_count": 7,
       "article_count": 9,
       "source_domains": [
+        "ansa.it",
         "ilmessaggero.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
-        "ansa.it",
         "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
+        "repubblica.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/04/taylor-swift-e-travis-kelce-sposi-trump-tenta-di-rubare-la-scena_f44ce959-3009-4608-bd03-c5fc0e2dd8aa.html",
         "https://www.ilmessaggero.it/persone/taylor_swift_travis_kelce_abito_da_sposa_vip_madison_square_garden-9631824.html",
         "https://www.ilmessaggero.it/persone/taylor_swift_matrimonio_vestito_sposa_dior_travis_kelce-9631824.html",
         "https://www.ilgiornale.it/news/politica/swift-kelce-stelle-e-strisce-s-blindato-show-2688721.html",
-        "https://www.ilfattoquotidiano.it/2026/07/04/taylor-swift-e-travis-kelce-sono-ufficialmente-sposati-da-adam-sandler-lannuncio-del-madison-square-garden-labito-dior-e-tutti-gli-ospiti-vip/8439204/",
-        "https://www.adnkronos.com/spettacoli/matrimonio-taylor-swift-travis-kelce_1msoo0oGm8Of5Plb7yyXaP"
+        "https://www.ilfattoquotidiano.it/2026/07/04/taylor-swift-e-travis-kelce-sono-ufficialmente-sposati-da-adam-sandler-lannuncio-del-madison-square-garden-labito-dior-e-tutti-gli-ospiti-vip/8439204/"
       ]
     },
     {
       "rank": 9,
+      "title": "Otranto, si tuffa in mare per salvare i figli piccoli: muore papà di 54 anni",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "bari.repubblica.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/04/padre-salva-i-suoi-due-gemelli-che-stavano-annegando-si-sente-male_889645f0-ea33-42f2-983e-daf4b417b033.html",
+        "https://www.ilfattoquotidiano.it/2026/07/04/salva-i-due-figli-gemelli-dalle-onde-poi-si-accascia-sulla-spiaggia-e-muore-a-otranto/8439504/",
+        "https://www.ilmessaggero.it/italia/gennaro_cagnazzo_morto_salvataggio_figli_mare_otranto_cosa_e_successo-9632013.html",
+        "https://www.adnkronos.com/cronaca/otranto-mare-gemelli-malore-padre_7loMOdDLtDHQjk7xTv0R9F",
+        "https://www.ilgiornale.it/news/cronaca-nera/si-tuffa-mare-salvare-i-suoi-figli-difficolt-i-bimbi-illesi-2688944.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Tifoso ferito in scontri derby Torino, Procura: \"Chiesti domiciliari per agente, lacrimogeno lanciato in modo non conforme\"",
       "source_count": 7,
       "article_count": 7,
@@ -204,27 +225,6 @@
         "https://www.ilmessaggero.it/italia/tifoso_ferito_derby_torino_chiesto_arresto_di_un_poliziotto-9631696.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/04/pm-grave-quadro-indiziario-per-il-poliziotto-riguardo-al-ferimento-di-un-tifoso-juventino_44e39a3a-a14a-4550-ba54-b1f51eb315f9.html",
         "https://www.ilgiornale.it/news/nazionale/torino-juventus-chiesti-i-domiciliari-agente-lacrimogeno-ad-2688793.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Leone XIV atterrato a Lampedusa. La preghiera sulle tombe dei migranti, poi varca la porta d'Europa: \"Il mondo sia più umano per tutti\"",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "governo.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.governo.it/it/articolo/il-sottosegretario-mantovano-lampedusa-la-visita-di-papa-leone-xiv/32269",
-        "https://www.ilfattoquotidiano.it/2026/07/04/papa-leone-lampedusa-cimitero-migranti/8439162/",
-        "https://www.ilmessaggero.it/vaticano/papa_leone_lampedusa_remigrazioni_migrazioni-9631654.html",
-        "https://www.repubblica.it/cronaca/2026/07/04/news/leone_xiv_migranti_lampedusa_indipendenza_usa-425450295/",
-        "https://www.ilgiornale.it/news/vaticano/leone-xiv-oggi-lampedusa-seconda-volta-nella-storia-papa-2688777.html"
       ]
     }
   ]
