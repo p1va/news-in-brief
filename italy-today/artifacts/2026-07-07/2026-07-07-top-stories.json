@@ -1,36 +1,12 @@
 {
   "date": "2026-07-07",
-  "generated_at": "Tue 07 Jul 18:08",
+  "generated_at": "Tue 07 Jul 20:12",
   "stories": [
     {
       "rank": 1,
-      "title": "Attentato a Ranucci, indagato Lavitola come presunto mandante",
-      "source_count": 9,
-      "article_count": 20,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/chi-gomes-tavares-clesio-cameriere-lavitola-accusato-aver-2690158.html",
-        "https://www.repubblica.it/cronaca/2026/07/07/news/ranucci_lavitola_attentato_intermediario_camerun-425456645/",
-        "https://www.ilgiornale.it/news/nazionale/ranucci-sul-caso-lavitola-ho-sospetto-gesto-trasversale-2690094.html",
-        "https://www.repubblica.it/cronaca/2026/07/07/news/ranucci_lavitola_attentato_mandante_ultime_notizie-425456609/",
-        "https://www.ilgiornale.it/news/attualit/lavitola-contestato-reato-strage-ranucci-sono-stordito-amico-2690003.html"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Indagati Aurelio e Luigi De Laurentiis per bancarotta: finanza nelle sedi del Napoli e del Bari",
       "source_count": 10,
-      "article_count": 15,
+      "article_count": 16,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ilgiornale.it",
@@ -44,11 +20,34 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/07/de-laurentiis-indagati-bari-bancarotta-nota-ufficiale-basiti-esterrefatti/8442297/",
         "https://www.ilfattoquotidiano.it/2026/07/07/indagine-de-laurentiis-napoli-bari-notizie/8442015/",
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/aurelio-e-luigi-de-laurentiis-indagati-bancarotta-dove-nasce-2690083.html",
         "https://www.ilfattoquotidiano.it/2026/07/07/de-laurentiis-indagati-caprile-bari-napoli-notizie/8441724/",
-        "https://www.unita.it/2026/07/07/aurelio-luigi-de-laurentiis-indagati-bancarotta-plusvalenza-caprile/",
-        "https://www.ilfattoquotidiano.it/2026/07/07/inchiesta-de-laurentiis-chi-e-portiere-caprile-cessione-perche/8441635/"
+        "https://www.unita.it/2026/07/07/aurelio-luigi-de-laurentiis-indagati-bancarotta-plusvalenza-caprile/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Attentato a Ranucci, la Procura contesta la strage a Lavitola",
+      "source_count": 8,
+      "article_count": 17,
+      "source_domains": [
+        "ilgiornale.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/chi-gomes-tavares-clesio-cameriere-lavitola-accusato-aver-2690158.html",
+        "https://www.repubblica.it/cronaca/2026/07/07/news/ranucci_lavitola_attentato_intermediario_camerun-425456645/",
+        "https://www.ilgiornale.it/news/nazionale/ranucci-sul-caso-lavitola-ho-sospetto-gesto-trasversale-2690094.html",
+        "https://www.repubblica.it/cronaca/2026/07/07/news/ranucci_lavitola_attentato_mandante_ultime_notizie-425456609/",
+        "https://www.ilgiornale.it/news/attualit/lavitola-contestato-reato-strage-ranucci-sono-stordito-amico-2690003.html"
       ]
     },
     {
@@ -126,46 +125,49 @@
     },
     {
       "rank": 6,
-      "title": "Trump: Meloni mi piace ma non c'è stata per noi, ha guastato rapporti",
-      "source_count": 6,
+      "title": "Meloni arriva ad Ankara: \"Con Trump rapporti cordiali\". E alla cena coi leader Nato siede con Erdogan e il tycoon",
+      "source_count": 9,
       "article_count": 10,
       "source_domains": [
-        "ansa.it",
+        "ilfattoquotidiano.it",
         "adnkronos.com",
         "ilgiornale.it",
-        "repubblica.it",
+        "ansa.it",
+        "ilmessaggero.it",
         "liberoquotidiano.it",
-        "ilmessaggero.it"
+        "lastampa.it",
+        "governo.it",
+        "repubblica.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/07/vertice-nato-ankara-meloni-trump-notizie/8442421/",
+        "https://www.adnkronos.com/internazionale/esteri/meloni-trump-nato-vertice-7-luglio_3wpaLAZq16sm6iftatuRe1",
+        "https://www.ilgiornale.it/news/politica-internazionale/vertice-ankara-meloni-tavolo-trump-ed-erdogan-cena-dei-2690318.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/07/meloni-al-tavolo-con-trump-ed-erdogan-alla-cena-dei-leader-nato._c719b47d-0c2f-4ce6-b497-762bea90cfe5.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/07/trump-la-nato-ci-ha-deluso.-italia-germania-francia-e-gb-non-ci-hanno-aiutato.-meloni_c719b47d-0c2f-4ce6-b497-762bea90cfe5.html",
-        "https://www.adnkronos.com/internazionale/esteri/trump-meloni-video-vertice-nato_4Ie3Wwqtc8ja4BcFijTE4D",
-        "https://www.ilgiornale.it/news/politica-estera/trump-contro-alleati-nato-deluso-italia-francia-e-germania-2690164.html",
-        "https://www.repubblica.it/politica/2026/07/07/news/trump_meloni_attacco_guerra_iran-425456861/"
+        "https://www.ilmessaggero.it/politica/meloni_ritardo_cena_nato_ankara_trump_erdogan-9637708.html"
       ]
     },
     {
       "rank": 7,
-      "title": "Attentato a Montecarlo, uccisa a Kiev la donna sospettata del tentato omicidio di Ermolaev: due arresti, ​uno è dell'intelligence ucraina",
+      "title": "Media ucraini: 'Trovata morta a Kiev la donna sospettata dell'attentato a Monaco, uccisa a colpi d'arma da fuoco'",
       "source_count": 8,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "lastampa.it",
         "ansa.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "unita.it",
         "ilgiornale.it",
         "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "ilmessaggero.it"
       ],
       "links": [
+        "https://www.lastampa.it/imperia-sanremo/2026/07/07/news/monaco_prima_lo_shopping_e_poi_l_esplosione_ora_spunta_il_video_con_la_sospettata-15683461/",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/07/media-ucraini-trovata-uccisa-a-kiev-donna-sospettata-di-attentato-a-monaco_7e616ca9-e073-46c9-938e-83ac3097b84b.html",
         "https://www.adnkronos.com/internazionale/esteri/esplosione-monaco-svolta-trovato-cadavere-attentatrice-ermolaev_3Zm7aDzWag3ozcA29vA0vP",
         "https://www.ilfattoquotidiano.it/2026/07/07/anastasiia-berezovskat-uccisa-kiev-attentato-monaco-ermolaev/8441591/",
-        "https://www.unita.it/2026/07/07/morta-donna-attentato-monaco-oligarca-ucraino/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/trovato-vicino-kiev-cadavere-donna-accusata-lattentato-2689980.html"
+        "https://www.unita.it/2026/07/07/morta-donna-attentato-monaco-oligarca-ucraino/"
       ]
     },
     {
@@ -192,6 +194,27 @@
     },
     {
       "rank": 9,
+      "title": "Argentina dal baratro al trionfo, Egitto dal sogno alla beffa. L’Albiceleste rimonta, Messi piange",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/mondiali-2026-argentina-egitto-accusa-rimonta_119RlmQ6STqsPgWG8QZHut",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/07/mondiali-3-2-in-rimonta-allegitto-largentina-ai-quarti_99de9c4f-b853-4225-a6af-a4adb84b2a7e.html",
+        "https://www.adnkronos.com/sport/salah-furia-argentina-egitto-rigore-fernandez-gol-mondiali-2026_78xORA0HQwA04oBzx8cUAd",
+        "https://www.ilgiornale.it/news/calcio/messi-e-lautaro-eroici-l-argentina-rimonta-due-gol-all-2690324.html",
+        "https://www.ilmessaggero.it/sport/schede/argentina_egitto_pagelle_messi_salah_mondiali_2026_ottavi_risultato-9637746.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Regno Unito, Farage annuncia a sorpresa le sue dimissioni da deputato",
       "source_count": 7,
       "article_count": 7,
@@ -210,25 +233,6 @@
         "https://www.repubblica.it/esteri/2026/07/07/news/londra_farage_si_dimette_da_deputato_e_si_ricandida-425456937/",
         "https://www.adnkronos.com/internazionale/esteri/nigel-farage-accuse-finanziamenti-illeciti-dimissioni-deputato-candidato-clacton_3XeWB8YqT8alBUTgpJlDUN",
         "https://www.ilgiornale.it/news/politica-estera/scandalo-finanziamenti-farage-si-dimette-parlamentare-si-2690182.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Rutte (Nato): 40 miliardi di investimenti per scudi anti-drone",
-      "source_count": 4,
-      "article_count": 9,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48465820/von-der-leyen-a-vertice-nato-100-miliardi-per-la-difesa-europea-con-accordi-safe-in-10-paesi/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48465099/rutte-nato-40-miliardi-di-investimenti-per-scudi-anti-drone/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48463763/rutte-nato-serve-rivoluzione-industria-difesa-ronzio-deve-trasformarsi-in-un-ruggito/",
-        "https://www.liberoquotidiano.it/news/libero-video/48461144/nato-acquista-10-aerei-sorveglianza-svezia-nuovi-globaleye/",
-        "https://www.ilgiornale.it/news/difesa/rutte-annuncia-i-nuovi-investimenti-nato-40-miliardi-contro-2690087.html"
       ]
     }
   ]
