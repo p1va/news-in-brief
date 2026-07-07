@@ -1,6 +1,6 @@
 {
   "date": "2026-07-07",
-  "generated_at": "Tue 07 Jul 20:12",
+  "generated_at": "Tue 07 Jul 20:55",
   "stories": [
     {
       "rank": 1,
@@ -29,29 +29,6 @@
     },
     {
       "rank": 2,
-      "title": "Attentato a Ranucci, la Procura contesta la strage a Lavitola",
-      "source_count": 8,
-      "article_count": 17,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ansa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/chi-gomes-tavares-clesio-cameriere-lavitola-accusato-aver-2690158.html",
-        "https://www.repubblica.it/cronaca/2026/07/07/news/ranucci_lavitola_attentato_intermediario_camerun-425456645/",
-        "https://www.ilgiornale.it/news/nazionale/ranucci-sul-caso-lavitola-ho-sospetto-gesto-trasversale-2690094.html",
-        "https://www.repubblica.it/cronaca/2026/07/07/news/ranucci_lavitola_attentato_mandante_ultime_notizie-425456609/",
-        "https://www.ilgiornale.it/news/attualit/lavitola-contestato-reato-strage-ranucci-sono-stordito-amico-2690003.html"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Stati Uniti-Belgio 1-4, Lukaku esulta con la 'Trump Dance' ai Mondiali",
       "source_count": 10,
       "article_count": 15,
@@ -76,7 +53,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Sinner vola in semifinale a Wimbledon, Struff battuto in tre set (7-5, 7-6, 6-3)",
       "source_count": 8,
       "article_count": 16,
@@ -99,7 +76,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Spionaggio in favore della Russia in cambio di soldi, due arresti a Roma: indagato ex agente dell'intelligence italiana",
       "source_count": 10,
       "article_count": 13,
@@ -124,13 +101,34 @@
       ]
     },
     {
+      "rank": 5,
+      "title": "Attentato a Ranucci, la Procura contesta la strage a Lavitola",
+      "source_count": 6,
+      "article_count": 15,
+      "source_domains": [
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/chi-gomes-tavares-clesio-cameriere-lavitola-accusato-aver-2690158.html",
+        "https://www.repubblica.it/cronaca/2026/07/07/news/ranucci_lavitola_attentato_intermediario_camerun-425456645/",
+        "https://www.ilgiornale.it/news/nazionale/ranucci-sul-caso-lavitola-ho-sospetto-gesto-trasversale-2690094.html",
+        "https://www.repubblica.it/cronaca/2026/07/07/news/ranucci_lavitola_attentato_mandante_ultime_notizie-425456609/",
+        "https://www.ilgiornale.it/news/attualit/lavitola-contestato-reato-strage-ranucci-sono-stordito-amico-2690003.html"
+      ]
+    },
+    {
       "rank": 6,
       "title": "Meloni arriva ad Ankara: \"Con Trump rapporti cordiali\". E alla cena coi leader Nato siede con Erdogan e il tycoon",
       "source_count": 9,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
-        "ilfattoquotidiano.it",
         "adnkronos.com",
+        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "ansa.it",
         "ilmessaggero.it",
@@ -140,15 +138,37 @@
         "repubblica.it"
       ],
       "links": [
+        "https://www.adnkronos.com/internazionale/esteri/meloni-video-trump-vertice-nato_72mKCTwFcCGMyk3EuwCfPh",
         "https://www.ilfattoquotidiano.it/2026/07/07/vertice-nato-ankara-meloni-trump-notizie/8442421/",
         "https://www.adnkronos.com/internazionale/esteri/meloni-trump-nato-vertice-7-luglio_3wpaLAZq16sm6iftatuRe1",
         "https://www.ilgiornale.it/news/politica-internazionale/vertice-ankara-meloni-tavolo-trump-ed-erdogan-cena-dei-2690318.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/07/meloni-al-tavolo-con-trump-ed-erdogan-alla-cena-dei-leader-nato._c719b47d-0c2f-4ce6-b497-762bea90cfe5.html",
-        "https://www.ilmessaggero.it/politica/meloni_ritardo_cena_nato_ankara_trump_erdogan-9637708.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/07/meloni-al-tavolo-con-trump-ed-erdogan-alla-cena-dei-leader-nato._c719b47d-0c2f-4ce6-b497-762bea90cfe5.html"
       ]
     },
     {
       "rank": 7,
+      "title": "Argentina dal baratro al trionfo, Egitto dal sogno alla beffa. L’Albiceleste rimonta, Messi piange",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/calcio/egitto_hassan_argentina_mondiali_cosa_ha_detto-9637860.html",
+        "https://www.adnkronos.com/sport/mondiali-2026-argentina-egitto-accusa-rimonta_119RlmQ6STqsPgWG8QZHut",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/07/mondiali-3-2-in-rimonta-allegitto-largentina-ai-quarti_99de9c4f-b853-4225-a6af-a4adb84b2a7e.html",
+        "https://www.adnkronos.com/sport/salah-furia-argentina-egitto-rigore-fernandez-gol-mondiali-2026_78xORA0HQwA04oBzx8cUAd",
+        "https://www.ilgiornale.it/news/calcio/messi-e-lautaro-eroici-l-argentina-rimonta-due-gol-all-2690324.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Media ucraini: 'Trovata morta a Kiev la donna sospettata dell'attentato a Monaco, uccisa a colpi d'arma da fuoco'",
       "source_count": 8,
       "article_count": 9,
@@ -171,7 +191,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Sanremo, 59enne trovata morta in casa: sarebbe stata strangolata",
       "source_count": 7,
       "article_count": 9,
@@ -190,27 +210,6 @@
         "https://www.unita.it/2026/07/07/ritrovata-morta-casa-indaga-omicidio-interrogato-figlio-vittima/",
         "https://www.adnkronos.com/cronaca/sanremo-morta-strangolata-casa_2w52NjZzZcPJP6vIJLz3uL",
         "https://www.ilfattoquotidiano.it/2026/07/07/donna-di-59-anni-trovata-morta-in-casa-a-sanremo-ipotesi-strangolamento-i-sospetti-sul-figlio/8441583/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Argentina dal baratro al trionfo, Egitto dal sogno alla beffa. L’Albiceleste rimonta, Messi piange",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/mondiali-2026-argentina-egitto-accusa-rimonta_119RlmQ6STqsPgWG8QZHut",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/07/mondiali-3-2-in-rimonta-allegitto-largentina-ai-quarti_99de9c4f-b853-4225-a6af-a4adb84b2a7e.html",
-        "https://www.adnkronos.com/sport/salah-furia-argentina-egitto-rigore-fernandez-gol-mondiali-2026_78xORA0HQwA04oBzx8cUAd",
-        "https://www.ilgiornale.it/news/calcio/messi-e-lautaro-eroici-l-argentina-rimonta-due-gol-all-2690324.html",
-        "https://www.ilmessaggero.it/sport/schede/argentina_egitto_pagelle_messi_salah_mondiali_2026_ottavi_risultato-9637746.html"
       ]
     },
     {
