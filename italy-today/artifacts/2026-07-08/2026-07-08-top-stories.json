@@ -1,27 +1,29 @@
 {
   "date": "2026-07-08",
-  "generated_at": "Wed 08 Jul 19:52",
+  "generated_at": "Wed 08 Jul 20:28",
   "stories": [
     {
       "rank": 1,
-      "title": "Meloni al vertice Nato di Ankara: Con Trump rapporti cordiali",
-      "source_count": 7,
-      "article_count": 28,
+      "title": "Meloni a vertice Nato: Con Trump confronto molto positivo, ma ormai lo dico in punta di piedi",
+      "source_count": 9,
+      "article_count": 30,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
+        "adnkronos.com",
         "ansa.it",
         "repubblica.it",
-        "lastampa.it",
         "ilgiornale.it",
+        "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/08/meloni-trump-non-mi-pento-video/8443332/",
         "https://www.ilmessaggero.it/politica/meloni_trump_gelo_pentita_sorrisi_cosa_e_successo-9639535.html",
         "https://www.liberoquotidiano.it/news/pillole/48477248/nato_meloni_rispettiamo_impegni_ma_decidiamo_noi_tempi_modi_e_priorita_/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48477466/meloni-a-vertice-nato-con-trump-confronto-molto-positivo-ma-ormai-lo-dico-in-punta-di-piedi/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48477373/-se-mio-nonno-avesse-le-ruote-la-battuta-di-meloni-in-conferenza-stampa-al-vertice-nato/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48477225/meloni-investimento-politico-era-su-occidente-non-su-trump-non-mi-pento-di-nulla/"
+        "https://www.adnkronos.com/politica/meloni-nato-vertice-ankara-trump-meme_7FLtuMaT1sUCvoLYUR5Gdz"
       ]
     },
     {
@@ -74,9 +76,34 @@
     },
     {
       "rank": 4,
+      "title": "Grosso incendio nel deposito Bartolini in zona Dergano a Milano: alta colonna di fumo",
+      "source_count": 10,
+      "article_count": 12,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/incendio-milano-bartolini-oggi-8-luglio_1e1UhL3K7G6hRvliHrnOsf",
+        "https://www.ilfattoquotidiano.it/2026/07/08/maxi-incendio-nel-deposito-brt-alla-bovisa-in-fiamme-8-mila-metri-quadrati-il-comune-invita-a-chiudere-le-finestre/8443431/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/08/operazioni-complesse-per-spegnere-vasto-incendio-a-milano-nessun-ferito_ebf35f19-c527-4f29-a853-80399290760f.html",
+        "https://www.adnkronos.com/cronaca/milano-incendio-bartolini-video-oggi-8-luglio_5AxHCTyn7MYwdFRhILrIeJ",
+        "https://www.ilmessaggero.it/italia/incendio_milano_deposito_bartolini_cosa_e_successo_oggi_diretta-9639843.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Nuova ondata di bombardamenti Usa, si riaccende la guerra in Iran",
       "source_count": 7,
-      "article_count": 13,
+      "article_count": 12,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -95,7 +122,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Attentato a Ranucci, Lavitola ai pm: “Non sono stato io, non conosco il movente”",
       "source_count": 7,
       "article_count": 12,
@@ -114,30 +141,6 @@
         "https://www.ilmessaggero.it/persone/attentato_ranucci_lavitola_innocente_cosa_ha_detto_procura-9639733.html",
         "https://www.lastampa.it/cronaca/2026/07/08/news/ranucci_lavitola_ai_pm_non_sono_stato_io_non_conosco_il_movente-15684531/",
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/lavitola-procura-roma-linterrogatorio-lavvocato-amico-2690763.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Grosso incendio nel deposito Bartolini in zona Dergano a Milano: alta colonna di fumo",
-      "source_count": 9,
-      "article_count": 10,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "milano.repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/08/maxi-incendio-nel-deposito-brt-alla-bovisa-in-fiamme-8-mila-metri-quadrati-il-comune-invita-a-chiudere-le-finestre/8443431/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/08/operazioni-complesse-per-spegnere-vasto-incendio-a-milano-nessun-ferito_ebf35f19-c527-4f29-a853-80399290760f.html",
-        "https://www.adnkronos.com/cronaca/milano-incendio-bartolini-video-oggi-8-luglio_5AxHCTyn7MYwdFRhILrIeJ",
-        "https://www.ilmessaggero.it/italia/incendio_milano_deposito_bartolini_cosa_e_successo_oggi_diretta-9639843.html",
-        "https://www.ilfattoquotidiano.it/2026/07/08/incendio-in-un-capannone-di-milano-vigili-del-fuoco-al-lavoro-fumo-visibile-da-diversi-chilometri/8443360/"
       ]
     },
     {
