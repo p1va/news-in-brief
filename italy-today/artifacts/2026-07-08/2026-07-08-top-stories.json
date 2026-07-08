@@ -1,6 +1,6 @@
 {
   "date": "2026-07-08",
-  "generated_at": "Wed 08 Jul 18:26",
+  "generated_at": "Wed 08 Jul 19:52",
   "stories": [
     {
       "rank": 1,
@@ -28,7 +28,7 @@
       "rank": 2,
       "title": "Mario Adinolfi arrestato a Roma: truffa milionaria con il sistema della “scommessa collettiva”",
       "source_count": 10,
-      "article_count": 17,
+      "article_count": 18,
       "source_domains": [
         "adnkronos.com",
         "ilfattoquotidiano.it",
@@ -53,30 +53,52 @@
       "rank": 3,
       "title": "Wimbledon, Paolini fuori ai quarti. Cobolli sfida Fery",
       "source_count": 8,
-      "article_count": 16,
+      "article_count": 17,
       "source_domains": [
+        "ansa.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "repubblica.it",
-        "ansa.it",
         "ilmessaggero.it",
         "ilgiornale.it",
         "lastampa.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/08/paolini-si-ferma-e-cobolli-crolla-a-wimbledon-delusioni-italiane-_3fd5a2b0-d898-4e5e-930e-3974bd256792.html",
         "https://www.ilfattoquotidiano.it/2026/07/08/cobolli-wimbledon-fery-quarti-sono-triste-per-casino-fatto-combatto-con-i-miei-mostri/8443347/",
         "https://www.adnkronos.com/sport/fery-guadagni-record-wimbledon-2026-cifra-carriera-cobolli_4vVQVV4NBjkxWykkjPgpVn",
         "https://www.repubblica.it/sport/dossier/wimbledon/2026/07/08/news/cobolli_travolto_fery_battibecco_padre-425459383/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/08/wimbledon-niente-semifinali-per-paolini-e-cobolli_3fd5a2b0-d898-4e5e-930e-3974bd256792.html",
-        "https://www.ilmessaggero.it/sport/tennis/cobolli_eliminato_wimbledon_fery_risultato_come_cambia_ranking_atp-9639698.html"
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/08/wimbledon-niente-semifinali-per-paolini-e-cobolli_3fd5a2b0-d898-4e5e-930e-3974bd256792.html"
       ]
     },
     {
       "rank": 4,
-      "title": "Attentato a Ranucci, Lavitola in procura a Roma per interrogatorio. Il legale: \"Sconvolto per le accuse\"",
-      "source_count": 8,
+      "title": "Nuova ondata di bombardamenti Usa, si riaccende la guerra in Iran",
+      "source_count": 7,
       "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/08/tornano-i-raid-lira-di-trump-in-iran-la-tregua-e-finita_32b9cdba-141d-4898-8631-8a9202ec3045.html",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/07/08/liran-diffonde-video-dei-missili-lanciati-contro-obiettivi-usa-nel_f237ee47-e254-44eb-825c-3ac067b31fa1.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48477547/trump-sull-iran-li-colpiremo-di-nuovo-molto-duramente-/",
+        "https://www.lastampa.it/esteri/2026/07/08/video/iran_video_missili_contro_usa_golfo-15684290/",
+        "https://www.repubblica.it/esteri/2026/07/08/news/situazione_iran_usa_israele_guerra_negoziati_pace-425458409/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Attentato a Ranucci, Lavitola ai pm: “Non sono stato io, non conosco il movente”",
+      "source_count": 7,
+      "article_count": 12,
       "source_domains": [
         "roma.repubblica.it",
         "ilfattoquotidiano.it",
@@ -84,8 +106,7 @@
         "lastampa.it",
         "ilgiornale.it",
         "adnkronos.com",
-        "ilmanifesto.it",
-        "ansa.it"
+        "ilmanifesto.it"
       ],
       "links": [
         "https://roma.repubblica.it/cronaca/2026/07/08/news/ranucci_lavitola_attentato_dichiarazioni_procuratore-425459414/",
@@ -96,69 +117,75 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Nuova ondata di bombardamenti Usa, si riaccende la guerra in Iran",
-      "source_count": 6,
-      "article_count": 12,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/videogallery/mondo/2026/07/08/liran-diffonde-video-dei-missili-lanciati-contro-obiettivi-usa-nel_f237ee47-e254-44eb-825c-3ac067b31fa1.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48477547/trump-sull-iran-li-colpiremo-di-nuovo-molto-duramente-/",
-        "https://www.lastampa.it/esteri/2026/07/08/video/iran_video_missili_contro_usa_golfo-15684290/",
-        "https://www.repubblica.it/esteri/2026/07/08/news/situazione_iran_usa_israele_guerra_negoziati_pace-425458409/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/08/gli-usa-lanciano-potenti-attacchi-contro-liran.-teheran-ci-saranno-ritorsioni_1fe41d8d-5681-43a1-a8ce-1c35d18ba5ed.html"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Le Pen ricorre in Cassazione dopo la condanna: “Corro per l’Eliseo senza braccialetto elettronico”",
-      "source_count": 6,
-      "article_count": 8,
+      "title": "Grosso incendio nel deposito Bartolini in zona Dergano a Milano: alta colonna di fumo",
+      "source_count": 9,
+      "article_count": 10,
       "source_domains": [
-        "adnkronos.com",
+        "ilfattoquotidiano.it",
         "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
         "ilgiornale.it",
-        "liberoquotidiano.it",
+        "milano.repubblica.it",
         "lastampa.it",
-        "ilmanifesto.it"
+        "ilsole24ore.com",
+        "agi.it"
       ],
       "links": [
-        "https://www.adnkronos.com/internazionale/esteri/le-pen-candida-elezioni-francia-decisione-scenari-condanna_7xaxnLj7Ujf6E4Pn9FzQhj",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/08/la-procuratrice-conferma-le-pen-comincera-la-campagna-elettorale-senza-il-braccialetto_a1e3f490-88a7-470e-b4dd-a8ecdbf198de.html",
-        "https://www.ilgiornale.it/news/politica/condannata-ancora-corsa-pen-sar-presidenziali-2690364.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48474418/le-pen-condannata-ma-si-candida-a-eliseo-ricorrero-in-cassazione-/",
-        "https://www.lastampa.it/rubriche/l-oblo/2026/07/08/audio/le_pen_il_braccialetto_elettronico_e_il_popolo_giudice-15683902/"
+        "https://www.ilfattoquotidiano.it/2026/07/08/maxi-incendio-nel-deposito-brt-alla-bovisa-in-fiamme-8-mila-metri-quadrati-il-comune-invita-a-chiudere-le-finestre/8443431/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/08/operazioni-complesse-per-spegnere-vasto-incendio-a-milano-nessun-ferito_ebf35f19-c527-4f29-a853-80399290760f.html",
+        "https://www.adnkronos.com/cronaca/milano-incendio-bartolini-video-oggi-8-luglio_5AxHCTyn7MYwdFRhILrIeJ",
+        "https://www.ilmessaggero.it/italia/incendio_milano_deposito_bartolini_cosa_e_successo_oggi_diretta-9639843.html",
+        "https://www.ilfattoquotidiano.it/2026/07/08/incendio-in-un-capannone-di-milano-vigili-del-fuoco-al-lavoro-fumo-visibile-da-diversi-chilometri/8443360/"
       ]
     },
     {
       "rank": 7,
-      "title": "Messi, rigore sbagliato, assist, gol e lacrime: l’Argentina ribalta l’Egitto (3-2) e vola ai quarti",
-      "source_count": 5,
-      "article_count": 7,
+      "title": "Satnam Singh, il bracciante abbandonato in strada con il braccio amputato e poi morto: il datore di lavoro condannato a 16 anni di carcere",
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "liberoquotidiano.it",
         "ilgiornale.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilfattoquotidiano.it",
         "repubblica.it",
         "lastampa.it",
-        "ansa.it"
+        "ilmessaggero.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48474906/la-vittoria-dell-argentina-una-catarsi-collettiva-a-buenos-aires/",
-        "https://www.ilgiornale.it/news/sport/egitto-sul-2-0-nel-finale-13-tre-reti-messi-firma-2-2-rigore-2690398.html",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/08/news/messi_lacrime_papa_eternamente_bambino_argentina_egitto-425457791/",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/08/news/messi_infinito-15683878/",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/07/news/argentina_egitto_messi_gol-425457528/"
+        "https://www.ilgiornale.it/news/nazionale/satnam-singh-16-anni-datore-lavoro-che-lasci-morire-sentenza-2690926.html",
+        "https://www.adnkronos.com/cronaca/satnam-singh-processo-sentenza-16-anni-datore-lovato_3YIACD5ziiXpzlJ27dZhCp",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/08/morte-di-satnam-singh-il-datore-di-lavoro-condannato-a-16-anni_112ca47c-c12c-4d41-a522-8651e1875793.html",
+        "https://www.ilfattoquotidiano.it/2026/07/08/satnam-singh-landini-cgil-non-caso-isolato-ma-sistema-che-va-contrastato/8443346/",
+        "https://www.ilfattoquotidiano.it/2026/07/08/morte-di-satnam-singh-il-datore-di-lavoro-condannato-a-16-anni-per-omicidio-volontario-con-dolo-eventuale/8443335/"
       ]
     },
     {
       "rank": 8,
+      "title": "Le Pen condannata ma si candida a Eliseo: \"Ricorrerò in Cassazione\"",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilmanifesto.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/le-pen-candida-elezioni-francia-decisione-scenari-condanna_7xaxnLj7Ujf6E4Pn9FzQhj",
+        "https://www.ilgiornale.it/news/politica/condannata-ancora-corsa-pen-sar-presidenziali-2690364.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48474418/le-pen-condannata-ma-si-candida-a-eliseo-ricorrero-in-cassazione-/",
+        "https://www.lastampa.it/rubriche/l-oblo/2026/07/08/audio/le_pen_il_braccialetto_elettronico_e_il_popolo_giudice-15683902/",
+        "https://ilmanifesto.it/marine-le-pen-condannata-ma-puo-candidarsi-e-lo-fara"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Fiammata africana sull'Italia, tra temporali e caldo record: le previsioni meteo",
       "source_count": 5,
       "article_count": 7,
@@ -178,7 +205,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Esplosione in una fabbrica di fuochi d’artificio in provincia di Rieti: due morti",
       "source_count": 5,
       "article_count": 6,
@@ -195,26 +222,6 @@
         "https://www.ilmessaggero.it/rieti/rieti_esplosione_torano_borgorose_morti_oggi-9639166.html",
         "https://www.ilmessaggero.it/rieti/rieti_esplosione_torano_borgorose_morti_simone_colle_e_mamma_teresa_tozzi-9639166.html",
         "https://www.lastampa.it/cronaca/2026/07/08/news/esplosioni_in_un_azienda_pirotecnica_nel_reatino_due_morti_secondo_caso_in_tre_anni-15684135/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Milano, i pm: “Rocchi designava gli arbitri con esponenti dell’Inter in rapporto con Gravina”",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "milano.repubblica.it",
-        "liberoquotidiano.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/08/inchiesta-arbitri-inter-rocchi-intercettazioni-porta-sfortuna/8443319/",
-        "https://www.lastampa.it/sport/2026/07/08/news/rocchi_arbitri_inchiesta_inter_gravina-15684190/",
-        "https://milano.repubblica.it/cronaca/2026/07/08/news/inchiesta_arbitri_inter_rocchi-425458402/",
-        "https://www.ilfattoquotidiano.it/2026/07/08/inchiesta-arbitri-rocchi-frode-sportiva-inter-gravina-nuove-accuse/8442620/",
-        "https://www.liberoquotidiano.it/news/sport/48472631/inter-arbitri-intercettazione-rocchi-accordo-esponenti-nerazzurri/"
       ]
     }
   ]
