@@ -1,12 +1,12 @@
 {
   "date": "2026-07-09",
-  "generated_at": "Thu 09 Jul 18:57",
+  "generated_at": "Thu 09 Jul 20:01",
   "stories": [
     {
       "rank": 1,
-      "title": "Incendio alla BRT di Milano, aperta inchiesta. Pericolo per container bici elettriche",
+      "title": "Milano, spento incendio a deposito Bartolini. Vigili del fuoco: \"Nessun ferito\"",
       "source_count": 8,
-      "article_count": 13,
+      "article_count": 12,
       "source_domains": [
         "ilfattoquotidiano.it",
         "milano.repubblica.it",
@@ -50,6 +50,29 @@
     },
     {
       "rank": 3,
+      "title": "Milano, aggredisce e sfregia ragazza al Duomo: «Cosa guardi? Sono uomo e musulmano». Arrestato ​27enne",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "milano.repubblica.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/interni/bignami-espulsione-immediata-donzelli-se-vieni-italia-donne-2691489.html",
+        "https://www.ilfattoquotidiano.it/2026/07/09/aggressione-metro-duomo-milano-sfregio-arrestato-notizie/8444377/",
+        "https://milano.repubblica.it/cronaca/2026/07/09/news/milano_sfregia_ragazza_uomo_musulmano-425461624/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/09/cosa-guardi-sono-uomo-e-musulmano-e-sfregia-ragazza-a-milano_17726037-1e46-4d32-af02-44fbefb93050.html",
+        "https://www.ilgiornale.it/news/nazionale/cosa-guardi-sono-uomo-e-musulmano-e-sfregia-ragazza-volto-2691416.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Tornano i venti di guerra nel Golfo, a Hormuz non si passa",
       "source_count": 5,
       "article_count": 11,
@@ -66,29 +89,6 @@
         "https://www.ilgiornale.it/news/guerra/trump-nuova-furia-sull-iran-guerra-non-ripartir-2691165.html",
         "https://www.liberoquotidiano.it/news/libero-video/48484454/iran-lancia-missili-sui-paesi-del-golfo-dopo-i-raid-usa-le-sirene-in-azione/",
         "https://www.liberoquotidiano.it/news/libero-video/48484451/iran-nuova-ondata-di-attacchi-usa-colpiti-90-obiettivi-/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Milano, aggredisce e sfregia ragazza al Duomo: «Cosa guardi? Sono uomo e musulmano». Arrestato ​27enne",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "milano.repubblica.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/09/aggressione-metro-duomo-milano-sfregio-arrestato-notizie/8444377/",
-        "https://milano.repubblica.it/cronaca/2026/07/09/news/milano_sfregia_ragazza_uomo_musulmano-425461624/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/09/cosa-guardi-sono-uomo-e-musulmano-e-sfregia-ragazza-a-milano_17726037-1e46-4d32-af02-44fbefb93050.html",
-        "https://www.ilgiornale.it/news/nazionale/cosa-guardi-sono-uomo-e-musulmano-e-sfregia-ragazza-volto-2691416.html",
-        "https://www.adnkronos.com/cronaca/milano-metro-aggressione-ragazza-oggi-9-luglio_6iAO0ghLJXSQp35f0fq8pb"
       ]
     },
     {
@@ -156,24 +156,6 @@
     },
     {
       "rank": 8,
-      "title": "Fratoianni faccia contro faccia con il contestatore: la sinistra implode in piazza a Napoli",
-      "source_count": 3,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/interni/potere-popolo-comizio-flop-napoli-hanno-fatto-tutto-loro-2691326.html",
-        "https://www.ilgiornale.it/news/interni/maduro-sogno-socialista-e-lassalto-campo-largo-chi-giuliano-2691136.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48484448/schlein-palco-napoli-non-faremo-piu-favore-destre-come-va-sbattere/",
-        "https://www.liberoquotidiano.it/news/libero-video/48484124/fratoianni-faccia-contro-faccia-contestatore-sinistra-implode-piazza-napoli/",
-        "https://www.repubblica.it/politica/2026/07/09/news/schlein_conte_fratoianni_bonelli_campo_largo_manifestazione_napoli-425459955/"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Tajani: «Espulsi due addetti militari dell'ambasciata russa per spionaggio». Mosca: «Risponderemo»",
       "source_count": 5,
       "article_count": 7,
@@ -193,7 +175,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Pier Silvio Berlusconi tra politica e business: “Stimo Meloni, Vannacci fa propaganda”",
       "source_count": 6,
       "article_count": 6,
@@ -211,6 +193,26 @@
         "https://www.ilgiornale.it/news/interni/pier-silvio-berlusconi-trump-contro-meloni-italiano-mi-sono-2691199.html",
         "https://www.repubblica.it/spettacoli/tv-radio/2026/07/09/news/pier_silvio_berlusconi_palinsesti_mediaset-425460798/",
         "https://www.lastampa.it/economia/2026/07/09/news/mediaset_il_piano_strategico_di_pier_silvio_berlusconi_piu_investimenti_sui_contenuti-15684925/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Mondiali: Francia-Marocco in campo alle 22 DIRETTA",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/diretta-francia-marocco-oggi-quarti-mondiali-live-risultato-aggiornamenti_22tnWRVytd9JMW8kDKcpHH",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/08/mondiali-francia-marocco-in-campo-alle-22-diretta_7aa4f164-b986-40b2-8647-8c1c970c8291.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/09/mondiali-ct-marocco-non-e-il-2022-francia-favorita-ma-faremo-di-tutto-per-vincere_0ec2c43d-55f7-42eb-9972-d05a478d2f38.html",
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/09/news/chi_vincera_mondiali_finale_2026_sondaggio-425460443/",
+        "https://www.ilgiornale.it/news/sport/stasera-bleus17-atleti-dorigine-africana-e-marocco19-nati-2691003.html"
       ]
     }
   ]
