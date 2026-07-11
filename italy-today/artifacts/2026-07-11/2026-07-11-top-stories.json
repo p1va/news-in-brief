@@ -1,13 +1,15 @@
 {
   "date": "2026-07-11",
-  "generated_at": "Sat 11 Jul 12:00",
+  "generated_at": "Sat 11 Jul 13:43",
   "stories": [
     {
       "rank": 1,
       "title": "Addio a Peppino di Capri, una voce dall'isola al mondo",
-      "source_count": 8,
-      "article_count": 18,
+      "source_count": 10,
+      "article_count": 20,
       "source_domains": [
+        "ilfattoquotidiano.it",
+        "laverita.info",
         "adnkronos.com",
         "ilmessaggero.it",
         "ansa.it",
@@ -18,37 +20,59 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/11/ciao-peppino-di-capri-un-grande-amore-e-niente-piu-e-il-cuore-dellisola-smise-di-battere/8445903/",
+        "https://www.laverita.info/popular/morto-peppino-di-capri",
         "https://www.adnkronos.com/spettacoli/peppino-di-capri-morto-renato-zero-post-social-cosa-ha-scritto_7y81g3kJQDhrQf2fLuJuAh",
         "https://www.ilmessaggero.it/persone/peppino_di_capri_patrimonio_eredita_a_chi_va_villa_capri-9645398.html",
-        "https://www.ansa.it/sito/videogallery/short_video/2026/07/11/addio-peppino-di-capri_61c04ddb-d96f-444e-a6b0-d0769b149249.html",
-        "https://www.ansa.it/sito/photogallery/primopiano/2026/07/11/addio-a-peppino-di-capri-il-signore-della-melodia-italiana_ceaa411c-c478-4126-b8d1-f6f63ebcfb2a.html",
-        "https://www.adnkronos.com/spettacoli/peppino-di-capri-morto-champagne-roberto-successi_6qfuQPHD2ukGK8yLZvw3mF"
+        "https://www.ansa.it/sito/videogallery/short_video/2026/07/11/addio-peppino-di-capri_61c04ddb-d96f-444e-a6b0-d0769b149249.html"
       ]
     },
     {
       "rank": 2,
       "title": "Wimbledon: Djokovic battuto, Sinner torna in finale e trova Zverev",
-      "source_count": 7,
+      "source_count": 8,
       "article_count": 14,
       "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
-        "ilfattoquotidiano.it",
         "ilgiornale.it",
         "repubblica.it",
         "lastampa.it",
         "ansa.it"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/sinner-wimbledon-2026-interviste-record-djokovic_4QVHd7EDYi4LzjjaWGyS5X",
+        "https://www.ilfattoquotidiano.it/2026/07/11/wimbledon-2026-quando-gioca-sinner-zverev-finale-orario-dove-vedere-tv-streaming-in-chiaro/8445858/",
         "https://www.liberoquotidiano.it/news/sport/48511121/jannik-sinner-dato-fantascienza-novak-djokovic-39-totale/",
         "https://www.ilmessaggero.it/sport/schede/sinner_zverev_finale_wimbledon_orario_in_chiaro_tv8_precedenti-9645295.html",
-        "https://www.ilfattoquotidiano.it/2026/07/11/djokovic-sinner-wimbledon-semifinale-posso-batterlo-magari-dieci-anni-fa/8445661/",
-        "https://www.ilgiornale.it/news/sport/jannik-meraviglioso-e-cinico-re-djokovic-ko-tre-set-s-ho-2692026.html",
-        "https://www.repubblica.it/sport/dossier/wimbledon/2026/07/11/news/sinner_perfetto_vendetta_su_djokovic-425464114/"
+        "https://www.ilgiornale.it/news/sport/jannik-meraviglioso-e-cinico-re-djokovic-ko-tre-set-s-ho-2692026.html"
       ]
     },
     {
       "rank": 3,
+      "title": "La Rai sospende le repliche estive di Report. Ranucci: \"Sconcerto e preoccupazione\". La redazione del programma: \"Censura senza precedenti\"",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "laverita.info",
+        "repubblica.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/politica/report_repliche_cosa_doveva_andare_in_onda_ranucci_memoria_paese-9645444.html",
+        "https://www.ilgiornale.it/news/politica/e-rai-si-cautela-sospese-repliche-mr-report-reagisce-sono-2691989.html",
+        "https://www.laverita.info/televisione/rai-stop-repliche-report-ranucci",
+        "https://www.repubblica.it/politica/2026/07/11/news/report_sospese_repliche_ranucci_rai-425464158/",
+        "https://www.ilgiornale.it/news/interni/lannuncio-rai-sospese-cautelare-repliche-estive-report-2691907.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Merino sul filo di lana: la Spagna batte 2-1 il Belgio e trova la Francia in semifinale",
       "source_count": 6,
       "article_count": 7,
@@ -69,7 +93,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Catania, insegue il fratello dopo una lite e lo uccide a colpi di mannaia: arrestato",
       "source_count": 6,
       "article_count": 6,
@@ -87,26 +111,6 @@
         "https://www.ilfattoquotidiano.it/2026/07/11/omicidio-riposto-mannaia-fratello-notizie/8445738/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/11/insegue-il-fratello-e-lo-uccide-con-colpi-di-mannaia-nel-catanese_ac04245d-510e-4b4a-af04-72068eeaeb9c.html",
         "https://www.ilmessaggero.it/italia/uccide_fratello_mannaia_inseguimento_lungomare_riposto_natale_guarrera-9645330.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "La Rai sospende le repliche estive di Report. Ranucci: \"Sconcerto e preoccupazione\". La redazione del programma: \"Censura senza precedenti\"",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "laverita.info",
-        "repubblica.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/e-rai-si-cautela-sospese-repliche-mr-report-reagisce-sono-2691989.html",
-        "https://www.laverita.info/televisione/rai-stop-repliche-report-ranucci",
-        "https://www.repubblica.it/politica/2026/07/11/news/report_sospese_repliche_ranucci_rai-425464158/",
-        "https://www.ilgiornale.it/news/interni/lannuncio-rai-sospese-cautelare-repliche-estive-report-2691907.html",
-        "https://www.ilsole24ore.com/art/attentato-ranucci-perquisita-l-abitazione-factotum-lavitola-AJT6AUF"
       ]
     },
     {
@@ -131,6 +135,25 @@
     },
     {
       "rank": 7,
+      "title": "La chiave inglese per bloccare Haaland",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/11/news/british_airways_norwegian_inghilterra_norvegia_compagnie_aree-425464989/",
+        "https://www.adnkronos.com/sport/inghilterra-norvegia-logo-profilo-scommessa-social_5wVOPuexZVj0hzqnsbFSTL",
+        "https://www.ilmessaggero.it/sport/schede/norvegia_inghilterra_dove_vederla_rai_dazn_orario_quarti_mondiali_formazioni-9645356.html",
+        "https://www.adnkronos.com/sport/inghilterra-norvegia-oggi-mondiali-2026-orario-probabili-formazioni-e-dove-vederla-in-tv_150DjWAhOaZwn5vVKX9mo9",
+        "https://www.ilgiornale.it/news/sport/linghilterra-affronta-norvegia-figlio-mai-avuto-2692027.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Apple fa causa a OpenAI: furto di segreti commerciali per sviluppare un proprio dispositivo hardware per i consumatori",
       "source_count": 5,
       "article_count": 5,
@@ -150,7 +173,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Caldo, terza ondata sull'Italia: temperature oltre 40 gradi e notti tropicali. Quando arriva il picco (e quanto dura)",
       "source_count": 4,
       "article_count": 6,
@@ -169,40 +192,21 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "È morto Peppino di Capri, il cantautore era malato da tempo. Tra i suoi successi “Champagne”, “E mo e mo”, “Roberta”, “Let’s Twist Again” e “St. Tropez Twist”",
+      "rank": 10,
+      "title": "MotoGp, ordine d'arrivo gara Sprint del Gp Germania e classifica del Mondiale",
       "source_count": 3,
       "article_count": 7,
       "source_domains": [
+        "adnkronos.com",
         "ilfattoquotidiano.it",
-        "lastampa.it",
-        "liberoquotidiano.it"
+        "ansa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/11/peppino-di-capri-lultima-esibizione-pubblica-prima-di-morire-alla-certosa-di-san-giacomo-il-video/8445719/",
-        "https://www.ilfattoquotidiano.it/2026/07/11/peppino-di-capri-morto-il-cordoglio-del-mondo-dello-spettacolo-carlo-conti-ci-hai-fatto-ballare-malgioglio-sapeva-di-magia/8445667/",
-        "https://www.ilfattoquotidiano.it/2026/07/11/la-discoteca-ha-fatto-perdere-il-gusto-della-conquista-nessuna-coppia-si-e-fidanzata-al-suono-dei-rolling-stones-da-me-invece-accadeva-cosi-peppino-di-capri/8445657/",
-        "https://www.lastampa.it/spettacoli/2026/07/11/video/peppino_di_capri_ultima_esibizioe_champagne-15687057/",
-        "https://www.ilfattoquotidiano.it/2026/07/11/peppino-di-capri-champagne-beatles-e-tre-figli-tutta-la-vita-mai-banale-del-re-del-festival-di-napoli/8445610/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "MotoGp, Marquez in pole nel Gp di Germania davanti a fratello Alex. Cade Bezzecchi",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/moto-gp/2026/07/11/news/bezzecchi_caduta_frattura_clavicolaz-425464851/",
+        "https://www.adnkronos.com/sport/motogp-oggi-ordine-arrivo-gara-sprint-gp-germania-nuova-classifica-mondiale_796QmGNWMz0bqnzmVjQSIh",
+        "https://www.ilfattoquotidiano.it/2026/07/11/motogp-sprint-marquez-gp-germania-risultati-nuova-classifica/8445899/",
+        "https://www.adnkronos.com/sport/diretta-motogp-oggi-gara-sprint-corsa-classifica-live_2jJu8bkgI1sKQDR6SorLqh",
         "https://www.ilfattoquotidiano.it/2026/07/11/motogp-germania-marquez-pole-position-bezzecchi-caduto-griglia-di-partenza/8445761/",
-        "https://www.ansa.it/sito/notizie/sport/moto/2026/07/11/motogp-germania-marc-marquez-in-pole-davanti-al-fratello-alex_496c4148-6f65-4f64-beaf-d2df5fad982b.html",
-        "https://www.adnkronos.com/sport/motogp-oggi-marquez-pole-gp-germania-qualfiiche-bezzecchi-griglia-partenza_3wBoDKJ9oju41uMVZ6h7Xz",
-        "https://www.adnkronos.com/sport/motogp-germania-oggi-qualifiche-gara-sprint-orario-dove-vederle-chiaro-tv-streaming_2OIIMffNrmcCrLj2jMT6iZ"
+        "https://www.ansa.it/sito/notizie/sport/moto/2026/07/11/motogp-germania-marc-marquez-in-pole-davanti-al-fratello-alex_496c4148-6f65-4f64-beaf-d2df5fad982b.html"
       ]
     }
   ]
