@@ -1,6 +1,6 @@
 {
   "date": "2026-07-11",
-  "generated_at": "Sat 11 Jul 21:00",
+  "generated_at": "Sat 11 Jul 22:00",
   "stories": [
     {
       "rank": 1,
@@ -161,12 +161,34 @@
     },
     {
       "rank": 8,
-      "title": "Sinner, voglia di bis",
-      "source_count": 5,
+      "title": "Quotidiano Iran, Meloni nella lista nera dei responsabili della morte di Khamenei",
+      "source_count": 6,
       "article_count": 8,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "laverita.info",
+        "adnkronos.com",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/mondo/meloni_lista_nera_iran_vendetta_khamenei-9645879.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/11/mojtaba-minaccia-vendetta-per-il-padre-anche-meloni-nella-lista-nera_f6fb4923-2d40-485d-9852-082b1159c51e.html",
+        "https://www.ilgiornale.it/news/governo/solidariet-e-vicinanza-politica-si-stringe-attorno-meloni-2692279.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/11/mojtaba-minaccia-vendetta-per-il-padre-trump-e-meloni-nella-lista-nera_f6fb4923-2d40-485d-9852-082b1159c51e.html",
+        "https://www.laverita.info/mondo/iran-meloni-lista-nera"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Sinner, voglia di bis",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
         "ilfattoquotidiano.it",
         "adnkronos.com",
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "ilgiornale.it",
         "repubblica.it"
@@ -174,13 +196,13 @@
       "links": [
         "https://www.ilfattoquotidiano.it/2026/07/11/sinner-zverev-finale-wimbledon-allenamento-come-e-andata/8446041/",
         "https://www.adnkronos.com/sport/sinner-wimbledon-2026-interviste-record-djokovic_4QVHd7EDYi4LzjjaWGyS5X",
+        "https://www.liberoquotidiano.it/news/sport/48512781/jannik-sinner-vigilia-finalissima-wimbledon-credo-giochi-inghilterra/",
         "https://www.ilfattoquotidiano.it/2026/07/11/wimbledon-2026-quando-gioca-sinner-zverev-finale-orario-dove-vedere-tv-streaming-in-chiaro/8445858/",
-        "https://www.ilmessaggero.it/sport/schede/sinner_zverev_finale_wimbledon_orario_in_chiaro_tv8_precedenti-9645295.html",
-        "https://www.ilgiornale.it/news/sport/jannik-meraviglioso-e-cinico-re-djokovic-ko-tre-set-s-ho-2692026.html"
+        "https://www.ilmessaggero.it/sport/schede/sinner_zverev_finale_wimbledon_orario_in_chiaro_tv8_precedenti-9645295.html"
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Emergenza caldo, dai cannoni spara acqua ai cold-spot: così l’Italia prova a difendersi",
       "source_count": 5,
       "article_count": 7,
@@ -197,27 +219,6 @@
         "https://www.repubblica.it/cronaca/2026/07/11/news/caldo_record_italia_sanita_siccita-425464803/",
         "https://www.adnkronos.com/cronaca/caldo-record-in-arrivo-previsioni-meteo-oggi-italia_zoWSFn1Ukb0L2itGXHk81",
         "https://www.ilmessaggero.it/schede/caldo_italia_picco_previsioni_dove_quanto_dura-9645225.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Catania, insegue il fratello dopo una lite e lo uccide a colpi di mannaia: arrestato",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "palermo.repubblica.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/omicidio-riposto-catanese-uccide-fratello-con-mannaia_71azHRuwjtqT3upASdw6m5",
-        "https://www.ilgiornale.it/news/cronaca-nera/tragedia-provincia-catania-insegue-fratello-e-uccide-colpi-2692148.html",
-        "https://www.ilfattoquotidiano.it/2026/07/11/omicidio-riposto-mannaia-fratello-notizie/8445738/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/11/insegue-il-fratello-e-lo-uccide-con-colpi-di-mannaia-nel-catanese_ac04245d-510e-4b4a-af04-72068eeaeb9c.html",
-        "https://www.ilmessaggero.it/italia/uccide_fratello_mannaia_inseguimento_lungomare_riposto_natale_guarrera-9645330.html"
       ]
     }
   ]
