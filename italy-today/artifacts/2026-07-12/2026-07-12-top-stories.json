@@ -1,77 +1,56 @@
 {
   "date": "2026-07-12",
-  "generated_at": "Sun 12 Jul 10:42",
+  "generated_at": "Sun 12 Jul 12:07",
   "stories": [
     {
       "rank": 1,
-      "title": "Mondiali: Svizzera ko 3-1 ai supplementari, Argentina in semifinale con l'Inghilterra",
-      "source_count": 8,
-      "article_count": 10,
+      "title": "Ranucci: 'Nessuna inchiesta condizionata da Lavitola, l'esposto di FdI è errato'",
+      "source_count": 9,
+      "article_count": 14,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "adnkronos.com",
         "ansa.it",
-        "ilmessaggero.it",
         "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
+        "ilmessaggero.it",
         "lastampa.it",
-        "news.google.com"
+        "repubblica.it",
+        "ilmanifesto.it",
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.adnkronos.com/sport/argentina-svizzera-embolo-var-lautaro-cosa-e-successo_3klX9TdARTrupL7qmJOg7D",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/12/mondiali-largentina-vola-in-semifinale-ce-linghilterra.-svizzera-ko-ai-supplementari_9485edf6-cf11-42ce-9240-23c315e8045d.html",
-        "https://www.ilmessaggero.it/sport/schede/semifinali_mondiali_quando_giocano_dove_vederle_tv_streaming_argentina_francia_spagna_inghilterra-9646866.html",
-        "https://www.ilgiornale.it/news/calcio/l-argentina-fatica-supera-3-1-svizzera-ai-supplementari-ora-2692390.html",
-        "https://www.ilfattoquotidiano.it/2026/07/12/mondiali-2026-tabellone-semifinali-grafica-calendario-partite-tv/8431475/"
+        "https://www.ilfattoquotidiano.it/2026/07/12/caso-ranucci-report-sospensione-lavitola-notizie/8446530/",
+        "https://www.adnkronos.com/cronaca/ranucci-report-inchieste-lavitola-condizionato_5M1RGaqyFGd5QJnT7VKSCd",
+        "https://www.ansa.it/sito/notizie/politica/2026/07/12/-ranucci-nessuna-inchiesta-condizionata-da-lavitola-esposto-fdi-errato-_c4c9ca88-8973-49ad-b324-9675e64c1554.html",
+        "https://www.ilgiornale.it/news/interni/ranucci-nessuna-inchiesta-condizionata-lavitola-lesposto-fdi-2692501.html",
+        "https://www.ilgiornale.it/news/politica/fdi-va-procura-contro-ranucci-dossieraggio-aiutare-lamico-2692304.html"
       ]
     },
     {
       "rank": 2,
-      "title": "Ranucci: 'Nessuna inchiesta condizionata da Lavitola, l'esposto di FdI è errato'",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/07/12/-ranucci-nessuna-inchiesta-condizionata-da-lavitola-esposto-fdi-errato-_c4c9ca88-8973-49ad-b324-9675e64c1554.html",
-        "https://www.ilgiornale.it/news/interni/ranucci-nessuna-inchiesta-condizionata-lavitola-lesposto-fdi-2692501.html",
-        "https://www.ilgiornale.it/news/politica/fdi-va-procura-contro-ranucci-dossieraggio-aiutare-lamico-2692304.html",
-        "https://www.ilmessaggero.it/persone/ranucci_esposto_errato-9646993.html",
-        "https://www.repubblica.it/politica/2026/07/12/news/rai_piano_per_sostituire_ranucci_report-425465714/"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "L'Iran chiude Hormuz e colpisce due navi e i Paesi del Golfo. Nuovi raid Usa",
       "source_count": 8,
-      "article_count": 10,
+      "article_count": 13,
       "source_domains": [
-        "ilgiornale.it",
         "ansa.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "ilmessaggero.it",
         "repubblica.it",
-        "lastampa.it",
-        "liberoquotidiano.it"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/videogallery/mondo/2026/07/12/qatar-esplosioni-e-scie-di-fumo-sui-cieli-della-capitale-doha_b8ac8d43-eca4-4903-aa90-ef297bdde55c.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/12/teheran-chiude-hormuz-e-piu-importante-delle-bombe-atomiche.-missili-nel_97e20235-3201-418d-8e82-72b8470e4ef6.html",
         "https://www.ilgiornale.it/news/politica/attacchi-nuovi-colloqui-usa-e-i-raid-sullo-stretto-teheran-2692321.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/07/12/nuova-ondata-di-attacchi-fra-stati-uniti-e-iran_cd517640-0024-4389-aee8-b030a7139ab8.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/12/teheran-chiude-hormuz-e-colpisce-le-navi-nuovi-raid-usa.-missili-iraniani_97e20235-3201-418d-8e82-72b8470e4ef6.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/12/iran-colpisce-due-navi-che-tentavano-di-attraversare-hormuz-stretto-chiuso-fino-a-nuovo-ordine-gli-usa-rispondono-con-nuovi-raid/8446380/",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-ultime-news-oggi-12-luglio_3moFAoYh1n6Koy5hR3gunD"
+        "https://www.liberoquotidiano.it/news/libero-video/48518960/iran-nuovi-attacchi-usa-immagini-comando-centrale-usa/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/07/12/nuova-ondata-di-attacchi-fra-stati-uniti-e-iran_cd517640-0024-4389-aee8-b030a7139ab8.html"
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Lindsey Graham è morto: il senatore Usa repubblicano aveva 71 anni. Trump: “Un vero patriota”",
       "source_count": 7,
       "article_count": 10,
@@ -90,6 +69,26 @@
         "https://www.ilfattoquotidiano.it/2026/07/12/morte-lindsey-graham-senatore-repubblicano-notizie/8446440/",
         "https://www.adnkronos.com/internazionale/esteri/graham-morto-trump-incontro-zelensky_5KXfvILPtnIgzK6GdsPBrh",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/12/morto-il-senatore-usa-repubblicano-lindsey-graham-aveva-71-anni_d727ee09-3e67-4eef-b3f8-cfa11d0d17de.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Inghilterra-Norvegia, perché il gol di Bellingham non è stato annullato: il tocco della spidercam e cosa dice la Fifa",
+      "source_count": 5,
+      "article_count": 12,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/calcio/norvegia_inghilterra_partita_falsata_perche_cosa_e_successo-9647062.html",
+        "https://www.ilfattoquotidiano.it/2026/07/12/bellingham-tuchel-lite-mondiali-inghilterra-non-sa-cosa-significa-a-volte-devi-vincere-sporco/8446476/",
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/12/news/gol_bellingham_inghilterra_norvegia_cavo_spyder_cam_fifa-425466153/",
+        "https://www.ilfattoquotidiano.it/2026/07/12/norvegia-inghilterra-mistero-pallone-spider-cam-gol-bellingham-proteste-fifa-nega-video/8446432/",
+        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/12/news/norvegia_inghilterra_proteste_tocco_palla_spider_cam-15687851/"
       ]
     },
     {
@@ -115,48 +114,27 @@
     },
     {
       "rank": 6,
-      "title": "Autovelox, rivoluzione anti-caos. Spenti 850 dispositivi non omologati",
-      "source_count": 7,
+      "title": "Mondiali: Svizzera ko 3-1 ai supplementari, Argentina in semifinale con l'Inghilterra",
+      "source_count": 6,
       "article_count": 8,
       "source_domains": [
-        "ilgiornale.it",
         "adnkronos.com",
         "ansa.it",
+        "ilgiornale.it",
         "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/truffa-finita-spento-autovelox-su-4-2692316.html",
-        "https://www.adnkronos.com/cronaca/autovelox-nuovo-decreto-omologati-non-omologati_2RZICkydqVas0Ud9wr8F0J",
-        "https://www.ansa.it/sito/notizie/economia/2026/07/11/in-gazzetta-il-decreto-autovelox-stop-a-850-apparecchi-non-omologati_380f46eb-6eae-4cb9-a9e2-e4829686a5b8.html",
-        "https://www.ilgiornale.it/news/cittadini/svolta-autovelox-mezzanotte-si-spengono-oltre-1200-2692225.html",
-        "https://www.ilmessaggero.it/economia/schede/decreto_autovelox_cosa_cambia_multe_regole_mappa_italia-9645552.html"
+        "https://www.adnkronos.com/sport/svizzera-mondiali-2026-attacco-var-argentina-yakin-ct_1k0SgxIm6Y6p3jTd4AGy3D",
+        "https://www.adnkronos.com/sport/argentina-svizzera-embolo-var-lautaro-cosa-e-successo_3klX9TdARTrupL7qmJOg7D",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/12/mondiali-largentina-vola-in-semifinale-ce-linghilterra.-svizzera-ko-ai-supplementari_9485edf6-cf11-42ce-9240-23c315e8045d.html",
+        "https://www.ilgiornale.it/news/calcio/l-argentina-fatica-supera-3-1-svizzera-ai-supplementari-ora-2692390.html",
+        "https://www.ilmessaggero.it/sport/calcio/argentina_svizzera_alvarez_messi_come_e_finita-9646838.html"
       ]
     },
     {
       "rank": 7,
-      "title": "Inghilterra-Norvegia, perché il gol di Bellingham non è stato annullato: il tocco della spidercam e cosa dice la Fifa",
-      "source_count": 5,
-      "article_count": 10,
-      "source_domains": [
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/12/news/gol_bellingham_inghilterra_norvegia_cavo_spyder_cam_fifa-425466153/",
-        "https://www.ilfattoquotidiano.it/2026/07/12/norvegia-inghilterra-mistero-pallone-spider-cam-gol-bellingham-proteste-fifa-nega-video/8446432/",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/12/news/norvegia_inghilterra_proteste_tocco_palla_spider_cam-15687851/",
-        "https://www.ilmessaggero.it/sport/calcio/inghilterra_norvegia_gol_bellingham_non_annullato_perche-9646891.html",
-        "https://www.ilgiornale.it/news/calcio/niente-kane-e-haaland-ecco-super-bellingham-l-inghilterra-2692386.html"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Nuova e intensa ondata di calore: temperature e durata, cosa sappiamo",
       "source_count": 6,
       "article_count": 7,
@@ -174,6 +152,26 @@
         "https://www.lastampa.it/cronaca/2026/07/12/news/caldo_record_estate_2026-15687815/",
         "https://www.repubblica.it/cronaca/2026/07/12/news/caldo_terza_ondata_sud_incendi_40_gradi-425465645/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/11/il-caldo-soffoca-le-citta-emergenza-incendi-sullitalia-_e79dcd44-70ca-45a5-bd31-f449eed407df.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Autovelox, rivoluzione anti-caos. Spenti 850 dispositivi non omologati",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/truffa-finita-spento-autovelox-su-4-2692316.html",
+        "https://www.adnkronos.com/cronaca/autovelox-nuovo-decreto-omologati-non-omologati_2RZICkydqVas0Ud9wr8F0J",
+        "https://www.ilgiornale.it/news/interni/spenti-10-autovelox-su-17-comune-non-dice-2692367.html",
+        "https://www.ansa.it/sito/notizie/economia/2026/07/11/in-gazzetta-il-decreto-autovelox-stop-a-850-apparecchi-non-omologati_380f46eb-6eae-4cb9-a9e2-e4829686a5b8.html",
+        "https://www.ilgiornale.it/news/cittadini/svolta-autovelox-mezzanotte-si-spengono-oltre-1200-2692225.html"
       ]
     },
     {
