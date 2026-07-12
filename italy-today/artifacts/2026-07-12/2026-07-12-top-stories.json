@@ -1,36 +1,37 @@
 {
   "date": "2026-07-12",
-  "generated_at": "Sun 12 Jul 19:21",
+  "generated_at": "Sun 12 Jul 20:12",
   "stories": [
     {
       "rank": 1,
       "title": "Sinner in finale a Wimbledon, come cambia ranking e quanto guadagna se vince",
-      "source_count": 9,
-      "article_count": 35,
+      "source_count": 10,
+      "article_count": 42,
       "source_domains": [
+        "adnkronos.com",
         "ilfattoquotidiano.it",
         "ansa.it",
-        "adnkronos.com",
+        "laverita.info",
+        "ilgiornale.it",
         "ilmessaggero.it",
         "lastampa.it",
-        "ilgiornale.it",
         "liberoquotidiano.it",
         "d.repubblica.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/12/classifica-atp-sinner-wimbledon-notizie/8446883/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/12/sinner-fa-il-bis-a-wimbledon-e-campione-per-il-secondo-anno-di-fila_48ac8192-9948-416f-935e-1241360cb752.html",
-        "https://www.ilfattoquotidiano.it/2026/07/12/sinner-wimbledon-2026-record-slam-segreti-nuovo-servizio-scelta-da-campione/8446689/",
-        "https://www.adnkronos.com/sport/sinner-zverev-alcaraz-come-cambia-ranking-wimbledon-quanto-guadagnato_3ekG1dTDILhrPcjOI2ZMBH",
-        "https://www.ansa.it/sito/photogallery/sport/2026/07/12/wimbledon-zverev-cade-fair-play-sinner-che-lo-aiuta-a-rialzarsi_807e9860-1109-4759-8d6b-7edca9eacf05.html"
+        "https://www.adnkronos.com/sport/sinner-zverev-wimbledon-non-mi-sei-simpatico-risposta-jannik_7AInkJgBK3VrB2Vp5uIIrD",
+        "https://www.ilfattoquotidiano.it/2026/07/12/sinner-wimbledon-2026-risposta-decisiva-zverev-finale-analisi-commento/8446933/",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/07/12/sinner-concede-il-bis-wimbledon-e-ancora-suo_48ac8192-9948-416f-935e-1241360cb752.html",
+        "https://www.laverita.info/storie-di-sport/sinner-wimbledon-2026",
+        "https://www.ilgiornale.it/news/tennis/sinner-re-wimbledon-lorgoglio-dellitalia-meloni-ha-scritto-2692592.html"
       ]
     },
     {
       "rank": 2,
       "title": "Teheran chiude Hormuz e colpisce le navi, nuovi raid Usa. 'Missili iraniani in Giordania'",
-      "source_count": 9,
-      "article_count": 16,
+      "source_count": 8,
+      "article_count": 15,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -39,7 +40,6 @@
         "adnkronos.com",
         "ilmessaggero.it",
         "repubblica.it",
-        "lastampa.it",
         "news.google.com"
       ],
       "links": [
@@ -208,23 +208,22 @@
     },
     {
       "rank": 10,
-      "title": "L'Italia parteciperà a vertice negli Usa sul “terrorismo rosso” con un sottosegretario. Ira delle opposizioni",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "I funerali di Peppino di Capri sulla “sua” isola, l’applauso e le sue canzoni in piazzetta",
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
+        "laverita.info",
+        "adnkronos.com",
         "ansa.it",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "napoli.repubblica.it",
+        "ilfattoquotidiano.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/politica/italia_terrorismo_rosso_stati_uniti-9647228.html",
-        "https://www.ilfattoquotidiano.it/2026/07/12/vertice-trump-terrorismo-sinistra-meloni-notizie/8446753/",
-        "https://www.ilgiornale.it/news/interni/l-italia-parteciper-summit-rubio-sul-terrorismo-rosso-2692557.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/07/11/litalia-partecipa-al-vertice-usa-contro-il-terrorismo-rosso_43a0fdcf-5deb-4d7c-98ca-cf17cc6c310b.html",
-        "https://www.lastampa.it/esteri/2026/07/11/news/summit_usa_contro_antifa_italia_presente-15687679/"
+        "https://www.laverita.info/video/funerali-peppino-di-capri",
+        "https://www.adnkronos.com/spettacoli/peppino-di-capri-oggi-funerali-applauso-cantante_4VswTOsWJHfhL7Wr7O9M2d",
+        "https://www.ansa.it/sito/videogallery/spettacolo/2026/07/12/peppino-di-capri-la-camera-ardente-aperta-nella-sua-amata-isola_1a694560-177d-49d1-9728-cb988b2c88a8.html",
+        "https://napoli.repubblica.it/cronaca/2026/07/12/news/peppino_di_capri_funerali_piazzetta-425466327/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/12/lultimo-saluto-a-peppino-di-capri-labbraccio-dellisola-al-suo-_2f5ddc7c-8ba4-41ff-acdd-28ce7c6187b0.html"
       ]
     }
   ]
