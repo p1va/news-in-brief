@@ -1,12 +1,12 @@
 {
   "date": "2026-07-13",
-  "generated_at": "Mon 13 Jul 15:49",
+  "generated_at": "Mon 13 Jul 18:03",
   "stories": [
     {
       "rank": 1,
-      "title": "Sinner vince Wimbledon, ma Courier critica: \"Non ha giocato bene\"",
-      "source_count": 9,
-      "article_count": 31,
+      "title": "Sinner, il trionfo dell'uomo: ecco perché il secondo Wimbledon vale più di uno Slam",
+      "source_count": 8,
+      "article_count": 28,
       "source_domains": [
         "adnkronos.com",
         "ilmessaggero.it",
@@ -15,7 +15,6 @@
         "repubblica.it",
         "ilgiornale.it",
         "ilmanifesto.it",
-        "liberoquotidiano.it",
         "news.google.com"
       ],
       "links": [
@@ -30,7 +29,7 @@
       "rank": 2,
       "title": "Tensione su Hormuz, nuovi raid americani sull'Iran",
       "source_count": 6,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
         "liberoquotidiano.it",
         "ilgiornale.it",
@@ -40,15 +39,38 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48532713/le-immagini-dei-droni-marini-usa-quando-colpiscono-un-porto-iraniano/",
         "https://www.liberoquotidiano.it/news/tv-news/48529511/iran-le-immagini-degli-attacchi-contro-i-siti-usa-in-medio-oriente/",
         "https://www.ilgiornale.it/news/politica/crisi-medioriente-2692618.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/13/liran-se-gli-usa-non-rispettano-impegni-abbandoneremo-il-memorandum-dintesa.-nuovi_ac0df52f-d134-47eb-8b7d-96d62fdbf9e7.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/07/13/forze-armate-usa-diffondono-i-filmati-di-attacchi-contro-obiettivi-iraniani_037a05fd-0cee-4ffd-8d33-e74972f47cde.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48525980/iran-nuova-ondata-attacchi-usa-contro-decine-obiettivi/"
+        "https://www.ansa.it/sito/videogallery/mondo/2026/07/13/forze-armate-usa-diffondono-i-filmati-di-attacchi-contro-obiettivi-iraniani_037a05fd-0cee-4ffd-8d33-e74972f47cde.html"
       ]
     },
     {
       "rank": 3,
+      "title": "Femminicidio Aurora Tila, confessa il fidanzato della 13enne: \"L’ho uccisa io gettandola dal balcone”",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "bologna.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/13/femminicidio-aurora-tila-fidanzato-confessa-news/8447686/",
+        "https://www.adnkronos.com/cronaca/omicidio-aurora-tila-ex-fidanzato-confessa_5Mltz4dZdYg7RXRKuAu3YC",
+        "https://www.liberoquotidiano.it/news/italia/48531037/aurora-tila-13enne-gettata-balcone-ho-uccisa-io-ex-fidanzato-confessa-dopo-2-anni/",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-aurora-tila-confessa-17enne-gi-condannato-lho-2692918.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/13/omicidio-di-aurora-lex-fidanzato-parla-in-appello-e-confessa_dc637162-3ec5-439a-864b-add2e5f2e74e.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Addio a Sam Neill, l’attore neozelandese star di Jurassic Park: aveva 78 anni",
       "source_count": 7,
       "article_count": 8,
@@ -70,7 +92,27 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Mafia, Meloni \"Se necessario a Palermo metteremo in campo anche l'esercito\"",
+      "source_count": 5,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "palermo.repubblica.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/13/meloni-palermo-esercito-sicurezza-notizie/8447739/",
+        "https://www.liberoquotidiano.it/news/pillole/48531055/criminalita-meloni-dal-2023-a-palermo-118-operazioni-ad-alto-impatto-/",
+        "https://www.ansa.it/sito/notizie/politica/2026/07/13/meloni-a-palermo-alla-riunione-del-comitato-provinciale-per-lordine-e-la-sicurezza_90c78ada-44ea-4f19-8d99-22acef8a04ed.html",
+        "https://www.liberoquotidiano.it/news/pillole/48531058/mafia-meloni-se-necessario-a-palermo-metteremo-in-campo-anche-l-esercito-/",
+        "https://www.liberoquotidiano.it/news/pillole/48531007/meloni_chi_pensa_di_riportare_indietro_palermo_trovera_stato_che_reagisce_/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Agente dell’Ice uccide un uomo durante un controllo nel Maine: secondo caso in pochi giorni",
       "source_count": 7,
       "article_count": 7,
@@ -92,28 +134,26 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Femminicidio Aurora Tila, confessa il fidanzato della 13enne: \"L’ho uccisa io gettandola dal balcone”",
-      "source_count": 6,
-      "article_count": 6,
+      "rank": 7,
+      "title": "Meloni depone un mazzo di fiori alla stele dedicata a Falcone",
+      "source_count": 4,
+      "article_count": 9,
       "source_domains": [
-        "adnkronos.com",
         "ilgiornale.it",
-        "ansa.it",
-        "bologna.repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "governo.it"
       ],
       "links": [
-        "https://www.adnkronos.com/cronaca/omicidio-aurora-tila-ex-fidanzato-confessa_5Mltz4dZdYg7RXRKuAu3YC",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-aurora-tila-confessa-17enne-gi-condannato-lho-2692918.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/13/omicidio-di-aurora-lex-fidanzato-parla-in-appello-e-confessa_dc637162-3ec5-439a-864b-add2e5f2e74e.html",
-        "https://bologna.repubblica.it/cronaca/2026/07/13/news/delitto_aurora_tila_piacenza_fidanzato_confessa_appello-425468292/",
-        "https://www.ilmessaggero.it/italia/aurora_tila_fidanzato_confessa_omicidio-9648856.html"
+        "https://www.ilgiornale.it/news/interni/meloni-palermo-contro-criminalit-organizzata-lavorare-tutti-2692963.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48532060/meloni-si-commuove-davanti-ai-resti-della-croma-di-giovanni-falcone/",
+        "https://www.liberoquotidiano.it/news/pillole/48531040/meloni-rende-omaggio-alle-vittime-della-strage-di-capaci/",
+        "https://www.liberoquotidiano.it/news/tv-news/48532042/meloni-allo-svelamento-dell-auto-di-falcone-un-emozione-tagliente/",
+        "https://www.liberoquotidiano.it/news/pillole/48530992/palermo_la_croma_di_falcone_trasferita_al_museo_del_presente_le_immagini/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Hanno terrorizzato Palermo per mesi, in cella la banda dei kalashnikov",
       "source_count": 5,
       "article_count": 6,
@@ -133,81 +173,41 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Svolta nell’omicidio di Ann Widdecombe, indaga l’antiterrorismo: fermato un 28enne",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/13/omicidio-ann-widdecombe-antiterrorismo-indagini-notizie/8447603/",
-        "https://www.repubblica.it/esteri/2026/07/13/news/ann_widdecombe_morte_antiterrorismo_lady_brexit-425468142/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/svolta-nell-omicidio-ann-widdecombe-indaga-l-antiterrorismo-2692892.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/13/svolta-sullomicidio-di-ann-widdecombe-aperta-indagine-per-terrorismo-_6ff9ca83-9e22-4b50-a21f-ccddc7525a32.html",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DMm84WmhEMEZCcWhOVHEzUjg3a3gwYmlUQmFaUDJ0eTNnZGl5bFlsZzFZTzNJSk9uaWpndmFRY1JWRTduUjFNdzhnWm8xbnZzQXVrRGNZZHZrOUhjMGIzTHNUcGpOMmExb0pOaUV4czhlR1AzdHQ0R0U5UQ?oc=5"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Mario Adinolfi, interrogato dal giudice contrattacca: “Non sono un truffatore di vecchiette”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "roma.repubblica.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/13/mario-adinolfi-gip-non-sono-truffatore-vecchiette-lestofante-mia-vita-morigerata-courmayeur/8447496/",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/adinolfi-passa-contrattacco-non-frego-vecchiette-mi-denuncia-2692884.html",
-        "https://www.ilmessaggero.it/persone/mario_adinolfi_non_truffo_vecchiette_cosa_ha_detto_interrogatorio-9648684.html",
-        "https://www.adnkronos.com/cronaca/adinolfi-interrogatorio-di-garanzia-davanti-al-gip-ultime-notizie_3BJ2Tpn7mpZOg1yeLMgvGa",
-        "https://roma.repubblica.it/cronaca/2026/07/13/news/mario_adinolfi_interrogato_dal_giudice_contrattacca_non_ho_truffato_nessuno-425467924/"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "«Spie e sabotaggi, maxi cyber-attacco russo contro l'Europa». Parigi e Berlino convocano gli ambasciatori. Sanzioni dall'Ue",
+      "title": "Omicidio in stazione Milano, la Polizia arresta altri 6 Latin King",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "ilmessaggero.it",
-        "ilgiornale.it",
+        "ansa.it",
+        "laverita.info",
         "ilfattoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it"
+        "ilgiornale.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/mondo/russia_sabotaggi_europa_spie_attacchi_francia_germania_ultime_notizie-9648824.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/francia-e-germania-contro-mosca-cybersabotaggi-contro-l-2692875.html",
-        "https://www.ilfattoquotidiano.it/2026/07/13/cyberattacchi-russi-europa-francia-germania-ambasciatori-notizie/8447328/",
-        "https://www.lastampa.it/esteri/2026/07/13/news/cyberattacchi_russia_europa_francia_germania-15688638/",
-        "https://www.repubblica.it/esteri/2026/07/13/news/spionaggio_russia_europa_attacco_ibrido_francia_germania_ambasciatori-425467875/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/13/i-latin-king-e-il-trapper-sei-arresti-per-lomicidio-nella-stazione_38b12d83-64e0-4c17-8578-4c3c31a881af.html",
+        "https://www.laverita.info/inchieste-video/arresto-latin-kings-milano-omicidio",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/13/omicidio-in-stazione-milano-la-polizia-arresta-altri-6-latin-king_38b12d83-64e0-4c17-8578-4c3c31a881af.html",
+        "https://www.ilfattoquotidiano.it/2026/07/13/omicidio-ibarra-silvera-latin-king-arresti-notizie/8447338/",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-certosa-arrestati-6-latin-king-delitto-ibarra-2692855.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Ondata di calore, l'Italia nella traiettoria dell'anticiclone",
+      "title": "L'Italia dei bollini rossi, attesi 45 gradi in Sardegna",
       "source_count": 3,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
         "ansa.it",
         "lastampa.it",
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/13/litalia-dei-bollini-rossi-attesi-45-gradi-in-sardegna_e078ff86-fdb2-467d-8f4b-30acb3fd0f4a.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/13/londata-di-caldo-si-estende-in-tutta-europa-incendi-e-vittime.-mercoledi-in-italia-7-bollini_e078ff86-fdb2-467d-8f4b-30acb3fd0f4a.html",
         "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/07/13/ondata-di-calore-litalia-nella-traiettoria-dellanticiclone-_bcd3a877-63e0-47c8-9009-c5d362147c1d.html",
         "https://www.ansa.it/sito/notizie/mondo/africa/2026/07/13/londata-di-calore-si-estende-in-tutta-europa-ancora-incendi-e-vittime.-litalia-nella_e078ff86-fdb2-467d-8f4b-30acb3fd0f4a.html",
-        "https://www.lastampa.it/cronaca/2026/07/13/news/ondata_caldo_arrivo_picco_europa-15688576/",
-        "https://www.ilmessaggero.it/schede/caldo_estremo_mappa_citta_zone_piu_roventi_quanto_dura_previsioni-9648373.html"
+        "https://www.lastampa.it/cronaca/2026/07/13/news/ondata_caldo_arrivo_picco_europa-15688576/"
       ]
     }
   ]
