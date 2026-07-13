@@ -1,6 +1,6 @@
 {
   "date": "2026-07-13",
-  "generated_at": "Mon 13 Jul 19:51",
+  "generated_at": "Mon 13 Jul 21:06",
   "stories": [
     {
       "rank": 1,
@@ -29,7 +29,7 @@
       "rank": 2,
       "title": "Sinner, il trionfo dell'uomo: ecco perché il secondo Wimbledon vale più di uno Slam",
       "source_count": 7,
-      "article_count": 24,
+      "article_count": 23,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
@@ -73,30 +73,9 @@
     },
     {
       "rank": 4,
-      "title": "Tensione su Hormuz, nuovi raid americani sull'Iran",
-      "source_count": 6,
-      "article_count": 11,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48532713/le-immagini-dei-droni-marini-usa-quando-colpiscono-un-porto-iraniano/",
-        "https://www.liberoquotidiano.it/news/tv-news/48529511/iran-le-immagini-degli-attacchi-contro-i-siti-usa-in-medio-oriente/",
-        "https://www.ilgiornale.it/news/politica/crisi-medioriente-2692618.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/13/liran-se-gli-usa-non-rispettano-impegni-abbandoneremo-il-memorandum-dintesa.-nuovi_ac0df52f-d134-47eb-8b7d-96d62fdbf9e7.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/07/13/forze-armate-usa-diffondono-i-filmati-di-attacchi-contro-obiettivi-iraniani_037a05fd-0cee-4ffd-8d33-e74972f47cde.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Addio a Sam Neill, l’attore neozelandese star di Jurassic Park: aveva 78 anni",
-      "source_count": 7,
-      "article_count": 8,
+      "title": "Addio a Sam Neill, protagonista di Jurassic Park",
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
@@ -104,7 +83,8 @@
         "ansa.it",
         "ilmessaggero.it",
         "repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/07/13/e-morto-sam-neill-lindimenticabile-dottor-alan-grant-del-kolossal-jurassic-park-nel-2023-era-in-fin-di-vita-a-causa-di-un-linfoma-non-hodgkin-al-terzo-stadio/8447058/",
@@ -115,25 +95,45 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Agente dell’Ice uccide un uomo durante un controllo nel Maine: secondo caso in pochi giorni",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "ilmessaggero.it",
         "ansa.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
-        "ilmessaggero.it",
         "adnkronos.com",
         "repubblica.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/mondo/agenti_ice_uccidono_cittadino_colombiano_maine_trump-9649266.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/13/ice-ancora-nella-bufera-unaltra-persona-uccisa-dai-suoi-agenti_4ad1ad44-0e30-4626-b108-9adb4e37186c.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/13/un-uomo-ucciso-in-una-sparatoria-che-ha-coinvolto-agenti-dellice-in-maine_4ad1ad44-0e30-4626-b108-9adb4e37186c.html",
         "https://www.ilgiornale.it/news/cronaca-internazionale/usa-scontro-fuoco-agenti-ice-maine-morto-2692932.html",
-        "https://www.ilfattoquotidiano.it/2026/07/13/ice-omicidi-maine-texas-notizie/8447569/",
-        "https://www.ilmessaggero.it/mondo/sparatoria_ice_maine_uomo_ucciso_cosa_e_successo-9648898.html"
+        "https://www.ilfattoquotidiano.it/2026/07/13/ice-omicidi-maine-texas-notizie/8447569/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Tensione su Hormuz, nuovi raid americani sull'Iran",
+      "source_count": 5,
+      "article_count": 10,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48532713/le-immagini-dei-droni-marini-usa-quando-colpiscono-un-porto-iraniano/",
+        "https://www.liberoquotidiano.it/news/tv-news/48529511/iran-le-immagini-degli-attacchi-contro-i-siti-usa-in-medio-oriente/",
+        "https://www.ilgiornale.it/news/politica/crisi-medioriente-2692618.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/13/liran-se-gli-usa-non-rispettano-impegni-abbandoneremo-il-memorandum-dintesa.-nuovi_ac0df52f-d134-47eb-8b7d-96d62fdbf9e7.html",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/07/13/forze-armate-usa-diffondono-i-filmati-di-attacchi-contro-obiettivi-iraniani_037a05fd-0cee-4ffd-8d33-e74972f47cde.html"
       ]
     },
     {
@@ -157,27 +157,6 @@
     },
     {
       "rank": 8,
-      "title": "Scudo anti-missili balistici, cos'è e quali Paesi (tra cui l'Italia) partecipano alla coalizione con l'Ucraina",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/mondo/scudo_anti_missili_balistici_guerra_ucraina_paesi_volenterosi-9649139.html",
-        "https://www.ilfattoquotidiano.it/2026/07/13/scudo-antibalistico-freyja-coalizione-europa-notizie/8447717/",
-        "https://www.ilgiornale.it/news/difesa/patto-kiev-e-9-paesi-ue-inclusa-litalia-difesa-contro-i-2692972.html",
-        "https://www.adnkronos.com/internazionale/esteri/volenterosi-parigi-coalizione-europea-per-scudo-anti-missili-balistici_1eQd43y8g1aehBYFPQoN2O",
-        "https://www.lastampa.it/esteri/2026/07/13/diretta/guerra_russia_ucraina_news_oggi-15688336/"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Hanno terrorizzato Palermo per mesi, in cella la banda dei kalashnikov",
       "source_count": 5,
       "article_count": 6,
@@ -197,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Omicidio in stazione Milano, la Polizia arresta altri 6 Latin King",
       "source_count": 5,
       "article_count": 6,
@@ -214,6 +193,26 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/13/omicidio-in-stazione-milano-la-polizia-arresta-altri-6-latin-king_38b12d83-64e0-4c17-8578-4c3c31a881af.html",
         "https://www.ilfattoquotidiano.it/2026/07/13/omicidio-ibarra-silvera-latin-king-arresti-notizie/8447338/",
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-certosa-arrestati-6-latin-king-delitto-ibarra-2692855.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Mario Adinolfi, interrogato dal giudice contrattacca: “Non sono un truffatore di vecchiette”",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "roma.repubblica.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/13/mario-adinolfi-gip-non-sono-truffatore-vecchiette-lestofante-mia-vita-morigerata-courmayeur/8447496/",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/adinolfi-passa-contrattacco-non-frego-vecchiette-mi-denuncia-2692884.html",
+        "https://www.ilmessaggero.it/persone/mario_adinolfi_non_truffo_vecchiette_cosa_ha_detto_interrogatorio-9648684.html",
+        "https://www.adnkronos.com/cronaca/adinolfi-interrogatorio-di-garanzia-davanti-al-gip-ultime-notizie_3BJ2Tpn7mpZOg1yeLMgvGa",
+        "https://roma.repubblica.it/cronaca/2026/07/13/news/mario_adinolfi_interrogato_dal_giudice_contrattacca_non_ho_truffato_nessuno-425467924/"
       ]
     }
   ]
