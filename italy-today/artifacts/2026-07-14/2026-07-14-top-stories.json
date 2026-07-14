@@ -1,15 +1,15 @@
 {
   "date": "2026-07-14",
-  "generated_at": "Tue 14 Jul 10:56",
+  "generated_at": "Tue 14 Jul 12:22",
   "stories": [
     {
       "rank": 1,
       "title": "Legge elettorale, spiragli d’intesa. Resta l’incognita del voto segreto",
       "source_count": 8,
-      "article_count": 15,
+      "article_count": 16,
       "source_domains": [
-        "ilgiornale.it",
         "ansa.it",
+        "ilgiornale.it",
         "adnkronos.com",
         "repubblica.it",
         "lastampa.it",
@@ -18,32 +18,33 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/07/14/legge-elettorale-dopo-la-lega-anche-fi-dice-si-alla-preferenze.-il-pd-chiedera-il-voto_1e8abb4b-4a07-47a9-a11f-3a40f8365ae0.html",
         "https://www.ilgiornale.it/news/politica/nodo-preferenze-prova-dellaula-e-meloni-teme-i-franchi-2693074.html",
         "https://www.ansa.it/sito/notizie/politica/2026/07/14/legge-elettorale-ok-della-lega-alle-preferenze-anche-fi-verso-il-si.-il-pd-chiedera_1e8abb4b-4a07-47a9-a11f-3a40f8365ae0.html",
         "https://www.adnkronos.com/politica/legge-elettorale-riforma-opposizioni-centrosinistra-centrodestra-ultime-notizie_2gLspuUnXCkrYFDgsLUeMz",
-        "https://www.repubblica.it/politica/2026/07/14/news/legge_elettorale_centrodestra_forza_italia_opposizioni_emendamento_preferenze-425469791/",
-        "https://www.lastampa.it/politica/2026/07/14/news/nuova_legge_elettorale_cosa_succede_preferenze-15689395/"
+        "https://www.repubblica.it/politica/2026/07/14/news/legge_elettorale_centrodestra_forza_italia_opposizioni_emendamento_preferenze-425469791/"
       ]
     },
     {
       "rank": 2,
       "title": "Iran, terza notte di raid Usa. Teheran attacca due petroliere. Trump: colpiremo sito nucleare",
-      "source_count": 6,
+      "source_count": 7,
       "article_count": 8,
       "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
+        "liberoquotidiano.it",
         "laverita.info",
         "ansa.it",
         "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/trump-mette-mani-su-hormuz-e-torna-bombardare-liran-2693082.html",
-        "https://www.repubblica.it/esteri/2026/07/14/news/pedaggi_su_hormuz_cosi_trump_smentisce_rubio_vance-425469683/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48539774/trump-guerra-in-iran-procede-molto-rapidamente-stanotte-li-attaccheremo/",
         "https://www.laverita.info/mondo/iran-usa-hormuz",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/14/missili-iraniani-contro-due-petroliere-degli-emirati-a-hormuz-un-morto.-nuovi_94264549-7ed7-465e-b981-76b6feb3f553.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/14/guerra-in-iran-libano-israele-usa-news-oggi-14-luglio/8447996/"
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/14/guerra-in-iran-libano-israele-usa-news-oggi-14-luglio/8447996/",
+        "https://www.liberoquotidiano.it/news/tv-news/48538636/trump-stiamo-colpendo-l-iran-con-grande-intensita-/"
       ]
     },
     {
@@ -108,9 +109,28 @@
     },
     {
       "rank": 6,
+      "title": "La Francia applaude Zelensky. Anche Mattarella alla parata per il 14 luglio",
+      "source_count": 4,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/lultima-bastiglia-macron-sfilata-delle-forze-armate-e-laddio-2693085.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48540865/francia-applausi-per-i-soldati-ucraini-alla-parata-del-14-luglio/",
+        "https://www.liberoquotidiano.it/news/tv-news/48540856/14-luglio-la-patrouille-de-france-sorvola-gli-champs-e-lyse-e/",
+        "https://www.ilgiornale.it/news/cultura-e-societ/parigi-parata-militare-sugli-champs-elys-es-ospite-2693273.html",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/07/14/parigi-spettacolo-di-fuochi-dartificio-e-droni-per-il-14-luglio_2cdc5218-16d5-49de-9e87-753651843f83.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Francia-Spagna, a che ora giocano e dove vederla (Rai o Dazn). Mbappé contro Yamal, le probabili formazioni della semifinale mondiale",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
@@ -120,36 +140,17 @@
       ],
       "links": [
         "https://www.ilmessaggero.it/sport/schede/francia_spagna_a_che_ora_dove_vederla_tv_streaming_rai_dazn_orario_semifinale_mondiali-9650450.html",
+        "https://www.ilmessaggero.it/sport/schede/francia_spagna_dove_vederla_chiaro_tv_streaming_rai_dazn_orario_semifinale_mondiali-9650450.html",
         "https://www.ilfattoquotidiano.it/2026/07/14/francia-spagna-semifinale-mondiali-2026-oggi-analisi-probabili-formazioni-orario-dove-tv-streaming/8447553/",
         "https://www.adnkronos.com/sport/mondiali-oggi-francia-spagna-probabili-formazioni-e-dove-vederla-in-tv_3ljwyE2OJymhrM7q3s3Bq3",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/14/news/mbappe_yamal_francia_spagna_semifinale-425469042/",
-        "https://www.lastampa.it/sport/2026/07/14/news/francia_e_spagna_regine_in_una_sfida_da_27_miliardi_e_questa_la_vera_finale-15689071/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "La Francia applaude Zelensky. Anche Mattarella alla parata per il 14 luglio",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "repubblica.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/lultima-bastiglia-macron-sfilata-delle-forze-armate-e-laddio-2693085.html",
-        "https://www.ilgiornale.it/news/cultura-e-societ/parigi-parata-militare-sugli-champs-elys-es-ospite-2693273.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/07/14/parigi-spettacolo-di-fuochi-dartificio-e-droni-per-il-14-luglio_2cdc5218-16d5-49de-9e87-753651843f83.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/in-francia-un-14-luglio-tra-difesa-europea-e-omaggio-alle-vittime-di-nizza_93104e39-d24c-440a-92fb-8740cb626fc0.html",
-        "https://www.repubblica.it/esteri/2026/07/14/news/14_luglio_champs_elysee_parata_macron_risveglio_europeo_tutti_i_simboli_numeri-425469634/"
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/14/news/mbappe_yamal_francia_spagna_semifinale-425469042/"
       ]
     },
     {
       "rank": 8,
       "title": "'Ndrangheta, operazione Dda a Reggio Calabria: 79 arresti",
       "source_count": 4,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
@@ -157,49 +158,50 @@
         "ilgiornale.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/pillole/48540306/-ndrangheta-79-arresti-nel-reggino-colpiti-i-clan-storici-del-territorio/",
         "https://www.liberoquotidiano.it/news/libero-video/48538929/ndrangheta-operazione-dda-reggio-calabria-79-arresti/",
         "https://www.ilfattoquotidiano.it/2026/07/14/ndrangheta-arresti-reggio-calabria-cosche-notizie/8448022/",
         "https://www.adnkronos.com/cronaca/ndrangheta-blitz-arresti-meloni_2i7Wc3fzTpLJXy7CnXhsK",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/ndrangheta-79-arresti-reggio-calabria-parte-dda-2693205.html",
-        "https://www.liberoquotidiano.it/news/pillole/48536731/_ndrangheta_operazione_contro_vari_clan_misure_cautelari_per_79_indagati/"
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/ndrangheta-79-arresti-reggio-calabria-parte-dda-2693205.html"
       ]
     },
     {
       "rank": 9,
-      "title": "Usa, seconda vittima degli agenti Ice in meno di una settimana",
-      "source_count": 4,
+      "title": "Mondiali: l'Argentina con la maglia del 1986, Messi per la gloria finale",
+      "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "ilgiornale.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
         "lastampa.it",
-        "ilmanifesto.it",
+        "ilgiornale.it",
         "ansa.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/usa-seconda-vittima-degli-agenti-ice-meno-settimana-2693088.html",
-        "https://www.lastampa.it/esteri/2026/07/14/video/maine_ice_video_auto_speronata_26enne_ucciso_biddeford-15689213/",
-        "https://ilmanifesto.it/morire-di-ice-ucciso-in-maine-un-26enne-di-origini-colombiane",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/13/ice-ancora-nella-bufera-unaltra-persona-uccisa-dai-suoi-agenti_4ad1ad44-0e30-4626-b108-9adb4e37186c.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/usa-scontro-fuoco-agenti-ice-maine-morto-2692932.html"
+        "https://www.adnkronos.com/sport/argentina-messi-inghilterra-arbitro-complotto-fifa-mondiali-2026_4xfXmiTA1m6SmSzF9Gu362",
+        "https://www.liberoquotidiano.it/news/tv-news/48538645/mondiali-l-argentina-di-messi-arriva-ad-atlanta-per-la-semifinale/",
+        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/14/news/messi_maglia_argentina_inghilterra-15689094/",
+        "https://www.ilgiornale.it/news/calcio/messi-contro-kane-e-mbapp-contro-yamal-ne-resteranno-due-2693024.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/13/mondiali-largentina-con-la-maglia-del-1986-messi-per-la-gloria-finale_7a4698aa-dc7c-4658-b314-162119aa57aa.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Femminicidio Aurora Tila, confessa il fidanzato della 13enne: \"L’ho uccisa io gettandola dal balcone”",
+      "title": "Caldo, quando arriva il picco e dove: attesi 45 gradi in Sardegna. Domani sette città bollino rosso",
       "source_count": 4,
       "article_count": 5,
       "source_domains": [
-        "ilgiornale.it",
         "ansa.it",
+        "ilmessaggero.it",
         "lastampa.it",
-        "news.google.com"
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/politica/lho-spinta-gi-io-crolla-2-anni-ragazzo-aurora-2693090.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/13/omicidio-di-aurora-lex-fidanzato-parla-in-appello-e-confessa_dc637162-3ec5-439a-864b-add2e5f2e74e.html",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-aurora-tila-confessa-17enne-gi-condannato-lho-2692918.html",
-        "https://www.lastampa.it/cronaca/2026/07/13/news/femminicidio_aurora_tila_confessa_fidanzato-15688680/",
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WQmhMZHZpZlBBaHNJOWVzUUZNQ3VRQ25vd1d1ZEhLUnVHSkdSdVdydlFIU0FrNi1ob0lfYnVKOXJUU2Q2ZnlrQXFqdXJYNFV3WV9ZbTBURlItTUtQRDNBRERqcHYzakFGVTNYLXlpc25pZFdCUnQ2WlJ3?oc=5"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/14/caldo-giovedi-salgono-a-15-le-citta-col-bollino-rosso-domani-saranno-7_e078ff86-fdb2-467d-8f4b-30acb3fd0f4a.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/oggi-quattro-bollini-rossi-attesi-45-gradi-in-sardegna_e078ff86-fdb2-467d-8f4b-30acb3fd0f4a.html",
+        "https://www.ilmessaggero.it/schede/caldo_picco_dove_quando_previsioni-9650416.html",
+        "https://www.lastampa.it/cronaca/2026/07/14/news/caldo_record_bollino_rosso_45_gradi_sardegna_piemonte_emergenza-15689206/",
+        "https://www.ilsole24ore.com/art/la-settimana-caldo-record-picco-giovedi-45-gradi-sardegna-tutti-bollini-rossi-giorno-giorno-AJtGU7H"
       ]
     }
   ]
