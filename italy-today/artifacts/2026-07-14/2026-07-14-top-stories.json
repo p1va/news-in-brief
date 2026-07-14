@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "generated_at": "Tue 14 Jul 15:01",
+  "generated_at": "Tue 14 Jul 16:25",
   "stories": [
     {
       "rank": 1,
@@ -50,9 +50,53 @@
     },
     {
       "rank": 3,
-      "title": "La Francia applaude Zelensky. Anche Mattarella alla parata per il 14 luglio",
+      "title": "Incendio in un edificio al centro di Bruxelles, morti e dispersi",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-internazionale/bruxelles-incendio-palazzina-residenziale-almeno-4-morti-e-6-2693450.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/incendio-in-un-edificio-al-centro-di-bruxelles-morti-e-dispersi_9d3cecb2-4de1-4129-8e16-f55e6a887578.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48546182/il-sindaco-di-bruxelles-sei-persone-mancano-all-appello-dopo-incendio/",
+        "https://www.adnkronos.com/internazionale/esteri/belgio-incendio-edificio-bruxelles-morti-e-dispersi_20tfBbvgKu6T04WHmBnOuK",
+        "https://www.ilfattoquotidiano.it/2026/07/14/incendio-torre-oxy-bruxelles-notizie/8448347/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Francia-Spagna, a che ora giocano e dove vederla (Rai o Dazn). Mbappé contro Yamal, le probabili formazioni della semifinale mondiale",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/calcio/lamine_yamal_chi_e_fratello_record_mondiali_mbappe_francia_spagna-9650975.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/14/francia-spagna-il-meglio-del-calcio-europeo-in-una-semifinale-mondiale-scheda_d371d839-1e1b-43fe-8e7e-70805d6af9cc.html",
+        "https://www.ilfattoquotidiano.it/2026/07/14/mondiali-2026-tabellone-semifinali-oggi-grafica-orario-partite-tv/8431475/",
+        "https://www.ilmessaggero.it/sport/schede/francia_spagna_a_che_ora_dove_vederla_tv_streaming_rai_dazn_orario_semifinale_mondiali-9650450.html",
+        "https://www.ilmessaggero.it/sport/schede/francia_spagna_dove_vederla_chiaro_tv_streaming_rai_dazn_orario_semifinale_mondiali-9650450.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "14 Luglio, Macron presiede per l'ultima volta alla parata militare",
       "source_count": 4,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
@@ -60,15 +104,15 @@
         "repubblica.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48546415/il-tricolore-italiano-sfila-alla-parata-militare-a-parigi-per-la-festa-del-14-luglio/",
         "https://www.liberoquotidiano.it/news/pillole/48540825/francia_mattarella_a_parigi_per_la_parata_sugli_champs-e_lyse_es/",
         "https://www.ansa.it/sito/videogallery/mondo/2026/07/14/mattarellaa-parigi-per-la-festa-del-14-luglio-lultima-con-macron-presidente_b2e7b896-cbf8-45ae-8af0-e42dafe768cb.html",
         "https://www.liberoquotidiano.it/news/libero-video/48540707/francia-arrivo-mattarella-parata-militare-14-luglio/",
-        "https://www.ilgiornale.it/news/politica/lultima-bastiglia-macron-sfilata-delle-forze-armate-e-laddio-2693085.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48540865/francia-applausi-per-i-soldati-ucraini-alla-parata-del-14-luglio/"
+        "https://www.ilgiornale.it/news/politica/lultima-bastiglia-macron-sfilata-delle-forze-armate-e-laddio-2693085.html"
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Macron riunisce i Volenterosi: “Pronti a versare il sangue” e lancia lo scudo antimissile",
       "source_count": 6,
       "article_count": 8,
@@ -89,66 +133,23 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Francia-Spagna, a che ora giocano e dove vederla (Rai o Dazn). Mbappé contro Yamal, le probabili formazioni della semifinale mondiale",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/14/francia-spagna-il-meglio-del-calcio-europeo-in-una-semifinale-mondiale-scheda_d371d839-1e1b-43fe-8e7e-70805d6af9cc.html",
-        "https://www.ilfattoquotidiano.it/2026/07/14/mondiali-2026-tabellone-semifinali-oggi-grafica-orario-partite-tv/8431475/",
-        "https://www.ilmessaggero.it/sport/schede/francia_spagna_a_che_ora_dove_vederla_tv_streaming_rai_dazn_orario_semifinale_mondiali-9650450.html",
-        "https://www.ilmessaggero.it/sport/schede/francia_spagna_dove_vederla_chiaro_tv_streaming_rai_dazn_orario_semifinale_mondiali-9650450.html",
-        "https://www.ilfattoquotidiano.it/2026/07/14/francia-spagna-semifinale-mondiali-2026-oggi-analisi-probabili-formazioni-orario-dove-tv-streaming/8447553/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Incendio in un edificio al centro di Bruxelles, morti e dispersi",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/incendio-in-un-edificio-al-centro-di-bruxelles-morti-e-dispersi_9d3cecb2-4de1-4129-8e16-f55e6a887578.html",
-        "https://www.adnkronos.com/internazionale/esteri/belgio-incendio-edificio-bruxelles-morti-e-dispersi_20tfBbvgKu6T04WHmBnOuK",
-        "https://www.ilfattoquotidiano.it/2026/07/14/incendio-torre-oxy-bruxelles-notizie/8448347/",
-        "https://www.repubblica.it/esteri/2026/07/14/news/incendio_edificio_centro_bruxelles_morti_dispersi-425470153/",
-        "https://www.ilmessaggero.it/mondo/incendio_bruxelles_oggi_cosa_e_successo-9650792.html"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "Tennis: Sinner sempre più n.1, ora riposo guardando agli Us Open",
+      "title": "Sinner, allarme Zverev nel ranking? La lotta per il numero 1",
       "source_count": 5,
       "article_count": 8,
       "source_domains": [
+        "laverita.info",
         "adnkronos.com",
         "ilgiornale.it",
         "ilmessaggero.it",
-        "ansa.it",
-        "repubblica.it"
+        "ansa.it"
       ],
       "links": [
+        "https://www.laverita.info/storie-di-sport/effetto-sinner-online",
         "https://www.adnkronos.com/sport/sinner-zverev-ranking-numero-1-sorpasso_18afTEXrKlkdU1kfBhb8wq",
         "https://www.ilgiornale.it/news/tennis/i-maxi-guadagni-sinner-quasi-100-milioni-patrimonio-caccia-2693354.html",
         "https://www.adnkronos.com/sport/sinner-wimbledon-show-ubriaco-esame-patente_4YcuVTCeU8l9M6V3epCdUK",
-        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_dopo_wimbledon_ipotesi_montreal_obiettivo_us_open_calendario_di_jannik-9650511.html",
-        "https://www.ilmessaggero.it/sport/tennis/sinner_trofeo_wimbledon_restituito_perche-9650502.html"
+        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_dopo_wimbledon_ipotesi_montreal_obiettivo_us_open_calendario_di_jannik-9650511.html"
       ]
     },
     {
@@ -173,26 +174,6 @@
     },
     {
       "rank": 9,
-      "title": "Usa, seconda vittima degli agenti Ice in meno di una settimana",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ilmanifesto.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48542558/usa-due-morti-per-mano-dell-ice-in-pochi-giorni-fbi-indaga-nel-maine/",
-        "https://www.ilgiornale.it/news/politica/usa-seconda-vittima-degli-agenti-ice-meno-settimana-2693088.html",
-        "https://www.lastampa.it/esteri/2026/07/14/video/maine_ice_video_auto_speronata_26enne_ucciso_biddeford-15689213/",
-        "https://ilmanifesto.it/morire-di-ice-ucciso-in-maine-un-26enne-di-origini-colombiane",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/13/ice-ancora-nella-bufera-unaltra-persona-uccisa-dai-suoi-agenti_4ad1ad44-0e30-4626-b108-9adb4e37186c.html"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "'Ndrangheta, operazione Dda a Reggio Calabria: 79 arresti",
       "source_count": 4,
       "article_count": 7,
@@ -208,6 +189,25 @@
         "https://www.ilfattoquotidiano.it/2026/07/14/ndrangheta-arresti-reggio-calabria-cosche-notizie/8448022/",
         "https://www.adnkronos.com/cronaca/ndrangheta-blitz-arresti-meloni_2i7Wc3fzTpLJXy7CnXhsK",
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/ndrangheta-79-arresti-reggio-calabria-parte-dda-2693205.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Caldo, fine in arrivo: temperature giù di 8 gradi con l'aria fredda dal Nord Europa. Ecco quando e dove, la mappa",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/schede/aria_fredda_in_arrivo_quando_e_dove_mappa_temporali-9650692.html",
+        "https://www.ilmessaggero.it/schede/caldo_fine_quando_aria_fredda_in_arrivo_dove_mappa-9650692.html",
+        "https://www.ilmessaggero.it/schede/caldo_fine_quando_e_dove_mappa-9650692.html",
+        "https://www.ilgiornale.it/news/ambiente/ondata-calore-anomala-picchi-45-c-poi-arriver-l-aria-artica-2693229.html",
+        "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/07/14/lanticiclone-africano-sullitalia-poi-il-rischio-di-piogge-intense-_700b44b9-cabd-4185-adb7-e1ec301e90f8.html"
       ]
     }
   ]
