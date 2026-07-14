@@ -1,56 +1,32 @@
 {
   "date": "2026-07-14",
-  "generated_at": "Tue 14 Jul 19:42",
+  "generated_at": "Tue 14 Jul 20:20",
   "stories": [
     {
       "rank": 1,
       "title": "Legge elettorale, dietrofront di FI e Lega: sì alle preferenze, ma la destra teme il voto segreto",
-      "source_count": 9,
+      "source_count": 8,
       "article_count": 18,
       "source_domains": [
+        "ilgiornale.it",
         "adnkronos.com",
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
-        "ilgiornale.it",
         "ansa.it",
         "lastampa.it",
-        "ilmessaggero.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/interni/riforma-legge-elettorale-cosa-prevedeva-l-emendamento-sulle-2693573.html",
         "https://www.adnkronos.com/internazionale/esteri/emendamento-preferenze-voto-franchi-tiratori_erGGPmTKC94lk2sxx9pfA",
         "https://www.liberoquotidiano.it/news/tv-news/48548790/legge-elettorale-la-camera-boccia-l-introduzione-delle-preferenze/",
         "https://www.ilfattoquotidiano.it/politica-palazzo/live-post/2026/07/14/legge-elettorale-esame-camera-preferenze-voto-segreto-meloni-aggiornamenti-diretta/8448464/",
-        "https://www.repubblica.it/politica/2026/07/14/news/donne_parlamento_legge_elettorale_preferenze_destra-425470214/",
-        "https://www.ilgiornale.it/news/interni/legge-elettorale-maggioranza-compatta-sulle-preferenze-2693416.html"
+        "https://www.repubblica.it/politica/2026/07/14/news/donne_parlamento_legge_elettorale_preferenze_destra-425470214/"
       ]
     },
     {
       "rank": 2,
-      "title": "Iran, terza notte di raid Usa. Teheran attacca due petroliere. Trump: colpiremo sito nucleare",
-      "source_count": 8,
-      "article_count": 16,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "laverita.info",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/dietrofront-di-trump-su-hormuz-niente-pedaggio-del-20_4e0fe8e5-6a0e-4e18-9871-bcc7da3ed00b.html",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-hormuz-trump-ultime-news_6Z7vIWBC807DYK3mRW9MT8",
-        "https://www.liberoquotidiano.it/news/libero-video/48541935/iran-trump-nuovo-conflitto-veloce-ci-faremo-rimborsare-dai-paesi-golfo/",
-        "https://www.liberoquotidiano.it/news/libero-video/48540715/usa-nuova-notte-raid-americani-contro-iran/",
-        "https://www.ilgiornale.it/news/politica/trump-mette-mani-su-hormuz-e-torna-bombardare-liran-2693082.html"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Francia-Spagna, a che ora giocano e dove vederla (Rai o Dazn). Mbappé contro Yamal, le probabili formazioni della semifinale mondiale",
       "source_count": 6,
       "article_count": 14,
@@ -71,7 +47,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Incendio in un edificio al centro di Bruxelles, morti e dispersi",
       "source_count": 8,
       "article_count": 11,
@@ -94,7 +70,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Francia, l'arrivo di Mattarella alla parata militare del 14 luglio",
       "source_count": 4,
       "article_count": 14,
@@ -113,10 +89,32 @@
       ]
     },
     {
+      "rank": 5,
+      "title": "Medio Oriente; dietrofront di Trump su Hormuz, 'niente pedaggio del 20%'",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "laverita.info",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/dietrofront-di-trump-su-hormuz-niente-pedaggio-del-20_4e0fe8e5-6a0e-4e18-9871-bcc7da3ed00b.html",
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-hormuz-trump-ultime-news_6Z7vIWBC807DYK3mRW9MT8",
+        "https://www.ilgiornale.it/news/politica/trump-mette-mani-su-hormuz-e-torna-bombardare-liran-2693082.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48539769/trump-vogliamo-essere-rimborsati-per-lo-stretto-di-hormuz/",
+        "https://www.repubblica.it/esteri/2026/07/14/news/pedaggi_su_hormuz_cosi_trump_smentisce_rubio_vance-425469683/"
+      ]
+    },
+    {
       "rank": 6,
       "title": "Piantedosi: “Fermo preventivo esteso ai minorenni”",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ilgiornale.it",
@@ -135,26 +133,6 @@
     },
     {
       "rank": 7,
-      "title": "Macron riunisce i Volenterosi: “Pronti a versare il sangue” e lancia lo scudo antimissile",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "laverita.info",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/lalleanza-kiev-ue-sulla-difesa-aerea-putin-vinceremo-2693084.html",
-        "https://www.laverita.info/i-nodi-dellue/coalizione-antimissile-europa",
-        "https://www.liberoquotidiano.it/news/tv-news/48539254/macron-esercitazioni-forza-multinazionale-ucraina-in-paesi-confinanti/",
-        "https://www.liberoquotidiano.it/news/libero-video/48536723/volenterosi-riunione-coalizione-parigi-anche-zelensky/",
-        "https://www.repubblica.it/esteri/2026/07/14/diretta/guerra_ucraina_russia_news_oggi-425469112/"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "'Ndrangheta, operazione Dda a Reggio Calabria: 79 arresti",
       "source_count": 4,
       "article_count": 7,
@@ -173,7 +151,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Caldo, fine in arrivo: temperature giù di 8 gradi con l'aria fredda dal Nord Europa. Ecco quando e dove, la mappa",
       "source_count": 4,
       "article_count": 6,
@@ -192,7 +170,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "L. elettorale, Schlein: Oggi è venuta giù la maggioranza",
       "source_count": 3,
       "article_count": 7,
@@ -207,6 +185,25 @@
         "https://www.liberoquotidiano.it/news/tv-news/48549341/l-elettorale-conte-meloni-sfiduciata-apra-la-crisi-e-vada-a-casa/",
         "https://www.liberoquotidiano.it/news/tv-news/48549219/l-elettorale-magi-governo-sfiduciato-meloni-non-ha-piu-i-numeri/",
         "https://www.liberoquotidiano.it/news/tv-news/48548839/l-elettorale-schlein-un-voto-contro-l-arroganza-di-meloni-a-casa/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "A Gibilterra cade l'ultimo muro dell'Europa Occidentale",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/a-gibilterra-cade-lultimo-muro-delleuropa-occidentale_ecbf5524-e15e-4841-9b59-bb78dbd96996.html",
+        "https://www.ilmessaggero.it/schede/gibilterra_cade_frontiera_spagna_regno_unito_cosa_cambia_passaporti_dove_si_trova-9651010.html",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/14/firmata-ufficialmente-lintesa-ue-regno-unito-per-il-nuovo-status-di-gibilterra_babf6e6b-fc8f-4339-baa7-1b89d6524653.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48544242/post-brexit-nell-enclave-gibilterra-via-le-recinzioni-con-la-spagna/",
+        "https://www.repubblica.it/esteri/2026/07/14/news/gibilterra_gran_bretagna_spagna-425469080/"
       ]
     }
   ]
