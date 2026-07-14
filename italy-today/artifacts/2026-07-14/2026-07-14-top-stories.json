@@ -1,35 +1,36 @@
 {
   "date": "2026-07-14",
-  "generated_at": "Tue 14 Jul 12:22",
+  "generated_at": "Tue 14 Jul 15:01",
   "stories": [
     {
       "rank": 1,
       "title": "Legge elettorale, spiragli d’intesa. Resta l’incognita del voto segreto",
-      "source_count": 8,
-      "article_count": 16,
+      "source_count": 9,
+      "article_count": 20,
       "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "adnkronos.com",
+        "ilfattoquotidiano.it",
         "repubblica.it",
-        "lastampa.it",
+        "ilgiornale.it",
+        "ansa.it",
         "liberoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
         "ilmessaggero.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/politica-palazzo/live-post/2026/07/14/legge-elettorale-esame-camera-preferenze-voto-segreto-meloni-aggiornamenti-diretta/8448464/",
+        "https://www.repubblica.it/politica/2026/07/14/news/donne_parlamento_legge_elettorale_preferenze_destra-425470214/",
+        "https://www.ilgiornale.it/news/interni/legge-elettorale-maggioranza-compatta-sulle-preferenze-2693416.html",
         "https://www.ansa.it/sito/notizie/politica/2026/07/14/legge-elettorale-dopo-la-lega-anche-fi-dice-si-alla-preferenze.-il-pd-chiedera-il-voto_1e8abb4b-4a07-47a9-a11f-3a40f8365ae0.html",
-        "https://www.ilgiornale.it/news/politica/nodo-preferenze-prova-dellaula-e-meloni-teme-i-franchi-2693074.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/07/14/legge-elettorale-ok-della-lega-alle-preferenze-anche-fi-verso-il-si.-il-pd-chiedera_1e8abb4b-4a07-47a9-a11f-3a40f8365ae0.html",
-        "https://www.adnkronos.com/politica/legge-elettorale-riforma-opposizioni-centrosinistra-centrodestra-ultime-notizie_2gLspuUnXCkrYFDgsLUeMz",
-        "https://www.repubblica.it/politica/2026/07/14/news/legge_elettorale_centrodestra_forza_italia_opposizioni_emendamento_preferenze-425469791/"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48541521/legge-elettorale-schlein-irricevibile-con-le-altre-opposizioni-faremo-muro/"
       ]
     },
     {
       "rank": 2,
       "title": "Iran, terza notte di raid Usa. Teheran attacca due petroliere. Trump: colpiremo sito nucleare",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 10,
       "source_domains": [
         "liberoquotidiano.it",
         "laverita.info",
@@ -40,15 +41,34 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/48541935/iran-trump-nuovo-conflitto-veloce-ci-faremo-rimborsare-dai-paesi-golfo/",
+        "https://www.liberoquotidiano.it/news/libero-video/48540715/usa-nuova-notte-raid-americani-contro-iran/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48539774/trump-guerra-in-iran-procede-molto-rapidamente-stanotte-li-attaccheremo/",
         "https://www.laverita.info/mondo/iran-usa-hormuz",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/missili-iraniani-contro-due-petroliere-degli-emirati-a-hormuz-un-morto.-nuovi_94264549-7ed7-465e-b981-76b6feb3f553.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/14/guerra-in-iran-libano-israele-usa-news-oggi-14-luglio/8447996/",
-        "https://www.liberoquotidiano.it/news/tv-news/48538636/trump-stiamo-colpendo-l-iran-con-grande-intensita-/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/missili-iraniani-contro-due-petroliere-degli-emirati-a-hormuz-un-morto.-nuovi_94264549-7ed7-465e-b981-76b6feb3f553.html"
       ]
     },
     {
       "rank": 3,
+      "title": "La Francia applaude Zelensky. Anche Mattarella alla parata per il 14 luglio",
+      "source_count": 4,
+      "article_count": 11,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/48540825/francia_mattarella_a_parigi_per_la_parata_sugli_champs-e_lyse_es/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/07/14/mattarellaa-parigi-per-la-festa-del-14-luglio-lultima-con-macron-presidente_b2e7b896-cbf8-45ae-8af0-e42dafe768cb.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48540707/francia-arrivo-mattarella-parata-militare-14-luglio/",
+        "https://www.ilgiornale.it/news/politica/lultima-bastiglia-macron-sfilata-delle-forze-armate-e-laddio-2693085.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48540865/francia-applausi-per-i-soldati-ucraini-alla-parata-del-14-luglio/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Macron riunisce i Volenterosi: “Pronti a versare il sangue” e lancia lo scudo antimissile",
       "source_count": 6,
       "article_count": 8,
@@ -69,10 +89,53 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Francia-Spagna, a che ora giocano e dove vederla (Rai o Dazn). Mbappé contro Yamal, le probabili formazioni della semifinale mondiale",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/14/francia-spagna-il-meglio-del-calcio-europeo-in-una-semifinale-mondiale-scheda_d371d839-1e1b-43fe-8e7e-70805d6af9cc.html",
+        "https://www.ilfattoquotidiano.it/2026/07/14/mondiali-2026-tabellone-semifinali-oggi-grafica-orario-partite-tv/8431475/",
+        "https://www.ilmessaggero.it/sport/schede/francia_spagna_a_che_ora_dove_vederla_tv_streaming_rai_dazn_orario_semifinale_mondiali-9650450.html",
+        "https://www.ilmessaggero.it/sport/schede/francia_spagna_dove_vederla_chiaro_tv_streaming_rai_dazn_orario_semifinale_mondiali-9650450.html",
+        "https://www.ilfattoquotidiano.it/2026/07/14/francia-spagna-semifinale-mondiali-2026-oggi-analisi-probabili-formazioni-orario-dove-tv-streaming/8447553/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Incendio in un edificio al centro di Bruxelles, morti e dispersi",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/incendio-in-un-edificio-al-centro-di-bruxelles-morti-e-dispersi_9d3cecb2-4de1-4129-8e16-f55e6a887578.html",
+        "https://www.adnkronos.com/internazionale/esteri/belgio-incendio-edificio-bruxelles-morti-e-dispersi_20tfBbvgKu6T04WHmBnOuK",
+        "https://www.ilfattoquotidiano.it/2026/07/14/incendio-torre-oxy-bruxelles-notizie/8448347/",
+        "https://www.repubblica.it/esteri/2026/07/14/news/incendio_edificio_centro_bruxelles_morti_dispersi-425470153/",
+        "https://www.ilmessaggero.it/mondo/incendio_bruxelles_oggi_cosa_e_successo-9650792.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Tennis: Sinner sempre più n.1, ora riposo guardando agli Us Open",
       "source_count": 5,
-      "article_count": 9,
+      "article_count": 8,
       "source_domains": [
         "adnkronos.com",
         "ilgiornale.it",
@@ -89,65 +152,47 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Meloni: Strage di Capaci ha cambiato tutto, da allora nessuno ha potuto minimizzare mafia",
-      "source_count": 4,
-      "article_count": 9,
-      "source_domains": [
-        "laverita.info",
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "governo.it"
-      ],
-      "links": [
-        "https://www.laverita.info/video/meloni-auto-falcone-morvillo-video",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48536046/meloni-al-museo-di-falcone-e-borsellino-cita-tolkien-sono-le-piccole-mani-che-cambiano-il-mondo/",
-        "https://www.liberoquotidiano.it/news/pillole/48532050/stragi_di_mafia_meloni_chi_ha_tramato_nell_ombra_e_stato_sconfitto_/",
-        "https://www.liberoquotidiano.it/news/libero-video/48531626/falcone-meloni-abituata-parlare-pubblico-ma-oggi-difficile/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48533496/meloni-con-strage-di-capaci-cosa-nostra-fece-enorme-errore-da-quel-dolore-nacque-reazione-civile/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "La Francia applaude Zelensky. Anche Mattarella alla parata per il 14 luglio",
-      "source_count": 4,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/lultima-bastiglia-macron-sfilata-delle-forze-armate-e-laddio-2693085.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48540865/francia-applausi-per-i-soldati-ucraini-alla-parata-del-14-luglio/",
-        "https://www.liberoquotidiano.it/news/tv-news/48540856/14-luglio-la-patrouille-de-france-sorvola-gli-champs-e-lyse-e/",
-        "https://www.ilgiornale.it/news/cultura-e-societ/parigi-parata-militare-sugli-champs-elys-es-ospite-2693273.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/07/14/parigi-spettacolo-di-fuochi-dartificio-e-droni-per-il-14-luglio_2cdc5218-16d5-49de-9e87-753651843f83.html"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Francia-Spagna, a che ora giocano e dove vederla (Rai o Dazn). Mbappé contro Yamal, le probabili formazioni della semifinale mondiale",
+      "rank": 8,
+      "title": "Caldo, quando arriva il picco e dove: attesi 45 gradi in Sardegna. Domani sette città bollino rosso",
       "source_count": 5,
       "article_count": 6,
       "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
         "repubblica.it",
-        "lastampa.it"
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilmessaggero.it/sport/schede/francia_spagna_a_che_ora_dove_vederla_tv_streaming_rai_dazn_orario_semifinale_mondiali-9650450.html",
-        "https://www.ilmessaggero.it/sport/schede/francia_spagna_dove_vederla_chiaro_tv_streaming_rai_dazn_orario_semifinale_mondiali-9650450.html",
-        "https://www.ilfattoquotidiano.it/2026/07/14/francia-spagna-semifinale-mondiali-2026-oggi-analisi-probabili-formazioni-orario-dove-tv-streaming/8447553/",
-        "https://www.adnkronos.com/sport/mondiali-oggi-francia-spagna-probabili-formazioni-e-dove-vederla-in-tv_3ljwyE2OJymhrM7q3s3Bq3",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/14/news/mbappe_yamal_francia_spagna_semifinale-425469042/"
+        "https://www.repubblica.it/cronaca/2026/07/14/news/caldo_giovedi_citta_bollino_rosso_rider_sciopero_operai_over_70-425470010/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/14/caldo-giovedi-salgono-a-15-le-citta-col-bollino-rosso-domani-saranno-7_e078ff86-fdb2-467d-8f4b-30acb3fd0f4a.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/oggi-quattro-bollini-rossi-attesi-45-gradi-in-sardegna_e078ff86-fdb2-467d-8f4b-30acb3fd0f4a.html",
+        "https://www.ilmessaggero.it/schede/caldo_picco_dove_quando_previsioni-9650416.html",
+        "https://www.lastampa.it/cronaca/2026/07/14/news/caldo_record_bollino_rosso_45_gradi_sardegna_piemonte_emergenza-15689206/"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Usa, seconda vittima degli agenti Ice in meno di una settimana",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "ilmanifesto.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48542558/usa-due-morti-per-mano-dell-ice-in-pochi-giorni-fbi-indaga-nel-maine/",
+        "https://www.ilgiornale.it/news/politica/usa-seconda-vittima-degli-agenti-ice-meno-settimana-2693088.html",
+        "https://www.lastampa.it/esteri/2026/07/14/video/maine_ice_video_auto_speronata_26enne_ucciso_biddeford-15689213/",
+        "https://ilmanifesto.it/morire-di-ice-ucciso-in-maine-un-26enne-di-origini-colombiane",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/13/ice-ancora-nella-bufera-unaltra-persona-uccisa-dai-suoi-agenti_4ad1ad44-0e30-4626-b108-9adb4e37186c.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "'Ndrangheta, operazione Dda a Reggio Calabria: 79 arresti",
       "source_count": 4,
       "article_count": 7,
@@ -163,45 +208,6 @@
         "https://www.ilfattoquotidiano.it/2026/07/14/ndrangheta-arresti-reggio-calabria-cosche-notizie/8448022/",
         "https://www.adnkronos.com/cronaca/ndrangheta-blitz-arresti-meloni_2i7Wc3fzTpLJXy7CnXhsK",
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/ndrangheta-79-arresti-reggio-calabria-parte-dda-2693205.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Mondiali: l'Argentina con la maglia del 1986, Messi per la gloria finale",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/argentina-messi-inghilterra-arbitro-complotto-fifa-mondiali-2026_4xfXmiTA1m6SmSzF9Gu362",
-        "https://www.liberoquotidiano.it/news/tv-news/48538645/mondiali-l-argentina-di-messi-arriva-ad-atlanta-per-la-semifinale/",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/14/news/messi_maglia_argentina_inghilterra-15689094/",
-        "https://www.ilgiornale.it/news/calcio/messi-contro-kane-e-mbapp-contro-yamal-ne-resteranno-due-2693024.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/13/mondiali-largentina-con-la-maglia-del-1986-messi-per-la-gloria-finale_7a4698aa-dc7c-4658-b314-162119aa57aa.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Caldo, quando arriva il picco e dove: attesi 45 gradi in Sardegna. Domani sette città bollino rosso",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/14/caldo-giovedi-salgono-a-15-le-citta-col-bollino-rosso-domani-saranno-7_e078ff86-fdb2-467d-8f4b-30acb3fd0f4a.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/oggi-quattro-bollini-rossi-attesi-45-gradi-in-sardegna_e078ff86-fdb2-467d-8f4b-30acb3fd0f4a.html",
-        "https://www.ilmessaggero.it/schede/caldo_picco_dove_quando_previsioni-9650416.html",
-        "https://www.lastampa.it/cronaca/2026/07/14/news/caldo_record_bollino_rosso_45_gradi_sardegna_piemonte_emergenza-15689206/",
-        "https://www.ilsole24ore.com/art/la-settimana-caldo-record-picco-giovedi-45-gradi-sardegna-tutti-bollini-rossi-giorno-giorno-AJtGU7H"
       ]
     }
   ]
