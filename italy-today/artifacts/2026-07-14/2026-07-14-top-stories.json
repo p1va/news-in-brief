@@ -1,20 +1,19 @@
 {
   "date": "2026-07-14",
-  "generated_at": "Tue 14 Jul 16:25",
+  "generated_at": "Tue 14 Jul 18:13",
   "stories": [
     {
       "rank": 1,
-      "title": "Legge elettorale, spiragli d’intesa. Resta l’incognita del voto segreto",
-      "source_count": 9,
-      "article_count": 20,
+      "title": "Legge elettorale, dietrofront di FI e Lega: sì alle preferenze, ma la destra teme il voto segreto",
+      "source_count": 8,
+      "article_count": 18,
       "source_domains": [
         "ilfattoquotidiano.it",
         "repubblica.it",
         "ilgiornale.it",
         "ansa.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
         "lastampa.it",
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "ilsole24ore.com"
       ],
@@ -23,11 +22,53 @@
         "https://www.repubblica.it/politica/2026/07/14/news/donne_parlamento_legge_elettorale_preferenze_destra-425470214/",
         "https://www.ilgiornale.it/news/interni/legge-elettorale-maggioranza-compatta-sulle-preferenze-2693416.html",
         "https://www.ansa.it/sito/notizie/politica/2026/07/14/legge-elettorale-dopo-la-lega-anche-fi-dice-si-alla-preferenze.-il-pd-chiedera-il-voto_1e8abb4b-4a07-47a9-a11f-3a40f8365ae0.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48541521/legge-elettorale-schlein-irricevibile-con-le-altre-opposizioni-faremo-muro/"
+        "https://www.ilgiornale.it/news/politica/nodo-preferenze-prova-dellaula-e-meloni-teme-i-franchi-2693074.html"
       ]
     },
     {
       "rank": 2,
+      "title": "Francia, l'arrivo di Mattarella alla parata militare del 14 luglio",
+      "source_count": 4,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/videogallery/mondo/2026/07/14/il-14-luglio-di-nizza-divisa-tra-la-festa-della-bastiglia-e-i-10-anni-dalla-strage_c22b3141-efc3-4742-b052-2b164fb55ca3.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48546687/il-presidente-mattarella-alla-parata-per-la-festa-nazionale-francese/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48546415/il-tricolore-italiano-sfila-alla-parata-militare-a-parigi-per-la-festa-del-14-luglio/",
+        "https://www.liberoquotidiano.it/news/pillole/48540825/francia_mattarella_a_parigi_per_la_parata_sugli_champs-e_lyse_es/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/07/14/mattarellaa-parigi-per-la-festa-del-14-luglio-lultima-con-macron-presidente_b2e7b896-cbf8-45ae-8af0-e42dafe768cb.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Incendio in un edificio al centro di Bruxelles, morti e dispersi",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "lastampa.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-internazionale/bruxelles-incendio-palazzina-residenziale-almeno-4-morti-e-6-2693450.html",
+        "https://www.lastampa.it/esteri/2026/07/14/video/bruxelles_i_vigili_del_fuoco_aprono_lascensore_della_torre_oxy_purtroppo_erano_tutti_morti-15689668/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/incendio-in-un-edificio-al-centro-di-bruxelles-morti-e-dispersi_9d3cecb2-4de1-4129-8e16-f55e6a887578.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48546182/il-sindaco-di-bruxelles-sei-persone-mancano-all-appello-dopo-incendio/",
+        "https://www.adnkronos.com/internazionale/esteri/belgio-incendio-edificio-bruxelles-morti-e-dispersi_20tfBbvgKu6T04WHmBnOuK"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Iran, terza notte di raid Usa. Teheran attacca due petroliere. Trump: colpiremo sito nucleare",
       "source_count": 7,
       "article_count": 10,
@@ -49,33 +90,10 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Incendio in un edificio al centro di Bruxelles, morti e dispersi",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-internazionale/bruxelles-incendio-palazzina-residenziale-almeno-4-morti-e-6-2693450.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/incendio-in-un-edificio-al-centro-di-bruxelles-morti-e-dispersi_9d3cecb2-4de1-4129-8e16-f55e6a887578.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48546182/il-sindaco-di-bruxelles-sei-persone-mancano-all-appello-dopo-incendio/",
-        "https://www.adnkronos.com/internazionale/esteri/belgio-incendio-edificio-bruxelles-morti-e-dispersi_20tfBbvgKu6T04WHmBnOuK",
-        "https://www.ilfattoquotidiano.it/2026/07/14/incendio-torre-oxy-bruxelles-notizie/8448347/"
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "title": "Francia-Spagna, a che ora giocano e dove vederla (Rai o Dazn). Mbappé contro Yamal, le probabili formazioni della semifinale mondiale",
       "source_count": 6,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
         "ilmessaggero.it",
         "ansa.it",
@@ -93,29 +111,10 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "14 Luglio, Macron presiede per l'ultima volta alla parata militare",
-      "source_count": 4,
-      "article_count": 12,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48546415/il-tricolore-italiano-sfila-alla-parata-militare-a-parigi-per-la-festa-del-14-luglio/",
-        "https://www.liberoquotidiano.it/news/pillole/48540825/francia_mattarella_a_parigi_per_la_parata_sugli_champs-e_lyse_es/",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/07/14/mattarellaa-parigi-per-la-festa-del-14-luglio-lultima-con-macron-presidente_b2e7b896-cbf8-45ae-8af0-e42dafe768cb.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48540707/francia-arrivo-mattarella-parata-militare-14-luglio/",
-        "https://www.ilgiornale.it/news/politica/lultima-bastiglia-macron-sfilata-delle-forze-armate-e-laddio-2693085.html"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Macron riunisce i Volenterosi: “Pronti a versare il sangue” e lancia lo scudo antimissile",
+      "title": "L'alleanza Kiev-Ue sulla difesa aerea. Putin: \"Vinceremo\"",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ilgiornale.it",
         "laverita.info",
@@ -129,11 +128,32 @@
         "https://www.laverita.info/i-nodi-dellue/coalizione-antimissile-europa",
         "https://www.liberoquotidiano.it/news/tv-news/48539254/macron-esercitazioni-forza-multinazionale-ucraina-in-paesi-confinanti/",
         "https://www.liberoquotidiano.it/news/libero-video/48536723/volenterosi-riunione-coalizione-parigi-anche-zelensky/",
-        "https://www.repubblica.it/esteri/2026/07/14/news/macron_volenterosi_ucraina_scudo_anti_missile-425469073/"
+        "https://www.repubblica.it/esteri/2026/07/14/diretta/guerra_ucraina_russia_news_oggi-425469112/"
       ]
     },
     {
       "rank": 7,
+      "title": "Piantedosi: “Fermo preventivo esteso ai minorenni”",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/14/ddl-sicurezza-fermo-preventivo-minori-notizie/8448657/",
+        "https://www.ilgiornale.it/news/interni/cdm-libera-decreto-anti-maranza-fermo-preventivo-anche-i-2693503.html",
+        "https://www.repubblica.it/politica/2026/07/14/news/piantedosi_cdm_fermo_preventivo_minorenni-425470628/",
+        "https://www.adnkronos.com/politica/nuovo-decreto-sicurezza-cosa-prevede-baby-gan-movida_6DN3eXMNPMrqH00CkVv7pg",
+        "https://www.ilmessaggero.it/politica/maranza_sicurezza_fermo_preventivo_minorenni_piantedosi_cdm_cosa_cambia-9651037.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Sinner, allarme Zverev nel ranking? La lotta per il numero 1",
       "source_count": 5,
       "article_count": 8,
@@ -153,7 +173,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Caldo, quando arriva il picco e dove: attesi 45 gradi in Sardegna. Domani sette città bollino rosso",
       "source_count": 5,
       "article_count": 6,
@@ -173,7 +193,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "'Ndrangheta, operazione Dda a Reggio Calabria: 79 arresti",
       "source_count": 4,
       "article_count": 7,
@@ -189,25 +209,6 @@
         "https://www.ilfattoquotidiano.it/2026/07/14/ndrangheta-arresti-reggio-calabria-cosche-notizie/8448022/",
         "https://www.adnkronos.com/cronaca/ndrangheta-blitz-arresti-meloni_2i7Wc3fzTpLJXy7CnXhsK",
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/ndrangheta-79-arresti-reggio-calabria-parte-dda-2693205.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Caldo, fine in arrivo: temperature giù di 8 gradi con l'aria fredda dal Nord Europa. Ecco quando e dove, la mappa",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/schede/aria_fredda_in_arrivo_quando_e_dove_mappa_temporali-9650692.html",
-        "https://www.ilmessaggero.it/schede/caldo_fine_quando_aria_fredda_in_arrivo_dove_mappa-9650692.html",
-        "https://www.ilmessaggero.it/schede/caldo_fine_quando_e_dove_mappa-9650692.html",
-        "https://www.ilgiornale.it/news/ambiente/ondata-calore-anomala-picchi-45-c-poi-arriver-l-aria-artica-2693229.html",
-        "https://www.ansa.it/canale_scienza/notizie/terra_poli/2026/07/14/lanticiclone-africano-sullitalia-poi-il-rischio-di-piogge-intense-_700b44b9-cabd-4185-adb7-e1ec301e90f8.html"
       ]
     }
   ]
