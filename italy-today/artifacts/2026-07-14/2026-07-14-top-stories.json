@@ -1,31 +1,94 @@
 {
   "date": "2026-07-14",
-  "generated_at": "Tue 14 Jul 08:21",
+  "generated_at": "Tue 14 Jul 10:56",
   "stories": [
     {
       "rank": 1,
-      "title": "Iran, terza notte di raid Usa. Teheran attacca due petroliere. Trump: colpiremo sito nucleare",
-      "source_count": 7,
-      "article_count": 7,
+      "title": "Legge elettorale, spiragli d’intesa. Resta l’incognita del voto segreto",
+      "source_count": 8,
+      "article_count": 15,
       "source_domains": [
-        "laverita.info",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
         "ilgiornale.it",
+        "ansa.it",
+        "adnkronos.com",
         "repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.laverita.info/mondo/iran-usa-hormuz",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/missili-iraniani-contro-due-petroliere-degli-emirati-a-hormuz-un-morto.-nuovi_94264549-7ed7-465e-b981-76b6feb3f553.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/14/guerra-in-iran-libano-israele-usa-news-oggi-14-luglio/8447996/",
-        "https://www.liberoquotidiano.it/news/tv-news/48538636/trump-stiamo-colpendo-l-iran-con-grande-intensita-/",
-        "https://www.ilgiornale.it/news/guerra/terza-notte-raid-americani-iran-trump-continueremo-colpirli-2693172.html"
+        "https://www.ilgiornale.it/news/politica/nodo-preferenze-prova-dellaula-e-meloni-teme-i-franchi-2693074.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/07/14/legge-elettorale-ok-della-lega-alle-preferenze-anche-fi-verso-il-si.-il-pd-chiedera_1e8abb4b-4a07-47a9-a11f-3a40f8365ae0.html",
+        "https://www.adnkronos.com/politica/legge-elettorale-riforma-opposizioni-centrosinistra-centrodestra-ultime-notizie_2gLspuUnXCkrYFDgsLUeMz",
+        "https://www.repubblica.it/politica/2026/07/14/news/legge_elettorale_centrodestra_forza_italia_opposizioni_emendamento_preferenze-425469791/",
+        "https://www.lastampa.it/politica/2026/07/14/news/nuova_legge_elettorale_cosa_succede_preferenze-15689395/"
       ]
     },
     {
       "rank": 2,
+      "title": "Iran, terza notte di raid Usa. Teheran attacca due petroliere. Trump: colpiremo sito nucleare",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "repubblica.it",
+        "laverita.info",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/trump-mette-mani-su-hormuz-e-torna-bombardare-liran-2693082.html",
+        "https://www.repubblica.it/esteri/2026/07/14/news/pedaggi_su_hormuz_cosi_trump_smentisce_rubio_vance-425469683/",
+        "https://www.laverita.info/mondo/iran-usa-hormuz",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/missili-iraniani-contro-due-petroliere-degli-emirati-a-hormuz-un-morto.-nuovi_94264549-7ed7-465e-b981-76b6feb3f553.html",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/14/guerra-in-iran-libano-israele-usa-news-oggi-14-luglio/8447996/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Macron riunisce i Volenterosi: “Pronti a versare il sangue” e lancia lo scudo antimissile",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "laverita.info",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/lalleanza-kiev-ue-sulla-difesa-aerea-putin-vinceremo-2693084.html",
+        "https://www.laverita.info/i-nodi-dellue/coalizione-antimissile-europa",
+        "https://www.liberoquotidiano.it/news/tv-news/48539254/macron-esercitazioni-forza-multinazionale-ucraina-in-paesi-confinanti/",
+        "https://www.liberoquotidiano.it/news/libero-video/48536723/volenterosi-riunione-coalizione-parigi-anche-zelensky/",
+        "https://www.repubblica.it/esteri/2026/07/14/news/macron_volenterosi_ucraina_scudo_anti_missile-425469073/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Tennis: Sinner sempre più n.1, ora riposo guardando agli Us Open",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/sinner-zverev-ranking-numero-1-sorpasso_18afTEXrKlkdU1kfBhb8wq",
+        "https://www.ilgiornale.it/news/tennis/i-maxi-guadagni-sinner-quasi-100-milioni-patrimonio-caccia-2693354.html",
+        "https://www.adnkronos.com/sport/sinner-wimbledon-show-ubriaco-esame-patente_4YcuVTCeU8l9M6V3epCdUK",
+        "https://www.ilmessaggero.it/sport/schede/sinner_quando_gioca_dopo_wimbledon_ipotesi_montreal_obiettivo_us_open_calendario_di_jannik-9650511.html",
+        "https://www.ilmessaggero.it/sport/tennis/sinner_trofeo_wimbledon_restituito_perche-9650502.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Meloni: Strage di Capaci ha cambiato tutto, da allora nessuno ha potuto minimizzare mafia",
       "source_count": 4,
       "article_count": 9,
@@ -44,27 +107,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Ucraina, uno scudo Ue con Kiev contro i missili balistici: nasce la coalizione di 9 Paesi europei (tra cui l’Italia)",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/48536723/volenterosi-riunione-coalizione-parigi-anche-zelensky/",
-        "https://www.repubblica.it/esteri/2026/07/14/news/macron_volenterosi_ucraina_scudo_anti_missile-425469073/",
-        "https://www.ilmessaggero.it/mondo/ucraina_scudo_europa_contro_missili_balisitici_coalizione_paesi_italia-9649259.html",
-        "https://www.lastampa.it/esteri/2026/07/14/diretta/guerra_russia_ucraina_news_oggi-15689120/",
-        "https://www.ilgiornale.it/news/difesa/patto-kiev-e-9-paesi-ue-inclusa-litalia-difesa-contro-i-2692972.html"
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 6,
       "title": "Francia-Spagna, a che ora giocano e dove vederla (Rai o Dazn). Mbappé contro Yamal, le probabili formazioni della semifinale mondiale",
       "source_count": 5,
       "article_count": 5,
@@ -84,91 +127,56 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Legge elettorale: nessun accordo sulle preferenze, roulette dell'Aula per la maggioranza",
+      "rank": 7,
+      "title": "La Francia applaude Zelensky. Anche Mattarella alla parata per il 14 luglio",
       "source_count": 4,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/07/14/news/legge_elettorale_preferenze_centrodestra_emendamento-425468962/",
-        "https://www.repubblica.it/politica/2026/07/14/news/legge_elettorale_centrosinistra_preferenze_voto_segreto-425468971/",
-        "https://www.lastampa.it/politica/2026/07/14/news/legge_elettorale_meloni_riforma_elezioni_politiche-15689076/",
-        "https://www.ilmessaggero.it/politica/legge_elettorale_come_funziona_capolista_bloccato_preferenza_stabilicum-9649242.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/07/13/legge-elettorale-nessun-accordo-sulle-preferenze-roulette-dellaula-per-la-maggioranza_46649e4e-b67f-4975-a6f2-fe9cca798ff2.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Maxi operazione anti 'Ndrangheta: 79 arresti a Reggio Calabria",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
         "ilgiornale.it",
+        "ansa.it",
+        "repubblica.it",
         "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/14/ndrangheta-arresti-reggio-calabria-cosche-notizie/8448022/",
-        "https://www.adnkronos.com/cronaca/ndrangheta-blitz-arresti-meloni_2i7Wc3fzTpLJXy7CnXhsK",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/ndrangheta-79-arresti-reggio-calabria-parte-dda-2693205.html",
-        "https://www.liberoquotidiano.it/news/pillole/48536731/_ndrangheta_operazione_contro_vari_clan_misure_cautelari_per_79_indagati/",
-        "https://www.liberoquotidiano.it/news/tv-news/48538647/maxi-operazione-anti-ndrangheta-79-arresti-a-reggio-calabria/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Caldo, quando arriva il picco e dove: attesi 45 gradi in Sardegna. Domani sette città bollino rosso",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/oggi-quattro-bollini-rossi-attesi-45-gradi-in-sardegna_e078ff86-fdb2-467d-8f4b-30acb3fd0f4a.html",
-        "https://www.ilmessaggero.it/schede/caldo_picco_dove_quando_previsioni-9650416.html",
-        "https://www.lastampa.it/cronaca/2026/07/14/news/caldo_record_bollino_rosso_45_gradi_sardegna_piemonte_emergenza-15689206/",
-        "https://www.ilsole24ore.com/art/la-settimana-caldo-record-picco-giovedi-45-gradi-sardegna-tutti-bollini-rossi-giorno-giorno-AJtGU7H"
+        "https://www.ilgiornale.it/news/politica/lultima-bastiglia-macron-sfilata-delle-forze-armate-e-laddio-2693085.html",
+        "https://www.ilgiornale.it/news/cultura-e-societ/parigi-parata-militare-sugli-champs-elys-es-ospite-2693273.html",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/07/14/parigi-spettacolo-di-fuochi-dartificio-e-droni-per-il-14-luglio_2cdc5218-16d5-49de-9e87-753651843f83.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/14/in-francia-un-14-luglio-tra-difesa-europea-e-omaggio-alle-vittime-di-nizza_93104e39-d24c-440a-92fb-8740cb626fc0.html",
+        "https://www.repubblica.it/esteri/2026/07/14/news/14_luglio_champs_elysee_parata_macron_risveglio_europeo_tutti_i_simboli_numeri-425469634/"
       ]
     },
     {
       "rank": 8,
-      "title": "Medicina 2026/2027, firmato il decreto: tutte le novità su esami, graduatoria e semestre aperto",
+      "title": "'Ndrangheta, operazione Dda a Reggio Calabria: 79 arresti",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 6,
       "source_domains": [
-        "repubblica.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "ilmessaggero.it"
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilgiornale.it"
       ],
       "links": [
-        "https://www.repubblica.it/cronaca/2026/07/14/news/medicina_semestre_filtro_novita-425469421/",
-        "https://www.ilgiornale.it/news/attualit/medicina-iscrizioni-semestre-aperto-pi-lezioni-esami-2692999.html",
-        "https://www.lastampa.it/cronaca/2026/07/13/news/medicina_iscrizioni_semestre_aperto_decreto_bernini-15688672/",
-        "https://www.ilmessaggero.it/scuola/medicina_universita_iscrizioni_esami_semestre_graduatoria_cosa_cambia-9648674.html"
+        "https://www.liberoquotidiano.it/news/libero-video/48538929/ndrangheta-operazione-dda-reggio-calabria-79-arresti/",
+        "https://www.ilfattoquotidiano.it/2026/07/14/ndrangheta-arresti-reggio-calabria-cosche-notizie/8448022/",
+        "https://www.adnkronos.com/cronaca/ndrangheta-blitz-arresti-meloni_2i7Wc3fzTpLJXy7CnXhsK",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/ndrangheta-79-arresti-reggio-calabria-parte-dda-2693205.html",
+        "https://www.liberoquotidiano.it/news/pillole/48536731/_ndrangheta_operazione_contro_vari_clan_misure_cautelari_per_79_indagati/"
       ]
     },
     {
       "rank": 9,
-      "title": "Morire di Ice: ucciso in Maine un 26enne di origini colombiane",
+      "title": "Usa, seconda vittima degli agenti Ice in meno di una settimana",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
+        "ilgiornale.it",
         "lastampa.it",
         "ilmanifesto.it",
-        "ansa.it",
-        "ilgiornale.it"
+        "ansa.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/usa-seconda-vittima-degli-agenti-ice-meno-settimana-2693088.html",
         "https://www.lastampa.it/esteri/2026/07/14/video/maine_ice_video_auto_speronata_26enne_ucciso_biddeford-15689213/",
         "https://ilmanifesto.it/morire-di-ice-ucciso-in-maine-un-26enne-di-origini-colombiane",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/13/ice-ancora-nella-bufera-unaltra-persona-uccisa-dai-suoi-agenti_4ad1ad44-0e30-4626-b108-9adb4e37186c.html",
@@ -177,20 +185,21 @@
     },
     {
       "rank": 10,
-      "title": "Mondiali: l'Argentina con la maglia del 1986, Messi per la gloria finale",
+      "title": "Femminicidio Aurora Tila, confessa il fidanzato della 13enne: \"L’ho uccisa io gettandola dal balcone”",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
-        "liberoquotidiano.it",
-        "lastampa.it",
         "ilgiornale.it",
-        "ansa.it"
+        "ansa.it",
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48538645/mondiali-l-argentina-di-messi-arriva-ad-atlanta-per-la-semifinale/",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/14/news/messi_maglia_argentina_inghilterra-15689094/",
-        "https://www.ilgiornale.it/news/calcio/messi-contro-kane-e-mbapp-contro-yamal-ne-resteranno-due-2693024.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/13/mondiali-largentina-con-la-maglia-del-1986-messi-per-la-gloria-finale_7a4698aa-dc7c-4658-b314-162119aa57aa.html"
+        "https://www.ilgiornale.it/news/politica/lho-spinta-gi-io-crolla-2-anni-ragazzo-aurora-2693090.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/13/omicidio-di-aurora-lex-fidanzato-parla-in-appello-e-confessa_dc637162-3ec5-439a-864b-add2e5f2e74e.html",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-aurora-tila-confessa-17enne-gi-condannato-lho-2692918.html",
+        "https://www.lastampa.it/cronaca/2026/07/13/news/femminicidio_aurora_tila_confessa_fidanzato-15688680/",
+        "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WQmhMZHZpZlBBaHNJOWVzUUZNQ3VRQ25vd1d1ZEhLUnVHSkdSdVdydlFIU0FrNi1ob0lfYnVKOXJUU2Q2ZnlrQXFqdXJYNFV3WV9ZbTBURlItTUtQRDNBRERqcHYzakFGVTNYLXlpc25pZFdCUnQ2WlJ3?oc=5"
       ]
     }
   ]
