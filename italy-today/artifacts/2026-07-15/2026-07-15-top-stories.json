@@ -1,38 +1,60 @@
 {
   "date": "2026-07-15",
-  "generated_at": "Wed 15 Jul 15:01",
+  "generated_at": "Wed 15 Jul 16:43",
   "stories": [
     {
       "rank": 1,
-      "title": "Legge elettorale, Schlein: Meloni ha fallito, è il momento di tornare a casa",
-      "source_count": 7,
-      "article_count": 17,
+      "title": "L’ira di Meloni che non stoppa la riforma ma avvisa gli alleati: ora chiarire come proseguire",
+      "source_count": 8,
+      "article_count": 13,
       "source_domains": [
         "ilmessaggero.it",
-        "ansa.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "liberoquotidiano.it",
         "ilgiornale.it",
-        "news.google.com"
+        "ansa.it",
+        "laverita.info",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "ilsole24ore.com"
       ],
       "links": [
         "https://www.ilmessaggero.it/nl/la_chiave_politica/elezioni_anticipate_voto_bis_preferenze_legge_elettorale_cosa_succede_ora-9652648.html",
+        "https://www.ilgiornale.it/news/governo/furia-meloni-contro-alleati-non-tiro-campare-ora-chiarimento-2693653.html",
         "https://www.ansa.it/sito/notizie/politica/2026/07/14/legge-elettorale-la-maggioranza-battuta-alla-camera-sulle-preferenze_1e8abb4b-4a07-47a9-a11f-3a40f8365ae0.html",
-        "https://www.adnkronos.com/politica/legge-elettorale-preferenze-schlein_ruFN7qigG78BeVoxvROP8",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/07/15/prime-pagine-governo-sconfitto-alla-camera-i-franchi-tiratori-affossano-le-preferenze_c6de8065-ff9a-426b-b398-93b77d45b62e.html",
+        "https://www.laverita.info/governo/meloni-governo-legge-elettorale-voto",
         "https://www.lastampa.it/rubriche/l-oblo/2026/07/15/audio/linciampo_di_meloni_e_la_palude_in_casa-15690053/"
       ]
     },
     {
       "rank": 2,
+      "title": "Bocciate le preferenze: maggioranza sconfitta da un solo voto segreto",
+      "source_count": 6,
+      "article_count": 12,
+      "source_domains": [
+        "repubblica.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/politica/2026/07/15/news/legge_elettorale_preferenze_fdi_meloni-425472168/",
+        "https://www.adnkronos.com/politica/legge-elettorale-preferenze-camera-news-oggi_1BNHaWkc1SR2SFeS8ni7T4",
+        "https://www.ilfattoquotidiano.it/2026/07/15/legge-elettorale-vannacciani-voto-segreto-notizie/8449266/",
+        "https://www.ilfattoquotidiano.it/2026/07/15/legge-elettorale-la-diretta-dalla-camera-dopo-il-ko-del-centrodestra-la-diretta-tv/8449272/",
+        "https://www.ilgiornale.it/news/politica/governo-va-sotto-voto-blitz-stoppare-preferenze-2693591.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Via libera al decreto \"anti-maranza\": fermo preventivo anche per i minori",
       "source_count": 8,
       "article_count": 10,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "laverita.info",
-        "liberoquotidiano.it",
         "adnkronos.com",
         "ilmanifesto.it",
         "ansa.it",
@@ -40,61 +62,18 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/pillole/48559779/fermo_preventivo_minori_moratti_importantissimo_baby_gang_sempre_piu_violente_/",
         "https://www.ilgiornale.it/news/politica/arriva-pacchetto-anti-maranza-fermo-preventivo-i-minori-2693594.html",
         "https://www.laverita.info/giustizia/maranza-fermo-preventivo-polizia",
         "https://www.liberoquotidiano.it/news/tv-news/48556150/ddl-sicurezza-fermo-preventivo-ai-minori-e-norme-contro-mala-movida/",
-        "https://www.adnkronos.com/cronaca/decreto-sicurezza-2026-cosa-prevede-baby-gang-maranza_2Qy0RxXe5Fcnzie9HWimHw",
-        "https://ilmanifesto.it/il-governo-estende-il-fermo-preventivo-anche-ai-minori"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Bocciate le preferenze: maggioranza sconfitta da un solo voto segreto",
-      "source_count": 6,
-      "article_count": 11,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/politica/legge-elettorale-preferenze-camera-news-oggi_1BNHaWkc1SR2SFeS8ni7T4",
-        "https://www.ilfattoquotidiano.it/2026/07/15/legge-elettorale-vannacciani-voto-segreto-notizie/8449266/",
-        "https://www.ilfattoquotidiano.it/2026/07/15/legge-elettorale-la-diretta-dalla-camera-dopo-il-ko-del-centrodestra-la-diretta-tv/8449272/",
-        "https://www.ilfattoquotidiano.it/2026/07/15/legge-elettorale-preferenze-governo-bocciato-notizie/8449211/",
-        "https://www.ilgiornale.it/news/politica/governo-va-sotto-voto-blitz-stoppare-preferenze-2693591.html"
+        "https://www.adnkronos.com/cronaca/decreto-sicurezza-2026-cosa-prevede-baby-gang-maranza_2Qy0RxXe5Fcnzie9HWimHw"
       ]
     },
     {
       "rank": 4,
-      "title": "L'Italia a 40 gradi, oggi 7 città con il bollino rosso, domani salgono a 15",
-      "source_count": 7,
+      "title": "Saman Abbas, la Cassazione conferma l’ergastolo per i genitori e i cugini. E 22 anni per lo zio",
+      "source_count": 9,
       "article_count": 9,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/schede/meteo_caldo_citta_bollino_rosso_picco_poi_calo_termico-9652949.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/15/forti-temporali-al-nord-e-picchi-di-40-gradi-al-centro-sud_6b5c5879-aec9-4886-b5de-9f376ee8998e.html",
-        "https://www.ilgiornale.it/news/meteo-e-clima/litalia-tocca-i-45-gradi-sabbia-sahara-londata-pi-feroce-2693682.html",
-        "https://www.repubblica.it/cronaca/2026/07/15/diretta/caldo_bollino_rosso_allerta_grandine_italia_news_oggi-425471686/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/14/caldo-giovedi-salgono-a-15-le-citta-col-bollino-rosso-domani-saranno-7_e078ff86-fdb2-467d-8f4b-30acb3fd0f4a.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Omicidio Saman Abbas, sentenza definitiva: Cassazione conferma le condanne per i familiari",
-      "source_count": 8,
-      "article_count": 8,
       "source_domains": [
         "laverita.info",
         "ilfattoquotidiano.it",
@@ -102,6 +81,7 @@
         "ilmessaggero.it",
         "adnkronos.com",
         "ansa.it",
+        "bologna.repubblica.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
@@ -114,7 +94,74 @@
       ]
     },
     {
+      "rank": 5,
+      "title": "L'Italia a 40 gradi, oggi 7 città con il bollino rosso, domani salgono a 15",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/schede/allerta_temporale_estremo_dove_quando_grandine_vento_mappa_maltempo-9653013.html",
+        "https://www.ilmessaggero.it/schede/meteo_caldo_citta_bollino_rosso_picco_poi_calo_termico-9652949.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/15/forti-temporali-al-nord-e-picchi-di-40-gradi-al-centro-sud_6b5c5879-aec9-4886-b5de-9f376ee8998e.html",
+        "https://www.ilgiornale.it/news/meteo-e-clima/litalia-tocca-i-45-gradi-sabbia-sahara-londata-pi-feroce-2693682.html",
+        "https://www.repubblica.it/cronaca/2026/07/15/diretta/caldo_bollino_rosso_allerta_grandine_italia_news_oggi-425471686/"
+      ]
+    },
+    {
       "rank": 6,
+      "title": "Paolo Belli travolge un pedone con la sua bici: Alessandro Magnani muore a 41 anni. Il cantante sotto choc",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "bologna.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/paolo-belli-incidente-mortale-sotto-shock-cosa-e-successo_2ff3uJk8pYQAo7uJ58FfnI",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/15/travolto-dalla-bici-di-paolo-belli-muore-dopo-un-giorno-di-agonia_5efd60cc-5e28-43cb-bad6-db802f8ad345.html",
+        "https://www.ilgiornale.it/news/nazionale/paolo-belli-travolge-bici-pedone-41enne-morto-cantante-sotto-2693733.html",
+        "https://www.liberoquotidiano.it/news/spettacoli/48556101/paolo-belli-incidente-bicicletta-morto-uomo-cantante-sotto-choc/",
+        "https://www.ilfattoquotidiano.it/2026/07/15/paolo-belli-investe-con-la-bici-un-pedone-che-viene-soccorso-e-muore-in-ospedale-si-indaga-sulle-cause-il-cantante-e-in-stato-di-choc/8449034/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Il gioielliere Mario Roggero condannato dalla Cassazione per aver ucciso due rapinatori",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "torino.repubblica.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/15/condanna-definitiva-per-il-gioielliere-che-uccise-due-rapinatori-14-anni-e-9-mesi-vannacci-aveva-detto/8449762/",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/mario-roggero-condannato-definitiva-14-anni-lomicidio-due-2693979.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/15/uccise-due-banditi-condannato-in-via-definitiva-il-gioielliere-mario-roggero_7451dd1c-0381-4287-ad63-09fea9ade74c.html",
+        "https://www.ilmessaggero.it/italia/mario_roggero_gioielliere_condannato_omicidio_rapinatori-9653101.html",
+        "https://torino.repubblica.it/cronaca/2026/07/15/news/gioielliere_mario_roggero_condanna_cassazione_rapinatori_grinzane-425472690/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Inchiesta arbitri, pm Milano chiedono l'archiviazione per Rocchi",
       "source_count": 8,
       "article_count": 8,
@@ -137,86 +184,48 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "L’ira di Meloni che non stoppa la riforma ma avvisa gli alleati: ora chiarire come proseguire",
-      "source_count": 6,
-      "article_count": 9,
+      "rank": 9,
+      "title": "Santanchè, rischio nuovo processo. «Chiusa inchiesta su bancarotta e truffa aggravata allo Stato»",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
         "ilgiornale.it",
-        "laverita.info",
-        "repubblica.it",
-        "ilmanifesto.it",
+        "milano.repubblica.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/governo/furia-meloni-contro-alleati-non-tiro-campare-ora-chiarimento-2693653.html",
-        "https://www.laverita.info/governo/meloni-governo-legge-elettorale-voto",
-        "https://www.repubblica.it/politica/2026/07/15/news/meloni_palude_crisi_legge_elettorale-425471144/",
-        "https://ilmanifesto.it/ha-vinto-di-nuovo-la-palude-meloni-prova-a-resistere",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/07/15/news/la_prima_rivolta_interna-15689976/"
+        "https://www.adnkronos.com/cronaca/santanche-bancarotta-truffa-nuovo-processo_49ld3fzigWkuloRL0PFVZz",
+        "https://www.ilfattoquotidiano.it/2026/07/15/daniela-santanche-chiuse-le-indagini-per-bancarotta-falso-in-bilancio-e-truffa-allo-stato/8449677/",
+        "https://www.ilmessaggero.it/politica/santanche_nuova_inchiesta_bancarotta_truffa_cosa_e_successo-9653058.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/15/chiusa-unaltra-inchiesta-su-santanche-bancarotta-e-truffa-allo-stato_821ff256-fbf0-44ba-a29f-522c7dd32ea4.html",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/chiuse-indagini-su-daniela-santanch-nuovo-processo-vista-2693956.html"
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Sensazionale Spagna: domina 2-0 la Francia e va in finale",
-      "source_count": 6,
+      "source_count": 7,
       "article_count": 8,
       "source_domains": [
         "ansa.it",
-        "ilgiornale.it",
+        "ilfattoquotidiano.it",
         "laverita.info",
         "repubblica.it",
+        "ilgiornale.it",
         "ilmessaggero.it",
         "liberoquotidiano.it"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/14/francia-surclassata-la-spagna-va-in-finale-tra-gli-ole-_d371d839-1e1b-43fe-8e7e-70805d6af9cc.html",
-        "https://www.ilgiornale.it/news/calcio/rivoluzione-spagnola-2693667.html",
+        "https://www.ilfattoquotidiano.it/2026/07/15/spagna-francia-semifinale-mondiali-analisi-de-la-fuente-terzini/8448970/",
         "https://www.laverita.info/storie-di-sport/spagna-finale-mondiali",
         "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/15/news/spagna_ritratto_squadra_finale_mondiale_romagnoli-425471152/",
         "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/14/news/francia_spagna_gol-425471161/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Paolo Belli travolge un pedone con la sua bici: Alessandro Magnani muore a 41 anni. Il cantante sotto choc",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/15/travolto-dalla-bici-di-paolo-belli-muore-dopo-un-giorno-di-agonia_5efd60cc-5e28-43cb-bad6-db802f8ad345.html",
-        "https://www.ilgiornale.it/news/nazionale/paolo-belli-travolge-bici-pedone-41enne-morto-cantante-sotto-2693733.html",
-        "https://www.liberoquotidiano.it/news/spettacoli/48556101/paolo-belli-incidente-bicicletta-morto-uomo-cantante-sotto-choc/",
-        "https://www.ilfattoquotidiano.it/2026/07/15/paolo-belli-investe-con-la-bici-un-pedone-che-viene-soccorso-e-muore-in-ospedale-si-indaga-sulle-cause-il-cantante-e-in-stato-di-choc/8449034/",
-        "https://www.ilmessaggero.it/persone/paolo_belli_travolge_pedone_morto_cosa_e_successo-9652453.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Ponte Morandi, domani la prima sentenza. L'ad Autostrade: \"Chiediamo scusa, è esigenza morale\"",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/07/15/ponte-morandi-le-scuse-di-autostrade-le-azioni-e-le-scelte-di-alcuni-ferite-indelebili.-i-parenti_72539c3e-3d1a-4a00-9ce2-fb27618539fe.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/07/15/ponte-morandi-le-scuse-di-autostrade-ferite-indelebili-le-azioni-e-scelte-di-alcuni_72539c3e-3d1a-4a00-9ce2-fb27618539fe.html",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/ponte-morandi-scuse-autostrade-vigilia-sentenza-unesigenza-2693775.html",
-        "https://www.ilfattoquotidiano.it/2026/07/15/ponte-morandi-autostrade-chiede-scusa-dopo-8-anni-di-silenzio-e-alla-vigilia-della-sentenza-dovevamo-farlo-subito-esigenza-morale/8449037/",
-        "https://www.adnkronos.com/cronaca/ponte-morandi-autostrade-lettera-scuse-ad-giana_7dr0RBTjyd64ycGJZVfc9Q"
       ]
     }
   ]
