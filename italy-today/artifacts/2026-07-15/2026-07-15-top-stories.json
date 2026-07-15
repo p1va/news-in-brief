@@ -1,6 +1,6 @@
 {
   "date": "2026-07-15",
-  "generated_at": "Wed 15 Jul 12:24",
+  "generated_at": "Wed 15 Jul 15:01",
   "stories": [
     {
       "rank": 1,
@@ -49,28 +49,6 @@
     },
     {
       "rank": 3,
-      "title": "Sensazionale Spagna: domina 2-0 la Francia e va in finale",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "laverita.info",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/videogallery/2026/07/15/mondiali-re-felipe-e-famiglia-davanti-alla-tv-per-la-vittoria-della-spagna_9588ef17-5f52-4185-864b-bac9c3424678.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48555601/mondiali-2026-spagna-finale-re-felipe-vi-festeggia-vittoria/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/14/francia-surclassata-la-spagna-va-in-finale-tra-gli-ole-_d371d839-1e1b-43fe-8e7e-70805d6af9cc.html",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/15/video/spagna_francia_2_0_esultanza_reali_finale_mondiali-15690180/",
-        "https://www.ilgiornale.it/news/calcio/rivoluzione-spagnola-2693667.html"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Bocciate le preferenze: maggioranza sconfitta da un solo voto segreto",
       "source_count": 6,
       "article_count": 11,
@@ -91,29 +69,75 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "L'Italia a 40 gradi, oggi 7 città con il bollino rosso, domani salgono a 15",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "ilmessaggero.it",
         "ansa.it",
         "ilgiornale.it",
         "repubblica.it",
         "adnkronos.com",
-        "ilmessaggero.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilmessaggero.it/schede/meteo_caldo_citta_bollino_rosso_picco_poi_calo_termico-9652949.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/15/forti-temporali-al-nord-e-picchi-di-40-gradi-al-centro-sud_6b5c5879-aec9-4886-b5de-9f376ee8998e.html",
         "https://www.ilgiornale.it/news/meteo-e-clima/litalia-tocca-i-45-gradi-sabbia-sahara-londata-pi-feroce-2693682.html",
         "https://www.repubblica.it/cronaca/2026/07/15/diretta/caldo_bollino_rosso_allerta_grandine_italia_news_oggi-425471686/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/14/caldo-giovedi-salgono-a-15-le-citta-col-bollino-rosso-domani-saranno-7_e078ff86-fdb2-467d-8f4b-30acb3fd0f4a.html",
-        "https://www.adnkronos.com/cronaca/meteo-caldo-record-previsioni-oggi-15-luglio_7f5BPsBCPZqjpR2Bwiu3yZ"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/14/caldo-giovedi-salgono-a-15-le-citta-col-bollino-rosso-domani-saranno-7_e078ff86-fdb2-467d-8f4b-30acb3fd0f4a.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Omicidio Saman Abbas, sentenza definitiva: Cassazione conferma le condanne per i familiari",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.laverita.info/giustizia/omicidio-saman-giustizia-fatta",
+        "https://www.ilfattoquotidiano.it/2026/07/15/omicidio-saman-abbas-cassazione-condanne-notizie/8449109/",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-saman-abbas-definitive-condanne-ergastolo-genitori-2693692.html",
+        "https://www.ilmessaggero.it/italia/omicidio_saman_cassazione_ergastolo_genitori_confermato-9652524.html",
+        "https://www.adnkronos.com/cronaca/omicidio-saman-abbas-condanne-definitive-genitori-cugini_3TaX1TPmppOGIthkHx7E70"
       ]
     },
     {
       "rank": 6,
+      "title": "Inchiesta arbitri, pm Milano chiedono l'archiviazione per Rocchi",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "milano.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/sport/48558251/inchiesta-arbitri-tutto-archiviato-nessun-sistema-di-interferenze-/",
+        "https://www.ilfattoquotidiano.it/2026/07/15/inchiesta-arbitri-rocchi-archiviazione-indagata-inter/8449233/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/15/inchiesta-arbitri-pm-milano-chiedono-larchiviazione-per-rocchi_0c5fd738-7077-45a2-a8b6-2cb6ccc791ff.html",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/inchiesta-arbitri-i-pm-nessuna-combine-gianluca-rocchi-anche-2693823.html",
+        "https://www.ilmessaggero.it/sport/calcio/inchiesta_arbitri_rocchi_inter_ultime_notizie-9652662.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "L’ira di Meloni che non stoppa la riforma ma avvisa gli alleati: ora chiarire come proseguire",
       "source_count": 6,
       "article_count": 9,
@@ -134,47 +158,24 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Omicidio Saman Abbas, sentenza definitiva: Cassazione conferma le condanne per i familiari",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/15/omicidio-saman-abbas-cassazione-condanne-notizie/8449109/",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/omicidio-saman-abbas-definitive-condanne-ergastolo-genitori-2693692.html",
-        "https://www.ilmessaggero.it/italia/omicidio_saman_cassazione_ergastolo_genitori_confermato-9652524.html",
-        "https://www.adnkronos.com/cronaca/omicidio-saman-abbas-condanne-definitive-genitori-cugini_3TaX1TPmppOGIthkHx7E70",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/15/omicidio-saman-definitive-le-condanne-per-i-familiari-_b2a74743-83dd-4a62-b866-650208f4c9a1.html"
-      ]
-    },
-    {
       "rank": 8,
-      "title": "Inchiesta arbitri, pm Milano chiedono l'archiviazione per Rocchi",
-      "source_count": 7,
-      "article_count": 7,
+      "title": "Sensazionale Spagna: domina 2-0 la Francia e va in finale",
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
-        "ilfattoquotidiano.it",
         "ansa.it",
         "ilgiornale.it",
+        "laverita.info",
+        "repubblica.it",
         "ilmessaggero.it",
-        "adnkronos.com",
-        "milano.repubblica.it",
-        "lastampa.it"
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/15/inchiesta-arbitri-rocchi-archiviazione-indagata-inter/8449233/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/15/inchiesta-arbitri-pm-milano-chiedono-larchiviazione-per-rocchi_0c5fd738-7077-45a2-a8b6-2cb6ccc791ff.html",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/inchiesta-arbitri-i-pm-nessuna-combine-gianluca-rocchi-anche-2693823.html",
-        "https://www.ilmessaggero.it/sport/calcio/inchiesta_arbitri_rocchi_inter_ultime_notizie-9652662.html",
-        "https://www.adnkronos.com/sport/inchiesta-arbitri-procura-milano-indaga-inter-archivia-rocchi-cosa-cambia_2By3dqD8TinvTKKfgmZtGt"
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/14/francia-surclassata-la-spagna-va-in-finale-tra-gli-ole-_d371d839-1e1b-43fe-8e7e-70805d6af9cc.html",
+        "https://www.ilgiornale.it/news/calcio/rivoluzione-spagnola-2693667.html",
+        "https://www.laverita.info/storie-di-sport/spagna-finale-mondiali",
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/15/news/spagna_ritratto_squadra_finale_mondiale_romagnoli-425471152/",
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/14/news/francia_spagna_gol-425471161/"
       ]
     },
     {
@@ -208,14 +209,14 @@
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
-        "lastampa.it"
+        "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/economia/2026/07/15/ponte-morandi-le-scuse-di-autostrade-le-azioni-e-le-scelte-di-alcuni-ferite-indelebili.-i-parenti_72539c3e-3d1a-4a00-9ce2-fb27618539fe.html",
         "https://www.ansa.it/sito/notizie/economia/2026/07/15/ponte-morandi-le-scuse-di-autostrade-ferite-indelebili-le-azioni-e-scelte-di-alcuni_72539c3e-3d1a-4a00-9ce2-fb27618539fe.html",
         "https://www.ilgiornale.it/news/cronaca-giudiziaria/ponte-morandi-scuse-autostrade-vigilia-sentenza-unesigenza-2693775.html",
         "https://www.ilfattoquotidiano.it/2026/07/15/ponte-morandi-autostrade-chiede-scusa-dopo-8-anni-di-silenzio-e-alla-vigilia-della-sentenza-dovevamo-farlo-subito-esigenza-morale/8449037/",
-        "https://www.adnkronos.com/cronaca/ponte-morandi-autostrade-lettera-scuse-ad-giana_7dr0RBTjyd64ycGJZVfc9Q",
-        "https://www.lastampa.it/cronaca/2026/07/15/video/ponte_morandi_crollo_ricordo_tragedia-15690088/"
+        "https://www.adnkronos.com/cronaca/ponte-morandi-autostrade-lettera-scuse-ad-giana_7dr0RBTjyd64ycGJZVfc9Q"
       ]
     }
   ]
