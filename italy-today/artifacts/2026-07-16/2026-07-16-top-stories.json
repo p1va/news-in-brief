@@ -1,15 +1,16 @@
 {
   "date": "2026-07-16",
-  "generated_at": "Thu 16 Jul 20:09",
+  "generated_at": "Thu 16 Jul 22:11",
   "stories": [
     {
       "rank": 1,
       "title": "Legge elettorale, il voto in Aula alla Camera, poi gli applausi della maggioranza per il \"Sì\"",
-      "source_count": 10,
-      "article_count": 23,
+      "source_count": 11,
+      "article_count": 25,
       "source_domains": [
-        "ansa.it",
+        "ilmanifesto.it",
         "ilmessaggero.it",
+        "ansa.it",
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "lastampa.it",
@@ -20,11 +21,11 @@
         "news.google.com"
       ],
       "links": [
+        "https://ilmanifesto.it/la-legge-elettorale-passa-la-destra-e-divisa",
+        "https://www.ilmessaggero.it/politica/legge_elettorale_stabilicum_ultime_notizie-9655517.html",
         "https://www.ansa.it/sito/notizie/politica/2026/07/16/primo-via-libera-alla-legge-elettorale-con-217-si-ora-la-sfida_1c27b917-25db-4f07-9df4-f6d426445167.html",
         "https://www.ilmessaggero.it/politica/legge_elettorale_vannacci_meloni_cosa_cambia_centrodestra-9655069.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48575141/legge-elettorale-il-voto-in-aula-alla-camera-poi-gli-applausi-della-maggioranza-per-il-si-/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48574113/bagarre-in-aula-prima-del-voto-su-legge-elettorale-i-cartelli-delle-opposizioni-meloni-ha-fallito-/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48574105/legge-elettorale-donzelli-interviene-in-aula-alla-camera-le-proteste-dai-banchi-del-centrosinistra/"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48575141/legge-elettorale-il-voto-in-aula-alla-camera-poi-gli-applausi-della-maggioranza-per-il-si-/"
       ]
     },
     {
@@ -78,35 +79,13 @@
     },
     {
       "rank": 4,
-      "title": "Mondiali 2026, l'Argentina batte l'Inghilterra e vola in finale: Buenos Aires impazzisce di gioia",
-      "source_count": 8,
-      "article_count": 15,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/argentina-inghilterra-gol-di-lautaro-e-telecronista-impazzisce-video_5ieF6dzYUuU7dLYqmdnuJk",
-        "https://www.ansa.it/sito/videogallery/short_video/2026/07/16/largentina-in-finale-buenos-aires-fa-festa-fuochi-dartificio-e-tifosi-in-piazza_d8e77d9a-d853-471b-8dfb-71a1b1bb94bf.html",
-        "https://www.ilfattoquotidiano.it/2026/07/16/delirio-buenos-aires-marea-umana-festeggia-argentina-finale-mondiali-video/8450438/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/16/mondiali-largentina-ai-piedi-messi-capitano-coraggioso_bed298d7-b625-49c1-879b-089be16c56d9.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48569207/mondiali-2026-inghilterra-rimontata-argentina-dramma-tifosi-diretta/"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Mario Roggero, Mattarella riceve Nordio: «Grazia spetta solo al presidente della Repubblica»",
-      "source_count": 8,
-      "article_count": 11,
+      "source_count": 9,
+      "article_count": 13,
       "source_domains": [
-        "ansa.it",
+        "ilmanifesto.it",
         "ilmessaggero.it",
+        "ansa.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
         "ilgiornale.it",
@@ -115,11 +94,32 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://ilmanifesto.it/grazia-a-roggero-mattarella-striglia-nordio",
+        "https://www.ilmessaggero.it/politica/mattarella_stop_nordio_grazia_mario_roggero_perche_cosa_e_successo-9655551.html",
         "https://www.ansa.it/sito/notizie/politica/2026/07/16/mattarella-richiama-nordio-sulla-grazia-a-roggero_753e51ea-a49a-4ca5-a877-3ab783e233cb.html",
         "https://www.ilmessaggero.it/politica/mario_roggero_grazia_motivazioni_mattarella_nordio_cosa_e_successo_oggi-9655328.html",
-        "https://www.repubblica.it/politica/2026/07/16/news/mattarella_nordio_potere_grazia_presidente_repubblica_roggero-425475254/",
-        "https://www.ilfattoquotidiano.it/2026/07/16/caso-mario-roggero-mattarella-riceve-nordio-puntualizzati-limiti-attribuzioni-ministro-sulla-grazia/8451020/",
-        "https://www.ansa.it/sito/notizie/politica/2026/07/16/il-centrodestra-avvia-la-raccolta-di-firme-per-la-grazia-a-roggero_753e51ea-a49a-4ca5-a877-3ab783e233cb.html"
+        "https://www.repubblica.it/politica/2026/07/16/news/mattarella_nordio_potere_grazia_presidente_repubblica_roggero-425475254/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Mondiali 2026, l'Argentina batte l'Inghilterra e vola in finale: Buenos Aires impazzisce di gioia",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "ilmessaggero.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/calcio/argentina_inghilterra_trucchi_sporchi_semifinale_mondiale-9655316.html",
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/16/news/argentina_messi_malvinas_polemiche-425475231/",
+        "https://www.adnkronos.com/sport/argentina-inghilterra-gol-di-lautaro-e-telecronista-impazzisce-video_5ieF6dzYUuU7dLYqmdnuJk",
+        "https://www.adnkronos.com/sport/argentina-inghilterra-messi-bellingham-cosa-hanno-detto_5T6F5FoK4Kom0ZBbJecwGF",
+        "https://www.ansa.it/sito/videogallery/short_video/2026/07/16/largentina-in-finale-buenos-aires-fa-festa-fuochi-dartificio-e-tifosi-in-piazza_d8e77d9a-d853-471b-8dfb-71a1b1bb94bf.html"
       ]
     },
     {
@@ -128,24 +128,45 @@
       "source_count": 7,
       "article_count": 9,
       "source_domains": [
+        "ilgiornale.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
-        "ilgiornale.it",
         "lastampa.it",
         "laverita.info",
-        "ilmanifesto.it"
+        "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/nazionale/noi-stiamo-mario-roggero-petizione-chiedere-grazia-2694498.html",
         "https://www.ilfattoquotidiano.it/2026/07/16/caso-roggero-sicurezza-videosorveglianza-notizie/8450861/",
         "https://www.ilmessaggero.it/schede/mario_roggero_condanna_giusta_o_sbagliata_legittima_difesa_come_funziona-9655074.html",
         "https://www.ilfattoquotidiano.it/2026/07/16/caso-gioielliere-mario-roggero-condanna-legittima-difesa/8450378/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48574047/gioielliere-mario-roggero-dopo-condanna-e-finita-mi-hanno-dato-ergastolo-sarete-mia-voce/",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/uccise-i-ladri-gioielliere-carcere-2694263.html"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48574047/gioielliere-mario-roggero-dopo-condanna-e-finita-mi-hanno-dato-ergastolo-sarete-mia-voce/"
       ]
     },
     {
       "rank": 7,
+      "title": "Iran, raid Usa sull'isola Grande Tunb: colpiti siti missilistici e difensivi",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/16/liran-alza-il-tiro-e-minaccia-la-chiusura-del-mar-rosso_2d45bbaf-a4d6-4316-b106-e90e7dd18d38.html",
+        "https://www.lastampa.it/esteri/2026/07/17/diretta/guerra_iran_usa_israele_news_oggi-15691956/",
+        "https://www.liberoquotidiano.it/news/tv-news/48575156/dal-bahrein-alla-giordania-ripresi-gli-attacchi-incrociati-usa-iran/",
+        "https://www.ilgiornale.it/news/politica/hormuz-sesta-notte-raid-e-liran-seppellisce-trump-2694145.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/16/esplosioni-a-teheran-attivato-il-sistema-di-difesa-aerea-_fde73e49-27a5-45fa-b84e-33f2430ed61b.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Invalsi 2026, 4 bambini su 10 hanno difficoltà in matematica alle elementari",
       "source_count": 6,
       "article_count": 8,
@@ -166,47 +187,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Caldo estremo sull'Italia, oggi 15 città da bollino rosso. Ma al Nord è allerta temporali",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/16/sabato-il-picco-del-caldo-aumentati-i-decessi-tra-gli-anziani_0c17b621-0f0b-451d-944d-ff82e3de9dfd.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/16/sabato-salgono-a-19-le-citta-col-bollino-rosso-per-il-caldo_0c17b621-0f0b-451d-944d-ff82e3de9dfd.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/15/caldo-venerdi-apice-di-calore-e-nuova-cabina-di-regia-al-ministero-della-salute_0c17b621-0f0b-451d-944d-ff82e3de9dfd.html",
-        "https://www.lastampa.it/cronaca/2026/07/16/news/allerta_caldo_arrivo_picco_mappa-15690983/",
-        "https://www.adnkronos.com/cronaca/caldo-estremo-italia-quanto-dura-quando-finisce_5t2J5rOplZQN5yOQ9649cu"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Medio Oriente: esplosioni a Teheran, attivato il sistema di difesa aerea - LIVEBLOG",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48575156/dal-bahrein-alla-giordania-ripresi-gli-attacchi-incrociati-usa-iran/",
-        "https://www.ilgiornale.it/news/politica/hormuz-sesta-notte-raid-e-liran-seppellisce-trump-2694145.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/16/esplosioni-a-teheran-attivato-il-sistema-di-difesa-aerea-_fde73e49-27a5-45fa-b84e-33f2430ed61b.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/16/notizie-iran-usa-guerra-aggiornamenti-news/8450165/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48572250/trump-lanciati-111-missili-contro-la-portaerei-lincoln-tutti-abbattuti-facilmente-in-mare/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Perché Messi faceva il bagnetto a Yamal? La vera storia e il retroscena del fotografo: «Ecco cosa è successo quel giorno»",
       "source_count": 5,
       "article_count": 7,
@@ -223,6 +204,26 @@
         "https://www.ilmessaggero.it/sport/schede/spagna_argentina_finale_mondiali_dove_vederla_probabili_formazioni_orario_new_york_messi_yamal_rai_dazn-9654811.html",
         "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/16/news/messi_yamal_foto_bagnetto_finale_argentina_spagna-15691107/",
         "https://www.ilmessaggero.it/sport/calcio/messi_yamal_foto_bagno_spagna_argentina_finale_mondiali-9653466.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Alessandro Medici, morto il concorrente di Temptation Island. La dedica della ex Sofia Calesso",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/spettacoli/48579399/temptation_island_e_morto_alessandro_medici_stroncato_da_un_infarto_/",
+        "https://www.ilgiornale.it/news/personaggi/temptation-island-morto-53-anni-alessandro-medici-l-ultimo-2694505.html",
+        "https://www.ilmessaggero.it/persone/alessandro_medici_morto_temptation_island_sofia_calesso_malore_ultime_notizie-9655194.html",
+        "https://www.liberoquotidiano.it/news/spettacoli/televisione/48577192/temptation-island-tragedia-morto-alessandro-medici-annuncio-sofia-calesso/",
+        "https://www.ilfattoquotidiano.it/2026/07/16/e-morto-a-53-anni-alessandro-medici-di-temptation-island-stroncato-da-un-malore-improvviso/8450762/"
       ]
     }
   ]
