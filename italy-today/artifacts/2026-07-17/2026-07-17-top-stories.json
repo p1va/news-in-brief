@@ -1,15 +1,15 @@
 {
   "date": "2026-07-17",
-  "generated_at": "Fri 17 Jul 14:51",
+  "generated_at": "Fri 17 Jul 16:23",
   "stories": [
     {
       "rank": 1,
       "title": "Trump attacca la Cina: “Ha rubato i dati elettorali degli americani. Il nostro sistema di voto è compromesso”",
       "source_count": 9,
-      "article_count": 15,
+      "article_count": 16,
       "source_domains": [
-        "ilgiornale.it",
         "liberoquotidiano.it",
+        "ilgiornale.it",
         "laverita.info",
         "adnkronos.com",
         "ansa.it",
@@ -19,15 +19,40 @@
         "repubblica.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48590410/trump-cina-ha-acquistato-rubato-o-hackerato-milioni-di-dati-di-elettori-in-18-stati/",
         "https://www.ilgiornale.it/news/politica/trump-agita-voto-attacco-cia-e-cina-2694624.html",
         "https://www.liberoquotidiano.it/news/libero-video/48586820/trump-accusa-cina-maxi-violazione-dati-elettorali-usa/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48587471/trump-su-elezioni-2020-la-cina-voleva-far-vincere-biden-ho-le-prove/",
-        "https://www.laverita.info/video/trump-cina-elezioni-usa",
-        "https://www.adnkronos.com/internazionale/esteri/trump-discorso-brogli-elezioni-usa-accuse-cina-documenti-top-secret_xKMu3zbGtSmGNWeIt9Epk"
+        "https://www.laverita.info/video/trump-cina-elezioni-usa"
       ]
     },
     {
       "rank": 2,
+      "title": "Burnham proclamato leader del Labour, da lunedì nuovo premier britannico",
+      "source_count": 10,
+      "article_count": 12,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "laverita.info",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica-estera/regno-unito-volta-pagina-andy-burnham-sostituisce-starmer-e-2695008.html",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/17/burnham-proclamato-leader-del-labour-da-lunedi-nuovo-premier-britannico_d97f7aaf-d7ba-471c-ac3e-92002093a87b.html",
+        "https://www.laverita.info/mondo/burnham-leader-labour",
+        "https://www.adnkronos.com/internazionale/esteri/burnham-leader-laburista-primo-ministro-gran-bretagna-cosa-succede_6x1AS8wrKjE3oHKm8HcwiC",
+        "https://www.ilmessaggero.it/mondo/andy_burnham_nuovo_premier_gb_chi_e-9656951.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Osvaldo Bagnoli è morto, addio all’allenatore dello storico scudetto del Verona",
       "source_count": 9,
       "article_count": 11,
@@ -51,49 +76,27 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Mattarella richiama Nordio sulla grazia a Roggero",
-      "source_count": 8,
+      "source_count": 9,
       "article_count": 10,
       "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "napoli.repubblica.it",
         "ansa.it",
         "laverita.info",
         "ilmanifesto.it",
-        "lastampa.it",
         "ilmessaggero.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.adnkronos.com/cronaca/caso-roggero-grazia-precedenti-polemiche_3fzfvXjp7yU0txcwVoJ6N7",
+        "https://www.liberoquotidiano.it/news/libero-video/48590150/caso-roggero-tajani-giusto-chiedere-grazia-non-un-pericoloso-criminale/",
         "https://www.ilgiornale.it/news/politica/governo-vuole-grazia-mattarella-decido-io-2694600.html",
         "https://napoli.repubblica.it/cronaca/2026/07/17/news/mario_roggero_de_chiara_anm_mattarella_grazia_prerogativa_quirinale-425476374/",
-        "https://www.ansa.it/sito/notizie/politica/2026/07/16/mattarella-richiama-nordio-sulla-grazia-a-roggero_753e51ea-a49a-4ca5-a877-3ab783e233cb.html",
-        "https://www.laverita.info/giustizia-al-contrario/grazia-mario-roggero",
-        "https://www.repubblica.it/politica/2026/07/17/news/nordio_grazia_roggero_stop_mattarella_meloni-425475767/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Burnham proclamato leader del Labour, da lunedì nuovo premier britannico",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "laverita.info",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/17/burnham-proclamato-leader-del-labour-da-lunedi-nuovo-premier-britannico_d97f7aaf-d7ba-471c-ac3e-92002093a87b.html",
-        "https://www.laverita.info/mondo/burnham-leader-labour",
-        "https://www.adnkronos.com/internazionale/esteri/burnham-leader-laburista-primo-ministro-gran-bretagna-cosa-succede_6x1AS8wrKjE3oHKm8HcwiC",
-        "https://www.ilmessaggero.it/mondo/andy_burnham_nuovo_premier_gb_chi_e-9656951.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48590442/gb-andy-burnham-confermato-nuovo-leader-labour-pronto-a-guidare-/"
+        "https://www.ansa.it/sito/notizie/politica/2026/07/16/mattarella-richiama-nordio-sulla-grazia-a-roggero_753e51ea-a49a-4ca5-a877-3ab783e233cb.html"
       ]
     },
     {
@@ -184,27 +187,6 @@
     },
     {
       "rank": 9,
-      "title": "Roggero verso il carcere di Bollate per costituirsi, la moglie presenta la domanda di grazia",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "ilgiornale.it",
-        "torino.repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/caso-roggero-domanda-di-grazia-ultime-notizie_3vgj6VaMRZsfgUDUvn7VJM",
-        "https://www.ilgiornale.it/news/interni/emesso-lordine-carcerazione-roggero-gioielliere-verso-2694926.html",
-        "https://torino.repubblica.it/cronaca/2026/07/17/news/ordine_carcerazione_mario_roggero_gioielliere-425476730/",
-        "https://www.ilfattoquotidiano.it/2026/07/17/gioielliere-grinzane-cavour-roggero-carcere-notizie/8451504/",
-        "https://www.lastampa.it/cuneo/2026/07/17/news/mario_roggero_ordine_carcerazione-15692440/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Caldo, più vittime tra gli over 65: il picco delle temperature domani",
       "source_count": 4,
       "article_count": 8,
@@ -220,6 +202,27 @@
         "https://www.repubblica.it/cronaca/2026/07/17/diretta/caldo_estremo_italia_news_diretta_oggi-425476037/",
         "https://www.adnkronos.com/cronaca/caldo-record-quand-finisce-previsioni-oggi-domani-svolta-meteo_2BfHCYfjZOXaKmpmShko7P",
         "https://www.adnkronos.com/cronaca/emergenza-caldo-eccesso-mortalita-anziani-giugno-mese-piu-caldo_4EQ4OQP2GxRICZFcW6CxFj"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Guerra in Iran, le news di oggi in diretta. “Raid a sorpresa su base americana in Siria”. Gli Usa attaccano i ponti, 7 morti",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48592375/iran-latv-di-stato-diffonde-immagini-dei-ponti-danneggiati-dagli-usa/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/17/nuovi-attacchi-usa-alliran-teheran-annuncia-colpita-una-base-americana_d19ac5c7-5352-4099-9a40-1f5572d9145a.html",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/17/raid-usa-iran-sesta-notte-aggiornamneit-notizie-oggi-diretta/8451356/",
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-news-oggi-17-luglio-2026_2pwDwxS2BH81jQoYigHKjX",
+        "https://www.repubblica.it/esteri/2026/07/17/diretta/guerra_iran_usa_israele_news_oggi-425475836/"
       ]
     }
   ]
