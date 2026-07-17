@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "generated_at": "Fri 17 Jul 19:26",
+  "generated_at": "Fri 17 Jul 20:13",
   "stories": [
     {
       "rank": 1,
@@ -79,24 +79,23 @@
     {
       "rank": 4,
       "title": "Mattarella richiama Nordio sulla grazia a Roggero",
-      "source_count": 8,
+      "source_count": 7,
       "article_count": 9,
       "source_domains": [
-        "adnkronos.com",
-        "liberoquotidiano.it",
         "ilgiornale.it",
         "napoli.repubblica.it",
         "ansa.it",
         "laverita.info",
         "ilmanifesto.it",
+        "lastampa.it",
         "ilmessaggero.it"
       ],
       "links": [
-        "https://www.adnkronos.com/cronaca/caso-roggero-grazia-precedenti-polemiche_3fzfvXjp7yU0txcwVoJ6N7",
-        "https://www.liberoquotidiano.it/news/libero-video/48590150/caso-roggero-tajani-giusto-chiedere-grazia-non-un-pericoloso-criminale/",
         "https://www.ilgiornale.it/news/politica/governo-vuole-grazia-mattarella-decido-io-2694600.html",
         "https://napoli.repubblica.it/cronaca/2026/07/17/news/mario_roggero_de_chiara_anm_mattarella_grazia_prerogativa_quirinale-425476374/",
-        "https://www.ansa.it/sito/notizie/politica/2026/07/16/mattarella-richiama-nordio-sulla-grazia-a-roggero_753e51ea-a49a-4ca5-a877-3ab783e233cb.html"
+        "https://www.ansa.it/sito/notizie/politica/2026/07/16/mattarella-richiama-nordio-sulla-grazia-a-roggero_753e51ea-a49a-4ca5-a877-3ab783e233cb.html",
+        "https://www.laverita.info/giustizia-al-contrario/grazia-mario-roggero",
+        "https://www.repubblica.it/politica/2026/07/17/news/nordio_grazia_roggero_stop_mattarella_meloni-425475767/"
       ]
     },
     {
@@ -123,28 +122,6 @@
     },
     {
       "rank": 6,
-      "title": "Guerra in Iran, le news di oggi in diretta. “Raid a sorpresa su base americana in Siria”. Gli Usa attaccano i ponti, 7 morti",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/guerra/usa-e-iran-escalation-senza-freni-raid-sulle-infrastrutture-2695056.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/17/medio-oriente-raid-usa-su-ponti-e-ferrovie-a-teheran-emergenza-elettricita_eda83300-68b8-4526-a30f-8938c4743317.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48592375/iran-latv-di-stato-diffonde-immagini-dei-ponti-danneggiati-dagli-usa/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/17/nuovi-attacchi-usa-alliran-teheran-annuncia-colpita-una-base-americana_d19ac5c7-5352-4099-9a40-1f5572d9145a.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/17/raid-usa-iran-sesta-notte-aggiornamneit-notizie-oggi-diretta/8451356/"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "È morta Valentina Baldini, figlia del ct Silvio. Aveva 30 anni",
       "source_count": 7,
       "article_count": 8,
@@ -166,7 +143,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Mario Roggero verso il carcere: firmato l’ordine di esecuzione della pena. Avrà tempo fino alle 16. La moglie presenta domanda di grazia",
       "source_count": 6,
       "article_count": 9,
@@ -187,7 +164,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Morta la bambina di 11 anni risucchiata da un bocchettone di una piscina a Sestri Levante",
       "source_count": 7,
       "article_count": 7,
@@ -209,7 +186,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Cancellati i debiti di gioco di Massimo Ceccherini, un amico dona 300mila euro",
       "source_count": 7,
       "article_count": 7,
@@ -228,6 +205,27 @@
         "https://www.liberoquotidiano.it/news/spettacoli/48594101/ceccherini-cancellato-debito-1-3-milioni-chi-tirato-fuori-soldi/",
         "https://www.adnkronos.com/spettacoli/massimo-ceccherini-debiti-milionari-gioco-azzardo-amico-paga_7JbTMefxgL8ICl6lzHQm2N",
         "https://firenze.repubblica.it/cronaca/2026/07/17/news/massimo_ceccherini_debito_gioco_trecentomila_euro_amico_garrone_saldo_fisco-425477299/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Guerra in Iran, le news di oggi in diretta. “Raid a sorpresa su base americana in Siria”. Gli Usa attaccano i ponti, 7 morti",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/guerra/usa-e-iran-escalation-senza-freni-raid-sulle-infrastrutture-2695056.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/17/medio-oriente-raid-usa-su-ponti-e-ferrovie-a-teheran-emergenza-elettricita_eda83300-68b8-4526-a30f-8938c4743317.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48592375/iran-latv-di-stato-diffonde-immagini-dei-ponti-danneggiati-dagli-usa/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/17/nuovi-attacchi-usa-alliran-teheran-annuncia-colpita-una-base-americana_d19ac5c7-5352-4099-9a40-1f5572d9145a.html",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/17/raid-usa-iran-sesta-notte-aggiornamneit-notizie-oggi-diretta/8451356/"
       ]
     }
   ]
