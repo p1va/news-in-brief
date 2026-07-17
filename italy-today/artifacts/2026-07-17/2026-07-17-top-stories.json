@@ -1,12 +1,12 @@
 {
   "date": "2026-07-17",
-  "generated_at": "Fri 17 Jul 12:18",
+  "generated_at": "Fri 17 Jul 14:51",
   "stories": [
     {
       "rank": 1,
       "title": "Trump attacca la Cina: “Ha rubato i dati elettorali degli americani. Il nostro sistema di voto è compromesso”",
       "source_count": 9,
-      "article_count": 14,
+      "article_count": 15,
       "source_domains": [
         "ilgiornale.it",
         "liberoquotidiano.it",
@@ -20,14 +20,38 @@
       ],
       "links": [
         "https://www.ilgiornale.it/news/politica/trump-agita-voto-attacco-cia-e-cina-2694624.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48586820/trump-accusa-cina-maxi-violazione-dati-elettorali-usa/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48587471/trump-su-elezioni-2020-la-cina-voleva-far-vincere-biden-ho-le-prove/",
         "https://www.laverita.info/video/trump-cina-elezioni-usa",
-        "https://www.adnkronos.com/internazionale/esteri/trump-discorso-brogli-elezioni-usa-accuse-cina-documenti-top-secret_xKMu3zbGtSmGNWeIt9Epk",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/17/trump-sistema-elettorale-a-rischio-brogli-cina-ha-rubato-dati_c893e98a-4c62-4a2d-99f4-12f80ff72ee8.html"
+        "https://www.adnkronos.com/internazionale/esteri/trump-discorso-brogli-elezioni-usa-accuse-cina-documenti-top-secret_xKMu3zbGtSmGNWeIt9Epk"
       ]
     },
     {
       "rank": 2,
+      "title": "Osvaldo Bagnoli è morto, addio all’allenatore dello storico scudetto del Verona",
+      "source_count": 9,
+      "article_count": 11,
+      "source_domains": [
+        "laverita.info",
+        "repubblica.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.laverita.info/storie-di-sport/osvaldo-bagnoli-morto-verona",
+        "https://www.repubblica.it/sport/calcio/2026/07/17/news/bagnoli_intervista_scudetto_verona-425476820/",
+        "https://www.repubblica.it/sport/calcio/2026/07/17/news/chi_e_osvaldo_bagnoli_morto_allenatore_verona-425476746/",
+        "https://www.ansa.it/sito/notizie/sport/2026/07/17/e-morto-osvaldo-bagnoli-allenatore-dello-scudetto-verona-nell85_2ad925ea-596d-475c-b8d3-677f7ad36057.html",
+        "https://www.ilgiornale.it/news/attualit/addio-osvaldo-bagnoli-91-anni-muore-l-allenatore-dello-2694888.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Mattarella richiama Nordio sulla grazia a Roggero",
       "source_count": 8,
       "article_count": 10,
@@ -50,90 +74,70 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Osvaldo Bagnoli è morto, addio all’allenatore dello storico scudetto del Verona",
+      "rank": 4,
+      "title": "Burnham proclamato leader del Labour, da lunedì nuovo premier britannico",
       "source_count": 8,
       "article_count": 10,
       "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/calcio/2026/07/17/news/bagnoli_intervista_scudetto_verona-425476820/",
-        "https://www.repubblica.it/sport/calcio/2026/07/17/news/chi_e_osvaldo_bagnoli_morto_allenatore_verona-425476746/",
-        "https://www.ansa.it/sito/notizie/sport/2026/07/17/e-morto-osvaldo-bagnoli-allenatore-dello-scudetto-verona-nell85_2ad925ea-596d-475c-b8d3-677f7ad36057.html",
-        "https://www.ilgiornale.it/news/attualit/addio-osvaldo-bagnoli-91-anni-muore-l-allenatore-dello-2694888.html",
-        "https://www.adnkronos.com/sport/bagnoli-muore-a-91-anni-era-lallenatore-del-verona-campione-ditalia_2RCgsdFUDobcOJ3S5ewnWG"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Ragazzo di 15 anni muore folgorato al luna park di Spotorno mentre gioca con un punching ball, l'ipotesi del corto circuito. Sequestrato il parco giochi",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "genova.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/italia/48585328/spotorno-15enne-muore-folgorato-luna-park-impianto-sequestro/",
-        "https://www.ilfattoquotidiano.it/2026/07/17/ragazzo-folgorato-luna-park-spotorno-notizie/8451387/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/17/ragazzo-di-15-anni-folgorato-al-luna-park-nel-savonese_ddaad1b3-df6f-43ae-ac30-65a717a34fc8.html",
-        "https://www.adnkronos.com/cronaca/saronno-morto-15enne-folgorato-luna-park-cosa-e-successo_4HGhMoWvo6E2XLOaPYF1Qm",
-        "https://www.ilmessaggero.it/italia/morto_folgorato_luna_park_spotorno_chi_e-9656724.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Ponte Morandi: Castellucci condannato a 12 anni",
-      "source_count": 5,
-      "article_count": 9,
-      "source_domains": [
-        "ilgiornale.it",
         "ansa.it",
         "laverita.info",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/morandi-12-anni-castellucci-stangati-ex-vertici-autostrade-2694604.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/16/ponte-morandi-castellucci-condannato-a-12-anni-la-procura-aveva-chiesto-18-anni-e-6-mesi_bac48c70-639e-4d68-9ae4-4f1424dec84b.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/07/17/prime-pagine-castellucci-condannato-a-12-anni-per-il-crollo-del-morandi_66d4f2ba-845c-4b48-ad1e-fc5ed27c7d8e.html",
-        "https://www.laverita.info/giustizia/ponte-morandi-condanna-castellucci",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/07/16/news/ponte_morandi_sentenza-15691804/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Gran Bretagna, Burnham nuovo leader Laburista: sarà primo ministro",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
         "adnkronos.com",
         "ilmessaggero.it",
-        "ansa.it",
-        "repubblica.it",
         "liberoquotidiano.it",
+        "repubblica.it",
         "ilmanifesto.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/17/burnham-proclamato-leader-del-labour-da-lunedi-nuovo-premier-britannico_d97f7aaf-d7ba-471c-ac3e-92002093a87b.html",
+        "https://www.laverita.info/mondo/burnham-leader-labour",
         "https://www.adnkronos.com/internazionale/esteri/burnham-leader-laburista-primo-ministro-gran-bretagna-cosa-succede_6x1AS8wrKjE3oHKm8HcwiC",
         "https://www.ilmessaggero.it/mondo/andy_burnham_nuovo_premier_gb_chi_e-9656951.html",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/17/tutto-pronto-per-proclamazione-burnham-subito-sede-bis-governo-a-manchester_d97f7aaf-d7ba-471c-ac3e-92002093a87b.html",
-        "https://www.repubblica.it/esteri/2026/07/17/news/andy_burnham_discorso_leader_labour_give_back_control-425476290/",
-        "https://www.liberoquotidiano.it/news/tv-news/48586801/andy-burnham-successore-starmer-pronto-a-risolvere-grandi-questioni-/"
+        "https://www.liberoquotidiano.it/news/tv-news/48590442/gb-andy-burnham-confermato-nuovo-leader-labour-pronto-a-guidare-/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Ragazzo di 15 anni muore folgorato al luna park di Spotorno mentre gioca con un punching ball, l'ipotesi del corto circuito. Sequestrato il parco giochi",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "milano.repubblica.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://milano.repubblica.it/cronaca/2026/07/17/news/alessio_colletti_chi_era_ragazzo_morto_folgorato_luna_park_spotorno_saronno-425477178/",
+        "https://www.liberoquotidiano.it/news/italia/48585328/spotorno-15enne-muore-folgorato-luna-park-impianto-sequestro/",
+        "https://www.ilfattoquotidiano.it/2026/07/17/ragazzo-folgorato-luna-park-spotorno-notizie/8451387/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/17/ragazzo-di-15-anni-folgorato-al-luna-park-nel-savonese_ddaad1b3-df6f-43ae-ac30-65a717a34fc8.html",
+        "https://www.adnkronos.com/cronaca/saronno-morto-15enne-folgorato-luna-park-cosa-e-successo_4HGhMoWvo6E2XLOaPYF1Qm"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "È morta Valentina Baldini, figlia del ct Silvio. Aveva 30 anni",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-nera/tragedia-silvio-baldini-30-anni-morta-figlia-valentina-2694973.html",
+        "https://www.ansa.it/sito/notizie/sport/2026/07/17/e-morta-la-figlia-del-ct-silvio-baldini_8d00859c-39a5-4dd5-a05f-30a78fe4bdaa.html",
+        "https://www.ilfattoquotidiano.it/2026/07/17/morta-valentina-baldini-figlia-ct-silvio-baldini-30-anni-malattia-chi-era-ritratto/8451506/",
+        "https://www.ilfattoquotidiano.it/2026/07/17/morta-valentina-baldini-figlia-ct-silvio-baldini-38-anni-malattia-chi-era-racconto/8451506/",
+        "https://www.adnkronos.com/sport/baldini-muore-la-figlia-valentina-a-30-anni_ue3Nzko2CbGq7z6XcnpfA"
       ]
     },
     {
@@ -160,6 +164,47 @@
     },
     {
       "rank": 8,
+      "title": "Ponte Morandi, la giustizia non è tutta compiuta",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "laverita.info",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/morandi-12-anni-castellucci-stangati-ex-vertici-autostrade-2694604.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/16/ponte-morandi-castellucci-condannato-a-12-anni-la-procura-aveva-chiesto-18-anni-e-6-mesi_bac48c70-639e-4d68-9ae4-4f1424dec84b.html",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/07/17/prime-pagine-castellucci-condannato-a-12-anni-per-il-crollo-del-morandi_66d4f2ba-845c-4b48-ad1e-fc5ed27c7d8e.html",
+        "https://www.laverita.info/giustizia/ponte-morandi-condanna-castellucci",
+        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/07/16/news/ponte_morandi_sentenza-15691804/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Roggero verso il carcere di Bollate per costituirsi, la moglie presenta la domanda di grazia",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "adnkronos.com",
+        "ilgiornale.it",
+        "torino.repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/caso-roggero-domanda-di-grazia-ultime-notizie_3vgj6VaMRZsfgUDUvn7VJM",
+        "https://www.ilgiornale.it/news/interni/emesso-lordine-carcerazione-roggero-gioielliere-verso-2694926.html",
+        "https://torino.repubblica.it/cronaca/2026/07/17/news/ordine_carcerazione_mario_roggero_gioielliere-425476730/",
+        "https://www.ilfattoquotidiano.it/2026/07/17/gioielliere-grinzane-cavour-roggero-carcere-notizie/8451504/",
+        "https://www.lastampa.it/cuneo/2026/07/17/news/mario_roggero_ordine_carcerazione-15692440/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Caldo, più vittime tra gli over 65: il picco delle temperature domani",
       "source_count": 4,
       "article_count": 8,
@@ -175,48 +220,6 @@
         "https://www.repubblica.it/cronaca/2026/07/17/diretta/caldo_estremo_italia_news_diretta_oggi-425476037/",
         "https://www.adnkronos.com/cronaca/caldo-record-quand-finisce-previsioni-oggi-domani-svolta-meteo_2BfHCYfjZOXaKmpmShko7P",
         "https://www.adnkronos.com/cronaca/emergenza-caldo-eccesso-mortalita-anziani-giugno-mese-piu-caldo_4EQ4OQP2GxRICZFcW6CxFj"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Ddl Sicurezza, Meloni: \"Basta paradossi, chi commette reato non può pretendere un risarcimento\"",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/07/17/meloni-chi-commette-reati-non-puo-essere-risarcito.-basta-paradossi_8512f725-5f9e-467c-ab28-9cef0ac24fe1.html",
-        "https://www.repubblica.it/politica/2026/07/17/news/meloni_risarcimento_ladri_rapina_mario_roggero-425476644/",
-        "https://www.adnkronos.com/politica/meloni-ddl-sicurezza-ultime-notizie_6wTlzAkWgzuiyqbMhUwQ8O",
-        "https://www.ilmessaggero.it/politica/mario_roggero_meloni_risarcimento_criminali_paradosso_cosa_ha_detto-9656868.html",
-        "https://www.ilgiornale.it/news/interni/ddl-sicurezza-meloni-basta-paradossi-chi-commette-reato-non-2694841.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Milano, incendio in un palazzo vicino Rinascente in piazza Duomo: alta nube di fumo",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "laverita.info",
-        "ilfattoquotidiano.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-locale/paura-milano-incendio-vicino-rinascente-pochi-passi-duomo-2694883.html",
-        "https://www.adnkronos.com/cronaca/incendio-rinascente-milano-nube-di-fumo-cosa-e-successo_6Ty9MtYEaWPoYeMjwyykAt",
-        "https://www.liberoquotidiano.it/news/milano/48586654/incendio-milano-alta-nube-fumo-odore-acre-cosa-successo-alba/",
-        "https://www.laverita.info/video/incendio-milano-duomo",
-        "https://www.ilfattoquotidiano.it/2026/07/17/incendio-milano-duomo-corso-vittorio-emanuele-notizie/8451413/"
       ]
     }
   ]
