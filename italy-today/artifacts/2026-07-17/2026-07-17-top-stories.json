@@ -1,18 +1,18 @@
 {
   "date": "2026-07-17",
-  "generated_at": "Fri 17 Jul 10:56",
+  "generated_at": "Fri 17 Jul 12:18",
   "stories": [
     {
       "rank": 1,
       "title": "Trump attacca la Cina: “Ha rubato i dati elettorali degli americani. Il nostro sistema di voto è compromesso”",
       "source_count": 9,
-      "article_count": 13,
+      "article_count": 14,
       "source_domains": [
         "ilgiornale.it",
+        "liberoquotidiano.it",
         "laverita.info",
         "adnkronos.com",
         "ansa.it",
-        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it",
@@ -20,10 +20,10 @@
       ],
       "links": [
         "https://www.ilgiornale.it/news/politica/trump-agita-voto-attacco-cia-e-cina-2694624.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48587471/trump-su-elezioni-2020-la-cina-voleva-far-vincere-biden-ho-le-prove/",
         "https://www.laverita.info/video/trump-cina-elezioni-usa",
         "https://www.adnkronos.com/internazionale/esteri/trump-discorso-brogli-elezioni-usa-accuse-cina-documenti-top-secret_xKMu3zbGtSmGNWeIt9Epk",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/17/trump-sistema-elettorale-a-rischio-brogli-cina-ha-rubato-dati_c893e98a-4c62-4a2d-99f4-12f80ff72ee8.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48586271/discorso-alla-nazione-trump-denuncia-brogli-e-interferenze-cinesi/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/17/trump-sistema-elettorale-a-rischio-brogli-cina-ha-rubato-dati_c893e98a-4c62-4a2d-99f4-12f80ff72ee8.html"
       ]
     },
     {
@@ -51,6 +51,29 @@
     },
     {
       "rank": 3,
+      "title": "Osvaldo Bagnoli è morto, addio all’allenatore dello storico scudetto del Verona",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/calcio/2026/07/17/news/bagnoli_intervista_scudetto_verona-425476820/",
+        "https://www.repubblica.it/sport/calcio/2026/07/17/news/chi_e_osvaldo_bagnoli_morto_allenatore_verona-425476746/",
+        "https://www.ansa.it/sito/notizie/sport/2026/07/17/e-morto-osvaldo-bagnoli-allenatore-dello-scudetto-verona-nell85_2ad925ea-596d-475c-b8d3-677f7ad36057.html",
+        "https://www.ilgiornale.it/news/attualit/addio-osvaldo-bagnoli-91-anni-muore-l-allenatore-dello-2694888.html",
+        "https://www.adnkronos.com/sport/bagnoli-muore-a-91-anni-era-lallenatore-del-verona-campione-ditalia_2RCgsdFUDobcOJ3S5ewnWG"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Ragazzo di 15 anni muore folgorato al luna park di Spotorno mentre gioca con un punching ball, l'ipotesi del corto circuito. Sequestrato il parco giochi",
       "source_count": 7,
       "article_count": 7,
@@ -72,7 +95,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Ponte Morandi: Castellucci condannato a 12 anni",
       "source_count": 5,
       "article_count": 9,
@@ -92,29 +115,51 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Osvaldo Bagnoli è morto, addio all’allenatore dello storico scudetto del Verona",
+      "rank": 6,
+      "title": "Gran Bretagna, Burnham nuovo leader Laburista: sarà primo ministro",
       "source_count": 7,
       "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
         "adnkronos.com",
-        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
         "repubblica.it",
+        "liberoquotidiano.it",
+        "ilmanifesto.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/burnham-leader-laburista-primo-ministro-gran-bretagna-cosa-succede_6x1AS8wrKjE3oHKm8HcwiC",
+        "https://www.ilmessaggero.it/mondo/andy_burnham_nuovo_premier_gb_chi_e-9656951.html",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/17/tutto-pronto-per-proclamazione-burnham-subito-sede-bis-governo-a-manchester_d97f7aaf-d7ba-471c-ac3e-92002093a87b.html",
+        "https://www.repubblica.it/esteri/2026/07/17/news/andy_burnham_discorso_leader_labour_give_back_control-425476290/",
+        "https://www.liberoquotidiano.it/news/tv-news/48586801/andy-burnham-successore-starmer-pronto-a-risolvere-grandi-questioni-/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Morta la bambina di 11 anni risucchiata da un bocchettone di una piscina a Sestri Levante",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "genova.repubblica.it",
+        "ilgiornale.it",
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/07/17/e-morto-osvaldo-bagnoli-allenatore-dello-scudetto-verona-nell85_2ad925ea-596d-475c-b8d3-677f7ad36057.html",
-        "https://www.ilgiornale.it/news/attualit/addio-osvaldo-bagnoli-91-anni-muore-l-allenatore-dello-2694888.html",
-        "https://www.adnkronos.com/sport/bagnoli-muore-a-91-anni-era-lallenatore-del-verona-campione-ditalia_2RCgsdFUDobcOJ3S5ewnWG",
-        "https://www.ilfattoquotidiano.it/2026/07/17/osvaldo-bagnoli-morte-allenatore-impresa-verona-storia/8451487/",
-        "https://www.repubblica.it/sport/calcio/2026/07/17/news/osvaldo_bagnoli_morto_allenatore_scudetto_verona-425476497/"
+        "https://www.ilfattoquotidiano.it/2026/07/17/bimba-morta-piscina-sestri-levante-notizie/8451420/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/17/morta-la-bambina-rimasta-incastrata-nel-bocchettone-della-piscina_12637dc3-4de5-442a-97ca-59c3a185c231.html",
+        "https://genova.repubblica.it/cronaca/2026/07/17/news/morta_la_bimba_intrappolata_in_piscina_a_sestri_levante-425476418/",
+        "https://www.ilgiornale.it/news/nazionale/morta-bambina-risucchiata-bocchettone-piscina-2694794.html",
+        "https://www.liberoquotidiano.it/news/italia/48586007/genova-morta-bambina-11-anni-capelli-intrappolati-bocchettone-piscina/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Caldo, più vittime tra gli over 65: il picco delle temperature domani",
       "source_count": 4,
       "article_count": 8,
@@ -133,7 +178,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Ddl Sicurezza, Meloni: \"Basta paradossi, chi commette reato non può pretendere un risarcimento\"",
       "source_count": 6,
       "article_count": 6,
@@ -154,64 +199,24 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Morta la bambina di 11 anni risucchiata da un bocchettone di una piscina a Sestri Levante",
+      "rank": 10,
+      "title": "Milano, incendio in un palazzo vicino Rinascente in piazza Duomo: alta nube di fumo",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "genova.repubblica.it",
         "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/17/bimba-morta-piscina-sestri-levante-notizie/8451420/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/17/morta-la-bambina-rimasta-incastrata-nel-bocchettone-della-piscina_12637dc3-4de5-442a-97ca-59c3a185c231.html",
-        "https://genova.repubblica.it/cronaca/2026/07/17/news/morta_la_bimba_intrappolata_in_piscina_a_sestri_levante-425476418/",
-        "https://www.ilgiornale.it/news/nazionale/morta-bambina-risucchiata-bocchettone-piscina-2694794.html",
-        "https://www.ilmessaggero.it/italia/alice_bimba_morta_piscina_sestri_levante-9656765.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Guerra in Iran, le news di oggi in diretta. “Raid a sorpresa su base americana in Siria”. Gli Usa attaccano i ponti, 7 morti",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
         "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
+        "liberoquotidiano.it",
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/17/nuovi-attacchi-usa-alliran-teheran-annuncia-colpita-una-base-americana_d19ac5c7-5352-4099-9a40-1f5572d9145a.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/17/raid-usa-iran-sesta-notte-aggiornamneit-notizie-oggi-diretta/8451356/",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-news-oggi-17-luglio-2026_2pwDwxS2BH81jQoYigHKjX",
-        "https://www.repubblica.it/esteri/2026/07/17/diretta/guerra_iran_usa_israele_news_oggi-425475836/",
-        "https://www.lastampa.it/esteri/2026/07/17/diretta/guerra_iran_usa_israele_news_oggi-15691956/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Rimosso Fedorov, il genio dei droni: ira e proteste a Kiev",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ansa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/rimosso-fedorov-genio-dei-droni-ira-e-proteste-kiev-2694622.html",
-        "https://ilmanifesto.it/zelensky-sceglie-i-generali-scoppia-il-dissenso",
-        "https://www.lastampa.it/esteri/2026/07/17/news/ministro_della_difesa_silurato_kiev_va_in_piazza_contro_zelensky-15691895/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/16/un-nuovo-premier-a-kiev-proteste-per-il-rimpasto-di-zelensky_c984151d-a27c-43a0-abb2-bf6e1d51cb47.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48579392/dirigente-di-naftogas-sergiy-koretsky-e-il-nuovo-premier-dell-ucraina/"
+        "https://www.ilgiornale.it/news/cronaca-locale/paura-milano-incendio-vicino-rinascente-pochi-passi-duomo-2694883.html",
+        "https://www.adnkronos.com/cronaca/incendio-rinascente-milano-nube-di-fumo-cosa-e-successo_6Ty9MtYEaWPoYeMjwyykAt",
+        "https://www.liberoquotidiano.it/news/milano/48586654/incendio-milano-alta-nube-fumo-odore-acre-cosa-successo-alba/",
+        "https://www.laverita.info/video/incendio-milano-duomo",
+        "https://www.ilfattoquotidiano.it/2026/07/17/incendio-milano-duomo-corso-vittorio-emanuele-notizie/8451413/"
       ]
     }
   ]
