@@ -1,6 +1,6 @@
 {
   "date": "2026-07-18",
-  "generated_at": "Sat 18 Jul 21:00",
+  "generated_at": "Sat 18 Jul 22:01",
   "stories": [
     {
       "rank": 1,
@@ -31,20 +31,20 @@
       "source_count": 7,
       "article_count": 12,
       "source_domains": [
+        "ansa.it",
         "ilgiornale.it",
         "adnkronos.com",
         "milano.repubblica.it",
         "ilmessaggero.it",
         "lastampa.it",
-        "liberoquotidiano.it",
-        "ansa.it"
+        "liberoquotidiano.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/18/violenta-grandinata-su-milano-interrotto-il-concerto-di-bad-bunny_ded9f954-c382-4731-8c2a-a9f325cf7749.html",
         "https://www.ilgiornale.it/news/cronaca-locale/milano-interrotto-concerto-bad-bunny-forte-temporale-2695388.html",
         "https://www.adnkronos.com/spettacoli/bad-bunny-concerto-interrotto-ippodromo-evacuato-cosa-e-successo_4eXyOttQvYaL8sdRpg6XHL",
         "https://www.adnkronos.com/cronaca/milano-grandine-bad-bunny-concerto_6eYZFRnpGXG1CVNHBg8Xx0",
-        "https://milano.repubblica.it/cronaca/2026/07/18/news/maltempo_milano_interrotto_concerto_bad_bunny_grandine-425479642/",
-        "https://www.ilmessaggero.it/persone/bad_bunny_concerto_milano_interrotto_temporale_cosa_e_successo-9659262.html"
+        "https://milano.repubblica.it/cronaca/2026/07/18/news/maltempo_milano_interrotto_concerto_bad_bunny_grandine-425479642/"
       ]
     },
     {
@@ -115,6 +115,28 @@
     },
     {
       "rank": 6,
+      "title": "Milano, incendio in appartamento: due morti e diversi intossicati",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "milano.repubblica.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-locale/incendio-stabile-milano-morti-donna-e-uomo-2695385.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/18/rogo-in-un-palazzo-a-milano-due-anziani-muoiono-in-casa_560d3443-e2d0-49e2-9e2b-a728869a2815.html",
+        "https://www.liberoquotidiano.it/news/milano/48602515/milano-incendio-sesto-piano-palazzo-morta-donna/",
+        "https://milano.repubblica.it/cronaca/2026/07/18/news/milano_incendio_appartamento_morta_donna_intossicati-425479553/",
+        "https://www.ilmessaggero.it/italia/milano_incendio_appartamento_palmanova_morti_cosa_e_successo-9659194.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Bambina morta in piscina a Sestri Levante, indagati per omicidio colposo i titolari dei bagni",
       "source_count": 8,
       "article_count": 8,
@@ -134,27 +156,6 @@
         "https://www.ilfattoquotidiano.it/2026/07/18/bimba-morta-piscina-sestri-levante-notizie-2/8452432/",
         "https://www.adnkronos.com/cronaca/sestri-levante-bambina-morta-in-piscina-due-indagati_2Touo3VvFsUNjfCC5lcc5k",
         "https://genova.repubblica.it/cronaca/2026/07/18/news/bimba_morta_in_piscina_a_sestri_levante_indagati_per_omicidio_colposo_i_titolari_dei_bagni-425478902/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Milano, incendio in appartamento: due morti e diversi intossicati",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "milano.repubblica.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-locale/incendio-stabile-milano-morti-donna-e-uomo-2695385.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/18/rogo-in-un-palazzo-a-milano-due-anziani-muoiono-in-casa_560d3443-e2d0-49e2-9e2b-a728869a2815.html",
-        "https://milano.repubblica.it/cronaca/2026/07/18/news/milano_incendio_appartamento_morta_donna_intossicati-425479553/",
-        "https://www.ilmessaggero.it/italia/milano_incendio_appartamento_palmanova_morti_cosa_e_successo-9659194.html",
-        "https://www.ilmessaggero.it/italia/incendio_milano_appartamento_cimiano_morti_cosa_e_successo-9659194.html"
       ]
     },
     {
@@ -205,7 +206,7 @@
         "laverita.info",
         "ilgiornale.it",
         "ansa.it",
-        "ilmessaggero.it"
+        "lastampa.it"
       ],
       "links": [
         "https://www.laverita.info/video/roggero-carcere-bollate",
