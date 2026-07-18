@@ -1,36 +1,60 @@
 {
   "date": "2026-07-18",
-  "generated_at": "Sat 18 Jul 16:08",
+  "generated_at": "Sat 18 Jul 18:03",
   "stories": [
     {
       "rank": 1,
-      "title": "Gp Belgio, Hamilton sfascia la Ferrari nelle prove libere: corsa contro il tempo per ripararla",
-      "source_count": 6,
-      "article_count": 12,
+      "title": "Bambina morta in piscina a Sestri Levante, indagati per omicidio colposo i titolari dei bagni",
+      "source_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilgiornale.it",
-        "adnkronos.com",
         "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "genova.repubblica.it",
         "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "ilmessaggero.it",
+        "laverita.info"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/motori/f1-antonelli-domina-anche-belgio-leclerc-4-hamilton-5-2695352.html",
-        "https://www.adnkronos.com/sport/formula-1-qualifiche-gp-belgio-furia-leclerc-mistero-bandiera-gialla_480S8Wu9o8JOxdCI0MZVjY",
-        "https://www.ilfattoquotidiano.it/2026/07/18/f1-gp-belgio-spa-qualifiche-griglia-di-partenza-antonelli-ferrari-leclerc-hamilton/8452530/",
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/07/18/antonelli-in-pole-a-spa-davanti-a-verstappen_b3c54adc-b823-4c72-8744-00c0470b876e.html",
-        "https://www.adnkronos.com/sport/f1-pole-antonelli-mercedes-ferrari_3sBT9JQtNvqxhS2u4DxW6N"
+        "https://www.liberoquotidiano.it/news/italia/48599530/sestri-levante-11enne-morta-risucchiata-bocchettone-piscina-due-indagati/",
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/alice-morta-piscina-indagati-i-titolari-lido-aperta-2695284.html",
+        "https://www.ilfattoquotidiano.it/2026/07/18/bimba-morta-piscina-sestri-levante-notizie-2/8452432/",
+        "https://www.adnkronos.com/cronaca/sestri-levante-bambina-morta-in-piscina-due-indagati_2Touo3VvFsUNjfCC5lcc5k",
+        "https://genova.repubblica.it/cronaca/2026/07/18/news/bimba_morta_in_piscina_a_sestri_levante_indagati_per_omicidio_colposo_i_titolari_dei_bagni-425478902/"
       ]
     },
     {
       "rank": 2,
-      "title": "Salvini nel carcere di Bollate da Ruggero: “Sarei orgoglioso di candidarlo con la Lega”",
-      "source_count": 7,
-      "article_count": 11,
+      "title": "F1: Antonelli in pole a Spa davanti a Verstappen",
+      "source_count": 6,
+      "article_count": 13,
       "source_domains": [
-        "laverita.info",
+        "ansa.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/07/18/f1-capolavoro-di-antonelli-sua-la-pole-a-spa-davanti-a-verstappen_b3c54adc-b823-4c72-8744-00c0470b876e.html",
+        "https://www.ilgiornale.it/news/motori/f1-antonelli-domina-anche-belgio-leclerc-4-hamilton-5-2695352.html",
+        "https://www.repubblica.it/sport/formulauno/2026/07/18/news/antonelli_pole_spa_leclerc-425479202/",
+        "https://www.adnkronos.com/sport/formula-1-qualifiche-gp-belgio-furia-leclerc-mistero-bandiera-gialla_480S8Wu9o8JOxdCI0MZVjY",
+        "https://www.ilfattoquotidiano.it/2026/07/18/f1-gp-belgio-spa-qualifiche-griglia-di-partenza-antonelli-ferrari-leclerc-hamilton/8452530/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Caso Roggero, Salvini: Sarei orgoglioso di poterlo candidare",
+      "source_count": 7,
+      "article_count": 12,
+      "source_domains": [
         "liberoquotidiano.it",
+        "laverita.info",
         "ansa.it",
         "ilgiornale.it",
         "repubblica.it",
@@ -38,68 +62,90 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48600042/caso-roggero-salvini-sarei-orgoglioso-di-poterlo-candidare/",
         "https://www.laverita.info/video/salvini-grazia-roggero-2",
         "https://www.liberoquotidiano.it/news/libero-video/48599502/caso-roggero-salvini-no-pressione-mattarella-scegliera-liberamente/",
         "https://www.ansa.it/sito/videogallery/italia/2026/07/18/caso-roggero-salvini-sarei-orgoglioso-di-poterlo-candidare_ee0c35cd-a3b6-4e96-ba93-67246d766554.html",
-        "https://www.liberoquotidiano.it/news/pillole/48599096/roggero_salvini_sarei_orgoglioso_di_poterlo_candidare_/",
-        "https://www.liberoquotidiano.it/news/pillole/48599088/roggero_salvini_moglie_fa_bene_a_chiedere_grazia_poi_decide_capo_dello_stato_/"
+        "https://www.liberoquotidiano.it/news/pillole/48599096/roggero_salvini_sarei_orgoglioso_di_poterlo_candidare_/"
       ]
     },
     {
-      "rank": 3,
-      "title": "Medio Oriente, Iran: colpite basi statunitensi in Bahrein e Kuwait",
-      "source_count": 6,
+      "rank": 4,
+      "title": "Si tuffa per salvare il nipote nell'Adda e annega. Gravissimo il piccolo di 4 anni",
+      "source_count": 8,
       "article_count": 11,
       "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "milano.repubblica.it",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/18/per-aiutare-bimbi-in-difficolta-un-uomo-annega-nelladda-e-un-altro-e-disperso-del_ba59ca32-797f-4c9f-8de9-53e1a80a437e.html",
+        "https://www.adnkronos.com/cronaca/tuffa-salvare-ragazzo-non-riemerge-ricerche-lago-garda_2nt298eoJrpwKmt2GhtrVE",
+        "https://milano.repubblica.it/cronaca/2026/07/18/news/sirmione_tuffa_lago_garda_salvare_bimbo_muore_annegato-425479247/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/18/cerca-di-salvare-nipotino-nelladda-ma-annega-bimbo-di-4-anni-molto-grave_ba59ca32-797f-4c9f-8de9-53e1a80a437e.html",
+        "https://www.liberoquotidiano.it/news/italia/48599788/cremona-si-tuffa-adda-salvare-nipotino-4-anni-muore-gravissimo-bimbo/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Medio Oriente, Iran: colpite basi statunitensi in Bahrein e Kuwait",
+      "source_count": 6,
+      "article_count": 12,
+      "source_domains": [
         "ansa.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "repubblica.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/18/medio-oriente-attacco-iraniano-in-giordania-2-soldati-usa-uccisi-e-altri-4-feriti_60688732-c050-4135-b7b5-299903c283df.html",
         "https://www.ilgiornale.it/news/guerra/raid-e-missili-usa-e-iran-feriti-soldati-americani-giordania-2695200.html",
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/18/settima-notte-consecutiva-di-raid-usa-contro-liran-teheran-contrattacca-colpita-base-statunitense-in-bahrein/8452221/",
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/18/attacchi-usa-iran-teheran-contrattacca-18-luglio-aggiornamenti/8452221/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/18/medio-oriente-iran-colpite-basi-statunitensi-in-bahrein-e-kuwait_60688732-c050-4135-b7b5-299903c283df.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48598351/iran-a-kuwait-city-risuonano-ancora-una-volta-le-sirene/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/18/medio-oriente-iran-colpite-basi-statunitensi-in-bahrein-e-kuwait_60688732-c050-4135-b7b5-299903c283df.html"
       ]
     },
     {
-      "rank": 4,
-      "title": "Bambina morta in piscina a Sestri Levante, indagati per omicidio colposo i titolari dei bagni",
+      "rank": 6,
+      "title": "Bambina di 4 anni annega nella piscina di un hotel",
       "source_count": 7,
-      "article_count": 10,
+      "article_count": 8,
       "source_domains": [
-        "ilmessaggero.it",
         "ansa.it",
+        "adnkronos.com",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "genova.repubblica.it",
+        "bologna.repubblica.it",
+        "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/italia/bambina_morta_piscina_milano_marittima_ultime_notizie-9659027.html",
-        "https://www.ansa.it/sito/notizie/flash/2026/07/18/bimba-di-4-anni-annegata-in-piscina-di-un-hotel-di-milano-marittima_a5ea4273-2bdc-46eb-90d5-5736424bed05.html",
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/alice-morta-piscina-indagati-i-titolari-lido-aperta-2695284.html",
-        "https://www.ilfattoquotidiano.it/2026/07/18/bimba-morta-piscina-sestri-levante-notizie-2/8452432/",
-        "https://www.adnkronos.com/cronaca/sestri-levante-bambina-morta-in-piscina-due-indagati_2Touo3VvFsUNjfCC5lcc5k"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/18/bimba-di-4-anni-annega-in-una-piscina-di-un-hotel-di-milano-marittima_3677e745-331e-4580-89ce-2c9c049d53f7.html",
+        "https://www.adnkronos.com/cronaca/milano-marittima-bimba-di-4-anni-annega-in-piscina-albergo_6pedPf120UjljDqmR1dDwh",
+        "https://www.ilgiornale.it/news/cronaca-nera/bambina-4-anni-annega-nella-piscina-hotel-2695364.html",
+        "https://www.ilfattoquotidiano.it/2026/07/18/bimba-annegata-piscina-milano-marittima-notizie/8452563/",
+        "https://bologna.repubblica.it/cronaca/2026/07/18/news/bimba_annegata_piscina_milano_marittima-425479194/"
       ]
     },
     {
-      "rank": 5,
-      "title": "Roggero si costituisce: «Mattarella ha graziato Minetti, mi aspetto lo stesso»",
-      "source_count": 6,
-      "article_count": 10,
+      "rank": 7,
+      "title": "Re Sergio adesso è con le spalle al muro",
+      "source_count": 5,
+      "article_count": 9,
       "source_domains": [
         "laverita.info",
         "ilgiornale.it",
         "ansa.it",
         "ilmessaggero.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it"
+        "lastampa.it"
       ],
       "links": [
         "https://www.laverita.info/video/roggero-carcere-bollate",
@@ -110,7 +156,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Bad Bunny seduce Milano, il reggaeton come politica e cultura globale",
       "source_count": 6,
       "article_count": 7,
@@ -131,7 +177,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Mondiali 2026, Messi su Yamal: \"Giocatore straordinario, la foto con lui? Pazzesca\"",
       "source_count": 6,
       "article_count": 7,
@@ -152,28 +198,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Si tuffa per salvare il nipote nell'Adda e annega. Gravissimo il piccolo di 4 anni",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/18/cerca-di-salvare-nipotino-nelladda-ma-annega-bimbo-di-4-anni-molto-grave_ba59ca32-797f-4c9f-8de9-53e1a80a437e.html",
-        "https://www.ilgiornale.it/news/cronaca-nera/tenta-salvare-nipote-nel-fiume-adda-annega-malore-2695298.html",
-        "https://www.ilfattoquotidiano.it/2026/07/18/adda-zio-nipote-cerca-salvare-nipotino-muore-annegato/8452470/",
-        "https://www.ilmessaggero.it/italia/morto_fiume_adda_ultime_notizie-9658925.html",
-        "https://www.adnkronos.com/cronaca/muore-tentando-di-salvare-il-nipotino-nel-fiume-adda-grave-il-bimbo_3rqEOliLgsyGO1Ii4LqJHc"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "Ultimo weekend di super caldo, poi un calo di almeno 5 gradi da Nord a Sud",
       "source_count": 5,
       "article_count": 6,
@@ -190,26 +215,6 @@
         "https://www.ilmessaggero.it/schede/allerta_meteo_temporali_dove_quando_previsioni-9658642.html",
         "https://www.adnkronos.com/cronaca/meteo-caldo-record-temporali-previsioni-oggi-18-luglio_bCIp970gfTybJcL2NYpEN",
         "https://www.ilmessaggero.it/schede/caldo_quando_finisce_rinfrescata_scandinava-9658564.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Fedez papà per la terza volta: è nato Edoardo Lupo Lucia",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.ansa.it/canale_lifestyle/notizie/people/2026/07/18/fedez-diventa-di-nuovo-papa-e-nato-edoardo-lupo_da5b9812-46b5-40ae-8d81-73ba8735c52f.html",
-        "https://www.adnkronos.com/spettacoli/fede-papa-e-nato-edoardo-lupo-figlio-giulia-honegger_4EPIuTq9CAKNMqp0duPxK2",
-        "https://www.ilfattoquotidiano.it/2026/07/18/fedez-commenta-sui-social-la-nascita-del-figlio-edoardo-lupo-una-gioia-cosi-grande/8452375/",
-        "https://www.ilfattoquotidiano.it/2026/07/18/e-nato-edoardo-lupo-il-figlio-di-fedez-e-giulia-honegger-il-rapper-e-papa-per-la-terza-volta/8452268/",
-        "https://www.lastampa.it/spettacoli/2026/07/18/news/fedez_papa_giulia_honegger_figlio_edoardo_lupo-15693224/"
       ]
     }
   ]
