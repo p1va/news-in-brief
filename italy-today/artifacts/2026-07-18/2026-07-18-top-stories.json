@@ -1,20 +1,19 @@
 {
   "date": "2026-07-18",
-  "generated_at": "Sat 18 Jul 11:12",
+  "generated_at": "Sat 18 Jul 13:30",
   "stories": [
     {
       "rank": 1,
       "title": "Roggero si costituisce: «Mattarella ha graziato Minetti, mi aspetto lo stesso»",
-      "source_count": 7,
-      "article_count": 13,
+      "source_count": 6,
+      "article_count": 12,
       "source_domains": [
         "laverita.info",
         "ilgiornale.it",
         "ansa.it",
         "lastampa.it",
         "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ilsole24ore.com"
+        "ilfattoquotidiano.it"
       ],
       "links": [
         "https://www.laverita.info/video/roggero-carcere-bollate",
@@ -47,27 +46,93 @@
     },
     {
       "rank": 3,
-      "title": "Il Regno Unito volta pagina, Andy Burnham sostituisce Starmer e promette: \"Basta col neoliberismo\"",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Bambina morta in piscina a Sestri Levante, indagati per omicidio colposo i titolari dei bagni",
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "lastampa.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
         "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "genova.repubblica.it",
+        "ansa.it",
+        "lastampa.it",
         "ilmessaggero.it",
-        "news.google.com"
+        "laverita.info"
       ],
       "links": [
-        "https://www.lastampa.it/esteri/2026/07/18/news/labour_l_orgoglio_ritrovato_burnham_infiamma_la_base_ora_stop_al_neo-liberismo-15692751/",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/17/inizia-lera-burnham-sono-pronto-e-voglio-cambiare-il-regno-unito_d97f7aaf-d7ba-471c-ac3e-92002093a87b.html",
-        "https://www.ilfattoquotidiano.it/2026/07/17/burnham-leader-laburisti-premier-britannico/8451894/",
-        "https://www.ilgiornale.it/news/politica-estera/regno-unito-volta-pagina-andy-burnham-sostituisce-starmer-e-2695008.html",
-        "https://www.ilmessaggero.it/mondo/andy_burnham_nuovo_premier_gb_chi_e-9656951.html"
+        "https://www.ilgiornale.it/news/cronaca-giudiziaria/alice-morta-piscina-indagati-i-titolari-lido-aperta-2695284.html",
+        "https://www.ilfattoquotidiano.it/2026/07/18/bimba-morta-piscina-sestri-levante-notizie-2/8452432/",
+        "https://www.adnkronos.com/cronaca/sestri-levante-bambina-morta-in-piscina-due-indagati_2Touo3VvFsUNjfCC5lcc5k",
+        "https://genova.repubblica.it/cronaca/2026/07/18/news/bimba_morta_in_piscina_a_sestri_levante_indagati_per_omicidio_colposo_i_titolari_dei_bagni-425478902/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/18/bimba-morta-in-piscina-indagati-i-titolari-dello-stabilimento_6e835046-46ad-48ad-a672-bf8e6398f334.html"
       ]
     },
     {
       "rank": 4,
+      "title": "Salvini nel carcere di Bollate da Ruggero: “Sarei orgoglioso di candidarlo con la Lega”",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "laverita.info",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.laverita.info/video/salvini-grazia-roggero-2",
+        "https://www.ansa.it/sito/videogallery/italia/2026/07/18/caso-roggero-salvini-sarei-orgoglioso-di-poterlo-candidare_ee0c35cd-a3b6-4e96-ba93-67246d766554.html",
+        "https://www.liberoquotidiano.it/news/pillole/48599088/roggero_salvini_moglie_fa_bene_a_chiedere_grazia_poi_decide_capo_dello_stato_/",
+        "https://www.ilgiornale.it/news/interni/salvini-roggero-bollate-mattarella-sceglier-liberamente-2695239.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48599243/roggero-salvini-non-attacchi-ne-pressioni-per-mattarella-su-grazia/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Mondiali 2026, Messi su Yamal: \"Giocatore straordinario, la foto con lui? Pazzesca\"",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/18/news/de_la_fuente_scaloni_conferenza_stampa_spagna_argentina_messi_rodri-425478834/",
+        "https://www.adnkronos.com/sport/argentina-spagna-messi-durant-conferenza_722hR3WFQcx0l9TDWy4geK",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/18/mondiali-messi-su-yamal-la-foto-una-cosa-folle-lui-uno-dei_c32a7857-f350-4db6-9436-e48870c84914.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48598193/mondiali-2026-messi-su-yamal-giocatore-straordinario-la-foto-con-lui-pazzesca-/",
+        "https://www.ilmessaggero.it/sport/schede/spagna_argentina_dove_vederla_chiaro_4k_orario_probabili_formazioni-9658568.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Gp Belgio, Hamilton sfascia la Ferrari nelle prove libere: corsa contro il tempo per ripararla",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/18/gp-belgio-f1-hamilton-ferrari-spa-incidente-macchina-distrutta/8452428/",
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/07/18/antonelli-davanti-nelle-ultime-libere-fuoripista-per-hamilton_bbf8fe2c-6715-4eeb-809d-bd82f2cc423c.html",
+        "https://www.repubblica.it/sport/formulauno/2026/07/18/news/hamilton_ferrari_distrutta_terze_libere_belgio-425478871/",
+        "https://www.lastampa.it/sport/2026/07/18/news/gp_belgio_hamilton_ferrari_prove_libere-15693247/",
+        "https://www.adnkronos.com/sport/f1-gp-belgio-qualifiche-leclerc_35Y5HcEmQPsx9FPsyWQ1Y6"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Bad Bunny seduce Milano, il reggaeton come politica e cultura globale",
       "source_count": 5,
       "article_count": 6,
@@ -87,27 +152,47 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Mondiali 2026, Messi su Yamal: \"Giocatore straordinario, la foto con lui? Pazzesca\"",
+      "rank": 8,
+      "title": "Ultimo weekend di super caldo, poi un calo di almeno 5 gradi da Nord a Sud",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/meteo-e-clima/dai-temporali-grandine-caldo-estremo-46-c-cosa-aspettarsi-2695230.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/18/ultimo-weekend-di-super-caldo-poi-un-calo-di-almeno-5-gradi-da-nord-a-sud_e20ea7f6-5eb9-4cce-b1be-9f31db721f69.html",
+        "https://www.ilmessaggero.it/schede/allerta_meteo_temporali_dove_quando_previsioni-9658642.html",
+        "https://www.adnkronos.com/cronaca/meteo-caldo-record-temporali-previsioni-oggi-18-luglio_bCIp970gfTybJcL2NYpEN",
+        "https://www.ilmessaggero.it/schede/caldo_quando_finisce_rinfrescata_scandinava-9658564.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Fedez papà per la terza volta: è nato Edoardo Lupo Lucia",
       "source_count": 5,
       "article_count": 6,
       "source_domains": [
         "ansa.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
         "lastampa.it",
-        "ilmessaggero.it"
+        "ilgiornale.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/18/mondiali-messi-su-yamal-la-foto-una-cosa-folle-lui-uno-dei_c32a7857-f350-4db6-9436-e48870c84914.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48598193/mondiali-2026-messi-su-yamal-giocatore-straordinario-la-foto-con-lui-pazzesca-/",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/18/news/messi_mondiale_rimonta_pallone_d_oro-425478610/",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/18/news/messi_new_york_festival-15693015/",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/18/news/maradona_jr_intervista_messi_spagna_argentina-425477950/"
+        "https://www.ansa.it/canale_lifestyle/notizie/people/2026/07/18/fedez-diventa-di-nuovo-papa-e-nato-edoardo-lupo_da5b9812-46b5-40ae-8d81-73ba8735c52f.html",
+        "https://www.adnkronos.com/spettacoli/fede-papa-e-nato-edoardo-lupo-figlio-giulia-honegger_4EPIuTq9CAKNMqp0duPxK2",
+        "https://www.ilfattoquotidiano.it/2026/07/18/fedez-commenta-sui-social-la-nascita-del-figlio-edoardo-lupo-una-gioia-cosi-grande/8452375/",
+        "https://www.ilfattoquotidiano.it/2026/07/18/e-nato-edoardo-lupo-il-figlio-di-fedez-e-giulia-honegger-il-rapper-e-papa-per-la-terza-volta/8452268/",
+        "https://www.lastampa.it/spettacoli/2026/07/18/news/fedez_papa_giulia_honegger_figlio_edoardo_lupo-15693224/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 10,
       "title": "Mondiali 2026: fumo su New York a causa degli incendi. Trump furioso contro il Canada",
       "source_count": 4,
       "article_count": 6,
@@ -123,80 +208,6 @@
         "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/18/news/finale_spagna_argentina_incendi_canada-15692981/",
         "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/17/mondiali-incontro-informale-tra-casa-bianca-e-fifa-sulla-finale-per_e93ceeb9-11ee-4d07-9ef9-5b61987d7a2b.html",
         "https://www.liberoquotidiano.it/news/tv-news/48595027/mondiali-il-fumo-degli-incendi-minaccia-la-finale-di-new-york/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Salvini nel carcere di Bollate da Ruggero: “Sarei orgoglioso di candidarlo con la Lega”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/interni/salvini-roggero-bollate-mattarella-sceglier-liberamente-2695239.html",
-        "https://www.repubblica.it/politica/2026/07/18/news/salvini_carcere_bollate_mario_roggero-425478738/",
-        "https://www.ansa.it/sito/notizie/politica/2026/07/18/salvini-a-bollate-dopo-la-prima-notte-in-carcere-di-roggero_686f2bde-e0c1-45e5-803a-394df034296e.html",
-        "https://www.lastampa.it/cronaca/2026/07/18/news/caso_roggero_salvini_visita_carcere_bollate_grazia-15693160/",
-        "https://www.ilsole24ore.com/art/salvini-visita-roggero-bollate-sostegno-politico-e-possibile-candidatura-il-gioielliere-condannato-AJCkxDO"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Ultimo weekend di super caldo, poi un calo di almeno 5 gradi da Nord a Sud",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilgiornale.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/meteo-e-clima/dai-temporali-grandine-caldo-estremo-46-c-cosa-aspettarsi-2695230.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/18/ultimo-weekend-di-super-caldo-poi-un-calo-di-almeno-5-gradi-da-nord-a-sud_e20ea7f6-5eb9-4cce-b1be-9f31db721f69.html",
-        "https://www.ilmessaggero.it/schede/allerta_meteo_temporali_dove_quando_previsioni-9658642.html",
-        "https://www.adnkronos.com/cronaca/meteo-caldo-record-temporali-previsioni-oggi-18-luglio_bCIp970gfTybJcL2NYpEN",
-        "https://www.ilmessaggero.it/schede/caldo_quando_finisce_rinfrescata_scandinava-9658564.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Venezia, assalto dei centri sociali contro l’ambasciatore Usa: scontri davanti al maxi yacht",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "ilmanifesto.it",
-        "ilgiornale.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/18/lambasciatore-usa-fertitta-sbarca-a-venezia-per-la-festa-del-redentore-cgil_473eb57d-d3c4-433d-8d66-8b2fc812d7c5.html",
-        "https://ilmanifesto.it/venezia-lambasciatore-usa-fertitta-oscura-la-festa-del-redentore",
-        "https://www.ilgiornale.it/news/nazionale/venezia-assalto-dei-centri-sociali-contro-l-ambasciatore-usa-2695050.html",
-        "https://www.ilfattoquotidiano.it/2026/07/17/scontri-venezia-fertitta-corteo-notizie/8452035/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Spagna e Argentina oltre Messi e Yamal: chi sono i guardiani dei re",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/18/news/spagna_argentina_finale_mondiali_storia_statistiche-425478437/",
-        "https://www.ilmessaggero.it/sport/schede/spagna_argentina_dove_vederla_chiaro_4k_orario_probabili_formazioni-9658568.html",
-        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/18/news/spagna_argentina_oltre_messi_yamal-425478018/",
-        "https://www.ilgiornale.it/news/calcio/argentina-e-spagna-schierano-nove-giocatori-dellatletico-2694947.html"
       ]
     }
   ]
