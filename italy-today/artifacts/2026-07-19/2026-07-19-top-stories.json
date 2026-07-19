@@ -1,79 +1,82 @@
 {
   "date": "2026-07-19",
-  "generated_at": "Sun 19 Jul 08:31",
+  "generated_at": "Sun 19 Jul 10:42",
   "stories": [
     {
       "rank": 1,
       "title": "Milano, interrotto il concerto di Bad Bunny per forte temporale. Spettatori feriti",
-      "source_count": 9,
-      "article_count": 11,
+      "source_count": 10,
+      "article_count": 14,
       "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
         "ilfattoquotidiano.it",
+        "repubblica.it",
         "ilmessaggero.it",
         "adnkronos.com",
         "lastampa.it",
-        "ilgiornale.it",
-        "ansa.it",
         "liberoquotidiano.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/videogallery/spettacolo/2026/07/19/violenta-grandinata-su-milano-interrotto-il-concerto-di-bad-bunny_db1a1262-6e03-4a45-b2cb-57cd019d6b24.html",
+        "https://www.ilgiornale.it/news/musica/bad-bunny-maltempo-ferma-concerto-milano-niente-recupero-2695548.html",
         "https://www.ilfattoquotidiano.it/2026/07/19/grandine-sul-concerto-di-bad-bunny-a-milano-ippodromo-evacuato-e-spettatori-feriti-lorganizzazione-levento-non-verra-recuperato-previsto-il-rimborso-completo/8452820/",
-        "https://www.ilmessaggero.it/persone/bad_bunny_milano_concerto_annullato_biglietti_rimborsati_cosa_fare-9660293.html",
-        "https://www.adnkronos.com/spettacoli/bad-bunny-biglietti-milano-rimborso-integrale_5eoyy4BE70u4YdUWRcIHES",
-        "https://www.lastampa.it/spettacoli/2026/07/19/video/maltempo_milano_concerto_bad_bunny_grandine_fan_feriti_rimborso-15693890/",
-        "https://www.ilgiornale.it/news/bad-bunny-doppia-fiesta-rovinata-maltempo-2695424.html"
+        "https://www.repubblica.it/spettacoli/musica/2026/07/19/news/bad_bunny_concerto_maltempo_rimborso_biglietti-425480083/",
+        "https://www.ilmessaggero.it/persone/bad_bunny_milano_concerto_annullato_biglietti_rimborsati_cosa_fare-9660293.html"
       ]
     },
     {
       "rank": 2,
+      "title": "Mondiali, la notte delle stelle",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/calcio/finale-dei-mondiali-madonna-bts-shakira-e-pausini-tutto-2695551.html",
+        "https://www.adnkronos.com/sport/mondiali-2026-analisi-finale-argentina-spagna-spin-factor_6QkZHEN4yygKnx2FBaVysJ",
+        "https://www.ilfattoquotidiano.it/2026/07/19/messi-spagna-argentina-mondiale-goat/8452857/",
+        "https://www.ilmessaggero.it/sport/schede/spagna_argentina_profezia_scaramanzia_arbitro_ultime_notizie_oggi-9660338.html",
+        "https://www.ilmessaggero.it/sport/schede/spagna_argentina_orario_dove_vederla_chiaro_rai_dazn_4k_messi_yamal_probabili_formazioni-9660324.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Bambina di 4 anni annega nella piscina di un hotel",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ilgiornale.it",
         "bologna.repubblica.it",
         "ansa.it",
         "lastampa.it",
-        "ilgiornale.it",
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/incubo-piscine-annegata-4-anni-2695410.html",
         "https://bologna.repubblica.it/cronaca/2026/07/19/news/milano_marittima_bambina_annegata_piscina_hotel-425479716/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/18/una-bimba-di-4-anni-e-annegata-nella-piscina-di-un-hotel_3677e745-331e-4580-89ce-2c9c049d53f7.html",
         "https://www.lastampa.it/cronaca/2026/07/19/news/a_quattro_anni_annega_nella_piscina_dell_albergo_a_quell_ora_era_chiusa-15693719/",
-        "https://www.ilgiornale.it/news/cronaca-nera/bambina-4-anni-annega-nella-piscina-hotel-2695364.html",
-        "https://www.ilfattoquotidiano.it/2026/07/18/bimba-annegata-piscina-milano-marittima-notizie/8452563/"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Mondiali, la notte delle stelle",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/schede/spagna_argentina_profezia_scaramanzia_arbitro_ultime_notizie_oggi-9660338.html",
-        "https://www.ilmessaggero.it/sport/schede/spagna_argentina_orario_dove_vederla_chiaro_rai_dazn_4k_messi_yamal_probabili_formazioni-9660324.html",
-        "https://www.adnkronos.com/sport/spagna-argentina-oggi-finale-mondiali-2026-orario-dove-vederla-tv-probabili-formazioni_2hgeeDztvYSKyuPev1uaPg",
-        "https://www.ilgiornale.it/news/calcio/rivelazione-cubars-e-spigoli-argentini-2695484.html",
-        "https://www.ilgiornale.it/news/calcio/quei-60-minuti-pi-peso-l-argentina-2695481.html"
+        "https://www.ilgiornale.it/news/cronaca-nera/bambina-4-anni-annega-nella-piscina-hotel-2695364.html"
       ]
     },
     {
       "rank": 4,
       "title": "Caso Roggero, Meloni: “Ho detto io a Nordio di attivarsi per la grazia. Pena spropositata: bisogna valutare stress e paura”",
-      "source_count": 6,
-      "article_count": 6,
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
         "adnkronos.com",
@@ -82,39 +85,61 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/politica/48605649/mario_roggero_giorgia_meloni_rompe_il_silenzio/",
         "https://www.ilfattoquotidiano.it/2026/07/19/gli-ho-detto-io-di-andare-avanti-meloni-rivendica-liniziativa-su-nordio-per-la-grazia-a-roggero/8452842/",
         "https://www.repubblica.it/politica/2026/07/19/news/roggero_meloni_nordio_grazia_pena-425480124/",
         "https://www.adnkronos.com/politica/caso-roggero-meloni-intervista-corsera_3jyeJusaTIhkjV15agNCy6",
-        "https://www.ilgiornale.it/news/interni/roggero-era-situazione-forte-stress-giorgia-meloni-rompe-2695522.html",
-        "https://www.lastampa.it/politica/2026/07/19/news/meloni_sproporzionata_la_pena_per_roggero_si_ho_detto_io_a_nordio_di_attivarsi_per_la_grazia-15693882/"
+        "https://www.ilgiornale.it/news/interni/roggero-era-situazione-forte-stress-giorgia-meloni-rompe-2695522.html"
       ]
     },
     {
       "rank": 5,
+      "title": "L'influencer della 'manosfera' Andrew Tate e il fratello Tristan arrestati a Miami",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it",
+        "ansa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/19/fratelli-tate-arrestati-miami-estradizione-notizie/8452881/",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/i-fratelli-tate-arrestati-miami-chi-sono-influencer-2695535.html",
+        "https://www.adnkronos.com/internazionale/esteri/andrew-tate-fratello-tristan-arresto-miami_5Ym18PYuj9pUJ5wf4yZoS9",
+        "https://www.lastampa.it/esteri/2026/07/19/news/fratelli_tate_andrew_tate_tristan_tate_arrestati_miami_stupro_traffico_sessuale_incel-15693831/",
+        "https://www.repubblica.it/esteri/2026/07/19/news/andrew_tristan_tate_arrestato_miami_influencer_manosfera-425479928/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "L’Inghilterra stende la Francia 6-4 e chiude al terzo posto. Oggi la finale Spagna-Argentina",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
-        "ansa.it",
         "repubblica.it",
+        "ansa.it",
         "ilfattoquotidiano.it",
         "lastampa.it",
         "ilmessaggero.it"
       ],
       "links": [
         "https://www.ilgiornale.it/news/calcio/l-inghilterra-stende-francia-6-4-e-chiude-terzo-posto-oggi-2695538.html",
+        "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/19/news/mbappe_francia_inghilterra_record_commento-425480104/",
         "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/19/mondiali-francia-inghilterra-sullottovolante-ai-tre-leoni-il-festival-del-gol_3328c925-0135-4e34-b1ac-7c89f11c0c12.html",
         "https://www.repubblica.it/sport/dossier/mondiali-calcio/2026/07/19/news/inghilterra_francia_6-4_record_mbappe-425479918/",
-        "https://www.ilfattoquotidiano.it/2026/07/19/mondiali-2026-classifica-marcatori-diretta/8416941/",
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/19/news/mondiali_l_inghilterra_chiude_terza_francia_battuta_6-4-15693802/"
+        "https://www.ilfattoquotidiano.it/2026/07/19/mondiali-2026-classifica-marcatori-diretta/8416941/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Tragedia nell'Adda, annegano un bambino di quattro anni e suo zio",
       "source_count": 5,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
         "ilgiornale.it",
         "milano.repubblica.it",
@@ -123,89 +148,73 @@
         "liberoquotidiano.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/politica/muore-nelladda-nipotino-e-nel-garda-c-disperso-2695411.html",
         "https://www.ilgiornale.it/news/nipote-si-tuffa-zio-prova-salvarlo-annegati-2695433.html",
         "https://milano.repubblica.it/cronaca/2026/07/19/news/bimbo_annega_adda_zio_muore_garda_sirmione_salvato-425479578/",
         "https://www.ilmessaggero.it/persone/soccorre_nipote_fiume_annega_poche_ore_dopo_muore_bimbo-9659353.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/18/tragedia-nelladda-annegano-un-bambino-di-quattro-anni-e-suo-zio_ba59ca32-797f-4c9f-8de9-53e1a80a437e.html",
-        "https://www.ilgiornale.it/news/nazionale/si-tuffa-nel-garda-salvare-bambino-e-non-riemerge-2695379.html"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Caso Roggero, Salvini: Sarei orgoglioso di poterlo candidare",
-      "source_count": 4,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/non-pericoloso-rispetto-sentenza-serve-umanit-penso-ai-2695392.html",
-        "https://www.repubblica.it/politica/2026/07/19/news/salvini_roggero_bollate_candidatura_lega-425479761/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48600042/caso-roggero-salvini-sarei-orgoglioso-di-poterlo-candidare/",
-        "https://www.liberoquotidiano.it/news/libero-video/48599502/caso-roggero-salvini-no-pressione-mattarella-scegliera-liberamente/",
-        "https://www.ansa.it/sito/videogallery/italia/2026/07/18/caso-roggero-salvini-sarei-orgoglioso-di-poterlo-candidare_ee0c35cd-a3b6-4e96-ba93-67246d766554.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/18/tragedia-nelladda-annegano-un-bambino-di-quattro-anni-e-suo-zio_ba59ca32-797f-4c9f-8de9-53e1a80a437e.html"
       ]
     },
     {
       "rank": 8,
-      "title": "Caro-carburanti, il gasolio sfiora 2,7 euro al litro",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Borsellino, Mattarella: \"Sconfitto il disegno eversivo di via D'Amelio, la Repubblica è più forte\"",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
+        "palermo.repubblica.it",
         "ilgiornale.it",
-        "ilmanifesto.it",
         "ansa.it",
-        "ilmessaggero.it",
+        "adnkronos.com",
+        "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/cronaca-locale/caro-carburante-milano-record-gasolio-27-euro-litro-2695451.html",
-        "https://ilmanifesto.it/gasolio-record-27-euro-al-litro",
-        "https://www.ansa.it/sito/notizie/economia/2026/07/18/caro-carburanti-il-gasolio-sfiora-27-euro-al-litro_e946ba16-f147-46e3-bbe6-5f641562d2ac.html",
-        "https://www.ilmessaggero.it/economia/schede/benzina_diesel_dove_costano_di_piu_mappa_prezzi-9659066.html",
-        "https://www.ilsole24ore.com/art/gasolio-183-cent-15-giorni-prezzi-risaliti-livelli-marzo-AJdYKwO"
+        "https://palermo.repubblica.it/cronaca/2026/07/19/news/borsellino_mattarella_commemorazione_palermo-425480301/",
+        "https://www.ilgiornale.it/news/interni/mattarella-borsellino-e-falcone-simbolo-riscossa-civile-2695540.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/18/via-damelio-34-anni-dopo-la-strage-che-continua-a-interrogare-litalia_7a2b8271-7dcd-4fb5-88d6-2719608eeeca.html",
+        "https://www.adnkronos.com/politica/strage-via-d-amelio-borsellino-scorta-messaggio-mattarella_58ZJMY920jgG9sIURtKMT0",
+        "https://www.lastampa.it/politica/2026/07/19/news/mafia_mattarella_via_d_amelio_repubblica_piu_forte-15693894/"
       ]
     },
     {
       "rank": 9,
-      "title": "L'influencer della 'manosfera' Andrew Tate e il fratello Tristan arrestati a Miami",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Facebook e Instagram down in tutto il mondo, «Account non disponibile al momento»: ecco cosa sta succedendo",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
-        "ilgiornale.it",
         "adnkronos.com",
-        "lastampa.it",
+        "ansa.it",
         "repubblica.it",
-        "ansa.it"
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/cronaca-internazionale/i-fratelli-tate-arrestati-miami-chi-sono-influencer-2695535.html",
-        "https://www.adnkronos.com/internazionale/esteri/andrew-tate-fratello-tristan-arresto-miami_5Ym18PYuj9pUJ5wf4yZoS9",
-        "https://www.lastampa.it/esteri/2026/07/19/news/fratelli_tate_andrew_tate_tristan_tate_arrestati_miami_stupro_traffico_sessuale_incel-15693831/",
-        "https://www.repubblica.it/esteri/2026/07/19/news/andrew_tristan_tate_arrestato_miami_influencer_manosfera-425479928/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/19/fratelli-tate-arrestati-a-miami-in-seguito-a-richiesta-di-estradizione-gb_9b4480f9-bb27-48bc-8de9-38870aabbfac.html"
+        "https://www.adnkronos.com/economia/facebook-instagram-down-oggi-19-luglio_2r8mFUiPFPLfd17fVjCKci",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/facebook-e-instagram-in-down-questa-mattina_f9d58b51-a37c-4dad-a41d-84ad928df484.html",
+        "https://www.repubblica.it/cronaca/2026/07/19/news/facebook_e_instagram_down_in_tutto_il_mondo_cosa_sta_succedendo-425480330/",
+        "https://www.ilfattoquotidiano.it/2026/07/19/il-tuo-account-non-e-al-momento-disponibile-a-causa-di-un-problema-del-sito-facebook-down-oggi-cosa-sta-succedendo/8452871/",
+        "https://www.ilmessaggero.it/social/facebook_down_account_non_disponibile_cosa_sta_succedendo-9660356.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Raid e missili, morti due soldati Usa in Giordania. Khamenei: \"La firma di Trump sul memorandum è priva di valore\"",
-      "source_count": 4,
-      "article_count": 5,
+      "title": "L’estate cambia volto: quando arriva il drastico calo delle temperature",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
         "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilgiornale.it"
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/18/usa-nuovi-attacchi-contro-liran-in-risposta-a-raid-in-giordania_dfb6e694-f464-4ed9-86e5-90774f489a62.html",
-        "https://www.repubblica.it/esteri/2026/07/19/news/iran_usa_attacchi_uccisi_due_soldati_khamenei_accordo-425479569/",
-        "https://www.repubblica.it/esteri/2026/07/19/diretta/guerra_iran_usa_israele_news_oggi-425479806/",
-        "https://www.lastampa.it/esteri/2026/07/19/diretta/guerra_iran_usa_israele_news_oggi-15693757/",
-        "https://www.ilgiornale.it/news/guerra/raid-e-missili-usa-e-iran-feriti-soldati-americani-giordania-2695200.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/19/ancora-caldo-al-centro-sud-e-forti-temporali-al-nord-da-martedi-calo-temperature_a20f6d74-ed72-4844-98a5-c0e7d10fa072.html",
+        "https://www.ilmessaggero.it/schede/caldo_tregua_aria_fresca_quanto_durera_dove_quando-9660416.html",
+        "https://www.ilgiornale.it/news/meteo-e-clima/l-estate-cambia-volto-quando-arriva-drastico-calo-delle-2695546.html",
+        "https://www.adnkronos.com/cronaca/caldo-record-maltempo-previsioni-oggi-19-luglio_6mhNqgZygyvfEltRqk3S61",
+        "https://www.adnkronos.com/cronaca/caldo-record-bollettino-ondate-calore-oggi-19-luglio_7BY8WqBVQmvx9E4YrGsHjI"
       ]
     }
   ]
