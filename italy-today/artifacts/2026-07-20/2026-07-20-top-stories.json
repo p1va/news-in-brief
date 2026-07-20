@@ -1,6 +1,6 @@
 {
   "date": "2026-07-20",
-  "generated_at": "Mon 20 Jul 19:56",
+  "generated_at": "Mon 20 Jul 20:29",
   "stories": [
     {
       "rank": 1,
@@ -26,8 +26,8 @@
     {
       "rank": 2,
       "title": "Iran, ondata di attacchi Usa. Trump: \"In onore dei soldati caduti\"",
-      "source_count": 8,
-      "article_count": 15,
+      "source_count": 7,
+      "article_count": 13,
       "source_domains": [
         "ansa.it",
         "ilgiornale.it",
@@ -35,7 +35,6 @@
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "repubblica.it",
-        "lastampa.it",
         "news.google.com"
       ],
       "links": [
@@ -70,28 +69,6 @@
     },
     {
       "rank": 4,
-      "title": "Spagna campione del mondo: batte l’Argentina in 10. 1-0 ai supplementari grazie a Ferran Torres. L'addio di Messi",
-      "source_count": 7,
-      "article_count": 12,
-      "source_domains": [
-        "lastampa.it",
-        "adnkronos.com",
-        "ilgiornale.it",
-        "ansa.it",
-        "laverita.info",
-        "liberoquotidiano.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/20/video/yamal_prega_nico_williams_medaglia_madre_finale-15694999/",
-        "https://www.adnkronos.com/sport/spagna-argentina-mondiali-coppa-finale-caos-furia_4sTZGLZZGbLmqCURCGBCmy",
-        "https://www.adnkronos.com/sport/spagna-yamal-mondiali-video-festa_s48OxZVn3xVw9Pmn2lhbP",
-        "https://www.ilgiornale.it/news/sport/leuropeo-roja-conquista-mondiale-16-anni-primo-contro-2695709.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/20/trionfo-della-spagna-batte-largentina-e-conquista-il-mondiale-americano-_b85bb8ac-f699-4636-a889-2c6ae0002c5b.html"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Maxi-operazione contro baby gang in 44 province, 539 arresti",
       "source_count": 7,
       "article_count": 10,
@@ -113,28 +90,29 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Ucraina, attacco su Mosca: colpiti depositi di petrolio, colonne di fumo sulla città. Distrutte navi della flotta ombra nel Mar Nero",
-      "source_count": 6,
-      "article_count": 9,
+      "rank": 5,
+      "title": "Spagna sul tetto del mondo, Argentina ko: Messi saluta in lacrime",
+      "source_count": 7,
+      "article_count": 10,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilgiornale.it",
+        "lastampa.it",
         "adnkronos.com",
-        "lastampa.it"
+        "ilgiornale.it",
+        "ansa.it",
+        "laverita.info",
+        "liberoquotidiano.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48617204/vasto-attacco-di-droni-ucraini-contro-centri-logistici-russi/",
-        "https://www.ilmessaggero.it/mondo/ucraina_attacco_mosca_oggi_cosa_e_successo-9662058.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/20/zelensky-colpite-due-petroliere-della-flotta-ombra-russa-e-quattro-mercantili_93416d3d-9ce4-48e6-b9bf-3acf5e43b95c.html",
-        "https://www.ilgiornale.it/news/guerra/tempesta-missili-e-droni-strage-kiev-2695821.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48612646/massiccio-raid-russo-su-kiev-lanciati-oltre-40-razzi-e-120-droni/"
+        "https://www.lastampa.it/sport/speciali/mondiali-calcio-2026/2026/07/20/video/yamal_prega_nico_williams_medaglia_madre_finale-15694999/",
+        "https://www.adnkronos.com/sport/spagna-argentina-mondiali-coppa-finale-caos-furia_4sTZGLZZGbLmqCURCGBCmy",
+        "https://www.adnkronos.com/sport/spagna-yamal-mondiali-video-festa_s48OxZVn3xVw9Pmn2lhbP",
+        "https://www.ilgiornale.it/news/sport/leuropeo-roja-conquista-mondiale-16-anni-primo-contro-2695709.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/20/trionfo-della-spagna-batte-largentina-e-conquista-il-mondiale-americano-_b85bb8ac-f699-4636-a889-2c6ae0002c5b.html"
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Mondiali, Trump consegna la coppa alla Spagna",
       "source_count": 5,
       "article_count": 9,
@@ -154,7 +132,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "In sei coinvolti per la morte di Fakir, il pm applica lo scudo",
       "source_count": 5,
       "article_count": 9,
@@ -171,6 +149,26 @@
         "https://www.ilmessaggero.it/italia/fakir_cosa_sappiamo_cosa_e_successo_davvero-9662290.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/in-sei-coinvolti-per-la-morte-di-fakir-il-pm-applica-lo-scudo_667f2cb6-3f79-46b0-a3e1-b09a0467b0cf.html",
         "https://www.ilmessaggero.it/italia/fakir_crisi_psichiatrica_telefonata_118_ricostruzione_video_cosa_e_successo-9662076.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "La Spagna sul tetto del mondo, la fiesta a Madrid per la Roja",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48618202/sanchez-riceve-nazionale-spagnola-a-palazzo-della-moncloa-la-foto-di-gruppo-con-la-coppa-del-mondo/",
+        "https://www.adnkronos.com/sport/felipe-vi-spagna-mondiali-rodri-de-la-fuente_6D9wExKl2oIY1N8oc41aXj",
+        "https://www.ilmessaggero.it/sport/calcio/spagna_festa_mondiali_famiglia_reale_ricevimento_cosa_e_successo-9662472.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48617417/spagna-campione-del-mondo-dal-premier-pedro-sanchez/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/20/mondiali-la-spagna-atterra-a-madrid-ora-i-ricevimenti-dal-re-e-dal-premier_3d67ed45-ff39-44ff-bda0-e0ea1293b45a.html"
       ]
     },
     {
