@@ -1,12 +1,12 @@
 {
   "date": "2026-07-21",
-  "generated_at": "Tue 21 Jul 16:31",
+  "generated_at": "Tue 21 Jul 18:23",
   "stories": [
     {
       "rank": 1,
       "title": "È morto Daniele Compatangelo, corrispondente La7 a Washington. Sua l’intervista a Trump con attacchi a Meloni",
       "source_count": 8,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
         "liberoquotidiano.it",
         "ilmessaggero.it",
@@ -18,18 +18,18 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/spettacoli/televisione/48626473/morte-compatangelo-dolore-parenzo-cosa-insegnato/",
         "https://www.liberoquotidiano.it/news/personaggi/48620335/daniele-compatangelo-la-scena-in-tv-pochi-giorni-prima-di-morire-strappa-l-erba-e-falla-vedere-/",
         "https://www.ilmessaggero.it/schede/daniele_compatangelo_giornalista_morte_causa_morte_com_e_morto_eta_chi_era-9663786.html",
         "https://www.liberoquotidiano.it/news/personaggi/48619373/dario-compatangelo-morto-improvviso-choc-la7-mese-fa-telefonata-scoop-trump/",
-        "https://www.ansa.it/sito/notizie/politica/2026/07/20/e-morto-daniele-compatangelo-corrispondente-la7-a-washington_b571a845-f8ee-4d17-8f14-97dfcb03b129.html",
-        "https://www.ilgiornale.it/news/nazionale/morto-daniele-compatangelo-corrispondente-la7-washington-sua-2696080.html"
+        "https://www.ansa.it/sito/notizie/politica/2026/07/20/e-morto-daniele-compatangelo-corrispondente-la7-a-washington_b571a845-f8ee-4d17-8f14-97dfcb03b129.html"
       ]
     },
     {
       "rank": 2,
       "title": "Festa in Spagna, due milioni in strada a Madrid per la vittoria del Mondiale",
       "source_count": 4,
-      "article_count": 14,
+      "article_count": 13,
       "source_domains": [
         "adnkronos.com",
         "ansa.it",
@@ -46,49 +46,97 @@
     },
     {
       "rank": 3,
-      "title": "Bologna, in piazza per la verità su Fakir: poi tensione e scontri",
+      "title": "Dazi, il Financial Times: Trump pronto a imporre nuove tariffe a decine di Paesi",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/21/dazi-trump-canada-60-paesi-notizie/8455055/",
+        "https://www.ilmessaggero.it/mondo/trump_nuovi_dazi_quando_dove_paesi-9664291.html",
+        "https://www.repubblica.it/economia/2026/07/21/news/trump_nuovi_dazi_paesi-425484205/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/21/trump-pronto-a-imporre-nuovi-dazi-a-decine-di-paesi-da-questa-settimana_4e293ee1-2297-408f-9702-f6761c974411.html",
+        "https://www.lastampa.it/esteri/2026/07/21/news/dazi_trump_nuove_tariffe-15695487/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Scontri a Bologna, Meloni: inaccettabile violenza contro Forze dell’ordine",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "bologna.repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/meloni-a-bologna-fatto-inaccettabile.-lepore-chiedere-la-verita-non-delegittima-le-divise_5e512a40-7ef6-47a1-8d8c-b364832957c4.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/meloni-a-bologna-fatto-inaccettabile-accertare-la-verita-con-rigore.-in-citta-guerriglia_5e512a40-7ef6-47a1-8d8c-b364832957c4.html",
+        "https://www.ilfattoquotidiano.it/2026/07/21/morte-fakir-meloni-bologna-polizia-notizie/8454654/",
+        "https://www.ilgiornale.it/news/nazionale/morte-fakir-meloni-irresponsabile-alimentare-clima-dodio-2696266.html",
+        "https://www.ilmessaggero.it/politica/fakir_bologna_meloni_verita_morte_cosa_ha_detto-9664035.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Bologna, scontri al corteo per Fakir: bomba carta, idranti e lacrimogeni",
       "source_count": 7,
       "article_count": 9,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
+        "lastampa.it",
         "laverita.info",
         "ilgiornale.it",
         "ilmanifesto.it",
-        "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
         "https://www.liberoquotidiano.it/news/libero-video/48622890/manifestazione-fakir-strade-spaccate-attivisti-raccolgono-pietre-per-scontri/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/guerriglia-a-bologna-fino-a-notte-incendiata-anche-unauto-del-comune_5e512a40-7ef6-47a1-8d8c-b364832957c4.html",
+        "https://www.lastampa.it/cronaca/2026/07/21/video/bologna_il_giorno_dopo_gli_scontri_vetrine_sfondate_e_minacce_sui_muri-15695406/",
         "https://www.liberoquotidiano.it/news/tv-news/48620831/bologna-in-piazza-per-la-verita-su-fakir-poi-tensione-e-scontri/",
-        "https://www.laverita.info/video/bozza-automaticascontri-fakir-bologna",
-        "https://www.ilgiornale.it/news/nazionale/bologna-sinistra-corteo-fakir-momenti-tensione-e-insulti-2696068.html"
+        "https://www.laverita.info/video/bozza-automaticascontri-fakir-bologna"
       ]
     },
     {
-      "rank": 4,
-      "title": "Fedez in pronto soccorso a Milano: portato nell’ospedale in cui è stato operato nel 2023",
-      "source_count": 6,
-      "article_count": 10,
+      "rank": 6,
+      "title": "Como, bimba di 10 anni si tuffa nelle acque del lago e scompare: ricerche in corso",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "milano.repubblica.it",
         "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilgiornale.it",
+        "milano.repubblica.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/spettacoli/48624971/fedez-cresce-ansia-resta-ricoverato-cosa-trapela-fatebenefratelli/",
-        "https://www.ilgiornale.it/news/personaggi/fedez-resta-ricoverato-ospedale-malore-sta-rapper-e-cosa-2696318.html",
-        "https://www.ansa.it/sito/notizie/cultura/musica/2026/07/21/fedez-ancora-ricoverato-allospedale-fatebenefratelli-di-milano_016c8c63-375c-40e5-8313-d26fc12fe333.html",
-        "https://milano.repubblica.it/cronaca/2026/07/21/news/fedez_ricoverato_ospedale_riapertura_vecchia_ulcera_fatebenefratelli-425483985/",
-        "https://www.ilfattoquotidiano.it/2026/07/21/fedez-ambulanza-fatebenefratelli-ricoverato-operato-urgenza/8454462/"
+        "https://www.ilfattoquotidiano.it/2026/07/21/bambina-dispersa-lago-como-notizie/8455063/",
+        "https://www.liberoquotidiano.it/news/italia/48626474/lago-como-bambina-10-anni-tuffa-non-riemerge/",
+        "https://www.adnkronos.com/cronaca/como-bambina-scomparsa-10-anni_6IXEXyOuFFw7aYBTPWO0Gx",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/a-como-una-bimba-di-10-anni-scompare-nelle-acque-del-lago_08a4d3ac-4d48-4018-91b7-9af2475b7b2b.html",
+        "https://www.ilmessaggero.it/italia/bambina_scomparsa_lago_di_como_annegata_cosa_e_successo-9664364.html"
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Precipita dal terrazzo di casa, morto l’attore Pippo Di Marca: “Sono malato, non è la vita che voglio”",
       "source_count": 7,
       "article_count": 8,
@@ -110,96 +158,33 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Dazi, il Financial Times: Trump pronto a imporre nuove tariffe a decine di Paesi",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/mondo/trump_nuovi_dazi_quando_dove_paesi-9664291.html",
-        "https://www.repubblica.it/economia/2026/07/21/news/trump_nuovi_dazi_paesi-425484205/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/21/trump-pronto-a-imporre-nuovi-dazi-a-decine-di-paesi-da-questa-settimana_4e293ee1-2297-408f-9702-f6761c974411.html",
-        "https://www.lastampa.it/esteri/2026/07/21/news/dazi_trump_nuove_tariffe-15695487/",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/dazi-trump-riaccende-scontro-canada-nuovi-dazi-fino-50-e-2696209.html"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Scontri a Bologna, Meloni: inaccettabile violenza contro Forze dell’ordine",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "bologna.repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/meloni-a-bologna-fatto-inaccettabile-accertare-la-verita-con-rigore.-in-citta-guerriglia_5e512a40-7ef6-47a1-8d8c-b364832957c4.html",
-        "https://www.ilfattoquotidiano.it/2026/07/21/morte-fakir-meloni-bologna-polizia-notizie/8454654/",
-        "https://www.ilgiornale.it/news/nazionale/morte-fakir-meloni-irresponsabile-alimentare-clima-dodio-2696266.html",
-        "https://www.liberoquotidiano.it/news/politica/48622070/manifestazione-fakir-pugno-duro-meloni-atto-grave-irresponsabilita/",
-        "https://www.lastampa.it/politica/2026/07/21/news/caso_fakir_meloni_polizia-15695439/"
-      ]
-    },
-    {
       "rank": 8,
       "title": "Riapre la gioielleria di Roggero, nel negozio la moglie e la figlia: “Non parliamo coi giornalisti”",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "laverita.info",
         "ansa.it",
+        "laverita.info",
         "lastampa.it",
         "ilgiornale.it",
         "ilmessaggero.it",
         "torino.repubblica.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/la-difesa-di-roggero-reitera-listanza-di-differimento-della-pena-al-tribunale-di-sorveglianza-di-milano_b8c78b1b-c0be-45a4-bcdf-3090f3bd6d18.html",
         "https://www.laverita.info/video/roggero-moglie-carcere",
         "https://www.laverita.info/video/riapre-gioielleria-roggero",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/riaperta-la-gioielleria-di-roggero-fuori-un-cartello-nessuna-dichiarazione_b8c78b1b-c0be-45a4-bcdf-3090f3bd6d18.html",
-        "https://www.lastampa.it/cuneo/2026/07/21/video/la_moglie_di_roggero_riapre_la_gioielleria_ci_sentiamo_ancora_a_rischio-15695541/",
-        "https://www.ilgiornale.it/news/nazionale/famiglia-roggero-va-avanti-riaperta-gioielleria-2696241.html"
+        "https://www.lastampa.it/cuneo/2026/07/21/video/la_moglie_di_roggero_riapre_la_gioielleria_ci_sentiamo_ancora_a_rischio-15695541/"
       ]
     },
     {
       "rank": 9,
-      "title": "Si cercano i video, disposta l'autopsia: a che punto sono le indagini sulla morte di Fakir",
-      "source_count": 5,
+      "title": "Guardiola ct e il calcio italiano rivoluzionato: il piano di Maldini",
+      "source_count": 7,
       "article_count": 7,
       "source_domains": [
-        "ilgiornale.it",
-        "laverita.info",
-        "lastampa.it",
-        "bologna.repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-giudiziaria/si-cercano-i-video-disposta-lautopsia-che-punto-sono-2696412.html",
-        "https://www.ilgiornale.it/news/politica/video-allesame-procura-bodycam-comprata-dallagente-2696092.html",
-        "https://www.laverita.info/cronache-dellinvasione/morte-abderrahim-fakir",
-        "https://www.lastampa.it/cronaca/2026/07/21/news/fakir_bologna_nuova_norma_scudo_penale_cosa_e-15695339/",
-        "https://bologna.repubblica.it/cronaca/2026/07/21/news/inchiesta_morte_fakir_scudo_penale-425483297/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Guardiola ct e il calcio italiano rivoluzionato: il piano di Maldini",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
+        "ansa.it",
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "laverita.info",
@@ -208,11 +193,31 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/07/21/mancini-o-pirlo-e-il-sogno-guardiola-litalia-e-il-nodo-panchina_8e6f0a56-00c5-4c65-9049-4db15f93bd74.html",
         "https://www.ilfattoquotidiano.it/2026/07/21/guardiola-ct-italia-maldini-leonardo-news-oggi-progetto-azzurro/8454930/",
         "https://www.liberoquotidiano.it/news/sport/48621929/_no_di_guardiola_gelo-azzurro_ecco_che_nome_prende_quota/",
         "https://www.laverita.info/storie-di-sport/guardiola-italia-ct",
-        "https://www.ilgiornale.it/news/sport/nazionale-senza-ct-mossa-malag-dietro-vertice-barcellona-2696121.html",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/21/news/guardiola_ct_nazionale_maldini_leonardo_barcellona-425483281/"
+        "https://www.ilgiornale.it/news/sport/nazionale-senza-ct-mossa-malag-dietro-vertice-barcellona-2696121.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Fedez in pronto soccorso a Milano: portato nell’ospedale in cui è stato operato nel 2023",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "milano.repubblica.it",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/spettacoli/48624971/fedez-cresce-ansia-resta-ricoverato-cosa-trapela-fatebenefratelli/",
+        "https://www.ilgiornale.it/news/personaggi/fedez-resta-ricoverato-ospedale-malore-sta-rapper-e-cosa-2696318.html",
+        "https://www.ansa.it/sito/notizie/cultura/musica/2026/07/21/fedez-ancora-ricoverato-allospedale-fatebenefratelli-di-milano_016c8c63-375c-40e5-8313-d26fc12fe333.html",
+        "https://milano.repubblica.it/cronaca/2026/07/21/news/fedez_ricoverato_ospedale_riapertura_vecchia_ulcera_fatebenefratelli-425483985/",
+        "https://www.ilfattoquotidiano.it/2026/07/21/fedez-ambulanza-fatebenefratelli-ricoverato-operato-urgenza/8454462/"
       ]
     }
   ]
