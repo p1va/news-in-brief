@@ -1,31 +1,9 @@
 {
   "date": "2026-07-21",
-  "generated_at": "Tue 21 Jul 19:48",
+  "generated_at": "Tue 21 Jul 20:25",
   "stories": [
     {
       "rank": 1,
-      "title": "È morto Daniele Compatangelo, corrispondente La7 a Washington. Sua l’intervista a Trump con attacchi a Meloni",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "repubblica.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/spettacoli/televisione/48626473/morte-compatangelo-dolore-parenzo-cosa-insegnato/",
-        "https://www.liberoquotidiano.it/news/personaggi/48620335/daniele-compatangelo-la-scena-in-tv-pochi-giorni-prima-di-morire-strappa-l-erba-e-falla-vedere-/",
-        "https://www.ilmessaggero.it/schede/daniele_compatangelo_giornalista_morte_causa_morte_com_e_morto_eta_chi_era-9663786.html",
-        "https://www.liberoquotidiano.it/news/personaggi/48619373/dario-compatangelo-morto-improvviso-choc-la7-mese-fa-telefonata-scoop-trump/",
-        "https://www.ansa.it/sito/notizie/politica/2026/07/20/e-morto-daniele-compatangelo-corrispondente-la7-a-washington_b571a845-f8ee-4d17-8f14-97dfcb03b129.html"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Festa in Spagna, due milioni in strada a Madrid per la vittoria del Mondiale",
       "source_count": 4,
       "article_count": 13,
@@ -44,7 +22,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Dazi, il Financial Times: Trump pronto a imporre nuove tariffe a decine di Paesi",
       "source_count": 8,
       "article_count": 9,
@@ -67,7 +45,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Scontri a Bologna, Meloni: inaccettabile violenza contro Forze dell’ordine",
       "source_count": 8,
       "article_count": 9,
@@ -90,29 +68,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Bologna, scontri al corteo per Fakir: bomba carta, idranti e lacrimogeni",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "lastampa.it",
-        "laverita.info",
-        "ilgiornale.it",
-        "ilmanifesto.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/48622890/manifestazione-fakir-strade-spaccate-attivisti-raccolgono-pietre-per-scontri/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/guerriglia-a-bologna-fino-a-notte-incendiata-anche-unauto-del-comune_5e512a40-7ef6-47a1-8d8c-b364832957c4.html",
-        "https://www.lastampa.it/cronaca/2026/07/21/video/bologna_il_giorno_dopo_gli_scontri_vetrine_sfondate_e_minacce_sui_muri-15695406/",
-        "https://www.liberoquotidiano.it/news/tv-news/48620831/bologna-in-piazza-per-la-verita-su-fakir-poi-tensione-e-scontri/",
-        "https://www.laverita.info/video/bozza-automaticascontri-fakir-bologna"
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 4,
       "title": "Como, bimba di 10 anni si tuffa nelle acque del lago e scompare: ricerche in corso",
       "source_count": 8,
       "article_count": 8,
@@ -135,7 +91,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "Precipita dal terrazzo di casa, morto l’attore Pippo Di Marca: “Sono malato, non è la vita che voglio”",
       "source_count": 7,
       "article_count": 8,
@@ -157,7 +113,28 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "title": "È morto Daniele Compatangelo, corrispondente La7 a Washington. Sua l’intervista a Trump con attacchi a Meloni",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/spettacoli/televisione/48626473/morte-compatangelo-dolore-parenzo-cosa-insegnato/",
+        "https://www.liberoquotidiano.it/news/personaggi/48620335/daniele-compatangelo-la-scena-in-tv-pochi-giorni-prima-di-morire-strappa-l-erba-e-falla-vedere-/",
+        "https://www.ilmessaggero.it/schede/daniele_compatangelo_giornalista_morte_causa_morte_com_e_morto_eta_chi_era-9663786.html",
+        "https://www.liberoquotidiano.it/news/personaggi/48619373/dario-compatangelo-morto-improvviso-choc-la7-mese-fa-telefonata-scoop-trump/",
+        "https://www.ansa.it/sito/notizie/politica/2026/07/20/e-morto-daniele-compatangelo-corrispondente-la7-a-washington_b571a845-f8ee-4d17-8f14-97dfcb03b129.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Riapre la gioielleria di Roggero, nel negozio la moglie e la figlia: “Non parliamo coi giornalisti”",
       "source_count": 6,
       "article_count": 9,
@@ -178,32 +155,53 @@
       ]
     },
     {
+      "rank": 8,
+      "title": "Bologna, in piazza per la verità su Fakir: poi tensione e scontri",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "laverita.info",
+        "ilgiornale.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/48622890/manifestazione-fakir-strade-spaccate-attivisti-raccolgono-pietre-per-scontri/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/guerriglia-a-bologna-fino-a-notte-incendiata-anche-unauto-del-comune_5e512a40-7ef6-47a1-8d8c-b364832957c4.html",
+        "https://www.lastampa.it/cronaca/2026/07/21/video/bologna_il_giorno_dopo_gli_scontri_vetrine_sfondate_e_minacce_sui_muri-15695406/",
+        "https://www.liberoquotidiano.it/news/tv-news/48620831/bologna-in-piazza-per-la-verita-su-fakir-poi-tensione-e-scontri/",
+        "https://www.laverita.info/video/bozza-automaticascontri-fakir-bologna"
+      ]
+    },
+    {
       "rank": 9,
-      "title": "Guardiola ct e il calcio italiano rivoluzionato: il piano di Maldini",
+      "title": "Meloni prende le distanze dal video di Vannacci, ma avverte la sinistra: \"Condanni i suoi doppi standard”",
       "source_count": 7,
       "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "laverita.info",
         "ilgiornale.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
         "repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/07/21/mancini-o-pirlo-e-il-sogno-guardiola-litalia-e-il-nodo-panchina_8e6f0a56-00c5-4c65-9049-4db15f93bd74.html",
-        "https://www.ilfattoquotidiano.it/2026/07/21/guardiola-ct-italia-maldini-leonardo-news-oggi-progetto-azzurro/8454930/",
-        "https://www.liberoquotidiano.it/news/sport/48621929/_no_di_guardiola_gelo-azzurro_ecco_che_nome_prende_quota/",
-        "https://www.laverita.info/storie-di-sport/guardiola-italia-ct",
-        "https://www.ilgiornale.it/news/sport/nazionale-senza-ct-mossa-malag-dietro-vertice-barcellona-2696121.html"
+        "https://www.ilgiornale.it/news/interni/meloni-prende-distanze-video-vannacci-avverte-sinistra-2696456.html",
+        "https://www.ilmessaggero.it/politica/meloni_vannacci_video_attacco_sinistra_cosa_ha_detto-9664426.html",
+        "https://www.liberoquotidiano.it/news/politica/48626468/giorgia-meloni-roberto-vannacci-non-mia-politica/",
+        "https://www.repubblica.it/politica/2026/07/21/news/meloni_dissocia_video_vannacci_sinistra_odio_piazze_bologna-425484597/",
+        "https://www.adnkronos.com/politica/meloni-vannacci-video-ia_5cqsxYoF2xqJKIew86sx0V"
       ]
     },
     {
       "rank": 10,
-      "title": "Fedez in pronto soccorso a Milano: portato nell’ospedale in cui è stato operato nel 2023",
+      "title": "Resta in ospedale Fedez: il ricovero al Fatebenefratelli per la riapertura di una vecchia ulcera",
       "source_count": 5,
-      "article_count": 9,
+      "article_count": 8,
       "source_domains": [
         "liberoquotidiano.it",
         "ilgiornale.it",
