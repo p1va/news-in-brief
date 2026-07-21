@@ -1,47 +1,52 @@
 {
   "date": "2026-07-21",
-  "generated_at": "Tue 21 Jul 20:25",
+  "generated_at": "Tue 21 Jul 22:12",
   "stories": [
     {
       "rank": 1,
-      "title": "Festa in Spagna, due milioni in strada a Madrid per la vittoria del Mondiale",
-      "source_count": 4,
-      "article_count": 13,
+      "title": "Dazi, il Financial Times: Trump pronto a imporre nuove tariffe a decine di Paesi",
+      "source_count": 9,
+      "article_count": 11,
       "source_domains": [
         "adnkronos.com",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/spagna-montepremi-record-mondiali-beffa-dazi-trump_2bg35tUSLmQ8HPd09nHxlH",
-        "https://www.adnkronos.com/sport/spagna-de-la-fuente-video-cantante_4yR9cDDNKtHCjKKWiXz8Eh",
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/videogallery/2026/07/21/mondiali-la-spagna-ricevuta-dal-re-e-dal-premier_e5faa68b-171a-4f2a-a1ab-6702b6f4fd4e.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48621910/spagna-campione-mondo-festa-tifosi-madrid/",
-        "https://www.liberoquotidiano.it/news/libero-video/48621904/argentina-nazionale-riceve-omaggio-tifosi-buenos-aires/"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Dazi, il Financial Times: Trump pronto a imporre nuove tariffe a decine di Paesi",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
+        "ilmanifesto.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "repubblica.it",
         "ansa.it",
         "lastampa.it",
         "ilgiornale.it",
-        "adnkronos.com",
         "news.google.com"
       ],
       "links": [
+        "https://www.adnkronos.com/internazionale/esteri/trump-nuovi-dazi-60-paesi-rischio-guerra-commerciale_5BPRDMNkMmqF53gPZQBF0G",
+        "https://ilmanifesto.it/chi-si-rivede-i-dazi-ricomincia-la-guerra-tariffe-a-60-paesi",
         "https://www.ilfattoquotidiano.it/2026/07/21/dazi-trump-canada-60-paesi-notizie/8455055/",
         "https://www.ilmessaggero.it/mondo/trump_nuovi_dazi_quando_dove_paesi-9664291.html",
-        "https://www.repubblica.it/economia/2026/07/21/news/trump_nuovi_dazi_paesi-425484205/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/21/trump-pronto-a-imporre-nuovi-dazi-a-decine-di-paesi-da-questa-settimana_4e293ee1-2297-408f-9702-f6761c974411.html",
-        "https://www.lastampa.it/esteri/2026/07/21/news/dazi_trump_nuove_tariffe-15695487/"
+        "https://www.repubblica.it/economia/2026/07/21/news/trump_nuovi_dazi_paesi-425484205/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Precipita dal terrazzo di casa, morto l’attore Pippo Di Marca: “Sono malato, non è la vita che voglio”",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ilmanifesto.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/addio-a-pippo-di-marca",
+        "https://www.repubblica.it/spettacoli/teatro-danza/2026/07/21/news/pippo_di_marca_l_ultimo_visionario_dell_avanguardia_teatrale_italiana-425484375/",
+        "https://www.ilfattoquotidiano.it/2026/07/21/scusate-non-ce-la-faccio-piu-non-e-questa-la-vita-che-voglio-precipita-dal-terrazzo-di-casa-a-roma-morto-lattore-lattore-e-regista-pippo-di-marca-indagini-in-corso/8454695/",
+        "https://www.liberoquotidiano.it/news/personaggi/48622917/pippo_di_marca_si_e_suicidato_volo_dal_terrazzo_scusate_non_ce_la_faccio_piu_/",
+        "https://www.ilgiornale.it/news/cronaca-nera/morto-lattore-pippo-marca-caduto-terrazzo-casa-2696257.html"
       ]
     },
     {
@@ -71,7 +76,7 @@
       "rank": 4,
       "title": "Como, bimba di 10 anni si tuffa nelle acque del lago e scompare: ricerche in corso",
       "source_count": 8,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
@@ -92,45 +97,42 @@
     },
     {
       "rank": 5,
-      "title": "Precipita dal terrazzo di casa, morto l’attore Pippo Di Marca: “Sono malato, non è la vita che voglio”",
+      "title": "Resta in ospedale Fedez: il ricovero al Fatebenefratelli per la riapertura di una vecchia ulcera",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
         "ilgiornale.it",
-        "ansa.it",
         "adnkronos.com",
-        "lastampa.it"
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "milano.repubblica.it",
+        "ilfattoquotidiano.it"
       ],
       "links": [
-        "https://www.repubblica.it/spettacoli/teatro-danza/2026/07/21/news/pippo_di_marca_l_ultimo_visionario_dell_avanguardia_teatrale_italiana-425484375/",
-        "https://www.ilfattoquotidiano.it/2026/07/21/scusate-non-ce-la-faccio-piu-non-e-questa-la-vita-che-voglio-precipita-dal-terrazzo-di-casa-a-roma-morto-lattore-lattore-e-regista-pippo-di-marca-indagini-in-corso/8454695/",
-        "https://www.liberoquotidiano.it/news/personaggi/48622917/pippo_di_marca_si_e_suicidato_volo_dal_terrazzo_scusate_non_ce_la_faccio_piu_/",
-        "https://www.ilgiornale.it/news/cronaca-nera/morto-lattore-pippo-marca-caduto-terrazzo-casa-2696257.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/precipita-da-una-terrazza-muore-a-roma-lattore-pippo-di-marca_fb387749-7405-4ac6-8ba9-32b95272e70b.html"
+        "https://www.ilgiornale.it/news/musica/nuovo-sanguinamento-e-trasferimento-all-humanitas-sta-fedez-2696521.html",
+        "https://www.adnkronos.com/spettacoli/fedez-trasferito-humanitas-come-sta-motivi-ricovero_rQEeKFDHHMUzzQtK5NYMK",
+        "https://www.ilmessaggero.it/persone/fedez_trasferito_ospedale_come_sta-9664709.html",
+        "https://www.liberoquotidiano.it/news/spettacoli/48624971/fedez-cresce-ansia-resta-ricoverato-cosa-trapela-fatebenefratelli/",
+        "https://www.ilgiornale.it/news/personaggi/fedez-resta-ricoverato-ospedale-malore-sta-rapper-e-cosa-2696318.html"
       ]
     },
     {
       "rank": 6,
-      "title": "È morto Daniele Compatangelo, corrispondente La7 a Washington. Sua l’intervista a Trump con attacchi a Meloni",
-      "source_count": 6,
-      "article_count": 9,
+      "title": "Festa in Spagna, due milioni in strada a Madrid per la vittoria del Mondiale",
+      "source_count": 3,
+      "article_count": 12,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
+        "adnkronos.com",
         "ansa.it",
-        "ilgiornale.it",
-        "ilsole24ore.com",
-        "news.google.com"
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/spettacoli/televisione/48626473/morte-compatangelo-dolore-parenzo-cosa-insegnato/",
-        "https://www.liberoquotidiano.it/news/personaggi/48620335/daniele-compatangelo-la-scena-in-tv-pochi-giorni-prima-di-morire-strappa-l-erba-e-falla-vedere-/",
-        "https://www.ilmessaggero.it/schede/daniele_compatangelo_giornalista_morte_causa_morte_com_e_morto_eta_chi_era-9663786.html",
-        "https://www.liberoquotidiano.it/news/personaggi/48619373/dario-compatangelo-morto-improvviso-choc-la7-mese-fa-telefonata-scoop-trump/",
-        "https://www.ansa.it/sito/notizie/politica/2026/07/20/e-morto-daniele-compatangelo-corrispondente-la7-a-washington_b571a845-f8ee-4d17-8f14-97dfcb03b129.html"
+        "https://www.adnkronos.com/sport/spagna-montepremi-record-mondiali-beffa-dazi-trump_2bg35tUSLmQ8HPd09nHxlH",
+        "https://www.adnkronos.com/sport/spagna-de-la-fuente-video-cantante_4yR9cDDNKtHCjKKWiXz8Eh",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/videogallery/2026/07/21/mondiali-la-spagna-ricevuta-dal-re-e-dal-premier_e5faa68b-171a-4f2a-a1ab-6702b6f4fd4e.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48621910/spagna-campione-mondo-festa-tifosi-madrid/",
+        "https://www.liberoquotidiano.it/news/libero-video/48621904/argentina-nazionale-riceve-omaggio-tifosi-buenos-aires/"
       ]
     },
     {
@@ -156,65 +158,64 @@
     },
     {
       "rank": 8,
-      "title": "Bologna, in piazza per la verità su Fakir: poi tensione e scontri",
+      "title": "Migliorano le liste d'attesa ma quasi 3 milioni di italiani attendono più del dovuto per visite ed esami",
       "source_count": 6,
       "article_count": 8,
       "source_domains": [
-        "liberoquotidiano.it",
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
         "lastampa.it",
-        "laverita.info",
-        "ilgiornale.it",
-        "ilmanifesto.it"
+        "adnkronos.com",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/48622890/manifestazione-fakir-strade-spaccate-attivisti-raccolgono-pietre-per-scontri/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/guerriglia-a-bologna-fino-a-notte-incendiata-anche-unauto-del-comune_5e512a40-7ef6-47a1-8d8c-b364832957c4.html",
-        "https://www.lastampa.it/cronaca/2026/07/21/video/bologna_il_giorno_dopo_gli_scontri_vetrine_sfondate_e_minacce_sui_muri-15695406/",
-        "https://www.liberoquotidiano.it/news/tv-news/48620831/bologna-in-piazza-per-la-verita-su-fakir-poi-tensione-e-scontri/",
-        "https://www.laverita.info/video/bozza-automaticascontri-fakir-bologna"
+        "https://www.ilgiornale.it/news/attualit/liste-d-attesa-svolta-nella-sanit-16-milioni-visite-ed-esami-2696520.html",
+        "https://www.ilfattoquotidiano.it/2026/07/21/liste-attesa-italiani-tempi-sanita-notizie/8454666/",
+        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/07/21/migliorano-le-liste-dattesa-ma-quasi-3-milioni-di-italiani-attendono-piu-del-dovuto_bba4f583-0b4a-49a4-bc83-ab96070b500a.html",
+        "https://www.lastampa.it/torino/2026/07/21/news/liste_attesa_sanita_piemonte_report_agenas_cirio_riboldi_pd-15695612/",
+        "https://www.adnkronos.com/cronaca/sanita-report-liste-dattesa-tempi-visite-esami_4rQcytOazkgqSPNeV0Qdbv"
       ]
     },
     {
       "rank": 9,
       "title": "Meloni prende le distanze dal video di Vannacci, ma avverte la sinistra: \"Condanni i suoi doppi standard”",
-      "source_count": 7,
+      "source_count": 6,
       "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
         "ilmessaggero.it",
-        "liberoquotidiano.it",
         "repubblica.it",
         "adnkronos.com",
         "ansa.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/interni/schlein-ci-mette-due-giorni-condannare-pacini-linguaggio-che-2696518.html",
         "https://www.ilgiornale.it/news/interni/meloni-prende-distanze-video-vannacci-avverte-sinistra-2696456.html",
         "https://www.ilmessaggero.it/politica/meloni_vannacci_video_attacco_sinistra_cosa_ha_detto-9664426.html",
-        "https://www.liberoquotidiano.it/news/politica/48626468/giorgia-meloni-roberto-vannacci-non-mia-politica/",
         "https://www.repubblica.it/politica/2026/07/21/news/meloni_dissocia_video_vannacci_sinistra_odio_piazze_bologna-425484597/",
         "https://www.adnkronos.com/politica/meloni-vannacci-video-ia_5cqsxYoF2xqJKIew86sx0V"
       ]
     },
     {
       "rank": 10,
-      "title": "Resta in ospedale Fedez: il ricovero al Fatebenefratelli per la riapertura di una vecchia ulcera",
+      "title": "Il presidente dei 118: 'Con un medico subito Fakir si sarebbe potuto salvare'",
       "source_count": 5,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "milano.repubblica.it",
-        "ilfattoquotidiano.it"
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/spettacoli/48624971/fedez-cresce-ansia-resta-ricoverato-cosa-trapela-fatebenefratelli/",
-        "https://www.ilgiornale.it/news/personaggi/fedez-resta-ricoverato-ospedale-malore-sta-rapper-e-cosa-2696318.html",
-        "https://www.ansa.it/sito/notizie/cultura/musica/2026/07/21/fedez-ancora-ricoverato-allospedale-fatebenefratelli-di-milano_016c8c63-375c-40e5-8313-d26fc12fe333.html",
-        "https://milano.repubblica.it/cronaca/2026/07/21/news/fedez_ricoverato_ospedale_riapertura_vecchia_ulcera_fatebenefratelli-425483985/",
-        "https://www.ilfattoquotidiano.it/2026/07/21/fedez-ambulanza-fatebenefratelli-ricoverato-operato-urgenza/8454462/"
+        "https://www.repubblica.it/cronaca/2026/07/21/news/caso_fakir_118_cause_morte_posizione_prona_spray_peperoncino_asmatico-425484591/",
+        "https://www.adnkronos.com/cronaca/caso-fakir-sis118-ecco-perche-la-posizione-prona-puo-uccidere_4vqBDfu44ORPQ5bPOi4zb7",
+        "https://www.ilmessaggero.it/italia/fakir_come_e_morto_ricostruzione_reale-9664311.html",
+        "https://www.ilmessaggero.it/italia/fakir_medico_si_poteva_salvare_manovra_poliziotti_cosa_e_successo_davvero-9664267.html",
+        "https://www.ilfattoquotidiano.it/2026/07/21/caso-pilastro-fakir-manovra-poliziotti-notizie/8454820/"
       ]
     }
   ]
