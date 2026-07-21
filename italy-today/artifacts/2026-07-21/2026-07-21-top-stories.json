@@ -1,35 +1,12 @@
 {
   "date": "2026-07-21",
-  "generated_at": "Tue 21 Jul 08:41",
+  "generated_at": "Tue 21 Jul 11:17",
   "stories": [
     {
       "rank": 1,
-      "title": "Regno Unito, Starmer esce di scena: \"Lascio un Paese migliore\". Entra Burnham: \"Riportiamo la speranza\"",
-      "source_count": 8,
-      "article_count": 9,
-      "source_domains": [
-        "ilmessaggero.it",
-        "laverita.info",
-        "repubblica.it",
-        "ansa.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ilgiornale.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/persone/burnham_premier_padre_malato_alzheimer_sintomi_memoria-9663819.html",
-        "https://www.laverita.info/mondo/burnham-premier-regno-unito",
-        "https://www.repubblica.it/esteri/2026/07/21/news/burnham_presentazione_ministri_piano_decennale-425483307/",
-        "https://www.repubblica.it/esteri/2026/07/21/news/william_boyd_intervista_burnham_governo-425483098/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/20/starmer-si-e-dimesso-burnham-nuovo-premier-restituire-la-stabilita-al-paese_566f5999-9480-49f1-ac8e-185882608aca.html"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "È morto Daniele Compatangelo, corrispondente La7 a Washington. Sua l’intervista a Trump con attacchi a Meloni",
       "source_count": 8,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
@@ -41,11 +18,33 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/personaggi/48620335/daniele-compatangelo-la-scena-in-tv-pochi-giorni-prima-di-morire-strappa-l-erba-e-falla-vedere-/",
         "https://www.liberoquotidiano.it/news/personaggi/48619373/dario-compatangelo-morto-improvviso-choc-la7-mese-fa-telefonata-scoop-trump/",
         "https://www.ansa.it/sito/notizie/politica/2026/07/20/e-morto-daniele-compatangelo-corrispondente-la7-a-washington_b571a845-f8ee-4d17-8f14-97dfcb03b129.html",
         "https://www.ilgiornale.it/news/nazionale/morto-daniele-compatangelo-corrispondente-la7-washington-sua-2696080.html",
-        "https://www.ilmessaggero.it/persone/daniele_compatangelo_morto_giornalista_la_7_cosa_e_successo_ultima_ora-9662682.html",
-        "https://www.repubblica.it/politica/2026/07/20/news/daniele_compatangelo_morto_giornalista_la7_washington-425483165/"
+        "https://www.ilmessaggero.it/persone/daniele_compatangelo_morto_giornalista_la_7_cosa_e_successo_ultima_ora-9662682.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Regno Unito, Starmer esce di scena: \"Lascio un Paese migliore\". Entra Burnham: \"Riportiamo la speranza\"",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "laverita.info",
+        "repubblica.it",
+        "ansa.it",
+        "ilmanifesto.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/laddio-amaro-starmer-lascio-paese-pi-forte-bilancio-misero-2696109.html",
+        "https://www.ilgiornale.it/news/politica-estera/burnham-premier-inizia-dai-clochard-2696196.html",
+        "https://www.ilmessaggero.it/persone/burnham_premier_padre_malato_alzheimer_sintomi_memoria-9663819.html",
+        "https://www.laverita.info/mondo/burnham-premier-regno-unito",
+        "https://www.repubblica.it/esteri/2026/07/21/news/burnham_presentazione_ministri_piano_decennale-425483307/"
       ]
     },
     {
@@ -74,25 +73,105 @@
       "rank": 4,
       "title": "Fedez in pronto soccorso a Milano: portato nell’ospedale in cui è stato operato nel 2023",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 9,
       "source_domains": [
+        "ilgiornale.it",
+        "ansa.it",
+        "milano.repubblica.it",
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
-        "ansa.it",
-        "ilgiornale.it",
-        "milano.repubblica.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/personaggi/fedez-resta-ricoverato-ospedale-malore-sta-rapper-e-cosa-2696318.html",
+        "https://www.ansa.it/sito/notizie/cultura/musica/2026/07/21/fedez-ancora-ricoverato-allospedale-fatebenefratelli-di-milano_016c8c63-375c-40e5-8313-d26fc12fe333.html",
+        "https://milano.repubblica.it/cronaca/2026/07/21/news/fedez_ricoverato_ospedale_riapertura_vecchia_ulcera_fatebenefratelli-425483985/",
         "https://www.ilfattoquotidiano.it/2026/07/21/fedez-ambulanza-fatebenefratelli-ricoverato-operato-urgenza/8454462/",
-        "https://www.liberoquotidiano.it/news/personaggi/48620282/fedez-ricoverato-a-milano-arrivato-in-ambulanza-le-sue-condizioni/",
-        "https://www.ansa.it/sito/notizie/cultura/musica/2026/07/20/fedez-in-ospedale-a-milano-in-ambulanza-al-fatebenefratelli_016c8c63-375c-40e5-8313-d26fc12fe333.html",
-        "https://www.ilgiornale.it/news/personaggi/fedez-ospedale-corsa-ambulanza-fatebenefratelli-malore-2696082.html",
-        "https://milano.repubblica.it/cronaca/2026/07/20/news/fedez_pronto_soccorso_ospedale_problemi_salute-425483153/"
+        "https://www.liberoquotidiano.it/news/personaggi/48620282/fedez-ricoverato-a-milano-arrivato-in-ambulanza-le-sue-condizioni/"
       ]
     },
     {
       "rank": 5,
+      "title": "Mondiali, la Spagna ricevuta dal re e dal premier",
+      "source_count": 3,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/videogallery/2026/07/21/mondiali-la-spagna-ricevuta-dal-re-e-dal-premier_e5faa68b-171a-4f2a-a1ab-6702b6f4fd4e.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48621908/re-filippo-vi-riceve-nazionale-spagnola-vittoria-mondiali-epica-avete-dimostrato-coraggio/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/20/mondiali-la-spagna-atterra-a-madrid-ora-i-ricevimenti-dal-re-e-dal-premier_3d67ed45-ff39-44ff-bda0-e0ea1293b45a.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/photogallery/2026/07/21/festa-in-spagna-due-milioni-in-strada-a-madrid-per-la-vittoria-del-mondiale_5d708600-b3b2-44ee-9f04-5dff747a4c43.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48621708/sanchez-riceve-la-nazionale-spagnola-dopo-la-vittoria-ai-mondiali-2026-alla-moncloa/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Precipita dal terrazzo di casa, morto l’attore Pippo Di Marca: “Sono malato, non è la vita che voglio”",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "adnkronos.com",
+        "roma.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/21/scusate-non-ce-la-faccio-piu-non-e-questa-la-vita-che-voglio-precipita-dal-terrazzo-di-casa-a-roma-morto-lattore-lattore-e-regista-pippo-di-marca-indagini-in-corso/8454695/",
+        "https://www.ilgiornale.it/news/cronaca-nera/morto-lattore-pippo-marca-caduto-terrazzo-casa-2696257.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/precipita-da-una-terrazza-muore-a-roma-lattore-pippo-di-marca_fb387749-7405-4ac6-8ba9-32b95272e70b.html",
+        "https://www.adnkronos.com/cronaca/pippo-di-marca-attore-morto-caduta-terrazzo-trastevere_2FE6Ltwcooc3wVVx2n13lP",
+        "https://roma.repubblica.it/cronaca/2026/07/21/news/pippo_di_marca_attore_morte_precipita_terrazzo-425483858/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Scontri a Bologna, Meloni: inaccettabile violenza contro Forze dell’ordine",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "lastampa.it",
+        "bologna.repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/meloni-a-bologna-fatto-inaccettabile-accertare-la-verita-con-rigore.-in-citta-guerriglia_5e512a40-7ef6-47a1-8d8c-b364832957c4.html",
+        "https://www.ilfattoquotidiano.it/2026/07/21/morte-fakir-meloni-bologna-polizia-notizie/8454654/",
+        "https://www.ilgiornale.it/news/nazionale/morte-fakir-meloni-irresponsabile-alimentare-clima-dodio-2696266.html",
+        "https://www.lastampa.it/politica/2026/07/21/news/caso_fakir_meloni_polizia-15695439/",
+        "https://bologna.repubblica.it/cronaca/2026/07/21/news/scontri_bologna_morte_fakir_feriti_danni_fermi-425483525/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Morte Fakir, come funziona il nuovo scudo penale: perché i sei operatori sono punibili",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ilgiornale.it",
+        "laverita.info",
+        "lastampa.it",
+        "bologna.repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/politica/video-allesame-procura-bodycam-comprata-dallagente-2696092.html",
+        "https://www.laverita.info/cronache-dellinvasione/morte-abderrahim-fakir",
+        "https://www.lastampa.it/cronaca/2026/07/21/news/fakir_bologna_nuova_norma_scudo_penale_cosa_e-15695339/",
+        "https://bologna.repubblica.it/cronaca/2026/07/21/news/inchiesta_morte_fakir_scudo_penale-425483297/",
+        "https://www.ilsole24ore.com/art/caso-bologna-attivato-scudo-penale-gli-agenti-la-prima-volta-come-funziona-AJnGrvP"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Guerra in Iran. Pasdaran: “Distrutti data center di Amazon in Bahrein”. Cento soldati Usa feriti",
       "source_count": 5,
       "article_count": 5,
@@ -112,25 +191,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Morte Fakir, come funziona il nuovo scudo penale: perché i sei operatori sono punibili",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "laverita.info",
-        "lastampa.it",
-        "bologna.repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/cronache-dellinvasione/morte-abderrahim-fakir",
-        "https://www.lastampa.it/cronaca/2026/07/21/news/fakir_bologna_nuova_norma_scudo_penale_cosa_e-15695339/",
-        "https://bologna.repubblica.it/cronaca/2026/07/21/news/inchiesta_morte_fakir_scudo_penale-425483297/",
-        "https://www.ilsole24ore.com/art/caso-bologna-attivato-scudo-penale-gli-agenti-la-prima-volta-come-funziona-AJnGrvP"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 10,
       "title": "Guardiola ct e il calcio italiano rivoluzionato: il piano di Maldini",
       "source_count": 4,
       "article_count": 4,
@@ -145,59 +206,6 @@
         "https://www.ilgiornale.it/news/sport/nazionale-senza-ct-mossa-malag-dietro-vertice-barcellona-2696121.html",
         "https://www.repubblica.it/sport/calcio/nazionale/2026/07/21/news/guardiola_ct_nazionale_maldini_leonardo_barcellona-425483281/",
         "https://www.lastampa.it/sport/2026/07/21/news/ct_azzurro_missione_guardiola-15695150/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Attese ancora 18 città con il bollino rosso, ma otto saranno verdi",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/schede/aria_fresca_quando_fine_caldo_temperature_quanto_calano-9663929.html",
-        "https://www.adnkronos.com/cronaca/meteo-oggi-previsioni-caldo-record-maltempo-21-luglio_4cq6zGmJITYGVc4aZoOg86",
-        "https://www.lastampa.it/cronaca/2026/07/21/news/caldo_tregua_al_nord_vento_grandine-15695112/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/20/attese-ancora-18-citta-con-il-bollino-rosso-ma-otto-saranno-verdi_3e433c9b-01f2-409b-b59a-33ee959d249d.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Campioni in trionfo, per la Spagna è fiesta infinita",
-      "source_count": 3,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/speciali/mondiale-calcio-2026/2026/07/20/mondiali-la-spagna-atterra-a-madrid-ora-i-ricevimenti-dal-re-e-dal-premier_3d67ed45-ff39-44ff-bda0-e0ea1293b45a.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48620646/madrid-accoglie-i-campioni-del-mondo-dai-reali-poi-il-bagno-di-folla/",
-        "https://www.lastampa.it/sport/2026/07/21/news/spagna_una_coppa_che_viene_da_molto_lontano_yamal_williams_e_tutti_gli_spagnoli-15695155/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48618202/sanchez-riceve-nazionale-spagnola-a-palazzo-della-moncloa-la-foto-di-gruppo-con-la-coppa-del-mondo/",
-        "https://www.liberoquotidiano.it/news/tv-news/48617417/spagna-campione-del-mondo-dal-premier-pedro-sanchez/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Vannacci gladiatore ordina l’esecuzione di Schlein e Conte: bufera sul video AI",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilgiornale.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/07/21/prime-pagine-vannacci-generale-romano-in-un-video-con-lia-fa-uccidere-gli_7da7366e-ff8e-400f-adac-7f25040ff583.html",
-        "https://www.adnkronos.com/politica/vannacci-video-gladiatore-schlein-conte-polemiche_2rZ00lycqf8q9TRolve9am",
-        "https://www.ilgiornale.it/news/interni/politica-e-video-leader-morti-non-solo-vannacci-ecco-2696061.html",
-        "https://www.ilgiornale.it/news/interni/vannacci-gladiatore-ordina-l-esecuzione-schlein-e-conte-2695967.html"
       ]
     }
   ]
