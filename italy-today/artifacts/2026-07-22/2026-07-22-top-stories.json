@@ -1,33 +1,9 @@
 {
   "date": "2026-07-22",
-  "generated_at": "Wed 22 Jul 20:19",
+  "generated_at": "Wed 22 Jul 22:13",
   "stories": [
     {
       "rank": 1,
-      "title": "Caso Delmastro, la Giunta dice no all'acquisizione delle chat. E il M5s occupa i banchi del governo",
-      "source_count": 9,
-      "article_count": 14,
-      "source_domains": [
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "repubblica.it",
-        "news.google.com",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/politica/delmastro_divieto_chat_perche_cosa_significa-9666461.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48637793/-vergogna-vergogna-senatori-m5s-occupano-i-banchi-del-governo-per-caso-delmastro/",
-        "https://www.liberoquotidiano.it/news/politica/48634476/bagarre-senato-menia-fdi-grillino-vieni-qua/",
-        "https://www.lastampa.it/politica/2026/07/22/video/delmastro_5_stelle_governo_chat-15696356/",
-        "https://www.liberoquotidiano.it/news/libero-video/48633685/m5s-occupano-banchi-senato-esposti-cartelli-fuori-chat/"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Auto sulla folla a Modena, morta la donna 55enne in terapia intensiva da due mesi",
       "source_count": 11,
       "article_count": 12,
@@ -53,7 +29,54 @@
       ]
     },
     {
+      "rank": 2,
+      "title": "Delmastro, no della giunta della Camera all'acquisizione delle chat con Caroccia. Senatori M5s occupano i banchi per protesta",
+      "source_count": 9,
+      "article_count": 12,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/delmastro-la-giunta-nega-le-chat-ai-giudici",
+        "https://www.ilmessaggero.it/politica/delmastro_chat_scudo_centrodestra_perche_cosa_contengono-9666724.html",
+        "https://www.ilmessaggero.it/politica/delmastro_divieto_chat_perche_cosa_significa-9666461.html",
+        "https://www.liberoquotidiano.it/news/politica/48634476/bagarre-senato-menia-fdi-grillino-vieni-qua/",
+        "https://www.lastampa.it/politica/2026/07/22/video/delmastro_5_stelle_governo_chat-15696356/"
+      ]
+    },
+    {
       "rank": 3,
+      "title": "OpenAI, attacco hacker di un agente IA fuori controllo. L’azienda “Incidente senza precedenti”",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "ilmanifesto.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilgiornale.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/ai-fuori-controllo-un-modello-di-altman-si-da-allhackeraggio",
+        "https://www.adnkronos.com/economia/ai-agente-hacker-allarme_I9aul4rI2kUxR99AVYuIJ",
+        "https://www.ilmessaggero.it/schede/openai_come_fermare_algoritmo-9666765.html",
+        "https://www.ilfattoquotidiano.it/2026/07/22/openai-modelli-ia-attacco-hugging-face-notizie/8456104/",
+        "https://www.lastampa.it/tech/2026/07/22/news/hugging_face_agente_openai_attacco-15696381/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Monterotondo, bimbo di 5 anni muore nella piscina del centro estivo: il malore mentre giocava",
       "source_count": 9,
       "article_count": 9,
@@ -77,7 +100,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Ilaria Salis licenzia due collaboratori senza giusta causa: condannata a risarcire 300mila euro",
       "source_count": 8,
       "article_count": 10,
@@ -100,7 +123,30 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "Sardegna, investe con l’auto una coppia e poi accoltella a morte il ragazzo",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ilgiornale.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-locale/investe-coppia-scende-dall-auto-e-accoltella-19enne-caccia-2696920.html",
+        "https://www.liberoquotidiano.it/news/italia/48642651/bari-sardo-investe-25enne-poi-accoltella-morte-caccia-killer/",
+        "https://www.adnkronos.com/cronaca/omicidio-coltellate-nuoro-barisardo_t94TnvMbRnTGKXhavYZMp",
+        "https://www.repubblica.it/cronaca/2026/07/22/news/bari_sardo_investe_coppia_uccide_ragazzo-425487024/",
+        "https://www.ilmessaggero.it/italia/ragazzo_ucciso_coltellate_auto_investe_coppia_cagliari-9666626.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Daniel Siad trovato morto in casa, era accusato di reclutare giovani modelle per consegnarle a Jeffrey Epstein",
       "source_count": 8,
       "article_count": 8,
@@ -123,95 +169,29 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Sardegna, investe con l’auto una coppia e poi accoltella a morte il ragazzo",
+      "rank": 8,
+      "title": "Fentalyn rubato dall'ospedale Israelitico a Roma, indagati due custodi",
       "source_count": 7,
       "article_count": 9,
       "source_domains": [
-        "ilgiornale.it",
-        "adnkronos.com",
-        "repubblica.it",
         "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-locale/investe-coppia-scende-dall-auto-e-accoltella-19enne-caccia-2696920.html",
-        "https://www.adnkronos.com/cronaca/omicidio-coltellate-nuoro-barisardo_t94TnvMbRnTGKXhavYZMp",
-        "https://www.repubblica.it/cronaca/2026/07/22/news/bari_sardo_investe_coppia_uccide_ragazzo-425487024/",
-        "https://www.ilmessaggero.it/italia/ragazzo_ucciso_coltellate_auto_investe_coppia_cagliari-9666626.html",
-        "https://www.ilmessaggero.it/italia/simone_concas_morto_coltellate_bari_sardo_auto_investe_coppia-9666626.html"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Fedez trasferito all’Humanitas di Rozzano: “E’ ricoverato in chirurgia, sottoposto a nuovi esami per il sanguinamento di un’ulcera”",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "ilgiornale.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/spettacoli/fedez-come-sta-controlli-humanitas-migliora-ultime-news-esami_6XLCMx9PE7DXAUnkSDKkBT",
-        "https://www.ansa.it/sito/notizie/cultura/2026/07/22/fedez-resta-ricoverato-ora-e-allhumanitas-_404d15da-d696-4db4-8453-a7b3680ea291.html",
-        "https://www.liberoquotidiano.it/news/personaggi/48632047/fedez-trasferito-all-ospedale-humanitas-le-sue-condizioni/",
-        "https://www.ilfattoquotidiano.it/2026/07/22/fedez-trasferito-allhumanitas-di-rozzano-e-ricoverato-in-chirurgia-sottoposto-a-nuovi-esami-per-il-sanguinamento-di-unulcera/8455430/",
-        "https://www.ilmessaggero.it/persone/fedez_resta_ricoverato_come_sta_veramente_terzo_figlio-9665907.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Fentanyl rubato dall'ospedale Israelitico a Roma, indagati due custodi:",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
         "ilfattoquotidiano.it",
         "ansa.it",
         "liberoquotidiano.it",
         "adnkronos.com",
-        "ilmessaggero.it",
         "roma.repubblica.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/roma/eur/furto_fentanyl_ospedale_israelitico_custodi_indagati_ambulatori_abusivi-9666766.html",
         "https://www.ilfattoquotidiano.it/2026/07/22/furto-fentanyl-israelitico-roma-notizie/8456128/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/due-indagati-per-il-furto-delle-fiale-di-fentanyl-a-roma_3ab566db-8f58-4148-8832-d6b8233c558c.html",
         "https://www.liberoquotidiano.it/news/italia/48638733/fentanyl-fiale-sparite-israelitico-roma-due-indagati/",
-        "https://www.adnkronos.com/cronaca/fentanyl-fiale-rubate-israelitico-roma-due-indagati_1zUuPegbmg9QZ6MguOWrWR",
-        "https://www.ilmessaggero.it/roma/eur/fentalyn_rubato_ospedale_israelitico_indagati_custodi-9666481.html"
+        "https://www.adnkronos.com/cronaca/fentanyl-fiale-rubate-israelitico-roma-due-indagati_1zUuPegbmg9QZ6MguOWrWR"
       ]
     },
     {
       "rank": 9,
-      "title": "Trump vuole Infantino prossimo segretario generale dell'Onu",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ilgiornale.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/cronaca-internazionale/nazioni-unite-i-mondiali-trump-vuole-infantino-guida-dell-2696758.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48632616/trump-infantino-presidente-fifa-corsa-onu/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/22/media-trump-vuole-infantino-come-segretario-generale-dellonu_87f4c8ff-f105-4943-929a-86d4e4ddf9ff.html",
-        "https://www.ilmessaggero.it/mondo/trump_infantino_segretario_generale_onu-9665825.html",
-        "https://www.adnkronos.com/sport/trump-infantino-presidente-fifa-onu_2e9wrMhiU4U99xkc6DhG0S"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Spara ai ladri per tentato furto, denunciato nel Bolognese il custode di un'azienda",
       "source_count": 7,
       "article_count": 7,
@@ -230,6 +210,28 @@
         "https://www.ilfattoquotidiano.it/2026/07/22/custode-di-unazienda-spara-ai-ladri-di-rame-denunciato-per-porto-abusivo-di-armi/8455447/",
         "https://www.ansa.it/emiliaromagna/notizie/2026/07/22/spara-a-ladri-per-tentato-furto-custode-denunciato-nel-bolognese_05b7f960-5fa3-4749-a6e3-42a05e113cf9.html",
         "https://bologna.repubblica.it/cronaca/2026/07/22/news/spara_ladri_azienda_bolognese_denunciato_porto_abusivo_armi-425485698/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Grave lutto per Vincenzo Montella, morta la sorella Caterina dopo un incidente domestico",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-nera/grave-lutto-vincenzo-montella-morta-sorella-caterina-2696774.html",
+        "https://www.ilfattoquotidiano.it/2026/07/22/vinceno-montella-sorella-caterina-morta-incidente-domestico/8455598/",
+        "https://www.repubblica.it/sport/calcio/2026/07/22/news/vincenzo_montella_morta_la_sorella_caterina-425486078/",
+        "https://www.adnkronos.com/sport/calcio-montella-turchia-sorella_254lSivtCHdpFEHsC3SU8K",
+        "https://www.liberoquotidiano.it/news/sport/48632627/gravissimo_lutto_per_vincenzo_montella_la_tragica_morte_della_sorella_caterina/"
       ]
     }
   ]
