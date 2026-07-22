@@ -1,13 +1,59 @@
 {
   "date": "2026-07-22",
-  "generated_at": "Wed 22 Jul 11:17",
+  "generated_at": "Wed 22 Jul 14:12",
   "stories": [
     {
       "rank": 1,
-      "title": "'Trump vuole Infantino segretario generale dell'Onu'",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Caso Delmastro, la Giunta dice no all'acquisizione delle chat. E il M5s occupa i banchi del governo",
+      "source_count": 7,
+      "article_count": 10,
       "source_domains": [
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/politica/48634476/bagarre-senato-menia-fdi-grillino-vieni-qua/",
+        "https://www.lastampa.it/politica/2026/07/22/video/delmastro_5_stelle_governo_chat-15696356/",
+        "https://www.liberoquotidiano.it/news/libero-video/48633685/m5s-occupano-banchi-senato-esposti-cartelli-fuori-chat/",
+        "https://www.ilfattoquotidiano.it/2026/07/22/chat-delmastro-m5s-protesta-senato-notizie/8455594/",
+        "https://www.ilgiornale.it/news/interni/caso-delmastro-giunta-dice-no-allacquisizione-delle-chat-e-2696690.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Daniel Siad trovato morto in casa, era accusato di reclutare giovani modelle per consegnarle a Jeffrey Epstein",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ansa.it",
+        "ilgiornale.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/22/daniel-siad-morto-a-parigi-per-arresto-cardiaco-e-stato-un-presunto-reclutatore-di-epstein-era-accusato-di-stupro/8455567/",
+        "https://www.adnkronos.com/internazionale/esteri/daniel-said-morto-intermediario-caso-epstein-stupro_7IXO5Qc32lrFLQt3hErKYS",
+        "https://www.repubblica.it/esteri/2026/07/22/news/daniel_siad_presunto_reclutatore_modelle_epstein_e_stato_trovato_morto_a_casa_sua_parigi-425486173/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/22/siad-presunto-reclutatore-del-pedofilo-epstein-trovato-morto-a-parigi_9c269681-fec7-498f-8d92-229404c9c194.html",
+        "https://www.ilgiornale.it/news/cronaca-internazionale/morto-parigi-daniel-siad-presunto-reclutatore-donne-jeffrey-2696727.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Trump vuole Infantino prossimo segretario generale dell'Onu",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
         "liberoquotidiano.it",
         "ansa.it",
         "ilmessaggero.it",
@@ -16,23 +62,24 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilgiornale.it/news/cronaca-internazionale/nazioni-unite-i-mondiali-trump-vuole-infantino-guida-dell-2696758.html",
         "https://www.liberoquotidiano.it/news/libero-video/48632616/trump-infantino-presidente-fifa-corsa-onu/",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/22/media-trump-vuole-infantino-come-segretario-generale-dellonu_87f4c8ff-f105-4943-929a-86d4e4ddf9ff.html",
         "https://www.ilmessaggero.it/mondo/trump_infantino_segretario_generale_onu-9665825.html",
-        "https://www.adnkronos.com/sport/trump-infantino-presidente-fifa-onu_2e9wrMhiU4U99xkc6DhG0S",
-        "https://www.repubblica.it/esteri/2026/07/22/news/onu_media_trump_vuole_infantino_segretario_generale-425485392/"
+        "https://www.adnkronos.com/sport/trump-infantino-presidente-fifa-onu_2e9wrMhiU4U99xkc6DhG0S"
       ]
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "Spara ai ladri per tentato furto, denunciato nel Bolognese il custode di un'azienda",
-      "source_count": 6,
-      "article_count": 6,
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
         "ilgiornale.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "ansa.it",
+        "bologna.repubblica.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
@@ -41,11 +88,55 @@
         "https://www.adnkronos.com/cronaca/spara-ai-ladri-custode-azienda-denunciato-porto-darmi-scaduto_5X6sq68Q854lyoaZlymSm1",
         "https://www.ilfattoquotidiano.it/2026/07/22/custode-di-unazienda-spara-ai-ladri-di-rame-denunciato-per-porto-abusivo-di-armi/8455447/",
         "https://www.ansa.it/emiliaromagna/notizie/2026/07/22/spara-a-ladri-per-tentato-furto-custode-denunciato-nel-bolognese_05b7f960-5fa3-4749-a6e3-42a05e113cf9.html",
-        "https://www.ilmessaggero.it/italia/spara_ladri_tentato_furto_crespellano_bologna_oggi-9665886.html"
+        "https://bologna.repubblica.it/cronaca/2026/07/22/news/spara_ladri_azienda_bolognese_denunciato_porto_abusivo_armi-425485698/"
       ]
     },
     {
-      "rank": 3,
+      "rank": 5,
+      "title": "Grave lutto per Vincenzo Montella, morta la sorella Caterina dopo un incidente domestico",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-nera/grave-lutto-vincenzo-montella-morta-sorella-caterina-2696774.html",
+        "https://www.ilfattoquotidiano.it/2026/07/22/vinceno-montella-sorella-caterina-morta-incidente-domestico/8455598/",
+        "https://www.repubblica.it/sport/calcio/2026/07/22/news/vincenzo_montella_morta_la_sorella_caterina-425486078/",
+        "https://www.adnkronos.com/sport/calcio-montella-turchia-sorella_254lSivtCHdpFEHsC3SU8K",
+        "https://www.liberoquotidiano.it/news/sport/48632627/gravissimo_lutto_per_vincenzo_montella_la_tragica_morte_della_sorella_caterina/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Auto sulla folla a Modena, morta la donna 55enne in terapia intensiva da due mesi",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "bologna.repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilgiornale.it/news/cronaca-nera/attentato-modena-morta-ospedale-monica-esposito-investita-el-2696799.html",
+        "https://www.adnkronos.com/cronaca/morta-55enne-modena-feriti-attentato-16-maggio_t3gekK2Di3ZItdWhGlxN3",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/auto-sulla-folla-a-modena-donna-55enne-muore-dopo-due-mesi_5a2d738d-e921-4a33-9ce1-06dc7c659e2b.html",
+        "https://www.ilmessaggero.it/italia/monica_esposito_morta_modena_auto_folla_salim_el_koudri-9666301.html",
+        "https://bologna.repubblica.it/cronaca/2026/07/22/news/modena_morta_donna_ferita_attentato_centro-425486478/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "La Francia vieta i social ai minori di 15 anni, è il primo paese europeo. Macron: «Un grande progresso»",
       "source_count": 6,
       "article_count": 6,
@@ -66,28 +157,48 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Vincenzo Montella, morta la sorella Caterina: cosa è successo. L'annuncio della Federazione turca",
-      "source_count": 6,
-      "article_count": 6,
+      "rank": 8,
+      "title": "OpenAI, attacco hacker di un agente IA fuori controllo. L’azienda “Incidente senza precedenti”",
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
-        "ilfattoquotidiano.it",
+        "lastampa.it",
         "repubblica.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "ilgiornale.it",
+        "ansa.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/22/vinceno-montella-sorella-caterina-morta-incidente-domestico/8455598/",
-        "https://www.repubblica.it/sport/calcio/2026/07/22/news/vincenzo_montella_morta_la_sorella_caterina-425486078/",
-        "https://www.adnkronos.com/sport/calcio-montella-turchia-sorella_254lSivtCHdpFEHsC3SU8K",
-        "https://www.liberoquotidiano.it/news/sport/48632627/gravissimo_lutto_per_vincenzo_montella_la_tragica_morte_della_sorella_caterina/",
-        "https://www.ilmessaggero.it/persone/montella_morta_sorella_caterina_cosa_e_successo_incidente_domestico-9665950.html"
+        "https://www.lastampa.it/tech/2026/07/22/news/hugging_face_agente_openai_attacco-15696381/",
+        "https://www.repubblica.it/economia/2026/07/22/news/openai_attacco_hacker_agente_ia_incidete_senza_precedenti-425486005/",
+        "https://www.ilgiornale.it/news/nuove-frontiere/openai-ammette-incidente-informatico-senza-precedenti-test-2696665.html",
+        "https://www.ilgiornale.it/news/nuove-frontiere/l-ai-openai-ha-hackerato-altra-azienda-non-storia-che-2696660.html",
+        "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/07/22/openai-i-nostri-modelli-ia-fuori-controllo-hanno-hackerato-altra-piattaforma_b024ad4e-1e77-4420-afea-efe8294343e7.html"
       ]
     },
     {
-      "rank": 5,
+      "rank": 9,
+      "title": "Fedez sta meglio, rapper continua i controlli in Humanitas",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/spettacoli/fedez-come-sta-controlli-humanitas-migliora-ultime-news-esami_6XLCMx9PE7DXAUnkSDKkBT",
+        "https://www.ansa.it/sito/notizie/cultura/2026/07/22/fedez-resta-ricoverato-ora-e-allhumanitas-_404d15da-d696-4db4-8453-a7b3680ea291.html",
+        "https://www.liberoquotidiano.it/news/personaggi/48632047/fedez-trasferito-all-ospedale-humanitas-le-sue-condizioni/",
+        "https://www.ilfattoquotidiano.it/2026/07/22/fedez-trasferito-allhumanitas-di-rozzano-e-ricoverato-in-chirurgia-sottoposto-a-nuovi-esami-per-il-sanguinamento-di-unulcera/8455430/",
+        "https://www.ilmessaggero.it/persone/fedez_resta_ricoverato_come_sta_veramente_terzo_figlio-9665907.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Travolto da un'auto mentre è sul monopattino, muore ragazzo di 16 anni",
       "source_count": 6,
       "article_count": 6,
@@ -105,108 +216,6 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/travolto-da-unauto-mentre-e-sul-monopattino-muore-ragazzo-di-16-anni_6572eea6-08f9-4555-8000-efc93bef489b.html",
         "https://milano.repubblica.it/cronaca/2026/07/22/news/travolto_monopattino_morto_ragazzo_senza_casco-425486059/",
         "https://www.ilmessaggero.it/persone/monopattino_incidente_pavia_morto_16enne-9666023.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Caso Delmastro, la Giunta dice no all'acquisizione delle chat. E il M5s occupa i banchi del governo",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/22/chat-delmastro-m5s-protesta-senato-notizie/8455594/",
-        "https://www.ilgiornale.it/news/interni/caso-delmastro-giunta-dice-no-allacquisizione-delle-chat-e-2696690.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/07/22/caso-delmastro-la-camera-boccia-la-richiesta-dei-pm-sulle-chat_0585e1bd-5302-4277-8ff9-5aff52807480.html",
-        "https://www.ilmessaggero.it/politica/delmastro_chat_caroccia_ultime_notizie-9666016.html",
-        "https://www.repubblica.it/politica/2026/07/22/news/chat_delmastro_ristoratore_caroccia_no_maggioranza_proteste_opposizioni-425486034/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "A Parigi trovato morto in casa Daniel Siad, il presunto reclutatore del pedofilo Jeffrey Epstein",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/22/daniel-siad-morto-a-parigi-per-arresto-cardiaco-e-stato-un-presunto-reclutatore-di-epstein-era-accusato-di-stupro/8455567/",
-        "https://www.adnkronos.com/internazionale/esteri/daniel-said-morto-intermediario-caso-epstein-stupro_7IXO5Qc32lrFLQt3hErKYS",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/22/siad-presunto-reclutatore-del-pedofilo-epstein-trovato-morto-a-parigi_9c269681-fec7-498f-8d92-229404c9c194.html",
-        "https://www.ilgiornale.it/news/cronaca-internazionale/morto-parigi-daniel-siad-presunto-reclutatore-donne-jeffrey-2696727.html",
-        "https://www.ilmessaggero.it/mondo/daniel_siad_morto_pedofilo_parigi_oggi-9666018.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Zelensky silura anche Syrskyi e nomina Drapatyi nuovo comandante dell’esercito ucraino",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/nuovo-scontro-russia-italia-kiev-sesto-giorno-proteste-2696537.html",
-        "https://www.ilmessaggero.it/mondo/ucraina_terremoto_esercito_zelensky_capo_forze_armate_ultime_notizie-9665915.html",
-        "https://www.repubblica.it/esteri/2026/07/22/news/ucraina_zelensky_via_capo_esercito_syrsky_manifestazioni-425485290/",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/21/zelensky-rimuove-syrsky-da-capo-delle-forze-armate-al-suo-posto-drapatyi_0cd2a931-8658-4d5e-96f8-544c31609a42.html",
-        "https://www.ilgiornale.it/news/guerra/zelensky-silura-anche-syrskyi-e-nomina-drapatyi-nuovo-2696515.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Bimba di 9 anni annega nel lago di Como, ritrovato il corpo",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilgiornale.it/news/politica/lestate-nera-dei-bagni-fatali-tuffo-nel-lago-muore-10-anni-2696543.html",
-        "https://www.ilfattoquotidiano.it/2026/07/22/undefined-29/8455479/",
-        "https://www.liberoquotidiano.it/news/libero-video/48632602/lago-como-ritrovato-corpo-bambina-scomparsa-acque/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/a-como-una-bimba-di-10-anni-scompare-nelle-acque-del-lago_08a4d3ac-4d48-4018-91b7-9af2475b7b2b.html",
-        "https://www.ilgiornale.it/news/cronaca-locale/como-bimba-10-anni-si-tuffa-nel-lago-e-scompare-ricerche-2696418.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "OpenAI, attacco hacker di un agente IA fuori controllo. L’azienda “Incidente senza precedenti”",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "repubblica.it",
-        "ilgiornale.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/economia/2026/07/22/news/openai_attacco_hacker_agente_ia_incidete_senza_precedenti-425486005/",
-        "https://www.ilgiornale.it/news/nuove-frontiere/openai-ammette-incidente-informatico-senza-precedenti-test-2696665.html",
-        "https://www.ilgiornale.it/news/nuove-frontiere/l-ai-openai-ha-hackerato-altra-azienda-non-storia-che-2696660.html",
-        "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/07/22/openai-i-nostri-modelli-ia-fuori-controllo-hanno-hackerato-altra-piattaforma_b024ad4e-1e77-4420-afea-efe8294343e7.html",
-        "https://www.ilmessaggero.it/tecnologia/news/openai_incidente_informatico_modelli_ia_impazziti_cosa_e_successo-9665936.html"
       ]
     }
   ]
