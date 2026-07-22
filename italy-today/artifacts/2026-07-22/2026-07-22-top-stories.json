@@ -1,12 +1,36 @@
 {
   "date": "2026-07-22",
-  "generated_at": "Wed 22 Jul 16:27",
+  "generated_at": "Wed 22 Jul 18:17",
   "stories": [
     {
       "rank": 1,
+      "title": "Caso Delmastro, la Giunta dice no all'acquisizione delle chat. E il M5s occupa i banchi del governo",
+      "source_count": 9,
+      "article_count": 14,
+      "source_domains": [
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ilgiornale.it",
+        "ansa.it",
+        "repubblica.it",
+        "news.google.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/politica/delmastro_divieto_chat_perche_cosa_significa-9666461.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48637793/-vergogna-vergogna-senatori-m5s-occupano-i-banchi-del-governo-per-caso-delmastro/",
+        "https://www.liberoquotidiano.it/news/politica/48634476/bagarre-senato-menia-fdi-grillino-vieni-qua/",
+        "https://www.lastampa.it/politica/2026/07/22/video/delmastro_5_stelle_governo_chat-15696356/",
+        "https://www.liberoquotidiano.it/news/libero-video/48633685/m5s-occupano-banchi-senato-esposti-cartelli-fuori-chat/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Auto sulla folla a Modena, morta la donna 55enne in terapia intensiva da due mesi",
-      "source_count": 10,
-      "article_count": 11,
+      "source_count": 11,
+      "article_count": 12,
       "source_domains": [
         "ilgiornale.it",
         "laverita.info",
@@ -17,7 +41,8 @@
         "liberoquotidiano.it",
         "bologna.repubblica.it",
         "lastampa.it",
-        "news.google.com"
+        "news.google.com",
+        "agi.it"
       ],
       "links": [
         "https://www.ilgiornale.it/news/nazionale/chi-era-monica-esposito-donna-morta-lattentato-modena-2696852.html",
@@ -28,30 +53,54 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Caso Delmastro, la Giunta dice no all'acquisizione delle chat. E il M5s occupa i banchi del governo",
-      "source_count": 8,
-      "article_count": 11,
+      "rank": 3,
+      "title": "Monterotondo, bimbo di 5 anni muore nella piscina del centro estivo: il malore mentre giocava",
+      "source_count": 9,
+      "article_count": 9,
       "source_domains": [
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
         "ilgiornale.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
         "ansa.it",
+        "roma.repubblica.it",
+        "liberoquotidiano.it",
         "ilmessaggero.it",
-        "repubblica.it",
-        "ilsole24ore.com"
+        "lastampa.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/politica/48634476/bagarre-senato-menia-fdi-grillino-vieni-qua/",
-        "https://www.lastampa.it/politica/2026/07/22/video/delmastro_5_stelle_governo_chat-15696356/",
-        "https://www.liberoquotidiano.it/news/libero-video/48633685/m5s-occupano-banchi-senato-esposti-cartelli-fuori-chat/",
-        "https://www.ilfattoquotidiano.it/2026/07/22/chat-delmastro-m5s-protesta-senato-notizie/8455594/",
-        "https://www.ilgiornale.it/news/interni/caso-delmastro-giunta-dice-no-allacquisizione-delle-chat-e-2696690.html"
+        "https://www.ilgiornale.it/news/cronaca-locale/monterotondo-bimbo-5-anni-muore-nella-piscina-centro-estivo-2696880.html",
+        "https://www.ilfattoquotidiano.it/2026/07/22/bambino-morto-piscina-monterotondo-notizie/8455974/",
+        "https://www.adnkronos.com/cronaca/bimbo-5-anni-muore-piscina-malore-centro-estivo-roma_blEBVKcg9GpM3ro563fEF",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/malore-in-piscina-muore-un-bimbo-di-5-anni-vicino-roma_abd01bc9-569e-4afa-b387-a4c79734ce55.html",
+        "https://roma.repubblica.it/cronaca/2026/07/22/news/bimbo_morto_piscina_comunale_monterotondo_centro_estivo-425486346/"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Ilaria Salis licenzia due collaboratori senza giusta causa: condannata a risarcire 300mila euro",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "ilgiornale.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/ilaria-salis-condannata-per-il-licenziamento-di-due-ex-collaboratori_d0628f99-0449-4890-9ece-d669cf720634.html",
+        "https://www.ilgiornale.it/news/interni/salis-condannata-i-licenziamenti-centrodestra-all-attacco-2696906.html",
+        "https://www.adnkronos.com/politica/salis-condannata-licenziamento-collaboratori-reazioni_1TMp1cN6J38fLD5Hca0tuB",
+        "https://www.ilfattoquotidiano.it/2026/07/22/ilaria-salis-condanna-licenziamento-collaboratori-notizie/8456108/",
+        "https://www.ilmessaggero.it/politica/ilaria_salis_licenzia_collaboratori_senza_giusta_causa_risarcimento-9666493.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Daniel Siad trovato morto in casa, era accusato di reclutare giovani modelle per consegnarle a Jeffrey Epstein",
       "source_count": 8,
       "article_count": 8,
@@ -74,30 +123,29 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Monterotondo, bimbo di 5 anni muore nella piscina del centro estivo: il malore mentre giocava",
-      "source_count": 8,
+      "rank": 6,
+      "title": "Fedez trasferito all’Humanitas di Rozzano: “E’ ricoverato in chirurgia, sottoposto a nuovi esami per il sanguinamento di un’ulcera”",
+      "source_count": 7,
       "article_count": 8,
       "source_domains": [
-        "ilgiornale.it",
-        "ilfattoquotidiano.it",
         "adnkronos.com",
         "ansa.it",
-        "roma.repubblica.it",
         "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "lastampa.it"
+        "ilgiornale.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.ilgiornale.it/news/cronaca-locale/monterotondo-bimbo-5-anni-muore-nella-piscina-centro-estivo-2696880.html",
-        "https://www.ilfattoquotidiano.it/2026/07/22/bambino-morto-piscina-monterotondo-notizie/8455974/",
-        "https://www.adnkronos.com/cronaca/bimbo-5-anni-muore-piscina-malore-centro-estivo-roma_blEBVKcg9GpM3ro563fEF",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/malore-in-piscina-muore-un-bimbo-di-5-anni-vicino-roma_abd01bc9-569e-4afa-b387-a4c79734ce55.html",
-        "https://roma.repubblica.it/cronaca/2026/07/22/news/bimbo_morto_piscina_comunale_monterotondo_centro_estivo-425486346/"
+        "https://www.adnkronos.com/spettacoli/fedez-come-sta-controlli-humanitas-migliora-ultime-news-esami_6XLCMx9PE7DXAUnkSDKkBT",
+        "https://www.ansa.it/sito/notizie/cultura/2026/07/22/fedez-resta-ricoverato-ora-e-allhumanitas-_404d15da-d696-4db4-8453-a7b3680ea291.html",
+        "https://www.liberoquotidiano.it/news/personaggi/48632047/fedez-trasferito-all-ospedale-humanitas-le-sue-condizioni/",
+        "https://www.ilfattoquotidiano.it/2026/07/22/fedez-trasferito-allhumanitas-di-rozzano-e-ricoverato-in-chirurgia-sottoposto-a-nuovi-esami-per-il-sanguinamento-di-unulcera/8455430/",
+        "https://www.ilmessaggero.it/persone/fedez_resta_ricoverato_come_sta_veramente_terzo_figlio-9665907.html"
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Trump vuole Infantino prossimo segretario generale dell'Onu",
       "source_count": 7,
       "article_count": 7,
@@ -119,7 +167,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Spara ai ladri per tentato furto, denunciato nel Bolognese il custode di un'azienda",
       "source_count": 7,
       "article_count": 7,
@@ -141,7 +189,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "OpenAI, attacco hacker di un agente IA fuori controllo. L’azienda “Incidente senza precedenti”",
       "source_count": 6,
       "article_count": 8,
@@ -162,7 +210,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Grave lutto per Vincenzo Montella, morta la sorella Caterina dopo un incidente domestico",
       "source_count": 7,
       "article_count": 7,
@@ -181,49 +229,6 @@
         "https://www.repubblica.it/sport/calcio/2026/07/22/news/vincenzo_montella_morta_la_sorella_caterina-425486078/",
         "https://www.adnkronos.com/sport/calcio-montella-turchia-sorella_254lSivtCHdpFEHsC3SU8K",
         "https://www.liberoquotidiano.it/news/sport/48632627/gravissimo_lutto_per_vincenzo_montella_la_tragica_morte_della_sorella_caterina/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Pavia, in monopattino senza casco né luce: muore a 16 anni travolto da un'auto",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ansa.it",
-        "milano.repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/22/pavia-investito-sedicenne-monopattino-notizie/8455744/",
-        "https://www.ilgiornale.it/news/cronaca-nera/tragedia-nel-pavese-16enne-morto-investito-unauto-mentre-era-2696752.html",
-        "https://www.adnkronos.com/cronaca/pavia-incidente-monopattino-morto-16enne_6pCjTqGMVmV6CN4TxBUI5D",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/travolto-da-unauto-mentre-e-sul-monopattino-muore-ragazzo-di-16-anni_6572eea6-08f9-4555-8000-efc93bef489b.html",
-        "https://milano.repubblica.it/cronaca/2026/07/22/news/travolto_monopattino_morto_ragazzo_senza_casco-425486059/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Meloni: 'A Bologna violenza inaccettabile contro le forze dell'ordine'",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "laverita.info",
-        "bologna.repubblica.it",
-        "ilgiornale.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.laverita.info/video/kakir-bologna-belpietro-lepore",
-        "https://bologna.repubblica.it/cronaca/2026/07/22/news/poliziotto_ferito_corteo_fakir_bologna-425486315/",
-        "https://www.ilgiornale.it/news/politica/bologna-devastata-caso-fakir-feriti-negli-scontri-oltre-60-2696527.html",
-        "https://www.adnkronos.com/politica/caso-fakir-meloni_6buYXyDNZRRxVk5FziA8A6",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/21/meloni-a-bologna-fatto-inaccettabile.-lepore-chiedere-la-verita-non-delegittima-le-divise_5e512a40-7ef6-47a1-8d8c-b364832957c4.html"
       ]
     }
   ]
