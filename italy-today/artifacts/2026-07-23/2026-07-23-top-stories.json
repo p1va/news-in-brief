@@ -1,14 +1,38 @@
 {
   "date": "2026-07-23",
-  "generated_at": "Thu 23 Jul 11:19",
+  "generated_at": "Thu 23 Jul 14:16",
   "stories": [
     {
       "rank": 1,
-      "title": "Uccide il fratello e ferisce la moglie a colpi di pistola, poi si costituisce. La donna è gravissima",
+      "title": "Dalla Camera via libera bipartisan alla stretta sulla sicurezza delle piscine",
       "source_count": 8,
-      "article_count": 9,
+      "article_count": 11,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/italia/48647822/sicurezza-piscina-nuova-legge-dopo-scia-morte-cosa-cambia-chi-chiude/",
+        "https://www.ilfattoquotidiano.it/2026/07/23/sicurezza-piscine-bocchettoni-chiusura-notizie/8456714/",
+        "https://www.adnkronos.com/politica/sicurezza-piscine-stretta-via-libera-camera-nuova-legge-cosa-prevede_FJ2AYRjYbuunOLBdyZSxg",
+        "https://www.ilmessaggero.it/politica/piscine_sicurezza_cosa_cambia-9668113.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/07/23/dalla-camera-via-libera-bipartisan-alla-stretta-sulla-sicurezza-delle_a17e40c0-4100-4655-a21f-882d1275ac08.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Uccide il fratello e ferisce la moglie a colpi di pistola, poi si costituisce. La donna è gravissima",
+      "source_count": 9,
+      "article_count": 10,
       "source_domains": [
         "ansa.it",
+        "liberoquotidiano.it",
         "ilgiornale.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
@@ -19,32 +43,10 @@
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/uccide-il-fratello-e-spara-alla-moglie-nel-cagliaritano-un-sospettato-in-caserma_f77922ce-280f-4e74-ab66-ebbfe8edb540.html",
+        "https://www.liberoquotidiano.it/news/italia/48647055/cagliari-spara-in-testa-alla-moglie-si-mette-in-auto-e-ammazza-il-fratello/",
         "https://www.ilgiornale.it/news/cronaca-nera/uccide-fratello-e-ferisce-moglie-colpi-pistola-poi-si-2697083.html",
         "https://www.ilfattoquotidiano.it/2026/07/23/spara-moglie-uccide-fratello-confessa-quartu-cagliari-notizie/8456590/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/omicidio-e-tentato-femminicidio-nel-cagliaritano-un-sospettato-in-caserma_f77922ce-280f-4e74-ab66-ebbfe8edb540.html",
-        "https://www.ilmessaggero.it/italia/cagliari_fratello_ucciso_moglie_ferita_cosa_e_successo-9667997.html"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Dalla Camera via libera bipartisan alla stretta sulla sicurezza delle piscine",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/23/sicurezza-piscine-bocchettoni-chiusura-notizie/8456714/",
-        "https://www.adnkronos.com/politica/sicurezza-piscine-stretta-via-libera-camera-nuova-legge-cosa-prevede_FJ2AYRjYbuunOLBdyZSxg",
-        "https://www.ilmessaggero.it/politica/piscine_sicurezza_cosa_cambia-9668113.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/07/23/dalla-camera-via-libera-bipartisan-alla-stretta-sulla-sicurezza-delle_a17e40c0-4100-4655-a21f-882d1275ac08.html",
-        "https://www.repubblica.it/cronaca/2026/07/23/news/piscine_camera_stretta_bipartisan-425488223/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/omicidio-e-tentato-femminicidio-nel-cagliaritano-un-sospettato-in-caserma_f77922ce-280f-4e74-ab66-ebbfe8edb540.html"
       ]
     },
     {
@@ -72,6 +74,27 @@
     },
     {
       "rank": 4,
+      "title": "Maldini: “Aspettiamo la risposta di chi vogliamo come ct. Abbiamo parlato con Guardiola e Ancelotti”",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/23/nuovo-ct-italia-maldini-guardiola-ancelotti-era-giusto-iniziare-dai-migliori/8456943/",
+        "https://www.adnkronos.com/sport/maldini-ancelotti-guardiola-ct_5ERe3F3DMqULXTFPVFGBlQ",
+        "https://www.ilmessaggero.it/sport/nazionali/guardiola_ct_italia_maldini_leonardo_ancelotti_cosa_ha_detto-9668327.html",
+        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/23/news/maldini_nuovo_ct_nazionale_risposta_di_chi_vogliamo-425488607/",
+        "https://www.lastampa.it/sport/2026/07/23/news/maldini_leonardo_calcio_italiano_piano_10_anni-15697270/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Malore in volo per il comandante, atterraggio d'emergenza a Malpensa",
       "source_count": 6,
       "article_count": 7,
@@ -92,51 +115,12 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Nuovi raid Usa all’Iran. Gli Houthi attaccano due petroliere saudite nel Mar Rosso",
-      "source_count": 5,
+      "rank": 6,
+      "title": "Mario Calabresi valuta una possibile candidatura a sindaco di Milano",
+      "source_count": 6,
       "article_count": 6,
       "source_domains": [
         "ilfattoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/23/attacchi-usa-iran-hormuz-petroliera-notizie/8456528/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/23/iran-nuova-ondata-di-attacchi-usa.-i-pasdaran-petroliera-in-fiamme-a-hormuz-altre_6058b0ba-1d17-4e09-810e-a404ad1aeebb.html",
-        "https://www.adnkronos.com/internazionale/esteri/guerra-stati-uniti-iran-nuovi-attacchi-usa-teheran-blocca-navi-hormuz-ultime-news-oggi_4tNF5TMjATI5JwXY8VvI1T",
-        "https://www.repubblica.it/esteri/2026/07/23/news/attaccate_dagli_houthi_due_petroliere_saudite_che_hanno_violato_il_blocco_navale-425487387/",
-        "https://www.repubblica.it/esteri/2026/07/23/diretta/guerra_iran_usa_israele_news_oggi-425487364/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "OpenAI, come fermare l'algoritmo impazzito? Ci può essere il freno d'emergenza? Domande e risposte",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://ilmanifesto.it/ai-fuori-controllo-un-modello-di-altman-si-da-allhackeraggio",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/07/23/news/intelligenza_artificiale_proprieta_open_ai_sam_altman_donald_trump_bernie_sanders-15696781/",
-        "https://www.ilmessaggero.it/schede/openai_come_fermare_algoritmo-9666765.html",
-        "https://www.ansa.it/canale_tecnologia/notizie/cybersecurity/2026/07/22/openai-i-nostri-modelli-ia-fuori-controllo-hanno-hackerato-altra-piattaforma_b024ad4e-1e77-4420-afea-efe8294343e7.html",
-        "https://www.lastampa.it/tech/2026/07/22/news/hugging_face_agente_openai_attacco-15696381/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Mario Calabresi valuta una possibile candidatura a sindaco di Milano",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
         "ilgiornale.it",
         "ansa.it",
         "ilmessaggero.it",
@@ -144,15 +128,75 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/23/mario-calabresi-candidato-sindaco-milano-notizie/8456861/",
         "https://www.ilgiornale.it/news/interni/mario-calabresi-valuta-candidatura-sindaco-milano-mi-2697026.html",
         "https://www.ansa.it/sito/notizie/politica/2026/07/22/mario-calabresi-valuta-una-possibile-candidatura-a-sindaco-di-milano_ada69c87-c839-43a7-8481-c4214470a4bc.html",
         "https://www.ilmessaggero.it/politica/mario_calabresi_sindaco_milano_candidatura-9666788.html",
-        "https://www.lastampa.it/politica/2026/07/22/news/milano_calabresi_apre_alla_candidatura_a_sindaco_si_ci_penso_voglio_fare_la_mia_parte-15696829/",
-        "https://www.ilsole24ore.com/art/milano-calabresi-candidarmi-ci-penso-mi-piacerebbe-fare-mia-parte-AJDWusS"
+        "https://www.lastampa.it/politica/2026/07/22/news/milano_calabresi_apre_alla_candidatura_a_sindaco_si_ci_penso_voglio_fare_la_mia_parte-15696829/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Caso Fakir, al Tg1 immagini body cam poliziotti. Legale agenti: \"Contatto con altre persone\"",
+      "source_count": 4,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilgiornale.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/al-tg1-un-video-dalla-bodycam-di-un-agente-contatto-tra-fakir-e-unaltra-persona_aa9d20d7-69ef-41b8-bab8-bb89181d4034.html",
+        "https://www.ansa.it/sito/videogallery/italia/2026/07/23/al-tg1-video-bodycam-agente-contatto-tra-fakir-e-altra-persona_f1c62b9a-8dae-4756-a2f2-2d9bae51992d.html",
+        "https://www.adnkronos.com/cronaca/caso-fakir-video-body-cam-poliziotti-immagini-choc-agenti_6N3mQLFyftt1ZXgburAWbs",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/07/23/prime-pagine-nuovi-video-prima-dellintervento-la-confusione-di-fakir-in-strada_494be05a-c49c-49d1-a692-62a2b4345484.html",
+        "https://www.lastampa.it/cronaca/2026/07/23/news/fakir_rianimato_manette-15696819/"
       ]
     },
     {
       "rank": 8,
+      "title": "Bambino di 18 mesi muore in ospedale a Catanzaro, altri quattro ricoverati",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/bimbo-di-18-mesi-muore-in-ospedale-altri-4-ricoverati-_c5535ae7-9c4f-463a-be10-5df949d157b1.html",
+        "https://www.repubblica.it/cronaca/2026/07/23/news/bambino_morto_ospedale_catanzaro-425488544/",
+        "https://www.liberoquotidiano.it/news/italia/48647983/catanzaro-batterio-killer-morto-bimbo-1-anno-altri-4-ricoverati/",
+        "https://www.ilmessaggero.it/italia/batterio_killer_tropea_bimbo_morto_ultime_notizie-9668243.html",
+        "https://www.lastampa.it/cronaca/2026/07/23/news/tropea_bimbo_morto_nido_sospetto_setticemia_inchiesta-15697150/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Nuovi raid Usa all’Iran. Gli Houthi attaccano due petroliere saudite nel Mar Rosso",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/23/gli-houthi-attaccano-due-petroliere-nel-mar-rosso.-corrono-greggio_6058b0ba-1d17-4e09-810e-a404ad1aeebb.html",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/23/attacchi-usa-iran-hormuz-petroliera-notizie/8456528/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/23/iran-nuova-ondata-di-attacchi-usa.-i-pasdaran-petroliera-in-fiamme-a-hormuz-altre_6058b0ba-1d17-4e09-810e-a404ad1aeebb.html",
+        "https://www.adnkronos.com/internazionale/esteri/guerra-stati-uniti-iran-nuovi-attacchi-usa-teheran-blocca-navi-hormuz-ultime-news-oggi_4tNF5TMjATI5JwXY8VvI1T",
+        "https://www.repubblica.it/esteri/2026/07/23/news/attaccate_dagli_houthi_due_petroliere_saudite_che_hanno_violato_il_blocco_navale-425487387/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Delmastro, no della Giunta alla richiesta dei pm di acquisire le chat. M5s occupa i banchi del governo",
       "source_count": 5,
       "article_count": 5,
@@ -169,43 +213,6 @@
         "https://www.ilmessaggero.it/politica/delmastro_chat_scudo_centrodestra_perche_cosa_contengono-9666724.html",
         "https://www.ansa.it/sito/notizie/politica/2026/07/22/caso-delmastro-la-camera-boccia-la-richiesta-dei-pm-sulle-chat_0585e1bd-5302-4277-8ff9-5aff52807480.html",
         "https://www.ilsole24ore.com/art/delmastro-no-giunta-richiesta-pm-acquisire-chat-m5s-occupa-banchi-governo-AJW60OS"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Auto sulla folla a Modena, 55enne muore dopo due mesi",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "laverita.info",
-        "ansa.it",
-        "ilgiornale.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.laverita.info/cronache-dellinvasione/monica-esposito-strage-modena",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/22/auto-sulla-folla-a-modena-donna-55enne-muore-dopo-due-mesi_5a2d738d-e921-4a33-9ce1-06dc7c659e2b.html",
-        "https://www.ilgiornale.it/news/nazionale/chi-era-monica-esposito-donna-morta-lattentato-modena-2696852.html",
-        "https://www.ilgiornale.it/news/cronaca-nera/attentato-modena-morta-ospedale-monica-esposito-investita-el-2696799.html",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE44WlJBZWhKbGdqUWZPNDJIYktKQV9KWVZSZVBSa281Y2pmU0E0cXBmMDZDcGVOOXVCRlJhb3NlOGt0VWJaZHpucllPRzM1UGdGSWxlbmF3emNZekh3TzdEQjNQekJMS3BBamI0?oc=5"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Sciopero dei treni: oggi 23 luglio ci si ferma. Ecco gli orari dello stop e le fasce garantite",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/treni-sciopero-23-luglio-news-oggi_7nce7sIgaED3jKLP8UjprE",
-        "https://www.ilmessaggero.it/economia/schede/scioperi_treni_oggi_e_domani_orari_e_fasce_di_garanzia-9668140.html",
-        "https://www.lastampa.it/cronaca/2026/07/23/news/sciopero_treni_navi_orari_fasce_garantite_ferrovie_italo_gnv-15696920/",
-        "https://www.repubblica.it/economia/2026/07/23/news/sciopero_24_luglio_treni_fasce_di_garanzia-425485982/"
       ]
     }
   ]
