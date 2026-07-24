@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated_at": "Fri 24 Jul 19:46",
+  "generated_at": "Fri 24 Jul 21:13",
   "stories": [
     {
       "rank": 1,
@@ -29,9 +29,30 @@
     },
     {
       "rank": 2,
-      "title": "Fakir soffocato dal suo sangue: l’esito della Tac. Oggi l’autopsia",
+      "title": "Spagna e Francia bruciano. Incendio da incubo a Madrid, \"impossibile fermarlo\". Cap Ferret, turisti in fuga via mare",
       "source_count": 6,
-      "article_count": 14,
+      "article_count": 13,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/48665101/spagna-francia-bruciano-incendio-incubo-madrid-impossibile-fermarlo-cap-ferret-turisti-fuga-via-mare/",
+        "https://www.liberoquotidiano.it/news/tv-news/48662665/le-immagini-aeree-dell-enorme-incendio-in-spagna/",
+        "https://www.liberoquotidiano.it/news/tv-news/48661840/il-fuoco-devasta-la-francia-e-in-spagna-e-alle-porte-di-madrid/",
+        "https://www.repubblica.it/esteri/2026/07/24/news/francia_incendi_penisola_cap_ferret_in_fiamme_evacuate_60mila_persone-425490623/",
+        "https://www.lastampa.it/esteri/2026/07/24/news/incendio_cap_ferret_centinaia_evacuati_via_mare-15698449/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Fakir, conclusa l'autopsia. Il legale della famiglia: \"Ipotesi asfissia da compressione\"",
+      "source_count": 6,
+      "article_count": 11,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
@@ -46,28 +67,6 @@
         "https://www.adnkronos.com/cronaca/autopsia-fakir-risultati-indagine-news_953bYQhy2sNOJCQjD0JyZ",
         "https://www.ilmessaggero.it/italia/fakir_autopsia_come_e_morto_ultime_notizie-9670454.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/fakir-era-seguito-da-un-centro-di-salute-mentale.-piantedosi-dai-video-la-correttezza_38d2db79-44ca-4296-bf26-1722afc6e2ba.html"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Guerra ai baby-delinquenti, minori imputabili dai 14 anni",
-      "source_count": 7,
-      "article_count": 11,
-      "source_domains": [
-        "repubblica.it",
-        "laverita.info",
-        "adnkronos.com",
-        "ansa.it",
-        "lastampa.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/07/24/news/minori_salvini_genitore_giusto_punire_14_anni_penalisti_dubbi_costituzionalita-425490617/",
-        "https://www.laverita.info/governo/norma-anti-maranza-minori-imputabili",
-        "https://www.laverita.info/governo/ddl-imputabilita-minori",
-        "https://www.adnkronos.com/politica/minori-norma-anti-maranza-imputabilita-salvini_4Jbe9Bku1EkJ0JZb4Qzsom",
-        "https://www.ansa.it/sito/videogallery/short_video/2026/07/24/meloni-chi-sbaglia-risponde-delle-proprie-azioni-anche-i-minorenni_87a0c50c-dc96-4a2e-99d5-092489525265.html"
       ]
     },
     {
@@ -93,42 +92,44 @@
     },
     {
       "rank": 5,
-      "title": "Incendio a Cap Ferret: centinaia di persone fuggono in barca, in fiamme 8.700 ettari di territorio",
+      "title": "Guerra ai baby-delinquenti, minori imputabili dai 14 anni",
       "source_count": 6,
       "article_count": 10,
       "source_domains": [
-        "ilfattoquotidiano.it",
         "repubblica.it",
-        "lastampa.it",
+        "laverita.info",
+        "adnkronos.com",
         "ansa.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it"
+        "lastampa.it",
+        "ilmanifesto.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/24/cap-ferret-incendio-francia-gironda-video/8458234/",
-        "https://www.repubblica.it/esteri/2026/07/24/news/francia_incendi_penisola_cap_ferret_in_fiamme_evacuate_60mila_persone-425490623/",
-        "https://www.lastampa.it/esteri/2026/07/24/news/incendio_cap_ferret_centinaia_evacuati_via_mare-15698449/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/24/centinaia-di-persone-in-fuga-in-barca-dallincendio-a-cap-ferret_3358ef6e-13cf-4ef5-9e7d-288940c4d2e3.html",
-        "https://www.ilmessaggero.it/mondo/incendio_cap_ferret_francia_ultime_notizie-9670157.html"
+        "https://www.repubblica.it/politica/2026/07/24/news/minori_salvini_genitore_giusto_punire_14_anni_penalisti_dubbi_costituzionalita-425490617/",
+        "https://www.laverita.info/governo/norma-anti-maranza-minori-imputabili",
+        "https://www.laverita.info/governo/ddl-imputabilita-minori",
+        "https://www.adnkronos.com/politica/minori-norma-anti-maranza-imputabilita-salvini_4Jbe9Bku1EkJ0JZb4Qzsom",
+        "https://www.ansa.it/sito/videogallery/short_video/2026/07/24/meloni-chi-sbaglia-risponde-delle-proprie-azioni-anche-i-minorenni_87a0c50c-dc96-4a2e-99d5-092489525265.html"
       ]
     },
     {
       "rank": 6,
-      "title": "Russia, droni ucraini colpiscono Wildberries, fumo su San Pietroburgo",
-      "source_count": 4,
-      "article_count": 8,
+      "title": "Caro carburanti, vertice Meloni-Giorgetti: ipotesi accise mobili",
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
         "adnkronos.com",
-        "lastampa.it"
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/24/nuova-strage-a-kiev-almeno-10-morti.-droni-a-san-pietroburgo_8e3d0e08-deaf-448b-a260-c5815ed9a593.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48661547/russia-droni-ucraini-san-pietroburgo-magazzino-fiamme-3-feriti/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/24/media-in-fiamme-lamazon-russo-di-san-pietroburgo.-raid-su-kiev-sei-morti_8e3d0e08-deaf-448b-a260-c5815ed9a593.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/24/media-in-fiamme-il-magazzino-wildberries-di-san-pietroburgo.-sei-morti-a-kirov_8e3d0e08-deaf-448b-a260-c5815ed9a593.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48661257/russia-droni-ucraini-colpiscono-wildberries-fumo-su-san-pietroburgo/"
+        "https://www.adnkronos.com/economia/benzina-diesel-prezzo-accise-mobili_5ZiZ6pIuiaWTMbwWZBG0Xj",
+        "https://www.ansa.it/sito/notizie/economia/2026/07/24/governo-al-lavoro-su-carburanti-allo-studio-anche-accise-mobili_52a71d7e-633f-4fd1-a27f-3bdb30492e1f.html",
+        "https://www.repubblica.it/economia/2026/07/24/news/caro_benzina_meloni_giorgetti_accise_mobili-425491370/",
+        "https://www.ilmessaggero.it/economia/news/benzina_accise_mobili_cosa_significa_ultime_notizie-9670688.html",
+        "https://www.lastampa.it/politica/2026/07/24/news/meloni_vede_giorgetti_al_lavoro_contro_il_caro-benzina_l_ipotesi_delle_accise_mobili-15698672/"
       ]
     },
     {
@@ -172,6 +173,24 @@
     },
     {
       "rank": 9,
+      "title": "Russia, droni ucraini colpiscono Wildberries, fumo su San Pietroburgo",
+      "source_count": 3,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/24/nuova-strage-a-kiev-almeno-10-morti.-droni-a-san-pietroburgo_8e3d0e08-deaf-448b-a260-c5815ed9a593.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48661547/russia-droni-ucraini-san-pietroburgo-magazzino-fiamme-3-feriti/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/24/media-in-fiamme-lamazon-russo-di-san-pietroburgo.-raid-su-kiev-sei-morti_8e3d0e08-deaf-448b-a260-c5815ed9a593.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/24/media-in-fiamme-il-magazzino-wildberries-di-san-pietroburgo.-sei-morti-a-kirov_8e3d0e08-deaf-448b-a260-c5815ed9a593.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48661257/russia-droni-ucraini-colpiscono-wildberries-fumo-su-san-pietroburgo/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Matilde Baldi, uccisa da una Porsche: condanna a otto anni per omicidio. La madre: “Troppo pochi”",
       "source_count": 5,
       "article_count": 5,
@@ -188,26 +207,6 @@
         "https://torino.repubblica.it/cronaca/2026/07/24/news/matilde_baldi_gara_porsche_morta_omicidio_stradale_processo_condanna_asti-425490641/",
         "https://www.lastampa.it/asti/2026/07/24/news/gara_porsche_pm_chiede_10_anni_reclusione_franco_vacchina_5_davide_bertello-15698370/",
         "https://www.agi.it/cronaca/news/2026-07-24/matilde-baldi-condannato-conducente-porsche-38217354/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Kenya, muore turista italiana in vacanza con la famiglia",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/24/incidente-sidney-serpretri-kenya-turista-italiana-morta/8458130/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/incidente-in-kenya-muore-turista-italiana-in-vacanza-con-la-famiglia_b0563555-8635-4332-8f4e-bc840efdd9a6.html",
-        "https://www.adnkronos.com/internazionale/esteri/kenya-incidente-turista-italiana-morta-firenze_2h2bDUjA3ZKtP6udLMLHjf",
-        "https://www.ilmessaggero.it/mondo/sidney_serpetri_italiana_morta_incidente_kenya-9670331.html",
-        "https://www.ilsole24ore.com/art/kenya-muore-turista-italiana-vacanza-la-famiglia-AJ7qtiU"
       ]
     }
   ]
