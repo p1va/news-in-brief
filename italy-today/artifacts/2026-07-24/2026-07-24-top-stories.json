@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated_at": "Fri 24 Jul 15:33",
+  "generated_at": "Fri 24 Jul 17:46",
   "stories": [
     {
       "rank": 1,
@@ -18,37 +18,59 @@
         "liberoquotidiano.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/07/24/i-dubbi-dei-penalisti-incostituzionali-le-nuove-norme-sui-minori_31b52b21-f112-4d94-ac09-e911abc22d71.html",
         "https://www.ansa.it/sito/notizie/politica/2026/07/24/i-penalisti-dubbi-di-incostituzionalita-sullimputabilita-dei-minorenni_31b52b21-f112-4d94-ac09-e911abc22d71.html",
         "https://www.repubblica.it/politica/2026/07/24/news/minori_salvini_genitore_giusto_punire_14_anni_penalisti_dubbi_costituzionalita-425490617/",
         "https://www.laverita.info/governo/norma-anti-maranza-minori-imputabili",
-        "https://www.laverita.info/governo/ddl-imputabilita-minori",
-        "https://www.adnkronos.com/politica/minori-norma-anti-maranza-imputabilita-salvini_4Jbe9Bku1EkJ0JZb4Qzsom"
+        "https://www.laverita.info/governo/ddl-imputabilita-minori"
       ]
     },
     {
       "rank": 2,
-      "title": "Guardiola, no all'Italia: Maldini e Leonardo virano su Pirlo, ma c'è sempre l'opzione Mancini",
-      "source_count": 7,
-      "article_count": 12,
+      "title": "Guardiola, no all'Italia: ecco i motivi. Maldini e Leonardo virano su Pirlo, ma c'è sempre l'opzione Mancini",
+      "source_count": 8,
+      "article_count": 17,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "repubblica.it",
+        "adnkronos.com",
         "ansa.it",
-        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
+        "repubblica.it",
         "lastampa.it",
-        "ilmanifesto.it"
+        "ilmanifesto.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/24/ct-italia-guardiola-rifiuto-nomi-favoriti-arteta-benitez-baldini-pirlo/8458142/",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/24/news/guardiola_italia_pirlo_bergomi_intervista-425490793/",
-        "https://www.ilfattoquotidiano.it/2026/07/24/ct-italia-pirlo-prescelto-nomi-chi-sara-conte-mancini/8457838/",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/24/news/pirlo_mancini_conte_alternative_guardiola-425490518/",
-        "https://www.ansa.it/sito/notizie/sport/2026/07/24/guardiola-rifiuta-lofferta-della-federcalcio-non-sara-ct-dellitalia-_fe13a9b2-458c-40c1-b186-830757ff843a.html"
+        "https://www.adnkronos.com/sport/nazionale-pirlo-guardiola-ct-italia_1HgRf7W5oVrj1Fixsy2qkK",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/sfuma-il-sogno-guardiola-pirlo-verso-la-panchina-azzurra-_fe13a9b2-458c-40c1-b186-830757ff843a.html",
+        "https://www.ilfattoquotidiano.it/2026/07/24/pirlo-allenatore-nazionale-contratto-notizie/8458463/",
+        "https://www.ilmessaggero.it/sport/calcio/pirlo_nazionale_quanto_guadagna-9670570.html",
+        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/24/news/pirlo_nuovo_ct_nazionale-425491172/"
       ]
     },
     {
       "rank": 3,
+      "title": "Fakir soffocato dal suo sangue: l’esito della Tac. Oggi l’autopsia",
+      "source_count": 6,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "bologna.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/lautopsia-su-fakir-sangue-nei-polmoni-e-schiacciamento.-la-difesa-degli-agenti-nessuna_38d2db79-44ca-4296-bf26-1722afc6e2ba.html",
+        "https://www.adnkronos.com/cronaca/autopsia-fakir-risultati-indagine-news_953bYQhy2sNOJCQjD0JyZ",
+        "https://www.ilmessaggero.it/italia/fakir_autopsia_come_e_morto_ultime_notizie-9670454.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/fakir-era-seguito-da-un-centro-di-salute-mentale.-piantedosi-dai-video-la-correttezza_38d2db79-44ca-4296-bf26-1722afc6e2ba.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/attesa-per-lautopsia-di-fakir.-la-tac-compromissione-delle-vie-respiratorie_38d2db79-44ca-4296-bf26-1722afc6e2ba.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Usa, da oggi tariffe dal 10 al 12,5% su molti partner",
       "source_count": 6,
       "article_count": 10,
@@ -69,30 +91,10 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Fakir soffocato dal suo sangue: l’esito della Tac. Oggi l’autopsia",
-      "source_count": 5,
-      "article_count": 10,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "adnkronos.com",
-        "bologna.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/fakir_autopsia_come_e_morto_ultime_notizie-9670454.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/fakir-era-seguito-da-un-centro-di-salute-mentale.-piantedosi-dai-video-la-correttezza_38d2db79-44ca-4296-bf26-1722afc6e2ba.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/attesa-per-lautopsia-di-fakir.-la-tac-compromissione-delle-vie-respiratorie_38d2db79-44ca-4296-bf26-1722afc6e2ba.html",
-        "https://www.adnkronos.com/cronaca/fakir-morte-polizia-bologna-oggi-autopsia-news_2pj51Qazo99unRgQy38kYN",
-        "https://bologna.repubblica.it/cronaca/2026/07/24/news/fakir_autopsia_morte_bologna_ultime_notizie-425490111/"
-      ]
-    },
-    {
       "rank": 5,
       "title": "Incendio a Cap Ferret: centinaia di persone fuggono in barca, in fiamme 8.700 ettari di territorio",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ilfattoquotidiano.it",
         "repubblica.it",
@@ -112,21 +114,20 @@
     {
       "rank": 6,
       "title": "Russia, droni ucraini colpiscono Wildberries, fumo su San Pietroburgo",
-      "source_count": 5,
-      "article_count": 9,
+      "source_count": 4,
+      "article_count": 8,
       "source_domains": [
-        "ilfattoquotidiano.it",
         "ansa.it",
         "liberoquotidiano.it",
         "adnkronos.com",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/24/droni-ucraini-wildberries-san-pietroburgo-notizie/8458361/",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/24/nuova-strage-a-kiev-almeno-10-morti.-droni-a-san-pietroburgo_8e3d0e08-deaf-448b-a260-c5815ed9a593.html",
         "https://www.liberoquotidiano.it/news/libero-video/48661547/russia-droni-ucraini-san-pietroburgo-magazzino-fiamme-3-feriti/",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/24/media-in-fiamme-lamazon-russo-di-san-pietroburgo.-raid-su-kiev-sei-morti_8e3d0e08-deaf-448b-a260-c5815ed9a593.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/24/media-in-fiamme-il-magazzino-wildberries-di-san-pietroburgo.-sei-morti-a-kirov_8e3d0e08-deaf-448b-a260-c5815ed9a593.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/24/media-in-fiamme-il-magazzino-wildberries-di-san-pietroburgo.-sei-morti-a-kirov_8e3d0e08-deaf-448b-a260-c5815ed9a593.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48661257/russia-droni-ucraini-colpiscono-wildberries-fumo-su-san-pietroburgo/"
       ]
     },
     {
@@ -170,6 +171,26 @@
     },
     {
       "rank": 9,
+      "title": "Caso Delmastro, l’avvocato di Caroccia: “Darò io ai pm le chat con l’ex sottosegretario”",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "roma.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/24/caso-delmastro-chat-procura-notizie/8458441/",
+        "https://www.adnkronos.com/cronaca/delmastro-chat-caroccia-procura_3e6t3AXuMV6jIoFBmvrdgh",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/23/il-legale-di-caroccia-oggi-in-procura-le-chat-con-delmastro_52786888-166b-4b2f-af84-c2e334b2470a.html",
+        "https://roma.repubblica.it/cronaca/2026/07/24/news/delmastro_caroccia_chat_procura_inchiesta_bisteccheria-425490846/",
+        "https://www.lastampa.it/politica/2026/07/24/news/delmastro_caroccia_bisteccheria_d_italia_indagini_chat-15698471/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Volpato, giocatore del Sassuolo ed ex Roma, positivo alla cocaina in Australia: era in auto a 109 km/h in una strada con limite a 60",
       "source_count": 4,
       "article_count": 5,
@@ -185,24 +206,6 @@
         "https://www.lastampa.it/sport/2026/07/24/news/cristian_volpato_fermato_positivo_cocaina_sydney-15698269/",
         "https://www.ilmessaggero.it/sport/calcio/volpato_cocaina_australia_guida_ultime_notizie-9670007.html",
         "https://www.ilmessaggero.it/sport/calcio/volpato_cocaina_positivo_australia_ritiro_patente_velocita_ultime_notizie-9670007.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "L’Aquila, morta la 22enne precipitata dalla finestra della scuola ispettori della Guardia di Finanza",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/allieva_guardia_finanza_morta_precipitata_stanza_ultime_notizie-9670055.html",
-        "https://www.adnkronos.com/cronaca/morta-allieva-caduta-finestra-scuola-gdf-coppito_61Sh5N5VocJS4hGEDyBZ6V",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/24/morta-la-22enne-precipitata-dal-palazzo-della-scuola-gdf-allaquila_7acc4984-fe9a-45ef-aaef-c15e882fbcef.html",
-        "https://www.lastampa.it/cronaca/2026/07/24/news/morte_ragazza_precipitata_scuola_gdf_aquila-15698136/"
       ]
     }
   ]
