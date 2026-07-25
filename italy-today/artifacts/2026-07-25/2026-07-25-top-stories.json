@@ -1,9 +1,31 @@
 {
   "date": "2026-07-25",
-  "generated_at": "Sat 25 Jul 14:44",
+  "generated_at": "Sat 25 Jul 16:12",
   "stories": [
     {
       "rank": 1,
+      "title": "Oltre 200mila persone evacuate per gli incendi fra Francia e Spagna",
+      "source_count": 7,
+      "article_count": 14,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48675559/incendi-spagna-sanchez-situazione-drammatica-priorita-e-salvaguardare-vite/",
+        "https://www.liberoquotidiano.it/news/tv-news/48675600/incendi-in-francia-200mila-persone-evacuate-98mila-ettari-in-fumo/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/07/25/spagna-continua-la-battaglia-contro-gli-incendi-migliaia-di-evacuati_cdf0bf56-3dad-4130-b464-c33b55758347.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48675130/spagna-immagini-aeree-degli-incendi-nelle-regioni-di-madrid-e-avila/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/25/evacuate-250mila-persone-per-gli-incendi-fra-francia-e-spagna_80ab366f-8a73-4a3c-b3bf-1efc3ae4120a.html"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Giornalista carbonizzato a Eboli, un fermato è un 26enne senza fissa dimora ha confessato",
       "source_count": 8,
       "article_count": 11,
@@ -23,28 +45,6 @@
         "https://www.ilmessaggero.it/persone/luca_esposito_omicidio_cosa_non_torna_doppia_vita_finta_moglie_incontro_killer_movente_perche_e_stato_ucciso-9672058.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/giornalista-carbonizzato-a-eboli-un-fermato-e-un-26enne-senza-fissa-dimora_e696714f-1d78-4d29-940f-fd443fd6fcd1.html",
         "https://www.ilmessaggero.it/persone/luca_esposito_chi_e_killer_tunisino_cosa_e_successo_ricostruzione_omicidio-9672020.html"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Oltre 200mila persone evacuate per gli incendi fra Francia e Spagna",
-      "source_count": 7,
-      "article_count": 12,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/videogallery/mondo/2026/07/25/spagna-continua-la-battaglia-contro-gli-incendi-migliaia-di-evacuati_cdf0bf56-3dad-4130-b464-c33b55758347.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48675130/spagna-immagini-aeree-degli-incendi-nelle-regioni-di-madrid-e-avila/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/25/evacuate-250mila-persone-per-gli-incendi-fra-francia-e-spagna_80ab366f-8a73-4a3c-b3bf-1efc3ae4120a.html",
-        "https://www.ilfattoquotidiano.it/2026/07/25/incendi-francia-spagna-evacuati-notizie/8458804/",
-        "https://www.adnkronos.com/internazionale/esteri/incendi-francia-spagna-evacuati-ultime-news_7t7orwRCAPGbzlY99GuHfv"
       ]
     },
     {
@@ -93,11 +93,33 @@
     },
     {
       "rank": 5,
+      "title": "F1: pole di Norris in Ungheria, Hamilton secondo per 12 millesimi",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/25/f1-gp-ungheria-qualifiche-pole-griglia-di-partenza/8458998/",
+        "https://www.ansa.it/sito/notizie/sport/2026/07/25/f1-pole-di-norris-in-ungheria-hamilton-secondo-per-12-millesimi_1f3db3f4-cb6b-4912-b687-1e35893429d4.html",
+        "https://www.adnkronos.com/sport/f1-gp-ungheria-la-griglia-di-partenza-norris-in-pole_UZM1yhTphCEEstpoTNyW2",
+        "https://www.repubblica.it/sport/formulauno/2026/07/25/diretta/f1_gp_ungheria_qualifiche_oggi-425492673/",
+        "https://www.adnkronos.com/sport/diretta-gp-ungheria-qualifiche-oggi-25-luglio_2mIbpyrQu1HFigcRZK2vhQ"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Si tuffa nel lago di Como per aiutare il figlio in difficoltà e non riemerge: turista disperso",
-      "source_count": 7,
-      "article_count": 7,
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
         "adnkronos.com",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "ansa.it",
         "ilmessaggero.it",
@@ -107,14 +129,36 @@
       ],
       "links": [
         "https://www.adnkronos.com/cronaca/disperso-lago-di-como-turista-tuffati-per-salvare-figlio-oggi-aggiornamenti_7xSoWpAohaKEHc0jlsrhF3",
+        "https://www.liberoquotidiano.it/news/italia/48675132/lago-como-tuffa-salvare-figlio-ma-non-riemerge-piu-turista-disperso/",
         "https://www.ilfattoquotidiano.it/2026/07/25/turista-disperso-lago-como-menaggio-notizie/8458979/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/turista-si-tuffa-per-salvare-il-figlio-nel-lago-di-como-e-non-riemerge_af8c0331-41c6-4e01-aaa2-1931c89661cd.html",
-        "https://www.ilmessaggero.it/italia/lago_di_como_turista_annega_barca_figlio_ultime_notizie-9672287.html",
-        "https://milano.repubblica.it/cronaca/2026/07/25/news/tuffa_lago_como_menaggio_aiutare_figlio_non_riemerge_turista_disperso-425492588/"
+        "https://www.ilmessaggero.it/italia/lago_di_como_turista_annega_barca_figlio_ultime_notizie-9672287.html"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Trump a sorpresa punta al terzo mandato: «Voglio candidarmi alle presidenziali del 2028»",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48675570/trump-mi-candido-alle-elezioni-per-il-2028-e-tira-fuori-il-cappello-trump-2028-/",
+        "https://www.ilfattoquotidiano.it/2026/07/25/trump-terzo-mandato-candidatura-vietata-costituzione-notizie/8458788/",
+        "https://www.liberoquotidiano.it/news/tv-news/48672303/trump-alla-cena-dei-corrispondenti-scherza-su-un-altro-mandato/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/25/the-donald-indossa-il-cappellino-rosso-trump-2028.-e-annuncia-mi-candido-a-presidenziali_a02ce66c-2cca-4ca3-ae44-60055fc6e6ea.html",
+        "https://www.repubblica.it/esteri/2026/07/25/news/trump_cena_corrispondenti_annuncio_candidatura_elezioni_2028-425491972/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Vertice Meloni-Giorgetti, Governo verso un nuovo decreto carburanti",
       "source_count": 6,
       "article_count": 7,
@@ -135,13 +179,33 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Sfuma il sogno Pep Guardiola, Pirlo pronto a fare il ct",
+      "rank": 9,
+      "title": "Vannacci, nuovo video con AI: intercede con finto Mattarella per grazia a Roggero",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/07/25/nuovo-video-ai-di-vannacci-generaleintercede-con-finto-mattarella-su-grazia-a-roggero_5800233c-7065-4878-bad0-955f6047f639.html",
+        "https://www.adnkronos.com/politica/vannacci-roggero-video-grazia-mattarella_4KO9kZT14I19mHJjQKJVts",
+        "https://www.ilmessaggero.it/politica/vannacci_video_roggero_grazia_mattarella_intelligenza_artificiale-9672272.html",
+        "https://www.lastampa.it/politica/2026/07/25/news/vannacci_video_ai_mattarella_grazia_roggero-15699222/",
+        "https://www.repubblica.it/politica/2026/07/25/news/vannacci_meloni_ia_video_mattarella_grazia_roggero-425492478/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Sfuma il sogno Pep Guardiola, Pirlo pronto a fare il ct",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
         "ilmessaggero.it",
-        "adnkronos.com",
         "repubblica.it",
         "ansa.it",
         "liberoquotidiano.it",
@@ -149,69 +213,10 @@
       ],
       "links": [
         "https://www.ilmessaggero.it/sport/schede/pirlo_quando_debutta_italia_nazionale_ct_calendario-9672354.html",
-        "https://www.adnkronos.com/sport/pirlo-ct-nazionale-russia-scommesse_3LRhIQsF8iUvhDj6mgPQrY",
         "https://www.repubblica.it/sport/calcio/nazionale/2026/07/25/news/guardiola_pirlo_ct_italia_nazionale_tardelli_intervista-425491553/",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/25/news/pirlo_ctrischio_lezione-425491779/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/sfuma-il-sogno-pep-guardiola-pirlo-pronto-a-fare-il-ct_fe13a9b2-458c-40c1-b186-830757ff843a.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Trump a sorpresa punta al terzo mandato: «Voglio candidarmi alle presidenziali del 2028»",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/25/trump-terzo-mandato-candidatura-vietata-costituzione-notizie/8458788/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/25/the-donald-indossa-il-cappellino-rosso-trump-2028.-e-annuncia-mi-candido-a-presidenziali_a02ce66c-2cca-4ca3-ae44-60055fc6e6ea.html",
-        "https://www.repubblica.it/esteri/2026/07/25/news/trump_cena_corrispondenti_annuncio_candidatura_elezioni_2028-425491972/",
-        "https://www.lastampa.it/esteri/2026/07/25/news/trump_ricandidatura_2028-15698962/",
-        "https://www.adnkronos.com/internazionale/esteri/trump-annuncio-provocazione-presidenziali-2028-cappellino-rosso_4CoftQ3GYIzZuSwc4OzTEF"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "F1, in Ungheria è caccia alla pole: le Ferrari ci credono. Le qualifiche in diretta",
-      "source_count": 4,
-      "article_count": 7,
-      "source_domains": [
-        "repubblica.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/formulauno/2026/07/25/diretta/f1_gp_ungheria_qualifiche_oggi-425492673/",
-        "https://www.adnkronos.com/sport/diretta-gp-ungheria-qualifiche-oggi-25-luglio_2mIbpyrQu1HFigcRZK2vhQ",
-        "https://www.adnkronos.com/sport/f1-ungheria-ferrari-norris-leclerc-antonelli_7JynNien5LAK0j9uTZEklD",
-        "https://www.lastampa.it/sport/2026/07/25/news/gp_ungheria_norris_precede_hamilton_e_antonelli_la_pole_e_un_rebus-15699157/",
-        "https://www.ilmessaggero.it/blog/milleruote/ferrari_in_testa_a_budapest_il_re_dell_hungaroring_hamilton_sfida_la_mercedes_del_suo_amico_antonelli-9672093.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Zelensky: 'Colpite nel Mar Caspio navi russe che trasportavano armi dirette all'Iran'",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/25/zelensky-colpite-nel-mar-caspio-navi-russe-che-trasportavano-armi_dfc5d758-e68e-42df-b70d-aa62c52eaa9d.html",
-        "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-aggiornamenti-oggi-25-luglio_1T75Xuyjk9bjRr6ZyM3Z9P",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/25/mosca-in-raid-ucraini-su-regione-zaporizhzhia-almeno-8-morti-2-sono-bimbi_dfc5d758-e68e-42df-b70d-aa62c52eaa9d.html",
-        "https://www.repubblica.it/esteri/2026/07/25/diretta/guerra_ucraina_russia_news_oggi-425491812/",
-        "https://www.lastampa.it/esteri/2026/07/25/diretta/guerra_russia_ucraina_news_oggi-15698867/"
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/sfuma-il-sogno-pep-guardiola-pirlo-pronto-a-fare-il-ct_fe13a9b2-458c-40c1-b186-830757ff843a.html",
+        "https://www.liberoquotidiano.it/news/sport/48663508/nazionale-pirlo-nuovo-ct-firma-prossimi-giorni/",
+        "https://www.ilsole24ore.com/art/voci-accordo-raggiunto-pirlo-ct-figc-ora-non-previsti-annunci-AJliH5U"
       ]
     }
   ]
