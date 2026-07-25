@@ -1,9 +1,31 @@
 {
   "date": "2026-07-25",
-  "generated_at": "Sat 25 Jul 19:33",
+  "generated_at": "Sat 25 Jul 21:02",
   "stories": [
     {
       "rank": 1,
+      "title": "Marcia No Tav, centinaia di incappucciati assaltano il cantiere di Chiomonte",
+      "source_count": 7,
+      "article_count": 18,
+      "source_domains": [
+        "laverita.info",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "torino.repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.laverita.info/governo/assalto-notav-val-susa",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/guerriglia-no-tav-in-centinaia-assaltano-i-cantieri.-piantedosi-ce-chi-vuole-unescalation_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/tensioni-alla-marcia-no-tav-centinaia-di-incappucciati-assaltano-i-cantieri.-meloni-la-violenza_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
+        "https://www.ilfattoquotidiano.it/2026/07/25/no-tav-manifestazione-val-susa-notizie/8459097/",
+        "https://www.adnkronos.com/cronaca/no-tav-assalto-al-cantiere-in-val-di-susa-bruciate-2-camionette-dei-carabinieri_5fhYHeV13Wy3I46bno3oeN"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "F1 Gp Ungheria, la griglia di partenza: Norris in pole, Hamilton e Antonelli penalizzati",
       "source_count": 7,
       "article_count": 17,
@@ -25,7 +47,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Incendi record in Francia e Spagna, quasi 300mila evacuati",
       "source_count": 7,
       "article_count": 15,
@@ -44,28 +66,6 @@
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48676225/incendi-in-spagna-sanchez-istituzioni-collaborino-per-un-patto-contro-l-emergenza-climatica/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48675559/incendi-spagna-sanchez-situazione-drammatica-priorita-e-salvaguardare-vite/",
         "https://www.liberoquotidiano.it/news/tv-news/48675600/incendi-in-francia-200mila-persone-evacuate-98mila-ettari-in-fumo/"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Marcia No Tav, centinaia di incappucciati assaltano il cantiere di Chiomonte",
-      "source_count": 7,
-      "article_count": 15,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "laverita.info",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "torino.repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/guerriglia-no-tav-in-centinaia-assaltano-i-cantieri.-piantedosi-ce-chi-vuole-unescalation_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/tensioni-alla-marcia-no-tav-centinaia-di-incappucciati-assaltano-i-cantieri.-meloni-la-violenza_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
-        "https://www.adnkronos.com/cronaca/no-tav-assalto-al-cantiere-in-val-di-susa-bruciate-2-camionette-dei-carabinieri_5fhYHeV13Wy3I46bno3oeN",
-        "https://www.laverita.info/video/assalto-notav-valdisusa",
-        "https://www.ansa.it/sito/videogallery/italia/2026/07/25/marcia-no-tav-centinaia-di-incappucciati-assaltano-il-cantiere-di-chiomonte_5bacd497-b220-471f-908e-7726e9c594ac.html"
       ]
     },
     {
@@ -162,7 +162,7 @@
       "rank": 8,
       "title": "Fakir, un nuovo video mostra una chiazza di sangue sotto la testa. Il legale: “L’hanno picchiato”",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
         "ilfattoquotidiano.it",
         "adnkronos.com",
@@ -170,7 +170,7 @@
         "lastampa.it",
         "laverita.info",
         "bologna.repubblica.it",
-        "ilmessaggero.it"
+        "ilsole24ore.com"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/07/25/caso-fakir-nuovo-video-sangue-testa-volto-immagini/8458913/",
