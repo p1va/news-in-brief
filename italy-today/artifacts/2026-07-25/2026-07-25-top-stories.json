@@ -1,17 +1,17 @@
 {
   "date": "2026-07-25",
-  "generated_at": "Sat 25 Jul 12:09",
+  "generated_at": "Sat 25 Jul 14:44",
   "stories": [
     {
       "rank": 1,
       "title": "Giornalista carbonizzato a Eboli, un fermato è un 26enne senza fissa dimora ha confessato",
       "source_count": 8,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
         "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "ansa.it",
-        "liberoquotidiano.it",
         "adnkronos.com",
         "napoli.repubblica.it",
         "lastampa.it",
@@ -19,17 +19,39 @@
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/07/25/omicidio-eboli-immagini-video-casolare-abbandonato/8458836/",
+        "https://www.liberoquotidiano.it/news/pillole/48672799/giornalista_ucciso_a_eboli_fermato_un_26enne_ha_confessato/",
         "https://www.ilmessaggero.it/persone/luca_esposito_omicidio_cosa_non_torna_doppia_vita_finta_moglie_incontro_killer_movente_perche_e_stato_ucciso-9672058.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/giornalista-carbonizzato-a-eboli-un-fermato-e-un-26enne-senza-fissa-dimora_e696714f-1d78-4d29-940f-fd443fd6fcd1.html",
-        "https://www.ilmessaggero.it/persone/luca_esposito_chi_e_killer_tunisino_cosa_e_successo_ricostruzione_omicidio-9672020.html",
-        "https://www.ilfattoquotidiano.it/2026/07/25/omicidio-esposito-eboli-fermo-notizie/8458758/"
+        "https://www.ilmessaggero.it/persone/luca_esposito_chi_e_killer_tunisino_cosa_e_successo_ricostruzione_omicidio-9672020.html"
       ]
     },
     {
       "rank": 2,
+      "title": "Oltre 200mila persone evacuate per gli incendi fra Francia e Spagna",
+      "source_count": 7,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/videogallery/mondo/2026/07/25/spagna-continua-la-battaglia-contro-gli-incendi-migliaia-di-evacuati_cdf0bf56-3dad-4130-b464-c33b55758347.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48675130/spagna-immagini-aeree-degli-incendi-nelle-regioni-di-madrid-e-avila/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/25/evacuate-250mila-persone-per-gli-incendi-fra-francia-e-spagna_80ab366f-8a73-4a3c-b3bf-1efc3ae4120a.html",
+        "https://www.ilfattoquotidiano.it/2026/07/25/incendi-francia-spagna-evacuati-notizie/8458804/",
+        "https://www.adnkronos.com/internazionale/esteri/incendi-francia-spagna-evacuati-ultime-news_7t7orwRCAPGbzlY99GuHfv"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Matrimonio Donnarumma: la viking row di Haaland, Sfera Ebbasta e Ozuna sul palco, le battute di Pio e Amedeo. Top e flop",
       "source_count": 6,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
         "ilmessaggero.it",
         "ansa.it",
@@ -47,37 +69,16 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Oltre 200mila persone evacuate per gli incendi fra Francia e Spagna",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/25/evacuate-250mila-persone-per-gli-incendi-fra-francia-e-spagna_80ab366f-8a73-4a3c-b3bf-1efc3ae4120a.html",
-        "https://www.ilfattoquotidiano.it/2026/07/25/incendi-francia-spagna-evacuati-notizie/8458804/",
-        "https://www.adnkronos.com/internazionale/esteri/incendi-francia-spagna-evacuati-ultime-news_7t7orwRCAPGbzlY99GuHfv",
-        "https://www.liberoquotidiano.it/news/tv-news/48672817/bruciano-spagna-e-francia-fiamme-nell-area-di-bordeaux-e-madrid/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/25/oltre-220mila-persone-evacuate-per-gli-incendi-fra-francia-e-spagna_80ab366f-8a73-4a3c-b3bf-1efc3ae4120a.html"
-      ]
-    },
-    {
       "rank": 4,
       "title": "Fakir, un nuovo video mostra una chiazza di sangue sotto la testa. Il legale: “L’hanno picchiato”",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "ansa.it",
         "lastampa.it",
+        "laverita.info",
         "bologna.repubblica.it",
         "ilmessaggero.it",
         "ilsole24ore.com"
@@ -87,11 +88,33 @@
         "https://www.adnkronos.com/cronaca/caso-fakir-nuovo-video_42hZW9B1y1GskeYqJmfbIt",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/ce-un-nuovo-video-una-chiazza-di-sangue-sotto-la-testa-di-fakir-morto_99e6053d-4edf-41de-9930-bbf15dced48a.html",
         "https://www.lastampa.it/cronaca/2026/07/25/news/nuovo_video_di_fakir_mostra_una_chiazza_di_sangue_sotto_la_testa_il_legale_l_hanno_picchiato-15699144/",
-        "https://bologna.repubblica.it/cronaca/2026/07/25/news/fakir_sangue_polmoni_autopsia-425491794/"
+        "https://www.laverita.info/cronache-dellinvasione/farir-bologna-lepore-migranti"
       ]
     },
     {
       "rank": 5,
+      "title": "Si tuffa nel lago di Como per aiutare il figlio in difficoltà e non riemerge: turista disperso",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/disperso-lago-di-como-turista-tuffati-per-salvare-figlio-oggi-aggiornamenti_7xSoWpAohaKEHc0jlsrhF3",
+        "https://www.ilfattoquotidiano.it/2026/07/25/turista-disperso-lago-como-menaggio-notizie/8458979/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/turista-si-tuffa-per-salvare-il-figlio-nel-lago-di-como-e-non-riemerge_af8c0331-41c6-4e01-aaa2-1931c89661cd.html",
+        "https://www.ilmessaggero.it/italia/lago_di_como_turista_annega_barca_figlio_ultime_notizie-9672287.html",
+        "https://milano.repubblica.it/cronaca/2026/07/25/news/tuffa_lago_como_menaggio_aiutare_figlio_non_riemerge_turista_disperso-425492588/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Vertice Meloni-Giorgetti, Governo verso un nuovo decreto carburanti",
       "source_count": 6,
       "article_count": 7,
@@ -112,7 +135,28 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Sfuma il sogno Pep Guardiola, Pirlo pronto a fare il ct",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/schede/pirlo_quando_debutta_italia_nazionale_ct_calendario-9672354.html",
+        "https://www.adnkronos.com/sport/pirlo-ct-nazionale-russia-scommesse_3LRhIQsF8iUvhDj6mgPQrY",
+        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/25/news/guardiola_pirlo_ct_italia_nazionale_tardelli_intervista-425491553/",
+        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/25/news/pirlo_ctrischio_lezione-425491779/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/sfuma-il-sogno-pep-guardiola-pirlo-pronto-a-fare-il-ct_fe13a9b2-458c-40c1-b186-830757ff843a.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Trump a sorpresa punta al terzo mandato: «Voglio candidarmi alle presidenziali del 2028»",
       "source_count": 6,
       "article_count": 6,
@@ -133,75 +177,41 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Sfuma il sogno Pep Guardiola, Pirlo pronto a fare il ct",
-      "source_count": 3,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/la-russa-pirlo-ct-che-dio-ce-la-mandi-buona_5b2fa72d-a8bb-40ad-b953-70cb28df0fca.html",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/25/news/guardiola_pirlo_ct_italia_nazionale_tardelli_intervista-425491553/",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/25/news/pirlo_ctrischio_lezione-425491779/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/24/sfuma-il-sogno-pep-guardiola-pirlo-pronto-a-fare-il-ct_fe13a9b2-458c-40c1-b186-830757ff843a.html",
-        "https://www.ilsole24ore.com/art/voci-accordo-raggiunto-pirlo-ct-figc-ora-non-previsti-annunci-AJliH5U"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Iran, prima notte in due settimane senza attacchi Usa. Missili dallo Yemen verso l'Arabia",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/25/iran-usa-guerra-aggiornamenti-oggi-notizie-diretta/8458831/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/25/iran-prima-notte-in-due-settimane-senza-attacchi-usa.-missili-dallo_92d5a203-2f4d-4ca3-abea-8df307b34f3c.html",
-        "https://www.repubblica.it/esteri/2026/07/25/diretta/guerra_in_iran_le_news_di_oggi-425491815/",
-        "https://www.lastampa.it/esteri/2026/07/25/diretta/guerra_iran_usa_israele_news_oggi-15698870/"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Terremoto in Molise, scossa di magnitudo 4.1 in provincia di Isernia. Paura e gente in strada",
+      "title": "F1, in Ungheria è caccia alla pole: le Ferrari ci credono. Le qualifiche in diretta",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/terremoto-di-magnitudo-4.1-in-molise-gente-in-strada_20e96cc2-ebf0-4e86-8e57-9f11835f922e.html",
-        "https://www.adnkronos.com/cronaca/terremoto-molise-isernia-ultime-notizie_7jaszRNr83XRk0DyaJCrqB",
-        "https://www.lastampa.it/cronaca/2026/07/25/news/scossa_di_terremoto_in_molise_di_magnitudo_41_avvertita_anche_nel_lazio_abruzzo_e_campania-15698913/",
-        "https://www.agi.it/cronaca/news/2026-07-25/terremoto-molise-isernia-38220466/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Gp Ungheria: Norris precede Hamilton e Antonelli, la pole è un rebus",
-      "source_count": 3,
-      "article_count": 5,
-      "source_domains": [
+        "repubblica.it",
         "adnkronos.com",
         "lastampa.it",
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.repubblica.it/sport/formulauno/2026/07/25/diretta/f1_gp_ungheria_qualifiche_oggi-425492673/",
+        "https://www.adnkronos.com/sport/diretta-gp-ungheria-qualifiche-oggi-25-luglio_2mIbpyrQu1HFigcRZK2vhQ",
         "https://www.adnkronos.com/sport/f1-ungheria-ferrari-norris-leclerc-antonelli_7JynNien5LAK0j9uTZEklD",
         "https://www.lastampa.it/sport/2026/07/25/news/gp_ungheria_norris_precede_hamilton_e_antonelli_la_pole_e_un_rebus-15699157/",
-        "https://www.ilmessaggero.it/blog/milleruote/ferrari_in_testa_a_budapest_il_re_dell_hungaroring_hamilton_sfida_la_mercedes_del_suo_amico_antonelli-9672093.html",
-        "https://www.adnkronos.com/sport/f1-gp-ungheria-qualifiche-tv-streaming_3Lz8R6FB6P4aDrzTdaBTX0",
-        "https://www.lastampa.it/sport/2026/07/24/news/la_ferrari_vola_a_budapest_e_sogna_la_pole_hamilton_buoni_progressi-15698711/"
+        "https://www.ilmessaggero.it/blog/milleruote/ferrari_in_testa_a_budapest_il_re_dell_hungaroring_hamilton_sfida_la_mercedes_del_suo_amico_antonelli-9672093.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Zelensky: 'Colpite nel Mar Caspio navi russe che trasportavano armi dirette all'Iran'",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/25/zelensky-colpite-nel-mar-caspio-navi-russe-che-trasportavano-armi_dfc5d758-e68e-42df-b70d-aa62c52eaa9d.html",
+        "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-aggiornamenti-oggi-25-luglio_1T75Xuyjk9bjRr6ZyM3Z9P",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/25/mosca-in-raid-ucraini-su-regione-zaporizhzhia-almeno-8-morti-2-sono-bimbi_dfc5d758-e68e-42df-b70d-aa62c52eaa9d.html",
+        "https://www.repubblica.it/esteri/2026/07/25/diretta/guerra_ucraina_russia_news_oggi-425491812/",
+        "https://www.lastampa.it/esteri/2026/07/25/diretta/guerra_russia_ucraina_news_oggi-15698867/"
       ]
     }
   ]
