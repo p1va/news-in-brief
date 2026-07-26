@@ -1,30 +1,52 @@
 {
   "date": "2026-07-26",
-  "generated_at": "Sun 26 Jul 16:10",
+  "generated_at": "Sun 26 Jul 18:09",
   "stories": [
     {
       "rank": 1,
       "title": "Attentato a Berlino, chi è il sospettato: Abdul B., 21 anni, vicino ad ambienti islamisti",
       "source_count": 6,
-      "article_count": 13,
+      "article_count": 17,
       "source_domains": [
         "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
         "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/attacco-sulla-folla-del-pride-a-berlino-ucciso-lattentatore-dopo-uno_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
+        "https://www.adnkronos.com/internazionale/esteri/berlino-abdul-ballout-ucciso-news-oggi_4mbb8tM6NGqmyxiTWZALue",
+        "https://www.lastampa.it/esteri/2026/07/26/news/media_tedeschi_abdul_ballout_ucciso_durante_una_sparatoria_con_la_polizia-15700055/",
         "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/attacco-a-berlino-ricercato-un-21enne-arrestato-un-presunto-complice.-non-esclusi-altri_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/chi-e-abdul-ballout-il-giovane-ricercato-per-lattentato-al-pride-di-berlino_eb66a6ce-ce4e-4eac-803f-830d73a49b05.html",
-        "https://www.ansa.it/sito/notizie/flash/2026/07/26/-attentato-berlino-arrestato-presunto-passeggero-del-van-coinvolto-_cca4dc3d-b894-42fc-b4d3-001e5784e3b1.html",
-        "https://www.repubblica.it/esteri/2026/07/26/diretta/attentato_berlino_pride_folla_ultime_notizie_oggi-425494117/",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/polizia-berlino-cerca-21enne-abdul-per-attentato-al-pride-forse-complici_eb66a6ce-ce4e-4eac-803f-830d73a49b05.html"
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/chi-e-abdul-ballout-il-giovane-ricercato-per-lattentato-al-pride-di-berlino_eb66a6ce-ce4e-4eac-803f-830d73a49b05.html"
       ]
     },
     {
       "rank": 2,
+      "title": "F1, in Ungheria vince Norris davanti a Verstappen",
+      "source_count": 7,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/07/26/f1-norris-domina-in-ungheria-antonelli-rafforza-la-leadership_f4342c93-f4b2-41a7-ab42-a47deb4b66f0.html",
+        "https://www.repubblica.it/sport/formulauno/2026/07/26/news/pagelle_gp_ungheria_norris_ferrari_russell-425494386/",
+        "https://www.repubblica.it/sport/formulauno/2026/07/26/news/hamilton_pit_stop_perche_errore-425494359/",
+        "https://www.ilfattoquotidiano.it/2026/07/26/f1-gp-ungheria-analisi-gara-ferrari-doppio-pit-stop-finale-perso-podio-antonelli-strategia-intelligente/8459786/",
+        "https://www.repubblica.it/sport/formulauno/2026/07/26/news/f1_norris_vince_gp_ungheria_2026_hamilton_errore-425494337/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Minacce a Lepore, assegnata la scorta al sindaco di Bologna",
       "source_count": 9,
       "article_count": 10,
@@ -48,7 +70,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Ombre russe su Pirlo: ora l’accordo per il ct rischia di saltare",
       "source_count": 8,
       "article_count": 11,
@@ -71,7 +93,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Berlino, furgone sulla folla al Pride. Morta una donna, 16 feriti. Si cerca un uomo di 21 anni legato ad ambienti islamisti",
       "source_count": 7,
       "article_count": 11,
@@ -93,7 +115,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "No Tav, il bilancio dell’assalto: 124 feriti tra le forze dell’ordine. Ora è caccia al “blocco nero”",
       "source_count": 7,
       "article_count": 10,
@@ -115,7 +137,29 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Incendio sul Gargano, turisti evacuati dalle spiagge via mare",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/videogallery/italia/2026/07/26/incendio-sul-gargano-le-fiamme-dolose-e-spinte-dal-vento-minacciano-alcuni_963f79fd-38db-45d0-bc6c-00deab3cd0cf.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/incendi-sul-gargano-e-in-molise-evacuate-spiagge-e-campeggi-anziani-trasferiti-da-una_f1e930ad-79df-413b-b658-5f1f6850fb1c.html",
+        "https://www.repubblica.it/cronaca/2026/07/26/news/incendi_molise_campeggi_rsa_strade-425494283/",
+        "https://www.ilfattoquotidiano.it/2026/07/26/incendio-gargano-peschici-evacuazione-notizie/8459688/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/incendio-sul-gargano-turisti-evacuati-sulle-barche-guardia-costiera_f1e930ad-79df-413b-b658-5f1f6850fb1c.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Teatri condominiali riconosciuti patrimonio umanità Unesco",
       "source_count": 8,
       "article_count": 8,
@@ -138,58 +182,16 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Incendio sul Gargano, turisti evacuati dalle spiagge via mare",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/incendi-sul-gargano-e-in-molise-evacuate-spiagge-e-campeggi-anziani-trasferiti-da-una_f1e930ad-79df-413b-b658-5f1f6850fb1c.html",
-        "https://www.repubblica.it/cronaca/2026/07/26/news/incendi_molise_campeggi_rsa_strade-425494283/",
-        "https://www.ilfattoquotidiano.it/2026/07/26/incendio-gargano-peschici-evacuazione-notizie/8459688/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/incendio-sul-gargano-turisti-evacuati-sulle-barche-guardia-costiera_f1e930ad-79df-413b-b658-5f1f6850fb1c.html",
-        "https://www.ilmessaggero.it/italia/incendio_gargano_turisti_evacuati_barche_ultima_ora-9673876.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "F1, in Ungheria vince Norris davanti a Verstappen",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/07/26/f1-in-ungheria-vince-norris-davanti-a-verstappen_f4342c93-f4b2-41a7-ab42-a47deb4b66f0.html",
-        "https://www.adnkronos.com/sport/gp-ungheria-hamilton-penalizzato-gara_eIDlUXjIK01r3MdlvxWEu",
-        "https://www.adnkronos.com/sport/f1-gp-ungheria-ordine-arrivo-classifica_2bG1X4tRMrkJi6TP6Dl27X",
-        "https://www.ilfattoquotidiano.it/2026/07/26/f1-norris-gp-ungheria-risultati-nuova-classifica/8459701/",
-        "https://www.lastampa.it/sport/2026/07/26/news/gp_ungheria_trionfa_norris_la_ferrari_sbaglia_tutto-15699973/"
-      ]
-    },
-    {
       "rank": 9,
       "title": "Dopo 5 anni di totale cecità, torna a vedere con un autotrapianto all'occhio",
-      "source_count": 4,
-      "article_count": 6,
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
         "ansa.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
-        "lastampa.it"
+        "lastampa.it",
+        "agi.it"
       ],
       "links": [
         "https://www.ansa.it/piemonte/notizie/2026/07/26/dopo-5-anni-di-cecita-torna-a-vedere-con-un-trapianto-da-un-occhio-allaltro_9f98d080-db36-4084-90c6-eac2f7bea3db.html",
