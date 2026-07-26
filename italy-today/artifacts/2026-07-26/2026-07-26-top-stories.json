@@ -1,9 +1,53 @@
 {
   "date": "2026-07-26",
-  "generated_at": "Sun 26 Jul 12:12",
+  "generated_at": "Sun 26 Jul 14:44",
   "stories": [
     {
       "rank": 1,
+      "title": "No Tav, il bilancio dell’assalto: 124 feriti tra le forze dell’ordine. Ora è caccia al “blocco nero”",
+      "source_count": 8,
+      "article_count": 12,
+      "source_domains": [
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "torino.repubblica.it",
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.lastampa.it/torino/2026/07/26/news/no_tav_proteste_scontri_val_di_susa_chiomonte-15699948/",
+        "https://www.ilfattoquotidiano.it/2026/07/26/no-tav-val-susa-scontri-notizie-2/8459506/",
+        "https://torino.repubblica.it/cronaca/2026/07/26/news/no_tav_assalto_feriti_indagini-425494066/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/guerriglia-no-tav-in-centinaia-assaltano-i-cantieri.-oltre-un-centinaio-di-feriti-tra-le-forze_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
+        "https://www.adnkronos.com/cronaca/no-tav-scontri-valsusa-bilancio-ultime-notizie_5nFg1345EY3UYc2nLgtne1"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Attentato a Berlino, chi è il sospettato: Abdul B., 21 anni, vicino ad ambienti islamisti",
+      "source_count": 6,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/attacco-a-berlino-ricercato-un-21enne-arrestato-un-presunto-complice.-non-esclusi-altri_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/chi-e-abdul-ballout-il-giovane-ricercato-per-lattentato-al-pride-di-berlino_eb66a6ce-ce4e-4eac-803f-830d73a49b05.html",
+        "https://www.ansa.it/sito/notizie/flash/2026/07/26/-attentato-berlino-arrestato-presunto-passeggero-del-van-coinvolto-_cca4dc3d-b894-42fc-b4d3-001e5784e3b1.html",
+        "https://www.repubblica.it/esteri/2026/07/26/diretta/attentato_berlino_pride_folla_ultime_notizie_oggi-425494117/",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/polizia-berlino-cerca-21enne-abdul-per-attentato-al-pride-forse-complici_eb66a6ce-ce4e-4eac-803f-830d73a49b05.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Minacce a Lepore, assegnata la scorta al sindaco di Bologna",
       "source_count": 9,
       "article_count": 10,
@@ -27,55 +71,35 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "No Tav, il bilancio dell’assalto: 124 feriti tra le forze dell’ordine. Ora è caccia al “blocco nero”",
+      "rank": 4,
+      "title": "Ombre russe su Pirlo: ora l’accordo per il ct rischia di saltare",
       "source_count": 8,
       "article_count": 11,
       "source_domains": [
         "ilfattoquotidiano.it",
-        "torino.repubblica.it",
-        "ansa.it",
         "adnkronos.com",
         "lastampa.it",
+        "ansa.it",
         "liberoquotidiano.it",
+        "repubblica.it",
         "ilmessaggero.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/26/no-tav-val-susa-scontri-notizie-2/8459506/",
-        "https://torino.repubblica.it/cronaca/2026/07/26/news/no_tav_assalto_feriti_indagini-425494066/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/guerriglia-no-tav-in-centinaia-assaltano-i-cantieri.-oltre-un-centinaio-di-feriti-tra-le-forze_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
-        "https://www.adnkronos.com/cronaca/no-tav-scontri-valsusa-bilancio-ultime-notizie_5nFg1345EY3UYc2nLgtne1",
-        "https://www.lastampa.it/torino/2026/07/26/news/val_di_susa_posti_blocco_guerriglia_controlli_polizia-15699874/"
+        "https://www.ilfattoquotidiano.it/2026/07/26/italia-ct-crociata-contro-pirlo-pretesto-sponsor-russo-riflessioni-malago-perche-sconfessare-maldini-sarebbe-errore/8459583/",
+        "https://www.adnkronos.com/sport/calcio-pirlo-russia-malago-maldini_15B8BF47TIp31mhnuBcfY9",
+        "https://www.lastampa.it/sport/2026/07/26/video/quando_pirlo_era_il_volto_di_fonbet_lo_spot_che_ha_fatto_esplodere_il_caso-15699942/",
+        "https://www.lastampa.it/sport/2026/07/26/news/pirlo_nazionale_caso_russia_scommesse-15699921/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/pirlo-ct-in-attesa-dellannuncio-litalia-si-divide_5b2fa72d-a8bb-40ad-b953-70cb28df0fca.html"
       ]
     },
     {
-      "rank": 3,
-      "title": "Attentato a Berlino, chi è il sospettato: Abdul B., 21 anni, vicino ad ambienti islamisti",
-      "source_count": 6,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/flash/2026/07/26/-attentato-berlino-arrestato-presunto-passeggero-del-van-coinvolto-_cca4dc3d-b894-42fc-b4d3-001e5784e3b1.html",
-        "https://www.repubblica.it/esteri/2026/07/26/diretta/attentato_berlino_pride_folla_ultime_notizie_oggi-425494117/",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/polizia-berlino-cerca-21enne-abdul-per-attentato-al-pride-forse-complici_eb66a6ce-ce4e-4eac-803f-830d73a49b05.html",
-        "https://www.adnkronos.com/internazionale/esteri/chi-e-abdul-b-ricercato-attacco-berlino_52n4lFh6fmrSn4sD3tzS1g",
-        "https://www.adnkronos.com/internazionale/esteri/chi-e-abdul-ballout-ricercato-attacco-berlino_52n4lFh6fmrSn4sD3tzS1g"
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "title": "Berlino, furgone sulla folla al Pride. Morta una donna, 16 feriti. Si cerca un uomo di 21 anni legato ad ambienti islamisti",
-      "source_count": 6,
-      "article_count": 9,
+      "source_count": 7,
+      "article_count": 11,
       "source_domains": [
+        "ilmessaggero.it",
         "laverita.info",
         "ansa.it",
         "lastampa.it",
@@ -84,18 +108,18 @@
         "repubblica.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/schede/attentato_berlino_ricostruzione_cosa_e_successo-9673864.html",
         "https://www.laverita.info/video/attentato-berlino-terrorismo-islamico",
         "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/furgone-contro-la-folla-al-pride-di-berlino-un-morto-e-16-feriti_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
         "https://www.lastampa.it/esteri/2026/07/26/video/berlino_il_furgone_accartocciato_contro_un_albero_dopo_lattacco_al_pride_la_polizia_passa_al_setaccio_la_scena-15699792/",
-        "https://www.lastampa.it/esteri/2026/07/26/video/furgone_sulla_folla_a_berlino_dal_palco_lannuncio_la_manifestazione_e_finita_andate_via-15699759/",
-        "https://www.liberoquotidiano.it/news/libero-video/48679816/pride-berlino-furgone-si-lancia-sulla-folla-un-morto-e-almeno-16-feriti/"
+        "https://www.lastampa.it/esteri/2026/07/26/video/furgone_sulla_folla_a_berlino_dal_palco_lannuncio_la_manifestazione_e_finita_andate_via-15699759/"
       ]
     },
     {
-      "rank": 5,
-      "title": "I teatri condominiali in Italia riconosciuti patrimonio dell'umanità dall'Unesco. Giuli: «Valore universale». Ecco quali sono",
-      "source_count": 7,
-      "article_count": 7,
+      "rank": 6,
+      "title": "Teatri condominiali riconosciuti patrimonio umanità Unesco",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
         "governo.it",
         "ilfattoquotidiano.it",
@@ -103,7 +127,8 @@
         "ansa.it",
         "ilmessaggero.it",
         "repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
         "https://www.governo.it/it/articolo/i-teatri-condominiali-all-italiana-riconosciuti-patrimonio-dell-umanit-dall-unesco-la",
@@ -114,47 +139,48 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Ombre russe su Pirlo: ora l’accordo per il ct rischia di saltare",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "lastampa.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.lastampa.it/sport/2026/07/26/news/pirlo_nazionale_caso_russia_scommesse-15699921/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/25/pirlo-ct-in-attesa-dellannuncio-litalia-si-divide_5b2fa72d-a8bb-40ad-b953-70cb28df0fca.html",
-        "https://www.liberoquotidiano.it/news/sport/48679376/pirlo_sondaggio_soldi_russi_rischia_il_posto_ct_nazionale/",
-        "https://www.lastampa.it/sport/2026/07/26/news/andrea_pirlo_ct_nazionale_italia_scommesse_russia_putin_fonbet-15699726/",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/26/news/pirlo_russia_ct_malago-425493442/"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "Incendi in Francia, 200mila persone evacuate, 98mila ettari in fumo",
-      "source_count": 4,
+      "title": "Incendio in Gargano, turisti evacuati su barche della guardia costiera",
+      "source_count": 7,
       "article_count": 7,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ansa.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilmanifesto.it"
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "bari.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/26/in-gironda-lincendio-minaccia-la-periferia-di-bordeaux-220mila-evacuati-_3be083e1-d78e-4432-b741-467ea8db5b75.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48679831/francia-brucia-vigili-fuoco-battaglia-fiamme-gironda/",
-        "https://www.repubblica.it/esteri/2026/07/26/news/evacuati_gironda_incendi_francia_dal_cielo_temporale_braci-425493350/",
-        "https://ilmanifesto.it/francia-e-spagna-bruciano-le-fiamme-minacciano-bordeaux-e-madrid",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48676225/incendi-in-spagna-sanchez-istituzioni-collaborino-per-un-patto-contro-l-emergenza-climatica/"
+        "https://www.ilfattoquotidiano.it/2026/07/26/incendio-gargano-peschici-evacuazione-notizie/8459688/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/incendio-sul-gargano-turisti-evacuati-sulle-barche-guardia-costiera_f1e930ad-79df-413b-b658-5f1f6850fb1c.html",
+        "https://www.ilmessaggero.it/italia/incendio_gargano_turisti_evacuati_barche_ultima_ora-9673876.html",
+        "https://www.adnkronos.com/cronaca/incendio-campomarino-termoli-stop-circolazione-treni-pescara-bari_2KZ0U8tIcGYW1tMYHHoW5b",
+        "https://bari.repubblica.it/cronaca/2026/07/26/news/puglia_brucia_ancora_peschici_pineta_fiamme_nube_nera_visibile_da_lontano-425494126/"
       ]
     },
     {
       "rank": 8,
+      "title": "Dopo 5 anni di totale cecità, torna a vedere con un autotrapianto all'occhio",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/piemonte/notizie/2026/07/26/dopo-5-anni-di-cecita-torna-a-vedere-con-un-trapianto-da-un-occhio-allaltro_9f98d080-db36-4084-90c6-eac2f7bea3db.html",
+        "https://www.repubblica.it/cronaca/2026/07/26/news/cieca_torna_a_vedere_autotrapianto_molinette_torino_prima_volta_nel_mondo-425494171/",
+        "https://www.ilfattoquotidiano.it/2026/07/26/autotrapianto-occhio-torino-vista-cecita-notizie/8459447/",
+        "https://www.ansa.it/piemonte/notizie/2026/07/26/dopo-5-anni-di-totale-cecita-torna-a-vedere-con-un-autotrapianto-allocchio_9f98d080-db36-4084-90c6-eac2f7bea3db.html",
+        "https://torino.repubblica.it/cronaca/2026/07/26/news/torna_a_vedere_dopo_trapianto_da_occhio_a_occhio-425493937/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Scontri No Tav, solidarietà di Mattarella agli agenti feriti. Meloni: “Non piegheranno lo Stato”",
       "source_count": 4,
       "article_count": 5,
@@ -173,41 +199,22 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Gesti e insulti di studenti italiani sulla metro a Bangkok, \"smettetela\"",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/26/quello-che-abbiamo-fatto-sul-bts-e-stato-sbagliato-il-video-di-scuse-degli-studenti-italiani-diffuso-dallambasciata-dopo-gli-insulti-a-bangkok/8459417/",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/07/26/gesti-e-insulti-di-studenti-italiani-sulla-metro-a-bangkok-smettetela_d698512c-d960-4852-9e89-4043b09334f2.html",
-        "https://www.liberoquotidiano.it/news/esteri/48678533/bangkok_italiani_vacanza_gestacci_treno_clamoroso_caso_diplomatico/",
-        "https://www.ilmessaggero.it/mondo/studenti_italiani_bangkok_thailandia_fermati_polizia_scuse_telecamere_multa_caos_insulti-9672612.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48675566/il-video-di-scuse-dell-ambasciata-d-italia-a-bangkok-studenti-italiani-maleducati-in-metro/"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Medio Oriente, Papa: \"Sospendere attacchi e riaprire spazi di dialogo per pace tanto desiderata\"",
+      "title": "Hamilton e Antonelli penalizzati, qualifiche al cardiopalma al GP d'Ungheria: Norris in pole affiancato da Leclerc",
       "source_count": 4,
       "article_count": 5,
       "source_domains": [
-        "ansa.it",
         "adnkronos.com",
         "ilmessaggero.it",
-        "ilsole24ore.com"
+        "liberoquotidiano.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/vaticano/notizie/2026/07/26/langelus-di-leone-preoccupato-per-linasprirsi-della-violenza-in-terra-santa_b3b77e68-da2a-48dc-9384-d43172508b24.html",
-        "https://www.adnkronos.com/internazionale/esteri/medio-oriente-papa-sospendere-attacchi-e-riaprire-spazi-di-dialogo-per-pace-tanto-desiderata_4eSpkU8C1aNFU3ar57SYmp",
-        "https://www.adnkronos.com/internazionale/esteri/medio-oriente-nuovo-appello-del-papa-per-la-pace_4eSpkU8C1aNFU3ar57SYmp",
-        "https://www.ilmessaggero.it/vaticano/papa_leone_messaggio_trump_e_netanyahu-9673777.html",
-        "https://www.ilsole24ore.com/art/papa-leone-giovani-attenti-social-proiettano-un-mondo-irreale-AJPTcEW"
+        "https://www.adnkronos.com/sport/diretta-f1-gp-ungheria-oggi-gara-26-luglio_76vg5DeBdccZMvdjF12YtE",
+        "https://www.ilmessaggero.it/sport/formula1/live_gp_ungheria_diretta_f1_norris_ferrari_leclerc_antonelli_mercedes-9673838.html",
+        "https://www.ilmessaggero.it/blog/milleruote/hamilton_e_antonelli_penalizzati_qualifiche_al_cardiopalma_al_gp_d_ungheria_norris_in_pole_affiancato_da_leclerc-9673727.html",
+        "https://www.liberoquotidiano.it/news/sport/48676328/gp-ungheria-pole-norris-hamilton-deludono-lecler-kimi-antonelli/",
+        "https://www.lastampa.it/sport/2026/07/25/news/gp_ungheria_penalizzati_hamilton_e_antonelli_norris_e_leclerc_in_prima_fila-15699475/"
       ]
     }
   ]
