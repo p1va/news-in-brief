@@ -1,32 +1,9 @@
 {
   "date": "2026-07-26",
-  "generated_at": "Sun 26 Jul 14:44",
+  "generated_at": "Sun 26 Jul 16:10",
   "stories": [
     {
       "rank": 1,
-      "title": "No Tav, il bilancio dell’assalto: 124 feriti tra le forze dell’ordine. Ora è caccia al “blocco nero”",
-      "source_count": 8,
-      "article_count": 12,
-      "source_domains": [
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "torino.repubblica.it",
-        "ansa.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.lastampa.it/torino/2026/07/26/news/no_tav_proteste_scontri_val_di_susa_chiomonte-15699948/",
-        "https://www.ilfattoquotidiano.it/2026/07/26/no-tav-val-susa-scontri-notizie-2/8459506/",
-        "https://torino.repubblica.it/cronaca/2026/07/26/news/no_tav_assalto_feriti_indagini-425494066/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/guerriglia-no-tav-in-centinaia-assaltano-i-cantieri.-oltre-un-centinaio-di-feriti-tra-le-forze_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
-        "https://www.adnkronos.com/cronaca/no-tav-scontri-valsusa-bilancio-ultime-notizie_5nFg1345EY3UYc2nLgtne1"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Attentato a Berlino, chi è il sospettato: Abdul B., 21 anni, vicino ad ambienti islamisti",
       "source_count": 6,
       "article_count": 13,
@@ -47,7 +24,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Minacce a Lepore, assegnata la scorta al sindaco di Bologna",
       "source_count": 9,
       "article_count": 10,
@@ -71,7 +48,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Ombre russe su Pirlo: ora l’accordo per il ct rischia di saltare",
       "source_count": 8,
       "article_count": 11,
@@ -94,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Berlino, furgone sulla folla al Pride. Morta una donna, 16 feriti. Si cerca un uomo di 21 anni legato ad ambienti islamisti",
       "source_count": 7,
       "article_count": 11,
@@ -113,6 +90,28 @@
         "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/26/furgone-contro-la-folla-al-pride-di-berlino-un-morto-e-16-feriti_3d8ec836-20e8-48cf-b7df-a3462a666d83.html",
         "https://www.lastampa.it/esteri/2026/07/26/video/berlino_il_furgone_accartocciato_contro_un_albero_dopo_lattacco_al_pride_la_polizia_passa_al_setaccio_la_scena-15699792/",
         "https://www.lastampa.it/esteri/2026/07/26/video/furgone_sulla_folla_a_berlino_dal_palco_lannuncio_la_manifestazione_e_finita_andate_via-15699759/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "No Tav, il bilancio dell’assalto: 124 feriti tra le forze dell’ordine. Ora è caccia al “blocco nero”",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "torino.repubblica.it",
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/torino/2026/07/26/news/no_tav_proteste_scontri_val_di_susa_chiomonte-15699948/",
+        "https://www.ilfattoquotidiano.it/2026/07/26/no-tav-val-susa-scontri-notizie-2/8459506/",
+        "https://torino.repubblica.it/cronaca/2026/07/26/news/no_tav_assalto_feriti_indagini-425494066/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/guerriglia-no-tav-in-centinaia-assaltano-i-cantieri.-oltre-un-centinaio-di-feriti-tra-le-forze_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
+        "https://www.adnkronos.com/cronaca/no-tav-scontri-valsusa-bilancio-ultime-notizie_5nFg1345EY3UYc2nLgtne1"
       ]
     },
     {
@@ -140,28 +139,49 @@
     },
     {
       "rank": 7,
-      "title": "Incendio in Gargano, turisti evacuati su barche della guardia costiera",
+      "title": "Incendio sul Gargano, turisti evacuati dalle spiagge via mare",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 9,
       "source_domains": [
-        "ilfattoquotidiano.it",
         "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "adnkronos.com",
-        "bari.repubblica.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/incendi-sul-gargano-e-in-molise-evacuate-spiagge-e-campeggi-anziani-trasferiti-da-una_f1e930ad-79df-413b-b658-5f1f6850fb1c.html",
+        "https://www.repubblica.it/cronaca/2026/07/26/news/incendi_molise_campeggi_rsa_strade-425494283/",
         "https://www.ilfattoquotidiano.it/2026/07/26/incendio-gargano-peschici-evacuazione-notizie/8459688/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/incendio-sul-gargano-turisti-evacuati-sulle-barche-guardia-costiera_f1e930ad-79df-413b-b658-5f1f6850fb1c.html",
-        "https://www.ilmessaggero.it/italia/incendio_gargano_turisti_evacuati_barche_ultima_ora-9673876.html",
-        "https://www.adnkronos.com/cronaca/incendio-campomarino-termoli-stop-circolazione-treni-pescara-bari_2KZ0U8tIcGYW1tMYHHoW5b",
-        "https://bari.repubblica.it/cronaca/2026/07/26/news/puglia_brucia_ancora_peschici_pineta_fiamme_nube_nera_visibile_da_lontano-425494126/"
+        "https://www.ilmessaggero.it/italia/incendio_gargano_turisti_evacuati_barche_ultima_ora-9673876.html"
       ]
     },
     {
       "rank": 8,
+      "title": "F1, in Ungheria vince Norris davanti a Verstappen",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/07/26/f1-in-ungheria-vince-norris-davanti-a-verstappen_f4342c93-f4b2-41a7-ab42-a47deb4b66f0.html",
+        "https://www.adnkronos.com/sport/gp-ungheria-hamilton-penalizzato-gara_eIDlUXjIK01r3MdlvxWEu",
+        "https://www.adnkronos.com/sport/f1-gp-ungheria-ordine-arrivo-classifica_2bG1X4tRMrkJi6TP6Dl27X",
+        "https://www.ilfattoquotidiano.it/2026/07/26/f1-norris-gp-ungheria-risultati-nuova-classifica/8459701/",
+        "https://www.lastampa.it/sport/2026/07/26/news/gp_ungheria_trionfa_norris_la_ferrari_sbaglia_tutto-15699973/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Dopo 5 anni di totale cecità, torna a vedere con un autotrapianto all'occhio",
       "source_count": 4,
       "article_count": 6,
@@ -180,41 +200,22 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Scontri No Tav, solidarietà di Mattarella agli agenti feriti. Meloni: “Non piegheranno lo Stato”",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "lastampa.it",
-        "repubblica.it",
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.lastampa.it/politica/2026/07/26/news/scontri_no_tav_reazioni_politica_lega_pd_cirio-15699829/",
-        "https://www.repubblica.it/cronaca/2026/07/26/news/scontri_no_tav_solidarieta_mattarella_agenti_feriti_meloni_non_piegheranno_lo_stato-425493429/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/guerriglia-no-tav-in-centinaia-assaltano-i-cantieri.-piantedosi-ce-chi-vuole-unescalation_87a82f4b-3fcc-48bf-8d24-b8b4bbdf5454.html",
-        "https://www.lastampa.it/torino/2026/07/25/news/no_tav_tajani_sinistra_connivente_da_bologna_alla_valsusa-15699367/",
-        "https://www.ilsole24ore.com/art/no-tav-assalto-cantieri-val-susa-fiamme-due-camionette-carabinieri-AJCXioV"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Hamilton e Antonelli penalizzati, qualifiche al cardiopalma al GP d'Ungheria: Norris in pole affiancato da Leclerc",
+      "title": "Fakir: esclusiva al Tg1, il frame dalla bodycam del poliziotto",
       "source_count": 4,
       "article_count": 5,
       "source_domains": [
         "adnkronos.com",
+        "ansa.it",
         "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.adnkronos.com/sport/diretta-f1-gp-ungheria-oggi-gara-26-luglio_76vg5DeBdccZMvdjF12YtE",
-        "https://www.ilmessaggero.it/sport/formula1/live_gp_ungheria_diretta_f1_norris_ferrari_leclerc_antonelli_mercedes-9673838.html",
-        "https://www.ilmessaggero.it/blog/milleruote/hamilton_e_antonelli_penalizzati_qualifiche_al_cardiopalma_al_gp_d_ungheria_norris_in_pole_affiancato_da_leclerc-9673727.html",
-        "https://www.liberoquotidiano.it/news/sport/48676328/gp-ungheria-pole-norris-hamilton-deludono-lecler-kimi-antonelli/",
-        "https://www.lastampa.it/sport/2026/07/25/news/gp_ungheria_penalizzati_hamilton_e_antonelli_norris_e_leclerc_in_prima_fila-15699475/"
+        "https://www.adnkronos.com/cronaca/fakir-sangue-video-bodycam-poliziotto_24EJkC4QLLYqiexdxbQpK6",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/26/fakir-esclusiva-al-tg1-il-frame-dalla-bodycam-del-poliziotto-_0608b35c-5ce3-4423-aef6-2fa59bf90cd4.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/25/ce-un-nuovo-video-una-chiazza-di-sangue-sotto-la-testa-di-fakir-morto_99e6053d-4edf-41de-9930-bbf15dced48a.html",
+        "https://www.ilmessaggero.it/italia/fakir_polmoni_pesano_doppio-9672668.html",
+        "https://www.ilsole24ore.com/art/video-shock-fakir-morto-una-grossa-chiazza-sangue-AJPFXxV"
       ]
     }
   ]
