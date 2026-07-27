@@ -1,15 +1,38 @@
 {
   "date": "2026-07-27",
-  "generated_at": "Mon 27 Jul 18:31",
+  "generated_at": "Mon 27 Jul 19:51",
   "stories": [
     {
       "rank": 1,
-      "title": "Accise, tagli solo sul diesel: -17 cent fino al 6. Meloni: “Tempestivo ma non risolve il problema”",
-      "source_count": 7,
-      "article_count": 13,
+      "title": "Maldini e Leonardo lasciano la Nazionale. Malagò punta su Mancini ct. La diretta",
+      "source_count": 8,
+      "article_count": 19,
       "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
         "repubblica.it",
+        "ilfattoquotidiano.it",
         "liberoquotidiano.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/07/27/caos-azzurro-maldini-e-leonardo-sbattono-la-porta-risalgono-conte-e-mancini_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
+        "https://www.adnkronos.com/sport/maldini-leonardo-nazionale-dimissioni-choc-caso-pirlo_3eUBCqJ6lrKmkkOU11BZrP",
+        "https://www.adnkronos.com/sport/caso-pirlo-ct-italia-figlio-attacca-dura-lettera_7LADevDnhXeYVAacMkrTxT",
+        "https://www.ilmessaggero.it/sport/schede/ct_italia_favoriti_chi_sono_thiago_motta_antonio_conte_roberto_mancini-9675635.html",
+        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/27/diretta/ct_italia_pirlo_maldini_malago_news_nazionale-425495890/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Carburanti, Giorgetti: sconto sul gasolio per 17 cent fino 6 agosto",
+      "source_count": 7,
+      "article_count": 14,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
         "ansa.it",
         "adnkronos.com",
         "lastampa.it",
@@ -17,15 +40,15 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48696710/taglio-accise-giorgetti-in-vigore-dal-28-luglio-pronti-interventi-su-bollette-se-crisi-continua/",
         "https://www.repubblica.it/economia/2026/07/27/news/accise_governo_sconto_gasolio_decreto_ponte_agosto_benzina-425496278/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48696540/giorgietti-ok-a-sconto-17-cent-su-gasolio-fino-al-6-agosto-prorogati-aiuti-ad-autotrasportatori/",
         "https://www.ansa.it/sito/notizie/economia/2026/07/27/giorgetti-sconto-solo-sul-diesel-17-centesimi-al-litro_9c8411bb-583f-407e-a372-27214add207a.html",
-        "https://www.ansa.it/sito/notizie/dirette_live/2026/07/27/la-conferenza-stampa-a-palazzo-chigi-dopo-il-cdm-_f78fa098-1758-4236-8a03-6da886e9fec1.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48696708/carburanti-giorgetti-sconto-sul-gasolio-per-17-cent-fino-6-agosto/"
+        "https://www.ansa.it/sito/notizie/dirette_live/2026/07/27/la-conferenza-stampa-a-palazzo-chigi-dopo-il-cdm-_f78fa098-1758-4236-8a03-6da886e9fec1.html"
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Incendi in Spagna, Sanchez: già devastati oltre 170.000 ettari",
       "source_count": 5,
       "article_count": 11,
@@ -45,7 +68,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Meloni e Piantedosi in Val di Susa dopo gli assalti No Tav ai cantieri, fermati 4 antagonisti stranieri",
       "source_count": 7,
       "article_count": 8,
@@ -67,48 +90,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Maldini e Leonardo lasciano la Nazionale. Malagò punta su Mancini ct. La diretta",
-      "source_count": 5,
-      "article_count": 10,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/maldini-leonardo-nazionale-dimissioni-choc-caso-pirlo_3eUBCqJ6lrKmkkOU11BZrP",
-        "https://www.ilmessaggero.it/sport/schede/ct_italia_favoriti_chi_sono_thiago_motta_antonio_conte_roberto_mancini-9675635.html",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/27/diretta/ct_italia_pirlo_maldini_malago_news_nazionale-425495890/",
-        "https://www.ilmessaggero.it/sport/nazionali/maldini_leonardo_dimissioni_ultime_notizie_cosa_sappiamo-9675506.html",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/27/news/figc_malago_maldini_situazione_colloquio_ct-425495690/"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "Pirlo: \"Ho appreso di non essere più candidato al ruolo di ct\"",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/caso-pirlo-ct-italia-figlio-attacca-dura-lettera_7LADevDnhXeYVAacMkrTxT",
-        "https://www.liberoquotidiano.it/news/tv-news/48692601/niente-italia-per-pirlo-amarezza-per-dibattito-attorno-al-mio-nome-/",
-        "https://www.ansa.it/sito/notizie/sport/2026/07/27/pirlo-ho-appreso-di-non-essere-piu-candidato-al-ruolo-di-ct_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
-        "https://www.adnkronos.com/sport/andrea-pirlo-ct-nazionale-candidato-annuncio_61Gp08Ikyw6tRvsrhWyxZk",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/27/news/andrea_pirlo_no_ct_nazionale-425495153/"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Incendio a Peschici, ancora in corso lo spegnimento delle fiamme",
       "source_count": 4,
       "article_count": 7,
@@ -127,7 +109,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Caso Pirlo, Abodi critica: \"Una brutta figura\". E Malagò prende tempo",
       "source_count": 5,
       "article_count": 6,
@@ -147,7 +129,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Berlino, l’attentato al Pride: ucciso il terrorista dell’Isis. Il rischio di altri attacchi",
       "source_count": 5,
       "article_count": 5,
@@ -167,7 +149,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "No Tav, l'affondo di Meloni: \"Non è dissenso, questa è violenza organizzata\"",
       "source_count": 4,
       "article_count": 6,
@@ -186,7 +168,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Ex Ilva, la Corte ordina lo stop dell’area a caldo entro 90 giorni per amianto e polveri sottili",
       "source_count": 4,
       "article_count": 5,
@@ -202,6 +184,25 @@
         "https://www.ilfattoquotidiano.it/2026/07/27/ilva-area-a-caldo-chiusura-90-giorni-ordinanza-corte-appello-milano/8460203/",
         "https://www.lastampa.it/economia/2026/07/27/news/ex_ilva_i_giudici_deve_chiudere_entro_90_giorni-15700443/",
         "https://www.agi.it/cronaca/news/2026-07-27/ex-ilva-chiusura-90-giorni-38252573/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Omicidio alla stazione Togliatti: difende un amico e viene ucciso da un rapinatore con un cacciavite",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "roma.repubblica.it",
+        "lastampa.it",
+        "ansa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://roma.repubblica.it/cronaca/2026/07/27/news/omicidio_stazione_togliatti_racconto_amico_mohammed_amdi_cacciavite-425495966/",
+        "https://www.lastampa.it/cronaca/2026/07/27/news/roma_togliatti_difende_amico_aggredito_cacciavite_morto-15700653/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/difende-lamico-rapinato-e-viene-aggredito-muore-dopo-8-giorni_654f9202-a34e-437d-a02c-63b78c7a38fe.html",
+        "https://www.liberoquotidiano.it/news/italia/48693153/roma-difende-amico-rapinato-aggredito-gambiano-muore-dopo-8-giorni/",
+        "https://roma.repubblica.it/cronaca/2026/07/27/news/omicidio_roma_stazione_palmiro_togliatti_rapina_cacciavite-425495487/"
       ]
     }
   ]
