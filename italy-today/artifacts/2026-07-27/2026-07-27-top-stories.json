@@ -1,35 +1,12 @@
 {
   "date": "2026-07-27",
-  "generated_at": "Mon 27 Jul 19:51",
+  "generated_at": "Mon 27 Jul 20:30",
   "stories": [
     {
       "rank": 1,
-      "title": "Maldini e Leonardo lasciano la Nazionale. Malagò punta su Mancini ct. La diretta",
-      "source_count": 8,
-      "article_count": 19,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/07/27/caos-azzurro-maldini-e-leonardo-sbattono-la-porta-risalgono-conte-e-mancini_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
-        "https://www.adnkronos.com/sport/maldini-leonardo-nazionale-dimissioni-choc-caso-pirlo_3eUBCqJ6lrKmkkOU11BZrP",
-        "https://www.adnkronos.com/sport/caso-pirlo-ct-italia-figlio-attacca-dura-lettera_7LADevDnhXeYVAacMkrTxT",
-        "https://www.ilmessaggero.it/sport/schede/ct_italia_favoriti_chi_sono_thiago_motta_antonio_conte_roberto_mancini-9675635.html",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/27/diretta/ct_italia_pirlo_maldini_malago_news_nazionale-425495890/"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Carburanti, Giorgetti: sconto sul gasolio per 17 cent fino 6 agosto",
       "source_count": 7,
-      "article_count": 14,
+      "article_count": 15,
       "source_domains": [
         "liberoquotidiano.it",
         "repubblica.it",
@@ -40,11 +17,34 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/pillole/48696717/giorgetti_sconto_solo_sul_gasolio_di_17_centesimi_fino_al_6_agosto_/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48696710/taglio-accise-giorgetti-in-vigore-dal-28-luglio-pronti-interventi-su-bollette-se-crisi-continua/",
         "https://www.repubblica.it/economia/2026/07/27/news/accise_governo_sconto_gasolio_decreto_ponte_agosto_benzina-425496278/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48696540/giorgietti-ok-a-sconto-17-cent-su-gasolio-fino-al-6-agosto-prorogati-aiuti-ad-autotrasportatori/",
-        "https://www.ansa.it/sito/notizie/economia/2026/07/27/giorgetti-sconto-solo-sul-diesel-17-centesimi-al-litro_9c8411bb-583f-407e-a372-27214add207a.html",
-        "https://www.ansa.it/sito/notizie/dirette_live/2026/07/27/la-conferenza-stampa-a-palazzo-chigi-dopo-il-cdm-_f78fa098-1758-4236-8a03-6da886e9fec1.html"
+        "https://www.ansa.it/sito/notizie/economia/2026/07/27/giorgetti-sconto-solo-sul-diesel-17-centesimi-al-litro_9c8411bb-583f-407e-a372-27214add207a.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Maldini e Leonardo lasciano la Nazionale. Malagò punta su Mancini ct. La diretta",
+      "source_count": 8,
+      "article_count": 13,
+      "source_domains": [
+        "laverita.info",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.laverita.info/storie-di-sport/maldini-leonardo-pirlo-nazionale",
+        "https://www.ansa.it/sito/notizie/sport/2026/07/27/caos-azzurro-maldini-e-leonardo-sbattono-la-porta-risalgono-conte-e-mancini_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
+        "https://www.liberoquotidiano.it/news/pillole/48697743/figc_simonelli_appreso_dalla_tv_delle_dimissioni_maldini_e_leonardo_dispiace_/",
+        "https://www.adnkronos.com/sport/maldini-leonardo-nazionale-dimissioni-choc-caso-pirlo_3eUBCqJ6lrKmkkOU11BZrP",
+        "https://www.liberoquotidiano.it/news/sport/48696706/nazionale-dimettono-maldini-leonardo-chi-favorito-panchina/"
       ]
     },
     {
@@ -91,6 +91,27 @@
     },
     {
       "rank": 5,
+      "title": "Pirlo: \"Ho appreso di non essere più candidato al ruolo di ct\"",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/caso-pirlo-ct-italia-figlio-attacca-dura-lettera_7LADevDnhXeYVAacMkrTxT",
+        "https://www.liberoquotidiano.it/news/tv-news/48692601/niente-italia-per-pirlo-amarezza-per-dibattito-attorno-al-mio-nome-/",
+        "https://www.ansa.it/sito/notizie/sport/2026/07/27/pirlo-ho-appreso-di-non-essere-piu-candidato-al-ruolo-di-ct_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
+        "https://www.adnkronos.com/sport/andrea-pirlo-ct-nazionale-candidato-annuncio_61Gp08Ikyw6tRvsrhWyxZk",
+        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/27/news/andrea_pirlo_no_ct_nazionale-425495153/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Incendio a Peschici, ancora in corso lo spegnimento delle fiamme",
       "source_count": 4,
       "article_count": 7,
@@ -109,7 +130,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Caso Pirlo, Abodi critica: \"Una brutta figura\". E Malagò prende tempo",
       "source_count": 5,
       "article_count": 6,
@@ -126,26 +147,6 @@
         "https://www.liberoquotidiano.it/news/pillole/48693989/figc_malago_ct_a_breve_brutta_figura_da_vedere_chi_l_ha_fatta_/",
         "https://www.ilmessaggero.it/sport/nazionali/malago_ct_italia_nazionale_ultime_notizie-9675506.html",
         "https://www.adnkronos.com/sport/abodi-malago-caso-pirlo-ct-nazionale-caos_5InTxN2BoQyGpRnsdtHjJ4"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Berlino, l’attentato al Pride: ucciso il terrorista dell’Isis. Il rischio di altri attacchi",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "lastampa.it",
-        "laverita.info",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/esteri/2026/07/27/news/berlino_attentato_pride_abdul_ballout_ucciso_polizia_spandau-15700497/",
-        "https://www.laverita.info/mondo/attentato-berlino-ballout-ucciso",
-        "https://www.liberoquotidiano.it/news/tv-news/48690677/berlino-attacco-al-pride-il-presunto-attentatore-ucciso-in-un-blitz/",
-        "https://www.repubblica.it/esteri/2026/07/27/news/attentato_a_berlino_intervista_alfonso_pantisano_commissario_queer_religioni_odio-425494737/",
-        "https://www.ilmessaggero.it/mondo/berlino_attentato_gay_pride_killer_morto_isis-9674192.html"
       ]
     },
     {
