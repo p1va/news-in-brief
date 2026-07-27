@@ -1,13 +1,14 @@
 {
   "date": "2026-07-27",
-  "generated_at": "Mon 27 Jul 20:30",
+  "generated_at": "Mon 27 Jul 22:16",
   "stories": [
     {
       "rank": 1,
       "title": "Carburanti, Giorgetti: sconto sul gasolio per 17 cent fino 6 agosto",
-      "source_count": 7,
-      "article_count": 15,
+      "source_count": 8,
+      "article_count": 16,
       "source_domains": [
+        "ilmessaggero.it",
         "liberoquotidiano.it",
         "repubblica.it",
         "ansa.it",
@@ -17,11 +18,11 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilmessaggero.it/economia/taglio_accise_quanto_scende_prezzo_benzina_e_diesel-9675915.html",
         "https://www.liberoquotidiano.it/news/pillole/48696717/giorgetti_sconto_solo_sul_gasolio_di_17_centesimi_fino_al_6_agosto_/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48696710/taglio-accise-giorgetti-in-vigore-dal-28-luglio-pronti-interventi-su-bollette-se-crisi-continua/",
         "https://www.repubblica.it/economia/2026/07/27/news/accise_governo_sconto_gasolio_decreto_ponte_agosto_benzina-425496278/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48696540/giorgietti-ok-a-sconto-17-cent-su-gasolio-fino-al-6-agosto-prorogati-aiuti-ad-autotrasportatori/",
-        "https://www.ansa.it/sito/notizie/economia/2026/07/27/giorgetti-sconto-solo-sul-diesel-17-centesimi-al-litro_9c8411bb-583f-407e-a372-27214add207a.html"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48696540/giorgietti-ok-a-sconto-17-cent-su-gasolio-fino-al-6-agosto-prorogati-aiuti-ad-autotrasportatori/"
       ]
     },
     {
@@ -51,7 +52,7 @@
       "rank": 3,
       "title": "Incendi in Spagna, Sanchez: già devastati oltre 170.000 ettari",
       "source_count": 5,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
@@ -93,25 +94,45 @@
       "rank": 5,
       "title": "Pirlo: \"Ho appreso di non essere più candidato al ruolo di ct\"",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
         "adnkronos.com",
-        "liberoquotidiano.it",
         "ansa.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
         "repubblica.it",
-        "ilmessaggero.it",
         "news.google.com"
       ],
       "links": [
         "https://www.adnkronos.com/sport/caso-pirlo-ct-italia-figlio-attacca-dura-lettera_7LADevDnhXeYVAacMkrTxT",
+        "https://www.ansa.it/sito/notizie/sport/2026/07/27/pirlo-non-sara-il-ct.-abodi-recuperare-alla-brutta-figura.-malago_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
+        "https://www.adnkronos.com/sport/abodi-malago-caso-pirlo-ct-nazionale-caos_5InTxN2BoQyGpRnsdtHjJ4",
         "https://www.liberoquotidiano.it/news/tv-news/48692601/niente-italia-per-pirlo-amarezza-per-dibattito-attorno-al-mio-nome-/",
-        "https://www.ansa.it/sito/notizie/sport/2026/07/27/pirlo-ho-appreso-di-non-essere-piu-candidato-al-ruolo-di-ct_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
-        "https://www.adnkronos.com/sport/andrea-pirlo-ct-nazionale-candidato-annuncio_61Gp08Ikyw6tRvsrhWyxZk",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/27/news/andrea_pirlo_no_ct_nazionale-425495153/"
+        "https://www.ansa.it/sito/notizie/sport/2026/07/27/pirlo-ho-appreso-di-non-essere-piu-candidato-al-ruolo-di-ct_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html"
       ]
     },
     {
       "rank": 6,
+      "title": "Ex Ilva, la Corte ordina lo stop dell’area a caldo entro 90 giorni per amianto e polveri sottili",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/ex-ilva-il-tribunale-chiude-larea-a-caldo-amianto-e-polveri-sottili-da-bonificare",
+        "https://www.ansa.it/sito/notizie/economia/2026/07/27/accolto-reclamo-cittadini-su-ex-ilva-stop-area-a-caldo-in-90-giorni_5b26db8a-3a8e-4fe3-b064-3186d5f2e70c.html",
+        "https://www.lastampa.it/cronaca/2026/07/27/news/ex_ilva_la_corte_ordina_lo_stop_dell_area_a_caldo_entro_90_giorni_per_amianto_e_polveri_sottili-15700544/",
+        "https://www.ilfattoquotidiano.it/2026/07/27/ilva-area-a-caldo-chiusura-90-giorni-ordinanza-corte-appello-milano/8460203/",
+        "https://www.lastampa.it/economia/2026/07/27/news/ex_ilva_i_giudici_deve_chiudere_entro_90_giorni-15700443/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Incendio a Peschici, ancora in corso lo spegnimento delle fiamme",
       "source_count": 4,
       "article_count": 7,
@@ -130,27 +151,45 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Caso Pirlo, Abodi critica: \"Una brutta figura\". E Malagò prende tempo",
+      "rank": 8,
+      "title": "Ponte sullo Stretto, Cgil presenta un esposto per danno erariale",
       "source_count": 5,
-      "article_count": 6,
+      "article_count": 5,
       "source_domains": [
+        "ilmanifesto.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "lastampa.it"
+        "repubblica.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/07/27/pirlo-non-sara-il-ct.-abodi-recuperare-alla-brutta-figura.-malago_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
-        "https://www.liberoquotidiano.it/news/pillole/48695326/figc_malago_domani_ci_saranno_novita_/",
-        "https://www.liberoquotidiano.it/news/pillole/48693989/figc_malago_ct_a_breve_brutta_figura_da_vedere_chi_l_ha_fatta_/",
-        "https://www.ilmessaggero.it/sport/nazionali/malago_ct_italia_nazionale_ultime_notizie-9675506.html",
-        "https://www.adnkronos.com/sport/abodi-malago-caso-pirlo-ct-nazionale-caos_5InTxN2BoQyGpRnsdtHjJ4"
+        "https://ilmanifesto.it/ponte-esposto-della-cgil-basta-miliardi-sprecati",
+        "https://www.ilfattoquotidiano.it/2026/07/27/esposto-cgil-corte-conti-danno-erariale-ponte-stretto/8460493/",
+        "https://www.ansa.it/sito/notizie/economia/2026/07/27/cgil-presenta-un-esposto-alla-corte-dei-conti-per-danno-erariale_5e9966c8-61b1-4eb1-9182-d4cedf9d5519.html",
+        "https://www.repubblica.it/politica/2026/07/27/news/ponte_stretto_esposto_cgil_corte_conti_danno_erariale-425495208/",
+        "https://www.ilsole24ore.com/art/ponte-stretto-cgil-presenta-esposto-danno-erariale-AJaxMxW"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Assalto no Tav, Meloni: Scontri non sono dissenso, ma violenza organizzata e premeditata",
+      "source_count": 3,
+      "article_count": 7,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/48695720/meloni-lo-stato-non-puo-tollerare-la-violenza-organizzata-/",
+        "https://www.liberoquotidiano.it/news/pillole/48693022/no_tav_sala_violenze_sono_un_atto_criminale_sinistra_non_e_indulgente_/",
+        "https://www.repubblica.it/politica/2026/07/27/news/meloni_schlein_no_tav_val_di_susa_violenze-425495634/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48692081/assalto-no-tav-meloni-scontri-non-sono-dissenso-ma-violenza-organizzata-e-premeditata/",
+        "https://www.liberoquotidiano.it/news/tv-news/48693653/tav-meloni-stato-non-indietreggia-non-e-dissenso-ma-violenza/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "No Tav, l'affondo di Meloni: \"Non è dissenso, questa è violenza organizzata\"",
       "source_count": 4,
       "article_count": 6,
@@ -166,44 +205,6 @@
         "https://www.liberoquotidiano.it/news/italia/48691662/no-tav-meloni-piantedosi-val-di-susa-dopo-assalto-cantiere-fermati-4-stranieri/",
         "https://www.lastampa.it/torino/2026/07/27/video/meloni_in_valsusa_assicurare_alla_giustizia_i_responsabili_di_questo_schifo-15700518/",
         "https://www.agi.it/cronaca/news/2026-07-26/no-tav-val-di-susa-126-feriti-38239409/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Ex Ilva, la Corte ordina lo stop dell’area a caldo entro 90 giorni per amianto e polveri sottili",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/07/27/accolto-reclamo-cittadini-su-ex-ilva-stop-area-a-caldo-in-90-giorni_5b26db8a-3a8e-4fe3-b064-3186d5f2e70c.html",
-        "https://www.lastampa.it/cronaca/2026/07/27/news/ex_ilva_la_corte_ordina_lo_stop_dell_area_a_caldo_entro_90_giorni_per_amianto_e_polveri_sottili-15700544/",
-        "https://www.ilfattoquotidiano.it/2026/07/27/ilva-area-a-caldo-chiusura-90-giorni-ordinanza-corte-appello-milano/8460203/",
-        "https://www.lastampa.it/economia/2026/07/27/news/ex_ilva_i_giudici_deve_chiudere_entro_90_giorni-15700443/",
-        "https://www.agi.it/cronaca/news/2026-07-27/ex-ilva-chiusura-90-giorni-38252573/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Omicidio alla stazione Togliatti: difende un amico e viene ucciso da un rapinatore con un cacciavite",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "roma.repubblica.it",
-        "lastampa.it",
-        "ansa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://roma.repubblica.it/cronaca/2026/07/27/news/omicidio_stazione_togliatti_racconto_amico_mohammed_amdi_cacciavite-425495966/",
-        "https://www.lastampa.it/cronaca/2026/07/27/news/roma_togliatti_difende_amico_aggredito_cacciavite_morto-15700653/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/difende-lamico-rapinato-e-viene-aggredito-muore-dopo-8-giorni_654f9202-a34e-437d-a02c-63b78c7a38fe.html",
-        "https://www.liberoquotidiano.it/news/italia/48693153/roma-difende-amico-rapinato-aggredito-gambiano-muore-dopo-8-giorni/",
-        "https://roma.repubblica.it/cronaca/2026/07/27/news/omicidio_roma_stazione_palmiro_togliatti_rapina_cacciavite-425495487/"
       ]
     }
   ]
