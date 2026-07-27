@@ -1,51 +1,32 @@
 {
   "date": "2026-07-27",
-  "generated_at": "Mon 27 Jul 10:05",
+  "generated_at": "Mon 27 Jul 13:23",
   "stories": [
     {
       "rank": 1,
       "title": "Pirlo: “Non sarò il ct della Nazionale”. Ora Maldini pensa all’addio",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 8,
+      "article_count": 12,
       "source_domains": [
-        "ansa.it",
+        "repubblica.it",
         "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ansa.it",
         "adnkronos.com",
         "ilmessaggero.it",
-        "repubblica.it",
         "lastampa.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/27/news/figc_malago_maldini_situazione_colloquio_ct-425495690/",
+        "https://www.ilfattoquotidiano.it/2026/07/27/nazionale-italia-chiellini-conte-maldini-figc-pirlo/8460382/",
+        "https://www.liberoquotidiano.it/news/tv-news/48692601/niente-italia-per-pirlo-amarezza-per-dibattito-attorno-al-mio-nome-/",
         "https://www.ansa.it/sito/notizie/sport/2026/07/27/pirlo-ho-appreso-di-non-essere-piu-candidato-al-ruolo-di-ct_2dec2d1e-c7b5-476a-9142-af1ffcbaec7d.html",
-        "https://www.ilfattoquotidiano.it/2026/07/27/ct-italia-pirlo-fuori-cosa-succede-ora-altri-allenatori-in-lizza-confronto-oggi-malago-maldini-dimissioni/8460108/",
-        "https://www.adnkronos.com/sport/andrea-pirlo-ct-nazionale-candidato-annuncio_61Gp08Ikyw6tRvsrhWyxZk",
-        "https://www.ilmessaggero.it/sport/schede/mancini_conte_palladino_nuovo_ct_totonomi_chi_sara-9675202.html",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/27/news/andrea_pirlo_no_ct_nazionale-425495153/"
+        "https://www.ilfattoquotidiano.it/2026/07/27/ct-italia-pirlo-fuori-cosa-succede-ora-altri-allenatori-in-lizza-confronto-oggi-malago-maldini-dimissioni/8460108/"
       ]
     },
     {
       "rank": 2,
-      "title": "Incendi in Francia, Gironda devastata: si teme nuovo picco di caldo",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/videogallery/mondo/2026/07/27/la-cittadina-francese-di-le-porge-devastata-dagli-incendi_3df513b9-1458-489b-b633-e4b41f007294.html",
-        "https://www.adnkronos.com/cronaca/incendi-gargano-peschici-vieste-ultime-notizie_2L7P4qCvlawAXiNu6Lym2o",
-        "https://www.liberoquotidiano.it/news/tv-news/48691649/a-maratea-sotto-controllo-l-incendio-della-vegetazione/",
-        "https://www.liberoquotidiano.it/news/tv-news/48691451/spagna-impressionanti-immagini-da-un-incendio-a-ovest-di-madrid/",
-        "https://www.liberoquotidiano.it/news/tv-news/48690696/incendi-in-francia-gironda-devastata-si-teme-nuovo-picco-di-caldo/"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Meloni e Piantedosi in Val di Susa dopo gli assalti No Tav ai cantieri, fermati 4 antagonisti stranieri",
       "source_count": 6,
       "article_count": 6,
@@ -66,26 +47,67 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Caro-carburanti, Cdm alle 17,30: in arrivo intervento ponte per abbassare i prezzi",
-      "source_count": 4,
-      "article_count": 5,
+      "rank": 3,
+      "title": "È stato ucciso il sospettato per l’attentato al Pride di Berlino",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
+        "lastampa.it",
+        "laverita.info",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.lastampa.it/esteri/2026/07/27/news/berlino_attentato_pride_abdul_ballout_ucciso_polizia_spandau-15700497/",
+        "https://www.laverita.info/mondo/attentato-berlino-ballout-ucciso",
+        "https://www.liberoquotidiano.it/news/tv-news/48690677/berlino-attacco-al-pride-il-presunto-attentatore-ucciso-in-un-blitz/",
+        "https://www.repubblica.it/esteri/2026/07/27/news/attentato_a_berlino_intervista_alfonso_pantisano_commissario_queer_religioni_odio-425494737/",
+        "https://www.ilmessaggero.it/mondo/berlino_attentato_gay_pride_killer_morto_isis-9674192.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Assalto no Tav, Meloni: Scontri non sono dissenso, ma violenza organizzata e premeditata",
+      "source_count": 4,
+      "article_count": 8,
+      "source_domains": [
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/politica/2026/07/27/news/meloni_schlein_no_tav_val_di_susa_violenze-425495634/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48692081/assalto-no-tav-meloni-scontri-non-sono-dissenso-ma-violenza-organizzata-e-premeditata/",
+        "https://www.liberoquotidiano.it/news/tv-news/48693653/tav-meloni-stato-non-indietreggia-non-e-dissenso-ma-violenza/",
+        "https://www.liberoquotidiano.it/news/libero-video/48692040/no-tav-sala-atto-criminale-ma-sinistra-non-siamo-indulgenti/",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/07/27/prime-pagine-guerriglia-no-tav-un-milione-di-danni.-piantedosi-un-attacco-allo-stato_ea03a619-c8aa-40c7-b57a-b6520f870de0.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Caro-carburanti, Cdm alle 17,30: in arrivo intervento ponte per abbassare i prezzi",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "repubblica.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.repubblica.it/economia/2026/07/27/news/caro_benzina_cdm_aumento_sigarette-425495478/",
         "https://www.ansa.it/sito/notizie/economia/2026/07/27/in-arrivo-lintervento-ponte-sui-carburanti-oggi-il-consiglio-dei-ministri_9c8411bb-583f-407e-a372-27214add207a.html",
         "https://www.ilfattoquotidiano.it/2026/07/27/caro-carburanti-decreto-accise-mobili-oggi/8460047/",
         "https://www.adnkronos.com/politica/caro-carburanti-prezzi-benzina-diesel-cdm-nuove-misure_2S1FqdB0RCSFK88uNmorJY",
-        "https://www.ilsole24ore.com/art/caro-carburanti-il-cdm-taglio-accise-solo-gasolio-AJ69ltW",
-        "https://www.ilsole24ore.com/art/caro-carburanti-intervento-ponte-abbassare-prezzi-prima-partenze-bollino-rosso-AJT4TVW"
+        "https://www.ilsole24ore.com/art/caro-carburanti-il-cdm-taglio-accise-solo-gasolio-AJ69ltW"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Ct Nazionale e caso Pirlo, il web boccia la Figc: i giudizi degli utenti nel rapporto Spin Factor",
       "source_count": 4,
       "article_count": 5,
@@ -104,7 +126,62 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Ex Ilva, la Corte ordina lo stop dell’area a caldo entro 90 giorni per amianto e polveri sottili",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/economia/2026/07/27/accolto-reclamo-cittadini-su-ex-ilva-stop-area-a-caldo-in-90-giorni_5b26db8a-3a8e-4fe3-b064-3186d5f2e70c.html",
+        "https://www.lastampa.it/cronaca/2026/07/27/news/ex_ilva_la_corte_ordina_lo_stop_dell_area_a_caldo_entro_90_giorni_per_amianto_e_polveri_sottili-15700544/",
+        "https://www.ilfattoquotidiano.it/2026/07/27/ilva-area-a-caldo-chiusura-90-giorni-ordinanza-corte-appello-milano/8460203/",
+        "https://www.lastampa.it/economia/2026/07/27/news/ex_ilva_i_giudici_deve_chiudere_entro_90_giorni-15700443/",
+        "https://www.agi.it/cronaca/news/2026-07-27/ex-ilva-chiusura-90-giorni-38252573/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Incendi in Francia, Gironda devastata: si teme nuovo picco di caldo",
+      "source_count": 3,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48692057/sanchez-l-emergenza-climatica-uccide-estati-sempre-piu-mortali/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48692059/emergenza-incendi-spagna-sanchez-serve-patto-di-stato-per-proteggere-il-futuro-dei-cittadini/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/07/27/la-cittadina-francese-di-le-porge-devastata-dagli-incendi_3df513b9-1458-489b-b633-e4b41f007294.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48691451/spagna-impressionanti-immagini-da-un-incendio-a-ovest-di-madrid/",
+        "https://www.liberoquotidiano.it/news/tv-news/48690696/incendi-in-francia-gironda-devastata-si-teme-nuovo-picco-di-caldo/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Ponte sullo Stretto, Cgil presenta un esposto per danno erariale",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/27/esposto-cgil-corte-conti-danno-erariale-ponte-stretto/8460493/",
+        "https://www.ansa.it/sito/notizie/economia/2026/07/27/cgil-presenta-un-esposto-alla-corte-dei-conti-per-danno-erariale_5e9966c8-61b1-4eb1-9182-d4cedf9d5519.html",
+        "https://www.repubblica.it/politica/2026/07/27/news/ponte_stretto_esposto_cgil_corte_conti_danno_erariale-425495208/",
+        "https://www.ilsole24ore.com/art/ponte-stretto-cgil-presenta-esposto-danno-erariale-AJaxMxW"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Berlino, il padre dell’attentatore: “Non ci piace l’Isis. Mio figlio? L’hanno deviato”",
       "source_count": 3,
       "article_count": 5,
@@ -114,77 +191,11 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/27/merz-sullattentato-a-berlino-dobbiamo-capire-come-sia-potuto-accadere_f832220b-d86d-4589-8b4b-9fc43dbdf764.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/27/padre-attentatore-berlino-e-stato-sottoposto-al-lavaggio-del-cervello_f832220b-d86d-4589-8b4b-9fc43dbdf764.html",
         "https://www.repubblica.it/esteri/2026/07/27/news/strage_al_pride_di_berlino_il_padre_dell_attentatore-425495304/",
         "https://www.lastampa.it/esteri/2026/07/27/news/padre_attentatore_pride_berlino_isis_attentato_abdul_ballout-15700423/",
-        "https://www.repubblica.it/esteri/2026/07/27/news/ritratto_abdul_ballout_attentato_berlino_isis-425494658/",
-        "https://www.lastampa.it/esteri/2026/07/26/news/attentatore_berlino_liberta_vigilata_malgrado_piano_attacco-15699970/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Difesa, Benigni (ELT Group): A Farnborough per capacità futuro",
-      "source_count": 2,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48691711/farnborough-santachiara-anser-competenze-integrate/",
-        "https://www.liberoquotidiano.it/news/tv-news/48691704/tosini-mbda-cooperazione-consente-sviluppo-tecnologie-avanzate/",
-        "https://www.liberoquotidiano.it/news/tv-news/48691682/difesa-benigni-elt-group-a-farnborough-per-capacita-futuro/",
-        "https://www.liberoquotidiano.it/news/tv-news/48691680/aerospazio-de-mitri-collaborare-e-decisivo-per-l-innovazione/",
-        "https://www.lastampa.it/speciale/economia/nordovest-economia/2026/07/27/news/l_industria_aerospaziale_piemontese_a_farnborough_commesse_per_i_prossimi_15_anni-15699834/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "No Tav, i pm indagano per devastazione: “C’è stata la regia di Askatasuna”",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/07/27/prime-pagine-guerriglia-no-tav-un-milione-di-danni.-piantedosi-un-attacco-allo-stato_ea03a619-c8aa-40c7-b57a-b6520f870de0.html",
-        "https://www.lastampa.it/torino/2026/07/27/news/no_tav_i_pm_indagano_per_devastazione_c_e_stata_la_regia_di_askatasuna-15700228/",
-        "https://www.lastampa.it/torino/2026/07/27/news/no_tav_antagonisti_francesi_e_attivisti_spagnoli_nel_blocco_nero_anche_tanti_giovanissimi-15700209/",
-        "https://www.liberoquotidiano.it/news/pillole/48687545/no_tav_polizia_identifica_436_persone_e_sequestra_materiale_usato_negli_scontri/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Ponte sullo Stretto, Cgil presenta un esposto per danno erariale",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/07/27/cgil-presenta-un-esposto-alla-corte-dei-conti-per-danno-erariale_5e9966c8-61b1-4eb1-9182-d4cedf9d5519.html",
-        "https://www.repubblica.it/politica/2026/07/27/news/ponte_stretto_esposto_cgil_corte_conti_danno_erariale-425495208/",
-        "https://www.ilsole24ore.com/art/ponte-stretto-cgil-presenta-esposto-danno-erariale-AJaxMxW"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Stop dei treni a Firenze, Italia nuovamente divisa in due",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "firenze.repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/stop-treni-firenze-varo-nuovo-ponte-al-pino-alla-presenza-di-salvini_47279b0d-6a13-4528-aa14-471ed294ea17.html",
-        "https://www.adnkronos.com/cronaca/treni-firenze-nuovo-stop-la-situazione_6BdRrLeZCiA9VbsHScd94q",
-        "https://firenze.repubblica.it/cronaca/2026/07/27/diretta/firenze_treni_alta_velocita_circolazione_interrotta_lavori_navette-425494985/"
+        "https://www.repubblica.it/esteri/2026/07/27/news/ritratto_abdul_ballout_attentato_berlino_isis-425494658/"
       ]
     }
   ]
