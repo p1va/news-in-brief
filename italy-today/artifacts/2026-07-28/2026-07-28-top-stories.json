@@ -1,12 +1,12 @@
 {
   "date": "2026-07-28",
-  "generated_at": "Tue 28 Jul 18:23",
+  "generated_at": "Tue 28 Jul 19:49",
   "stories": [
     {
       "rank": 1,
-      "title": "Malagò: Roberto Mancini nuovo commissario tecnico della nazionale",
+      "title": "'Roberto Mancini è il ct della Nazionale', l'annuncio di Malagò al Consiglio Figc",
       "source_count": 8,
-      "article_count": 19,
+      "article_count": 18,
       "source_domains": [
         "laverita.info",
         "ilfattoquotidiano.it",
@@ -92,6 +92,25 @@
     },
     {
       "rank": 5,
+      "title": "La mamma di Domenico: \"Al processo li guarderò negli occhi\"",
+      "source_count": 4,
+      "article_count": 9,
+      "source_domains": [
+        "lastampa.it",
+        "laverita.info",
+        "ansa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/cronaca/2026/07/28/news/il_mio_domenico_trattato_come_un_giocattolo_nessuno_dei_medici_ci_ha_mai_chiesto_scusa-15701674/",
+        "https://www.laverita.info/inchieste-video/mamma-domenico-processo",
+        "https://www.ansa.it/sito/videogallery/italia/2026/07/28/la-mamma-di-domenico-al-processo-li-guardero-negli-occhi_016f759d-9f00-41e9-9067-b03006b2f5c8.html",
+        "https://www.liberoquotidiano.it/news/pillole/48706618/siracusano-istituzioni-si-impegnino-perche-tragedia-domenico-non-si-ripeta-/",
+        "https://www.liberoquotidiano.it/news/pillole/48706604/patrizia_mercolino_vogliamo_giustizia_per_domenico_/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Da oggi il taglio delle accise sul diesel, i decreti in Gazzetta. Ecco cosa succede alla pompa",
       "source_count": 5,
       "article_count": 7,
@@ -111,7 +130,26 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Netanyahu alla Casa Bianca per l'incontro con Trump",
+      "source_count": 4,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/28/zelensky-da-trump-per-blindare-gli-aiuti-tra-patriot-e-diplomazia_52c96a88-156a-4345-9481-199243ba0efb.html",
+        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/28/zelensky-e-netanyahu-ricevuti-da-trump-la-casa-bianca-incontri-positivi-e-produttivi_539957a0-62cc-4a90-a88d-11f651ed94cb.html",
+        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/28/netanyahu-alla-casa-bianca-per-lincontro-con-trump_539957a0-62cc-4a90-a88d-11f651ed94cb.html",
+        "https://www.adnkronos.com/internazionale/esteri/trump-zelensky-incontro-casa-bianca_2pj7mKA64zrWQ8I1M1QLkR",
+        "https://www.liberoquotidiano.it/news/tv-news/48702634/il-presidente-ucraino-zelensky-vola-negli-usa-per-incontrare-trump/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Orrore in Francia: ad Orange trovati i corpi di 5 neonati morti nella casa di una coppia",
       "source_count": 5,
       "article_count": 6,
@@ -131,25 +169,7 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Patrizia Mercolino: \"Giustizia per Domenico, fermiamo chi insabbia\"",
-      "source_count": 3,
-      "article_count": 8,
-      "source_domains": [
-        "laverita.info",
-        "ansa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.laverita.info/inchieste-video/mamma-domenico-processo",
-        "https://www.ansa.it/sito/videogallery/italia/2026/07/28/la-mamma-di-domenico-al-processo-li-guardero-negli-occhi_016f759d-9f00-41e9-9067-b03006b2f5c8.html",
-        "https://www.liberoquotidiano.it/news/pillole/48706618/siracusano-istituzioni-si-impegnino-perche-tragedia-domenico-non-si-ripeta-/",
-        "https://www.liberoquotidiano.it/news/pillole/48706604/patrizia_mercolino_vogliamo_giustizia_per_domenico_/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48707818/morte-piccolo-domenico-la-mamma-patrizia-siamo-stati-presi-in-giro-ci-hanno-nascosto-tutto/"
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "title": "Valsusa, si valuta l’aggravante terrorismo. I No Tav: “Siamo tutti black bloc”",
       "source_count": 5,
       "article_count": 5,
@@ -169,41 +189,22 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Netanyahu in America per spingere la guerra. Trump: fermo io l’Iran",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "adnkronos.com",
-        "laverita.info",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/netanyahu-trump-visita-washington-usa-oggi_1WhyxMmNreC8QcyjGrNZ3U",
-        "https://www.laverita.info/geopolitica/trump-netanyahu-iran",
-        "https://www.repubblica.it/esteri/2026/07/28/news/guerra_usa_iran_trump_dialogo_vertice_netanyahu-425496511/",
-        "https://www.repubblica.it/esteri/2026/07/28/diretta/guerra_iran_usa_israele_news_oggi-425496703/",
-        "https://www.lastampa.it/esteri/2026/07/28/news/netanyahu_in_america_guerra_trump_iran-15700923/"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Netanyahu alla Casa Bianca per l'incontro con Trump",
+      "title": "Netanyahu in America per spingere la guerra. Trump: fermo io l’Iran",
       "source_count": 4,
       "article_count": 6,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
-        "liberoquotidiano.it",
-        "repubblica.it"
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/28/zelensky-e-netanyahu-ricevuti-da-trump-la-casa-bianca-incontri-positivi-e-produttivi_539957a0-62cc-4a90-a88d-11f651ed94cb.html",
-        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/28/netanyahu-alla-casa-bianca-per-lincontro-con-trump_539957a0-62cc-4a90-a88d-11f651ed94cb.html",
-        "https://www.adnkronos.com/internazionale/esteri/trump-zelensky-incontro-casa-bianca_2pj7mKA64zrWQ8I1M1QLkR",
-        "https://www.liberoquotidiano.it/news/tv-news/48702634/il-presidente-ucraino-zelensky-vola-negli-usa-per-incontrare-trump/",
-        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-news-oggi-28-luglio_1eeXQ3WdaBdghOmcNMSLvw"
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/28/netanyhau-da-trump-nello-studio-ovale-allineati-su-ogni-scelta-in-iran_95f4f633-27f6-4be2-b9b0-a7f0079b17b7.html",
+        "https://www.adnkronos.com/internazionale/esteri/trump-netanyahu-usa-iran-israele-news_1Hbo2UEG0zFoY8RfEEA8Mp",
+        "https://www.adnkronos.com/internazionale/esteri/netanyahu-trump-visita-washington-usa-oggi_1WhyxMmNreC8QcyjGrNZ3U",
+        "https://www.repubblica.it/esteri/2026/07/28/news/guerra_usa_iran_trump_dialogo_vertice_netanyahu-425496511/",
+        "https://www.lastampa.it/esteri/2026/07/28/news/netanyahu_in_america_guerra_trump_iran-15700923/"
       ]
     }
   ]
