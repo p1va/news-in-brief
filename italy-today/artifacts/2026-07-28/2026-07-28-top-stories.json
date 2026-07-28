@@ -1,6 +1,6 @@
 {
   "date": "2026-07-28",
-  "generated_at": "Tue 28 Jul 19:49",
+  "generated_at": "Tue 28 Jul 20:24",
   "stories": [
     {
       "rank": 1,
@@ -111,26 +111,6 @@
     },
     {
       "rank": 6,
-      "title": "Da oggi il taglio delle accise sul diesel, i decreti in Gazzetta. Ecco cosa succede alla pompa",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "laverita.info",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/pillole/48707576/carburanti_sconto_di_17_centesimi_sul_gasolio/",
-        "https://www.ilfattoquotidiano.it/2026/07/28/taglio-accise-gasolio-effetto-minimo-prezzi-carburanti-notizie/8461812/",
-        "https://www.ansa.it/sito/notizie/economia/2026/07/28/da-oggi-il-taglio-delle-accise-sul-diesel-i-decreti-in-gazzetta.-ecco-cosa_1e509d72-cf82-4ef9-9d55-6b76067b65bc.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48702854/accise-via-libera-al-taglio-sul-gasolio---17-centesimi-fino-al-6-agosto/",
-        "https://www.ansa.it/sito/notizie/economia/2026/07/27/taglio-accise-e-accise-mobili-cosa-succede-alla-pompa_1e509d72-cf82-4ef9-9d55-6b76067b65bc.html"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Netanyahu alla Casa Bianca per l'incontro con Trump",
       "source_count": 4,
       "article_count": 7,
@@ -149,7 +129,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Orrore in Francia: ad Orange trovati i corpi di 5 neonati morti nella casa di una coppia",
       "source_count": 5,
       "article_count": 6,
@@ -169,7 +149,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Valsusa, si valuta l’aggravante terrorismo. I No Tav: “Siamo tutti black bloc”",
       "source_count": 5,
       "article_count": 5,
@@ -189,22 +169,43 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Netanyahu in America per spingere la guerra. Trump: fermo io l’Iran",
-      "source_count": 4,
-      "article_count": 6,
+      "rank": 9,
+      "title": "Una madre denuncia: 'I miei figli seviziati per ore dal branco'",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "ansa.it",
         "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/28/netanyhau-da-trump-nello-studio-ovale-allineati-su-ogni-scelta-in-iran_95f4f633-27f6-4be2-b9b0-a7f0079b17b7.html",
-        "https://www.adnkronos.com/internazionale/esteri/trump-netanyahu-usa-iran-israele-news_1Hbo2UEG0zFoY8RfEEA8Mp",
-        "https://www.adnkronos.com/internazionale/esteri/netanyahu-trump-visita-washington-usa-oggi_1WhyxMmNreC8QcyjGrNZ3U",
-        "https://www.repubblica.it/esteri/2026/07/28/news/guerra_usa_iran_trump_dialogo_vertice_netanyahu-425496511/",
-        "https://www.lastampa.it/esteri/2026/07/28/news/netanyahu_in_america_guerra_trump_iran-15700923/"
+        "https://www.adnkronos.com/cronaca/gemelli-bullismo-conegliano-denuncia_2QXNCnfsgfuiPvCP7f643f",
+        "https://www.lastampa.it/cronaca/2026/07/28/news/treviso_gemelli_di_14_anni_seviziati_e_denudati_da_una_baby_gang_pagate_per_aver_fatto_le_spie-15701559/",
+        "https://www.liberoquotidiano.it/news/italia/48704676/conegliano-sequestrati-denudati-picchiati-branco/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/28/una-madre-denuncia-i-miei-figli-seviziati-per-ore-dal-branco_7367511b-a936-473e-bcea-d1517f867130.html",
+        "https://www.ilmessaggero.it/italia/fratelli_sequestrati_bulli_spia_conegliano_cosa_e_successo-9677098.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Zidane nuovo ct della Francia: \"Un sogno, l'ho sempre desiderato\"",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/calcio/2026/07/28/news/francia_zidane_ct_ufficiale-425497579/",
+        "https://www.liberoquotidiano.it/news/tv-news/48705272/zidane-nuovo-ct-della-francia-un-sogno-l-ho-sempre-desiderato-/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/28/zidane-nuovo-ct-dei-bleus-era-lunica-cosa-che-volevo-ho-rifiutato_e284647c-6fcb-41cf-88a7-68c002d9aa14.html",
+        "https://www.ilmessaggero.it/sport/calcio/zidane_nuovo_ct_francia_eta_carriera_real_madrid_juventus_altezza_sogno_nazionale-9677214.html",
+        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTm1oZ0l2TDJveVl5NVhDSmtWaHdIVmZGay16S09vRFlHaFdyWjF1NmFyYm4tTy1YTXg5VmZ4V3FGTGY0RHdFODE0b2JVclNiTWl6YWh2RDYxTVZOV1g3QXdRQkF2TUdiR0FQdWw0Sk10S2d3S0I1azJwZzBjZmRwTGlKOTBYN01vOWtlWTRB?oc=5"
       ]
     }
   ]
