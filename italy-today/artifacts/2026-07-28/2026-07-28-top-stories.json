@@ -1,28 +1,29 @@
 {
   "date": "2026-07-28",
-  "generated_at": "Tue 28 Jul 20:24",
+  "generated_at": "Tue 28 Jul 22:14",
   "stories": [
     {
       "rank": 1,
-      "title": "'Roberto Mancini è il ct della Nazionale', l'annuncio di Malagò al Consiglio Figc",
-      "source_count": 8,
-      "article_count": 18,
+      "title": "Malagò: Roberto Mancini nuovo commissario tecnico della nazionale",
+      "source_count": 9,
+      "article_count": 22,
       "source_domains": [
-        "laverita.info",
         "ilfattoquotidiano.it",
+        "laverita.info",
+        "ilmessaggero.it",
         "adnkronos.com",
         "ansa.it",
-        "ilmessaggero.it",
         "liberoquotidiano.it",
         "lastampa.it",
-        "repubblica.it"
+        "repubblica.it",
+        "news.google.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/28/mancini-ct-italia-ultima-formazione-come-giocherebbe-oggi-modulo/8462068/",
         "https://www.laverita.info/storie-di-sport/mancini-ct-italia",
+        "https://www.ilmessaggero.it/sport/nazionali/mancini_ct_italia_perche_scelta_giusta_trofei_morale-9677528.html",
         "https://www.ilfattoquotidiano.it/2026/07/28/mancini-ct-italia-ritorno-notizie/8462008/",
-        "https://www.adnkronos.com/sport/mancini-italia-europeo-vinto-tradimento-arabo-storia_2UgVOwVNp3IA7tlNnLIrUy",
-        "https://www.adnkronos.com/sport/mancini-ct-italia-web-bocca-dato-malago_6jhzKrDqeGdt7fuz6lB3yu",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/28/roberto-mancini-e-il-nuovo-ct-claudio-ranieri-direttore-tecnico.-lannuncio-di-malago_7fa1c4cf-409f-46d0-9902-f391fdd8548e.html"
+        "https://www.adnkronos.com/sport/mancini-italia-europeo-vinto-tradimento-arabo-storia_2UgVOwVNp3IA7tlNnLIrUy"
       ]
     },
     {
@@ -50,9 +51,10 @@
     {
       "rank": 3,
       "title": "Scossa di magnitudo 7.1 nel sud del Giappone, allerta tsunami",
-      "source_count": 7,
-      "article_count": 8,
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
         "liberoquotidiano.it",
         "repubblica.it",
@@ -62,15 +64,56 @@
         "lastampa.it"
       ],
       "links": [
+        "https://ilmanifesto.it/sisma-in-giappone-300mila-evacuati-collassato-un-centro-commerciale",
         "https://www.ansa.it/sito/videogallery/mondo/2026/07/28/giappone-terremoto-di-magnitudo-71-nel-sud-ovest-del-paese_4d203c00-a6e8-4a12-af01-8f83c6bb4b14.html",
         "https://www.liberoquotidiano.it/news/pillole/48704735/violento_terremoto_in_giappone_scossa_di_magnitudo_7_1/",
         "https://www.repubblica.it/esteri/2026/07/28/news/terremoto_giappone_oggi_kumamoto_ultime_notizie-425497451/",
-        "https://www.ilfattoquotidiano.it/2026/07/28/giappone-terremoto-magnitudo-7-allarme-tsunami-notizie/8461396/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/28/scossa-di-magnitudo-7.1-nel-sud-del-giappone-allerta-tsunami_29db69bc-52b4-4387-b4ab-d36ddb328e6e.html"
+        "https://www.ilfattoquotidiano.it/2026/07/28/giappone-terremoto-magnitudo-7-allarme-tsunami-notizie/8461396/"
       ]
     },
     {
       "rank": 4,
+      "title": "Trump-Netanyahu, intesa sull'Iran alla Casa Bianca: “Siamo allineati”. Proteste pro-Pal a Washington",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilmanifesto.it",
+        "lastampa.it",
+        "ansa.it",
+        "adnkronos.com",
+        "laverita.info",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/netanyahu-ci-riprova-con-trump-sulliran-bombe-non-dialogo",
+        "https://www.lastampa.it/esteri/2026/07/29/diretta/guerra_iran_usa_israele_news_oggi-15701807/",
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/28/netanyhau-da-trump-nello-studio-ovale-allineati-su-ogni-scelta-in-iran_95f4f633-27f6-4be2-b9b0-a7f0079b17b7.html",
+        "https://www.adnkronos.com/internazionale/esteri/trump-netanyahu-usa-iran-israele-news_1Hbo2UEG0zFoY8RfEEA8Mp",
+        "https://www.adnkronos.com/internazionale/esteri/netanyahu-trump-visita-washington-usa-oggi_1WhyxMmNreC8QcyjGrNZ3U"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Zelensky da Trump per blindare gli aiuti, tra Patriot e diplomazia",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "lastampa.it",
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/esteri/2026/07/29/diretta/guerra_russia_ucraina_news_oggi-15701810/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/28/zelensky-da-trump-per-blindare-gli-aiuti-tra-patriot-e-diplomazia_52c96a88-156a-4345-9481-199243ba0efb.html",
+        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/28/zelensky-e-netanyahu-ricevuti-da-trump-la-casa-bianca-incontri-positivi-e-produttivi_539957a0-62cc-4a90-a88d-11f651ed94cb.html",
+        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/28/netanyahu-alla-casa-bianca-per-lincontro-con-trump_539957a0-62cc-4a90-a88d-11f651ed94cb.html",
+        "https://www.adnkronos.com/internazionale/esteri/trump-zelensky-incontro-casa-bianca_2pj7mKA64zrWQ8I1M1QLkR"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "“Chi l’ha visto?”, Raffaella Griggi sarà la nuova conduttrice",
       "source_count": 6,
       "article_count": 7,
@@ -91,7 +134,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "La mamma di Domenico: \"Al processo li guarderò negli occhi\"",
       "source_count": 4,
       "article_count": 9,
@@ -110,26 +153,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Netanyahu alla Casa Bianca per l'incontro con Trump",
-      "source_count": 4,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/28/zelensky-da-trump-per-blindare-gli-aiuti-tra-patriot-e-diplomazia_52c96a88-156a-4345-9481-199243ba0efb.html",
-        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/28/zelensky-e-netanyahu-ricevuti-da-trump-la-casa-bianca-incontri-positivi-e-produttivi_539957a0-62cc-4a90-a88d-11f651ed94cb.html",
-        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/07/28/netanyahu-alla-casa-bianca-per-lincontro-con-trump_539957a0-62cc-4a90-a88d-11f651ed94cb.html",
-        "https://www.adnkronos.com/internazionale/esteri/trump-zelensky-incontro-casa-bianca_2pj7mKA64zrWQ8I1M1QLkR",
-        "https://www.liberoquotidiano.it/news/tv-news/48702634/il-presidente-ucraino-zelensky-vola-negli-usa-per-incontrare-trump/"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "title": "Orrore in Francia: ad Orange trovati i corpi di 5 neonati morti nella casa di una coppia",
       "source_count": 5,
       "article_count": 6,
@@ -149,63 +173,42 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Valsusa, si valuta l’aggravante terrorismo. I No Tav: “Siamo tutti black bloc”",
+      "rank": 9,
+      "title": "PRIME PAGINE | No Tav, stretta sui violenti. Meloni: 'La magistratura faccia il massimo'",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
         "laverita.info",
         "liberoquotidiano.it",
         "ansa.it",
-        "lastampa.it",
+        "repubblica.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.laverita.info/inchieste/no-tav-antagonisti-val-susa",
+        "https://www.laverita.info/governo/scontri-no-tav-val-susa",
         "https://www.liberoquotidiano.it/news/libero-video/48702868/no-tav-pm-torino-indagano-per-devastazione-e-saccheggio/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/27/gli-eredi-dei-black-bloc-che-si-sono-presi-la-val-di-susa_3f3eda2c-1b9f-42d5-b896-d3a30a12a89b.html",
-        "https://www.lastampa.it/torino/2026/07/28/news/si_valuta_l_aggravante_terrorismo_i_no_tav_siamo_tutti_black_bloc-15700975/",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/07/28/prime-pagine-no-tav-stretta-sui-violenti.-meloni-la-magistratura-faccia-il-massimo_fa53f4ee-c758-4bb0-86dc-394f78c945f4.html",
+        "https://www.repubblica.it/politica/2026/07/28/news/meloni_visita_tav_schlein_agiamo_insieme-425496595/",
         "https://www.ilsole24ore.com/art/sicurezza-l-idea-anti-vandali-fdi-punirli-associazione-delinquere-AJR78FX"
       ]
     },
     {
-      "rank": 9,
-      "title": "Una madre denuncia: 'I miei figli seviziati per ore dal branco'",
-      "source_count": 5,
-      "article_count": 5,
+      "rank": 10,
+      "title": "Incendi in Francia e Spagna, oltre 300mila persone senza casa. Le fiamme a 15 km da Bordeaux",
+      "source_count": 4,
+      "article_count": 6,
       "source_domains": [
+        "liberoquotidiano.it",
         "adnkronos.com",
         "lastampa.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/gemelli-bullismo-conegliano-denuncia_2QXNCnfsgfuiPvCP7f643f",
-        "https://www.lastampa.it/cronaca/2026/07/28/news/treviso_gemelli_di_14_anni_seviziati_e_denudati_da_una_baby_gang_pagate_per_aver_fatto_le_spie-15701559/",
-        "https://www.liberoquotidiano.it/news/italia/48704676/conegliano-sequestrati-denudati-picchiati-branco/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/28/una-madre-denuncia-i-miei-figli-seviziati-per-ore-dal-branco_7367511b-a936-473e-bcea-d1517f867130.html",
-        "https://www.ilmessaggero.it/italia/fratelli_sequestrati_bulli_spia_conegliano_cosa_e_successo-9677098.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Zidane nuovo ct della Francia: \"Un sogno, l'ho sempre desiderato\"",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.repubblica.it/sport/calcio/2026/07/28/news/francia_zidane_ct_ufficiale-425497579/",
-        "https://www.liberoquotidiano.it/news/tv-news/48705272/zidane-nuovo-ct-della-francia-un-sogno-l-ho-sempre-desiderato-/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/28/zidane-nuovo-ct-dei-bleus-era-lunica-cosa-che-volevo-ho-rifiutato_e284647c-6fcb-41cf-88a7-68c002d9aa14.html",
-        "https://www.ilmessaggero.it/sport/calcio/zidane_nuovo_ct_francia_eta_carriera_real_madrid_juventus_altezza_sogno_nazionale-9677214.html",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTm1oZ0l2TDJveVl5NVhDSmtWaHdIVmZGay16S09vRFlHaFdyWjF1NmFyYm4tTy1YTXg5VmZ4V3FGTGY0RHdFODE0b2JVclNiTWl6YWh2RDYxTVZOV1g3QXdRQkF2TUdiR0FQdWw0Sk10S2d3S0I1azJwZzBjZmRwTGlKOTBYN01vOWtlWTRB?oc=5"
+        "https://www.liberoquotidiano.it/news/pillole/48708637/incendi_in_spagna_migliaia_di_persone_costrette_a_lasciare_le_loro_abitazioni/",
+        "https://www.adnkronos.com/internazionale/esteri/incendi-spagna-francia-caldo-ultime-news-oggi_4eosmSfO0Yer48uawBjWmq",
+        "https://www.liberoquotidiano.it/news/libero-video/48702630/spagna-in-fiamme-incendio-boschivo-ripreso-dal-tetto-di-una-casa/",
+        "https://www.liberoquotidiano.it/news/tv-news/48701616/i-pompieri-che-lottano-nell-inferno-di-fuoco-vicino-a-madrid/",
+        "https://www.lastampa.it/esteri/2026/07/28/news/incendi_in_francia_e_spagna_oltre_300mila_persone_senza_casa_le_fiamme_a_nove_km_da_bordeaux-15701068/"
       ]
     }
   ]
