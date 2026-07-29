@@ -12,7 +12,7 @@
       <link>https://briefings.my/italy-today</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Jul 2026 19:52:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 19:43:50 +0000</lastBuildDate>
     <itunes:image href="https://briefings.my/italy-today/cover.png"/>
     <item>
       <title>Italy Today - 2025-12-15</title>
@@ -4285,6 +4285,25 @@ I will see you tomorrow.</description>
       <enclosure url="https://briefings.my/italy-today/artifacts/2026-07-28/2026-07-28-audio.mp3" length="4798892" type="audio/mpeg"/>
       <pubDate>Tue, 28 Jul 2026 08:00:00 +0000</pubDate>
       <itunes:duration>299</itunes:duration>
+    </item>
+    <item>
+      <title>Italy Today - 2026-07-29</title>
+      <link>https://briefings.my/italy-today/artifacts/2026-07-29/2026-07-29-audio.mp3</link>
+      <description>View all sources: https://briefings.my/italy-today/artifacts/2026-07-29/2026-07-29-sources-view.html
+---
+Welcome to another episode of &quot;Italy Today&quot;, today is Wednesday 29 and this episode was curated by Gemini 3.1 Pro.
+Let's begin with a rapid-fire look at the day's essential headlines. Looking abroad, the geopolitical temperature is rising sharply after Iran launched missiles at a US military base in Jordan, prompting immediate retaliatory strikes by the US and Saudi Arabia in Iraq and sending global oil prices surging. In Russia, an international arrest warrant has been issued for Telegram CEO Pavel Durov, with Moscow accusing him of complicity in terrorism. Over in Washington, Anthony Fauci invoked the Fifth Amendment over a hundred times during a Senate hearing on the origins of Covid-19, drawing immediate attacks from US President Donald Trump. Back in Europe, catastrophic wildfires continue to sweep through Greece, forcing the evacuation of the island of Paros and claiming the lives of three firefighters. Here in Italy, parliament has definitively passed the government's justice bill allowing drug-addicted convicts to serve sentences of up to eight years in rehabilitation communities rather than in the nation's overcrowded prisons. And finally, a fierce political battle has erupted in the Senate over a new government decree regarding artificial intelligence and facial recognition.
+The Meloni government has hit the accelerator on a legislative decree designed to adapt European AI regulations to Italian law. Crucially, the text vastly expands the powers of law enforcement to use facial recognition and biometric data. The decree allows police to integrate facial recognition into video surveillance systems following a crime and, more controversially, permits the preventative collection and storage of biometric data for up to seven days for anyone passing through areas deemed high-risk for public order, such as protest squares. 
+The political spin on this development is incredibly polarized. The progressive opposition and center-left press, led by *La Repubblica* and *Il Fatto Quotidiano*, are sounding the alarm, framing this as a sudden authoritarian blitz. They argue the decree goes far beyond what the European Union mandates and refer to the move as the foundational building block of a &quot;police state&quot; that threatens civil liberties and the right to protest. Conversely, the government defends the measure as a necessary modernization of national security. Right-leaning voices emphasize that this is merely aligning Italy's law enforcement capabilities with the digital age, providing necessary tools to prevent terrorism and manage dangerous public events in an increasingly volatile world.
+The takeaway here is that Italy is quietly but fundamentally redefining the boundaries of privacy in the public square. The speed at which this decree is moving through the Senate's European Affairs Committee suggests the government views biometric surveillance not as an extreme, temporary measure, but as a standard, permanent policing tool for the future.
+Moving from domestic security to global diplomacy, Ukrainian President Volodymyr Zelensky has concluded a high-stakes meeting with US President Donald Trump. Facing the reality of the Trump administration's foreign policy shifts and navigating a global economy still adapting to the heavy US import tariffs imposed last year, Zelensky successfully secured a transactional agreement for the joint production of Patriot missiles. While Zelensky declared to the press that the war is &quot;no longer in Putin's hands,&quot; the Kremlin responded with immediate defiance. This agreement signals a distinct pivot in the US-Ukraine alliance; it is now deeply reliant on pragmatic defense manufacturing and technology transfers rather than unconditional financial aid.
+Turning back to the domestic economy, a historic agreement was signed today finalizing the 2025-2027 national healthcare contract, covering nearly 600,000 public workers. The headline figure is a gross monthly increase of 240 euros for nurses, alongside accumulated back pay that could reach up to 2,400 euros. The financial newspaper *Il Sole 24 Ore* highlights the record speed of the negotiations and the modernization of hospital roles, which now officially include cybersecurity managers and disability coordinators. However, the unions remain highly cautious. They point out that despite the pay bump, personnel working in grueling emergency rooms are still heavily penalized by the current system, leaving the structural shortage of frontline emergency staff largely unresolved.
+But before we go, a rare moment of bureaucratic mercy for Italy's senior citizens. According to a quiet regulatory update spotted in *Il Sole 24 Ore*, starting tomorrow, anyone over the age of 70 renewing their national electronic identity card will receive a document that is valid for life. No more expiration dates, no more scrambling for municipal appointments, and no more renewal fees. In a country legendary for its suffocating red tape, it is a small, permanent sigh of relief for an aging population.
+I will see you tomorrow.</description>
+      <guid isPermaLink="false">https://briefings.my/italy-today/artifacts/2026-07-29</guid>
+      <enclosure url="https://briefings.my/italy-today/artifacts/2026-07-29/2026-07-29-audio.mp3" length="4136108" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Jul 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>258</itunes:duration>
     </item>
   </channel>
 </rss>
