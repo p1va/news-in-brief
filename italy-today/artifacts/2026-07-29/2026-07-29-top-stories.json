@@ -1,9 +1,29 @@
 {
   "date": "2026-07-29",
-  "generated_at": "Wed 29 Jul 20:19",
+  "generated_at": "Wed 29 Jul 22:09",
   "stories": [
     {
       "rank": 1,
+      "title": "L'Iran attacca una base Usa in Giordania e tre petroliere a Hormuz. Balzo del greggio",
+      "source_count": 5,
+      "article_count": 11,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-medio-oriente-conflitto-minacce_5A4iHG3poodjzZRQvAk0ua",
+        "https://www.ilmessaggero.it/mondo/guerra_usa_iran_arabia_saudita_nuovi_attacchi_cosa_sta_succedendo-9679814.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/liran-attacca-in-giordania-lasse-usa-arabia-risponde-in-iraq.-lira-di-trump_80f4a560-89c8-4f62-ac8f-10d24e3b2037.html",
+        "https://www.repubblica.it/esteri/2026/07/29/news/arabia_saudita_bombe_sui_pasdaran_usa_minaccia_iran-425500674/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/medio-oriente-lira-di-trump-per-gli-attacchi-sui-target-usa_04eaf362-dd8e-492d-8720-3b8f2ca95fba.html"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Italia, Mancini e Ranieri si presentano: la conferenza stampa - Diretta",
       "source_count": 5,
       "article_count": 10,
@@ -23,30 +43,56 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "L'Iran attacca una base Usa in Giordania e tre petroliere a Hormuz. Balzo del greggio",
-      "source_count": 4,
-      "article_count": 10,
+      "rank": 3,
+      "title": "Covid, Fauci si avvale del quinto emendamento al Senato. Trump: “Aveva idee folli”",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "ansa.it",
-        "repubblica.it",
+        "ilmanifesto.it",
         "liberoquotidiano.it",
-        "ilfattoquotidiano.it"
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/liran-attacca-in-giordania-lasse-usa-arabia-risponde-in-iraq.-lira-di-trump_80f4a560-89c8-4f62-ac8f-10d24e3b2037.html",
-        "https://www.repubblica.it/esteri/2026/07/29/news/arabia_saudita_bombe_sui_pasdaran_usa_minaccia_iran-425500674/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/medio-oriente-lira-di-trump-per-gli-attacchi-sui-target-usa_04eaf362-dd8e-492d-8720-3b8f2ca95fba.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48717822/iran-almeno-20-morti-in-attacchi-usa-arabia-saudita-in-iraq/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/raid-usa-arabia-in-iraq-20-morti.-liran-attacca-tre-petroliere-ad-hormuz_04eaf362-dd8e-492d-8720-3b8f2ca95fba.html"
+        "https://ilmanifesto.it/il-senato-trumpista-si-scaglia-su-fauci-che-invoca-il-quinto-emendamento",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48724687/origine-del-covid-fauci-invoca-il-quinto-emendamento-e-non-risponde-in-audizione-al-senato-usa/",
+        "https://www.ilfattoquotidiano.it/2026/07/29/fauci-quinto-emendamento-audizione-covid-notizie/8463356/",
+        "https://www.repubblica.it/esteri/2026/07/29/news/covid_fauci_senato_usa_quinto_emendamento-425500281/",
+        "https://www.liberoquotidiano.it/news/tv-news/48721965/covid-fauci-invoca-il-quinto-emendamento-in-senato/"
       ]
     },
     {
-      "rank": 3,
-      "title": "Russia emette mandato di cattura internazionale per il capo di Telegram",
-      "source_count": 6,
+      "rank": 4,
+      "title": "Denunciò un falso attentato, indagato il cronista Adriano Cappellari",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/si-fa-da-solo-lattentato-giovane-cronista-indagato-per-simulazione_3eb9389a-3c91-40e2-9382-f93fa9285173.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/denuncio-un-falso-attentato-indagato-il-cronista-adriano-cappellari_3eb9389a-3c91-40e2-9382-f93fa9285173.html",
+        "https://www.adnkronos.com/cronaca/cappellari-giornalista-indagato-simulazione-reato_43wqW3rRX2S4xfgDtZiszP",
+        "https://www.ilmessaggero.it/italia/adriano_cappellari_falso_attentato_indagato_chi_e_ultime_notizie-9679529.html",
+        "https://www.repubblica.it/cronaca/2026/07/29/news/cappellari_e_l_ordigno_sotto_casa_il_cronista_indagato_per_simulazione_e_calunnia-425500184/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Pavel Durov, la Russia emette un mandato di cattura internazionale per il fondatore e Ceo di Telegram. «Complice del terrorismo»",
+      "source_count": 7,
       "article_count": 7,
       "source_domains": [
+        "ilmanifesto.it",
         "adnkronos.com",
         "ansa.it",
         "liberoquotidiano.it",
@@ -55,36 +101,77 @@
         "lastampa.it"
       ],
       "links": [
+        "https://ilmanifesto.it/mandato-di-cattura-russo-per-durov-il-fondatore-di-telegram",
         "https://www.adnkronos.com/internazionale/esteri/pavel-durov-telegram-russia-mandato-cattura_6RmwrWDJSP3LHyo5plOuho",
         "https://www.ansa.it/sito/notizie/mondo/2026/07/29/la-russia-emette-un-mandato-di-cattura-per-pavel-durov-capo-di-telegram-complice_5c8832be-d6f6-4d9b-9d1a-e6f1ece9979f.html",
         "https://www.liberoquotidiano.it/news/tv-news/48713366/ucraina-mosca-fondatore-telegram-in-lista-ricercati-per-terrorismo/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/zelensky-negli-usa-guerra-non-piu-nelle-mani-di-putin.-da-mosca_f31ad0e8-7a1e-47fc-ae09-6e3c921b9841.html",
         "https://www.ilfattoquotidiano.it/2026/07/29/pavel-durov-telegram-mandato-cattura-internazionale-russia-news/8462459/"
       ]
     },
     {
-      "rank": 4,
-      "title": "Uefa boicotta i Mondiali? La reazione dopo proposta Fifa: \"Calcio non è in vendita\"",
-      "source_count": 6,
+      "rank": 6,
+      "title": "Addio a Glen Hansard, il cantautore premio Oscar morto in un incidente in moto",
+      "source_count": 7,
       "article_count": 7,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
+        "ilmanifesto.it",
+        "ilmessaggero.it",
         "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
         "lastampa.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/29/fifa-vendita-fondi-privati-mondiali-trump-europa-boicottaggio-uefa-politica/8463187/",
-        "https://www.adnkronos.com/internazionale/esteri/germania-fifa-infantino-piani_6elGzygdO1NRq1KvtAFRzE",
-        "https://www.liberoquotidiano.it/news/tv-news/48718584/fifa-il-progetto-di-infantino-scuote-il-calcio-critiche-uefa-e-ue/",
-        "https://www.adnkronos.com/sport/mondiali-boicottaggio-uefa-attacco-infantino-fifa_1ZlMtARSZf88c84lI9X7Zz",
-        "https://www.ansa.it/sito/notizie/sport/2026/07/29/lue-e-londra-contro-il-piano-commerciale-fifa-giu-le-mani-dal-nostro_f4882f10-fe5b-44d2-9941-73b9c853cbfd.html"
+        "https://ilmanifesto.it/addio-a-glen-hansard-busker-da-premio-oscar",
+        "https://www.ilmessaggero.it/persone/glen_hansard_morto_incidente_moto_cosa_e_successo-9679394.html",
+        "https://www.ansa.it/sito/notizie/cultura/musica/2026/07/29/e-morto-glen-hansard-star-internazionale-della-musica-folk-rock-e-premio_26879a29-b7f1-4295-a25c-34294bdfa8ce.html",
+        "https://www.adnkronos.com/spettacoli/glen-hansard-morto-cantautore-premio-oscar_2RHBZOUX3RNuj6WpU0hrdP",
+        "https://www.repubblica.it/spettacoli/musica/2026/07/29/news/glen_hansard_morto_56_anni_premio_oscar_incidente_moto-425499834/"
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "title": "Al via la quarta ondata di caldo, punte di 40°C in città",
+      "source_count": 4,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/caldo-allerta-massima-temperature-ondate-di-calore_1ExquQ58q5tUPvX6AqeuPc",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/caldo-record-a-bologna-arriva-la-prima-rider-house-comunale_2836c6cc-1e34-46af-81f3-28ccd6c0e270.html",
+        "https://www.ilmessaggero.it/schede/previsioni_meteo_giuliacci_caldo_anticiclone_africano_quando_finisce_ultime_notizie-9679451.html",
+        "https://www.ilmessaggero.it/schede/caldo_quando_finisce_quarta_ondata_ferragosto_data_tregua-9679215.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/al-via-la-quarta-ondata-di-caldo-punte-di-40c-in-citta_2836c6cc-1e34-46af-81f3-28ccd6c0e270.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Uefa boicotta i Mondiali? La reazione dopo proposta Fifa: \"Calcio non è in vendita\"",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/attacco-al-calcio-infantino-vuole-vendere-il-mondiale",
+        "https://www.ilfattoquotidiano.it/2026/07/29/fifa-vendita-fondi-privati-mondiali-trump-europa-boicottaggio-uefa-politica/8463187/",
+        "https://www.adnkronos.com/internazionale/esteri/germania-fifa-infantino-piani_6elGzygdO1NRq1KvtAFRzE",
+        "https://www.liberoquotidiano.it/news/tv-news/48718584/fifa-il-progetto-di-infantino-scuote-il-calcio-critiche-uefa-e-ue/",
+        "https://www.adnkronos.com/sport/mondiali-boicottaggio-uefa-attacco-infantino-fifa_1ZlMtARSZf88c84lI9X7Zz"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Morte di Fakir, aperto un fascicolo a Bologna dopo gli scontri: 12 indagati",
       "source_count": 6,
       "article_count": 7,
@@ -105,105 +192,24 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "'Si fa da solo l'attentato', giovane cronista indagato per simulazione",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/si-fa-da-solo-lattentato-giovane-cronista-indagato-per-simulazione_3eb9389a-3c91-40e2-9382-f93fa9285173.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/denuncio-un-falso-attentato-indagato-il-cronista-adriano-cappellari_3eb9389a-3c91-40e2-9382-f93fa9285173.html",
-        "https://www.adnkronos.com/cronaca/cappellari-giornalista-indagato-simulazione-reato_43wqW3rRX2S4xfgDtZiszP",
-        "https://www.ilmessaggero.it/italia/adriano_cappellari_falso_attentato_indagato_chi_e_ultime_notizie-9679529.html",
-        "https://www.repubblica.it/cronaca/2026/07/29/news/cappellari_e_l_ordigno_sotto_casa_il_cronista_indagato_per_simulazione_e_calunnia-425500184/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Al via la quarta ondata di caldo, punte di 40°C in città",
-      "source_count": 4,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/caldo-record-a-bologna-arriva-la-prima-rider-house-comunale_2836c6cc-1e34-46af-81f3-28ccd6c0e270.html",
-        "https://www.ilmessaggero.it/schede/previsioni_meteo_giuliacci_caldo_anticiclone_africano_quando_finisce_ultime_notizie-9679451.html",
-        "https://www.ilmessaggero.it/schede/caldo_quando_finisce_quarta_ondata_ferragosto_data_tregua-9679215.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/al-via-la-quarta-ondata-di-caldo-punte-di-40c-in-citta_2836c6cc-1e34-46af-81f3-28ccd6c0e270.html",
-        "https://www.adnkronos.com/cronaca/caldo-record-previsioni-meteo-ultime-notizie-oggi_66p1F1VEKNaXbcBPUXNSt"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Glen Hansard, morto a 56 anni in un incidente di moto il cantautore premio Oscar",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/persone/glen_hansard_morto_incidente_moto_cosa_e_successo-9679394.html",
-        "https://www.ansa.it/sito/notizie/cultura/musica/2026/07/29/e-morto-glen-hansard-star-internazionale-della-musica-folk-rock-e-premio_26879a29-b7f1-4295-a25c-34294bdfa8ce.html",
-        "https://www.adnkronos.com/spettacoli/glen-hansard-morto-cantautore-premio-oscar_2RHBZOUX3RNuj6WpU0hrdP",
-        "https://www.repubblica.it/spettacoli/musica/2026/07/29/news/glen_hansard_morto_56_anni_premio_oscar_incidente_moto-425499834/",
-        "https://www.lastampa.it/spettacoli/2026/07/29/news/addio_a_glen_hansard_e_morto_in_un_incidente_in_moto_il_cantautore_premio_oscar-15702122/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Cede la tettoia del cantiere, 66enne salva il figlio e muore",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "bari.repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/cede-la-tettoia-del-cantiere-66enne-salva-il-figlio-e-muore_944d2f31-f0be-488f-9c99-00a43e61db4c.html",
-        "https://www.ilfattoquotidiano.it/2026/07/29/incidente-lavoro-brindisi-operaio-morto-notizie/8463054/",
-        "https://www.ilmessaggero.it/italia/antonio_d_errico_morto_mesagne_incidente_cantiere_salva_figlio-9679382.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/crolla-la-tettoia-in-un-cantiere-il-padre-ha-salvato-il-figlio-prima-di-essere-travolto_944d2f31-f0be-488f-9c99-00a43e61db4c.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/crolla-tettoia-in-cantiere-un-morto-ed-un-ferito-tra-gli-operai_944d2f31-f0be-488f-9c99-00a43e61db4c.html"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Covid, Fauci si avvale del quinto emendamento al Senato. Trump: “Aveva idee folli”",
+      "title": "Grillo attacca M5S: «Si sono montati la testa. Dovevano occuparsi del futuro, ora pensano alle poltrone»",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
+        "ilmanifesto.it",
         "adnkronos.com",
         "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/29/fauci-quinto-emendamento-audizione-covid-notizie/8463356/",
-        "https://www.repubblica.it/esteri/2026/07/29/news/covid_fauci_senato_usa_quinto_emendamento-425500281/",
-        "https://www.liberoquotidiano.it/news/tv-news/48721965/covid-fauci-invoca-il-quinto-emendamento-in-senato/",
-        "https://www.adnkronos.com/internazionale/esteri/covid-usa-fauci-trump_7t4Py9gCtkkWFETbTiGoFg",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/fauci-sotto-torchio-al-senato-usa-sulle-origini-del-covid-ossessionati_9b044f96-5156-49ac-baf2-11a4cd39a284.html"
+        "https://ilmanifesto.it/grillo-torna-e-attacca-il-m5s-senza-identita",
+        "https://www.adnkronos.com/politica/grillo-conte-movimento-5-stelle-attacco-cosa-ha-detto_2kTXg7kODk3JCGsmTKYDlY",
+        "https://www.ansa.it/sito/notizie/politica/2026/07/29/lattacco-di-grillo-il-m5s-doveva-cambiare-la-politica-la-politica-ha-cambiato-loro_0b4dd759-ed80-46d4-b03a-83a050e5e25a.html",
+        "https://www.repubblica.it/politica/2026/07/29/news/grillo_appello_m5s_identita_partito-425499307/",
+        "https://www.ilmessaggero.it/politica/beppe_grillo_attacco_m5s_cosa_ha_detto-9679065.html"
       ]
     }
   ]
