@@ -1,25 +1,25 @@
 {
   "date": "2026-07-29",
-  "generated_at": "Wed 29 Jul 11:34",
+  "generated_at": "Wed 29 Jul 14:25",
   "stories": [
     {
       "rank": 1,
-      "title": "Torna Mancini ct e con lui c'è Ranieri, ecco il nuovo corso azzurro",
+      "title": "L'Iran attacca una base Usa in Giordania e tre petroliere a Hormuz. Balzo del greggio",
       "source_count": 5,
-      "article_count": 7,
+      "article_count": 9,
       "source_domains": [
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it",
         "ansa.it",
-        "news.google.com"
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/29/news/mancini_staff_nazionale_oriali_bonucci-425499565/",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/28/news/mancini_ct_voglio_il_mondiale-425498923/",
-        "https://www.lastampa.it/sport/2026/07/29/news/calcio_italia_nazionale_unita-15701715/",
-        "https://www.ilmessaggero.it/sport/calcio/claudio_ranieri_club_italia_nuova_avventura_azzurro-9677826.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/28/roberto-mancini-e-il-nuovo-ct-claudio-ranieri-direttore-tecnico.-lannuncio-di-malago_7fa1c4cf-409f-46d0-9902-f391fdd8548e.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/medio-oriente-lira-di-trump-per-gli-attacchi-sui-target-usa_04eaf362-dd8e-492d-8720-3b8f2ca95fba.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48717822/iran-almeno-20-morti-in-attacchi-usa-arabia-saudita-in-iraq/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/raid-usa-arabia-in-iraq-20-morti.-liran-attacca-tre-petroliere-ad-hormuz_04eaf362-dd8e-492d-8720-3b8f2ca95fba.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48713382/iran-lanciati-missili-base-usa-giordania/",
+        "https://www.liberoquotidiano.it/news/tv-news/48713990/iraq-raid-usa-sauditi-sulle-milizie-filo-iran-20-morti/"
       ]
     },
     {
@@ -45,6 +45,27 @@
     },
     {
       "rank": 3,
+      "title": "Glen Hansard, morto a 56 anni in un incidente di moto il cantautore premio Oscar",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/persone/glen_hansard_morto_incidente_moto_cosa_e_successo-9679394.html",
+        "https://www.ansa.it/sito/notizie/cultura/musica/2026/07/29/e-morto-glen-hansard-star-internazionale-della-musica-folk-rock-e-premio_26879a29-b7f1-4295-a25c-34294bdfa8ce.html",
+        "https://www.adnkronos.com/spettacoli/glen-hansard-morto-cantautore-premio-oscar_2RHBZOUX3RNuj6WpU0hrdP",
+        "https://www.repubblica.it/spettacoli/musica/2026/07/29/news/glen_hansard_morto_56_anni_premio_oscar_incidente_moto-425499834/",
+        "https://www.lastampa.it/spettacoli/2026/07/29/news/addio_a_glen_hansard_e_morto_in_un_incidente_in_moto_il_cantautore_premio_oscar-15702122/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Zelensky da Trump: \"La guerra non è più nelle mani della Russia\". Putin: \"Non ci piegheranno\"",
       "source_count": 5,
       "article_count": 6,
@@ -64,7 +85,27 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Crolla la tettoia in un cantiere, il padre ha salvato il figlio prima di essere travolto",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "adnkronos.com",
+        "bari.repubblica.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/29/incidente-lavoro-brindisi-operaio-morto-notizie/8463054/",
+        "https://www.ilmessaggero.it/italia/antonio_d_errico_morto_mesagne_incidente_cantiere_salva_figlio-9679382.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/crolla-la-tettoia-in-un-cantiere-il-padre-ha-salvato-il-figlio-prima-di-essere-travolto_944d2f31-f0be-488f-9c99-00a43e61db4c.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/crolla-tettoia-in-cantiere-un-morto-ed-un-ferito-tra-gli-operai_944d2f31-f0be-488f-9c99-00a43e61db4c.html",
+        "https://www.adnkronos.com/cronaca/crollo-cantiere-mesagne-morto-operaio_3WCdqJvzQEYyv44Ishc9dk"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Grillo attacca M5S: «Si sono montati la testa. Dovevano occuparsi del futuro, ora pensano alle poltrone»",
       "source_count": 5,
       "article_count": 5,
@@ -84,7 +125,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Jared Leto e presunti abusi sessuali, quattro donne lo denunciano",
       "source_count": 5,
       "article_count": 5,
@@ -104,7 +145,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Caldo record, al via quarta ondata con punte di 40 gradi e notti super tropicali",
       "source_count": 4,
       "article_count": 6,
@@ -123,79 +164,42 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Grumo Nevano, rissa tra giovani e anziani per pallonata: diciottenne arrestato per tentato omicidio",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "lastampa.it",
-        "napoli.repubblica.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/29/rissa-grumo-nevano-anziano-picchiato-notizie/8462749/",
-        "https://www.ilmessaggero.it/italia/anziano_aggredito_grumo_nevano_ragazzi_calci_video_cosa_e_successo-9679169.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/prende-a-calci-un-70enne-18enne-in-cella-per-tentato-omicidio-nel-napoletano_219369e1-c52e-4148-bd47-26ea055bee68.html",
-        "https://www.lastampa.it/cronaca/2026/07/29/video/grumo_nevano_rissa_anziani_diciottenne_arrestato_tentato_omicidio-15702022/",
-        "https://napoli.repubblica.it/cronaca/2026/07/29/news/grumo_nevano_rissa_giovani_arresto_omicidio-425499248/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Tajani: «L’Italia chiederà il prestito Ue per la difesa». Stop della Lega, FdI frena",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "lastampa.it",
-        "laverita.info",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/economia/2026/07/29/news/fondi_safe_cosa_sono-15702036/",
-        "https://www.laverita.info/i-nodi-dellue/tajani-safe-europa",
-        "https://www.repubblica.it/politica/2026/07/29/news/safe_divisioni_interne_centrodestra_centrosinistra-425498814/",
-        "https://www.ilmessaggero.it/politica/tajani_prestito_ue_difesa-9677840.html",
-        "https://www.lastampa.it/politica/2026/07/29/news/tajani_lega_fondi_safe-15701813/"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "L'Iran attacca una base Usa in Giordania e tre petroliere a Hormuz. Balzo del greggio",
+      "title": "Terremoto in Giappone, i soccorritori scavano tra le macerie del centro commerciale: trovate 13 vittime",
       "source_count": 4,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "ansa.it",
         "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
+        "ansa.it",
+        "ilmessaggero.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/raid-usa-arabia-in-iraq-20-morti.-liran-attacca-tre-petroliere-ad-hormuz_04eaf362-dd8e-492d-8720-3b8f2ca95fba.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48713990/iraq-raid-usa-sauditi-sulle-milizie-filo-iran-20-morti/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/liran-attacca-una-base-usa-in-giordania-e-tre-petroliere-a-hormuz.-balzo_04eaf362-dd8e-492d-8720-3b8f2ca95fba.html",
-        "https://www.repubblica.it/esteri/2026/07/29/diretta/guerra_iran_usa_israele_news_oggi-425498978/",
-        "https://www.lastampa.it/esteri/2026/07/29/diretta/guerra_iran_usa_israele_news_oggi-15701807/"
+        "https://www.liberoquotidiano.it/news/pillole/48713564/terremoto_giappone_ecco_cosa_e_rimasto_del_centro_commerciale_di_kumamoto/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/terremoto-in-giappone-almeno-13-morti-e-100-feriti.-in-9-mila-nei-centri-di-accoglienza_1821974b-7934-4add-80ed-38682157f978.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48711719/terremoto-giappone-soccorritori-scavano-macerie-centro-commerciale-trovate-13-vittime/",
+        "https://www.liberoquotidiano.it/news/tv-news/48712401/terremoti-in-giappone-ci-sono-almeno-13-morti-e-decine-di-feriti/",
+        "https://www.ilmessaggero.it/mondo/terremoto_giappone_morti_vittime_ultime_notizie-9678957.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Netanyahu ci riprova con Trump: sull’Iran bombe, non dialogo",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Prezzo gasolio cala di 10 centesimi, ma resta sopra i 2 euro",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "laverita.info",
         "ansa.it",
-        "repubblica.it",
-        "ilmanifesto.it"
+        "lastampa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.laverita.info/geopolitica/netanyahu-pressing-trump-iran",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/07/29/netanyhau-da-trump-nello-studio-ovale-allineati-su-ogni-scelta-in-iran_95f4f633-27f6-4be2-b9b0-a7f0079b17b7.html",
-        "https://www.repubblica.it/esteri/2026/07/29/news/trump_netanyahu_iran_guerra_decido_io-425498778/",
-        "https://ilmanifesto.it/netanyahu-ci-riprova-con-trump-sulliran-bombe-non-dialogo"
+        "https://www.ansa.it/canale_motori/notizie/mondo_motori/2026/07/29/prezzo-gasolio-cala-di-10-centesimi-ma-resta-sopra-i-2-euro_981f0e7e-9a9e-4d15-ad8f-d6cc8e02745f.html",
+        "https://www.lastampa.it/economia/2026/07/29/news/gasolio_la_denuncia_del_garante_troppe_pompe_non_hanno_ancora_tagliato_i_prezzi-15702146/",
+        "https://www.ilmessaggero.it/economia/news/distributori_senza_taglio_accise_prezzi_benzina_diesel_lista_ministero_quali_sono-9679231.html",
+        "https://www.liberoquotidiano.it/news/pillole/48707576/carburanti_sconto_di_17_centesimi_sul_gasolio/",
+        "https://www.ilsole24ore.com/art/gasolio-il-taglio-accise-prezzo-scende-11-centesimi-inviate-segnalazioni-gdf-AJwRm4Y"
       ]
     }
   ]
