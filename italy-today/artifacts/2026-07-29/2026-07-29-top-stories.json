@@ -1,32 +1,12 @@
 {
   "date": "2026-07-29",
-  "generated_at": "Wed 29 Jul 19:41",
+  "generated_at": "Wed 29 Jul 20:19",
   "stories": [
     {
       "rank": 1,
-      "title": "L'Iran attacca una base Usa in Giordania e tre petroliere a Hormuz. Balzo del greggio",
-      "source_count": 5,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/liran-attacca-in-giordania-lasse-usa-arabia-risponde-in-iraq.-lira-di-trump_80f4a560-89c8-4f62-ac8f-10d24e3b2037.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/medio-oriente-lira-di-trump-per-gli-attacchi-sui-target-usa_04eaf362-dd8e-492d-8720-3b8f2ca95fba.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48717822/iran-almeno-20-morti-in-attacchi-usa-arabia-saudita-in-iraq/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/raid-usa-arabia-in-iraq-20-morti.-liran-attacca-tre-petroliere-ad-hormuz_04eaf362-dd8e-492d-8720-3b8f2ca95fba.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48713382/iran-lanciati-missili-base-usa-giordania/"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Italia, Mancini e Ranieri si presentano: la conferenza stampa - Diretta",
       "source_count": 5,
-      "article_count": 8,
+      "article_count": 10,
       "source_domains": [
         "repubblica.it",
         "adnkronos.com",
@@ -43,7 +23,47 @@
       ]
     },
     {
+      "rank": 2,
+      "title": "L'Iran attacca una base Usa in Giordania e tre petroliere a Hormuz. Balzo del greggio",
+      "source_count": 4,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/liran-attacca-in-giordania-lasse-usa-arabia-risponde-in-iraq.-lira-di-trump_80f4a560-89c8-4f62-ac8f-10d24e3b2037.html",
+        "https://www.repubblica.it/esteri/2026/07/29/news/arabia_saudita_bombe_sui_pasdaran_usa_minaccia_iran-425500674/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/medio-oriente-lira-di-trump-per-gli-attacchi-sui-target-usa_04eaf362-dd8e-492d-8720-3b8f2ca95fba.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48717822/iran-almeno-20-morti-in-attacchi-usa-arabia-saudita-in-iraq/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/raid-usa-arabia-in-iraq-20-morti.-liran-attacca-tre-petroliere-ad-hormuz_04eaf362-dd8e-492d-8720-3b8f2ca95fba.html"
+      ]
+    },
+    {
       "rank": 3,
+      "title": "Russia emette mandato di cattura internazionale per il capo di Telegram",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/pavel-durov-telegram-russia-mandato-cattura_6RmwrWDJSP3LHyo5plOuho",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/la-russia-emette-un-mandato-di-cattura-per-pavel-durov-capo-di-telegram-complice_5c8832be-d6f6-4d9b-9d1a-e6f1ece9979f.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48713366/ucraina-mosca-fondatore-telegram-in-lista-ricercati-per-terrorismo/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/zelensky-negli-usa-guerra-non-piu-nelle-mani-di-putin.-da-mosca_f31ad0e8-7a1e-47fc-ae09-6e3c921b9841.html",
+        "https://www.ilfattoquotidiano.it/2026/07/29/pavel-durov-telegram-mandato-cattura-internazionale-russia-news/8462459/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Uefa boicotta i Mondiali? La reazione dopo proposta Fifa: \"Calcio non è in vendita\"",
       "source_count": 6,
       "article_count": 7,
@@ -64,7 +84,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Morte di Fakir, aperto un fascicolo a Bologna dopo gli scontri: 12 indagati",
       "source_count": 6,
       "article_count": 7,
@@ -85,7 +105,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "'Si fa da solo l'attentato', giovane cronista indagato per simulazione",
       "source_count": 6,
       "article_count": 7,
@@ -103,27 +123,6 @@
         "https://www.adnkronos.com/cronaca/cappellari-giornalista-indagato-simulazione-reato_43wqW3rRX2S4xfgDtZiszP",
         "https://www.ilmessaggero.it/italia/adriano_cappellari_falso_attentato_indagato_chi_e_ultime_notizie-9679529.html",
         "https://www.repubblica.it/cronaca/2026/07/29/news/cappellari_e_l_ordigno_sotto_casa_il_cronista_indagato_per_simulazione_e_calunnia-425500184/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Russia emette mandato di cattura internazionale per il capo di Telegram",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/pavel-durov-telegram-russia-mandato-cattura_6RmwrWDJSP3LHyo5plOuho",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/la-russia-emette-un-mandato-di-cattura-per-pavel-durov-capo-di-telegram-complice_5c8832be-d6f6-4d9b-9d1a-e6f1ece9979f.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48713366/ucraina-mosca-fondatore-telegram-in-lista-ricercati-per-terrorismo/",
-        "https://www.ilfattoquotidiano.it/2026/07/29/pavel-durov-telegram-mandato-cattura-internazionale-russia-news/8462459/",
-        "https://www.ilmessaggero.it/mondo/pave_durov_telegram_mandato_cattura_terrorismo-9679032.html"
       ]
     },
     {
@@ -147,26 +146,6 @@
     },
     {
       "rank": 8,
-      "title": "Firmato il contratto della Sanità, agli infermieri aumento 240 euro lordi al mese",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/29/contratto-sanita-infermieri-aumento-notizie/8463334/",
-        "https://www.ilmessaggero.it/politica/stipendi_infermieri_aumenti_contratto_cosa_cambia_zangrillo-9679493.html",
-        "https://www.adnkronos.com/economia/sanita-contratto-firmato-aumenti-arretrati-novita_5QJwOtoBpv3pt57SggpTqK",
-        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/07/29/firmato-il-contratto-della-sanita-agli-infermieri-aumento-240-euro-lordi_f8fed0ef-220a-4d40-952d-87b51d5907e9.html",
-        "https://www.ansa.it/sito/notizie/flash/2026/07/29/firmato-contratto-sanita-a-infermieri-aumento-240-euro-lordi-al-mese_7280498b-94c9-423b-aaa5-f676e960035e.html"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Glen Hansard, morto a 56 anni in un incidente di moto il cantautore premio Oscar",
       "source_count": 6,
       "article_count": 6,
@@ -187,7 +166,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Cede la tettoia del cantiere, 66enne salva il figlio e muore",
       "source_count": 5,
       "article_count": 7,
@@ -204,6 +183,27 @@
         "https://www.ilmessaggero.it/italia/antonio_d_errico_morto_mesagne_incidente_cantiere_salva_figlio-9679382.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/crolla-la-tettoia-in-un-cantiere-il-padre-ha-salvato-il-figlio-prima-di-essere-travolto_944d2f31-f0be-488f-9c99-00a43e61db4c.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/crolla-tettoia-in-cantiere-un-morto-ed-un-ferito-tra-gli-operai_944d2f31-f0be-488f-9c99-00a43e61db4c.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Covid, Fauci si avvale del quinto emendamento al Senato. Trump: “Aveva idee folli”",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/29/fauci-quinto-emendamento-audizione-covid-notizie/8463356/",
+        "https://www.repubblica.it/esteri/2026/07/29/news/covid_fauci_senato_usa_quinto_emendamento-425500281/",
+        "https://www.liberoquotidiano.it/news/tv-news/48721965/covid-fauci-invoca-il-quinto-emendamento-in-senato/",
+        "https://www.adnkronos.com/internazionale/esteri/covid-usa-fauci-trump_7t4Py9gCtkkWFETbTiGoFg",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/fauci-sotto-torchio-al-senato-usa-sulle-origini-del-covid-ossessionati_9b044f96-5156-49ac-baf2-11a4cd39a284.html"
       ]
     }
   ]
