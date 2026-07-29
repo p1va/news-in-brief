@@ -1,6 +1,6 @@
 {
   "date": "2026-07-29",
-  "generated_at": "Wed 29 Jul 16:31",
+  "generated_at": "Wed 29 Jul 18:15",
   "stories": [
     {
       "rank": 1,
@@ -24,6 +24,26 @@
     },
     {
       "rank": 2,
+      "title": "Italia, Mancini e Ranieri si presentano: la conferenza stampa - Diretta",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/29/diretta/mancini_ranieri_nazionale_conferenza_diretta-425500300/",
+        "https://www.adnkronos.com/sport/mancini-ct-italia-conferenza-stampa-ranieri-orario-dove-vederla-tv_5MdaxWcLTjiDA0mTkHqBnT",
+        "https://www.adnkronos.com/sport/diretta-mancini-ranieri-conferenza-stampa-ct-dt-nazionale-live_4OtDrPEySgFVeAcO4LQ6gR",
+        "https://www.lastampa.it/sport/2026/07/29/news/mancini-ranieri_la_presentazione_il_ct_ho_sbagliato_ad_andare_in_arabia-15702339/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48718332/la-russa-da-subito-ho-detto-che-avrei-voluto-mancini-come-ct-della-nazionale/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Uefa boicotta i Mondiali? La reazione dopo proposta Fifa: \"Calcio non è in vendita\"",
       "source_count": 6,
       "article_count": 7,
@@ -44,27 +64,49 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Torna Mancini ct e con lui c'è Ranieri, ecco il nuovo corso azzurro",
-      "source_count": 5,
+      "rank": 4,
+      "title": "Morte di Fakir, aperto un fascicolo a Bologna dopo gli scontri: 12 indagati",
+      "source_count": 6,
       "article_count": 7,
       "source_domains": [
+        "ansa.it",
         "adnkronos.com",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it"
+        "bologna.repubblica.it",
+        "lastampa.it",
+        "news.google.com",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.adnkronos.com/sport/mancini-ct-italia-conferenza-stampa-ranieri-orario-dove-vederla-tv_5MdaxWcLTjiDA0mTkHqBnT",
-        "https://www.adnkronos.com/sport/diretta-mancini-ranieri-conferenza-stampa-ct-dt-nazionale-live_4OtDrPEySgFVeAcO4LQ6gR",
-        "https://www.liberoquotidiano.it/news/pillole/48717834/calcio-la-russa-volevo-mancini-ct-della-nazionale-l-ho-detto-fin-dall-inizio-/",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/29/news/mancini_staff_nazionale_oriali_bonucci-425499565/",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/07/28/news/mancini_ct_voglio_il_mondiale-425498923/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/dodici-indagati-per-gli-scontri-dopo-la-morte-di-fakir_af111c5d-c0e1-4edd-82c3-ebbb2e7a0ad7.html",
+        "https://www.adnkronos.com/cronaca/morte-fakir-disordini-bologna-indagati_2N2PwB2ikXQzZTd3hSMgnW",
+        "https://bologna.repubblica.it/cronaca/2026/07/29/news/scontri_bologna_morte_fakir_indagati-425499872/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/aperto-un-fascicolo-sugli-scontri-dopo-la-morte-di-fakir-12-indagati_af111c5d-c0e1-4edd-82c3-ebbb2e7a0ad7.html",
+        "https://www.lastampa.it/cronaca/2026/07/29/news/morte_fakir_scontri_bologna_indagati_resistenza_danneggiamento-15702137/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "'Si fa da solo l'attentato', giovane cronista indagato per simulazione",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/si-fa-da-solo-lattentato-giovane-cronista-indagato-per-simulazione_3eb9389a-3c91-40e2-9382-f93fa9285173.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/denuncio-un-falso-attentato-indagato-il-cronista-adriano-cappellari_3eb9389a-3c91-40e2-9382-f93fa9285173.html",
+        "https://www.adnkronos.com/cronaca/cappellari-giornalista-indagato-simulazione-reato_43wqW3rRX2S4xfgDtZiszP",
+        "https://www.ilmessaggero.it/italia/adriano_cappellari_falso_attentato_indagato_chi_e_ultime_notizie-9679529.html",
+        "https://www.repubblica.it/cronaca/2026/07/29/news/cappellari_e_l_ordigno_sotto_casa_il_cronista_indagato_per_simulazione_e_calunnia-425500184/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Russia emette mandato di cattura internazionale per il capo di Telegram",
       "source_count": 6,
       "article_count": 6,
@@ -85,7 +127,26 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "title": "Al via la quarta ondata di caldo, punte di 40°C in città",
+      "source_count": 4,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/caldo-record-a-bologna-arriva-la-prima-rider-house-comunale_2836c6cc-1e34-46af-81f3-28ccd6c0e270.html",
+        "https://www.ilmessaggero.it/schede/previsioni_meteo_giuliacci_caldo_anticiclone_africano_quando_finisce_ultime_notizie-9679451.html",
+        "https://www.ilmessaggero.it/schede/caldo_quando_finisce_quarta_ondata_ferragosto_data_tregua-9679215.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/al-via-la-quarta-ondata-di-caldo-punte-di-40c-in-citta_2836c6cc-1e34-46af-81f3-28ccd6c0e270.html",
+        "https://www.adnkronos.com/cronaca/caldo-record-previsioni-meteo-ultime-notizie-oggi_66p1F1VEKNaXbcBPUXNSt"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Firmato il contratto della Sanità, agli infermieri aumento 240 euro lordi al mese",
       "source_count": 5,
       "article_count": 7,
@@ -105,7 +166,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 9,
       "title": "Glen Hansard, morto a 56 anni in un incidente di moto il cantautore premio Oscar",
       "source_count": 6,
       "article_count": 6,
@@ -126,84 +187,23 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Morte di Fakir, aperto un fascicolo a Bologna dopo gli scontri: 12 indagati",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "adnkronos.com",
-        "bologna.repubblica.it",
-        "ansa.it",
-        "lastampa.it",
-        "news.google.com",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/morte-fakir-disordini-bologna-indagati_2N2PwB2ikXQzZTd3hSMgnW",
-        "https://bologna.repubblica.it/cronaca/2026/07/29/news/scontri_bologna_morte_fakir_indagati-425499872/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/aperto-un-fascicolo-sugli-scontri-dopo-la-morte-di-fakir-12-indagati_af111c5d-c0e1-4edd-82c3-ebbb2e7a0ad7.html",
-        "https://www.lastampa.it/cronaca/2026/07/29/news/morte_fakir_scontri_bologna_indagati_resistenza_danneggiamento-15702137/",
-        "https://news.google.com/rss/articles/CBMickFVX3lxTE13QkppT09JRUEyT0xlUE41aVhCaDFub2ctcE1maDRqOEhqdnRJc2NDR3lRTTlYLVZaNkVIaU4tSHFkTlczdGxEUG5DOXB0VkJRVnFrUjh5ZjUyQ2VtaVozS3ZfVTAzcUViZGxZUzU5QWw4UQ?oc=5"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Adriano Cappellari, cronista indagato per simulazione di reato: simulò un attentato, ma era stato lui ad acquistare le bombolette di gas ritrovate davanti casa",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/denuncio-un-falso-attentato-indagato-il-cronista-adriano-cappellari_3eb9389a-3c91-40e2-9382-f93fa9285173.html",
-        "https://www.adnkronos.com/cronaca/cappellari-giornalista-indagato-simulazione-reato_43wqW3rRX2S4xfgDtZiszP",
-        "https://www.ilmessaggero.it/italia/adriano_cappellari_falso_attentato_indagato_chi_e_ultime_notizie-9679529.html",
-        "https://www.repubblica.it/cronaca/2026/07/29/news/cappellari_e_l_ordigno_sotto_casa_il_cronista_indagato_per_simulazione_e_calunnia-425500184/",
-        "https://www.ilfattoquotidiano.it/2026/07/29/adriano-cappellari-falso-attentato-indagato-notizie/8463282/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Zelensky da Trump: \"La guerra non è più nelle mani della Russia\". Putin: \"Non ci piegheranno\"",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48714149/zelensky-consolida-asse-con-usa-intesa-su-patriot-e-sanzioni-mosca/",
-        "https://www.liberoquotidiano.it/news/libero-video/48712409/ucraina-zelensky-vogliamo-finire-guerra-putin-no/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/29/zelensky-negli-usa-guerra-non-piu-nelle-mani-di-putin.-da-mosca_f31ad0e8-7a1e-47fc-ae09-6e3c921b9841.html",
-        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-news-guerra-oggi-incontro-trump-zelensky-notizie-in-tempo-reale_1tParCzt3FEoyMsgZyhiCq",
-        "https://www.repubblica.it/esteri/2026/07/29/diretta/guerra_ucraina_russia_news_oggi-425498982/"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Caldo record, al via quarta ondata con punte di 40 gradi e notti super tropicali",
-      "source_count": 4,
+      "title": "Cede la tettoia del cantiere, 66enne salva il figlio e muore",
+      "source_count": 5,
       "article_count": 7,
       "source_domains": [
-        "ilmessaggero.it",
         "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
         "adnkronos.com",
-        "lastampa.it"
+        "bari.repubblica.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/schede/previsioni_meteo_giuliacci_caldo_anticiclone_africano_quando_finisce_ultime_notizie-9679451.html",
-        "https://www.ilmessaggero.it/schede/caldo_quando_finisce_quarta_ondata_ferragosto_data_tregua-9679215.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/al-via-la-quarta-ondata-di-caldo-punte-di-40c-in-citta_2836c6cc-1e34-46af-81f3-28ccd6c0e270.html",
-        "https://www.adnkronos.com/cronaca/caldo-record-previsioni-meteo-ultime-notizie-oggi_66p1F1VEKNaXbcBPUXNSt",
-        "https://www.adnkronos.com/cronaca/caldo-italia-quarta-ondata-citta-allerta-oggi-domani_1e3gCT0BniYyp0KLlqjwg6"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/cede-la-tettoia-del-cantiere-66enne-salva-il-figlio-e-muore_944d2f31-f0be-488f-9c99-00a43e61db4c.html",
+        "https://www.ilfattoquotidiano.it/2026/07/29/incidente-lavoro-brindisi-operaio-morto-notizie/8463054/",
+        "https://www.ilmessaggero.it/italia/antonio_d_errico_morto_mesagne_incidente_cantiere_salva_figlio-9679382.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/crolla-la-tettoia-in-un-cantiere-il-padre-ha-salvato-il-figlio-prima-di-essere-travolto_944d2f31-f0be-488f-9c99-00a43e61db4c.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/29/crolla-tettoia-in-cantiere-un-morto-ed-un-ferito-tra-gli-operai_944d2f31-f0be-488f-9c99-00a43e61db4c.html"
       ]
     }
   ]
