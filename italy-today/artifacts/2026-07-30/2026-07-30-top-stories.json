@@ -1,9 +1,52 @@
 {
   "date": "2026-07-30",
-  "generated_at": "Thu 30 Jul 14:18",
+  "generated_at": "Thu 30 Jul 16:44",
   "stories": [
     {
       "rank": 1,
+      "title": "Raid sull'Ucraina, 'un missile russo caduto in Polonia'. Tusk: 'Violato il nostro spazio aereo'",
+      "source_count": 7,
+      "article_count": 15,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/ucraina-zelensky-mostra-la-foto-della-famiglia-uccisa-in-un-raid-russo_fc7bb489-9292-435d-add9-b65fa80eb4a5.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48731819/polonia-tusk-i-frammenti-indicano-un-missile-russo-kh-101/",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/raid-sullucraina-un-missile-russo-caduto-in-polonia.-tusk-violato-il-nostro-spazio_fc7bb489-9292-435d-add9-b65fa80eb4a5.html",
+        "https://www.liberoquotidiano.it/news/pillole/48728864/massiccio_attacco_russo_in_ucraina_diverse_vittime_tra_civili/",
+        "https://www.liberoquotidiano.it/news/tv-news/48728710/ucraina-notte-di-missili-otto-morti-e-allarme-in-polonia/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Il governo accelera sul riconoscimento facciale, Pd-M5s insorgono",
+      "source_count": 6,
+      "article_count": 14,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/riconoscimento-facciale-bruxelles-italia-ultime-news_5weUj6AyWZuYYMRaevZAM5",
+        "https://www.liberoquotidiano.it/news/tv-news/48733195/ia-flash-mob-contro-misure-sul-riconoscimento-facciale/",
+        "https://www.repubblica.it/politica/2026/07/30/news/governo_riconoscimento_facciale_forza_italia_fdi-425502295/",
+        "https://www.ansa.it/sito/notizie/politica/2026/07/30/rinviato-il-voto-sul-riconoscimento-facciale-alla-commissione-affari-ue-alla-camera_b0e5a2b0-364a-4f19-9a3f-021b114ccf5a.html",
+        "https://www.ansa.it/sito/notizie/flash/2026/07/30/-ue-riconoscimento-facciale-in-spazi-pubblici-e-vietato-dallai-act-_de67767f-c846-4a97-ad78-aa71ff3eb23b.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Usa, pesante ondata di raid contro l'Iran: \"Colpiti i Pasdaran\"",
       "source_count": 6,
       "article_count": 11,
@@ -21,46 +64,6 @@
         "https://www.liberoquotidiano.it/news/pillole/48728722/nuovi_attacchi_usa_contro_obiettivi_militari_iraniani/",
         "https://www.liberoquotidiano.it/news/libero-video/48727271/iran-centcom-diffonde-video-dei-raid-usa-sferrati-attacchi-pesanti-/",
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/07/30/bombardamenti-usa-iran-houthi-notizie/8463808/"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Il governo accelera sul riconoscimento facciale, Pd-M5s insorgono",
-      "source_count": 4,
-      "article_count": 12,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/07/30/news/governo_riconoscimento_facciale_forza_italia_fdi-425502295/",
-        "https://www.ansa.it/sito/notizie/politica/2026/07/30/rinviato-il-voto-sul-riconoscimento-facciale-alla-commissione-affari-ue-alla-camera_b0e5a2b0-364a-4f19-9a3f-021b114ccf5a.html",
-        "https://www.ansa.it/sito/notizie/flash/2026/07/30/-ue-riconoscimento-facciale-in-spazi-pubblici-e-vietato-dallai-act-_de67767f-c846-4a97-ad78-aa71ff3eb23b.html",
-        "https://www.ilmessaggero.it/politica/riconoscimento_facciale_cosa_e_rinvio_voto-9681132.html",
-        "https://www.repubblica.it/politica/2026/07/30/news/riconoscimento_facciale_rinviato_voto_commissione_affari_ue_camera-425501819/"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Furia Putin: serie di missili sull'Ucraina, 8 morti tra cui due bimbe. Violato spazio aereo polacco",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/raid-sullucraina-un-missile-russo-caduto-in-polonia.-tusk-violato-il-nostro-spazio_fc7bb489-9292-435d-add9-b65fa80eb4a5.html",
-        "https://www.liberoquotidiano.it/news/pillole/48728864/massiccio_attacco_russo_in_ucraina_diverse_vittime_tra_civili/",
-        "https://www.liberoquotidiano.it/news/tv-news/48728710/ucraina-notte-di-missili-otto-morti-e-allarme-in-polonia/",
-        "https://www.liberoquotidiano.it/news/libero-video/48727265/ucraina-pesanti-attacchi-russi-morte-anche-due-bambine/",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/raid-sullucraina-otto-morti.-i-media-polacchi-un-missile-russo-caduto-vicino_fc7bb489-9292-435d-add9-b65fa80eb4a5.html"
       ]
     },
     {
@@ -86,14 +89,37 @@
     },
     {
       "rank": 5,
-      "title": "Torna il caldo africano in Italia, temperature oltre i 40 gradi e umidità alle stelle",
-      "source_count": 5,
+      "title": "Uefa, scontro totale con la Fifa di Infantino: “Pronti a boicottare i Mondiali”",
+      "source_count": 7,
       "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/07/30/uefa-fifa-mondiali-privati-boicottaggio-guerra-calcio/8464767/",
+        "https://www.ansa.it/sito/notizie/sport/2026/07/30/luefa-allunanimita-boicottiamo-tutte-le-competizioni-fifa-_5abbfa4e-5c9f-4dab-b68b-20105a8bbc35.html",
+        "https://www.adnkronos.com/sport/calcio-uefa-fifa-mondiali-ceferin-infantino_4zLO2gn6yXUcdKDfNvyfym",
+        "https://www.repubblica.it/sport/calcio/2026/07/30/news/uefa_boicottaggio_mondiali_fifa_infantino-425502819/",
+        "https://www.ilmessaggero.it/sport/calcio/uefa_boicottaggio_fifa_mondiali_competizioni_cosa_ha_detto_cosa_succede-9681453.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Caldo estremo, arriva la quarta ondata: oggi 3, domani 11 città da bollino rosso",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
         "repubblica.it",
         "adnkronos.com",
+        "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
@@ -101,11 +127,11 @@
         "https://www.ilmessaggero.it/schede/bollino_rosso_caldo_citta_dove_quando_temperature_previsioni_meteo-9681121.html",
         "https://www.repubblica.it/cronaca/2026/07/30/news/ondata_caldo_previsioni_meteo_oggi_bollino_rosso-425501382/",
         "https://www.adnkronos.com/cronaca/italia-brasile-caldo-umidita-meteo-quando-dura_52Fv1lYq6gnnmzdJp9pzDE",
-        "https://www.ilmessaggero.it/schede/temporali_dove_quando_sabato_domenica_weekend_estremo_previsioni_meteo-9680908.html"
+        "https://www.lastampa.it/torino/2026/07/30/news/caldo_siccita_incendi_piemonte_bollino_rosso_38_gradi_autobotti_stato_di_emergenza-15702730/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Grecia in fiamme, morti tre vigili del fuoco. Paura a Creta e Paros Video",
       "source_count": 5,
       "article_count": 7,
@@ -125,7 +151,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Sequestrati migliaia di motorini elettrici venduti come e-bike",
       "source_count": 5,
       "article_count": 7,
@@ -145,60 +171,45 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Ecco il Mancini bis: 'Farò una bella Italia e mi perdonerete'",
-      "source_count": 5,
+      "rank": 9,
+      "title": "Samuele Spinelli, 27 anni, morto a Barcellona dopo un arresto: aperte due inchieste",
+      "source_count": 6,
       "article_count": 6,
       "source_domains": [
-        "liberoquotidiano.it",
-        "lastampa.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "ansa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/48728700/mancini-si-riprende-l-italia-per-me-come-donna-persa-mi-faro-perdonare-/",
-        "https://www.lastampa.it/sport/2026/07/30/news/calcio_in_tv_mancini_e_gli_amici_della_rai-15702782/",
-        "https://www.ilmessaggero.it/sport/nazionali/mancini_italia_tradimento_arabia_conferenza-9679815.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/07/29/la-nazionale-mancini-faro-giocare-bene-litalia-e-i-tifosi-mi-perdoneranno_53bd6cd0-fbf8-4cf4-919b-17575bd33ae7.html",
-        "https://www.lastampa.it/sport/2026/07/29/news/mancini-ranieri_la_presentazione_il_ct_ho_sbagliato_ad_andare_in_arabia-15702339/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "No Tav, prefetto di Torino vieta i campeggi in tre Comuni: Susa, Bussoleno e Venaus",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "torino.repubblica.it",
+        "liberoquotidiano.it",
+        "firenze.repubblica.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.adnkronos.com/cronaca/no-tav-prefetto-torino-divieto-campeggi-val-di-susa_4p18x2sfV1CY5NqPG6QyGo",
-        "https://www.ilfattoquotidiano.it/2026/07/30/no-tav-divieto-campeggio-venaus-notizie/8464315/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/il-prefetto-di-torino-frena-i-no-tav-campeggio-vietato-a-susa-e-a-bussoleno_ebb4373b-cb87-4ae5-b42c-9324002ce65a.html",
-        "https://torino.repubblica.it/cronaca/2026/07/30/news/no_ta_campeggio_controlli_susa-425501695/",
-        "https://www.lastampa.it/torino/2026/07/30/news/no_tav_vietato_ampeggio_oggi_susa_bussoleno_cafagna_prefetto-15702873/"
+        "https://www.ilfattoquotidiano.it/2026/07/30/samuele-spinelli-morte-barcellona-inchieste-notizie/8464691/",
+        "https://www.ilmessaggero.it/persone/samuele_spinelli_morto_chi_era_cosa_e_successo-9681382.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/il-pm-di-roma-apre-fascicolo-su-un-giovane-morto-a-barcellona-dopo-fermo-da-parte-della_2028d37b-3101-432b-8600-bf13cfb815be.html",
+        "https://www.liberoquotidiano.it/news/esteri/48730584/samuele-spinelli-morto-fermo-polizia-italiano-spagna-sinistra-muta/",
+        "https://firenze.repubblica.it/cronaca/2026/07/30/news/samuele_spinelli_morto_arresto_barcellona_indagini-425502094/"
       ]
     },
     {
       "rank": 10,
-      "title": "Milan smentisce la morte di Franco Baresi. Eccolo nel 2021 con Vieri e Ferrara a evento Trenitalia",
-      "source_count": 2,
-      "article_count": 8,
+      "title": "Messina, crolla edificio: cinque feriti, vigili del fuoco cercano dispersi tra le macerie",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
-        "liberoquotidiano.it",
-        "news.google.com"
+        "ansa.it",
+        "palermo.repubblica.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48724717/milan-smentisce-la-morte-di-franco-baresi-eccolo-nel-2021-con-vieri-e-ferrara-a-evento-trenitalia/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48724719/milan-smentisce-la-morte-di-franco-baresi-nel-2021-milano-lo-omaggio-con-l-ambrogino-d-oro/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48724721/milan-smentisce-la-morte-di-franco-baresi-eccolo-a-presentazione-calendario-di-serie-a-nel-2018/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48724723/milan-smentisce-la-morte-di-franco-baresi-eccolo-nel-2017-a-evento-solidarieta-con-javier-zanetti/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48724681/addio-franco-baresi-eccolo-alla-presentazione-del-calendario-di-serie-a-nel-2018/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/crolla-un-edificio-a-messina-ci-sarebbero-dispersi_0cec36af-74ef-48cd-acf0-778d622745e7.html",
+        "https://palermo.repubblica.it/cronaca/2026/07/30/news/messina_crolla_palazzina_dopo_esplosione_feriti-425502760/",
+        "https://www.ilfattoquotidiano.it/2026/07/30/crolla-una-palazzina-che-ospita-negozi-nel-messinese-5-persone-allospedale-in-codice-rosso/8464696/",
+        "https://www.adnkronos.com/cronaca/crollo-edificio-messina-oggi_30ql5qjfi9mEfIZekKJ9Tf",
+        "https://www.lastampa.it/cronaca/2026/07/30/news/messina_crollo_edificio_pistunina_dispersi_vigili_del_fuoco-15703138/"
       ]
     }
   ]
