@@ -1,20 +1,19 @@
 {
   "date": "2026-07-30",
-  "generated_at": "Thu 30 Jul 19:50",
+  "generated_at": "Thu 30 Jul 20:22",
   "stories": [
     {
       "rank": 1,
       "title": "Raid sull'Ucraina, 'un missile russo caduto in Polonia'. Tusk: 'Violato il nostro spazio aereo'",
-      "source_count": 7,
-      "article_count": 15,
+      "source_count": 6,
+      "article_count": 14,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "ilmessaggero.it"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/ucraina-zelensky-mostra-la-foto-della-famiglia-uccisa-in-un-raid-russo_fc7bb489-9292-435d-add9-b65fa80eb4a5.html",
@@ -26,9 +25,9 @@
     },
     {
       "rank": 2,
-      "title": "Scontro sul riconoscimento facciale, l’opposizione: “Come il Grande Fratello”. Cosa prevede la legge",
+      "title": "++ Ue, 'riconoscimento facciale in spazi pubblici è vietato dall'AI Act' ++",
       "source_count": 6,
-      "article_count": 14,
+      "article_count": 13,
       "source_domains": [
         "liberoquotidiano.it",
         "adnkronos.com",
@@ -47,52 +46,9 @@
     },
     {
       "rank": 3,
-      "title": "Usa, pesante ondata di raid contro l'Iran: \"Colpiti i Pasdaran\"",
-      "source_count": 6,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/30/nuova-rappresaglia-sulliran-trump-valuta-una-vasta-campagna-aerea_de1bc0da-ddff-438d-9c31-70f10f03533a.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/30/duri-raid-usa-sulliran.-i-pasdaran-distrutti-e-danneggiati-f-35-in-una-base-in-giordania_edbbf734-96fd-47ea-ba02-1bfc1b57381b.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/07/30/duri-raid-usa-sulliran.-risposta-ai-loro-tentati-attacchi-contro-le-nostre_edbbf734-96fd-47ea-ba02-1bfc1b57381b.html",
-        "https://www.liberoquotidiano.it/news/pillole/48728722/nuovi_attacchi_usa_contro_obiettivi_militari_iraniani/",
-        "https://www.liberoquotidiano.it/news/libero-video/48727271/iran-centcom-diffonde-video-dei-raid-usa-sferrati-attacchi-pesanti-/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Emergenza migranti a Ceuta, in migliaia arrivati a nuoto",
-      "source_count": 7,
+      "title": "Crolla un edificio a Messina, almeno 5 feriti gravi in ospedale",
+      "source_count": 9,
       "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/emergenza-migranti-a-ceuta-in-migliaia-arrivati-a-nuoto_086bcfef-66be-440c-8681-4e02c95572da.html",
-        "https://www.ansa.it/sito/photogallery/primopiano/2026/07/30/invasione-a-nuoto-di-migranti-dal-marocco-a-ceuta_d092a165-6caa-4ba7-8094-db7d9c80e1be.html",
-        "https://www.adnkronos.com/politica/migranti-fonti-palazzo-chigi-governo-valuta-sospensione-schengen-con-la-spagna_7x1CkJmSL1hxR1zWXJpimV",
-        "https://www.adnkronos.com/politica/migranti-ceuta-marocco-spagna_7x1CkJmSL1hxR1zWXJpimV",
-        "https://www.ilmessaggero.it/mondo/ceuta_migranti_italia_spagna_sospensione_schengen_cosa_succede-9681632.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Messina, crolla edificio: cinque feriti, vigili del fuoco cercano dispersi tra le macerie",
-      "source_count": 8,
-      "article_count": 9,
       "source_domains": [
         "laverita.info",
         "ansa.it",
@@ -101,7 +57,8 @@
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "lastampa.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
         "https://www.laverita.info/video/palazzina-crollata-messina",
@@ -112,7 +69,27 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "title": "Usa, pesante ondata di raid contro l'Iran: \"Colpiti i Pasdaran\"",
+      "source_count": 5,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/30/nuova-rappresaglia-sulliran-trump-valuta-una-vasta-campagna-aerea_de1bc0da-ddff-438d-9c31-70f10f03533a.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/30/duri-raid-usa-sulliran.-i-pasdaran-distrutti-e-danneggiati-f-35-in-una-base-in-giordania_edbbf734-96fd-47ea-ba02-1bfc1b57381b.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/07/30/duri-raid-usa-sulliran.-risposta-ai-loro-tentati-attacchi-contro-le-nostre_edbbf734-96fd-47ea-ba02-1bfc1b57381b.html",
+        "https://www.liberoquotidiano.it/news/pillole/48728722/nuovi_attacchi_usa_contro_obiettivi_militari_iraniani/",
+        "https://www.liberoquotidiano.it/news/libero-video/48727271/iran-centcom-diffonde-video-dei-raid-usa-sferrati-attacchi-pesanti-/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Uefa, scontro totale con la Fifa di Infantino: “Pronti a boicottare i Mondiali”",
       "source_count": 7,
       "article_count": 8,
@@ -134,7 +111,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Chat Caroccia-Delmastro, la procura di Roma scrive alle Camere. Slitta il voto, FI contraria",
       "source_count": 6,
       "article_count": 9,
@@ -155,7 +132,45 @@
       ]
     },
     {
+      "rank": 7,
+      "title": "Emergenza migranti a Ceuta, in migliaia arrivati a nuoto",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/07/30/emergenza-migranti-a-ceuta-in-migliaia-arrivati-a-nuoto_086bcfef-66be-440c-8681-4e02c95572da.html",
+        "https://www.ansa.it/sito/photogallery/primopiano/2026/07/30/invasione-a-nuoto-di-migranti-dal-marocco-a-ceuta_d092a165-6caa-4ba7-8094-db7d9c80e1be.html",
+        "https://www.adnkronos.com/politica/migranti-fonti-palazzo-chigi-governo-valuta-sospensione-schengen-con-la-spagna_7x1CkJmSL1hxR1zWXJpimV",
+        "https://www.adnkronos.com/politica/migranti-ceuta-marocco-spagna_7x1CkJmSL1hxR1zWXJpimV",
+        "https://www.ilmessaggero.it/mondo/ceuta_migranti_italia_spagna_sospensione_schengen_cosa_succede-9681632.html"
+      ]
+    },
+    {
       "rank": 8,
+      "title": "Mattarella \"Le tensioni elettorali non tolgano attenzione ai problemi\"",
+      "source_count": 2,
+      "article_count": 11,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48737504/mattarella-ostacolare-la-liberta-di-stampa-e-un-vulnus-recato-a-tutti-noi/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48736853/mattarella-avversione-fanatica-a-opinioni-altrui-contribuisce-a-seminare-germi-di-violenza/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48731613/mattarella-fenomeno-astensionismo-sia-principale-punto-attenzione-dei-partiti/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48731453/mattarella-tensioni-elettorali-intempestive-non-tolgano-attenzione-ai-problemi/",
+        "https://www.liberoquotidiano.it/news/pillole/48731302/mattarella-le-tensioni-elettorali-non-tolgano-attenzione-ai-problemi-/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Caldo estremo, arriva la quarta ondata: oggi 3, domani 11 città da bollino rosso",
       "source_count": 6,
       "article_count": 6,
@@ -176,7 +191,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Sequestrati migliaia di motorini elettrici venduti come e-bike",
       "source_count": 5,
       "article_count": 7,
@@ -193,27 +208,6 @@
         "https://www.ilfattoquotidiano.it/2026/07/30/motorini-elettrici-cinesi-sequestro-ebike-notizie/8463806/",
         "https://www.liberoquotidiano.it/news/italia/48726629/bici-elettriche-maxi-truffa-italia-cosa-ci-hanno-venduto-dalla-cina/",
         "https://www.liberoquotidiano.it/news/pillole/48725814/scooter_venduti_come_biciclette_elettriche_maxi_sequestro_in_tutta_italia/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Samuele Spinelli, 27 anni, morto a Barcellona dopo un arresto: aperte due inchieste",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "firenze.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/07/30/samuele-spinelli-morte-barcellona-inchieste-notizie/8464691/",
-        "https://www.ilmessaggero.it/persone/samuele_spinelli_morto_chi_era_cosa_e_successo-9681382.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/30/il-pm-di-roma-apre-fascicolo-su-un-giovane-morto-a-barcellona-dopo-fermo-da-parte-della_2028d37b-3101-432b-8600-bf13cfb815be.html",
-        "https://www.liberoquotidiano.it/news/esteri/48730584/samuele-spinelli-morto-fermo-polizia-italiano-spagna-sinistra-muta/",
-        "https://firenze.repubblica.it/cronaca/2026/07/30/news/samuele_spinelli_morto_arresto_barcellona_indagini-425502094/"
       ]
     }
   ]
