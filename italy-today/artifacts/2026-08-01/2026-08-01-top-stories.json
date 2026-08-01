@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated_at": "Sat 01 Aug 19:26",
+  "generated_at": "Sat 01 Aug 20:16",
   "stories": [
     {
       "rank": 1,
@@ -26,45 +26,24 @@
     },
     {
       "rank": 2,
-      "title": "Ceuta, decine di migliaia di migranti rientrano in Marocco",
-      "source_count": 5,
-      "article_count": 11,
+      "title": "Terremoto Campi Flegrei, proseguono le verifiche tecniche dei Vigili del fuoco sugli edifici",
+      "source_count": 3,
+      "article_count": 12,
       "source_domains": [
-        "liberoquotidiano.it",
         "ansa.it",
-        "laverita.info",
-        "repubblica.it",
-        "lastampa.it"
+        "liberoquotidiano.it",
+        "napoli.repubblica.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/48756258/ceuta-il-presidente-della-regione-citta-sconvolta-/",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ceuta-la-paura-dei-residenti-e-la-rabbia-dei-giovani-respinti_5cb7bd79-cf95-4363-bf8a-af0a3b9c5d5d.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48754866/ceuta-madrid-situazione-sotto-controllo-in-meno-di-48-ore/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/01/i-media-spagnoli-colti-di-sorpresa-dalla-crisi-a-ceuta_cee7af9f-ccdd-453e-8539-d125850abe8b.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48753573/da-ceuta-al-marocco-il-ritorno-di-migliaia-di-migranti/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/incubo-terremoto-a-pozzuoli-in-centinaia-ora-sono-senza-casa_b3cfe1bf-9141-4201-b270-7c5ea1cb9eef.html",
+        "https://www.liberoquotidiano.it/news/pillole/48756384/terremoto_campi_flegrei_ricognizione_aerea_dei_vigili_del_fuoco_con_i_droni/",
+        "https://www.liberoquotidiano.it/news/libero-video/48756255/terremoto-crolla-un-costone-a-pozzuoli-il-video-del-cedimento/",
+        "https://www.ansa.it/sito/videogallery/italia/2026/08/01/campi-flegrei-coniugi-in-auto-colpiti-da-un-masso-tragedia-sfiorata_478a9d99-bac5-4419-aa69-6bab682ada71.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48755774/terremoto-campi-flegrei-proseguono-le-verifiche-tecniche-dei-vigili-del-fuoco-sugli-edifici/"
       ]
     },
     {
       "rank": 3,
-      "title": "Terremoto Campi Flegrei, proseguono le verifiche tecniche dei Vigili del fuoco sugli edifici",
-      "source_count": 4,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "napoli.repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/incubo-terremoto-a-pozzuoli-in-centinaia-ora-sono-senza-casa_b3cfe1bf-9141-4201-b270-7c5ea1cb9eef.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48756255/terremoto-crolla-un-costone-a-pozzuoli-il-video-del-cedimento/",
-        "https://www.ansa.it/sito/videogallery/italia/2026/08/01/campi-flegrei-coniugi-in-auto-colpiti-da-un-masso-tragedia-sfiorata_478a9d99-bac5-4419-aa69-6bab682ada71.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48755774/terremoto-campi-flegrei-proseguono-le-verifiche-tecniche-dei-vigili-del-fuoco-sugli-edifici/",
-        "https://www.ansa.it/sito/videogallery/italia/2026/08/01/campi-flegrei-frana-da-una-parete-di-roccia-a-pozzuoli_9f0304f7-9249-44e4-9182-8b97d67c969e.html"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Perugia, musicista muore in hotel per intossicazione di monossido: aveva 54 anni. Gravissima la compagna di stanza",
       "source_count": 7,
       "article_count": 8,
@@ -86,7 +65,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Lo stop a Schengen con la Spagna per un mese, i controlli in porti e aeroporti: cosa cambia",
       "source_count": 6,
       "article_count": 9,
@@ -107,28 +86,7 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Missili russi su Kiev, almeno nove morti e 28 feriti",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48755512/raid-russo-su-kiev-esplosioni-e-fiamme-nella-capitale-ucraina-9-morti/",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti.-danneggiata-lambasciata-lituana_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
-        "https://www.ilmessaggero.it/mondo/guerra_ucraina_attacco_kiev_morti_missili-9684789.html",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48752803/missili-russi-su-kiev-almeno-nove-morti-e-28-feriti/"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 5,
       "title": "Meloni e 21 leader Ue: 'Vertice su Ceuta'. E' scontro con Sanchez",
       "source_count": 5,
       "article_count": 9,
@@ -148,7 +106,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "Morte Dafne Rebaudo, svolta nelle indagini: fermato il compagno. È accusato di femminicidio",
       "source_count": 6,
       "article_count": 8,
@@ -169,26 +127,47 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Si contano i danni dopo la violenta scossa ai Campi Flegrei: il video degli edifici distrutti",
-      "source_count": 4,
-      "article_count": 9,
+      "rank": 7,
+      "title": "Missili russi su Kiev, almeno nove morti e 28 feriti",
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
-        "laverita.info",
-        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ansa.it",
         "ilmessaggero.it",
-        "lastampa.it"
+        "adnkronos.com",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.laverita.info/video/danni-terremoto-pozzuoli",
-        "https://www.ilfattoquotidiano.it/2026/08/01/campi-flegrei-pozzuoli-danni-terremoto-case-video-oggi/8466958/",
-        "https://www.ilmessaggero.it/italia/terremoto_napoli_rischio_grande_scossa_esperto_cosa_dice-9684998.html",
-        "https://www.ilfattoquotidiano.it/2026/08/01/terremoto-campi-flegrei-danni-edifici-notizie/8466696/",
-        "https://www.lastampa.it/cronaca/2026/08/01/video/terremoto_pozzuoli_massi_auto_crollo_parete_video-15704864/"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48755512/raid-russo-su-kiev-esplosioni-e-fiamme-nella-capitale-ucraina-9-morti/",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti.-danneggiata-lambasciata-lituana_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
+        "https://www.ilmessaggero.it/mondo/guerra_ucraina_attacco_kiev_morti_missili-9684789.html",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48752803/missili-russi-su-kiev-almeno-nove-morti-e-28-feriti/"
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
+      "title": "Il crollo della palazzina a Messina, tre indagati per disastro e omicidio colposo plurimo",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "palermo.repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/ci-sono-i-primi-indagati-sul-crollo-di-messina-ancora-tre-dispersi_1ce25cee-2957-4946-9f7a-1b17758c72d6.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/trovati-altri-due-corpi-senza-vita-nelledificio-crollato-a-messina_1ce25cee-2957-4946-9f7a-1b17758c72d6.html",
+        "https://www.liberoquotidiano.it/news/pillole/48754841/crollo_palazzina_a_messina_in_corso_ricerche_dei_dispersi/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/individuata-una-terza-vittima-nelledificio-crollato-a-messina_1ce25cee-2957-4946-9f7a-1b17758c72d6.html",
+        "https://www.adnkronos.com/cronaca/crollo-palazzina-messina-seconda-vittima-newsoggi_1xdfJ3qUs8QqlL9L2LNTIw"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Caldo, domenica da incubo: bollino rosso in 23 città. Ecco la mappa della quarta ondata con i tre livelli di rischio",
       "source_count": 5,
       "article_count": 6,
@@ -205,6 +184,25 @@
         "https://www.ilmessaggero.it/italia/caldo_tsunami_di_calore_lunedi_3_agosto_cos_e_quando_finisce_citta_bollino_rosso_previsioni_meteo-9684863.html",
         "https://www.repubblica.it/cronaca/2026/08/01/news/caldo_oggi_19_citta_con_il_bollino_rosso-425506030/",
         "https://www.ilmessaggero.it/schede/caldo_bollino_rosso_dove_mappa_quarta_ondata_livelli_rischio_previsioni_meteo-9683630.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Si contano i danni dopo la violenta scossa ai Campi Flegrei: il video degli edifici distrutti",
+      "source_count": 4,
+      "article_count": 7,
+      "source_domains": [
+        "laverita.info",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.laverita.info/video/danni-terremoto-pozzuoli",
+        "https://www.ilmessaggero.it/italia/terremoto_napoli_rischio_grande_scossa_esperto_cosa_dice-9684998.html",
+        "https://www.ilfattoquotidiano.it/2026/08/01/terremoto-campi-flegrei-danni-edifici-notizie/8466696/",
+        "https://www.lastampa.it/cronaca/2026/08/01/video/terremoto_pozzuoli_massi_auto_crollo_parete_video-15704864/",
+        "https://www.lastampa.it/cronaca/2026/08/01/video/terremoto_napoli_pozzuoli_solfatara_video_interno-15704853/"
       ]
     }
   ]
