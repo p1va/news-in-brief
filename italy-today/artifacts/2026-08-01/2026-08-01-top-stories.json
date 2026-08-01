@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated_at": "Sat 01 Aug 14:41",
+  "generated_at": "Sat 01 Aug 16:09",
   "stories": [
     {
       "rank": 1,
@@ -31,8 +31,8 @@
       "article_count": 10,
       "source_domains": [
         "ilmessaggero.it",
-        "ansa.it",
         "liberoquotidiano.it",
+        "ansa.it",
         "napoli.repubblica.it",
         "adnkronos.com",
         "lastampa.it",
@@ -40,7 +40,7 @@
       ],
       "links": [
         "https://www.ilmessaggero.it/italia/terremoto_napoli_rischio_grande_scossa_esperto_cosa_dice-9684998.html",
-        "https://www.ansa.it/sito/videogallery/italia/2026/08/01/campi-flegrei-frana-da-una-parete-di-roccia-a-pozzuoli_9f0304f7-9249-44e4-9182-8b97d67c969e.html",
+        "https://www.liberoquotidiano.it/news/pillole/48754833/terremoto_campi_flegrei_vigili_del_fuoco_impegnati_nelle_verifiche_tecniche/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/terremoto-musumeci-lo-sciame-sismico-ai-campi-flegrei-e-ancora-in-corso.-registrate-decine_b3cfe1bf-9141-4201-b270-7c5ea1cb9eef.html",
         "https://www.liberoquotidiano.it/news/tv-news/48754852/terremoto-ai-campi-flegrei-21-feriti-e-22-famiglie-evacuate/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/terremoto-prosegue-lo-sciame-sismico-ai-campi-flegrei-decine-le-scosse_b3cfe1bf-9141-4201-b270-7c5ea1cb9eef.html"
@@ -48,12 +48,77 @@
     },
     {
       "rank": 3,
-      "title": "Da Ceuta al Marocco, il ritorno di migliaia di migranti",
-      "source_count": 5,
-      "article_count": 11,
+      "title": "Lo stop a Schengen con la Spagna per un mese, i controlli in porti e aeroporti: cosa cambia",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/01/schengen-sospeso-controlli-spagna-notizie/8466899/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/stop-schengen-con-spagna-controlli-a-fiumicino-malpensa-e-linate_401ae5b5-f22e-4848-9dbe-b5f410f2ebdd.html",
+        "https://www.adnkronos.com/cronaca/piantedosi-controlli-alla-frontiera-con-la-spagna-misura-cautelativa_5pUcU0OLFqxx8Oq0wmY1JA",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/lo-stop-a-schengen-con-la-spagna-per-un-mese-i-controlli-in-porti-e-aeroporti-cosa_117dd000-c9ab-4f52-b276-fcb32c41a790.html",
+        "https://www.repubblica.it/politica/2026/08/01/news/schengen_ceuta_libera_circolazione_come_funziona-425506273/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Nelle strade di Ceuta invase da 50mila migranti: “Cerchiamo la libertà”",
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
+        "laverita.info",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48753573/da-ceuta-al-marocco-il-ritorno-di-migliaia-di-migranti/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/01/notte-di-tensione-a-ceuta-un-migrante-ferito-in-una-rissa.-salgono-a-67-i-morti-in-mare_d21f320a-6855-4da1-a572-33b9a2c63095.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48751792/ceuta-decine-migliaia-migranti-rientrano-marocco/",
+        "https://www.laverita.info/cronache-dellinvasione/ceuta-assaltata-da-50000-africani",
+        "https://www.repubblica.it/esteri/2026/08/01/news/ceuta_crisi_migranti_spagna_marocco-425505725/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Missili russi su Kiev, almeno nove morti e 28 feriti",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48755512/raid-russo-su-kiev-esplosioni-e-fiamme-nella-capitale-ucraina-9-morti/",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti.-danneggiata-lambasciata-lituana_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
+        "https://www.ilmessaggero.it/mondo/guerra_ucraina_attacco_kiev_morti_missili-9684789.html",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48752803/missili-russi-su-kiev-almeno-nove-morti-e-28-feriti/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "I media spagnoli: 'Colti di sorpresa dalla crisi a Ceuta'",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
         "repubblica.it",
         "lastampa.it",
         "news.google.com"
@@ -61,34 +126,33 @@
       "links": [
         "https://www.liberoquotidiano.it/news/tv-news/48754866/ceuta-madrid-situazione-sotto-controllo-in-meno-di-48-ore/",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/01/i-media-spagnoli-colti-di-sorpresa-dalla-crisi-a-ceuta_cee7af9f-ccdd-453e-8539-d125850abe8b.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48753573/da-ceuta-al-marocco-il-ritorno-di-migliaia-di-migranti/",
-        "https://www.liberoquotidiano.it/news/libero-video/48751792/ceuta-decine-migliaia-migranti-rientrano-marocco/",
-        "https://www.repubblica.it/esteri/2026/08/01/news/ceuta_crisi_migranti_spagna_marocco-425505725/"
+        "https://www.ilfattoquotidiano.it/2026/08/01/la-crisi-di-ceuta-vignetta-natangelo-1-agosto/8466561/",
+        "https://www.repubblica.it/politica/2026/08/01/news/la_vignetta_di_ellekappa_la_crisi_di_ceuta_secondo_meloni-425505668/",
+        "https://www.lastampa.it/rubriche/il-taccuino/2026/08/01/news/meloni_usa_un_arma_spuntata-15704602/"
       ]
     },
     {
-      "rank": 4,
-      "title": "Missili russi su Kiev, almeno nove morti e 28 feriti",
-      "source_count": 6,
-      "article_count": 7,
+      "rank": 7,
+      "title": "Sanchez: 'Stop a Schengen per ignoranza o interessi politici'. Meloni e altri 21 leader all'Ue: 'Serve una riunione urgente'",
+      "source_count": 5,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
         "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
+        "ilmessaggero.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti.-danneggiata-lambasciata-lituana_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
-        "https://www.ilmessaggero.it/mondo/guerra_ucraina_attacco_kiev_morti_missili-9684789.html",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ucraina-esplosioni-a-kiev-almeno-9-morti-e-23-feriti_82fa3fc8-1c69-46fa-8ad0-78bba5c6353f.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48752803/missili-russi-su-kiev-almeno-nove-morti-e-28-feriti/",
-        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-ultime-news-oggi-1-agosto_1bEJOLM76HjGE3gHnHwNlj"
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/01/meloni-e-21-leader-europei-vertice-su-ceuta.-scontro-con-sanchez_d21f320a-6855-4da1-a572-33b9a2c63095.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/01/meloni-e-altri-21-leader-chiedono-una-riunione-urgente-ok-dellue.-sanchez-stop_d21f320a-6855-4da1-a572-33b9a2c63095.html",
+        "https://www.ilfattoquotidiano.it/2026/08/01/migranti-lettera-22-paesi-ue-ritorno-controlli-frontiere-ok-von-der-leyen-news/8466822/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/01/sanchez-stop-a-schengen-per-ignoranza-o-interessi-politici.-meloni-e-altri-21-leader_d21f320a-6855-4da1-a572-33b9a2c63095.html",
+        "https://www.adnkronos.com/internazionale/esteri/sanchez-lettera-ue-contro-italia-migranti_6pIKXnoBUNyPsmFdaLmWIJ"
       ]
     },
     {
-      "rank": 5,
+      "rank": 8,
       "title": "Terremoto a Napoli: scossa ai Campi Flegrei di magnitudo 4.7, la più forte in 40 anni",
       "source_count": 4,
       "article_count": 8,
@@ -107,47 +171,27 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Lo stop a Schengen con la Spagna per un mese, i controlli in porti e aeroporti: cosa cambia",
+      "rank": 9,
+      "title": "Caldo, domenica da incubo: bollino rosso in 23 città. Ecco la mappa della quarta ondata con i tre livelli di rischio",
       "source_count": 5,
-      "article_count": 7,
+      "article_count": 6,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/01/schengen-sospeso-controlli-spagna-notizie/8466899/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/stop-schengen-con-spagna-controlli-a-fiumicino-malpensa-e-linate_401ae5b5-f22e-4848-9dbe-b5f410f2ebdd.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/lo-stop-a-schengen-con-la-spagna-per-un-mese-i-controlli-in-porti-e-aeroporti-cosa_117dd000-c9ab-4f52-b276-fcb32c41a790.html",
-        "https://www.repubblica.it/politica/2026/08/01/news/schengen_ceuta_libera_circolazione_come_funziona-425506273/",
-        "https://www.lastampa.it/esteri/2026/08/01/news/stop_schengen_spagna_porti_aeroporti_controlli_cosa_cambia-15704820/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Ceuta, Sanchez scrive all'Ue: \"Stop a Schengen per ignoranza o interessi politici\"",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
         "ilmessaggero.it",
-        "repubblica.it"
+        "repubblica.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/01/meloni-e-altri-21-leader-chiedono-una-riunione-urgente-ok-dellue.-sanchez-stop_d21f320a-6855-4da1-a572-33b9a2c63095.html",
-        "https://www.ilfattoquotidiano.it/2026/08/01/migranti-lettera-22-paesi-ue-ritorno-controlli-frontiere-ok-von-der-leyen-news/8466822/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/01/sanchez-stop-a-schengen-per-ignoranza-o-interessi-politici.-meloni-e-altri-21-leader_d21f320a-6855-4da1-a572-33b9a2c63095.html",
-        "https://www.adnkronos.com/internazionale/esteri/sanchez-lettera-ue-contro-italia-migranti_6pIKXnoBUNyPsmFdaLmWIJ",
-        "https://www.ilmessaggero.it/mondo/ceuta_italia_spagna_schengen_scontro_ultime_notizie-9684841.html"
+        "https://www.ilfattoquotidiano.it/2026/08/01/ondata-calore-bollino-rosso-25-citta-notizie/8466783/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/caldo-record-da-nord-a-sud-lunedi-25-citta-col-bollino-rosso-u-27-monitorate_bf3d59f4-f811-43e9-b012-6e359e6fb0c4.html",
+        "https://www.ilmessaggero.it/italia/caldo_tsunami_di_calore_lunedi_3_agosto_cos_e_quando_finisce_citta_bollino_rosso_previsioni_meteo-9684863.html",
+        "https://www.repubblica.it/cronaca/2026/08/01/news/caldo_oggi_19_citta_con_il_bollino_rosso-425506030/",
+        "https://www.ilmessaggero.it/schede/caldo_bollino_rosso_dove_mappa_quarta_ondata_livelli_rischio_previsioni_meteo-9683630.html"
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Perugia, musicista muore in hotel per intossicazione di monossido: aveva 54 anni. Gravissima la compagna di stanza",
       "source_count": 5,
       "article_count": 6,
@@ -164,46 +208,6 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/musicista-muore-in-albergo-per-una-sospetta-intossicazione-da-monossido-_c7230e17-2b2c-4ba1-a688-164e51c3e320.html",
         "https://www.ilmessaggero.it/umbria/perugia_musicista_morto_hotel_intossicazione_monossido_carbonio_ultime_notizie-9684708.html",
         "https://www.ilmessaggero.it/umbria/perugia_davide_la_losa_musicista_morto_hotel_intossicazione_monossido_carbonio_ultime_notizie-9684708.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Addio a don Mazzi, è morto il fondatore della comunità Exodus",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48753507/addio-a-don-mazzi-il-prete-di-strada-che-fondo-exodus/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/07/31/e-morto-don-mazzi-fondatore-della-comunita-exodus_892de4fc-e0e8-4a89-b988-d7a9f256338f.html",
-        "https://www.ilmessaggero.it/persone/don_mazzi_morto_oggi_ultime_notizie-9683333.html",
-        "https://www.ilsole24ore.com/art/morto-don-mazzi-fondatore-comunita-exodus-AJjDBvb",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYW1MNW84MzNYLThNZkk5cWlkcU5IdXc2NVkzbDRyOGtYNXpESXIzSVZ6YVdoMHdvbWFOU0ZDTmFSbE1rUEtuemJZZkpqU1hocVk0WnpUQjJNQmtiaU90UDRmRzk0cHJlRGVyOUJYWWMxUGVEQkc5NXJhUGxsT2JFag?oc=5"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "«Dafne Rebaudo spinta giù dal balcone di casa dopo una lite». Svolta nel caso della 30enne morta a Roma, fermato il compagno",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/01/femminicidio-dafne-sabaudo-trabelsi-fermato-notizie/8466754/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/donna-precipito-da-terrazza-a-roma-fermato-il-compagno-_336fea78-2204-4ffe-bb14-896273f9e6a5.html",
-        "https://www.adnkronos.com/cronaca/roma-tor-bella-monaca-30enne-indagini-svolta_6sm8z4sMlSy84bgDOL660B",
-        "https://www.ilmessaggero.it/roma/tuscolana/dafne_rebaudo_roma_tor_bella_monaca_compagno_arrestato_chi_era_cosa_e_successo-9684792.html",
-        "https://www.lastampa.it/cronaca/2026/08/01/news/femminicidio_dafne_rebaudo_tor_bella_monaca_roma-15704798/"
       ]
     }
   ]
