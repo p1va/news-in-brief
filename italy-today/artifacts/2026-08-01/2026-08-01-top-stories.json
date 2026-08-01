@@ -1,6 +1,6 @@
 {
   "date": "2026-08-01",
-  "generated_at": "Sat 01 Aug 18:08",
+  "generated_at": "Sat 01 Aug 19:26",
   "stories": [
     {
       "rank": 1,
@@ -26,46 +26,67 @@
     },
     {
       "rank": 2,
-      "title": "Terremoto a Napoli, sisma di magnitudo 4,7 ai Campi Flegrei",
-      "source_count": 5,
-      "article_count": 10,
-      "source_domains": [
-        "laverita.info",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/video/danni-terremoto-pozzuoli",
-        "https://www.ilmessaggero.it/italia/terremoto_napoli_rischio_grande_scossa_esperto_cosa_dice-9684998.html",
-        "https://www.ilfattoquotidiano.it/2026/08/01/terremoto-campi-flegrei-esperto-cnr-scosse-piu-forti-news-oggi/8466919/",
-        "https://www.ilfattoquotidiano.it/2026/08/01/terremoto-campi-flegrei-danni-edifici-notizie/8466696/",
-        "https://www.lastampa.it/cronaca/2026/08/01/video/terremoto_pozzuoli_massi_auto_crollo_parete_video-15704864/"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Ceuta, decine di migliaia di migranti rientrano in Marocco",
       "source_count": 5,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
-        "ansa.it",
         "liberoquotidiano.it",
+        "ansa.it",
         "laverita.info",
         "repubblica.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/48756258/ceuta-il-presidente-della-regione-citta-sconvolta-/",
         "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/01/ceuta-la-paura-dei-residenti-e-la-rabbia-dei-giovani-respinti_5cb7bd79-cf95-4363-bf8a-af0a3b9c5d5d.html",
         "https://www.liberoquotidiano.it/news/tv-news/48754866/ceuta-madrid-situazione-sotto-controllo-in-meno-di-48-ore/",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/01/i-media-spagnoli-colti-di-sorpresa-dalla-crisi-a-ceuta_cee7af9f-ccdd-453e-8539-d125850abe8b.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48753573/da-ceuta-al-marocco-il-ritorno-di-migliaia-di-migranti/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/01/notte-di-tensione-a-ceuta-un-migrante-ferito-in-una-rissa.-salgono-a-67-i-morti-in-mare_d21f320a-6855-4da1-a572-33b9a2c63095.html"
+        "https://www.liberoquotidiano.it/news/tv-news/48753573/da-ceuta-al-marocco-il-ritorno-di-migliaia-di-migranti/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Terremoto Campi Flegrei, proseguono le verifiche tecniche dei Vigili del fuoco sugli edifici",
+      "source_count": 4,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "napoli.repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/incubo-terremoto-a-pozzuoli-in-centinaia-ora-sono-senza-casa_b3cfe1bf-9141-4201-b270-7c5ea1cb9eef.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48756255/terremoto-crolla-un-costone-a-pozzuoli-il-video-del-cedimento/",
+        "https://www.ansa.it/sito/videogallery/italia/2026/08/01/campi-flegrei-coniugi-in-auto-colpiti-da-un-masso-tragedia-sfiorata_478a9d99-bac5-4419-aa69-6bab682ada71.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48755774/terremoto-campi-flegrei-proseguono-le-verifiche-tecniche-dei-vigili-del-fuoco-sugli-edifici/",
+        "https://www.ansa.it/sito/videogallery/italia/2026/08/01/campi-flegrei-frana-da-una-parete-di-roccia-a-pozzuoli_9f0304f7-9249-44e4-9182-8b97d67c969e.html"
       ]
     },
     {
       "rank": 4,
+      "title": "Perugia, musicista muore in hotel per intossicazione di monossido: aveva 54 anni. Gravissima la compagna di stanza",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/01/monossido-carbonio-perugia-musicista-morto-notizie/8466800/",
+        "https://www.liberoquotidiano.it/news/italia/48753665/perugia-morto-hotel-prima-concerto-tragedia/",
+        "https://www.repubblica.it/cronaca/2026/08/01/news/perugia_musicista_trovato_morto_in_hotel_sospetta_intossicazione_da_monossido_grave_una_collega-425506302/",
+        "https://www.adnkronos.com/cronaca/perugia-musicista-morto-albergo-monossido_3WjNsGsUEtb0qK5zx51Ge9",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/musicista-muore-in-albergo-per-una-sospetta-intossicazione-da-monossido-_c7230e17-2b2c-4ba1-a688-164e51c3e320.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Lo stop a Schengen con la Spagna per un mese, i controlli in porti e aeroporti: cosa cambia",
       "source_count": 6,
       "article_count": 9,
@@ -86,7 +107,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Missili russi su Kiev, almeno nove morti e 28 feriti",
       "source_count": 6,
       "article_count": 8,
@@ -107,51 +128,10 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Terremoto Campi Flegrei, proseguono le verifiche tecniche dei Vigili del fuoco sugli edifici",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "napoli.repubblica.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48755774/terremoto-campi-flegrei-proseguono-le-verifiche-tecniche-dei-vigili-del-fuoco-sugli-edifici/",
-        "https://www.liberoquotidiano.it/news/pillole/48754833/terremoto_campi_flegrei_vigili_del_fuoco_impegnati_nelle_verifiche_tecniche/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/terremoto-musumeci-lo-sciame-sismico-ai-campi-flegrei-e-ancora-in-corso.-registrate-decine_b3cfe1bf-9141-4201-b270-7c5ea1cb9eef.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48754852/terremoto-ai-campi-flegrei-21-feriti-e-22-famiglie-evacuate/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/terremoto-prosegue-lo-sciame-sismico-ai-campi-flegrei-decine-le-scosse_b3cfe1bf-9141-4201-b270-7c5ea1cb9eef.html"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "Perugia, musicista muore in hotel per intossicazione di monossido: aveva 54 anni. Gravissima la compagna di stanza",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilmessaggero.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/01/monossido-carbonio-perugia-musicista-morto-notizie/8466800/",
-        "https://www.liberoquotidiano.it/news/italia/48753665/perugia-morto-hotel-prima-concerto-tragedia/",
-        "https://www.adnkronos.com/cronaca/perugia-musicista-morto-albergo-monossido_3WjNsGsUEtb0qK5zx51Ge9",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/musicista-muore-in-albergo-per-una-sospetta-intossicazione-da-monossido-_c7230e17-2b2c-4ba1-a688-164e51c3e320.html",
-        "https://www.ilmessaggero.it/umbria/perugia_musicista_morto_hotel_intossicazione_monossido_carbonio_ultime_notizie-9684708.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Sanchez: 'Stop a Schengen per ignoranza o interessi politici'. Meloni e altri 21 leader all'Ue: 'Serve una riunione urgente'",
+      "title": "Meloni e 21 leader Ue: 'Vertice su Ceuta'. E' scontro con Sanchez",
       "source_count": 5,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
@@ -160,23 +140,24 @@
         "repubblica.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/08/01/meloni-e-21-leader-ue-vertice-su-ceuta.-e-scontro-con-sanchez_dab85127-0560-4ac1-8fcb-789013fbbad4.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/01/meloni-e-21-leader-europei-vertice-su-ceuta.-scontro-con-sanchez_d21f320a-6855-4da1-a572-33b9a2c63095.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/01/meloni-e-altri-21-leader-chiedono-una-riunione-urgente-ok-dellue.-sanchez-stop_d21f320a-6855-4da1-a572-33b9a2c63095.html",
         "https://www.ilfattoquotidiano.it/2026/08/01/migranti-lettera-22-paesi-ue-ritorno-controlli-frontiere-ok-von-der-leyen-news/8466822/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/01/sanchez-stop-a-schengen-per-ignoranza-o-interessi-politici.-meloni-e-altri-21-leader_d21f320a-6855-4da1-a572-33b9a2c63095.html",
-        "https://www.adnkronos.com/internazionale/esteri/sanchez-lettera-ue-contro-italia-migranti_6pIKXnoBUNyPsmFdaLmWIJ"
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/01/sanchez-stop-a-schengen-per-ignoranza-o-interessi-politici.-meloni-e-altri-21-leader_d21f320a-6855-4da1-a572-33b9a2c63095.html"
       ]
     },
     {
-      "rank": 9,
-      "title": "Precipitò da una terrazza a Roma, 'è stato un femminicidio'",
-      "source_count": 5,
-      "article_count": 7,
+      "rank": 8,
+      "title": "Morte Dafne Rebaudo, svolta nelle indagini: fermato il compagno. È accusato di femminicidio",
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "ilmessaggero.it",
+        "roma.repubblica.it",
         "lastampa.it"
       ],
       "links": [
@@ -185,6 +166,25 @@
         "https://www.ilfattoquotidiano.it/2026/08/01/femminicidio-dafne-rebaudo-trabelsi-fermato-notizie/8466754/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/donna-precipito-da-terrazza-a-roma-fermato-il-compagno-_336fea78-2204-4ffe-bb14-896273f9e6a5.html",
         "https://www.adnkronos.com/cronaca/roma-tor-bella-monaca-30enne-indagini-svolta_6sm8z4sMlSy84bgDOL660B"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Si contano i danni dopo la violenta scossa ai Campi Flegrei: il video degli edifici distrutti",
+      "source_count": 4,
+      "article_count": 9,
+      "source_domains": [
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.laverita.info/video/danni-terremoto-pozzuoli",
+        "https://www.ilfattoquotidiano.it/2026/08/01/campi-flegrei-pozzuoli-danni-terremoto-case-video-oggi/8466958/",
+        "https://www.ilmessaggero.it/italia/terremoto_napoli_rischio_grande_scossa_esperto_cosa_dice-9684998.html",
+        "https://www.ilfattoquotidiano.it/2026/08/01/terremoto-campi-flegrei-danni-edifici-notizie/8466696/",
+        "https://www.lastampa.it/cronaca/2026/08/01/video/terremoto_pozzuoli_massi_auto_crollo_parete_video-15704864/"
       ]
     },
     {
