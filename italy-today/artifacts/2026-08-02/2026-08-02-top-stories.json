@@ -1,29 +1,29 @@
 {
   "date": "2026-08-02",
-  "generated_at": "Sun 02 Aug 14:43",
+  "generated_at": "Sun 02 Aug 16:09",
   "stories": [
     {
       "rank": 1,
-      "title": "Aereo turistico si schianta in Perù: 7 italiani tra le vittime. “Due famiglie, erano amiche”",
+      "title": "Perù, precipita aereo turistico: 13 morti, 7 sono italiani",
       "source_count": 9,
-      "article_count": 18,
+      "article_count": 20,
       "source_domains": [
+        "ilmessaggero.it",
+        "lastampa.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
         "laverita.info",
         "liberoquotidiano.it",
-        "lastampa.it",
         "adnkronos.com",
-        "ilmessaggero.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ilmessaggero.it/mondo/aereo_caduto_peru_ricostruzione_cosa_e_successo_davvero-9686592.html",
+        "https://www.lastampa.it/esteri/2026/08/02/news/aereo_caduto_in_peru_le_ipotesi_sull_incidente_guasto_maltempo_o_cedimento_strutturale-15705623/",
         "https://www.ansa.it/sito/videogallery/mondo/2026/08/02/peru-in-un-video-laereo-che-precipita-perdendo-pezzi_ebdf8346-8034-41a1-942f-c4a19985b8d6.html",
         "https://www.ilfattoquotidiano.it/2026/08/02/incidente-aereo-peru-nazca-notizie-video/8467476/",
-        "https://www.repubblica.it/esteri/2026/08/02/news/aereo_caduto_peru_italiani_morti_indagini-425507942/",
-        "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/02/disastro-aereo-in-peru-identificati-i-7-turisti-italiani.-coinvolte-due-famiglie-lombarde_c83b925c-2fc9-4b66-94bf-b0a73a568502.html",
-        "https://www.ilfattoquotidiano.it/2026/08/02/incidente-aereo-peru-chi-erano-vittime-italiane-monza-seregno-notizie/8467322/"
+        "https://www.repubblica.it/esteri/2026/08/02/news/aereo_caduto_peru_italiani_morti_indagini-425507942/"
       ]
     },
     {
@@ -76,13 +76,15 @@
     {
       "rank": 4,
       "title": "Nave militare italiana abborda e ferma una petroliera della \"flotta ombra\" russa: controlli al largo di Pantelleria",
-      "source_count": 6,
-      "article_count": 7,
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "adnkronos.com",
+        "lastampa.it",
+        "liberoquotidiano.it",
         "ilsole24ore.com",
         "agi.it"
       ],
@@ -91,11 +93,33 @@
         "https://www.ilfattoquotidiano.it/2026/08/02/marina-militare-abborda-nave-flotta-ombra-russa-pantelleria-news-cosa-e-successo/8467520/",
         "https://www.ilmessaggero.it/mondo/flotta_ombra_russa_pantelleria_nave_miliatare_italiana_thaon_revel_cosa_e_successo-9686516.html",
         "https://www.adnkronos.com/cronaca/petroliera-flotta-ombra-russa-abbordata-marina-cose-successo-pantelleria_5ApMQg2Bbnr5VOqFIb4TKJ",
-        "https://www.ilsole24ore.com/art/nave-marina-italiana-abborda-petroliera-flotta-ombra-russa-AJY04xc"
+        "https://www.lastampa.it/cronaca/2026/08/02/video/petroliera_flotta_ombra_russa_abbordaggio_marina_pantelleria-15705618/"
       ]
     },
     {
       "rank": 5,
+      "title": "Incidente sulla Rieti-Terni tra un pullman, un camper e due auto: 5 morti e 5 feriti",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "roma.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/cinque-morti-e-cinque-feriti-per-un-incidente-sulla-terni-rieti_da5389c8-2c54-4e56-8709-29f126de7e09.html",
+        "https://www.ilfattoquotidiano.it/2026/08/02/incidente-terni-rieti-morti-pullman-notizie/8467716/",
+        "https://www.adnkronos.com/cronaca/incidente-stradale-auto-camper-pullman-oggi-ultime-notizie_1SQKLfdpgTJYs5pZ1MqFFr",
+        "https://roma.repubblica.it/cronaca/2026/08/02/news/rieti_tragedia_incidente_colli_velino_piediluco_cinque_morti-425508084/",
+        "https://www.ilmessaggero.it/rieti/rieti_terni_incidente_morti_cosa_e_successo_oggi-9686606.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Russia, esplosione in un caffè di Mosca: 3 morti e 15 feriti. «Era in corso una festa per il comandante dell'Aeronautica»",
       "source_count": 6,
       "article_count": 6,
@@ -116,41 +140,23 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Trump: \"Ritiro l'attacco a Teheran, ma subito accordo\"",
+      "rank": 7,
+      "title": "Trump: 'Ritiro l'attacco sull'Iran su richiesta di Teheran e altri Paesi'",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
+        "ansa.it",
         "liberoquotidiano.it",
         "adnkronos.com",
-        "ansa.it",
         "repubblica.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/02/bin-salman-convince-trump-annullato-lattacco-alliran_9627b960-bbbb-43e9-891a-e77a10e8b09e.html",
         "https://www.liberoquotidiano.it/news/libero-video/48760366/trump-ritiro-l-attacco-a-teheran-ma-subito-accordo-/",
         "https://www.adnkronos.com/internazionale/esteri/iran-usa-trump-attacchi-news-oggi_1Zhx5QREQ1i80Wv7lhcDDv",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/02/trump-ritiro-lattacco-sulliran-su-richiesta-di-teheran-e-altri-paesi_9627b960-bbbb-43e9-891a-e77a10e8b09e.html",
-        "https://www.repubblica.it/esteri/2026/08/02/diretta/guerra_iran_usa_israele_news_oggi-425507325/",
-        "https://www.lastampa.it/esteri/2026/08/02/diretta/iran_trump_prepara_nuovi_raid_fragile_tregua_gaza-15705295/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Terremoto ai Campi Flegrei, riaperto il porto di Pozzuoli",
-      "source_count": 3,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/terremoto-ai-campi-flegrei-riaperto-il-porto-di-pozzuoli.-terminato-lo-sciame-sismico_aae7adb6-4ca6-43e9-9ec7-e96237f7651b.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/terremoto-ai-campi-flegrei-riaperto-il-porto-di-pozzuoli_aae7adb6-4ca6-43e9-9ec7-e96237f7651b.html",
-        "https://www.adnkronos.com/cronaca/terremoto-campi-flegrei-nuove-scosse-oggi-ultime-news_3jGdqZfa4pypWGTLdqrJJa",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/incubo-terremoto-a-pozzuoli-in-centinaia-ora-sono-senza-casa_b3cfe1bf-9141-4201-b270-7c5ea1cb9eef.html",
-        "https://www.liberoquotidiano.it/news/pillole/48756384/terremoto_campi_flegrei_ricognizione_aerea_dei_vigili_del_fuoco_con_i_droni/"
+        "https://www.repubblica.it/esteri/2026/08/02/diretta/guerra_iran_usa_israele_news_oggi-425507325/"
       ]
     },
     {
@@ -174,6 +180,24 @@
     },
     {
       "rank": 9,
+      "title": "Terremoto ai Campi Flegrei, riaperto il porto di Pozzuoli",
+      "source_count": 3,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/terremoto-ai-campi-flegrei-riaperto-il-porto-di-pozzuoli.-terminato-lo-sciame-sismico_aae7adb6-4ca6-43e9-9ec7-e96237f7651b.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/terremoto-ai-campi-flegrei-riaperto-il-porto-di-pozzuoli_aae7adb6-4ca6-43e9-9ec7-e96237f7651b.html",
+        "https://www.adnkronos.com/cronaca/terremoto-campi-flegrei-nuove-scosse-oggi-ultime-news_3jGdqZfa4pypWGTLdqrJJa",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/01/incubo-terremoto-a-pozzuoli-in-centinaia-ora-sono-senza-casa_b3cfe1bf-9141-4201-b270-7c5ea1cb9eef.html",
+        "https://www.liberoquotidiano.it/news/pillole/48756384/terremoto_campi_flegrei_ricognizione_aerea_dei_vigili_del_fuoco_con_i_droni/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Ceuta, il modello Madrid in tilt",
       "source_count": 3,
       "article_count": 5,
@@ -188,24 +212,6 @@
         "https://www.repubblica.it/commenti/2026/08/02/news/le_bugie_su_ceuta_e_il_collasso_demografico-425507222/",
         "https://www.lastampa.it/esteri/2026/08/02/news/usati_come_arma_e_poi_scaricati_i_migranti_moderni_ulisse_alla_merce_dei_giochi_dei_potenti-15705234/",
         "https://www.ilmessaggero.it/politica/ceuta_modello_madrid-9685305.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Meloni e 21 leader Ue: 'Vertice su Ceuta'. E' scontro con Sanchez",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/migranti-ceuta-lettera-riunione-straordinaria_5keCiYdKwieWLAkd9pe9ps",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/01/meloni-e-21-leader-ue-vertice-su-ceuta.-e-scontro-con-sanchez_dab85127-0560-4ac1-8fcb-789013fbbad4.html",
-        "https://www.lastampa.it/esteri/2026/08/02/news/confini_con_meloni_21_leader_ue_ma_macron_guida_il_fronte_del_no-15705310/",
-        "https://www.ilmessaggero.it/mondo/ceuta_migranti_europa_cosa_succede_ora-9685300.html"
       ]
     }
   ]
