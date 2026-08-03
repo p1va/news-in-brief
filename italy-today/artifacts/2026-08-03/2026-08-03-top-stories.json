@@ -1,12 +1,73 @@
 {
   "date": "2026-08-03",
-  "generated_at": "Mon 03 Aug 15:54",
+  "generated_at": "Mon 03 Aug 18:01",
   "stories": [
     {
       "rank": 1,
+      "title": "Iran, Trump: hanno chiesto di fermarci, oggi avvio negoziati",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "laverita.info",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/03/teheran-gela-trump-nessun-colloquio-in-corso-con-gli-stati-uniti_b956c58e-8584-475f-af1d-fa4176474343.html",
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-negoziati-trump-ultime-news-oggi_7ysKrtfaEWZ9JHnRyYhOoJ",
+        "https://www.adnkronos.com/internazionale/esteri/iran-trump-bombardamenti-negoziati_2dBHAomYGT6uFbxIvsx6Ko",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48769906/trump-riprendono-negoziati-con-iran-accordo-imminente-su-hormuz-e-nucleare/",
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/03/teheran-al-momento-non-sono-in-corso-negoziati-con-gli-usa_b956c58e-8584-475f-af1d-fa4176474343.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Polemica su Kiev, Schlein a Conte: “Prima il programma condiviso, poi le primarie”",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/politica/schlein_attacca_conte_programma_primarie_ucraina_cosa_e_successo-9688448.html",
+        "https://www.adnkronos.com/politica/centrosinistra-schlein-conte-primarie_6uOhg3d7KB4jALlqFwVwcI",
+        "https://www.ansa.it/sito/notizie/politica/2026/08/03/schlein-a-conte-non-funziona-cosi-prima-il-programma-poi-le-primarie_4a760fc3-c447-4c03-a9d6-d23761eb6bef.html",
+        "https://www.repubblica.it/politica/2026/08/03/news/schlein_conte_programma_primarie-425510043/",
+        "https://www.lastampa.it/politica/2026/08/03/news/polemica_su_kiev_schlein_a_conte_prima_il_programma_condiviso_poi_le_primarie-15706612/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "L’ultimo saluto a don Mazzi con “Io vagabondo”: “Continuiamo la sua opera in Exodus”",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "milano.repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/funerali-di-don-antonio-mazzi-un-lungo-applauso-accoglie-il-feretro_329e0a32-d6eb-449b-b979-bd6091088deb.html",
+        "https://milano.repubblica.it/cronaca/2026/08/03/news/funerale_don_antonio_mazzi_ragazzi_autorita_ciao_cerimonia-425509927/",
+        "https://www.adnkronos.com/cronaca/don-mazzi-folla-a-milano-per-i-funerali-testimone-di-speranza-giustizia-accoglienza_5jeFIyRHbvmOuHcX3XoI44",
+        "https://www.lastampa.it/cronaca/2026/08/03/news/don_mazzi_exodus_funerali-15706533/",
+        "https://www.liberoquotidiano.it/news/pillole/48769579/don_mazzi_marotta_ha_accompagnato_chi_e_caduto_rimettendolo_sulla_retta_via_/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Ceuta, ancora 5mila migranti in città: \"Emergenza non è finita\"",
       "source_count": 5,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
         "adnkronos.com",
         "liberoquotidiano.it",
@@ -16,14 +77,33 @@
       ],
       "links": [
         "https://www.adnkronos.com/internazionale/esteri/ceuta-migranti-spagna-marocco_7M5J018CFnyoH0QIIjnIkI",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48770250/migranti-a-ceuta-abascal-vox-attacco-alla-sovranita-sanchez-e-marocco-responsabili/",
         "https://www.liberoquotidiano.it/news/tv-news/48767370/ceuta-famiglie-al-confine-in-cerca-dei-figli/",
         "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/03/media-spagnoli-il-governo-accelera-i-rimpatri-dei-migranti-ancora-a-ceuta_daeca7b6-ac6b-4d06-80c9-90a517bc83ef.html",
-        "https://www.repubblica.it/esteri/2026/08/03/news/ceuta_allarme_bambini_migliaia_minori_arrivati_da_marocco-425508497/",
-        "https://www.lastampa.it/esteri/2026/08/03/news/ceuta_sotto_choc_comizio_vox-15705863/"
+        "https://www.repubblica.it/esteri/2026/08/03/news/ceuta_allarme_bambini_migliaia_minori_arrivati_da_marocco-425508497/"
       ]
     },
     {
-      "rank": 2,
+      "rank": 5,
+      "title": "Governatore, 6 bagnanti morti e 40 feriti per raid ucraino nel sud della Russia",
+      "source_count": 4,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/03/drone-ucraino-sulla-spiaggia-vicino-al-cosiddetto-palazzo-di-putin_3517860d-3766-486f-8cbf-8e4b891c06a5.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/03/governatore-6-bagnanti-morti-e-40-feriti-per-raid-ucraino-nel-sud-della_3517860d-3766-486f-8cbf-8e4b891c06a5.html",
+        "https://www.lastampa.it/esteri/2026/08/03/video/russia_drone_ucraino_spiaggia_mar_nero_palazzo_putin_morti-15706369/",
+        "https://www.liberoquotidiano.it/news/libero-video/48766954/ucraina-raid-russo-zaporizhzhia-morta-una-donna-21-feriti/",
+        "https://www.liberoquotidiano.it/news/tv-news/48766349/attacco-russo-con-bombe-plananti-due-morti-a-zaporizhia/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Ariana Grande si ritira dagli eventi pubblici: «Troppi giudizi sul mio corpo». L'esigenza di sparire dai riflettori e il musical saltato a Londra",
       "source_count": 5,
       "article_count": 5,
@@ -43,44 +123,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Ceuta, i migranti tra tragedia e ricatto: perché ci stiamo allontanando dalla soluzione",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/nl/apericena/ceuta_migranti_tragedia_ricatto_soluzione-9688131.html",
-        "https://www.adnkronos.com/internazionale/esteri/ceuta-cosa-successo-veramente_5Dkn3ZRqJerpIacMArhpDK",
-        "https://www.repubblica.it/politica/rubriche/spin-off/2026/08/03/news/ceuta_schengen_fabbrica_emergenza_migranti-425509048/",
-        "https://www.repubblica.it/commenti/2026/08/03/news/gli_sciacalli_di_ceuta_che_lucrano_sulla_paura-425508478/",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/08/03/news/ceuta_ultimo_appello_per_l_europa_sull_immigrazione-15705937/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Carta d’identità, ora per l’espatrio non basta più la cartacea: serve la Cie. Ma c’è la scappatoia",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/economia/2026/08/03/news/carta_identita_espatrio_serve_cie_scappatoia-425509846/",
-        "https://www.ansa.it/sito/notizie/economia/2026/08/03/da-oggi-la-carta-didentita-cartacea-non-e-piu-valida-per-espatrio_99359be0-f8d3-4183-b00e-85b6514883f5.html",
-        "https://www.ilmessaggero.it/economia/news/documenti_identita_carta_espatrio_viaggi_cosa_fare-9687764.html",
-        "https://www.ilsole24ore.com/art/carta-d-identita-cartacea-non-piu-valida-l-espatrio-cosi-interviene-documento-provvisorio-AJL5b2c"
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "title": "Pelati, quarta medaglia agli Europei di nuoto artistico: è argento nel solo libero",
       "source_count": 4,
       "article_count": 4,
@@ -98,7 +141,43 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
+      "title": "Perché Alcaraz si allena con un cono sull’occhio: “È una tecnica scientifica, non una bizzarria”. La spiegazione",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/sport/48768689/carlos-alcaraz-si-allena-bendato-video-stupisce-mondo/",
+        "https://www.ilfattoquotidiano.it/2026/08/03/alcaraz-cono-occhio-perche-si-allena-sport-vision-training-notizie/8468477/",
+        "https://www.adnkronos.com/sport/alcaraz-ritorno-campo-bendato-perche-carlos-si-allena-cono-occhio_1ue7gudMN4vobGGYZzAGYc",
+        "https://www.repubblica.it/sport/tennis/2026/08/03/news/alcaraz_allenamento_bendato_atp_cincinnati-425508853/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Caldo record, oggi 25 città da bollino rosso tra rischio siccità e incendi: quali sono e quando arriverà la tregua. Temporali attesi in tre regioni",
+      "source_count": 3,
+      "article_count": 5,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/schede/temporali_agosto_dove_quando_regioni_previsioni_meteo_fresco-9688302.html",
+        "https://www.ilmessaggero.it/schede/previsioni_meteo_giuliacci_caldo_quando_finisce_cupole_calore_ultime_notizie-9688246.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/il-caldo-non-molla-ancora-25-citta-col-bollino-rosso-domani-e-mercoledi_8ba0ad6f-b126-4bac-af3c-1fbda8adf996.html",
+        "https://www.ilmessaggero.it/schede/caldo_record_quanto_dura_bollino_rosso_citta_dove_roma_milano_napoli_firenze-9687854.html",
+        "https://www.repubblica.it/cronaca/2026/08/03/news/caldo_quarta_ondata_oggi_temperature-425508814/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Uomo ucciso a coltellate in provincia di Cremona, un fermato",
       "source_count": 3,
       "article_count": 5,
@@ -113,76 +192,6 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/uomo-ucciso-a-coltellate-durante-una-rissa-in-provincia-di-cremona_7d315570-9a96-48d6-8a0a-3f1584e82c4c.html",
         "https://www.ilmessaggero.it/italia/ucciso_coltellate_cremona-9687876.html",
         "https://www.ilmessaggero.it/italia/ucciso_coltellate_cremona_rissa_cosa_e_successo-9687876.html"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Infantino, l’Uefa: “Non toccate i documenti”. Il Galles ritira il sostegno al numero uno Fifa",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ansa.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/03/infantino-fifa-elezioni-uefa-caos-guerra-galles-inghilterra-minaccia-azioni-legali/8468336/",
-        "https://www.repubblica.it/sport/calcio/2026/08/03/news/infantino_galles_ritira_sostegno_fifa-425509419/",
-        "https://www.ansa.it/sito/notizie/sport/2026/08/03/apertura-ai-privati-naufragata-ma-la-uefa-minaccia-azioni-legali-contro-infantino_22521292-0046-4cd3-8e1b-5d4f4ec0d97d.html",
-        "https://www.adnkronos.com/sport/la-uefa-minaccia-la-fifa-di-azioni-legali-e-pensa-ad-al-khelaifi-come-successore-di-infantino_3MYVB8IWCXK1Bi7NcdvMfO"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Ceuta, il ministro spagnolo Albares contro l'Italia: «Anche il suo governo non all'altezza sui migranti»",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/03/ceuta-madrid-attacca-litalia-governo-non-allaltezza-sui-migranti_daeca7b6-ac6b-4d06-80c9-90a517bc83ef.html",
-        "https://www.ilmessaggero.it/mondo/ceuta_migranti_spagna_contro_italia_ministro_estero_cosa_ha_detto-9688041.html",
-        "https://www.repubblica.it/esteri/2026/08/03/news/spagna_ministro_albares_attacca_italia_sui_migranti_governo_non_in_grado_gestire_arrivi_noi_si-425509172/",
-        "https://www.lastampa.it/esteri/2026/08/03/news/migranti_albares_attacco_italia_gestione-15706319/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Italia nella morsa del caldo, oggi 25 le città in rosso. Allerta gialla per il maltempo al Sud",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/03/il-caldo-non-molla-ancora-25-citta-col-bollino-rosso-domani-e-mercoledi_8ba0ad6f-b126-4bac-af3c-1fbda8adf996.html",
-        "https://www.ilmessaggero.it/schede/caldo_record_quanto_dura_bollino_rosso_citta_dove_roma_milano_napoli_firenze-9687854.html",
-        "https://www.repubblica.it/cronaca/2026/08/03/news/caldo_quarta_ondata_oggi_temperature-425508814/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/02/caldo-allapice-e-nessuna-tregua-per-almeno-una-settimana_bf3d59f4-f811-43e9-b012-6e359e6fb0c4.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Iran, Trump: hanno chiesto di fermarci, oggi avvio negoziati",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "laverita.info",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/03/teheran-al-momento-non-sono-in-corso-negoziati-con-gli-usa_b956c58e-8584-475f-af1d-fa4176474343.html",
-        "https://www.laverita.info/video/trump-iran-negoziati",
-        "https://www.liberoquotidiano.it/news/tv-news/48765953/iran-al-momento-nessun-negoziato-con-gli-stati-uniti/",
-        "https://www.liberoquotidiano.it/news/tv-news/48765785/iran-trump-hanno-chiesto-di-fermarci-oggi-avvio-negoziati/"
       ]
     }
   ]
