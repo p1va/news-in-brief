@@ -1,6 +1,6 @@
 {
   "date": "2026-08-04",
-  "generated_at": "Tue 04 Aug 18:49",
+  "generated_at": "Tue 04 Aug 19:54",
   "stories": [
     {
       "rank": 1,
@@ -53,10 +53,10 @@
       "rank": 3,
       "title": "Caro carburanti, il Cdm proroga il taglio delle accise sul gasolio: sconto di 17 centesimi fino al 25 agosto",
       "source_count": 7,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
-        "governo.it",
         "ansa.it",
+        "governo.it",
         "adnkronos.com",
         "repubblica.it",
         "lastampa.it",
@@ -64,37 +64,15 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/08/04/carburanti-lo-sconto-di-17-centesimi-sul-gasolio-prorogato-al-25-agosto_195e36ce-3ce9-44be-8641-49c1644c43a4.html",
         "https://www.governo.it/it/articolo/consiglio-dei-ministri-n185-dichiarazione-del-presidente-meloni/32462",
         "https://www.ansa.it/sito/notizie/politica/2026/08/04/il-cdm-approva-un-nuovo-taglio-delle-accise-sul-gasolio-fino-al-25-agosto_195e36ce-3ce9-44be-8641-49c1644c43a4.html",
         "https://www.adnkronos.com/politica/taglio-accise-carburanti-gasolio-proroga-25-agosto_42XAI1OZfEIpMM418cEEaM",
-        "https://www.repubblica.it/economia/2026/08/04/news/cdm_proroga_taglio_accise_gasolio_fino_25_agosto-425512043/",
-        "https://www.lastampa.it/economia/2026/08/04/news/caro_carburanti_il_cdm_proroga_il_taglio_delle_accise_sul_gasolio_sconto_di_17_centesimi_fino_al_25_agosto-15707460/"
+        "https://www.repubblica.it/economia/2026/08/04/news/cdm_proroga_taglio_accise_gasolio_fino_25_agosto-425512043/"
       ]
     },
     {
       "rank": 4,
-      "title": "Trump su negoziati con l'Iran: Voglio dargli un ultima chance prima della decapitazione",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "laverita.info",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.laverita.info/video/trump-iran-ultima-chance",
-        "https://www.liberoquotidiano.it/news/libero-video/48775104/trump-annuncia-nuovi-negoziati-con-l-iran-e-la-loro-ultima-chance-/",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/03/medio-oriente-lliran-gela-gli-usa-nessun-colloquio-previsto_b956c58e-8584-475f-af1d-fa4176474343.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48775247/trump-su-negoziati-con-l-iran-voglio-dargli-un-ultima-chance-prima-della-decapitazione/",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-news-oggi-4-agosto-2026_PqzwwemPp7zJPrGLhw8P2"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Caldo, giovedì bollino rosso per 27 città",
       "source_count": 5,
       "article_count": 9,
@@ -114,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "\"C’è solo un capitano\", i cori dei tifosi accolgono il feretro di Franco Baresi in Sant’Ambrogio",
       "source_count": 5,
       "article_count": 9,
@@ -131,6 +109,27 @@
         "https://www.liberoquotidiano.it/news/sport/48775517/franco-baresi-funerali-mozzafiato-maldini-lacrime-applauso-infinito-fischi-cardinale/",
         "https://www.ilmessaggero.it/sport/schede/funerali_baresi_chi_c_era_maldini_van_basten_baggio_costacurta_assente_ibrahimovic-9689834.html",
         "https://www.ilfattoquotidiano.it/2026/08/04/funerali-baresi-fischi-scaroni-cardinale-video/8469338/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Naziskin provano ad attaccare hotel che ospita ragazzi ebrei italiani a Sofia, l'assalto al grido di «Sieg Heil». Tajani: solidarietà",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/aggressione-antisemita-gruppo-naziskin-sofia-bulgaria_7FMJENRVbm0fNVEvBUNCX2",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/04/a-sofia-naziskin-tentano-assalto-a-hotel-con-giovani-ebrei-italiani_795f6d5a-c6fd-4d12-9124-d5d26ea17a1c.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48778033/bulgaria-minacce-naziskin-contro-adolescenti-ebrei-italiani-in-hotel/",
+        "https://www.adnkronos.com/cronaca/naziskin-assaltano-a-sofia-albergo-che-ospita-adolescenti-italiani-ebrei-insulti-e-minacce_7FEwdsEDkmwNv8hWhL5pne",
+        "https://www.ilmessaggero.it/mondo/assalto_naziskin_hotel_ebrei_italiani_sofia_bulgaria_cosa_e_successo-9689970.html"
       ]
     },
     {
@@ -155,23 +154,22 @@
     },
     {
       "rank": 8,
-      "title": "Naziskin provano ad attaccare hotel che ospita ragazzi ebrei italiani a Sofia, l'assalto al grido di «Sieg Heil». Tajani: solidarietà",
-      "source_count": 6,
+      "title": "Trump su negoziati con l'Iran: Voglio dargli un ultima chance prima della decapitazione",
+      "source_count": 5,
       "article_count": 7,
       "source_domains": [
-        "ansa.it",
+        "laverita.info",
         "liberoquotidiano.it",
-        "adnkronos.com",
+        "ansa.it",
         "ilmessaggero.it",
-        "ilfattoquotidiano.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/04/a-sofia-naziskin-tentano-assalto-a-hotel-con-giovani-ebrei-italiani_795f6d5a-c6fd-4d12-9124-d5d26ea17a1c.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48778033/bulgaria-minacce-naziskin-contro-adolescenti-ebrei-italiani-in-hotel/",
-        "https://www.adnkronos.com/cronaca/naziskin-assaltano-a-sofia-albergo-che-ospita-adolescenti-italiani-ebrei-insulti-e-minacce_7FEwdsEDkmwNv8hWhL5pne",
-        "https://www.ilmessaggero.it/mondo/assalto_naziskin_hotel_ebrei_italiani_sofia_bulgaria_cosa_e_successo-9689970.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48776139/sofia-nazisti-assaltano-hotel-giovani-ebrei-italiani-video-choc/"
+        "https://www.laverita.info/video/trump-iran-ultima-chance",
+        "https://www.liberoquotidiano.it/news/libero-video/48775104/trump-annuncia-nuovi-negoziati-con-l-iran-e-la-loro-ultima-chance-/",
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/03/medio-oriente-lliran-gela-gli-usa-nessun-colloquio-previsto_b956c58e-8584-475f-af1d-fa4176474343.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48775247/trump-su-negoziati-con-l-iran-voglio-dargli-un-ultima-chance-prima-della-decapitazione/",
+        "https://www.liberoquotidiano.it/news/tv-news/48774716/trump-ultima-chance-per-buon-accordo-iran-prima-della-decapitazione/"
       ]
     },
     {
@@ -196,22 +194,22 @@
     },
     {
       "rank": 10,
-      "title": "Tensione nel campo largo, Schlein stoppa Conte sulle primarie",
+      "title": "Jannik Sinner in clinica a Milano per controlli ortopedici",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "laverita.info",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ansa.it"
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.laverita.info/sinistra-a-pezzi/programma-sinistra-schlein-stoppa-conte",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48777407/donzelli-maggioranza-piu-unita-dell-opposizione-tra-conte-e-schlein-volano-stracci/",
-        "https://www.lastampa.it/politica/2026/08/04/news/schlein_stoppa_conte_prima_il_programma_poi_faremo_le_primarie-15706760/",
-        "https://www.ilmessaggero.it/politica/schlein_conteo_ucraina_primarie_programma_come_funzionano-9688613.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/03/schlein-a-conte-non-funziona-cosi-prima-il-programma-poi-le-primarie_4a760fc3-c447-4c03-a9d6-d23761eb6bef.html"
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/04/nuovi-controlli-per-sinner-a-milano-da-un-fisioterapista_c97c4a4b-bbc8-4f71-a0c0-0a126469c89b.html",
+        "https://www.ilfattoquotidiano.it/2026/08/04/sinner-controlli-medici-milano-fastidio-ginocchio-come-sta/8469758/",
+        "https://www.adnkronos.com/sport/sinner-mattinata-controlli-medici-milano-cosa-e-successo_3vuXLdxGtG63XL5qBUhc60",
+        "https://www.repubblica.it/sport/tennis/2026/08/04/news/jannik_sinner_esami_clinici_come_sta-425511623/",
+        "https://www.liberoquotidiano.it/news/sport/48776816/jannik-sinner-paura-prima-us-open-ancora-ospedale/"
       ]
     }
   ]
