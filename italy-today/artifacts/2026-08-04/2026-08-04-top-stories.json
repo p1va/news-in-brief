@@ -1,9 +1,71 @@
 {
   "date": "2026-08-04",
-  "generated_at": "Tue 04 Aug 08:50",
+  "generated_at": "Tue 04 Aug 11:33",
   "stories": [
     {
       "rank": 1,
+      "title": "Funerali di Franco Baresi, l’ultimo saluto al campione rossonero: centinaia di tifosi in piazza",
+      "source_count": 7,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "milano.repubblica.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/photogallery/primopiano/2026/08/04/foto-addio-a-franco-baresi-il-feretro-nella-basilica-tra-gli-applausi_5ddb7cc0-f58f-4bc2-a894-d31b96d3712e.html",
+        "https://www.ilfattoquotidiano.it/2026/08/04/funerale-franco-baresi-feretro-santambrogio-uscita-video/8469477/",
+        "https://www.ilfattoquotidiano.it/2026/08/04/funerali-baresi-fischi-scaroni-cardinale-video/8469338/",
+        "https://www.ilfattoquotidiano.it/2026/08/04/funerali-baresi-santambrogio-milano-notizie/8469313/",
+        "https://www.lastampa.it/sport/2026/08/04/video/franco_baresi_funerali_fischi_arrivo_cardinale_scaroni-15707113/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Ritrovato nel lago di Vico il corpo del marito della ministra Roccella",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/04/luigi-cavallari-ritrovato-lago-vico-notizie/8469560/",
+        "https://www.adnkronos.com/cronaca/marito-roccella-ritrovato-il-corpo-nel-lago-di-vico_5GDWMGCrrIuKlWbJLZeYnW",
+        "https://www.ansa.it/sito/notizie/flash/2026/08/04/individuato-il-corpo-del-marito-di-roccella-nel-lago-di-vico_28432d70-7630-4618-b50a-a621a5654685.html",
+        "https://www.ilmessaggero.it/viterbo/marito_roccella_corpo_ritrovato_luigi_cavallari-9689925.html",
+        "https://www.lastampa.it/cronaca/2026/08/04/news/marito_ministra_roccella_corpo_ritrovato-15707123/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Scossa di terremoto avvertita tra Lucca, Pisa e Massa Carrara",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/04/scossa-di-terremoto-avvertita-tra-lucca-pisa-e-massa-carrara_0c2bc1bb-142d-4f4d-b700-7125161f4236.html",
+        "https://www.ansa.it/sito/notizie/flash/2026/08/04/-scossa-di-terremoto-avvertita-tra-lucca-pisa-e-massa-carrara-_5ee1dab3-fc69-485e-a1f1-9843823254fd.html",
+        "https://www.ilmessaggero.it/italia/terremoto_pisa_toscana_oggi_4_agosto_magnitudo-9689744.html",
+        "https://www.ilmessaggero.it/italia/terremoto_pisa_toscana_oggi_4_agosto_magnitudo_treni_ritardi-9689744.html",
+        "https://www.lastampa.it/cronaca/2026/08/04/news/terremoto_toscana_epicentro_vicino_pisa-15707037/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Caro-benzina, la nuova sfida del governo: servono 250 milioni per gli sconti",
       "source_count": 4,
       "article_count": 4,
@@ -21,25 +83,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Funerali di Franco Baresi, l’ultimo saluto al campione rossonero: centinaia di tifosi in piazza",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "milano.repubblica.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/08/04/ciao-capitano-leggenda-immortale-la-curva-sud-al-funerale-di-franco-baresi_abf6bba8-0534-43d8-be60-c1f5db19583d.html",
-        "https://www.adnkronos.com/sport/baresi-oggi-funerali-milano-diretta_14Zm9G9Imx59OQNGamRaII",
-        "https://milano.repubblica.it/cronaca/2026/08/04/diretta/funerali_franco_baresi_oggi_milan-425510914/",
-        "https://www.agi.it/cronaca/news/2026-08-04/baresi-funerali-milano-38371100/"
-      ]
-    },
-    {
-      "rank": 3,
+      "rank": 5,
       "title": "Guerra in Iran, le news di oggi. Trump: “Colloqui in corso, ultima occasione per Teheran di siglare un buon accordo”. Mercantile colpito nello stretto di Hormuz",
       "source_count": 4,
       "article_count": 4,
@@ -57,7 +101,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Caldo record, Ferragosto capo d'inverno? Gli scenari. Picco di bollini rossi, ma la tregua si avvicina: ecco quando arriva",
       "source_count": 3,
       "article_count": 5,
@@ -75,7 +119,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Don Ciotti \"Con Exodus don Mazzi ha testimoniato speranza e accoglienza\"",
       "source_count": 2,
       "article_count": 6,
@@ -92,23 +136,24 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Scossa di terremoto di magnitudo 4,3 avvertita tra Lucca, Pisa e Massa Carrara",
+      "rank": 8,
+      "title": "Trump su negoziati con l'Iran: Voglio dargli un ultima chance prima della decapitazione",
       "source_count": 3,
-      "article_count": 3,
+      "article_count": 4,
       "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
+        "laverita.info",
+        "liberoquotidiano.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/flash/2026/08/04/-scossa-di-terremoto-avvertita-tra-lucca-pisa-e-massa-carrara-_5ee1dab3-fc69-485e-a1f1-9843823254fd.html",
-        "https://www.ilmessaggero.it/italia/terremoto_pisa_toscana_oggi_4_agosto_magnitudo-9689744.html",
-        "https://www.ilsole24ore.com/art/scossa-terremoto-magnitudo-43-avvertita-lucca-pisa-e-massa-carrara-AJ7WUOe"
+        "https://www.laverita.info/video/trump-iran-ultima-chance",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48775247/trump-su-negoziati-con-l-iran-voglio-dargli-un-ultima-chance-prima-della-decapitazione/",
+        "https://www.liberoquotidiano.it/news/tv-news/48774716/trump-ultima-chance-per-buon-accordo-iran-prima-della-decapitazione/",
+        "https://www.lastampa.it/esteri/2026/08/04/diretta/guerra_iran_usa_israele_news_oggi-15706789/"
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Phil Collins: «Bevevo vino appena sveglio, tutti erano convinti che non mi avrebbero più rivisto». La battaglia contro l'alcol dell'ex Genesis",
       "source_count": 3,
       "article_count": 3,
@@ -124,51 +169,19 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "“Voleva ammazzare anche me”: parla l’ex di Mirko Bertellini che a Somma ha travolto e ucciso Federico Venco",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/04/voleva-ammazzare-anche-me-parla-lex-di-mirko-bertellini-che-a-somma-ha-travolto-e-ucciso-federico-venco/8469161/",
-        "https://www.lastampa.it/cronaca/2026/08/04/news/varese_ex_bertellini_testimonianza_codice_rosso-15706977/",
-        "https://www.ilmessaggero.it/persone/federico_venco_chi_e_l_uomo_che_lo_ha_ucciso_mirko_bertellini-9687943.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Schlein stoppa Conte: “Prima il programma poi faremo le primarie”",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/politica/2026/08/04/news/schlein_stoppa_conte_prima_il_programma_poi_faremo_le_primarie-15706760/",
-        "https://www.ilmessaggero.it/politica/schlein_conteo_ucraina_primarie_programma_come_funzionano-9688613.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/03/schlein-a-conte-non-funziona-cosi-prima-il-programma-poi-le-primarie_4a760fc3-c447-4c03-a9d6-d23761eb6bef.html"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Arezzo, uccise la figlia di 4 anni: Billal Miah fuggito dalla struttura psichiatrica. Valutata la sua pericolosità sociale",
+      "title": "Morti in mare 17 migranti: tentavano di raggiungere le Baleari",
       "source_count": 3,
       "article_count": 3,
       "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "laverita.info"
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.adnkronos.com/cronaca/arezzo-scomparso-uomo-omicidio-figlia-4-anni_4OqQ5hhYviDuFse7qq6oYA",
-        "https://www.ilmessaggero.it/persone/billal_miah_figlia_uccisa_chi_e_fuggito_clinica_pischiatrica_arezzo_ricerche-9689730.html",
-        "https://www.laverita.info/cronache-dellinvasione/immigrati-sicurezza"
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/04/baleari-alla-deriva-ii-corpi-di-17-persone-che-tentavano-di-raggiungerle_9815c4c3-62cb-4ebe-829a-43a4af185c23.html",
+        "https://www.repubblica.it/esteri/2026/08/04/news/migranti_morti_baleari_vertice_ue_ceuta_crisi_migratoria-425511099/",
+        "https://www.lastampa.it/esteri/2026/08/04/news/solo_due_sopravvissuti_al_largo_di_maiorca_dopo_15_giorni_in_mare-15706984/"
       ]
     }
   ]
