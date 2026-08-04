@@ -1,12 +1,12 @@
 {
   "date": "2026-08-04",
-  "generated_at": "Tue 04 Aug 17:01",
+  "generated_at": "Tue 04 Aug 18:49",
   "stories": [
     {
       "rank": 1,
       "title": "Migliaia di tifosi ai funerali di Baresi: \"Ciao Capitano\"",
       "source_count": 7,
-      "article_count": 31,
+      "article_count": 36,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -18,18 +18,19 @@
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/04/folla-per-lultimo-saluto-a-franco-baresi-gesu-ama-i-piscinin_abf6bba8-0534-43d8-be60-c1f5db19583d.html",
-        "https://www.liberoquotidiano.it/news/pillole/48778287/_c_e_solo_un_capitano_il_feretro_di_baresi_esce_da_sant_ambrogio/",
-        "https://www.ansa.it/sito/notizie/sport/2026/08/04/a-milano-il-funerale-di-franco-baresi_abf6bba8-0534-43d8-be60-c1f5db19583d.html",
-        "https://www.ansa.it/sito/videogallery/calcio/2026/08/04/funerali-baresi-il-ricordo-di-ex-compagni-e-istituzioni-era-un-padre-unicona-del-calcio_4c7f63da-2400-469c-afc8-917a28bcde5f.html",
-        "https://www.laverita.info/video/funerali-baresi"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48780876/marotta-ricorda-baresi-uomo-con-grande-senso-di-appartenenza-esempio-per-nostri-giovani-calciatori/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48780878/dida-ricorda-baresi-uomo-di-poche-parole-ma-un-privilegio-essergli-stato-accanto/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48781076/dida-baresi-era-una-persona-incredibile/",
+        "https://www.liberoquotidiano.it/news/pillole/48778287/_c_e_solo_un_capitano_il_feretro_di_baresi_esce_da_sant_ambrogio/"
       ]
     },
     {
       "rank": 2,
       "title": "Individuato il corpo del marito di Roccella nel lago di Vico",
-      "source_count": 9,
-      "article_count": 10,
+      "source_count": 10,
+      "article_count": 12,
       "source_domains": [
+        "laverita.info",
         "ansa.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
@@ -41,15 +42,37 @@
         "agi.it"
       ],
       "links": [
+        "https://www.laverita.info/video/ritrovato-corpo-marito-roccella",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/04/recuperato-il-corpo-del-marito-della-ministra-roccella-nel-lago-di-vico_cba6285c-f8bc-4779-afba-5887fab9ad80.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/04/individuato-il-corpo-del-marito-di-roccella-nel-lago-di-vico_cba6285c-f8bc-4779-afba-5887fab9ad80.html",
         "https://www.ilfattoquotidiano.it/2026/08/04/luigi-cavallari-ritrovato-lago-vico-notizie/8469560/",
-        "https://www.adnkronos.com/cronaca/marito-roccella-ritrovato-il-corpo-nel-lago-di-vico_5GDWMGCrrIuKlWbJLZeYnW",
-        "https://www.ansa.it/sito/notizie/flash/2026/08/04/individuato-il-corpo-del-marito-di-roccella-nel-lago-di-vico_28432d70-7630-4618-b50a-a621a5654685.html",
-        "https://www.liberoquotidiano.it/news/italia/48776137/eugenia-roccella-37-giorni-dopo-ritrovato-cadavere-marito/"
+        "https://www.adnkronos.com/cronaca/marito-roccella-ritrovato-il-corpo-nel-lago-di-vico_5GDWMGCrrIuKlWbJLZeYnW"
       ]
     },
     {
       "rank": 3,
+      "title": "Caro carburanti, il Cdm proroga il taglio delle accise sul gasolio: sconto di 17 centesimi fino al 25 agosto",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "governo.it",
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "ilmanifesto.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.governo.it/it/articolo/consiglio-dei-ministri-n185-dichiarazione-del-presidente-meloni/32462",
+        "https://www.ansa.it/sito/notizie/politica/2026/08/04/il-cdm-approva-un-nuovo-taglio-delle-accise-sul-gasolio-fino-al-25-agosto_195e36ce-3ce9-44be-8641-49c1644c43a4.html",
+        "https://www.adnkronos.com/politica/taglio-accise-carburanti-gasolio-proroga-25-agosto_42XAI1OZfEIpMM418cEEaM",
+        "https://www.repubblica.it/economia/2026/08/04/news/cdm_proroga_taglio_accise_gasolio_fino_25_agosto-425512043/",
+        "https://www.lastampa.it/economia/2026/08/04/news/caro_carburanti_il_cdm_proroga_il_taglio_delle_accise_sul_gasolio_sconto_di_17_centesimi_fino_al_25_agosto-15707460/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Trump su negoziati con l'Iran: Voglio dargli un ultima chance prima della decapitazione",
       "source_count": 7,
       "article_count": 9,
@@ -71,10 +94,30 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Caldo, giovedì bollino rosso per 27 città",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/04/caldo-record-con-27-citta-da-bollino-rosso-ancora-morti_e8e5ac9a-3aae-4048-bd10-537bd2654d36.html",
+        "https://www.adnkronos.com/cronaca/caldo-roma-quarta-ondata-quanto-durera-ferragosto_68Jid0U6yy7Wrm5Akr3Q2o",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/04/record-per-il-caldo-giovedi-bollino-rosso-per-27-citta-su-27-monitorate_e8e5ac9a-3aae-4048-bd10-537bd2654d36.html",
+        "https://www.repubblica.it/cronaca/2026/08/04/news/caldo_bollino_rosso_giovedi_27_citta-425511663/",
+        "https://www.ilmessaggero.it/schede/caldo_record_alpi_appennini_sgretolati_fenomeno_zero_termico_frane_rischi-9689896.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "\"C’è solo un capitano\", i cori dei tifosi accolgono il feretro di Franco Baresi in Sant’Ambrogio",
       "source_count": 5,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
@@ -83,15 +126,35 @@
         "agi.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/04/funerali-franco-baresi-milano-notizie/8470006/",
         "https://www.ilfattoquotidiano.it/2026/08/04/funerale-franco-baresi-feretro-santambrogio-uscita-video/8469477/",
         "https://www.liberoquotidiano.it/news/sport/48775517/franco-baresi-funerali-mozzafiato-maldini-lacrime-applauso-infinito-fischi-cardinale/",
         "https://www.ilmessaggero.it/sport/schede/funerali_baresi_chi_c_era_maldini_van_basten_baggio_costacurta_assente_ibrahimovic-9689834.html",
-        "https://www.ilfattoquotidiano.it/2026/08/04/funerali-baresi-fischi-scaroni-cardinale-video/8469338/",
-        "https://www.ilfattoquotidiano.it/2026/08/04/funerali-baresi-santambrogio-milano-notizie/8469313/"
+        "https://www.ilfattoquotidiano.it/2026/08/04/funerali-baresi-fischi-scaroni-cardinale-video/8469338/"
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "title": "Scossa di terremoto avvertita tra Lucca, Pisa e Massa Carrara",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "laverita.info",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/04/un-terremoto-4.3-spaventa-pisa-nessun-timore-per-la-torre-pendente_0c2bc1bb-142d-4f4d-b700-7125161f4236.html",
+        "https://www.laverita.info/video/terremoto-pisa",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/04/scossa-di-terremoto-avvertita-tra-lucca-pisa-e-massa-carrara_0c2bc1bb-142d-4f4d-b700-7125161f4236.html",
+        "https://www.ansa.it/sito/notizie/flash/2026/08/04/-scossa-di-terremoto-avvertita-tra-lucca-pisa-e-massa-carrara-_5ee1dab3-fc69-485e-a1f1-9843823254fd.html",
+        "https://www.ilmessaggero.it/italia/terremoto_pisa_toscana_oggi_4_agosto_magnitudo-9689744.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Naziskin provano ad attaccare hotel che ospita ragazzi ebrei italiani a Sofia, l'assalto al grido di «Sieg Heil». Tajani: solidarietà",
       "source_count": 6,
       "article_count": 7,
@@ -112,102 +175,43 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Scossa di terremoto avvertita tra Lucca, Pisa e Massa Carrara",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "laverita.info",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/video/terremoto-pisa",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/04/scossa-di-terremoto-avvertita-tra-lucca-pisa-e-massa-carrara_0c2bc1bb-142d-4f4d-b700-7125161f4236.html",
-        "https://www.ansa.it/sito/notizie/flash/2026/08/04/-scossa-di-terremoto-avvertita-tra-lucca-pisa-e-massa-carrara-_5ee1dab3-fc69-485e-a1f1-9843823254fd.html",
-        "https://www.ilmessaggero.it/italia/terremoto_pisa_toscana_oggi_4_agosto_magnitudo-9689744.html",
-        "https://www.ilmessaggero.it/italia/terremoto_pisa_toscana_oggi_4_agosto_magnitudo_treni_ritardi-9689744.html"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Tensione nel campo largo, Schlein stoppa Conte sulle primarie",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "laverita.info",
-        "liberoquotidiano.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/08/04/conteoggi-pranzo-con-schlein-posizione-m5s-resta-ma-rispetto-per-quella_53d4baa1-03dc-42d4-87c1-daa4dee1da5d.html",
-        "https://www.lastampa.it/politica/2026/08/04/news/conte_schlein_disgelo_pranzo_insieme_dialettica_rispetto_reciproco-15707382/",
-        "https://www.laverita.info/sinistra-a-pezzi/programma-sinistra-schlein-stoppa-conte",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48777407/donzelli-maggioranza-piu-unita-dell-opposizione-tra-conte-e-schlein-volano-stracci/",
-        "https://www.lastampa.it/politica/2026/08/04/news/schlein_stoppa_conte_prima_il_programma_poi_faremo_le_primarie-15706760/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Caldo record con 27 città da bollino rosso, ancora morti",
-      "source_count": 4,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/04/caldo-record-con-27-citta-da-bollino-rosso-ancora-morti_e8e5ac9a-3aae-4048-bd10-537bd2654d36.html",
-        "https://www.adnkronos.com/cronaca/caldo-roma-quarta-ondata-quanto-durera-ferragosto_68Jid0U6yy7Wrm5Akr3Q2o",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/04/record-per-il-caldo-giovedi-bollino-rosso-per-27-citta-su-27-monitorate_e8e5ac9a-3aae-4048-bd10-537bd2654d36.html",
-        "https://www.ilmessaggero.it/schede/caldo_record_alpi_appennini_sgretolati_fenomeno_zero_termico_frane_rischi-9689896.html",
-        "https://www.adnkronos.com/cronaca/caldo-africano-record-italia-quando-finisce-previsioni_1funNvQ9SLsDyIQp4kA2FC"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Sconto carburanti, nodo risorse. Insufficiente l’extragettito Iva",
+      "title": "Prove di disgelo tra Conte e Schlein: pranzo per chiarirsi. Il 5S: “Dialettica resta, ma rispetto”",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "adnkronos.com",
-        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
         "repubblica.it",
-        "ilmanifesto.it",
-        "ilsole24ore.com"
+        "ansa.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.adnkronos.com/economia/caro-benzina-governo-taglio-accise-bonus-100-euro_6UbbLm9RfBplbGHu1JptX6",
-        "https://www.lastampa.it/economia/2026/08/04/news/caro_benzina_governo_servono_250_milioni-15706739/",
-        "https://www.repubblica.it/economia/2026/08/04/news/sconto_carburanti_nodo_risorse_insufficiente_extragettito_iva-425510544/",
-        "https://ilmanifesto.it/carburanti-lo-sconto-e-gia-finito-lesecutivo-a-caccia-di-risorse",
-        "https://www.ilsole24ore.com/art/carburanti-prezzi-ancora-su-un-nuovo-giro-accise-mobili-AJVVi1b"
+        "https://www.ilfattoquotidiano.it/2026/08/04/campo-largo-conte-schlein-primarie-notizie/8470005/",
+        "https://www.ilmessaggero.it/politica/conte_schlein_pranzo_roma_insieme_ucraina_primarie_cosa_e_successo-9690306.html",
+        "https://www.repubblica.it/politica/2026/08/04/news/campo_largo_conte_schlein_pranzo_ucraina_primarie-425511967/",
+        "https://www.ansa.it/sito/notizie/politica/2026/08/04/conteoggi-pranzo-con-schlein-posizione-m5s-resta-ma-rispetto-per-quella_53d4baa1-03dc-42d4-87c1-daa4dee1da5d.html",
+        "https://www.lastampa.it/politica/2026/08/04/news/conte_schlein_disgelo_pranzo_insieme_dialettica_rispetto_reciproco-15707382/"
       ]
     },
     {
       "rank": 10,
-      "title": "Jannik Sinner in clinica a Milano per controlli ortopedici",
+      "title": "Tensione nel campo largo, Schlein stoppa Conte sulle primarie",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "liberoquotidiano.it"
+        "laverita.info",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/04/nuovi-controlli-per-sinner-a-milano-da-un-fisioterapista_c97c4a4b-bbc8-4f71-a0c0-0a126469c89b.html",
-        "https://www.ilfattoquotidiano.it/2026/08/04/sinner-controlli-medici-milano-fastidio-ginocchio-come-sta/8469758/",
-        "https://www.adnkronos.com/sport/sinner-mattinata-controlli-medici-milano-cosa-e-successo_3vuXLdxGtG63XL5qBUhc60",
-        "https://www.repubblica.it/sport/tennis/2026/08/04/news/jannik_sinner_esami_clinici_come_sta-425511623/",
-        "https://www.liberoquotidiano.it/news/sport/48776816/jannik-sinner-paura-prima-us-open-ancora-ospedale/"
+        "https://www.laverita.info/sinistra-a-pezzi/programma-sinistra-schlein-stoppa-conte",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48777407/donzelli-maggioranza-piu-unita-dell-opposizione-tra-conte-e-schlein-volano-stracci/",
+        "https://www.lastampa.it/politica/2026/08/04/news/schlein_stoppa_conte_prima_il_programma_poi_faremo_le_primarie-15706760/",
+        "https://www.ilmessaggero.it/politica/schlein_conteo_ucraina_primarie_programma_come_funzionano-9688613.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/08/03/schlein-a-conte-non-funziona-cosi-prima-il-programma-poi-le-primarie_4a760fc3-c447-4c03-a9d6-d23761eb6bef.html"
       ]
     }
   ]
