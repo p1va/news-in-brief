@@ -1,50 +1,93 @@
 {
   "date": "2026-08-05",
-  "generated_at": "Wed 05 Aug 11:28",
+  "generated_at": "Wed 05 Aug 14:24",
   "stories": [
     {
       "rank": 1,
       "title": "Clausola Ue, l’Italia chiede il massimo per l’energia e lo 0,9% per le spese militri",
-      "source_count": 6,
-      "article_count": 8,
+      "source_count": 7,
+      "article_count": 9,
       "source_domains": [
-        "ilmessaggero.it",
-        "repubblica.it",
         "ansa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
         "ilfattoquotidiano.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/08/05/clausole-di-salvaguardia-litalia-chiede-allue-lo-06-per-lenergia-e-lo-09-per-la-difesa_56757087-311b-4b58-aac5-17519294b57f.html",
         "https://www.ilmessaggero.it/politica/clausola_salvaguardia_ue_energia_spese_militari_giorgetti-9691790.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48784182/giorgetti-chiederemo-all-ue-incremento-spesa-dello-0-9-per-la-difesa-e-lo-0-6-per-l-energia/",
         "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/08/05/news/clausola_ue_energia_difesa_giorgetti_parlamento-425512986/",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/05/giorgetti-allue-chiederemo-il-massimo-per-lenergia-lo-09-per-la-difesa_56757087-311b-4b58-aac5-17519294b57f.html",
-        "https://www.ilfattoquotidiano.it/2026/08/05/clausola-salvaguardia-ue-giorgetti-difesa-energia-notizie/8470502/",
-        "https://www.ilfattoquotidiano.it/2026/08/05/giorgetti-camera-mes-attivazione-diretta/8470492/"
+        "https://www.ansa.it/sito/notizie/politica/2026/08/05/giorgetti-allue-chiederemo-il-massimo-per-lenergia-lo-09-per-la-difesa_56757087-311b-4b58-aac5-17519294b57f.html"
       ]
     },
     {
       "rank": 2,
-      "title": "Kiev sotto attacco, 17 morti: nessuno dei 28 missili russi abbattuto",
+      "title": "Ucraina, la furia di Mosca si abbatte su Kiev: missili e droni, almeno 17 morti",
       "source_count": 5,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "liberoquotidiano.it",
         "ansa.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/ucraina-raid-russi-su-kiev-17-morti.-drone-con-esplosivo-trovato-allaeroporto_8c35f73b-791a-4b11-a07b-ea89c9827f1a.html",
         "https://www.liberoquotidiano.it/news/pillole/48783850/17_morti_e_44_feriti_a_causa_di_un_massiccio_attacco_russo_nella_regione_di_kiev/",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/05/ucraina-raid-russi-su-kiev-almeno-17-morti.-zelensky-con-gli-intercettori_8c35f73b-791a-4b11-a07b-ea89c9827f1a.html",
         "https://www.liberoquotidiano.it/news/tv-news/48784130/kiev-i-residenti-e-diventato-impossibile-vivere-qui-/",
-        "https://www.liberoquotidiano.it/news/tv-news/48784001/kiev-sotto-attacco-17-morti-nessuno-dei-28-missili-russi-abbattuto/",
-        "https://www.liberoquotidiano.it/news/libero-video/48783533/ucraina-furia-mosca-abbatte-kiev-missili-droni-almeno-17-morti/"
+        "https://www.liberoquotidiano.it/news/tv-news/48784001/kiev-sotto-attacco-17-morti-nessuno-dei-28-missili-russi-abbattuto/"
       ]
     },
     {
       "rank": 3,
+      "title": "Gasolio, nuovo taglio: lo sconto fino al 25 agosto. Tensione nel governo",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "laverita.info",
+        "lastampa.it",
+        "ansa.it",
+        "governo.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.laverita.info/i-nostri-soldi/taglio-accise-diesel",
+        "https://www.lastampa.it/economia/2026/08/05/news/caro_gasolio_nuovo_taglio_sconto_fino_al_25_agosto_tensione_governo-15707675/",
+        "https://www.ansa.it/sito/notizie/politica/2026/08/04/carburanti-lo-sconto-di-17-centesimi-sul-gasolio-prorogato-al-25-agosto_195e36ce-3ce9-44be-8641-49c1644c43a4.html",
+        "https://www.governo.it/it/articolo/consiglio-dei-ministri-n185-dichiarazione-del-presidente-meloni/32462",
+        "https://www.ilsole24ore.com/art/gasolio-taglio-accise-resta-17-centesimi-fino-25-agosto-AJ4wNwe"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Domenico Caliendo, accordo con il Monaldi per il risarcimento: ipotesi 1,5 milioni di euro circa. La mamma: ora il processo",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/05/domenico-caliendo-risarcimento-monaldi-trapianto-notizie/8470848/",
+        "https://www.adnkronos.com/cronaca/bimbo-morto-a-napoli-accordo-monaldi-famiglia-risarcimento_4LGWeskMm2eDHexiAh9gUE",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/la-morte-di-domenico-ce-laccordo-per-il-risarcimento-tra-monaldi-e-famiglia_6a515a2b-97d7-4784-ada2-a300fa902bc3.html",
+        "https://www.ilmessaggero.it/italia/domenico_caliendo_risarcimento_quanto_e_soldi_famiglia-9691843.html",
+        "https://www.lastampa.it/cronaca/2026/08/05/news/domenico_monaldi_napoli_trapianto_risarcimento_accordo-15707947/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Conte-Schlein, prove di disgelo. Ma lei cede sulle spese militari",
       "source_count": 5,
       "article_count": 6,
@@ -64,7 +107,26 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "title": "Auto finisce nel Po a Torino dopo un folle inseguimento nella notte con la polizia: due dispersi",
+      "source_count": 4,
+      "article_count": 7,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/auto-nel-po-torino-inseguimento-ricerche-dispersi_2TEqzcc5l0CWnzR5vGq3Mo",
+        "https://www.liberoquotidiano.it/news/libero-video/48784142/torino-auto-finisce-nel-po-le-immagini-del-recupero-della-vettura/",
+        "https://www.liberoquotidiano.it/news/italia/48783843/torino-auto-buca-alt-polizia-finisce-po/",
+        "https://www.lastampa.it/torino/2026/08/05/video/torino_la_discesa_senza_uscita_e_poi_il_vuoto_il_punto_esatto_in_cui_lauto_e_volata_nel_po-15707894/",
+        "https://www.lastampa.it/torino/2026/08/05/video/dallalt_della_polizia_al_volo_nel_po_il_racconto_dal_luogo_dellinseguimento-15707859/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Houthi: 'Colpita una petroliera saudita nel Mar Rosso'. Trump: accordo su Hormuz? Possibile oggi o giovedì",
       "source_count": 5,
       "article_count": 6,
@@ -84,27 +146,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Gasolio, il taglio delle accise resta di 17 centesimi fino al 25 agosto",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "laverita.info",
-        "lastampa.it",
-        "ansa.it",
-        "governo.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/i-nostri-soldi/taglio-accise-diesel",
-        "https://www.lastampa.it/economia/2026/08/05/news/caro_gasolio_nuovo_taglio_sconto_fino_al_25_agosto_tensione_governo-15707675/",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/04/carburanti-lo-sconto-di-17-centesimi-sul-gasolio-prorogato-al-25-agosto_195e36ce-3ce9-44be-8641-49c1644c43a4.html",
-        "https://www.governo.it/it/articolo/consiglio-dei-ministri-n185-dichiarazione-del-presidente-meloni/32462",
-        "https://www.ilsole24ore.com/art/gasolio-taglio-accise-resta-17-centesimi-fino-25-agosto-AJ4wNwe"
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 8,
       "title": "Caldo record con 27 città da bollino rosso, ancora morti",
       "source_count": 4,
       "article_count": 6,
@@ -123,7 +165,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Alcaraz, il rientro slitta ancora: ora anche gli Us Open sono a rischio",
       "source_count": 5,
       "article_count": 5,
@@ -143,7 +185,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Abdul El-Sayed vince le primarie dem per il Senato in Michigan, secondo le proiezioni di Nbc",
       "source_count": 5,
       "article_count": 5,
@@ -160,42 +202,6 @@
         "https://www.repubblica.it/esteri/2026/08/05/news/el_sayed_stevens_vincitore_risultati_primarie_dem_michigan-425512757/",
         "https://ilmanifesto.it/primarie-usa-el-sayed-in-michigan-mette-alla-prova-i-democratici",
         "https://www.lastampa.it/esteri/2026/08/05/news/la_corsa_di_el_sayed_mi_piace_sentirmi_come_l_eroe_ulisse-15707627/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Carceri, rapporto Antigone: \"Condizioni al limite della sopravvivenza tra caldo estremo e sovraffollamento record\"",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/carceri-sovraffollamento-rapporto-antigone_1VaG6ZFv3t6Eo9mMi0K0Mc",
-        "https://www.repubblica.it/cronaca/2026/08/05/news/carceri_italiane_associazione_antigone_condizioni-425513069/",
-        "https://www.lastampa.it/cronaca/2026/08/05/news/rapporto_antigone_carceri_caldo_sovraffollamento-15707828/",
-        "https://www.ilsole24ore.com/art/l-impatto-caldo-carceri-rebibbia-san-vittore-sassari-ecco-fotografia-dell-emergenza-AJ9F6fd"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Igli Tare derubato sul treno per Roma, tornava dai funerali di Baresi: via la borsa, ma il ladro viene arrestato alla stazione Termini",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "roma.repubblica.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/igli-tare-ex-ds-milan-derubato_1NCQ4COhW1I1qwfZnBKM36",
-        "https://www.ilmessaggero.it/roma/centro_storico/tare_derubato_treno_roma_chi_e_funerali_baresi-9691748.html",
-        "https://www.ilfattoquotidiano.it/2026/08/05/igli-tare-derubato-treno-baresi-funerale/8470561/",
-        "https://roma.repubblica.it/cronaca/2026/08/05/news/igli_tare_derubato_treno_funerali_baresi_arrestato_roma_termini-425512726/"
       ]
     }
   ]
