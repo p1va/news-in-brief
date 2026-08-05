@@ -1,6 +1,6 @@
 {
   "date": "2026-08-05",
-  "generated_at": "Wed 05 Aug 14:24",
+  "generated_at": "Wed 05 Aug 16:50",
   "stories": [
     {
       "rank": 1,
@@ -26,26 +26,131 @@
     },
     {
       "rank": 2,
-      "title": "Ucraina, la furia di Mosca si abbatte su Kiev: missili e droni, almeno 17 morti",
-      "source_count": 5,
-      "article_count": 9,
+      "title": "Europei fondo, Taddeucci regina anche nella 5 km, bronzo per Pozzobon e Paltrinieri",
+      "source_count": 6,
+      "article_count": 10,
       "source_domains": [
         "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/08/05/europei-di-nuoto-taddeucci-bis-doro-bronzo-pozzobon-paltrinieri-e-acrobatico-a-squadre_469755cf-62d7-4989-bd4d-16933d04062f.html",
+        "https://www.adnkronos.com/sport/nuoto-senna-fondo-taddeucci-paltrinieri_6z8aPksy3hQytYYHTSazIs",
+        "https://www.ilfattoquotidiano.it/2026/08/05/taddeucci-oro-5km-europei-impresa-record-bronzo-pozzobon/8471134/",
+        "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/05/europei-di-nuoto-tre-medaglie-azzurre-a-parigi-taddeucci-oro-e-pozzon-bronzo_a6e7a9ca-b008-481d-ab13-c4b1e0a0ad7a.html",
+        "https://www.ilmessaggero.it/sport/altrisport/ginevra_taddeucci_medaglia_oro_europei_nuoto_medagliere_italia-9692017.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Delmastro, la Camera nega alla Procura l’acquisizione delle chat",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "laverita.info",
+        "ilmanifesto.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/08/05/la-camera-nega-lacquisizione-delle-chat-di-delmastro.-tensione-in-aula-urla-e-proteste_dc5df7c0-f10a-4c69-aa14-f042a0d51c86.html",
+        "https://www.repubblica.it/politica/2026/08/05/diretta/chat_delmastro_caroccia_voto_camera-425513848/",
+        "https://www.ilfattoquotidiano.it/politica-palazzo/live-post/2026/08/05/delmastro-chat-caroccia-camera-voto-notizie/8471241/",
+        "https://www.lastampa.it/politica/2026/08/05/news/andrea_delmastro_camera_nega_chat_procura-15708228/",
+        "https://www.laverita.info/governo/giunta-rifiuta-visionare-chat-delmastro"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Lipsia, drone con esplosivo in aeroporto accanto a un cargo ucraino. E un altro si scontra con un cargo Dhl a 400 metri di altezza",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
         "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/ucraina-raid-russi-su-kiev-ordinata-levacuazione-di-kramatorsk.-drone-con-esplosivo_8c35f73b-791a-4b11-a07b-ea89c9827f1a.html",
+        "https://www.adnkronos.com/internazionale/esteri/lipsia-drone-esplosivo-aeroporto-aereo-ucraino_4lnBZNWuirQoGTHdw8aHja",
+        "https://www.liberoquotidiano.it/news/libero-video/48786387/lipsia-terrore-aeroporto-drone-esplosivo-vicino-aereo-ucraino-altro-urta-cargo-volo/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/ucraina-raid-russi-su-kiev-17-morti.-drone-con-esplosivo-trovato-allaeroporto_8c35f73b-791a-4b11-a07b-ea89c9827f1a.html",
+        "https://www.ilmessaggero.it/mondo/lipsia_drone_aeroporto_esplosivo_aereo_ucraino_scontro_cosa_e_successo-9691869.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Usa, El-Sayed vince primarie Dem per il Senato in Michigan. Trump: \"Un perdente comunista che odia ebrei e Israele\"",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/05/primarie-michigan-trump-el-sayed-notizie/8471286/",
+        "https://www.adnkronos.com/internazionale/esteri/usa-el-sayed-primarie-dem-senato-michigan_2rUJsVBSh3Vq7alwIwthEQ",
+        "https://www.lastampa.it/esteri/2026/08/05/news/primarie_michigan_el_sayed_vince_democratici_senato-15708123/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/abdul-el-sayed-vince-le-primarie-dem-per-il-senato-in-michigan-secondo-le-proiezioni_9e646f0c-079a-4a09-ac02-8dc6e43a2923.html",
+        "https://www.ilfattoquotidiano.it/2026/08/05/primarie-michigan-el-sayed-vince-notizie/8470557/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Houthi: 'Colpita una petroliera saudita nel Mar Rosso'. Trump: accordo su Hormuz? Possibile oggi o giovedì",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "laverita.info",
+        "repubblica.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48787862/hormuz-trump-minaccia-l-iran-teheran-frena-sull-accordo/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/houthi-colpita-una-petroliera-saudita-nel-mar-rosso.-trump-accordo_01ee3a21-5b94-45ab-b605-aae1f70d3f1d.html",
+        "https://www.laverita.info/video/trump-iran-stretto-hormuz",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/trump-laccordo-sullapertura-di-hormuz-possibile-oggi-o-giovedi_01ee3a21-5b94-45ab-b605-aae1f70d3f1d.html",
+        "https://www.laverita.info/geopolitica/stretto-hormuz-iran-ue"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Kiev sotto attacco, 17 morti: nessuno dei 28 missili russi abbattuto",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/ucraina-raid-russi-su-kiev-17-morti.-drone-con-esplosivo-trovato-allaeroporto_8c35f73b-791a-4b11-a07b-ea89c9827f1a.html",
         "https://www.liberoquotidiano.it/news/pillole/48783850/17_morti_e_44_feriti_a_causa_di_un_massiccio_attacco_russo_nella_regione_di_kiev/",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/05/ucraina-raid-russi-su-kiev-almeno-17-morti.-zelensky-con-gli-intercettori_8c35f73b-791a-4b11-a07b-ea89c9827f1a.html",
         "https://www.liberoquotidiano.it/news/tv-news/48784130/kiev-i-residenti-e-diventato-impossibile-vivere-qui-/",
-        "https://www.liberoquotidiano.it/news/tv-news/48784001/kiev-sotto-attacco-17-morti-nessuno-dei-28-missili-russi-abbattuto/"
+        "https://www.liberoquotidiano.it/news/tv-news/48784001/kiev-sotto-attacco-17-morti-nessuno-dei-28-missili-russi-abbattuto/",
+        "https://www.liberoquotidiano.it/news/libero-video/48783533/ucraina-furia-mosca-abbatte-kiev-missili-droni-almeno-17-morti/"
       ]
     },
     {
-      "rank": 3,
+      "rank": 8,
       "title": "Gasolio, nuovo taglio: lo sconto fino al 25 agosto. Tensione nel governo",
       "source_count": 6,
       "article_count": 6,
@@ -66,7 +171,27 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 9,
+      "title": "Caldo record con 27 città da bollino rosso, ancora morti",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "repubblica.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/cronaca/2026/09/05/news/caldo_domani_il_picco_record_bollino_rosso_in_27_citta_su_27-425512421/",
+        "https://www.ilmessaggero.it/italia/quarta_ondata_calore_temporali_in_arrivo_quando_pausa-9692023.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48787432/caldo-record-in-austria-vienna-tocca-41-gradi/",
+        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/04/caldo-record-con-27-citta-da-bollino-rosso-ancora-morti_ff44348d-59a3-4e61-8200-a7cd8663c386.html",
+        "https://www.ilmessaggero.it/schede/caldo_citta_bollino_rosso_quali_sono_quando_finisce_ondata_calore-9691746.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Domenico Caliendo, accordo con il Monaldi per il risarcimento: ipotesi 1,5 milioni di euro circa. La mamma: ora il processo",
       "source_count": 6,
       "article_count": 6,
@@ -84,124 +209,6 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/la-morte-di-domenico-ce-laccordo-per-il-risarcimento-tra-monaldi-e-famiglia_6a515a2b-97d7-4784-ada2-a300fa902bc3.html",
         "https://www.ilmessaggero.it/italia/domenico_caliendo_risarcimento_quanto_e_soldi_famiglia-9691843.html",
         "https://www.lastampa.it/cronaca/2026/08/05/news/domenico_monaldi_napoli_trapianto_risarcimento_accordo-15707947/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Conte-Schlein, prove di disgelo. Ma lei cede sulle spese militari",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "lastampa.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/politica/2026/08/05/news/conte_schlein_disgelo_accordo_spese_militari-15707752/",
-        "https://www.repubblica.it/politica/2026/08/05/news/schlein_conte_disgelo_pranzo_primarie-425512504/",
-        "https://ilmanifesto.it/conte-e-schlein-si-parlano-a-pranzo-dialettica-e-rispetto",
-        "https://www.ilmessaggero.it/politica/conte_politica_estera_italia_negoziati_ucraina_palestina-9690524.html",
-        "https://www.lastampa.it/rubriche/il-taccuino/2026/08/05/news/il_grande_equivoco_tra_alleati-15707608/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Auto finisce nel Po a Torino dopo un folle inseguimento nella notte con la polizia: due dispersi",
-      "source_count": 4,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/auto-nel-po-torino-inseguimento-ricerche-dispersi_2TEqzcc5l0CWnzR5vGq3Mo",
-        "https://www.liberoquotidiano.it/news/libero-video/48784142/torino-auto-finisce-nel-po-le-immagini-del-recupero-della-vettura/",
-        "https://www.liberoquotidiano.it/news/italia/48783843/torino-auto-buca-alt-polizia-finisce-po/",
-        "https://www.lastampa.it/torino/2026/08/05/video/torino_la_discesa_senza_uscita_e_poi_il_vuoto_il_punto_esatto_in_cui_lauto_e_volata_nel_po-15707894/",
-        "https://www.lastampa.it/torino/2026/08/05/video/dallalt_della_polizia_al_volo_nel_po_il_racconto_dal_luogo_dellinseguimento-15707859/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Houthi: 'Colpita una petroliera saudita nel Mar Rosso'. Trump: accordo su Hormuz? Possibile oggi o giovedì",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "laverita.info",
-        "ilfattoquotidiano.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/houthi-colpita-una-petroliera-saudita-nel-mar-rosso.-trump-accordo_01ee3a21-5b94-45ab-b605-aae1f70d3f1d.html",
-        "https://www.laverita.info/video/trump-iran-stretto-hormuz",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/trump-laccordo-sullapertura-di-hormuz-possibile-oggi-o-giovedi_01ee3a21-5b94-45ab-b605-aae1f70d3f1d.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/08/05/trump-con-iran-ottime-discussioni-possibile-un-accordo-su-hormuz-oggi-o-domani-teheran-sono-gli-usa-a-frenare/8470302/",
-        "https://ilmanifesto.it/hormuz-chi-tratta-e-chi-boicotta"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Caldo record con 27 città da bollino rosso, ancora morti",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/cronaca/2026/09/05/news/caldo_domani_il_picco_record_bollino_rosso_in_27_citta_su_27-425512421/",
-        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/04/caldo-record-con-27-citta-da-bollino-rosso-ancora-morti_ff44348d-59a3-4e61-8200-a7cd8663c386.html",
-        "https://www.ilmessaggero.it/schede/caldo_citta_bollino_rosso_quali_sono_quando_finisce_ondata_calore-9691746.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/05/caldo-record-con-27-citta-da-bollino-rosso-ancora-morti_e8e5ac9a-3aae-4048-bd10-537bd2654d36.html",
-        "https://www.lastampa.it/economia/2026/08/05/news/energia_l_effetto_boomerang_del_caldo_impianti_sotto_stress_e_prezzi_alle_stelle-15707632/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Alcaraz, il rientro slitta ancora: ora anche gli Us Open sono a rischio",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/sport/48783831/sinner-alcaraz-salta-cincinnatijannik-cambiano-equilibri-retroscena/",
-        "https://www.ilmessaggero.it/sport/schede/alcaraz_salta_cincinnati_perche_rischia_us_open_come_cambia_ranking_sinner_zverev-9691731.html",
-        "https://www.repubblica.it/sport/tennis/2026/08/05/news/alcaraz_atp_cincinnati_us_open_a_rischio-425512939/",
-        "https://www.ilfattoquotidiano.it/2026/08/05/alcaraz-salta-cincinnati-rientro-us-open-infortunio-gomito-come-sta/8470475/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/05/tennis-ancora-problemi-al-polso-alcaraz-salta-il-masters-1000-di-cincinnati_c93bfabe-1171-4048-97c2-d14856368aa4.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Abdul El-Sayed vince le primarie dem per il Senato in Michigan, secondo le proiezioni di Nbc",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/abdul-el-sayed-vince-le-primarie-dem-per-il-senato-in-michigan-secondo-le-proiezioni_9e646f0c-079a-4a09-ac02-8dc6e43a2923.html",
-        "https://www.ilfattoquotidiano.it/2026/08/05/primarie-michigan-el-sayed-vince-notizie/8470557/",
-        "https://www.repubblica.it/esteri/2026/08/05/news/el_sayed_stevens_vincitore_risultati_primarie_dem_michigan-425512757/",
-        "https://ilmanifesto.it/primarie-usa-el-sayed-in-michigan-mette-alla-prova-i-democratici",
-        "https://www.lastampa.it/esteri/2026/08/05/news/la_corsa_di_el_sayed_mi_piace_sentirmi_come_l_eroe_ulisse-15707627/"
       ]
     }
   ]
