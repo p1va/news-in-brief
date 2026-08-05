@@ -1,33 +1,54 @@
 {
   "date": "2026-08-05",
-  "generated_at": "Wed 05 Aug 18:31",
+  "generated_at": "Wed 05 Aug 19:51",
   "stories": [
     {
       "rank": 1,
-      "title": "Delmastro, la Camera nega alla Procura l’acquisizione delle chat",
+      "title": "La Camera nega l'acquisizione delle chat di Delmastro. Tensione in Aula, urla e proteste",
       "source_count": 9,
-      "article_count": 10,
+      "article_count": 14,
       "source_domains": [
+        "liberoquotidiano.it",
         "ansa.it",
         "adnkronos.com",
-        "liberoquotidiano.it",
-        "repubblica.it",
         "ilfattoquotidiano.it",
+        "repubblica.it",
         "lastampa.it",
         "laverita.info",
         "ilmanifesto.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/48789271/chat-delmastro-protesta-m5s-sotto-banchi-maggioranza-con-telefoni-alzati/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48789276/chat-delmastro-protesta-m5s-sotto-i-banchi-della-maggioranza-con-i-telefoni-dopo-voto-in-aula/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48789274/camera-nega-autorizzazione-sulle-chat-delmastro-con-206-voti-favorevoli/",
         "https://www.ansa.it/sito/notizie/politica/2026/08/05/la-camera-nega-lacquisizione-delle-chat-di-delmastro.-tensione-in-aula-urla-e-proteste_dc5df7c0-f10a-4c69-aa14-f042a0d51c86.html",
-        "https://www.adnkronos.com/politica/delmastro-chat-camera-voto_7iQaCuoKPlDMQvA6esUova",
-        "https://www.liberoquotidiano.it/news/libero-video/48788368/chat-delmastro-protesta-m5s-aula-montecitorio-cellulari-conte-fuori-chat/",
-        "https://www.repubblica.it/politica/2026/08/05/diretta/chat_delmastro_caroccia_voto_camera-425513848/",
-        "https://www.ilfattoquotidiano.it/politica-palazzo/live-post/2026/08/05/delmastro-chat-caroccia-camera-voto-notizie/8471241/"
+        "https://www.adnkronos.com/politica/delmastro-chat-camera-voto_7iQaCuoKPlDMQvA6esUova"
       ]
     },
     {
       "rank": 2,
+      "title": "Usa, El-Sayed vince primarie Dem per il Senato in Michigan. Trump: \"Un perdente comunista che odia ebrei e Israele\"",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/stati-uniti-abdul-el-sayed-vince-in-michigan.-lira-di-trump-voto-truccato_9e646f0c-079a-4a09-ac02-8dc6e43a2923.html",
+        "https://www.adnkronos.com/internazionale/esteri/abdul-el-sayed-chi-e_5wdnlR55u1zp51cMZlW2OY",
+        "https://www.ilfattoquotidiano.it/2026/08/05/primarie-michigan-trump-el-sayed-notizie/8471286/",
+        "https://www.repubblica.it/esteri/2026/08/05/news/abdul_el_sayed_chi_e_primarie_dem_michigan_usa_senato-425513901/",
+        "https://www.adnkronos.com/internazionale/esteri/usa-el-sayed-primarie-dem-senato-michigan_2rUJsVBSh3Vq7alwIwthEQ"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Donna trovata morta a luglio a Torino, l'ex compagno arrestato",
       "source_count": 8,
       "article_count": 9,
@@ -50,7 +71,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Clausola Ue, l’Italia chiede il massimo per l’energia e lo 0,9% per le spese militri",
       "source_count": 7,
       "article_count": 9,
@@ -72,10 +93,10 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Trovato drone con esplosivo vicino cargo ucraino all'aeroporto Lipsia",
+      "rank": 5,
+      "title": "Allarme allo scalo di Lipsia, un drone bomba trovato accanto ad aerei ucraini",
       "source_count": 6,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
@@ -85,15 +106,35 @@
         "ilfattoquotidiano.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/allarme-allo-scalo-di-lipsia-un-drone-bomba-trovato-accanto-ad-aerei-ucraini_8c35f73b-791a-4b11-a07b-ea89c9827f1a.html",
         "https://www.ansa.it/sito/videogallery/mondo/2026/08/05/drone-con-esplosivo-trovato-allaeroporto-di-lipsia-vicino-ad-aereo-ucraino_c859b98e-3a5e-4ca8-b9ab-f7955595f077.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/05/ucraina-raid-russi-su-kiev-ordinata-levacuazione-di-kramatorsk.-drone-con-esplosivo_8c35f73b-791a-4b11-a07b-ea89c9827f1a.html",
         "https://www.adnkronos.com/internazionale/esteri/lipsia-drone-esplosivo-aeroporto-aereo-ucraino_4lnBZNWuirQoGTHdw8aHja",
-        "https://www.liberoquotidiano.it/news/libero-video/48786387/lipsia-terrore-aeroporto-drone-esplosivo-vicino-aereo-ucraino-altro-urta-cargo-volo/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/ucraina-raid-russi-su-kiev-17-morti.-drone-con-esplosivo-trovato-allaeroporto_8c35f73b-791a-4b11-a07b-ea89c9827f1a.html"
+        "https://www.liberoquotidiano.it/news/libero-video/48786387/lipsia-terrore-aeroporto-drone-esplosivo-vicino-aereo-ucraino-altro-urta-cargo-volo/"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "Accordo tra Iran e Oman sulle nuove rotte di Hormuz, l'ipotesi di una tregua",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "laverita.info",
+        "repubblica.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/05/accordo-tra-iran-e-oman-sulle-nuove-rotte-di-hormuz-lipotesi-di-una_594e2920-4cc5-42ab-bff8-24241c6b3b0d.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48787862/hormuz-trump-minaccia-l-iran-teheran-frena-sull-accordo/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/houthi-colpita-una-petroliera-saudita-nel-mar-rosso.-trump-accordo_01ee3a21-5b94-45ab-b605-aae1f70d3f1d.html",
+        "https://www.laverita.info/video/trump-iran-stretto-hormuz",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/trump-laccordo-sullapertura-di-hormuz-possibile-oggi-o-giovedi_01ee3a21-5b94-45ab-b605-aae1f70d3f1d.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Caldo record con 27 città da bollino rosso, ancora morti",
       "source_count": 5,
       "article_count": 8,
@@ -110,47 +151,6 @@
         "https://www.ilmessaggero.it/italia/quarta_ondata_calore_temporali_in_arrivo_quando_pausa-9692023.html",
         "https://www.liberoquotidiano.it/news/tv-news/48787432/caldo-record-in-austria-vienna-tocca-41-gradi/",
         "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/04/caldo-record-con-27-citta-da-bollino-rosso-ancora-morti_ff44348d-59a3-4e61-8200-a7cd8663c386.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Usa, El-Sayed vince primarie Dem per il Senato in Michigan. Trump: \"Un perdente comunista che odia ebrei e Israele\"",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/05/primarie-michigan-trump-el-sayed-notizie/8471286/",
-        "https://www.adnkronos.com/internazionale/esteri/usa-el-sayed-primarie-dem-senato-michigan_2rUJsVBSh3Vq7alwIwthEQ",
-        "https://www.lastampa.it/esteri/2026/08/05/news/primarie_michigan_el_sayed_vince_democratici_senato-15708123/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/abdul-el-sayed-vince-le-primarie-dem-per-il-senato-in-michigan-secondo-le-proiezioni_9e646f0c-079a-4a09-ac02-8dc6e43a2923.html",
-        "https://www.ilfattoquotidiano.it/2026/08/05/primarie-michigan-el-sayed-vince-notizie/8470557/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Houthi: 'Colpita una petroliera saudita nel Mar Rosso'. Trump: accordo su Hormuz? Possibile oggi o giovedì",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "laverita.info",
-        "repubblica.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48787862/hormuz-trump-minaccia-l-iran-teheran-frena-sull-accordo/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/houthi-colpita-una-petroliera-saudita-nel-mar-rosso.-trump-accordo_01ee3a21-5b94-45ab-b605-aae1f70d3f1d.html",
-        "https://www.laverita.info/video/trump-iran-stretto-hormuz",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/05/trump-laccordo-sullapertura-di-hormuz-possibile-oggi-o-giovedi_01ee3a21-5b94-45ab-b605-aae1f70d3f1d.html",
-        "https://www.laverita.info/geopolitica/stretto-hormuz-iran-ue"
       ]
     },
     {
