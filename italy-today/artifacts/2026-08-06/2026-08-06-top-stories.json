@@ -1,15 +1,16 @@
 {
   "date": "2026-08-06",
-  "generated_at": "Thu 06 Aug 11:32",
+  "generated_at": "Thu 06 Aug 14:28",
   "stories": [
     {
       "rank": 1,
       "title": "Addio a Francesco Guccini, il Maestrone che ha segnato la storia della musica",
-      "source_count": 9,
-      "article_count": 21,
+      "source_count": 10,
+      "article_count": 27,
       "source_domains": [
-        "ilfattoquotidiano.it",
         "ansa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "adnkronos.com",
         "bologna.repubblica.it",
         "ilmanifesto.it",
@@ -19,11 +20,11 @@
         "news.google.com"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/06/morte-guccini-camera-commemorazione-notizie/8472049/",
-        "https://www.ansa.it/sito/notizie/cultura/2026/08/06/addio-a-francesco-guccini-aveva-86-anni_70361168-09fe-4f1f-98f7-7155fae99993.html",
-        "https://www.adnkronos.com/spettacoli/guccini-morto-oggi-ricordi-social-mentana-gualtieri-cosa-hanno-scritto_7qXPTh7AqmEavxW1q4sa0A",
-        "https://www.ansa.it/emiliaromagna/notizie/2026/08/06/nella-trattoria-vito-a-bologna-guccini-era-di-famiglia_53f65fce-8c6d-469b-a613-64d0083ce897.html",
-        "https://bologna.repubblica.it/cronaca/2026/08/06/news/prodi_morte_guccini_ricordo-425515436/"
+        "https://www.ansa.it/sito/videogallery/spettacolo/2026/08/06/beppe-carletti-guccini-e-stato-un-nomade_b0ad39a4-ab2c-4830-bfa5-49eb0401cb55.html",
+        "https://www.ansa.it/sito/notizie/cultura/2026/08/06/addio-a-francesco-guccini-il-maestrone-che-ha-segnato-la-storia-della-musica_70361168-09fe-4f1f-98f7-7155fae99993.html",
+        "https://www.ansa.it/sito/notizie/cultura/2026/08/06/francesco-guccini-86-anni-in-poche-frasi_44a0de4e-e470-40e8-a88f-1c02304fb2a6.html",
+        "https://www.ilfattoquotidiano.it/2026/08/06/francesco-guccini-morto-la-rai-dedica-al-cantautore-speciali-in-radio-e-in-televisione-film-interviste-e-musica/8472211/",
+        "https://www.ilfattoquotidiano.it/2026/08/06/francesco-guccini-non-era-iggy-pop-ma-nemmeno-de-gregori-o-de-andre-macinava-il-repertorio-con-una-sensibilita-popolare-che-nessun-altro-ha-saputo-fare-come-lui/8472150/"
       ]
     },
     {
@@ -51,6 +52,28 @@
     },
     {
       "rank": 3,
+      "title": "Conte davanti alla Commissione Covid: \"E' un plotone d'esecuzione\"",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/08/06/al-via-laudizione-di-conte-davanti-alla-commissione-covid_ac2c279a-6990-45a3-95a2-ac5b53a1f6cd.html",
+        "https://www.ilfattoquotidiano.it/politica-palazzo/live-post/2026/08/06/commissione-covid-conte-audizione-aggiornamenti-notizie/8472175/",
+        "https://www.ilmessaggero.it/politica/conte_covid_commissione_plotone_esecuzione_cosa_ha_detto-9694000.html",
+        "https://www.adnkronos.com/politica/conte-commissione-covid-audizione-oggi_2OVeYzEdxz1aUvuWYA6dXu",
+        "https://www.liberoquotidiano.it/news/tv-news/48796335/covid-conte-giuro-sul-mio-onore-ma-qui-c-e-chi-l-onore-l-ha-perso/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Accordo Iran-Oman per riapertura di Hormuz. Scorte missili Usa basse, Trump: “Non è vero, traditori”",
       "source_count": 6,
       "article_count": 6,
@@ -71,7 +94,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Guerra Ucraina - Russia, le news di oggi. Droni ucraini colpiscono raffineria di Yaroslavl",
       "source_count": 4,
       "article_count": 5,
@@ -90,7 +113,25 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
+      "title": "Nuova strage russa a Kiev: 17 morti sotto i missili. Zelensky: “Siamo indifesi”",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48795286/kiev-zelensky-la-russia-non-si-ferma-usera-missili-balistici/",
+        "https://www.repubblica.it/esteri/2026/08/06/news/nuova_strage_kiev_russia_17_morti_zelensky_difese_patriot_trump_rutte-425514534/",
+        "https://ilmanifesto.it/kiev-senza-patriot-subisce-lennesimo-raid-russo-17-morti-e-decine-di-feriti",
+        "https://www.lastampa.it/esteri/2026/08/06/diretta/guerra_russia_ucraina_news_oggi-15708463/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Roma, maxi multa a monopattini e bikesharing. Antitrust: «Ostacolata fruizione corse gratuite riservate agli abbonati»",
       "source_count": 4,
       "article_count": 4,
@@ -108,16 +149,17 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Guccini, le canzoni che ci hanno fatto innamorare del cantautore con il cuore a Pavana",
+      "rank": 8,
+      "title": "Da La Locomotiva a L'Avvelenata, i brani manifesto tra politica e memoria",
       "source_count": 3,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cultura/2026/08/06/ansa-da-la-locomotiva-a-lavvelenata-i-brani-manifesto-tra-politica-e-memoria_711855d5-8072-48f5-b1b8-b4926bf1a0b9.html",
         "https://www.ansa.it/sito/notizie/cultura/2026/08/06/guccini-cantore-di-citta-da-modena-a-venezia-tra-la-via-emilia-e-il-west_4a1fa198-c36a-4450-bff3-1a9dd0b47ec0.html",
         "https://www.adnkronos.com/spettacoli/guccini-canzoni-avvelenata-locomotiva-dio-e-morto_6ZTOj62R2TpUDpguKMpiPi",
         "https://www.lastampa.it/spettacoli/2026/08/06/news/guccini_canzoni_famose_storia_pavana_musica_italiana-15708677/",
@@ -125,67 +167,38 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Caldo record «altri 10 giorni». Le nuove previsioni meteo: i bollini rossi venerdì scendono a 21. In arrivo una “breve tregua”",
-      "source_count": 2,
+      "rank": 9,
+      "title": "Il libro postumo di Guccini raccontato da lui: “Tutto cominciò con una ragazza in bicicletta”",
+      "source_count": 4,
       "article_count": 4,
       "source_domains": [
-        "ilmessaggero.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/caldo_quando_finisce_agosto_fresco_cosa_succede_previsioni_vere-9693761.html",
-        "https://www.ilmessaggero.it/schede/temporali_cella_singola_cosa_sono_perche_piove_vicino-9693599.html",
-        "https://www.repubblica.it/cronaca/2026/08/06/news/meteo_ferragosto_2026_caldo_giulio_betti_intervista-425513696/",
-        "https://www.ilmessaggero.it/italia/caldo_record_quando_finisce_previsioni_ferragosto_tregua_dove_quando-9692453.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Nuova strage russa a Kiev: 17 morti sotto i missili. Zelensky: “Siamo indifesi”",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
         "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.repubblica.it/esteri/2026/08/06/news/nuova_strage_kiev_russia_17_morti_zelensky_difese_patriot_trump_rutte-425514534/",
-        "https://ilmanifesto.it/kiev-senza-patriot-subisce-lennesimo-raid-russo-17-morti-e-decine-di-feriti",
-        "https://www.lastampa.it/esteri/2026/08/06/diretta/guerra_russia_ucraina_news_oggi-15708463/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Primarie in Michigan, vince il socialista pro Pal El-Sayed. Trump: “Un perdente comunista”",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/08/06/news/trump_las_vegas_pericolo_comunisti_primarie_dem_vogliono_alzare_tasse-425515212/",
-        "https://www.liberoquotidiano.it/news/libero-video/48792566/michigan-trump-attacca-el-sayed-odia-israele-popolo-ebraico-passione-gli-brucia-cuore/",
-        "https://www.lastampa.it/esteri/2026/08/05/news/primarie_michigan_el_sayed_vince_democratici_senato-15708123/"
+        "https://www.repubblica.it/cultura/2026/08/06/news/guccini_calde_le_pere_libro_postumo-425515555/",
+        "https://www.adnkronos.com/spettacoli/guccini-libri-scrittore-calde-le-pere_2gNwxpKOngpvm6sgBkr3IM",
+        "https://www.ilfattoquotidiano.it/2026/08/06/francesco-guccini-morto-esce-a-settembre-il-romanzo-postumo-calde-le-pere-e-nato-da-un-brogliaccio-di-cui-mi-ha-parlato-un-mio-amico-che-ne-ricavo-anche-un-cabaret/8471972/",
+        "https://www.ansa.it/sito/notizie/cultura/2026/08/06/lultima-testimonianza-di-guccini-le-parole-sono-importanti-ci-fanno-imparare-ad-amare_b81172d4-b3b9-4ca0-9fc2-b04e2342e809.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Papa Leone incontra i giovani ad Assisi: «Siate operatori di pace»",
+      "title": "Alpi sempre più calde, ghiacciai a rischio tra fusione e siccità",
       "source_count": 3,
-      "article_count": 3,
+      "article_count": 4,
       "source_domains": [
-        "ansa.it",
-        "governo.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/vaticano/notizie/2026/08/06/il-papa-ad-assisi-bagno-di-folla-con-i-giovani.-i-cristiani-allopposto-del-fondamentalismo_40950051-203f-430a-a747-6b391e328d13.html",
-        "https://www.governo.it/it/articolo/il-sottosegretario-mantovano-accoglie-ad-assisi-papa-leone-xiv-lincontro-con-i-giovani-del",
-        "https://www.ilsole24ore.com/art/papa-leone-incontra-giovani-ad-assisi-siate-operatori-pace-AJgcRVg"
+        "https://www.liberoquotidiano.it/news/pillole/48794775/alpi_sempre_piu_calde_ghiacciai_a_rischio_tra_fusione_e_siccita_/",
+        "https://www.lastampa.it/vercelli/2026/08/06/news/pascoli_siccita_estate_caldo_valsesia_montagna_transumanza-15708256/",
+        "https://www.liberoquotidiano.it/news/pillole/48787923/estate_boom_di_vacanze_in_montagna/",
+        "https://www.ilsole24ore.com/art/siccita-fenomeno-colpisce-anche-precipitazioni-nivali-AJhkuVZ"
       ]
     }
   ]
