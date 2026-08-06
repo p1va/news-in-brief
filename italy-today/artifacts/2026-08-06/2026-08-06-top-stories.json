@@ -1,31 +1,56 @@
 {
   "date": "2026-08-06",
-  "generated_at": "Thu 06 Aug 08:49",
+  "generated_at": "Thu 06 Aug 11:32",
   "stories": [
     {
       "rank": 1,
-      "title": "Delmastro, la Camera nega alla Procura l’acquisizione delle chat. Tensione in Aula",
-      "source_count": 7,
-      "article_count": 15,
+      "title": "Addio a Francesco Guccini, il Maestrone che ha segnato la storia della musica",
+      "source_count": 9,
+      "article_count": 21,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ansa.it",
-        "repubblica.it",
+        "adnkronos.com",
+        "bologna.repubblica.it",
         "ilmanifesto.it",
         "ilmessaggero.it",
-        "liberoquotidiano.it",
         "lastampa.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/06/prime-pagine-camera-nega-luso-delle-chat-di-delmastro-laula-finisce_a37d4c9b-572d-46ec-82b9-73a1dbbfffb1.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/05/la-camera-nega-lacquisizione-delle-chat-di-delmastro.-tensione-in-aula-urla-e-proteste_dc5df7c0-f10a-4c69-aa14-f042a0d51c86.html",
-        "https://www.repubblica.it/politica/2026/08/06/news/delmastro_bagarre_chat_bignami_scalfaro-425514599/",
-        "https://ilmanifesto.it/borsellino-scalfaro-e-le-chat-la-salvezza-trash-di-delmastro",
-        "https://www.ilmessaggero.it/politica/delmastro_chat_bagarre_aula_cosa_e_successo-9692479.html"
+        "https://www.ilfattoquotidiano.it/2026/08/06/morte-guccini-camera-commemorazione-notizie/8472049/",
+        "https://www.ansa.it/sito/notizie/cultura/2026/08/06/addio-a-francesco-guccini-aveva-86-anni_70361168-09fe-4f1f-98f7-7155fae99993.html",
+        "https://www.adnkronos.com/spettacoli/guccini-morto-oggi-ricordi-social-mentana-gualtieri-cosa-hanno-scritto_7qXPTh7AqmEavxW1q4sa0A",
+        "https://www.ansa.it/emiliaromagna/notizie/2026/08/06/nella-trattoria-vito-a-bologna-guccini-era-di-famiglia_53f65fce-8c6d-469b-a613-64d0083ce897.html",
+        "https://bologna.repubblica.it/cronaca/2026/08/06/news/prodi_morte_guccini_ricordo-425515436/"
       ]
     },
     {
       "rank": 2,
+      "title": "Alla Camera bagarre e bende opposizioni dopo no a uso chat Delmastro",
+      "source_count": 8,
+      "article_count": 17,
+      "source_domains": [
+        "laverita.info",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.laverita.info/sinistra-a-pezzi/camena-nega-chat-delmastro-procura",
+        "https://www.liberoquotidiano.it/news/tv-news/48794722/alla-camera-bagarre-e-bende-opposizioni-dopo-no-a-uso-chat-delmastro/",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/06/prime-pagine-camera-nega-luso-delle-chat-di-delmastro-laula-finisce_a37d4c9b-572d-46ec-82b9-73a1dbbfffb1.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/08/05/la-camera-nega-lacquisizione-delle-chat-di-delmastro.-tensione-in-aula-urla-e-proteste_dc5df7c0-f10a-4c69-aa14-f042a0d51c86.html",
+        "https://www.repubblica.it/politica/2026/08/06/news/delmastro_bagarre_chat_bignami_scalfaro-425514599/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Accordo Iran-Oman per riapertura di Hormuz. Scorte missili Usa basse, Trump: “Non è vero, traditori”",
       "source_count": 6,
       "article_count": 6,
@@ -46,26 +71,77 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Caldo record, quando finisce? Tregua dopo Ferragosto (ma non ovunque): ecco dove e quando",
+      "rank": 4,
+      "title": "Guerra Ucraina - Russia, le news di oggi. Droni ucraini colpiscono raffineria di Yaroslavl",
       "source_count": 4,
-      "article_count": 6,
+      "article_count": 5,
       "source_domains": [
         "ansa.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/06/caldo-e-afa-non-mollano-lallerta-fino-a-dopo-ferragosto_ff44348d-59a3-4e61-8200-a7cd8663c386.html",
-        "https://www.ilmessaggero.it/schede/temporali_cella_singola_cosa_sono_perche_piove_vicino-9693599.html",
-        "https://www.repubblica.it/cronaca/2026/08/06/news/meteo_ferragosto_2026_caldo_giulio_betti_intervista-425513696/",
-        "https://www.repubblica.it/cronaca/2026/08/06/news/caldo_italia_allerta_ferragosto-425514498/",
-        "https://www.lastampa.it/cronaca/2026/08/06/news/caldo_record_quando_finisce_previsioni_agosto-15708194/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/06/raid-di-mosca-sulla-regione-di-kharkiv-3-morti.-kiev-colpisce-raffinerie-e-navi_cc5052da-b1d6-4a9b-a120-158fd3baadd1.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48794123/esercito-ucraino-colpisce-due-raffinerie-in-russia-e-navi-russe-nel-mar-nero/",
+        "https://www.liberoquotidiano.it/news/tv-news/48793423/ucraina-i-droni-colpiscono-una-nave-mercantile-nel-mar-nero/",
+        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-ultime-news-oggi-6-agosto_L9I0daaALSnpc0vYTnq1e",
+        "https://www.repubblica.it/esteri/2026/08/06/diretta/guerra_ucraina_russia_news_oggi-425514620/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Roma, maxi multa a monopattini e bikesharing. Antitrust: «Ostacolata fruizione corse gratuite riservate agli abbonati»",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/roma/metropoli/multa_monopattini_roma_antitrust_corse_gratis_cosa_e_successo-9693703.html",
+        "https://www.ansa.it/sito/notizie/economia/2026/08/06/dallantitrust-multa-milionaria-a-monopattini-e-bikesharing.-ostacolate-le-corse-gratis_d3aa932a-0998-4ba1-a559-7114154d02b0.html",
+        "https://www.adnkronos.com/economia/roma-sharing-monopattini-bile-multa-perche_dnz0guzErniCJhUWrlJ9m",
+        "https://www.ilsole24ore.com/art/multa-27-milioni-bird-dott-e-lime-i-pass-gratuiti-micromobilita-roma-AJ8riQg"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Guccini, le canzoni che ci hanno fatto innamorare del cantautore con il cuore a Pavana",
+      "source_count": 3,
+      "article_count": 4,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cultura/2026/08/06/guccini-cantore-di-citta-da-modena-a-venezia-tra-la-via-emilia-e-il-west_4a1fa198-c36a-4450-bff3-1a9dd0b47ec0.html",
+        "https://www.adnkronos.com/spettacoli/guccini-canzoni-avvelenata-locomotiva-dio-e-morto_6ZTOj62R2TpUDpguKMpiPi",
+        "https://www.lastampa.it/spettacoli/2026/08/06/news/guccini_canzoni_famose_storia_pavana_musica_italiana-15708677/",
+        "https://www.lastampa.it/spettacoli/2026/08/06/news/francesco_guccini_morte_ricordo_pavana-15708671/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Caldo record «altri 10 giorni». Le nuove previsioni meteo: i bollini rossi venerdì scendono a 21. In arrivo una “breve tregua”",
+      "source_count": 2,
+      "article_count": 4,
+      "source_domains": [
+        "ilmessaggero.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/italia/caldo_quando_finisce_agosto_fresco_cosa_succede_previsioni_vere-9693761.html",
+        "https://www.ilmessaggero.it/schede/temporali_cella_singola_cosa_sono_perche_piove_vicino-9693599.html",
+        "https://www.repubblica.it/cronaca/2026/08/06/news/meteo_ferragosto_2026_caldo_giulio_betti_intervista-425513696/",
+        "https://www.ilmessaggero.it/italia/caldo_record_quando_finisce_previsioni_ferragosto_tregua_dove_quando-9692453.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Nuova strage russa a Kiev: 17 morti sotto i missili. Zelensky: “Siamo indifesi”",
       "source_count": 3,
       "article_count": 3,
@@ -81,93 +157,35 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Guerra Ucraina - Russia, le news di oggi. Droni ucraini colpiscono raffineria di Yaroslavl",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/06/raid-di-mosca-sulla-regione-di-kharkiv-3-morti.-kiev-colpisce-raffinerie-e-navi_cc5052da-b1d6-4a9b-a120-158fd3baadd1.html",
-        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-ultime-news-oggi-6-agosto_L9I0daaALSnpc0vYTnq1e",
-        "https://www.repubblica.it/esteri/2026/08/06/diretta/guerra_ucraina_russia_news_oggi-425514620/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Omicidio in carcere a Prato, la vittima è un detenuto 32enne",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/omicidio-carcere-prato-dogaia_1w26RONzHUEv4kywYhHPtS",
-        "https://www.ansa.it/sito/notizie/flash/2026/08/06/-omicidio-in-carcere-a-prato-vittima-detenuto-32enne-_4a69f4df-90f7-49e8-b28e-4d080805a237.html",
-        "https://www.ilfattoquotidiano.it/2026/08/06/omicidio-carcere-prato-detenuto-notizie/8471714/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Padova, Guardia di Finanza sequestra 33 mila litri di carburante di contrabbando",
-      "source_count": 2,
-      "article_count": 3,
-      "source_domains": [
-        "lastampa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/economia/2026/08/06/news/roma_carburanti_annacquati_controlli_guardia_di_finanza-15708453/",
-        "https://www.liberoquotidiano.it/news/pillole/48788353/padova_guardia_di_finanza_sequestra_33_mila_litri_di_carburante_di_contrabbando/",
-        "https://www.liberoquotidiano.it/news/pillole/48787941/caro-energia-il-governo-estende-lo-sconto-sul-gasolio/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Tg News - 5/8/2026",
-      "source_count": 1,
-      "article_count": 4,
-      "source_domains": [
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/pillole/48788366/tg-news---5-8-2026/",
-        "https://www.liberoquotidiano.it/news/pillole/48787856/tg-economia---5-8-2026/",
-        "https://www.liberoquotidiano.it/news/pillole/48787450/tg-sport---5-8-2026/",
-        "https://www.liberoquotidiano.it/news/pillole/48786587/cinema_spettacoli_magazine_-_5_8_2026/"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "«Bene la Zes, ma serve un piano per logistica e infrastrutture»",
-      "source_count": 1,
+      "title": "Primarie in Michigan, vince il socialista pro Pal El-Sayed. Trump: “Un perdente comunista”",
+      "source_count": 3,
       "article_count": 3,
       "source_domains": [
-        "ilsole24ore.com"
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilsole24ore.com/art/zanetti-sud-blue-economy-sia-volano-nuova-geografia-crescita-AJfR0Ng",
-        "https://www.ilsole24ore.com/art/bene-zes-ma-serve-piano-logistica-e-infrastrutture-AJVxoNg",
-        "https://www.ilsole24ore.com/art/il-sud-puo-trasformarsi-locomotiva-d-italia-basta-volerlo-AJfzbIg"
+        "https://www.repubblica.it/esteri/2026/08/06/news/trump_las_vegas_pericolo_comunisti_primarie_dem_vogliono_alzare_tasse-425515212/",
+        "https://www.liberoquotidiano.it/news/libero-video/48792566/michigan-trump-attacca-el-sayed-odia-israele-popolo-ebraico-passione-gli-brucia-cuore/",
+        "https://www.lastampa.it/esteri/2026/08/05/news/primarie_michigan_el_sayed_vince_democratici_senato-15708123/"
       ]
     },
     {
       "rank": 10,
-      "title": "Arday, professore di Cambridge accusato di plagio, si dimette. E l’ateneo apre una nuova inchiesta",
-      "source_count": 2,
-      "article_count": 2,
+      "title": "Papa Leone incontra i giovani ad Assisi: «Siate operatori di pace»",
+      "source_count": 3,
+      "article_count": 3,
       "source_domains": [
-        "repubblica.it",
-        "adnkronos.com"
+        "ansa.it",
+        "governo.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.repubblica.it/esteri/2026/08/06/news/arday_professore_nero_cambridge_accusato_plagio_si_dimette-425514951/",
-        "https://www.adnkronos.com/internazionale/esteri/arday-cambridge-professore-record_7CqR5DFJCBQepcgLzabwpa"
+        "https://www.ansa.it/vaticano/notizie/2026/08/06/il-papa-ad-assisi-bagno-di-folla-con-i-giovani.-i-cristiani-allopposto-del-fondamentalismo_40950051-203f-430a-a747-6b391e328d13.html",
+        "https://www.governo.it/it/articolo/il-sottosegretario-mantovano-accoglie-ad-assisi-papa-leone-xiv-lincontro-con-i-giovani-del",
+        "https://www.ilsole24ore.com/art/papa-leone-incontra-giovani-ad-assisi-siate-operatori-pace-AJgcRVg"
       ]
     }
   ]
