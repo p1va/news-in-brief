@@ -1,28 +1,24 @@
 {
   "date": "2026-08-07",
-  "generated_at": "Fri 07 Aug 09:09",
+  "generated_at": "Fri 07 Aug 11:02",
   "stories": [
     {
       "rank": 1,
-      "title": "Addio a Francesco Guccini, il Maestrone che ha segnato la storia della musica",
-      "source_count": 8,
-      "article_count": 21,
+      "title": "Francesco Guccini, il gigante che ha trasformato le parole in memoria",
+      "source_count": 4,
+      "article_count": 15,
       "source_domains": [
-        "ansa.it",
-        "laverita.info",
-        "repubblica.it",
-        "ilmessaggero.it",
         "lastampa.it",
-        "ilfattoquotidiano.it",
-        "ilmanifesto.it",
-        "news.google.com"
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it"
       ],
       "links": [
+        "https://www.lastampa.it/spettacoli/2026/08/07/news/rifugio_emiliano_guccini_dialetto_pavana-15709553/",
         "https://www.ansa.it/sito/videogallery/spettacolo/2026/08/07/dio-e-morto-i-nomadi-cantano-guccini-nel-giorno-della-sua-scomparsa_ffe8bedf-8157-4544-b014-6d6eb703ec9a.html",
         "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/07/prime-pagine-addio-a-guccini-il-maestrone-nella-storia-della-musica_65c3c99b-40d8-48ec-9bdd-d67c290b2080.html",
-        "https://www.laverita.info/televisione/addio-guccini",
-        "https://www.repubblica.it/cultura/2026/08/07/news/carletti_nomadi_figli_di_contadini_guccini-425516407/",
-        "https://www.ilmessaggero.it/persone/francesco_guccini_morto_patrimonio-9694428.html"
+        "https://www.repubblica.it/spettacoli/musica/2026/08/07/news/francesco_guccini_il_gigante_che_ha_trasformato_le_parole_in_memoria-425516256/",
+        "https://www.repubblica.it/spettacoli/2026/08/07/news/francesco_guccini_morto_prima_pagina_repubblica-425516586/"
       ]
     },
     {
@@ -72,17 +68,78 @@
     },
     {
       "rank": 4,
-      "title": "Propaganda online per l’Isis, arrestato a 16 anni. Nel pc le istruzioni per costruire ordigni",
-      "source_count": 7,
+      "title": "Guccini, l’omaggio di Bologna: le sue canzoni risuonano in via Paolo Fabbri",
+      "source_count": 6,
       "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "laverita.info",
+        "bologna.repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cultura/2026/08/07/in-via-paolo-fabbri-la-processione-per-guccini-tra-fiori-e-biglietti-daffetto._1b09b48a-6edd-4b5c-9c20-3c274ef61cb3.html",
+        "https://www.ilfattoquotidiano.it/2026/08/07/guccini-raduno-bologna-autogrill-notizie/8473030/",
+        "https://www.ilmessaggero.it/schede/guccini_casa_dove_viveva_pavana_dove_si_trova_via_fabbri-9694616.html",
+        "https://www.ansa.it/sito/notizie/cultura/2026/08/06/a-bologna-in-via-paolo-fabbri-le-canzoni-di-guccini-a-tutto-volume_d52df763-6f2d-4dad-8183-36e0c25a5297.html",
+        "https://www.laverita.info/video/omaggio-guccini-bologna"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Caldo record, i temporali non bastano: estate infernale fino a oltre Ferragosto, le previsioni",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "ilmessaggero.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/schede/caldo_record_svolta_quando_data_previsioni_meteo-9694634.html",
+        "https://www.ilmessaggero.it/italia/caldo_estremo_fino_a_quando_ferragosto_previsoni_temporali_nord_dove-9694553.html",
+        "https://www.ilmessaggero.it/italia/caldo_estremo_quanto_dura_ondata_ferragosto-9694553.html",
+        "https://www.repubblica.it/cronaca/2026/08/07/news/ancora_10_giorni_caldo_estremo_italia_soffoca_oggi_26_citta_bollino_rosso-425517023/",
+        "https://www.adnkronos.com/cronaca/caldo-record-anticiclone-fino-a-quando-meteo-ferragosto-ultime-notizie_2IF2nNvr2DE9fWOInzWaU8"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Thailandia, uccide i nonni e apre il fuoco a scuola: 9 morti e 15 feriti",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/07/sparatoria-in-una-scuola-in-thailandia-uccise-almeno-sei-persone-22-i-feriti_5345f213-a7d2-4009-9488-b1a61aad9571.html",
+        "https://www.lastampa.it/esteri/2026/08/07/video/thailandia_gli_studenti_si_nascondono_sotto_i_banchi_durante_la_sparatoria_a_scuola-15709570/",
+        "https://www.ilfattoquotidiano.it/2026/08/07/sparatoria-scuola-thailandia-14enne-notizie/8472898/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/07/bbc-6-morti-e-15-feriti-in-una-sparatoria-a-scuola-in-thailandia_5345f213-a7d2-4009-9488-b1a61aad9571.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48801803/thailandia-sparatoria-scuola-strage/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Propaganda online per l’Isis, arrestato a 16 anni. Nel pc le istruzioni per costruire ordigni",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
         "ilmessaggero.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "ansa.it",
         "milano.repubblica.it",
-        "lastampa.it",
-        "agi.it"
+        "lastampa.it"
       ],
       "links": [
         "https://www.ilmessaggero.it/italia/ragazzo_arrestato_terrorismo_propaganda_isis_cosa_e_successo_ultime_notizie-9694548.html",
@@ -90,69 +147,6 @@
         "https://www.ilfattoquotidiano.it/2026/08/07/16enne-arrestato-terrorismo-isis-propaganda-notizie/8472899/",
         "https://www.adnkronos.com/cronaca/terrorismo-propaganda-jihadista-sostegno-isis-arrestato-16enne_2s9Fhewc4pFIwTwawhvMCw",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/propaganda-per-lisis-16enne-arrestato-per-terrorismo_94138c7a-5c22-4ba4-a109-8f2206ff077f.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Il dolore per Guccini in via Paolo Fabbri 43: la via si riempie delle sue canzoni",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "laverita.info",
-        "ilfattoquotidiano.it",
-        "firenze.repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/schede/guccini_casa_dove_viveva_pavana_dove_si_trova_via_fabbri-9694616.html",
-        "https://www.ansa.it/sito/notizie/cultura/2026/08/06/reportage-pavana-il-suo-rifugio-piange-guccini-tra-silenzio-lacrime-e-fiori_1b1d35f7-5415-4f45-9ba6-a22aac94c1da.html",
-        "https://www.ansa.it/sito/notizie/cultura/2026/08/06/a-bologna-in-via-paolo-fabbri-le-canzoni-di-guccini-a-tutto-volume_d52df763-6f2d-4dad-8183-36e0c25a5297.html",
-        "https://www.laverita.info/video/omaggio-guccini-bologna",
-        "https://www.ilfattoquotidiano.it/2026/08/06/morte-guccini-bologna-omaggi-notizie/8472505/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Thailandia, uccide i nonni e apre il fuoco a scuola: 9 morti e 15 feriti",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/07/sparatoria-in-una-scuola-in-thailandia-uccise-almeno-sei-persone-22-i-feriti_5345f213-a7d2-4009-9488-b1a61aad9571.html",
-        "https://www.ilfattoquotidiano.it/2026/08/07/sparatoria-scuola-thailandia-14enne-notizie/8472898/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/07/bbc-6-morti-e-15-feriti-in-una-sparatoria-a-scuola-in-thailandia_5345f213-a7d2-4009-9488-b1a61aad9571.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48801803/thailandia-sparatoria-scuola-strage/",
-        "https://www.adnkronos.com/internazionale/esteri/thailandia-bangkok-strage-scuola_63gMek5ytlSt2JvpZweNEs"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Fauci dichiarato colpevole di oltraggio al Congresso Usa, ora rischia un'indagine penale",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "adnkronos.com",
-        "laverita.info",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/trump-fauci-incriminazione-ultime-news_3tTUR6TGpP9rhsjYwBdfeU",
-        "https://www.laverita.info/mondo/fauci-oltraggio-congresso-usa",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/06/il-senato-usa-dichiara-fauci-colpevole-di-oltraggio-al-congresso_e29b919f-1291-48d1-9ffd-b16de76d3b11.html",
-        "https://www.ilfattoquotidiano.it/2026/08/06/fauci-oltraggio-congresso-pandemia-notizie/8472316/",
-        "https://www.ilmessaggero.it/mondo/fauci_oltraggio_congresso_stati_uniti_covid-9694035.html"
       ]
     },
     {
@@ -178,41 +172,42 @@
     },
     {
       "rank": 9,
-      "title": "Caldo record, i temporali non bastano: estate infernale fino a oltre Ferragosto, le previsioni",
-      "source_count": 4,
-      "article_count": 7,
+      "title": "Il Senato americano dichiara Fauci colpevole di oltraggio al Congresso",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "repubblica.it",
         "adnkronos.com",
-        "lastampa.it",
-        "ansa.it"
+        "laverita.info",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.repubblica.it/cronaca/2026/08/07/news/ancora_10_giorni_caldo_estremo_italia_soffoca_oggi_26_citta_bollino_rosso-425517023/",
-        "https://www.adnkronos.com/cronaca/caldo-record-anticiclone-fino-a-quando-meteo-ferragosto-ultime-notizie_2IF2nNvr2DE9fWOInzWaU8",
-        "https://www.repubblica.it/cronaca/2026/08/07/news/caldo_estremo_mare_bollente_record_mediterraneo-425516511/",
-        "https://www.lastampa.it/cronaca/2026/08/07/news/caldo_estremo_italia_50_gradi-15709202/",
-        "https://www.lastampa.it/cronaca/2026/08/07/news/mare_bollente_in_liguria_in_record_dei_31_gradi-15709273/"
+        "https://www.adnkronos.com/internazionale/esteri/trump-fauci-incriminazione-ultime-news_3tTUR6TGpP9rhsjYwBdfeU",
+        "https://www.laverita.info/mondo/fauci-oltraggio-congresso-usa",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/06/il-senato-usa-dichiara-fauci-colpevole-di-oltraggio-al-congresso_e29b919f-1291-48d1-9ffd-b16de76d3b11.html",
+        "https://www.ilfattoquotidiano.it/2026/08/06/fauci-oltraggio-congresso-pandemia-notizie/8472316/",
+        "https://www.ilmessaggero.it/mondo/fauci_oltraggio_congresso_stati_uniti_covid-9694035.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Il Papa contro i potenti della Terra: “Si inventano nemici per sovrastare e umiliare”",
+      "title": "Stephanie Kercher: “Fermate lo spettacolo di Amanda Knox su mia sorella Meredith: è sconvolgente”",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "ilmessaggero.it",
-        "ilmanifesto.it",
+        "ilfattoquotidiano.it",
         "lastampa.it",
-        "ansa.it",
-        "ilsole24ore.com"
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/vaticano/papa_leone_assisi_visita_cosa_e_successo_ultime_notizie-9694460.html",
-        "https://ilmanifesto.it/il-papa-ai-giovani-lets-go-contro-le-prepotenze",
-        "https://www.lastampa.it/esteri/2026/08/07/news/il_papa_contro_i_potenti_della_terra_si_inventano_nemici_per_sovrastare_e_umiliare-15709255/",
-        "https://www.ansa.it/vaticano/notizie/2026/08/06/il-papa-ad-assisi-bagno-di-folla-con-i-giovani.-i-cristiani-allopposto-del-fondamentalismo_40950051-203f-430a-a747-6b391e328d13.html",
-        "https://www.ilsole24ore.com/art/papa-leone-incontra-giovani-ad-assisi-siate-operatori-pace-AJgcRVg"
+        "https://www.ilfattoquotidiano.it/2026/08/07/il-mio-spettacolo-rende-omaggio-alla-memoria-di-meredith-kercher-e-denuncia-la-violenza-subita-da-lei-e-da-me-amanda-knox-risponde-alle-polemiche/8472928/",
+        "https://www.lastampa.it/spettacoli/2026/08/07/video/la_famiglia_di_meredith_kercher_contro_amanda_knox_lei_si_difende_la_mia_una_commedia_sensibile-15709400/",
+        "https://www.repubblica.it/esteri/2026/08/07/news/intervista_stephanie_kercher_fermate_spettacolo_amanda_knox_meredith-425516623/",
+        "https://www.liberoquotidiano.it/news/esteri/48797664/amanda-knox-stand-up-comedy-omicidio-meredith-stephanie-kercher-fosse-successo-tua-sorella/",
+        "https://www.ilmessaggero.it/persone/amanda_knox_monologo_meredith_kercher_polemica-9693956.html"
       ]
     }
   ]
