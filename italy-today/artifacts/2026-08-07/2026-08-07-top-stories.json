@@ -1,24 +1,25 @@
 {
   "date": "2026-08-07",
-  "generated_at": "Fri 07 Aug 11:02",
+  "generated_at": "Fri 07 Aug 11:55",
   "stories": [
     {
       "rank": 1,
       "title": "Francesco Guccini, il gigante che ha trasformato le parole in memoria",
-      "source_count": 4,
-      "article_count": 15,
+      "source_count": 5,
+      "article_count": 19,
       "source_domains": [
+        "firenze.repubblica.it",
         "lastampa.it",
         "ansa.it",
-        "repubblica.it",
+        "ilmanifesto.it",
         "ilmessaggero.it"
       ],
       "links": [
+        "https://firenze.repubblica.it/cronaca/2026/08/07/news/morte_francesco_guccini_pellegrinaggio_fan_pavana-425517455/",
         "https://www.lastampa.it/spettacoli/2026/08/07/news/rifugio_emiliano_guccini_dialetto_pavana-15709553/",
         "https://www.ansa.it/sito/videogallery/spettacolo/2026/08/07/dio-e-morto-i-nomadi-cantano-guccini-nel-giorno-della-sua-scomparsa_ffe8bedf-8157-4544-b014-6d6eb703ec9a.html",
         "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/07/prime-pagine-addio-a-guccini-il-maestrone-nella-storia-della-musica_65c3c99b-40d8-48ec-9bdd-d67c290b2080.html",
-        "https://www.repubblica.it/spettacoli/musica/2026/08/07/news/francesco_guccini_il_gigante_che_ha_trasformato_le_parole_in_memoria-425516256/",
-        "https://www.repubblica.it/spettacoli/2026/08/07/news/francesco_guccini_morto_prima_pagina_repubblica-425516586/"
+        "https://www.repubblica.it/spettacoli/musica/2026/08/07/news/francesco_guccini_il_gigante_che_ha_trasformato_le_parole_in_memoria-425516256/"
       ]
     },
     {
@@ -46,49 +47,6 @@
     },
     {
       "rank": 3,
-      "title": "Covid, Conte: “Questa commissione è un plotone d’esecuzione contro di me”",
-      "source_count": 7,
-      "article_count": 9,
-      "source_domains": [
-        "laverita.info",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.laverita.info/inchieste/conte-commissione-covid-audizione-3",
-        "https://www.repubblica.it/politica/2026/08/07/news/giuseppe_conte_audizione_commissione_covid_lettera_anonima-425516447/",
-        "https://ilmanifesto.it/covid-conte-nel-mirino-di-fdi",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/06/conte-depositato-in-procura-documento-anonimo-su-mascherine-sospette-stato-di-emergenza-necessario_ac2c279a-6990-45a3-95a2-ac5b53a1f6cd.html",
-        "https://www.lastampa.it/cronaca/2026/08/07/news/conte_lettera_anonima_mascherine_carte_ai_pm-15709224/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Guccini, l’omaggio di Bologna: le sue canzoni risuonano in via Paolo Fabbri",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "laverita.info",
-        "bologna.repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cultura/2026/08/07/in-via-paolo-fabbri-la-processione-per-guccini-tra-fiori-e-biglietti-daffetto._1b09b48a-6edd-4b5c-9c20-3c274ef61cb3.html",
-        "https://www.ilfattoquotidiano.it/2026/08/07/guccini-raduno-bologna-autogrill-notizie/8473030/",
-        "https://www.ilmessaggero.it/schede/guccini_casa_dove_viveva_pavana_dove_si_trova_via_fabbri-9694616.html",
-        "https://www.ansa.it/sito/notizie/cultura/2026/08/06/a-bologna-in-via-paolo-fabbri-le-canzoni-di-guccini-a-tutto-volume_d52df763-6f2d-4dad-8183-36e0c25a5297.html",
-        "https://www.laverita.info/video/omaggio-guccini-bologna"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Caldo record, i temporali non bastano: estate infernale fino a oltre Ferragosto, le previsioni",
       "source_count": 5,
       "article_count": 9,
@@ -108,7 +66,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 4,
       "title": "Thailandia, uccide i nonni e apre il fuoco a scuola: 9 morti e 15 feriti",
       "source_count": 6,
       "article_count": 8,
@@ -129,7 +87,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "Propaganda online per l’Isis, arrestato a 16 anni. Nel pc le istruzioni per costruire ordigni",
       "source_count": 6,
       "article_count": 7,
@@ -150,7 +108,27 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
+      "title": "Guccini, l’omaggio di Bologna: le sue canzoni risuonano in via Paolo Fabbri",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "laverita.info",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cultura/2026/08/07/in-via-paolo-fabbri-la-processione-per-guccini-tra-fiori-e-biglietti-daffetto._1b09b48a-6edd-4b5c-9c20-3c274ef61cb3.html",
+        "https://www.ilfattoquotidiano.it/2026/08/07/guccini-raduno-bologna-autogrill-notizie/8473030/",
+        "https://www.ilmessaggero.it/schede/guccini_casa_dove_viveva_pavana_dove_si_trova_via_fabbri-9694616.html",
+        "https://www.ansa.it/sito/notizie/cultura/2026/08/06/a-bologna-in-via-paolo-fabbri-le-canzoni-di-guccini-a-tutto-volume_d52df763-6f2d-4dad-8183-36e0c25a5297.html",
+        "https://www.laverita.info/video/omaggio-guccini-bologna"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Usa, stangata per Meta: dovrà pagare 567 milioni di dollari per danni piattaforme ai minori",
       "source_count": 6,
       "article_count": 6,
@@ -171,43 +149,63 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Il Senato americano dichiara Fauci colpevole di oltraggio al Congresso",
+      "rank": 8,
+      "title": "Covid, l’atto d’accusa di Conte: “Soldi dal governo alla ditta delle mascherine contraffatte”",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "adnkronos.com",
         "laverita.info",
+        "repubblica.it",
         "ansa.it",
-        "ilfattoquotidiano.it",
+        "lastampa.it",
         "ilmessaggero.it"
       ],
       "links": [
-        "https://www.adnkronos.com/internazionale/esteri/trump-fauci-incriminazione-ultime-news_3tTUR6TGpP9rhsjYwBdfeU",
-        "https://www.laverita.info/mondo/fauci-oltraggio-congresso-usa",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/06/il-senato-usa-dichiara-fauci-colpevole-di-oltraggio-al-congresso_e29b919f-1291-48d1-9ffd-b16de76d3b11.html",
-        "https://www.ilfattoquotidiano.it/2026/08/06/fauci-oltraggio-congresso-pandemia-notizie/8472316/",
-        "https://www.ilmessaggero.it/mondo/fauci_oltraggio_congresso_stati_uniti_covid-9694035.html"
+        "https://www.laverita.info/inchieste/sentenza-mascherine-jc",
+        "https://www.repubblica.it/politica/2026/08/07/news/giuseppe_conte_audizione_commissione_covid_lettera_anonima-425516447/",
+        "https://www.ansa.it/sito/notizie/politica/2026/08/06/conte-depositato-in-procura-documento-anonimo-su-mascherine-sospette-stato-di-emergenza-necessario_ac2c279a-6990-45a3-95a2-ac5b53a1f6cd.html",
+        "https://www.lastampa.it/cronaca/2026/08/07/news/conte_lettera_anonima_mascherine_carte_ai_pm-15709224/",
+        "https://www.repubblica.it/politica/2026/08/06/news/conte_commissione_covid_pandemia_documento_mascherine-425515780/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Schengen, la Spagna avvisa l'Italia: «Stop ai controlli alle frontiere entro domenica o adotteremo misure proporzionali»",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/madrid-ultimatum-italia-contorlli-migranti-ceuta-cosa-sta-succedendo_6HAprELEWVF8QCbC8SQ6MQ",
+        "https://www.ilfattoquotidiano.it/2026/08/07/migranti-spagna-ultimatum-italia-frontiere-notizie/8473229/",
+        "https://www.ilmessaggero.it/politica/ceuta_scontro_spagna_italia_stop_controlli_frontiere_schengen-9695776.html",
+        "https://www.ilmessaggero.it/politica/schengen_scontro_spagna_italia_controlli_frontiere_ceuta-9695776.html",
+        "https://www.repubblica.it/esteri/2026/08/07/news/spagna_schengen_meloni_sanchez_minaccia_9_agosto_misure_proporzionali-425517398/"
       ]
     },
     {
       "rank": 10,
-      "title": "Stephanie Kercher: “Fermate lo spettacolo di Amanda Knox su mia sorella Meredith: è sconvolgente”",
+      "title": "ll Mediterraneo tocca 33 gradi, mai così calda l’acqua del mare: “L’aria fresca innescherà disastri”",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it",
+        "ansa.it",
+        "ilmessaggero.it",
         "liberoquotidiano.it",
-        "ilmessaggero.it"
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/07/il-mio-spettacolo-rende-omaggio-alla-memoria-di-meredith-kercher-e-denuncia-la-violenza-subita-da-lei-e-da-me-amanda-knox-risponde-alle-polemiche/8472928/",
-        "https://www.lastampa.it/spettacoli/2026/08/07/video/la_famiglia_di_meredith_kercher_contro_amanda_knox_lei_si_difende_la_mia_una_commedia_sensibile-15709400/",
-        "https://www.repubblica.it/esteri/2026/08/07/news/intervista_stephanie_kercher_fermate_spettacolo_amanda_knox_meredith-425516623/",
-        "https://www.liberoquotidiano.it/news/esteri/48797664/amanda-knox-stand-up-comedy-omicidio-meredith-stephanie-kercher-fosse-successo-tua-sorella/",
-        "https://www.ilmessaggero.it/persone/amanda_knox_monologo_meredith_kercher_polemica-9693956.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/el-nino-pronto-a-dominare-il-clima-globale-tra-agosto-e-ottobre_9030067f-039c-4248-9272-d34578eab509.html",
+        "https://www.ilmessaggero.it/italia/mediterraneo_caldo_perche_eventi_estremi-9695724.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48803258/crisi-climatica-mediterraneo-sempre-piu-caldo-anche-in-profondita-/",
+        "https://www.repubblica.it/cronaca/2026/08/07/news/caldo_estremo_mare_bollente_record_mediterraneo-425516511/",
+        "https://www.lastampa.it/cronaca/2026/08/07/news/mare_bollente_in_liguria_in_record_dei_31_gradi-15709273/"
       ]
     }
   ]
