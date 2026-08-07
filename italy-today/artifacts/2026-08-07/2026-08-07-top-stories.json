@@ -1,52 +1,31 @@
 {
   "date": "2026-08-07",
-  "generated_at": "Fri 07 Aug 15:02",
+  "generated_at": "Fri 07 Aug 16:06",
   "stories": [
     {
       "rank": 1,
-      "title": "Francesco Guccini, il gigante che ha trasformato le parole in memoria",
-      "source_count": 5,
-      "article_count": 17,
+      "title": "In via Paolo Fabbri la processione per Guccini tra fiori e biglietti d'affetto. Sabato a Bologna lutto cittadino",
+      "source_count": 7,
+      "article_count": 13,
       "source_domains": [
-        "firenze.repubblica.it",
+        "adnkronos.com",
         "lastampa.it",
+        "firenze.repubblica.it",
         "ansa.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it"
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "laverita.info"
       ],
       "links": [
+        "https://www.adnkronos.com/spettacoli/pavana-guccini-sindaco-oggi-ultimo-saluto_3ZHkhpDkcvU5S3YN230Ius",
+        "https://www.lastampa.it/spettacoli/2026/08/07/video/morte_guccini_fan_cantano_sotto_casa_bologna-15709705/",
         "https://firenze.repubblica.it/cronaca/2026/08/07/news/morte_francesco_guccini_pellegrinaggio_fan_pavana-425517455/",
-        "https://www.lastampa.it/spettacoli/2026/08/07/news/rifugio_emiliano_guccini_dialetto_pavana-15709553/",
-        "https://www.ansa.it/sito/videogallery/spettacolo/2026/08/07/dio-e-morto-i-nomadi-cantano-guccini-nel-giorno-della-sua-scomparsa_ffe8bedf-8157-4544-b014-6d6eb703ec9a.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/07/prime-pagine-addio-a-guccini-il-maestrone-nella-storia-della-musica_65c3c99b-40d8-48ec-9bdd-d67c290b2080.html",
-        "https://www.repubblica.it/spettacoli/musica/2026/08/07/news/francesco_guccini_il_gigante_che_ha_trasformato_le_parole_in_memoria-425516256/"
+        "https://www.ansa.it/sito/notizie/cultura/2026/08/07/in-via-paolo-fabbri-la-processione-per-guccini-tra-fiori-e-biglietti-daffetto._1b09b48a-6edd-4b5c-9c20-3c274ef61cb3.html",
+        "https://www.ilfattoquotidiano.it/2026/08/07/guccini-raduno-bologna-autogrill-notizie/8473030/"
       ]
     },
     {
       "rank": 2,
-      "title": "Crans-Montana, procura svizzera respinge costituzione parte civile dell’Italia. Farnesina: pronti a ricorso",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "ilsole24ore.com",
-        "agi.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/la-strage-di-crans-procura-sion-respinge-costituzione-parte-civile-italia_8ef3af86-f3c4-4611-a60a-e00f03179c77.html",
-        "https://www.lastampa.it/cronaca/2026/08/06/news/crans_montana_schiaffo_all_italia_non_e_parte_civile_roma_fa_ricorso-15709210/",
-        "https://www.ilfattoquotidiano.it/2026/08/06/rogo-di-crans-montana-la-svizzera-dice-no-allitalia-esclusa-dal-processo-come-parte-civile/8472486/",
-        "https://www.ilmessaggero.it/italia/crans_montana_italia_no_parte_civile_cosa_e_successo_perche-9694153.html",
-        "https://www.liberoquotidiano.it/news/esteri/48797511/crans-sfregio-svizzera-italia-respinta-richiesta-costituirsi-parte-civile/"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Thailandia, uccide i nonni e apre il fuoco a scuola: 9 morti e 15 feriti",
       "source_count": 6,
       "article_count": 10,
@@ -67,7 +46,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Ceuta, la Spagna avvisa l'Italia: «Stop ai controlli alle frontiere entro domenica o adotteremo delle misure»",
       "source_count": 7,
       "article_count": 9,
@@ -86,6 +65,26 @@
         "https://www.adnkronos.com/internazionale/esteri/madrid-ultimatum-italia-contorlli-migranti-ceuta-cosa-sta-succedendo_6HAprELEWVF8QCbC8SQ6MQ",
         "https://www.ilfattoquotidiano.it/2026/08/07/migranti-spagna-ultimatum-italia-frontiere-notizie/8473229/",
         "https://www.ilmessaggero.it/politica/ceuta_scontro_spagna_italia_stop_controlli_frontiere_schengen-9695776.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Francesco Guccini, il gigante che ha trasformato le parole in memoria",
+      "source_count": 5,
+      "article_count": 10,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/48804966/la_russa_non_condividevo_le_idee_di_guccini_ma_ho_apprezzato_la_sua_musica_/",
+        "https://www.liberoquotidiano.it/news/tv-news/48804762/la-russa-non-condividevo-idee-guccini-ma-apprezzavo-la-sua-musica/",
+        "https://www.ansa.it/sito/videogallery/spettacolo/2026/08/07/dio-e-morto-i-nomadi-cantano-guccini-nel-giorno-della-sua-scomparsa_ffe8bedf-8157-4544-b014-6d6eb703ec9a.html",
+        "https://www.repubblica.it/spettacoli/musica/2026/08/07/news/francesco_guccini_il_gigante_che_ha_trasformato_le_parole_in_memoria-425516256/",
+        "https://ilmanifesto.it/guccini-o-del-secolo-lungo-della-canzone-dautore-italiana"
       ]
     },
     {
@@ -131,22 +130,23 @@
     },
     {
       "rank": 7,
-      "title": "Guccini, l’omaggio di Bologna: le sue canzoni risuonano in via Paolo Fabbri",
-      "source_count": 5,
-      "article_count": 7,
+      "title": "Crans-Montana, procura svizzera respinge costituzione parte civile dell’Italia. Farnesina: pronti a ricorso",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
-        "lastampa.it",
         "ansa.it",
+        "lastampa.it",
         "ilfattoquotidiano.it",
-        "laverita.info",
+        "ilsole24ore.com",
+        "agi.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.lastampa.it/spettacoli/2026/08/07/video/morte_guccini_fan_cantano_sotto_casa_bologna-15709705/",
-        "https://www.ansa.it/sito/notizie/cultura/2026/08/07/in-via-paolo-fabbri-la-processione-per-guccini-tra-fiori-e-biglietti-daffetto._1b09b48a-6edd-4b5c-9c20-3c274ef61cb3.html",
-        "https://www.ilfattoquotidiano.it/2026/08/07/guccini-raduno-bologna-autogrill-notizie/8473030/",
-        "https://www.ansa.it/sito/notizie/cultura/2026/08/06/a-bologna-in-via-paolo-fabbri-le-canzoni-di-guccini-a-tutto-volume_d52df763-6f2d-4dad-8183-36e0c25a5297.html",
-        "https://www.laverita.info/video/omaggio-guccini-bologna"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/06/la-strage-di-crans-procura-sion-respinge-costituzione-parte-civile-italia_8ef3af86-f3c4-4611-a60a-e00f03179c77.html",
+        "https://www.lastampa.it/cronaca/2026/08/06/news/crans_montana_schiaffo_all_italia_non_e_parte_civile_roma_fa_ricorso-15709210/",
+        "https://www.ilfattoquotidiano.it/2026/08/06/rogo-di-crans-montana-la-svizzera-dice-no-allitalia-esclusa-dal-processo-come-parte-civile/8472486/",
+        "https://www.ilsole24ore.com/art/strage-crans-montana-procura-sion-respinge-costituzione-parte-civile-dell-italia-AJuoWmg",
+        "https://www.agi.it/cronaca/news/2026-08-06/ricorso-italia-crans-montana-38422392/"
       ]
     },
     {
@@ -172,6 +172,27 @@
     },
     {
       "rank": 9,
+      "title": "Dal Garante privacy arriva lo stop ai deepfake satirici di “Striscia la notizia” su Enrico Mentana",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/07/stop-ai-deepfake-satirici-di-striscia-la-notizia-su-enrico-mentana-e-la-decisione-del-garante-della-privacy/8473419/",
+        "https://www.repubblica.it/spettacoli/tv-radio/2026/08/07/news/striscia_la_notizia_stop_deepfake_mentana_garante-425517501/",
+        "https://www.liberoquotidiano.it/news/personaggi/48803753/enrico-mentana-garante-privacy-striscia-la-notizia/",
+        "https://www.lastampa.it/economia/2026/08/07/news/garante_privacy_stop_deepfake_mentana_striscia_la_notizia-15709581/",
+        "https://www.ilsole24ore.com/art/garante-privacy-stop-deepfake-satirici-striscia-mentana-AJ05COh"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "ll Mediterraneo tocca 33 gradi, mai così calda l’acqua del mare: “L’aria fresca innescherà disastri”",
       "source_count": 5,
       "article_count": 5,
@@ -188,26 +209,6 @@
         "https://www.liberoquotidiano.it/news/tv-news/48803258/crisi-climatica-mediterraneo-sempre-piu-caldo-anche-in-profondita-/",
         "https://www.repubblica.it/cronaca/2026/08/07/news/caldo_estremo_mare_bollente_record_mediterraneo-425516511/",
         "https://www.lastampa.it/cronaca/2026/08/07/news/mare_bollente_in_liguria_in_record_dei_31_gradi-15709273/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Cercava di entrare a Ceuta con il parapendio, morto un giovane",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/esteri/48804048/ceuta-lancia-parapendio-exclave-morte-atroce-africano/",
-        "https://www.ilfattoquotidiano.it/2026/08/07/migrante-ceuta-parapendio-morte-notizie/8473108/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/07/muore-un-giovane-nel-tentativo-di-entrare-a-ceuta-col-parapendio_f3ae0249-3da7-458c-b59e-d1e0b80bd8ae.html",
-        "https://www.repubblica.it/esteri/2026/08/07/news/ceuta_morto_mentre_tentava_di_entrare_con_parapendio-425517202/",
-        "https://www.lastampa.it/esteri/2026/08/07/news/ceuta_migrante_morto_parapendio-15709537/"
       ]
     }
   ]
