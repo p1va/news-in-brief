@@ -1,12 +1,32 @@
 {
   "date": "2026-08-07",
-  "generated_at": "Fri 07 Aug 17:56",
+  "generated_at": "Fri 07 Aug 19:08",
   "stories": [
     {
       "rank": 1,
-      "title": "In via Paolo Fabbri la processione per Guccini tra fiori e biglietti d'affetto. Sabato a Bologna lutto cittadino",
-      "source_count": 6,
+      "title": "Francesco Guccini, il gigante che ha trasformato le parole in memoria",
+      "source_count": 5,
       "article_count": 12,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmanifesto.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/spettacoli/musica/2026/08/07/news/francesco_guccini_fan_generazioni_canzoni-425518093/",
+        "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/07/paolo-conte-saluta-guccini-la-tua-compagnia-mi-ha-sempre-divertito_c66c453d-d806-4c96-8978-a70803d80ed3.html",
+        "https://www.liberoquotidiano.it/news/pillole/48804966/la_russa_non_condividevo_le_idee_di_guccini_ma_ho_apprezzato_la_sua_musica_/",
+        "https://www.liberoquotidiano.it/news/tv-news/48804762/la-russa-non-condividevo-idee-guccini-ma-apprezzavo-la-sua-musica/",
+        "https://www.ansa.it/sito/videogallery/spettacolo/2026/08/07/dio-e-morto-i-nomadi-cantano-guccini-nel-giorno-della-sua-scomparsa_ffe8bedf-8157-4544-b014-6d6eb703ec9a.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Addio a Francesco Guccini, il Maestrone che ha segnato la storia della musica",
+      "source_count": 6,
+      "article_count": 10,
       "source_domains": [
         "adnkronos.com",
         "lastampa.it",
@@ -21,26 +41,6 @@
         "https://firenze.repubblica.it/cronaca/2026/08/07/news/morte_francesco_guccini_pellegrinaggio_fan_pavana-425517455/",
         "https://www.ansa.it/sito/notizie/cultura/2026/08/07/in-via-paolo-fabbri-la-processione-per-guccini-tra-fiori-e-biglietti-daffetto._1b09b48a-6edd-4b5c-9c20-3c274ef61cb3.html",
         "https://www.ilfattoquotidiano.it/2026/08/07/guccini-raduno-bologna-autogrill-notizie/8473030/"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Francesco Guccini, il gigante che ha trasformato le parole in memoria",
-      "source_count": 5,
-      "article_count": 11,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/07/paolo-conte-saluta-guccini-la-tua-compagnia-mi-ha-sempre-divertito_c66c453d-d806-4c96-8978-a70803d80ed3.html",
-        "https://www.liberoquotidiano.it/news/pillole/48804966/la_russa_non_condividevo_le_idee_di_guccini_ma_ho_apprezzato_la_sua_musica_/",
-        "https://www.liberoquotidiano.it/news/tv-news/48804762/la-russa-non-condividevo-idee-guccini-ma-apprezzavo-la-sua-musica/",
-        "https://www.ansa.it/sito/videogallery/spettacolo/2026/08/07/dio-e-morto-i-nomadi-cantano-guccini-nel-giorno-della-sua-scomparsa_ffe8bedf-8157-4544-b014-6d6eb703ec9a.html",
-        "https://www.repubblica.it/spettacoli/musica/2026/08/07/news/francesco_guccini_il_gigante_che_ha_trasformato_le_parole_in_memoria-425516256/"
       ]
     },
     {
@@ -150,6 +150,27 @@
     },
     {
       "rank": 8,
+      "title": "Dolomiti Superski, arrivano rimborsi e sconti per 30 milioni euro. Ecco chi ne ha diritto",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/economia/2026/08/07/antitrust-rimborsi-e-sconti-per-30-milioni-di-euro-per-skipass-in-veneto-e-trentino_63eef9e6-ac42-4487-a25f-c756cd2e0f45.html",
+        "https://www.ilmessaggero.it/italia/dolomiti_superski_rimborsi_sconti_per_chi_come_funziona-9696110.html",
+        "https://www.repubblica.it/cronaca/2026/08/07/news/dolomiti_superski_antitrust_rimborsi_sconti_chi_ha_diritto-425517789/",
+        "https://www.adnkronos.com/internazionale/esteri/dolomiti-superski-rimborsi-skipass_s4cMZRUOLLZacS50PwpCU",
+        "https://www.ilfattoquotidiano.it/2026/08/07/dolomiti-superski-antitrust-rimborsi-skipass-assoutenti-consumatori-beffati/8473308/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Dal Garante privacy arriva lo stop ai deepfake satirici di “Striscia la notizia” su Enrico Mentana",
       "source_count": 6,
       "article_count": 6,
@@ -170,43 +191,24 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "ll Mediterraneo tocca 33 gradi, mai così calda l’acqua del mare: “L’aria fresca innescherà disastri”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/el-nino-pronto-a-dominare-il-clima-globale-tra-agosto-e-ottobre_9030067f-039c-4248-9272-d34578eab509.html",
-        "https://www.ilmessaggero.it/italia/mediterraneo_caldo_perche_eventi_estremi-9695724.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48803258/crisi-climatica-mediterraneo-sempre-piu-caldo-anche-in-profondita-/",
-        "https://www.repubblica.it/cronaca/2026/08/07/news/caldo_estremo_mare_bollente_record_mediterraneo-425516511/",
-        "https://www.lastampa.it/cronaca/2026/08/07/news/mare_bollente_in_liguria_in_record_dei_31_gradi-15709273/"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Dolomiti Superski, arrivano rimborsi e sconti per 30 milioni euro. Ecco chi ne ha diritto",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Nicola Musiani ucciso a Cervia. «Il 54enne è stato pestato a morte da un gruppo di giovani»: fermati in quattro",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
         "ilmessaggero.it",
-        "repubblica.it",
-        "adnkronos.com",
         "ilfattoquotidiano.it",
-        "ilsole24ore.com"
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "bologna.repubblica.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/italia/dolomiti_superski_rimborsi_sconti_per_chi_come_funziona-9696110.html",
-        "https://www.repubblica.it/cronaca/2026/08/07/news/dolomiti_superski_antitrust_rimborsi_sconti_chi_ha_diritto-425517789/",
-        "https://www.adnkronos.com/internazionale/esteri/dolomiti-superski-rimborsi-skipass_s4cMZRUOLLZacS50PwpCU",
-        "https://www.ilfattoquotidiano.it/2026/08/07/dolomiti-superski-antitrust-rimborsi-skipass-assoutenti-consumatori-beffati/8473308/",
-        "https://www.ilsole24ore.com/art/dolomiti-superski-accordo-l-antitrust-rimborsi-e-sconti-30-milioni-sciatori-AJNfyIh"
+        "https://www.ilmessaggero.it/italia/nicola_musiani_morto_indagine_chi_sono_arrestati_oggi-9696136.html",
+        "https://www.ilfattoquotidiano.it/2026/08/07/omicidio-musiani-fermati-quattro-ragazzi-notizie/8473624/",
+        "https://www.adnkronos.com/cronaca/omicidio-nicola-musiani-pinarella-cervia-quattro-giovani-fermati_6KLBj9MD4Co1HEzL47hkny",
+        "https://www.liberoquotidiano.it/news/italia/48807206/cervia-pestato-ucciso-54-anni-fermati-quattro-ragazzi-tra-19-23-anni/",
+        "https://bologna.repubblica.it/cronaca/2026/08/07/news/nicola_musiani_pestaggio_cervia_quattro_giovani_fermati-425517902/"
       ]
     }
   ]
