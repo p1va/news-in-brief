@@ -1,12 +1,12 @@
 {
   "date": "2026-08-07",
-  "generated_at": "Fri 07 Aug 11:55",
+  "generated_at": "Fri 07 Aug 13:18",
   "stories": [
     {
       "rank": 1,
       "title": "Francesco Guccini, il gigante che ha trasformato le parole in memoria",
       "source_count": 5,
-      "article_count": 19,
+      "article_count": 17,
       "source_domains": [
         "firenze.repubblica.it",
         "lastampa.it",
@@ -47,6 +47,27 @@
     },
     {
       "rank": 3,
+      "title": "Thailandia, uccide i nonni e apre il fuoco a scuola: 9 morti e 15 feriti",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/07/strage-a-bangkok-uccide-i-nonni-e-poi-spara-in-una-scuola-8-morti-e-oltre_5345f213-a7d2-4009-9488-b1a61aad9571.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48804197/thailandia-14enne-uccide-i-nonni-e-poi-fa-strage-al-liceo-8-morti/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/07/sparatoria-in-una-scuola-in-thailandia-uccise-almeno-sei-persone-22-i-feriti_5345f213-a7d2-4009-9488-b1a61aad9571.html",
+        "https://www.lastampa.it/esteri/2026/08/07/video/thailandia_gli_studenti_si_nascondono_sotto_i_banchi_durante_la_sparatoria_a_scuola-15709570/",
+        "https://www.ilfattoquotidiano.it/2026/08/07/sparatoria-scuola-thailandia-14enne-notizie/8472898/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Caldo record, i temporali non bastano: estate infernale fino a oltre Ferragosto, le previsioni",
       "source_count": 5,
       "article_count": 9,
@@ -66,65 +87,45 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Thailandia, uccide i nonni e apre il fuoco a scuola: 9 morti e 15 feriti",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/07/sparatoria-in-una-scuola-in-thailandia-uccise-almeno-sei-persone-22-i-feriti_5345f213-a7d2-4009-9488-b1a61aad9571.html",
-        "https://www.lastampa.it/esteri/2026/08/07/video/thailandia_gli_studenti_si_nascondono_sotto_i_banchi_durante_la_sparatoria_a_scuola-15709570/",
-        "https://www.ilfattoquotidiano.it/2026/08/07/sparatoria-scuola-thailandia-14enne-notizie/8472898/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/07/bbc-6-morti-e-15-feriti-in-una-sparatoria-a-scuola-in-thailandia_5345f213-a7d2-4009-9488-b1a61aad9571.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48801803/thailandia-sparatoria-scuola-strage/"
-      ]
-    },
-    {
       "rank": 5,
       "title": "Propaganda online per l’Isis, arrestato a 16 anni. Nel pc le istruzioni per costruire ordigni",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "ilmessaggero.it",
         "adnkronos.com",
+        "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "ansa.it",
         "milano.repubblica.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.adnkronos.com/cronaca/minorenni-terrorismo-arresto-comasco_5IZ1YvTXnxVK49wYLOmU7u",
         "https://www.ilmessaggero.it/italia/ragazzo_arrestato_terrorismo_propaganda_isis_cosa_e_successo_ultime_notizie-9694548.html",
         "https://www.adnkronos.com/cronaca/terrorismo-propaganda-jiadista-e-sostegno-allisis-arrestato-16enne_2s9Fhewc4pFIwTwawhvMCw",
         "https://www.ilfattoquotidiano.it/2026/08/07/16enne-arrestato-terrorismo-isis-propaganda-notizie/8472899/",
-        "https://www.adnkronos.com/cronaca/terrorismo-propaganda-jihadista-sostegno-isis-arrestato-16enne_2s9Fhewc4pFIwTwawhvMCw",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/07/propaganda-per-lisis-16enne-arrestato-per-terrorismo_94138c7a-5c22-4ba4-a109-8f2206ff077f.html"
+        "https://www.adnkronos.com/cronaca/terrorismo-propaganda-jihadista-sostegno-isis-arrestato-16enne_2s9Fhewc4pFIwTwawhvMCw"
       ]
     },
     {
       "rank": 6,
-      "title": "Guccini, l’omaggio di Bologna: le sue canzoni risuonano in via Paolo Fabbri",
-      "source_count": 5,
+      "title": "Ceuta, la Spagna avvisa l'Italia: «Stop ai controlli alle frontiere entro domenica o adotteremo delle misure»",
+      "source_count": 6,
       "article_count": 7,
       "source_domains": [
-        "ansa.it",
+        "adnkronos.com",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "laverita.info",
+        "repubblica.it",
+        "lastampa.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cultura/2026/08/07/in-via-paolo-fabbri-la-processione-per-guccini-tra-fiori-e-biglietti-daffetto._1b09b48a-6edd-4b5c-9c20-3c274ef61cb3.html",
-        "https://www.ilfattoquotidiano.it/2026/08/07/guccini-raduno-bologna-autogrill-notizie/8473030/",
-        "https://www.ilmessaggero.it/schede/guccini_casa_dove_viveva_pavana_dove_si_trova_via_fabbri-9694616.html",
-        "https://www.ansa.it/sito/notizie/cultura/2026/08/06/a-bologna-in-via-paolo-fabbri-le-canzoni-di-guccini-a-tutto-volume_d52df763-6f2d-4dad-8183-36e0c25a5297.html",
-        "https://www.laverita.info/video/omaggio-guccini-bologna"
+        "https://www.adnkronos.com/internazionale/esteri/madrid-ultimatum-italia-contorlli-migranti-ceuta-cosa-sta-succedendo_6HAprELEWVF8QCbC8SQ6MQ",
+        "https://www.ilfattoquotidiano.it/2026/08/07/migranti-spagna-ultimatum-italia-frontiere-notizie/8473229/",
+        "https://www.ilmessaggero.it/politica/ceuta_scontro_spagna_italia_stop_controlli_frontiere_schengen-9695776.html",
+        "https://www.ilmessaggero.it/politica/schengen_scontro_spagna_italia_controlli_frontiere_ceuta-9695776.html",
+        "https://www.repubblica.it/esteri/2026/08/07/news/spagna_schengen_meloni_sanchez_minaccia_9_agosto_misure_proporzionali-425517398/"
       ]
     },
     {
@@ -170,26 +171,6 @@
     },
     {
       "rank": 9,
-      "title": "Schengen, la Spagna avvisa l'Italia: «Stop ai controlli alle frontiere entro domenica o adotteremo misure proporzionali»",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/madrid-ultimatum-italia-contorlli-migranti-ceuta-cosa-sta-succedendo_6HAprELEWVF8QCbC8SQ6MQ",
-        "https://www.ilfattoquotidiano.it/2026/08/07/migranti-spagna-ultimatum-italia-frontiere-notizie/8473229/",
-        "https://www.ilmessaggero.it/politica/ceuta_scontro_spagna_italia_stop_controlli_frontiere_schengen-9695776.html",
-        "https://www.ilmessaggero.it/politica/schengen_scontro_spagna_italia_controlli_frontiere_ceuta-9695776.html",
-        "https://www.repubblica.it/esteri/2026/08/07/news/spagna_schengen_meloni_sanchez_minaccia_9_agosto_misure_proporzionali-425517398/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "ll Mediterraneo tocca 33 gradi, mai così calda l’acqua del mare: “L’aria fresca innescherà disastri”",
       "source_count": 5,
       "article_count": 5,
@@ -206,6 +187,25 @@
         "https://www.liberoquotidiano.it/news/tv-news/48803258/crisi-climatica-mediterraneo-sempre-piu-caldo-anche-in-profondita-/",
         "https://www.repubblica.it/cronaca/2026/08/07/news/caldo_estremo_mare_bollente_record_mediterraneo-425516511/",
         "https://www.lastampa.it/cronaca/2026/08/07/news/mare_bollente_in_liguria_in_record_dei_31_gradi-15709273/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Guccini, l’omaggio di Bologna: le sue canzoni risuonano in via Paolo Fabbri",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "laverita.info",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cultura/2026/08/07/in-via-paolo-fabbri-la-processione-per-guccini-tra-fiori-e-biglietti-daffetto._1b09b48a-6edd-4b5c-9c20-3c274ef61cb3.html",
+        "https://www.ilfattoquotidiano.it/2026/08/07/guccini-raduno-bologna-autogrill-notizie/8473030/",
+        "https://www.ansa.it/sito/notizie/cultura/2026/08/06/a-bologna-in-via-paolo-fabbri-le-canzoni-di-guccini-a-tutto-volume_d52df763-6f2d-4dad-8183-36e0c25a5297.html",
+        "https://www.laverita.info/video/omaggio-guccini-bologna",
+        "https://www.ilfattoquotidiano.it/2026/08/06/morte-guccini-bologna-omaggi-notizie/8472505/"
       ]
     }
   ]
