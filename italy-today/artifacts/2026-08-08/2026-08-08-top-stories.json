@@ -1,27 +1,28 @@
 {
   "date": "2026-08-08",
-  "generated_at": "Sat 08 Aug 11:38",
+  "generated_at": "Sat 08 Aug 13:02",
   "stories": [
     {
       "rank": 1,
-      "title": "Spagna ripristina controlli, quali documenti servono dall’Italia",
-      "source_count": 7,
-      "article_count": 15,
+      "title": "Schengen sospeso con la Spagna: cosa cambia davvero per chi viaggia",
+      "source_count": 8,
+      "article_count": 17,
       "source_domains": [
-        "repubblica.it",
+        "ilfattoquotidiano.it",
         "adnkronos.com",
+        "repubblica.it",
         "ilmessaggero.it",
         "lastampa.it",
+        "ilmanifesto.it",
         "ansa.it",
-        "news.google.com",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/08/schengen-italia-spagna-controlli-aeroporti-risposte-dubbi-notizie/8474110/",
+        "https://www.adnkronos.com/internazionale/esteri/spagna-controlli-in-vigore-per-arrivi-da-italia-media-possibili-anche-su-intero-volo_6HqDjD0BPNyS6bd7sQRs64",
         "https://www.repubblica.it/esteri/2026/08/08/news/schengen_scontro_italia_spagna_europa_controlli_voli_crisi_migratoria_ceuta-425519000/",
         "https://www.adnkronos.com/internazionale/esteri/spagna-controlli-frontiere-italia-documenti_dvGxoraladFQKVH1UvrOg",
-        "https://www.ilmessaggero.it/schede/viaggi_spagna_cosa_serve_ora-9697465.html",
-        "https://www.ilmessaggero.it/schede/controlli_spagna_cosa_serve_come_funzionano_quanto_durano-9697465.html",
-        "https://www.ilmessaggero.it/schede/spagna_italia_controlli_cosa_cambia_come_funzionano_quanto_durano-9697465.html"
+        "https://www.ilmessaggero.it/schede/viaggi_spagna_cosa_serve_ora-9697465.html"
       ]
     },
     {
@@ -49,9 +50,10 @@
     {
       "rank": 3,
       "title": "Guccini, i funerali privati a Pàvana. La figlia Teresa: “Le domande sono il tuo più grande regalo”",
-      "source_count": 5,
-      "article_count": 8,
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "firenze.repubblica.it",
         "ansa.it",
         "adnkronos.com",
@@ -59,15 +61,78 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/08/funerali-guccini-pavana-figlia-notizie/8474096/",
         "https://firenze.repubblica.it/cronaca/2026/08/08/news/pavana_funerale_guccini_parole_figlia_teresa-425518797/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/i-funerali-di-guccini-laddio-della-figlia-teresa-buon-viaggio-babbo_fed404f7-ec81-4d8c-af9c-8008f78a155c.html",
         "https://bologna.repubblica.it/cronaca/2026/08/08/news/teresa_guccini_addio_padre_funerale-425518788/",
-        "https://www.adnkronos.com/spettacoli/francesco-guccini-funerale-oggi-pavana_5giZzHYA2YfD32XvRhbS20",
-        "https://www.ilmessaggero.it/persone/guccini_funerali_oggi_dove_quando_diretta-9697365.html"
+        "https://www.adnkronos.com/spettacoli/francesco-guccini-funerale-oggi-pavana_5giZzHYA2YfD32XvRhbS20"
       ]
     },
     {
       "rank": 4,
+      "title": "MotoGp, Martin in pole a Silverstone. Bezzecchi quinto davanti a Marc Marquez",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/motogp-silverstone-martin-pole-position-griglia-partenza-gran-premio_2PC63qteoDUpNRqHbWmPcY",
+        "https://www.ansa.it/sito/notizie/sport/moto/2026/08/08/motogp-inghilterra-prima-fila-aprilia-con-martin-in-pole-sesto-marc_7fa19aae-15bd-46f6-b79b-b2b051b8f153.html",
+        "https://www.repubblica.it/sport/moto-gp/2026/08/08/news/martin_pole_gp_silverstone_motogp-425519039/",
+        "https://www.ilfattoquotidiano.it/2026/08/08/motogp-martin-pole-position-bezzecchi-di-giannantonio-bagnaia-griglia-di-partenza/8474113/",
+        "https://www.adnkronos.com/sport/diretta-motogp-oggi-qualifiche-gp-silverstone-live-griglia-partenza_1N547DDCCBkT04Ya0tX4Mo"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Marcinelle, FdI: “Cgil volta le spalle a La Russa”. Landini: “Falso”. Meloni: “Gesto grave”",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/politica/marcinelle_chi_si_e_girato_fidanza_cgil_cosa_e_successo-9697552.html",
+        "https://www.adnkronos.com/politica/marcinelle-commemorazione-la-russa-cgil-fidanza_scTlsJkLbFNfhGnGUprt2",
+        "https://www.ilfattoquotidiano.it/2026/08/08/marcinelle-cgil-spalle-la-russa-notizie/8474025/",
+        "https://www.repubblica.it/politica/2026/08/08/news/marcinelle_fdi_cgil_la_russa_landini_meloni-425518907/",
+        "https://www.ansa.it/sito/notizie/politica/2026/08/08/meloni-grave-e-vergognoso-gesto-della-cgil-a-commemorazione-marcinelle.-landini-il-sindacato_6592c2a5-e115-45c8-be49-bb1ad1956859.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Patto Arabia-Turchia-Pakistan, ecco la “Nato” dei Paesi sunniti",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "ilmanifesto.it",
+        "repubblica.it",
+        "ansa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.laverita.info/mondo/nasce-la-nato-sunnita",
+        "https://www.ilfattoquotidiano.it/2026/08/08/nato-sunnita-turchia-arabia-saudita-pakistan-notizie/8474003/",
+        "https://ilmanifesto.it/alla-mecca-nasce-lasse-sunnita-che-sfida-israele-e-iran",
+        "https://www.repubblica.it/esteri/2026/08/07/news/patto_arabia-turchia-pakistan_nato_paesi_sunniti-425518173/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/07/firmato-un-patto-sulla-difesa-tra-turchia-arabia-saudita-e-pakistan.-iran_4e57738a-01f0-4048-b3b8-809dc0271729.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Automobilista investe gruppo di ciclisti dopo lite, quattro feriti",
       "source_count": 6,
       "article_count": 6,
@@ -88,28 +153,28 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Marcinelle, FdI: “Cgil volta le spalle a La Russa”. Landini: “Falso”. Meloni: “Gesto grave”",
+      "rank": 8,
+      "title": "Novità allo studio per il codice strada, da bici a multe e patente a 17 anni",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
-        "ilmessaggero.it",
         "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
         "ansa.it",
-        "lastampa.it"
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilmessaggero.it/politica/marcinelle_chi_si_e_girato_fidanza_cgil_cosa_e_successo-9697552.html",
-        "https://www.adnkronos.com/politica/marcinelle-commemorazione-la-russa-cgil-fidanza_scTlsJkLbFNfhGnGUprt2",
-        "https://www.ilfattoquotidiano.it/2026/08/08/marcinelle-cgil-spalle-la-russa-notizie/8474025/",
-        "https://www.repubblica.it/politica/2026/08/08/news/marcinelle_fdi_cgil_la_russa_landini_meloni-425518907/",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/08/meloni-grave-e-vergognoso-gesto-della-cgil-a-commemorazione-marcinelle.-landini-il-sindacato_6592c2a5-e115-45c8-be49-bb1ad1956859.html"
+        "https://www.adnkronos.com/economia/codice-strada-novita-studio-patente-bici_26zbdgHRHhHDHwe1GbPpKc",
+        "https://www.ansa.it/sito/notizie/economia/2026/08/08/novita-allo-studio-per-il-codice-strada-da-bici-a-multe-e-patente-a-17-anni_cf688690-85fd-4b27-abba-6f464b829f55.html",
+        "https://www.repubblica.it/cronaca/2026/08/08/news/codice_strada_novita_multe_patente_bici_moto_auto-425519014/",
+        "https://www.ilmessaggero.it/economia/schede/codice_strada_novita_quali_sono_patente_multe-9697559.html",
+        "https://www.lastampa.it/cronaca/2026/08/08/news/codice_della_strada_patente_b_17_anni-15710304/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 9,
       "title": "Mattarella: la gestione dei flussi migratori rispetti la dignità delle persone",
       "source_count": 5,
       "article_count": 6,
@@ -129,7 +194,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "Raid russi su Kiev, tre morti tra cui un bambino vicino alla capitale",
       "source_count": 5,
       "article_count": 5,
@@ -146,64 +211,6 @@
         "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-news-oggi-8-agosto_6vARsMNnfhlYEndq8pQLBa",
         "https://www.repubblica.it/esteri/2026/08/08/diretta/guerra_ucraina_russia_news_oggi-425518416/",
         "https://www.lastampa.it/esteri/2026/08/08/diretta/guerra_russia_ucraina_news_oggi-15710133/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Patto Arabia-Turchia-Pakistan, ecco la “Nato” dei Paesi sunniti",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilmanifesto.it",
-        "repubblica.it",
-        "ansa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/08/nato-sunnita-turchia-arabia-saudita-pakistan-notizie/8474003/",
-        "https://ilmanifesto.it/alla-mecca-nasce-lasse-sunnita-che-sfida-israele-e-iran",
-        "https://www.repubblica.it/esteri/2026/08/07/news/patto_arabia-turchia-pakistan_nato_paesi_sunniti-425518173/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/07/firmato-un-patto-sulla-difesa-tra-turchia-arabia-saudita-e-pakistan.-iran_4e57738a-01f0-4048-b3b8-809dc0271729.html",
-        "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnbmtycEVYOENXVnBfRHlZNkt4SzdfOEJfSG9haUM3ZnJkbFFyNmZmODBoaFhpUWlqYURZRXFEaFlGazVaRTlVdGc3SHZ6YmFWQmZvRFlXTTZ6QTN4MklNTUl1YmZTcnV4TlBHTDloNVU?oc=5"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Antitrust, rimborsi e sconti per 30 milioni di euro per skipass in Veneto e Trentino",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "repubblica.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/economia/2026/08/08/news/dolomiti_skipass_rimborso_voucher_diritti_come_fare_domanda-425518724/",
-        "https://www.lastampa.it/cronaca/2026/08/08/news/dolomiti_superki_rimborsi_sconti_skipass_2022_2023_2024_2025-15710203/",
-        "https://www.ansa.it/sito/notizie/economia/2026/08/07/antitrust-rimborsi-e-sconti-per-30-milioni-di-euro-per-skipass-in-veneto-e-trentino_63eef9e6-ac42-4487-a25f-c756cd2e0f45.html",
-        "https://www.ilmessaggero.it/italia/dolomiti_superski_rimborsi_sconti_per_chi_come_funziona-9696110.html",
-        "https://news.google.com/rss/articles/CBMiekFVX3lxTE4xZDRiS1FnaHhjMW1MajI5T1NudTBwWktQQ0draHp0UC1oTHdqVl9OeGNjTDNGb3pueWVtVGNPM2hBUzRwX0lxTDUtcXF2ejdWNGxtWXI1dkR5Z2MzcnhaZTNZYnFUT3ZzVjIzaldjWjJLVld1dTJ2eVd3?oc=5"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Marcinelle, 70 anni fa la strage dei minatori che commosse il mondo: cosa accadde l’8 agosto 1956",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "governo.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.governo.it/it/articolo/70-anniversario-della-tragedia-di-marcinelle-dichiarazione-del-presidente-meloni/32489",
-        "https://www.adnkronos.com/internazionale/esteri/marcinelle-8-agosto-1956-strage-anniversario_5a5khIRjH8UWxMNoOdipGM",
-        "https://www.lastampa.it/esteri/2026/08/08/news/disastro_marcinelle_70_anni_cosa_e_successo-15709594/",
-        "https://ilmanifesto.it/marcinelle-strage-della-ricostruzione"
       ]
     }
   ]
