@@ -1,32 +1,52 @@
 {
   "date": "2026-08-08",
-  "generated_at": "Sat 08 Aug 13:02",
+  "generated_at": "Sat 08 Aug 13:55",
   "stories": [
     {
       "rank": 1,
       "title": "Schengen sospeso con la Spagna: cosa cambia davvero per chi viaggia",
-      "source_count": 8,
-      "article_count": 17,
+      "source_count": 7,
+      "article_count": 18,
       "source_domains": [
         "ilfattoquotidiano.it",
         "adnkronos.com",
+        "lastampa.it",
         "repubblica.it",
         "ilmessaggero.it",
-        "lastampa.it",
-        "ilmanifesto.it",
         "ansa.it",
         "ilsole24ore.com"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/08/08/schengen-italia-spagna-controlli-aeroporti-risposte-dubbi-notizie/8474110/",
         "https://www.adnkronos.com/internazionale/esteri/spagna-controlli-in-vigore-per-arrivi-da-italia-media-possibili-anche-su-intero-volo_6HqDjD0BPNyS6bd7sQRs64",
-        "https://www.repubblica.it/esteri/2026/08/08/news/schengen_scontro_italia_spagna_europa_controlli_voli_crisi_migratoria_ceuta-425519000/",
-        "https://www.adnkronos.com/internazionale/esteri/spagna-controlli-frontiere-italia-documenti_dvGxoraladFQKVH1UvrOg",
-        "https://www.ilmessaggero.it/schede/viaggi_spagna_cosa_serve_ora-9697465.html"
+        "https://www.adnkronos.com/internazionale/esteri/spagna-controlli-viaggiatori-italiani-schengen_6HqDjD0BPNyS6bd7sQRs64",
+        "https://www.lastampa.it/esteri/2026/08/08/news/spagna_partiti_i_controlli_dei_passeggeri_dall_italia_come_si_svolgono_e_cosa_sta_succedendo-15710353/",
+        "https://www.repubblica.it/esteri/2026/08/08/news/schengen_scontro_italia_spagna_europa_controlli_voli_crisi_migratoria_ceuta-425519000/"
       ]
     },
     {
       "rank": 2,
+      "title": "Guccini, i funerali privati a Pàvana. La figlia Teresa: “Le domande sono il tuo più grande regalo”",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "firenze.repubblica.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/08/funerale-guccini-pavana-bologna-notizie/8474179/",
+        "https://www.ilfattoquotidiano.it/2026/08/08/funerali-guccini-pavana-figlia-notizie/8474096/",
+        "https://firenze.repubblica.it/cronaca/2026/08/08/news/pavana_funerale_guccini_parole_figlia_teresa-425518797/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/i-funerali-di-guccini-laddio-della-figlia-teresa-buon-viaggio-babbo_fed404f7-ec81-4d8c-af9c-8008f78a155c.html",
+        "https://bologna.repubblica.it/cronaca/2026/08/08/news/teresa_guccini_addio_padre_funerale-425518788/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Patrizia Reggiani, malore in vacanza mentre prendeva il sole: Lady Gucci è in terapia intensiva",
       "source_count": 7,
       "article_count": 8,
@@ -48,28 +68,29 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Guccini, i funerali privati a Pàvana. La figlia Teresa: “Le domande sono il tuo più grande regalo”",
-      "source_count": 6,
-      "article_count": 9,
+      "rank": 4,
+      "title": "Marcinelle, FdI: “Cgil volta le spalle a La Russa”. Landini: “Falso”. Meloni: “Gesto grave”",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
         "ilfattoquotidiano.it",
-        "firenze.repubblica.it",
-        "ansa.it",
-        "adnkronos.com",
         "ilmessaggero.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ansa.it",
+        "liberoquotidiano.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/08/funerali-guccini-pavana-figlia-notizie/8474096/",
-        "https://firenze.repubblica.it/cronaca/2026/08/08/news/pavana_funerale_guccini_parole_figlia_teresa-425518797/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/i-funerali-di-guccini-laddio-della-figlia-teresa-buon-viaggio-babbo_fed404f7-ec81-4d8c-af9c-8008f78a155c.html",
-        "https://bologna.repubblica.it/cronaca/2026/08/08/news/teresa_guccini_addio_padre_funerale-425518788/",
-        "https://www.adnkronos.com/spettacoli/francesco-guccini-funerale-oggi-pavana_5giZzHYA2YfD32XvRhbS20"
+        "https://www.ilfattoquotidiano.it/2026/08/08/marcinelle-landini-meloni-cgil-notizie/8474177/",
+        "https://www.ilmessaggero.it/politica/marcinelle_chi_si_e_girato_fidanza_cgil_cosa_e_successo-9697552.html",
+        "https://www.adnkronos.com/politica/marcinelle-commemorazione-la-russa-cgil-fidanza_scTlsJkLbFNfhGnGUprt2",
+        "https://www.ilfattoquotidiano.it/2026/08/08/marcinelle-cgil-spalle-la-russa-notizie/8474025/",
+        "https://www.repubblica.it/politica/2026/08/08/news/marcinelle_fdi_cgil_la_russa_landini_meloni-425518907/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "MotoGp, Martin in pole a Silverstone. Bezzecchi quinto davanti a Marc Marquez",
       "source_count": 5,
       "article_count": 9,
@@ -89,71 +110,28 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Marcinelle, FdI: “Cgil volta le spalle a La Russa”. Landini: “Falso”. Meloni: “Gesto grave”",
-      "source_count": 7,
+      "rank": 6,
+      "title": "Automobilista travolge un gruppo di ciclisti dopo una lite, poi fa inversione e li investe di nuovo: 4 feriti",
+      "source_count": 6,
       "article_count": 7,
       "source_domains": [
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
         "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/politica/marcinelle_chi_si_e_girato_fidanza_cgil_cosa_e_successo-9697552.html",
-        "https://www.adnkronos.com/politica/marcinelle-commemorazione-la-russa-cgil-fidanza_scTlsJkLbFNfhGnGUprt2",
-        "https://www.ilfattoquotidiano.it/2026/08/08/marcinelle-cgil-spalle-la-russa-notizie/8474025/",
-        "https://www.repubblica.it/politica/2026/08/08/news/marcinelle_fdi_cgil_la_russa_landini_meloni-425518907/",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/08/meloni-grave-e-vergognoso-gesto-della-cgil-a-commemorazione-marcinelle.-landini-il-sindacato_6592c2a5-e115-45c8-be49-bb1ad1956859.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Patto Arabia-Turchia-Pakistan, ecco la “Nato” dei Paesi sunniti",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "laverita.info",
-        "ilfattoquotidiano.it",
-        "ilmanifesto.it",
-        "repubblica.it",
-        "ansa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.laverita.info/mondo/nasce-la-nato-sunnita",
-        "https://www.ilfattoquotidiano.it/2026/08/08/nato-sunnita-turchia-arabia-saudita-pakistan-notizie/8474003/",
-        "https://ilmanifesto.it/alla-mecca-nasce-lasse-sunnita-che-sfida-israele-e-iran",
-        "https://www.repubblica.it/esteri/2026/08/07/news/patto_arabia-turchia-pakistan_nato_paesi_sunniti-425518173/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/07/firmato-un-patto-sulla-difesa-tra-turchia-arabia-saudita-e-pakistan.-iran_4e57738a-01f0-4048-b3b8-809dc0271729.html"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Automobilista investe gruppo di ciclisti dopo lite, quattro feriti",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
         "adnkronos.com",
         "ilmessaggero.it",
-        "ansa.it",
         "ilfattoquotidiano.it",
         "torino.repubblica.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/automobilista-travolge-un-gruppo-di-ciclisti-dopo-una-lite-poi-fa-inversione-e-li-investe_42f2301b-b665-4e22-a744-ca37614dc090.html",
         "https://www.adnkronos.com/cronaca/choc-torino-ciclisti-investiti-lite-cosa-e-successo_1dJDM6wwAk1WFStGHX1Uti",
         "https://www.ilmessaggero.it/italia/ciclisti_investiti_oggi_lanzo_torinese_lite_automobilista-9697543.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/automobilista-investe-gruppo-di-ciclisti-dopo-lite-quattro-feriti_42f2301b-b665-4e22-a744-ca37614dc090.html",
-        "https://www.ilfattoquotidiano.it/2026/08/08/ciclisti-investiti-lanzo-torinese-notizie/8474038/",
-        "https://torino.repubblica.it/cronaca/2026/08/08/news/incidente_investe_ciclisti_lanzo_torinese-425518935/"
+        "https://www.ilfattoquotidiano.it/2026/08/08/ciclisti-investiti-lanzo-torinese-notizie/8474038/"
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Novità allo studio per il codice strada, da bici a multe e patente a 17 anni",
       "source_count": 6,
       "article_count": 6,
@@ -171,6 +149,23 @@
         "https://www.repubblica.it/cronaca/2026/08/08/news/codice_strada_novita_multe_patente_bici_moto_auto-425519014/",
         "https://www.ilmessaggero.it/economia/schede/codice_strada_novita_quali_sono_patente_multe-9697559.html",
         "https://www.lastampa.it/cronaca/2026/08/08/news/codice_della_strada_patente_b_17_anni-15710304/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Marcinelle, La Russa \"Sicurezza sul lavoro sia priorità per tutti\"",
+      "source_count": 2,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/videogallery/italia/2026/08/08/foggia-ricorda-la-strage-di-marcinelle-simbolo-del-lavoro-che-uccide_44b97d98-60bc-4b1e-b320-da5951c4fed2.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48815662/strage-marcinelle-calderone-8-agosto-giornata-ue-vittime-lavoro-e-risultato-importantissimo/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48815660/tragedia-marcinelle-la-russa-su-contestazione-cgil-squallida-propaganda-che-sporca-la-cerimonia/",
+        "https://www.liberoquotidiano.it/news/pillole/48811077/marcinelle_la_russa_punto_di_svolta_per_la_sicurezza_sul_lavoro_/",
+        "https://www.liberoquotidiano.it/news/pillole/48811067/marcinelle_calderone_il_lavoro_deve_essere_piu_sicuro_/"
       ]
     },
     {
