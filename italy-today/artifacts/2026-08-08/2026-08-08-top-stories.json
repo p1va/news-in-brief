@@ -1,15 +1,16 @@
 {
   "date": "2026-08-08",
-  "generated_at": "Sat 08 Aug 13:55",
+  "generated_at": "Sat 08 Aug 14:40",
   "stories": [
     {
       "rank": 1,
       "title": "Schengen sospeso con la Spagna: cosa cambia davvero per chi viaggia",
-      "source_count": 7,
-      "article_count": 18,
+      "source_count": 8,
+      "article_count": 20,
       "source_domains": [
-        "ilfattoquotidiano.it",
         "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "lastampa.it",
         "repubblica.it",
         "ilmessaggero.it",
@@ -17,21 +18,22 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.adnkronos.com/internazionale/esteri/spagna-italia-controlli-documenti-fino-7-settembre_4Bo1BUNY27iKkkCjZshzAg",
         "https://www.ilfattoquotidiano.it/2026/08/08/schengen-italia-spagna-controlli-aeroporti-risposte-dubbi-notizie/8474110/",
         "https://www.adnkronos.com/internazionale/esteri/spagna-controlli-in-vigore-per-arrivi-da-italia-media-possibili-anche-su-intero-volo_6HqDjD0BPNyS6bd7sQRs64",
         "https://www.adnkronos.com/internazionale/esteri/spagna-controlli-viaggiatori-italiani-schengen_6HqDjD0BPNyS6bd7sQRs64",
-        "https://www.lastampa.it/esteri/2026/08/08/news/spagna_partiti_i_controlli_dei_passeggeri_dall_italia_come_si_svolgono_e_cosa_sta_succedendo-15710353/",
-        "https://www.repubblica.it/esteri/2026/08/08/news/schengen_scontro_italia_spagna_europa_controlli_voli_crisi_migratoria_ceuta-425519000/"
+        "https://www.liberoquotidiano.it/news/tv-news/48816444/spagna-italia-primi-controlli-a-turisti-italiani-in-arrivo-a-madrid/"
       ]
     },
     {
       "rank": 2,
       "title": "Guccini, i funerali privati a Pàvana. La figlia Teresa: “Le domande sono il tuo più grande regalo”",
-      "source_count": 6,
-      "article_count": 10,
+      "source_count": 7,
+      "article_count": 12,
       "source_domains": [
         "ilfattoquotidiano.it",
-        "firenze.repubblica.it",
+        "bologna.repubblica.it",
+        "liberoquotidiano.it",
         "ansa.it",
         "adnkronos.com",
         "ilmessaggero.it",
@@ -39,14 +41,56 @@
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/08/08/funerale-guccini-pavana-bologna-notizie/8474179/",
+        "https://bologna.repubblica.it/cronaca/2026/08/08/news/zuppi_guccini_intervento_funerale_pavana-425519126/",
         "https://www.ilfattoquotidiano.it/2026/08/08/funerali-guccini-pavana-figlia-notizie/8474096/",
-        "https://firenze.repubblica.it/cronaca/2026/08/08/news/pavana_funerale_guccini_parole_figlia_teresa-425518797/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/i-funerali-di-guccini-laddio-della-figlia-teresa-buon-viaggio-babbo_fed404f7-ec81-4d8c-af9c-8008f78a155c.html",
-        "https://bologna.repubblica.it/cronaca/2026/08/08/news/teresa_guccini_addio_padre_funerale-425518788/"
+        "https://www.liberoquotidiano.it/news/libero-video/48815580/guccini-oggi-pavani-funerali-forma-privata/",
+        "https://firenze.repubblica.it/cronaca/2026/08/08/news/pavana_funerale_guccini_parole_figlia_teresa-425518797/"
       ]
     },
     {
       "rank": 3,
+      "title": "Commemorazione Marcinelle, Fidanza: \"Cgil volta spalle a La Russa\". Meloni: \"Gesto grave\". Landini nega",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/08/08/proteste-e-tensioni-a-marcinelle-la-cerimonia-delle-divisioni-_6592c2a5-e115-45c8-be49-bb1ad1956859.html",
+        "https://www.ilfattoquotidiano.it/2026/08/08/marcinelle-landini-meloni-cgil-notizie/8474177/",
+        "https://www.liberoquotidiano.it/news/politica/48815221/marcinelle-sindacato-belga-rivendica-gesto-contro-partiti-fascisti/",
+        "https://www.ilmessaggero.it/politica/marcinelle_chi_si_e_girato_fidanza_cgil_cosa_e_successo-9697552.html",
+        "https://www.adnkronos.com/politica/marcinelle-commemorazione-la-russa-cgil-fidanza_scTlsJkLbFNfhGnGUprt2"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "MotoGp, Martin in pole a Silverstone. Bezzecchi quinto davanti a Marc Marquez",
+      "source_count": 5,
+      "article_count": 10,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/diretta-motogp-silverstone-gara-sprint-live-aggiornamenti_6vwguuFMHVI1bphZEbx2fK",
+        "https://www.adnkronos.com/sport/motogp-silverstone-martin-pole-position-griglia-partenza-gran-premio_2PC63qteoDUpNRqHbWmPcY",
+        "https://www.ansa.it/sito/notizie/sport/moto/2026/08/08/motogp-inghilterra-prima-fila-aprilia-con-martin-in-pole-sesto-marc_7fa19aae-15bd-46f6-b79b-b2b051b8f153.html",
+        "https://www.repubblica.it/sport/moto-gp/2026/08/08/news/martin_pole_gp_silverstone_motogp-425519039/",
+        "https://www.ilfattoquotidiano.it/2026/08/08/motogp-martin-pole-position-bezzecchi-di-giannantonio-bagnaia-griglia-di-partenza/8474113/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Patrizia Reggiani, malore in vacanza mentre prendeva il sole: Lady Gucci è in terapia intensiva",
       "source_count": 7,
       "article_count": 8,
@@ -65,48 +109,6 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/malore-in-vacanza-per-lady-gucci-ricoverata-in-terapia-intensiva-a-rimini_20392766-df86-49ee-89b4-69b8f9fff73c.html",
         "https://www.adnkronos.com/cronaca/lady-gucci-patrizia-reggiani-malore-rianimazione-rimini-riccione_7gWSE5VWgKefRb1pv5Zrva",
         "https://bologna.repubblica.it/cronaca/2026/08/08/news/lady_gucci_malore_rimini_terapia_intensiva-425518679/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Marcinelle, FdI: “Cgil volta le spalle a La Russa”. Landini: “Falso”. Meloni: “Gesto grave”",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/08/marcinelle-landini-meloni-cgil-notizie/8474177/",
-        "https://www.ilmessaggero.it/politica/marcinelle_chi_si_e_girato_fidanza_cgil_cosa_e_successo-9697552.html",
-        "https://www.adnkronos.com/politica/marcinelle-commemorazione-la-russa-cgil-fidanza_scTlsJkLbFNfhGnGUprt2",
-        "https://www.ilfattoquotidiano.it/2026/08/08/marcinelle-cgil-spalle-la-russa-notizie/8474025/",
-        "https://www.repubblica.it/politica/2026/08/08/news/marcinelle_fdi_cgil_la_russa_landini_meloni-425518907/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "MotoGp, Martin in pole a Silverstone. Bezzecchi quinto davanti a Marc Marquez",
-      "source_count": 5,
-      "article_count": 9,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/motogp-silverstone-martin-pole-position-griglia-partenza-gran-premio_2PC63qteoDUpNRqHbWmPcY",
-        "https://www.ansa.it/sito/notizie/sport/moto/2026/08/08/motogp-inghilterra-prima-fila-aprilia-con-martin-in-pole-sesto-marc_7fa19aae-15bd-46f6-b79b-b2b051b8f153.html",
-        "https://www.repubblica.it/sport/moto-gp/2026/08/08/news/martin_pole_gp_silverstone_motogp-425519039/",
-        "https://www.ilfattoquotidiano.it/2026/08/08/motogp-martin-pole-position-bezzecchi-di-giannantonio-bagnaia-griglia-di-partenza/8474113/",
-        "https://www.adnkronos.com/sport/diretta-motogp-oggi-qualifiche-gp-silverstone-live-griglia-partenza_1N547DDCCBkT04Ya0tX4Mo"
       ]
     },
     {
@@ -132,6 +134,23 @@
     },
     {
       "rank": 7,
+      "title": "Marcinelle, La Russa \"Sicurezza sul lavoro sia priorità per tutti\"",
+      "source_count": 2,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/videogallery/short_video/2026/08/08/marcinelle-il-ricordo-70-anni-dopo-ma-e-polemica-fratelli-ditalia-cgil_28c2cadf-ecf5-477f-a4bf-22b617a7e0ad.html",
+        "https://www.ansa.it/sito/videogallery/italia/2026/08/08/foggia-ricorda-la-strage-di-marcinelle-simbolo-del-lavoro-che-uccide_44b97d98-60bc-4b1e-b320-da5951c4fed2.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48815662/strage-marcinelle-calderone-8-agosto-giornata-ue-vittime-lavoro-e-risultato-importantissimo/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48815660/tragedia-marcinelle-la-russa-su-contestazione-cgil-squallida-propaganda-che-sporca-la-cerimonia/",
+        "https://www.liberoquotidiano.it/news/pillole/48811077/marcinelle_la_russa_punto_di_svolta_per_la_sicurezza_sul_lavoro_/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Novità allo studio per il codice strada, da bici a multe e patente a 17 anni",
       "source_count": 6,
       "article_count": 6,
@@ -152,24 +171,27 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Marcinelle, La Russa \"Sicurezza sul lavoro sia priorità per tutti\"",
-      "source_count": 2,
-      "article_count": 9,
+      "rank": 9,
+      "title": "Raid russi su Kiev, tre morti tra cui un bambino vicino alla capitale",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
         "ansa.it",
-        "liberoquotidiano.it"
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/videogallery/italia/2026/08/08/foggia-ricorda-la-strage-di-marcinelle-simbolo-del-lavoro-che-uccide_44b97d98-60bc-4b1e-b320-da5951c4fed2.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48815662/strage-marcinelle-calderone-8-agosto-giornata-ue-vittime-lavoro-e-risultato-importantissimo/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48815660/tragedia-marcinelle-la-russa-su-contestazione-cgil-squallida-propaganda-che-sporca-la-cerimonia/",
-        "https://www.liberoquotidiano.it/news/pillole/48811077/marcinelle_la_russa_punto_di_svolta_per_la_sicurezza_sul_lavoro_/",
-        "https://www.liberoquotidiano.it/news/pillole/48811067/marcinelle_calderone_il_lavoro_deve_essere_piu_sicuro_/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/08/drone-esplode-vicino-a-un-gasdotto-bulgaro-zelensky-lancia-lallarme-per-linverno_48161d1d-b93c-48fd-9541-a10adc6ded1e.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48815072/ucraina-due-incendi-nella-capitale-kiev-dopo-attacco-russo/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/08/raid-russi-su-kiev-tre-morti-tra-cui-un-bambino-vicino-alla_48161d1d-b93c-48fd-9541-a10adc6ded1e.html",
+        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-news-oggi-8-agosto_6vARsMNnfhlYEndq8pQLBa",
+        "https://www.repubblica.it/esteri/2026/08/08/diretta/guerra_ucraina_russia_news_oggi-425518416/"
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Mattarella: la gestione dei flussi migratori rispetti la dignità delle persone",
       "source_count": 5,
       "article_count": 6,
@@ -186,26 +208,6 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/08/08/mattarella-la-gestione-dei-flussi-migratori-rispetti-la-dignita-delle-persone_02b3901b-dfab-442f-8fd5-638599def557.html",
         "https://www.ansa.it/sito/notizie/flash/2026/08/08/-mattarella-gestione-flussi-migratori-rispetti-dignita-delle-persone-_80bc040c-4e42-4a1a-b1f2-8204ef7943b5.html",
         "https://www.lastampa.it/cronaca/2026/08/08/news/mattarella_nel_giorno_di_marcinelle_la_gestione_dei_migranti_rispetti_la_dignita_delle_persone-15710230/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Raid russi su Kiev, tre morti tra cui un bambino vicino alla capitale",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48815072/ucraina-due-incendi-nella-capitale-kiev-dopo-attacco-russo/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/08/raid-russi-su-kiev-tre-morti-tra-cui-un-bambino-vicino-alla_48161d1d-b93c-48fd-9541-a10adc6ded1e.html",
-        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-news-oggi-8-agosto_6vARsMNnfhlYEndq8pQLBa",
-        "https://www.repubblica.it/esteri/2026/08/08/diretta/guerra_ucraina_russia_news_oggi-425518416/",
-        "https://www.lastampa.it/esteri/2026/08/08/diretta/guerra_russia_ucraina_news_oggi-15710133/"
       ]
     }
   ]
