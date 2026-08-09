@@ -1,31 +1,9 @@
 {
   "date": "2026-08-09",
-  "generated_at": "Sun 09 Aug 17:39",
+  "generated_at": "Sun 09 Aug 18:53",
   "stories": [
     {
       "rank": 1,
-      "title": "Sinner salta Cincinnati, Jannik dà forfait per un problema al ginocchio destro. Tornerà in campo per gli Us Open",
-      "source_count": 7,
-      "article_count": 12,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/schede/sinner_infortunio_cosa_c_e_dietro_medico_cosa_dice-9699340.html",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/sinner-salta-cincinnati-per-un-problema-al-ginocchio-destro_99944fbe-67d2-4bcb-9058-11dd26b792f7.html",
-        "https://www.ilfattoquotidiano.it/2026/08/09/sinner-salta-cincinnati-infortunio-ginocchio-notizie/8474907/",
-        "https://www.adnkronos.com/sport/sinner-salta-cincinnati-ufficiale-annuncio-infortunio-ginocchio_24CG98qwmUuSBEVprLvtEM",
-        "https://www.ilmessaggero.it/sport/tennis/sinner_salta_cincinnati_perche_problema_ginocchio_come_sta-9699269.html"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Morto a Roma Massimiliano Cencelli, padre del famoso 'manuale'",
       "source_count": 9,
       "article_count": 10,
@@ -46,6 +24,28 @@
         "https://www.lastampa.it/politica/2026/08/09/news/cencelli_morto_manuale_governo_meloni_potere-15711032/",
         "https://www.ilfattoquotidiano.it/2026/08/09/manuale-cencelli-morte-padre-notizie/8474642/",
         "https://www.ansa.it/sito/notizie/politica/2026/08/09/morto-a-roma-massimiliano-cencelli-padre-del-famoso-manuale-_7246c9e5-30e5-4736-87d9-ac1065b520a8.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Sinner salta il Masters 1000 di Cincinnati: \"Problema al ginocchio destro, non sono pronto\"",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/schede/sinner_infortunio_cosa_c_e_dietro_medico_cosa_dice-9699340.html",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/sinner-salta-cincinnati-per-un-problema-al-ginocchio-destro_99944fbe-67d2-4bcb-9058-11dd26b792f7.html",
+        "https://www.ilfattoquotidiano.it/2026/08/09/sinner-salta-cincinnati-infortunio-ginocchio-notizie/8474907/",
+        "https://www.adnkronos.com/sport/sinner-salta-cincinnati-ufficiale-annuncio-infortunio-ginocchio_24CG98qwmUuSBEVprLvtEM",
+        "https://www.liberoquotidiano.it/news/sport/48822477/sinner-rinuncia-cincinnati-giallo-condizioni/"
       ]
     },
     {
@@ -71,23 +71,23 @@
     },
     {
       "rank": 4,
-      "title": "Spagna, gli italiani a Fiumicino divisi tra preoccupazione e dispiacere per i controlli",
+      "title": "Gaza, Israele respinge il piano Usa. Netanyahu: «No a ritiro Idf senza disarmo Hamas»",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
-        "laverita.info"
+        "laverita.info",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.adnkronos.com/internazionale/esteri/spagna-controlli-frontiere-italia-7-settembre-migranti_6Qq0bQ7vse9oOArux7fxZu",
-        "https://www.repubblica.it/cronaca/2026/08/09/news/controlli_passeggeri_italiani_aeroporto_spagna-425519644/",
-        "https://www.adnkronos.com/internazionale/esteri/spagna-italia-controlli-arrivi-italia-documenti_6336lm127VFnckFDKJTH5O",
-        "https://ilmanifesto.it/spagna-linea-dura-con-roma",
-        "https://www.ilmessaggero.it/italia/famiglie_italiane_bloccate_minorca_spagna_schengen_cosa_e_successo-9697955.html"
+        "https://www.ilfattoquotidiano.it/2026/08/09/netanyahu-piano-pace-gaza-board-notizie/8474948/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/09/netanyahu-boccia-il-piano-di-trump-il-ritiro-solo-con-il-disarmo-di-hamas_5ea6a189-30db-4fca-933a-03b4afca2b04.html",
+        "https://www.laverita.info/video/netanyahu-piano-usa-gaza",
+        "https://www.lastampa.it/esteri/2026/08/09/news/il_ritiro_il_disarmo_il_calcolo_politico_perche_netanyahu_ha_detto_no_al_piano_di_pace_di_trump-15711187/",
+        "https://www.ilfattoquotidiano.it/2026/08/09/netanyahu-piano-gaza-usa-board-of-peace-notizie/8474762/"
       ]
     },
     {
@@ -112,88 +112,27 @@
     },
     {
       "rank": 6,
-      "title": "Gaza, Israele respinge il piano Usa. Netanyahu: «No a ritiro Idf senza disarmo Hamas»",
+      "title": "Morto Livio Berruti, campione olimpico a Roma 1960",
       "source_count": 6,
       "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "laverita.info",
-        "lastampa.it",
         "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilmessaggero.it"
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/09/netanyahu-boccia-il-piano-di-trump-il-ritiro-solo-con-il-disarmo-di-hamas_5ea6a189-30db-4fca-933a-03b4afca2b04.html",
-        "https://www.laverita.info/video/netanyahu-piano-usa-gaza",
-        "https://www.lastampa.it/esteri/2026/08/09/news/il_ritiro_il_disarmo_il_calcolo_politico_perche_netanyahu_ha_detto_no_al_piano_di_pace_di_trump-15711187/",
-        "https://www.ilfattoquotidiano.it/2026/08/09/netanyahu-piano-gaza-usa-board-of-peace-notizie/8474762/",
-        "https://www.adnkronos.com/internazionale/esteri/israele-gaza-piano-trump-netanyahu-hamas_461bu5oJAiTWiUd5s1Xxdu"
+        "https://www.ilfattoquotidiano.it/2026/08/09/livio-berruti-campione-olimpico-200-metri-notizie/8474956/",
+        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/addio-a-livio-berruti-campione-olimpico-a-roma-1960_e8b34776-f6df-4a4c-b37b-f579667ece82.html",
+        "https://www.repubblica.it/sport/2026/08/09/news/intervista_livio_berruti_morto_olimpiadi_roma-425520614/",
+        "https://www.repubblica.it/sport/vari/2026/08/09/news/livio_berruti_morto-425520600/",
+        "https://www.ilmessaggero.it/persone/livio_berruti_morto_come_malattia_cosa_sappiamo-9699377.html"
       ]
     },
     {
       "rank": 7,
-      "title": "Sindaco di Milano, Vannacci lancia Carmelo Burgio per Futuro nazionale. Ecco chi è",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "laverita.info",
-        "lastampa.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/09/vannacci-burgio-candidato-sindaco-milano-notizie/8474577/",
-        "https://www.laverita.info/politica-e-affari/vannacci-candida-generale-sindaco-milano",
-        "https://www.lastampa.it/politica/2026/08/09/news/burgio_candidato_sindaco_milano_vannacci_chi_e-15710920/",
-        "https://www.adnkronos.com/politica/roberto-vannacci-carmelo-burgio-milano-candidatura-sindaco-oggi_6zqn3M2rqsInRcjrBkh21e",
-        "https://www.liberoquotidiano.it/news/milano/48818637/milano-vannacci-candidato-futuro-nazionale/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Cresce l'attesa per l'eclissi totale di Sole del 12 agosto",
-      "source_count": 4,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/09/eclissi-di-sole-e-stelle-cadenti-accendono-il-cielo-del-12-agosto_f867d117-1dc2-428e-9326-357ec3bdeabb.html",
-        "https://www.ansa.it/canale_viaggi/notizie/itinerari/2026/08/09/tra-nave-e-treno-in-viaggio-verso-leclissi-piu-bella_70442749-6f2c-4939-913e-830b26db4ce9.html",
-        "https://www.ilmessaggero.it/italia/eclissi_12_agosto_dove_vederla_italia_roma_milano_firenze-9699183.html",
-        "https://www.lastampa.it/scienza/2026/08/09/news/imperatori_morti_di_spavento_e_astronomi_decapitati_fatti_storici_e_antiche_credenze_sull_eclissi-15711103/",
-        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/09/cresce-lattesa-per-leclissi-totale-di-sole-del-12-agosto-_2f584792-4307-4d93-9d2d-af4582d02db4.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Incidente in mare a Lampedusa, sub muore falciato dalle eliche di un gommone",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "palermo.repubblica.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/persone/sub_morto_lampedusa_cristiano_giamporcaro_regista_chi_era-9699261.html",
-        "https://www.adnkronos.com/cronaca/lampedusa-sub-falciato-morto-gommone_72v1rRc292mWebSTGG666M",
-        "https://www.ilfattoquotidiano.it/2026/08/09/omicidio-nautico-lampedusa-sub-notizie/8474736/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/sub-falciato-dalle-eliche-di-gommone-a-lampedusa-inchiesta-per-omicidio-nautico_5bd47e66-b190-4354-b5cf-9e1f609d183b.html",
-        "https://www.liberoquotidiano.it/news/italia/48821713/lampedusa-segnala-la-sua-presenza-con-la-boa-travolto-dal-gommone-di-due-turisti/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Foggia, furgone di braccianti si ribalta: un morto e 8 feriti. Stavano rientrando dai campi",
       "source_count": 6,
       "article_count": 6,
@@ -211,6 +150,65 @@
         "https://www.ilfattoquotidiano.it/2026/08/09/braccianti-furgone-ribaltato-foggiano-notizie/8474853/",
         "https://bari.repubblica.it/cronaca/2026/08/09/news/foggia_furgone_di_braccianti_si_ribalta_un_morto_e_8_feriti_stavano_rientrando_dai_campi-425520381/",
         "https://www.lastampa.it/cronaca/2026/08/09/news/foggia_furgone_braccianti_si_ribalta_1_morto_8_feriti_molise-15711125/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Bianchedi in Nazionale, scoppia il caso. Botta e risposta tra Coni e Figc",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/09/bianchedi-capodelegazione-figc-incompatibilita-coni-notizie/8474844/",
+        "https://www.repubblica.it/sport/calcio/nazionale/2026/08/09/news/bianchedi_capodelegazione_nazionale_malago_coni_il_regolamento-425520231/",
+        "https://www.adnkronos.com/sport/malago-annuncia-bianchedi-capodelegazione-nazionale-italia-verita-pirlo-maldini_7sVmMJnaEwStfTYcVk2gqg",
+        "https://www.ilfattoquotidiano.it/2026/08/09/diana-bianchedi-capodelegazione-nazionale-italiana-chi-e/8474601/",
+        "https://www.lastampa.it/sport/2026/08/09/news/sorpresa_italia_diana_bianchedi_nuova_capodelegazione_della_nazionale-15710841/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Cresce l'attesa per l'eclissi totale di Sole del 12 agosto",
+      "source_count": 4,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/09/eclissi-di-sole-e-stelle-cadenti-accendono-il-cielo-del-12-agosto_f867d117-1dc2-428e-9326-357ec3bdeabb.html",
+        "https://www.ansa.it/canale_viaggi/notizie/itinerari/2026/08/09/tra-nave-e-treno-in-viaggio-verso-leclissi-piu-bella_70442749-6f2c-4939-913e-830b26db4ce9.html",
+        "https://www.ilmessaggero.it/italia/eclissi_12_agosto_dove_vederla_italia_roma_milano_firenze-9699183.html",
+        "https://www.lastampa.it/scienza/2026/08/09/news/imperatori_morti_di_spavento_e_astronomi_decapitati_fatti_storici_e_antiche_credenze_sull_eclissi-15711103/",
+        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/09/cresce-lattesa-per-leclissi-totale-di-sole-del-12-agosto-_2f584792-4307-4d93-9d2d-af4582d02db4.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Travolto dal gommone, regista 29enne muore nel mare di Lampedusa",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "palermo.repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/-travolto-dal-gommone-regista-29enne-muore-nel-mare-di-lampedusa-_5bd47e66-b190-4354-b5cf-9e1f609d183b.html",
+        "https://www.ilmessaggero.it/persone/sub_morto_lampedusa_cristiano_giamporcaro_regista_chi_era-9699261.html",
+        "https://www.adnkronos.com/cronaca/lampedusa-sub-falciato-morto-gommone_72v1rRc292mWebSTGG666M",
+        "https://www.ilfattoquotidiano.it/2026/08/09/omicidio-nautico-lampedusa-sub-notizie/8474736/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/sub-falciato-dalle-eliche-di-gommone-a-lampedusa-inchiesta-per-omicidio-nautico_5bd47e66-b190-4354-b5cf-9e1f609d183b.html"
       ]
     }
   ]
