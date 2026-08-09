@@ -1,0 +1,491 @@
+Here is the latest data for today's show:
+- In <previous_episode_transcript> find the script for the last episode for context.
+- In <clustered_headlines> find the "Top Stories" (widely covered).
+- In <other_headlines> find news that were only covered by single source.
+
+
+<previous_episode_transcript>
+# Previous Episode Transcript (2026-08-08)
+Welcome to another episode of "Italy Today", today is Saturday 08 and this episode was curated by Gemini 3.1 Pro.
+
+Let's get straight into the rapid-fire news. Down in Sicily, the airspace around Catania airport has been temporarily closed as Mount Etna erupts once again, spewing massive clouds of volcanic ash and grounding thousands of travelers. On the international front, the war in Ukraine continues to escalate, with deadly Russian airstrikes hitting residential areas near Kyiv, while Sofia is sounding the alarm after a rogue drone from Romania exploded near a Bulgarian gas pipeline. Over in Washington, the US Senate has narrowly confirmed President Donald Trump’s former personal lawyer, Todd Blanche, as the new Attorney General, a move that critics warn will deeply politicize the Justice Department. Meanwhile, Hunter Biden has announced that the prostate cancer of his father, former President Joe Biden, has aggressively metastasized to his bones. Back in Europe, the 70th anniversary of the Marcinelle mining tragedy in Belgium devolved into a bitter political clash today. Prime Minister Giorgia Meloni and her allies fiercely condemned the left-wing CGIL union, accusing its delegates of turning their backs during a speech by the Senate President, though union leader Maurizio Landini dismissed the accusation as a right-wing fabrication. Hovering above the fray, President Sergio Mattarella used his address at the same memorial to remind Europe that the management of migration flows must always respect human dignity. 
+
+That message from the President leads us directly into today’s biggest political crisis. The diplomatic rift between Rome and Madrid has officially boiled over into a suspension of the Schengen agreement. Following the Meloni government's recent hardline migration maneuvers in Ceuta, Spain's socialist government has retaliated by reinstating border checks for all travelers arriving from Italy, effective immediately. Spanish police are now conducting random passport and identity checks on flights and ferries, a measure that Madrid says will last until at least early September.
+
+The media framing of this border crisis reveals a stark ideological divide over Italy’s place in Europe. On the center-left, *La Stampa* and *La Repubblica* frame the suspension as a disastrous diplomatic failure. They portray Meloni as increasingly isolated in Europe, arguing that her aggressive sovereigntist posturing has now resulted in tangible consequences for Italian citizens and tourists, effectively breaking the fundamental European promise of free movement. 
+
+On the right, however, the government's defenders are crying foul. *La Verità* and *Il Messaggero* align closely with the Prime Minister's assertion that Italy will not yield to "blackmail." They frame Pedro Sanchez’s government as acting out of political spite, weaponizing European borders to punish Italy for taking a firm stance on illegal immigration. The ultimate takeaway is that the Schengen zone is quietly fracturing—not just under the physical weight of migration, but beneath the ideological warfare currently raging between Europe's conservative and progressive capitals. 
+
+Moving from border friction to the rules of the road, Transport Minister Matteo Salvini has just unveiled a massive overhaul of the Highway Code. According to *Il Sole 24 Ore*, the Ministry is pushing through fifteen structural changes that will redefine Italian mobility. The most debated proposals include lowering the driving age for a standard license to 17, introducing progressive speeding fines tied to the severity of the infraction, and enforcing mandatory helmets and license plates for e-bikes and delivery scooters. But the proposal drawing the most immediate fire from safety advocates is the potential legalization of passing on the right on highways. While the Ministry claims the reforms are designed to modernize traffic flows, opposition voices are already condemning the package as a contradictory mix of extreme deregulation for cars and heavy-handed bureaucracy for bicycles.
+
+And speaking of new rules that will impact daily life, a quiet but highly consequential environmental regulation is about to hit Italian kitchens. Starting August 12, new European Union packaging directives will officially reclassify single-use coffee capsules and pods. *AGI* reports that millions of Italians will have to change how they dispose of their daily espresso pods, following strict new municipal sorting guidelines. It marks a historic shift toward "shared responsibility," legally forcing both the manufacturers who design the capsules and the consumers who throw them away to ensure they enter the correct recycling streams, with steep municipal fines looming for non-compliance. 
+
+But before we go, some breathtaking news from the bottom of the sea. Archaeologists have discovered a perfectly preserved Roman shipwreck off the coast of Mazara del Vallo in Sicily, resting at a depth of 46 meters. Dating back to the second century BC, the seabed around the wreck is littered with hundreds of ancient amphorae and massive lead anchors. Culture Minister Alessandro Giuli is already hailing it as one of the most important underwater archaeological discoveries of recent years, offering a pristine, undisturbed time capsule of the ancient Mediterranean trade routes that once connected the empire.
+
+I will see you tomorrow.
+</previous_episode_transcript>
+
+
+
+<clustered_headlines>
+# Coverage Pulse - 2026-08-09
+
+## 1. Morto a Roma Massimiliano Cencelli, padre del famoso 'manuale'
+
+> **Context:** Ex funzionario Dc, aveva 90 anni. Con lui incarichi in base al peso dei partiti e correnti
+
+- **La Stampa**: Morto a Roma Massimiliano Cencelli, padre del famoso “manuale” Ex funzionario Dc, aveva 90 anni. Con lui nacque la prassi di affidare incarichi in base al peso di partiti e correnti
+- **Il Messaggero**: Massimiliano Cencelli, morto il padre dell'omonimo "manuale": aveva 90 anni È morto a Roma ieri pomeriggio Massimiliano Cencelli, aveva 90 anni. Funzionario della Democrazia Cristiana degli anni '60, divenne famoso per il manuale che prese il suo cognome, il...
+- **La Repubblica**: Massimiliano Cencelli è morto, fu il padre del famoso “manuale” di spartizioni politiche Si è spento ieri a Roma all’età di 90 anni. Sua l’intuizione, nel 1967, di dare delle regole alla politica affinché gli incarichi venissero suddivisi in quota parte, sulla base del peso specifico delle correnti Dc
+- **ANSA**: Morto a Roma Massimiliano Cencelli, padre del famoso 'manuale' Ex funzionario Dc, aveva 90 anni. Con lui incarichi in base al peso dei partiti e correnti
+- **Il Fatto Quotidiano**: È morto l’ex funzionario della Dc Massimiliano Cencelli, padre del famoso “manuale” per la spartizione dei ruoli politici È morto a Roma all’età di 90 anni Massimiliano Cencelli, funzionario della Democrazia Cristiana degli anni ’60, e padre del ‘Manuale Cencelli‘. Il suo nome non appartiene solo alla Prima Repubblica, ma è entrato a far parte stabilmente del linguaggio giornalistico, del vocabolario politico ed è citato anche nei testi universitari come oggetto di studio. […] L'articolo È morto l’ex funzionario della Dc Massimiliano Cencelli, padre del famoso “manuale” per la spartizione dei ruoli politici proviene da Il Fatto Quotidiano.
+- **Adkronos**: Morto Massimiliano Cencelli, l’uomo che inventò il 'manuale' della spartizione del potere﻿ Dal funzionario della Democrazia Cristiana al 'Manuale' che ancora oggi definisce la politica delle quote e delle correnti. La storia di Massimiliano Cencelli, morto a 90 anni
+- **Il Sole Ventiquattro Ore**: Prima Repubblica, addio a Cencelli: così invento il manuale del potere Dc Pensi alla Prima Repubblica e l’associazione è quasi immediata. Quel manuale per la distribuzione quasi millimetrica del potere e delle poltrone è passata alla storia. Massimiliano Cencelli è morto a...
+- **La Stampa**: È morto Cencelli, il suo manuale no: ma nel governo Meloni Forza Italia stravince sugli alleati L’inventore del sistema dia spartizione politica è scomparso a 90 anni. Abbiamo trasformato il suo metodo in un algoritmo e lo abbiamo applicato alle 65 caselle dell’Esecutivo. I risultati sono molto interessanti
+- **Libero**: È morto Massimiliano Cencelli: il suo "manuale" è diventato leggendario È morto a Roma, sabato pomeriggio, Massimiliano Cencelli, aveva 90 anni. Funzionario della Democrazia Cristiana negli anni ’60, è diventato noto per aver dato il nome al celebre "Manuale Cencelli", espressione entrata stabilmente nel linguaggio politico italiano. Il cosiddetto manuale non era in realtà un documento ufficiale, ma un criterio giornalistico utilizzato per descrivere la distribuzione di incarichi politici e governativi tra partiti e correnti in proporzione al loro peso. Ancora oggi il termine viene utilizzato quando si devono assegnare ministeri, presidenze o altre responsabilità cercando di rispettare gli equilibri tra le diverse forze politiche. L'espressione è arrivata anche nei testi universitari. A raccontare l'origine del "manuale" fu lo stesso Cencelli, in un'intervista concessa ad Avvenire nel 2003. Il funzionario ricordò che nel 1967 Sarti, insieme a Cossiga e Taviani, fondò al congresso di Milano la corrente dei "pontieri", nata con l'obiettivo di creare un collegamento tra maggioranza e sinistra. La corrente ottenne il 12% e si pose il problema della distribuzione degli incarichi. Cencelli propose di applicare alla politica un criterio simile a quello utilizzato nelle società, dove i ruoli vengono assegnati in base alle quote possedute. "Ottenemmo il 12% e c'era da decidere gli incarichi in direzione. Allora io proposi: se abbiamo il 12%, come nel consiglio di amministrazione di una società gli incarichi vengono divisi in base alle azioni possedute, lo stesso deve avvenire per gli incarichi di partito e di governo in base alle tessere". Da quel principio derivò la distribuzione degli incarichi: Taviani mantenne l'Interno, Gaspari divenne sottosegretario alle Poste, Cossiga andò alla Difesa e Sarti al Turismo e Spettacolo. Il metodo divenne famoso quando Sarti, durante le crisi di governo, rispondeva ai giornalisti: "chiedetelo a Cencelli".
+- **Il Post**: È morto a 90 anni Massimiliano Cencelli, il politico della Democrazia Cristiana che diede il nome al famoso manuale 
+
+
+## 2. MotoGp: Raul Fernandez vince a Silverstone, Bezzecchi terzo
+
+> **Context:** Martin secondo. Tripletta dell'Aprilia che conquista l'intero podio
+
+- **ANSA**: MotoGp: le Aprilia volano a Silverstone, Martin domina la Sprint Secondo il giapponese Ogura. 3/o Bezzecchi, si commuove: "Passato un momento difficile"
+- **Adkronos**: MotoGp, oggi si corre a Silverstone: orario, griglia di partenza e dove vedere la gara in chiaro In pole position lo spagnolo Jorge Martin, leader del Mondiale piloti e vincitore ieri della gara sprint
+- **Il Messaggero**: Martin trionfa nella Sprint di Silverstone: tre Aprilia sul podio, Ogura precede un sorprendente Bezzecchi La ripartenza dopo la sosta estiva premia l’Aprilia. Sul veloce e prestigioso circuito di Silverstone le moto di Noale hanno dato spettacolo monopolizzando l’intero podio della gara...
+- **Adkronos**: MotoGp, oggi il Gran Premio di Silverstone - Diretta I piloti tornano in pista nel Regno Unito per il dodicesimo appuntamento della stagione
+- **La Stampa**: Silverstone, ancora super Aprilia: vince Fernandez davanti a Martin. Gara eroica di Bezzecchi, terzo L’italiano torna sul podio dopo il periodo nero culminato nell’infortunio. Alex Marqez, quarto, è la prima delle Ducati
+- **ANSA**: MotoGp: Raul Fernandez vince a Silverstone, Bezzecchi terzo Martin secondo. Tripletta dell'Aprilia che conquista l'intero podio
+- **Il Fatto Quotidiano**: MotoGp, a Silverstone trionfa Fernandez: un gran Bezzecchi è sul podio. Martin allunga e tenta la fuga | Ordine d’arrivo e nuova classifica Un ottimo Raul Fernandez passa in vetta subito dopo la partenza, detta un ritmo folle e trionfa nel gran premio di MotoGp a Silverstone, in Gran Bretagna. Il pilota spagnolo vola e completa un ottimo weekend, chiudendo la gara davanti a Jorge Martin, che ieri aveva vinto la Sprint e ne approfitta per allungare sugli […] L'articolo MotoGp, a Silverstone trionfa Fernandez: un gran Bezzecchi è sul podio. Martin allunga e tenta la fuga | Ordine d’arrivo e nuova classifica proviene da Il Fatto Quotidiano.
+- **La Repubblica**: Fernandez domina a Silverstone, Bezzecchi si prende un super podio. Indietro Marc Marquez Tripletta Aprilia nel Gp di Gran Bretagna, secondo il leader del Mondiale Martin. Bezzecchi resiste a Alex Marquez e chiude con un ottimo terzo posto
+- **Adkronos**: MotoGp, Fernandez domina Gp Silverstone: ordine di arrivo e come cambia classifica piloti Martin chiude al secondo posto e resta leader del Mondiale
+- **ANSA**: MotoGp: trionfo Aprilia a Silverstone, eroico Bezzecchi sul podio L'italiano ancora dolorante è 3/o: domina Fernandez davanti a Martin. Marc Marquez 7/o
+- **Libero**: MotoGp, Raul Fernandez vince in Gran Bretagna: poi Martin e Bezzecchi 
+
+
+## 3. Sinner salta il Masters 1000 di Cincinnati: "Problema al ginocchio destro, non sono pronto"
+
+> **Context:** Il fuoriclasse azzurro rinuncia al torneo americano per arrivare al meglio agli Us Open. Il comunicato degli organizzatori: "In bocca al lupo, Jannik"
+
+- **Il Messaggero**: Sinner, nuovi controlli a Milano: dai problemi al ginocchio alla partenza per Cincinnati, le sue condizioni Jannik Sinner continua a monitorare con attenzione le proprie condizioni fisiche in vista del ritorno in campo. Il numero uno del mondo è tornato a Milano per sottoporsi a un nuovo...
+- **Adkronos**: Sinner salta Cincinnati? Il dubbio di Jannik verso gli Us Open Il fuoriclasse azzurro, reduce da alcuni giorni di controlli tra Milano e Torino, sta valutando la sua partecipazione al Masters 1000 americano
+- **Libero**: Jannik Sinner, terapia con onde d'urto: cosa rischia adesso Jannik Sinner continua a lavorare per recuperare dal problema al ginocchio destro, mentre si avvicina il momento della decisione sulla sua partecipazione al Master 1000 di Cincinnati. Il tennista è stato fotografato dai tifosi al J Hotel di Torino, sorridente e apparentemente tranquillo nonostante il problema fisico che lo ha portato prima al J Medical, poi a Milano dal dottor Melegati e successivamente ancora al centro medico torinese. Sinner sta seguendo anche un trattamento di fisioterapia con onde d’urto, utilizzato per contribuire a ridurre l’infiammazione dell’articolazione. Non avrebbe comunque interrotto gli allenamenti, ma il tempo per decidere si sta esaurendo: il sorteggio del tabellone di Cincinnati è previsto per le 20 di mercoledì sera, ora italiana. Il torneo rappresenterebbe un appuntamento importante anche sul piano della classifica. In assenza di Carlos Alcaraz, che ha deciso di prolungare la convalescenza, Sinner sarebbe infatti testa di serie numero uno. Il dilemma riguarda soprattutto la gestione del calendario. Da una parte c’è la possibilità di partire per l’Ohio, affrontando il caldo umido di Cincinnati e utilizzando il torneo come test sul cemento americano. Dall’altra, il team potrebbe scegliere di proseguire le cure e rinviare la partenza, concentrando tutte le energie sull’Open Usa, al via il 30 agosto. La decisione verrà discussa con il gruppo di lavoro e con i coach Simone Vagnozzi e Darren Cahill, ma l’ultima parola spetterà a Sinner. Sullo sfondo c’è la necessità di tutelare una carriera ancora lunga, evitando sia una possibile ricaduta sia nuovi problemi legati al caldo, già affrontati in passato.
+- **La Repubblica**: Sinner rinuncia al Masters 1000 di Cincinnati: “Il ginocchio destro mi sta dando fastidio” L’annuncio degli organizzatori del torneo americano: “In bocca al lupo, ti aspettiamo l’anno prossimo”
+- **La Stampa**: Sinner rinuncia a Cincinnati per il problema al ginocchio: “Sono deluso, ora penso agli US Open” Il numero 1 annuncia il forfait al Masters 1000 statunitense in programma dal 13 al 23 agosto
+- **ANSA**: Sinner salta Cincinnati per un problema al ginocchio destro. 'Obiettivo Us Open' Azzurro: 'Sono deluso di non poter giocare ma non sono ancora pronto'
+- **Adkronos**: Sinner salta il Masters 1000 di Cincinnati: "Problema al ginocchio destro, non sono pronto" Il fuoriclasse azzurro rinuncia al torneo americano per arrivare al meglio agli Us Open. Il comunicato degli organizzatori: "In bocca al lupo, Jannik"
+- **Il Fatto Quotidiano**: Sinner salta il Masters 1000 di Cincinnati per un infortunio al ginocchio destro: corsa contro il tempo per gli Us Open La notizia era nell’aria, ma adesso è arrivata l’ufficialità: Jannik Sinner si ritira dal Cincinnati Open “a causa di un infortunio al ginocchio destro“, comunica in un post su X il Masters 1000 statunitense. “Auguriamo il meglio al campione del 2024, non vediamo l’ora di rivederti l’anno prossimo”, aggiungono gli organizzatori. Il tennista altoatesino salta […] L'articolo Sinner salta il Masters 1000 di Cincinnati per un infortunio al ginocchio destro: corsa contro il tempo per gli Us Open proviene da Il Fatto Quotidiano.
+- **Il Messaggero**: Sinner salta Cincinnati, Jannik dà forfait per un problema al ginocchio destro. Tornerà in campo per gli Us Open Jannik Sinner ha deciso di saltare il Masters 1000 di Cincinnati. Una scelta ponderata, maturata dopo giorni di valutazioni con il suo staff e legata soprattutto alla volontà di non forzare...
+- **Il Messaggero**: Sinner, cosa c'è dietro l'infortunio al ginocchio: i controlli, gli US Open e la "patologia da sovraccarico" Che tipo di problema ha Sinner al ginocchio destro? Il n.1 del tennis mondiale ha rinunciato al Cincinnati Open per infortunio. L'annuncio del Masters 1000 statunitense viene confermato dallo...
+- **Libero**: Jannik Sinner, clamoroso: rinuncia a Cincinnati, giallo sulle sue condizioni Jannik Sinner "si ritira dal 'Cincinnati Open' a causa di un infortunio al ginocchio destro". Lo comunica in un post su X il Masters 1000 statunitense, in calendario dal 13 al 23 agosto. "Auguriamo il meglio al campione del 2024, non vediamo l'ora di rivederti l'anno prossimo", aggiungono gli organizzatori. Dopo aver saltato il Masters 1000 di Montreal il numero uno al mondo non prenderà parte quindi anche al torneo americano, propedeutico agli Us Open di New York, ultimo Slam della stagione. La notizia del forfait di Sinner non arriva inattesa: martedì scorso il tennista altoatesino era stato avvistato al Physioclinic di Milano, mentre in questi ultimi giorni è transitato più volte al J Medical di Torino, la sua struttura di riferimento. “Dopo essermi consultato con i miei medici e il mio team, devo comunicare che sono costretto a ritirarmi dal torneo Masters 1000 di Cincinnati. Il ginocchio destro mi sta dando fastidio e, nonostante ci siamo impegnati a fondo con il mio team medico, devo ammettere che non sono ancora pronto per gareggiare". Così Jannik Sinner dopo l'annuncio del forfait al Masters 1000 statunitense in programma dal 13 al 23 agosto. "Sono molto deluso di non poter giocare a Cincinnati e auguro a Bob (Moran, ndr) e a tutto il suo team un evento fantastico e ricco di successi - ha aggiunto il numero uno al mondo - Non vedo l’ora di tornare l’anno prossimo e ora mi sto concentrando sulla preparazione per gli US Open”.
+- **Libero**: Jannik Sinner fa tremare gli italiani: "Non sono ancora pronto" "Jannik Sinner si è ritirato dal 'Cincinnati Open' a causa di un infortunio al ginocchio destro". Così, su X, gli organizzatori del Masters 1000 statunitense hanno ufficializzato il forfait del numero uno del mondo. "In bocca al lupo al nostro campione del 2024, non vediamo l'ora di rivederti l'anno prossimo", hanno aggiunto gli organizzatori del torneo in programma sul cemento dell'Ohio. Il tennista azzurro, già assente in questi giorni del Masters 1000 in scena sui campi in duro di Montreal, è alle prese da un po' di tempo con un problema fisico. Dopo la visita presso il reparto di ortopedia della Physioclinic di Milano, l'altoatesino è stato ieri e dovrebbe tornare in queste giornate al JMedical di Torino per ultimare il percorso di recupero intrapreso e per provare a guarire del tutto da un'infiammazione al ginocchio destro che lo "disturba" e lo "limita". Sinner salterà di certo, al pari di Carlos Alcaraz, dunque, il "Cincinnati Open", in scena dal 13 al 23 agosto, con sorteggio del tabellone principale in programma mercoledì alle 20 italiane. A ruota il campione azzurro dovrebbe prender parte agli Us Open, la quarta e ultima prova stagionale del Grande Slam, in programma sul cemento del Flushing Meadows Park di New York da domenica 30 agosto. "Dopo essermi consultato con i miei medici e il mio team, sono costretto a ritirarmi dal torneo Masters 1000 di Cincinnati. Il ginocchio destro mi sta dando fastidio e, nonostante ci siamo impegnati a fondo con il mio team medico, devo ammettere che non sono ancora pronto per gareggiare", ha detto poi lo stesso Jannik Sinner. [[ge:kolumbus:liberoquotidiano:48822477]] "Sono molto deluso di non poter giocare a Cincinnati e auguro a Bob Moran e a tutto il suo team un evento fantastico e ricco di successi. Non vedo l'ora di tornare l'anno prossimo. Ora mi sto concentrando sulla preparazione per gli Us Open", ha aggiunto l'azzurro. [[ge:kolumbus:liberoquotidiano:48822117]]
+
+
+## 4. Foggia, furgone di braccianti si ribalta: un morto e 8 feriti. Stavano rientrando dai campi
+
+> **Context:** L’incidente stradale è avvenuto in località Montesecco, nelle campagne di Serracapriola: avevano da poco terminato una giornata di lavoro in Molise
+
+- **La Repubblica**: Foggia, furgone di braccianti si ribalta: un morto e 8 feriti. Stavano rientrando dai campi L’incidente stradale è avvenuto in località Montesecco, nelle campagne di Serracapriola: avevano da poco terminato una giornata di lavoro in Molise
+- **La Stampa**: Foggia, furgone pieno di braccianti si ribalta in strada: 1 morto e 8 feriti L’incidente è avvenuto su una tratta quotidianamente percorsa da gruppi di lavoratori agricoli che dalla città pugliese sono diretti in Molise
+- **ANSA**: Furgone con braccianti si ribalta nel Foggiano, un morto e otto feriti Tornavano dal lavoro nei campi. Il mezzo è uscito fuori strada a Serracapriola
+- **Adkronos**: Furgone con braccianti a bordo si ribalta nel Foggiano, un morto e 7 feriti Il grave incidente nella tarda mattinata di oggi nel territorio di Serracapriola. Stavano rientrando dal lavoro
+- **Il Fatto Quotidiano**: Furgone su cui viaggiavano nove braccianti esce fuori strada e si ribalta nel Foggiano: un morto e otto feriti Un furgone su cui viaggiavano nove braccianti stranieri è uscito fuori strada ribaltandosi. L’incidente stradale, avvenuto in località Montesecco, nelle campagne di Serracapriola (Foggia), ha causato un morto sul colpo e otto feriti, uno dei quali in condizioni gravi. I feriti sono stati trasportati in ospedale. Stando alle prime informazioni, il gruppo di lavoratori stava […] L'articolo Furgone su cui viaggiavano nove braccianti esce fuori strada e si ribalta nel Foggiano: un morto e otto feriti proviene da Il Fatto Quotidiano.
+- **Il Sole Ventiquattro Ore**: Furgone ribaltato nel Foggiano: un bracciante morto e otto feriti Un morto e otto feriti. È il bilancio di un incidente stradale avvenuto in località Montesecco, nelle campagne di Serracapriola (Foggia). Nell’incidente sono stati coinvolti braccianti di nazionalità marocchina. ...
+
+
+## 5. Morto Livio Berruti, campione olimpico a Roma 1960
+
+> **Context:** Addio a Livio Berruti. Dopo un periodo di malattia è morto a 87 anni in una clinica torinese il campione olimpico dei 200 metri a Roma 1960. Lo apprende l’Ansa...
+
+- **Il Sole Ventiquattro Ore**: Morto Livio Berruti, campione olimpico a Roma 1960 Addio a Livio Berruti. Dopo un periodo di malattia è morto a 87 anni in una clinica torinese il campione olimpico dei 200 metri a Roma 1960. Lo apprende l’Ansa...
+- **La Repubblica**: Livio Berruti: “Nel 1960 c’era un’atmosfera magica che a Roma si può ricreare” Il leggendario oro dei 200 metri è morto a 87 anni. In questa intervista del febbraio scorso raccontava: “L’Olimpiade è sport, ma anche usi e costumi. E quella edizione è stata la più bella di tutte in una città che ti cattura sempre”
+- **La Repubblica**: Morto Livio Berruti, campione olimpico dei 200 metri a Roma 1960 La leggenda è scomparsa a 87 anni dopo un periodo di malattia, funerali in forma privata
+- **La Stampa**: Morto Livio Berruti, campione olimpico a Roma nel 1960 È stato il primo atleta europeo a vincere il titolo a cinque cerchi nei 200 metri, interrompendo la supremazia dei velocisti nordamericani
+- **ANSA**: Addio a Livio Berruti, campione olimpico a Roma 1960 Scompare a 87 anni dopo un periodo di malattia, funerali in forma privata
+- **Il Fatto Quotidiano**: Addio a Livio Berruti, il campione olimpico dei 200 metri a Roma 1960. Aveva 87 anni È morto Livio Berruti, leggenda dell’atletica italiana. Dopo un periodo di malattia, si è spento a 87 anni in una clinica torinese il campione olimpico dei 200 metri a Roma 1960. Lo si apprende da fonti vicine alla famiglia. Berruti lascia la moglie Silvia. I funerali sono previsti in forma privata. Dopo la carriera agonistica […] L'articolo Addio a Livio Berruti, il campione olimpico dei 200 metri a Roma 1960. Aveva 87 anni proviene da Il Fatto Quotidiano.
+- **Il Messaggero**: Morto Livio Berruti dopo un periodo di malattia, il campione olimpico a Roma 1960 aveva 87 anni Addio a Livio Berruti. Dopo un periodo di malattia è morto a 87 anni in una clinica torinese il campione olimpico dei 200 metri a Roma 1960. Lo apprende l'ANSA da fonti vicine alla...
+
+
+## 6. Gaza, Israele respinge il piano Usa. Netanyahu: «No a ritiro Idf senza disarmo Hamas»
+
+> **Context:** «Israele respinge il documento in 15 punti» su Gaza annunciato dagli Usa, e non intende ritirare l'Idf dalla Striscia «finché Hamas non sarà effettivamente...
+
+- **ANSA**: Netanyahu respinge il piano Usa, 'no al ritiro dell'Idf senza il disarmo di Hamas' 'Finché sarò primo ministro, non ci sarà alcuno Stato palestinese'
+- **Il Messaggero**: Gaza, Israele respinge il piano Usa. Netanyahu: «No a ritiro Idf senza disarmo Hamas» «Israele respinge il documento in 15 punti» su Gaza annunciato dagli Usa, e non intende ritirare l'Idf dalla Striscia «finché Hamas non sarà effettivamente...
+- **Adkronos**: Israele respinge piano per Gaza, Netanyahu: "No ritiro fino a disarmo Hamas" No al documento in 15 punti presentato a fine luglio dal Board of Peace di Donald Trump
+- **Il Fatto Quotidiano**: Netanyahu respinge il piano Usa per Gaza: “Non ci ritiriamo dalla Striscia senza il disarmo di Hamas” A nemmeno due settimane dall’incontro tra Benjamin Netanyahu e Donald Trump alla Casa Bianca, si riapre la frattura tra Tel Aviv e Washington. Durante una riunione di gabinetto il premier israeliano ha ribadito il suo no al piano per il disarmo di Hamas e il ritiro dell’Idf da Gaza. “Respingiamo il documento in 15 punti […] L'articolo Netanyahu respinge il piano Usa per Gaza: “Non ci ritiriamo dalla Striscia senza il disarmo di Hamas” proviene da Il Fatto Quotidiano.
+- **La Stampa**: Il ritiro, il disarmo, le elezioni: perché Netanyahu ha detto no al piano di pace di Trump La linea: nessun arretramento dell’esercito senza disarmo di Hamas. La mossa a poche settimane dal voto
+- **ANSA**: Netanyahu boccia il piano di Trump: 'Il ritiro solo con il disarmo di Hamas' Bibi respinge la roadmap del Board of Peace per Gaza: 'Con me nessuno Stato palestinese'
+- **La Verità**: Netanyahu respinge il piano Usa: «No al ritiro dell’Idf senza il disarmo di Hamas» Il premier israeliano boccia la roadmap americana in 15 punti per Gaza: «Israele non ritirerà l'Idf finché Hamas non sarà effettivamente disarmato». L'articolo Netanyahu respinge il piano Usa: «No al ritiro dell’Idf senza il disarmo di Hamas» proviene da La Verità.
+- **Il Fatto Quotidiano**: Radicalizzazione del dibattito, sostegno all’occupazione ed elezioni imminenti: perché Netanyahu ha bocciato il piano del Board of Peace Nessuna promessa infranta, nessuna uscita a sorpresa: Benjamin Netanyahu he sempre promesso che non avrebbe mai lasciato la Striscia di Gaza senza il completo disarmo di Hamas. Così, arrivati al dunque, nel corso della riunione di gabinetto di domenica ha ribadito la sua posizione respingendo il piano di pace in 15 punti presentato dal Board […] L'articolo Radicalizzazione del dibattito, sostegno all’occupazione ed elezioni imminenti: perché Netanyahu ha bocciato il piano del Board of Peace proviene da Il Fatto Quotidiano.
+
+
+## 7. Litiga con i ciclisti e li investe più volte con l'auto, 4 feriti
+
+> **Context:** A Lanzo Torinese, prima li travolge e poi torna indietro per colpirli di nuovo
+
+- **La Stampa**: L'uomo arrestato per aver travolto 6 ciclisti a Lanzo: “Mi si è offuscato tutto, non ho capito più nulla” Follia in strada dopo la lite per un sorpasso: quattro feriti, due sono gravi. L’accusa è tentato omicidio
+- **ANSA**: Litiga con i ciclisti e li investe più volte con l'auto, 4 feriti A Lanzo Torinese, prima li travolge e poi torna indietro per colpirli di nuovo
+- **Il Messaggero**: Ciclisti investiti a Lanzo, chi è Giuseppe Campagna: il 73enne che li ha travolti dopo una lite. Un testimone: «E' tornato indietro e li ha falciati, una scena da film horror» Prima li ha travolti, poi è tornato indietro per investirli ancora. Il tutto dopo un banale litigio. Un gruppo di sei ciclisti è stato travolto sabato mattina a Lanzo Torinese, in...
+- **Il Fatto Quotidiano**: Travolge i ciclisti, fa retromarcia e li investe di nuovo: le immagini della strada dove tutto è successo Prima li ha travolti, poi è tornato indietro per investirli ancora. Il tutto dopo un banale litigio. Choc nella giornata di sabato, intorno alle 9:45, sulle strade di Lanzo Torinese, dove – secondo il racconto di alcuni testimoni – un gruppo di ciclisti è stato deliberatamente investito da un automobilista. Dei quattro feriti, due sono […] L'articolo Travolge i ciclisti, fa retromarcia e li investe di nuovo: le immagini della strada dove tutto è successo proviene da Il Fatto Quotidiano.
+- **La Repubblica**: “Noi ciclisti scampati alla furia, così quell’uomo ha falciato il mio gruppo” Uno dei sopravvissuti di Lanzo ricostruisce il doppio investimento: “Quell’uomo voleva centrare anche me, mi sono buttato sul prato”
+
+
+## 8. Bianchedi in Nazionale, scoppia il caso. Botta e risposta tra Coni e Figc
+
+> **Context:** La scelta di Diana Bianchedi come capodelegazione della Nazionale di calcio, annunciata dal presidente della Figc Giovanni Malagò in un’intervista alla «Gazzetta dello Sport», solleva subito un caso con puntualizzazioni...
+
+- **La Stampa**: Sorpresa Italia: Diana Bianchedi nuova capodelegazione della Nazionale L’ex schermitrice e vicepresidente del Coni è stata scelta dalla Federcalcio per ricoprire il ruolo che fu di Riva, Vialli e Buffon. «Una rivoluzione culturale», dice il presidente Malagò
+- **Il Fatto Quotidiano**: Diana Bianchedi è la nuova capodelegazione della Nazionale: chi è la donna scelta da Malagò. “Rivoluzione culturale” “Rivoluzione culturale, direi. Essere vicepresidente vicaria del Coni e, allo stesso tempo, il volto istituzionale dell’Italia del pallone che viaggia è come rimettere il calcio al centro di un dialogo con lo sport a 360 gradi”. Giovanni Malagò presenta così la scelta di Diana Bianchedi come nuova capodelegazione della Nazionale italiana. Un incarico che, nelle […] L'articolo Diana Bianchedi è la nuova capodelegazione della Nazionale: chi è la donna scelta da Malagò. “Rivoluzione culturale” proviene da Il Fatto Quotidiano.
+- **Adkronos**: Malagò: "Bianchedi sarà capodelegazione della Nazionale. Mancini è il ct giusto" Il presidente della Figc in un'intervista alla Gazzetta dello Sport: "Si tratta di una rivoluzione culturale"
+- **La Repubblica**: Bianchedi capodelegazione della Nazionale, la nomina è già un caso: conflitto di interessi col Coni La scelta a sorpresa del presidente della Figc Malagò rischia di scontrarsi con le norme dello statuto del comitato olimpico
+- **Il Fatto Quotidiano**: La Figc dei fedelissimi di Malagò: Bianchedi nuova capodelegazione, ma la nomina è già un caso. Rischia l’incompatibilità Giovanni Malagò ha annunciato a mezzo stampa Diana Bianchedi come nuova capodelegazione della nazionale. Storica pupilla dell’ex presidente del Coni, aveva provato a piazzarla ovunque, dalle Olimpiadi di Milano–Cortina in giù, e adesso la porta pure in Figc. Dopo Mancini, Ranieri, Bergamini (prossimo arrivo come capo staff), il nuovo n.1 della FederCalcio continua a pescare […] L'articolo La Figc dei fedelissimi di Malagò: Bianchedi nuova capodelegazione, ma la nomina è già un caso. Rischia l’incompatibilità proviene da Il Fatto Quotidiano.
+- **Il Sole Ventiquattro Ore**: Bianchedi in Nazionale, scoppia il caso. Botta e risposta tra Coni e Figc La scelta di Diana Bianchedi come capodelegazione della Nazionale di calcio, annunciata dal presidente della Figc Giovanni Malagò in un’intervista alla «Gazzetta dello Sport», solleva subito un caso con puntualizzazioni...
+
+
+## 9. Travolto dal gommone, regista 29enne muore nel mare di Lampedusa
+
+> **Context:** Era in immersione. I proprietari dell'imbarcazione indagati per omicidio nautico
+
+- **La Repubblica**: Incidente in mare a Lampedusa, sub muore falciato dalle eliche di un gommone Cristiano Giamporcaro, 29 anni, di Caltanissetta era figlio dell’ex assessora nissena e docente universitaria Maria Castiglione, è stato colpito dall’imbarcazione con a bordo due turisti. La procura indaga per omicidio nautico
+- **ANSA**: Sub falciato dalle eliche di gommone a Lampedusa, inchiesta per omicidio nautico Vittima 29enne, anziani turisti di Milano, proprietari del natante, sono stati già sentiti
+- **Il Fatto Quotidiano**: Lampedusa, sub 29enne muore dissanguato dopo essere stato falciato dalle eliche di un gommone: aperta un’inchiesta per omicidio nautico Falciato dalle eliche di un gommone mentre faceva un’immersione. È morto così ieri, nelle acque di Lampedusa, Cristiano Daniele Giamporcaro, regista 29enne di Caltanissetta. La Procura di Agrigento ha aperto un’inchiesta per omicidio nautico. Nei prossimi giorni la salma sarà sottoposta ad autopsia per stabilire le cause esatte del decesso. L’ipotesi è che il giovane […] L'articolo Lampedusa, sub 29enne muore dissanguato dopo essere stato falciato dalle eliche di un gommone: aperta un’inchiesta per omicidio nautico proviene da Il Fatto Quotidiano.
+- **Adkronos**: Lampedusa, sub falciato da gommone: muore 29enne La tragedia a Punta Sottile. La procura di Agrigento ha aperto un fascicolo d'inchiesta
+- **Il Messaggero**: Lampedusa, sub muore falciato dalle eliche di un gommone: il regista Cristiano Giamporcaro aveva 29 anni Cristiano Daniele Giamporcaro, regista di 29 anni originario di Caltanissetta, ha perso la vita ieri mentre era impegnato in un'immersione nelle acque di Punta Sottile, a Lampedusa. Secondo le...
+- **ANSA**: Travolto dal gommone, regista 29enne muore nel mare di Lampedusa Era in immersione. I proprietari dell'imbarcazione indagati per omicidio nautico
+
+
+## 10. Meteo, domenica temporali su Alpi e Appennini. A Ferragosto caldo fino a 39°C
+
+> **Context:** Temperature fino a 36-38°C in numerose città del Centro-Nord e delle Isole Maggiori e picchi fino a 39°C a Roma
+
+- **La Stampa**: Caldo record, nessuna tregua. Gli esperti: “Per le ondate di calore fino a 8 mila morti in più” La canicola non concede tregua. Oggi 19 le città con il bollino rosso. Pregliasco: «Decessi su del 10-20%». Il M5s: Meloni convochi una task force
+- **Adkronos**: Meteo, domenica temporali su Alpi e Appennini. A Ferragosto caldo fino a 39°C Temperature fino a 36-38°C in numerose città del Centro-Nord e delle Isole Maggiori e picchi fino a 39°C a Roma
+- **Adkronos**: Caldo africano, l'afa non arretra: oggi e domani 19 città bollino rosso Le alte temperature non allentano la loro morsa sull'Italia
+- **Il Sole Ventiquattro Ore**: Ancora caldo e afa: lunedì bollino rosso in 19 città Le temperature estreme avranno un impatto pesante in termini di vite perse: a fine estate i decessi potrebbero raggiungere quota 8mila
+- **Il Messaggero**: Caldo estremo, 10 mete estive dove andare ad agosto per ritrovare il fresco L'Italia è stretta nella morsa del caldo estremo, con colonnine di mercurio a livelli record, notti tropicali e intere regioni trasformate in veri e propri forni a cielo aperto. Se...
+- **ANSA**: Breve tregua temporalesca, poi caldo record per la settimana di Ferragosto Si raggiungeranno i 36-38°C in numerose città del Centro-Nord. Previsti 39 gradi a Roma
+- **Il Messaggero**: Temporali di calore oggi e rischio grandine, ecco dove. Poi caldo record per la settimana di Ferragosto Ancora una giornata segnata da temporali localmente intensi, soprattutto sulle zone montuose. Oggi, domenica 9 agosto, l'instabilità interesserà in particolare le Alpi, con...
+- **ANSA**: Un'altra settimana di caldo, sarà un Ferragosto a 40 gradi Temporali al nord poi l'afa torna padrona. Al via i nuovi lavori sulla Av Roma-Firenze
+
+
+## 11. Iran, ultimatum agli Usa per Hormuz: “Via il blocco navale o lo Stretto resta chiuso"
+
+> **Context:** Teheran chiede il ritiro delle forze americane e la fine della guerra. Intesa con l’Oman vicina, ma la riapertura resta condizionata
+
+- **La Repubblica**: I generali frenano Trump sulla guerra in Iran Per il capo delle forze armate Caine non è possibile vincere solo con le bombe: bisogna negoziare. Ma è stallo su Hormuz
+- **ANSA**: Teheran: 'Se Usa non correggeranno il loro comportamento Hormuz resterà chiuso' Funzionario: 'Ecco le condizioni'. Pezeshkian: 'E' il momento migliore per un accordo'
+- **Il Manifesto**: Hormuz, l’Iran detta agli Usa le condizioni più dure di sempre Nel tardo pomeriggio di ieri è stato diffuso l’ultimo comunicato del Consiglio supremo per la Sicurezza nazionale iraniano, firmato dal segretario Mohammad Baqer Zolghadr, che di fatto esclude una imminente […] The post Hormuz, l’Iran detta agli Usa le condizioni più dure di sempre first appeared on il manifesto.
+- **Adkronos**: Iran, ultimatum agli Usa per Hormuz: “Via il blocco navale o lo Stretto resta chiuso" Teheran chiede il ritiro delle forze americane e la fine della guerra. Intesa con l’Oman vicina, ma la riapertura resta condizionata
+- **La Repubblica**: Guerra in Iran, le news di oggi. Teheran: “Non ci sono colloqui con Usa, solo contatti indiretti. Accordo con Oman non significa riapertura Hormuz” Araghchi: “Solo scambi di messaggi tramite intermediari”. I pasdaran: “Stretto chiuso finché Washington nona ccettà le nostre condizioni”. Nyt: “Scorte di armi Usa a livelli allarmanti”
+
+
+## 12. Richiedenti asilo, la Germania: «Clandestini verranno espulsi verso l'Italia»
+
+> **Context:** Berlino riapre il fronte migranti: «Verranno espulsi verso l'Italia». Il cancelliere tedesco Friedrich Merz, in affanno per i sondaggi che danno in ascesa Afd, avrebbe deciso la...
+
+- **La Repubblica**: Berlino riapre il fronte richiedenti asilo: “Verranno espulsi verso l’Italia” La mossa del cancelliere Merz: Roma dovrà riprendere chi è arrivato nella Ue dal nostro Paese. Così la Germania riavvia le espulsioni ferme dal 2022. Ma con Meloni sono entrati in 340mila
+- **La Repubblica**: Una ragazza in fuga dalla Somalia: il primo respingimento tedesco verso l’Italia Abdirisaq Warsame, 22 anni, è arrivata in Assia lo scorso aprile. Verrà rimandata nel nostro Paese il prossimo 19 agosto
+- **Il Messaggero**: Richiedenti asilo, la Germania: «Clandestini verranno espulsi verso l'Italia» Berlino riapre il fronte migranti: «Verranno espulsi verso l'Italia». Il cancelliere tedesco Friedrich Merz, in affanno per i sondaggi che danno in ascesa Afd, avrebbe deciso la...
+- **ANSA**: Repubblica, 'la Germania espellerà i migranti verso l'Italia' Il 19 agosto rientrerà il primo, una giovane somala che 'doveva chiedere asilo a Roma'
+- **Il Sole Ventiquattro Ore**: Migranti, linea dura della Germania: espulsioni verso l’Italia Per l’Italia non c’è solo il fronte diplomatico aperto con la Spagna. Anche dalla Germania arrivano notizie sulla gestione dei migranti che potrebbero causare tensioni. Secondo quanto riportato dal quotidiano...
+
+
+## 13. Leone XIV: “Tempo di fermare la spirale di violenza tra Ucraina e Russia. Spazio alla diplomazia”
+
+> **Context:** Appello del Papa: «Si rispetti il diritto umanitario e cessino da entrambe le parti i tragici attacchi che coinvolgono obiettivi civili»
+
+- **La Stampa**: Ucraina, doppia missione vaticana a Mosca Nella capitale russa il mese prossimo la mediazione geopolitica del ministro della Santa Sede Gallagher e quella umanitaria dell’inviato papale Zuppi. La possibilità di un viaggio di Leone XIV
+- **La Stampa**: Leone XIV: “Tempo di fermare la spirale di violenza tra Ucraina e Russia. Spazio alla diplomazia” Appello del Papa: «Si rispetti il diritto umanitario e cessino da entrambe le parti i tragici attacchi che coinvolgono obiettivi civili»
+- **Il Fatto Quotidiano**: L’appello di Papa Leone per i negoziati sull’Ucraina: “Basta violenze sui civili, ora è tempo dare spazio alle diplomazie per aprire la strada alla pace” “Spazio alle diplomazie e al dialogo per aprire la strada alla pace”. Papa Leone durante l’Angelus domenicale torna ad invocare la pace tra Kiev e Mosca, chiedendo trattative e lo stop alle aggressioni reciproche contro chi non indossa la divisa militare. “Continuano a aggiungere notizie dolorose di persone innocenti uccise e ferite in Ucraina e […] L'articolo L’appello di Papa Leone per i negoziati sull’Ucraina: “Basta violenze sui civili, ora è tempo dare spazio alle diplomazie per aprire la strada alla pace” proviene da Il Fatto Quotidiano.
+- **La Verità**: Il Papa: «Basta violenze in Ucraina e Russia, spazio alla diplomazia» All’Angelus Leone XIV denuncia l’aumento delle vittime civili, compresi i bambini: «La guerra non fa che generare altra guerra. È tempo di fermare la spirale di violenza». L'articolo Il Papa: «Basta violenze in Ucraina e Russia, spazio alla diplomazia» proviene da La Verità.
+- **ANSA**: Nuovo appello del Papa: 'Basta violenze in Ucraina e Russia' 'Spazio alla diplomazia'. Il Vaticano prepara la missione a Mosca di Gallagher e Zuppi
+
+
+## 14. Odessa sotto attacco russo, danneggiati edifici e infrastrutture
+
+> **Context:** A Belgorod il raid dei droni ucraini, 13 feriti tra cui 2 bambini
+
+- **La Repubblica**: Guerra Ucraina - Russia, le news di oggi. Attacco a Kharkiv, due morti. A Belgorod droni russi feriscono 13 persone tra cui 2 bambini Zelensky: “Se Putin continua l'aggressione, l'America si unirà alla lotta per noi”
+- **La Stampa**: Missili su Odessa. Attacco russo su Kharkiv, morti e feriti. Droni ucraini su Belgorod Il presidente ucraino: «Mosca schiererà fino a 50mila nordcoreani»
+- **ANSA**: Odessa sotto attacco russo, danneggiati edifici e infrastrutture A Belgorod il raid dei droni ucraini, 13 feriti tra cui 2 bambini
+- **Adkronos**: Ucraina, nuovi attacchi russi a Kharkiv e Odessa. Tensione anche a Zaporizhzhia Zelensky: "Se Mosca continua attacchi a nostra logistica, faremo altrettanto"
+- **ANSA**: Ucraina, colpite nella notte Odessa e Kharkiv. Il Papa: 'Basta violenze, spazio alla diplomazia' Leone XIV all'Angelus: "Ancora vittime civili, si rispetti il diritto umanitario". A Belgorod il raid dei droni ucraini, 13 feriti tra cui 2 bambini. Bild: la Germania ha espulso 400 russi dall'inizio della guerra
+
+
+## 15. Cresce l'attesa per l'eclissi totale di Sole del 12 agosto
+
+> **Context:** I luoghi migliori per ammirarla
+
+- **ANSA**: Eclisse totale in Spagna, i luoghi speciali dove osservarla Dalla Galizia alle isole Baleari, dalle Asturie alla Castiglia
+- **Adkronos**: Notte di San Lorenzo ed eclissi totale di Sole, il cielo dà spettacolo: ecco dove andare Un doppio richiamo a partire con lo sguardo rivolto al cielo
+- **ANSA**: Cresce l'attesa per l'eclissi totale di Sole del 12 agosto I luoghi migliori per ammirarla
+- **ANSA**: Tra nave e treno, in viaggio verso l'eclissi più bella Omio stila la classifica delle mete migliori, mentre Costa lancia la Crociera dell'Eclissi
+- **Il Messaggero**: Eclissi 12 agosto 2026, dove vederla in Italia? Da Roma a Firenze fino a Genova: le città con visuale migliore Inizia il conto alla rovescia per assistere finalmente ad uno dei fenomeni astronomici più attesi dell'estate. Il 12 agosto sarà il giorno dell'eclissi totale di Sole,...
+- **La Stampa**: Imperatori morti di spavento e astronomi decapitati: fatti storici e antiche credenze sull’eclissi In attesa del fenomeno che si manifesterà il prossimo 12 agosto
+- **ANSA**: Eclissi di Sole e stelle cadenti accendono il cielo del 12 agosto Visibili fino a 100 meteore l'ora, fra gli spettacoli migliori del decennio
+
+
+## 16. La Fifa difende Infantino: "Tante falsità sul presidente, più di 30 anni di vita dedicati al calcio"
+
+> **Context:** La Federazione Internazionale pubblica un lungo comunicato per rispondere alle polemiche e agli attacchi al numero uno del calcio mondiale, sempre più frequenti: "È stato eletto democraticamente"
+
+- **La Stampa**: La Uefa verso un’indagine sulla condotta di Infantino. La Fifa difende il suo mandato La Federcalcio mondiale, in un comunicato, replica ai recenti attacchi rivolti al suo presidente dopo il caso Fifa Forward Enterprise
+- **Adkronos**: La Fifa difende Infantino: "Tante falsità sul presidente, più di 30 anni di vita dedicati al calcio" La Federazione Internazionale pubblica un lungo comunicato per rispondere alle polemiche e agli attacchi al numero uno del calcio mondiale, sempre più frequenti: "È stato eletto democraticamente"
+- **Il Fatto Quotidiano**: Bufera su Infantino, la Fifa ora lo protegge: “Non tolleriamo processi. Evidente che qualcuno voglia minare noi e il presidente” “A eco delle recenti dichiarazioni di Conmebol e Caf, la Fifa non sosterrà, faciliterà o tollererà alcun processo relativo all’elezione del Presidente della Fifa che sia incoerente con gli Statuti della Fifa. Il Presidente della Fifa è stato eletto democraticamente dalle Associazioni Membro della Fifa e continua a servire con il loro mandato“. Così in […] L'articolo Bufera su Infantino, la Fifa ora lo protegge: “Non tolleriamo processi. Evidente che qualcuno voglia minare noi e il presidente” proviene da Il Fatto Quotidiano.
+
+
+## 17. Investe ciclisti dopo lite: "Gesto inspiegabile, chiedo perdono a feriti e loro familiari"
+
+> **Context:** Il 73enne Giuseppe Campagna, da ieri ai dimiciliari: "Sono stravolto, capito quello che ho fatto quando li ho visti a terra"
+
+- **ANSA**: Litiga con i ciclisti e li investe, 'chiedo perdono ai familiari' "Ammetto la mia colpa, non mi rendevo conto di quello che stavo facendo"
+- **Adkronos**: Investe ciclisti dopo lite: "Gesto inspiegabile, chiedo perdono a feriti e loro familiari" Il 73enne Giuseppe Campagna, da ieri ai dimiciliari: "Sono stravolto, capito quello che ho fatto quando li ho visti a terra"
+- **Il Fatto Quotidiano**: L’automobilista che ha investito di proposito i ciclisti a Lanzo Torinese chiede scusa ai familiari dei feriti: “Non mi rendo conto di cosa ho fatto” “Chiedo perdono ai familiari dei feriti. Ammetto la mia colpa, la mia responsabilità”. Giuseppe Campagna, il 73enne di Coassolo che ieri ha travolto volontariamente con l’auto, due volte, un gruppo di ciclisti, ha chiesto scusa. Lo ha fatto tramite il suo avvocato Tommaso Servetto: “Non riesco a spiegarmi cosa mi ha portato a fare questo”, […] L'articolo L’automobilista che ha investito di proposito i ciclisti a Lanzo Torinese chiede scusa ai familiari dei feriti: “Non mi rendo conto di cosa ho fatto” proviene da Il Fatto Quotidiano.
+
+
+## 18. Vannacci sceglie l’ex-generale Carmelo Burgio per la corsa a sindaco di Milano: “Saprebbe come rastrellare Rogoredo”
+
+> **Context:** Un altro ex-generale come lui per la corsa a sindaco di Milano. Carmelo Burgio è il candidato scelto da Roberto Vannacci, leader del movimento di estrema destra Futuro Nazionale, per le prossime elezioni comunali del capoluogo lombardo. Il paracadutista in congedo va quindi ad aggiungersi al già parecchio affollato campo degli aspiranti alla poltrona di […] L'articolo Vannacci sceglie l’ex-generale Carmelo Burgio per la corsa a sindaco di Milano: “Saprebbe come rastrellare Rogoredo” proviene da Il Fatto Quotidiano.
+
+- **La Stampa**: Parà, generale dell’Arma, uomo dell’antimafia: chi è Carmelo Burgio, la carta di Vannacci per Milano Il leader di Futuro Nazionale: «Con lui sindaco tornerà a essere la città della Madonnina e non dei maranza»
+- **Il Fatto Quotidiano**: Vannacci sceglie l’ex-generale Carmelo Burgio per la corsa a sindaco di Milano: “Saprebbe come rastrellare Rogoredo” Un altro ex-generale come lui per la corsa a sindaco di Milano. Carmelo Burgio è il candidato scelto da Roberto Vannacci, leader del movimento di estrema destra Futuro Nazionale, per le prossime elezioni comunali del capoluogo lombardo. Il paracadutista in congedo va quindi ad aggiungersi al già parecchio affollato campo degli aspiranti alla poltrona di […] L'articolo Vannacci sceglie l’ex-generale Carmelo Burgio per la corsa a sindaco di Milano: “Saprebbe come rastrellare Rogoredo” proviene da Il Fatto Quotidiano.
+- **La Verità**: Vannacci: «A Milano un generale per mettere ordine» Roberto Vannacci lancia Carmelo Burgio, paracadutista ed ex vice comandante del Gis dei carabinieri, per il voto nel capoluogo lombardo: «Se gli chiedessimo di rastrellare Rogoredo saprebbe come farlo». E annuncia: «Le alleanze si decideranno sotto le elezioni». L'articolo Vannacci: «A Milano un generale per mettere ordine» proviene da La Verità.
+
+
+## 19. Berlino: 'Applichiamo il Patto Ue sui migranti, verso respingimenti in Italia e Grecia'
+
+> **Context:** Portavoce ministero Interni: 'In linea con nuove regole scattate il 12 giugno'
+
+- **La Stampa**: Migranti, il governo tedesco: “Applichiamo le regole, ora respingimenti verso Italia e Grecia” "Il funzionamento del sistema di Dublino è una condizione imprescindibile per il successo del Sistema europeo comune di asilo (Seca)", il nuovo Patto sui migranti entrato in vigore il 12 ...
+- **ANSA**: Berlino: 'Applichiamo il Patto Ue sui migranti, verso respingimenti in Italia e Grecia' Portavoce ministero Interni: 'In linea con nuove regole scattate il 12 giugno'
+- **ANSA**: La linea dura di Berlino, verso i respingimenti in Italia e Grecia La Germania: 'Applichiamo il nuovo Patto'. A metà luglio Roma era inadempiente
+- **Adkronos**: Migranti, fonti Viminale: "Azzerati con Germania e altri Paesi i 'dublinanti' arrivati prima del 12 giugno" Questo proprio secondo uno specifico accordo sottoscritto con alcuni Stati. Il chiarimento dopo che Berlino avrebbe deciso di applicare la sua linea dura sui migranti nei confronti dell’Italia
+
+
+## 20. Gli amichetti di Landini infangano l’Italia e i morti
+
+> **Context:** I delegati di un sindacato rosso belga, alleato della Cgil, voltano le spalle quando La Russa legge il messaggio di Mattarella per ricordare la tragedia di Marcinelle. Ira della Meloni, la sinistra tace e non prende le distanze. L'articolo Gli amichetti di Landini infangano l’Italia e i morti proviene da La Verità.
+
+- **ANSA**: Proteste e tensioni, la cerimonia di Marcinelle spacca l'Italia Il sindacato belga volta le spalle a La Russa. Fdi e Meloni attaccano la Cgil, è scontro
+- **La Verità**: Gli amichetti di Landini infangano l’Italia e i morti I delegati di un sindacato rosso belga, alleato della Cgil, voltano le spalle quando La Russa legge il messaggio di Mattarella per ricordare la tragedia di Marcinelle. Ira della Meloni, la sinistra tace e non prende le distanze. L'articolo Gli amichetti di Landini infangano l’Italia e i morti proviene da La Verità.
+- **Il Manifesto**: Marcinelle, Meloni e La Russa attaccano. La Cgil: «Menzogne» Una protesta antifascista riuscita della Fédération Générale du Travail de Belgique (Fgtb: il maggior sindacato belga, con 1,2 milioni di iscritti); la puntualità dell’Ansa nel chiarire che la contestazione a […] The post Marcinelle, Meloni e La Russa attaccano. La Cgil: «Menzogne» first appeared on il manifesto.
+- **La Verità**: Parla La Russa, i belgi rossi si voltano. Sinistra zitta sull’insulto a Marcinelle La contestazione alla seconda carica dello Stato e alla Sberna inscenata dal sindacato gemello della Cgil. Dal foulard condiviso alla contromanifestazione insieme: le vittime fanno da sfondo a una mossa politica. L'articolo Parla La Russa, i belgi rossi si voltano. Sinistra zitta sull’insulto a Marcinelle proviene da La Verità.
+
+
+
+</clustered_headlines>
+
+
+<other_headlines>
+<article source="AGI" date="Sat, 08 Aug 2026 21:54:43 GMT">
+L’ultimo saluto al marito della ministra Roccella: "Io e Luigi ancora mano nella mano"
+Si sono celebrati nella basilica di San Lorenzo in Lucina a Roma i funerali di Luigi Cavallari, marito della ministra per la Famiglia, la Natalità e le Pari Opportunità, Eugenia Roccella, annegato durante una gita sul lago di Vico con la consorte. La ministra Roccella è apparsa visibilmente commossa e, prima dell'inizio della cerimonia, si è stretta in un lungo abbraccio con l'amica Ginevra Lambertucci. La presenza delle autorità e dell'esecutivo Per il Governo hanno preso parte alle esequie il sottosegretario alla Presidenza del Consiglio Alfredo Mantovano e i ministri Francesco Lollobrigida, Carlo Nordio, Alessandro Giuli, Alessandra Locatelli e Gianmarco Mazzi. Presenti anche il questore della Camera dei Deputati, Paolo Trancassini, e il capogruppo di FdI al Senato, Lucio Malan. Numerose le testimonianze di vicinanza e cordoglio delle istituzioni, con corone di fiori inviate dal Presidente della Repubblica, dalla Presidente del Consiglio dei Ministri, da diversi singoli ministri dell'esecutivo, dal gruppo parlamentare di Fratelli d'Italia e dal Presidente della Camera dei Deputati. Il ringraziamento e il ricordo della ministra Roccella "Io vorrei solo ringraziare tutti quelli che sono qui, perché per me è un grande conforto. Molti hanno rinunciato a partire o sono venuti quando erano già al via delle vacanze, quindi veramente un grazie di cuore", ha affermato Eugenia Roccella al termine della cerimonia funebre rivolgendosi alla chiesa gremita. GUARDA IL VIDEO "Voglio ringraziare quelli che hanno consentito per Luigi il ritrovamento del corpo e quindi una sepoltura cristiana — ha proseguito Roccella —. La Prefettura e il Prefetto di Viterbo, i Vigili del Fuoco, i Carabinieri, la Polizia di Stato, la Guardia di Finanza: tutti quelli che si sono spesi con dedizione, con discrezione, proteggendo anche la nostra famiglia con comprensione. Grazie davvero a tutti". Ricordando poi il profondo legame con il coniuge, la ministra ha aggiunto: "Io non ho molto da dire sulla mia storia con Luigi. Dopo cinquant'anni qualcuno ci prendeva ogni tanto benevolmente in giro perché camminavamo mano nella mano. Penso che ancora continueremo a farlo, sicuramente in un altro modo, in un altro mondo". Le commoventi parole della figlia Silvia In chiesa ha reso omaggio al padre anche la figlia Silvia Cavallari, che tra le lacrime ha letto una lettera a lui dedicata: "Vorrei partire dalle parole che non abbiamo mai avuto bisogno di dirci. Ricordo la delicatezza di quei familiari silenzi pieni di serenità, silenzi vibranti in cui ho imparato la saggezza della pazienza, la bellezza dei gesti cortesi, l'amore nei sacrifici non reclamati. Da quando te ne sei andato il mondo è diventato un luogo un po' meno gentile". "Ti descrivono come un uomo riservato e discreto — ha continuato la figlia —, ma la tua vita era fatta di innumerevoli e piccoli gesti, a volte invisibili, sempre meravigliosi. Mi hai insegnato a misurarmi solo con la gentilezza e che il vero modo per crescere è confrontarsi con la propria coscienza. Mi hai dato tutto ciò che una figlia può desiderare per navigare il mondo con curiosità, generosità e coraggio. Grazie papà, perché hai reso possibile amare anche la tua assenza. Forse il dono più grande che si possa lasciare è la consapevolezza di voler diventare, ogni giorno, più simile a te". L'uscita del feretro e l'abbraccio delle istituzioni All'uscita del feretro grande commozione con un tenero bacio alla bara da parte della ministra Roccella, prima di essere stretta nell'abbraccio dei due figli e poi dei colleghi di governo, a partire dal sottosegretario Alfredo Mantovano, il primo a consolarla. Il carro funebre ha poi lasciato la piazza tra la commozione dei tanti ancora presenti sul sagrato della basilica.
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 20:31:13 +0200">
+In cinquecento nudi in bicicletta a Berlino, per la protezione del clima
+I naturalisti hanno attraversato la capitale, addosso solo caschi e scarpe
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 20:28:28 +0200">
+Etna, l'apertura di una bocca effusiva ripresa dal drone
+Ieri l'evento a circa 2360 metri di quota, nell'area un'improvvisa nube di gas e cenere
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 20:02:42 +0200">
+Tajani: 'I controlli restano fino al 15 agosto, rischio terrorismo'
+Gli 007: 'Fino a 50 mila punterebbero su Ceuta'. In Italia controlli alle frontiere per 19 estracomunitari
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 19:12:45 +0200">
+Nuovo giallo a Teheran, 'Mojtaba Khamenei ha incontrato Pezeshkian'
+'Presto video in pubblico'. Stallo a Hormuz, attacco Houthi su target sauditi in Mar Rosso
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 19:08:39 +0200">
+Beppe Carletti: "A 80 anni sogno una fiction sui Nomadi. Sanremo? Sarebbe bello"
+"Una vita in tour tra musica e impegno nel segno di Daolio. Don Mazzi e Guccini nel cuore"
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 19:01:58 +0200">
+Milioni di chili di cibo in decomposizione, un quartiere di Los Angeles soffoca
+Dopo l'incendio di un magazzino gli abitanti lottano contro la puzza, le mosche e i topi
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 18:14:21 +0200">
+Morto Pino Di Salvo, a lungo inviato della Rai
+Insegnò Giornalismo televisivo all'Università LUMSA, aveva 90 anni
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 17:24:32 +0200">
+Esodo estivo, oltre 22 milioni di veicoli sulla rete, traffico regolare
+In leggera flessione rispetto allo scorso fine settimana e allo stesso periodo del 2025
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 16:48:19 +0200">
+Morto Cencelli, col suo manuale disegnò la politica italiana
+Ex funzionario Dc, aveva 90 anni. Con lui incarichi in base al peso dei partiti e correnti
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 16:42:27 +0200">
+Pronto soccorso in affanno, più accessi e mancano 7mila medici
+Sindacati: 'A problemi strutturali si sommano le ferie, solo il 30% ha l'organico adeguato'
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 15:15:31 +0200">
+Autopsia, probabile collasso da calore per il muratore morto a Padova
+Non era ubriaco, sei indagati per omissione di soccorso del lavoratore in nero
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 12:02:34 +0200">
+Ex Ilva, 13enne malato a Decaro 'Perché vuoi tenere aperto il mostro?'
+Andrea, tra i ricorrenti contro il polo siderurgico di Taranto, scrive al governatore
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 14:56:05 +0200">
+'Il rischio terrorismo è concreto', report degli 007 su Ceuta. Tajani: 'Non va sottovalutato'
+Il dossier sarebbe sul tavolo di Chigi, "una regia" sui social
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 13:19:01 +0200">
+Scatta l'allerta per il tifone Dolphin, voli cancellati ed evacuazioni in Cina
+Previsti piogge torrenziali e venti
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 12:34:27 +0200">
+Esplosioni e colate ad alta quota, continua la fase eruttiva sull'Etna
+Modeste oscillazione del tremore vulcanico che resta su valori alti
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 12:27:53 +0200">
+Difende la madre dall'aggressione del padre, lo blocca e lo fa arrestare
+I fatti a Rimini. L'accusa è di maltrattamenti in famiglia, lesioni personali e minacce
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 11:50:30 +0200">
+Canada, la British Columbia dichiara lo stato d'emergenza per i roghi, 20.000 evacuati
+Oltre 100 incendi attivi nella provincia canadese
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 08:57:17 +0200">
+Nagasaki commemora il bombardamento atomico di 81 anni fa
+Il sindaco Suzuki: 'Le armi nucleari sono il male assoluto'
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 07:13:42 +0200">
+Alexandria Ocasio-Cortez annuncia: 'Ho deciso di congelare i miei ovuli'
+'Voglio avere il controllo della mia vita'. Aos è stata la più giovane danna eletta al Congresso, a 28 anni
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 13:51:32 +0200">
+Media Iran, 'Mojtaba Khamenei ha incontrato il presidente Pezeshkian'
+Pressing dei Pasdaran: 'Gli Stati Uniti accettino l'accordo e riapriremo Hormuz'
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 13:36:10 +0200">
+Atletica: Mondiali U20, due ori per l'Italia nel lungo e staffetta 4x100 mista
+Daniele Inzoli salta 7,97. Record mondiale per Fermin, Valensin, Pagliarini e Doualla
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 08:37:41 +0200">
+Tetti verdi e prati al posto dell'asfalto, le città contro il caldo
+Pileri (Polimi), 'ridimensionare le strade e i parcheggi, più trasporti pubblici'
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 08:07:38 +0200">
+L'addio a Francesco Guccini nella sua Pavana: 'Buon viaggio babbo'
+Applausi e commozione, il ricordo del cardinale Zuppi per l'amico scomparso
+</article>
+<article source="ANSA" date="Sun, 9 Aug 2026 08:01:54 +0200">
+Tennis, n.1 al mondo Sabalenka sconfitta da Alexandrova a Toronto
+La russa, testa di serie numero 16, si qualifica ai quarti
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 19:27:55 +0200">
+Malore per Christopher Lambert, l'attore stava firmando autografi quando è collassato: portato in ospedale
+L'entourage dell'attore, rientrato quasi subito in hotel, ha spiegato che la star 69enne ha avuto un calo zuccheri a causa della mancanza di sonno e per aver mangiato poco durante la giornata
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 19:13:00 +0200">
+Bambino non vuole di allacciarsi la cintura prima del decollo, volo cancellato
+E' accaduto a bordo del volo Porter Airlines PD444 da Victoria a Toronto
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 17:17:00 +0200">
+Furgone con braccianti a bordo si ribalta nel Foggiano, un morto e 8 feriti
+Il grave incidente nella tarda mattinata di oggi in località 'Montesecco', nei pressi di Serracapriola su una provinciale che collega il Molise a San Paolo Civitate e Torremaggiore. Stavano rientrando dal lavoro
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 16:32:35 +0200">
+L'aneddoto di Cahill: "Sinner bara a burraco, fa sparire le carte"
+Il coach del fuoriclasse azzurro ha svelato una curiosità sul numero uno del ranking Atp
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 16:10:06 +0200">
+Roma, rissa con spray urticante e bottiglie di vetro a Trastevere tra 15 ragazzi: tre in manette
+Nello scontro coinvolti ragazzi nordafricani: uno ferito al volto
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 15:53:38 +0200">
+Frosinone-Lazio, oggi amichevole: orario, probabili formazioni e dove vederla
+La squadra di Gattuso affronta i ciociari allo stadio Benito Stirpe
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 15:22:13 +0200">
+New York, barca si ribalta a Liberty Island: morti una donna e un neonato
+A bordo dell'imbarcazione, che secondo alcune fonti sarebbe stata un motoscafo di poco meno di 7 metri, si trovavano 14 persone
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 14:53:24 +0200">
+Infradito fanno bene o male ai piedi? Il parere del medico: "Ecco chi non deve usarle"
+Usare le infradito come se fossero calzature comuni non è appropriato per tutti
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 13:11:00 +0200">
+MotoGp, Fernandez vince il Gp di Silverstone davanti a Martin e Bezzecchi - Rivivi la gara
+Lo spagnolo, in testa dal primo giro, chiude davanti al connazionale, che resta leader del Mondiale
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 13:09:02 +0200">
+"Ho buttato due anelli tra i rifiuti", li ritrova nella discarica: 'miracolo' a New York
+L''impresa' dell'azienda che smaltisce i rifiuti: i gioielli spuntano tra tonnellate di spazzatura
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 12:59:34 +0200">
+Mezz'ora sul divano aumenta il rischio di morte, lo studio (e il rimedio)
+La ricerca condotta dall'università di Glasgow accende i riflettori sugli effetti della sedentarietà
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 12:17:14 +0200">
+Juve, Di Gregorio non convince: spunta l'idea Suzuki
+La dirigenza bianconera è al lavoro per consegnare a Spalletti un nuovo portiere prima dell'inizio della stagione
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 11:56:38 +0200">
+Morta Maria Pia Prodi, la sorella dell'ex premier Romano: aveva 100 anni
+A dare l’annuncio i familiari, “grati per il grande affetto ricevuto”
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 11:49:53 +0200">
+Fallo laterale, palla in autostrada e incidente: lo show del calcio in Uruguay
+Scena surreale in Uruguay Montevideo e Paysandu...
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 09:51:37 +0200">
+Terremoto a ovest di Pisa: scossa di magnitudo 2.4﻿
+La scossa, riferisce l'Ingv, è stata avvertita attorno alle 8.37 di oggi
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 09:22:18 +0200">
+Maldini e l’addio alla Figc: la ‘verità’ su Guardiola, Pirlo e Malagò
+Il direttore tecnico e l’advisor Leonardo avrebbero voluto Pirlo come ct. La candidatura però stata travolta dalle polemiche per i legami commerciali tra Pirlo e un provider russo di scommesse
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 00:09:44 +0200">
+Poche calorie e tanti benefici, la 'scoperta' sulla buccia di anguria: "Non buttatela"
+Da scarto a piatto forte, anche la scorza ora ha un profilo nutrizionale ufficiale pubblicato da Dipartimento agricoltura per consentire uso in diete e sviluppo ricette
+</article>
+<article source="Adkronos" date="Sun, 9 Aug 2026 00:07:09 +0200">
+Melanoma, alcune cellule tumorali riescono a 'nascondersi' al sistema immunitario
+Un nuovo studio svela il perché e identifica la proteina 'regista'
+</article>
+<article source="Adkronos" date="Sat, 8 Aug 2026 23:48:19 +0200">
+Si tuffa e non riemerge più, militare Usa morto nel lago di Barcis: prestava servizio alla base di Aviano
+Dopo essersi tuffato, non sarebbe più riemerso in superficie
+</article>
+<article source="Adkronos" date="Sat, 8 Aug 2026 23:26:34 +0200">
+"Non è un aereo, non sono stelle", il 'treno di luci' in cielo: il mistero dell'8 agosto
+Un 'trenino' di luci si sposta da sud-ovest verso nord-est, con una traiettoria lineare a velocità costante
+</article>
+<article source="Adkronos" date="Sat, 8 Aug 2026 21:38:00 +0200">
+SuperEnalotto, estrazione e numeri vincenti dell'8 agosto. A Melfi centrato il 5+1 da 650mila euro
+Alla prossima estrazione il jackpot a disposizione del '6' sarà di 207,6 milioni di euro
+</article>
+<article source="Il Post" date="Sun, 09 Aug 2026 09:21:49 GMT">
+Il Messico ha dispiegato l’esercito per salvare le esportazioni di avocado
+</article>
+<article source="Il Post" date="Sun, 09 Aug 2026 06:21:45 GMT">
+Oggi finisce un Tour de France molto incerto
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 9 Aug 2026 16:15:10 GMT">
+Taranto allo sprint finale dei Giochi del Mediterraneo: si comincia tra 12 giorni
+Mancano 12 giorni da oggi 9 agosto all’inaugurazione nello stadio di Taranto della ventesima edizione dei Giochi Mediterraneo, evento internazionale sportivo al quale prenderanno parte circa 4mila atleti provenienti da...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 9 Aug 2026 16:13:00 GMT">
+Furgone ribaltato nel Foggiano: un bracciante morto e nove feriti
+Un morto e nove feriti. È il bilancio di un incidente stradale avvenuto in località Montesecco, nelle campagne di Serracapriola (Foggia). Nell’incidente sono stati coinvolti braccianti di nazionalità marocchina. ...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 9 Aug 2026 15:27:00 GMT">
+Migranti, 3 sbarchi a Lampedusa con 108 persone
+A Lampedusa ci sono stati tre sbarchi per un totale di 108 persone. Un barchino di 10 metri, partito da Sfax in Tunisia, è riuscito ad arrivare direttamente a Cala...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 9 Aug 2026 11:48:00 GMT">
+Migranti, Berlino: verso respingimenti in Italia e Grecia. Il Viminale: nessun rientro per arrivi prima del 12 giugno
+Per l’Italia non c’è solo il fronte diplomatico aperto con la Spagna. Anche dalla Germania arrivano notizie sulla gestione dei migranti che potrebbero causare tensioni. Con una serie di puntualizzazioni...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Sun, 9 Aug 2026 06:28:00 GMT">
+Furbetti delle targhe estere, stretta sui controlli: nel mirino riciclaggio ed elusione
+Risposta del Mit al Senato a un’interrogazione di Fratelli d’Italia (primo firmatario Rastrelli) sul fenomeno a Napoli. Guardia alta sul fenomeno di abuso dell’«esterovestizione» che comporta anche impatti negativi sul gettito Iva
+</article>
+</other_headlines>
