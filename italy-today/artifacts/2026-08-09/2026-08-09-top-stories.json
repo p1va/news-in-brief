@@ -1,12 +1,12 @@
 {
   "date": "2026-08-09",
-  "generated_at": "Sun 09 Aug 15:41",
+  "generated_at": "Sun 09 Aug 16:45",
   "stories": [
     {
       "rank": 1,
       "title": "Morto a Roma Massimiliano Cencelli, padre del famoso 'manuale'",
-      "source_count": 8,
-      "article_count": 9,
+      "source_count": 9,
+      "article_count": 10,
       "source_domains": [
         "liberoquotidiano.it",
         "adnkronos.com",
@@ -15,7 +15,8 @@
         "ansa.it",
         "repubblica.it",
         "ilmessaggero.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
         "https://www.liberoquotidiano.it/news/politica/48821717/e-morto-massimiliano-cencelli-il-suo-manuale-e-diventato-leggendario/",
@@ -27,6 +28,28 @@
     },
     {
       "rank": 2,
+      "title": "Sinner salta Cincinnati, Jannik dà forfait per un problema al ginocchio destro. Tornerà in campo per gli Us Open",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/09/sinner-salta-cincinnati-per-un-problema-al-ginocchio-destro_99944fbe-67d2-4bcb-9058-11dd26b792f7.html",
+        "https://www.ilfattoquotidiano.it/2026/08/09/sinner-salta-cincinnati-infortunio-ginocchio-notizie/8474907/",
+        "https://www.adnkronos.com/sport/sinner-salta-cincinnati-ufficiale-annuncio-infortunio-ginocchio_24CG98qwmUuSBEVprLvtEM",
+        "https://www.ilmessaggero.it/sport/tennis/sinner_salta_cincinnati_perche_problema_ginocchio_come_sta-9699269.html",
+        "https://www.repubblica.it/sport/tennis/2026/08/09/news/sinner_cincinnati_rinuncia_infortunio-425520419/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Caldo, quando finisce? Temporali violenti dopo Ferragosto, dal 18 la svolta: rischio eventi estremi, ecco dove",
       "source_count": 5,
       "article_count": 11,
@@ -46,7 +69,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "MotoGp: Raul Fernandez vince a Silverstone, Bezzecchi terzo",
       "source_count": 6,
       "article_count": 10,
@@ -67,7 +90,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Spagna, gli italiani a Fiumicino divisi tra preoccupazione e dispiacere per i controlli",
       "source_count": 6,
       "article_count": 7,
@@ -88,7 +111,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Sindaco di Milano, Vannacci lancia Carmelo Burgio per Futuro nazionale. Ecco chi è",
       "source_count": 6,
       "article_count": 6,
@@ -109,7 +132,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Cresce l'attesa per l'eclissi totale di Sole del 12 agosto",
       "source_count": 4,
       "article_count": 8,
@@ -128,7 +151,49 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Incidente in mare a Lampedusa, sub muore falciato dalle eliche di un gommone",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "palermo.repubblica.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/persone/sub_morto_lampedusa_cristiano_giamporcaro_regista_chi_era-9699261.html",
+        "https://www.adnkronos.com/cronaca/lampedusa-sub-falciato-morto-gommone_72v1rRc292mWebSTGG666M",
+        "https://www.ilfattoquotidiano.it/2026/08/09/omicidio-nautico-lampedusa-sub-notizie/8474736/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/sub-falciato-dalle-eliche-di-gommone-a-lampedusa-inchiesta-per-omicidio-nautico_5bd47e66-b190-4354-b5cf-9e1f609d183b.html",
+        "https://www.liberoquotidiano.it/news/italia/48821713/lampedusa-segnala-la-sua-presenza-con-la-boa-travolto-dal-gommone-di-due-turisti/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Foggia, furgone di braccianti si ribalta: un morto e 8 feriti. Stavano rientrando dai campi",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "bari.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/foggiano-serracapriola-incidente-furgone-braccianti_6SZWE5rkFWH1UUneAODa2Q",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/furgone-con-braccianti-si-ribalta-nel-foggiano-un-morto-e-8-feriti_e81de15a-4ccf-4083-9410-1b71c01585fb.html",
+        "https://www.ilfattoquotidiano.it/2026/08/09/braccianti-furgone-ribaltato-foggiano-notizie/8474853/",
+        "https://bari.repubblica.it/cronaca/2026/08/09/news/foggia_furgone_di_braccianti_si_ribalta_un_morto_e_8_feriti_stavano_rientrando_dai_campi-425520381/",
+        "https://www.lastampa.it/cronaca/2026/08/09/news/foggia_furgone_braccianti_si_ribalta_1_morto_8_feriti_molise-15711125/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Litiga con i ciclisti e li investe più volte con l'auto, 4 feriti",
       "source_count": 5,
       "article_count": 5,
@@ -145,65 +210,6 @@
         "https://torino.repubblica.it/cronaca/2026/08/09/news/ciclisti_investiti_lanzo_racconto_sopravvissuto-425519653/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/08/litiga-con-i-ciclisti-e-li-investe-poi-torna-indietro-per-colpirli-di-nuovo_42f2301b-b665-4e22-a744-ca37614dc090.html",
         "https://www.lastampa.it/torino/2026/08/09/news/lanzo_ciclisti_investiti_anziano_arrestato-15710680/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Come sta davvero Sinner? Ancora controlli al ginocchio a Torino. Cincinnati è in dubbio",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/sport/48821843/jannik-sinner-terapia-con-onde-d-urto-cosa-rischia-adesso/",
-        "https://www.adnkronos.com/sport/sinner-salta-cincinnati-dubbio-come-sta-jannik-us-open_6OE2jEzSwlJ3Q4VzwS7og4",
-        "https://www.ilmessaggero.it/sport/tennis/sinner_come_sta_controlli_milano_problemi_al_ginocchio_cincinnati_le_sue_condizioni-9699089.html",
-        "https://www.ilfattoquotidiano.it/2026/08/08/sinner-cincinnati-ginocchio-jmedical-controlli-dubbi-come-sta/8474356/",
-        "https://www.lastampa.it/sport/2026/08/08/news/sinner_ancora_controlli_al_ginocchio_a_torino_cincinnati_e_in_dubbio-15710661/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Foggia, furgone di braccianti si ribalta: un morto e 8 feriti. Stavano rientrando dai campi",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "bari.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/foggiano-serracapriola-incidente-furgone-braccianti_6SZWE5rkFWH1UUneAODa2Q",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/09/furgone-con-braccianti-si-ribalta-nel-foggiano-un-morto-e-8-feriti_e81de15a-4ccf-4083-9410-1b71c01585fb.html",
-        "https://www.ilfattoquotidiano.it/2026/08/09/braccianti-furgone-ribaltato-foggiano-notizie/8474853/",
-        "https://bari.repubblica.it/cronaca/2026/08/09/news/foggia_furgone_di_braccianti_si_ribalta_un_morto_e_8_feriti_stavano_rientrando_dai_campi-425520381/",
-        "https://www.lastampa.it/cronaca/2026/08/09/news/foggia_furgone_braccianti_si_ribalta_1_morto_8_feriti_molise-15711125/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Richiedenti asilo, la Germania: «Clandestini verranno espulsi verso l'Italia»",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/politica/migranti_germania_espulsi_italia_richiedenti_asilo_cosa_succede-9698989.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/09/repubblica-la-germania-espellera-i-migranti-verso-litalia_08d3762f-9308-499c-9807-c9c219f8c7b4.html",
-        "https://www.repubblica.it/esteri/2026/08/09/news/germania_espulsione_clandestini_italia_merz_dublinanti-425519563/",
-        "https://www.repubblica.it/esteri/2026/08/09/news/ragazza_in_fuga_da_somalia_primo_respingimento_tedesco_verso_italia-425519491/",
-        "https://www.ilsole24ore.com/art/migranti-linea-dura-germania-espulsioni-l-italia-AJsN0ji"
       ]
     }
   ]
