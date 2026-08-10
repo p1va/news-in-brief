@@ -1,35 +1,58 @@
 {
   "date": "2026-08-10",
-  "generated_at": "Mon 10 Aug 11:17",
+  "generated_at": "Mon 10 Aug 13:23",
   "stories": [
     {
       "rank": 1,
       "title": "Schiaffo di Netanyahu a Trump, respinto il piano sul ritiro da Gaza. «Prima il disarmo di Hamas»",
       "source_count": 8,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "liberoquotidiano.it",
         "ansa.it",
         "adnkronos.com",
         "repubblica.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "laverita.info",
-        "lastampa.it",
-        "news.google.com"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48826360/medio-oriente-netanyahu-blocca-il-piano-trump-nessun-ritiro-da-gaza/",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/10/media-netanyahu-da-una-chance-a-piano-gaza-idf-si-sta-ritirando_eb6a10d3-3efe-4fc9-9bc7-c482cc7d5f81.html",
         "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/10/prime-pagine-netanyahu-boccia-il-piano-di-trump-il-ritiro-solo-con-il-disarmo_e9f44a0c-b264-402d-80e5-d8875db04269.html",
         "https://www.adnkronos.com/internazionale/esteri/gaza-piano-trump-netanyahu-reazione_6U6sBgtBNEPyqtwwq4GpaI",
-        "https://www.repubblica.it/esteri/2026/08/10/news/netanyahu_contro_trump_nuovo_piano_gaza_ritiro_israele_board_of_peace-425520845/",
-        "https://www.ilmessaggero.it/mondo/netanyahu_trump_respinto_piano_ritiro_gaza_cosa_e_successo-9699460.html"
+        "https://www.repubblica.it/esteri/2026/08/10/news/netanyahu_contro_trump_nuovo_piano_gaza_ritiro_israele_board_of_peace-425520845/"
       ]
     },
     {
       "rank": 2,
+      "title": "Valter Lavitola arrestato per l’attentato a Ranucci",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/valter-lavitola-arrestato-per-lattentato-a-ranucci-_06df5fcd-1e88-4397-938f-9738782e7e29.html",
+        "https://www.ilmessaggero.it/politica/lavitola_tavares_chi_e_intermidiario_ricercato-9700671.html",
+        "https://www.laverita.info/inchieste/ranucci-arrestato-lavitola",
+        "https://www.ilmessaggero.it/politica/lavitola_chi_e_imprenditore_arrestato_attentato_ranucci-9700648.html",
+        "https://www.ilfattoquotidiano.it/2026/08/10/attentato-ranucci-lavitola-arrestato-notizie/8475332/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Cerca di fermare una lite tra il figlio e un ragazzo ma riceve un pugno in faccia: 50enne gravissimo",
       "source_count": 8,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
@@ -49,29 +72,29 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Meloni e la premier danese: 'No a un'immigrazione incontrollata'",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "ansa.it",
         "repubblica.it",
-        "liberoquotidiano.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/48826320/migranti-meloni-frederiksen-non-accettiamo-immigrazione-incontrollata/",
         "https://www.ilfattoquotidiano.it/2026/08/10/meloni-frederiksen-centri-rimpatrio-notizie/8475171/",
         "https://www.adnkronos.com/internazionale/esteri/meloni-immigrazione-incontrollata-post-premier-danese-frederiksen_5Jw7rljbE2kNXmZiwnyu7X",
         "https://www.ansa.it/sito/notizie/politica/2026/08/10/meloni-e-premier-danese-no-a-unimmigrazione-incontrollata-_b5c7ea31-a4a5-4186-bd58-bd5aab71964a.html",
-        "https://www.repubblica.it/politica/2026/08/10/news/meloni_premier_danese_immigrazione_incontrollata-425521237/",
-        "https://www.liberoquotidiano.it/news/politica/48825570/il-post-e-la-foto-di-giorgia-meloni-con-la-premier-danese-il-messaggio-chiaro-a-ue-e-sinistra/"
+        "https://www.repubblica.it/politica/2026/08/10/news/meloni_premier_danese_immigrazione_incontrollata-425521237/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Pestaggio fuori da una discoteca nel Cosentino, ucciso l’addetto alla sicurezza",
       "source_count": 7,
       "article_count": 7,
@@ -93,7 +116,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "In Europa occidentale giugno-luglio più caldo di sempre. Record temperature per la superficie dei mari",
       "source_count": 6,
       "article_count": 7,
@@ -114,7 +137,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Simeoni: “Berruti persona unica. Per me c’è sempre stato”",
       "source_count": 4,
       "article_count": 8,
@@ -130,25 +153,6 @@
         "https://www.repubblica.it/sport/vari/2026/08/10/news/tortu_ricorda_berruti-425520924/",
         "https://www.repubblica.it/sport/vari/2026/08/09/news/sara_simeoni_ricordo_berruti-425520929/",
         "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/09/addio-allangelo-livio-berruti-copertina-di-unitalia-felice_e8b34776-f6df-4a4c-b37b-f579667ece82.html"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Sinner salta il Masters 1000 di Cincinnati per un infortunio al ginocchio destro: corsa contro il tempo per gli Us Open",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.lastampa.it/sport/2026/08/10/news/i_dolori_di_sinner_niente_cincinnati_il_ginocchio_mi_da_qualche_problema-15711416/",
-        "https://www.liberoquotidiano.it/news/sport/48822976/sinner-tremare-italiani-non-ancora-pronto/",
-        "https://www.ilfattoquotidiano.it/2026/08/09/sinner-salta-cincinnati-infortunio-ginocchio-notizie/8474907/",
-        "https://www.liberoquotidiano.it/news/sport/48822477/sinner-rinuncia-cincinnati-giallo-condizioni/",
-        "https://www.liberoquotidiano.it/news/sport/48821843/jannik-sinner-terapia-con-onde-d-urto-cosa-rischia-adesso/"
       ]
     },
     {
@@ -173,37 +177,40 @@
     },
     {
       "rank": 9,
-      "title": "Daniele Congedi trovato morto lungo la provinciale, era uscito in bici: forse ucciso da auto pirata, il corpo era in un cespuglio",
+      "title": "Massiccio raid ucraino sul Tatarstan: 13 morti. Attacco russo a Kharkiv, ci sono vittime",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/daniele-congedi-ciclista-morto-leccese-ipotesi-auto-pirata_wmG3LYiA7irfByEdYT9Df",
-        "https://www.ilfattoquotidiano.it/2026/08/10/daniele-congedi-auto-pirata-ugento-notizie/8475158/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/ciclista-28enne-trovato-morto-in-salento-ipotesi-auto-pirata_49c630ba-9aff-48a2-a7df-b65dad800c3a.html",
-        "https://www.ilmessaggero.it/persone/daniele_congedi_ugento_ciclista_morto_auto_pirata_cosa_e_successo-9700321.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Mosca: 'Droni ucraini nel Tatarstan, almeno 13 morti'",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
+        "liberoquotidiano.it",
         "ansa.it",
         "repubblica.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48826920/attacchi-incrociati-tra-ucraina-e-russia-nuovi-raid-mortali/",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/10/mosca-droni-ucraini-nel-tatarstan-almeno-13-morti_fcfdb8cd-f395-4226-a82d-a1bbae53467f.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/10/mosca-12-persone-uccise-da-droni-ucraini-nel-tatarstan_fcfdb8cd-f395-4226-a82d-a1bbae53467f.html",
         "https://www.repubblica.it/esteri/2026/08/10/diretta/guerra_ucraina_russia_news_oggi-425520945/",
         "https://www.lastampa.it/esteri/2026/08/10/diretta/guerra_russia_ucraina_news_oggi-15711440/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Sinner salta il Masters 1000 di Cincinnati per un infortunio al ginocchio destro: corsa contro il tempo per gli Us Open",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.lastampa.it/sport/2026/08/10/news/i_dolori_di_sinner_niente_cincinnati_il_ginocchio_mi_da_qualche_problema-15711416/",
+        "https://www.liberoquotidiano.it/news/sport/48822976/sinner-tremare-italiani-non-ancora-pronto/",
+        "https://www.ilfattoquotidiano.it/2026/08/09/sinner-salta-cincinnati-infortunio-ginocchio-notizie/8474907/",
+        "https://www.liberoquotidiano.it/news/sport/48822477/sinner-rinuncia-cincinnati-giallo-condizioni/",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNT3JVVWktOFlpLUlicVp2WjNSQ1hpbkthaWRKaUttQkRiemRVTjVMVjk2ZXYwREZFaDljbkNwODBkVVdVT25YWVRBWmFmZUhSU3dXN3dfMnVYSDRsamlkSHdIOGJzUGZsNjJUQTZveDNFNVdhQkJNRWxhU08zTHloS1ZaSQ?oc=5"
       ]
     }
   ]
