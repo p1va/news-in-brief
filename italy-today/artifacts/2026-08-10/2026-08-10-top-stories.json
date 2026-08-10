@@ -1,37 +1,38 @@
 {
   "date": "2026-08-10",
-  "generated_at": "Mon 10 Aug 17:03",
+  "generated_at": "Mon 10 Aug 18:01",
   "stories": [
     {
       "rank": 1,
-      "title": "Terremoto in Colombia, 20 morti tra Manizales e Pereira. 'A Cali persone sotto le macerie'",
+      "title": "Colombia, terremoto di magnitudo 7.4: gente in strada a Cali e Bogotà",
       "source_count": 8,
-      "article_count": 17,
+      "article_count": 21,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
-        "laverita.info",
         "liberoquotidiano.it",
+        "laverita.info",
         "adnkronos.com",
         "lastampa.it",
         "ilmessaggero.it",
         "repubblica.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/10/il-racconto-dei-minuti-di-terrore-un-boato-spaventoso-poi-linferno_6272678d-b55e-459b-b495-1f0cb11c564f.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/10/terremoto-in-colombia-il-bilancio-sale-o-oltre-70-morti_87375249-7b89-4a33-9034-6079ea32e17e.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/10/terremoto-in-colombia-20-morti-tra-manizales-e-pereira.-a-cali-persone-sotto-le-macerie_87375249-7b89-4a33-9034-6079ea32e17e.html",
         "https://www.ilfattoquotidiano.it/2026/08/10/terremoto-colombia-magnitudo-74-danni-notizie-2/8475652/",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/08/10/terremoto-in-colombia-residente-a-bogota-ha-cominciato-a-tremare-e-non-smetteva_638262f4-5eb4-4381-b563-e1bb75693f42.html",
-        "https://www.laverita.info/video/terremoto-colombia-bogota",
-        "https://www.laverita.info/mondo/terremoto-colombia-morti-crolli"
+        "https://www.ansa.it/sito/videogallery/mondo/2026/08/10/terremoto-in-colombia-residente-a-bogota-ha-cominciato-a-tremare-e-non-smetteva_638262f4-5eb4-4381-b563-e1bb75693f42.html"
       ]
     },
     {
       "rank": 2,
       "title": "Valter Lavitola arrestato per l’attentato a Ranucci",
-      "source_count": 9,
-      "article_count": 13,
+      "source_count": 10,
+      "article_count": 15,
       "source_domains": [
         "adnkronos.com",
+        "ilfattoquotidiano.it",
         "roma.repubblica.it",
         "liberoquotidiano.it",
         "ansa.it",
@@ -42,11 +43,11 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.adnkronos.com/cronaca/ranucci-in-ordinanza-foto-giornalista-con-lavitola-e-suo-factotum_7dTC3GwowKCW0BMqPd0m7j",
+        "https://www.ilfattoquotidiano.it/2026/08/10/attentato-ranucci-lavitola-arresto-sondaggio-candidatura-notizie/8475612/",
         "https://www.adnkronos.com/cronaca/attentato-ranucci-lavitola-arrestato-oggi-ultime-notizie-news_5a6iOcn8qVc1QVxTUUm2wR",
         "https://roma.repubblica.it/cronaca/2026/08/10/news/valter_lavitola_arresto_movente_attentato_ranucci_candidatura_politica-425522078/",
-        "https://www.liberoquotidiano.it/news/libero-video/48828275/valter-lavitola-ecco-le-immagini-dell-arresto/",
-        "https://www.liberoquotidiano.it/news/pillole/48828270/arrestato_lavitola_per_l_attentato_a_ranucci_al_tg1_le_prime_immagini/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/valter-lavitola-arrestato-per-lattentato-a-ranucci-_06df5fcd-1e88-4397-938f-9738782e7e29.html"
+        "https://www.liberoquotidiano.it/news/libero-video/48828275/valter-lavitola-ecco-le-immagini-dell-arresto/"
       ]
     },
     {
@@ -96,6 +97,27 @@
     },
     {
       "rank": 5,
+      "title": "Europei di nuoto, Razzetti argento nei 400 misti",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/10/europei-di-nuoto-razzetti-argento-nei-400-misti_a1d63a4c-2410-4fea-8594-ca5f76136ba0.html",
+        "https://www.ilfattoquotidiano.it/2026/08/10/europei-nuoto-razzetti-argento-notizie/8475695/",
+        "https://www.adnkronos.com/sport/europei-nuoto-parigi-argento-alberto-razzetti_piztorJK8WWrRUAncUK7X",
+        "https://www.ansa.it/sito/notizie/flash/2026/08/10/europei-nuoto-razzetti-argento-nei-400-misti-oro-al-russo-borodin_25bcaa87-3bc9-4534-b37c-e36c94e3fa6a.html",
+        "https://www.repubblica.it/sport/vari/2026/08/10/diretta/europei_nuoto_diretta_finali-425522146/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Pestaggio fuori da una discoteca nel Cosentino, ucciso l’addetto alla sicurezza",
       "source_count": 7,
       "article_count": 7,
@@ -117,7 +139,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "In Europa occidentale giugno-luglio più caldo di sempre. Record temperature per la superficie dei mari",
       "source_count": 6,
       "article_count": 7,
@@ -138,7 +160,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "PRIME PAGINE | Netanyahu boccia il piano di Trump: \"Il ritiro solo con il disarmo di Hamas\"",
       "source_count": 5,
       "article_count": 7,
@@ -158,7 +180,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Simeoni: “Berruti persona unica. Per me c’è sempre stato”",
       "source_count": 4,
       "article_count": 8,
@@ -177,42 +199,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Il Po in secca, il livello del fiume a Cremona visto dall'alto",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "torino.repubblica.it",
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48830729/siccita-a-londra-le-rive-di-uno-stagno-prosciugate/",
-        "https://www.ilmessaggero.it/italia/po_secco_si_sta_prosciugando_cosa_succede_foto_rischi-9700644.html",
-        "https://torino.repubblica.it/cronaca/2026/08/10/news/po_torino_alghe_siccita-425520817/",
-        "https://www.ansa.it/sito/videogallery/short_video/2026/08/09/il-po-in-secca-il-livello-del-fiume-a-cremona-visto-dallalto_53de4a8b-c7a3-4f00-8b1e-efcde33063a9.html",
-        "https://www.ilsole24ore.com/art/siccita-senza-tregua-bacino-po-laghi-prealpini-quasi-esauriti-AJKDwFj"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Massiccio raid ucraino sul Tatarstan: 13 morti. Attacco russo a Kharkiv, ci sono vittime",
-      "source_count": 4,
+      "title": "'Oltre un milione di evacuati in Cina per il tifone Dolphin'",
+      "source_count": 5,
       "article_count": 6,
       "source_domains": [
-        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
         "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
+        "liberoquotidiano.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/48827755/ucraina-10-feriti-attacco-russo-sumy-abitazione-fiamme/",
-        "https://www.liberoquotidiano.it/news/tv-news/48826920/attacchi-incrociati-tra-ucraina-e-russia-nuovi-raid-mortali/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/10/mosca-droni-ucraini-nel-tatarstan-almeno-13-morti_fcfdb8cd-f395-4226-a82d-a1bbae53467f.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/10/mosca-12-persone-uccise-da-droni-ucraini-nel-tatarstan_fcfdb8cd-f395-4226-a82d-a1bbae53467f.html",
-        "https://www.repubblica.it/esteri/2026/08/10/diretta/guerra_ucraina_russia_news_oggi-425520945/"
+        "https://www.ilfattoquotidiano.it/2026/08/10/tifone-dolphin-cina-evacuazioni-notizie/8475664/",
+        "https://www.lastampa.it/esteri/2026/08/10/news/tifone_dolphin_cina_1_milione_evacuati_danni_feriti-15711953/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/10/shanghai-allagata-per-il-tifone-dolphin-cancellati-quasi-mille-voli-_11dadb46-5aad-4a2a-ad18-4b7c5a5d0909.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/10/oltre-un-milione-di-evacuati-in-cina-per-il-tifone-dolphin_11dadb46-5aad-4a2a-ad18-4b7c5a5d0909.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48826300/tifone-dolphin-frana-travolge-case-filippine-sette-dispersi/"
       ]
     }
   ]
