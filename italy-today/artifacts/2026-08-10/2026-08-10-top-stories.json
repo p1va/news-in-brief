@@ -1,34 +1,56 @@
 {
   "date": "2026-08-10",
-  "generated_at": "Mon 10 Aug 15:08",
+  "generated_at": "Mon 10 Aug 17:03",
   "stories": [
     {
       "rank": 1,
-      "title": "Valter Lavitola arrestato per l’attentato a Ranucci",
-      "source_count": 10,
-      "article_count": 12,
+      "title": "Terremoto in Colombia, 20 morti tra Manizales e Pereira. 'A Cali persone sotto le macerie'",
+      "source_count": 8,
+      "article_count": 17,
       "source_domains": [
         "ansa.it",
-        "ilmessaggero.it",
-        "laverita.info",
         "ilfattoquotidiano.it",
-        "adnkronos.com",
+        "laverita.info",
         "liberoquotidiano.it",
+        "adnkronos.com",
         "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it",
-        "news.google.com"
+        "ilmessaggero.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/valter-lavitola-arrestato-per-lattentato-a-ranucci-_06df5fcd-1e88-4397-938f-9738782e7e29.html",
-        "https://www.ilmessaggero.it/politica/lavitola_tavares_chi_e_intermidiario_ricercato-9700671.html",
-        "https://www.laverita.info/inchieste/ranucci-arrestato-lavitola",
-        "https://www.ilmessaggero.it/politica/lavitola_chi_e_imprenditore_arrestato_attentato_ranucci-9700648.html",
-        "https://www.ilfattoquotidiano.it/2026/08/10/attentato-ranucci-lavitola-arrestato-notizie/8475332/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/10/terremoto-in-colombia-20-morti-tra-manizales-e-pereira.-a-cali-persone-sotto-le-macerie_87375249-7b89-4a33-9034-6079ea32e17e.html",
+        "https://www.ilfattoquotidiano.it/2026/08/10/terremoto-colombia-magnitudo-74-danni-notizie-2/8475652/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/08/10/terremoto-in-colombia-residente-a-bogota-ha-cominciato-a-tremare-e-non-smetteva_638262f4-5eb4-4381-b563-e1bb75693f42.html",
+        "https://www.laverita.info/video/terremoto-colombia-bogota",
+        "https://www.laverita.info/mondo/terremoto-colombia-morti-crolli"
       ]
     },
     {
       "rank": 2,
+      "title": "Valter Lavitola arrestato per l’attentato a Ranucci",
+      "source_count": 9,
+      "article_count": 13,
+      "source_domains": [
+        "adnkronos.com",
+        "roma.repubblica.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "laverita.info",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/attentato-ranucci-lavitola-arrestato-oggi-ultime-notizie-news_5a6iOcn8qVc1QVxTUUm2wR",
+        "https://roma.repubblica.it/cronaca/2026/08/10/news/valter_lavitola_arresto_movente_attentato_ranucci_candidatura_politica-425522078/",
+        "https://www.liberoquotidiano.it/news/libero-video/48828275/valter-lavitola-ecco-le-immagini-dell-arresto/",
+        "https://www.liberoquotidiano.it/news/pillole/48828270/arrestato_lavitola_per_l_attentato_a_ranucci_al_tg1_le_prime_immagini/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/10/valter-lavitola-arrestato-per-lattentato-a-ranucci-_06df5fcd-1e88-4397-938f-9738782e7e29.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Cerca di fermare una lite tra il figlio e un ragazzo ma riceve un pugno in faccia: 50enne gravissimo",
       "source_count": 8,
       "article_count": 9,
@@ -51,7 +73,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Meloni e la premier danese: 'No a un'immigrazione incontrollata'",
       "source_count": 7,
       "article_count": 8,
@@ -70,27 +92,6 @@
         "https://www.adnkronos.com/internazionale/esteri/meloni-immigrazione-incontrollata-post-premier-danese-frederiksen_5Jw7rljbE2kNXmZiwnyu7X",
         "https://www.ansa.it/sito/notizie/politica/2026/08/10/meloni-e-premier-danese-no-a-unimmigrazione-incontrollata-_b5c7ea31-a4a5-4186-bd58-bd5aab71964a.html",
         "https://www.repubblica.it/politica/2026/08/10/news/meloni_premier_danese_immigrazione_incontrollata-425521237/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Schiaffo di Netanyahu a Trump, respinto il piano sul ritiro da Gaza. «Prima il disarmo di Hamas»",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "laverita.info"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48826360/medio-oriente-netanyahu-blocca-il-piano-trump-nessun-ritiro-da-gaza/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/10/media-netanyahu-da-una-chance-a-piano-gaza-idf-si-sta-ritirando_eb6a10d3-3efe-4fc9-9bc7-c482cc7d5f81.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/10/prime-pagine-netanyahu-boccia-il-piano-di-trump-il-ritiro-solo-con-il-disarmo_e9f44a0c-b264-402d-80e5-d8875db04269.html",
-        "https://www.adnkronos.com/internazionale/esteri/gaza-piano-trump-netanyahu-reazione_6U6sBgtBNEPyqtwwq4GpaI",
-        "https://www.repubblica.it/esteri/2026/08/10/news/netanyahu_contro_trump_nuovo_piano_gaza_ritiro_israele_board_of_peace-425520845/"
       ]
     },
     {
@@ -117,27 +118,6 @@
     },
     {
       "rank": 6,
-      "title": "Terremoto in Colombia oggi, violenta scossa di magnitudo 7.4: almeno 20 morti nei crolli, sospesi voli in sei aeroporti",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/10/terremoto-in-colombia-scossa-di-magnitudo-7.4.-il-sima-a-96-km-di-profondita_87375249-7b89-4a33-9034-6079ea32e17e.html",
-        "https://www.ilfattoquotidiano.it/2026/08/10/terremoto-colombia-crollo-edifici-notizie/8475551/",
-        "https://www.ilfattoquotidiano.it/2026/08/10/terremoto-colombia-magnitudo-74-danni-notizie/8475500/",
-        "https://www.adnkronos.com/internazionale/esteri/terremoto-oggi-colombia_1EZjuYS4sUs4Hnu1kHScLx",
-        "https://www.ilmessaggero.it/mondo/terremoto_colombia_oggi_dove_magnitudo-9700724.html"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "In Europa occidentale giugno-luglio più caldo di sempre. Record temperature per la superficie dei mari",
       "source_count": 6,
       "article_count": 7,
@@ -155,6 +135,26 @@
         "https://www.ansa.it/sito/videogallery/mondo/2026/08/10/a-luglio-2026-caldo-record-per-la-superficie-dei-mari_b80bea5d-0911-4dd0-a16a-0a5c950e9c00.html",
         "https://www.ilfattoquotidiano.it/2026/08/10/caldo-record-europa-2026-copernicus-notizie/8475125/",
         "https://www.adnkronos.com/economia/caldo-record-luglio-2026-fiumi-siccita_2s3b9btsVJx4QvH3FdqGjh"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "PRIME PAGINE | Netanyahu boccia il piano di Trump: \"Il ritiro solo con il disarmo di Hamas\"",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48826360/medio-oriente-netanyahu-blocca-il-piano-trump-nessun-ritiro-da-gaza/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/10/media-netanyahu-da-una-chance-a-piano-gaza-idf-si-sta-ritirando_eb6a10d3-3efe-4fc9-9bc7-c482cc7d5f81.html",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/10/prime-pagine-netanyahu-boccia-il-piano-di-trump-il-ritiro-solo-con-il-disarmo_e9f44a0c-b264-402d-80e5-d8875db04269.html",
+        "https://www.adnkronos.com/internazionale/esteri/gaza-piano-trump-netanyahu-reazione_6U6sBgtBNEPyqtwwq4GpaI",
+        "https://www.repubblica.it/esteri/2026/08/10/news/netanyahu_contro_trump_nuovo_piano_gaza_ritiro_israele_board_of_peace-425520845/"
       ]
     },
     {
@@ -178,22 +178,22 @@
     },
     {
       "rank": 9,
-      "title": "Addio a Livio Berruti, il campione olimpico dei 200 metri a Roma 1960. Aveva 87 anni",
+      "title": "Il Po in secca, il livello del fiume a Cremona visto dall'alto",
       "source_count": 5,
-      "article_count": 6,
+      "article_count": 5,
       "source_domains": [
-        "lastampa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
         "liberoquotidiano.it",
-        "ilmessaggero.it"
+        "ilmessaggero.it",
+        "torino.repubblica.it",
+        "ansa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.lastampa.it/vercelli/2026/08/10/news/berruti_fidal_atletica_roma_1960_olimpiadi_giochi_corsa_200_metri_tortu_jacobs_mennea-15711814/",
-        "https://www.adnkronos.com/sport/morto-livio-berruti-campione-olimpico-roma-1960_28jWIpaO5VT8Q6dw6iKkwI",
-        "https://www.ilfattoquotidiano.it/2026/08/09/livio-berruti-campione-olimpico-200-metri-notizie/8474956/",
-        "https://www.liberoquotidiano.it/news/sport/48823868/addio-a-livio-berruti-oro-olimpico-a-roma-1960-aveva-87-anni/",
-        "https://www.ilmessaggero.it/persone/livio_berruti_morto_come_malattia_cosa_sappiamo-9699377.html"
+        "https://www.liberoquotidiano.it/news/tv-news/48830729/siccita-a-londra-le-rive-di-uno-stagno-prosciugate/",
+        "https://www.ilmessaggero.it/italia/po_secco_si_sta_prosciugando_cosa_succede_foto_rischi-9700644.html",
+        "https://torino.repubblica.it/cronaca/2026/08/10/news/po_torino_alghe_siccita-425520817/",
+        "https://www.ansa.it/sito/videogallery/short_video/2026/08/09/il-po-in-secca-il-livello-del-fiume-a-cremona-visto-dallalto_53de4a8b-c7a3-4f00-8b1e-efcde33063a9.html",
+        "https://www.ilsole24ore.com/art/siccita-senza-tregua-bacino-po-laghi-prealpini-quasi-esauriti-AJKDwFj"
       ]
     },
     {
