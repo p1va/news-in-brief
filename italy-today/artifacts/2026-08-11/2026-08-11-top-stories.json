@@ -1,30 +1,9 @@
 {
   "date": "2026-08-11",
-  "generated_at": "Tue 11 Aug 20:57",
+  "generated_at": "Tue 11 Aug 21:59",
   "stories": [
     {
       "rank": 1,
-      "title": "Eclissi 12 agosto, la guida completa: come guardarla, scegliere il punto perfetto, orari e fasi",
-      "source_count": 6,
-      "article_count": 16,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/salute/medicina/eclissi_solare_pericolosa_occhi_retina_come_guardarla-9702670.html",
-        "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/08/11/eclissi-del-12-agosto-tra-app-e-curiosita-degli-italiani_b5f4bd55-3ecf-44b3-8603-0bedc7a9bf97.html",
-        "https://www.ilmessaggero.it/mondo/eclissi_paese_buio_totale_dove_si_trova-9702557.html",
-        "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/08/11/eclissi-ricerche-su-google-degli-italiani-raddoppiate-in-7-giorni_05cb4236-6fa0-4b56-92b1-daa4dae6eec0.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48838513/eclissi-bella-ma-attenti-agli-occhi-ecco-cosa-si-rischia/"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Europei di nuoto, Quadarella da record: quarto oro consecutivo negli 800 stile",
       "source_count": 7,
       "article_count": 15,
@@ -43,6 +22,27 @@
         "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/europei-di-nuoto-quadarella-da-record-quarto-oro-consecutivo-negli-800-stile_6e06c872-d29c-4fb1-9ef2-735e33e4b080.html",
         "https://www.adnkronos.com/sport/quadarella-europei-nuoto-parigi-800-stile-libero-chi-e-oro_7s4CEKDTRf8Uf1kfVrn5pb",
         "https://www.ilfattoquotidiano.it/2026/08/11/europei-nuoto-quadarella-martinenghi-oro-notizie/8476610/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Eclissi 12 agosto, la guida completa: come guardarla, scegliere il punto perfetto, orari e fasi",
+      "source_count": 6,
+      "article_count": 15,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/salute/medicina/eclissi_solare_pericolosa_occhi_retina_come_guardarla-9702670.html",
+        "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/08/11/eclissi-del-12-agosto-tra-app-e-curiosita-degli-italiani_b5f4bd55-3ecf-44b3-8603-0bedc7a9bf97.html",
+        "https://www.ilmessaggero.it/mondo/eclissi_paese_buio_totale_dove_si_trova-9702557.html",
+        "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/08/11/eclissi-ricerche-su-google-degli-italiani-raddoppiate-in-7-giorni_05cb4236-6fa0-4b56-92b1-daa4dae6eec0.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48838513/eclissi-bella-ma-attenti-agli-occhi-ecco-cosa-si-rischia/"
       ]
     },
     {
@@ -69,21 +69,23 @@
     {
       "rank": 4,
       "title": "Europei di atletica: Battocletti regina dei 5000m, bronzo Majori",
-      "source_count": 5,
-      "article_count": 10,
+      "source_count": 7,
+      "article_count": 12,
       "source_domains": [
+        "ilmessaggero.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "ansa.it",
+        "liberoquotidiano.it",
         "lastampa.it",
         "repubblica.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/sport/altrisport/jacobs_ko_europei_infortunio_finale_cosa_e_successo-9702880.html",
         "https://www.adnkronos.com/sport/micol-majori-bronzo-europei-atletica-coach-baldini-si-commuove_1FPyiqVnALdum3txPTNlFX",
         "https://www.adnkronos.com/sport/nadia-battocletti-chi-e-oro-5000-europei-atletica_SdC72LcsKsoYLhQ4oKjqt",
         "https://www.ilfattoquotidiano.it/2026/08/11/europei-di-atletica-show-dellitalia-nei-5mila-metri-oro-a-nadia-battocletti-bronzo-a-micol-majori/8476646/",
-        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-atletica-battocletti-regina-dei-5000m-bronzo-majori_42596c64-29d9-4f2e-aa09-6d61b2bc2bd1.html",
-        "https://www.ansa.it/sito/notizie/flash/2026/08/11/-europei-atletica-battocletti-regina-dei-5000m-bronzo-majori-_0f1a829f-b562-43c7-9cfc-538dd399a2bf.html"
+        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-atletica-battocletti-regina-dei-5000m-bronzo-majori_42596c64-29d9-4f2e-aa09-6d61b2bc2bd1.html"
       ]
     },
     {
@@ -191,21 +193,22 @@
     },
     {
       "rank": 10,
-      "title": "Lavitola, le chat con Ranucci: “Se ti cacciano da Report fai bingo, tra due anni diventerai premier”",
-      "source_count": 4,
-      "article_count": 7,
+      "title": "Etna in eruzione, oggi ancora disagi all'aeroporto di Catania: voli in arrivo sospesi fino alle 19",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
         "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it"
+        "palermo.repubblica.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.adnkronos.com/cronaca/attentato-ranucci-lavitola-ultime-notizie_5ykp2hM54zBBjc4878GeDj",
-        "https://www.lastampa.it/cronaca/2026/08/11/news/lavitola_ranucci_quattro_punti_oscuri_attentato_retroscena-15712334/",
-        "https://www.repubblica.it/politica/2026/08/11/news/attentato_ranucci_carte_inchiesta_lavitola_intercettazioni-425522642/",
-        "https://www.repubblica.it/politica/2026/08/11/news/arrestato_valter_lavitola_attentato_ranucci-425522621/",
-        "https://www.ilmessaggero.it/politica/lavitola_ranucci_tavares_amicizia_cosa_sappiamo-9701113.html"
+        "https://www.ilfattoquotidiano.it/2026/08/11/eruzione-etna-aeroporto-catania-voli-notizie/8476256/",
+        "https://www.ansa.it/sito/videogallery/italia/2026/08/11/nuova-bocca-eruttiva-sulletna-si-e-aperta-nella-valle-del-bove_f06d19a2-c743-49ca-bb35-bb908425b766.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/nube-vulcanica-sulletna-sospesi-atterraggi-a-catania-fino-alle-19_787bd872-42c8-41b0-ace2-6f10bc7311fd.html",
+        "https://www.adnkronos.com/cronaca/etna-news-aeroporto-di-catania-voli-sospesi-11-agosto_7yN1IrzxxARpHqdnlQF2Sh",
+        "https://palermo.repubblica.it/cronaca/2026/08/11/news/voli_sospesi_e_navette_a_700_eurocatania_paralizzata_dall_etna-425522722/"
       ]
     }
   ]
