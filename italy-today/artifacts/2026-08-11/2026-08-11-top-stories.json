@@ -1,12 +1,12 @@
 {
   "date": "2026-08-11",
-  "generated_at": "Tue 11 Aug 11:53",
+  "generated_at": "Tue 11 Aug 13:21",
   "stories": [
     {
       "rank": 1,
-      "title": "Colombia, terremoto di magnitudo 7.4: gente in strada a Cali e Bogotà",
+      "title": "Sisma in Colombia: bilancio vittime sale a 132 morti e 570 feriti",
       "source_count": 6,
-      "article_count": 15,
+      "article_count": 14,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -27,36 +27,37 @@
       "rank": 2,
       "title": "Lavitola, la bomba a Ranucci per lanciarlo in politica: arrestato l'imprenditore. Il Gip: «È il mandante, tra loro nessun accordo»",
       "source_count": 6,
-      "article_count": 11,
+      "article_count": 10,
       "source_domains": [
+        "adnkronos.com",
         "lastampa.it",
         "repubblica.it",
         "ilmanifesto.it",
         "ilmessaggero.it",
-        "ansa.it",
-        "liberoquotidiano.it"
+        "ansa.it"
       ],
       "links": [
+        "https://www.adnkronos.com/cronaca/attentato-ranucci-lavitola-ultime-notizie_5ykp2hM54zBBjc4878GeDj",
         "https://www.lastampa.it/cronaca/2026/08/11/news/lavitola_ranucci_quattro_punti_oscuri_attentato_retroscena-15712334/",
         "https://www.repubblica.it/politica/2026/08/11/news/attentato_ranucci_carte_inchiesta_lavitola_intercettazioni-425522642/",
         "https://www.repubblica.it/politica/2026/08/11/news/arrestato_valter_lavitola_attentato_ranucci-425522621/",
-        "https://ilmanifesto.it/la-bomba-a-ranucci-per-fargli-del-bene-arrestato-lavitola",
-        "https://www.ilmessaggero.it/politica/lavitola_ranucci_tavares_amicizia_cosa_sappiamo-9701113.html"
+        "https://ilmanifesto.it/la-bomba-a-ranucci-per-fargli-del-bene-arrestato-lavitola"
       ]
     },
     {
       "rank": 3,
       "title": "Eclissi 12 agosto, la guida completa: come guardarla, scegliere il punto perfetto, orari e fasi",
-      "source_count": 4,
-      "article_count": 9,
+      "source_count": 5,
+      "article_count": 10,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
         "ilmessaggero.it",
-        "lastampa.it"
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/11/non-fate-stupidate-non-usate-occhiali-da-sole-nemmeno-due-paia-rischiate-che-vi-si-bruci-la-retina-i-consigli-dellesperto-bignami-sulleclissi-di-sole/8476208/",
+        "https://www.ilmessaggero.it/mondo/eclissi_12_agosto_2026_mappa_regioni_italia_percentuali_sole_oscurato-9702438.html",
         "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/11/ecco-le-5-fasi-delleclissi-del-12-agosto-_940288f6-1f13-42ef-8269-3fbbc6fa9112.html",
         "https://www.ilmessaggero.it/schede/eclissi_12_agosto_non_usare_lavatrice_condizionatore_lavastoviglie_consumi_elettricita-9702228.html",
         "https://www.ilfattoquotidiano.it/2026/08/11/eclissi-12-agosto-spagna-mete-notizie/8475282/",
@@ -85,6 +86,26 @@
     },
     {
       "rank": 5,
+      "title": "Etna in eruzione, oggi ancora disagi all'aeroporto di Catania: voli in arrivo sospesi fino alle 19",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "palermo.repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/11/eruzione-etna-aeroporto-catania-voli-notizie/8476256/",
+        "https://www.ansa.it/sito/videogallery/italia/2026/08/11/nuova-bocca-eruttiva-sulletna-si-e-aperta-nella-valle-del-bove_f06d19a2-c743-49ca-bb35-bb908425b766.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/nube-vulcanica-sulletna-sospesi-atterraggi-a-catania-fino-alle-19_787bd872-42c8-41b0-ace2-6f10bc7311fd.html",
+        "https://www.adnkronos.com/cronaca/etna-news-aeroporto-di-catania-voli-sospesi-11-agosto_7yN1IrzxxARpHqdnlQF2Sh",
+        "https://palermo.repubblica.it/cronaca/2026/08/11/news/voli_sospesi_e_navette_a_700_eurocatania_paralizzata_dall_etna-425522722/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Ancora una settimana di caldo intenso, 7-8 gradi oltre la media",
       "source_count": 3,
       "article_count": 8,
@@ -102,7 +123,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Meloni-Frederiksen, la strana coppia. Così cade il tabù politico sui rifugiati",
       "source_count": 5,
       "article_count": 5,
@@ -122,7 +143,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Araghchi: “Trump chiedeva la resa, poi ha implorato i negoziati”. Bombe di Israele sul Libano",
       "source_count": 4,
       "article_count": 6,
@@ -141,41 +162,23 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Zelensky: 'Zaporizhzhia colpita da missili nordcoreani, 6 morti'",
-      "source_count": 4,
-      "article_count": 6,
+      "rank": 9,
+      "title": "Europei, Coiro in semifinale negli 800 metri con il nuovo record italiano",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "adnkronos.com",
+        "ilfattoquotidiano.it",
         "ansa.it",
-        "liberoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-ultime-news-oggi_1exlR77qeZiwG2uA57MPzL",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/11/zelensky-zaporizhzhia-colpita-da-missili-nordcoreani-6-morti_b20088b6-3bc2-4bb4-8767-27bb9fd59b65.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48836327/raffica-di-raid-russi-sull-ucraina-ci-sono-numerosi-morti-e-feriti/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/11/missili-russi-su-zaporizhzhia-nellla-notte-cinque-morti-e-20-feriti.-attaccata-anche_b20088b6-3bc2-4bb4-8767-27bb9fd59b65.html",
-        "https://www.lastampa.it/esteri/2026/08/11/diretta/guerra_russia_ucraina_news_oggi-15712254/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Etna in eruzione, oggi ancora disagi all'aeroporto di Catania: voli in arrivo sospesi fino alle 19",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "palermo.repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/videogallery/italia/2026/08/11/nuova-bocca-eruttiva-sulletna-si-e-aperta-nella-valle-del-bove_f06d19a2-c743-49ca-bb35-bb908425b766.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/nube-vulcanica-sulletna-sospesi-atterraggi-a-catania-fino-alle-19_787bd872-42c8-41b0-ace2-6f10bc7311fd.html",
-        "https://www.adnkronos.com/cronaca/etna-news-aeroporto-di-catania-voli-sospesi-11-agosto_7yN1IrzxxARpHqdnlQF2Sh",
-        "https://palermo.repubblica.it/cronaca/2026/08/11/news/voli_sospesi_e_navette_a_700_eurocatania_paralizzata_dall_etna-425522722/",
-        "https://www.ilsole24ore.com/art/aeroporto-catania-voli-sospesi-fino-martedi-6-AJ5X5Yj"
+        "https://www.ilfattoquotidiano.it/2026/08/11/record-italiano-800-metri-coiro-europei-atletica-notizie/8476293/",
+        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-atletica-record-italiano-dellazzurra-coiro-negli-800-metri-rpt_480fe61a-9faa-4079-9cfe-7668bb4d0dcc.html",
+        "https://www.adnkronos.com/sport/atletica-europei-coiro-hodgkinson_4P5HMqKmJC9AmDKqeAKDLT",
+        "https://www.repubblica.it/sport/vari/2026/08/11/news/eloisa_coiro_record_italiano_800_metri_dorio-425523539/",
+        "https://www.lastampa.it/sport/2026/08/11/news/atletica_coiro_record_800-15712566/"
       ]
     },
     {
