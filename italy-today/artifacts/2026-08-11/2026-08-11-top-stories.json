@@ -1,6 +1,6 @@
 {
   "date": "2026-08-11",
-  "generated_at": "Tue 11 Aug 17:06",
+  "generated_at": "Tue 11 Aug 19:12",
   "stories": [
     {
       "rank": 1,
@@ -27,35 +27,75 @@
       "rank": 2,
       "title": "Terremoto in Colombia, sotto le macerie si cercano sopravvissuti",
       "source_count": 6,
-      "article_count": 13,
+      "article_count": 14,
       "source_domains": [
+        "ansa.it",
         "repubblica.it",
         "liberoquotidiano.it",
-        "ansa.it",
         "adnkronos.com",
         "lastampa.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/11/in-colombia-si-scava-tra-le-macerie-si-temono-mille-morti_aff09833-6f7b-40f0-809f-68b24962f414.html",
         "https://www.repubblica.it/esteri/2026/08/11/news/terremoto_colombia_aggiornamento_vittime_feriti_cali_saccheggi-425523820/",
         "https://www.liberoquotidiano.it/news/tv-news/48838686/colombia-a-pereira-residenti-e-soccorritorri-setacciano-le-macerie/",
         "https://www.liberoquotidiano.it/news/pillole/48837407/terremoto_in_colombia_sotto_le_macerie_si_cercano_sopravvissuti/",
-        "https://www.ansa.it/sito/videogallery/short_video/2026/08/11/si-aggrava-il-bilancio-del-terremoto-in-colombia-ospedali-al-collasso_566489c2-dc0a-4ede-b8c3-bad6c7076c05.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48836345/colombia-squadre-di-soccorso-formano-catene-umane-per-cercare-sopravvissuti/"
+        "https://www.ansa.it/sito/videogallery/short_video/2026/08/11/si-aggrava-il-bilancio-del-terremoto-in-colombia-ospedali-al-collasso_566489c2-dc0a-4ede-b8c3-bad6c7076c05.html"
       ]
     },
     {
       "rank": 3,
-      "title": "Lavitola, la bomba a Ranucci per lanciarlo in politica: arrestato l'imprenditore. Il Gip: «È il mandante, tra loro nessun accordo»",
+      "title": "Martinenghi da favola: oro nei 100 rana. Bronzo per Cerasuolo e Curtis. Gli Europei in diretta",
+      "source_count": 5,
+      "article_count": 14,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/europei-di-nuoto-quadarella-da-record-quarto-oro-consecutivo-negli-800-stile_6e06c872-d29c-4fb1-9ef2-735e33e4b080.html",
+        "https://www.adnkronos.com/sport/quadarella-europei-nuoto-parigi-800-stile-libero-chi-e-oro_7s4CEKDTRf8Uf1kfVrn5pb",
+        "https://www.adnkronos.com/sport/martinenghi-lacrime-oro-europei-ho-pensato-smettere-rivelazione_4Z6darbVGwO8h3eemMh16l",
+        "https://www.ilfattoquotidiano.it/2026/08/11/europei-nuoto-quadarella-martinenghi-oro-notizie/8476610/",
+        "https://www.adnkronos.com/sport/martinenghi-europei-nuoto-parigi-chi-e-campione-azzurro_9Qz0nYSnZsk4tjxCWTqip"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Minaccia di un attentato iraniano e Trump lasciò il vertice Nato con un volo militare straordinario",
       "source_count": 6,
-      "article_count": 10,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/11/trump-nascosto-nel-carrello-del-catering-la-fuga-da-ankara_99ade7d1-b999-4f57-ba8a-7e1c8da63666.html",
+        "https://www.ilfattoquotidiano.it/2026/08/11/trump-ankara-fuga-air-force-one-notizie/8476187/",
+        "https://www.liberoquotidiano.it/news/esteri/48837396/trump-sul-container-del-catering-chi-voleva-ucciderlo/",
+        "https://www.lastampa.it/esteri/2026/08/11/video/pericolo_attentato_iraniano_trump_fugge_air_force_one-15712436/",
+        "https://www.adnkronos.com/internazionale/esteri/trump-air-force-one-depistaggio-volo-turchia-video_48MNDmXyjz4Ctj2bSTpbF3"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Lavitola, la bomba a Ranucci per lanciarlo in politica: arrestato l'imprenditore. Il Gip: «È il mandante, tra loro nessun accordo»",
+      "source_count": 5,
+      "article_count": 9,
       "source_domains": [
         "adnkronos.com",
         "lastampa.it",
         "repubblica.it",
         "ilmanifesto.it",
-        "ilmessaggero.it",
-        "ansa.it"
+        "ilmessaggero.it"
       ],
       "links": [
         "https://www.adnkronos.com/cronaca/attentato-ranucci-lavitola-ultime-notizie_5ykp2hM54zBBjc4878GeDj",
@@ -66,48 +106,69 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Martinenghi da favola: oro nei 100 rana. Bronzo per Cerasuolo e Curtis. Gli Europei in diretta",
-      "source_count": 5,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/europei-di-nuoto-curtis-bronzo-nei-100-stile-libero_6e06c872-d29c-4fb1-9ef2-735e33e4b080.html",
-        "https://www.repubblica.it/sport/vari/2026/08/11/diretta/nuoto_europei_2026_risultati_ceccon_curtis-425523877/",
-        "https://www.adnkronos.com/sport/europei-nuoto-oggi-martinenghi-quadarella-cerasuolo-medaglie-gare-live-oro_4ywAk6npKcyK60ddqKfHpz",
-        "https://www.lastampa.it/sport/2026/08/11/news/europei_di_nuoto_bronzo_per_curtis_nei_100_stile_libero_steenbergen_primo-15712800/",
-        "https://www.repubblica.it/sport/vari/2026/08/11/news/europei_nuoto_2026_risultati_oggi_ceccon_pilato-425523502/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "“Pericolo attentato dall'Iran”: Trump in fuga su un carrello dell'Air Force One",
+      "rank": 6,
+      "title": "Tenta di salvare 13enne precipitato in una scarpata nel Bosco del Corniglio: morto capo scout",
       "source_count": 6,
       "article_count": 7,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "adnkronos.com",
         "ansa.it",
-        "repubblica.it"
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "bologna.repubblica.it",
+        "adnkronos.com",
+        "agi.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/11/trump-ankara-fuga-air-force-one-notizie/8476187/",
-        "https://www.liberoquotidiano.it/news/esteri/48837396/trump-sul-container-del-catering-chi-voleva-ucciderlo/",
-        "https://www.lastampa.it/esteri/2026/08/11/video/pericolo_attentato_iraniano_trump_fugge_air_force_one-15712436/",
-        "https://www.adnkronos.com/internazionale/esteri/trump-air-force-one-depistaggio-volo-turchia-video_48MNDmXyjz4Ctj2bSTpbF3",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/11/trump-e-tornato-dal-vertice-nato-con-un-aereo-militare-in-segreto-e-non_99ade7d1-b999-4f57-ba8a-7e1c8da63666.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/tenta-di-salvare-uno-scout-caduto-in-una-scarpata-morto-un-accompagnatore_892b3cb8-3013-4e85-949c-ae3682407317.html",
+        "https://www.liberoquotidiano.it/news/pillole/48838656/dramma_nel_parmense_muore_per_salvare_scout_13enne_caduto_in_una_scarpata/",
+        "https://www.ilfattoquotidiano.it/2026/08/11/capo-scout-morto-parma-scarpata-notizie/8476417/",
+        "https://bologna.repubblica.it/cronaca/2026/08/11/news/capo_scout_morto_voleva_salvare_13enne_scarpata_parmense-425523756/",
+        "https://www.adnkronos.com/cronaca/bosco-di-corniglio-morto-capo-scout_4DeY5zxSVGWrqRbRDzucmx"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Due maestre d'asilo arrestate a Monza. «Ai bimbi punizioni degradanti e a metodi educativi denigratori»",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "laverita.info",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "milano.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.laverita.info/video/maltrattamenti-asilo-nido-brianza",
+        "https://www.ilmessaggero.it/italia/maestre_d_asilo_arrestate_monza_chi_sono_cosa_e_successo-9702252.html",
+        "https://www.ilfattoquotidiano.it/2026/08/11/maltrattamenti-asilo-nido-monza-educatrici-notizie/8476038/",
+        "https://www.adnkronos.com/cronaca/maestre-arrestate-asilo-monza-maltrattamenti_5KxWBdmk3SqT24Xvu42vrf",
+        "https://milano.repubblica.it/cronaca/2026/08/11/news/monza_maltrattamenti_asilo_maestre_arrestate-425523211/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Europei, Coiro in semifinale negli 800 metri con il nuovo record italiano",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/vari/2026/08/11/news/dorio_record_intervista_800-425524038/",
+        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-di-atletica-record-italiano-dellazzurra-coiro-negli-800-metri_480fe61a-9faa-4079-9cfe-7668bb4d0dcc.html",
+        "https://www.ilfattoquotidiano.it/2026/08/11/record-italiano-800-metri-coiro-europei-atletica-notizie/8476293/",
+        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-atletica-record-italiano-dellazzurra-coiro-negli-800-metri-rpt_480fe61a-9faa-4079-9cfe-7668bb4d0dcc.html",
+        "https://www.adnkronos.com/sport/atletica-europei-coiro-hodgkinson_4P5HMqKmJC9AmDKqeAKDLT"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Bonus nuovi nati, prima scadenza il 12 agosto. I requisiti del contributo da 1000 euro",
       "source_count": 5,
       "article_count": 6,
@@ -127,80 +188,22 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "L'allarme di Ranucci sui social: 'Salvini chiede la mia sospensione'",
+      "rank": 10,
+      "title": "Europei atletica: nei 5000 è oro per Battocletti, bronzo per Majori. Attesa per Jacobs - Diretta",
       "source_count": 4,
       "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
         "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
         "repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/lallarme-di-ranucci-sui-social-salvini-chiede-la-mia-sospensione_ea156374-172a-434c-8197-8bf89a7164cb.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48837660/attentato-ranucci-salvini-chi-coinvolto-direttamente-dovrebbe-prendersi-pausa/",
-        "https://www.liberoquotidiano.it/news/pillole/48837444/caso_ranucci_salvini_serve_chiarezza_penso_sia_necessaria_una_pausa_/",
-        "https://www.adnkronos.com/politica/report-salvini-ranucci-botta-risposta_1EzOappdYpY7KhnWQdJ9nD",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/lallarme-di-ranucci-sui-social-salvini-chiede-la-mia-sospensione-_ea156374-172a-434c-8197-8bf89a7164cb.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Ancora una settimana di caldo intenso, 7-8 gradi oltre la media",
-      "source_count": 3,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/ancora-una-settimana-con-il-caldo-intenso-7-8-gradi-oltre-la-media_dd2689a1-aa07-4781-aebe-7198aeeb3351.html",
-        "https://www.ilmessaggero.it/schede/meteo_dopo_ferragosto_cosa_succede_calo_temperature_temporali_grandine_ultime_notizie-9702298.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/il-caldo-non-molla-litalia-risalgono-i-bollini-rossi_ab22e81b-040c-48b1-b313-eebc405b12eb.html",
-        "https://www.adnkronos.com/cronaca/meteo-caldo-record-estremo-previsioni-oggi-11-agosto_5pPziAfaYQXFOjxCtCva6f",
-        "https://www.ilmessaggero.it/schede/meteo_giuliacci_agosto_2026_temporali_aria_fresca_dove_quando_ultime_notizie-9702117.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Europei, Coiro in semifinale negli 800 metri con il nuovo record italiano",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-di-atletica-record-italiano-dellazzurra-coiro-negli-800-metri_480fe61a-9faa-4079-9cfe-7668bb4d0dcc.html",
-        "https://www.ilfattoquotidiano.it/2026/08/11/record-italiano-800-metri-coiro-europei-atletica-notizie/8476293/",
-        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/europei-atletica-record-italiano-dellazzurra-coiro-negli-800-metri-rpt_480fe61a-9faa-4079-9cfe-7668bb4d0dcc.html",
-        "https://www.adnkronos.com/sport/atletica-europei-coiro-hodgkinson_4P5HMqKmJC9AmDKqeAKDLT",
-        "https://www.repubblica.it/sport/vari/2026/08/11/news/eloisa_coiro_record_italiano_800_metri_dorio-425523539/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Tenta di salvare 13enne precipitato in una scarpata nel Bosco del Corniglio: morto capo scout",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "bologna.repubblica.it",
-        "adnkronos.com",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/tenta-di-salvare-uno-scout-caduto-in-una-scarpata-morto-un-accompagnatore_892b3cb8-3013-4e85-949c-ae3682407317.html",
-        "https://www.ilfattoquotidiano.it/2026/08/11/capo-scout-morto-parma-scarpata-notizie/8476417/",
-        "https://bologna.repubblica.it/cronaca/2026/08/11/news/capo_scout_morto_voleva_salvare_13enne_scarpata_parmense-425523756/",
-        "https://www.adnkronos.com/cronaca/bosco-di-corniglio-morto-capo-scout_4DeY5zxSVGWrqRbRDzucmx",
-        "https://www.adnkronos.com/cronaca/bosco-di-corniglio-morto-padre-scout_4DeY5zxSVGWrqRbRDzucmx"
+        "https://www.adnkronos.com/sport/nadia-battocletti-chi-e-oro-5000-europei-atletica_SdC72LcsKsoYLhQ4oKjqt",
+        "https://www.ilfattoquotidiano.it/2026/08/11/europei-di-atletica-show-dellitalia-nei-5mila-metri-oro-a-nadia-battocletti-bronzo-a-micol-majori/8476646/",
+        "https://www.ansa.it/sito/notizie/flash/2026/08/11/-europei-atletica-battocletti-regina-dei-5000m-bronzo-majori-_0f1a829f-b562-43c7-9cfc-538dd399a2bf.html",
+        "https://www.adnkronos.com/sport/diretta-europei-atletica-oggi-battocletti-jacobs-oro-live-gare-risultati_7GfU6DrpjrXoE6SAMKz1B3",
+        "https://www.repubblica.it/sport/vari/2026/08/11/diretta/europei_atletica_2026_jacobs_inzoli_battocletti_oggi-425523949/"
       ]
     }
   ]
