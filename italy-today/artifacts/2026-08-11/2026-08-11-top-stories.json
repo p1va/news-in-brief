@@ -1,46 +1,47 @@
 {
   "date": "2026-08-11",
-  "generated_at": "Tue 11 Aug 15:08",
+  "generated_at": "Tue 11 Aug 17:06",
   "stories": [
     {
       "rank": 1,
-      "title": "Terremoto in Colombia, sotto le macerie si cercano sopravvissuti",
-      "source_count": 6,
-      "article_count": 13,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/pillole/48837407/terremoto_in_colombia_sotto_le_macerie_si_cercano_sopravvissuti/",
-        "https://www.ansa.it/sito/videogallery/short_video/2026/08/11/si-aggrava-il-bilancio-del-terremoto-in-colombia-ospedali-al-collasso_566489c2-dc0a-4ede-b8c3-bad6c7076c05.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48836345/colombia-squadre-di-soccorso-formano-catene-umane-per-cercare-sopravvissuti/",
-        "https://www.liberoquotidiano.it/news/tv-news/48836275/sisma-in-colombia-bilancio-vittime-sale-a-132-morti-e-570-feriti/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/11/terremoto-in-colombia-sale-a-132-il-bilancio-dei-morti-_85fd3444-081f-41b1-a3e5-9d4b7fcf35a5.html"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Eclissi 12 agosto, la guida completa: come guardarla, scegliere il punto perfetto, orari e fasi",
-      "source_count": 5,
-      "article_count": 12,
+      "source_count": 6,
+      "article_count": 16,
       "source_domains": [
         "ilmessaggero.it",
         "ansa.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "lastampa.it",
         "repubblica.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/salute/medicina/eclissi_solare_pericolosa_occhi_retina_come_guardarla-9702670.html",
+        "https://www.ansa.it/canale_tecnologia/notizie/software_app/2026/08/11/eclissi-del-12-agosto-tra-app-e-curiosita-degli-italiani_b5f4bd55-3ecf-44b3-8603-0bedc7a9bf97.html",
         "https://www.ilmessaggero.it/mondo/eclissi_paese_buio_totale_dove_si_trova-9702557.html",
         "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/08/11/eclissi-ricerche-su-google-degli-italiani-raddoppiate-in-7-giorni_05cb4236-6fa0-4b56-92b1-daa4dae6eec0.html",
-        "https://www.ilmessaggero.it/mondo/eclissi_12_agosto_2026_mappa_regioni_italia_percentuali_sole_oscurato-9702438.html",
-        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/11/ecco-le-5-fasi-delleclissi-del-12-agosto-_940288f6-1f13-42ef-8269-3fbbc6fa9112.html",
-        "https://www.ilmessaggero.it/schede/eclissi_12_agosto_non_usare_lavatrice_condizionatore_lavastoviglie_consumi_elettricita-9702228.html"
+        "https://www.liberoquotidiano.it/news/tv-news/48838513/eclissi-bella-ma-attenti-agli-occhi-ecco-cosa-si-rischia/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Terremoto in Colombia, sotto le macerie si cercano sopravvissuti",
+      "source_count": 6,
+      "article_count": 13,
+      "source_domains": [
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/esteri/2026/08/11/news/terremoto_colombia_aggiornamento_vittime_feriti_cali_saccheggi-425523820/",
+        "https://www.liberoquotidiano.it/news/tv-news/48838686/colombia-a-pereira-residenti-e-soccorritorri-setacciano-le-macerie/",
+        "https://www.liberoquotidiano.it/news/pillole/48837407/terremoto_in_colombia_sotto_le_macerie_si_cercano_sopravvissuti/",
+        "https://www.ansa.it/sito/videogallery/short_video/2026/08/11/si-aggrava-il-bilancio-del-terremoto-in-colombia-ospedali-al-collasso_566489c2-dc0a-4ede-b8c3-bad6c7076c05.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48836345/colombia-squadre-di-soccorso-formano-catene-umane-per-cercare-sopravvissuti/"
       ]
     },
     {
@@ -66,6 +67,26 @@
     },
     {
       "rank": 4,
+      "title": "Martinenghi da favola: oro nei 100 rana. Bronzo per Cerasuolo e Curtis. Gli Europei in diretta",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/11/europei-di-nuoto-curtis-bronzo-nei-100-stile-libero_6e06c872-d29c-4fb1-9ef2-735e33e4b080.html",
+        "https://www.repubblica.it/sport/vari/2026/08/11/diretta/nuoto_europei_2026_risultati_ceccon_curtis-425523877/",
+        "https://www.adnkronos.com/sport/europei-nuoto-oggi-martinenghi-quadarella-cerasuolo-medaglie-gare-live-oro_4ywAk6npKcyK60ddqKfHpz",
+        "https://www.lastampa.it/sport/2026/08/11/news/europei_di_nuoto_bronzo_per_curtis_nei_100_stile_libero_steenbergen_primo-15712800/",
+        "https://www.repubblica.it/sport/vari/2026/08/11/news/europei_nuoto_2026_risultati_oggi_ceccon_pilato-425523502/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "“Pericolo attentato dall'Iran”: Trump in fuga su un carrello dell'Air Force One",
       "source_count": 6,
       "article_count": 7,
@@ -86,7 +107,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Bonus nuovi nati, prima scadenza il 12 agosto. I requisiti del contributo da 1000 euro",
       "source_count": 5,
       "article_count": 6,
@@ -106,27 +127,26 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Etna in eruzione, oggi ancora disagi all'aeroporto di Catania: voli in arrivo sospesi fino alle 19",
-      "source_count": 5,
-      "article_count": 6,
+      "rank": 7,
+      "title": "L'allarme di Ranucci sui social: 'Salvini chiede la mia sospensione'",
+      "source_count": 4,
+      "article_count": 7,
       "source_domains": [
-        "ilfattoquotidiano.it",
         "ansa.it",
+        "liberoquotidiano.it",
         "adnkronos.com",
-        "palermo.repubblica.it",
-        "ilsole24ore.com"
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/11/eruzione-etna-aeroporto-catania-voli-notizie/8476256/",
-        "https://www.ansa.it/sito/videogallery/italia/2026/08/11/nuova-bocca-eruttiva-sulletna-si-e-aperta-nella-valle-del-bove_f06d19a2-c743-49ca-bb35-bb908425b766.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/nube-vulcanica-sulletna-sospesi-atterraggi-a-catania-fino-alle-19_787bd872-42c8-41b0-ace2-6f10bc7311fd.html",
-        "https://www.adnkronos.com/cronaca/etna-news-aeroporto-di-catania-voli-sospesi-11-agosto_7yN1IrzxxARpHqdnlQF2Sh",
-        "https://palermo.repubblica.it/cronaca/2026/08/11/news/voli_sospesi_e_navette_a_700_eurocatania_paralizzata_dall_etna-425522722/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/lallarme-di-ranucci-sui-social-salvini-chiede-la-mia-sospensione_ea156374-172a-434c-8197-8bf89a7164cb.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48837660/attentato-ranucci-salvini-chi-coinvolto-direttamente-dovrebbe-prendersi-pausa/",
+        "https://www.liberoquotidiano.it/news/pillole/48837444/caso_ranucci_salvini_serve_chiarezza_penso_sia_necessaria_una_pausa_/",
+        "https://www.adnkronos.com/politica/report-salvini-ranucci-botta-risposta_1EzOappdYpY7KhnWQdJ9nD",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/lallarme-di-ranucci-sui-social-salvini-chiede-la-mia-sospensione-_ea156374-172a-434c-8197-8bf89a7164cb.html"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Ancora una settimana di caldo intenso, 7-8 gradi oltre la media",
       "source_count": 3,
       "article_count": 8,
@@ -144,7 +164,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Europei, Coiro in semifinale negli 800 metri con il nuovo record italiano",
       "source_count": 5,
       "article_count": 6,
@@ -164,42 +184,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Meloni-Frederiksen, la strana coppia. Così cade il tabù politico sui rifugiati",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "laverita.info",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.laverita.info/i-nodi-dellue/tenaglia-meloni-frederiksen-weber-sullue-no-migranti",
-        "https://www.repubblica.it/politica/2026/08/11/news/italia_germania_contatti_meloni_merz_salvini_attacca-425522574/",
-        "https://ilmanifesto.it/migranti-lasse-che-spacca-lue",
-        "https://www.lastampa.it/esteri/2026/08/11/news/meloni-frederiksen_la_strana_coppia_cosi_cade_il_tabu_politico_sui_rifugiati-15712177/",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/10/meloni-e-premier-danese-no-a-unimmigrazione-incontrollata-_b5c7ea31-a4a5-4186-bd58-bd5aab71964a.html"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Araghchi: “Trump chiedeva la resa, poi ha implorato i negoziati”. Bombe di Israele sul Libano",
-      "source_count": 4,
+      "title": "Tenta di salvare 13enne precipitato in una scarpata nel Bosco del Corniglio: morto capo scout",
+      "source_count": 5,
       "article_count": 6,
       "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "bologna.repubblica.it",
         "adnkronos.com",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
+        "agi.it"
       ],
       "links": [
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-news-oggi-11-agosto_18JpOWg4SdK9zZU4QlQDf5",
-        "https://www.liberoquotidiano.it/news/tv-news/48836597/trump-usa-controllano-lo-stretto-di-hormuz-possiamo-decapitare-iran/",
-        "https://www.repubblica.it/esteri/2026/08/11/news/guerra_iran_salgono_prezzi_petrolio_gas_negoziato_risarcimenti-425522674/",
-        "https://www.repubblica.it/esteri/2026/08/11/diretta/guerra_iran_usa_israele_news_oggi-425522751/",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-stretto-hormuz-trump-oggi_5scoySESDSwOvX55ihXzDf"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/tenta-di-salvare-uno-scout-caduto-in-una-scarpata-morto-un-accompagnatore_892b3cb8-3013-4e85-949c-ae3682407317.html",
+        "https://www.ilfattoquotidiano.it/2026/08/11/capo-scout-morto-parma-scarpata-notizie/8476417/",
+        "https://bologna.repubblica.it/cronaca/2026/08/11/news/capo_scout_morto_voleva_salvare_13enne_scarpata_parmense-425523756/",
+        "https://www.adnkronos.com/cronaca/bosco-di-corniglio-morto-capo-scout_4DeY5zxSVGWrqRbRDzucmx",
+        "https://www.adnkronos.com/cronaca/bosco-di-corniglio-morto-padre-scout_4DeY5zxSVGWrqRbRDzucmx"
       ]
     }
   ]
