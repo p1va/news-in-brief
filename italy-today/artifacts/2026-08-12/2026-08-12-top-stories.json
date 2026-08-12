@@ -1,9 +1,31 @@
 {
   "date": "2026-08-12",
-  "generated_at": "Wed 12 Aug 15:06",
+  "generated_at": "Wed 12 Aug 17:05",
   "stories": [
     {
       "rank": 1,
+      "title": "Ecco le 5 fasi dell'eclissi di oggi",
+      "source_count": 7,
+      "article_count": 17,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/videogallery/mondo/2026/08/12/eclissi-totale-di-sole-cresce-lattesa-nel-nord-della-spagna_f675cdd8-3425-4a6d-9acb-53cd20ae4f4a.html",
+        "https://www.repubblica.it/cronaca/2026/08/12/news/eclissi_sole_percorso_spagna_italia-425525674/",
+        "https://www.ansa.it/canale_scienza/notizie/approfondimenti/spazio_astronomia/2026/08/12/dopo-27-anni-unaltra-eclissi-totale-di-sole-in-europa_91a5bb6a-ffe9-47c5-b6fb-b51c238c7c41.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48845463/londra-code-last-minute-per-gli-occhialini-certificati-da-eclissi/",
+        "https://www.ansa.it/sito/photogallery/primopiano/2026/08/12/in-attesa-delleclissi-di-sole-ecco-la-preparazione_59b6a8cd-cf86-424e-9365-a129c2d1eebc.html"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Eruzione Etna, sospesi fino alle 18 i voli all'aeroporto di Catania",
       "source_count": 7,
       "article_count": 15,
@@ -25,29 +47,30 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Ecco le 5 fasi dell'eclissi di oggi",
-      "source_count": 7,
-      "article_count": 15,
+      "rank": 3,
+      "title": "Attentato Ranucci, Lavitola ammette al Gip: «Sono io il mandante»",
+      "source_count": 8,
+      "article_count": 12,
       "source_domains": [
         "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "repubblica.it",
         "adnkronos.com",
-        "ilmanifesto.it"
+        "ilmessaggero.it",
+        "roma.repubblica.it",
+        "lastampa.it",
+        "laverita.info",
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/canale_scienza/notizie/approfondimenti/spazio_astronomia/2026/08/12/dopo-27-anni-unaltra-eclissi-totale-di-sole-in-europa_91a5bb6a-ffe9-47c5-b6fb-b51c238c7c41.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48845463/londra-code-last-minute-per-gli-occhialini-certificati-da-eclissi/",
-        "https://www.ansa.it/sito/photogallery/primopiano/2026/08/12/in-attesa-delleclissi-di-sole-ecco-la-preparazione_59b6a8cd-cf86-424e-9365-a129c2d1eebc.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48845009/i-cacciatori-di-eclissi-accorrono-in-spagna-per-ammirarla-totale/",
-        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/12/il-cielo-da-spettacolo-al-tramonto-con-leclissi-di-sole-_b60fcfeb-982f-4411-afe4-a99f36f31ab1.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/lavitola-confessa-sono-io-il-mandante-dellattentato-a-ranucci-lho-fatto-per-il-suo_e8edc1a3-d60b-43a0-b6c3-3350795f8935.html",
+        "https://www.adnkronos.com/cronaca/attentato-ranucci-lavitola-interrogatorio_3tJirJljgQL8XxdVQ0vdaB",
+        "https://www.ilmessaggero.it/italia/lavitola_confessa_mandante_attentato_ranucci_cosa_ha_detto-9704420.html",
+        "https://roma.repubblica.it/cronaca/2026/08/12/news/valter_lavitola_bomba_ranucci_interrogatorio-425525403/",
+        "https://www.lastampa.it/cronaca/2026/08/12/news/sigfrido_ranucci_dichiarazioni_storia_italiana_eccesso_di_chiarezza-15713400/"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "È morta Silvia Monti, l'ex attrice moglie di Carlo De Benedetti: aveva 80 anni",
       "source_count": 7,
       "article_count": 7,
@@ -69,7 +92,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Aria fresca in arrivo, la svolta dopo Ferragosto: il crollo delle temperature (ma con temporali), ecco cosa succederà",
       "source_count": 5,
       "article_count": 7,
@@ -89,7 +112,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Gli Houthi attaccano una nave nel Mar Rosso, sei morti",
       "source_count": 5,
       "article_count": 6,
@@ -109,7 +132,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Sant’Anna di Stazzema, Mattarella: la volontà di dominio si riaffaccia, oggi ombre di guerre anche inedite",
       "source_count": 5,
       "article_count": 6,
@@ -129,79 +152,58 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Putin: \"Risponderemo ai sequestri di nostre navi da parte degli europei\"",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
         "ilfattoquotidiano.it",
         "laverita.info",
-        "adnkronos.com",
-        "ansa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/12/flotta-ombra-putin-minaccia-navi-europee-notizie/8477289/",
-        "https://www.laverita.info/video/putin-europa-sequestri-navi",
-        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-putin-minacce-europa-nato-giappone_7yznGtaLIkTvyrJYx42Q9T",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/12/putin-risponderemo-ai-sequestri-di-nostre-navi-da-parte-degli-europei_c9cadc4d-0f9d-4a44-8257-52d79dd79423.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48843792/putin-chi-sequestra-mercantili-russi-subira-misure-analoghe-ovunque-/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Eclissi, attenzione agli occhi: \"Guardare il sole senza protezione può danneggiare le retina per sempre\"",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/mondo/eclissi_solare_donna_diventa_cieca_perche_pericoloso_come_guardarla-9704075.html",
-        "https://www.adnkronos.com/salute/eclissi-solare-oggi-12-agosto-2026-come-guardarla-senza-danni-occhi_5GuGbWESlwWueK5Glmgvjt",
-        "https://www.repubblica.it/cronaca/2026/08/12/news/eclissi_solare_12_agosto_vedere_rischi-425523726/",
-        "https://www.lastampa.it/cronaca/2026/08/12/news/eclissi_solare_rischi_vista_occhiali_fai_da_te-15713132/",
-        "https://www.ilmessaggero.it/salute/medicina/eclissi_solare_pericolosa_occhi_retina_come_guardarla-9702670.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Colombia, nelle zone colpite dal sisma si scava ancora tra le macerie",
-      "source_count": 3,
-      "article_count": 6,
-      "source_domains": [
         "liberoquotidiano.it",
         "adnkronos.com",
         "ansa.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/12/flotta-ombra-putin-minaccia-navi-europee-notizie/8477289/",
+        "https://www.laverita.info/video/putin-europa-sequestri-navi",
+        "https://www.liberoquotidiano.it/news/libero-video/48845101/putin-se-navi-russe-verranno-sequestrate-risponderemo-/",
+        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-putin-minacce-europa-nato-giappone_7yznGtaLIkTvyrJYx42Q9T",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/12/putin-risponderemo-ai-sequestri-di-nostre-navi-da-parte-degli-europei_c9cadc4d-0f9d-4a44-8257-52d79dd79423.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Colombia, nelle zone colpite dal sisma si scava ancora tra le macerie",
+      "source_count": 2,
+      "article_count": 7,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/48843891/geologo-i-terremoti-in-venezuela-e-colombia-non-direttamente-correlati-/",
         "https://www.liberoquotidiano.it/news/libero-video/48843766/terremoto-in-colombia-donna-estratta-viva-dopo-36-ore/",
-        "https://www.adnkronos.com/internazionale/esteri/terremoto-colombia-donna-estratta-viva-dalle-macerie-news-12-agosto_13td2Y4b8TgcUosnVAYVLr",
         "https://www.ansa.it/sito/videogallery/mondo/2026/08/12/terremoto-colombia-cerco-il-corpo-di-mia-zia-non-me-ne-vado_0d10ad7b-c6bc-4e3e-acbb-82e485b069a9.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48843757/colombia-popolazione-in-fila-negli-ospedali-per-donare-il-sangue/",
-        "https://www.liberoquotidiano.it/news/tv-news/48843755/colombia-nelle-zone-colpite-dal-sisma-si-scava-ancora-tra-le-macerie/"
+        "https://www.liberoquotidiano.it/news/tv-news/48843895/papa-leone-prego-per-il-popolo-della-colombia-colpito-dal-terremoto/",
+        "https://www.liberoquotidiano.it/news/tv-news/48843757/colombia-popolazione-in-fila-negli-ospedali-per-donare-il-sangue/"
       ]
     },
     {
       "rank": 10,
-      "title": "Ceccon, Pilato e Gargani quando gareggiano? Il programma del 12 agosto degli europei di nuoto: dove vederli in chiaro",
+      "title": "La Siria condanna a morte in contumacia Bashar al-Assad. Stessa pena per il fratello minore, il cugino e i vertici dell’ex regime",
       "source_count": 4,
-      "article_count": 5,
+      "article_count": 4,
       "source_domains": [
+        "liberoquotidiano.it",
         "repubblica.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it"
+        "ilmanifesto.it",
+        "ilfattoquotidiano.it"
       ],
       "links": [
-        "https://www.repubblica.it/sport/vari/2026/08/12/diretta/europei_nuoto_2026_medaglie_oggi-425524747/",
-        "https://www.adnkronos.com/sport/europei-nuoto-oggi-terza-giornata-gare-ceccon-pilato-orari-programma-italiani-dove-vederli-tv-streaming_34OjVfOgIHCcJxBqaxOSUt",
-        "https://www.ilfattoquotidiano.it/2026/08/12/europei-nuoto-parigi-programma-oggi-12-agosto-ceccon-curtis-dove-vedere-tv-streaming/8476465/",
-        "https://www.ilmessaggero.it/sport/schede/europei_nuoto_programma_mercoledi_12_agosto_orari_dove_vederli_in_chiaro_medagliere-9702644.html",
-        "https://www.ilmessaggero.it/sport/schede/ceccon_pilato_gargani_quando_garegiano_europei_nuoto_programma_mercoledi_12_agosto_orari_dove_vederli_in_chiaro-9702644.html"
+        "https://www.liberoquotidiano.it/news/esteri/48842410/bashar-al-assad-e-stato-condannato-a-morte/",
+        "https://www.repubblica.it/esteri/2026/08/12/news/siria_condanna_morte_assad_crimini_umanita-425524417/",
+        "https://ilmanifesto.it/condannati-a-morte-assad-e-il-suo-regime-tra-luci-e-ombre",
+        "https://www.ilfattoquotidiano.it/2026/08/11/assad-condanna-morte-siria-notizie/8476607/"
       ]
     }
   ]
