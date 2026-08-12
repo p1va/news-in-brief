@@ -1,28 +1,28 @@
 {
   "date": "2026-08-12",
-  "generated_at": "Wed 12 Aug 18:07",
+  "generated_at": "Wed 12 Aug 19:17",
   "stories": [
     {
       "rank": 1,
       "title": "Ecco le 5 fasi dell'eclissi di oggi",
       "source_count": 8,
-      "article_count": 20,
+      "article_count": 23,
       "source_domains": [
         "ansa.it",
+        "adnkronos.com",
         "repubblica.it",
         "lastampa.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
-        "adnkronos.com",
         "ilmanifesto.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/12/al-tramonto-leclissi-di-sole-spettacolo-nonostante-le-nuvole_b60fcfeb-982f-4411-afe4-a99f36f31ab1.html",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/08/12/il-cielo-da-spettacolo-con-leclissi-di-sole_d0c8b4d3-8238-4d68-98a6-73f469df1e25.html",
+        "https://www.adnkronos.com/cronaca/eclissi-sole-italia-maltempo_3ZWupSVtwk2i2mwG5CdxgB",
         "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/12/leclissi-di-sole-in-diretta-streaming-_78954ea1-c89b-4c68-8062-610234b87efa.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/08/12/eclissi-totale-di-sole-cresce-lattesa-nel-nord-della-spagna_f675cdd8-3425-4a6d-9acb-53cd20ae4f4a.html",
-        "https://www.repubblica.it/cronaca/2026/08/12/news/eclissi_sole_percorso_spagna_italia-425525674/",
-        "https://www.lastampa.it/cronaca/2026/08/12/news/eclissi_solare_diretta_streaming-15713542/",
-        "https://www.ansa.it/canale_scienza/notizie/approfondimenti/spazio_astronomia/2026/08/12/dopo-27-anni-unaltra-eclissi-totale-di-sole-in-europa_91a5bb6a-ffe9-47c5-b6fb-b51c238c7c41.html"
+        "https://www.ansa.it/sito/videogallery/mondo/2026/08/12/eclissi-totale-di-sole-cresce-lattesa-nel-nord-della-spagna_f675cdd8-3425-4a6d-9acb-53cd20ae4f4a.html"
       ]
     },
     {
@@ -94,26 +94,46 @@
     },
     {
       "rank": 5,
-      "title": "Aria fresca in arrivo, la svolta dopo Ferragosto: il crollo delle temperature (ma con temporali), ecco cosa succederà",
+      "title": "Europei di nuoto: Curtis record del mondo nei 50 dorso in 26\"63",
       "source_count": 5,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "repubblica.it",
-        "lastampa.it",
         "ansa.it",
-        "ilmessaggero.it",
-        "adnkronos.com"
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.repubblica.it/cronaca/2026/08/12/news/ondata_caldo_allerta_meteo_data_fine-425525017/",
-        "https://www.lastampa.it/rubriche/il-respiro-delle-alpi/2026/08/12/news/temporali_in_arrivo_17_agosto_valpadana_siccita-15713326/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/caldo-fino-a-domenica-da-lunedi-attesa-una-perturbazione_8a8fbf0a-c38d-4496-b321-9bfda33290d0.html",
-        "https://www.ilmessaggero.it/schede/caldo_quanto_dura_temporali_calore_dove_quando_ferragosto-9704006.html",
-        "https://www.ilmessaggero.it/schede/aria_fresca_quando_arriva_fine_caldo_ferragosto_previsioni_meteo-9704006.html"
+        "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/12/europei-nuoto-curtis-record-del-mondo-nei-50-dorso-in-2663_0741987e-2fba-4c9b-b208-4a8408d2d1b5.html",
+        "https://www.ilfattoquotidiano.it/2026/08/12/europei-nuoto-sara-curtis-record-mondo-notizie/8477616/",
+        "https://www.adnkronos.com/sport/europei-nuoto-diretta-pilato-dambrosio_jSOvOol5WIkFnNAo7Fli9",
+        "https://www.lastampa.it/sport/2026/08/12/news/europei_nuoto_ceccon_bronzo_nei_200_dorso_oro_a_kos-15713555/",
+        "https://www.repubblica.it/sport/vari/2026/08/12/diretta/europei_nuoto_2026_medaglie_oggi-425524747/"
       ]
     },
     {
       "rank": 6,
+      "title": "Aria fresca in arrivo, la svolta dopo Ferragosto: il crollo delle temperature (ma con temporali), ecco cosa succederà",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ansa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/schede/meteo_giuliacci_anticiclone_africano_maltempo_temporali_dove_quando_previsioni-9704580.html",
+        "https://www.repubblica.it/cronaca/2026/08/12/news/ondata_caldo_allerta_meteo_data_fine-425525017/",
+        "https://www.lastampa.it/rubriche/il-respiro-delle-alpi/2026/08/12/news/temporali_in_arrivo_17_agosto_valpadana_siccita-15713326/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/caldo-fino-a-domenica-da-lunedi-attesa-una-perturbazione_8a8fbf0a-c38d-4496-b321-9bfda33290d0.html",
+        "https://www.ilmessaggero.it/schede/caldo_quanto_dura_temporali_calore_dove_quando_ferragosto-9704006.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Gli Houthi attaccano una nave nel Mar Rosso, sei morti",
       "source_count": 5,
       "article_count": 6,
@@ -133,7 +153,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Sant’Anna di Stazzema, Mattarella: la volontà di dominio si riaffaccia, oggi ombre di guerre anche inedite",
       "source_count": 5,
       "article_count": 6,
@@ -153,7 +173,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Putin: \"Risponderemo ai sequestri di nostre navi da parte degli europei\"",
       "source_count": 5,
       "article_count": 6,
@@ -173,7 +193,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Colombia, nelle zone colpite dal sisma si scava ancora tra le macerie",
       "source_count": 2,
       "article_count": 7,
@@ -187,24 +207,6 @@
         "https://www.ansa.it/sito/videogallery/mondo/2026/08/12/terremoto-colombia-cerco-il-corpo-di-mia-zia-non-me-ne-vado_0d10ad7b-c6bc-4e3e-acbb-82e485b069a9.html",
         "https://www.liberoquotidiano.it/news/tv-news/48843895/papa-leone-prego-per-il-popolo-della-colombia-colpito-dal-terremoto/",
         "https://www.liberoquotidiano.it/news/tv-news/48843757/colombia-popolazione-in-fila-negli-ospedali-per-donare-il-sangue/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Jacobs, la finale è amara: i muscoli lo tradiscono. Fa festa solo Battocletti",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/battocletti-regina-deuropa-jacobs-si-ferma-in-finale-dei-100_42596c64-29d9-4f2e-aa09-6d61b2bc2bd1.html",
-        "https://www.repubblica.it/sport/vari/2026/08/12/news/jacobs_battocletti_europei_atletica-425524544/",
-        "https://www.ilmessaggero.it/sport/altrisport/jacobs_ko_europei_infortunio_finale_cosa_e_successo-9702880.html",
-        "https://www.lastampa.it/sport/2026/08/11/news/europei_delusione_jacobs_si_ferma_in_finale_arriva_al_traguardo_camminando-15713081/"
       ]
     }
   ]
