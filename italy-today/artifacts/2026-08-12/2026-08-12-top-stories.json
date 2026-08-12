@@ -1,27 +1,28 @@
 {
   "date": "2026-08-12",
-  "generated_at": "Wed 12 Aug 17:05",
+  "generated_at": "Wed 12 Aug 18:07",
   "stories": [
     {
       "rank": 1,
       "title": "Ecco le 5 fasi dell'eclissi di oggi",
-      "source_count": 7,
-      "article_count": 17,
+      "source_count": 8,
+      "article_count": 20,
       "source_domains": [
         "ansa.it",
         "repubblica.it",
+        "lastampa.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
-        "lastampa.it",
         "adnkronos.com",
-        "ilmanifesto.it"
+        "ilmanifesto.it",
+        "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/12/leclissi-di-sole-in-diretta-streaming-_78954ea1-c89b-4c68-8062-610234b87efa.html",
         "https://www.ansa.it/sito/videogallery/mondo/2026/08/12/eclissi-totale-di-sole-cresce-lattesa-nel-nord-della-spagna_f675cdd8-3425-4a6d-9acb-53cd20ae4f4a.html",
         "https://www.repubblica.it/cronaca/2026/08/12/news/eclissi_sole_percorso_spagna_italia-425525674/",
-        "https://www.ansa.it/canale_scienza/notizie/approfondimenti/spazio_astronomia/2026/08/12/dopo-27-anni-unaltra-eclissi-totale-di-sole-in-europa_91a5bb6a-ffe9-47c5-b6fb-b51c238c7c41.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48845463/londra-code-last-minute-per-gli-occhialini-certificati-da-eclissi/",
-        "https://www.ansa.it/sito/photogallery/primopiano/2026/08/12/in-attesa-delleclissi-di-sole-ecco-la-preparazione_59b6a8cd-cf86-424e-9365-a129c2d1eebc.html"
+        "https://www.lastampa.it/cronaca/2026/08/12/news/eclissi_solare_diretta_streaming-15713542/",
+        "https://www.ansa.it/canale_scienza/notizie/approfondimenti/spazio_astronomia/2026/08/12/dopo-27-anni-unaltra-eclissi-totale-di-sole-in-europa_91a5bb6a-ffe9-47c5-b6fb-b51c238c7c41.html"
       ]
     },
     {
@@ -39,11 +40,11 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/letna-in-eruzione-da-sei-giorni.-caos-in-sicilia-700-voli-saltati_d9c8900c-e898-4f2d-b69a-d43d7c0af6c3.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/cenere-dalletna-allaeroporto-di-catania-stop-ai-voli-fino-alle-16-di-domani_d9c8900c-e898-4f2d-b69a-d43d7c0af6c3.html",
         "https://www.adnkronos.com/cronaca/eruzione-etna-durata-attivita-scalo-catania_46mSs29gTd9qXjhAXT2iaJ",
         "https://www.ilmessaggero.it/schede/aeroporto_catania_voli_cancellati_cosa_fare_come_chiedere_rimborso-9704051.html",
-        "https://www.ilmessaggero.it/italia/aeroporto_catania_chiuso_cosa_sta_succedendo_voli_sospesi_quando_riapre-9704008.html",
-        "https://www.ilmessaggero.it/schede/etna_perche_aerei_non_volano_cenere_incidenti_danni_motori-9703997.html"
+        "https://www.ilmessaggero.it/italia/aeroporto_catania_chiuso_cosa_sta_succedendo_voli_sospesi_quando_riapre-9704008.html"
       ]
     },
     {
@@ -190,20 +191,20 @@
     },
     {
       "rank": 10,
-      "title": "La Siria condanna a morte in contumacia Bashar al-Assad. Stessa pena per il fratello minore, il cugino e i vertici dell’ex regime",
+      "title": "Jacobs, la finale è amara: i muscoli lo tradiscono. Fa festa solo Battocletti",
       "source_count": 4,
       "article_count": 4,
       "source_domains": [
-        "liberoquotidiano.it",
+        "ansa.it",
         "repubblica.it",
-        "ilmanifesto.it",
-        "ilfattoquotidiano.it"
+        "ilmessaggero.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/esteri/48842410/bashar-al-assad-e-stato-condannato-a-morte/",
-        "https://www.repubblica.it/esteri/2026/08/12/news/siria_condanna_morte_assad_crimini_umanita-425524417/",
-        "https://ilmanifesto.it/condannati-a-morte-assad-e-il-suo-regime-tra-luci-e-ombre",
-        "https://www.ilfattoquotidiano.it/2026/08/11/assad-condanna-morte-siria-notizie/8476607/"
+        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/battocletti-regina-deuropa-jacobs-si-ferma-in-finale-dei-100_42596c64-29d9-4f2e-aa09-6d61b2bc2bd1.html",
+        "https://www.repubblica.it/sport/vari/2026/08/12/news/jacobs_battocletti_europei_atletica-425524544/",
+        "https://www.ilmessaggero.it/sport/altrisport/jacobs_ko_europei_infortunio_finale_cosa_e_successo-9702880.html",
+        "https://www.lastampa.it/sport/2026/08/11/news/europei_delusione_jacobs_si_ferma_in_finale_arriva_al_traguardo_camminando-15713081/"
       ]
     }
   ]
