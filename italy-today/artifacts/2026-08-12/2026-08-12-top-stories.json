@@ -1,11 +1,11 @@
 {
   "date": "2026-08-12",
-  "generated_at": "Wed 12 Aug 09:21",
+  "generated_at": "Wed 12 Aug 11:07",
   "stories": [
     {
       "rank": 1,
       "title": "Ecco le 5 fasi dell'eclissi di oggi",
-      "source_count": 8,
+      "source_count": 7,
       "article_count": 15,
       "source_domains": [
         "ansa.it",
@@ -14,22 +14,21 @@
         "lastampa.it",
         "repubblica.it",
         "ilmanifesto.it",
-        "liberoquotidiano.it",
-        "news.google.com"
+        "liberoquotidiano.it"
       ],
       "links": [
+        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/12/il-cielo-da-spettacolo-al-tramonto-con-leclissi-di-sole-_b60fcfeb-982f-4411-afe4-a99f36f31ab1.html",
+        "https://www.ilmessaggero.it/mondo/eclissi_solare_donna_diventa_cieca_perche_pericoloso_come_guardarla-9704075.html",
+        "https://www.ilmessaggero.it/mondo/eclissi_12_agosto_turismo_spagna_dove_si_vede_meglio-9704069.html",
         "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/12/ecco-le-5-fasi-delleclissi-del-12-agosto-_940288f6-1f13-42ef-8269-3fbbc6fa9112.html",
-        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/11/ecco-le-5-fasi-delleclissi-del-12-agosto-_940288f6-1f13-42ef-8269-3fbbc6fa9112.html",
-        "https://www.ilmessaggero.it/schede/eclissi_a_che_ora_e_orario_dove_vederla_streaming_quanto_dura_come_vederla-9703923.html",
-        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/12/leclissi-di-sole-regina-degli-streaming-da-youtube-a-netflix-video_221243e6-cab4-4f9d-86f1-268f659f060a.html",
-        "https://www.adnkronos.com/salute/eclissi-solare-oggi-12-agosto-2026-come-guardarla-senza-danni-occhi_5GuGbWESlwWueK5Glmgvjt"
+        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/11/ecco-le-5-fasi-delleclissi-del-12-agosto-_940288f6-1f13-42ef-8269-3fbbc6fa9112.html"
       ]
     },
     {
       "rank": 2,
       "title": "Eruzione Etna, sospesi fino alle 18 i voli all'aeroporto di Catania",
       "source_count": 7,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
@@ -49,6 +48,46 @@
     },
     {
       "rank": 3,
+      "title": "Caldo fino a domenica, da lunedì attesa una perturbazione",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ansa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/cronaca/2026/08/12/news/ondata_caldo_allerta_meteo_data_fine-425525017/",
+        "https://www.ilmessaggero.it/schede/temporali_dove_quando_allerta_meteo_oggi-9704053.html",
+        "https://www.lastampa.it/rubriche/il-respiro-delle-alpi/2026/08/12/news/temporali_in_arrivo_17_agosto_valpadana_siccita-15713326/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/caldo-fino-a-domenica-da-lunedi-attesa-una-perturbazione_8a8fbf0a-c38d-4496-b321-9bfda33290d0.html",
+        "https://www.ilmessaggero.it/schede/caldo_quanto_dura_temporali_calore_dove_quando_ferragosto-9704006.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Sant’Anna di Stazzema, Mattarella: la volontà di dominio si riaffaccia, oggi ombre di guerre anche inedite",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "firenze.repubblica.it",
+        "ansa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/politica/sant-anna-di-stazzema-mattarella-monito-guerre_3NL7SJMzfZWUa44l6CTXb7",
+        "https://www.ilmessaggero.it/politica/mattarella_guerre_inedite_sant_anna_stazzema_cosa_ha_detto-9703986.html",
+        "https://firenze.repubblica.it/cronaca/2026/08/12/news/sant_anna_stazzema_eccidio_nazifascista_cerimonia_mattarella_conte_tajani-425524820/",
+        "https://www.ansa.it/sito/notizie/politica/2026/08/12/mattarella-la-volonta-di-dominio-si-riaffaccia-oggi-ombre-di-guerre-anche-inedite_b82b399b-9546-445b-8bdb-7f2cc1e42e0d.html",
+        "https://www.ansa.it/sito/notizie/flash/2026/08/12/mattarella-volonta-dominio-si-riaffaccia-oggi-ombre-di-guerre-anche-inedite_e3f3bbe0-5f8d-4962-b1b9-47979c708561.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Grande Italia agli Europei di nuoto, ori per Quadarella e Martinenghi",
       "source_count": 5,
       "article_count": 5,
@@ -68,7 +107,27 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "title": "È morta Silvia Monti, l'ex attrice moglie di Carlo De Benedetti: aveva 80 anni",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/12/e-morta-silvia-monti-ex-attrice-e-moglie-di-carlo-de-benedetti/8477087/",
+        "https://www.ilmessaggero.it/persone/silvia_monti_morta_eta_chi_era_film_marito_carlo_de_benedetti_dove_viveva_porto_rotondo-9704040.html",
+        "https://www.repubblica.it/spettacoli/people/2026/08/12/news/silvia_monti_morta_l_attrice_moglie_di_carlo_de_benedetti-425524942/",
+        "https://www.adnkronos.com/spettacoli/morta-silvia-monti-attrice-moglie-carlo-de-benedetti_4EyOwHbZ7TNKYWAGPjm5YB",
+        "https://www.lastampa.it/cronaca/2026/08/12/news/silvia_monti_morta_attrice-15713235/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Gli Houthi attaccano una nave nel Mar Rosso, sei morti",
       "source_count": 4,
       "article_count": 5,
@@ -87,45 +146,26 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Caldo fino a domenica, da lunedì attesa una perturbazione",
+      "rank": 8,
+      "title": "Ceccon, Pilato e Gargani quando gareggiano? Il programma del 12 agosto degli europei di nuoto: dove vederli in chiaro",
       "source_count": 4,
       "article_count": 5,
       "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
+        "repubblica.it",
         "adnkronos.com",
-        "lastampa.it"
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/caldo-fino-a-domenica-da-lunedi-attesa-una-perturbazione_8a8fbf0a-c38d-4496-b321-9bfda33290d0.html",
-        "https://www.ilmessaggero.it/schede/caldo_quanto_dura_temporali_calore_dove_quando_ferragosto-9704006.html",
-        "https://www.adnkronos.com/cronaca/caldo-record-italia-ferragosto-quando-finisce-data_voyaV1UsHHKD0hNX7mRAp",
-        "https://www.lastampa.it/cronaca/2026/08/12/news/afa_notturna_e_40_gradi_dal_18_agosto_la_prima_tregua-15712982/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/11/ancora-una-settimana-con-il-caldo-intenso-7-8-gradi-oltre-la-media_dd2689a1-aa07-4781-aebe-7198aeeb3351.html"
+        "https://www.repubblica.it/sport/vari/2026/08/12/diretta/europei_nuoto_2026_medaglie_oggi-425524747/",
+        "https://www.adnkronos.com/sport/europei-nuoto-oggi-terza-giornata-gare-ceccon-pilato-orari-programma-italiani-dove-vederli-tv-streaming_34OjVfOgIHCcJxBqaxOSUt",
+        "https://www.ilfattoquotidiano.it/2026/08/12/europei-nuoto-parigi-programma-oggi-12-agosto-ceccon-curtis-dove-vedere-tv-streaming/8476465/",
+        "https://www.ilmessaggero.it/sport/schede/europei_nuoto_programma_mercoledi_12_agosto_orari_dove_vederli_in_chiaro_medagliere-9702644.html",
+        "https://www.ilmessaggero.it/sport/schede/ceccon_pilato_gargani_quando_garegiano_europei_nuoto_programma_mercoledi_12_agosto_orari_dove_vederli_in_chiaro-9702644.html"
       ]
     },
     {
-      "rank": 6,
-      "title": "Sant’Anna di Stazzema, Mattarella: la volontà di dominio si riaffaccia, oggi ombre di guerre anche inedite",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/politica/sant-anna-di-stazzema-mattarella-monito-guerre_3NL7SJMzfZWUa44l6CTXb7",
-        "https://www.ilmessaggero.it/politica/mattarella_guerre_inedite_sant_anna_stazzema_cosa_ha_detto-9703986.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/12/mattarella-la-volonta-di-dominio-si-riaffaccia-oggi-ombre-di-guerre-anche-inedite_b82b399b-9546-445b-8bdb-7f2cc1e42e0d.html",
-        "https://www.ansa.it/sito/notizie/flash/2026/08/12/mattarella-volonta-dominio-si-riaffaccia-oggi-ombre-di-guerre-anche-inedite_e3f3bbe0-5f8d-4962-b1b9-47979c708561.html",
-        "https://www.ilsole24ore.com/art/mattarella-volonta-dominio-si-riaffaccia-oggi-ombre-guerre-anche-inedite-AJ1xdik"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 9,
       "title": "Lavitola, i depistaggi e le minacce a Ranucci: “Se non mi difende, dovrò attaccare?”",
       "source_count": 4,
       "article_count": 4,
@@ -143,55 +183,21 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Jacobs, la finale è amara: i muscoli lo tradiscono. Fa festa solo Battocletti",
+      "rank": 10,
+      "title": "La Siria condanna a morte in contumacia Bashar al-Assad. Stessa pena per il fratello minore, il cugino e i vertici dell’ex regime",
       "source_count": 4,
       "article_count": 4,
       "source_domains": [
-        "ansa.it",
+        "liberoquotidiano.it",
         "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "ilmanifesto.it",
+        "ilfattoquotidiano.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/11/battocletti-regina-deuropa-jacobs-si-ferma-in-finale-dei-100_42596c64-29d9-4f2e-aa09-6d61b2bc2bd1.html",
-        "https://www.repubblica.it/sport/vari/2026/08/12/news/jacobs_battocletti_europei_atletica-425524544/",
-        "https://www.ilmessaggero.it/sport/altrisport/jacobs_ko_europei_infortunio_finale_cosa_e_successo-9702880.html",
-        "https://www.lastampa.it/sport/2026/08/11/news/europei_delusione_jacobs_si_ferma_in_finale_arriva_al_traguardo_camminando-15713081/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "I droni sfidano il Cremlino, la Russia si affida ai privati: nasce la difesa fai-da-te",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/12/esplosioni-nel-porto-russo-di-novorossiysk-ci-sono-vittime_cc929914-2926-43d6-ab87-c8710aa1b65f.html",
-        "https://www.repubblica.it/esteri/2026/08/12/news/ucraina_senza_scudo_russia_missili_nord_corea-425524420/",
-        "https://www.repubblica.it/esteri/2026/08/12/diretta/guerra_ucraina_russia_news_oggi-425524553/",
-        "https://www.lastampa.it/esteri/2026/08/12/news/droni_cremlino_russia_difesa_privati-15712986/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Ceccon, Pilato e Gargani quando gareggiano? Il programma del 12 agosto degli europei di nuoto: dove vederli in chiaro",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/europei-nuoto-oggi-terza-giornata-gare-ceccon-pilato-orari-programma-italiani-dove-vederli-tv-streaming_34OjVfOgIHCcJxBqaxOSUt",
-        "https://www.ilfattoquotidiano.it/2026/08/12/europei-nuoto-parigi-programma-oggi-12-agosto-ceccon-curtis-dove-vedere-tv-streaming/8476465/",
-        "https://www.ilmessaggero.it/sport/schede/europei_nuoto_programma_mercoledi_12_agosto_orari_dove_vederli_in_chiaro_medagliere-9702644.html",
-        "https://www.ilmessaggero.it/sport/schede/ceccon_pilato_gargani_quando_garegiano_europei_nuoto_programma_mercoledi_12_agosto_orari_dove_vederli_in_chiaro-9702644.html"
+        "https://www.liberoquotidiano.it/news/esteri/48842410/bashar-al-assad-e-stato-condannato-a-morte/",
+        "https://www.repubblica.it/esteri/2026/08/12/news/siria_condanna_morte_assad_crimini_umanita-425524417/",
+        "https://ilmanifesto.it/condannati-a-morte-assad-e-il-suo-regime-tra-luci-e-ombre",
+        "https://www.ilfattoquotidiano.it/2026/08/11/assad-condanna-morte-siria-notizie/8476607/"
       ]
     }
   ]
