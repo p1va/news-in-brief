@@ -1,28 +1,29 @@
 {
   "date": "2026-08-12",
-  "generated_at": "Wed 12 Aug 20:06",
+  "generated_at": "Wed 12 Aug 21:56",
   "stories": [
     {
       "rank": 1,
       "title": "Ecco le 5 fasi dell'eclissi di oggi",
-      "source_count": 8,
-      "article_count": 23,
+      "source_count": 9,
+      "article_count": 28,
       "source_domains": [
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "genova.repubblica.it",
         "ansa.it",
         "adnkronos.com",
-        "repubblica.it",
         "lastampa.it",
-        "liberoquotidiano.it",
         "ilmessaggero.it",
         "ilmanifesto.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/12/eclissi-sole-immagini-belle-notizie/8477781/",
+        "https://www.liberoquotidiano.it/news/pillole/48847789/eclissi_solare_le_immagini/",
+        "https://genova.repubblica.it/cronaca/2026/08/12/news/occhialini_ventagli_e_radiografie_a_genova_tutti_pazzi_per_l_eclisse_di_sole-425526024/",
         "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/12/al-tramonto-leclissi-di-sole-spettacolo-nonostante-le-nuvole_b60fcfeb-982f-4411-afe4-a99f36f31ab1.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/08/12/il-cielo-da-spettacolo-con-leclissi-di-sole_d0c8b4d3-8238-4d68-98a6-73f469df1e25.html",
-        "https://www.adnkronos.com/cronaca/eclissi-sole-italia-maltempo_3ZWupSVtwk2i2mwG5CdxgB",
-        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/08/12/leclissi-di-sole-in-diretta-streaming-_78954ea1-c89b-4c68-8062-610234b87efa.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/08/12/eclissi-totale-di-sole-cresce-lattesa-nel-nord-della-spagna_f675cdd8-3425-4a6d-9acb-53cd20ae4f4a.html"
+        "https://www.ansa.it/sito/videogallery/mondo/2026/08/12/il-cielo-da-spettacolo-con-leclissi-di-sole_d0c8b4d3-8238-4d68-98a6-73f469df1e25.html"
       ]
     },
     {
@@ -50,7 +51,7 @@
     {
       "rank": 3,
       "title": "Attentato Ranucci, Lavitola ammette al Gip: «Sono io il mandante»",
-      "source_count": 9,
+      "source_count": 10,
       "article_count": 11,
       "source_domains": [
         "ansa.it",
@@ -60,6 +61,7 @@
         "ilfattoquotidiano.it",
         "roma.repubblica.it",
         "lastampa.it",
+        "laverita.info",
         "ilsole24ore.com",
         "news.google.com"
       ],
@@ -116,7 +118,7 @@
       "rank": 6,
       "title": "Aria fresca in arrivo, la svolta dopo Ferragosto: il crollo delle temperature (ma con temporali), ecco cosa succederà",
       "source_count": 5,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
         "ilmessaggero.it",
         "repubblica.it",
@@ -134,26 +136,6 @@
     },
     {
       "rank": 7,
-      "title": "Gli Houthi attaccano una nave nel Mar Rosso, sei morti",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "laverita.info",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/48844455/iran-imbarcazione-saudita-attaccata-houthi-mar-rosso-6-morti/",
-        "https://www.laverita.info/geopolitica/huthi-usa-stretti-hormuz",
-        "https://www.repubblica.it/esteri/2026/08/12/news/guerra_iran_raid_houthi_mar_rosso_sei_morti_cargo_hormuz_blocco-425524433/",
-        "https://www.repubblica.it/esteri/2026/08/12/diretta/guerra_iran_usa_israele_news_oggi-425524558/",
-        "https://ilmanifesto.it/navi-nel-mirino-dal-mar-rosso-alloman-i-principali-sospetti-houthi-e-usa"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Sant’Anna di Stazzema, Mattarella: la volontà di dominio si riaffaccia, oggi ombre di guerre anche inedite",
       "source_count": 5,
       "article_count": 6,
@@ -173,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Putin: \"Risponderemo ai sequestri di nostre navi da parte degli europei\"",
       "source_count": 5,
       "article_count": 6,
@@ -190,6 +172,25 @@
         "https://www.liberoquotidiano.it/news/libero-video/48845101/putin-se-navi-russe-verranno-sequestrate-risponderemo-/",
         "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-putin-minacce-europa-nato-giappone_7yznGtaLIkTvyrJYx42Q9T",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/12/putin-risponderemo-ai-sequestri-di-nostre-navi-da-parte-degli-europei_c9cadc4d-0f9d-4a44-8257-52d79dd79423.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Iran, imbarcazione saudita attaccata dagli Houthi nel Mar Rosso: 6 morti",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "laverita.info",
+        "repubblica.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/48844455/iran-imbarcazione-saudita-attaccata-houthi-mar-rosso-6-morti/",
+        "https://www.laverita.info/geopolitica/huthi-usa-stretti-hormuz",
+        "https://www.repubblica.it/esteri/2026/08/12/news/guerra_iran_raid_houthi_mar_rosso_sei_morti_cargo_hormuz_blocco-425524433/",
+        "https://www.repubblica.it/esteri/2026/08/12/diretta/guerra_iran_usa_israele_news_oggi-425524558/",
+        "https://ilmanifesto.it/navi-nel-mirino-dal-mar-rosso-alloman-i-principali-sospetti-houthi-e-usa"
       ]
     },
     {
