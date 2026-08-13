@@ -1,12 +1,32 @@
 {
   "date": "2026-08-13",
-  "generated_at": "Thu 13 Aug 15:06",
+  "generated_at": "Thu 13 Aug 17:06",
   "stories": [
     {
       "rank": 1,
+      "title": "Eclissi solare, le immagini",
+      "source_count": 5,
+      "article_count": 17,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/videogallery/mondo/2026/08/13/eclissi-dallo-spazio-le-immagini-dellombra-della-luna-sulla-terra_718e6560-1153-43c3-a19d-2bcdc469bd89.html",
+        "https://www.lastampa.it/cronaca/2026/08/13/news/eclissi_luna_28_agosto_come_dove_vederla-15714196/",
+        "https://www.ansa.it/sito/videogallery/italia/2026/08/13/eclissi-solare-le-acrobazie-dello-skateboarder-danny-leon-durante-il-punto-massimo_31c4dff1-72ac-416f-972c-382589a8836e.html",
+        "https://www.ansa.it/sito/videogallery/italia/2026/08/13/venezia-leclissi-solare-incanta-turisti-e-residenti_93914c3c-4ceb-44b1-8dc9-6e73b5a650ff.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48850004/eclissi-sole-vista-aereo-compagnia-distribuisce-occhiali-protettivi-passeggeri/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Lavitola confessa: «Bomba a Ranucci, sono io il mandante. L'ho fatto perché per lui volevo una scorta maggiore»",
-      "source_count": 9,
-      "article_count": 13,
+      "source_count": 7,
+      "article_count": 12,
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
@@ -14,9 +34,7 @@
         "lastampa.it",
         "laverita.info",
         "roma.repubblica.it",
-        "ilmanifesto.it",
-        "ilsole24ore.com",
-        "news.google.com"
+        "ilmanifesto.it"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/lavitola-al-gip-chiesi-di-sparare-contro-la-villetta-di-ranucci.-lo-scoppio-dellordigno-fu-comunque_4bf17aff-92eb-4670-ae14-e130bd41e9d9.html",
@@ -24,26 +42,6 @@
         "https://www.ilfattoquotidiano.it/2026/08/13/attentato-ranucci-lavitola-confessione-notizie/8478062/",
         "https://www.lastampa.it/cronaca/2026/08/13/news/lavitola_al_gip_chiesi_di_sparare_4_o_5_colpi_contro_la_villa_di_ranucci_non_un_ordigno-15714126/",
         "https://www.laverita.info/video/valter-lavitola-ranucci-attentato"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Eclissi solare, le immagini",
-      "source_count": 5,
-      "article_count": 14,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/videogallery/mondo/2026/08/13/eclissi-dallo-spazio-le-immagini-dellombra-della-luna-sulla-terra_718e6560-1153-43c3-a19d-2bcdc469bd89.html",
-        "https://www.ansa.it/sito/videogallery/italia/2026/08/13/eclissi-solare-le-acrobazie-dello-skateboarder-danny-leon-durante-il-punto-massimo_31c4dff1-72ac-416f-972c-382589a8836e.html",
-        "https://www.ansa.it/sito/videogallery/italia/2026/08/13/venezia-leclissi-solare-incanta-turisti-e-residenti_93914c3c-4ceb-44b1-8dc9-6e73b5a650ff.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48850004/eclissi-sole-vista-aereo-compagnia-distribuisce-occhiali-protettivi-passeggeri/",
-        "https://www.liberoquotidiano.it/news/tv-news/48850248/dalla-spagna-a-hellissandur-tutte-le-magie-dell-eclissi-di-sole/"
       ]
     },
     {
@@ -94,120 +92,125 @@
     },
     {
       "rank": 5,
-      "title": "Malore per Francesco Gabbani durante concerto a Letojanni, spettacolo interrotto dopo 5 canzoni. \"Ora accertamenti\"",
+      "title": "Sara Curtis incredibile, oro nei 50 dorso e nuovo record del mondo",
       "source_count": 5,
-      "article_count": 6,
+      "article_count": 10,
       "source_domains": [
-        "liberoquotidiano.it",
+        "repubblica.it",
         "ansa.it",
-        "adnkronos.com",
         "ilfattoquotidiano.it",
+        "adnkronos.com",
         "lastampa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48851723/gabbani-dopo-il-malore-sono-vivo-grazie-ai-medici-stasera-torno-sul-palco/",
-        "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/13/malore-per-gabbani-mentre-canta-concerto-interrotto-a-letojanni_e7bcbbf6-36bb-40a9-869d-6cfa96e41780.html",
-        "https://www.adnkronos.com/spettacoli/francesco-gabbani-malore-letojanni-13-agosto-news_28CljNSqaXeASuO0YEBmxP",
-        "https://www.liberoquotidiano.it/news/spettacoli/48849868/malore-sul-palco-per-francesco-gabbani-come-sta-adesso/",
-        "https://www.ilfattoquotidiano.it/2026/08/13/francesco-gabbani-ha-un-malore-e-interrompe-il-concerto-a-letojanni-soccorsi-immediati/8477862/"
+        "https://www.repubblica.it/sport/vari/2026/08/13/news/sara_curtis_oro_nuovo_record_del_mondo_50_dorso-425527578/",
+        "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/13/europei-nuoto-sara-curtis-oro-e-altro-record-del-mondo-nei_280a0466-2e25-4757-b52d-00dacd230453.html",
+        "https://www.ilfattoquotidiano.it/2026/08/13/sara-curtis-record-mondo-50-dorso-medaglia-oro/8478464/",
+        "https://www.ansa.it/sito/notizie/flash/2026/08/13/europei-nuoto-sara-curtis-oro-e-record-del-mondo-nei-50-dorso_6db3d30d-a461-4068-93c7-2c281795fc4c.html",
+        "https://www.adnkronos.com/sport/diretta-europei-nuoto-curtis-per-loro-nei-50-dorso-risultati-e-aggiornamenti-live_5cbVFgsxwP4L3SnuLdZuGp"
       ]
     },
     {
       "rank": 6,
-      "title": "Ambasciatore Usa in Israele: \"L'assedio dei coloni alle case palestinesi è terrorismo\"",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/cisgiordania-famiglie-palestinesi-assedio-huckabee_lFbWfhLdVYf8IXzhkRi9P",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/08/13/medioriente-coloni-israeliani-assedio-cisgiordania-notizie-diretta/8477877/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/13/ambasciatore-usa-in-israele-assedio-coloni-a-case-palestinesi-e-terrorismo_1bd4f3a0-51f6-4603-8a39-c3a917033607.html",
-        "https://www.repubblica.it/esteri/2026/08/13/diretta/guerra_iran_usa_israele_news_oggi-425526334/",
-        "https://www.lastampa.it/esteri/2026/08/13/diretta/guerra_iran_usa_israele_news_oggi-15713816/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "L'Etna in eruzione da sei giorni. Caos in Sicilia, 700 voli saltati",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/videogallery/italia/2026/08/13/etna-il-fronte-della-lava-scende-a-quota-1300-metri_0067d4a3-97d6-4bc2-912d-4d464a9c83ed.html",
-        "https://www.ansa.it/sito/videogallery/italia/2026/08/13/sicilia-letna-e-in-eruzione-da-sei-giorni_ee46d320-7e7f-42d1-bf59-2575b4cb0990.html",
-        "https://www.adnkronos.com/cronaca/situazione-aeroporto-catania-13-agosto-ultima-ora-partenze_23PC04X9oc2GPkic8bmWit",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/12/letna-in-eruzione-da-sei-giorni.-caos-in-sicilia-700-voli-saltati_d9c8900c-e898-4f2d-b69a-d43d7c0af6c3.html",
-        "https://www.lastampa.it/cronaca/2026/08/13/news/cenere_su_catania_cancellati_700_voli_l_etna_puo_andare_avanti_ancora_giorni-15713761/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Spara contro l’ex compagna poi tenta il suicidio: ricoverati entrambi in gravi condizioni",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/13/sparatoria-mongrassano-ex-compagna-suicidio-notizie/8478188/",
-        "https://www.adnkronos.com/cronaca/mongrassano-cosenza-tentato-omicidio-suicidio-ex-news_8Q6NnN5UQ6NpFKSyZv0Md",
-        "https://www.repubblica.it/cronaca/2026/08/13/news/cosenza_tentato_femminicidio_spara_alla_compagna-425526959/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/spara-contro-lex-compagna-la-donna-e-in-ospedale-_b2de5962-dd4e-4c48-a300-12c5475b0bb6.html",
-        "https://www.lastampa.it/cronaca/2026/08/13/news/mongrassano_spara_ex_compagna_tenta_suicidio_ricoverati_ospedale-15714031/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Esplosione a Colleferro: boato nell'ex Simmel Difesa, l'azienda di munizioni. Non ci sarebbero feriti",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Colleferro, incendio e forte esplosione nella fabbrica di munizioni ex Simmel Difesa",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "agi.it"
+        "lastampa.it",
+        "agi.it",
+        "ilsole24ore.com"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/incendio-ed-esplosione-in-stabilimento-ex-simmel-difesa-a-colleferro_48352b9e-df7d-42d5-8aa4-69d8249fb02e.html",
         "https://www.adnkronos.com/cronaca/forte-esplosione-stabilimento-colleferro_2behbMTv0J0CgIsdrtdw6B",
+        "https://www.adnkronos.com/cronaca/esplosione-colleferro-oggi-simmel-difesa_2behbMTv0J0CgIsdrtdw6B",
         "https://www.ilfattoquotidiano.it/2026/08/13/esplosione-colleferro-simmel-difesa-notizie/8478256/",
-        "https://www.ilmessaggero.it/frosinone/esplosione_colleferro_simmel_difesa_munizioni_feriti_ultima_ora-9706104.html",
-        "https://www.agi.it/cronaca/news/2026-08-13/colleferro-esplosione-fabbrica-munizioni-38521736/"
+        "https://www.ilmessaggero.it/frosinone/esplosione_colleferro_simmel_difesa_munizioni_feriti_ultima_ora-9706104.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Spara contro l’ex compagna poi tenta il suicidio: ricoverati entrambi in gravi condizioni",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/italia/germania_calabria_spari_ex_fidanzata_mongrassano-9706232.html",
+        "https://www.ilfattoquotidiano.it/2026/08/13/sparatoria-mongrassano-ex-compagna-suicidio-notizie/8478188/",
+        "https://www.adnkronos.com/cronaca/mongrassano-cosenza-tentato-omicidio-suicidio-ex-news_8Q6NnN5UQ6NpFKSyZv0Md",
+        "https://www.repubblica.it/cronaca/2026/08/13/news/cosenza_tentato_femminicidio_spara_alla_compagna-425526959/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/spara-contro-lex-compagna-la-donna-e-in-ospedale-_b2de5962-dd4e-4c48-a300-12c5475b0bb6.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Malore per Gabbani mentre canta, concerto interrotto a Letojanni",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/48851719/gabbani_malore_per_stanchezza_e_caldo_ma_sto_bene_stasera_sul_palco_/",
+        "https://www.liberoquotidiano.it/news/tv-news/48851723/gabbani-dopo-il-malore-sono-vivo-grazie-ai-medici-stasera-torno-sul-palco/",
+        "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/13/malore-per-gabbani-mentre-canta-concerto-interrotto-a-letojanni_e7bcbbf6-36bb-40a9-869d-6cfa96e41780.html",
+        "https://www.adnkronos.com/spettacoli/francesco-gabbani-malore-letojanni-13-agosto-news_28CljNSqaXeASuO0YEBmxP",
+        "https://www.ilfattoquotidiano.it/2026/08/13/francesco-gabbani-ha-un-malore-e-interrompe-il-concerto-a-letojanni-soccorsi-immediati/8477862/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Ceuta, Piantedosi: \"Revoca stop Schengen solo con la fine dei rischi. Possibili nuovi arrivi il 15 agosto\"",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "laverita.info",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.laverita.info/video/piantedosi-schengen-rischi",
+        "https://www.adnkronos.com/politica/matteo-piantedosi-migranti-arrivi-spagna-ceuta_PtuOGsiMkUWUYuAlUXTRb",
+        "https://www.liberoquotidiano.it/news/tv-news/48852595/ceuta-piantedosi-non-esclude-potenziali-infiltrazioni-terroristiche-/",
+        "https://www.ansa.it/sito/notizie/dirette_live/2026/08/13/schengen-laudizione-del-ministro-piantedosi_c3278ee8-1cc4-43e5-a2ac-89d64e9720ff.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48852191/spagna-piantedosi-revocheremo-lo-stop-schengen-solo-con-zero-rischi/"
       ]
     },
     {
       "rank": 10,
-      "title": "Concerto annullato a Barletta, Jovanotti: \"Mi dispiace tantissimo\"",
-      "source_count": 4,
+      "title": "Ambasciatore Usa in Israele: \"L'assedio dei coloni alle case palestinesi è terrorismo\"",
+      "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
         "liberoquotidiano.it",
-        "adnkronos.com"
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/videogallery/spettacolo/2026/08/13/jovanotti-su-stop-data-a-barletta-sicurezza-del-pubblico-e-la-primissima-cosa_1a097a18-ff6d-4b68-b097-0a8848c093c1.html",
-        "https://www.ilfattoquotidiano.it/2026/08/13/ho-saputo-larea-dove-avremmo-suonato-un-anno-fa-ci-hanno-messo-un-sacco-di-tempo-a-decidere-ma-la-sicurezza-prima-di-tutto-jovanotti-sul-concerto-annullato-a-barletta/8478210/",
-        "https://www.liberoquotidiano.it/news/pillole/48851546/cancellato_il_summer_party_di_barletta_jovanotti_grandissimo_dispiacere_/",
-        "https://www.adnkronos.com/spettacoli/jovanotti-salta-concerto-barletta-le-sue-parole_2PfRmoEAPlFWQcwR170tdT",
-        "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/12/amianto-nellarea-del-concerto-annullato-lo-show-di-jovanotti-a-barletta_fdbb49c8-795a-43b4-9f32-924342309807.html"
+        "https://www.liberoquotidiano.it/news/tv-news/48853027/coloni-violenti-assediano-palestinesi-e-un-americano-in-cisgiordania/",
+        "https://www.adnkronos.com/internazionale/esteri/cisgiordania-famiglie-palestinesi-assedio-huckabee_lFbWfhLdVYf8IXzhkRi9P",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/08/13/medioriente-coloni-israeliani-assedio-cisgiordania-notizie-diretta/8477877/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/13/ambasciatore-usa-in-israele-assedio-coloni-a-case-palestinesi-e-terrorismo_1bd4f3a0-51f6-4603-8a39-c3a917033607.html",
+        "https://www.repubblica.it/esteri/2026/08/13/news/due_famiglie_palestinesi_assediate_cisgiordania_idf_prega_con_coloni-425526227/"
       ]
     }
   ]
