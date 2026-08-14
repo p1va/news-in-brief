@@ -1,9 +1,32 @@
 {
   "date": "2026-08-14",
-  "generated_at": "Fri 14 Aug 13:21",
+  "generated_at": "Fri 14 Aug 15:01",
   "stories": [
     {
       "rank": 1,
+      "title": "Recuperati i tre quadri di Cezanne, Matisse e Renoir rubati a Parma",
+      "source_count": 8,
+      "article_count": 16,
+      "source_domains": [
+        "laverita.info",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "bologna.repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.laverita.info/video/quadri-rubati-parma-recuperati",
+        "https://www.liberoquotidiano.it/news/libero-video/48856936/parma-recuperati-i-tre-quadri-di-cezanne-matisse-e-renoir-rubati-a-marzo/",
+        "https://www.liberoquotidiano.it/news/pillole/48856875/recuperati_dai_carabinieri_tre_dipinti_di_cezanne_renoir_e_matisse/",
+        "https://www.ansa.it/sito/videogallery/italia/2026/08/14/recuperati-i-tre-quadri-rubati-a-parma-nei-video-di-sorveglianza-i-ladri-in-azione_f41b0865-c217-4512-8b17-7db728bcf66c.html",
+        "https://www.lastampa.it/cronaca/2026/08/14/video/furto_quadri_cezanne_matisse_renoir_parma-15714834/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Regno Unito, Farage riconquista seggio in Parlamento",
       "source_count": 9,
       "article_count": 10,
@@ -27,36 +50,13 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Recuperati i tre quadri di Cezanne, Matisse e Renoir rubati a Parma",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "laverita.info",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "bologna.repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/video/quadri-rubati-parma-recuperati",
-        "https://www.ilfattoquotidiano.it/2026/08/14/il-furto-alla-magnani-rocca-in-meno-di-tre-minuti-cosi-la-banda-porto-via-cezanne-renoir-e-matisse/8479067/",
-        "https://www.ansa.it/sito/videogallery/italia/2026/08/14/recuperati-i-tre-quadri-rubati-a-parma-nei-video-di-sorveglianza-i-ladri-in-azione_f41b0865-c217-4512-8b17-7db728bcf66c.html",
-        "https://www.lastampa.it/cronaca/2026/08/14/video/furto_quadri_cezanne_matisse_renoir_parma-15714834/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/recuperati-i-tre-quadri-di-cezanne-matisse-e-renoir-rubati-a-parma_37630a2f-51f5-42f4-92fc-3c880ac393b4.html"
-      ]
-    },
-    {
       "rank": 3,
       "title": "Etna: chiusura aeroporto Catania prolungata fino alle 2 di notte del 15 agosto",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
-        "adnkronos.com",
         "ansa.it",
         "lastampa.it",
         "ilsole24ore.com",
@@ -66,43 +66,62 @@
         "https://www.liberoquotidiano.it/news/tv-news/48857114/caos-voli-in-sicilia-dopo-stop-catania-scalo-palermo-in-difficolta-/",
         "https://www.liberoquotidiano.it/news/libero-video/48856062/etna-chiusura-aeroporto-catania-prolungata-fino-alle-2-di-notte-del-15-agosto/",
         "https://www.ilfattoquotidiano.it/2026/08/14/aeroporto-catania-etna-voli-sospesi-ferragosto-notizie/8478795/",
-        "https://www.adnkronos.com/cronaca/eruzione-etna-news-oggi-stop-voli-ordinanza-vulcano_17ucu2LUrOtc13ikq8x1TT",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/etna-chiusura-scalo-catania-prolungata-fino-alle-2-di-notte-del-15-agosto_10662767-fd9c-4149-a1ea-0991c2583e91.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/etna-chiusura-scalo-catania-prolungata-fino-alle-2-di-notte-del-15-agosto_10662767-fd9c-4149-a1ea-0991c2583e91.html",
+        "https://www.lastampa.it/cronaca/2026/08/14/news/tra_i_prigionieri_dell_etna_a_catania_siamo_abbandonati_a_noi_stessi-15714519/"
       ]
     },
     {
       "rank": 4,
-      "title": "Medio Oriente, cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
+      "title": "Francia, Corte Costituzionale boccia divieto uso social per i minori under 15. Macron incarica premier di riscrivere la legge",
       "source_count": 6,
-      "article_count": 10,
+      "article_count": 8,
       "source_domains": [
-        "ansa.it",
         "ilfattoquotidiano.it",
+        "ansa.it",
         "adnkronos.com",
+        "ilmessaggero.it",
         "repubblica.it",
-        "lastampa.it",
-        "liberoquotidiano.it"
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/14/medio-oriente-case-palestinesi-a-qusra-assediate-da-coloni-israeliani-evacuati-cinque_010d0962-af37-4418-a540-d30bea4968e2.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/08/14/coloni-israeliani-qusra-italiani-espulsi-notizie/8478962/",
-        "https://www.adnkronos.com/internazionale/esteri/cisgiordania-attivisti-italiani-allontanati-idf_1Iyj8UB5sM581mTCHt9lg5",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/14/medio-oriente-cinque-italiani-nel-villaggio-palestinese-assediato-dai-coloni_010d0962-af37-4418-a540-d30bea4968e2.html",
-        "https://www.repubblica.it/esteri/2026/08/14/news/cisgiordania_evacuati_cinque_italiani_villaggio_palestinese_assediato_coloni_a_qusra-425528792/"
+        "https://www.ilfattoquotidiano.it/2026/08/14/divieto-social-minori-francia-macron-notizie/8479152/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/14/la-corte-costituzionale-francese-boccia-il-divieto-dei-social-agli-under-15_a5f60283-8bad-409b-9f67-23331161ab50.html",
+        "https://www.adnkronos.com/internazionale/esteri/corte-costituzionale-francia-divieto-uso-social-minori-under-15_3l3iQM5MhRIcMNTGQBw2eB",
+        "https://www.ilmessaggero.it/mondo/divieto_social_under_15_francia_boccia_misura_perche-9707870.html",
+        "https://www.ilmessaggero.it/mondo/divieto_social_under_15_francia_boccia_legge_perche-9707870.html"
       ]
     },
     {
       "rank": 5,
-      "title": "Colleferro, incendio ed esplosione nello stabilimento dell'ex Simmel Difesa: nessun ferito",
-      "source_count": 6,
+      "title": "Medio Oriente, cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
+      "source_count": 5,
       "article_count": 8,
+      "source_domains": [
+        "laverita.info",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.laverita.info/video/italiani-qusra-evacuati",
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/14/medio-oriente-case-palestinesi-a-qusra-assediate-da-coloni-israeliani-evacuati-cinque_010d0962-af37-4418-a540-d30bea4968e2.html",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/08/14/coloni-israeliani-qusra-italiani-espulsi-notizie/8478962/",
+        "https://www.adnkronos.com/internazionale/esteri/cisgiordania-attivisti-italiani-allontanati-idf_1Iyj8UB5sM581mTCHt9lg5",
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/14/medio-oriente-cinque-italiani-nel-villaggio-palestinese-assediato-dai-coloni_010d0962-af37-4418-a540-d30bea4968e2.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Colleferro, si indaga sull'esplosione e incendio nella fabbrica di munizioni",
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
         "liberoquotidiano.it",
         "ilmanifesto.it",
         "ilmessaggero.it",
         "ansa.it",
-        "ilsole24ore.com",
-        "news.google.com"
+        "ilsole24ore.com"
       ],
       "links": [
         "https://www.liberoquotidiano.it/news/tv-news/48855421/colleferro-si-indaga-sull-esplosione-e-incendio-nella-fabbrica-di-munizioni/",
@@ -113,7 +132,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Drone straniero abbattuto da caccia Eurofighter italiani, era entrato nello spazio aereo della Lettonia",
       "source_count": 6,
       "article_count": 6,
@@ -134,7 +153,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Trovata morta nell'armadio di casa, aveva 71 anni. Fermato il figlio. «Chiedeva i soldi per la droga»: choc a Roma",
       "source_count": 6,
       "article_count": 6,
@@ -155,61 +174,41 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Sara Curtis incredibile, oro nei 50 dorso e nuovo record del mondo: “È un’altra follia”",
-      "source_count": 5,
-      "article_count": 5,
+      "rank": 9,
+      "title": "Il legale di Ranucci: 'Lui è vittima, ma gli si imputa un danno d'immagine'",
+      "source_count": 4,
+      "article_count": 6,
       "source_domains": [
-        "repubblica.it",
         "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "news.google.com"
+        "repubblica.it",
+        "adnkronos.com",
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.repubblica.it/sport/vari/2026/08/14/news/sara_curtis_lezione_sport_aperto_cambiamento_nuoto_europei-425527953/",
-        "https://www.ansa.it/sito/notizie/sport/2026/08/13/sara-curtis-e-dariya-derkach-italia-doro-agli-europei-di-nuoto-e-atletica_0d478d2f-e9b4-493d-a164-9ed18ea11cc0.html",
-        "https://www.ilmessaggero.it/sport/schede/sara_curtis_genitori_chi_sono_origini_come_ha_vinto_finale_50_dorso_record_mondo-9706313.html",
-        "https://www.lastampa.it/sport/2026/08/13/news/sara_curtis_incredibile_oro_nei_50_dorso_e_nuovo_record_del_mondo-15714330/",
-        "https://news.google.com/rss/articles/CBMingFBVV95cUxQWGtFanlNSmNkSFZoWkNPSXFNeGJiYWlvc1YyNmE4Mmxfdi1XbmcwREhjbzVGaXhEdkYwTWRFcmIxUG9mcjdJeDA1cVNqSnVkRGlQMUo2YjFTODdRakRRcGhSbjZyMUtmcURDNVhXeTNxODNyeTZiZFJYMXVPUTlGeTQyUzUzYzFFSVZkTHZ0Q2JsaGIzdmhsV250U3pkZw?oc=5"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/il-legale-di-ranucci-lui-vittima-ma-gli-si-imputa-un-danno-dimmagine_60c416c9-16af-4848-b843-e6fb0e34ba7b.html",
+        "https://www.repubblica.it/politica/2026/08/14/news/ranucci_governo_sostituzione_pd_denuncia_ue_fdi_interrogazione-425529021/",
+        "https://www.adnkronos.com/cronaca/ranucci-report-parla-il-legale-ultime-notizie_2oB7GY3U84pBcFpo8qAqNr",
+        "https://www.repubblica.it/politica/2026/08/14/news/report_fazzolari_ranucci_chieda_scusa-425528007/",
+        "https://www.repubblica.it/politica/2026/08/14/news/intervista_roberto_zaccaria_ranucci_rai_difesa-425527916/"
       ]
     },
     {
-      "rank": 9,
-      "title": "Trattore si ribalta, muore una ragazza di 22 anni nel Cuneese",
-      "source_count": 5,
-      "article_count": 5,
+      "rank": 10,
+      "title": "Bucci: \"Ponte Morandi, otto anni fa Genova veniva colpita al cuore\"",
+      "source_count": 4,
+      "article_count": 6,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "torino.repubblica.it",
+        "liberoquotidiano.it",
         "ansa.it",
         "adnkronos.com",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/14/ragazza-di-22-anni-morta-in-un-vigneto-schiacciata-da-un-trattore-guidato-dallo-zio/8478898/",
-        "https://torino.repubblica.it/cronaca/2026/08/14/news/trattore_si_ribalta_muore_ragazza_nel_cuneese-425528663/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/trattore-si-ribalta-muore-una-ragazza-di-22-anni-nel-cuneese_531aefce-7a9b-4b05-bb25-c67c12be7d58.html",
-        "https://www.adnkronos.com/cronaca/trattore-si-ribalta-morta-ragazza-di-22-anni_2JArBjiGmFYW7LAcZZUbrX",
-        "https://www.lastampa.it/cuneo/2026/08/14/news/incidente_diano_d_alba_trattore_ribaltato_morta_ragazza-15714690/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Trump impone dazi del 100% sulle importazioni di droni",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/economia/2026/08/14/news/trump_dazi_100_droni_cinesi-425528527/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/13/trump-impone-dazi-del-100-sulle-importazioni-di-droni-_0397e397-ab32-49ff-acf4-da8bf406bae4.html",
-        "https://www.ilmessaggero.it/economia/news/dazi_trump_droni_cosa_cambia_ultime_notizie-9706501.html",
-        "https://www.ilsole24ore.com/art/trump-lancia-programma-dazi-droni-tariffe-fino-100percento-importazioni-AJWJoIm"
+        "https://www.liberoquotidiano.it/news/tv-news/48857950/8-anni-fa-il-crollo-ponte-morandi-genova-chiedera-maxi-risarcimento/",
+        "https://www.liberoquotidiano.it/news/pillole/48856427/genova_un_minuto_di_silenzio_per_ricordare_le_vittime_del_ponte_morandi/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/parenti-delle-vittime-del-ponte-morandi-in-attesa-dellappello-ma-con-piu_6b4f57e2-c60b-461d-bbbb-ac04cb23c135.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/bucci-ponte-morandi-otto-anni-fa-genova-veniva-colpita-al-cuore_6b4f57e2-c60b-461d-bbbb-ac04cb23c135.html",
+        "https://www.adnkronos.com/cronaca/crollo-ponte-morandi-otto-anni-fa-celebrazioni-anniversario_1EMFZnps6XwcI4uhddTPsl"
       ]
     }
   ]
