@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "generated_at": "Fri 14 Aug 15:01",
+  "generated_at": "Fri 14 Aug 16:02",
   "stories": [
     {
       "rank": 1,
@@ -51,6 +51,28 @@
     },
     {
       "rank": 3,
+      "title": "Francia, Corte Costituzionale boccia divieto uso social per i minori under 15. Macron incarica premier di riscrivere la legge",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/14/divieto-social-minori-francia-macron-notizie/8479152/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/14/la-corte-costituzionale-francese-boccia-il-divieto-dei-social-agli-under-15_a5f60283-8bad-409b-9f67-23331161ab50.html",
+        "https://www.adnkronos.com/internazionale/esteri/corte-costituzionale-francia-divieto-uso-social-minori-under-15_3l3iQM5MhRIcMNTGQBw2eB",
+        "https://www.ilmessaggero.it/mondo/divieto_social_under_15_francia_boccia_misura_perche-9707870.html",
+        "https://www.ilmessaggero.it/mondo/divieto_social_under_15_francia_boccia_legge_perche-9707870.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Etna: chiusura aeroporto Catania prolungata fino alle 2 di notte del 15 agosto",
       "source_count": 6,
       "article_count": 8,
@@ -68,27 +90,6 @@
         "https://www.ilfattoquotidiano.it/2026/08/14/aeroporto-catania-etna-voli-sospesi-ferragosto-notizie/8478795/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/etna-chiusura-scalo-catania-prolungata-fino-alle-2-di-notte-del-15-agosto_10662767-fd9c-4149-a1ea-0991c2583e91.html",
         "https://www.lastampa.it/cronaca/2026/08/14/news/tra_i_prigionieri_dell_etna_a_catania_siamo_abbandonati_a_noi_stessi-15714519/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Francia, Corte Costituzionale boccia divieto uso social per i minori under 15. Macron incarica premier di riscrivere la legge",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/14/divieto-social-minori-francia-macron-notizie/8479152/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/14/la-corte-costituzionale-francese-boccia-il-divieto-dei-social-agli-under-15_a5f60283-8bad-409b-9f67-23331161ab50.html",
-        "https://www.adnkronos.com/internazionale/esteri/corte-costituzionale-francia-divieto-uso-social-minori-under-15_3l3iQM5MhRIcMNTGQBw2eB",
-        "https://www.ilmessaggero.it/mondo/divieto_social_under_15_francia_boccia_misura_perche-9707870.html",
-        "https://www.ilmessaggero.it/mondo/divieto_social_under_15_francia_boccia_legge_perche-9707870.html"
       ]
     },
     {
@@ -113,26 +114,6 @@
     },
     {
       "rank": 6,
-      "title": "Colleferro, si indaga sull'esplosione e incendio nella fabbrica di munizioni",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48855421/colleferro-si-indaga-sull-esplosione-e-incendio-nella-fabbrica-di-munizioni/",
-        "https://ilmanifesto.it/colleferro-esplode-fabbrica-di-munizioni-nella-valle-delle-armi",
-        "https://www.ilmessaggero.it/frosinone/esplosione_colleferro_operai_salvati_dalla_ferie-9706435.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/incendio-ed-esplosione-in-stabilimento-ex-simmel-difesa-a-colleferro_48352b9e-df7d-42d5-8aa4-69d8249fb02e.html",
-        "https://www.liberoquotidiano.it/news/pillole/48853298/incendio_ed_esplosione_in_fabbrica_di_armi_a_colleferro/"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Drone straniero abbattuto da caccia Eurofighter italiani, era entrato nello spazio aereo della Lettonia",
       "source_count": 6,
       "article_count": 6,
@@ -153,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Trovata morta nell'armadio di casa, aveva 71 anni. Fermato il figlio. «Chiedeva i soldi per la droga»: choc a Roma",
       "source_count": 6,
       "article_count": 6,
@@ -171,6 +152,26 @@
         "https://www.ilfattoquotidiano.it/2026/08/14/trovata-morta-in-un-armadio-con-una-busta-in-testa-a-roma-interrogato-il-figlio/8478827/",
         "https://www.adnkronos.com/cronaca/roma-donna-morta-armadio-tor-bella-monaca_4vJLutakpa4ELA2zCdZr0d",
         "https://www.ilmessaggero.it/roma/don_bosco/trovata_armadio_roma_morta_mamma_tor_bella_monaca-9707585.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Colleferro, si indaga sull'esplosione e incendio nella fabbrica di munizioni",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48855421/colleferro-si-indaga-sull-esplosione-e-incendio-nella-fabbrica-di-munizioni/",
+        "https://ilmanifesto.it/colleferro-esplode-fabbrica-di-munizioni-nella-valle-delle-armi",
+        "https://www.ilmessaggero.it/frosinone/esplosione_colleferro_operai_salvati_dalla_ferie-9706435.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/13/incendio-ed-esplosione-in-stabilimento-ex-simmel-difesa-a-colleferro_48352b9e-df7d-42d5-8aa4-69d8249fb02e.html",
+        "https://www.liberoquotidiano.it/news/pillole/48853298/incendio_ed_esplosione_in_fabbrica_di_armi_a_colleferro/"
       ]
     },
     {
