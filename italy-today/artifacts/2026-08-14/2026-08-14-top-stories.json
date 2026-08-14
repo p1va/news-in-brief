@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "generated_at": "Fri 14 Aug 20:40",
+  "generated_at": "Fri 14 Aug 21:34",
   "stories": [
     {
       "rank": 1,
@@ -53,13 +53,14 @@
     {
       "rank": 3,
       "title": "Infinita Quadarella, bis nei 1500 sl per il decimo oro europeo",
-      "source_count": 7,
-      "article_count": 14,
+      "source_count": 8,
+      "article_count": 13,
       "source_domains": [
         "laverita.info",
         "ansa.it",
         "adnkronos.com",
         "repubblica.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it"
@@ -74,28 +75,6 @@
     },
     {
       "rank": 4,
-      "title": "Etna: chiusura aeroporto Catania prolungata fino alle 2 di notte del 15 agosto",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "ilmessaggero.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/etna_erutta_aeroporto_catania_chiuso_ultime_notizie-9708148.html",
-        "https://www.ilmessaggero.it/italia/catania_aeroporto_perche_etna_impedisce_voli_fontanarossa-9708025.html",
-        "https://www.lastampa.it/cronaca/2026/08/14/news/etna_aeroporto_catania_chiuso_domani-15715059/",
-        "https://www.liberoquotidiano.it/news/tv-news/48857114/caos-voli-in-sicilia-dopo-stop-catania-scalo-palermo-in-difficolta-/",
-        "https://www.liberoquotidiano.it/news/libero-video/48856062/etna-chiusura-aeroporto-catania-prolungata-fino-alle-2-di-notte-del-15-agosto/"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Francia, Corte Costituzionale boccia divieto uso social per i minori under 15. Macron incarica premier di riscrivere la legge",
       "source_count": 7,
       "article_count": 9,
@@ -117,7 +96,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Medio Oriente, cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
       "source_count": 5,
       "article_count": 10,
@@ -134,6 +113,27 @@
         "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/14/medio-oriente-case-palestinesi-a-qusra-assediate-da-coloni-israeliani-evacuati-cinque_010d0962-af37-4418-a540-d30bea4968e2.html",
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/08/14/coloni-israeliani-qusra-italiani-espulsi-notizie/8478962/",
         "https://www.adnkronos.com/internazionale/esteri/cisgiordania-attivisti-italiani-allontanati-idf_1Iyj8UB5sM581mTCHt9lg5"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Etna, l’aeroporto di Catania rimarrà chiuso fino alle 15 di domani",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilmessaggero.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/italia/etna_erutta_aeroporto_catania_chiuso_ultime_notizie-9708148.html",
+        "https://www.ilmessaggero.it/italia/catania_aeroporto_perche_etna_impedisce_voli_fontanarossa-9708025.html",
+        "https://www.lastampa.it/cronaca/2026/08/14/news/etna_aeroporto_catania_chiuso_domani-15715059/",
+        "https://www.liberoquotidiano.it/news/tv-news/48857114/caos-voli-in-sicilia-dopo-stop-catania-scalo-palermo-in-difficolta-/",
+        "https://www.liberoquotidiano.it/news/libero-video/48856062/etna-chiusura-aeroporto-catania-prolungata-fino-alle-2-di-notte-del-15-agosto/"
       ]
     },
     {
@@ -178,6 +178,27 @@
     },
     {
       "rank": 9,
+      "title": "Europei di atletica: Battocletti magico bis, dopo i 5000 vince l'oro anche nei 10000",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/altrisport/2026/08/14/europei-di-atletica-battocletti-magico-bis-dopo-i-5000-vince-loro-anche_c42e8413-4922-4bc9-b51c-bd24322d1e3b.html",
+        "https://www.adnkronos.com/sport/battocletti-atleticaeuropei-birmingham_6eNAxGt6LSfy1V6OAuvWeJ",
+        "https://www.liberoquotidiano.it/news/sport/48861091/europei-atletica-storica-nadia-battocletti-oro-anche-10mila-metri/",
+        "https://www.ilfattoquotidiano.it/2026/08/14/europei-atletica-battocletti-oro-10km-notizie/8479570/",
+        "https://www.adnkronos.com/sport/europei-atletica-battocletti-tamberi_76mBGYPex9syCzRvwngArn"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Trovata morta nell'armadio di casa, aveva 71 anni. Fermato il figlio. «Chiedeva i soldi per la droga»: choc a Roma",
       "source_count": 6,
       "article_count": 6,
@@ -195,27 +216,6 @@
         "https://www.ilfattoquotidiano.it/2026/08/14/trovata-morta-in-un-armadio-con-una-busta-in-testa-a-roma-interrogato-il-figlio/8478827/",
         "https://www.adnkronos.com/cronaca/roma-donna-morta-armadio-tor-bella-monaca_4vJLutakpa4ELA2zCdZr0d",
         "https://www.ilmessaggero.it/roma/don_bosco/trovata_armadio_roma_morta_mamma_tor_bella_monaca-9707585.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Cuneo, si ribalta trattore: morta ragazza di 22 anni",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "torino.repubblica.it",
-        "ansa.it",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/ragazza_morta_trattore_cuneo_ultime_notizie-9708026.html",
-        "https://www.ilfattoquotidiano.it/2026/08/14/ragazza-di-22-anni-morta-in-un-vigneto-schiacciata-da-un-trattore-guidato-dallo-zio/8478898/",
-        "https://torino.repubblica.it/cronaca/2026/08/14/news/trattore_si_ribalta_muore_ragazza_nel_cuneese-425528663/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/14/trattore-si-ribalta-muore-una-ragazza-di-22-anni-nel-cuneese_531aefce-7a9b-4b05-bb25-c67c12be7d58.html",
-        "https://www.adnkronos.com/cronaca/trattore-si-ribalta-morta-ragazza-di-22-anni_2JArBjiGmFYW7LAcZZUbrX"
       ]
     }
   ]
