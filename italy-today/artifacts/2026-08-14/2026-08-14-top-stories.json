@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "generated_at": "Fri 14 Aug 17:05",
+  "generated_at": "Fri 14 Aug 18:04",
   "stories": [
     {
       "rank": 1,
@@ -27,55 +27,9 @@
     },
     {
       "rank": 2,
-      "title": "Medio Oriente, cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
-      "source_count": 7,
-      "article_count": 14,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "laverita.info",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48858893/cisgiordania-continua-l-assedio-alle-case-dei-palestinesi-a-qusra/",
-        "https://www.laverita.info/video/italiani-qusra-evacuati",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/14/medio-oriente-case-palestinesi-a-qusra-assediate-da-coloni-israeliani-evacuati-cinque_010d0962-af37-4418-a540-d30bea4968e2.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/08/14/coloni-israeliani-qusra-italiani-espulsi-notizie/8478962/",
-        "https://www.adnkronos.com/internazionale/esteri/cisgiordania-attivisti-italiani-allontanati-idf_1Iyj8UB5sM581mTCHt9lg5"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Etna: chiusura aeroporto Catania prolungata fino alle 2 di notte del 15 agosto",
-      "source_count": 9,
-      "article_count": 10,
-      "source_domains": [
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ansa.it",
-        "lastampa.it",
-        "palermo.repubblica.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/catania_aeroporto_perche_etna_impedisce_voli_fontanarossa-9708025.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48857114/caos-voli-in-sicilia-dopo-stop-catania-scalo-palermo-in-difficolta-/",
-        "https://www.liberoquotidiano.it/news/libero-video/48856062/etna-chiusura-aeroporto-catania-prolungata-fino-alle-2-di-notte-del-15-agosto/",
-        "https://www.ilfattoquotidiano.it/2026/08/14/aeroporto-catania-etna-voli-sospesi-ferragosto-notizie/8478795/",
-        "https://www.adnkronos.com/cronaca/eruzione-etna-news-oggi-stop-voli-ordinanza-vulcano_17ucu2LUrOtc13ikq8x1TT"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Regno Unito, Farage riconquista seggio in Parlamento",
-      "source_count": 9,
-      "article_count": 10,
+      "source_count": 10,
+      "article_count": 11,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
@@ -85,7 +39,8 @@
         "repubblica.it",
         "lastampa.it",
         "ilmanifesto.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
         "https://www.liberoquotidiano.it/news/tv-news/48856350/gb-elezioni-suppletive-nigel-farage-riconquista-seggio-parlamentare/",
@@ -96,7 +51,31 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 3,
+      "title": "Etna: chiusura aeroporto Catania prolungata fino alle 2 di notte del 15 agosto",
+      "source_count": 9,
+      "article_count": 11,
+      "source_domains": [
+        "ilmessaggero.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "palermo.repubblica.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/italia/catania_aeroporto_perche_etna_impedisce_voli_fontanarossa-9708025.html",
+        "https://www.lastampa.it/cronaca/2026/08/14/news/etna_aeroporto_catania_chiuso_domani-15715059/",
+        "https://www.liberoquotidiano.it/news/tv-news/48857114/caos-voli-in-sicilia-dopo-stop-catania-scalo-palermo-in-difficolta-/",
+        "https://www.liberoquotidiano.it/news/libero-video/48856062/etna-chiusura-aeroporto-catania-prolungata-fino-alle-2-di-notte-del-15-agosto/",
+        "https://www.ilfattoquotidiano.it/2026/08/14/aeroporto-catania-etna-voli-sospesi-ferragosto-notizie/8478795/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Francia, Corte Costituzionale boccia divieto uso social per i minori under 15. Macron incarica premier di riscrivere la legge",
       "source_count": 7,
       "article_count": 9,
@@ -115,6 +94,26 @@
         "https://www.adnkronos.com/internazionale/esteri/corte-costituzionale-francia-divieto-uso-social-minori-under-15_3l3iQM5MhRIcMNTGQBw2eB",
         "https://www.ilmessaggero.it/mondo/divieto_social_under_15_francia_boccia_misura_perche-9707870.html",
         "https://www.ilmessaggero.it/mondo/divieto_social_under_15_francia_boccia_legge_perche-9707870.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Medio Oriente, cinque italiani nel villaggio palestinese assediato dai coloni israeliani",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "laverita.info",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.laverita.info/video/italiani-qusra-evacuati",
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/14/medio-oriente-case-palestinesi-a-qusra-assediate-da-coloni-israeliani-evacuati-cinque_010d0962-af37-4418-a540-d30bea4968e2.html",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/08/14/coloni-israeliani-qusra-italiani-espulsi-notizie/8478962/",
+        "https://www.adnkronos.com/internazionale/esteri/cisgiordania-attivisti-italiani-allontanati-idf_1Iyj8UB5sM581mTCHt9lg5",
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/14/medio-oriente-cinque-italiani-nel-villaggio-palestinese-assediato-dai-coloni_010d0962-af37-4418-a540-d30bea4968e2.html"
       ]
     },
     {
