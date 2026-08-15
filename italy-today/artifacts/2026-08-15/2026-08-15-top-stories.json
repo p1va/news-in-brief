@@ -1,9 +1,32 @@
 {
   "date": "2026-08-15",
-  "generated_at": "Sat 15 Aug 17:29",
+  "generated_at": "Sat 15 Aug 18:40",
   "stories": [
     {
       "rank": 1,
+      "title": "Media: 'Il Marocco blocca centinaia di persone dirette a Ceuta'",
+      "source_count": 8,
+      "article_count": 12,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "adnkronos.com",
+        "laverita.info",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/mondo/migranti_ceuta_assalto_marocco_respinge_spagna_cosa_e_successo-9709533.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/15/cariche-e-lacrimogeni-rabat-blocca-centinaia-di-migranti-verso-ceuta_576bf0e9-6d55-4d19-83e2-c2b538dffcf8.html",
+        "https://www.adnkronos.com/internazionale/esteri/ceuta-allerta-assalto-migranti-marocco-15-agosto_2kFwxdT9g5jDLKMz0ziovv",
+        "https://www.laverita.info/cronache-dellinvasione/ceuta-marocco-migranti-frontiera",
+        "https://www.repubblica.it/esteri/2026/08/15/news/ceuta_marocco_blocca_centinaia_di_migranti-425530428/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Terremoto in Indonesia, sisma di magnitudo 7,7 a largo isola di Flores: almeno 20 morti",
       "source_count": 6,
       "article_count": 13,
@@ -24,7 +47,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Europei di atletica: Sofia Fiorini record del mondo e oro nella maratona di marcia. Oro anche Massimo Stano",
       "source_count": 8,
       "article_count": 10,
@@ -44,27 +67,6 @@
         "https://www.liberoquotidiano.it/news/sport/48864799/fiorini-e-stano-trionfano-a-birmingham-il-tricolore-si-copre-d-oro/",
         "https://www.adnkronos.com/sport/europei-atletica-oggi-medaglie-italia_1VTXCdBGenuXJpNVATXuJH",
         "https://www.ilfattoquotidiano.it/2026/08/15/europei-marcia-birmingham-italia-medaglie-notizie/8479751/"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Ceuta, il Marocco blocca centinaia di migranti che si dirigevano verso la frontiera dalle montagne",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "laverita.info",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/15/cariche-e-lacrimogeni-rabat-blocca-centinaia-di-migranti-verso-ceuta_576bf0e9-6d55-4d19-83e2-c2b538dffcf8.html",
-        "https://www.adnkronos.com/internazionale/esteri/ceuta-allerta-assalto-migranti-marocco-15-agosto_2kFwxdT9g5jDLKMz0ziovv",
-        "https://www.laverita.info/cronache-dellinvasione/ceuta-marocco-migranti-frontiera",
-        "https://www.repubblica.it/esteri/2026/08/15/news/ceuta_marocco_blocca_centinaia_di_migranti-425530428/",
-        "https://www.ilfattoquotidiano.it/2026/08/15/migranti-ceuta-assalto-massa-notizie/8479747/"
       ]
     },
     {
@@ -175,42 +177,42 @@
     },
     {
       "rank": 9,
-      "title": "Trovato morto a Londra Jason Arday, il professore di Cambridge accusato di plagio",
+      "title": "Europei, trionfo azzurro nel nuoto: Martinenghi oro nei 50 rana, Cerasuolo argento",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
         "ilfattoquotidiano.it",
-        "lastampa.it",
-        "adnkronos.com",
+        "ansa.it",
         "repubblica.it",
-        "news.google.com"
+        "lastampa.it",
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/15/jason-arday-professore-cambridge-plagio-notizie/8479802/",
-        "https://www.lastampa.it/esteri/2026/08/15/news/trovato_morto_a_londra_jason_arday_il_professore_di_cambridge_accusato_di_plagio-15715302/",
-        "https://www.adnkronos.com/internazionale/esteri/jason-arday-professore-universita-cambridge-morto_4Ady23bKBEa0ZHKl4DIHu5",
-        "https://www.repubblica.it/esteri/2026/08/14/news/londra_morto_professore_cambridge_jason_arday_accusato_plagio-425529798/",
-        "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX2xyUTBXUFdIU3VGcWg3THBpd1UwcHpwUU00VG9FLTlDNEZWVExyRnI3LW9SSWRXLWY5MlFxRklNRWpqYTRZYW1PTVhDZXBlVjY4a1AwM2k2OHpQdFhJZjVFdFJUREFreFNHWGUzQ25sZ0FEdFNFZ2Z5YjFRcEZVV2VrMWlIdTg?oc=5"
+        "https://www.ilfattoquotidiano.it/2026/08/15/europei-nuoto-martinenghi-oro-50rana-notizie/8479974/",
+        "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-martinenghi-concede-il-bis-e-vince-loro-anche-nei-50-rana_d5a08a6c-f384-48c8-a1ce-6afae74828d6.html",
+        "https://www.repubblica.it/sport/vari/2026/08/15/diretta/europei_nuoto_2026_medaglie_oggi-425530798/",
+        "https://www.lastampa.it/sport/2026/08/15/news/europei_trionfo_azzurro_nel_nuoto_martinenghi_oro_nei_50_rana_cerasuolo_argento-15715569/",
+        "https://www.repubblica.it/sport/vari/2026/08/15/news/pilato_ceccon_europei_nuoto_2026_risultati_oggi-425530568/"
       ]
     },
     {
       "rank": 10,
-      "title": "Affitti brevi, spuntano le “case pollaio”: 17 turisti in un alloggio per 9, multe per 48mila euro",
+      "title": "Quadarella e Battocletti regine d'Europa, Tamberi una leggenda",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com",
-        "agi.it"
+        "repubblica.it",
+        "ansa.it",
+        "laverita.info",
+        "adnkronos.com",
+        "news.google.com"
       ],
       "links": [
-        "https://www.lastampa.it/cronaca/2026/08/15/video/gallipoli_case_pollaio_affitti_brevi_17_ragazzi_appartamento_multe-15715451/",
-        "https://www.ilfattoquotidiano.it/2026/08/15/affitti-brevi-gallipoli-blitz-guardia-finanza-notizie/8479419/",
-        "https://www.ilmessaggero.it/italia/gallipoli_case_vacanze_pollaio-9709199.html",
-        "https://www.ilsole24ore.com/art/affitti-brevi-blitz-guardia-finanza-contro-case-pollaio-gallipoli-AJgWb6m",
-        "https://www.agi.it/cronaca/news/2026-08-15/salento-vacanze-case-pollaio-38552016/"
+        "https://www.repubblica.it/sport/vari/2026/08/15/news/battocletti_bis_irresistibile_dopo_5000_10000_desalu_bronzo_nei_200-425529961/",
+        "https://www.ansa.it/sito/notizie/sport/2026/08/15/quadarella-e-battocletti-regine-deuropa-tamberi-una-leggenda_5a525e79-db38-4b47-b089-325fe108dd1b.html",
+        "https://www.laverita.info/storie-di-sport/battocletti-quadarella-doppietta-oro-europei",
+        "https://www.adnkronos.com/sport/battocletti-atleticaeuropei-birmingham_6eNAxGt6LSfy1V6OAuvWeJ",
+        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVDBaalJRa3BRemlBVGlVQjVmb2xwSUR3V3RRZEpueUFQcFpOMkNBMXJqNlBWNkV0U2lVRTJwZG9FSnhDajdIQ1hHUWstQnhzS0p1dXl6alBhelJqTFR2eEl4T0dQRkVJYVhNc3pWSzA0a0hwLU9nVjFsSE1DNElDRnlnT1J4QzJEMUM2T0pRdng5YTZlNkE5dDE3NU9sMlhNaEpR?oc=5"
       ]
     }
   ]
