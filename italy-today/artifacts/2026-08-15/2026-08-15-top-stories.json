@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated_at": "Sat 15 Aug 18:46",
+  "generated_at": "Sat 15 Aug 19:29",
   "stories": [
     {
       "rank": 1,
@@ -71,27 +71,6 @@
     },
     {
       "rank": 4,
-      "title": "Etna, l'aeroporto di Catania verso la normalità",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "laverita.info",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.laverita.info/video/etna-eruzione",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/etna-laeroporto-di-catania-verso-la-normalita_d182f31c-80af-4337-9d14-1c63df9c9c07.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/etna-riapre-lo-scalo-di-catania-presidente-sac-per-il-ritorno-alla-normalita_d182f31c-80af-4337-9d14-1c63df9c9c07.html",
-        "https://www.ilfattoquotidiano.it/2026/08/15/etna-concede-una-tefua-laeroporto-di-catania-puo-riaprire-prima-si-punta-alle-14/8479731/",
-        "https://www.adnkronos.com/cronaca/aeroporto-catania-situazione-oggi-15-agosto-2026_7dBGsuJ8FNUcuUXl1c2SKl"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Accoltella la sorella, poi precipita dalla finestra e muore: la tragedia per una lite a Genova",
       "source_count": 7,
       "article_count": 7,
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Iran, Trump: \"Presto dichiarerò lo Stretto di Hormuz territorio Usa\"",
       "source_count": 6,
       "article_count": 7,
@@ -134,7 +113,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Massimo Boldi cade e sbatte la testa sul marciapiede: ricoverato in ospedale a Livorno. L'incidente a Forte dei Marmi",
       "source_count": 6,
       "article_count": 7,
@@ -152,6 +131,26 @@
         "https://www.liberoquotidiano.it/news/personaggi/48862293/massimo_boldi_cade_e_sbatte_la_testa_sul_marciapiede_ricoverato/",
         "https://www.lastampa.it/spettacoli/2026/08/15/news/massimo_boldi_ricoverato_caduta_forte_dei_marmi-15715354/",
         "https://www.adnkronos.com/cronaca/massimo-boldi-caduta-forte-dei-marmi_3ZuQ4hDRSNqWfSbe1Qwd5X"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Etna, l'aeroporto di Catania verso la normalità",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "laverita.info",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.laverita.info/video/etna-eruzione",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/etna-laeroporto-di-catania-verso-la-normalita_d182f31c-80af-4337-9d14-1c63df9c9c07.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/etna-riapre-lo-scalo-di-catania-presidente-sac-per-il-ritorno-alla-normalita_d182f31c-80af-4337-9d14-1c63df9c9c07.html",
+        "https://www.ilfattoquotidiano.it/2026/08/15/etna-concede-una-tefua-laeroporto-di-catania-puo-riaprire-prima-si-punta-alle-14/8479731/",
+        "https://www.adnkronos.com/cronaca/aeroporto-catania-situazione-oggi-15-agosto-2026_7dBGsuJ8FNUcuUXl1c2SKl"
       ]
     },
     {
@@ -177,42 +176,43 @@
     },
     {
       "rank": 9,
-      "title": "Europei, trionfo azzurro nel nuoto: Martinenghi oro nei 50 rana, Cerasuolo argento",
-      "source_count": 5,
+      "title": "Europei nuoto: Martinenghi concede il bis e vince l'oro anche nei 50 rana",
+      "source_count": 6,
       "article_count": 6,
       "source_domains": [
+        "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "ansa.it",
+        "liberoquotidiano.it",
         "repubblica.it",
-        "lastampa.it",
-        "adnkronos.com"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/sport/schede/medagliere_europei_nuoto_2026_italia_classifica_tutte_medaglie_vinte-9709552.html",
         "https://www.ilfattoquotidiano.it/2026/08/15/europei-nuoto-martinenghi-oro-50rana-notizie/8479974/",
         "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-martinenghi-concede-il-bis-e-vince-loro-anche-nei-50-rana_d5a08a6c-f384-48c8-a1ce-6afae74828d6.html",
-        "https://www.repubblica.it/sport/vari/2026/08/15/diretta/europei_nuoto_2026_medaglie_oggi-425530798/",
-        "https://www.lastampa.it/sport/2026/08/15/news/europei_trionfo_azzurro_nel_nuoto_martinenghi_oro_nei_50_rana_cerasuolo_argento-15715569/",
-        "https://www.repubblica.it/sport/vari/2026/08/15/news/pilato_ceccon_europei_nuoto_2026_risultati_oggi-425530568/"
+        "https://www.liberoquotidiano.it/news/sport/48866518/europei-nuoto-doppietta-azzurra-50-rana-martinenghi-oro-cerasuolo-argento/",
+        "https://www.repubblica.it/sport/vari/2026/08/15/diretta/europei_nuoto_2026_medaglie_oggi-425530798/"
       ]
     },
     {
       "rank": 10,
-      "title": "Quadarella e Battocletti regine d'Europa, Tamberi una leggenda",
+      "title": "Battocletti, bis irresistibile: dopo i 5000 ecco i 10.000. Desalu bronzo nei 200",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
+        "liberoquotidiano.it",
         "repubblica.it",
         "ansa.it",
         "laverita.info",
-        "adnkronos.com",
-        "news.google.com"
+        "adnkronos.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/sport/48864100/l_italia_e_straordi_nadia_/",
         "https://www.repubblica.it/sport/vari/2026/08/15/news/battocletti_bis_irresistibile_dopo_5000_10000_desalu_bronzo_nei_200-425529961/",
         "https://www.ansa.it/sito/notizie/sport/2026/08/15/quadarella-e-battocletti-regine-deuropa-tamberi-una-leggenda_5a525e79-db38-4b47-b089-325fe108dd1b.html",
         "https://www.laverita.info/storie-di-sport/battocletti-quadarella-doppietta-oro-europei",
-        "https://www.adnkronos.com/sport/battocletti-atleticaeuropei-birmingham_6eNAxGt6LSfy1V6OAuvWeJ",
-        "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVDBaalJRa3BRemlBVGlVQjVmb2xwSUR3V3RRZEpueUFQcFpOMkNBMXJqNlBWNkV0U2lVRTJwZG9FSnhDajdIQ1hHUWstQnhzS0p1dXl6alBhelJqTFR2eEl4T0dQRkVJYVhNc3pWSzA0a0hwLU9nVjFsSE1DNElDRnlnT1J4QzJEMUM2T0pRdng5YTZlNkE5dDE3NU9sMlhNaEpR?oc=5"
+        "https://www.adnkronos.com/sport/battocletti-atleticaeuropei-birmingham_6eNAxGt6LSfy1V6OAuvWeJ"
       ]
     }
   ]
