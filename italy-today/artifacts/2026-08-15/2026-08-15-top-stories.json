@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated_at": "Sat 15 Aug 06:51",
+  "generated_at": "Sat 15 Aug 07:39",
   "stories": [
     {
       "rank": 1,
@@ -25,27 +25,6 @@
     },
     {
       "rank": 2,
-      "title": "Simona Quadarella oro nei 1500 sl, è il suo 10° oro europeo: “Ma speravo in un tempo migliore”",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "laverita.info",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.laverita.info/storie-di-sport/battocletti-quadarella-doppietta-oro-europei",
-        "https://www.repubblica.it/sport/vari/2026/08/14/news/simona_quadarella_oro_1500_sl_10_oro_europeo_speravo_tempo_migliore-425529496/",
-        "https://www.liberoquotidiano.it/news/sport/48860591/europei-simona-quadarella-oro-nei-1500-felicissima-ma-speravo-in-qualcosa-meno-/",
-        "https://www.ilfattoquotidiano.it/2026/08/14/europei-nuoto-quadarella-1500-oro/8479418/",
-        "https://www.ilmessaggero.it/schede/simona_quadarella_chi_e_record_eta_altezza_fidanzato_oggi-9708013.html"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Caccia italiani abbattono un drone nei cieli baltici, Riga ringrazia",
       "source_count": 5,
       "article_count": 6,
@@ -65,7 +44,84 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "Terremoto in Indonesia, sisma di magnitudo 7,7 a largo isola di Flores: almeno 20 morti",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "laverita.info",
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.laverita.info/mondo/terremoto-indonesia-77-morti",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/15/terremoto-di-magnitudo-7.7-in-indonesia-diramata-allerta-tsunami_662f7d1c-3c4b-427a-93c9-1f20b958b8d2.html",
+        "https://www.adnkronos.com/internazionale/esteri/terremoto-indonesia-oggi-isola-flores-news_kQH42H2Zc0egIK6Cik61L",
+        "https://www.repubblica.it/esteri/2026/08/15/news/indonesia_terremoto_forte_scossa_isola_di_flores_allerta_tsunami-425529993/",
+        "https://www.lastampa.it/esteri/2026/08/15/news/indonesia_terremoto_magnitudo_77_isola_flores-15715279/"
+      ]
+    },
+    {
       "rank": 4,
+      "title": "Europei di nuoto, Quadarella fa bis: è oro anche nei 1500 con record dei Campionati. “Felice, ma speravo di far meglio”",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "laverita.info",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.laverita.info/storie-di-sport/battocletti-quadarella-doppietta-oro-europei",
+        "https://www.repubblica.it/sport/vari/2026/08/14/news/simona_quadarella_oro_1500_sl_10_oro_europeo_speravo_tempo_migliore-425529496/",
+        "https://www.liberoquotidiano.it/news/sport/48860591/europei-simona-quadarella-oro-nei-1500-felicissima-ma-speravo-in-qualcosa-meno-/",
+        "https://www.ilfattoquotidiano.it/2026/08/14/europei-nuoto-quadarella-1500-oro/8479418/",
+        "https://www.ilmessaggero.it/schede/simona_quadarella_chi_e_record_eta_altezza_fidanzato_oggi-9708013.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Iran, Teheran sfida Trump: \"Hormuz non si conquista con un tweet\"",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "adnkronos.com",
+        "laverita.info",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-trump-hormuz-negoziati-news-oggi_32Pe0wG3yZL1KWVx96ulKZ",
+        "https://www.laverita.info/geopolitica/trump-hormuz-territorio-usa",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/15/teheran-frena-trump-hormuz-non-puo-essere-conquistato-con-un-tweet_396ec6b5-deaa-4f2c-b707-d7b6aa18c5a6.html",
+        "https://www.adnkronos.com/internazionale/esteri/stretto-hormuz-donald-trump-iran-usa-oggi_6YPvqrvefAi65gTpCLmAJ",
+        "https://www.lastampa.it/esteri/2026/08/15/diretta/guerra_iran_usa_israele_news_oggi-15715228/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Alle porte di Ceuta blindate in attesa della nuova valanga: “Come prima di una guerra”",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/mondo/melilla_invasione_migranti_perche_peggio_di_ceuta-9709243.html",
+        "https://www.repubblica.it/politica/2026/08/15/news/ceuta_ferragosto_reportage_attesa_migranti-425529914/",
+        "https://ilmanifesto.it/oggi-nuova-invasione-madrid-e-rabat-ci-credono",
+        "https://www.lastampa.it/esteri/2026/08/15/news/cannoni_ad_acqua_filo_spinato_e_militari_il_marocco_blinda_la_frontiera_di_ceuta-15715139/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Battocletti, bis irresistibile: dopo i 5000 ecco i 10.000. Desalu bronzo nei 200",
       "source_count": 4,
       "article_count": 4,
@@ -83,25 +139,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Terremoto in Indonesia, sisma di magnitudo 7,7 a largo isola di Flores: almeno 20 morti",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/15/terremoto-di-magnitudo-7.7-in-indonesia-diramata-allerta-tsunami_662f7d1c-3c4b-427a-93c9-1f20b958b8d2.html",
-        "https://www.adnkronos.com/internazionale/esteri/terremoto-indonesia-oggi-isola-flores-news_kQH42H2Zc0egIK6Cik61L",
-        "https://www.repubblica.it/esteri/2026/08/15/news/indonesia_terremoto_forte_scossa_isola_di_flores_allerta_tsunami-425529993/",
-        "https://www.lastampa.it/esteri/2026/08/15/news/indonesia_terremoto_magnitudo_77_isola_flores-15715279/"
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 8,
       "title": "Sicurezza, Piantedosi: \"Calo generalizzato dei reati, l'Italia si conferma come uno dei luoghi più sicuri al mondo\"",
       "source_count": 4,
       "article_count": 4,
@@ -119,7 +157,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Social vietati agli under 15 in Francia, no della Corte Costituzionale. Macron: «Riscriveremo la legge»",
       "source_count": 4,
       "article_count": 4,
@@ -137,7 +175,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Migranti, crollano del 37% gli arrivi irregolari nell’Unione europea",
       "source_count": 3,
       "article_count": 3,
@@ -150,38 +188,6 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/08/14/tutti-gli-occhi-su-ceuta-e-melilla.-nellue-in-calo-gli-ingressi-irregolari_5782060d-3652-4d44-a79a-17226fb59cb7.html",
         "https://www.liberoquotidiano.it/news/libero-video/48858372/migranti-crollano-37-per-cento-arrivi-irregolari-ue/",
         "https://www.ilsole24ore.com/art/migranti-crescono-rimpatri-34percento-primi-sei-mesi-AJVKjkm"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Alle porte di Ceuta blindate in attesa della nuova valanga: “Come prima di una guerra”",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/08/15/news/ceuta_ferragosto_reportage_attesa_migranti-425529914/",
-        "https://ilmanifesto.it/oggi-nuova-invasione-madrid-e-rabat-ci-credono",
-        "https://www.lastampa.it/esteri/2026/08/15/news/cannoni_ad_acqua_filo_spinato_e_militari_il_marocco_blinda_la_frontiera_di_ceuta-15715139/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Trovato morto a Londra Jason Arday, il professore di Cambridge accusato di plagio",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "lastampa.it",
-        "adnkronos.com",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/esteri/2026/08/15/news/trovato_morto_a_londra_jason_arday_il_professore_di_cambridge_accusato_di_plagio-15715302/",
-        "https://www.adnkronos.com/internazionale/esteri/jason-arday-professore-universita-cambridge-morto_4Ady23bKBEa0ZHKl4DIHu5",
-        "https://www.repubblica.it/esteri/2026/08/14/news/londra_morto_professore_cambridge_jason_arday_accusato_plagio-425529798/"
       ]
     }
   ]
