@@ -1,30 +1,9 @@
 {
   "date": "2026-08-15",
-  "generated_at": "Sat 15 Aug 07:39",
+  "generated_at": "Sat 15 Aug 08:39",
   "stories": [
     {
       "rank": 1,
-      "title": "«Torno a volare per te», Tamberi mantiene la promessa e vince l'oro europeo nel giorno del compleanno della figlia",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "repubblica.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "laverita.info",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/vari/2026/08/15/news/tamberi_oro_regalo_figlia_camilla_cosi_torno_a_volare-425529943/",
-        "https://www.adnkronos.com/sport/tamberi-oro-europei-scritta-braccio_5lTlWdmr2gByLvxVf7TtOV",
-        "https://www.liberoquotidiano.it/news/sport/48861367/europei-atletica-tamberi-oro-nel-salto-in-alto-sioli-bronzo/",
-        "https://www.laverita.info/storie-di-sport/tamberi-oro-salto-alto",
-        "https://www.ilfattoquotidiano.it/2026/08/14/europei-atletica-italia-medaglie-notizie/8479394/"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Caccia italiani abbattono un drone nei cieli baltici, Riga ringrazia",
       "source_count": 5,
       "article_count": 6,
@@ -41,6 +20,26 @@
         "https://www.repubblica.it/esteri/2026/08/15/news/drone_ucraina_lettonia_abbattuto_da_caccia_italiani-425529631/",
         "https://www.lastampa.it/esteri/2026/08/15/diretta/guerra_russia_ucraina_news_oggi-15715231/",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/14/caccia-italiani-abbattono-in-lettonia-un-drone-probabilmente-ucraino_96617dd2-1d09-4ac6-8f49-02883796ca08.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Iran, Teheran sfida Trump: \"Hormuz non si conquista con un tweet\"",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "laverita.info",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-trump-hormuz-negoziati-news-oggi_32Pe0wG3yZL1KWVx96ulKZ",
+        "https://www.laverita.info/geopolitica/trump-hormuz-territorio-usa",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/15/teheran-frena-trump-hormuz-non-puo-essere-conquistato-con-un-tweet_396ec6b5-deaa-4f2c-b707-d7b6aa18c5a6.html",
+        "https://www.adnkronos.com/internazionale/esteri/stretto-hormuz-donald-trump-iran-usa-oggi_6YPvqrvefAi65gTpCLmAJ",
+        "https://www.repubblica.it/esteri/2026/08/15/diretta/guerra_iran_usa_israele_news_oggi-425529976/"
       ]
     },
     {
@@ -85,25 +84,6 @@
     },
     {
       "rank": 5,
-      "title": "Iran, Teheran sfida Trump: \"Hormuz non si conquista con un tweet\"",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "adnkronos.com",
-        "laverita.info",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-trump-hormuz-negoziati-news-oggi_32Pe0wG3yZL1KWVx96ulKZ",
-        "https://www.laverita.info/geopolitica/trump-hormuz-territorio-usa",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/15/teheran-frena-trump-hormuz-non-puo-essere-conquistato-con-un-tweet_396ec6b5-deaa-4f2c-b707-d7b6aa18c5a6.html",
-        "https://www.adnkronos.com/internazionale/esteri/stretto-hormuz-donald-trump-iran-usa-oggi_6YPvqrvefAi65gTpCLmAJ",
-        "https://www.lastampa.it/esteri/2026/08/15/diretta/guerra_iran_usa_israele_news_oggi-15715228/"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Alle porte di Ceuta blindate in attesa della nuova valanga: “Come prima di una guerra”",
       "source_count": 4,
       "article_count": 4,
@@ -121,7 +101,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Battocletti, bis irresistibile: dopo i 5000 ecco i 10.000. Desalu bronzo nei 200",
       "source_count": 4,
       "article_count": 4,
@@ -139,7 +119,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Sicurezza, Piantedosi: \"Calo generalizzato dei reati, l'Italia si conferma come uno dei luoghi più sicuri al mondo\"",
       "source_count": 4,
       "article_count": 4,
@@ -157,7 +137,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Social vietati agli under 15 in Francia, no della Corte Costituzionale. Macron: «Riscriveremo la legge»",
       "source_count": 4,
       "article_count": 4,
@@ -175,19 +155,39 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Migranti, crollano del 37% gli arrivi irregolari nell’Unione europea",
-      "source_count": 3,
-      "article_count": 3,
+      "rank": 9,
+      "title": "Massimo Boldi cade e sbatte la testa sul marciapiede: ricoverato in ospedale a Livorno. L'incidente a Forte dei Marmi",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilsole24ore.com"
+        "lastampa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/14/tutti-gli-occhi-su-ceuta-e-melilla.-nellue-in-calo-gli-ingressi-irregolari_5782060d-3652-4d44-a79a-17226fb59cb7.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48858372/migranti-crollano-37-per-cento-arrivi-irregolari-ue/",
-        "https://www.ilsole24ore.com/art/migranti-crescono-rimpatri-34percento-primi-sei-mesi-AJVKjkm"
+        "https://www.lastampa.it/spettacoli/2026/08/15/news/massimo_boldi_ricoverato_caduta_forte_dei_marmi-15715354/",
+        "https://www.adnkronos.com/cronaca/massimo-boldi-caduta-forte-dei-marmi_3ZuQ4hDRSNqWfSbe1Qwd5X",
+        "https://www.ilmessaggero.it/persone/massimo_boldi_ricoverato_come_sta_ultime_notizie-9708199.html",
+        "https://www.agi.it/cronaca/news/2026-08-15/massimo-boldi-caduta-forte-dei-marmi-38545233/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Nadia Battocletti, chi è la regina dell'atletica italiana: dalla laurea in Ingegneria alla passione per il tennis, la storia della campionessa",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/battocletti-atleticaeuropei-birmingham_6eNAxGt6LSfy1V6OAuvWeJ",
+        "https://www.liberoquotidiano.it/news/sport/48861091/europei-atletica-storica-nadia-battocletti-oro-anche-10mila-metri/",
+        "https://www.ilfattoquotidiano.it/2026/08/14/europei-atletica-battocletti-oro-10km-notizie/8479570/",
+        "https://www.ilmessaggero.it/schede/nadia_battocletti_chi_e_origini_eta_altezza_oggi-9708124.html"
       ]
     }
   ]
