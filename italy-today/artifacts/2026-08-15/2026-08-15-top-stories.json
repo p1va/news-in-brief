@@ -1,6 +1,6 @@
 {
   "date": "2026-08-15",
-  "generated_at": "Sat 15 Aug 13:39",
+  "generated_at": "Sat 15 Aug 14:32",
   "stories": [
     {
       "rank": 1,
@@ -29,7 +29,7 @@
       "rank": 2,
       "title": "Terremoto in Indonesia, sisma di magnitudo 7,7 a largo isola di Flores: almeno 20 morti",
       "source_count": 6,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
         "ilfattoquotidiano.it",
         "lastampa.it",
@@ -40,36 +40,14 @@
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/08/15/terremoto-indonesia-morti-magnitudo-notizie/8479848/",
+        "https://www.ilfattoquotidiano.it/2026/08/15/terremoto-indonesia-magnitudo-7-7-morti-notizie/8479848/",
         "https://www.lastampa.it/esteri/2026/08/15/video/indonesia_terremoto_maumere_crollo_edificio_magnitudo_7_7-15715475/",
         "https://www.ansa.it/sito/videogallery/mondo/2026/08/15/terremoto-in-indonesia-i-morti-sono-almeno-20_261b015e-e094-41c3-bcaf-fe4466f00913.html",
-        "https://www.laverita.info/video/terremoto-indonesia-morti",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/15/terremoto-di-magnitudo-7.7-in-indonesia-sale-a-38-morti-il-bilancio-delle-vittime_662f7d1c-3c4b-427a-93c9-1f20b958b8d2.html"
+        "https://www.laverita.info/video/terremoto-indonesia-morti"
       ]
     },
     {
       "rank": 3,
-      "title": "Tamberi, un oro in regalo per sua figlia Camilla: “Così torno a volare”",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "lastampa.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "laverita.info",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/sport/2026/08/15/video/tamberi_abbraccio_moglie_figlia_camilla_oro_europei_birmingham-15715397/",
-        "https://www.ilmessaggero.it/sport/altrisport/tamberi_come_ha_vinto_oro_europei_atletica-9709223.html",
-        "https://www.repubblica.it/sport/vari/2026/08/15/news/tamberi_oro_regalo_figlia_camilla_cosi_torno_a_volare-425529943/",
-        "https://www.adnkronos.com/sport/tamberi-oro-europei-scritta-braccio_5lTlWdmr2gByLvxVf7TtOV",
-        "https://www.liberoquotidiano.it/news/sport/48861367/europei-atletica-tamberi-oro-nel-salto-in-alto-sioli-bronzo/"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Iran, Trump: \"Presto dichiarerò lo Stretto di Hormuz territorio Usa\"",
       "source_count": 6,
       "article_count": 7,
@@ -90,7 +68,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Massimo Boldi cade e sbatte la testa sul marciapiede: ricoverato in ospedale a Livorno. L'incidente a Forte dei Marmi",
       "source_count": 6,
       "article_count": 7,
@@ -111,7 +89,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Media: 'Il Marocco blocca centinaia di persone dirette a Ceuta'",
       "source_count": 5,
       "article_count": 7,
@@ -131,7 +109,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Caccia italiani abbattono un drone nei cieli baltici, Riga ringrazia",
       "source_count": 5,
       "article_count": 6,
@@ -151,7 +129,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Trovato morto a Londra Jason Arday, il professore di Cambridge accusato di plagio",
       "source_count": 5,
       "article_count": 5,
@@ -171,7 +149,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Europei di nuoto, Quadarella fa bis: è oro anche nei 1500 con record dei Campionati. “Felice, ma speravo di far meglio”",
       "source_count": 5,
       "article_count": 5,
@@ -191,7 +169,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Aeroporto di Catania, scende l’allerta per l’Etna: voli sospesi fino alle 14",
       "source_count": 5,
       "article_count": 5,
@@ -208,6 +186,25 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/nessuna-nube-lavica-sulletna-avviso-per-il-volo-passato-da-rosso-ad-arancione_d182f31c-80af-4337-9d14-1c63df9c9c07.html",
         "https://www.lastampa.it/cronaca/2026/08/15/news/etna_ancora_boati_e_lava_a_catania_stop_ai_voli_fino_alle_15_ma_non_si_escludono_nuovi_rinvii-15715322/",
         "https://www.ilmessaggero.it/italia/etna_erutta_aeroporto_catania_chiuso_ultime_notizie-9708148.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Fine del caldo, arriva la svolta meteo: temporali e temperature in calo da domani",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/italia/maltempo_dopo_ferragosto_dove_temporali_grandine_previsioni-9709409.html",
+        "https://www.ilmessaggero.it/schede/meteo_giuliacci_caldo_tregua_breve_nuova_fiammata_previsioni-9709382.html",
+        "https://www.adnkronos.com/cronaca/caldo-record-quanto-dura-previsioni-meteo-oggi-domani_5zGGDMnznYJ3H17ipTTAQ5",
+        "https://www.ilmessaggero.it/schede/caldo_fine_quando_aria_fresca_temporali_previsioni_meteo-9709308.html",
+        "https://www.repubblica.it/cronaca/2026/08/15/news/caldo_previsioni_fine_estate_fresco_ferragosto-425530258/"
       ]
     }
   ]
