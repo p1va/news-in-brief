@@ -1,12 +1,12 @@
 {
   "date": "2026-08-15",
-  "generated_at": "Sat 15 Aug 20:32",
+  "generated_at": "Sat 15 Aug 21:30",
   "stories": [
     {
       "rank": 1,
-      "title": "Cariche e lacrimogeni, Rabat blocca centinaia di migranti verso Ceuta",
-      "source_count": 9,
-      "article_count": 13,
+      "title": "Media: 'Il Marocco blocca centinaia di persone dirette a Ceuta'",
+      "source_count": 8,
+      "article_count": 11,
       "source_domains": [
         "liberoquotidiano.it",
         "ilmessaggero.it",
@@ -14,7 +14,6 @@
         "adnkronos.com",
         "laverita.info",
         "repubblica.it",
-        "ilfattoquotidiano.it",
         "lastampa.it",
         "ilmanifesto.it"
       ],
@@ -30,7 +29,7 @@
       "rank": 2,
       "title": "Terremoto in Indonesia, sisma di magnitudo 7,7 a largo isola di Flores: almeno 20 morti",
       "source_count": 6,
-      "article_count": 13,
+      "article_count": 12,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ansa.it",
@@ -94,23 +93,23 @@
     },
     {
       "rank": 5,
-      "title": "Massimo Boldi, come sta dopo il ricovero: l'ipotesi malore, la caduta e la testa sbattuta sul marciapiede. Trasferito a Livorno",
+      "title": "Europei nuoto: Martinenghi concede il bis e vince l'oro anche nei 50 rana",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
-        "ilfattoquotidiano.it",
+        "repubblica.it",
         "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
         "liberoquotidiano.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "agi.it"
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/15/massimo-boldi-ricoverato-dopo-una-caduta-a-forte-dei-marmi-lattore-ha-battuto-la-testa-sul-marciapiede/8479779/",
-        "https://www.ilmessaggero.it/persone/massimo_boldi_come_sta_malore_ricovero_caduta_forte_dei_marmi-9709369.html",
-        "https://www.liberoquotidiano.it/news/personaggi/48862293/massimo_boldi_cade_e_sbatte_la_testa_sul_marciapiede_ricoverato/",
-        "https://www.lastampa.it/spettacoli/2026/08/15/news/massimo_boldi_ricoverato_caduta_forte_dei_marmi-15715354/",
-        "https://www.adnkronos.com/cronaca/massimo-boldi-caduta-forte-dei-marmi_3ZuQ4hDRSNqWfSbe1Qwd5X"
+        "https://www.repubblica.it/sport/vari/2026/08/15/news/martinenghi_cerasuolo_medaglie_europei_nuoto-425530992/",
+        "https://www.ilmessaggero.it/sport/schede/medagliere_europei_nuoto_2026_italia_classifica_tutte_medaglie_vinte-9709552.html",
+        "https://www.ilfattoquotidiano.it/2026/08/15/europei-nuoto-martinenghi-oro-50rana-notizie/8479974/",
+        "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-martinenghi-concede-il-bis-e-vince-loro-anche-nei-50-rana_d5a08a6c-f384-48c8-a1ce-6afae74828d6.html",
+        "https://www.liberoquotidiano.it/news/sport/48866518/europei-nuoto-doppietta-azzurra-50-rana-martinenghi-oro-cerasuolo-argento/"
       ]
     },
     {
@@ -156,27 +155,6 @@
     },
     {
       "rank": 8,
-      "title": "Europei nuoto: Martinenghi concede il bis e vince l'oro anche nei 50 rana",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/schede/medagliere_europei_nuoto_2026_italia_classifica_tutte_medaglie_vinte-9709552.html",
-        "https://www.ilfattoquotidiano.it/2026/08/15/europei-nuoto-martinenghi-oro-50rana-notizie/8479974/",
-        "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-martinenghi-concede-il-bis-e-vince-loro-anche-nei-50-rana_d5a08a6c-f384-48c8-a1ce-6afae74828d6.html",
-        "https://www.liberoquotidiano.it/news/sport/48866518/europei-nuoto-doppietta-azzurra-50-rana-martinenghi-oro-cerasuolo-argento/",
-        "https://www.repubblica.it/sport/vari/2026/08/15/diretta/europei_nuoto_2026_medaglie_oggi-425530798/"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Iran, Teheran sfida Trump: \"Hormuz non si conquista con un tweet\"",
       "source_count": 5,
       "article_count": 6,
@@ -193,6 +171,26 @@
         "https://www.laverita.info/geopolitica/trump-hormuz-territorio-usa",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/15/teheran-frena-trump-hormuz-non-puo-essere-conquistato-con-un-tweet_396ec6b5-deaa-4f2c-b707-d7b6aa18c5a6.html",
         "https://www.adnkronos.com/internazionale/esteri/stretto-hormuz-donald-trump-iran-usa-oggi_6YPvqrvefAi65gTpCLmAJ"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Massimo Boldi, come sta dopo il ricovero: l'ipotesi malore, la caduta e la testa sbattuta sul marciapiede. Trasferito a Livorno",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/15/massimo-boldi-ricoverato-dopo-una-caduta-a-forte-dei-marmi-lattore-ha-battuto-la-testa-sul-marciapiede/8479779/",
+        "https://www.ilmessaggero.it/persone/massimo_boldi_come_sta_malore_ricovero_caduta_forte_dei_marmi-9709369.html",
+        "https://www.liberoquotidiano.it/news/personaggi/48862293/massimo_boldi_cade_e_sbatte_la_testa_sul_marciapiede_ricoverato/",
+        "https://www.lastampa.it/spettacoli/2026/08/15/news/massimo_boldi_ricoverato_caduta_forte_dei_marmi-15715354/",
+        "https://www.agi.it/cronaca/news/2026-08-15/massimo-boldi-caduta-forte-dei-marmi-38545233/"
       ]
     },
     {
