@@ -1,13 +1,14 @@
 {
   "date": "2026-08-15",
-  "generated_at": "Sat 15 Aug 19:29",
+  "generated_at": "Sat 15 Aug 20:32",
   "stories": [
     {
       "rank": 1,
-      "title": "Media: 'Il Marocco blocca centinaia di persone dirette a Ceuta'",
-      "source_count": 8,
-      "article_count": 12,
+      "title": "Cariche e lacrimogeni, Rabat blocca centinaia di migranti verso Ceuta",
+      "source_count": 9,
+      "article_count": 13,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "ansa.it",
         "adnkronos.com",
@@ -18,11 +19,11 @@
         "ilmanifesto.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/48867099/ceuta-cariche-lacrimogeni-disperdere-migranti-confine/",
         "https://www.ilmessaggero.it/mondo/migranti_ceuta_assalto_marocco_respinge_spagna_cosa_e_successo-9709533.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/15/cariche-e-lacrimogeni-rabat-blocca-centinaia-di-migranti-verso-ceuta_576bf0e9-6d55-4d19-83e2-c2b538dffcf8.html",
         "https://www.adnkronos.com/internazionale/esteri/ceuta-allerta-assalto-migranti-marocco-15-agosto_2kFwxdT9g5jDLKMz0ziovv",
-        "https://www.laverita.info/cronache-dellinvasione/ceuta-marocco-migranti-frontiera",
-        "https://www.repubblica.it/esteri/2026/08/15/news/ceuta_marocco_blocca_centinaia_di_migranti-425530428/"
+        "https://www.laverita.info/cronache-dellinvasione/ceuta-marocco-migranti-frontiera"
       ]
     },
     {
@@ -93,30 +94,9 @@
     },
     {
       "rank": 5,
-      "title": "Iran, Trump: \"Presto dichiarerò lo Stretto di Hormuz territorio Usa\"",
+      "title": "Massimo Boldi, come sta dopo il ricovero: l'ipotesi malore, la caduta e la testa sbattuta sul marciapiede. Trasferito a Livorno",
       "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "laverita.info",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/48865025/iran-trump-presto-dichiarero-lo-stretto-di-hormuz-territorio-usa-/",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-trump-hormuz-negoziati-news-oggi_32Pe0wG3yZL1KWVx96ulKZ",
-        "https://www.laverita.info/geopolitica/trump-hormuz-territorio-usa",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/15/teheran-frena-trump-hormuz-non-puo-essere-conquistato-con-un-tweet_396ec6b5-deaa-4f2c-b707-d7b6aa18c5a6.html",
-        "https://www.adnkronos.com/internazionale/esteri/stretto-hormuz-donald-trump-iran-usa-oggi_6YPvqrvefAi65gTpCLmAJ"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Massimo Boldi cade e sbatte la testa sul marciapiede: ricoverato in ospedale a Livorno. L'incidente a Forte dei Marmi",
-      "source_count": 6,
-      "article_count": 7,
+      "article_count": 6,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
@@ -134,7 +114,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Etna, l'aeroporto di Catania verso la normalità",
       "source_count": 5,
       "article_count": 7,
@@ -154,7 +134,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Scossa di magnitudo 3.9 nel Catanese: danni a una strada, nessun ferito",
       "source_count": 6,
       "article_count": 6,
@@ -175,7 +155,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Europei nuoto: Martinenghi concede il bis e vince l'oro anche nei 50 rana",
       "source_count": 6,
       "article_count": 6,
@@ -196,23 +176,43 @@
       ]
     },
     {
+      "rank": 9,
+      "title": "Iran, Teheran sfida Trump: \"Hormuz non si conquista con un tweet\"",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "laverita.info",
+        "ansa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/48865025/iran-trump-presto-dichiarero-lo-stretto-di-hormuz-territorio-usa-/",
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-trump-hormuz-negoziati-news-oggi_32Pe0wG3yZL1KWVx96ulKZ",
+        "https://www.laverita.info/geopolitica/trump-hormuz-territorio-usa",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/15/teheran-frena-trump-hormuz-non-puo-essere-conquistato-con-un-tweet_396ec6b5-deaa-4f2c-b707-d7b6aa18c5a6.html",
+        "https://www.adnkronos.com/internazionale/esteri/stretto-hormuz-donald-trump-iran-usa-oggi_6YPvqrvefAi65gTpCLmAJ"
+      ]
+    },
+    {
       "rank": 10,
-      "title": "Battocletti, bis irresistibile: dopo i 5000 ecco i 10.000. Desalu bronzo nei 200",
+      "title": "Affitti brevi, spuntano le “case pollaio”: 17 turisti in un alloggio per 9, multe per 48mila euro",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ansa.it",
-        "laverita.info",
-        "adnkronos.com"
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com",
+        "agi.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/sport/48864100/l_italia_e_straordi_nadia_/",
-        "https://www.repubblica.it/sport/vari/2026/08/15/news/battocletti_bis_irresistibile_dopo_5000_10000_desalu_bronzo_nei_200-425529961/",
-        "https://www.ansa.it/sito/notizie/sport/2026/08/15/quadarella-e-battocletti-regine-deuropa-tamberi-una-leggenda_5a525e79-db38-4b47-b089-325fe108dd1b.html",
-        "https://www.laverita.info/storie-di-sport/battocletti-quadarella-doppietta-oro-europei",
-        "https://www.adnkronos.com/sport/battocletti-atleticaeuropei-birmingham_6eNAxGt6LSfy1V6OAuvWeJ"
+        "https://www.lastampa.it/cronaca/2026/08/15/video/gallipoli_case_pollaio_affitti_brevi_17_ragazzi_appartamento_multe-15715451/",
+        "https://www.ilfattoquotidiano.it/2026/08/15/affitti-brevi-gallipoli-blitz-guardia-finanza-notizie/8479419/",
+        "https://www.ilmessaggero.it/italia/gallipoli_case_vacanze_pollaio-9709199.html",
+        "https://www.ilsole24ore.com/art/affitti-brevi-blitz-guardia-finanza-contro-case-pollaio-gallipoli-AJgWb6m",
+        "https://www.agi.it/cronaca/news/2026-08-15/salento-vacanze-case-pollaio-38552016/"
       ]
     }
   ]
