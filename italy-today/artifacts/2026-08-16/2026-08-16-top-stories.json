@@ -1,12 +1,12 @@
 {
   "date": "2026-08-16",
-  "generated_at": "Sun 16 Aug 14:32",
+  "generated_at": "Sun 16 Aug 15:31",
   "stories": [
     {
       "rank": 1,
       "title": "Furto al Mume, rubate quattro opere di Antonello da Messina: indagini in corso",
-      "source_count": 9,
-      "article_count": 15,
+      "source_count": 10,
+      "article_count": 16,
       "source_domains": [
         "ilfattoquotidiano.it",
         "palermo.repubblica.it",
@@ -16,7 +16,8 @@
         "laverita.info",
         "ilmessaggero.it",
         "ilsole24ore.com",
-        "agi.it"
+        "agi.it",
+        "news.google.com"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/08/16/furto-museo-messina-antonello-notizie/8480196/",
@@ -28,12 +29,13 @@
     },
     {
       "rank": 2,
-      "title": "Aggressione fuori da un locale a Barcellona, 21enne italiano in coma farmacologico",
-      "source_count": 7,
-      "article_count": 8,
+      "title": "Turisti italiani aggrediti a Barcellona, ragazzo di 21 anni in coma farmacologico: «Colpito alla nuca»",
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
         "ilmessaggero.it",
         "adnkronos.com",
+        "liberoquotidiano.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
@@ -41,11 +43,11 @@
         "agi.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/italia/nicola_maggiotta_italiani_aggrediti_barcellona_ceuta_migranti_cosa_e_successo_ultime_notizie-9709895.html",
         "https://www.ilmessaggero.it/italia/nicola_maggiotto_italiano_coma_barcellona_rissa_chi_e_cosa_e_successo_ultime_notizie-9709847.html",
         "https://www.adnkronos.com/internazionale/esteri/nicola-maggiotto-aggredito-barcellona-comdozioni_kvlxqmIeMfZgGWnq3QGNL",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/italiani-aggrediti-a-barcellona-un-21enne-in-coma-farmacologico_485dcb93-9377-4e68-8525-c67b1595d987.html",
-        "https://www.ilfattoquotidiano.it/2026/08/16/italiano-coma-barcellona-aggressione-notizie/8480132/",
-        "https://www.repubblica.it/cronaca/2026/08/16/news/italiani_aggrediti_barcellona_ragazzo_coma-425531398/"
+        "https://www.liberoquotidiano.it/news/esteri/48869868/21enne-italiano-in-coma-a-barcellona-colpito-alla-nuca-il-pestaggio-in-vacanza/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/italiani-aggrediti-a-barcellona-un-21enne-in-coma-farmacologico_485dcb93-9377-4e68-8525-c67b1595d987.html"
       ]
     },
     {
@@ -92,27 +94,6 @@
     },
     {
       "rank": 5,
-      "title": "Europei di nuoto: Martinenghi concede il bis e vince l'oro anche nei 50 rana",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-martinenghi-concede-il-bis-e-vince-loro-anche-nei-50-rana_d5a08a6c-f384-48c8-a1ce-6afae74828d6.html",
-        "https://www.repubblica.it/sport/vari/2026/08/15/news/martinenghi_cerasuolo_medaglie_europei_nuoto-425530992/",
-        "https://www.ilmessaggero.it/sport/schede/medagliere_europei_nuoto_2026_italia_classifica_tutte_medaglie_vinte-9709552.html",
-        "https://www.ilfattoquotidiano.it/2026/08/15/europei-nuoto-martinenghi-oro-50rana-notizie/8479974/",
-        "https://www.liberoquotidiano.it/news/sport/48866518/europei-nuoto-doppietta-azzurra-50-rana-martinenghi-oro-cerasuolo-argento/"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Ungheria, autobus si ribalta e finisce in un fossato: 12 morti e 10 feriti",
       "source_count": 6,
       "article_count": 6,
@@ -133,7 +114,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Ranucci, legali Lavitola: «Anche lui aveva chiesto di aumentare la scorta». Richieste di riesame e nuovo interrogatorio per l'imprenditore",
       "source_count": 6,
       "article_count": 6,
@@ -154,7 +135,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Europei atletica: argento a Pietro Riva nella maratona",
       "source_count": 5,
       "article_count": 6,
@@ -174,7 +155,46 @@
       ]
     },
     {
+      "rank": 8,
+      "title": "Sinner, compleanno a Montecarlo: \"Grazie a tutti per gli auguri\"",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/sinner-auguri-compleanno-messaggio-festa-montecarlo_7yuMPmsXjI8KhEK6zp17Yl",
+        "https://www.ilmessaggero.it/sport/schede/jannik_sinner_compleanno_come_ha_festeggiato_montecarlo_ferragosto_ospedale_torino_ginocchio-9709855.html",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/16/sinner-festeggia-25-annigli-auguri-della-federtennis-italia-ti-ama-ed-e-pazza-di-te_3fa867f4-686d-43e9-8b16-6c24b377d483.html",
+        "https://www.repubblica.it/sport/dossier/us-open-tennis/2026/08/16/news/compleanno_sinner_come_sta-425530946/",
+        "https://www.ilmessaggero.it/sport/tennis/sinner_compleanno_come_festeggia_eta_ranking_come_sta-9709584.html"
+      ]
+    },
+    {
       "rank": 9,
+      "title": "Europei di nuoto: Martinenghi concede il bis e vince l'oro anche nei 50 rana",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/15/europei-nuoto-martinenghi-concede-il-bis-e-vince-loro-anche-nei-50-rana_d5a08a6c-f384-48c8-a1ce-6afae74828d6.html",
+        "https://www.repubblica.it/sport/vari/2026/08/15/news/martinenghi_cerasuolo_medaglie_europei_nuoto-425530992/",
+        "https://www.ilmessaggero.it/sport/schede/medagliere_europei_nuoto_2026_italia_classifica_tutte_medaglie_vinte-9709552.html",
+        "https://www.ilfattoquotidiano.it/2026/08/15/europei-nuoto-martinenghi-oro-50rana-notizie/8479974/",
+        "https://www.liberoquotidiano.it/news/sport/48866518/europei-nuoto-doppietta-azzurra-50-rana-martinenghi-oro-cerasuolo-argento/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Cariche e lacrimogeni, il Marocco blocca centinaia di migranti verso Ceuta",
       "source_count": 5,
       "article_count": 5,
@@ -191,26 +211,6 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/08/15/cariche-e-lacrimogeni-rabat-blocca-centinaia-di-migranti-verso-ceuta_576bf0e9-6d55-4d19-83e2-c2b538dffcf8.html",
         "https://www.liberoquotidiano.it/news/libero-video/48867099/ceuta-cariche-lacrimogeni-disperdere-migranti-confine/",
         "https://www.ilmessaggero.it/mondo/migranti_ceuta_assalto_marocco_respinge_spagna_cosa_e_successo-9709533.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Milano, 19enne all'uscita discoteca denuncia: \"Mi hanno violentata\"",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "milano.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/milano-19enne-alluscita-discoteca-denuncia-mi-hanno-violentata_oYyJsmRqMJHVZLJD0zQG1",
-        "https://www.ilfattoquotidiano.it/2026/08/16/stupro-corso-como-milano-discoteca-notizie/8480123/",
-        "https://www.ilmessaggero.it/italia/ragazza_violentata_milano_discoteca_ferragosto_ultime_notizie-9709773.html",
-        "https://milano.repubblica.it/cronaca/2026/08/16/news/violenza_sessuale_ragazza_diciannovenne_corso_como_uomo_conosciuto_discoteca-425531166/",
-        "https://www.lastampa.it/cronaca/2026/08/16/news/diciannovenne_denuncia_violenza_sessuale_dopo_una_serata_in_discoteca_mi_ha_aggredito_sul_retro-15715703/"
       ]
     }
   ]
