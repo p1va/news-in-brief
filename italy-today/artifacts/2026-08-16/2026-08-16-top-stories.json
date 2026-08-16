@@ -1,17 +1,18 @@
 {
   "date": "2026-08-16",
-  "generated_at": "Sun 16 Aug 09:37",
+  "generated_at": "Sun 16 Aug 10:32",
   "stories": [
     {
       "rank": 1,
       "title": "Furto al museo regionale di Messina, trafugate opere di Antonello",
-      "source_count": 9,
-      "article_count": 12,
+      "source_count": 10,
+      "article_count": 14,
       "source_domains": [
         "adnkronos.com",
         "ansa.it",
         "laverita.info",
         "repubblica.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it",
@@ -70,32 +71,13 @@
     },
     {
       "rank": 4,
-      "title": "Cariche e lacrimogeni, il Marocco blocca centinaia di migranti verso Ceuta",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/ceuta-spagna-marocco-migranti_3yzFPJPFnda6pQ5glu3TtX",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/15/cariche-e-lacrimogeni-rabat-blocca-centinaia-di-migranti-verso-ceuta_576bf0e9-6d55-4d19-83e2-c2b538dffcf8.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48867099/ceuta-cariche-lacrimogeni-disperdere-migranti-confine/",
-        "https://www.ilmessaggero.it/mondo/migranti_ceuta_assalto_marocco_respinge_spagna_cosa_e_successo-9709533.html",
-        "https://www.repubblica.it/esteri/2026/08/15/news/ceuta_marocco_blocca_centinaia_di_migranti-425530428/"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Ornella Forastefano, donna di 46 anni uccisa nel Cosentino: «Picchiata selvaggiamente». Il corpo lasciato vicino un ospedale. Ricercato il compagno",
-      "source_count": 5,
-      "article_count": 5,
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
         "adnkronos.com",
         "ilfattoquotidiano.it",
+        "repubblica.it",
         "ansa.it",
         "ilmessaggero.it",
         "lastampa.it"
@@ -103,9 +85,29 @@
       "links": [
         "https://www.adnkronos.com/cronaca/donna-morta-ornella-forastefano-trebisacce_2hDPpdfQ85miiGtsAWGtcp",
         "https://www.ilfattoquotidiano.it/2026/08/16/aggredita-e-abbandonata-davanti-allospedale-in-agonia-morta-un-46enne-ricercato-il-marito/8480051/",
+        "https://www.repubblica.it/cronaca/2026/08/16/news/femminicidio_donna_uccisa_cosentino-425531256/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/donna-uccisa-nella-notte-nel-cosentino-ricercato-il-compagno_3aa78aae-54f2-4272-98b9-c08ad3e5c9b6.html",
-        "https://www.ilmessaggero.it/italia/ornella_forastefano_donna_uccisa_cosenza_chi_era_compagno_albanese-9709708.html",
-        "https://www.lastampa.it/cronaca/2026/08/16/news/donna_trovata_morta_davanti_all_ospedale_di_trebisacce_i_carabinieri_cercano_un_uomo-15715691/"
+        "https://www.ilmessaggero.it/italia/ornella_forastefano_donna_uccisa_cosenza_chi_era_compagno_albanese-9709708.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Europei atletica: argento a Pietro Riva nella maratona",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/08/16/europei-atletica-argento-a-pietro-riva-nella-maratona_e27d04ba-fb39-4c41-989b-48f7a7a0f449.html",
+        "https://www.adnkronos.com/sport/atletica-europei-italia-risultati-oggi_6M4SwC3NdjuHbfHxueC645",
+        "https://www.repubblica.it/sport/vari/2026/08/16/news/riva_argento_maratona_europei_atletica_2026-425531269/",
+        "https://www.ilfattoquotidiano.it/2026/08/16/europei-atletica-pietro-riva-maratona-notizie/8480063/",
+        "https://www.lastampa.it/sport/2026/08/16/news/europei_medaglie_italia-15715719/"
       ]
     },
     {
@@ -183,20 +185,20 @@
     },
     {
       "rank": 10,
-      "title": "Genova, accoltella la sorella e poi cade dalla finestra del quinto piano: morto 26enne",
+      "title": "Guerra Ucraina-Russia, notte di attacchi: droni su Mosca e missili su Kiev",
       "source_count": 4,
       "article_count": 4,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "agi.it"
+        "laverita.info",
+        "adnkronos.com",
+        "ansa.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/italia/48865574/genova-accoltella-sorella-poi-cade-balcone-morto-sul-colpo-26-anni/",
-        "https://www.ilfattoquotidiano.it/2026/08/15/accoltellamento-genova-precipita-finestra-notizie/8479887/",
-        "https://www.lastampa.it/cronaca/2026/08/15/news/accoltella_la_sorella_poi_precipita_dalla_finestra_e_muore_a_26_anni-15715490/",
-        "https://www.agi.it/cronaca/news/2026-08-15/genova-accoltella-sorella-finestra-38552394/"
+        "https://www.laverita.info/mondo/guerra-ucraina-russia-droni-mosca",
+        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-news-oggi-16-agosto-2026_54K4xLlnkI9gd6YQOnsL5v",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/16/oltre-600-droni-ucraini-lanciati-contro-mosca-nella-notte_11aaae52-1c29-461e-b386-8f7c58516060.html",
+        "https://www.repubblica.it/esteri/2026/08/16/diretta/guerra_ucraina_russia_news_oggi-425531035/"
       ]
     }
   ]
