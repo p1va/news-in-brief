@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "generated_at": "Sun 16 Aug 11:29",
+  "generated_at": "Sun 16 Aug 12:53",
   "stories": [
     {
       "rank": 1,
@@ -92,6 +92,48 @@
     },
     {
       "rank": 5,
+      "title": "Ungheria, autobus si ribalta e finisce in un fossato: 12 morti e 10 feriti",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/16/ungheria-autobus-si-ribalta-di-ritorno-da-un-pellegrinaggio-12-morti-e-10-feriti-arrestato-lautista/8480152/",
+        "https://www.repubblica.it/esteri/2026/08/16/news/ungheria_autobus_si_ribalta_autostrada_precipita_fosso_12_morti_decine_feriti-425531252/",
+        "https://www.ilmessaggero.it/mondo/ungheria_morti_incidente_autobus_cosa_e_successo-9709670.html",
+        "https://www.adnkronos.com/internazionale/esteri/ungheria-incidente-autous_NF2LZy0p41OQc6pGvFWhn",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/16/un-autobus-si-e-ribaltato-in-ungheria-12-morti-e-almeno-10-feriti-gravi_ab2e8296-cf89-49f7-8172-e943b34d8cdd.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Aggressione fuori da un locale a Barcellona, 21enne italiano in coma farmacologico",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/nicola-maggiotto-aggredito-barcellona-comdozioni_kvlxqmIeMfZgGWnq3QGNL",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/italiani-aggrediti-a-barcellona-un-21enne-in-coma-farmacologico_485dcb93-9377-4e68-8525-c67b1595d987.html",
+        "https://www.ilfattoquotidiano.it/2026/08/16/italiano-coma-barcellona-aggressione-notizie/8480132/",
+        "https://www.repubblica.it/cronaca/2026/08/16/news/italiani_aggrediti_barcellona_ragazzo_coma-425531398/",
+        "https://www.ilmessaggero.it/mondo/turisti_italiani_aggressione_barcellona_nicola_maggiotto_coma_cosa_e_successo-9709783.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Europei atletica: argento a Pietro Riva nella maratona",
       "source_count": 5,
       "article_count": 6,
@@ -111,27 +153,27 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Ungheria, autobus si ribalta e finisce in un fossato: 12 morti e 10 feriti",
+      "rank": 8,
+      "title": "Cariche e lacrimogeni, il Marocco blocca centinaia di migranti verso Ceuta",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "repubblica.it",
-        "ilmessaggero.it",
+        "laverita.info",
         "adnkronos.com",
         "ansa.it",
-        "lastampa.it"
+        "liberoquotidiano.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.repubblica.it/esteri/2026/08/16/news/ungheria_autobus_si_ribalta_autostrada_precipita_fosso_12_morti_decine_feriti-425531252/",
-        "https://www.ilmessaggero.it/mondo/ungheria_morti_incidente_autobus_cosa_e_successo-9709670.html",
-        "https://www.adnkronos.com/internazionale/esteri/ungheria-incidente-autous_NF2LZy0p41OQc6pGvFWhn",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/16/un-autobus-si-e-ribaltato-in-ungheria-12-morti-e-almeno-10-feriti-gravi_ab2e8296-cf89-49f7-8172-e943b34d8cdd.html",
-        "https://www.lastampa.it/esteri/2026/08/16/video/ungheria_bus_polacco_esce_di_strada_si_ribalta_12_morti-15715689/"
+        "https://www.laverita.info/video/ceuta-spiaggia-migranti",
+        "https://www.adnkronos.com/internazionale/esteri/ceuta-spagna-marocco-migranti_3yzFPJPFnda6pQ5glu3TtX",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/15/cariche-e-lacrimogeni-rabat-blocca-centinaia-di-migranti-verso-ceuta_576bf0e9-6d55-4d19-83e2-c2b538dffcf8.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48867099/ceuta-cariche-lacrimogeni-disperdere-migranti-confine/",
+        "https://www.ilmessaggero.it/mondo/migranti_ceuta_assalto_marocco_respinge_spagna_cosa_e_successo-9709533.html"
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Ranucci, legali Lavitola: «Anche lui aveva chiesto di aumentare la scorta». Richieste di riesame e nuovo interrogatorio per l'imprenditore",
       "source_count": 5,
       "article_count": 5,
@@ -151,7 +193,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Meteo, cambia tutto: dopo l'afa arrivano i temporali﻿",
       "source_count": 4,
       "article_count": 5,
@@ -167,42 +209,6 @@
         "https://www.adnkronos.com/internazionale/esteri/meteo-caldo-record-maltempo-previsioni_1nRSyHqxIev0iGTu5UmRqh",
         "https://www.ilmessaggero.it/schede/caldo_maltempo_temporali_grandine_anticiclone_africano_previsioni_meteo-9709595.html",
         "https://www.ilsole24ore.com/art/maltempo-arriva-svolta-oggi-allerta-gialla-10-regioni-AJfGrTn"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Terremoto, scossa di magnitudo 3.9 a Linguaglossa nel catanese",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/15/terremoto-3-9-a-linguaglossa-catania-fratturata-la-strada-per-piano-provenzana/8479908/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/15/terremoti-scossa-di-magnitudo-3.9-nel-catanese_4140f767-de17-4318-96c8-4da8427d1f98.html",
-        "https://www.ilmessaggero.it/italia/terremoto_sicilia_catania_magnitudo_strada_interrotta_linguaglossa_moio_alcantara_2026-9709439.html",
-        "https://www.ilsole24ore.com/art/terremoti-scossa-magnitudo-39-linguaglossa-catanese-AJvUQ9m"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Sinner compie 25 anni: dalle montagne a Wimbledon, la scalata di un ragazzo diventato numero 1 al mondo",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/16/sinner-festeggia-25-annigli-auguri-della-federtennis-italia-ti-ama-ed-e-pazza-di-te_3fa867f4-686d-43e9-8b16-6c24b377d483.html",
-        "https://www.repubblica.it/sport/dossier/us-open-tennis/2026/08/16/news/compleanno_sinner_come_sta-425530946/",
-        "https://www.ilmessaggero.it/sport/tennis/sinner_compleanno_come_festeggia_eta_ranking_come_sta-9709584.html",
-        "https://www.adnkronos.com/sport/sinner-come-sta-ospedale-infortunio-compleanno_14pLo0xxIX8RtGOIDT1ab7"
       ]
     }
   ]
