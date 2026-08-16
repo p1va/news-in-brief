@@ -1,6 +1,6 @@
 {
   "date": "2026-08-16",
-  "generated_at": "Sun 16 Aug 19:29",
+  "generated_at": "Sun 16 Aug 20:32",
   "stories": [
     {
       "rank": 1,
@@ -52,21 +52,23 @@
     },
     {
       "rank": 3,
-      "title": "Europei di nuoto: Benedetta Pilato medaglia d'argento nei 50 rana",
-      "source_count": 4,
-      "article_count": 11,
+      "title": "Europei di nuoto: Simona Quadarella domina a Parigi, dopo 800 e 1500 vince l'oro anche nei 400 stile libero",
+      "source_count": 6,
+      "article_count": 13,
       "source_domains": [
+        "laverita.info",
         "ansa.it",
-        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
         "lastampa.it",
         "repubblica.it"
       ],
       "links": [
+        "https://www.laverita.info/storie-di-sport/quadarella-oro-400-stile-libero",
+        "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-di-nuoto-quadarella-domina-litalia-saluta-parigi-da-grande_50bb406b-3051-4bc7-9439-d1187708e7a4.html",
         "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-di-nuoto-simona-quadarella-domina-a-parigi-dopo-800-e-1500-vince_50bb406b-3051-4bc7-9439-d1187708e7a4.html",
         "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-di-nuoto-simona-quadarella-medaglia-doro-anche-nei-400-stile_50bb406b-3051-4bc7-9439-d1187708e7a4.html",
-        "https://www.adnkronos.com/sport/curtis-social-boom-europei-nuoto-battocletti-tamberi_3tjxL2ad9ZznwSpQMlFKXX",
-        "https://www.ansa.it/sito/notizie/flash/2026/08/16/-europei-nuoto-ceccon-medaglia-dargento-nei-100-dorso-_71327212-ec53-47bf-a9aa-7757717d6de2.html",
-        "https://www.ansa.it/sito/notizie/sport/nuoto/2026/08/16/europei-di-nuoto-benedetta-pilato-medaglia-dargento-nei-50-rana_50bb406b-3051-4bc7-9439-d1187708e7a4.html"
+        "https://www.liberoquotidiano.it/news/sport/48871313/europei-nuoto-quadarella-ancora-oro-400-stile-mi-impressiona-costanza/"
       ]
     },
     {
@@ -174,6 +176,25 @@
     },
     {
       "rank": 9,
+      "title": "Medagliere Europei di atletica 2026: da Tamberi a Andy Diaz, tutte le medaglie degli azzurri",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/schede/medagliere_europei_atletica_medaglie_azzurri-9710108.html",
+        "https://www.repubblica.it/sport/vari/2026/08/16/news/medagliere_europei_atletica_2026-425531349/",
+        "https://www.repubblica.it/sport/vari/2026/08/16/news/andy_diaz_andrea_dallavalle_medaglie_europei-425531017/",
+        "https://www.ilfattoquotidiano.it/2026/08/15/europei-atletica-andy-diaz-salto-triplo-notizie/8480003/",
+        "https://www.laverita.info/storie-di-sport/andy-diaz-record-italiano"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Palio di Siena, esposta bandiera verde: rinviato a domani per maltempo",
       "source_count": 4,
       "article_count": 6,
@@ -189,25 +210,6 @@
         "https://www.adnkronos.com/sport/palio-di-siena-oggi-rinviato-decisione-quando-si-corre_1uCQzTUOVTxn0jyCO1EHYt",
         "https://www.adnkronos.com/cronaca/palio-di-siena-oggi-16-agosto-news_4pPDpsrcwL8v51o0qRDtHf",
         "https://www.adnkronos.com/sport/palio-siena-oggi-16-agosto-diretta-tv-in-chiaro-orario-contrade-cavalli-fantini_5D3U1BNj64IxlUGZ6AKI5H"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Noicattaro, terzo bambino azzannato nel giro di pochi giorni: «È un lupo» e il sindaco chiude i parchi. Ricerche anche con i droni",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "bari.repubblica.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/noicattaro_lupi_bambino_azzannato_ultime_notizie-9709916.html",
-        "https://www.ilmessaggero.it/italia/lupi_noicattaro_bambini_azzannati_ultima_ora-9709916.html",
-        "https://www.ilmessaggero.it/italia/lupo_noicattaro_bambini_azzannati_ultima_ora-9709916.html",
-        "https://www.ilfattoquotidiano.it/2026/08/16/un-bimbo-aggredito-aggredito-da-un-animale-selvatico-a-noicattaro-bari-e-il-terzo-il-sindaco-chiude-i-parchi/8480195/",
-        "https://www.liberoquotidiano.it/news/italia/48869643/noicottaro-azzannato-un-bimbo-di-6-anni-il-lupo-che-terrorizza-la-puglia-scatta-la-task-force/"
       ]
     }
   ]
