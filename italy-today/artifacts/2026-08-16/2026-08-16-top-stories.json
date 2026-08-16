@@ -1,55 +1,75 @@
 {
   "date": "2026-08-16",
-  "generated_at": "Sun 16 Aug 12:53",
+  "generated_at": "Sun 16 Aug 13:39",
   "stories": [
     {
       "rank": 1,
-      "title": "Furto al museo regionale di Messina, trafugate opere di Antonello",
-      "source_count": 10,
-      "article_count": 14,
+      "title": "Furto al Mume, rubate quattro opere di Antonello da Messina: indagini in corso",
+      "source_count": 9,
+      "article_count": 13,
       "source_domains": [
+        "lastampa.it",
         "adnkronos.com",
         "ansa.it",
         "laverita.info",
         "repubblica.it",
-        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "lastampa.it",
         "ilsole24ore.com",
         "agi.it"
       ],
       "links": [
+        "https://www.lastampa.it/cronaca/2026/08/16/video/antonello_da_messina_opere_rubate_museo_polittico_san_gregorio_tavoletta_bifronte-15715762/",
         "https://www.adnkronos.com/cronaca/antonello-da-messina-opere-rubate-furto-mume_65Zjfzikrf1JOylLXXjqXr",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/furto-al-museo-rubate-opere-di-antonello-da-messina_d316b5fe-3a2d-489a-8f6a-544d5566e684.html",
         "https://www.laverita.info/caccia-al-tesoro/furto-museo-messina",
-        "https://www.adnkronos.com/cronaca/furto-museo-mume-opere-antonello-da-messina_3qN2jo9JVqddW3c27Kt4cR",
-        "https://www.repubblica.it/cultura/2026/08/16/news/le_opere_rubate_di_antonello_da_messina_capolavori_del_nostro_quattrocento-425531149/"
+        "https://www.adnkronos.com/cronaca/furto-museo-mume-opere-antonello-da-messina_3qN2jo9JVqddW3c27Kt4cR"
       ]
     },
     {
       "rank": 2,
-      "title": "Donna uccisa nella notte nel cosentino, ricercato il compagno",
+      "title": "Ornella Forastefano, donna di 46 anni uccisa nel Cosentino: «Picchiata selvaggiamente». Il corpo lasciato vicino un ospedale. Ricercato il compagno",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ilmessaggero.it",
         "ansa.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "repubblica.it",
-        "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/italia/ornella_forastefano_uccisa_cosenza_chi_e_ultime_notizie-9709856.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/donna-uccisa-nel-cosentino-il-compagno-rintracciato-al-porto-di-bari_3aa78aae-54f2-4272-98b9-c08ad3e5c9b6.html",
         "https://www.adnkronos.com/cronaca/donna-morta-ornella-forastefano-trebisacce_2hDPpdfQ85miiGtsAWGtcp",
         "https://www.ilfattoquotidiano.it/2026/08/16/aggredita-e-abbandonata-davanti-allospedale-in-agonia-morta-un-46enne-ricercato-il-marito/8480051/",
-        "https://www.repubblica.it/cronaca/2026/08/16/news/femminicidio_donna_uccisa_cosentino-425531256/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/donna-uccisa-nella-notte-nel-cosentino-ricercato-il-compagno_3aa78aae-54f2-4272-98b9-c08ad3e5c9b6.html"
+        "https://www.repubblica.it/cronaca/2026/08/16/news/femminicidio_donna_uccisa_cosentino-425531256/"
       ]
     },
     {
       "rank": 3,
+      "title": "Aggressione fuori da un locale a Barcellona, 21enne italiano in coma farmacologico",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/italia/nicola_maggiotto_italiano_coma_barcellona_rissa_chi_e_cosa_e_successo_ultime_notizie-9709847.html",
+        "https://www.adnkronos.com/internazionale/esteri/nicola-maggiotto-aggredito-barcellona-comdozioni_kvlxqmIeMfZgGWnq3QGNL",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/italiani-aggrediti-a-barcellona-un-21enne-in-coma-farmacologico_485dcb93-9377-4e68-8525-c67b1595d987.html",
+        "https://www.ilfattoquotidiano.it/2026/08/16/italiano-coma-barcellona-aggressione-notizie/8480132/",
+        "https://www.repubblica.it/cronaca/2026/08/16/news/italiani_aggrediti_barcellona_ragazzo_coma-425531398/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Fantastico Diaz, oro e record italiano nel triplo. Dallavalle è bronzo, 7 medaglie in un giorno",
       "source_count": 6,
       "article_count": 6,
@@ -70,7 +90,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Europei di nuoto: Martinenghi concede il bis e vince l'oro anche nei 50 rana",
       "source_count": 6,
       "article_count": 6,
@@ -91,7 +111,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Ungheria, autobus si ribalta e finisce in un fossato: 12 morti e 10 feriti",
       "source_count": 6,
       "article_count": 6,
@@ -112,28 +132,28 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Aggressione fuori da un locale a Barcellona, 21enne italiano in coma farmacologico",
+      "rank": 7,
+      "title": "Ranucci, legali Lavitola: «Anche lui aveva chiesto di aumentare la scorta». Richieste di riesame e nuovo interrogatorio per l'imprenditore",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
         "adnkronos.com",
-        "ansa.it",
         "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "liberoquotidiano.it",
+        "ansa.it",
+        "roma.repubblica.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.adnkronos.com/internazionale/esteri/nicola-maggiotto-aggredito-barcellona-comdozioni_kvlxqmIeMfZgGWnq3QGNL",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/italiani-aggrediti-a-barcellona-un-21enne-in-coma-farmacologico_485dcb93-9377-4e68-8525-c67b1595d987.html",
-        "https://www.ilfattoquotidiano.it/2026/08/16/italiano-coma-barcellona-aggressione-notizie/8480132/",
-        "https://www.repubblica.it/cronaca/2026/08/16/news/italiani_aggrediti_barcellona_ragazzo_coma-425531398/",
-        "https://www.ilmessaggero.it/mondo/turisti_italiani_aggressione_barcellona_nicola_maggiotto_coma_cosa_e_successo-9709783.html"
+        "https://www.adnkronos.com/cronaca/attentato-ranucci-lavitola-dettaglio-scorta-legale_15zLdvtYCJOIJRkbXmR0ZL",
+        "https://www.ilfattoquotidiano.it/2026/08/16/caso-ranucci-lavitola-scorta-interrogatorio-notizie/8480099/",
+        "https://www.liberoquotidiano.it/news/italia/48869646/l-avvocato-di-lavitola-ranucci-potrebbe-aver-capito-chi-fosse-il-mandante-/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/i-legali-valter-lavitola-anche-ranucci-aveva-chiesto-di-aumentare-la-scorta_eec0a77e-e43b-4420-9f99-1cf6ffd88f13.html",
+        "https://roma.repubblica.it/cronaca/2026/08/16/news/valter_lavitola_ranucci_mandante_nuovo_interrogatorio-425531358/"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Europei atletica: argento a Pietro Riva nella maratona",
       "source_count": 5,
       "article_count": 6,
@@ -153,7 +173,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Cariche e lacrimogeni, il Marocco blocca centinaia di migranti verso Ceuta",
       "source_count": 5,
       "article_count": 5,
@@ -173,42 +193,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Ranucci, legali Lavitola: «Anche lui aveva chiesto di aumentare la scorta». Richieste di riesame e nuovo interrogatorio per l'imprenditore",
+      "rank": 10,
+      "title": "Milano, 19enne all'uscita discoteca denuncia: \"Mi hanno violentata\"",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
         "adnkronos.com",
         "ilfattoquotidiano.it",
-        "ansa.it",
-        "roma.repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/attentato-ranucci-lavitola-dettaglio-scorta-legale_15zLdvtYCJOIJRkbXmR0ZL",
-        "https://www.ilfattoquotidiano.it/2026/08/16/caso-ranucci-lavitola-scorta-interrogatorio-notizie/8480099/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/i-legali-valter-lavitola-anche-ranucci-aveva-chiesto-di-aumentare-la-scorta_eec0a77e-e43b-4420-9f99-1cf6ffd88f13.html",
-        "https://roma.repubblica.it/cronaca/2026/08/16/news/valter_lavitola_ranucci_mandante_nuovo_interrogatorio-425531358/",
-        "https://www.ilmessaggero.it/italia/ranucci_lavitola_scorta_interrogatorio_riesame_cosa_hanno_detto_legali-9709757.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Meteo, cambia tutto: dopo l'afa arrivano i temporali﻿",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
         "ilmessaggero.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilsole24ore.com"
+        "milano.repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/schede/fine_caldo_meteo_giuliacci_temporali_quanto_durano-9709782.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/16/dopo-settimane-di-caldo-arrivano-i-primi-temporali_4b75af74-fc23-4f1f-a498-a90254266237.html",
-        "https://www.adnkronos.com/internazionale/esteri/meteo-caldo-record-maltempo-previsioni_1nRSyHqxIev0iGTu5UmRqh",
-        "https://www.ilmessaggero.it/schede/caldo_maltempo_temporali_grandine_anticiclone_africano_previsioni_meteo-9709595.html",
-        "https://www.ilsole24ore.com/art/maltempo-arriva-svolta-oggi-allerta-gialla-10-regioni-AJfGrTn"
+        "https://www.adnkronos.com/cronaca/milano-19enne-alluscita-discoteca-denuncia-mi-hanno-violentata_oYyJsmRqMJHVZLJD0zQG1",
+        "https://www.ilfattoquotidiano.it/2026/08/16/stupro-corso-como-milano-discoteca-notizie/8480123/",
+        "https://www.ilmessaggero.it/italia/ragazza_violentata_milano_discoteca_ferragosto_ultime_notizie-9709773.html",
+        "https://milano.repubblica.it/cronaca/2026/08/16/news/violenza_sessuale_ragazza_diciannovenne_corso_como_uomo_conosciuto_discoteca-425531166/",
+        "https://www.lastampa.it/cronaca/2026/08/16/news/diciannovenne_denuncia_violenza_sessuale_dopo_una_serata_in_discoteca_mi_ha_aggredito_sul_retro-15715703/"
       ]
     }
   ]
