@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated_at": "Mon 17 Aug 12:58",
+  "generated_at": "Mon 17 Aug 13:47",
   "stories": [
     {
       "rank": 1,
@@ -27,6 +27,28 @@
     },
     {
       "rank": 2,
+      "title": "Legale di Lavitola a Rebibbia: 'Un mese prima avvisò Ranucci sul rischio di attentati'",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "roma.repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/il-legale-di-lavitola-e-pentito-per-aver-inguaiato-mio-fratello-ranucci_9c7536df-5f02-4bfa-8560-91b200f8cb99.html",
+        "https://www.ilfattoquotidiano.it/2026/08/17/attentato-ranucci-lavitola-riesame-notizie/8480679/",
+        "https://www.ilmessaggero.it/italia/ranucci_lavitola_ultime_notizie_oggi-9711208.html",
+        "https://www.ilmessaggero.it/italia/lavitola_pentito_per_aver_messo_guai_ranucci_attentato_scelta_mia-9711208.html",
+        "https://roma.repubblica.it/cronaca/2026/08/17/news/valter_lavitola_riesame_nuove_dichiarazioni_bomba_ranucci-425532733/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Atletica, Italia chiude Europei con oro Iapichino e staffetta 4x400 maschile. Bronzo per la femminile e primo posto nel medagliere",
       "source_count": 8,
       "article_count": 9,
@@ -49,29 +71,27 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Legale di Lavitola a Rebibbia: 'Un mese prima avvisò Ranucci sul rischio di attentati'",
-      "source_count": 7,
-      "article_count": 8,
+      "rank": 4,
+      "title": "Pioggia di droni ucraini su Mosca, Russia intensifica gli attacchi",
+      "source_count": 5,
+      "article_count": 10,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "roma.repubblica.it",
+        "liberoquotidiano.it",
         "ansa.it",
         "adnkronos.com",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/17/attentato-ranucci-lavitola-riesame-notizie/8480679/",
-        "https://www.ilmessaggero.it/italia/ranucci_lavitola_ultime_notizie_oggi-9711208.html",
-        "https://roma.repubblica.it/cronaca/2026/08/17/news/valter_lavitola_riesame_nuove_dichiarazioni_bomba_ranucci-425532733/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/legale-di-lavitola-a-rebibbia-un-mese-prima-avviso-ranucci-sul-rischio-di-attentati_9c7536df-5f02-4bfa-8560-91b200f8cb99.html",
-        "https://www.adnkronos.com/cronaca/attentato-ranucci-avvocato-lavitola-news_249BldKSmILmnRj0nw8YGV"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48875284/raid-ucraini-a-lungo-raggio-su-siti-strategici-in-russia/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48875286/oltre-1500-droni-e-62-razzi-russi-sull-ucraina-in-una-settimana/",
+        "https://www.liberoquotidiano.it/news/tv-news/48874200/pioggia-di-droni-ucraini-su-mosca-russia-intensifica-gli-attacchi/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/17/mosca-intercettati-e-abbattuti-205-droni-ucraini_5707ecd1-17fd-4aa8-b790-e0ed5c4eeebd.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/16/ucraina-pioggia-di-droni-su-mosca.-uno-russo-abbattuto-da-un-caccia-nato-in-romania_11aaae52-1c29-461e-b386-8f7c58516060.html"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "L’attaccante del Cagliari Yael Trepy rischia di annegare in piscina, ora è in terapia intensiva",
       "source_count": 7,
       "article_count": 8,
@@ -93,7 +113,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Etna, 30enne americano colpito da un fulmine: muore in ospedale",
       "source_count": 7,
       "article_count": 8,
@@ -115,48 +135,49 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Sfregio ad Antonello da Messina, rubati i capolavori dal museo. Poi i ladri si perdono due tavole",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "palermo.repubblica.it",
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/17/opere-arte-confiscate-mafia-stato-notizie/8480677/",
-        "https://www.lastampa.it/cronaca/2026/08/17/news/furto_antonello_da_messina_indizi_ipotesi_talpa-15716283/",
-        "https://www.adnkronos.com/cronaca/furto-antonello-da-messina-museo-news-oggi_5Qng5MwyU5H9ua0lg1eiKv",
-        "https://palermo.repubblica.it/cronaca/2026/08/17/news/sfregio_antonello_da_messina_rubati_capolavori_museo_cronaca_notizie_fuga_complici_basista-425532241/",
-        "https://palermo.repubblica.it/cronaca/2026/08/17/news/furto_antonello_da_messina_testimone_opere_abbandonate-425531789/"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "Pioggia di droni ucraini su Mosca, Russia intensifica gli attacchi",
-      "source_count": 5,
-      "article_count": 9,
+      "title": "Uccide l'ex compagna e si impicca nel Veneziano, lei lo aveva denunciato al termine della relazione",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
-        "liberoquotidiano.it",
         "ansa.it",
         "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
         "repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48875286/oltre-1500-droni-e-62-razzi-russi-sull-ucraina-in-una-settimana/",
-        "https://www.liberoquotidiano.it/news/tv-news/48874200/pioggia-di-droni-ucraini-su-mosca-russia-intensifica-gli-attacchi/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/17/mosca-intercettati-e-abbattuti-205-droni-ucraini_5707ecd1-17fd-4aa8-b790-e0ed5c4eeebd.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/16/ucraina-pioggia-di-droni-su-mosca.-uno-russo-abbattuto-da-un-caccia-nato-in-romania_11aaae52-1c29-461e-b386-8f7c58516060.html",
-        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-news-oggi-17-agosto-2026_2ODRHWmSvCgrjIbqkdw2aG"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/uccide-lex-compagna-va-a-casa-e-si-impicca_393168f9-93fa-4ec9-ab19-140b49ad6cc5.html",
+        "https://www.adnkronos.com/cronaca/venezia-uccide-ex-fidanzata-poi-si-toglie-la-vita_3KPkR5EOMkmDKz5s1qST7g",
+        "https://www.ilfattoquotidiano.it/2026/08/17/uccide-lex-compagna-e-si-impicca-lei-lo-aveva-denunciato-terzo-femminicidio-in-tre-giorni/8480762/",
+        "https://www.ilmessaggero.it/italia/dino_keber_tania_terrin_omicidio_suicidio_venezia-9711255.html",
+        "https://www.repubblica.it/cronaca/2026/08/17/news/venezia_femminicidio_uccide_ex_compagna_impicca-425532837/"
       ]
     },
     {
       "rank": 8,
+      "title": "Palio di Siena, esposta la bandiera verde: rinviato per maltempo",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilsole24ore.com",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/17/palio-siena-rinviato-pioggia-piazza-del-campo-bandiera-verde/8480836/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/-palio-di-siena-nuovo-rinvio-per-la-pioggia-_c8ae8e8e-6419-4b16-b95d-9481d6529c0c.html",
+        "https://www.adnkronos.com/sport/palio-siena-rinviato-oggi-decisione-quando-si-corre_6nTaT8vJ36mxPkX0zwjltc",
+        "https://www.adnkronos.com/cronaca/palio-siena-oggi-17-agosto-news-oggi_6PIS1Rcg0rGXTHQQPyQPRI",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/il-palio-di-siena-rinviato-per-la-pioggia-a-lunedi-17-agosto_3fa35f19-2b27-4500-bea9-dc4f8be4d813.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "In arrivo veloci temporali e calo delle temperature su molte regioni",
       "source_count": 5,
       "article_count": 7,
@@ -176,7 +197,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Lava e cenere dall’Etna, chiusi due settori dell’aeroporto di Catania, arrivi limitati a 5 ogni ora",
       "source_count": 6,
       "article_count": 6,
@@ -194,26 +215,6 @@
         "https://www.adnkronos.com/cronaca/eruzione-etna-news-aeroporto-catania-oggi-17-agosto_6HpRlNi2Q5skEVsx9IgpzJ",
         "https://palermo.repubblica.it/cronaca/2026/08/17/news/lava_e_cenere_dall_etna_chiusi_due_settori_dell_aeroporto_di_catania_arrivi_limitati_a_5_ogni_ora-425532278/",
         "https://www.lastampa.it/cronaca/2026/08/17/news/aeroporto_catania_etna_oggi-15716134/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Migranti, 17enne sul sup travolta da un barchino in fuga a Chia in Sardegna: arrestato un algerino, la giovane ha rischiato di annegare",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "laverita.info",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.laverita.info/video/ragazza-travolta-migranti-sardegna",
-        "https://www.liberoquotidiano.it/news/pillole/48874071/17enne_travolta_da_barchino_con_a_bordo_migranti_a_chia_arrestato_lo_scafista/",
-        "https://www.ilfattoquotidiano.it/2026/08/17/barchino-migranti-chia-ragazza-notizie/8480650/",
-        "https://www.liberoquotidiano.it/news/terra-promessa/48874056/sardegna-17enne-travolta-barchino-migranti-arrestato-presunto-scafista/",
-        "https://www.adnkronos.com/cronaca/barchino-migranti-cagliari-incidente-sup-scafista-arrestato_1gTGE0OGSOsYjz8PWIfVIn"
       ]
     }
   ]
