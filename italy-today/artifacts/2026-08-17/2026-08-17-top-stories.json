@@ -1,16 +1,17 @@
 {
   "date": "2026-08-17",
-  "generated_at": "Mon 17 Aug 18:57",
+  "generated_at": "Mon 17 Aug 19:37",
   "stories": [
     {
       "rank": 1,
       "title": "Legale di Lavitola a Rebibbia: 'Un mese prima avvisò Ranucci sul rischio di attentati'",
-      "source_count": 8,
+      "source_count": 9,
       "article_count": 14,
       "source_domains": [
         "ansa.it",
         "laverita.info",
         "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "roma.repubblica.it",
         "adnkronos.com",
@@ -22,7 +23,7 @@
         "https://www.laverita.info/inchieste-video/avvocato-lavitola-ranucci",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/il-legale-di-lavitola-e-pentito-per-aver-inguaiato-mio-fratello-ranucci_9c7536df-5f02-4bfa-8560-91b200f8cb99.html",
         "https://www.liberoquotidiano.it/news/libero-video/48876164/ranucci-il-legale-di-lavitola-lo-avviso-di-pericoli-un-mese-prima-/",
-        "https://www.ilmessaggero.it/italia/ranucci_lavitola_ultime_notizie_oggi-9711208.html"
+        "https://www.ilfattoquotidiano.it/2026/08/17/attentato-ranucci-lavitola-riesame-notizie/8480679/"
       ]
     },
     {
@@ -73,6 +74,27 @@
     },
     {
       "rank": 4,
+      "title": "I custodi presenti e l’allarme in ritardo: i misteri del colpo al Museo di Messina",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "palermo.repubblica.it",
+        "ansa.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/17/furto-opere-museo-antonello-messina-furgone-banda-indagini/8481225/",
+        "https://www.ilmessaggero.it/italia/antonello_messina_furto_opere_furgone_ritrovato-9711611.html",
+        "https://palermo.repubblica.it/cronaca/2026/08/17/news/furto_messina_furgone_trovato_svolta_indagini_notizie-425533400/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/il-furto-delle-opere-di-antonello-da-messina-si-cerca-il-basista_40d037cf-aa2a-42f9-812d-dd4f168ca30a.html",
+        "https://www.lastampa.it/cronaca/2026/08/17/news/furto_antonello_da_messina_indizi_ipotesi_talpa-15716283/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "L’attaccante del Cagliari Yael Trepy rischia di annegare in piscina, ora è in terapia intensiva",
       "source_count": 7,
       "article_count": 9,
@@ -94,7 +116,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Pioggia di droni ucraini su Mosca, Russia intensifica gli attacchi",
       "source_count": 5,
       "article_count": 10,
@@ -114,7 +136,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Uccide l’ex compagna poi va a casa e si impicca. La vittima lo aveva denunciato",
       "source_count": 7,
       "article_count": 8,
@@ -136,7 +158,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Lava e cenere dall’Etna, chiusi due settori dell’aeroporto di Catania, arrivi limitati a 5 ogni ora",
       "source_count": 7,
       "article_count": 7,
@@ -155,25 +177,6 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/etna-limitati-i-voli-in-arrivo-in-aeroporto-catania_361e3853-5123-4d33-9c4f-3ac183993175.html",
         "https://www.adnkronos.com/cronaca/eruzione-etna-news-aeroporto-catania-oggi-17-agosto_6HpRlNi2Q5skEVsx9IgpzJ",
         "https://palermo.repubblica.it/cronaca/2026/08/17/news/lava_e_cenere_dall_etna_chiusi_due_settori_dell_aeroporto_di_catania_arrivi_limitati_a_5_ogni_ora-425532278/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "I custodi presenti e l’allarme in ritardo: i misteri del colpo al Museo di Messina",
-      "source_count": 4,
-      "article_count": 9,
-      "source_domains": [
-        "palermo.repubblica.it",
-        "ansa.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://palermo.repubblica.it/cronaca/2026/08/17/news/furto_messina_furgone_trovato_svolta_indagini_notizie-425533400/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/17/il-furto-delle-opere-di-antonello-da-messina-si-cerca-il-basista_40d037cf-aa2a-42f9-812d-dd4f168ca30a.html",
-        "https://www.lastampa.it/cronaca/2026/08/17/news/furto_antonello_da_messina_indizi_ipotesi_talpa-15716283/",
-        "https://palermo.repubblica.it/cronaca/2026/08/17/news/sfregio_antonello_da_messina_rubati_capolavori_museo_cronaca_notizie_fuga_complici_basista-425532241/",
-        "https://palermo.repubblica.it/cronaca/2026/08/17/news/furto_antonello_da_messina_testimone_opere_abbandonate-425531789/"
       ]
     },
     {
