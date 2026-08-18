@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated_at": "Tue 18 Aug 17:37",
+  "generated_at": "Tue 18 Aug 18:50",
   "stories": [
     {
       "rank": 1,
@@ -29,22 +29,22 @@
       "rank": 2,
       "title": "Yael Trepy migliora dopo l'incidente in piscina ma resta in prognosi riservata",
       "source_count": 7,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ansa.it",
+        "lastampa.it",
         "repubblica.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
-        "adnkronos.com",
-        "lastampa.it"
+        "adnkronos.com"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/08/18/yael-trepy-risveglio-coma-estubazione-condizioni-come-sta/8482058/",
         "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/18/trepy-si-risveglia-dal-coma-dopo-il-principio-di-annegamento_1571f98d-5c47-4694-9281-5c6a2a52121f.html",
+        "https://www.lastampa.it/sport/2026/08/18/news/cagliari_trepy_risveglio_coma_dopo_incidente_piscina-15717256/",
         "https://www.repubblica.it/sport/calcio/2026/08/18/news/trepy_come_sta_attaccante_cagliari-425534473/",
-        "https://www.liberoquotidiano.it/news/sport/48886077/trepy-cagliari-bollettino-medico-percorso-lungo-difficile/",
-        "https://www.ilmessaggero.it/persone/trepy_come_sta_cagliari_terapia_intensiva_cosa_e_successo-9712953.html"
+        "https://www.liberoquotidiano.it/news/sport/48886077/trepy-cagliari-bollettino-medico-percorso-lungo-difficile/"
       ]
     },
     {
@@ -71,27 +71,6 @@
     },
     {
       "rank": 4,
-      "title": "Maxifurto delle opere di Antonello da Messina, verifiche su un furgone forse usato dai ladri",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilmanifesto.it",
-        "ilfattoquotidiano.it",
-        "palermo.repubblica.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/furto_opere_antonello_messina_azione_disciplinare_custodi_ultima_ora-9713155.html",
-        "https://www.ilmessaggero.it/italia/furto_opere_messina_tracce_ladri_ultima_ora-9713155.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/il-furto-di-opere-antonello-da-messina-in-arrivo-unazione-disciplinare-per-i-custodi_7d583cda-08d6-419c-b18f-f8c79dd6b776.html",
-        "https://www.adnkronos.com/cronaca/furto-opere-antonello-da-messina-oggi-riapre-museo_6EWExQYvPaDxULXRVqOo9J",
-        "https://ilmanifesto.it/antonello-da-messina-e-la-vulnerabilita-dei-musei"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Addio a Fulvio Lucisano, storico ​produttore cinematografico: dai film di Troisi e Sordi fino a Brizzi, decano del cinema italiano",
       "source_count": 7,
       "article_count": 7,
@@ -113,7 +92,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Migranti, la Svizzera come la Germania: rimanda in Italia i richiedenti asilo non di sua competenza",
       "source_count": 7,
       "article_count": 7,
@@ -135,7 +114,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Ucraina, raid russo su Kharkiv: “10 morti”. Russia: “620 droni contro Mosca”",
       "source_count": 6,
       "article_count": 7,
@@ -156,7 +135,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Sara Curtis: “I calciatori non scendono dal piedistallo per fare complimenti, Sinner sì”",
       "source_count": 6,
       "article_count": 7,
@@ -177,7 +156,46 @@
       ]
     },
     {
+      "rank": 8,
+      "title": "Furto opere Antonello da Messina, scoperte tracce lasciate dai ladri: «Non si tratta di professionisti»",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilmanifesto.it",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/italia/furto_opere_antonello_messina_azione_disciplinare_custodi_ultima_ora-9713155.html",
+        "https://www.ilmessaggero.it/italia/furto_opere_messina_tracce_ladri_ultima_ora-9713155.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/il-furto-di-opere-antonello-da-messina-in-arrivo-unazione-disciplinare-per-i-custodi_7d583cda-08d6-419c-b18f-f8c79dd6b776.html",
+        "https://www.adnkronos.com/cronaca/furto-opere-antonello-da-messina-oggi-riapre-museo_6EWExQYvPaDxULXRVqOo9J",
+        "https://ilmanifesto.it/antonello-da-messina-e-la-vulnerabilita-dei-musei"
+      ]
+    },
+    {
       "rank": 9,
+      "title": "Palio di Siena, oggi si corre l'Assunta - Diretta",
+      "source_count": 4,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/palio-siena-vince-la-contrada-del-nicchio_21b27920-e095-4b33-b6b8-220077484b34.html",
+        "https://www.ilfattoquotidiano.it/2026/08/18/palio-siena-tittia-nicchio-oggi/8482138/",
+        "https://www.lastampa.it/cronaca/2026/08/18/news/palio_siena_vince_il_nicchio_per_tittia_e_la_13esima_vittoria-15717268/",
+        "https://www.adnkronos.com/sport/oggi-la-diretta-del-palio-di-siena-tutti-gli-aggiornamenti-live_1DIZ0X585N5ydzoBX1K43x",
+        "https://www.adnkronos.com/sport/palio-siena-tittia-nicchio_1DIZ0X585N5ydzoBX1K43x"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Femminicidio è la parola più consultata sul portale Treccani",
       "source_count": 5,
       "article_count": 7,
@@ -194,26 +212,6 @@
         "https://www.repubblica.it/cronaca/2026/08/18/news/treccani_dieci_parole_piu_consultate_femminicidio_maranza_fake_news-425534558/",
         "https://www.ilfattoquotidiano.it/2026/08/18/femminicidio-parola-cercata-treccani-notizie/8481458/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/femminicidio-e-la-parola-piu-consultata-sul-portale-treccani_33cef401-81f6-427b-94a1-672f6561f711.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Etna: tornano normali le attività di volo all'aeroporto di Catania",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "palermo.repubblica.it",
-        "adnkronos.com",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/18/aeroporto-catania-riapertura-voli-notizie/8481417/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/etna-tornano-normali-le-attivita-di-volo-allaeroporto-di-catania_2941ebc3-a0e4-400c-bc43-114ce0304931.html",
-        "https://palermo.repubblica.it/cronaca/2026/08/18/news/etna_aeroporto_catania_riapertura_voli_cenere_cessata_emergenza-425534116/",
-        "https://www.adnkronos.com/cronaca/eruzione-etna-voli-aeroporto-catania-news-oggi_1EImaSDdT2bWXajtB6HwrV",
-        "https://www.ilsole24ore.com/art/etna-l-aeroporto-catania-torna-normalita-AJC8Wno"
       ]
     }
   ]
