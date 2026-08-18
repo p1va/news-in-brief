@@ -1,28 +1,27 @@
 {
   "date": "2026-08-18",
-  "generated_at": "Tue 18 Aug 13:00",
+  "generated_at": "Tue 18 Aug 13:52",
   "stories": [
     {
       "rank": 1,
       "title": "Varenne è morto, addio al cavallo trottatore più forte di tutti i tempi",
-      "source_count": 8,
+      "source_count": 7,
       "article_count": 10,
       "source_domains": [
+        "repubblica.it",
         "laverita.info",
         "ansa.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
-        "repubblica.it",
-        "ilsole24ore.com",
-        "agi.it"
+        "ilsole24ore.com"
       ],
       "links": [
+        "https://www.repubblica.it/sport/vari/2026/08/18/news/morto_varenne_cavallo_campione_trotto-425534567/",
         "https://www.laverita.info/storie-di-sport/morto-varenne",
         "https://www.ansa.it/sito/notizie/sport/2026/08/18/e-morto-varenne-leggenda-del-trotto_afc60a9c-6bb3-4dd0-af76-654f2f714a80.html",
         "https://www.ilmessaggero.it/persone/giampaolo_minnucci_varenne_driver_chi_era_ferrari-9712997.html",
-        "https://www.ilmessaggero.it/sport/schede/varenne_quanti_figli_eredita_milioni_ultime_notizie-9712990.html",
-        "https://www.ilfattoquotidiano.it/2026/08/18/varenne-morto-cavallo-trottatore-storia-notizie/8481629/"
+        "https://www.ilmessaggero.it/sport/schede/varenne_quanti_figli_eredita_milioni_ultime_notizie-9712990.html"
       ]
     },
     {
@@ -49,6 +48,27 @@
     },
     {
       "rank": 3,
+      "title": "Ucraina, raid russo su Kharkiv: “10 morti”. Russia: “620 droni contro Mosca”",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48886657/ucraina-attacco-russo-nella-regione-di-kharkiv-10-morti-e-18-feriti/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/18/pioggia-di-droni-contro-mosca-attacco-russo-nel-kharkiv_928ff53d-6019-4d69-a4d8-4678cc49009f.html",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/08/18/guerra-ucraina-raid-kharkiv-notizie/8481359/",
+        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-news-oggi-18-agosto-2026_6bcHlEOucKISIFbJmWLVVk",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/18/lanciati-620-droni-contro-mosca-durante-la-notte_928ff53d-6019-4d69-a4d8-4678cc49009f.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Sara Curtis: “I calciatori non scendono dal piedistallo per fare complimenti, Sinner sì”",
       "source_count": 6,
       "article_count": 7,
@@ -69,7 +89,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Yael Trepy migliora dopo l'incidente in piscina ma resta in prognosi riservata",
       "source_count": 6,
       "article_count": 6,
@@ -87,26 +107,6 @@
         "https://www.adnkronos.com/cronaca/yael-trepy-come-sta-incidente-aggiornamenti_GbnTn1quzWTbllgjr3lP5",
         "https://www.ilfattoquotidiano.it/2026/08/18/yael-trepy-annegamento-condizioni-oggi-come-sta-ventilatore-polmoni/8481411/",
         "https://www.lastampa.it/sport/2026/08/18/news/cagliari_calcio_yeal_trepy_condizioni_salute_oggi-15716958/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Pioggia di 620 droni contro Mosca nella notte, un edificio in fiamme",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/18/pioggia-di-droni-contro-mosca-attacco-russo-nel-kharkiv_928ff53d-6019-4d69-a4d8-4678cc49009f.html",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/08/18/guerra-ucraina-raid-kharkiv-notizie/8481359/",
-        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-guerra-news-oggi-18-agosto-2026_6bcHlEOucKISIFbJmWLVVk",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/18/lanciati-620-droni-contro-mosca-durante-la-notte_928ff53d-6019-4d69-a4d8-4678cc49009f.html",
-        "https://www.repubblica.it/esteri/2026/08/18/diretta/guerra_ucraina_russia_news_oggi-425533748/"
       ]
     },
     {
@@ -171,6 +171,25 @@
     },
     {
       "rank": 9,
+      "title": "Hormuz, Trump minaccia l'Oman: \"Se intralcia, lo bombardiamo\"",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "laverita.info",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48886091/trump-mi-piace-idea-di-dichiarare-stretto-di-hormuz-territorio-usa-ne-abbiamo-totale-controllo/",
+        "https://www.liberoquotidiano.it/news/tv-news/48885710/hormuz-trump-minaccia-l-oman-se-intralcia-lo-bombardiamo-/",
+        "https://www.laverita.info/geopolitica/tensioni-usa-iran-tregua-minacce-oman",
+        "https://www.adnkronos.com/internazionale/esteri/guerra-usa-iran-stretto-hormuz-ultimi-aggiornamenti-minaccia-oman_1WQs1nQimdXuXAtRtq8w7Y",
+        "https://www.repubblica.it/esteri/2026/08/18/diretta/guerra_iran_usa_israele_news_oggi-425533739/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Hayden Panettiere, star fragile: addio alla ex bambina delusa da Hollywood",
       "source_count": 4,
       "article_count": 5,
@@ -186,24 +205,6 @@
         "https://www.ansa.it/sito/notizie/cultura/2026/08/17/morta-lattrice-hayden-panettiere-ex-star-bambina-tradita-da-hollywood_2e0132aa-a650-429e-850f-5a50d6b76625.html",
         "https://www.repubblica.it/spettacoli/cinema/2026/08/18/news/hayden_panettiere_morta_attrice_dipendenze_tormenti_ex_baby_star-425533254/",
         "https://www.adnkronos.com/spettacoli/hayden-panettiere-morta-cause-indagini-marito-cosa-e-successo_209CWQgQDOZd11NgXd9RVx"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Hormuz, Trump minaccia l'Oman: \"Se intralcia, lo bombardiamo\"",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "laverita.info",
-        "adnkronos.com",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48885710/hormuz-trump-minaccia-l-oman-se-intralcia-lo-bombardiamo-/",
-        "https://www.laverita.info/geopolitica/tensioni-usa-iran-tregua-minacce-oman",
-        "https://www.adnkronos.com/internazionale/esteri/guerra-usa-iran-stretto-hormuz-ultimi-aggiornamenti-minaccia-oman_1WQs1nQimdXuXAtRtq8w7Y",
-        "https://www.repubblica.it/esteri/2026/08/18/diretta/guerra_iran_usa_israele_news_oggi-425533739/"
       ]
     }
   ]
