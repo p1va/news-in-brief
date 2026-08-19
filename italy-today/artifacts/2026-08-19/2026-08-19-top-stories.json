@@ -1,31 +1,52 @@
 {
   "date": "2026-08-19",
-  "generated_at": "Wed 19 Aug 08:48",
+  "generated_at": "Wed 19 Aug 09:43",
   "stories": [
     {
       "rank": 1,
       "title": "​Palio di Siena, il Nicchio vince con il leggendario Tittia. Arrivo choc, cadono entrambi: il fantino ricoverato in ospedale",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 8,
+      "article_count": 11,
       "source_domains": [
+        "adnkronos.com",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "adnkronos.com",
+        "liberoquotidiano.it",
         "ansa.it",
         "lastampa.it",
         "agi.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.adnkronos.com/cronaca/notte-tranquilla-in-ospedale-per-tittia-condizioni-in-miglioramento_1GchLTwDtDCeetHAUn2V8x",
         "https://www.ilfattoquotidiano.it/2026/08/19/palio-di-siena-fantino-cavallo-caduta-travolti-folla-tittia-ricoverato-condizioni/8482388/",
         "https://www.ilmessaggero.it/italia/palio_di_siena_polemiche_invasione_fantino_tittia_come_sta-9714518.html",
-        "https://www.adnkronos.com/cronaca/palio-di-siena-nicchio-tittia-caduta-come-sta_6ljjGJC08vSvBNkgTZ8ksC",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/palio-siena-vince-la-contrada-del-nicchio_21b27920-e095-4b33-b6b8-220077484b34.html",
-        "https://www.ilfattoquotidiano.it/2026/08/18/palio-siena-tittia-nicchio-oggi/8482138/"
+        "https://www.liberoquotidiano.it/news/italia/48890290/il-video-choc-del-palio-di-siena-che-fine-fanno-il-cavallo-e-il-fantino/",
+        "https://www.adnkronos.com/cronaca/palio-di-siena-nicchio-tittia-caduta-come-sta_6ljjGJC08vSvBNkgTZ8ksC"
       ]
     },
     {
       "rank": 2,
+      "title": "Media: \"Iran valuta colpire basi Usa in Europa se Trump sceglie escalation\"",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/08/19/iran-minaccia-basi-usa-europa-notizie/8482455/",
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-attacco-basi-usa-italia_fRQUYScBbtXUv2tKZ3F2j",
+        "https://www.adnkronos.com/internazionale/esteri/media-iran-valuta-colpire-basi-usa-in-europa-se-trump-sceglie-escalation_74nT6M3rqmh7N9ttaD722L",
+        "https://www.ilmessaggero.it/mondo/iran_attacco_europa_basi_militari_dove_sono-9714550.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/19/ft-iran-valuta-obiettivi-militari-usa-in-europa-in-caso-di-escalation_be131cad-dada-4264-89aa-ca0cd0c7d6ad.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Colleferro, donna accoltellata in casa davanti al figlio più piccolo. Confessa il marito",
       "source_count": 5,
       "article_count": 5,
@@ -45,7 +66,27 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Individuati ultraleggero scomparso in Calabria e i corpi dei due avvocati",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "roma.repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/cosenza-relitto-ultraleggero-precipitato-morti-carlo-arnulfo-angela-buccico_6khlxGHRCLAvUX7Fjpbhvd",
+        "https://www.ilfattoquotidiano.it/2026/08/19/ultraleggero-cosenza-fuscaldo-trovati-morti-notizie/8482416/",
+        "https://roma.repubblica.it/cronaca/2026/08/19/news/individuati_ultraleggero_disperso_corpi_angela_buccico_carlo_arnulfo-425535781/",
+        "https://www.ilmessaggero.it/italia/ultraleggero_scomparso_trovato_calabria_morti_avvocati_carlo_arnulfo_angela_buccico_ultime_notizie-9714569.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/individuati-ultraleggero-scomparso-in-calabria-e-corpi-degli-occupanti-_cbb0a726-f14d-4f7d-b8a6-4b26f0ba86e3.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Trump posta la mappa di Hormuz: 'Nuovo territorio Usa'. Teheran: 'Si illude'",
       "source_count": 4,
       "article_count": 5,
@@ -64,26 +105,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Media: \"Iran valuta colpire basi Usa in Europa se Trump sceglie escalation\"",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ansa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/media-iran-valuta-colpire-basi-usa-in-europa-se-trump-sceglie-escalation_74nT6M3rqmh7N9ttaD722L",
-        "https://www.ilmessaggero.it/mondo/iran_attacco_europa_basi_militari_dove_sono-9714550.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/19/ft-iran-valuta-obiettivi-militari-usa-in-europa-in-caso-di-escalation_be131cad-dada-4264-89aa-ca0cd0c7d6ad.html",
-        "https://www.ansa.it/sito/notizie/flash/2026/08/19/ft-iran-valuta-obiettivi-militari-usa-in-europa-in-caso-di-escalation_60c6d05c-1458-4aa8-a660-b2b212151177.html",
-        "https://www.repubblica.it/esteri/2026/08/19/diretta/guerra_iran_usa_israele_news_oggi-425535312/"
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "Addio a Varenne, leggenda italiana nel mondo",
       "source_count": 4,
       "article_count": 4,
@@ -101,7 +123,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Hayden Panettiere, la madre accusa l'ex: «Era con lei quando è morta, per anni abbiamo cercato di allontanarlo»",
       "source_count": 4,
       "article_count": 4,
@@ -119,7 +141,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Droni ucraini colpiscono le regioni russe di Tula e Nizhny Novgorod",
       "source_count": 4,
       "article_count": 4,
@@ -137,7 +159,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Lavitola perquisito telefonò a Ranucci: “Il commando dice che sono il mandante”",
       "source_count": 4,
       "article_count": 4,
@@ -155,7 +177,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Rifugiati, si apre il fronte svizzero. Via libera ai trasferimenti in Italia",
       "source_count": 4,
       "article_count": 4,
@@ -170,24 +192,6 @@
         "https://www.repubblica.it/politica/2026/08/19/news/rifugiati_svizzera_trasferimenti_italia-425535172/",
         "https://www.lastampa.it/esteri/2026/08/19/news/berna_rispedisce_i_migranti_in_italia_la_svizzera_apre_un_altro_fronte_meloni_spiazzata_dalla_nuova_crisi-15717404/",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/18/la-ragazza-somala-allansa-sono-molto-felice-di-essere-al-sicuro_8aba0447-dd59-49dc-86bc-bea109587447.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Fondi Ue, la lista per la manovra: bonus casa e incentivi per il nucleare",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "lastampa.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.lastampa.it/economia/2026/08/19/news/fondi_ue_lista_manovra_bonus_casa_nucleare-15717343/",
-        "https://www.repubblica.it/economia/2026/08/19/news/governo_meloni_nucleare_ecobonus_europa-425535245/",
-        "https://www.liberoquotidiano.it/news/pillole/48888008/piu_margini_di_spesa_per_gli_stati_ue_sulla_sicurezza_energetica/",
-        "https://www.ilsole24ore.com/art/energia-ue-flessibilita-spesa-ad-ampio-spettro-AJb3zvo"
       ]
     }
   ]
