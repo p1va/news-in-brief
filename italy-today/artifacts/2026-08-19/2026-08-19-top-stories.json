@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated_at": "Wed 19 Aug 19:36",
+  "generated_at": "Wed 19 Aug 20:40",
   "stories": [
     {
       "rank": 1,
@@ -153,46 +153,6 @@
     },
     {
       "rank": 8,
-      "title": "Trump posta la mappa di Hormuz: 'Nuovo territorio Usa'. Teheran: 'Si illude'",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/48891916/hormuz-e-scontro-tra-trump-e-iran-ancora-alta-tensione-nel-golfo/",
-        "https://www.liberoquotidiano.it/news/tv-news/48891909/trump-rivendica-hormuz-e-cambia-linea-su-iran-corea-e-canada/",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/19/prime-pagine-trump-posta-la-mappa-di-hormuz-nuovo-territorio-usa_6e969e80-085c-48d3-8fd7-b9bb8c972780.html",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/18/emirati-liran-ha-lanciato-due-missili-balistici-finiti-in-mare.-trump-posta_1d2647f8-f2df-448f-836e-1c9871b298cc.html",
-        "https://www.repubblica.it/esteri/2026/08/19/news/trump_nessun_negoziato_iran_missili_balistici_teheran_golfo-425535143/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Al via il maxi-processo a Meta, 29 Stati americani contro i social",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/podcast/in_diretta_dal_mondo/2026/08/19/gli-usa-contro-meta-per-proteggere-i-minori-al-via-lo-storico-processo_ade75221-32bf-4d20-9ecc-f1ca4333fe09.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/08/19/processo-a-meta-in-piazza-le-famiglie-dei-giovani-morti-per-i-presunti-effetti_f1f166b2-51b6-4dd6-a844-dceabff51d8c.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48892149/meta-a-processo-in-california-social-ideati-per-creare-dipendenza-/",
-        "https://www.lastampa.it/economia/2026/08/19/news/processo_meta_come_possono_cambiare_social_network-15717418/",
-        "https://www.repubblica.it/economia/2026/08/18/news/rende_i_bimbi_dipendenti_il_processo_a_instagram_e_facebook_affossa_il_titolo_meta-425535235/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Il vaccino contro il melanoma mostra risultati promettenti, Moderna vola in Borsa a +130%",
       "source_count": 5,
       "article_count": 7,
@@ -209,6 +169,48 @@
         "https://www.adnkronos.com/cronaca/vaccino-sperimentale-moderna-melanoma-fase-3-azioni-borsa_OspH2FXn2uFGVW5RxbkrV",
         "https://www.ilmessaggero.it/salute/prevenzione/vaccino_tumori_melanoma_mrna_cura_sintomi_sole_cosa_sappiamo-9714862.html",
         "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/19/il-vaccino-contro-il-melanoma-mostra-risultati-promettenti-moderna-vola-in-borsa-a-102_8e586860-450d-4404-af85-c9827c648c24.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Uccisa con la famiglia a Gaza, Idf annuncia inchiesta sulla morte della piccola Hind Rajab",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "repubblica.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/esteri/2026/08/19/news/hind_rajab_inchiesta_idf_bambina_morta_gaza-425536616/",
+        "https://www.adnkronos.com/internazionale/esteri/gaza-morte-hind-rajab-indagine-idf_5ceVw7nd7vqcZXGCL4imQH",
+        "https://www.liberoquotidiano.it/news/tv-news/48894115/israele-apre-indagine-sull-uccisione-di-hind-rajab-aveva-5-anni/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/19/lidf-chiede-uninchiesta-penale-sulluccisione-della-piccola-hind-rajab-a-gaza_b42e656a-ac6e-4106-a938-3fc2bee6ad95.html",
+        "https://www.ilfattoquotidiano.it/2026/08/19/hind-rajab-indagine-penale-idf-notizie/8482679/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Azzannato da due rottweiler mentre raccoglie frutta nelle campagne del Salento: morto 72enne",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/sbranato-da-due-rottweiler-muore-un-uomo-nelle-campagne-del-salento_9860ad31-629b-42a7-88c4-decf4560dc08.html",
+        "https://www.liberoquotidiano.it/news/italia/48893735/nardo-72enne-sbranato-due-rottweiler-cosa-trovato-corpo/",
+        "https://www.adnkronos.com/cronaca/lecce-giuseppe-rampo-morto-azzannato-rottweiler_6OnxjPXBhOjpemOpsqrk7H",
+        "https://www.ilfattoquotidiano.it/2026/08/19/attacco-rottweiler-leverano-morte-notizie/8482899/",
+        "https://www.ilmessaggero.it/italia/uomo_sbranato_rottweiler_muore_salento_ultima_ora-9714901.html"
       ]
     }
   ]
