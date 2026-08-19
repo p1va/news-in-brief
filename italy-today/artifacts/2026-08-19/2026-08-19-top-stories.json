@@ -1,31 +1,51 @@
 {
   "date": "2026-08-19",
-  "generated_at": "Wed 19 Aug 07:48",
+  "generated_at": "Wed 19 Aug 08:48",
   "stories": [
     {
       "rank": 1,
       "title": "​Palio di Siena, il Nicchio vince con il leggendario Tittia. Arrivo choc, cadono entrambi: il fantino ricoverato in ospedale",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "adnkronos.com",
         "ansa.it",
-        "ilfattoquotidiano.it",
         "lastampa.it",
         "agi.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/19/palio-di-siena-fantino-cavallo-caduta-travolti-folla-tittia-ricoverato-condizioni/8482388/",
         "https://www.ilmessaggero.it/italia/palio_di_siena_polemiche_invasione_fantino_tittia_come_sta-9714518.html",
         "https://www.adnkronos.com/cronaca/palio-di-siena-nicchio-tittia-caduta-come-sta_6ljjGJC08vSvBNkgTZ8ksC",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/palio-siena-vince-la-contrada-del-nicchio_21b27920-e095-4b33-b6b8-220077484b34.html",
-        "https://www.ilfattoquotidiano.it/2026/08/18/palio-siena-tittia-nicchio-oggi/8482138/",
-        "https://www.ilmessaggero.it/italia/palio_di_siena_nicchio_tittia_cade_cavallo_ultime_notizie-9713299.html"
+        "https://www.ilfattoquotidiano.it/2026/08/18/palio-siena-tittia-nicchio-oggi/8482138/"
       ]
     },
     {
       "rank": 2,
+      "title": "Colleferro, donna accoltellata in casa davanti al figlio più piccolo. Confessa il marito",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "roma.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/19/femminicidio-colleferro-il-marito-confessa-la-vittima-morta-tra-le-braccia-della-figlia-il-sindaco-segnali-sfuggiti/8482343/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/donna-uccisa-a-coltellate-vicino-roma-fermato-il-marito_2fd50acc-3326-4b72-8a05-c99380460419.html",
+        "https://roma.repubblica.it/cronaca/2026/08/18/news/femminicidio_colleferro_uccide_compagna_coltellate-425534811/",
+        "https://www.ilmessaggero.it/roma/metropoli/omicidio_colleferro_oggi_ultime_notizie-9713182.html",
+        "https://www.lastampa.it/cronaca/2026/08/18/news/femminicidio_colleferro_roma_donna_morte_coltellate_casa-15717194/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Trump posta la mappa di Hormuz: 'Nuovo territorio Usa'. Teheran: 'Si illude'",
       "source_count": 4,
       "article_count": 5,
@@ -44,7 +64,26 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Media: \"Iran valuta colpire basi Usa in Europa se Trump sceglie escalation\"",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/media-iran-valuta-colpire-basi-usa-in-europa-se-trump-sceglie-escalation_74nT6M3rqmh7N9ttaD722L",
+        "https://www.ilmessaggero.it/mondo/iran_attacco_europa_basi_militari_dove_sono-9714550.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/19/ft-iran-valuta-obiettivi-militari-usa-in-europa-in-caso-di-escalation_be131cad-dada-4264-89aa-ca0cd0c7d6ad.html",
+        "https://www.ansa.it/sito/notizie/flash/2026/08/19/ft-iran-valuta-obiettivi-militari-usa-in-europa-in-caso-di-escalation_60c6d05c-1458-4aa8-a660-b2b212151177.html",
+        "https://www.repubblica.it/esteri/2026/08/19/diretta/guerra_iran_usa_israele_news_oggi-425535312/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Addio a Varenne, leggenda italiana nel mondo",
       "source_count": 4,
       "article_count": 4,
@@ -62,7 +101,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Hayden Panettiere, la madre accusa l'ex: «Era con lei quando è morta, per anni abbiamo cercato di allontanarlo»",
       "source_count": 4,
       "article_count": 4,
@@ -80,7 +119,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Droni ucraini colpiscono le regioni russe di Tula e Nizhny Novgorod",
       "source_count": 4,
       "article_count": 4,
@@ -98,7 +137,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Lavitola perquisito telefonò a Ranucci: “Il commando dice che sono il mandante”",
       "source_count": 4,
       "article_count": 4,
@@ -116,7 +155,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Rifugiati, si apre il fronte svizzero. Via libera ai trasferimenti in Italia",
       "source_count": 4,
       "article_count": 4,
@@ -134,7 +173,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Fondi Ue, la lista per la manovra: bonus casa e incentivi per il nucleare",
       "source_count": 4,
       "article_count": 4,
@@ -149,40 +188,6 @@
         "https://www.repubblica.it/economia/2026/08/19/news/governo_meloni_nucleare_ecobonus_europa-425535245/",
         "https://www.liberoquotidiano.it/news/pillole/48888008/piu_margini_di_spesa_per_gli_stati_ue_sulla_sicurezza_energetica/",
         "https://www.ilsole24ore.com/art/energia-ue-flessibilita-spesa-ad-ampio-spettro-AJb3zvo"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Colleferro, donna accoltellata in casa davanti al figlio più piccolo. Confessa il marito",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "roma.repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/18/donna-uccisa-a-coltellate-vicino-roma-fermato-il-marito_2fd50acc-3326-4b72-8a05-c99380460419.html",
-        "https://roma.repubblica.it/cronaca/2026/08/18/news/femminicidio_colleferro_uccide_compagna_coltellate-425534811/",
-        "https://www.ilmessaggero.it/roma/metropoli/omicidio_colleferro_oggi_ultime_notizie-9713182.html",
-        "https://www.lastampa.it/cronaca/2026/08/18/news/femminicidio_colleferro_roma_donna_morte_coltellate_casa-15717194/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Intelligenza artificiale, le aziende cercano 316 mila esperti: ecco le Regioni dove trovare un posto di lavoro",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/pillole/48888005/imprese-cresce-la-corsa-all-ia-ma-mancano-le-professionalita-/",
-        "https://www.ilmessaggero.it/economia/news/intelligenza_artificiale_lavoro_dove_quali_regioni-9712892.html",
-        "https://www.ilsole24ore.com/art/mancano-315mila-esperti-ai-ecco-dove-imprese-faticano-piu-trovarli-AJfsjoo"
       ]
     }
   ]
