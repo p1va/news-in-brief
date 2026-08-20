@@ -1,12 +1,12 @@
 {
   "date": "2026-08-20",
-  "generated_at": "Thu 20 Aug 19:41",
+  "generated_at": "Thu 20 Aug 20:40",
   "stories": [
     {
       "rank": 1,
-      "title": "Raid russo su Kiev: colpito ospedale pediatrico. 12 morti. Drone in Romania, jet polacchi in volo",
-      "source_count": 9,
-      "article_count": 13,
+      "title": "Ucraina, attacco russo su Kiev: 13 morti e 40 feriti",
+      "source_count": 8,
+      "article_count": 12,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
@@ -14,7 +14,6 @@
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "repubblica.it",
-        "lastampa.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
@@ -138,27 +137,6 @@
     },
     {
       "rank": 7,
-      "title": "Trump annuncia: \"Guerra economica all'Iran\". E minaccia sanzioni contro chi aiuta Teheran",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-dichiara-la-guerra-economica-alliran-sara-un-d-day_b326cf4f-c42a-4e3a-82e9-962954422924.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48899113/iran-trump-potremmo-imporre-sanzioni-draconiane/",
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/08/20/sanzioni-iran-trump-guerra-economica-oggi/8483463/",
-        "https://www.adnkronos.com/internazionale/esteri/usa-iran-trump-ultime-news-guerra-oggi-20-agosto_3eqi7D8E3fFJydqL52IYDF",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/20/trump-guerra-economica-contro-liran.-e-minaccia-chi-aiuta-teheran_c07cd0bc-0506-4e98-8f87-170b8797e7d6.html"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Patto Ue, la Finlandia prepara i ritorni in Italia dei “dublinanti”: è il 4° Paese",
       "source_count": 5,
       "article_count": 8,
@@ -178,7 +156,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Alcaraz: «Torno agli Us Open». Il campione rientra dopo oltre 4 mesi, ancora in dubbio la presenza di Sinner",
       "source_count": 6,
       "article_count": 7,
@@ -199,7 +177,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Italia divisa dal meteo, oggi piogge intense a Nord e caldo estivo a Sud",
       "source_count": 4,
       "article_count": 8,
@@ -215,6 +193,26 @@
         "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/19/italia-divisa-dal-meteo-domani-piogge-intense-a-nord-e-caldo-estivo_77334a50-6dcf-43c6-8600-03975b1a8686.html",
         "https://www.adnkronos.com/cronaca/previsioni-meteo-quando-finiscono-temporali-ultime-notizie_7tPoq8hdTmNsEiftYf9o2h",
         "https://www.ilmessaggero.it/schede/temporali_intensi_italia_allerta_meteo_genova_milano_8_regioni-9716300.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Trump annuncia: \"Guerra economica all'Iran\". E minaccia sanzioni contro chi aiuta Teheran",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-dichiara-la-guerra-economica-alliran-sara-un-d-day_b326cf4f-c42a-4e3a-82e9-962954422924.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48899113/iran-trump-potremmo-imporre-sanzioni-draconiane/",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/08/20/sanzioni-iran-trump-guerra-economica-oggi/8483463/",
+        "https://www.adnkronos.com/internazionale/esteri/usa-iran-trump-ultime-news-guerra-oggi-20-agosto_3eqi7D8E3fFJydqL52IYDF",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/20/trump-guerra-economica-contro-liran.-e-minaccia-chi-aiuta-teheran_c07cd0bc-0506-4e98-8f87-170b8797e7d6.html"
       ]
     }
   ]
