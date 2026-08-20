@@ -1,41 +1,44 @@
 {
   "date": "2026-08-20",
-  "generated_at": "Thu 20 Aug 10:40",
+  "generated_at": "Thu 20 Aug 11:37",
   "stories": [
     {
       "rank": 1,
       "title": "Raid russo su Kiev: colpito ospedale pediatrico. 12 morti. Drone in Romania, jet polacchi in volo",
-      "source_count": 7,
-      "article_count": 7,
+      "source_count": 9,
+      "article_count": 9,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "ansa.it",
         "adnkronos.com",
         "repubblica.it",
         "lastampa.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48899574/ucraina-attacco-russo-su-kiev-13-morti-e-40-feriti/",
         "https://www.ilmessaggero.it/mondo/guerra_ucraina_attacco_russo_kiev_12_morti_colpito_ospedale_pediatrico_20_agosto-9716240.html",
         "https://www.ilfattoquotidiano.it/mondo/live-post/2026/08/20/raid-russo-su-kiev-almeno-12-morti-il-sindaco-della-capitale-colpito-un-ospedale-pediatrico/8483439/",
         "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/massiccio-attacco-russo-su-kiev-12-morti-e-32-feriti_687531fd-cf89-4799-81ca-a97f956679a5.html",
-        "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-ultime-news-oggi-20-agosto_3JB3X5TeOB4tfE5pk5UIOV",
-        "https://www.repubblica.it/esteri/2026/08/20/diretta/guerra_ucraina_russia_news_oggi-425537177/"
+        "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-ultime-news-oggi-20-agosto_3JB3X5TeOB4tfE5pk5UIOV"
       ]
     },
     {
       "rank": 2,
       "title": "Harry e Meghan tornano in Gran Bretagna ma non vivranno da reali: la casa segreta, i figli a scuola e il gelo di William. I motivi della scelta dopo sei anni",
-      "source_count": 6,
-      "article_count": 8,
+      "source_count": 7,
+      "article_count": 9,
       "source_domains": [
         "ilmessaggero.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "ansa.it",
         "repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
         "https://www.ilmessaggero.it/schede/harry_meghan_perche_tornano_gran_bretagna_casa_dove_vivranno_scuola_figli_carlo_william_california_cosa_faranno-9716417.html",
@@ -69,6 +72,27 @@
     },
     {
       "rank": 4,
+      "title": "Cina, condannato all'ergastolo fondatore di Evergrande",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "repubblica.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/economia/2026/08/20/news/la_caduta_del_cintura_il_fondatore_di_evergrande_all_ergastolo_dopo_il_crack_del_colosso_cinese-425537674/",
+        "https://www.adnkronos.com/internazionale/esteri/cina-condannato-allergastolo-fondatore-di-evergrande_7EDZ82Eh8mg3lP8KRYUFRh",
+        "https://www.adnkronos.com/internazionale/esteri/cina-ergastolo-fondatore-evergrande_7EDZ82Eh8mg3lP8KRYUFRh",
+        "https://www.ilfattoquotidiano.it/2026/08/20/evergrande-ergastolo-per-il-fondatore-xu-jiayin-maxi-multe-da-235-miliardi-di-dollari/8483438/",
+        "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/20/fondatore-del-colosso-immobiliare-cinese-evergrande-condannato-allergastolo_946248ab-de07-4197-9517-c16e5f8c9833.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Cincinnati, Musetti batte Faria e vola ai quarti di finale",
       "source_count": 5,
       "article_count": 7,
@@ -85,26 +109,6 @@
         "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-musetti-batte-faria-e-vola-ai-quarti-di-cincinnati_e2eb5d0b-41a2-464e-bb09-6a24ad1d4e79.html",
         "https://www.repubblica.it/sport/tennis/2026/08/20/news/musetti_cincinnati_faria_quarti-425537351/",
         "https://www.ilmessaggero.it/sport/schede/musetti_quando_gioca_quarti_di_finale_tiafoe_orario_masters_1000_cincinnati_tabellone_dove_vederlo-9716214.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Cina, condannato all'ergastolo fondatore di Evergrande",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "repubblica.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/economia/2026/08/20/news/la_caduta_del_cintura_il_fondatore_di_evergrande_all_ergastolo_dopo_il_crack_del_colosso_cinese-425537674/",
-        "https://www.adnkronos.com/internazionale/esteri/cina-condannato-allergastolo-fondatore-di-evergrande_7EDZ82Eh8mg3lP8KRYUFRh",
-        "https://www.adnkronos.com/internazionale/esteri/cina-ergastolo-fondatore-evergrande_7EDZ82Eh8mg3lP8KRYUFRh",
-        "https://www.ilfattoquotidiano.it/2026/08/20/evergrande-ergastolo-per-il-fondatore-xu-jiayin-maxi-multe-da-235-miliardi-di-dollari/8483438/",
-        "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/20/fondatore-del-colosso-immobiliare-cinese-evergrande-condannato-allergastolo_946248ab-de07-4197-9517-c16e5f8c9833.html"
       ]
     },
     {
@@ -168,6 +172,25 @@
     },
     {
       "rank": 9,
+      "title": "Maltempo con forti temporali al Nord e ancora tanto caldo al Sud, meteo spacca Italia",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/previsioni-meteo-quando-finiscono-temporali-ultime-notizie_7tPoq8hdTmNsEiftYf9o2h",
+        "https://www.ilmessaggero.it/schede/temporali_intensi_italia_allerta_meteo_genova_milano_8_regioni-9716300.html",
+        "https://www.ilmessaggero.it/schede/maltempo_in_arrivo_quali_regioni-9716285.html",
+        "https://www.adnkronos.com/cronaca/caldo-record-maltempo-meteo-previsioni-nord-centro-sud_5Vgb2rUYRddwPYbpRUVz8n",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/caldo-niente-bollini-rossi-fino-a-venerdi-ma-domani-6-citta-in-arancione_43900bcc-2fcf-4ee5-94f3-df4f8a0888bc.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Ranucci sul palco: “Mi vietano di parlare, rischio il licenziamento”",
       "source_count": 4,
       "article_count": 5,
@@ -183,25 +206,6 @@
         "https://www.lastampa.it/cronaca/2026/08/20/news/rai_futuro_report_ranucci_lavitola-15718172/",
         "https://www.repubblica.it/politica/2026/08/20/news/sigfrido_ranucci_trento_rischio_licenziamento-425537076/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/il-legale-di-ranucci-ogni-decisione-della-rai-sarebbe-inquinata-da-falsita_9e5214d4-7af0-4f51-be6e-d173eae0f323.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Maltempo con forti temporali al Nord e ancora tanto caldo al Sud, meteo spacca Italia",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/schede/temporali_intensi_italia_allerta_meteo_genova_milano_8_regioni-9716300.html",
-        "https://www.ilmessaggero.it/schede/maltempo_in_arrivo_quali_regioni-9716285.html",
-        "https://www.adnkronos.com/cronaca/caldo-record-maltempo-meteo-previsioni-nord-centro-sud_5Vgb2rUYRddwPYbpRUVz8n",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/caldo-niente-bollini-rossi-fino-a-venerdi-ma-domani-6-citta-in-arancione_43900bcc-2fcf-4ee5-94f3-df4f8a0888bc.html",
-        "https://www.ilsole24ore.com/art/al-nord-48-ore-maltempo-e-calo-termico-caldo-intenso-sud-AJz3eMq"
       ]
     }
   ]
