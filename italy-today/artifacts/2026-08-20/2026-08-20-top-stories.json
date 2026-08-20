@@ -1,15 +1,15 @@
 {
   "date": "2026-08-20",
-  "generated_at": "Thu 20 Aug 15:44",
+  "generated_at": "Thu 20 Aug 16:46",
   "stories": [
     {
       "rank": 1,
       "title": "Raid russo su Kiev: colpito ospedale pediatrico. 12 morti. Drone in Romania, jet polacchi in volo",
       "source_count": 9,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
-        "ansa.it",
         "liberoquotidiano.it",
+        "ansa.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
@@ -19,59 +19,80 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48901168/massiccio-attacco-russo-su-kiev-incendi-nella-capitale-ucraina/",
         "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/ucraina-salgono-a-16-i-morti-nei-raid-aerei-russi-zelensky-denuncia-lescalation_687531fd-cf89-4799-81ca-a97f956679a5.html",
         "https://www.liberoquotidiano.it/news/tv-news/48901157/kiev-la-notte-del-raid-russo-e-assolutamente-terrificante-/",
         "https://www.liberoquotidiano.it/news/libero-video/48898964/ucraina-diversi-incendi-kiev-dopo-pesante-attacco-russo/",
-        "https://www.liberoquotidiano.it/news/tv-news/48899574/ucraina-attacco-russo-su-kiev-13-morti-e-40-feriti/",
-        "https://www.ilmessaggero.it/mondo/guerra_ucraina_attacco_russo_kiev_12_morti_colpito_ospedale_pediatrico_20_agosto-9716240.html"
+        "https://www.liberoquotidiano.it/news/tv-news/48899574/ucraina-attacco-russo-su-kiev-13-morti-e-40-feriti/"
       ]
     },
     {
       "rank": 2,
       "title": "'Harry e Meghan torneranno questo mese a vivere nel Regno Unito'",
       "source_count": 8,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
+        "repubblica.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "ansa.it",
-        "repubblica.it",
         "lastampa.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.repubblica.it/esteri/2026/08/20/news/harry_meghan_tornano_londra_robert_hardman_intervista-425538307/",
         "https://www.liberoquotidiano.it/news/tv-news/48902088/burnham-harry-e-meghan-questione-privata-auguri-per-ritorno-a-londra/",
         "https://www.liberoquotidiano.it/news/tv-news/48901040/il-ritorno-del-principe-harry-e-meghan-markle-le-reazioni-dei-londinesi/",
         "https://www.ilmessaggero.it/schede/harry_meghan_perche_tornano_gran_bretagna_casa_dove_vivranno_scuola_figli_carlo_william_california_cosa_faranno-9716417.html",
-        "https://www.adnkronos.com/internazionale/royalfamilynews/harry-meghan-tornano-regno-unito_4gO5MbX0qDP7MGZgi2vBVb",
-        "https://www.adnkronos.com/internazionale/royalfamilynews/harry-meghan-tornano-a-londra-indiscrezione-re-carlo_4gO5MbX0qDP7MGZgi2vBVb"
+        "https://www.adnkronos.com/internazionale/royalfamilynews/harry-meghan-tornano-regno-unito_4gO5MbX0qDP7MGZgi2vBVb"
       ]
     },
     {
       "rank": 3,
       "title": "Iniziato il cda di Mps, sul tavolo le offerte per Bpm e Banca Generali",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "lastampa.it",
         "adnkronos.com",
+        "lastampa.it",
         "repubblica.it",
         "ansa.it",
         "ilmessaggero.it",
         "laverita.info"
       ],
       "links": [
+        "https://www.adnkronos.com/economia/mps-cda-approva-piano-lovaglio_7Hm8sPZVK3Vgo22O8UdYkb",
         "https://www.lastampa.it/economia/2026/08/20/news/mps_il_cda_approva_le_offerte_di_scambio_per_bpm_e_banca_generali-15718592/",
         "https://www.adnkronos.com/finanza/mps-cda-cosa-succede_7DBSP7On0wheaKqVz7bOUr",
         "https://www.repubblica.it/economia/2026/08/20/news/mps_cda_straordinario_lovaglio_doppia_offerta_supercedola_soci-425537771/",
-        "https://www.ansa.it/sito/notizie/economia/2026/08/20/iniziato-il-cda-di-mps-sul-tavolo-le-offerte-per-bpm-e-banca-generali_56e45912-721e-4db6-8006-04d4bc02cd39.html",
-        "https://www.ilmessaggero.it/economia/news/mps_al_via_il_cda_sul_tavolo_operazioni_su_banca_generali_e_bpm-9716322.html"
+        "https://www.ansa.it/sito/notizie/economia/2026/08/20/iniziato-il-cda-di-mps-sul-tavolo-le-offerte-per-bpm-e-banca-generali_56e45912-721e-4db6-8006-04d4bc02cd39.html"
       ]
     },
     {
       "rank": 4,
+      "title": "Palermo, bimba di 4 anni muore di difterite: i genitori si erano rifiutati di vaccinarla",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "palermo.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/20/difterite-palermo-bambina-vaccini-notizie/8483915/",
+        "https://www.adnkronos.com/cronaca/difterite-cose-sintomi-come-si-prende-vaccino_4IiQWAYqAezmfKlxAlMIb1",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/bimba-di-4-anni-muore-per-sospetta-difterite-a-palermo_88e2de87-751a-4c96-bd7c-517ffd0ff4ff.html",
+        "https://www.ilfattoquotidiano.it/2026/08/20/difterite-sintomi-vaccino-rischi-notizie/8483965/",
+        "https://www.adnkronos.com/cronaca/bimba-figlia-genitori-no-vax-muore-palermo-sospetta-difterite_6QapCnU9vgkdNFLo5fGZ87"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "La benzina​ supera quota 2 euro al litro, l'allarme di Federpetroli: «Rischio gasolio a 3 euro»",
       "source_count": 7,
       "article_count": 7,
@@ -90,27 +111,6 @@
         "https://www.repubblica.it/economia/2026/08/20/news/benzina_prezzo_2_euro_diesel_gasolio-425537700/",
         "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/20/la-benzina-schizza-sopra-i-2-euro-al-litro_9943e734-0299-4198-8152-fd3afd82d3b1.html",
         "https://www.ilmessaggero.it/economia/news/benzina_nuovo_prezzo_quanto_arriva-9716333.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Palermo, bimba di 4 anni muore di difterite: i genitori si erano rifiutati di vaccinarla",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "palermo.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/difterite-cose-sintomi-come-si-prende-vaccino_4IiQWAYqAezmfKlxAlMIb1",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/bimba-di-4-anni-muore-per-sospetta-difterite-a-palermo_88e2de87-751a-4c96-bd7c-517ffd0ff4ff.html",
-        "https://www.ilfattoquotidiano.it/2026/08/20/difterite-sintomi-vaccino-rischi-notizie/8483965/",
-        "https://www.adnkronos.com/cronaca/bimba-figlia-genitori-no-vax-muore-palermo-sospetta-difterite_6QapCnU9vgkdNFLo5fGZ87",
-        "https://www.ilmessaggero.it/italia/bimba_morta_difterite_palermo_non_vaccinata-9716602.html"
       ]
     },
     {
@@ -136,26 +136,6 @@
     },
     {
       "rank": 7,
-      "title": "Cobolli quando gioca a Cincinnati: battuto Jodar, ora Paul. Data, orario e dove vederla in tv e streaming",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/cobolli-paul-oggi-atp-cincinnati-orario-e-dove-vederla-in-tv_Wl0f0OqtxrETrh1craqnX",
-        "https://www.ilfattoquotidiano.it/2026/08/20/atp-cincinnati-2026-musetti-cobolli-quarti-oggi-quando-giocano-orario-tv/8483467/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-musetti-batte-faria-e-vola-ai-quarti-di-cincinnati_e2eb5d0b-41a2-464e-bb09-6a24ad1d4e79.html",
-        "https://www.repubblica.it/sport/tennis/2026/08/20/news/musetti_cincinnati_faria_quarti-425537351/",
-        "https://www.ilmessaggero.it/sport/schede/musetti_quando_gioca_quarti_di_finale_tiafoe_orario_masters_1000_cincinnati_tabellone_dove_vederlo-9716214.html"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Trump annuncia: \"Guerra economica all'Iran\". E minaccia sanzioni contro chi aiuta Teheran",
       "source_count": 6,
       "article_count": 6,
@@ -176,7 +156,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Discute con la moglie, poi si lancia in acqua con l'auto nel porto: il bagagliaio si apre e i passanti li salvano. L'uomo è fuggito tra gli scogli",
       "source_count": 5,
       "article_count": 6,
@@ -196,7 +176,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Dalla Bulgaria alla Grecia, da Sigonella ad Aviano: l'ombra dell'Iran sulle basi Usa in Europa",
       "source_count": 4,
       "article_count": 6,
@@ -212,6 +192,25 @@
         "https://www.adnkronos.com/internazionale/esteri/iran-missili-minaccia-europa-ultime-news_2hh74pylHKmX1rVMRb5i31",
         "https://www.repubblica.it/esteri/2026/08/20/news/italia_basi_usa_a_rischio_ritorsioni_iran_crosetto-425536762/",
         "https://www.adnkronos.com/internazionale/esteri/iran-basi-usa-europa-bulgaria-cipro-italia-sigonella-aviano-vicenza_7upX9ATB1Lt0hPeOGJvN2j"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Italia divisa dal meteo, oggi piogge intense a Nord e caldo estivo a Sud",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/19/italia-divisa-dal-meteo-domani-piogge-intense-a-nord-e-caldo-estivo_77334a50-6dcf-43c6-8600-03975b1a8686.html",
+        "https://www.adnkronos.com/cronaca/previsioni-meteo-quando-finiscono-temporali-ultime-notizie_7tPoq8hdTmNsEiftYf9o2h",
+        "https://www.ilmessaggero.it/schede/temporali_intensi_italia_allerta_meteo_genova_milano_8_regioni-9716300.html",
+        "https://www.ilmessaggero.it/schede/maltempo_in_arrivo_quali_regioni-9716285.html",
+        "https://www.adnkronos.com/cronaca/caldo-record-maltempo-meteo-previsioni-nord-centro-sud_5Vgb2rUYRddwPYbpRUVz8n"
       ]
     }
   ]
