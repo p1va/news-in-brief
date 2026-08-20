@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "Thu 20 Aug 16:46",
+  "generated_at": "Thu 20 Aug 17:39",
   "stories": [
     {
       "rank": 1,
@@ -51,6 +51,28 @@
     },
     {
       "rank": 3,
+      "title": "La benzina​ supera quota 2 euro al litro, l'allarme di Federpetroli: «Rischio gasolio a 3 euro»",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/canale_motori/notizie/mondo_motori/2026/08/20/la-benzina-in-citta-schizza-sopra-i-2-euro-ai-massimi-dal-2023_e898f866-e27a-49cc-8dca-e33e0cce87de.html",
+        "https://www.ilfattoquotidiano.it/2026/08/20/prezzo-benzina-diesel-rete-stradale-autostradale-oggi-news/8483625/",
+        "https://www.adnkronos.com/economia/caro-carburante-oggi-corsa-prezzi-benzina-diesel_5MmMqj5uRab6lu3xZmROG9",
+        "https://www.repubblica.it/economia/2026/08/20/news/benzina_prezzo_2_euro_diesel_gasolio-425537700/",
+        "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/20/la-benzina-schizza-sopra-i-2-euro-al-litro_9943e734-0299-4198-8152-fd3afd82d3b1.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Iniziato il cda di Mps, sul tavolo le offerte per Bpm e Banca Generali",
       "source_count": 6,
       "article_count": 9,
@@ -71,7 +93,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Palermo, bimba di 4 anni muore di difterite: i genitori si erano rifiutati di vaccinarla",
       "source_count": 6,
       "article_count": 9,
@@ -89,28 +111,6 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/bimba-di-4-anni-muore-per-sospetta-difterite-a-palermo_88e2de87-751a-4c96-bd7c-517ffd0ff4ff.html",
         "https://www.ilfattoquotidiano.it/2026/08/20/difterite-sintomi-vaccino-rischi-notizie/8483965/",
         "https://www.adnkronos.com/cronaca/bimba-figlia-genitori-no-vax-muore-palermo-sospetta-difterite_6QapCnU9vgkdNFLo5fGZ87"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "La benzina​ supera quota 2 euro al litro, l'allarme di Federpetroli: «Rischio gasolio a 3 euro»",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/20/prezzo-benzina-diesel-rete-stradale-autostradale-oggi-news/8483625/",
-        "https://www.adnkronos.com/economia/caro-carburante-oggi-corsa-prezzi-benzina-diesel_5MmMqj5uRab6lu3xZmROG9",
-        "https://www.repubblica.it/economia/2026/08/20/news/benzina_prezzo_2_euro_diesel_gasolio-425537700/",
-        "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/20/la-benzina-schizza-sopra-i-2-euro-al-litro_9943e734-0299-4198-8152-fd3afd82d3b1.html",
-        "https://www.ilmessaggero.it/economia/news/benzina_nuovo_prezzo_quanto_arriva-9716333.html"
       ]
     },
     {
@@ -157,6 +157,25 @@
     },
     {
       "rank": 8,
+      "title": "Italia divisa dal meteo, oggi piogge intense a Nord e caldo estivo a Sud",
+      "source_count": 4,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/allerta-meteo-arancione-gialla-21-agosto_72F81bHXYKpwcuyehzVU0J",
+        "https://www.ilmessaggero.it/schede/allerta_meteo_domani_venerdi_21_agosto_14_regioni_temporali_dove_previsioni-9716752.html",
+        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/19/italia-divisa-dal-meteo-domani-piogge-intense-a-nord-e-caldo-estivo_77334a50-6dcf-43c6-8600-03975b1a8686.html",
+        "https://www.adnkronos.com/cronaca/previsioni-meteo-quando-finiscono-temporali-ultime-notizie_7tPoq8hdTmNsEiftYf9o2h",
+        "https://www.ilmessaggero.it/schede/temporali_intensi_italia_allerta_meteo_genova_milano_8_regioni-9716300.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Discute con la moglie, poi si lancia in acqua con l'auto nel porto: il bagagliaio si apre e i passanti li salvano. L'uomo è fuggito tra gli scogli",
       "source_count": 5,
       "article_count": 6,
@@ -176,41 +195,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Dalla Bulgaria alla Grecia, da Sigonella ad Aviano: l'ombra dell'Iran sulle basi Usa in Europa",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/basi_usa_italia_dove_sono_sigonella_aviano-9716398.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/20/prime-pagine-i-piani-di-teheran-pronti-a-colpire-le-basi-usa-in-europa_396f4fed-b565-487c-9ba3-1468371967b7.html",
-        "https://www.adnkronos.com/internazionale/esteri/iran-missili-minaccia-europa-ultime-news_2hh74pylHKmX1rVMRb5i31",
-        "https://www.repubblica.it/esteri/2026/08/20/news/italia_basi_usa_a_rischio_ritorsioni_iran_crosetto-425536762/",
-        "https://www.adnkronos.com/internazionale/esteri/iran-basi-usa-europa-bulgaria-cipro-italia-sigonella-aviano-vicenza_7upX9ATB1Lt0hPeOGJvN2j"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "Italia divisa dal meteo, oggi piogge intense a Nord e caldo estivo a Sud",
-      "source_count": 4,
+      "title": "Patto Ue, la Finlandia prepara i ritorni in Italia dei “dublinanti”: è il 4° Paese",
+      "source_count": 5,
       "article_count": 6,
       "source_domains": [
-        "ansa.it",
         "adnkronos.com",
+        "ansa.it",
+        "repubblica.it",
         "ilmessaggero.it",
-        "ilsole24ore.com"
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/19/italia-divisa-dal-meteo-domani-piogge-intense-a-nord-e-caldo-estivo_77334a50-6dcf-43c6-8600-03975b1a8686.html",
-        "https://www.adnkronos.com/cronaca/previsioni-meteo-quando-finiscono-temporali-ultime-notizie_7tPoq8hdTmNsEiftYf9o2h",
-        "https://www.ilmessaggero.it/schede/temporali_intensi_italia_allerta_meteo_genova_milano_8_regioni-9716300.html",
-        "https://www.ilmessaggero.it/schede/maltempo_in_arrivo_quali_regioni-9716285.html",
-        "https://www.adnkronos.com/cronaca/caldo-record-maltempo-meteo-previsioni-nord-centro-sud_5Vgb2rUYRddwPYbpRUVz8n"
+        "https://www.adnkronos.com/internazionale/esteri/migranti-svezia-dublinanti-italia_3KhMXRKF8hmVS9OHT6oxCP",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/20/anche-la-svezia-trasferisce-i-migranti-in-italia-e-il-quinto-paese_f3081cbe-5518-4036-8bb9-84bc7317e174.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/20/la-finlandia-e-il-quarto-paese-a-rimandare-in-italia-i-migranti_f3081cbe-5518-4036-8bb9-84bc7317e174.html",
+        "https://www.repubblica.it/politica/2026/08/20/news/migranti_finlandia_patto_ue-425538150/",
+        "https://www.ilmessaggero.it/politica/migranti_tornano_italia_perche_quanti_sono-9716452.html"
       ]
     }
   ]
