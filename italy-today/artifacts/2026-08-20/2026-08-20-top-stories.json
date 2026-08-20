@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "Thu 20 Aug 07:50",
+  "generated_at": "Thu 20 Aug 08:50",
   "stories": [
     {
       "rank": 1,
@@ -66,6 +66,26 @@
     },
     {
       "rank": 4,
+      "title": "Iniziato il cda di Mps, sul tavolo le offerte per Bpm e Banca Generali",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/economia/2026/08/20/iniziato-il-cda-di-mps-sul-tavolo-le-offerte-per-bpm-e-banca-generali_56e45912-721e-4db6-8006-04d4bc02cd39.html",
+        "https://www.ilmessaggero.it/economia/news/mps_al_via_il_cda_sul_tavolo_operazioni_su_banca_generali_e_bpm-9716322.html",
+        "https://www.repubblica.it/economia/2026/08/20/diretta/borse_oggi_20_agosto_mps_cda_straordinario_operazioni_intesa-425537479/",
+        "https://www.lastampa.it/economia/2026/08/20/news/mps_lo_scudo_di_lovaglio_bpm_o_banca_generali_per_difendersi_da_intesa-15718283/",
+        "https://www.laverita.info/aziende/mps-lovaglio-bpm-banca-generali"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Dalla Bulgaria alla Grecia, da Sigonella ad Aviano: l'ombra dell'Iran sulle basi Usa in Europa",
       "source_count": 4,
       "article_count": 5,
@@ -84,7 +104,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Kyrgios il censore finisce nella polvere, la coca più forte dei suoi demoni",
       "source_count": 4,
       "article_count": 5,
@@ -103,7 +123,26 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Maltempo con forti temporali al Nord e ancora tanto caldo al Sud, meteo spacca Italia",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/schede/temporali_intensi_italia_allerta_meteo_genova_milano_8_regioni-9716300.html",
+        "https://www.ilmessaggero.it/schede/maltempo_in_arrivo_quali_regioni-9716285.html",
+        "https://www.adnkronos.com/cronaca/caldo-record-maltempo-meteo-previsioni-nord-centro-sud_5Vgb2rUYRddwPYbpRUVz8n",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/caldo-niente-bollini-rossi-fino-a-venerdi-ma-domani-6-citta-in-arancione_43900bcc-2fcf-4ee5-94f3-df4f8a0888bc.html",
+        "https://www.ilsole24ore.com/art/al-nord-48-ore-maltempo-e-calo-termico-caldo-intenso-sud-AJz3eMq"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Vienna rimanda i dublinanti in Italia, già quattro trasferiti",
       "source_count": 4,
       "article_count": 4,
@@ -121,7 +160,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Rai, braccio di ferro sul futuro di Report. Il legale di Ranucci: no a scelte politiche",
       "source_count": 4,
       "article_count": 4,
@@ -139,51 +178,18 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Cincinnati, Musetti batte Faria e vola ai quarti di finale",
+      "rank": 10,
+      "title": "Il fondatore del colosso immobiliare cinese Evergrande condannato all'ergastolo",
       "source_count": 4,
       "article_count": 4,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/20/atp-cincinnati-2026-musetti-cobolli-quarti-oggi-quando-giocano-orario-tv/8483467/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-musetti-batte-faria-e-vola-ai-quarti-di-cincinnati_e2eb5d0b-41a2-464e-bb09-6a24ad1d4e79.html",
-        "https://www.repubblica.it/sport/tennis/2026/08/20/news/musetti_cincinnati_faria_quarti-425537351/",
-        "https://www.ilmessaggero.it/sport/schede/musetti_quando_gioca_quarti_di_finale_tiafoe_orario_masters_1000_cincinnati_tabellone_dove_vederlo-9716214.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Caldo, niente bollini rossi fino a venerdì ma domani 6 città in arancione",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
         "adnkronos.com",
-        "ilmessaggero.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/caldo-record-maltempo-meteo-previsioni-nord-centro-sud_5Vgb2rUYRddwPYbpRUVz8n",
-        "https://www.ilmessaggero.it/schede/maltempo_roma_in_arrivo_quando_e_dove-9716206.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/19/caldo-niente-bollini-rossi-fino-a-venerdi-ma-domani-6-citta-in-arancione_43900bcc-2fcf-4ee5-94f3-df4f8a0888bc.html",
-        "https://www.ilmessaggero.it/schede/caldo_picco_quando_e_dove-9714645.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Evergrande, Xu Jiayin condannato all’ergastolo: ascesa e caduta dell’ex uomo più ricco della Cina",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
         "ilfattoquotidiano.it",
         "ansa.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.adnkronos.com/internazionale/esteri/cina-condannato-allergastolo-fondatore-di-evergrande_7EDZ82Eh8mg3lP8KRYUFRh",
         "https://www.ilfattoquotidiano.it/2026/08/20/evergrande-ergastolo-per-il-fondatore-xu-jiayin-maxi-multe-da-235-miliardi-di-dollari/8483438/",
         "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/20/fondatore-del-colosso-immobiliare-cinese-evergrande-condannato-allergastolo_946248ab-de07-4197-9517-c16e5f8c9833.html",
         "https://www.lastampa.it/esteri/2026/08/20/news/evergrande_fondatore_condannato_ergastolo-15718257/"
