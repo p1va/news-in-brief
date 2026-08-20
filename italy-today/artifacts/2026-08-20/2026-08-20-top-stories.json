@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "Thu 20 Aug 19:00",
+  "generated_at": "Thu 20 Aug 19:41",
   "stories": [
     {
       "rank": 1,
@@ -55,23 +55,45 @@
       "source_count": 6,
       "article_count": 11,
       "source_domains": [
+        "laverita.info",
         "adnkronos.com",
         "lastampa.it",
         "repubblica.it",
         "ansa.it",
-        "ilmessaggero.it",
-        "laverita.info"
+        "ilmessaggero.it"
       ],
       "links": [
+        "https://www.laverita.info/sbancati/lovaglio-doppia-opa-mps",
         "https://www.adnkronos.com/finanza/mps-ipotesi-smembramento-bpm-nodo-extra-dividendo_2i5VJkH7ewm5fVMKioEYcj",
         "https://www.adnkronos.com/finanza/mps-ok-piano-lovaglio-scenario_2S6U7HR6BYpzpzGEDrEs9Z",
         "https://www.adnkronos.com/economia/mps-cda-approva-piano-lovaglio_7Hm8sPZVK3Vgo22O8UdYkb",
-        "https://www.lastampa.it/economia/2026/08/20/news/mps_il_cda_approva_le_offerte_di_scambio_per_bpm_e_banca_generali-15718592/",
-        "https://www.adnkronos.com/finanza/mps-cda-cosa-succede_7DBSP7On0wheaKqVz7bOUr"
+        "https://www.lastampa.it/economia/2026/08/20/news/mps_il_cda_approva_le_offerte_di_scambio_per_bpm_e_banca_generali-15718592/"
       ]
     },
     {
       "rank": 4,
+      "title": "Palermo, bimba di 4 anni muore di difterite: i genitori si erano rifiutati di vaccinarla",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "palermo.repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/20/difterite-palermo-bambina-vaccini-notizie/8483915/",
+        "https://www.adnkronos.com/cronaca/difterite-cose-sintomi-come-si-prende-vaccino_4IiQWAYqAezmfKlxAlMIb1",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/bimba-di-4-anni-muore-per-sospetta-difterite-a-palermo_88e2de87-751a-4c96-bd7c-517ffd0ff4ff.html",
+        "https://www.ilfattoquotidiano.it/2026/08/20/difterite-sintomi-vaccino-rischi-notizie/8483965/",
+        "https://www.adnkronos.com/cronaca/bimba-figlia-genitori-no-vax-muore-palermo-sospetta-difterite_6QapCnU9vgkdNFLo5fGZ87"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Cina, condannato all'ergastolo fondatore di Evergrande",
       "source_count": 7,
       "article_count": 8,
@@ -93,7 +115,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "La benzina​ supera quota 2 euro al litro, l'allarme di Federpetroli: «Rischio gasolio a 3 euro»",
       "source_count": 7,
       "article_count": 8,
@@ -112,27 +134,6 @@
         "https://www.adnkronos.com/economia/caro-carburante-oggi-corsa-prezzi-benzina-diesel_5MmMqj5uRab6lu3xZmROG9",
         "https://www.repubblica.it/economia/2026/08/20/news/benzina_prezzo_2_euro_diesel_gasolio-425537700/",
         "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/20/la-benzina-schizza-sopra-i-2-euro-al-litro_9943e734-0299-4198-8152-fd3afd82d3b1.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Palermo, bimba di 4 anni muore di difterite: i genitori si erano rifiutati di vaccinarla",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ansa.it",
-        "ilmessaggero.it",
-        "palermo.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/20/difterite-palermo-bambina-vaccini-notizie/8483915/",
-        "https://www.adnkronos.com/cronaca/difterite-cose-sintomi-come-si-prende-vaccino_4IiQWAYqAezmfKlxAlMIb1",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/bimba-di-4-anni-muore-per-sospetta-difterite-a-palermo_88e2de87-751a-4c96-bd7c-517ffd0ff4ff.html",
-        "https://www.ilfattoquotidiano.it/2026/08/20/difterite-sintomi-vaccino-rischi-notizie/8483965/",
-        "https://www.adnkronos.com/cronaca/bimba-figlia-genitori-no-vax-muore-palermo-sospetta-difterite_6QapCnU9vgkdNFLo5fGZ87"
       ]
     },
     {
@@ -178,6 +179,27 @@
     },
     {
       "rank": 9,
+      "title": "Alcaraz: «Torno agli Us Open». Il campione rientra dopo oltre 4 mesi, ancora in dubbio la presenza di Sinner",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/20/alcaraz-us-open-ritorno-ufficiale-sono-tornato/8484194/",
+        "https://www.adnkronos.com/sport/us-open-carlos-alcaraz-ritorno-torneo_5XMfCsXF6Gf0K0AdZkTBl3",
+        "https://www.ilmessaggero.it/sport/tennis/alcaraz_us_open_sinner_come_sta_gioca_ranking-9716790.html",
+        "https://www.liberoquotidiano.it/news/sport/48903457/alcaraz_torna_campo_us_open_ora_fiato_sospeso_sinner/",
+        "https://www.repubblica.it/sport/dossier/us-open-tennis/2026/08/20/news/alcaraz_ritorno_in_campo_us_open_2026-425538496/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Italia divisa dal meteo, oggi piogge intense a Nord e caldo estivo a Sud",
       "source_count": 4,
       "article_count": 8,
@@ -193,26 +215,6 @@
         "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/08/19/italia-divisa-dal-meteo-domani-piogge-intense-a-nord-e-caldo-estivo_77334a50-6dcf-43c6-8600-03975b1a8686.html",
         "https://www.adnkronos.com/cronaca/previsioni-meteo-quando-finiscono-temporali-ultime-notizie_7tPoq8hdTmNsEiftYf9o2h",
         "https://www.ilmessaggero.it/schede/temporali_intensi_italia_allerta_meteo_genova_milano_8_regioni-9716300.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Alcaraz torna in campo agli Us Open. L’annuncio del tennista",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/20/alcaraz-us-open-ritorno-ufficiale-sono-tornato/8484194/",
-        "https://www.adnkronos.com/sport/us-open-carlos-alcaraz-ritorno-torneo_5XMfCsXF6Gf0K0AdZkTBl3",
-        "https://www.ilmessaggero.it/sport/tennis/alcaraz_us_open_sinner_come_sta_gioca_ranking-9716790.html",
-        "https://www.repubblica.it/sport/dossier/us-open-tennis/2026/08/20/news/alcaraz_ritorno_in_campo_us_open_2026-425538496/",
-        "https://www.lastampa.it/sport/2026/08/20/news/alcaraz_us_open_ritorno-15718758/"
       ]
     }
   ]
