@@ -1,6 +1,6 @@
 {
   "date": "2026-08-20",
-  "generated_at": "Thu 20 Aug 14:46",
+  "generated_at": "Thu 20 Aug 15:44",
   "stories": [
     {
       "rank": 1,
@@ -30,7 +30,7 @@
       "rank": 2,
       "title": "'Harry e Meghan torneranno questo mese a vivere nel Regno Unito'",
       "source_count": 8,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
         "liberoquotidiano.it",
         "ilmessaggero.it",
@@ -42,15 +42,36 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48902088/burnham-harry-e-meghan-questione-privata-auguri-per-ritorno-a-londra/",
         "https://www.liberoquotidiano.it/news/tv-news/48901040/il-ritorno-del-principe-harry-e-meghan-markle-le-reazioni-dei-londinesi/",
         "https://www.ilmessaggero.it/schede/harry_meghan_perche_tornano_gran_bretagna_casa_dove_vivranno_scuola_figli_carlo_william_california_cosa_faranno-9716417.html",
         "https://www.adnkronos.com/internazionale/royalfamilynews/harry-meghan-tornano-regno-unito_4gO5MbX0qDP7MGZgi2vBVb",
-        "https://www.adnkronos.com/internazionale/royalfamilynews/harry-meghan-tornano-a-londra-indiscrezione-re-carlo_4gO5MbX0qDP7MGZgi2vBVb",
-        "https://www.ilfattoquotidiano.it/2026/08/20/harry-e-meghan-tornano-a-casa-si-ritrasferiranno-nel-regno-unito-per-stare-vicino-a-re-carlo-malato-entro-fine-agosto-il-trasloco-dalla-california-a-londra-lannuncio-dei-sussex/8483466/"
+        "https://www.adnkronos.com/internazionale/royalfamilynews/harry-meghan-tornano-a-londra-indiscrezione-re-carlo_4gO5MbX0qDP7MGZgi2vBVb"
       ]
     },
     {
       "rank": 3,
+      "title": "Iniziato il cda di Mps, sul tavolo le offerte per Bpm e Banca Generali",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "lastampa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.lastampa.it/economia/2026/08/20/news/mps_il_cda_approva_le_offerte_di_scambio_per_bpm_e_banca_generali-15718592/",
+        "https://www.adnkronos.com/finanza/mps-cda-cosa-succede_7DBSP7On0wheaKqVz7bOUr",
+        "https://www.repubblica.it/economia/2026/08/20/news/mps_cda_straordinario_lovaglio_doppia_offerta_supercedola_soci-425537771/",
+        "https://www.ansa.it/sito/notizie/economia/2026/08/20/iniziato-il-cda-di-mps-sul-tavolo-le-offerte-per-bpm-e-banca-generali_56e45912-721e-4db6-8006-04d4bc02cd39.html",
+        "https://www.ilmessaggero.it/economia/news/mps_al_via_il_cda_sul_tavolo_operazioni_su_banca_generali_e_bpm-9716322.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "La benzina​ supera quota 2 euro al litro, l'allarme di Federpetroli: «Rischio gasolio a 3 euro»",
       "source_count": 7,
       "article_count": 7,
@@ -72,7 +93,28 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Palermo, bimba di 4 anni muore di difterite: i genitori si erano rifiutati di vaccinarla",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "palermo.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/difterite-cose-sintomi-come-si-prende-vaccino_4IiQWAYqAezmfKlxAlMIb1",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/bimba-di-4-anni-muore-per-sospetta-difterite-a-palermo_88e2de87-751a-4c96-bd7c-517ffd0ff4ff.html",
+        "https://www.ilfattoquotidiano.it/2026/08/20/difterite-sintomi-vaccino-rischi-notizie/8483965/",
+        "https://www.adnkronos.com/cronaca/bimba-figlia-genitori-no-vax-muore-palermo-sospetta-difterite_6QapCnU9vgkdNFLo5fGZ87",
+        "https://www.ilmessaggero.it/italia/bimba_morta_difterite_palermo_non_vaccinata-9716602.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Cina, condannato all'ergastolo fondatore di Evergrande",
       "source_count": 6,
       "article_count": 7,
@@ -93,28 +135,27 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Iniziato il cda di Mps, sul tavolo le offerte per Bpm e Banca Generali",
-      "source_count": 6,
-      "article_count": 7,
+      "rank": 7,
+      "title": "Cobolli quando gioca a Cincinnati: battuto Jodar, ora Paul. Data, orario e dove vederla in tv e streaming",
+      "source_count": 5,
+      "article_count": 8,
       "source_domains": [
         "adnkronos.com",
-        "repubblica.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "laverita.info"
+        "repubblica.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.adnkronos.com/finanza/mps-cda-cosa-succede_7DBSP7On0wheaKqVz7bOUr",
-        "https://www.repubblica.it/economia/2026/08/20/news/mps_cda_straordinario_lovaglio_doppia_offerta_supercedola_soci-425537771/",
-        "https://www.ansa.it/sito/notizie/economia/2026/08/20/iniziato-il-cda-di-mps-sul-tavolo-le-offerte-per-bpm-e-banca-generali_56e45912-721e-4db6-8006-04d4bc02cd39.html",
-        "https://www.ilmessaggero.it/economia/news/mps_al_via_il_cda_sul_tavolo_operazioni_su_banca_generali_e_bpm-9716322.html",
-        "https://www.repubblica.it/economia/2026/08/20/diretta/borse_oggi_20_agosto_mps_cda_straordinario_operazioni_intesa-425537479/"
+        "https://www.adnkronos.com/sport/cobolli-paul-oggi-atp-cincinnati-orario-e-dove-vederla-in-tv_Wl0f0OqtxrETrh1craqnX",
+        "https://www.ilfattoquotidiano.it/2026/08/20/atp-cincinnati-2026-musetti-cobolli-quarti-oggi-quando-giocano-orario-tv/8483467/",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-musetti-batte-faria-e-vola-ai-quarti-di-cincinnati_e2eb5d0b-41a2-464e-bb09-6a24ad1d4e79.html",
+        "https://www.repubblica.it/sport/tennis/2026/08/20/news/musetti_cincinnati_faria_quarti-425537351/",
+        "https://www.ilmessaggero.it/sport/schede/musetti_quando_gioca_quarti_di_finale_tiafoe_orario_masters_1000_cincinnati_tabellone_dove_vederlo-9716214.html"
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Trump annuncia: \"Guerra economica all'Iran\". E minaccia sanzioni contro chi aiuta Teheran",
       "source_count": 6,
       "article_count": 6,
@@ -135,47 +176,27 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Cincinnati, Musetti batte Faria e vola ai quarti di finale",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/cobolli-paul-oggi-atp-cincinnati-orario-e-dove-vederla-in-tv_Wl0f0OqtxrETrh1craqnX",
-        "https://www.ilfattoquotidiano.it/2026/08/20/atp-cincinnati-2026-musetti-cobolli-quarti-oggi-quando-giocano-orario-tv/8483467/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/tennis-musetti-batte-faria-e-vola-ai-quarti-di-cincinnati_e2eb5d0b-41a2-464e-bb09-6a24ad1d4e79.html",
-        "https://www.repubblica.it/sport/tennis/2026/08/20/news/musetti_cincinnati_faria_quarti-425537351/",
-        "https://www.ilmessaggero.it/sport/schede/musetti_quando_gioca_quarti_di_finale_tiafoe_orario_masters_1000_cincinnati_tabellone_dove_vederlo-9716214.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Fermato l’uomo che si è lanciato in mare con l’auto: accusato di tentato omicidio della moglie",
+      "rank": 9,
+      "title": "Discute con la moglie, poi si lancia in acqua con l'auto nel porto: il bagagliaio si apre e i passanti li salvano. L'uomo è fuggito tra gli scogli",
       "source_count": 5,
       "article_count": 6,
       "source_domains": [
         "ilfattoquotidiano.it",
+        "bologna.repubblica.it",
         "lastampa.it",
         "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "agi.it"
+        "ilmessaggero.it"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/08/20/auto-mare-cattolica-tentato-omicidio-notizie/8483652/",
+        "https://bologna.repubblica.it/cronaca/2026/08/20/news/cattolica_omicidio_colposo_uomo_moglie_auto_mare-425538079/",
         "https://www.lastampa.it/cronaca/2026/08/20/news/cattolica_auto_mare_moglie_arresto_tentato_omicidio-15718498/",
         "https://www.ilfattoquotidiano.it/2026/08/19/auto-canale-cattolica-lite-notizie/8483212/",
-        "https://www.liberoquotidiano.it/news/italia/48895861/cattolica-si-butta-auto-con-moglie-porto-salvati-da-passanti-lui-sparisce/",
-        "https://www.ilmessaggero.it/italia/uomo_lancia_auto_porto_dopo_lite_moglie_cattolica_ultima_ora-9715068.html"
+        "https://www.liberoquotidiano.it/news/italia/48895861/cattolica-si-butta-auto-con-moglie-porto-salvati-da-passanti-lui-sparisce/"
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Dalla Bulgaria alla Grecia, da Sigonella ad Aviano: l'ombra dell'Iran sulle basi Usa in Europa",
       "source_count": 4,
       "article_count": 6,
@@ -191,26 +212,6 @@
         "https://www.adnkronos.com/internazionale/esteri/iran-missili-minaccia-europa-ultime-news_2hh74pylHKmX1rVMRb5i31",
         "https://www.repubblica.it/esteri/2026/08/20/news/italia_basi_usa_a_rischio_ritorsioni_iran_crosetto-425536762/",
         "https://www.adnkronos.com/internazionale/esteri/iran-basi-usa-europa-bulgaria-cipro-italia-sigonella-aviano-vicenza_7upX9ATB1Lt0hPeOGJvN2j"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Giallo di Pietracatella, Gianni Di Vita ascoltato per la quinta volta in Questura",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/20/caso-ricina-pietracatella-confronto-questura-notizie/8483778/",
-        "https://www.adnkronos.com/cronaca/giallo-pietracatella-gianni-di-vita-audizione-ultime-notizie_5ahGRcFOcD5gBkkTALj74F",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/morte-avvelenate-in-questura-confronto-tra-di-vita-e-una-amica_3fb4e56c-5518-4fa5-9153-19d4a09e6fe7.html",
-        "https://www.repubblica.it/cronaca/2026/08/20/news/madre_figlia_avvelenate_pietracatella_marito_gianni_di_vita_questura-425538034/",
-        "https://www.lastampa.it/cronaca/2026/08/20/news/uccise_dalla_ricina_gianni_di_vita_e_la_figlia_alice_negativi_al_veleno_sequestrati_i_pc_al_padre-15718170/"
       ]
     }
   ]
