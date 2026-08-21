@@ -1,25 +1,25 @@
 {
   "date": "2026-08-21",
-  "generated_at": "Fri 21 Aug 13:01",
+  "generated_at": "Fri 21 Aug 13:56",
   "stories": [
     {
       "rank": 1,
       "title": "Palermo, muore a 4 anni stroncata dalla difterite: “Non era stata vaccinata”",
       "source_count": 5,
-      "article_count": 10,
+      "article_count": 14,
       "source_domains": [
-        "ilfattoquotidiano.it",
         "ansa.it",
-        "ilmessaggero.it",
         "palermo.repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/la-madre-della-bimba-morta-a-palermo-per-sospetta-difterite-attacca-i-medici_dff22e46-609a-4001-bccf-b32389579e80.html",
+        "https://palermo.repubblica.it/cronaca/2026/08/21/news/difterite_no_vax_mamma_medici-425540010/",
         "https://www.ilfattoquotidiano.it/2026/08/21/difterite-palermo-bambina-morta-vaccinazioni-notizie/8484741/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/madre-della-bimba-morta-a-palermo-attacca-i-medici-incompetenti_dff22e46-609a-4001-bccf-b32389579e80.html",
-        "https://www.ilmessaggero.it/italia/difterite_bambina_morta_cugino_vaccinato_medici_incompetenti-9718241.html",
-        "https://www.ilmessaggero.it/italia/bimba_morta_difterite_cugino_autistico_vaccino_genitori_no_vax-9717993.html",
-        "https://palermo.repubblica.it/cronaca/2026/08/21/news/palermo_muore_a_4_anni_stroncata_dalla_difterite_non_era_stata_vaccinata-425538683/"
+        "https://www.ilmessaggero.it/italia/difterite_bambina_morta_cugino_vaccinato_medici_incompetenti-9718241.html"
       ]
     },
     {
@@ -46,26 +46,6 @@
     },
     {
       "rank": 3,
-      "title": "Mps prova a lanciare l’Ops su Bpm e Banca Generali. Attesa la risposta di Intesa",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/economia/2026/08/21/news/confronto_offerte_mps_intesa_sanpaolo_numeri_operazioni-425539870/",
-        "https://www.repubblica.it/economia/2026/08/21/news/lovaglio_mps_piano_offerta_cedola_cosa_prevede-425539489/",
-        "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/21/mps-lancia-offerte-su-banco-bpm-e-banca-generali-per-complessivi-34-miliardi_fdeb6455-ab43-41bd-8e06-a7bac6ac937e.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/21/prime-pagine-mps-sfida-intesa-un-polo-da-70-miliardi-con-bpm-e-banca_6d4edf1d-4b43-4fc9-92fc-ad6e9d283b12.html",
-        "https://www.lastampa.it/economia/2026/08/21/news/mps_doppia_ops_su_bpm_e_banca_generali_operazione_da_34_miliardi-15718964/"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Meloni al Nyt: 'Credevo con Trump sarebbe stato più facile date le convergenze'",
       "source_count": 6,
       "article_count": 7,
@@ -83,6 +63,26 @@
         "https://www.ilfattoquotidiano.it/2026/08/21/meloni-trump-rapporto-intervista-notizie/8484696/",
         "https://www.ansa.it/sito/notizie/politica/2026/08/21/meloni-al-nyt-credevo-con-trump-sarebbe-stato-piu-facile-date_e8a985f1-b1d3-467b-9d4f-44471c877b2d.html",
         "https://www.ilmessaggero.it/politica/meloni_trump_new_york_times-9718159.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Mps prova a lanciare l’Ops su Bpm e Banca Generali. Attesa la risposta di Intesa",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilmanifesto.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/economia/2026/08/21/news/confronto_offerte_mps_intesa_sanpaolo_numeri_operazioni-425539870/",
+        "https://www.repubblica.it/economia/2026/08/21/news/lovaglio_mps_piano_offerta_cedola_cosa_prevede-425539489/",
+        "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/21/mps-lancia-offerte-su-banco-bpm-e-banca-generali-per-complessivi-34-miliardi_fdeb6455-ab43-41bd-8e06-a7bac6ac937e.html",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/21/prime-pagine-mps-sfida-intesa-un-polo-da-70-miliardi-con-bpm-e-banca_6d4edf1d-4b43-4fc9-92fc-ad6e9d283b12.html",
+        "https://www.lastampa.it/economia/2026/08/21/news/mps_doppia_ops_su_bpm_e_banca_generali_operazione_da_34_miliardi-15718964/"
       ]
     },
     {
@@ -127,45 +127,25 @@
     },
     {
       "rank": 7,
-      "title": "Notte d'inferno a Kiev, i missili russi fanno strage di civili",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Maltempo, evacuato campeggio nella bergamasca minacciato da frana e innalzamento del torrente",
+      "source_count": 4,
+      "article_count": 6,
       "source_domains": [
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ansa.it",
-        "liberoquotidiano.it"
+        "laverita.info",
+        "liberoquotidiano.it",
+        "milano.repubblica.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.repubblica.it/esteri/2026/08/21/news/guerra_russia_ucraina_missili_kiev_colpito_ospedale_pediatrico-425538771/",
-        "https://ilmanifesto.it/kiev-sotto-i-missili-di-putin-cercasi-disperatamente-difesa-aerea",
-        "https://www.lastampa.it/esteri/2026/08/21/diretta/guerra_russia_ucraina_oggi-15718919/",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/ucraina-salgono-a-16-i-morti-nei-raid-aerei-russi-zelensky-denuncia-lescalation_687531fd-cf89-4799-81ca-a97f956679a5.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48901168/massiccio-attacco-russo-su-kiev-incendi-nella-capitale-ucraina/"
+        "https://www.laverita.info/video/maltempo-lombardia",
+        "https://www.liberoquotidiano.it/news/tv-news/48911121/maltempo-nel-nord-italia-le-immagini-delle-frane-nel-bresciano/",
+        "https://www.liberoquotidiano.it/news/pillole/48909022/maltempo_in_lombardia_oltre_400_operazioni_di_soccorso_dei_vigili_del_fuoco/",
+        "https://milano.repubblica.it/cronaca/2026/08/21/news/maltempo_frane_allagamenti_brescia_brianza_sondrio-425539645/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maltempo-nella-bergamasca-sei-paesi-isolati-350-evacuati_0e504f8b-b843-4532-983f-a2ca978e46d2.html"
       ]
     },
     {
       "rank": 8,
-      "title": "La scalata di Cobolli non si ferma: la semifinale a Cincinnati gli vale il best ranking. E ora “vede” le Atp Finals",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/schede/cobolli_fils_cincinnati_semifinale_orario_dove_vederla_tv_streaming_precedenti_ranking_montepremi-9718120.html",
-        "https://www.ilfattoquotidiano.it/2026/08/21/cobolli-semifinale-cincinnati-masters-1000-ranking-best-atp-finals/8484448/",
-        "https://www.liberoquotidiano.it/news/sport/48906994/flavio_cobolli_batte_paul_cincinnati_punto_show_sbotta_fanc_mio/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/cincinnati-open-cobolli-rimonta-paul-ed-e-in-semifinale_4a87eb2c-5f05-43ef-b6ac-05931ebfaff6.html",
-        "https://www.liberoquotidiano.it/news/sport/48900976/cobolli-batte-jodar-sbrocca-volano-insulti-cincinnati/"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Alcaraz: «Torno agli Us Open». Il campione rientra dopo oltre 4 mesi, ancora in dubbio la presenza di Sinner",
       "source_count": 4,
       "article_count": 5,
@@ -184,22 +164,40 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Maltempo, nella Bergamasca sei paesi isolati, 350 evacuati",
+      "rank": 9,
+      "title": "Tocca all’Olanda: in avvio processo per trasferimenti ‘dublinanti’ verso l'Italia. È il sesto Paese",
       "source_count": 4,
       "article_count": 5,
       "source_domains": [
-        "laverita.info",
+        "ilfattoquotidiano.it",
+        "ansa.it",
         "liberoquotidiano.it",
-        "milano.repubblica.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/21/nuovo-patto-ue-su-migrazione-e-asilo-cose-come-funziona-e-cosa-ha-cambiato-per-litalia/8484707/",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/olanda-rimanderemo-in-italia-i-migranti-arrivati-dopo-il-12-di-giugno_62a47941-97c9-4c45-8b38-94176f4ab80b.html",
+        "https://www.liberoquotidiano.it/news/terra-promessa/48908854/immigrazione-anche-olanda-avvia-trasferimenti-dublinanti-italia/",
+        "https://www.ilfattoquotidiano.it/2026/08/21/rimpatri-richiedenti-asilo-olanda-italia-migranti-notizie/8484516/",
+        "https://www.repubblica.it/politica/2026/08/21/news/dublinanti_patto_migrazioni_asilo_olanda_trasferimenti_italia-425539482/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Notte d'inferno a Kiev, i missili russi fanno strage di civili",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it",
         "ansa.it"
       ],
       "links": [
-        "https://www.laverita.info/video/maltempo-lombardia",
-        "https://www.liberoquotidiano.it/news/pillole/48909022/maltempo_in_lombardia_oltre_400_operazioni_di_soccorso_dei_vigili_del_fuoco/",
-        "https://milano.repubblica.it/cronaca/2026/08/21/news/maltempo_frane_allagamenti_brescia_brianza_sondrio-425539645/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maltempo-nella-bergamasca-sei-paesi-isolati-350-evacuati_0e504f8b-b843-4532-983f-a2ca978e46d2.html",
-        "https://www.liberoquotidiano.it/news/libero-video/48907899/maltempo-evacuato-campeggio-bergamasca-minacciato-frana-innalzamento-torrente/"
+        "https://www.repubblica.it/esteri/2026/08/21/news/guerra_russia_ucraina_missili_kiev_colpito_ospedale_pediatrico-425538771/",
+        "https://ilmanifesto.it/kiev-sotto-i-missili-di-putin-cercasi-disperatamente-difesa-aerea",
+        "https://www.lastampa.it/esteri/2026/08/21/diretta/guerra_russia_ucraina_oggi-15718919/",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/ucraina-salgono-a-16-i-morti-nei-raid-aerei-russi-zelensky-denuncia-lescalation_687531fd-cf89-4799-81ca-a97f956679a5.html"
       ]
     }
   ]
