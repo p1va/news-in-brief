@@ -1,12 +1,12 @@
 {
   "date": "2026-08-21",
-  "generated_at": "Fri 21 Aug 13:56",
+  "generated_at": "Fri 21 Aug 14:45",
   "stories": [
     {
       "rank": 1,
       "title": "Palermo, muore a 4 anni stroncata dalla difterite: “Non era stata vaccinata”",
       "source_count": 5,
-      "article_count": 14,
+      "article_count": 13,
       "source_domains": [
         "ansa.it",
         "palermo.repubblica.it",
@@ -24,6 +24,28 @@
     },
     {
       "rank": 2,
+      "title": "Sinner rinuncia agli Us Open: “Ho bisogno di altro tempo”",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/08/21/sinner-rinuncia-agli-us-open_67bbadec-06f1-4e64-8968-c1d3cdcd2728.html",
+        "https://www.ilfattoquotidiano.it/2026/08/21/sinner-us-open-ritiro-ginocchio-forfait-infortunio-ho-ancora-bisogno-di-piu-tempo-per-riprendermi/8484927/",
+        "https://www.ilmessaggero.it/sport/tennis/sinner_salta_us_open_ginocchio_come_sta_ranking-9718344.html",
+        "https://www.repubblica.it/sport/tennis/2026/08/21/news/sinner_us_open_salta-425540119/",
+        "https://www.lastampa.it/sport/2026/08/21/news/sinner_us_open_rinuncia-15719242/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Potenza, donna trovata morta in casa con gravi traumi facciali: l'allarme lanciato dal marito e dal figlio",
       "source_count": 7,
       "article_count": 8,
@@ -45,7 +67,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Meloni al Nyt: 'Credevo con Trump sarebbe stato più facile date le convergenze'",
       "source_count": 6,
       "article_count": 7,
@@ -66,7 +88,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Mps prova a lanciare l’Ops su Bpm e Banca Generali. Attesa la risposta di Intesa",
       "source_count": 5,
       "article_count": 7,
@@ -86,7 +108,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Anche Svezia e Finlandia rimandano i migranti. Schlein: “Flop del governo”",
       "source_count": 5,
       "article_count": 6,
@@ -106,7 +128,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Trump dichiara la guerra economica all'Iran, 'sarà un D-Day'",
       "source_count": 5,
       "article_count": 6,
@@ -126,41 +148,21 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Maltempo, evacuato campeggio nella bergamasca minacciato da frana e innalzamento del torrente",
-      "source_count": 4,
+      "rank": 8,
+      "title": "Maltempo nel bresciano: il sorvolo dei vigili del fuoco sulle aree colpite",
+      "source_count": 3,
       "article_count": 6,
       "source_domains": [
-        "laverita.info",
         "liberoquotidiano.it",
         "milano.repubblica.it",
         "ansa.it"
       ],
       "links": [
-        "https://www.laverita.info/video/maltempo-lombardia",
+        "https://www.liberoquotidiano.it/news/libero-video/48910527/maltempo-bresciano-sorvolo-vigili-del-fuoco-aree-colpite/",
         "https://www.liberoquotidiano.it/news/tv-news/48911121/maltempo-nel-nord-italia-le-immagini-delle-frane-nel-bresciano/",
         "https://www.liberoquotidiano.it/news/pillole/48909022/maltempo_in_lombardia_oltre_400_operazioni_di_soccorso_dei_vigili_del_fuoco/",
         "https://milano.repubblica.it/cronaca/2026/08/21/news/maltempo_frane_allagamenti_brescia_brianza_sondrio-425539645/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maltempo-nella-bergamasca-sei-paesi-isolati-350-evacuati_0e504f8b-b843-4532-983f-a2ca978e46d2.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Alcaraz: «Torno agli Us Open». Il campione rientra dopo oltre 4 mesi, ancora in dubbio la presenza di Sinner",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/schede/alcaraz_us_open_ritorno_sinner_in_dubbio_come_puo_cambiare_ranking-9718214.html",
-        "https://www.ilfattoquotidiano.it/2026/08/20/alcaraz-us-open-ritorno-ufficiale-sono-tornato/8484194/",
-        "https://www.adnkronos.com/sport/us-open-carlos-alcaraz-ritorno-torneo_5XMfCsXF6Gf0K0AdZkTBl3",
-        "https://www.ilmessaggero.it/sport/tennis/alcaraz_us_open_sinner_come_sta_gioca_ranking-9716790.html",
-        "https://www.liberoquotidiano.it/news/sport/48903457/alcaraz_torna_campo_us_open_ora_fiato_sospeso_sinner/"
       ]
     },
     {
