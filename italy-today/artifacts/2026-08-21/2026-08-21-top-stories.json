@@ -1,9 +1,30 @@
 {
   "date": "2026-08-21",
-  "generated_at": "Fri 21 Aug 07:53",
+  "generated_at": "Fri 21 Aug 08:52",
   "stories": [
     {
       "rank": 1,
+      "title": "Mps, il cda approva il progetto di Lovaglio: polo da 70 miliardi con Banca Generali e Bpm",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/economia/2026/08/21/news/lovaglio_mps_piano_offerta_cedola_cosa_prevede-425539489/",
+        "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/21/mps-lancia-offerte-su-banco-bpm-e-banca-generali-per-complessivi-34-miliardi_fdeb6455-ab43-41bd-8e06-a7bac6ac937e.html",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/21/prime-pagine-mps-sfida-intesa-un-polo-da-70-miliardi-con-bpm-e-banca_6d4edf1d-4b43-4fc9-92fc-ad6e9d283b12.html",
+        "https://www.repubblica.it/economia/2026/08/21/news/piano_lovaglio_mps_nota_ufficiale_valore_offerte_tempi-425539146/",
+        "https://www.lastampa.it/economia/2026/08/21/news/mps_doppia_ops_su_bpm_e_banca_generali_operazione_da_34_miliardi-15718964/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Palermo, muore a 4 anni stroncata dalla difterite: “Non era stata vaccinata”",
       "source_count": 6,
       "article_count": 8,
@@ -24,45 +45,24 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Mps, il cda approva il progetto di Lovaglio: polo da 70 miliardi con Banca Generali e Bpm",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/21/mps-lancia-offerte-su-banco-bpm-e-banca-generali-per-complessivi-34-miliardi_fdeb6455-ab43-41bd-8e06-a7bac6ac937e.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/21/prime-pagine-mps-sfida-intesa-un-polo-da-70-miliardi-con-bpm-e-banca_6d4edf1d-4b43-4fc9-92fc-ad6e9d283b12.html",
-        "https://www.lastampa.it/economia/2026/08/21/news/mps_doppia_ops_su_bpm_e_banca_generali_operazione_da_34_miliardi-15718964/",
-        "https://ilmanifesto.it/la-mossa-di-mps-per-resistere-alle-mire-di-intesa",
-        "https://www.ilmessaggero.it/economia/news/mps_pronta_lanciare_ops_su_bpm_banca_generali_attesa_la_risposta_di_intesa-9716951.html"
-      ]
-    },
-    {
       "rank": 3,
-      "title": "Trump dichiara la guerra economica all'Iran, 'sarà un D-Day'",
+      "title": "Donna morta in casa vicino Potenza, ha un grave trauma al volto",
       "source_count": 6,
       "article_count": 7,
       "source_domains": [
-        "laverita.info",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
         "repubblica.it",
-        "adnkronos.com",
-        "lastampa.it",
         "ansa.it",
-        "news.google.com"
+        "lastampa.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.laverita.info/geopolitica/trump-sanzioni-iran",
-        "https://www.repubblica.it/esteri/2026/08/21/news/iran_stati_uniti_guerra_economica_trump_isolamento-425538883/",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-economica-trump-chi-rischia_15abwN6SQ4Rzaxqay5ZKVZ",
-        "https://www.lastampa.it/esteri/2026/08/21/diretta/guerra_iran_usa_israele_news_oggi-15718904/",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-dichiara-la-guerra-economica-alliran-sara-un-d-day_b326cf4f-c42a-4e3a-82e9-962954422924.html"
+        "https://www.ilmessaggero.it/italia/donna_uccisa_potenza_marito_figlio-9718073.html",
+        "https://www.ilfattoquotidiano.it/2026/08/21/donna-morta-tito-potenza-notizie/8484440/",
+        "https://www.repubblica.it/cronaca/2026/08/21/news/femminicidio_donna_morta_potenza_tito-425539293/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/donna-morta-in-casa-vicino-potenza-ha-grave-trauma-al-volto_73eb661c-25e5-4004-92cf-e6c917797c1e.html",
+        "https://www.ansa.it/sito/notizie/flash/2026/08/21/donna-morta-in-casa-vicino-potenza-ha-grave-trauma-al-volto_f09d0905-fdfb-4370-ad54-fb97e94ea19f.html"
       ]
     },
     {
@@ -108,42 +108,61 @@
     },
     {
       "rank": 6,
-      "title": "Donna morta in casa vicino Potenza, ha un grave trauma al volto",
+      "title": "Trump dichiara la guerra economica all'Iran, 'sarà un D-Day'",
       "source_count": 5,
       "article_count": 6,
       "source_domains": [
-        "ilfattoquotidiano.it",
+        "laverita.info",
         "repubblica.it",
-        "ansa.it",
+        "adnkronos.com",
         "lastampa.it",
-        "agi.it"
+        "ansa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/21/donna-morta-tito-potenza-notizie/8484440/",
-        "https://www.repubblica.it/cronaca/2026/08/21/news/femminicidio_donna_morta_potenza_tito-425539293/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/donna-morta-in-casa-vicino-potenza-ha-grave-trauma-al-volto_73eb661c-25e5-4004-92cf-e6c917797c1e.html",
-        "https://www.ansa.it/sito/notizie/flash/2026/08/21/donna-morta-in-casa-vicino-potenza-ha-grave-trauma-al-volto_f09d0905-fdfb-4370-ad54-fb97e94ea19f.html",
-        "https://www.lastampa.it/cronaca/2026/08/21/news/potenza_omicidio_donna_trovata_morta_casa-15719023/"
+        "https://www.laverita.info/geopolitica/trump-sanzioni-iran",
+        "https://www.repubblica.it/esteri/2026/08/21/news/iran_stati_uniti_guerra_economica_trump_isolamento-425538883/",
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-economica-trump-chi-rischia_15abwN6SQ4Rzaxqay5ZKVZ",
+        "https://www.lastampa.it/esteri/2026/08/21/diretta/guerra_iran_usa_israele_news_oggi-15718904/",
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-dichiara-la-guerra-economica-alliran-sara-un-d-day_b326cf4f-c42a-4e3a-82e9-962954422924.html"
       ]
     },
     {
       "rank": 7,
-      "title": "La scalata di Cobolli non si ferma: la semifinale a Cincinnati gli vale il best ranking. E ora “vede” le Atp Finals",
-      "source_count": 3,
-      "article_count": 3,
+      "title": "Alcaraz: «Torno agli Us Open». Il campione rientra dopo oltre 4 mesi, ancora in dubbio la presenza di Sinner",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
         "ilfattoquotidiano.it",
-        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
         "liberoquotidiano.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/20/alcaraz-us-open-ritorno-ufficiale-sono-tornato/8484194/",
+        "https://www.adnkronos.com/sport/us-open-carlos-alcaraz-ritorno-torneo_5XMfCsXF6Gf0K0AdZkTBl3",
+        "https://www.ilmessaggero.it/sport/tennis/alcaraz_us_open_sinner_come_sta_gioca_ranking-9716790.html",
+        "https://www.liberoquotidiano.it/news/sport/48903457/alcaraz_torna_campo_us_open_ora_fiato_sospeso_sinner/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Cobolli batte Paul a Cincinnati. Il punto show, poi sbotta: \"Fan***o è mio!\"",
+      "source_count": 3,
+      "article_count": 4,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ansa.it"
+      ],
+      "links": [
         "https://www.ilfattoquotidiano.it/2026/08/21/cobolli-semifinale-cincinnati-masters-1000-ranking-best-atp-finals/8484448/",
+        "https://www.liberoquotidiano.it/news/sport/48906994/flavio_cobolli_batte_paul_cincinnati_punto_show_sbotta_fanc_mio/",
         "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/cincinnati-open-cobolli-rimonta-paul-ed-e-in-semifinale_4a87eb2c-5f05-43ef-b6ac-05931ebfaff6.html",
         "https://www.liberoquotidiano.it/news/sport/48900976/cobolli-batte-jodar-sbrocca-volano-insulti-cincinnati/"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Terremoto di magnitudo 6.7 in Perù",
       "source_count": 3,
       "article_count": 3,
@@ -159,7 +178,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Inter-Monza: dove vederla (tv e streaming), probabili formazioni e orario della prima giornata di Serie A",
       "source_count": 2,
       "article_count": 4,
@@ -172,22 +191,6 @@
         "https://www.ilmessaggero.it/sport/schede/genoa_napoli_dove_vederla_tv_streaming_orario_probabili_formazioni_serie_a-9716593.html",
         "https://www.ilmessaggero.it/sport/schede/udinese_como_probabili_formazioni_orario_dove_vederla_tv_streaming_serie_a_prima_giornata-9716525.html",
         "https://www.ilmessaggero.it/sport/schede/inter_monza_probabili_formazioni_dove_vederla_tv_streaming_orario_serie_a_prima_giornata-9716390.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Alcaraz: «Torno agli Us Open». Il campione rientra dopo oltre 4 mesi, ancora in dubbio la presenza di Sinner",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/20/alcaraz-us-open-ritorno-ufficiale-sono-tornato/8484194/",
-        "https://www.ilmessaggero.it/sport/tennis/alcaraz_us_open_sinner_come_sta_gioca_ranking-9716790.html",
-        "https://www.liberoquotidiano.it/news/sport/48903457/alcaraz_torna_campo_us_open_ora_fiato_sospeso_sinner/"
       ]
     }
   ]
