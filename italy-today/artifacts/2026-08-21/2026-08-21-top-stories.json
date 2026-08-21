@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated_at": "Fri 21 Aug 10:40",
+  "generated_at": "Fri 21 Aug 11:37",
   "stories": [
     {
       "rank": 1,
@@ -90,6 +90,27 @@
     },
     {
       "rank": 5,
+      "title": "Meloni al NY Times: «Pensavo sarebbe stato più facile con Trump. Se lo sentirò a breve? Vedremo». Poi la battuta: «Avrei dovuto fare teatro»",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/politica/2026/08/21/news/meloni_trump_new_york_times_intervista-425539855/",
+        "https://www.ilfattoquotidiano.it/2026/08/21/meloni-trump-rapporto-intervista-notizie/8484696/",
+        "https://www.ansa.it/sito/notizie/politica/2026/08/21/meloni-al-nyt-credevo-con-trump-sarebbe-stato-piu-facile-date_e8a985f1-b1d3-467b-9d4f-44471c877b2d.html",
+        "https://www.ilmessaggero.it/politica/meloni_trump_new_york_times-9718159.html",
+        "https://www.lastampa.it/esteri/2026/08/21/news/meloni_ny_times_intervista-15719138/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Notte d'inferno a Kiev, i missili russi fanno strage di civili",
       "source_count": 5,
       "article_count": 6,
@@ -109,7 +130,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Trump dichiara la guerra economica all'Iran, 'sarà un D-Day'",
       "source_count": 5,
       "article_count": 6,
@@ -129,7 +150,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "La scalata di Cobolli non si ferma: la semifinale a Cincinnati gli vale il best ranking. E ora “vede” le Atp Finals",
       "source_count": 4,
       "article_count": 5,
@@ -148,17 +169,18 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Alcaraz: «Torno agli Us Open». Il campione rientra dopo oltre 4 mesi, ancora in dubbio la presenza di Sinner",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
+        "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
-        "ilmessaggero.it",
         "liberoquotidiano.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/sport/schede/alcaraz_us_open_ritorno_sinner_in_dubbio_come_puo_cambiare_ranking-9718214.html",
         "https://www.ilfattoquotidiano.it/2026/08/20/alcaraz-us-open-ritorno-ufficiale-sono-tornato/8484194/",
         "https://www.adnkronos.com/sport/us-open-carlos-alcaraz-ritorno-torneo_5XMfCsXF6Gf0K0AdZkTBl3",
         "https://www.ilmessaggero.it/sport/tennis/alcaraz_us_open_sinner_come_sta_gioca_ranking-9716790.html",
@@ -166,7 +188,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Meteo, oggi il maltempo si abbatte sull’Italia: temporali, fulmini, venti. Tutte le allerte",
       "source_count": 3,
       "article_count": 4,
@@ -180,22 +202,6 @@
         "https://www.ilmessaggero.it/schede/temporali_dove_quando_allerta_meteo-9718060.html",
         "https://www.lastampa.it/cronaca/2026/08/21/diretta/maltempo_oggi_nord_italia_emergenza_news-15719000/",
         "https://www.ilmessaggero.it/schede/allerta_meteo_oggi_venerdi_21_agosto_14_regioni_temporali_dove_previsioni-9716752.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Terremoto di magnitudo 6.7 in Perù",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/americalatina/2026/08/20/terremoto-di-magnitudo-6.7-in-peru_9ea1c7d2-cf64-47e0-acc1-87fc9fc4af7c.html",
-        "https://www.adnkronos.com/internazionale/esteri/terremoto-peru-oggi-news_5BmqSxuL0N4a2UYRIhvxit",
-        "https://www.ilfattoquotidiano.it/2026/08/20/terremoto-peru-magnitudo-ayacucho-notizie/8484267/"
       ]
     }
   ]
