@@ -1,9 +1,29 @@
 {
   "date": "2026-08-21",
-  "generated_at": "Fri 21 Aug 11:37",
+  "generated_at": "Fri 21 Aug 13:01",
   "stories": [
     {
       "rank": 1,
+      "title": "Palermo, muore a 4 anni stroncata dalla difterite: “Non era stata vaccinata”",
+      "source_count": 5,
+      "article_count": 10,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "palermo.repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/21/difterite-palermo-bambina-morta-vaccinazioni-notizie/8484741/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/madre-della-bimba-morta-a-palermo-attacca-i-medici-incompetenti_dff22e46-609a-4001-bccf-b32389579e80.html",
+        "https://www.ilmessaggero.it/italia/difterite_bambina_morta_cugino_vaccinato_medici_incompetenti-9718241.html",
+        "https://www.ilmessaggero.it/italia/bimba_morta_difterite_cugino_autistico_vaccino_genitori_no_vax-9717993.html",
+        "https://palermo.repubblica.it/cronaca/2026/08/21/news/palermo_muore_a_4_anni_stroncata_dalla_difterite_non_era_stata_vaccinata-425538683/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Potenza, donna trovata morta in casa con gravi traumi facciali: l'allarme lanciato dal marito e dal figlio",
       "source_count": 7,
       "article_count": 8,
@@ -25,21 +45,60 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Si allarga il caso dublinanti, anche Finlandia e Svezia li rimandano in Italia",
-      "source_count": 7,
+      "rank": 3,
+      "title": "Mps prova a lanciare l’Ops su Bpm e Banca Generali. Attesa la risposta di Intesa",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilmanifesto.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/economia/2026/08/21/news/confronto_offerte_mps_intesa_sanpaolo_numeri_operazioni-425539870/",
+        "https://www.repubblica.it/economia/2026/08/21/news/lovaglio_mps_piano_offerta_cedola_cosa_prevede-425539489/",
+        "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/21/mps-lancia-offerte-su-banco-bpm-e-banca-generali-per-complessivi-34-miliardi_fdeb6455-ab43-41bd-8e06-a7bac6ac937e.html",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/21/prime-pagine-mps-sfida-intesa-un-polo-da-70-miliardi-con-bpm-e-banca_6d4edf1d-4b43-4fc9-92fc-ad6e9d283b12.html",
+        "https://www.lastampa.it/economia/2026/08/21/news/mps_doppia_ops_su_bpm_e_banca_generali_operazione_da_34_miliardi-15718964/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Meloni al Nyt: 'Credevo con Trump sarebbe stato più facile date le convergenze'",
+      "source_count": 6,
       "article_count": 7,
       "source_domains": [
-        "laverita.info",
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/donne/notizie/2026/08/21/meloni-al-nyt-parita-non-e-essere-chiamata-la-presidente.-le-femministe-hanno-combattuto_0d0e4370-35a4-4ea7-a4fe-cfaefe395ee2.html",
+        "https://www.repubblica.it/politica/2026/08/21/news/meloni_trump_new_york_times_intervista-425539855/",
+        "https://www.ilfattoquotidiano.it/2026/08/21/meloni-trump-rapporto-intervista-notizie/8484696/",
+        "https://www.ansa.it/sito/notizie/politica/2026/08/21/meloni-al-nyt-credevo-con-trump-sarebbe-stato-piu-facile-date_e8a985f1-b1d3-467b-9d4f-44471c877b2d.html",
+        "https://www.ilmessaggero.it/politica/meloni_trump_new_york_times-9718159.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Anche Svezia e Finlandia rimandano i migranti. Schlein: “Flop del governo”",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
         "repubblica.it",
         "ilmanifesto.it",
         "lastampa.it",
         "ilmessaggero.it",
-        "ansa.it",
-        "ilsole24ore.com"
+        "ansa.it"
       ],
       "links": [
-        "https://www.laverita.info/cronache-dellinvasione/dublinanti-ong-schengen-governo",
+        "https://www.repubblica.it/politica/2026/08/21/news/patto_ue_migranti_rifugiati_italia-425538890/",
         "https://www.repubblica.it/politica/2026/08/21/news/svezia_finlandia_dublinanti_patto_ue-425538878/",
         "https://ilmanifesto.it/lautogol-sovranista-mezza-europa-manda-i-migranti-in-italia",
         "https://www.lastampa.it/esteri/2026/08/21/news/migranti_in_italia_ue_divisa_francia_e_spagna_dicono_no_al_rimpatrio_dei_dublinanti-15718886/",
@@ -47,90 +106,7 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Palermo, muore a 4 anni stroncata dalla difterite: “Non era stata vaccinata”",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ilmessaggero.it",
-        "palermo.repubblica.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/bimba_morta_difterite_cugino_autistico_vaccino_genitori_no_vax-9717993.html",
-        "https://palermo.repubblica.it/cronaca/2026/08/21/news/palermo_muore_a_4_anni_stroncata_dalla_difterite_non_era_stata_vaccinata-425538683/",
-        "https://www.repubblica.it/commenti/2026/08/21/news/vaccini_bugieburioni-425538520/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/bimba-di-4-anni-muore-per-sospetta-difterite-a-palermo_88e2de87-751a-4c96-bd7c-517ffd0ff4ff.html",
-        "https://www.ilfattoquotidiano.it/2026/08/20/difterite-palermo-bambina-vaccini-notizie/8483915/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Mps prova a lanciare l’Ops su Bpm e Banca Generali. Attesa la risposta di Intesa",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/economia/2026/08/21/news/lovaglio_mps_piano_offerta_cedola_cosa_prevede-425539489/",
-        "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/21/mps-lancia-offerte-su-banco-bpm-e-banca-generali-per-complessivi-34-miliardi_fdeb6455-ab43-41bd-8e06-a7bac6ac937e.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/21/prime-pagine-mps-sfida-intesa-un-polo-da-70-miliardi-con-bpm-e-banca_6d4edf1d-4b43-4fc9-92fc-ad6e9d283b12.html",
-        "https://www.repubblica.it/economia/2026/08/21/news/piano_lovaglio_mps_nota_ufficiale_valore_offerte_tempi-425539146/",
-        "https://www.lastampa.it/economia/2026/08/21/news/mps_doppia_ops_su_bpm_e_banca_generali_operazione_da_34_miliardi-15718964/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Meloni al NY Times: «Pensavo sarebbe stato più facile con Trump. Se lo sentirò a breve? Vedremo». Poi la battuta: «Avrei dovuto fare teatro»",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/08/21/news/meloni_trump_new_york_times_intervista-425539855/",
-        "https://www.ilfattoquotidiano.it/2026/08/21/meloni-trump-rapporto-intervista-notizie/8484696/",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/21/meloni-al-nyt-credevo-con-trump-sarebbe-stato-piu-facile-date_e8a985f1-b1d3-467b-9d4f-44471c877b2d.html",
-        "https://www.ilmessaggero.it/politica/meloni_trump_new_york_times-9718159.html",
-        "https://www.lastampa.it/esteri/2026/08/21/news/meloni_ny_times_intervista-15719138/"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Notte d'inferno a Kiev, i missili russi fanno strage di civili",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ansa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/08/21/news/guerra_russia_ucraina_missili_kiev_colpito_ospedale_pediatrico-425538771/",
-        "https://ilmanifesto.it/kiev-sotto-i-missili-di-putin-cercasi-disperatamente-difesa-aerea",
-        "https://www.lastampa.it/esteri/2026/08/21/diretta/guerra_russia_ucraina_oggi-15718919/",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/ucraina-salgono-a-16-i-morti-nei-raid-aerei-russi-zelensky-denuncia-lescalation_687531fd-cf89-4799-81ca-a97f956679a5.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48901168/massiccio-attacco-russo-su-kiev-incendi-nella-capitale-ucraina/"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Trump dichiara la guerra economica all'Iran, 'sarà un D-Day'",
       "source_count": 5,
       "article_count": 6,
@@ -147,6 +123,26 @@
         "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-economica-trump-chi-rischia_15abwN6SQ4Rzaxqay5ZKVZ",
         "https://www.lastampa.it/esteri/2026/08/21/diretta/guerra_iran_usa_israele_news_oggi-15718904/",
         "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-dichiara-la-guerra-economica-alliran-sara-un-d-day_b326cf4f-c42a-4e3a-82e9-962954422924.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Notte d'inferno a Kiev, i missili russi fanno strage di civili",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it",
+        "ansa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/esteri/2026/08/21/news/guerra_russia_ucraina_missili_kiev_colpito_ospedale_pediatrico-425538771/",
+        "https://ilmanifesto.it/kiev-sotto-i-missili-di-putin-cercasi-disperatamente-difesa-aerea",
+        "https://www.lastampa.it/esteri/2026/08/21/diretta/guerra_russia_ucraina_oggi-15718919/",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/20/ucraina-salgono-a-16-i-morti-nei-raid-aerei-russi-zelensky-denuncia-lescalation_687531fd-cf89-4799-81ca-a97f956679a5.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48901168/massiccio-attacco-russo-su-kiev-incendi-nella-capitale-ucraina/"
       ]
     },
     {
@@ -189,19 +185,21 @@
     },
     {
       "rank": 10,
-      "title": "Meteo, oggi il maltempo si abbatte sull’Italia: temporali, fulmini, venti. Tutte le allerte",
-      "source_count": 3,
-      "article_count": 4,
+      "title": "Maltempo, nella Bergamasca sei paesi isolati, 350 evacuati",
+      "source_count": 4,
+      "article_count": 5,
       "source_domains": [
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "laverita.info",
+        "liberoquotidiano.it",
+        "milano.repubblica.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.repubblica.it/cronaca/2026/08/21/news/meteo_maltempo_liguria_toscana_news_oggi-425539450/",
-        "https://www.ilmessaggero.it/schede/temporali_dove_quando_allerta_meteo-9718060.html",
-        "https://www.lastampa.it/cronaca/2026/08/21/diretta/maltempo_oggi_nord_italia_emergenza_news-15719000/",
-        "https://www.ilmessaggero.it/schede/allerta_meteo_oggi_venerdi_21_agosto_14_regioni_temporali_dove_previsioni-9716752.html"
+        "https://www.laverita.info/video/maltempo-lombardia",
+        "https://www.liberoquotidiano.it/news/pillole/48909022/maltempo_in_lombardia_oltre_400_operazioni_di_soccorso_dei_vigili_del_fuoco/",
+        "https://milano.repubblica.it/cronaca/2026/08/21/news/maltempo_frane_allagamenti_brescia_brianza_sondrio-425539645/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/maltempo-nella-bergamasca-sei-paesi-isolati-350-evacuati_0e504f8b-b843-4532-983f-a2ca978e46d2.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48907899/maltempo-evacuato-campeggio-bergamasca-minacciato-frana-innalzamento-torrente/"
       ]
     }
   ]
