@@ -1,35 +1,35 @@
 {
   "date": "2026-08-21",
-  "generated_at": "Fri 21 Aug 17:38",
+  "generated_at": "Fri 21 Aug 18:47",
   "stories": [
     {
       "rank": 1,
       "title": "Sinner rinuncia agli Us Open: “Ho bisogno di altro tempo”",
       "source_count": 8,
-      "article_count": 16,
+      "article_count": 17,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
+        "liberoquotidiano.it",
         "repubblica.it",
         "laverita.info",
         "ansa.it",
-        "liberoquotidiano.it",
         "lastampa.it",
         "news.google.com"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/08/21/sinner-us-open-forfait-bertolucci-nessuno-lo-vede-su-un-campo-da-tennis-da-tempo-i-recuperi-dagli-infortuni-non-si-risolvono-con-condizionali/8485144/",
         "https://www.ilmessaggero.it/sport/schede/sinner_ginocchio_sovraccarico_cura_quando_rientra_infortunio-9718441.html",
+        "https://www.liberoquotidiano.it/news/sport/48914189/sinner-bertoluccinon-new-york-fare-turista/",
         "https://www.repubblica.it/sport/dossier/us-open-tennis/2026/08/21/news/sinner_cambia_classifica_dopo_forfait_us_open-425540301/",
-        "https://www.repubblica.it/sport/tennis/2026/08/21/news/sinner_no_us_open_bertolucci_intervista-425540218/",
-        "https://www.ilfattoquotidiano.it/2026/08/21/sinner-niente-us-open-come-cambia-classifica-atp-rientro-pechino-perrche/8484968/"
+        "https://www.repubblica.it/sport/tennis/2026/08/21/news/sinner_no_us_open_bertolucci_intervista-425540218/"
       ]
     },
     {
       "rank": 2,
       "title": "Palermo, muore a 4 anni stroncata dalla difterite: “Non era stata vaccinata”",
       "source_count": 4,
-      "article_count": 13,
+      "article_count": 12,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
@@ -130,22 +130,20 @@
     },
     {
       "rank": 7,
-      "title": "Trump dichiara la guerra economica all'Iran, 'sarà un D-Day'",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Evacuato campeggio con 250 persone per maltempo a Bergamo",
+      "source_count": 3,
+      "article_count": 8,
       "source_domains": [
-        "laverita.info",
-        "repubblica.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ansa.it"
+        "ansa.it",
+        "liberoquotidiano.it",
+        "milano.repubblica.it"
       ],
       "links": [
-        "https://www.laverita.info/geopolitica/trump-sanzioni-iran",
-        "https://www.repubblica.it/esteri/2026/08/21/news/iran_stati_uniti_guerra_economica_trump_isolamento-425538883/",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-economica-trump-chi-rischia_15abwN6SQ4Rzaxqay5ZKVZ",
-        "https://www.lastampa.it/esteri/2026/08/21/diretta/guerra_iran_usa_israele_news_oggi-15718904/",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/08/20/trump-dichiara-la-guerra-economica-alliran-sara-un-d-day_b326cf4f-c42a-4e3a-82e9-962954422924.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/nubifragi-tornado-e-fulmini-il-maltempo-sferza-il-centro-nord_a64c18e3-dd44-4259-a721-17acb1bc8870.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48913415/evacuato-campeggio-con-250-persone-per-maltempo-a-bergamo/",
+        "https://www.liberoquotidiano.it/news/libero-video/48910527/maltempo-bresciano-sorvolo-vigili-del-fuoco-aree-colpite/",
+        "https://www.liberoquotidiano.it/news/tv-news/48911121/maltempo-nel-nord-italia-le-immagini-delle-frane-nel-bresciano/",
+        "https://www.liberoquotidiano.it/news/pillole/48909022/maltempo_in_lombardia_oltre_400_operazioni_di_soccorso_dei_vigili_del_fuoco/"
       ]
     },
     {
@@ -169,24 +167,6 @@
     },
     {
       "rank": 9,
-      "title": "Maltempo, evacuato campeggio nella bergamasca minacciato da frana e innalzamento del torrente",
-      "source_count": 3,
-      "article_count": 7,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "milano.repubblica.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48913415/evacuato-campeggio-con-250-persone-per-maltempo-a-bergamo/",
-        "https://www.liberoquotidiano.it/news/libero-video/48910527/maltempo-bresciano-sorvolo-vigili-del-fuoco-aree-colpite/",
-        "https://www.liberoquotidiano.it/news/tv-news/48911121/maltempo-nel-nord-italia-le-immagini-delle-frane-nel-bresciano/",
-        "https://www.liberoquotidiano.it/news/pillole/48909022/maltempo_in_lombardia_oltre_400_operazioni_di_soccorso_dei_vigili_del_fuoco/",
-        "https://milano.repubblica.it/cronaca/2026/08/21/news/maltempo_frane_allagamenti_brescia_brianza_sondrio-425539645/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "La scalata di Cobolli non si ferma: la semifinale a Cincinnati gli vale il best ranking. E ora “vede” le Atp Finals",
       "source_count": 4,
       "article_count": 5,
@@ -202,6 +182,25 @@
         "https://www.ilfattoquotidiano.it/2026/08/21/cobolli-semifinale-cincinnati-masters-1000-ranking-best-atp-finals/8484448/",
         "https://www.liberoquotidiano.it/news/sport/48906994/flavio_cobolli_batte_paul_cincinnati_punto_show_sbotta_fanc_mio/",
         "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/20/cincinnati-open-cobolli-rimonta-paul-ed-e-in-semifinale_4a87eb2c-5f05-43ef-b6ac-05931ebfaff6.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Tocca all’Olanda: in avvio processo per trasferimenti ‘dublinanti’ verso l'Italia. È il sesto Paese",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/21/nuovo-patto-ue-su-migrazione-e-asilo-cose-come-funziona-e-cosa-ha-cambiato-per-litalia/8484707/",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/08/21/olanda-rimanderemo-in-italia-i-migranti-arrivati-dopo-il-12-di-giugno_62a47941-97c9-4c45-8b38-94176f4ab80b.html",
+        "https://www.liberoquotidiano.it/news/terra-promessa/48908854/immigrazione-anche-olanda-avvia-trasferimenti-dublinanti-italia/",
+        "https://www.ilfattoquotidiano.it/2026/08/21/rimpatri-richiedenti-asilo-olanda-italia-migranti-notizie/8484516/",
+        "https://www.repubblica.it/politica/2026/08/21/news/dublinanti_patto_migrazioni_asilo_olanda_trasferimenti_italia-425539482/"
       ]
     }
   ]
