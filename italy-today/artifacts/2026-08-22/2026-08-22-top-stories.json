@@ -1,9 +1,31 @@
 {
   "date": "2026-08-22",
-  "generated_at": "Sat 22 Aug 07:40",
+  "generated_at": "Sat 22 Aug 08:40",
   "stories": [
     {
       "rank": 1,
+      "title": "Esplosione in una palazzina a Perugia, ci sono persone coinvolte",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/22/crollo-palazzina-perugia-esplosione-notizie/8485399/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-palazzina-a-perugia-ci-sono-persone-coinvolte_744dd77d-34a4-4855-9f91-aedee0b5f198.html",
+        "https://www.ilmessaggero.it/umbria/perugia_esplode_palazzina_tetto_crollato_persone_sotto_macerie-9719744.html",
+        "https://www.repubblica.it/cronaca/2026/08/22/news/esplode_una_palazzina_di_due_piani_a_perugia_ci_sono_persone_coinvolte-425541202/",
+        "https://www.lastampa.it/cronaca/2026/08/22/news/perugia_esplosione_in_una_palazzina_di_4_piani_ci_sono_persone_coinvolte-15719744/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Caso Flotilla, la Turchia emette un mandato di arresto internazionale per Netanyahu",
       "source_count": 5,
       "article_count": 6,
@@ -20,26 +42,6 @@
         "https://www.lastampa.it/esteri/2026/08/22/news/erdogan_e_netanyahu_escalation_personale_arrestatelo_antisemita-15719519/",
         "https://www.lastampa.it/esteri/2026/08/22/diretta/guerra_iran_usa_israele_news_oggi-15719649/",
         "https://www.ilmessaggero.it/mondo/erdogan_mandato_cattura_netanyahu_capi_accusa_quali_sono-9718607.html"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "La Russia bombarda un centro commerciale: 14 morti e feriti",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/22/due-morti-a-kiev-e-zaporizhzhia-nei-raid-russi-di-stanotte-sullucraina_098960b6-5125-4a71-83ce-ecfbc7ca985d.html",
-        "https://www.repubblica.it/esteri/2026/08/22/diretta/guerra_ucraina_russia_news_oggi-425540866/",
-        "https://ilmanifesto.it/la-russia-bombarda-un-centro-commerciale-14-morti-e-feriti",
-        "https://www.lastampa.it/esteri/2026/08/22/diretta/guerra_russia_ucraina_news_oggi-15719647/",
-        "https://www.ilfattoquotidiano.it/2026/08/21/guerra-ucraina-droni-kryvyj-rih-notizie/8485070/"
       ]
     },
     {
@@ -101,19 +103,20 @@
     },
     {
       "rank": 6,
-      "title": "Meloni al Nyt: 'Pensavo fosse più facile parlare con Trump'",
-      "source_count": 3,
+      "title": "La Russia bombarda un centro commerciale: 14 morti e feriti",
+      "source_count": 4,
       "article_count": 4,
       "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "lastampa.it"
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/politica/meloni_trump_messaggio_scontro_italia_usa-9718698.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/21/meloni-al-nyt-credevo-con-trump-sarebbe-stato-piu-facile-date_e8a985f1-b1d3-467b-9d4f-44471c877b2d.html",
-        "https://www.ansa.it/donne/notizie/2026/08/21/meloni-al-nyt-parita-non-e-essere-chiamata-la-presidente.-le-femministe-hanno-combattuto_0d0e4370-35a4-4ea7-a4fe-cfaefe395ee2.html",
-        "https://www.lastampa.it/esteri/2026/08/21/news/meloni_ny_times_intervista-15719138/"
+        "https://www.repubblica.it/esteri/2026/08/22/diretta/guerra_ucraina_russia_news_oggi-425540866/",
+        "https://ilmanifesto.it/la-russia-bombarda-un-centro-commerciale-14-morti-e-feriti",
+        "https://www.lastampa.it/esteri/2026/08/22/diretta/guerra_russia_ucraina_news_oggi-15719647/",
+        "https://www.ilfattoquotidiano.it/2026/08/21/guerra-ucraina-droni-kryvyj-rih-notizie/8485070/"
       ]
     },
     {
@@ -134,44 +137,49 @@
     },
     {
       "rank": 8,
-      "title": "Stop alle auto con targa polacca, sarà obbligatoria l'Rc auto italiana",
-      "source_count": 2,
-      "article_count": 2,
+      "title": "Musetti sconfitto ai quarti a Cincinnati. Cobolli sfida Fils in semifinale",
+      "source_count": 3,
+      "article_count": 3,
       "source_domains": [
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/08/21/stop-alle-auto-con-targa-polacca-sara-obbligatoria-lrc-auto_b6d96ee8-9bbe-4cbe-8cb9-fcd6103039a5.html",
-        "https://www.ilsole24ore.com/art/stop-targhe-polacche-scatta-l-obbligo-dell-rc-auto-italiana-AJ1jMIr"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Meeting di Rimini, Mattarella: «Viviamo guerre scellerate, l’umanità aiuti a rifiutare l’odio»",
-      "source_count": 2,
-      "article_count": 2,
-      "source_domains": [
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.lastampa.it/cronaca/2026/08/22/news/al_meeting_di_rimini_tra_i_volontari_qui_guardiamo_ogni_cosa_con_umanita-15719565/",
-        "https://www.ilsole24ore.com/art/meeting-rimini-mattarella-viviamo-guerre-scellerate-l-umanita-aiuti-rifiutare-l-odio-AJ4dcCr"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Ritorno ad Amatrice, la ferita di quella notte che non è stata curata",
-      "source_count": 2,
-      "article_count": 2,
-      "source_domains": [
+        "ilfattoquotidiano.it",
         "repubblica.it",
         "ansa.it"
       ],
       "links": [
-        "https://www.repubblica.it/cronaca/2026/08/22/news/amatrice_terremoto_2016_ceccarelli-425540900/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/la-lenta-rinascita-di-amatrice_9bc7a765-29f1-4d9e-9de3-afb3561e459d.html"
+        "https://www.ilfattoquotidiano.it/2026/08/22/musetti-tiafoe-cincinnati-quarti-oggi/8485393/",
+        "https://www.repubblica.it/sport/tennis/2026/08/22/news/musetti_cincinnati_cobolli-425541077/",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/22/tennis-cincinnati-musetti-ko-nei-quarti-contro-tiafoe_a363c4d3-475e-4ff9-b11f-2f093ab77e31.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Caldo, Italia spaccata: più fresco al Nord, tornano i bollini rossi al Sud",
+      "source_count": 3,
+      "article_count": 3,
+      "source_domains": [
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.lastampa.it/cronaca/2026/08/22/news/meteo_tregua_caldo_nord_afa_sud_previsioni-15719765/",
+        "https://www.ilmessaggero.it/schede/meteo_nuova_ondata_caldo_quanto_dura_temporali_maltempo_previsioni-9719663.html",
+        "https://www.ilsole24ore.com/art/caldo-italia-spaccata-piu-fresco-nord-tornano-bollini-rossi-sud-AJXBmTr"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Cinque giorni nell’oceano aggrappati a una ghiacciaia: salvati due pescatori",
+      "source_count": 2,
+      "article_count": 3,
+      "source_domains": [
+        "lastampa.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/video/socialnews/2026/08/22/video/cinque_giorni_alla_deriva_nel_pacifico_dentro_una_ghiacciaia_salvati_due_pescatori_messicani-15719747/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/08/21/alla-deriva-nelloceano-su-una-ghiacciaia-marina-messicana-salva-due-pescatori_626d6380-120d-4247-b35e-48087e506ee2.html",
+        "https://www.lastampa.it/esteri/2026/08/21/video/oceano_pescatori_salvi_ghiacciaia_soccorso_messico-15719205/"
       ]
     }
   ]
