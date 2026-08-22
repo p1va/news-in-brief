@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated_at": "Sat 22 Aug 17:30",
+  "generated_at": "Sat 22 Aug 18:41",
   "stories": [
     {
       "rank": 1,
@@ -49,6 +49,24 @@
     },
     {
       "rank": 3,
+      "title": "Papa Leone è arrivato al Meeting di Rimini, applausi e cori da stadio",
+      "source_count": 3,
+      "article_count": 13,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/48925046/papa_leone_xiv_al_meeting_di_rimini_smascheriamo_i_rapporti_di_potere_ingiusti_/",
+        "https://www.liberoquotidiano.it/news/pillole/48924955/papa_al_meeting_prima_di_confini_e_istituzioni_ci_sono_sempre_le_persone_/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48925033/papa-leone-scende-dalla-golf-car-per-salutare-una-persona-invalida-al-meeting-di-rimini/",
+        "https://www.liberoquotidiano.it/news/pillole/48924697/papa_leone_xiv_al_meeting_di_rimini_e_l_ora_della_responsabilita_/",
+        "https://www.liberoquotidiano.it/news/tv-news/48924869/il-papa-lascia-il-meeting-di-rimini-tra-gli-applausi-della-folla/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Palermo, bimba non vaccinata morta di difterite: indagati i genitori. Mercoledì l’autopsia",
       "source_count": 6,
       "article_count": 9,
@@ -69,7 +87,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Robot umanoide cinese corre i 100 metri in 9'32\", battuto il record di Bolt: raggiunta ​una velocità massima di 14,5 metri al secondo",
       "source_count": 5,
       "article_count": 8,
@@ -86,24 +104,6 @@
         "https://www.liberoquotidiano.it/news/sport/48924234/robot-batte-record-bolt-100-metri-poi-si-suicida/",
         "https://www.ilfattoquotidiano.it/2026/08/22/robot-umanoide-record-100-metri-notizie/8485662/",
         "https://www.lastampa.it/tech/2026/08/22/video/il_robot_e_piu_veloce_di_usain_bolt_100_metri_in_939_secondi_poi_finisce_contro_il_muro-15719964/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Papa Leone è arrivato al Meeting di Rimini, applausi e cori da stadio",
-      "source_count": 3,
-      "article_count": 10,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48924869/il-papa-lascia-il-meeting-di-rimini-tra-gli-applausi-della-folla/",
-        "https://www.repubblica.it/politica/2026/08/22/news/papa_leone_iv_visita_meeting_cl_rimini-425541663/",
-        "https://www.liberoquotidiano.it/news/pillole/48923255/il_popolo_del_meeting_di_rimini_accoglie_papa_leone_xiv/",
-        "https://www.liberoquotidiano.it/news/tv-news/48924685/l-abbaraccio-del-popolo-di-cl-a-papa-leone-dal-meeting-di-rimini/",
-        "https://www.liberoquotidiano.it/news/tv-news/48924598/papa-al-meeting-prima-dei-confini-e-istituzioni-ci-sono-le-persone/"
       ]
     },
     {
@@ -149,20 +149,21 @@
     },
     {
       "rank": 8,
-      "title": "Aperti a Taranto i Giochi del Mediterraneo, ovazione per Mattarella",
-      "source_count": 3,
-      "article_count": 8,
+      "title": "Sinner e il mistero forfait, quando può tornare in campo? Il problema al ginocchio, i controlli e le vacanze prima della rinuncia agli Us Open",
+      "source_count": 4,
+      "article_count": 6,
       "source_domains": [
+        "ilmessaggero.it",
         "liberoquotidiano.it",
-        "ansa.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/pillole/48923244/giochi_del_mediterraneo_malago_taranto_promossa_a_pieni_voti_/",
-        "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/22/giochi-mediterraneo-dg-molfetta-allo-iacovone-show-degno-di-una-olimpiade_fcd47a15-c1ee-4b46-8dcb-3b938c678126.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48919365/aperti-a-taranto-i-giochi-del-mediterraneo-ovazione-per-mattarella/",
-        "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/21/si-alza-il-sipario-su-taranto-2026-mattarella-apre-i-giochi-del-mediterraneo_a20fcfe3-ddf4-493e-92d6-11c16192f100.html",
-        "https://www.lastampa.it/cronaca/2026/08/21/news/mattarella_da_il_via_a_taranto_ai_giochi_del_mediterraneo-15719611/"
+        "https://www.ilmessaggero.it/sport/schede/sinner_mistero_forfait_us_open_cosa_c_e_dietro_quando_torna_infortunio-9720062.html",
+        "https://www.ilmessaggero.it/sport/schede/sinner_quando_torna_infortunio_mistero_forfait_cosa_ce_dietro_us_open-9720062.html",
+        "https://www.liberoquotidiano.it/news/sport/48923249/jannik-sinner-video-30-luglio-cosa-si-scopre-infortunio/",
+        "https://www.ilfattoquotidiano.it/2026/08/22/sinner-video-30-luglio-quando-si-e-fatto-male-cosi-si-allenava-duramente-per-preparare-us-open/8485434/",
+        "https://www.liberoquotidiano.it/news/sport/48917982/jannik-sinner-cosa-teme-davvero-inquietante-indiscrezione/"
       ]
     },
     {
@@ -186,20 +187,21 @@
     },
     {
       "rank": 10,
-      "title": "Papa a San Marino, Leone ai fedeli: viviate con autentita libertà",
-      "source_count": 3,
-      "article_count": 7,
+      "title": "Aperti a Taranto i Giochi del Mediterraneo, ovazione per Mattarella",
+      "source_count": 4,
+      "article_count": 6,
       "source_domains": [
         "liberoquotidiano.it",
-        "lastampa.it",
-        "ansa.it"
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48924344/-un-occasione-speciale-gli-abitanti-di-san-marino-accolgono-il-papa/",
-        "https://www.liberoquotidiano.it/news/tv-news/48921308/il-papa-lascia-san-marino-pranzo-dalle-monache-a-pennabilli/",
-        "https://www.lastampa.it/cronaca/2026/08/22/news/papa_leone_san_marino_diritto_umanitario_calpestato-15719834/",
-        "https://www.ansa.it/vaticano/notizie/2026/08/22/il-papa-e-arrivato-a-san-marino-accolto-dai-capitani-reggenti_4ffb0ebe-bee3-41e3-87ba-78ca82852dbd.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48920340/papa-a-san-marino-leone-ai-fedeli-viviate-con-autentita-liberta-/"
+        "https://www.liberoquotidiano.it/news/pillole/48923244/giochi_del_mediterraneo_malago_taranto_promossa_a_pieni_voti_/",
+        "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/22/giochi-mediterraneo-dg-molfetta-allo-iacovone-show-degno-di-una-olimpiade_fcd47a15-c1ee-4b46-8dcb-3b938c678126.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48919365/aperti-a-taranto-i-giochi-del-mediterraneo-ovazione-per-mattarella/",
+        "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/21/si-alza-il-sipario-su-taranto-2026-mattarella-apre-i-giochi-del-mediterraneo_a20fcfe3-ddf4-493e-92d6-11c16192f100.html",
+        "https://www.ilfattoquotidiano.it/2026/08/21/giochi-mediterraneo-taranto-meloni-fischi-notizie/8485349/"
       ]
     }
   ]
