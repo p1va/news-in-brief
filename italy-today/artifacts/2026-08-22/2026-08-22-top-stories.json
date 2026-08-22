@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated_at": "Sat 22 Aug 11:30",
+  "generated_at": "Sat 22 Aug 12:53",
   "stories": [
     {
       "rank": 1,
@@ -28,16 +28,55 @@
     },
     {
       "rank": 2,
-      "title": "Sinner rinuncia agli Us Open per il dolore al ginocchio: “Sono deluso. Ho bisogno di altro tempo”",
-      "source_count": 7,
-      "article_count": 8,
+      "title": "Bimba non vaccinata morta per difterite a Palermo, la Procura indaga sulla responsabilità dei genitori. Anche il cuginetto di 4 anni positivo al test",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "lastampa.it",
+        "ansa.it",
+        "palermo.repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.lastampa.it/cronaca/2026/08/22/news/bimba_4_anni_morta_diferite_non_vaccinata_palermo_genitori_indagati_omicidio-15719897/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-indagati-i-genitori_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html",
+        "https://palermo.repubblica.it/cronaca/2026/08/22/news/genitori_no_vax_indagati_procura_omicidio_colposo_anna_rosa_difterite_palermo-425541429/",
+        "https://www.ilfattoquotidiano.it/2026/08/22/difterite-palermo-cugino-positivo-notizie/8485444/",
+        "https://www.ilmessaggero.it/italia/difterite_cuginetto_positivo_sintomi-9719797.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Aperti a Taranto i Giochi del Mediterraneo, ovazione per Mattarella",
+      "source_count": 4,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "governo.it"
+      ],
+      "links": [
+        "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/22/giochi-mediterraneo-dg-molfetta-allo-iacovone-show-degno-di-una-olimpiade_fcd47a15-c1ee-4b46-8dcb-3b938c678126.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48919365/aperti-a-taranto-i-giochi-del-mediterraneo-ovazione-per-mattarella/",
+        "https://www.lastampa.it/sport/2026/08/22/news/giochi_del_mediterraneo-15719712/",
+        "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/21/si-alza-il-sipario-su-taranto-2026-mattarella-apre-i-giochi-del-mediterraneo_a20fcfe3-ddf4-493e-92d6-11c16192f100.html",
+        "https://www.lastampa.it/cronaca/2026/08/21/news/mattarella_da_il_via_a_taranto_ai_giochi_del_mediterraneo-15719611/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Sinner salta gli Us Open: 'Sono deluso, ma ho bisogno di tempo'",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
         "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "repubblica.it",
         "ilmessaggero.it",
         "ansa.it",
-        "lastampa.it",
         "news.google.com"
       ],
       "links": [
@@ -49,47 +88,27 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Bimba non vaccinata morta per difterite a Palermo, la Procura indaga sulla responsabilità dei genitori. Anche il cuginetto di 4 anni positivo al test",
-      "source_count": 6,
-      "article_count": 9,
+      "rank": 5,
+      "title": "Sprint Race F1 Olanda, Russell trionfa davanti a Leclerc (2°)",
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
-        "palermo.repubblica.it",
+        "repubblica.it",
+        "ansa.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "ansa.it",
-        "ilsole24ore.com",
-        "agi.it"
+        "lastampa.it"
       ],
       "links": [
-        "https://palermo.repubblica.it/cronaca/2026/08/22/news/genitori_no_vax_indagati_procura_omicidio_colposo_anna_rosa_difterite_palermo-425541429/",
-        "https://www.ilfattoquotidiano.it/2026/08/22/difterite-palermo-cugino-positivo-notizie/8485444/",
-        "https://www.ilmessaggero.it/italia/difterite_cuginetto_positivo_sintomi-9719797.html",
-        "https://www.ilmessaggero.it/italia/bimba_non_vaccinata_morta_difterite_genitori_indagati-9719797.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-cuginetto-ricoverato-positivo-alla-difterite_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html"
+        "https://www.repubblica.it/sport/formulauno/2026/08/22/news/f1_gp_olanda_sprint_risultati_classifica_antonelli-425541518/",
+        "https://www.ansa.it/sito/notizie/sport/2026/08/22/f1-gp-olanda-russell-vince-la-sprint-_de76d1f1-1935-4eb2-bb74-93950b30028a.html",
+        "https://www.ilfattoquotidiano.it/2026/08/22/f1-gp-olanda-russell-sprint-ordine-arrivo-nuova-classifica/8485483/",
+        "https://www.ilmessaggero.it/sport/formula1/gp_olanda_gara_sprint_diretta_live_oggi-9719836.html",
+        "https://www.repubblica.it/sport/formulauno/2026/08/22/diretta/f1_gp_olanda_sprint_qualifiche_diretta-425541387/"
       ]
     },
     {
-      "rank": 4,
-      "title": "Aperti a Taranto i Giochi del Mediterraneo, ovazione per Mattarella",
-      "source_count": 4,
-      "article_count": 9,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ansa.it",
-        "governo.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48919365/aperti-a-taranto-i-giochi-del-mediterraneo-ovazione-per-mattarella/",
-        "https://www.lastampa.it/sport/2026/08/22/news/giochi_del_mediterraneo-15719712/",
-        "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/21/si-alza-il-sipario-su-taranto-2026-mattarella-apre-i-giochi-del-mediterraneo_a20fcfe3-ddf4-493e-92d6-11c16192f100.html",
-        "https://www.lastampa.it/cronaca/2026/08/21/news/mattarella_da_il_via_a_taranto_ai_giochi_del_mediterraneo-15719611/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48916055/mattarella-e-meloni-accolgono-delegazioni-straniere-ai-giochi-del-mediterraneo-a-taranto/"
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "Caso Flotilla, la Turchia emette un mandato di arresto internazionale per Netanyahu",
       "source_count": 5,
       "article_count": 6,
@@ -109,7 +128,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Ucraina, attacco russo su centro commerciale a Kryvyj Rih: almeno 14 morti e oltre 120 feriti",
       "source_count": 5,
       "article_count": 6,
@@ -126,26 +145,6 @@
         "https://www.repubblica.it/esteri/2026/08/22/diretta/guerra_ucraina_russia_news_oggi-425540866/",
         "https://ilmanifesto.it/la-russia-bombarda-un-centro-commerciale-14-morti-e-feriti",
         "https://www.lastampa.it/esteri/2026/08/22/diretta/guerra_russia_ucraina_news_oggi-15719647/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Sprint Race F1 Olanda, Russell trionfa davanti a Leclerc (2°)",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/08/22/f1-gp-olanda-russell-vince-la-sprint-_de76d1f1-1935-4eb2-bb74-93950b30028a.html",
-        "https://www.ilfattoquotidiano.it/2026/08/22/f1-gp-olanda-russell-sprint-ordine-arrivo-nuova-classifica/8485483/",
-        "https://www.ilmessaggero.it/sport/formula1/gp_olanda_gara_sprint_diretta_live_oggi-9719836.html",
-        "https://www.repubblica.it/sport/formulauno/2026/08/22/diretta/f1_gp_olanda_sprint_qualifiche_diretta-425541387/",
-        "https://www.lastampa.it/sport/2026/08/22/news/sprint_race_f1_olanda_russell_davanti_a_leclerc_2-15719880/"
       ]
     },
     {
@@ -171,18 +170,18 @@
       "rank": 9,
       "title": "Papa a San Marino, Leone ai fedeli: viviate con autentita libertà",
       "source_count": 3,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
+        "ansa.it",
         "liberoquotidiano.it",
-        "lastampa.it",
-        "ansa.it"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/08/21/la-visita-di-papa-leone-al-meeting-di-rimini_30d396bc-bf5d-49bb-a9a7-80ad96c81e02.html",
         "https://www.liberoquotidiano.it/news/tv-news/48921308/il-papa-lascia-san-marino-pranzo-dalle-monache-a-pennabilli/",
         "https://www.lastampa.it/cronaca/2026/08/22/news/papa_leone_san_marino_diritto_umanitario_calpestato-15719834/",
         "https://www.ansa.it/vaticano/notizie/2026/08/22/il-papa-e-arrivato-a-san-marino-accolto-dai-capitani-reggenti_4ffb0ebe-bee3-41e3-87ba-78ca82852dbd.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48920340/papa-a-san-marino-leone-ai-fedeli-viviate-con-autentita-liberta-/",
-        "https://www.liberoquotidiano.it/news/tv-news/48920332/papa-a-san-marino-non-c-e-liberta-senza-rispetto-dignita-umana/"
+        "https://www.liberoquotidiano.it/news/tv-news/48920340/papa-a-san-marino-leone-ai-fedeli-viviate-con-autentita-liberta-/"
       ]
     },
     {
