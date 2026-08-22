@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated_at": "Sat 22 Aug 18:48",
+  "generated_at": "Sat 22 Aug 19:32",
   "stories": [
     {
       "rank": 1,
@@ -49,6 +49,28 @@
     },
     {
       "rank": 3,
+      "title": "I genitori della bambina morta per sospetta difterite a Palermo sono indagati per omicidio colposo",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ansa.it",
+        "palermo.repubblica.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/48921716/difterite_moratti_vaccinare_i_bambini_e_un_dovere_di_responsabilita_/",
+        "https://www.lastampa.it/cronaca/2026/08/22/news/bimba_4_anni_morta_diferite_non_vaccinata_palermo_genitori_indagati_omicidio-15719897/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-indagati-i-genitori_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html",
+        "https://palermo.repubblica.it/cronaca/2026/08/22/news/genitori_no_vax_indagati_procura_omicidio_colposo_anna_rosa_difterite_palermo-425541429/",
+        "https://www.ilmessaggero.it/italia/difterite_cuginetto_positivo_sintomi-9719797.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Papa Leone è arrivato al Meeting di Rimini, applausi e cori da stadio",
       "source_count": 3,
       "article_count": 13,
@@ -63,27 +85,6 @@
         "https://www.liberoquotidiano.it/news/video-news-by-vista/48925033/papa-leone-scende-dalla-golf-car-per-salutare-una-persona-invalida-al-meeting-di-rimini/",
         "https://www.liberoquotidiano.it/news/pillole/48924697/papa_leone_xiv_al_meeting_di_rimini_e_l_ora_della_responsabilita_/",
         "https://www.liberoquotidiano.it/news/tv-news/48924869/il-papa-lascia-il-meeting-di-rimini-tra-gli-applausi-della-folla/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Palermo, bimba non vaccinata morta di difterite: indagati i genitori. Mercoledì l’autopsia",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "lastampa.it",
-        "ansa.it",
-        "palermo.repubblica.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.lastampa.it/cronaca/2026/08/22/news/bimba_4_anni_morta_diferite_non_vaccinata_palermo_genitori_indagati_omicidio-15719897/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-indagati-i-genitori_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html",
-        "https://palermo.repubblica.it/cronaca/2026/08/22/news/genitori_no_vax_indagati_procura_omicidio_colposo_anna_rosa_difterite_palermo-425541429/",
-        "https://www.ilfattoquotidiano.it/2026/08/22/difterite-palermo-cugino-positivo-notizie/8485444/",
-        "https://www.ilmessaggero.it/italia/difterite_cuginetto_positivo_sintomi-9719797.html"
       ]
     },
     {
