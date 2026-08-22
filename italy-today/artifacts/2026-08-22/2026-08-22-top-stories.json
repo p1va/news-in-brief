@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated_at": "Sat 22 Aug 13:40",
+  "generated_at": "Sat 22 Aug 14:31",
   "stories": [
     {
       "rank": 1,
@@ -68,27 +68,6 @@
     },
     {
       "rank": 4,
-      "title": "Sinner salta gli Us Open: 'Sono deluso, ma ho bisogno di tempo'",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/22/sinner-video-30-luglio-quando-si-e-fatto-male-cosi-si-allenava-duramente-per-preparare-us-open/8485434/",
-        "https://www.liberoquotidiano.it/news/sport/48917982/jannik-sinner-cosa-teme-davvero-inquietante-indiscrezione/",
-        "https://www.repubblica.it/sport/dossier/us-open-tennis/2026/08/22/news/sinner_delusione_rinuncia_us_open-425540610/",
-        "https://www.ilmessaggero.it/sport/schede/sinner_infortunio_grave_cosa_c_e_dietro_quando_torna-9718451.html",
-        "https://www.ilmessaggero.it/sport/schede/sinner_ginocchio_sovraccarico_cura_quando_rientra_infortunio-9718441.html"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Ucraina, attacco russo su centro commerciale a Kryvyj Rih: almeno 14 morti e oltre 120 feriti",
       "source_count": 5,
       "article_count": 7,
@@ -108,7 +87,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Sprint Race F1 Olanda, Russell trionfa davanti a Leclerc (2°)",
       "source_count": 5,
       "article_count": 7,
@@ -128,7 +107,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Caso Flotilla, la Turchia emette un mandato di arresto internazionale per Netanyahu",
       "source_count": 5,
       "article_count": 6,
@@ -145,6 +124,26 @@
         "https://www.lastampa.it/esteri/2026/08/22/news/erdogan_e_netanyahu_escalation_personale_arrestatelo_antisemita-15719519/",
         "https://www.lastampa.it/esteri/2026/08/22/diretta/guerra_iran_usa_israele_news_oggi-15719649/",
         "https://www.ilmessaggero.it/mondo/erdogan_mandato_cattura_netanyahu_capi_accusa_quali_sono-9718607.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Sinner salta gli Us Open: 'Sono deluso, ma ho bisogno di tempo'",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/22/sinner-video-30-luglio-quando-si-e-fatto-male-cosi-si-allenava-duramente-per-preparare-us-open/8485434/",
+        "https://www.liberoquotidiano.it/news/sport/48917982/jannik-sinner-cosa-teme-davvero-inquietante-indiscrezione/",
+        "https://www.repubblica.it/sport/dossier/us-open-tennis/2026/08/22/news/sinner_delusione_rinuncia_us_open-425540610/",
+        "https://www.ilmessaggero.it/sport/schede/sinner_infortunio_grave_cosa_c_e_dietro_quando_torna-9718451.html",
+        "https://www.ilmessaggero.it/sport/schede/sinner_ginocchio_sovraccarico_cura_quando_rientra_infortunio-9718441.html"
       ]
     },
     {
@@ -168,24 +167,6 @@
     },
     {
       "rank": 9,
-      "title": "Papa a San Marino, Leone ai fedeli: viviate con autentita libertà",
-      "source_count": 3,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/08/21/la-visita-di-papa-leone-al-meeting-di-rimini_30d396bc-bf5d-49bb-a9a7-80ad96c81e02.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48921308/il-papa-lascia-san-marino-pranzo-dalle-monache-a-pennabilli/",
-        "https://www.lastampa.it/cronaca/2026/08/22/news/papa_leone_san_marino_diritto_umanitario_calpestato-15719834/",
-        "https://www.ansa.it/vaticano/notizie/2026/08/22/il-papa-e-arrivato-a-san-marino-accolto-dai-capitani-reggenti_4ffb0ebe-bee3-41e3-87ba-78ca82852dbd.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48920340/papa-a-san-marino-leone-ai-fedeli-viviate-con-autentita-liberta-/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "È morta Rosellina Archinto, regina dell’editoria per ragazzi",
       "source_count": 5,
       "article_count": 5,
@@ -202,6 +183,24 @@
         "https://www.ansa.it/sito/notizie/cultura/libri/ragazzi/2026/08/22/e-morta-rosellina-archinto-pioniera-delleditoria-per-ragazzi_e2d7f75d-f3b8-45d2-b9f0-e50e181a536b.html",
         "https://www.repubblica.it/cultura/2026/08/22/news/rosellina_archinto_morta_editoria-425541272/",
         "https://www.lastampa.it/cultura/2026/08/22/news/morta_rosellina_archinto_regina_dell_editoria_per_ragazzi-15719800/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Papa a San Marino, Leone ai fedeli: viviate con autentita libertà",
+      "source_count": 3,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48921308/il-papa-lascia-san-marino-pranzo-dalle-monache-a-pennabilli/",
+        "https://www.lastampa.it/cronaca/2026/08/22/news/papa_leone_san_marino_diritto_umanitario_calpestato-15719834/",
+        "https://www.ansa.it/vaticano/notizie/2026/08/22/il-papa-e-arrivato-a-san-marino-accolto-dai-capitani-reggenti_4ffb0ebe-bee3-41e3-87ba-78ca82852dbd.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48920340/papa-a-san-marino-leone-ai-fedeli-viviate-con-autentita-liberta-/",
+        "https://www.liberoquotidiano.it/news/tv-news/48920332/papa-a-san-marino-non-c-e-liberta-senza-rispetto-dignita-umana/"
       ]
     }
   ]
