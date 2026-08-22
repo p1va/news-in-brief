@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated_at": "Sat 22 Aug 15:31",
+  "generated_at": "Sat 22 Aug 16:35",
   "stories": [
     {
       "rank": 1,
@@ -28,9 +28,49 @@
     },
     {
       "rank": 2,
-      "title": "Bimba non vaccinata morta per difterite a Palermo, la Procura indaga sulla responsabilità dei genitori. Anche il cuginetto di 4 anni positivo al test",
+      "title": "F1: Norris in pole in Olanda, terzo tempo per Antonelli. Russell vince la Sprint",
       "source_count": 6,
-      "article_count": 10,
+      "article_count": 12,
+      "source_domains": [
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/formulauno/2026/08/22/news/norris_pole_gp_olanda_2026_russell_antonelli_ferrari-425541852/",
+        "https://www.ilfattoquotidiano.it/2026/08/22/gp-olanda-f1-qualifiche-notizie/8485754/",
+        "https://www.ansa.it/sito/notizie/sport/2026/08/22/f1-norris-in-pole-in-olanda-terzo-tempo-per-antonelli.-russell-vince-la-sprint_de76d1f1-1935-4eb2-bb74-93950b30028a.html",
+        "https://www.lastampa.it/sport/2026/08/22/news/formula_uno_olanda_qualifiche_norris_pole-15719990/",
+        "https://www.adnkronos.com/sport/diretta-formula-1-oggi-qualifiche-ufficiali-gp-olanda-live-risultati-e-aggiornamenti_7D6nmQvPa0HiYvjuv2e5Rr"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Papa Leone è arrivato al Meeting di Rimini, applausi e cori da stadio",
+      "source_count": 4,
+      "article_count": 12,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/vaticano/papa_leone_meeting_rimini_ultima_ora-9720060.html",
+        "https://www.ansa.it/vaticano/notizie/2026/08/22/il-papa-e-arrivato-al-meeting-di-rimini-bagno-di-folla-e-cori-da-stadio.-ai-giovani-il-mondo_4ffb0ebe-bee3-41e3-87ba-78ca82852dbd.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48924869/il-papa-lascia-il-meeting-di-rimini-tra-gli-applausi-della-folla/",
+        "https://www.repubblica.it/politica/2026/08/22/news/papa_leone_iv_visita_meeting_cl_rimini-425541663/",
+        "https://www.liberoquotidiano.it/news/pillole/48923255/il_popolo_del_meeting_di_rimini_accoglie_papa_leone_xiv/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Palermo, bimba non vaccinata morta di difterite: indagati i genitori. Mercoledì l’autopsia",
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
         "lastampa.it",
         "ansa.it",
@@ -48,83 +88,42 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Sprint Race F1 Olanda, Russell trionfa davanti a Leclerc (2°)",
-      "source_count": 6,
+      "rank": 5,
+      "title": "Aperti a Taranto i Giochi del Mediterraneo, ovazione per Mattarella",
+      "source_count": 3,
       "article_count": 10,
       "source_domains": [
-        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/22/gp-olanda-f1-qualifiche-notizie/8485754/",
-        "https://www.ansa.it/sito/notizie/sport/2026/08/22/f1-norris-in-pole-in-olanda-terzo-tempo-per-antonelli.-russell-vince-la-sprint_de76d1f1-1935-4eb2-bb74-93950b30028a.html",
-        "https://www.adnkronos.com/sport/diretta-formula-1-oggi-qualifiche-ufficiali-gp-olanda-live-risultati-e-aggiornamenti_7D6nmQvPa0HiYvjuv2e5Rr",
-        "https://www.repubblica.it/sport/formulauno/2026/08/22/news/f1_gp_olanda_sprint_risultati_classifica_antonelli-425541518/",
-        "https://www.ansa.it/sito/notizie/sport/2026/08/22/f1-gp-olanda-russell-vince-la-sprint-_de76d1f1-1935-4eb2-bb74-93950b30028a.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Aperti a Taranto i Giochi del Mediterraneo, ovazione per Mattarella",
-      "source_count": 4,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "governo.it"
-      ],
-      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/48923244/giochi_del_mediterraneo_malago_taranto_promossa_a_pieni_voti_/",
         "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/22/giochi-mediterraneo-dg-molfetta-allo-iacovone-show-degno-di-una-olimpiade_fcd47a15-c1ee-4b46-8dcb-3b938c678126.html",
         "https://www.liberoquotidiano.it/news/tv-news/48919365/aperti-a-taranto-i-giochi-del-mediterraneo-ovazione-per-mattarella/",
         "https://www.lastampa.it/sport/2026/08/22/news/giochi_del_mediterraneo-15719712/",
-        "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/21/si-alza-il-sipario-su-taranto-2026-mattarella-apre-i-giochi-del-mediterraneo_a20fcfe3-ddf4-493e-92d6-11c16192f100.html",
-        "https://www.lastampa.it/cronaca/2026/08/21/news/mattarella_da_il_via_a_taranto_ai_giochi_del_mediterraneo-15719611/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Ucraina, attacco russo su centro commerciale a Kryvyj Rih: almeno 14 morti e oltre 120 feriti",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48923081/ucraina-attacco-a-centro-commerciale-ci-sono-almeno-16-vittime/",
-        "https://www.ilfattoquotidiano.it/2026/08/22/droni-russi-colpiscono-centro-commerciale-in-pieno-giorno-a-kryvyi-rih-il-video-dellattacco/8485449/",
-        "https://www.liberoquotidiano.it/news/libero-video/48918761/ucraina-attacco-russo-su-centro-commerciale-a-kryvyj-rih-almeno-14-morti-e-oltre-120-feriti/",
-        "https://www.repubblica.it/esteri/2026/08/22/diretta/guerra_ucraina_russia_news_oggi-425540866/",
-        "https://ilmanifesto.it/la-russia-bombarda-un-centro-commerciale-14-morti-e-feriti"
+        "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/21/si-alza-il-sipario-su-taranto-2026-mattarella-apre-i-giochi-del-mediterraneo_a20fcfe3-ddf4-493e-92d6-11c16192f100.html"
       ]
     },
     {
       "rank": 6,
-      "title": "Sinner e il mistero forfait, quando può tornare in campo? Il problema al ginocchio, i controlli e le vacanze prima della rinuncia agli Us Open",
-      "source_count": 5,
-      "article_count": 7,
+      "title": "È morta Rosellina Archinto, regina dell’editoria per ragazzi",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
-        "ilmessaggero.it",
+        "ilmanifesto.it",
         "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
         "repubblica.it",
-        "ansa.it"
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/sport/schede/sinner_mistero_forfait_us_open_cosa_c_e_dietro_quando_torna_infortunio-9720062.html",
-        "https://www.ilfattoquotidiano.it/2026/08/22/sinner-video-30-luglio-quando-si-e-fatto-male-cosi-si-allenava-duramente-per-preparare-us-open/8485434/",
-        "https://www.liberoquotidiano.it/news/sport/48917982/jannik-sinner-cosa-teme-davvero-inquietante-indiscrezione/",
-        "https://www.repubblica.it/sport/dossier/us-open-tennis/2026/08/22/news/sinner_delusione_rinuncia_us_open-425540610/",
-        "https://www.ilmessaggero.it/sport/schede/sinner_infortunio_grave_cosa_c_e_dietro_quando_torna-9718451.html"
+        "https://ilmanifesto.it/addio-a-rosellina-archinto-pioniera-della-editoria-per-linfanzia",
+        "https://www.ilfattoquotidiano.it/2026/08/22/e-morta-rosellina-archinto-fondatrice-della-emme-edizioni-e-pioniera-delleditoria-per-ragazzi-in-italia/8485584/",
+        "https://www.ilmessaggero.it/persone/rosellina_archinto_morta_chi_era_regina_editoria_ragazzi-9719820.html",
+        "https://www.ansa.it/sito/notizie/cultura/libri/ragazzi/2026/08/22/e-morta-rosellina-archinto-pioniera-delleditoria-per-ragazzi_e2d7f75d-f3b8-45d2-b9f0-e50e181a536b.html",
+        "https://www.repubblica.it/cultura/2026/08/22/news/rosellina_archinto_morta_editoria-425541272/"
       ]
     },
     {
@@ -149,24 +148,45 @@
     },
     {
       "rank": 8,
-      "title": "Papa Leone è arrivato al Meeting di Rimini, applausi e cori da stadio",
-      "source_count": 3,
-      "article_count": 8,
+      "title": "Ucraina, attacco russo su centro commerciale a Kryvyj Rih: almeno 14 morti e oltre 120 feriti",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "repubblica.it",
         "liberoquotidiano.it",
-        "ansa.it"
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.repubblica.it/politica/2026/08/22/news/papa_leone_iv_visita_meeting_cl_rimini-425541663/",
-        "https://www.liberoquotidiano.it/news/tv-news/48924685/l-abbaraccio-del-popolo-di-cl-a-papa-leone-dal-meeting-di-rimini/",
-        "https://www.liberoquotidiano.it/news/tv-news/48924598/papa-al-meeting-prima-dei-confini-e-istituzioni-ci-sono-le-persone/",
-        "https://www.liberoquotidiano.it/news/tv-news/48924588/papa-al-meeting-liberare-tecnologia-e-finanza-da-business-morte/",
-        "https://www.liberoquotidiano.it/news/tv-news/48924586/papa-al-meeting-e-bello-vedervi-in-tanti-applausi-sono-per-gesu-/"
+        "https://www.liberoquotidiano.it/news/tv-news/48923081/ucraina-attacco-a-centro-commerciale-ci-sono-almeno-16-vittime/",
+        "https://www.ilfattoquotidiano.it/2026/08/22/droni-russi-colpiscono-centro-commerciale-in-pieno-giorno-a-kryvyi-rih-il-video-dellattacco/8485449/",
+        "https://www.liberoquotidiano.it/news/libero-video/48918761/ucraina-attacco-russo-su-centro-commerciale-a-kryvyj-rih-almeno-14-morti-e-oltre-120-feriti/",
+        "https://www.repubblica.it/esteri/2026/08/22/diretta/guerra_ucraina_russia_news_oggi-425540866/",
+        "https://ilmanifesto.it/la-russia-bombarda-un-centro-commerciale-14-morti-e-feriti"
       ]
     },
     {
       "rank": 9,
+      "title": "Sinner e il mistero forfait, quando può tornare in campo? Il problema al ginocchio, i controlli e le vacanze prima della rinuncia agli Us Open",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/schede/sinner_mistero_forfait_us_open_cosa_c_e_dietro_quando_torna_infortunio-9720062.html",
+        "https://www.ilmessaggero.it/sport/schede/sinner_quando_torna_infortunio_mistero_forfait_cosa_ce_dietro_us_open-9720062.html",
+        "https://www.ilfattoquotidiano.it/2026/08/22/sinner-video-30-luglio-quando-si-e-fatto-male-cosi-si-allenava-duramente-per-preparare-us-open/8485434/",
+        "https://www.liberoquotidiano.it/news/sport/48917982/jannik-sinner-cosa-teme-davvero-inquietante-indiscrezione/",
+        "https://www.repubblica.it/sport/dossier/us-open-tennis/2026/08/22/news/sinner_delusione_rinuncia_us_open-425540610/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Lovaglio, sfida contro il tempo per le due Ops",
       "source_count": 4,
       "article_count": 6,
@@ -182,25 +202,6 @@
         "https://www.lastampa.it/economia/2026/08/22/news/mps_offerta_bpm_generali_piano_colosso_europa-15719578/",
         "https://www.ilmessaggero.it/economia/news/mps_operazione_folle-9718677.html",
         "https://www.ilmessaggero.it/economia/news/mps_dubbi_analisti-9718673.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Italia-Montenegro: orario e dove vedere in chiaro (gratis) gli Europei di volley femminile",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/le-azzurre-travolgono-3-0-il-montenegro-e-restano-a-punteggio-pieno_2WQigUOJpNnicfBJa8dIPP",
-        "https://www.ilfattoquotidiano.it/2026/08/22/europei-volley-femminile-italia-montenegro-notizie/8485711/",
-        "https://www.repubblica.it/sport/vari/2026/08/22/diretta/italia_montenegro_volley_europei_diretta-425541600/",
-        "https://www.ilmessaggero.it/sport/schede/italia_montenegro_europei_volley_dove_vederla_in_chiaro_gratis_orario-9718694.html",
-        "https://www.ilmessaggero.it/sport/schede/italia_montenegro_europei_pallavolo_dove_vederla_in_chiaro_gratis_orario-9718694.html"
       ]
     }
   ]
