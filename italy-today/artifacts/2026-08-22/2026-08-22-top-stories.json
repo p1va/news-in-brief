@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated_at": "Sat 22 Aug 09:36",
+  "generated_at": "Sat 22 Aug 10:33",
   "stories": [
     {
       "rank": 1,
@@ -89,20 +89,20 @@
       "rank": 5,
       "title": "Ucraina, attacco russo su centro commerciale a Kryvyj Rih: almeno 14 morti e oltre 120 feriti",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "repubblica.it",
         "ilmanifesto.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/22/droni-russi-colpiscono-centro-commerciale-in-pieno-giorno-a-kryvyi-rih-il-video-dellattacco/8485449/",
         "https://www.liberoquotidiano.it/news/libero-video/48918761/ucraina-attacco-russo-su-centro-commerciale-a-kryvyj-rih-almeno-14-morti-e-oltre-120-feriti/",
         "https://www.repubblica.it/esteri/2026/08/22/diretta/guerra_ucraina_russia_news_oggi-425540866/",
         "https://ilmanifesto.it/la-russia-bombarda-un-centro-commerciale-14-morti-e-feriti",
-        "https://www.lastampa.it/esteri/2026/08/22/diretta/guerra_russia_ucraina_news_oggi-15719647/",
-        "https://www.ilfattoquotidiano.it/2026/08/21/guerra-ucraina-droni-kryvyj-rih-notizie/8485070/"
+        "https://www.lastampa.it/esteri/2026/08/22/diretta/guerra_russia_ucraina_news_oggi-15719647/"
       ]
     },
     {
@@ -127,14 +127,16 @@
     {
       "rank": 7,
       "title": "Bimba morta a Palermo, il cuginetto ricoverato è positivo alla difterite",
-      "source_count": 3,
-      "article_count": 4,
+      "source_count": 4,
+      "article_count": 6,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "ansa.it",
-        "ilfattoquotidiano.it"
+        "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/22/difterite-palermo-cugino-positivo-notizie/8485444/",
         "https://www.ilmessaggero.it/italia/difterite_cuginetto_positivo_sintomi-9719797.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-cuginetto-ricoverato-positivo-alla-difterite_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/la-madre-della-bimba-morta-a-palermo-per-sospetta-difterite-attacca-i-medici_dff22e46-609a-4001-bccf-b32389579e80.html",
@@ -143,6 +145,42 @@
     },
     {
       "rank": 8,
+      "title": "Papa a San Marino, Leone ai fedeli: viviate con autentita libertà",
+      "source_count": 3,
+      "article_count": 5,
+      "source_domains": [
+        "lastampa.it",
+        "ansa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/cronaca/2026/08/22/news/papa_leone_san_marino_diritto_umanitario_calpestato-15719834/",
+        "https://www.ansa.it/vaticano/notizie/2026/08/22/il-papa-e-arrivato-a-san-marino-accolto-dai-capitani-reggenti_4ffb0ebe-bee3-41e3-87ba-78ca82852dbd.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48920340/papa-a-san-marino-leone-ai-fedeli-viviate-con-autentita-liberta-/",
+        "https://www.liberoquotidiano.it/news/tv-news/48920332/papa-a-san-marino-non-c-e-liberta-senza-rispetto-dignita-umana/",
+        "https://www.liberoquotidiano.it/news/tv-news/48919375/papa-leone-a-san-marino-accolto-con-inni-onori-e-spari-cannone/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "È morta Rosellina Archinto, regina dell’editoria per ragazzi",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/persone/rosellina_archinto_morta_chi_era_regina_editoria_ragazzi-9719820.html",
+        "https://www.ansa.it/sito/notizie/cultura/libri/ragazzi/2026/08/22/e-morta-rosellina-archinto-pioniera-delleditoria-per-ragazzi_e2d7f75d-f3b8-45d2-b9f0-e50e181a536b.html",
+        "https://www.repubblica.it/cultura/2026/08/22/news/rosellina_archinto_morta_editoria-425541272/",
+        "https://www.lastampa.it/cultura/2026/08/22/news/morta_rosellina_archinto_regina_dell_editoria_per_ragazzi-15719800/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Giorgia Meloni affonda le balle della Schlein sui migranti",
       "source_count": 3,
       "article_count": 3,
@@ -155,38 +193,6 @@
         "https://www.laverita.info/governo/meloni-schlein-migranti-trattato-dublino",
         "https://ilmanifesto.it/migranti-meloni-in-difficolta-e-bluffa-sul-patto-europeo",
         "https://www.ilsole24ore.com/art/meloni-credevo-che-sarebbe-stato-piu-facile-trump-e-risponde-schlein-confonde-schengen-patto-ue-AJ9gEHr"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Musetti sconfitto ai quarti a Cincinnati. Cobolli sfida Fils in semifinale",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/22/musetti-tiafoe-cincinnati-quarti-oggi/8485393/",
-        "https://www.repubblica.it/sport/tennis/2026/08/22/news/musetti_cincinnati_cobolli-425541077/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/22/tennis-cincinnati-musetti-ko-nei-quarti-contro-tiafoe_a363c4d3-475e-4ff9-b11f-2f093ab77e31.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Caldo, Italia spaccata: più fresco al Nord, tornano i bollini rossi al Sud",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.lastampa.it/cronaca/2026/08/22/news/meteo_tregua_caldo_nord_afa_sud_previsioni-15719765/",
-        "https://www.ilmessaggero.it/schede/meteo_nuova_ondata_caldo_quanto_dura_temporali_maltempo_previsioni-9719663.html",
-        "https://www.ilsole24ore.com/art/caldo-italia-spaccata-piu-fresco-nord-tornano-bollini-rossi-sud-AJXBmTr"
       ]
     }
   ]
