@@ -1,9 +1,33 @@
 {
   "date": "2026-08-22",
-  "generated_at": "Sat 22 Aug 10:33",
+  "generated_at": "Sat 22 Aug 11:30",
   "stories": [
     {
       "rank": 1,
+      "title": "Esplosione in una palazzina a Perugia, ci sono persone coinvolte",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "laverita.info",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.laverita.info/video/esplosione-palazzina-perugia",
+        "https://www.liberoquotidiano.it/news/tv-news/48921310/esplosione-in-palazzina-a-perugia-due-feriti-di-cui-uno-grave/",
+        "https://www.ilfattoquotidiano.it/2026/08/22/crollo-palazzina-perugia-esplosione-notizie/8485399/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-palazzina-a-perugia-ci-sono-persone-coinvolte_744dd77d-34a4-4855-9f91-aedee0b5f198.html",
+        "https://www.ilmessaggero.it/umbria/perugia_esplode_palazzina_tetto_crollato_persone_sotto_macerie-9719744.html"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Sinner rinuncia agli Us Open per il dolore al ginocchio: “Sono deluso. Ho bisogno di altro tempo”",
       "source_count": 7,
       "article_count": 8,
@@ -25,29 +49,28 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Esplosione in una palazzina a Perugia, ci sono persone coinvolte",
-      "source_count": 7,
-      "article_count": 7,
+      "rank": 3,
+      "title": "Bimba non vaccinata morta per difterite a Palermo, la Procura indaga sulla responsabilità dei genitori. Anche il cuginetto di 4 anni positivo al test",
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
+        "palermo.repubblica.it",
         "ilfattoquotidiano.it",
-        "ansa.it",
         "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it",
+        "ansa.it",
         "ilsole24ore.com",
         "agi.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/22/crollo-palazzina-perugia-esplosione-notizie/8485399/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-palazzina-a-perugia-ci-sono-persone-coinvolte_744dd77d-34a4-4855-9f91-aedee0b5f198.html",
-        "https://www.ilmessaggero.it/umbria/perugia_esplode_palazzina_tetto_crollato_persone_sotto_macerie-9719744.html",
-        "https://www.repubblica.it/cronaca/2026/08/22/news/esplode_una_palazzina_di_due_piani_a_perugia_ci_sono_persone_coinvolte-425541202/",
-        "https://www.lastampa.it/cronaca/2026/08/22/news/perugia_esplosione_in_una_palazzina_di_4_piani_ci_sono_persone_coinvolte-15719744/"
+        "https://palermo.repubblica.it/cronaca/2026/08/22/news/genitori_no_vax_indagati_procura_omicidio_colposo_anna_rosa_difterite_palermo-425541429/",
+        "https://www.ilfattoquotidiano.it/2026/08/22/difterite-palermo-cugino-positivo-notizie/8485444/",
+        "https://www.ilmessaggero.it/italia/difterite_cuginetto_positivo_sintomi-9719797.html",
+        "https://www.ilmessaggero.it/italia/bimba_non_vaccinata_morta_difterite_genitori_indagati-9719797.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-cuginetto-ricoverato-positivo-alla-difterite_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Aperti a Taranto i Giochi del Mediterraneo, ovazione per Mattarella",
       "source_count": 4,
       "article_count": 9,
@@ -66,7 +89,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Caso Flotilla, la Turchia emette un mandato di arresto internazionale per Netanyahu",
       "source_count": 5,
       "article_count": 6,
@@ -86,7 +109,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Ucraina, attacco russo su centro commerciale a Kryvyj Rih: almeno 14 morti e oltre 120 feriti",
       "source_count": 5,
       "article_count": 6,
@@ -106,7 +129,27 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Sprint Race F1 Olanda, Russell trionfa davanti a Leclerc (2°)",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/08/22/f1-gp-olanda-russell-vince-la-sprint-_de76d1f1-1935-4eb2-bb74-93950b30028a.html",
+        "https://www.ilfattoquotidiano.it/2026/08/22/f1-gp-olanda-russell-sprint-ordine-arrivo-nuova-classifica/8485483/",
+        "https://www.ilmessaggero.it/sport/formula1/gp_olanda_gara_sprint_diretta_live_oggi-9719836.html",
+        "https://www.repubblica.it/sport/formulauno/2026/08/22/diretta/f1_gp_olanda_sprint_qualifiche_diretta-425541387/",
+        "https://www.lastampa.it/sport/2026/08/22/news/sprint_race_f1_olanda_russell_davanti_a_leclerc_2-15719880/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Lovaglio, sfida contro il tempo per le due Ops",
       "source_count": 4,
       "article_count": 6,
@@ -125,44 +168,25 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Bimba morta a Palermo, il cuginetto ricoverato è positivo alla difterite",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/22/difterite-palermo-cugino-positivo-notizie/8485444/",
-        "https://www.ilmessaggero.it/italia/difterite_cuginetto_positivo_sintomi-9719797.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-cuginetto-ricoverato-positivo-alla-difterite_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/21/la-madre-della-bimba-morta-a-palermo-per-sospetta-difterite-attacca-i-medici_dff22e46-609a-4001-bccf-b32389579e80.html",
-        "https://www.ilfattoquotidiano.it/2026/08/21/difterite-palermo-bambina-morta-vaccini-notizie/8485081/"
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "title": "Papa a San Marino, Leone ai fedeli: viviate con autentita libertà",
       "source_count": 3,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
+        "liberoquotidiano.it",
         "lastampa.it",
-        "ansa.it",
-        "liberoquotidiano.it"
+        "ansa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48921308/il-papa-lascia-san-marino-pranzo-dalle-monache-a-pennabilli/",
         "https://www.lastampa.it/cronaca/2026/08/22/news/papa_leone_san_marino_diritto_umanitario_calpestato-15719834/",
         "https://www.ansa.it/vaticano/notizie/2026/08/22/il-papa-e-arrivato-a-san-marino-accolto-dai-capitani-reggenti_4ffb0ebe-bee3-41e3-87ba-78ca82852dbd.html",
         "https://www.liberoquotidiano.it/news/tv-news/48920340/papa-a-san-marino-leone-ai-fedeli-viviate-con-autentita-liberta-/",
-        "https://www.liberoquotidiano.it/news/tv-news/48920332/papa-a-san-marino-non-c-e-liberta-senza-rispetto-dignita-umana/",
-        "https://www.liberoquotidiano.it/news/tv-news/48919375/papa-leone-a-san-marino-accolto-con-inni-onori-e-spari-cannone/"
+        "https://www.liberoquotidiano.it/news/tv-news/48920332/papa-a-san-marino-non-c-e-liberta-senza-rispetto-dignita-umana/"
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "È morta Rosellina Archinto, regina dell’editoria per ragazzi",
       "source_count": 4,
       "article_count": 4,
@@ -177,22 +201,6 @@
         "https://www.ansa.it/sito/notizie/cultura/libri/ragazzi/2026/08/22/e-morta-rosellina-archinto-pioniera-delleditoria-per-ragazzi_e2d7f75d-f3b8-45d2-b9f0-e50e181a536b.html",
         "https://www.repubblica.it/cultura/2026/08/22/news/rosellina_archinto_morta_editoria-425541272/",
         "https://www.lastampa.it/cultura/2026/08/22/news/morta_rosellina_archinto_regina_dell_editoria_per_ragazzi-15719800/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Giorgia Meloni affonda le balle della Schlein sui migranti",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "laverita.info",
-        "ilmanifesto.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/governo/meloni-schlein-migranti-trattato-dublino",
-        "https://ilmanifesto.it/migranti-meloni-in-difficolta-e-bluffa-sul-patto-europeo",
-        "https://www.ilsole24ore.com/art/meloni-credevo-che-sarebbe-stato-piu-facile-trump-e-risponde-schlein-confonde-schengen-patto-ue-AJ9gEHr"
       ]
     }
   ]
