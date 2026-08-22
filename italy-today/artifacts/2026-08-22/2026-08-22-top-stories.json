@@ -1,16 +1,16 @@
 {
   "date": "2026-08-22",
-  "generated_at": "Sat 22 Aug 12:53",
+  "generated_at": "Sat 22 Aug 13:40",
   "stories": [
     {
       "rank": 1,
       "title": "Esplosione in una palazzina a Perugia, ci sono persone coinvolte",
       "source_count": 9,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "laverita.info",
         "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
         "ansa.it",
         "ilmessaggero.it",
         "repubblica.it",
@@ -19,11 +19,11 @@
         "agi.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/22/esplosione-perugia-palazzina-crollo-notizie/8485649/",
         "https://www.laverita.info/video/esplosione-palazzina-perugia",
         "https://www.liberoquotidiano.it/news/tv-news/48921310/esplosione-in-palazzina-a-perugia-due-feriti-di-cui-uno-grave/",
         "https://www.ilfattoquotidiano.it/2026/08/22/crollo-palazzina-perugia-esplosione-notizie/8485399/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-palazzina-a-perugia-ci-sono-persone-coinvolte_744dd77d-34a4-4855-9f91-aedee0b5f198.html",
-        "https://www.ilmessaggero.it/umbria/perugia_esplode_palazzina_tetto_crollato_persone_sotto_macerie-9719744.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/esplosione-in-una-palazzina-a-perugia-ci-sono-persone-coinvolte_744dd77d-34a4-4855-9f91-aedee0b5f198.html"
       ]
     },
     {
@@ -89,6 +89,26 @@
     },
     {
       "rank": 5,
+      "title": "Ucraina, attacco russo su centro commerciale a Kryvyj Rih: almeno 14 morti e oltre 120 feriti",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48923081/ucraina-attacco-a-centro-commerciale-ci-sono-almeno-16-vittime/",
+        "https://www.ilfattoquotidiano.it/2026/08/22/droni-russi-colpiscono-centro-commerciale-in-pieno-giorno-a-kryvyi-rih-il-video-dellattacco/8485449/",
+        "https://www.liberoquotidiano.it/news/libero-video/48918761/ucraina-attacco-russo-su-centro-commerciale-a-kryvyj-rih-almeno-14-morti-e-oltre-120-feriti/",
+        "https://www.repubblica.it/esteri/2026/08/22/diretta/guerra_ucraina_russia_news_oggi-425540866/",
+        "https://ilmanifesto.it/la-russia-bombarda-un-centro-commerciale-14-morti-e-feriti"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Sprint Race F1 Olanda, Russell trionfa davanti a Leclerc (2°)",
       "source_count": 5,
       "article_count": 7,
@@ -108,7 +128,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Caso Flotilla, la Turchia emette un mandato di arresto internazionale per Netanyahu",
       "source_count": 5,
       "article_count": 6,
@@ -125,26 +145,6 @@
         "https://www.lastampa.it/esteri/2026/08/22/news/erdogan_e_netanyahu_escalation_personale_arrestatelo_antisemita-15719519/",
         "https://www.lastampa.it/esteri/2026/08/22/diretta/guerra_iran_usa_israele_news_oggi-15719649/",
         "https://www.ilmessaggero.it/mondo/erdogan_mandato_cattura_netanyahu_capi_accusa_quali_sono-9718607.html"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Ucraina, attacco russo su centro commerciale a Kryvyj Rih: almeno 14 morti e oltre 120 feriti",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/22/droni-russi-colpiscono-centro-commerciale-in-pieno-giorno-a-kryvyi-rih-il-video-dellattacco/8485449/",
-        "https://www.liberoquotidiano.it/news/libero-video/48918761/ucraina-attacco-russo-su-centro-commerciale-a-kryvyj-rih-almeno-14-morti-e-oltre-120-feriti/",
-        "https://www.repubblica.it/esteri/2026/08/22/diretta/guerra_ucraina_russia_news_oggi-425540866/",
-        "https://ilmanifesto.it/la-russia-bombarda-un-centro-commerciale-14-morti-e-feriti",
-        "https://www.lastampa.it/esteri/2026/08/22/diretta/guerra_russia_ucraina_news_oggi-15719647/"
       ]
     },
     {
@@ -187,15 +187,17 @@
     {
       "rank": 10,
       "title": "È morta Rosellina Archinto, regina dell’editoria per ragazzi",
-      "source_count": 4,
-      "article_count": 4,
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "ansa.it",
         "repubblica.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/22/e-morta-rosellina-archinto-fondatrice-della-emme-edizioni-e-pioniera-delleditoria-per-ragazzi-in-italia/8485584/",
         "https://www.ilmessaggero.it/persone/rosellina_archinto_morta_chi_era_regina_editoria_ragazzi-9719820.html",
         "https://www.ansa.it/sito/notizie/cultura/libri/ragazzi/2026/08/22/e-morta-rosellina-archinto-pioniera-delleditoria-per-ragazzi_e2d7f75d-f3b8-45d2-b9f0-e50e181a536b.html",
         "https://www.repubblica.it/cultura/2026/08/22/news/rosellina_archinto_morta_editoria-425541272/",
