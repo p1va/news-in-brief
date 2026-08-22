@@ -1,6 +1,6 @@
 {
   "date": "2026-08-22",
-  "generated_at": "Sat 22 Aug 19:32",
+  "generated_at": "Sat 22 Aug 20:33",
   "stories": [
     {
       "rank": 1,
@@ -49,28 +49,6 @@
     },
     {
       "rank": 3,
-      "title": "I genitori della bambina morta per sospetta difterite a Palermo sono indagati per omicidio colposo",
-      "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ansa.it",
-        "palermo.repubblica.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/pillole/48921716/difterite_moratti_vaccinare_i_bambini_e_un_dovere_di_responsabilita_/",
-        "https://www.lastampa.it/cronaca/2026/08/22/news/bimba_4_anni_morta_diferite_non_vaccinata_palermo_genitori_indagati_omicidio-15719897/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-indagati-i-genitori_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html",
-        "https://palermo.repubblica.it/cronaca/2026/08/22/news/genitori_no_vax_indagati_procura_omicidio_colposo_anna_rosa_difterite_palermo-425541429/",
-        "https://www.ilmessaggero.it/italia/difterite_cuginetto_positivo_sintomi-9719797.html"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Papa Leone è arrivato al Meeting di Rimini, applausi e cori da stadio",
       "source_count": 3,
       "article_count": 13,
@@ -88,11 +66,12 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Robot umanoide cinese corre i 100 metri in 9'32\", battuto il record di Bolt: raggiunta ​una velocità massima di 14,5 metri al secondo",
-      "source_count": 5,
-      "article_count": 8,
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
+        "laverita.info",
         "ansa.it",
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
@@ -100,11 +79,32 @@
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.laverita.info/tecnologia/robot-umanoide-record-100-metri-bolt",
         "https://www.ansa.it/sito/videogallery/mondo/2026/08/22/robot-cinese-corre-i-100-metri-in-939-battuto-il-record-di-bolt_ce79fdc6-41f1-4dcd-8761-f00e790923a4.html",
         "https://www.ansa.it/sito/videogallery/mondo/2026/08/22/ecco-lightning-il-robot-cinese-che-ha-battuto-il-record-di-bolt_6c00272f-bc30-45e1-8204-3ee89459010f.html",
         "https://www.liberoquotidiano.it/news/sport/48924234/robot-batte-record-bolt-100-metri-poi-si-suicida/",
-        "https://www.ilfattoquotidiano.it/2026/08/22/robot-umanoide-record-100-metri-notizie/8485662/",
-        "https://www.lastampa.it/tech/2026/08/22/video/il_robot_e_piu_veloce_di_usain_bolt_100_metri_in_939_secondi_poi_finisce_contro_il_muro-15719964/"
+        "https://www.ilfattoquotidiano.it/2026/08/22/robot-umanoide-record-100-metri-notizie/8485662/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "I genitori della bambina morta per sospetta difterite a Palermo sono indagati per omicidio colposo",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "lastampa.it",
+        "ansa.it",
+        "palermo.repubblica.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.lastampa.it/cronaca/2026/08/22/news/bimba_4_anni_morta_diferite_non_vaccinata_palermo_genitori_indagati_omicidio-15719897/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-indagati-i-genitori_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html",
+        "https://palermo.repubblica.it/cronaca/2026/08/22/news/genitori_no_vax_indagati_procura_omicidio_colposo_anna_rosa_difterite_palermo-425541429/",
+        "https://www.ilmessaggero.it/italia/difterite_cuginetto_positivo_sintomi-9719797.html",
+        "https://www.ilmessaggero.it/italia/bimba_non_vaccinata_morta_difterite_genitori_indagati-9719797.html"
       ]
     },
     {
@@ -130,26 +130,6 @@
     },
     {
       "rank": 7,
-      "title": "Ucraina, attacco russo su centro commerciale a Kryvyj Rih: almeno 14 morti e oltre 120 feriti",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/48923081/ucraina-attacco-a-centro-commerciale-ci-sono-almeno-16-vittime/",
-        "https://www.ilfattoquotidiano.it/2026/08/22/droni-russi-colpiscono-centro-commerciale-in-pieno-giorno-a-kryvyi-rih-il-video-dellattacco/8485449/",
-        "https://www.liberoquotidiano.it/news/libero-video/48918761/ucraina-attacco-russo-su-centro-commerciale-a-kryvyj-rih-almeno-14-morti-e-oltre-120-feriti/",
-        "https://www.repubblica.it/esteri/2026/08/22/diretta/guerra_ucraina_russia_news_oggi-425540866/",
-        "https://ilmanifesto.it/la-russia-bombarda-un-centro-commerciale-14-morti-e-feriti"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "Sinner e il mistero forfait, quando può tornare in campo? Il problema al ginocchio, i controlli e le vacanze prima della rinuncia agli Us Open",
       "source_count": 4,
       "article_count": 6,
@@ -168,26 +148,7 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Lovaglio, sfida contro il tempo per le due Ops",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "laverita.info",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.laverita.info/politica-e-affari/lovaglio-lancia-ops-bpm-generali",
-        "https://ilmanifesto.it/mps-intesa-valuta-il-ricorso-alla-consob",
-        "https://www.lastampa.it/economia/2026/08/22/news/mps_offerta_bpm_generali_piano_colosso_europa-15719578/",
-        "https://www.ilmessaggero.it/economia/news/mps_operazione_folle-9718677.html",
-        "https://www.ilmessaggero.it/economia/news/mps_dubbi_analisti-9718673.html"
-      ]
-    },
-    {
-      "rank": 10,
+      "rank": 8,
       "title": "Fallito il negoziato sui dazi, è guerra commerciale fra Usa e Canada",
       "source_count": 4,
       "article_count": 6,
@@ -203,6 +164,44 @@
         "https://www.ilfattoquotidiano.it/2026/08/22/usa-canada-niente-accordo-sui-dazi-trump-impone-tariffe-del-50-su-20-miliardi-di-prodotti-carney-risponderemo-dollaro-per-dollaro/8485547/",
         "https://www.repubblica.it/economia/2026/08/22/news/dazi_salta_l_accordo_usa-canada_in_vigore_tariffe_al_50_carney_minaccia_ritorsioni-425541539/",
         "https://www.laverita.info/mondo/dazi-usa-canada-50"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Papa a San Marino, Leone ai fedeli: viviate con autentita libertà",
+      "source_count": 3,
+      "article_count": 7,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48924344/-un-occasione-speciale-gli-abitanti-di-san-marino-accolgono-il-papa/",
+        "https://www.liberoquotidiano.it/news/tv-news/48921308/il-papa-lascia-san-marino-pranzo-dalle-monache-a-pennabilli/",
+        "https://www.lastampa.it/cronaca/2026/08/22/news/papa_leone_san_marino_diritto_umanitario_calpestato-15719834/",
+        "https://www.ansa.it/vaticano/notizie/2026/08/22/il-papa-e-arrivato-a-san-marino-accolto-dai-capitani-reggenti_4ffb0ebe-bee3-41e3-87ba-78ca82852dbd.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48920340/papa-a-san-marino-leone-ai-fedeli-viviate-con-autentita-liberta-/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Roma, un uomo e un ragazzo trovati morti in stand allestito per palio Allumiere: avevano 36 e 15 anni",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/due-giovani-morti-in-uno-stand-al-palio-di-allumiere-ipotesi-esalazioni_f14dc1fc-1a69-439b-b6d0-eccc5fafbb5a.html",
+        "https://www.lastampa.it/cronaca/2026/08/22/news/roma_palio_allumiere_15enne_35enne_morti_monossido-15720056/",
+        "https://www.ilfattoquotidiano.it/2026/08/22/monossido-carbonio-morti-allumiere-notizie/8485710/",
+        "https://www.adnkronos.com/cronaca/allumiere-palio-uomo-e-ragazzo-trovati-morti_5bz8i90hj8rtXamMSJsuOh",
+        "https://www.ilmessaggero.it/civitavecchia/allumiere_morti_ambulanti_palio_chi_sono-9719959.html"
       ]
     }
   ]
