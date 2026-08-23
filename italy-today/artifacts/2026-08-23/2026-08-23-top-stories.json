@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generated_at": "Sun 23 Aug 18:41",
+  "generated_at": "Sun 23 Aug 18:48",
   "stories": [
     {
       "rank": 1,
@@ -153,6 +153,26 @@
     },
     {
       "rank": 8,
+      "title": "Crans, Jacques Moretti arrestato per violenze sulla moglie Jessica. Lei ricoverata in ospedale",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/crans-montana-jacques-moretti-arrestato-per-violenze-sulla-moglie-jessica_2731a2d3-3a22-45f5-85a2-e98985a23e90.html",
+        "https://www.ilfattoquotidiano.it/2026/08/23/strage-capodanno-crans-montana-moretti-arrestato-notizie/8486417/",
+        "https://www.ilmessaggero.it/mondo/jacques_moretti_arrestato_violenza_moglie_jessica_crans_montana-9721805.html",
+        "https://milano.repubblica.it/cronaca/2026/08/23/news/jacques_moretti_arrestato_violenze_moglie_jessica_crans_montana-425543287/",
+        "https://www.lastampa.it/esteri/2026/08/23/news/crans_montana_jacques_moretti_arrestato_ha_picchiato_la_moglie_jessica-15720810/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "L'Iran colpisce l'Europa, spenta centrale elettrica per 4 giorni: cosa è successo",
       "source_count": 4,
       "article_count": 5,
@@ -171,7 +191,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Guerra Ucraina - Russia, le news di oggi. Putin: “Risposta ai raid di Kiev sarà distruttiva”",
       "source_count": 4,
       "article_count": 5,
@@ -187,24 +207,6 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/08/23/kiev-attacca-ancora-lamazon-russo-con-i-droni-scoppiato-un-incendio_0ed65c52-7afe-4dce-b7a7-e9d9336ae3c5.html",
         "https://www.repubblica.it/esteri/2026/08/23/diretta/guerra_ucraina_russia_news_oggi-425542315/",
         "https://www.lastampa.it/esteri/2026/08/23/diretta/guerra_russia_ucraina_news_oggi-15720348/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Il Napoli di Allegri inizia con una vittoria a Marassi: Genoa superato 2-0",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/23/polemiche-arbitrali-genoa-napoli-de-bruyne-tutta-italia-ha-visto-cosa-e-successo-allegri-neanche-con-dieci-decimi/8486084/",
-        "https://www.repubblica.it/sport/calcio/serie-a/2026/08/22/news/genoa_napoli_de_rossi_polemica_arbitro_di_bello-425542303/",
-        "https://www.liberoquotidiano.it/news/sport/48926826/serie-a-vittoria-al-fotofinish-per-il-napoli-genoa-ko/",
-        "https://www.lastampa.it/sport/2026/08/22/news/genoa_napoli_gol_highlights-15720332/"
       ]
     }
   ]
