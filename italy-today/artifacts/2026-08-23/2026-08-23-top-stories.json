@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generated_at": "Sun 23 Aug 08:41",
+  "generated_at": "Sun 23 Aug 09:38",
   "stories": [
     {
       "rank": 1,
@@ -21,6 +21,25 @@
     },
     {
       "rank": 2,
+      "title": "Umanoide cinese batte il record di Bolt nei 100 metri: 9,32 secondi",
+      "source_count": 4,
+      "article_count": 7,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "laverita.info",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/48929422/bolt-il-suo-record-sui-100-battuto-da-un-robot-il-video/",
+        "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/08/22/un-robot-cinese-corre-i-100-metri-e-batte-il-record-di-usain-bolt_36fb5ef9-1320-4bbf-b205-02a8d6b3e527.html",
+        "https://www.laverita.info/tecnologia/robot-umanoide-record-100-metri-bolt",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/08/22/robot-cinese-corre-i-100-metri-in-939-battuto-il-record-di-bolt_ce79fdc6-41f1-4dcd-8761-f00e790923a4.html",
+        "https://www.liberoquotidiano.it/news/sport/48924234/robot-batte-record-bolt-100-metri-poi-si-suicida/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "I genitori della bambina morta per sospetta difterite a Palermo sono indagati per omicidio colposo",
       "source_count": 5,
       "article_count": 5,
@@ -40,7 +59,27 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Guerra Ucraina - Russia, le news di oggi. Putin: “Risposta ai raid di Kiev sarà distruttiva”",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ansa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/48929424/putin-costretto-parlare-russia-attacchi-ucraini-danni-economici/",
+        "https://www.repubblica.it/esteri/2026/08/23/diretta/guerra_ucraina_russia_news_oggi-425542315/",
+        "https://www.lastampa.it/esteri/2026/08/23/diretta/guerra_russia_ucraina_news_oggi-15720348/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/22/putin-giura-vendetta-kiev-ha-aperto-il-vaso-di-pandora-attaccando-leconomia_fe7b30d9-a772-4a9e-a3a4-6c7c1a8b1613.html",
+        "https://www.ilmessaggero.it/mondo/russia_economia_crisi_putin_in_difficolta_dopo_raid_ucraina_ultima_ora-9720150.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "F1: in Olanda Lando Norris in pole e Kimi Antonelli parte terzo",
       "source_count": 5,
       "article_count": 5,
@@ -60,26 +99,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Umanoide cinese batte il record di Bolt nei 100 metri: 9,32 secondi",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "laverita.info",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/08/22/un-robot-cinese-corre-i-100-metri-e-batte-il-record-di-usain-bolt_36fb5ef9-1320-4bbf-b205-02a8d6b3e527.html",
-        "https://www.laverita.info/tecnologia/robot-umanoide-record-100-metri-bolt",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/08/22/robot-cinese-corre-i-100-metri-in-939-battuto-il-record-di-bolt_ce79fdc6-41f1-4dcd-8761-f00e790923a4.html",
-        "https://www.liberoquotidiano.it/news/sport/48924234/robot-batte-record-bolt-100-metri-poi-si-suicida/",
-        "https://www.lastampa.it/tech/2026/08/22/video/il_robot_e_piu_veloce_di_usain_bolt_100_metri_in_939_secondi_poi_finisce_contro_il_muro-15719964/"
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "Foggia, trovato morto nel bagagliaio il bracciante scomparso",
       "source_count": 5,
       "article_count": 5,
@@ -96,25 +116,6 @@
         "https://bari.repubblica.it/cronaca/2026/08/23/news/foggia_nel_bagagliaio_di_un_auto_il_corpo_del_bracciante_scomparso_dal_ghetto_di_borgo_mezzanone-425542532/",
         "https://www.ilmessaggero.it/italia/foggia_morto_bracciante_32_anni_borgo_mezzanone_cadavere_in_macchina-9721370.html",
         "https://www.lastampa.it/cronaca/2026/08/23/news/foggia_trovato_morto_bracciante_scomparso_bagagliaio_auto_omicidio-15720437/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Genoa-Napoli 0-2, De Bruyne e Vergara regalano i primi tre punti ad Allegri",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "repubblica.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/calcio/serie-a/2026/08/22/news/genoa_napoli_de_rossi_polemica_arbitro_di_bello-425542303/",
-        "https://www.adnkronos.com/sport/genoa-napoli-0-2-gol-de-bruyne-proteste-furia-de-rossi-cosa-e-successo_1yte8PQYtIi5vuQrnAm5q5",
-        "https://www.liberoquotidiano.it/news/sport/48926826/serie-a-vittoria-al-fotofinish-per-il-napoli-genoa-ko/",
-        "https://www.lastampa.it/sport/2026/08/22/news/genoa_napoli_gol_highlights-15720332/",
-        "https://www.adnkronos.com/sport/diretta-genoa-napoli-oggi-serie-a-live-risultato-aggiornamenti-campionato_5t0vjWe5hACRdE7GFEkbg9"
       ]
     },
     {
@@ -137,20 +138,20 @@
     },
     {
       "rank": 8,
-      "title": "Putin giura vendetta, 'Kiev ha aperto il vaso di Pandora attaccando l'economia'",
+      "title": "Genoa-Napoli 0-2, De Bruyne e Vergara regalano i primi tre punti ad Allegri",
       "source_count": 4,
       "article_count": 4,
       "source_domains": [
         "repubblica.it",
+        "liberoquotidiano.it",
         "lastampa.it",
-        "ansa.it",
-        "ilmessaggero.it"
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.repubblica.it/esteri/2026/08/23/diretta/guerra_ucraina_russia_news_oggi-425542315/",
-        "https://www.lastampa.it/esteri/2026/08/23/diretta/guerra_russia_ucraina_news_oggi-15720348/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/22/putin-giura-vendetta-kiev-ha-aperto-il-vaso-di-pandora-attaccando-leconomia_fe7b30d9-a772-4a9e-a3a4-6c7c1a8b1613.html",
-        "https://www.ilmessaggero.it/mondo/russia_economia_crisi_putin_in_difficolta_dopo_raid_ucraina_ultima_ora-9720150.html"
+        "https://www.repubblica.it/sport/calcio/serie-a/2026/08/22/news/genoa_napoli_de_rossi_polemica_arbitro_di_bello-425542303/",
+        "https://www.liberoquotidiano.it/news/sport/48926826/serie-a-vittoria-al-fotofinish-per-il-napoli-genoa-ko/",
+        "https://www.lastampa.it/sport/2026/08/22/news/genoa_napoli_gol_highlights-15720332/",
+        "https://www.adnkronos.com/sport/diretta-genoa-napoli-oggi-serie-a-live-risultato-aggiornamenti-campionato_5t0vjWe5hACRdE7GFEkbg9"
       ]
     },
     {
