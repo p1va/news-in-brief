@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generated_at": "Sun 23 Aug 09:38",
+  "generated_at": "Sun 23 Aug 10:34",
   "stories": [
     {
       "rank": 1,
@@ -40,26 +40,6 @@
     },
     {
       "rank": 3,
-      "title": "I genitori della bambina morta per sospetta difterite a Palermo sono indagati per omicidio colposo",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "laverita.info",
-        "adnkronos.com",
-        "ansa.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.laverita.info/leditoriale/indagati-genitori-bimba-morta-difterite",
-        "https://www.adnkronos.com/cronaca/bambina-morta-palermo-vaccino-anti-difterite-boom-prenotazioni_5yKsiubVpnNQx61PpVlVTJ",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-indagati-i-genitori_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html",
-        "https://www.ilsole24ore.com/art/bimba-morta-palermo-difterite-indagati-genitori-AJFAp1r",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTTlrRUNoaDZLbUFpeFpLN1dvRGZXYUl0TzN1RWZzdW0xaDBEY3l6Q3FxQXlNd3VxczhYbzN2emtuSFVvZU9VeGJ6XzlndnpYbUJlclVobEtXNUtLaTQtR1JMUW5sdTI2dm9zUEttVG53WUVrQ09wejU5TFA0cXRTNGFSMGNwUExqUTZMRkpKVEpJU2hJ?oc=5"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Guerra Ucraina - Russia, le news di oggi. Putin: “Risposta ai raid di Kiev sarà distruttiva”",
       "source_count": 5,
       "article_count": 5,
@@ -76,6 +56,26 @@
         "https://www.lastampa.it/esteri/2026/08/23/diretta/guerra_russia_ucraina_news_oggi-15720348/",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/22/putin-giura-vendetta-kiev-ha-aperto-il-vaso-di-pandora-attaccando-leconomia_fe7b30d9-a772-4a9e-a3a4-6c7c1a8b1613.html",
         "https://www.ilmessaggero.it/mondo/russia_economia_crisi_putin_in_difficolta_dopo_raid_ucraina_ultima_ora-9720150.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Genoa-Napoli 0-2, De Bruyne e Vergara regalano i primi tre punti ad Allegri",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/23/polemiche-arbitrali-genoa-napoli-de-bruyne-tutta-italia-ha-visto-cosa-e-successo-allegri-neanche-con-dieci-decimi/8486084/",
+        "https://www.repubblica.it/sport/calcio/serie-a/2026/08/22/news/genoa_napoli_de_rossi_polemica_arbitro_di_bello-425542303/",
+        "https://www.liberoquotidiano.it/news/sport/48926826/serie-a-vittoria-al-fotofinish-per-il-napoli-genoa-ko/",
+        "https://www.lastampa.it/sport/2026/08/22/news/genoa_napoli_gol_highlights-15720332/",
+        "https://www.adnkronos.com/sport/diretta-genoa-napoli-oggi-serie-a-live-risultato-aggiornamenti-campionato_5t0vjWe5hACRdE7GFEkbg9"
       ]
     },
     {
@@ -120,9 +120,29 @@
     },
     {
       "rank": 7,
-      "title": "Guerra in Iran, le news di oggi. Telegraph: a luglio hacker iraniani hanno bloccato una centrale elettrica britannica per 4 giorni",
+      "title": "Droga e pistola in casa, arrestato a Milano il rapper Tony Boy",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/droga-e-pistola-in-casa-arrestato-a-milano-il-rapper-tony-boy_287abc51-dbb3-4c61-a217-3ed10182c293.html",
+        "https://www.ilmessaggero.it/persone/tony_boy_arrestato_chi_e-9721494.html",
+        "https://milano.repubblica.it/cronaca/2026/08/23/news/arrestato_rapper_tony_boy_casa_droga_cocaina_pistola_matricola_abrasa_live_social_video-425542776/",
+        "https://www.lastampa.it/cronaca/2026/08/23/news/tony_boy_droga_pistola_arrestato-15720542/",
+        "https://www.ilsole24ore.com/art/droga-e-pistola-casa-arrestato-milano-rapper-tony-boy-AJS9pes"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "L'Iran colpisce l'Europa, spenta centrale elettrica per 4 giorni: cosa è successo",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
         "ilmessaggero.it",
         "ansa.it",
@@ -131,61 +151,46 @@
       ],
       "links": [
         "https://www.ilmessaggero.it/mondo/iran_colpisce_europa_attacco_hacker-9721390.html",
+        "https://www.ilmessaggero.it/mondo/iran_europa_attacco_hacker_centrale_elettrica-9721390.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/23/hacker-iraniani-hanno-spento-una-centrale-elettrica-nel-regno-unito_bb03d05f-9091-4811-9aa6-6d231662e21e.html",
         "https://www.repubblica.it/esteri/2026/08/23/diretta/guerra_iran_usa_israele_news_oggi-425542318/",
         "https://www.lastampa.it/esteri/2026/08/23/diretta/guerra_iran_usa_israele_news_oggi-15720351/"
       ]
     },
     {
-      "rank": 8,
-      "title": "Genoa-Napoli 0-2, De Bruyne e Vergara regalano i primi tre punti ad Allegri",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/calcio/serie-a/2026/08/22/news/genoa_napoli_de_rossi_polemica_arbitro_di_bello-425542303/",
-        "https://www.liberoquotidiano.it/news/sport/48926826/serie-a-vittoria-al-fotofinish-per-il-napoli-genoa-ko/",
-        "https://www.lastampa.it/sport/2026/08/22/news/genoa_napoli_gol_highlights-15720332/",
-        "https://www.adnkronos.com/sport/diretta-genoa-napoli-oggi-serie-a-live-risultato-aggiornamenti-campionato_5t0vjWe5hACRdE7GFEkbg9"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Amatrice (ancora) a metà dopo il sisma del 2016. Tra gru e deserto, altri 10 anni per ricostruire",
+      "title": "Codice strada, i nuovi limiti per gli anziani: niente autostrada, zero alcol e guida entro 100 km da casa. Ecco per chi",
       "source_count": 4,
       "article_count": 4,
       "source_domains": [
         "ilfattoquotidiano.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "ansa.it"
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/23/amatrice-il-racconto-degli-sfollati-nelle-abitazioni-di-emergenza-10-anni-dopo-il-terremoto-ci-manca-tutto-di-casa/8485044/",
-        "https://ilmanifesto.it/la-ricostruzione-che-manca-oltre-i-numeri-del-commissario",
-        "https://www.ilmessaggero.it/italia/amatrice_terremoto_ricostruzione_dieci_anni_accumoli_arquata-9720319.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/la-lenta-rinascita-di-amatrice_9bc7a765-29f1-4d9e-9de3-afb3561e459d.html"
+        "https://www.ilfattoquotidiano.it/2026/08/23/codice-strada-limiti-over85-notizie/8486067/",
+        "https://www.repubblica.it/economia/2026/08/22/news/codice_stradale_over_85_limiti_autostrade_100_km_da_casa-425542114/",
+        "https://www.liberoquotidiano.it/news/italia/48926556/nuovo-codice-strada-zero-alcol-guida-entro-100-km-casa-nuovi-limiti-per-chi/",
+        "https://www.ilmessaggero.it/italia/codice_strada_nuovi_limiti_anziani_per_chi-9720066.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Salvini apre ai governatori: Pronto a condividere responsabilità con tutti e rafforzare la squadra",
-      "source_count": 3,
-      "article_count": 3,
+      "title": "I genitori della bambina morta per sospetta difterite a Palermo sono indagati per omicidio colposo",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "ilsole24ore.com"
+        "laverita.info",
+        "adnkronos.com",
+        "ansa.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.lastampa.it/politica/2026/08/23/news/lega_salvini_avverte_il_fronte_del_nord_se_parlano_meno_e_lavorano_e_meglio-15720309/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48926410/salvini-apre-ai-governatori-pronto-a-condividere-responsabilita-con-tutti-e-rafforzare-la-squadra/",
-        "https://www.ilsole24ore.com/art/salvini-apre-nordisti-disponibile-rafforzare-squadra-governatori-ministri-sindaci-AJvadFs"
+        "https://www.laverita.info/leditoriale/indagati-genitori-bimba-morta-difterite",
+        "https://www.adnkronos.com/cronaca/bambina-morta-palermo-vaccino-anti-difterite-boom-prenotazioni_5yKsiubVpnNQx61PpVlVTJ",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/22/bimba-morta-a-palermo-indagati-i-genitori_d7bbc1cf-c1af-4b13-8147-4ba9ed4287ba.html",
+        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTTlrRUNoaDZLbUFpeFpLN1dvRGZXYUl0TzN1RWZzdW0xaDBEY3l6Q3FxQXlNd3VxczhYbzN2emtuSFVvZU9VeGJ6XzlndnpYbUJlclVobEtXNUtLaTQtR1JMUW5sdTI2dm9zUEttVG53WUVrQ09wejU5TFA0cXRTNGFSMGNwUExqUTZMRkpKVEpJU2hJ?oc=5"
       ]
     }
   ]
