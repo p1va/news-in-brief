@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generated_at": "Sun 23 Aug 15:32",
+  "generated_at": "Sun 23 Aug 16:36",
   "stories": [
     {
       "rank": 1,
@@ -50,6 +50,25 @@
     },
     {
       "rank": 3,
+      "title": "Gp Olanda, Norris dopo Budapest vince anche a Zandvoort. Kimi Antonelli secondo, terzo Russell, poi le due Ferrari",
+      "source_count": 4,
+      "article_count": 9,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/formulauno/2026/08/23/news/norris_vittoria_olanda_2026_antonelli_hamilton-425543113/",
+        "https://www.ansa.it/sito/notizie/sport/2026/08/23/f1-lando-norris-vince-in-olanda-davanti-ad-antonelli-e-russell_024893f3-014e-43a9-84cb-e69e3ff23d5a.html",
+        "https://www.ilfattoquotidiano.it/2026/08/23/f1-gp-olanda-trionfa-norris-con-la-mclaren-battuto-antonelli-ferrari-giu-dal-podio-risultati-e-nuova-classifica/8486284/",
+        "https://www.repubblica.it/sport/formulauno/2026/08/23/news/verstappen_incidente_spaventoso_olanda-425543025/",
+        "https://www.ilfattoquotidiano.it/2026/08/23/verstappen-gp-olanda-zandvoort-incidente-notizie/8486205/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Cresce ancora il prezzo dei carburanti: gasolio sopra i 2,2 in autostrada",
       "source_count": 6,
       "article_count": 7,
@@ -67,25 +86,6 @@
         "https://www.ilmessaggero.it/economia/news/caro_benzina_carburanti_gasolio_sopra_i_2_euro_autostrada-9721445.html",
         "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/23/cresce-ancora-il-prezzo-dei-carburanti-gasolio-sopra-i-22-in-autostrada_88295d67-975d-4e9b-98a8-a2040222bc59.html",
         "https://www.lastampa.it/economia/2026/08/23/news/caro_carburanti_scade_sconto_accise_stangata_gasolio_prezzo_litro-15720574/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Gp Olanda, Norris dopo Budapest vince anche a Zandvoort. Kimi Antonelli secondo, terzo Russell, poi le due Ferrari",
-      "source_count": 4,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/08/23/f1-lando-norris-vince-in-olanda-davanti-ad-antonelli-e-russell_024893f3-014e-43a9-84cb-e69e3ff23d5a.html",
-        "https://www.ilfattoquotidiano.it/2026/08/23/f1-gp-olanda-trionfa-norris-con-la-mclaren-battuto-antonelli-ferrari-giu-dal-podio-risultati-e-nuova-classifica/8486284/",
-        "https://www.repubblica.it/sport/formulauno/2026/08/23/news/verstappen_incidente_spaventoso_olanda-425543025/",
-        "https://www.ilfattoquotidiano.it/2026/08/23/verstappen-gp-olanda-zandvoort-incidente-notizie/8486205/",
-        "https://www.ilmessaggero.it/sport/formula1/gp_di_olanda_diretta_live_norris_leclerc_antonelli_ferrari_live_dove_vederlo-9721561.html"
       ]
     },
     {
@@ -111,26 +111,45 @@
     },
     {
       "rank": 6,
-      "title": "Guerra Ucraina - Russia, le news di oggi. Putin: “Risposta ai raid di Kiev sarà distruttiva”",
+      "title": "Codice della Strada, intervento del Mit: “Nessuna limitazione agli over 85”",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "liberoquotidiano.it",
         "repubblica.it",
         "lastampa.it",
-        "ansa.it",
-        "ilmessaggero.it"
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/48929424/putin-costretto-parlare-russia-attacchi-ucraini-danni-economici/",
-        "https://www.repubblica.it/esteri/2026/08/23/diretta/guerra_ucraina_russia_news_oggi-425542315/",
-        "https://www.lastampa.it/esteri/2026/08/23/diretta/guerra_russia_ucraina_news_oggi-15720348/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/22/putin-giura-vendetta-kiev-ha-aperto-il-vaso-di-pandora-attaccando-leconomia_fe7b30d9-a772-4a9e-a3a4-6c7c1a8b1613.html",
-        "https://www.ilmessaggero.it/mondo/russia_economia_crisi_putin_in_difficolta_dopo_raid_ucraina_ultima_ora-9720150.html"
+        "https://www.repubblica.it/economia/diritti-e-consumi/diritti-consumatori/2026/08/23/news/codice_della_strada_intervento_del_mit_nessuna_limitazione_agli_over_85-425543073/",
+        "https://www.lastampa.it/cronaca/2026/08/23/news/codice_strada_over_85-15720665/",
+        "https://www.ilfattoquotidiano.it/2026/08/23/codice-strada-limiti-over85-notizie/8486067/",
+        "https://www.repubblica.it/economia/2026/08/22/news/codice_stradale_over_85_limiti_autostrade_100_km_da_casa-425542114/",
+        "https://www.liberoquotidiano.it/news/italia/48926556/nuovo-codice-strada-zero-alcol-guida-entro-100-km-casa-nuovi-limiti-per-chi/"
       ]
     },
     {
       "rank": 7,
+      "title": "Guerra Ucraina - Russia, le news di oggi. Putin: “Risposta ai raid di Kiev sarà distruttiva”",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/48929424/putin-costretto-parlare-russia-attacchi-ucraini-danni-economici/",
+        "https://www.liberoquotidiano.it/news/libero-video/48929423/ucraina-attacco-russo-a-kryvyi-rih-i-soccorritori-scavano-tra-le-macerie/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/23/kiev-attacca-ancora-lamazon-russo-con-i-droni-scoppiato-un-incendio_0ed65c52-7afe-4dce-b7a7-e9d9336ae3c5.html",
+        "https://www.repubblica.it/esteri/2026/08/23/diretta/guerra_ucraina_russia_news_oggi-425542315/",
+        "https://www.lastampa.it/esteri/2026/08/23/diretta/guerra_russia_ucraina_news_oggi-15720348/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Genoa-Napoli 0-2, De Bruyne e Vergara regalano i primi tre punti ad Allegri",
       "source_count": 5,
       "article_count": 5,
@@ -150,7 +169,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Imperia, morto il designer Paolo Allasia: annega nel tentativo di salvare il figlio in mare",
       "source_count": 5,
       "article_count": 5,
@@ -170,7 +189,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Riapre gli occhi il 21enne ricoverato a Barcellona: 'Ha stretto la mano alla mamma'",
       "source_count": 5,
       "article_count": 5,
@@ -187,25 +206,6 @@
         "https://www.repubblica.it/cronaca/2026/08/23/news/nicola_maggiotto_miglioramenti_coma_barcellona-425542702/",
         "https://www.ilfattoquotidiano.it/2026/08/23/nicola-maggiotto-risveglio-barcellona-notizie/8486040/",
         "https://www.lastampa.it/cronaca/2026/08/23/news/aggressione_barcellona_nicola_maggiotto_apre_gli_occhi_ha_stretto_la_mano_alla_mamma-15720549/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "L'Iran colpisce l'Europa, spenta centrale elettrica per 4 giorni: cosa è successo",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/mondo/iran_colpisce_europa_attacco_hacker-9721390.html",
-        "https://www.ilmessaggero.it/mondo/iran_europa_attacco_hacker_centrale_elettrica-9721390.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/23/hacker-iraniani-hanno-spento-una-centrale-elettrica-nel-regno-unito_bb03d05f-9091-4811-9aa6-6d231662e21e.html",
-        "https://www.repubblica.it/esteri/2026/08/23/diretta/guerra_iran_usa_israele_news_oggi-425542318/",
-        "https://www.lastampa.it/esteri/2026/08/23/diretta/guerra_iran_usa_israele_news_oggi-15720351/"
       ]
     }
   ]
