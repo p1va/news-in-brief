@@ -1,26 +1,89 @@
 {
   "date": "2026-08-23",
-  "generated_at": "Sun 23 Aug 11:30",
+  "generated_at": "Sun 23 Aug 12:54",
   "stories": [
     {
       "rank": 1,
-      "title": "Il popolo del Meeting di Rimini accoglie Papa Leone XIV",
-      "source_count": 2,
-      "article_count": 10,
+      "title": "Droga e pistola in casa, arrestato a Milano il rapper Tony Boy",
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
-        "repubblica.it",
-        "liberoquotidiano.it"
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.repubblica.it/cronaca/2026/08/23/news/bernhard_scholz_papa_visita_meeting_rimini_intervista-425542283/",
+        "https://www.ilfattoquotidiano.it/2026/08/23/droga-e-una-pistola-clandestina-in-casa-arrestato-a-milano-il-rapper-tony-boy-la-perquisizione-in-diretta-su-instagram-non-ho-capito-perche-siete-in-casa-mia/8486157/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/droga-e-pistola-in-casa-arrestato-a-milano-il-rapper-tony-boy_287abc51-dbb3-4c61-a217-3ed10182c293.html",
+        "https://www.ilmessaggero.it/persone/tony_boy_arrestato_chi_e-9721494.html",
+        "https://www.ilmessaggero.it/persone/tony_boy_arrestato_live_social_cosa_e_successo-9721494.html",
+        "https://milano.repubblica.it/cronaca/2026/08/23/news/arrestato_rapper_tony_boy_casa_droga_cocaina_pistola_matricola_abrasa_live_social_video-425542776/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Migranti: Piantedosi, «Sea Watch 5 ha violato norme, stop di 45 giorni»",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/08/23/migranti-piantedosi-sea-watch-5-ha-violato-norme-stop-di-45-giorni_8571281d-be31-49fa-aafd-7f38479c2042.html",
+        "https://www.ilmessaggero.it/politica/multa_sea_watch_cosa_succede-9721523.html",
+        "https://www.ilfattoquotidiano.it/2026/08/23/sea-watch-fermo-piantedosi-migranti-notizie/8486106/",
+        "https://www.repubblica.it/cronaca/2026/08/23/news/sea_watch_ong_multa_viminale-425542769/",
+        "https://www.lastampa.it/cronaca/2026/08/23/news/sea_watch_governo-15720582/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Il popolo del Meeting di Rimini accoglie Papa Leone XIV",
+      "source_count": 2,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
         "https://www.liberoquotidiano.it/news/pillole/48925046/papa_leone_xiv_al_meeting_di_rimini_smascheriamo_i_rapporti_di_potere_ingiusti_/",
         "https://www.liberoquotidiano.it/news/pillole/48924955/papa_al_meeting_prima_di_confini_e_istituzioni_ci_sono_sempre_le_persone_/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/48925033/papa-leone-scende-dalla-golf-car-per-salutare-una-persona-invalida-al-meeting-di-rimini/",
         "https://www.liberoquotidiano.it/news/pillole/48924697/papa_leone_xiv_al_meeting_di_rimini_e_l_ora_della_responsabilita_/",
         "https://www.liberoquotidiano.it/news/tv-news/48924869/il-papa-lascia-il-meeting-di-rimini-tra-gli-applausi-della-folla/"
       ]
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "title": "F1: in Olanda Lando Norris in pole e Kimi Antonelli parte terzo",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/formula1/gp_di_olanda_diretta_live_norris_leclerc_antonelli_ferrari_live_dove_vederlo-9721561.html",
+        "https://www.ilmessaggero.it/blog/milleruote/norris_pole_a_zandvoort_la_mclaren_precede_le_due_mercedes_delusa_la_ferrari_solo_in_terza_fila-9721387.html",
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/08/22/f1-in-olanda-lando-norris-in-pole-e-kimi-antonelli-parte-terzo_de76d1f1-1935-4eb2-bb74-93950b30028a.html",
+        "https://www.ilfattoquotidiano.it/2026/08/22/gp-olanda-f1-qualifiche-notizie/8485754/",
+        "https://www.lastampa.it/sport/2026/08/22/news/formula_uno_olanda_qualifiche_norris_pole-15719990/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Guerra Ucraina - Russia, le news di oggi. Putin: “Risposta ai raid di Kiev sarà distruttiva”",
       "source_count": 5,
       "article_count": 5,
@@ -40,7 +103,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 6,
       "title": "Genoa-Napoli 0-2, De Bruyne e Vergara regalano i primi tre punti ad Allegri",
       "source_count": 5,
       "article_count": 5,
@@ -60,27 +123,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "F1: in Olanda Lando Norris in pole e Kimi Antonelli parte terzo",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/blog/milleruote/norris_pole_a_zandvoort_la_mclaren_precede_le_due_mercedes_delusa_la_ferrari_solo_in_terza_fila-9721387.html",
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/08/22/f1-in-olanda-lando-norris-in-pole-e-kimi-antonelli-parte-terzo_de76d1f1-1935-4eb2-bb74-93950b30028a.html",
-        "https://www.ilfattoquotidiano.it/2026/08/22/gp-olanda-f1-qualifiche-notizie/8485754/",
-        "https://www.lastampa.it/sport/2026/08/22/news/formula_uno_olanda_qualifiche_norris_pole-15719990/",
-        "https://www.adnkronos.com/sport/diretta-formula-1-oggi-qualifiche-ufficiali-gp-olanda-live-risultati-e-aggiornamenti_7D6nmQvPa0HiYvjuv2e5Rr"
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "title": "Robot cinese corre i 100 metri in 9\"39, battuto il record di Bolt",
       "source_count": 4,
       "article_count": 6,
@@ -99,26 +142,27 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Cresce ancora il prezzo dei carburanti: gasolio sopra i 2,2 in autostrada",
-      "source_count": 4,
-      "article_count": 6,
+      "rank": 8,
+      "title": "Imperia, morto il designer Paolo Allasia: annega nel tentativo di salvare il figlio in mare",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
+        "liberoquotidiano.it",
         "lastampa.it",
-        "ilsole24ore.com"
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/economia/news/caro_benzina_carburanti_gasolio_sopra_i_2_euro_autostrada-9721445.html",
-        "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/23/cresce-ancora-il-prezzo-dei-carburanti-gasolio-sopra-i-22-in-autostrada_88295d67-975d-4e9b-98a8-a2040222bc59.html",
-        "https://www.lastampa.it/economia/2026/08/23/news/caro_carburanti_scade_sconto_accise_stangata_gasolio_prezzo_litro-15720574/",
-        "https://www.ilmessaggero.it/politica/meloni_fine_vacanze_nodo_accise_prezzi_record-9720350.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/08/22/countdown-per-la-stangata-delle-accise.-spunta-una-tassa-ue-sui-profitti_cdc06ad4-f758-41ef-83fe-8aa24b76fe3d.html"
+        "https://www.liberoquotidiano.it/news/italia/48929482/paolo-allasia-tragica-morte-annegato-mare-imperia/",
+        "https://www.lastampa.it/cuneo/2026/08/23/news/designer_di_alba_annega_a_san_lorenzo_al_mare_chi_era_paolo_allasia-15720476/",
+        "https://www.ilfattoquotidiano.it/2026/08/22/paolo-allasia-designer-annegato-san-lorenzo-notizie/8485852/",
+        "https://www.adnkronos.com/cronaca/malore-mare-designer-morto-imperia_2hS6ZSe1oIJuDgeC3dEGz3",
+        "https://www.ilmessaggero.it/persone/imperia_designer_morto_chi_era-9720255.html"
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Foggia, trovato morto nel bagagliaio il bracciante scomparso",
       "source_count": 5,
       "article_count": 5,
@@ -138,7 +182,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Riapre gli occhi il 21enne ricoverato a Barcellona: 'Ha stretto la mano alla mamma'",
       "source_count": 5,
       "article_count": 5,
@@ -155,46 +199,6 @@
         "https://www.repubblica.it/cronaca/2026/08/23/news/nicola_maggiotto_miglioramenti_coma_barcellona-425542702/",
         "https://www.ilfattoquotidiano.it/2026/08/23/nicola-maggiotto-risveglio-barcellona-notizie/8486040/",
         "https://www.lastampa.it/cronaca/2026/08/23/news/aggressione_barcellona_nicola_maggiotto_apre_gli_occhi_ha_stretto_la_mano_alla_mamma-15720549/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Droga e pistola in casa, arrestato a Milano il rapper Tony Boy",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "milano.repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/droga-e-pistola-in-casa-arrestato-a-milano-il-rapper-tony-boy_287abc51-dbb3-4c61-a217-3ed10182c293.html",
-        "https://www.ilmessaggero.it/persone/tony_boy_arrestato_chi_e-9721494.html",
-        "https://milano.repubblica.it/cronaca/2026/08/23/news/arrestato_rapper_tony_boy_casa_droga_cocaina_pistola_matricola_abrasa_live_social_video-425542776/",
-        "https://www.lastampa.it/cronaca/2026/08/23/news/tony_boy_droga_pistola_arrestato-15720542/",
-        "https://www.ilsole24ore.com/art/droga-e-pistola-casa-arrestato-milano-rapper-tony-boy-AJS9pes"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Migranti: Piantedosi, «Sea Watch 5 ha violato norme, stop di 45 giorni»",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/08/23/migranti-piantedosi-sea-watch-5-ha-violato-norme-stop-di-45-giorni_8571281d-be31-49fa-aafd-7f38479c2042.html",
-        "https://www.ilmessaggero.it/politica/multa_sea_watch_cosa_succede-9721523.html",
-        "https://www.ilfattoquotidiano.it/2026/08/23/sea-watch-fermo-piantedosi-migranti-notizie/8486106/",
-        "https://www.repubblica.it/cronaca/2026/08/23/news/sea_watch_ong_multa_viminale-425542769/",
-        "https://www.ilsole24ore.com/art/migranti-piantedosi-sea-watch-5-ha-violato-norme-stop-45-giorni-AJMfngs"
       ]
     }
   ]
