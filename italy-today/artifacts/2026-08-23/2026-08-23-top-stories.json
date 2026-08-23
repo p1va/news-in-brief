@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generated_at": "Sun 23 Aug 18:48",
+  "generated_at": "Sun 23 Aug 19:31",
   "stories": [
     {
       "rank": 1,
@@ -71,27 +71,6 @@
     },
     {
       "rank": 4,
-      "title": "Cresce ancora il prezzo dei carburanti: gasolio sopra i 2,2 in autostrada",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/economia/2026/08/23/news/il_diesel_sfonda_i_22_euro_schlein_il_governo_tassi_gli_extraprofitti_delle_societa_energetiche-425542992/",
-        "https://www.ilfattoquotidiano.it/2026/08/23/prezzi-carburanti-extraprofitti-energetici-notizie/8486057/",
-        "https://www.ilmessaggero.it/economia/news/caro_benzina_carburanti_gasolio_sopra_i_2_euro_autostrada-9721445.html",
-        "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/23/cresce-ancora-il-prezzo-dei-carburanti-gasolio-sopra-i-22-in-autostrada_88295d67-975d-4e9b-98a8-a2040222bc59.html",
-        "https://www.lastampa.it/economia/2026/08/23/news/caro_carburanti_scade_sconto_accise_stangata_gasolio_prezzo_litro-15720574/"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Foggia, bracciante 32enne scompare il 4 agosto e lo ritrovano morto nel bagagliaio della sua auto: ipotesi omicidio",
       "source_count": 6,
       "article_count": 6,
@@ -109,6 +88,27 @@
         "https://bari.repubblica.it/cronaca/2026/08/23/news/foggia_nel_bagagliaio_di_un_auto_il_corpo_del_bracciante_scomparso_dal_ghetto_di_borgo_mezzanone-425542532/",
         "https://www.ilmessaggero.it/italia/foggia_morto_bracciante_32_anni_borgo_mezzanone_cadavere_in_macchina-9721370.html",
         "https://www.lastampa.it/cronaca/2026/08/23/news/foggia_trovato_morto_bracciante_scomparso_bagagliaio_auto_omicidio-15720437/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Cresce ancora il prezzo dei carburanti: gasolio sopra i 2,2 in autostrada",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/economia/2026/08/23/news/il_diesel_sfonda_i_22_euro_schlein_il_governo_tassi_gli_extraprofitti_delle_societa_energetiche-425542992/",
+        "https://www.ilfattoquotidiano.it/2026/08/23/prezzi-carburanti-extraprofitti-energetici-notizie/8486057/",
+        "https://www.ilmessaggero.it/economia/news/caro_benzina_carburanti_gasolio_sopra_i_2_euro_autostrada-9721445.html",
+        "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/23/cresce-ancora-il-prezzo-dei-carburanti-gasolio-sopra-i-22-in-autostrada_88295d67-975d-4e9b-98a8-a2040222bc59.html",
+        "https://www.lastampa.it/economia/2026/08/23/news/caro_carburanti_scade_sconto_accise_stangata_gasolio_prezzo_litro-15720574/"
       ]
     },
     {
@@ -153,6 +153,24 @@
     },
     {
       "rank": 8,
+      "title": "Serie A: Frosinone-Juventus 0-1 DIRETTA E FOTO",
+      "source_count": 3,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-atalanta-sassuolo-1-0-diretta-e-foto_ee013189-73b0-4bbd-b836-cd560716a3af.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-in-campo-torino-milan-0-0-diretta-e-foto_6aed75e5-f7cb-41f2-9e3d-f5aed0e95650.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-a-frosinone-la-juventus-passa-1-0.-decide-un-gol-di-bremer-al-22-cronaca-e-foto_82076c68-f325-4128-a040-7b8706ba168a.html",
+        "https://www.ilmessaggero.it/sport/schede/frosinone_juventus_pagelle_bremer_kolo_muani_cosa_e_successo_serie_a-9721800.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/23/serie-a-frosinone-juventus-0-1-diretta-e-foto_82076c68-f325-4128-a040-7b8706ba168a.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Crans, Jacques Moretti arrestato per violenze sulla moglie Jessica. Lei ricoverata in ospedale",
       "source_count": 5,
       "article_count": 5,
@@ -172,7 +190,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "L'Iran colpisce l'Europa, spenta centrale elettrica per 4 giorni: cosa è successo",
       "source_count": 4,
       "article_count": 5,
@@ -188,25 +206,6 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/08/23/hacker-iraniani-hanno-spento-una-centrale-elettrica-nel-regno-unito_bb03d05f-9091-4811-9aa6-6d231662e21e.html",
         "https://www.repubblica.it/esteri/2026/08/23/diretta/guerra_iran_usa_israele_news_oggi-425542318/",
         "https://www.lastampa.it/esteri/2026/08/23/diretta/guerra_iran_usa_israele_news_oggi-15720351/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Guerra Ucraina - Russia, le news di oggi. Putin: “Risposta ai raid di Kiev sarà distruttiva”",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/48929424/putin-costretto-parlare-russia-attacchi-ucraini-danni-economici/",
-        "https://www.liberoquotidiano.it/news/libero-video/48929423/ucraina-attacco-russo-a-kryvyi-rih-i-soccorritori-scavano-tra-le-macerie/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/23/kiev-attacca-ancora-lamazon-russo-con-i-droni-scoppiato-un-incendio_0ed65c52-7afe-4dce-b7a7-e9d9336ae3c5.html",
-        "https://www.repubblica.it/esteri/2026/08/23/diretta/guerra_ucraina_russia_news_oggi-425542315/",
-        "https://www.lastampa.it/esteri/2026/08/23/diretta/guerra_russia_ucraina_news_oggi-15720348/"
       ]
     }
   ]
