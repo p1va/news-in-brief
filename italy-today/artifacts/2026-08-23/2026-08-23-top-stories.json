@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generated_at": "Sun 23 Aug 06:54",
+  "generated_at": "Sun 23 Aug 07:43",
   "stories": [
     {
       "rank": 1,
@@ -112,6 +112,24 @@
     },
     {
       "rank": 7,
+      "title": "Amatrice (ancora) a metà dopo il sisma del 2016. Tra gru e deserto, altri 10 anni per ricostruire",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/23/amatrice-il-racconto-degli-sfollati-nelle-abitazioni-di-emergenza-10-anni-dopo-il-terremoto-ci-manca-tutto-di-casa/8485044/",
+        "https://ilmanifesto.it/la-ricostruzione-che-manca-oltre-i-numeri-del-commissario",
+        "https://www.ilmessaggero.it/italia/amatrice_terremoto_ricostruzione_dieci_anni_accumoli_arquata-9720319.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/20/la-lenta-rinascita-di-amatrice_9bc7a765-29f1-4d9e-9de3-afb3561e459d.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Salvini apre ai governatori: Pronto a condividere responsabilità con tutti e rafforzare la squadra",
       "source_count": 3,
       "article_count": 3,
@@ -127,7 +145,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Caro conto-corrente: la spesa è salita del 23% in 10 anni",
       "source_count": 3,
       "article_count": 3,
@@ -143,7 +161,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Midterm Usa, ora Trump teme il tracollo",
       "source_count": 3,
       "article_count": 3,
@@ -156,22 +174,6 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/08/22/trump-lancia-la-corsa-alle-midterm-votate-come-se-fossi-io-sulla-scheda_e30a71fe-65fa-4e14-ae86-2cb6c8bdb216.html",
         "https://www.repubblica.it/esteri/2026/08/23/news/midterm_usa_trump_teme_tracollo-425542165/",
         "https://www.lastampa.it/esteri/2026/08/22/news/midterm_trump_suona_la_carica-15719877/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Guerra in Iran, le news di oggi. Telegraph: a luglio hacker iraniani hanno bloccato una centrale elettrica britannica per 4 giorni",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/23/hacker-iraniani-hanno-spento-una-centrale-elettrica-nel-regno-unito_bb03d05f-9091-4811-9aa6-6d231662e21e.html",
-        "https://www.repubblica.it/esteri/2026/08/23/diretta/guerra_iran_usa_israele_news_oggi-425542318/",
-        "https://www.lastampa.it/esteri/2026/08/23/diretta/guerra_iran_usa_israele_news_oggi-15720351/"
       ]
     }
   ]
