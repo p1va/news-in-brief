@@ -1,6 +1,6 @@
 {
   "date": "2026-08-23",
-  "generated_at": "Sun 23 Aug 16:36",
+  "generated_at": "Sun 23 Aug 17:29",
   "stories": [
     {
       "rank": 1,
@@ -51,12 +51,13 @@
     {
       "rank": 3,
       "title": "Gp Olanda, Norris dopo Budapest vince anche a Zandvoort. Kimi Antonelli secondo, terzo Russell, poi le due Ferrari",
-      "source_count": 4,
-      "article_count": 9,
+      "source_count": 5,
+      "article_count": 10,
       "source_domains": [
         "repubblica.it",
         "ansa.it",
         "ilfattoquotidiano.it",
+        "lastampa.it",
         "ilmessaggero.it"
       ],
       "links": [
@@ -64,7 +65,7 @@
         "https://www.ansa.it/sito/notizie/sport/2026/08/23/f1-lando-norris-vince-in-olanda-davanti-ad-antonelli-e-russell_024893f3-014e-43a9-84cb-e69e3ff23d5a.html",
         "https://www.ilfattoquotidiano.it/2026/08/23/f1-gp-olanda-trionfa-norris-con-la-mclaren-battuto-antonelli-ferrari-giu-dal-podio-risultati-e-nuova-classifica/8486284/",
         "https://www.repubblica.it/sport/formulauno/2026/08/23/news/verstappen_incidente_spaventoso_olanda-425543025/",
-        "https://www.ilfattoquotidiano.it/2026/08/23/verstappen-gp-olanda-zandvoort-incidente-notizie/8486205/"
+        "https://www.lastampa.it/sport/2026/08/23/news/f1_gp_olanda_norris_fa_il_bis_davanti_ad_antonelli_2_hamilton_4_poi_leclerc-15720663/"
       ]
     },
     {
@@ -131,6 +132,26 @@
     },
     {
       "rank": 7,
+      "title": "Auto contro un platano in provincia di Udine: muore bambina di 11 anni, gravissima la sorellina",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/23/incidente-basiliano-bambina-morta-notizie/8486343/",
+        "https://www.repubblica.it/cronaca/2026/08/23/news/basiliano_udine_incidente_auto_platano_muore_bambina_di_11_anni-425543139/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/auto-contro-platano-gravissime-due-sorelline_9ebc49a5-be8e-4d19-8aba-8e8a9693e760.html",
+        "https://www.lastampa.it/cronaca/2026/08/23/news/udine_incidente_muore_bimba_sorellina-15720735/",
+        "https://www.ilmessaggero.it/italia/incidente_auto_platano_gravissime_sorelline_basano_cosa_e_successo-9721650.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Guerra Ucraina - Russia, le news di oggi. Putin: “Risposta ai raid di Kiev sarà distruttiva”",
       "source_count": 4,
       "article_count": 6,
@@ -149,7 +170,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Genoa-Napoli 0-2, De Bruyne e Vergara regalano i primi tre punti ad Allegri",
       "source_count": 5,
       "article_count": 5,
@@ -169,7 +190,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Imperia, morto il designer Paolo Allasia: annega nel tentativo di salvare il figlio in mare",
       "source_count": 5,
       "article_count": 5,
@@ -186,26 +207,6 @@
         "https://www.ilfattoquotidiano.it/2026/08/22/paolo-allasia-designer-annegato-san-lorenzo-notizie/8485852/",
         "https://www.adnkronos.com/cronaca/malore-mare-designer-morto-imperia_2hS6ZSe1oIJuDgeC3dEGz3",
         "https://www.ilmessaggero.it/persone/imperia_designer_morto_chi_era-9720255.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Riapre gli occhi il 21enne ricoverato a Barcellona: 'Ha stretto la mano alla mamma'",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/riapre-gli-occhi-il-21enne-ricoverato-a-barcellona_4cf5a2d6-9ebb-456d-825b-f6e953faab7f.html",
-        "https://www.ilmessaggero.it/italia/nicola_maggiotto_sveglio_coma_farmacologico_rissa_barcellona-9721466.html",
-        "https://www.repubblica.it/cronaca/2026/08/23/news/nicola_maggiotto_miglioramenti_coma_barcellona-425542702/",
-        "https://www.ilfattoquotidiano.it/2026/08/23/nicola-maggiotto-risveglio-barcellona-notizie/8486040/",
-        "https://www.lastampa.it/cronaca/2026/08/23/news/aggressione_barcellona_nicola_maggiotto_apre_gli_occhi_ha_stretto_la_mano_alla_mamma-15720549/"
       ]
     }
   ]
