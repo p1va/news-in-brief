@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated_at": "Mon 24 Aug 20:41",
+  "generated_at": "Mon 24 Aug 21:40",
   "stories": [
     {
       "rank": 1,
@@ -29,13 +29,12 @@
     {
       "rank": 2,
       "title": "Sisma 2016, sindaco di Amatrice \"C'è tanta voglia di rinascere\"",
-      "source_count": 6,
-      "article_count": 13,
+      "source_count": 5,
+      "article_count": 11,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
         "repubblica.it",
-        "lastampa.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
@@ -91,6 +90,26 @@
     },
     {
       "rank": 5,
+      "title": "Gli Usa preparano il 'D-Day' economico per l'Iran. Teheran: 'Ammissione della sconfitta'",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/trump-chiama-i-leader-mondiali-la-nuova-offensiva-usa-che-punta-a-isolare-teheran_7HSMO0C3kMi92VciCHDBqr",
+        "https://www.ilfattoquotidiano.it/2026/08/24/sanzioni-iran-usa-operation-economic-outcast-notizie/8487140/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/24/trump-isola-liran.-raffica-di-sanzioni-su-oro-tech-aviazione-e-trasporti_3bb49694-de54-449e-8dbf-edeab7e49942.html",
+        "https://www.ilmessaggero.it/mondo/iran_cosa_accade_rial_minimo_storico_d_day_cosa_significa-9723108.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/24/gli-usa-preparano-il-d-day-economico-per-teheran.-la-valuta-iraniana-al-minimo_3bb49694-de54-449e-8dbf-edeab7e49942.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Yildiz, infortunio al piede: rischia l'operazione e due mesi di stop. Cosa è successo e quando può tornare",
       "source_count": 6,
       "article_count": 6,
@@ -111,7 +130,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Ucraina: dall'Ue altri 6,1 miliardi a Kiev. Burnham: 'Determinati a darvi l'aiuto militare' - LIVEBLOG",
       "source_count": 3,
       "article_count": 8,
@@ -129,7 +148,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Cassino, esplosione in una palazzina: crolla il tetto, due ustionati gravi",
       "source_count": 5,
       "article_count": 5,
@@ -149,7 +168,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Serie A, Roma-Fiorentina 0-0 - Diretta",
       "source_count": 2,
       "article_count": 8,
@@ -166,7 +185,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Bambina morta a Palermo, Istituto Superiore di Sanità: \"Campione positivo al batterio della difterite\"",
       "source_count": 4,
       "article_count": 5,
@@ -182,25 +201,6 @@
         "https://www.adnkronos.com/salute/sanita/bimba-morta-palermo-tamponi-positivi-a-difterite-per-familiari_3UdBCKu76Asbl76eSEa9BF",
         "https://palermo.repubblica.it/cronaca/2026/08/24/news/difterite_dieci_tamponi_positivi_famiglia_no_vax_anna_rosa_palermo_contagio-425543817/",
         "https://www.agi.it/cronaca/news/2026-08-24/difterite-positivi-38674958/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Jacques Moretti arrestato per violenze sulla moglie Jessica",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "lastampa.it",
-        "ilfattoquotidiano.it",
-        "laverita.info",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/cronaca/2026/08/24/news/crans-montana-arresto-jacques-moretti-difesa-coniugi-inchiesta-rogo-15721258/",
-        "https://www.ilfattoquotidiano.it/2026/08/24/strage-capodanno-crans-montana-moretti-arrestato-notizie-2/8486586/",
-        "https://www.laverita.info/inchieste/jacques-moretti-arresto-crans-montana",
-        "https://www.lastampa.it/cronaca/2026/08/24/news/le_botte_a_jessica_i_paramedici_nella_villa_di_lens_cosa_sappiamo_dell_arresto_di_jacques_moretti-15721018/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/crans-montana-jacques-moretti-arrestato-per-violenze-sulla-moglie-jessica_2731a2d3-3a22-45f5-85a2-e98985a23e90.html"
       ]
     }
   ]
