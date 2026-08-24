@@ -1,12 +1,12 @@
 {
   "date": "2026-08-24",
-  "generated_at": "Mon 24 Aug 08:58",
+  "generated_at": "Mon 24 Aug 09:58",
   "stories": [
     {
       "rank": 1,
       "title": "Decennale Terremoto Centro Italia, Mattarella: \"Pagina drammatica della Repubblica\". Meloni: \"Non dimenticheremo\"",
       "source_count": 8,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
@@ -29,26 +29,46 @@
       "rank": 2,
       "title": "Crans, Jacques Moretti arrestato per violenze sulla moglie Jessica. La donna ricoverata in ospedale",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "laverita.info",
         "lastampa.it",
         "ansa.it",
-        "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
         "milano.repubblica.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/24/strage-capodanno-crans-montana-moretti-arrestato-notizie-2/8486586/",
         "https://www.laverita.info/inchieste/jacques-moretti-arresto-crans-montana",
         "https://www.lastampa.it/cronaca/2026/08/24/news/le_botte_a_jessica_i_paramedici_nella_villa_di_lens_cosa_sappiamo_dell_arresto_di_jacques_moretti-15721018/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/23/crans-montana-jacques-moretti-arrestato-per-violenze-sulla-moglie-jessica_2731a2d3-3a22-45f5-85a2-e98985a23e90.html",
-        "https://www.ilfattoquotidiano.it/2026/08/23/strage-capodanno-crans-montana-moretti-arrestato-notizie/8486417/",
-        "https://www.ilmessaggero.it/mondo/jacques_moretti_arrestato_violenza_moglie_jessica_crans_montana-9721805.html"
+        "https://www.ilfattoquotidiano.it/2026/08/23/strage-capodanno-crans-montana-moretti-arrestato-notizie/8486417/"
       ]
     },
     {
       "rank": 3,
+      "title": "Cassino, esplosione in una palazzina: crolla il tetto, due ustionati gravi",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "laverita.info",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.laverita.info/video/esplosione-palazzina",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/esplosione-in-una-palazzina-a-cassino-due-ustionati-gravi_c3baebcf-60c1-448f-8d5a-eeb481c191c6.html",
+        "https://www.ilfattoquotidiano.it/2026/08/24/esplosione-cassino-feriti-ustionati-notizie/8486532/",
+        "https://www.adnkronos.com/cronaca/esplosione-cassino-feriti-cosa-sta-succedendo_3X2iqd2DL7r2ke6VMusrMX",
+        "https://www.ilmessaggero.it/frosinone/esplosione_cassino_crolla_tetto_casa_cosa_e_successo-9722826.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Giorgetti firma il decreto sulle accise mobili, sconto sul gasolio fino al 26 agosto",
       "source_count": 4,
       "article_count": 5,
@@ -67,7 +87,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Piantedosi ferma la Sea Watch, multa e stop di 45 giorni",
       "source_count": 4,
       "article_count": 4,
@@ -85,7 +105,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "In casa droga e una pistola, arrestato il rapper Tony Boy",
       "source_count": 4,
       "article_count": 4,
@@ -103,7 +123,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Guerra Ucraina - Russia, le news di oggi. Von der Leyen: “Da commissione Ue 6,1 miliardi per Kiev”",
       "source_count": 3,
       "article_count": 5,
@@ -121,7 +141,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Torino-Milan 1-2, le pagelle: Rabiot (7,5) cambia la partita, Cissé (7) si presenta in Serie A, Goncalo Ramos (6) gioca per la squadra, Adams (6.5)",
       "source_count": 4,
       "article_count": 4,
@@ -139,7 +159,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Caserta, senza fissa dimora pestato a morte per strada: pugni e calci davanti ai passanti. Il video pubblicato sui social",
       "source_count": 4,
       "article_count": 4,
@@ -157,7 +177,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "F1, Gp Olanda: trionfa Norris con la McLaren, battuto Antonelli. Ferrari giù dal podio | Risultati e nuova classifica",
       "source_count": 4,
       "article_count": 4,
@@ -172,24 +192,6 @@
         "https://www.liberoquotidiano.it/news/sport/48932998/f1_lando_norris_vince_gp_olanda_ferrari_giu_podio/",
         "https://www.ilfattoquotidiano.it/2026/08/23/f1-gp-olanda-trionfa-norris-con-la-mclaren-battuto-antonelli-ferrari-giu-dal-podio-risultati-e-nuova-classifica/8486284/",
         "https://www.lastampa.it/sport/2026/08/23/news/f1_gp_olanda_norris_fa_il_bis_davanti_ad_antonelli_2_hamilton_4_poi_leclerc-15720663/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Esplosione in un appartamento a Cassino, crolla il tetto: due feriti gravi. ​Ipotesi fuga di gas",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/24/esplosione-in-una-palazzina-a-cassino-due-ustionati-gravi_c3baebcf-60c1-448f-8d5a-eeb481c191c6.html",
-        "https://www.ilfattoquotidiano.it/2026/08/24/esplosione-cassino-feriti-ustionati-notizie/8486532/",
-        "https://www.adnkronos.com/cronaca/esplosione-cassino-feriti-cosa-sta-succedendo_3X2iqd2DL7r2ke6VMusrMX",
-        "https://www.ilmessaggero.it/frosinone/esplosione_cassino_crolla_tetto_casa_cosa_e_successo-9722826.html"
       ]
     }
   ]
