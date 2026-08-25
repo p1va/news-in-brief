@@ -1,19 +1,18 @@
 {
   "date": "2026-08-25",
-  "generated_at": "Tue 25 Aug 09:45",
+  "generated_at": "Tue 25 Aug 10:43",
   "stories": [
     {
       "rank": 1,
       "title": "Applausi per Meloni e “Forza Presidente” ad Amatrice per commemorazione decimo anniversario sisma",
-      "source_count": 7,
-      "article_count": 15,
+      "source_count": 6,
+      "article_count": 14,
       "source_domains": [
         "laverita.info",
         "ansa.it",
         "repubblica.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
-        "governo.it",
         "ilsole24ore.com"
       ],
       "links": [
@@ -50,11 +49,12 @@
     {
       "rank": 3,
       "title": "Leonardo Maria Del Vecchio lascia tutti gli incarichi in EssilorLuxottica",
-      "source_count": 7,
-      "article_count": 8,
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
         "laverita.info",
         "repubblica.it",
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
@@ -64,9 +64,9 @@
       "links": [
         "https://www.laverita.info/aziende/del-vecchio-lascia-luxottica",
         "https://www.repubblica.it/economia/2026/08/25/news/leonardo_maria_del_vecchio_prende_le_distanze_dalla_gestione_milleri_i_dissidi_su_delfin-425545976/",
+        "https://www.liberoquotidiano.it/news/economia/48945821/leonardo-maria-del-vecchio-lascia-tutti-incarichi-essilorluxottica/",
         "https://www.ilmessaggero.it/economia/news/leonardo_maria_del_vecchio_lascia_essilorluxottica-9724635.html",
-        "https://www.adnkronos.com/economia/leonardo-maria-del-vecchio-lascia-essilorluxottica_1SsZcOfDXQjiknyrzO3Ogz",
-        "https://www.ilfattoquotidiano.it/2026/08/25/del-vecchio-dimissioni-essilorluxottica-lettera/8487298/"
+        "https://www.adnkronos.com/economia/leonardo-maria-del-vecchio-lascia-essilorluxottica_1SsZcOfDXQjiknyrzO3Ogz"
       ]
     },
     {
@@ -110,6 +110,25 @@
     },
     {
       "rank": 6,
+      "title": "Sinner, il ginocchio preoccupa: controlli al JMedical",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/25/sinner-ginocchio-jmedical-torino-oggi-nuovi-controlli-come-sta/8487472/",
+        "https://www.ilmessaggero.it/sport/tennis/sinner_oggi_controlli_medici_j_medical_torino_infortunio_ginocchio_cosa_succede_quando_torna-9724733.html",
+        "https://www.ansa.it/sito/notizie/sport/2026/08/25/tennis-sinner-torna-al-j-medical-altri-controlli-per-lazzurro_ff51ff95-95a0-4f23-a42c-79829025f131.html",
+        "https://www.adnkronos.com/sport/sinner-ospedale-infortunio-preoccupa-come-sta-quando-torna-ultime-news_6r94IR0eomAgqz6BwWcQoj",
+        "https://www.adnkronos.com/sport/us-open-big-forfait-sinner-infortunio-fonseca_4i6T4bsrGUWaC0WUAGVXtZ"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Furto al Museo di Messina, un custode indagato per false dichiarazioni ai pm",
       "source_count": 4,
       "article_count": 4,
@@ -127,7 +146,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "L’Italia resta ai margini, niente armi all’Ucraina: “Manderemo generatori”",
       "source_count": 4,
       "article_count": 4,
@@ -145,7 +164,25 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "La Rai rimuove Ranucci da Report: “Al suo posto non un marziano”",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "laverita.info",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.laverita.info/inchieste/ranucci-inchiesta-rai",
+        "https://www.lastampa.it/politica/2026/08/25/news/ranucci_report_rai_nuovo_format_sostituto-15721903/",
+        "https://www.repubblica.it/politica/2026/08/25/news/rai_rimuove_ranucci_report-425545333/",
+        "https://www.ilmessaggero.it/politica/ranucci_report_chi_conduce_rai_ultime_notizie-9723566.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Kiev attacca un'altra raffineria di Mosca, raid Russia colpisce frontiera tra Ucraina e Moldavia",
       "source_count": 4,
       "article_count": 4,
@@ -160,41 +197,6 @@
         "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-25-agosto_2HVDOmuCuYcvXNwuV6gbIv",
         "https://www.repubblica.it/esteri/2026/08/25/diretta/guerra_ucraina_russia_news_oggi-425545414/",
         "https://www.lastampa.it/esteri/2026/08/25/diretta/guerra_russia_ucraina_news_oggi-15721687/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Nuovo intervento al ginocchio per Federica Brignone: “Ho ancora dolore”",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "adnkronos.com",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/federica-brignone-nuova-operazione-infortunio-cosa-e-successo_5Wn2KJSKqTDIIL4wgvFxKT",
-        "https://www.repubblica.it/sport/sci/2026/08/25/news/federica_brignone_operazione_gamba-425546043/",
-        "https://www.ilfattoquotidiano.it/2026/08/25/federica-brignone-operazione-ginocchio-annuncio-oggi-sugli-sci-ho-ancora-dolore/8487381/",
-        "https://www.lastampa.it/aosta/2026/08/25/news/nuovo_intervento_ginocchio_federica_brignone-15721926/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "L’Ue boccia gli extraprofitti dei petrolieri. Tajani apre a un contributo concordato",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "lastampa.it",
-        "repubblica.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/economia/2026/08/25/news/l_ue_boccia_gli_extraprofitti_dei_petrolieri_tajani_apre_a_un_contributo_concordato-15721667/",
-        "https://www.repubblica.it/economia/2026/08/25/news/benzina_e_gasolio_italia_settima_nella_ue_ma_a_pesare_sul_prezzo_e_soprattutto_il_fisco-425545276/",
-        "https://www.repubblica.it/economia/2026/08/25/news/contributo_societa_petrolifere_governo-425545284/",
-        "https://ilmanifesto.it/carburanti-governo-senza-scuse-sugli-extraprofitti"
       ]
     }
   ]
