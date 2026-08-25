@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "generated_at": "Tue 25 Aug 14:56",
+  "generated_at": "Tue 25 Aug 15:54",
   "stories": [
     {
       "rank": 1,
@@ -8,23 +8,47 @@
       "source_count": 6,
       "article_count": 15,
       "source_domains": [
+        "lastampa.it",
         "liberoquotidiano.it",
         "laverita.info",
         "ansa.it",
         "repubblica.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
+        "ilmessaggero.it"
       ],
       "links": [
+        "https://www.lastampa.it/cronaca/2026/08/25/news/amatricedieci_anni_intervista_sindaco_pirozzi-15722225/",
         "https://www.liberoquotidiano.it/news/pillole/48947122/dieci_anni_fa_il_sisma_del_centro_italia_meloni_accelera_sulla_ricostruzione/",
         "https://www.laverita.info/governo/meloni-amatrice-terremoto",
         "https://www.ansa.it/sito/notizie/politica/2026/08/24/dieci-anni-dal-sisma-di-amatrice-mattarella-sia-monito-per-la-prevenzione_861ad054-17c8-4d17-baf8-cd7380410b08.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/25/prime-pagine-ricostruzione-monito-di-mattarella.-meloni-ad-amatrice-dai-parenti-delle_ed1ab5d7-e05a-48b8-93dd-c8387800d295.html",
-        "https://www.repubblica.it/cronaca/2026/08/25/news/amatrice_applausi_meloni_alert_sindaco_contestatori-425545279/"
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/25/prime-pagine-ricostruzione-monito-di-mattarella.-meloni-ad-amatrice-dai-parenti-delle_ed1ab5d7-e05a-48b8-93dd-c8387800d295.html"
       ]
     },
     {
       "rank": 2,
+      "title": "Leonardo Maria Del Vecchio lascia tutti gli incarichi in EssilorLuxottica",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "laverita.info",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.laverita.info/aziende/del-vecchio-lascia-luxottica",
+        "https://www.liberoquotidiano.it/news/economia/48945821/leonardo-maria-del-vecchio-lascia-tutti-incarichi-essilorluxottica/",
+        "https://www.ilmessaggero.it/economia/news/leonardo_maria_del_vecchio_lascia_essilorluxottica-9724635.html",
+        "https://www.adnkronos.com/economia/leonardo-maria-del-vecchio-lascia-essilorluxottica_1SsZcOfDXQjiknyrzO3Ogz",
+        "https://www.ilfattoquotidiano.it/2026/08/25/del-vecchio-dimissioni-essilorluxottica-lettera/8487298/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Trump isola l'Iran. Raffica di sanzioni su oro, tech, aviazione e trasporti",
       "source_count": 8,
       "article_count": 10,
@@ -47,7 +71,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Carburanti al galoppo, domani il Consiglio dei ministri: verso la proroga dello sconto sulle accise",
       "source_count": 7,
       "article_count": 11,
@@ -69,30 +93,30 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Leonardo Maria Del Vecchio lascia tutti gli incarichi in EssilorLuxottica",
+      "rank": 5,
+      "title": "Savona, coppia in difficoltà in acqua ad Andora: bagnino si tuffa per salvarli, ma muore insieme all'uomo",
       "source_count": 8,
       "article_count": 8,
       "source_domains": [
-        "laverita.info",
         "liberoquotidiano.it",
-        "ilmessaggero.it",
         "adnkronos.com",
-        "ilfattoquotidiano.it",
         "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "genova.repubblica.it",
+        "lastampa.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.laverita.info/aziende/del-vecchio-lascia-luxottica",
-        "https://www.liberoquotidiano.it/news/economia/48945821/leonardo-maria-del-vecchio-lascia-tutti-incarichi-essilorluxottica/",
-        "https://www.ilmessaggero.it/economia/news/leonardo_maria_del_vecchio_lascia_essilorluxottica-9724635.html",
-        "https://www.adnkronos.com/economia/leonardo-maria-del-vecchio-lascia-essilorluxottica_1SsZcOfDXQjiknyrzO3Ogz",
-        "https://www.ilfattoquotidiano.it/2026/08/25/del-vecchio-dimissioni-essilorluxottica-lettera/8487298/"
+        "https://www.liberoquotidiano.it/news/italia/48949276/andora-bagnino-si-tuffa-salvare-coppia-mare-finisce-tragedia/",
+        "https://www.adnkronos.com/cronaca/savona-bagnino-annega-andora-morto-oggi_xHGUTv9C5QTJpLahuarXd",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/bagnino-annega-con-luomo-che-stava-soccorrendo_505430bb-fb3a-4e9e-89fe-341538ddc8bb.html",
+        "https://www.ilfattoquotidiano.it/2026/08/25/andora-bagnino-morto-tentativo-salvataggio-turista-news/8487618/",
+        "https://www.ilmessaggero.it/italia/bagnino_morto_annegato_turista_salva_moglie_andora-9724856.html"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Sinner torna al J Medical di Torino, nuovi controlli al ginocchio dopo il forfait agli Us Open",
       "source_count": 6,
       "article_count": 7,
@@ -113,7 +137,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Crevan, l’isola da sogno di Venezia in vendita con il suo fortino napoleonico",
       "source_count": 6,
       "article_count": 7,
@@ -134,7 +158,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Nuovo intervento al ginocchio per Federica Brignone: “Ho ancora dolore”",
       "source_count": 6,
       "article_count": 7,
@@ -155,64 +179,45 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Savona, coppia in difficoltà in acqua ad Andora: bagnino si tuffa per salvarli, ma muore insieme all'uomo",
+      "rank": 9,
+      "title": "La Rai rimuove Ranucci da Report: “Al suo posto non un marziano”",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
+        "ansa.it",
         "adnkronos.com",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "genova.repubblica.it",
-        "lastampa.it"
+        "laverita.info",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.adnkronos.com/cronaca/savona-bagnino-annega-andora-morto-oggi_xHGUTv9C5QTJpLahuarXd",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/bagnino-annega-con-luomo-che-stava-soccorrendo_505430bb-fb3a-4e9e-89fe-341538ddc8bb.html",
-        "https://www.ilfattoquotidiano.it/2026/08/25/andora-bagnino-morto-tentativo-salvataggio-turista-news/8487618/",
-        "https://www.ilmessaggero.it/italia/bagnino_morto_annegato_turista_salva_moglie_andora-9724856.html",
-        "https://genova.repubblica.it/cronaca/2026/08/25/news/andora_tragico_salvataggio_muoiono_un_turista_e_il_bagnino_che_lo_stava_soccorrendo-425546250/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Dybala-Malen da sogno, con la Fiorentina è Roma show",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/schede/serie_a_top_flop_prima_giornata_voti_malen_dybala_pio_esposito_kolo_muani_cisse_frattesi-9724676.html",
-        "https://www.ilmessaggero.it/sport/schede/serie_a_malen_dybala_cisse_pio_esposito_frattesi_top_flop_prima_giornata_voti-9724676.html",
-        "https://www.ilfattoquotidiano.it/2026/08/25/malen-dybala-roma-coppia-numeri-parole-gasperini/8487303/",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/roma-fiorentina-4-0-tripletta-di-malen.-la-lazio-passa-a-bologna-frattesi-show_d59ddfa2-4f77-43c5-b361-7b7f9074ea28.html",
-        "https://www.liberoquotidiano.it/news/sport/48943555/roma_travolge_fiorentina_dybala_inventa_malen_segna_3_gol/"
+        "https://www.ansa.it/sito/notizie/politica/2026/08/25/riunione-in-rai-sul-caso-ranucci-la-decisione-attesa-nei-prossimi-giorni_ac4d4dfa-073b-484e-95d3-da62a2e48e18.html",
+        "https://www.adnkronos.com/spettacoli/ranucci-report-decisione-rai-chi-prende-il-suo-posto_40CfggNfn9nXRD832DR6FV",
+        "https://www.laverita.info/inchieste/ranucci-inchiesta-rai",
+        "https://www.lastampa.it/politica/2026/08/25/news/ranucci_report_rai_nuovo_format_sostituto-15721903/",
+        "https://www.repubblica.it/politica/2026/08/25/news/rai_rimuove_ranucci_report-425545333/"
       ]
     },
     {
       "rank": 10,
-      "title": "Furto al Museo di Messina, un custode indagato per false dichiarazioni ai pm",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Aereo militare Usa atterra a Mosca, mistero sul C-17: è usato per il trasferimento di truppe e missioni governative",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
-        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "ansa.it",
-        "palermo.repubblica.it",
-        "news.google.com"
+        "lastampa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/48947144/messina-furto-al-museo-indagato-un-custode/",
-        "https://www.ilfattoquotidiano.it/2026/08/25/furto-antonello-messina-custode-indagato-notizie/8487305/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/furto-al-museo-di-messina-un-custode-indagato-per-false-dichiarazioni-ai-pm_29cc0539-03c3-42b2-bf38-e7aa039e2bdf.html",
-        "https://palermo.repubblica.it/cronaca/2026/08/25/news/furto_museo_messina_custode_indagato_falso-425545447/",
-        "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM1hJSWx4Mmxzd21aUzdNZXVvV1lxT3JzYXl2M3NjSEptSG9wN2FvY2R6bTVScjlhMGZKdVhXQzNOdEt4TGRKb2NFVDRtbkdfeUpwVXl3YVRuVUxrYWJsYU85MndCSzlnT2RYWF9TRlowN0dlTkNEczhRR2V1dEJlNHozeVZySGFfaGptVm1DUFhCZw?oc=5"
+        "https://www.ilfattoquotidiano.it/2026/08/25/cia-ratcliffe-mosca-russia-notizie/8487867/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/25/cbs-il-capo-della-cia-a-mosca-per-alcuni-incontri_090a0f9d-17ad-4c14-866e-4e2b05b44f05.html",
+        "https://www.lastampa.it/esteri/2026/08/25/video/aereo_militare_usa_mosca_capo_cia_john_ratcliffe-15722208/",
+        "https://www.adnkronos.com/internazionale/esteri/russia-aereo-militare-usa-a-mosca-cosa-succede_4Mtsh0inGvqD6FwqCYERyT",
+        "https://www.ilmessaggero.it/mondo/aereo_militare_usa_atterra_mosca_mistero_c17-9724805.html"
       ]
     }
   ]
