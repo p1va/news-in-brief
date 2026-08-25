@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "generated_at": "Tue 25 Aug 16:47",
+  "generated_at": "Tue 25 Aug 17:44",
   "stories": [
     {
       "rank": 1,
@@ -50,27 +50,6 @@
     },
     {
       "rank": 3,
-      "title": "Applausi per Meloni e “Forza Presidente” ad Amatrice per commemorazione decimo anniversario sisma",
-      "source_count": 6,
-      "article_count": 12,
-      "source_domains": [
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "laverita.info",
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/cronaca/2026/08/25/news/amatricedieci_anni_intervista_sindaco_pirozzi-15722225/",
-        "https://www.liberoquotidiano.it/news/pillole/48947122/dieci_anni_fa_il_sisma_del_centro_italia_meloni_accelera_sulla_ricostruzione/",
-        "https://www.laverita.info/governo/meloni-amatrice-terremoto",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/24/dieci-anni-dal-sisma-di-amatrice-mattarella-sia-monito-per-la-prevenzione_861ad054-17c8-4d17-baf8-cd7380410b08.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/25/prime-pagine-ricostruzione-monito-di-mattarella.-meloni-ad-amatrice-dai-parenti-delle_ed1ab5d7-e05a-48b8-93dd-c8387800d295.html"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Trump isola l'Iran. Raffica di sanzioni su oro, tech, aviazione e trasporti",
       "source_count": 8,
       "article_count": 10,
@@ -90,6 +69,27 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/08/24/trump-isola-liran.-raffica-di-sanzioni-su-oro-tech-aviazione-e-trasporti_3bb49694-de54-449e-8dbf-edeab7e49942.html",
         "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-offensiva-economica-trump_2sayuHzJJOG5uf4ojfTFbd",
         "https://www.repubblica.it/esteri/2026/08/25/news/usa_iran_sanzioni_tech_commercio_cosa_prevedono-425545250/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Applausi per Meloni e “Forza Presidente” ad Amatrice per commemorazione decimo anniversario sisma",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "laverita.info",
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/cronaca/2026/08/25/news/amatricedieci_anni_intervista_sindaco_pirozzi-15722225/",
+        "https://www.liberoquotidiano.it/news/pillole/48947122/dieci_anni_fa_il_sisma_del_centro_italia_meloni_accelera_sulla_ricostruzione/",
+        "https://www.laverita.info/governo/meloni-amatrice-terremoto",
+        "https://www.ansa.it/sito/notizie/politica/2026/08/24/dieci-anni-dal-sisma-di-amatrice-mattarella-sia-monito-per-la-prevenzione_861ad054-17c8-4d17-baf8-cd7380410b08.html",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/08/25/prime-pagine-ricostruzione-monito-di-mattarella.-meloni-ad-amatrice-dai-parenti-delle_ed1ab5d7-e05a-48b8-93dd-c8387800d295.html"
       ]
     },
     {
@@ -117,24 +117,24 @@
     },
     {
       "rank": 6,
-      "title": "La Rai rimuove Ranucci da Report: “Al suo posto non un marziano”",
+      "title": "Riunione in Rai sul caso Ranucci, la decisione attesa nei prossimi giorni",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "ansa.it",
         "adnkronos.com",
         "laverita.info",
         "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it"
+        "repubblica.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/persone/ranucci_cosa_fara_rai_ultime_notizie-9725145.html",
         "https://www.ilfattoquotidiano.it/2026/08/25/ranucci-rai-futuro-testata-notizie/8487943/",
         "https://www.ansa.it/sito/notizie/politica/2026/08/25/riunione-in-rai-sul-caso-ranucci-la-decisione-attesa-nei-prossimi-giorni_ac4d4dfa-073b-484e-95d3-da62a2e48e18.html",
         "https://www.adnkronos.com/spettacoli/ranucci-report-decisione-rai-chi-prende-il-suo-posto_40CfggNfn9nXRD832DR6FV",
-        "https://www.laverita.info/inchieste/ranucci-inchiesta-rai",
-        "https://www.lastampa.it/politica/2026/08/25/news/ranucci_report_rai_nuovo_format_sostituto-15721903/"
+        "https://www.laverita.info/inchieste/ranucci-inchiesta-rai"
       ]
     },
     {
