@@ -1,32 +1,9 @@
 {
   "date": "2026-08-25",
-  "generated_at": "Tue 25 Aug 19:05",
+  "generated_at": "Tue 25 Aug 19:12",
   "stories": [
     {
       "rank": 1,
-      "title": "Trump isola l'Iran. Raffica di sanzioni su oro, tech, aviazione e trasporti",
-      "source_count": 8,
-      "article_count": 11,
-      "source_domains": [
-        "ilmessaggero.it",
-        "laverita.info",
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/mondo/usa_sanzioni_iran_oro_tech_trump_cosa_ha_detto-9724669.html",
-        "https://www.laverita.info/geopolitica/sanzioni-usa-iran",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/24/trump-isola-liran.-raffica-di-sanzioni-su-oro-tech-aviazione-e-trasporti_3bb49694-de54-449e-8dbf-edeab7e49942.html",
-        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-offensiva-economica-trump_2sayuHzJJOG5uf4ojfTFbd",
-        "https://www.repubblica.it/esteri/2026/08/25/news/usa_iran_sanzioni_tech_commercio_cosa_prevedono-425545250/"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Carburanti al galoppo, domani il Consiglio dei ministri: verso la proroga dello sconto sulle accise",
       "source_count": 7,
       "article_count": 12,
@@ -48,7 +25,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Leonardo Maria Del Vecchio lascia tutti gli incarichi in EssilorLuxottica",
       "source_count": 9,
       "article_count": 9,
@@ -69,6 +46,28 @@
         "https://www.ilmessaggero.it/economia/news/leonardo_maria_del_vecchio_lascia_essilorluxottica-9724635.html",
         "https://www.adnkronos.com/economia/leonardo-maria-del-vecchio-lascia-essilorluxottica_1SsZcOfDXQjiknyrzO3Ogz",
         "https://www.ilfattoquotidiano.it/2026/08/25/del-vecchio-dimissioni-essilorluxottica-lettera/8487298/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Trump isola l'Iran. Raffica di sanzioni su oro, tech, aviazione e trasporti",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ilmessaggero.it",
+        "laverita.info",
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/mondo/usa_sanzioni_iran_oro_tech_trump_cosa_ha_detto-9724669.html",
+        "https://www.laverita.info/geopolitica/sanzioni-usa-iran",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/24/trump-isola-liran.-raffica-di-sanzioni-su-oro-tech-aviazione-e-trasporti_3bb49694-de54-449e-8dbf-edeab7e49942.html",
+        "https://www.adnkronos.com/internazionale/esteri/iran-usa-guerra-offensiva-economica-trump_2sayuHzJJOG5uf4ojfTFbd",
+        "https://www.repubblica.it/esteri/2026/08/25/news/usa_iran_sanzioni_tech_commercio_cosa_prevedono-425545250/"
       ]
     },
     {
