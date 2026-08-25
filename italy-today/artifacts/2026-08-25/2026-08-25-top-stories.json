@@ -1,6 +1,6 @@
 {
   "date": "2026-08-25",
-  "generated_at": "Tue 25 Aug 13:00",
+  "generated_at": "Tue 25 Aug 14:00",
   "stories": [
     {
       "rank": 1,
@@ -48,36 +48,14 @@
     },
     {
       "rank": 3,
-      "title": "Leonardo Maria Del Vecchio lascia tutti gli incarichi in EssilorLuxottica",
-      "source_count": 8,
-      "article_count": 9,
+      "title": "Carburanti al galoppo, domani il Consiglio dei ministri: verso la proroga dello sconto sulle accise",
+      "source_count": 7,
+      "article_count": 11,
       "source_domains": [
-        "laverita.info",
-        "repubblica.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
         "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.laverita.info/aziende/del-vecchio-lascia-luxottica",
-        "https://www.repubblica.it/economia/2026/08/25/news/leonardo_maria_del_vecchio_prende_le_distanze_dalla_gestione_milleri_i_dissidi_su_delfin-425545976/",
-        "https://www.liberoquotidiano.it/news/economia/48945821/leonardo-maria-del-vecchio-lascia-tutti-incarichi-essilorluxottica/",
-        "https://www.ilmessaggero.it/economia/news/leonardo_maria_del_vecchio_lascia_essilorluxottica-9724635.html",
-        "https://www.adnkronos.com/economia/leonardo-maria-del-vecchio-lascia-essilorluxottica_1SsZcOfDXQjiknyrzO3Ogz"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Carburanti, vertice Meloni-Salvini-Tajani: domani alle 18 Cdm per proroga misure",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
         "repubblica.it",
         "lastampa.it",
         "ilsole24ore.com"
@@ -86,8 +64,31 @@
         "https://www.ansa.it/sito/notizie/politica/2026/08/25/domani-il-consiglio-dei-ministri-verso-la-proroga-delle-misure-sui-carburanti_fb725722-357f-4d7f-b1c6-fa89004ea853.html",
         "https://www.ilfattoquotidiano.it/2026/08/25/prezzi-carburanti-proroga-accise-notizie/8487601/",
         "https://www.adnkronos.com/economia/carburanti-governo-proroga-misure-domani-cdm_3sy0XPUbEuA0P9gGd9Xv1R",
-        "https://www.repubblica.it/economia/2026/08/25/news/accise_scadenza_sconti_vertice_meloni_maggioranza-425546223/",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/25/nuovi-rialzi-per-i-carburanti-riunione-con-meloni-alla-vigilia-della_fb725722-357f-4d7f-b1c6-fa89004ea853.html"
+        "https://www.liberoquotidiano.it/news/tv-news/48949303/salvini-proroga-sconto-accise-diesel-fino-a-settembre/",
+        "https://www.repubblica.it/economia/2026/08/25/news/accise_scadenza_sconti_vertice_meloni_maggioranza-425546223/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Leonardo Maria Del Vecchio lascia tutti gli incarichi in EssilorLuxottica",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "laverita.info",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.laverita.info/aziende/del-vecchio-lascia-luxottica",
+        "https://www.liberoquotidiano.it/news/economia/48945821/leonardo-maria-del-vecchio-lascia-tutti-incarichi-essilorluxottica/",
+        "https://www.ilmessaggero.it/economia/news/leonardo_maria_del_vecchio_lascia_essilorluxottica-9724635.html",
+        "https://www.adnkronos.com/economia/leonardo-maria-del-vecchio-lascia-essilorluxottica_1SsZcOfDXQjiknyrzO3Ogz",
+        "https://www.ilfattoquotidiano.it/2026/08/25/del-vecchio-dimissioni-essilorluxottica-lettera/8487298/"
       ]
     },
     {
@@ -113,6 +114,27 @@
     },
     {
       "rank": 6,
+      "title": "Crevan, l’isola da sogno di Venezia in vendita con il suo fortino napoleonico",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "laverita.info",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/veneto/notizie/2026/08/25/in-vendita-a-venezia-unisola-privata-con-fortino-napoleonico_4707d4eb-d7ae-440b-bb0f-3569a0cfec60.html",
+        "https://www.laverita.info/video/crevan-venezia-vendita",
+        "https://www.ilmessaggero.it/social/isola_crevan_vendesi_venezia_quanto_costa-9724726.html",
+        "https://www.repubblica.it/viaggi/2026/08/25/news/a_venezia_c_e_un_isola_in_vendita_ecco_crevan_vista_su_burano_e_torcello_e_fortino_napoleonico-425545986/",
+        "https://www.lastampa.it/cronaca/2026/08/25/news/venezia_vendita_isola_privata_fortino_napoleone-15721887/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Nuovo intervento al ginocchio per Federica Brignone: “Ho ancora dolore”",
       "source_count": 6,
       "article_count": 6,
@@ -133,7 +155,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Savona, coppia in difficoltà in acqua ad Andora: bagnino si tuffa per salvarli, ma muore insieme all'uomo",
       "source_count": 6,
       "article_count": 6,
@@ -154,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Dybala-Malen da sogno, con la Fiorentina è Roma show",
       "source_count": 5,
       "article_count": 6,
@@ -171,26 +193,6 @@
         "https://www.ilfattoquotidiano.it/2026/08/25/malen-dybala-roma-coppia-numeri-parole-gasperini/8487303/",
         "https://www.ansa.it/sito/notizie/sport/calcio/2026/08/24/roma-fiorentina-4-0-tripletta-di-malen.-la-lazio-passa-a-bologna-frattesi-show_d59ddfa2-4f77-43c5-b361-7b7f9074ea28.html",
         "https://www.liberoquotidiano.it/news/sport/48943555/roma_travolge_fiorentina_dybala_inventa_malen_segna_3_gol/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Crevan, l’isola da sogno di Venezia in vendita con il suo fortino napoleonico",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "laverita.info",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.laverita.info/video/crevan-venezia-vendita",
-        "https://www.ilmessaggero.it/social/isola_crevan_vendesi_venezia_quanto_costa-9724726.html",
-        "https://www.repubblica.it/viaggi/2026/08/25/news/a_venezia_c_e_un_isola_in_vendita_ecco_crevan_vista_su_burano_e_torcello_e_fortino_napoleonico-425545986/",
-        "https://www.lastampa.it/cronaca/2026/08/25/news/venezia_vendita_isola_privata_fortino_napoleone-15721887/",
-        "https://www.lastampa.it/video/socialnews/2026/08/25/video/crevan_isola_venezia_vendita_fortino_napoleonico-15721843/"
       ]
     },
     {
