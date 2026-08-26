@@ -1,15 +1,16 @@
 {
   "date": "2026-08-26",
-  "generated_at": "Wed 26 Aug 07:02",
+  "generated_at": "Wed 26 Aug 07:57",
   "stories": [
     {
       "rank": 1,
       "title": "Addio Dolly Parton, la signora del west che disse no a Elvis",
-      "source_count": 8,
-      "article_count": 11,
+      "source_count": 9,
+      "article_count": 13,
       "source_domains": [
-        "ansa.it",
+        "adnkronos.com",
         "repubblica.it",
+        "ansa.it",
         "ilmanifesto.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
@@ -18,19 +19,20 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.adnkronos.com/spettacoli/dolly-parton-morta-messaggio-di-addio-taylor-swift-beyonce_1YEOLBwDxQzVTIkdfIVQmF",
+        "https://www.repubblica.it/spettacoli/musica/2026/08/26/news/dolly_parton_morta_cancro_reazioni_jane_fonda_paul_mccartney_mick_jagger_jack_white_taylor_swift-425547523/",
         "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/25/e-morta-dolly-parton-aveva-80-anni_c0c82179-d794-4e75-a070-40f289389160.html",
         "https://www.repubblica.it/spettacoli/2026/08/26/news/dolly_parton_malattia_morte_tumore-425547275/",
-        "https://ilmanifesto.it/addio-dolly-parton-icona-statunitense-non-solo-country",
-        "https://www.repubblica.it/spettacoli/musica/2026/08/26/news/dolly_parton_morta_80_anni_trump-425547053/",
-        "https://www.ilmessaggero.it/pay/speciali_pay/dolly_parton_morta_eredita_eta_chi_era_marito_carriera_canzoni_libri_bambini_patrimonio-9725415.html"
+        "https://ilmanifesto.it/addio-dolly-parton-icona-statunitense-non-solo-country"
       ]
     },
     {
       "rank": 2,
-      "title": "Caro carburanti, oggi il Consiglio dei ministri: sul tavolo una misura ponte",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Accise, proroga fino a settembre. Poi bonus solo per i redditi bassi",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
+        "laverita.info",
         "lastampa.it",
         "ansa.it",
         "adnkronos.com",
@@ -39,38 +41,38 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.laverita.info/governo/proroga-taglio-accise-gasolio",
         "https://www.lastampa.it/economia/2026/08/26/news/accise_proroga_a_settembre_bonu_per_redditi_bassi-15722501/",
         "https://www.ansa.it/sito/notizie/politica/2026/08/25/taglio-delle-accise-verso-la-proroga-poi-aiuti-ai-redditi-bassi_fb725722-357f-4d7f-b1c6-fa89004ea853.html",
         "https://www.adnkronos.com/politica/carburanti-prezzo-benzina-diesel-accise-governo_1UYSwYCRVRVcLyovzTPYgH",
-        "https://ilmanifesto.it/carburanti-meloni-si-sveglia-tardi-sugli-aiuti-differenziati",
-        "https://www.ilmessaggero.it/politica/accise_sconti_per_chi_requisiti-9725366.html"
+        "https://ilmanifesto.it/carburanti-meloni-si-sveglia-tardi-sugli-aiuti-differenziati"
       ]
     },
     {
       "rank": 3,
-      "title": "Caldo, nuova ondata in arrivo (con picchi fino a 45 gradi): la fiammata africana, quanto durerà e cosa succederà a settembre",
+      "title": "Caldo senza tregua, l'anticiclone africano torna a ruggire sull'Italia: ecco dove",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "lastampa.it",
         "adnkronos.com",
+        "lastampa.it",
         "repubblica.it",
         "ilmessaggero.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.adnkronos.com/cronaca/caldo-record-anticiclone-africano-previsioni-meteo-italia_1DTGd7AiW0jQXEHhWKZljx",
         "https://www.lastampa.it/cronaca/2026/08/26/news/nubifragi_al_nord_punte_di_46_gradi_sulle_isole_il_meteo_spacca_l_italia_di_fine_agosto-15722607/",
         "https://www.adnkronos.com/cronaca/caldo-italia-bollino-rosso-citta_1p0mfbky86FFVPYAvPZM1x",
         "https://www.repubblica.it/cronaca/2026/08/25/news/caldo_nuova_ondata_calore_picco-425546881/",
-        "https://www.ilmessaggero.it/schede/caldo_nuova_ondata_picco_quanto_dura_cosa_succede_settembre-9725039.html",
-        "https://www.ilsole24ore.com/art/in-arrivo-nuova-ondata-calore-centro-sud-sara-piu-violenta-dell-estate-AJ1hWTu"
+        "https://www.ilmessaggero.it/schede/caldo_nuova_ondata_picco_quanto_dura_cosa_succede_settembre-9725039.html"
       ]
     },
     {
       "rank": 4,
-      "title": "Il capo della Cia a Mosca: primo viaggio a sorpresa tra i timori di escalation",
+      "title": "Russia, cosa c'è dietro il viaggio del capo della Cia a Mosca: i tre decreti segreti firmati da Putin (poche ore dopo) e la minaccia di un attacco alla Nato",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
         "adnkronos.com",
         "ilmessaggero.it",
@@ -80,6 +82,7 @@
       "links": [
         "https://www.adnkronos.com/internazionale/esteri/russia-putin-capo-cia-ratcliffe-mosca-news_4of47iGYZfCpqsCTgWaZv1",
         "https://www.ilmessaggero.it/mondo/russia_viaggio_capo_cia_putin_decreti_top_segret_attacco_nato_cosa_sappiamo_davvero-9726390.html",
+        "https://www.ilmessaggero.it/mondo/russia_viaggio_capo_cia_putin_decreti_top_secret_attacco_nato_cosa_sappiamo_davvero-9726390.html",
         "https://www.repubblica.it/esteri/2026/08/26/news/capo_cia_viaggio_mosca_paura_escalation-425547190/",
         "https://ilmanifesto.it/il-misterioso-viaggio-del-capo-della-cia-a-mosca"
       ]
@@ -104,6 +107,24 @@
     },
     {
       "rank": 6,
+      "title": "Pakistan, incendio in un ospedale di Islamabad: morti almeno 14 neonati",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/26/incendio-ospedale-islamabad-neonati-morti-notizie/8488218/",
+        "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/incendio-in-un-reparto-di-ginecologia-14-neonati-morti-a-islamabad_30e501d9-0894-4ac2-b205-02412a01c11e.html",
+        "https://www.adnkronos.com/internazionale/esteri/incendio-ospedale-pakistan-islamabad-neonati-morti_6Xr9boLF0bbf9xPQq4rESH",
+        "https://www.ilmessaggero.it/mondo/neonati_morti_incendio_pakistan_ospedale_cosa_e_successo-9726336.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Giochi Mediterraneo, Razzetti oro nei 200 farfalla \"Vincere gioia immensa\"",
       "source_count": 2,
       "article_count": 6,
@@ -120,7 +141,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "La Rai cerca l'exit strategy per Ranucci, l'ipotesi del ritorno a una testata",
       "source_count": 3,
       "article_count": 4,
@@ -137,7 +158,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Darline Graham conquista le primarie repubblicane in South Carolina: decisivo l'endorsement di Trump",
       "source_count": 3,
       "article_count": 3,
@@ -153,7 +174,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Valditara: “Studio dell’italiano obbligatorio per i genitori degli alunni stranieri” Video",
       "source_count": 3,
       "article_count": 3,
@@ -166,22 +187,6 @@
         "https://www.lastampa.it/politica/2026/08/26/news/valditara_studio_dell_italiano_obbligatorio_per_i_genitori_degli_alunni_stranieri-15722505/",
         "https://www.ansa.it/canale_legalita_scuola/speciali/back-to-school/2026/08/25/valditara-lo-studio-dellitaliano-sia-obbligatorio-per-i-genitori-di-studenti-stranieri_8f70f60f-3cff-4242-b4d8-61c37c520dde.html",
         "https://www.ilmessaggero.it/scuola/italiano_obbligatorio_genitori_studenti_che_vanno_male_a_scuola_valditara-9724999.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Crans Montana, Leonardo Bove: «Ho visto la mia vita sfuggire via, non voglio più perderla. Sui Moretti non dico nulla»",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/25/crans-montana-genitori-di-leonardo-bove-labbiamo-trovato-allultimo-test_f45314a2-0832-41d8-859e-c5ed8f95f4b3.html",
-        "https://www.lastampa.it/cronaca/2026/08/25/video/leonardo_bove_crans_montana_racconto_incendio-15722418/",
-        "https://www.ilmessaggero.it/persone/crans_montana_leonardo_bove_ho_visto_mia_vita_sfuggire_via-9724894.html"
       ]
     }
   ]
