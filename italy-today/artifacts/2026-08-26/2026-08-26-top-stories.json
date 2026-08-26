@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "generated_at": "Wed 26 Aug 13:06",
+  "generated_at": "Wed 26 Aug 14:06",
   "stories": [
     {
       "rank": 1,
@@ -28,23 +28,23 @@
     },
     {
       "rank": 2,
-      "title": "Nepal, alluvione nel nord: \"Numerose vittime e dispersi\". Xi mobilita i soccorsi",
+      "title": "Alluvione tra Nepal e Tibet: 22 morti, 291 stranieri irreperibili. La Farnesina al lavoro: \"Sono 90 gli italiani nell'area\"",
       "source_count": 6,
-      "article_count": 10,
+      "article_count": 13,
       "source_domains": [
         "ansa.it",
-        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
         "laverita.info",
         "repubblica.it",
-        "adnkronos.com",
-        "lastampa.it"
+        "adnkronos.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/26/alluvione-tra-nepal-e-tibet-22-morti-291-stranieri-irreperibili.-tajani-due_28a1140e-5c87-4432-9861-59dc80132e86.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/26/alluvione-tra-nepal-e-tibet-22-morti-291-stranieri-irreperibili.-la-farnesina-al-lavoro_28a1140e-5c87-4432-9861-59dc80132e86.html",
-        "https://www.ilfattoquotidiano.it/2026/08/26/nepal-i-soccorsi-dopo-linondazione-gli-abitanti-evacuati-dai-villaggi-sottacqua/8488683/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/26/sale-a-17-il-bilancio-dei-morti-per-lalluvione-in-nepal_28a1140e-5c87-4432-9861-59dc80132e86.html",
-        "https://www.laverita.info/mondo/nepal-piena-tibet",
-        "https://www.ilfattoquotidiano.it/2026/08/26/alluvione-nepal-frana-confine-notizie/8488344/"
+        "https://www.liberoquotidiano.it/news/tv-news/48962717/in-nepal-violente-inondazioni-morti-e-dispersi/",
+        "https://www.lastampa.it/esteri/2026/08/26/video/nepal_cina_fango_valico_gyirong_alluvione-15722938/",
+        "https://www.liberoquotidiano.it/news/pillole/48961469/tibet_una_frana_al_confine_con_il_nepal_travolge_strade_e_infrastrutture/"
       ]
     },
     {
@@ -92,6 +92,27 @@
     },
     {
       "rank": 5,
+      "title": "Germania, malaria all’aeroporto di Francoforte: 1 morto e 5 contagi. Rafforzati i controlli",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/malaria-aeroporto-francoforte-parere-esperti_53GwPIRTkirKT73Q4GTN89",
+        "https://www.ilmessaggero.it/salute/prevenzione/malaria_aeroporto_bassetti_bagagli_contagiosi_zanzara-9726719.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/26/allarme-malaria-a-francoforte-morto-un-dipendente-dellaeroporto_4b71d5bb-2513-483d-aec7-43bd040d518b.html",
+        "https://www.repubblica.it/esteri/2026/08/26/news/germania_malaria_aeroporto_francoforte_morto_contagi-425548077/",
+        "https://www.ilfattoquotidiano.it/2026/08/26/malaria-aeroporto-francoforte-contagiati-morti-notizie/8488444/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "In Lombardia il primo suicidio assistito gestito dal servizio sanitario",
       "source_count": 7,
       "article_count": 7,
@@ -113,7 +134,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Caldo senza tregua, l'anticiclone africano torna a ruggire sull'Italia: ecco dove",
       "source_count": 5,
       "article_count": 7,
@@ -133,7 +154,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "La Rai cerca l'exit strategy per Ranucci, l'ipotesi del ritorno a una testata",
       "source_count": 5,
       "article_count": 7,
@@ -150,27 +171,6 @@
         "https://www.liberoquotidiano.it/news/libero-video/48957294/ranucci-attacca-ho-la-coscienza-a-posto-io-/",
         "https://www.lastampa.it/cronaca/2026/08/26/news/parla_ranucci_ho_la_coscienza_a_posto_rifarei_tutto_lavitola_andrei_a_cena_anche_con_riina-15722613/",
         "https://www.repubblica.it/politica/2026/08/26/news/rai_ranucci_report_tg3-425547169/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Germania, malaria all’aeroporto di Francoforte: 1 morto e 5 contagi. Rafforzati i controlli",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/26/allarme-malaria-a-francoforte-morto-un-dipendente-dellaeroporto_4b71d5bb-2513-483d-aec7-43bd040d518b.html",
-        "https://www.repubblica.it/esteri/2026/08/26/news/germania_malaria_aeroporto_francoforte_morto_contagi-425548077/",
-        "https://www.ilfattoquotidiano.it/2026/08/26/malaria-aeroporto-francoforte-contagiati-morti-notizie/8488444/",
-        "https://www.ilmessaggero.it/mondo/malaria_germania_morti_aeroporto_francoforte_controlli_sintomi_ritardi-9726583.html",
-        "https://www.adnkronos.com/internazionale/esteri/malaria-aeroporto-francoforte-cosa-sappiamo_2Djk2C5iaFx7uC0Qtd1Ymr"
       ]
     },
     {
