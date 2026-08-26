@@ -1,6 +1,6 @@
 {
   "date": "2026-08-26",
-  "generated_at": "Wed 26 Aug 11:39",
+  "generated_at": "Wed 26 Aug 13:06",
   "stories": [
     {
       "rank": 1,
@@ -28,6 +28,48 @@
     },
     {
       "rank": 2,
+      "title": "Nepal, alluvione nel nord: \"Numerose vittime e dispersi\". Xi mobilita i soccorsi",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "laverita.info",
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/26/alluvione-tra-nepal-e-tibet-22-morti-291-stranieri-irreperibili.-la-farnesina-al-lavoro_28a1140e-5c87-4432-9861-59dc80132e86.html",
+        "https://www.ilfattoquotidiano.it/2026/08/26/nepal-i-soccorsi-dopo-linondazione-gli-abitanti-evacuati-dai-villaggi-sottacqua/8488683/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/26/sale-a-17-il-bilancio-dei-morti-per-lalluvione-in-nepal_28a1140e-5c87-4432-9861-59dc80132e86.html",
+        "https://www.laverita.info/mondo/nepal-piena-tibet",
+        "https://www.ilfattoquotidiano.it/2026/08/26/alluvione-nepal-frana-confine-notizie/8488344/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Il capo della Cia a Mosca: primo viaggio a sorpresa tra i timori di escalation",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48962374/il-capo-della-cia-a-mosca-il-cremlino-contatti-con-i-servizi-/",
+        "https://www.repubblica.it/esteri/2026/08/26/news/ratcliff_visita_mosca_cia_precedenti_usa_russia-425547902/",
+        "https://www.adnkronos.com/internazionale/esteri/russia-putin-capo-cia-ratcliffe-mosca-news_4of47iGYZfCpqsCTgWaZv1",
+        "https://www.ilmessaggero.it/mondo/russia_viaggio_capo_cia_putin_decreti_top_segret_attacco_nato_cosa_sappiamo_davvero-9726390.html",
+        "https://www.ilmessaggero.it/mondo/russia_viaggio_capo_cia_putin_decreti_top_secret_attacco_nato_cosa_sappiamo_davvero-9726390.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Accise, proroga fino a settembre. Poi bonus solo per i redditi bassi",
       "source_count": 7,
       "article_count": 7,
@@ -49,28 +91,29 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Nepal, alluvione nel nord: \"Numerose vittime e dispersi\". Xi mobilita i soccorsi",
-      "source_count": 6,
-      "article_count": 8,
+      "rank": 5,
+      "title": "In Lombardia il primo suicidio assistito gestito dal servizio sanitario",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "laverita.info",
         "ilfattoquotidiano.it",
-        "repubblica.it",
         "adnkronos.com",
-        "lastampa.it"
+        "ansa.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/26/sale-a-17-il-bilancio-dei-morti-per-lalluvione-in-nepal_28a1140e-5c87-4432-9861-59dc80132e86.html",
-        "https://www.laverita.info/mondo/nepal-piena-tibet",
-        "https://www.ilfattoquotidiano.it/2026/08/26/alluvione-nepal-frana-confine-notizie/8488344/",
-        "https://www.repubblica.it/esteri/2026/08/26/news/alluvioni_nepal_frana_travolge_nord_cina_xi_jinping_gravi_perdite_attivati_soccorsi-425547828/",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/08/26/nepal-le-acque-di-piena-travolgono-il-distretto-di-rasuwa_387e6230-55cb-48f0-b227-e0b41827a057.html"
+        "https://www.ilfattoquotidiano.it/2026/08/26/suicidio-assistito-lombardia-servizio-sanitario-notizie/8488496/",
+        "https://www.adnkronos.com/cronaca/suicidio-assistito-lombardia-interamente-gestito-servizio-sanitario_2B1iI7MN25M0UiXi7wQBmv",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/in-lombardia-primo-suicidio-assistito-gestito-dal-servizio-sanitario_c4f63e80-9255-4f5e-b8bf-e6391e0e622d.html",
+        "https://www.ilmessaggero.it/italia/domenico_zuccarella_morto_suicidio_assistito_lombardia_come_fare-9726630.html",
+        "https://milano.repubblica.it/cronaca/2026/08/26/news/lombardia_suicidio_assistito_servizio_sanitario_regionale-425547976/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Caldo senza tregua, l'anticiclone africano torna a ruggire sull'Italia: ecco dove",
       "source_count": 5,
       "article_count": 7,
@@ -90,27 +133,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Il capo della Cia a Mosca: primo viaggio a sorpresa tra i timori di escalation",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "repubblica.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/08/26/news/ratcliff_visita_mosca_cia_precedenti_usa_russia-425547902/",
-        "https://www.adnkronos.com/internazionale/esteri/russia-putin-capo-cia-ratcliffe-mosca-news_4of47iGYZfCpqsCTgWaZv1",
-        "https://www.ilmessaggero.it/mondo/russia_viaggio_capo_cia_putin_decreti_top_segret_attacco_nato_cosa_sappiamo_davvero-9726390.html",
-        "https://www.ilmessaggero.it/mondo/russia_viaggio_capo_cia_putin_decreti_top_secret_attacco_nato_cosa_sappiamo_davvero-9726390.html",
-        "https://www.lastampa.it/esteri/2026/08/26/news/cia_john_ratcliffe_mosca_aereo_c17_missione_usa-15722723/"
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "title": "La Rai cerca l'exit strategy per Ranucci, l'ipotesi del ritorno a una testata",
       "source_count": 5,
       "article_count": 7,
@@ -130,78 +153,64 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "In Lombardia il primo suicidio assistito gestito dal servizio sanitario",
+      "rank": 8,
+      "title": "Germania, malaria all’aeroporto di Francoforte: 1 morto e 5 contagi. Rafforzati i controlli",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
         "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "milano.repubblica.it",
+        "adnkronos.com",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/26/suicidio-assistito-lombardia-servizio-sanitario-notizie/8488496/",
-        "https://www.adnkronos.com/cronaca/suicidio-assistito-lombardia-interamente-gestito-servizio-sanitario_2B1iI7MN25M0UiXi7wQBmv",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/in-lombardia-primo-suicidio-assistito-gestito-dal-servizio-sanitario_c4f63e80-9255-4f5e-b8bf-e6391e0e622d.html",
-        "https://www.ilmessaggero.it/italia/domenico_zuccarella_morto_suicidio_assistito_lombardia_come_fare-9726630.html",
-        "https://milano.repubblica.it/cronaca/2026/08/26/news/lombardia_suicidio_assistito_servizio_sanitario_regionale-425547976/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Leonardo Maria Del Vecchio lascia gli incarichi in EssiLux. Critiche alla gestione di Milleri",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "laverita.info",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.laverita.info/aziende/del-vecchio-essilux-rischio-opa",
-        "https://www.ilmessaggero.it/economia/news/del_vecchio_jr_lascia_essilux-9725356.html",
-        "https://www.lastampa.it/economia/2026/08/26/news/leonardo_maria_del_vecchio_lascia_gli_incarichi_in_essilux_critiche_alla_gestione_di_milleri-15722535/",
-        "https://www.ansa.it/sito/notizie/economia/aziende/2026/08/25/leonardo-maria-del-vecchio-lascia-tutti-gli-incarichi-in-essilorluxottica_7094dc96-bd88-4ca0-b43c-fbe45884d203.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/26/allarme-malaria-a-francoforte-morto-un-dipendente-dellaeroporto_4b71d5bb-2513-483d-aec7-43bd040d518b.html",
+        "https://www.repubblica.it/esteri/2026/08/26/news/germania_malaria_aeroporto_francoforte_morto_contagi-425548077/",
+        "https://www.ilfattoquotidiano.it/2026/08/26/malaria-aeroporto-francoforte-contagiati-morti-notizie/8488444/",
+        "https://www.ilmessaggero.it/mondo/malaria_germania_morti_aeroporto_francoforte_controlli_sintomi_ritardi-9726583.html",
+        "https://www.adnkronos.com/internazionale/esteri/malaria-aeroporto-francoforte-cosa-sappiamo_2Djk2C5iaFx7uC0Qtd1Ymr"
       ]
     },
     {
       "rank": 9,
-      "title": "Pakistan, incendio in un ospedale di Islamabad: morti almeno 14 neonati",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Ossola, un elicottero ultraleggero precipita a 1400 metri di quota: morte le due persone a bordo",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/26/elicottero-precipita-incendio-verbano-cusio-ossola-notizie/8488614/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/elicottero-precipita-nel-verbano-cusio-ossola-due-morti_b1e52a7d-f439-46d0-8198-5d50533a0140.html",
+        "https://www.adnkronos.com/cronaca/ultraleggero-precipita-piemonte-ossola_7BUUozB12NkqnZG0yUVP5d",
+        "https://www.lastampa.it/verbano-cusio-ossola/2026/08/26/video/lultraleggero_colpisce_i_tralicci_della_corrente_e_precipita_la_tragedia_in_valle_antrona-15722880/",
+        "https://www.lastampa.it/verbano-cusio-ossola/2026/08/26/news/ossola_incidente_ultraleggero_precipitato_campliccioli-15722816/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Pakistan, incendio in un ospedale di Islamabad: morti almeno 14 neonati",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "ansa.it",
         "adnkronos.com",
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/48962336/incendio-in-ospedale-pakistan-morti-14-neonati-soccorsi-dopo-due-ore-/",
         "https://www.ilfattoquotidiano.it/2026/08/26/incendio-ospedale-islamabad-neonati-morti-notizie/8488218/",
         "https://www.ansa.it/sito/notizie/mondo/asia/2026/08/26/incendio-in-un-reparto-di-ginecologia-14-neonati-morti-a-islamabad_30e501d9-0894-4ac2-b205-02412a01c11e.html",
         "https://www.adnkronos.com/internazionale/esteri/incendio-ospedale-pakistan-islamabad-neonati-morti_6Xr9boLF0bbf9xPQq4rESH",
         "https://www.ilmessaggero.it/mondo/neonati_morti_incendio_pakistan_ospedale_cosa_e_successo-9726336.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Alcaraz show al ritorno in campo con Serena Williams: super debutto per la coppia da sogno, poi il ko contro Cobolli",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ansa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/26/us-open-doppio-misto-cobolli-bencic-alcaraz-ha-provato-a-intimidirmi/8488326/",
-        "https://www.adnkronos.com/sport/alcaraz-show-ritorno-campo-us-open-serena-williams-debutto_6Coi1YwiareiATtIhhmSsD",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/26/cobolli-e-bencic-eliminano-alcaraz-e-williams-nel-doppio-misto_7a149058-993d-48fd-b55a-2024ea5bc815.html",
-        "https://www.repubblica.it/sport/tennis/2026/08/26/news/alcaraz_com_e_andato_il_ritorno-425547229/"
       ]
     }
   ]
