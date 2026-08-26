@@ -1,12 +1,35 @@
 {
   "date": "2026-08-26",
-  "generated_at": "Wed 26 Aug 16:27",
+  "generated_at": "Wed 26 Aug 19:12",
   "stories": [
     {
       "rank": 1,
-      "title": "Gli Usa piangono Dolly Parton, regina del country morta a 80 anni",
+      "title": "Alluvione tra Nepal e Tibet: 22 morti, 291 stranieri irreperibili. La Farnesina al lavoro: \"Sono 90 gli italiani nell'area\"",
       "source_count": 8,
-      "article_count": 18,
+      "article_count": 24,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/26/alluvione-tra-nepal-e-tibet-157-morti-466-stranieri-dispersi.-tajani_28a1140e-5c87-4432-9861-59dc80132e86.html",
+        "https://www.repubblica.it/esteri/2026/08/26/news/nepal_tibet_alluvione_frana_mappa_luoghi-425548793/",
+        "https://www.adnkronos.com/internazionale/esteri/alluvione-nepal-acqua-fango-ipotesi-glof-oggi_6Ll0j1RLIlrfcb66G2JNfF",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/08/26/frana-al-confine-nepal-tibet-nuove-immagini-del-disastro-numerose-vittime_4f896a70-a123-4373-9dfd-7e08ed4734fa.html",
+        "https://www.ilmessaggero.it/mondo/nepal_alluvione_frana_cause_cosa_e_successo-9726913.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Gli Usa piangono Dolly Parton, regina del country morta a 80 anni",
+      "source_count": 7,
+      "article_count": 16,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -14,8 +37,7 @@
         "adnkronos.com",
         "repubblica.it",
         "ilmanifesto.it",
-        "ilmessaggero.it",
-        "news.google.com"
+        "ilmessaggero.it"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/cultura/musica/2026/08/26/da-trump-a-mamdani-lamerica-in-lutto-per-dolly-parton_0a720bce-8428-44b4-8e7e-e47587d6f13f.html",
@@ -26,55 +48,36 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Alluvione tra Nepal e Tibet: 22 morti, 291 stranieri irreperibili. La Farnesina al lavoro: \"Sono 90 gli italiani nell'area\"",
-      "source_count": 7,
-      "article_count": 16,
+      "rank": 3,
+      "title": "Carburanti, taglio accise fino al 5 settembre: approvato il decreto. Dopo sostegni «selettivi sulla base del reddito»",
+      "source_count": 9,
+      "article_count": 12,
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "laverita.info",
         "repubblica.it",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/la-testimonianza-di-un-italiano-bloccato-in-nepal-isolati-10-ore-per-lesondazione_84302ea5-0be0-4a70-afbd-66303b5d1a99.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/26/alluvione-tra-nepal-e-tibet-95-morti-341-stranieri-dispersi.-tajani-due_28a1140e-5c87-4432-9861-59dc80132e86.html",
-        "https://www.ilmessaggero.it/mondo/onde_alte_sei_metri_alluvione_nepal_cosa_e_successo-9726839.html",
-        "https://www.ansa.it/sito/videogallery/short_video/2026/08/26/nepal-gli-attimi-prima-dellarrivo-della-calamita_8c174e60-e5e2-40b9-b137-83a2827d8d7f.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/26/alluvione-tra-nepal-e-tibet-95-morti-291-stranieri-irreperibili.-tajani-due_28a1140e-5c87-4432-9861-59dc80132e86.html"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Caro carburanti, oggi il Consiglio dei ministri: sul tavolo una misura ponte",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
+        "ilfattoquotidiano.it",
         "adnkronos.com",
         "laverita.info",
         "lastampa.it",
-        "ansa.it",
         "ilmanifesto.it",
-        "ilmessaggero.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.adnkronos.com/economia/carburanti-taglio-accise-risorse-governo-cdm_3XOPM1SK0MmdLnkDKciPzL",
-        "https://www.laverita.info/governo/proroga-taglio-accise-gasolio",
-        "https://www.lastampa.it/economia/2026/08/26/news/accise_proroga_a_settembre_bonu_per_redditi_bassi-15722501/",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/25/taglio-delle-accise-verso-la-proroga-poi-aiuti-ai-redditi-bassi_fb725722-357f-4d7f-b1c6-fa89004ea853.html",
-        "https://www.adnkronos.com/politica/carburanti-prezzo-benzina-diesel-accise-governo_1UYSwYCRVRVcLyovzTPYgH"
+        "https://www.ansa.it/sito/notizie/economia/2026/08/26/decreto-carburanti-taglio-delle-accise-sul-gasolio-fino-al-5-settembre.-poi_175d5d3a-cfee-4f2c-9b49-daf2c2dfc20f.html",
+        "https://www.ilmessaggero.it/economia/news/carburanti_taglio_accise_5_settembre_nuovo_decreto_cosa_prevede-9726921.html",
+        "https://www.repubblica.it/economia/2026/08/26/news/carburanti_taglio_sulle_accise_prorogato_fino_al_5_settembre-425548700/",
+        "https://www.ilfattoquotidiano.it/2026/08/26/caro-carburanti-il-cdm-proroga-fino-al-5-settembre-lo-sconto-sulle-accise-sul-gasolio/8489015/",
+        "https://www.adnkronos.com/politica/carburanti-sconto-accise-proroga-5-settembre-misura_1hZnMI1mGDk2JbAWJBwynZ"
       ]
     },
     {
       "rank": 4,
       "title": "Malaria all’aeroporto di Francoforte, un morto e cinque dipendenti contagiati. Rafforzati i controlli di sicurezza",
-      "source_count": 6,
-      "article_count": 9,
+      "source_count": 7,
+      "article_count": 10,
       "source_domains": [
+        "liberoquotidiano.it",
         "adnkronos.com",
         "ilmessaggero.it",
         "ansa.it",
@@ -83,15 +86,38 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/esteri/48962907/francoforte-malaria-aeroporto-contagiati-morti-come-arrivata-zanzara-infetta/",
         "https://www.adnkronos.com/cronaca/malaria-aeroporto-francoforte-parere-esperti_53GwPIRTkirKT73Q4GTN89",
         "https://www.ilmessaggero.it/salute/prevenzione/malaria_aeroporto_bassetti_bagagli_contagiosi_zanzara-9726719.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/26/allarme-malaria-a-francoforte-morto-un-dipendente-dellaeroporto_4b71d5bb-2513-483d-aec7-43bd040d518b.html",
-        "https://www.repubblica.it/esteri/2026/08/26/news/germania_malaria_aeroporto_francoforte_morto_contagi-425548077/",
-        "https://www.ilfattoquotidiano.it/2026/08/26/malaria-aeroporto-francoforte-contagiati-morti-notizie/8488444/"
+        "https://www.repubblica.it/esteri/2026/08/26/news/germania_malaria_aeroporto_francoforte_morto_contagi-425548077/"
       ]
     },
     {
       "rank": 5,
+      "title": "Processo su dipendenza da social, Meta patteggia: accordo per oltre 16 miliardi di dollari",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "laverita.info",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.laverita.info/tecnologia/meta-patteggia-social-minori",
+        "https://www.liberoquotidiano.it/news/tv-news/48963636/accordo-a-processo-su-giovani-e-social-meta-paghera-gli-stati/",
+        "https://www.adnkronos.com/economia/meta-processo-dipendenza-social-accordo-16-miliardi-di-dollari_5vytiMdXwK9SHayIzSrbdd",
+        "https://www.ilmessaggero.it/economia/news/meta_16_miliardi_social_dipendenza_accusa_patteggiamento_processo-9726768.html",
+        "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/08/26/dipendenza-da-social-meta-patteggia-e-paga-167-miliardi_2e2ed954-284d-4b8e-89b3-8d6f4e0c3843.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Il capo della Cia a Mosca: primo viaggio a sorpresa tra i timori di escalation",
       "source_count": 6,
       "article_count": 8,
@@ -112,7 +138,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "In Lombardia il primo suicidio assistito gestito dal servizio sanitario",
       "source_count": 7,
       "article_count": 7,
@@ -131,28 +157,6 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/in-lombardia-primo-suicidio-assistito-gestito-dal-servizio-sanitario_c4f63e80-9255-4f5e-b8bf-e6391e0e622d.html",
         "https://www.ilmessaggero.it/italia/domenico_zuccarella_morto_suicidio_assistito_lombardia_come_fare-9726630.html",
         "https://milano.repubblica.it/cronaca/2026/08/26/news/lombardia_suicidio_assistito_servizio_sanitario_regionale-425547976/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Processo su dipendenza da social, Meta patteggia: accordo per oltre 16 miliardi di dollari",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "laverita.info",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.laverita.info/tecnologia/meta-patteggia-social-minori",
-        "https://www.adnkronos.com/economia/meta-processo-dipendenza-social-accordo-16-miliardi-di-dollari_5vytiMdXwK9SHayIzSrbdd",
-        "https://www.ilmessaggero.it/economia/news/meta_16_miliardi_social_dipendenza_accusa_patteggiamento_processo-9726768.html",
-        "https://www.ansa.it/canale_tecnologia/notizie/web_social/2026/08/26/dipendenza-da-social-meta-patteggia-e-paga-167-miliardi_2e2ed954-284d-4b8e-89b3-8d6f4e0c3843.html",
-        "https://www.ilfattoquotidiano.it/2026/08/26/meta-danni-minori-patteggiamento-notizie/8488625/"
       ]
     },
     {
@@ -198,19 +202,22 @@
     },
     {
       "rank": 10,
-      "title": "Nepal, l’inondazione vista dall’alto: una valanga di acqua, fango e detriti si riversa nella gola",
-      "source_count": 2,
-      "article_count": 10,
+      "title": "Europei volley, Italia-Francia: orario e dove vedere in chiaro la sfida decisiva per il primo posto",
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
+        "adnkronos.com",
         "ilfattoquotidiano.it",
-        "lastampa.it"
+        "lastampa.it",
+        "repubblica.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/08/26/alluvione-nepal-bhotekoshi-tibet-notizie/8488959/",
-        "https://www.ilfattoquotidiano.it/2026/08/26/inondazione-nepal-bhotekoshi-villaggi-notizie/8488898/",
-        "https://www.ilfattoquotidiano.it/2026/08/26/alluvione-tibet-frana-nepal-notizie/8488822/",
-        "https://www.lastampa.it/esteri/2026/08/26/news/nepal_tibet_montagna_fiume_alluvione_lampo-15723023/",
-        "https://www.ilfattoquotidiano.it/2026/08/26/le-persone-in-fuga-poi-la-massa-di-polvere-e-detriti-su-tutto-ecco-le-immagini-dellimpatto-sulla-frontiera-di-gyirong/8488688/"
+        "https://www.adnkronos.com/sport/europei-volley-italia-francia-azzurre-prime-girone_ap2DZSDtcL3jzWErcVIOz",
+        "https://www.ilfattoquotidiano.it/2026/08/26/europei-volley-femminile-italia-ottavi-prima-classificata-analisi-commento/8488999/",
+        "https://www.lastampa.it/sport/volley/2026/08/26/news/eurovolley_2026_a_goteborg_italia_francia_3-1_le_azzurre_vincono_il_girone-15723101/",
+        "https://www.repubblica.it/sport/volley/2026/08/26/diretta/italia_francia_europei_volley_diretta-425548355/",
+        "https://www.ilfattoquotidiano.it/2026/08/26/europei-volley-femminile-italia-francia-orario-dove-vedere-tv-streaming/8488228/"
       ]
     }
   ]
