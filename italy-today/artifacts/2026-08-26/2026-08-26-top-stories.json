@@ -1,16 +1,16 @@
 {
   "date": "2026-08-26",
-  "generated_at": "Wed 26 Aug 10:45",
+  "generated_at": "Wed 26 Aug 11:39",
   "stories": [
     {
       "rank": 1,
       "title": "Gli Usa piangono Dolly Parton, regina del country morta a 80 anni",
       "source_count": 9,
-      "article_count": 17,
+      "article_count": 18,
       "source_domains": [
         "ansa.it",
-        "ilfattoquotidiano.it",
         "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
         "adnkronos.com",
         "repubblica.it",
         "ilmanifesto.it",
@@ -20,10 +20,10 @@
       ],
       "links": [
         "https://www.ansa.it/sito/videogallery/mondo/2026/08/26/dolly-parton-i-fan-rendono-omaggio-alla-sua-stella-a-hollywood_cb20d36c-d526-4a73-830a-99c1c285fd33.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48960811/l-addio-dei-fan-a-dolly-parton-univa-il-paese-manchera-molto-/",
         "https://www.ilfattoquotidiano.it/2026/08/26/gli-inizi-in-una-famiglia-poverissima-il-duetto-con-i-maneskin-e-la-pecora-con-il-suo-nome-addio-a-dolly-parton-la-regina-del-country-e-morta-a-80-anni/8488243/",
         "https://www.liberoquotidiano.it/news/tv-news/48960426/gli-usa-piangono-dolly-parton-regina-del-country-morta-a-80-anni/",
-        "https://www.liberoquotidiano.it/news/libero-video/48957298/morta-dolly-parton-bandiera-a-mezz-asta-alla-casa-bianca/",
-        "https://www.adnkronos.com/spettacoli/dolly-parton-morta-messaggio-di-addio-taylor-swift-beyonce_1YEOLBwDxQzVTIkdfIVQmF"
+        "https://www.liberoquotidiano.it/news/libero-video/48957298/morta-dolly-parton-bandiera-a-mezz-asta-alla-casa-bianca/"
       ]
     },
     {
@@ -35,21 +35,42 @@
         "laverita.info",
         "lastampa.it",
         "ansa.it",
+        "repubblica.it",
         "adnkronos.com",
         "ilmanifesto.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
+        "ilmessaggero.it"
       ],
       "links": [
         "https://www.laverita.info/governo/proroga-taglio-accise-gasolio",
         "https://www.lastampa.it/economia/2026/08/26/news/accise_proroga_a_settembre_bonu_per_redditi_bassi-15722501/",
         "https://www.ansa.it/sito/notizie/politica/2026/08/25/taglio-delle-accise-verso-la-proroga-poi-aiuti-ai-redditi-bassi_fb725722-357f-4d7f-b1c6-fa89004ea853.html",
-        "https://www.adnkronos.com/politica/carburanti-prezzo-benzina-diesel-accise-governo_1UYSwYCRVRVcLyovzTPYgH",
-        "https://ilmanifesto.it/carburanti-meloni-si-sveglia-tardi-sugli-aiuti-differenziati"
+        "https://www.repubblica.it/economia/2026/08/26/news/taglio_accise_carburanti_risorse_misure_selettive_rischi-425547193/",
+        "https://www.adnkronos.com/politica/carburanti-prezzo-benzina-diesel-accise-governo_1UYSwYCRVRVcLyovzTPYgH"
       ]
     },
     {
       "rank": 3,
+      "title": "Nepal, alluvione nel nord: \"Numerose vittime e dispersi\". Xi mobilita i soccorsi",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/26/sale-a-17-il-bilancio-dei-morti-per-lalluvione-in-nepal_28a1140e-5c87-4432-9861-59dc80132e86.html",
+        "https://www.laverita.info/mondo/nepal-piena-tibet",
+        "https://www.ilfattoquotidiano.it/2026/08/26/alluvione-nepal-frana-confine-notizie/8488344/",
+        "https://www.repubblica.it/esteri/2026/08/26/news/alluvioni_nepal_frana_travolge_nord_cina_xi_jinping_gravi_perdite_attivati_soccorsi-425547828/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/08/26/nepal-le-acque-di-piena-travolgono-il-distretto-di-rasuwa_387e6230-55cb-48f0-b227-e0b41827a057.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Caldo senza tregua, l'anticiclone africano torna a ruggire sull'Italia: ecco dove",
       "source_count": 5,
       "article_count": 7,
@@ -69,7 +90,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Il capo della Cia a Mosca: primo viaggio a sorpresa tra i timori di escalation",
       "source_count": 5,
       "article_count": 7,
@@ -89,10 +110,10 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "La Rai cerca l'exit strategy per Ranucci, l'ipotesi del ritorno a una testata",
       "source_count": 5,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
         "laverita.info",
         "liberoquotidiano.it",
@@ -101,15 +122,36 @@
         "ansa.it"
       ],
       "links": [
+        "https://www.laverita.info/video/inchieste-video/ranucci-inchiesta-report-rai",
         "https://www.laverita.info/televisione/ranucci-piano-rai-report",
         "https://www.liberoquotidiano.it/news/libero-video/48957294/ranucci-attacca-ho-la-coscienza-a-posto-io-/",
         "https://www.lastampa.it/cronaca/2026/08/26/news/parla_ranucci_ho_la_coscienza_a_posto_rifarei_tutto_lavitola_andrei_a_cena_anche_con_riina-15722613/",
-        "https://www.repubblica.it/politica/2026/08/26/news/rai_ranucci_report_tg3-425547169/",
-        "https://www.repubblica.it/politica/2026/08/26/news/ranucci_cerveteri_report_tg3-425547165/"
+        "https://www.repubblica.it/politica/2026/08/26/news/rai_ranucci_report_tg3-425547169/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "In Lombardia il primo suicidio assistito gestito dal servizio sanitario",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/08/26/suicidio-assistito-lombardia-servizio-sanitario-notizie/8488496/",
+        "https://www.adnkronos.com/cronaca/suicidio-assistito-lombardia-interamente-gestito-servizio-sanitario_2B1iI7MN25M0UiXi7wQBmv",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/26/in-lombardia-primo-suicidio-assistito-gestito-dal-servizio-sanitario_c4f63e80-9255-4f5e-b8bf-e6391e0e622d.html",
+        "https://www.ilmessaggero.it/italia/domenico_zuccarella_morto_suicidio_assistito_lombardia_come_fare-9726630.html",
+        "https://milano.repubblica.it/cronaca/2026/08/26/news/lombardia_suicidio_assistito_servizio_sanitario_regionale-425547976/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Leonardo Maria Del Vecchio lascia gli incarichi in EssiLux. Critiche alla gestione di Milleri",
       "source_count": 4,
       "article_count": 4,
@@ -127,7 +169,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Pakistan, incendio in un ospedale di Islamabad: morti almeno 14 neonati",
       "source_count": 4,
       "article_count": 4,
@@ -145,7 +187,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Alcaraz show al ritorno in campo con Serena Williams: super debutto per la coppia da sogno, poi il ko contro Cobolli",
       "source_count": 4,
       "article_count": 4,
@@ -160,41 +202,6 @@
         "https://www.adnkronos.com/sport/alcaraz-show-ritorno-campo-us-open-serena-williams-debutto_6Coi1YwiareiATtIhhmSsD",
         "https://www.ansa.it/sito/notizie/sport/tennis/2026/08/26/cobolli-e-bencic-eliminano-alcaraz-e-williams-nel-doppio-misto_7a149058-993d-48fd-b55a-2024ea5bc815.html",
         "https://www.repubblica.it/sport/tennis/2026/08/26/news/alcaraz_com_e_andato_il_ritorno-425547229/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Raffica di sanzioni sul 'Made in Usa', schiaffo del Canada a Trump",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/48958564/ministra-canadese-joly-risponde-a-trump-lago-america-noi-lo-chiameremo-sempre-lago-ontario/",
-        "https://www.lastampa.it/esteri/2026/08/26/news/canada_trump_lago_ontario_lago_america-15722810/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/25/il-canada-risponde-a-trump-dazi-dal-15-al-50-sui-prodotti-usa_3b7a36e4-edac-4f57-8c59-a2e2f9d851ca.html",
-        "https://ilmanifesto.it/il-canada-risponde-dollaro-per-dollaro"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Giochi Mediterraneo, Razzetti oro nei 200 farfalla \"Vincere gioia immensa\"",
-      "source_count": 2,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/puglia/notizie/speciali/xx_giochi_del_mediterraneo_taranto_2026/2026/08/25/giochi-del-mediterraneo-nelle-bocce-e-doro-il-doppio-azzurro-donne_7b8863f2-63c3-4472-8631-9f32d0f4760b.html",
-        "https://www.liberoquotidiano.it/news/pillole/48953608/giochi-mediterraneo-camozzi-argento-nei-200-farfalla-abbiamo-dato-il-massimo-/",
-        "https://www.liberoquotidiano.it/news/pillole/48953331/giochi-mediterraneo-guatti-oro-nei-50-sl-vincere-in-casa-vale-doppio-/",
-        "https://www.liberoquotidiano.it/news/pillole/48953180/giochi-mediterraneo-razzetti-oro-nei-200-farfalla-vincere-gioia-immensa-/",
-        "https://www.liberoquotidiano.it/news/pillole/48953183/giochi_mediterraneo_borelli_oro_nei_200_farfalla_puo_darmi_slancio_/"
       ]
     }
   ]
