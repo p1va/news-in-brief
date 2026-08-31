@@ -1,20 +1,20 @@
 {
   "date": "2026-08-31",
-  "generated_at": "Mon 31 Aug 22:50",
+  "generated_at": "Mon 31 Aug 23:46",
   "stories": [
     {
       "rank": 1,
       "title": "Migranti, l’Italia proroga la sospensione di Schengen con la Spagna per 15 giorni. E Madrid reagisce",
       "source_count": 9,
-      "article_count": 13,
+      "article_count": 14,
       "source_domains": [
         "ilmanifesto.it",
         "ansa.it",
         "ilmessaggero.it",
+        "lastampa.it",
         "liberoquotidiano.it",
         "laverita.info",
         "repubblica.it",
-        "lastampa.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
@@ -22,8 +22,8 @@
         "https://ilmanifesto.it/meloni-sfida-ancora-sanchez-prorogato-lo-stop-a-schengen",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/muro-contro-muro-tra-roma-e-madrid-schengen-resta-bloccato_bf0f73fd-6df0-4787-83ca-bc09b91ef828.html",
         "https://www.ilmessaggero.it/politica/ceuta_schengen_tajani_sanchez_sapeva_proroga_ritorsione-9735652.html",
-        "https://www.ilmessaggero.it/politica/schengen_italia_spagna_nuovo_stop_quanto_dura_ceuta_perche-9735624.html",
-        "https://www.ilmessaggero.it/mondo/ceuta_scontro_italia_spagna_migranti_schengen_cosa_e_successo_cosa_cambia-9735492.html"
+        "https://www.lastampa.it/esteri/2026/09/01/news/italia_spagna_scontro_schengen_proroga-15727014/",
+        "https://www.ilmessaggero.it/politica/schengen_italia_spagna_nuovo_stop_quanto_dura_ceuta_perche-9735624.html"
       ]
     },
     {
@@ -53,43 +53,43 @@
       "rank": 3,
       "title": "Spari a Roma: trovati morti in casa a Pietralata padre, madre e figlia disabile. Ipotesi omicidio-suicidio",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "lastampa.it",
         "liberoquotidiano.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "roma.repubblica.it",
-        "lastampa.it",
         "agi.it"
       ],
       "links": [
+        "https://www.lastampa.it/cronaca/2026/09/01/news/padre_madre_e_figlia_trovati_morti_in_casa_la_tragedia_in_una_lettera-15727035/",
         "https://www.liberoquotidiano.it/news/italia/48997116/roma-tragedia-casa-padre-madre-figlia-morti-colpi-arma-fuoco-ipotesi-omicidio-suicidio/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/padre-madre-e-figlia-di-5-anni-trovati-morti-a-roma.-ipotesi-omicidio-suicidio_8c68f9ce-53c9-47b6-bb89-fb425a5b2c06.html",
         "https://www.ilfattoquotidiano.it/2026/08/31/omicidio-suicidio-pietralata-roma-notizie/8492929/",
-        "https://www.adnkronos.com/cronaca/spari-roma-omicidio-suicidio-pietralata-morti-padre-madre-figlia_3Sli7C6al9LaZWSflIJlKd",
-        "https://roma.repubblica.it/cronaca/2026/08/31/news/omicidio_suicidio_roma_tre_morti_pietralata_madre_padre_figlia-425556964/"
+        "https://www.adnkronos.com/cronaca/spari-roma-omicidio-suicidio-pietralata-morti-padre-madre-figlia_3Sli7C6al9LaZWSflIJlKd"
       ]
     },
     {
       "rank": 4,
       "title": "Us Open, Djokovic shock, vomita in campo e perde con Navone, è subito fuori: “Ho un problema serio”",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "lastampa.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
         "ansa.it",
-        "lastampa.it",
         "repubblica.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/09/01/news/lacrime_e_nausea_il_tramonto_di_djokovic-15727084/",
         "https://www.ilmessaggero.it/sport/tennis/djokovic_ritiro_cosa_succede_eliminato_us_open_vomito_crampi_infortuni-9735601.html",
         "https://www.liberoquotidiano.it/news/sport/49003097/djokovic-vomito-us-open-problema-serio-sconvolge-mondo-tennis/",
         "https://www.ansa.it/sito/notizie/sport/2026/08/31/novak-djokovic-shock-fuori-al-primo-turno-degli-us-open.-vomita-e-piange_924ad7e4-4e73-460b-838f-b238f6515153.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48994795/djokovic-choc-agli-us-open-fuori-al-primo-turno/",
-        "https://www.ilmessaggero.it/sport/tennis/djokovic_us_open_vomito_inalatore_massaggio_schiena_le_lacrime_successo-9734861.html"
+        "https://www.liberoquotidiano.it/news/tv-news/48994795/djokovic-choc-agli-us-open-fuori-al-primo-turno/"
       ]
     },
     {
@@ -155,6 +155,26 @@
     },
     {
       "rank": 8,
+      "title": "Guido De Maria è morto, addio al papà di SuperGulp!",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ilmanifesto.it",
+        "lastampa.it",
+        "ansa.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/guido-de-maria-quei-fumetti-di-unaltra-tv",
+        "https://www.lastampa.it/cultura/2026/09/01/news/l_uomo_che_fece_ridere_con_un_gulp_sono_un_ignorante_enciclopedico-15727051/",
+        "https://www.ansa.it/sito/notizie/cultura/2026/08/31/e-morto-guido-de-maria-addio-al-papa-di-supergulp_3723d75a-6af8-45ba-8c09-e0aff4ad6a55.html",
+        "https://www.repubblica.it/spettacoli/tv-radio/2026/08/31/news/supergulp_da_nick_carter_a_alan_ford_quei_fumetti_in_tv_che_hanno_fatto_epoca-425556803/",
+        "https://bologna.repubblica.it/cronaca/2026/08/31/news/morto_guido_de_maria_addio_papa_supergulp-425556552/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Report, assemblea dei giornalisti: “Il programma non esiste senza la squadra. Pronti allo sciopero”",
       "source_count": 6,
       "article_count": 6,
@@ -175,7 +195,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Tornano i venti di guerra nel Golfo. Trump: 'Colpiremo duro'",
       "source_count": 5,
       "article_count": 7,
@@ -192,26 +212,6 @@
         "https://www.laverita.info/video/mondo-video/iran-usa-missili",
         "https://www.ansa.it/sito/notizie/mondo/2026/08/31/tornano-i-raid-usa-in-iran-attacco-su-larak.-teheran-prende-di-mira-le-basi_d6d9581a-b7ae-4731-b009-3307af788336.html",
         "https://www.repubblica.it/esteri/2026/08/31/news/isola_larak_iran_usa_stretto_hormuz-425556417/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Guido De Maria è morto, addio al papà di SuperGulp!",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilmanifesto.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://ilmanifesto.it/guido-de-maria-quei-fumetti-di-unaltra-tv",
-        "https://www.ansa.it/sito/notizie/cultura/2026/08/31/e-morto-guido-de-maria-addio-al-papa-di-supergulp_3723d75a-6af8-45ba-8c09-e0aff4ad6a55.html",
-        "https://www.repubblica.it/spettacoli/tv-radio/2026/08/31/news/supergulp_da_nick_carter_a_alan_ford_quei_fumetti_in_tv_che_hanno_fatto_epoca-425556803/",
-        "https://bologna.repubblica.it/cronaca/2026/08/31/news/morto_guido_de_maria_addio_papa_supergulp-425556552/",
-        "https://www.lastampa.it/spettacoli/2026/08/31/news/tv_morto_guido_de_maria_ideo_supergulp_fumetti_in_tv-15726578/"
       ]
     }
   ]
