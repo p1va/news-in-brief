@@ -1,9 +1,77 @@
 {
   "date": "2026-08-31",
-  "generated_at": "Mon 31 Aug 13:19",
+  "generated_at": "Mon 31 Aug 20:00",
   "stories": [
     {
       "rank": 1,
+      "title": "Migranti, l’Italia proroga la sospensione di Schengen con la Spagna per 15 giorni. E Madrid reagisce",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "laverita.info",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/mondo/ceuta_scontro_italia_spagna_migranti_schengen_cosa_e_successo_cosa_cambia-9735492.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49002172/governo-decide-per-altri-15-giorni-di-stop-a-schengen-con-la-spagna/",
+        "https://www.laverita.info/cronache-dellinvasione/ceuta-piantedosi-schengen",
+        "https://www.laverita.info/cronache-dellinvasione/schengen-italia-spagna-proroga",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/litalia-proroga-la-sospensione-di-schengen-con-la-spagna-per-15-giorni.-madrid-reagisce_bf0f73fd-6df0-4787-83ca-bc09b91ef828.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Spari a Roma: trovati morti in casa a Pietralata padre, madre e figlia disabile. Ipotesi omicidio-suicidio",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "roma.repubblica.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/roma/tiburtino/pietralata_famiglia_uccisa_figlia_disabile_madre_padre_cosa_e_successo-9735396.html",
+        "https://www.liberoquotidiano.it/news/italia/48997116/roma-tragedia-casa-padre-madre-figlia-morti-colpi-arma-fuoco-ipotesi-omicidio-suicidio/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/padre-madre-e-figlia-di-5-anni-trovati-morti-a-roma.-ipotesi-omicidio-suicidio_8c68f9ce-53c9-47b6-bb89-fb425a5b2c06.html",
+        "https://www.ilfattoquotidiano.it/2026/08/31/omicidio-suicidio-pietralata-roma-notizie/8492929/",
+        "https://www.adnkronos.com/cronaca/spari-roma-omicidio-suicidio-pietralata-morti-padre-madre-figlia_3Sli7C6al9LaZWSflIJlKd"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Arrestato l'uomo che ha sparato al rave in Svizzera e ucciso un'italiana",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/31/arrestato-luomo-che-ha-sparato-al-rave-in-svizzera-e-ucciso-unitaliana_5fe7028e-9a75-411a-87ac-aeb4eae3fd7e.html",
+        "https://www.ilmessaggero.it/mondo/attentato_svizzera_arrestato_fuga_armi_cosa_non_torna-9735303.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/31/sparatoria-ad-un-rave-in-svizzera-arrestato-svizzero-di-43-anni_5fe7028e-9a75-411a-87ac-aeb4eae3fd7e.html",
+        "https://www.laverita.info/mondo/sparatoria-rave-svizzera-arresto",
+        "https://www.ilfattoquotidiano.it/2026/08/31/undefined-38/8492848/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Usa-Iran, nuovi attacchi diretti dopo un mese di tregua",
       "source_count": 6,
       "article_count": 8,
@@ -24,28 +92,68 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Sparatoria ad un rave in Svizzera, arrestato svizzero di 43 anni",
+      "rank": 5,
+      "title": "Grand Canyon, inondazione improvvisa: un morto, 15 escursionisti dispersi e decine di evacuati",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
-        "laverita.info",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
+        "liberoquotidiano.it",
         "lastampa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/31/sparatoria-ad-un-rave-in-svizzera-arrestato-svizzero-di-43-anni_5fe7028e-9a75-411a-87ac-aeb4eae3fd7e.html",
-        "https://www.laverita.info/mondo/sparatoria-rave-svizzera-arresto",
-        "https://www.ilfattoquotidiano.it/2026/08/31/undefined-38/8492848/",
-        "https://www.repubblica.it/cronaca/2026/08/31/news/sparatoria_rave_svizzera_arrestato_ultime_news-425556732/",
-        "https://www.lastampa.it/esteri/2026/08/31/news/svizzera_sparatoria_rave_party_aarau_arresto-15726612/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/31/inondazione-al-grand-canyon-almeno-2-morti-e-15-dispersi_f2e25781-6428-43a1-960c-48cbbbfc2779.html",
+        "https://www.liberoquotidiano.it/news/libero-video/48998323/grand-canyon-tragedia-inondazione-improvvisa-morti-dispersi/",
+        "https://www.lastampa.it/esteri/2026/08/31/video/le_inondazioni_travolgono_il_grand_canyon_colate_di_fango_e_detriti_tra_le_gole_del_national_park-15726646/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/31/inondazione-improvvisa-al-grand-canyon-un-morto-15-dispersi-e-decine-di-evacuati_f2e25781-6428-43a1-960c-48cbbbfc2779.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48995401/allarme-al-grand-canyon-oltre-20-dispersi-dopo-un-alluvione-lampo/"
       ]
     },
     {
-      "rank": 3,
+      "rank": 6,
+      "title": "L'Italia si spopola, nel 2080 oltre 13 milioni di residenti in meno",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/nel-2080-oltre-13-milioni-di-residenti-in-meno-in-italia_ed953163-8e25-4a22-ad2c-46fcd4057e5d.html",
+        "https://www.repubblica.it/cronaca/2026/08/31/news/istat_2050_coppie_senza_figli_supereranno_coppie_con_figli_nido_vuoto-425557219/",
+        "https://www.lastampa.it/cronaca/2026/08/31/news/denatalita_culle_vuote_italia_coppie_senza_figli-15726814/",
+        "https://www.adnkronos.com/cronaca/popolazione-istat-famiglie-senza-figli-allarme-demografico_6epwjg7Vl4eXoFgMoci433",
+        "https://www.ilmessaggero.it/italia/abitanti_italia_calo_istat_2080_numeri_anziani_cosa_cambia_single-9735179.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Nepal, si cercano 100 operai dispersi in una centrale idroelettrica",
+      "source_count": 4,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/videogallery/mondo/2026/08/31/nepal-bambina-salvata-dalle-macerie-dopo-due-giorni_277258e2-f546-4758-b6e1-fc9a4e65ee4a.html",
+        "https://www.ilmessaggero.it/mondo/nepal_soccorsi_dispersi_tunnel_ultime_notizie-9735220.html",
+        "https://www.liberoquotidiano.it/news/pillole/48996579/cina-corsa-contro-il-tempo-per-ripristinare-l-accesso-al-porto-di-gyirong/",
+        "https://www.liberoquotidiano.it/news/pillole/48996522/nepal_le_immagini_delle_devastazioni_dopo_le_inondazioni/",
+        "https://www.liberoquotidiano.it/news/tv-news/48996627/nepal-salvata-bambina-di-sei-anni-intrappolata-nel-fango/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Us Open, Djokovic shock, vomita in campo e perde con Navone, è subito fuori: “Ho un problema serio”",
       "source_count": 6,
       "article_count": 6,
@@ -66,27 +174,27 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 9,
       "title": "Di Battista ricoverato, il no al volo di Stato e l’arrivo dei due medici dall’Italia",
       "source_count": 5,
       "article_count": 7,
       "source_domains": [
+        "ilmessaggero.it",
         "adnkronos.com",
         "ansa.it",
         "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/persone/alessandro_di_battista_come_sta_diagnosi_trasportabilita_italia_ultime_notizie-9735514.html",
         "https://www.adnkronos.com/politica/alessandro-di-battista-ricoverato-cuba-scanzi-messaggio_10UqzgQagnueU6e202Uk8H",
         "https://www.ansa.it/sito/notizie/politica/2026/08/31/arrivati-allavana-la-compagna-di-di-battista-e-i-medici-del-gemelli_88a95efc-5ce7-4071-8fac-212ad2b2ed5b.html",
         "https://www.repubblica.it/politica/2026/08/31/news/alessandro_di_battista_ricoverato_no_volo_di_stato_arrivo_due_medici_italia-425556188/",
-        "https://www.repubblica.it/politica/2026/08/31/news/cuba_di_battista_ricovero_ospedale_hermanos_ameijeiras-425555774/",
-        "https://www.repubblica.it/commenti/2026/08/31/news/alessandro_di_battista_l_importante_e_partecipare-425555513/"
+        "https://www.repubblica.it/politica/2026/08/31/news/cuba_di_battista_ricovero_ospedale_hermanos_ameijeiras-425555774/"
       ]
     },
     {
-      "rank": 5,
+      "rank": 10,
       "title": "Dario Franceschini: \"Convivo con il Parkinson, è stata una botta tremenda\"",
       "source_count": 5,
       "article_count": 5,
@@ -103,106 +211,6 @@
         "https://www.repubblica.it/politica/2026/08/31/news/dario_franceschini_parkinson-425555933/",
         "https://www.ilsole24ore.com/art/franceschini-convivo-il-parkinson-e-stata-botta-tremenda-AJcIHFz",
         "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEeWVUeTdpenQwR21SanNpelV4SjJaUmY0Z001dFJhemhHd1doNklTZHNPcXNXc1JhUHdQNFRfN3VSeUMwVmw3b0ZIc21PQ0dYcVlmR2N5eWl1TDBiZWdQbDRidEFjVzVFVGVWRWdMRnBSYi1rc1JubldmOA?oc=5"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Migranti, l’Italia proroga la sospensione di Schengen con la Spagna per 15 giorni. E Madrid reagisce",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/litalia-proroga-la-sospensione-di-schengen-con-la-spagna-per-15-giorni.-madrid-reagisce_bf0f73fd-6df0-4787-83ca-bc09b91ef828.html",
-        "https://www.repubblica.it/politica/2026/08/31/news/meloni_conferma_blocco_schengen_madrid_altri_15_giorni_di_stop-425556471/",
-        "https://www.lastampa.it/politica/2026/08/31/news/ceuta_italia_spagna_governo_proroga_di_15_giorni_stop_a_schengen-15726537/",
-        "https://www.ilsole24ore.com/art/schengen-governo-decide-oggi-se-prolungare-controlli-la-spagna-AJSFvBz",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTm8zRUhVOUM3SlFJNU9BNGdpVmM1VWJ5dDVsM3p2Y2FIcXg1blBBMUJEOXJybmpRYXNReThWOVMyNzdYUkZtalhMMk1OOEd3bEpOU2wzRUctSTdyTUdkMGxHeFR3NWZqR3cwa01tMmFvSkNfaDloZlJRNGp2VDlhWnFR?oc=5"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Spari a Roma: trovati morti in casa a Pietralata padre, madre e figlia disabile. Ipotesi omicidio-suicidio",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "roma.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/padre-madre-e-figlia-di-5-anni-trovati-morti-a-roma.-ipotesi-omicidio-suicidio_8c68f9ce-53c9-47b6-bb89-fb425a5b2c06.html",
-        "https://www.ilfattoquotidiano.it/2026/08/31/omicidio-suicidio-pietralata-roma-notizie/8492929/",
-        "https://www.adnkronos.com/cronaca/spari-roma-omicidio-suicidio-pietralata-morti-padre-madre-figlia_3Sli7C6al9LaZWSflIJlKd",
-        "https://roma.repubblica.it/cronaca/2026/08/31/news/omicidio_suicidio_roma_tre_morti_pietralata_madre_padre_figlia-425556964/",
-        "https://www.lastampa.it/cronaca/2026/08/31/news/roma_famiglia_trovata_morta_ipotesi_omicidio_suicidio-15726649/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Report, assemblea dei giornalisti: “Il programma non esiste senza la squadra. Pronti allo sciopero”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/08/31/news/giornalisti_report_rai_sciopero_ranucci_nuovi_conduttori-425556728/",
-        "https://www.ilfattoquotidiano.it/2026/08/31/report-ranucci-assemblea-agitazione-sciopero-notizie/8492761/",
-        "https://www.liberoquotidiano.it/news/spettacoli/televisione/48995063/report-redazione-ammutina-stato-agitazione-pronti-sciopero/",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/31/lassemblea-dei-giornalisti-di-report-stato-di-agitazione-pronti-allo-sciopero_204d28d8-f272-416e-bf53-ebf71cbd7c9e.html",
-        "https://www.agi.it/cronaca/news/2026-08-31/ranucci-report-sciopero-38796534/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Grand Canyon, inondazione improvvisa: un morto, 15 escursionisti dispersi e decine di evacuati",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/31/inondazione-improvvisa-al-grand-canyon-un-morto-15-dispersi-e-decine-di-evacuati_f2e25781-6428-43a1-960c-48cbbbfc2779.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48995401/allarme-al-grand-canyon-oltre-20-dispersi-dopo-un-alluvione-lampo/",
-        "https://www.ilmessaggero.it/mondo/grand_canyon_inondazione_cosa_e_successo-9734844.html",
-        "https://www.repubblica.it/esteri/2026/08/31/news/grand_canyon_inondazione_escursionisti_dispersi-425555967/",
-        "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVE1WcUViQ1pmbjNIWW53amVEcmRfNi02S3ZnZV9TTlRsZ00tZjR5WEZOeFhMRW9GcVh0cXlpUzdhdHd4YVhJVzZCaTdfWGhFMHZQOEJjN0duWXJCYVdtVS1UOUhjQnBxZm1zdm5KT21uSVd3U0JFWTJwN2dUcFpJRk53?oc=5"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "A 16 anni uccide la mamma in casa a Roma, le botte e la telefonata al 112: la sera prima il giovane era stato ricoverato",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/roma/centocelle/uccide_mamma_centocelle_chi_e_cosa_e_successo_davvero_ragazzo_storia-9735168.html",
-        "https://www.liberoquotidiano.it/news/italia/48994296/roma-a-16-anni-ammazza-di-botte-la-mamma-venite-forse-e-morta-/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/sedicenne-picchia-la-madre-e-chiama-il-112-la-donna-muore-in-ospedale_c780cd29-0cea-409c-8f5e-ebea521995d7.html",
-        "https://www.lastampa.it/cronaca/2026/08/31/news/centocelle_sedicenne_picchia_la_madre_la_donna_muore_poco_dopo-15726456/",
-        "https://www.agi.it/cronaca/news/2026-08-31/uccide-botte-madre-38794837/"
       ]
     }
   ]
