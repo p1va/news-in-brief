@@ -1,58 +1,36 @@
 {
   "date": "2026-08-31",
-  "generated_at": "Mon 31 Aug 20:00",
+  "generated_at": "Mon 31 Aug 22:50",
   "stories": [
     {
       "rank": 1,
       "title": "Migranti, l’Italia proroga la sospensione di Schengen con la Spagna per 15 giorni. E Madrid reagisce",
-      "source_count": 8,
-      "article_count": 9,
+      "source_count": 9,
+      "article_count": 13,
       "source_domains": [
+        "ilmanifesto.it",
+        "ansa.it",
         "ilmessaggero.it",
         "liberoquotidiano.it",
         "laverita.info",
-        "ansa.it",
         "repubblica.it",
         "lastampa.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
-        "https://www.ilmessaggero.it/mondo/ceuta_scontro_italia_spagna_migranti_schengen_cosa_e_successo_cosa_cambia-9735492.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49002172/governo-decide-per-altri-15-giorni-di-stop-a-schengen-con-la-spagna/",
-        "https://www.laverita.info/cronache-dellinvasione/ceuta-piantedosi-schengen",
-        "https://www.laverita.info/cronache-dellinvasione/schengen-italia-spagna-proroga",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/litalia-proroga-la-sospensione-di-schengen-con-la-spagna-per-15-giorni.-madrid-reagisce_bf0f73fd-6df0-4787-83ca-bc09b91ef828.html"
+        "https://ilmanifesto.it/meloni-sfida-ancora-sanchez-prorogato-lo-stop-a-schengen",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/muro-contro-muro-tra-roma-e-madrid-schengen-resta-bloccato_bf0f73fd-6df0-4787-83ca-bc09b91ef828.html",
+        "https://www.ilmessaggero.it/politica/ceuta_schengen_tajani_sanchez_sapeva_proroga_ritorsione-9735652.html",
+        "https://www.ilmessaggero.it/politica/schengen_italia_spagna_nuovo_stop_quanto_dura_ceuta_perche-9735624.html",
+        "https://www.ilmessaggero.it/mondo/ceuta_scontro_italia_spagna_migranti_schengen_cosa_e_successo_cosa_cambia-9735492.html"
       ]
     },
     {
       "rank": 2,
-      "title": "Spari a Roma: trovati morti in casa a Pietralata padre, madre e figlia disabile. Ipotesi omicidio-suicidio",
-      "source_count": 8,
-      "article_count": 8,
-      "source_domains": [
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "roma.repubblica.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/roma/tiburtino/pietralata_famiglia_uccisa_figlia_disabile_madre_padre_cosa_e_successo-9735396.html",
-        "https://www.liberoquotidiano.it/news/italia/48997116/roma-tragedia-casa-padre-madre-figlia-morti-colpi-arma-fuoco-ipotesi-omicidio-suicidio/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/padre-madre-e-figlia-di-5-anni-trovati-morti-a-roma.-ipotesi-omicidio-suicidio_8c68f9ce-53c9-47b6-bb89-fb425a5b2c06.html",
-        "https://www.ilfattoquotidiano.it/2026/08/31/omicidio-suicidio-pietralata-roma-notizie/8492929/",
-        "https://www.adnkronos.com/cronaca/spari-roma-omicidio-suicidio-pietralata-morti-padre-madre-figlia_3Sli7C6al9LaZWSflIJlKd"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Arrestato l'uomo che ha sparato al rave in Svizzera e ucciso un'italiana",
-      "source_count": 7,
-      "article_count": 8,
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
@@ -60,6 +38,7 @@
         "ilfattoquotidiano.it",
         "repubblica.it",
         "lastampa.it",
+        "liberoquotidiano.it",
         "news.google.com"
       ],
       "links": [
@@ -71,24 +50,46 @@
       ]
     },
     {
+      "rank": 3,
+      "title": "Spari a Roma: trovati morti in casa a Pietralata padre, madre e figlia disabile. Ipotesi omicidio-suicidio",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "roma.repubblica.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/italia/48997116/roma-tragedia-casa-padre-madre-figlia-morti-colpi-arma-fuoco-ipotesi-omicidio-suicidio/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/08/31/padre-madre-e-figlia-di-5-anni-trovati-morti-a-roma.-ipotesi-omicidio-suicidio_8c68f9ce-53c9-47b6-bb89-fb425a5b2c06.html",
+        "https://www.ilfattoquotidiano.it/2026/08/31/omicidio-suicidio-pietralata-roma-notizie/8492929/",
+        "https://www.adnkronos.com/cronaca/spari-roma-omicidio-suicidio-pietralata-morti-padre-madre-figlia_3Sli7C6al9LaZWSflIJlKd",
+        "https://roma.repubblica.it/cronaca/2026/08/31/news/omicidio_suicidio_roma_tre_morti_pietralata_madre_padre_figlia-425556964/"
+      ]
+    },
+    {
       "rank": 4,
-      "title": "Usa-Iran, nuovi attacchi diretti dopo un mese di tregua",
+      "title": "Us Open, Djokovic shock, vomita in campo e perde con Navone, è subito fuori: “Ho un problema serio”",
       "source_count": 6,
       "article_count": 8,
       "source_domains": [
-        "laverita.info",
-        "ansa.it",
-        "repubblica.it",
+        "ilmessaggero.it",
         "liberoquotidiano.it",
+        "ansa.it",
         "lastampa.it",
+        "repubblica.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.laverita.info/video/mondo-video/iran-usa-missili",
-        "https://www.ansa.it/sito/notizie/mondo/2026/08/31/tornano-i-raid-usa-in-iran-attacco-su-larak.-teheran-prende-di-mira-le-basi_d6d9581a-b7ae-4731-b009-3307af788336.html",
-        "https://www.repubblica.it/esteri/2026/08/31/news/isola_larak_iran_usa_stretto_hormuz-425556417/",
-        "https://www.liberoquotidiano.it/news/libero-video/48994357/iran-tv-teheran-mostra-missili-lanciati-contro-basi-usa-in-giordania/",
-        "https://www.liberoquotidiano.it/news/tv-news/48994338/usa-iran-nuovi-attacchi-diretti-dopo-un-mese-di-tregua/"
+        "https://www.ilmessaggero.it/sport/tennis/djokovic_ritiro_cosa_succede_eliminato_us_open_vomito_crampi_infortuni-9735601.html",
+        "https://www.liberoquotidiano.it/news/sport/49003097/djokovic-vomito-us-open-problema-serio-sconvolge-mondo-tennis/",
+        "https://www.ansa.it/sito/notizie/sport/2026/08/31/novak-djokovic-shock-fuori-al-primo-turno-degli-us-open.-vomita-e-piange_924ad7e4-4e73-460b-838f-b238f6515153.html",
+        "https://www.liberoquotidiano.it/news/tv-news/48994795/djokovic-choc-agli-us-open-fuori-al-primo-turno/",
+        "https://www.ilmessaggero.it/sport/tennis/djokovic_us_open_vomito_inalatore_massaggio_schiena_le_lacrime_successo-9734861.html"
       ]
     },
     {
@@ -154,63 +155,63 @@
     },
     {
       "rank": 8,
-      "title": "Us Open, Djokovic shock, vomita in campo e perde con Navone, è subito fuori: “Ho un problema serio”",
+      "title": "Report, assemblea dei giornalisti: “Il programma non esiste senza la squadra. Pronti allo sciopero”",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it",
+        "ilmanifesto.it",
         "repubblica.it",
-        "news.google.com"
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/08/31/novak-djokovic-shock-fuori-al-primo-turno-degli-us-open.-vomita-e-piange_924ad7e4-4e73-460b-838f-b238f6515153.html",
-        "https://www.liberoquotidiano.it/news/tv-news/48994795/djokovic-choc-agli-us-open-fuori-al-primo-turno/",
-        "https://www.ilmessaggero.it/sport/tennis/djokovic_us_open_vomito_inalatore_massaggio_schiena_le_lacrime_successo-9734861.html",
-        "https://www.lastampa.it/sport/2026/08/31/video/us_open_djokovic_punto_eliminazione-15726476/",
-        "https://www.repubblica.it/sport/tennis/2026/08/31/news/us_open_djokovic_eliminato_da_navone-425556015/"
+        "https://ilmanifesto.it/la-redazione-di-report-in-agitazione-ma-la-trattativa-sul-futuro-e-apertissima",
+        "https://www.repubblica.it/politica/2026/08/31/news/giornalisti_report_rai_sciopero_ranucci_nuovi_conduttori-425556728/",
+        "https://www.ilfattoquotidiano.it/2026/08/31/report-ranucci-assemblea-agitazione-sciopero-notizie/8492761/",
+        "https://www.liberoquotidiano.it/news/spettacoli/televisione/48995063/report-redazione-ammutina-stato-agitazione-pronti-sciopero/",
+        "https://www.ansa.it/sito/notizie/politica/2026/08/31/lassemblea-dei-giornalisti-di-report-stato-di-agitazione-pronti-allo-sciopero_204d28d8-f272-416e-bf53-ebf71cbd7c9e.html"
       ]
     },
     {
       "rank": 9,
-      "title": "Di Battista ricoverato, il no al volo di Stato e l’arrivo dei due medici dall’Italia",
+      "title": "Tornano i venti di guerra nel Golfo. Trump: 'Colpiremo duro'",
       "source_count": 5,
       "article_count": 7,
       "source_domains": [
-        "ilmessaggero.it",
-        "adnkronos.com",
         "ansa.it",
+        "ilmessaggero.it",
+        "laverita.info",
         "repubblica.it",
-        "lastampa.it"
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/persone/alessandro_di_battista_come_sta_diagnosi_trasportabilita_italia_ultime_notizie-9735514.html",
-        "https://www.adnkronos.com/politica/alessandro-di-battista-ricoverato-cuba-scanzi-messaggio_10UqzgQagnueU6e202Uk8H",
-        "https://www.ansa.it/sito/notizie/politica/2026/08/31/arrivati-allavana-la-compagna-di-di-battista-e-i-medici-del-gemelli_88a95efc-5ce7-4071-8fac-212ad2b2ed5b.html",
-        "https://www.repubblica.it/politica/2026/08/31/news/alessandro_di_battista_ricoverato_no_volo_di_stato_arrivo_due_medici_italia-425556188/",
-        "https://www.repubblica.it/politica/2026/08/31/news/cuba_di_battista_ricovero_ospedale_hermanos_ameijeiras-425555774/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/31/tornano-i-venti-di-guerra-nel-golfo.-trump-colpiremo-duro_3414472a-14a8-4d17-a904-db7ebfb7e7a4.html",
+        "https://www.ilmessaggero.it/mondo/iran_bombardamenti_isola_di_larak_ultime_notizie-9735617.html",
+        "https://www.laverita.info/video/mondo-video/iran-usa-missili",
+        "https://www.ansa.it/sito/notizie/mondo/2026/08/31/tornano-i-raid-usa-in-iran-attacco-su-larak.-teheran-prende-di-mira-le-basi_d6d9581a-b7ae-4731-b009-3307af788336.html",
+        "https://www.repubblica.it/esteri/2026/08/31/news/isola_larak_iran_usa_stretto_hormuz-425556417/"
       ]
     },
     {
       "rank": 10,
-      "title": "Dario Franceschini: \"Convivo con il Parkinson, è stata una botta tremenda\"",
+      "title": "Guido De Maria è morto, addio al papà di SuperGulp!",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
-        "lastampa.it",
         "repubblica.it",
-        "ilsole24ore.com",
+        "lastampa.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/08/31/dario-franceschini-convivo-con-il-parkinson-e-stata-una-botta-tremenda_35b3837a-34ec-4555-acf3-8401e6ede204.html",
-        "https://www.lastampa.it/politica/2026/08/31/news/dario_franceschini_ho_il_morbo_di_parkinson_da_sei_anni_ai_malati_dico_non_isolatevi-15726364/",
-        "https://www.repubblica.it/politica/2026/08/31/news/dario_franceschini_parkinson-425555933/",
-        "https://www.ilsole24ore.com/art/franceschini-convivo-il-parkinson-e-stata-botta-tremenda-AJcIHFz",
-        "https://news.google.com/rss/articles/CBMie0FVX3lxTFBEeWVUeTdpenQwR21SanNpelV4SjJaUmY0Z001dFJhemhHd1doNklTZHNPcXNXc1JhUHdQNFRfN3VSeUMwVmw3b0ZIc21PQ0dYcVlmR2N5eWl1TDBiZWdQbDRidEFjVzVFVGVWRWdMRnBSYi1rc1JubldmOA?oc=5"
+        "https://ilmanifesto.it/guido-de-maria-quei-fumetti-di-unaltra-tv",
+        "https://www.ansa.it/sito/notizie/cultura/2026/08/31/e-morto-guido-de-maria-addio-al-papa-di-supergulp_3723d75a-6af8-45ba-8c09-e0aff4ad6a55.html",
+        "https://www.repubblica.it/spettacoli/tv-radio/2026/08/31/news/supergulp_da_nick_carter_a_alan_ford_quei_fumetti_in_tv_che_hanno_fatto_epoca-425556803/",
+        "https://bologna.repubblica.it/cronaca/2026/08/31/news/morto_guido_de_maria_addio_papa_supergulp-425556552/",
+        "https://www.lastampa.it/spettacoli/2026/08/31/news/tv_morto_guido_de_maria_ideo_supergulp_fumetti_in_tv-15726578/"
       ]
     }
   ]
