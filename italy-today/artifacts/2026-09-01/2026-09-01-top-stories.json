@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "generated_at": "Tue 01 Sep 19:54",
+  "generated_at": "Tue 01 Sep 21:03",
   "stories": [
     {
       "rank": 1,
@@ -27,32 +27,11 @@
     },
     {
       "rank": 2,
-      "title": "Violenta una 13enne nel minimarket, scarcerato: “Ha mostrato dispiacere”",
-      "source_count": 7,
+      "title": "È morto Enzo Bianchi, il monaco fondatore della comunità di Bose",
+      "source_count": 8,
       "article_count": 9,
       "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "torino.repubblica.it",
-        "liberoquotidiano.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/01/abusa-di-una-13enne-rilasciato-dopo-aver-manifestato-dispiacere_5e7d5326-eced-42be-b13f-c88265a8a0b7.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/01/mi-dispiace-il-giudice-lo-scarcera-dopo-larresto-per-molestie-a-13enne_5e7d5326-eced-42be-b13f-c88265a8a0b7.html",
-        "https://www.lastampa.it/torino/2026/09/01/news/violenta_13enne_minimarket_torino_nordio-15727604/",
-        "https://www.ilmessaggero.it/italia/violenta_ragazzina_minimarket_torino_pentito_libero_madonna_di_campagna-9737137.html",
-        "https://www.adnkronos.com/cronaca/torino-violenza-13enne-scarcerato-dispiacere_14t6hGU9yKaYbgg6aAJJdb"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "È morto Enzo Bianchi, il monaco fondatore della comunità di Bose",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
+        "laverita.info",
         "ansa.it",
         "torino.repubblica.it",
         "ilmessaggero.it",
@@ -62,15 +41,15 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.laverita.info/chiesa-e-fede/morte-enzo-bianchi-fondatore-bose",
         "https://www.ansa.it/vaticano/notizie/2026/09/01/e-morto-enzo-bianchi-il-monaco-fondatore-della-comunita-di-bose_80a282d8-c613-45a0-92b0-e54534d656fa.html",
         "https://torino.repubblica.it/cronaca/2026/09/01/news/morto_enzo_bianchi_comunita_bose_libri-425558510/",
         "https://www.ilmessaggero.it/vaticano/morto_enzo_bianchi_monaco-9736999.html",
-        "https://torino.repubblica.it/cronaca/2026/09/01/news/enzo_bianchi_morto_monaco_comunita_bose-425558353/",
-        "https://www.ilfattoquotidiano.it/2026/09/01/enzo-bianchi-morte-comunita-bose-notizie/8483216/"
+        "https://torino.repubblica.it/cronaca/2026/09/01/news/enzo_bianchi_morto_monaco_comunita_bose-425558353/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Via libera al ricongiungimento della famiglia nel bosco, ma a tappe",
       "source_count": 7,
       "article_count": 8,
@@ -92,7 +71,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Salvini, la sfida dei big: pronto il «comitato per il Congresso» per il ritorno della Lega Nord.",
       "source_count": 6,
       "article_count": 7,
@@ -113,23 +92,44 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Germania accusa: \"Attacco ibrido Lipsia responsabilità della Russia\"",
       "source_count": 5,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "repubblica.it",
         "ansa.it",
         "liberoquotidiano.it",
-        "repubblica.it",
         "ilmessaggero.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.repubblica.it/esteri/2026/09/01/news/berlino_chiude_casa_russa_centro_culturale_diventato_covo_spie_ecco_perche_decisione_arriva_adesso-425559551/",
         "https://www.ansa.it/sito/notizie/mondo/2026/09/01/berlino-accusa-mosca-per-i-droni-di-lipsia.-europa-e-nato-risponderemo_d5e0ef57-89b6-4937-b679-a8050d3a0077.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/09/01/berlino-la-russia-responsabile-dellattacco-ibrido-a-lipsia.-von-der-leyen-e-rutte_d5e0ef57-89b6-4937-b679-a8050d3a0077.html",
         "https://www.liberoquotidiano.it/news/tv-news/49014591/germania-accusa-attacco-ibrido-lipsia-responsabilita-della-russia-/",
-        "https://www.repubblica.it/esteri/2026/09/01/news/germania_lipsia_droni_russia_aeroporto-425559088/",
-        "https://www.ilmessaggero.it/mondo/droni_bomba_lipsia_russia_responsabile_cosa_sappiamo-9736840.html"
+        "https://www.repubblica.it/esteri/2026/09/01/news/germania_lipsia_droni_russia_aeroporto-425559088/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Abusa di una 13enne, rilasciato dopo aver manifestato 'dispiacere'",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "torino.repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/01/abusa-di-una-13enne-rilasciato-dopo-aver-manifestato-dispiacere_5e7d5326-eced-42be-b13f-c88265a8a0b7.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/01/mi-dispiace-il-giudice-lo-scarcera-dopo-larresto-per-molestie-a-13enne_5e7d5326-eced-42be-b13f-c88265a8a0b7.html",
+        "https://www.lastampa.it/torino/2026/09/01/news/violenta_13enne_minimarket_torino_nordio-15727604/",
+        "https://www.ilmessaggero.it/italia/violenta_ragazzina_minimarket_torino_pentito_libero_madonna_di_campagna-9737137.html",
+        "https://www.adnkronos.com/cronaca/torino-violenza-13enne-scarcerato-dispiacere_14t6hGU9yKaYbgg6aAJJdb"
       ]
     },
     {
