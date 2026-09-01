@@ -1,13 +1,14 @@
 {
   "date": "2026-09-01",
-  "generated_at": "Tue 01 Sep 21:03",
+  "generated_at": "Tue 01 Sep 22:36",
   "stories": [
     {
       "rank": 1,
       "title": "Mario Calabresi verso la candidatura a sindaco di Milano, lascia Chora Media. «Ora una strada nuova»",
-      "source_count": 8,
-      "article_count": 9,
+      "source_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "ilmanifesto.it",
         "laverita.info",
         "ansa.it",
         "ilmessaggero.it",
@@ -18,19 +19,20 @@
         "news.google.com"
       ],
       "links": [
+        "https://ilmanifesto.it/milano-la-mossa-di-calabresi-per-forzare-la-mano-al-pd",
         "https://www.laverita.info/politica-e-affari/calabresi-be-water-milano-sindaco",
         "https://www.ansa.it/sito/notizie/cronaca/2026/09/01/mario-calabresi-pronto-a-candidarsi-a-milano-voglio-percorrere-una-strada-nuova_47e45ca4-e1e3-4ea3-af4c-4dc9d4cab0fe.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/09/01/mario-calabresi-pronto-a-candidarsi-a-sindaco-di-milano_47e45ca4-e1e3-4ea3-af4c-4dc9d4cab0fe.html",
-        "https://www.ilmessaggero.it/politica/mario_calabresi_sindaco_milano_con_chi_si_candida_chora_media_dimissioni-9737218.html",
-        "https://www.liberoquotidiano.it/news/milano/49009754/mario-calabresi-candidatura-sindaco-milano--dimesso-incarichi-chora-media/"
+        "https://www.ilmessaggero.it/politica/mario_calabresi_sindaco_milano_con_chi_si_candida_chora_media_dimissioni-9737218.html"
       ]
     },
     {
       "rank": 2,
       "title": "È morto Enzo Bianchi, il monaco fondatore della comunità di Bose",
-      "source_count": 8,
-      "article_count": 9,
+      "source_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "ilmanifesto.it",
         "laverita.info",
         "ansa.it",
         "torino.repubblica.it",
@@ -41,15 +43,59 @@
         "news.google.com"
       ],
       "links": [
+        "https://ilmanifesto.it/addio-a-enzo-bianchi-fondatore-discusso",
         "https://www.laverita.info/chiesa-e-fede/morte-enzo-bianchi-fondatore-bose",
         "https://www.ansa.it/vaticano/notizie/2026/09/01/e-morto-enzo-bianchi-il-monaco-fondatore-della-comunita-di-bose_80a282d8-c613-45a0-92b0-e54534d656fa.html",
         "https://torino.repubblica.it/cronaca/2026/09/01/news/morto_enzo_bianchi_comunita_bose_libri-425558510/",
-        "https://www.ilmessaggero.it/vaticano/morto_enzo_bianchi_monaco-9736999.html",
-        "https://torino.repubblica.it/cronaca/2026/09/01/news/enzo_bianchi_morto_monaco_comunita_bose-425558353/"
+        "https://www.ilmessaggero.it/vaticano/morto_enzo_bianchi_monaco-9736999.html"
       ]
     },
     {
       "rank": 3,
+      "title": "Germania accusa: \"Attacco ibrido Lipsia responsabilità della Russia\"",
+      "source_count": 7,
+      "article_count": 12,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmanifesto.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/drone-russia-lipsia-germania-reazioni-ue-nato_4m5Zp9hDUcJZYyxkXCsxk1",
+        "https://ilmanifesto.it/laccusa-di-berlino-i-droni-a-lipsia-erano-russi-mosca-nega",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/01/berlino-attacca-mosca-per-i-droni-di-lipsia.-europa-e-nato-risponderemo_d5e0ef57-89b6-4937-b679-a8050d3a0077.html",
+        "https://www.ilmessaggero.it/mondo/guerra_ibrida_russia_germania_droni_lipsia_cosa_e_successo-9737606.html",
+        "https://www.repubblica.it/esteri/2026/09/01/news/berlino_chiude_casa_russa_centro_culturale_diventato_covo_spie_ecco_perche_decisione_arriva_adesso-425559551/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Abusa di una tredicenne, subito libero: «È dispiaciuto». Meloni accusa i giudici",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "torino.repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/libero-dopo-abusi-sessuali-nordio-manda-gli-ispettori",
+        "https://www.ilmessaggero.it/italia/abusa_tredicenne_subito_libero_dispiaciuto_meloni_accusa_giudici-9737639.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/01/abusa-di-una-13enne-rilasciato-dopo-aver-manifestato-dispiacere_5e7d5326-eced-42be-b13f-c88265a8a0b7.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/01/mi-dispiace-il-giudice-lo-scarcera-dopo-larresto-per-molestie-a-13enne_5e7d5326-eced-42be-b13f-c88265a8a0b7.html",
+        "https://www.lastampa.it/torino/2026/09/01/news/violenta_13enne_minimarket_torino_nordio-15727604/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Via libera al ricongiungimento della famiglia nel bosco, ma a tappe",
       "source_count": 7,
       "article_count": 8,
@@ -71,7 +117,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Salvini, la sfida dei big: pronto il «comitato per il Congresso» per il ritorno della Lega Nord.",
       "source_count": 6,
       "article_count": 7,
@@ -92,48 +138,46 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Germania accusa: \"Attacco ibrido Lipsia responsabilità della Russia\"",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/09/01/news/berlino_chiude_casa_russa_centro_culturale_diventato_covo_spie_ecco_perche_decisione_arriva_adesso-425559551/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/01/berlino-accusa-mosca-per-i-droni-di-lipsia.-europa-e-nato-risponderemo_d5e0ef57-89b6-4937-b679-a8050d3a0077.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/01/berlino-la-russia-responsabile-dellattacco-ibrido-a-lipsia.-von-der-leyen-e-rutte_d5e0ef57-89b6-4937-b679-a8050d3a0077.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49014591/germania-accusa-attacco-ibrido-lipsia-responsabilita-della-russia-/",
-        "https://www.repubblica.it/esteri/2026/09/01/news/germania_lipsia_droni_russia_aeroporto-425559088/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Abusa di una 13enne, rilasciato dopo aver manifestato 'dispiacere'",
+      "rank": 7,
+      "title": "Mosca sulla nomina di Fedorov al ministero della Difesa italiana: “Degna di una favola di Rodari”",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 6,
       "source_domains": [
-        "ansa.it",
-        "lastampa.it",
+        "ilmanifesto.it",
         "ilmessaggero.it",
-        "adnkronos.com",
-        "torino.repubblica.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/01/abusa-di-una-13enne-rilasciato-dopo-aver-manifestato-dispiacere_5e7d5326-eced-42be-b13f-c88265a8a0b7.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/01/mi-dispiace-il-giudice-lo-scarcera-dopo-larresto-per-molestie-a-13enne_5e7d5326-eced-42be-b13f-c88265a8a0b7.html",
-        "https://www.lastampa.it/torino/2026/09/01/news/violenta_13enne_minimarket_torino_nordio-15727604/",
-        "https://www.ilmessaggero.it/italia/violenta_ragazzina_minimarket_torino_pentito_libero_madonna_di_campagna-9737137.html",
-        "https://www.adnkronos.com/cronaca/torino-violenza-13enne-scarcerato-dispiacere_14t6hGU9yKaYbgg6aAJJdb"
+        "https://ilmanifesto.it/mosca-ridicoli-fedorov-e-litalia-lui-lancia-lazienda-tech-con-palantir",
+        "https://www.ilmessaggero.it/politica/fedorov_consulente_difesa_italia_attacchi_russia_gelo_zelensky_cosa_e_successo-9737579.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/01/mosca-ridicola-la-nomina-di-fedorov.-la-replica-di-crosetto-scelte-pensando-solo-a-roma_a64b9c57-9f79-46ed-9754-18236672f007.html",
+        "https://www.ilfattoquotidiano.it/2026/09/01/fedorov-consulente-difesa-italiana-mosca-crosetto-notizie/8493665/",
+        "https://www.repubblica.it/esteri/2026/09/01/news/mosca_ridicola_nomina_fedorov_ministero_difesa_italiana-425558178/"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
+      "title": "Incendio a Taormina, le immagini aeree del rogo",
+      "source_count": 3,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/49015755/incendio_al_conca_d_oro_di_palermo_intervenute_15_squadre_vvf_le_immagini/",
+        "https://www.liberoquotidiano.it/news/pillole/49011936/taormina-vasto-incendio-danneggia-serbatoio-dell-acquedotto-comunale/",
+        "https://www.liberoquotidiano.it/news/pillole/49011972/le_drammatiche_immagini_dell_incendio_che_ha_minacciato_taormina/",
+        "https://www.ansa.it/sito/videogallery/italia/2026/09/01/incendio-a-taormina-le-immagini-aeree-del-rogo_508ad306-cfaa-432c-bf6e-91c1e292e316.html",
+        "https://www.laverita.info/video/cronaca-video/incendio-taormina"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Uccide i due fratelli nel ristorante di famiglia e poi si toglie la vita nel Beneventano",
       "source_count": 6,
       "article_count": 6,
@@ -151,43 +195,6 @@
         "https://www.lastampa.it/cronaca/2026/09/01/news/sparatoria_apice_tre_morti_fratelli_benevento-15727610/",
         "https://www.ilmessaggero.it/italia/uccide_fratelli_apice_licciardi_ristorante_cosa_e_successo-9737120.html",
         "https://napoli.repubblica.it/cronaca/2026/09/01/news/uccide_i_due_fratelli_nel_ristorante_di_famiglia_e_poi_si_toglie_la_vita_nel_beneventano-425558715/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "In Nepal oltre 900 morti e 4.500 dispersi, si scava fra il fango",
-      "source_count": 4,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "laverita.info",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/01/oltre-mille-morti-in-nepal-e-tibet-almeno-4.400-i-dispersi_a85d4f7e-64e4-44dd-ab3d-7d31dbe394f9.html",
-        "https://www.liberoquotidiano.it/news/pillole/49010389/il-maltempo-rallenta-i-soccorsi-in-nepal-piu-di-mille-le-vittime/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/01/oltre-mille-morti-nelle-inondazioni-in-nepal-e-tibet.-fosse-comuni-per_a85d4f7e-64e4-44dd-ab3d-7d31dbe394f9.html",
-        "https://www.laverita.info/video/mondo-video/nepal-morti-inondazioni",
-        "https://www.liberoquotidiano.it/news/tv-news/49007147/in-nepal-oltre-900-morti-e-4-500-dispersi-si-scava-fra-il-fango/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Incendio a Taormina, le immagini aeree del rogo",
-      "source_count": 3,
-      "article_count": 8,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "laverita.info"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/pillole/49011936/taormina-vasto-incendio-danneggia-serbatoio-dell-acquedotto-comunale/",
-        "https://www.liberoquotidiano.it/news/pillole/49011972/le_drammatiche_immagini_dell_incendio_che_ha_minacciato_taormina/",
-        "https://www.ansa.it/sito/videogallery/italia/2026/09/01/incendio-a-taormina-le-immagini-aeree-del-rogo_508ad306-cfaa-432c-bf6e-91c1e292e316.html",
-        "https://www.laverita.info/video/cronaca-video/incendio-taormina",
-        "https://www.liberoquotidiano.it/news/pillole/49010783/incendio_al_centro_commerciale_conca_d_oro_di_palermo/"
       ]
     },
     {
