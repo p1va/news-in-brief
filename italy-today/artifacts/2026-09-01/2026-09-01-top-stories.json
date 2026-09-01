@@ -1,6 +1,6 @@
 {
   "date": "2026-09-01",
-  "generated_at": "Tue 01 Sep 11:30",
+  "generated_at": "Tue 01 Sep 16:26",
   "stories": [
     {
       "rank": 1,
@@ -26,16 +26,39 @@
     },
     {
       "rank": 2,
-      "title": "Famiglia nel bosco, dal tribunale ok al progressivo riavvicinamento dei bimbi: da ottobre pernotti in famiglia",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Mario Calabresi verso la candidatura a sindaco di Milano, lascia Chora Media. «Ora una strada nuova»",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/01/mario-calabresi-pronto-a-candidarsi-a-sindaco-di-milano_47e45ca4-e1e3-4ea3-af4c-4dc9d4cab0fe.html",
+        "https://www.ilmessaggero.it/politica/mario_calabresi_sindaco_milano_con_chi_si_candida_chora_media_dimissioni-9737218.html",
+        "https://www.liberoquotidiano.it/news/milano/49009754/mario-calabresi-candidatura-sindaco-milano--dimesso-incarichi-chora-media/",
+        "https://milano.repubblica.it/cronaca/2026/09/01/news/calabresi_verso_candidatura_sindaco_milano_dimette_incarichi_chora_media-425558586/",
+        "https://www.lastampa.it/politica/2026/09/01/news/mario_calabresi_pronto_a_candidarsi_sindaco_di_milano_si_e_dimesso_da_chora_media-15727478/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Via libera al ricongiungimento della famiglia nel bosco, ma a tappe",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
         "adnkronos.com",
         "ansa.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
         "ilmessaggero.it",
-        "lastampa.it"
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
         "https://www.adnkronos.com/cronaca/famiglia-nel-bosco-decisione-tribunale-riavvicinamento_3AA7spaTcxFWpAzx0ovQBZ",
@@ -46,7 +69,48 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Salvini, la sfida dei big: pronto il «comitato per il Congresso» per il ritorno della Lega Nord.",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/politica/lega-salvini-congresso-comitato-tempesta_14wKyweOck31bR1F3zFoOV",
+        "https://www.ansa.it/sito/notizie/politica/2026/09/01/gli-ex-rispolverano-la-lega-nord-nasce-il-comitato-per-il-congresso_646c3eeb-8590-471a-8d33-f1b7fb613384.html",
+        "https://www.ilmessaggero.it/politica/lega_nord_padania_sfida_salvini_zaia_romeo_fontana_chi_sono-9737054.html",
+        "https://www.repubblica.it/politica/2026/09/01/news/lega_nord_congresso_salvini_simbolo-425558560/",
+        "https://www.lastampa.it/politica/2026/09/01/news/tempesta_nella_carroccio_nasce_il_comitato_per_il_congresso_federale_della_lega_nord-15727483/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Violenta una 13enne nel minimarket, scarcerato: “Ha mostrato dispiacere”",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "lastampa.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "torino.repubblica.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/torino/2026/09/01/news/violenta_13enne_minimarket_torino_nordio-15727604/",
+        "https://www.ilmessaggero.it/italia/violenta_ragazzina_minimarket_torino_pentito_libero_madonna_di_campagna-9737137.html",
+        "https://www.adnkronos.com/cronaca/torino-violenza-13enne-scarcerato-dispiacere_14t6hGU9yKaYbgg6aAJJdb",
+        "https://torino.repubblica.it/cronaca/2026/09/01/news/violenza_sessuale_tredicenne_minimarket_madonna_campagna_scarcerato-425558083/",
+        "https://www.liberoquotidiano.it/news/migliori-video/49009005/violenta-bambina-giudice-generoso-scarcera/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "I prezzi dell'energia spingono l'inflazione, ad agosto sale al +3,3%",
       "source_count": 5,
       "article_count": 5,
@@ -66,128 +130,81 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Nepal, 933 operai dispersi dopo l’alluvione: esplosioni dei tunnel e soccorsi-fiume per salvare i superstiti",
+      "rank": 7,
+      "title": "Berrettini denuncia: “A Parigi minacce di morte alla mia famiglia dagli scommettitori”",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "ansa.it",
-        "laverita.info",
-        "lastampa.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/01/oltre-mille-morti-nelle-inondazioni-in-nepal-e-tibet.-fosse-comuni-per_a85d4f7e-64e4-44dd-ab3d-7d31dbe394f9.html",
-        "https://www.laverita.info/video/mondo-video/nepal-morti-inondazioni",
-        "https://www.lastampa.it/esteri/2026/09/01/video/il_drone_termico_nel_buio_del_tunnel_la_ricerca_dei_93_lavoratori_dispersi_in_nepal-15727383/",
-        "https://ilmanifesto.it/in-nepal-si-scava-ancora-639-operai-intrappolati",
-        "https://www.ilmessaggero.it/mondo/nepal_soccorsi_dispersi_tunnel_ultime_notizie-9735220.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Salvini, la sfida dei big: pronto il «comitato per il Congresso» per il ritorno della Lega Nord.",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
         "ilmessaggero.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/politica/lega-salvini-congresso-comitato-tempesta_14wKyweOck31bR1F3zFoOV",
-        "https://www.ansa.it/sito/notizie/politica/2026/09/01/gli-ex-rispolverano-la-lega-nord-nasce-il-comitato-per-il-congresso_646c3eeb-8590-471a-8d33-f1b7fb613384.html",
-        "https://www.ilmessaggero.it/politica/lega_nord_padania_sfida_salvini_zaia_romeo_fontana_chi_sono-9737054.html",
-        "https://www.repubblica.it/politica/2026/09/01/news/lega_nord_congresso_salvini_simbolo-425558560/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Il rientro di Di Battista in Italia previsto per giovedì",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/09/01/il-rientro-di-di-battista-in-italia-previsto-per-giovedi-_523d6f03-14e5-430d-bfec-eca59ef1ed5b.html",
-        "https://www.ilmessaggero.it/persone/di_battista_ricoverato_cosa_ha_torna_in_italia_condizioni_news-9736735.html",
-        "https://www.lastampa.it/cronaca/2026/09/01/news/di_battista_cuba_rientro_italia_ultime_notizie-15727241/",
-        "https://www.repubblica.it/politica/2026/09/01/news/alessandro_di_battista_cuba_ricoverato-425557862/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Notte di attacchi russi in Ucraina, colpita Kiev, almeno 12 morti",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/videogallery/mondo/2026/09/01/missili-e-droni-russi-sulla-regione-di-odessa-a-fuoco-diverse-strutture_fcfb773e-9db0-4abb-a052-2c2ba89640d0.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49006125/notte-di-attacchi-russi-in-ucraina-colpita-kiev-almeno-12-morti/",
-        "https://www.repubblica.it/esteri/2026/09/01/diretta/guerra_ucraina_russia_news_oggi-425557870/",
-        "https://www.lastampa.it/esteri/2026/09/01/diretta/guerra_russia_ucraina_news_oggi-15727132/"
+        "https://www.ilmessaggero.it/sport/tennis/berrettini_minacciato_scommettitori_cosa_e_successo_us_open-9737155.html",
+        "https://www.ansa.it/sito/notizie/sport/2026/09/01/us-open-la-denuncia-di-berrettini-minacce-di-morte-dagli-scommettitori_8e5ce702-0099-486c-9113-4bcbaef9e952.html",
+        "https://www.liberoquotidiano.it/news/sport/49009758/matteo-berrettini-orrore-privato-fallo-uccidiamo-famiglia/",
+        "https://www.lastampa.it/sport/2026/09/01/news/tennis_scommesse_berrettini_denuncia_minacce_morte_mia_famiglia_caso_lucrezia_stefanini-15727465/",
+        "https://www.repubblica.it/sport/dossier/us-open-tennis/2026/09/01/news/berrettini_minacce_morte_scommettitori-425558159/"
       ]
     },
     {
       "rank": 8,
-      "title": "Governo decide per altri 15 giorni di stop a Schengen con la Spagna",
+      "title": "In Nepal oltre 900 morti e 4.500 dispersi, si scava fra il fango",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 6,
       "source_domains": [
+        "liberoquotidiano.it",
         "ansa.it",
-        "lastampa.it",
-        "ilmanifesto.it",
-        "liberoquotidiano.it"
+        "laverita.info",
+        "ilmanifesto.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/09/01/prime-pagine-botta-e-risposta-tra-roma-e-madrid-schengen-ancora-bloccato_5e7a9800-4e91-4055-85f0-27648b223260.html",
-        "https://www.lastampa.it/politica/2026/09/01/news/migranti_meloni_tentata_dallo_stop_a_oltranza_per_arginare_il_pressing_ue_sui_rimpatri-15727156/",
-        "https://ilmanifesto.it/meloni-sfida-ancora-sanchez-prorogato-lo-stop-a-schengen",
-        "https://www.liberoquotidiano.it/news/tv-news/49002172/governo-decide-per-altri-15-giorni-di-stop-a-schengen-con-la-spagna/"
+        "https://www.liberoquotidiano.it/news/pillole/49010389/il-maltempo-rallenta-i-soccorsi-in-nepal-piu-di-mille-le-vittime/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/01/oltre-mille-morti-nelle-inondazioni-in-nepal-e-tibet.-fosse-comuni-per_a85d4f7e-64e4-44dd-ab3d-7d31dbe394f9.html",
+        "https://www.laverita.info/video/mondo-video/nepal-morti-inondazioni",
+        "https://www.liberoquotidiano.it/news/tv-news/49007147/in-nepal-oltre-900-morti-e-4-500-dispersi-si-scava-fra-il-fango/",
+        "https://www.liberoquotidiano.it/news/libero-video/49005839/nepal-la-devastazione-a-nuwakot-proseguono-i-soccorsi/"
       ]
     },
     {
       "rank": 9,
+      "title": "Uccide i due fratelli nel ristorante di famiglia e poi si toglie la vita nel Beneventano",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "napoli.repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/italia/49010928/benevento-uccide-due-fratelli-toglie-vita-indaga-movente/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/01/uccide-i-due-fratelli-e-poi-si-toglie-la-vita-nel-ristorante-di-famiglia_0d5403fb-9101-4b87-8336-b1a65fadbc27.html",
+        "https://www.lastampa.it/cronaca/2026/09/01/news/sparatoria_apice_tre_morti_fratelli_benevento-15727610/",
+        "https://www.ilmessaggero.it/italia/uccide_fratelli_apice_licciardi_ristorante_cosa_e_successo-9737120.html",
+        "https://napoli.repubblica.it/cronaca/2026/09/01/news/uccide_i_due_fratelli_nel_ristorante_di_famiglia_e_poi_si_toglie_la_vita_nel_beneventano-425558715/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Mosca: “Ridicola la nomina di Fedorov al ministero della Difesa italiano”. E cita Gianni Rodari. Crosetto replica: “Scelto pensando a Roma, non a Mosca o Kiev”",
-      "source_count": 3,
-      "article_count": 4,
+      "source_count": 4,
+      "article_count": 5,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ansa.it",
+        "repubblica.it",
         "ilsole24ore.com"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/09/01/gianni-rodari-zakharova-russia-cipollino-notizie/8493711/",
         "https://www.ansa.it/sito/notizie/mondo/2026/09/01/mosca-ridicola-la-nomina-di-fedorov.-la-replica-di-crosetto-scelte-pensando-solo-a-roma_a64b9c57-9f79-46ed-9754-18236672f007.html",
         "https://www.ilfattoquotidiano.it/2026/09/01/fedorov-consulente-difesa-italiana-mosca-crosetto-notizie/8493665/",
+        "https://www.repubblica.it/esteri/2026/09/01/news/mosca_ridicola_nomina_fedorov_ministero_difesa_italiana-425558178/",
         "https://www.ilsole24ore.com/art/su-fedorov-consulente-difesa-e-lite-crosetto-zakharova-l-italia-decide-sola-AJdPuJ0"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Mario Calabresi verso la candidatura a sindaco di Milano, si è dimesso da “Chora media”",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "milano.repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://milano.repubblica.it/cronaca/2026/09/01/news/calabresi_verso_candidatura_sindaco_milano_dimette_incarichi_chora_media-425558586/",
-        "https://www.lastampa.it/politica/2026/09/01/news/mario_calabresi_pronto_a_candidarsi_sindaco_di_milano_si_e_dimesso_da_chora_media-15727478/",
-        "https://www.ilsole24ore.com/art/mario-calabresi-la-candidatura-sindaco-milano-AJJu2O0"
       ]
     }
   ]
