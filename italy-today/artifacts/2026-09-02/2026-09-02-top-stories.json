@@ -1,13 +1,14 @@
 {
   "date": "2026-09-02",
-  "generated_at": "Wed 02 Sep 21:02",
+  "generated_at": "Wed 02 Sep 22:35",
   "stories": [
     {
       "rank": 1,
       "title": "Il Veneto approva il fine vita, è la prima regione di centrodestra",
-      "source_count": 9,
-      "article_count": 11,
+      "source_count": 10,
+      "article_count": 12,
       "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
         "repubblica.it",
         "liberoquotidiano.it",
@@ -19,81 +20,63 @@
         "news.google.com"
       ],
       "links": [
+        "https://ilmanifesto.it/il-veneto-approva-il-fine-vita-meloni-teme-il-voto-cattolico",
         "https://www.ansa.it/sito/notizie/cronaca/2026/09/02/il-veneto-approva-il-fine-vita-e-la-prima-regione-di-centrodestra_ca518124-8cde-4d24-a158-c7fc1a0b6f95.html",
         "https://www.repubblica.it/cronaca/2026/09/02/news/suicidio_assistito_legge_regionale_veneto__patriarca_venezia_commento-425561118/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/49022785/il-veneto-approva-la-legge-sul-fine-vita-zaia-una-risposta-doverosa-/",
-        "https://www.laverita.info/famiglia-e-pro-vita/regione-veneto-approva-fine-vita",
-        "https://www.ilfattoquotidiano.it/2026/09/02/legge-fine-vita-veneto-centrodestra-notizie/8495099/"
+        "https://www.laverita.info/famiglia-e-pro-vita/regione-veneto-approva-fine-vita"
       ]
     },
     {
       "rank": 2,
-      "title": "Mostra di Venezia, Clooney riceve il Leone d'oro alla carriera: \"L'arte non ferma le guerre ma è antidoto contro la paura\"",
-      "source_count": 5,
-      "article_count": 12,
+      "title": "Ue, Tajani \"Non escludo tentativi Russia di interferire in elezioni\"",
+      "source_count": 7,
+      "article_count": 11,
       "source_domains": [
-        "repubblica.it",
-        "ansa.it",
         "adnkronos.com",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/spettacoli/dossier/mostra-del-cinema-di-venezia/2026/09/02/news/george_clooney_mostra_venezia_trump_leone_d_oro-425561502/",
-        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/02/george-clooney-leone-doro-alla-carriera-nessuno-ride-o-piange-in-lingue_ee4cd039-5c58-4f0e-80de-134818231c39.html",
-        "https://www.adnkronos.com/spettacoli/mostra-venezia-clooney-leone-carriera_3DKM26VUNnoT0vJBijZAHX",
-        "https://www.liberoquotidiano.it/news/tv-news/49022934/venezia-l-arrivo-di-clooney-e-amal-in-barca-prima-del-red-carpet/",
-        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/02/mostra-del-cinema-di-venezia-clooney-usa-guidati-da-persone-incapaci-con_7b286a06-d603-46e3-9d43-64a6604572a6.html"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Tajani: 'Possibili tentativi d'influenze russe sul voto in Italia'",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
         "ilmessaggero.it",
+        "ansa.it",
         "lastampa.it",
         "liberoquotidiano.it",
         "repubblica.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.adnkronos.com/internazionale/esteri/russia-guerra-ibrida-italia-elezioni_4jdIGt5f9oexQJeWXrrBNy",
+        "https://www.ilmessaggero.it/politica/guerra_ibrida_russa_effetti_italia_report_007_rapporto_fimi_voto_elezioni-9739681.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/09/02/allarme-di-tajani-sulle-ingerenze-sul-voto-salvini-contro-lansia-antirussa_b5b916b3-ef32-4b43-8a37-f308d89e2059.html",
         "https://www.ilmessaggero.it/politica/guerra_ibrida_allarme_tajani_russia_influenza_elezioni_italia_salvini_cosa_ha_detto-9739591.html",
-        "https://www.lastampa.it/politica/2026/09/02/news/tajani_mosca_provera_a_condizionare_il_voto_in_italia_salvini_frena_c_e_un_ansia_anti-russa-15728543/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/02/tajani-possibili-tentativi-dinfluenze-russe-sul-voto-in-italia_b5b916b3-ef32-4b43-8a37-f308d89e2059.html",
-        "https://www.liberoquotidiano.it/news/pillole/49018316/ue_tajani_non_escludo_tentativi_russia_di_interferire_in_elezioni_/"
+        "https://www.lastampa.it/politica/2026/09/02/news/tajani_mosca_provera_a_condizionare_il_voto_in_italia_salvini_frena_c_e_un_ansia_anti-russa-15728543/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Mostra di Venezia, Clooney riceve il Leone d'oro alla carriera: \"L'arte non ferma le guerre ma è antidoto contro la paura\"",
+      "source_count": 5,
+      "article_count": 13,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/photogallery/spettacolo/2026/09/02/venezia83-si-apre-il-festival-george-clooney-mattatore_845b4021-b31e-4bd7-9458-196223c3b1a7.html",
+        "https://www.repubblica.it/spettacoli/dossier/mostra-del-cinema-di-venezia/2026/09/02/news/george_clooney_mostra_venezia_trump_leone_d_oro-425561502/",
+        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/02/george-clooney-leone-doro-alla-carriera-nessuno-ride-o-piange-in-lingue_ee4cd039-5c58-4f0e-80de-134818231c39.html",
+        "https://www.adnkronos.com/spettacoli/mostra-venezia-clooney-leone-carriera_3DKM26VUNnoT0vJBijZAHX",
+        "https://www.liberoquotidiano.it/news/tv-news/49022934/venezia-l-arrivo-di-clooney-e-amal-in-barca-prima-del-red-carpet/"
       ]
     },
     {
       "rank": 4,
-      "title": "Berlino accusa Putin per i droni di Lipsia. Ue-Nato, 'risponderemo'",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilmanifesto.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/droni-esplosivi-a-lipsia-ischinger-se-e-un-atto-di-guerra-chiamiamolo-atto-di-guerra_60NrB6kNZlJR2niyXxudS4",
-        "https://www.ilmessaggero.it/mondo/lipsia_droni_sospetti_arrestati_cosa_accade_von_der_leyen_europa_che_fa-9739207.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49021078/von-der-leyen-attacco-russo-a-lipsia-segna-escalation-non-lo-tollereremo/",
-        "https://www.ansa.it/sito/podcast/in_diretta_dal_mondo/2026/09/02/berlino-accusa-putin-per-i-droni-di-lipsia.-ue-nato-risponderemo_0a701f28-67f9-4e58-b690-b282e203e4f8.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/09/02/prime-pagine-berlino-accusa-putin-per-i-droni-di-lipsia.-ue-nato-risponderemo_1b853e1b-ea83-4bce-a79e-69bc18ec68ef.html"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Report, passo indietro di Giulia Presutti: “Rinuncio alla conduzione per amore del programma”",
-      "source_count": 6,
-      "article_count": 6,
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
+        "ilmanifesto.it",
+        "ilmessaggero.it",
         "adnkronos.com",
         "laverita.info",
         "ilfattoquotidiano.it",
@@ -102,15 +85,15 @@
         "agi.it"
       ],
       "links": [
+        "https://ilmanifesto.it/il-passo-indietro-di-presutti-a-report-e-il-giorno-della-verita",
+        "https://www.ilmessaggero.it/politica/report_presutti_rinuncia_perche_pressioni_redazione_cosa_e_successo-9739732.html",
         "https://www.adnkronos.com/politica/report-presutti-conduzione-rinuncia_4kEKjbkmN2hLEuZj67k0nr",
         "https://www.laverita.info/televisione/giulia-presutti-rinuncia-report",
-        "https://www.ilfattoquotidiano.it/2026/09/02/report-presutti-rinuncia-conduzione-notizie/8495292/",
-        "https://www.repubblica.it/politica/2026/09/02/news/presutti_report_rinuncia_conduzione-425561526/",
-        "https://www.ilsole24ore.com/art/report-giulia-presutti-corsini-faccio-passo-indietro-AJeg7u1"
+        "https://www.ilfattoquotidiano.it/2026/09/02/report-presutti-rinuncia-conduzione-notizie/8495292/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Giochi Mediterraneo, Fantini “Oro emozionante, gareggiare in casa sempre bello\"",
       "source_count": 2,
       "article_count": 9,
@@ -127,7 +110,65 @@
       ]
     },
     {
+      "rank": 6,
+      "title": "Berlino accusa Putin per i droni di Lipsia. Ue-Nato, 'risponderemo'",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilmanifesto.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/la-germania-accusa-mosca-reagisce-cosi-distruggete-i-rapporti",
+        "https://www.adnkronos.com/internazionale/esteri/droni-esplosivi-a-lipsia-ischinger-se-e-un-atto-di-guerra-chiamiamolo-atto-di-guerra_60NrB6kNZlJR2niyXxudS4",
+        "https://www.ilmessaggero.it/mondo/lipsia_droni_sospetti_arrestati_cosa_accade_von_der_leyen_europa_che_fa-9739207.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49021078/von-der-leyen-attacco-russo-a-lipsia-segna-escalation-non-lo-tollereremo/",
+        "https://www.ansa.it/sito/podcast/in_diretta_dal_mondo/2026/09/02/berlino-accusa-putin-per-i-droni-di-lipsia.-ue-nato-risponderemo_0a701f28-67f9-4e58-b690-b282e203e4f8.html"
+      ]
+    },
+    {
       "rank": 7,
+      "title": "Europei pallavolo, è super Italia: Svezia ko e azzurre in semifinale",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/09/02/europei-di-volley-litalia-soffre-con-la-svezia-ma-e-in-semifinale_954b07fe-7ae3-4c56-841a-b3ad4f404adf.html",
+        "https://www.repubblica.it/sport/volley/2026/09/02/news/volley_italia_svezia_semifinale-425561680/",
+        "https://www.adnkronos.com/sport/europei-pallavolo-super-italia-svezia-battuta-azzurre-semifinale_5KSPPxbopIWg0U1Aw65hVP",
+        "https://www.ansa.it/sito/notizie/sport/2026/09/02/eurovolley-3-1-alla-svezia-le-azzurre-sono-in-semifinale_954b07fe-7ae3-4c56-841a-b3ad4f404adf.html",
+        "https://www.ilmessaggero.it/sport/schede/italvolley_europei_quando_gioca_semifinale_data_orario_dove_vederla_in_chiaro-9739633.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Ausilio lascia l'Inter con effetto immediato, non c'è accordo per il rinnovo: risoluzione consensuale, cosa è successo e i possibili sostituti",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/49025683/marotta-ausilio-tanti-ringraziamenti-e-stata-separazione-amichevole-/",
+        "https://www.ilmessaggero.it/sport/schede/dario_baccin_chi_e_inter_nuovo_direttore_sportivo_sostituto_ausilio_eta_carriera-9739381.html",
+        "https://www.ilmessaggero.it/sport/calcio/ausilio_inter_addio_non_rinnova_cosa_e_successo_possibili_sostituti-9739203.html",
+        "https://www.repubblica.it/sport/calcio/serie-a/inter/2026/09/02/news/ausilio_lascia_inter_subito-425560536/",
+        "https://www.adnkronos.com/sport/ausilio-inter-addio-choc-28-anni-cosa-succede-ora_us6SUMf8l6CihqM6DpiIB"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "L’offerta della Rai alla redazione: per Report più volti e autori",
       "source_count": 4,
       "article_count": 5,
@@ -146,26 +187,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Europei pallavolo, è super Italia: Svezia ko e azzurre in semifinale",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/09/02/europei-di-volley-litalia-soffre-con-la-svezia-ma-e-in-semifinale_954b07fe-7ae3-4c56-841a-b3ad4f404adf.html",
-        "https://www.adnkronos.com/sport/europei-pallavolo-super-italia-svezia-battuta-azzurre-semifinale_5KSPPxbopIWg0U1Aw65hVP",
-        "https://www.ansa.it/sito/notizie/sport/2026/09/02/eurovolley-3-1-alla-svezia-le-azzurre-sono-in-semifinale_954b07fe-7ae3-4c56-841a-b3ad4f404adf.html",
-        "https://www.ilmessaggero.it/sport/schede/italvolley_europei_quando_gioca_semifinale_data_orario_dove_vederla_in_chiaro-9739633.html",
-        "https://www.repubblica.it/sport/volley/2026/09/02/diretta/italia_svezia_volley_diretta_quarti_europei-425561058/"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "Di Battista sui social: «Mi sento meglio. Partirò venerdì con un’aeroambulanza»",
       "source_count": 4,
       "article_count": 4,
@@ -180,23 +202,6 @@
         "https://www.ilmessaggero.it/persone/di_battista_torna_italia_quando-9737649.html",
         "https://www.ilsole24ore.com/art/di-battista-social-mi-sento-meglio-partiro-venerdi-un-aeroambulanza-AJ2ZNC1",
         "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdWhDZ0NCSWVBN0dLRlp5MS1jei05dWtGRGJfa0w2UFVXMmFjVHZJeXVTbF9ZcG5NcTBGeG5TSl84QWdVVFI5Nl9rYUIyM0h6YmxrUEtJYU9TVmtfbUdCNWlaVURHUFVUUElXcUN2c0NBNV9LaWZmVWl1aS0zeFQ5bjhWVVc?oc=5"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Tg Sport - 2/9/2026",
-      "source_count": 2,
-      "article_count": 6,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/pillole/49022547/tg-news---2-9-2026/",
-        "https://www.liberoquotidiano.it/news/pillole/49022187/tg-economia---2-9-2026/",
-        "https://www.liberoquotidiano.it/news/pillole/49021533/tg-sport---2-9-2026/",
-        "https://www.liberoquotidiano.it/news/pillole/49021328/cinema_spettacoli_magazine_-_2_9_2026/",
-        "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jQ2h2dnJmeDFKWVkydU95ZHYzM240TGtHeHBZRm5vdG00V015VkRWZlFvVTNDV0R3X2JxREIxTFFOV0lGOGJlRUtUMDdMeENkRGhoVV9mX1RkRXctRWxPUjNfdDNMU3VC?oc=5"
       ]
     }
   ]
