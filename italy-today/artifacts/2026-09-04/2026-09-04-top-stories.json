@@ -1,29 +1,69 @@
 {
   "date": "2026-09-04",
-  "generated_at": "Fri 04 Sep 11:03",
+  "generated_at": "Fri 04 Sep 15:00",
   "stories": [
     {
       "rank": 1,
-      "title": "La procura militare indaga su Vannacci dopo la denuncia del sindacato: “Forze armate nel partito”",
+      "title": "Lorena Isceri, 3 telefonate dal bagagliaio prima di essere gettata dal cavalcavia: «Federico mi vuole uccidere»",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 9,
       "source_domains": [
-        "laverita.info",
-        "ansa.it",
-        "lastampa.it",
-        "roma.repubblica.it",
-        "ilsole24ore.com"
+        "ilmessaggero.it",
+        "firenze.repubblica.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.laverita.info/politica-e-affari/indagine-militari-vannacci",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/09/04/prime-pagine-la-procura-militare-apre-unindagine-sui-militari-che-hanno_8e8a6898-db14-4847-ae5a-3ab2f99e8dfd.html",
-        "https://www.lastampa.it/politica/2026/09/04/news/la_divisa_usata_per_fare_propaganda_indagini_sui_militari_nel_partito_di_vannacci-15729650/",
-        "https://roma.repubblica.it/cronaca/2026/09/03/news/vannacci_futuro_nazionale_partito_fascista_indagine_procura_militare-425563046/",
-        "https://www.ilsole24ore.com/art/ricostituzione-partito-fascista-procura-militare-avvia-indagine-vannacci-AJfRHZ2"
+        "https://www.ilmessaggero.it/italia/lorena_uccisa_cosa_non_torna_federico_vella_cosa_ha_fatto_pianificazione_delitto-9743413.html",
+        "https://firenze.repubblica.it/cronaca/2026/09/04/news/madre_lorena_isceri_rapita_uccisa_ex_compagno_barberino_mugello-425564960/",
+        "https://www.ilmessaggero.it/italia/lorena_isceri_paura_federico_vella_perche_non_ha_denunciato-9743315.html",
+        "https://www.ilfattoquotidiano.it/2026/09/04/federico-mi-ha-rapita-vuole-uccidermi-le-tre-telefonate-di-lorena-isceri-dal-bagagliaio-dellauto-i-20-minuti-in-linea-con-la-polizia/8496561/",
+        "https://www.liberoquotidiano.it/news/italia/49038970/lorena-isceri-telefonate-bagagliaio-prima-essere-uccisa/"
       ]
     },
     {
       "rank": 2,
+      "title": "Estratti vivi due operai intrappolati nei tunnel in Nepal",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "laverita.info",
+        "ansa.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.laverita.info/video/mondo-video/nepal-soccorsi",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/04/estratti-vivi-due-operai-intrappolati-nei-tunnel-in-nepal_a1104897-2cf6-4ad8-88ae-80761da3828e.html",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/09/04/nepal-estratti-vivi-due-operai-intrappolati-nei-tunnel_af8788a0-2329-4f2a-a966-723b716ca651.html",
+        "https://www.lastampa.it/esteri/2026/09/04/news/nepal_alluvione_salvati_due_uomini-15730138/",
+        "https://www.liberoquotidiano.it/news/tv-news/49039321/alluvione-in-nepal-due-operai-tratti-in-salvo-da-una-galleria/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "La mattanza di Finale Ligure nei biglietti scritti da Daniele Baruzzo, che ha ucciso moglie e figlio",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "lastampa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "genova.repubblica.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/savona/2026/09/04/news/omicidio_finale_ligure_biglietti_daniele_baruzzo_ricostruzione-15730311/",
+        "https://www.adnkronos.com/cronaca/omicidio-suicidio-finale-ligure-biglietto-allarme-cosa-sappiamo_54I5hzofUH5FRKZQmhX620",
+        "https://www.ilfattoquotidiano.it/2026/09/04/strage-finale-ligure-biglietti-baruzzo-notizie/8496621/",
+        "https://genova.repubblica.it/cronaca/2026/09/04/news/finale_ligure_daniele_baruzzo_mattia_paola_siri_inchiesta_biglietti-425563936/",
+        "https://www.lastampa.it/savona/2026/09/04/news/finale_ligure_uccide_moglie_e_figlio_la_verita_nel_biglietto_d_addio-15729617/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Farage nella bufera. «Discuteva di finanziamenti illeciti al suo partito». I video dalle telecamere nascoste",
       "source_count": 5,
       "article_count": 5,
@@ -43,108 +83,74 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "La mattanza di Finale Ligure nei biglietti scritti da Daniele Baruzzo, che ha ucciso moglie e figlio",
+      "rank": 5,
+      "title": "L'Argentina di Milei torna a spingere sulle Malvinas. La risposta Uk: \"Le Falkland sono e saranno britanniche\"",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
         "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "genova.repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/omicidio-suicidio-finale-ligure-biglietto-allarme-cosa-sappiamo_54I5hzofUH5FRKZQmhX620",
-        "https://www.ilfattoquotidiano.it/2026/09/04/strage-finale-ligure-biglietti-baruzzo-notizie/8496621/",
-        "https://genova.repubblica.it/cronaca/2026/09/04/news/finale_ligure_daniele_baruzzo_mattia_paola_siri_inchiesta_biglietti-425563936/",
-        "https://www.lastampa.it/savona/2026/09/04/news/finale_ligure_uccide_moglie_e_figlio_la_verita_nel_biglietto_d_addio-15729617/",
-        "https://www.ilmessaggero.it/italia/finale_ligure_padre_uccide_figlio_moglie_crociera-9741856.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Estratti vivi due operai intrappolati nei tunnel in Nepal",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
         "liberoquotidiano.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/04/estratti-vivi-due-operai-intrappolati-nei-tunnel-in-nepal_a1104897-2cf6-4ad8-88ae-80761da3828e.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/09/04/nepal-estratti-vivi-due-operai-intrappolati-nei-tunnel_af8788a0-2329-4f2a-a966-723b716ca651.html",
-        "https://www.lastampa.it/esteri/2026/09/04/news/nepal_alluvione_salvati_due_uomini-15730138/",
-        "https://www.liberoquotidiano.it/news/tv-news/49039321/alluvione-in-nepal-due-operai-tratti-in-salvo-da-una-galleria/",
-        "https://www.liberoquotidiano.it/news/libero-video/49037104/nepal-due-operai-intrappolati-vivi-in-un-tunnel/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "La festa per il governo e Meloni unica protagonista",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilmanifesto.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/04/governo-meloni-quattro-anni-opinione-notizie/8496466/",
-        "https://www.lastampa.it/rubriche/l-oblo/2026/09/04/audio/la_festa_per_il_governo_e_meloni_unica_protagonista-15729714/",
-        "https://ilmanifesto.it/lega-e-fi-snobbano-la-festa-del-record-meloni-a-bari-da-sola",
-        "https://www.ilsole24ore.com/art/meloni-bari-festa-record-cantiere-bonus-famiglie-e-imprese-AJW3lg2"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "L'Argentina di Milei torna a spingere sulle Malvinas. La risposta Uk: \"Le Falkland sono e saranno britanniche\"",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "adnkronos.com",
         "ansa.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
         "https://www.adnkronos.com/internazionale/esteri/milei-argentina-malvinas-falkland-gb-polemiche_v613bPRtNtAf5wykx1TS5",
+        "https://www.liberoquotidiano.it/news/tv-news/49040748/argentina-milei-reclama-la-sovranita-sulle-falkland-malvinas/",
         "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/04/londra-risponde-a-milei-le-isole-falkland-sono-britanniche_ebee70c7-53bf-4d59-9a31-a5acd17ddfb4.html",
         "https://www.ilmessaggero.it/mondo/isole_falkland_contese_argentina_malvinas_gran_bretagna_invasione_cosa_succede-9743078.html",
         "https://www.lastampa.it/esteri/2026/09/04/news/milei_malvinas_argentine_base_navale_falkland-15730046/"
       ]
     },
     {
-      "rank": 7,
-      "title": "Lorena Isceri, 3 telefonate dal bagagliaio prima di essere gettata dal cavalcavia: «Federico mi vuole uccidere»",
-      "source_count": 3,
+      "rank": 6,
+      "title": "Governo Meloni, a Bari festa del record: in cantiere bonus famiglie e imprese",
+      "source_count": 4,
       "article_count": 4,
       "source_domains": [
-        "lastampa.it",
         "ilmessaggero.it",
-        "firenze.repubblica.it"
+        "ansa.it",
+        "repubblica.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.lastampa.it/cronaca/2026/09/04/news/lorena_isceri_uccisa_a1_amica-15730213/",
-        "https://www.ilmessaggero.it/persone/lorena_isceri_federico_vella_ultime_parole_cosa_ha_detto_viadotto_cosa_e_successo-9743090.html",
-        "https://www.ilmessaggero.it/schede/lorena_isceri_federico_vella_cosa_e_successo_veramente_telefonate_bagagliaio-9743044.html",
-        "https://firenze.repubblica.it/cronaca/2026/09/04/news/rapisce_ex_compagna_femminicidio_ponte_barberino_mugello_firenze-425563963/"
+        "https://www.ilmessaggero.it/politica/meloni_fisco_sicurezza_programma_campagna_elettorale-9743318.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/09/04/meloni-la-stabilita-non-e-un-record-da-esibire-ma-la-condizione-per-programmare_b02762e3-796a-47cf-ad59-ccfcda073e9a.html",
+        "https://www.repubblica.it/politica/2026/09/04/news/meloni_sicurezza_e_fisco_nello_spot_di_fine_mandato_ma_si_puo_fare_di_piu-425563832/",
+        "https://www.ilsole24ore.com/art/meloni-bari-festa-record-cantiere-bonus-famiglie-e-imprese-AJW3lg2"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Arriva la fiammata rovente di settembre: 5 giorni di caldo record, poi l'estate sarà finita",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/schede/caldo_sesta_ondata_svolta_termica_come_cambia_meteo_temperature_roma-9743394.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/weekend-di-sole-e-caldo-temperature-tra-i-34-e-i-37c_5139f363-b585-41b1-8e0c-1659bbd732bf.html",
+        "https://www.repubblica.it/cronaca/2026/09/04/news/sesta_ondata_caldo_zero_termico-425564569/",
+        "https://www.lastampa.it/cronaca/2026/09/04/news/meteo_settembre_caldo_record_ritirata_anticiclone-15730104/"
       ]
     },
     {
       "rank": 8,
       "title": "Us Open bollenti, Musetti ha un malore e crolla con Sweeny: “Il mio 2026 un’odissea”",
-      "source_count": 3,
-      "article_count": 3,
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "lastampa.it",
         "repubblica.it",
         "liberoquotidiano.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/09/04/us-open-sweeny-musetti-caldo-notizie/8496842/",
         "https://www.lastampa.it/sport/2026/09/04/news/tennis_us_open_musetti_malore_caldo_perde_sweeny-15730121/",
         "https://www.repubblica.it/sport/rubriche/monday-s-net/2026/09/04/news/musetti_malore_simile_sinner_crollo_new_york-425564161/",
         "https://www.liberoquotidiano.it/news/sport/49036602/us_open_lorenzo_musetti_fuori_crollo_fisico_come_sinner_la_mia_odissea/"
@@ -152,34 +158,38 @@
     },
     {
       "rank": 9,
-      "title": "Omicidio-suicidio a Barberino, le ultime ore di Lorena Isce­ri: dal rapimento alle telefonate dal bagagliaio al 112",
-      "source_count": 3,
-      "article_count": 3,
+      "title": "Strage in famiglia a Pietralata, gli esami sulla pistola: “Hanno sparato entrambi i genitori”",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "firenze.repubblica.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/omicidio-suicidio-barberino-mugello-ultime-ore-lorena-isceri_w2jC3aopds47BABepq9ha",
-        "https://www.ilfattoquotidiano.it/2026/09/04/federico-mi-ha-rapita-vuole-uccidermi-le-tre-telefonate-di-lorena-isceri-dal-bagagliaio-dellauto-i-20-minuti-in-linea-con-la-polizia/8496561/",
-        "https://firenze.repubblica.it/cronaca/2026/09/04/news/telefono_bagagliaio_femminicidio_lorena_isceri-425563971/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Strage di Pietralata, spunta l'ipotesi che a sparare contro la figlia siano stati i genitori insieme",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "lastampa.it",
         "roma.repubblica.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/italia/49040422/pietralata-bimba-disabile-madre-padre-morti-suicidi-chi-sparato/",
         "https://www.ilfattoquotidiano.it/2026/09/04/omicidio-suicidio-pietralata-quattro-colpi-notizie/8496582/",
         "https://www.lastampa.it/cronaca/2026/09/04/news/tragedia_di_pietralata_spunta_l_ipotesi_che_a_sparare_contro_la_figlia_siano_stati_i_genitori_insieme-15730181/",
         "https://roma.repubblica.it/cronaca/2026/09/03/news/famiglia_pietralata_roma_esami_pistola_autopsia_bianca-425563468/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "La festa per il governo e Meloni unica protagonista",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/politica/49039729/giorgia-meloni-governo-piu-longevo-non-record-esibire-base-futuro/",
+        "https://www.ilfattoquotidiano.it/2026/09/04/governo-meloni-quattro-anni-opinione-notizie/8496466/",
+        "https://www.lastampa.it/rubriche/l-oblo/2026/09/04/audio/la_festa_per_il_governo_e_meloni_unica_protagonista-15729714/",
+        "https://ilmanifesto.it/lega-e-fi-snobbano-la-festa-del-record-meloni-a-bari-da-sola"
       ]
     }
   ]
