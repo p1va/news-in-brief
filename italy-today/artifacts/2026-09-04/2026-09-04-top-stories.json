@@ -1,9 +1,32 @@
 {
   "date": "2026-09-04",
-  "generated_at": "Fri 04 Sep 15:00",
+  "generated_at": "Fri 04 Sep 18:18",
   "stories": [
     {
       "rank": 1,
+      "title": "Record durata Governo Meloni, la premier festeggia la vittoria con cartello \"Grazie Italia\" nel 2022",
+      "source_count": 8,
+      "article_count": 21,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/09/04/meloni-abbiamo-piu-consenso-del-primo-giorno-ne-siamo-fieri-_d771cf5d-2adc-4689-a8ca-d3189bc9d359.html",
+        "https://www.adnkronos.com/politica/meloni-figlia-telefonata-figlia-diretta-bari_7H1kD6zfDp4ufMMOVT1vKA",
+        "https://www.liberoquotidiano.it/news/tv-news/49047506/governo-meloni-stabilita-e-la-prima-grande-riforma-data-a-nazione/",
+        "https://www.liberoquotidiano.it/news/tv-news/49047498/meloni-dopo-1413-giorni-consenso-piu-alto-grazie-a-famiglia-centrodestra/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49045524/governo-meloni-da-record-gli-auguri-dai-leader-mondiali-tra-gli-altri-modi-edi-rama-e-takaichi/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Lorena Isceri, 3 telefonate dal bagagliaio prima di essere gettata dal cavalcavia: «Federico mi vuole uccidere»",
       "source_count": 5,
       "article_count": 9,
@@ -23,11 +46,12 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Estratti vivi due operai intrappolati nei tunnel in Nepal",
-      "source_count": 5,
-      "article_count": 7,
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "laverita.info",
         "ansa.it",
         "lastampa.it",
@@ -35,15 +59,56 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/2026/09/04/in-nepal-ce-ancora-vita-sotto-al-fango-due-operai-trovati-vivi-sotto-un-tunnel-dopo-nove-giorni/8497088/",
         "https://www.laverita.info/video/mondo-video/nepal-soccorsi",
         "https://www.ansa.it/sito/notizie/mondo/2026/09/04/estratti-vivi-due-operai-intrappolati-nei-tunnel-in-nepal_a1104897-2cf6-4ad8-88ae-80761da3828e.html",
         "https://www.ansa.it/sito/videogallery/mondo/2026/09/04/nepal-estratti-vivi-due-operai-intrappolati-nei-tunnel_af8788a0-2329-4f2a-a966-723b716ca651.html",
-        "https://www.lastampa.it/esteri/2026/09/04/news/nepal_alluvione_salvati_due_uomini-15730138/",
-        "https://www.liberoquotidiano.it/news/tv-news/49039321/alluvione-in-nepal-due-operai-tratti-in-salvo-da-una-galleria/"
+        "https://www.lastampa.it/esteri/2026/09/04/news/nepal_alluvione_salvati_due_uomini-15730138/"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Argentina, Milei reclama la sovranità sulle Falkland-Malvinas",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/milei-argentina-malvinas-falkland-gb-polemiche_v613bPRtNtAf5wykx1TS5",
+        "https://www.liberoquotidiano.it/news/tv-news/49040748/argentina-milei-reclama-la-sovranita-sulle-falkland-malvinas/",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/04/londra-risponde-a-milei-le-isole-falkland-sono-britanniche_ebee70c7-53bf-4d59-9a31-a5acd17ddfb4.html",
+        "https://www.ilmessaggero.it/mondo/isole_falkland_contese_argentina_malvinas_gran_bretagna_invasione_cosa_succede-9743078.html",
+        "https://www.lastampa.it/esteri/2026/09/04/news/milei_malvinas_argentine_base_navale_falkland-15730046/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Zelensky: 'Un drone ha colpito il quartier generale dell'intelligence'",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/04/zelensky-un-drone-ha-colpito-il-quartier-generale-dellintelligence_2909e7e8-1a6a-4d5b-af61-5ec4cb4d3051.html",
+        "https://www.ilmessaggero.it/mondo/guerra_ucraina_drone_russo_sede_007_kiev_attaccata_escalation_cosa_e_successo-9743598.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/04/i-media-ucraini-in-dubbio-il-viaggio-di-witkoff-a-kiev-teme-reazione-russa_2909e7e8-1a6a-4d5b-af61-5ec4cb4d3051.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/04/la-tass-witkoff-e-kushner-a-mosca-e-poi-kiev-domani-e-domenica.-nuova-ondata_2909e7e8-1a6a-4d5b-af61-5ec4cb4d3051.html",
+        "https://www.repubblica.it/esteri/2026/09/04/diretta/guerra_ucraina_russia_news_oggi-425563975/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "La mattanza di Finale Ligure nei biglietti scritti da Daniele Baruzzo, che ha ucciso moglie e figlio",
       "source_count": 5,
       "article_count": 6,
@@ -63,133 +128,83 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 7,
+      "title": "Autorità Trasporti, multa da 1,75 milioni a Rfi per il caos dei treni per 'il chiodo'",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/04/autorita-trasporti-multa-da-175-milioni-a-rfi-per-il-caos-dei-treni_101f5722-be7c-4e31-b9e1-a7c33ba1ca8f.html",
+        "https://www.adnkronos.com/economia/autorita-trasporti-sanzione-rfi_5GnfFTuRtiHTjOQaNlmH9z",
+        "https://www.ilfattoquotidiano.it/2026/09/04/caos-treni-rfi-multa-notizie/8497036/",
+        "https://www.repubblica.it/economia/2026/09/04/news/treni_chiodo_termini_multa_fs_art-425565169/",
+        "https://www.ilsole24ore.com/art/blackout-termini-il-chiodo-rfi-multa-175-milioni-AJGHcQ3"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Farage nella bufera. «Discuteva di finanziamenti illeciti al suo partito». I video dalle telecamere nascoste",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "ansa.it",
-        "ilfattoquotidiano.it",
         "repubblica.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/49047524/gb-caos-su-reform-uk-dopo-video-su-finanziamento-con-camera-nascosta/",
         "https://www.ilmessaggero.it/mondo/farage_reform_uk_finanziamenti_illeciti_video_telecamere_nascoste-9743203.html",
         "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/04/bufera-nel-partito-di-farage-i-due-funzionari-coinvolti-negli-illeciti-si-dimettono_a11b4a54-8bdf-4a9a-94fb-626e0f61993c.html",
-        "https://www.ilfattoquotidiano.it/2026/09/04/reform-uk-finanziamenti-illeciti-dimissioni-notizie/8496543/",
         "https://www.repubblica.it/esteri/2026/09/04/news/farage_finanziamento_illecito_partito_video_accusa-425564076/",
         "https://news.google.com/rss/articles/CBMiggFBVV95cUxPczhNVl82LTVMMW9lOFNnSDJBVUtMcVdMTFZRdkVzZjduX2t5ZjVZazA3MXotM01nRFRGdUM1cmtmdm4wbjhwOEUweDA5R2gzNjZyd3RKNXJjZmxYWEU1MmFwMnFydlNDbDlZNGQ1azdPdXB2bFRVRVFQUkVqemUyb3J3?oc=5"
       ]
     },
     {
-      "rank": 5,
-      "title": "L'Argentina di Milei torna a spingere sulle Malvinas. La risposta Uk: \"Le Falkland sono e saranno britanniche\"",
+      "rank": 9,
+      "title": "Affitti brevi, in zone sotto stress abitativo possibili limiti se il «rapporto prezzo-reddito» è sopra soglia di 8: la bozza Ue",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "adnkronos.com",
-        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
         "ansa.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.adnkronos.com/internazionale/esteri/milei-argentina-malvinas-falkland-gb-polemiche_v613bPRtNtAf5wykx1TS5",
-        "https://www.liberoquotidiano.it/news/tv-news/49040748/argentina-milei-reclama-la-sovranita-sulle-falkland-malvinas/",
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/04/londra-risponde-a-milei-le-isole-falkland-sono-britanniche_ebee70c7-53bf-4d59-9a31-a5acd17ddfb4.html",
-        "https://www.ilmessaggero.it/mondo/isole_falkland_contese_argentina_malvinas_gran_bretagna_invasione_cosa_succede-9743078.html",
-        "https://www.lastampa.it/esteri/2026/09/04/news/milei_malvinas_argentine_base_navale_falkland-15730046/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Governo Meloni, a Bari festa del record: in cantiere bonus famiglie e imprese",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/politica/meloni_fisco_sicurezza_programma_campagna_elettorale-9743318.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/09/04/meloni-la-stabilita-non-e-un-record-da-esibire-ma-la-condizione-per-programmare_b02762e3-796a-47cf-ad59-ccfcda073e9a.html",
-        "https://www.repubblica.it/politica/2026/09/04/news/meloni_sicurezza_e_fisco_nello_spot_di_fine_mandato_ma_si_puo_fare_di_piu-425563832/",
-        "https://www.ilsole24ore.com/art/meloni-bari-festa-record-cantiere-bonus-famiglie-e-imprese-AJW3lg2"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Arriva la fiammata rovente di settembre: 5 giorni di caldo record, poi l'estate sarà finita",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/schede/caldo_sesta_ondata_svolta_termica_come_cambia_meteo_temperature_roma-9743394.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/weekend-di-sole-e-caldo-temperature-tra-i-34-e-i-37c_5139f363-b585-41b1-8e0c-1659bbd732bf.html",
-        "https://www.repubblica.it/cronaca/2026/09/04/news/sesta_ondata_caldo_zero_termico-425564569/",
-        "https://www.lastampa.it/cronaca/2026/09/04/news/meteo_settembre_caldo_record_ritirata_anticiclone-15730104/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Us Open bollenti, Musetti ha un malore e crolla con Sweeny: “Il mio 2026 un’odissea”",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/04/us-open-sweeny-musetti-caldo-notizie/8496842/",
-        "https://www.lastampa.it/sport/2026/09/04/news/tennis_us_open_musetti_malore_caldo_perde_sweeny-15730121/",
-        "https://www.repubblica.it/sport/rubriche/monday-s-net/2026/09/04/news/musetti_malore_simile_sinner_crollo_new_york-425564161/",
-        "https://www.liberoquotidiano.it/news/sport/49036602/us_open_lorenzo_musetti_fuori_crollo_fisico_come_sinner_la_mia_odissea/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Strage in famiglia a Pietralata, gli esami sulla pistola: “Hanno sparato entrambi i genitori”",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "roma.repubblica.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/italia/49040422/pietralata-bimba-disabile-madre-padre-morti-suicidi-chi-sparato/",
-        "https://www.ilfattoquotidiano.it/2026/09/04/omicidio-suicidio-pietralata-quattro-colpi-notizie/8496582/",
-        "https://www.lastampa.it/cronaca/2026/09/04/news/tragedia_di_pietralata_spunta_l_ipotesi_che_a_sparare_contro_la_figlia_siano_stati_i_genitori_insieme-15730181/",
-        "https://roma.repubblica.it/cronaca/2026/09/03/news/famiglia_pietralata_roma_esami_pistola_autopsia_bianca-425563468/"
+        "https://www.ilfattoquotidiano.it/2026/09/04/affordable-housing-act-affitti-brevi-stress-abitativo-notizie/8496951/",
+        "https://www.repubblica.it/economia/2026/09/04/news/affitti_brevi_regolamento_ue_limiti_stress_abitativo_regole-425565236/",
+        "https://www.ansa.it/sito/notizie/economia/2026/09/04/bozza-ue-in-zone-sotto-stress-abitativo-possibili-limiti-agli-affitti-brevi_d5988964-a8d9-4b9a-8c70-2e338e4c4986.html",
+        "https://www.ilmessaggero.it/economia/news/affitti_brevi_bozza_ue_cosa_cambia_limiti_rapporto_prezzo-9743493.html",
+        "https://www.lastampa.it/economia/2026/09/04/news/affitti_brevi_limiti_europei_locazioni_turistiche_casa-15730323/"
       ]
     },
     {
       "rank": 10,
-      "title": "La festa per il governo e Meloni unica protagonista",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "La giuria Usa non raggiunge il verdetto, il processo a Lindsay Clancy è dichiarato nullo",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "liberoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
         "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilmanifesto.it"
+        "ilmessaggero.it",
+        "laverita.info"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/politica/49039729/giorgia-meloni-governo-piu-longevo-non-record-esibire-base-futuro/",
-        "https://www.ilfattoquotidiano.it/2026/09/04/governo-meloni-quattro-anni-opinione-notizie/8496466/",
-        "https://www.lastampa.it/rubriche/l-oblo/2026/09/04/audio/la_festa_per_il_governo_e_meloni_unica_protagonista-15729714/",
-        "https://ilmanifesto.it/lega-e-fi-snobbano-la-festa-del-record-meloni-a-bari-da-sola"
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/04/giuria-usa-non-raggiunge-il-verdetto-processo-a-lindsay-clancy-dichiarato-nullo_f344b225-38d4-4333-84d4-b5a22c9c3eea.html",
+        "https://www.adnkronos.com/internazionale/esteri/lindsay-clancy-processo-omicidio-figli-verdetto_3RoRjD7wbGZxrOGFAA41cN",
+        "https://www.ilfattoquotidiano.it/2026/09/04/lindsay-clancy-processo-nullo-verdetto-notizie/8497043/",
+        "https://www.ilmessaggero.it/persone/lindsay_clancy_mamma_uccide_figli_processo_nullo_storia_chi_e-9743627.html",
+        "https://www.laverita.info/giustizia/lindsay-clancy"
       ]
     }
   ]
