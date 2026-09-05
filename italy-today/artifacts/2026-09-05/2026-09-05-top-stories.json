@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "generated_at": "Sat 05 Sep 10:23",
+  "generated_at": "Sat 05 Sep 13:52",
   "stories": [
     {
       "rank": 1,
@@ -27,6 +27,49 @@
     },
     {
       "rank": 2,
+      "title": "Monti a Vannacci: “Combatterò la sua retorica fascista. Il suo programma viola la Costituzione”",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/09/05/scintille-tra-vannacci-e-monti-a-cernobbio-combattero-la-sua-retorica-fascista.-il-leader_84aa8d72-971e-4662-b0b7-60b5f9e91739.html",
+        "https://www.adnkronos.com/politica/monti-vannacci-forum-ambrosetti-faccia-a-faccia_7fyyxjEbMfn5Y3Y8OHJR0x",
+        "https://www.liberoquotidiano.it/news/tv-news/49054660/monti-a-vannacci-vedo-in-lei-narrativa-retorica-e-spirito-fascismo/",
+        "https://www.liberoquotidiano.it/news/tv-news/49053824/monti-a-vannacci-suo-programma-viola-costituzione-saremmo-fuori-ue/",
+        "https://www.ansa.it/sito/notizie/politica/2026/09/05/cernobbio-vannacci-non-tutti-scalpitano-per-entrare-nella-ue.-monti_84aa8d72-971e-4662-b0b7-60b5f9e91739.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Kushner e Witkoff da Putin con un piano di pace: atterrati a Mosca a bordo di un jet privato",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/05/putin-ordina-una-tregua-di-tre-giorni-dei-raid-sullucraina-_b2166357-c13f-4379-b13a-6f4d70445a92.html",
+        "https://www.laverita.info/geopolitica/ucraina-trump-witkoff-kushner-mosca",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/09/05/guerra-ucraina-russia-negoziati-trump-aggiornamenti-diretta-oggi/8497419/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/05/il-jet-con-witkoff-e-kushner-e-atterrato-a-mosca_b2166357-c13f-4379-b13a-6f4d70445a92.html",
+        "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-5-settembre_5XL3hZvh4GGGCEwDAGHNUx"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Record durata Governo, Meloni: Pagine più belle devono essere ancora scritte",
       "source_count": 2,
       "article_count": 10,
@@ -43,28 +86,46 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Kushner e Witkoff da Putin con un piano di pace: atterrati a Mosca a bordo di un jet privato",
-      "source_count": 6,
-      "article_count": 6,
+      "rank": 5,
+      "title": "Meloni a Bari per festa record durata Governo, il dietro le quinte sul palco del comizio",
+      "source_count": 4,
+      "article_count": 8,
       "source_domains": [
-        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "ansa.it",
-        "adnkronos.com",
         "repubblica.it",
-        "lastampa.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/09/05/guerra-ucraina-russia-negoziati-trump-aggiornamenti-diretta-oggi/8497419/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/05/il-jet-con-witkoff-e-kushner-e-atterrato-a-mosca_b2166357-c13f-4379-b13a-6f4d70445a92.html",
-        "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-news-oggi-5-settembre_5XL3hZvh4GGGCEwDAGHNUx",
-        "https://www.repubblica.it/esteri/2026/09/05/diretta/guerra_ucraina_russia_news_oggi-425566049/",
-        "https://www.lastampa.it/esteri/2026/09/05/diretta/guerra_russia_ucraina_news_oggi-15730666/"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49053529/meloni-a-bari-per-festa-record-durata-governo-il-dietro-le-quinte-sul-palco-del-comizio/",
+        "https://www.ansa.it/sito/videogallery/italia/2026/09/05/meloni-a-bari-la-figlia-le-telefona-durante-il-comizio_139af0db-cb21-4e61-955a-d04fb2dd82ac.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49052042/bagno-di-folla-e-selfie-per-meloni-all-uscita-dall-hotel-a-bari-il-giorno-dopo-la-manifestazione/",
+        "https://www.repubblica.it/politica/2026/09/05/news/discorso_meloni_festa_governo_fact-checking-425566002/",
+        "https://www.repubblica.it/politica/2026/09/05/news/la_festa_di_meloni_a_bari_nella_vignetta_di_ellekappa-425565941/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "title": "Femminicidio di Lorena Isceri, un’ora di terrore, poi l’abisso. “Lei non voleva denunciarlo”",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "firenze.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/femminicidio-in-a1-vella-alla-mamma-della-vittima-lho-uccisa_bc4072d0-5cbe-4968-8c52-cd4c41b04d3b.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/il-femminicidio-di-lorena-la-madre-aveva-paura-di-lui_42a061ec-c92c-4861-8e36-aa8e1be40ff1.html",
+        "https://www.ilfattoquotidiano.it/2026/09/05/femminicidio-lorena-isceri-premeditazione-vella-notizie/8497374/",
+        "https://www.ilmessaggero.it/persone/lorena_isceri_federico_vella_messaggio_madre_tua_figlia_e_morta_ricostruzione-9745022.html",
+        "https://firenze.repubblica.it/cronaca/2026/09/05/news/lorena_isceri_femminicidio_firenze_federico_vella_madre-425566028/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Meloni: A chi ci ostacola dico: Mettetevi comodi, non avete capito con chi avete a che fare",
       "source_count": 2,
       "article_count": 10,
@@ -81,104 +142,63 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Femminicidio di Lorena Isceri, un’ora di terrore, poi l’abisso. “Lei non voleva denunciarlo”",
+      "rank": 8,
+      "title": "Gallagher a sorpresa al Lido, boato dei fan a Venezia",
       "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "firenze.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/04/il-femminicidio-di-lorena-la-madre-aveva-paura-di-lui_42a061ec-c92c-4861-8e36-aa8e1be40ff1.html",
-        "https://www.ilfattoquotidiano.it/2026/09/05/femminicidio-lorena-isceri-premeditazione-vella-notizie/8497374/",
-        "https://www.ilmessaggero.it/persone/lorena_isceri_federico_vella_messaggio_madre_tua_figlia_e_morta_ricostruzione-9745022.html",
-        "https://firenze.repubblica.it/cronaca/2026/09/05/news/lorena_isceri_femminicidio_firenze_federico_vella_madre-425566028/",
-        "https://www.ilmessaggero.it/persone/lorena_isceri_ultima_foto_mare_salento_amico_genitori_non_partire-9743969.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Venezia 83, la Presidente della Giuria Maggie Gyllenhaal sfila con uno scenografico abito nero",
-      "source_count": 2,
       "article_count": 5,
       "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
         "liberoquotidiano.it",
-        "lastampa.it"
+        "repubblica.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49048984/trasparenze-code-e-scollature-vertiginosi-gli-abiti-piu-belli-della-terza-giornata-a-venezia-83/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49048589/venezia-83-georgina-rodriguez-sfila-in-completo-blu-notte-con-lunga-gonna-a-sirena-e-blazer/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49048584/venezia-83-la-presidente-della-giuria-maggie-gyllenhaal-sfila-con-uno-scenografico-abito-nero/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49048579/venezia-83-valentina-cabassi-sfila-sul-red-carpet-con-look-maschile-e-papillon-di-strass/",
-        "https://www.lastampa.it/spettacoli/2026/09/04/news/venezia_le_pagelle_dal_red_carpet_maggie_gyllenhaal_brilla_piu_di_tutti_caccamo_elegantissimo-15730542/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "I carburanti aumentano ancora: in un mese la benzina costa 5,5 centesimi in più",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/05/prezzi-carburanti-benzina-gasolio-settembre-notizie/8497428/",
-        "https://www.ansa.it/sito/notizie/economia/2026/09/05/sale-ancora-il-prezzo-dei-carburanti-in-un-mese-la-benzina-costa-55-cents-in-piu_68b01bb0-d963-4d83-804d-3ce82a463500.html",
-        "https://www.ilsole24ore.com/art/i-carburanti-aumentano-ancora-un-mese-benzina-costa-55-cents-piu-AJf8yL4"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Partono i licenziamenti nell'indotto ex Ilva, coinvolti 2.500 lavoratori",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ilmanifesto.it",
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://ilmanifesto.it/lex-ilva-rovina-la-festa-2500-lettere-di-licenziamento-nellindotto",
-        "https://www.ansa.it/sito/notizie/economia/2026/09/04/partite-le-lettere-di-licenziamento-per-2.500-lavoratori-dellindotto-dellex-ilva_8f6867a3-0e8c-4993-9ee4-0d2b6f9e7a64.html",
-        "https://www.ilsole24ore.com/art/ex-ilva-lettere-sindacati-annunciano-2500-licenziamenti-nell-indotto-AJ7jhU3"
+        "https://www.adnkronos.com/spettacoli/oasis-mostra-cinema-venezia-oggi-ultime-notizie_66615vAtRYc5U4IMBJI9iY",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/robert-pattinson-e-i-fratelli-gallagher-hollywood-e-il-brit-rock-al-lido-di-venezia_7b5f237e-f1e1-4aeb-b31a-2b391188fdca.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49052450/venezia-ore-sotto-il-sole-per-gli-oasis-per-loro-questo-e-altro-/",
+        "https://www.repubblica.it/spettacoli/dossier/mostra-del-cinema-di-venezia/2026/09/05/news/oasis_venezia_2026_liam_noel_gallagher-425566159/",
+        "https://www.ilmessaggero.it/spettacoli/cinema/festival_venezia_moretti_oasis_star-9744050.html"
       ]
     },
     {
       "rank": 9,
-      "title": "Multa da 1,75 milioni a Rfi per 'il chiodo' a Roma Termini",
-      "source_count": 3,
-      "article_count": 3,
+      "title": "Milano, la mega– chiazza di gasolio è arrivata sui Navigli",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
         "ansa.it",
+        "lastampa.it",
+        "milano.repubblica.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/04/autorita-trasporti-multa-da-175-milioni-a-rfi-per-il-caos-dei-treni_101f5722-be7c-4e31-b9e1-a7c33ba1ca8f.html",
-        "https://www.ilsole24ore.com/art/blackout-termini-il-chiodo-rfi-multa-175-milioni-AJGHcQ3",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTE10RTNWQU1jdmhrVGl6VVYtQWNITDBGbzJybkh1aGQ5eGVoRERoZ0xaWjZtWEdob3hzRGk2c0tlNG5hVzlIdkx4M1FYTGNxd1hjSU9OUjU4SlBQeEphSU5xd3hoZzdPdHlMV280OUNTREc5VklJN0Rv?oc=5"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/la-chiazza-di-gasolio-nel-naviglio-e-lunga-28-km-e-ha-raggiunto-la-darsena_05539e93-f5cf-4e92-83f9-17e8df6756f4.html",
+        "https://www.lastampa.it/milano/2026/09/05/news/milano_mega_chiazza_gasolio_e_arrivata_sui_navigli-15730960/",
+        "https://milano.repubblica.it/cronaca/2026/09/05/news/sversamento_gasolio_magenta_navigli-425566153/",
+        "https://www.ilsole24ore.com/art/sversamento-idrocarburi-navigli-milano-danni-pesanti-all-ambiente-e-fauna-AJF4oR4",
+        "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwQ05sZnRmdnlXYlVmM3F3ejA5b3dsRzlZb2drVnhtWDY1VkRqc2tXTklYd2t6cXZFRXFGSWpTNGRJNTZSekI5ak1WUEFzZzZTSTZGeDNzR3Y5ZXRIWHY3M1g1MGRRRFQ4a2hSdEJBbXF3aG8?oc=5"
       ]
     },
     {
       "rank": 10,
-      "title": "Europei femminili di volley, Italia-Polonia vale la finale. Velasco: “Occhio al loro entusiasmo”",
-      "source_count": 3,
-      "article_count": 3,
+      "title": "Fabrizio Corona e figlio minacciati, auto dell'ex re dei paparazzi presa a colpi di catena",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
         "ilfattoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it"
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/05/europei-pallavolo-2026-italia-polonia-semifinale-orario-dove-vedere-tv-streaming-anche-in-chiaro/8497447/",
-        "https://www.lastampa.it/sport/2026/09/05/news/velasco_la_mia_italia_ha_buoni_anticorpi_ma_e_un_europeo_pieno_di_sorprese-15730934/",
-        "https://www.repubblica.it/sport/volley/2026/09/05/news/italia_polonia_europei_volley_femminili_orario_dove_vedere_tv-425566240/"
+        "https://www.ilfattoquotidiano.it/2026/09/05/tentativo-di-estorsione-a-fabrizio-corona-minacce-a-lui-e-al-figlio-per-500-euro-denunciato-un-20enne/8497566/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/tentativo-di-estorsione-a-fabrizio-corona-un-20enne-denunciato-a-milano_12222581-a70f-4b66-b19e-2c1c55ef4c7a.html",
+        "https://www.adnkronos.com/cronaca/corona-minacce-figlio-soldi-denuncia-questura_58nGoB4xJb8FfulSTTMf6Z",
+        "https://www.liberoquotidiano.it/news/personaggi/49050268/fabrizio-corona-aggredito-catenate-minacce-male-tuo-figlio/",
+        "https://www.ilmessaggero.it/persone/fabrizio_corona_aggredito_figlio_giornalista_mediaset_chi_e_cosa_e_successo-9745072.html"
       ]
     }
   ]
