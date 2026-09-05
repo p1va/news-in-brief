@@ -1,6 +1,6 @@
 {
   "date": "2026-09-05",
-  "generated_at": "Sat 05 Sep 20:21",
+  "generated_at": "Sat 05 Sep 21:07",
   "stories": [
     {
       "rank": 1,
@@ -76,21 +76,21 @@
       "rank": 4,
       "title": "Europei di pallavolo, Italia-Polonia 3-1 e azzurre in finale - Rivivi la diretta",
       "source_count": 6,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
+        "repubblica.it",
         "ilmessaggero.it",
         "ansa.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.repubblica.it/sport/volley/2026/09/05/news/italia_turchia_finale_volley_europei_femminili-425567744/",
         "https://www.ilmessaggero.it/sport/schede/italia_turchia_finale_europei_volley_orario_dove_vederla_tv_in_chiaro_streaming-9745735.html",
         "https://www.ansa.it/sito/notizie/sport/pallavolo/2026/09/05/eurovolley-3-1-alla-polonia-italia-in-finale-con-la-turchia_437345e7-a3da-4b88-9999-3c13440f71c2.html",
         "https://www.adnkronos.com/sport/italia-turchia-finale-europei-femminili-pallavolo-quando-gioca-orario-dove-vederla-tv_6rwvnmvn3LEsU6F1BSnO5T",
-        "https://www.ilfattoquotidiano.it/2026/09/05/europei-volley-femminile-italia-finale-polonia-risultato-analisi-commento/8497830/",
-        "https://www.lastampa.it/sport/volley/2026/09/05/news/volley_femminile_italia-polonia_3-0_le_azzurre_vanno_in_finale_agli_europei-15731336/"
+        "https://www.ilfattoquotidiano.it/2026/09/05/europei-volley-femminile-italia-finale-polonia-risultato-analisi-commento/8497830/"
       ]
     },
     {
@@ -202,20 +202,22 @@
     },
     {
       "rank": 10,
-      "title": "Meloni a Bari per festa record durata Governo, il dietro le quinte sul palco del comizio",
-      "source_count": 3,
-      "article_count": 8,
+      "title": "Incidente al Rally Mille Miglia, travolto e ucciso uno spettatore nel Bresciano",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "liberoquotidiano.it",
         "ansa.it",
-        "repubblica.it"
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49055480/-amore-ti-richiamo-la-telefonata-di-meloni-alla-figlia-durante-il-comizio-di-bari/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49053529/meloni-a-bari-per-festa-record-durata-governo-il-dietro-le-quinte-sul-palco-del-comizio/",
-        "https://www.ansa.it/sito/videogallery/italia/2026/09/05/meloni-a-bari-la-figlia-le-telefona-durante-il-comizio_139af0db-cb21-4e61-955a-d04fb2dd82ac.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49052042/bagno-di-folla-e-selfie-per-meloni-all-uscita-dall-hotel-a-bari-il-giorno-dopo-la-manifestazione/",
-        "https://www.repubblica.it/politica/2026/09/05/news/discorso_meloni_festa_governo_fact-checking-425566002/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/incidente-al-rally-1000-miglia-spettatore-muore-investito-_bec2e8ee-51b1-4eda-950e-a377a906ec22.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/05/incidente-al-rally-mille-miglia-travolto-e-ucciso-uno-spettatore-nel-bresciano_bec2e8ee-51b1-4eda-950e-a377a906ec22.html",
+        "https://www.adnkronos.com/cronaca/rally-1000-miglia-incidente-auto-morto-spettatore_5qjQT4k9JjPY37gBQ2taAB",
+        "https://www.ilfattoquotidiano.it/2026/09/05/rally-mille-miglia-incidente-mortale-bione-notizie/8497673/",
+        "https://www.ilmessaggero.it/italia/incidente_rally_mille_miglia_brescia_morto_cosa_e_successo-9745516.html"
       ]
     }
   ]
