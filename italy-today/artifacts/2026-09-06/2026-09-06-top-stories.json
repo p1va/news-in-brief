@@ -1,6 +1,6 @@
 {
   "date": "2026-09-06",
-  "generated_at": "Sun 06 Sep 20:19",
+  "generated_at": "Sun 06 Sep 20:26",
   "stories": [
     {
       "rank": 1,
@@ -175,26 +175,6 @@
     },
     {
       "rank": 9,
-      "title": "Come sta Di Battista: l’apprensione degli amici, operato d’urgenza a Cuba. Slitta il rientro",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/09/06/ansia-per-di-battista-amici-e-famiglia-mantengono-il-riserbo-_0978aacf-84ca-48e7-a11d-987f72161750.html",
-        "https://www.adnkronos.com/cronaca/di-battista-operato-cuba-rientro-slittato-cosa-sappiamo_4NIQXnwZfBSQKlS5ZSYRNH",
-        "https://www.lastampa.it/esteri/2026/09/06/news/come_sta_di_battista_l_apprensione_degli_amici_operato_d_urgenza_a_cuba_slitta_il_rientro-15731554/",
-        "https://ilmanifesto.it/di-battista-in-sala-operatoria-resta-a-cuba",
-        "https://www.ansa.it/sito/notizie/politica/2026/09/05/alessandro-di-battista-operato-a-cuba-slitta-il-rientro-in-italia_0978aacf-84ca-48e7-a11d-987f72161750.html"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Cernobbio boccia il campo largo. I leader, 'Meloni ha fallito'",
       "source_count": 4,
       "article_count": 6,
@@ -210,6 +190,26 @@
         "https://www.repubblica.it/politica/2026/09/06/news/cernobbio_schlein_conte_renzi_governo_meloni-425568190/",
         "https://www.ansa.it/sito/notizie/politica/2026/09/06/sondaggio-teha-la-platea-di-cernobbio-promuove-il-governo-meloni-e-boccia-lopposizione_035a516b-5674-48d1-8a3a-de893c52df2f.html",
         "https://www.adnkronos.com/economia/forum-ambrosetti-ultima-giornata-interventi_3e8meHd8ViiHNoauGKIMLr"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Infantino, niente passi indietro: si ricandiderà alla presidenza della Fifa nel 2027",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/49064258/fifa-infantino-conferma-candidatura-a-presidenza-nel-2027/",
+        "https://www.repubblica.it/sport/calcio/2026/09/06/news/infantino_si_ricandidera_presidenza_fifa_2027-425568396/",
+        "https://www.ilfattoquotidiano.it/2026/09/06/infantino-ricandidatura-presidenza-fifa-2027-dichiarazioni/8498260/",
+        "https://www.adnkronos.com/sport/calcio-infantino-fifa-mondiali-elezioni_3O4I6VbM9NjMhocBpfJs60",
+        "https://www.lastampa.it/sport/2026/09/06/news/fifa_c_e_la_conferma_gianni_infantino_si_ricandidera_alle_elezioni_di_marzo-15731787/"
       ]
     }
   ]
