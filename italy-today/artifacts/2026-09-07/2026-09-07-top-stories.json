@@ -1,12 +1,12 @@
 {
   "date": "2026-09-07",
-  "generated_at": "Mon 07 Sep 21:32",
+  "generated_at": "Mon 07 Sep 22:02",
   "stories": [
     {
       "rank": 1,
       "title": "Germania, AfD stravince in Sassonia-Anhalt, l'estrema destra fa paura",
       "source_count": 7,
-      "article_count": 19,
+      "article_count": 18,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -27,9 +27,10 @@
     {
       "rank": 2,
       "title": "Folla si raduna a Belgrado per i funerali di Ratko Mladic",
-      "source_count": 8,
-      "article_count": 11,
+      "source_count": 9,
+      "article_count": 12,
       "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
@@ -40,11 +41,11 @@
         "news.google.com"
       ],
       "links": [
+        "https://ilmanifesto.it/ratko-mladic-le-ombre-lunghe-dei-funerali-da-eroe-a-belgrado",
         "https://www.ansa.it/sito/notizie/mondo/2026/09/07/onori-di-stato-per-ratko-mladic-migliaia-di-persone-al-suo-funerale_d8f7fb5d-def5-4a03-ad9d-9ce79e09333f.html",
         "https://www.liberoquotidiano.it/news/tv-news/49070933/funerali-mladic-in-migliaia-per-l-ultimo-saluto-al-boia-srebrenica-/",
         "https://www.ilmessaggero.it/persone/funerali_mladic_folla_scontro_europa_cosa_e_successo-9748902.html",
-        "https://www.laverita.info/video/mondo-video/funerali-mladic",
-        "https://www.lastampa.it/esteri/2026/09/07/video/funerali-ratko-mladic-belgrado-migliaia-boia-srebrenica-15732747/"
+        "https://www.laverita.info/video/mondo-video/funerali-mladic"
       ]
     },
     {
