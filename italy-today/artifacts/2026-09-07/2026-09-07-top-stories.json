@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "generated_at": "Mon 07 Sep 18:16",
+  "generated_at": "Mon 07 Sep 21:32",
   "stories": [
     {
       "rank": 1,
@@ -17,11 +17,11 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/07/elezioni-in-sassonia-anhalt-merz-scioccato.-scossi-nelle-fondamenta-ma-non-mi-arrendo_b20daeaf-6891-4f41-9889-d644a47307ba.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/09/07/elezioni-in-sassonia-anhalt.-merz-non-si-arrende-ma-ammette-la-disfatta-siamo-scioccati._c360a5f1-87a5-49bb-9c34-a04c0a4b3806.html",
         "https://www.liberoquotidiano.it/news/migliori-video/49070965/perche-il-popolo-ha-scelto-l-afd-in-sassonia/",
         "https://www.liberoquotidiano.it/news/tv-news/49071656/germania-merz-profondamente-scioccati-arrendermi-non-e-un-opzione-/",
-        "https://www.ilmessaggero.it/vaticano/afd_chiesa_tedesca_vescovi_cattolici_voto_estrema_destra-9749008.html",
-        "https://www.ilmessaggero.it/mondo/merz_afd_cdu_elezioni_sassonia_cosa_ha_detto-9748961.html"
+        "https://www.ilmessaggero.it/vaticano/afd_chiesa_tedesca_vescovi_cattolici_voto_estrema_destra-9749008.html"
       ]
     },
     {
@@ -49,24 +49,51 @@
     },
     {
       "rank": 3,
-      "title": "Il red carpet di Venezia, i protagonisti",
-      "source_count": 3,
-      "article_count": 12,
+      "title": "Emma Bonino ricoverata in ospedale a Roma, è grave",
+      "source_count": 8,
+      "article_count": 9,
       "source_domains": [
-        "d.repubblica.it",
+        "liberoquotidiano.it",
         "ansa.it",
-        "liberoquotidiano.it"
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
-        "https://d.repubblica.it/culture/dossier/mostra-cinema-venezia/2026/09/07/news/red_carpet_venezia_2026_look_vestito_jasmine_trinca_valeria_bruni_tedeschi-425570806/",
-        "https://www.ansa.it/sito/photogallery/primopiano/2026/09/07/il-red-carpet-di-venezia-i-protagonisti_f7ceac03-1ab7-42eb-8adf-0cbf32849502.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49067078/venezia-susan-sarandon-sfila-sul-red-carpet-con-una-spilla-per-gaza/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49065881/venezia-83-susan-sarandon-sfila-sul-red-carpet-elegantissima-in-total-black-con-scollo-a-barca/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49065871/ricky-martin-incanta-il-red-carpet-di-venezia-83-ha-scelto-un-blazer-bianco-e-pantaloni-neri/"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49072662/emma-bonino-ricoverata-in-ospedale-a-roma-in-gravi-condizioni-eccola-nel-2022-archivio/",
+        "https://www.ansa.it/sito/notizie/politica/2026/09/07/emma-bonino-ricoverata-in-ospedale-a-roma-e-grave_7b4947f8-04af-4663-a970-d39283ad2cc1.html",
+        "https://www.adnkronos.com/politica/emma-bonino-ospedale-ricovero-roma_2ggUX9MMRh5vSz0xNzYnPO",
+        "https://www.ilfattoquotidiano.it/2026/09/07/emma-bonino-ricovero-codice-rosso-roma-condizioni-critiche/8499818/",
+        "https://www.repubblica.it/politica/2026/09/07/news/emma_bonino_ricoverata_urgenza_ospedale-425570744/"
       ]
     },
     {
       "rank": 4,
+      "title": "Lorena Isceri, l'autopsia: «Era ancora viva quando l'ex Federico Vella l'ha gettata dal viadotto»",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "firenze.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/lorena-era-ancora-viva-quando-lex-lha-gettata-dal-viadotto_8844a33a-4658-465b-b62a-ae9932303cad.html",
+        "https://www.liberoquotidiano.it/news/italia/49072610/la-drammatica-scoperta-dopo-l-autopsia-su-lorena-ancora-viva-quando-e-stata-gettata-nel-vuoto/",
+        "https://www.ilfattoquotidiano.it/2026/09/07/lorena-isceri-autopsia-viadotto-notizie/8499872/",
+        "https://firenze.repubblica.it/cronaca/2026/09/07/news/autopsia_morte_lorena_isceri_federico_vella_firenze_femminicidio-425570836/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/femminicidio-in-a1-disposta-lautopsia-sui-due-corpi_8844a33a-4658-465b-b62a-ae9932303cad.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Lavitola: 'Dall'amicizia con Ranucci cercavo un mio riscatto'",
       "source_count": 6,
       "article_count": 7,
@@ -84,27 +111,6 @@
         "https://www.ilmessaggero.it/politica/lavitola_ranucci_amicizia_cosa_ha_detto_oggi_riscatto-9748835.html",
         "https://www.laverita.info/video/inchieste-video/difesa-lavitola-udienza",
         "https://www.liberoquotidiano.it/news/tv-news/49067447/attentato-ranucci-legale-lavitola-in-videocollegamento-con-riesame/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Autopsia, Lorena era ancora viva quando l’ex l’ha gettata dal viadotto",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "firenze.repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/07/lorena-isceri-autopsia-viadotto-notizie/8499872/",
-        "https://firenze.repubblica.it/cronaca/2026/09/07/news/autopsia_morte_lorena_isceri_federico_vella_firenze_femminicidio-425570836/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/07/femminicidio-in-a1-disposta-lautopsia-sui-due-corpi_8844a33a-4658-465b-b62a-ae9932303cad.html",
-        "https://www.ilmessaggero.it/italia/lorena_isceri_viva_autopsia_omicidio_federico_vella_ultime_notizie-9749261.html",
-        "https://www.adnkronos.com/cronaca/lorena-isceri-padre-franco-appello-tv_23PNmtggNFPDr7qHISRz00"
       ]
     },
     {
@@ -129,47 +135,26 @@
     },
     {
       "rank": 7,
-      "title": "Emma Bonino ricoverata in ospedale a Roma, è grave",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/09/07/emma-bonino-ricoverata-in-ospedale-a-roma-e-grave_7b4947f8-04af-4663-a970-d39283ad2cc1.html",
-        "https://www.adnkronos.com/politica/emma-bonino-ospedale-ricovero-roma_2ggUX9MMRh5vSz0xNzYnPO",
-        "https://www.ilfattoquotidiano.it/2026/09/07/emma-bonino-ricovero-codice-rosso-roma-condizioni-critiche/8499818/",
-        "https://www.repubblica.it/politica/2026/09/07/news/emma_bonino_ricoverata_urgenza_ospedale-425570744/",
-        "https://www.lastampa.it/politica/2026/09/07/news/emma_bonino_ricoverata_ospedale_roma_come_sta-15732974/"
-      ]
-    },
-    {
-      "rank": 8,
       "title": "“L’intervento è riuscito”. Di Battista è sedato, per tornare in Italia potrebbero volerci settimane",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
+        "ansa.it",
         "adnkronos.com",
         "ilmessaggero.it",
         "lastampa.it",
-        "repubblica.it",
-        "ansa.it"
+        "repubblica.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/09/07/di-battista-sedato-e-in-terapia-intensiva-dopo-lintervento_499e3ef0-2aae-4d56-be9e-8d59d80af400.html",
         "https://www.adnkronos.com/cronaca/di-battista-ricoverato-cuba-come-sta-quando-torna_3KhuEvacH6VX8Fj2eCebwY",
         "https://www.ilmessaggero.it/politica/di_battista_notizie_oggi_come_sta_cuba_operazione_come_e_andata-9748654.html",
         "https://www.lastampa.it/politica/2026/09/07/news/di_battista_intervento_riuscito_medici_cuba_rientro_italia-15732325/",
-        "https://www.repubblica.it/politica/2026/09/07/news/alessandro_di_battista_condizioni_salute_operazione_cuba-425569181/",
-        "https://www.ansa.it/sito/notizie/politica/2026/09/06/ansia-per-di-battista-amici-e-famiglia-mantengono-il-riserbo-_0978aacf-84ca-48e7-a11d-987f72161750.html"
+        "https://www.repubblica.it/politica/2026/09/07/news/alessandro_di_battista_condizioni_salute_operazione_cuba-425569181/"
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Estate Italia 2026, la più calda dal 1950. Verso l'anno più rovente",
       "source_count": 5,
       "article_count": 5,
@@ -189,22 +174,41 @@
       ]
     },
     {
-      "rank": 10,
-      "title": "Trump oggi parlerà con Putin e Zelensky. Mosca: “Missione Witkoff-Kushner piccolo passo per la pace”",
+      "rank": 9,
+      "title": "Eruzione in Indonesia, prolungata la chiusura di quattro aeroporti",
       "source_count": 4,
-      "article_count": 6,
+      "article_count": 5,
       "source_domains": [
         "ansa.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/07/witkoff-dopo-la-visita-a-mosca-e-kiev-progressi-sostanziali.-trump-sente-putin_391a327c-3674-40b5-9264-eae5c0bcb3c2.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/07/media-trump-parlera-oggi-con-putin-e-zelensky_391a327c-3674-40b5-9264-eae5c0bcb3c2.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49068203/ucraina-colloqui-con-gli-usa-mentre-continuano-gli-attacchi/",
-        "https://www.repubblica.it/esteri/2026/09/07/news/ucraina_trattativa_zelensky_inverno_di_guerra_lavrov_germania-425569033/",
-        "https://www.repubblica.it/esteri/2026/09/07/diretta/guerra_ucraina_russia_news_oggi-425569297/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/07/erutta-un-vulcano-in-indonesia-fermo-laeroporto-di-giacarta_668c256e-3c55-4f34-8099-47810a1fa49e.html",
+        "https://www.ilfattoquotidiano.it/2026/09/07/eruzione-anak-krakatoa-voli-giacarta-notizie/8499549/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/09/07/eruzione-in-indonesia-prolungata-la-chiusura-di-quattro-aeroporti_875302d2-95ad-43a2-a92f-fbda8f750ebb.html",
+        "https://www.adnkronos.com/internazionale/esteri/indonesia-erutta-vulcano-cenere-aeroporti-chiusi_3F0YhSiIZrR0ldDFVGmZQY",
+        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxd3U4dTJMUmpMNW5OdlJRWUdjaHNjeVlFZlBINU5qMXhPVHdJbXVFVndYVVpXcWpobnpGV3JjaGZlVXZHdGhJWTlaTVBjRjlhRmZVVVVCQTJLbF9YN3FQVzR5T1h0bkJjSy02d0JqNnN1S2Q4T05J?oc=5"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Libano, almeno 11 morti negli attacchi di Israele a Kfar Reman",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/07/nuovi-raid-israeliani-in-libano-sterminata-una-famiglia_a65d8ecf-b5c7-46bf-a111-e4f911f7f832.html",
+        "https://www.lastampa.it/esteri/2026/09/07/news/israele_avverte_hezbollah_non_vi_riarmerete_non_lo_consentiremo_raid_in_libano_almeno_12_morti-15733021/",
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/07/media-libano-11-morti-nei-raid-israeliani-su-villaggio-nel-sud-anche_a65d8ecf-b5c7-46bf-a111-e4f911f7f832.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49067388/libano-almeno-11-morti-negli-attacchi-di-israele-a-kfar-reman/",
+        "https://news.google.com/rss/articles/CBMie0FVX3lxTE9hd0oxZEp6RjMyLUd6b2pUZkZUSEZJcC0yQzFwSThiQ005eURqeG1ET0dsZzVWYTZqem1KS29ISGNGanpES2tmVXJ0M3Joc0xGNnlHdFYzeVBoWTRmQmxYaVdCc2tOQU9QWTFnQmVMell0dnpkZEhRNFBYUQ?oc=5"
       ]
     }
   ]
