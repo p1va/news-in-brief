@@ -1,11 +1,11 @@
 {
   "date": "2026-09-08",
-  "generated_at": "Tue 08 Sep 19:28",
+  "generated_at": "Tue 08 Sep 21:08",
   "stories": [
     {
       "rank": 1,
-      "title": "Il rapporto Pisa, \"la preparazione degli studenti mai così giù nell'area Ocse\"",
-      "source_count": 6,
+      "title": "Allarme Ocse: preparazione degli studenti ai minimi storici, ma gli italiani migliori nella lettura",
+      "source_count": 7,
       "article_count": 8,
       "source_domains": [
         "ansa.it",
@@ -13,7 +13,8 @@
         "adnkronos.com",
         "ilmessaggero.it",
         "repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "agi.it"
       ],
       "links": [
         "https://www.ansa.it/canale_legalita_scuola/speciali/back-to-school/2026/09/08/gli-studenti-ocse-mai-cosi-male-ma-gli-italiani-si-salvano_71d3673a-6607-4fef-830a-274818c76fe9.html",
@@ -126,66 +127,48 @@
     },
     {
       "rank": 7,
+      "title": "Manovra, Giorgetti: \"Flat tax per i giovani, in pensione a 64 anni ha senso ma attenzione ai conti\"",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/09/08/manovra-2027-giorgetti-flat-tax-stipendi-notizie/8501023/",
+        "https://www.ansa.it/sito/notizie/economia/2026/09/08/giorgetti-flat-tax-e-stipendi-per-i-giovani-nel-cantiere-manovra_58191531-a566-4691-8d37-d45fdaf0aa88.html",
+        "https://www.adnkronos.com/economia/giorgetti-stipendi-giovani-flat-tax-pensioni_17NZqTsPlLU8X27ES8jGxS",
+        "https://www.lastampa.it/economia/2026/09/08/news/giorgetti_flat_tax_stipendi_giovani_pensione_64_anni-15733977/",
+        "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/09/08/news/manovra_2027_giorgetti_flat_tax_giovani_pensione_64_anni_conti-425572823/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Caos nei cieli del Regno Unito, in tilt anche gli scali di Heathrow e Gatwick",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
+        "adnkronos.com",
         "ansa.it",
-        "liberoquotidiano.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
         "lastampa.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.adnkronos.com/internazionale/esteri/caos-voli-gb-guasto-tecnico-bilancio_JNHOuArbupYIF0M8QTE0M",
         "https://www.ansa.it/sito/notizie/mondo/2026/09/08/caos-nei-cieli-del-regno-unito-in-tilt-anche-gli-scali_48723a44-eed3-4055-be85-b15c535c50d3.html",
-        "https://www.liberoquotidiano.it/news/esteri/49078563/aerei_regno_unito_tilt_voli_sospesi_guasto_tecnico_pesanti_dubbi/",
         "https://www.repubblica.it/esteri/2026/09/08/news/aeroporti_regno_unito_guasto_tecnico_tilt_heathrow_gatwick-425572698/",
         "https://www.ilfattoquotidiano.it/2026/09/08/caos-voli-regno-unito-guasto-traffico-aereo-notizie/8500734/",
         "https://www.lastampa.it/esteri/2026/09/08/news/traffico_aereo_in_tilt_in_gran_bretagna_ritardi_e_disagi_in_molti_aeroporti-15733767/"
       ]
     },
     {
-      "rank": 8,
-      "title": "Una delegazione induista ha fatto allontanare le dipendenti della Tour Eiffel durante una visita",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/49078814/la-torre-eiffel-riapre-dopo-polemica-su-rimozione-del-personale-femminile/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/08/riapre-la-tour-eiffel-dopo-lo-sciopero-contro-la-discriminazione-delle-dipendenti-donne_c2d251f2-1571-4a82-b0e6-c4e24def975c.html",
-        "https://www.repubblica.it/esteri/2026/09/08/news/francia_donne_nascoste_per_accontentare_richieste_delegazione_indu_sciopero_tour_eiffel-425571587/",
-        "https://www.lastampa.it/esteri/2026/09/07/news/donne_torre_tour_eiffel_indu_sciopero-15733202/",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFVTA2RktuRGV0V3lqSXpSN1E2VGMzZC1xX0ZMQ1pzRTk0SjNRQTl0emtUeUc0TU9kdkpZamVLV1BVeldaMHlvazNaQnpocWppdDRlOHFjTnNabGxOWG1KNkRMRnUyUVdtc05uSkpB?oc=5"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Ultradestra in Europa, rischio onda nera dopo il trionfo Afd? Dalla Francia alla Polonia, dove avanza e la mappa del voto",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "bologna.repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/schede/destra_estrema_europa_dove_elezioni_2027_mappa_voto_rischio_contagio_francia_germania_spagna_polonia-9750996.html",
-        "https://bologna.repubblica.it/cronaca/2026/09/08/news/prodi_afd_europa_pericolo_intervista-425571325/",
-        "https://ilmanifesto.it/il-rischio-prima-volta-da-magdeburgo-alleuropa",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/09/08/news/afd_russia_diplomazia_ue-15733154/",
-        "https://www.lastampa.it/esteri/2026/09/08/news/rischio_germania_per_l_europa-15733136/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "APR, tecnologia italiana per aviazione e spazio alla conquista del mercato Usa",
       "source_count": 1,
       "article_count": 9,
@@ -198,6 +181,26 @@
         "https://www.liberoquotidiano.it/news/pillole/49074325/netgroup_dalla_cybersecurity_allo_spazio_la_sfida_del_mercato_americano/",
         "https://www.liberoquotidiano.it/news/pillole/49074141/leas_robot_e_ia_per_l_industria_la_nostra_tecnologia_e_al_top_/",
         "https://www.liberoquotidiano.it/news/pillole/49074126/apr_tecnologia_italiana_per_aviazione_e_spazio_alla_conquista_del_mercato_usa/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Mancato tesseramento Figc di Malagò, procura Coni respinge richiesta archiviazione",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/09/08/figc-mancato-tesseramento-di-malago-la-procura-del-coni-respinge-la-richiesta-di-archiviazione_952a495b-b419-4a4a-82b2-4d284ed41f4b.html",
+        "https://www.adnkronos.com/sport/giovanni-malago-mancato-tesseramento-figc-procura-coni-respinge-richiesta-archiviazione_3mGboOYvB6dHy4D4aT2qdG",
+        "https://www.liberoquotidiano.it/news/sport/49081300/giovanni_malago_senza_tessera_figc_procura_rinvia_tutto_coni_clamoroso_colpo_scena/",
+        "https://www.repubblica.it/sport/2026/09/08/news/malago_incandidabile_la_procura_dello_sport_rigetta_l_archiviazione_gli_atti_al_coni-425572986/",
+        "https://www.ilfattoquotidiano.it/2026/09/08/malago-figc-tesseramento-procura-generale-notizie/8500825/"
       ]
     }
   ]
