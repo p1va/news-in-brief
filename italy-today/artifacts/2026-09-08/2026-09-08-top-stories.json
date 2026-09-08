@@ -1,9 +1,30 @@
 {
   "date": "2026-09-08",
-  "generated_at": "Tue 08 Sep 15:09",
+  "generated_at": "Tue 08 Sep 19:28",
   "stories": [
     {
       "rank": 1,
+      "title": "Il rapporto Pisa, \"la preparazione degli studenti mai così giù nell'area Ocse\"",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/canale_legalita_scuola/speciali/back-to-school/2026/09/08/gli-studenti-ocse-mai-cosi-male-ma-gli-italiani-si-salvano_71d3673a-6607-4fef-830a-274818c76fe9.html",
+        "https://www.ilfattoquotidiano.it/2026/09/08/rapporto-pisa-2025-studenti-italiani-notizie/8500521/",
+        "https://www.adnkronos.com/cronaca/scuola-ocse-prestazioni-italia-valditara_2YxT5WrCzjwLSbIqqV3SNm",
+        "https://www.ansa.it/canale_legalita_scuola/speciali/back-to-school/2026/09/08/il-rapporto-pisa-la-preparazione-degli-studenti-mai-cosi-giu-nellarea-ocse_71d3673a-6607-4fef-830a-274818c76fe9.html",
+        "https://www.ilmessaggero.it/scuola/studenti_italiani_ocse_pisa_lettura_preparazione-9750725.html"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "7 ottobre, Emirati avvisarono Netanyahu: “Hamas prepara un’operazione”. Il premier israeliano nega",
       "source_count": 7,
       "article_count": 7,
@@ -25,7 +46,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Vannacci fa lezione ai poliziotti a Torino, i saluti del Questore diventano un caso",
       "source_count": 6,
       "article_count": 7,
@@ -46,7 +67,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Francia, furto al museo Renoir: rubati quattro quadri per 9 milioni. Due dipinti poi recuperati",
       "source_count": 6,
       "article_count": 7,
@@ -67,7 +88,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Venezia 83, il cast del film \"L'estranea\" sfila mano nella mano sul red carpet",
       "source_count": 2,
       "article_count": 11,
@@ -84,27 +105,68 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Il rapporto Pisa, \"la preparazione degli studenti mai così giù nell'area Ocse\"",
+      "rank": 6,
+      "title": "Londra e altri 11 Paesi sanzionano i commerci con i coloni, ira di Israele",
       "source_count": 5,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
-        "adnkronos.com",
         "ansa.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "repubblica.it",
-        "lastampa.it"
+        "news.google.com"
       ],
       "links": [
-        "https://www.adnkronos.com/cronaca/scuola-ocse-prestazioni-italia-valditara_2YxT5WrCzjwLSbIqqV3SNm",
-        "https://www.ansa.it/canale_legalita_scuola/speciali/back-to-school/2026/09/08/il-rapporto-pisa-la-preparazione-degli-studenti-mai-cosi-giu-nellarea-ocse_71d3673a-6607-4fef-830a-274818c76fe9.html",
-        "https://www.ilmessaggero.it/scuola/studenti_italiani_ocse_pisa_lettura_preparazione-9750725.html",
-        "https://www.repubblica.it/cronaca/2026/09/08/news/ocse_scuola_livello_studenti_matematica_italiano_lettura-425571854/",
-        "https://www.lastampa.it/cronaca/2026/09/08/news/scuola_ocse_studenti_minimi_storici_italiani_migliori_lettura-15733489/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/08/scure-di-londra-e-di-altri-11-contro-i-coloni-israele-chiude-il-consolato-del-regno_e599cc3b-d374-4f76-8ad3-30e9dff04d54.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/08/londra-e-altri-11-paesi-sanzionano-i-commerci-con-i-coloni-ira-di-israele_e599cc3b-d374-4f76-8ad3-30e9dff04d54.html",
+        "https://www.ilfattoquotidiano.it/2026/09/08/colonie-israeliane-cisgiordania-sanzioni-commerciali-notizie/8500561/",
+        "https://www.ilmessaggero.it/mondo/israele_sanzioni_europa_cisgiordania_cosa_succede-9751039.html",
+        "https://www.repubblica.it/esteri/2026/09/08/diretta/guerra_iran_usa_israele_news_oggi-425571347/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
+      "title": "Caos nei cieli del Regno Unito, in tilt anche gli scali di Heathrow e Gatwick",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/08/caos-nei-cieli-del-regno-unito-in-tilt-anche-gli-scali_48723a44-eed3-4055-be85-b15c535c50d3.html",
+        "https://www.liberoquotidiano.it/news/esteri/49078563/aerei_regno_unito_tilt_voli_sospesi_guasto_tecnico_pesanti_dubbi/",
+        "https://www.repubblica.it/esteri/2026/09/08/news/aeroporti_regno_unito_guasto_tecnico_tilt_heathrow_gatwick-425572698/",
+        "https://www.ilfattoquotidiano.it/2026/09/08/caos-voli-regno-unito-guasto-traffico-aereo-notizie/8500734/",
+        "https://www.lastampa.it/esteri/2026/09/08/news/traffico_aereo_in_tilt_in_gran_bretagna_ritardi_e_disagi_in_molti_aeroporti-15733767/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Una delegazione induista ha fatto allontanare le dipendenti della Tour Eiffel durante una visita",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/49078814/la-torre-eiffel-riapre-dopo-polemica-su-rimozione-del-personale-femminile/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/08/riapre-la-tour-eiffel-dopo-lo-sciopero-contro-la-discriminazione-delle-dipendenti-donne_c2d251f2-1571-4a82-b0e6-c4e24def975c.html",
+        "https://www.repubblica.it/esteri/2026/09/08/news/francia_donne_nascoste_per_accontentare_richieste_delegazione_indu_sciopero_tour_eiffel-425571587/",
+        "https://www.lastampa.it/esteri/2026/09/07/news/donne_torre_tour_eiffel_indu_sciopero-15733202/",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFVTA2RktuRGV0V3lqSXpSN1E2VGMzZC1xX0ZMQ1pzRTk0SjNRQTl0emtUeUc0TU9kdkpZamVLV1BVeldaMHlvazNaQnpocWppdDRlOHFjTnNabGxOWG1KNkRMRnUyUVdtc05uSkpB?oc=5"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Ultradestra in Europa, rischio onda nera dopo il trionfo Afd? Dalla Francia alla Polonia, dove avanza e la mappa del voto",
       "source_count": 4,
       "article_count": 6,
@@ -123,7 +185,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "APR, tecnologia italiana per aviazione e spazio alla conquista del mercato Usa",
       "source_count": 1,
       "article_count": 9,
@@ -136,64 +198,6 @@
         "https://www.liberoquotidiano.it/news/pillole/49074325/netgroup_dalla_cybersecurity_allo_spazio_la_sfida_del_mercato_americano/",
         "https://www.liberoquotidiano.it/news/pillole/49074141/leas_robot_e_ia_per_l_industria_la_nostra_tecnologia_e_al_top_/",
         "https://www.liberoquotidiano.it/news/pillole/49074126/apr_tecnologia_italiana_per_aviazione_e_spazio_alla_conquista_del_mercato_usa/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Cisgiordania, sanzioni da Gran Bretagna e 11 Paesi contro i coloni. Miliband: «Pulizia etnica». E Israele chiude il consolato",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/08/londra-e-altri-11-paesi-sanzionano-i-commerci-con-i-coloni-ira-di-israele_e599cc3b-d374-4f76-8ad3-30e9dff04d54.html",
-        "https://www.ilfattoquotidiano.it/2026/09/08/colonie-israeliane-cisgiordania-sanzioni-commerciali-notizie/8500561/",
-        "https://www.ilmessaggero.it/mondo/israele_sanzioni_europa_cisgiordania_cosa_succede-9751039.html",
-        "https://www.repubblica.it/esteri/2026/09/08/diretta/guerra_iran_usa_israele_news_oggi-425571347/",
-        "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeHh5M2NZYUN6THhNMjRSUFY5d2YzVTExR2NBZlhjSHNFeXctVmRQV1lzejNOOWtjWkxCQjVpMmZBdVVBZnQ4U1RxVE1vTVA5c2hrUFdYZW5wSlRGNUNiNTNETThYNUxtRUxmNG96N0phOXhCUkpndWU4cl9kdGlfdDJkeFM5WHJKREw2emtXMHY1SG5OTC1LaEh2ajBKdzZXZUpBdzViNjlTUQ?oc=5"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "L'Ue: il funerale di Mladic contraddice il percorso della Serbia verso l'Unione",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/08/lue-il-funerale-di-mladic-contraddice-il-percorso-della-serbia-verso-lunione_9735357c-8a89-4d57-a12d-092220bc3061.html",
-        "https://www.ilfattoquotidiano.it/2026/09/08/la-bosnia-ritira-il-personale-dellambasciata-a-belgrado-dopo-i-funerali-di-mladic-ue-scioccanti-le-immagini-delle-esequie/8500530/",
-        "https://www.ilmessaggero.it/mondo/bosnia_ritira_personale_ambasciata_serbia_funerale_mladic_cosa_e_successo-9750991.html",
-        "https://www.lastampa.it/esteri/2026/09/08/news/von_der_leyen_il_funerale_mladic_deplorevole_contraddice_il_percorso_della_serbia_verso_l_unione-15733530/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/08/vertici-ue-funerale-mladic-contraddice-percorso-della-serbia-verso-lunione_9735357c-8a89-4d57-a12d-092220bc3061.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Una delegazione induista ha fatto allontanare le dipendenti della Tour Eiffel durante una visita",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/08/riapre-la-tour-eiffel-dopo-lo-sciopero-contro-la-discriminazione-delle-dipendenti-donne_c2d251f2-1571-4a82-b0e6-c4e24def975c.html",
-        "https://www.repubblica.it/esteri/2026/09/08/news/francia_donne_nascoste_per_accontentare_richieste_delegazione_indu_sciopero_tour_eiffel-425571587/",
-        "https://www.lastampa.it/esteri/2026/09/07/news/donne_torre_tour_eiffel_indu_sciopero-15733202/",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTFBFVTA2RktuRGV0V3lqSXpSN1E2VGMzZC1xX0ZMQ1pzRTk0SjNRQTl0emtUeUc0TU9kdkpZamVLV1BVeldaMHlvazNaQnpocWppdDRlOHFjTnNabGxOWG1KNkRMRnUyUVdtc05uSkpB?oc=5",
-        "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wSzVqRGs1aHZRdDhMTTc2QlJvb0VwdGJMaXpVWkNzR1RhWjFzY3VRT2JndVQ5amlXQWQtMlZYbTNjb3NfSkZJRDJaOU55cTlrTk1BWlBkcmlPMkVISXA2cktHMno0anhSdnprcA?oc=5"
       ]
     }
   ]
