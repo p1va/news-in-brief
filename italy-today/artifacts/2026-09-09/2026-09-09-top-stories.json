@@ -1,6 +1,6 @@
 {
   "date": "2026-09-09",
-  "generated_at": "Wed 09 Sep 20:58",
+  "generated_at": "Wed 09 Sep 22:30",
   "stories": [
     {
       "rank": 1,
@@ -52,21 +52,22 @@
     {
       "rank": 3,
       "title": "Gli Usa diffondo immagini di un attacco a cinque petroliere iraniane",
-      "source_count": 5,
-      "article_count": 9,
+      "source_count": 6,
+      "article_count": 10,
       "source_domains": [
-        "liberoquotidiano.it",
+        "ilmanifesto.it",
+        "lastampa.it",
+        "ilmessaggero.it",
         "laverita.info",
         "ansa.it",
-        "lastampa.it",
-        "repubblica.it"
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/49089774/iran-estesa-la-zona-vietata-nell-area-dello-stretto-di-hormuz/",
+        "https://ilmanifesto.it/fuoco-a-mare-liran-e-gli-usa-si-colpiscono-le-navi-del-petrolio",
+        "https://www.lastampa.it/esteri/2026/09/10/diretta/guerra_iran_usa_israele_news_oggi-15735034/",
+        "https://www.ilmessaggero.it/mondo/hormuz_raid_usa_sulle_petroliere_iran_colpisce_le_basi_giordania-9753699.html",
         "https://www.laverita.info/video/mondo-video/attacco-petroliere-iran-usa",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/09/iran-attaccate-2-navi-statunitensi-e-10-petroliere-nel-golfo_17dd8e7d-5836-4e9b-a20d-4f323a23a961.html",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/09/09/gli-usa-diffondo-immagini-di-un-attacco-a-cinque-petroliere-iraniane_20a6886f-bc08-4dba-a2c3-f743596af961.html",
-        "https://www.liberoquotidiano.it/news/pillole/49084823/attacco_usa_distrugge_cinque_petroliere_iraniane/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/09/iran-attaccate-2-navi-statunitensi-e-10-petroliere-nel-golfo_17dd8e7d-5836-4e9b-a20d-4f323a23a961.html"
       ]
     },
     {
@@ -111,6 +112,45 @@
     },
     {
       "rank": 6,
+      "title": "Merz replica a Weidel: \"Remigrazione chiesta da AfD è pulizia etnica\"",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "ilmanifesto.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/energia-e-migranti-lassalto-di-afd-al-cancelliere-merz",
+        "https://www.liberoquotidiano.it/news/tv-news/49089314/merz-replica-a-weidel-remigrazione-chiesta-da-afd-e-pulizia-etnica-/",
+        "https://www.liberoquotidiano.it/news/libero-video/49086654/germania-weidel-parlamento-merz-suo-tempo-scaduto/",
+        "https://www.liberoquotidiano.it/news/tv-news/49086080/schlein-afd-a-furia-rincorrere-estrema-destra-ppe-ha-aperto-strada/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/09/merz-attacca-afd-la-vostra-remigrazione-e-pulizia-etnica_b407514f-0810-4e73-997a-bb3f56476b1a.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Ue lancia nuove norme per limitare gli affitti brevi contro il caro-casa",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ilmanifesto.it",
+        "laverita.info",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/la-proposta-ue-sugli-affitti-brevi-scontenta-tutti",
+        "https://www.laverita.info/i-nostri-soldi/stretta-ue-affitti-brevi-seconde-case",
+        "https://www.ansa.it/europa/notizie/rubriche/altrenews/2026/09/09/ue-lancia-nuove-norme-per-limitare-gli-affitti-brevi-contro-il-caro_ec018a90-d22b-4ea2-a69c-301cc8285bca.html",
+        "https://www.ilfattoquotidiano.it/2026/09/09/affitti-brevi-affordable-housing-act-ue-notizie/8501553/",
+        "https://www.liberoquotidiano.it/news/pillole/49084917/ue_moratti_problema_casa_non_si_risolve_limitando_la_liberta_dei_proprietari_/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Apple, John Ternus lancia i nuovi iPhone 18 Pro e il pieghevole iPhone Duo: ecco come sono",
       "source_count": 5,
       "article_count": 5,
@@ -130,26 +170,26 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Sette arresti per l'omicidio di Diabolik. Il boss Senese mandante 'apicale'",
+      "rank": 9,
+      "title": "Venezia: il regista russo di 'Dau', 'auguro all'Ucraina di vincere questa guerra'",
       "source_count": 4,
       "article_count": 5,
       "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
+        "ilmanifesto.it",
         "liberoquotidiano.it",
-        "news.google.com"
+        "ansa.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/09/-sette-arresti-per-lomicidio-di-diabolik-senese-mandante-apicale-_37ddf697-2a42-459e-892d-22a3116ddf01.html",
-        "https://www.ilmessaggero.it/roma/tuscolana/diabolik_michele_senese_rapporto_lite_perche_omicidio_cosa_e_successo-9752926.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49085788/roma-arrestati-promotori-e-mandanti-dell-omicidio-piscitelli/",
-        "https://www.ilmessaggero.it/roma/tuscolana/diabolik_omicidio_arresto_mandanti_michele_senese_cosa_e_successo-9752779.html",
-        "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zN2tCZTZoWERoRGoyNnJPNmU1Mk5xaFVneHE0UVkzb1FDRVpBeHJMSWRnQzVEMy1oR0JzeG5kMV9HZlNvRFlWb21oeF9OcWw2MnRWbm1ZYUN2Rm1OTXNqejhpeUQzaE1FUDVFNVY2Z0NHRERK?oc=5"
+        "https://ilmanifesto.it/dau-lesercizio-del-potere-e-le-sue-attrazioni",
+        "https://www.liberoquotidiano.it/news/tv-news/49090454/venezia-il-regista-dissidente-russo-khrzhanovsky-sto-con-l-ucraina/",
+        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/09/il-regista-russo-di-dau-auguro-allucraina-di-vincere-questa-guerra_e2a623b2-d956-4ebb-9a42-351fc6bce2ca.html",
+        "https://www.repubblica.it/spettacoli/dossier/mostra-del-cinema-di-venezia/2026/09/09/news/dau_il_regista_ilya_khrzhanovsky_auguro_all_ucraina_di_vincere_questa_guerra_conferenza_stampa-425574461/",
+        "https://www.liberoquotidiano.it/news/pillole/49086640/venezia_regista_russo_khrzhanovsky_dau_non_e_un_film_politico_/"
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Martina Carbonaro uccisa a 14 anni dall’ex, la mamma al processo con il braccialetto elettronico",
       "source_count": 4,
       "article_count": 4,
@@ -164,42 +204,6 @@
         "https://www.ilfattoquotidiano.it/2026/09/09/omicidio-martina-carbonaro-processo-testimonianza-notizie/8501594/",
         "https://www.lastampa.it/cronaca/2026/09/09/news/femminicidio_martina_carbonaro_braccialetto_elettronico-15734554/",
         "https://napoli.repubblica.it/cronaca/2026/09/09/news/martina_carbonaro_uccisa_a_14_anni_dall_ex_la_mamma_al_processo_con_il_braccialetto_elettronico-425573790/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Merz replica a Weidel: \"Remigrazione chiesta da AfD è pulizia etnica\"",
-      "source_count": 3,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/49089314/merz-replica-a-weidel-remigrazione-chiesta-da-afd-e-pulizia-etnica-/",
-        "https://www.liberoquotidiano.it/news/libero-video/49086654/germania-weidel-parlamento-merz-suo-tempo-scaduto/",
-        "https://www.liberoquotidiano.it/news/tv-news/49086080/schlein-afd-a-furia-rincorrere-estrema-destra-ppe-ha-aperto-strada/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/09/merz-attacca-afd-la-vostra-remigrazione-e-pulizia-etnica_b407514f-0810-4e73-997a-bb3f56476b1a.html",
-        "https://www.lastampa.it/esteri/2026/09/09/news/germania_merz_adf_remigrazione_pulizia_etnica-15734313/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Caos nei cieli nel Regno Unito, ancora decine di voli cancellati",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/09/09/news/regno_unito_aeroporti_bloccati-425575078/",
-        "https://www.ilfattoquotidiano.it/2026/09/09/caos-voli-regno-unito-blocco-radar-notizie/8501627/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/09/caos-nei-cieli-nel-regno-unito-ancora-decine-di-voli-cancellati_3dd7c876-119d-4fe8-96c1-76afb22cbfef.html",
-        "https://news.google.com/rss/articles/CBMihgFBVV95cUxNd0lveDg2cEJ0TEFoWGY1d0NmNVQ5LTQ3ZkpFMnY4dHh3M25hYXFTMjduNEFrYUZaemJ0S01lRG5lSVJ0Q0JqalRjQko2SHpaaUVZbFRMS2lBTlNIRXhJNkYyLWgzTndPRUxIVThVUThFVi1qZmNJejkxSUFDMDV0V1VTQWxhQQ?oc=5"
       ]
     }
   ]
