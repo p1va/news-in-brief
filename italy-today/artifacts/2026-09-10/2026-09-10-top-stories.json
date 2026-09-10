@@ -1,9 +1,56 @@
 {
   "date": "2026-09-10",
-  "generated_at": "Thu 10 Sep 18:24",
+  "generated_at": "Thu 10 Sep 20:52",
   "stories": [
     {
       "rank": 1,
+      "title": "Incendio a bordo del volo easyJet per una power bank: evacuati 146 passeggeri con gli scivoli. Aeroporto di Malpensa chiuso per un'ora",
+      "source_count": 9,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "milano.repubblica.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/principio-incendio-ad-aereo-malpensa-chiude-per-unora_7GuqNLHax6kcEPXOi07vJW",
+        "https://www.liberoquotidiano.it/news/milano/49099376/malpensa-incendio-volo-easyjet-power-bank-passeggeri-evacuati-scivoli/",
+        "https://milano.repubblica.it/cronaca/2026/09/10/news/malpensa_principio_incendio_easyjet_passeggeri_evacuati-425577424/",
+        "https://www.ilmessaggero.it/italia/incendio_volo_easyjet_milano_malpensa_ultima_ora-9755613.html",
+        "https://www.ilfattoquotidiano.it/2026/09/10/incendio-easyjet-malpensa-evacuazione-notizie/8503071/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "È morta Denise Cosco, la figlia di Lea Garofalo testimone di giustizia: si è tolta la vita a 35 anni",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/10/la-figlia-di-lea-garofalo-si-toglie-la-vita-anche-lei-si-ribello-ai-boss_17abbcfc-3c0f-4582-bf35-cac7fc8438ef.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/10/si-e-uccisa-denise-la-figlia-di-lea-garofalo-testimone-di-giustizia_17abbcfc-3c0f-4582-bf35-cac7fc8438ef.html",
+        "https://www.liberoquotidiano.it/news/italia/49100248/denise-cosco-si-e-tolta-la-vita-era-la-figlia-di-lea-garofalo/",
+        "https://www.adnkronos.com/cronaca/morta-denise-cosco-figlia-lea-garofalo_Rm5MRCaZ8PG71E7ZVq9XS",
+        "https://www.repubblica.it/cronaca/2026/09/10/news/morta_denise_cosco_figlia_lea_garofalo_ndrangheta-425577476/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Trump: \"Se vinciamo le elezioni di midterm 5mila dollari a ogni statunitense\"",
       "source_count": 5,
       "article_count": 11,
@@ -23,7 +70,29 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 4,
+      "title": "Cdm, taglio delle accise di 7 giorni solo sul diesel. Meloni: “Nuovi provvedimenti in arrivo”",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/09/10/il-cdm-approva-il-decreto-il-taglio-delle-accise-prorogato-di-una-settimana_d6f0c05e-ef61-4533-8dd9-eed99ebce359.html",
+        "https://www.ilmessaggero.it/economia/news/taglio_accise_oggi_cosa_cambia-9755539.html",
+        "https://www.ilfattoquotidiano.it/2026/09/10/prezzi-carburanti-gasolio-proroga-accise-notizie/8502287/",
+        "https://www.repubblica.it/economia/2026/09/10/news/taglio_accise_altra_mini_proroga-425577118/",
+        "https://www.lastampa.it/politica/2026/09/10/diretta/accise_carburanti_cdm_proroga-15735572/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Donna muore annegata in un sottopassaggio allagato a Latisana",
       "source_count": 7,
       "article_count": 8,
@@ -45,75 +114,12 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Zelensky nel mirino dei russi: un drone ha sfiorato il suo aereo mentre partiva per la Norvegia",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/10/cremlino-la-minaccia-allaereo-di-zelensky-non-esisteva_32e60189-6617-49a3-a1a5-b71071ec9473.html",
-        "https://www.ilmessaggero.it/mondo/aereo_zelensky_moldavia_droni_russia_cosa_e_successo_veramente-9755177.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49095578/l-aereo-di-zelensky-sfiorato-da-un-drone-trump-putin-vuole-accordo/",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/09/10/prime-pagine-laereo-dizelenskysfiorato-da-un-drone-al-decollo-dalla-moldavia_1cf9bd1d-b7e0-4437-961d-97768eb1456c.html",
-        "https://www.repubblica.it/esteri/2026/09/10/news/zelensky_aereo_drone_russia_norvegia-425575694/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Cdm, taglio delle accise di 7 giorni solo sul diesel. Meloni: “Nuovi provvedimenti in arrivo”",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/09/10/il-cdm-approva-il-decreto-il-taglio-delle-accise-prorogato-di-una-settimana_d6f0c05e-ef61-4533-8dd9-eed99ebce359.html",
-        "https://www.ilmessaggero.it/economia/news/taglio_accise_oggi_cosa_cambia-9755539.html",
-        "https://www.ilfattoquotidiano.it/2026/09/10/prezzi-carburanti-gasolio-proroga-accise-notizie/8502287/",
-        "https://www.repubblica.it/economia/2026/09/10/news/taglio_accise_altra_mini_proroga-425577118/",
-        "https://www.lastampa.it/politica/2026/09/10/diretta/accise_carburanti_cdm_proroga-15735572/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Incendio a bordo del volo easyJet per una power bank: evacuati 146 passeggeri con gli scivoli. Aeroporto di Malpensa chiuso per un'ora",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "milano.repubblica.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/principio-incendio-ad-aereo-malpensa-chiude-per-unora_7GuqNLHax6kcEPXOi07vJW",
-        "https://milano.repubblica.it/cronaca/2026/09/10/news/malpensa_principio_incendio_easyjet_passeggeri_evacuati-425577424/",
-        "https://www.ilmessaggero.it/italia/incendio_volo_easyjet_milano_malpensa_ultima_ora-9755613.html",
-        "https://www.ilfattoquotidiano.it/2026/09/10/incendio-easyjet-malpensa-evacuazione-notizie/8503071/",
-        "https://www.lastampa.it/cronaca/2026/09/10/news/malpensa_principio_d_incendio_su_aereo-15735796/"
-      ]
-    },
-    {
       "rank": 6,
       "title": "Bce, arriva la nuova stretta contro i rincari energetici: tassi su di 25 punti base",
-      "source_count": 6,
-      "article_count": 7,
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "ansa.it",
@@ -122,15 +128,58 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/pillole/49100242/la_bce_alza_i_tassi_di_25_punti_base/",
         "https://www.ilmessaggero.it/economia/news/mutui_quanto_aumentano_e_come_risparmiare-9755435.html",
         "https://www.ilfattoquotidiano.it/2026/09/10/bce-rialzo-tassi-mutui-notizie/8502657/",
         "https://www.ansa.it/sito/notizie/economia/2026/09/10/la-bce-alza-i-tassi-di-un-quarto-di-punto-i-depositi-passano-al-250_437501fd-ba6d-4c64-9539-19d86f5b276c.html",
-        "https://www.repubblica.it/economia/2026/09/10/news/bce_alza_tassi_di_interesse_25_punti_base_guerra_inflazione-425576764/",
-        "https://www.lastampa.it/economia/2026/09/10/news/bce_nuovo_rialzo_tassi_rincari_energia_inflazione-15735435/"
+        "https://www.repubblica.it/economia/2026/09/10/news/bce_alza_tassi_di_interesse_25_punti_base_guerra_inflazione-425576764/"
       ]
     },
     {
       "rank": 7,
+      "title": "Legge elettorale: il Senato boccia sub-emendamento delle opposizioni sulle preferenze",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/09/10/legge-elettorale-via-libera-del-senato-allemendamento-di-maggioranza-sulle-preferenze_cf34bbcc-29f3-4188-9cca-0c628eba40e4.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49099952/-con-noi-le-preferenze-con-loro-zero-preferenze-i-cartelli-di-fdi-in-senato-su-legge-elettorale/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49099954/legge-elettorale-via-libera-del-senato-all-emendamento-di-maggioranza-sulle-preferenze/",
+        "https://www.ilmessaggero.it/politica/meloni_legge_elettorale_preferenze_strategia-9755504.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/09/10/legge-elettorale-riunione-di-maggioranza-in-senato-con-tecnici-casellati-e-capigruppo_cf34bbcc-29f3-4188-9cca-0c628eba40e4.html"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Pullman turistico si ribalta in Svizzera, diverse vittime e numerosi feriti: a bordo 48 persone",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/bus-turistico-coinvolto-in-un-incidente-stradale-in-svizzera-diversi-morti_264b84d3-1792-4d81-b064-21e3aa16218b.html",
+        "https://www.ilfattoquotidiano.it/2026/09/10/pullman-turistico-incidente-svizzera-notizie/8503180/",
+        "https://www.repubblica.it/cronaca/2026/09/10/news/svizzera_bus_turistico_incidente_morti-425577679/",
+        "https://www.adnkronos.com/internazionale/esteri/incidente-pullman-svizzera-morti-news_7ClOoKNcDvYzVLDdJqBL3m",
+        "https://www.ilmessaggero.it/mondo/bus_turistico_svizzera_incidente_stradale-9755754.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Caso Ranucci, Lavitola resta in carcere. Confermata l’aggravante del metodo mafioso",
       "source_count": 6,
       "article_count": 6,
@@ -151,60 +200,23 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Legge elettorale, vertice di maggioranza. Appello di Vannacci a FdI sulle preferenze",
+      "rank": 10,
+      "title": "Zelensky nel mirino dei russi: un drone ha sfiorato il suo aereo mentre partiva per la Norvegia",
       "source_count": 5,
       "article_count": 7,
       "source_domains": [
-        "adnkronos.com",
+        "ansa.it",
         "ilmessaggero.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/politica/legge-elettorale-preferenze-meloni-senato-news_2kniU2slo8SZ0QBr1stNfC",
-        "https://www.ilmessaggero.it/politica/meloni_legge_elettorale_preferenze_strategia-9755504.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/09/10/legge-elettorale-riunione-di-maggioranza-in-senato-con-tecnici-casellati-e-capigruppo_cf34bbcc-29f3-4188-9cca-0c628eba40e4.html",
-        "https://www.adnkronos.com/politica/legge-elettorale-vannacci-senato-fdi_4OSYZtWc4bfVoSygJbyzRy",
-        "https://www.ansa.it/sito/notizie/politica/2026/09/10/vannacci-fdi-sia-coerente-voti-preferenze-pure-al-senato_aeca5f88-bac3-4d7c-aeb2-46cf82e7716e.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "È morta Denise Cosco, la figlia di Lea Garofalo testimone di giustizia: si è tolta la vita a 35 anni",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
+        "liberoquotidiano.it",
         "repubblica.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/10/si-e-uccisa-denise-la-figlia-di-lea-garofalo-testimone-di-giustizia_17abbcfc-3c0f-4582-bf35-cac7fc8438ef.html",
-        "https://www.adnkronos.com/cronaca/morta-denise-cosco-figlia-lea-garofalo_Rm5MRCaZ8PG71E7ZVq9XS",
-        "https://www.repubblica.it/cronaca/2026/09/10/news/morta_denise_cosco_figlia_lea_garofalo_ndrangheta-425577476/",
-        "https://www.ilmessaggero.it/italia/morta_denise_cosco_lea_garofalo_figlia_ultima_ora-9755603.html",
-        "https://www.ilfattoquotidiano.it/2026/09/10/denise-cosco-morte-figlia-lea-garofalo-notizie/8503027/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Venezia 83, Alba Rohrwacher e Vincent Lindon sul red carpet",
-      "source_count": 1,
-      "article_count": 10,
-      "source_domains": [
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49098185/venezia-83-alba-rohrwacher-e-vincent-lindon-sul-red-carpet/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49098187/venezia-83-laura-barth-e-joaquin-morodo-in-posa-insieme-sul-red-carpet/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49098193/venezia-83-anna-foglietta-in-viola-con-il-marito-paolo-sopranzetti-sul-red-carpet/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49096147/venezia-83-il-direttore-della-fotografia-juergen-juerges-sul-red-carpet/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49095596/venezia-83-marina-abramovic-porge-un-fiore-ai-fotografi-sul-red-carpet/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/10/cremlino-la-minaccia-allaereo-di-zelensky-non-esisteva_32e60189-6617-49a3-a1a5-b71071ec9473.html",
+        "https://www.ilmessaggero.it/mondo/aereo_zelensky_moldavia_droni_russia_cosa_e_successo_veramente-9755177.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49095578/l-aereo-di-zelensky-sfiorato-da-un-drone-trump-putin-vuole-accordo/",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/09/10/prime-pagine-laereo-dizelenskysfiorato-da-un-drone-al-decollo-dalla-moldavia_1cf9bd1d-b7e0-4437-961d-97768eb1456c.html",
+        "https://www.repubblica.it/esteri/2026/09/10/news/zelensky_aereo_drone_russia_norvegia-425575694/"
       ]
     }
   ]
