@@ -1,6 +1,6 @@
 {
   "date": "2026-09-10",
-  "generated_at": "Thu 10 Sep 20:52",
+  "generated_at": "Thu 10 Sep 21:35",
   "stories": [
     {
       "rank": 1,
@@ -28,6 +28,29 @@
     },
     {
       "rank": 2,
+      "title": "Cdm, taglio delle accise di 7 giorni solo sul diesel. Meloni: “Nuovi provvedimenti in arrivo”",
+      "source_count": 8,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/09/10/il-cdm-approva-il-decreto-il-taglio-delle-accise-prorogato-di-una-settimana_d6f0c05e-ef61-4533-8dd9-eed99ebce359.html",
+        "https://www.liberoquotidiano.it/news/economia/49099809/carburanti-prorogato-taglio-accise-cosa-cambia/",
+        "https://www.ilmessaggero.it/economia/news/taglio_accise_oggi_cosa_cambia-9755539.html",
+        "https://www.ilfattoquotidiano.it/2026/09/10/prezzi-carburanti-gasolio-proroga-accise-notizie/8502287/",
+        "https://www.repubblica.it/economia/2026/09/10/news/taglio_accise_altra_mini_proroga-425577118/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "È morta Denise Cosco, la figlia di Lea Garofalo testimone di giustizia: si è tolta la vita a 35 anni",
       "source_count": 8,
       "article_count": 9,
@@ -50,7 +73,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Trump: \"Se vinciamo le elezioni di midterm 5mila dollari a ogni statunitense\"",
       "source_count": 5,
       "article_count": 11,
@@ -70,29 +93,30 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Cdm, taglio delle accise di 7 giorni solo sul diesel. Meloni: “Nuovi provvedimenti in arrivo”",
-      "source_count": 7,
-      "article_count": 9,
+      "rank": 5,
+      "title": "Pullman turistico si ribalta in Svizzera, diverse vittime e numerosi feriti: a bordo 48 persone",
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
-        "ilmessaggero.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
         "lastampa.it",
-        "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/09/10/il-cdm-approva-il-decreto-il-taglio-delle-accise-prorogato-di-una-settimana_d6f0c05e-ef61-4533-8dd9-eed99ebce359.html",
-        "https://www.ilmessaggero.it/economia/news/taglio_accise_oggi_cosa_cambia-9755539.html",
-        "https://www.ilfattoquotidiano.it/2026/09/10/prezzi-carburanti-gasolio-proroga-accise-notizie/8502287/",
-        "https://www.repubblica.it/economia/2026/09/10/news/taglio_accise_altra_mini_proroga-425577118/",
-        "https://www.lastampa.it/politica/2026/09/10/diretta/accise_carburanti_cdm_proroga-15735572/"
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/bus-turistico-coinvolto-in-un-incidente-stradale-in-svizzera-diversi-morti_264b84d3-1792-4d81-b064-21e3aa16218b.html",
+        "https://www.liberoquotidiano.it/news/esteri/49100533/svizzera-bus-turistico-si-ribalta-diversi-morti-e-feriti-/",
+        "https://www.ilfattoquotidiano.it/2026/09/10/pullman-turistico-incidente-svizzera-notizie/8503180/",
+        "https://www.repubblica.it/cronaca/2026/09/10/news/svizzera_bus_turistico_incidente_morti-425577679/",
+        "https://www.adnkronos.com/internazionale/esteri/incidente-pullman-svizzera-morti-news_7ClOoKNcDvYzVLDdJqBL3m"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Donna muore annegata in un sottopassaggio allagato a Latisana",
       "source_count": 7,
       "article_count": 8,
@@ -114,7 +138,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Bce, arriva la nuova stretta contro i rincari energetici: tassi su di 25 punti base",
       "source_count": 7,
       "article_count": 8,
@@ -136,7 +160,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Legge elettorale: il Senato boccia sub-emendamento delle opposizioni sulle preferenze",
       "source_count": 6,
       "article_count": 9,
@@ -154,28 +178,6 @@
         "https://www.liberoquotidiano.it/news/video-news-by-vista/49099954/legge-elettorale-via-libera-del-senato-all-emendamento-di-maggioranza-sulle-preferenze/",
         "https://www.ilmessaggero.it/politica/meloni_legge_elettorale_preferenze_strategia-9755504.html",
         "https://www.ansa.it/sito/notizie/politica/2026/09/10/legge-elettorale-riunione-di-maggioranza-in-senato-con-tecnici-casellati-e-capigruppo_cf34bbcc-29f3-4188-9cca-0c628eba40e4.html"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Pullman turistico si ribalta in Svizzera, diverse vittime e numerosi feriti: a bordo 48 persone",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/10/bus-turistico-coinvolto-in-un-incidente-stradale-in-svizzera-diversi-morti_264b84d3-1792-4d81-b064-21e3aa16218b.html",
-        "https://www.ilfattoquotidiano.it/2026/09/10/pullman-turistico-incidente-svizzera-notizie/8503180/",
-        "https://www.repubblica.it/cronaca/2026/09/10/news/svizzera_bus_turistico_incidente_morti-425577679/",
-        "https://www.adnkronos.com/internazionale/esteri/incidente-pullman-svizzera-morti-news_7ClOoKNcDvYzVLDdJqBL3m",
-        "https://www.ilmessaggero.it/mondo/bus_turistico_svizzera_incidente_stradale-9755754.html"
       ]
     },
     {
