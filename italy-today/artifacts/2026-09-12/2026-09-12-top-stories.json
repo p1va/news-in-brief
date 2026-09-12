@@ -1,12 +1,12 @@
 {
   "date": "2026-09-12",
-  "generated_at": "Sat 12 Sep 14:02",
+  "generated_at": "Sat 12 Sep 17:00",
   "stories": [
     {
       "rank": 1,
       "title": "Di Battista è atterrato a Ciampino, l'ex deputato trasportato al Gemelli",
       "source_count": 9,
-      "article_count": 12,
+      "article_count": 11,
       "source_domains": [
         "liberoquotidiano.it",
         "laverita.info",
@@ -28,6 +28,29 @@
     },
     {
       "rank": 2,
+      "title": "SuperEnalotto centrato a Oggiono in Lombardia, un '6' da 223 milioni",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "lastampa.it",
+        "milano.repubblica.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ilsole24ore.com",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/cronaca/2026/09/12/video/chi_ha_vinto_223_milioni_al_bar_del_superenalotto_parte_la_caccia_al_cliente_misterioso_e_qui_e_se_la_ride-15737529/",
+        "https://milano.repubblica.it/cronaca/2026/09/12/news/oggiono_vincita_223_milioni_superenalotto_bar_cafe-425581147/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/superenalotto-entusiasmo-a-oggiono-per-la-vincita-milionaria-e-uno-di-qui_13728d7c-29d2-4ee9-92cf-92e71d66434f.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/superenalotto-centrato-a-oggiono-in-lombardia-un-6-da-223-milioni_13728d7c-29d2-4ee9-92cf-92e71d66434f.html",
+        "https://www.ilfattoquotidiano.it/2026/09/12/superenalotto-a-oggiono-centrato-il-secondo-jackpot-piu-alto-di-sempre-vinti-223-milioni-di-euro-ecco-quanto-resta-in-tasca-al-vincitore-dopo-la-tassa-sulla-fortuna/8504531/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Udine, condannato per lesioni aggredisce l’ex in aula: militare arrestato per tentato omicidio",
       "source_count": 8,
       "article_count": 8,
@@ -50,75 +73,74 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "SuperEnalotto centrato a Oggiono in Lombardia, un '6' da 223 milioni",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/superenalotto-entusiasmo-a-oggiono-per-la-vincita-milionaria-e-uno-di-qui_13728d7c-29d2-4ee9-92cf-92e71d66434f.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/superenalotto-centrato-a-oggiono-in-lombardia-un-6-da-223-milioni_13728d7c-29d2-4ee9-92cf-92e71d66434f.html",
-        "https://www.ilfattoquotidiano.it/2026/09/12/superenalotto-a-oggiono-centrato-il-secondo-jackpot-piu-alto-di-sempre-vinti-223-milioni-di-euro-ecco-quanto-resta-in-tasca-al-vincitore-dopo-la-tassa-sulla-fortuna/8504531/",
-        "https://www.ilmessaggero.it/persone/superenalotto_chi_ha_vinto_vincitore_oggiono_chi_e_vincita-9759007.html",
-        "https://www.liberoquotidiano.it/news/italia/49114105/superenalotto_chi_ha_vinto_223_milioni_bar_la_valletta_brianza/"
-      ]
-    },
-    {
       "rank": 4,
       "title": "MotoGp: Bezzecchi in pole a Misano, precede Marc Marquez",
       "source_count": 5,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
         "adnkronos.com",
         "ansa.it",
+        "repubblica.it",
         "ilfattoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it"
+        "lastampa.it"
       ],
       "links": [
         "https://www.adnkronos.com/sport/gp-misano-marc-marquez-vince-gara-sprint-ordine-arrivo-classifica-piloti_1ETDrGBIqFAg031UH91Jbu",
         "https://www.ansa.it/sito/notizie/sport/2026/09/12/motogp-marc-marquez-vince-la-sprint-a-misano-davanti-a-bezzecchi_942fe711-f9c7-488b-a026-b202302166a9.html",
+        "https://www.repubblica.it/sport/moto-gp/2026/09/12/news/marc_marquez_vince_sprint_gp_san_marino_2026-425581141/",
         "https://www.ilfattoquotidiano.it/2026/09/12/motogp-marquez-sprint-misano-bezzecchi-ordine-arrivo-nuova-classifica/8504753/",
-        "https://www.lastampa.it/sport/2026/09/12/news/marquez_manca_la_pole_ma_vince_la_sprint-15737483/",
-        "https://www.ilfattoquotidiano.it/2026/09/12/motogp-bezzecchi-pole-misano-notizie/8504631/"
+        "https://www.lastampa.it/sport/2026/09/12/news/marquez_manca_la_pole_ma_vince_la_sprint-15737483/"
       ]
     },
     {
       "rank": 5,
       "title": "Treno deraglia in Francia, la polizia privilegia la pista del sabotaggio",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ansa.it",
         "laverita.info",
         "ilfattoquotidiano.it",
-        "ansa.it",
         "ilmessaggero.it",
         "repubblica.it",
         "liberoquotidiano.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/12/deragliato-un-treno-in-francia-e-stato-un-sabotaggio_ddd0bcc5-d799-4e98-a663-01a0c3881b5d.html",
         "https://www.laverita.info/video/cronaca-video/incidente-treno-francia",
         "https://www.ilfattoquotidiano.it/2026/09/12/francia-deraglia-treno-regionale-a-140-chilometri-orari-in-normandia-44-feriti-la-polizia-indaga-su-possibile-sabotaggio/8504538/",
         "https://www.ansa.it/sito/notizie/mondo/2026/09/12/treno-deraglia-in-francia-la-polizia-privilegia-la-pista-del-sabotaggio_63714df9-2f3e-4ddf-a4cd-55f8f61cb7d7.html",
-        "https://www.ilmessaggero.it/mondo/treno_deraglia_francia_feriti_sabotaggio_cause-9759129.html",
-        "https://www.repubblica.it/esteri/2026/09/12/news/treno_deragliato_francia_polizia_indaga_per_sabotaggio-425580761/"
+        "https://www.ilmessaggero.it/mondo/treno_deraglia_francia_feriti_sabotaggio_cause-9759129.html"
       ]
     },
     {
       "rank": 6,
-      "title": "Irlanda, Trump: \"Unificazione sarebbe fantastica, prima o poi accadrà\"",
+      "title": "F1: Norris in pole position a Madrid, Antonelli in prima fila",
       "source_count": 5,
-      "article_count": 6,
+      "article_count": 10,
       "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/09/12/f1-norris-in-pole-position-a-madrid-antonelli-in-prima-fila_8e6aaa3a-d88e-40ff-b64f-d0e3212e16ec.html",
+        "https://www.repubblica.it/sport/formulauno/2026/09/12/news/gp_madrid_2026_nole_pole_antonelli_ferrari-425581302/",
+        "https://www.adnkronos.com/sport/formula-1-pole-position-madrid-norris-griglia-partenza-gran-premio-spagna_A26KmJlbiSfVfefaxImna",
+        "https://www.ilfattoquotidiano.it/2026/09/12/gp-spagna-norris-pole-position-madrid-antonelli-ferrari-hamilton-leclerc-griglia-di-partenza/8504844/",
+        "https://www.lastampa.it/sport/2026/09/12/news/gp_spagna_sorpresa_norris_in_pole_antonelli_beffato_per_11_millesimi-15737524/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Irlanda, Trump: \"Unificazione sarebbe fantastica, prima o poi accadrà\"",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "ansa.it",
@@ -126,87 +148,71 @@
         "liberoquotidiano.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/mondo/trump_irlanda_unita_perche_cosa_ha_detto_reazioni-9759529.html",
         "https://www.ilfattoquotidiano.it/2026/09/12/trump-riunificazione-irlanda-unionisti-notizie/8504710/",
         "https://www.adnkronos.com/internazionale/esteri/irlanda-trump-visita-unificazione_7tYaDKwH1DOtHxzslDagIY",
         "https://www.ansa.it/sito/notizie/mondo/2026/09/12/trump-unirlanda-unita-sarebbe-fantastica.-burhnam-non-ce-il-sostegno-dellopinione-pubblica_17fac25a-f9c6-4973-92b7-7b4860cc3eed.html",
-        "https://www.repubblica.it/esteri/2026/09/12/news/trump_irlanda_tornera_a_essere_unita_prima_o_poi_succedera-425581010/",
-        "https://www.liberoquotidiano.it/news/tv-news/49118166/trump-mi-piacerebbe-vedere-un-irlanda-unificata-/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Us Open, la finale sarà Shelton-Zverev: ecco quando si gioca e dove vederla",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/12/us-open-ben-shelton-batte-tiafoe-e-guadagna-la-sua-prima-finale-slam-in-carriera-sfidera-alexander-zverev/8504644/",
-        "https://www.adnkronos.com/sport/us-open-finale-shelton-zverev-orario-dove-vederla_43UhGqwLFZUVz3sitittre",
-        "https://www.ilmessaggero.it/sport/schede/zverev_shelton_finale_us_open_dove_vederla_orario_ranking-9759003.html",
-        "https://www.lastampa.it/sport/2026/09/12/news/us_open_zverev_finale-15737165/",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazJCVjd1MXdxN3VSZmdsOGEyUGVHQmFDZThsbEpRcmZzeEVoRHluakxXVW9JUlhUaTQ3R2dNYXpiV0JCeGpZRW01bVlDMTNOQzFucUVUQlRlRHAyVWJMYWJsY0JSd2NlLU9tN1AwYUU0dFFZNXhiSWxlU3pLNEU3ZU1zaW90YklMaDcw?oc=5"
+        "https://www.repubblica.it/esteri/2026/09/12/news/trump_irlanda_tornera_a_essere_unita_prima_o_poi_succedera-425581010/"
       ]
     },
     {
       "rank": 8,
-      "title": "Hamilton contro il muro a Madrid nelle terze libere. Comanda Antonelli davanti a Leclerc",
-      "source_count": 4,
-      "article_count": 6,
+      "title": "Us Open, la finale sarà Shelton-Zverev: ecco quando si gioca e dove vederla",
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
-        "adnkronos.com",
         "ilfattoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.adnkronos.com/sport/diretta-qualifiche-gp-madrid-oggi-formula-1-live_4EPyHdLK4HPY7M3E5E7NOs",
-        "https://www.ilfattoquotidiano.it/2026/09/12/formula-1-madrid-spagna-hamilton-incidente-libere-auto-danneggiata/8504695/",
-        "https://www.repubblica.it/sport/formulauno/2026/09/12/news/terze_libere_gp_spagna_f1_hamilton_antonelli_leclerc-425581061/",
-        "https://www.adnkronos.com/sport/f1-gp-madrid-hamilton-ferrari_2GQxFoINPY887lvSye9Ay0",
-        "https://www.adnkronos.com/sport/formula-1-gp-madrid-qualifiche-oggi-orario-dove-vederle_2fW7gxmhcfQTz9YXuUJxPK"
+        "https://www.ilfattoquotidiano.it/2026/09/12/ben-shelton-finale-us-open-primo-afroamericano-dopo-arthur-ashe/8504733/",
+        "https://www.lastampa.it/sport/2026/09/12/news/shelton_la_nuova_america_e_in_finale_agli_us_open_ora_voglio_prendermi_new_york-15737521/",
+        "https://www.ilfattoquotidiano.it/2026/09/12/us-open-ben-shelton-batte-tiafoe-e-guadagna-la-sua-prima-finale-slam-in-carriera-sfidera-alexander-zverev/8504644/",
+        "https://www.adnkronos.com/sport/us-open-finale-shelton-zverev-orario-dove-vederla_43UhGqwLFZUVz3sitittre",
+        "https://www.ilmessaggero.it/sport/schede/zverev_shelton_finale_us_open_dove_vederla_orario_ranking-9759003.html"
       ]
     },
     {
       "rank": 9,
-      "title": "Emma Bonino dal Piemonte al mondo: il romanzo radicale della ragazza di Bra",
-      "source_count": 4,
+      "title": "Anthropic: 'Dobbiamo rallentare il ritmo di sviluppo dei modelli di IA'",
+      "source_count": 5,
       "article_count": 5,
       "source_domains": [
+        "adnkronos.com",
         "ansa.it",
-        "ilmanifesto.it",
         "repubblica.it",
-        "lastampa.it"
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/09/11/addio-a-emma-bonino-una-vita-in-prima-linea-per-i-diritti_759e1d37-70c0-4a4e-836e-dc86007ae0b8.html",
-        "https://ilmanifesto.it/tra-diritti-europa-donne-e-liberta-una-vita-di-battaglie",
-        "https://www.repubblica.it/commenti/2026/09/12/news/bonino_donne_radicali_fiori-425580059/",
-        "https://www.lastampa.it/politica/2026/09/12/news/la_prima_donna_italiana_di_potere_sfondo_il_tetto_di_cristallo_e_divento_piu_grande_del_suo_partito-15737098/",
-        "https://www.lastampa.it/politica/2026/09/12/news/dal_piemonte_al_mondo_gli_amici_l_arresto_per_l_aborto_e_la_sfida_al_potere_della_dc-15737131/"
+        "https://www.adnkronos.com/economia/anthropic-ai-allarme-amodei_2UVWuRs0bYJf4yX7OZdDBG",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/12/anthropic-dobbiamo-rallentare-il-ritmo-di-sviluppo-dei-modelli-di-ia_8e12f648-d851-456f-87e5-7377c52b4f9c.html",
+        "https://www.repubblica.it/economia/2026/09/12/news/ia_geoffrey_hinton_stop_algoritmo_terminator-425580260/",
+        "https://www.lastampa.it/economia/2026/09/11/news/luciano_floridi_anthropic_intelligenza_artificiale-15737079/",
+        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVd05YVjRQMlhfVFlRRnJZTnZES2ZyNHFDZ0hjd1ltaktSLTNTYVZIWnZ2cWtFNHZNTWxDXy0xbzZuTFVCVXNwVzRRd0REeEstNkI5SkNnZVVyZE1XQWhKUllDdXdKWXFGVlJQclNFaU42WTdUeDNHLXR5Q3lkSVU?oc=5"
       ]
     },
     {
       "rank": 10,
-      "title": "Zelensky propone di incontrare Putin al G20 di Miami a dicembre. Ancora raid incrociati",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Attentato a Ranucci, l'ex compagna di Lavitola in Procura per essere ascoltata: chi è Natalia Potenza",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "ansa.it",
         "ilfattoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "roma.repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/12/zelensky-propone-di-incontrare-putin-al-g20-di-miami-a-dicembre.-ancora-raid-incrociati_1a9e23a8-4a39-42d1-bcc4-42ab5d6f1b5f.html",
-        "https://www.ilfattoquotidiano.it/2026/09/12/zelensky-putin-g20-miami-notizie/8504535/",
-        "https://www.repubblica.it/esteri/2026/09/12/diretta/guerra_ucraina_russia_news_oggi-425580284/",
-        "https://www.lastampa.it/esteri/2026/09/12/diretta/guerra_russia_ucraina_news_oggi-15737146/"
+        "https://www.ilfattoquotidiano.it/2026/09/12/caso-report-natalia-potenza-ex-compagna-lavitola-ascoltata-procura/8504557/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/attentato-ranucci-ex-compagna-di-lavitola-in-procura-per-essere-ascoltata_e68cf87a-3dfd-443c-8bce-57bfa7f3726c.html",
+        "https://www.adnkronos.com/cronaca/ranucci-compagna-lavitola-procura-roma_4yqxDaQ4IPiDIRiWJcaqp0",
+        "https://www.ilmessaggero.it/italia/ranucci_compagna_lavitola_natalia_potenza_cosa_ha_detto_rapporti_attentato-9759123.html",
+        "https://roma.repubblica.it/cronaca/2026/09/12/news/natalia_potenza_procura_ascoltata_pm_lavitola_ranucci-425580755/"
       ]
     }
   ]
