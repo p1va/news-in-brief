@@ -1,35 +1,59 @@
 {
   "date": "2026-09-12",
-  "generated_at": "Sat 12 Sep 10:30",
+  "generated_at": "Sat 12 Sep 14:02",
   "stories": [
     {
       "rank": 1,
       "title": "Di Battista è atterrato a Ciampino, l'ex deputato trasportato al Gemelli",
-      "source_count": 8,
-      "article_count": 10,
+      "source_count": 9,
+      "article_count": 12,
       "source_domains": [
+        "liberoquotidiano.it",
         "laverita.info",
         "ilfattoquotidiano.it",
         "ansa.it",
-        "ilmessaggero.it",
         "lastampa.it",
+        "ilmessaggero.it",
         "repubblica.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/49116905/alessandro-di-battista-ricoverato-al-gemelli-l-attesa-fuori-dall-ospedale-romano/",
         "https://www.laverita.info/video/di-battista-policlinico-gemelli",
         "https://www.ilfattoquotidiano.it/2026/09/12/di-battista-rientrato-in-italia-e-ricoverato-al-gemelli-larrivo-con-laeroambulanza-a-ciampino/8504533/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/laereo-con-di-battista-atterrato-a-ciampino_5a8f3f03-c9c9-47ad-853d-2164527953f5.html",
-        "https://www.ansa.it/sito/videogallery/italia/2026/09/12/di-battista-e-atterrato-a-ciampino-lex-deputato-trasportato-al-gemelli_58401d2a-4c00-4b0e-89b7-d409575db4e4.html",
-        "https://www.ilmessaggero.it/persone/di_battista_ricoverato_gemelli_roma_come_sta_ultime_notizie-9759028.html"
+        "https://www.ansa.it/sito/videogallery/italia/2026/09/12/di-battista-e-atterrato-a-ciampino-lex-deputato-trasportato-al-gemelli_58401d2a-4c00-4b0e-89b7-d409575db4e4.html"
       ]
     },
     {
       "rank": 2,
+      "title": "Udine, condannato per lesioni aggredisce l’ex in aula: militare arrestato per tentato omicidio",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "lastampa.it",
+        "agi.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/udine-processo-lesioni-compagna-aggressione_3ZPECMIvWGHstyqIr8tz36",
+        "https://www.ilfattoquotidiano.it/2026/09/12/tenta-di-uccidere-la-ex-compagna-in-tribunale-dopo-la-lettura-della-sentenza-di-condanna-per-lesioni/8504653/",
+        "https://www.liberoquotidiano.it/news/italia/49117044/udine-militare-condannato-lesioni-tenta-uccidere-ex-compagna-aula-tribunale/",
+        "https://www.ilmessaggero.it/italia/trieste_tenta_di_uccidere_ex_in_tribunale_cosa_e_successo-9759197.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/tenta-di-uccidere-la-ex-in-aula-in-tribunale-dopo-la-sentenza-di-condanna_61f3033f-45fd-427b-9cbe-9cb7190f398e.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "SuperEnalotto centrato a Oggiono in Lombardia, un '6' da 223 milioni",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
@@ -40,74 +64,116 @@
         "agi.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/superenalotto-entusiasmo-a-oggiono-per-la-vincita-milionaria-e-uno-di-qui_13728d7c-29d2-4ee9-92cf-92e71d66434f.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/superenalotto-centrato-a-oggiono-in-lombardia-un-6-da-223-milioni_13728d7c-29d2-4ee9-92cf-92e71d66434f.html",
         "https://www.ilfattoquotidiano.it/2026/09/12/superenalotto-a-oggiono-centrato-il-secondo-jackpot-piu-alto-di-sempre-vinti-223-milioni-di-euro-ecco-quanto-resta-in-tasca-al-vincitore-dopo-la-tassa-sulla-fortuna/8504531/",
         "https://www.ilmessaggero.it/persone/superenalotto_chi_ha_vinto_vincitore_oggiono_chi_e_vincita-9759007.html",
-        "https://www.liberoquotidiano.it/news/italia/49114105/superenalotto_chi_ha_vinto_223_milioni_bar_la_valletta_brianza/",
-        "https://www.lastampa.it/cronaca/2026/09/11/news/superenalotto_vincita_223_milioni_di_euro_brianza-15737053/"
+        "https://www.liberoquotidiano.it/news/italia/49114105/superenalotto_chi_ha_vinto_223_milioni_bar_la_valletta_brianza/"
       ]
     },
     {
-      "rank": 3,
-      "title": "Impresa Bezzecchi a Misano: pole da record con l'Aprilia, Márquez è secondo",
+      "rank": 4,
+      "title": "MotoGp: Bezzecchi in pole a Misano, precede Marc Marquez",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/gp-misano-marc-marquez-vince-gara-sprint-ordine-arrivo-classifica-piloti_1ETDrGBIqFAg031UH91Jbu",
+        "https://www.ansa.it/sito/notizie/sport/2026/09/12/motogp-marc-marquez-vince-la-sprint-a-misano-davanti-a-bezzecchi_942fe711-f9c7-488b-a026-b202302166a9.html",
+        "https://www.ilfattoquotidiano.it/2026/09/12/motogp-marquez-sprint-misano-bezzecchi-ordine-arrivo-nuova-classifica/8504753/",
+        "https://www.lastampa.it/sport/2026/09/12/news/marquez_manca_la_pole_ma_vince_la_sprint-15737483/",
+        "https://www.ilfattoquotidiano.it/2026/09/12/motogp-bezzecchi-pole-misano-notizie/8504631/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Treno deraglia in Francia, la polizia privilegia la pista del sabotaggio",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.laverita.info/video/cronaca-video/incidente-treno-francia",
+        "https://www.ilfattoquotidiano.it/2026/09/12/francia-deraglia-treno-regionale-a-140-chilometri-orari-in-normandia-44-feriti-la-polizia-indaga-su-possibile-sabotaggio/8504538/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/12/treno-deraglia-in-francia-la-polizia-privilegia-la-pista-del-sabotaggio_63714df9-2f3e-4ddf-a4cd-55f8f61cb7d7.html",
+        "https://www.ilmessaggero.it/mondo/treno_deraglia_francia_feriti_sabotaggio_cause-9759129.html",
+        "https://www.repubblica.it/esteri/2026/09/12/news/treno_deragliato_francia_polizia_indaga_per_sabotaggio-425580761/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Irlanda, Trump: \"Unificazione sarebbe fantastica, prima o poi accadrà\"",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "ansa.it",
         "repubblica.it",
-        "lastampa.it"
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/12/motogp-bezzecchi-pole-misano-notizie/8504631/",
-        "https://www.adnkronos.com/sport/gp-misano-pole-position-record-bezzecchi-griglia-partenza-san-marino_dPjXFyg57PUtgbV8OXdVq",
-        "https://www.ansa.it/sito/notizie/sport/moto/2026/09/12/gp-san-marino-bezzecchi-in-pole-a-misano-precede-marc-marquez_a0bc8498-cb50-4da6-9b54-f781d4d8ddf1.html",
-        "https://www.repubblica.it/sport/moto-gp/2026/09/12/news/bezzecchi_pole_gp_misano_motogp-425580871/",
-        "https://www.lastampa.it/sport/2026/09/12/news/motogp_impresa_bezzecchi_a_misano_pole_da_record_con_l_aprilia_marquez_e_secondo-15737362/"
+        "https://www.ilfattoquotidiano.it/2026/09/12/trump-riunificazione-irlanda-unionisti-notizie/8504710/",
+        "https://www.adnkronos.com/internazionale/esteri/irlanda-trump-visita-unificazione_7tYaDKwH1DOtHxzslDagIY",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/12/trump-unirlanda-unita-sarebbe-fantastica.-burhnam-non-ce-il-sostegno-dellopinione-pubblica_17fac25a-f9c6-4973-92b7-7b4860cc3eed.html",
+        "https://www.repubblica.it/esteri/2026/09/12/news/trump_irlanda_tornera_a_essere_unita_prima_o_poi_succedera-425581010/",
+        "https://www.liberoquotidiano.it/news/tv-news/49118166/trump-mi-piacerebbe-vedere-un-irlanda-unificata-/"
       ]
     },
     {
-      "rank": 4,
-      "title": "Treno deraglia in Francia, la polizia privilegia la pista del sabotaggio",
+      "rank": 7,
+      "title": "Us Open, la finale sarà Shelton-Zverev: ecco quando si gioca e dove vederla",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
         "ilfattoquotidiano.it",
-        "ansa.it",
+        "adnkronos.com",
         "ilmessaggero.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/09/12/us-open-ben-shelton-batte-tiafoe-e-guadagna-la-sua-prima-finale-slam-in-carriera-sfidera-alexander-zverev/8504644/",
+        "https://www.adnkronos.com/sport/us-open-finale-shelton-zverev-orario-dove-vederla_43UhGqwLFZUVz3sitittre",
+        "https://www.ilmessaggero.it/sport/schede/zverev_shelton_finale_us_open_dove_vederla_orario_ranking-9759003.html",
+        "https://www.lastampa.it/sport/2026/09/12/news/us_open_zverev_finale-15737165/",
+        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNazJCVjd1MXdxN3VSZmdsOGEyUGVHQmFDZThsbEpRcmZzeEVoRHluakxXVW9JUlhUaTQ3R2dNYXpiV0JCeGpZRW01bVlDMTNOQzFucUVUQlRlRHAyVWJMYWJsY0JSd2NlLU9tN1AwYUU0dFFZNXhiSWxlU3pLNEU3ZU1zaW90YklMaDcw?oc=5"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Hamilton contro il muro a Madrid nelle terze libere. Comanda Antonelli davanti a Leclerc",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
         "repubblica.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/12/francia-deraglia-treno-regionale-a-140-chilometri-orari-in-normandia-44-feriti-la-polizia-indaga-su-possibile-sabotaggio/8504538/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/12/treno-deraglia-in-francia-la-polizia-privilegia-la-pista-del-sabotaggio_63714df9-2f3e-4ddf-a4cd-55f8f61cb7d7.html",
-        "https://www.ilmessaggero.it/mondo/treno_deraglia_francia_feriti_sabotaggio_cause-9759129.html",
-        "https://www.repubblica.it/esteri/2026/09/12/news/treno_deragliato_francia_polizia_indaga_per_sabotaggio-425580761/",
-        "https://www.lastampa.it/esteri/2026/09/12/news/normandia_44_feriti_nel_treno_deragliato_la_polizia_probabile_sabotaggio-15737292/"
+        "https://www.adnkronos.com/sport/diretta-qualifiche-gp-madrid-oggi-formula-1-live_4EPyHdLK4HPY7M3E5E7NOs",
+        "https://www.ilfattoquotidiano.it/2026/09/12/formula-1-madrid-spagna-hamilton-incidente-libere-auto-danneggiata/8504695/",
+        "https://www.repubblica.it/sport/formulauno/2026/09/12/news/terze_libere_gp_spagna_f1_hamilton_antonelli_leclerc-425581061/",
+        "https://www.adnkronos.com/sport/f1-gp-madrid-hamilton-ferrari_2GQxFoINPY887lvSye9Ay0",
+        "https://www.adnkronos.com/sport/formula-1-gp-madrid-qualifiche-oggi-orario-dove-vederle_2fW7gxmhcfQTz9YXuUJxPK"
       ]
     },
     {
-      "rank": 5,
-      "title": "Gli Houthi a Bab el-Mandeb, vola il greggio. Ecco perché il conto più salato è per Riad",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/09/12/news/houthi_bab_el-mandeb_riad_chiude_oleodotto_east_west-425580155/",
-        "https://www.repubblica.it/esteri/2026/09/12/diretta/guerra_iran_usa_israele_news_oggi-425580280/",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/09/12/news/la_strategia_che_ridisegna_il_golfo-15737039/",
-        "https://www.lastampa.it/esteri/2026/09/12/diretta/guerra_iran_usa_israele_news_oggi-15737144/",
-        "https://www.ilmessaggero.it/mondo/assedio_houthi_mar_rosso_isole_strategiche_stretto_rischio-9757866.html"
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 9,
       "title": "Emma Bonino dal Piemonte al mondo: il romanzo radicale della ragazza di Bra",
       "source_count": 4,
       "article_count": 5,
@@ -126,7 +192,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 10,
       "title": "Zelensky propone di incontrare Putin al G20 di Miami a dicembre. Ancora raid incrociati",
       "source_count": 4,
       "article_count": 4,
@@ -141,56 +207,6 @@
         "https://www.ilfattoquotidiano.it/2026/09/12/zelensky-putin-g20-miami-notizie/8504535/",
         "https://www.repubblica.it/esteri/2026/09/12/diretta/guerra_ucraina_russia_news_oggi-425580284/",
         "https://www.lastampa.it/esteri/2026/09/12/diretta/guerra_russia_ucraina_news_oggi-15737146/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Attentato a Ranucci, l'ex compagna di Lavitola in Procura per essere ascoltata: chi è Natalia Potenza",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/12/caso-report-natalia-potenza-ex-compagna-lavitola-ascoltata-procura/8504557/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/attentato-ranucci-ex-compagna-di-lavitola-in-procura-per-essere-ascoltata_e68cf87a-3dfd-443c-8bce-57bfa7f3726c.html",
-        "https://www.adnkronos.com/cronaca/ranucci-compagna-lavitola-procura-roma_4yqxDaQ4IPiDIRiWJcaqp0",
-        "https://www.ilmessaggero.it/italia/ranucci_compagna_lavitola_natalia_potenza_cosa_ha_detto_rapporti_attentato-9759123.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Mostra Venezia, oggi è il giorno di Favino con Dio ride e della consegna dei Leoni",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "adnkronos.com",
-        "repubblica.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/spettacoli/mostra-venezia-programma-12-settembre-favino-premiazione_4vtE0aoduLrZnYSQ3KMCmU",
-        "https://www.repubblica.it/spettacoli/dossier/mostra-del-cinema-di-venezia/2026/09/12/news/nicolas_maupas_chiude_venezia_il_cinema_deve_raccontare_la_realta_anche_quella_che_ferisce-425580718/",
-        "https://www.ansa.it/sito/notizie/cultura/2026/09/11/alla-mostra-del-cinema-di-venezia-va-in-scena-la-premiazione_2c5ad0ae-09b8-4ad2-a5b2-075bbcafdffc.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Castellina ricorda Bonino: “Quante liti ma ci abbracciammo per il voto sul divorzio”",
-      "source_count": 2,
-      "article_count": 4,
-      "source_domains": [
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/09/12/news/muro_della_sinistra_che_non_capi_uso_corpo_rapporto_con_berlusconi_bonino-425580196/",
-        "https://www.repubblica.it/politica/2026/09/12/news/castellina_bonino_liti_voto_divorzio_intervista-425580200/",
-        "https://www.lastampa.it/politica/2026/09/12/news/i_dubbi_sul_cavaliere_la_lista_col_suo_nome_bonino_e_quelle_litigate_con_pannella-15737068/",
-        "https://www.repubblica.it/politica/2026/09/11/news/emma_bonino_morta_marco_pannella_rapporto_radicali-425579550/"
       ]
     }
   ]
