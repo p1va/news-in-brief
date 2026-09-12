@@ -1,36 +1,12 @@
 {
   "date": "2026-09-12",
-  "generated_at": "Sat 12 Sep 17:00",
+  "generated_at": "Sat 12 Sep 19:10",
   "stories": [
     {
       "rank": 1,
-      "title": "Di Battista è atterrato a Ciampino, l'ex deputato trasportato al Gemelli",
-      "source_count": 9,
-      "article_count": 11,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "laverita.info",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/49116905/alessandro-di-battista-ricoverato-al-gemelli-l-attesa-fuori-dall-ospedale-romano/",
-        "https://www.laverita.info/video/di-battista-policlinico-gemelli",
-        "https://www.ilfattoquotidiano.it/2026/09/12/di-battista-rientrato-in-italia-e-ricoverato-al-gemelli-larrivo-con-laeroambulanza-a-ciampino/8504533/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/laereo-con-di-battista-atterrato-a-ciampino_5a8f3f03-c9c9-47ad-853d-2164527953f5.html",
-        "https://www.ansa.it/sito/videogallery/italia/2026/09/12/di-battista-e-atterrato-a-ciampino-lex-deputato-trasportato-al-gemelli_58401d2a-4c00-4b0e-89b7-d409575db4e4.html"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "SuperEnalotto centrato a Oggiono in Lombardia, un '6' da 223 milioni",
       "source_count": 8,
-      "article_count": 11,
+      "article_count": 10,
       "source_domains": [
         "lastampa.it",
         "milano.repubblica.it",
@@ -47,6 +23,29 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/superenalotto-entusiasmo-a-oggiono-per-la-vincita-milionaria-e-uno-di-qui_13728d7c-29d2-4ee9-92cf-92e71d66434f.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/superenalotto-centrato-a-oggiono-in-lombardia-un-6-da-223-milioni_13728d7c-29d2-4ee9-92cf-92e71d66434f.html",
         "https://www.ilfattoquotidiano.it/2026/09/12/superenalotto-a-oggiono-centrato-il-secondo-jackpot-piu-alto-di-sempre-vinti-223-milioni-di-euro-ecco-quanto-resta-in-tasca-al-vincitore-dopo-la-tassa-sulla-fortuna/8504531/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Di Battista è atterrato a Ciampino, l'ex deputato trasportato al Gemelli",
+      "source_count": 8,
+      "article_count": 10,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/49116905/alessandro-di-battista-ricoverato-al-gemelli-l-attesa-fuori-dall-ospedale-romano/",
+        "https://www.laverita.info/video/di-battista-policlinico-gemelli",
+        "https://www.ilfattoquotidiano.it/2026/09/12/di-battista-rientrato-in-italia-e-ricoverato-al-gemelli-larrivo-con-laeroambulanza-a-ciampino/8504533/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/laereo-con-di-battista-atterrato-a-ciampino_5a8f3f03-c9c9-47ad-853d-2164527953f5.html",
+        "https://www.ansa.it/sito/videogallery/italia/2026/09/12/di-battista-e-atterrato-a-ciampino-lex-deputato-trasportato-al-gemelli_58401d2a-4c00-4b0e-89b7-d409575db4e4.html"
       ]
     },
     {
@@ -74,6 +73,28 @@
     },
     {
       "rank": 4,
+      "title": "L'appello di Anthropic per «rallentare sull'IA», Musk e Altman d'accordo: «​Gestire i ritmi di sviluppo»",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/12/anthropic-rallentare-lo-sviluppo-dei-modelli-di-ia.-musk-e-openai-ha-ragione_8e12f648-d851-456f-87e5-7377c52b4f9c.html",
+        "https://www.ilmessaggero.it/mondo/ia_anthropic_pericolosa_allarme_musk_altman_cosa_succede-9759663.html",
+        "https://www.ilfattoquotidiano.it/2026/09/12/intelligenza-artificiale-amodei-anthropic-rallentare-notizie/8504905/",
+        "https://www.repubblica.it/cronaca/2026/09/12/news/anthropic_amodei_allarme_sviluppo_ai-425581423/",
+        "https://www.adnkronos.com/economia/anthropic-ai-allarme-amodei_2UVWuRs0bYJf4yX7OZdDBG"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "MotoGp: Bezzecchi in pole a Misano, precede Marc Marquez",
       "source_count": 5,
       "article_count": 10,
@@ -93,7 +114,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Treno deraglia in Francia, la polizia privilegia la pista del sabotaggio",
       "source_count": 7,
       "article_count": 8,
@@ -115,14 +136,15 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "F1: Norris in pole position a Madrid, Antonelli in prima fila",
-      "source_count": 5,
-      "article_count": 10,
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
         "repubblica.it",
         "adnkronos.com",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "lastampa.it"
       ],
@@ -130,12 +152,12 @@
         "https://www.ansa.it/sito/notizie/sport/2026/09/12/f1-norris-in-pole-position-a-madrid-antonelli-in-prima-fila_8e6aaa3a-d88e-40ff-b64f-d0e3212e16ec.html",
         "https://www.repubblica.it/sport/formulauno/2026/09/12/news/gp_madrid_2026_nole_pole_antonelli_ferrari-425581302/",
         "https://www.adnkronos.com/sport/formula-1-pole-position-madrid-norris-griglia-partenza-gran-premio-spagna_A26KmJlbiSfVfefaxImna",
-        "https://www.ilfattoquotidiano.it/2026/09/12/gp-spagna-norris-pole-position-madrid-antonelli-ferrari-hamilton-leclerc-griglia-di-partenza/8504844/",
-        "https://www.lastampa.it/sport/2026/09/12/news/gp_spagna_sorpresa_norris_in_pole_antonelli_beffato_per_11_millesimi-15737524/"
+        "https://www.liberoquotidiano.it/news/sport/49119654/f1_norris_conquista_la_pole_del_gp_di_spagna_secondo_antonelli/",
+        "https://www.ilfattoquotidiano.it/2026/09/12/gp-spagna-norris-pole-position-madrid-antonelli-ferrari-hamilton-leclerc-griglia-di-partenza/8504844/"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Irlanda, Trump: \"Unificazione sarebbe fantastica, prima o poi accadrà\"",
       "source_count": 6,
       "article_count": 7,
@@ -156,7 +178,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Us Open, la finale sarà Shelton-Zverev: ecco quando si gioca e dove vederla",
       "source_count": 5,
       "article_count": 7,
@@ -176,43 +198,23 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Anthropic: 'Dobbiamo rallentare il ritmo di sviluppo dei modelli di IA'",
+      "rank": 10,
+      "title": "L'Arabia Saudita ha chiuso un importante oleodotto dopo che era stato attaccato con droni partiti dall'Iraq",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "adnkronos.com",
         "ansa.it",
+        "liberoquotidiano.it",
         "repubblica.it",
         "lastampa.it",
         "news.google.com"
       ],
       "links": [
-        "https://www.adnkronos.com/economia/anthropic-ai-allarme-amodei_2UVWuRs0bYJf4yX7OZdDBG",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/12/anthropic-dobbiamo-rallentare-il-ritmo-di-sviluppo-dei-modelli-di-ia_8e12f648-d851-456f-87e5-7377c52b4f9c.html",
-        "https://www.repubblica.it/economia/2026/09/12/news/ia_geoffrey_hinton_stop_algoritmo_terminator-425580260/",
-        "https://www.lastampa.it/economia/2026/09/11/news/luciano_floridi_anthropic_intelligenza_artificiale-15737079/",
-        "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVd05YVjRQMlhfVFlRRnJZTnZES2ZyNHFDZ0hjd1ltaktSLTNTYVZIWnZ2cWtFNHZNTWxDXy0xbzZuTFVCVXNwVzRRd0REeEstNkI5SkNnZVVyZE1XQWhKUllDdXdKWXFGVlJQclNFaU42WTdUeDNHLXR5Q3lkSVU?oc=5"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Attentato a Ranucci, l'ex compagna di Lavitola in Procura per essere ascoltata: chi è Natalia Potenza",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "roma.repubblica.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/12/caso-report-natalia-potenza-ex-compagna-lavitola-ascoltata-procura/8504557/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/12/attentato-ranucci-ex-compagna-di-lavitola-in-procura-per-essere-ascoltata_e68cf87a-3dfd-443c-8bce-57bfa7f3726c.html",
-        "https://www.adnkronos.com/cronaca/ranucci-compagna-lavitola-procura-roma_4yqxDaQ4IPiDIRiWJcaqp0",
-        "https://www.ilmessaggero.it/italia/ranucci_compagna_lavitola_natalia_potenza_cosa_ha_detto_rapporti_attentato-9759123.html",
-        "https://roma.repubblica.it/cronaca/2026/09/12/news/natalia_potenza_procura_ascoltata_pm_lavitola_ranucci-425580755/"
+        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/09/12/larabia-saudita-chiude-loleodotto-chiave-colpito-da-droni-provenienti-dalliraq_246a5129-7cd7-47e8-bb62-f1d689aa63bb.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49118029/trump-gli-houthi-hanno-chiesto-agli-usa-di-non-intervenire-/",
+        "https://www.repubblica.it/esteri/2026/09/12/news/houthi_bab_el-mandeb_riad_chiude_oleodotto_east_west-425580155/",
+        "https://www.repubblica.it/esteri/2026/09/12/diretta/guerra_iran_usa_israele_news_oggi-425580280/",
+        "https://www.lastampa.it/esteri/2026/09/12/diretta/guerra_iran_usa_israele_news_oggi-15737144/"
       ]
     }
   ]
