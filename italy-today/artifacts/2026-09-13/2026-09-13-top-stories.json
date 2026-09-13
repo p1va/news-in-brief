@@ -1,30 +1,9 @@
 {
   "date": "2026-09-13",
-  "generated_at": "Sun 13 Sep 18:46",
+  "generated_at": "Sun 13 Sep 20:46",
   "stories": [
     {
       "rank": 1,
-      "title": "L'ultimo saluto a Emma Bonino, camera ardente aperta in Campidoglio",
-      "source_count": 6,
-      "article_count": 15,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/09/13/centinaia-di-cittadini-alla-camera-ardente-di-emma-bonino-in-campidoglio_9d72eb46-4861-4015-a756-9decb510740e.html",
-        "https://www.lastampa.it/politica/2026/09/13/news/emma_bonino_domani_la_veglia_in_campidoglio_da_schlein_a_saviano_chi_ci_sara-15738142/",
-        "https://www.liberoquotidiano.it/news/pillole/49128290/magi_tante_italiane_e_tanti_italiani_hanno_visto_in_emma_bonino_un_esempio_/",
-        "https://www.ansa.it/sito/notizie/politica/2026/09/13/aperta-la-camera-ardente-di-emma-bonino-in-campidoglio_9d72eb46-4861-4015-a756-9decb510740e.html",
-        "https://www.liberoquotidiano.it/news/libero-video/49127849/emma-bonino-l-arrivo-del-feretro-in-campidoglio-per-la-camera-ardente/"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Antonelli vince anche in Spagna, Verstappen e Norris sul podio. Leclerc 4°, Hamilton ritirato",
       "source_count": 8,
       "article_count": 12,
@@ -47,15 +26,100 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Venezia 83, trionfa \"Woman Unknown\" di May el-Toukhy, l'unica regista donna in concorso",
-      "source_count": 5,
+      "rank": 2,
+      "title": "Il centrosinistra di Andersson in testa in Svezia, arretra l’ultradestra",
+      "source_count": 8,
       "article_count": 11,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilmanifesto.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/13/il-centrosinistra-verso-la-vittoria-in-svezia-arretra-lultradestra-di-akesson_67ebcf47-ae70-4098-a85e-39d37a0324f1.html",
+        "https://www.ilfattoquotidiano.it/2026/09/13/elezioni-svezia-akesson-andersson-notizie/8505638/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/13/-centrosinistra-di-magdalena-andersson-in-testa-in-svezia-arretra-lultradestra-_67ebcf47-ae70-4098-a85e-39d37a0324f1.html",
+        "https://www.adnkronos.com/internazionale/esteri/elezioni-svezia-exit-poll-centro-sinistra-vantaggio_14cYBUJO66ImHx5M8zune4",
+        "https://www.repubblica.it/esteri/2026/09/13/news/elezioni_svezia_risultati-425583040/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "L'ultimo saluto a Emma Bonino, camera ardente aperta in Campidoglio",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/09/13/centinaia-di-cittadini-alla-camera-ardente-di-emma-bonino-in-campidoglio_9d72eb46-4861-4015-a756-9decb510740e.html",
+        "https://www.lastampa.it/politica/2026/09/13/news/emma_bonino_domani_la_veglia_in_campidoglio_da_schlein_a_saviano_chi_ci_sara-15738142/",
+        "https://www.ansa.it/sito/notizie/politica/2026/09/13/aperta-la-camera-ardente-di-emma-bonino-in-campidoglio_9d72eb46-4861-4015-a756-9decb510740e.html",
+        "https://www.liberoquotidiano.it/news/libero-video/49127849/emma-bonino-l-arrivo-del-feretro-in-campidoglio-per-la-camera-ardente/",
+        "https://www.repubblica.it/politica/2026/09/13/diretta/emma_bonino_camera_ardente_campidoglio-425582397/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Ia, il ceo di Anthropic avverte: rischi, rallentare lo sviluppo",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/13/trump-contro-il-freno-allia-in-azione-forze-negative-_3334a155-424f-4620-987f-e26b24d0c667.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/13/nuovo-allarme-di-anthropic-sullia.-trump-forze-negative-vogliono-rallentarla_3334a155-424f-4620-987f-e26b24d0c667.html",
+        "https://www.repubblica.it/esteri/2026/09/13/news/ia_rivolta_dipendenti_paura_apocalisse_ecco_perche_silicon_valley_si_ferma-425582715/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/13/anthropic-senza-misure-di-sicurezza-lia-potrebbe-controllare-internet-in-6-12-mesi_3334a155-424f-4620-987f-e26b24d0c667.html",
+        "https://www.ilfattoquotidiano.it/2026/09/13/intelligenza-artificiale-amodei-hugging-face-rischi-notizie/8505225/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Scontro fra barche nella Laguna, coinvolti due sposi: lui grave in ospedale, dispersa la donna",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/morto-sean-michieli-incidente-venezia-moglie_3nO4smcJTarphiRcRdpQuE",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/13/scontro-in-laguna-a-venezia-lui-muore-e-la-moglie-e-dispersa_d6d490b3-4021-4671-904b-7ff93dc695c3.html",
+        "https://www.ilmessaggero.it/italia/sean_michieli_morto_incidente_laguna_gabriella_querino_ultime_notizie-9761263.html",
+        "https://www.ilfattoquotidiano.it/2026/09/13/incidente-nautico-venezia-dispersa-laguna-notizie/8505445/",
+        "https://www.adnkronos.com/cronaca/incidente-canale-venezia-sean-gabriella_3pTyXhbiaKyCpmo4rbro2M"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Venezia 83, trionfa \"Woman Unknown\" di May el-Toukhy, l'unica regista donna in concorso",
+      "source_count": 4,
+      "article_count": 10,
       "source_domains": [
         "liberoquotidiano.it",
         "lastampa.it",
         "ansa.it",
-        "ilmessaggero.it",
         "news.google.com"
       ],
       "links": [
@@ -67,29 +131,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Ia, il ceo di Anthropic avverte: rischi, rallentare lo sviluppo",
-      "source_count": 7,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/13/nuovo-allarme-di-anthropic-sullia.-trump-forze-negative-vogliono-rallentarla_3334a155-424f-4620-987f-e26b24d0c667.html",
-        "https://www.repubblica.it/esteri/2026/09/13/news/ia_rivolta_dipendenti_paura_apocalisse_ecco_perche_silicon_valley_si_ferma-425582715/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/13/anthropic-senza-misure-di-sicurezza-lia-potrebbe-controllare-internet-in-6-12-mesi_3334a155-424f-4620-987f-e26b24d0c667.html",
-        "https://www.ilfattoquotidiano.it/2026/09/13/intelligenza-artificiale-amodei-hugging-face-rischi-notizie/8505225/",
-        "https://www.liberoquotidiano.it/news/tv-news/49126477/ia-il-ceo-di-anthropic-avverte-rischi-rallentare-lo-sviluppo/"
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 7,
       "title": "MotoGp, a San Marino cade Bezzecchi e Marquez vola in testa al Mondiale: ordine arrivo e classifica piloti",
       "source_count": 5,
       "article_count": 8,
@@ -109,7 +151,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Sofia Goggia, nessun trauma in allenamento: esami nei prossimi giorni",
       "source_count": 6,
       "article_count": 6,
@@ -130,7 +172,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
       "title": "Incidente stradale per Daniel Maldini dopo la partita a Bergamo: positivo all’etilometro",
       "source_count": 5,
       "article_count": 7,
@@ -150,28 +192,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Elezioni in Svezia, exit poll: in testa il centrosinistra guidato da Andersson al 51,3%",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/13/elezioni-svezia-akesson-andersson-notizie/8505638/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/13/-centrosinistra-di-magdalena-andersson-in-testa-in-svezia-arretra-lultradestra-_67ebcf47-ae70-4098-a85e-39d37a0324f1.html",
-        "https://www.adnkronos.com/internazionale/esteri/elezioni-svezia-exit-poll-centro-sinistra-vantaggio_14cYBUJO66ImHx5M8zune4",
-        "https://www.repubblica.it/esteri/2026/09/13/news/elezioni_svezia_risultati-425583040/",
-        "https://www.ilmessaggero.it/mondo/elezioni_svezia_chi_ha_vinto_diretta_ultime_notizie-9761182.html"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 10,
       "title": "Us Open, Rybakina regina di New York: Sabalenka si arrende in tre set, Elena è la nuova numero 1",
       "source_count": 5,
       "article_count": 6,
@@ -188,26 +209,6 @@
         "https://www.ilmessaggero.it/sport/tennis/rybakina_regina_di_new_york_nuova_numero_al_mondo_sabalenka_battuta_tre_set-9760773.html",
         "https://www.ilmessaggero.it/sport/schede/zverev_quanti_punti_guadagna_su_sinner-9760768.html",
         "https://www.lastampa.it/sport/2026/09/13/news/us_open_rybakina_regina_di_new_york_sabalenka_si_arrende_in_tre_set_elena_e_la_nuova_numero_1-15737925/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Scontro fra barche nella Laguna, coinvolti due sposi: lui grave in ospedale, dispersa la donna",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/13/incidente-nautico-venezia-dispersa-laguna-notizie/8505445/",
-        "https://www.adnkronos.com/cronaca/incidente-canale-venezia-sean-gabriella_3pTyXhbiaKyCpmo4rbro2M",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/13/incidente-a-venezia-riprese-le-ricerche-della-donna-dispersa-in-laguna_d6d490b3-4021-4671-904b-7ff93dc695c3.html",
-        "https://www.liberoquotidiano.it/news/italia/49127033/venezia_choc_incidente_barca_lui_ferito_lei_dispersa_uno_choc_chi_sono/",
-        "https://www.lastampa.it/cronaca/2026/09/13/news/scontro_fra_barche_nella_laguna_coinvolti_due_sposi_lui_grave_in_ospedale_dispersa_la_donna-15738061/"
       ]
     }
   ]
