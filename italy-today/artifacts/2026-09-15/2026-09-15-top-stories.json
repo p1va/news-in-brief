@@ -1,28 +1,28 @@
 {
   "date": "2026-09-15",
-  "generated_at": "Tue 15 Sep 20:11",
+  "generated_at": "Tue 15 Sep 21:18",
   "stories": [
     {
       "rank": 1,
       "title": "L'ultimo saluto a Emma Bonino, i funerali di Stato laici in Campidoglio",
       "source_count": 8,
-      "article_count": 16,
+      "article_count": 17,
       "source_domains": [
+        "repubblica.it",
         "governo.it",
         "ansa.it",
         "liberoquotidiano.it",
         "adnkronos.com",
-        "repubblica.it",
         "lastampa.it",
         "ilmanifesto.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.repubblica.it/politica/2026/09/15/news/emma_bonino_funerale_prodi_letta_meloni-425587065/",
         "https://www.governo.it/it/articolo/il-presidente-meloni-alle-esequie-di-stato-forma-laica-dell-emma-bonino/32585",
         "https://www.ansa.it/sito/notizie/politica/2026/09/15/laddio-a-emma-bonino-prodi-la-difesa-dei-deboli-e-sempre-stata-la-sua_75b7482d-4b3a-446e-9d1a-c39d82a561f7.html",
         "https://www.liberoquotidiano.it/news/pillole/49146302/mattarella_alle_esequie_di_stato_di_emma_bonino_le_immagini/",
-        "https://www.liberoquotidiano.it/news/libero-video/49146216/funerali-emma-bonino-l-arrivo-dei-leader-politici-in-campidoglio/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49145264/funerali-emma-bonino-mattarella-saluta-famigliari-della-leader-radicale-al-termine-della-cerimonia/"
+        "https://www.liberoquotidiano.it/news/libero-video/49146216/funerali-emma-bonino-l-arrivo-dei-leader-politici-in-campidoglio/"
       ]
     },
     {
@@ -136,6 +136,27 @@
     },
     {
       "rank": 7,
+      "title": "L'Italia proroga di altri 15 giorni il blocco di Schengen con la Spagna, Madrid risponde",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/15/litalia-proroga-di-altri-15-giorni-il-blocco-di-schengen-con-la-spagna_cea01180-76fc-45d4-bad1-ae2182b8f3c0.html",
+        "https://www.repubblica.it/politica/2026/09/15/news/italia_spagna_schengen_blocco_proroga-425586680/",
+        "https://www.ilmessaggero.it/mondo/migranti_schengen_italia_spagna_ultime_notizie-9764699.html",
+        "https://www.lastampa.it/politica/2026/09/15/news/schengen_proroga_15_giorni_italia_spagna_terrorismo-15739749/",
+        "https://www.ilsole24ore.com/art/migranti-prorogato-15-giorni-blocco-schengen-la-spagna-viminale-permane-rischio-AJWWewDB"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Spiava i conti di Meloni e Mattarella, chiusa l’inchiesta sull’ex bancario Intesa: altri 7 indagati",
       "source_count": 5,
       "article_count": 5,
@@ -155,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Ranucci fa ricorso urgente al tribunale: chiesto il reintegro alla conduzione di Report",
       "source_count": 5,
       "article_count": 5,
@@ -172,26 +193,6 @@
         "https://www.repubblica.it/politica/2026/09/15/news/ranucci_report_ricorso_rimozione_conduzione_rai-425586070/",
         "https://www.lastampa.it/cronaca/2026/09/15/news/ranucci_ricordo_tribunale_dopo_rimozione_conduzione_report-15739582/",
         "https://news.google.com/rss/articles/CBMic0FVX3lxTE5qRnpIbjN5dHJoQnktV1dhYjNYTkFfdjg3amsxMWtCZllJSWhUckhZQW51b2xBTHNJU04zanEySnFla0txdTdTWnZnZ3d3Z1hmeENOUTJWa2JZNDFnMTBJYUhITVd5Zmg2Uk9yemllTTZaZjg?oc=5"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "L'Italia proroga di altri 15 giorni il blocco di Schengen con la Spagna, Madrid risponde",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/15/litalia-proroga-di-altri-15-giorni-il-blocco-di-schengen-con-la-spagna_cea01180-76fc-45d4-bad1-ae2182b8f3c0.html",
-        "https://www.ilmessaggero.it/mondo/migranti_schengen_italia_spagna_ultime_notizie-9764699.html",
-        "https://www.lastampa.it/politica/2026/09/15/news/schengen_proroga_15_giorni_italia_spagna_terrorismo-15739749/",
-        "https://www.ilsole24ore.com/art/migranti-prorogato-15-giorni-blocco-schengen-la-spagna-viminale-permane-rischio-AJWWewDB",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM2cyd2RNRnktMjJMV29xWTVmNHhyT0cyUWhRNXRKLTM2bkN2OXhwRXNCS1BDR01BNG5hQ3hjc3JNMmcwUFZWSEFZN0FUWm5wYUVUVXZVRUZmM1ZzZmRlalJmQ1U0UUdZNF9jUmt1RnJHbFBrTU5aUkpaVHd1YWU3Zw?oc=5"
       ]
     },
     {
