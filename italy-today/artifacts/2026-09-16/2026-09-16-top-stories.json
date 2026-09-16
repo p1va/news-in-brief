@@ -1,12 +1,12 @@
 {
   "date": "2026-09-16",
-  "generated_at": "Wed 16 Sep 20:02",
+  "generated_at": "Wed 16 Sep 21:18",
   "stories": [
     {
       "rank": 1,
       "title": "Il governo abolisce il bollo per le auto piccole e medie. Stop anche per i motocicli",
       "source_count": 9,
-      "article_count": 18,
+      "article_count": 20,
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
@@ -21,9 +21,9 @@
       "links": [
         "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/16/mossa-di-meloni-addio-al-bollo-per-le-auto-piccole-e-medie_cb12208d-db01-44ea-a5b5-7535dd0d2550.html",
         "https://www.ilmessaggero.it/economia/schede/bollo_abolito_come_funziona_con_piu_auto_moto_scelta-9767395.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/09/16/quando-berlusconi-nel-2008-propose-di-abolire-il-bollo-auto_44bdbd86-8856-4cc0-9dab-d8838a4cde3f.html",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/49159073/meloni-su-esenzione-bollo-pensata-per-chi-usa-auto-e-moto-ogni-giorno/",
-        "https://www.ilfattoquotidiano.it/2026/09/16/abolizione-bollo-auto-moto-meloni-notizie/8508723/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49159555/salvini-e-tajani-esenzione-bollo-e-solo-l-inizio-meloni-scherza-state-calmi-ci-sente-giorgetti/"
+        "https://www.ilfattoquotidiano.it/2026/09/16/abolizione-bollo-auto-moto-meloni-notizie/8508723/"
       ]
     },
     {
@@ -89,6 +89,27 @@
     },
     {
       "rank": 5,
+      "title": "A Milano rabbino aggredito, 'preso a calci e pugni a fermata del bus'",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "milano.repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/16/a-milano-rabbino-aggredito-preso-a-calci-e-pugni-a-fermata-del-bus_75d9797f-e106-492f-97fc-6d4e2f8d8e5b.html",
+        "https://www.ilfattoquotidiano.it/2026/09/16/rabbino-picchiato-milano-aggressione-notizie/8508808/",
+        "https://www.adnkronos.com/cronaca/rabbino-aggredito-milano_4ARYAK7Bxolb1lPFkcVcpy",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/16/la-denuncia-un-rabbino-preso-a-botte-alla-fermata-del-bus-a-milano_75d9797f-e106-492f-97fc-6d4e2f8d8e5b.html",
+        "https://milano.repubblica.it/cronaca/2026/09/16/news/rabbino_picchiato_alla_fermata_dell_autobus_a_milano-425589278/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Ed Sheeran, il tour Usa si svuota dopo l’esclusione di Macklemore: via Finneas, Lukas Graham e Beoga",
       "source_count": 5,
       "article_count": 7,
@@ -105,25 +126,6 @@
         "https://www.ansa.it/sito/notizie/cultura/2026/09/16/censura-anti-pro-pal-tutti-gli-artisti-ospiti-abbandonano-ed-sheeran_f5b92307-b7f5-4ea5-9dc7-2f2c5a6b4729.html",
         "https://www.repubblica.it/spettacoli/musica/2026/09/16/news/ed_sheeran_macklemore_tour_finneas_beoga_graham-425587919/",
         "https://www.lastampa.it/spettacoli/2026/09/16/news/ed_sheeran_macklemore_escluso_tour_gaza_artisti_ritiro-15740334/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Meloni pronta alla fiducia sulla legge elettorale: \"Voto anticipato? Voglio arrivare a fine legislatura\"",
-      "source_count": 4,
-      "article_count": 8,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49159071/legge-elettorale-meloni-contenta-di-quanto-fatto-consentira-ai-cittadini-il-diritto-di-scegliere/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49158749/legge-elettorale-meloni-fiducia-su-testo-con-le-preferenze-e-un-fatto-di-chiarezza/",
-        "https://www.adnkronos.com/politica/elezioni-meloni-governo-voto_3pi1qFmMVjSf5PCHxzOEnC",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49158061/meloni-elezioni-anticipate-finche-ho-maggioranza-solida-intendo-governare/",
-        "https://www.repubblica.it/politica/2026/09/16/news/melon_voto_politiche_fiducia_legge_elettorale-425589144/"
       ]
     },
     {
@@ -148,25 +150,45 @@
     },
     {
       "rank": 8,
-      "title": "Meloni: Taglio delle accise sul gasolio fino al 5 ottobre",
+      "title": "Meloni pronta alla fiducia sulla legge elettorale: \"Voto anticipato? Voglio arrivare a fine legislatura\"",
       "source_count": 4,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
         "liberoquotidiano.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "news.google.com"
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49158747/meloni-dal-5-ottobre-torna-meccanismo-delle-accise-mobili/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49157326/meloni-taglio-delle-accise-sul-gasolio-fino-al-5-ottobre/",
-        "https://www.lastampa.it/economia/2026/09/16/news/carburanti_proroga_diesel_redditi_bassi_aiuti_mirati-15740178/",
-        "https://www.ilsole24ore.com/art/accise-altra-proroga-rebus-buoni-benzina-dipendenti-e-autonomi-AJbPpREB",
-        "https://www.ilsole24ore.com/art/gasolio-ridotto-sconto-venerdi-taglio-accise-122-centesimi-poi-verra-dimezzato-AJS2w7EB"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49159071/legge-elettorale-meloni-contenta-di-quanto-fatto-consentira-ai-cittadini-il-diritto-di-scegliere/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49158749/legge-elettorale-meloni-fiducia-su-testo-con-le-preferenze-e-un-fatto-di-chiarezza/",
+        "https://www.adnkronos.com/politica/elezioni-meloni-governo-voto_3pi1qFmMVjSf5PCHxzOEnC",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49158061/meloni-elezioni-anticipate-finche-ho-maggioranza-solida-intendo-governare/",
+        "https://www.repubblica.it/politica/2026/09/16/news/melon_voto_politiche_fiducia_legge_elettorale-425589144/"
       ]
     },
     {
       "rank": 9,
+      "title": "Istat: 'Il 15% delle italiane ha subito una forma di violenza prima dei 16 anni'",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "agi.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/donne/notizie/2026/09/16/violenza-sessuale-prima-dei-16-anni-per-17-milioni-di-donne_f2f1c025-54c5-4108-bc07-be6c88248746.html",
+        "https://www.ilfattoquotidiano.it/2026/09/16/violenza-sessuale-minori-istat-2025-notizie/8508496/",
+        "https://www.ansa.it/donne/notizie/2026/09/16/istat-il-15-delle-italiane-ha-subito-una-forma-di-violenza-prima-dei-16-anni_f2f1c025-54c5-4108-bc07-be6c88248746.html",
+        "https://www.repubblica.it/cronaca/2026/09/16/news/violenza_donne_istat_vittime_under_16-425588695/",
+        "https://www.agi.it/cronaca/news/2026-09-16/dati-violenze-donne-39087196/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Dario Vitale è il nuovo direttore creativo di Emporio Armani: è il primo in questo ruolo a non far parte della famiglia Armani - ilpost.it",
       "source_count": 4,
       "article_count": 6,
@@ -182,26 +204,6 @@
         "https://d.repubblica.it/fashion/moda/2025/12/05/news/dario_vitale_intervista_prima_di_lasciare_versace-425023337/",
         "https://d.repubblica.it/fashion/moda/2026/09/16/news/chi_e_dario_vitale_designer_emporio_armani-425588387/",
         "https://d.repubblica.it/fashion/moda/2026/09/16/news/dario_vitale_nuovo_direttore_creativo_emporio_armani-425588360/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Von der Leyen propone Canada come primo membro associato dell'Ue",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/casa-europa/il-canada-il-primo-membro-associato-dellunione-europea_4ixDm38MCI3jgrv4sBj2MU",
-        "https://www.lastampa.it/esteri/2026/09/16/news/von_der_leyen_ue_canada_nato_europea_limiti_ai_social-15740504/",
-        "https://www.repubblica.it/esteri/2026/09/16/news/von_der_leyen_discorso_stato_unione_ue-425587961/",
-        "https://www.liberoquotidiano.it/news/tv-news/49151741/von-der-leyen-propone-canada-come-primo-membro-associato-dell-ue/",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaVpVSDAwTEdCazY3SlU5RXNsbnlfQTZkOUZwd2FZdTBMU0pIOU1KNWhTOTNDaU9tb1BiaTJ6alRkQ0lwUjhXeGFfTFd1TnN1blpyYThJOVNrVjNCLU9GcDdlMGI4MHFucUhtVmhMLUxUNjZtNUQ5Unp6X2J4R2xsSjVQeG9kQ3c1LWZVU3gyRQ?oc=5"
       ]
     }
   ]
