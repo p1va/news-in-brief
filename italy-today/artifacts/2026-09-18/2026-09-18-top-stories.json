@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "generated_at": "Fri 18 Sep 20:55",
+  "generated_at": "Fri 18 Sep 21:38",
   "stories": [
     {
       "rank": 1,
@@ -29,9 +29,10 @@
     {
       "rank": 2,
       "title": "Attacchi a una base aerea in Arabia, colpito Eurofighter italiano",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
+        "ilmessaggero.it",
         "liberoquotidiano.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
@@ -41,11 +42,11 @@
         "news.google.com"
       ],
       "links": [
+        "https://www.ilmessaggero.it/mondo/attacco_houthi_base_saudita_colpito_caccia_italiano_cosa_e_successo-9771913.html",
         "https://www.liberoquotidiano.it/news/esteri/49174385/caccia-italiano-colpito-arabia-saudita-crosetto-nessun-militare-ferito/",
         "https://www.repubblica.it/esteri/2026/09/18/news/arabia_saudita_houthi_attaccano_base_aerea_taif_colpito_eurofighter_italiano_crosetto-425592674/",
         "https://www.repubblica.it/breakingnews/esteri/2026/09/18/news/task_force_arabia_che_cosa_e_missione_italiana_base_saudita_taif_eurofighter_colpito-425592617/",
-        "https://www.ilfattoquotidiano.it/2026/09/18/attacco-taif-caccia-italiano-notizie/8510284/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/18/attacchi-a-una-base-aerea-in-arabia-colpito-eurofighter-italiano_93788f9c-1612-4c9a-9f86-127f9d9c55d6.html"
+        "https://www.ilfattoquotidiano.it/2026/09/18/attacco-taif-caccia-italiano-notizie/8510284/"
       ]
     },
     {
@@ -72,6 +73,28 @@
     },
     {
       "rank": 4,
+      "title": "Trump e il nuovo attacco ai media: Cnn, MsNow e Politico cacciati dalla Casa Bianca",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/18/trump-caccia-la-cnn-dalla-casa-bianca.-lemittente-e-un-attacco-illegittimo-alla_9f252cbe-a284-4450-a74e-740d1cb212bd.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/18/trump-dichiara-guerra-alla-cnn-bandita-dalla-casa-bianca_9f252cbe-a284-4450-a74e-740d1cb212bd.html",
+        "https://www.ilfattoquotidiano.it/2026/09/18/trump-cnn-politico-casa-bianca-notizie/8511375/",
+        "https://www.adnkronos.com/internazionale/esteri/trump-media-cnn-msnow-politico-casa-bianca_DYNyoluXou4XlmnrcfIWM",
+        "https://www.ilmessaggero.it/mondo/trump_bandisce_cnn_politico_msnow_casa_bianca_perche-9771855.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Di Battista: “Sto molto meglio, finalmente sono a casa”",
       "source_count": 7,
       "article_count": 7,
@@ -90,28 +113,6 @@
         "https://www.ansa.it/sito/notizie/politica/2026/09/18/di-battista-sto-molto-meglio-finalmente-sono-a-casa_6b4d3f7a-d32b-4e7e-b559-7fac35a65ab0.html",
         "https://www.repubblica.it/politica/2026/09/18/news/di_battista_esce_ospedale_post_instagram_sto_meglio-425592373/",
         "https://www.lastampa.it/cronaca/2026/09/18/news/alessandro_di_battista_salute_come_sta-15742360/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Trump e il nuovo attacco ai media: Cnn, MsNow e Politico cacciati dalla Casa Bianca",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/18/trump-dichiara-guerra-alla-cnn-bandita-dalla-casa-bianca_9f252cbe-a284-4450-a74e-740d1cb212bd.html",
-        "https://www.ilfattoquotidiano.it/2026/09/18/trump-cnn-politico-casa-bianca-notizie/8511375/",
-        "https://www.adnkronos.com/internazionale/esteri/trump-media-cnn-msnow-politico-casa-bianca_DYNyoluXou4XlmnrcfIWM",
-        "https://www.ilmessaggero.it/mondo/trump_bandisce_cnn_politico_msnow_casa_bianca_perche-9771855.html",
-        "https://www.repubblica.it/esteri/2026/09/18/news/trump_bandisce_dalla_casa_bianca_cnn_msnow_e_politico_notizie_false-425594112/"
       ]
     },
     {
@@ -171,25 +172,6 @@
     },
     {
       "rank": 9,
-      "title": "Isabella Marsilio, la prof accoltellata a Roma: «Mi ha colpita 3 volte. Aveva lo sguardo gelido, ma l'ho già perdonato»",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/italia/49175209/roma-prof-accoltellata-scuola-sostiene-remigrazione-insultata-social/",
-        "https://www.ilfattoquotidiano.it/2026/09/18/professoressa-accoltellata-roma-marsilio-notizie/8511150/",
-        "https://www.ilmessaggero.it/roma/centocelle/isabella_marsilio_prof_accoltellata_sguardo_gelido_ragazzo_perdonato-9771616.html",
-        "https://www.repubblica.it/cronaca/2026/09/18/news/intervista_professoressa_accoltellata_incontrarlo_abbracciarlo-425593558/",
-        "https://www.ilmessaggero.it/roma/centocelle/prof_accoltellata_chi_e_isabella_marsilio-9771338.html"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Energia, Fratoianni a Schlein: “Con Meloni c’è poco da collaborare”. L’apertura di Tajani",
       "source_count": 2,
       "article_count": 6,
@@ -203,6 +185,24 @@
         "https://www.liberoquotidiano.it/news/tv-news/49173563/schlein-su-costo-energia-continueremo-a-insistere-con-il-governo/",
         "https://www.repubblica.it/politica/2026/09/18/news/reazioni_schlein_fratoianni_meloni_tajani_patto_energia_gas-425592917/",
         "https://www.repubblica.it/politica/2026/09/18/news/schlein_stupore_fuoco_amico_nessuna_trattativa_meloni-425591940/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Meloni agli europei su Mosca: “Non rispondere alle provocazioni”",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "laverita.info",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.laverita.info/governo/meloni-norvegia",
+        "https://www.repubblica.it/politica/2026/09/18/news/meloni_europei_russia_non_rispondere_provocazioni-425591833/",
+        "https://ilmanifesto.it/meloni-a-caccia-di-gas-apre-a-schlein-sul-no-al-fossile",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ3Z2OHBvc0VRN1Y2Q2ZITmpyY1Q1c3d5eGVMTFk3UlNsYkM2OXE0MV96MnZxcFZIOGk0ekNya2todFpGQnlvOUlKU0pSMGlNQjdndi1NdlR0X3M4Vy1McGUxUUxtVUdMLVdseVVFZWVObnhrRVZ4QUNHTm1keThUR3lhRQ?oc=5"
       ]
     }
   ]
