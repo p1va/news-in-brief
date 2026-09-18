@@ -1,16 +1,17 @@
 {
   "date": "2026-09-18",
-  "generated_at": "Fri 18 Sep 11:00",
+  "generated_at": "Fri 18 Sep 14:59",
   "stories": [
     {
       "rank": 1,
       "title": "Roma, studente di 13 anni accoltella la professoressa in classe e spruzza lo spray urticante",
-      "source_count": 7,
-      "article_count": 7,
+      "source_count": 8,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "roma.repubblica.it",
         "lastampa.it",
         "ilsole24ore.com",
@@ -20,8 +21,8 @@
         "https://www.ansa.it/sito/notizie/cronaca/2026/09/18/studente-spruzza-spray-urticante-e-accoltella-insegnante-a-roma_b2503db3-f84e-4e54-a32e-ea20c1f9cea7.html",
         "https://www.ilmessaggero.it/roma/centocelle/studente_accoltella_prof_roma_video_casco_telecamera_coltelli_cosa_e_successo_chi_e-9771164.html",
         "https://www.ilfattoquotidiano.it/2026/09/18/studente-tredicenne-spruzza-spray-urticante-a-una-professoressa-e-la-accoltella/8510369/",
-        "https://roma.repubblica.it/cronaca/2026/09/18/news/roma_studente_di_13_anni_accoltella_la_professoressa_in_classe_e_spruzza_lo_spray_urticante-425592557/",
-        "https://www.lastampa.it/cronaca/2026/09/18/news/roma_studente_accoltella_professoressa_scuola-15742420/"
+        "https://www.liberoquotidiano.it/news/italia/49171293/roma-spray-urticante-coltellate-prof-orrore-13enne-scuola/",
+        "https://roma.repubblica.it/cronaca/2026/09/18/news/roma_studente_di_13_anni_accoltella_la_professoressa_in_classe_e_spruzza_lo_spray_urticante-425592557/"
       ]
     },
     {
@@ -88,40 +89,61 @@
     },
     {
       "rank": 5,
-      "title": "Esenzione bollo per 1,6 milioni di piemontesi. Cirio esulta ma continuerà a pagarlo: “Giusto così”",
-      "source_count": 3,
+      "title": "Bollo auto fra modelli, potenza, scadenze e risparmi: cosa c’è da sapere sull’agevolazione",
+      "source_count": 4,
       "article_count": 5,
       "source_domains": [
         "ansa.it",
         "lastampa.it",
-        "repubblica.it"
+        "repubblica.it",
+        "ilmessaggero.it"
       ],
       "links": [
         "https://www.ansa.it/canale_motori/notizie/mondo_motori/2026/09/18/esenzione-bollo-auto-quali-vetture-sono-coinvolte-e-dove-leggere-la-potenza_833fa6e4-d0b9-4239-9d97-bf5c293a1b6f.html",
         "https://www.lastampa.it/novara/2026/09/18/news/piemonte_stop_bollo_auto_esenzione_requisiti_cirio-15742450/",
         "https://www.repubblica.it/economia/2026/09/18/news/bollo_auto_conto_medio_di_163_euro_a_veicolo_per_salvini_24_milioni_di_beneficiari-425591899/",
         "https://www.lastampa.it/economia/2026/09/18/news/modelli_potenza_scadenze_risparmi_cosa_sapere_bollo_auto-15741913/",
-        "https://www.lastampa.it/torino/2026/09/17/news/bollo_auto_esenzione_2027_piemonte-15741524/"
+        "https://www.ilmessaggero.it/economia/schede/bollo_auto_abolito_chi_non_paga_come_controllare_esenzione_come_richiederla_domande_risposte-9769773.html"
       ]
     },
     {
       "rank": 6,
-      "title": "Bomba d'acqua su Roma, violento temporale si abbatte sulla capitale",
-      "source_count": 3,
-      "article_count": 3,
+      "title": "Yemen, nave Marina militare accompagna mercantile italiano nello stretto di Bab El-Mandeb",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
         "adnkronos.com",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.adnkronos.com/cronaca/meteo-roma-bomba-dacqua-oggi_y7vdJSpc1J5NpGCDvJOni",
-        "https://www.ilmessaggero.it/roma/centro_storico/bomba_d_acqua_roma-9771186.html",
-        "https://www.ilsole24ore.com/art/maltempo-allerta-gialla-temporali-12-regioni-AJHeu0GB"
+        "https://www.adnkronos.com/internazionale/esteri/yemen-mar-rosso-fregata-italiana-bergamini-cosa-succede_4Ab4ozu3S3o1uFJicHesPa",
+        "https://www.ansa.it/sito/notizie/mondo/africa/2026/09/18/la-fregata-bergamini-scorta-un-mercantile-italiano-a-bab-el-mandeb_2708dbf7-ef46-4ae2-9841-2489604162d0.html",
+        "https://www.repubblica.it/politica/2026/09/18/news/crosetto_missione_mar_rosso_marina_scortera_navi_italiane-425591830/",
+        "https://www.lastampa.it/politica/2026/09/18/news/navi_italiane_mar_rosso_crosetto_sfida_ue_difendiamo_solo_nostri_cargo-15741882/"
       ]
     },
     {
       "rank": 7,
+      "title": "Violenta bomba d'acqua su Roma: città in tilt, allagamenti da Ponte Milvio a Prati Fiscali. Scatta l'allerta meteo",
+      "source_count": 3,
+      "article_count": 5,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/maltempo-roma-albero-coppede-studenti-feriti_VqxKmpRlOxpsFbKBgzmgo",
+        "https://www.ansa.it/sito/videogallery/short_video/2026/09/18/bomba-dacqua-su-roma-a-ponte-milvio-strade-come-fiumi_3a663217-4bbb-4ce6-87ff-136d168c407d.html",
+        "https://www.adnkronos.com/cronaca/meteo-roma-bomba-dacqua-oggi_y7vdJSpc1J5NpGCDvJOni",
+        "https://www.ilmessaggero.it/roma/centro_storico/bomba_d_acqua_roma-9771186.html",
+        "https://www.ilmessaggero.it/roma/centro_storico/bomba_d_acqua_roma_strade_allagate_corso_francia_cosa_e_successo-9771186.html"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Forti piogge, acqua negli Uffizi sulla teca di un Caravaggio",
       "source_count": 3,
       "article_count": 3,
@@ -137,22 +159,6 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Navi italiane nel Mar Rosso, la sfida di Crosetto all'Ue: “Difendiamo solo i nostri cargo”",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/09/18/news/crosetto_missione_mar_rosso_marina_scortera_navi_italiane-425591830/",
-        "https://ilmanifesto.it/crosetto-invio-navi-nel-mar-rosso-anzi-no",
-        "https://www.lastampa.it/politica/2026/09/18/news/navi_italiane_mar_rosso_crosetto_sfida_ue_difendiamo_solo_nostri_cargo-15741882/"
-      ]
-    },
-    {
       "rank": 9,
       "title": "Meloni agli europei su Mosca: “Non rispondere alle provocazioni”",
       "source_count": 3,
@@ -160,12 +166,12 @@
       "source_domains": [
         "laverita.info",
         "repubblica.it",
-        "governo.it"
+        "news.google.com"
       ],
       "links": [
         "https://www.laverita.info/governo/meloni-norvegia",
         "https://www.repubblica.it/politica/2026/09/18/news/meloni_europei_russia_non_rispondere_provocazioni-425591833/",
-        "https://www.governo.it/it/articolo/visita-nel-regno-di-norvegia/32605"
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ3Z2OHBvc0VRN1Y2Q2ZITmpyY1Q1c3d5eGVMTFk3UlNsYkM2OXE0MV96MnZxcFZIOGk0ekNya2todFpGQnlvOUlKU0pSMGlNQjdndi1NdlR0X3M4Vy1McGUxUUxtVUdMLVdseVVFZWVObnhrRVZ4QUNHTm1keThUR3lhRQ?oc=5"
       ]
     },
     {
