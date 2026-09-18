@@ -1,6 +1,6 @@
 {
   "date": "2026-09-18",
-  "generated_at": "Fri 18 Sep 18:18",
+  "generated_at": "Fri 18 Sep 20:55",
   "stories": [
     {
       "rank": 1,
@@ -28,16 +28,17 @@
     },
     {
       "rank": 2,
-      "title": "Attacchi a base aerea in Arabia, Crosetto: colpito Eurofighter italiano",
-      "source_count": 6,
-      "article_count": 8,
+      "title": "Attacchi a una base aerea in Arabia, colpito Eurofighter italiano",
+      "source_count": 7,
+      "article_count": 9,
       "source_domains": [
         "liberoquotidiano.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
         "ansa.it",
         "lastampa.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
         "https://www.liberoquotidiano.it/news/esteri/49174385/caccia-italiano-colpito-arabia-saudita-crosetto-nessun-militare-ferito/",
@@ -49,6 +50,28 @@
     },
     {
       "rank": 3,
+      "title": "L’Italia e Mancini ripartono dalla Nations League, 34 convocati con 9 volti nuovi",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/09/18/nazionale-34-azzurri-convocati-da-mancini-ce-anche-daniel-maldini-_79b29bf1-61c3-4556-905b-0ef7c7fa8095.html",
+        "https://www.ilfattoquotidiano.it/2026/09/18/convocati-italia-nations-league-mancini-lista-ufficiale-nomi/8510718/",
+        "https://www.adnkronos.com/sport/mancini-nazionale-convocazioni-italia-nations-league_2HMBzoI1bcEJwEnLbULWQM",
+        "https://www.repubblica.it/sport/calcio/nazionale/2026/09/18/news/mancini_convocazioni_daniel_maldini_zaniolo_fagioli_nazionale-425593779/",
+        "https://www.lastampa.it/sport/2026/09/18/news/italia_nazionale_primi_convocati_mancini-15742773/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Di Battista: “Sto molto meglio, finalmente sono a casa”",
       "source_count": 7,
       "article_count": 7,
@@ -70,35 +93,36 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "L’Italia e Mancini ripartono dalla Nations League, 34 convocati con 9 volti nuovi",
-      "source_count": 5,
+      "rank": 5,
+      "title": "Trump e il nuovo attacco ai media: Cnn, MsNow e Politico cacciati dalla Casa Bianca",
+      "source_count": 7,
       "article_count": 7,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
+        "ilmessaggero.it",
         "repubblica.it",
-        "ilmessaggero.it"
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/09/18/nazionale-34-azzurri-convocati-da-mancini-ce-anche-daniel-maldini-_79b29bf1-61c3-4556-905b-0ef7c7fa8095.html",
-        "https://www.ilfattoquotidiano.it/2026/09/18/convocati-italia-nations-league-mancini-lista-ufficiale-nomi/8510718/",
-        "https://www.adnkronos.com/sport/mancini-nazionale-convocazioni-italia-nations-league_2HMBzoI1bcEJwEnLbULWQM",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/09/18/news/mancini_convocazioni_daniel_maldini_zaniolo_fagioli_nazionale-425593779/",
-        "https://www.ilmessaggero.it/sport/nazionali/nazionale_convocati_mancini_chi_sono_nations_league-9771386.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/18/trump-dichiara-guerra-alla-cnn-bandita-dalla-casa-bianca_9f252cbe-a284-4450-a74e-740d1cb212bd.html",
+        "https://www.ilfattoquotidiano.it/2026/09/18/trump-cnn-politico-casa-bianca-notizie/8511375/",
+        "https://www.adnkronos.com/internazionale/esteri/trump-media-cnn-msnow-politico-casa-bianca_DYNyoluXou4XlmnrcfIWM",
+        "https://www.ilmessaggero.it/mondo/trump_bandisce_cnn_politico_msnow_casa_bianca_perche-9771855.html",
+        "https://www.repubblica.it/esteri/2026/09/18/news/trump_bandisce_dalla_casa_bianca_cnn_msnow_e_politico_notizie_false-425594112/"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Seggi aperti in Russia, si vota per la Duma: prima volta da inizio guerra",
-      "source_count": 5,
-      "article_count": 7,
+      "source_count": 4,
+      "article_count": 6,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
         "repubblica.it",
-        "lastampa.it",
         "news.google.com"
       ],
       "links": [
@@ -110,10 +134,10 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Mar Rosso, lettera di Crosetto a Kallas: servono sei navi Ue per lo Stretto, paghi l’Europa",
       "source_count": 4,
-      "article_count": 6,
+      "article_count": 5,
       "source_domains": [
         "ilfattoquotidiano.it",
         "repubblica.it",
@@ -129,26 +153,43 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Bollo auto fra modelli, potenza, scadenze e risparmi: cosa c’è da sapere sull’agevolazione",
-      "source_count": 4,
-      "article_count": 5,
+      "rank": 8,
+      "title": "Tg News - 18/9/2026",
+      "source_count": 2,
+      "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it"
+        "liberoquotidiano.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/canale_motori/notizie/mondo_motori/2026/09/18/esenzione-bollo-auto-quali-vetture-sono-coinvolte-e-dove-leggere-la-potenza_833fa6e4-d0b9-4239-9d97-bf5c293a1b6f.html",
-        "https://www.lastampa.it/novara/2026/09/18/news/piemonte_stop_bollo_auto_esenzione_requisiti_cirio-15742450/",
-        "https://www.repubblica.it/economia/2026/09/18/news/bollo_auto_conto_medio_di_163_euro_a_veicolo_per_salvini_24_milioni_di_beneficiari-425591899/",
-        "https://www.lastampa.it/economia/2026/09/18/news/modelli_potenza_scadenze_risparmi_cosa_sapere_bollo_auto-15741913/",
-        "https://www.ilmessaggero.it/economia/schede/bollo_auto_abolito_chi_non_paga_come_controllare_esenzione_come_richiederla_domande_risposte-9769773.html"
+        "https://www.liberoquotidiano.it/news/pillole/49171641/tg-news---18-9-2026/",
+        "https://www.liberoquotidiano.it/news/pillole/49174772/tg-economia---18-9-2026/",
+        "https://www.liberoquotidiano.it/news/pillole/49174045/tg-sport---18-9-2026/",
+        "https://www.liberoquotidiano.it/news/pillole/49173414/salute-magazine---18-9-2026/",
+        "https://www.liberoquotidiano.it/news/pillole/49171641/tg_news_-_18_9_2026/"
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Isabella Marsilio, la prof accoltellata a Roma: «Mi ha colpita 3 volte. Aveva lo sguardo gelido, ma l'ho già perdonato»",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/italia/49175209/roma-prof-accoltellata-scuola-sostiene-remigrazione-insultata-social/",
+        "https://www.ilfattoquotidiano.it/2026/09/18/professoressa-accoltellata-roma-marsilio-notizie/8511150/",
+        "https://www.ilmessaggero.it/roma/centocelle/isabella_marsilio_prof_accoltellata_sguardo_gelido_ragazzo_perdonato-9771616.html",
+        "https://www.repubblica.it/cronaca/2026/09/18/news/intervista_professoressa_accoltellata_incontrarlo_abbracciarlo-425593558/",
+        "https://www.ilmessaggero.it/roma/centocelle/prof_accoltellata_chi_e_isabella_marsilio-9771338.html"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Energia, Fratoianni a Schlein: “Con Meloni c’è poco da collaborare”. L’apertura di Tajani",
       "source_count": 2,
       "article_count": 6,
@@ -162,42 +203,6 @@
         "https://www.liberoquotidiano.it/news/tv-news/49173563/schlein-su-costo-energia-continueremo-a-insistere-con-il-governo/",
         "https://www.repubblica.it/politica/2026/09/18/news/reazioni_schlein_fratoianni_meloni_tajani_patto_energia_gas-425592917/",
         "https://www.repubblica.it/politica/2026/09/18/news/schlein_stupore_fuoco_amico_nessuna_trattativa_meloni-425591940/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Meloni agli europei su Mosca: “Non rispondere alle provocazioni”",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "laverita.info",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.laverita.info/governo/meloni-norvegia",
-        "https://www.repubblica.it/politica/2026/09/18/news/meloni_europei_russia_non_rispondere_provocazioni-425591833/",
-        "https://ilmanifesto.it/meloni-a-caccia-di-gas-apre-a-schlein-sul-no-al-fossile",
-        "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQ3Z2OHBvc0VRN1Y2Q2ZITmpyY1Q1c3d5eGVMTFk3UlNsYkM2OXE0MV96MnZxcFZIOGk0ekNya2todFpGQnlvOUlKU0pSMGlNQjdndi1NdlR0X3M4Vy1McGUxUUxtVUdMLVdseVVFZWVObnhrRVZ4QUNHTm1keThUR3lhRQ?oc=5"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Delitto di Garlasco – L’avvocato di Andrea Sempio: “L’archiviazione di Venditti è un punto a favore della difesa”",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "laverita.info",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/18/delitto-garlasco-archiviazione-venditti-sempio-notizie/8511171/",
-        "https://www.adnkronos.com/cronaca/garlasco-venditti-avvocato-sempio-cataliotti_64Kndn39xuY9hnVkxzhMIE",
-        "https://www.laverita.info/giustizia/garlasco-venditti-archiviato-corruzione",
-        "https://www.agi.it/cronaca/video/2026-09-18/garlasco-difesa-sempio-bene-archiviazione-venditti-39124674/"
       ]
     }
   ]
