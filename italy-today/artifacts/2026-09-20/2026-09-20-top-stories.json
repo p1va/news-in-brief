@@ -1,32 +1,31 @@
 {
   "date": "2026-09-20",
-  "generated_at": "Sun 20 Sep 14:46",
+  "generated_at": "Sun 20 Sep 18:15",
   "stories": [
     {
       "rank": 1,
       "title": "Salvini sul palco di Pontida Giovani: Se siamo qua è perché c'è stato un visionario come Bossi",
-      "source_count": 5,
-      "article_count": 18,
+      "source_count": 4,
+      "article_count": 21,
       "source_domains": [
+        "repubblica.it",
         "liberoquotidiano.it",
         "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49189107/fedriga-a-pontida-il-cuore-della-lega-e-il-territorio-e-il-pragmatismo-avanti-insieme/",
-        "https://www.ansa.it/sito/notizie/politica/2026/09/20/a-pontida-le-magliette-pro-e-contro-salvini-sempre-con-lui-si-dimetta-subito_f7eadbe5-25a0-4754-a303-b2aae6c72b05.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49188816/giorgetti-a-pontida-i-nemici-non-sono-dentro-la-lega-sono-fuori/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49188055/messaggio-di-santiago-abascal-leader-spagnolo-di-vox-a-pontida-viva-l-europa-delle-nazioni-libere/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49188034/romeo-sul-palco-di-pontida-viva-la-lega-sempre-facciamo-risaltare-la-squadra-e-concetto-vincente/"
+        "https://www.repubblica.it/politica/2026/09/20/news/pontida_congresso_lega_frondisti_sorpresa_salvini-425596640/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49192703/-va-pensiero-apre-pontida-2026-in-migliaia-sul-pratone-al-tradizionale-raduno-annuale-della-lega/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49192579/il-sacro-prato-di-pontida-intitolato-a-bossi-salvini-scopre-la-targa-con-la-dedica/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49190537/lorenzo-fontana-a-pontida-bossi-e-i-nostri-padri-non-hanno-fatto-sacrifici-per-vederci-litigare/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49190437/donne-in-burqa-sul-palco-di-pontida-lo-show-contro-l-islamizzazione-in-italia/"
       ]
     },
     {
       "rank": 2,
       "title": "Meloni: in arrivo numero massimo di stranieri per classe e niente burqa a scuola",
-      "source_count": 8,
-      "article_count": 13,
+      "source_count": 9,
+      "article_count": 15,
       "source_domains": [
         "ilfattoquotidiano.it",
         "repubblica.it",
@@ -35,7 +34,8 @@
         "adnkronos.com",
         "ansa.it",
         "lastampa.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/09/20/tetto-agli-stranieri-a-scuola-vannacci-approva-i-presidi-a-meloni-se-sono-la-maggioranza-nel-quartiere-li-cacciamo/8512416/",
@@ -48,54 +48,78 @@
     {
       "rank": 3,
       "title": "Sorprende i ladri nel cortile di casa, spara e ne uccide uno",
-      "source_count": 7,
-      "article_count": 8,
+      "source_count": 8,
+      "article_count": 11,
       "source_domains": [
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
         "ansa.it",
         "adnkronos.com",
         "lastampa.it",
         "ilfattoquotidiano.it",
-        "ilmessaggero.it",
         "torino.repubblica.it",
         "agi.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/italia/ladro_ucciso_albanese_cosa_e_successo_spari_baldissero_d_alba-9775120.html",
+        "https://www.liberoquotidiano.it/news/libero-video/49190436/spara-e-uccide-ladro-il-sindaco-di-baldissero-d-alba-siamo-sconvolti-chi-ha-aperto-il-fuoco-e-una-brava-persona-/",
+        "https://www.liberoquotidiano.it/news/italia/49189947/cuneo-spara-uccide-ladro-cortile-casa-indagato-omicidio/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/sorprende-i-ladri-nel-cortile-di-casa-spara-e-ne-uccide-uno_016cdb4e-c1c9-49c5-80df-5241d7dc17e2.html",
-        "https://www.adnkronos.com/cronaca/cuneo-spara-ladri-cortile-casa-uccide_Bi0tfP4Ngyjj43FJOVt6Q",
-        "https://www.lastampa.it/cuneo/2026/09/20/video/baldissero-alba-sindaco-roberto-mollo-non-sapevo-armato-15744051/",
-        "https://www.ilfattoquotidiano.it/2026/09/20/baldissero-d-alba-spara-ladri-casa-morto/8512210/",
-        "https://www.ilmessaggero.it/italia/spara_ladri_casa_morto_baldissero_d_alba_oggi-9774824.html"
+        "https://www.adnkronos.com/cronaca/cuneo-spara-ladri-cortile-casa-uccide_Bi0tfP4Ngyjj43FJOVt6Q"
       ]
     },
     {
       "rank": 4,
       "title": "Prof accoltellata a Roma, in rete il video del 13enne che si prepara all'aggressione",
-      "source_count": 6,
-      "article_count": 9,
+      "source_count": 7,
+      "article_count": 12,
       "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "liberoquotidiano.it",
-        "roma.repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/20/prof-accoltellata-i-genitori-del-13enne-le-chiedono-scusa_e3bd5550-82f3-4f4f-b48c-7be396c4e40c.html",
+        "https://www.ilmessaggero.it/roma/centocelle/prof_accoltellata_roma_scuse_genitori_email_cosa_hanno_detto-9775211.html",
+        "https://www.repubblica.it/cronaca/2026/09/20/news/docente_accoltellata_scuse_genitori_studente-425596784/",
         "https://www.ilfattoquotidiano.it/2026/09/20/professoressa-accoltellata-centocelle-video-telegram-notizie/8512355/",
-        "https://www.adnkronos.com/cronaca/prof-accoltellata-roma-indagini-video-partecipanti-call-videochiamata_lrUtz6TYfaYuF5RT2T1dy",
-        "https://www.liberoquotidiano.it/news/libero-video/49188015/prof-accoltellata-a-roma-in-rete-il-video-del-13enne-che-si-prepara-all-aggressione/",
-        "https://roma.repubblica.it/cronaca/2026/09/20/news/prof_ferita_isabella_marsilio_tredicenne_video_omicidi-425596239/",
-        "https://roma.repubblica.it/cronaca/2026/09/20/news/prof_ferita_isabella_marsilio_cameretta_tredicenne_coltelli_pistole_soft_air-425596223/"
+        "https://www.adnkronos.com/cronaca/prof-accoltellata-roma-indagini-video-partecipanti-call-videochiamata_lrUtz6TYfaYuF5RT2T1dy"
       ]
     },
     {
       "rank": 5,
-      "title": "Acosta, in Austria arriva la prima vittoria in MotoGp. Martin e Bezzecchi sul podio, Marquez 5°",
+      "title": "Elezioni Germania, AfD avanti in Meclemburgo e Cdu crolla. Merz: \"Disastro ma non mi dimetto\". Die Linke vince a Berlino",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/20/germania-proiezioni-lafd-prima-in-pomerania-la-linke-vince-a-berlino.-merz-un-disastro_e858bc98-bac2-4f2f-a7ce-abd390ca6baf.html",
+        "https://www.ilfattoquotidiano.it/2026/09/20/elezioni-regionali-germania-afd-meclemburgo-notizie/8512510/",
+        "https://www.repubblica.it/esteri/2026/09/20/news/germania_elezioni_meclemburgo_pomerania_berlino_afd_linke_cdu-425596789/",
+        "https://www.adnkronos.com/internazionale/esteri/elezioni-germania-risultati-oggi-20-settembre_7CIliVNpX1Mir7dHuBsuxO",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/20/in-germania-seggi-aperti-a-berlino-e-nel-meclemburgo-pomerania_e858bc98-bac2-4f2f-a7ce-abd390ca6baf.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Acosta, in Austria arriva la prima vittoria in MotoGp. Martin e Bezzecchi sul podio, Marquez 5°",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
         "ansa.it",
         "repubblica.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "lastampa.it",
@@ -104,13 +128,13 @@
       "links": [
         "https://www.ansa.it/sito/notizie/sport/moto/2026/09/20/motogp-in-austria-vince-acosta-su-ktm_46cf08f1-d6e2-40dc-8368-ced5eec9eb55.html",
         "https://www.repubblica.it/sport/moto-gp/2026/09/20/news/acosta_vince_gp_austria_bezzecchi_marquez-425596561/",
+        "https://www.liberoquotidiano.it/news/sport/49190171/gp-d-austria-primo-trionfo-acosta-bagnaia-ottavo/",
         "https://www.ilfattoquotidiano.it/2026/09/20/motogp-austria-acosta-prima-vittoria-martin-bezzecchi-marquez-ordine-arrivo-nuova-classifica/8512302/",
-        "https://www.adnkronos.com/sport/motogp-gp-austria-diretta-martin-pole_3BOqcUOBoGDyLNbCycRlmo",
-        "https://www.lastampa.it/sport/2026/09/20/news/motogp_chi_ha_vinto-15744078/"
+        "https://www.adnkronos.com/sport/motogp-gp-austria-diretta-martin-pole_3BOqcUOBoGDyLNbCycRlmo"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Ed Sheeran rompe il silenzio dopo le polemiche: “A Gaza situazione ingiustificabile”",
       "source_count": 5,
       "article_count": 6,
@@ -130,7 +154,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Salvini a Pontida: \"Non voglio divisioni, facciamo congresso straordinario Lega a ottobre\"",
       "source_count": 5,
       "article_count": 6,
@@ -150,7 +174,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Davide Di Lernia morto in moto a Milano, il figlio di Leone resta decapitato dopo la caduta: aveva 47 anni",
       "source_count": 5,
       "article_count": 5,
@@ -170,40 +194,22 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Germania: due Land al voto, Merz si gioca tutto. Sale l’affluenza",
+      "rank": 10,
+      "title": "La Juve ritrova la vittoria anche in campionato, Conceicao e Bremer stendono l’Atalanta",
       "source_count": 4,
       "article_count": 5,
       "source_domains": [
+        "ilmessaggero.it",
         "ansa.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmanifesto.it"
+        "adnkronos.com",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/20/in-germania-seggi-aperti-a-berlino-e-nel-meclemburgo-pomerania_e858bc98-bac2-4f2f-a7ce-abd390ca6baf.html",
-        "https://www.lastampa.it/esteri/2026/09/20/diretta/elezioni_germania_2026_risultati_berlino_meclemburgo-15744000/",
-        "https://www.repubblica.it/esteri/2026/09/20/news/germania_voto_berlino_meclemburgo_pomerania_cdu_rischia_tracollo_merz_bilico-425596188/",
-        "https://ilmanifesto.it/meclemburgo-pomerania-la-sfida-e-su-gas-e-carburante",
-        "https://ilmanifesto.it/week-end-di-paura-per-merz-e-gia-guerra-di-successione"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Mosca, edifici danneggiati dopo un massiccio attacco di droni. Zelensky: 'Usati anche missili da crociera e balistici'",
-      "source_count": 3,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/videogallery/mondo/2026/09/20/mosca-edifici-danneggiati-dopo-un-massiccio-attacco-di-droni-due-vittime_77f45297-ce16-4649-a9f5-a17c71c3b799.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/20/allarme-per-droni-in-volo-su-kiev-raid-su-mosca_a2b0173b-8bb7-44a0-947e-7cca5ba92364.html",
-        "https://www.lastampa.it/esteri/2026/09/20/video/la_raffineria_di_mosca_in_fiamme_le_immagini_dellattacco_ucraino-15743965/",
-        "https://www.repubblica.it/esteri/2026/09/20/diretta/guerra_ucraina_russia_news_oggi-425595953/",
-        "https://www.lastampa.it/esteri/2026/09/20/diretta/guerra_russia_ucraina_news_oggi-15743767/"
+        "https://www.ilmessaggero.it/sport/schede/juventus_atalanta_pagelle_conceicao_bremer_kolo_muani_serie_a_classifica-9775234.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/20/serie-a-juventus-atalanta-2-0_64b2f6be-3aa2-476e-9403-48b2a88a021b.html",
+        "https://www.adnkronos.com/sport/juve-atalanta-rowe-proteste-rigore-cosa-e-successo_6VZtx3eLRkJ4Y2lrrtCCqM",
+        "https://www.lastampa.it/sport/2026/09/20/news/juve_atalanta_gol_highlights-15744296/",
+        "https://www.adnkronos.com/sport/diretta-juve-atalanta-oggi-serie-a-live_4XrGDi8eq9jc6zlG4Yh47q"
       ]
     }
   ]
