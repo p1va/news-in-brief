@@ -1,13 +1,14 @@
 {
   "date": "2026-09-22",
-  "generated_at": "Tue 22 Sep 21:18",
+  "generated_at": "Tue 22 Sep 23:38",
   "stories": [
     {
       "rank": 1,
       "title": "Istat: il deficit resta al 3,1%, ostacolo alla spesa per energia e difesa. Cosa succede adesso",
-      "source_count": 7,
-      "article_count": 11,
+      "source_count": 8,
+      "article_count": 13,
       "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
         "laverita.info",
         "ilfattoquotidiano.it",
@@ -17,36 +18,58 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://ilmanifesto.it/deficit-al-31-e-tasse-record-il-governo-finisce-in-trappola",
+        "https://ilmanifesto.it/niente-deroghe-per-pagare-le-armi-serviranno-tagli",
         "https://www.ansa.it/sito/notizie/economia/2026/09/22/deficit-resta-al-31-salvini-chiede-lo-scostamento-fi-frena_bc5746d2-787c-4dad-b9b8-6fdd14cc3876.html",
         "https://www.laverita.info/schiavi-dellue/deficit-italia-2025",
-        "https://www.ansa.it/sito/notizie/economia/2026/09/22/listat-conferma-il-deficit-2025-al-31.-rivisto-al-rialzo-pil-06_bc5746d2-787c-4dad-b9b8-6fdd14cc3876.html",
-        "https://www.ilfattoquotidiano.it/2026/09/22/deficit-italia-riarmo-clausola-salvaguardia-notizie/8514128/",
-        "https://www.repubblica.it/economia/2026/09/22/news/istat_deficit_giancarlo_giorgetti-425599785/"
+        "https://www.ansa.it/sito/notizie/economia/2026/09/22/listat-conferma-il-deficit-2025-al-31.-rivisto-al-rialzo-pil-06_bc5746d2-787c-4dad-b9b8-6fdd14cc3876.html"
       ]
     },
     {
       "rank": 2,
       "title": "Trump all'Onu: Credo che avremo accordo con Iran, e presto su Ucraina",
       "source_count": 6,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
+        "ilmessaggero.it",
         "ansa.it",
         "liberoquotidiano.it",
         "laverita.info",
-        "ilmessaggero.it",
         "lastampa.it",
         "repubblica.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/mondo/trump_onu_annientamento_iran_groenlandia_danimarca_zelensky-9779349.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/09/22/trump-allonu-putin-fermi-la-guerra.-e-lancia-lultimatum-alliran_68a02777-7c4a-49c6-a576-362f728dd3f8.html",
         "https://www.ansa.it/sito/videogallery/mondo/2026/09/22/trump-allonu-presto-gli-accordi-con-liran-e-fra-russia-e-ucraina_8e1a9995-820e-4571-adc9-4784ec10a05e.html",
         "https://www.liberoquotidiano.it/news/pillole/49210530/trump_all_onu_gli_altri_parlano_di_pace_io_l_ho_realizzata_/",
-        "https://www.laverita.info/mondo/trump-onu-iran",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/22/trump-allonu.-lamerica-e-tornata-piu-forte-che-mai.-liran-fara_8c73f7d9-8eb5-469c-8ae2-261fda345fc6.html"
+        "https://www.laverita.info/mondo/trump-onu-iran"
       ]
     },
     {
       "rank": 3,
+      "title": "Meloni difende il tetto agli stranieri in classe e tira in ballo Mattarella",
+      "source_count": 7,
+      "article_count": 11,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/politica/meloni-studenti-stranieri-mattarella-polemiche-opposizione_1JYqUxKaP408VXmC6jfjQO",
+        "https://ilmanifesto.it/meloni-accusa-mattarella-suo-il-tetto-per-gli-stranieri",
+        "https://www.ilmessaggero.it/politica/meloni_mattarella_tetto_30_alunni_stranieri_scuola-9779366.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-difende-il-tetto-agli-stranieri-in-classe-e-tira-in-ballo-mattarella_2c3d1f7a-0c23-43fe-b2aa-eb9368acdb7c.html",
+        "https://www.ilfattoquotidiano.it/2026/09/22/meloni-mattarella-stranieri-scuola-notizie/8514872/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Bonus colonnine, oggi attivo lo sportello: fino a 8mila euro per i condomini. Come fare domanda",
       "source_count": 5,
       "article_count": 7,
@@ -63,25 +86,6 @@
         "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/22/bonus-colonnine-oggi-il-via-alle-domande.-ecco-come-fare-per_35f7e2d1-ea7d-48e0-98ea-d772eb6f1806.html",
         "https://www.ilmessaggero.it/economia/news/bonus_colonnine_elettriche_requisiti_domanda-9778431.html",
         "https://www.repubblica.it/economia/2026/09/22/news/bonus_colonnine_al_via_da_oggi_22_settembre_quanto_vale_e_come_richiederlo-425599238/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Usa, l'incontro tra Emmanuel Macron e Volodymyr Zelensky a New York",
-      "source_count": 4,
-      "article_count": 8,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/internazionale/esteri/ucraina-incontro-trump-zelensky-news_5yHcip58IiwHMXzO9KuB8W",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/22/missili-e-aiuti-per-linverno-il-pressing-di-zelensky-al-palazzo-di-vetro_efdfe43c-c6ac-437b-98d6-495475b8c4c2.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49210636/trump-vede-zelensky-lavoriamo-a-porre-fine-a-guerra-lo-vogliono-tutti-anche-putin/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49210638/la-stretta-di-mano-tra-trump-e-zelensky-a-new-york/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49204993/zelensky-incontra-macron-a-new-york-l-abbraccio-tra-i-due-presidenti/"
       ]
     },
     {
@@ -107,22 +111,20 @@
     },
     {
       "rank": 6,
-      "title": "Meloni sfida Mattarella: “Da ministro redigeva circolari sul tetto agli stranieri in classe, giusto procedere”",
-      "source_count": 5,
-      "article_count": 6,
+      "title": "Usa, l'incontro tra Emmanuel Macron e Volodymyr Zelensky a New York",
+      "source_count": 3,
+      "article_count": 9,
       "source_domains": [
-        "ansa.it",
         "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it",
+        "ansa.it",
         "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/09/22/meloni-difende-il-tetto-agli-stranieri-in-classe-e-tira-in-ballo-mattarella_2c3d1f7a-0c23-43fe-b2aa-eb9368acdb7c.html",
-        "https://www.adnkronos.com/politica/meloni-mattarella-schlein-scuola-studenti-stranieri_3as4orOPpBNzoVlIXdoFYx",
-        "https://www.repubblica.it/politica/2026/09/22/news/scuola_meloni_mattarella_tetti_ghetti_burqa-425600896/",
-        "https://www.adnkronos.com/politica/meloni-mattarella-studenti-stranieri-scuola-bollo-auto_2txoXWg54GQFM9Hh8HvQ5G",
-        "https://www.lastampa.it/politica/2026/09/22/news/meloni_mattarella_da_ministro_circolari_tetto_stranieri_in_classe_giusto_farlo_scuola-15746247/"
+        "https://www.adnkronos.com/internazionale/esteri/ucraina-incontro-trump-zelensky-news_5yHcip58IiwHMXzO9KuB8W",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/22/missili-e-aiuti-per-linverno-il-pressing-di-zelensky-al-palazzo-di-vetro_efdfe43c-c6ac-437b-98d6-495475b8c4c2.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49211273/zelensky-spero-porremmo-fine-a-questa-guerra-prima-dell-inverno/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49210636/trump-vede-zelensky-lavoriamo-a-porre-fine-a-guerra-lo-vogliono-tutti-anche-putin/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49210638/la-stretta-di-mano-tra-trump-e-zelensky-a-new-york/"
       ]
     },
     {
