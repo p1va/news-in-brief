@@ -1,6 +1,6 @@
 {
   "date": "2026-09-22",
-  "generated_at": "Tue 22 Sep 20:11",
+  "generated_at": "Tue 22 Sep 21:18",
   "stories": [
     {
       "rank": 1,
@@ -68,21 +68,20 @@
     {
       "rank": 4,
       "title": "Usa, l'incontro tra Emmanuel Macron e Volodymyr Zelensky a New York",
-      "source_count": 5,
-      "article_count": 7,
+      "source_count": 4,
+      "article_count": 8,
       "source_domains": [
         "adnkronos.com",
         "ansa.it",
         "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
+        "repubblica.it"
       ],
       "links": [
         "https://www.adnkronos.com/internazionale/esteri/ucraina-incontro-trump-zelensky-news_5yHcip58IiwHMXzO9KuB8W",
         "https://www.ansa.it/sito/notizie/mondo/2026/09/22/missili-e-aiuti-per-linverno-il-pressing-di-zelensky-al-palazzo-di-vetro_efdfe43c-c6ac-437b-98d6-495475b8c4c2.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49204993/zelensky-incontra-macron-a-new-york-l-abbraccio-tra-i-due-presidenti/",
-        "https://www.liberoquotidiano.it/news/libero-video/49202975/usa-incontro-emmanuel-macron-volodymyr-zelensky-new-york/",
-        "https://www.liberoquotidiano.it/news/tv-news/49203351/l-arrivo-di-zelensky-a-new-york-per-l-assemblea-generale-onu/"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49210636/trump-vede-zelensky-lavoriamo-a-porre-fine-a-guerra-lo-vogliono-tutti-anche-putin/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49210638/la-stretta-di-mano-tra-trump-e-zelensky-a-new-york/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49204993/zelensky-incontra-macron-a-new-york-l-abbraccio-tra-i-due-presidenti/"
       ]
     },
     {
@@ -148,25 +147,6 @@
     },
     {
       "rank": 8,
-      "title": "Limite agli stranieri in classe, Meloni tira dritto: misure in vigore dall’anno in corso",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/22/tetto-agli-stranieri-valditara-ridimensiona-meloni-solo-per-chi-non-sa-litaliano-e-spostamenti-solo-se-ce-posto/8514133/",
-        "https://www.repubblica.it/scuola/2026/09/22/news/alunni_stranieri_tetto_burqa_domande_risposte-425599934/",
-        "https://ilmanifesto.it/la-remigrazione-di-mezza-aula",
-        "https://ilmanifesto.it/idea-li-sposteranno-tra-i-condizionatori-e-i-metal-detector",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/09/22/news/il_rischio_di_creare_un_fenomeno_busing_come_negli_usa-15745446/"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Torna la cassa integrazione a Mirafiori: dal 19 al 30 ottobre si ferma la linea della 500",
       "source_count": 5,
       "article_count": 5,
@@ -186,7 +166,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "D'Ascenzo (Inail): 1.198 infortuni mortali sul lavoro nel 2025, calano del 3,3 per cento",
       "source_count": 3,
       "article_count": 7,
@@ -201,6 +181,26 @@
         "https://www.liberoquotidiano.it/news/tv-news/49207979/inail-d-ascenzo-cala-il-numero-di-morti-sul-lavoro-ma-non-ci-accontentiamo/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/49206629/rapporto-inail-calderone-una-svolta-l-estensione-delle-tutele-al-mondo-dell-istruzione/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/49206631/d-ascenzo-inail-1-198-infortuni-mortali-sul-lavoro-nel-2025-calano-del-3-3-per-cento/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Pensioni, età di uscita sempre più alta: vecchiaia a 67 anni e 6 mesi nel 2029 e, anticipata a 43 anni e 4 mesi di contributi",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/economia/2026/09/22/news/pensioni_sale_eta_vecchiaia_67_anni_6_mesi_proiezioni_ragioneria-425600803/",
+        "https://www.ilmessaggero.it/economia/news/pensioni_eta_importi_scenari_futuro_ragioneria_stato-9779011.html",
+        "https://www.ansa.it/sito/notizie/economia/2026/09/22/rgs-nel-2029-in-pensione-di-vecchiaia-a-67-anni-e-sei-mesi_a00aa2ac-0840-47e0-b22d-a3958d409822.html",
+        "https://www.lastampa.it/economia/2026/09/22/news/in_pensione_sempre_piu_tardi_a_67_anni_e_8_mesi_nel_2031_e_per_l_anticipata_serviranno_44_anni_e_6_mesi-15746005/",
+        "https://www.ilsole24ore.com/art/previdenza-2029-pensione-vecchiaia-67-anni-e-sei-mesi-AJhBIKLB"
       ]
     }
   ]
