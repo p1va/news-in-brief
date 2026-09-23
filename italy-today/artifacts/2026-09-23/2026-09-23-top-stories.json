@@ -1,17 +1,18 @@
 {
   "date": "2026-09-23",
-  "generated_at": "Wed 23 Sep 21:32",
+  "generated_at": "Wed 23 Sep 23:36",
   "stories": [
     {
       "rank": 1,
       "title": "Colosseo, operaio di 22 anni muore cadendo da 10 metri: imbracatura non agganciata, Giuli chiude",
-      "source_count": 9,
-      "article_count": 16,
+      "source_count": 10,
+      "article_count": 18,
       "source_domains": [
+        "ilmanifesto.it",
+        "ilmessaggero.it",
         "liberoquotidiano.it",
         "laverita.info",
         "ansa.it",
-        "ilmessaggero.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "roma.repubblica.it",
@@ -19,35 +20,77 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://ilmanifesto.it/morire-sul-lavoro-a-22-anni-operaio-cade-nel-vuoto-al-colosseo",
+        "https://www.ilmessaggero.it/roma/centro_storico/colosseo_andrea_moretti_morto_dolore_amici_amava_cavalli_monti-9781518.html",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/49218313/morte-bianca-al-colosseo-di-cola-cgil-dal-governo-servono-fatti-via-subappalti-e-piu-sicurezza/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/49218192/minuto-di-silenzio-alla-fiaccolata-per-andrea-moretti-l-operaio-morto-al-colosseo/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49214820/morte-bianca-al-colosseo-giuli-vicini-a-famiglia-di-andrea-moretti-faremo-piena-luce/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49214822/operaio-morto-al-colosseo-giuli-chiusura-disposta-nottetempo-vicini-alla-famiglia-di-andrea/",
-        "https://www.laverita.info/video/cronaca-video/chiusura-colosseo-operaio-morto"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49214820/morte-bianca-al-colosseo-giuli-vicini-a-famiglia-di-andrea-moretti-faremo-piena-luce/"
       ]
     },
     {
       "rank": 2,
       "title": "Pezeshkian all'Onu: l'attacco a Trump, le foto dei bimbi iraniani uccisi e la delegazione Usa che lascia l'aula. Cosa è successo",
-      "source_count": 5,
-      "article_count": 8,
+      "source_count": 6,
+      "article_count": 10,
       "source_domains": [
+        "ilmanifesto.it",
+        "ilmessaggero.it",
         "ansa.it",
         "liberoquotidiano.it",
-        "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "repubblica.it"
       ],
       "links": [
+        "https://ilmanifesto.it/pezeshkian-i-veri-terroristi-siete-voi",
+        "https://www.ilmessaggero.it/mondo/iran_pezeshkian_onu_foto_bimbi_uccisi-9781550.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-mostra-allonu-le-foto-dei-bimbi-uccisi-non-ci-piegheremo_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/49216856/pezeshkian-l-iran-e-vittima-di-terrorismo-la-delegazione-usa-lascia-l-assemblea-onu/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-liran-e-vittima-di-terrorismo.-la-delegazione-usa-lascia-lassemblea_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
-        "https://www.ilmessaggero.it/mondo/pezeshkian_onu_attacco_trump_foto_bambini_iran_chi_e_cosa_e_successo-9781247.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49217121/onu-pezeshkian-mostra-foto-bambini-iraniani-uccisi-dalle-bombe-usa/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-liran-e-vittima-di-terrorismo.-la-delegazione-usa-lascia-lassemblea_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html"
       ]
     },
     {
       "rank": 3,
+      "title": "Ddl sul nucleare approvato dal Senato, Meloni: «Scelta coraggiosa». Pichetto: «Prime centrali in Italia nel 2033-34»",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/il-nucleare-sostenibile-e-legge-pichetto-giornata-storica",
+        "https://www.ilmessaggero.it/economia/nucleare_centrali_reattori_quando_cosa_cambia-9781555.html",
+        "https://www.ilfattoquotidiano.it/2026/09/23/legge-nucleare-senato-approvazione-notizie/8516069/",
+        "https://www.liberoquotidiano.it/news/politica/49216999/nucleare-sostenibile-via-libera-senato-delega-governo-passo-verso-futuro/",
+        "https://www.ilmessaggero.it/politica/ddl_nucleare_approvato_cosa_cambia_centrali_dove_quando-9781276.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Nizza, modella di 25 anni uccisa dall’ex compagno: il corpo sfregiato trovato nel bagagliaio dell’auto",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/mondo/larissa_brito_modella_brasiliana_fatta_pezzi_ex_compagno_nizza_ultimo_sms_mamma_qui-9781524.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/23/orrore-a-nizza-modella-brasiliana-uccisa-e-fatta-a-pezzi.-lultimo-messaggio-alla_c0cd6823-08b4-44e8-857d-d4a5f89a599c.html",
+        "https://www.liberoquotidiano.it/news/esteri/49216977/nizza-modella-brasiliana-uccisa-fatta-pezzi-bagliaio-auto-chi-e-mostro/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/23/giovane-brasiliana-uccisa-e-fatta-a-pezzi-dallex-vicino-a-nizza.-lultimo-messaggio_c0cd6823-08b4-44e8-857d-d4a5f89a599c.html",
+        "https://www.repubblica.it/esteri/2026/09/23/news/nizza_modella_di_25_anni_uccisa_dall_ex_compagno_il_corpo_sfregiato_trovato_nel_bagagliaio_dell_auto-425602600/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Giorgetti e le priorità per la manovra: meno tasse al ceto medio e bollo auto strutturale",
       "source_count": 6,
       "article_count": 6,
@@ -65,46 +108,6 @@
         "https://www.repubblica.it/economia/2026/09/23/news/giorgetti_su_flessibilita_discussione_con_la_ue-425602726/",
         "https://www.liberoquotidiano.it/news/tv-news/49214990/giorgetti-confermo-volonta-ridurre-irpef-ceti-medi-e-abolizione-bollo/",
         "https://www.lastampa.it/economia/2026/09/23/news/bollo_auto_giorgetti_volonta_del_governo_e_di_rendere_l_abolizione_strutturale-15746855/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Uccisa a 25 anni, mutilata e abbandonata in un’auto. Fermato l’ex compagno. Orrore a Nizza",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/23/orrore-a-nizza-modella-brasiliana-uccisa-e-fatta-a-pezzi.-lultimo-messaggio-alla_c0cd6823-08b4-44e8-857d-d4a5f89a599c.html",
-        "https://www.liberoquotidiano.it/news/esteri/49216977/nizza-modella-brasiliana-uccisa-fatta-pezzi-bagliaio-auto-chi-e-mostro/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/23/giovane-brasiliana-uccisa-e-fatta-a-pezzi-dallex-vicino-a-nizza.-lultimo-messaggio_c0cd6823-08b4-44e8-857d-d4a5f89a599c.html",
-        "https://www.repubblica.it/esteri/2026/09/23/news/nizza_modella_di_25_anni_uccisa_dall_ex_compagno_il_corpo_sfregiato_trovato_nel_bagagliaio_dell_auto-425602600/",
-        "https://www.ilmessaggero.it/mondo/uccisa_mutilata_auto_larissa_britto_nizza_storia-9780778.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Nucleare, via libera definitivo del Senato al Ddl delega. Pichetto: «Giornata storica per l’Italia»",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/23/legge-nucleare-senato-approvazione-notizie/8516069/",
-        "https://www.liberoquotidiano.it/news/politica/49216999/nucleare-sostenibile-via-libera-senato-delega-governo-passo-verso-futuro/",
-        "https://www.ilmessaggero.it/politica/ddl_nucleare_approvato_cosa_cambia_centrali_dove_quando-9781276.html",
-        "https://www.repubblica.it/economia/2026/09/23/news/nucleare_legge_pichetto_fratin_senato_delega_governo_centrali-425602870/",
-        "https://www.liberoquotidiano.it/news/pillole/49215361/approvato-il-ddl-delega-sul-nucleare-sostenibile-pichetto-giornata-storica-/"
       ]
     },
     {
@@ -129,21 +132,22 @@
     },
     {
       "rank": 7,
-      "title": "Valditara: 'La norma sul tetto agli stranieri a scuola sarà un decreto legge'",
-      "source_count": 4,
+      "title": "Harvey Weinstein condannato a 15 anni di carcere per violenza sessuale",
+      "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
+        "ilmanifesto.it",
+        "lastampa.it",
+        "adnkronos.com",
         "repubblica.it",
-        "ilmessaggero.it"
+        "ansa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49218315/la-russa-su-tetto-studenti-stranieri-in-classe-non-ho-capito-polemica-aiuta-integrazione/",
-        "https://www.ansa.it/sito/notizie/politica/2026/09/23/valditara-la-norma-sul-tetto-agli-stranieri-a-scuola-sara-un-decreto-legge_89aa62bf-9298-49c1-8ad9-e1f9a52e3edf.html",
-        "https://www.repubblica.it/politica/2026/09/23/news/valditara_tetto_stranieri_scuola_decreto_legge_lega_salvini-425602188/",
-        "https://www.ilmessaggero.it/politica/scuola_mattarella_meloni_scontro_tutti_i_nodi-9780775.html",
-        "https://www.liberoquotidiano.it/news/pillole/49212353/valditara_nessuno_scontro_con_il_quirinale_il_tema_e_il_no_alle_scuole_ghetto_/"
+        "https://ilmanifesto.it/harvey-weinstein-condannato-a-15-anni-di-carcere-per-violenze-sessuali",
+        "https://www.lastampa.it/esteri/2026/09/24/news/weinstein_violenza_sessuale_metoo-15747302/",
+        "https://www.adnkronos.com/internazionale/esteri/weinstein-condanna-violenza-sessuale_7ColKkK3YpzOk6hFkPBPLO",
+        "https://www.repubblica.it/esteri/2026/09/23/news/usa_harvey_weinstein_condannato_a_15_anni_per_violenza_sessuale-425603025/",
+        "https://www.ansa.it/sito/notizie/cultura/2026/09/23/harvey-weinstein-condannato-a-15-anni-di-carcere-per-aggressione-sessuale_98867c78-c1bf-42a0-964e-d151f258a4ab.html"
       ]
     },
     {
@@ -186,20 +190,20 @@
     },
     {
       "rank": 10,
-      "title": "L'estate è al capolinea, arriva l'equinozio d'autunno",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Zelensky: disponibili a cessate fuoco reciproco con Russia su energia",
+      "source_count": 3,
+      "article_count": 6,
       "source_domains": [
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilsole24ore.com"
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.repubblica.it/cronaca/2026/09/23/news/equinozio_autunno_2026_estate_caldo-425601806/",
-        "https://www.ilmessaggero.it/schede/meteo_giuliacci_svolta_fresca_balcani_piogge_temporali_dove_quando_torna_caldo_previsioni_ultime_notizie-9780544.html",
-        "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/09/22/lestate-e-al-capolinea-arriva-lequinozio-dautunno_fe42717b-f661-4bf1-bdd1-30f5ebb0682b.html",
-        "https://www.ilsole24ore.com/art/estate-sgoccioli-oggi-arriva-l-equinozio-d-autunno-ecco-cosa-cambia-AJiawFLB"
+        "https://www.lastampa.it/esteri/2026/09/24/news/zelensky_onu_guerra_russia_ucraina-15747201/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49220775/zelensky-chi-commercia-con-la-russia-allunga-la-guerra/",
+        "https://www.liberoquotidiano.it/news/pillole/49217008/ucraina_oltre_50_paesi_all_onu_mosca_accetti_subito_il_cessate_il_fuoco_/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/23/la-risposta-del-cremlino-dopo-lincontro-trump-zelensky-non-ci-sono-presupposti_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49213384/trump-incontra-zelenski-russia-e-ucraina-faranno-un-accordo-/"
       ]
     }
   ]
