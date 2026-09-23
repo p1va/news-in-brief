@@ -1,13 +1,15 @@
 {
   "date": "2026-09-23",
-  "generated_at": "Wed 23 Sep 11:16",
+  "generated_at": "Wed 23 Sep 16:38",
   "stories": [
     {
       "rank": 1,
-      "title": "Operaio 22enne muore al Colosseo. «Fune non agganciata». Chiuso il sito",
-      "source_count": 7,
-      "article_count": 11,
+      "title": "Colosseo, operaio di 22 anni muore cadendo da 10 metri: imbracatura non agganciata, Giuli chiude",
+      "source_count": 9,
+      "article_count": 14,
       "source_domains": [
+        "liberoquotidiano.it",
+        "laverita.info",
         "ansa.it",
         "ilmessaggero.it",
         "adnkronos.com",
@@ -17,15 +19,36 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49214820/morte-bianca-al-colosseo-giuli-vicini-a-famiglia-di-andrea-moretti-faremo-piena-luce/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49214822/operaio-morto-al-colosseo-giuli-chiusura-disposta-nottetempo-vicini-alla-famiglia-di-andrea/",
+        "https://www.laverita.info/video/cronaca-video/chiusura-colosseo-operaio-morto",
         "https://www.ansa.it/sito/notizie/cronaca/2026/09/23/morto-un-operaio-al-colosseo-meloni-morte-inaccettabile_d2e19d2c-1896-4bd4-b861-c2d8e26b5a9e.html",
-        "https://www.ilmessaggero.it/roma/centro_storico/andrea_moretti_come_e_morto_operaio_colosseo_ricostruzione-9780799.html",
-        "https://www.adnkronos.com/cronaca/andrea-moretti-chi-e-operaio-morto-colosseo-crognaleto_56a8r0iMcriDfdRIGgjAe0",
-        "https://www.ilfattoquotidiano.it/2026/09/23/morte-lavoro-colosseo-andrea-moretti-notizie/8515384/",
-        "https://www.ilmessaggero.it/roma/centro_storico/andrea_moretti_colosseo_morto_rocciatore_mestiere_padre_invalido_infortunio_ultime_notizie-9780747.html"
+        "https://www.ilmessaggero.it/roma/centro_storico/andrea_moretti_come_e_morto_operaio_colosseo_ricostruzione-9780799.html"
       ]
     },
     {
       "rank": 2,
+      "title": "Pezeshkian all'Onu: l'attacco a Trump, le foto dei bimbi iraniani uccisi e la delegazione Usa che lascia l'aula. Cosa è successo",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-liran-e-vittima-di-terrorismo.-la-delegazione-usa-lascia-lassemblea_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
+        "https://www.ilmessaggero.it/mondo/pezeshkian_onu_attacco_trump_foto_bambini_iran_chi_e_cosa_e_successo-9781247.html",
+        "https://www.ilfattoquotidiano.it/2026/09/23/pezeshkian-onu-iran-terrorismo-notizie/8515732/",
+        "https://www.liberoquotidiano.it/news/tv-news/49216401/onu-pezeshkian-iran-noi-vittime-di-terrorismo-e-non-terroristi-/",
+        "https://www.repubblica.it/esteri/2026/09/23/diretta/onu_assemblea_generale_pezeshkian_zelensky_milei_oggi-425602433/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Valditara: 'La norma sul tetto agli stranieri a scuola sarà un decreto legge'",
       "source_count": 5,
       "article_count": 5,
@@ -45,7 +68,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Lamezia Terme, alunno pianifica aggressione con coltello alla prof: fermato dai carabinieri",
       "source_count": 5,
       "article_count": 5,
@@ -65,7 +88,46 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Bollo auto, Giorgetti: “Volontà del governo è di rendere l’abolizione strutturale”",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/09/23/giorgetti-la-volonta-del-governo-e-leliminazione-strutturale-del-bollo-auto_5c9a3796-068b-4b85-aebb-a04cec0917d0.html",
+        "https://www.repubblica.it/economia/2026/09/23/news/giorgetti_su_flessibilita_discussione_con_la_ue-425602726/",
+        "https://www.liberoquotidiano.it/news/tv-news/49214990/giorgetti-confermo-volonta-ridurre-irpef-ceti-medi-e-abolizione-bollo/",
+        "https://www.lastampa.it/economia/2026/09/23/news/bollo_auto_giorgetti_volonta_del_governo_e_di_rendere_l_abolizione_strutturale-15746855/",
+        "https://www.ilsole24ore.com/art/giorgetti-priorita-taglio-tasse-sintesi-manovra-breve-AJTV8RMB"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "L’Estranea, l’horror di Paolo Strippoli rappresenterà l’Italia nella corsa agli Oscar",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/spettacoli/cinema/2026/09/23/news/paolo_strippoli_intervista_l_estranea_oscar-425602616/",
+        "https://www.ilfattoquotidiano.it/2026/09/23/estranea-strippoli-oscar-2027-notizie/8515418/",
+        "https://www.repubblica.it/spettacoli/cinema/2026/09/23/news/estranea_paolo_strippoli_rappresentera_italia_premio_oscar-425602072/",
+        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/23/lestranea-di-strippoli-designato-a-rappresentare-litalia-agli-oscar_eeb069be-6905-48a4-8f03-05e3614e2e2c.html",
+        "https://www.lastampa.it/spettacoli/2026/09/23/news/l_estranea_film_paolo_strippoli_italia_oscar_2027-15746707/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "L'estate è al capolinea, arriva l'equinozio d'autunno",
       "source_count": 4,
       "article_count": 4,
@@ -83,43 +145,43 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Previdenza, nel 2029 pensione di vecchiaia a 67 anni e sei mesi",
+      "rank": 8,
+      "title": "Arnaud Denis, l'attore morto per eutanasia a 43 anni: «Tre anni di sofferenza, basta maltrattamenti medici»",
       "source_count": 4,
       "article_count": 4,
       "source_domains": [
-        "ilfattoquotidiano.it",
         "ansa.it",
+        "ilmessaggero.it",
         "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/23/pensioni-requisiti-2029-tabelle-notizie/8515304/",
-        "https://www.ansa.it/sito/notizie/economia/2026/09/22/rgs-nel-2029-in-pensione-di-vecchiaia-a-67-anni-e-sei-mesi_a00aa2ac-0840-47e0-b22d-a3958d409822.html",
-        "https://www.repubblica.it/economia/2026/09/22/news/pensioni_sale_eta_vecchiaia_67_anni_6_mesi_proiezioni_ragioneria-425600803/",
-        "https://www.ilsole24ore.com/art/previdenza-2029-pensione-vecchiaia-67-anni-e-sei-mesi-AJhBIKLB"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "L’Estranea, l’horror di Paolo Strippoli rappresenterà l’Italia nella corsa agli Oscar",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ansa.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/23/estranea-strippoli-oscar-2027-notizie/8515418/",
-        "https://www.repubblica.it/spettacoli/cinema/2026/09/23/news/estranea_paolo_strippoli_rappresentera_italia_premio_oscar-425602072/",
-        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/09/23/lestranea-di-strippoli-designato-a-rappresentare-litalia-agli-oscar_eeb069be-6905-48a4-8f03-05e3614e2e2c.html",
-        "https://www.lastampa.it/spettacoli/2026/09/23/news/l_estranea_film_paolo_strippoli_italia_oscar_2027-15746707/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/22/attore-francese-43enne-sottoposto-a-eutanasia-in-belgio-per-dolori-post-operatori_a1adea08-5cca-4ac8-b7eb-fdf077a76aae.html",
+        "https://www.ilmessaggero.it/salute/storie/attore_morto_eutanasia_arnaud_denis_belgio-9780908.html",
+        "https://www.repubblica.it/spettacoli/teatro-danza/2026/09/23/news/arnaud_denis_morto_eutanasia_attore_regista-425602320/",
+        "https://www.lastampa.it/spettacoli/2026/09/23/news/arnaud_denis_morto_eutanasia_operazione_ernia-15746628/"
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "title": "Super El Niño, i dati che allarmano: rischio 450 mila morti nei prossimi 6 mesi",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/09/23/el-nino-morti-caldo-previsioni-notizie/8515722/",
+        "https://www.adnkronos.com/economia/el-nino-2026-quando-arriva-effetti-in-italia_7LKyrieJyEotMLCMfpnrWI",
+        "https://www.ilmessaggero.it/mondo/el_nino_morti_previsione_prossimi_mesi_ultime_notizie-9780664.html",
+        "https://www.lastampa.it/cronaca/2026/09/23/news/el_nino_catastrofe_allarme_morti_clima_previsioni-15746591/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Bruno Vespa intervista Giorgia Meloni con un occhio gonfio e un braccio fasciato: “Sono caduto stamani, mi hanno operato al Gemelli”. La premier: “Avevo proposto di rinviare”",
       "source_count": 4,
       "article_count": 4,
@@ -134,55 +196,6 @@
         "https://www.ilfattoquotidiano.it/2026/09/23/bruno-vespa-intervista-giorgia-meloni-con-un-occhio-gonfio-e-un-braccio-fasciato-sono-caduto-stamani-mi-hanno-operato-al-gemelli-la-premier-avevo-proposto-di-rinviare/8515334/",
         "https://www.liberoquotidiano.it/news/personaggi/49212225/cosa-e-successo-a-bruno-vespa-prima-dell-intervista-a-meloni/",
         "https://www.lastampa.it/politica/2026/09/22/news/bruno_vespa_in_onda_con_braccio_fasciato_e_occhio_gonfio_una_rovinosa_caduta-15746367/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Trump incontra Zelenski: \"Russia e Ucraina faranno un accordo\"",
-      "source_count": 2,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/23/la-risposta-del-cremlino-dopo-lincontro-trump-zelensky-non-ci-sono-presupposti_46f75301-5acd-49dc-8d3d-ddd89aa8bcdc.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49213384/trump-incontra-zelenski-russia-e-ucraina-faranno-un-accordo-/",
-        "https://www.liberoquotidiano.it/news/tv-news/49212676/zelensky-disponibili-a-cessate-fuoco-reciproco-con-russia-su-energia/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49211273/zelensky-spero-porremmo-fine-a-questa-guerra-prima-dell-inverno/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49210636/trump-vede-zelensky-lavoriamo-a-porre-fine-a-guerra-lo-vogliono-tutti-anche-putin/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "L'Ocse rivede al rialzo le stime del pil dell'Italia per il 2026. 'Pil globale meglio del previsto'",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/09/23/ocse-rivede-al-rialzo-le-stime-del-pil-dellitalia-per-il-2026_9cb5667b-55f2-4de5-a28a-235c42675313.html",
-        "https://www.ilfattoquotidiano.it/2026/09/23/ocse-pil-italia-revisioni-2026-salari-piu-bassi-2021-notizie/8515299/",
-        "https://www.repubblica.it/economia/2026/09/23/news/ocse_rialzo_la_crescita_italia_09_2026-425601826/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Super El Niño, i dati che allarmano: rischio 450 mila morti nei prossimi 6 mesi",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/economia/el-nino-2026-quando-arriva-effetti-in-italia_7LKyrieJyEotMLCMfpnrWI",
-        "https://www.ilmessaggero.it/mondo/el_nino_morti_previsione_prossimi_mesi_ultime_notizie-9780664.html",
-        "https://www.lastampa.it/cronaca/2026/09/23/news/el_nino_catastrofe_allarme_morti_clima_previsioni-15746591/"
       ]
     }
   ]
