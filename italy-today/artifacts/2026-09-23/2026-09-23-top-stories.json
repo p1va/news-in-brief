@@ -1,12 +1,12 @@
 {
   "date": "2026-09-23",
-  "generated_at": "Wed 23 Sep 20:10",
+  "generated_at": "Wed 23 Sep 21:32",
   "stories": [
     {
       "rank": 1,
       "title": "Colosseo, operaio di 22 anni muore cadendo da 10 metri: imbracatura non agganciata, Giuli chiude",
       "source_count": 9,
-      "article_count": 14,
+      "article_count": 16,
       "source_domains": [
         "liberoquotidiano.it",
         "laverita.info",
@@ -19,11 +19,11 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49218313/morte-bianca-al-colosseo-di-cola-cgil-dal-governo-servono-fatti-via-subappalti-e-piu-sicurezza/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49218192/minuto-di-silenzio-alla-fiaccolata-per-andrea-moretti-l-operaio-morto-al-colosseo/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/49214820/morte-bianca-al-colosseo-giuli-vicini-a-famiglia-di-andrea-moretti-faremo-piena-luce/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/49214822/operaio-morto-al-colosseo-giuli-chiusura-disposta-nottetempo-vicini-alla-famiglia-di-andrea/",
-        "https://www.laverita.info/video/cronaca-video/chiusura-colosseo-operaio-morto",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/23/morto-un-operaio-al-colosseo-meloni-morte-inaccettabile_d2e19d2c-1896-4bd4-b861-c2d8e26b5a9e.html",
-        "https://www.ilmessaggero.it/roma/centro_storico/andrea_moretti_come_e_morto_operaio_colosseo_ricostruzione-9780799.html"
+        "https://www.laverita.info/video/cronaca-video/chiusura-colosseo-operaio-morto"
       ]
     },
     {
@@ -109,26 +109,6 @@
     },
     {
       "rank": 6,
-      "title": "Valditara: 'La norma sul tetto agli stranieri a scuola sarà un decreto legge'",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/09/23/valditara-la-norma-sul-tetto-agli-stranieri-a-scuola-sara-un-decreto-legge_89aa62bf-9298-49c1-8ad9-e1f9a52e3edf.html",
-        "https://www.repubblica.it/politica/2026/09/23/news/valditara_tetto_stranieri_scuola_decreto_legge_lega_salvini-425602188/",
-        "https://www.ilmessaggero.it/politica/scuola_mattarella_meloni_scontro_tutti_i_nodi-9780775.html",
-        "https://www.liberoquotidiano.it/news/pillole/49212353/valditara_nessuno_scontro_con_il_quirinale_il_tema_e_il_no_alle_scuole_ghetto_/",
-        "https://ilmanifesto.it/meloni-accusa-mattarella-suo-il-tetto-per-gli-stranieri"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Lamezia Terme, alunno pianifica aggressione con coltello alla prof: fermato dai carabinieri",
       "source_count": 5,
       "article_count": 5,
@@ -145,6 +125,25 @@
         "https://www.ilmessaggero.it/persone/studente_accoltella_prof_lamezia_terme_fermato_cosa_e_successo-9780612.html",
         "https://www.lastampa.it/cronaca/2026/09/23/news/lamezia_terme_14enne_piano_accoltellamento_prof_fermato_carabinieri-15746608/",
         "https://www.agi.it/cronaca/news/2026-09-23/scuola-coltello-per-colpire-insegnante-bloccato-studente-39202127/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Valditara: 'La norma sul tetto agli stranieri a scuola sarà un decreto legge'",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49218315/la-russa-su-tetto-studenti-stranieri-in-classe-non-ho-capito-polemica-aiuta-integrazione/",
+        "https://www.ansa.it/sito/notizie/politica/2026/09/23/valditara-la-norma-sul-tetto-agli-stranieri-a-scuola-sara-un-decreto-legge_89aa62bf-9298-49c1-8ad9-e1f9a52e3edf.html",
+        "https://www.repubblica.it/politica/2026/09/23/news/valditara_tetto_stranieri_scuola_decreto_legge_lega_salvini-425602188/",
+        "https://www.ilmessaggero.it/politica/scuola_mattarella_meloni_scontro_tutti_i_nodi-9780775.html",
+        "https://www.liberoquotidiano.it/news/pillole/49212353/valditara_nessuno_scontro_con_il_quirinale_il_tema_e_il_no_alle_scuole_ghetto_/"
       ]
     },
     {
