@@ -1,6 +1,6 @@
 {
   "date": "2026-09-23",
-  "generated_at": "Wed 23 Sep 16:38",
+  "generated_at": "Wed 23 Sep 20:10",
   "stories": [
     {
       "rank": 1,
@@ -29,26 +29,86 @@
     {
       "rank": 2,
       "title": "Pezeshkian all'Onu: l'attacco a Trump, le foto dei bimbi iraniani uccisi e la delegazione Usa che lascia l'aula. Cosa è successo",
-      "source_count": 6,
-      "article_count": 6,
+      "source_count": 5,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
+        "repubblica.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-mostra-allonu-le-foto-dei-bimbi-uccisi-non-ci-piegheremo_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49216856/pezeshkian-l-iran-e-vittima-di-terrorismo-la-delegazione-usa-lascia-l-assemblea-onu/",
         "https://www.ansa.it/sito/notizie/mondo/2026/09/23/pezeshkian-liran-e-vittima-di-terrorismo.-la-delegazione-usa-lascia-lassemblea_a437d26d-b24c-4773-b1dd-11fd55eb9b90.html",
         "https://www.ilmessaggero.it/mondo/pezeshkian_onu_attacco_trump_foto_bambini_iran_chi_e_cosa_e_successo-9781247.html",
-        "https://www.ilfattoquotidiano.it/2026/09/23/pezeshkian-onu-iran-terrorismo-notizie/8515732/",
-        "https://www.liberoquotidiano.it/news/tv-news/49216401/onu-pezeshkian-iran-noi-vittime-di-terrorismo-e-non-terroristi-/",
-        "https://www.repubblica.it/esteri/2026/09/23/diretta/onu_assemblea_generale_pezeshkian_zelensky_milei_oggi-425602433/"
+        "https://www.liberoquotidiano.it/news/tv-news/49217121/onu-pezeshkian-mostra-foto-bambini-iraniani-uccisi-dalle-bombe-usa/"
       ]
     },
     {
       "rank": 3,
+      "title": "Giorgetti e le priorità per la manovra: meno tasse al ceto medio e bollo auto strutturale",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "laverita.info",
+        "ansa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.laverita.info/governo/giorgetti-economia-governo-meloni",
+        "https://www.ansa.it/sito/notizie/politica/2026/09/23/giorgetti-la-volonta-del-governo-e-leliminazione-strutturale-del-bollo-auto_5c9a3796-068b-4b85-aebb-a04cec0917d0.html",
+        "https://www.repubblica.it/economia/2026/09/23/news/giorgetti_su_flessibilita_discussione_con_la_ue-425602726/",
+        "https://www.liberoquotidiano.it/news/tv-news/49214990/giorgetti-confermo-volonta-ridurre-irpef-ceti-medi-e-abolizione-bollo/",
+        "https://www.lastampa.it/economia/2026/09/23/news/bollo_auto_giorgetti_volonta_del_governo_e_di_rendere_l_abolizione_strutturale-15746855/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Uccisa a 25 anni, mutilata e abbandonata in un’auto. Fermato l’ex compagno. Orrore a Nizza",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/23/orrore-a-nizza-modella-brasiliana-uccisa-e-fatta-a-pezzi.-lultimo-messaggio-alla_c0cd6823-08b4-44e8-857d-d4a5f89a599c.html",
+        "https://www.liberoquotidiano.it/news/esteri/49216977/nizza-modella-brasiliana-uccisa-fatta-pezzi-bagliaio-auto-chi-e-mostro/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/23/giovane-brasiliana-uccisa-e-fatta-a-pezzi-dallex-vicino-a-nizza.-lultimo-messaggio_c0cd6823-08b4-44e8-857d-d4a5f89a599c.html",
+        "https://www.repubblica.it/esteri/2026/09/23/news/nizza_modella_di_25_anni_uccisa_dall_ex_compagno_il_corpo_sfregiato_trovato_nel_bagagliaio_dell_auto-425602600/",
+        "https://www.ilmessaggero.it/mondo/uccisa_mutilata_auto_larissa_britto_nizza_storia-9780778.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Nucleare, via libera definitivo del Senato al Ddl delega. Pichetto: «Giornata storica per l’Italia»",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/09/23/legge-nucleare-senato-approvazione-notizie/8516069/",
+        "https://www.liberoquotidiano.it/news/politica/49216999/nucleare-sostenibile-via-libera-senato-delega-governo-passo-verso-futuro/",
+        "https://www.ilmessaggero.it/politica/ddl_nucleare_approvato_cosa_cambia_centrali_dove_quando-9781276.html",
+        "https://www.repubblica.it/economia/2026/09/23/news/nucleare_legge_pichetto_fratin_senato_delega_governo_centrali-425602870/",
+        "https://www.liberoquotidiano.it/news/pillole/49215361/approvato-il-ddl-delega-sul-nucleare-sostenibile-pichetto-giornata-storica-/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Valditara: 'La norma sul tetto agli stranieri a scuola sarà un decreto legge'",
       "source_count": 5,
       "article_count": 5,
@@ -68,7 +128,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 7,
       "title": "Lamezia Terme, alunno pianifica aggressione con coltello alla prof: fermato dai carabinieri",
       "source_count": 5,
       "article_count": 5,
@@ -88,27 +148,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Bollo auto, Giorgetti: “Volontà del governo è di rendere l’abolizione strutturale”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/09/23/giorgetti-la-volonta-del-governo-e-leliminazione-strutturale-del-bollo-auto_5c9a3796-068b-4b85-aebb-a04cec0917d0.html",
-        "https://www.repubblica.it/economia/2026/09/23/news/giorgetti_su_flessibilita_discussione_con_la_ue-425602726/",
-        "https://www.liberoquotidiano.it/news/tv-news/49214990/giorgetti-confermo-volonta-ridurre-irpef-ceti-medi-e-abolizione-bollo/",
-        "https://www.lastampa.it/economia/2026/09/23/news/bollo_auto_giorgetti_volonta_del_governo_e_di_rendere_l_abolizione_strutturale-15746855/",
-        "https://www.ilsole24ore.com/art/giorgetti-priorita-taglio-tasse-sintesi-manovra-breve-AJTV8RMB"
-      ]
-    },
-    {
-      "rank": 6,
+      "rank": 8,
       "title": "L’Estranea, l’horror di Paolo Strippoli rappresenterà l’Italia nella corsa agli Oscar",
       "source_count": 4,
       "article_count": 5,
@@ -127,7 +167,26 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 9,
+      "title": "Arnaud Denis, l'attore morto per eutanasia a 43 anni: «Tre anni di sofferenza, basta maltrattamenti medici»",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/22/attore-francese-43enne-sottoposto-a-eutanasia-in-belgio-per-dolori-post-operatori_a1adea08-5cca-4ac8-b7eb-fdf077a76aae.html",
+        "https://www.ilmessaggero.it/salute/storie/attore_morto_eutanasia_arnaud_denis_belgio-9780908.html",
+        "https://www.ilmessaggero.it/persone/arnaud_denis_eutanasia_perche_attore_morto-9780908.html",
+        "https://www.repubblica.it/spettacoli/teatro-danza/2026/09/23/news/arnaud_denis_morto_eutanasia_attore_regista-425602320/",
+        "https://www.lastampa.it/spettacoli/2026/09/23/news/arnaud_denis_morto_eutanasia_operazione_ernia-15746628/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "L'estate è al capolinea, arriva l'equinozio d'autunno",
       "source_count": 4,
       "article_count": 4,
@@ -142,60 +201,6 @@
         "https://www.ilmessaggero.it/schede/meteo_giuliacci_svolta_fresca_balcani_piogge_temporali_dove_quando_torna_caldo_previsioni_ultime_notizie-9780544.html",
         "https://www.ansa.it/canale_scienza/notizie/spazio_astronomia/2026/09/22/lestate-e-al-capolinea-arriva-lequinozio-dautunno_fe42717b-f661-4bf1-bdd1-30f5ebb0682b.html",
         "https://www.ilsole24ore.com/art/estate-sgoccioli-oggi-arriva-l-equinozio-d-autunno-ecco-cosa-cambia-AJiawFLB"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Arnaud Denis, l'attore morto per eutanasia a 43 anni: «Tre anni di sofferenza, basta maltrattamenti medici»",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/22/attore-francese-43enne-sottoposto-a-eutanasia-in-belgio-per-dolori-post-operatori_a1adea08-5cca-4ac8-b7eb-fdf077a76aae.html",
-        "https://www.ilmessaggero.it/salute/storie/attore_morto_eutanasia_arnaud_denis_belgio-9780908.html",
-        "https://www.repubblica.it/spettacoli/teatro-danza/2026/09/23/news/arnaud_denis_morto_eutanasia_attore_regista-425602320/",
-        "https://www.lastampa.it/spettacoli/2026/09/23/news/arnaud_denis_morto_eutanasia_operazione_ernia-15746628/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Super El Niño, i dati che allarmano: rischio 450 mila morti nei prossimi 6 mesi",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/23/el-nino-morti-caldo-previsioni-notizie/8515722/",
-        "https://www.adnkronos.com/economia/el-nino-2026-quando-arriva-effetti-in-italia_7LKyrieJyEotMLCMfpnrWI",
-        "https://www.ilmessaggero.it/mondo/el_nino_morti_previsione_prossimi_mesi_ultime_notizie-9780664.html",
-        "https://www.lastampa.it/cronaca/2026/09/23/news/el_nino_catastrofe_allarme_morti_clima_previsioni-15746591/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Bruno Vespa intervista Giorgia Meloni con un occhio gonfio e un braccio fasciato: “Sono caduto stamani, mi hanno operato al Gemelli”. La premier: “Avevo proposto di rinviare”",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/09/22/vespa-col-braccio-fasciato-in-tv-con-la-premier-ho-fatto-una-rovinosa-caduta_a0c8c3e9-1307-48f3-8f1b-30e215bf02ac.html",
-        "https://www.ilfattoquotidiano.it/2026/09/23/bruno-vespa-intervista-giorgia-meloni-con-un-occhio-gonfio-e-un-braccio-fasciato-sono-caduto-stamani-mi-hanno-operato-al-gemelli-la-premier-avevo-proposto-di-rinviare/8515334/",
-        "https://www.liberoquotidiano.it/news/personaggi/49212225/cosa-e-successo-a-bruno-vespa-prima-dell-intervista-a-meloni/",
-        "https://www.lastampa.it/politica/2026/09/22/news/bruno_vespa_in_onda_con_braccio_fasciato_e_occhio_gonfio_una_rovinosa_caduta-15746367/"
       ]
     }
   ]
