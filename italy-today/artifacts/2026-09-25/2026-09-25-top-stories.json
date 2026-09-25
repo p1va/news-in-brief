@@ -1,9 +1,29 @@
 {
   "date": "2026-09-25",
-  "generated_at": "Fri 25 Sep 20:27",
+  "generated_at": "Fri 25 Sep 21:34",
   "stories": [
     {
       "rank": 1,
+      "title": "È ancora azzurro tenebra, neanche Mancini rianima l'Italia",
+      "source_count": 5,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/e-ancora-azzurro-tenebra-neanche-mancini-rianima-litalia-_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
+        "https://www.repubblica.it/sport/calcio/nazionale/2026/09/25/news/pagelle_italia_belgio_tonali_kean_esposito-425608338/",
+        "https://www.repubblica.it/sport/calcio/nazionale/2026/09/25/news/italia_belgio_gol-425608324/",
+        "https://www.adnkronos.com/sport/rissa-donnarumma-lukaku-italia-belgio-cose-successo-nations-league_2A0gxPJa4BdaJ5D4BZf7q8",
+        "https://www.repubblica.it/sport/calcio/nazionale/2026/09/25/news/italia_belgio_commento-425608301/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Sinner salta anche Pechino: 'Non sono in grado di competere'",
       "source_count": 7,
       "article_count": 8,
@@ -25,7 +45,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Aeroporto di Malpensa intitolato a Silvio Berlusconi. La figlia Marina: \"Non c'è nome migliore del suo\"",
       "source_count": 5,
       "article_count": 9,
@@ -45,7 +65,51 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Garlasco, l’ex generale dei Ris Garofano sentito in procura a Pavia con alcuni ufficiali",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/09/25/delitto-garlasco-garofano-ris-accertamenti-notizie/8518559/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/caso-garlasco-i-pm-sentono-garofano-e-gli-ex-del-ris.-lex-generale-non_7030502d-e8e4-4b8f-8f24-64eaa58d35ea.html",
+        "https://www.adnkronos.com/cronaca/caso-garlasco-colpo-di-scena-generale-luciano-garofano_4ckfuUoMnKWfHQYVQnqTLa",
+        "https://www.liberoquotidiano.it/news/italia/49238028/garlasco-colpo-di-scena-garofano-sentito-in-procura-a-pavia-con-alcuni-ufficiali/",
+        "https://www.ilmessaggero.it/italia/garlasco_garofano_sentito_procura_cosa_e_successo-9785843.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Quattro militari italiani feriti durante un’esercitazione Nato in Lettonia",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/25/-incidente-per-militari-italiani-in-lettonia-durante-esercitazione-4-feriti-_aad36c78-16fd-466a-9424-d488e9c86ae7.html",
+        "https://www.ilfattoquotidiano.it/2026/09/25/incidente-nato-lettonia-militari-italiani-feriti-notizie/8518517/",
+        "https://www.adnkronos.com/internazionale/esteri/soldati-italiani-feriti-nato-lettonia_4kdgE9ICZYgBSLyMEvAdHW",
+        "https://www.liberoquotidiano.it/news/esteri/49237665/lettonia_incidente_durante_un_esercitazione_a_fuoco_4_militari_italiani_feriti/",
+        "https://www.ilmessaggero.it/mondo/militari_italiani_feriti_lettonia_esercitazione_nato-9785825.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Esaltavano suprematisti e proponevano attentati, 14 minori perquisiti",
       "source_count": 6,
       "article_count": 7,
@@ -66,7 +130,28 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 7,
+      "title": "Papa Leone arriva a Parigi, accolto da Macron e Brigitte all'aeroporto",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilmanifesto.it",
+        "laverita.info",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/il-papa-a-parigi-nessuna-guerra-e-inevitabile",
+        "https://www.laverita.info/mondo/leone-xiv-francia-macron-unesco-notre-dame",
+        "https://www.ilmessaggero.it/vaticano/papa_leone_macron_trump_liberta_stampa_cnn_giornalisti_sono_felice-9785203.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49233441/papa-leone-xiv-arriva-all-eliseo-accolto-da-macron/",
+        "https://www.repubblica.it/esteri/2026/09/25/diretta/papa_leone_xiv_in_francia__diretta-425606625/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Trump: con Xi Jinping abbiamo fatto passi da gigante",
       "source_count": 4,
       "article_count": 9,
@@ -85,123 +170,42 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Quattro militari italiani feriti in Lettonia durante un'esercitazione Nato: raffica di mitragliatrice (per errore) da un corazzato all'altro",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/25/-incidente-per-militari-italiani-in-lettonia-durante-esercitazione-4-feriti-_aad36c78-16fd-466a-9424-d488e9c86ae7.html",
-        "https://www.ilfattoquotidiano.it/2026/09/25/incidente-nato-lettonia-militari-italiani-feriti-notizie/8518517/",
-        "https://www.adnkronos.com/internazionale/esteri/soldati-italiani-feriti-nato-lettonia_4kdgE9ICZYgBSLyMEvAdHW",
-        "https://www.liberoquotidiano.it/news/esteri/49237665/lettonia_incidente_durante_un_esercitazione_a_fuoco_4_militari_italiani_feriti/",
-        "https://www.ilmessaggero.it/mondo/militari_italiani_feriti_lettonia_esercitazione_nato-9785825.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Papa Leone arriva a Parigi, accolto da Macron e Brigitte all'aeroporto",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "laverita.info",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.laverita.info/mondo/leone-xiv-francia-macron-unesco-notre-dame",
-        "https://www.ilmessaggero.it/vaticano/papa_leone_macron_trump_liberta_stampa_cnn_giornalisti_sono_felice-9785203.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49233441/papa-leone-xiv-arriva-all-eliseo-accolto-da-macron/",
-        "https://www.repubblica.it/esteri/2026/09/25/diretta/papa_leone_xiv_in_francia__diretta-425606625/",
-        "https://www.liberoquotidiano.it/news/tv-news/49232954/papa-leone-arriva-a-parigi-accolto-da-macron-e-brigitte-all-aeroporto/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Alunno di 6 anni a scuola con un coltello di 13 centimetri nello zainetto. «Convinto da un compagno dopo una lite con altri scolari»",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "bari.repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://bari.repubblica.it/cronaca/2026/09/25/news/il_bambino_con_il_coltello_in_classe_non_capiva_la_gravita_del_gesto_i_compagni_erano_sconvolti-425607590/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/bimbo-di-6-anni-trovato-con-un-coltello-da-13-centimetri-nello-zaino-a-scuola_db167632-95e8-4b04-aee6-8d427671583e.html",
-        "https://bari.repubblica.it/cronaca/2026/09/25/news/bambino_6_anni_a_scuola_coltello_13_centimetri_zaino-425607125/",
-        "https://www.ilmessaggero.it/italia/alunno_coltello_scuola_zaino_lecce_ultime_notizie-9785347.html",
-        "https://www.liberoquotidiano.it/news/italia/49234752/lecce-orrore-scuola-bimbo-6-anni-coltello-cucina-zaino/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Eni, dal 28 settembre tetto ai prezzi dei carburanti: 1,99 euro al litro la benzina e 2,19 per il diesel",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/09/25/sale-il-costo-del-gasolio-ma-leni-mette-un-tetto-ai-prezzi_94d83426-2bbc-400c-a017-36aab3b4da40.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/09/25/eni-tetto-di-219-euro-al-prezzo-del-gasolio-199-per-la-benzina_94d83426-2bbc-400c-a017-36aab3b4da40.html",
-        "https://www.ilfattoquotidiano.it/2026/09/25/prezzi-carburanti-eni-price-cap-notizie/8518126/",
-        "https://www.ilmessaggero.it/economia/news/eni_tetto_prezzi_benzina_diesel_quanto_costa_price_cap_ultime_notizie-9785579.html",
-        "https://www.repubblica.it/economia/2026/09/25/news/eni_tetto_prezzi_benzina_diesel-425607530/"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Multe e bollo auto rottamabili in 1.500 enti locali, ecco l'elenco di chi aderisce alla Rottamazione-quinquies",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Omicidio a Torino, cadavere a pezzi trovato nascosto in sacchi in casa di una professoressa",
+      "source_count": 4,
+      "article_count": 8,
       "source_domains": [
-        "repubblica.it",
-        "ilfattoquotidiano.it",
         "ansa.it",
+        "torino.repubblica.it",
         "ilmessaggero.it",
-        "ilsole24ore.com"
+        "lastampa.it"
       ],
       "links": [
-        "https://www.repubblica.it/economia/diritti-e-consumi/fisco/2026/09/25/news/rottamazione_multe_bollo_auto_adesione_citta-425607409/",
-        "https://www.ilfattoquotidiano.it/2026/09/25/rottamazione-quinquies-enti-locali-elenco-notizie/8517769/",
-        "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/09/25/multe-e-bollo-auto-rottamabili-in-1.500-enti-locali-online-lelenco_72f2ccf0-b08a-43be-a78f-44915fea20ae.html",
-        "https://www.ilmessaggero.it/economia/news/rottamazione_multe_bollo_auto_imu_tari_elenco_comuni_domande-9785227.html",
-        "https://www.ilsole24ore.com/art/multe-bollo-auto-imu-e-tari-rottamabili-1500-enti-locali-domande-16-ottobre-AJbMowOB"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/ucciso-e-fatto-a-pezzi-a-torino-fermate-tre-persone_c2ab923a-e30d-4fa4-a689-0500dac697f5.html",
+        "https://torino.repubblica.it/cronaca/2026/09/26/news/omicidio_via_gulli_casa_professoressa_ipotesi_festino_droga-425608184/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/omicidio-a-torino-il-corpo-a-pezzi-a-casa-della-prof_c2ab923a-e30d-4fa4-a689-0500dac697f5.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/omicidio-a-torino-cadavere-a-pezzi-trovato-nascosto-in-sacchi-in-casa-di-una-professoressa_c2ab923a-e30d-4fa4-a689-0500dac697f5.html",
+        "https://www.ilmessaggero.it/italia/cadavere_a_pezzi_torino_cosa_non_torna_soccorsi-9785231.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Fideuram, truffa da 36 milioni per l’ex presidente: falso messaggio di Messina e voce clonata con l’Ai",
-      "source_count": 4,
-      "article_count": 6,
+      "title": "L'Eni mette un tetto massimo sui carburanti: 2,19 euro per il gasolio, 1,99 per la benzina. Governo ringrazia",
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "repubblica.it",
         "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/25/una-telefonata-dallad-di-intesa-via-ai-bonifici-per-95-milioni-ma-era-tutto-finto-la-storia-della-truffa-a-fideuram-indagato-informatico-israeliano/8518472/",
-        "https://www.ilfattoquotidiano.it/2026/09/25/ceo-fraud-banche-26-milioni-notizie/8518340/",
-        "https://www.repubblica.it/cronaca/2026/09/25/news/truffe_milionarie_crosetto_tria_caso_fideuram-425607508/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/lex-capo-di-fideuram-truffato-con-whatsapp-e-ia-spariti-36-milioni_f747847d-aaa5-4f5f-9bee-1d476b6bea1e.html",
-        "https://www.lastampa.it/cronaca/2026/09/25/news/fideuram_truffa_36_milioni_whatsapp_voce_clonata_ai_molesini-15748791/"
+        "https://www.ansa.it/sito/notizie/economia/2026/09/25/sale-il-costo-del-gasolio-ma-leni-mette-un-tetto-ai-prezzi_94d83426-2bbc-400c-a017-36aab3b4da40.html",
+        "https://www.repubblica.it/politica/2026/09/25/news/tetto_prezzi_en_destra_pd_landini-425607861/",
+        "https://www.ansa.it/sito/notizie/economia/2026/09/25/eni-tetto-di-219-euro-al-prezzo-del-gasolio-199-per-la-benzina_94d83426-2bbc-400c-a017-36aab3b4da40.html",
+        "https://www.ilfattoquotidiano.it/2026/09/25/prezzi-carburanti-eni-price-cap-notizie/8518126/",
+        "https://www.ilmessaggero.it/economia/news/eni_tetto_prezzi_benzina_diesel_quanto_costa_price_cap_ultime_notizie-9785579.html"
       ]
     }
   ]
