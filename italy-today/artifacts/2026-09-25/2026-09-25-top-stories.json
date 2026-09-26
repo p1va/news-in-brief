@@ -1,25 +1,27 @@
 {
   "date": "2026-09-25",
-  "generated_at": "Fri 25 Sep 21:34",
+  "generated_at": "Sat 26 Sep 00:00",
   "stories": [
     {
       "rank": 1,
       "title": "È ancora azzurro tenebra, neanche Mancini rianima l'Italia",
-      "source_count": 5,
-      "article_count": 12,
+      "source_count": 7,
+      "article_count": 14,
       "source_domains": [
         "ansa.it",
+        "laverita.info",
         "repubblica.it",
         "adnkronos.com",
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/25/e-ancora-azzurro-tenebra-neanche-mancini-rianima-litalia-_8f217ba7-1e9e-4bcf-aa96-35b730498f0b.html",
+        "https://www.laverita.info/storie-di-sport/italia-belgio-mancini",
         "https://www.repubblica.it/sport/calcio/nazionale/2026/09/25/news/pagelle_italia_belgio_tonali_kean_esposito-425608338/",
         "https://www.repubblica.it/sport/calcio/nazionale/2026/09/25/news/italia_belgio_gol-425608324/",
-        "https://www.adnkronos.com/sport/rissa-donnarumma-lukaku-italia-belgio-cose-successo-nations-league_2A0gxPJa4BdaJ5D4BZf7q8",
-        "https://www.repubblica.it/sport/calcio/nazionale/2026/09/25/news/italia_belgio_commento-425608301/"
+        "https://www.adnkronos.com/sport/rissa-donnarumma-lukaku-italia-belgio-cose-successo-nations-league_2A0gxPJa4BdaJ5D4BZf7q8"
       ]
     },
     {
@@ -46,6 +48,49 @@
     },
     {
       "rank": 3,
+      "title": "Esaltavano suprematisti e proponevano attentati, 14 minori perquisiti",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/giovani-neonazi-sul-web-14-minorenni-perquisiti",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/la-rete-dei-minorenni-suprematisti-attentati-anche-a-scuola-_0dc34236-793e-4c32-bd95-1e067fbd1e19.html",
+        "https://www.ilmessaggero.it/italia/neonazisti_suprematisti_social_propaganda_perquisizioni-9785272.html",
+        "https://www.ilfattoquotidiano.it/2026/09/25/propaganda-nazista-minori-indagati-notizie/8517767/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/esaltavano-suprematisti-e-proponevano-attentati-14-minori-perquisiti_0dc34236-793e-4c32-bd95-1e067fbd1e19.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "L'Eni mette un tetto massimo sui carburanti: 2,19 euro per il gasolio, 1,99 per la benzina. Governo ringrazia",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/politica/caro-carburanti-price-cap-tetto-al-prezzo-gasolio-benzina_1Pl1bNBPM2AGzy4VyGV92A",
+        "https://www.ansa.it/sito/notizie/economia/2026/09/25/sale-il-costo-del-gasolio-ma-leni-mette-un-tetto-ai-prezzi_94d83426-2bbc-400c-a017-36aab3b4da40.html",
+        "https://www.ilmessaggero.it/economia/news/prezzo_diesel_benzina_eni_ultime_notizie-9785895.html",
+        "https://www.repubblica.it/politica/2026/09/25/news/tetto_prezzi_en_destra_pd_landini-425607861/",
+        "https://www.ansa.it/sito/notizie/economia/2026/09/25/eni-tetto-di-219-euro-al-prezzo-del-gasolio-199-per-la-benzina_94d83426-2bbc-400c-a017-36aab3b4da40.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Aeroporto di Malpensa intitolato a Silvio Berlusconi. La figlia Marina: \"Non c'è nome migliore del suo\"",
       "source_count": 5,
       "article_count": 9,
@@ -65,7 +110,47 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "title": "Papa Leone arriva a Parigi, accolto da Macron e Brigitte all'aeroporto",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "laverita.info",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/il-papa-a-parigi-nessuna-guerra-e-inevitabile",
+        "https://www.ilmessaggero.it/vaticano/papa_leone_francia_viaggio_macron_ultime_notizie-9785964.html",
+        "https://www.laverita.info/mondo/leone-xiv-francia-macron-unesco-notre-dame",
+        "https://www.ilmessaggero.it/vaticano/papa_leone_macron_trump_liberta_stampa_cnn_giornalisti_sono_felice-9785203.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49233441/papa-leone-xiv-arriva-all-eliseo-accolto-da-macron/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Trump: con Xi Jinping abbiamo fatto passi da gigante",
+      "source_count": 4,
+      "article_count": 10,
+      "source_domains": [
+        "lastampa.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/esteri/2026/09/26/news/trump-xi-accordo-vertice-miami-cina-usa-15749396/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/25/trump-esalta-i-progressi-con-xi-ma-dal-vertice-e-fumata-grigia_fb1d1280-6209-44eb-b55d-450976f1aae5.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49236877/trump-orgoglioso-delle-relazioni-con-pechino-costruiamo-mondo-migliore/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/09/25/trump-a-xi-inaccettabile-che-la-cina-aiuti-liran_fb1d1280-6209-44eb-b55d-450976f1aae5.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49237428/trump-si-con-xi-ho-parlato-di-iran-ad-hormuz-andremo-alla-grande-/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Garlasco, l’ex generale dei Ris Garofano sentito in procura a Pavia con alcuni ufficiali",
       "source_count": 7,
       "article_count": 7,
@@ -87,7 +172,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 9,
       "title": "Quattro militari italiani feriti durante un’esercitazione Nato in Lettonia",
       "source_count": 7,
       "article_count": 7,
@@ -109,103 +194,23 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Esaltavano suprematisti e proponevano attentati, 14 minori perquisiti",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/la-rete-dei-minorenni-suprematisti-attentati-anche-a-scuola-_0dc34236-793e-4c32-bd95-1e067fbd1e19.html",
-        "https://www.ilmessaggero.it/italia/neonazisti_suprematisti_social_propaganda_perquisizioni-9785272.html",
-        "https://www.ilfattoquotidiano.it/2026/09/25/propaganda-nazista-minori-indagati-notizie/8517767/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/esaltavano-suprematisti-e-proponevano-attentati-14-minori-perquisiti_0dc34236-793e-4c32-bd95-1e067fbd1e19.html",
-        "https://www.repubblica.it/cronaca/2026/09/25/news/suprematisti_perquisiti_quattordici_minori_operazione_italia-425606831/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Papa Leone arriva a Parigi, accolto da Macron e Brigitte all'aeroporto",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ilmanifesto.it",
-        "laverita.info",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://ilmanifesto.it/il-papa-a-parigi-nessuna-guerra-e-inevitabile",
-        "https://www.laverita.info/mondo/leone-xiv-francia-macron-unesco-notre-dame",
-        "https://www.ilmessaggero.it/vaticano/papa_leone_macron_trump_liberta_stampa_cnn_giornalisti_sono_felice-9785203.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49233441/papa-leone-xiv-arriva-all-eliseo-accolto-da-macron/",
-        "https://www.repubblica.it/esteri/2026/09/25/diretta/papa_leone_xiv_in_francia__diretta-425606625/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Trump: con Xi Jinping abbiamo fatto passi da gigante",
-      "source_count": 4,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/25/trump-esalta-i-progressi-con-xi-ma-dal-vertice-e-fumata-grigia_fb1d1280-6209-44eb-b55d-450976f1aae5.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49238024/trump-dona-a-xi-jinping-statua-dell-aquila-americana-simbolo-della-nostra-amicizia/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49236877/trump-orgoglioso-delle-relazioni-con-pechino-costruiamo-mondo-migliore/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/09/25/trump-a-xi-inaccettabile-che-la-cina-aiuti-liran_fb1d1280-6209-44eb-b55d-450976f1aae5.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49236811/trump-con-xi-jinping-abbiamo-fatto-passi-da-gigante/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Omicidio a Torino, cadavere a pezzi trovato nascosto in sacchi in casa di una professoressa",
-      "source_count": 4,
+      "rank": 10,
+      "title": "L'ex presidente di Fideuram truffato con whatsApp e Ia, spariti 36 milioni",
+      "source_count": 5,
       "article_count": 8,
       "source_domains": [
-        "ansa.it",
-        "torino.repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/ucciso-e-fatto-a-pezzi-a-torino-fermate-tre-persone_c2ab923a-e30d-4fa4-a689-0500dac697f5.html",
-        "https://torino.repubblica.it/cronaca/2026/09/26/news/omicidio_via_gulli_casa_professoressa_ipotesi_festino_droga-425608184/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/omicidio-a-torino-il-corpo-a-pezzi-a-casa-della-prof_c2ab923a-e30d-4fa4-a689-0500dac697f5.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/omicidio-a-torino-cadavere-a-pezzi-trovato-nascosto-in-sacchi-in-casa-di-una-professoressa_c2ab923a-e30d-4fa4-a689-0500dac697f5.html",
-        "https://www.ilmessaggero.it/italia/cadavere_a_pezzi_torino_cosa_non_torna_soccorsi-9785231.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "L'Eni mette un tetto massimo sui carburanti: 2,19 euro per il gasolio, 1,99 per la benzina. Governo ringrazia",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
+        "lastampa.it",
         "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "repubblica.it",
+        "ansa.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/09/25/sale-il-costo-del-gasolio-ma-leni-mette-un-tetto-ai-prezzi_94d83426-2bbc-400c-a017-36aab3b4da40.html",
-        "https://www.repubblica.it/politica/2026/09/25/news/tetto_prezzi_en_destra_pd_landini-425607861/",
-        "https://www.ansa.it/sito/notizie/economia/2026/09/25/eni-tetto-di-219-euro-al-prezzo-del-gasolio-199-per-la-benzina_94d83426-2bbc-400c-a017-36aab3b4da40.html",
-        "https://www.ilfattoquotidiano.it/2026/09/25/prezzi-carburanti-eni-price-cap-notizie/8518126/",
-        "https://www.ilmessaggero.it/economia/news/eni_tetto_prezzi_benzina_diesel_quanto_costa_price_cap_ultime_notizie-9785579.html"
+        "https://www.lastampa.it/cronaca/2026/09/26/news/banche_truffa_ai_fideuram_ifis_bcc-15749402/",
+        "https://www.ilfattoquotidiano.it/2026/09/25/una-telefonata-dallad-di-intesa-via-ai-bonifici-per-95-milioni-ma-era-tutto-finto-la-storia-della-truffa-a-fideuram-indagato-informatico-israeliano/8518472/",
+        "https://www.ilfattoquotidiano.it/2026/09/25/ceo-fraud-banche-26-milioni-notizie/8518340/",
+        "https://www.repubblica.it/cronaca/2026/09/25/news/truffe_milionarie_crosetto_tria_caso_fideuram-425607508/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/25/lex-capo-di-fideuram-truffato-con-whatsapp-e-ia-spariti-36-milioni_f747847d-aaa5-4f5f-9bee-1d476b6bea1e.html"
       ]
     }
   ]
