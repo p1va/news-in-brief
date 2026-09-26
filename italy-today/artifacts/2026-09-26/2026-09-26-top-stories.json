@@ -1,69 +1,113 @@
 {
   "date": "2026-09-26",
-  "generated_at": "Sat 26 Sep 11:13",
+  "generated_at": "Sat 26 Sep 16:13",
   "stories": [
     {
       "rank": 1,
-      "title": "Gasolio, partito oggi lo sconto ridotto a 6,1 cent: di quanto aumenterà il costo. Ma lunedì scatta il price cap Eni",
+      "title": "Roberto Vannacci nella bufera, foto ritoccata di Matilde Siracusano: via il top, resta la scollatura. Lei: \"Squallido usare l'IA per spogliare una donna, valuto la denuncia\"",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/09/26/tajani-a-vannacci-disonorevole-aver-ritoccato-la-foto-di-matilde-siracusano_f4bf9e8a-edc2-49a5-b090-6cd8df138b96.html",
+        "https://www.adnkronos.com/politica/matilde-siracusano-post-foto-ritoccata-ai-fake_3BWSuxpUZl4k99BHdYNcPW",
+        "https://www.ilfattoquotidiano.it/2026/09/26/vannacci-foto-fake-siracusano-notizie/8518953/",
+        "https://www.repubblica.it/politica/2026/09/26/news/matilde_siracusano_fi_vannacci_foto_nuda_ia_intervista-425609252/",
+        "https://www.ilmessaggero.it/politica/vannacci_foto_matilde_siracusano_senza_maglietta_scollatura_ultime_notizie-9787139.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Russell vince a Baku davanti a Verstappen. Antonelli da 16° a 5°, Ferrari giù dal podio",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/09/26/f1-gran-premio-di-baku_7c2ccad1-fd34-4355-80a4-1ba4d6413837.html",
+        "https://www.adnkronos.com/sport/antonelli-a-baku-weekend-piu-difficile-dellanno_3wbOnykHiSZBbhBAJT5hGg",
+        "https://www.repubblica.it/sport/formulauno/2026/09/26/news/f1_gp_baku_2026_vince_russell_ferrari_antonelli-425609244/",
+        "https://www.ilfattoquotidiano.it/2026/09/26/f1-russell-vittoria-baku-verstappen-antonelli-al-5-posto-ferrari-ancora-giu-dal-podio-ordine-arrivo-nuova-classifica/8518934/",
+        "https://www.lastampa.it/sport/2026/09/26/news/f1_gp_azerbaigian_ordine_arrivo-15749837/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Stretto di Messina, il direttore tecnico Mele passa ad Anas. Il progetto del Ponte pronto per il Cipess",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ansa.it",
         "ilmessaggero.it",
-        "laverita.info",
         "lastampa.it",
+        "repubblica.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/09/26/prezzi-carburanti-accise-diesel-oggi/8518840/",
-        "https://www.ansa.it/sito/notizie/economia/aziende/2026/09/26/lo-sconto-delle-accise-si-dimezza-il-diesel-sale-a-2357-euro-in-autostrada-a-2439_c3c9592d-e01e-47a7-bfbb-b4d6a28a3711.html",
-        "https://www.ilmessaggero.it/economia/news/carburante_prezzi_stazioni_eni_sconto_mappa_quali_sono_in_italia-9786885.html",
-        "https://www.laverita.info/i-nostri-soldi/eni-sconto-carburanti",
-        "https://www.lastampa.it/economia/2026/09/26/news/carburanti_descalzi_tende_la_mano_a_meloni_e_blocca_i_prezzi_di_eni-15749454/"
+        "https://www.ilfattoquotidiano.it/2026/09/26/il-direttore-tecnico-lascia-il-ponte-sullo-stretto-passera-alla-capogruppo-anas-mentre-inizia-listruttoria-cipess/8518895/",
+        "https://www.ansa.it/sito/notizie/economia/2026/09/26/stretto-di-messina-mele-passa-ad-anas-progetto-del-ponte-pronto-per_02433380-3623-4b78-8f67-f76fc90a3784.html",
+        "https://www.ilmessaggero.it/italia/stretto_messina_direttore_tecnico_passa_anas_cipess-9786972.html",
+        "https://www.lastampa.it/economia/2026/09/26/news/ponte_sullo_stretto_il_direttore_tecnico_lascia_e_va_all_anas-15749737/",
+        "https://www.repubblica.it/politica/2026/09/26/news/ponte_sullo_stretto_valerio_mele_direttore_tecnico_lascia_incarico_salvini-425607963/"
       ]
     },
     {
-      "rank": 2,
-      "title": "Stretto di Messina: il direttore tecnico Mele passa ad Anas, il progetto del Ponte pronto per il Cipess",
+      "rank": 4,
+      "title": "Il Papa a Parigi, oggi messa con 600mila fedeli a Place de la Concorde",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/09/26/leone-xiv-conquista-parigi-la-laica-700mila-persone-alla-messa-in-place-de-la-concorde-presente-anche-brigitte-macron/8519009/",
+        "https://www.ilmessaggero.it/vaticano/papa_leone_parigi_superstar_champs_elisee_chiesa_rivoluzione_macron_presidenziali_le_pen_alla_messa-9787100.html",
+        "https://www.ansa.it/vaticano/notizie/2026/09/26/il-viaggio-del-papa.-oggi-messa-a-parigi-poi-vola-a-lourdes_902d673e-03d3-4ce4-a952-2a96283b0241.html",
+        "https://www.repubblica.it/esteri/2026/09/26/news/papa_parigi_messa_place_concorde_lourdes-425608795/",
+        "https://www.repubblica.it/esteri/2026/09/26/news/battesimi_influencer_missionari_francia_riscopre_cattolicesimo-425608136/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Lodi, 15enne morto folgorato su un traliccio nel lodigiano, ipotesi incidente per sfida social",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
+        "ilfattoquotidiano.it",
         "lastampa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
+        "agi.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/09/26/stretto-di-messina-mele-passa-ad-anas-progetto-del-ponte-pronto-per_02433380-3623-4b78-8f67-f76fc90a3784.html",
-        "https://www.ilmessaggero.it/italia/stretto_messina_direttore_tecnico_passa_anas_cipess-9786972.html",
-        "https://www.lastampa.it/economia/2026/09/26/news/ponte_sullo_stretto_il_direttore_tecnico_lascia_e_va_all_anas-15749737/",
-        "https://www.repubblica.it/politica/2026/09/26/news/ponte_sullo_stretto_valerio_mele_direttore_tecnico_lascia_incarico_salvini-425607963/",
-        "https://www.ilsole24ore.com/art/ponte-stretto-direttore-tecnico-passa-ad-anas-come-chief-operating-officer-AJ8hl5PB"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/morto-a-15-anni-folgorato-su-un-traliccio-lipotesi-della-sfida-sui-social_a994ba58-a0fb-4760-9755-e0fe4470fe03.html",
+        "https://www.ilmessaggero.it/italia/morto_folgorato_traliccio_sfida_social_jacopo_trabattoni-9787282.html",
+        "https://www.ilfattoquotidiano.it/2026/09/26/quindicenne-morto-traliccio-lodigiano-challenge-social-notizie/8518969/",
+        "https://www.lastampa.it/cronaca/2026/09/26/news/lodi_15enne_morto_folgorato_su_un_traliccio_nel_lodigiano_ipotesi_incidente_per_sfida_social-15749883/",
+        "https://www.agi.it/cronaca/news/2026-09-26/lodigiano-cadavere-traliccio-39262062/"
       ]
     },
     {
-      "rank": 3,
-      "title": "Il viaggio del Papa in Francia. Leone a Parigi al centro per migranti, primo appuntamento del giorno",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/vaticano/notizie/2026/09/26/il-viaggio-del-papa.-oggi-messa-a-parigi-poi-vola-a-lourdes_902d673e-03d3-4ce4-a952-2a96283b0241.html",
-        "https://www.ansa.it/sito/photogallery/primopiano/2026/09/26/leone-xiv-in-francia-per-la-stampa-francese-il-papa-e-una-star_28579fc1-03f2-4109-86dd-53deee90f7a2.html",
-        "https://www.repubblica.it/esteri/2026/09/26/news/papa_parigi_messa_place_concorde_lourdes-425608795/",
-        "https://www.liberoquotidiano.it/news/tv-news/49239315/parigi-papa-leone-xiv-visita-la-cattedrale-di-notre-dame/",
-        "https://www.repubblica.it/esteri/2026/09/26/news/battesimi_influencer_missionari_francia_riscopre_cattolicesimo-425608136/"
-      ]
-    },
-    {
-      "rank": 4,
+      "rank": 6,
       "title": "Cenere lavica dell’Etna, sospese le attività di volo allo scalo di Catania",
       "source_count": 4,
       "article_count": 4,
@@ -81,7 +125,25 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "title": "Gasolio, partito oggi lo sconto ridotto a 6,1 cent: di quanto aumenterà il costo. Ma lunedì scatta il price cap Eni",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilmessaggero.it",
+        "laverita.info",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/economia/news/carburante_prezzi_stazioni_eni_sconto_mappa_quali_sono_in_italia-9786885.html",
+        "https://www.laverita.info/i-nostri-soldi/eni-sconto-carburanti",
+        "https://www.lastampa.it/economia/2026/09/26/news/carburanti_descalzi_tende_la_mano_a_meloni_e_blocca_i_prezzi_di_eni-15749454/",
+        "https://www.ilsole24ore.com/art/gasolio-oggi-parte-sconto-ridotto-61-cent-quanto-aumentera-costo-ma-lunedi-scatta-price-cap-eni-AJK1FXPB"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Fiorello torna a sorpresa su Rai1, l'annuncio sui social in stile Brad Pitt",
       "source_count": 4,
       "article_count": 4,
@@ -99,85 +161,39 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Trump-Xi: tregua prima di darsele ancora",
-      "source_count": 3,
-      "article_count": 5,
-      "source_domains": [
-        "laverita.info",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.laverita.info/geopolitica/trump-xi-vertice-casa-bianca-tregua",
-        "https://www.lastampa.it/esteri/2026/09/26/news/xi_e_trump_quasi_amici_giappone_e_taiwan_inquieti-15749647/",
-        "https://www.repubblica.it/esteri/2026/09/26/news/trump_xi_incontro_casa_bianca_iran_memorandum_intesa_taiwan_armi_usa-425608175/",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/09/26/news/un_telefono_rosso_fra_trump_e_xi_per_evitare_il_conflitto-15749458/",
-        "https://www.lastampa.it/esteri/2026/09/26/news/trump-xi-accordo-vertice-miami-cina-usa-15749396/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Scuola, il decreto atteso al Colle: slitta la firma. E nelle classi è già protesta",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/scuola/2026/09/26/news/decreto_scuola_slitta_firma_quirinale_proteste-425608190/",
-        "https://www.ansa.it/sito/notizie/politica/2026/09/25/il-decreto-non-ancora-al-colle.-sala-costretti-a-chiudere-qualche-scuola_c9ad1fae-9fa8-4752-ab02-56970182f3fa.html",
-        "https://www.ilsole24ore.com/art/decreto-scuola-si-lavora-coperture-lunedi-testo-colle-AJCsp3PB"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Sinner rinvia ancora il rientro in campo, no a Pechino: “Guai se non torno a gennaio”",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/quando-torna-in-campo-sinner-tra-shanghai-e-vienna_6QnNjaTpn17jR05zAZNzBu",
-        "https://www.ilmessaggero.it/sport/tennis/sinner_anna_wintour_cosa_ha_detto_quando_torna_pechino-9786818.html",
-        "https://www.repubblica.it/sport/tennis/2026/09/26/news/sinner_no_pechino_guai_se_non_torno_gennaio-425608207/"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "C’è apprensione per Osvaldo, l’ex azzurro è ricoverato in terapia intensiva in Argentina: è grave",
-      "source_count": 3,
-      "article_count": 3,
+      "title": "Donna getta acido al suo avvocato, il legale ricoverato per le ustioni su tutto il corpo: è in gravi condizioni",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
+        "ilfattoquotidiano.it",
         "ansa.it",
         "ilmessaggero.it",
-        "lastampa.it"
+        "agi.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/09/26/lex-azzurro-osvaldo-ricoverato-in-terapia-intensiva-in-argentina_327ca4c6-ef80-411f-aa50-0b520c0594b9.html",
-        "https://www.ilmessaggero.it/persone/osvaldo_ricoverato_terapia_intensiva_cosa_ha_cosa_e_successo-9786827.html",
-        "https://www.lastampa.it/sport/2026/09/26/news/daniel_osvaldo_ricoverato_argentina-15749694/"
+        "https://www.ilfattoquotidiano.it/2026/09/26/aggressione-acido-avvocato-messina-notizie/8518856/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/donna-getta-acido-al-suo-avvocato-a-messina-legale-ricoverato_f6ffe7d9-7664-4ed8-9dec-1f7f960942ea.html",
+        "https://www.ilmessaggero.it/italia/avvocato_acido_cliente_donna_messina_cosa_e_successo-9787004.html",
+        "https://www.agi.it/cronaca/news/2026-09-26/avvocato-aggredito-acido-messina-39257501/"
       ]
     },
     {
       "rank": 10,
-      "title": "Garlasco, si chiudono le indagini su Sempio: perché il generale Garofano è stato convocato e cosa succederà lunedì",
-      "source_count": 3,
-      "article_count": 3,
+      "title": "Valentina Stragliotto, scivola da una cascata in Sri Lanka e muore davanti all'amica",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
-        "ilmessaggero.it",
+        "ansa.it",
         "ilfattoquotidiano.it",
+        "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/persone/garlasco_sempio_news_cosa_succede_lunedi_28_settembre_garofano_perche_e_stato_convocato-9786925.html",
-        "https://www.ilfattoquotidiano.it/2026/09/26/delitto-garlasco-indagini-sempio-notizie/8518694/",
-        "https://www.lastampa.it/cronaca/2026/09/25/news/garlasco_sempio_verso_la_chiusura_delle_indagini_risentito_garofano_sotto_esame_dna_e_impronte-15749370/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/09/26/giovane-italiana-muore-scivolando-da-una-cascata-nello-sri-lanka_7529d58e-bc83-4b7d-a620-1202f7f3a9ae.html",
+        "https://www.ilfattoquotidiano.it/2026/09/26/valentina-stragliotto-cascata-sri-lanka-notizie/8518919/",
+        "https://www.ilmessaggero.it/mondo/valentina_stragliotto_morta_sri_lanka_cascata_cosa_e_successo-9787094.html",
+        "https://www.lastampa.it/cronaca/2026/09/26/news/valentina_stragliotto_morta_sri_lanka-15749849/"
       ]
     }
   ]
