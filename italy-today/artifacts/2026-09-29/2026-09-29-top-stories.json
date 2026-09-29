@@ -1,6 +1,6 @@
 {
   "date": "2026-09-29",
-  "generated_at": "Tue 29 Sep 22:17",
+  "generated_at": "Tue 29 Sep 23:00",
   "stories": [
     {
       "rank": 1,
@@ -29,22 +29,23 @@
     {
       "rank": 2,
       "title": "Carburanti, lieve calo ma i prezzi restano alti: anche Q8 dice sì al tetto Video",
-      "source_count": 6,
+      "source_count": 7,
       "article_count": 10,
       "source_domains": [
-        "ansa.it",
         "ilmessaggero.it",
+        "ansa.it",
+        "adnkronos.com",
         "repubblica.it",
         "laverita.info",
         "lastampa.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.ilmessaggero.it/economia/news/carburanti_sconto_accise_verso_proroga-9793444.html",
         "https://www.ansa.it/sito/notizie/economia/2026/09/29/price-cap-ai-carburanti-anche-per-q8.-sconto-sul-gasolio-fino_6531a720-8d40-4446-9ea8-50d214ad9a06.html",
+        "https://www.adnkronos.com/economia/carburanti-intervista-gianni-murano-unem_3dynjTzVi7JV02WhPn3xDI",
         "https://www.ilmessaggero.it/economia/news/sconti_benzina_gasolio_quali_distributori_dove_q8_eni_ip_price_cap-9792584.html",
-        "https://www.repubblica.it/economia/2026/09/29/news/carburanti_anche_q8_accoglie_l_invito_del_governo_tetto_al_prezzo_di_benzina_e_gasolio-425614259/",
-        "https://www.laverita.info/i-nostri-soldi/price-cap-carburanti-sconti",
-        "https://www.lastampa.it/economia/2026/09/29/news/carburanti_calo_prezzi_q8-15751774/"
+        "https://www.repubblica.it/economia/2026/09/29/news/carburanti_anche_q8_accoglie_l_invito_del_governo_tetto_al_prezzo_di_benzina_e_gasolio-425614259/"
       ]
     },
     {
@@ -150,25 +151,6 @@
     },
     {
       "rank": 8,
-      "title": "Wanna Marchi e Stefania Nobile premiate in Campidoglio per la cultura. Il consigliere si scusa: non sapevo della loro presenza",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "roma.repubblica.it",
-        "lastampa.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://roma.repubblica.it/cronaca/2026/09/29/news/wanna_marchi_campidoglio_nuove_regole_sale_istituzionali-425615348/",
-        "https://www.lastampa.it/cronaca/2026/09/29/video/wanna_marchi_premiata_campidoglio_polemica-15752329/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/09/29/wanna-marchi-e-la-figlia-premiate-in-campidoglio-il-consigliere-si-scusa_aaf4d616-9f57-4612-b723-e1e36f5d66a3.html",
-        "https://roma.repubblica.it/cronaca/2026/09/29/news/wanna_marchi_stefania_nobile_premio_campidoglio_rosicare_polemiche-425614828/",
-        "https://www.ilmessaggero.it/roma/centro_storico/wanna_marchi_stefania_nobile_premio_campidoglio_cosa_e_successo-9792828.html"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Caso Garlasco, l’ex Ris Portera: “Non ho fatto io l’analisi del Dna sulla bici di Alberto Stasi”",
       "source_count": 4,
       "article_count": 6,
@@ -184,6 +166,24 @@
         "https://www.adnkronos.com/cronaca/caso-garlasco-garofano-dna-chiara-pedali-bici-stasi_4UTAd6GX0JidaxVRaUvv12",
         "https://milano.repubblica.it/cronaca/2026/09/29/news/garlasco_ex_ris_portera_analisi_dna_bici_stasi-425614445/",
         "https://www.ilmessaggero.it/italia/garlasco_parla_ex_ris_dna_bici_stasi_ultime_novita_cosa_e_successo-9792676.html"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Meloni in visita ufficiale a Praga, l'incontro con il premier Babis",
+      "source_count": 3,
+      "article_count": 7,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "governo.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49260401/meloni-a-praga-con-babis-d-accordo-su-migranti-ue-deve-avere-ruolo-in-crisi-internazionali/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49260021/l-endorsement-di-babis-a-meloni-fondamentale-che-sia-di-nuovo-premier-per-il-bene-dell-ue/",
+        "https://www.ansa.it/sito/notizie/politica/2026/09/29/meloni-italia-e-repubblica-ceca-piu-vicine-che-mai-rispetto-per_6bea8985-d42b-403a-9d90-1b7ea26ced01.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49259015/un-mazzo-di-fiori-tricolore-per-meloni-a-praga-l-accoglienza-del-premier-ceco-babis/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49258505/meloni-in-visita-nella-repubblica-ceca-accolta-in-aeroporto-a-praga-con-un-mazzo-di-fiori/"
       ]
     },
     {
