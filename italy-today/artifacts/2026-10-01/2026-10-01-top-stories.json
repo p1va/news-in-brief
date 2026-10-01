@@ -1,6 +1,6 @@
 {
   "date": "2026-10-01",
-  "generated_at": "Thu 01 Oct 22:43",
+  "generated_at": "Thu 01 Oct 23:10",
   "stories": [
     {
       "rank": 1,
@@ -30,8 +30,9 @@
       "rank": 2,
       "title": "Proteste degli studenti in Francia, preside aggredito e cosparso di benzina a Marsiglia",
       "source_count": 9,
-      "article_count": 13,
+      "article_count": 14,
       "source_domains": [
+        "lastampa.it",
         "ilmessaggero.it",
         "ansa.it",
         "adnkronos.com",
@@ -39,15 +40,14 @@
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "laverita.info",
-        "lastampa.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.lastampa.it/esteri/2026/10/02/news/marsiglia_studenti_come_narcos-15754793/",
         "https://www.ilmessaggero.it/mondo/francia_rivolta_studenti_licei_chiusi_violenza_incendi-9798183.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/10/01/gli-studenti-incendiano-la-francia-scuole-date-alle-fiamme-e-duemila-fermi_494cceda-a85a-44bb-bbdd-0e67079d9ad1.html",
         "https://www.adnkronos.com/internazionale/esteri/protesta-francia-licei-scuola-contro-tagli_2STdf2RsWmQuziyhCszCJu",
-        "https://www.repubblica.it/esteri/2026/10/01/news/protesta_studenti_francia_violenze-425619659/",
-        "https://www.liberoquotidiano.it/news/tv-news/49275225/francia-a-fuoco-l-ingresso-del-liceo-mandela-di-nantes/"
+        "https://www.repubblica.it/esteri/2026/10/01/news/protesta_studenti_francia_violenze-425619659/"
       ]
     },
     {
@@ -73,29 +73,6 @@
     },
     {
       "rank": 4,
-      "title": "Flydubai, cosa sappiamo finora sul volo Dubai-Tel Aviv: \"Evitato un altro 11 settembre\"",
-      "source_count": 8,
-      "article_count": 10,
-      "source_domains": [
-        "ilmanifesto.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://ilmanifesto.it/volo-dubai-tel-aviv-netanyahu-colpa-delliran-ma-non-ho-le-prove",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/01/netanyahu-il-copilota-del-flydubai-e-stato-radicalizzato-allequipaggio-ha-detto-uccidetemi_28548fa0-3e1a-4da2-b61d-3461cc25cb5e.html",
-        "https://www.adnkronos.com/internazionale/esteri/volo-flydubai-tel-aviv-cosa-sappiamo-finora_7qG3ri0V3DUrbMOzrTysra",
-        "https://www.ilmessaggero.it/mondo/volo_dubai_tel_aviv_ricostruzione_terrorista_cosa_e_successo_davvero-9797553.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49271855/volo-dirottato-a-dubai-netanyahu-incontra-il-passeggero-intervenuto-per-fermare-attentatore/"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Christa Pike, fallita l'esecuzione con iniezione letale in Tennessee",
       "source_count": 7,
       "article_count": 10,
@@ -117,7 +94,50 @@
       ]
     },
     {
+      "rank": 5,
+      "title": "Flydubai, cosa sappiamo finora sul volo Dubai-Tel Aviv: \"Evitato un altro 11 settembre\"",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ilmanifesto.it",
+        "lastampa.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/volo-dubai-tel-aviv-netanyahu-colpa-delliran-ma-non-ho-le-prove",
+        "https://www.lastampa.it/esteri/2026/10/02/news/netanyahu_il_copilota_omanita_era_radicalizzato-15754791/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/01/netanyahu-il-copilota-del-flydubai-e-stato-radicalizzato-allequipaggio-ha-detto-uccidetemi_28548fa0-3e1a-4da2-b61d-3461cc25cb5e.html",
+        "https://www.adnkronos.com/internazionale/esteri/volo-flydubai-tel-aviv-cosa-sappiamo-finora_7qG3ri0V3DUrbMOzrTysra",
+        "https://www.ilmessaggero.it/mondo/volo_dubai_tel_aviv_ricostruzione_terrorista_cosa_e_successo_davvero-9797553.html"
+      ]
+    },
+    {
       "rank": 6,
+      "title": "Carburanti, sconti anche da Tamoil: prezzi calmierati fino al 31 ottobre",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/economia/benzina-diesel-prezzo-eni-ip-q8-tamoil_4lme7JPFQe4S8qSMxLfsJm",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49276474/meloni-anche-tamoil-aderisce-al-tetto-sui-prezzi-fiera-delle-risposte-delle-societa-energetiche/",
+        "https://www.ansa.it/sito/notizie/economia/aziende/2026/10/01/tamoil-fino-al-31-ottobre-misure-per-mitigare-il-prezzo-dei-carburanti_aeccd963-6814-4300-9b43-d37974b99c55.html",
+        "https://www.liberoquotidiano.it/news/economia/49275224/carburanti-tamoil-taglia-prezzi-dove-trovare-tutte-stazioni/",
+        "https://www.repubblica.it/economia/2026/10/01/news/carburanti_anche_tamoil_annuncia_misure_per_il_contenimento_dei_prezzi_fino_al_31_ottobre-425619445/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Legge elettorale, alla Camera la maggioranza supera lo scoglio delle pregiudiziali",
       "source_count": 5,
       "article_count": 7,
@@ -137,7 +157,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Casa di Montecarlo, la Procura chiede la prescrizione per Fini e Tulliani",
       "source_count": 6,
       "article_count": 6,
@@ -158,7 +178,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Chi è Bruno Antonio Malatesta, il “Maestro” della presunta setta arrestato. I carabinieri: “Chi si riconosce come vittima denunci”",
       "source_count": 4,
       "article_count": 8,
@@ -174,26 +194,6 @@
         "https://www.ilmessaggero.it/persone/bruno_malatesta_chi_e_guru_arrestato_eta_sesso_adepte-9797356.html",
         "https://www.lastampa.it/torino/2026/10/01/news/almese_setta_arrestato_guru_bruno_malatesta_abusi_sessuali-15754073/",
         "https://www.lastampa.it/torino/2026/10/01/video/setta_di_almese_le_parole_del_maestro_prima_dellarresto_comunione_completa_con_il_divino-15754065/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Carburanti, sconti anche da Tamoil: prezzi calmierati fino al 31 ottobre",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/economia/benzina-diesel-prezzo-eni-ip-q8-tamoil_4lme7JPFQe4S8qSMxLfsJm",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49276474/meloni-anche-tamoil-aderisce-al-tetto-sui-prezzi-fiera-delle-risposte-delle-societa-energetiche/",
-        "https://www.ansa.it/sito/notizie/economia/aziende/2026/10/01/tamoil-fino-al-31-ottobre-misure-per-mitigare-il-prezzo-dei-carburanti_aeccd963-6814-4300-9b43-d37974b99c55.html",
-        "https://www.liberoquotidiano.it/news/economia/49275224/carburanti-tamoil-taglia-prezzi-dove-trovare-tutte-stazioni/",
-        "https://www.repubblica.it/economia/2026/10/01/news/carburanti_anche_tamoil_annuncia_misure_per_il_contenimento_dei_prezzi_fino_al_31_ottobre-425619445/"
       ]
     },
     {
