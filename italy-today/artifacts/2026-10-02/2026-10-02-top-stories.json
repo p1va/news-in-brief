@@ -1,50 +1,52 @@
 {
   "date": "2026-10-02",
-  "generated_at": "Fri 02 Oct 22:12",
+  "generated_at": "Fri 02 Oct 22:59",
   "stories": [
     {
       "rank": 1,
-      "title": "Giorgetti: \"Scostamento dello 0,3% per 2027-28 per energia e difesa\"",
-      "source_count": 8,
-      "article_count": 12,
+      "title": "Manovra, scostamento da 29 miliardi. Giorgetti: \"Serve un approccio più prudente\"",
+      "source_count": 10,
+      "article_count": 15,
       "source_domains": [
         "ilmanifesto.it",
+        "ilmessaggero.it",
         "adnkronos.com",
         "ansa.it",
-        "liberoquotidiano.it",
         "repubblica.it",
-        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
         "laverita.info",
+        "liberoquotidiano.it",
+        "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
         "https://ilmanifesto.it/manovra-incerottata-giorgetti-predica-prudenza",
-        "https://www.adnkronos.com/economia/manovra-scostamento-giorgetti-dpfp_4l31UgN2Rk7qwQfkOUV4UI",
-        "https://www.ansa.it/sito/notizie/economia/2026/10/02/via-libera-del-consiglio-dei-ministri-al-dpfp-e-a-scostamento-per-energia_8463ed4f-c10a-459f-8be8-a56ee2f0b01a.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49283873/giorgetti-debito-al-138-1-nel-2026-sale-al-138-6-nel-2027/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49283497/giorgetti-su-proposta-all-ue-non-chiediamo-flessibilita-ma-valutare-impatto-su-target-spesa/"
+        "https://ilmanifesto.it/quei-14-miliardi-di-euro-per-il-riarmo-che-il-governo-dimezza-e-non-cancella",
+        "https://www.ilmessaggero.it/economia/manovra_difesa_energia_deficit_29_miliardi-9800345.html",
+        "https://www.ilmessaggero.it/politica/costi_difesa_italia_crosetto_cede_telefonate_meloni-9800281.html",
+        "https://www.adnkronos.com/economia/manovra-scostamento-giorgetti-dpfp_4l31UgN2Rk7qwQfkOUV4UI"
       ]
     },
     {
       "rank": 2,
       "title": "Sanchez battuto sui decreti casa, ipotesi elezioni anticipate",
       "source_count": 7,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
         "ilmanifesto.it",
+        "ilmessaggero.it",
         "ansa.it",
         "liberoquotidiano.it",
-        "ilmessaggero.it",
         "lastampa.it",
         "repubblica.it",
         "news.google.com"
       ],
       "links": [
         "https://ilmanifesto.it/spagna-si-apre-la-crisi-sanchez-sconfitto-sui-due-decreti-casa",
+        "https://www.ilmessaggero.it/mondo/spagna_sanchez_battuto_decreto_casa_elezioni_anticipate_cosa_succede-9800304.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/10/02/sanchez-battuto-sui-decreti-casa-ipotesi-elezioni-anticipate_4a3a0cd6-4b1a-41d6-ae21-9237c79a54a3.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/10/02/il-congresso-spagnolo-boccia-il-decreto-di-misure-per-la-casa.-sanchez-valuta-il-voto_4a3a0cd6-4b1a-41d6-ae21-9237c79a54a3.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49283511/spagna-bocciati-i-decreti-casa-di-sanchez-elezioni-piu-vicine-/",
-        "https://www.ilmessaggero.it/mondo/spagna_governo_crisi_cosa_sta_succedendo-9799900.html"
+        "https://www.liberoquotidiano.it/news/tv-news/49283511/spagna-bocciati-i-decreti-casa-di-sanchez-elezioni-piu-vicine-/"
       ]
     },
     {
@@ -113,6 +115,27 @@
     },
     {
       "rank": 6,
+      "title": "Schlein avverte Conte: “Al tavolo del programma uno non vale uno, abbiamo il doppio dei voti”",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilmessaggero.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/politica/schlein_contro_conte_cosa_ha_detto_primare_pd_m5s_scontro_meloni_ultime_notizie-9800362.html",
+        "https://www.repubblica.it/politica/2026/10/02/news/conte_risponde_a_schlein_sulla_scelta_del_candidato_premier_nessuna_alternativa_a_primarie-425622312/",
+        "https://www.adnkronos.com/politica/conte-schlein-m5s-pd-primarie-campo-largo_2uvFc5aMeR9mW6zev72oAi",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49282375/schlein-meloni-mi-ha-chiesto-di-farle-una-critica-vera-gliene-faccio-dieci/",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/02/schlein-nel-programma-uno-non-vale-uno-il-pd-ha-il-doppio-dei-voti_fa1bb90e-f6eb-42a0-a88f-17f20a37e1c2.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Estate 2026 in Europa, la più calda di sempre: ondate di calore, incendi e mari caldissimi secondo Copernicus",
       "source_count": 5,
       "article_count": 7,
@@ -132,7 +155,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Corruzione, chiesto l’arresto dell’ex vicepresidente della Regione Sicilia Armao. Tra gli indagati il nipote di Lombardo",
       "source_count": 6,
       "article_count": 6,
@@ -153,7 +176,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Sinner, presa la patente per la moto: è stato promosso al quinto tentativo",
       "source_count": 6,
       "article_count": 6,
@@ -174,7 +197,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Christa Pike sopravvive a due iniezioni letali, ma è in fin di vita: è incosciente, attaccata al respiratore con le braccia ustionate",
       "source_count": 5,
       "article_count": 5,
@@ -191,25 +214,6 @@
         "https://www.repubblica.it/esteri/2026/10/02/news/usa_pike_mantenuta_in_vita_con_respiratore_artificiale_onu_adesso_graziatela-425622579/",
         "https://www.ilmessaggero.it/persone/christa_pike_come_sta_cosa_ha_fatto_pena_morte_usa_ultime_notizie-9800240.html",
         "https://www.lastampa.it/esteri/2026/10/02/news/christa_pike_condizioni_critiche_sopravvissuta_iniezioni_letali-15755110/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Schlein avverte Conte: “Al tavolo del programma uno non vale uno, abbiamo il doppio dei voti”",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/49283184/campo-largo-renzi-schlein-ha-ragione-su-uno-non-vale-uno-e-generosa/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49282375/schlein-meloni-mi-ha-chiesto-di-farle-una-critica-vera-gliene-faccio-dieci/",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/02/schlein-nel-programma-uno-non-vale-uno-il-pd-ha-il-doppio-dei-voti_fa1bb90e-f6eb-42a0-a88f-17f20a37e1c2.html",
-        "https://www.repubblica.it/politica/2026/10/02/news/schlein_direzione_pd_unita_centrosinistra-425621262/",
-        "https://www.lastampa.it/politica/2026/10/02/news/schlein_attacca_meloni_fallimento_richiesta_elezioni_anticipate-15755346/"
       ]
     }
   ]
