@@ -1,6 +1,6 @@
 {
   "date": "2026-10-03",
-  "generated_at": "Sat 03 Oct 16:07",
+  "generated_at": "Sat 03 Oct 19:18",
   "stories": [
     {
       "rank": 1,
@@ -26,6 +26,48 @@
     },
     {
       "rank": 2,
+      "title": "Si riunisce il Cda di Intesa Sanpaolo, possibile rilancio su Opas Mps",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/10/03/intesa-san-paolo-convoca-il-cda-e-rilancia-di-25-centesimi-per-azione-lofferta-su-mps-ma-solo-se-i-soci-voteranno-no-al-piano-lovaglio/8526746/",
+        "https://www.ansa.it/sito/notizie/economia/2026/10/03/intesa-con-il-via-libera-alle-offerte-mps-lopas-diventera-inefficace_649702eb-a54c-46d5-a26b-869245b27bf1.html",
+        "https://www.lastampa.it/economia/2026/10/03/news/mps_il_rilancio_di_intesa_altri_25_centesimi_per_azione_e_l_opas_sale_a_314_miliardi-15756474/",
+        "https://www.ansa.it/sito/notizie/economia/2026/10/03/si-riunisce-il-cda-di-intesa-sanpaolo-possibile-rilancio-su-opas-mps_649702eb-a54c-46d5-a26b-869245b27bf1.html",
+        "https://www.ilmessaggero.it/economia/news/intesta_mps_rilancio_opas-9801983.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Spagna in piazza per la casa, 70 mila a Madrid. Gli organizzatori: “Siamo 500 mila. Ora sciopero generale”",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/03/spagna-una-marea-umana-invade-madrid-ora-sciopero-generale-_4f405557-4cb6-43dc-b8e7-13cc7060d3f4.html",
+        "https://www.lastampa.it/esteri/2026/10/04/news/ni_una_maricarmen_mas_chi_e_l_87enne_sfrattata_che_ha_fatto_insorgere_la_spagna-15756493/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/03/in-migliaia-in-corteo-in-spagna-per-la-casa-appello-allo-sciopero-generale_4f405557-4cb6-43dc-b8e7-13cc7060d3f4.html",
+        "https://www.adnkronos.com/internazionale/esteri/spagna-manifestazioni-diritto-casa-crisi-emergenza-abitativa_4K2NeY4wg49nHC3bHc8zwo",
+        "https://www.repubblica.it/esteri/2026/10/03/news/spagna_proteste_decreto_casa_sciopero_generale_sanchez-425623861/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Ucraina, colpito il ponte nord di Kiev. Mosca avverte diplomatici e stranieri: 'Lasciate la città'",
       "source_count": 5,
       "article_count": 7,
@@ -45,27 +87,27 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Trump, dietrofront su Meloni: \"Rapporto molto buono, mi è sempre piaciuta\"",
+      "rank": 5,
+      "title": "Abu Dhabi accusa il copilota, 'usata l'ascia per atto terroristico'",
       "source_count": 5,
       "article_count": 6,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
+        "ansa.it",
         "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/49286366/trump-dietrofront-su-meloni-rapporto-molto-buono-mi-e-sempre-piaciuta-/",
-        "https://www.ilfattoquotidiano.it/2026/10/03/trump-rapporto-con-meloni-molto-buono/8526303/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49284883/trump-il-mio-rapporto-con-meloni-e-molto-buono-mi-e-sempre-piaciuta/",
-        "https://www.repubblica.it/esteri/2026/10/02/news/trump_dietrofront_su_melonilei_mi_e_sempre_piaciuta-425622844/",
-        "https://www.lastampa.it/esteri/2026/10/02/news/trump_a_la_stampa_il_mio_rapporto_con_meloni_e_molto_buono_mi_e_sempre_piaciuta-15755874/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/03/abu-dhabi-accusa-il-copilota-usata-lascia-per-atto-terroristico_cb230b63-fd10-4327-bdad-ce1cda759f22.html",
+        "https://www.repubblica.it/esteri/2026/10/03/news/flydubai_attentato_identificato_copilota_hamam_al_hammami_oman_inchiesta_terrorismo-425623440/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/03/il-procuratore-degli-emirati-il-copilota-del-volo-flydubai-pianificava-un-atto-terroristico_0e2f2a0a-fbfc-4cb5-8f90-04940a2f6b4a.html",
+        "https://www.ilfattoquotidiano.it/2026/10/03/flydubai-copilota-hamam-al-hammami-attacco-terroristico/8526317/",
+        "https://www.ilmessaggero.it/mondo/copilota_omanita_flydubai_madre_non_trova_moglie_post_social_ascia_emergenza-9801458.html"
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
       "title": "Diretta qualifiche F1, Verstappen in pole a Sepang davanti a Hamilton. Seconda fila per Antonelli",
       "source_count": 5,
       "article_count": 6,
@@ -85,10 +127,30 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
+      "title": "Il Brasile alle urne, ultimi colpi tra Lula e Bolsonaro Jr",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/03/il-brasile-alle-urne-ultimi-colpi-tra-lula-e-bolsonaro-jr_cb683719-5b9b-489a-9809-de3a96a6a896.html",
+        "https://www.ilmessaggero.it/politica/elezioni_brasile_risultati_quando_arrivano_chi_sono_favoriti-9801885.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49286666/brasile-lula-fa-campagna-elettorale-a-belo-horizonte/",
+        "https://www.repubblica.it/esteri/2026/10/03/news/tra_le_gang_brasiliane_pronte_a_falsare_le_elezioni_le_favelas_fanno_politica-425622795/",
+        "https://www.lastampa.it/esteri/2026/10/03/news/lula_e_bolsonaro_alla_guerra_di_religione_il_brasile_al_voto_tra_santi_bonus_e_scandali-15755853/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Mattarella a Monaco: Multilateralismo indispensabile per la pace e la libertà",
       "source_count": 2,
-      "article_count": 9,
+      "article_count": 8,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it"
@@ -102,94 +164,41 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Il procuratore degli Emirati: 'Il copilota del volo Flydubai pianificava un atto terroristico'",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/10/03/news/flydubai_attentato_identificato_copilota_hamam_al_hammami_oman_inchiesta_terrorismo-425623440/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/03/il-procuratore-degli-emirati-il-copilota-del-volo-flydubai-pianificava-un-atto-terroristico_0e2f2a0a-fbfc-4cb5-8f90-04940a2f6b4a.html",
-        "https://www.ilfattoquotidiano.it/2026/10/03/flydubai-copilota-hamam-al-hammami-attacco-terroristico/8526317/",
-        "https://www.ilmessaggero.it/mondo/copilota_omanita_flydubai_madre_non_trova_moglie_post_social_ascia_emergenza-9801458.html",
-        "https://www.lastampa.it/esteri/2026/10/03/news/immagini_di_matrice_terroristica_sui_social_del_sospettato_del_dirottamento_del_volo_flydubai-15755986/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Spagna in piazza per la casa, 70 mila a Madrid. Gli organizzatori: “Siamo 500 mila. Ora sciopero generale”",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/03/in-migliaia-in-corteo-in-spagna-per-la-casa-appello-allo-sciopero-generale_4f405557-4cb6-43dc-b8e7-13cc7060d3f4.html",
-        "https://www.adnkronos.com/internazionale/esteri/spagna-manifestazioni-diritto-casa-crisi-emergenza-abitativa_4K2NeY4wg49nHC3bHc8zwo",
-        "https://www.repubblica.it/esteri/2026/10/03/news/spagna_proteste_decreto_casa_sciopero_generale_sanchez-425623861/",
-        "https://www.lastampa.it/esteri/2026/10/03/video/chiavi_agitate_e_corteo_nelle_strade_madrid_protesta_contro_affitti_e_sfratti-15756278/",
-        "https://www.lastampa.it/esteri/2026/10/03/news/spagna_proteste_decreto_casa_news_scontri_feriti-15756246/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Lula e Bolsonaro alla guerra di religione. Il Brasile al voto tra santi, bonus e scandali",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/politica/elezioni_brasile_risultati_quando_arrivano_chi_sono_favoriti-9801885.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49286666/brasile-lula-fa-campagna-elettorale-a-belo-horizonte/",
-        "https://www.repubblica.it/esteri/2026/10/03/news/tra_le_gang_brasiliane_pronte_a_falsare_le_elezioni_le_favelas_fanno_politica-425622795/",
-        "https://www.lastampa.it/esteri/2026/10/03/news/lula_e_bolsonaro_alla_guerra_di_religione_il_brasile_al_voto_tra_santi_bonus_e_scandali-15755853/"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Il 4 ottobre festa nazionale per San Francesco: quanto vale in busta paga per i lavoratori a seconda della categoria",
+      "title": "Trump, dietrofront su Meloni: \"Rapporto molto buono, mi è sempre piaciuta\"",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "lastampa.it",
         "liberoquotidiano.it",
-        "agi.it"
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/10/03/il-4-ottobre-festa-nazionale-per-san-francesco-quanto-vale-in-busta-paga-per-i-lavoratori-a-seconda-della-categoria/8526380/",
-        "https://www.lastampa.it/economia/2026/10/03/news/san_francesco_il_4_ottobre_torna_la_festa_nazionale_cosa_cambia_in_busta_paga-15756016/",
-        "https://www.liberoquotidiano.it/news/italia/49285125/domenica_4_ottobre_festa_nazionale_cosa_cambia_in_busta_paga/",
-        "https://www.agi.it/cronaca/news/2026-10-03/san-francesco-4-ottobre-stipendio-39367450/"
+        "https://www.liberoquotidiano.it/news/libero-video/49286366/trump-dietrofront-su-meloni-rapporto-molto-buono-mi-e-sempre-piaciuta-/",
+        "https://www.ilfattoquotidiano.it/2026/10/03/trump-rapporto-con-meloni-molto-buono/8526303/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49284883/trump-il-mio-rapporto-con-meloni-e-molto-buono-mi-e-sempre-piaciuta/",
+        "https://www.repubblica.it/esteri/2026/10/02/news/trump_dietrofront_su_melonilei_mi_e_sempre_piaciuta-425622844/",
+        "https://www.ilsole24ore.com/art/trump-nuovo-dietrofront-meloni-mi-e-sempre-piaciuta-AJEYqhXB"
       ]
     },
     {
       "rank": 10,
-      "title": "Festival Podcasting: il premio del Sole24ore a \"A chi interessa\"",
-      "source_count": 1,
-      "article_count": 7,
+      "title": "Garlasco, legale di Stasi: “C’è un elemento che farà scalpore e non riguarda le indagini del 2007”",
+      "source_count": 4,
+      "article_count": 5,
       "source_domains": [
-        "liberoquotidiano.it"
+        "lastampa.it",
+        "milano.repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/49286393/festival-podcasting-il-premio-del-sole24ore-a-a-chi-interessa-/",
-        "https://www.liberoquotidiano.it/news/tv-news/49286343/festival-podcasting-il-premio-emergenti-a-arte-scorretta-da-torino/",
-        "https://www.liberoquotidiano.it/news/tv-news/49286337/festival-podcasting-manuela-grippi-io-e-l-ai-umanide-vs-gol-ia-/",
-        "https://www.liberoquotidiano.it/news/tv-news/49286229/festival-podcasting-unncinne-in-sicilia-l-acqua-che-non-c-e-/",
-        "https://www.liberoquotidiano.it/news/tv-news/49286187/festival-podcasting-raiplaysound-anche-in-video-con-io-ero-un-milanese-/"
+        "https://www.lastampa.it/cronaca/2026/10/03/news/stasi_nuove_verita_delle_indagini_difensive_faranno_scalpore-15756519/",
+        "https://milano.repubblica.it/cronaca/2026/10/03/news/garlasco_bocellari_difesa_stasi_nuovo_elemento_scalpore_indagini_2007-425623911/",
+        "https://www.ilmessaggero.it/italia/garlasco_alberto_stasi_difesa_altro_elemento-9801809.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/03/legale-di-stasi-un-altro-elemento-fara-scalpore-e-non-riguarda-2007_5d7016b0-72f5-4af8-918a-7506938b6ede.html",
+        "https://www.lastampa.it/cronaca/2026/10/03/news/gli_orari_il_dna_sui_pedali_le_scarpe_cosi_i_pm_contestano_le_prove_contro_stasi-15755830/"
       ]
     }
   ]
