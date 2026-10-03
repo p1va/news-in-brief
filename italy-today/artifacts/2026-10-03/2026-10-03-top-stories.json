@@ -1,31 +1,53 @@
 {
   "date": "2026-10-03",
-  "generated_at": "Sat 03 Oct 21:05",
+  "generated_at": "Sat 03 Oct 22:53",
   "stories": [
     {
       "rank": 1,
-      "title": "Sinner salta anche Shanghai, il problema al ginocchio non è ancora risolto",
+      "title": "Spagna in piazza per la casa, 70 mila a Madrid. Gli organizzatori: “Siamo 500 mila. Ora sciopero generale”",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 10,
       "source_domains": [
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/spagna-la-piazza-per-la-vivienda-chiama-lo-sciopero-generale",
+        "https://www.ilmessaggero.it/mondo/proteste_spagna_crisi_abitativa_sanchez-9802213.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/03/spagna-una-marea-umana-invade-madrid-ora-sciopero-generale-_4f405557-4cb6-43dc-b8e7-13cc7060d3f4.html",
+        "https://www.lastampa.it/esteri/2026/10/04/news/ni_una_maricarmen_mas_chi_e_l_87enne_sfrattata_che_ha_fatto_insorgere_la_spagna-15756493/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/03/in-migliaia-in-corteo-in-spagna-per-la-casa-appello-allo-sciopero-generale_4f405557-4cb6-43dc-b8e7-13cc7060d3f4.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Sinner, ora è allarme. Slitta ancora il rientro: salta anche il Masters 1000 di Shanghai",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "ilmessaggero.it",
         "adnkronos.com",
         "liberoquotidiano.it",
-        "ilmessaggero.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/sport/tennis/sinner_forfait_shanghai_infortuni_numero_1_zverev-9802145.html",
         "https://www.adnkronos.com/sport/sinner-infortunio-shanghai-ginocchio-cosa-dice-medico_1IMcCNXPRwTaDqQ9qYQFJq",
         "https://www.liberoquotidiano.it/news/sport/49285992/-non-saro-in-grado-di-giocare-sinner-si-ferma-ancora-l-ipotesi-che-fa-preoccupare-l-italia/",
         "https://www.ilmessaggero.it/sport/tennis/sinner_quando_torna_infortunio_ginocchio_operazione_quando_torna_ultime_notizie-9801569.html",
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/03/sinner-salta-anche-il-masters-di-shanghai_81f60cd4-5bf6-4979-92e9-2c2563965236.html",
-        "https://www.ilfattoquotidiano.it/2026/10/03/jannik-sinner-rientro-rinuncia-masters-1000-shangai-mistero-viaggio-lione/8526357/"
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/03/sinner-salta-anche-il-masters-di-shanghai_81f60cd4-5bf6-4979-92e9-2c2563965236.html"
       ]
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "Si riunisce il Cda di Intesa Sanpaolo, possibile rilancio su Opas Mps",
       "source_count": 7,
       "article_count": 8,
@@ -47,27 +69,25 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Spagna in piazza per la casa, 70 mila a Madrid. Gli organizzatori: “Siamo 500 mila. Ora sciopero generale”",
-      "source_count": 5,
-      "article_count": 8,
+      "rank": 4,
+      "title": "Mattarella a Monaco: Multilateralismo indispensabile per la pace e la libertà",
+      "source_count": 3,
+      "article_count": 9,
       "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "adnkronos.com",
+        "liberoquotidiano.it",
         "repubblica.it",
-        "liberoquotidiano.it"
+        "ansa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/03/spagna-una-marea-umana-invade-madrid-ora-sciopero-generale-_4f405557-4cb6-43dc-b8e7-13cc7060d3f4.html",
-        "https://www.lastampa.it/esteri/2026/10/04/news/ni_una_maricarmen_mas_chi_e_l_87enne_sfrattata_che_ha_fatto_insorgere_la_spagna-15756493/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/03/in-migliaia-in-corteo-in-spagna-per-la-casa-appello-allo-sciopero-generale_4f405557-4cb6-43dc-b8e7-13cc7060d3f4.html",
-        "https://www.adnkronos.com/internazionale/esteri/spagna-manifestazioni-diritto-casa-crisi-emergenza-abitativa_4K2NeY4wg49nHC3bHc8zwo",
-        "https://www.repubblica.it/esteri/2026/10/03/news/spagna_proteste_decreto_casa_sciopero_generale_sanchez-425623861/"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49286407/mattarella-mediterraneo-attraversato-da-gravi-crisi-umanitarie-torni-a-essere-mare-civilta-e-unione/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49286410/alberto-ii-a-mattarella-sono-molti-gli-italiani-che-chiamano-monaco-casa-/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49286376/alberto-ii-in-italiano-a-mattarella-viva-l-amicizia-tra-principato-di-monaco-e-italia/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49286378/mattarella-a-monaco-multilateralismo-indispensabile-per-la-pace-e-la-liberta-/",
+        "https://www.liberoquotidiano.it/news/pillole/49286186/mattarella_il_multilateralismo_e_indispensabile_e_va_garantito_/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Abu Dhabi accusa il copilota, 'usata l'ascia per atto terroristico'",
       "source_count": 5,
       "article_count": 6,
@@ -87,7 +107,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Diretta qualifiche F1, Verstappen in pole a Sepang davanti a Hamilton. Seconda fila per Antonelli",
       "source_count": 5,
       "article_count": 6,
@@ -107,43 +127,45 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Mattarella a Monaco: Multilateralismo indispensabile per la pace e la libertà",
-      "source_count": 2,
-      "article_count": 8,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49286407/mattarella-mediterraneo-attraversato-da-gravi-crisi-umanitarie-torni-a-essere-mare-civilta-e-unione/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49286410/alberto-ii-a-mattarella-sono-molti-gli-italiani-che-chiamano-monaco-casa-/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49286376/alberto-ii-in-italiano-a-mattarella-viva-l-amicizia-tra-principato-di-monaco-e-italia/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49286378/mattarella-a-monaco-multilateralismo-indispensabile-per-la-pace-e-la-liberta-/",
-        "https://www.liberoquotidiano.it/news/pillole/49286186/mattarella_il_multilateralismo_e_indispensabile_e_va_garantito_/"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "Trump, dietrofront su Meloni: \"Rapporto molto buono, mi è sempre piaciuta\"",
+      "title": "Dpfp: “Da energia shock da 0,3% del Pil nel 2027-2028 con scenario meno favorevole”",
       "source_count": 4,
       "article_count": 5,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
+        "ansa.it",
         "repubblica.it",
+        "laverita.info",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/49286366/trump-dietrofront-su-meloni-rapporto-molto-buono-mi-e-sempre-piaciuta-/",
-        "https://www.ilfattoquotidiano.it/2026/10/03/trump-rapporto-con-meloni-molto-buono/8526303/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49284883/trump-il-mio-rapporto-con-meloni-e-molto-buono-mi-e-sempre-piaciuta/",
-        "https://www.repubblica.it/esteri/2026/10/02/news/trump_dietrofront_su_melonilei_mi_e_sempre_piaciuta-425622844/",
-        "https://www.ilsole24ore.com/art/trump-nuovo-dietrofront-meloni-mi-e-sempre-piaciuta-AJEYqhXB"
+        "https://www.ansa.it/sito/notizie/economia/2026/10/03/da-scostamento-misure-sullenergia-per-famiglie-studenti-imprese-pa_b13d6d7c-125b-4a20-b16f-915082f5c247.html",
+        "https://www.repubblica.it/economia/2026/10/03/news/scostamento_relazione_parlamento_flessibilita_144_miliardi-425623421/",
+        "https://www.laverita.info/i-nostri-soldi/dpfp-scostamento-bilancio-energia-difesa-2027-2028",
+        "https://www.ilsole24ore.com/art/da-scostamento-misure-sull-energia-famiglie-studenti-imprese-pa-AJn3GpXB",
+        "https://www.ilsole24ore.com/art/difesa-tagli-sette-miliardi-progetti-rischio-AJOhjDXB"
       ]
     },
     {
       "rank": 8,
+      "title": "Garlasco, legale di Stasi: “C’è un elemento che farà scalpore e non riguarda le indagini del 2007”",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ilmessaggero.it",
+        "lastampa.it",
+        "milano.repubblica.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/italia/garlasco_stasi_mossa_difesa_prove_innocente_quali_sono-9802203.html",
+        "https://www.lastampa.it/cronaca/2026/10/03/news/stasi_nuove_verita_delle_indagini_difensive_faranno_scalpore-15756519/",
+        "https://milano.repubblica.it/cronaca/2026/10/03/news/garlasco_bocellari_difesa_stasi_nuovo_elemento_scalpore_indagini_2007-425623911/",
+        "https://www.ilmessaggero.it/italia/garlasco_alberto_stasi_difesa_altro_elemento-9801809.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/03/legale-di-stasi-un-altro-elemento-fara-scalpore-e-non-riguarda-2007_5d7016b0-72f5-4af8-918a-7506938b6ede.html"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Festival Podcasting: il premio del Sole24ore a \"A chi interessa\"",
       "source_count": 1,
       "article_count": 8,
@@ -159,39 +181,22 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Il Brasile alle urne, ultimi colpi tra Lula e Bolsonaro Jr",
+      "rank": 10,
+      "title": "Marcello Fois vince il Campiello e lo dedica a Murgia: “Era bellissima”",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
+        "lastampa.it",
+        "adnkronos.com",
         "ansa.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
         "repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/03/il-brasile-alle-urne-ultimi-colpi-tra-lula-e-bolsonaro-jr_cb683719-5b9b-489a-9809-de3a96a6a896.html",
-        "https://www.ilmessaggero.it/politica/elezioni_brasile_risultati_quando_arrivano_chi_sono_favoriti-9801885.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49286666/brasile-lula-fa-campagna-elettorale-a-belo-horizonte/",
-        "https://www.repubblica.it/esteri/2026/10/03/news/tra_le_gang_brasiliane_pronte_a_falsare_le_elezioni_le_favelas_fanno_politica-425622795/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Il 4 ottobre festa nazionale per San Francesco: quanto vale in busta paga per i lavoratori a seconda della categoria",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/10/03/il-4-ottobre-festa-nazionale-per-san-francesco-quanto-vale-in-busta-paga-per-i-lavoratori-a-seconda-della-categoria/8526380/",
-        "https://www.lastampa.it/economia/2026/10/03/news/san_francesco_il_4_ottobre_torna_la_festa_nazionale_cosa_cambia_in_busta_paga-15756016/",
-        "https://www.liberoquotidiano.it/news/italia/49285125/domenica_4_ottobre_festa_nazionale_cosa_cambia_in_busta_paga/",
-        "https://www.agi.it/cronaca/news/2026-10-03/san-francesco-4-ottobre-stipendio-39367450/"
+        "https://www.lastampa.it/cultura/2026/10/04/news/marcello_fois_vince_il_campiello_e_lo_dedica_a_murgia_era_bellissima-15756610/",
+        "https://www.adnkronos.com/cultura/premio-campiello-2026-marcello-fois_3pcOV1Yz7411Emf2k93Pg6",
+        "https://www.ansa.it/sito/notizie/cultura/libri/2026/10/03/marcello-fois-vince-per-un-soffio-il-premio-campiello-2026_eb1778c9-654f-482c-a0f6-1eecebe714ce.html",
+        "https://www.repubblica.it/cultura/2026/10/03/news/premio_campiello_marcello_fois-425624224/",
+        "https://www.lastampa.it/cultura/2026/10/03/news/marcello_fois_vince_per_un_soffio_il_premio_campiello_2026-15756463/"
       ]
     }
   ]
