@@ -1,14 +1,15 @@
 {
   "date": "2026-10-04",
-  "generated_at": "Sun 04 Oct 12:10",
+  "generated_at": "Sun 04 Oct 17:29",
   "stories": [
     {
       "rank": 1,
-      "title": "Mattarella ad Assisi: «San Francesco ci insegna che non c’è colpa maggiore di quella di uccidere in nome di Dio»",
-      "source_count": 7,
-      "article_count": 8,
+      "title": "San Francesco, Mattarella ad Assisi: \"Profeta di pace e amore. Uccidere in nome di Dio colpa più grande\"",
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
         "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "ansa.it",
         "adnkronos.com",
         "repubblica.it",
@@ -18,21 +19,44 @@
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/10/04/mattarella-ad-assisi-in-questi-tempi-di-guerre-insensate-san-francesco-ci-indica-la-strada-della-pace/8527160/",
+        "https://www.liberoquotidiano.it/news/pillole/49292342/mattarella_ad_assisi_guerre_insensate_san_francesco_possa_indicare_via_pace_/",
         "https://www.ansa.it/sito/notizie/politica/2026/10/04/festa-di-san-francesco-mattarella-da-s.-francesco-una-lezione-per-loggi_9bd6a1a6-d122-438a-918d-1082646e670f.html",
-        "https://www.adnkronos.com/politica/san-francesco-festa-nazionale-mattarella_4PSA5SPFQaSnCi4Tn9fWss",
-        "https://www.repubblica.it/politica/2026/10/04/news/mattarella_assisi_san_francesco_via_della_pace-425625084/",
-        "https://www.ilmessaggero.it/politica/san_francesco_oggi_festa_mattarella_cosa_ha_detto_ultime_notizie-9803486.html"
+        "https://www.liberoquotidiano.it/news/pillole/49291831/mattarella_ad_assisi_per_le_celebrazioni_di_san_francesco/",
+        "https://www.adnkronos.com/politica/san-francesco-festa-nazionale-mattarella_4PSA5SPFQaSnCi4Tn9fWss"
       ]
     },
     {
       "rank": 2,
+      "title": "Torino, tenta di strangolare la compagna ma lei scappa dai vicini con la figlia e si salva. Lui si toglie la vita gettandosi dal decimo piano",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "torino.repubblica.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/tenta-di-uccidere-compagna-lei-scappa-dai-vicini-con-la-bimba-e-si-salva_ad11c40c-eee0-438a-a194-a23b73d8cc10.html",
+        "https://www.adnkronos.com/cronaca/torino-aggressione-compagna-suicidio_xcR07TfSHAvUUivcCl3Qe",
+        "https://www.ilfattoquotidiano.it/2026/10/04/torino-strangolare-compagna-lei-scappa-salva-figlia-lui-si-suicida/8527215/",
+        "https://www.ilmessaggero.it/italia/torino_tentato_femminicidio_figlia_salva-9803608.html",
+        "https://torino.repubblica.it/cronaca/2026/10/04/news/violenza_donne_tentato_omicidio_suicidio_balcone_barriera_di_milano-425625284/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Verstappen vince il Gp della Malesia, Antonelli secondo. Ferrari sul podio con Hamilton, Leclerc quarto",
-      "source_count": 5,
-      "article_count": 5,
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
         "ansa.it",
         "repubblica.it",
         "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "adnkronos.com",
         "lastampa.it"
       ],
@@ -40,15 +64,57 @@
         "https://www.ansa.it/sito/notizie/sport/f1/2026/10/04/f1-verstappen-vince-il-gp-bahrain-poi-antonelli-e-hamilton_8ed57b9f-048e-4cad-80d0-0d92fcf8bb4b.html",
         "https://www.repubblica.it/sport/formulauno/2026/10/04/news/verstappen_gp_malesia_sepang_bahrain_antonelli_ferrari-425625166/",
         "https://www.ilfattoquotidiano.it/2026/10/04/formula-1-gp-bahrain-malesia-ordine-arrivo-classifica-generale/8527111/",
-        "https://www.adnkronos.com/sport/verstappen-gp-bahrain-antonelli-ordine-arrivo-classifica-mondiale-formula-1_30cfNKRAaPYRm6Jvv3Oq5c",
-        "https://www.lastampa.it/sport/2026/10/04/news/diluvio_su_sepang_rinviata_la_partenza_del_gp_del_bahrain-15756730/"
+        "https://www.liberoquotidiano.it/news/sport/49291834/gp-bahrein-vince-verstappen-kimi-antonelli-allunga-hamilton-terzo-vasseur-sotto-accusa/",
+        "https://www.adnkronos.com/sport/verstappen-gp-bahrain-antonelli-ordine-arrivo-classifica-mondiale-formula-1_30cfNKRAaPYRm6Jvv3Oq5c"
       ]
     },
     {
-      "rank": 3,
-      "title": "Guerra Ucraina - Russia, le news di oggi. Colpito il Ponte Nord in pieno giorno mentre Merz è a Kiev",
+      "rank": 4,
+      "title": "Spagna, a migliaia in piazza a Madrid per protestare contro la crisi abitativa",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmanifesto.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/03/spagna-una-marea-umana-invade-madrid-ora-sciopero-generale-_4f405557-4cb6-43dc-b8e7-13cc7060d3f4.html",
+        "https://www.liberoquotidiano.it/news/libero-video/49289071/spagna-a-migliaia-in-piazza-a-madrid-per-protestare-contro-la-crisi-abitativa/",
+        "https://ilmanifesto.it/spagna-la-piazza-per-la-vivienda-chiama-lo-sciopero-generale",
+        "https://www.lastampa.it/esteri/2026/10/03/news/spagna_maricarmen_affitti_scuola_proteste_studenti-15756588/",
+        "https://www.ilmessaggero.it/mondo/proteste_spagna_crisi_abitativa_sanchez-9802213.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Garlasco, i genitori di Chiara Poggi a Verissimo: \"Per noi il colpevole è Stasi. Se la giustizia ci darà un altro nome, prenderemo atto\"",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "milano.repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/garlasco-genitori-di-chiara-poggi-prenderemo-atto-se-la-giustizia-dara-un-altro-colpevole_ebee0c95-ada8-4f77-9669-bc60564a79ed.html",
+        "https://www.ilfattoquotidiano.it/2026/10/04/i-genitori-di-chiara-poggi-se-ci-sara-un-altro-colpevole-ne-prenderemo-atto-per-noi-ora-e-stasi-stanchi-dellassedio-mediatico/8527310/",
+        "https://milano.repubblica.it/cronaca/2026/10/04/news/garlasco_poggi_intervista_verissimo_stasi_colpevole-425625405/",
+        "https://www.adnkronos.com/cronaca/garlasco-genitori-chiara-poggi-stasi-verissimo_7MIMSG47I27bThGIsRjuNs",
+        "https://www.ilmessaggero.it/persone/genitori_chiara_poggi_verissimo_stasi_garlasco-9803718.html"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Ucraina: Merz a Kiev, colpito il ponte Nord. Mosca: 'Combatteremo per lo 0,01 del Donetsk'",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
@@ -57,55 +123,18 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/04/ucraina-merz-a-kiev-colpito-il-ponte-nord.-mosca-combatteremo-per-lo-001_150970cb-bce6-4ca9-a327-1f55553bc772.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/10/04/il-cancelliere-tedesco-merz-arriva-a-kiev-per-una-visita-a-sorpresa_150970cb-bce6-4ca9-a327-1f55553bc772.html",
         "https://www.ilfattoquotidiano.it/2026/10/04/ucraina-raid-russi-su-kiev-durante-la-visita-di-merz-colpito-il-ponte-nord-il-cancelliere-1-miliardo-di-aiuti-militari/8527022/",
         "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-ultime-notizie-4-ottobre_21cZw77JscJPa7RUoSgosY",
-        "https://www.repubblica.it/esteri/2026/10/04/diretta/guerra_ucraina_russia_news_oggi-425624582/",
-        "https://www.lastampa.it/esteri/2026/10/04/diretta/guerra_russia_ucraina_news_oggi-15756634/"
+        "https://www.repubblica.it/esteri/2026/10/04/diretta/guerra_ucraina_russia_news_oggi-425624582/"
       ]
     },
     {
-      "rank": 4,
-      "title": "Spagna, a migliaia in piazza a Madrid per protestare contro la crisi abitativa",
+      "rank": 7,
+      "title": "Rogo nel camping a Peschiera del Garda, feriti e intossicati",
       "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/03/spagna-una-marea-umana-invade-madrid-ora-sciopero-generale-_4f405557-4cb6-43dc-b8e7-13cc7060d3f4.html",
-        "https://www.liberoquotidiano.it/news/libero-video/49289071/spagna-a-migliaia-in-piazza-a-madrid-per-protestare-contro-la-crisi-abitativa/",
-        "https://ilmanifesto.it/spagna-la-piazza-per-la-vivienda-chiama-lo-sciopero-generale",
-        "https://www.lastampa.it/esteri/2026/10/03/news/spagna_maricarmen_affitti_scuola_proteste_studenti-15756588/",
-        "https://www.liberoquotidiano.it/news/tv-news/49286828/crisi-alloggi-decine-di-migliaia-di-persone-protestano-a-madrid/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Intesa: Opas resta in campo solo se soci Mps votano no a proposte Lovaglio",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "laverita.info",
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/aziende/intesa-rilancia-opas-mps",
-        "https://www.ansa.it/sito/notizie/economia/2026/10/03/intesa-con-il-via-libera-alle-offerte-mps-lopas-diventera-inefficace_649702eb-a54c-46d5-a26b-869245b27bf1.html",
-        "https://www.ilmessaggero.it/economia/news/intesa_sanpaolo_mps_rilancio_opas-9801983.html",
-        "https://www.ilsole24ore.com/art/si-riunisce-cda-intesa-sanpaolo-possibile-rilancio-opas-mps-AJpAu6XB"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Vasto incendio in un camping a Peschiera del Garda, 24 persone in ospedale",
-      "source_count": 4,
-      "article_count": 4,
+      "article_count": 6,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -113,14 +142,15 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/vasto-incendio-in-un-camping-sul-garda-intervenuti-4-pompieri-tedeschi-in-vacanza_f465a36b-15b0-4903-ac8a-5309989969eb.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/vasto-incendio-in-un-camping-a-peschiera-del-garda-diversi-feriti_f465a36b-15b0-4903-ac8a-5309989969eb.html",
+        "https://www.liberoquotidiano.it/news/libero-video/49292455/peschiera-del-garda-alba-terrore-incendio-campeggio/",
         "https://www.liberoquotidiano.it/news/pillole/49291207/vasto-incendio-in-un-camping-di-peschiera-del-garda-fiamme-sotto-controllo/",
-        "https://www.repubblica.it/cronaca/2026/10/04/news/peschiera_del_garda_incendio_camping_feriti-425624857/",
-        "https://www.lastampa.it/cronaca/2026/10/04/news/vasto_incendio_in_un_camping_a_peschiera_del_garda_diversi_feriti-15756746/"
+        "https://www.repubblica.it/cronaca/2026/10/04/news/peschiera_del_garda_incendio_camping_feriti-425624857/"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Marcello Fois vince il Premio Campiello 2026 e lo dedica a Michela Murgia",
       "source_count": 4,
       "article_count": 4,
@@ -138,47 +168,39 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Vieste, dramma durante il ricevimento di nozze: padre e figlio cadono dal terrazzo, grave 40enne",
-      "source_count": 3,
-      "article_count": 3,
+      "rank": 9,
+      "title": "Centrosinistra, Renzi: \"Chiedo 3 garanzie a Conte, serve un programma serio\"",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
         "ansa.it",
-        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "firenze.repubblica.it",
         "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/04/padre-e-figlio-precipitati-durante-festa-di-nozze-40enne-in-prognosi-riservata_10bbee43-4eb3-4d4e-a990-281613ba30a8.html",
-        "https://www.ilfattoquotidiano.it/2026/10/04/vieste-padre-figlio-precipitano-terrazzo-matrimonio/8527093/",
-        "https://www.liberoquotidiano.it/news/italia/49287713/vieste-dramma-ricevimento-nozze-padre-figlio-cadono-terrazzo-grave-40enne/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Lunedì scadono gli sconti sul gasolio, cosa può succedere adesso",
-      "source_count": 2,
-      "article_count": 2,
-      "source_domains": [
-        "ansa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/10/04/domani-scade-lo-sconto-sulle-accise-per-il-gasolio_664823dc-12a3-42e9-851b-f10f32a6c4dd.html",
-        "https://www.ilsole24ore.com/art/lunedi-scadono-sconti-gasolio-cosa-puo-succedere-adesso-AJmOx2XB"
+        "https://www.ansa.it/sito/notizie/politica/2026/10/04/renzi-appello-a-centristi-e-ai-riformisti-di-forza-italia-venite-con-noi_c456b782-516c-4c5e-b706-17e902aa68bd.html",
+        "https://www.adnkronos.com/politica/renzi-conte-m5s-elezioni-centrosinistra_5CGLUiQ1fs7Oa6fDAh8Gim",
+        "https://firenze.repubblica.it/cronaca/2026/10/04/news/firenze_chiusura_leopolda_renzi_forza_italia_conte-425625275/",
+        "https://www.liberoquotidiano.it/news/libero-video/49289072/renzi-a-conte-non-ho-bisogno-di-dare-garanzie-ma-di-portare-voti-/"
       ]
     },
     {
       "rank": 10,
-      "title": "“In Spagna più della metà degli elettori di destra vuole nuove leggi anti-sfratto sulla casa”",
-      "source_count": 2,
-      "article_count": 2,
+      "title": "Atp Pechino, Djokovic batte Zverev nei quarti e fa un favore a Sinner",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
         "ilfattoquotidiano.it",
-        "repubblica.it"
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/10/04/la-protesta-che-spiazza-la-destra-la-spagna-in-piazza-e-lultima-chance-per-sanchez/8527033/",
-        "https://www.repubblica.it/esteri/2026/10/04/news/in_spagna_elettori_di_destra_vuole_leggi_anti-sfratto_sulla_casa-425625081/"
+        "https://www.ilfattoquotidiano.it/2026/10/04/atp-pechino-djokovic-regalo-a-sinner-eliminato-zverev-battaglia-polemiche-come-cambia-classifica-atp/8527241/",
+        "https://www.adnkronos.com/sport/djokovic-zverev-pechino-sinner_3R1Tgz4yMaItCnqgNLynY6",
+        "https://www.repubblica.it/sport/tennis/2026/10/04/news/zverev_djokovic_pechino_sconfitta-425625335/",
+        "https://www.ilmessaggero.it/sport/tennis/djokovic_pechino_zverev_sconfitto-9803650.html"
       ]
     }
   ]
