@@ -14,213 +14,236 @@ No previous episode found.
 <clustered_headlines>
 # Coverage Pulse - 2026-10-06
 
-## 1. Sánchez: “Elezioni anticipate il 29 novembre. Spagna scelga tra avanzare o cedere all’ultradestra”
+## 1. Legge elettorale: ok della Camera alla fiducia sull'articolo 2, 227 sì
 
-> **Context:** La decisione del leader socialista dopo la crisi sulla questione casa: “Ora serve una maggioranza progressista più ampia”. I sondaggi danno Vox unico partito in crescita
+> **Context:** In precedenza era arrivato il via libera dell'Aula alla fiducia sull'articolo 1
 
-- **La Repubblica**: Sánchez: “Elezioni anticipate il 29 novembre. Spagna scelga tra avanzare o cedere all’ultradestra” La decisione del leader socialista dopo la crisi sulla questione casa: “Ora serve una maggioranza progressista più ampia”. I sondaggi danno Vox unico partito in crescita
-- **La Stampa**: Spagna al voto: la destra è in vantaggio, Sanchez punta tutto sulla casa Il 29 novembre ci saranno le elezioni anticipate con Vox in ascesa e probabile alleato del Pp che tiene rispetto al 2023. Frammentazione degli alleati del Psoe
-- **La Stampa**: La difficile battaglia di Sanchez, l’ultimo socialista di successo nell’Europa che guarda a destra Se entro due mesi dovesse perdere nelle urne, la sua sconfitta avrebbe un significato e un peso anche per la sinistra europea e italiana
-- **La Stampa**: Spagna, il premier Sanchez si dimette: “Elezioni anticipate, alle urne il 29 novembre”/ Video La decisione è arrivata in seguito alla bocciatura da parte del Congresso di due decreti-legge in materia di edilizia abitativa. Il premier: «Ci serve una maggioranza forte, abbiamo avuto a che fare con la peggiore opposizione della storia»
-- **ANSA**: La scommessa di Sanchez, elezioni anticipate il 29 novembre Il premier cavalca la protesta per ribaltare i sondaggi e riapprova i decreti casa
-- **Adkronos**: Spagna, dalla crisi al voto: Sanchez tenta la rimonta con le elezioni anticipate Dalla crisi abitativa alle tensioni sull'immigrazione, il leader socialista arriva al voto sotto pressione dopo la rottura con gli alleati catalani
-- **Il Post**: Pedro Sánchez ha annunciato elezioni anticipate in Spagna 
-- **Il Manifesto**: Elezioni anticipate, l’ultima sfida di Pedro Sánchez Ed elezioni furono. Come è sua esclusiva facoltà, Pedro Sánchez ha valutato la situazione e ha deciso di sciogliere le camere e convocare le elezioni per il 29 novembre, la […] The post Elezioni anticipate, l’ultima sfida di Pedro Sánchez first appeared on il manifesto.
-- **Il Messaggero**: Spagna, elezioni anticipate: alle urne il 29 novembre. Sanchez apre la crisi e spera nel voto di protesta «Ora dipende da voi. Dovete decidere quale futuro volete per voi stessi e per il vostro Paese. Confido in voi, che starete dalla parte giusta della storia». Pedro Sánchez, con...
+- **Il Sole Ventiquattro Ore**: Legge elettorale, ok della Camera alla fiducia sull’articolo 1 L’Aula di Montecitorio ha approvato con 226 voti a favore e 147 contrari la fiducia posta dal governo sull’articolo 1 della legge elettorale. Tre gli astenuti. L’articolo, tra le altre...
+- **Il Fatto Quotidiano**: Legge elettorale, sì alla fiducia sull’articolo 1 con 226 voti a favore: approvati i capilista bloccati. M5s: “Debolezza del governo” L'articolo Legge elettorale, sì alla fiducia sull’articolo 1 con 226 voti a favore: approvati i capilista bloccati. M5s: “Debolezza del governo” proviene da Il Fatto Quotidiano.
+- **La Stampa**: Legge elettorale, la maggioranza approva la fiducia sull’articolo 1. L’ira dell’opposizione Già iniziate le votazioni per l’articolo 2. Domani il terzo scrutinio blindato, giovedì quello segreto sul testo
+- **ANSA**: Legge elettorale: ok della Camera alla fiducia sull'articolo 2, 227 sì In precedenza era arrivato il via libera dell'Aula alla fiducia sull'articolo 1
+- **Adkronos**: Legge elettorale, dalla Camera via libera alla fiducia su art.1 e 2. Opposizioni: "Incostituzionale" L'esame del provvedimento riprenderà mercoledì mattina
+- **La Verità**: Legge elettorale, doppio sì alla Camera: giovedì il voto decisivo Approvata a Montecitorio la fiducia sui primi due articoli della riforma. Il testo cancella il Rosatellum e introduce proporzionale, preferenze e premio di maggioranza. Mercoledì la terza votazione. L'articolo Legge elettorale, doppio sì alla Camera: giovedì il voto decisivo proviene da La Verità.
+- **Il Messaggero**: Legge elettorale, doppio ok: stretta su chat e dissidenti. La sinistra: «Schiaffo all’Aula» Buona la prima. E anche la seconda. Scivolano via senza patemi per la maggioranza i primi due sì alla fiducia sulla legge elettorale. E alla Camera va in scena la giornata dei lunghi...
 
 
-## 2. La Rai sospende Ranucci per dieci giorni: ecco le contestazioni
+## 2. Malagò nominato commissario della Federcalcio: la Giunta Coni vota all’unanimità
 
-> **Context:** La decisione dell’azienda nei confronti del giornalista ed ex conduttore di Report che cita De Gregori. L’avvocato: impugneremo il provvedimento
+> **Context:** L’ex presidente decade per il caso del mancato tesseramento, ma guiderà la Figc e si ripresenterà alle elezioni da convocare entro il 31 gennaio 2027
 
-- **Il Sole Ventiquattro Ore**: Rai sospende Sigfrido Ranucci per 10 giorni. La replica: «Impugneremo» Alla base del provvedimento quattro contestazioni disciplinari: dagli accessi di Cianfoni in azienda alla denigrazione di Presutti e Piervincenzi
-- **La Repubblica**: La Rai sospende Ranucci per dieci giorni: ecco le contestazioni La decisione dell’azienda nei confronti del giornalista ed ex conduttore di Report che cita De Gregori. L’avvocato: impugneremo il provvedimento
-- **La Stampa**: Ranucci sospeso dalla Rai per 10 giorni, dalle mail a Lavitola agli ingressi in azienda: le contestazioni Il 16 settembre scorso la Rai aveva notificato una contestazione disciplinare al giornalista all'esito dell'istruttoria del comitato etico
-- **ANSA**: Ranucci sospeso per 10 giorni dalla Rai, il legale: 'Faremo ricorso' Attesa a breve la pronuncia sul reintegro. Corsini: 'Speriamo non torni a Report'
-- **AGI**: La Rai sospende Sigfrido Ranucci per 10 giorni. Il legale "faremo ricorso" La Rai, a quanto si apprende, ha sospeso l'ex conduttore di Report Sigfrido Ranucci per dieci giorni. Secondo quanto si apprende, alla base della decisione della sospensione di 10 giorni per Sigfrido Ranucci, ci sarebbero alcune contestazioni disciplinari: il contenuto di alcune mail aziendali inoltrate a Valter Lavitola, una 50ina di ingressi in Rai di Laura Cianfoni e la denigrazione di alcuni colleghi. La reazione del legale: "Il provvedimento sarà impugnato" "Proprio mentre il tribunale del Lavoro di Roma sta decidendo sul ricorso cautelare di Sigfrido Ranucci nei confronti del provvedimento di rimozione da Report, la Rai gli comunica una nuova sanzione: dieci giorni di sospensione dal lavoro e dalla retribuzione. Una decisione che interviene a pochi giorni dalla presentazione di articolate difese, con le quali sono state contestate nel merito e nel metodo le accuse formulate dalla Rai. In attesa della decisione del giudice non commentiamo la coincidenza temporale. Il provvedimento sarà impugnato". Così, in una nota, l'avvocato Roberto De Vita, legale di Sigfrido Ranucci.
-- **Il Messaggero**: Ranucci sospeso per 10 giorni dalla Rai: paga (anche) le critiche ai colleghi ROMA Prima batosta per Ranucci. Pre-licenziamento per Ranucci, almeno così lo vedono alcuni nemici e alcuni amici (se ancora ne ha) dell'ex conduttore di Report. La Rai, ovvero...
-
-
-## 3. FlyDubai, il copilota: “L’ho fatto per vendicare Gaza. Volevo morire da martire”
-
-> **Context:** Il pilota omanita 29enne Hammam Al-Hammami ha confessato durante l'interrogatorio negli Emirati
-
-- **La Repubblica**: Caso Flydubai, la confessione del copilota: “Volevo il martirio per vendicare Gaza” La dichiarazione Hamam al-Hammami, il 29enne omanita che mercoledì scorso ha tentato di far precipitare il volo 1073 con 174 passeggeri a bordo
-- **La Stampa**: FlyDubai, il copilota: “L’ho fatto per vendicare Gaza. Volevo morire da martire” Il pilota omanita 29enne Hammam Al-Hammami ha confessato durante l'interrogatorio negli Emirati
-- **ANSA**: Il copilota di Flydubai agli inquirenti: 'Volevo vendicare Gaza' Lo Shin Bet avverte: 'Hamas pronto ad attaccare a ridosso delle elezioni'
-- **Adkronos**: Volo FlyDubai, il copilota e il piano contro Israele: "Volevo vendicare Gaza" Hamam al-Hammami voleva "morire da martire" schiantandosi contro l'aeroporto di Tel Aviv
-- **Il Fatto Quotidiano**: FlyDubai, il copilota omanita: “L’ho fatto per vendicare Gaza, volevo morire da martire” “Volevo morire da martire”. Così il copilota omanita Hammam Al-Hammami ha spiegato la ragione del suo tentativo di dirottamento dell’aereo FlyDubai agli inquirenti. A riferirlo è l’emittente israeliana Channel 12. Non solo. L’uomo che ha tentato di far precipitare il velilovo, lo scorso 30 settembre, ha dichiarato – stando alle stesse fonti – di aver […] L'articolo FlyDubai, il copilota omanita: “L’ho fatto per vendicare Gaza, volevo morire da martire” proviene da Il Fatto Quotidiano.
-- **Il Messaggero**: Flydubai, il copilota che ha tentato dirottare il volo per Tel Aviv: «L'ho fatto per vendicare Gaza, volevo morire da martire» «L'ho fatto per vendicare Gaza, volevo morire da martire». Lo ha detto agli inquirenti il pilota omanita Hammam Al-Hammami durante l'interrogatorio negli Emirati. Lo...
+- **La Repubblica**: Malagò commissario Figc, la Giunta Coni vota all’unanimità La decisione dopo una riunione durata dieci minuti è stata poi confermata dal Consiglio Nazionale che ha approvato anche il commissariamento della Federpesi
+- **La Stampa**: Malagò nominato commissario della Federcalcio: la Giunta Coni vota all’unanimità L’ex presidente decade per il caso del mancato tesseramento, ma guiderà la Figc e si ripresenterà alle elezioni da convocare entro il 31 gennaio 2027
+- **La Stampa**: Il futuro della Figc: oggi si vota al Coni per Malagò commissario di Malagò A Roma la resa dei conti, ma con una via di uscita che accontenterebbe tutti. Nuove elezioni tra tre mesi
+- **ANSA**: Malagò commissario della Figc, la Giunta del Coni vota all'unanimità Ora il provvedimento va alla ratifica del Consiglio nazionale
+- **Il Fatto Quotidiano**: Buonfiglio fa marcia indietro, così Malagò vince ancora: perché politica e Coni non sono riusciti a disarcionarlo Scusate, abbiamo scherzato. Dopo quasi tre mesi di scontri istituzionali, inchieste, pareri legali sul famoso mancato tesseramento, la crisi del pallone finisce con la solita farsa all’italiana: Malagò commissario di Malagò. Una soluzione paradossale che avevamo raccontato per primi proprio qui sul Fatto Quotidiano tre settimane fa: all’epoca sembrava quasi una boutade, l’ennesima provocazione del […] L'articolo Buonfiglio fa marcia indietro, così Malagò vince ancora: perché politica e Coni non sono riusciti a disarcionarlo proviene da Il Fatto Quotidiano.
+- **Il Fatto Quotidiano**: Figc, Malagò esce dalla porta e rientra dalla finestra: decade da presidente ma diventa commissario. Accordo all’unanimità al Coni Lo scenario ipotizzato ieri alla fine si è avverato: la Figc sarà commissariata e il commissario sarà Giovanni Malagò, presidente della Federcalcio appena decaduto. In parole povere: Malagò esce dalla porta e rientra dalla finestra. La giunta Coni ha approvato il provvedimento all’unanimità. È quanto trapela dall’incontro tra i due dirigenti. L’intesa è stata raggiunta […] L'articolo Figc, Malagò esce dalla porta e rientra dalla finestra: decade da presidente ma diventa commissario. Accordo all’unanimità al Coni proviene da Il Fatto Quotidiano.
+- **La Verità**: Commissariata la Figc: Malagò sarà il commissario, poi nuove elezioni La Giunta del Coni ha approvato all’unanimità la proposta di Luciano Buonfiglio. Ora la ratifica del Consiglio Nazionale: l’assemblea elettiva della Federcalcio dovrà tenersi entro il 31 gennaio 2027. L'articolo Commissariata la Figc: Malagò sarà il commissario, poi nuove elezioni proviene da La Verità.
+- **Il Manifesto**: Commissariamento Figc: il commissario sarà Giovanni Malagò Tanto rumore, tanto avanspettacolo, per nulla. Ieri è stato il giorno del commissariamento a tempo determinato della Figc. Il commissariato è Giovanni Malagò, eletto presidente appena qualche mese fa in […] The post Commissariamento Figc: il commissario sarà Giovanni Malagò first appeared on il manifesto.
+- **Il Messaggero**: Vince Malagò, è commissario. «Il calcio italiano è ripartito». Bonfiglio cede, accordo con il n.1 della Figc Il futuro è il presente e il recente passato. Tanto rumore, tanto veleno, settimane di colpi di teatro e saltelli da circo, per lo stesso verdetto: la rinascita del calcio italiano non...
 
 
-## 4. Da oggi stop allo sconto sul gasolio, scattano le accise mobili: come cambia il prezzo
+## 3. Sinner salterà anche le Atp Finals: “Devo curare il ginocchio, per me il 2026 è finito”
 
-> **Context:** I consumatori: ma tagli e price cap introdotti dai marchi hanno portato a ribassi generalizzati
+> **Context:** L’annuncio con un video sui social: «Ho bisogno di un ciclo di trattamenti per il mio ginocchio che significa che la stagione 2026 è ufficialmente finita»
 
-- **Il Sole Ventiquattro Ore**: Gasolio, per ora niente accise mobili: non c’è il decreto in Gazzetta ufficiale Dopo più di due mesi, si va verso lo stop agli sconti sul gasolio. Nella Gazzetta ufficiale di lunedì, ultimo giorno con lo sconto da 6,1 centesimi al litro sul...
+- **La Repubblica**: Sinner salta anche le Finals: “La mia stagione è finita” Il numero 1 del mondo ha comunicato via social che nel 2026 non giocherà più
+- **La Stampa**: Il riserbo di Sinner e il tennis a mille all'ora, cosa c'è dietro lo stop di Jannik I tornei a velocità supersonica hanno fatto più danni collaterali che altro: serve una riflessione
+- **La Stampa**: Il video dell'annuncio di Sinner: "Devo pensare alla mia carriera" «La stagione è ufficialmente conclusa, con il mio staff abbiamo deciso che il mio ginocchio ha bisogno di un ulteriore trattamento. Devo pensare alla mia carriera a lungo termine e tornare al 100%». In un video postato sui social Jannik Sinner spiega i motivi per cui tornerà in campo solo il prossimo anno, saltando dunque tutti gli appuntamenti di fine stagione, Atp Finals comprese. «Il finale delle ultime stagioni, specialmente a Torino mi ha regalato bellissime emozioni e sentimenti - aggiunge Sinner -, quest'anno andrà diversamente, visto che devo pensare alla mia carriera a lungo termine. Farò tutto il possibile per tornare al 100%. Vi ringrazio per il supporto e speriamo di rivederci presto in campo. Abbiamo deciso che il mio ginocchio ha bisogno di terapie questo significa che il mio 2026 è ufficialmente finito». Leggi - Sinner salterà anche le Atp Finals: “Devo curare il ginocchio, per me il 2026 è finito
+- **La Stampa**: Sinner salterà anche le Atp Finals: “Devo curare il ginocchio, per me il 2026 è finito” L’annuncio con un video sui social: «Ho bisogno di un ciclo di trattamenti per il mio ginocchio che significa che la stagione 2026 è ufficialmente finita»
+- **ANSA**: Stagione finita per Sinner, perderà il numero 1 del mondo: il sorpasso di Zverev entro fine anno Il campione altoatesino deve sottoporsi a un trattamento per un'infiammazione al ginocchio
+- **Adkronos**: Panatta: "Sinner tornerà più forte di prima". Barazzutti: "Giusto fermarsi" Le leggende del tennis azzurro commentano l'infortunio del numero uno: "Per Jannik è la scelta più saggia"
+- **La Verità**: Stagione finita per Sinner: «Devo pensare alla mia carriera» Il numero 1 del mondo ha deciso di non giocare più quest’anno per curare il ginocchio destro. Salterà Vienna, Parigi e le Finals: il rientro è previsto nel 2027. L'articolo Stagione finita per Sinner: «Devo pensare alla mia carriera» proviene da La Verità.
+- **Libero**: Sinner "Devo sottopormi a un ciclo di cure al ginocchio, il mio 2026 è finito" 
+- **Libero**: Sinner, è finita davvero: il video choc, per quanto si ferma "Officially over". Jannik Sinner ha annunciato la conclusione anticipata della sua stagione 2026 e non tornerà in campo prima dell’inizio del 2027. Il numero 1 del mondo, che perderà comunque la posizione al termine della stagione, deve rinunciare agli ultimi importanti appuntamenti del calendario: Vienna, Parigi e le Finals di Torino, dove avrebbe dovuto difendere complessivamente 3.500 punti. L’assenza di Sinner favorisce così la corsa di Sascha Zverev alla vetta del ranking. Con un video pubblicato sui social, Sinner ha spiegato la decisione legata al problema al ginocchio destro: "Ciao a tutti, vorrei darvi un piccolo aggiornamento: io e i miei dottori abbiamo deciso che ho bisogno di un ciclo di trattamenti per il mio ginocchio. Questo significa che il mio 2026 è ufficialmente finito — le sue parole —. Gli ultimi anni, specialmente nella parte finale a Torino, mi hanno dato tante belle sensazioni ed emozioni, mentre quest’anno sarà molto diverso. In questo momento, però, ho anche bisogno di pensare alla mia carriera a lungo termine. Farò tutto il possibile per ritornare al 100%, vi ringrazio in anticipo per il vostro supporto, spero di vedervi presto in campo". La decisione arriva dopo nuovi consulti specialistici, compreso quello effettuato a Lione con il dottor Bertrand Sonnery-Cottet. La rinuncia alla tournée asiatica esclude anche la partecipazione al Six Kings Slam e rende impossibile la presenza alle Finals di Davis a Bologna. Per Sinner ora l’obiettivo è recuperare completamente e tornare in campo in Australia nel 2027. Visualizza questo post su Instagram Un post condiviso da Jannik Sinner (@janniksin)
+- **Libero**: L'annuncio di Jannick Sinner: stagione 2026 finita, devo fermarmi 
+- **Il Messaggero**: Perché Sinner è fermo da Wimbledon? Il mistero del ginocchio, le visite e i dubbi sull’operazione Cosa ha davvero fermato Jannik Sinner? Il numero uno del mondo ha annunciato che non tornerà più in campo fino al prossimo anno per curare l'infiammazione al ginocchio. Una...
+- **Il Messaggero**: Sinner perderà il numero uno del ranking Atp, Zverev pronto al sorpasso: quanti punti perde e quali tornei salta Jannik Sinner tornerà ad impugnare la racchetta nel 2027. Dopo i numerosi forfait, da Montreal a Cincinnati fino agli Us Open e Shanghai, alla fine è arrivato il triste annuncio....
+- **Il Messaggero**: Sinner, stagione finita: torna nel 2027. L'annuncio: «Devo pensare alla mia carriera a lungo termine» La stagione di Jannik Sinner si chiude con largo anticipo. L’azzurro ha annunciato oggi, attraverso un video pubblicato sui propri canali social, che non tornerà in campo nel 2026. La...
+- **ANSA**: Tennis, Sinner chiude la stagione e saluta il primato Atp: Devo curarmi per il futuro' Tra privacy e dubbi il ginocchio non guarisce: Zverev diventerà il nuovo numero 1
+- **Adkronos**: Sinner salta le Atp Finals, i tifosi... rivendono i biglietti: "No Jannik, no tennis" Dopo l'annuncio del fuoriclasse azzurro, si sono moltiplicati in poche ore gli annunci per rivendere i tagliandi
+
+
+## 4. Garlasco, Sempio: “Non vivo più, la macchia dell’assassino non te la levi. Stasi? Condanna giusta”
+
+> **Context:** L’indagato per l’omicidio di Chiara Poggi a Porta a Porta: «Vivo chiuso in camera o dall’avvocato, i miei genitori hanno paura per me». Sull’impronta insanguinata: «Porto il 44, abbiamo provato una scarpa 42 e non mi entrava». E sulla vittima: «Nessuno può dire che avessi un interesse per lei»
+
+- **La Repubblica**: Andrea Sempio: “Chiuso in casa, ho paura. La macchia di assassino che se l’è cavata non si leva mai” L’indagato a Porta a Porta: “Il pensiero del carcere c’è, ma per me la condanna di Stasi è giusta. L’impronta non è mia, ho sempre portato scarpe 44”
+- **AGI**: Garlasco: Sempio, "non vivo più, ho paura. Spero di non affrontare il processo" "Spero di risolvere tutto in udienza preliminare, di non affrontare un vero e proprio processo con tutti i vari gradi. Perché per quanto uno si possa sentire sicuro poi deve riuscire a spiegare le cose in aula, e non è così automatico. Il pensiero che si possa arrivare al carcere c'è, ma francamente cerco di non pensare a questa eventualità". Lo ha detto Andrea Sempio intervistato a Porta a Porta, in onda stasera su Raiuno, parlando delle indagini sul caso Garlasco e chiarendo, tra le altre cose, che "l'impronta 33 per me non è attribuibile a me ne a nessun altro". "Ho paura, chi non l'avrebbe" Mentre sulla questione dell'impronta di una scarpa, "io ho sempre indossato il 44. Il 42 proprio non mi sta". "L'idea di essere coinvolto in una nuova indagine - ha confidato Sempio - non mi fa piacere, ma con i miei avvocati eravamo abbastanza pronti. Il bombardamento è costante. Accendi la tv c'è solo Garlasco, i social idem. Davanti a casa nostra ci sono giornalisti fissi tutto il giorno. Oggi non sto vivendo, sto o chiuso in camera o dall'avvocato o in trasferta per incontrare i consulenti. Ho paura, chi non l'avrebbe in questa situazione". La condanna di Stasi è stata un errore? Su questo Sempio è netto: "Secondo me no. La condanna è giusta. Quando sarà tutto finito sarà difficile ricostruirsi una vita. So che la macchia di assassino che se l'è cavata non te la levi. Purtroppo".
+- **Adkronos**: Garlasco, Sempio: "Condanna Stasi è giusta. Non sto vivendo, su tv e social solo il delitto" A 'Porta a Porta': "Ci sono cose che non mi convincono nel racconto alternativo che vedrebbe Stasi innocente. Spero non si arrivi al processo, scarpa numero 42 non mi sta"
+- **Il Messaggero**: Sempio a Porta a Porta: «Non vivo più, sono sotto bombardamento. La macchia di assassino che se l'è cavata non te la levi» «Si vive a fatica. E oggi io non sto vivendo, perché la mia vita o è chiuso in camera, o dall'avvocato, o in trasferta, quando magari andiamo ad incontrarci con i...
+- **La Stampa**: Garlasco, Sempio: “Non vivo più, la macchia dell’assassino non te la levi. Stasi? Condanna giusta” L’indagato per l’omicidio di Chiara Poggi a Porta a Porta: «Vivo chiuso in camera o dall’avvocato, i miei genitori hanno paura per me». Sull’impronta insanguinata: «Porto il 44, abbiamo provato una scarpa 42 e non mi entrava». E sulla vittima: «Nessuno può dire che avessi un interesse per lei»
+- **Libero**: Sempio a Porta a Porta: "Non sto vivendo, ho paura. La condanna di Stasi? Giusta" "Spero di risolvere tutto in udienza preliminare, di non affrontare un vero e proprio processo con tutti i vari gradi. Perché per quanto uno si possa sentire sicuro poi deve riuscire a spiegare le cose in aula, e non è così automatico. Il pensiero che si possa arrivare al carcere c'è, ma francamente cerco di non pensare a questa eventualità": Andrea Sempio lo ha detto nello studio di Bruno Vespa a Porta a Porta, nella puntata in onda questa sera, martedì 6 ottobre, su Rai 1. Il 37enne è indagato nell'ambito della inchiesta bis della Procura di Pavia sul delitto di Garlasco, ovvero sull'uccisione della 26enne Chiara Poggi nel 2007. Sempio, inoltre, riferendosi a una delle prove della nuova inchiesta, ha voluto chiarire che "l'impronta 33 per me non è attribuibile né a me né a nessun altro". Mentre sulla questione dell'impronta di una scarpa, ha precisato: "Io ho sempre indossato il 44. Il 42 proprio non mi sta". Parlando di quanto gli è successo, invece, ha ammesso: "L'idea di essere coinvolto in una nuova indagine non mi fa piacere, ma con i miei avvocati eravamo abbastanza pronti. Il bombardamento è costante. Accendi la tv c'è solo Garlasco, i social idem. Davanti a casa nostra ci sono giornalisti fissi tutto il giorno. Oggi non sto vivendo, sto o chiuso in camera o dall'avvocato o in trasferta per incontrare i consulenti. Ho paura, chi non l'avrebbe in questa situazione?". [[ge:kolumbus:liberoquotidiano:49311394]] Quando gli è stato chiesto se la condanna di Alberto Stasi, ex della vittima, sia stata un errore oppure no, Sempio è stato netto: "Secondo me no. La condanna è giusta, ci sono cose che non mi convincono nel racconto alternativo che lo vedrebbe innocente. Alcune cose sollevate non mi convincono, mi sembra che siano più logiche spiegate come sono state spiegate ai tempi. Quando sarà tutto finito sarà difficile ricostruirsi una vita. So che la macchia di assassino che se l'è cavata non te la levi. Purtroppo". Ha poi ricordato di avere parlato due volte al telefono con Chiara. "Se ci fosse stato qualcosa di particolare in quelle chiamate, ad esempio un disturbo, probabilmente l'avrebbe riferito o al fidanzato o al fratello o alla famiglia", ha affermato. Secondo Sempio, inoltre, non ci sarebbero persone in grado di confermare che lui avesse parlato di Chiara o che la ragazza avesse parlato di lui: un elemento che, a suo giudizio, non sostiene l'ipotesi di un suo particolare interesse nei confronti della vittima. Infine, sui video intimi di Chiara Poggi, ha dichiarato: "Non li ho mai visti, ho scoperto della loro esistenza attraverso i media". [[ge:kolumbus:liberoquotidiano:49308497]]
+
+
+## 5. Il Nobel per la Fisica a Francis Halzen
+
+- **La Repubblica**: Chi è Francis Halzen, vincitore del Nobel per la Fisica 2026 Lo scienziato ha ideato un osservatorio per i neutrini al Polo Sud. Lavora anche in Italia, nel Consiglio Scientifico del Gran Sasso Science Institute
+- **La Stampa**: Nobel per la Fisica 2026 al belga Francis Halzen per la scoperta dei neutrini cosmici L’anno scorso il riconoscimento era andato agli studi sul tunnel quantistico, utili per molte tecnologie di tutti i giorni
+- **ANSA**: Nobel per la Fisica a Francis Halzen per la scoperta dei neutrini cosmici Nato in Belgio nel 1944, lavora negli Stati Uniti, all'University of Wisconsin-Madison, ed è stato premiato per "i suoi contributi decisivi all'esperimento IceCube"
+- **Il Post**: Il Nobel per la Fisica a Francis Halzen 
+- **Libero**: Il Premio Nobel per la Fisica al belga Francis Halzen 
+- **Il Manifesto**: Il cubo di ghiaccio di Halzen e i neutrini ad alta energia Il belga Francis Halzen ha vinto il premio Nobel per la fisica del 2026. Lo scienziato è stato premiato per le rilevazioni sui neutrini realizzate all’osservatorio IceCube al Polo Sud. […] The post Il cubo di ghiaccio di Halzen e i neutrini ad alta energia first appeared on il manifesto.
+
+
+## 6. Vannacci, attacco omofobo contro Cerno: “Ha gusti invertiti”. La replica: “Non regge il confronto”
+
+> **Context:** L’ex generale al direttore de il Giornale: "Si è inventato che Futuro Nazionale voglia proibire a chi ha gusti omosessuali di comparire in televisione”. Il cda Rai: “Espressione discriminatoria”
+
+- **Adkronos**: Vannacci risponde a Cerno: "Di cosa si lamenta? Ha gusti invertiti, spazi in tv uguali per tutti" Il leader di Futuro Nazionale all'AdnKronos: "In fascia protetta la propaganda gender e omosessualista non deve poterla fare né chi ha gusti omosessuali né chi ha gusti eterosessuali"
+- **La Repubblica**: Vannacci, attacco omofobo contro Cerno: “Ha gusti invertiti”. La replica: “Non regge il confronto” L’ex generale al direttore de il Giornale: "Si è inventato che Futuro Nazionale voglia proibire a chi ha gusti omosessuali di comparire in televisione”. Il cda Rai: “Espressione discriminatoria”
+- **ANSA**: 'Cerno ha gusti invertiti', scontro Vannacci-Rai Interviene il Cda: 'Parole inaccettabili'. Il generale: 'Vogliono censurarmi?'
+- **Il Fatto Quotidiano**: L’offesa omofoba di Vannacci a Cerno: “Ha gusti invertiti, no alla propaganda omosessualista in tv”. La replica: “Mi insulta perché non ha argomenti” Tommaso Cerno torna in Rai, con 2 di Picche, ed ecco che scoppia la polemica con Roberto Vannacci. Il direttore de il Giornale, ieri, ha presentato la nuova stagione del programma di approfondimento sul secondo canale, in onda dal lunedì al venerdì alle 14, e ha citato il generale e il programma del suo partito, […] L'articolo L’offesa omofoba di Vannacci a Cerno: “Ha gusti invertiti, no alla propaganda omosessualista in tv”. La replica: “Mi insulta perché non ha argomenti” proviene da Il Fatto Quotidiano.
+- **Il Messaggero**: Vannacci, attacco omofobo a Cerno: «Ha gusti invertiti». La replica: «Insulti per deficit di contenuti» Tommaso Cerno «si è inventato che Futuro Nazionale voglia proibire a chi ha gusti omosessuali di comparire in tv. Non so se chi ha gusti invertiti abbia il patentino per sparare...
+
+
+## 7. Crans-Montana, Jessica Moretti chiede un’indennità per l’infortunio nell’incendio al Constellation
+
+> **Context:** La proprietaria del locale e la pratica per “perdita di guadagno causata da danni alla salute”
+
+- **La Repubblica**: Crans-Montana, Jessica Moretti chiede un’indennità per l’infortunio nell’incendio al Constellation La proprietaria del locale e la pratica per “perdita di guadagno causata da danni alla salute”
+- **La Stampa**: Crans-Montana, Jessica Moretti chiede l’indennità per i danni dell'incendio La legge svizzera prevede un rimborso per la perdita di guadagno. L’assicurazione sta valutando la pratica
+- **ANSA**: Crans-Montana, Jessica Moretti chiede indennità per infortunio nell'incendio Prevista dalla legge svizzera. L'assicurazione ha aperto la pratica per 'danni alla salute'
+- **Il Fatto Quotidiano**: Crans-Montana, un’indennità per Jessica Moretti? Chiesto risarcimento all’assicurazione per la “perdita di guadagno causata di danni alla salute” La proprietaria del Constellation di Crans-Montana, Jessica Moretti, indagata insieme al marito e altre persone per il rogo di Capodanno, potrebbe ricevere un’indennità giornaliera per la “perdita di guadagno causata dai danni alla salute” conseguenti all’incendio nel suo discobar, in cui morirono 41 persone tra cui sei giovanissimi italiani. La possibilità emerge dal dossier dell’inchiesta […] L'articolo Crans-Montana, un’indennità per Jessica Moretti? Chiesto risarcimento all’assicurazione per la “perdita di guadagno causata di danni alla salute” proviene da Il Fatto Quotidiano.
+- **Il Messaggero**: Crans Montana, Jessica Moretti chiede indennità per infortunio: ​«Dall'incendio danni alla salute, persi guadagni» Jessica Moretti, proprietaria del Constellation, potrebbe percepire un'indennità giornaliera per la «perdita di guadagno causata dai danni alla salute» conseguenti al rogo...
+
+
+## 8. Attentato di Modena, El Koudri tenta il suicidio in carcere. «Ha ingerito farmaci, ma non è in pericolo di vita»
+
+> **Context:** Ha tentato il suicidio in carcere Salim El Koudri, il 31enne che il 16 maggio ha investito 8 persone in centro a Modena, uccidendo una donna. Ha ingerito farmaci, è stato portato in...
+
+- **ANSA**: Attentato di Modena, El Koudri tenta il suicidio in carcere Ha ingerito farmaci, sarebbe fuori pericolo di vita
+- **AGI**: Auto sulla folla a Modena, El Koudry tenta il suicidio in carcere Avrebbe tentato il suicidio in carcere Salim El Koudry, il 31enne marocchino accusato di aver tentato di commettere una strage a Modena il 16 maggio. L'uomo avrebbe ingerito farmaci e si troverebbe ora in ospedale non in pericolo di vita. L'ingestione di farmaci e il ricovero a Modena A quanto si apprende da ambienti penitenziari e dal suo avvocato Fausto Gianelli, l'uomo avrebbe ingerito tutti i farmaci del compagno di cella che è cardiopatico. "È un tentativo di suicidio o comunque di autolesionismo", dichiara il legale ad Agi. Dopo sarebbe stato poco bene e sarebbe stato trasferito in ospedale in stato di incoscienza. Arrivato nel nosocomio modenese, dopo un po' sarebbe ritornato vigile ma viene trattenuto per accertamenti.
+- **Adkronos**: Modena, tenta il suicidio Salim El Koudri: nel maggio scorso investì 8 persone uccidendo una donna Avrebbe ingerito dei farmaci. Portato in ospedale, non sarebbe in pericolo di vita
+- **La Verità**: Auto sulla folla a Modena, El Koudri tenta il suicidio in carcere Il 31enne ha ingerito farmaci ed è stato portato in ospedale. Il 16 maggio aveva travolto otto persone in centro a Modena: una donna morì dopo due mesi. L'articolo Auto sulla folla a Modena, El Koudri tenta il suicidio in carcere proviene da La Verità.
+- **Il Messaggero**: Attentato di Modena, El Koudri tenta il suicidio in carcere. «Ha ingerito farmaci, ma non è in pericolo di vita» Ha tentato il suicidio in carcere Salim El Koudri, il 31enne che il 16 maggio ha investito 8 persone in centro a Modena, uccidendo una donna. Ha ingerito farmaci, è stato portato in...
+
+
+## 9. La Bulgaria: 'Due navi colpite da droni sulle coste del Mar Nero'. Una è affondata, l'equipaggio disperso
+
+> **Context:** Nella notte massiccio attacco di Kiev sulla regione di Mosca, due vittime. Raid russo su un ponte a Zaporizhia, 5 feriti
+
+- **La Repubblica**: Guerra Ucraina - Russia. Mar Nero, 3 navi colpite. Mosca: “Piani Nato portano a escalation” Massiccio attacco ucraino con 650 droni su Mosca: 2 morti. Dopo l’allarme degli 007 tedeschi, un piano Nato per gestire un'eventuale intrusione russa
+- **ANSA**: La Bulgaria: 'Due navi colpite da droni sulle coste del Mar Nero'. Una è affondata, l'equipaggio disperso Nella notte massiccio attacco di Kiev sulla regione di Mosca, due vittime. Raid russo su un ponte a Zaporizhia, 5 feriti
+- **Libero**: Bulgaria: due navi attaccate con droni nel Mar Nero, "inaccettabile" 
+- **Il Messaggero**: Bulgaria, due navi attaccate dai droni nel Mar Nero: una è affondata, l'equipaggio è disperso. Il premier: «Violate norme marittime» Alcuni droni hanno colpito due navi mercantili al largo delle coste della Bulgaria nel Mar Nero: lo annuncia il governo di Sofia. Una delle navi è affondata secondo quanto riferito dal...
+- **Il Manifesto**: Raid di droni su Mosca. Affondato un cargo nelle acque bulgare Mentre la Russia vuole rendere il Mar Nero inagibile per la navigazione e tagliare così una delle principali vie di esportazioni ucraine, Kiev continua ad attaccare Mosca con ondate massicce […] The post Raid di droni su Mosca. Affondato un cargo nelle acque bulgare first appeared on il manifesto.
+- **Il Messaggero**: Mar Nero, droni sulle navi: affondato un mercantile. Maxi-raid di Kiev su Mosca Nel pieno dell'escalation tra Russia e Ucraina, anche il Mar Nero è tornato al centro della guerra. Mosca vuole costringere Kiev a non avere più accesso al mare. Kiev, dal canto...
+
+
+## 10. Christa Pike, sopravvissuta a due iniezioni letali negli Usa, è cosciente e parla
+
+> **Context:** La donna, condannata a morte, ha ripreso conoscenza ed è in grado di parlare. I suoi legali definiscono il caso “senza precedenti”
+
+- **La Stampa**: Christa Pike, due iniezioni letali e il fallimento della pena di morte Christa Pike, 50 anni, è sopravvissuta a due iniezioni letali durante l’esecuzione della sua condanna a morte in Tennessee. Dopo quasi trent’anni nel braccio della morte, il 30 settembre è stata trasferita in ospedale, incosciente e attaccata a un respiratore. Il caso ha portato alla sospensione delle esecuzioni nello Stato e ha riaperto il dibattito sulla pena capitale negli Stati Uniti. In questa puntata ricostruiamo l’omicidio di Colleen Slemmer, la condanna di Pike, il fallimento dell’esecuzione e le domande che restano aperte: perché è sopravvissuta e il Tennessee potrà provare a giustiziarla di nuovo? Il mondo a pezzi è un podcast de La Stampa. Curato e condotto da Nicolas Lozito. La sigla musicale è di Maarten Schellekens. Per domande o consigli: nicolas.lozito@lastampa.it
+- **Adkronos**: Christa Pike sopravvissuta a due iniezioni letali, l'avvocato: "Resta priva di sensi, potrebbe non riprendersi completamente" Stephen Ferrell alla Cnn: "Pike è ancora ricoverata e priva di sensi". Avanzata la richiesta di commutare la pena in ergastolo
+- **La Repubblica**: Christa Pike, sopravvissuta a due iniezioni letali negli Usa, è cosciente e parla La donna, condannata a morte, ha ripreso conoscenza ed è in grado di parlare. I suoi legali definiscono il caso “senza precedenti”
+- **La Stampa**: Tennessee, Christa Pike è cosciente e parla dopo l’esecuzione fallita con due iniezioni “letali” La detenuta è sopravvissuta a due dosi di pentobarbital e resta ricoverata in ospedale. Gli avvocati: «La prognosi è ancora incerta, prevediamo una lunga convalescenza»
+- **ANSA**: Due iniezioni letali, Christa Pike ha ripreso conoscenza e parla Il legali della condannata a morte in Tennessee: uno sviluppo "senza precedenti"
+- **Adkronos**: Christa Pike sopravvissuta a due iniezioni letali, i legali: "E' sveglia e parla" La prognosi rimane ancora incerta, ma quel che appare già chiaro è che per la detenuta si prospetta un lungo e complesso percorso di riabilitazione
+- **Il Messaggero**: Christa Pike, la donna condannata a morte e sopravvissuta a due iniezioni letali «ha ripreso conoscenza e parla» Christa Pike, la donna sopravvissuta a due iniezioni letali, ha ripreso conoscenza e parla. Lo hanno reso noto i suoi avvocati che hanno definito questo ultimo uno sviluppo «senza...
+
+
+## 11. Diesel, da oggi il pieno costa di più: stop allo sconto sulle accise
+
+> **Context:** Salta il tetto al prezzo del gasolio a 2,19 euro al litro
+
 - **La Repubblica**: Accise, il governo ferma gli sconti. Le entrate extra in soccorso al bilancio Scade il taglio sul diesel da 6,1 centesimi al litro. Palazzo Chigi punta sul tetto ai prezzi fino a fine anno, il nodo del deficit frena l’utilizzo del gettito Iva di settembre
-- **La Stampa**: Da oggi stop allo sconto sul gasolio, scattano le accise mobili: come cambia il prezzo I consumatori: ma tagli e price cap introdotti dai marchi hanno portato a ribassi generalizzati
-- **ANSA**: Scattano accise sul gasolio più alte, nessun decreto in Gazzetta Non ci sono quelle mobili, per la prima volta da marzo nessun beneficio fiscale
-- **Il Post**: Da domani saranno applicate le accise mobili sul prezzo del gasolio 
-- **Il Manifesto**: Finito lo sconto fisso sul diesel, il governo si affida ai petrolieri Con la scadenza dello sconto fisso di 6,1 centesimi al litro sul gasolio, il governo rinuncia da oggi all’intervento diretto sui prezzi e passa alle cosiddette «accise mobili». Presentato come […] The post Finito lo sconto fisso sul diesel, il governo si affida ai petrolieri first appeared on il manifesto.
+- **La Repubblica**: Il governo spiazzato dagli aumenti del gasolio, il taglio delle accise torna sul tavolo Dopo la mancata proroga alla scadenza di mezzanotte, ora l’esecutivo pensa ad allungare gli sconti sui carburanti
+- **La Repubblica**: Diesel, salta lo sconto sulle accise da 6,1 centesimi. E sale anche il tetto ai prezzi di Eni La compagnia non assorbirà le tasse, come aveva precisato già al momento dell’annuncio. L’effetto sulla rete nazionale è di due millesimi di euro
+- **La Stampa**: Diesel, da oggi il pieno costa di più: stop allo sconto sulle accise Salta il tetto al prezzo del gasolio a 2,19 euro al litro
+- **ANSA**: Da oggi accise sul gasolio più alte. Eni aumenta il prezzo alla pompa Sul diesel +6,1 centesimi. Ira dei consumatori. Leo. ragioniamo sulle accise mobili
+- **Il Manifesto**: Diesel, il bluff del tetto al prezzo. Finito lo spot riparte l’aumento Eni ha alzato il prezzo del diesel da 2,19 a 2,25 euro al litro perché il governo Meloni non ha rinnovato lo sconto fiscale da 6,1 centesimi. Questo significa che […] The post Diesel, il bluff del tetto al prezzo. Finito lo spot riparte l’aumento first appeared on il manifesto.
+- **Il Messaggero**: Diesel, sale il prezzo: il governo in pressing per bloccare i rialzi. Trattativa con Eni e le altre compagnie Il rialzo delle accise era stato messo in conto. Che questo facesse salire anche il tetto ai prezzi dei carburanti deciso dalla compagnie petrolifere invece no. Ma quando ieri mattina il...
 
 
-## 5. Yara, no a Bossetti sulle nuove analisi. I genitori: «Si vuole una Garlasco 2, fare il possibile per evitarlo»
+## 12. Francia, la protesta degli studenti: cassonetti in fiamme e scontri con la polizia
 
-> **Context:** La Corte d’Assise di Bergamo ha respinto la richiesta della difesa di Massimo Bossetti di effettuare nuove analisi sui reperti e sui campioni biologici ancora esistenti del caso Yara...
-
-- **La Repubblica**: Yara, giudici rigettano la richiesta di nuove analisi. I genitori: “Evitare un caso Garlasco 2” La Corte d’Assise di Bergamo si è espressa sull’istanza avanzata dai legali di Massimo Bossetti. La famiglia della vittima si era opposta a nuove indagini
-- **La Stampa**: Caso Yara, i legali dei Gambirasio: “Non si faccia una Garlasco 2” La Corte di Assise di Bergamo rigetta l’istanza dei legali di Bossetti che annunciano di voler impugnare il diniego. Chiedono ai giudici di rianalizzare le tracce genetiche che portarono a Ignoto 1
-- **AGI**: Caso Yara: i giudici bocciano l'istanza di Bossetti, no a nuove analisi La Corte d'Assise di Bergamo ha respinto l'istanza della difesa di Massimo Bossetti, condannato all'ergastolo per l'omicidio di Yara Gambirasio, di svolgere nuove analisi sui reperti dell'indagine. "Come ho fatto notare alla Corte ci sono voluti sette anni per vedere le foto, otto anni di ricorsi per Cassazione, oltre 400 pagine di atti solo nella fase esecutiva per arrivare a discutere oggi. Evidentemente c'è qualcosa di grosso nelle carte. Andremo avanti, sicuramente in Cassazione" è il commento dell'avvocato Claudio Salvagni.
-- **Libero**: Yara Gambirasio, per Bossetti è game over? "La Corte ha detto no" La Corte d'Assise di Bergamo (quale giudice dell'esecuzione) ha respinto la richiesta della difesa di Massimo Bossetti, condannato in via definitiva all'ergastolo per l'omicidio di Yara Gambirasio, di procedere allo svolgimento "di accertamenti tecnico-scientifici su reperti e campioni biologici tuttora esistenti". L'iniziativa dei legali, gli avvocati Claudio Salvagni e Paolo Camporini, era emersa solo dopo la recente consegna alla difesa della documentazione fotografica ad alta risoluzione realizzata dal Ris di Parma durante le indagini. Dopo il no, arrivato a poche ore dall'udienza, è possibile il ricorso da parte dei legali. [[ge:kolumbus:liberoquotidiano:49214955]] Nel primo pomeriggio di lunedì la Corte d'Assise si era riservata di decidere se concedere o meno la ripetizione delle analisi dei reperti delle indagini. Bossetti, il muratore di Mapello che secondo la giustizia italiana ha ucciso la 13enne scomparsa da Brembate di Sopra il 26 novembre 2010 e ritrovata assassinata il 26 febbraio 2011, era collegato in video dal carcere di Bollate, dov'è detenuto. [[ge:kolumbus:liberoquotidiano:49227994]] In aula erano presenti i suoi legali, che nell'udienza in camera di consiglio hanno avanzato due questioni procedurali, la metodologia di estrazione del Dna dalla traccia '31G20', quella del sangue misto di Yara e Bossetti, nonché la prova regina che ha portato alla condanna all'ergastolo, e tracce genetiche, secondo la difesa di liquido seminale, repertate sul giubbotto di Yara. I reperti furono già analizzati, ma non in loro presenza, visto che Bossetti venne individuato quattro anni dopo l'omicidio di Yara. La Corte d'Assise aveva finora autorizzato la visione dei reperti, senza consentire nuove analisi, nei limiti stabiliti dalla Cassazione nel 2024.
-- **Il Messaggero**: Yara, no a Bossetti sulle nuove analisi. I genitori: «Si vuole una Garlasco 2, fare il possibile per evitarlo» La Corte d’Assise di Bergamo ha respinto la richiesta della difesa di Massimo Bossetti di effettuare nuove analisi sui reperti e sui campioni biologici ancora esistenti del caso Yara...
-
-
-## 6. Nobel per la Medicina a Delsseroth, Hegemann e Nagel: premiati per gli studi sulla optogenetica
-
-> **Context:** Il premio Nobel per la Medicina o la Fisiologia 2026 è stato assegnato a Karl Deisseroth (Usa), Peter Hegemann (Germania) e Georg Nagel (Germania) «per le loro scoperte relative ai...
-
-- **ANSA**: Il Nobel per la Medicina 2026 a Deisseroth, Hegemann e Nagel Per avere gettato le basi dell'optogenetica
-- **Il Post**: Il Nobel per la Medicina a Karl Deisseroth, Peter Hegemann e Georg Nagel 
-- **Libero**: Premio Nobel per la medicina a tre scienziati per studio sul cervello 
-- **Il Manifesto**: Nobel della Medicina, premiata l’optogenetica Il premio Nobel per la medicina e la fisiologia è stato assegnato ieri allo statunitense Karl Deisseroth e ai tedeschi Peter Hegemann e Georg Nagel per la scoperta dell’optogenetica, un […] The post Nobel della Medicina, premiata l’optogenetica first appeared on il manifesto.
-- **Il Messaggero**: Nobel per la Medicina a Delsseroth, Hegemann e Nagel: premiati per gli studi sulla optogenetica Il premio Nobel per la Medicina o la Fisiologia 2026 è stato assegnato a Karl Deisseroth (Usa), Peter Hegemann (Germania) e Georg Nagel (Germania) «per le loro scoperte relative ai...
+- **La Repubblica**: Francia, gli studenti tornano in piazza: scontri con la polizia a Strasburgo, 8 arresti a Lione Nuove manifestazioni dopo quelle del fine settimana, degenerate in violenza. A Parigi studenti bloccano le strade
+- **ANSA**: Via alle manifestazioni degli studenti in Francia, tensione in diverse città A Lione, Marsiglia, Strasburgo, gruppi contro la polizia. Idranti e lacrimogeni
+- **ANSA**: Il terzo atto delle proteste studentesche in Francia - FOTODIRETTA Continua la mobilitazione, manifestazioni nelle grandi città del Paese
+- **Libero**: Francia, la protesta degli studenti: cassonetti in fiamme e scontri con la polizia 
+- **Libero**: Francia, ministro Geffray: elementi violenti infiltrati tra liceali 
+- **ANSA**: Cortei e scontri, torna l'onda degli studenti in tutta la Francia Da Parigi a Lione la protesta pacifica rovinata dai black bloc. Macron convoca i ministri
+- **Il Post**: Le grandi proteste degli studenti in tutta la Francia 
+- **Libero**: Proteste degli studenti anche in Belgio, manifestazioni a Liegi 
+- **Libero**: Francia, violenti scontri a Parigi fra polizia e manifestanti 
+- **Il Messaggero**: Caos in Francia, scontri e cariche: in piazza mezzo milione di studenti. Vertice d'emergenza all'Eliseo «Trop jeunes pour voter, assez grands pour se faire gazer». In francese significa «troppo giovani per votare, abbastanza grandi per essere colpiti dai gas lacrimogeni». Era...
 
 
-## 7. L’Italia rimette a posto il girone di Nations League: Turchia battuta 3-1
+## 13. Conte: «Ho proposto a Schlein un passo indietro, ha detto no. Acceleriamo sulle primarie»
 
-> **Context:** Al Dall'Ara di Bologna decidono i gol di Scamacca, Calafiori e Pio Esposito. Scavalcato il Belgio al secondo posto in vista delle ultime due sfide di novembre contro Francia e Diavoli Rossi. L'articolo L’Italia rimette a posto il girone di Nations League: Turchia battuta 3-1 proviene da La Verità.
+> **Context:** Fare entrambi un passo indietro in favore di un federatore. Magari il sindaco di Roma, Roberto Gualtieri. Eccola, la proposta che Giuseppe Conte ha recapitato a Elly Schlein. L'aveva fatto...
 
-- **ANSA**: Nations League: l'Italia chiude in bellezza, a Bologna è 3-1 alla Turchia Prima vittoria in casa per Mancini, ora azzurri secondi del girone
-- **Adkronos**: Nations League, Italia-Turchia 3-1: a segno Scamacca, Calafiori e Pio Esposito Gli azzurri salgono al secondo posto nel gruppo A alle spalle della Francia
-- **Il Fatto Quotidiano**: L’Italia batte la Turchia e scopre nuove certezze: Pio Esposito spietato, Vergara talento e Doumbia sorprende. Ora i quarti di Nations League non sono più un miraggio Quattro cose belle nella serata di Bologna, più complicata del previsto, nonostante il risultato: il 3-1 contro la Turchia, il 4-1 della Francia in rimonta contro il Belgio (1-1 di Doué al 77’, 2-1 di Cherki all’81’, doppietta di Olise all’88’ e al 91’), il secondo posto in classifica che rende una missione non impossibile […] L'articolo L’Italia batte la Turchia e scopre nuove certezze: Pio Esposito spietato, Vergara talento e Doumbia sorprende. Ora i quarti di Nations League non sono più un miraggio proviene da Il Fatto Quotidiano.
-- **La Verità**: L’Italia rimette a posto il girone di Nations League: Turchia battuta 3-1 Al Dall'Ara di Bologna decidono i gol di Scamacca, Calafiori e Pio Esposito. Scavalcato il Belgio al secondo posto in vista delle ultime due sfide di novembre contro Francia e Diavoli Rossi. L'articolo L’Italia rimette a posto il girone di Nations League: Turchia battuta 3-1 proviene da La Verità.
-- **Il Messaggero**: Italia-Turchia 3-1, le pagelle: Calafiori (6,5) vola di testa, Doumbia (7) talentuoso, Pio Esposito (6,5) punto di riferimento L'Italia batte la Turchia anche nella gara di ritorno al Renato Dall'Ara. Dopo il 4-1 dell'andata, gli azzurri di Roberto Mancini si impongono 3-1 grazie ai gol di Scamacca, Calafiori...
-
-
-## 8. "Io sono Giorgia Meloni". La premier registra il suo marchio vocale contro i cloni IA e i deepfake
-
-> **Context:** La presidente del Consiglio si rivolge all'Ufficio dell'Unione europea per la proprietà intellettuale e deposita il suo timbro
-
-- **Il Sole Ventiquattro Ore**: «Io sono Giorgia Meloni»: la premier registra la sua voce all’ufficio marchi contro i fake Quattro secondi in cui viene detto: «Io sono Giorgia Meloni». La presidente del Consiglio ha registrato oggi, 5 ottobre 2026, l’audio da sottoporre all’esame dell’Ufficio dell’Unione europea per la proprietà...
-- **La Repubblica**: "Io sono Giorgia Meloni". La premier registra il suo marchio vocale contro i cloni IA e i deepfake La presidente del Consiglio si rivolge all'Ufficio dell'Unione europea per la proprietà intellettuale e deposita il suo timbro
-- **La Stampa**: Giorgia Meloni deposita la sua voce: “Una difesa dai deepfake della rete” L’esperta: “Utilizzarla è già un reato, ma l’intelligenza artificiale ha cambiato tutto”
-- **La Stampa**: “Io sono Giorgia Meloni”. La premier registra il suo marchio vocale per proteggersi dai deepfake La presidente del Consiglio si rivolge all'Ufficio dell'Unione europea per la proprietà intellettuale e deposita il suo timbro
-- **ANSA**: Il voto a maggio più vicino, e Meloni tutela la sua voce dai deepfake Malan si sbilancia sull'election day, poi puntualizza: 'Fatte salve prerogative del Colle'
-- **ANSA**: Deepfake audio, per realizzarli servono tre secondi di voce vera e 30 euro Meloni registra la voce all'ufficio marchi Ue. Le manipolazioni hanno finalità politica e frode
-- **Il Messaggero**: «Io sono Giorgia Meloni», la premier registra il suo marchio vocale: mossa contro cloni Ai e deepfake «Io sono Giorgia Meloni». La presidente del Consiglio ha registrato oggi un audio di quattro secondi con queste quattro parole all'Euipo, l'Ufficio dell'Unione europea per...
+- **ANSA**: Conte: 'Schlein indisponibile ad un passo indietro, ma affrettiamoci sulle primarie' 'L'ho invitata a valutare terza figura. Probabile voto in primavera, noi pronti per il programma'
+- **Il Fatto Quotidiano**: Conte a La7: “Ho incontrato Schlein e le ho proposto un passo indietro collettivo per dare all’elettorato un nome terzo, ma ha rifiutato” “Con Elly Schlein ci siamo visti anche altre volte, ma non nego il nostro recentissimo incontro. Per scrupolo ho voluto fare un ultimo tentativo per valutare se c’era disponibilità a consentire un passo indietro a tutti i leader di partito, me compreso ovviamente, per proporre all’accettazione dell’elettorato una terza figura. Non ho fatto nomi, perché […] L'articolo Conte a La7: “Ho incontrato Schlein e le ho proposto un passo indietro collettivo per dare all’elettorato un nome terzo, ma ha rifiutato” proviene da Il Fatto Quotidiano.
+- **Il Messaggero**: Conte: «Ho proposto a Schlein un passo indietro, ha detto no. Acceleriamo sulle primarie» Fare entrambi un passo indietro in favore di un federatore. Magari il sindaco di Roma, Roberto Gualtieri. Eccola, la proposta che Giuseppe Conte ha recapitato a Elly Schlein. L'aveva fatto...
+- **Il Manifesto**: Conte insiste: «Volevo un federatore» Altro che accordo sulle primarie. Ieri Giuseppe Conte è tornato a ribadire che, anche recentemente, ha proposto a Schlein un comune passo indietro dalla leadership della coalizione, ricevendo un rifiuto. […] The post Conte insiste: «Volevo un federatore» first appeared on il manifesto.
 
 
-## 9. Via Malagò, arriva Malagò: la via d’uscita del Coni per il commissariamento della Figc
+## 14. Djokovic torna a vincere: De Minaur si ritira e il serbo conquista per la settima volta Pechino
 
-> **Context:** Domani la Giunta decisiva: questa soluzione eviterebbe un braccio di ferro ai voti scongiurando la spaccatura nel sistema
+> **Context:** Titolo numero 102 in carriera per il 39enne serbo
 
-- **La Repubblica**: Via Malagò, arriva Malagò: la via d’uscita del Coni per il commissariamento della Figc Domani la Giunta decisiva: questa soluzione eviterebbe un braccio di ferro ai voti scongiurando la spaccatura nel sistema
-- **Adkronos**: Incontro Buonfiglio-Malagò prima della Giunta, ipotesi n.1 Figc commissario La soluzione del caso tesseramento sembra vicina ad una soluzione
-- **Il Fatto Quotidiano**: Caos tesseramento, l’ultima ipotesi è Malagò commissario. Lega Serie A: “Inopportuno mettere la Figc in amministrazione straordinaria, si rischia il caos” L’eventuale commissariamento della Figc è “del tutto inopportuno” e rischia di “condurre nel caos il calcio, in una fase delicatissima”. Questo il contenuto in estrema sintesi della nota ufficiale pubblicata dalla Lega Serie A dopo la riunione di oggi tra le società, alla vigilia della Giunta Coni, in programma domani a Roma sull’ipotesi di commissariamento […] L'articolo Caos tesseramento, l’ultima ipotesi è Malagò commissario. Lega Serie A: “Inopportuno mettere la Figc in amministrazione straordinaria, si rischia il caos” proviene da Il Fatto Quotidiano.
-- **Il Messaggero**: Buonfiglio cede a Malagò: «Farai tu il commissario» La paura di perdere, qualche volta, rende prudenti. Altre volte saggi. E così, con un colpo di coda alla vigilia del voto che avrebbe potuto spaccare la Giunta del Coni, ieri Luciano...
-
-
-## 10. Cresce la paura per la peste in Siberia, gli Usa: 'Vigiliamo'
-
-> **Context:** Mosca rassicura dopo la morte di una ricercatrice, 'non date retta alle dicerie'
-
-- **ANSA**: Cresce la paura per la peste in Siberia, gli Usa: 'Vigiliamo' Mosca rassicura dopo la morte di una ricercatrice, 'non date retta alle dicerie'
-- **Adkronos**: Peste polmonare, Russia nega tutto: "Solo fake news, è polmonite". Trump: "Li aiuteremo" Il Cremlino e l'agenzia di sanità pubblica: "Un caso di polmonite sconosciuta, situazione è tranquilla"
-- **Il Post**: Cosa sappiamo del presunto caso di peste polmonare in Siberia 
-- **Il Messaggero**: Peste polmonare, allarme in Europa. Bassetti: «Assomiglia al Covid, ti contagi in 2 giorni. Non c'è vaccino». Sintomi e come si trasmette «Non escluderei che ci possano essere stati altri contagi», avverte il medico infettivologo Matteo Bassetti sulla peste polmonare. L'allarme è scattato anche in Europa,...
+- **Adkronos**: Djokovic torna a vincere: De Minaur si ritira e il serbo conquista per la settima volta Pechino Titolo numero 102 in carriera per il 39enne serbo
+- **La Repubblica**: Djokovic vince per la settima volta a Pechino, titolo numero 102 in carriera. Festa Alcaraz a Tokyo Il 39enne serbo trionfa approfittando del ritiro di De Minaur nel secondo set. In Giappone lo spagnolo batte Lehecka
+- **La Stampa**: Djokovic e l’incantesimo di Pechino dove non ha mai perso. Da 21 anni vince almeno un titolo Atp De Minaur si ritira nel 2° set. Il torneo cinese è suo per la settima volta, il primo nel 2026
+- **Il Messaggero**: Djokovic da record: vince l'Atp 500 di Pechino, trofeo numero 102 in carriera. Davanti solo Connors e Federer Pechino resta una terra inviolabile per Novak Djokovic. Il serbo conquista il titolo dell'ATP 500 di Pechino 2026 e lo fa senza nemmeno dover completare la finale: Alex de Minaur è...
 
 
-## 11. Bolsonaro jr batte Lula al primo turno: “Il cambio è iniziato”
+## 15. Oms: rischio moderato Siberia, molto basso per Europa dopo caso peste
 
-> **Context:** Il leader dell’opposizione ha preso due milioni di voti in più e ha perso solo nel povero Nordest, tradizionale roccaforte della sinistra
-
-- **La Repubblica**: Bolsonaro è un clan: 4 gli eletti. Occhi puntati su Michelle, paladina dei pentecostali Otto membri della famiglia erano candidati in tutto il Paese. Il risultato conferma che la base esiste oltre il fondatore. Protagonista è l’ex moglie del patriarca
-- **La Stampa**: Bolsonaro jr batte Lula al primo turno: “Il cambio è iniziato” Il leader dell’opposizione ha preso due milioni di voti in più e ha perso solo nel povero Nordest, tradizionale roccaforte della sinistra
-- **ANSA**: Bolsonaro a un passo dalla presidenza, Trump: una 'grande vittoria' A Lula servirà un miracolo. La destra conquista il Parlamento, annus horribilis della sinistra sudamericana
-- **Il Manifesto**: Lula resiste. Ma il “clan Bolsonaro” è pronto a prendersi il Brasile Al primo turno delle presidenziali in Brasile, Flávio Bolsonaro — primogenito dell’ex presidente Jair — ha chiuso in testa con il 47,03% dei consensi, staccando di quasi due punti il […] The post Lula resiste. Ma il “clan Bolsonaro” è pronto a prendersi il Brasile first appeared on il manifesto.
-
-
-## 12. Italia U21 straripante: 6-2 alla Polonia e pass diretto per gli Europei. Gol di Ndour da 70 metri
-
-> **Context:** Dominio degli azzurrini: sblocca Koleosho, poi doppietta di Ndour. Segnano anche Lipani, Fini e Cherubini
-
-- **La Repubblica**: Italia U21 straripante: 6-2 alla Polonia e pass diretto per gli Europei. Gol di Ndour da 70 metri Dominio degli azzurrini: sblocca Koleosho, poi doppietta di Ndour. Segnano anche Lipani, Fini e Cherubini
-- **Adkronos**: L'Italia Under 21 vola a Euro 2027: gli azzurrini travolgono 6-2 la Polonia Gli azzurrini superano i pari età polacchi all'Adriatico di Pescara con i gol di Koleosho, Lipani, Fini e Cherubini e la doppietta di Ndour
-- **Libero**: L'Italia Under 21 travolge la Polonia, Ndour gol da 70 metri: delirio Baldini, ci porta agli Europei Serviva una vittoria con 2 gol di scarto all'Italia Under 21 per la qualificazione diretta agli Europei di categoria. E i ragazzi del ct Silvio Baldini hanno fatto le cose in grande, travolgendo 6-2 la forte Polonia con una partita più che perfetta. Travolgente, spettacolare. Come l'incredibile gol del 3-0 firmato da uno strepitoso Ndour. Il centrocampista della Fiorentina, numero 10 e fascia da capitano sul braccio, ha segnato con un pazzesco tiro dalla sua metà campo, con una ripartenza appena abbozzata e concretizzata con una bordata da oltre 70 metri a sorprendere il povero portiere polacco. L'apoteosi, per il pubblico di Pescara e la panchina azzurra, al centro di una partita praticamente senza storia. L'Italia è avanti già nel primo tempo con Koleosho al 16' e Ndour al 26'. Nella ripresa, dopo la doppietta del centrocampista, a segno anche Lipani al 59', Fini al 66' e Cherubini all'86'. Per la Polonia gol della bandiera di Mikolajewski al 65' e Zewlakow all'85'. Gli azzurrini chiudono così il girone al primo posto con 27 punti alla pari della Polonia, ma si qualifica direttamente per la fase finale degli Europei del prossimo anno, in Albania e Serbia, grazie al vantaggio nella differenza reti. "Questi sono ragazzi speciali e meritano queste soddisfazioni. Hanno fatto due settimane da grandi professionisti, senza risparmiare fatiche. Dopo la partita vinta all'ultimo secondo era un segno del destino. Dobbiamo ringraziare le stelle che sono state dalla nostra parte", le parole di Baldini a RaiSport, tornato ai suoi "ragazzini" dopo l'interim alla guida della Nazionale maggiore per due partite lo scorso giugno (e due vittorie) al posto di Gennaro Gattuso e prima di Roberto Mancini. "Ho detto ai miei ragazzi ieri che qui a Pescara esiste la magia, il pubblico ci ha trasmesso grande energia. Dedico la vittoria ai miei giocatori".
-- **Il Messaggero**: Ndour, chi è il protagonista dell'Italia U21: età, altezza, carriera, stipendio, ruolo e caratteristiche Nella partita decisiva l'Italia U21 di Silvio Baldini travolge 6-2 la Polonia e stacca il pass per gli Europei. A segno Koleosho, Lipani, Fini e Cherubini ma a spiccare...
+- **ANSA**: Rubio a Mosca: 'Condivida le informazioni sulla peste in Siberia' 'Qualsiasi caso di infezione in laboratorio desta preoccupazione dopo la pandemia'. L'Oms monitora la situazione
+- **Libero**: Trump su caso di peste polmonare in Russia: Microbi sono più forti. Siamo pronti ad aiutare 
+- **Libero**: Peste polmonare in Siberia, l'offerta choc di Trump a Putin 
+- **Libero**: Oms: rischio moderato Siberia, molto basso per Europa dopo caso peste 
+- **Il Messaggero**: Peste polmonare, ex dirigente del programma russo di armi biologiche: «Rischio che resista ad antibiotici. Ecco cosa mi spaventa» Il mistero si infittisce attorno alla morte di una giovane ricercatrice in Siberia e alla possibile presenza di un focolaio di peste polmonare. Le autorità russe hanno escluso finora che vi...
+- **Adkronos**: Peste polmonare, l'avviso dell'ambasciata Usa: "Lasciate la Russia" Il messaggio fa riferimento al presunto caso di peste polmonare che avrebbe provocato la morte di una 28enne in un laboratorio nella regione siberiana di Irkutsk
+- **Adkronos**: Peste in Siberia, Burioni sui social: "Non è preoccupante, ma può diventarlo" Il virologo commenta il sospetto caso di peste in Russia: "Un singolo caso non preoccupa, ma il contesto in cui è avvenuto merita attenzione"
 
 
-## 13. Atp Pechino, Medvedev colpisce un tifoso con una pallina: squalificato
+## 16. Von der Leyen: 'Lanceremo una task force per aggregare la domanda di energia in Ue'
 
-> **Context:** Il russo sanzionato durante la semifinale con Djokovic: il serbo era a tre punti dalla vittoria
+> **Context:** La presidente della Commissione: 'Subiamo tutti l'impatto dei costi, in inverno la situazione potrebbe aggravarsi'
 
-- **La Stampa**: Medvedev, follia a Pechino: colpisce uno spettatore con una pallata, Djokovic in finale Una pallata in tribuna chiude anzitempo la semifinale di Pechino tra Daniil Medvedev e Novak Djokovic. Il russo, sotto 7-5, 5-3, colpisce una palla rimbalzata e centra all’occhio uno spettatore in prima fila, poi accompagnato fuori dallo staff. Il giudice di sedia decreta la squalifica di Medvedev e manda Djokovic in finale contro Alex de Minaur. «Spero che non sia gravemente ferito», dice il serbo, che agli Us Open 2020 era stato squalificato per un episodio simile.
-- **La Stampa**: Atp Pechino, Medvedev colpisce un tifoso con una pallina: squalificato Il russo sanzionato durante la semifinale con Djokovic: il serbo era a tre punti dalla vittoria
-- **ANSA**: Scaglia la pallina contro un tifoso, Medvedev squalificato e Djokovic è in finale Gesto di stizza del russo, colpito uno spettatore a Pechino. A Tokyo Alcaraz per il titolo
-- **Il Fatto Quotidiano**: Follia a Pechino: Medvedev colpisce uno spettatore e viene squalificato. Djokovic in finale: “Scioccante” Daniil Medvedev squalificato e Novak Djokovic in finale all’Atp 500 di Pechino. È il clamoroso epilogo del match tra il serbo e il russo, seconda semifinale del torneo che si è interrotta su una situazione di punteggio di 7-5, 5-3 a favore di Djokovic. Sul 15-15 del nono gioco del secondo set, in un momento […] L'articolo Follia a Pechino: Medvedev colpisce uno spettatore e viene squalificato. Djokovic in finale: “Scioccante” proviene da Il Fatto Quotidiano.
-- **Il Messaggero**: Djokovic-De Minaur, la finale dell'Atp di Pechino: dove vederla (tv e streaming), orario e precedenti Novak Djokovic è ancora vivo. Dopo le enormi difficoltà mostrate negli ultimi mesi, il campione serbo ha trovato ancora qualche asso nella manica da giocare ed è riuscito a...
+- **La Repubblica**: Von der Leyen: “Lanceremo una task force europea per acquistare energia. Sostegni siano mirati” “Il nostro ruolo è fornire agli Stati membri gli strumenti e la flessibilità necessari per reagire”, afferma in plenaria a Strasburgo la presidente della Commissione europea
+- **ANSA**: Von der Leyen: 'Lanceremo una task force per aggregare la domanda di energia in Ue' La presidente della Commissione: 'Subiamo tutti l'impatto dei costi, in inverno la situazione potrebbe aggravarsi'
+- **Il Manifesto**: Ursula von der Leyen lancia una task force per l’energia La flessibilità di bilancio per attutire l’impatto del caro-energia non figura formalmente nell’agenda dell’Ecofin di questo venerdì a Lussemburgo. Non significa che la richiesta italiana sia uscita dal tavolo, come […] The post Ursula von der Leyen lancia una task force per l’energia first appeared on il manifesto.
 
 
-## 14. Legge elettorale: fiducia su 3 articoli, opposizione protesta. Tutte le tappe prima del voto finale
+## 17. Lavoratori irregolari e riciclaggio, maxi-operazione della Gdf tra Ravenna e San Marino
 
-> **Context:** L’ultimo atto del Melonellum è previsto, a scrutinio segreto, giovedì 8 ottobre con dichiarazioni in diretta tv. Malan (FdI): “Elezioni? Potrebbero aver senso a maggio con le Comunali”
+> **Context:** Un sequestro preventivo di denaro e di beni mobili e immobili per circa 37 milioni di euro e oltre 40 perquisizioni in nove province su tutto il territorio nazionale, da...
 
-- **Il Sole Ventiquattro Ore**: Legge elettorale: il governo pone la fiducia su tre articoli chiave. Giovedì voto finale Giovedì, 8 ottobre a partire dalle 10.30 si svolgeranno le dichiarazioni di voto finale sul provvedimento in diretta tv: la votazione finale è prevista non prima delle ore 12.30
-- **La Repubblica**: Legge elettorale: fiducia su 3 articoli, opposizione protesta. Tutte le tappe prima del voto finale L’ultimo atto del Melonellum è previsto, a scrutinio segreto, giovedì 8 ottobre con dichiarazioni in diretta tv. Malan (FdI): “Elezioni? Potrebbero aver senso a maggio con le Comunali”
-- **Il Manifesto**: Melonellum a un passo. Si vota con la fiducia e sotto «sorveglianza» Il governo ha posto ieri alla Camera la fiducia su tre articoli della legge elettorale su cui insistevano gli emendamenti delle opposizioni. Da oggi alle 14 si apre dunque la […] The post Melonellum a un passo. Si vota con la fiducia e sotto «sorveglianza» first appeared on il manifesto.
-
-
-## 15. Meloni chiama l'ad di Ericsson, ritirati i licenziamenti
-
-> **Context:** Tavolo al Mimit su Electrolux, l'azienda cambia il piano, prevede 1.250 uscite volontarie
-
-- **La Stampa**: Genova, Meloni chiama l’ad di Ericsson e l’azienda ritira i 131 licenziamenti La vertenza era nata dalla decisione di avviare una procedura collettiva nell'ambito di un processo di riorganizzazione aziendale
-- **ANSA**: Meloni chiama l'ad di Ericsson, ritirati i licenziamenti Tavolo al Mimit su Electrolux, l'azienda cambia il piano, prevede 1.250 uscite volontarie
-- **Il Manifesto**: Electrolux cambia piano: le uscite sono «volontarie» Non più licenziamenti ma uscite volontarie. L’Electrolux ieri ha presentato un nuovo piano industriale al tavolo del ministero delle Imprese con le parti sociali e gli enti locali. La multinazionale […] The post Electrolux cambia piano: le uscite sono «volontarie» first appeared on il manifesto.
+- **Il Sole Ventiquattro Ore**: Lavoratori irregolari e riciclaggio, maxi-operazione della Gdf tra Ravenna e San Marino Un sequestro preventivo di denaro e di beni mobili e immobili per circa 37 milioni di euro e oltre 40 perquisizioni in nove province su tutto il territorio nazionale, da...
+- **Libero**: Manodopera illecita e riciclaggio, sequestri per 37 milioni in diverse province 
+- **La Verità**: Frode fiscale e riciclaggio, la Gdf sequestra 37 milioni La Guardia di Finanza di Ravenna ha sequestrato beni e disponibilità finanziarie per circa 37 milioni di euro nell’ambito di un’inchiesta su una presunta frode fiscale e sul successivo riciclaggio dei profitti illeciti. L'articolo Frode fiscale e riciclaggio, la Gdf sequestra 37 milioni proviene da La Verità.
 
 
-## 16. Ora Sam Altman ha cambiato un po’ idea sui rischi dell’intelligenza artificiale
+## 18. Trump approva la fucilazione per l'autore della strage nella base di Fort Hood
 
-- **La Stampa**: OpenAI, si dimette il responsabile della sicurezza: “La velocità viene prima della prudenza” Il caso riapre una questione che va oltre la società di Sam Altman: chi deve stabilire i limiti quando le decisioni di un’impresa tecnologica possono produrre conseguenze collettive?
-- **ANSA**: Siamo pronti per "l'esplosione dell'intelligenza" artificiale? La domanda in un working paper di Cambridge, anni di progressi verrebbero compressi in pochi mesi
-- **Il Post**: Ora Sam Altman ha cambiato un po’ idea sui rischi dell’intelligenza artificiale 
+> **Context:** Nidal Hasan nel 2009 uccise 13 persone e ne ferì 32
 
-
-## 17. Nuovo allarme degli 007 tedeschi, l'Estonia sposta le truppe
-
-> **Context:** L'intelligence di Berlino: Mosca sta conducendo una 'guerra ombra' contro la Germania
-
-- **ANSA**: Nuovo allarme degli 007 tedeschi, l'Estonia sposta le truppe L'intelligence di Berlino: Mosca sta conducendo una 'guerra ombra' contro la Germania
-- **Il Manifesto**: L’Estonia sposta truppe al confine e ordina armi L’Estonia sta spostando truppe più vicino al confine russo per paura di provocazioni. A rivelarlo è il Financial Times, aggiungendo che Tallin sta acquistando armi per colpire in profondità nel […] The post L’Estonia sposta truppe al confine e ordina armi first appeared on il manifesto.
-- **Il Messaggero**: Russia, l’Estonia sposta le forze al confine. Berlino, allerta degli 007 su Mosca: «Contro di noi una guerra-ombra» Per Berlino, il rischio di un conflitto con la Russia esiste. I servizi tedeschi la definiscono una «guerra ombra» che, dopo il drone di Lipsia, ha fatto capire di potere trasformarsi...
+- **La Stampa**: Trump approva la fucilazione di Nidal Hasan, l’autore della strage nella base di Fort Hood Nel 2009 uccise 13 persone e ne ferì 32. L’ultima volta che il plotone di esecuzione entrò in azione era il 1945
+- **ANSA**: Trump approva la fucilazione per l'autore della strage nella base di Fort Hood Nidal Hasan nel 2009 uccise 13 persone e ne ferì 32
+- **Il Fatto Quotidiano**: Donald Trump approva l’esecuzione mediante fucilazione del responsabile della sparatoria a Fort Hood del 2009 Donald Trump ha approvato l’esecuzione mediante fucilazione di Nidal Malik Hasan, maggiore e psichiatra dell’esercito responsabile per la sparatoria avvenuta nel 2009 a Fort Hood, Texas. “Il giorno del giudizio per Hasan è finalmente arrivato”, ha scritto il portavoce del Pentagono, Sean Parnell, che ha aggiunto che sarà il Segretario dell’Esercito a stabilire data e […] L'articolo Donald Trump approva l’esecuzione mediante fucilazione del responsabile della sparatoria a Fort Hood del 2009 proviene da Il Fatto Quotidiano.
 
 
-## 18. Emergenza sul volo British Airways Londra-Chicago, l’aereo rientra per problemi di pressurizzazione
+## 19. Il Tribunale Supremo revoca l'ordine di arresto per Puigdemont, può tornare in Spagna
 
-> **Context:** Secondo il sito di monitoraggio FlightRadar il Boeing ha effettuato una discesa molto rapida perdendo circa 28.000 piedi di quota. Una portavoce della British: «I passeggeri stanno bene»
+> **Context:** Dopo l'ordine alla Corte Suprema di concedere il perdono ai leader indipendentisti
 
-- **La Stampa**: Emergenza sul volo British Airways Londra-Chicago, l’aereo rientra per problemi di pressurizzazione Secondo il sito di monitoraggio FlightRadar il Boeing ha effettuato una discesa molto rapida perdendo circa 28.000 piedi di quota. Una portavoce della British: «I passeggeri stanno bene»
-- **ANSA**: Calano le maschere d'ossigeno durante il volo, aereo della British per Chicago torna a Londra Problema di pressurizzazione in cabina, ma il vettore rassicura: 'Atterraggio sicuro e sbarco normale'
-- **Il Fatto Quotidiano**: Emergenza sul volo British Airways Londra-Chicago: è rientrato all’aeroporto di Heathrow Un volo British Airways partito da Londra e diretto a Chicago ha trasmesso un codice di emergenza generale mentre sorvolava l’Irlanda e ha richiesto un atterraggio di emergenza nella capitale inglese, scendendo rapidamente di quota ad appena 9.000 piedi di altitudine dai 37.500 di crociera. Secondo le prime ricostruzioni a causare l’emergenza è stato un […] L'articolo Emergenza sul volo British Airways Londra-Chicago: è rientrato all’aeroporto di Heathrow proviene da Il Fatto Quotidiano.
-
-
-## 19. Garlasco, consulenza su Stasi mai autorizzata: alle origini del “biondino dagli occhi di ghiaccio”
-
-> **Context:** Nel 2007 i Ris chiedono a una criminologa una perizia sul fidanzato di Chiara Poggi fatta sui verbali di interrogatorio: mai chiesta dalla procura e mai allegata agli atti
-
-- **La Repubblica**: Garlasco, consulenza su Stasi mai autorizzata: alle origini del “biondino dagli occhi di ghiaccio” Nel 2007 i Ris chiedono a una criminologa una perizia sul fidanzato di Chiara Poggi fatta sui verbali di interrogatorio: mai chiesta dalla procura e mai allegata agli atti
-- **La Stampa**: Garlasco, dal fascicolo del Ris spunta una consulenza psicologica su Stasi mai autorizzata Sulla base di soli tre verbali, l’ex bocconiano, poi ribattezzato il biondino dagli occhi di ghiaccio, viene definito un “manipolatore”, “freddo” e a “tendenza narcisistica”
-- **ANSA**: Garlasco, spunta una 'valutazione' su Stasi del 2007 mai depositata Atto acquisito dai pm di Pavia al Ris e attribuito a criminologa Bramante. Lei smentisce
+- **ANSA**: Il Tribunale Supremo revoca l'ordine di arresto per Puigdemont, può tornare in Spagna Dopo l'ordine alla Corte Suprema di concedere il perdono ai leader indipendentisti
+- **Il Fatto Quotidiano**: L’indipendentista catalano Puigdemont potrà tornare in Spagna dopo 9 anni: la Corte suprema ha revocato l’ordine di arresto Carles Puigdemont, il leader indipendentista catalano, potrà tornare in Spagna dopo 9 anni trascorsi all’estero in “esilio”. Il giudice del Tribunale supremo, Pablo Llarena, ha revocato oggi il mandato d’arresto che aveva costretto il presidente del partito Junts per Catalunya a nascondersi a Waterloo, in Belgio. Puigdemont, da presidente della Catalogna, organizzò il contestato e […] L'articolo L’indipendentista catalano Puigdemont potrà tornare in Spagna dopo 9 anni: la Corte suprema ha revocato l’ordine di arresto proviene da Il Fatto Quotidiano.
+- **Libero**: Il leader separatista catalano Puigdemont potrà tornare in Spagna 
 
 
-## 20. I giudici di Milano confermano lo stop degli altiforni dell'ex Ilva
+## 20. Garlasco, perché i campioni dell'impronta 33 e delle unghie di Chiara Poggi vennero distrutti «senza uno specifico verbale»? La replica dei Ris e cosa non torna
 
-> **Context:** 'Il diritto alla salute prevale sull'interesse economico'. Ora la parola passa alla Cassazione
+> **Context:** Gli eluiti ricavati dall’intonaco dell’impronta 33 e dalle unghie di Chiara Poggi non esistono più. Il Ris di Parma ha comunicato alla Procura di Pavia di averli smaltiti...
 
-- **ANSA**: I giudici di Milano confermano lo stop degli altiforni dell'ex Ilva 'Il diritto alla salute prevale sull'interesse economico'. Ora la parola passa alla Cassazione
-- **Il Post**: La Corte d'appello di Milano ha confermato che l'ex ILVA di Taranto dovrà chiudere entro la fine di ottobre 
-- **Il Manifesto**: Ex Ilva, l’altoforno va spento. Conferma anche in appello Un doppio finale con lo stesso esito. Il colpo di scena sulla sorte dell’ex Ilva, se mai ci sarà, è rimandato alla Cassazione. Ieri la Corte d’appello di Milano ha […] The post Ex Ilva, l’altoforno va spento. Conferma anche in appello first appeared on il manifesto.
+- **Adkronos**: Caso Garlasco, Ris: "Reperti sono stati distrutti senza infrangere nessuna regola" Nessuno dubbio sulla correttezza della procedura su cui la Procura di Pavia aveva chiesto approfondimenti - nella nuova indagine sul delitto di Chiara Poggi - ottenendo una ricostruzione puntuale e chiara di quanto accaduto
+- **Il Messaggero**: Garlasco, perché i campioni dell'impronta 33 e delle unghie di Chiara Poggi vennero distrutti «senza uno specifico verbale»? La replica dei Ris e cosa non torna Gli eluiti ricavati dall’intonaco dell’impronta 33 e dalle unghie di Chiara Poggi non esistono più. Il Ris di Parma ha comunicato alla Procura di Pavia di averli smaltiti...
+- **La Repubblica**: Garlasco, tutte le falle dei Ris: errori e omissioni di un’indagine contestata Da quel 13 agosto 2007, quando viene trovato il cadavere di Chiara Poggi, le scelte investigative ora sotto osservazione, tra capelli dimenticati, impronte sulle porte e un’autopsia senza dna
 
 
 
@@ -228,148 +251,317 @@ No previous episode found.
 
 
 <other_headlines>
-<article source="AGI" date="Mon, 05 Oct 2026 21:33:06 GMT">
-Caso Garlasco, parla il Comandante dei Carabinieri Luongo: "Chi ha sbagliato risponderà"
-"Innanzitutto dobbiamo dire che abbiamo il dovere di rispettare il dolore delle famiglie che sono state coinvolte in questa tragica ricerca. Se la magistratura accerterà irregolarità o responsabilità individuali nel passato, la risposta dell'Arma sarà di totale collaborazione, di massima trasparenza e anche assoluta fermezza: eventuali errori o condotte illecite di singoli non devono intaccare l'onorabilità di migliaia di carabinieri né tantomeno il valore del Ris, ma chi ha sbagliato ne risponderà in ogni sede, perché la tutela della legalità viene prima di ogni cosa". Lo ha detto il comandante generale dei Carabinieri Salvatore Luongo in un'intervista al Tg1. Il caso Garlasco, il supporto del Ris e la verità scientifica "L'Arma dei Carabinieri – ha ricordato Luongo – opera sempre nella massima trasparenza e nel rispetto della legge e della giustizia. Sul caso Garlasco però voglio essere chiaro: il Ris ha continuato a fornire il proprio supporto tecnico-scientifico agli approfondimenti di indagine richiesti dall'autorità giudiziaria, con cui c'è una totale e piena collaborazione. La scienza forense e l'Arma restano strumenti secondo me imparziali e fondamentali per cercare la verità, ben oltre il clamore mediatico e inutili manipolazioni". La rassicurazione ai cittadini e il valore delle istituzioni Eventuali dubbi dell'opinione pubblica? "Voglio rassicurare sicuramente i cittadini che il Ris è un'eccellenza scientifica a livello internazionale e un punto di riferimento rigoroso. La fiducia dell'opinione pubblica non si preserva nascondendo i dubbi né si misura sulla infallibilità dei singoli, ma dimostrando ogni giorno professionalità, determinazione, capacità di verifica e rigore assoluto nell'applicazione dei protocolli".
+<article source="AGI" date="Tue, 06 Oct 2026 21:17:16 GMT">
+Il ricordo delle vittime del 7 ottobre con una cerimonia al Tempio Maggiore di Roma
+Si è svolta nel Tempio Maggiore di Roma, e in contemporanea con tutte le altre comunità ebraiche d'Italia, la cerimonia in memoria delle vittime dell'attacco del 7 ottobre 2023 e dell'attentato alla Sinagoga del 9 ottobre 1982. Alla solenne commemorazione partecipano i vertici della comunità e le istituzioni: presenti il Rabbino Capo della Capitale Riccardo Di Segni, il presidente della Comunita' Ebraica romana Victor Fadlun, la presidente dell'Ucei Livia Ottolenghi e l'ambasciatore d'Israele in Italia, Jonathan Peled. Folta la rappresentanza istituzionale. Hanno raggiunto la Sinagoga, tra gli altri, il presidente della Cei, cardinale Matteo Zuppi, e il coordinatore nazionale per la lotta all'antisemitismo, generale Pasquale Angelosanto, assieme al prefetto Lamberto Giannini e al questore Roberto Massucci. Tra i presenti anche la direttrice dell'AGI, Rita Lofano. Nutrita e bipartisan, infine, la presenza di esponenti politici: vi prendono parte la vicepresidente della Regione Lazio Roberta Angelilli, il capogruppo dei senatori di FdI Lucio Malan con il responsabile organizzazione del partito Giovanni Donzelli, e Maurizio Gasparri per Forza Italia. Presenti inoltre Maria Elena Boschi e Ivan Scalfarotto per Italia Viva, i dem Piero Fassino e Graziano Delrio, e Maria Stella Gelmini per Noi Moderati.
 </article>
-<article source="AGI" date="Mon, 05 Oct 2026 18:34:10 GMT">
-Garlasco: in una vecchia relazione su Stasi (mai depositata) i dubbi su lui
-"Ha fatto realmente tutte queste telefonate a Chiara Poggi?". Sono tante le domande scritte in carattere rosso al pc da chi ha redatto la 'Valutazione psicologica' di Alberto Stasi sul delitto di Garlasco. "Come ha fatto a non sporcarsi e a non vedere le macchie?Impossibile non pestare quelle macchie...". "Come ha fatto a vedere il viso scendendo solo due gradini?". "La luce era spenta, come ha fatto a essere cosi' sicuro che fosse vestita?". Le questioni toccano i dubbi che si trascineranno per inchieste e processi e che ancora sono l'epicentro degli accertamenti. 'In rosso sono riportati i miei commenti' è la postilla di chi ha scritto, in teoria la criminologa Alessandra Bramante che però a 'Ore 14' ha smentito di essere l'autrice del documento ora entrato nelle indagini della Procura di Pavia. Il documento di 13 pagine Un documento di 13 pagine, senza data ne' firma autografa ma scritto su carta intestata della criminologa Bramante, entra tra i 'misteri' di Garlasco. Il 10 settembre scorso, secondo quanto rivelato dal sito di 'Repubblica', la Procura di Pavia e i carabinieri del Nucleo Investigativo di Milano lo hanno acquisito agli atti di quella che sta prendendo forma come 'un'indagine sull'indagine' che punta a chiarire eventuali punti oscuri nelle attivita' dei Ris di Parma. Il dossier riguarda il profilo personologico, non proprio lusinghiero, di Alberto Stasi con un elenco di 17 punti nei quali viene definito tra le altre cose "calcolatore", "molto centrato su di se'" e 'manipolatore". E con un'annotazione particolarmente grave: "Indifferenza estrema nei confronti della vittima come se neppure la conoscesse". Il dossier potrebbe servire da 'contesto' agli inquirenti che si muovono sul doppio fronte indagine su Sempio-revisione di Stasi per dimostrare le presunte lacune e omissioni dei Ris. Pronta a sentire l'allora pm Muscio Intanto i pm di Pavia sono pronti a convocare nell'ambito degli accertamenti sui Ris di Parma anche Rosa Muscio, la pm che segui' l'indagine chiedendo la condanna di Alberto Stasi per l'omicidio di Chiara Poggi nel processo che si concluse con l'assoluzione. Muscio all'epoca aveva 36 anni e gesti' le prime fasi dell'inchiesta in assenza del procuratore Alfonso Lauro che era in ferie nella settimana di Ferragosto quando la tranquillità di una deserta Garlasco venne turbata dalla morte della ragazza.
+<article source="AGI" date="Tue, 06 Oct 2026 20:07:30 GMT">
+7 ottobre: commemorazione al Tempio Maggiore di Roma. Peled: "Ricordarlo per preservare la...
+Si è svolta al Tempio Maggiore di Roma, nel cuore dell'ex Ghetto, con un minuto di silenzio ed in contemporanea con tutte le altre comunità ebraiche d'Italia la cerimonia in memoria delle vittime dell'attacco del 7 ottobre 2023 e dell'attentato alla Sinagoga del 9 ottobre 1982. Alla solenne commemorazione partecipano i vertici della comunità e le istituzioni: presenti il Rabbino Capo della Capitale Riccardo Di Segni, il presidente della Comunità Ebraica romana Victor Fadlun, la presidente dell'UCEI Livia Ottolenghi e l'ambasciatore d'Israele in Italia, Jonathan Peled. "Ricordare il 7 ottobre significa preservare la verità storica: ricordare come tutto è cominciato e non permettere che, con il passare del tempo, i fatti vengano distorti, relativizzati o dimenticati. Per questo, mentre onoriamo la memoria delle vittime, dobbiamo avere anche il coraggio di fare i conti con le ombre che ancora attraversano le nostre società e con quanti, per ragioni ideologiche, cercano di riscrivere o deformare la storia". Lo ha affermato l'ambasciatore d'Israele in Italia, Jonathan Peled, intervenendo questa sera al Tempio Maggiore alla commemorazione per l'attentato del 7 ottobre 2023 e di quello del 9 ottobre 1982 alla Sinagoga di Roma. Nel corso della solenne cerimonia di commemorazione dell'attacco del 7 ottobre 2023 e dell'attentato alla Sinagoga di Roma del 9 ottobre 1982, Peled ha ricordato come a tre anni di distanza l'anniversario del massacro sia "una ferita ancora aperta, una cicatrice nelle nostre anime", definendolo con le parole del Presidente israeliano Isaac Herzog "il giorno in cui l'anima di Israele è stata lacerata. Un terrore che ha sconvolto non solo gli israeliani, ma "anche altri 40 Paesi del mondo coinvolti quel giorno". Il legame con il 1982 e il monito contro il negazionismo L'ambasciatore ha poi tracciato un doloroso parallelo tra le due tragedie: "In Italia, questa memoria ha anche un nome che non possiamo dimenticare: Stefano Gaj Taché, il bambino di appena due anni ucciso nell'attentato alla Sinagoga di Roma nel 1982". "La sua morte ci ricorda, con una forza che ancora oggi ci interroga, che l'antisemitismo può colpire anche qui e che non esiste una distanza geografica o temporale capace di renderlo meno pericoloso – il monito dell'ambasciatore – Non dobbiamo permettere mai che l'odio antiebraico venga normalizzato, minimizzato o lasciato senza risposta". Un odio che è violentemente riemerso dopo il 7 ottobre, con "una drammatica ondata di antisemitismo che ha attraversato le nostre società, riportando in superficie pregiudizi che credevamo relegati al passato". Di fronte a tutto questo e all'evidenza di un "patrimonio di documentazione" incancellabile contro ogni negazionismo, l'appello di Peled è a trasformare "il dolore in forza, la memoria in responsabilità". "Questa sera non siamo qui soltanto per piangere le vittime – ha concluso l'ambasciatore israeliano –. Siamo qui per riaffermare, insieme, che il terrore non può avere mai l'ultima parola e che dobbiamo sempre continuare a credere e a lavorare per un futuro migliore". La presenza delle istituzioni e l'appello della presidente UCEI Livia Ottolenghi Hanno raggiunto la Sinagoga, tra gli altri, il presidente della CEI, cardinale Matteo Zuppi, e il coordinatore nazionale per la lotta all'antisemitismo, generale Pasquale Angelosanto, assieme al prefetto Lamberto Giannini e al questore Roberto Massucci. Tra i presenti anche la direttrice dell'AGI, Rita Lofano. Nutrita e bipartisan, infine, la presenza di esponenti politici: vi prendono parte la vicepresidente della Regione Lazio Roberta Angelilli, il capogruppo dei senatori di FdI Lucio Malan con il responsabile organizzazione del partito Giovanni Donzelli, e Maurizio Gasparri per Forza Italia. Presenti inoltre Maria Elena Boschi e Ivan Scalfarotto per Italia Viva, i dem Piero Fassino e Graziano Delrio, e Maria Stella Gelmini per Noi Moderati. "Credevamo che, dopo la Shoah e con la nascita dello Stato di Israele, ci fossimo lasciati alle spalle i pogrom, i massacri e l'odio antiebraico. Pensavamo che la frase 'Never Again', Mai Più, significasse davvero mai più". Sono le parole della presidente dell'UCEI, Livia Ottolenghi, intervenuta al Tempio Maggiore di Roma nel corso della solenne cerimonia di commemorazione per il terzo anniversario dell'attacco del 7 ottobre 2023 in Israele e dell'attentato alla Sinagoga di Roma del 9 ottobre 1982. "Oggi siamo qui per ricordare – ha detto la presidente dell'Unione delle Comunità Ebraiche Italiane portando il saluto delle 21 comunità riunite in un minuto di silenzio corale –. Ma 'ricordare' forse non è la parola giusta. Quei momenti sono ben impressi nella mente di ogni israeliano e di chiunque abbia a cuore Israele, qui in Italia e in ogni altra parte del mondo. Ognuno di noi è stato messo violentemente di fronte alla propria vulnerabilità", ricordando le 1.200 vittime, i 364 ragazzi assassinati al Nova Festival e i 251 ostaggi, tra cui i piccoli Bibas, vittime come il piccolo Stefano Gaj Taché dell'odio antiebraico. Ottolenghi ha inoltre richiamato con forza le torture e le violenze sessuali perpetrate da Hamas sulle donne israeliane e sulle ostaggi, denunciando come tali abusi siano stati usati come arma di guerra: "Un fatto acclarato. Sorelle io vi credo. Eppure non è stato così. Questo è il 7 ottobre che noi ricordiamo e lo facciamo nell'ignavia e nella colpa di una parte di mondo che invece vuole farlo dimenticare''. "Dall'8 ottobre del 2023 – prosegue Ottolenghi – un'ondata di odio senza precedenti ha colpito gli ebrei ovunque fossero. E non solo quello del terrorismo ma anche quello intellettuale, dei media e dei social che inquinano gli animi e rovesciano la realtà, e dove persino le donne vittime di violenze non vengono credute solo perché israeliane. Una internazionale del pensiero unico, del conformismo politico, del test ideologico. In un crescendo esponenziale che solo in Italia ha quadruplicato gli eventi antiebraici, si è sdoganato l'antisemitismo senza più neanche il bisogno di mascherarlo con l'antisionismo". "La nostra preoccupazione più grande è ora rivolta ai nostri giovani. Oggi – conclude la presidente dell'UCEI – si sentono in pericolo per il solo fatto di indossare una kippah per strada o una catenina con la Stella di Davide. Rischiano di essere discriminati nei luoghi preposti alla loro formazione, come le scuole e le università. È proprio a questi giovani, che dobbiamo dare una risposta forte. Oggi più che mai, dobbiamo recuperare e rivendicare il nostro orgoglio di essere ebrei. Non dobbiamo fare passi indietro per paura. Non dobbiamo nascondere la nostra identità. Vivere a testa alta, fieri della nostra storia, della nostra cultura e dei nostri valori: ce lo impone il 7 ottobre". Victor Fadlun: "Intollerabile rimozione, è stato un pogrom" "È intollerabile che il 7 ottobre sia stato progressivamente rimosso, relativizzato, quasi trasformato in una premessa secondaria di ciò che è venuto dopo. Prima della guerra e delle ricostruzioni contrapposte c'è stato un pogrom. C'è stato l'assassinio brutale di civili. Ci sono stati gli ostaggi. C'è stata la volontà di colpire gli ebrei in quanto ebrei, gli israeliani in quanto israeliani. È stato un pogrom, non deve mai essere dimenticato". Lo ha affermato il presidente della Comunità Ebraica di Roma, Victor Fadlun, intervenendo questa sera al Tempio Maggiore della Capitale ricordando il massacro compiuto da Hamas in Israele il 7 ottobre del 2023 e l'attentato alla Sinagoga di Roma del 9 ottobre 1982. Rievocando proprio i fatti di quarantadue anni fa, Fadlun ha ricordato come, "sull'onda di un pubblico crescendo antisemita", un commando terrorista palestinese uccise il piccolo Stefano Gaj Taché. Un clima di odio e sospetto che la Comunità è tornata a vivere oggi, in quello che Fadlun definisce un drammatico ribaltamento della realtà: "Dopo aver visto i nostri fratelli massacrati e rapiti, ci siamo trovati a dover rispondere dell'azione di uno Stato intero: messi all'index come complici, solo in quanto ebrei. Questo rovesciamento è alimentato da ricostruzioni mediatiche prevenute e da un antisemitismo che non si preoccupa neppure più di camuffarsi". Il presidente della Comunità ha denunciato come nella percezione pubblica si sia passati "dalla solidarietà al sospetto", un contesto in cui l'antisemitismo "non è più un tabù e orribili parole del passato sono tornate nel linguaggio comune". Ha tuttavia voluto ringraziare le forze dell'ordine, le istituzioni e "chi non si è rassegnato alla deriva di un'opinione pubblica esposta alla malattia sociale dell'antisemitismo e a letture della guerra da salotto radical chic o da piazza ProPal". Guardando al futuro, Fadlun ha esortato a rifiutare la narrazione di una comunità che esiste solo in funzione del dolore subìto: "La nostra identità non dipende dal ruolo che gli altri decidono di attribuirci. Noi non siamo solo il popolo che ha subìto. Siamo anche il popolo che non ha mai smesso di costruire". "Il 7 ottobre resterà per sempre il giorno del massacro – ha concluso il presidente – ma ricordare davvero significa anche prendersi cura delle persone. Forse il modo più giusto di ricordare è continuare a vivere da ebrei. Non saranno i nostri nemici a dirci chi siamo. E non sarà l'odio a decidere che cosa diventeremo".
 </article>
-<article source="AGI" date="Mon, 05 Oct 2026 18:17:34 GMT">
-Tragedia a Caivano, operaio morto dopo la caduta: tre indagati, si ipotizza il lavoro in nero
-Ci sono tre indagati dalla Procura di Napoli Nord per la morte di Salvatore Calignano, 61 anni, residente a Orta di Atella, l'operaio edile trovato ferito gravemente e incosciente sabato pomeriggio a Caivano, in via Fossa del Lupo, e morto poco dopo all'Ospedale del Mare di Napoli. Si tratta dei due titolari del capannone nel quale, secondo gli inquirenti, l'uomo stava lavorando prima di riportare un politrauma da caduta da grande altezza. Il pm titolare del fascicolo, Sabrina Navarro, ha disposto l'autopsia e gli accertamenti tossicologici per chiarire le cause della morte. L'incarico per l'esame autoptico sarà conferito mercoledì 7 ottobre. Calignano lascia la moglie e due figlie. L'ipotesi degli inquirenti: lavoro in nero e l'infortunio occultato L'ipotesi sulla quale stanno lavorando gli investigatori dei carabinieri è che il 61enne sia rimasto vittima di un incidente sul lavoro mentre era impegnato 'in nero' in un capannone, secondo la testimonianza della moglie per stendere una guaina isolante sul tetto che avrebbe poi dovuto ospitare pannelli solari. Dopo l'incidente qualcuno ha spostato Calignano, ormai privo di sensi, dal luogo in cui si ipotizza si è verificato l'infortunio, oggi sotto sequestro, nel tentativo di nascondere quanto accaduto. L'uomo era da poco uscito dalla Naspi e aveva un contratto di lavoro dal 1 ottobre. Le indagini dei Carabinieri e l'autopsia sul corpo dell'operaio Il corpo dell'operaio era stato notato da un passante. I carabinieri della compagnia di Caivano stanno ora ricostruendo le ultime ore di vita dell'operaio. L'autopsia dovrà contribuire a stabilire le cause e le modalità della morte e potrà fornire elementi utili anche per verificare la compatibilità delle lesioni con la ricostruzione dell'incidente sul lavoro. L'inchiesta dovrà inoltre chiarire il ruolo delle tre persone iscritte nel registro degli indagati e le eventuali responsabilità nella gestione dell'attività e delle condizioni di sicurezza in cui il 61enne si trovava a lavorare.
+<article source="AGI" date="Tue, 06 Oct 2026 17:41:51 GMT">
+Bruno Barbieri in ‘Controluce’, lo chef si racconta in nave
+Un evento inedito, in mare aperto, per raccontare la persona oltre il personaggio, i sacrifici dietro una carriera di successo: Bruno Barbieri ha presentato il suo nuovo libro "Controluce - Ombre e segreti di una vita", a bordo di Costa Favolosa in navigazione per una crociera verso la Norvegia. Un libro in cui ripercorre la sua ascesa all’empireo della cucina fatta anche di “ferite e tradimenti”, di delusioni e risalite. Il 64enne chef emiliano è stato intervistato dal giornalista del ‘Tempo’, Francesco Capozza, che lo ha supportato nella stesura del libro edito da Cairo Editore. Dalle origini al successo: l'intimità oltre lo schermo Il volto di ‘MasterChef’ e ‘4 Hotel’ rivela la sua storia a partire dalle umili radici familiari, con la nonna che lo iniziò ai segreti della cucina, la fuga dal padre, la formazione nelle cucine americane e l’affermazione in patria, dal Trigabolo alla tv. “Non c’è un armadio da cui tirare fuori scheletri”, spiega all’AGI, “sono sempre stato una persona riservata ma era giusto anche nei confronti della gente che vedessero un Bruno Barbieri più intimo, un Bruno Barbieri che non si aspettano”. “C’è l’uomo con le sue fragilità, le sue sofferenze, le sue caratteristiche umane che nessuno conosce”, aggiunge, “poi c’è anche qualche rivincita che sentivo il bisogno di tirare fuori”. ‘Controluce’ è dedicato ai giovani, vuole offrire una ricetta per far capire loro che “nella vita niente è regalato”: “Avere dei sogni e crederci sempre è fondamentale per andare avanti e costruirsi il successo o comunque una vita serena e bella”, rimarca lo chef. Il rapporto con gli "squali", i leoni da tastiera e la forza del mare Un capitolo è dedicato ai ‘leoni da tastiera’, in grado di distruggere una vita nascosti in un vile anonimato, e soprattutto agli ‘squali’. “Sono quelle persone che quando sei popolare ti si avvicinano, ti dicono che sei il migliore e ti riempiono di complimenti, ma aspettano solo il momento propizio per tradirti”, spiega Barbieri, “persone a cui credevo, con cui avevo condiviso successi e dolori. È stato molto difficile ma io sono ancora qui e se mi guardo allo specchio trovo una risposta, loro probabilmente no”. Il mare fa parte della vita di Barbieri: “La mia storia nasce sulle navi da crociera”, ricorda, “quando ero giovane sognavo che un giorno sarei stato lo chef di una grande nave e ora per me Costa è una famiglia, abbiamo fatto molte cose insieme. A un giovane consiglierei di imbarcarsi per lavorare almeno una volta perché un periodo su una nave fa bene, insegna il rigore e il rispetto”. Progetti futuri e la passione per la vita Il grande chef non vede ancora la pensione nel suo orizzonte: “Ho tanti interessi, giro per il mondo a scoprire talenti, mi occupo di moda..ho solo un problema: ho tanta paura di morire perché in questo mondo ci sto bene e vorrei vivere fino a 120 anni….”.
 </article>
-<article source="AGI" date="Mon, 05 Oct 2026 17:18:17 GMT">
-Garlasco: la Procura di Pavia pronta a sentire l'allora pm Rosa Muscio
-I pm di Pavia sono pronti a convocare nell'ambito degli accertamenti sui Ris di Parma anche Rosa Muscio, la pm che segui' l'indagine chiedendo la condanna di Alberto Stasi per l'omicidio di Chiara Poggi nel processo che si concluse con l'assoluzione. Muscio all'epoca aveva 36 anni e gesti' le prime fasi dell'inchiesta in assenza del procuratore Alfonso Lauro che era in ferie nella settimana di Ferragosto quando la tranquillità di una deserta Garlasco venne turbata dalla morte della ragazza. Persona informata dei fatti La magistrata all'epoca in servizio alla Procura di Vigevano adesso è giudice minorile a Milano. Gli inquirenti la sentiranno come persona informata sui fatti anche per capire se sapesse qualcosa della relazione personologica su Alberto Stasi che è stata acquisita nei giorni scorsi dai magistrati che indagano su Andrea Sempio. La consulenza è senza firma e senza data. In alto a sinistra si legge: "Dott.essa Alessandra Bramante, Psicologa Criminologa Clinica", segue l'indirizzo dello studio a Biella e la mail. La professionista nel programma 'Ore 14' ha detto: "Non ho mai fatto nessun profilo, se faccio una relazione metto data e firma".
+<article source="AGI" date="Tue, 06 Oct 2026 13:07:12 GMT">
+Crans-Montana, Jessica Moretti chiede l'indennità per infortunio nell'incendio
+Jessica Moretti potrebbe incassare un'indennità giornaliera per la "perdita di guadagno determinata dai danni alla salute" conseguenti all'incendio al 'Le Constellation'. Il risvolto emerge dalle nuove carte dell'indagine depositate alle parti coinvolte nel procedimento che ipotizza i reati di omicidio, lesioni e incendio colposo per l'incendio che ha provocato 41 morti. La richiesta di Jessica Moretti E' l'assicurazione Zurich a chiedere informazioni ai magistrati del Canton Vallese. "Ci riferiamo all'evento del primo gennaio 2026 della signora Jessica Maric Moretti - si legge nella missiva -. Nell'ambito della procedura in corso presso il vostro ufficio, avremmo bisogno di sapere se eventuali indennità giornaliere possano essere versate sul conto indicato dall'assicurata oppure se dobbiamo versarle a voi". "Infatti, secondo quanto riferito dall'assicurata, i suoi conti sono attualmente bloccati e ci chiediamo a quale destinatario dovremo versare le nostre eventuali prestazioni non appena avremo potuto prendere una decisione in merito alla sua pratica. Vi ringraziamo in anticipo per la vostra risposta e il vostro aiuto. Avete bisogno di ulteriori informazioni? Chiamateci, siamo volentieri a vostra disposizione". Le pm Seppey e Roth scrivono: "Al fine di poter esaminare la vostra richiesta, vi chiediamo cortesemente di comunicarci il tipo di indennità giornaliere che volete riconoscere alla vostra assicurata e il relativo fondamento". La relazione sull'indagata Un'indagata 'modello' nel rispettare le prescrizioni, impeccabile nelle comunicazioni con le autorità ma anche provata dagli insulti sui social, protettiva verso i figli e preoccupata per possibili vendette da parte di qualcuno dei genitori delle vittime. E' Jessica Moretti secondo la recente relazione del 23 settembre scorso riportata nei nuovi atti depositati nell'ambito dell'inchiesta che la vede accusata assieme al marito con le accuse di omicidio, lesioni e incendio a titolo colposo per la morte di 41 persone e il ferimento di 15 nel rogo al 'Le Constellation'. La donna è sottoposta al controllo della sua presenza in Svizzera. Controlli e comunicazioni "Jessica Maric Moretti viene contattata tramite videochiamata su WhatsApp dal responsabile di turno della BTA di Sierre, ogni due giorni, a orari casuali, a seconda della nostra disponibilità - si legge nel documento visionato dall'AGI -. Ha sempre risposto alle nostre chiamate e ha sistematicamente potuto confermare la sua presenza mostrandoci la sua abitazione o un altro luogo noto nella regione". In diverse occasioni, per confermare la sua presenza, ci ha anche trasmesso la sua posizione in tempo reale tramite l'applicazione WhatsApp. Continua inoltre a comunicarci le informazioni relative ai suoi spostamenti quando deve recarsi dai suoi avvocati a Ginevra. "Ci informa sistematicamente in anticipo dei suoi appuntamenti affinché ne siamo informati e possiamo, se necessario, trasmettere tali informazioni alla centrale operativa, al fine di evitare l'attivazione di pattuglie destinate a effettuare controlli". Le minacce sui social Poi l'autore della relazione dà conto delle preoccupazioni della ex gestora, assieme al marito, del locale, doloroso scenario della morte di tantissimi ragazzi e ragazze provenienti da tutto il mondo per festeggiare l'ultima notte dell'anno. "In diverse occasioni, Jessica Maric Moretti ha contattato il sottoscritto per segnalargli vari problemi incontrati, in particolare insulti ricevuti da una donna dell'Haut-Plateau, minacce proferite sui social network e la presenza di giornalisti davanti alla scuola di suo figlio a Lens". "In ogni occasione, le informazioni comunicate sono state da noi analizzate e registrate nelle nostre banche dati e portate a conoscenza degli ispettori incaricati di approfondire le minacce. Per quanto riguarda i fatti riferiti da Jessica Maric Moretti e suscettibili di essere oggetto di una denuncia, la stessa è stata invitata a discuterne con i propri avvocati. A oggi, non ci è stata formalmente comunicata alcuna intenzione di sporgere denuncia". "Jessica teme atti isolati da parte dei parenti delle vittime" Viene poi riportato un altro aspetto del periodo che sta vivendo in vista del Natale. "Il 22.09.2026, Jessica Maric Moretti ha contattato nuovamente il sottoscritto per esprimergli i propri timori in vista delle festività di fine anno che si avvicinano e per ricordargli la data dell'evento. Vivendo da sola con i propri figli, ha spiegato di non sentirsi al sicuro con l'avvicinarsi di questo periodo, ritenendo che i media torneranno a occuparsi attivamente del caso". "Teme inoltre eventuali atti isolati da parte dei genitori delle vittime. È stata informata della necessità di chiamare il 117 in caso di necessità. Infine, alla luce di quanto sopra esposto, vorrebbe beneficiare di una riduzione del servizio di reperibilità sul territorio esclusivamente durante il periodo delle festività".
 </article>
-<article source="AGI" date="Mon, 05 Oct 2026 12:42:15 GMT">
-Istigazione al suicidio, deepfake e condotta antisindacale: a Bari il primo "processo" all...
-(AGI) - Un processo pubblico e simbolico per mettere l'intelligenza artificiale sul banco degli imputati e interrogarsi su rischi, responsabilità e opportunità delle nuove tecnologie. E' l'iniziativa che prenderà il via il 9 ottobre nella Corte d'Appello di Bari, dove per quattro giornate si alterneranno accusa, difesa, testimoni e giuria popolare in un dibattimento dedicato all'impatto dell'Ia sulla vita delle persone. L'iniziativa, definita dagli organizzatori il primo processo pubblico all'Intelligenza Artificiale in Italia, è stata ideata e organizzata dal Club delle Imprese per la Cultura di Confindustria Bari e Bat. Le quattro accuse contestate all'IA Il dibattimento affronterà alcuni dei principali interrogativi sollevati dall'impiego di sistemi conversazionali, generativi, predittivi e decisionali. Sul banco degli imputati l'Intelligenza Artificiale, chiamata a rispondere di quattro capi d'accusa: istigazione al suicidio, lesioni colpose, diffamazione attraverso contenuti falsificati e condotta antisindacale algoritmica legata alla sostituzione del lavoratore. Il calendario prevede quattro appuntamenti: il 9, 16 e 23 ottobre e l'udienza finale del 4 novembre, dedicata a requisitoria, arringhe e verdetto. A guidare l'accusa sarà il procuratore di Bari Roberto Rossi, affiancato da due avvocati di Deloitte Legal, Francesco Carparelli e Valeria Logrillo. La difesa sarà rappresentata da quattro avvocati dello studio Polis avvocati (Michele Laforgia, Andrea Di Comite Domenica Lenato e Mauro Petrarulo). A presiedere il collegio sarà Maria Mitola, presidente della Corte d'Appello di Bari, affiancata da Rosa Calia Di Pinto, presidente di sezione penale, e da Ornella Gozzo, presidente della Seconda sezione penale della Corte d'Appello. I testimoni previsti per le quattro udienze Numerosi i testimoni chiamati a portare nel dibattimento competenze e punti di vista differenti. Tra loro Filippo Anelli, presidente della Federazione nazionale degli Ordini dei medici chirurghi e degli odontoiatri; Roberto Bellotti, rettore dell'Università degli studi di Bari Aldo Moro; Pasquale Casillo, presidente e amministratore delegato di Casillo Partecipazioni; Roberto Catanesi, ordinario di Psicopatologia forense all'Università di Bari; Gaia Costantino, Ceo di Puglia Woman Lead. Ma ci saranno anche Domenico Favuzzi, presidente e amministratore delegato di Exprivia; Silvia Godelli, ordinaria di Psicologia dello sviluppo e dell'educazione; Alessandro Laterza, amministratore delegato della casa editrice Laterza; Giovanni Pascuzzi, consigliere di Stato; Gabriele Presti, Head of Strategy, Finance and Procurement di Divella; Benedetta Saponaro, docente di Etica per l'innovazione tecnologica all'Universita' di Bari; Carolina Velati, segretaria generale NIDIL CGIL Bari e responsabile del dipartimento Politiche giovanili della CGIL Puglia. La giuria popolare sara' composta da cinque esponenti del mondo dell'innovazione e della comunicazione, mentre ad affiancarli ci saranno alcuni magistrati. "Portiamo l'Ia nella forma più alta del confronto pubblico" "Abbiamo voluto portare l’Intelligenza Artificiale dentro la forma più alta e riconoscibile del confronto pubblico: il processo. Per questo abbiamo coinvolto personalità autorevoli della città e giuristi di assoluto rilievo, ricostruendo simbolicamente il rito della Corte d’Assise. Sul banco degli imputati non c’è semplicemente una tecnologia: c’è una trasformazione che investe il lavoro, le relazioni, le decisioni e la responsabilità", spiega Gianni Sebastiano, ideatore dell’iniziativa e coordinatore del Club delle Imprese per la Cultura di Confindustria Bari e BAT. "Il Processo nasce per spostare il confronto sull’Ia dal solo ambito tecnologico a quello civile, sociale ed economico, chiamando la comunità a interrogarsi sul proprio futuro. Non potevamo non inserire un tema di tale spessore nell’ambito delle iniziative di Bari Capitale della Cultura d’Impresa", spiega Mario Aprile, presidente di Confindustria Bari e BAT.
+<article source="AGI" date="Tue, 06 Oct 2026 10:32:47 GMT">
+Salgono su un volo Bologna-Tel Aviv con passaporti israeliani falsi, denunciati 2 passeggeri
+Ieri sera tre uomini di nazionalità georgiana hanno tentato di imbarcarsi su un volo della Tus Airways in partenza per Tel Aviv dall'aeroporto Guglielmo Marconi di Bologna, ma sono stati fatti scendere dall'aereo, dopo che gli agenti della polizia di frontiera hanno accertato che due di loro viaggiavano con passaporti israeliani falsi e il terzo non aveva diritto all'ingresso nel Paese. I due viaggiatori sono stati denunciati e sono in corso accertamenti. Tutti i passeggeri e i bagagli a bordo del veivolo sono stati successivamente sottoposti a nuovi controlli. Netanyahu ordina revisione sicurezza voli verso Israele Benjamin Netanyahu ha ordinato una revisione delle misure di sicurezza sui voli internazionali diretti in Israele, dopo il fallito tentativo di un pilota omanita di far schiantare un volo Flydubai pieno di passeggeri israeliani. Il primo ministro ha incaricato il direttore del Consiglio per la sicurezza nazionale, Shmuel Ben Ezra, di nominare un responsabile per condurre un esame approfondito di tutti gli aspetti legati alla sicurezza dell'aviazione civile straniera diretta in Israele si legge in un comunicato. La decisione, riporta il Times of Israel, è stata presa dopo che un'ex alta funzionaria del ministero dei Trasporti ha accusato la ministra dei Trasporti Miri Regev di essere responsabile delle falle nella sicurezza relative alle compagnie aeree straniere che volano in Israele. Il governo, Regev e il ministero dei Trasporti hanno negato ogni responsabilita' per eventuali falle nella sicurezza precedenti all'incidente. Il ministero ha affermato di non avere la capacita' di effettuare controlli sui precedenti dei piloti stranieri e che non esisteva alcun modo per garantire in maniera definitiva la sicurezza dei voli stranieri diretti in Israele. Ma, secondo documenti interni del Consiglio per la Sicurezza nazionale citati domenica dalla radio dell'esercito, diverse autorita' israeliane avvertono da anni che il ministero dei Trasporti non sta adempiendo alle proprie responsabilita' nell'effettuare controlli di sicurezza sulle compagnie aeree straniere che volano in Israele. Keren Terner, che è stata direttrice generale del ministero dei Trasporti dal 2016 al 2020 e che ora è candidata a un seggio alla Knesset come numero 3 della lista elettorale B'Yachad di Naftali Bennett, ha attribuito direttamente la responsabilita' a Regev e che dal 2008 l'Autorita' per l'aviazione civile risponde direttamente al ministro dei Trasporti. Un rapporto riservato del maggio 2024 dimostrerebbe che Regev era stata informata delle carenze nella preparazione della divisione sicurezza del ministero. Dopo le dichiarazioni di Terner, Regev ha ribadito con ancora maggiore fermezza di non avere responsabilita': "Il ministero dei Trasporti non e' un'agenzia di intelligence. Non effettua controlli, non e' tenuto a effettuarli e non ha alcun accesso ai dati", ha affermato. Il leader dell'opposizione Yair Lapid, numero 2 della lista B'Yachad, ha accusato Netanyahu di essersi rapidamente attribuito il merito delle azioni eroiche dei civili israeliani a bordo dell'aereo, per poi tacere quando hanno cominciato a emergere interrogativi. Altri documenti interni, citati dalla radio dell'esercito, indicano che da anni erano state sollevate preoccupazioni sulla divisione delle responsabilita' per i controlli sulle compagnie aeree straniere. Il presidente della commissione Esteri e Difesa della Knesset, Boaz Bismuth, convochera' martedi' una riunione straordinaria della sottocommissione Intelligence per esaminare quanto accaduto sul volo Flydubai e le relative procedure di sicurezza. Alla riunione dovrebbero partecipare rappresentanti dello Shin Bet, del Mossad, del Consiglio per la sicurezza nazionale e del ministero dei Trasporti.
 </article>
-<article source="AGI" date="Mon, 05 Oct 2026 12:37:17 GMT">
-Venezia, le ceneri degli animali potranno riposare accanto ai padroni nei cimiteri: le nuove regole
-Nei cimiteri di Venezia gli animali d'affezione potranno riposare in un'urna, posizionata accanto ai loro proprietari. Lo prevedono le nuove regole predisposte dal Comune di Venezia. La misura non istituisce sepolture per animali all'interno dei cimiteri, ma stabilisce che un'urna contenente le ceneri degli animali da compagnia possa essere collocata accanto alla sepoltura delle persone. L'urna ha infatti una funzione esclusivamente accessoria e commemorativa rispetto alla sepoltura della persona e non può mai essere collocata nello spazio destinato al feretro, alle ceneri o ai resti umani. Oggi vengono illustrati i contenuti della disciplina, le modalità di presentazione delle richieste e le diverse soluzioni previste per la collocazione delle urne nei cimiteri comunali, compreso quello lagunare di San Michele. "Con questa nuova disciplina affrontiamo un tema che riguarda un legame sempre più riconosciuto nella società e che merita di essere accompagnato da regole precise", dichiara l'assessore all'Ambiente del Comune di Venezia, Paolo Romor. "La possibilità di conservare le loro ceneri accanto alla sepoltura della persona consente di dare una risposta a questa sensibilità, mantenendo al tempo stesso ben chiari i principi di tutela, decoro e rispetto degli spazi cimiteriali. È una disciplina voluta dalla nostra amministrazione che mette ordine in una materia nuova, garantendo procedure certe, tracciabilità e soluzioni compatibili con le caratteristiche dei nostri cimiteri". Dimensioni, posizionamento e regole per le urne Per ogni sepoltura è consentita una sola urna, che può contenere le ceneri di un massimo di due animali d'affezione. Sono tre le modalità previste: per le sepolture a terra l'urna può essere sistemata in un apposito vano nella lapide o nel copritomba; per loculi, ossari e cinerari l'urna può essere collocata all'esterno della lastra di chiusura; nelle tombe di famiglia deve trovare posto in uno spazio apposito e distinto. In tutti i casi il gestore dei servizi cimiteriali deve verificarne la compatibilità tecnica, la stabilità e la sicurezza. Il contenitore deve essere realizzato con materiali resistenti e adatti alla conservazione nel tempo, con dimensioni non superiori a 25 centimetri per lato. Deve inoltre essere fissato in modo stabile e riportare una targhetta con la dicitura "URNA CINERARIA ANIMALE", il codice identificativo assegnato e, facoltativamente, il nome dell'animale. Sulla lapide non sono consentite epigrafi dedicate all'animale né fotografie che lo ritraggano da solo, mentre è espressamente ammessa una fotografia della persona sepolta insieme al proprio animale. Gli animali ammessi La disciplina riguarda gli animali da compagnia come cani, gatti, conigli domestici, piccoli roditori, uccelli da compagnia, pesci ornamentali, tartarughe e piccoli rettili domestici. Sono invece esclusi gli animali da allevamento o destinati alla produzione alimentare, la fauna selvatica o protetta e gli animali di dimensioni non compatibili con le modalità di collocazione previste. A presentare la richiesta può essere il concessionario della sepoltura o un altro soggetto che abbia titolo sulla stessa; se il concessionario è deceduto, sono necessari gli assensi degli altri aventi titolo. L'animale deve essere appartenuto al defunto, al concessionario o a uno degli altri soggetti aventi titolo sulla sepoltura. Non è necessario che la persona sepolta abbia espresso in vita la volontà di collocare l'urna dell'animale accanto alla propria tomba: la richiesta può infatti essere presentata anche successivamente. La nuova disciplina prosegue il percorso avviato dal Comune per aggiornare le regole cimiteriali rispetto a nuove esigenze. Nel 2025 e nel primo semestre del 2026 sono già state adottate disposizioni su altri temi, tra cui l'inumazione di urne biodegradabili, la parificazione dell'unione civile al matrimonio ai fini della legittimazione a disporre delle spoglie del defunto, la procedura per la sepoltura di feti e prodotti abortivi e le cerimonie funebri all'aperto.
+<article source="ANSA" date="Tue, 6 Oct 2026 23:37:45 +0200">
+Allarme peste in Russia, Trump: 'A breve sentirò Putin'
+Rubio chiede a Mosca tutte le informazioni '. L'Oms frena gli allarmismi
 </article>
-<article source="AGI" date="Mon, 05 Oct 2026 10:46:57 GMT">
-Omicidio Pamela Genini, le scuse di Soncin in aula: "Chiedo perdono"
-"In questo momento di grande dolore e grande tristezza porgo le scuse alla famiglia di Pamela. Comprendo il peso del dolore e delle mie azioni." Gianluca Soncin, l'imprenditore imputato per l'omicidio dell'ex fidanzata Pamela Genini di 29 anni, rende dichiarazioni spontanee davanti ai giudici della Corte d'Assise di Milano. Per la prima volta dall'inizio del procedimento giudiziario, l'uomo ammette di provare dispiacere e di comprendere la gravità di quanto commesso. La ricostruzione del delitto I fatti risalgono al 14 ottobre, quando la relazione tra i due era giunta al termine. Secondo quanto ricostruito dagli inquirenti durante le indagini, Soncin ha aggredito la giovane donna infierendo su di lei con un'estrema e inaudita violenza: la ventinovenne è stata colpita da ben 76 coltellate, che non le hanno lasciato scampo. Un'aggressione brutale maturata nel contesto della fine del loro rapporto, che ha portato all'arresto dell'imprenditore con l'accusa di omicidio volontario aggravato. Le parole in aula davanti ai giudici Nel corso dell'udienza a Milano, Soncin ha rivolto il suo pensiero direttamente ai familiari della vittima: "Comprendo il peso delle mie azioni, il ricordo di Pamela resterà indelebile nei nostri cuori. Non mi resta che assumermi fino in fondo le mie responsabilità per il dolore che ho causato". Parole con cui l'imputato ha scelto di ammettere le proprie colpe di fronte al collegio giudicante, segnando un passaggio chiave nel processo per il femminicidio della ventinovenne.
+<article source="ANSA" date="Tue, 6 Oct 2026 22:25:13 +0200">
+A Venezia il Trans-Regional Seapower Symposium, focus sulla geopolitica dei mari
+Il 6 e 7 ottobre all'Arsenale un evento organizzato dalla Marina militare
 </article>
-<article source="ANSA" date="Mon, 5 Oct 2026 23:32:02 +0200">
-Foto inedite di Sinwar diffuse dalle Brigate al Qassem alla vigilia del 7 ottobre
-L'ex capo di Hamas ucciso dalle Idf nel 2024
+<article source="ANSA" date="Tue, 6 Oct 2026 21:30:54 +0200">
+Il Governo incassa la doppia fiducia sulla legge elettorale, occhi puntati su giovedì
+Magi prosegue lo sciopero della fame, Meloni gli scrive. Appello di Bonetti alle donne della maggioranza
 </article>
-<article source="ANSA" date="Mon, 5 Oct 2026 23:15:13 +0200">
-Esplosione nel centro di Bergamo per una fuga di gas, 8 feriti
-Due persone sono gravi. Il boato in un edificio di via Longo
+<article source="ANSA" date="Tue, 6 Oct 2026 21:15:16 +0200">
+L'ultimo atto di Sanchez, varati due nuovi decreti sulla casa
+Al via una campagna stile Mamdani, 'basta sfratti, non abbandoniamo la gente'
 </article>
-<article source="ANSA" date="Mon, 5 Oct 2026 23:05:11 +0200">
-Per le donne il gender gap pesa anche sull'accesso all'abitare
-Una ricerca promossa dalla Fondazione Torino Città per le Donne
+<article source="ANSA" date="Tue, 6 Oct 2026 20:51:38 +0200">
+Garlasco, Sempio: 'Non vivo più. La condanna di Alberto Stasi è giusta'
+Negli atti i timori legali dell'ex capo del Ris, Lago e le mail di Garofano
 </article>
-<article source="ANSA" date="Mon, 5 Oct 2026 21:10:43 +0200">
-La madre e la sorella di Pamela Genini contro le scuse di 'plastica' del killer
-Gianluca Soncin: 'Comprendo peso delle mie azioni'
+<article source="ANSA" date="Tue, 6 Oct 2026 20:25:05 +0200">
+Occhiuto: 'I diritti civili non sono trattati con sufficiente coraggio dal centrodestra'
+Il presidente della Regione Calabria e vicesegretario nazionale di Forza Italia all'evento ANSA a Cosenza per la quarta tappa del tour sull'innovazione
 </article>
-<article source="ANSA" date="Mon, 5 Oct 2026 21:04:59 +0200">
+<article source="ANSA" date="Tue, 6 Oct 2026 20:06:56 +0200">
+Nobel per la Fisica a Hazen, con lui nuovi occhi sul cosmo
+Ha ideato un osservatorio nei ghiacci per catturare i neutrini messaggeri dell'universo
+</article>
+<article source="ANSA" date="Tue, 6 Oct 2026 20:06:34 +0200">
+Trump dà l'ok alla fucilazione del killer di Fort Hood
+Nel 2009 Hasan uccise 13 persone.Torna il plotone militare dopo la Seconda guerra mondiale
+</article>
+<article source="ANSA" date="Tue, 6 Oct 2026 19:48:08 +0200">
+La prima volta di AfD alla guida di un parlamento regionale
+Rausch eletto in Sassonia-Anhalt coi voti dei rossobruni, cade il cordone sanitario
+</article>
+<article source="ANSA" date="Tue, 6 Oct 2026 19:40:17 +0200">
+Hamas pubblica un video di Sinwar prima di essere ucciso, travestito per spostarsi
+Il capo di Hamas ucciso dall'Idf nel 2024, domani l'anniversario degli attacchi su Israele
+</article>
+<article source="ANSA" date="Tue, 6 Oct 2026 19:21:36 +0200">
+Battaglia nel Mar Nero, colpite navi cargo al largo della Bulgaria
+Affondato un mercantile, disperso l'equipaggio. Massicci raid incrociati su Mosca e Kiev
+</article>
+<article source="ANSA" date="Tue, 6 Oct 2026 19:21:00 +0200">
+Curva dei rendimenti: cosa significa quando si irripidisce o si appiattisce
+</article>
+<article source="ANSA" date="Tue, 6 Oct 2026 19:20:35 +0200">
+In Messico calo storico dei femminicidi. Come funziona la Linea antiviolenza
+La ministra delle Donne, Laura Itzel: 'Il numero sventa rischi nel 33% delle chiamate ricevute'
+</article>
+<article source="ANSA" date="Tue, 6 Oct 2026 18:52:24 +0200">
+Jessica Moretti chiede l'indennità per la perdita di guadagno
+Proprietaria Constellation si è rivolta all'assicurazione che ha avuto via dalla procura
+</article>
+<article source="ANSA" date="Tue, 6 Oct 2026 17:59:16 +0200">
+Parte il processo a Boccia, tra i testi citata anche Arianna Meloni
+Oltre a Giuli e Ranucci. L'imprenditrice accusata di stalking a Sangiuliano
+</article>
+<article source="ANSA" date="Tue, 6 Oct 2026 17:49:30 +0200">
+In Sardegna il borgo in cui le donne vivono fino a 100 anni
+Per le abitanti di Bolotana è 3 volte più probabile diventare centenarie
+</article>
+<article source="ANSA" date="Tue, 6 Oct 2026 16:12:38 +0200">
+Lane (Bce): 'La flessibilità Ue? Servono misure mirate ai bassi redditi, non a pioggia'
+Il capo economista: 'La solidità dell'economia italiana aiuterà un recupero dei salari nel 2027-28'
+</article>
+<article source="ANSA" date="Tue, 6 Oct 2026 15:00:59 +0200">
+A Roma proiezione speciale di Profumo di Pizzi, per ricordare il celebre fotografo
+Il 7 ottobre al cinema Adriano, giorno in cui avrebbe compiuto 89 anni
+</article>
+<article source="ANSA" date="Tue, 6 Oct 2026 14:26:10 +0200">
+De Niro attacca Trump: "Codardo, giù le mani dal nostro voto!"
+L'attore si scaglia pesantemente contro il presidente (e non bada al linguaggio...)
+</article>
+<article source="ANSA" date="Tue, 6 Oct 2026 12:51:41 +0200">
+Specialty coffee, alla scoperta del caffè gourmet
+</article>
+<article source="ANSA" date="Tue, 6 Oct 2026 10:00:28 +0200">
+Greenpeace, Roma penultima in Europa sulla transizione al riscaldamento green
+In testa Stoccolma, Parigi e Vienna. Peggio della Capitale solo Bucarest
+</article>
+<article source="ANSA" date="Tue, 6 Oct 2026 08:18:23 +0200">
 È morta la giornalista dell'ANSA Alessandra Moneti
 Voce dell'agenzia per il settore agroalimentare, vino e food. Cordoglio del ministro Lollobrigida e delle associazioni
 </article>
-<article source="ANSA" date="Mon, 5 Oct 2026 18:39:13 +0200">
-Nadal torna in campo per i dieci anni della sua Academy
-Prima volta dal ritiro nel 2024. Murray, Ferrer e Thiem ospiti dell'evento a Manacor
+<article source="ANSA" date="Tue, 6 Oct 2026 20:46:26 +0200">
+Malagò commissario della Figc, nuove elezioni il 14 dicembre
+La crisi si risolve con l'accordo al Coni: voto unanime di Giunta e Consiglio Nazionale
 </article>
-<article source="ANSA" date="Mon, 5 Oct 2026 18:24:00 +0200">
-A Parma una via del centro si colora con 'l'urbanismo tattico'
-Un azione nell'ambito di Parma Capitale Europea dei Giovani 2027
+<article source="ANSA" date="Tue, 6 Oct 2026 20:13:15 +0200">
+Il governo temporeggia sui carburanti, dossier inflazione all'Ecofin
+Il tema non è ufficialmente all'odg, ma il Mef assicura: 'Troverà spazio'
 </article>
-<article source="ANSA" date="Mon, 5 Oct 2026 16:50:34 +0200">
-Trump continua il suo tour in vista delle midterm e vola in Nebraska
-Il presidente Usa loda la velocità dello spoglio in Brasile: 'Da noi settimane per truccare il voto'
+<article source="ANSA" date="Tue, 6 Oct 2026 14:51:09 +0200">
+Morte di Davis Rossi, il fratello: 'Suicidio? Non ci avrebbe mai salutato così'
+'Le indagini sono state fatte male'
 </article>
-<article source="ANSA" date="Mon, 5 Oct 2026 13:54:10 +0200">
-L'Ia e gli squilibri delle tasse, rischio uragano per il fisco italiano
+<article source="ANSA" date="Tue, 6 Oct 2026 13:07:07 +0200">
+Onu, 'crisi abitativa per 3,4 miliardi di persone, 1 miliardo vive in baraccopoli'
+'Un alloggio adeguato non è un lusso. È il fondamento di una vita dignitosa'
 </article>
-<article source="ANSA" date="Mon, 5 Oct 2026 07:30:56 +0200">
-Massicce il doppio di Giove le stelle mancate più piccole mai viste
-Sono le nane brune viste grazie al telescopio spaziale James Webb
+<article source="ANSA" date="Tue, 6 Oct 2026 07:28:05 +0200">
+Scoperto un pianeta-fenice, è rinato dalle ceneri della sua stella
+Apre domande sul futuro del Sistema Solare dopo la morte del Sole
 </article>
-<article source="Adkronos" date="Tue, 6 Oct 2026 00:30:18 +0200">
-D'Alema: "Meloni ha attirato il centrosinistra in una trappola"
-"Il campo largo? Serve un programma, non un federatore"
+<article source="Adkronos" date="Wed, 7 Oct 2026 00:37:56 +0200">
+Sondaggi politici, Fratelli d'Italia primo partito: centrodestra avanti sul campo largo. Pd arretra
+I dati dell'istituto Noto per 'Porta a Porta' sulle intenzioni di voto degli italiani. In calo Futuro Nazionale, stabile la Lega
 </article>
-<article source="Adkronos" date="Tue, 6 Oct 2026 00:04:54 +0200">
-Obiettivo Export, Adnkronos media partner: diretta speciale, interviste e podcast
-Il 6 ottobre all’Auditorium Parco della Musica la tappa dedicata alle imprese e ai territori del Centro Italia. Copertura multimediale Adnkronos con news, video, live alle 13 sulla homepage e Youtube e un episodio de “La Sfera”
+<article source="Adkronos" date="Wed, 7 Oct 2026 00:36:23 +0200">
+Israele, allerta massima per oggi 7 ottobre: "Rischio elevato di attacchi"
+L'avviso ai connazionali che si trovano all'estero per possibili attentati. L'invito a evitare alcuni Paesi tra cui Giordania, Qatar ed Egitto. Netanyahu: "Risponderemo con forza schiacciante"
 </article>
-<article source="Adkronos" date="Mon, 5 Oct 2026 22:55:33 +0200">
-Mancini: "Bravi a riprendere la partita, bilancio più che positivo"
-Il ct azzurro: "Inevitabile che con tanti cambi si perdesse qualcosa in fluidità"
+<article source="Adkronos" date="Tue, 6 Oct 2026 23:57:00 +0200">
+Marco Bucci operato al Galliera per la ricostruzione cutanea al naso: "Sto bene"
+L'intervento si è reso necessario, dopo la rimozione, avvenuta la settimana scorsa di un basalioma
 </article>
-<article source="Adkronos" date="Mon, 5 Oct 2026 22:01:00 +0200">
-Caso Garlasco, i sospetti dei pm sui reperti: "Distrutti dopo la sentenza definitiva su Stasi"
-La modalità di conservazione degli eluiti diventa l'ultimo terreno di scontro
+<article source="Adkronos" date="Tue, 6 Oct 2026 22:47:00 +0200">
+Di Battista in studio a DiMartedì: "Ho iniziato le terapie per il tumore, ci sono tutte le carte per guarire"
+L'ex parlamentare: "Il tumore ha caratteristiche molecolari che lo rendono vulnerabile alle cure"
 </article>
-<article source="Adkronos" date="Mon, 5 Oct 2026 20:41:17 +0200">
-La potenza muscolare invecchia, cos'è la powerpenia: "Si scopre con test funzionali, è reversibile"
-Medico-fisiatra: "Agire per contrastarla significa fare prevenzione primaria delle cadute e della sindrome da fragilità"
+<article source="Adkronos" date="Tue, 6 Oct 2026 22:07:28 +0200">
+Superenalotto, numeri combinazione vincente di oggi 6 ottobre
+Nessun 6 né 5+1, i 5 vincono 34mila euro
 </article>
-<article source="Adkronos" date="Mon, 5 Oct 2026 19:53:37 +0200">
-Nautica e turismo, una filiera strategica per generare crescita e valore sui territori
-Confindustria Nautica: integrare porti e territori, investire in infrastrutture e servizi e riconoscere al turismo nautico un ruolo centrale nelle politiche nazionali
+<article source="Adkronos" date="Tue, 6 Oct 2026 21:04:00 +0200">
+Al tempio di Roma la commemorazione per il 7 ottobre e l'attentato del 9 ottobre 1982
+La cerimonia è cominciata con un minuto di silenzio
 </article>
-<article source="Governo Italiano - Comunicati Stampa" date="Mon, 05 Oct 2026 17:43:22 +0200">
-Protezione civile, graduatoria finale mobilità 18 posti di cat. B
-Graduatoria finale della procedura di mobilità indetta con DSG 10 dicembre 2025, per la copertura di 18 posti di Categoria “B” presenti nella dotazione organica del ruolo speciale tecnico amministrativo del Dipartimento della Protezione civile.
+<article source="Adkronos" date="Tue, 6 Oct 2026 19:50:59 +0200">
+Roma, uomo investito dal treno alla stazione Trastevere: ipotesi suicidio
+Secondo quanto apprende Adnkronos l'uomo, sulla cinquantina, si sarebbe gettato sui binari, mentre arrivava un treno Leonardo Express, diretto all'aeroporto di Fiumicino
 </article>
-<article source="Governo Italiano - Comunicati Stampa" date="Mon, 05 Oct 2026 17:40:09 +0200">
-Protezione civile, graduatoria finale mobilità 19 posti di cat. A
-Graduatoria finale della procedura di mobilità indetta con DSG 10 dicembre 2025, per la copertura di 19 posti di Categoria “A” presenti nella dotazione organica del ruolo speciale tecnico amministrativo del Dipartimento della Protezione civile.
+<article source="Adkronos" date="Tue, 6 Oct 2026 19:38:53 +0200">
+Open fiber ed Enea: turismo, energia e monitoraggio del territorio, ecco il modello di borgo
+Sperimentare sistemi per il monitoraggio dei rischi naturali, migliorare l’efficienza dell’illuminazione pubblica, creare un gemello digitale del Comune per conoscere e gestire il territorio, valorizzare il patrimonio culturale con la realtà aumentata. Sono alcune delle quindici applicazioni sviluppate a Pitigliano che hanno dato vita a un modello di borgo digitale sostenibile, replicabile in altri piccoli Comuni. Open Fiber ed ENEA hanno presentato oggi a Roma, presso l’Associazione Civita, i risultati del progetto 'Laboratorio a cielo aperto per lo sviluppo dei borghi digitali sostenibili 2023–2026', realizzato insieme al Comune di Pitigliano con il supporto scientifico dell’Istituto Nazionale di Geofisica e Vulcanologia (INGV) e del Centro di ricerca SMARTER dell’Università dell’Insubria. Il progetto racconta come l’infrastruttura in fibra ottica di Open Fiber, insieme alle metodologie ENEA possono sviluppare, attraverso le piattaforme digitali servizi innovativi individuati attraverso il confronto con i cittadini e gli amministratori locali.
 </article>
-<article source="Governo Italiano - Comunicati Stampa" date="Mon, 05 Oct 2026 14:22:53 +0200">
-Incontro con il Primo Ministro della Repubblica di Slovenia
-Il Presidente del Consiglio, Giorgia Meloni, ha incontrato oggi a Palazzo Chigi, il Primo Ministro della Repubblica di Slovenia, Janez Janša.
+<article source="Adkronos" date="Tue, 6 Oct 2026 19:20:02 +0200">
+Arte, Ferrara entra nel Sistema dei Poli Culturali Bper
+Palazzo Barbantini-Koch apre come nuova sede de La Galleria Bper che valorizza il patrimonio artistico e documentale della città con il percorso espositivo permanente 'Uno scrigno di storia
 </article>
-<article source="Il Post" date="Mon, 05 Oct 2026 17:34:02 GMT">
-In certi posti di montagna le case sono sempre più richieste
+<article source="Adkronos" date="Tue, 6 Oct 2026 19:05:00 +0200">
+Premio Impatto 2026, ecco i vincitori
+Anche quest’anno, nel corso dell’edizione nazionale del Salone della Csr e dell’innovazione sociale, sono stati scelti i sei vincitori del Premio Impatto: un riconoscimento voluto dal Gruppo promotore del Salone in collaborazione con Assobenefit, Csvnet, Fondazione Italia Digitale, ReFe e Social Value Italia, per dare valore a progetti ed esperienze capaci di trasformare l’impegno in impatto positivo per le persone e la comunità. A partecipare alla quinta edizione sono state 61 imprese, 40 organizzazioni non profit e 6 Pubbliche Amministrazioni. Progetti diversi, accomunati dalla volontà di generare cambiamenti concreti e misurabili. Per ogni categoria sono stati scelti due vincitori.
 </article>
-<article source="Il Post" date="Mon, 05 Oct 2026 14:50:50 GMT">
-“Digger” sta andando male oltre ogni peggiore aspettativa
+<article source="Adkronos" date="Tue, 6 Oct 2026 18:59:55 +0200">
+Morte David Rossi, il fratello Filippo: "Suicidio? Non ci avrebbe mai salutato così"
+Filippo Rossi è stato sentito in audizione davanti alla Commissione parlamentare di inchiesta sulla morte dell’ex capo della Comunicazione di Mps
 </article>
-<article source="Il Post" date="Mon, 05 Oct 2026 14:04:18 GMT">
-Gli attacchi ucraini contro la Russia non bastano
+<article source="Adkronos" date="Tue, 6 Oct 2026 18:58:00 +0200">
+Tavolo Regione Lazio su golf car, nodo su numero chiuso e accesso al centro storico
+L'incontro a Roma. Per il primo firmatario della proposta di legge, il consigliere in quota FdI Marco Bertucci, la speranza è "di approvare testo in consiglio Regionale entro novembre"
 </article>
-<article source="Il Post" date="Mon, 05 Oct 2026 10:44:34 GMT">
-In Iran la situazione economica peggiora velocemente
+<article source="Adkronos" date="Tue, 6 Oct 2026 18:53:00 +0200">
+Farmaci, Carugi (Farmindustria): "Plasmaderivati strategici, in Italia sistema all'avanguardia"
+Plasmaderivati, ovvero farmaci biologici salvavita prodotti dall'industria a partire dalla lavorazione del plasma umano, la parte liquida del sangue donata da volontari. Medicinali che “hanno un valore importantissimo, pochi sanno che in Italia l'80% del plasma che viene raccolto all'interno del sistema di autosufficienza nazionale viene poi conferito alle aziende per essere frazionato e per produrre poi i plasmaderivati. E soltanto un 20% è dedicato alle emergenze”, spiega all'Adnkronos Salute Francesco Carugi, presidente del Gruppo Emoderivati Farmindustria. (VIDEO)
 </article>
-<article source="Il Post" date="Mon, 05 Oct 2026 08:56:12 GMT">
-Alle elezioni in Bosnia hanno vinto i partiti nazionalisti
+<article source="Adkronos" date="Tue, 6 Oct 2026 18:42:18 +0200">
+Export, Tripoli: "Con AI le Pmi rischiano di sparire dalle selezioni, noi le aiutiamo"
+Le Camere di commercio puntano soprattutto sulle imprese di minori dimensioni per accompagnarle nei processi di internazionalizzazione, dalla valutazione della capacità di affrontare un mercato estero fino ai primi contatti con operatori e imprenditori stranieri. Un’attività costruita anche attraverso un rapporto diretto con le singole aziende, per verificarne prodotto, organizzazione e potenziale sui mercati internazionali.
 </article>
-<article source="Il Post" date="Mon, 05 Oct 2026 07:59:15 GMT">
-I problemi dei dispositivi che ci ascoltano in continuazione
+<article source="Adkronos" date="Tue, 6 Oct 2026 14:59:27 +0200">
+Malattia di Crohn, Armuzzi (Humanitas): "Meccanismo d’azione mirikizumab un vantaggio"
+‘Blocca proteina cardine per infiammazione cronica e manifestazione della patologia’
 </article>
-<article source="Il Post" date="Mon, 05 Oct 2026 04:57:34 GMT">
-Le prime pagine di oggi
+<article source="Adkronos" date="Tue, 6 Oct 2026 14:45:35 +0200">
+Omicidi Villa Pamphili, la difesa Kaufmann chiede una nuova perizia: questa volta su capacità di intendere e volere
+La richiesta avanzata dal team difensivo dell'uomo accusato del duplice omicidio della compagna Anastasia Trofimova e della figlia Andromeda
 </article>
-<article source="Il Sole Ventiquattro Ore" date="Mon, 5 Oct 2026 18:05:00 GMT">
-La Dama col liocorno di Raffaello in Brianza, le grandi opere dai musei al territorio
-Dal 29 ottobre all’11 dicembre visite gratuite tutti i giorni dalle ore 9.30 alle 19. Giuli: «Il patrimonio culturale acquisisce valore quando è accessibile a tutti»
+<article source="Adkronos" date="Tue, 6 Oct 2026 14:37:45 +0200">
+Tokyo, c'è Alcaraz in campo e spunta... il sosia di Sinner
+Il divertente siparietto in una delle sessioni di allenamento prima della finale vinta contro Lehecka
 </article>
-<article source="Il Sole Ventiquattro Ore" date="Mon, 5 Oct 2026 14:11:55 GMT">
-Decreto fiscale omnibus: i controlli da fare per allinearsi
-In edicola giovedì 8 ottobre con Il Sole 24 Ore al prezzo complessivo di 3 euro
+<article source="Adkronos" date="Tue, 6 Oct 2026 14:21:18 +0200">
+Previdenza, Oddone, (Alleanza Assicurazioni): "Proteggersi prima per affrontare non autosufficienza"
+L’ad Alleanza: "Serve creare cultura e consapevolezza, anche per sostenere i caregiver"
 </article>
-<article source="Il Sole Ventiquattro Ore" date="Mon, 5 Oct 2026 10:33:00 GMT">
-Verso la Manovra: dall’Istat a Giorgetti, le audizioni in programma in Parlamento
-Sei audizioni in quattro ore. Lunedì 12 ottobre le commissioni Bilancio di Camera e Senato aprono l’esame del Documento programmatico di finanza pubblica (Dpfp). Dalle 14 saranno ascoltati Istat, Corte...
+<article source="Adkronos" date="Tue, 6 Oct 2026 14:09:51 +0200">
+Previdenza, Monacelli (Generali): "Network sanitario di 15.000 strutture rende più accessibili le cure"
+"L’aspettativa di vita aumenta, bisogna creare le condizioni affinché una società con più persone anziane sia una società solida anche in futuro"
 </article>
-<article source="Il Sole Ventiquattro Ore" date="Mon, 5 Oct 2026 08:09:00 GMT">
-Fisco, Istat: nel secondo trimestre pressione sale al 43,5%. Il deficit migliora al 2% del Pil
-La propensione al risparmio delle famiglie consumatrici è stata pari al 6,7%, in diminuzione di 1,2 punti percentuali rispetto al trimestre precedente. A fronte di un incremento dell’1,4% del deflatore implicito dei consumi, il potere d’acquisto delle famiglie è diminuito dello 0,9% rispetto al trimestre precedente
+<article source="Adkronos" date="Tue, 6 Oct 2026 13:58:13 +0200">
+Nautica, Formenti (Confindustria): "140mila visitatori a Genova, siamo il più grande Salone al mondo"
+“Crescere sulla crescita non è affatto facile, ma mettere a segno un +11,2% e sfiorare i 140mila visitatori in sei giorni è un risultato che nessun altro salone al mondo può vantare. A questo punto possiamo dirlo senza tema di smentita: siamo il più grande salone nautico al mondo. I riscontri positivi arrivano diretti dagli operatori di tutti i comparti: dalla piccola nautica alla vela — che ha registrato un +28% nei catamarani e multiscafi — fino ai superyacht, dove sono stati conclusi e siglati contratti decisivi avviati nelle tappe di Cannes e Montecarlo, confermando la bontà della scelta strategica delle nostre date. Segnali eccellenti giungono anche dal settore accessori e componentistica. Per il futuro e verso l'edizione 2027, già fissata dal 30 settembre al 5 ottobre, lavoreremo per perfezionare l'integrazione con le nuove strutture del Waterfront di Levante, dal Palasport all'area ex Tensostruttura, la cui rimozione ha regalato una continuità visiva unica sul mare. C'è inoltre un impegno forte da parte della sindaca Salis e delle partecipate per la manutenzione delle infrastrutture. La vera svolta all'orizzonte sarà la nuova darsena pensata da Renzo Piano nell'ambito della nuova diga foranea: accoglierà barche fino a 100-120 metri, creando un polo di refitting e di offerta nautica senza eguali al mondo”. Lo ha dichiarato Piero Formenti, presidente di Confindustria Nautica, intervenendo nel corso della conferenza stampa di chiusura del 66esimo Salone Nautico Internazionale di Genova, la kermesse leader mondiale del settore svoltasi presso il nuovo Waterfront di Levante fino al 6 ottobre sotto l'emblema e il pay-off ‘We are made of sea’.
 </article>
-<article source="Il Sole Ventiquattro Ore" date="Mon, 5 Oct 2026 08:01:47 GMT">
-Sequestrati 77 pappagalli e 300 testuggini al porto di Pozzallo
-La Guardia di finanza e i funzionari dell’Agenzia delle dogane e dei monopoli hanno intercettato un’auto. Alla guida della vettura si trovava un cittadino maltese, fermato prima che potesse imbarcare gli animali su un catamarano diretto proprio verso l’isola mediterranea
+<article source="Adkronos" date="Tue, 6 Oct 2026 13:56:00 +0200">
+Francia, Macron assiste a lancio di prova missile intercontinentale da sottomarino nucleare
+"Per essere liberi, bisogna essere temuti. E per essere temuti, bisogna essere potenti", ha dettoil capo dell'Eliseo
+</article>
+<article source="Governo Italiano - Comunicati Stampa" date="Tue, 06 Oct 2026 20:25:30 +0200">
+Riunione del CIPESS del 6 ottobre 2026
+Nella seduta odierna, il Comitato interministeriale per la programmazione economica e lo sviluppo sostenibile (CIPESS), presieduto dal Ministro dell’Economia e delle Finanze e Vicepresidente del CIPESS, Giancarlo Giorgetti, e con la presenza del Segretario del CIPESS, Sottosegretario di Stato alla Presidenza del Consiglio dei ministri, Alessandro Morelli, ha adottato numerosi provvedimenti in materia di infrastrutture e di politiche di coesione.
+</article>
+<article source="Governo Italiano - Comunicati Stampa" date="Tue, 06 Oct 2026 15:15:45 +0200">
+Bando referendario TAR 2025, integrazione della Commissione esaminatrice
+Dpcm 28 settembre 2026 di integrazione della Commissione esaminatrice con i componenti per la valutazione della prova facoltativa nelle lingue straniere.
+</article>
+<article source="Governo Italiano - Comunicati Stampa" date="Tue, 06 Oct 2026 12:13:33 +0200">
+Quarta riunione del gruppo informale sulla competitività europea
+In vista del Consiglio europeo del 15 e 16 ottobre, il Presidente del Consiglio Giorgia Meloni, il Cancelliere tedesco Friedrich Merz e il Primo Ministro belga Bart De Wever hanno ospitato una nuova riunione in videoconferenza dei Capi di Stato e di Governo del gruppo informale sulla competitività europea. Insieme a Italia, Germania e Belgio, hanno preso parte alla videoconferenza la Commissione europea, Austria, Bulgaria, Cipro, Croazia, Estonia, Finlandia, Grecia, Lettonia, Lituania, Polonia, Repubblica Ceca, Romania, Slovacchia, Slovenia, Svezia e Ungheria.
+</article>
+<article source="Il Post" date="Tue, 06 Oct 2026 11:17:14 GMT">
+Giovanni Malagò non è più presidente della Federcalcio
+</article>
+<article source="Il Post" date="Tue, 06 Oct 2026 07:39:29 GMT">
+Il progetto per costruire una nuova moschea a Torino
+</article>
+<article source="Il Post" date="Tue, 06 Oct 2026 06:51:09 GMT">
+L'esercito degli Stati Uniti eseguirà una condanna a morte tramite fucilazione per la prima volta dal 1945
+</article>
+<article source="Il Post" date="Tue, 06 Oct 2026 06:21:03 GMT">
+Perché la Federcalcio è stata commissariata
+</article>
+<article source="Il Post" date="Tue, 06 Oct 2026 05:23:32 GMT">
+Chi vincerà il Nobel per la letteratura 2026?
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 17:41:00 GMT">
+Pensioni dei militari, l’Usmia: «Dal 2032 è allarme per i contributivi puri». Ecco il perché e le simulazioni
+Il problema riguarda il modo in cui il sistema contributivo determina l’importo della pensione. Secondo il sindacato, nel solo Esercito le persone interessate saranno circa 10.000, mentre, considerando Forze Armate e Forze di Polizia a ordinamento civile e militare, la platea viene stimata in circa 40-45 mila persone
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 16:49:01 GMT">
+Previdenza, 11 milioni di iscritti e 80 miliardi di titoli di stato: così crescono i fondi pensione in Italia
+Quasi 11 milioni di iscritti e 273,2 miliardi di euro accantonati. La previdenza complementare italiana, i fondi pensione che affiancano l’assegno pubblico, continua a crescere: a metà 2026...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 14:48:00 GMT">
+Perturbazione atlantica in arrivo: piogge diffuse e calo termico fino a 20°C al Nord e 24°C al Sud
+“Dopo l’estate più calda della storia, e un mese di settembre caldo e sopra la media del periodo, ecco che una perturbazione nordatlantica porterà un primo calo delle temperature su...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 14:38:13 GMT">
+Fibra ottica, da Pitigliano un modello di borgo digitale per i piccoli Comuni
+Un cavo in fibra ottica che, oltre a trasportare dati, registra le vibrazioni del terreno. E una piattaforma che restituisce al Comune la mappa completa dei suoi impianti di illuminazione...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 13:51:00 GMT">
+Minerali critici, Tajani: «Al lavoro per un accordo con la Repubblica Democratica Congo»
+A Roma la conferenza: “Obiettivo export: imprese e territori del Centro Italia, verso la Conferenza nazionale dell’export 2026”. Bianchi (Confindustria): «Piccole imprese campioni di export, ora accompagnarle nelle catene del valore all’estero»
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 13:33:00 GMT">
+Meloni con altri 18 leader Ue: «Risposte chiare sui costi dell’energia»
+Mentre attende la risposta di Ursula von der Leyen alla lettera con cui ha chiesto ulteriore flessibilità legata all’inflazione, Giorgia Meloni cerca alleati sul dossier del costo dell’energia...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 13:31:28 GMT">
+Terzi di Sant’Agata: «AI, Usa ed Europa ora allineati contro il Far West. Sfida Gigafactory per l’Italia»
+«Anche gli americani hanno capito che sull’intelligenza artificiale non può esserci un Far West, perché distruggerebbe la loro stessa sicurezza nazionale». Giulio Terzi di Sant’Agata, senatore di Fdi e presidente...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 13:29:00 GMT">
+Legge elettorale 2027, cos’è lo Stabilicum: come voteremo e che cosa cambia
+Dal premio di maggioranza per chi supera il 42% all’indicazione del candidato premier della coalizione, dal ritorno delle preferenze alle soglie per i piccoli partiti: ecco la rivoluzione del Melonellum
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 12:55:00 GMT">
+Legge elettorale, ok della Camera alla fiducia ai primi due articoli dello Stabilicum
+L’Aula di Montecitorio ha approvato con 226 voti a favore (i partiti di maggioranza) e 147 contrari (tutti i partiti di opposizione) la fiducia posta dal governo sull’articolo...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 11:30:16 GMT">
+Multe, bollo, Imu e Tari: anche i Caf in campo per le domande di rottamazione quinquies
+Dalle multe al bollo auto, dal bollo auto all’Imu e alla Tari. Caf in campo per le domande della rottamazione quinquies delle entrate di poco meno di 1.500 enti locali...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 10:00:59 GMT">
+Difesa, dagli alloggi di servizio alla centralizzazione degli acquisti, le misure operative indicate nel Dpfp
+Con l’attivazione della NEC (National Escape Clause, la Clausola di salvaguardia nazionale), richiesta ufficialmente dal Governo alla Commissione europea, è previsto il suo utilizzo per la spesa in Difesa dello 0,3 per cento del Pil sia per il 2027 sia per il 2028
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 10:00:00 GMT">
+Il Cremlino: «I diplomatici europei decidano se evacuare da Kiev, noi continuiamo i raid». I numeri dell’ambasciata italiana
+Il portavoce del Cremlino, Dmitry Peskov, citato dalla Tass: «Le nostre forze armate continuano il loro lavoro»
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 09:56:00 GMT">
+Nuovo BTp Valore: cedole crescenti in tre tappe. Le differenze con il BTp Valore Insieme
+Il Tesoro pubblica la scheda informativa sul titolo in offerta dal 19 al 23 ottobre: sistema step up con aumento del rendimento a partire dal terzo e dal quinto anno
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 09:43:00 GMT">
+Spesa per le pensioni nel 2027: +14,7 miliardi per la perequazione all’inflazione. Cosa può cambiare
+Sul capitolo pensioni della manovra 2027 la strada è stretta. Il Documento programmatico di finanza pubblica sembra lasciare pochi margini di azione, considerando che la spesa per pensioni è prevista...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 09:34:52 GMT">
+Al via “Paesaggio che vai. Cammini d’Italia per fare comunità”, iniziativa di Acri e 12 Fondazioni Bancarie
+In cammino tra storia e cultura. Dal nord alle isole, passando in 11 regioni d’Italia, con l’intento di promuovere i cammini come spazi di partecipazione, sostenibilità e identità collettiva. È...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 09:07:53 GMT">
+Over65, redditi bassi, entrate in contanti: chi resta fuori dai pagamenti digitali
+Il reddito entra in contanti e in contanti esce. È il circuito in cui si muove circa un consumatore italiano su dieci, secondo uno studio della Banca d’Italia che ha...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 07:00:00 GMT">
+Le innovazioni nei trattamenti mini-invasivi di cardiochirurgia
+La cardiochirurgia è un ambito in cui l’innovazione tecnologica sta cambiando anche il modo di affrontare l’intervento. Accanto alla chirurgia tradizionale si sono sviluppate tecniche mini-invasive che consentono, in pazienti...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 06:45:00 GMT">
+Legge elettorale, fiducia su tre articoli. Verso l’election day a maggio
+«La decisione del governo di porre la fiducia sulla legge elettorale rappresenta un grave schiaffo al Parlamento. La verità è che l’esecutivo ha paura della propria maggioranza, della sua tenuta...
+</article>
+<article source="Il Sole Ventiquattro Ore" date="Tue, 6 Oct 2026 06:22:13 GMT">
+Bergamo, esplosione in una palazzina: 9 feriti
+Cinquanta evacuati a Borgo Santa Cateria a causa dello scoppio di una cucina. Una coppia è in gravi condizioni
 </article>
 </other_headlines>
