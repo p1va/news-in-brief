@@ -1,31 +1,74 @@
 {
   "date": "2026-10-07",
-  "generated_at": "Wed 07 Oct 19:26",
+  "generated_at": "Wed 07 Oct 23:09",
   "stories": [
     {
       "rank": 1,
-      "title": "Il gasolio sale ancora. Meloni pensa ad accise mobili dopo il price cap",
-      "source_count": 7,
-      "article_count": 9,
+      "title": "Israele ricorda le vittime del 7 ottobre pubblicando le immagini dell'attacco di Hamas",
+      "source_count": 4,
+      "article_count": 12,
       "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
         "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmanifesto.it",
+        "ansa.it",
+        "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/10/07/il-gasolio-sale-ancora.-meloni-pensa-ad-accise-mobili-dopo-il-price-cap_46fbd961-ef1b-4cd5-901a-9b66b19ca22d.html",
-        "https://www.ilmessaggero.it/economia/news/prezzo_diesel_sale_accise_mobili_price_cap_meloni_governo-9810273.html",
-        "https://www.liberoquotidiano.it/news/pillole/49319316/carburanti-meloni-pronti-a-intervenire-di-nuovo-con-accise-mobili-/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49319264/caro-carburanti-meloni-valutiamo-accise-mobili-ma-spero-si-ripristini-pienamente-il-price-cap/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49319273/caro-carburanti-meloni-pronti-a-tagliare-le-accise/"
+        "https://www.liberoquotidiano.it/news/tv-news/49320359/a-berlino-i-pro-pal-manifestano-nel-terzo-anniversario-del-7-ottobre/",
+        "https://www.liberoquotidiano.it/news/tv-news/49319741/israele-saar-ricorda-il-7-ottobre-il-dolore-non-e-ancora-svanito/",
+        "https://www.liberoquotidiano.it/news/tv-news/49319606/londra-corteo-pro-palestina-il-7-ottobre-i-pro-israele-un-insulto-/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/04/israele-ricorda-il-7-ottobre-il-fallimento-al-centro-delle-elezioni_514950f2-d75c-4343-925e-b96c77b04ce8.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49317487/7-ottobre-calenda-azione-primo-pogrom-dopo-seconda-guerra-mondiale-ma-a-gaza-e-uno-scempio/"
       ]
     },
     {
       "rank": 2,
+      "title": "Il Nobel per la Chimica a Kagan e Soai, registi delle molecole-specchio",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/kagan-soai-e-quelle-molecole-speculari",
+        "https://www.ansa.it/canale_scienza/notizie/biotech/2026/10/07/il-nobel-per-la-chimica-a-kagan-e-soai-registi-delle-molecole-specchio_f8f2b9cf-0b31-40e4-a001-c9e5a57670a5.html",
+        "https://www.ilmessaggero.it/scienza/nobel_per_la_chimica_premio_assegnato-9809625.html",
+        "https://www.ilfattoquotidiano.it/2026/10/07/il-nobel-per-la-chimica-2026-assegnato-a-henri-b-kagan-e-kenso-soai/8530293/",
+        "https://www.repubblica.it/cronaca/2026/10/07/news/premio_nobel_chimica_2026_henri_kagan_kenso_soai-425631505/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Maricarmen Abascal, morta l'87enne sfrattata a Madrid diventata simbolo delle proteste per il diritto alla casa in Spagna",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/morta-maricarmen-simbolo-della-lotta-in-spagna-sara-sciopero-generale",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/07/e-morta-maricarmen-il-volto-delle-proteste-per-il-diritto-alla-casa-in-spagna_cc495f85-22e2-404c-9b69-d2091b0ff22a.html",
+        "https://www.adnkronos.com/internazionale/esteri/maricarmen-abascal-morta-87-anni-spagna-lotta-casa_6uKk0A9ZogCewCqghknw6Y",
+        "https://www.ilfattoquotidiano.it/2026/10/07/maricarmen-abascal-sfratto-madrid-notizie/8530990/",
+        "https://www.liberoquotidiano.it/news/esteri/49320777/maricarmen-abascal-morta-donna-sfrattata-innesco-protesta-diritto-casa-spagna/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Tra emozione e gratitudine, l'addio di Messi alla nazionale argentina",
       "source_count": 7,
       "article_count": 8,
@@ -47,72 +90,92 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Il Nobel per la Chimica a Kagan e Soai, registi delle molecole-specchio",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/canale_scienza/notizie/biotech/2026/10/07/il-nobel-per-la-chimica-a-kagan-e-soai-registi-delle-molecole-specchio_f8f2b9cf-0b31-40e4-a001-c9e5a57670a5.html",
-        "https://www.ilmessaggero.it/scienza/nobel_per_la_chimica_premio_assegnato-9809625.html",
-        "https://www.ilfattoquotidiano.it/2026/10/07/il-nobel-per-la-chimica-2026-assegnato-a-henri-b-kagan-e-kenso-soai/8530293/",
-        "https://www.repubblica.it/cronaca/2026/10/07/news/premio_nobel_chimica_2026_henri_kagan_kenso_soai-425631505/",
-        "https://www.liberoquotidiano.it/news/tv-news/49317495/nobel-premio-per-la-chimica-2026-assegnato-a-kagan-e-soai/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Mattarella firma tre grazie: c’è anche un gioielliere che uccise due rapinatori",
-      "source_count": 7,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/10/07/mattarella-concede-tre-grazie-ce-anche-un-gioielliere-che-sparo-ai-rapinatori_947e71bc-19c3-4be0-a615-e3df68b07f8d.html",
-        "https://www.ilfattoquotidiano.it/2026/10/07/presidente-mattarella-grazia-detenuti-ministero-giustizia-notizie/8530891/",
-        "https://www.ilmessaggero.it/politica/mattarella_grazia_guido_gianni_gioielliere_rapina-9810146.html",
-        "https://www.repubblica.it/politica/2026/10/07/news/mattarella_concede_tre_grazie_gioielliere_guido_gianni_uccise_i_rapinatori-425632589/",
-        "https://www.liberoquotidiano.it/news/politica/49319603/mattarella-concede-tre-grazie-c-e-anche-gioielliere-uccise-due-ladri-chi-e-guido-gianni/"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "Mattarella e il 7 ottobre: “Fermezza contro l’antisemitismo. Da Israele devastazione inaccettabile”",
-      "source_count": 6,
-      "article_count": 7,
+      "title": "Roma, l’attore di “Suburra” Davide Iacopini aggredito sul monopattino: è in terapia intensiva",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
-        "ansa.it",
-        "governo.it",
-        "liberoquotidiano.it",
         "lastampa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
+        "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "roma.repubblica.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/10/07/mattarella-gli-attacchi-del-7-ottobre-monito-contro-lodio-su-base-etnica_5aa105aa-e997-4897-811a-b2ac86c18f23.html",
-        "https://www.governo.it/it/articolo/anniversario-degli-attacchi-terroristici-del-7-ottobre-dichiarazione-presidente-meloni/32774",
-        "https://www.liberoquotidiano.it/news/general/49315127/io-sto-con-israele-e-non-con-i-terroristi-islamici-di-hamas/",
-        "https://www.lastampa.it/politica/2026/10/07/news/mattarella_anniversario_7_ottobre_antisemitismo_gaza_israele-15759293/",
-        "https://www.repubblica.it/esteri/2026/10/07/diretta/guerra_iran_usa_israele_news_oggi-425630728/"
+        "https://www.lastampa.it/cronaca/2026/10/08/news/grave_attore_iacopini_aggredito_roma_banda_minicar-15760075/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/colpito-con-un-calcio-e-travolto-grave-lattore-davide-iacopini.-aperta-unindagine_5e3ba997-2015-446e-bb97-fcea81a0e872.html",
+        "https://www.adnkronos.com/cronaca/davide-iacopini-grave-incidente-roma-microcar_uUPWcG9YLfUht0jkk9B1d",
+        "https://www.ilfattoquotidiano.it/2026/10/07/gli-sferrano-un-calcio-dalla-minicar-mentre-viaggia-in-monopattino-lattore-davide-iacopini-ricoverato-in-terapia-intensiva-si-indaga-per-tentato-omicidio/8530385/",
+        "https://www.ilmessaggero.it/persone/davide_iacopini_aggredito_roma_eta_chi_e_cosa_e_successo-9809738.html"
       ]
     },
     {
       "rank": 6,
+      "title": "Mattarella firma tre grazie: c’è anche un gioielliere che uccise due rapinatori",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/politica/guido_gianni_grazia_mattarella_differenze_roggero-9810403.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/07/mattarella-concede-tre-grazie-ce-anche-un-gioielliere-che-sparo-ai-rapinatori_947e71bc-19c3-4be0-a615-e3df68b07f8d.html",
+        "https://www.ilfattoquotidiano.it/2026/10/07/presidente-mattarella-grazia-detenuti-ministero-giustizia-notizie/8530891/",
+        "https://www.ilmessaggero.it/politica/mattarella_grazia_guido_gianni_gioielliere_rapina-9810146.html",
+        "https://www.repubblica.it/politica/2026/10/07/news/mattarella_concede_tre_grazie_gioielliere_guido_gianni_uccise_i_rapinatori-425632589/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Il gasolio sale ancora. Meloni pensa ad accise mobili dopo il price cap",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/10/07/il-gasolio-sale-ancora.-meloni-pensa-ad-accise-mobili-dopo-il-price-cap_46fbd961-ef1b-4cd5-901a-9b66b19ca22d.html",
+        "https://www.ilmessaggero.it/economia/news/prezzo_diesel_sale_accise_mobili_price_cap_meloni_governo-9810273.html",
+        "https://www.liberoquotidiano.it/news/pillole/49319316/carburanti-meloni-pronti-a-intervenire-di-nuovo-con-accise-mobili-/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49319264/caro-carburanti-meloni-valutiamo-accise-mobili-ma-spero-si-ripristini-pienamente-il-price-cap/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49319273/caro-carburanti-meloni-pronti-a-tagliare-le-accise/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "\"Forza Jannik, ci manchi\": da Cobolli a Lindsey Vonn, i messaggi del mondo dello sport a Sinner",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/pillole/49321042/binaghi_sinner_il_tennis_italiano_non_si_puo_lamentare_di_cio_che_ha_fatto_/",
+        "https://www.adnkronos.com/sport/sinner-berrettini-infortunio-messaggio_2qeT8AUh6HPZXQCd6Fa6Cb",
+        "https://www.repubblica.it/sport/tennis/2026/10/07/news/sinner_ritorno_in_campo_recupero_allenamenti_contratti-425632264/",
+        "https://www.adnkronos.com/sport/sinner-infortunio-alcaraz-cobolli-vonn-messaggi-jannik_F47xIBEXt7U4ikAkPFhNe",
+        "https://www.repubblica.it/sport/tennis/2026/10/07/news/sinner_guadagni_premi_quanto_perde-425631148/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Barbara Spinelli è morta, la giornalista ed ex europarlamentare aveva 80 anni",
       "source_count": 6,
       "article_count": 6,
@@ -130,66 +193,6 @@
         "https://www.ilmessaggero.it/persone/barbara_spinelli_morta_giornalista_chi_era-9809689.html",
         "https://www.ilfattoquotidiano.it/2026/10/07/barbara-spinelli-morte-giornalista-notizie/8530222/",
         "https://www.lastampa.it/politica/2026/10/07/news/barbara_spinelli_morta_giornalista_europarlamentare-15759481/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Roma, l’attore di “Suburra” Davide Iacopini aggredito sul monopattino: è in terapia intensiva",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "roma.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/colpito-con-un-calcio-e-travolto-grave-lattore-davide-iacopini.-aperta-unindagine_5e3ba997-2015-446e-bb97-fcea81a0e872.html",
-        "https://www.adnkronos.com/cronaca/davide-iacopini-grave-incidente-roma-microcar_uUPWcG9YLfUht0jkk9B1d",
-        "https://www.ilfattoquotidiano.it/2026/10/07/gli-sferrano-un-calcio-dalla-minicar-mentre-viaggia-in-monopattino-lattore-davide-iacopini-ricoverato-in-terapia-intensiva-si-indaga-per-tentato-omicidio/8530385/",
-        "https://www.ilmessaggero.it/persone/davide_iacopini_aggredito_roma_eta_chi_e_cosa_e_successo-9809738.html",
-        "https://roma.repubblica.it/cronaca/2026/10/07/news/davide_iacopini_grave_aggressione_monopattino_monteverde_minicar-425631707/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "7 ottobre, Israele commemora il terzo anniversario dell’attacco di Hamas",
-      "source_count": 3,
-      "article_count": 9,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/49320359/a-berlino-i-pro-pal-manifestano-nel-terzo-anniversario-del-7-ottobre/",
-        "https://www.liberoquotidiano.it/news/tv-news/49319741/israele-saar-ricorda-il-7-ottobre-il-dolore-non-e-ancora-svanito/",
-        "https://www.liberoquotidiano.it/news/tv-news/49319606/londra-corteo-pro-palestina-il-7-ottobre-i-pro-israele-un-insulto-/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/04/israele-ricorda-il-7-ottobre-il-fallimento-al-centro-delle-elezioni_514950f2-d75c-4343-925e-b96c77b04ce8.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49317487/7-ottobre-calenda-azione-primo-pogrom-dopo-seconda-guerra-mondiale-ma-a-gaza-e-uno-scempio/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Maricarmen Abascal, morta l'87enne sfrattata a Madrid diventata simbolo delle proteste per il diritto alla casa in Spagna",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/07/e-morta-maricarmen-il-volto-delle-proteste-per-il-diritto-alla-casa-in-spagna_cc495f85-22e2-404c-9b69-d2091b0ff22a.html",
-        "https://www.adnkronos.com/internazionale/esteri/maricarmen-abascal-morta-87-anni-spagna-lotta-casa_6uKk0A9ZogCewCqghknw6Y",
-        "https://www.ilfattoquotidiano.it/2026/10/07/maricarmen-abascal-sfratto-madrid-notizie/8530990/",
-        "https://www.ilmessaggero.it/mondo/maricarmen_abascal_morta_proteste_casa_spagna-9810314.html",
-        "https://www.repubblica.it/esteri/2026/10/07/news/spagna_maricarmen_morta_sfratto_simbolo_lotta_casa-425632884/"
       ]
     },
     {
