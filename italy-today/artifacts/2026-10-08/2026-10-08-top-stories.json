@@ -1,33 +1,35 @@
 {
   "date": "2026-10-08",
-  "generated_at": "Thu 08 Oct 19:51",
+  "generated_at": "Thu 08 Oct 23:23",
   "stories": [
     {
       "rank": 1,
       "title": "La riforma elettorale è legge, l'ok della Camera con 227 sì e 164 contrari",
-      "source_count": 6,
-      "article_count": 12,
+      "source_count": 8,
+      "article_count": 17,
       "source_domains": [
+        "adnkronos.com",
         "ansa.it",
-        "repubblica.it",
-        "laverita.info",
         "liberoquotidiano.it",
+        "laverita.info",
+        "repubblica.it",
+        "ilmessaggero.it",
         "lastampa.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.adnkronos.com/politica/legge-elettorale-meloni-schlein-conte-protesta_3hkkE0sKyRcP5oWap78Cec",
         "https://www.ansa.it/sito/notizie/politica/2026/10/08/la-riforma-elettorale-e-legge-lopposizione-una-truffa.-meloni-centrodestra-unito-avanti_356b6a03-efcc-4966-982f-f363b3c3c7fc.html",
-        "https://www.repubblica.it/politica/2026/10/08/news/aula_camera_legge_elettorale_fdi_vedette_trucchi-425634658/",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/08/ok-della-camera-con-227-si-alla-riforma-elettorale.-lopposizione-una-legge_232ae65f-c1d7-415a-b5f6-5d62f0c9fbe9.html",
-        "https://www.laverita.info/governo/legge-elettorale-meloni-camera",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49325753/protesta-opposizioni-e-boato-della-maggioranza-dopo-approvazione-legge-elettorale-alla-camera/"
+        "https://www.ansa.it/sito/notizie/politica/2026/10/08/legge-elettorale-dal-premio-alle-preferenze-come-funziona-la-riforma_cb7f408a-5993-4ad9-b5ee-66c83b7a13a7.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49327873/meloni-soddisfatta-dell-ok-sulla-legge-elettorale-e-fatta-per-l-italia-/",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/08/ok-della-camera-con-227-si-alla-riforma-elettorale.-lopposizione-una-legge_232ae65f-c1d7-415a-b5f6-5d62f0c9fbe9.html"
       ]
     },
     {
       "rank": 2,
       "title": "Nobel per la letteratura a Anne Carson, poetessa e saggista canadese: «Ha dato vita a nuove forme contemporanee»",
       "source_count": 5,
-      "article_count": 10,
+      "article_count": 9,
       "source_domains": [
         "ansa.it",
         "repubblica.it",
@@ -45,41 +47,42 @@
     },
     {
       "rank": 3,
-      "title": "Legge elettorale: dal premio alle preferenze, come funziona la riforma",
-      "source_count": 4,
-      "article_count": 8,
+      "title": "Raid russo a Kramatorsk: 33 morti, colpiti due autobus, sospeso il trasporto pubblico",
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
-        "liberoquotidiano.it",
+        "ilmanifesto.it",
+        "lastampa.it",
         "ansa.it",
-        "ilmessaggero.it",
-        "repubblica.it"
+        "repubblica.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49329194/nevi-fi-legge-elettorale-per-l-italia-arriveremo-fino-a-fine-legislatura/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49329192/legge-elettorale-donzelli-tre-rivoluzioni-voto-fuori-sede-preferenze-e-nome-premier-in-programma/",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/08/legge-elettorale-dal-premio-alle-preferenze-come-funziona-la-riforma_cb7f408a-5993-4ad9-b5ee-66c83b7a13a7.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49326568/legge-elettorale-donzelli-porta-l-italia-nella-terza-repubblica/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49324898/legge-elettorale-richetti-azione-con-questo-sistema-preferenze-finte-e-risultati-alterati/"
+        "https://ilmanifesto.it/bomba-su-due-autobus-a-kramatorsk-33-morti",
+        "https://www.lastampa.it/esteri/2026/10/09/diretta/guerra_russia_ucraina_news_oggi-15761278/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/08/raid-russo-sui-bus-fa-strage-a-kramatorsk-almeno-33-morti_018897e4-3f1d-4038-ae12-ebd2df011b00.html",
+        "https://www.lastampa.it/esteri/2026/10/08/video/kramatorsk_devastazione_attacco_russo_bombe_bus-15760813/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/08/raid-russo-a-kramatorsk-33-morti-colpiti-due-autobus-sospeso-il-trasporto-pubblico_018897e4-3f1d-4038-ae12-ebd2df011b00.html"
       ]
     },
     {
       "rank": 4,
-      "title": "Guido Gianni, Mattarella concede la grazia: è un gioiellere che sparò ai ladri. Differenze con il caso Roggero",
+      "title": "Caso ricina, le ispezioni sui 71 pc dell’Agrario e il sospetto della Procura: «Miscela mortale preparata da mani esperte»",
       "source_count": 5,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "laverita.info",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
         "ilmessaggero.it",
-        "ilsole24ore.com"
+        "laverita.info",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.laverita.info/giustizia/grazia-guido-gianni-mattarella",
-        "https://www.ilfattoquotidiano.it/2026/10/08/caso-roggero-grazia-politica-giustizia-notizie/8531385/",
-        "https://www.lastampa.it/cronaca/2026/10/08/news/mattarella_grazia_gioielliere_guido_gianni-15760199/",
-        "https://www.ilmessaggero.it/politica/guido_gianni_grazia_mattarella_differenze_roggero-9810403.html",
-        "https://www.ilsole24ore.com/art/chi-e-guido-gianni-gioielliere-graziato-mattarella-AJsF61cB"
+        "https://www.ilmessaggero.it/italia/caso_ricina_ispezioni_pc_agrario_miscela_preparata_mani_esperte_ultime_notizie-9812793.html",
+        "https://www.laverita.info/inchieste/giallo-pietracatella-tracce-ricina",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/madre-e-figlia-morte-avvelenate-la-ricina-potrebbe-essere-stata-cercata-a-scuola_e9e9eb49-8589-4f92-8875-576b53aa8300.html",
+        "https://www.ilfattoquotidiano.it/2026/10/08/caso-ricina-pietracatella-agrario-riccia-notizie/8531796/",
+        "https://www.adnkronos.com/cronaca/giallo-pietracatella-ricina-pc-istituto-agrario_TEfdXekiE0XXwYy57CeHc"
       ]
     },
     {
@@ -104,26 +107,6 @@
     },
     {
       "rank": 6,
-      "title": "Morte avvelenate, sequestrati 70 computer nella scuola dove lavorava l'amica di Gianni Di Vita: chi ha cercato le parole \"veleno\" e \"ricina\"?",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "laverita.info",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.laverita.info/inchieste/giallo-pietracatella-tracce-ricina",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/madre-e-figlia-morte-avvelenate-la-ricina-potrebbe-essere-stata-cercata-a-scuola_e9e9eb49-8589-4f92-8875-576b53aa8300.html",
-        "https://www.ilfattoquotidiano.it/2026/10/08/caso-ricina-pietracatella-agrario-riccia-notizie/8531796/",
-        "https://www.adnkronos.com/cronaca/giallo-pietracatella-ricina-pc-istituto-agrario_TEfdXekiE0XXwYy57CeHc",
-        "https://www.ilmessaggero.it/persone/morte_avvelenate_computer_sequestrati_scuola_parole_veleno_ricina-9812056.html"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Attaco cyber al sito della Farnesina «mitigato dai sistemi di sicurezza». Si ipotizza responsabilità di hacker filorussi Noname057(16)",
       "source_count": 5,
       "article_count": 5,
@@ -143,7 +126,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Al via in Italia 'Steadfast Noon', l'esercitazione nucleare della Nato",
       "source_count": 5,
       "article_count": 5,
@@ -163,39 +146,57 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Raid russo sui bus fa strage a Kramatorsk, almeno 33 morti",
-      "source_count": 3,
-      "article_count": 5,
+      "rank": 8,
+      "title": "Aula strapiena, vedette di FdI e trucchi sulla pulsantiera. E così il Melonellum è diventato legge",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
-        "ansa.it",
+        "ilmanifesto.it",
+        "ilfattoquotidiano.it",
         "repubblica.it",
-        "ilmessaggero.it"
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/08/raid-russo-sui-bus-fa-strage-a-kramatorsk-almeno-33-morti_018897e4-3f1d-4038-ae12-ebd2df011b00.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/08/raid-russo-a-kramatorsk-33-morti-colpiti-due-autobus-sospeso-il-trasporto-pubblico_018897e4-3f1d-4038-ae12-ebd2df011b00.html",
-        "https://www.repubblica.it/esteri/2026/10/08/news/raid_russo_kramatorsk_morti_strage_guerra_russia_ucraina-425634442/",
-        "https://www.ilmessaggero.it/mondo/bus_attacco_russo_kramatorsk_cosa_e_successo_morti_feriti-9811849.html",
-        "https://www.repubblica.it/esteri/2026/10/08/diretta/guerra_ucraina_russia_news_oggi-425633303/"
+        "https://ilmanifesto.it/passa-il-melonellum-la-premier-incassa-la-riforma-pigliatutto",
+        "https://www.ilfattoquotidiano.it/2026/10/08/legge-elettorale-il-timbro-della-ministra-casellati-quanti-saranno-eletti-con-le-preferenze-io-i-conti-non-li-so-fare-le-opposizioni-furto-di-democrazia-il-racconto-della-giornat/8531961/",
+        "https://www.repubblica.it/politica/2026/10/08/news/aula_camera_legge_elettorale_fdi_vedette_trucchi-425634658/",
+        "https://www.ilsole24ore.com/art/legge-elettorale-oggi-ultimo-atto-voto-finale-1230-AJz8X4cB"
       ]
     },
     {
-      "rank": 10,
-      "title": "Venticinque anni fa l’apocalisse a Linate: 118 morti, il peggior dramma aereo in Italia",
+      "rank": 9,
+      "title": "Sparò e uccise i ladri come Roggero: Mattarella lo grazia (dopo 5 anni)",
       "source_count": 4,
       "article_count": 4,
       "source_domains": [
         "laverita.info",
         "ilfattoquotidiano.it",
-        "ansa.it",
-        "lastampa.it"
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.laverita.info/video/cronaca-video/linate-8-ottobre-2001",
-        "https://www.ilfattoquotidiano.it/2026/10/08/strage-linate-25-anni-sicurezza-aerea-notizie/8531706/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/08/25-anni-fa-lo-scontro-allaeroporto-di-linate-118-i-morti-nellincidente_c3d0fa62-0c6b-4a6d-807c-9f577156765a.html",
-        "https://www.lastampa.it/cronaca/2026/10/08/news/strage_linate_2001_disastro_aereo_italia_anniversario-15760308/"
+        "https://www.laverita.info/giustizia/grazia-guido-gianni-mattarella",
+        "https://www.ilfattoquotidiano.it/2026/10/08/caso-roggero-grazia-politica-giustizia-notizie/8531385/",
+        "https://www.lastampa.it/cronaca/2026/10/08/news/mattarella_grazia_gioielliere_guido_gianni-15760199/",
+        "https://www.ilsole24ore.com/art/chi-e-guido-gianni-gioielliere-graziato-mattarella-AJsF61cB"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Flessibilità, sì di Bruxelles. Sull’inflazione prudenza Ue, Giorgetti: molti Paesi con noi",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/economia/news/flessibilita_ok_bruxelles_italia_energia-9812787.html",
+        "https://www.ansa.it/sito/notizie/economia/2026/10/08/la-ue-esaminiamo-le-richieste-delitalia-sulla-flessibilita-ma-serve-prudenza_acc6e3b4-48a3-4d6f-a6fe-45f9ceadf81b.html",
+        "https://www.repubblica.it/economia/2026/10/08/news/ue_via_libera_alla_clausola_su_difesa_e_energia-425634410/",
+        "https://www.ilfattoquotidiano.it/2026/10/08/clausola-salvaguardia-ok-ue-italia-difesa-energia-notizie/8531581/"
       ]
     }
   ]
