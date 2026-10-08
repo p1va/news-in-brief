@@ -1,9 +1,53 @@
 {
   "date": "2026-10-08",
-  "generated_at": "Thu 08 Oct 00:12",
+  "generated_at": "Thu 08 Oct 13:14",
   "stories": [
     {
       "rank": 1,
+      "title": "Mattarella concede tre grazie, c'è anche un gioielliere che sparò ai rapinatori",
+      "source_count": 8,
+      "article_count": 11,
+      "source_domains": [
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.laverita.info/giustizia/grazia-guido-gianni-mattarella",
+        "https://www.ilfattoquotidiano.it/2026/10/08/caso-roggero-grazia-politica-giustizia-notizie/8531385/",
+        "https://www.lastampa.it/cronaca/2026/10/08/news/mattarella_grazia_gioielliere_guido_gianni-15760199/",
+        "https://www.ilmessaggero.it/politica/guido_gianni_grazia_mattarella_differenze_roggero-9810403.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/07/mattarella-concede-tre-grazie-ce-anche-un-gioielliere-che-sparo-ai-rapinatori_947e71bc-19c3-4be0-a615-e3df68b07f8d.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "La riforma elettorale è legge, l'ok della Camera con 227 sì e 164 contrari",
+      "source_count": 6,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "laverita.info",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/10/08/ok-della-camera-con-227-si-alla-riforma-elettorale.-lopposizione-una-legge_232ae65f-c1d7-415a-b5f6-5d62f0c9fbe9.html",
+        "https://www.laverita.info/governo/legge-elettorale-meloni-camera",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49325753/protesta-opposizioni-e-boato-della-maggioranza-dopo-approvazione-legge-elettorale-alla-camera/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49325816/-no-all-imbroglio-legge-truffa-cartelli-di-protesta-opposizioni-dopo-voto-su-riforma-elettorale/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49325084/la-riforma-elettorale-e-legge-l-ok-della-camera-con-227-si-e-164-contrari/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Maricarmen Abascal, morta l'87enne sfrattata a Madrid diventata simbolo delle proteste per il diritto alla casa in Spagna",
       "source_count": 8,
       "article_count": 8,
@@ -26,165 +70,138 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Mattarella firma tre grazie: c’è anche un gioielliere che uccise due rapinatori",
-      "source_count": 7,
+      "rank": 4,
+      "title": "Sospetto secondo caso di morte per peste polmonare in Russia, il Cremlino smentisce. Trump: “Non pensiamo sia un’arma biologica”",
+      "source_count": 5,
       "article_count": 7,
       "source_domains": [
-        "ilmessaggero.it",
+        "adnkronos.com",
         "ansa.it",
-        "ilfattoquotidiano.it",
         "repubblica.it",
+        "ilmanifesto.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/peste-siberia-appello-ue-secondo-caso-aggiornamenti_7dQxLuBdS0GrWhCSJAiK9y",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/08/agenzia-sanitaria-russa-sono-false-le-voci-su-secondo-caso-di-presunta-peste_44917217-c391-43ab-9b11-7eb1f32cd2d0.html",
+        "https://www.repubblica.it/cronaca/2026/10/08/news/peste_polmonare_russia_siberia_ultime_notizie-425633766/",
+        "https://ilmanifesto.it/oms-e-usa-mosca-dia-spiegazioni-sui-casi-di-peste",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/07/trump-non-pensiamo-che-la-peste-in-russia-sia-unarma-biologica_2a87904c-6f40-4039-a5d0-9df75faa1800.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Nuova legge elettorale, come funzionano le preferenze con i capilista bloccati",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilmanifesto.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/politica/rubriche/la-verita-vi-prego/2026/10/08/news/melonellum_legge_elettorale_meno_donne_preferenze_stabilita-425633856/",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/07/dal-premio-alle-preferenze-come-funziona-la-riforma_cb7f408a-5993-4ad9-b5ee-66c83b7a13a7.html",
+        "https://www.ilmessaggero.it/politica/legge_elettorale_stabilicum_cosa_cambia_premio_maggioranza_preferenze_premier-9811781.html",
+        "https://www.repubblica.it/politica/2026/10/08/news/cosa_prevede_legge_elettorale_meloni_cosa_cambia-425633710/",
+        "https://ilmanifesto.it/la-scheda-bugiarda-al-voto-senza-sapere-per-chi"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Nobel per la letteratura a Anne Carson, poetessa e saggista canadese: «Ha dato vita a nuove forme contemporanee»",
+      "source_count": 4,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cultura/2026/10/08/oggi-il-nobel-per-la-letteratura_376d34cc-511a-4c1e-bc55-76483345431f.html",
+        "https://www.repubblica.it/cultura/2026/10/08/news/libri_anne_carson_nobel_letteratura_2026-425634418/",
+        "https://www.repubblica.it/cultura/2026/10/08/news/anne_carson_nobel_letteratura_2026_chi_e-425634329/",
+        "https://www.ilmessaggero.it/persone/nobel_letteratura_anne_carson_chi_e-9812030.html",
+        "https://www.repubblica.it/cultura/2026/10/08/news/premio_nobel_letteratura_2026_anne_carson-425634292/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Raid russo a Kramatorsk: 33 morti, colpiti due autobus, sospeso il trasporto pubblico",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/08/raid-russo-a-kramatorsk-33-morti-colpiti-due-autobus-sospeso-il-trasporto-pubblico_018897e4-3f1d-4038-ae12-ebd2df011b00.html",
+        "https://www.repubblica.it/esteri/2026/10/08/news/raid_russo_kramatorsk_morti_strage_guerra_russia_ucraina-425634442/",
+        "https://www.ilmessaggero.it/mondo/bus_attacco_russo_kramatorsk_cosa_e_successo_morti_feriti-9811849.html",
+        "https://www.repubblica.it/esteri/2026/10/08/diretta/guerra_ucraina_russia_news_oggi-425633303/",
+        "https://www.lastampa.it/esteri/2026/10/08/diretta/guerra_russia_ucraina_news_oggi-15760141/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Meloni definita “ciociara” da un consigliere Pd a Pontedera. La premier: “Un insulto? Io orgogliosa”",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "firenze.repubblica.it",
+        "ilfattoquotidiano.it",
         "liberoquotidiano.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilmessaggero.it/politica/guido_gianni_grazia_mattarella_differenze_roggero-9810403.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/07/mattarella-concede-tre-grazie-ce-anche-un-gioielliere-che-sparo-ai-rapinatori_947e71bc-19c3-4be0-a615-e3df68b07f8d.html",
-        "https://www.ilfattoquotidiano.it/2026/10/07/presidente-mattarella-grazia-detenuti-ministero-giustizia-notizie/8530891/",
-        "https://www.repubblica.it/politica/2026/10/07/news/mattarella_concede_tre_grazie_gioielliere_guido_gianni_uccise_i_rapinatori-425632589/",
-        "https://www.liberoquotidiano.it/news/politica/49319603/mattarella-concede-tre-grazie-c-e-anche-gioielliere-uccise-due-ladri-chi-e-guido-gianni/"
+        "https://firenze.repubblica.it/cronaca/2026/10/08/news/giorgia_meloni_pontedera_pisa_ciociara_caciarina_floriano_della_bella_polemica_sindaco-425634380/",
+        "https://www.ilfattoquotidiano.it/2026/10/08/meloni-ciociara-pd-pontedera-notizie/8531537/",
+        "https://www.liberoquotidiano.it/news/politica/49324409/pd-pontedera-capogruppo-insulta-meloni-ciociara-maniera-piu-dispregiativa/",
+        "https://www.lastampa.it/politica/2026/10/08/news/giorgia_meloni_ciociara_consigliere_pd-15760449/",
+        "https://www.ilsole24ore.com/art/meloni-esponenti-pd-mi-insultano-essere-ciociara-ma-io-ne-sono-fiera-AJRiDAdB"
       ]
     },
     {
-      "rank": 3,
-      "title": "Sospetto secondo caso di morte per peste polmonare in Russia, il Cremlino smentisce. Trump: “Non pensiamo sia un’arma biologica”",
-      "source_count": 5,
+      "rank": 9,
+      "title": "Il gasolio sale ancora. Meloni pensa ad accise mobili dopo il price cap",
+      "source_count": 4,
       "article_count": 5,
       "source_domains": [
-        "ilmanifesto.it",
-        "ansa.it",
-        "repubblica.it",
         "liberoquotidiano.it",
-        "lastampa.it"
+        "repubblica.it",
+        "lastampa.it",
+        "ansa.it"
       ],
       "links": [
-        "https://ilmanifesto.it/oms-e-usa-mosca-dia-spiegazioni-sui-casi-di-peste",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/07/trump-non-pensiamo-che-la-peste-in-russia-sia-unarma-biologica_2a87904c-6f40-4039-a5d0-9df75faa1800.html",
-        "https://www.repubblica.it/esteri/2026/10/07/news/secondo_caso_di_morte_peste_polmonare_in_russia_cremlino_smentisce_trump_non_pensiamo_sia_un_arma_biologica-425632727/",
-        "https://www.liberoquotidiano.it/news/tv-news/49320505/oms-manca-quadro-per-valutare-rischio-dopo-caso-di-peste-siberia/",
-        "https://www.lastampa.it/esteri/2026/10/07/news/peste_siberia_morto_usa_chiede_informazioni_a_russia_trump_putin-15759485/"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49324900/bonelli-su-tetto-carburanti-governo-bugiardo-seriale-prendete-in-giro-gli-italiani/",
+        "https://www.repubblica.it/economia/2026/10/08/news/gasolio_tetto_eni_governo_taglio_accise-425633153/",
+        "https://www.lastampa.it/rubriche/il-taccuino/2026/10/08/news/verso_il_voto_col_gasolio_a_3_euro-15760001/",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/07/il-gasolio-sale-ancora.-meloni-pensa-ad-accise-mobili-dopo-il-price-cap_46fbd961-ef1b-4cd5-901a-9b66b19ca22d.html",
+        "https://www.liberoquotidiano.it/news/pillole/49319316/carburanti-meloni-pronti-a-intervenire-di-nuovo-con-accise-mobili-/"
       ]
     },
     {
-      "rank": 4,
-      "title": "Garlasco, spunta un dossier sulle gemelle Cappa. Altre omissioni del Ris: «Sulla bici di Stasi dna di un altro ma ai magistrati non fu rivelato»",
-      "source_count": 5,
-      "article_count": 5,
+      "rank": 10,
+      "title": "Garlasco, dna maschile sulla bici di Stasi. Il Ris di Parma non l’ha mai depositato",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
         "lastampa.it",
         "ilmessaggero.it",
         "ansa.it",
-        "adnkronos.com",
         "milano.repubblica.it"
       ],
       "links": [
         "https://www.lastampa.it/cronaca/2026/10/08/news/garlasco_dna_maschile_bici_stasi_ris_parma_mai_depositato-15760062/",
         "https://www.ilmessaggero.it/italia/garlasco_famiglia_cappa_dossier_tutore_paola_bici_ultime_notizie-9810341.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/garlasco-spunta-un-altro-test-nullo-per-il-sangue-sui-pedali_2436fbc3-cd89-4259-a653-598d610d97ca.html",
-        "https://www.adnkronos.com/cronaca/caso-garlasco-gemelle-k-famiaglia-cappa_4lSJNzqareu1E82n3rulaT",
         "https://milano.repubblica.it/cronaca/2026/10/07/news/garlasco_dna_maschile_bici_stasi_indagine_ris-425632251/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Grave l’attore Davide Iacopini, aggredito mentre era in monopattino. Caccia alla banda della minicar",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "lastampa.it",
-        "ansa.it",
-        "roma.repubblica.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/cronaca/2026/10/08/news/grave_attore_iacopini_aggredito_roma_banda_minicar-15760075/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/07/colpito-con-un-calcio-e-travolto-grave-lattore-davide-iacopini.-aperta-unindagine_5e3ba997-2015-446e-bb97-fcea81a0e872.html",
-        "https://roma.repubblica.it/cronaca/2026/10/07/news/davide_iacopini_grave_aggressione_monopattino_monteverde_minicar-425631707/",
-        "https://www.agi.it/cronaca/news/2026-10-07/davide-iacopini-monopattino-tentato-omicidio-39430212/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Il Nobel per la Chimica 2026 al francese Henri Kagan e al giapponese Kenso Soari. «Così hanno risolto un lungo mistero»",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://ilmanifesto.it/kagan-soai-e-quelle-molecole-speculari",
-        "https://www.ilmessaggero.it/scienza/nobel_per_la_chimica_premio_assegnato-9809625.html",
-        "https://www.lastampa.it/scienza/2026/10/07/news/nobel_chimica_kagan_soari-15759402/",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oQnFzWkF4WFFVX1hZY2Y1NXcyc3dqS3dGem1HTWl1aVBIVXh4OVF3aF9ySXhFNHBuM3dZUVZsWUc4b1Bad3I5RXF3Tm1zejBzSUJtVFgxd2pKYXl4Z25ZMVNxNjhCYnFLMnRz?oc=5"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Anniversario degli attacchi terroristici del 7 ottobre, dichiarazione del Presidente Meloni",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "laverita.info",
-        "governo.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/mondo/7-ottobre-israele-tre-anni",
-        "https://www.governo.it/it/articolo/anniversario-degli-attacchi-terroristici-del-7-ottobre-dichiarazione-presidente-meloni/32774",
-        "https://www.ilsole24ore.com/art/7-ottobre-monito-mattarella-contro-l-odio-meloni-si-impegna-contro-l-antisemitismo-schlein-non-dimentica-crimini-netanyahu-AJk7YEcB"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Il gasolio sale ancora. Meloni pensa ad accise mobili dopo il price cap",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/economia/2026/10/08/news/gasolio_tetto_eni_governo_taglio_accise-425633153/",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/07/il-gasolio-sale-ancora.-meloni-pensa-ad-accise-mobili-dopo-il-price-cap_46fbd961-ef1b-4cd5-901a-9b66b19ca22d.html",
-        "https://www.liberoquotidiano.it/news/pillole/49319316/carburanti-meloni-pronti-a-intervenire-di-nuovo-con-accise-mobili-/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Pa, firmato il contratto di medici e dirigenti della sanità. Aumenti lordi fino a 560 euro al mese",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/10/07/contratto-dirigenti-sanita-ssn-stipendi-aumenti-ospedale-medici-notizie/8530780/",
-        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/10/07/fino-a-560-euro-in-piu-e-nuove-tutele-ok-al-contratto-dei-medici_85d14c43-8838-4ed0-aa47-6e891d191676.html",
-        "https://www.repubblica.it/economia/2026/10/07/news/pa_firmato_il_contratto_di_medici_e_dirigenti_della_sanita_aumenti_lordi_fino_a_560_euro_al_mese-425631719/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Gimbe, la sanità pubblica perde 18,8 miliardi: crescono costi, assicurazioni e rinunce alle cure",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ilmanifesto.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://ilmanifesto.it/sanita-lausterita-del-governo-meloni-fa-calare-la-quota-investita-rispetto-al-pil",
-        "https://www.repubblica.it/cronaca/2026/10/07/news/sanita-gimbe-tagli-miliardi-mancati-finanziamenti-425631314/",
-        "https://www.lastampa.it/cronaca/2026/10/07/news/sanita_perdita_18_miliardi_rapporto_gimbe-15759360/"
       ]
     }
   ]
