@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "generated_at": "Fri 09 Oct 22:40",
+  "generated_at": "Fri 09 Oct 23:13",
   "stories": [
     {
       "rank": 1,
@@ -72,51 +72,68 @@
     },
     {
       "rank": 4,
-      "title": "Usa, il killer di Fort Hood sarà fucilato in diretta streaming",
+      "title": "Mattarella ha firmato la legge elettorale",
       "source_count": 7,
-      "article_count": 10,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "repubblica.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/09/la-fucilazione-del-killer-di-fort-hood-in-diretta-streaming-per-lonu-e-tortura_82f5ecaf-fec1-4ee7-8e0f-507effc31551.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/09/la-fucilazione-del-killer-di-fort-hood-sara-pubblica-e-in-streaming.-i-vescovi-usa_82f5ecaf-fec1-4ee7-8e0f-507effc31551.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49338770/trump-difende-la-fucilazione-di-hasan-e-un-maniaco-se-lo-merita-/",
-        "https://www.ilfattoquotidiano.it/2026/10/09/usa-nidal-hasan-pena-morte-diretta-streaming/8532655/",
-        "https://www.liberoquotidiano.it/news/tv-news/49335125/usa-il-killer-di-fort-hood-sara-fucilato-in-diretta-streaming/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Mattarella ha promulgato la legge elettorale",
-      "source_count": 8,
       "article_count": 8,
       "source_domains": [
         "ilmanifesto.it",
+        "lastampa.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
         "ansa.it",
         "repubblica.it",
-        "lastampa.it",
-        "temi.camera.it",
         "ilsole24ore.com"
       ],
       "links": [
         "https://ilmanifesto.it/il-colle-firma-il-melonellum-prime-manovre-al-centro",
+        "https://www.lastampa.it/politica/2026/10/10/news/mattarella_firma_la_legge_elettorale_e_accelera_il_verdetto_della_consulta_parte_la_sfida_dei_giuristi-15762319/",
         "https://www.ilfattoquotidiano.it/2026/10/09/legge-elettorale-mattarella-promulgazione-notizie/8533277/",
         "https://www.ilmessaggero.it/politica/legge_elettorale_mattarella_firma_stabilicum-9814766.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/09/mattarella-ha-promulgato-la-legge-elettorale_b3de459f-a11e-40e2-9dee-6d7e76f64be4.html",
-        "https://www.repubblica.it/politica/2026/10/09/news/mattarella_firma_legge_elettorale-425637713/"
+        "https://www.ansa.it/sito/notizie/politica/2026/10/09/mattarella-ha-promulgato-la-legge-elettorale_b3de459f-a11e-40e2-9dee-6d7e76f64be4.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Il Pentagono vuole trasmettere in diretta streaming la fucilazione dell’autore della strage di Fort Hood",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "lastampa.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/10/10/news/trump_fucilazione_in_diretta_mossa_elettorale-15762292/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/09/la-fucilazione-del-killer-di-fort-hood-in-diretta-streaming-per-lonu-e-tortura_82f5ecaf-fec1-4ee7-8e0f-507effc31551.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/09/la-fucilazione-del-killer-di-fort-hood-sara-pubblica-e-in-streaming.-i-vescovi-usa_82f5ecaf-fec1-4ee7-8e0f-507effc31551.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49338770/trump-difende-la-fucilazione-di-hasan-e-un-maniaco-se-lo-merita-/",
+        "https://www.liberoquotidiano.it/news/tv-news/49335125/usa-il-killer-di-fort-hood-sara-fucilato-in-diretta-streaming/"
       ]
     },
     {
       "rank": 6,
+      "title": "Crans-Montana. \"Le spese mediche per gli italiani ammontano a 1,6 milioni\"",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/mondo/crans_montana_svizzera_soldi_italia_1_6_milioni_cure_ragazzi_feriti-9814949.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/crans-montana.-le-spese-mediche-per-gli-italiani-ammontano-a-16-milioni_f294ae43-ec96-46dc-beee-d6702f9eed6f.html",
+        "https://www.ilmessaggero.it/italia/crans_montana_costo_spese_mediche_italiani-9814568.html",
+        "https://www.lastampa.it/biella/2026/10/09/news/crans-montana_spese_mediche_16_milioni_euro-15761901/",
+        "https://www.ilfattoquotidiano.it/2026/10/09/incendio-crans-montana-ospedali-svizzeri-cure-notizie/8532720/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "L'Ice spara a New York e ferisce una persona, nell'auto il figlio di 5 anni. La furia di Mamdani",
       "source_count": 5,
       "article_count": 6,
@@ -133,25 +150,6 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/10/09/lice-spara-a-new-york-e-ferisce-una-persona-nellauto-il-figlio-di-5-anni._349c2281-d039-4963-9ebf-ab5b4e26f020.html",
         "https://www.lastampa.it/esteri/2026/10/09/news/ice_new_york_uomo_ferito_mamdani_protesta-15761323/",
         "https://www.repubblica.it/esteri/2026/10/09/news/new_york_ice_spara_uomo_arresto_mamdani-425635828/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Salgono a sei i casi della banda della minicar, un altro uomo colpito in strada",
-      "source_count": 4,
-      "article_count": 7,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "roma.repubblica.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/roma/monteverde/banda_minicar_aggredito_uomo_tubo_monteverde_roma-9814962.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/salgono-a-sei-i-casi-dalla-banda-della-minicar-iacopini-resta-gravenbsp_3d98a72b-ee37-4294-87b8-8eacba645393.html",
-        "https://www.ilfattoquotidiano.it/2026/10/09/banda-minicar-nera-aggressioni-monteverde-sei-casi-tubo-identikit-aggressore-davide-iacopini/8533119/",
-        "https://www.ilmessaggero.it/roma/monteverde/banda_minicar_roma_uomo_colpito_tubo_plastica_monteverde-9814619.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/salgono-a-sei-i-casi-della-banda-della-minicar-un-altro-uomo-colpito_3d98a72b-ee37-4294-87b8-8eacba645393.html"
       ]
     },
     {
@@ -196,22 +194,22 @@
     },
     {
       "rank": 10,
-      "title": "Crans-Montana. \"Le spese mediche per gli italiani ammontano a 1,6 milioni\"",
+      "title": "Operaio morto a Caivano, arrestato il datore di lavoro: la vittima era in nero",
       "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
+        "ilmanifesto.it",
         "lastampa.it",
+        "ansa.it",
         "ilfattoquotidiano.it",
-        "repubblica.it"
+        "agi.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/crans-montana.-le-spese-mediche-per-gli-italiani-ammontano-a-16-milioni_f294ae43-ec96-46dc-beee-d6702f9eed6f.html",
-        "https://www.ilmessaggero.it/italia/crans_montana_costo_spese_mediche_italiani-9814568.html",
-        "https://www.lastampa.it/biella/2026/10/09/news/crans-montana_spese_mediche_16_milioni_euro-15761901/",
-        "https://www.ilfattoquotidiano.it/2026/10/09/incendio-crans-montana-ospedali-svizzeri-cure-notizie/8532720/",
-        "https://www.repubblica.it/cronaca/2026/10/09/news/crans_fatture_ospedali_svizzeri_risarcimento_famiglie_feriti_italiani-425636312/"
+        "https://ilmanifesto.it/operaio-morto-a-caivano-arrestato-il-datore-di-lavoro",
+        "https://www.lastampa.it/cronaca/2026/10/09/news/operaio_morto_caivano_era_in_nero_arrestato_datore_di_lavoro-15762113/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/09/mori-cadendo-da-capannone-arrestato-il-datore-di-lavoro_7e454dbd-413b-4fca-baa9-6ee15a751183.html",
+        "https://www.ilfattoquotidiano.it/2026/10/09/morte-operaio-caivano-domiciliari-datore-lavoro-notizie/8532811/",
+        "https://www.agi.it/cronaca/news/2026-10-09/caivano-operaio-morto-datore-lavoro-39454540/"
       ]
     }
   ]
