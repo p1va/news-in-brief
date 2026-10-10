@@ -1,12 +1,12 @@
 {
   "date": "2026-10-10",
-  "generated_at": "Sat 10 Oct 17:49",
+  "generated_at": "Sat 10 Oct 21:30",
   "stories": [
     {
       "rank": 1,
       "title": "Nubifragio a Lipari, esondati torrenti: fango nelle strade e case allagate",
       "source_count": 7,
-      "article_count": 11,
+      "article_count": 12,
       "source_domains": [
         "ansa.it",
         "laverita.info",
@@ -17,11 +17,11 @@
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/nubifragi-allagamenti-e-frane-il-maltempo-fa-paura-al-sud_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/nubifragi-allagamenti-e-frane-il-maltempo-sferza-il-sud_9c85a05b-b554-4cf2-9592-d9c514ee9113.html",
         "https://www.laverita.info/video/cronaca-video/lipari-maltempo",
         "https://www.repubblica.it/cronaca/2026/10/10/news/meteo_maltempo_italia_temporali_oggi-425639138/",
-        "https://www.ilfattoquotidiano.it/2026/10/10/alluvione-lipari-torrenti-esondati-notizie/8533663/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/temporale-a-lipari-esondati-torrenti-fango-in-strade-e-case-allagate_9c85a05b-b554-4cf2-9592-d9c514ee9113.html"
+        "https://www.ilfattoquotidiano.it/2026/10/10/alluvione-lipari-torrenti-esondati-notizie/8533663/"
       ]
     },
     {
@@ -47,30 +47,49 @@
     },
     {
       "rank": 3,
-      "title": "Trump ringrazia Putin per accordo su gasolio: in arrivo quantità enormi",
-      "source_count": 6,
+      "title": "Torino, manifestanti sfilano cantando 'Bella Ciao' al corteo pro Palestina",
+      "source_count": 4,
       "article_count": 8,
       "source_domains": [
         "ansa.it",
-        "ilfattoquotidiano.it",
         "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
+        "napoli.repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/10/il-cremlino-da-putin-molta-comprensione-verso-alcune-proposte-usa-sulla-de-escalation_d50f315d-6dd5-4025-922d-638d7519a1b9.html",
-        "https://www.ilfattoquotidiano.it/2026/10/10/accordo-trump-putin-gasolio-russia-notizie/8533632/",
-        "https://www.liberoquotidiano.it/news/tv-news/49341141/trump-ringrazia-putin-per-accordo-su-gasolio-in-arrivo-quantita-enormi/",
-        "https://www.repubblica.it/esteri/2026/10/10/news/trump_sente_putin_e_leva_le_sanzioni_a_mosca_ci_vendera_il_suo_diesel-425638172/",
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/10/10/news/trump_putin_accordo_petrolio_zelensky_nell_angolo-15762356/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/cortei-pro-pal-in-50-citta-e-ce-chi-inneggia-al-7-ottobre_10c194c9-d77a-4956-a3d1-9aa86a4d7cc2.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/pro-pal-a-torino-trump-e-netanyahu-in-fiamme-li-processiamo-noi_10c194c9-d77a-4956-a3d1-9aa86a4d7cc2.html",
+        "https://www.liberoquotidiano.it/news/libero-video/49341603/torino-manifestanti-sfilano-cantando-bella-ciao-al-corteo-pro-palestina/",
+        "https://www.liberoquotidiano.it/news/libero-video/49341592/torino-manifestanti-sfondano-il-corteo-pro-palestina-e-raggiungono-piazza-castello/",
+        "https://www.ansa.it/sito/videogallery/italia/2026/10/10/greta-thunberg-partecipa-al-corteo-per-gaza-a-napoli_cf78fda9-1a0b-4cbd-9085-1dbd8763daab.html"
       ]
     },
     {
       "rank": 4,
+      "title": "Il Papa: la pena di morte è inammissibile",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/49342158/papa-leone-xiv-sulla-pena-di-morte-e-inammissibile-/",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/10/il-papa-la-pena-di-morte-e-inammissibile_0f1d163f-6d14-4d85-97d3-741cbd0ae978.html",
+        "https://www.ilmessaggero.it/vaticano/papa_leone_sfida_trump_sulla_pena_di_morte_usa-9816563.html",
+        "https://www.repubblica.it/cronaca/2026/10/10/news/papa_leone_xiv_pena_di_morte-425639202/",
+        "https://www.ilfattoquotidiano.it/2026/10/10/strage-fort-hood-papa-leone-pena-morte-notizie/8533776/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Rai, la squadra di Report: “Mai sfiduciato Ranucci né chiesta la sua rimozione”",
       "source_count": 6,
-      "article_count": 7,
+      "article_count": 6,
       "source_domains": [
         "repubblica.it",
         "ilfattoquotidiano.it",
@@ -88,55 +107,17 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Torino, manifestanti sfilano cantando 'Bella Ciao' al corteo pro Palestina",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "roma.repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/pro-pal-a-torino-trump-e-netanyahu-in-fiamme-li-processiamo-noi_10c194c9-d77a-4956-a3d1-9aa86a4d7cc2.html",
-        "https://roma.repubblica.it/cronaca/2026/10/10/news/corteo_pro_palestina_gaza_roma_striscione_7_ottobre_giornata_resistenza-425639531/",
-        "https://www.liberoquotidiano.it/news/libero-video/49341603/torino-manifestanti-sfilano-cantando-bella-ciao-al-corteo-pro-palestina/",
-        "https://www.liberoquotidiano.it/news/libero-video/49341592/torino-manifestanti-sfondano-il-corteo-pro-palestina-e-raggiungono-piazza-castello/",
-        "https://www.liberoquotidiano.it/news/tv-news/49342042/cortei-pro-palestina-in-tutto-il-mondo-le-immagini-da-londra/"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Il Papa: la pena di morte è inammissibile",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/10/10/il-papa-la-pena-di-morte-e-inammissibile_0f1d163f-6d14-4d85-97d3-741cbd0ae978.html",
-        "https://www.ilmessaggero.it/vaticano/papa_leone_sfida_trump_sulla_pena_di_morte_usa-9816563.html",
-        "https://www.repubblica.it/cronaca/2026/10/10/news/papa_leone_xiv_pena_di_morte-425639202/",
-        "https://www.ilfattoquotidiano.it/2026/10/10/strage-fort-hood-papa-leone-pena-morte-notizie/8533776/",
-        "https://www.ilsole24ore.com/art/il-papa-pena-morte-e-inammissibile-AJvGZsfB"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Christa Pike dimessa dall'ospedale, torna in carcere in Usa",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Christa Pike, la donna sopravvissuta a due iniezioni letali in Tennessee, è stata dimessa dall'ospedale e riportata in carcere",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
         "ilfattoquotidiano.it",
         "adnkronos.com",
         "ansa.it",
         "repubblica.it",
-        "ilmessaggero.it"
+        "ilmessaggero.it",
+        "news.google.com"
       ],
       "links": [
         "https://www.ilfattoquotidiano.it/2026/10/10/christa-pike-sopravvissuta-alliniezione-letale-dimessa-dallospedale-torna-in-carcere/8534004/",
@@ -147,10 +128,30 @@
       ]
     },
     {
+      "rank": 7,
+      "title": "Trump ringrazia Putin per accordo su gasolio: in arrivo quantità enormi",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/10/il-cremlino-da-putin-molta-comprensione-verso-alcune-proposte-usa-sulla-de-escalation_d50f315d-6dd5-4025-922d-638d7519a1b9.html",
+        "https://www.ilfattoquotidiano.it/2026/10/10/accordo-trump-putin-gasolio-russia-notizie/8533632/",
+        "https://www.liberoquotidiano.it/news/tv-news/49341141/trump-ringrazia-putin-per-accordo-su-gasolio-in-arrivo-quantita-enormi/",
+        "https://www.repubblica.it/esteri/2026/10/10/news/trump_sente_putin_e_leva_le_sanzioni_a_mosca_ci_vendera_il_suo_diesel-425638172/",
+        "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TbW9ILWRjT1lzVWY2ZGxNZ0FucHBOTFQwTVpWZkNFNUxRNjhhaE1FWVJHQmJ2ZTczejhjcW8zUTlEMEZ3ZUdqX0lHTFdZQjRFMmF4M0EyQkpSNl8zZnBoTmFsS0J4dEEyOHdVaw?oc=5"
+      ]
+    },
+    {
       "rank": 8,
       "title": "Allude sui social a stragi e atti violenti a scuola, denunciato 14enne",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
@@ -158,6 +159,7 @@
         "agi.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/evoca-sui-social-una-strage-a-scuola-denunciato-un-14enne_c3571ba9-7190-461b-adc5-b8cfe98178ab.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/allude-sui-social-a-stragi-e-atti-violenti-a-scuola-denunciato-14enne_c3571ba9-7190-461b-adc5-b8cfe98178ab.html",
         "https://www.liberoquotidiano.it/news/pillole/49340015/alludeva_sui_social_network_a_stragi_a_scuola_denunciato_minorenne_a_catania/",
         "https://www.ilsole24ore.com/art/allude-social-stragi-e-atti-violenti-scuola-denunciato-14enne-AJ0gubfB",
@@ -166,38 +168,40 @@
     },
     {
       "rank": 9,
-      "title": "Verona, bambina investita nel cortile di casa: è grave",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/verona-bambina-investita-cortile-casa_572z79wP7VRkBDArDys7HE",
-        "https://www.ilfattoquotidiano.it/2026/10/10/bambina-investita-casaleone-verona-notizie/8533780/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/10/bambina-investita-da-unauto-nel-cortile-di-casa-e-grave-_ecd563f5-9abb-4014-94bb-2acccd0bab8c.html",
-        "https://www.ilmessaggero.it/italia/bambina_investita_auto_cortile_casa_casaleone-9816371.html"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Missile Houthi sull'aeroporto di Riad, 5 feriti e scalo chiuso",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
+        "repubblica.it",
         "ansa.it",
         "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it"
+        "lastampa.it"
       ],
       "links": [
+        "https://www.repubblica.it/esteri/2026/10/11/news/raid_houthi_aeroporto_riad_arabia_saudita-425639831/",
         "https://www.ansa.it/sito/notizie/mondo/2026/10/10/missile-houthi-sullaeroporto-di-riad-5-feriti-e-scalo-chiuso_da022b8b-30f6-4fe4-9439-2ca256cef92f.html",
         "https://www.adnkronos.com/internazionale/esteri/missile-houthi-ribelli-aeroporto-riad_5bGyholjPH6jligQjfRwlq",
         "https://www.lastampa.it/esteri/2026/10/10/news/riad_forte_esplosione_in_aeroporto_evacuazione_in_corso-15762675/",
         "https://www.repubblica.it/esteri/2026/10/10/diretta/guerra_iran_usa_israele_news_oggi-425638200/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "L’Inter ne fa 3 al Parma di Gilardino, nerazzurri in vetta da soli",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/allinter-bastano-30-minuti-parma-travolto-3-0-a-s.siro_3de142c7-04e2-4b64-b000-cc44ad95cfcf.html",
+        "https://www.liberoquotidiano.it/news/sport/49342789/inter-tutto-facile-in-casa-con-il-parma-vittoria-per-3-a-0-contro-gilardino/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/10/serie-a-inter-parma-3-0-diretta-e-foto_3de142c7-04e2-4b64-b000-cc44ad95cfcf.html",
+        "https://www.ilmessaggero.it/sport/schede/inter_parma_pagelle_thuram_sucic_calhanoglu_classifica_serie_a-9816693.html",
+        "https://www.lastampa.it/sport/2026/10/10/news/inter_parma_gol_highlights-15762928/"
       ]
     }
   ]
