@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "generated_at": "Tue 13 Oct 00:38",
+  "generated_at": "Tue 13 Oct 14:00",
   "stories": [
     {
       "rank": 1,
@@ -27,15 +27,76 @@
     },
     {
       "rank": 2,
-      "title": "Estratto vivo lo speleologo bloccato nella grotta in Sardegna",
-      "source_count": 6,
+      "title": "Papa Leone XIV arriva al Gemelli: sarà operato oggi",
+      "source_count": 5,
       "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.ansa.it/vaticano/notizie/2026/10/13/papa-leone-e-al-gemelli-sara-operato-nel-pomeriggio_ae07b5c7-45af-4044-bbb2-72bf323e8929.html",
+        "https://www.repubblica.it/cronaca/2026/10/13/news/papa_leone_xiv_operazione_news_di_oggi-425644768/",
+        "https://www.liberoquotidiano.it/news/tv-news/49355442/papa-leone-e-giunto-al-policlinico-gemelli-di-roma/",
+        "https://www.lastampa.it/cronaca/2026/10/13/news/il_papa_ha_lasciato_il_vaticano_ora_al_gemelli_per_il_ricovero-15764929/",
+        "https://www.laverita.info/chiesa-e-fede/papa-leone-xiv-operazione-polmone"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Morto Rj Mitte, uno dei protagonisti di 'Breaking Bad'",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "lastampa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/persone/rj_mitte_morte_causa_morte_breaking_bad_bryan_cranston-9822100.html",
+        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/13/morto-rj-mitte-uno-dei-protagonisti-di-breaking-bad_76f15d6e-eca5-43f1-8aae-124717b93014.html",
+        "https://www.lastampa.it/spettacoli/2026/10/13/news/breaking_bad_in_lutto_addio_a_rj_mitte_interpreto_il_figlio_di_walter_white_aveva_34_anni-15764630/",
+        "https://www.repubblica.it/spettacoli/tv-radio/2026/10/12/news/rj_mitte_morto_breaking_bad_walter_white_jr-425644035/",
+        "https://www.ilmessaggero.it/persone/breaking_bad_figlio_walter_white_morto_chi_era_rj_mitte-9820711.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Ilaria Salis, annullata condanna sui risarcimenti agli ex collaboratori: “Riconosciute mie ragioni”",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "laverita.info",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "milano.repubblica.it",
+        "ilmessaggero.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.laverita.info/giustizia-al-contrario/ilaria-salis-sentenza",
+        "https://www.liberoquotidiano.it/news/giustizia/49355198/ilaria-salis-annullata-condanna-risarcimento-ex-collaboratori/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/13/annullata-la-condanna-a-ilaria-salis-nella-causa-con-gli-ex-collaboratori_0fd18be5-0ba0-4c12-b220-5277461ba476.html",
+        "https://milano.repubblica.it/cronaca/2026/10/13/news/ilaria_salis_annullata_condanna_risarcimenti_collaboratori-425644413/",
+        "https://www.ilmessaggero.it/politica/ilaria_salis_condanna_annullata_ex_collaboratori-9822036.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Estratto vivo lo speleologo bloccato nella grotta in Sardegna",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
         "ansa.it",
         "laverita.info",
         "liberoquotidiano.it",
         "lastampa.it",
-        "ilmessaggero.it",
         "agi.it"
       ],
       "links": [
@@ -47,144 +108,97 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "È morto Giorgio Bracardi, il comico lanciato da Arbore e Boncompagni: aveva 93 anni",
-      "source_count": 6,
+      "rank": 6,
+      "title": "Ricina, l’analisi dei pc all’istituto agrario: spunta l’ipotesi che il bersaglio fosse Di Vita",
+      "source_count": 5,
       "article_count": 6,
       "source_domains": [
-        "ilmanifesto.it",
         "ansa.it",
-        "ilfattoquotidiano.it",
         "ilmessaggero.it",
+        "repubblica.it",
         "lastampa.it",
-        "news.google.com"
+        "laverita.info"
       ],
       "links": [
-        "https://ilmanifesto.it/addio-a-giorgio-bracardi-artigiano-irriverente-del-tormentone",
-        "https://www.ansa.it/sito/notizie/cultura/2026/10/12/addio-a-scarpantibus-e-morto-giorgio-bracardi_ed851556-9938-47c0-9d5a-a8c32548e9f9.html",
-        "https://www.ilfattoquotidiano.it/2026/10/12/e-morto-giorgio-bracardi-il-comico-dellassurdo-piu-geniale-di-tutti-i-tempi-da-scarpantibus-a-catenacci-passando-dallurlo-di-patroclo-alle-pernacchie-ecco-il-suo-ritratto/8535852/",
-        "https://www.ilmessaggero.it/persone/giorgio_bracardi_morto_chi_era-9820066.html",
-        "https://www.lastampa.it/spettacoli/2026/10/12/news/morto_giorgio_bracardi-15764053/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Sei punti per dichiarare il Melonellum incostituzionale: pronti 30 ricorsi contro la legge elettorale. “Rischio di votare con questa legge in caso di elezioni anticipate”",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ilfattoquotidiano.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/10/13/news/melonellum_ricorsi_consulta_6_punti_in_campo_prodi_bersani-425643843/",
-        "https://ilmanifesto.it/melonellum-si-mette-in-moto-la-macchina-dei-ricorsi",
-        "https://www.ilfattoquotidiano.it/2026/10/12/melonellum-ricorsi-incostituzionalita-corte-notizie/8535673/",
-        "https://www.ilsole24ore.com/art/dal-premio-firme-sei-punti-ricorsi-contro-legge-elettorale-AJ9bNShB"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "RJ Mitte è morto: addio al figlio di Walter White in “Breaking Bad”. Aveva 34 anni",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "repubblica.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/spettacoli/tv-radio/2026/10/12/news/rj_mitte_morto_breaking_bad_walter_white_jr-425644035/",
-        "https://www.ilmessaggero.it/persone/breaking_bad_figlio_walter_white_morto_chi_era_rj_mitte-9820711.html",
-        "https://www.adnkronos.com/spettacoli/morto-rj-mitte-attore-breaking-bad-suicidio_4cubcPXlLFDt6z3Kso7fhr",
-        "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsdlJvb2dOb3p1NFcyTHVKdDZfc2E2RkpNSGpkbVhtNW5VTmZPU1FEZFQzdWlBRkNydVF4cGVoWTFpT19TOVJHZ285VUxKMFFEdm9qTVlMaXpVZlVtNGhWYTNhdUlsNC14QjBJSEcxRDdobkxhdUVn?oc=5"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Nobel dell’economia agli americani Hall e Woodford",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilmanifesto.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://ilmanifesto.it/nobel-delleconomia-agli-americani-hall-e-woodford",
-        "https://www.ansa.it/sito/notizie/economia/2026/10/12/il-nobel-per-leconomia-a-robert-e.-hall-e-michael-woodford_26e6ff03-7b7e-4252-addb-5b16c364cb10.html",
-        "https://www.ilmessaggero.it/mondo/premio_nobel_economia_hall_woodford_chi_sono-9819847.html",
-        "https://www.lastampa.it/economia/2026/10/12/news/il_nobel_per_l_economia_a_hall_e_woodford_studi_sul_sistema-15763937/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/13/morte-avvelenate-al-via-la-perquisizione-nellistituto-agrario-di-riccia_c92525d2-f6ae-4fb7-a515-49ca5b24c28e.html",
+        "https://www.ilmessaggero.it/italia/avvelenate_ricina_obiettivo_marito_gianni_di_vita_ultime_notizie-9822023.html",
+        "https://www.repubblica.it/cronaca/2026/10/13/news/avvelenate_con_la_ricina_pc_istituto_agrario_di_riccia-425644370/",
+        "https://www.lastampa.it/cronaca/2026/10/13/news/insegnante_marito_cugina_sospetti_giallo_ricina-15764635/",
+        "https://www.ilmessaggero.it/italia/avvelenate_ricina_cugina_di_vita_chi_e_ultime_notizie-9820702.html"
       ]
     },
     {
       "rank": 7,
-      "title": "Incognita clausola di salvaguardia sui tempi della manovra. Giorgetti: 'Chi può contribuisca'",
-      "source_count": 3,
-      "article_count": 4,
+      "title": "Giorgetti alla Camera per lo scostamento: “Nuvoloni all'orizzonte”. Ma l’aula è deserta",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "lastampa.it",
         "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.lastampa.it/economia/2026/10/13/news/meloni_flessibilita_legge_di_bilancio_risorse_miliardi-15764563/",
-        "https://www.lastampa.it/economia/2026/10/13/news/manovra_tempi_piu_lunghi_giorgetti_trattativa_ue_inflazione-15764485/",
-        "https://www.ansa.it/sito/notizie/economia/2026/10/12/giorgetti-litalia-dimostra-di-saper-mantenere-impegni-percorso-conti-e-sostenibile_07500243-a9f1-4192-8a50-6781953f4c0f.html",
-        "https://www.ilsole24ore.com/art/dpfp-giorgetti-l-italia-dimostra-saper-rispettare-impegni-credibilita-risorsa-preservare-AJBm1mhB"
+        "https://www.ansa.it/sito/notizie/economia/2026/10/13/giorgetti-alla-camera-nuvoloni-allorizzonte-proseguiamo-sul-consolidamento_87a99904-92d1-4218-8a51-bf746e9d2916.html",
+        "https://www.ilmessaggero.it/politica/giorgetti_aula_deserta_deputati_presenti_cosa_e_successo_ultime_notizie-9822044.html",
+        "https://www.repubblica.it/economia/2026/10/13/news/manovra_giorgetti_scostamento_bilancio-425644361/",
+        "https://www.lastampa.it/politica/2026/10/13/news/aula_della_camera_semivuota_giorgetti-15764743/",
+        "https://www.ilsole24ore.com/art/dpfp-esame-via-un-aula-semivuota-presenti-solo-4-deputati-maggioranza-giorgetti-scostamento-consapevole-AJGqDNiB"
       ]
     },
     {
       "rank": 8,
-      "title": "Papa Leone, domattina il ricovero e mercoledì l’operazione al polmone: cosa succede ora in Vaticano",
+      "title": "Garlasco, Sempio con i legali al laboratorio Genomica di Roma",
       "source_count": 3,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "lastampa.it"
+        "laverita.info",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it"
       ],
       "links": [
-        "https://www.repubblica.it/cronaca/2026/10/13/news/papa_nodulo_domande_e_risposte_intervento_chirurgico_gemelli-425643954/",
-        "https://www.repubblica.it/cronaca/2026/10/13/news/ricovero_papa_gemelli_preghiere_attesa-425643934/",
-        "https://www.ansa.it/vaticano/notizie/2026/10/12/il-nodulo-del-papa-e-emerso-da-controlli-di-routine_2fe7f4bb-01da-4a62-b0b9-14cf1f9e808f.html",
-        "https://www.lastampa.it/cronaca/2026/10/12/news/papa_leone_xiv_domani_l_operazione_al_polmone_il_vaticano_si_prepara_cosa_succede_ora-15763928/"
+        "https://www.laverita.info/video/inchieste-video/sempio-impronte-genomica",
+        "https://www.ilmessaggero.it/mondo/sempio_accuse_quali_sono_5_consulenze_impronta_chiara_poggi_piede_grande-9820654.html",
+        "https://www.laverita.info/video/inchieste-video/sempio-genomica-garlasco",
+        "https://www.ilfattoquotidiano.it/2026/10/12/undefined-53/8535779/",
+        "https://www.ilmessaggero.it/persone/garlasco_sempio_nuove_analisi_5_consulenze_piede_piu_grande_suola_killer_cosa_sappiamo-9820217.html"
       ]
     },
     {
       "rank": 9,
-      "title": "Udinese battuta, il Toro passa per la prima volta in casa in campionato. Decide una papera di Okoye",
-      "source_count": 3,
-      "article_count": 3,
+      "title": "In 25 anni i prezzi sono cresciuti più del 60%, per la casa oltre il 100%",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
+        "ilfattoquotidiano.it",
+        "repubblica.it",
         "ansa.it",
-        "adnkronos.com",
-        "lastampa.it"
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/12/serie-a-il-torino-si-sblocca-in-casa-ludinese-battuta-2-1_08421611-f5e0-4980-94bc-3aef161342e2.html",
-        "https://www.adnkronos.com/sport/serie-a-torino-udinese-okoye-kulenovic_A5xuvLXvBVNo01nydITyo",
-        "https://www.lastampa.it/sport/2026/10/12/news/udinese_battuta_il_toro_passa_per_la_prima_vota_in_casa_in_campionato_decide_una_papera_di_okoye-15764574/"
+        "https://www.ilfattoquotidiano.it/2026/10/13/inflazione-italia-istat-prezzi-consumo-notizie/8536648/",
+        "https://www.repubblica.it/economia/2026/10/13/news/inflazione_istat_100_anni_prezzi_casa_alimenti_utenze-425644656/",
+        "https://www.ansa.it/sito/notizie/economia/2026/10/13/in-25-anni-i-prezzi-sono-cresciuti-piu-del-60-per-casa-oltre-il-100_d379c619-6546-4877-a19e-97c68c2bd3d9.html",
+        "https://www.ilsole24ore.com/art/istat-25-anni-prezzi-cresciuti-63percento-ma-la-casa-oltre-100percento-piu-AJoadSiB"
       ]
     },
     {
       "rank": 10,
-      "title": "Meloni non molla la presa sull'energia, pressing su Ue per flessibilità: \"Italia in Europa non per dire solo sì\"",
-      "source_count": 3,
-      "article_count": 3,
+      "title": "Costringe la partner a pratiche sessuali estreme per dodici ore, arrestato per tortura a Torino",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
-        "adnkronos.com",
-        "ilmanifesto.it",
-        "ansa.it"
+        "ansa.it",
+        "liberoquotidiano.it",
+        "torino.repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.adnkronos.com/politica/energia-meloni-ue-flessibilita_4GuglE2kac3IHAkxT2kXwk",
-        "https://ilmanifesto.it/gas-russo-linea-dura-di-meloni-per-avere-concessioni-in-europa",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/12/meloni-sullenergia-servono-risposte-strutturali-e-di-lungo-periodo-_be052d8b-2d07-46d4-9113-56cefd85e6a2.html"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/13/costretta-a-12-ore-di-pratiche-estreme-il-compagno-arrestato-per-tortura_d553d1fa-d8f5-42db-b5ed-292807cfe555.html",
+        "https://www.liberoquotidiano.it/news/italia/49354745/torino-costretta-pratiche-sessuali-estreme-12-ore-chi-e-belva/",
+        "https://torino.repubblica.it/cronaca/2026/10/13/news/costringe_la_partner_a_pratiche_sessuali_estreme_per_dodici_ore_arrestato_per_tortura-425644336/",
+        "https://www.lastampa.it/torino/2026/10/13/news/chieri_seviziata_compagno_arrestato_tortura-15764700/"
       ]
     }
   ]
