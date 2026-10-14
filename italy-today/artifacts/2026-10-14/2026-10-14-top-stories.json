@@ -1,19 +1,17 @@
 {
   "date": "2026-10-14",
-  "generated_at": "Wed 14 Oct 20:38",
+  "generated_at": "Wed 14 Oct 21:40",
   "stories": [
     {
       "rank": 1,
       "title": "Papa, notte tranquilla al Gemelli dopo rimozione di tumore al polmone",
-      "source_count": 6,
-      "article_count": 19,
+      "source_count": 4,
+      "article_count": 14,
       "source_domains": [
         "ansa.it",
         "liberoquotidiano.it",
         "repubblica.it",
-        "lastampa.it",
-        "adnkronos.com",
-        "ilmessaggero.it"
+        "lastampa.it"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/il-papa-si-e-alzato-ed-e-di-buon-umore-al-via-il-recupero_c5870a60-a48c-48be-8f6f-569525ab0fc1.html",
@@ -83,6 +81,25 @@
     },
     {
       "rank": 5,
+      "title": "La Roma crolla sul più bello, il Real Madrid rimonta e vince 4-3 all’Olimpico",
+      "source_count": 4,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/14/champions-roma-sconfitta-amara-avanti-3-1-il-real-la-ribalta-in-8-minuti_d32e57f1-7e06-4727-a272-394e02130a10.html",
+        "https://www.adnkronos.com/sport/roma-real-champions-rudiger_7rMF7Ambj0v94j9TBZUhk1",
+        "https://www.ilmessaggero.it/sport/schede/roma_real_madrid_pagelle_malen_de_roon_mbappe_espi_endrick_rudiger_champions_league-9825295.html",
+        "https://www.adnkronos.com/sport/calcio-champions-league-roma-real-madrid-malen_2llZ9OjCujX27Yxf9ke4IB",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/14/champions-roma-real-madrid-2-1-diretta-e-foto-doppietta-di-male_d32e57f1-7e06-4727-a272-394e02130a10.html"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Diao illude il Como, il Feyenoord rimonta e vince 3-2. Primo ko in Champions per Fabregas",
       "source_count": 5,
       "article_count": 7,
@@ -102,7 +119,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Meloni a M5S: Con le nuove regole elettorali Conte non sarebbe arrivato a Palazzo Chigi",
       "source_count": 2,
       "article_count": 9,
@@ -116,26 +133,6 @@
         "https://www.liberoquotidiano.it/news/video-news-by-vista/49367857/conte-risponde-a-meloni-non-sarei-stato-premier-con-la-nuova-legge-elettorale-la-studi-meglio/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/49366813/meloni-a-opposizioni-non-sono-arrivata-dove-sono-con-carezze-e-moine-misoginia-blocca-la-sinistra/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/49364852/meloni-a-m5s-da-voi-solo-insulti-per-coprire-la-pochezza-delle-vostre-soluzioni/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Napoli, in Europa è notte fonda. Il Villarreal rimonta e vince 3-1",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/2026/10/13/champions-league-il-napoli-sbanda-con-il-villarreal-seconda-sconfitta_72b8f67c-6c3e-448b-b4ba-d6832f320ddf.html",
-        "https://www.repubblica.it/sport/calcio/champions/2026/10/13/news/villarreal_napoli_risultato_gol-425646272/",
-        "https://www.adnkronos.com/sport/allegri-napoli-villarreal-parole_5d4DBmDbQUCEijY5OF8Tj",
-        "https://www.liberoquotidiano.it/news/sport/49361179/il_napoli_triturato_da_villarreal_notte_fonda_per_max/",
-        "https://www.ilmessaggero.it/sport/schede/villarreal_napoli_pagelle_champions_league_classifica_cosa_e_successo-9822951.html"
       ]
     },
     {
