@@ -1,33 +1,34 @@
 {
   "date": "2026-10-14",
-  "generated_at": "Wed 14 Oct 00:18",
+  "generated_at": "Wed 14 Oct 11:37",
   "stories": [
     {
       "rank": 1,
       "title": "Il Papa operato al Gemelli, asportato un tumore maligno al polmone",
-      "source_count": 6,
-      "article_count": 9,
+      "source_count": 7,
+      "article_count": 18,
       "source_domains": [
-        "repubblica.it",
         "ansa.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
         "adnkronos.com",
         "ilmessaggero.it",
-        "lastampa.it",
         "laverita.info"
       ],
       "links": [
-        "https://www.repubblica.it/cronaca/2026/10/14/news/papa_tumore_maligno_polmone_rimosso_lobo-425646322/",
-        "https://www.ansa.it/vaticano/notizie/2026/10/13/il-papa-operato-al-gemelli-asportato-un-tumore-maligno-al-polmone_ae07b5c7-45af-4044-bbb2-72bf323e8929.html",
-        "https://www.adnkronos.com/cronaca/papa-leone-operato-adenocarcinoma-terapia_1EpHmF9uJQCUzTTAdjp9tK",
-        "https://www.ilmessaggero.it/vaticano/papa_leone_tumore_maligno_operato_chemioterapia_come_sta_cosa_succede_ora-9822958.html",
-        "https://www.lastampa.it/cronaca/2026/10/14/news/novanta_minuti_sotto_i_ferri_e_la_diagnosi_di_tumore_ai_polmoni_l_incognita_degli_impegni_futuri-15765436/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/la-notte-per-il-papa-e-trascorsa-tranquillamente-_aea02c45-a756-4a98-91f9-de643ebdbcfe.html",
+        "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/10/14/lesperto-le-prossime-24-48-ore-le-piu-delicate-per-il-papa_4055da88-cfae-4c68-ac0d-1eeda135d664.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49362852/i-fedeli-al-gemelli-lunga-vita-al-papa-speriamo-si-rimetta-presto-/",
+        "https://www.repubblica.it/cronaca/2026/10/14/news/condizioni_papa_leone_fratello_operazione_ministero-425646590/",
+        "https://www.liberoquotidiano.it/news/tv-news/49362249/papa-notte-tranquilla-al-gemelli-dopo-rimozione-di-tumore-al-polmone/"
       ]
     },
     {
       "rank": 2,
       "title": "Nuovo Codice della strada: multe rivoluzionate, limiti velocità e patente fino a 65 anni. Tutte le novità",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
@@ -38,15 +39,56 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/canale_motori/notizie/istituzioni/2026/10/14/nuovo-codice-della-strada-tutte-le-novita_2d8aaebc-8b4c-4526-8e95-4dc5f0b54dc8.html",
         "https://www.ansa.it/sito/notizie/economia/2026/10/13/nel-nuovo-codice-multe-piu-leggere-tolleranza-zero-stop-a-patenti_40f6487a-c125-4f45-8755-3547f481adc5.html",
         "https://www.adnkronos.com/economia/codice-strada-patente-libretto_2wKqxW0j42DAGNuHSU5PcN",
         "https://www.ilmessaggero.it/italia/multe_nuovo_codice_strada_cosa_cambia-9822857.html",
-        "https://www.repubblica.it/cronaca/2026/10/13/news/codice_strada_bozza_cdm_novita-425645771/",
-        "https://www.ilfattoquotidiano.it/2026/10/13/codice-strada-salvini-novita-cdm-notizie/8537051/"
+        "https://www.repubblica.it/cronaca/2026/10/13/news/codice_strada_bozza_cdm_novita-425645771/"
       ]
     },
     {
       "rank": 3,
+      "title": "Ucraina, Meloni: \"Scelta Trump sul gasolio russo molto rischiosa\"",
+      "source_count": 5,
+      "article_count": 10,
+      "source_domains": [
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/politica/meloni_contro_trump_putin_guerra_ucraina_cosa_ha_detto-9824462.html",
+        "https://www.liberoquotidiano.it/news/libero-video/49362628/meloni-striglia-le-opposizioni-mentono-sapendo-di-farlo-/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49362663/meloni-non-rimpiango-muro-di-berlino-o-i-carri-armati-russi-standing-ovation-della-maggioranza/",
+        "https://www.repubblica.it/politica/2026/10/14/news/meloni_attacca_ue_trump_trump_gas-425646899/",
+        "https://www.repubblica.it/politica/2026/10/14/diretta/meloni_camere_governo_news_diretta-425646623/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Il caso di Liliana Resinovich: trovate tracce di Dna di un uomo ignoto sui jeans e su un s...",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/10/14/caso-resinovich-dna-ignoto-cadavere-notizie/8537915/",
+        "https://www.liberoquotidiano.it/news/italia/49362495/liliana-resinovich-dettaglio-jeans-sacchi-neri-clamoroso-ribaltone/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/13/sui-vestiti-di-liliana-resinovich-il-dna-di-un-uomo-sconosciuto_566d7511-267b-4379-bf25-45c4740b4829.html",
+        "https://www.liberoquotidiano.it/news/italia/49359324/_cosa_c_e_sul_vestito_di_liliana_resinovich_svolta-choc/",
+        "https://www.ilmessaggero.it/persone/liliana_resinovich_dna_uomo_sconosciuto_vestiti_chi_e_cosa_sappiamo-9822689.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Napoli, in Europa è notte fonda. Il Villarreal rimonta e vince 3-1",
       "source_count": 6,
       "article_count": 6,
@@ -67,30 +109,10 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Aula semideserta e Giorgetti si sfoga, 'non vogliono lavorare'",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/10/13/giorgetti-alla-camera-nuvoloni-allorizzonte-proseguiamo-sul-consolidamento_87a99904-92d1-4218-8a51-bf746e9d2916.html",
-        "https://www.liberoquotidiano.it/news/pillole/49359320/via_libera_dal_parlamento_allo_scostamento_di_bilancio/",
-        "https://www.lastampa.it/politica/2026/10/13/news/aula_della_camera_semivuota_giorgetti-15764743/",
-        "https://www.ilsole24ore.com/art/dpfp-esame-via-un-aula-semivuota-presenti-solo-4-deputati-maggioranza-giorgetti-scostamento-consapevole-AJGqDNiB",
-        "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMEtIQklUZ0lVMExPb0JBQXhObzYxb0VRQmVHa0x0OEhEYlZoaHhfRTBJSkxYenJmd0E4Mm9mRkpaNUoxcnJ6aXp2dENZbm15UHcxaXAxZll4XzZsYUprcHl1TGZOSTIwTC1ibjZoN2tZYUpDZ3dQSlYyc1J2UVBuZ0VrQnBCQUtIMUNB?oc=5"
-      ]
-    },
-    {
-      "rank": 5,
+      "rank": 6,
       "title": "Champions: poker del Bruges all'Inter, nerazzurri a zero punti",
       "source_count": 4,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
         "adnkronos.com",
         "ansa.it",
@@ -98,103 +120,86 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/inter-bruges-champions-league-di-canio_31pZIeRVdWsM8RgmgvxgBL",
         "https://www.adnkronos.com/sport/chivu-inter-bruges-champions_6FNb1KRRsipSxm8zprjadT",
         "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/13/champions-poker-del-bruges-allinter-nerazzurri-a-zero-punti-_6b5dbe6c-55e7-4a3b-b935-f0eea36cc948.html",
         "https://www.adnkronos.com/sport/martinez-out-papera-tifosi-bruges-cose-successo_2ny1IEA1h5j8MYNbbdSmAJ",
-        "https://www.ilmessaggero.it/sport/schede/inter_club_brugge_pagelle_champions_league_classifica_tresoldi_lautaro-9822933.html",
-        "https://www.adnkronos.com/sport/inter-bruges-rigore-calhanoglu-gol-annullato-lautaro-cose-successo_5ShqhiCaOdIgISGkDdRqeF"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Sui vestiti di Liliana Resinovich il Dna di un uomo sconosciuto",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/13/sui-vestiti-di-liliana-resinovich-il-dna-di-un-uomo-sconosciuto_566d7511-267b-4379-bf25-45c4740b4829.html",
-        "https://www.liberoquotidiano.it/news/italia/49359324/_cosa_c_e_sul_vestito_di_liliana_resinovich_svolta-choc/",
-        "https://www.ilmessaggero.it/persone/liliana_resinovich_dna_uomo_sconosciuto_vestiti_chi_e_cosa_sappiamo-9822689.html",
-        "https://www.lastampa.it/cronaca/2026/10/13/news/caso_resinovich_perizia_spunta_dna_ignoto_nessuna_traccia_visintin-15765198/",
-        "https://www.agi.it/cronaca/news/2026-10-13/liliana-resinovich-dna-uomo-ignoto-jeans-39518613/"
+        "https://www.ilmessaggero.it/sport/schede/inter_club_brugge_pagelle_champions_league_classifica_tresoldi_lautaro-9822933.html"
       ]
     },
     {
       "rank": 7,
-      "title": "Ucraina-Russia, \"Kiev può ribaltare la guerra con aiuto di Usa e Europa\": l'analisi",
+      "title": "Confessano i due minorenni della banda della minicar: \"Quella notte ci siamo divertiti così\"",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 7,
       "source_domains": [
-        "repubblica.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "liberoquotidiano.it"
+        "ansa.it",
+        "roma.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.repubblica.it/esteri/2026/10/14/diretta/guerra_ucraina_russia_news_oggi-425646301/",
-        "https://www.adnkronos.com/internazionale/esteri/guerra-ucraina-russia-analisi-putin-trump_fl4lI2ZfckqGwPANX25tz",
-        "https://www.lastampa.it/esteri/2026/10/14/diretta/guerra_russia_ucraina_news_oggi-15765445/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49359688/trump-continuiamo-a-condividere-l-intelligence-con-kiev-lavoriamo-per-la-fine-della-guerra/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/denunciati-due-componenti-della-banda-della-minicar.-i-due-minorenni-hanno_65555a49-3948-4536-8119-b7ad101d1c41.html",
+        "https://roma.repubblica.it/cronaca/2026/10/14/news/minicar_confessione_minorenni_lo_abbiamo_fatto_per_divertimento-425647192/",
+        "https://www.ilmessaggero.it/roma/monteverde/minicar_monteverde_ragazzini_chi_sono_figlio_carabiniere_eta-9824311.html",
+        "https://roma.repubblica.it/cronaca/2026/10/14/news/banda_minicar_identificati_due_minorenni-425646834/",
+        "https://www.ilmessaggero.it/roma/monteverde/minicar_monteverde_presi_ragazzini_oggi-9824266.html"
       ]
     },
     {
       "rank": 8,
-      "title": "\"Gaza come la riviera romagnola\": bufera ad Ancona sulla consigliera FdI, il Pd lascia l'aula",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Sánchez risponde a Luciana Littizzetto: “Grazie. Devo rimanere a cucinare paella per altri 4 anni”",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
         "ilfattoquotidiano.it",
-        "lastampa.it"
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/politica/49360744/ancona_la_consigliera_paragona_gaza_alla_riviera_romagnola_il_pd_subito_insorge/",
-        "https://www.ansa.it/sito/videogallery/italia/2026/10/13/gaza-come-la-riviera-romagnola-bufera-ad-ancona-su-consigliera-fdi_af402f78-e34c-4889-b3b6-75c140e18082.html",
-        "https://www.ilfattoquotidiano.it/2026/10/13/gaza-riviera-romagnola-ancona-fdi-notizie/8537263/",
-        "https://www.lastampa.it/politica/2026/10/13/video/ancona_maria_grazia_de_angelis_fdi_gaza_riviera_romagnola_consiglio_comunale-15765205/"
+        "https://www.ilfattoquotidiano.it/2026/10/14/pedro-sanchez-risponde-a-luciana-littizzetto-io-in-italia-a-guidare-il-campo-largo-devo-rimanere-il-spagna-a-cucinare-paella-per-almeno-quattro-anni-sempre-tuo-pedro-pedro-pedro/8537898/",
+        "https://www.liberoquotidiano.it/news/esteri/49362124/pedro-sa-nchez-risponde-luciana-littizzetto-grazie-ma/",
+        "https://www.lastampa.it/esteri/2026/10/14/news/pedro_sanchez_risponde_a_luciana_littizzetto_devo_rimanere_a_cucinare_paella_per_altri_4_anni-15765496/",
+        "https://www.adnkronos.com/politica/sanchez-schlein-letterina-littizzetto_7KsvNEm6poAku2LLsw73Yd",
+        "https://www.repubblica.it/esteri/2026/10/13/news/pedro_sanchez_risponde_littizzetto_lettera_schlein-425646175/"
       ]
     },
     {
       "rank": 9,
-      "title": "Kimberly Guilfoyle si dimette ma respinge le accuse di corruzione: «Sono false». Chi è l'ambasciatrice Usa in Grecia (ex di Trump Jr)",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Ue, Meloni: su bilancio firmeremo solo accordo giusto per Italia",
+      "source_count": 2,
+      "article_count": 8,
       "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "laverita.info",
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/13/la-casa-bianca-chiede-allambasciatrice-in-grecia-di-dimettersi-lei-lascia-ma-respinge-le-accuse_67c9872f-0676-4585-91e1-2ed736bf9597.html",
-        "https://www.ilfattoquotidiano.it/2026/10/13/kimberly-guilfoyle-dimissioni-ambasciatrice-grecia-notizie/8537107/",
-        "https://www.ilmessaggero.it/persone/kimberly_guilfoyle_dimissioni_corruzione_chi_e_fidanzata_donald_trump_jr_ambasciata_grecia-9822465.html",
-        "https://www.lastampa.it/esteri/2026/10/13/news/ambasciatrice_usa_grecia_ex_fidanzata_figlio_trump-15765155/"
+        "https://www.laverita.info/governo/meloni-bilancio-ue",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49362630/meloni-italia-deve-essere-protagonista-in-europa-per-difendere-interesse-nazionale/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49362265/meloni-no-a-nuove-tasse-per-finanziare-bilancio-ue/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49362268/bilancio-ue-meloni-inaccettabile-che-versiamo-di-piu-e-prendiamo-di-meno/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49362262/bilancio-ue-meloni-italia-non-accettera-ridimensionamento-della-pac/"
       ]
     },
     {
       "rank": 10,
-      "title": "RJ Mitte, il messaggio di Bryan Cranston: «Mi mancherai, figliolo. Chiunque stia pensando al suicidio chieda aiuto: c'è speranza»",
+      "title": "Massiccio attacco su Kiev, colpite infrastrutture energetiche",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
-        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "ansa.it",
-        "ilmessaggero.it",
+        "repubblica.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/10/13/rj-mitte-morte-berrettini-omaggio-chiedere-aiuto-non-sara-mai-un-atto-di-cui-vergognarsi/8537192/",
-        "https://www.ansa.it/sito/notizie/cultura/cinema/2026/10/13/morto-rj-mitte-uno-dei-protagonisti-di-breaking-bad_76f15d6e-eca5-43f1-8aae-124717b93014.html",
-        "https://www.ilmessaggero.it/persone/rj_mitte_morte_causa_morte_breaking_bad_bryan_cranston-9822100.html",
-        "https://www.lastampa.it/spettacoli/2026/10/13/news/breaking_bad_in_lutto_addio_a_rj_mitte_interpreto_il_figlio_di_walter_white_aveva_34_anni-15764630/"
+        "https://www.liberoquotidiano.it/news/tv-news/49363009/massiccio-attacco-su-kiev-colpite-infrastrutture-energetiche/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/14/raid-russi-contro-lucraina-almeno-sei-morti-nella-notte_ed328f3a-e5d6-4c73-ac41-a1841206cd06.html",
+        "https://www.repubblica.it/esteri/2026/10/14/diretta/guerra_ucraina_russia_news_oggi-425646301/",
+        "https://www.lastampa.it/esteri/2026/10/14/diretta/guerra_russia_ucraina_news_oggi-15765445/",
+        "https://www.liberoquotidiano.it/news/pillole/49358303/notte_di_raid_russi_sulla_citta_di_kharkiv_in_ucraina_le_immagini/"
       ]
     }
   ]
