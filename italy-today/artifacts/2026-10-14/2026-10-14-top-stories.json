@@ -1,69 +1,134 @@
 {
   "date": "2026-10-14",
-  "generated_at": "Wed 14 Oct 21:40",
+  "generated_at": "Wed 14 Oct 23:53",
   "stories": [
     {
       "rank": 1,
-      "title": "Papa, notte tranquilla al Gemelli dopo rimozione di tumore al polmone",
-      "source_count": 4,
-      "article_count": 14,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/il-papa-si-e-alzato-ed-e-di-buon-umore-al-via-il-recupero_c5870a60-a48c-48be-8f6f-569525ab0fc1.html",
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/10/14/focus-il-papa-e-di-buon-umore-al-via-il-recupero_8a6bb8df-c91a-4120-840b-db1542094fac.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/il-papa-operato-di-tumore-decorso-post-operatorio-regolare.-ha-mangiato-e-ha-fatto-fisioterapia_aea02c45-a756-4a98-91f9-de643ebdbcfe.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/la-notte-per-il-papa-e-trascorsa-tranquillamente-_aea02c45-a756-4a98-91f9-de643ebdbcfe.html",
-        "https://www.ansa.it/canale_saluteebenessere/notizie/medicina/2026/10/14/lesperto-le-prossime-24-48-ore-le-piu-delicate-per-il-papa_4055da88-cfae-4c68-ac0d-1eeda135d664.html"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Meloni: L'intesa di Trump sul gasolio russo è rischiosa, legittima Mosca",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 8,
+      "article_count": 11,
       "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilmanifesto.it",
         "ilmessaggero.it",
+        "ansa.it",
+        "liberoquotidiano.it",
         "repubblica.it",
         "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.adnkronos.com/politica/meloni-consiglio-ue-discorso-camere_HMQyEn0xXZ7UBf66J7OSp",
+        "https://ilmanifesto.it/meloni-attacca-trump-e-va-alla-guerra-con-bruxelles-sullenergia",
+        "https://www.ilmessaggero.it/politica/meloni_distanza_trump_gas_russo-9825238.html",
         "https://www.ansa.it/sito/notizie/politica/2026/10/14/meloni-lintesa-di-trump-sul-gasolio-russo-e-rischiosa.-non-siamo-guerrafondai_a88938b7-13d2-405b-959f-54aa581fe58c.html",
-        "https://www.ilfattoquotidiano.it/2026/10/14/zelensky-meloni-accordo-trump-putin-gasolio-notizie/8538541/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49364754/meloni-l-intesa-di-trump-sul-gasolio-russo-e-rischiosa-legittima-mosca/",
-        "https://www.ilmessaggero.it/politica/meloni_contro_trump_putin_guerra_ucraina_cosa_ha_detto-9824462.html",
-        "https://www.repubblica.it/politica/2026/10/14/news/meloni_attacca_ue_trump_trump_gas-425646899/"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49364754/meloni-l-intesa-di-trump-sul-gasolio-russo-e-rischiosa-legittima-mosca/"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Papa, notte tranquilla al Gemelli dopo rimozione di tumore al polmone",
+      "source_count": 5,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/l-papa-si-e-alzato-ed-e-di-buon-umore-al-via-il-recupero.-trump-spero-che-il-pontefice_c5870a60-a48c-48be-8f6f-569525ab0fc1.html",
+        "https://www.repubblica.it/esteri/2026/10/15/news/trump_spero_che_papa_leone_si_rimetta_presto-425648847/",
+        "https://www.lastampa.it/cronaca/2026/10/15/news/papa_decorso_regolare_i_timori_per_i_linfonodi_e_l_incognita_delle_terapie-15766356/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/il-papa-si-e-alzato-ed-e-di-buon-umore-al-via-il-recupero_c5870a60-a48c-48be-8f6f-569525ab0fc1.html",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/10/14/focus-il-papa-e-di-buon-umore-al-via-il-recupero_8a6bb8df-c91a-4120-840b-db1542094fac.html"
       ]
     },
     {
       "rank": 3,
-      "title": "Confessano i due minorenni della banda della minicar: \"Quella notte ci siamo divertiti così\"",
-      "source_count": 4,
-      "article_count": 10,
+      "title": "Roma, che spreco: il Real Madrid segna tre gol in 7' e vince 4-3 all'Olimpico",
+      "source_count": 6,
+      "article_count": 11,
       "source_domains": [
+        "repubblica.it",
         "ansa.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
         "ilmessaggero.it",
-        "roma.repubblica.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/uno-dei-minorenni-della-banda-della-minicar-era-uno-scherzo_65555a49-3948-4536-8119-b7ad101d1c41.html",
-        "https://www.ilmessaggero.it/roma/monteverde/banda_minicar_confessione_erano_scherzi_cosa_ha_detto_minorenne_denunciato-9825162.html",
-        "https://www.ilmessaggero.it/roma/monteverde/minorenni_minicar_cosa_rischiano_carcere_domiciliari-9824512.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/denunciati-due-componenti-della-banda-della-minicar.-i-due-minorenni-hanno_65555a49-3948-4536-8119-b7ad101d1c41.html",
-        "https://roma.repubblica.it/cronaca/2026/10/14/news/minicar_confessione_minorenni_lo_abbiamo_fatto_per_divertimento-425647192/"
+        "https://www.repubblica.it/sport/calcio/champions/2026/10/14/news/roma_real_madrid_gol-425648819/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/14/sconfitta-amara-per-la-roma-avanti-3-1-il-real-madrid-la-ribalta-in-otto-minuti_d32e57f1-7e06-4727-a272-394e02130a10.html",
+        "https://www.liberoquotidiano.it/news/sport/49372074/champions_roma_beffa_real_mou_la_ribalta_8_minuti_clamoroso_4-3/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/14/champions-roma-sconfitta-amara-avanti-3-1-il-real-la-ribalta-in-8-minuti_d32e57f1-7e06-4727-a272-394e02130a10.html",
+        "https://www.adnkronos.com/sport/roma-real-champions-rudiger_7rMF7Ambj0v94j9TBZUhk1"
       ]
     },
     {
       "rank": 4,
+      "title": "Confessano i due minorenni della banda della minicar: \"Quella notte ci siamo divertiti così\"",
+      "source_count": 4,
+      "article_count": 11,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "roma.repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/roma/monteverde/banda_minicar_sospetti_madre_coperto_figlio-9825301.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/uno-dei-minorenni-della-banda-della-minicar-era-uno-scherzo_65555a49-3948-4536-8119-b7ad101d1c41.html",
+        "https://www.ilmessaggero.it/roma/monteverde/banda_minicar_confessione_erano_scherzi_cosa_ha_detto_minorenne_denunciato-9825162.html",
+        "https://www.ilmessaggero.it/roma/monteverde/minorenni_minicar_cosa_rischiano_carcere_domiciliari-9824512.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/14/denunciati-due-componenti-della-banda-della-minicar.-i-due-minorenni-hanno_65555a49-3948-4536-8119-b7ad101d1c41.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Diao illude il Como, il Feyenoord rimonta e vince 3-2. Primo ko in Champions per Fabregas",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/champions-league-feyenoord-como_4ubznan1sM5Kv5gjy6fIQt",
+        "https://www.liberoquotidiano.it/news/sport/49370884/champions-como-brusco-risveglio-prende-3-gol-casa-feyenoord-resa-fabregas/",
+        "https://www.repubblica.it/sport/calcio/champions/2026/10/14/news/feyenoord_como_gol-425648463/",
+        "https://www.ilmessaggero.it/sport/schede/feyenoord_como_pagelle_champions_league_diao_douvikas-9825188.html",
+        "https://www.adnkronos.com/sport/feyenoord-como-diao-fabregas_3Gv3vpXfCuqF8OecEQf6Mw"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "“Starlink depotenziato”: i raid russi uccidono e lasciano in 600mila al buio. Musk incolpa Trump",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/ucraina-starlink-satelliti-musk-trump_3eM7WrP5rFAWFVj2fnPoCk",
+        "https://www.lastampa.it/esteri/2026/10/15/diretta/guerra_russia_ucraina_news_oggi-15766519/",
+        "https://www.repubblica.it/esteri/2026/10/14/news/kiev_denuncia_limitazioni_uso_versione_militare_starlink_raid_russi_blackout_ucraina-425647218/",
+        "https://www.liberoquotidiano.it/news/tv-news/49363009/massiccio-attacco-su-kiev-colpite-infrastrutture-energetiche/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/14/raid-russi-contro-lucraina-almeno-sei-morti-nella-notte_ed328f3a-e5d6-4c73-ac41-a1841206cd06.html"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "Ue, Meloni: su bilancio firmeremo solo accordo giusto per Italia",
       "source_count": 2,
       "article_count": 10,
@@ -80,46 +145,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "La Roma crolla sul più bello, il Real Madrid rimonta e vince 4-3 all’Olimpico",
-      "source_count": 4,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/14/champions-roma-sconfitta-amara-avanti-3-1-il-real-la-ribalta-in-8-minuti_d32e57f1-7e06-4727-a272-394e02130a10.html",
-        "https://www.adnkronos.com/sport/roma-real-champions-rudiger_7rMF7Ambj0v94j9TBZUhk1",
-        "https://www.ilmessaggero.it/sport/schede/roma_real_madrid_pagelle_malen_de_roon_mbappe_espi_endrick_rudiger_champions_league-9825295.html",
-        "https://www.adnkronos.com/sport/calcio-champions-league-roma-real-madrid-malen_2llZ9OjCujX27Yxf9ke4IB",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/14/champions-roma-real-madrid-2-1-diretta-e-foto-doppietta-di-male_d32e57f1-7e06-4727-a272-394e02130a10.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Diao illude il Como, il Feyenoord rimonta e vince 3-2. Primo ko in Champions per Fabregas",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/sport/champions-league-feyenoord-como_4ubznan1sM5Kv5gjy6fIQt",
-        "https://www.repubblica.it/sport/calcio/champions/2026/10/14/news/feyenoord_como_gol-425648463/",
-        "https://www.ilmessaggero.it/sport/schede/feyenoord_como_pagelle_champions_league_diao_douvikas-9825188.html",
-        "https://www.adnkronos.com/sport/feyenoord-como-diao-fabregas_3Gv3vpXfCuqF8OecEQf6Mw",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/14/champions-league-in-campo-feyenoord-como-0-0-diretta_b2b9f5be-92e3-49b8-bdd5-8ac6f57a02f1.html"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 8,
       "title": "Meloni a M5S: Con le nuove regole elettorali Conte non sarebbe arrivato a Palazzo Chigi",
       "source_count": 2,
       "article_count": 9,
@@ -136,7 +162,26 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "Garavaglia, chi è l’ex ministro bocconiano che sfida Salvini al congresso",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ilmanifesto.it",
+        "repubblica.it",
+        "ansa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/salvini-ha-il-suo-sparring-partner-garavaglia-lo-sfida-al-congresso",
+        "https://www.repubblica.it/politica/2026/10/14/news/garavaglia_candidato_congresso_lega-425648058/",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/14/garavaglia-mi-candido-al-congresso-la-lega-non-e-di-estrema-destra_afe2fa8e-58c0-416b-a5d4-c229d489fc75.html",
+        "https://www.ilsole24ore.com/art/garavaglia-mi-candido-congresso-lega-non-e-estrema-destra-AJNRYljB",
+        "https://www.ilsole24ore.com/art/garavaglia-chi-e-l-ex-ministro-bocconiano-che-sfida-salvini-congresso-AJjJCwjB"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Najmeh Amini, 23 anni, condannata a morte in Iran per un post sui social giudicato “blasfemo”",
       "source_count": 4,
       "article_count": 5,
@@ -152,42 +197,6 @@
         "https://www.ansa.it/sito/notizie/mondo/2026/10/14/teheran-condanna-a-morte-una-ragazza-per-un-post-sui-social-la-denuncia_5eba6e69-397e-41b7-8742-58d76f9871a3.html",
         "https://www.repubblica.it/esteri/2026/10/14/news/najmeh_amini_condannata_morte_iran_post_social-425647446/",
         "https://www.lastampa.it/esteri/2026/10/14/news/iran_23enne_condannata_morte_post_social_blasfemo-15765967/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Massiccio attacco su Kiev, colpite infrastrutture energetiche",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/49363009/massiccio-attacco-su-kiev-colpite-infrastrutture-energetiche/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/14/raid-russi-contro-lucraina-almeno-sei-morti-nella-notte_ed328f3a-e5d6-4c73-ac41-a1841206cd06.html",
-        "https://www.ilmessaggero.it/mondo/ucraina_tradita_starlink_attacco_russo_missili_centrali_elettriche_cosa_e_successo-9824186.html",
-        "https://www.repubblica.it/esteri/2026/10/14/diretta/guerra_ucraina_russia_news_oggi-425646301/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Sánchez risponde a Luciana Littizzetto: “Grazie. Devo rimanere a cucinare paella per altri 4 anni”",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/10/14/pedro-sanchez-risponde-a-luciana-littizzetto-io-in-italia-a-guidare-il-campo-largo-devo-rimanere-il-spagna-a-cucinare-paella-per-almeno-quattro-anni-sempre-tuo-pedro-pedro-pedro/8537898/",
-        "https://www.liberoquotidiano.it/news/esteri/49362124/pedro-sa-nchez-risponde-luciana-littizzetto-grazie-ma/",
-        "https://www.lastampa.it/esteri/2026/10/14/news/pedro_sanchez_risponde_a_luciana_littizzetto_devo_rimanere_a_cucinare_paella_per_altri_4_anni-15765496/",
-        "https://www.adnkronos.com/politica/sanchez-schlein-letterina-littizzetto_7KsvNEm6poAku2LLsw73Yd"
       ]
     }
   ]
