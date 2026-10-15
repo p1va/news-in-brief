@@ -1,13 +1,14 @@
 {
   "date": "2026-10-15",
-  "generated_at": "Thu 15 Oct 21:22",
+  "generated_at": "Thu 15 Oct 23:42",
   "stories": [
     {
       "rank": 1,
       "title": "Manovra da 23,5 miliardi: 5 dalle banche per le misure su famiglia e welfare",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
+        "adnkronos.com",
         "ansa.it",
         "laverita.info",
         "ilfattoquotidiano.it",
@@ -17,15 +18,36 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.adnkronos.com/economia/manovra-2027-risorse-coperture-famiglia_4blrwvp8ec3jglnYBXK5uE",
         "https://www.ansa.it/sito/notizie/economia/2026/10/15/manovra-5-miliardi-da-banche-e-assicurazioni.-istituti-sorpresi_c3055dc9-ff3a-429b-ace4-53b8b73047e2.html",
         "https://www.ansa.it/sito/notizie/economia/2026/10/15/manovra-da-235-miliardi-nel-2027-dalle-banche-5-miliardi_c3055dc9-ff3a-429b-ace4-53b8b73047e2.html",
         "https://www.laverita.info/governo/manovra-banche-assicurazioni-10-miliardi-tre-anni",
-        "https://www.ansa.it/sito/notizie/economia/2026/10/15/manovra-da-235-miliardi-nel-2027-coperture-anche-da-tagli-ministeri-e-giochi_c3055dc9-ff3a-429b-ace4-53b8b73047e2.html",
-        "https://www.ilfattoquotidiano.it/2026/10/15/manovra-2027-banche-assicurazioni-difesa-notizie/8539142/"
+        "https://www.ansa.it/sito/notizie/economia/2026/10/15/manovra-da-235-miliardi-nel-2027-coperture-anche-da-tagli-ministeri-e-giochi_c3055dc9-ff3a-429b-ace4-53b8b73047e2.html"
       ]
     },
     {
       "rank": 2,
+      "title": "Papa Leone continua la ripresa dopo l'intervento, se starà meglio farà l'Angelus dal Gemelli",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "lastampa.it",
+        "ansa.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.lastampa.it/esteri/2026/10/16/news/leone_lavora_dal_gemelli_la_cautela_di_parolin_vediamo_come_torna-15767475/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/papa-leone-continua-la-ripresa-parolin-se-stara-meglio-fara-langelus-dal_0e7218fb-acb0-4f59-93d3-8b2dd3ba6004.html",
+        "https://www.adnkronos.com/cronaca/papa-leone-come-sta-aggiornamenti-oggi_5oYOE0VIlQQJfFVjwoPWpb",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/papa-leone-continua-la-ripresa-dopo-lintervento-se-stara-meglio-fara-langelus_0e7218fb-acb0-4f59-93d3-8b2dd3ba6004.html",
+        "https://www.repubblica.it/cronaca/2026/10/15/news/papa_leone_buon_recupero_del_polmone_il_pontefice_ha_ripreso_l_attivita_lavorativa-425650021/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Milano studentessa Erasmus tedesca di 21 anni violentata da 2 uomini: “Mi hanno aggredita in strada”",
       "source_count": 8,
       "article_count": 8,
@@ -48,7 +70,29 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Mattarella richiama il Parlamento: “Troppe giornate nazionali, impossibile celebrarle tutte”",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "ilmanifesto.it",
+        "repubblica.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/mattarella-basta-troppe-giornate-nazionali",
+        "https://www.repubblica.it/cronaca/2026/10/15/news/giornate_nazionali_italia_mattarella_sono_troppe-425650501/",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/15/mattarella-promulga-la-giornata-carta-ma-avverte-aumentano-vertiginosamente_bee606e2-7f6b-4081-87f4-9e9bfb7d4346.html",
+        "https://www.ilmessaggero.it/politica/mattarella_giornata_carta_riciclata_avvertimento_troppe_stanno_aumentando-9826979.html",
+        "https://www.repubblica.it/politica/2026/10/15/news/mattarella_richiama_camere_giornate_nazionali-425649952/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Marito e moglie trovati morti in casa a Mirandola, i corpi decapitati: sentito il figlio",
       "source_count": 7,
       "article_count": 7,
@@ -70,69 +114,46 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Mattarella richiama il Parlamento: “Troppe giornate nazionali, impossibile celebrarle tutte”",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/cronaca/2026/10/15/news/giornate_nazionali_italia_mattarella_sono_troppe-425650501/",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/15/mattarella-promulga-la-giornata-carta-ma-avverte-aumentano-vertiginosamente_bee606e2-7f6b-4081-87f4-9e9bfb7d4346.html",
-        "https://www.ilmessaggero.it/politica/mattarella_giornata_carta_riciclata_avvertimento_troppe_stanno_aumentando-9826979.html",
-        "https://www.repubblica.it/politica/2026/10/15/news/mattarella_richiama_camere_giornate_nazionali-425649952/",
-        "https://www.lastampa.it/politica/2026/10/15/news/mattarella_richiama_camere_troppe_giornate_nazionali-15766988/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Papa Leone continua la ripresa, Parolin: \"Se starà meglio farà l'Angelus dal Gemelli\". E \"se necessario rimodulerà il pontificato\"",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/papa-leone-continua-la-ripresa-parolin-se-stara-meglio-fara-langelus-dal_0e7218fb-acb0-4f59-93d3-8b2dd3ba6004.html",
-        "https://www.ilfattoquotidiano.it/2026/10/15/papa-leone-angelus-gemelli-parolin-notizie/8539873/",
-        "https://www.adnkronos.com/cronaca/papa-leone-come-sta-aggiornamenti-oggi_5oYOE0VIlQQJfFVjwoPWpb",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/papa-leone-continua-la-ripresa-dopo-lintervento-se-stara-meglio-fara-langelus_0e7218fb-acb0-4f59-93d3-8b2dd3ba6004.html",
-        "https://www.repubblica.it/cronaca/2026/10/15/news/papa_leone_buon_recupero_del_polmone_il_pontefice_ha_ripreso_l_attivita_lavorativa-425650021/"
-      ]
-    },
-    {
       "rank": 6,
       "title": "Istat: 5,4 milioni di persone in povertà assoluta nel 2025, sono il 9,3%",
       "source_count": 5,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
+        "lastampa.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
-        "lastampa.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/10/16/news/cresce_l_occupazione_ma_la_poverta_non_diminuisce-15767542/",
         "https://www.ansa.it/sito/notizie/economia/2026/10/15/istat-54-milioni-di-persone-in-poverta-assoluta-nel-2025-sono-il-93_54ce2576-31c1-4c1f-9727-bb2e919d3f62.html",
         "https://www.ilfattoquotidiano.it/2026/10/15/poverta-assoluta-2025-dati-affitto-precarieta/8539193/",
         "https://www.ilfattoquotidiano.it/2026/10/15/poverta-assoluta-istat-2025-notizie/8539130/",
-        "https://www.repubblica.it/cronaca/2026/10/15/news/cinque_milioni_di_italiani_in_poverta_assoluta_a_rischio_minori_e_famiglie_numerose-425649357/",
-        "https://www.lastampa.it/cronaca/2026/10/15/news/istat_54_milioni_di_persone_in_poverta_assoluta_nel_2025-15766756/"
+        "https://www.repubblica.it/cronaca/2026/10/15/news/cinque_milioni_di_italiani_in_poverta_assoluta_a_rischio_minori_e_famiglie_numerose-425649357/"
       ]
     },
     {
       "rank": 7,
+      "title": "Incappucciati in una scuola elementare a Torino, bambini e insegnanti in fuga. Arrestato un 17enne",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "lastampa.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "torino.repubblica.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/torino/2026/10/16/news/scuola_occupate_oggi_l_allerta_per_i_cortei_nelle_citta-15767591/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/danneggiamenti-in-scuole-a-torino-arrestato-un-17enne_807b8d6b-1218-4b65-8c39-a5fb13a98783.html",
+        "https://www.ilfattoquotidiano.it/2026/10/15/raid-scuole-torino-giovani-mascherati-notizie/8539801/",
+        "https://www.lastampa.it/torino/2026/10/15/video/torino_cosi_sono_entrati_nellistituto_sella_per_assaltare_la_scuola_primaria_ricardi-15767234/",
+        "https://torino.repubblica.it/cronaca/2026/10/15/news/torino_al_colombatto_occupazione_studenti-425649437/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Crolla il tetto di una scuola in Pakistan, muoiono 33 bimbi e un'insegnante",
       "source_count": 4,
       "article_count": 6,
@@ -151,61 +172,42 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Bufera sulla nuova portavoce di Trump Katie Zacharia: è davvero un’avvocata? Mistero sul curriculum",
-      "source_count": 5,
-      "article_count": 5,
+      "rank": 9,
+      "title": "Ucraina, Zelensky sfida Trump e riprende i raid sulle raffinerie russe",
+      "source_count": 4,
+      "article_count": 6,
       "source_domains": [
         "ansa.it",
-        "liberoquotidiano.it",
         "lastampa.it",
         "repubblica.it",
-        "news.google.com"
+        "laverita.info"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/15/bufera-sulla-portavoce-della-casa-bianca-zacharia-gia-traballa_c973cd2b-6205-45ee-a2a5-1079a276ce6d.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49378132/chiama-il-marito-presidente-il-lapsus-di-katie-zacharia-nuova-portavoce-di-trump/",
-        "https://www.lastampa.it/esteri/2026/10/15/news/katie_zacharia_nuova_portavoce_avvocato-15767256/",
-        "https://www.repubblica.it/esteri/2026/10/15/news/usa_nuova_portavoce_casa_bianca_gia_traballa_bugie_passato_da_avvocata-425649971/",
-        "https://news.google.com/rss/articles/CBMifEFVX3lxTE9wRV82OVoyWHdDQ0RoSEFUNUFIMWJxOEVYR0J4WUpKOU16aTBEaVNGTHItS25zMVpnY0hJMmZCVXRVSFNaQjJ6VFhucDZOVHg4UUw2NVg5UWhvN1E2RFVrRGpWcVNVQmp6R3h2ZG82NDZfdXUyVWkzMTJjM24?oc=5"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Incappucciati in una scuola elementare a Torino, bambini e insegnanti in fuga. Arrestato un 17enne",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "torino.repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/15/danneggiamenti-in-scuole-a-torino-arrestato-un-17enne_807b8d6b-1218-4b65-8c39-a5fb13a98783.html",
-        "https://www.ilfattoquotidiano.it/2026/10/15/raid-scuole-torino-giovani-mascherati-notizie/8539801/",
-        "https://www.lastampa.it/torino/2026/10/15/video/torino_cosi_sono_entrati_nellistituto_sella_per_assaltare_la_scuola_primaria_ricardi-15767234/",
-        "https://torino.repubblica.it/cronaca/2026/10/15/news/torino_al_colombatto_occupazione_studenti-425649437/",
-        "https://www.lastampa.it/torino/2026/10/15/news/scuola_occupazioni_scontri_tafferugli_colombatto_monti_sella_osa_azione_studentesca-15766832/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/15/ucraina-zelensky-sfida-trump-e-riprende-i-raid-sulle-raffinerie-russe_3ee5e831-cd15-4c22-8758-3c9cf5769225.html",
+        "https://www.lastampa.it/esteri/2026/10/16/diretta/guerra_russia_ucraina_news_oggi-15767644/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/15/la-casa-bianca-replica-a-meloni-quello-sul-diesel-un-grande-accordo_5f185341-b55e-4f2e-b239-2253522c6d17.html",
+        "https://www.repubblica.it/esteri/2026/10/15/news/zelensky_sfida_trump_riprendiamo_attacchi_raffinerie_russe_ryazan-425649904/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/15/zelensky-al-ft-riprenderemo-gli-attacchi-alle-raffinerie-russe_5f185341-b55e-4f2e-b239-2253522c6d17.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Europa League: la Juve sorride a Vigo, Kolo Muani rimonta al 92'",
-      "source_count": 4,
+      "title": "Banda della minicar a Roma, il fascicolo trasmesso in giornata alla procura dei Minori: cosa sappiamo",
+      "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
         "lastampa.it",
-        "adnkronos.com"
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "roma.repubblica.it",
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/15/europa-league-celta-vigo-juventus-1-2_a8c2f086-dd79-4c79-9e3c-c88fc635d9a9.html",
-        "https://www.ilmessaggero.it/sport/schede/celta_vigo_juventus_pagelle_kolo_muani_woltemade_europaleague-9827555.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/14/europa-league-celta-vigo-juventus-in-campo-alle-21-diretta_a8c2f086-dd79-4c79-9e3c-c88fc635d9a9.html",
-        "https://www.lastampa.it/sport/2026/10/15/news/la_juve_sorride_a_vigo_kolo_muani_firma_la_rimonta_al_92__2-1_dei_bianconeri_contro_il_celta-15767635/",
-        "https://www.adnkronos.com/sport/diretta-celta-vigo-juve-oggi-europa-league-live-risultato-classifica_6fxHpnS97nBAMzV1HGyDNS"
+        "https://www.lastampa.it/cronaca/2026/10/16/news/i_nove_giorni_di_silenzio_dei_ragazzi_della_minicar_il_fratello_ora_paghino-15767545/",
+        "https://www.ilmessaggero.it/roma/monteverde/banda_minicar_malore_scuola_ragazzo_minorenne_cosa_e_successo-9827484.html",
+        "https://www.adnkronos.com/cronaca/banda-minicar-roma-aggressione-iacopini-fascicolo-procura-minori_3STfA3qtzAXi5MBiAYTxzq",
+        "https://roma.repubblica.it/cronaca/2026/10/15/news/raid_minicar_nera_video_aggressioni-425649074/",
+        "https://www.liberoquotidiano.it/news/libero-video/49372932/minicar-spunta-video-banda-dopo-aggressione-iacopini/"
       ]
     }
   ]
