@@ -1,17 +1,17 @@
 {
   "date": "2026-10-16",
-  "generated_at": "Fri 16 Oct 19:56",
+  "generated_at": "Fri 16 Oct 20:59",
   "stories": [
     {
       "rank": 1,
-      "title": "Bollette, palazzo Chigi: intesa con l'Ue. «Impatto dei costi energetici sarà attenuato»",
+      "title": "Dl Bollette, governo: \"Raggiunta intesa con Ue, attenuerà impatto costi energia\"",
       "source_count": 8,
-      "article_count": 10,
+      "article_count": 11,
       "source_domains": [
         "ansa.it",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
-        "liberoquotidiano.it",
         "adnkronos.com",
         "ilmessaggero.it",
         "governo.it",
@@ -19,36 +19,57 @@
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/politica/2026/10/16/intesa-ue-meloni-sul-dl-bollette.-von-der-leyen-ma-non-faremo-miracoli_5f11bc19-b502-42ac-8252-714b161eb42f.html",
+        "https://www.liberoquotidiano.it/news/pillole/49386744/energia_meloni_chiusa_la_trattativa_con_la_ue_contenta_del_risultato_/",
         "https://www.ilfattoquotidiano.it/2026/10/16/decreto-bollette-tetto-gas-commissione-europea-notizie/8541093/",
         "https://www.repubblica.it/economia/2026/10/16/news/dl_bollette_intesa_europa_tetto_gas_ets-425653281/",
-        "https://www.liberoquotidiano.it/news/tv-news/49386538/meloni-a-bruxelles-importante-intesa-con-l-ue-sul-decreto-bollette-/",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/16/palazzo-chigi-intesa-con-lue-sul-dl-bollette-limpatto-dei-costi_5f11bc19-b502-42ac-8252-714b161eb42f.html"
+        "https://www.liberoquotidiano.it/news/tv-news/49386538/meloni-a-bruxelles-importante-intesa-con-l-ue-sul-decreto-bollette-/"
       ]
     },
     {
       "rank": 2,
+      "title": "Le piazze calde degli studenti, oggi cortei in tutta Italia: a Roma bombe carta contro il ministero",
+      "source_count": 6,
+      "article_count": 11,
+      "source_domains": [
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "laverita.info",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/cronaca/2026/10/16/news/cortei_manifestazioni_roma_bologna_torino-425653750/",
+        "https://www.ilfattoquotidiano.it/2026/10/16/no-meloni-day-scontri-torino-notizie/8541248/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/gli-studenti-si-prendono-le-piazze-meloni-violenze-da-condannare_ff9071cf-026e-438f-8153-f7d47a260b42.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/gli-studenti-in-piazza-cortei-in-tutta-italia.-a-torino-lancio-di-sassi-contro_1e152b63-e67e-4efd-9ec7-0ca3507f55e3.html",
+        "https://www.laverita.info/governo/no-meloni-day-scontri-torino-roma-bologna"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Papa telefona a Putin: \"Tregua per la città di Oleshky, consentire aiuti umanitari\"",
       "source_count": 7,
       "article_count": 9,
       "source_domains": [
         "ansa.it",
-        "liberoquotidiano.it",
         "adnkronos.com",
         "ilmessaggero.it",
         "repubblica.it",
         "lastampa.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/mondo/2026/10/16/il-papa-sente-putin-e-chiede-tregua-per-oleshky-lo-zar-apre_3eac7241-14db-47b1-9a85-d63d22ba5cbd.html",
-        "https://www.liberoquotidiano.it/news/personaggi/49386275/leone-xiv-telefonata-putin-chiesta-tregua/",
         "https://www.ansa.it/sito/notizie/mondo/2026/10/16/la-telefonata-tra-il-papa-e-putin-una-tregua-per-la-citta-di-oleshky_3eac7241-14db-47b1-9a85-d63d22ba5cbd.html",
         "https://www.adnkronos.com/internazionale/esteri/papa-leone-putin-telefonata-guerra-ucraina_5kDdxeNTQOIaP9XZmsw5KN",
-        "https://www.ilmessaggero.it/vaticano/telefonata_papa_leone_putin_cosa_si_sono_detti_guerra_ucraina_tregua-9829471.html"
+        "https://www.ilmessaggero.it/vaticano/telefonata_papa_leone_putin_cosa_si_sono_detti_guerra_ucraina_tregua-9829471.html",
+        "https://www.repubblica.it/cronaca/2026/10/16/news/leone_sente_al_telefono_putin_dal_gemelli_e_chiede_una_tregua_per_la_citta_ucraina_di_oleshky-425653141/"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Tesla, la nuova macchina \"volante\": ecco come funziona e quanto costa la Roadster",
       "source_count": 6,
       "article_count": 9,
@@ -69,7 +90,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Tir e trattori, dilaga la protesta. Al Sud è sciopero contro il caro gasolio: “Blocchiamo tutto”",
       "source_count": 6,
       "article_count": 8,
@@ -90,47 +111,7 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Le piazze calde degli studenti, oggi cortei in tutta Italia: a Roma bombe carta contro il ministero",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "laverita.info",
-        "lastampa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/gli-studenti-si-prendono-le-piazze-meloni-violenze-da-condannare_ff9071cf-026e-438f-8153-f7d47a260b42.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/gli-studenti-in-piazza-cortei-in-tutta-italia.-a-torino-lancio-di-sassi-contro_1e152b63-e67e-4efd-9ec7-0ca3507f55e3.html",
-        "https://www.laverita.info/governo/no-meloni-day-scontri-torino-roma-bologna",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/gli-studenti-in-piazza-per-il-no-meloni-day-cortei-in-tutta-italia.-a-roma_1e152b63-e67e-4efd-9ec7-0ca3507f55e3.html",
-        "https://www.lastampa.it/roma/2026/10/16/video/no_meloni_day_roma_barricate_scontri_polizia-15768309/"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Zelensky: Grazie all'Ue per supporto fondamentale. dobbiamo prepararci all'inverno",
-      "source_count": 5,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/16/trump-strappa-con-kiev.-zelensky-se-cadiamo-ci-saranno-20-milioni-di-profughi-in-europa_d4393fc8-a9ba-4a13-9f44-f35b42d0d072.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/16/trump-strappa-con-kiev.-zelensky-allue-la-guerra-nel-2027-costera_d4393fc8-a9ba-4a13-9f44-f35b42d0d072.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49383285/zelensky-grazie-all-ue-per-supporto-fondamentale-dobbiamo-prepararci-all-inverno/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/16/zelensky-ringrazio-lue-e-i-leader-europei-per-il-sostegno-veri-leader_d4393fc8-a9ba-4a13-9f44-f35b42d0d072.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49381124/ue-costa-a-zelensky-nostro-supporto-a-kiev-piu-forte-che-mai-/"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Shock a Cecina: coppia al pronto soccorso con neonato morto. Era in un sacchetto",
       "source_count": 6,
       "article_count": 6,
@@ -148,6 +129,25 @@
         "https://www.ilmessaggero.it/italia/cecina_neonato_morto_sacchetto-9828999.html",
         "https://www.ilfattoquotidiano.it/2026/10/16/neonato-morto-cecina-madre-sacchetto/8540523/",
         "https://firenze.repubblica.it/cronaca/2026/10/16/news/cecina_pronto_soccorso_neonato_morto_sacchetto-425651922/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Zelensky all’Ue: “Se cadiamo ci saranno 20 milioni di profughi ucraini, dateci i Patriot per resistere”",
+      "source_count": 4,
+      "article_count": 8,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/esteri/2026/10/16/news/zelensky_all_ue_se_cadiamo_ci_saranno_20_milioni_di_profughi_ucraini_dateci_i_patriot_per_resistere-425653702/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/16/trump-strappa-con-kiev.-zelensky-se-cadiamo-ci-saranno-20-milioni-di-profughi-in-europa_d4393fc8-a9ba-4a13-9f44-f35b42d0d072.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/16/trump-strappa-con-kiev.-zelensky-allue-la-guerra-nel-2027-costera_d4393fc8-a9ba-4a13-9f44-f35b42d0d072.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49383285/zelensky-grazie-all-ue-per-supporto-fondamentale-dobbiamo-prepararci-all-inverno/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/16/zelensky-ringrazio-lue-e-i-leader-europei-per-il-sostegno-veri-leader_d4393fc8-a9ba-4a13-9f44-f35b42d0d072.html"
       ]
     },
     {
@@ -171,26 +171,6 @@
     },
     {
       "rank": 9,
-      "title": "Usa, strage in una scuola elementare in Oregon: uccisi tre bambini, killer di 16 anni",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilmanifesto.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://ilmanifesto.it/strage-di-bambini-in-oregon-nessuno-e-al-sicuro-con-le-armi-libere",
-        "https://www.liberoquotidiano.it/news/libero-video/49380095/usa-strage-in-una-scuola-elementare-in-oregon-uccisi-tre-bambini-killer-di-16-anni/",
-        "https://www.liberoquotidiano.it/news/tv-news/49380365/usa-sparatoria-in-scuola-elementare-nell-oregon-morti-3-bambini/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/16/tragedia-in-una-scuola-elementare-usa-sedicenne-spara-e-uccide-3-bambini_25095d10-78ef-4c49-a9ac-f7e1dbc67a4e.html",
-        "https://www.lastampa.it/esteri/2026/10/16/news/oregon_sparatoria_scuola_elementare-15767659/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Manovra, ai magistrati fino a 100mila euro a testa tra arretrati e aumenti di stipendi",
       "source_count": 5,
       "article_count": 5,
@@ -207,6 +187,26 @@
         "https://www.ansa.it/sito/notizie/economia/2026/10/16/sole24ore-ai-magistrati-in-manovra-quasi-100mila-euro-a-testa_b6cd7128-3e6f-4c14-951d-d05be93b6389.html",
         "https://www.repubblica.it/economia/2026/10/16/news/manovra_magistrati_100mila_euro_arretrati_aumenti_stipendi-425652541/",
         "https://www.ilsole24ore.com/art/manovra-2027-magistrati-pescano-jolly-arrivo-fino-100mila-euro-testa-AJT2fFlB"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Btp Valore 19 ottobre, svelati i rendimenti: supercedola finale del 22,25%. Ecco quanto si può guadagnare",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/10/16/btp-valore-offerta-al-via-da-lunedi-meglio-tradizionale-o-con-maxi-cedola-ecco-quanto-possono-rendere/8541000/",
+        "https://www.ansa.it/sito/notizie/economia/2026/10/16/mef-per-il-btp-valore-insieme-cedola-minima-unica-al-2225_db99856a-c9db-4378-9c28-ebaf44245e1d.html",
+        "https://www.repubblica.it/economia/2026/10/16/news/btp_valore_insieme_rendimento_pagamenti_scadenze-425652005/",
+        "https://www.ilmessaggero.it/economia/news/btp_valore_19_ottobre_rendimenti_quali_sono_quanto_guadagno-9828876.html",
+        "https://www.lastampa.it/economia/2026/10/16/news/btp_valore_btp_valore_insieme_tassi_garantiti-15768303/"
       ]
     }
   ]
