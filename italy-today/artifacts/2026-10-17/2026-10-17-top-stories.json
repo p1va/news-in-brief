@@ -1,13 +1,14 @@
 {
   "date": "2026-10-17",
-  "generated_at": "Sat 17 Oct 20:34",
+  "generated_at": "Sat 17 Oct 23:03",
   "stories": [
     {
       "rank": 1,
       "title": "Papa Leone sarà dimesso oggi dal Gemelli, domani l'Angelus dall'appartamento pontificio",
-      "source_count": 9,
-      "article_count": 16,
+      "source_count": 10,
+      "article_count": 17,
       "source_domains": [
+        "ilmessaggero.it",
         "ansa.it",
         "liberoquotidiano.it",
         "laverita.info",
@@ -19,40 +20,61 @@
         "agi.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/vaticano/papa_leone_gemelli_vaticano_angelus_malati-9831747.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/papa-leone-lascia-il-gemelli-e-rassicura-sto-molto-meglio_15686946-c59e-4b78-b5d4-b9a1e78e9ee7.html",
         "https://www.liberoquotidiano.it/news/libero-video/49394184/roma-papa-leone-lascia-policlinico-gemelli/",
         "https://www.laverita.info/video/cronaca-video/papa-leone-dimesso-gemelli",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/il-papa-rientra-in-vaticano-dallospedale-gemelli-recitera-langelus-domani-dal-palazzo_15686946-c59e-4b78-b5d4-b9a1e78e9ee7.html",
-        "https://www.laverita.info/chiesa-e-fede/papa-leone-xiv-dimesso-gemelli-angelus-vaticano"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/il-papa-rientra-in-vaticano-dallospedale-gemelli-recitera-langelus-domani-dal-palazzo_15686946-c59e-4b78-b5d4-b9a1e78e9ee7.html"
       ]
     },
     {
       "rank": 2,
       "title": "Milano, guerriglia in piazza Duomo: bombe carta e tavolini contro la polizia, che risponde con idranti e cariche",
-      "source_count": 10,
+      "source_count": 9,
       "article_count": 14,
       "source_domains": [
-        "ansa.it",
-        "laverita.info",
-        "liberoquotidiano.it",
         "ilmessaggero.it",
-        "torino.repubblica.it",
+        "lastampa.it",
+        "ansa.it",
+        "liberoquotidiano.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
-        "lastampa.it",
+        "milano.repubblica.it",
         "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
+        "https://www.ilmessaggero.it/italia/milano_guerriglia_scontri_cosa_e_successo-9831786.html",
+        "https://www.lastampa.it/cronaca/2026/10/18/news/milano_torino_bologna_la_protesta_sul_carovita_si_trasforma_in_guerriglia-15769707/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/la-protesta-per-il-carovita-diventa-guerriglia-milano-un-campo-di-battaglia_a783ef65-c2c2-4fb9-8d99-7c64d791f43c.html",
-        "https://www.laverita.info/video/cronaca-video/milano-scontri-cortei-carovita",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/a-milano-lancio-di-sassi-e-cariche-della-polizia-feriti-e-fermati.-scontri-a-torino_a783ef65-c2c2-4fb9-8d99-7c64d791f43c.html",
-        "https://www.liberoquotidiano.it/news/libero-video/49394306/milano-guerriglia-piazza-duomo-bombe-carta-tavolini-contro-polizia-risponde-con-idranti-cariche/",
-        "https://www.ilmessaggero.it/italia/scontri_milano_oggi_feriti_piazza_duomo_arresti_polizia-9831511.html"
+        "https://www.liberoquotidiano.it/news/pillole/49396109/scontri_al_corteo_a_milano_fiamme_su_strada_e_saccheggiato_un_negozio_di_scarpe/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/a-milano-lancio-di-sassi-e-cariche-della-polizia-feriti-e-fermati.-scontri-a-torino_a783ef65-c2c2-4fb9-8d99-7c64d791f43c.html"
       ]
     },
     {
       "rank": 3,
+      "title": "Roma, la Cgil in piazza sfida il governo: il corteo per lavoro, pace e welfare",
+      "source_count": 7,
+      "article_count": 13,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/sciopero-generale-la-cgil-si-unisce-agli-studenti-in-lotta",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/17/cgil-in-piazza-siamo-100mila-il-20-novembre-sciopero-generale_c4547ea9-f018-4e78-adda-67ad7af8e7d0.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/17/schlein-in-piazza-lo-spirito-del-referendum-costruiamo-lalternativa-insieme_c4547ea9-f018-4e78-adda-67ad7af8e7d0.html",
+        "https://www.ilfattoquotidiano.it/2026/10/17/sciopero-generale-cgil-landini-roma-notizie/8541913/",
+        "https://www.lastampa.it/politica/2026/10/17/news/il_popolo_dell_alternativa_in_piazza_a_roma_con_la_cgil_landini_il_20_novembre_sciopero_generale-15769542/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Giornata di fuoco in tutta la Francia alle proteste contro il “carovita”",
       "source_count": 7,
       "article_count": 9,
@@ -74,28 +96,29 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Roma, la Cgil in piazza sfida il governo: il corteo per lavoro, pace e welfare",
-      "source_count": 6,
-      "article_count": 10,
+      "rank": 5,
+      "title": "Ex Ilva, mazzata sui lavoratori: cassa integrazione per 9 dipendenti su 10",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
-        "lastampa.it",
+        "laverita.info",
         "ilfattoquotidiano.it",
-        "repubblica.it",
         "adnkronos.com",
-        "ilsole24ore.com"
+        "lastampa.it",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/10/17/cgil-in-piazza-siamo-100mila-il-20-novembre-sciopero-generale_c4547ea9-f018-4e78-adda-67ad7af8e7d0.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/17/schlein-in-piazza-lo-spirito-del-referendum-costruiamo-lalternativa-insieme_c4547ea9-f018-4e78-adda-67ad7af8e7d0.html",
-        "https://www.lastampa.it/politica/2026/10/17/news/il_popolo_dell_alternativa_in_piazza_a_roma_con_la_cgil_landini_il_20_novembre_sciopero_generale-15769542/",
-        "https://www.ilfattoquotidiano.it/2026/10/17/cgil-sciopero-generale-landini-roma-conte-schlein-notizie/8541858/",
-        "https://www.repubblica.it/politica/2026/10/17/news/sciopero_generale_20_novembre_2026_cgil_landini-425655032/"
+        "https://ilmanifesto.it/ex-ilva-in-cassa-integrazione-oltre-8mila-operai",
+        "https://www.ansa.it/sito/notizie/economia/pmi/2026/10/17/ex-ilva-comunicata-richiesta-di-cigs-per-un-massimo-di-8622-lavoratori_416ee81c-5c38-4103-a018-5768a95cb2eb.html",
+        "https://www.laverita.info/aziende/ex-ilva-cassa-integrazione-8622-lavoratori-stipendio",
+        "https://www.ilfattoquotidiano.it/2026/10/17/ilva-cassa-integrazione-9-lavoratori-su-10-sindacati/8541543/",
+        "https://www.adnkronos.com/economia/ex-ilva-cassa-integrazione-news-oggi_7GNmJHlycZHbFzGiAZ0ize"
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Venezia-Napoli 1-0, le pagelle: Stankovic (8) super, De Bruyne (5) sbaglia il rigore, Adams (7) segna il gol vittoria.",
       "source_count": 6,
       "article_count": 7,
@@ -116,28 +139,28 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Ex Ilva, mazzata sui lavoratori: cassa integrazione per 9 dipendenti su 10",
+      "rank": 7,
+      "title": "Famiglia nel bosco, i bimbi tornano nel casolare di Palmoli. Il padre Nathan: “Il giorno più bello”",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 7,
       "source_domains": [
+        "ilmessaggero.it",
         "ansa.it",
-        "laverita.info",
         "ilfattoquotidiano.it",
         "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it"
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/economia/pmi/2026/10/17/ex-ilva-comunicata-richiesta-di-cigs-per-un-massimo-di-8622-lavoratori_416ee81c-5c38-4103-a018-5768a95cb2eb.html",
-        "https://www.laverita.info/aziende/ex-ilva-cassa-integrazione-8622-lavoratori-stipendio",
-        "https://www.ilfattoquotidiano.it/2026/10/17/ilva-cassa-integrazione-9-lavoratori-su-10-sindacati/8541543/",
-        "https://www.adnkronos.com/economia/ex-ilva-cassa-integrazione-news-oggi_7GNmJHlycZHbFzGiAZ0ize",
-        "https://www.lastampa.it/economia/2026/10/17/news/ex_ilva_mazzata_sui_lavoratori_cassa_integrazione_per_9_dipendenti_su_10-15769141/"
+        "https://www.ilmessaggero.it/abruzzo/famiglia_bosco_figli_genitori_insieme_casolare_nuova_separazione-9831745.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/famiglia-nel-bosco-dopo-11-mesi-i-bambini-tornano-nel-casolare_17861bf6-56ed-45ff-8d10-173ed3dae63a.html",
+        "https://www.ilfattoquotidiano.it/2026/10/17/famiglia-bosco-figli-genitori-notizie/8541689/",
+        "https://www.adnkronos.com/cronaca/famiglia-nel-bosco-bimbi-trevallion-ritorno-a-casa_7FwCqKrX3O598crBtawd97",
+        "https://www.repubblica.it/cronaca/2026/10/17/news/famiglia_bosco_bambini_tornano_nel_casolare_di_palmoli-425654611/"
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Violenza sessuale su un 13enne nel bagno di un bar: i genitori sfondano la porta, arrestato un 40enne pakistano",
       "source_count": 6,
       "article_count": 6,
@@ -158,62 +181,43 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Famiglia nel bosco, i bimbi tornano nel casolare di Palmoli. Il padre Nathan: “Il giorno più bello”",
-      "source_count": 6,
+      "rank": 9,
+      "title": "Trump, stop a importanti sanzioni e dazi su export della Russia. Cremlino: decisione storica. Zelensky: aiuta Putin",
+      "source_count": 5,
       "article_count": 6,
       "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
         "adnkronos.com",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/famiglia-nel-bosco-dopo-11-mesi-i-bambini-tornano-nel-casolare_17861bf6-56ed-45ff-8d10-173ed3dae63a.html",
-        "https://www.ilfattoquotidiano.it/2026/10/17/famiglia-bosco-figli-genitori-notizie/8541689/",
-        "https://www.adnkronos.com/cronaca/famiglia-nel-bosco-bimbi-trevallion-ritorno-a-casa_7FwCqKrX3O598crBtawd97",
-        "https://www.repubblica.it/cronaca/2026/10/17/news/famiglia_bosco_bambini_tornano_nel_casolare_di_palmoli-425654611/",
-        "https://www.ilmessaggero.it/abruzzo/famiglia_nel_bosco_bambini_casa_oggi_incontro_genitori-9831171.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Salvini, nuovo attacco alle banche: “Contributo da 5 miliardi è buonsenso”. Tajani: “No aggressioni”",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "repubblica.it",
+        "ilmanifesto.it",
+        "lastampa.it",
         "ansa.it",
-        "liberoquotidiano.it",
-        "ilsole24ore.com"
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.repubblica.it/economia/2026/10/17/news/salvini_banche_contributo_da_5_miliardi_e_buonsenso-425654401/",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/17/salvini-banche-mazzolate-patuelli-sorprendente-il-contributo-da-5-miliardi-e-il-minimo_8aaccd0a-cdc6-4a30-a4bc-c85d9231a6b3.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49391358/manovra-tajani-si-contributo-banche-ma-senza-aggressioni-o-minacce/",
-        "https://www.repubblica.it/economia/2026/10/17/news/contributo_5_miliardi_duello_banche-giorgetti_piu_tasse_noi_mazzolati_non_morira_nessuno-425653612/",
-        "https://www.ilsole24ore.com/art/manovra-salvini-banche-mazzolate-contributo-5-miliardi-minimo-l-abi-intervento-non-concordato-AJf95qmB"
+        "https://www.adnkronos.com/internazionale/esteri/trump-stop-sanzioni-russia-putin-polemiche_3OLDiXMh59KQRVpaJK5tFC",
+        "https://ilmanifesto.it/stati-uniti-addio-graham-act-via-le-sanzioni-a-mosca",
+        "https://www.lastampa.it/esteri/2026/10/18/news/trump_congela_le_sanzioni_alla_russia_l_ira_di_zelensky_premia_l_aggressore-15769643/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/17/trump-sospende-sanzioni-e-dazi-alla-russia-sullexport_c94c6910-154f-4071-9bce-b30372b93263.html",
+        "https://www.lastampa.it/esteri/2026/10/17/news/cos_e_il_lindsey_graham_act_e_perche_e_un_regalo_personale_a_putin_e_a_cina_e_india_sospenderlo-15769093/"
       ]
     },
     {
       "rank": 10,
-      "title": "Incidente Cassano Magnago, Pierina Buffon morta in un frontale con l'ex, il figlio della donna: «L'ha inseguita e si è fatto giustizia da solo»",
-      "source_count": 4,
+      "title": "Papa, 13enne ucraina guarita dal tumore gli regala un Leone di pannolenci: “Ti proteggerà”",
+      "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "adnkronos.com",
-        "milano.repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
         "lastampa.it",
-        "ilmessaggero.it"
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.adnkronos.com/cronaca/varese-donna-morta-scontro-frontale-auto-ex_1EMeP9ougiGmM2kI0y1hqB",
-        "https://milano.repubblica.it/cronaca/2026/10/17/news/pierina_buffon_morta_incidente_cassano_magnago_varese_figli_femminicidio_ex_compagno-425654823/",
-        "https://www.lastampa.it/cronaca/2026/10/17/news/pierina-buffon-morta-scontro-auto-ex-cassano-magnago-figlio-inseguita-15769277/",
-        "https://www.ilmessaggero.it/italia/frontale_morta_donna_cassano_magnano_ex_compagno_indagine-9831211.html",
-        "https://www.ilmessaggero.it/italia/incidente_cassano_magnago_morta_pierina_buffon_chi_era-9831211.html"
+        "https://www.ilmessaggero.it/vaticano/varvara_tredicenne_guarita_tumore_papa_leone_pupazzo-9831750.html",
+        "https://www.ansa.it/vaticano/notizie/speciali/2026/10/17/la-13enne-ucraina-che-ha-salutato-il-papa-un-sogno-realizzato_b016d11e-400c-4a11-a665-557fff697057.html",
+        "https://www.repubblica.it/cronaca/2026/10/17/news/ragazza_ucraina_tumore_papa_leone_pannolenci-425654856/",
+        "https://www.lastampa.it/cronaca/2026/10/17/news/chi_e_varvava_ragazzina_peluche_papa-15769283/",
+        "https://www.adnkronos.com/cronaca/papa-dimissioni-piccola-paziente-intervista_wn5UzIKOg1il4WERV3GcU"
       ]
     }
   ]
