@@ -1,14 +1,16 @@
 {
   "date": "2026-10-17",
-  "generated_at": "Sat 17 Oct 10:29",
+  "generated_at": "Sat 17 Oct 14:12",
   "stories": [
     {
       "rank": 1,
       "title": "Papa Leone sarà dimesso oggi dal Gemelli, domani l'Angelus dall'appartamento pontificio",
-      "source_count": 7,
-      "article_count": 7,
+      "source_count": 9,
+      "article_count": 11,
       "source_domains": [
         "ansa.it",
+        "laverita.info",
+        "liberoquotidiano.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
         "adnkronos.com",
@@ -17,15 +19,36 @@
         "agi.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/il-papa-lascera-lospedale-nel-pomeriggio-di-oggi_15686946-c59e-4b78-b5d4-b9a1e78e9ee7.html",
-        "https://www.ilfattoquotidiano.it/2026/10/17/papa-leone-xiv-sara-dimesso-oggi-pomeriggio-domenica-recitera-langelus-dal-palazzo-apostolico/8541604/",
-        "https://www.repubblica.it/cronaca/2026/10/17/news/papa_lascia_ospedale_pomeriggio_domani_angelus_vaticano-425654420/",
-        "https://www.adnkronos.com/cronaca/papa-leone-dimissioni-gemelli-oggi-news_7izdLZgccMWGsltkW9IHzT",
-        "https://www.lastampa.it/cronaca/2026/10/17/news/papa_leone_verra_dimesso_dall_ospedale_gemelli_nel_pomeriggio_di_oggi-15769129/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/il-papa-rientra-in-vaticano-dallospedale-gemelli-recitera-langelus-domani-dal-palazzo_15686946-c59e-4b78-b5d4-b9a1e78e9ee7.html",
+        "https://www.laverita.info/chiesa-e-fede/papa-leone-xiv-dimesso-gemelli-angelus-vaticano",
+        "https://www.liberoquotidiano.it/news/tv-news/49392005/attesa-al-gemelli-il-papa-sara-dimesso-nel-pomeriggio/",
+        "https://www.liberoquotidiano.it/news/italia/49390996/papa-leone-dimissioni-oggi-domani-subito-angelus-clamorosa-figuraccia-monsignor-parolin/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/il-papa-lascera-lospedale-nel-pomeriggio-di-oggi_15686946-c59e-4b78-b5d4-b9a1e78e9ee7.html"
       ]
     },
     {
       "rank": 2,
+      "title": "Francia, proteste contro il caro vita: scontri a Parigi, Marsiglia e Lione. Oltre 160 arresti",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/17/proteste-in-francia-due-cortei-non-autorizzati-dispersi-a-parigi-incidenti-a-lione_23769778-a3b5-4b11-a769-4ae19c4b2d7e.html",
+        "https://www.ilfattoquotidiano.it/mondo/live-post/2026/10/17/proteste-francia-carovita-gilet-gialli-notizie/8541669/",
+        "https://www.adnkronos.com/internazionale/esteri/proteste-francia-parigi-scontri-news-oggi_4QOXzQjgXa080nkiw2F9ud",
+        "https://www.repubblica.it/esteri/2026/10/17/news/francia_proteste_contro_carovita_scontri_parigi_polizia_lacrimogeni-425654529/",
+        "https://www.liberoquotidiano.it/news/tv-news/49391988/francia-torna-la-protesta-dei-gilet-gialli-scontri-a-parigi-marsiglia-e-lione/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Violenza sessuale su un 13enne nel bagno di un bar: i genitori sfondano la porta, arrestato un 40enne pakistano",
       "source_count": 6,
       "article_count": 6,
@@ -46,10 +69,51 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Famiglia nel bosco, i bimbi tornano nel casolare di Palmoli. Il padre Nathan: “Il giorno più bello”",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/17/famiglia-nel-bosco-dopo-11-mesi-i-bambini-tornano-nel-casolare_17861bf6-56ed-45ff-8d10-173ed3dae63a.html",
+        "https://www.ilfattoquotidiano.it/2026/10/17/famiglia-bosco-figli-genitori-notizie/8541689/",
+        "https://www.adnkronos.com/cronaca/famiglia-nel-bosco-bimbi-trevallion-ritorno-a-casa_7FwCqKrX3O598crBtawd97",
+        "https://www.repubblica.it/cronaca/2026/10/17/news/famiglia_bosco_bambini_tornano_nel_casolare_di_palmoli-425654611/",
+        "https://www.ilmessaggero.it/abruzzo/famiglia_nel_bosco_bambini_casa_oggi_incontro_genitori-9831171.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Ex Ilva, chiesto il raddoppio della cassa integrazione: coinvolti 8622 lavoratori su 9626",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.laverita.info/aziende/ex-ilva-cassa-integrazione-8622-lavoratori-stipendio",
+        "https://www.ilfattoquotidiano.it/2026/10/17/ilva-cassa-integrazione-9-lavoratori-su-10-sindacati/8541543/",
+        "https://www.adnkronos.com/economia/ex-ilva-cassa-integrazione-news-oggi_7GNmJHlycZHbFzGiAZ0ize",
+        "https://www.lastampa.it/economia/2026/10/17/news/ex_ilva_mazzata_sui_lavoratori_cassa_integrazione_per_9_dipendenti_su_10-15769141/",
+        "https://www.repubblica.it/economia/2026/10/17/news/ex_ilva_raddoppia_cassa_integrazione-425654015/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Usa, la nuova portavoce della Casa Bianca licenziata dopo solo 5 giorni",
       "source_count": 5,
-      "article_count": 6,
+      "article_count": 5,
       "source_domains": [
         "liberoquotidiano.it",
         "ilmessaggero.it",
@@ -58,15 +122,34 @@
         "news.google.com"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/esteri/49389351/katie_zacharia_record_mondo_trump_licenzia_portavoce_dopo_5_giorni/",
         "https://www.liberoquotidiano.it/news/video-news-by-vista/49387439/trump-sulla-nuova-portavoce-ho-detto-a-katie-zacharia-di-riconsiderare-il-suo-incarico/",
         "https://www.ilmessaggero.it/mondo/katie_zacharia_licenziata_trump_portavoce_usa_polemica_debutto_ruolo-9829654.html",
         "https://www.lastampa.it/esteri/2026/10/16/news/katie_zacharia_portavoce_trump_licenziata-15768849/",
-        "https://www.repubblica.it/esteri/2026/10/16/news/usa_nuova_portavoce_della_casa_bianca_katie_zacharia_licenziata_dopo_solo_5_giorni-425653386/"
+        "https://www.repubblica.it/esteri/2026/10/16/news/usa_nuova_portavoce_della_casa_bianca_katie_zacharia_licenziata_dopo_solo_5_giorni-425653386/",
+        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcU44aWMxUzF5aHhtOUxHUnJnSnBnaXZIZENid01jWmNTT1l6RzRkZnZrTE5NMENsOFBqX0JNS3h5WFNWWXNyTVRoUVREenRTQ3ZwUmNWR1N0M3h1RzYweTFCeHJnUHN2X1lFY3dlYjJwOHdMZDBxLWF0WGJBZmw5QQ?oc=5"
       ]
     },
     {
-      "rank": 4,
+      "rank": 7,
+      "title": "Salvini, nuovo attacco alle banche: “Contributo da 5 miliardi è buonsenso”. Tajani: “No aggressioni”",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/economia/2026/10/17/news/salvini_banche_contributo_da_5_miliardi_e_buonsenso-425654401/",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/17/salvini-banche-mazzolate-patuelli-sorprendente-il-contributo-da-5-miliardi-e-il-minimo_8aaccd0a-cdc6-4a30-a4bc-c85d9231a6b3.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49391358/manovra-tajani-si-contributo-banche-ma-senza-aggressioni-o-minacce/",
+        "https://www.repubblica.it/economia/2026/10/17/news/contributo_5_miliardi_duello_banche-giorgetti_piu_tasse_noi_mazzolati_non_morira_nessuno-425653612/",
+        "https://www.ilsole24ore.com/art/manovra-salvini-banche-mazzolate-contributo-5-miliardi-minimo-l-abi-intervento-non-concordato-AJf95qmB"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Trump, stop a importanti sanzioni e dazi su export della Russia. Cremlino: decisione storica. Zelensky: aiuta Putin",
       "source_count": 4,
       "article_count": 5,
@@ -85,7 +168,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 9,
       "title": "Dl Bollette: cosa prevede l’accordo siglato dal Governo al Consiglio europeo",
       "source_count": 4,
       "article_count": 4,
@@ -103,88 +186,21 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Ex Ilva, chiesto il raddoppio della cassa integrazione: coinvolti 8622 lavoratori su 9626",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/10/17/ilva-cassa-integrazione-9-lavoratori-su-10-sindacati/8541543/",
-        "https://www.adnkronos.com/economia/ex-ilva-cassa-integrazione-news-oggi_7GNmJHlycZHbFzGiAZ0ize",
-        "https://www.lastampa.it/economia/2026/10/17/news/ex_ilva_mazzata_sui_lavoratori_cassa_integrazione_per_9_dipendenti_su_10-15769141/",
-        "https://www.repubblica.it/economia/2026/10/17/news/ex_ilva_raddoppia_cassa_integrazione-425654015/"
-      ]
-    },
-    {
-      "rank": 7,
+      "rank": 10,
       "title": "Gli studenti si prendono le piazze, Meloni: 'Violenze da condannare'",
       "source_count": 4,
       "article_count": 4,
       "source_domains": [
+        "laverita.info",
         "lastampa.it",
         "ansa.it",
-        "ilmessaggero.it",
-        "news.google.com"
+        "ilmessaggero.it"
       ],
       "links": [
+        "https://www.laverita.info/video/cronaca-video/proteste-studentesche-scontri-polizia",
         "https://www.lastampa.it/rubriche/il-taccuino/2026/10/17/news/il_rischio_della_saldatura_con_i_camionisti-15768871/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/16/gli-studenti-si-prendono-le-piazze-meloni-violenze-da-condannare_ff9071cf-026e-438f-8153-f7d47a260b42.html",
-        "https://www.ilmessaggero.it/italia/studenti_cortei_violenze_meloni_appello_alle_opposizioni-9829743.html",
-        "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcUVRNU9vVHh6d0l6alZyNDl5VE80SmF5dE03bDFNWm9WXzUxWVhDOFhqMXFXSHc1aDZMQ1BLOWw3UXYwd1pxR1NBNFdZeVlZb2JVamJ5ZjhVZFVmYmY5enFWWF9BaVhkcHZObEV5d2xpTEVPOEZndjUzRkNEVnlhYg?oc=5"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Jovanotti abbraccia i registi del film su di lui 'Lorenzo' al Festival del Cinema di Roma",
-      "source_count": 2,
-      "article_count": 6,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/speciali/festa-del-cinema-di-roma-/2026/10/16/jovanotti-sento-incombere-la-fine-di-unera-ma-questo-mi-costringe-ad-andare-oltre_07e4f5d9-5b08-4095-b927-0750c9958a56.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49387422/jovanotti-abbraccia-e-si-inchina-a-gianni-morandi-sul-red-carpet-della-festa-del-cinema-di-roma/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49387394/jovanotti-posa-per-i-fotografi-con-moglie-e-figlia-sul-red-carpet-della-festa-del-cinema-di-roma/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49387392/morandi-alla-presentazione-del-film-su-jovanotti-un-grande-artista-e-un-amico/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49387396/jovanotti-abbraccia-i-registi-del-film-su-di-lui-lorenzo-al-festival-del-cinema-di-roma/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Salvini: 'Banche mazzolate? Patuelli sorprendente, il contributo da 5 miliardi è il minimo'",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/10/17/salvini-banche-mazzolate-patuelli-sorprendente-il-contributo-da-5-miliardi-e-il-minimo_8aaccd0a-cdc6-4a30-a4bc-c85d9231a6b3.html",
-        "https://www.repubblica.it/economia/2026/10/17/news/contributo_5_miliardi_duello_banche-giorgetti_piu_tasse_noi_mazzolati_non_morira_nessuno-425653612/",
-        "https://www.ilsole24ore.com/art/manovra-salvini-banche-mazzolate-contributo-5-miliardi-minimo-l-abi-intervento-non-concordato-AJf95qmB"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Giornalista del Washington Post ferita dai coloni in Cisgiordania: \"Mi hanno spinto a terra e preso a calci\"",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/49388406/cisgiordania-coloni-aggrediscono-palestinesi-durante-la-raccolta-delle-olive-almeno-6-feriti/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/16/giornalista-del-washington-post-ferita-dai-coloni-in-cisgiordania-mi-hanno-spinto_ceeab04f-76e0-43c1-84fd-464d47594519.html",
-        "https://www.repubblica.it/esteri/2026/10/16/news/cisgiordania_reporter_americana_presa_a_calci_e_bastonate_dai_coloni_per_10_minuti-425653667/"
+        "https://www.ilmessaggero.it/italia/studenti_cortei_violenze_meloni_appello_alle_opposizioni-9829743.html"
       ]
     }
   ]
