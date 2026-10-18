@@ -1,12 +1,56 @@
 {
   "date": "2026-10-18",
-  "generated_at": "Sun 18 Oct 14:29",
+  "generated_at": "Sun 18 Oct 18:01",
   "stories": [
     {
       "rank": 1,
+      "title": "Milano, guerriglia in centro: vetrine sfondate e negozi saccheggiati. Meloni convoca una riunione sull'ordine pubblico",
+      "source_count": 8,
+      "article_count": 17,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "milano.repubblica.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/centinaia-di-giovani-a-gruppetti-in-piazza-duomo-50-portati-in-questura_57da2060-1834-4ed4-a7a9-19a0843c94bd.html",
+        "https://www.ilmessaggero.it/italia/scontri_milano_ricostruzione_ragazzini_cosa_fanno_gruppi_mini_blitz-9833265.html",
+        "https://milano.repubblica.it/cronaca/2026/10/18/diretta/milano_guerriglia_giovani_centro-425656615/",
+        "https://www.adnkronos.com/cronaca/guerriglia-milano-scontri-secondo-giorno_65rvfcWsh0PyOg6kzVbUwE",
+        "https://www.adnkronos.com/cronaca/milano-scontri-danni-chi-paga_5X2CSWFYYjmYd9Ongcp8AZ"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Papa Leone all'Angelus dopo il ricovero: 'Riprenderò gradualmente'",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "laverita.info",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/papa-leone-allangelus-dopo-il-ricovero-riprendero-gradualmente_74dcf119-92a0-46e7-986f-16343122a321.html",
+        "https://www.laverita.info/video/papa-leone-angelus-dopo-operazione",
+        "https://www.ansa.it/sito/videogallery/italia/2026/10/18/il-papa-riprendero-le-attivita-gradualmente_fe6a0f6e-3ea9-4539-afc4-6c324aab803f.html",
+        "https://www.adnkronos.com/cronaca/papa-leone-malattia-come-sta-cosa-ha-detto-angelus_1Shn4LePVcR7ZfTM8MeSCd",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/il-papa-si-affaccia-per-langelus-riprendero-le-attivita-gradualmente-_74dcf119-92a0-46e7-986f-16343122a321.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Guerriglia e devastazione a Milano, Meloni: condannare senza ambiguità",
       "source_count": 6,
-      "article_count": 9,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
         "milano.repubblica.it",
@@ -24,28 +68,7 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Landini annuncia lo sciopero generale del 20 novembre: “No ai 14 miliardi per le armi”",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "laverita.info",
-        "ilmanifesto.it",
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/sinistra-a-pezzi/landini-cgil-sciopero-generale-manovra",
-        "https://ilmanifesto.it/sciopero-generale-la-cgil-si-unisce-agli-studenti-in-lotta",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/17/cgil-in-piazza-siamo-100mila-il-20-novembre-sciopero-generale_c4547ea9-f018-4e78-adda-67ad7af8e7d0.html",
-        "https://www.lastampa.it/politica/2026/10/17/news/il_popolo_dell_alternativa_in_piazza_a_roma_con_la_cgil_landini_il_20_novembre_sciopero_generale-15769542/",
-        "https://www.repubblica.it/politica/2026/10/17/news/sciopero_generale_20_novembre_2026_cgil_landini-425655032/"
-      ]
-    },
-    {
-      "rank": 3,
+      "rank": 4,
       "title": "Schlein all'assemblea Pd: \"Primarie o no, mi candido presidente del Consiglio\"",
       "source_count": 6,
       "article_count": 6,
@@ -66,7 +89,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Proteste in Francia, le immagini del municipio di Limoges in fiamme",
       "source_count": 5,
       "article_count": 7,
@@ -86,27 +109,28 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Il Papa: “Riprenderò le attività gradualmente”",
-      "source_count": 5,
+      "rank": 6,
+      "title": "Meloni sugli stipendi dei magistrati: “Non firmerò il decreto sugli aumenti”",
+      "source_count": 6,
       "article_count": 6,
       "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
         "liberoquotidiano.it",
-        "lastampa.it",
+        "adnkronos.com",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/videogallery/italia/2026/10/18/il-papa-riprendero-le-attivita-gradualmente_fe6a0f6e-3ea9-4539-afc4-6c324aab803f.html",
-        "https://www.adnkronos.com/cronaca/papa-leone-malattia-come-sta-cosa-ha-detto-angelus_1Shn4LePVcR7ZfTM8MeSCd",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/il-papa-si-affaccia-per-langelus-riprendero-le-attivita-gradualmente-_74dcf119-92a0-46e7-986f-16343122a321.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49400306/primo-angelus-del-papa-dopo-l-intervento-mi-sento-vicino-ai-malati/",
-        "https://www.lastampa.it/cronaca/2026/10/18/news/la_fatica_sul_volto_la_serenita_l_abbraccio_della_folla_il_ritorno_di_leone_dopo_l_intervento-15769915/"
+        "https://www.ilfattoquotidiano.it/2026/10/18/giorgia-meloni-non-restituira-gli-stipendi-arretrati-ai-magistrati-non-posso-firmare-la-replica-faremo-valere-i-nostri-diritti/8542443/",
+        "https://www.repubblica.it/economia/2026/10/18/news/meloni_non_firmo_decreto_stipendi_magistrati-425656555/",
+        "https://www.ilmessaggero.it/politica/meloni_magistrati_aumenti_scontro_cosa_succede-9833120.html",
+        "https://www.liberoquotidiano.it/news/giustizia/49401064/giorgia_meloni_non_firmo_aumento_stipendio_magistrati_ognuno_assuma_responsabilita_/",
+        "https://www.adnkronos.com/politica/meloni-decreto-magistrati-adnkronos_2CXDOPsJ1Zcx0fx4f1t9bT"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Italpress Awards, Mulè \"Per Italpress presenza in Usa è diventata missione\"",
       "source_count": 1,
       "article_count": 9,
@@ -122,46 +146,10 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Scontri al corteo a Milano, fiamme su strada e saccheggiato un negozio di scarpe",
-      "source_count": 3,
-      "article_count": 6,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/49398783/milano-il-corteo-contro-il-carovita-si-trasforma-in-un-incendio-in-piazza-duomo/",
-        "https://www.liberoquotidiano.it/news/libero-video/49397754/milano-maranza-compagni-saccheggiano-negozio-scarpe-ecco-rivolta-sinistra/",
-        "https://www.liberoquotidiano.it/news/pillole/49396109/scontri_al_corteo_a_milano_fiamme_su_strada_e_saccheggiato_un_negozio_di_scarpe/",
-        "https://www.liberoquotidiano.it/news/libero-video/49394306/milano-guerriglia-piazza-duomo-bombe-carta-tavolini-contro-polizia-risponde-con-idranti-cariche/",
-        "https://www.ilsole24ore.com/art/rabbia-e-proteste-piazza-italia-video-AJK1pOnB"
-      ]
-    },
-    {
       "rank": 8,
-      "title": "Chi sono i devastatori di Milano: nessun leader o schema, solo la caccia allo sbirro",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "milano.repubblica.it",
-        "laverita.info"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/guerriglia-milano-genitori-fermati-questura_PIKXdDumJ3angPkd36fI9",
-        "https://www.ilmessaggero.it/italia/scontri_milano_genitori_ragazzi_scuola_privata_chi_sono_look_maranza_video_tiktok_ultime_notizie-9832898.html",
-        "https://milano.repubblica.it/cronaca/2026/10/18/news/chi_sono_i_devastatori_di_milano_scontri_duomo-425656048/",
-        "https://www.laverita.info/video/cronaca-video/scontri-milano-bologna-torino-violenza-agenti"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Scontri ai cortei, 28 arresti. A Milano 500 mila euro di danni. Polemica Piantedosi-Sala",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
         "ansa.it",
         "lastampa.it",
@@ -169,10 +157,29 @@
         "adnkronos.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/pochi-agenti-in-strada-scoppia-la-polemica-tra-piantedosi-e-sala.-danni-per_397d8359-98ac-4ba2-840f-a55dcb988745.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/18/scontri-ai-cortei-piantedosi-azioni-da-professionisti-del-disordine.-crosetto-chi-crea_397d8359-98ac-4ba2-840f-a55dcb988745.html",
         "https://www.lastampa.it/cronaca/2026/10/18/news/cortei-scontri-milano-torino-bologna-danni-fermati-arresti-piantedosi-15769939/",
         "https://www.liberoquotidiano.it/news/tv-news/49400441/cortei-schlein-inaccettabile-usare-violenti-per-coprire-proteste/",
         "https://www.adnkronos.com/politica/salvini-milano-disordini-proposta-legge_6ahJKg7p0SSLENzlB0UKDm"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Canada, grave incendio in una base militare: ci sono vittime e feriti",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/18/canada-media-almeno-7-morti-in-un-incendio-in-una-base-militare_0487aa86-c718-437f-9a73-9b7333991cf6.html",
+        "https://www.ilmessaggero.it/mondo/canada_incendio_esplosione_esercito_base_militare_wainwright_esercitazione_colpito_pozzo_gas_cosa_e_successo-9832885.html",
+        "https://www.repubblica.it/esteri/2026/10/18/news/canada_incidente_e_incendio_in_base_militare_morti_e_feriti-425655801/",
+        "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWHJ3N0lnUGNfUjR0QU1QUkxjaThTUUQ5WlBHZVRJLXdCcWtHdXltbUd1TUFiT1ZmRER6dlpsOVBLRVh6ZEZYOWJpclNGR2ZBYThvUUxoWDlsdGpXTWNKWUU5c25yd2VfRlBBMmNzRnlweEl4U3ZFRElTNUI4VFZCT0h6NWk2QzZZemc?oc=5"
       ]
     },
     {
