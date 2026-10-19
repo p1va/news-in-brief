@@ -1,6 +1,6 @@
 {
   "date": "2026-10-19",
-  "generated_at": "Mon 19 Oct 19:16",
+  "generated_at": "Mon 19 Oct 22:23",
   "stories": [
     {
       "rank": 1,
@@ -26,24 +26,45 @@
     },
     {
       "rank": 2,
-      "title": "Il giorno dopo le violenza a Milano, ancora segni delle devastazioni",
-      "source_count": 3,
-      "article_count": 10,
+      "title": "Milano, con i genitori in questura per riprendere i figli: “Che vergogna, un branco di deficienti”",
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
+        "ilmessaggero.it",
         "ansa.it",
-        "liberoquotidiano.it",
-        "news.google.com"
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/chiudono-i-negozi-del-lusso-a-milano.-i-pm-una-rara-violenza_0d0d286f-7f8f-420a-9737-2566da0ba8a2.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49412081/presidio-di-solidarieta-del-centrodestra-dopo-le-violenze-a-milano/",
-        "https://www.liberoquotidiano.it/news/tv-news/49412033/milano-moratti-solidarieta-ai-commercianti-citta-non-e-piu-sicura-/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49411379/cateno-de-luca-su-scontri-a-milano-guerriglia-urbana-inaccettabile-delinquenti-ai-lavori-forzati/",
-        "https://www.liberoquotidiano.it/news/libero-video/49407298/milano-i-danni-dopo-le-violenze-vetrine-rotte-e-negozi-chiusi/"
+        "https://www.ilmessaggero.it/italia/guerriglia_milano_negozi_chiusi_arresti_scontri_cosa_succede_ultime_notizie-9835512.html",
+        "https://www.ilmessaggero.it/italia/scontri_milano_giovanni_diamanti_valori_ribellione-9835510.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/la-rabbia-dei-giovanissimi-e-lunico-modo-per-farci-sentire_b52a179e-da2b-4422-97a3-9cd27c39e190.html",
+        "https://www.ilfattoquotidiano.it/cronaca/live-post/2026/10/19/guerriglia-milano-duomo-mobilitazione-oggi-aggiornamenti-diretta-notizie/8543082/",
+        "https://www.lastampa.it/cronaca/2026/10/19/news/milano_scontri_genitori_questura_minorenni-15770786/"
       ]
     },
     {
       "rank": 3,
+      "title": "Milano, i danni dopo le violenze: vetrine rotte e negozi chiusi",
+      "source_count": 3,
+      "article_count": 10,
+      "source_domains": [
+        "milano.repubblica.it",
+        "ansa.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://milano.repubblica.it/cronaca/2026/10/19/news/scontri_milano_richieste_arresto_procura_minori-425659180/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/mattarella-a-milano-violenze-inaccettabili-serve-unanalisi-approfondita_397d8359-98ac-4ba2-840f-a55dcb988745.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/chiudono-i-negozi-del-lusso-a-milano.-i-pm-una-rara-violenza_0d0d286f-7f8f-420a-9737-2566da0ba8a2.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49412081/presidio-di-solidarieta-del-centrodestra-dopo-le-violenze-a-milano/",
+        "https://www.liberoquotidiano.it/news/tv-news/49412033/milano-moratti-solidarieta-ai-commercianti-citta-non-e-piu-sicura-/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Più fermi o arresti differiti, Meloni lavora a un decreto. Verso una norma per gli under 18",
       "source_count": 6,
       "article_count": 6,
@@ -64,77 +85,62 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Milano, con i genitori in questura per riprendere i figli: “Che vergogna, un branco di deficienti”",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "milano.repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/scontri_milano_genitori_fuori_questura_figli_minorenni-9834820.html",
-        "https://milano.repubblica.it/cronaca/2026/10/19/news/scontri_milano_genitori_fuori_questura_prendere_figli-425657753/",
-        "https://www.lastampa.it/cronaca/2026/10/19/news/milano_scontri_genitori_questura_minorenni-15770786/",
-        "https://www.ilmessaggero.it/italia/scontri_milano_chi_sono_minorenni_guida_tascabile_ultime_notizie-9834595.html",
-        "https://www.repubblica.it/politica/2026/10/19/news/viminale_violenze_milano_social-425657143/"
-      ]
-    },
-    {
       "rank": 5,
       "title": "Supermercati vuoti e distributori di benzina a secco, cosa sta succedendo al Sud Italia? La protesta e il rischio rincari in tutta Italia",
-      "source_count": 4,
-      "article_count": 5,
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
         "adnkronos.com",
         "ilmessaggero.it",
         "repubblica.it"
       ],
       "links": [
+        "https://ilmanifesto.it/la-protesta-dei-tir-contro-il-caro-gasolio-blocca-il-sud-italia",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/la-protesta-dei-tir-al-sud-si-allarga-blocchi-e-scaffali-vuoti_ff9394fe-3211-452a-ac1e-41aef9da3466.html",
         "https://www.adnkronos.com/economia/caro-carburanti-blocco-tir-emergenza-supermercati-sud_1EPbRl9JvKwAv61OcK6dfu",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/protesta-degli-autotrasportatori-sulla1-chiuso-nodo-a30-caserta-salerno_ff9394fe-3211-452a-ac1e-41aef9da3466.html",
-        "https://www.ilmessaggero.it/italia/supermercati_vuoti_puglia_calabria_campania_cosa_sta_succedendo_protesta_tir_autotrasportatori-9834814.html",
-        "https://www.repubblica.it/economia/2026/10/19/diretta/protesta_autotrasportatori_prezzo_carburanti_blocco_tir_diretta-425657973/"
+        "https://www.ilmessaggero.it/italia/supermercati_vuoti_puglia_calabria_campania_cosa_sta_succedendo_protesta_tir_autotrasportatori-9834814.html"
       ]
     },
     {
       "rank": 6,
-      "title": "Proteste in Francia, manifestanti bloccano l'accesso al Louvre",
-      "source_count": 3,
+      "title": "Alcuni lavoratori dell'ex Ilva hanno occupato una parte dell'aeroporto di Genova per protestare contro la cassa integrazione",
+      "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "lastampa.it",
-        "ansa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/esteri/2026/10/19/video/parigi-manifestanti-bloccano-louvre-proteste-studenti-video-15771204/",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/10/19/proteste-in-francia-manifestanti-bloccano-laccesso-al-louvre_73c2b0c7-3764-41c8-b7e5-57f32c6982a4.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/19/il-premier-lecornu-ordina-lattuazione-di-diversi-coprifuoco.-i-manifestanti-bloccano-laccesso-al-louvre_ed171ce5-9088-4f84-8481-f5677efc58f2.html",
-        "https://www.repubblica.it/esteri/2026/10/19/news/proteste_francia_scontri_studenti_bloccano_ingresso_louvre-425657645/",
-        "https://www.lastampa.it/esteri/2026/10/19/news/ancora_scontri_e_350_fermi_nella_notte_a_parigi_manifestanti_bloccano_l_accesso_al_louvre-15770584/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Alcuni lavoratori dell'ex Ilva hanno occupato una parte dell'aeroporto di Genova per protestare contro la cassa integrazione",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
+        "ilmanifesto.it",
         "laverita.info",
         "genova.repubblica.it",
         "lastampa.it",
         "news.google.com"
       ],
       "links": [
+        "https://ilmanifesto.it/ex-ilva-i-lavoratori-bloccano-laeroporto-di-genova",
         "https://www.laverita.info/aziende/ex-ilva-genova-protesta-aeroporto-cassa-integrazione",
         "https://genova.repubblica.it/cronaca/2026/10/19/news/ex_ilva_la_protesta_degli_operai_insieme_ai_figli_papa_la_tua_lotta_il_mio_futuro-425657415/",
         "https://www.lastampa.it/cronaca/2026/10/19/news/ex_ilva_cornigliano_lavoratori_occupano_aeroporto_genova-15770546/",
         "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY0FaMEgyQ3ZqY3NXYTlsTDJsMEJVOWVPS2dOS2Q5QjRzMFFTRHVzSzlrbmNpZzBsb2Qwd1d2bF9QQmktaVRCa3BsX0ZmZ2pRS3RiX0ZTNHIyY3Y1LUpIQVRrSm1lLVo4WUpIWENnc1ZWZ3g5TFVCMnhReGRaaGY1bU1XSFJGQQ?oc=5"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Duello tv tra Lula e Bolsonaro, insulti e attacchi, ma nessun colpo da ko",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/lula-bolsonaro-mascalzone-sarai-tu-il-dibattito-tv-finisce-in-un-pareggio-con-scintille",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/19/duello-tv-tra-lula-e-bolsonaro-insulti-e-attacchi-ma-nessun-colpo-da-ko_65bcadd5-f480-4d95-9dbd-d59a892bea1f.html",
+        "https://www.ilfattoquotidiano.it/2026/10/19/elezioni-brasile-lula-bolsonaro-dibattito-notizie/8543183/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/19/duello-tv-tra-lula-e-bolsonaro-jr-scontro-su-corruzione-e-sicurezza_65bcadd5-f480-4d95-9dbd-d59a892bea1f.html",
+        "https://www.liberoquotidiano.it/news/libero-video/49407295/-non-voglio-starti-vicino-non-sono-violento-lite-lula-bolsonaro/"
       ]
     },
     {
@@ -175,19 +181,20 @@
     },
     {
       "rank": 10,
-      "title": "Kiev dopo la nuova ondata di attacchi russi",
-      "source_count": 3,
+      "title": "Il Papa telefona a Zelensky: «Chiesti aiuti per l'evacuazione della popolazione a Oleshky»",
+      "source_count": 4,
       "article_count": 4,
       "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
+        "repubblica.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/19/ucraina-kiev-gli-alleati-non-hanno-avvisato-del-primo-attacco._880ccfc3-f526-4c4a-9def-79024e582454.html",
-        "https://www.liberoquotidiano.it/news/libero-video/49407292/kiev-dopo-la-nuova-ondata-di-attacchi-russi/",
-        "https://www.liberoquotidiano.it/news/tv-news/49407672/droni-su-san-pietroburgo-trump-attacca-zelensky/",
-        "https://www.lastampa.it/esteri/2026/10/19/diretta/guerra_russia_ucraina_news_oggi-15770383/"
+        "https://ilmanifesto.it/kiev-raid-atroce-su-un-parco-il-papa-sente-anche-zelensky",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/19/telefonata-papa-zelensky-chiesti-aiuti-per-levacuazione-di-oleshky_44913f21-692e-4441-9d14-d30a800c9163.html",
+        "https://www.repubblica.it/esteri/2026/10/19/news/papa_telefonata_zelensky_ucraina_oleshky-425658660/",
+        "https://www.ilmessaggero.it/mondo/papa_telefonata_zelensky_oggi_cosa_ha_chiesto_tregua_oleshky-9835233.html"
       ]
     }
   ]
