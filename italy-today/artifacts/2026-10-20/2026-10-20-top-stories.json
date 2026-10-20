@@ -1,73 +1,53 @@
 {
   "date": "2026-10-20",
-  "generated_at": "Tue 20 Oct 21:36",
+  "generated_at": "Tue 20 Oct 23:49",
   "stories": [
     {
       "rank": 1,
       "title": "Dl cortei, Meloni \"Nasce reato partecipazione violenta a manifestazioni\"",
-      "source_count": 8,
+      "source_count": 7,
       "article_count": 13,
       "source_domains": [
+        "lastampa.it",
         "ansa.it",
         "laverita.info",
         "liberoquotidiano.it",
         "adnkronos.com",
         "ilmessaggero.it",
-        "lastampa.it",
-        "repubblica.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.lastampa.it/cronaca/2026/10/21/news/guerriglia_la_stretta_di_meloni_fermo_preventivo_per_i_minori-15772311/",
         "https://www.ansa.it/sito/notizie/politica/2026/10/20/via-libera-al-decreto-sicurezza-nasce-il-reato-di-partecipazione-violenta-a-una-manifestazione._b5702cd2-a73e-4734-8495-07184704c255.html",
         "https://www.laverita.info/video/meloni-decreto-reato-cortei-violenti",
         "https://www.liberoquotidiano.it/news/pillole/49419734/dl_cortei_meloni_nasce_reato_partecipazione_violenta_a_manifestazioni_/",
-        "https://www.adnkronos.com/politica/reato-di-partecipazione-violenta-a-manifestazione-cose-cosa-prevede_7aVsk8VHHfSnvXNfRPT48c",
-        "https://www.ilmessaggero.it/politica/nuovo_decreto_sicurezza_cosa_cambia_scontri_tutte_le_misure-9837496.html"
+        "https://www.adnkronos.com/politica/reato-di-partecipazione-violenta-a-manifestazione-cose-cosa-prevede_7aVsk8VHHfSnvXNfRPT48c"
       ]
     },
     {
       "rank": 2,
-      "title": "Napoli, nuovi effetti della protesta dei tir: benzinai a secco, manca il carburante",
-      "source_count": 6,
-      "article_count": 8,
+      "title": "Tir, il governo promette un miliardo ai camionisti ma i blocchi restano",
+      "source_count": 7,
+      "article_count": 10,
       "source_domains": [
-        "liberoquotidiano.it",
-        "napoli.repubblica.it",
-        "lastampa.it",
         "ilmanifesto.it",
-        "ilsole24ore.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/49416194/caro-carburante-corteo-trattori-barese/",
-        "https://napoli.repubblica.it/cronaca/2026/10/20/news/tir_protesta_autostrada_traffico_blocchi-425659695/",
-        "https://www.lastampa.it/cronaca/2026/10/20/video/proteste_tir_scaffali_supermercati_vuoti_sud_italia-15771592/",
-        "https://ilmanifesto.it/la-protesta-dei-tir-contro-il-caro-gasolio-blocca-il-sud-italia",
-        "https://www.repubblica.it/economia/2026/10/20/news/sicilia_supermercati_vuoti_frutta_verdura_protesta_tir-425659260/"
-      ]
-    },
-    {
-      "rank": 3,
-      "title": "Governo promette un miliardo ai camionisti, ma i blocchi continuano",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
+        "lastampa.it",
+        "ilmessaggero.it",
         "ansa.it",
         "repubblica.it",
-        "lastampa.it",
         "laverita.info",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://ilmanifesto.it/protesta-dei-tir-le-promesse-di-salvini-non-bastano",
+        "https://www.lastampa.it/cronaca/2026/10/21/news/tir_autotrasportatori_governo_promette_un_miliardo_ai_camionisti_ma_blocchi_restano-15772323/",
+        "https://www.ilmessaggero.it/economia/protesta_tir_blocchi_calabria_campania_governo_aiuti_un_miliardo-9837709.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/governo-promette-un-miliardo-ai-camionisti-ma-i-blocchi-continuano_3a6127ff-0b4c-4c40-8785-32cfb644514b.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/in-sicilia-revocato-il-fermo-dei-tir.-rixi-da-oggi-disponibili-480-milioni_3a6127ff-0b4c-4c40-8785-32cfb644514b.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/autotrasportatori-prosegue-la-protesta-nel-sud-italia.-salvini-subito-i-fondi-stanziati_3a6127ff-0b4c-4c40-8785-32cfb644514b.html",
-        "https://www.repubblica.it/economia/2026/10/20/news/salvini_su_autotrasporto_subito_erogazione_fondi_stanziati_poi_risorse_aggiuntive-425659774/",
-        "https://www.lastampa.it/cronaca/2026/10/20/diretta/protesta_autotrasportatori_oggi_blocchi_tir_salvini-15771715/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/in-sicilia-revocato-il-fermo-dei-tir.-rixi-da-oggi-disponibili-480-milioni_3a6127ff-0b4c-4c40-8785-32cfb644514b.html"
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Revolut down, problemi per pagamenti e prelievi per un’interruzione dei servizi Google Cloud",
       "source_count": 5,
       "article_count": 7,
@@ -87,7 +67,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Meloni: a Milano violenze inaccettabili, nessuno può minimizzare",
       "source_count": 1,
       "article_count": 11,
@@ -103,43 +83,83 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Marracash: “Con le buone non cambi le cose”. Ghali, Sayf e Artie 5ive si schierano sugli scontri",
-      "source_count": 3,
-      "article_count": 5,
+      "source_count": 4,
+      "article_count": 6,
       "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
         "lastampa.it",
         "milano.repubblica.it"
       ],
       "links": [
+        "https://ilmanifesto.it/il-mondo-del-rap-supporta-le-proteste-ma-e-scontro-tra-marracash-e-fedez",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/reportage-i-ragazzi-della-periferia-di-milano-qui-solo-noia-e-poverta_70bafb8a-6ae7-4f92-82f9-b7d6a5cca98f.html",
         "https://www.ansa.it/sito/notizie/cultura/2026/10/20/da-sayf-a-nayt-a-luche-i-rapper-si-schierano-sugli-scontri-in-piazza_c2f17d81-775d-4468-94ea-27873c4b65f0.html",
         "https://www.lastampa.it/spettacoli/2026/10/20/news/rapper_rabbia_giovani_generazione_senza_voce-15771782/",
-        "https://milano.repubblica.it/cronaca/2026/10/20/news/marracash_ghali_sayf_artie_5ive_rapper_scontri_milano-425660029/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/19/marracash-e-le-proteste-con-le-buone-non-cambi-le-cose-e-solo-linizio_4f65e268-393f-48f7-b0f0-40a1218491d5.html"
+        "https://milano.repubblica.it/cronaca/2026/10/20/news/marracash_ghali_sayf_artie_5ive_rapper_scontri_milano-425660029/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "La protesta degli autotrasportatori sta rallentando anche la produzione di pasta",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "ilsole24ore.com",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.lastampa.it/rubriche/il-taccuino/2026/10/21/news/trasporti_emergenza_governo_che_non_decide_taccuino_marcello_sorgi-15772221/",
+        "https://www.liberoquotidiano.it/news/libero-video/49416194/caro-carburante-corteo-trattori-barese/",
+        "https://www.ilsole24ore.com/art/autotrasporto-ancora-blocchi-e-proteste-sud-italia-attesa-l-incontro-salvini-AJQDd1oB",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTE90YTU5Mk9PU2liMDVHWUJ0WGNBVTkwSTd0MGFpX21ONkFNcE1fWHFSaWI1M1VvODA5X0tLMENicko5Nm9WZkNBS2txODJCTkNhdVVnVFVaUXMxYlR4NHk1TzNFekE5QzZWck1wSi0wTW01X0pW?oc=5",
+        "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZGFXT2VkVXRQc0RSbHNjN3JGbEhrOWdwSnlOdGhqclI2bzNQd0o0Vnd1dlNJU1dEUzRGbDN4OWpFTl84SWZFYnoyR2tjby11RXRnXzUwWHktUFJzVzFObFFHbU5PVnJQVVQ2WFJUUWhJUTVSRHc5X0c2LTZYOGFDM1NiQQ?oc=5"
       ]
     },
     {
       "rank": 7,
-      "title": "Ita, volo deviato a Zurigo: grave malore a bordo. Poi la passeggera, 61 anni, muore in pista",
+      "title": "Guerra Ucraina, Trump forza i tempi su Zelensky. Il Nyt: \"benefici\" cedendo territori (ecco quali)",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "lastampa.it",
-        "repubblica.it"
+        "ansa.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/roma/ostia/donna_morta_aereo_ita_parigi_atterraggio_zurigo_racconto_testimone_andrea-9837050.html",
-        "https://www.ilfattoquotidiano.it/2026/10/20/muore-passeggera-del-volo-ita-parigi-roma-il-comandante-commosso-chiede-rispetto-niente-foto-sui-social/8544212/",
-        "https://www.lastampa.it/cronaca/2026/10/20/news/malore_sul_volo_parigi-roma_non_basta_l_atterraggio_di_emergenza_donna_muore_in_pista-15771697/",
-        "https://www.repubblica.it/economia/2026/10/20/news/ita_passeggera_muore_volo_parigi_roma-425659314/"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49421126/trump-e-zelensky-quello-che-deve-porre-fine-alla-guerra/",
+        "https://www.lastampa.it/esteri/2026/10/21/diretta/guerra_russia_ucraina_news_oggi-15772365/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/20/in-corso-lincontro-tra-zelensky-e-witkoff-a-oslo.-il-nyt-trump-vuole-imporgli_6d053c09-807c-406e-8549-fd712ebcc9f0.html",
+        "https://www.ilmessaggero.it/mondo/trump_putin_accordo_pace_ucraina_cosa_manca_territori_rabbia_zelensky-9837153.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49416591/guerra-ucraina-trump-e-tempo-che-qualcun-altro-negozi-per-conto-di-zelensky-/"
       ]
     },
     {
       "rank": 8,
+      "title": "Orgoglio Napoli: con il Bodo finisce 4-3",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/calcio/champions/2026/10/20/news/napoli_bodo_gol_mctominay-425661444/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/20/prime-vittorie-in-champions-league-per-roma-e-napoli_fd237cc7-5007-4753-96f9-26189c142411.html",
+        "https://www.lastampa.it/sport/2026/10/21/news/champions_napoli_bodo_risultato_allegri_calcio-15772362/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/20/champions-league-in-campo-roma-slovan-bratislava-0-0-e-napoli-bodo-glimt-0-0-diretta_fd237cc7-5007-4753-96f9-26189c142411.html",
+        "https://www.adnkronos.com/sport/champions-league-napoli-bodo-glimt_2qCVTsfvKFy5PCkVLiUJjm"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Dopo gli scontri in Francia, Lecornu annuncia nuovi coprifuoco 'dove necessario'",
       "source_count": 3,
       "article_count": 5,
@@ -157,7 +177,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "\"Che spettacolo l'Italia!\", arrivano i film per promuovere il turismo",
       "source_count": 2,
       "article_count": 6,
@@ -171,24 +191,6 @@
         "https://www.liberoquotidiano.it/news/pillole/49416205/gruppo_fs_arriva_il_nuovo_spot_viaggiare_nel_tempo_viaggiare_in_italia_/",
         "https://www.liberoquotidiano.it/news/tv-news/49416925/turismo-e-cinema-mazzi-lancia-l-iniziativa-che-spettacolo-l-italia-/",
         "https://www.liberoquotidiano.it/news/tv-news/49416911/festa-di-roma-il-nuovo-spot-fs-tra-treni-d-epoca-e-storia-del-paese/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Scontri a Milano, 4 maggiorenni restano in carcere e uno va ai domiciliari",
-      "source_count": 3,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "milano.repubblica.it",
-        "ilfattoquotidiano.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/progetto-di-destabilizzazione-quattro-maggiorenni-restano-in-carcere_4950f746-3842-4546-8b28-1f898c6b7afa.html",
-        "https://milano.repubblica.it/cronaca/2026/10/20/news/scontri_duomo_milano_arrestati_interrogatori_difesa_licenziare_padre_curiosita-425661011/",
-        "https://www.ilfattoquotidiano.it/2026/10/20/scontri-duomo-milano-maggiorenni-carcere-progetto-destabilizzazione-regia-news/8544712/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/20/scontri-a-milano-4-maggiorenni-restano-in-carcere-e-uno-va-ai-domiciliari_4950f746-3842-4546-8b28-1f898c6b7afa.html",
-        "https://milano.repubblica.it/cronaca/2026/10/20/news/scontri_ragazzi_fermati_convalide_allontanamenti-425660163/"
       ]
     }
   ]
