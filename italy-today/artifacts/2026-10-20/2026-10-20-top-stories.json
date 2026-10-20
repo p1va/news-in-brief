@@ -1,18 +1,18 @@
 {
   "date": "2026-10-20",
-  "generated_at": "Tue 20 Oct 20:27",
+  "generated_at": "Tue 20 Oct 21:36",
   "stories": [
     {
       "rank": 1,
-      "title": "Meloni presenta il decreto sui cortei: \"Nasce un nuovo reato, i genitori pagano i danni dei figli\"",
+      "title": "Dl cortei, Meloni \"Nasce reato partecipazione violenta a manifestazioni\"",
       "source_count": 8,
-      "article_count": 12,
+      "article_count": 13,
       "source_domains": [
         "ansa.it",
         "laverita.info",
+        "liberoquotidiano.it",
         "adnkronos.com",
         "ilmessaggero.it",
-        "liberoquotidiano.it",
         "lastampa.it",
         "repubblica.it",
         "ilsole24ore.com"
@@ -20,9 +20,9 @@
       "links": [
         "https://www.ansa.it/sito/notizie/politica/2026/10/20/via-libera-al-decreto-sicurezza-nasce-il-reato-di-partecipazione-violenta-a-una-manifestazione._b5702cd2-a73e-4734-8495-07184704c255.html",
         "https://www.laverita.info/video/meloni-decreto-reato-cortei-violenti",
+        "https://www.liberoquotidiano.it/news/pillole/49419734/dl_cortei_meloni_nasce_reato_partecipazione_violenta_a_manifestazioni_/",
         "https://www.adnkronos.com/politica/reato-di-partecipazione-violenta-a-manifestazione-cose-cosa-prevede_7aVsk8VHHfSnvXNfRPT48c",
-        "https://www.ilmessaggero.it/politica/nuovo_decreto_sicurezza_cosa_cambia_scontri_tutte_le_misure-9837496.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49418786/meloni-manifestare-un-diritto-devastare-le-nostre-citta-no-nuove-misure-per-contrastare-violenza/"
+        "https://www.ilmessaggero.it/politica/nuovo_decreto_sicurezza_cosa_cambia_scontri_tutte_le_misure-9837496.html"
       ]
     },
     {
@@ -88,6 +88,22 @@
     },
     {
       "rank": 5,
+      "title": "Meloni: a Milano violenze inaccettabili, nessuno può minimizzare",
+      "source_count": 1,
+      "article_count": 11,
+      "source_domains": [
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49421098/violenza-ai-cortei-piantedosi-guerra-ibrida-non-sottovalutiamo-qualcosa-e-successo/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49421100/violenza-ai-cortei-piantedosi-nessuna-impreparazione-fenomeno-inedito/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49420122/violenza-ai-cortei-piantedosi-con-decreto-ulteriori-500-militari-per-milano/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49419997/violenze-a-cortei-piantedosi-fermo-preventivo-esteso-per-azioni-in-luoghi-affollati/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49419995/nevi-fi-violenza-non-puo-essere-tollerata-serve-risposta-ferma-dallo-stato/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Marracash: “Con le buone non cambi le cose”. Ghali, Sayf e Artie 5ive si schierano sugli scontri",
       "source_count": 3,
       "article_count": 5,
@@ -105,7 +121,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "Ita, volo deviato a Zurigo: grave malore a bordo. Poi la passeggera, 61 anni, muore in pista",
       "source_count": 4,
       "article_count": 4,
@@ -123,7 +139,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Dopo gli scontri in Francia, Lecornu annuncia nuovi coprifuoco 'dove necessario'",
       "source_count": 3,
       "article_count": 5,
@@ -141,7 +157,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "\"Che spettacolo l'Italia!\", arrivano i film per promuovere il turismo",
       "source_count": 2,
       "article_count": 6,
@@ -155,22 +171,6 @@
         "https://www.liberoquotidiano.it/news/pillole/49416205/gruppo_fs_arriva_il_nuovo_spot_viaggiare_nel_tempo_viaggiare_in_italia_/",
         "https://www.liberoquotidiano.it/news/tv-news/49416925/turismo-e-cinema-mazzi-lancia-l-iniziativa-che-spettacolo-l-italia-/",
         "https://www.liberoquotidiano.it/news/tv-news/49416911/festa-di-roma-il-nuovo-spot-fs-tra-treni-d-epoca-e-storia-del-paese/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Meloni: a Milano violenze inaccettabili, nessuno può minimizzare",
-      "source_count": 1,
-      "article_count": 7,
-      "source_domains": [
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49419710/meloni-devastare-e-rubare-non-e-protesta-ma-criminalita-serve-risposta-ferma/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49418912/meloni-violenze-inaccettabili-nessuno-puo-minimizzare-o-giustificare/",
-        "https://www.liberoquotidiano.it/news/tv-news/49418796/meloni-a-milano-violenze-inaccettabili-nessuno-puo-minimizzare/",
-        "https://www.liberoquotidiano.it/news/pillole/49417641/fontana-violenze-non-si-possono-accettare-ma-serve-anche-risposta-culturale-/",
-        "https://www.liberoquotidiano.it/news/pillole/49417632/violenze_milano_salvini_ragazzini_vanno_fermati_prima_escano_di_casa_/"
       ]
     },
     {
