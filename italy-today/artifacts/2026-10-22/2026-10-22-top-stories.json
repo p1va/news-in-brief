@@ -1,48 +1,49 @@
 {
   "date": "2026-10-22",
-  "generated_at": "Thu 22 Oct 00:03",
+  "generated_at": "Thu 22 Oct 11:36",
   "stories": [
     {
       "rank": 1,
       "title": "Papa Leone XIV, i medici: \"Non servono altre terapie dopo l'operazione\"",
-      "source_count": 7,
-      "article_count": 8,
+      "source_count": 8,
+      "article_count": 10,
       "source_domains": [
+        "liberoquotidiano.it",
         "repubblica.it",
         "ansa.it",
-        "liberoquotidiano.it",
         "adnkronos.com",
         "ilmessaggero.it",
         "lastampa.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/49430644/papa-dopo-il-tumore-niente-terapie-grazie-per-le-vostre-preghiere/",
         "https://www.repubblica.it/cronaca/2026/10/21/news/papa_oncologo_intervista_carmine_pinto-425664571/",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/i-medici-del-papa-non-ha-bisogno-di-ulteriori-terapie_31fd9475-3e27-454b-aad1-09ee94b2fd06.html",
         "https://www.liberoquotidiano.it/news/italia/49427275/papa-ecco-risultato-esami-istologici-non-necessaria-alcuna-terapia-/",
-        "https://www.repubblica.it/cronaca/2026/10/21/news/papa_esami_istologici_non_necessaria_alcuna_terapia-425664125/",
-        "https://www.adnkronos.com/cronaca/papa-leone-operazione-tumore-medici_RmjB5aFdkXFT4VeszSb84"
+        "https://www.repubblica.it/cronaca/2026/10/21/news/papa_esami_istologici_non_necessaria_alcuna_terapia-425664125/"
       ]
     },
     {
       "rank": 2,
-      "title": "Blocco dei Tir, l’Italia a rischio paralisi: arriva il decreto del governo. Al Sud file ai distributori di benzina e scaffali vuoti",
+      "title": "Protesta dei tir, gli scaffali vuoti nei supermercati in Campania",
       "source_count": 6,
-      "article_count": 9,
+      "article_count": 11,
       "source_domains": [
-        "repubblica.it",
-        "adnkronos.com",
-        "ilmanifesto.it",
-        "ansa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
         "ilmessaggero.it",
+        "lastampa.it",
+        "ansa.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.repubblica.it/economia/2026/10/22/news/decreto_tir_aiuti_governo-425664929/",
-        "https://www.adnkronos.com/economia/protesta-tir-agricoltori-decreto-meloni-news_5NYFqizQdjGBaY3yciWdO4",
-        "https://ilmanifesto.it/protesta-dei-tir-il-governo-alle-strette-sgombra-i-presidi",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/il-governo-sceglie-la-linea-dura-sospesi-i-blocchi-in-sicilia-e-calabria_9c1d4f81-b58b-423e-aef2-9fa4b224c7bf.html",
-        "https://www.ilmessaggero.it/italia/blocco_tir_mappa_italia_bloccata-9840058.html"
+        "https://www.ilfattoquotidiano.it/cronaca/live-post/2026/10/22/blocco-tir-protesta-campania-cdm-notizie-oggi-aggiornamenti-diretta/8546350/",
+        "https://www.liberoquotidiano.it/news/tv-news/49430979/protesta-dei-tir-gli-scaffali-vuoti-nei-supermercati-in-campania/",
+        "https://www.ilmessaggero.it/italia/blocco_tir_rifiuti_aerei_pasta_cosa_si_rischia_termoli_pesce_costa_meno_verdura-9841326.html",
+        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/10/22/news/autotrasportatori_blocco_merci-15773122/",
+        "https://www.lastampa.it/economia/2026/10/22/news/supermercati_nord_rischi_sciopero_autotrasportatori-15773175/"
       ]
     },
     {
@@ -68,28 +69,72 @@
     },
     {
       "rank": 4,
-      "title": "Il costo di un Paese in ostaggio",
-      "source_count": 4,
+      "title": "Accordo tra Italia e Spagna, stop ai controlli alle frontiere",
+      "source_count": 7,
       "article_count": 7,
       "source_domains": [
-        "lastampa.it",
+        "ilfattoquotidiano.it",
         "ansa.it",
-        "liberoquotidiano.it",
-        "news.google.com"
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
       ],
       "links": [
-        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/10/22/news/autotrasportatori_blocco_merci-15773122/",
-        "https://www.lastampa.it/economia/2026/10/22/news/supermercati_nord_rischi_sciopero_autotrasportatori-15773175/",
-        "https://www.lastampa.it/cronaca/2026/10/22/news/la_rivolta_dei_camionisti_alle_porte_di_roma_i_soldi_e_chi_li_ha_visti-15773180/",
-        "https://www.ansa.it/sito/videogallery/economia/2026/10/21/termoli-commercianti-in-crisi-punto-di-non-ritorno-non-vendiamo-piu_221e9877-3552-46e7-8881-f20daeed4a4a.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49427934/prandini-coldiretti-il-blocco-dell-autotrasporto-ha-conseguenze-anche-per-gli-agricoltori/"
+        "https://www.ilfattoquotidiano.it/2026/10/22/crisi-ceuta-frontiere-italia-spagna-notizie/8546382/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/22/accordo-roma-madrid-stop-ai-controlli-schengen-alle-frontiere-con-italia_b930baa2-3abd-4dd8-8cf5-bb33a98f4379.html",
+        "https://www.ilmessaggero.it/politica/schengen_accordo_oggi_sospensione_italia_spagna_accordo-9841452.html",
+        "https://www.repubblica.it/politica/2026/10/22/news/migranti_italia_spagna_stop_sospensione_schengen-425666516/",
+        "https://www.lastampa.it/esteri/2026/10/22/news/italia_spagna_sospensioni_schengen_stop_proroghe-15773458/"
       ]
     },
     {
       "rank": 5,
-      "title": "Milano, arrivano 500 militari. Sala: “Ora repressione”. Salvini: “Nessuna regia occulta”",
+      "title": "Il Cdm approva il decreto sugli aiuti. Continuano i blocchi dei Tir al Sud, fermi anche i pescherecci",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/il-cdm-approva-il-decreto-sugli-aiuti.-continuano-i-blocchi-dei-tir-al-sud_416e7ef3-b46a-4594-90dd-671b4eb1cc0e.html",
+        "https://www.repubblica.it/economia/2026/10/22/diretta/protesta_autotrasportatori_blocchi_diretta-425666458/",
+        "https://www.lastampa.it/economia/2026/10/22/diretta/blocco_tir_presidio_agricoltori_oggi_cdm_decreto_aiuti-15773527/",
+        "https://www.repubblica.it/economia/2026/10/22/news/decreto_tir_aiuti_governo-425664929/",
+        "https://www.adnkronos.com/economia/protesta-tir-agricoltori-decreto-meloni-news_5NYFqizQdjGBaY3yciWdO4"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Il Como è una meraviglia: show di Nico Paz, 4-1 al Manchester United",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/10/22/champions-league-2026-nuova-classifica-risultati-como-inter/8546288/",
+        "https://www.repubblica.it/sport/calcio/champions/2026/10/21/news/como_manchester_united_nico_paz_gol-425664211/",
+        "https://www.adnkronos.com/sport/champions-league-como-manchester-united-nico-paz_1DLxZntev5ZvTpVXzyCGfZ",
+        "https://www.liberoquotidiano.it/news/sport/49426731/champions_como_da_impazzire_ne_fa_4_allo_united/",
+        "https://www.lastampa.it/sport/2026/10/21/news/como_manchester_united_gol_highlights-15773105/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "A Milano 500 parà della Folgore: 'Ora controllo e repressione'",
       "source_count": 4,
-      "article_count": 7,
+      "article_count": 6,
       "source_domains": [
         "adnkronos.com",
         "lastampa.it",
@@ -105,47 +150,42 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "Mattarella premia i nuovi Cavalieri del Lavoro: «La società non sia indifferente ai giovani»",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ilmanifesto.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://ilmanifesto.it/mattarella-bacchetta-il-governo-risposte-ai-giovani",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/21/lappello-di-mattarella-non-solo-emergenza-ai-giovani-si-guardi-con-ampia-visione_31eb8924-8c4a-4cf3-a7a5-2fe53cbc6b92.html",
-        "https://www.ilmessaggero.it/politica/mattarella_giovani_cavalieri_lavoro_cosa_ha_detto-9839258.html",
-        "https://www.repubblica.it/politica/2026/10/21/news/mattarella_societa_giovani_indifferenza_meschina_sottovalutazione-425662298/",
-        "https://www.ilsole24ore.com/art/mattarella-non-si-guardi-giovani-indifferenza-o-meschina-sottovalutazione-AJJPz9pB"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Il Como è una meraviglia: show di Nico Paz, 4-1 al Manchester United",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "repubblica.it",
-        "adnkronos.com",
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/calcio/champions/2026/10/21/news/como_manchester_united_nico_paz_gol-425664211/",
-        "https://www.adnkronos.com/sport/champions-league-como-manchester-united-nico-paz_1DLxZntev5ZvTpVXzyCGfZ",
-        "https://www.liberoquotidiano.it/news/sport/49426731/champions_como_da_impazzire_ne_fa_4_allo_united/",
-        "https://www.lastampa.it/sport/2026/10/21/news/como_manchester_united_gol_highlights-15773105/",
-        "https://www.ilmessaggero.it/sport/schede/como_manchester_united_pagelle_nico_paz_ramon_douvikas_classifica_champions_league-9839734.html"
-      ]
-    },
-    {
       "rank": 8,
+      "title": "Milano, violenza contro studentessa Erasmus: fermato 31enne",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "ansa.it",
+        "milano.repubblica.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/10/22/studentessa-erasmus-aggredita-milano-fermato-notizie/8546371/",
+        "https://www.adnkronos.com/cronaca/studentessa-erasmus-violentata-milano-fermato-31enne_BplJJtPQTA1YzpeelBDFK",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/la-studentessa-erasmus-violentata-a-milano-ce-un-fermo_137d6f48-10fb-4271-a0fd-7df24a24cc83.html",
+        "https://milano.repubblica.it/cronaca/2026/10/21/news/studentessa_erasmus_tedesca_violentata_aggressore_preso_zaino_dimenticato_video_via_giacosa_padova-425664076/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Orsini: proteste Tir preoccupano, ma nessuno si approfitti situazione",
+      "source_count": 2,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49431576/schlein-su-proteste-autotrasportatori-chiesto-a-meloni-di-ascoltare-il-paese-reale/",
+        "https://www.liberoquotidiano.it/news/tv-news/49431606/proteste-tir-orsini-tutto-il-paese-deve-correre-alla-stessa-velocita-/",
+        "https://www.liberoquotidiano.it/news/tv-news/49431563/orsini-proteste-tir-preoccupano-ma-nessuno-si-approfitti-situazione/",
+        "https://www.lastampa.it/economia/2026/10/22/news/meloni_decreto_camionisti_allarme_ndrangheta-15773248/",
+        "https://www.lastampa.it/cronaca/2026/10/22/news/la_rivolta_dei_camionisti_alle_porte_di_roma_i_soldi_e_chi_li_ha_visti-15773180/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Ucraina, Russia: \"Vicini alla fine della guerra\". Putin apre ai nuovi colloqui a novembre",
       "source_count": 4,
       "article_count": 4,
@@ -160,38 +200,6 @@
         "https://www.ilmessaggero.it/mondo/guerra_ucraina_proposta_usa_pace_putin_russia_ultime_notizie-9840080.html",
         "https://www.lastampa.it/esteri/2026/10/22/diretta/guerra_russia_ucraina_news_oggi-15773288/",
         "https://www.ansa.it/sito/notizie/mondo/2026/10/21/il-cremlino-pronti-a-riprendere-i-negoziati-trilaterali-con-kiev-e-gli-usa-a-meta_62ff8056-bbec-4377-a0c7-7fa4a07823ec.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Milano, violenza contro studentessa Erasmus: fermato 31enne",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "milano.repubblica.it"
-      ],
-      "links": [
-        "https://www.adnkronos.com/cronaca/studentessa-erasmus-violentata-milano-fermato-31enne_BplJJtPQTA1YzpeelBDFK",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/21/la-studentessa-erasmus-violentata-a-milano-ce-un-fermo_137d6f48-10fb-4271-a0fd-7df24a24cc83.html",
-        "https://milano.repubblica.it/cronaca/2026/10/21/news/studentessa_erasmus_tedesca_violentata_aggressore_preso_zaino_dimenticato_video_via_giacosa_padova-425664076/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Pensioni 2027, assegni più bassi e uscita più lontana: quanto si perde e quando conviene aspettare",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ilmanifesto.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://ilmanifesto.it/in-pensione-sempre-piu-tardi-e-con-meno-soldi",
-        "https://www.ansa.it/sito/notizie/economia/2026/10/21/dal-2027-in-pensione-un-mese-piu-tardi-gli-assegni-piu-bassi_2e608356-c5d5-442f-b001-1ffc93233cf7.html",
-        "https://www.lastampa.it/economia/2026/10/21/news/pensioni_2027_quanto_si_perde_e_quando_conviene_aspettare-15772623/"
       ]
     }
   ]
