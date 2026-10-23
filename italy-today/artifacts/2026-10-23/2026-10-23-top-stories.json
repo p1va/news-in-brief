@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "Fri 23 Oct 21:25",
+  "generated_at": "Fri 23 Oct 23:53",
   "stories": [
     {
       "rank": 1,
@@ -25,9 +25,9 @@
     },
     {
       "rank": 2,
-      "title": "Attacco al check point israeliano, 5 feriti. Netanyahu annuncia la 'chiusura totale' della Cisgiordania",
+      "title": "Attacco al check point israeliano a Hebron, morti due soldati feriti. Netanyahu annuncia la 'chiusura' della Cisgiordania",
       "source_count": 5,
-      "article_count": 7,
+      "article_count": 9,
       "source_domains": [
         "ansa.it",
         "repubblica.it",
@@ -36,15 +36,79 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/24/attacco-al-checkpoint-di-hebron-scattata-unoperazione-antiterrorismo_9ba2138b-09b6-4e76-8477-6a022b91575a.html",
+        "https://www.repubblica.it/esteri/2026/10/24/diretta/guerra_iran_usa_israele_news_oggi-425671534/",
         "https://www.ansa.it/sito/notizie/mondo/2026/10/23/attacco-al-check-point-israeliano-a-hebron-morti-due-soldati-feriti.-netanyahu_9ba2138b-09b6-4e76-8477-6a022b91575a.html",
         "https://www.repubblica.it/esteri/2026/10/23/news/cisgiordania_attentato_hebron_netanyahu_reazione_israeliana-425670395/",
-        "https://www.liberoquotidiano.it/news/tv-news/49438038/netanyahu-annuncia-un-operazione-su-vasta-scala-in-cisgiordania/",
-        "https://www.laverita.info/mondo/cisgiordania-netanyahu-chiusura",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/23/attacco-al-check-point-israeliano-5-feriti.-netanyahu-annuncia-la-chiusura-totale-della_9ba2138b-09b6-4e76-8477-6a022b91575a.html"
+        "https://www.liberoquotidiano.it/news/tv-news/49438038/netanyahu-annuncia-un-operazione-su-vasta-scala-in-cisgiordania/"
       ]
     },
     {
       "rank": 3,
+      "title": "Ucraina-Russia, tregua umanitaria per Oleshky dal 27 ottobre: l'accordo mediato da Melania Trump",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-oleshky-tregua-ruolo-melania-trump_4yeHwSQYfejqgX3Xqy1u7l",
+        "https://www.lastampa.it/esteri/2026/10/24/diretta/guerra_russia_ucraina_news_oggi-15775593/",
+        "https://www.repubblica.it/esteri/2026/10/23/news/guerra_in_ucraina_tregua_umanitaria_a_oleshky_melania_trump_e_merito_mio-425671261/",
+        "https://www.liberoquotidiano.it/news/esteri/49439079/melania-trump-ferma-putin-tregua-oleshky-come-ci-e-riuscita/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/23/casa-bianca-melania-trump-ottiene-una-tregua-fra-russia-e-ucraina_7390536b-7182-49ea-b68f-2faba023bbb2.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Eni: 'Il tetto al prezzo per benzina e diesel proseguirà fino a fine anno'",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "repubblica.it",
+        "ilmanifesto.it",
+        "ansa.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.repubblica.it/economia/2026/10/24/news/eni_proroga_tetto_carburanti_schlein_serve_legge-425671405/",
+        "https://ilmanifesto.it/eni-i-profitti-oltre-ogni-tetto-meloni-e-la-diplomazia-fossile",
+        "https://www.ansa.it/sito/notizie/economia/2026/10/23/eni-il-tetto-al-prezzo-per-benzina-e-diesel-proseguira-fino-a-fine-anno_7f2ea08b-ce91-4f3c-90b8-ca8bf6e4c8aa.html",
+        "https://www.adnkronos.com/economia/caro-carburanti-prezzo-eni-bloccato_FID7MqqyXlB0aifWCHFcg",
+        "https://www.repubblica.it/economia/2026/10/23/news/eni_tetto_carburanti_prezzi_benzina_diesel-425670580/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Meloni: “Da irresponsabili definire droga leggera la cannabis. Il carcere non può essere l’unica risposta”",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilmanifesto.it",
+        "laverita.info",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/meloni-sceglie-san-patrignano-per-il-meeting-ue-senza-la-cnca",
+        "https://www.laverita.info/salute/meloni-droga-prevenzione",
+        "https://www.liberoquotidiano.it/news/tv-news/49437826/droghe-meloni-stroncare-traffici-che-rendono-schiave-le-persone/",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/23/meloni-litalia-prima-in-europa-a-definire-un-piano-nazionale-contro-il-fentanyl_ccf27979-7173-4692-b47c-22ad4311e74b.html",
+        "https://www.lastampa.it/politica/2026/10/23/news/meloni_cannabis_droga_leggera_coalizione_europea_droghe-15774866/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Il padre di Meghan Markle indagato per pedopornografia, lei “sconvolta”",
       "source_count": 6,
       "article_count": 6,
@@ -65,7 +129,27 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 7,
+      "title": "Tortona, bimba di 3 anni trovata morta in casa: arrestata la madre. La battaglia per l'affidamento",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "torino.repubblica.it",
+        "ilmessaggero.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/cronaca/2026/10/24/news/uccide_la_figlia_di_tre_anni_a_coltellate_temeva_che_il_padre_tornasse_a_vederla-15775541/",
+        "https://www.liberoquotidiano.it/news/italia/49437854/tortona-bimba-3-anni-trovata-morta-casa-arrestata-madre/",
+        "https://torino.repubblica.it/cronaca/2026/10/23/news/bimba_morta_casa_tortona_alessandria_arrestata_madre-425669932/",
+        "https://www.ilmessaggero.it/italia/bimba_morta_tortona_uccisa_madre_ultime_notizie-9843969.html",
+        "https://www.lastampa.it/alessandria/2026/10/23/news/tragedia_tortona_mamma_uccide_figlioletta_3_anni-15774915/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Uccide la fidanzata vicino a Varese e si costituisce in Abruzzo",
       "source_count": 5,
       "article_count": 6,
@@ -85,87 +169,27 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Ucraina, Musk riaccende Starlink: ordine di Trump. Europa cerca un negoziatore per trattare con Putin",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/canale_scienza/notizie/ricerca_istituzioni/2026/10/23/lucraina-punta-a-una-rete-satellitare-propria-dopo-i-guai-con-starlink_d9835346-bc91-4cfa-9a38-1ccbc23d6063.html",
-        "https://www.lastampa.it/esteri/2026/10/23/diretta/guerra_russia_ucraina_news_oggi-15774673/",
-        "https://www.repubblica.it/esteri/2026/10/23/diretta/guerra_ucraina_russia_news_oggi-425668626/",
-        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-starlink-musk-trump_4kTsOUdd2ogNKXJFradEZC",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vM3hwSlBHVURlOGJGTjRzdmFiQTZOck9fcVROU04yclcxa21lOUszbWt0UnlPQXFSYy1OQ21OQ1E0LU1PM2lJWTROdjJnVXRHRlM3LXVtR3YxdmZLeVpmLU9yY3diZ1Rjbm1yM2RB?oc=5"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Droghe, Meloni: stroncare traffici che rendono schiave le persone",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "laverita.info",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/salute/meloni-droga-prevenzione",
-        "https://www.liberoquotidiano.it/news/tv-news/49437826/droghe-meloni-stroncare-traffici-che-rendono-schiave-le-persone/",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/23/meloni-litalia-prima-in-europa-a-definire-un-piano-nazionale-contro-il-fentanyl_ccf27979-7173-4692-b47c-22ad4311e74b.html",
-        "https://www.lastampa.it/politica/2026/10/23/news/meloni_cannabis_droga_leggera_coalizione_europea_droghe-15774866/",
-        "https://www.ilsole24ore.com/art/meloni-san-patrignano-fabbrica-speranza-basta-banalizzare-droghe-AJgDULsB"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Tortona, bimba di 3 anni trovata morta in casa: arrestata la madre. La battaglia per l'affidamento",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "torino.repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/italia/49437854/tortona-bimba-3-anni-trovata-morta-casa-arrestata-madre/",
-        "https://torino.repubblica.it/cronaca/2026/10/23/news/bimba_morta_casa_tortona_alessandria_arrestata_madre-425669932/",
-        "https://www.ilmessaggero.it/italia/bimba_morta_tortona_uccisa_madre_ultime_notizie-9843969.html",
-        "https://www.lastampa.it/alessandria/2026/10/23/news/tragedia_tortona_mamma_uccide_figlioletta_3_anni-15774915/",
-        "https://www.agi.it/cronaca/news/2026-10-23/tortona-mamma-uccide-figlia-tre-anni-39676382/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Eni: 'Il tetto al prezzo per benzina e diesel proseguirà fino a fine anno'",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/10/23/eni-il-tetto-al-prezzo-per-benzina-e-diesel-proseguira-fino-a-fine-anno_7f2ea08b-ce91-4f3c-90b8-ca8bf6e4c8aa.html",
-        "https://www.adnkronos.com/economia/caro-carburanti-prezzo-eni-bloccato_FID7MqqyXlB0aifWCHFcg",
-        "https://www.repubblica.it/economia/2026/10/23/news/eni_tetto_carburanti_prezzi_benzina_diesel-425670580/",
-        "https://www.lastampa.it/economia/2026/10/23/news/eni_proroga_il_tetto_ai_prezzi_di_benzina_e_diesel_fino_a_fine_anno_livelli_valutati_ogni_mese-15775268/",
-        "https://www.ilsole24ore.com/art/carburanti-eni-manterra-tetto-prezzi-gasolio-e-benzina-fino-fine-anno-AJDfUusB"
-      ]
-    },
-    {
       "rank": 9,
+      "title": "Spari in strada a Trappes: 'Un morto e quattro feriti', indaga l'antiterrorismo",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/attacco-terroristico-razzista-allarme-islamofobia-in-francia",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/23/spari-in-strada-vicino-a-parigi-un-morto-e-quattro-feriti-indaga-lantiterrorismo_5988c970-373a-4e3c-b579-d95b1722e65c.html",
+        "https://www.ilfattoquotidiano.it/2026/10/23/sparatoria-trappes-attentato-razzista-notizie/8548054/",
+        "https://www.liberoquotidiano.it/news/tv-news/49439042/francia-spara-dall-auto-un-morto-e-cinque-feriti-alle-porte-di-parigi/",
+        "https://www.repubblica.it/esteri/2026/10/23/news/francia_spara_tra_la_folla_alla_periferia_di_parigi_un_morto_e_4_feriti-425670304/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Apprensione in casa Bayern, malore per il tecnico Kompany: trasportato d'urgenza in ospedale",
       "source_count": 5,
       "article_count": 5,
@@ -182,26 +206,6 @@
         "https://www.liberoquotidiano.it/news/sport/49439050/bayern-monaco-mister-kompany-malore-durante-allenamento-trasportato-elicottero-ospedale/",
         "https://www.repubblica.it/sport/calcio/esteri/2026/10/23/news/kompany_bayern_monaco_collasso_ospedale-425670668/",
         "https://www.lastampa.it/sport/2026/10/23/news/kompany_allenatore_collassa_ricovero_ospedale_infezione_virale-15775218/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "La diplomazia di Melania Trump: mediata tregua tra Russia e Ucraina a Oleshky",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "laverita.info"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/10/23/news/guerra_in_ucraina_tregua_umanitaria_a_oleshky_melania_trump_e_merito_mio-425671261/",
-        "https://www.liberoquotidiano.it/news/esteri/49439079/melania-trump-ferma-putin-tregua-oleshky-come-ci-e-riuscita/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/23/casa-bianca-melania-trump-ottiene-una-tregua-fra-russia-e-ucraina_7390536b-7182-49ea-b68f-2faba023bbb2.html",
-        "https://www.ilfattoquotidiano.it/2026/10/23/tregua-oleshky-melania-trump-cessate-fuoco-guerra/8547815/",
-        "https://www.laverita.info/mondo/melania-tregua-russia-ucraina"
       ]
     }
   ]
