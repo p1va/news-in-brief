@@ -1,30 +1,9 @@
 {
   "date": "2026-10-23",
-  "generated_at": "Fri 23 Oct 20:23",
+  "generated_at": "Fri 23 Oct 21:25",
   "stories": [
     {
       "rank": 1,
-      "title": "Blocchi dei tir: il governo corre ai ripari, 175 milioni contro il caro carburante",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "laverita.info",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.laverita.info/governo/aiuti-governo-caro-gasolio",
-        "https://www.laverita.info/governo/caro-gasolio-blocchi-napoli-tir",
-        "https://www.lastampa.it/economia/2026/10/23/news/blocco_tir_decreto_175_milioni_aiuti_precettazione-15774337/",
-        "https://www.repubblica.it/politica/2026/10/23/news/blocco_tir_si_decreto_175_milioni_meloni_no_intimidazioni-425668449/",
-        "https://ilmanifesto.it/protesta-dei-tir-arriva-il-contentino-ma-la-crisi-resta"
-      ]
-    },
-    {
-      "rank": 2,
       "title": "Terremoto Palermo, diverse scosse al largo delle Eolie: la più forte di magnitudo 5. Scuole evacuate e gente in strada nel capoluogo",
       "source_count": 6,
       "article_count": 9,
@@ -45,7 +24,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 2,
       "title": "Attacco al check point israeliano, 5 feriti. Netanyahu annuncia la 'chiusura totale' della Cisgiordania",
       "source_count": 5,
       "article_count": 7,
@@ -65,7 +44,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 3,
       "title": "Il padre di Meghan Markle indagato per pedopornografia, lei “sconvolta”",
       "source_count": 6,
       "article_count": 6,
@@ -86,7 +65,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 4,
       "title": "Uccide la fidanzata vicino a Varese e si costituisce in Abruzzo",
       "source_count": 5,
       "article_count": 6,
@@ -106,7 +85,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "Ucraina, Musk riaccende Starlink: ordine di Trump. Europa cerca un negoziatore per trattare con Putin",
       "source_count": 5,
       "article_count": 5,
@@ -126,7 +105,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Droghe, Meloni: stroncare traffici che rendono schiave le persone",
       "source_count": 5,
       "article_count": 5,
@@ -146,7 +125,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Tortona, bimba di 3 anni trovata morta in casa: arrestata la madre. La battaglia per l'affidamento",
       "source_count": 5,
       "article_count": 5,
@@ -166,7 +145,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Eni: 'Il tetto al prezzo per benzina e diesel proseguirà fino a fine anno'",
       "source_count": 5,
       "article_count": 5,
@@ -186,7 +165,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Apprensione in casa Bayern, malore per il tecnico Kompany: trasportato d'urgenza in ospedale",
       "source_count": 5,
       "article_count": 5,
@@ -203,6 +182,26 @@
         "https://www.liberoquotidiano.it/news/sport/49439050/bayern-monaco-mister-kompany-malore-durante-allenamento-trasportato-elicottero-ospedale/",
         "https://www.repubblica.it/sport/calcio/esteri/2026/10/23/news/kompany_bayern_monaco_collasso_ospedale-425670668/",
         "https://www.lastampa.it/sport/2026/10/23/news/kompany_allenatore_collassa_ricovero_ospedale_infezione_virale-15775218/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "La diplomazia di Melania Trump: mediata tregua tra Russia e Ucraina a Oleshky",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.repubblica.it/esteri/2026/10/23/news/guerra_in_ucraina_tregua_umanitaria_a_oleshky_melania_trump_e_merito_mio-425671261/",
+        "https://www.liberoquotidiano.it/news/esteri/49439079/melania-trump-ferma-putin-tregua-oleshky-come-ci-e-riuscita/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/23/casa-bianca-melania-trump-ottiene-una-tregua-fra-russia-e-ucraina_7390536b-7182-49ea-b68f-2faba023bbb2.html",
+        "https://www.ilfattoquotidiano.it/2026/10/23/tregua-oleshky-melania-trump-cessate-fuoco-guerra/8547815/",
+        "https://www.laverita.info/mondo/melania-tregua-russia-ucraina"
       ]
     }
   ]
