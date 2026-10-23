@@ -1,9 +1,51 @@
 {
   "date": "2026-10-23",
-  "generated_at": "Fri 23 Oct 00:02",
+  "generated_at": "Fri 23 Oct 11:24",
   "stories": [
     {
       "rank": 1,
+      "title": "Blocchi dei tir: il governo corre ai ripari, 175 milioni contro il caro carburante",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "laverita.info",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmanifesto.it",
+        "ansa.it",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.laverita.info/governo/aiuti-governo-caro-gasolio",
+        "https://www.laverita.info/governo/caro-gasolio-blocchi-napoli-tir",
+        "https://www.lastampa.it/economia/2026/10/23/news/blocco_tir_decreto_175_milioni_aiuti_precettazione-15774337/",
+        "https://www.repubblica.it/politica/2026/10/23/news/blocco_tir_si_decreto_175_milioni_meloni_no_intimidazioni-425668449/",
+        "https://ilmanifesto.it/protesta-dei-tir-arriva-il-contentino-ma-la-crisi-resta"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Terremoto Palermo, diverse scosse al largo delle Eolie: la più forte di magnitudo 5. Scuole evacuate e gente in strada nel capoluogo",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "palermo.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/terza-forte-scossa-di-terremoto-in-sicilia-magnitudo-5.0_81346d86-485c-4b00-88cd-aadc8e45e917.html",
+        "https://www.ilfattoquotidiano.it/2026/10/23/terremoto-palermo-sicilia-ultime-notizie/8547534/",
+        "https://palermo.repubblica.it/cronaca/2026/10/23/news/terremoto_a_palermo_in_atto_uno_sciame_sismico_scossa_avvertita_anche_in_provincia-425669681/",
+        "https://www.ilmessaggero.it/italia/terremoto_palermo_sicilia_eolie_scuole_evacuate_tirreno_meridionale_magnitudo_danni-9843866.html",
+        "https://www.lastampa.it/cronaca/2026/10/23/news/terremoto_palermo_dieci_scosse_scuole_uffici_evacuati-15774934/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Europa League: follia Maignan, il Milan affonda 3-0 con il Bournemouth",
       "source_count": 5,
       "article_count": 6,
@@ -23,7 +65,7 @@
       ]
     },
     {
-      "rank": 2,
+      "rank": 4,
       "title": "La Juve si ferma sul 2-2 con il Rennes, pareggio di cuore ma i problemi restano",
       "source_count": 5,
       "article_count": 6,
@@ -43,83 +85,10 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Blocco dei tir, sì al decreto: stanziati 105 milioni. Meloni: no a intimidazioni",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/10/23/news/blocco_tir_si_decreto_175_milioni_meloni_no_intimidazioni-425668449/",
-        "https://ilmanifesto.it/protesta-dei-tir-arriva-il-contentino-ma-la-crisi-resta",
-        "https://ilmanifesto.it/blocchi-degli-autotrasportatori-meloni-alza-la-voce-e-spera-che-bastino-le-minacce",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/22/il-cdm-approva-il-decreto-sugli-aiuti-105-milioni-per-i-tir-e-70-per_416e7ef3-b46a-4594-90dd-671b4eb1cc0e.html",
-        "https://www.ilmessaggero.it/economia/news/blocco_tir_sciopero_precettazione_aiuti_governo_fondi_ultime_notizie-9842372.html"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Nordio: “Arresti di minori, amplieremo le carceri”. Salvini: “Parà pronti a intervenire con i Lince”",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/politica/2026/10/23/news/nordio_minori_faremo_piu_carceri_opposizione_aberrante-425668430/",
-        "https://ilmanifesto.it/la-soluzione-di-nordio-alla-rabbia-giovanile-piu-galere-per-i-minori",
-        "https://www.ilfattoquotidiano.it/2026/10/22/nordio-carceri-minori-violenti-notizie/8546886/",
-        "https://www.lastampa.it/politica/2026/10/22/news/nordio_arresti_minori_ampliare_carceri_minorili-15773575/"
-      ]
-    },
-    {
       "rank": 5,
-      "title": "Macron punta il dito contro l’ultrasinistra per le violenze nei cortei",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/10/23/news/macron_manifestazioni_ultrasinistra_violenze_cortei-425668184/",
-        "https://ilmanifesto.it/macron-tra-divieti-e-accuse-allultragauche",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/22/in-francia-in-campo-anche-le-forze-speciali-per-le-proteste-di-sabato_f8293ea4-ba63-4186-945a-c280b6b467de.html",
-        "https://www.lastampa.it/esteri/2026/10/22/news/francia_oggi_manifestazioni_vietate_a_parigi_lione_lille_e_grenoble-15773675/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Migliorano liste d'attesa, ma 4 milioni di visite ed esami in ritardo",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ansa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://ilmanifesto.it/sanita-migliorano-le-liste-dattesa-ma-una-visita-urgente-su-cinque-arriva-in-ritardo",
-        "https://www.lastampa.it/cronaca/2026/10/23/news/liste_d_attesa_troppo_lunghe_lo_stato_non_da_risposte_a_50_milioni_di_visite_all_anno-15774297/",
-        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/10/22/migliorano-liste-dattesa-ma-4-milioni-di-visite-ed-esami-in-ritardo_dbb3d2bb-632b-4e3a-8663-0246e3bf9bde.html",
-        "https://www.repubblica.it/cronaca/2026/10/22/news/dati_agenas_classifica_lista_attesa_lunga-425666975/"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Quattro attiviste italiane fermate in Cisgiordania dall'Idf, la Farnesina chiede spiegazioni a Israele",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
@@ -127,6 +96,7 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/23/le-attiviste-italiane-fermate-in-cisgiordania-potrebbero-essere-espulse-gia-oggi_9b783e6a-ae93-41de-ab9b-63414f183e13.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/10/22/fermate-altre-attiviste-italiane-la-farnesina-chiede-chiarimenti-a-israele_b15e583e-19cd-4d3a-89f0-687591972967.html",
         "https://www.ilmessaggero.it/mondo/attiviste_italiane_arrestate_cisgiordania_israele_chi_sono_perche_cosa_e_successo-9842204.html",
         "https://www.ilfattoquotidiano.it/2026/10/22/cisgiordania-fermate-cinque-attiviste-italiane-la-farnesina-interviene-e-chiede-chiarimenti-urgenti-a-israele/8547000/",
@@ -134,7 +104,79 @@
       ]
     },
     {
+      "rank": 6,
+      "title": "Putin apre a un vertice con Trump e Zelensky: 'Ma il Donbass è storicamente russo'",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "lastampa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.lastampa.it/esteri/2026/10/23/diretta/guerra_russia_ucraina_news_oggi-15774673/",
+        "https://www.repubblica.it/esteri/2026/10/23/diretta/guerra_ucraina_russia_news_oggi-425668626/",
+        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-starlink-musk-trump_4kTsOUdd2ogNKXJFradEZC",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/22/putin-apre-a-un-vertice-con-trump-e-zelensky-ma-il-donbass-e-storicamente-russo_98c24b57-9871-4c38-bc42-2d378bac89ad.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "C’è stato un terremoto di magnitudo 7 in Tibet: sono morte almeno 16 persone",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ansa.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/23/terremoto-in-tibet-almeno-16-morti-e-65-feriti_3ea4cb1d-2c68-4bd5-997c-15f885f93a48.html",
+        "https://www.liberoquotidiano.it/news/libero-video/49436600/terremoto-di-magnitudo-7-in-tibet-soccorritori-al-lavoro/",
+        "https://www.lastampa.it/esteri/2026/10/23/video/terremoto_tibet_scaffali_merce_crolla-15774846/",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pZTUwSGlINkpydXliTGNNZ3BudnhRTF95Rk1jaUF3Sk5yQmd3UGNickZfZ05oS3BQSEZmZjdkTFZQVmx6cDhkVkUzNjM0QnRKNl9xRlNBQXVESFZmT2E0Z2g5dFRCM3ZSSWROdjF3?oc=5"
+      ]
+    },
+    {
       "rank": 8,
+      "title": "Blocchi stradali dei tir, rimossi in Campania: ancora molte stazioni di rifornimento chiuse",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/rimossi-nella-notte-i-blocchi-stradali-dei-tir-in-campania_fd94eea8-5def-4c2c-a53e-ef58e99b697f.html",
+        "https://www.repubblica.it/economia/2026/10/23/diretta/protesta_autotrasportatori_notizie_oggi_diretta-425668883/",
+        "https://www.lastampa.it/cronaca/2026/10/23/news/blocco_tir_campania_situazione-15774721/",
+        "https://ilmanifesto.it/a-napoli-torna-la-merce-sugli-scaffali-ma-i-benzinai-restano-ancora-a-secco"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Uccide la fidanzata vicino a Varese e si costituisce in Abruzzo",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/uccide-la-fidanzata-vicino-a-varese-e-si-costituisce-in-abruzzo_d59f3266-b325-4df0-9380-98ea552c009d.html",
+        "https://www.adnkronos.com/cronaca/omicidio-vergiate-donna-uccisa-uomo-fermato-avezzano_20Y5vHdmsaFc10GZye3KUk",
+        "https://www.ilmessaggero.it/abruzzo/uccide_compagna_vergiate_marco_panichi_si_consegna_avezzano-9843842.html",
+        "https://www.lastampa.it/cronaca/2026/10/23/news/femminicidio-varesotto-uccide-fidanzata-coltellate-fuga-abruzzo-costituito-15774908/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Scontri a Milano, chi sono e cosa faranno i 500 parà della Folgore. Salvini: «Possono intervenire con i Lince e i droni»",
       "source_count": 3,
       "article_count": 4,
@@ -148,38 +190,6 @@
         "https://www.ilmessaggero.it/italia/milano_alta_tensione_cortei_nordio_piu_carceri_minori_nodo_protezione_soldati-9842329.html",
         "https://www.laverita.info/governo/milano-militari-folgore-salvini",
         "https://www.ilmessaggero.it/italia/para_folgore_lince_droni_chi_sono_cosa_faranno_scontri_milano-9841690.html"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Guerra Ucraina - Russia, le news di oggi. “Telefonata di Trump a Musk per revocare i limiti di Starlink in Ucraina”. Ma Kiev smentisce",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "repubblica.it",
-        "adnkronos.com",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/10/23/diretta/guerra_ucraina_russia_news_oggi-425668626/",
-        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-starlink-musk-trump_4kTsOUdd2ogNKXJFradEZC",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/22/putin-apre-a-un-vertice-con-trump-e-zelensky-ma-il-donbass-e-storicamente-russo_98c24b57-9871-4c38-bc42-2d378bac89ad.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Cortina, Alberto Vacchi compra l’Hotel de la Poste: ospitò Hemingway, Fonda e “Vacanze di Natale”",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "bologna.repubblica.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/economia/news/famiglia_vacchi_compra_hotel_vacanze_natale_de_la_poste_cortina-9842310.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/10/22/la-famiglia-vacchi-compra-lhotel-de-la-poste-di-cortina-dampezzo_0e073d40-7cf5-43ce-8f9a-254fe62cf3f9.html",
-        "https://bologna.repubblica.it/cronaca/2026/10/22/news/hotel_de_la_poste_cortina_vacchi-425667586/"
       ]
     }
   ]
