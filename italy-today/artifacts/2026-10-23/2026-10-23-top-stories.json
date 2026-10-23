@@ -1,6 +1,6 @@
 {
   "date": "2026-10-23",
-  "generated_at": "Fri 23 Oct 11:24",
+  "generated_at": "Fri 23 Oct 16:53",
   "stories": [
     {
       "rank": 1,
@@ -27,21 +27,21 @@
       "rank": 2,
       "title": "Terremoto Palermo, diverse scosse al largo delle Eolie: la più forte di magnitudo 5. Scuole evacuate e gente in strada nel capoluogo",
       "source_count": 6,
-      "article_count": 6,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
+        "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "palermo.repubblica.it",
-        "ilmessaggero.it",
         "lastampa.it",
-        "agi.it"
+        "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/paura-per-scosse-di-terremoto-in-sicilia-scuole-e-uffici-evacuati_81346d86-485c-4b00-88cd-aadc8e45e917.html",
+        "https://www.ilmessaggero.it/schede/terremoto_palermo_oggi_scosse_tirreno_perche_placca_africana_euroasiatica_arco_calabro_cosa_succede-9844279.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/terza-forte-scossa-di-terremoto-in-sicilia-magnitudo-5.0_81346d86-485c-4b00-88cd-aadc8e45e917.html",
         "https://www.ilfattoquotidiano.it/2026/10/23/terremoto-palermo-sicilia-ultime-notizie/8547534/",
-        "https://palermo.repubblica.it/cronaca/2026/10/23/news/terremoto_a_palermo_in_atto_uno_sciame_sismico_scossa_avvertita_anche_in_provincia-425669681/",
-        "https://www.ilmessaggero.it/italia/terremoto_palermo_sicilia_eolie_scuole_evacuate_tirreno_meridionale_magnitudo_danni-9843866.html",
-        "https://www.lastampa.it/cronaca/2026/10/23/news/terremoto_palermo_dieci_scosse_scuole_uffici_evacuati-15774934/"
+        "https://palermo.repubblica.it/cronaca/2026/10/23/news/terremoto_a_palermo_in_atto_uno_sciame_sismico_scossa_avvertita_anche_in_provincia-425669681/"
       ]
     },
     {
@@ -66,9 +66,49 @@
     },
     {
       "rank": 4,
-      "title": "La Juve si ferma sul 2-2 con il Rennes, pareggio di cuore ma i problemi restano",
+      "title": "Attacco al check point israeliano, 5 feriti. Netanyahu annuncia la 'chiusura totale' della Cisgiordania",
       "source_count": 5,
       "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "laverita.info",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/23/attacco-al-check-point-israeliano-a-hebron-morti-due-soldati-feriti.-netanyahu_9ba2138b-09b6-4e76-8477-6a022b91575a.html",
+        "https://www.repubblica.it/esteri/2026/10/23/news/cisgiordania_attentato_hebron_netanyahu_reazione_israeliana-425670395/",
+        "https://www.liberoquotidiano.it/news/tv-news/49438038/netanyahu-annuncia-un-operazione-su-vasta-scala-in-cisgiordania/",
+        "https://www.laverita.info/mondo/cisgiordania-netanyahu-chiusura",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/23/attacco-al-check-point-israeliano-5-feriti.-netanyahu-annuncia-la-chiusura-totale-della_9ba2138b-09b6-4e76-8477-6a022b91575a.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Guerra Ucraina - Russia, le news di oggi. “Telefonata di Trump a Musk per revocare i limiti di Starlink in Ucraina”. Ma Kiev smentisce",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "lastampa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.lastampa.it/esteri/2026/10/23/diretta/guerra_russia_ucraina_news_oggi-15774673/",
+        "https://www.repubblica.it/esteri/2026/10/23/diretta/guerra_ucraina_russia_news_oggi-425668626/",
+        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-starlink-musk-trump_4kTsOUdd2ogNKXJFradEZC",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/22/putin-apre-a-un-vertice-con-trump-e-zelensky-ma-il-donbass-e-storicamente-russo_98c24b57-9871-4c38-bc42-2d378bac89ad.html",
+        "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vM3hwSlBHVURlOGJGTjRzdmFiQTZOck9fcVROU04yclcxa21lOUszbWt0UnlPQXFSYy1OQ21OQ1E0LU1PM2lJWTROdjJnVXRHRlM3LXVtR3YxdmZLeVpmLU9yY3diZ1Rjbm1yM2RB?oc=5"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Juve-Rennes 2-2, le pagelle dei bianconeri: Woltemade promosso, Gatti il peggiore",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
         "repubblica.it",
         "adnkronos.com",
@@ -85,111 +125,81 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Quattro attiviste italiane fermate in Cisgiordania dall'Idf, la Farnesina chiede spiegazioni a Israele",
-      "source_count": 4,
+      "rank": 7,
+      "title": "Tortona, bimba di 3 anni trovata morta in casa: arrestata la madre. La battaglia per l'affidamento",
+      "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/23/le-attiviste-italiane-fermate-in-cisgiordania-potrebbero-essere-espulse-gia-oggi_9b783e6a-ae93-41de-ab9b-63414f183e13.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/22/fermate-altre-attiviste-italiane-la-farnesina-chiede-chiarimenti-a-israele_b15e583e-19cd-4d3a-89f0-687591972967.html",
-        "https://www.ilmessaggero.it/mondo/attiviste_italiane_arrestate_cisgiordania_israele_chi_sono_perche_cosa_e_successo-9842204.html",
-        "https://www.ilfattoquotidiano.it/2026/10/22/cisgiordania-fermate-cinque-attiviste-italiane-la-farnesina-interviene-e-chiede-chiarimenti-urgenti-a-israele/8547000/",
-        "https://www.lastampa.it/esteri/2026/10/22/news/cisgiordania_fermate_attiviste_italiane_raccolta_olive-15774126/"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Putin apre a un vertice con Trump e Zelensky: 'Ma il Donbass è storicamente russo'",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "lastampa.it",
-        "repubblica.it",
-        "adnkronos.com",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/esteri/2026/10/23/diretta/guerra_russia_ucraina_news_oggi-15774673/",
-        "https://www.repubblica.it/esteri/2026/10/23/diretta/guerra_ucraina_russia_news_oggi-425668626/",
-        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-starlink-musk-trump_4kTsOUdd2ogNKXJFradEZC",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/22/putin-apre-a-un-vertice-con-trump-e-zelensky-ma-il-donbass-e-storicamente-russo_98c24b57-9871-4c38-bc42-2d378bac89ad.html"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "C’è stato un terremoto di magnitudo 7 in Tibet: sono morte almeno 16 persone",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
         "liberoquotidiano.it",
+        "torino.repubblica.it",
+        "ilmessaggero.it",
         "lastampa.it",
-        "news.google.com"
+        "agi.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/23/terremoto-in-tibet-almeno-16-morti-e-65-feriti_3ea4cb1d-2c68-4bd5-997c-15f885f93a48.html",
-        "https://www.liberoquotidiano.it/news/libero-video/49436600/terremoto-di-magnitudo-7-in-tibet-soccorritori-al-lavoro/",
-        "https://www.lastampa.it/esteri/2026/10/23/video/terremoto_tibet_scaffali_merce_crolla-15774846/",
-        "https://news.google.com/rss/articles/CBMibkFVX3lxTE9pZTUwSGlINkpydXliTGNNZ3BudnhRTF95Rk1jaUF3Sk5yQmd3UGNickZfZ05oS3BQSEZmZjdkTFZQVmx6cDhkVkUzNjM0QnRKNl9xRlNBQXVESFZmT2E0Z2g5dFRCM3ZSSWROdjF3?oc=5"
+        "https://www.liberoquotidiano.it/news/italia/49437854/tortona-bimba-3-anni-trovata-morta-casa-arrestata-madre/",
+        "https://torino.repubblica.it/cronaca/2026/10/23/news/bimba_morta_casa_tortona_alessandria_arrestata_madre-425669932/",
+        "https://www.ilmessaggero.it/italia/bimba_morta_tortona_uccisa_madre_ultime_notizie-9843969.html",
+        "https://www.lastampa.it/alessandria/2026/10/23/news/tragedia_tortona_mamma_uccide_figlioletta_3_anni-15774915/",
+        "https://www.agi.it/cronaca/news/2026-10-23/tortona-mamma-uccide-figlia-tre-anni-39676382/"
       ]
     },
     {
       "rank": 8,
-      "title": "Blocchi stradali dei tir, rimossi in Campania: ancora molte stazioni di rifornimento chiuse",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/rimossi-nella-notte-i-blocchi-stradali-dei-tir-in-campania_fd94eea8-5def-4c2c-a53e-ef58e99b697f.html",
-        "https://www.repubblica.it/economia/2026/10/23/diretta/protesta_autotrasportatori_notizie_oggi_diretta-425668883/",
-        "https://www.lastampa.it/cronaca/2026/10/23/news/blocco_tir_campania_situazione-15774721/",
-        "https://ilmanifesto.it/a-napoli-torna-la-merce-sugli-scaffali-ma-i-benzinai-restano-ancora-a-secco"
-      ]
-    },
-    {
-      "rank": 9,
       "title": "Uccide la fidanzata vicino a Varese e si costituisce in Abruzzo",
-      "source_count": 4,
-      "article_count": 4,
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
+        "milano.repubblica.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/uccide-la-fidanzata-vicino-a-varese-e-si-costituisce-in-abruzzo_d59f3266-b325-4df0-9380-98ea552c009d.html",
         "https://www.adnkronos.com/cronaca/omicidio-vergiate-donna-uccisa-uomo-fermato-avezzano_20Y5vHdmsaFc10GZye3KUk",
+        "https://milano.repubblica.it/cronaca/2026/10/23/news/accoltella_morte_fidanzata_vergiate_varese_scappa_abruzzo_femminicidio_costituito-425669568/",
         "https://www.ilmessaggero.it/abruzzo/uccide_compagna_vergiate_marco_panichi_si_consegna_avezzano-9843842.html",
         "https://www.lastampa.it/cronaca/2026/10/23/news/femminicidio-varesotto-uccide-fidanzata-coltellate-fuga-abruzzo-costituito-15774908/"
       ]
     },
     {
-      "rank": 10,
-      "title": "Scontri a Milano, chi sono e cosa faranno i 500 parà della Folgore. Salvini: «Possono intervenire con i Lince e i droni»",
-      "source_count": 3,
-      "article_count": 4,
+      "rank": 9,
+      "title": "Migliorano liste d'attesa, ma 4 milioni di visite ed esami in ritardo",
+      "source_count": 4,
+      "article_count": 5,
       "source_domains": [
-        "milano.repubblica.it",
-        "ilmessaggero.it",
-        "laverita.info"
+        "adnkronos.com",
+        "lastampa.it",
+        "ilmanifesto.it",
+        "ansa.it"
       ],
       "links": [
-        "https://milano.repubblica.it/cronaca/2026/10/23/news/sbarcati_milano_500_para_militari_sicurezza_sabato_salvini_crosetto_supporto-425668582/",
-        "https://www.ilmessaggero.it/italia/milano_alta_tensione_cortei_nordio_piu_carceri_minori_nodo_protezione_soldati-9842329.html",
-        "https://www.laverita.info/governo/milano-militari-folgore-salvini",
-        "https://www.ilmessaggero.it/italia/para_folgore_lince_droni_chi_sono_cosa_faranno_scontri_milano-9841690.html"
+        "https://www.adnkronos.com/salute/sanita-fism-risultati-su-liste-dattesa-in-miglioramento-ora-consolidare-i-progressi_15cQjUq2bBtQdHDIBgDg5V",
+        "https://www.lastampa.it/biella/2026/10/23/news/migliorano_le_liste_d_attesa_nel_2026_piu_visite_ed_esami_garantiti_nei_tempi_previsti-15775049/",
+        "https://ilmanifesto.it/sanita-migliorano-le-liste-dattesa-ma-una-visita-urgente-su-cinque-arriva-in-ritardo",
+        "https://www.lastampa.it/cronaca/2026/10/23/news/liste_d_attesa_troppo_lunghe_lo_stato_non_da_risposte_a_50_milioni_di_visite_all_anno-15774297/",
+        "https://www.ansa.it/canale_saluteebenessere/notizie/sanita/2026/10/22/migliorano-liste-dattesa-ma-4-milioni-di-visite-ed-esami-in-ritardo_dbb3d2bb-632b-4e3a-8663-0246e3bf9bde.html"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Scontri del 17 e 18 ottobre, perquisizioni della Digos in diverse città",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/49437862/polizia-di-stato-perquisizioni-delle-digos-in-varie-citta-italiane-a-seguito-delle-manifestazioni-del-17-e-del-18-ottobre/",
+        "https://www.liberoquotidiano.it/news/tv-news/49438584/dopo-cortei-e-caos-sequestri-e-perquisizioni-della-digos-in-18-citta-/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/23/scontri-del-17-e-18-ottobre-perquisizioni-della-digos-in-diverse-citta_c576aa3c-07aa-4c48-838f-2ac212b76996.html",
+        "https://www.lastampa.it/cronaca/2026/10/23/news/scontri_17_18_ottobre_perquisizioni_digos_identificati_minorenni-15774824/",
+        "https://www.ilsole24ore.com/art/scontri-17-e-18-ottobre-perquisizioni-digos-diverse-citta-AJjozMsB"
       ]
     }
   ]
