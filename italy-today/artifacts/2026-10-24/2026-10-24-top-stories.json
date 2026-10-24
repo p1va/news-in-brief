@@ -1,9 +1,50 @@
 {
   "date": "2026-10-24",
-  "generated_at": "Sat 24 Oct 10:43",
+  "generated_at": "Sat 24 Oct 14:29",
   "stories": [
     {
       "rank": 1,
+      "title": "Youssef Siher, 30 anni, giornalista freelance: chi è il sospettato per il Movimento 17 ottobre",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "laverita.info",
+        "milano.repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/youssef-siher-video-2023_6XQ3V0S25zAaStTjW58oba",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/chi-e-la-mente-del-movimento-17-ottobre-sarebbe-un-ricercatore-con-dottorato_7ea4ecc5-fc85-49fe-b151-c71e6855e75d.html",
+        "https://www.laverita.info/video/cronaca-video/origini-marocchine-e-pro-pal-chi-e-la-mente-dietro-al-movimento-17-ottobre",
+        "https://milano.repubblica.it/cronaca/2026/10/24/news/youssef_siher_ideatore_chat_movimento_17_ottobre_fermato-425672487/",
+        "https://www.adnkronos.com/cronaca/chi-e-ideatore-movimento-17-ottobre-giornalista_ihypbqMQkp7MYiZd95ufR"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Brucia il 'Nido dell'Aquila' di Hitler sulle Alpi, una persona fermata",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "laverita.info",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.laverita.info/mondo/incendio-hitler-alpi-bavaresi",
+        "https://www.liberoquotidiano.it/news/tv-news/49444844/il-nido-dell-aquila-va-a-fuoco-immagini-ex-rifugio-adolf-hitler/",
+        "https://www.repubblica.it/esteri/2026/10/24/news/germania_incendio_il_nido_dell_aquila_hitler_sulle_alpi_dove_pianifico_invasione_urss_fermato_un_uomo-425672332/",
+        "https://www.liberoquotidiano.it/news/esteri/49442688/germania-in-fiamme-il-nido-dell-aquila-di-hitler-una-persona-fermata-nessun-ferito/",
+        "https://www.lastampa.it/esteri/2026/10/24/video/incendio_nido_aquila_hitler_baviera_germania_kehlsteinhaus-15775822/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Agguato in Calabria, uccisa la moglie di un boss. Lui (Damiano Pepe) ferito gravemente",
       "source_count": 5,
       "article_count": 5,
@@ -23,26 +64,62 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "Cortei, oltre 150 perquisizioni a Milano e in altre 20 città. Oggi le nuove manifestazioni",
+      "rank": 4,
+      "title": "Elezioni Brasile, l'ultimo duello tv tra Bolsonaro e Lula prima del ballottaggio: lo scontro sulle «nove dita» e le scuse",
       "source_count": 4,
       "article_count": 5,
       "source_domains": [
+        "ilmessaggero.it",
         "ansa.it",
-        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/politica/sondaggio_lula_bolsonaro_ballottaggio_brasile_ultimissimi_dati-9846080.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/24/bolsonaro-chiede-scusa-per-un-insulto-sulle-9-dita-ma-la-rete-lo-punisce_8d9a75c9-1b80-407c-ab56-b9645d5090cc.html",
+        "https://www.lastampa.it/esteri/2026/10/24/news/bolsonaro_lula_nove_dita-15775806/",
+        "https://www.repubblica.it/esteri/2026/10/24/news/brasile_ultimo_duello_tv_prima_del_voto_bolsonaro_deride_lula_dai_con_una_mano_e_togli_con_9_dita-425671923/",
+        "https://www.ilmessaggero.it/mondo/elezioni_brasile_duello_tv_bolsonaro_lula_cosa_e_successo-9845685.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Legge di bilancio, Giorgetti: «Aspettiamo i margini Ue». E avverte: «La coperta è corta»",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "laverita.info",
+        "adnkronos.com",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.laverita.info/governo/manovra-2027-giorgetti-misure-mirate-margine-ue",
+        "https://www.adnkronos.com/economia/giorgetti-legge-bilancio-manovra_pwgGF22OUsJDuQGWoQ43W",
+        "https://www.lastampa.it/politica/2026/10/24/news/giorgetti_la_coperta_e_corta_pesano_materie_prime_e_tassi_sul_debito_attenzione_a_come_muoversi-15775831/",
+        "https://www.ilsole24ore.com/art/legge-bilancio-giorgetti-aspettiamo-margini-ue-e-avverte-la-coperta-e-corta-AJd3SVtB"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Cortei, oltre 150 perquisizioni a Milano e in altre 20 città. Oggi le nuove manifestazioni",
+      "source_count": 3,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
         "repubblica.it",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/oltre-150-perquisizioni-e-citta-blindate.-piantedosi-pronti-a-ogni-situazione_c947f80a-5c41-4c1b-bc3b-fe5603318029.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/cortei-oltre-150-perquisizioni-a-milano-e-in-altre-20-citta.-oggi-le-nuove-manifestazioni_c947f80a-5c41-4c1b-bc3b-fe5603318029.html",
-        "https://www.ilfattoquotidiano.it/cronaca/live-post/2026/10/24/proteste-italia-milano-manifestazioni-oggi-diretta-news/8548488/",
         "https://www.repubblica.it/cronaca/2026/10/24/diretta/cortei_manifestazioni_news_di_oggi-425672031/",
         "https://www.repubblica.it/cronaca/2026/10/24/news/manifestazioni_movimento_17_ottobre_piazze-425671218/",
         "https://www.ilsole24ore.com/art/polizia-oltre-150-perquisizioni-milano-e-monza-e-altre-20-citta-AJ1ZCStB"
       ]
     },
     {
-      "rank": 3,
+      "rank": 7,
       "title": "Lancette indietro, torna l’ora solare. Ma è un rito ignorato dal 70% del mondo",
       "source_count": 4,
       "article_count": 4,
@@ -60,117 +137,57 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Bolsonaro deride Lula nell’ultimo duello tv e lo chiama “Nove dita”. Domenica il ballottaggio",
+      "rank": 8,
+      "title": "MotoGP: Marc Marquez vince la sprint in Australia, sorpasso Mondiale su Martin",
       "source_count": 4,
       "article_count": 4,
       "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/24/bolsonaro-chiede-scusa-per-un-insulto-sulle-9-dita-ma-la-rete-lo-punisce_8d9a75c9-1b80-407c-ab56-b9645d5090cc.html",
-        "https://www.lastampa.it/esteri/2026/10/24/news/bolsonaro_lula_nove_dita-15775806/",
-        "https://www.repubblica.it/esteri/2026/10/24/news/brasile_ultimo_duello_tv_prima_del_voto_bolsonaro_deride_lula_dai_con_una_mano_e_togli_con_9_dita-425671923/",
-        "https://www.ilmessaggero.it/mondo/elezioni_brasile_duello_tv_bolsonaro_lula_cosa_e_successo-9845685.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Cisgiordania, rimpatriate le 5 italiane fermate: stanno bene",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/10/24/cisgiordania-attiviste-italiane-fermate-hebron-notizie/8548611/",
-        "https://www.ansa.it/sito/notizie/mondo/mediooriente/2026/10/24/farnesina-rimpatriate-le-cinque-italiane-fermate-in-cisgiordania_efc8cd4a-8403-4739-bcdf-6a0660124edc.html",
-        "https://www.adnkronos.com/internazionale/esteri/cisgiordania-italiane-fermate-rimpatriate_63jSl6Osi1C0TNCmFdqaUc",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/24/attiviste-italiane-espulse-da-israele.-atteso-il-rientro-in-italia_9b783e6a-ae93-41de-ab9b-63414f183e13.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "In manovra maxisconti fiscali a chi assume giovani e madri",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/10/24/il-sole-24-ore-ipotesi-dellaumento-della-maxideduzione-per-le-assunzioni-di-giovani-e-madri_45b46f2c-5aee-4eb4-8420-f23173e1f48e.html",
-        "https://www.repubblica.it/economia/2026/10/24/news/manovra_irpef_giovani_bonus-425671283/",
-        "https://www.ilsole24ore.com/art/in-manovra-maxisconti-fiscali-chi-assume-giovani-e-madri-AJMwsAtB"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Fonti Chigi, disponibilità Q8 a prorogare price cap",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "laverita.info",
-        "repubblica.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/geopolitica/energia-investimenti-e-difesa-il-viaggio-di-meloni-in-kuwait",
-        "https://www.repubblica.it/politica/2026/10/24/news/giorgia_meloni_emiro_q8_tetto_prezzo_della_benzina_diesel_tir-425671400/",
-        "https://www.ilsole24ore.com/art/fonti-chigi-disponibilita-q8-prorogare-price-cap-AJkl03sB"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Eni, i profitti oltre ogni tetto. Meloni e la diplomazia fossile",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/economia/2026/10/24/news/eni_proroga_tetto_carburanti_schlein_serve_legge-425671405/",
-        "https://ilmanifesto.it/eni-i-profitti-oltre-ogni-tetto-meloni-e-la-diplomazia-fossile",
-        "https://www.ilsole24ore.com/art/carburanti-eni-manterra-tetto-prezzi-gasolio-e-benzina-fino-fine-anno-AJDfUusB"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "MotoGP: Marc Marquez vince la sprint in Australia, sorpasso Mondiale su Martin",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
+        "liberoquotidiano.it",
         "ansa.it",
         "repubblica.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/sport/49442553/motogp_martin_cade_dramma_marquez_vede_mondiale/",
         "https://www.ansa.it/sito/notizie/sport/2026/10/24/australia-m.-marquez-vince-la-sprint-e-torna-in-testa-al-mondiale_67efd39e-7d7c-45fb-b445-4cf72bc868a4.html",
         "https://www.repubblica.it/sport/moto-gp/2026/10/24/news/martin_cade_frattira_polso_marquez_vince_sprint_australia_10_mondiale-425671808/",
         "https://www.lastampa.it/sport/2026/10/24/news/moto_gp_in_australia_marquez_vince_la_sprint_race_e_torna_in_testa_al_mondiale-15775626/"
       ]
     },
     {
-      "rank": 10,
-      "title": "Figc, Viscidi \"Giovani meno preparati tecnicamente, ripartire dai territori\"",
-      "source_count": 1,
+      "rank": 9,
+      "title": "Cortei, la tattica per sfondare i blocchi. Cancellate le chat “per non lasciare prove scritte”",
+      "source_count": 4,
       "article_count": 4,
       "source_domains": [
-        "liberoquotidiano.it"
+        "adnkronos.com",
+        "laverita.info",
+        "repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/pillole/49442016/lega-pro-marani-riforma-zola-per-valorizzare-i-giovani-e-rilanciare-i-vivai-/",
-        "https://www.liberoquotidiano.it/news/pillole/49442003/figc-viscidi-giovani-meno-preparati-tecnicamente-ripartire-dai-territori-/",
-        "https://www.liberoquotidiano.it/news/pillole/49441995/under-21-baldini-i-talenti-ci-sono-servono-dirigenti-che-credano-nei-giovani-/",
-        "https://www.liberoquotidiano.it/news/pillole/49441998/lnd_abete_piu_tecnica_e_creativita_per_far_crescere_i_giovani_/"
+        "https://www.adnkronos.com/cronaca/corteo-milano-kit-manifestante_BYRFicQoYC3INWQqO5VHu",
+        "https://www.laverita.info/video/chat-movimento-17-ottobre-istruzioni",
+        "https://www.repubblica.it/cronaca/2026/10/24/news/comunicazioni_criptate_depistaggi_protesta_modalita_rave-425671425/",
+        "https://www.lastampa.it/cronaca/2026/10/24/news/cortei_la_tattica_per_sfondare_i_blocchi_cancellate_le_chat_per_non_lasciare_prove_scritte-15775494/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Ragazzo ucciso al Parco Dora di Torino, si cerca l'assassino",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/10/24/accoltellamento-parco-dora-torino-notizie/8548665/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/24/accoltellato-e-ucciso-in-un-parco-a-torino-si-cerca-lassassino_d961397b-f849-4425-bda6-df6699d25766.html",
+        "https://www.lastampa.it/torino/2026/10/24/news/torino_giovane_accoltellato_muore_parco_dora_caccia_al_killer-15775567/",
+        "https://www.agi.it/cronaca/news/2026-10-24/ragazzo-ucciso-torino-assassino-39690358/"
       ]
     }
   ]
