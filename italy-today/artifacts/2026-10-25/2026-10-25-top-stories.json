@@ -1,13 +1,36 @@
 {
   "date": "2026-10-25",
-  "generated_at": "Sun 25 Oct 20:50",
+  "generated_at": "Sun 25 Oct 21:39",
   "stories": [
     {
       "rank": 1,
-      "title": "Atp Lione, Musetti batte Fritz 6-3, 6-4 in finale e vince un titolo dopo quattro anni",
-      "source_count": 6,
-      "article_count": 8,
+      "title": "Salvini riconfermato segretario della Lega: 'Dirò in Cdm basta soldi e armi all'Ucraina'",
+      "source_count": 7,
+      "article_count": 10,
       "source_domains": [
+        "ilmessaggero.it",
+        "laverita.info",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/politica/salvini_rieletto_segretario_lega_via_fondi_ucraina-9848242.html",
+        "https://www.laverita.info/governo/salvini-lega-voto",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-resta-leader-della-lega-ma-avverte-stop-armi-allucraina_bcf46509-0de0-4534-8ceb-a67876aeff8b.html",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49454635/salvini-confermato-segretario-lega-con-76-per-cento-abbraccio-con-sfidante-garavaglia-dopo-voto/",
+        "https://www.laverita.info/governo/salvini-segretario-lega"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Atp Lione, Musetti batte Fritz 6-3, 6-4 in finale e vince un titolo dopo quattro anni",
+      "source_count": 7,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
         "ansa.it",
         "repubblica.it",
         "ilmessaggero.it",
@@ -16,56 +39,15 @@
         "adnkronos.com"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/49454945/atp-lione-lorenzo-musetti-trionfa-in-finale-contro-taylor-fritz/",
         "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/25/musetti-torna-alla-vittoria-dopo-quattro-anni-e-fa-suo-il-torneo-di-lione_6f02948e-209f-4776-bd6f-f5a249a06116.html",
         "https://www.repubblica.it/sport/tennis/2026/10/25/news/musetti_fritz_finale_atp_lione_risultato-425674537/",
         "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/25/musetti-torna-alla-vittoria-dopo-4-anni-e-fa-suo-il-torneo-di-lione_6f02948e-209f-4776-bd6f-f5a249a06116.html",
-        "https://www.ilmessaggero.it/sport/tennis/musetti_lione_vince_torneo-9847938.html",
-        "https://www.ilfattoquotidiano.it/2026/10/25/musetti-fritz-trionfo-atp-lione-analisi-commento-risultato/8549563/"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Salvini riconfermato segretario della Lega: 'Dirò in Cdm basta soldi e armi all'Ucraina'",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "liberoquotidiano.it",
-        "laverita.info",
-        "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-resta-leader-della-lega-ma-avverte-stop-armi-allucraina_bcf46509-0de0-4534-8ceb-a67876aeff8b.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49454635/salvini-confermato-segretario-lega-con-76-per-cento-abbraccio-con-sfidante-garavaglia-dopo-voto/",
-        "https://www.laverita.info/governo/salvini-segretario-lega",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-riconfermato-segretario-della-lega-con-465-voti-contro-i-146_bcf46509-0de0-4534-8ceb-a67876aeff8b.html",
-        "https://www.adnkronos.com/politica/salvini-rieletto-segretario-lega_3jOpIORjDNZKvoopX3o2wc"
+        "https://www.ilmessaggero.it/sport/tennis/musetti_lione_vince_torneo-9847938.html"
       ]
     },
     {
       "rank": 3,
-      "title": "Il Brasile al voto, l'ultimo sondaggio: Bolsonaro in lieve vantaggio su Lula",
-      "source_count": 5,
-      "article_count": 7,
-      "source_domains": [
-        "repubblica.it",
-        "laverita.info",
-        "ansa.it",
-        "ilmanifesto.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/10/25/diretta/elezioni_brasile_ballottaggio_lula_bolsonaro_risultati_diretta-425674831/",
-        "https://www.laverita.info/geopolitica/ballottaggio-brasile-lula-bolsonaro-elezioni",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/25/il-brasile-al-voto-lultimo-sondaggio-bolsonaro-in-lieve-vantaggio-su-lula_56cc4597-7350-4738-9bed-c5925ac6574d.html",
-        "https://www.repubblica.it/esteri/2026/10/25/news/brasile_elezioni_ballottaggio_bolsonaro_lula_sondaggi-425673418/",
-        "https://ilmanifesto.it/brasile-appeso-a-un-filo-testa-a-testa-lula-bolsonaro"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Cancro allo stomaco avanzato, nuova terapia riduce del 42% il rischio di morte ﻿",
       "source_count": 3,
       "article_count": 9,
@@ -80,6 +62,27 @@
         "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/10/24/ansamelanoma-primo-vaccino-su-misura-riduce-rischio-recidiva-del-42_fe745f27-155f-4e78-ac1d-3704a0253305.html",
         "https://www.adnkronos.com/cronaca/cancro-seno-triplo-negativo-oncologa-fabi-nuove-opzioni-gia-dalla-prima-linea-di-cura_179smJzUmlYvMpt8sQl6qA",
         "https://www.adnkronos.com/cronaca/cancro-seno-triplo-negativo-oncologa-fabi-nuove-opzioni-gia-dalla-prima-linea-terapeutica_179smJzUmlYvMpt8sQl6qA"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Elezioni in Serbia, la Lista degli studenti fa la storia e batte il nazionalista filorusso Vucic",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "laverita.info",
+        "adnkronos.com",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.laverita.info/geopolitica/serbia-vucic-sconfitta-studenti",
+        "https://www.adnkronos.com/internazionale/esteri/serbia-lista-studenti-elezioni-vucic_3C1Pha1Hv2hjeumNj9Omos",
+        "https://www.repubblica.it/esteri/2026/10/25/news/elezioni_in_serbia_la_lista_degli_studenti_vince_contro_nazionalista_vucic-425675058/",
+        "https://www.ilfattoquotidiano.it/2026/10/25/elezioni-serbia-vucic-sconfitta-studenti-dichiarazioni/8549920/",
+        "https://www.lastampa.it/esteri/2026/10/25/news/serbia_vucic_riconosce_la_sconfitta_abbiamo_perso_le_elezioni-15776819/"
       ]
     },
     {
@@ -164,6 +167,25 @@
     },
     {
       "rank": 9,
+      "title": "Il Brasile al voto, l'ultimo sondaggio: Bolsonaro in lieve vantaggio su Lula",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "repubblica.it",
+        "laverita.info",
+        "ansa.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/esteri/2026/10/25/diretta/elezioni_brasile_ballottaggio_lula_bolsonaro_risultati_diretta-425674831/",
+        "https://www.laverita.info/geopolitica/ballottaggio-brasile-lula-bolsonaro-elezioni",
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/25/il-brasile-al-voto-lultimo-sondaggio-bolsonaro-in-lieve-vantaggio-su-lula_56cc4597-7350-4738-9bed-c5925ac6574d.html",
+        "https://www.repubblica.it/esteri/2026/10/25/news/brasile_elezioni_ballottaggio_bolsonaro_lula_sondaggi-425673418/",
+        "https://ilmanifesto.it/brasile-appeso-a-un-filo-testa-a-testa-lula-bolsonaro"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "La premio Nobel Machado torna in Venezuela dopo dieci mesi",
       "source_count": 5,
       "article_count": 5,
@@ -180,25 +202,6 @@
         "https://www.ilfattoquotidiano.it/2026/10/25/machado-ritorno-venezuela-esilio-notizie/8549819/",
         "https://www.adnkronos.com/internazionale/esteri/venezuela-machado-rientrata-esilio_1OIqngEYvQTM2SjjHxipeL",
         "https://www.repubblica.it/esteri/2026/10/25/news/venezuela_machado_sono_tornata_annuncio_leader_opposizione_dopo_un_anno_esilio-425674585/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "I ladri a casa di Alisson Santos, rubati orologi e gioielli",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "napoli.repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/i-ladri-a-casa-di-alisson-santos-rubati-orologi-e-gioielli_76ba3df2-749f-4e40-aabf-e6f022a901a9.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/ladri-in-casa-del-calciatore-del-napoli-allison-santos-rubati-gioielli_76ba3df2-749f-4e40-aabf-e6f022a901a9.html",
-        "https://www.ilfattoquotidiano.it/2026/10/25/furto-alisson-santos-napoli-giugliano-rubata-auto-gioielli-rolex/8549518/",
-        "https://www.ilmessaggero.it/italia/alisson_santos_furto_casa_auto_gioielli_orologio_valore_cosa_e_successo-9847787.html",
-        "https://napoli.repubblica.it/cronaca/2026/10/25/news/alisson_santos_furto_in_casa_giocatore_napoli_ladri_entrati_mentre_dormiva-425674169/"
       ]
     }
   ]
