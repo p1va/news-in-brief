@@ -1,67 +1,48 @@
 {
   "date": "2026-10-25",
-  "generated_at": "Sun 25 Oct 15:56",
+  "generated_at": "Sun 25 Oct 18:55",
   "stories": [
     {
       "rank": 1,
-      "title": "Corteo a Bologna, forti scontri tra manifestanti e polizia per le strade della città",
-      "source_count": 2,
-      "article_count": 12,
+      "title": "Atp Lione, Musetti batte Fritz 6-3, 6-4 in finale e vince un titolo dopo quattro anni",
+      "source_count": 6,
+      "article_count": 8,
       "source_domains": [
-        "liberoquotidiano.it",
-        "lastampa.it"
+        "ansa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/libero-video/49448851/corteo-a-bologna-forti-scontri-tra-manifestanti-e-polizia-per-le-strade-della-citta-/",
-        "https://www.liberoquotidiano.it/news/libero-video/49448850/corteo-a-roma-sassi-contro-gli-ingressi-della-stazione-termini/",
-        "https://www.liberoquotidiano.it/news/libero-video/49448856/roma-follia-manifestante-si-infila-sotto-camion-polizia-finisce-male/",
-        "https://www.lastampa.it/cronaca/2026/10/25/news/e_gli_attivisti_irrompono_al_colosseo_a_roma_qui_non_si_puo_torniamo_indietro-15776485/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49447183/manifestanti-a-roma-transennano-una-via-che-porta-al-colosseo/"
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/25/musetti-torna-alla-vittoria-dopo-quattro-anni-e-fa-suo-il-torneo-di-lione_6f02948e-209f-4776-bd6f-f5a249a06116.html",
+        "https://www.repubblica.it/sport/tennis/2026/10/25/news/musetti_fritz_finale_atp_lione_risultato-425674537/",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/25/musetti-torna-alla-vittoria-dopo-4-anni-e-fa-suo-il-torneo-di-lione_6f02948e-209f-4776-bd6f-f5a249a06116.html",
+        "https://www.ilmessaggero.it/sport/tennis/musetti_lione_vince_torneo-9847938.html",
+        "https://www.ilfattoquotidiano.it/2026/10/25/musetti-fritz-trionfo-atp-lione-analisi-commento-risultato/8549563/"
       ]
     },
     {
       "rank": 2,
-      "title": "Atp Lione, Musetti batte Fritz 6-3, 6-4 in finale e vince un titolo dopo quattro anni",
-      "source_count": 6,
-      "article_count": 6,
+      "title": "Cancro allo stomaco avanzato, nuova terapia riduce del 42% il rischio di morte ﻿",
+      "source_count": 3,
+      "article_count": 9,
       "source_domains": [
-        "ansa.it",
         "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
         "adnkronos.com",
-        "repubblica.it"
+        "ansa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/sport/tennis/2026/10/25/musetti-torna-alla-vittoria-dopo-4-anni-e-fa-suo-il-torneo-di-lione_6f02948e-209f-4776-bd6f-f5a249a06116.html",
-        "https://www.ilmessaggero.it/sport/tennis/musetti_lione_vince_torneo-9847938.html",
-        "https://www.ilfattoquotidiano.it/2026/10/25/musetti-fritz-trionfo-atp-lione-analisi-commento-risultato/8549563/",
-        "https://www.lastampa.it/sport/2026/10/25/news/musetti_fritz_finale_lione_250-15776622/",
-        "https://www.adnkronos.com/sport/tennis-atp-lione-musetti-vittoria-fritz-finale_2P2V9t6pkvGvyalmW6x1tR"
+        "https://www.ilmessaggero.it/salute/medicina/tumore_stomaco_scoperto_farmaco_cavallo_di_troia-9848018.html",
+        "https://www.adnkronos.com/cronaca/cancro-allo-stomaco-avanzato-nuova-terapia-riduce-del-42-il-rischio-di-morte_1K9CONRzjl729a0ij6UyMU",
+        "https://www.ansa.it/canale_saluteebenessere/notizie/focus_tumore/2026/10/24/ansamelanoma-primo-vaccino-su-misura-riduce-rischio-recidiva-del-42_fe745f27-155f-4e78-ac1d-3704a0253305.html",
+        "https://www.adnkronos.com/cronaca/cancro-seno-triplo-negativo-oncologa-fabi-nuove-opzioni-gia-dalla-prima-linea-di-cura_179smJzUmlYvMpt8sQl6qA",
+        "https://www.adnkronos.com/cronaca/cancro-seno-triplo-negativo-oncologa-fabi-nuove-opzioni-gia-dalla-prima-linea-terapeutica_179smJzUmlYvMpt8sQl6qA"
       ]
     },
     {
       "rank": 3,
-      "title": "\"Ora una notizia ve la do io\": Mentana lascia il Tg di La7",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "lastampa.it",
-        "laverita.info",
-        "ansa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/personaggi/49451932/enrico-mentana-vero-motivo-addio-la7-bomba-politica/",
-        "https://www.lastampa.it/alessandria/2026/10/25/video/mentana_lascia_il_tgla7_dopo_16_anni_lannuncio_a_sorpresa_il_23_dicembre_sara_lultimo-15776459/",
-        "https://www.laverita.info/televisione/mentana-lascia-la7",
-        "https://www.ansa.it/sito/notizie/cultura/2026/10/24/enrico-mentana-il-23-dicembre-mio-ultimo-giorno-di-conduzione-al-tg-de-la7_09ccd2c7-b3f8-4744-a931-d0fd61d82545.html",
-        "https://www.liberoquotidiano.it/news/personaggi/49446461/mentana-annuncio-sorpresa-mio-ultimo-giorno-tgla7/"
-      ]
-    },
-    {
-      "rank": 4,
       "title": "Il Brasile al voto, l'ultimo sondaggio: Bolsonaro in lieve vantaggio su Lula",
       "source_count": 5,
       "article_count": 6,
@@ -78,6 +59,26 @@
         "https://www.repubblica.it/esteri/2026/10/25/news/brasile_elezioni_ballottaggio_bolsonaro_lula_sondaggi-425673418/",
         "https://ilmanifesto.it/brasile-appeso-a-un-filo-testa-a-testa-lula-bolsonaro",
         "https://ilmanifesto.it/brasile-cinema-musica-sport-al-voto-con-la-l"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Salvini riconfermato segretario della Lega: 'Dirò in Cdm basta soldi e armi all'Ucraina'",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "laverita.info",
+        "ansa.it",
+        "adnkronos.com",
+        "lastampa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.laverita.info/governo/salvini-segretario-lega",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-riconfermato-segretario-della-lega-con-465-voti-contro-i-146_bcf46509-0de0-4534-8ceb-a67876aeff8b.html",
+        "https://www.adnkronos.com/politica/salvini-rieletto-segretario-lega_3jOpIORjDNZKvoopX3o2wc",
+        "https://www.adnkronos.com/politica/congresso-lega-voto-salvini-garavaglia-news_63Kpifa18nJr4AQ8AFd5rh",
+        "https://www.lastampa.it/politica/2026/10/25/news/congresso_lega_salvini_garavaglia_cosa_dicono-15776578/"
       ]
     },
     {
@@ -102,28 +103,28 @@
     },
     {
       "rank": 6,
-      "title": "Salvini riconfermato segretario della Lega: 'Dirò in Cdm basta soldi e armi all'Ucraina'",
+      "title": "Inter-Fiorentina 2-1, pagelle: Provedel (5,5) incerto sul gol, Thuram (7,5) salva i nerazzurri, Zielinski (7) raddoppia",
       "source_count": 4,
-      "article_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "repubblica.it"
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/10/25/salvini-riconfermato-segretario-della-lega-con-465-voti-contro-i-146_bcf46509-0de0-4534-8ceb-a67876aeff8b.html",
-        "https://www.adnkronos.com/politica/salvini-rieletto-segretario-lega_3jOpIORjDNZKvoopX3o2wc",
-        "https://www.adnkronos.com/politica/congresso-lega-voto-salvini-garavaglia-news_63Kpifa18nJr4AQ8AFd5rh",
-        "https://www.lastampa.it/politica/2026/10/25/news/congresso_lega_salvini_garavaglia_cosa_dicono-15776578/",
-        "https://www.repubblica.it/politica/2026/10/25/news/congresso_lega_giorgetti_critiche_salvini_garavaglia_voto-425674206/"
+        "https://www.ilfattoquotidiano.it/2026/10/25/inter-fiorentina-rigore-thuram-arbitri-pensano-che-simulo-chivu-dichiarazioni/8549774/",
+        "https://www.ilfattoquotidiano.it/2026/10/25/inter-fiorentina-serie-a-rimonta-vittoria-thuram-zielinski-nuova-classifica/8549483/",
+        "https://www.liberoquotidiano.it/news/sport/49452496/inter_folle_rimonta_dopo_90_thuram_zielinski_ribaltano_fiorentina_follia_valdepenas/",
+        "https://www.ilmessaggero.it/sport/schede/inter_fiorentina_pagelle_thuram_zielinski_barella_jimenez_de_gea_serie_a-9847846.html",
+        "https://www.ilmessaggero.it/sport/schede/inter_fiorentina_pagelle_thuram_zielinski_barella_jimenez_de_gea_serie_a_classifica-9847846.html"
       ]
     },
     {
       "rank": 7,
-      "title": "Alisson Santos, furto in casa per l'attaccante del Napoli: rubati gioielli e un orologio, i ladri scappano con la sua auto",
+      "title": "I ladri a casa di Alisson Santos, rubati orologi e gioielli",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
@@ -131,6 +132,7 @@
         "napoli.repubblica.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/i-ladri-a-casa-di-alisson-santos-rubati-orologi-e-gioielli_76ba3df2-749f-4e40-aabf-e6f022a901a9.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/ladri-in-casa-del-calciatore-del-napoli-allison-santos-rubati-gioielli_76ba3df2-749f-4e40-aabf-e6f022a901a9.html",
         "https://www.ilfattoquotidiano.it/2026/10/25/furto-alisson-santos-napoli-giugliano-rubata-auto-gioielli-rolex/8549518/",
         "https://www.ilmessaggero.it/italia/alisson_santos_furto_casa_auto_gioielli_orologio_valore_cosa_e_successo-9847787.html",
@@ -139,6 +141,25 @@
     },
     {
       "rank": 8,
+      "title": "Antonelli in pole a Austin davanti a Verstappen. Cosa serve a Kimi per vincere oggi il Mondiale",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/formula1/kimi_antonelli_campione_del_mondo_se_combinazioni_austin_posizioni_punti_cosa_succede-9847690.html",
+        "https://www.ilmessaggero.it/sport/schede/kimi_antonelli_campione_del_mondo_se_combinazioni_austin_cosa_deve_succedere_dove_vederlo_tv_streaming_orario_formula_1-9847690.html",
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/10/25/inarrestabile-kimi-si-prende-la-pole-ad-austin-voglio-vincere_e75bf53d-214a-44e7-9fae-da5ded693b7a.html",
+        "https://www.repubblica.it/sport/formulauno/2026/10/25/news/f1_gp_austin_2026_pole_kimi_antonelli_ferrari-425673588/",
+        "https://www.lastampa.it/sport/2026/10/25/news/gp_usa_pole_kimi_antonelli-15776351/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Obama lancia El-Sayed: “Parla come Roosevelt”. E attacca la Casa Bianca: “Incompetenti e corrotti”",
       "source_count": 4,
       "article_count": 4,
@@ -156,39 +177,21 @@
       ]
     },
     {
-      "rank": 9,
-      "title": "Antonelli in pole a Austin davanti a Verstappen. Cosa serve a Kimi per vincere oggi il Mondiale",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/sport/formula1/kimi_antonelli_campione_del_mondo_se_combinazioni_austin_posizioni_punti_cosa_succede-9847690.html",
-        "https://www.ansa.it/sito/notizie/sport/f1/2026/10/25/inarrestabile-kimi-si-prende-la-pole-ad-austin-voglio-vincere_e75bf53d-214a-44e7-9fae-da5ded693b7a.html",
-        "https://www.repubblica.it/sport/formulauno/2026/10/25/news/f1_gp_austin_2026_pole_kimi_antonelli_ferrari-425673588/",
-        "https://www.lastampa.it/sport/2026/10/25/news/gp_usa_pole_kimi_antonelli-15776351/"
-      ]
-    },
-    {
       "rank": 10,
-      "title": "La Lazio vola sempre più in alto: vetta solitaria per una notte, aspettando l’Inter",
+      "title": "\"Ora una notizia ve la do io\": Mentana lascia il Tg di La7",
       "source_count": 4,
       "article_count": 4,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
+        "liberoquotidiano.it",
         "lastampa.it",
-        "liberoquotidiano.it"
+        "laverita.info",
+        "ansa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/10/25/lazio-prima-classifica-difesa-notizie/8549515/",
-        "https://www.ilmessaggero.it/sport/schede/lazio_parma_pagelle_taylor_lontani_classifica_serie_a-9846540.html",
-        "https://www.lastampa.it/sport/2026/10/24/news/lazio_parma_gol_highlights-15776331/",
-        "https://www.liberoquotidiano.it/news/sport/49446766/la-lazio-non-si-ferma-piu-2-a-1-al-parma-gattuso-vola-in-vetta/"
+        "https://www.liberoquotidiano.it/news/personaggi/49451932/enrico-mentana-vero-motivo-addio-la7-bomba-politica/",
+        "https://www.lastampa.it/alessandria/2026/10/25/video/mentana_lascia_il_tgla7_dopo_16_anni_lannuncio_a_sorpresa_il_23_dicembre_sara_lultimo-15776459/",
+        "https://www.laverita.info/televisione/mentana-lascia-la7",
+        "https://www.ansa.it/sito/notizie/cultura/2026/10/24/enrico-mentana-il-23-dicembre-mio-ultimo-giorno-di-conduzione-al-tg-de-la7_09ccd2c7-b3f8-4744-a931-d0fd61d82545.html"
       ]
     }
   ]
