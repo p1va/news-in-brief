@@ -1,48 +1,47 @@
 {
   "date": "2026-10-26",
-  "generated_at": "Mon 26 Oct 12:42",
+  "generated_at": "Mon 26 Oct 19:12",
   "stories": [
     {
       "rank": 1,
       "title": "Brasile, Lula rieletto presidente. Bolsonaro contesta l'esito del voto",
-      "source_count": 7,
-      "article_count": 8,
+      "source_count": 6,
+      "article_count": 11,
       "source_domains": [
-        "ansa.it",
-        "laverita.info",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it",
         "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
         "ilmanifesto.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/mondo/brasile_come_ha_vinto_lula_circondato_paesi_trump_mappa_destra-9850104.html",
+        "https://www.ansa.it/sito/podcast/in_diretta_dal_mondo/2026/10/26/lula-trionfa-in-brasile-battuto-il-trumpiano-bolsonaro_16a94fd2-e629-4f8b-b19e-e9ff9ed93475.html",
+        "https://www.repubblica.it/esteri/2026/10/26/news/festa_popolo_lula_vittoria_elezioni_presidente_bolsonaro_non_rinuncero_mio_brasile-425676630/",
         "https://www.ansa.it/sito/notizie/mondo/2026/10/26/brasile-lula-rieletto-presidente.-bolsonaro-contesta-lesito-del-voto-_56cc4597-7350-4738-9bed-c5925ac6574d.html",
-        "https://www.laverita.info/video/mondo-video/bolsonaro-risultato-elezioni",
-        "https://www.liberoquotidiano.it/news/tv-news/49455991/brasile-lula-vince-in-rimonta-flavio-bolsonaro-contesta-il-voto/",
-        "https://www.repubblica.it/politica/rubriche/spin-off/2026/10/26/news/rimonta_lula_elezioni_brasile_come_social_tv-425675506/",
-        "https://www.lastampa.it/esteri/2026/10/26/news/brasile_lula_rieletto_presidente_bolsonaro_contestazione-15776907/"
+        "https://www.liberoquotidiano.it/news/tv-news/49455991/brasile-lula-vince-in-rimonta-flavio-bolsonaro-contesta-il-voto/"
       ]
     },
     {
       "rank": 2,
       "title": "Elezioni Serbia, Vucic sconfitto dopo 14 anni, vincono gli studenti",
       "source_count": 6,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
+        "repubblica.it",
         "ansa.it",
         "lastampa.it",
         "liberoquotidiano.it",
         "ilmessaggero.it",
-        "repubblica.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.repubblica.it/esteri/2026/10/26/news/movimento_studenti_serbia_chi_sono_pensilina_vucic-425676238/",
         "https://www.ansa.it/sito/videogallery/mondo/2026/10/26/vucic-sulla-sconfitta-elettorale-rivoluzione-sostenuta-da-alcuni-paesi-europei_11b8e952-7571-4407-97a2-7621eb9b6f36.html",
         "https://www.lastampa.it/esteri/2026/10/26/news/serbia_elezioni_studenti_vittoria_vucic_dopo_14_anni-15777258/",
         "https://www.ansa.it/sito/notizie/mondo/2026/10/25/gli-studenti-vincono-le-elezioni-in-serbia-lo-annuncia-lo-sconfitto-vucic_87f3828a-9352-4958-a756-d408a61a1bd3.html",
-        "https://www.ansa.it/sito/photogallery/primopiano/2026/10/26/esplode-la-festa-da-belgrado-a-rio-per-la-svolta-della-lista-studenti-in-serbia_fb8e8170-74e5-49e6-8064-b568c024145a.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49455997/elezioni-serbia-vucic-sconfitto-dopo-14-anni-vincono-gli-studenti/"
+        "https://www.ansa.it/sito/photogallery/primopiano/2026/10/26/esplode-la-festa-da-belgrado-a-rio-per-la-svolta-della-lista-studenti-in-serbia_fb8e8170-74e5-49e6-8064-b568c024145a.html"
       ]
     },
     {
@@ -68,6 +67,47 @@
     },
     {
       "rank": 4,
+      "title": "Sinner annuncia il ritorno in campo, giocherà il Six Kings Slam a fine dicembre",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/sport/2026/10/26/supertennis-sinner-giochera-il-six-kings-slam-a-fine-dicembre_670191b2-dc5a-4ba6-aa7d-326bc9344bcd.html",
+        "https://www.ilfattoquotidiano.it/2026/10/26/sinner-rientro-six-kings-slam-annuncio-data-quando/8550573/",
+        "https://www.repubblica.it/sport/tennis/2026/10/26/news/sinner_six_kings_slam_ritorno_in_campo-425676492/",
+        "https://www.liberoquotidiano.it/news/sport/49457413/sinner-torna-campo-annuncio-a-sorpresa-quando-dove-nuove-polemiche/",
+        "https://www.lastampa.it/sport/2026/10/26/news/sinner_partecipa_six_kings_slam-15777641/"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "Uccise moglie e figlia: chiesto l’ergastolo per Francis Kaufmann, il killer di Villa Pamphili",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/26/chiesto-lergastolo-per-il-killer-di-villa-pamphili_35b4295f-257f-4f1f-b71f-2cf634d14e9e.html",
+        "https://www.ilfattoquotidiano.it/2026/10/26/omicidio-villa-pamphili-kaufmann-ergastolo-notizie/8550651/",
+        "https://www.lastampa.it/cronaca/2026/10/26/news/uccise_moglie_e_figlia_chiesto_l_ergastolo_per_francis_kaufmann_il_killer_di_villa_pamphili-15778018/",
+        "https://www.adnkronos.com/cronaca/omicidi-villa-pamphili-pm-chiede-ergastolo-per-kaufmann_3GgcEzrCEhno3i6WuTQJ7I",
+        "https://www.ilsole24ore.com/art/villa-pamphili-chiesto-ergastolo-kaufmann-AJKHShuB"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Due giornate di squalifica per Allegri, salterà Monza e Juve",
       "source_count": 5,
       "article_count": 5,
@@ -87,100 +127,80 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "“Mi ricordo l’anno scorso, Antonelli per 9 gare senza punti e le critiche perché era troppo giovane”: parla Toto Wolff",
-      "source_count": 3,
-      "article_count": 4,
+      "rank": 7,
+      "title": "Ex Ilva, la procura chiede i domiciliari per Lucia Morselli e altri due",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it"
+        "ilmessaggero.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilsole24ore.com",
+        "agi.it"
       ],
       "links": [
-        "https://www.repubblica.it/sport/formulauno/2026/10/26/news/sinner_messaggio_antonelli_mondiale_f1-425675985/",
-        "https://www.liberoquotidiano.it/news/sport/49456056/kimi-antonelli-leclerc-verstappen-sfottono-chissa-che-condizioni/",
-        "https://www.ilfattoquotidiano.it/2026/10/26/mi-ricordo-lanno-scorso-antonelli-per-9-gare-senza-punti-e-le-critiche-perche-era-troppo-giovane-parla-toto-wolff/8550204/",
-        "https://www.liberoquotidiano.it/news/sport/49454207/kimi-antonelli-trionfa-anche-in-texas-mondiale-a-un-passo-cosa-manca/"
+        "https://www.ilmessaggero.it/italia/ex_ilva_inquinamento_lucia_morselli_alessandro_labile_francesco_astorri-9849834.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/26/ex-ilva-la-procura-chiede-i-domiciliari-per-lucia-morselli-e-altri-due_274cd5e7-da49-4369-92c0-c1216c25c981.html",
+        "https://www.lastampa.it/cronaca/2026/10/26/news/ex_ilva_taranto_inquinamento_arresto_lucia_morselli-15777509/",
+        "https://www.ilsole24ore.com/art/ex-ilva-taranto-picchi-benzene-presunta-truffa-chiesti-domiciliari-l-ex-ad-morselli-AJU2n6uB",
+        "https://www.agi.it/cronaca/news/2026-10-26/ilva-taranto-arrestata-morselli-39715706/"
       ]
     },
     {
-      "rank": 6,
-      "title": "Movimento 17 ottobre, chiesto il carcere per l'ideatore Youssef Siher. ​«Può sviluppare una strategia rivoluzionaria»",
-      "source_count": 3,
-      "article_count": 3,
+      "rank": 8,
+      "title": "Papa Leone, confermato il viaggio in America Latina: “Felice di poter tornare”",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
+        "ansa.it",
         "ilmessaggero.it",
-        "laverita.info",
+        "lastampa.it",
+        "repubblica.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilmessaggero.it/politica/movimento_17_ottobre_arresto_youssef_siher_perche-9849689.html",
-        "https://www.laverita.info/video/cronaca-video/youssef-siher-fermato-milano",
-        "https://www.ilsole24ore.com/art/movimento-17-ottobre-siher-accusato-terrorismo-genova-verifiche-possibili-legami-la-rete-hamas-AJvJlBuB"
+        "https://www.ansa.it/sito/notizie/politica/2026/10/26/confermato-il-viaggio-di-papa-leone-xiv-in-sudamerica_55c4d9bb-095c-4280-a0f9-37def648d271.html",
+        "https://www.ilmessaggero.it/vaticano/papa_leone_viaggio_sudamerica_date_vaticano_ultime_notizie-9849952.html",
+        "https://www.lastampa.it/cronaca/2026/10/26/news/il_papa_conferma_il_viaggio_in_uruguay_argentina_e_peru-15777897/",
+        "https://www.repubblica.it/cronaca/2026/10/26/news/il_papa_non_va_a_castel_gandolfo_prosegue_il_lavoro_rimanendo_in_vaticano-425676469/",
+        "https://www.ilsole24ore.com/art/papa-confermato-viaggio-sudamerica-6-17-novembre-AJOI4vuB"
       ]
     },
     {
-      "rank": 7,
-      "title": "Pallone d'Oro 2026, oggi la cerimonia: orario, candidati e dove vederla in tv",
-      "source_count": 3,
-      "article_count": 3,
+      "rank": 9,
+      "title": "Un Pallone d'oro mai così incerto: Kane, Yamal e Mbappé i favoriti. Come funziona e chi vota",
+      "source_count": 4,
+      "article_count": 5,
       "source_domains": [
+        "ilfattoquotidiano.it",
+        "repubblica.it",
         "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it"
+        "ilmessaggero.it"
       ],
       "links": [
+        "https://www.ilfattoquotidiano.it/sport-miliardi/live-post/2026/10/26/pallone-oro-2026-vincitore-classifica-kane-yamal-mbappe/8550736/",
+        "https://www.repubblica.it/sport/calcio/2026/10/26/diretta/pallone_oro_vincitore_diretta-425676943/",
         "https://www.adnkronos.com/sport/pallone-oro-2026-oggi-chi-vince-orario-dove-vederlo-tv-gratis-candidati_1EZ11dKXLjoAqGA1lINB1D",
         "https://www.ilmessaggero.it/schede/pallone_d_oro_dove_vederlo_candidati_notizie-9849441.html",
         "https://www.repubblica.it/sport/calcio/2026/10/26/news/pallone_oro_2026_favoriti_quote_come_funziona-425675646/"
       ]
     },
     {
-      "rank": 8,
-      "title": "Youssef Siher in carcere, 'aveva un progetto eversivo'. Indagata anche la moglie",
-      "source_count": 2,
-      "article_count": 4,
+      "rank": 10,
+      "title": "I pm chiedono il carcere per Youssef Siher: potrebbe attuare “una strategia rivoluzionaria”",
+      "source_count": 3,
+      "article_count": 6,
       "source_domains": [
         "ansa.it",
-        "milano.repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/10/26/prime-pagine-youssef-siher-in-carcere-aveva-un-progetto-eversivo_ea6b0eb5-512a-4361-86f0-4612a1106dc5.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/youssef-siher-in-carcere-aveva-un-progetto-eversivo.-indagata-anche-la-moglie_dde34ca0-69ba-4c10-86ed-1c191da76dca.html",
-        "https://milano.repubblica.it/cronaca/2026/10/25/news/youssef_siher_accuse_procura_progetto_eversivo_diffondere_terrore_contro_governo_movimento_17_ottobre-425675020/",
-        "https://milano.repubblica.it/cronaca/2026/10/25/news/sagia_hammoud_moglie_youssef_siher_chi_e_mediatrice_interculturale_movimento_17_ottobre-425674654/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Antonello Venditti operato a Roma: “Sta bene”. Non sono state rese note le cause dell’intervento",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "adnkronos.com",
-        "lastampa.it",
+        "milano.repubblica.it",
         "ilmessaggero.it"
       ],
       "links": [
-        "https://www.adnkronos.com/spettacoli/antonello-venditti-operato-concerti-come-sta-parole_6lZnVoCrWLNqcgFc8e5khH",
-        "https://www.lastampa.it/spettacoli/2026/10/26/news/antonello_venditti_operato_roma_intervento_riuscito-15777191/",
-        "https://www.ilmessaggero.it/persone/antonello_venditti_operato_intervento_chirurgico_come_sta_operazione_malattia-9848245.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Simonetta Matone lascia la Lega e passa Fi, 'contraria alle derive sovraniste'",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/10/26/simonetta-matone-lascia-la-lega-e-passa-fi-contraria-alle-derive-sovraniste_c9074ba4-7dad-4bba-a611-8827f1e4d624.html",
-        "https://www.ilfattoquotidiano.it/2026/10/26/salvini-il-day-after-della-riconferma-parte-male-matone-lascia-la-lega-e-va-in-forza-italia/8550256/",
-        "https://www.lastampa.it/politica/2026/10/26/news/simonetta_matone_lega_forza_italia-15777165/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/26/la-pm-di-milano-i-messaggi-di-siher-una-dichiarazione-di-guerra-continua_5905713b-d4ad-46ad-b182-9397b436d23b.html",
+        "https://milano.repubblica.it/cronaca/2026/10/26/news/youssef_siher_richiesta_convalida_fermo_strategia_rivoluzionaria-425676337/",
+        "https://www.ilmessaggero.it/politica/movimento_17_ottobre_arresto_youssef_siher_perche-9849689.html",
+        "https://www.ansa.it/sito/podcast/ansa_voice_daily/2026/10/26/prime-pagine-youssef-siher-in-carcere-aveva-un-progetto-eversivo_ea6b0eb5-512a-4361-86f0-4612a1106dc5.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/25/youssef-siher-in-carcere-aveva-un-progetto-eversivo.-indagata-anche-la-moglie_dde34ca0-69ba-4c10-86ed-1c191da76dca.html"
       ]
     }
   ]
