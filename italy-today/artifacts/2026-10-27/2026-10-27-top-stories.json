@@ -1,67 +1,131 @@
 {
   "date": "2026-10-27",
-  "generated_at": "Tue 27 Oct 11:59",
+  "generated_at": "Tue 27 Oct 18:03",
   "stories": [
     {
       "rank": 1,
       "title": "Mbappé scherza su Mao: la Cina gli revoca tre sponsorizzazioni",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 9,
       "source_domains": [
+        "liberoquotidiano.it",
         "adnkronos.com",
         "repubblica.it",
         "ansa.it",
         "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
         "ilmessaggero.it",
         "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/sport/49467851/kylian-mbappe-la-battuta-e-un-autogol-gli-sponsor-cinesi-lo-abbandonano/",
         "https://www.adnkronos.com/sport/mbappe-cina-mao-liga-real-madrid_4lPqWJuyjErD1a8Vsy4pqO",
         "https://www.repubblica.it/sport/calcio/2026/10/27/news/mbappe_battuta_meme_mao_cina_tre_sponsor_revocati-425678441/",
         "https://www.ansa.it/sito/notizie/sport/2026/10/27/battuta-di-mbappe-su-mao-la-cina-gli-toglie-gli-sponsor-e-la-tv-cancella-la-liga_ac247090-e3ab-4f71-a746-199c8a0ece99.html",
-        "https://www.ilfattoquotidiano.it/2026/10/27/mbappe-meme-mao-cina-aziende-lo-scaricano/8551093/",
-        "https://www.liberoquotidiano.it/news/tv-news/49464385/commenti-offensivi-su-mao-zedong-mbappe-perde-due-sponsor-cinesi/"
+        "https://www.ilfattoquotidiano.it/2026/10/27/mbappe-meme-mao-cina-aziende-lo-scaricano/8551093/"
       ]
     },
     {
       "rank": 2,
-      "title": "Attacchi hacker alla Camera: prese di mira caselle mail, anche quella di Meloni",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Brasile, media: 'Bolsonaro ha lasciato il Brasile ed è in volo per gli Stati Uniti'",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
-        "ilmessaggero.it",
         "ansa.it",
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "laverita.info",
+        "repubblica.it",
         "lastampa.it",
-        "ilsole24ore.com"
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/politica/attacco_hacker_camera_mail_giorgia_meloni_cosa_e_successo-9851861.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/10/27/attacchi-hacker-alla-camera-prese-di-mira-caselle-mail-anche-quella_8e6c4a5b-ef5b-42ed-ac4b-ede46bf891d9.html",
-        "https://www.lastampa.it/cronaca/2026/10/27/news/attacco_hacker_camera_meloni_montecitorio_mail-15779122/",
-        "https://www.ilsole24ore.com/art/attacchi-hacker-camera-prese-mira-caselle-mail-anche-quella-meloni-AJltydvB"
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/27/brasile-media-bolsonaro-ha-lasciato-il-brasile-ed-e-in-volo-per-gli-stati-uniti_bec521a5-35b6-4db4-91cf-30e166594cb9.html",
+        "https://www.adnkronos.com/internazionale/esteri/bolsonaro-fuga-brasile-usa-trump_5MZkd33TM1BrgiFp4QIlpw",
+        "https://www.ilfattoquotidiano.it/2026/10/27/flavio-bolsonaro-passaporto-annullato-fuga-notizie/8551765/",
+        "https://www.laverita.info/mondo/bolsonaro-fuga-argentina",
+        "https://www.repubblica.it/esteri/2026/10/27/news/brasile_elezioni_corte_suprema_indaga_fondi_esteri_campagna_bolsonaro_usa_fuga_argentina-425679205/"
       ]
     },
     {
       "rank": 3,
+      "title": "Attacchi hacker alla Camera: prese di mira caselle mail, anche quella di Meloni",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "laverita.info",
+        "lastampa.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.laverita.info/governo/attacco-informatico-camera-mail-meloni",
+        "https://www.lastampa.it/tech/2026/10/27/news/attacco_hacker_camera_mail_giorgia_meloni-15779425/",
+        "https://www.repubblica.it/politica/2026/10/27/news/attacco_hacker_oggi_camera_meloni_mail-425678582/",
+        "https://www.ilmessaggero.it/politica/attacco_hacker_camera_mail_giorgia_meloni_cosa_e_successo-9851861.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/27/attacchi-hacker-alla-camera-prese-di-mira-caselle-mail-anche-quella_8e6c4a5b-ef5b-42ed-ac4b-ede46bf891d9.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Elezioni in Israele, la diretta del voto: alle 12 affluenza al 31,5%. Netanyahu: “Andate a votare”",
-      "source_count": 4,
-      "article_count": 4,
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
         "ansa.it",
+        "laverita.info",
         "lastampa.it",
         "repubblica.it",
         "ilmanifesto.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/10/27/israele-al-voto-affluenza-record-alle-18-e-al-667.-appello-di-netanyahu-a-votare_a1c108b8-6cbb-4e8e-bbd7-353e896240bd.html",
+        "https://www.laverita.info/mondo/israele-netanyahu-eisenkot",
         "https://www.ansa.it/sito/notizie/mondo/2026/10/27/israele-al-voto.-laffluenza-alle-12-supera-il-31.-netanyahu-tentano-di-rubarci-le-elezioni_a1c108b8-6cbb-4e8e-bbd7-353e896240bd.html",
         "https://www.lastampa.it/esteri/2026/10/27/diretta/elezioni_israele_2026_diretta_risultati-15778872/",
-        "https://www.repubblica.it/esteri/2026/10/27/diretta/elezioni_israele_risultati_netanyahu_iran_in_diretta-425677690/",
-        "https://ilmanifesto.it/elezioni-netanyahu-punta-al-pareggio-per-sopravvivere"
+        "https://www.repubblica.it/esteri/2026/10/27/diretta/elezioni_israele_risultati_netanyahu_iran_in_diretta-425677690/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
+      "title": "Israele al voto, affluenza record e scontro sul voto arabo",
+      "source_count": 3,
+      "article_count": 6,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/49468736/israele-al-voto-deputato-arabo-israeliano-denuncia-ostacoli-nei-seggi/",
+        "https://www.liberoquotidiano.it/news/tv-news/49468536/israele-al-voto-affluenza-record-e-scontro-sul-voto-arabo/",
+        "https://www.repubblica.it/esteri/2026/10/27/news/voto_israele_elezioni_sondaggi_scenari_oggi-425678488/",
+        "https://www.liberoquotidiano.it/news/tv-news/49464611/israele-al-voto-a-kiryat-arba-si-teme-l-evacuazione-delle-colonie/",
+        "https://news.google.com/rss/articles/CBMidEFVX3lxTFBITGZ5SXVSNi02cl84azNRNjNwX1ozOHlGTGtFa0c2Z0NjdnVFUkl6bXRNT1dEejNQVExWNnJaS1BDX2dTM0I5ZG1NaGF0YWhSMlFxYkY2M1JkQW1jMFlnVFh6NU9aNDZyaHY3Z2dsbC0wWVI4?oc=5"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Manovra: pensioni, torna quota 100. Tredicesime detassate al 10-15%. Giorgetti: “Stasera chiudiamo”",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.laverita.info/governo/manovra-2027-23-5-miliardi-pensioni-fisco-bonus",
+        "https://www.ilfattoquotidiano.it/2026/10/27/manovra-2027-flat-tax-neoassunti-under-35-pensioni-notizie/8551487/",
+        "https://www.ilmessaggero.it/economia/news/bonus_mamme_lavoratrici_sgravi_due_figli_ultimissime_news-9852156.html",
+        "https://www.lastampa.it/economia/2026/10/27/news/manovra_2027_detassazione_tredicesime_irpef-15779443/",
+        "https://www.lastampa.it/economia/2026/10/27/news/manovra_tassa_giovani_assunzioni_novita-15778785/"
+      ]
+    },
+    {
+      "rank": 7,
       "title": "\"Non ci sono reati, non c'è terrorismo\": i legali di Siher dopo l'interrogatorio",
       "source_count": 4,
       "article_count": 4,
@@ -79,99 +143,56 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Israele al voto, a Kiryat Arba si teme l'evacuazione delle colonie",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/10/27/news/voto_israele_elezioni_sondaggi_scenari_oggi-425678488/",
-        "https://www.liberoquotidiano.it/news/tv-news/49464611/israele-al-voto-a-kiryat-arba-si-teme-l-evacuazione-delle-colonie/",
-        "https://news.google.com/rss/articles/CBMidkFVX3lxTE90a29nc0dmZGhJeTRlYUpWUGV1aFFHaHNKTzkxZnc2SENvYmE0b3NWTlBYdHcwTnJPUWpTLUVqdWZLNEQzLU9EaDRHREtGX3pia0FGWENYZ2hiUmVJSXhEQzFCT3pFdjU1WDZCSjUtdHlyY3dVSEE?oc=5"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Morte avvelenate, Berlino ottiene la proroga sulle analisi dei reperti: risultati a fine anno",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/27/morte-avvelenate-berlino-ottiene-la-proroga-sulle-analisi-dei-reperti-risultati_ec143ca5-e818-4fe3-8f27-1b1f6936e293.html",
-        "https://www.repubblica.it/cronaca/2026/10/27/news/ricina-cozze-avvelenate_campobasso-indagini-425678367/",
-        "https://www.ilmessaggero.it/italia/morte_avvelenate_cozze_spazzatura_addetto_rifiuti-9851745.html"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Brasile, la vittoria di Lula su Bolsonaro scuote i mercati: borsa giù fino al 17%, si svaluta il real sul dollaro",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "laverita.info",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.laverita.info/mondo/lula-brasile-crollo-borsa",
-        "https://www.repubblica.it/esteri/2026/10/27/news/brasile_in_festa_per_lula_ma_bolsonaro_non_s_arrende_voto_da_annullare-425677552/",
-        "https://www.ilmessaggero.it/economia/lula_brasile_crollo_borsa_dopo_vittoria_perche_cosa_succede-9850330.html"
-      ]
-    },
-    {
       "rank": 8,
-      "title": "Serbia, in decine di migliaia a Belgrado per la vittoria della lista studentesca",
-      "source_count": 3,
-      "article_count": 3,
+      "title": "Fakir, la perizia della Procura sull’autopsia: “Lo schiacciamento fu una concausa della morte”",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
         "ansa.it",
-        "repubblica.it",
-        "ilmanifesto.it"
+        "liberoquotidiano.it",
+        "bologna.repubblica.it",
+        "agi.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/videogallery/mondo/2026/10/27/serbia-in-decine-di-migliaia-a-belgrado-per-la-vittoria-della-lista-studentesca_062a5212-835a-4d0c-b517-fbf019b3d5c7.html",
-        "https://www.repubblica.it/esteri/2026/10/27/news/l_enigma_del_dopo_vucic_nella_serbia_degli_studenti_un_governo_di_professori-425677262/",
-        "https://ilmanifesto.it/serbia-per-ora-lobiettivo-e-minimo-bisogna-far-tornare-a-funzionare-il-paese"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/27/per-i-consulenti-del-pm-la-morte-di-fakir-ha-tre-concause_67fdb0f4-6e72-41d4-b8af-2d52b259663a.html",
+        "https://www.liberoquotidiano.it/news/italia/49468493/fakir-tre-concause-morte-42enne-cosa-emerge-relazione-consulenti-pm/",
+        "https://bologna.repubblica.it/cronaca/2026/10/27/news/fakir_morte_perizia_definitiva_autopsia_schiacciamento_concausa-425678751/",
+        "https://www.agi.it/cronaca/news/2026-10-27/fakir-schiacciamento-consulenti-39730376/"
       ]
     },
     {
       "rank": 9,
-      "title": "Scatta la tregua a Oleshky. I presidenti di Finlandia e Norvegia sentono Putin e Zelensky",
-      "source_count": 3,
-      "article_count": 3,
+      "title": "Mark Samson condannato all'ergastolo per l'omicidio dell'ex Ilaria Sula, il padre della vittima: «Giustizia è fatta»",
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
         "ansa.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "roma.repubblica.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/10/27/russia-annuncia-al-via-la-tregua-umanitaria-a-oleshky_dcbfe7fb-aeb2-4bf2-ab14-bce634a36c96.html",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49465186/guerra-ucraina-missili-russi-su-un-campus-a-kiev-un-morto-e-10-feriti-tregua-umanitaria-a-oleshky/",
-        "https://www.lastampa.it/esteri/2026/10/27/diretta/guerra_russia_ucraina_news_oggi-15778821/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/27/femminicidio-sula-condanna-allergastolo-per-samson_7d1a3db0-28e4-4400-b91f-2cd49cc08df4.html",
+        "https://www.ilfattoquotidiano.it/2026/10/27/femminicidio-ilaria-sula-samson-condannato-ergastolo-padre-giustizia-e-stata-fatta/8551768/",
+        "https://www.ilmessaggero.it/roma/metropoli/ilaria_sula_mark_samson_ergastolo-9852292.html",
+        "https://roma.repubblica.it/cronaca/2026/10/27/news/femminicidio_ilaria_sula_sentenza_mark_samson-425678748/"
       ]
     },
     {
       "rank": 10,
-      "title": "Kane vince il Pallone d'Oro, Putellas regina del calcio femminile",
+      "title": "Manovra, Giorgetti: Con Commissione Ue fatto progressi",
       "source_count": 3,
-      "article_count": 3,
+      "article_count": 4,
       "source_domains": [
-        "ilmessaggero.it",
+        "liberoquotidiano.it",
         "ansa.it",
-        "lastampa.it"
+        "repubblica.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/sport/calcio/harry_kane_moglie_chi_e_katie_goodland_storia_vita_privata-9851911.html",
-        "https://www.ansa.it/sito/notizie/sport/calcio/2026/10/27/kane-vince-il-pallone-doro-putellas-regina-del-calcio-femminile_510822b0-f4c0-4722-80ea-f0097bd53971.html",
-        "https://www.lastampa.it/sport/2026/10/26/news/pallone_d_oro_2026_kane-15778806/"
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49468714/ipotesi-contributo-da-4-5-miliardi-da-banche-in-manovra-giorgetti-faremo-quello-che-e-possibile/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49468712/manovra-giorgetti-con-commissione-ue-fatto-progressi/",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/27/giorgetti-la-manovra-in-consiglio-dei-ministri-domani-fatti-progressi-con-lue_af140783-af8a-47c0-b449-b638883598ac.html",
+        "https://www.repubblica.it/economia/2026/10/27/news/manovra_cdm_giorgetti_proposte_bilancio_ue-425678403/"
       ]
     }
   ]
