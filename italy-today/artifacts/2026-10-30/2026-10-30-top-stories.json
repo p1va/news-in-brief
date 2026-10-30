@@ -1,6 +1,6 @@
 {
   "date": "2026-10-30",
-  "generated_at": "Fri 30 Oct 22:18",
+  "generated_at": "Fri 30 Oct 22:59",
   "stories": [
     {
       "rank": 1,
@@ -65,9 +65,10 @@
     {
       "rank": 4,
       "title": "Maxi attacco hacker contro Binance, 'é il furto del secolo'",
-      "source_count": 6,
-      "article_count": 7,
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
@@ -76,36 +77,15 @@
         "news.google.com"
       ],
       "links": [
+        "https://ilmanifesto.it/hacker-contro-binance-il-piu-grande-furto-della-storia-63-miliardi-di-crypto",
         "https://www.ansa.it/sito/notizie/economia/2026/10/30/maxi-attacco-hacker-contro-binance-e-il-furto-del-secolo-_3aea9536-ba98-4317-b834-8d48a442e54e.html",
         "https://www.ilfattoquotidiano.it/2026/10/30/attacco-hacker-binance-miliardi-notizie/8555436/",
         "https://www.ansa.it/sito/notizie/economia/2026/10/30/piattaforma-crypto-binance-conferma-cyber-attacco-congelati-oltre-25-miliardi_3aea9536-ba98-4317-b834-8d48a442e54e.html",
-        "https://www.ilmessaggero.it/economia/news/bitcoin_furto_criptovalute_binance_corea_nord_attacco_hacker-9858338.html",
-        "https://www.repubblica.it/economia/2026/10/30/news/binance_furto_criptomonete_hacker_63_miliardi_dollari-425686413/"
+        "https://www.ilmessaggero.it/economia/news/bitcoin_furto_criptovalute_binance_corea_nord_attacco_hacker-9858338.html"
       ]
     },
     {
       "rank": 5,
-      "title": "Strage di Castel D'Azzano, tre carabinieri indagati per omicidio colposo. Nell'esplosione del casolare morirono tre militari",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/10/30/strage-castel-dazzano-ufficiali-indagati-notizie/8555856/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/strage-di-castel-dazzano-tre-carabinieri-indagati-per-omicidio-colposo_d5bcdaa5-d2d1-4763-86c0-c5150e144f46.html",
-        "https://www.ilmessaggero.it/italia/strage_castel_d_azzano_carabinieri_indagati_omicidio_esplosione_militari_morti_cosa_era_successo-9858915.html",
-        "https://www.repubblica.it/cronaca/2026/10/30/news/strage_castel_d_azzano_tre_carabinieri_indagati_omicidio_colposo-425687930/",
-        "https://www.liberoquotidiano.it/news/italia/49496090/strage-carabinieri-castel-d-azzano-tre-comandanti-arma-accusati-concorso-omicidio-colposo-plurimo/"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Papa Leone vota alle Midterm e spiazza il Vaticano: il Pontefice resta elettore americano nonostante le tensioni con Trump",
       "source_count": 6,
       "article_count": 6,
@@ -126,26 +106,27 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Inizia evacuazione umanitaria a Oleshky, Kiev e Mosca supervisionano",
-      "source_count": 4,
-      "article_count": 6,
+      "rank": 6,
+      "title": "Strage di Castel D'Azzano, tre carabinieri indagati per omicidio colposo",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
         "ansa.it",
+        "ilmessaggero.it",
         "repubblica.it",
-        "liberoquotidiano.it",
-        "lastampa.it"
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/30/fuga-da-oleshky-con-valigie-e-cani-ma-ce-chi-sceglie-di-restare_c0726186-7a55-4e09-a9c1-8bbb24635f55.html",
-        "https://www.repubblica.it/esteri/2026/10/30/news/ucraina_oleshky_civili_evacuati_lavrov_spacca_g20-425688600/",
-        "https://www.liberoquotidiano.it/news/tv-news/49497249/inizia-evacuazione-umanitaria-a-oleshky-kiev-e-mosca-supervisionano/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/10/30/mosca-e-kiev-iniziata-levacuazione-umanitaria-a-oleshky_c0726186-7a55-4e09-a9c1-8bbb24635f55.html",
-        "https://www.repubblica.it/esteri/2026/10/30/diretta/guerra_ucraina_russia_news_oggi-425685867/"
+        "https://www.ansa.it/sito/notizie/cronaca/2026/10/30/strage-di-castel-dazzano-tre-carabinieri-indagati-per-omicidio-colposo_d5bcdaa5-d2d1-4763-86c0-c5150e144f46.html",
+        "https://www.ilmessaggero.it/italia/strage_castel_d_azzano_carabinieri_indagati_omicidio_esplosione_militari_morti_cosa_era_successo-9858915.html",
+        "https://www.repubblica.it/cronaca/2026/10/30/news/strage_castel_d_azzano_tre_carabinieri_indagati_omicidio_colposo-425687930/",
+        "https://www.lastampa.it/cronaca/2026/10/30/news/castel_d_azzano_comandanti_carabinieri_indagati_omicidio-15783270/",
+        "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQmhCSWVaSDR3cEdqel92dFo4ZzdpUldPakZBN19taURNNmVHT1RqNXVmWlpvSWdJUEtUYUhtcmluemhCOXNYQWVLdmhxWVVmeG14YlB0ZVVVNVlUdkk4OWR0NDRkd25pOXhqMWxFSGJQallRbjJFZXBPalFORHBLd2tNakVOYzhxS1NMaUdvTE1JSlN4b1I1ZnQ5WEVsWEE?oc=5"
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Campo largo, i leader: «Il programma della coalizione entro novembre, primarie a febbraio»",
       "source_count": 5,
       "article_count": 5,
@@ -165,7 +146,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 8,
       "title": "Prove libere in Messico: Leclerc fa il miglior tempo davanti ad Antonelli (guarito dall’influenza)",
       "source_count": 4,
       "article_count": 5,
@@ -184,7 +165,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "Christa Pike parla per la prima volta dopo la fallita esecuzione: “Dolore nel corpo e nell’anima”",
       "source_count": 4,
       "article_count": 5,
@@ -200,6 +181,24 @@
         "https://www.ilmessaggero.it/mondo/christa_pike_parla_dopo_esecuzione_sento_dolore_ovunque-9858769.html",
         "https://www.repubblica.it/esteri/2026/10/30/news/prima_dichiarazione_pubblica_christa_pike_usa_fallita_esecuzione-425687524/",
         "https://www.lastampa.it/esteri/2026/10/30/news/christa_pike_fallita_esecuzione_iniezione_letale_tennessee-15783205/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Mattarella: tenore di vita cittadini aggredito da inflazione e salari che non crescono",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/i-salari-restano-al-palo-mattarella-mostra-cio-che-meloni-nasconde",
+        "https://www.ansa.it/sito/notizie/politica/2026/10/30/mattarella-il-tenore-di-vita-dei-cittadini-aggredito-da-inflazione-e-salari-che-non_fbf81388-8261-49c1-b8fb-51bac0327c85.html",
+        "https://www.ilmessaggero.it/politica/mattarella_inflazione_salari_cosa_ha_detto-9858377.html",
+        "https://www.ilsole24ore.com/art/mattarella-tenore-vita-cittadini-aggredito-inflazione-e-salari-che-non-crescono-AJZ356yB"
       ]
     }
   ]
