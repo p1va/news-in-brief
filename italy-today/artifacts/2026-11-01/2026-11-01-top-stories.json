@@ -1,6 +1,6 @@
 {
   "date": "2026-11-01",
-  "generated_at": "Sun 01 Nov 22:03",
+  "generated_at": "Sun 01 Nov 22:45",
   "stories": [
     {
       "rank": 1,
@@ -26,6 +26,26 @@
     },
     {
       "rank": 2,
+      "title": "Kimi Antonelli campione del mondo di Formula 1, un italiano 73 anni dopo Ascari: nessuno come lui, è il più giovane di sempre",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/antonelli-campione-formula-1-quanto-guadagna_7vzuTvlfL2mxBqe5oWcksV",
+        "https://www.ilfattoquotidiano.it/2026/11/01/antonelli-campione-il-piu-grande-sogno-italiano-e-stato-realizzato-grazie-ai-tedeschi/8555777/",
+        "https://www.ilfattoquotidiano.it/2026/11/01/antonelli-campione-mondo-f1-2026-notizie/8557180/",
+        "https://www.ilfattoquotidiano.it/2026/11/01/antonelli-campione-mondo-f1-2026-chi-e-storia-ritratto/8548785/",
+        "https://www.lastampa.it/sport/2026/11/01/news/kimi_antonelli_campione_mondo_20_anni_record_vettel-15785089/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Atletica: muore a 34 anni Ciara Mageean, irlandese oro agli Europei di Roma",
       "source_count": 6,
       "article_count": 6,
@@ -46,7 +66,7 @@
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "Gp Messico, Verstappen al comando e Antonelli terzo: così Kimi vincerebbe il Mondiale - Diretta",
       "source_count": 5,
       "article_count": 7,
@@ -58,15 +78,15 @@
         "repubblica.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/11/01/antonelli-fa-la-storia-in-messico-e-campione-del-mondo-73-anni-dopo-ascari_623e8e68-b9e6-4b58-abc1-674b8f0bc473.html",
         "https://www.ansa.it/sito/notizie/sport/f1/2026/11/01/stop-al-gp-per-lincidente-di-bottas-furia-di-hamilton-ai-box.-antonelli-a-un-passo-dal_623e8e68-b9e6-4b58-abc1-674b8f0bc473.html",
         "https://www.adnkronos.com/sport/diretta-gp-messico-antonelli-mondiale-formula-1-live_1SLBbppkxglradfcQgxPcB",
         "https://www.ilmessaggero.it/sport/formula1/live_gp_messico_diretta_antonelli_vince_campione_risultati_ferrari_hamilton_leclerc_ferrari-9862720.html",
-        "https://www.lastampa.it/sport/2026/11/01/news/formula_1_kimi_antonelli_citta_del_messico_devo_controllare_le_emozioni-15784665/",
-        "https://www.adnkronos.com/sport/formula-1-antonelli-campione-mondo-combinazionu-messico_6Yf37fP24Gc4fp7QnJcnXe"
+        "https://www.lastampa.it/sport/2026/11/01/news/formula_1_kimi_antonelli_citta_del_messico_devo_controllare_le_emozioni-15784665/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "Il piano di Eisenkot per scalzare Netanyahu: un governo con l’astensione di arabi e ultraortodossi",
       "source_count": 4,
       "article_count": 7,
@@ -85,7 +105,7 @@
       ]
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "Calcio di rigore revocato al Venezia, Como salvato. Cosa è successo",
       "source_count": 5,
       "article_count": 6,
@@ -105,7 +125,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "L'azzurro Crippa secondo nella Maratona di New York, vince lo svedese Almgren",
       "source_count": 5,
       "article_count": 6,
@@ -125,7 +145,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "Meloni: 'Concentrata a chiedere un altro mandato. Il Quirinale non è nei miei piani'",
       "source_count": 5,
       "article_count": 5,
@@ -145,7 +165,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "Marc Marquez domina a Sepang, il decimo Mondiale è ad un passo. Bezzecchi solo sesto",
       "source_count": 5,
       "article_count": 5,
@@ -165,7 +185,7 @@
       ]
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "Uomo di 62 anni ucciso ad Arezzo con un colpo alla testa nella notte di Halloween. C’è un fermato",
       "source_count": 5,
       "article_count": 5,
@@ -182,26 +202,6 @@
         "https://www.ilfattoquotidiano.it/2026/11/01/omicidio-arezzo-san-zeno-halloween-notizie/8556855/",
         "https://www.lastampa.it/cronaca/2026/11/01/news/ucciso_cranio_fracassato_arezzo_notte_halloween_omicidio-15784607/",
         "https://www.agi.it/cronaca/news/2026-11-01/arezzo-omicidio-buonfiglio-39812747/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Manovra, rivisti criteri aumenti stipendi dei magistrati: \"Legati a quelli degli altri dipendenti pubblici\"",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "adnkronos.com",
-        "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/giustizia/49505133/magistrati-stretta-governo-aumenti-stipendi-novita-/",
-        "https://www.adnkronos.com/economia/manovra-aumenti-stipendi-magistrati_MlITwSa3nb97Nk9dZF7TX",
-        "https://www.repubblica.it/economia/2026/11/01/news/manovra_stretta_sugli_aumenti_degli_stipendi_dei_magistrati-425691701/",
-        "https://www.lastampa.it/economia/2026/11/01/news/manovra_arriva_la_stretta_agli_aumenti_degli_stipendi_dei_magistrati-15784668/",
-        "https://www.ilsole24ore.com/art/magistrati-doppio-freno-spesa-stipendi-AJXQDI1B"
       ]
     }
   ]
