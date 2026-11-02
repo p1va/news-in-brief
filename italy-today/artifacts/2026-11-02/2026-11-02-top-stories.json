@@ -1,79 +1,151 @@
 {
   "date": "2026-11-02",
-  "generated_at": "Mon 02 Nov 15:23",
+  "generated_at": "Mon 02 Nov 23:28",
   "stories": [
     {
       "rank": 1,
-      "title": "Kimi o Andy, ritratto di un giovane italiano più veloce dei suoi sogni",
-      "source_count": 4,
-      "article_count": 10,
+      "title": "Attacchi hacker ai supermercati di Belgio, Svezia, Estonia e Lussemburgo: freezer a 50 gradi e negozi costretti a chiudere",
+      "source_count": 11,
+      "article_count": 16,
       "source_domains": [
-        "ansa.it",
-        "repubblica.it",
+        "ilmanifesto.it",
         "ilmessaggero.it",
+        "ansa.it",
+        "palermo.repubblica.it",
+        "adnkronos.com",
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "lastampa.it",
+        "ilsole24ore.com",
         "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/kimi-antonelli-campione-del-mondo-ora-e-anche-sul-presepe-napoletano_d4d29c0c-d9a8-4fe4-9529-d1385bed37ac.html",
-        "https://www.ansa.it/sito/notizie/sport/2026/11/02/la-stampa-estera-esalta-antonelli-peter-pan-con-riflessi-da-campione_da2bf412-8452-49a9-87f0-b6450ff2b7b2.html",
-        "https://www.ansa.it/sito/notizie/sport/2026/11/02/f1-la-prof-di-kimi-antonelli-kimi-campione-unemozione-grandissima_ef231d0d-59c9-4f0d-9c14-9a56cccc4ead.html",
-        "https://www.repubblica.it/sport/formulauno/2026/11/02/news/kimi_antonelli_f1_campione_del_mondo_chi_e-425692571/",
-        "https://www.repubblica.it/sport/formulauno/2026/11/02/news/f1_gp_messico_kimi_antonelli_commento-425692593/"
+        "https://ilmanifesto.it/in-tilt-i-congelatori-dei-supermercati-in-sei-paesi-europei",
+        "https://www.ilmessaggero.it/mondo/attacco_hacker_supermercati_cosa_c_e_dietro_filorussi_server_sono_europa-9864832.html",
+        "https://www.ilmessaggero.it/italia/attacco_hacker_frigoriferi_supermercati_italia_dove_quali_emilia_romagna_toscana_sicilia-9864820.html",
+        "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/supermercati-sotto-attacco-hacker-anche-in-italia-riunione-a-palazzo-chigi-con_5e6f0b27-05c9-468a-9004-087167137119.html",
+        "https://palermo.repubblica.it/cronaca/2026/11/02/news/hacker_supermercati_sicilia_attacco_le_notizie_frigo_congelatori-425694503/"
       ]
     },
     {
       "rank": 2,
-      "title": "A Ciampino le salme dei militari italiani morti in Bosnia: Mattarella ad accogliere i feretri",
-      "source_count": 6,
-      "article_count": 7,
+      "title": "Elicottero caduto in Bosnia, arrivate a Ciampino le salme dei militari italiani",
+      "source_count": 7,
+      "article_count": 9,
       "source_domains": [
         "ansa.it",
         "governo.it",
         "liberoquotidiano.it",
         "repubblica.it",
         "lastampa.it",
-        "news.google.com"
+        "news.google.com",
+        "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/in-italia-le-salme-dei-quattro-militari-morti-in-bosnia-al-celio-la-camera-ardente_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/atterrato-a-ciampino-laereo-con-le-salme-dei-militari-morti-in-bosnia_5d34d699-5dfe-4198-bff4-b4a4c9e4c0a9.html",
         "https://www.governo.it/it/articolo/elicottero-precipitato-bosnia-il-presidente-meloni-rende-omaggio-alle-vittime/33000",
         "https://www.liberoquotidiano.it/news/tv-news/49509141/mattarella-e-meloni-accolgono-le-salme-dei-4-militari-morti-in-bosnia/",
-        "https://www.liberoquotidiano.it/news/pillole/49508617/a-ciampino-l-omaggio-alle-salme-dei-4-militari-italiani-morti-in-bosnia/",
-        "https://www.repubblica.it/cronaca/2026/11/02/news/elicottero_caduto_bosnia_salme_militari_ciampino-425693463/"
+        "https://www.liberoquotidiano.it/news/pillole/49508617/a-ciampino-l-omaggio-alle-salme-dei-4-militari-italiani-morti-in-bosnia/"
       ]
     },
     {
       "rank": 3,
-      "title": "Ondata di attacchi hacker contro i supermercati di mezza Europa",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "Elezioni midterm Usa, Riotta \"Sfida aperta, non si escludono sorprese\"",
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
+        "adnkronos.com",
         "liberoquotidiano.it",
         "ilmessaggero.it",
-        "lastampa.it"
+        "ansa.it",
+        "repubblica.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/02/ondata-di-attacchi-hacker-contro-i-supermercati-di-mezza-europa_5e6f0b27-05c9-468a-9004-087167137119.html",
-        "https://www.ilfattoquotidiano.it/2026/11/02/attacchi-hacker-supermercati-europa-notizie/8557799/",
-        "https://www.liberoquotidiano.it/news/esteri/49508809/frigoriferi-a-50-gradi-tonnellate-di-cibo-da-buttare-cosa-sta-succedendo-in-questi-supermercati/",
-        "https://www.ilmessaggero.it/mondo/attacco_hacker_supermercati_europa_cosa_succede_freezer_svezia_estonia_belgio-9864227.html",
-        "https://www.lastampa.it/economia/2026/11/02/news/attacchi_hacker_ai_supermercati_frigoriferi_in_tilt_in_europa-15785626/"
+        "https://www.adnkronos.com/internazionale/esteri/elezioni-midterm-usa-ultimi-sondaggi-new-york-times_1vx0DKa9NeFJTZSpuyrTUm",
+        "https://www.liberoquotidiano.it/news/pillole/49511449/elezioni-midterm-usa-riotta-sfida-aperta-non-si-escludono-sorprese-/",
+        "https://www.ilmessaggero.it/mondo/sondaggi_midterm_ultimi_dati_democratici_repubblicani_trump-9864311.html",
+        "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/02/midterm-linflazione-del-carrello-della-spesa-e-il-caro-benzina-decidono-il-voto_c2e30d70-e66e-4abc-8f78-66b7907deed9.html",
+        "https://www.repubblica.it/esteri/2026/11/02/news/midterm_usa_ultimo_sondaggio_prima_del_voto_democratici_avanti_5_sfide_chiave_senato-425693622/"
       ]
     },
     {
       "rank": 4,
-      "title": "Cinema in lutto, è morta Erminia Manfredi: la moglie di Nino aveva 94 anni",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "È morta Nadia Santini, la chef tre stelle Michelin del ristorante “Dal Pescatore”",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "laverita.info",
+        "ansa.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.laverita.info/in-cucina/addio-nadia-santini-chef",
+        "https://www.ansa.it/canale_terraegusto/notizie/regioni/lombardia/2026/11/02/e-morta-nadia-santini-chef-tre-stelle-michelin-aveva-73-anni_7f59752d-0032-4379-8cde-b3a50b526d64.html",
+        "https://www.lastampa.it/cronaca/2026/12/02/news/nadia_santini_chef_pescatore_mantova_michelin-15785767/",
+        "https://www.ilfattoquotidiano.it/2026/11/02/e-morta-nadia-santini-la-chef-del-ristorante-dal-pescatore-prima-donna-italiana-a-ricevere-3-stelle-michelin-cosi-ha-fatto-la-storia-dellalta-cucina-italiana/8557768/",
+        "https://www.ilmessaggero.it/persone/nadia_santini_morta_chef_italiana_tre_stelle_michelin-9864258.html"
+      ]
+    },
+    {
+      "rank": 5,
+      "title": "'Khamenei autorizza a trattare con gli Usa'. Petrolio a picco",
+      "source_count": 6,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "adnkronos.com",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/02/iran-pronti-a-riaprire-hormuz-in-due-giorni-se-gli-usa-accettano-le-condizioni_f5315141-c840-4f45-89ca-066c867cee06.html",
+        "https://www.laverita.info/geopolitica/iran-khamenei-diplomazia-usa",
+        "https://www.ilfattoquotidiano.it/2026/11/02/iran-usa-khamenei-negoziati-notizie/8558071/",
+        "https://www.lastampa.it/economia/2026/11/02/news/ok_di_khamenei_a_trattare_con_gli_usa_petrolio_a_picco_-67-15785881/",
+        "https://www.adnkronos.com/internazionale/esteri/stretto-hormuz-iran-piano-usa_4KSOIuUeQAICHrJZwTVGjv"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Maltempo al Centro Sud, nevicate, allagamenti e scuole chiuse",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
         "adnkronos.com",
         "ilmessaggero.it",
         "ansa.it",
+        "repubblica.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/maltempo-allerta-oggi-3-novembre-2026_BB6lhicwFOucew9ZjQAv8",
+        "https://www.ilmessaggero.it/italia/scuole_chiuse_domani_3_novembre_maltempo_dove_elenco_comuni_allerta_meteo-9864751.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/maltempo-al-centro-sud-nevicate-allagamenti-e-scuole-chiuse_89bf9972-1692-4d72-95d7-ad0c9b4a5a3e.html",
+        "https://www.repubblica.it/cronaca/2026/11/02/news/maltempo_italia_allerta_meteo_calabria_puglia_abruzzo_molise-425693922/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/prima-neve-in-molise-allerta-gialla-della-protezione-civile_89bf9972-1692-4d72-95d7-ad0c9b4a5a3e.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Cinema in lutto, è morta Erminia Manfredi: la moglie di Nino aveva 94 anni",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ansa.it",
         "repubblica.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/persone/erminia_manfredi_moglie_nino_amore_tradimenti_figli_matrimonio-9864498.html",
         "https://www.adnkronos.com/spettacoli/morta-erminia-manfredi_urS5dhdCW8hGqGQILLsRc",
         "https://www.ilmessaggero.it/italia/erminia_ferrari_morta_nino_manfredi_moglie_malattia_eta-9864363.html",
         "https://www.ansa.it/sito/notizie/cultura/cinema/2026/11/02/e-morta-erminia-manfredi-vedova-di-nino-e-costumista_18953676-cafd-4617-9e78-fcca8af90610.html",
@@ -81,104 +153,58 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "È morta Nadia Santini, la chef tre stelle Michelin del ristorante “Dal Pescatore”",
+      "rank": 8,
+      "title": "Omicidio Pasolini, la Procura di Roma apre una nuova indagine",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/aperta-unindagine-sullomicidio-pasolini-ce-un-nuovo-testimone_2e7702e1-5765-4026-8a38-b781f3fd3a75.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/omicidio-pasolini-procura-roma-apre-nuova-indagine_2e7702e1-5765-4026-8a38-b781f3fd3a75.html",
+        "https://www.ilmessaggero.it/roma/ostia/pier_paolo_pasolini_indagine_nuova_roma-9863998.html",
+        "https://www.lastampa.it/cronaca/2026/11/02/news/omicidio_pier_paolo_pasolini_aperta_nuova_indagine-15785438/",
+        "https://news.google.com/rss/articles/CBMickFVX3lxTE1LaklRZkkzblM0bXo2QlpzRnphT1JjOW5GcmdwTTlwcG5qMTZfbzFZMDZGQm5mZUJ1U0Z0ZGo0T3dWeGpGOElwalZ1TzFiT0N0SllFbE9QXzFHWFB6QnVvMW9fQkRwM3gyNE84SWRfeTZOUQ?oc=5"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Identificate le due vittime italiane dell’incidente ferroviario in Spagna",
       "source_count": 4,
       "article_count": 4,
       "source_domains": [
         "ansa.it",
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/canale_terraegusto/notizie/regioni/lombardia/2026/11/02/e-morta-nadia-santini-chef-tre-stelle-michelin-aveva-73-anni_7f59752d-0032-4379-8cde-b3a50b526d64.html",
-        "https://www.ilfattoquotidiano.it/2026/11/02/e-morta-nadia-santini-la-chef-del-ristorante-dal-pescatore-prima-donna-italiana-a-ricevere-3-stelle-michelin-cosi-ha-fatto-la-storia-dellalta-cucina-italiana/8557768/",
-        "https://www.ilmessaggero.it/persone/nadia_santini_morta_chef_italiana_tre_stelle_michelin-9864258.html",
-        "https://www.lastampa.it/cronaca/2026/11/02/news/nadia_santini_morta_chef_tre_stelle_michelin-15785663/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/02/identificate-le-due-vittime-italiane-dellincidente-ferroviario-di-toledo-_ff2f24c6-eabc-4e8d-b16c-f02c4408dc60.html",
+        "https://www.repubblica.it/cronaca/2026/11/02/news/scontro_treni_toledo_vittime_italiane_millan_parlanti_conte_grant-425693138/",
+        "https://www.lastampa.it/esteri/2026/11/02/news/incidente_treni_spagna_identificate_vittime_italiane-15785303/",
+        "https://news.google.com/rss/articles/CBMihAFBVV95cUxQUzlwbzFaYnJuR0E3ekJfOXVILW4takRueW9UeFdtVXZ1V3hVbmdvT3FfcEVtSl9ibUpyNV9rZDZEVHFKcVl0alVFZlRGZ2h3N25DbFFHbmVyMEd2MDZld2xqT2dCNDZaVEVuLXhjazQyXzUwd2lreENJSzJhaXk3MW1MOEo?oc=5"
       ]
     },
     {
-      "rank": 6,
-      "title": "Usa, jet privato con a bordo 9 persone si schianta in Florida: una dashcam riprende il momento dell'impatto",
+      "rank": 10,
+      "title": "Aereo privato precipita nel sud della Florida, il momento dell'impatto",
       "source_count": 4,
       "article_count": 4,
       "source_domains": [
         "liberoquotidiano.it",
         "ansa.it",
         "ilmessaggero.it",
-        "news.google.com"
+        "lastampa.it"
       ],
       "links": [
         "https://www.liberoquotidiano.it/news/libero-video/49509153/usa-jet-privato-con-a-bordo-9-persone-si-schianta-in-florida-una-dashcam-riprende-il-momento-dell-impatto/",
         "https://www.ansa.it/sito/videogallery/mondo/2026/11/02/aereo-privato-precipita-nel-sud-della-florida-il-momento-dellimpatto_10403121-e8d3-467d-91f5-3b7e96003dc4.html",
         "https://www.ilmessaggero.it/mondo/jet_privato_cade_florida_palm_beach-9863832.html",
-        "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8xaEkzT2hteThjYlJMVFdKcmgtSTAzLTFDWXZfT3hiTU9oQ0NtQmJCZFUzRkM3RUFPWTc2WXVqeFZiYklhYzcwRmQ3OUtLSlRjZXlhUExaVDFkWFpMbEplTUM0cUNkZWc?oc=5"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Elezioni Usa, i mercati si preparano all’America “anatra zoppa”: “Rischi sui Big Tech”",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/02/midterm-linflazione-del-carrello-della-spesa-e-il-caro-benzina-decidono-il-voto_c2e30d70-e66e-4abc-8f78-66b7907deed9.html",
-        "https://www.repubblica.it/esteri/2026/11/02/news/elezioni_usa_i_mercati_si_preparano_all_america_anatra_zoppa-425692930/",
-        "https://www.lastampa.it/esteri/2026/11/02/news/midterm-trump-conseguenze-repubblicani-democratici-presidenziali-2028-15785152/",
-        "https://www.repubblica.it/commenti/2026/11/02/news/midterm_i_dubbi_su_trump_anatra_zoppa_o_scatenata-425692483/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Identificate le due vittime italiane dell’incidente ferroviario in Spagna",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/02/identificate-le-due-vittime-italiane-dellincidente-ferroviario-di-toledo-_ff2f24c6-eabc-4e8d-b16c-f02c4408dc60.html",
-        "https://www.repubblica.it/cronaca/2026/11/02/news/scontro_treni_toledo_vittime_italiane_millan_parlanti_conte_grant-425693138/",
-        "https://www.lastampa.it/esteri/2026/11/02/news/incidente_treni_spagna_identificate_vittime_italiane-15785303/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "L’aeroporto di Capodichino è la sua casa, la storia di Daniel come Tom Hanks nel film “The Terminal”",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "napoli.repubblica.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/daniel-come-tom-hanks-in-the-terminal-da-settimane-vive-a-capodichino_a67fa977-85d6-49e7-9283-22c8b5458a57.html",
-        "https://www.ilmessaggero.it/italia/aeroporto_capodichino_daniel_svedese_come_tom_hanks-9863860.html",
-        "https://napoli.repubblica.it/cronaca/2026/11/02/news/come_tom_hanks_in_the_terminal_il_mistero_dello_svedese_smemorato_che_vive_a_capodichino-425692256/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Pasolini, la Procura di Roma riapre le indagini sulla morte: “Nuovi elementi”. E spunta un testimone",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/11/02/omicidio-pasolini-procura-roma-apre-nuova-indagine_2e7702e1-5765-4026-8a38-b781f3fd3a75.html",
-        "https://www.ilmessaggero.it/roma/ostia/pier_paolo_pasolini_indagine_nuova_roma-9863998.html",
-        "https://www.lastampa.it/cronaca/2026/11/02/news/omicidio_pier_paolo_pasolini_aperta_nuova_indagine-15785438/"
+        "https://www.lastampa.it/esteri/2026/11/02/video/florida_jet_privato_incidente_aereo_dashcam-15785168/"
       ]
     }
   ]
