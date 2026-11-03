@@ -14,138 +14,236 @@ No previous episode found.
 <clustered_headlines>
 # Coverage Pulse - 2026-11-03
 
-## 1. A Ciampino le salme dei militari italiani morti in Bosnia: Mattarella ad accogliere i feretri
+## 1. Elezioni di Midterm, aprono i seggi sulla East Coast
 
-> **Context:** Presenti anche Meloni, Tajani, Crosetto
-
-- **Il Sole Ventiquattro Ore**: Elicottero caduto in Bosnia, Mattarella e Meloni domani ai funerali dei militari morti Ad accogliere i feretri all’aeroporto di Ciampino il presidente della Repubblica, la premier, il ministro della Difesa, Guido Crosetto e il ministro degli Esteri Antonio Tajani
-- **La Repubblica**: La carezza di Mattarella per i quattro militari precipitati in Bosnia Il ritorno delle bare avvolte nel tricolore. I parenti: “Amavano la pace”. A Roma esequie solenni nella basilica di Santa Maria degli Angeli
-- **La Stampa**: A Ciampino le salme dei militari italiani morti in Bosnia: Mattarella ad accogliere i feretri Presenti anche Meloni, Tajani, Crosetto
-- **ANSA**: In Italia le salme dei quattro militari morti in Bosnia, al Celio la camera ardente Mattarella e Meloni a Ciampino con i familiari delle vittime. Martedì i funerali
-- **Il Post**: Sono stati riportati in Italia i corpi dei quattro militari morti nell'incidente dell'elicottero precipitato in Bosnia Erzegovina 
-- **Il Messaggero**: Elicottero​ caduto in Bosnia, a Ciampino l'aereo con le salme dei quattro militari italiani. L'omaggio di Mattarella Prima il rombo dei motori, poi il silenzio. Quello che neppure il pianto riesce a spezzare. Sono le 12.13 quando il C130 dell'Aeronautica militare atterra sulla pista di Ciampino. È...
-- **Governo Italiano - Comunicati Stampa**: Elicottero precipitato in Bosnia, il Presidente Meloni rende omaggio alle vittime Il Presidente del Consiglio, Giorgia Meloni, insieme al Presidente della Repubblica Sergio Mattarella, al Ministro della Difesa Guido Crosetto, e al Vice Presidente del Consiglio e Ministro degli Affari Esteri e della Cooperazione Internazionale, Antonio Tajani, ha accolto all'Aeroporto militare di Ciampino i feretri dei quattro militari italiani caduti nell'incidente avvenuto il 29 ottobre in Bosnia.
-
-
-## 2. Attacco hacker ai supermercati, in Italia in tilt i frigo in Emilia, Toscana e Sicilia. Casi denunciati in 9 paesi
-
-> **Context:** Il sabotaggio striscia e prende forma con frigoriferi in tilt, a 50 gradi, l'intento è depauperare gli approvvigionamenti, costringendo a buttare tonnellate di cibo. L'ultima...
-
-- **Il Sole Ventiquattro Ore**: Cyberattacchi alla catena del freddo: colpite due aziende italiane, allerta Acn Un’impresa toscana della ristorazione collettiva e un’azienda emiliana dei surgelati sono finite nel mirino. L’Agenzia per la cybersicurezza nazionale rafforza il monitoraggio e convoca Gdo e operatori della filiera alimentare
-- **La Repubblica**: Oltre 10 supermercati hackerati in Sicilia, temperature alle stelle in banchi frigo e congelatori Punti vendita colpiti a Palermo, Catania e Ragusa. Al lavoro la polizia postale. L’attacco uguale a quello europeo. Bucati i firewall di protezione
-- **La Stampa**: Attacchi hacker ai supermercati, colpita anche l'Italia. Convocata una riunione a Palazzo Chigi Sistemi di refrigerazione in tilt in Europa per la seconda volta in un mese. Francia, Belgio, Svezia e Lussemburgo i Paesi più colpiti finora. Temperature, passate da -28 a oltre 50 gradi con danni milionari ai cibi conservati. Colpiti supermercati anche in Sicilia
-- **ANSA**: Supermercati sotto attacco hacker anche in Italia, riunione a Palazzo Chigi con l'Intelligence Il sottosegretario Mantovano vedrà anche l'Agenzia per la Cybersicurezza dopo i casi in Sicilia. Problemi in Belgio, Svezia e altri Paesi. Tonnellate di cibo a rischio
-- **Adkronos**: "Freezer guasti, manomessi dagli hacker": gli attacchi in Toscana, Emilia Romagna e Sicilia Si sospetta che possano essere gli stessi che hanno colpito i supermercati di mezza Europa. Martedì riunione a Palazzo Chigi per fare il punto su quanto accaduto. Copasir verso richiesta di informazioni al governo
-- **Il Post**: Ci sono malfunzionamenti anche in supermercati italiani, probabilmente dovuti ad attacchi informatici 
-- **Il Post**: Ci sono stati nuovi attacchi informatici contro i supermercati europei 
-- **Il Messaggero**: Attacco hacker ai supermercati, cosa c'è dietro? Blitz preparato da tempo. Pista filorussa, ma i server sono nell’Ue Il sospetto è che si tratti di un attacco raffinato e coordinato, studiato nei dettagli per creare il caos, sfruttando falle nella sicurezza che, con un intervento semplice da parte di...
-- **Il Messaggero**: Attacco hacker ai supermercati, in Italia in tilt i frigo in Emilia, Toscana e Sicilia. Casi denunciati in 9 paesi Il sabotaggio striscia e prende forma con frigoriferi in tilt, a 50 gradi, l'intento è depauperare gli approvvigionamenti, costringendo a buttare tonnellate di cibo. L'ultima...
-- **Il Messaggero**: Cyber attacco ai freezer dei supermercati, gli hacker italiani: «Alcuni sistemi non hanno nemmeno la password, ecco quali sono i rischi» Migliaia di frigoriferi industriali spenti, cibo inutilizzabile e migliaia di euro di danni. È accaduto prima in Francia, Belgio e Olanda a metà ottobre con oltre 150 negozi colpiti....
-
-
-## 3. Un’onda blu contro Trump
-
-> **Context:** Negli Stati uniti oggi si vota per le elezioni di medio termine: in gioco c’è il rinnovo di tutti i 435 seggi della Camera dei Rappresentanti e di circa un […] The post Un’onda blu contro Trump first appeared on il manifesto.
-
-- **La Repubblica**: Dai parlamentari ai governatori, tutte le cariche in gioco alle midterm Usa L’election day di domani è la somma di molte consultazioni diverse: per il Congresso, si rinnovano tutti i 435 seggi della Camera dei Rappresentanti e 35 seggi su 100 del Senato. Ma si voterà anche per molte altre cariche locali
-- **La Stampa**: Midterm, la sfida nella sfida: così i partiti possono uscire stravolti dal voto Il 3 novembre l'America va alle urne per le elezioni di Midterm e rinnovare il Congresso di Washington. I democratici credono nella possibilità di infliggere una dura sconfitta ai repubblicani di Trump e conquistare Camera e Senato, mentre Trump guida il tentativo di rimonta del Partito repubblicano. In gioco non c'è solo il numero dei seggi ma anche l'identità, tanto dei repubblicani quanto dei democratici. L'analisi di Maurizio Molinari
 - **ANSA**: Su ANSA.it il voto di midterm, i risultati in diretta, notizie, foto e video Approfondimenti dai corrispondenti delle redazioni di Washington e New York, dati, storie e curiosità delle elezioni
-- **Il Manifesto**: Un’onda blu contro Trump Negli Stati uniti oggi si vota per le elezioni di medio termine: in gioco c’è il rinnovo di tutti i 435 seggi della Camera dei Rappresentanti e di circa un […] The post Un’onda blu contro Trump first appeared on il manifesto.
-- **Il Messaggero**: Elezioni Midterm, Usa oggi alle urne: dem favoriti, affluenza verso il record. Trump non molla: «Abbiamo fatto cose incredibili» L’America va alle urne per il verdetto di metà mandato su Donald Trump, e il paradosso è che l’uomo che domina queste elezioni sulla scheda non c’è. Ci sono...
+- **La Repubblica**: Midterm Usa, il voto come punizione per il presidente: i precedenti che spaventano Trump Spesso il partito del presidente in carica perde seggi in parlamento perché finisce quasi sempre per deludere le aspettative, ma anche motivazioni e circostanze particolari possono influire sul voto, come la Grande Depressione degli anni Trenta o l’attacco all’America dell’11 settembre 2001
+- **La Repubblica**: Elezioni midterm Usa, news. Milioni alle urne, aperti i primi seggi. Trump: “Vinceremo” L’election day di oggi per rinnovare tutti i 435 seggi della Camera dei Rappresentanti e 35 seggi su 100 del Senato, insieme a cariche locali
+- **La Repubblica**: Sondaggi midterm Usa, gli ultimi dati: “Possibile l’onda dem” Le rilevazioni indicano una netta ascesa dei progressisti che potrebbero riprendersi entrambi i rami del Congresso. Sull’esito l’ombra delle contestazioni preannunciate da Trump
+- **La Stampa**: Usa, seggi aperti in 9 Stati: è un referendum su Trump / La guida al voto: orari e luoghi Il presidente attacca i democratici: «Falsi candidati, vi rovineranno» Le elezioni di metà mandato per il rinnovo del congresso. Primi risultati a partire dalla mezzanotte italiana
+- **ANSA**: Midterm, l'America al voto: lunghe code ai seggi in Georgia, New York, Michigan e Pennsylvania. LA DIRETTA La mappa delle elezioni, un referendum su Trump. Per i sondaggi i dem avanti negli Stati chiave
+- **Il Post**: Le elezioni di metà mandato negli Stati Uniti, in diretta col Post 
+- **Il Post**: È il giorno delle elezioni di metà mandato negli Stati Uniti 
+- **La Verità**: L’America al voto di midterm: ecco quando si chiuderanno i seggi nei 50 Stati Usa Si voterà in sei fusi orari diversi. Boom delle schede anticipate negli Stati decisivi per il Senato. Trump seguirà lo spoglio alla Casa Bianca. L'articolo L’America al voto di midterm: ecco quando si chiuderanno i seggi nei 50 Stati Usa proviene da La Verità.
+- **Libero**: Elezioni di Midterm, aprono i seggi sulla East Coast 
+- **Il Messaggero**: Midterm 2026, a che ora (italiana) chiudono i seggi e quando arriveranno i risultati: la guida Stato per Stato Gli Stati Uniti vanno al voto per le elezioni di metà mandato, le cosiddette midterm 2026, un appuntamento che cade a metà del mandato presidenziale e rappresenta un primo importante...
+- **Il Messaggero**: Midterm 2026, cosa succede in caso di vittoria netta dei Democratici? I rischi per Trump (tra politica estera e interna) Sono ore decisive quelle che precedono l'esito del voto delle elezioni midterm negli Stati Uniti. Dai risultati che si otterranno dipenderà il futuro dell'amministrazione...
+- **ANSA**: Midterm, l'America al voto: seggi aperti in tutti gli Usa. Primo risultato: Guam ai repubblicani LA DIRETTA La mappa delle elezioni, un referendum su Trump. Il tycoon in trincea teme l'onda blu: 'Se stufi di me farò il premier in Israele'. Il maltempo ostacola il voto nel sud-ovest
+- **Il Post**: Quando sapremo i risultati delle elezioni di metà mandato negli Stati Uniti 
+- **Libero**: Usa, milioni di cittadini al voto in attesa del “verdetto” su Trump 
+- **Libero**: Elezioni di Midterm Usa, voci dal Texas tra timori e speranze 
+- **Libero**: Midterm, urne aperte anche sulla West Coast. Il voto a Los Angeles 
+- **Il Messaggero**: Midterm 2026, perché Trump rischia di diventare “un’anatra zoppa” e cosa può succedere con la vittoria dei democratici L'esito di queste midterm potrebbe condannare Donald Trump a un destino da "anatra zoppa", come viene solitamente descritta nel gergo polito anglo-americano, il momento in cui il...
+- **La Repubblica**: Quando si sapranno i risultati delle midterm 2026: guida ora per ora alla notte elettorale Con margini ampi i risultati potrebbero essere chiari già durante la notte di mercoledì. Se invece gli equilibri dipenderanno da circoscrizioni contese potrebbe essere necessario attendere giorni
+- **Adkronos**: Elezioni midterm Usa 2026, chiudono i primi seggi: exit poll e risultati Oltre 230 milioni gli elettori chiamati alle urne per rinnovare tutti i 435 seggi della Camera dei Rappresentanti e 35 dei 100 seggi del Senato
+- **Il Fatto Quotidiano**: Elezioni Midterm Usa 2026: i risultati in diretta. Chiusi i primi seggi in Indiana e Kentucky L'articolo Elezioni Midterm Usa 2026: i risultati in diretta. Chiusi i primi seggi in Indiana e Kentucky proviene da Il Fatto Quotidiano.
+- **Il Messaggero**: Midterm, 2026, a che ora arrivano i risultati e dove vedere la maratona in tv. Molti Stati in bilico Midterm 2026, la guida al voto con gli orari di chiusura dalla costa est staunitense a quella ovest e gli Stati in bilico. Le prime risposte arriveranno dopo la mezzanotte italiana, ma per capire...
 
 
-## 4. È morta Nadia Santini, chef tre stelle Michelin
+## 2. Caso Garlasco: la Procura di Pavia chiede processo per Andrea Sempio
 
-> **Context:** Prima italiana a conquistare il massimo riconoscimento. Nel 2013 era stata eletta miglior chef donna al mondo
+> **Context:** La Procura di Pavia chiede il processo per Andrea Sempio indagato per l’omicidio aggravato dalla crudeltà e dai motivi abietti di Chiara Poggi, uccisa a Garlasco il 13 agosto 2007....
 
-- **La Stampa**: Addio a Nadia Santini, ecco perché è stata considerata per 30 anni la migliore chef d’Italia Il lascito della prima donna che ha ricevuto (e non ha mai perso) tre stelle Michelin “Dal Pescatore” nel Mantovano
-- **ANSA**: È morta Nadia Santini, chef tre stelle Michelin Prima italiana a conquistare il massimo riconoscimento. Nel 2013 era stata eletta miglior chef donna al mondo
-- **Il Post**: È morta Nadia Santini, la prima chef italiana a ottenere le tre stelle Michelin 
-- **La Verità**: Addio a Nadia Santini, la prima donna con tre stelle Michelin Nadia Santini aveva 72 anni ed era il cuore del ristorante «Il Pescatore». Fu la prima donna con tre stelle Michelin, per lei cucinare non era mettere in tavola ma un dono. L'articolo Addio a Nadia Santini, la prima donna con tre stelle Michelin proviene da La Verità.
-- **Il Messaggero**: Morta Nadia Santini, storica chef di "Dal Pescatore" a Runate (e prima italiana con 3 stelle Michelin) Il mondo dell'alta cucina italiana perde una delle sue protagoniste più importanti. Nadia Santini, storica chef del ristorante "Dal Pescatore" di Runate, in provincia di...
-
-
-## 5. Elezioni midterm Usa, per i sondaggi sarà onda blu senza precedenti: ma fino a che punto ci si può fidare?
-
-> **Context:** Il New York Times: "Spesso gli elettori di Trump tendono a non rispondere ai sondaggi"
-
-- **La Repubblica**: Midterm, ultimo sondaggio prima del voto: democratici avanti in 5 sfide chiave del Senato L’atteso rilevamento del New York Times: vantaggio consistente per El-Sayed in Michigan e Talarico in Texas
-- **Adkronos**: Elezioni midterm Usa, per i sondaggi sarà onda blu senza precedenti: ma fino a che punto ci si può fidare? Il New York Times: "Spesso gli elettori di Trump tendono a non rispondere ai sondaggi"
-- **Il Post**: Perché queste elezioni di metà mandato sono così importanti 
-- **Il Messaggero**: Midterm, la "sinistra religiosa" sfida la destra cristiana. Il «voto di Dio» non è più un'esclusiva dei repubblicani Il «voto di Dio» negli Stati Uniti non è più un'esclusiva dei repubblicani. Alla vigilia delle elezioni di metà mandato, i democratici tentano di incrinare uno...
+- **Il Messaggero**: Garlasco, «Sempio odia le donne, ora può venire da me a confessarsi»: le parole del suo ex avvocato Massimo Lovati Massimo Lovati cambia giudizio sulla personalità di Andrea Sempio dopo la messa in onda dei suoi video privati, ma continua a ritenerlo innocente per l’omicidio di Chiara Poggi....
+- **Il Sole Ventiquattro Ore**: Caso Garlasco: la Procura di Pavia chiede processo per Andrea Sempio La Procura di Pavia chiede il processo per Andrea Sempio indagato per l’omicidio aggravato dalla crudeltà e dai motivi abietti di Chiara Poggi, uccisa a Garlasco il 13 agosto 2007....
+- **La Repubblica**: Garlasco, la procura chiede il processo per Andrea Sempio: “Ha agito con crudeltà e odio” I pm di Pavia lo accusano di essere l’assassino di Chiara Poggi: confermate le aggravanti. Lui replica: “Sarà dimostrata la mia innocenza”
+- **La Stampa**: Garlasco, chiesto il processo per Andrea Sempio: “Ha colpito Chiara Poggi 12 volte al viso e alla testa” La richiesta di rinvio a giudizio dovrà essere valutata da un gup, dopo la fissazione dell'udienza preliminare
+- **ANSA**: Garlasco, i pm: 'Andrea Sempio a processo, ha ucciso Chiara Poggi con crudeltà e odio' É stato rifiutato. Lui: 'Sarà dimostrata la mia innocenza'. Poggi non saranno parti civili
+- **Il Fatto Quotidiano**: Garlasco, chiesto il processo per Andrea Sempio. I pm di Pavia: “Uccise Chiara Poggi con crudeltà”. Lui: “Pronto, convinto che sarà dimostrata la mia innocenza” La Procura di Pavia, dopo la chiusura indagini, ha chiesto il rinvio a giudizio di Andrea Sempio per l’omicidio di Chiara Poggi, avvenuto a Garlasco il 13 agosto del 2007 e per il quale è stato condannato in via definitiva l’allora fidanzato Alberto Stasi. La notizia è stata comunicata dall’ufficio giudiziario e porta la firma […] L'articolo Garlasco, chiesto il processo per Andrea Sempio. I pm di Pavia: “Uccise Chiara Poggi con crudeltà”. Lui: “Pronto, convinto che sarà dimostrata la mia innocenza” proviene da Il Fatto Quotidiano.
+- **Il Post**: La procura di Pavia ha chiesto il rinvio a giudizio per Andrea Sempio 
+- **La Verità**: Garlasco, la Procura chiede il processo per Sempio: «Uccise Chiara per il rifiuto sessuale» Diciannove anni dopo il delitto di Chiara Poggi, la Procura di Pavia chiede il rinvio a giudizio di Andrea Sempio. Nell’imputazione contestati l’omicidio aggravato, la crudeltà e i motivi abietti legati, secondo gli inquirenti, al rifiuto di un approccio sessuale. L'articolo Garlasco, la Procura chiede il processo per Sempio: «Uccise Chiara per il rifiuto sessuale» proviene da La Verità.
+- **Il Messaggero**: Sempio rinviato a giudizio, cosa succede ora? Dalla decisione del gup al nodo Stasi (con l'ipotesi revisione) La Procura di Pavia ha chiesto il processo per Andrea Sempio, unico indagato nella nuova inchiesta sull’omicidio di Chiara Poggi​, avvenuto a Garlasco il 13 agosto del 2007. Ma Sempio non...
+- **La Repubblica**: Caso Garlasco, Stasi vede avvicinarsi la revisione: a chiederla lui e la procura generale Mentre la procura di Pavia chiede il processo per Andrea Sempio, l’ex fidanzato di Chiara Poggi e i suoi legali preparano l’istanza per riscrivere la storia del delitto
+- **Il Messaggero**: Garlasco, chiesto il giudizio per Sempio: «Ha ucciso Chiara con crudeltà, l’ha colpita al viso dodici volte» Andrea Sempio a processo per la morte di Chiara Poggi. Lo chiede la Procura di Pavia, che ha presentato ieri la richiesta di rinvio a giudizio contestando l’omicidio con due aggravanti: la...
 
 
-## 6. Guerra in Iran, Khamenei apre alla diplomazia: «Poteri al governo per trattare con gli Usa»
+## 3. Jesùs De Miguel, morto l’attaccante del Tenerife dopo lo scontro in campo con il portiere avversario
 
-> **Context:** Il ministro degli Esteri Araghchi: «Collaboreremo se Washington sceglierà la via onesta». Crolla il prezzo del petrolio. L'articolo Guerra in Iran, Khamenei apre alla diplomazia: «Poteri al governo per trattare con gli Usa» proviene da La Verità.
+> **Context:** L’incidente in un match di Seconda Divisione spagnola tra la squadra delle Canarie e Andorra
 
-- **La Stampa**: Arriva l’ok di Khamenei a trattare con gli Usa: petrolio a picco (-6,7%) Il Wti scivola fino a 97,1 dollari, il Brent a 105,9 dollari
-- **ANSA**: 'Khamenei autorizza a trattare con gli Usa'. Petrolio a picco Mossa a sorpresa dell'Iran: 'Pronti a riaprire Hormuz in 2 giorni'. Ma il piano non cambia
-- **Il Fatto Quotidiano**: Iran, via libera dell’ayatollah Khamenei a trattare con gli Usa: “Presentato piano a Washington”. Crolla il prezzo del petrolio Alla vigilia delle elezioni di midterm americane, Teheran manda un segnale oltreoceano che potrebbe riaprire la strada alla diplomazia nel conflitto tra gli Usa e l’Iran. La Guida suprema, Mojtaba Khamenei, ha infatti dato l’ok al governo della Repubblica islamica a trattare con Washington. Lo ha dichiarato il presidente iraniano Masoud Pezeshkian, parlando di “determinati […] L'articolo Iran, via libera dell’ayatollah Khamenei a trattare con gli Usa: “Presentato piano a Washington”. Crolla il prezzo del petrolio proviene da Il Fatto Quotidiano.
-- **La Verità**: Guerra in Iran, Khamenei apre alla diplomazia: «Poteri al governo per trattare con gli Usa» Il ministro degli Esteri Araghchi: «Collaboreremo se Washington sceglierà la via onesta». Crolla il prezzo del petrolio. L'articolo Guerra in Iran, Khamenei apre alla diplomazia: «Poteri al governo per trattare con gli Usa» proviene da La Verità.
-
-
-## 7. Maltempo al Centro Sud, nevicate, allagamenti e scuole chiuse
-
-> **Context:** Cede un tetto a Crotone. Trani al buio per un fulmine. Stop alle lezioni a Chieti e Pescara
-
-- **ANSA**: Maltempo al Centro Sud, nevicate, allagamenti e scuole chiuse Cede un tetto a Crotone. Trani al buio per un fulmine. Stop alle lezioni a Chieti e Pescara
-- **Adkronos**: Maltempo, ancora allerta arancione in Puglia e Basilicata. Scuole chiuse a Chieti e Lanciano Allerta gialla in altre quattro regioni, la mappa del maltempo in Italia e il quadro meteo
-- **Il Post**: Martedì a Chieti le scuole saranno chiuse a causa degli allagamenti 
-- **Il Messaggero**: Scuole chiuse martedì 3 novembre per maltempo: l'elenco dei Comuni. Previste anche nevicate e allagamenti Scuole chiuse in molti Comuni del Centro-Sud a causa di un'ondata di maltempo che ha colpito in particolare il versante adriatico e ionico. Sospese le attività didattiche in molte...
+- **La Repubblica**: Jesùs De Miguel, morto l’attaccante del Tenerife dopo lo scontro in campo con il portiere avversario L’incidente in un match di Seconda Divisione spagnola tra la squadra delle Canarie e Andorra
+- **La Stampa**: Il calciatore spagnolo Jesus De Miguel è morto dopo uno scontro in campo | Video Il 30enne era stato colpito al petto dal portiere della squadra di Andorra durante una partita di Seconda divisione. Qualche ora dopo l’incidente è avvenuto il decesso
+- **ANSA**: Morto Jesus de Miguel, attaccante del Tenerife, dopo uno scontro in campo All'attaccante del Tenerife fatale l'impatto a centrocampo col portiere di Andorra
+- **Adkronos**: Morte Jesus De Miguel, insulti al portiere Owono: "Assassino". Il giocatore chiude i profili social L'estremo difensore, scosso dopo l'accaduto, è finito nel bersaglio dei tifosi
+- **Il Fatto Quotidiano**: Morte de Miguel: la Spagna sospende tutte le partite, un minuto di silenzio in Champions. Il cordoglio dei club e il messaggio di Mbappé Nessuna partita di Coppa del Re, nessuna presentazione ufficiale della partita della Nazionale Under 21 spagnola contro il Giappone. Questa la decisione della RFEF (la federazione spagnola) dopo la morte di Jesus de Miguel, deceduto questa mattina dopo l’arresto cardiaco in Tenerife-Andorra, match di Segunda Division, in seguito a uno scontro con il portiere Owono. […] L'articolo Morte de Miguel: la Spagna sospende tutte le partite, un minuto di silenzio in Champions. Il cordoglio dei club e il messaggio di Mbappé proviene da Il Fatto Quotidiano.
+- **Il Post**: Il calciatore spagnolo Jesús de Miguel è morto dopo uno scontro con il portiere avversario 
+- **Il Messaggero**: Jesus De Miguel è morto, choc in Spagna: il giocatore è stato colpito dal portiere durante la partita tra Tenerife e Andorra. Aveva 30 anni Choc in Spagna. Jesus De Miguel è morto in seguito a un terribile scontro in campo con il portiere avversario durante la partita tra Tenerife e Andorra. La squadra milita nella Serie B...
+- **La Repubblica**: Morte De Miguel, insulti social al portiere Owono. Per lui anche il rischio di sanzioni penali Il portiere della squadra di Andorra è in stato di shock
 
 
-## 8. Trump, l’ultimo appello prima delle Midterm: «Fermiamo comunisti e jihadisti»
+## 4. Champions: da 0-2 a 3-2, la Roma crolla contro il Manchester United. L’Inter torna a vincere
 
-> **Context:** Il presidente chiude la campagna al Lincoln Memorial attaccando i candidati democratici e citando il caso di Abdul El-Sayed: «Non vogliamo un jihadista in Senato». Rivendica il calo del prezzo del petrolio, promette 5.000 dollari agli americani in caso di vittoria repubblicana e avverte: «Con i dem sarà come nel 1929». L'articolo Trump, l’ultimo appello prima delle Midterm: «Fermiamo comunisti e jihadisti» proviene da La Verità.
+> **Context:** Feyenoord travolto 0-3 Reazione nerazzurra dopo ko derby, gol Bisseck, Esposito e Zielinski
 
-- **ANSA**: L'ultimo appello di Trump, 'votate e fermiamo comunisti e jihadisti' 'Con loro un nuovo 1929'. Ma per i sondaggi i dem avanti in tutti gli Stati chiave
-- **Il Fatto Quotidiano**: Midterm Usa, l’ultimo appello di Trump prima del voto: “Non consentite a jihadisti e comunisti di vincere” “Votate e non consentite ai jihadisti e comunisti democratici di vincere”. Donald Trump lancia l’ultimo appello prima delle elezioni di midterm da un palcoscenico delle grandi occasioni, il Lincoln Memorial di Washington. Con alle spalle la Reflecting Pool che ha riparato ed è divenuta uno dei suoi vanti, il presidente si è rivolto direttamente agli […] L'articolo Midterm Usa, l’ultimo appello di Trump prima del voto: “Non consentite a jihadisti e comunisti di vincere” proviene da Il Fatto Quotidiano.
-- **La Verità**: Trump, l’ultimo appello prima delle Midterm: «Fermiamo comunisti e jihadisti» Il presidente chiude la campagna al Lincoln Memorial attaccando i candidati democratici e citando il caso di Abdul El-Sayed: «Non vogliamo un jihadista in Senato». Rivendica il calo del prezzo del petrolio, promette 5.000 dollari agli americani in caso di vittoria repubblicana e avverte: «Con i dem sarà come nel 1929». L'articolo Trump, l’ultimo appello prima delle Midterm: «Fermiamo comunisti e jihadisti» proviene da La Verità.
-
-
-## 9. È morta Erminia Manfredi, il 'punto fermo' nella vita di Nino
-
-> **Context:** Muore a 94 anni, ex modella, costumista e scenografa
-
-- **La Repubblica**: Erminia Ferrari, morta la moglie di Nino Manfredi Aveva 94 anni. La coppia è rimasta legata per quasi 50 anni. Era stata costumista e scenografa
-- **ANSA**: È morta Erminia Manfredi, il 'punto fermo' nella vita di Nino Muore a 94 anni, ex modella, costumista e scenografa
-- **Il Messaggero**: Erminia Manfredi, l'amore dietro le quinte con Nino: i "no" ai registi che la volevano sul set, lei preferì il ruolo di moglie-ombra Bella ed elegantissima fino all’ultimo, Ermina Manfredi se n’è andata alla vigilia dei 95 anni dopo aver passato la vita accanto al marito Nino e aver avuto con lui tre figli....
+- **ANSA**: Manchester United - Roma 0-2 e Feyenoord - Inter 0-2 DIRETTA e FOTO Match validi per la quarta giornata della fase campionato di Champions League
+- **Adkronos**: Champions League, Feyenoord-Inter 0-2 - Diretta I nerazzurri sfidano gli olandesi nella quarta giornata della fase campionato
+- **Adkronos**: Champions League, Manchester United-Roma 0-2 - Diretta I giallorossi sfidano i Red Devils nella quarta giornata della fase campionato
+- **La Repubblica**: L'Inter riparte dopo il ko nel derby: tutto facile in Olanda, 3-0 al Feyenoord Secondo successo consecutivo in Champions per i nerazzurri. In gol Bisseck, Esposito e Zielinski
+- **La Stampa**: Champions: da 0-2 a 3-2, la Roma crolla contro il Manchester United. L’Inter torna a vincere Feyenoord travolto 0-3 Reazione nerazzurra dopo ko derby, gol Bisseck, Esposito e Zielinski
+- **ANSA**: Il Manchester United ribalta tutto e batte la Roma 3-2. L'Inter vince 3-0 sul campo del Feyenoord CRONACA e FOTO Match validi per la quarta giornata della fase campionato di Champions League
+- **Il Fatto Quotidiano**: Champions League, l’Inter respinge le critiche e demolisce il Feyenoord. Deja-vu Roma: si fa rimontare ancora e cade a Manchester | Risultati e nuova classifica Una per riscattare un weekend difficile, l’altra per provare a dare continuità. È stato un martedì dai due volti per le italiane in Champions League, con Inter e Roma protagoniste di serate molto diverse. I nerazzurri, reduci dalla brutta sconfitta nel derby contro il Milan, hanno dato una risposta importante vincendo per 0-3 in casa […] L'articolo Champions League, l’Inter respinge le critiche e demolisce il Feyenoord. Deja-vu Roma: si fa rimontare ancora e cade a Manchester | Risultati e nuova classifica proviene da Il Fatto Quotidiano.
+- **Il Messaggero**: Feyenoord-Inter 0-3, le pagelle: Zielinski (7,5) non sbaglia niente, Pio Esposito (7) torna al gol, Spence (7) convince L'Inter reagisce dopo la sconfitta pesante nel derby col Milan e batte 3-0 il Feyenoord a Rotterdam nella quarta giornata della League Phase di Champions League. Un successo fondamentale per...
 
 
-## 10. Identificate le due vittime italiane dell’incidente ferroviario in Spagna
+## 5. Mattarella e Meloni ai funerali dei 4 militari caduti in Bosnia
 
-> **Context:** Sono Ana Martina Conte Grand, 32 anni, italoargentina e Daniela Millan Parlanti, 40, italovenezuelana
-
-- **La Repubblica**: Spagna, identificate le due vittime italiane dell'incidente ferroviario di Toledo Si tratta dell’italo-argentina Ana Martina Conte Grand, 32 anni, e di Daniela Millan Parlanti, 40 anni, italo-venezuelana. Confermate 69 vittime
-- **La Stampa**: Identificate le due vittime italiane dell’incidente ferroviario in Spagna Sono Ana Martina Conte Grand, 32 anni, italoargentina e Daniela Millan Parlanti, 40, italovenezuelana
-- **Il Post**: Sono state identificate le due donne italiane morte nell’incidente ferroviario in Spagna 
-
-
-## 11. Aperta un'indagine sull'omicidio Pasolini, c'è un nuovo testimone
-
-> **Context:** Avviato un procedimento a 51 anni dalla morte. Legale, 'nuovi elementi'
-
-- **La Stampa**: Pasolini, la Procura di Roma riapre le indagini sulla morte: “Nuovi elementi”. E spunta un testimone Il nuovo fascicolo è stato aperto alla luce di un esposto depositato dall’avvocato che in passato ha assistito uno dei cugini della vittima
-- **ANSA**: Aperta un'indagine sull'omicidio Pasolini, c'è un nuovo testimone Avviato un procedimento a 51 anni dalla morte. Legale, 'nuovi elementi'
-- **Il Post**: La procura di Roma ha aperto una nuova indagine sull'omicidio di Pier Paolo Pasolini, avvenuto 51 anni fa 
-
-
-## 12. Raid sulla scuola diventata rifugio, strage di civili a Zaporizhzhia
-
-> **Context:** Le bombe a poche ore dalla fine della tregua di Oleshky causano 24 morti. L’ira di Zelensky: “Così la pace è impossibile”
-
-- **La Repubblica**: Raid sulla scuola diventata rifugio, strage di civili a Zaporizhzhia Le bombe a poche ore dalla fine della tregua di Oleshky causano 24 morti. L’ira di Zelensky: “Così la pace è impossibile”
-- **ANSA**: Zelensky: 'Attacco devastante in una scuola utilizzata per attività umanitarie' Colpito un centro umanitario, 24 uccisi mentre cercavano aiuti. Hackerate le app di emergenza
-- **Il Fatto Quotidiano**: Ucraina, Zelensky: “Raid russo su una scuola di Zaporizhzhia usata come centro aiuti”. Almeno 26 morti A nemmeno 24 ore dalla fine della tregua per Oleshky, Kiev denuncia una nuova strage di civili in un centro aiuti. “Un attacco russo assolutamente orribile ha colpito l’insediamento di Komyshuvakha, nella regione di Zaporizhzhia“, ha scritto il presidente ucraino Vololdymyr Zelensky sui social. “Da questa mattina, il centro abitato è stato colpito più volte […] L'articolo Ucraina, Zelensky: “Raid russo su una scuola di Zaporizhzhia usata come centro aiuti”. Almeno 26 morti proviene da Il Fatto Quotidiano.
+- **La Repubblica**: I funerali dei quattro militari morti in Bosnia. Crosetto: “Lo Stato qui unito per rendere omaggio” Il cordoglio di Mattarella ai familiari delle vittime. Monsignor Saba: “Seminatori di pace”
+- **La Stampa**: Mattarella e Meloni ai funerali dei quattro militari morti in Bosnia, Crosetto: “Lo Stato si inchina” Monsignor Saba: «Spinti dal desiderio di promuovere soluzioni per i più fragili e per tenere viva la speranza nelle popolazioni esposte alle aggressioni». Il ministro annuncia: «Per loro un monumento»
+- **ANSA**: I funerali solenni dei quattro militari italiani morti nell'incidente dell'elicottero in Bosnia. L'omelia: "Seminatori di germogli di pace" A Roma l'ultimo saluto ai caduti nella missione Eufor. I feretri avvolti nel tricolore. Presenti Mattarella, Meloni e alte cariche dello Stato. Crosetto: 'Lo Stato si inchina a loro, l'Italia migliore'
+- **La Verità**: Bosnia, l’ultimo saluto ai quattro militari italiani: i funerali a Roma A Roma i funerali solenni dei quattro militari italiani morti nello schianto del Chinook durante la missione Eufor Althea. Presenti Mattarella, Meloni e le massime autorità civili e militari. L'articolo Bosnia, l’ultimo saluto ai quattro militari italiani: i funerali a Roma proviene da La Verità.
+- **Libero**: Elicottero caduto in Bosnia, l'arrivo di Mattarella e Meloni ai funerali delle vittime 
+- **Libero**: Mattarella e Meloni ai funerali dei 4 militari caduti in Bosnia 
+- **Libero**: A Roma i funerali solenni dei quattro militari caduti in Bosnia 
+- **Libero**: Meloni arriva ai funerali solenni dei 4 militari caduti in Bosnia a Santa Maria degli Angeli 
+- **Libero**: L'arrivo di Mattarella al funerale dei 4 militari caduti in Bosnia a Santa Maria degli Angeli 
+- **Libero**: Picchetto d'onore all'arrivo dei 4 feretri dei militari caduti in Bosnia a Santa Maria degli Angeli 
+- **Governo Italiano - Comunicati Stampa**: Esequie solenni dei Caduti nell’incidente elicotteristico in Bosnia ed Erzegovina Il Presidente del Consiglio, Giorgia Meloni, ha partecipato a Roma, presso la Basilica di Santa Maria degli Angeli e dei Martiri, alle esequie solenni dei Caduti nell’incidente elicotteristico in Bosnia ed Erzegovina.
+- **ANSA**: L'addio ai quattro militari italiani. 'Per loro un monumento in Bosnia' Crosetto: 'Lo Stato unito per onorarli'. Esequie solenni con Mattarella e Meloni
+- **Libero**: Mattarella saluta familiari dei 4 militari caduti in Bosnia alla Basilica Santa Maria degli Angeli 
+- **Libero**: L'arrivo delle bare dei 4 militari caduti alla Basilica di Santa Maria degli Angeli 
 
 
-## 13. Cos’ha di speciale Kimi Antonelli
+## 6. Due allarmi bomba nel giro di un’ora all’aeroporto di Fiumicino: si alzano i caccia
 
-- **La Repubblica**: Kimi Antonelli in dieci curiosità: dal ciondolo portafortuna alla musica preferita Il ventenne campione del mondo di Formula Uno ama lavare l’auto a mano, giocare a tennis e indossa una collanina regalata dalla mamma
-- **ANSA**: F1: la prof di Kimi Antonelli, 'Kimi campione un'emozione grandissima' 'Continui a inseguire i suoi sogni con semplicità'
-- **Il Post**: Cos’ha di speciale Kimi Antonelli 
-- **Il Post**: Che si dice di Kimi Antonelli 
+> **Context:** Erano falsi. Ma non sono stati casi isolati, stessa cosa in Spagna, Bulgaria e Polona
+
+- **La Repubblica**: Due allarmi bomba nel giro di un’ora all’aeroporto di Fiumicino: si alzano i caccia Erano falsi. Ma non sono stati casi isolati, stessa cosa in Spagna, Bulgaria e Polona
+- **Il Messaggero**: Aeroporto di Fiumicino, scattano due allarmi bomba: si alzano i caccia dell'Aeronautica militare Due allarmi bomba nel giro di poco più di un'ora, artificieri in azione e caccia dell'Aeronautica Militare decollati per scortare un aereo fino a Fiumicino. Una mattinata di...
+- **La Stampa**: Allarmi bomba sui voli in Europa, a Fiumicino si alzano i caccia: controlli in cinque Paesi Due aerei Ryanair scortati e controllati a Roma, verifiche anche in Polonia, Spagna e Bulgaria. Atterraggi di emergenza e interventi degli artificieri dopo una serie di segnalazioni
+- **ANSA**: Ondata di allarmi bomba sui voli in Europa, due anche a Roma Dalla Polonia alla Spagna, tutti poi risultati falsi ma scatta l'emergenza
+- **La Verità**: Falsi allarmi bomba, paura su sette voli in Europa: due diretti a Roma Sette segnalazioni in poche ore hanno fatto scattare le procedure di sicurezza in diversi aeroporti europei. Coinvolti voli diretti in Italia, Bulgaria, Spagna e Polonia: alcuni aerei sono stati scortati da caccia o dirottati, ma tutti i controlli hanno escluso la presenza di esplosivi. L'articolo Falsi allarmi bomba, paura su sette voli in Europa: due diretti a Roma proviene da La Verità.
+
+
+## 7. Attacchi hacker nei supermercati, Palazzo Chigi: «Nessun allarme ma massima attenzione»
+
+> **Context:** Vertice a Palazzo Chigi sugli attacchi hacker ai sistemi di refrigerazione dei supermercati, con il sottosegretario alla Presidenza del Consiglio Alfredo Mantovano, il ministro dell’Agricoltura Francesco Lollobrigida e i direttori...
+
+- **La Stampa**: Attacchi hacker ai supermercati, il governo: “In Italia massima attenzione” Il vertice del governo. In Italia «impatto limitato» e «non è emerso alcun caso di rischio per la salute»
+- **ANSA**: Riunione a Palazzo Chigi dopo gli attacchi hacker ai supermercati: 'Massima allerta, ma nessun allarme' 'Hanno avuto un impatto limitato, utilizzati sistemi obsoleti'. La polizia postale avvia le indagini
+- **Governo Italiano - Comunicati Stampa**: Attacchi hacker in Europa ai sistemi di refrigerazione commerciale, nota di Palazzo Chigi Si è svolta a Palazzo Chigi una riunione con il Sottosegretario alla Presidenza del Consiglio, Alfredo Mantovano, e il Ministro dell’Agricoltura, Francesco Lollobrigida, alla quale hanno partecipato il Direttore dell’Agenzia per la Cybersicurezza Nazionale (ACN) e i Direttori delle Agenzie di intelligence, a seguito degli attacchi hacker che stanno interessando in Europa alcuni sistemi di refrigerazione commerciale. [...]
+- **Il Sole Ventiquattro Ore**: Attacchi hacker nei supermercati, Palazzo Chigi: «Nessun allarme ma massima attenzione» Vertice a Palazzo Chigi sugli attacchi hacker ai sistemi di refrigerazione dei supermercati, con il sottosegretario alla Presidenza del Consiglio Alfredo Mantovano, il ministro dell’Agricoltura Francesco Lollobrigida e i direttori...
+- **ANSA**: Caccia agli hacker dei frigo, 'pochi danni ma massima attenzione' Riunione con Mantovano e 007. Piantedosi: 'Atto coordinato'. Lollobrigida: 'Minaccia ibrida'
+- **Il Manifesto**: Attacchi hacker, Palazzo Chigi: «No allarmismi». Ma mancano le risorse «Non sussiste alcun allarme, ma permane la massima attenzione». Il giorno dopo gli attacchi hacker che hanno colpito alcuni supermercati in tutta Europa, Italia compresa, il sottosegretario Alfredo Mantovano ha […] The post Attacchi hacker, Palazzo Chigi: «No allarmismi». Ma mancano le risorse first appeared on il manifesto.
+
+
+## 8. Sono iniziate le operazioni di spegnimento degli altiforni dell’ex ILVA di Taranto
+
+- **ANSA**: Ex Ilva, al via lo spegnimento degli altiforni Dopo la pronuncia della Cassazione stop ai bruciatori dei Cowpers entro la settimana
+- **Il Fatto Quotidiano**: Ilva, iniziato lo spegnimento: l’acciaieria sarà definitivamente ferma entro la fine della settimana Entro domenica sarà definitivamente finita una storia, tra le più controverse dell’industria italiana, iniziata il 19 novembre 1964. Quel giorno veniva acceso il primo altoforno dell’acciaieria di Taranto, mentre oggi – esattamente sessantadue anni dopo – sono iniziate le operazioni di spegnimento degli impianti che li tenevano in preriscaldo, una sorta di stand-by. Si concluderanno […] L'articolo Ilva, iniziato lo spegnimento: l’acciaieria sarà definitivamente ferma entro la fine della settimana proviene da Il Fatto Quotidiano.
+- **Il Post**: Sono iniziate le operazioni di spegnimento degli altiforni dell’ex ILVA di Taranto 
+- **Il Manifesto**: Ex Ilva, Federacciai detta le condizioni al governo All’ex Ilva di Taranto lo spegnimento degli altiforni è iniziato ieri, mentre Federacciai dettava le condizioni della cordata italiana per prendersi il complesso siderurgico. Le operazioni per lo stop definitivo […] The post Ex Ilva, Federacciai detta le condizioni al governo first appeared on il manifesto.
+
+
+## 9. Manovra, Salvini "Tagli alla scuola? Non sapevo nulla, ora faremo delle proposte"
+
+- **La Repubblica**: Manovra, Salvini: “Gli alleati rispettino la Lega sulle pensioni, non sapevo dei tagli alla scuola” Il leader del Carroccio attacca FdI e FI che hanno messo in discussione l’utilizzo del fondo per l’uscita anticipata a 64 anni con 36 di contributi. “Se serve le banche pagheranno ancora”
+- **ANSA**: Salvini, dei tagli alla scuola non sapevo niente, ora faremo proposte 'Sicuramente è qualcosa su cui ragionare'
+- **Libero**: Manovra, Salvini "Superare la Fornero priorità della Lega, gli alleati la rispettino" 
+- **Libero**: Manovra, Salvini "Tagli alla scuola? Non sapevo nulla, ora faremo delle proposte" 
+- **Il Manifesto**: Pensioni e tagli alla scuola. Salvini assalta la diligenza Uno dice: faccio una manovra lacrime e sangue, l’ultima di questo giro, ma saremo tetragoni nel portarla avanti. Invece l’impianto della legge di bilancio che taglia scuola e sanità e […] The post Pensioni e tagli alla scuola. Salvini assalta la diligenza first appeared on il manifesto.
+
+
+## 10. Bambino morto per morbillo negli Usa, il primo in 30 anni a New York
+
+> **Context:** In Italia quasi 600 contagi da inizio anno, nessuna Regione al 95% di bimbi vaccinati
+
+- **La Stampa**: New York, bimbo muore di morbillo: non accadeva da 30 anni. Gli esperti: colpa del calo dei vaccini La vittima è un bambino della contea di Lewis, nel nord dello Stato. Gli Stati Uniti stanno affrontando la peggiore epidemia di morbillo degli ultimi 35 anni
+- **ANSA**: Bimbo muore di morbillo negli Stati Uniti, polemica sulla politica sulle vaccinazioni Primo decesso causato da questa malattia nello Stato di New York negli ultimi 30 anni
+- **Il Messaggero**: Bambino morto di morbillo a New York, Bassetti: «Potrebbe accadere anche in Italia, siamo tra i Paesi europei più colpiti» La morte di un bambino per morbillo nello Stato di New York riporta al centro dell'attenzione una malattia infettiva che, grazie alle campagne vaccinali, sembrava ormai relegata al passato. Il...
+- **ANSA**: Bambino morto per morbillo negli Usa, il primo in 30 anni a New York In Italia quasi 600 contagi da inizio anno, nessuna Regione al 95% di bimbi vaccinati
+- **Adkronos**: Morbillo, sintomi, vaccini e casi in Italia: cosa sapere su virus tra più contagiosi al mondo La carta d'identità del patogeno che non solo è tornato a colpire con più forza Oltreoceano, ma anche in Europa e in Italia continua ad accumulare contagi
+
+
+## 11. Cosa sappiamo degli attacchi informatici ad alcuni supermercati italiani
+
+- **La Repubblica**: Come funzionano i frigoriferi dei supermercati e perché è così facile hackerarli Il controllo non è manuale, le centraline vengono monitorate da remoto. Ma c’è chi dimentica anche di installare gli aggiornamenti
+- **La Stampa**: Dal frigorifero al videocitofono: quali oggetti possono essere hackerati e quando preoccuparsi Gli attacchi ai supermercati europei mostrano come una violazione informatica possa produrre danni materiali. Ma non tutti gli apparecchi connessi presentano gli stessi rischi: contano la protezione degli accessi, gli aggiornamenti e le funzioni che affidiamo alla rete
+- **La Stampa**: Teti e gli assalti ai supermercati: “Colpire il cibo destabilizza, rischiamo il terrorismo digitale” L'esperto di cybersicurezza: «Nessuna prova di un’unica regia, ma gli episodi vanno correlati. Le aziende separino i computer dagli impianti»
+- **Il Post**: Cosa sappiamo degli attacchi informatici ad alcuni supermercati italiani 
+- **La Repubblica**: Salgono a 20 i supermercati colpiti dagli hacker in Sicilia. “Rischiamo danni per milioni” Le violazioni ai refrigeratori dalle reti di telecontrollo delle temperature. Spadaro (Coop): “Hanno avviato da remoto lo sbrinamento dei frigo. Subito investimenti in sicurezza”. Un dipendente catanese: “Abbiamo provato a salvare parte della merce”.
+- **Il Post**: Chi ha attaccato i frigoriferi dei supermercati europei, e perché? 
+- **Il Messaggero**: Roma, attacco hacker ai supermercati: «Tonnellate di cibo buttato via. I prodotti galleggiavano nell’acqua» Decine e decine di bancali, accatastati a terra e ricoperti da spessi teli di plastica bianca. Sotto la coltre si nasconde il bilancio silenzioso, ma impressionante, delle tonnellate di alimenti...
+
+
+## 12. Ventunenne uccide la madre a coltellate e si consegna ai carabinieri
+
+> **Context:** Il delitto nella notte nell'abitazione di famiglia in provincia di Brescia
+
+- **La Stampa**: Uccide la madre a coltellate nel Bresciano: arrestato ragazzo di 21 anni Il delitto nella notte nell'abitazione di famiglia in provincia di Brescia. Arrestato con l’accusa di omicidio volontario, è stato trasferito in carcere nelle prime ore del mattino
+- **ANSA**: Ventunenne uccide la madre a coltellate e si consegna ai carabinieri Il delitto nella notte nell'abitazione di famiglia in provincia di Brescia
+- **AGI**: Brescia, un 21enne uccide la madre a coltellate poi si consegna ai carabinieri Un 21enne ha ucciso a colpi di coltello la madre nella loro abitazione e poi è fuggito. E’ quanto avvenuto nel corso della notte appena trascorsa a Chiari, in provincia di Brescia. Una fuga di poche ore poi il ragazzo si è consegnato ai carabinieri di Cremona. Sul posto sono intervenuti i carabinieri della compagnia di Chiari e gli specialisti del nucleo investigativo. Il 21enne che si è costituito nella caserma dei militari si chiama Eduart Xhani, la madre, che aveva 39 anni, Meleqe Lusha. Il video dell'intervento dei carabinieri a Chiari (Brescia) Sono in corso indagini sul movente. Il giovane è nato a San Bonificio, in provincia di Verona, la madre in Albania. Chiari è un comune italiano di poco meno di 20mila abitanti nella pianura della bassa Bresciana occidentale, a ridosso del fiume Ogli.
+
+
+## 13. Inverno 2027, prima mite poi irruzioni artiche a gennaio e febbraio con neve e gelo: le ultime proiezioni
+
+> **Context:** Le elaborazioni stagionali di ECMWF indicano temperature superiori alla media su gran parte dell'Europa, Italia compresa. Ma nella seconda parte dell'inverno la circolazione potrebbe cambiare, favorendo l'arrivo di aria fredda dal Nord Europa. Ecco le zone dove potrebbero verificarsi nevicate
+
+- **La Repubblica**: Il vortice polare si sta indebolendo, l’esperto: “Ecco perché potrebbe portare il grande freddo” Anche con l'influenza di El Niño, al Polo Nord i meteorologi registrano un cambiamento insolito. L'esperto Pierluigi Randi, spiega cosa potrebbe accadere
+- **Il Messaggero**: Meteo, svolta nel weekend: il ciclone polare stravolge le previsioni. Temperature verso lo zero e neve fino a 800 metri Il ciclone che ha colpito il Centro-Sud comincia ad allontanarsi verso la Grecia, dopo aver portato aria fredda, le prime nevicate sull’Appennino e raffiche di bora sull’Adriatico. Il...
+- **La Stampa**: Inverno 2027, prima mite poi irruzioni artiche a gennaio e febbraio con neve e gelo: le ultime proiezioni Le elaborazioni stagionali di ECMWF indicano temperature superiori alla media su gran parte dell'Europa, Italia compresa. Ma nella seconda parte dell'inverno la circolazione potrebbe cambiare, favorendo l'arrivo di aria fredda dal Nord Europa. Ecco le zone dove potrebbero verificarsi nevicate
+
+
+## 14. Manovra, rispunta il condono edilizio. Fratelli d’Italia sfida Salvini sulla casa
+
+> **Context:** I meloniani pronti a presentare un emendamento per riaprire i termini della sanatoria berlusconiana del 2003. La richiesta allargata alle piccole difformità
+
+- **Il Sole Ventiquattro Ore**: Manovra, FdI lavora a pacchetto emendamenti su condono edilizio Anche su opere pertinenziali e ristruttrazioni in assenza di titolo
+- **La Repubblica**: Manovra, rispunta il condono edilizio. Fratelli d’Italia sfida Salvini sulla casa I meloniani pronti a presentare un emendamento per riaprire i termini della sanatoria berlusconiana del 2003. La richiesta allargata alle piccole difformità
+- **Il Fatto Quotidiano**: Fratelli d’Italia vuole rilanciare il condono edilizio: verso emendamento alla manovra. Avs: “Strizza l’occhio all’illegalità” Riapertura dei termini del condono edilizio del 2003. Fratelli d’Italia lavora a un emendamento alla manovra per consentire di sanare le difformità edilizie in Campania, che all’epoca con la giunta Bassolino non aveva aderito alla sanatoria del governo Berlusconi. La notizia, anticipata da Repubblica che la legge come una sfida a Matteo Salvini, “padre” del […] L'articolo Fratelli d’Italia vuole rilanciare il condono edilizio: verso emendamento alla manovra. Avs: “Strizza l’occhio all’illegalità” proviene da Il Fatto Quotidiano.
+
+
+## 15. Spagna, si dimette il ministro dei Trasporti Puente dopo la strage ferroviaria
+
+> **Context:** Il ministro dei Trasporti spagnolo, Oscar Puente, ha annunciato le sue dimissioni a una settimana dall'incidente ferroviario nel quale sono morte almeno 69 persone a Urda, nei pressi di Toledo.
+
+- **La Repubblica**: Spagna, si dimette il ministro dei Trasporti Puente L’annuncio dopo l’intervento al Congresso dopo l’incidente ferroviario di Urda dove sono morte 69 persone
+- **La Stampa**: Spagna, si dimette il ministro dei Trasporti Puente dopo la strage ferroviaria Il ministro dei Trasporti spagnolo, Oscar Puente, ha annunciato le sue dimissioni a una settimana dall'incidente ferroviario nel quale sono morte almeno 69 persone a Urda, nei pressi di Toledo.
+- **Adkronos**: Scontro treni Toledo, il ministro dei Trasporti spagnolo si dimette Il tragico bilancio di 69 morti spinge Oscar Puente a lasciare: non si candiderà neanche alle elezioni del 29 novembre. Il Paese piange le vittime, mentre si cercano risposte sulla sicurezza della rete ferroviaria
+
+
+## 16. Daniel ritrova i genitori dopo mesi in aeroporto a Napoli: ora vuole tornare in Svezia
+
+> **Context:** Il lavoro dell'ambasciata di Svezia e del Comune di Napoli risolve il caso del 25enne che per mesi ha vissuto nello scalo: i genitori avevano denunciato la sua scomparsa. Ora si prepara il ritorno a casa
+
+- **La Repubblica**: Daniel ritrova i genitori dopo mesi in aeroporto a Napoli: ora vuole tornare in Svezia Il lavoro dell'ambasciata di Svezia e del Comune di Napoli risolve il caso del 25enne che per mesi ha vissuto nello scalo: i genitori avevano denunciato la sua scomparsa. Ora si prepara il ritorno a casa
+- **ANSA**: A Capodichino un lieto epilogo per la storia di Daniel, ritrova la famiglia in Svezia Da settimane viveva nell'aeroporto di Napoli. Comune: 'Al lavoro con l'Ambasciata'
+- **Il Fatto Quotidiano**: Trovati i genitori di Daniel, il giovane svedese “smemorato” che viveva nell’aeroporto di Napoli: tornerà a casa Alla fine, il lavoro congiunto degli assistenti sociali del Comune di Napoli e dell’ambasciata di Svezia, Daniel, il giovane svedese che da mesi viveva all’interno dell’aeroporto di Capodichino, è riuscito a ristabilire i contatti con la propria famiglia. I genitori, che non avevano più sue notizie dallo scorso mese di agosto e ne avevano denunciato […] L'articolo Trovati i genitori di Daniel, il giovane svedese “smemorato” che viveva nell’aeroporto di Napoli: tornerà a casa proviene da Il Fatto Quotidiano.
+
+
+## 17. La bolletta del gas aumenta del 9% per i clienti vulnerabili
+
+> **Context:** Aumenta del 9,1% rispetto a settembre la bolletta del gas di ottobre per i clienti vulnerabili. A comunicarlo è l’Arera, l’Autorità di regolazione per energia reti e ambiente, che segnala...
+
+- **Il Sole Ventiquattro Ore**: La bolletta del gas aumenta del 9% per i clienti vulnerabili Aumenta del 9,1% rispetto a settembre la bolletta del gas di ottobre per i clienti vulnerabili. A comunicarlo è l’Arera, l’Autorità di regolazione per energia reti e ambiente, che segnala...
+- **La Stampa**: Bolletta del gas, a ottobre +9,1%. L’Unc: “Un record storico, mai così alta” Per i 2,3 milioni di clienti vulnerabili la materia prima vale 88,36 euro al megawattora. La spesa annua sale a 1.945 euro, 2.814 con la luce. I consumatori attaccano: nella manovra nulla contro il caro energia.
+- **ANSA**: Balzano del 9% le bollette del gas di ottobre dei vulnerabili Arera: 'Pesano le quotazioni'. Iea: 'Stoccaggi bassi in Ue'. Bruxelles: 'Hormuz chiuso costa'
+
+
+## 18. Giro 2027, ecco il percorso: il via da Trieste, torna il Gavia, 57 km a crono, chiusura a Roma
+
+> **Context:** Le 21 tappe dall’8 al 30 maggio. Anche Napoli e Milano sul tracciato, tre autodromi e lo Zoncolan nella tappa regina. Manca quasi totalmente il Sud, tappe solo in 11 regioni
+
+- **La Repubblica**: Giro 2027, ecco il percorso: il via da Trieste, torna il Gavia, 57 km a crono, chiusura a Roma Le 21 tappe dall’8 al 30 maggio. Anche Napoli e Milano sul tracciato, tre autodromi e lo Zoncolan nella tappa regina. Manca quasi totalmente il Sud, tappe solo in 11 regioni
+- **Il Post**: Il percorso del Giro d’Italia del 2027 
+- **La Verità**: Giro d’Italia 2027, si parte da Trieste e si arriva a Roma: torna lo Zoncolan Dalla prima tappa sconfinamento in Slovenia, poi le prime insidie per la classifica generale. Tra i passaggi più attesi il ritorno sullo Zoncolan, affrontato dal versante di Ovaro, e la dedica a Michele Scarponi a dieci anni dalla morte. L'articolo Giro d’Italia 2027, si parte da Trieste e si arriva a Roma: torna lo Zoncolan proviene da La Verità.
+
+
+## 19. Re Carlo al Commonwealth: 'Orrore e vergogna per lo schiavismo'
+
+> **Context:** Il sovrano esprime rammarico 'per le mostruose ingiustizie' dell'Impero Britannico
+
+- **La Repubblica**: Schiavismo, la vergogna di re Carlo: “Provo orrore”. Ma non chiede scusa come vorrebbe Burnham Il sovrano al summit del Commonwealth ad Antigua: “Profondo dolore per un capitolo vergognoso della storia”. Ma il primo ministro vorrebbe scusarsi ufficialmente, rischiando così di aprire il capitolo riparazioni e un solco con il monarca
+- **ANSA**: Re Carlo al Commonwealth: 'Orrore e vergogna per lo schiavismo' Il sovrano esprime rammarico 'per le mostruose ingiustizie' dell'Impero Britannico
+- **Libero**: Re Carlo III esprime orrore e dolore per la tratta degli schiavi 
+
+
+## 20. Zattera con una gru si ribalta e uccide un operaio
+
+> **Context:** Incidente mortale sul lavoro nel primo pomeriggio a Malcesine (Verona), dove una zattera che trasportava una gru lungo il Lago di Garda si è rovesciata colpendo un operaio che è...
+
+- **Il Sole Ventiquattro Ore**: Zattera con una gru si ribalta e uccide un operaio Incidente mortale sul lavoro nel primo pomeriggio a Malcesine (Verona), dove una zattera che trasportava una gru lungo il Lago di Garda si è rovesciata colpendo un operaio che è...
+- **Il Fatto Quotidiano**: Zattera con una gru si ribalta: morto un operaio sul lago di Garda Un operaio è morto a Malcesine, sul lago di Garda, dopo essere stato colpito da una gru in seguito al rovesciamento della zattera sulla quale il mezzo era trasportato. L’uomo è deceduto a causa dei gravi traumi riportati nell’incidente. Sul posto sono intervenuti i sanitari del Suem 118 con l’eliambulanza, i Vigili del Fuoco, i […] L'articolo Zattera con una gru si ribalta: morto un operaio sul lago di Garda proviene da Il Fatto Quotidiano.
+- **Il Messaggero**: Verona, zattera con sopra una gru si ribalta nel Lago di Garda: morto un operaio L'incidente è avvenuto nel pomeriggio di oggi, martedì 3 novembre, a Malcesine, sul lago di Garda, dove una zattera dotata di gru si è ribaltata nel lago, colpendo...
 
 
 
@@ -153,276 +251,278 @@ No previous episode found.
 
 
 <other_headlines>
-<article source="AGI" date="Mon, 02 Nov 2026 22:56:34 GMT">
-Attacchi hacker ai supermercati, allerta Acn in Italia sulla filiera alimentare. Si muove ...
-Alla luce degli attacchi informatici che stanno interessando i sistemi della catena del freddo di numerosi operatori in diversi Paesi europei tra cui Belgio, Lussemburgo, Irlanda, Paesi Bassi, Lettonia, Finlandia e Svezia, l'Agenzia per la Cybersicurezza Nazionale ha richiamato gli operatori della Gdo (grande distribuzione organizzata), della logistica alimentare, della refrigerazione industriale e le società di manutenzione alle misure di sicurezza già raccomandate dopo gli incidenti digitali in una serie di catene di supermercati in Francia. E questa mattina, alle ore 11.30, si terrà a Palazzo Chigi una riunione, coordinata dal sottosegretario alla Presidenza del Consiglio Alfredo Mantovano, per fare il punto sull'ondata di attacchi hacker che ha interessato in Europa i sistemi di refrigerazione commerciale. Parteciperanno - riferiscono fonti di palazzo Chigi - il Direttore dell'Agenzia per la Cybersicurezza Nazionale e i Direttori delle Agenzie di intelligence. Le misure urgenti raccomandate L'Agenzia raccomanda, qualora non sia già stato fatto, di procedere con la massima urgenza alla verifica dell'eventuale esposizione su Internet dei sistemi di controllo e teleassistenza e alla loro segregazione in ambienti protetti, separati dalle reti informatiche aziendali. Al momento, Acn ha ricevuto una notifica Nis (Network and Information Security) di incidente da parte di un'azienda toscana operante nel settore della ristorazione collettiva; ha rilevato, non ancora notificato, un attacco ai danni di un'impresa emiliana della produzione di surgelati. Tra le ulteriori misure indicate, figurano il rafforzamento degli accessi da remoto attraverso Vpn e l'autenticazione a più fattori, la verifica degli account privilegiati e l'aggiornamento o la sostituzione dei dispositivi non più supportati dai produttori. Monitoraggi e confronto con il settore L'Agenzia ha intensificato ogni monitoraggio vista la capillare distribuzione territoriale del settore per individuare ogni ulteriore possibile caso di attacco, ha programmato già per domani un incontro con le federazioni di settore e le principali aziende della grande distribuzione nazionale, ha dato la disponibilità delle proprie strutture per rafforzare la capacità di resistenza delle aziende, rinnovare l'attenzione sui rischi per la sicurezza informatica della filiera alimentare e sollecitare se necessario l'adozione subitanea delle necessarie misure di prevenzione e mitigazione.
+<article source="AGI" date="Tue, 03 Nov 2026 20:10:46 GMT">
+Garlasco, la procura di Pavia chiede il processo per Sempio: "Dimostrerò la mia innocenza"
+La procura di Pavia ha chiesto il processo per Andrea Sempio, accusato dell'omicidio di Chiara Poggi, avvenuto nel 2007 a Garlasco. "La Procura di Pavia, valutati anche gli atti da ultimo depositati dalla difesa dell'indagato, ha richiesto in data odierna il rinvio a giudizio di Andrea Sempio davanti al Tribunale di Pavia". Lo ha comunicato in una nota il procuratore di Pavia, Fabio Napoleone. Sempio è accusato di omicidio aggravato dalla crudeltà e dai motivi abietti e futili per avere ucciso Chiara Poggi il 23 agosto 2007 a Garlasco. "Sono pronto e convinto che sarà dimostrata la mia innocenza", è la reazione di Sempio, secondo quanto riferito dai suoi legali, alla notizia della richiesta di rinvio a giudizio. La tesi Napoleone riporta il capo d'imputazione identico a quello della chiusura delle indagini. "Dopo una iniziale colluttazione, colpiva reiteratamente la vittima con un corpo contundente dapprima in regione frontale sinistra e in regione zigomatica destra, facendola cadere a terra - si legge nell'imputazione - a seguito di ciò, la trascinava al fine di condurla verso la porta di accesso alla cantina e, dopo che la parte offesa provava a reagire mettendosi carponi, la colpiva nuovamente con almeno 3-4 colpi in regione parieto-temporale sinistra, in regione parietale posteriore, lungo la linea mediana e in regione parietale sinistra paramediana, facendole perdere i sensi. A seguito di ciò, spingeva il corpo della vittima facendolo scivolare lungo le scale che conducono in cantina ove, nonostante la stessa fosse già incosciente, la colpiva con almeno 4-5 colpi in regione parieto-occipitale sinistra, cagionando alla stessa gravi lesioni cranio encefaliche dalle quali derivava il decesso. Con l'aggravante di aver agito con crudeltà verso la vittima in considerazione dell'efferatezza dell'azione omicidiaria per il numero e l'entità delle ferite inferte alla vittima, di cui almeno 12 lesioni sul cranio e sul volto. Con l'aggravante di aver commesso il fatto per motivi abietti, riconducibili all'odio per la vittima a seguito del rifiuto del suo approccio sessuale". I legali di Sempio: "Pronti a fronteggiare l'accusa di omicidio" "Siamo assolutamente pronti a fronteggiare questa imputazione a partire dalle questioni processuali per passare alle richieste di prova e infine al merito", afferma l'avvocato Liborio Cataliotti che assieme ad Angela Taccia difende Sempio. "La richiesta di rinvio a giudizio era attesa e l'imputazione conforme rispetto alle nostre previsione - prosegue il legale in un messaggio video - sia per ciò che concerne la ricostruzione della dinamica del fatto che, del resto, la Bpa degli inquirenti e la stessa consulenza medico legale avevano tratteggiato nei termini dell'imputazione, sia per quanto concerne l'impostazione giuridico-penale perché le stesse aggravanti già erano state contestate nell'avviso di fine indagine". I legali di Stasi, "indagine seria e penetrante" "La richiesta di rinvio a giudizio nei confronti di Sempio segna un passaggio decisivo di un'indagine seria e penetrante, effettuata per la prima volta dalla Procura della Repubblica di Pavia a 19 anni dall'omicidio di Chiara Poggi, nonchè l'unico epilogo possibile a fronte del grave quadro investigativo emerso", fanno sapere, in una nota, gli avvocati Antonio De Rensis e Giada Bocellari che assistono Alberto Stasi. "Nonostante i continui e inutili tentativi di delegittimazione se non finanche di scherno, perpetrati ai danni di tutti coloro che in qualche modo hanno fortemente voluto far luce su una vicenda da sempre ricca di dubbi e anomalie - prosegue la nota - gli elementi di prova scientifici, dichiarativi, intercettivi e documentali acquisiti, secondo la Procura di Pavia, riscrivono totalmente la storia dell'omicidio di Garlasco". "Ferma la presunzione di innocenza e l'irrinunciabile diritto di difesa dell'imputato - ribadiscono i legali dell'unico condannato per l'omicidio di Chiara Poggi , si auspica che, incardinato ora il processo, le energie siano orientate alla difesa della posizione di quest'ultimo e non si cerchino percorsi alternativi, attaccando ancora una volta la persona di Alberto Stasi, come avvenuto di recente peraltro su aspetti che non trovano alcun fondamento né connessione con l'omicidio addebitato oggi a Sempio: ogni tentativo in tal senso, oltre ad essere inutile, troverà, d'ora in avanti, una ferma risposta da parte della difesa Stasi. In tale situazione e alla luce dei gravissimi fatti emersi (e di quelli non ancora emersi ma di cui la difesa Stasi è in possesso), si ritiene che l'unico atteggiamento possibile, verso la persona di Stasi, sia quello di una rispettosa attesa del giudizio di revisione. Sui tempi, per ora, anche per la delicatezza della fase, non si possono e non si vogliono dare indicazioni ma si può solo dire che ci saranno aggiornamenti tra non molto".
 </article>
-<article source="AGI" date="Mon, 02 Nov 2026 22:51:17 GMT">
-L'elicottero precipitato in Bosnia, questa mattina i funerali dei quattro militari italiani
-Si celebrano questa mattina alle 9, nella Chiesa di Santa Maria degli Angeli in piazza della Repubblica a Roma si celebrano i funerali dei quattro militari italiani a bordo dell'elicottero precipitato in Bosnia. Il Tg1 seguirà in diretta la cerimonia dalle 8.45 su Rai 1. Ieri le salme dei militari Simone Ruggia e Claudio Marchesi, dell'Esercito italiano, e di Adriano Zecchillo e Laura Procacci, appartenenti al Corpo Militare Volontario della Croce Rossa Italiana, sono rientrate in Italia con un volo militare atterrato all'aeroporto di Roma Ciampino intorno alle 12. Dopo l'onore ai caduti e le note del Silenzio, le bare avvolte nel Tricolore sono state portate a spalle dai militari e il presidente della Repubblica, Sergio Mattarella, le ha salutate una a una chinando il capo in segno di deferenza. Poi le salme sono state portate davanti ai carri funebri in sosta nell'area militare del 31esimo Stormo, dove erano in attesa i parenti delle quattro vittime, i sergenti Ruggia e Marchesi, il tenente Zecchillo e il sergente Procacci. Poi il trasferimento al Celio dove è stata allestita la camera ardente. I militari, deceduti il 29 ottobre in Bosnia-Erzegovina, nell'ambito della missione europea Eufor-Althea, erano a bordo di un elicottero Ch-47 Chinook precipitato nella zona di Brcko, al confine con la Serbia. A bordo c'erano 15 persone: oltre alle quattro vittime, c'erano undici persone rimaste ferite. Il velivolo era impegnato nella missione internazionale Eufor Althea e apparteneva al primo Reggimento Aviazione dell'Esercito "Antares" di Viterbo. Sono in corso le indagini per ricostruire gli ultimi istanti del volo e accertare le cause che hanno provocato lo schianto. Camera ardente al Celio I parenti delle vittime, dopo aver accolto i feretri all'aeroporto di Ciampino, sono arrivati al Celio dove è allestita la camera ardente al Policlinico militare, aperta anche al pubblico. La camera ardente è stata allestita all'interno della chiesa del Policlinico militare, la Salus Infirmorum. I feretri di Simone Ruggia, Claudio Marchesi e Franco Adriano Zecchillo sono stati collocati davanti all'altare. La salma di Laura Procacci è stata trasferita al policlinico di Tor Vergata per l'autopsia. All'interno sono state deposte le corone di fiori del ministro della Difesa, Guido Crosetto, e del capo di Stato Maggiore dell'Esercito, Carmine Masiello.
+<article source="AGI" date="Tue, 03 Nov 2026 19:15:48 GMT">
+Delitto di Chiara Poggi, che cosa può succedere adesso
+Con la richiesta di rinvio a giudizio, l'inchiesta su Andrea Sempio arriva a uno snodo decisivo. La Procura di Pavia mette sul tavolo di un giudice indizi, testimonianze, intercettazioni, interrogatori raccolti a partire dall'inizio del 2025. Spetterà a quello che è per la Costituzione un "organo terzo e imparziale" valutare se questi elementi siano sufficienti per portare Sempio a una "ragionevole condanna", come prevede la legge dopo la riforma Cartabia. Il caso Stasi complica lo scenario Lo scenario che si prospetta però è tutt'altro che ordinario e lineare perché complicato dal fatto che al momento c'è il condannato definitivo Alberto Stasi per la morte di Chiara Poggi. Si è vicini a un "cortocircuito giudiziario": da una parte un cittadino considerato colpevole, che sta terminando di scontare da semilibero 16 anni di carcere, dall'altra un presunto colpevole, Sempio, giunto alle soglie del processo. L'ipotesi di una sospensione dell'udienza Una situazione inedita che potrebbe portare il gup, non è ancora noto chi, a confrontarsi con la concreta possibilità di una sospensione. I legali Liborio Cataliotti e Angela Taccia chiederanno con ogni probabilità un rinvio della decisione in apertura dell'udienza preliminare, rivolgendosi alla Consulta per chiarire i contorni di una situazione inedita. "Faremo delle richieste al giudice - ha detto Cataliotti a 'Dentro la Notizia' - sempre che questo processo possa svolgersi prima o a prescindere o parallelamente rispetto all'istanza di revisione della difesa Stasi". La richiesta di revisione della condanna di Stasi Giada Bocellari e Antonio De Rensis, i legali dell'allora fidanzato di Chiara, presenteranno nei prossimi giorni, "a metà novembre", l'istanza di revisione alla Corte d'Appello di Brescia mentre l'udienza preliminare dovrebbe essere fissata a gennaio, anche se in teoria potrebbe prendere il via anche prima. Qualora dovesse passare il primo vaglio dell'ammissibilità, non varcato per esempio nel caso dell'istanza presentata dai legali di Olindo Romano e Rosa Bazzi per la strage di Erba, lo stesso procedimento di revisione potrebbe avere un lungo corso. Nuove perizie e molte incognite I giudici della revisione hanno la facoltà di disporre nuove perizie che andrebbero ad aggiungersi ai numerosi e contraddittori studi svolti in due decenni di processi e inchieste. Più che un punto d'arrivo, la richiesta di processo ha i contorni di una nuova ripartenza, con molte incognite che aggiungeranno interesse e dibattito a un caso giudiziario senza fine.
 </article>
-<article source="AGI" date="Mon, 02 Nov 2026 13:58:27 GMT">
-La Russia torna a bombardare il Kherson. Il Cremlino 'chiude' a nuove missioni umanitarie
-La Russia, come si temeva, dopo la fine della tregua a Oleshky ha ripreso gli attacchi contro la regione di Kherson. "Questa mattina, occupanti russi hanno attaccato un'auto con un drone nel quartiere di Korabelny" di Kherson, hanno reso noto le autorità locali in un comunicato. Una donna di 62 anni e un uomo di 73 anni sono rimasti feriti. “La Russia ha sfruttato la tregua per rafforzare l’esercito” L'esercito russo ha utilizzato il cessate il fuoco di Oleshky per rafforzare le sue posizioni nell'area. Lo ha rivelato l'emittente britannica SkyNews. Un suo giornalista, Stuart Ramsey, ha avuto accesso alle riprese effettuate da droni ucraini tra il 27 ottobre e ieri notte. E ha potuto accertare che prima, durante e dopo l'operazione umanitaria per portare aiuti alla popolazione e mettere in salvo 800 sfollati, i russi hanno utilizzato il corridoio umanitario per scopi militari. Nei filmati si vedono le forze di Mosca portare mezzi pesanti a Oleshky e nei villaggi vicini, così come armi, munizioni, personale militare e cibo. I soldati sono andati di casa in casa a cercare nuove postazioni e hanno riconquistato posizioni che avevano perso in precedenza. Non solo. Hanno tentato di "coprire le loro tracce" portando via dall'obitorio dell'ospedale i corpi dei civili morti a causa dei bombardamenti e delle mine. I cadaveri sono stati messi in sacchi bianchi e caricati su un camion, sotto gli occhi di soldati russi. Il Cremlino: "Nessuna missione umanitaria dopo Oleshky" La Russia non ha alle viste nessuna nuova missione umanitaria come quella condotta la settimana scorsa a Oleshky, dove la tregua più lunga dall'inizio della guerra nel 2022 ha consentito la consegna di aiuti alla popolazione e il trasferimento di centinaia di persone. Lo ha chiarito il portavoce del Cremlino, Dmitri Peskov. La commissaria russa per i diritti dell'infanzia Maria Lvova-Belova aveva suggerito che la Russia sarebbe stata pronta a prendere in considerazione altre missioni analoghe, qualora se ne fosse presentata la necessità. Ma il Cremlino è apparso di tutt'altro avviso. "Non ci sono piani per nuove iniziative come quella di Oleshky al momento", ha detto. Melania Trump: "Missione a Oleshky è stata un successo" Intanto, Melania Trump ha commentato con soddisfazione l'operazione umanitaria a Oleshky, che ha consentito di portare aiuti alla popolazione e mettere in salvo quasi 800 persone. "La missione è stata un successo, ha fornito aiuti cruciali alla regione e consentito il trasferimento di quasi 800 persone", ha scritto su X la moglie di Donald Trump, che si è spesa in prima persona per l'intesa tra Russia e Ucraina sul cessate il fuoco più lungo dall'inizio della guerra. "A nome dell’America, elogio la Russia e l’Ucraina per la loro leadership e cooperazione riguardo al cessate il fuoco di Oleshky. Spero che Oleshky serva da base per una pace duratura tra entrambe le nazioni", ha aggiunto. "Nessun preparativo per il vertice Xi-Putin-Trump Sul fronte dei negoziati non sono in corso preparativi precisi per l’incontro trilaterale tra il presidente russo Vladimir Putin, l'americano Donald Trump e il cinese Xi Jinping al vertice Apec di Shenzhen, il 18 e 19 novembre. Lo ha riferito il portavoce del Cremlino, Dmitri Peskov per poi precisare che il presidente americano e lo Zar “in qualche modo parleranno” in occasione del summit. Tra Ucraina e Russia, la diplomazia cede ancora il passo alle bombe. Le forze russe hanno abbattuto 658 droni ucraini in 24 ore. Lo ha annunciato il ministero della Difesa. "La contraerea ha abbattuto 658 veicoli aerei senza pilota ad ala fissa", si legge in una nota.
+<article source="AGI" date="Tue, 03 Nov 2026 18:21:30 GMT">
+Leadership una femminile, confronto Italia-Libia: le giovani del progetto "Ra’idat" alla F...
+Un ponte tra Tripoli e Roma per affrontare le sfide della leadership femminile, ma anche un confronto per superare il divario tra la parità formale e quella sostanziale nei contesti sociali e familiari. È stato questo il cuore del meeting ospitato dalla Fondazione Bellisario, che ha accolto nella sua sede una delegazione di giovani donne libiche iscritte al programma di formazione “Ra’idat”, realizzato da UNSMIL su impulso del Ministero degli Affari Esteri per promuovere l'empowerment femminile nel Paese nordafricano. Le difficoltà nei percorsi di studio e lavoro Ingegnere, studentesse, medici e imprenditrici hanno portato le loro testimonianze dirette sulle difficoltà incontrate nei percorsi accademici e lavorativi. Tra i nodi emersi con maggiore forza, i retaggi culturali che limitano la frequenza dei corsi misti, le pressioni della sfera familiare e le criticità dei sistemi di studio interni, segnati dalla scarsa presenza di docenti donne. Durante l'incontro è stato inoltre richiamato il percorso dei diritti dell'integrazione europea come modello per passare dal riconoscimento teorico a strumenti concreti di partecipazione democratica. L'intervento di Lella Golfo Sull'importanza dell'iniziativa è intervenuta la presidente della Fondazione, Lella Golfo, che all'AGI ha sottolineato: "Questi legami ci rendono ancora più speciali di quello che siamo. Con la Libia abbiamo sempre avuto uno splendido rapporto e questo è il terzo anno che ospitiamo le giovani del progetto nella nostra sede. Loro vorrebbero più libertà, come ci hanno detto vorrebbero essere come le donne che hanno visto quando sono arrivate all'aeroporto di Fiumicino. Questi sono desideri che ogni giovane ha in qualunque parte del mondo".Rispetto alla possibilità di far emergere un nuovo modello di guida del Paese in Libia, la presidente Golfo ha sottolineato il suo ottimismo: "Prendo per esempio la mia esperienza. Io lì ho visto 5 donne ministro, una tra l'altro proprio alla giustizia".
 </article>
-<article source="AGI" date="Mon, 02 Nov 2026 13:51:02 GMT">
-Firenze ricorda 60 anni dopo l’alluvione che stravolse la città
-A Firenze era l’alba di 60 anni fa, il 4 novembre del 1966, quando l’Arno, dopo ore di incessanti piogge, ruppe gli argini e invase la città, trasformando strade e piazze in fiumi di acqua e fango. Case, chiese, musei e biblioteche furono travolti dalla piena, che lasciò dietro di sé vittime, distruzione e ferite profonde nel patrimonio artistico della città. Ma da quella tragedia nacque anche una straordinaria mobilitazione internazionale: migliaia di volontari, in gran parte giovani, arrivati da ogni parte d’Italia e del mondo per aiutare a salvare libri, opere d’arte e ciò che restava della vita quotidiana e che, per questo, vennero chiamati gli ‘angeli del fango’. Le vittime e i danni al patrimonio artistico di Firenze La furia dell’acqua provocò 36 vittime e tantissimi dispersi. Danni incalcolabili al patrimonio artistico. Solo con la prima ondata di piena vennero danneggiate oltre 1500 opere d’arte tra tele, affreschi, sculture. Sott’acqua finì anche il preziosissimo Crocifisso di Cimabue. Senza contare il milione di volumi, sui 3 posseduti dalla Biblioteca nazionale. Migliaia i cittadini che videro le case e le botteghe sommerse. Molti di questi non riaprirono più. Sessant’anni dopo quei tragici fatti, Firenze torna a quei giorni con un calendario di commemorazioni, mostre, incontri e spettacoli che culmineranno il 4 novembre con la presenza del Presidente della Repubblica Sergio Mattarella. Il 4 novembre: il programma con Mattarella La giornata centrale delle celebrazioni si aprirà alle 9 nella basilica di Santa Croce con una celebrazione eucaristica presieduta dal cardinale Gualtiero Bassetti. Alle 10.15 partirà un corteo diretto a Ponte alle Grazie, dove alle 10.30 sarà deposta una corona nell’Arno in memoria delle vittime. Nel pomeriggio, alle 16.30, il Salone dei Cinquecento di Palazzo Vecchio ospiterà la commemorazione istituzionale alla presenza del Capo dello Stato. Il giornalismo toscano e il raduno degli Angeli del fango Tra le commemorazioni, anche il giornalismo toscano ha ricordato l’alluvione con un incontro che ci sarà oggi al Teatro della Pergola. L’appuntamento, dal titolo “La storia in prima pagina”, ha riunito i rappresentanti delle principali testate regionali per presentare gli speciali editoriali dedicati al sessantesimo anniversario, attraverso testimonianze, immagini e documenti d’archivio. Il ricordo dell’alluvione passerà anche attraverso un incontro dedicato a chi, sessant’anni fa, si mobilitò per soccorrere la città. Il 4 novembre, dalle 12, il Mercato Centrale ospiterà un raduno degli Angeli del fango, degli Angeli in divisa delle forze armate, dei giornalisti inviati da giornali, radio e televisioni, dei radioamatori e di quanti operarono nelle istituzioni per Firenze durante l’emergenza. L’iniziativa è promossa dalla Fondazione Earth Water Agenda e dall’Associazione Stampa Toscana, con la partecipazione di rappresentanti delle istituzioni, del mondo giornalistico, associativo, culturale e del volontariato. La musica e la ripartenza del Maggio Musicale Anche la musica sarà protagonista delle iniziative per il sessantesimo anniversario. Con il progetto “Rising from the Arno”, l’Accademia del Maggio Musicale Fiorentino, in collaborazione con la fondazione culturale statunitense Splendor of Florence, propone tre concerti gratuiti dedicati alla memoria della catastrofe e alla capacità della città di rialzarsi. La musica, del resto, ebbe un ruolo importante anche nella ripartenza della Firenze ferita. Il Teatro del Maggio Musicale Fiorentino, gravemente danneggiato dall’acqua e dal fango, fu la prima istituzione culturale cittadina a riaprire, il 27 novembre 1966, portando in scena “L’incoronazione di Poppea” di Claudio Monteverdi. Un segnale di ripresa mentre proseguiva il recupero delle opere e dei volumi sommersi e il difficile lavoro per restituire alla città i suoi luoghi simbolo. Il programma delle commemorazioni, avviato già nei mesi scorsi, proseguirà per tutto novembre con mostre, spettacoli, incontri e iniziative nelle scuole.
+<article source="AGI" date="Tue, 03 Nov 2026 17:56:16 GMT">
+Brescia, un 21enne uccide la madre a coltellate. Poi si consegna ai carabinieri
+Un 21enne ha ucciso a colpi di coltello la madre nella loro abitazione e poi è fuggito. E’ quanto avvenuto nel corso della notte appena trascorsa a Chiari, in provincia di Brescia. Una fuga di poche ore poi il ragazzo si è consegnato ai carabinieri di Cremona. Sul posto sono intervenuti i carabinieri della compagnia di Chiari e gli specialisti del nucleo investigativo. Il 21enne che si è costituito nella caserma dei militari si chiama Eduart Xhani, la madre, che aveva 39 anni, Meleqe Lusha. Il video dell'intervento dei carabinieri a Chiari (Brescia) Il giovane è nato a San Bonificio, in provincia di Verona, la madre in Albania. Chiari è un comune italiano di poco meno di 20mila abitanti nella pianura della bassa Bresciana occidentale, a ridosso del fiume Ogli. Uccisa con 10 coltellate Meleqe Lusha è stata uccisa con almeno dieci coltellate nella parte superiore del corpo. Lo riferiscono fonti investigative dalle quali si apprende che il figlio è stato sottoposto a un provvedimento di fermo da parte della Procura. Il movente non è stato riferito da Xhani che è apparso confuso in merito a ciò che l'ha spinto ad ammazzare la madre nell'abitazione di Chiari dove i due vivevano insieme. La procura ha disposto l'autopsia. Il sindaco, "ragazzo che non ha mai dato segnali di preoccupazione" "Un ragazzo taciturno, che non ha mai dato segnali di preoccupazione, impegnato sul lavoro nel campo dell'edilizia". Il sindaco di Chiari Gabriele Zotti descrive coì all'AGI Eduart Xhani, il 21enne che si è costituito nella caserma dei carabinieri di Cremona. Il padre, spiega, "non si è mai trasferito a Chiari, è rimasto a vivere nel Veronese, dove il ragazzo è nato". Un percorso, quello di Eduart, che è passato dalla frequentazione delle scuole a Chiari, da ultimo all'Istituto di istruzione superiore 'Luigi Einaudi'. "Ha sempre desiderato lavorare nell'edilizia, come da tradizione familiare - aggiunge -. E' stato cresciuto dalla madre che si era trasferita qui ricongiungendosi con la comunità di parenti che l'ha aiutata nella cura del figlio. Siamo tutti sconvolti, lo è anche la folta comunità di cittadini albanesi, circa duemila persone su una popolazione di 20mila abitanti. Ci chiediamo perchè è successo, è difficile capire quello che aveva dentro, cosa sia scattato nella sua mente".
 </article>
-<article source="AGI" date="Mon, 02 Nov 2026 11:35:00 GMT">
-Omicidio Pasolini, riaperto il caso dopo oltre 50 anni: "Nuove prove sulla notte dell'idroscalo"
-Era la notte tra l'1 e il 2 novembre del 1975 quando il corpo del giornalista, regista e scrittore Pier Paolo Pasolini fu ritrovato all'idroscalo di Ostia. Per quell'omicidio il tribunale di Roma (sezione dei minorenni) condannò nel 1976 in primo grado Pino Pelosi a dieci anni di reclusione, poi la sentenza fu confermata in appello e divenne definitiva nel 1979. A metà degli anni '90 e poi nel 2005 durante la trasmissione televisiva Rai "Ombre sul giallo", Pelosi ritrattò più volte la sua confessione, affermando di non aver partecipato in prima persona all'aggressione del regista, ma che invece sarebbe stata effettuata da tre persone con accento siciliano che si sarebbero accanite con bastoni e catene contro Pasolini. Fu allora che l'avvocato di parte civile, Nino Marazzita, chiese per la prima volta la riapertura del caso alla procura di Roma, che però fu subito archiviato. Le nindagini sull'omicidio Pasolini Nel cinquantunesimo anniversario della morte, oggi, la procura di Roma ha riaperto le indagini e il fascicolo è affidato al pm Silvia Santucci. La svolta è arrivata grazie all'avvocato Stefano Maccioni, che assiste nel procedimento uno dei cugini della vittima, Guido Mazzon, e l'Ordine dei giornalisti del Lazio. Il legale già nel marzo del 2009 aveva chiesto la riapertura delle indagini, in particolare che si procedesse a effettuare le necessarie indagini scientifiche sui reperti custoditi all'interno del museo criminologico di Roma. Il nuovo fascicolo di indagine in un primo momento venne affidato alla magistrata Diana De Martino. Per cinque anni il magistrato della procura di Roma, Francesco Minisci, svolse nuove indagini ma poi nel 2015 chiese l'archiviazione che fu disposta dalla gip del tribunale, Maria Agrimi. L'avvocato Maccioni: "Pelosi non era da solo" "Non nascondo la mia emozione e soddisfazione per la decisione assunta dalla procura della Repubblica di Roma di svolgere nuove indagini, come evidenziato ormai da quasi 18 anni la verità giudiziaria che attribuiva la responsabilità esclusiva a Giuseppe Pelosi è stata spazzata via nel corso di questi anni in particolare dai risultati delle prove scientifiche da noi richieste", ha commentato l'avvocato Stefano Maccioni. Dopo l'ordinanza di archiviazione, infatti, il legale ha svolto una instancabile attività non solo a livello giudiziario ma anche politico, chiedendo più volte l'istituzione di una Commissione parlamentare di inchiesta, istanza raccolta dai parlamentari Serena Pellegrino e Paolo Bolognesi che avevano presentato anche due progetti di legge. Anche la senatrice Ilaria Cucchi aveva avanzato una richiesta per una Commissione parlamentare d'inchiesta al Senato, ma senza ottenere il risultato sperato. "L'istanza presentata nel mese di novembre 2025 segnalava nuovi elementi emersi anche dalla visione delle immagini fornite dalla Rai del telegiornale dell'epoca, ma soprattutto fondata sulla elaborazione dei dati finora raccolti che devono necessariamente essere letti unitariamente e che conducono a un'unica conclusione: Giuseppe Pelosi non era con certezza da solo la sera dell'omicidio quindi è fondamentale accertare chi fosse con lui quella sera", ha aggiunto l'avvocato. Un nuovo testimone mai ascoltato prima Nel frattempo, a quanto si apprende, c'è un nuovo testimone, mai ascoltato prima, che potrebbe aiutare a fare luce sulla morte dello scrittore Pier Paolo Pasolini, ucciso all'idroscalo di Ostia il 2 novembre del 1975. È questo uno degli elementi al vaglio della procura di Roma che ha aperto una nuova indagine sull'omicidio del regista.
+<article source="AGI" date="Tue, 03 Nov 2026 14:12:40 GMT">
+Docce fredde contro i malanni di stagione: "Meno 31% di giorni di malattia"
+Fare regolarmente docce fredde potrebbe migliorare il benessere fisico e psicologico, ridurre le assenze per malattia e contribuire a diminuire consumi energetici ed emissioni di anidride carbonica. E' quanto emerge da una ricerca condotta dalla psicologa Lena Glaser dell'Università di Basilea, nell'ambito della sua tesi di dottorato presso la Facoltà di Psicologia. Lo studio ha coinvolto 719 persone di età compresa tra 18 e 65 anni, invitate a fare docce alla temperatura più bassa possibile per 12 settimane. I partecipanti, tutti inizialmente in buona salute e non abituati alle docce fredde, hanno mostrato un miglioramento progressivo del benessere fisico e mentale percepito. Rispetto al gruppo di controllo, hanno inoltre registrato in media il 31 per cento di giorni di assenza per malattia in meno. Molti volontari hanno abbandonato l'esperimento nelle prime due settimane, ma successivamente il tasso di abbandono è diminuito, suggerendo un progressivo adattamento all'acqua fredda. I benefici ambientali sono stati quantificati attraverso la riduzione dei consumi. Come fare la doccia Per una doccia di 45 litri, abbassare la temperatura dell'acqua da 40 a 15 gradi Celsius permette di risparmiare 1,3 chilowattora di energia. Durante le 12 settimane, i partecipanti hanno ridotto le emissioni di circa 15 chilogrammi di CO2 a persona, equivalenti approssimativamente a quelle prodotte percorrendo 100 chilometri in automobile. Secondo Glaser, piccoli cambiamenti quotidiani possono essere più facilmente mantenuti quando producono benefici personali immediatamente percepibili. I risultati dello studio I partecipanti hanno riferito di sentirsi più svegli e rinvigoriti dopo la doccia. La ricercatrice sottolinea tuttavia che non è necessario utilizzare sempre acqua estremamente fredda: anche riduzioni moderate della temperatura possono contribuire al risparmio energetico. Lo studio non ha verificato se i partecipanti abbiano mantenuto l'abitudine dopo le 12 settimane, né se altri comportamenti abbiano compensato i benefici ambientali. I risultati, presentati in una tesi di dottorato e non in un articolo scientifico sottoposto a revisione paritaria, richiedono quindi un'interpretazione prudente, soprattutto per quanto riguarda gli effetti sulla salute.
 </article>
-<article source="AGI" date="Mon, 02 Nov 2026 10:37:24 GMT">
-Femminicidio di Erba, la finta disgrazia in piscina: soffocata e gettata in acqua con la carrozzina
-Dopo avere ucciso la moglie facendo credere che fosse morta in un incidente in piscina Carmine Civitillo "potrebbe ripetere altri delitti, persino anche con altri familiari, in particolare contro la figlia Eleonora, da lui esplicitamente accusata di averlo rovinato per le dichiarazioni da lei rese e verso la quale già in passato aveva manifestato intenzioni violente, poi non attuate per l'intervento del compagno". Lo scrive la pm di Como Alessandra Bellù nel provvedimento di arresto nei confronti dell'uomo di 76 anni ritenuto autore dell'omicidio della 64enne moglie disabile Patrizia Monteleone, trovata annegata l'ultima domenica di settembre a Buccinigo di Erba, in Brianza. Nell'argomentare il pericolo di reiterazione del reato, la pm evidenzia "la fredda determinazione dimostrata dall'indagato nel porre in essere il gravissimo fatto in contestazione e l'indifferenza più volte rivendicata rispetto alla sorte della sua vittima". La pm spiega, nella misura cautelare, che "appare inoltre allarmante la totale e spregiudicata sottovalutazione del fatto da lui commesso (laddove l'indagato commentava con risate e commenti sprezzanti la morte della ex moglie, sintomo di una totale disumanità), tanto che la stessa figlia Giada, richiedendo al medico del padre una visita psichiatrica di fatto implicitamente ipotizzava un genitore ormai squilibrato e quindi privo di freni inibitori". La messa in scena Era stato l'ex marito a chiamare uno dei figli spiegando di aver trovato la donna morta in piscina. Invece, secondo le indagini condotte da pm e carabinieri, l'avrebbe prima soffocata e poi avrebbe spinto la carrozzina in acqua, finendoci dentro pure lui. Eleonora Civitillo, una delle tre figlie della coppia, ha raccontato agli inquirenti che "i rapporti tra i genitori erano tuttora conflittuali; infatti, più volte lui diceva che voleva trovare un modo di sbarazzarsi di lei perché era solo un peso e non rappresentava più niente per lui. Più volte ha pronunciato frasi del tipo 'dategli delle pastiglie in più per farla morire', 'l'affogo nell'acqua della piscina'. Da quando poi la mamma era qui a Erba ha iniziato a dirle frasi quali 'ti avveleno!!!' continuando a ripetere che l'avrebbe voluta affogare e che voleva farla morire con delle pastiglie in più". Il movente Quanto al movente, secondo la pm, "l'unica persona che poteva essere soddisfatta della morte di Patrizia, una soddisfazione peraltro manifestata sin dall'immediatezza, era proprio l'ex marito e ciò per due ordini di motivi. Da un lato quello economico, visto il mantenimento che doveva versare alla ex moglie, per diminuire il quale egli aveva accettato fosse provvisoriamente collocata nella sua casa di Erba. Dall'altro lato, e soprattutto, la circostanza che lui non sopportava più la presenza della moglie in casa propria, perché la coabitazione forzata si stava rivelando intollerabile con la condivisione della zona soggiorno in cui lei dormiva, e della cucina, per cui vi erano conflitti relativi alla spesa e ai cibi che Civitillo preparava o metteva a disposizione della donna, da questa criticati, tanto che l'uomo aveva spostato il frigorifero in veranda per evitare alla ex moglie di attingervi direttamente". Un "malessere crescente che è stato riferito da tutti i soggetti che frequentavano l'abitazione — rimarca la pm —. Ripetutamente l'indagato, sia pure in modo più o meno scherzoso, nei mesi pregressi aveva annunciato la volontà di eliminare la ex moglie, che per lui era un peso, e ciò o tramite i farmaci o, appunto, buttandola in piscina. In un caso Civitillo aveva anche fatto il gesto di buttare la moglie in piscina".
+<article source="AGI" date="Tue, 03 Nov 2026 13:21:59 GMT">
+Cybersecurity, gli esperti: "La catena del freddo è troppo vulnerabile"
+Lotta agli hacker e cybersecurity in primo piano dopo gli attacchi alla catena del freddo nei supermercati in Italia e in Europa. Non occorre un sofisticato virus informatico per mettere fuori uso i frigoriferi di un supermercato. Può bastare una password poco sicura, un dispositivo collegato direttamente a Internet o una funzione di manutenzione utilizzata da chi non dovrebbe averne accesso. È quanto emerge dalle analisi degli esperti di cybersecurity dopo la nuova ondata di attacchi informatici che il 2 novembre ha colpito i sistemi di refrigerazione di diversi supermercati europei, raggiungendo anche l'Italia. La cybersecurity contro la guerra ibrida In Sicilia, alcuni punti vendita della grande distribuzione, tra cui supermercati Coop nelle province di Palermo e Catania, hanno subito alterazioni delle temperature dei banchi frigoriferi, con conseguenti danni alla conservazione degli alimenti. La Polizia Postale sta indagando per individuare i responsabili e accertare eventuali collegamenti con gli episodi registrati in altri Paesi europei, dopo quelli avvenuti in Francia nel mese di ottobre. La riunione a Palazzo Chigi La vicenda ha richiamato l'attenzione del governo, che ha tenuto oggi una riunione a Palazzo Chigi, coordinata dal sottosegretario alla Presidenza del Consiglio Alfredo Mantovano, con i vertici dell'intelligence e dell'Agenzia per la cybersicurezza nazionale (ACN) Ma il problema va ben oltre i supermercati. Gli attacchi dimostrano come la crescente digitalizzazione delle infrastrutture fisiche abbia aperto nuove possibilità di sabotaggio, trasformando apparecchiature apparentemente innocue in potenziali punti deboli della sicurezza di intere organizzazioni. La catena del freddo nel mirino Bisogna partire dal funzionamento dei moderni impianti frigoriferi. Nei supermercati, le temperature dei banchi refrigerati e dei congelatori vengono spesso controllate attraverso sistemi digitali che consentono ai tecnici di intervenire da remoto, modificare i parametri di funzionamento, individuare eventuali guasti e programmare la manutenzione. Questa possibilità permette di ridurre i costi di gestione e migliorare l'efficienza degli impianti, ma può trasformarsi in una vulnerabilità quando i dispositivi sono direttamente accessibili attraverso Internet e non sono adeguatamente protetti. Le vulnerabilità dei sistemi Secondo Rafe Pilling, direttore dell'analisi delle minacce di Sophos, gli attacchi non richiedono necessariamente competenze tecniche particolarmente avanzate. "È improbabile che gli attaccanti stiano utilizzando tecniche particolarmente sofisticate: questi sistemi di refrigerazione sono progettati per essere gestiti da remoto e, purtroppo, questo significa che in molti casi le interfacce di amministrazione, spesso non adeguatamente protette, sono accessibili via Internet ed espongono vulnerabilità già note". "L'ipotesi più probabile", aggiunge, "è che gli attaccanti stiano sfruttando le funzionalità legittime dei sistemi per scopi malevoli. Una volta ottenuto l'accesso, possono utilizzare gli stessi comandi a disposizione dei tecnici autorizzati alla manutenzione degli impianti di refrigerazione per attivare la modalità di sbrinamento e aumentare le temperature". Le conseguenze operative È proprio questo uno degli aspetti più insidiosi della vicenda: gli hacker potrebbero non aver bisogno di installare programmi dannosi, ma semplicemente utilizzare i comandi già presenti nei sistemi di controllo. L'attivazione della modalità di sbrinamento può provocare un aumento della temperatura e compromettere la conservazione degli alimenti. Le conseguenze possono essere rilevanti: perdita delle merci, interruzione delle vendite, necessità di verificare la sicurezza dei prodotti e costi per il ripristino degli impianti. Nei casi più gravi possono emergere anche rischi per la salute dei consumatori. Il ruolo della supply chain L'analisi del team di Threat Intelligence di Nais conferma che la possibilità di utilizzare le normali funzionalità degli impianti rappresenta una delle principali minacce per le infrastrutture connesse. Credenziali condivise, accessi remoti non protetti e vulnerabilità di dispositivi obsoleti possono trasformare centinaia di punti vendita in un unico bersaglio. Il riferimento alle credenziali condivise è particolarmente significativo. In una rete di supermercati, la gestione degli impianti può essere affidata a società esterne che si occupano della manutenzione di numerosi punti vendita. Se gli accessi non sono adeguatamente separati e protetti, la compromissione di un singolo sistema o di un fornitore potrebbe avere ripercussioni su più strutture. Sistemi esposti a Internet Uno dei principali fattori di rischio è rappresentato dalla presenza di sistemi industriali direttamente raggiungibili attraverso la rete pubblica. Amir Preminger, chief technology officer di Claroty, richiama l'attenzione sulla diffusione di questa pratica. Collegare i sistemi di refrigerazione a Internet consente di controllarli e gestirli a distanza, ma espone le organizzazioni a tentativi di accesso non autorizzato. Il problema si aggrava quando i dispositivi utilizzano password predefinite, software non aggiornati o sistemi di autenticazione insufficienti. La sicurezza nelle aziende Molte aziende non dispongono di una conoscenza completa di tutti i dispositivi collegati alle proprie reti. Alcuni apparati possono essere stati installati dai produttori, altri dai manutentori o da società esterne, senza che i responsabili della sicurezza informatica abbiano piena visibilità della loro configurazione. Il problema riguarda soprattutto il rapporto tra i tradizionali sistemi informatici aziendali, indicati con la sigla IT, e le tecnologie operative, o OT, che controllano direttamente macchinari e processi fisici. Se un attacco a un sistema IT può provocare il furto di informazioni o il blocco di un servizio digitale, la compromissione di un sistema OT può modificare il funzionamento di un'apparecchiatura e produrre conseguenze materiali immediate. L'impatto dell'intelligenza artificiale A rendere più preoccupante lo scenario contribuisce l'evoluzione dell'intelligenza artificiale. Secondo l'analisi di Preminger, gli strumenti di IA permettono agli attaccanti di esaminare rapidamente dispositivi e software, individuando vulnerabilità che in passato avrebbero richiesto competenze specialistiche e tempi molto più lunghi. Un esperimento condotto dal Team82 di Claroty ha mostrato come sia possibile riprodurre vulnerabilità già individuate nei sistemi di controllo della refrigerazione e ottenere l'esecuzione di comandi con privilegi di amministratore su un dispositivo di laboratorio in circa 28 minuti, con un costo di appena 6 dollari per l'utilizzo dell'IA. I settori coinvolti La vulnerabilità dei sistemi di refrigerazione non riguarda soltanto la distribuzione alimentare. Tecnologie analoghe vengono utilizzate negli ospedali, nell'industria farmaceutica, nei laboratori, nei servizi idrici e nei data center. In un supermercato un attacco può determinare la perdita di prodotti alimentari; in una struttura sanitaria potrebbe compromettere la conservazione di farmaci, vaccini o campioni biologici; in un data center potrebbe causare il surriscaldamento delle apparecchiature e l'interruzione dei servizi digitali. Le misure di difesa Le analisi degli esperti convergono sulla necessità di intervenire innanzitutto sugli accessi remoti. Secondo Claroty, i dispositivi che controllano gli impianti di refrigerazione non dovrebbero essere direttamente esposti a Internet. Quando è indispensabile consentire la manutenzione a distanza, l'accesso dovrebbe avvenire attraverso VPN, sistemi di autenticazione avanzati o piattaforme centralizzate che permettano di controllare e monitorare le connessioni. Un altro elemento fondamentale è la segmentazione delle reti, che consente di separare i dispositivi industriali dagli altri sistemi informatici dell'organizzazione e limitare le conseguenze di un'eventuale compromissione. Occorre inoltre sostituire le password predefinite, verificare periodicamente la configurazione degli apparati, installare gli aggiornamenti di sicurezza e mantenere un inventario completo dei dispositivi connessi. La governance della sicurezza Il team di Nais sottolinea l'importanza di un approccio che coinvolga non soltanto i responsabili informatici, ma anche la direzione delle aziende e i fornitori esterni. La sicurezza OT non è più soltanto una questione tecnica, ma di governance aziendale. Perdere il controllo di un impianto significa mettere a rischio la continuità operativa e, potenzialmente, un'intera filiera. Una minaccia sempre più concreta Gli attacchi ai supermercati europei mettono in evidenza un cambiamento nella natura delle minacce informatiche. La crescente diffusione di apparecchiature connesse amplia il numero dei possibili bersagli e permette di trasferire le conseguenze di un attacco dal mondo digitale a quello fisico. Un frigorifero, un sistema di climatizzazione o un impianto industriale possono diventare strumenti attraverso i quali provocare danni economici, interrompere servizi essenziali e compromettere la sicurezza di prodotti e infrastrutture. Rimangono ancora da chiarire le responsabilità degli episodi del 2 novembre e le eventuali motivazioni degli hacker. Le tensioni geopolitiche e la crescente disponibilità di strumenti di attacco automatizzati contribuiscono a rendere più complesso lo scenario, ma la vulnerabilità emersa appare innanzitutto di natura strutturale.
 </article>
-<article source="AGI" date="Mon, 02 Nov 2026 08:17:07 GMT">
-Porto vecchio di Trieste, rogo in un capannone in disuso: morti un uomo e una donna
-Due persone, un uomo e una donna, sono morti nella notte appena trascorsa nell’incendio di un capannone in disuso nell’area del porto vecchio di Trieste. All’origine del dramma il crollo di un solaio. Sul posto sono intervenute, oltre a due squadre dei vigili del fuoco, i sanitari del 118 e la Polizia di Stato per fare luce sulla dinamica. Secondo quanto reso noto dai Vigili del fuoco del comando di Trieste, sull’incendio del porto vecchio presso il magazzino 18, dove sono decedute due persone, sono intervenute 2 squadre, l’autoscala, l’autobotte e il funzionario di guardia. Dalla struttura di 3 piani uscivano dense colonne di fumo, indossati gli autorespiratori e trovato un varco per accedere al magazzino, i vigili del fuoco sono entrati al piano terra dove le fiamme avevano completamente avvolto un soppalco in legno che poco dopo è crollato. Il ritrovamento dei due corpi Mentre una squadra ha iniziato le complesse operazioni di spegnimento gli altri soccorritori, aprendosi dei varchi con cesoie e altri attrezzi, hanno iniziato a ispezionare gli altri 2 piani della struttura rivenendo al primo piano 2 corpi ormai privi di vita - un uomo e una donna - rimasti presumibilmente intrappolati tra le fiamme e impossibilitati a trovare una via di fuga anche per il cedimento del solaio. Bonifica e rifugio dei migranti della rotta balcanica Spento il rogo è iniziata la bonifica delle parti andate a fuoco e lo smassamento del materiale che si trovava all’interno del piano terra del magazzino in cui spesso trovano rifugio migranti provenienti dalla rotta balcanica. Le operazioni dei Vigili del fuoco sono terminate alle ore 7.45. Sul posto sanitari del 118, Polizia e Carabinieri.
+<article source="AGI" date="Tue, 03 Nov 2026 09:12:26 GMT">
+Coppia morta intossicata nel Parmense, deceduta anche bimba di 7 mesi
+È morta la bambina di sette mesi rimasta gravemente intossicata dal monossido di carbonio nell'abitazione di Mezzani, nel Parmense, dove venerdì scorso erano morti entrambi i genitori. La piccola, ricoverata dal 30 ottobre nel reparto di Terapia intensiva pediatrica dell'ospedale Maggiore di Parma, è deceduta questa mattina dopo giorni di lotta tra la vita e la morte e diversi trattamenti, anche in camera iperbarica. La tragedia si era consumata nella notte tra giovedì e venerdì. A perdere la vita erano stati Birama Sall, 35 anni, e la moglie Rouba Ndaw, 32 anni, entrambi originari del Senegal. Secondo le prime ricostruzioni, all'origine dell'intossicazione ci sarebbe stato un braciere di una stufa a legna acceso per riscaldare gli ambienti, le cui esalazioni avrebbero saturato i locali, provocando la dispersione del gas letale. L'allarme del figlio 14enne A lanciare l'allarme sarebbe stato il figlio quattordicenne della coppia, dopo che uno zio, uscito in precedenza dall'abitazione, non era riuscito a mettersi in contatto con i genitori. All'arrivo dei soccorritori, per i due coniugi non c'era ormai più nulla da fare. La neonata era stata invece trasferita d'urgenza in ospedale con l'elisoccorso. Erano rimasti intossicati anche il quattordicenne e alcuni familiari, le cui condizioni non destavano preoccupazione e che sono stati successivamente dimessi. Gli accertamenti sulla tragedia La famiglia, da anni residente nel Parmense, si era trasferita da poco nell'abitazione teatro della tragedia. Proseguono gli accertamenti dei carabinieri per ricostruire con esattezza le circostanze dell'accaduto.
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 23:33:17 +0100">
-L'Atalanta crolla in casa con il Parma, la curva contesta Sarri e calciatori
-Gli emiliani si impongono 3-0. Prima vittoria di Gilardino
+<article source="ANSA" date="Tue, 3 Nov 2026 22:35:33 +0100">
+Kimi Antonelli nella Lotus di Senna: 'Una giornata indimenticabile'
+Il campione del mondo incontra la famiglia del suo idolo
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 21:13:54 +0100">
-Leonardo Maria Del Vecchio rilancia, 22 miliardi da Citi per le quote Delfin. No da quattro soci
-Sono gli stessi che hanno rifiutato l'offerta del ceco Strnad
+<article source="ANSA" date="Tue, 3 Nov 2026 22:35:03 +0100">
+Binance: 'Gli hacker hanno usato falsi colloqui di lavoro e malware per sottrarre fondi'
+Gli aggressori hanno iniziato a preparare la violazione già a giugno
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 20:24:29 +0100">
-FI apre a mini-ritocchi sulle pensioni. Ma è rebus coperture
-Al via l'iter della manovra, pure scuola e sanità nel mirino. Tagli anche sulle calamità
+<article source="ANSA" date="Tue, 3 Nov 2026 22:16:31 +0100">
+Nuovi orizzonti imprese, strategie per accrescere il valore globale del made in Italy
+Evento a Roma di Intesa, Confindustria, in collaborazione con Sace, Simest e Ice
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 20:14:51 +0100">
-Il telescopio spaziale Swift della Nasa in caduta libera, il rientro tra il 3 e 4 novembre
-Brucerà nell'atmosfera, ma detriti potrebbero cadere lungo la fascia equatoriale
+<article source="ANSA" date="Tue, 3 Nov 2026 21:18:51 +0100">
+Lo scenario dell'anatra zoppa e il rischio caos di ricorsi
+I dem possono bloccare l'agenda. A Trump restano decreti e veti, ma sono armi spuntate
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 19:43:37 +0100">
-La strage di Crans-Montana. Moretti in aula, la rabbia delle famiglie
-Il proprietario del Constellation: 'Non servivano permessi per i lavori'. La madre di Cyanne: 'Jessica scappa sempre'
+<article source="ANSA" date="Tue, 3 Nov 2026 21:01:58 +0100">
+Manovra: la Lega alza la posta sulle pensioni. Rispunta il condono edilizio
+Salvini richiama gli alleati. FdI: 'i patti sono quelli scritti'
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 19:30:03 +0100">
-Daniel come Tom Hanks in The Terminal, da settimane vive a Capodichino
-Dice di avere 25 anni, è senza documenti e appare disorientato. Ambasciata al lavoro
+<article source="ANSA" date="Tue, 3 Nov 2026 19:50:58 +0100">
+Al Parlamento europeo arriva la mostra ANSA 'Le donne della Repubblica'
+Il vernissage il 4 novembre con Metsola durante la Gender Equality Week
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 19:27:20 +0100">
-Rinasce su Telegram il gruppo sessista Phica, il sito era stato chiuso in estate
-Nel gruppo migliaia di foto intime e messaggi
+<article source="ANSA" date="Tue, 3 Nov 2026 19:50:21 +0100">
+Sneaker Revolution, al museo del Tessuto di Prato la mostra sulle scarpe sportive di culto
+Da calzature per lo sport a icone, una mostra per celebrarle
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 18:37:19 +0100">
-Una targa per Dante Nocentini, giornalista annunciò l'alluvione di Firenze
-Caporedattore dell'ANSA vide quando l'Arno tracimò, andò in redazione e diede la notizia
+<article source="ANSA" date="Tue, 3 Nov 2026 19:41:22 +0100">
+Il Papa in Sudamerica dopo il tumore, 'assistenza ordinaria'
+Incontrerà le vittime di abusi, 'chiederemo a Leone tolleranza zero'
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 17:48:32 +0100">
-Kimi Antonelli campione del mondo in pole positon anche nel presepe napoletano
-A San Gregorio Armeno è già pronta la statuina del pilota. L'autore: 'Lo aspettiamo'
+<article source="ANSA" date="Tue, 3 Nov 2026 19:13:03 +0100">
+L'ex Ilva si sta spegnendo, Flacks ancora in corsa per la gara
+Dubbi della cordata italiana. Gozzi: 'La decisione non è ancora presa'
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 17:40:10 +0100">
-Torna a casa dopo 28 anni e 50mila km: ha fatto il giro del mondo a piedi. Karl Bushby era partito dal Cile nel '98. Oggi l'abbraccio con la mamma a Hull, Inghilterra
-L'avventuriero britannico Karl Bushby è partito dal Cile nel 1998. Oggi l'abbraccio con la madre a Hull, in Inghilterra. Non ha usato nessun mezzo di traporto
+<article source="ANSA" date="Tue, 3 Nov 2026 17:49:02 +0100">
+Cate Blanchett ai vertici di un nuovo magazine letterario di Uniqlo
+L'attrice già ambasciatrice del brand coordinerà voci di donne in 'Stories She Tell'
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 16:26:59 +0100">
-Vannacci: 'Parteciperei ad una cena per la marcia su Roma, è ricorrenza storica'
-"Il 25 aprile divide buoni e cattivi, se sarà conciliante ci andrò"
+<article source="ANSA" date="Tue, 3 Nov 2026 16:51:46 +0100">
+Botteghe Oscure, da sede del Pci a hotel a 5 stelle
+Dormire nelle stanze dove lavorarono Berlinguer e i dirigenti del partito, tra arte e vista sulla Città Eterna
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 14:27:17 +0100">
-F1: Antonelli tra umiltà e futuro: 'Correrò col 12, Senna e' il mio riferimento'
-L'omaggio al brasiliano: 'Rimarrà sempre modello ispirazione come pilota e come persona'
+<article source="ANSA" date="Tue, 3 Nov 2026 14:07:48 +0100">
+Collisione tra due elicotteri, 'una persona morta e una ferita in Nepal'
+La vittima è un cittadino indiano
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 14:20:40 +0100">
-Festa Mercedes e after party, Antonelli tra tequila champagne e un 'furto'
-Campione del mondo atteso da tour de force in vista Gp del Brasile
+<article source="ANSA" date="Tue, 3 Nov 2026 12:44:48 +0100">
+Il tempo non ha bisogno di orologi, lo indica un universo in miniatura
+Emerge dai cambiamenti e quindi potrebbe non essere una grandezza fondamentale
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 14:11:53 +0100">
-Ago nascosto nel dolcetto di Halloween, ferita una bimba in Germania
-Era di cinque centimetri. L'appello delle forze dell'ordine alla cautela. Denunce in diverse regioni, un caso in Austria
+<article source="ANSA" date="Tue, 3 Nov 2026 19:51:50 +0100">
+Binance: 'Hacker hanno usato falsi colloqui di lavoro e malware per sottrarre fondi'
+Gli aggressori hanno iniziato a preparare la violazione già a giugno
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 14:00:05 +0100">
-Sostenibilità a marcia indietro, meta 2030 si allontana
+<article source="ANSA" date="Tue, 3 Nov 2026 18:32:43 +0100">
+L'utile di Intesa a 8,2 miliardi, 'convinti della solidità del progetto Mps'
+Via libera all'acconto sulla cedola da 3,8 miliardi. Il rapporto di cambio dell'Opas sale a 1,664
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 13:51:19 +0100">
-F1, Alberto Tomba: 'Io e Kimi della stessa pasta, mi rivedo in lui'
-Lo sciatore bolognese è amico del pilota: 'Gli ho regalato un braccialetto del fan club'
+<article source="ANSA" date="Tue, 3 Nov 2026 14:06:51 +0100">
+Sottoconsumo, non spreco e posseggo meno, tra stile di vita e necessità
 </article>
-<article source="ANSA" date="Mon, 2 Nov 2026 11:59:59 +0100">
-La stampa estera esalta Antonelli: 'Peter Pan con riflessi da campione'
-Il suo 'avvento' é 'un'incredibile ventata di aria fresca per la Formula 1'
+<article source="ANSA" date="Tue, 3 Nov 2026 14:45:12 +0100">
+Mattarella ai militari: "Con la Costituzione si esprime la vostra etica"
+"Siamo un Paese che ripudia la guerra e rispetta il diritto internazionale contro la barbarie. Imprescindibile il rafforzamento della Nato e della Difesa comune Ue"
+</article>
+<article source="ANSA" date="Tue, 3 Nov 2026 14:13:44 +0100">
+Kiev: 'Sale a 29 bilancio morti Komysuhvakha, 48 i dispersi'
+Trilaterale con Russia, Usa e Ucraina ad Abu Dhabi il 10 e l'11 novembre. Melania Trump riunisce alla Casa Bianca funzionari russi e ucraini il 5/11. In settimana riunione Nato-Usa-E3 a Bruxelles
+</article>
+<article source="ANSA" date="Tue, 3 Nov 2026 13:29:59 +0100">
+Schiacciato da una pressa in un cartonificio, morto un operaio
+Tragedia sul lavoro a Fabriano (Ancona), la vittima aveva 57 anni
+</article>
+<article source="ANSA" date="Tue, 3 Nov 2026 13:25:47 +0100">
+L'IA di Anthropic è vicina alla capacità di auto-migliorarsi
+Lo scenario nei fattori di rischio di Claude, ma l'azienda assicura sui controlli umani
+</article>
+<article source="ANSA" date="Tue, 3 Nov 2026 11:00:35 +0100">
+Ultimi rovesci e forte vento sul versante adriatico e al Sud
+iLMeteo.it, da domani ampie schiarite
+</article>
+<article source="ANSA" date="Tue, 3 Nov 2026 10:23:52 +0100">
+Smantellato a Madrid 'accampamento per la casa'
+Gli organizzatori del movimento hanno denunciato su Telegram 'un intervento violento della polizia che ha causato numerosi feriti'
+</article>
+<article source="ANSA" date="Tue, 3 Nov 2026 09:43:50 +0100">
+Dustin Hoffman: 'Girare 'll laureato' un'esperienza terribile per me'
+L'attore temeva di non essere all'altezza della parte di Benjamin Braddock
+</article>
+<article source="ANSA" date="Tue, 3 Nov 2026 07:22:47 +0100">
+La sonda Voyager 1 vicina alla distanza record di un giorno-luce
+Il 18 novembre sarà a 25,89 miliardi di km dalla Terra
+</article>
+<article source="Adkronos" date="Wed, 4 Nov 2026 00:02:15 +0100">
+Caso Garlasco, la difesa di Sempio si prepara all'udienza preliminare tra Consulta e possibili perizie
+I legali chiederanno "di investire la Consulta" su quella che è un'anomalia: se si può processare Sempio quando per lo Stato italiano esiste già un colpevole
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 23:10:14 +0100">
+Jodar perde e fa felice... Cobolli: Flavio vola alle Finals
+Il tennista azzurro è qualificato matematicamente a Torino
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 21:40:18 +0100">
+SuperEnalotto, numeri estrazione vincente oggi 3 novembre. I 5 vincono oltre 18mila euro
+Nessun '6' né '5+1'. Il jackpot sale a 49,7 milioni di euro
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 21:04:00 +0100">
+Iran-Usa, Nyt: "Possibile nuovo attacco già mercoledì, piano è pronto". Teheran: "Reagiremo"
+Gli Stati Uniti valutano un raid imminente. Il ministero degli Esteri iraniano promette una "risposta devastante", ma conferma la trattativa tramite i mediatori
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 20:18:53 +0100">
+Devis Vasquez, chi è il portiere della Roma che sostituirà Gollini con lo United
+L'estremo difensore colombiano fa il suo esordio con la maglia giallorossa
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 20:17:16 +0100">
+McGregor torna a combattere? L'annuncio di Conor: "Sarà l'ultimo"
+Il lottatore irlandese ha dichiarato di voler tornare sul ring per poi ritirarsi
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 20:04:00 +0100">
+Feyenoord-Inter 0-3, Chivu cala il tris in Champions League
+I nerazzurri hanno battuto gli olandesi nella quarta giornata della fase campionato
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 19:51:00 +0100">
+Midterm 2026, italiano arrestato per frode elettorale: "Si fingeva cittadino Usa"
+Arrestato dall'Ice in New Jersey, ha votato in 4 elezioni federali
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 19:38:00 +0100">
+Midterm 2026, l'appello di Elon Musk su X: "Oggi votate rosso"
+Il miliardario ha chiesto di andare alle urne e scegliere i Repubblicani
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 19:36:11 +0100">
+Vaccini, Radovanovic (UniMi): "In virus sinciziale efficaci per contrastare eventi acuti"
+'Riduzione ospedalizzazioni ed eventi gravi fino al 70-75% rispetto ai non vaccinati'
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 19:35:45 +0100">
+Vaccini, Pregliasco: "Virus sinciziale un rischio per gli anziani, anti-Rsv entri nel Pnpv"
+'L'infezione può avere conseguenze significative soprattutto nelle persone fragili'
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 19:35:20 +0100">
+Vaccini, Cittadinanzattiva: "Anti-Rsv a livello nazionale contro frammentazioni regionali"
+Mandorino, 'accesso equo eviterebbe l'aggravarsi delle condizioni dei più fragili'
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 19:34:18 +0100">
+Antonelli comparsa nel film di Accorsi, l'attore: "Ti ho visto nascere"
+Il pilota della Mercedes ha un passato da attore, con un cameo nel film 'Veloci come il vento'
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 14:54:24 +0100">
+Schillaci: "Ricerca e industria strategiche per l'Italia, Latina è un polo di eccellenza"
+Ai 50 anni di J&J Innovative Medicines, il ministro della Salute sottolinea il valore dello stabilimento pontino, 'oltre 4 mld di compresse prodotte ogni anno esportate in 100 Paesi'. "Salute non è voce di spesa, non accetto tentazione contentino per cercare consenso. Voglio impegnarmi fino all'ultimo per aiutare il Ssn"
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 14:37:25 +0100">
+Caro carburanti, anche Lufthansa annuncia aumenti sui biglietti aerei
+L'annuncio giunge il giorno dopo che la compagnia aerea low-cost irlandese Ryanair ha dichiarato che alzerà le tariffe e avvierà un piano di riduzione dei costi
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 14:27:34 +0100">
+Codice della strada, il chiarimento del Mit: "Nessuno stop a guida autonoma, apertura a sperimentazioni"
+La nota del Ministero: "Previsto un tavolo interistituzionale che contribuirà a definire i necessari aggiornamenti normativi, anche alla luce dei profili di responsabilità civile, penale e amministrativa"
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 14:26:45 +0100">
+Eicma, Zoppas (Ice): "Con questa manifestazione portiamo in Italia circa 12mila tra buyer e clienti"
+"Eicma per la maggior parte delle fiere italiane dà dei contributi importanti soprattutto per quanto riguarda l'incoming, ossia portiamo in Italia circa 12.000 clienti, operatori, buyer nel 2025, probabilmente molti di più in modo consistente nel 2026. Servono al Made in Italy per crescere". Lo ha detto il presidente di agenzia Ice, Matteo Zoppas, a margine dell'inaugurazione della fiera delle due ruote, a Milano.
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 14:22:00 +0100">
+Persecuzione dei cristiani nel mondo, Gasparri: "Risoluzione bipartisan, urge impegno del Parlamento"
+Le parole del presidente della commissione Esteri del Senato al termine dell'audizione di monsignor Gallagher, segretario per i rapporti con gli Stati e le organizzazioni internazionali della Città del Vaticano, nell'ambito dei lavori della commissione sulla libertà religiosa delle minoranze cristiane nel mondo
+</article>
+<article source="Adkronos" date="Tue, 3 Nov 2026 14:21:51 +0100">
+Eicma, Salvini: "Numeri eccellenti alla faccia di Bruxelles che ci vorrebbe a piedi"
+"È un orgoglio avere la fiera più importante al mondo sulle due ruote. Numeri eccellenti, una fiera che sta crescendo, centinaia di migliaia di visitatori e soprattutto centinaia di migliaia di posti di lavoro. Alla faccia di qualcuno che a Bruxelles, nel nome dell'ideologia pseudo green, ci vorrebbe tutti a piedi o in monopattino". Lo ha detto il ministro a Infrastrutture e Trasporti e vicepremier, Matteo Salvini, all'inaugurazione dell'Eicma, a Milano.
 </article>
 <article source="Adkronos" date="Tue, 3 Nov 2026 00:23:05 +0100">
 Italiani sempre più stressati, i dati preoccupano: il 51% dei lavoratori sotto pressione
 Lo psicologo Lazzari: "Paese sotto pressione, quasi 60% italiani ha vissuto stress ingestibile in ultimo anno"
 </article>
-<article source="Adkronos" date="Tue, 3 Nov 2026 00:10:45 +0100">
-Mali di stagione, dalla nutrizionista i consigli per sostenere le difese immunitarie a tavola
-Le regole da seguire di Silvia Migliaccio, specialista in Endocrinologia e nutrizione umana e presidente della Società italiana di scienze dell'alimentazione
+<article source="Governo Italiano - Comunicati Stampa" date="Tue, 03 Nov 2026 15:45:36 +0100">
+Incontro con il Presidente della Repubblica del Cile
+Il Presidente del Consiglio, Giorgia Meloni, ha ricevuto oggi il Presidente della Repubblica del Cile, José Antonio Kast. Nel corso del colloquio, il Presidente Kast ha voluto condividere le principali riforme varate dal suo Governo per migliorare il clima per gli investimenti e rilanciare la crescita. A tal riguardo, i due Presidenti hanno convenuto sulla necessità di rafforzare la collaborazione nel contrasto alle reti criminali transnazionali, responsabili di sottrarre risorse economiche allo sviluppo nazionale.
 </article>
-<article source="Adkronos" date="Tue, 3 Nov 2026 00:07:00 +0100">
-Ucraina, Russia ha perso territorio a ottobre. Zelensky: "Putin prepara nuovo attacco"
-Nell'ultimo mese le forze di Mosca costrette ad arretrare. Il presidente ucraino: "Presto un altro attacco massiccio"
+<article source="Il Post" date="Tue, 03 Nov 2026 17:15:18 GMT">
+La campagna elettorale negli Stati Uniti, con le foto
 </article>
-<article source="Adkronos" date="Tue, 3 Nov 2026 00:06:00 +0100">
-Midterm, è il giorno del referendum su Trump: guerra e caro benzina pesano sul voto Usa
-Ma il tycoon rassicura sul possibile accordo con Teheran: "Prezzi del petrolio stanno crollando, Iran vuole una soluzione". Nell'ultimo sondaggio prima del voto uno scenario da incubo per il presidente americano
+<article source="Il Post" date="Tue, 03 Nov 2026 14:24:51 GMT">
+Leonardo Maria Del Vecchio ci riprova
 </article>
-<article source="Adkronos" date="Mon, 2 Nov 2026 21:42:50 +0100">
-Pamela Genini, strappati i sigilli della casa dove è stata uccisa: rubati abiti e gioielli
-A dirlo è 'Dentro la Notizia' su Canale 5. Il 23 marzo scorso la tomba della 29enne era stata profanata e il cadavere decapitato, la testa non è mai stata ritrovata
+<article source="Il Post" date="Tue, 03 Nov 2026 11:57:37 GMT">
+Questo grafico mostra quanto in fretta stanno cambiando le AI
 </article>
-<article source="Adkronos" date="Mon, 2 Nov 2026 21:15:45 +0100">
-Cobolli salta il Masters 1000 di Parigi e punta alle Atp Finals: "Non voglio rischiare"
-Il tennista romano: "Speravo di farcela. Ora testa al recupero"
+<article source="Il Post" date="Tue, 03 Nov 2026 08:32:18 GMT">
+La Coppa d’Asia di calcio, prevista in Arabia Saudita per l’inizio del 2027, è stata rinviata
 </article>
-<article source="Adkronos" date="Mon, 2 Nov 2026 20:15:45 +0100">
-Sondaggio politico, Fratelli d'Italia cala e centrosinistra allunga
-Il rilevamento Swg per il Tg La7 con le intenzioni di voto
+<article source="Il Post" date="Tue, 03 Nov 2026 06:55:44 GMT">
+Il bizzarro ultimo discorso di Trump prima del voto
 </article>
-<article source="Adkronos" date="Mon, 2 Nov 2026 19:51:16 +0100">
-Manovra, Sumai: "Dimenticati 18mila specialisti ambulatoriali, a rischio sanità territoriale"
-Magi, 'Senza investimenti cittadini costretti a rivolgersi agli ospedali o a pagare di tasca propria - Senza risposte pronti alla mobilitazione nazionale'
+<article source="Il Sole Ventiquattro Ore" date="Tue, 3 Nov 2026 19:17:53 GMT">
+SiGMA World apre a Roma, il summit del gioco vale 100 milioni
+Un summit per l’industria del gioco e delle tecnologie digitali, con una ricaduta stimata in oltre 100 milioni di euro sull’economia della Capitale. Si è aperta alla Fiera di Roma...
 </article>
-<article source="Adkronos" date="Mon, 2 Nov 2026 19:43:22 +0100">
-Alcol e rischio cancro, conta anche un solo bicchiere: gli studi
-Il consumo è associato a 7 diversi tipi di tumore. Riflettori sul legame con il cancro al seno
+<article source="Il Sole Ventiquattro Ore" date="Tue, 3 Nov 2026 18:13:06 GMT">
+Cyberattacchi, l’«ottobre nero» della logistica italiana: NoName colpisce Mit e aziende per due settimane
+Per oltre due settimane il collettivo filorusso ha colpito piattaforme pubbliche e imprese di trasporti, nautica e logistica con attacchi Ddos, provocando blocchi operativi e un danno economico ancora da quantificare
 </article>
-<article source="Camera Dei Deputati - Ultimi Temi" date="Mon, 02 Nov 2026 12:00:00 GMT">
-Le concessioni idroelettriche
-L'uso della risorsa idrica a fini idroelettrici richiede il rilascio di un atto concessorio. L'articolo 6 del R.D. 11 dicembre 1933, n. 1775 distingue tra grandi e piccole derivazioni. Nel caso degli impianti idroelettrici, le grandi derivazioni sono quelle per produzione di forza motrice con potenza nominale annua > 3000 kW, mentre le piccole derivazioni sono quelle con potenza nominale annua Con riferimento alle grandi derivazioni per uso idroelettrico, lo Stato ha fissato criteri e indirizzi per la disciplina generale nell'uso delle acque destinate a questo scopo, nel D.lgs. n.79 del 16 marzo 1999, articolo 12, più volte modificato, da ultimo con la legge sulla concorrenza 2021. Quanto alle procedure autorizzative per la costruzione degli impianti idroelettrici, nell'ambito delle quali è comunque richiesto il titolo concessorio allo sfruttamento delle acque, si rinvia al Dossier di documentazione e ricerche predisposto dal Servizio Studi su "La normativa statale per la produzione di energia da fonti rinnovabili".
+<article source="Il Sole Ventiquattro Ore" date="Tue, 3 Nov 2026 17:41:00 GMT">
+Dal 4 novembre operativa la carta «Dedicata a te»: 500 euro per acquisti alimentari
+Al via dal 4 novembre l’operatività per la Carta dedicata a te 2026. A oltre un milione di famiglie verranno caricati sulla carta (per chi è già possessore, per i...
 </article>
-<article source="Governo Italiano - Comunicati Stampa" date="Mon, 02 Nov 2026 10:17:00 +0100">
-Operazione della Polizia di Stato contro la criminalità giovanile, dichiarazione del Presidente Meloni
-Desidero esprimere il mio apprezzamento e la mia gratitudine alla Polizia di Stato per la vasta operazione condotta su tutto il territorio nazionale contro la criminalità giovanile, che ha portato a centinaia di arresti, migliaia di denunce e al sequestro di ingenti quantitativi di droga e armi. Un risultato importante, frutto di un lavoro straordinario di prevenzione, controllo e contrasto all'illegalità, che conferma l'impegno quotidiano delle nostre Forze dell'Ordine per garantire sicurezza ai cittadini e restituire legalità ai territori. [...]
+<article source="Il Sole Ventiquattro Ore" date="Tue, 3 Nov 2026 15:01:00 GMT">
+Ecobonus, a sorpresa c’è il taglio ai tetti di spesa per infissi, condizionatori e tende da sole
+Il massimale dell’ecobonus viene unificato: tutti i lavori ricadono in un solo plafond
 </article>
-<article source="Il Post" date="Mon, 02 Nov 2026 18:15:26 GMT">
-L'amministrazione Trump ha chiesto alla Corte Suprema di sospendere lo spoglio del voto per posta di 20mila elettori della California
+<article source="Il Sole Ventiquattro Ore" date="Tue, 3 Nov 2026 14:57:55 GMT">
+Vannacci tra calo nei sondaggi e defezioni sul territorio. Ma il generale assicura: «Gli iscritti crescono»
+Fisiologi assestamenti di un partito in via di radicamento sul territorio? O segnali di smottamento di una formazione politica che dopo l’ascesa continua nei sondaggi comincia a registrare i primi...
 </article>
-<article source="Il Post" date="Mon, 02 Nov 2026 17:38:01 GMT">
-Il paradosso delle pensioni nella legge di bilancio
+<article source="Il Sole Ventiquattro Ore" date="Tue, 3 Nov 2026 14:28:25 GMT">
+Dall’Aeronautica a Virgin Galactic, ecco chi è Villadei, l’astronauta in pole in una nuova missione privata nello spazio
+Della missione, chiamata Axiom 5, si parlerà nella prossima riunione del Comitato Interministeriale per le politiche relative allo spazio e alla ricerca aerospaziale (Comint)
 </article>
-<article source="Il Post" date="Mon, 02 Nov 2026 16:59:56 GMT">
-Il “Nido dell’aquila” di Hitler andrebbe ricostruito?
+<article source="Il Sole Ventiquattro Ore" date="Tue, 3 Nov 2026 12:12:00 GMT">
+Q8, sconto del 20% sui carburanti per agricoltura e pesca fino a dicembre
+Una riduzione del 20% sul prezzo di gasolio e benzina per gli operatori dell’agricoltura e della pesca, fino al 31 dicembre 2026. È la misura annunciata da Q8 Italia per...
 </article>
-<article source="Il Post" date="Mon, 02 Nov 2026 16:29:31 GMT">
-L’esercito israeliano si ritirerà da Hebron
+<article source="Il Sole Ventiquattro Ore" date="Tue, 3 Nov 2026 12:05:13 GMT">
+Mobilità, dal laboratorio alla strada: il piano Most da 10 milioni per il dopo Pnrr
+Il treno veloce da solo non basta. Se non entra in gioco l’intermodalità che crea un ponte con gli altri mezzi, con le reti e con i servizi, una parte...
 </article>
-<article source="Il Post" date="Mon, 02 Nov 2026 16:08:59 GMT">
-L’invenzione della techno
+<article source="Il Sole Ventiquattro Ore" date="Tue, 3 Nov 2026 11:44:56 GMT">
+Continuità territoriale aerea, dopo la rinuncia di Aeroitalia sui cieli della Sardegna decolla l’incertezza
+Sui cieli della Sardegna decolla l’incertezza. Perché da gennaio i collegamenti in continuità territoriale, ossia a tariffa fissa e prezzo calmierato, su alcune tratte per Roma e Milano...
 </article>
-<article source="Il Post" date="Mon, 02 Nov 2026 15:56:52 GMT">
-Come gli Houthi si sono fatti un arsenale
+<article source="Il Sole Ventiquattro Ore" date="Tue, 3 Nov 2026 11:15:00 GMT">
+Manovra 2027 per la Difesa in 10 domande e risposte: dal super caccia alle missioni all’estero
+Il punto sulle misure previste allo stato attuale dal testo del ddl di Bilancio. Alla Camera l’esame del provvedimento in prima lettura
 </article>
-<article source="Il Post" date="Mon, 02 Nov 2026 15:45:11 GMT">
-E la Ferrari?
+<article source="Il Sole Ventiquattro Ore" date="Tue, 3 Nov 2026 11:14:00 GMT">
+Genitori con partita Iva, fino a 500 euro al mese per baby sitting e nido al posto del congedo parentale
+Un contributo fino a 500 euro al mese per pagare servizi di baby sitting o la retta del nido, da chiedere al posto del congedo parentale. È il voucher che...
 </article>
-<article source="Il Post" date="Mon, 02 Nov 2026 15:43:56 GMT">
-Un aereo partito da Londra ha fatto un atterraggio di emergenza a Budapest per un allarme bomba, poi rivelatosi infondato
+<article source="Il Sole Ventiquattro Ore" date="Tue, 3 Nov 2026 09:54:17 GMT">
+Schiacciato da una pressa in un cartonificio, morto un operaio
+Un incidente mortale sul lavoro è avvenuto stamattina in un cartonificio di Fabriano (Ancona): un operaio di 57 anni, di origine straniera, è deceduto mentre lavorava ad una pressa nello...
 </article>
-<article source="Il Post" date="Mon, 02 Nov 2026 15:13:48 GMT">
-Due giorni di Talk, a Napoli
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 14:49:37 GMT">
-Il caos sull’aumento degli stipendi dei magistrati, in ordine
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 14:19:51 GMT">
-La Russia si è ritirata da un accordo del Consiglio d’Europa contro la tortura
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 14:12:52 GMT">
-Reti, gabbie e pneumatici contro i droni ucraini
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 14:05:52 GMT">
-La FIFA ha pagato le tasse del suo presidente Gianni Infantino?
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 14:04:04 GMT">
-Due persone sono morte in un incendio al Porto Vecchio di Trieste
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 13:27:18 GMT">
-Gli studenti di origini asiatiche erano penalizzati dalle misure per favorire le minoranze etniche?
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 12:47:43 GMT">
-Dopo 28 anni, Karl Bushby ha completato il suo giro del mondo a piedi
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 11:13:20 GMT">
-Com’è messa l’Italia con l’idrogeno
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 09:58:11 GMT">
-Il video di Mamdani e Gualtieri che promuovono l’opera lirica a New York
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 09:28:51 GMT">
-Sta per rompersi Internet?
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 08:53:08 GMT">
-In Germania sono stati segnalati alla polizia casi di spilli trovati nelle caramelle di Halloween
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 08:42:58 GMT">
-C’è una lite inaspettata nella campagna elettorale in Michigan
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 08:04:01 GMT">
-Quattro calciatori del Frosinone che è il caso di conoscere
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 07:38:28 GMT">
-Il governo prova a limitare il rincaro dei libri scolastici
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 07:29:45 GMT">
-La causa contro OpenAI per la morte di una donna con epilessia
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 07:15:19 GMT">
-I clienti della piattaforma di criptovalute Binance hanno prelevato più di 3 miliardi di euro, dopo il grande furto di venerdì
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 07:11:17 GMT">
-Lunedì 2 novembre
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 07:00:51 GMT">
-Peanuts 2026 novembre 02
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 06:26:21 GMT">
-In Serbia due importanti capi della polizia sono stati arrestati con l’accusa di abuso d’ufficio
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 05:35:15 GMT">
-Le app di emergenza in Russia e Ucraina sono state colpite da attacchi informatici
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 05:13:28 GMT">
-La Bulgaria ha una nuova presidente favorevole a riavvicinarsi alla Russia
-</article>
-<article source="Il Post" date="Mon, 02 Nov 2026 05:07:56 GMT">
-Irripetibili – Double Negative
-</article>
-<article source="Il Sole Ventiquattro Ore" date="Mon, 2 Nov 2026 19:07:28 GMT">
-Nasce Osservatorio civico: grazie all’AI chiarimenti sulle decisioni prese dai Comuni, da Tari ad asili nido
-Il servizio è già attivo per le città di Milano, Roma, Bari, Lecce, Brindisi e Taranto ma già nelle prossime settimane sarà progressivamente esteso a tutte le province italiane
-</article>
-<article source="Il Sole Ventiquattro Ore" date="Mon, 2 Nov 2026 17:58:25 GMT">
-Vida e Iva digitale: cosa cambia dal 2027 per i sistemi gestionali
-La trasformazione digitale dell’Iva comunitaria sta per entrare in una nuova fase con il pacchetto Vida
-</article>
-<article source="Il Sole Ventiquattro Ore" date="Mon, 2 Nov 2026 15:41:46 GMT">
-Urso incontra a Londra il ministro britannico Reynolds: «Gran Bretagna partner strategico»
-Il riavvicinamento della Gran Bretagna all’Unione Europea passa anche dall’Italia. Durante l’incontro oggi a Londra con il segretario di Stato britannico per le Imprese, l’Innovazione, la Scienza e il Commercio...
-</article>
-<article source="Il Sole Ventiquattro Ore" date="Mon, 2 Nov 2026 14:07:00 GMT">
-Liti con il Fisco, la tassa d’ingresso passa sempre di più da PagoPa
-Arriva un nuovo upgrade nel sistema del processo tributario telematico (Ptt) per semplificare il pagamento del contributo unificato tributario (Cut) attraverso PagoPa. Da martedì 3 novembre all’interno dell’area riservata per...
-</article>
-<article source="Il Sole Ventiquattro Ore" date="Mon, 2 Nov 2026 13:55:02 GMT">
-La fiducia nei mercati si costruisce anche con le parole: Oltre i numeri, il nuovo libro di Ivan Dompé
-Come si costruisce la fiducia nei mercati? E quale ruolo svolge la comunicazione nelle operazioni finanziarie, nelle crisi e nei cambi di governance? Sono le domande al centro di Oltre...
-</article>
-<article source="Il Sole Ventiquattro Ore" date="Mon, 2 Nov 2026 13:53:21 GMT">
-Costruire l’autonomia tecnologica per accelerare innovazione e crescita
-Il mutato contesto geopolitico degli ultimi anni impone alle aziende una nuova priorità: comprendere quali dipendenze, hardware o software, possono permettersi e quali invece sono critiche cercando quindi di riguadagnare...
-</article>
-<article source="Il Sole Ventiquattro Ore" date="Mon, 2 Nov 2026 12:41:00 GMT">
-Aerospazio, Tajani: «Nuova missione privata per un astronauta italiano. Dalla filiera oltre 21 miliardi di fatturato»
-Alla Farnesina la terza edizione degli Stati Generali della Space Economy. Il ministro per le Imprese e Made in Italy Urso: «evitare che lo spazio diventi terra di nessuno senza regole»
-</article>
-<article source="Il Sole Ventiquattro Ore" date="Mon, 2 Nov 2026 12:17:00 GMT">
-Statali, liquidazione senza attesa dal 2030: ecco cosa cambia e quando
-I nove mesi di sospensione iniziale si ridurranno di tre mesi all’anno per azzerarsi dal 2030
-</article>
-<article source="Il Sole Ventiquattro Ore" date="Mon, 2 Nov 2026 11:42:00 GMT">
-Protezione civile, la tabella delle allerte e delle criticità meteo-idrogeologiche e idrauliche
-La tabella delle allerte e delle criticità meteo-idrogeologiche ed idrauliche è contenuta nel primo allegato delle Indicazioni operative firmate dal capo dipartimento della Protezione civile il 10 febbraio 2016. La...
-</article>
-<article source="Il Sole Ventiquattro Ore" date="Mon, 2 Nov 2026 10:46:00 GMT">
-E-commerce, sale il costo delle spedizioni con la nuova tassa di gestione europea
-Il tributo da due euro si aggiunge alla tassa di tre euro introdotta lo scorso 1° luglio. L’obiettivo è coprire i costi dei controlli in crescita, ma il conto per il consumatore finale sarà ancora più salato: 12,20 euro per l’acquisto di due prodotti di categorie doganali diverse
+<article source="Il Sole Ventiquattro Ore" date="Tue, 3 Nov 2026 06:20:37 GMT">
+Dipendenti pubblici: tagliati i tempi di attesa del Tfr, ma solo per alcuni
+In manovra 3,1 miliardi in dieci anni per superare la liquidazione a rate nei pensionamenti per raggiunti limiti di età o di servizio
 </article>
 </other_headlines>
