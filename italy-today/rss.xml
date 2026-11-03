@@ -12,7 +12,7 @@
       <link>https://briefings.my/italy-today</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Nov 2026 22:05:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 01:02:26 +0000</lastBuildDate>
     <itunes:image href="https://briefings.my/italy-today/cover.png"/>
     <item>
       <title>Italy Today - 2025-12-15</title>
@@ -5984,6 +5984,25 @@ I will see you tomorrow.</description>
       <enclosure url="https://briefings.my/italy-today/artifacts/2026-11-01/2026-11-01-audio.mp3" length="4086572" type="audio/mpeg"/>
       <pubDate>Sun, 01 Nov 2026 08:00:00 +0000</pubDate>
       <itunes:duration>255</itunes:duration>
+    </item>
+    <item>
+      <title>Italy Today - 2026-11-03</title>
+      <link>https://briefings.my/italy-today/artifacts/2026-11-03/2026-11-03-audio.mp3</link>
+      <description>View all sources: https://briefings.my/italy-today/artifacts/2026-11-03/2026-11-03-sources-view.html
+---
+Welcome to another episode of &quot;Italy Today&quot;, today is Tuesday 03 and this episode was curated by Gemini 3.1 Pro.
+We begin with a rapid look at the day's major headlines. Global markets are holding their breath as America votes in the midterm elections, marking the first major electoral test for the Trump administration since his return to the White House. Here at home, President Sergio Mattarella and Prime Minister Giorgia Meloni were at Ciampino airport this morning for the solemn arrival of the caskets of four Italian soldiers killed in a helicopter crash during a peacekeeping mission in Bosnia. On the geopolitical front, oil prices took a sudden dive today after Iran's Ayatollah Khamenei unexpectedly authorized his government to open negotiations with Washington. In Ukraine, a devastating Russian strike on a school being used as a humanitarian hub in Zaporizhzhia has left 24 dead, prompting President Zelensky to declare that peace under these conditions is impossible. Finally, across the center and south of Italy, a severe weather front has triggered flash floods and forced widespread school closures from Abruzzo to Puglia. 
+But the main story today concerns a new, invisible frontline that is hitting Italians right at the grocery store. A massive, coordinated cyberattack has struck the refrigeration systems of supermarkets and industrial food suppliers across Europe, and the crisis has now reached Italy. Facilities in Emilia-Romagna, Tuscany, and Sicily saw their commercial freezers remotely hacked, with temperatures violently spiking from negative 28 degrees to over 50 degrees Celsius, forcing the destruction of tons of food. 
+The press is deeply divided on how to interpret the vulnerability. La Repubblica treats this as a structural failure of corporate security, emphasizing that basic firewalls were easily breached and criticizing the lack of digital preparedness in the private sector. Conversely, Il Messaggero and center-right dailies are leaning heavily into the geopolitical angle, framing this not as a simple hack, but as a deliberate, pro-Russian sabotage campaign designed to cripple European food supplies and instigate social chaos. 
+The immediate takeaway is that food logistics are now officially a matter of national security. Undersecretary Alfredo Mantovano convened an urgent summit at Palazzo Chigi this morning with the National Cybersecurity Agency and top intelligence directors. The government is now demanding that the entire large-scale retail sector immediately segregate their remote-control systems from the public internet. 
+Moving from national security to the economy, your online shopping is about to get tangibly more expensive. Il Sole 24 Ore reports that a new European handling tax on e-commerce is driving up shipping costs. A new 2 euro fee is being added to the 3 euro tax introduced this summer. The stated goal is to cover the rising costs of customs checks, a direct ripple effect of the aggressive global tariff environment initiated by the Trump administration over the past year. For Italian consumers, it means an extra hurdle at checkout for goods imported from outside the EU.
+Also on the economic front, there is finally a light at the end of the tunnel for Italy's public sector workers regarding their severance pay. Historically, state employees have suffered under a paradoxical bureaucratic penalty, forced to wait months or even years to receive their liquidazione upon retiring, a delay entirely absent in the private sector. Il Sole 24 Ore highlights that the new budget law outlines a progressive reduction of this waiting period. The current nine-month suspension will be cut by three months each year until the delay is entirely zeroed out by 2030, rectifying a long-standing structural inequality in the Italian labor market.
+But before we go, the culinary world is mourning the loss of a true pioneer. Nadia Santini, the legendary chef who transformed her family's countryside trattoria, Dal Pescatore, into a global destination, has passed away at the age of 72. She made history as the first Italian woman to ever be awarded three Michelin stars, an honor she held continuously for nearly thirty years. She leaves behind a legacy of immense warmth, proving that the highest levels of global gastronomy can still feel exactly like coming home. 
+I will see you tomorrow.</description>
+      <guid isPermaLink="false">https://briefings.my/italy-today/artifacts/2026-11-03</guid>
+      <enclosure url="https://briefings.my/italy-today/artifacts/2026-11-03/2026-11-03-audio.mp3" length="3906860" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>244</itunes:duration>
     </item>
   </channel>
 </rss>
