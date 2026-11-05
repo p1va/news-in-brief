@@ -1,53 +1,36 @@
 {
   "date": "2026-11-05",
-  "generated_at": "Thu 05 Nov 21:32",
+  "generated_at": "Thu 05 Nov 23:38",
   "stories": [
     {
       "rank": 1,
       "title": "Ondata di allarmi bomba sui voli in Europa, caos e jet in azione",
-      "source_count": 6,
+      "source_count": 7,
       "article_count": 11,
       "source_domains": [
-        "ansa.it",
+        "ilmanifesto.it",
         "ilmessaggero.it",
+        "ansa.it",
         "laverita.info",
         "lastampa.it",
         "repubblica.it",
         "news.google.com"
       ],
       "links": [
+        "https://ilmanifesto.it/panico-nei-cieli-deuropa-allarme-bomba-su-20-aerei",
+        "https://www.ilmessaggero.it/italia/allarmi_bomba_voli_europa_trasporto_aereo_sicurezza-9871719.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/11/05/ondata-di-allarmi-bomba-sui-voli-in-europa-caos-e-jet-in-azione_746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
         "https://www.ilmessaggero.it/mondo/allarme_bomba_aerei_cosa_c_e_dietro_cosa_sappiamo-9871225.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/05/nuova-ondata-di-allarmi-bomba-sui-voli-segnalati-da-una-mail-in-italiano._746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html",
-        "https://www.ilmessaggero.it/mondo/allarme_bomba_aerei_stato_maschile_chi_sono_mail_fiumicino-9871023.html",
-        "https://www.laverita.info/mondo/allarme-bomba-voli-europa-dirottati"
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/05/nuova-ondata-di-allarmi-bomba-sui-voli-segnalati-da-una-mail-in-italiano._746dfd38-9293-4c05-b2a2-c4fd0d609e5c.html"
       ]
     },
     {
       "rank": 2,
-      "title": "I repubblicani scaricano Hegseth: possibile avvio dell’impeachment",
-      "source_count": 4,
-      "article_count": 9,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/05/il-partito-scarica-hegseth-rubio-guarda-al-2028-e-pensa-alladdio_41c6d3d5-6a37-40d2-8014-42eb277efc2c.html",
-        "https://www.repubblica.it/esteri/2026/11/05/news/hegseth_pronto_l_impeachment_trump_restera_al_suo_posto-425702589/",
-        "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/05/news/da_sponsor_della_guerra_in_iran_a_capro_espiatorio_cosi_oggi_hegseth_e_nel_mirino_dei_repubblicani-15789057/",
-        "https://www.repubblica.it/esteri/2026/11/05/news/repubblicani_scaricano_hegseth_possibile_avvio_impeachment-425701454/",
-        "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/05/midterm-i-repubblicani-scaricano-hegseth-possibile-avvio-dellimpeachment.-vance-lavora-alla_41c6d3d5-6a37-40d2-8014-42eb277efc2c.html"
-      ]
-    },
-    {
-      "rank": 3,
       "title": "Fine vita, il governo impugna la legge del Veneto. Calderoli contrario, Salvini diserta",
-      "source_count": 6,
-      "article_count": 7,
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
@@ -56,15 +39,55 @@
         "ilsole24ore.com"
       ],
       "links": [
+        "https://ilmanifesto.it/fine-vita-il-governo-impugna-anche-la-legge-del-veneto",
         "https://www.ansa.it/sito/notizie/politica/2026/11/05/impugnata-la-legge-del-veneto-sul-fine-vita-il-governo-si-divide_badb3bdd-7f4e-4d5b-8044-97dc33da5bb2.html",
         "https://www.ilfattoquotidiano.it/2026/11/05/legge-fine-vita-veneto-impugnazione-governo-notizie/8562303/",
         "https://www.ilmessaggero.it/politica/fine_vita_veneto_no_governo_messaggio_lega_salvini_zaia_forza_italia-9871498.html",
-        "https://www.repubblica.it/politica/2026/11/05/news/fine_vita_governo_impugna_legge_del_veneto_calderoli_contrario_salvini_diserta-425702223/",
-        "https://www.ilfattoquotidiano.it/2026/11/05/legge-fine-vita-veneto-governo-impugnazione-notizie/8562148/"
+        "https://www.repubblica.it/politica/2026/11/05/news/fine_vita_governo_impugna_legge_del_veneto_calderoli_contrario_salvini_diserta-425702223/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "I repubblicani scaricano Hegseth: possibile avvio dell’impeachment",
+      "source_count": 4,
+      "article_count": 10,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/mondo/trump_elezioni_truccate_impeachment_capo_pentagono_midterm-9871738.html",
+        "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/05/il-partito-scarica-hegseth-rubio-guarda-al-2028-e-pensa-alladdio_41c6d3d5-6a37-40d2-8014-42eb277efc2c.html",
+        "https://www.repubblica.it/esteri/2026/11/05/news/hegseth_pronto_l_impeachment_trump_restera_al_suo_posto-425702589/",
+        "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/05/news/da_sponsor_della_guerra_in_iran_a_capro_espiatorio_cosi_oggi_hegseth_e_nel_mirino_dei_repubblicani-15789057/",
+        "https://www.repubblica.it/esteri/2026/11/05/news/repubblicani_scaricano_hegseth_possibile_avvio_impeachment-425701454/"
       ]
     },
     {
       "rank": 4,
+      "title": "Ucraina, Meloni scrive alla Ue: «Basta andare in ordine sparso». Lettera al presidente del Consiglio europeo Costa",
+      "source_count": 6,
+      "article_count": 6,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/le-lettere-a-vuoto-di-meloni-lue-parli-con-una-sola-voce",
+        "https://www.ilmessaggero.it/politica/ucraina_meloni_scrive_ue_basta_andare_ordine_sparso-9871657.html",
+        "https://www.ilfattoquotidiano.it/2026/11/05/ucraina-dopo-la-sconfitta-di-trump-meloni-cerca-bruxelles-lettera-a-costa-chi-negozia-per-la-ue-e-con-che-mandato/8561759/",
+        "https://www.repubblica.it/politica/2026/11/05/news/ucraina_meloni_costa_ue_dicembre_negoziatore-425701460/",
+        "https://www.lastampa.it/esteri/2026/11/05/diretta/guerra_russia_ucraina_news_oggi-15788622/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Cristiano Ronaldo si ritira dalla nazionale: «La mia maglia torna al popolo portoghese, volevo vincere e fare la storia»",
       "source_count": 6,
       "article_count": 6,
@@ -85,27 +108,28 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Ucraina, Meloni scrive alla Ue: «Basta andare in ordine sparso». Lettera al presidente del Consiglio europeo Costa",
-      "source_count": 5,
-      "article_count": 5,
+      "rank": 6,
+      "title": "Delitto di Villa Pamphili, Francis Kaufmann condannato all’ergastolo: “Uccise compagna e figlia di 11 mesi”",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
         "ilmessaggero.it",
+        "ansa.it",
         "ilfattoquotidiano.it",
-        "repubblica.it",
+        "laverita.info",
         "lastampa.it",
-        "ilsole24ore.com"
+        "agi.it"
       ],
       "links": [
-        "https://www.ilmessaggero.it/politica/ucraina_meloni_scrive_ue_basta_andare_ordine_sparso-9871657.html",
-        "https://www.ilfattoquotidiano.it/2026/11/05/ucraina-dopo-la-sconfitta-di-trump-meloni-cerca-bruxelles-lettera-a-costa-chi-negozia-per-la-ue-e-con-che-mandato/8561759/",
-        "https://www.repubblica.it/politica/2026/11/05/news/ucraina_meloni_costa_ue_dicembre_negoziatore-425701460/",
-        "https://www.lastampa.it/esteri/2026/11/05/diretta/guerra_russia_ucraina_news_oggi-15788622/",
-        "https://www.ilsole24ore.com/art/ucraina-meloni-scrive-costa-inaccettabile-ue-ordine-sparso-serve-voce-sola-AJOuct5B"
+        "https://www.ilmessaggero.it/roma/monteverde/omicidi_villa_pamphilj_kaufmann_madre_anastasia_uccisa_figlia_nipote_ultime_notizie-9871703.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/uccise-la-compagna-e-la-figlioletta-francis-kaufmann-condannato-allergastolo_713aa8f4-5288-476a-9546-23593356eba6.html",
+        "https://www.ilfattoquotidiano.it/2026/11/05/omicidio-villa-pamphili-kaufmann-ergastolo-notizie-2/8562044/",
+        "https://www.laverita.info/video/cronaca-video/villa-pamphili-ergastolo-kaufmann",
+        "https://www.lastampa.it/cronaca/2026/11/05/news/omicidio_villa_pamphili_kaufmann_ergastolo-15789135/"
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "In migliaia in piazza in Francia, un liceo incendiato vicino a Tolosa",
       "source_count": 4,
       "article_count": 6,
@@ -121,26 +145,6 @@
         "https://www.lastampa.it/esteri/2026/11/05/video/tolosa_irruzione_liceo_fuochi_artificio_incendio_scuola-15789036/",
         "https://www.repubblica.it/esteri/2026/11/05/news/manifestazioni_francia_liceo_incendiato_tolosa_proteste_parigi-425701398/",
         "https://www.lastampa.it/esteri/2026/11/05/news/francia_studenti_protesta_incendio_scuola_tolosa-15788994/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Delitto di Villa Pamphili, Francis Kaufmann condannato all’ergastolo: “Uccise compagna e figlia di 11 mesi”",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "laverita.info",
-        "lastampa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/uccise-la-compagna-e-la-figlioletta-francis-kaufmann-condannato-allergastolo_713aa8f4-5288-476a-9546-23593356eba6.html",
-        "https://www.ilfattoquotidiano.it/2026/11/05/omicidio-villa-pamphili-kaufmann-ergastolo-notizie-2/8562044/",
-        "https://www.laverita.info/video/cronaca-video/villa-pamphili-ergastolo-kaufmann",
-        "https://www.lastampa.it/cronaca/2026/11/05/news/omicidio_villa_pamphili_kaufmann_ergastolo-15789135/",
-        "https://www.agi.it/cronaca/news/2026-11-05/omicidio-villa-pamphili-ergastolo-kaufmann-39899530/"
       ]
     },
     {
@@ -164,38 +168,39 @@
     },
     {
       "rank": 9,
-      "title": "Trump sconfitto, la democrazia si rimette in moto: i sei segnali di una svolta che va oltre gli Stati Uniti",
-      "source_count": 3,
+      "title": "La Juve vince ad Alkmaar, domina nel primo tempo ma soffre e rischia nel finale",
+      "source_count": 4,
       "article_count": 5,
       "source_domains": [
+        "ansa.it",
         "ilmessaggero.it",
         "lastampa.it",
-        "repubblica.it"
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.ilmessaggero.it/editoriali/primopiano/trump_sconfitto_sei_segnali_svolta-9871347.html",
-        "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/05/news/america_elezioni_midterm_trump_molinari-15788454/",
-        "https://www.repubblica.it/esteri/2026/11/05/news/midterm_svolte_possibili_casa_bianca_politica_estera_netanyahu_putin-425700065/",
-        "https://www.repubblica.it/commenti/2026/11/05/news/midterm_dall_america_il_chiarore_di_un_alba-425700265/",
-        "https://www.ilmessaggero.it/economia/news/trump_mid_term_mercati_borse_euro-9869395.html"
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/05/la-juve-batte-laz-alkmaar-con-brivido-finale.-cade-il-milan-a-san_696fefa0-f035-411d-b3dc-5d940994dce9.html",
+        "https://www.ilmessaggero.it/sport/schede/az_juventus_pagelle_koopmeiners_kolo_muani_europa_league-9871733.html",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/05/az-alkmaar-juventus-0-2-diretta-e-foto_696fefa0-f035-411d-b3dc-5d940994dce9.html",
+        "https://www.lastampa.it/sport/2026/11/05/news/la_juve_vince_ad_alkmaar_domina_nel_primo_tempo_ma_soffre_e_rischia_nel_finale-15789607/",
+        "https://www.adnkronos.com/sport/diretta-az-alkmaar-juventus-oggi-europa-league-live-risultato-classifica_4auOn0l5SGH9zqR6gecAWK"
       ]
     },
     {
       "rank": 10,
-      "title": "Schiaffi e percosse ai bambini di un asilo, arrestata la direttrice",
+      "title": "Scontri dopo lo sgombero di Askatasuna, chiesti 4 anni per il primo imputato",
       "source_count": 4,
       "article_count": 4,
       "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
         "lastampa.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it"
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/schiaffi-e-percosse-ai-bambini-di-un-asilo-arrestata-la-direttrice_75c51ff0-b603-467d-b611-4dcf696a02e8.html",
-        "https://www.lastampa.it/cronaca/2026/11/05/video/schiaffi_e_strattoni_ai_bambini_dellasilo_i_filmati_delle_telecamere_che_incastrano_la_direttrice-15789026/",
-        "https://www.ilmessaggero.it/italia/monza_botte_asilo_arrestata_direttrice_chi_e-9870918.html",
-        "https://www.liberoquotidiano.it/news/pillole/49532329/maltrattamenti_in_asilo_nido_a_monza_arrestata_direttrice/"
+        "https://ilmanifesto.it/askatasuna-dal-gip-si-a-16-misure-cautelari",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/11/05/scontri-dopo-lo-sgombero-di-askatasuna-chiesti-4-anni-per-il-primo-imputato_fe897f35-a575-4b9e-9aba-4abba68aa84a.html",
+        "https://www.lastampa.it/torino/2026/11/05/news/askatasuna_misure_cautelari_scontri_31_gennaio_torino-15788623/",
+        "https://www.ilsole24ore.com/art/scontri-askatasuna-pm-chiede-4-anni-il-primo-imputato-AJRXLq5B"
       ]
     }
   ]
