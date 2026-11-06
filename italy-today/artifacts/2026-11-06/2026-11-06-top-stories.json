@@ -1,9 +1,29 @@
 {
   "date": "2026-11-06",
-  "generated_at": "Fri 06 Nov 20:32",
+  "generated_at": "Fri 06 Nov 23:07",
   "stories": [
     {
       "rank": 1,
+      "title": "E' un caso Altieri all'Anac. Le opposizioni a Meloni: 'Ritiri la nomina'",
+      "source_count": 5,
+      "article_count": 12,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
+        "https://www.ilfattoquotidiano.it/2026/11/06/anac-altieri-rinuncia-presidenza-notizie/8563840/",
+        "https://www.ansa.it/sito/notizie/politica/2026/11/06/e-un-caso-altieri-allanac.-le-opposizioni-a-meloni-ritiri-la-nomina_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
+        "https://www.ilfattoquotidiano.it/2026/11/06/anac-altieri-nomina-politicizzazione-notizie/8563563/",
+        "https://www.repubblica.it/politica/2026/11/06/news/anac_trifone_altieri_trattativa_governo_pd-425705166/"
+      ]
+    },
+    {
+      "rank": 2,
       "title": "Sinner e Cahill si separano: «Darren incredibile parte del mio viaggio». In arrivo Magnus Norman come nuovo coach",
       "source_count": 6,
       "article_count": 9,
@@ -24,37 +44,57 @@
       ]
     },
     {
-      "rank": 2,
-      "title": "E' un caso Altieri all'Anac. Le opposizioni a Meloni: 'Ritiri la nomina'",
-      "source_count": 5,
-      "article_count": 9,
+      "rank": 3,
+      "title": "L'Fbi arresta in Florida il padre di Meghan Markle",
+      "source_count": 7,
+      "article_count": 7,
       "source_domains": [
         "ansa.it",
-        "ilfattoquotidiano.it",
+        "laverita.info",
+        "liberoquotidiano.it",
+        "ilmessaggero.it",
         "repubblica.it",
         "lastampa.it",
-        "ilsole24ore.com"
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/11/06/e-un-caso-altieri-allanac.-le-opposizioni-a-meloni-ritiri-la-nomina_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
-        "https://www.ilfattoquotidiano.it/2026/11/06/anac-altieri-nomina-politicizzazione-notizie/8563563/",
-        "https://www.repubblica.it/politica/2026/11/06/news/anac_trifone_altieri_trattativa_governo_pd-425705166/",
-        "https://www.ilfattoquotidiano.it/2026/11/06/anac-altieri-incompatibile-lega-notizie/8563505/",
-        "https://www.repubblica.it/politica/2026/11/06/news/altieri_anac_incompatibile_nomina_lega-425704418/"
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/06/lfbi-arresta-in-florida-il-padre-di-meghan-markle-_404b4dee-1f32-4233-83f4-5dcbbc0afa5d.html",
+        "https://www.laverita.info/mondo/padre-meghan-pedopornografia",
+        "https://www.liberoquotidiano.it/news/esteri/49542477/meghan-markle-sotto-choc-padre-thomas-arrestato-per-pedopornografia/",
+        "https://www.ilmessaggero.it/persone/thomas_markle_arrestato_padre_meghan_florida_ultima_ora-9873473.html",
+        "https://www.repubblica.it/esteri/2026/11/06/news/padre_meghan_markle_arrestato_pedopornografia-425704651/"
       ]
     },
     {
-      "rank": 3,
+      "rank": 4,
+      "title": "Giorgia Meloni in sella ad un cavallo bianco alla fiera di Verona",
+      "source_count": 4,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "governo.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49543723/meloni-al-taglio-del-nastro-di-fieracavalli-a-verona-poi-sale-in-sella-a-un-cavallo-bianco/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49543725/-giorgia-siamo-con-te-meloni-a-fieracavalli-a-verona-accolta-dal-bagno-di-folla/",
+        "https://www.governo.it/it/articolo/visita-del-presidente-meloni-alla-128-edizione-di-fieracavalli/33049",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49543343/meloni-tra-i-giovani-all-eicma-in-fiera-milano-per-lei-bagno-di-folla-selfie-e-ovazione/",
+        "https://www.governo.it/it/articolo/il-presidente-meloni-alla-83-edizione-di-eicma/33047"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'",
-      "source_count": 6,
-      "article_count": 8,
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
         "ansa.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "repubblica.it",
-        "lastampa.it",
-        "ilmanifesto.it"
+        "lastampa.it"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
@@ -65,66 +105,7 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Papa Leone XIV parte per il Sud America: il decollo da Fiumicino",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "laverita.info",
-        "ansa.it",
-        "liberoquotidiano.it",
-        "ilmanifesto.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/video/papa-leone-viaggio-sud-america",
-        "https://www.ansa.it/vaticano/notizie/2026/11/06/al-via-il-viaggio-apostolico-del-papa-in-sudamerica.-desideri-di-pace-per-quei_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
-        "https://www.liberoquotidiano.it/news/libero-video/49538460/leone-xiv-partenza-da-roma-per-america-latina-visitera-uruguay-argentina-peru/",
-        "https://ilmanifesto.it/addio-maga-il-papa-parte-alla-riconquista-dellamerica-latina",
-        "https://www.ilsole24ore.com/art/il-papa-america-latina-la-sconfitta-trump-si-inizia-riscrivere-l-agenda-politica-continente-AJl0Zt6B"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Visita del Presidente Meloni alla 128ª edizione di Fieracavalli",
-      "source_count": 4,
-      "article_count": 6,
-      "source_domains": [
-        "governo.it",
-        "ansa.it",
-        "lastampa.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.governo.it/it/articolo/visita-del-presidente-meloni-alla-128-edizione-di-fieracavalli/33049",
-        "https://www.governo.it/it/articolo/il-presidente-meloni-alla-83-edizione-di-eicma/33047",
-        "https://www.ansa.it/sito/videogallery/short_video/2026/11/06/giorgia-meloni-in-sella-ad-un-cavallo-bianco-alla-fiera-di-verona_ff2d38e9-c47e-4f21-88a4-30744026578c.html",
-        "https://www.lastampa.it/cronaca/2026/11/06/video/giorgia_meloni_cavallo_fieracavalli_verona_2026-15790520/",
-        "https://www.liberoquotidiano.it/news/libero-video/49542328/meloni-visita-eicma-premier-accolta-bagno-folla-chi-urla-forza-giorgia-/"
-      ]
-    },
-    {
       "rank": 6,
-      "title": "Arrestato il padre di Meghan Markle: l’accusa è di pedopornografia",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "laverita.info",
-        "liberoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/06/lfbi-arresta-in-florida-il-padre-di-meghan-markle-_404b4dee-1f32-4233-83f4-5dcbbc0afa5d.html",
-        "https://www.laverita.info/mondo/padre-meghan-pedopornografia",
-        "https://www.liberoquotidiano.it/news/esteri/49542477/meghan-markle-sotto-choc-padre-thomas-arrestato-per-pedopornografia/",
-        "https://www.ilmessaggero.it/persone/thomas_markle_arrestato_padre_meghan_florida_ultima_ora-9873473.html",
-        "https://www.lastampa.it/esteri/2026/11/06/news/thomas_markle_padre_meghan_arrestato_florida-15790371/"
-      ]
-    },
-    {
-      "rank": 7,
       "title": "Borse, venerdì nero. L’Europa in rosso. A picco i titoli in Asia, affonda il Nasdaq (-5%)",
       "source_count": 4,
       "article_count": 5,
@@ -143,7 +124,7 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 7,
       "title": "Caso Almasri, la Consulta: Bartolozzi può essere processata per false dichiarazioni ai pm",
       "source_count": 4,
       "article_count": 5,
@@ -162,7 +143,44 @@
       ]
     },
     {
+      "rank": 8,
+      "title": "Paraguay, Peña destituito con impeachment: monta la protesta per Ueno Bank. E la Procura spicca un mandato di arresto",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "adnkronos.com",
+        "laverita.info"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/mondo/paraguay_impeachment_presidente_pena_mandato_d_arresto_cosa_e_successo-9873947.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/06/la-procura-del-paraguay-spicca-un-mandato-di-arresto-per-il-presidente-pena_b5c78e44-e52e-43f5-ad28-a2227aab6d8e.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/06/monta-la-protesta-in-paraguay-nonostante-si-vada-verso-limpeachment-al-presidente_b5c78e44-e52e-43f5-ad28-a2227aab6d8e.html",
+        "https://www.adnkronos.com/internazionale/esteri/paraguay-crac-ueno-bank-legami-presidente-pena-crisi-bancaria_4zPPDMxbzGvKtDgmVCXaY0",
+        "https://www.laverita.info/mondo/paraguay-banca-risparmi"
+      ]
+    },
+    {
       "rank": 9,
+      "title": "Papa Leone XIV parte per il Sud America: il decollo da Fiumicino",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "laverita.info",
+        "ansa.it",
+        "liberoquotidiano.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.laverita.info/video/papa-leone-viaggio-sud-america",
+        "https://www.ansa.it/vaticano/notizie/2026/11/06/al-via-il-viaggio-apostolico-del-papa-in-sudamerica.-desideri-di-pace-per-quei_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
+        "https://www.liberoquotidiano.it/news/libero-video/49538460/leone-xiv-partenza-da-roma-per-america-latina-visitera-uruguay-argentina-peru/",
+        "https://www.ilsole24ore.com/art/il-papa-america-latina-la-sconfitta-trump-si-inizia-riscrivere-l-agenda-politica-continente-AJl0Zt6B"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Altri 9 allarmi bomba, due su voli in Italia. Tv e giornali evacuati a Dublino",
       "source_count": 4,
       "article_count": 4,
@@ -177,24 +195,6 @@
         "https://www.ilfattoquotidiano.it/cronaca/live-post/2026/11/06/allarmi-bomba-europa-voli-aggiornamenti-diretta-oggi-notizie/8563057/",
         "https://www.repubblica.it/cronaca/2026/11/06/diretta/alllarmi_bomba_ryanair_roma_lisbona-425703663/",
         "https://www.lastampa.it/cronaca/2026/11/06/diretta/allarme_bomba_aerei_diretta_voli_6_novembre_2026-15790186/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Tajani conferma: italiani fermati in Cisgiordania, non hanno fatto nulla",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
-        "ansa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/mondo/cisgiordania_fermati_italiani_perche_cosa_e_successo_israele-9873747.html",
-        "https://www.ilfattoquotidiano.it/2026/11/06/cisgiordania-attivisti-italiani-arrestati-notizie/8563438/",
-        "https://www.adnkronos.com/politica/volontari-arrestati-cisgiordania-ultime-notizie_6t7cVs8OG0YeHhg6EVucgq",
-        "https://www.ansa.it/sito/notizie/politica/2026/11/06/tajani-conferma-italiani-fermati-in-cisgiordania-non-hanno-fatto-nulla-_5fc7c29a-dae6-45da-8b2a-201e9fe95515.html"
       ]
     }
   ]
