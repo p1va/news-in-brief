@@ -1,56 +1,81 @@
 {
   "date": "2026-11-07",
-  "generated_at": "Sat 07 Nov 00:52",
+  "generated_at": "Sat 07 Nov 12:50",
   "stories": [
     {
       "rank": 1,
-      "title": "Trump silura Susie Wiles e nomina il falco anti migranti Stephen Miller nuovo capo staff alla Casa Bianca",
+      "title": "Anac, il passo indietro di Altieri: “Ritiro la mia disponibilità all'incarico di presidente”",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 9,
       "source_domains": [
+        "lastampa.it",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.lastampa.it/politica/2026/11/07/news/il_gioco_dell_oca_dell_anac_la_lega_cerca_un_nuovo_nome_la_carta_dell_ex_m5s_urraro-15791045/",
+        "https://www.liberoquotidiano.it/news/politica/49544680/altieri_rinuncia_all_anac_grazie_a_meloni_salvini_e_tajani_ma_ritiro_la_la_mia_disponibilita_/",
+        "https://www.repubblica.it/politica/2026/11/07/news/altieri_ritiro_presidente_anac_lega_incompatibile_per_legge-425705869/",
+        "https://www.adnkronos.com/politica/anac-scontro-governo-opposizioni-altieri_2W3g10ltMrBfgFyFtpEa24",
+        "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html"
+      ]
+    },
+    {
+      "rank": 2,
+      "title": "Trump silura Susie Wiles e nomina il falco anti migranti Stephen Miller nuovo capo staff alla Casa Bianca",
+      "source_count": 8,
+      "article_count": 8,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
         "ilmanifesto.it",
         "lastampa.it",
         "ilfattoquotidiano.it",
         "ansa.it",
         "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it"
+        "ilmessaggero.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/49545467/trump-forse-qualche-cambio-in-squadra-e-nomina-miller-capo-staff/",
+        "https://www.repubblica.it/esteri/2026/11/07/news/prima_mossa_trump_dopo_midterm_falco_antimigranti_miller_sostituisce_wiles_capo_gabinetto-425705797/",
         "https://ilmanifesto.it/una-diserzione-dietro-laltra-trump-nel-bunker-con-i-falchi",
         "https://www.lastampa.it/esteri/speciali/elezioni-midterm-2026/2026/11/07/news/trump_maga_wiles_usa_miller-15790846/",
-        "https://www.ilfattoquotidiano.it/2026/11/06/trump-miller-capo-gabinetto-wiles-notizie/8563805/",
-        "https://www.ansa.it/sito/notizie/mondo/speciali/usa-midterm-2026/2026/11/06/midterm-trump-torna-allattacco-non-mollero-mai.-e-nomina-miller-capo_4b1dc648-5e25-4e4c-856c-8a949fe1762f.html",
-        "https://www.adnkronos.com/internazionale/esteri/trump-capo-staff-casa-bianca-miller-wiles_3RwIn9VtiFootNGRZ8ZOhI"
-      ]
-    },
-    {
-      "rank": 2,
-      "title": "Anac, il passo indietro di Altieri: “Ritiro la mia disponibilità all'incarico di presidente”",
-      "source_count": 6,
-      "article_count": 7,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.adnkronos.com/politica/anac-scontro-governo-opposizioni-altieri_2W3g10ltMrBfgFyFtpEa24",
-        "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
-        "https://www.ilfattoquotidiano.it/2026/11/06/anac-altieri-rinuncia-presidenza-notizie/8563840/",
-        "https://www.repubblica.it/politica/2026/11/06/news/anac_trifone_altieri_trattativa_governo_pd-425705166/",
-        "https://www.ilfattoquotidiano.it/2026/11/06/anac-altieri-incompatibile-lega-notizie/8563505/"
+        "https://www.ilfattoquotidiano.it/2026/11/06/trump-miller-capo-gabinetto-wiles-notizie/8563805/"
       ]
     },
     {
       "rank": 3,
-      "title": "Leone sbarca a Montevideo: “Fiero di essere americano e di aver votato alle midterm”",
-      "source_count": 5,
-      "article_count": 6,
+      "title": "Paraguay, arrestato l'ex presidente Peña per il caso Ueno Bank",
+      "source_count": 7,
+      "article_count": 8,
       "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "laverita.info",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/07/paraguay-arrestato-lex-presidente-pena-per-il-caso-ueno-bank_61a7c9de-074e-4347-94c3-768d3b65f7e6.html",
+        "https://www.ilfattoquotidiano.it/2026/11/07/scontri-paraguay-crac-ueno-bank-folla-tenta-irruzione-casa-santiago-pena-deve-andare-in-carcere/8563957/",
+        "https://www.laverita.info/mondo/crac-bancario-paraguay",
+        "https://www.liberoquotidiano.it/news/tv-news/49545340/paraguay-arrestato-pena-il-vice-alliana-giura-da-presidente/",
+        "https://www.repubblica.it/esteri/2026/11/07/news/paraguay_arresto_ex_presidente_pena_crac_banca_ueno-425705898/"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Leone sbarca a Montevideo: “Fiero di essere americano e di aver votato alle midterm”",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "liberoquotidiano.it",
         "ansa.it",
         "adnkronos.com",
         "ilmessaggero.it",
@@ -58,35 +83,37 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.liberoquotidiano.it/news/tv-news/49544673/midterm-il-papa-sono-fiero-di-essere-americano-e-di-aver-votato/",
+        "https://www.liberoquotidiano.it/news/tv-news/49544665/il-papa-mai-dubbi-sul-viaggio-in-sudamerica-mi-sento-piuttosto-bene/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/11/06/il-papa-in-sudamerica-sto-bene-mai-avuto-dubbi-di-fare-questo-viaggio_ec3fb45a-65f8-422c-8b7a-cee1fcbe8b31.html",
         "https://www.ansa.it/vaticano/notizie/2026/11/07/papa-leone-fiero-di-essere-americano-e-di-avere-votato_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
-        "https://www.adnkronos.com/internazionale/esteri/papa-leone-xiv-uruguay-viaggio-america-latina_1HgUKwIC2fCvG8s2yhB15S",
-        "https://www.ilmessaggero.it/vaticano/papa_leone_viaggio_sudamerica_uruguay_tumore_come_sta_cosa_ha_detto-9873941.html",
-        "https://www.adnkronos.com/internazionale/esteri/papa-uruguay-viaggio-america-latina-oggi_7BwPt6tP6dnYuQQbnKk8Zr",
-        "https://www.repubblica.it/esteri/2026/11/06/news/papa_leone_viaggio_america_latina_mai_dubitato_di_farcela_fiero_di_aver_votato_midterm-425705441/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilmanifesto.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it"
-      ],
-      "links": [
-        "https://ilmanifesto.it/allarmi-bomba-tocca-a-dublino-a-pochi-giorni-dai-vertici-europei",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
-        "https://www.ilfattoquotidiano.it/2026/11/06/falsi-allarmi-bomba-mail-rivendicazione-notizie/8563485/",
-        "https://www.lastampa.it/esteri/2026/11/06/news/voli_allarme_bomba_europa_mail_legami_filorussi_stato_maschile-15790249/",
-        "https://www.repubblica.it/cronaca/2026/11/06/diretta/alllarmi_bomba_ryanair_roma_lisbona-425703663/"
+        "https://www.adnkronos.com/internazionale/esteri/papa-leone-xiv-uruguay-viaggio-america-latina_1HgUKwIC2fCvG8s2yhB15S"
       ]
     },
     {
       "rank": 5,
+      "title": "Cyberattacchi, la denuncia di Tajani: \"Miei dati su dark web e minacce alla mia famiglia per sostegno Italia a Kiev\"",
+      "source_count": 7,
+      "article_count": 7,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "governo.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/11/07/hacker-filorussi-la-solidarieta-di-meloni-a-tajani-che-attacca-nel-mirino-per-il-nostro-sostegno-allucraina/8563925/",
+        "https://www.liberoquotidiano.it/news/politica/49544807/-i-miei-dati-su-dark-web-ma-non-mi-faro-intimidire-la-denuncia-di-tajani/",
+        "https://www.governo.it/it/articolo/dichiarazione-del-presidente-del-consiglio-meloni/33050",
+        "https://www.ilmessaggero.it/politica/tajani_dark_web_difesa_ucraina_foto_attacco_cyber-9875209.html",
+        "https://www.repubblica.it/politica/2026/11/07/news/tajani_ministro_denuncia_dati_personali_dark_web-425706409/"
+      ]
+    },
+    {
+      "rank": 6,
       "title": "Visita del Presidente Meloni alla 128ª edizione di Fieracavalli",
       "source_count": 4,
       "article_count": 7,
@@ -105,7 +132,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "L'Fbi arresta in Florida il padre di Meghan Markle",
       "source_count": 5,
       "article_count": 5,
@@ -125,71 +152,58 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Paraguay, l’ex presidente Peña arrestato dopo il crac bancario",
+      "rank": 8,
+      "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'",
       "source_count": 4,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
         "repubblica.it",
+        "ilmanifesto.it",
         "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "ilfattoquotidiano.it"
       ],
       "links": [
-        "https://www.repubblica.it/esteri/2026/11/07/news/paraguay_arresto_ex_presidente_pena_crac_banca_ueno-425705898/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/07/mandato-di-arresto-per-santiago-pena-pedro-alliana-nuovo-presidente-del_b5c78e44-e52e-43f5-ad28-a2227aab6d8e.html",
-        "https://www.ilmessaggero.it/mondo/paraguay_impeachment_presidente_pena_mandato_d_arresto_cosa_e_successo-9873947.html",
-        "https://www.lastampa.it/esteri/2026/11/07/news/fallimento_banca_paraguay_arrestato_presidente_pena-15790886/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Sinner e Cahill si separano: «Darren incredibile parte del mio viaggio». In arrivo Magnus Norman come nuovo coach",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/11/06/sinner-magnus-norman-coach-prime-parole-notizie/8563510/",
-        "https://www.lastampa.it/sport/2026/11/06/video/video_sinner_chiude_collaborazione_cahill_darren-15790183/",
-        "https://www.ilmessaggero.it/sport/tennis/sinner_lascia_cahill_coach_cosa_ha_detto_annuncio_cosa_e_successo_norman_nuovo_allenatore-9873029.html",
-        "https://www.lastampa.it/sport/2026/11/06/news/sinner_chiude_collaborazione_cahill_darren-15790110/"
+        "https://www.repubblica.it/cronaca/2026/11/07/news/allarme_bomba_aerei_secondo_giorno_meloni_vertice_ue-425705731/",
+        "https://ilmanifesto.it/allarmi-bomba-tocca-a-dublino-a-pochi-giorni-dai-vertici-europei",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
+        "https://www.ilfattoquotidiano.it/2026/11/06/falsi-allarmi-bomba-mail-rivendicazione-notizie/8563485/",
+        "https://www.repubblica.it/cronaca/2026/11/06/news/allarmi_voli_chi_c_e_dietro_come_difendersi-425704208/"
       ]
     },
     {
       "rank": 9,
-      "title": "Caso Almasri, la Consulta: Bartolozzi può essere processata per false dichiarazioni ai pm",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "ilmanifesto.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://ilmanifesto.it/caso-almasri-nessuno-scudo-per-bartolozzi",
-        "https://ilmanifesto.it/corte-costituzionale-una-buona-decisione-ma-resta-unombra",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/i-pm-possono-procedere-su-giusi-bartolozzi-per-false-dichiarazioni_74eb6ec2-3f83-44f8-ae3f-ec47cd839574.html",
-        "https://www.lastampa.it/cronaca/2026/11/06/news/caso_almasri_consulta_camera_cosa_cambia_bartolozzi-15790172/"
-      ]
-    },
-    {
-      "rank": 10,
       "title": "Sicilia, l’ex vicepresidente Armao ai domiciliari per corruzione. Il gip: “Nascondeva le mazzette”",
-      "source_count": 3,
-      "article_count": 3,
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
         "lastampa.it",
         "palermo.repubblica.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
         "https://www.lastampa.it/cronaca/2026/11/06/news/sicilia_l_ex_vicepresidente_armao_ai_domiciliari_per_corruzione_il_gip_nascondeva_le_mazzette-15790510/",
         "https://palermo.repubblica.it/cronaca/2026/11/06/news/gaetano_armao_arrestato_domiciliari_corruzione_regione_sicilia_le_notizie-425704491/",
-        "https://www.ilsole24ore.com/art/ai-domiciliari-corruzione-ex-vicepresidente-regione-sicilia-giuseppe-armao-AJ1LHh7B"
+        "https://www.ilsole24ore.com/art/ai-domiciliari-corruzione-ex-vicepresidente-regione-sicilia-giuseppe-armao-AJ1LHh7B",
+        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFBzYk11b2lmdTc2YzRPNFFyN0l0OGhlbjh5RlQya040ai0wUGlvb0lYQnZZd1VDVnFDQnJYczdtQXFtNUZXZ0pucmlVT3hfeV9sanZxVVFjTElmbXl0b0FUZnFHdndYenkyd00xVHNXTnIwcjlpcjNoeWxEbDh5a0IweXJ4RWk0eEZlVmh2Yw?oc=5"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Allarmi bomba aerei, Meloni: «La difesa non è solo armi». La pista russa sulla guerra ibrida",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "laverita.info",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it"
+      ],
+      "links": [
+        "https://www.laverita.info/mondo/allarmi-bomba-europa-voli-media-irlanda-meloni",
+        "https://www.ilmessaggero.it/mondo/allarmi_bomba_aerei_chi_c_e_dietro_russia_guerra_ibrida-9873939.html",
+        "https://www.ilfattoquotidiano.it/2026/11/06/meloni-spese-militari-cyberattacchi-notizie/8563655/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49543341/finti-allarmi-bomba-meloni-devono-preoccupare-sotto-attacco-le-infrastrutture-civili/"
       ]
     }
   ]
