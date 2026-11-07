@@ -1,31 +1,53 @@
 {
   "date": "2026-11-07",
-  "generated_at": "Sat 07 Nov 12:50",
+  "generated_at": "Sat 07 Nov 18:05",
   "stories": [
     {
       "rank": 1,
-      "title": "Anac, il passo indietro di Altieri: “Ritiro la mia disponibilità all'incarico di presidente”",
-      "source_count": 7,
+      "title": "Paraguay, arrestato l'ex presidente Peña per il caso Ueno Bank",
+      "source_count": 8,
       "article_count": 9,
       "source_domains": [
-        "lastampa.it",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "adnkronos.com",
         "ansa.it",
         "ilfattoquotidiano.it",
-        "ilsole24ore.com"
+        "laverita.info",
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.lastampa.it/politica/2026/11/07/news/il_gioco_dell_oca_dell_anac_la_lega_cerca_un_nuovo_nome_la_carta_dell_ex_m5s_urraro-15791045/",
-        "https://www.liberoquotidiano.it/news/politica/49544680/altieri_rinuncia_all_anac_grazie_a_meloni_salvini_e_tajani_ma_ritiro_la_la_mia_disponibilita_/",
-        "https://www.repubblica.it/politica/2026/11/07/news/altieri_ritiro_presidente_anac_lega_incompatibile_per_legge-425705869/",
-        "https://www.adnkronos.com/politica/anac-scontro-governo-opposizioni-altieri_2W3g10ltMrBfgFyFtpEa24",
-        "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/07/paraguay-arrestato-lex-presidente-pena-per-il-caso-ueno-bank_61a7c9de-074e-4347-94c3-768d3b65f7e6.html",
+        "https://www.ilfattoquotidiano.it/2026/11/07/scontri-paraguay-crac-ueno-bank-folla-tenta-irruzione-casa-santiago-pena-deve-andare-in-carcere/8563957/",
+        "https://www.laverita.info/mondo/crac-bancario-paraguay",
+        "https://www.liberoquotidiano.it/news/tv-news/49545340/paraguay-arrestato-pena-il-vice-alliana-giura-da-presidente/",
+        "https://www.repubblica.it/esteri/2026/11/07/news/paraguay_arresto_ex_presidente_pena_crac_banca_ueno-425705898/"
       ]
     },
     {
       "rank": 2,
+      "title": "Leone sbarca a Montevideo: “Fiero di essere americano e di aver votato alle midterm”",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/libero-video/49545480/papa-leone-sbarca-in-uruguay-fiero-di-essere-americano-e-di-aver-votato-/",
+        "https://www.liberoquotidiano.it/news/tv-news/49544673/midterm-il-papa-sono-fiero-di-essere-americano-e-di-aver-votato/",
+        "https://www.liberoquotidiano.it/news/tv-news/49544665/il-papa-mai-dubbi-sul-viaggio-in-sudamerica-mi-sento-piuttosto-bene/",
+        "https://www.ansa.it/sito/videogallery/mondo/2026/11/06/il-papa-in-sudamerica-sto-bene-mai-avuto-dubbi-di-fare-questo-viaggio_ec3fb45a-65f8-422c-8b7a-cee1fcbe8b31.html",
+        "https://www.ansa.it/vaticano/notizie/2026/11/07/papa-leone-fiero-di-essere-americano-e-di-avere-votato_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Trump silura Susie Wiles e nomina il falco anti migranti Stephen Miller nuovo capo staff alla Casa Bianca",
       "source_count": 8,
       "article_count": 8,
@@ -48,162 +70,140 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Paraguay, arrestato l'ex presidente Peña per il caso Ueno Bank",
-      "source_count": 7,
-      "article_count": 8,
+      "rank": 4,
+      "title": "Anac, il passo indietro di Altieri: “Ritiro la mia disponibilità all'incarico di presidente”",
+      "source_count": 6,
+      "article_count": 7,
       "source_domains": [
+        "liberoquotidiano.it",
+        "repubblica.it",
+        "adnkronos.com",
         "ansa.it",
         "ilfattoquotidiano.it",
-        "laverita.info",
-        "liberoquotidiano.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/07/paraguay-arrestato-lex-presidente-pena-per-il-caso-ueno-bank_61a7c9de-074e-4347-94c3-768d3b65f7e6.html",
-        "https://www.ilfattoquotidiano.it/2026/11/07/scontri-paraguay-crac-ueno-bank-folla-tenta-irruzione-casa-santiago-pena-deve-andare-in-carcere/8563957/",
-        "https://www.laverita.info/mondo/crac-bancario-paraguay",
-        "https://www.liberoquotidiano.it/news/tv-news/49545340/paraguay-arrestato-pena-il-vice-alliana-giura-da-presidente/",
-        "https://www.repubblica.it/esteri/2026/11/07/news/paraguay_arresto_ex_presidente_pena_crac_banca_ueno-425705898/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Leone sbarca a Montevideo: “Fiero di essere americano e di aver votato alle midterm”",
-      "source_count": 6,
-      "article_count": 9,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/49544673/midterm-il-papa-sono-fiero-di-essere-americano-e-di-aver-votato/",
-        "https://www.liberoquotidiano.it/news/tv-news/49544665/il-papa-mai-dubbi-sul-viaggio-in-sudamerica-mi-sento-piuttosto-bene/",
-        "https://www.ansa.it/sito/videogallery/mondo/2026/11/06/il-papa-in-sudamerica-sto-bene-mai-avuto-dubbi-di-fare-questo-viaggio_ec3fb45a-65f8-422c-8b7a-cee1fcbe8b31.html",
-        "https://www.ansa.it/vaticano/notizie/2026/11/07/papa-leone-fiero-di-essere-americano-e-di-avere-votato_0d5eaef1-75f3-4c07-81f7-0db8debd1fbf.html",
-        "https://www.adnkronos.com/internazionale/esteri/papa-leone-xiv-uruguay-viaggio-america-latina_1HgUKwIC2fCvG8s2yhB15S"
+        "https://www.liberoquotidiano.it/news/politica/49544680/altieri_rinuncia_all_anac_grazie_a_meloni_salvini_e_tajani_ma_ritiro_la_la_mia_disponibilita_/",
+        "https://www.repubblica.it/politica/2026/11/07/news/altieri_ritiro_presidente_anac_lega_incompatibile_per_legge-425705869/",
+        "https://www.adnkronos.com/politica/anac-scontro-governo-opposizioni-altieri_2W3g10ltMrBfgFyFtpEa24",
+        "https://www.ansa.it/sito/notizie/politica/2026/11/06/scoppia-il-caso-della-nomina-alla-guida-dellanac-altieri-si-ritira_213db7a9-2dd1-48af-8305-c65f12fa1116.html",
+        "https://www.ilfattoquotidiano.it/2026/11/06/anac-altieri-rinuncia-presidenza-notizie/8563840/"
       ]
     },
     {
       "rank": 5,
-      "title": "Cyberattacchi, la denuncia di Tajani: \"Miei dati su dark web e minacce alla mia famiglia per sostegno Italia a Kiev\"",
-      "source_count": 7,
+      "title": "Cracovia, 6 persone uccise e almeno 15 ferite in una sparatoria in centro",
+      "source_count": 6,
       "article_count": 7,
       "source_domains": [
-        "ilfattoquotidiano.it",
+        "ansa.it",
+        "laverita.info",
+        "ilmessaggero.it",
         "liberoquotidiano.it",
-        "governo.it",
+        "ilfattoquotidiano.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/07/cracovia-6-persone-uccise-e-almeno-15-ferite-in-una-sparatoria-in-centro_11361587-bf90-4d62-b3eb-4175e14055f6.html",
+        "https://www.laverita.info/mondo/cracovia-spari-morti-feriti",
+        "https://www.ilmessaggero.it/mondo/cracovia_chi_e_attentatore_sparatoria_tuta_mimetica_arma_militare_cosa_sappiamo-9875614.html",
+        "https://www.liberoquotidiano.it/news/esteri/49545844/polonia-uomo-auto-spara-caso-folla-cracovia-almeno-cinque-morti/",
+        "https://www.ilfattoquotidiano.it/2026/11/07/sparatoria-cracovia-morti-feriti-arrestato-uomo/8564188/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Tajani \"Non mi faccio intimidire da hacker filorussi, è in atto una guerra ibrida\"",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "liberoquotidiano.it",
         "ilmessaggero.it",
         "repubblica.it",
         "adnkronos.com",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ilfattoquotidiano.it/2026/11/07/hacker-filorussi-la-solidarieta-di-meloni-a-tajani-che-attacca-nel-mirino-per-il-nostro-sostegno-allucraina/8563925/",
-        "https://www.liberoquotidiano.it/news/politica/49544807/-i-miei-dati-su-dark-web-ma-non-mi-faro-intimidire-la-denuncia-di-tajani/",
-        "https://www.governo.it/it/articolo/dichiarazione-del-presidente-del-consiglio-meloni/33050",
+        "https://www.liberoquotidiano.it/news/pillole/49545824/tajani_non_mi_faccio_intimidire_da_hacker_filorussi_e_in_atto_una_guerra_ibrida_/",
+        "https://www.liberoquotidiano.it/news/libero-video/49545674/antonio-tajani-denuncia-attacchi-hacker-e-attacca-bonaccini-aiuta-signori-guerra-ibrida-/",
+        "https://www.liberoquotidiano.it/news/video-news-by-vista/49545682/tajani-hacker-russi-hanno-messo-una-taglia-su-di-me-e-la-mia-famiglia-io-non-mi-faccio-intimidire/",
         "https://www.ilmessaggero.it/politica/tajani_dark_web_difesa_ucraina_foto_attacco_cyber-9875209.html",
         "https://www.repubblica.it/politica/2026/11/07/news/tajani_ministro_denuncia_dati_personali_dark_web-425706409/"
       ]
     },
     {
-      "rank": 6,
-      "title": "Visita del Presidente Meloni alla 128ª edizione di Fieracavalli",
-      "source_count": 4,
-      "article_count": 7,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "governo.it",
-        "ansa.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49543723/meloni-al-taglio-del-nastro-di-fieracavalli-a-verona-poi-sale-in-sella-a-un-cavallo-bianco/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49543725/-giorgia-siamo-con-te-meloni-a-fieracavalli-a-verona-accolta-dal-bagno-di-folla/",
-        "https://www.governo.it/it/articolo/visita-del-presidente-meloni-alla-128-edizione-di-fieracavalli/33049",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49543343/meloni-tra-i-giovani-all-eicma-in-fiera-milano-per-lei-bagno-di-folla-selfie-e-ovazione/",
-        "https://www.governo.it/it/articolo/il-presidente-meloni-alla-83-edizione-di-eicma/33047"
-      ]
-    },
-    {
       "rank": 7,
-      "title": "L'Fbi arresta in Florida il padre di Meghan Markle",
-      "source_count": 5,
-      "article_count": 5,
+      "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'",
+      "source_count": 4,
+      "article_count": 6,
       "source_domains": [
         "ansa.it",
-        "laverita.info",
-        "ilmessaggero.it",
         "lastampa.it",
-        "news.google.com"
+        "repubblica.it",
+        "ilmanifesto.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/06/lfbi-arresta-in-florida-il-padre-di-meghan-markle-_404b4dee-1f32-4233-83f4-5dcbbc0afa5d.html",
-        "https://www.laverita.info/mondo/padre-meghan-pedopornografia",
-        "https://www.ilmessaggero.it/persone/thomas_markle_arrestato_padre_meghan_florida_ultima_ora-9873473.html",
-        "https://www.lastampa.it/esteri/2026/11/06/news/thomas_markle_padre_meghan_arrestato_florida-15790371/",
-        "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR3NEQkdPVThqbi1UWU1fR01wLTN0QklHRW1wZWwzVk93R3ZsUm85SzJTVEFFVWxpcDI5ZVVUUDE3UW5TRXNmNDJ1OUp6NWFJbWMwOGNiOElYWHZ3SEtlVHZKWk93Y1IxSWNRak4yQm5sWjUzR3h5LUhDU2dLaDVnaVdsMDZ4cFk5TGFWQWFB?oc=5"
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/07/taglia-degli-hacker-sul-dark-web-su-tajani-e-lo-voi.-cyberattacco-alla_2902e339-ba05-423b-b761-27735ead1323.html",
+        "https://www.lastampa.it/esteri/2026/11/07/news/allarmi_bomba_sui_voli_europei_indagini_sulla_pista_russa-15790942/",
+        "https://www.lastampa.it/cronaca/2026/11/07/news/le_scatole_cinesi_degli_hacker_dietro_la_guerra_ibrida_a_costo_zero-15790791/",
+        "https://www.repubblica.it/cronaca/2026/11/07/news/allarme_bomba_aerei_secondo_giorno_meloni_vertice_ue-425705731/",
+        "https://ilmanifesto.it/allarmi-bomba-tocca-a-dublino-a-pochi-giorni-dai-vertici-europei"
       ]
     },
     {
       "rank": 8,
-      "title": "L'incubo degli allarmi bomba nei cieli europei: 'È solo l'inizio'",
-      "source_count": 4,
+      "title": "Gualtieri si ricandida al Campidoglio con il campo larghissimo",
+      "source_count": 5,
       "article_count": 5,
       "source_domains": [
-        "repubblica.it",
-        "ilmanifesto.it",
         "ansa.it",
-        "ilfattoquotidiano.it"
+        "ilmessaggero.it",
+        "liberoquotidiano.it",
+        "adnkronos.com",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.repubblica.it/cronaca/2026/11/07/news/allarme_bomba_aerei_secondo_giorno_meloni_vertice_ue-425705731/",
-        "https://ilmanifesto.it/allarmi-bomba-tocca-a-dublino-a-pochi-giorni-dai-vertici-europei",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/11/06/lincubo-degli-allarmi-bomba-nei-cieli-europei-e-solo-linizio_d4594eb9-5523-489a-a9ed-4c4ae79c242d.html",
-        "https://www.ilfattoquotidiano.it/2026/11/06/falsi-allarmi-bomba-mail-rivendicazione-notizie/8563485/",
-        "https://www.repubblica.it/cronaca/2026/11/06/news/allarmi_voli_chi_c_e_dietro_come_difendersi-425704208/"
+        "https://www.ansa.it/sito/notizie/politica/2026/11/07/gualtieri-si-ricandida-al-campidoglio-con-il-campo-larghissimo_0f4fc042-27c3-44be-a704-866450fec849.html",
+        "https://www.ilmessaggero.it/politica/gualtieri_roma_sindaco_candidatura_sostegno_m5s_azione-9875355.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49545498/roma-gualtieri-avanti-per-continuare-a-cambiare-la-citta-con-tutti/",
+        "https://www.adnkronos.com/politica/roma-campidoglio-sindaco-gualtieri-ultime-notizie_1gSWxetlD0RQnESnenwORj",
+        "https://www.ilsole24ore.com/art/roma-gualtieri-si-ricandida-sindaco-e-apre-porte-m5s-e-azione-AJZnnO8B"
       ]
     },
     {
       "rank": 9,
-      "title": "Sicilia, l’ex vicepresidente Armao ai domiciliari per corruzione. Il gip: “Nascondeva le mazzette”",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Motogp: Marquez vince la sprint in Qatar davanti a Di Giannantonio",
+      "source_count": 3,
+      "article_count": 6,
       "source_domains": [
-        "lastampa.it",
-        "palermo.repubblica.it",
-        "ilsole24ore.com",
-        "news.google.com"
+        "adnkronos.com",
+        "ansa.it",
+        "ilfattoquotidiano.it"
       ],
       "links": [
-        "https://www.lastampa.it/cronaca/2026/11/06/news/sicilia_l_ex_vicepresidente_armao_ai_domiciliari_per_corruzione_il_gip_nascondeva_le_mazzette-15790510/",
-        "https://palermo.repubblica.it/cronaca/2026/11/06/news/gaetano_armao_arrestato_domiciliari_corruzione_regione_sicilia_le_notizie-425704491/",
-        "https://www.ilsole24ore.com/art/ai-domiciliari-corruzione-ex-vicepresidente-regione-sicilia-giuseppe-armao-AJ1LHh7B",
-        "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFBzYk11b2lmdTc2YzRPNFFyN0l0OGhlbjh5RlQya040ai0wUGlvb0lYQnZZd1VDVnFDQnJYczdtQXFtNUZXZ0pucmlVT3hfeV9sanZxVVFjTElmbXl0b0FUZnFHdndYenkyd00xVHNXTnIwcjlpcjNoeWxEbDh5a0IweXJ4RWk0eEZlVmh2Yw?oc=5"
+        "https://www.adnkronos.com/sport/motogp-marc-marquez-campione-mondo-qatar-classifica-combinazioni_1PrbWHPLMv2u6cCBbQ5o3U",
+        "https://www.ansa.it/sito/notizie/sport/moto/2026/11/07/motogp-marquez-vince-la-sprint-in-qatar-davanti-a-di-giannantonio_38ec265f-4ca2-4dea-abfd-38c2a768f664.html",
+        "https://www.ilfattoquotidiano.it/2026/11/07/motogp-qatar-sprint-marquez-vittoria-bezzecchi-out-ordine-arrivo-nuova-classifica/8564251/",
+        "https://www.adnkronos.com/sport/motogp-gp-qatar-motomondiale-sprint_2EOXmydIdbad6I7Zh3Mqn0",
+        "https://www.ilfattoquotidiano.it/2026/11/07/motogp-qualifiche-qatar-bezzecchi-pole-record-marquez-martin-bagnaia-griglia-di-partenza/8564042/"
       ]
     },
     {
       "rank": 10,
-      "title": "Allarmi bomba aerei, Meloni: «La difesa non è solo armi». La pista russa sulla guerra ibrida",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "La Francia di nuovo in piazza, polizia schierata al massimo con 70.000 agenti",
+      "source_count": 3,
+      "article_count": 5,
       "source_domains": [
-        "laverita.info",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it"
+        "liberoquotidiano.it",
+        "ansa.it",
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.laverita.info/mondo/allarmi-bomba-europa-voli-media-irlanda-meloni",
-        "https://www.ilmessaggero.it/mondo/allarmi_bomba_aerei_chi_c_e_dietro_russia_guerra_ibrida-9873939.html",
-        "https://www.ilfattoquotidiano.it/2026/11/06/meloni-spese-militari-cyberattacchi-notizie/8563655/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49543341/finti-allarmi-bomba-meloni-devono-preoccupare-sotto-attacco-le-infrastrutture-civili/"
+        "https://www.liberoquotidiano.it/news/tv-news/49546167/francia-migliaia-alle-nuove-manifestazioni-contro-il-caro-vita/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/07/al-via-manifestazione-a-parigi-e-in-decine-di-citta-francesi-gilet-gialli-a-concorde_2512b182-5718-410c-86bb-9c42b570373b.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49545648/francia-un-nuovo-sabato-di-proteste-70mila-agenti-mobilitati/",
+        "https://www.adnkronos.com/internazionale/esteri/francia-nuova-giornata-di-mobilitazione-ultime-news-in-diretta_1Wn3LoHoZRIESDVGdOPxZo",
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/06/domani-la-francia-di-nuovo-in-piazza-polizia-schierata-al-massimo-con-70.000-agenti_707c8697-f1ce-4ab9-85ed-1b3735e589f2.html"
       ]
     }
   ]
