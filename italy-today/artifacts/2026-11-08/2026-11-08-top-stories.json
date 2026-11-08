@@ -1,13 +1,14 @@
 {
   "date": "2026-11-08",
-  "generated_at": "Sun 08 Nov 18:50",
+  "generated_at": "Sun 08 Nov 22:03",
   "stories": [
     {
       "rank": 1,
       "title": "Israele, a Eisenkot l’incarico per il nuovo governo: “Se vogliono l’unità, Netanyahu mi sostenga”",
-      "source_count": 7,
-      "article_count": 9,
+      "source_count": 8,
+      "article_count": 11,
       "source_domains": [
+        "laverita.info",
         "ansa.it",
         "ilfattoquotidiano.it",
         "adnkronos.com",
@@ -17,18 +18,18 @@
         "ilmessaggero.it"
       ],
       "links": [
+        "https://www.laverita.info/video/mondo-video/israele-incarico-eisenkot-governo",
+        "https://www.laverita.info/video/herzog-eisenkot-formazione-governo",
         "https://www.ansa.it/sito/notizie/mondo/2026/11/08/herzog-affida-a-eisenkot-lincarico-di-formare-il-nuovo-governo_9bce6d47-9f8f-434e-b62a-b429a911d586.html",
         "https://www.ilfattoquotidiano.it/2026/11/08/eisenkot-incarico-governo-israele-notizie/8564931/",
-        "https://www.ilfattoquotidiano.it/2026/11/08/israele-eisenkot-incarico-governo-notizie/8564884/",
-        "https://www.adnkronos.com/internazionale/esteri/israele-incarico-governo-eisenkot_1gV5T7hGiIpDJYzaFQcJSg",
-        "https://www.repubblica.it/esteri/2026/11/08/news/israele_herzog_incarica_eisenkot_formazione_nuovo_governo-425708629/"
+        "https://www.ilfattoquotidiano.it/2026/11/08/israele-eisenkot-incarico-governo-notizie/8564884/"
       ]
     },
     {
       "rank": 2,
-      "title": "Chi è Michal Oksinski, l'attentatore di Cracovia: le idee estremiste, i disegni e le armi",
+      "title": "In Polonia si indaga per terrorismo, ancora gravi i feriti della strage di Cracovia",
       "source_count": 7,
-      "article_count": 8,
+      "article_count": 9,
       "source_domains": [
         "ansa.it",
         "repubblica.it",
@@ -69,6 +70,26 @@
     },
     {
       "rank": 4,
+      "title": "Inondazioni a Gaza, lo sfogo di un bambino: \"Per quanto ancora dovremo vivere così?\"",
+      "source_count": 5,
+      "article_count": 7,
+      "source_domains": [
+        "ansa.it",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilmanifesto.it"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/videogallery/mondo/2026/11/08/inondazioni-a-gaza-lo-sfogo-di-un-bambino-per-quanto-ancora-dovremo-vivere-cosi_0488357e-ab37-4c82-a8da-87a75e4800b9.html",
+        "https://www.lastampa.it/esteri/2026/11/08/news/gaza_tende_alluvione_allarme_sfollati-15792026/",
+        "https://www.ansa.it/sito/photogallery/primopiano/2026/11/07/gaza-accampamenti-nel-centro-della-striscia-i-piu-colpiti-dagli-allagamenti_e7497d37-f78b-4fab-b274-f63e5f436a19.html",
+        "https://www.ilfattoquotidiano.it/2026/11/08/gaza-tende-piogge-allagate-maltempo-vento-video/8564716/",
+        "https://www.lastampa.it/esteri/2026/11/08/video/gaza-pioggia-allagamenti-tende-sfollati-campo-mina-15791741/"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Donna uccisa in casa nel Bergamasco, fermato il figlio",
       "source_count": 6,
       "article_count": 6,
@@ -86,26 +107,6 @@
         "https://www.ilfattoquotidiano.it/2026/11/08/omicidio-palosco-donna-uccisa-notizie/8564823/",
         "https://milano.repubblica.it/cronaca/2026/11/08/news/donna_uccisa_in_casa_a_palosco_aggredita_da_suo_figlio-425708543/",
         "https://www.ilmessaggero.it/italia/emilia_bianchi_uccisa_casa_figlio_palosco-9877209.html"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Piogge e inondazioni su Gaza: “Ci lasciano morire di freddo”",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "lastampa.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "repubblica.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.lastampa.it/esteri/2026/11/08/news/gaza_tende_alluvione_allarme_sfollati-15792026/",
-        "https://www.ansa.it/sito/photogallery/primopiano/2026/11/07/gaza-accampamenti-nel-centro-della-striscia-i-piu-colpiti-dagli-allagamenti_e7497d37-f78b-4fab-b274-f63e5f436a19.html",
-        "https://www.ilfattoquotidiano.it/2026/11/08/gaza-tende-piogge-allagate-maltempo-vento-video/8564716/",
-        "https://www.lastampa.it/esteri/2026/11/08/video/gaza-pioggia-allagamenti-tende-sfollati-campo-mina-15791741/",
-        "https://www.repubblica.it/esteri/2026/11/08/news/gaza_piogge_inondazioni_su_tendopoli_ci_lasciano_morire_di_freddo-425707211/"
       ]
     },
     {
@@ -129,24 +130,65 @@
     },
     {
       "rank": 7,
-      "title": "Farmacie, società, centrali. Ecco gli altri obiettivi violati: “Così ricattano le aziende”",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Media: 'Dana White incontrerà Trump alla Casa Bianca lunedì'",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
         "lastampa.it",
         "repubblica.it",
+        "ansa.it",
         "ilmessaggero.it",
-        "ilsole24ore.com"
+        "liberoquotidiano.it"
       ],
       "links": [
-        "https://www.lastampa.it/economia/2026/11/08/news/conto_cyberattacchi_turismo_danni_200_milioni-15791540/",
-        "https://www.repubblica.it/cronaca/2026/11/08/news/hacker_obiettivi_violati_ricatti_alle_aziende-425707730/",
-        "https://www.ilmessaggero.it/mondo/attacchi_hacker_chi_c_e_dietro_russia_depistaggio_ucraina-9875913.html",
-        "https://www.ilsole24ore.com/art/la-pista-filorussi-everest-l-attacco-hacker-brennero-AJtSO88B"
+        "https://www.lastampa.it/esteri/2026/11/08/news/trump_dana_white_casa_bianca_hegseth_rischio_impeachment-15792109/",
+        "https://www.repubblica.it/esteri/2026/11/08/news/white_dal_ring_alla_casa_bianca_chi_e_l_amico_di_trump_che_potrebbe_diventare_il_suo_nuovo_portavoce-425708550/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/08/media-dana-white-incontrera-trump-alla-casa-bianca-lunedi_114c6f50-3765-4abd-b2bf-155221563d4b.html",
+        "https://www.ilmessaggero.it/persone/dana_white_chi_e_eta_figli_moglie_ufc_patrimonio_trump_portavoce_casa_bianca-9877117.html",
+        "https://www.liberoquotidiano.it/news/libero-video/49549815/dana-white-io-portavoce-della-casa-bianca-sto-volando-a-washington-lunedi-incontrero-trump-/"
       ]
     },
     {
       "rank": 8,
+      "title": "Formula 1, Norris vince il Gp del Brasile davanti alle Red Bull",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "repubblica.it",
+        "adnkronos.com",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/sport/formulauno/2026/11/08/news/norris_brasile_mercedes_costruttori-425709250/",
+        "https://www.adnkronos.com/sport/norris-antonelli-ordine-arrivo-gp-brasile-classifiche-mondiale-formula-1_2xvEVOOrqHNe7IXHfgYoQw",
+        "https://www.ansa.it/sito/notizie/sport/f1/2026/11/08/f1-in-brasile-vince-norris-settima-la-ferrari-di-leclerc_2cb302f9-f2e8-4c7a-8948-4e03b73b39a2.html",
+        "https://www.lastampa.it/sport/2026/11/08/news/formula_1_gp_san_paolo_trionfa_norris-15792090/",
+        "https://www.adnkronos.com/sport/antonelli-gp-brasile-errori-lite-ingegnere-cose-successo-formula-1_313U9BIQIkt3mG9bZLAuzS"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Esposito e Thuram affondano il Como, l’Inter vince 2-0",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "liberoquotidiano.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.liberoquotidiano.it/news/sport/49554744/inter-demolito-com-tempo-2-a-0-san-siro-decidono-thuram-pio/",
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/08/serie-a-in-campo-alle-18-inter-como-diretta_e105aab6-20f1-41ab-93ae-a60a59cd8429.html",
+        "https://www.ilmessaggero.it/sport/schede/inter_como_pagelle_thuram_pio_esposito_nico_paz_classifica_serie_a-9877438.html",
+        "https://www.lastampa.it/sport/2026/11/08/news/esposito_thuram_inter_como_2-0-15792081/",
+        "https://www.adnkronos.com/sport/diretta-inter-como-oggi-serie-a-risultato-live_2NrrKmdCjQrCfJAAVMWXna"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Cyberattacchi, Piantedosi convoca per martedì Comitato nazionale sicurezza",
       "source_count": 4,
       "article_count": 4,
@@ -161,42 +203,6 @@
         "https://www.adnkronos.com/cronaca/attacchi-hacker-italia-vertice-sicurezza-news-oggi_2WuhYIUKIuFtYBVYF7B3rc",
         "https://www.ansa.it/sito/notizie/cronaca/2026/11/08/attacchi-informatici-piantedosi-convoca-comitato-sicurezza-pubblica_2ff3c55f-8d26-4dfe-830b-5bc7344a1033.html",
         "https://www.ilsole24ore.com/art/attacchi-informatici-piantedosi-convoca-comitato-nazionale-la-sicurezza-AJir8J9B"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Lele Mora grave in ospedale, ictus durante una tournée: “Mi hanno strappato alla morte”",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cultura/2026/11/08/lele-mora-ricoverato-a-roma-per-un-ictus-sono-vivo-per-miracolo_9fb5f25c-b36a-4a75-82af-a94acda75603.html",
-        "https://www.adnkronos.com/spettacoli/lele-mora-ricoverato-ictus-come-sta_1PYumiGP8Z4yRV2YVkTz1o",
-        "https://www.lastampa.it/cronaca/2026/11/08/news/lele_mora_ictus_grave_ospedale_malore_teatro_l_aquila_roma-15791728/",
-        "https://www.ilmessaggero.it/persone/lele_mora_eta_ricoverato_ictus_come_sta_cosa_e_successo-9875906.html"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Media: 'Dana White incontrerà Trump alla Casa Bianca lunedì'",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "ilmessaggero.it",
-        "liberoquotidiano.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/esteri/2026/11/08/news/white_dal_ring_alla_casa_bianca_chi_e_l_amico_di_trump_che_potrebbe_diventare_il_suo_nuovo_portavoce-425708550/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/08/media-dana-white-incontrera-trump-alla-casa-bianca-lunedi_114c6f50-3765-4abd-b2bf-155221563d4b.html",
-        "https://www.ilmessaggero.it/persone/dana_white_chi_e_eta_figli_moglie_ufc_patrimonio_trump_portavoce_casa_bianca-9877117.html",
-        "https://www.liberoquotidiano.it/news/libero-video/49549815/dana-white-io-portavoce-della-casa-bianca-sto-volando-a-washington-lunedi-incontrero-trump-/"
       ]
     }
   ]
