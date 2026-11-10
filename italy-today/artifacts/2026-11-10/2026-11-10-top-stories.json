@@ -1,198 +1,211 @@
 {
   "date": "2026-11-10",
-  "generated_at": "Tue 10 Nov 01:33",
+  "generated_at": "Tue 10 Nov 14:46",
   "stories": [
     {
       "rank": 1,
       "title": "Dal Cdm ok al Decreto Bollette, '15 euro in meno al megawattora'",
-      "source_count": 9,
-      "article_count": 9,
+      "source_count": 10,
+      "article_count": 12,
       "source_domains": [
+        "lastampa.it",
         "adnkronos.com",
         "ilmanifesto.it",
         "ilmessaggero.it",
         "ansa.it",
         "governo.it",
-        "lastampa.it",
         "liberoquotidiano.it",
         "ilfattoquotidiano.it",
-        "ilsole24ore.com"
+        "ilsole24ore.com",
+        "news.google.com"
       ],
       "links": [
+        "https://www.lastampa.it/economia/2026/11/10/news/decreto_bollette_tetto_prezzo_gas_meloni_famiglie-15793219/",
         "https://www.adnkronos.com/politica/dl-bollette-misure-governo-elettricita-gas_KQULigfAnPSMuB9KBWikX",
         "https://ilmanifesto.it/energia-lelemosina-del-governo-sconto-di-250-euro-al-mese",
         "https://www.ilmessaggero.it/economia/bollette_come_cambiano_dopo_decreto_nuovi_prezzi-9879714.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/11/09/dal-cdm-ok-al-decreto-bollette-15-euro-in-meno-al-megawattora_cbf74d76-2c12-4718-89af-73ab9c1e6fec.html",
-        "https://www.governo.it/it/articolo/decreto-bollette-dichiarazione-del-presidente-meloni/33069"
+        "https://www.ansa.it/sito/notizie/economia/2026/11/09/dal-cdm-ok-al-decreto-bollette-15-euro-in-meno-al-megawattora_cbf74d76-2c12-4718-89af-73ab9c1e6fec.html"
       ]
     },
     {
       "rank": 2,
       "title": "Stati Uniti, richiesta di impeachment per Hegseth: a presentarla è un deputato repubblicano",
       "source_count": 7,
-      "article_count": 7,
+      "article_count": 10,
       "source_domains": [
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ansa.it",
-        "adnkronos.com",
-        "ilfattoquotidiano.it",
         "repubblica.it",
+        "adnkronos.com",
+        "laverita.info",
+        "ilmanifesto.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
         "ilmessaggero.it"
       ],
       "links": [
-        "https://ilmanifesto.it/hegseth-chiesto-limpeachment-alla-camera",
-        "https://www.lastampa.it/esteri/2026/11/10/news/massie_hegseth_impeachment_colloquio-15793262/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/09/da-un-deputato-gop-limpeachment-di-hegseth-ma-trump-lo-difende_3d87a61b-9723-4cbb-837a-60826be1273b.html",
-        "https://www.adnkronos.com/internazionale/esteri/usa-hegseth-impeachment-richiesta-deputato-repubblicano-massie_37un7ogNPzqcIkzahqPILk",
-        "https://www.ilfattoquotidiano.it/2026/11/09/impeachment-hegseth-massie-congresso-notizie/8566290/"
+        "https://www.repubblica.it/esteri/2026/11/10/news/hegseth_impeachment_una_farsa_rifarei_guerra_iran-425713245/",
+        "https://www.adnkronos.com/internazionale/esteri/hegseth-impeachment-conferenza-stampa_1H95ivkSeUva2PBhgacEWL",
+        "https://www.laverita.info/video/mondo-video/impeachment-hegseth",
+        "https://www.laverita.info/mondo/fronda-trump-hegseth-impeachment",
+        "https://ilmanifesto.it/hegseth-chiesto-limpeachment-alla-camera"
       ]
     },
     {
       "rank": 3,
-      "title": "Folla record per la messa del Papa a Buenos Aires, due milioni e mezzo di fedeli. 'Lavoro precario e instabilità distruggono le famiglie'",
-      "source_count": 7,
-      "article_count": 7,
+      "title": "La relazione extraconiugale del ceo di Nvidia 'ha favorito l'invio di chip Usa in Cina'",
+      "source_count": 6,
+      "article_count": 9,
       "source_domains": [
         "ilmessaggero.it",
-        "ilfattoquotidiano.it",
-        "liberoquotidiano.it",
         "ansa.it",
-        "laverita.info",
         "repubblica.it",
-        "lastampa.it"
+        "ilmanifesto.it",
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ilmessaggero.it/vaticano/papa_leone_buenos_aires_messa_fedeli_critica_milei-9879722.html",
-        "https://www.ilfattoquotidiano.it/2026/11/09/papa-leone-buenos-aires-messa-notizie/8566271/",
-        "https://www.liberoquotidiano.it/news/libero-video/49560511/papa-leone-xiv-buenos-aires-oltre-milione-fedeli-per-pontefice/",
-        "https://www.ansa.it/vaticano/notizie/2026/11/09/folla-record-per-la-messa-del-papa-a-buenos-aires-due-milioni_e6b2b28c-9177-4894-a5e0-c7a2b99cb27d.html",
-        "https://www.laverita.info/chiesa-e-fede/papa-messa-buenos-aires"
+        "https://www.ilmessaggero.it/mondo/nvidia_alice_huang_le_scomparsa_chi_e_spia_cinese_cosa_sappiamo-9881224.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/10/nvidia-e-huang-citati-in-giudizio-dagli-azionisti-per-la-relazione-con-la-ex-manager_bcc2009d-acf1-41aa-bbd3-7a65a6a40575.html",
+        "https://www.repubblica.it/economia/2026/11/10/news/soldi_sesso_e_spionaggio_chip_cinesi_caduta_huang_re_di_nvidia_fa_tremare_tutta_big_tech-425711951/",
+        "https://www.repubblica.it/economia/2026/11/10/news/cirincione_nvidia_cina_huang-425711935/",
+        "https://ilmanifesto.it/huang-amava-una-spia-cinese-crolla-nvidia"
       ]
     },
     {
       "rank": 4,
-      "title": "La spia che fece crollare Nvidia. Ritratto di Alice Huang, passione sentimentale di Jensen Huang",
-      "source_count": 4,
+      "title": "Folla record per la messa del Papa a Buenos Aires, due milioni e mezzo di fedeli. 'Lavoro precario e instabilità distruggono le famiglie'",
+      "source_count": 6,
       "article_count": 8,
       "source_domains": [
-        "repubblica.it",
-        "ilmanifesto.it",
-        "lastampa.it",
-        "ansa.it"
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "liberoquotidiano.it",
+        "laverita.info",
+        "repubblica.it"
       ],
       "links": [
-        "https://www.repubblica.it/economia/2026/11/10/news/soldi_sesso_e_spionaggio_chip_cinesi_caduta_huang_re_di_nvidia_fa_tremare_tutta_big_tech-425711951/",
-        "https://www.repubblica.it/economia/2026/11/10/news/cirincione_nvidia_cina_huang-425711935/",
-        "https://ilmanifesto.it/huang-amava-una-spia-cinese-crolla-nvidia",
-        "https://www.lastampa.it/esteri/2026/11/10/news/alice_huang_e_la_honeytrap_di_pechino_sul_capo_di_nvidia_vestito_rosa_e_spionaggio_sui_micro-chip-15792974/",
-        "https://www.lastampa.it/esteri/2026/11/10/news/nvidia_chip_usa_cina_cia_spie-15793177/"
+        "https://www.ansa.it/vaticano/notizie/2026/11/10/il-papa-in-argentina-oggi-la-messa-a-cordoba_c68c68e5-14cc-4f99-bcae-d9c8393c68bb.html",
+        "https://www.ilmessaggero.it/vaticano/papa_leone_buenos_aires_messa_fedeli_critica_milei-9879722.html",
+        "https://www.ilfattoquotidiano.it/2026/11/09/papa-leone-buenos-aires-messa-notizie/8566271/",
+        "https://www.liberoquotidiano.it/news/pillole/49561324/papa_leone_in_argentina_protesta_animalisti_contro_la_corrida/",
+        "https://www.liberoquotidiano.it/news/libero-video/49560511/papa-leone-xiv-buenos-aires-oltre-milione-fedeli-per-pontefice/"
       ]
     },
     {
       "rank": 5,
-      "title": "Parigi: “C’è l’Iran dietro ai cyber attacchi ai frigoriferi”",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Usa, Russia e Ucraina verso lo scontro di pace ad Abu Dhabi",
+      "source_count": 5,
+      "article_count": 7,
       "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "repubblica.it"
+        "laverita.info",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmanifesto.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/europa/2026/11/09/francia-apre-inchiesta-ipotesi-mano-iran-dietro-gli-hacker-dei_de65c382-657a-4efa-8666-9ff0e05b25d1.html",
-        "https://www.ilfattoquotidiano.it/2026/11/09/attacchi-hacker-ai-frigoriferi-la-francia-indaga-su-un-gruppo-legato-ai-pasdaran-iraniani/8566029/",
-        "https://www.lastampa.it/esteri/2026/11/09/news/attacchi_hacker_ai_supermercati_la_francia_indaga_un_gruppo_legato_ai_pasdaran_iraniani-15792957/",
-        "https://www.repubblica.it/esteri/2026/11/09/news/frigoriferi_attacchi_francia_iran_guardiani_rivoluzione_pasdaran-425711136/"
+        "https://www.laverita.info/geopolitica/abu-dhabi-mosca-esclude-ue-negoziati-ucraina",
+        "https://www.repubblica.it/esteri/2026/11/10/news/negoziati_abu_dhabi_chi_team_di_ucraina_russia_usa-425712605/",
+        "https://www.repubblica.it/esteri/2026/11/10/diretta/guerra_ucraina_russia_news_oggi-425711987/",
+        "https://www.adnkronos.com/internazionale/esteri/ucraina-russia-usa-trilaterale-abu-dhabi-casa-bianca_5ESrlHXzgMdvLFulAh6PTy",
+        "https://ilmanifesto.it/usa-russia-e-ucraina-pronte-allo-scontro-negli-emirati"
       ]
     },
     {
       "rank": 6,
-      "title": "Fisico travolto a Roma, si è costituito il conducente del monopattino",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Sinner: 'Sto bene, sto facendo di tutto per tornare presto e più forte'",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
+        "liberoquotidiano.it",
         "ansa.it",
+        "repubblica.it",
         "ilmessaggero.it",
-        "roma.repubblica.it",
         "lastampa.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/11/09/si-e-costituito-il-conducente-del-monopattino-che-ha-investito-il-fisico-cervellati_f8f14bf1-e335-45b1-b82b-13cf8a4929c1.html",
-        "https://www.ilmessaggero.it/roma/flaminio/ucciso_monopattino_roma_conducente_conducente_pirata_chi_e-9879683.html",
-        "https://roma.repubblica.it/cronaca/2026/11/09/news/morte_roberto_cervellati_si_costituisce_pirata_uomo_51_anni-425710667/",
-        "https://www.lastampa.it/cronaca/2026/11/09/news/roma_fisico_cervellati_investito_monopattino_conducente_si_costituisce-15792741/"
+        "https://www.liberoquotidiano.it/news/pillole/49564996/sinner_periodo_piu_difficile_no_la_mia_carriera_e_ancora_lunga_/",
+        "https://www.liberoquotidiano.it/news/pillole/49564989/sinner_al_lavoro_per_tornare_in_campo_il_piu_presto_possibile_/",
+        "https://www.ansa.it/sito/notizie/sport/tennis/2026/11/10/sinner-sto-bene-sto-facendo-di-tutto-per-tornare-presto-e-piu_3e76c8cf-29a7-4049-9df7-61cd27b11f7a.html",
+        "https://www.repubblica.it/sport/tennis/2026/11/10/news/sinner_quando_torna_conferenza-425712720/",
+        "https://www.ilmessaggero.it/sport/tennis/sinner_australian_open_infortunio_ginocchio_conferenza_cahill_milano_antonelli-9881073.html"
       ]
     },
     {
       "rank": 7,
-      "title": "\"Era uno di noi\": vergogna a Palermo, Ballarò si ferma per questo funerale",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "L'Abi: 'Sulle banche dal 2025 misure fiscali per 22 miliardi di euro'",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "liberoquotidiano.it",
-        "ilfattoquotidiano.it",
-        "palermo.repubblica.it",
-        "agi.it"
+        "ansa.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/italia/49561340/-era-uno-di-noi-vergogna-a-palermo-ballaro-si-ferma-per-questo-funerale/",
-        "https://www.ilfattoquotidiano.it/2026/11/09/corteo-funebre-mafioso-ballaro-palermo-notizie/8566046/",
-        "https://palermo.repubblica.it/cronaca/2026/11/09/news/palermo_ballaro_funerali_rubino_condannato_tentato_omicidio_yussupa_mercato_chiuso_polemiche_le_notizie-425710460/",
-        "https://www.agi.it/cronaca/news/2026-11-09/mafia-mercato-ballaro-palermo-39953219/"
+        "https://www.ansa.it/sito/notizie/politica/2026/11/10/labi-sulle-banche-dal-2025-misure-fiscali-per-22-miliardi-di-euro_c2e7ae7d-cb17-4bcb-80d1-2c3b67244d5f.html",
+        "https://www.ilmessaggero.it/economia/news/manovra_superbonus_banche_abi_cosa_dicono-9881001.html",
+        "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/10/diretta/manovra_2027_audizioni_inps_banche_sindacati-425712358/",
+        "https://www.lastampa.it/economia/2026/11/10/news/manovra_l_abi_contro_la_stretta_sulle_banche_forti_dubbi_di_costituzionalita-15793392/",
+        "https://www.ilsole24ore.com/art/abi-banche-2025-misure-fiscali-22-miliardi-euro-AJ026CBC"
       ]
     },
     {
       "rank": 8,
-      "title": "Cracovia, l’attentatore Michal Oksinski è morto in ospedale: era stato colpito dalla polizia dopo la strage",
-      "source_count": 4,
-      "article_count": 4,
+      "title": "Inchiesta urbanistica Milano, chiesta l'archiviazione per Sala, Tancredi, Boeri e Catella. Il sindaco: «Ho fatto solo il mio dovere»",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "ilmanifesto.it",
+        "ilmessaggero.it",
         "ansa.it",
-        "laverita.info",
-        "ilmessaggero.it"
+        "ilfattoquotidiano.it",
+        "milano.repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://ilmanifesto.it/strage-di-cracovia-troppe-armi-in-polonia",
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/09/e-morto-in-ospedale-il-killer-della-strage-di-cracovia_58c72e95-1620-4020-b93b-a624f4b491cf.html",
-        "https://www.laverita.info/video/mondo-video/cracovia-morto-attentatore",
-        "https://www.ilmessaggero.it/mondo/attentato_cracovia_michal_oksinski_morto_oggi_attentatore_ultime_notizie-9878653.html"
+        "https://www.ilmessaggero.it/italia/urbanistica_milano_archiviazione_inchiesta_sala_boeri_catella-9881324.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/11/10/urbanistica-milano-chiesta-larchiviazione-per-sala-boeri-e-catella-_88fa0456-761c-47e9-b672-004558a268c2.html",
+        "https://www.ilfattoquotidiano.it/2026/11/10/inchiesta-urbanistica-milano-archiviazione-sala-boeri-notizie/8566937/",
+        "https://milano.repubblica.it/cronaca/2026/11/10/news/urbanistica_procura_richiesta_archiviazione_corruzione_sala_catella_boeri-425713033/",
+        "https://www.lastampa.it/cronaca/2026/11/10/news/milano_archiviata_inchiesta_urbanistica_sala_boeri_catella-15793655/"
       ]
     },
     {
       "rank": 9,
-      "title": "Tajani: In Italia hacker filorussi. Attacchi contemporanei in Europa, c’è un coordinamento",
-      "source_count": 3,
-      "article_count": 4,
+      "title": "Decreto armi per Kiev, Giorgetti non ha ancora firmato. Meloni rassicura: «Lo farà quando sarà a Roma»",
+      "source_count": 4,
+      "article_count": 5,
       "source_domains": [
+        "ilfattoquotidiano.it",
+        "repubblica.it",
         "adnkronos.com",
-        "liberoquotidiano.it",
-        "news.google.com"
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.adnkronos.com/internazionale/esteri/g7-cyberattacchi-europa-ucraina-guerra-ibrida-tajani_8yKi5SihZskY3cMYu0xSm",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49561306/tajani-in-italia-hacker-filorussi-attacchi-contemporanei-in-europa-c-e-un-coordinamento/",
-        "https://www.liberoquotidiano.it/news/pillole/49560976/cybersicurezza_la_russa_contrastare_pericoli_costa_qualcuno_finge_di_non_capirlo_/",
-        "https://news.google.com/rss/articles/CBMikAFBVV95cUxPQjdraS1tdEhlT25EYlZMYnJ2Y0ZEUGlzYVczQWk2c21Ha2xKbEt2eVY4S2t0QTRET250V29DMDFvZVFHN0N4NHRrMDUwdUhJRTNNZHU2dkxFa3daell4c3R0N2lOVnRuRWFsRjZnVjVnajVOVHVNNHBuTWdDV1RkWk5QTnVtRlZmcWhGckdORGo?oc=5"
+        "https://www.ilfattoquotidiano.it/2026/11/10/aiuti-militari-ucraina-giorgetti-firma-notizie/8566865/",
+        "https://www.repubblica.it/esteri/2026/11/10/news/armi_ucraina_governo_italia_scontro_lega_blocca-425711912/",
+        "https://www.ilfattoquotidiano.it/2026/11/09/governo-pacchetto-aiuti-ucraina-giorgetti/8566479/",
+        "https://www.adnkronos.com/economia/ucraina-aiuti-militari-italia-news_4bd0Zl84TBWnmyLz47xAXc",
+        "https://www.ilsole24ore.com/art/tensione-decreto-armi-l-ucraina-giorgetti-non-ha-ancora-firmato-fronte-aperto-la-lega-AJNsWEBC"
       ]
     },
     {
       "rank": 10,
-      "title": "Tg News - 9/11/2026",
-      "source_count": 2,
+      "title": "L’ambasciata russa irride la cybersecurity italiana. Parigi: dall’Iran l’attacco ai frigoriferi",
+      "source_count": 3,
       "article_count": 5,
       "source_domains": [
-        "liberoquotidiano.it",
-        "news.google.com"
+        "lastampa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/pillole/49560224/tg-news---9-11-2026/",
-        "https://www.liberoquotidiano.it/news/pillole/49560167/tg-sport---9-11-2026/",
-        "https://www.liberoquotidiano.it/news/pillole/49560177/petnews_magazine_-_9_11_2026/",
-        "https://www.liberoquotidiano.it/news/pillole/49560143/tg-economia---9-11-2026/",
-        "https://news.google.com/rss/articles/CBMiakFVX3lxTE1sZ3JqTXhKVzN6aHFZM0U2bC0yOFB0TlFsV0k2VDFvU2NHV1poQ040QUdtbVcwRFRzbFFwdnRSNno1YXFTWHdjZmVwSEQ5dFhXcnVSY0lFQmJyQ200cGN0emVHSDlkcURIZ2c?oc=5"
+        "https://www.lastampa.it/esteri/2026/11/10/news/ecco_i_3_hacker_iraniani_che_hanno_sfondato_i_frigoriferi_francesi_e_la_cellula_shahid_kaveh-15793406/",
+        "https://www.repubblica.it/esteri/2026/11/09/news/shahid_kaveh_cosa_e_iran_cyber_elite_pasdaran_frigoriferi_cyber_attacchi-425711213/",
+        "https://www.ilfattoquotidiano.it/2026/11/09/attacchi-hacker-ai-frigoriferi-la-francia-indaga-su-un-gruppo-legato-ai-pasdaran-iraniani/8566029/",
+        "https://www.lastampa.it/esteri/2026/11/09/news/attacchi_hacker_ai_supermercati_la_francia_indaga_un_gruppo_legato_ai_pasdaran_iraniani-15792957/",
+        "https://www.repubblica.it/esteri/2026/11/09/news/frigoriferi_attacchi_francia_iran_guardiani_rivoluzione_pasdaran-425711136/"
       ]
     }
   ]
