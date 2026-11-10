@@ -12,7 +12,7 @@
       <link>https://briefings.my/italy-today</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Nov 2026 22:05:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 01:35:18 +0000</lastBuildDate>
     <itunes:image href="https://briefings.my/italy-today/cover.png"/>
     <item>
       <title>Italy Today - 2025-12-15</title>
@@ -6098,6 +6098,25 @@ I will see you tomorrow.</description>
       <enclosure url="https://briefings.my/italy-today/artifacts/2026-11-08/2026-11-08-audio.mp3" length="4570412" type="audio/mpeg"/>
       <pubDate>Sun, 08 Nov 2026 08:00:00 +0000</pubDate>
       <itunes:duration>285</itunes:duration>
+    </item>
+    <item>
+      <title>Italy Today - 2026-11-10</title>
+      <link>https://briefings.my/italy-today/artifacts/2026-11-10/2026-11-10-audio.mp3</link>
+      <description>View all sources: https://briefings.my/italy-today/artifacts/2026-11-10/2026-11-10-sources-view.html
+---
+Welcome to another episode of &quot;Italy Today&quot;, today is Tuesday 10 and this episode was curated by Gemini 3.1 Pro.
+Let us start with a quick look at the headlines driving the news cycle. In Washington, the Republican infighting continues as Representative Thomas Massie formally introduced articles of impeachment against Defense Secretary Pete Hegseth, a move Donald Trump swiftly condemned. In global tech, Nvidia's stock is trembling after CEO Jensen Huang was caught on video with a woman identified by US intelligence as a Chinese spy, prompting an emergency board investigation. Back in Europe, Finance Ministers at the Ecofin summit have approved 29 billion euros in budget flexibility for Italy, specifically to be routed toward defense and energy infrastructure. Meanwhile, in Buenos Aires, Pope Leo XIV drew a record crowd of two and a half million people, using his homily to deliver a pointed lecture on the dignity of labor while Argentine President Javier Milei sat in the front row. Finally, here in Rome, Prime Minister Giorgia Meloni has hit pause on appointing the new head of Italy's Anti-Corruption Authority, ANAC, as the ruling coalition struggles to agree on a candidate. 
+Our main focus today takes us into the wallets of Italian citizens and the increasingly complex machinery of energy pricing. After months of tense negotiations with Brussels, the Council of Ministers has finally approved the &quot;Decreto Bollette,&quot; a new energy bill designed to cap the price of gas used for electricity generation. The underlying fact is simple: the government wants to decouple the soaring cost of gas from the broader electricity market. 
+But if you look at how this is being sold, you are watching two entirely different movies. The government and the conservative press are framing this as a massive victory against corporate greed. The right-wing daily *Libero* echoes Prime Minister Meloni's statement word for word, portraying her as a defender of the people who is bravely angering energy giants to protect Italian families. But if you flip to the opposition press, the narrative turns to sheer mockery. *Il Fatto Quotidiano* and *Il Manifesto* are calling the measure &quot;government alms.&quot; They point out that the actual savings for families will amount to roughly two euros and fifty cents a month, and the discount won't even kick in until 2027. 
+The takeaway here is the stark reality of Italy's fiscal limitations. Despite the populist rhetoric of deploying a grand economic shield, the state simply lacks the financial firepower to significantly offset global energy costs, forcing the government to package a microscopic, delayed discount as a major legislative triumph.
+Moving from the economy to the social fabric of the South, a deeply troubling scene unfolded in Sicily that proves how entrenched the cultural grip of the Mafia remains. Following the death of a 36-year-old convicted mafia boss who was under house arrest, a massive funeral procession effectively hijacked Palermo's historic city center. *La Repubblica* reports that around two hundred people on scooters, armed with fireworks and smoke bombs, forced the famous Ballarò market to shut down in mourning. Shopkeepers pulled down their shutters, and tourists were cleared out. It is a stark reminder that despite decades of anti-mafia legislation and tough talk from Rome, the street-level authority of Cosa Nostra can still paralyze a major Italian city in broad daylight.
+Turning to the hidden gears of the political machine, we found a highly consequential story buried in *Il Sole 24 Ore* that the mainstream clusters are entirely ignoring. The government is quietly preparing a reform to bring back the direct election of provincial presidents and councils. Over a decade ago, a major reform stripped the provinces of their direct democratic mandate, turning them into second-tier bodies run by mayors to save money. By returning to direct elections, with a new 40 percent threshold to avoid runoffs, the ruling coalition is poised to unlock a massive tier of local power, funding, and patronage just in time for the next electoral cycle.
+But before we go, an unusual warning for anyone walking the beaches of Sicily. *AGI* reports that the Italian coast is currently dealing with an invasion of the &quot;Nomad Jellyfish,&quot; an alien species originally from the Red Sea that has migrated through the Suez Canal. These creatures can weigh up to 40 kilograms and pack a highly painful sting. The environmental protection agency has asked citizens to report sightings, but above all, to keep their distance even if the giants wash ashore. 
+I will see you tomorrow.</description>
+      <guid isPermaLink="false">https://briefings.my/italy-today/artifacts/2026-11-10</guid>
+      <enclosure url="https://briefings.my/italy-today/artifacts/2026-11-10/2026-11-10-audio.mp3" length="3899948" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
+      <itunes:duration>243</itunes:duration>
     </item>
   </channel>
 </rss>
