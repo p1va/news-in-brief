@@ -1,52 +1,94 @@
 {
   "date": "2026-11-12",
-  "generated_at": "Thu 12 Nov 21:54",
+  "generated_at": "Thu 12 Nov 23:35",
   "stories": [
     {
       "rank": 1,
-      "title": "Nvidia, Jensen Huang si dimette da Ceo: a Colette Kress ruolo ad interim",
-      "source_count": 7,
+      "title": "Jensen Huang si è dimesso con effetto immediato da ceo Nvidia",
+      "source_count": 8,
       "article_count": 18,
       "source_domains": [
-        "ansa.it",
+        "adnkronos.com",
+        "ilmanifesto.it",
         "ilmessaggero.it",
+        "ansa.it",
         "repubblica.it",
         "laverita.info",
-        "adnkronos.com",
         "lastampa.it",
         "news.google.com"
       ],
       "links": [
+        "https://www.adnkronos.com/internazionale/esteri/nvidia-huang-trump_4SYG7JpfJp4omyt5LuyolJ",
+        "https://ilmanifesto.it/travolto-il-signore-dei-chip-huang-si-dimette-da-nvidia",
+        "https://www.ilmessaggero.it/economia/news/nvidia_crollo_borsa_cosa_succede_ora_jensen_huang-9886377.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/11/12/huang-getta-la-spugna-lamante-cinese-legata-a-huawei_0b01f8ad-f5ea-4fd2-a7a4-7ccfc68be774.html",
-        "https://www.ilmessaggero.it/persone/alice_huang_rapporti_con_huawei_jensen_huang_ultime_notizie-9886320.html",
-        "https://www.repubblica.it/economia/2026/11/12/news/nvidia_con_colette_kress_una_donna_sola_al_comando-425718992/",
-        "https://www.ilmessaggero.it/persone/jensen_huang_spy_story_bugie_cosa_rischia_nvidia_e_intelligenza_artificiale-9885885.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/12/nvidia-jensen-huang-si-e-dimesso-con-effetto-immediato-da-ceo-colette-kress_0b01f8ad-f5ea-4fd2-a7a4-7ccfc68be774.html"
+        "https://www.repubblica.it/economia/2026/11/12/news/nvidia_con_colette_kress_una_donna_sola_al_comando-425718992/"
       ]
     },
     {
       "rank": 2,
-      "title": "Allarmi bomba nelle scuole, cambia il protocollo di sicurezza: niente evacuazioni senza rischi concreti. Oggi nuove mail",
+      "title": "Allarmi bombe, Meloni al tavolo con le opposizioni fa appello all’unità",
       "source_count": 6,
       "article_count": 11,
       "source_domains": [
+        "adnkronos.com",
         "ilmessaggero.it",
         "ansa.it",
+        "liberoquotidiano.it",
         "repubblica.it",
-        "lastampa.it",
-        "ilmanifesto.it",
         "ilsole24ore.com"
       ],
       "links": [
-        "https://www.ilmessaggero.it/scuola/bomba_scuola_azzolina_non_ha_evacuato_niente_paura_ragazzi_biella-9885892.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovo-allarme-bomba-nelle-scuole-indagano-i-pm-dellantiterrorismo-liveblog_97a3c6b7-93f4-44a2-940b-dd33198f2f91.html",
-        "https://www.ansa.it/sito/notizie/politica/2026/11/12/nel-pomeriggio-riunione-tecnica-sul-protocollo-di-gestione-degli-allarmi_935b5bfb-8d1b-47fb-b1f5-5bec809755af.html",
-        "https://www.ilmessaggero.it/scuola/mail_bombing_cosa_devono_fare_scuole-9885692.html",
-        "https://www.ilmessaggero.it/politica/allarme_bomba_scuola_no_evacuazione_mail_nuove_regole-9885552.html"
+        "https://www.adnkronos.com/politica/allarmi-bomba-meloni-opposizioni_1L7zkmdK41bok9BsexdOk6",
+        "https://www.ilmessaggero.it/politica/allarmi_bomba_scuole_incontro_governo_opposizioni-9886383.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/si-rientra-in-classe-dopo-gli-allarmi-nelle-scuole-oggi-il-vertice-a-palazzo_cd319cf3-a1cf-4b88-b35a-77a0eaa9c9fc.html",
+        "https://www.ilmessaggero.it/politica/meloni_vertice_allarmi_bomba_imbarazzo_opposizioni_cosa_e_successo-9885807.html",
+        "https://www.liberoquotidiano.it/news/tv-news/49579263/allarmi-scuole-c-de-luca-bene-meloni-che-ha-coinvolto-tutti/"
       ]
     },
     {
       "rank": 3,
+      "title": "Nuovo allarme bomba nelle scuole, indagano i pm dell'antiterrorismo - LIVEBLOG",
+      "source_count": 5,
+      "article_count": 10,
+      "source_domains": [
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/italia/allarmi_bomba_scuola_chi_c_e_dietro_cosa_vogliono_fare-9886395.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovi-allarmi-bomba-in-3.800-scuole-ma-si-resta-in-classe_8e554317-0de6-4431-82f1-76e9da9afb9d.html",
+        "https://www.ilfattoquotidiano.it/2026/11/12/mail-bombing-scuole-italiane-account-hackerati-notizie/8569566/",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/nuovo-allarme-bomba-nelle-scuole-indagano-i-pm-dellantiterrorismo-liveblog_97a3c6b7-93f4-44a2-940b-dd33198f2f91.html",
+        "https://www.ilmessaggero.it/italia/hacker_attacco_allarmi_bomba_scuole_chi_e_autore_cosa_sappiamo_cosa_c_e_dietro-9885661.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "Allarme bomba scuola, il protocollo: «No a evacuazione solo per ricezione mail massiva, Prefetti valuteranno rischi». Per oggi l'indicazione è non evacuare",
+      "source_count": 6,
+      "article_count": 8,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/nuovo-allarme-nelle-scuole-il-governo-vara-un-protocollo",
+        "https://www.ilfattoquotidiano.it/2026/11/12/allarme-bombe-scuole-governo-caos-tagli-opinione/8569680/",
+        "https://www.ilmessaggero.it/scuola/bomba_scuola_azzolina_non_ha_evacuato_niente_paura_ragazzi_biella-9885892.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/11/12/nel-pomeriggio-riunione-tecnica-sul-protocollo-di-gestione-degli-allarmi_935b5bfb-8d1b-47fb-b1f5-5bec809755af.html",
+        "https://www.ilmessaggero.it/scuola/mail_bombing_cosa_devono_fare_scuole-9885692.html"
+      ]
+    },
+    {
+      "rank": 5,
       "title": "Toni Capuozzo, morto l’inviato Mediaset che ha raccontato le guerre nel mondo",
       "source_count": 7,
       "article_count": 7,
@@ -68,28 +110,29 @@
       ]
     },
     {
-      "rank": 4,
-      "title": "Allarmi bomba nelle scuole, Meloni 'chiama' le opposizioni: \"Uniti sulla sicurezza, nessun pericolo concreto ma guardia alta\"",
-      "source_count": 6,
+      "rank": 6,
+      "title": "Pio Esposito trascina l'Italia: doppietta nel 3-1 alla Francia. Azzurri primi",
+      "source_count": 7,
       "article_count": 7,
       "source_domains": [
-        "ilmessaggero.it",
-        "liberoquotidiano.it",
+        "ansa.it",
         "repubblica.it",
-        "ilmanifesto.it",
-        "adnkronos.com",
-        "ilsole24ore.com"
+        "laverita.info",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "adnkronos.com"
       ],
       "links": [
-        "https://www.ilmessaggero.it/politica/meloni_vertice_allarmi_bomba_imbarazzo_opposizioni_cosa_e_successo-9885807.html",
-        "https://www.liberoquotidiano.it/news/tv-news/49579263/allarmi-scuole-c-de-luca-bene-meloni-che-ha-coinvolto-tutti/",
-        "https://www.liberoquotidiano.it/news/tv-news/49579078/allarmi-bomba-nelle-scuole-meloni-chiede-unita-alle-opposizioni/",
-        "https://www.repubblica.it/politica/2026/11/12/news/meloni_vogliono_creare_panico_convoca_opposizioni-425716813/",
-        "https://ilmanifesto.it/sicurezza-nazionale-meloni-convoca-le-opposizioni-oggi"
+        "https://www.ansa.it/sito/notizie/sport/calcio/2026/11/12/una-grande-italia-ribalta-la-francia-e-ora-e-prima-in-nations-league.-mancini_9abbe0f2-e908-4b0b-820e-37f829bbca46.html",
+        "https://www.repubblica.it/sport/calcio/nazionale/2026/11/12/news/italia_francia_gol-425719846/",
+        "https://www.laverita.info/storie-di-sport/italia-francia-3-1-nations-league",
+        "https://www.ilfattoquotidiano.it/2026/11/12/italia-francia-3-1-mancini-notizie/8570175/",
+        "https://www.lastampa.it/sport/2026/11/12/news/pio_esposito_trascina_l_italia_doppietta_nel_3-1_alla_francia_azzurri_primi-15796751/"
       ]
     },
     {
-      "rank": 5,
+      "rank": 7,
       "title": "Atp Finals, Cobolli nel girone con Alcaraz, Medvedev e Tiafoe. L’esito del sorteggio",
       "source_count": 5,
       "article_count": 7,
@@ -109,7 +152,7 @@
       ]
     },
     {
-      "rank": 6,
+      "rank": 8,
       "title": "Perù, tre milioni di persone in strada per il ritorno di Papa Leone",
       "source_count": 5,
       "article_count": 6,
@@ -129,24 +172,27 @@
       ]
     },
     {
-      "rank": 7,
-      "title": "Allarmi bomba, Bonelli dopo il vertice a Chigi: Gli hacker non si fermano con i cannoni",
-      "source_count": 2,
-      "article_count": 8,
+      "rank": 9,
+      "title": "Si toglie la vita a 15 anni a Roma, la Procura indaga per istigazione al suicidio",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "liberoquotidiano.it",
-        "repubblica.it"
+        "ilmessaggero.it",
+        "ansa.it",
+        "adnkronos.com",
+        "roma.repubblica.it",
+        "lastampa.it"
       ],
       "links": [
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49579272/allarmi-bomba-magi-l-italia-in-enorme-ritardo-sulla-cybersicurezza-il-governo-l-ha-definanziata/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49579128/allarmi-bomba-bonelli-servono-piu-risorse-cybersicurezza-hacker-non-si-fermano-con-i-cannoni/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49579050/allarmi-bomba-bonelli-dopo-il-vertice-a-chigi-gli-hacker-non-si-fermano-con-i-cannoni/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49578947/allarmi-bomba-fratoianni-dopo-vertice-a-chigi-servono-protocolli-e-piu-fondi-per-la-cybersicurezza/",
-        "https://www.liberoquotidiano.it/news/video-news-by-vista/49578944/allarmi-bomba-calenda-dopo-vertice-a-chigi-clima-positivo-paese-e-sotto-attacco-cognitivo-e-cyber/"
+        "https://www.ilmessaggero.it/roma/metropoli/roma_ragazza_si_uccide_voleva_diventare_uomo_bullismo-9886372.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/si-toglie-la-vita-a-15-anni-a-roma-la-procura-indaga-per-istigazione-al-suicidio_e60b3704-3b39-4e4e-8d5c-7e76c4c96a30.html",
+        "https://www.adnkronos.com/cronaca/ragazza-15-anni-suicida-roma-istigazione-transizione-genere_2RoEghINaOXj3svXl8ccgg",
+        "https://www.ilmessaggero.it/roma/cassia/ragazzina_si_uccide_voleva_diventare_uomo_roma_nord_chi_era-9886139.html",
+        "https://roma.repubblica.it/cronaca/2026/11/12/news/roma_suicidio_15enne_voleva_diventare_uomo-425719192/"
       ]
     },
     {
-      "rank": 8,
+      "rank": 10,
       "title": "Microsoft down in tutto il mondo, disservizi sulla mail. L’azienda: verifiche in corso",
       "source_count": 5,
       "article_count": 5,
@@ -163,45 +209,6 @@
         "https://www.adnkronos.com/internazionale/esteri/outlook-problemi-microsoft-down_6DNqu1IZ2nWe4Q5xQeNUDA",
         "https://www.repubblica.it/economia/2026/11/12/news/microsoft_down_in_tutto_il_mondo_disservizi_sulla_mail_negli_usa_130mila_segnalazioni-425719351/",
         "https://www.lastampa.it/tech/2026/11/12/news/outlook_mail_blackout_microsoft_copilot-15796495/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Si toglie la vita a 15 anni a Roma, la Procura indaga per istigazione al suicidio",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "roma.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cronaca/2026/11/12/si-toglie-la-vita-a-15-anni-a-roma-la-procura-indaga-per-istigazione-al-suicidio_e60b3704-3b39-4e4e-8d5c-7e76c4c96a30.html",
-        "https://www.adnkronos.com/cronaca/ragazza-15-anni-suicida-roma-istigazione-transizione-genere_2RoEghINaOXj3svXl8ccgg",
-        "https://www.ilmessaggero.it/roma/cassia/ragazzina_si_uccide_voleva_diventare_uomo_roma_nord_chi_era-9886139.html",
-        "https://roma.repubblica.it/cronaca/2026/11/12/news/roma_suicidio_15enne_voleva_diventare_uomo-425719192/",
-        "https://www.lastampa.it/cronaca/2026/11/12/news/roma_ragazza_suicida_15_anni_cambio_sesso-15796420/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Brooklyn, crolla palazzina di tre piani: un morto e diversi feriti",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "liberoquotidiano.it",
-        "ansa.it",
-        "repubblica.it",
-        "adnkronos.com"
-      ],
-      "links": [
-        "https://www.liberoquotidiano.it/news/tv-news/49579332/a-brooklyn-un-palazzo-crolla-su-un-cantiere-6-morti/",
-        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/12/crolla-un-palazzo-a-brooklyn-mamdani-otto-vittime-3-pompieri-feriti_e32477e6-191e-4481-851c-b5a91b6abceb.html",
-        "https://www.repubblica.it/esteri/2026/11/12/news/brooklyn_new_york_collo_palazzo_feriti-425716858/",
-        "https://www.adnkronos.com/internazionale/esteri/new-york-crollo-brooklyn_4y5kMMzwtbDQKFZQ8eIq7",
-        "https://www.ansa.it/sito/notizie/mondo/nordamerica/2026/11/11/crolla-un-palazzo-in-costruzione-a-brooklyn-un-morto-e-diversi-feriti_e32477e6-191e-4481-851c-b5a91b6abceb.html"
       ]
     }
   ]
