@@ -1,32 +1,74 @@
 {
   "date": "2026-11-13",
-  "generated_at": "Fri 13 Nov 21:25",
+  "generated_at": "Fri 13 Nov 23:34",
   "stories": [
     {
       "rank": 1,
       "title": "Allarmi bomba, direttiva Piantedosi: \"Inattendibile minaccia con messaggi identici a più destinatari\"",
       "source_count": 8,
-      "article_count": 9,
+      "article_count": 10,
       "source_domains": [
+        "ilmessaggero.it",
         "ansa.it",
         "adnkronos.com",
         "ilfattoquotidiano.it",
         "repubblica.it",
-        "ilmessaggero.it",
         "lastampa.it",
         "ilsole24ore.com",
         "agi.it"
       ],
       "links": [
+        "https://www.ilmessaggero.it/italia/allarmi_bomba_nuove_regole_quando_si_evacua_scuole_tribunali-9888490.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/allarmi-bomba-la-circolare-del-viminale-inattendibili-le-minacce-con-mail-bombing_ca1d2b9c-c7e2-4e00-afb9-6dccb59191fb.html",
         "https://www.ansa.it/sito/notizie/cronaca/2026/11/13/circolare-viminale-minaccia-inattendibile-se-attraverso-mail-bombing_ca1d2b9c-c7e2-4e00-afb9-6dccb59191fb.html",
         "https://www.adnkronos.com/cronaca/allarmi-bomba-direttiva-piantedosi-testo_49jFd3GX3DyxYrEWsjmdvt",
-        "https://www.ilfattoquotidiano.it/2026/11/13/allarmi-bomba-piantedosi-minacce-seriali-notizie/8570807/",
-        "https://www.repubblica.it/cronaca/2026/11/13/news/allarmi_bomba_circolare_viminale_mail_scuole-425721033/"
+        "https://www.ilfattoquotidiano.it/2026/11/13/allarmi-bomba-piantedosi-minacce-seriali-notizie/8570807/"
       ]
     },
     {
       "rank": 2,
+      "title": "Microsoft, Outlook, Teams e Copilot ancora 'down' in tutto il mondo: colpiti governi e aziende. «Non ci sono segnali di un cyberattacco»",
+      "source_count": 5,
+      "article_count": 11,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://ilmanifesto.it/microsoft-megacrash-per-mezzo-miliardo-di-utenti-ci-dispiace",
+        "https://www.ilmessaggero.it/mondo/microsoft_cosa_si_rischia_down_regola_3_2_1-9888500.html",
+        "https://www.ilmessaggero.it/mondo/microsoft_down_outlook_teams_cosa_e_successo_davvero-9888498.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/13/microsoft-down-in-tutto-il-mondo-ma-non-e-un-cyberattacco_820a9d7d-9b9d-4214-8537-0834b1378b3d.html",
+        "https://www.ansa.it/sito/videogallery/short_video/2026/11/13/microsoft-down-lironia-dei-dipendenti-per-lo-stop-di-outlook-fa-impazzire-il-web_d4f083eb-af4b-4448-9201-b38d1171dda6.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Manovra, via i tagli alla scuola. Il governo cerca altri fondi per la sanità",
+      "source_count": 7,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/economia/manovra-governo-sindacati-incontro-modifiche-sciopero_6Asdsd35RP6LACPHJF6NTZ",
+        "https://ilmanifesto.it/meloni-non-taglia-piu-sulla-scuola-marcia-indietro-del-governo",
+        "https://www.ilmessaggero.it/economia/manovra_scuola_meloni_tagli_cosa_e_successo-9888487.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
+        "https://www.ilfattoquotidiano.it/2026/11/13/tagli-scuola-meloni-dietrofront-notizie/8571430/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Famiglia del bosco, respinto il ricorso: i bambini non tornano a casa",
       "source_count": 7,
       "article_count": 7,
@@ -48,79 +90,44 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Nvidia, Huang si dimette e il crollo in Borsa non si ferma. Ma la società è \"too big to fail\"",
-      "source_count": 4,
-      "article_count": 8,
-      "source_domains": [
-        "ilmessaggero.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmanifesto.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/persone/sono_omonimo_jensen_huang_nvidia_ricevo_insulti_social_cambio_vita-9888437.html",
-        "https://www.ilmessaggero.it/persone/nvidia_jensen_huang_ultimi_giorni_distrutto_amanti_critiche_email_cosa_e_successo-9888153.html",
-        "https://www.ilmessaggero.it/persone/jensen_huang_giacca_pelle_un_milione_di_dollari-9887540.html",
-        "https://www.lastampa.it/economia/2026/11/13/news/nvidia_dimissioni_jansen_huang_cosa_succede-15796413/",
-        "https://www.repubblica.it/economia/2026/11/13/news/nvdia_caduta_huang_rischio_crollo_ia_intelligenza_artificiale-425719852/"
-      ]
-    },
-    {
-      "rank": 4,
-      "title": "Microsoft, Outlook, Teams e Copilot ancora 'down' in tutto il mondo: colpiti governi e aziende. «Non ci sono segnali di un cyberattacco»",
-      "source_count": 4,
-      "article_count": 8,
+      "rank": 5,
+      "title": "Traffico aereo bloccato in tutti gli Stati Uniti. Escluso per ora un attacco cyber",
+      "source_count": 6,
+      "article_count": 6,
       "source_domains": [
         "ansa.it",
         "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/13/microsoft-down-in-tutto-il-mondo-ma-non-e-un-cyberattacco_820a9d7d-9b9d-4214-8537-0834b1378b3d.html",
-        "https://www.ansa.it/sito/videogallery/short_video/2026/11/13/microsoft-down-lironia-dei-dipendenti-per-lo-stop-di-outlook-fa-impazzire-il-web_d4f083eb-af4b-4448-9201-b38d1171dda6.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/13/outlook-down-microsoft-servizi-in-miglioramento-ripristino-a-fasi_820a9d7d-9b9d-4214-8537-0834b1378b3d.html",
-        "https://www.ilfattoquotidiano.it/2026/11/13/microsoft-down-escluso-attacco-hacker-notizie/8570695/",
-        "https://www.ilfattoquotidiano.it/2026/11/13/down-microsoft-365-outlook-pubblica-amministrazione-notizie/8570550/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "L’ombra di Huawei dietro l’affaire Nvidia",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
+        "adnkronos.com",
         "repubblica.it",
         "lastampa.it",
-        "ansa.it",
-        "ilmanifesto.it"
+        "news.google.com"
       ],
       "links": [
-        "https://www.repubblica.it/esteri/2026/11/13/news/l_ombra_di_huawei_dietro_l_affaire_nvidia-425721009/",
-        "https://www.lastampa.it/esteri/2026/11/13/news/nvidia_alice_huang_cina_trump_xi-15797276/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/13/gli-007-americani-non-sono-sicuri-che-alice-huang-sia_4d7049c8-ca5c-4c4e-b34a-a6d5007a4fd6.html",
-        "https://www.lastampa.it/esteri/2026/11/13/news/nvidia_quell_intreccio_di_aziende_tra_singapore_e_pechino_per_aggirare_le_sanzioni_sui_chip-15796657/",
-        "https://ilmanifesto.it/la-cina-contrattacca-una-scusa-per-fermare-la-nostra-avanzata"
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/13/traffico-aereo-bloccato-in-tutti-gli-stati-uniti.-escluso-per-ora_b5ee5d87-e55e-4312-9c02-6297ce3e99d9.html",
+        "https://www.ilfattoquotidiano.it/2026/11/13/sospensione-voli-usa-perche-motivo-cosa-e-successo/8571638/",
+        "https://www.adnkronos.com/internazionale/esteri/stop-voli-usa-oggi-sicurezza_10e7RF5gereJoJkK2RVyIm",
+        "https://www.repubblica.it/esteri/2026/11/13/news/usa_aerei_stop_voli-425722382/",
+        "https://www.lastampa.it/esteri/2026/11/13/news/usa-guasto-faa-aeroporti-blocco-decolli-aerei-terra_hacker-15797838/"
       ]
     },
     {
       "rank": 6,
-      "title": "Manovra, via i tagli alla scuola. Il governo cerca altri fondi per la sanità",
-      "source_count": 4,
+      "title": "Zelensky e la frecciata a Meloni: “Da quanto tempo…? Sei tu che non volevi vedermi”",
+      "source_count": 5,
       "article_count": 5,
       "source_domains": [
+        "ilmanifesto.it",
         "ansa.it",
-        "ilfattoquotidiano.it",
+        "lastampa.it",
         "repubblica.it",
-        "lastampa.it"
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/11/13/manovra-il-governo-apre-alle-modifiche-saltano-i-tagli-alla-scuola-piu_a9e7d8e3-ebe1-4229-a908-26b2f2a973d6.html",
-        "https://www.ilfattoquotidiano.it/2026/11/13/tagli-scuola-meloni-dietrofront-notizie/8571430/",
-        "https://www.ilfattoquotidiano.it/2026/11/13/manovra-tagli-scuola-retromarcia-notizie/8571341/",
-        "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/13/news/manovra_governo_incontro_sindacati_dietrofront_su_scuola_no_tagli-425721691/",
-        "https://www.lastampa.it/economia/2026/11/13/news/manovra-2027-governo-fondi-sanita-stop-tagli-scuola-cisl-uil-15797571/"
+        "https://ilmanifesto.it/meloni-si-intesta-il-punto-ma-zelensky-punzecchia",
+        "https://www.ansa.it/sito/notizie/politica/2026/11/13/e-tanto-che-non-ci-vediamo.-tu-non-volevi....-la-battuta-di-zelensky-con-meloni_5114ed32-8a6a-4cf8-92a5-0fcdbba06178.html",
+        "https://www.lastampa.it/esteri/2026/11/13/video/zelensky_meloni_frecciatina_dublino-15797254/",
+        "https://www.repubblica.it/politica/2026/11/13/news/dublino_incontro_zelensky_meloni_battuta-425720482/",
+        "https://www.ilmessaggero.it/politica/zelensky_battuta_meloni_incontro_guerra_ucraina_cosa_e_successo-9887645.html"
       ]
     },
     {
@@ -144,6 +151,24 @@
     },
     {
       "rank": 8,
+      "title": "Ucraina, Europa ha scelto i rappresentanti al tavolo di pace: 5 Paesi più Commissione e Consiglio Ue. C'è anche l'Italia",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "adnkronos.com",
+        "lastampa.it",
+        "ilfattoquotidiano.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/ucraina-tavolo-pace-europa-italia_3bbGRTvLBqnm9O6YYU6KLA",
+        "https://www.lastampa.it/esteri/2026/11/14/diretta/guerra_russia_ucraina_news_oggi-15797901/",
+        "https://www.ilfattoquotidiano.it/2026/11/13/negoziati-pace-ucraina-formato-e5-notizie/8571475/",
+        "https://www.ilsole24ore.com/art/ucraina-l-italia-conferma-l-europa-sara-tavolo-decidere-subito-formato-e-agenda-AJxCzXFC"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "Tasse, la Cgil lancia la sua riforma: rivedere Irpef e Irap, tassare i grandi patrimoni",
       "source_count": 4,
       "article_count": 4,
@@ -158,24 +183,6 @@
         "https://www.repubblica.it/economia/2026/11/13/news/fisco_proposta_riforma_cgil_patrimoniale_tasse_salari_pensioni_irpef-425720890/",
         "https://www.lastampa.it/economia/2026/11/13/news/tasse_la_cgil_lancia_la_sua_riforma_rivedere_irpef_e_irap_tassare_i_grandi_patrimoni-15797295/",
         "https://www.ilsole24ore.com/art/riforma-fiscale-cgil-nuova-irpef-progressiva-e-contributo-grandi-ricchezze-oltre-2-milioni-euro-AJHgqrFC"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Zelensky e la frecciata a Meloni: “Da quanto tempo…? Sei tu che non volevi vedermi”",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmessaggero.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/11/13/e-tanto-che-non-ci-vediamo.-tu-non-volevi....-la-battuta-di-zelensky-con-meloni_5114ed32-8a6a-4cf8-92a5-0fcdbba06178.html",
-        "https://www.lastampa.it/esteri/2026/11/13/video/zelensky_meloni_frecciatina_dublino-15797254/",
-        "https://www.repubblica.it/politica/2026/11/13/news/dublino_incontro_zelensky_meloni_battuta-425720482/",
-        "https://www.ilmessaggero.it/politica/zelensky_battuta_meloni_incontro_guerra_ucraina_cosa_e_successo-9887645.html"
       ]
     },
     {
