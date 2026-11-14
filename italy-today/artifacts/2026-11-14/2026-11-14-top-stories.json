@@ -1,6 +1,6 @@
 {
   "date": "2026-11-14",
-  "generated_at": "Sat 14 Nov 19:05",
+  "generated_at": "Sat 14 Nov 22:23",
   "stories": [
     {
       "rank": 1,
@@ -31,7 +31,7 @@
       "rank": 2,
       "title": "Caos nei cieli Usa per 4 ore: migliaia di voli cancellati e in ritardo per un aggiornamento software",
       "source_count": 6,
-      "article_count": 13,
+      "article_count": 14,
       "source_domains": [
         "ansa.it",
         "adnkronos.com",
@@ -41,15 +41,35 @@
         "lastampa.it"
       ],
       "links": [
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/14/dopo-il-caos-nei-cieli-usa-verso-la-piena-operativita.-ma-si-contano-i-danni_9772e753-260a-465a-b775-0399c068f3c9.html",
         "https://www.ansa.it/sito/notizie/mondo/2026/11/14/caos-nei-cieli-usa-annullati-oltre-16mila-voli-in-due-giorni_d2a6ded1-a075-4399-8855-8bc69e436c24.html",
         "https://www.adnkronos.com/internazionale/esteri/pilota-11-settembre-blocco-aerei-voli-usa_11l5ZwLefk2YYowXklTjSr",
         "https://www.laverita.info/mondo/blocco-voli-usa",
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/14/revocato-il-blocco-dei-voli-negli-stati-uniti-decine-di-migliaia-di-passeggeri_d2a6ded1-a075-4399-8855-8bc69e436c24.html",
-        "https://www.ilmessaggero.it/mondo/aerei_usa_bloccati_europa_cosa_succede_italia_germania_spagna_inghilterra_ultime_notizie-9889536.html"
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/14/revocato-il-blocco-dei-voli-negli-stati-uniti-decine-di-migliaia-di-passeggeri_d2a6ded1-a075-4399-8855-8bc69e436c24.html"
       ]
     },
     {
       "rank": 3,
+      "title": "Finals tra cene, sponsor e selfie. Torino incantata dal riflesso di Sinner",
+      "source_count": 5,
+      "article_count": 8,
+      "source_domains": [
+        "adnkronos.com",
+        "ansa.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/sport/alcaraz-ferrero-abbraccio-atp-finals-shelton_3xXtH2PbY7O7cgDfE792vs",
+        "https://www.ansa.it/sito/notizie/sport/tennis/speciali/atp_finals_2026/2026/11/14/alle-atp-finals-riflettori-sui-maestri-tutto-pronto-per-lo-show_e6a4b465-fac6-4d5f-a0c5-6b724ce2d0a3.html",
+        "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/news/atp_finals_angelo_binaghi_profumo_di_tennis-15798353/",
+        "https://www.ilmessaggero.it/sport/schede/atp_finals_pagelle_look_cobolli_alcaraz_zverev_medvedev_voti-9889714.html",
+        "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/video/atp_finals_torino_trasformazione_citta_2021_2026-15798063/"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Perquisizioni in 13 città per le violenze durante i cortei, anche a minorenni",
       "source_count": 6,
       "article_count": 6,
@@ -70,7 +90,7 @@
       ]
     },
     {
-      "rank": 4,
+      "rank": 5,
       "title": "“Non posso insultare quel partito”: così l’AI svela i bot della politica sui social",
       "source_count": 5,
       "article_count": 5,
@@ -90,44 +110,45 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "Zelensky: “Gli Usa hanno proposto di cedere il Donbass e in cambio entreremmo nella Nato”",
-      "source_count": 4,
-      "article_count": 6,
+      "rank": 6,
+      "title": "Nuovo caccia europeo, l’Italia smentisce le voci sulla contrarietà alla partecipazione di Berlino",
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
-        "ansa.it",
+        "repubblica.it",
         "ilfattoquotidiano.it",
         "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/14/ucraina-zelensky-gli-usa-ci-propongono-la-nato-in-cambio-del-donbass_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/14/nyt-russia-propone-ritiro-nato-a-posizioni-pre-1997-modello-e-patto_7f51d62e-b932-4ce7-873e-ed2192960bb2.html",
-        "https://www.ilfattoquotidiano.it/2026/11/14/ucraina-putin-nato-confini-1997-notizie/8571944/",
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/14/zelensky-gli-usa-propongono-ladesione-alla-nato-in-cambio-della-cessione_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
-        "https://www.ilmessaggero.it/mondo/ucraina_russia_ritorno_posizioni_occupate_1997_nato_quali_sono_documento-9889571.html"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Finals tra cene, sponsor e selfie. Torino incantata dal riflesso di Sinner",
-      "source_count": 3,
-      "article_count": 6,
-      "source_domains": [
         "lastampa.it",
-        "ilmessaggero.it",
-        "repubblica.it"
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/news/atp_finals_angelo_binaghi_profumo_di_tennis-15798353/",
-        "https://www.ilmessaggero.it/sport/schede/atp_finals_pagelle_look_cobolli_alcaraz_zverev_medvedev_voti-9889714.html",
-        "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/video/atp_finals_torino_trasformazione_citta_2021_2026-15798063/",
-        "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/news/cercasi_sinner_disperatamente-15798036/",
-        "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/14/news/la_passerella_dei_maestri_le_atp_finals_entrano_nel_vivo-15797989/"
+        "https://www.repubblica.it/esteri/2026/11/14/news/gcap_italia_smentisce_le_voci_sulla_contrarieta_a_germania-425724153/",
+        "https://www.ilfattoquotidiano.it/2026/11/14/gcap-italia-germania-super-caccia-notizie/8572237/",
+        "https://www.ilmessaggero.it/mondo/gcap_italia_germania_super_caccia_quanto_costa-9889924.html",
+        "https://www.lastampa.it/cronaca/2026/11/14/news/gcap_jet_italia_germania-15798284/",
+        "https://www.ilsole24ore.com/art/caccia-sesta-generazione-l-ft-l-italia-frena-germania-difesa-ricostruzione-fuorviante-AJX3ypGC"
       ]
     },
     {
       "rank": 7,
+      "title": "Zelensky: 'Gli Usa propongono l'adesione alla Nato in cambio della cessione di territori ucraini'",
+      "source_count": 3,
+      "article_count": 5,
+      "source_domains": [
+        "repubblica.it",
+        "ansa.it",
+        "ilfattoquotidiano.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/esteri/2026/11/14/news/ucraina_ingresso_nato_usa_zelensky_in_cambio_del_donbass-425724112/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/14/ucraina-zelensky-gli-usa-ci-propongono-la-nato-in-cambio-del-donbass_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/14/zelensky-gli-usa-propongono-ladesione-alla-nato-in-cambio-della-cessione_48c4f0d9-c61c-4d79-8523-64805b2f303f.html",
+        "https://www.ilfattoquotidiano.it/2026/11/14/zelensky-cessione-territori-ucraina-nato-notizie/8571829/",
+        "https://www.repubblica.it/esteri/2026/11/14/diretta/guerra_ucraina_russia_news_oggi-425722502/"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Usa, l’affaire Nvidia si allarga: accuse al ministro Lutnick",
       "source_count": 3,
       "article_count": 5,
@@ -142,24 +163,6 @@
         "https://www.lastampa.it/esteri/2026/11/14/news/nvidia_la_spia_alice_nascosta_a_pechino_la_cia_minimizza_il_ruolo_trump_rischia_il_tradimento-15797778/",
         "https://www.repubblica.it/esteri/2026/11/14/news/nvidia_accuse_ministro_howard_lutnick-425722273/",
         "https://ilmanifesto.it/huang-trascina-con-se-i-vertici-usa-scontro-bessent-lutnick"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Il governo ci ha ripensato sui tagli al personale scolastico",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "laverita.info",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.laverita.info/i-nostri-soldi/manovra-pensioni-2",
-        "https://www.repubblica.it/economia/dossier/manovra-finanziaria-legge-di-bilancio/2026/11/14/news/manovra_scuola_governo_ritira_tagli_spiragli_su_superbonus-425722386/",
-        "https://ilmanifesto.it/meloni-non-taglia-piu-sulla-scuola-marcia-indietro-del-governo",
-        "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQmNxT1VPYUtQUnB2SWJSbVp3V2JmN2ZXNHV0YkhOMUhWaHMwb2s1M0tLLTZtbDNsZXJZSl80ODB3Q1NjZ0l4ZFd5R3ktTzl2SWdlY3hXMFNsdDlFQU9BMnVCMDd1OHNJcF9VSjlzaHB1ZE45ZkdDUnVqQmRmcEhucGp1dXc1UWhtVWpDYTRxb1FEMFpuUTBhejNB?oc=5"
       ]
     },
     {
