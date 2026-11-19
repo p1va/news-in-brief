@@ -1,198 +1,204 @@
 {
   "date": "2026-11-19",
-  "generated_at": "Thu 19 Nov 15:39",
+  "generated_at": "Thu 19 Nov 23:05",
   "stories": [
     {
       "rank": 1,
-      "title": "Atp Finals: Cobolli crolla con Tiafoe, sfumano le semifinali",
+      "title": "Anthropic raccoglie oltre 107 miliardi di dollari nell’Ipo da record e supera SpaceX",
       "source_count": 7,
-      "article_count": 18,
+      "article_count": 10,
       "source_domains": [
-        "adnkronos.com",
-        "repubblica.it",
+        "ilmanifesto.it",
         "ansa.it",
-        "ilmessaggero.it",
+        "laverita.info",
+        "repubblica.it",
         "lastampa.it",
-        "ilfattoquotidiano.it",
-        "laverita.info"
+        "ilmessaggero.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.adnkronos.com/sport/atp-finals-shelton-batte-jodar-zverev-semifinale_rszitWAv4cZFKL0Di1vkc",
-        "https://www.repubblica.it/sport/tennis/2026/11/19/news/alcaraz_infortunio_atp_finals-425735367/",
-        "https://www.ansa.it/sito/notizie/sport/tennis/speciali/atp_finals_2026/2026/11/19/atp-finals-in-attesa-esito-esami-alcaraz-cancella-lallenamento_8a78310c-3da0-4fdf-a934-7c0a4c7041f5.html",
-        "https://www.repubblica.it/sport/tennis/2026/11/19/news/atp_finals_cobolli_lacrime-425734481/",
-        "https://www.ilmessaggero.it/sport/schede/atp_finals_semifinali_chi_va_qualificati_zverev_alcaraz_data_orario_quando_iniziano-9899977.html"
+        "https://ilmanifesto.it/anthropic-fa-il-pieno-il-test-di-borsa-sulla-ia-batte-tutti-i-record-precedenti",
+        "https://www.ansa.it/sito/notizie/economia/2026/11/19/anthropic-sale-fino-a-11510-dollari-per-azione-poi-scende-a-11022_f4eebc5e-1ae4-4922-8a55-eaee32ab7ab8.html",
+        "https://www.laverita.info/aziende/anthropic-record-nasdaq",
+        "https://www.repubblica.it/economia/2026/11/19/diretta/borse_oggi_19_novembre_anthropic_titoli_tech-425734131/",
+        "https://www.repubblica.it/economia/2026/11/19/news/anthropic_raccolta_azioni_collocamento_privato_ipo_nasdaq-425734058/"
       ]
     },
     {
       "rank": 2,
-      "title": "La dichiarazione di pace di Trump, Xi e Putin dopo il trilaterale: “Ridurre il rischio nucleare”",
+      "title": "Addio a Corrado Augias, giornalista, scrittore, conduttore e autore televisivo",
+      "source_count": 7,
+      "article_count": 10,
+      "source_domains": [
+        "ilmanifesto.it",
+        "repubblica.it",
+        "ansa.it",
+        "laverita.info",
+        "ilmessaggero.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/corrado-augias-quelleleganza-antifascista",
+        "https://www.repubblica.it/cultura/dossier/addio-corrado-augias-1935-2026/2026/11/19/news/corrado_augias_intervista_vita-425736267/",
+        "https://www.ansa.it/sito/notizie/politica/2026/11/19/addio-a-corrado-augias-giornalista-scrittore-conduttore-e-autore-televisivo_ec1aa297-bc9d-47f4-827a-2310ee2e3c22.html",
+        "https://www.laverita.info/televisione/morto-corrado-augias",
+        "https://www.ilmessaggero.it/persone/corrado_augias_morto_famiglia_moglie_figlia_giornalista_rai_ultime_notizie-9900063.html"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Libri digitali, maggioranza spaccata: Forza Italia vota con le opposizioni. Poi l’emendamento passa",
       "source_count": 6,
-      "article_count": 9,
+      "article_count": 8,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it",
+        "lastampa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/la-maggioranza-si-spacca-sullo-sconto-ai-libri-di-testo",
+        "https://www.ilmessaggero.it/politica/partito_tajani_forza_italia_meloni_governo_blitz-9900629.html",
+        "https://www.ansa.it/sito/notizie/politica/2026/11/19/maggioranza-sotto-in-senato-su-emendamento-e-book-fi-vota-con-opposizioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
+        "https://www.repubblica.it/politica/2026/11/19/news/daniela_santanche_dl_scuola_berlusconi_intervista-425735156/",
+        "https://www.ilmessaggero.it/politica/decreto_scuola_libri_digitali_votazioni_maggioranza_senato-9900229.html"
+      ]
+    },
+    {
+      "rank": 4,
+      "title": "La dichiarazione di pace di Trump, Xi e Putin dopo il trilaterale: “Ridurre il rischio nucleare”",
+      "source_count": 5,
+      "article_count": 8,
       "source_domains": [
         "ansa.it",
         "laverita.info",
         "repubblica.it",
         "lastampa.it",
-        "adnkronos.com",
-        "ilmanifesto.it"
+        "adnkronos.com"
       ],
       "links": [
         "https://www.ansa.it/sito/notizie/mondo/2026/11/19/cina-usa-e-russia-adottano-una-dichiarazione-di-pace_9e7135eb-3e7b-4851-bfab-d2fbdb0e6829.html",
         "https://www.laverita.info/geopolitica/xi-trilaterale-russia-usa",
         "https://www.repubblica.it/esteri/2026/11/19/news/trump_vertice_xi_putin_cerca_rivincita_sconfitta_midterm_nucleare_ucraina_iran-425734783",
-        "https://www.lastampa.it/esteri/2026/11/19/news/shenzhen_l_ucraina_convitato_di_pietra_al_tavolo_trump-putin-xi-15802588/",
-        "https://www.lastampa.it/esteri/2026/11/19/diretta/vertice_shenzhen_xi_trump_putin-15802203/"
+        "https://www.repubblica.it/esteri/2026/11/19/news/trump_vertice_xi_putin_cerca_rivincita_sconfitta_midterm_nucleare_ucraina_iran-425734783/",
+        "https://www.lastampa.it/esteri/2026/11/19/news/shenzhen_l_ucraina_convitato_di_pietra_al_tavolo_trump-putin-xi-15802588/"
       ]
     },
     {
-      "rank": 3,
-      "title": "Trump, Putin e Xi, a Shenzhen il vertice dei \"siparietti\": dall'abbraccio alla mano sulla scala mobile, i momenti più \"iconici\"",
+      "rank": 5,
+      "title": "Atp Finals: terza vittoria per Zverev, anche Fils deve arrendersi",
       "source_count": 5,
-      "article_count": 9,
+      "article_count": 7,
       "source_domains": [
-        "ilmessaggero.it",
         "adnkronos.com",
-        "repubblica.it",
+        "ansa.it",
         "lastampa.it",
-        "ansa.it"
+        "repubblica.it",
+        "ilmessaggero.it"
       ],
       "links": [
+        "https://www.adnkronos.com/sport/atp-finals-alcaraz-infortunio-zverev-situazione_4Yr9Md5P9zHfKdBnjCnmtO",
+        "https://www.ansa.it/sito/notizie/sport/tennis/speciali/atp_finals_2026/2026/11/19/atp-finals-zverev-terza-vittoria-anche-fils-deve-arrendersi_0bbe09e0-038a-4ba0-8075-406d8fcd6b58.html",
+        "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/19/news/zverev_fils_atp_finals_risultato-15803422/",
+        "https://www.adnkronos.com/sport/diretta-zverev-fils-oggi-atp-finals-live-risultato-torino_4Uk6wvGg3T861BK1YIJnM4",
+        "https://www.repubblica.it/sport/tennis/2026/11/19/news/atp_finals_shelton_jodar_zverev_fils-425735763/"
+      ]
+    },
+    {
+      "rank": 6,
+      "title": "Sciopero generale 20 novembre: trasporti, scuole e manifestazioni. Cosa succederà punto per punto",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/11/19/sciopero-generale-cgil-studenti-venerdi-20-novembre-cosa-si-ferma-perche-protesta-notizie/8577223/",
+        "https://www.ansa.it/sito/notizie/economia/2026/11/19/sciopero-generale-da-scuola-a-bus.-treni-dalla-sera-niente-stop-aerei_01d5c5ed-72b4-4546-acc1-472847a25848.html",
+        "https://www.lastampa.it/cronaca/2026/11/19/news/sciopero_generale_20_novembre_trasporti_scuole_manifestazioni-15802765/",
+        "https://www.ilmessaggero.it/schede/sciopero_20_novembre_treni_scuola_autobus_fasce_garanzia-9900168.html",
+        "https://www.lastampa.it/economia/2026/11/19/news/la_manovra_fa_schifo_domani_la_cgil_manifesta_in_100_piazze_d_italia-15801946/"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Alcaraz, esami alla coscia e niente allenamento: ma non si ritira dalle Finals",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "ilmessaggero.it",
+        "repubblica.it",
+        "ansa.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilmessaggero.it/sport/tennis/sinner_rischio_australian_open_nuovo_controllo_stati_uniti_operazione_ginocchio-9900633.html",
+        "https://www.ilmessaggero.it/sport/tennis/alcaraz_infortunio_come_sta_ritiro_atp_finals_cosa_succede_scenari-9900468.html",
+        "https://www.repubblica.it/sport/tennis/2026/11/19/news/alcaraz_infortunio_atp_finals-425735367/",
+        "https://www.ansa.it/sito/notizie/sport/tennis/speciali/atp_finals_2026/2026/11/19/atp-finals-in-attesa-esito-esami-alcaraz-cancella-lallenamento_8a78310c-3da0-4fdf-a934-7c0a4c7041f5.html",
+        "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/19/news/alcaraz_atp_finals_infortunio_torino_paura_ritiro-15802490/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Trump, Putin e Xi, a Shenzhen il vertice dei \"siparietti\": dall'abbraccio alla mano sulla scala mobile, i momenti più \"iconici\"",
+      "source_count": 4,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/11/19/vertice-trump-xi-jinping-putin-shenzhen-notizie/8577924/",
         "https://www.ilmessaggero.it/mondo/bombardieri_russi_cina_taiwan_scramble_cosa_e_successo-9900427.html",
         "https://www.ilmessaggero.it/mondo/trump_putin_xi_vertice_shenzhen_cosa_e_successo_scene_iconiche-9900416.html",
-        "https://www.adnkronos.com/internazionale/esteri/trump-xi-jinping-mani-scala-mobile_53yZ2RGtO759uN8gaDo67K",
         "https://www.repubblica.it/esteri/2026/11/19/news/xi_jinping_putin_trump_summit_shenzhen-425735127/",
         "https://www.lastampa.it/esteri/2026/11/19/news/dal_vino_al_litchi_alle_rotte_dei_droni_le_curiosita_attorno_al_vertice_trilaterale_di_shenzhen-15802646/"
       ]
     },
     {
-      "rank": 4,
-      "title": "Addio a Corrado Augias, giornalista, scrittore, conduttore e autore televisivo",
-      "source_count": 6,
-      "article_count": 8,
-      "source_domains": [
-        "ansa.it",
-        "laverita.info",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/11/19/addio-a-corrado-augias-giornalista-scrittore-conduttore-e-autore-televisivo_ec1aa297-bc9d-47f4-827a-2310ee2e3c22.html",
-        "https://www.laverita.info/televisione/morto-corrado-augias",
-        "https://www.ilmessaggero.it/persone/corrado_augias_morto_famiglia_moglie_figlia_giornalista_rai_ultime_notizie-9900063.html",
-        "https://www.ilmessaggero.it/persone/corrado_augias_morto_chi_era_giornalista_repubblica_scrittore-9900040.html",
-        "https://www.repubblica.it/cultura/2026/11/19/news/morte_corrado_augias_giornalista_oggi-425734501/"
-      ]
-    },
-    {
-      "rank": 5,
-      "title": "Anthropic fissa il prezzo a 83 dollari, verso l'Ipo più grande della storia",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "repubblica.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilmanifesto.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/economia/2026/11/19/news/anthropic_raccolta_azioni_collocamento_privato_ipo_nasdaq-425734058/",
-        "https://www.lastampa.it/economia/2026/11/19/news/anthropic_da_ribelli_a_miliardari_ecco_chi_sono_i_sette_nuovi_re_dell_intelligenza_artificiale-15802368/",
-        "https://www.ilmessaggero.it/economia/news/anthropic_quotazione_prezzo_quanto_vale-9898690.html",
-        "https://www.ansa.it/sito/notizie/economia/2026/11/18/anthropic-pronta-alla-maxi-quotazione-test-per-lia-dopo-nvidia_dfa59b00-bf9f-4c12-a1dd-94aa8fa3e1f1.html",
-        "https://ilmanifesto.it/il-maxi-test-per-big-tech-anthropic-oggi-va-in-borsa"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Libri digitali, maggioranza spaccata: Forza Italia vota con le opposizioni. Poi l’emendamento passa",
-      "source_count": 4,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/politica/2026/11/19/maggioranza-sotto-in-senato-su-emendamento-e-book-fi-vota-con-opposizioni_f14af22e-5fa1-4851-b2a1-60f52ce6bb6e.html",
-        "https://www.repubblica.it/politica/2026/11/19/news/daniela_santanche_dl_scuola_berlusconi_intervista-425735156/",
-        "https://www.ilmessaggero.it/politica/decreto_scuola_libri_digitali_votazioni_maggioranza_senato-9900229.html",
-        "https://www.repubblica.it/politica/2026/11/19/news/dl_scuola_forza_italia_fdi_maggioranza_libri_scolastici-425734266/",
-        "https://www.lastampa.it/politica/2026/11/19/news/dl_scuola_maggioranza_battuta_emendamento_ebook_forza_italia-15802457/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Ranucci, 10 giorni di sospensione dalla Rai. L'annuncio sui social: «Dal 23 novembre stop al lavoro e allo stipendio»",
-      "source_count": 4,
-      "article_count": 4,
-      "source_domains": [
-        "ilfattoquotidiano.it",
-        "ilmessaggero.it",
-        "repubblica.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.ilfattoquotidiano.it/2026/11/18/ranucci-sospensione-dieci-giorni-rai-23-novembre/8576369/",
-        "https://www.ilmessaggero.it/persone/ranucci_sospeso_rai_stipendio_lavoro_ultime_notizie-9898300.html",
-        "https://www.repubblica.it/politica/2026/11/18/news/ranucci_sospeso_dalla_rai_saltero_due_puntate_di_spotlight-425732675/",
-        "https://www.agi.it/cronaca/news/2026-11-18/rai-ranucci-sospensione-40089076/"
-      ]
-    },
-    {
-      "rank": 8,
-      "title": "Bce: Meloni ha ricevuto a Palazzo Chigi lo spagnolo de Cos, in pole per la presidenza",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "lastampa.it",
-        "governo.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.lastampa.it/politica/2026/11/18/news/presidenza_bce_via_libera_di_meloni_al_candidato_del_nemico_sanchez-15802110/",
-        "https://www.lastampa.it/economia/2026/11/18/news/meloni_bce_de_cos_lagarde-15802022/",
-        "https://www.governo.it/it/articolo/nota-di-palazzo-chigi/33146",
-        "https://www.ilsole24ore.com/art/bce-meloni-ha-ricevuto-palazzo-chigi-spagnolo-de-cos-pole-la-presidenza-AJrPQwKC"
-      ]
-    },
-    {
       "rank": 9,
-      "title": "Alla guida della Camera Usa ci sarà il primo speaker nero",
-      "source_count": 3,
+      "title": "Cobolli piange in conferenza stampa a Torino: «La sconfitta che più mi rende triste in carriera»",
+      "source_count": 4,
       "article_count": 4,
       "source_domains": [
-        "ilmanifesto.it",
-        "ansa.it",
-        "ilfattoquotidiano.it"
+        "lastampa.it",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://ilmanifesto.it/allla-guida-della-camera-usa-il-primo-speaker-nero",
-        "https://ilmanifesto.it/leadership-del-nuovo-congresso-i-dem-affrontano-da-oggi-un-bivio-cruciale",
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/18/i-dem-della-camera-rieleggono-jeffries-leader-sara-primo-speaker-afroamericano_cfc90312-4555-4996-ba6c-3406dd68f9ba.html",
-        "https://www.ilfattoquotidiano.it/2026/11/18/hakeem-jeffries-leader-democratici-camera-notizie/8576326/"
+        "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/19/video/vincenzo_santopadre_cobolli_sonego_cicatrici_crescita_tennis-15803056/",
+        "https://www.repubblica.it/sport/tennis/2026/11/19/news/atp_finals_cobolli_lacrime-425734481/",
+        "https://www.ilfattoquotidiano.it/2026/11/19/cobolli-lacrime-atp-finals-sala-stampa-silenzio/8576719/",
+        "https://www.ilmessaggero.it/sport/tennis/cobolli_piange_conferenza_atp_finals_torino_cosa_ha_detto-9898688.html"
       ]
     },
     {
       "rank": 10,
-      "title": "Sciopero generale 20 novembre: trasporti, scuole e manifestazioni. Cosa succederà punto per punto",
+      "title": "GTA VI è uno dei migliori videogiochi di tutti i tempi",
       "source_count": 3,
-      "article_count": 4,
+      "article_count": 5,
       "source_domains": [
         "ansa.it",
         "lastampa.it",
-        "ilmessaggero.it"
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/economia/2026/11/19/sciopero-generale-da-scuola-a-bus.-treni-dalla-sera-niente-stop-aerei_01d5c5ed-72b4-4546-acc1-472847a25848.html",
-        "https://www.lastampa.it/cronaca/2026/11/19/news/sciopero_generale_20_novembre_trasporti_scuole_manifestazioni-15802765/",
-        "https://www.ilmessaggero.it/schede/sciopero_20_novembre_treni_scuola_autobus_fasce_garanzia-9900168.html",
-        "https://www.lastampa.it/economia/2026/11/19/news/la_manovra_fa_schifo_domani_la_cgil_manifesta_in_100_piazze_d_italia-15801946/"
+        "https://www.ansa.it/canale_tecnologia/notizie/tecnologia/2026/11/19/debutto-mondiale-per-gioco-gta-vi-potrebbe-generare-32-miliardi-dollari-di-vendite_ce3c4705-aa36-4807-9e6c-19832c65af7f.html",
+        "https://www.lastampa.it/tech/2026/11/19/video/gta_6_prova_gioco-15802700/",
+        "https://www.lastampa.it/tech/2026/11/19/news/gta_vi_recensioni-15802685/",
+        "https://www.lastampa.it/spettacoli/2026/11/19/news/gta_vi_grand_theft_auto_vi_attesa_racconto-15802325/",
+        "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10aDNudFhadWJFVEpzdHpUYVFRSG9WaTBCWjhjVFZrRVJpaVJRZW85WlFGczVXV3drT1FMeFAtYlBJSG1sTkZnSjZ4SWRHdDI3Qjh2ZlR2Q2lXZUVXWDNtdw?oc=5"
       ]
     }
   ]
