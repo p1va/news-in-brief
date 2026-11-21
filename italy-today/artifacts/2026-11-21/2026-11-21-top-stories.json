@@ -1,31 +1,52 @@
 {
   "date": "2026-11-21",
-  "generated_at": "Sat 21 Nov 20:57",
+  "generated_at": "Sat 21 Nov 23:07",
   "stories": [
     {
       "rank": 1,
-      "title": "De Gennaro si è tolto la vita: l’ex capo della Polizia era indagato per via D’Amelio",
+      "title": "De Gennaro si è ucciso, si è sparato in casa: l’ex capo della polizia era indagato per depistaggio sulla strage di via D’Amelio",
       "source_count": 7,
-      "article_count": 14,
+      "article_count": 15,
       "source_domains": [
+        "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "lastampa.it",
         "ansa.it",
         "repubblica.it",
-        "ilmessaggero.it",
         "laverita.info",
         "ilsole24ore.com"
       ],
       "links": [
+        "https://www.ilmessaggero.it/persone/de_gennaro_lettere_famiglia_documenti_difesa_cosa_sappiamo-9904937.html",
         "https://www.ilfattoquotidiano.it/2026/11/21/morte-de-gennaro-indagine-autopsia-notizie/8579802/",
         "https://www.lastampa.it/cronaca/2026/11/21/news/gianni-de-gennaro-morte-inchiesta-istigazione-suicidio-ris-villa-15805268/",
         "https://www.ansa.it/sito/videogallery/italia/2026/11/21/lex-capo-della-polizia-gianni-de-gennaro-si-e-ucciso-sparandosi_327c1992-e435-4eb0-9341-e2005a6431e2.html",
-        "https://www.lastampa.it/cronaca/2026/11/21/news/de-gennaro-morte-ultimi-giorni-ristoratore-toscana-turbato-preoccupato-15805227/",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/11/21/lex-capo-della-polizia-de-gennaro-si-e-ucciso-sparandosi.-la-procura-indaga-per_5bcb2e78-76a6-4c7d-b2ba-61000e349ee9.html"
+        "https://www.lastampa.it/cronaca/2026/11/21/news/de-gennaro-morte-ultimi-giorni-ristoratore-toscana-turbato-preoccupato-15805227/"
       ]
     },
     {
       "rank": 2,
+      "title": "Corrado Augias, tutti in coda per l’ultimo saluto: in migliaia alla camera ardente in Campidoglio",
+      "source_count": 6,
+      "article_count": 10,
+      "source_domains": [
+        "adnkronos.com",
+        "repubblica.it",
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ansa.it",
+        "agi.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cultura/corrado-augias-camera-ardente_4idIU1NgZm56qteBgFt65O",
+        "https://www.repubblica.it/spettacoli/tv-radio/2026/11/21/news/augias_camera_ardente_campidoglio_migliaia_di_persone-425740898/",
+        "https://www.ilfattoquotidiano.it/2026/11/21/corrado-augias-camera-ardente-campidoglio-notizie/8579845/",
+        "https://www.lastampa.it/cronaca/2026/11/21/video/limpressionante_coda_per_lultimo_saluto_a_corrado_augias_attraversa_tutta_piazza_del_campidoglio-15805208/",
+        "https://www.lastampa.it/cronaca/2026/11/21/video/roma_saluta_corrado_augias_in_fila_in_silenzio_davanti_alla_camera_ardente_in_campidoglio-15805205/"
+      ]
+    },
+    {
+      "rank": 3,
       "title": "Francesco Schettino lascia il carcere dopo nove anni: affidato ai servizi sociali",
       "source_count": 6,
       "article_count": 8,
@@ -46,67 +67,26 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Corrado Augias, tutti in coda per l’ultimo saluto: in migliaia alla camera ardente in Campidoglio",
-      "source_count": 5,
-      "article_count": 9,
-      "source_domains": [
-        "repubblica.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it",
-        "ansa.it",
-        "agi.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/spettacoli/tv-radio/2026/11/21/news/augias_camera_ardente_campidoglio_migliaia_di_persone-425740898/",
-        "https://www.ilfattoquotidiano.it/2026/11/21/corrado-augias-camera-ardente-campidoglio-notizie/8579845/",
-        "https://www.lastampa.it/cronaca/2026/11/21/video/limpressionante_coda_per_lultimo_saluto_a_corrado_augias_attraversa_tutta_piazza_del_campidoglio-15805208/",
-        "https://www.lastampa.it/cronaca/2026/11/21/video/roma_saluta_corrado_augias_in_fila_in_silenzio_davanti_alla_camera_ardente_in_campidoglio-15805205/",
-        "https://www.ilfattoquotidiano.it/2026/11/21/camera-ardente-per-corrado-augias-in-campidoglio-lunghe-file-dallalba-la-famiglia-funerali-laici-in-forma-strettamente-privata/8579620/"
-      ]
-    },
-    {
       "rank": 4,
-      "title": "Atp Finals: Alcaraz in rimonta batte Shelton e vola in finale: “In Italia sento affetto ed energia”",
+      "title": "Atp Finals, oggi la semifinale Alcaraz-Shelton 3-6 - Diretta",
       "source_count": 4,
       "article_count": 8,
       "source_domains": [
-        "ilfattoquotidiano.it",
-        "adnkronos.com",
+        "repubblica.it",
         "lastampa.it",
-        "repubblica.it"
+        "ilfattoquotidiano.it",
+        "adnkronos.com"
       ],
       "links": [
+        "https://www.repubblica.it/en/sport/columnists/monday-s-net/2026/11/21/news/ben_shelton_quarto_uomo-425741166/",
+        "https://www.lastampa.it/sport/speciali/atp-finals-2026/2026/11/21/news/atp_finals_torino_finale_zverev_alcaraz-15805588/",
         "https://www.ilfattoquotidiano.it/sport-miliardi/live-post/2026/11/21/atp-finals-zverev-medvedev-diretta-live-risultato/8579877/",
         "https://www.adnkronos.com/sport/diretta-zverev-medvedev-oggi-semifinale-atp-finals-live-risultato-torino_2lfnXrA8Mz1CuDrKEa623S",
-        "https://www.adnkronos.com/sport/atp-finals-senza-sinner-tifo-alcaraz-amore-italia_4f2PF8IS4HPptYHRpeA1gA",
-        "https://www.lastampa.it/sport/2026/11/21/news/atp_finals_alcaraz_in_rimonta_batte_shelton_e_vola_in_finale-15805222/",
-        "https://www.ilfattoquotidiano.it/sport-miliardi/live-post/2026/11/21/atp-finals-alcaraz-shelton-diretta-live-risultato/8579514/"
+        "https://www.adnkronos.com/sport/atp-finals-senza-sinner-tifo-alcaraz-amore-italia_4f2PF8IS4HPptYHRpeA1gA"
       ]
     },
     {
       "rank": 5,
-      "title": "Forza Italia non cede sugli e-book a scuola. L’ipotesi della fiducia",
-      "source_count": 6,
-      "article_count": 6,
-      "source_domains": [
-        "laverita.info",
-        "lastampa.it",
-        "repubblica.it",
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.laverita.info/governo/libri-digitali-scontro-centrodestra",
-        "https://www.lastampa.it/politica/2026/11/21/news/forza_italia_non_cede_e-book_scuola_ipotesi_fiducia-15804822/",
-        "https://www.repubblica.it/politica/2026/11/21/news/libri_digitali_forza_italia_meloni_fiducia-425739201/",
-        "https://ilmanifesto.it/libri-scolastici-forza-italia-verso-lo-scontro-col-governo",
-        "https://www.ilmessaggero.it/politica/libri_digitali_scuola_accordo_fdi_forza_italia-9903067.html"
-      ]
-    },
-    {
-      "rank": 6,
       "title": "Morto Paolo Bulgari, grande gioielliere aveva 89 anni",
       "source_count": 5,
       "article_count": 6,
@@ -126,7 +106,7 @@
       ]
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "Meloni: 'Profondamente scioccata per De Gennaro'. Il figlio di Borsellino: 'Potrebbe essersene andato un pezzo di verità'",
       "source_count": 5,
       "article_count": 5,
@@ -146,27 +126,7 @@
       ]
     },
     {
-      "rank": 8,
-      "title": "Gianni De Gennaro, una vita ai vertici dello Stato tra mafia, servizi segreti e industria",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
-        "lastampa.it",
-        "ilsole24ore.com"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/photogallery/primopiano/2026/11/21/capo-della-polizia-poi-007-la-vita-di-gianni-de-gennaro-nelle-foto_3948a551-2975-420c-aa7c-ac4b28509bfb.html",
-        "https://www.ilmessaggero.it/persone/gianni_de_gennaro_chi_era_falcone_borsellino_capo_polizia_profilo-9904384.html",
-        "https://www.adnkronos.com/cronaca/gianni-de-gennaro-suicidio-chi-era_1lUnwpkO4StV4xwqZiK81G",
-        "https://www.lastampa.it/cronaca/2026/11/21/news/i_segreti_di_de_gennaro_l_agenda_rossa_di_borsellino_e_i_veleni_sulla_strage_di_via_d_amelio-15805041/",
-        "https://www.ilsole24ore.com/art/de-gennaro-dall-antimafia-vertici-polizia-e-servizi-segreti-AJxV7LOC"
-      ]
-    },
-    {
-      "rank": 9,
+      "rank": 7,
       "title": "Serie A: Malen ne fa 4 e travolge il Parma, la Roma va avanti a suon di gol",
       "source_count": 5,
       "article_count": 5,
@@ -186,7 +146,7 @@
       ]
     },
     {
-      "rank": 10,
+      "rank": 8,
       "title": "Gp Las Vegas: magia Antonelli, ma la pole è di Verstappen. Disastro Ferrari",
       "source_count": 4,
       "article_count": 5,
@@ -202,6 +162,43 @@
         "https://www.lastampa.it/sport/2026/11/21/news/f1_las_vegas_buio_ferrari_leclerc_hamilton_vasseur-15804889/",
         "https://www.repubblica.it/sport/formulauno/2026/11/21/news/formula_1_gp_las_vegas_2026_qualifiche_antonelli_penalita_verstappen_pole_ferrari_eliminate-425739400/",
         "https://www.lastampa.it/sport/2026/11/21/news/f1_gp_las_vegas_antonelli_pole_verstappen_disastro_ferrari_leclerc_hamilton-15804876/"
+      ]
+    },
+    {
+      "rank": 9,
+      "title": "Morta la stilista Raffaella Curiel, 'l'intellettuale della moda'",
+      "source_count": 4,
+      "article_count": 5,
+      "source_domains": [
+        "ansa.it",
+        "ilfattoquotidiano.it",
+        "adnkronos.com",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/11/21/morta-raffaella-curiel-lintellettuale-che-vestiva-le-signore-bene_f9c6a36c-fde8-42ad-8236-9c8009f2b064.html",
+        "https://www.ilfattoquotidiano.it/2026/11/21/e-morta-raffaella-curiel-la-stilista-e-lintellettuale-della-moda-italiana-che-diceva-sempre-un-abito-deve-esaltare-non-travestire-la-donna-che-lo-indossa/8579540/",
+        "https://www.adnkronos.com/moda/morta-raffaella-curiel_7KD9sbapMrEccTjaBABL3G",
+        "https://www.ansa.it/canale_lifestyle/notizie/moda/2026/11/21/morta-la-stilista-raffaella-curiel-lintellettuale-della-moda_f9c6a36c-fde8-42ad-8236-9c8009f2b064.html",
+        "https://www.lastampa.it/spettacoli/2026/11/21/news/e_morta_raffaella_curiel_una_delle_regine_della_moda_italiana-15805029/"
+      ]
+    },
+    {
+      "rank": 10,
+      "title": "Gianni De Gennaro, una vita ai vertici dello Stato tra mafia, servizi segreti e industria",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ansa.it",
+        "ilmessaggero.it",
+        "adnkronos.com",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.ansa.it/sito/photogallery/primopiano/2026/11/21/capo-della-polizia-poi-007-la-vita-di-gianni-de-gennaro-nelle-foto_3948a551-2975-420c-aa7c-ac4b28509bfb.html",
+        "https://www.ilmessaggero.it/persone/gianni_de_gennaro_chi_era_falcone_borsellino_capo_polizia_profilo-9904384.html",
+        "https://www.adnkronos.com/cronaca/gianni-de-gennaro-suicidio-chi-era_1lUnwpkO4StV4xwqZiK81G",
+        "https://www.ilsole24ore.com/art/de-gennaro-dall-antimafia-vertici-polizia-e-servizi-segreti-AJxV7LOC"
       ]
     }
   ]
