@@ -1,34 +1,74 @@
 {
   "date": "2026-11-23",
-  "generated_at": "Mon 23 Nov 01:39",
+  "generated_at": "Mon 23 Nov 17:53",
   "stories": [
     {
       "rank": 1,
-      "title": "Fallimento della Cop 31 sui combustibili fossili, la Ue non vota la bozza",
-      "source_count": 7,
-      "article_count": 8,
+      "title": "Sinner in Finlandia, si va verso l’operazione al ginocchio e uno stop di altri 3-4 mesi",
+      "source_count": 6,
+      "article_count": 10,
       "source_domains": [
         "repubblica.it",
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
         "lastampa.it",
-        "news.google.com"
+        "laverita.info",
+        "ansa.it",
+        "ilmessaggero.it",
+        "ilsole24ore.com"
       ],
       "links": [
-        "https://www.repubblica.it/esteri/2026/11/23/news/cop31_impegni_vaghi_scappatoie_per_petrolieri_spaccatura_insanabile-425742735/",
-        "https://www.adnkronos.com/internazionale/esteri/cop31-fallita-combustibili-fossili-news_6ncFVaAdEz2QKJJuRr2wHK",
-        "https://www.ilmessaggero.it/economia/news/cop31_fallisce_combustibili_fossili-9906606.html",
-        "https://www.ansa.it/ansa2030/notizie/energia_energie/2026/11/22/niente-accordo-sui-combustibili-fossili-fallisce-la-cop31_99eaed9c-073d-431f-8e97-9ceea7a67b6c.html",
-        "https://www.ilfattoquotidiano.it/2026/11/22/cop31-fallita-guterres-combustibili-fossili-notizie/8580379/"
+        "https://www.repubblica.it/sport/tennis/2026/11/23/news/sinner_infortunio_tappe_vicenda-425744582/",
+        "https://www.lastampa.it/sport/tennis/2026/11/23/news/lasse_lempainen_chi_e_chirurgo_finlandese_che_opera_sinner-15806904/",
+        "https://www.laverita.info/storie-di-sport/sinner-operazione-ginocchio-ranking",
+        "https://bologna.repubblica.it/sport/2026/11/23/news/lempainen_sinner_finlandia_operazione_ginocchio-425744201/",
+        "https://www.lastampa.it/sport/2026/11/23/news/sinner_operazione_ginocchio_perche-15806742/"
       ]
     },
     {
       "rank": 2,
+      "title": "Le ultime ore di De Gennaro, gli spari poco prima dell’alba: due bossoli all’esame di chi indaga",
+      "source_count": 6,
+      "article_count": 9,
+      "source_domains": [
+        "adnkronos.com",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it",
+        "ansa.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://www.adnkronos.com/cronaca/morte-de-gennaro-riunione-procura-grosseto-sequestro-video_7bi2ml6htGNrHa72NqXSHh",
+        "https://www.ilmessaggero.it/italia/de_gennaro_pistola_spari_bossolo_giardino-9907924.html",
+        "https://www.repubblica.it/cronaca/2026/11/23/news/de_gennaro_ultime_ore_sparo_di_prova_lettere_suicidio_montiano-425743175/",
+        "https://www.lastampa.it/cronaca/2026/11/23/news/de_gennaro_lettere_segrete_autopsia-15806473/",
+        "https://www.lastampa.it/cronaca/2026/11/23/news/le_lettere_di_de_gennaro_sotto_il_faro_dell_antimafia_test_su_calligrafia_e_telefono-15806261/"
+      ]
+    },
+    {
+      "rank": 3,
+      "title": "Nave russa colpita in Libia da un attacco a lungo raggio ucraino. Mosca colpisce Dymer",
+      "source_count": 5,
+      "article_count": 9,
+      "source_domains": [
+        "laverita.info",
+        "lastampa.it",
+        "ansa.it",
+        "ilmessaggero.it",
+        "adnkronos.com"
+      ],
+      "links": [
+        "https://www.laverita.info/geopolitica/russia-ucraina-libia-mediterraneo",
+        "https://www.lastampa.it/esteri/2026/11/23/news/guerra_russia_ucraina_baltico_libia-15806762/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/23/zelensky-rivendica-gli-attacchi-alle-navi-russe-in-libia-operazione-esemplare_819461b5-d139-49ae-9b7d-9d179e6481b3.html",
+        "https://www.lastampa.it/esteri/2026/11/23/video/libia-attacchi-navi-russe-video-zelensky-15806567/",
+        "https://www.ilmessaggero.it/mondo/navi_russe_libia_droni_albania_guerra_ucraina_russia_mediterraneo_ultime_notizie-9907691.html"
+      ]
+    },
+    {
+      "rank": 4,
       "title": "Alcaraz si laurea 'maestro', vince le sue prime Atp Finals",
       "source_count": 5,
-      "article_count": 8,
+      "article_count": 7,
       "source_domains": [
         "ilfattoquotidiano.it",
         "ansa.it",
@@ -45,28 +85,88 @@
       ]
     },
     {
-      "rank": 3,
-      "title": "Nave russa colpita in Libia da un attacco a lungo raggio ucraino. Mosca colpisce Dymer",
+      "rank": 5,
+      "title": "Allarmi bomba in 450 scuole in Germania, la mail: «La morte ti aspetta». Paura anche in Danimarca",
       "source_count": 6,
       "article_count": 6,
       "source_domains": [
+        "laverita.info",
         "ansa.it",
-        "lastampa.it",
-        "ilmessaggero.it",
-        "adnkronos.com",
         "repubblica.it",
-        "ilfattoquotidiano.it"
+        "ilmessaggero.it",
+        "lastampa.it",
+        "news.google.com"
       ],
       "links": [
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/22/nave-militare-russa-colpita-a-bengasi-sono-stati-gli-ucraini-_957fd3f3-aa7b-4ed5-b2d5-03500486cfde.html",
-        "https://www.lastampa.it/esteri/2026/11/23/diretta/guerra_russia_ucraina_news_oggi-15806271/",
-        "https://www.ilmessaggero.it/mondo/russia_sotto_attacco_libia_droni_ucraini_navi_distrutte_cosa_sta_succedendo-9906566.html",
-        "https://www.adnkronos.com/internazionale/esteri/bengasi-esplosione-nave-russa-corvetta-merkury-attacco_42Qpcvj6I4XtMJkoCUCbyw",
-        "https://www.repubblica.it/esteri/2026/11/22/news/dafinlandia_a_libia_kiev_colpisce_un_altra_nave_russa_cosi_ucraina_cambia_geografia_della_guerra-425742308/"
+        "https://www.laverita.info/mondo/allarme-bomba-scuole-germania-danimarca",
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/23/allarmi-bomba-stamattina-in-centinaia-di-scuole-in-germania-e-danimarca_f62f1019-227e-4c45-8954-e1f2d4f46b67.html",
+        "https://www.repubblica.it/esteri/2026/11/23/news/allarmi_bomba_scuole_germania_e_danimarca-425743708/",
+        "https://www.ilmessaggero.it/mondo/germania_allarmi_bomba_cosa_succede_danimarca_oggi-9907877.html",
+        "https://www.lastampa.it/esteri/2026/11/23/news/allarme_bomba_scuole_oggi_germania_danimarca-15806616/"
       ]
     },
     {
-      "rank": 4,
+      "rank": 6,
+      "title": "Niente accordo sui combustibili fossili, fallisce la Cop31",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "ansa.it",
+        "repubblica.it",
+        "adnkronos.com",
+        "ilmessaggero.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/11/23/cop31-fallita-accordo-clima-italia-analisi/8581125/",
+        "https://www.ansa.it/ansa2030/notizie/green_blue/2026/11/23/la-delusione-di-pechino-per-il-mancato-accordo-alla-cop31-ma-la-transizione-verde-e-irreversibile_12f4492d-7ced-4afa-adff-6a39744369bf.html",
+        "https://www.repubblica.it/esteri/2026/11/23/news/cop31_impegni_vaghi_scappatoie_per_petrolieri_spaccatura_insanabile-425742735/",
+        "https://www.adnkronos.com/internazionale/esteri/cop31-fallita-combustibili-fossili-news_6ncFVaAdEz2QKJJuRr2wHK",
+        "https://www.ilmessaggero.it/economia/news/cop31_fallisce_combustibili_fossili-9906606.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "Nvidia, torna Jensen Huang. Reintegrato come presidente e ceo. Trump: “Ho convinto il cda”",
+      "source_count": 5,
+      "article_count": 6,
+      "source_domains": [
+        "adnkronos.com",
+        "laverita.info",
+        "ilmessaggero.it",
+        "repubblica.it",
+        "lastampa.it"
+      ],
+      "links": [
+        "https://www.adnkronos.com/internazionale/esteri/huang-nvidia-trump-azioni-wall-street_2veUbpxB2q24vRVAhtF14n",
+        "https://www.laverita.info/mondo/nvidia-huang-reintegrato",
+        "https://www.ilmessaggero.it/mondo/huang_nvidia_presidente_oggi-9908123.html",
+        "https://www.repubblica.it/economia/2026/11/23/news/nvidia_jensen_huang_torna-425744140/",
+        "https://www.lastampa.it/economia/2026/11/23/news/nvidia_annuncio_ritorno_huang-15806733/"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "L’allarme dell’intelligence occidentale: Mosca pronta a lanciare un satellite con testata nucleare",
+      "source_count": 5,
+      "article_count": 5,
+      "source_domains": [
+        "laverita.info",
+        "lastampa.it",
+        "ilmessaggero.it",
+        "ansa.it",
+        "repubblica.it"
+      ],
+      "links": [
+        "https://www.laverita.info/mondo/russia-nucleare-satellite-putin",
+        "https://www.lastampa.it/esteri/2026/11/23/news/russia_satellite_testate_nucleari_spazio_sputnik_s-15806728/",
+        "https://www.ilmessaggero.it/mondo/russia_satellite_arma_nucleare_sputnik_s_allarme_nato_pentagono_ultime_notizie-9908020.html",
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/23/per-i-media-tedeschi-mosca-e-pronta-a-schierare-unarma-nucleare-nello-spazio_30d84697-2090-481e-a7b1-1d9d7ebe82dd.html",
+        "https://www.repubblica.it/esteri/2026/11/23/news/allarme_intelligence_occidentale_mosca_pronta_lanciare_satellite_nucleare_conseguenze_attacco-425743886/"
+      ]
+    },
+    {
+      "rank": 9,
       "title": "L'Inter segna a raffica ma non sa gestire: 4-4 folle con l'Atalanta",
       "source_count": 4,
       "article_count": 5,
@@ -85,101 +185,21 @@
       ]
     },
     {
-      "rank": 5,
-      "title": "De Gennaro, la morte che divide. D’Alema: “Come sono andate certe cose non lo sapremo mai”",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "repubblica.it",
-        "lastampa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/cronaca/2026/11/22/news/de_gennaro_suicidio_reazioni_d_alema_di_pietro_contorno_contrada-425742668/",
-        "https://palermo.repubblica.it/cronaca/2026/11/22/news/quale_istigazione_giusto_che_i_pm_cerchino_risposte-425741452/",
-        "https://www.lastampa.it/cronaca/2026/11/22/news/de_gennaro_e_quella_confidenza_fatta_a_casini_se_non_fosse_per_mia_moglie_mi_sparerei-15805617/",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcE93aTZXUHFDaHMzMllqM0RQNkpOUEc3a3hfWXFibkRQQ2VmemhCV0VDMHpSSHp0N1JkbEdzRk5IRlhvWGpCUlVMUV94UFBMbmNEdW14cmxHbWxvU2owTWxVVVRMcXVSVHNXQkNDMElMbllvRFZCQzJsay1RZUxLX3dqMkU?oc=5"
-      ]
-    },
-    {
-      "rank": 6,
-      "title": "Motogp, storico Marc Marquez, conquista il suo decimo titolo mondiale e supera Valentino Rossi",
-      "source_count": 3,
-      "article_count": 4,
-      "source_domains": [
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/sport/moto/2026/11/22/motogp-storico-marc-marquez-conquista-il-suo-decimo-titolo-mondiale-e-supera_654d3d62-960e-442e-a10c-eb8359e9aa1c.html",
-        "https://www.ilfattoquotidiano.it/2026/11/22/marc-marquez-campione-motogp-superato-valentino-rossi-disposto-a-tutto-per-vincere-lezione-agli-avversari/8564806/",
-        "https://www.ilfattoquotidiano.it/2026/11/22/marquez-campione-motogp-ottavo-titolo-notizie/8579610/",
-        "https://www.lastampa.it/sport/2026/11/22/news/motogp_portogallo_primo_bezzecchi_marquez_vince_il_10_mondiale-15805919/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "Portanova, condannato per stupro, in campo con la fascia anti-violenza. La vittima: «Beffa atroce»",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "firenze.repubblica.it",
-        "ilmessaggero.it",
-        "ansa.it"
-      ],
-      "links": [
-        "https://firenze.repubblica.it/cronaca/2026/11/23/news/portanova_intervista_vittima_stupro_fascia_reggiana-425742940/",
-        "https://www.ilmessaggero.it/italia/portanova_condannato_stupro_fascia_anti_violenza_vittima_beffa_atroce-9906659.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/11/22/condannato-per-stupro-portanova-in-campo-contro-la-violenza_19f9ebbb-5528-43cc-8410-14a34658e0f1.html"
-      ]
-    },
-    {
-      "rank": 8,
+      "rank": 10,
       "title": "Grillo: \"Se il giudice mi dà ragione, mi riprendo il M5S. Solo io posso cambiare l'Italia\"",
-      "source_count": 3,
-      "article_count": 3,
+      "source_count": 4,
+      "article_count": 4,
       "source_domains": [
+        "lastampa.it",
         "ansa.it",
         "adnkronos.com",
         "repubblica.it"
       ],
       "links": [
+        "https://www.lastampa.it/politica/2026/11/23/news/grillo_torna_in_tv_e_sfida_conte_il_simbolo_m5s_e_mio_me_lo_riprendo_poi_l_annuncio_sui_giovani-15806318/",
         "https://www.ansa.it/sito/notizie/politica/2026/11/22/grillo-show-e-avvisa-se-il-giudice-dice-che-il-movimento-e-mio-me-lo-riprendo_d85903d4-9afa-4b58-b602-96ed3ea730be.html",
         "https://www.adnkronos.com/politica/beppe-grillo-che-tempo-che-fa-intervista_7uaCtsj9AgTVtN4LIQEZkc",
         "https://www.repubblica.it/politica/2026/11/22/news/beppe_grillo_fazio_m5s_conte_di_battista_di_maio-425742775/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Di Lello: “A Caltanissetta vogliono ribaltare la storia, il Csm deve intervenire”",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ilmessaggero.it",
-        "palermo.repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/de_gennaro_dubbi_date_depistaggio_cosa_significa-9906661.html",
-        "https://palermo.repubblica.it/cronaca/2026/11/22/news/di_lello_a_caltanissetta_vogliono_ribaltare_la_storia_il_csm_deve_intervenire-425741465/",
-        "https://www.lastampa.it/cronaca/2026/11/22/news/caltanissetta_la_procura_e_lo_scontro_con_i_magistrati_antimafia_da_pignatone_a_scarpinato-15805574/"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "È morto Massimo Martelli, noto sceneggiatore e regista tv",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "ansa.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ansa.it/sito/notizie/cultura/2026/11/22/morto-massimo-martelli-sceneggiatore-e-regista-di-programmi-tv-famosi-da-anima-mia-a-sanremo_4f24e798-dc62-450e-b7da-0f3e2ad0fc5c.html",
-        "https://www.ilmessaggero.it/persone/massimo_martelli_morto_eta_autore_rai_sanremo_chi_era_malattia-9906008.html",
-        "https://www.lastampa.it/spettacoli/2026/11/22/news/e_morto_massimo_martelli_noto_sceneggiatore_e_regista_tv-15805719/"
       ]
     }
   ]
