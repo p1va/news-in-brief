@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "Thu 26 Nov 01:03",
+  "generated_at": "Thu 26 Nov 01:53",
   "stories": [
     {
       "rank": 1,
@@ -126,6 +126,24 @@
     },
     {
       "rank": 7,
+      "title": "Egitto: inferno di fuoco sulla tangenziale del Cairo, almeno 30 morti",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "lastampa.it",
+        "adnkronos.com",
+        "ansa.it",
+        "news.google.com"
+      ],
+      "links": [
+        "https://www.lastampa.it/esteri/2026/11/26/news/egitto_esplosione_il_cairo_autocisterna_morti_feriti-15809607/",
+        "https://www.adnkronos.com/internazionale/esteri/incendio-egitto-cairo-morti-feriti-autocisterna_7ClISslkbZ40OQhjmcBqhZ",
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/25/egitto-inferno-di-fuoco-sulla-tangenziale-del-cairo-almeno-30-morti_3d8b1b48-3476-465e-9b7e-7ae215e3b910.html",
+        "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1TDcwajFYRGRvUmlhYUJtWEpLSmdvWnZSa0Q2cjZVUVVZV3MwZ3IxTlhxV0tYRlM5bEdDY2puTV91ZWthYWRheFBPTk43SDFSQWxldmVwM3ZSblJISXlEdmZDdURVUXcwMVJ2VlByUQ?oc=5"
+      ]
+    },
+    {
+      "rank": 8,
       "title": "Coppa Davis: l'Italia soffre ma supera la Corea e conquista la semifinale",
       "source_count": 3,
       "article_count": 4,
@@ -142,7 +160,24 @@
       ]
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "title": "De Gennaro, la lettera d’addio: “Non ho tradito la Patria, un condannato a morte non mente”",
+      "source_count": 3,
+      "article_count": 4,
+      "source_domains": [
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.repubblica.it/cronaca/2026/11/26/news/de_gennaro_ultima_lettera_non_sono_un_traditore-425750862/",
+        "https://www.ilmessaggero.it/italia/de_gennaro_seconda_talpa_sfogo_lettera_tradimento_cosa_sappiamo-9913042.html",
+        "https://www.ansa.it/sito/notizie/cronaca/2026/11/25/le-lettere-di-de-gennaro-lhard-disk-non-ve-lho-dato-perche-non-avreste_990dcfdb-4804-4496-9613-4036357dd514.html",
+        "https://www.repubblica.it/cronaca/2026/11/25/news/le_ultime_dodici_ore_di_de_gennaro_la_lettera_al_procuratore_de_luca_scritta_nella_notte-425750080/"
+      ]
+    },
+    {
+      "rank": 10,
       "title": "Giornata internazionale per l'eliminazione della violenza contro le donne, dichiarazione del Presidente Meloni",
       "source_count": 3,
       "article_count": 4,
@@ -156,38 +191,6 @@
         "https://www.ansa.it/sito/notizie/speciali/25-novembre/2026/11/25/25-novembre-contro-la-violenza-sulle-donne-tutti-i-video_e2993453-7aeb-4dcf-bc4e-daa908cc8150.html",
         "https://www.governo.it/it/articolo/giornata-internazionale-leliminazione-della-violenza-contro-le-donne-dichiarazione-del-0",
         "https://www.lastampa.it/cronaca/2026/11/25/news/25_novembre_violenza_sulle_donne_mattarella_cause_culturali_sociali-15808592/"
-      ]
-    },
-    {
-      "rank": 9,
-      "title": "Il doppio volto dell'IA, tra sessismo e lotta alla violenza di genere",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "repubblica.it",
-        "ansa.it",
-        "news.google.com"
-      ],
-      "links": [
-        "https://www.repubblica.it/cronaca/2026/11/26/news/reato_femminicidio_vignetta_ellekappa-425750489/",
-        "https://www.ansa.it/sito/podcast/frida/2026/11/25/il-doppio-volto-dellia-tra-sessismo-e-lotta-alla-violenza-di-genere_9fda1f10-6a71-4fa9-b534-cf89a988da37.html",
-        "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SRFN4WWhZQ3luRkkxRm83OUVKOGhoYlA0dFhSdWhtZ0pLRmNBbV9qcG9Gb0NxWHphbjBsTXRpMktkOHpZR21ORUJ6LWtrX2hMa2NYLTY3RzR0djVYZEVOdmt3NG56bkRQX3hj?oc=5"
-      ]
-    },
-    {
-      "rank": 10,
-      "title": "Malen signore del gol anche a Parigi, la Roma ferma i campioni d’Europa del Psg",
-      "source_count": 3,
-      "article_count": 3,
-      "source_domains": [
-        "repubblica.it",
-        "ilmessaggero.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.repubblica.it/sport/calcio/champions/2026/11/25/news/psg_roma_gol_malen-425750694/",
-        "https://www.ilmessaggero.it/sport/schede/psg_roma_pagelle_hermoso_malen_dembele_classifica_champions_league-9913032.html",
-        "https://www.lastampa.it/sport/2026/11/25/news/psg_roma_champions_gol_highlights-15809557/"
       ]
     }
   ]
