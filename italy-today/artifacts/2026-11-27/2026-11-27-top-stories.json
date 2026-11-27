@@ -1,64 +1,61 @@
 {
   "date": "2026-11-27",
-  "generated_at": "Fri 27 Nov 01:47",
+  "generated_at": "Fri 27 Nov 16:33",
   "stories": [
     {
       "rank": 1,
-      "title": "Attacco con droni in Kuwait, chi sono i due tecnici italiani rimasti uccisi",
+      "title": "Droni sul Kuwait, morti due tecnici italiani di 65 e 36 anni. Le accuse all'Iran, la smentita di Teheran",
       "source_count": 8,
-      "article_count": 12,
+      "article_count": 9,
       "source_domains": [
+        "lastampa.it",
         "ansa.it",
         "adnkronos.com",
         "ilmanifesto.it",
         "ilmessaggero.it",
         "ilfattoquotidiano.it",
         "laverita.info",
-        "repubblica.it",
-        "lastampa.it"
+        "repubblica.it"
       ],
       "links": [
+        "https://www.lastampa.it/politica/2026/11/27/news/attacco_libia_tajani_zelensky-15811486/",
         "https://www.ansa.it/sito/notizie/mondo/2026/11/26/due-tecnici-italiani-della-rheinmetall-morti-in-un-attacco-in-kuwait_060489c8-4e35-4f04-9c6a-ade4a80acda4.html",
         "https://www.adnkronos.com/internazionale/esteri/kuwait-attacco-drone-italiani-morti-cosa-sappiamo_5gZ5lXDuqgcBWqfDRvdje3",
         "https://ilmanifesto.it/golfo-attacco-sul-kuwait-morti-due-tecnici-italiani",
-        "https://www.ilmessaggero.it/mondo/italiani_morti_kuwait_emanuele_lo_russo_amore_oriente_antonio_saccoccio_pensione_chi_erano_ultime_notizie-9915300.html",
-        "https://ilmanifesto.it/la-guerra-sul-raccordo-anulare"
+        "https://www.ilmessaggero.it/mondo/italiani_morti_kuwait_emanuele_lo_russo_amore_oriente_antonio_saccoccio_pensione_chi_erano_ultime_notizie-9915300.html"
       ]
     },
     {
       "rank": 2,
-      "title": "Uccide la compagna Ionela, poi si dà fuoco e si getta dal viadotto, lo stesso di Lorena Isceri",
-      "source_count": 7,
-      "article_count": 8,
+      "title": "De Gennaro, il testamento morale e quelle domande rimaste senza risposta",
+      "source_count": 5,
+      "article_count": 6,
       "source_domains": [
-        "adnkronos.com",
-        "ilmessaggero.it",
-        "ansa.it",
-        "firenze.repubblica.it",
         "lastampa.it",
-        "agi.it",
-        "news.google.com"
+        "repubblica.it",
+        "ilmessaggero.it",
+        "ilmanifesto.it",
+        "ansa.it"
       ],
       "links": [
-        "https://www.adnkronos.com/cronaca/femminicidio-pistoia-24enne-uccisa-compagno-suicida_4K5CY9uOPwpHOz7EA9l37R",
-        "https://www.ilmessaggero.it/italia/ionela_miruna_garneata_uccisa_andrea_nardini_ultime_notizie-9915291.html",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/11/26/uccide-compagna-poi-si-getta-dal-viadotto-lo-stesso-cavalcavia-di-lorena-isceri_6f905f2b-8704-4a58-90da-00838cbf4689.html",
-        "https://firenze.repubblica.it/cronaca/2026/11/26/news/andrea_nardini_ionela_morta_uccido_chiamata_112-425752100/",
-        "https://firenze.repubblica.it/cronaca/2026/11/26/news/uccide_compagna_viadotto_lorena_isceri_pistoiese-425751488/"
+        "https://www.lastampa.it/cronaca/2026/11/27/news/de_gennaro_ultima_lettera_testo_integrale-15811432/",
+        "https://www.lastampa.it/editoriali/lettere-e-idee/2026/11/27/news/nei_messaggi_di_de_gennaro_una_sfida_per_lo_stato-15810852/",
+        "https://www.repubblica.it/politica/2026/11/27/news/testamento_morale_de_gennaro_domande_senza_risposta-425753601/",
+        "https://www.ilmessaggero.it/italia/gianni_de_gennaro_lettera_suicidio_cosa_c_e_scritto_testo-9915302.html",
+        "https://ilmanifesto.it/de-gennaro-lultima-parola-nessun-mistero-solo-potere"
       ]
     },
     {
       "rank": 3,
       "title": "Bce, De Cos succede a Lagarde: sì dei governi. Sanchez esulta. Posti chiave a Parigi e Berlino",
-      "source_count": 6,
-      "article_count": 6,
+      "source_count": 5,
+      "article_count": 5,
       "source_domains": [
         "repubblica.it",
         "ansa.it",
         "ilmanifesto.it",
         "ilmessaggero.it",
-        "laverita.info",
-        "lastampa.it"
+        "laverita.info"
       ],
       "links": [
         "https://www.repubblica.it/esteri/2026/11/27/news/consiglio_europeo_accordo_tra_leader_sulla_bce_la_guida_allo_spagnolo_de_cos_stallo_bilancio_e_ucraina-425753425/",
@@ -70,26 +67,6 @@
     },
     {
       "rank": 4,
-      "title": "La lettera-testamento di De Gennaro: \"Un condannato a morte non può mentire, ho obbedito agli ordini\"",
-      "source_count": 5,
-      "article_count": 6,
-      "source_domains": [
-        "ilmessaggero.it",
-        "ilmanifesto.it",
-        "ansa.it",
-        "ilfattoquotidiano.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://www.ilmessaggero.it/italia/gianni_de_gennaro_lettera_suicidio_cosa_c_e_scritto_testo-9915302.html",
-        "https://ilmanifesto.it/de-gennaro-lultima-parola-nessun-mistero-solo-potere",
-        "https://www.ansa.it/sito/notizie/cronaca/2026/11/26/la-lettera-di-de-gennaro-sul-corriere-io-condannato-a-morte_8d506c3b-6d62-4d78-a4a7-2c6bed64af4a.html",
-        "https://www.ilfattoquotidiano.it/2026/11/26/de-gennaro-riunione-redazione-gomez-diretta/8584977/",
-        "https://www.ilfattoquotidiano.it/2026/11/26/de-gennaro-apparati-segreti-stato-notizie/8584365/"
-      ]
-    },
-    {
-      "rank": 5,
       "title": "Juventus a un passo dagli ottavi di Europa League: 4-1 all’Omonia",
       "source_count": 5,
       "article_count": 5,
@@ -109,47 +86,25 @@
       ]
     },
     {
-      "rank": 6,
-      "title": "De Gennaro, Meloni: “No ai giochi delle tifoserie”. Mattarella parteciperà ai funerali",
-      "source_count": 5,
-      "article_count": 5,
+      "rank": 5,
+      "title": "Marc Marquez si ritira: “A Valencia ultima gara. Problemi al braccio, la felicità non ha costo”",
+      "source_count": 3,
+      "article_count": 7,
       "source_domains": [
-        "ilmanifesto.it",
-        "ilmessaggero.it",
-        "ilfattoquotidiano.it",
         "repubblica.it",
-        "lastampa.it"
-      ],
-      "links": [
-        "https://ilmanifesto.it/mattarella-partecipera-ai-funerali-di-de-gennaro-meloni-no",
-        "https://www.ilmessaggero.it/politica/de_gennaro_funerali_meloni_mattarella-9915297.html",
-        "https://www.ilfattoquotidiano.it/2026/11/26/funerali-de-gennaro-mattarella-meloni-notizie/8584834/",
-        "https://www.repubblica.it/politica/2026/11/26/news/meloni_de_gennaro_procure_mantovano_funerale-425751775/",
-        "https://www.lastampa.it/cronaca/2026/11/26/news/meloni_de_gennaro_funerale_procura_inchiesta_suicidio-15809989/"
-      ]
-    },
-    {
-      "rank": 7,
-      "title": "La minaccia russa fa paura, Londra allerta 100.000 riservisti",
-      "source_count": 5,
-      "article_count": 5,
-      "source_domains": [
-        "adnkronos.com",
-        "ansa.it",
         "lastampa.it",
-        "repubblica.it",
         "ilmessaggero.it"
       ],
       "links": [
-        "https://www.adnkronos.com/internazionale/esteri/trump-putin-ucraina-nato-oggi_oinrM8wjiy7AF19en1kUz",
-        "https://www.ansa.it/sito/notizie/mondo/2026/11/26/gb-chiede-a-100-mila-riservisti-di-tenersi-pronti-in-caso-di-guerra_4e4aae73-a28f-4ae1-aab9-4016fcf8b2fb.html",
-        "https://www.lastampa.it/esteri/2026/11/26/news/inghilterra_riservisti_guerra-15810128/",
-        "https://www.repubblica.it/esteri/2026/11/26/news/riservisti_regno_unito_difesa_allerta_guerra-425751724/",
-        "https://www.ilmessaggero.it/mondo/guerra_russia_putin_gran_bretagna_richiama_centomila_riservisti_cosa_significa-9914417.html"
+        "https://www.repubblica.it/sport/moto-gp/2026/11/27/news/marquez_ritiro_valentino_infortuni_tasse_spagna_ritratto-425754735/",
+        "https://www.repubblica.it/sport/moto-gp/2026/11/27/news/reazioni_ritiro_marquez_agostini-425754680/",
+        "https://www.lastampa.it/sport/2026/11/27/video/marc_marquez_ritiro_motogp_annuncio_ducati_valencia_ultima_gara-15811545/",
+        "https://www.ilmessaggero.it/sport/moto/marc_marquez_si_ritira_valencia_ultima_gara_moto_gp_cosa_e_successo-9916609.html",
+        "https://www.repubblica.it/sport/moto-gp/2026/11/27/news/marc_marquez_si_ritira-425754320/"
       ]
     },
     {
-      "rank": 8,
+      "rank": 6,
       "title": "Emanuela Orlandi, l'ultimo mistero: il telefonista anonimo era un ex 007",
       "source_count": 4,
       "article_count": 4,
@@ -164,6 +119,41 @@
         "https://www.ilfattoquotidiano.it/2026/11/26/caso-emanuela-orlandi-chi-lha-visto-svela-il-nome-dietro-la-voce-del-telefonista-mario-e-lex-agente-del-sisde-claudio-martufi/8584785/",
         "https://www.lastampa.it/cronaca/2026/11/26/news/emanuela_orlandi_l_ultimo_mistero_il_telefonista_anonimo_era_un_ex_007-15810719/",
         "https://www.ilmessaggero.it/roma/metropoli/emanuela_orlandi_claudio_martufi_chi_e_telefonista_ultime_notizie-9915098.html"
+      ]
+    },
+    {
+      "rank": 7,
+      "title": "De Gennaro, Meloni: «No alle tifoserie, bisogna fare chiarezza». Mattarella sarà ai funerali",
+      "source_count": 4,
+      "article_count": 4,
+      "source_domains": [
+        "ilmanifesto.it",
+        "ilmessaggero.it",
+        "ilfattoquotidiano.it",
+        "ilsole24ore.com"
+      ],
+      "links": [
+        "https://ilmanifesto.it/mattarella-partecipera-ai-funerali-di-de-gennaro-meloni-no",
+        "https://www.ilmessaggero.it/politica/de_gennaro_funerali_meloni_mattarella-9915297.html",
+        "https://www.ilfattoquotidiano.it/2026/11/26/funerali-de-gennaro-mattarella-meloni-notizie/8584834/",
+        "https://www.ilsole24ore.com/art/de-gennaro-corso-l-autopsia-careggi-disposti-anche-esami-tossicologici-AJwsGVUC"
+      ]
+    },
+    {
+      "rank": 8,
+      "title": "Francesca Albanese respinta in Costa Rica: “Legami con i terroristi”",
+      "source_count": 3,
+      "article_count": 4,
+      "source_domains": [
+        "ilfattoquotidiano.it",
+        "lastampa.it",
+        "ansa.it"
+      ],
+      "links": [
+        "https://www.ilfattoquotidiano.it/2026/11/27/francesca-albanese-laurea-honoris-causa-costa-rica-diretta/8585841/",
+        "https://www.ilfattoquotidiano.it/2026/11/27/esclusivo-intervista-a-francesca-albanese-fermata-in-costa-rica-mi-hanno-detto-che-se-avessi-voluto-dormire-cera-la-cella-di-detenzione/8585722/",
+        "https://www.lastampa.it/esteri/2026/11/27/news/francesca_albanese_costa_rica_respinta_onu_scontro_governo_israele-15811307/",
+        "https://www.ansa.it/sito/notizie/mondo/2026/11/27/il-costa-rica-respinge-francesca-albanese-relatrice-onu-per-i-territori-palestinesi_a89517c3-d027-4d75-99d6-19f99fa5a15b.html"
       ]
     },
     {
@@ -184,18 +174,18 @@
     },
     {
       "rank": 10,
-      "title": "La flat tax iniqua che allarga il divario tra ricchi e precari",
+      "title": "Il Milan va sotto ma poi si scatena: rimonta ad Atene, 4-2 all'Olympiacos",
       "source_count": 3,
       "article_count": 3,
       "source_domains": [
-        "ilmanifesto.it",
-        "ilfattoquotidiano.it",
-        "ilsole24ore.com"
+        "repubblica.it",
+        "lastampa.it",
+        "ilmessaggero.it"
       ],
       "links": [
-        "https://ilmanifesto.it/la-flat-tax-iniqua-che-allarga-il-divario-tra-ricchi-e-precari",
-        "https://www.ilfattoquotidiano.it/2026/11/26/il-buco-flat-tax-regalo-da-4-miliardi-agli-autonomi-piu-benestanti/8584993/",
-        "https://www.ilsole24ore.com/art/flat-tax-100mila-euro-meloni-all-attacco-sinistra-confonde-fatturato-e-stipendio-AJamrgGC"
+        "https://www.repubblica.it/sport/calcio/coppe/2026/11/26/news/olympiacos_milan_gol-425753351/",
+        "https://www.lastampa.it/sport/2026/11/26/news/gran_ripresa_rossonera_il_milan_vince_in_rimonta_con_l_olympiakos_2-4-15810741/",
+        "https://www.ilmessaggero.it/sport/schede/milan_olympiacos_pagelle_europa_league_cisse_hutchinson_pulisic_moreira_classifica-9915133.html"
       ]
     }
   ]
